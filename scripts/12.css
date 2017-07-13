@@ -1,0 +1,276 @@
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+background: #000000;
+}
+#outer{ 
+margin: 0 auto;
+width: 750px;
+padding: 0% 1% 1% 1%;
+background: #06091C;
+}
+
+#header {
+width: 750px;
+padding: 10px 0 0 0;
+height: 156px;
+background-image:url(http://musicfamily.org/realm/Factions/picks/RealmGrinderHeader.png);
+}
+#challenge {
+width: 750px;
+padding: 10px 0 0 0;
+height: 160px;
+background-image:url(picks/challenge.png);
+}
+
+#navbox{
+margin: 0;
+border:0px solid #000; 
+width: 750px;
+height:20px;
+position: relative;
+}
+
+
+#parent {
+font-size: 9px;
+overflow: auto
+margin: 0;
+width: 750px; 
+background-image:url(picks/parent.jpg);
+}
+
+h1{
+margin: 100px 0 0 9px;
+width: 45%;
+font-size: 1.7em;
+color:#06091C;
+letter-spacing: .3em;
+font-family : "tahoma", verdana, arial,sans-serif ;
+}
+
+h2{
+margin: 0 auto;
+width: 49%;
+font-size: .9em;
+letter-spacing: .3em;
+color:#7B87B7;
+font-family : "Lucida Grande", verdana,arial,sans-serif;
+border:0px solid #fff;
+}
+
+h3{
+width: 49%;
+font-size: .9em;
+letter-spacing: .2em;
+color:#06091C;
+font-family : "engravers mt bold", verdana,arial,sans-serif;
+margin: 8px;
+}
+
+h4{
+text-align: center;
+margin: 0 0 20px 0px; 
+font-size: .9em;
+letter-spacing: .3em;
+color:#7B87B7;
+font-family : "engravers mt bold", verdana,arial,sans-serif;
+}
+
+#leftcolumn { 
+display: inline;
+color: #000;
+margin: 30px 0 0 1px;
+padding: 0px;
+width: 186px;
+float: left; 
+}
+
+#leftbox { 
+background-image:url(http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png);
+background-repeat: no-repeat;
+background-position:center top;
+text-align: center;
+height: 60px;
+padding: 45px 0 0 0 ;
+border:0px solid #fff;
+}
+
+#navlist{
+padding: 2px;
+margin-left: 12px;
+font: bold 12px Verdana, sans-serif;
+width: 13em;
+}
+
+#navlist li{
+list-style: none;
+margin: 0;
+padding: 0.20em 1.5em;
+border: 1px solid;
+border-color: #7D839D  #53629B #53629B #424D9C;
+text-align: center; 
+}
+
+#navlist li a { text-decoration: none; }
+#navlist li a:link { color: black; }
+#navlist li a:visited { color: black; }
+#navlist li a:hover {color : #ffffff; } 
+
+#navlist2{
+padding: 2px;
+margin-left: 12px;
+font: bold 12px Verdana, sans-serif;
+width: 13em;
+}
+
+#navlist2 li{
+list-style: none;
+margin: 0;
+padding: 0.30em 1.5em;
+border: 1px solid;
+border-color: #7D839D  #53629B #53629B #424D9C;
+text-align: center; 
+}
+
+#navlist2 li a { text-decoration: none; }
+#navlist2 li a:link { color: black; }
+#navlist2 li a:visited { color: gray; }
+#navlist2 li a:hover {color : #9CAAB7; }
+
+
+div.leftholder {  
+border-top:1px solid #7785B4;
+margin: 0 0 0 .5em; 
+padding: .5em 0 .8em 1.2em; 
+border-bottom:2px solid #234; 
+background-image:url(picks/30.png); 
+width: 95%;
+}
+
+div.holder {  
+margin: 0 auto; 
+padding: 0; 
+background-image:url(picks/30.png); 
+width: 97%;
+text-align: center; 
+}
+
+
+img.left {
+float:left;
+margin-right:9px;
+border:0px solid #B5B5B5;
+}
+
+div.leftholder image:hover {
+border:4px solid #000;
+background:#;
+}
+
+#rightcolumn { 
+float: right;
+font-size:1.2em;
+color: #000;
+background: #;
+margin: 30px 0 0 0;
+padding: 5px;
+width: 539px;
+display: inline;
+position: relative;
+border:0px solid #fff; 
+}
+#rightcolumn p {
+margin: 2px 0px 5px 0px; 
+font-family : 'Verdana', Geneva, Lucida, Helvetica, Arial, sans-serif; 
+color : #000; 
+font-size : 1.0em; 
+letter-spacing:.02em;
+padding: .2em 5px 0 5px;
+border-bottom:0px solid #D87A18
+}
+
+#rightcolumn a:link { color: #000; text-decoration : underline;}
+#rightcolumn a:visited { color: #000; }
+#rightcolumn a:hover {color : #FFE7BE; }
+
+.rightbox { 
+float: right;
+text-align: center;
+font-size:1.2em;
+color: #000;
+background-image:url(http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png);
+background-repeat: no-repeat;
+margin: 10px 10px 10 6px;
+padding: 0 0 0 0;
+width: 157px;
+display: inline;
+position: relative;
+border:0px solid #fff; 
+}
+
+.rightboxcontent { 
+padding: 0 0 10px 0;
+margin: 46px 0 ;
+border:0px solid #fff;
+}
+
+label{
+font-weight: bold; 
+font-size: 11px; color: #7B87B7;
+}
+
+input.button{
+background-color: #5C5C5C; 
+font-weight: bold; 
+font-size: 15px; color: #DEDA9B;
+border:0px solid #000; 
+}
+
+input {
+background-image:url(picks/input.jpg);
+background-color: #929292; 
+font-size: 12px;
+border:0px solid #000; 
+}
+
+
+
+.menu {font-family: arial, sans-serif; width:860px; position:relative; margin:-3; font-size:12px; margin: 0px 0px 0px 1px; z-index:100;}
+.menu ul li a, .menu ul li a:visited {display:block; text-decoration:none; color:#000;width:104px; height:18px; text-align:center; color:#ffffff; border:1px solid #ffffff; background:#06091C; line-height:20px; font-size:12px; overflow:hidden;}
+.menu ul {padding:0; margin:-2px -4px -3px 0px;list-style-type: none; }
+.menu ul li {float:left; margin-right:1px; position:relative;}
+.menu ul li ul {display: none;}
+
+/* specific to non IE browsers */
+.menu ul li:hover a {color:#fff; background:#000;}
+.menu ul li:hover ul {display:block; position:absolute; top:21px; left:1; width:105px;}
+.menu ul li:hover ul li a.hide {background:#525E92; color:#fff;}
+.menu ul li:hover ul li:hover a.hide {background:#525E92; color:#000;}
+.menu ul li:hover ul li ul {display: none;}
+.menu ul li:hover ul li a {display:block; background:#525E92; color:#fff;}
+.menu ul li:hover ul li a:hover {background:#525E92; color:#000;}
+.menu ul li:hover ul li:hover ul {display:block; position:absolute; left:104px; top:0;}
+.menu ul li:hover ul li:hover ul.left {left:-105px;}
+
+#footer a { text-decoration: none; 
+border:1px solid; 
+border-color: #AAA #666 #666 #AAA;
+padding: 1px 5px 1px 5px;
+}
+#footer a:link { color: black; }
+#footer a:visited { color: gray; }
+#footer a:hover {color : #006600; } 
+
+#footer { 
+text-align: center; 
+font: bold 14px Verdana, sans-serif;
+border: 0px solid;
+width: 723px;
+clear: both;
+color: #000;
+background: transparent;
+padding: 10px;
+}
+.clear { clear: both; background: none; }

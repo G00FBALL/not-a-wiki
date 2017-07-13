@@ -1,0 +1,364 @@
+#s-m-t-tooltip{
+    /* basic */
+    max-width:450px;
+	z-index:100;
+	margin:-50px 20px 20px 20px;
+	/* style and design */
+	padding:8px;
+	background:#000;
+	background:black;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+    border-radius:20px;
+	box-shadow:0px 0px 10px 10px #4c5b86;
+	/* font */
+	font-family:Verdana,Geneva,sans-serif;
+	font-size:16px;
+	line-height:15px;
+	color:#fff;
+}
+
+a .hover :hover {
+    text-decoration: underline;
+}
+
+.in {
+    opacity: 1
+}
+
+.collapse {
+    display: none
+}
+
+.collapse.in {
+    display: block
+}
+
+tr
+.collapse.in {
+    display: table-row
+}
+
+tbody
+.collapse.in {
+    display: table-row-group
+}
+
+.collapsing {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    border-top: 1px #000;
+    border-left: 1px #000
+}
+
+.dropdown,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background: #000;
+}
+
+#outer {
+    margin: 0 auto;
+    width: 950px;
+    padding: .8% .8% .8% .8%;
+    background: #4c5b86;
+}
+
+#header {
+    overflow: auto;
+    width: 950px;
+    height: 166px;
+    background-image: url(http://musicfamily.org/realm/Factions/picks/ResearctTreeHeader.png);
+}
+
+#navbox {
+    margin: 1;
+    border: 5px solid #000;
+    width: 938px;
+    height: 23px;
+    position: relative;
+}
+
+#parent {
+    margin: 0;
+    overflow: auto;
+    width: 950px;
+    background: #98AFC7;
+}
+
+
+#leftcolumn {
+    display: inline;
+    color: #000;
+    margin: 30px 0 0 1px;
+    padding: 0px;
+    width: 186px;
+    float: left;
+}
+
+#leftbox {
+    background-image: url(http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: left;
+    height: 60px;
+    padding: 40px 0 0 0;
+    border: 0px solid #fff;
+}
+#navlist {
+    padding: 2px;
+    margin-left: 12px;
+    font: bold 12px Verdana, sans-serif;
+    width: 13em;
+}
+#navlist li {
+    list-style: none;
+    margin: 0;
+    padding: 0.20em 1.5em;
+    border: 1px solid;
+    border-color: #7D839D #53629B #53629B #424D9C;
+    text-align: center;
+}
+
+#navlist li a {
+    text-decoration: none;
+}
+
+#navlist li a:link {
+    color: #000000;
+}
+
+#navlist li a:visited {
+    color: #000000;
+}
+
+#navlist li a:hover {
+    color: #ffffff;
+}
+
+#navlist2 {
+    padding: 2px;
+    margin-left: 12px;
+    font: bold 12px Verdana, sans-serif;
+    width: 13em;
+}
+
+#navlist2 li {
+    list-style: none;
+    margin: 10;
+    padding: 0.30em 1.5em;
+    border: 1px solid;
+    border-color: #7D839D #53629B #53629B #424D9C;
+    text-align: center;
+}
+
+#navlist2 li a {
+    text-decoration: none;
+}
+
+#navlist2 li a:link {
+    color: black;
+}
+
+#navlist2 li a:visited {
+    color: gray;
+}
+
+#navlist2 li a:hover {
+    color: #9CAAB7;
+}
+
+#rightcolumn {
+    float: left;
+    font-size: 1.2em;
+    color: #000;
+    background: transparent;
+    margin: 27px 10px 3px 1px;
+    padding: 5px;
+    width: 552px;
+    position: relative;
+}
+
+#rightcolumn p {
+    margin: 2px 0px 5px 0px;
+    font-family: 'Verdana', Geneva, Lucida, Helvetica, Arial, sans-serif;
+    color: #000;
+    font-size: 1.0em;
+    letter-spacing: .02em;
+    padding: .2em 5px 0 5px;
+    border-bottom: 0px solid #D87A18
+}
+
+#rightcolumn a:link {
+    color: #000;
+    text-decoration: underline;
+}
+
+#rightcolumn a:visited {
+    color: #000;
+}
+
+#rightcolumn a:hover {
+    color: #FFE7BE;
+}
+
+.rightbox {
+    float: right;
+    text-align: left;
+    font-size: 1.2em;
+    color: transparent;
+    background-image: url(http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png);
+    background-repeat: no-repeat;
+    position: 10px 10px 10px 10px;
+    width: 145px;
+}
+
+.rightboxcontent {
+    padding: 10px;
+    margin: -11px ;
+}
+
+.menu {
+    font-family: arial, sans-serif;
+    width: 950px;
+    position: relative;
+    margin: 10;
+    font-size: 112px;
+    margin: 1.9px 1px 10px -2px;
+    z-index: 50;
+}
+
+.menu ul li a, .menu ul li a:visited, .menu ul li:hover a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    width: 129.0px;
+    margin-right: -1px;
+    height: 23px;
+    text-align: center;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    background: #5F7096;
+    line-height: 22px;
+    font-size: 14px;
+    overflow: relative;
+}
+.menu ul {
+    padding: 0;
+    margin: 5px 0px -7px 0px;
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+    margin-right: 3px;
+    position: relative;
+}
+
+.menu ul li ul {
+    display: none;
+}
+
+.menu ul li:hover ul {
+    display: block;
+    position: absolute;
+    top: 21px;
+    margin: 5px 0px 0px 0px;
+    width: 105px;
+}
+
+.menu ul li:hover ul li a.hide {
+    background: #7285A7;
+    color: #fff;
+}
+
+.menu ul li:hover ul li:hover a.hide {
+    background: #7285A7;
+    color: #000;
+}
+
+.menu ul li:hover ul li ul {
+    margin: 1px 5px 0px 28px;
+    margin-right: -1px;
+    display: none;
+}
+
+.menu ul li:hover ul li a {
+    display: block;
+    background: #7285A7;
+    color: #fff;
+}
+
+.menu ul li:hover ul li a:hover {
+    background: #5F7096;
+    color: #fff;
+}
+
+.menu ul li:hover ul li:hover ul {
+    display: block;
+    position: absolute;
+    left: 104px;
+    top: 0;
+}
+
+.menu ul li:hover ul li:hover ul.left {
+    left: -105px;
+}
+
+#footer a {
+    text-decoration: none;
+    border: 1px solid;
+    border-color: #AAA #666 #666 #AAA;
+    padding: 1px 5px 1px 5px;
+}
+
+#footer a:link {
+    color: black;
+}
+
+#footer a:visited {
+    color: gray;
+}
+
+#footer a:hover {
+    color: #006600;
+}
+
+#footer {
+    text-align: center;
+    font: bold 14px Verdana, sans-serif;
+    border: 0px solid;
+    width: 723px;
+    clear: both;
+    color: #000;
+    background: transparent;
+    padding: 10px;
+}
+
+.clear {
+    clear: both;
+    background: none;
+}
+
+#ReiCosCal table, #SSCal table {
+    width: 98%;
+    border-collapse: collapse;
+}
+
+#ReiCosCal td, #ReiCosCal th, #SSCal td, #SSCal th {
+    border: 1px solid black;
+    font-size: 14px;
+    text-align: center;
+}
+
+#ReiCosCal th, #SSCal th {
+    background-color: #b3bcc6;
+    color: black;
+}
+
+#ReiCosCal input, #SSCal input {
+    text-align: center;
+    background-color: #b3bcc6;
+}
