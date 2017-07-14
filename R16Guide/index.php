@@ -22,17 +22,15 @@
 <p><b>Note</b>: Some editing done by G00FBALL
 <p><b>Note</b>: Good Alignment, Elf/Elfline to Merc in under 10-20 minutes.
 <p>You can use <b>Mercenary</b> to get to the required gem level. (Elven Farms build suggested) 
-<p><b>Note</b>: Do not waste Excavations and try to keep them below 800 so you can use them to get Faction Coins needed to buy the Research Points.
 <p><b>Note</b>: If the upgrade is one of the key points of the run it will be listed outside of brackets/parentheses (). Design your build based on these.
 <p><b>Note</b>: If it is something you should get that run, if you don’t already have it, it will be in brackets: (Mxx)
 <p><b>Note</b>: If it is something you can probably unlock but not vital that run, it will be in square brackets: [Mxx]
-<p>1.1  Get to e70 to e71 gems - Keep excavations below 800
-<p>1.2	Unlock Fairy unique building - Keep excavations below 800
-<p>1.3	Unlock Elf unique building - Keep excavations below 800
-<p>1.4	Unlock Angel unique building - Keep excavations below 800
-<p>1.5	Unlock Goblin unique building - Keep excavations below 800
-<p>1.6	Unlock Undead unique building - Keep excavations below 800
-<p>1.7	Unlock Demon unique building - Keep excavations below 800
+<p>1.1	Unlock the Fairy unique building and the Spellcraft research facility
+<p>1.2  Unlock the Elf unique building and the Craftmenship research facility
+<p>1.3  Unlock the Angel unique building and the Divine research facility
+<p>1.4	Unlock the Goblin unique building and the Economics research facility
+<p>1.5	Unlock the Undead unique building and the Alchemy research facility
+<p>1.6	Unlock the Demon unique building and the Warfare research facility
 <p>2.1	Get to RP55 Using Fairy with Fairy Bloodline
 <p>2.2	S30=4000 Mana (C10=2500 Farms) [A30=750 Fairy Chanting, This R]	Use Fairy with Fairy Bloodline
 <p>2.3	D50 (S10) [C25]	Use Angel with Goblin Bloodline
@@ -54,9 +52,7 @@
 <p>6.4	W135 Use Demon with any Bloodline might need to use Mercs with Dwarf 1,2 and Gobline for each alignment to max buildings before this run
 <p>7.1	D25 A50 [D55] [A55] [W50] Use Undead with Druid Bloodline 8 hour minimum
 <p>7.2	D135 (D55) (A55) Use Angel with Druid Bloodline 
-<p>7.3a	Earn a big pile of gems	Fairy with Fairy Bloodline quicker start, lower potential
-<p>7.3b	Earn a big pile of gems	Elf with Titan Bloodline harder start, much better potential
-<p>7.3c	Earn a big pile of gems	Demon with Titan Bloodline very effective if a25 and/or w50 are still locked
+<p>7.3	Earn gems with Elf faction and Elf Bloodline
 <p>7.4	E135 Goblin with Goblin Bloodline needs hours at e71 gems, pretty fast at e75 gems
-<p>7.6	(W120) (W50) (A25) Use Demon with Undead Bloodline 
+<p>7.5	(W120) (W50) (A25) Use Demon with Undead Bloodline 
 <?php include "../scripts/footer.html"; ?>
