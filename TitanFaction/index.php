@@ -91,12 +91,11 @@
 <p><b>Titan Research Requirements</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Olympian Halls Quest</b></p>
 <p>Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accommodate the almighty Titans.
-<p><b>Requirement</b>: R22 + Key To The Lost City artifact.
+<p><b>Requirement</b>: R22 + 2000 Halls of Legends.
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsFactionUpgrade.png" alt="Smiley face" align="middle"> Olympian Halls</b></p>
 <p>Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per Royal Exchange you've purchased and unlocking more unique perks for the building.</p>
-<p><b>Effect</b>: +Access to the Research Facilities.</p>
-<p><b>Requirements</b>: 2000 Halls of Legends
+<p><b>Effect</b>: Access to the Research Facilities(after completing Secrets of the Ancients).</p> 
 <p><b>Cost</b>: 10 Ttg (1E103)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>
 <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
