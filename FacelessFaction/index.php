@@ -98,12 +98,12 @@
 <p><b>Faceless Research Requirements</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCitiesQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities Quest</b></p>
 <p>C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to build enough Labyrinths.
-<p><b>Requirement</b>: +R22
+<p><b>Requirement</b>: R22, 2000 Labyrinths
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCityFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities</b></p>
 <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 75 * x0.9%, where x is is your Playtime (Longest Session) stat..
-<p><b>Requirements</b>: 2000 Labyrinths
+<p><b>Formula</b>: 75 * x0.9%, where x is is your Playtime (Longest Session) stat.
+<p><b>Effect</b>: Access to the Research Facilities(after completing Secrets of the Ancients).</p> 
 <p><b>Cost</b>: 10 Ttg (1E103)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>
 <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
