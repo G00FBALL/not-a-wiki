@@ -95,11 +95,11 @@
 <p><b>Druid Research Requirements</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCirclesQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Stonehenge Circles Quest</b></p>
 <p>Hello, friend. The balance of nature requires more magic to sustain it. Build enough Stone Pillars, we'll gather our elders to improve them.
-<p><b>Requirement</b>: R22
+<p><b>Requirement</b>: R22, 2000 Stone Pillars
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCircleFactionUpgrade.png" alt="Smiley face" align="middle"> Stonehenge Circles</b></p>
 <p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 25% per point of Maximum Mana and unlocking more unique perks for the building.</p>
-<p><b>Requirements</b>: 2000 Stone Pillars
+<p><b>Effect</b>: Access to the Research Facilities(after completing Secrets of the Ancients).</p> 
 <p><b>Cost</b>: 10 Ttg (1E103)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>
 <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
