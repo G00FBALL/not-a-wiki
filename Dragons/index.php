@@ -22,7 +22,7 @@
 <p><b>Effect</b>: Increase Stone Pillars production by 2500% for each Grand Balance target.
 <p><b>Effect</b>: Also reduces all Spell Tier upgrade costs based on Grand Balance activity time in this game.
 <p><b>Formula</b>: max(0, (1-t/28)^9) t is Grand Balance activity time in days.(equals 0 for t greater or equal to 28)
-<!--max(0, (1-t/28)^9) = (1-(28/28))^9=(1-1)^9=0^9=0 --!>
+<!--max(0, (1-t/28)^9) = (1-(28/28))^9=(1-1)^9=0^9=0 -->
 <p><b>Upgrade</b>: Good for Druid/Dragon
 <p><b>----------------------------------</b></p>
 <p><b>Dragon Challenge 3</b>: 
