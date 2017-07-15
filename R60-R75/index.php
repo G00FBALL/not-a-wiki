@@ -10,6 +10,8 @@
     <p><b>All builds have been updated as of June, 3rd 2017.</b>
     <p>All builds come from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
     <br/>
+     <p><b>Note:</b> Unlocking Undead Lineage is a <b>must</b> before running R60-69 builds. Follow the builds as they are on the <a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Special Builds Section</b></a></p>
+    <br/>
     <br/>
     <div class="shlisting">
         <p><b>R60-69</b></p>
