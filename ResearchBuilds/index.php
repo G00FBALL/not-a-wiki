@@ -193,7 +193,7 @@
                     <p>D55,D200,D225,D245,D320,
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A150,A250,
-                    <p>W150,W180,W250,W290,W320
+                    <p>W135,W150,W180,W250,W290
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
                     <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
                 </div>
