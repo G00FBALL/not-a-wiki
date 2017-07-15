@@ -11,13 +11,12 @@
 <br/>
 <br/>
 <div class="shlisting">
-    <p><b>Mercenary Unique Building and Research Unlock</b></p>
+    <p><b>Mercenary Unique Building Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek
-                <p><b>Note</b>: I (G00FBALL) used these builds at R78 with (e94) gems and it was quick and painless, lower gems maybe not so much.
                 <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.
                     <br/>
                 <p><b>Mercenary Unique Building Unlock</b>
@@ -26,15 +25,6 @@
                 <p><b>Merc Template</b>
                 <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                 <p>SP:Fairy Chanting,SP:God's Hand
-                    <br/>
-                <p><b>Mercenary Research Unlock</b>
-                <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Undead
-                <p><b>Merc Template</b>
-                <p>EL1,EL3,EL4,EL7,AN3,AN5,GB7,FC7,DW2,DW6,DG4,DG7,
-                <p>SP:Fairy Chanting,SP:Dragon's Breath
-                <p><b>Note</b>: Start out casting Fairy Chanting and Dragon's Breath (tier 1) on bronze and Tax Collect on Gold until you get 400 REs / UL15.
-                <p><b>Note</b>: Faster if you have UL15, but works without it. There are also Druidline builds which are likely faster, but I don’t know of any yet.
                 <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
             </div>
         </div>
@@ -45,10 +35,25 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again 1 Ocvg (1e87)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
+                <p><b>Author</b>: Tskami_ek
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Undead
+                <p><b>Note</b>: Tested at e87, takes a few hours, may work at earlier gems.
+                <p><b>Merc Template</b>
+                <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,
+                <p>SP:Fairy Chanting,SP:Dragon's Breath
+                <p><b>Note</b>: Start out casting Fairy Chanting and Dragon's Breath (tier 1) on bronze and Tax Collect on Gold until you get 400 REs / UL15.
+                <p><b>Note</b>: Faster if you have UL15, but works without it. There are also Druidline builds which are likely faster, but I don’t know of any yet.
+                <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again 1 Ocvg (1e87)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
-                <p><b>Note</b>: You need to be at least e87 for this, but higher is better/faster.
+                <p><b>Note</b>: Tested at e87, takes a few hours, may work at earlier gems.
                 <p><b>Merc Template</b>
                 <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,
                 <p>SP:Fairy Chanting,SP:Dragon's Breath
