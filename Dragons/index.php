@@ -32,7 +32,7 @@
 <p><b>Challenge</b>: Have 5500 Excavations.
 <p><b>Effect</b>: Reduces Deep Memory ascension penalty.
 <p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.
-<p><b>Formula</b>: (3 * x0.95)%, where x is your amount of Sunken Cities.
+<p><b>Formula</b>: (3 * x^0.95)%, where x is your amount of Sunken Cities.
 <p><b>Upgrade</b>: Good for Faceless/Dragon
 <p><b>----------------------------------</b></p>
 <p><b>Dragon Challenge 4</b>: 
