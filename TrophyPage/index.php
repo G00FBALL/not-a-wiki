@@ -77,8 +77,8 @@
     <area target="" research="Prismatic Mana<p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.<p><b>Requirements</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.<p>Cost: 100 No (1e32) <p><b>Effect</b>: 35% Mana Regeneration (multiplicative).<p>Warning: All Spells have to be exact same count, Tiered casting may go over the count you need." href="" coords="389,555,446,613" shape="rect">
     <area target="" research="Autoclicker<p>Requirement: perform 40 autoclicks in 1 second<p>Upgrade Cost Pre Ascension: Free<p>Upgrade Cost Post Ascension: 100 Qaq (1e125) <p>Effect: Multiply Faction Coin find chance by x5 for automatic clicks only" coords="6,618,62,677" shape="rect">
     <area target="" research="Grandmaster Researcher<p>Requirement: Research 18500 times across all fields.<p>Effect: Increas the overall production of Mercenaries by 100%.<p>Cost: 10 SpQig (1e175)" coords="71,621,126,677" shape="rect">
-    <area target="" research="Exchange High Lord: (Also a Secret Upgrade)<p>Requirements: 5000 Royal Exchanges<p>Cost: 10 DQig (1e160)<p>Effect: Increase royal exchange bonus by 50%. "coords="134,620,191,675" shape="rect">
-    <area target="" research="Genealogist (Also a Secret Upgrade)<p>Requirements: Have a total of 300 Lineage levels across all Lineage.<p>Cost: 1 NoQig (1e180)<p>Effect: Increase the production of all buildings based on the total amount of lineage levels you have.<p>Formula: 2.5 * x^1.25 " coords="197,620,253,676" shape="rect">
+    <area target="" research="Exchange High Lord<p>Requirements: 5000 Royal Exchanges<p>Cost: 10 DQig (1e160)<p>Effect: Increase royal exchange bonus by 50%. "coords="134,620,191,675" shape="rect">
+    <area target="" research="Genealogist<p>Requirements: Have a total of 300 Lineage levels across all Lineage.<p>Cost: 1 NoQig (1e180)<p>Effect: Increase the production of all buildings based on the total amount of lineage levels you have.<p>Formula: 2.5 * x^1.25 " coords="197,620,253,676" shape="rect">
 </map>
 
 <map name="AllegiancesandGrandTrophies-map">
