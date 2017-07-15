@@ -24,6 +24,7 @@
                     <p>A30,A105,A120,A330,A400,</p>
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A250</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -39,6 +40,7 @@
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A250,A330,A400,</p>
                     <p>W10,W120,W150,W320,W330</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -56,6 +58,7 @@
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S1,C135,C500</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -64,7 +67,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e80-1e113</p>
+                    <p><b>Range</b>: 1e80-1e120</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -72,18 +75,19 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also C135,C500,C520</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
                 </div>
             </div>
         </div>
         <p><b>R34-39</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU-Dwelves</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"Dwelving Deeper"</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e80-1e113</p>
+                    <p><b>Range</b>: 1e95-1e132</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -91,30 +95,32 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also C135,C460,C590</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU-Dwelves (No Dwarven Horn)</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"Dwelving Deeper" (No Dwarven Horn)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e80-1e113</p>
+                    <p><b>Range</b>: 1e95-1e132</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C330,C400,C590,</p>
                     <p>D55,D135,D245,D290,D320,</p>
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U-Dwairies</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"All is Fairy in Love and Dwarf"</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e113-?</p>
+                    <p><b>Range</b>: 1e130-1e139</p>
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -123,15 +129,17 @@
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S590,C135,C500</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U-Dwairies (No Dwarven Horn)</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"All is Fairy in Love and Dwarf" (No Dwarven Horn)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e113-?</p>
+                    <p><b>Range</b>: 1e130-1e139</p>
                     <p>S135,S180,S200,S330,S590,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -139,6 +147,8 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
                 </div>
             </div>
             <div class="shelementwhole">
