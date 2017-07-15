@@ -23,7 +23,7 @@
                 <p>E135,E145,E275,E330,E400,
                 <p>A105,A120,A250,A330,A400,
                 <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: Needs spell tiers to push past E25 (10 Sp) gems or R43. Swap A330 with A150 and S135 with S250 for longer runs.</p>
+                <p><b>Notes</b>: Needs spell tiers to push past E25 (10 Sp) gems or R43. Getting titan Tier 3 spells is recommended. Swap A330 with A150 and S135 with S250 for longer runs.</p>
                 <p><b>Notes</b>: After 12h Hellfire Blast stage use this to push until <b>1e31 gems</b>.</p>
             </div>
         </div>
