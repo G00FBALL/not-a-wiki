@@ -197,7 +197,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" alt="Smiley face" align="middle"> Iron Flight</b></p>
                 <p><b>Mercenary Template</b>: DG2
                 <p><b>Cost</b>: 50 Uvg (5.0e67)</p>
-                <p><b>Effect</b>: Increase the production of Iron Stronghold + " by [2000]% when affected by any Spell.</p>
+                <p><b>Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" alt="Smiley face" align="middle"> Eternal Wisdom</b></p>
                 <p><b>Mercenary Template</b>: DG3
                 <p><b>Cost</b>: 500 Uvg (5.0e68)</p>
