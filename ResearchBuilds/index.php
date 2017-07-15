@@ -171,7 +171,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="DarkRed">Notes for R25+</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Important</b>: If yo don't already have the <b>Ancient Device</b>, get it.
+                    <p><b>Important</b>: If you don't already have the <b>Ancient Device</b>, get it.
                     <p><b>Unlocks</b>: Provides 2 additional slots: 1 for each related Neutral Faction Facility you are playing.
                     <p><b>Requirements</b>: Play a Neutral Faction and have over 2,000 excavations.
                     <p><b>Chance</b>: 0.2% per excavation (multi-buy or not)
