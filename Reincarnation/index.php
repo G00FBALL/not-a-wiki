@@ -377,7 +377,7 @@
 
     <p>----------------------------------</p>
     <p><b>Tips</b></p>
-    <p>There are many paths you can take to progress, there is no "one correct path". Each player finds their own path, adapted to their play-style and personal progress bonuses. Trying to find your own path is the best way to learn and understand each faction. However, if you'e feeling lost, or confused, you might want to consult the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245/"><font color="red"><b>BEGINNER'S GUIDE</font></a></b>.</p>
+    <p>There are many paths you can take to progress, there is no "one correct path". Each player finds their own path, adapted to their play-style and personal progress bonuses. Trying to find your own path is the best way to learn and understand each faction.</p>
     <p>The below steps are an example guideline but I would encourage players to step out of the guide, try all factions and note down which factions work best at which gem amounts to create your personal path.
     <p>In general when things get slow, optimize your runs by doing build-up runs using special builds. (eg: Run "Foreplay" or "Everything is Awesome" merc builds to optimize your click total or your Faceless Heritage.)
     <p><b>1-3 Reincarnations</b>:

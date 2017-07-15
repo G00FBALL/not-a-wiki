@@ -9,12 +9,10 @@
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/545900-faq-index-of-useful-forum-threads/"> FAQ/Index of Useful Forum Threads</a></b></p>
 
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/643873-in-depth-guide-to-starting-realm-grinder"> Guide for R0</a></b> by <a target="_blank" href="http://www.kongregate.com/accounts/1bookboy"> <b>1bookboy</b></a>
-<p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245"> Guide for R0</a></b> by <a target="_blank" href="http://www.kongregate.com/accounts/why_amihere"> <b>why_amihere</b></a> <span style="font-size:125%;color:Gold;">&starf;</span> 
 <p><b><a target="_blank" href="http://kongregate.com/forums/8945-realm-grinder/topics/562011-guide-fastest-route-through-r16-researches/">Fastest Route Through R16</a></b></p>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/594695-new-artefacts-requirements">Lore Artefacts Guide</a></b></p>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/564368-challenges?page=1">Challenges</a></b></p>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later">Secret trophy guide (easiest to later)</a></b></p>
-<p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/598227-guide-optimized-gem-grinding-09-mar-16">[GUIDE] Optimized Gem Grinding [09-Mar-16]</a></b></p>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/607521">why_amihere (R0-R18 in 24h)</a></b></p>
 
 <?php include "../scripts/footer.html"; ?>
