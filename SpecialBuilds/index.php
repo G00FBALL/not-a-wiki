@@ -189,8 +189,6 @@
         </div>
         <p><b>Dragon phase</b></p>
         <div class="category">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Challenges</a></b></p>
-            <div class="category autohide">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 Barkscales R53+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -258,10 +256,7 @@
                         <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
                         <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
-                </div>
             </div>
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Lineages unlock</a></b></p>
-            <div class="category autohide">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Excavations)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -335,7 +330,6 @@
                     </div>
                 </div>
             </div>
-        </div>
         <p><b>Mercenary Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
