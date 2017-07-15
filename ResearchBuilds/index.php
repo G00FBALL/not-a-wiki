@@ -210,7 +210,7 @@
                     <p>D1,D55,D200,D245,D320,
                     <p>E80,E135,E145,E150,E200,
                     <p>A50,A105,A120,A150,A250,
-                    <p>W150,W180,W225,W290,W320
+                    <p>W135,W150,W180,W225,W290
                     <p><b>Autocasting</b>: GH on Bronze, Rest on Gold
                 </div>
             </div>
