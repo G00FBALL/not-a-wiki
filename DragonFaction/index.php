@@ -10,7 +10,7 @@
 <p>The Dragon Faction appears in addition to a Neutral faction, this enables the player to use all the 2 faction spells and 18 upgrades from both the Neutral and Dragon factions.</p>
 <p>The Dragon faction cannot be combined with Good or Evil Factions.</p>
 <p><b>Alignment</b>: Prestige (Neutral)</p>
-<p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b> 
+<p><b>Spell Trophy &amp; Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b> 
 <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time. 
 <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds
 <p><b>Faction spell</b>: Dragon's Breath</p>
@@ -67,7 +67,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" alt="Smiley face" align="middle"> Iron Flight</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 50 Uvg (5.0e67)</p>
-<p><b>Effect</b>: Increase the production of Iron Stronghold + " by [2000]% when affected by any Spell.</p>
+<p><b>Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" alt="Smiley face" align="middle"> Eternal Wisdom</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 500 Uvg (5.0e68)</p>
