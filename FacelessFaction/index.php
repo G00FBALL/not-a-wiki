@@ -50,8 +50,8 @@
 <p><b>Formula</b>: min(100,30*(P+A)/C))%, where P is production per second excluding assistants, A is the production per second of one assistant, and C is the cost to buy one Labyrinth.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" alt="Smiley face" align="middle"> Evolutive Mutation</b></p>
 <p><b>Cost</b>: 5 Sx (5E21)</p>
-<p><b>Effect</b>: Labyrinths produce Faction Coins per second.</p>
-<p><b>Formula</b>: floor(1 + 2x^0.5), where x is the number of Labyrinths you own.</p>
+<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Labyrinths you own. </p>
+<p><b>Formula</b>: floor(3 * x^0.6), where x is the number of Labyrinths you own.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" alt="Smiley face" align="middle"> Deep Memory</b></p>
 <p><b>Cost</b>: 50 Sx (5E22)</p>
 <p><b>Effect</b>: Increases production based on the time of your longest game session this R. (Under Metagame, Longest Session in the Stats)</p>
