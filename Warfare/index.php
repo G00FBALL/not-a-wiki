@@ -142,7 +142,7 @@
     <p><B>Requirement</B>: 129600s (1d 12hours) as Evil (This R), Research Berserking (W205) and Spellcraft (S460)
     <p><B>Cost</B>: 140.2 USpg (1.402E218)
     <p><B>Effect</B>: Increase Blood Frenzy multiplier based on the amount of times you cast faction spell in this game.
-    <p><B>Formula</B>: 300 * floor(x^0.3)%p, where x is Faction Spells' Cast This Game (Vanilla + Prestige spell count).
+    <p><B>Formula</B>: 300 * floor(x^0.3)%, where x is Faction Spells' Cast This Game (Vanilla + Prestige spell count).
     <p><b>----------------------------------</b></p>
     <p><b>W560</b> - <b>For</b> Dwarf - <B>Research Name</B> Resilience
     <p><B>Requirement</B>: Research Eternity (D330) and Mercy (D480)

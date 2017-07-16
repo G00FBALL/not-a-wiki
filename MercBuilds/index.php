@@ -37,9 +37,9 @@
                 <p><b>Druid</b>: (2,1): Earthly Bond
                 <p><b>Tier 3 Upgrades</b>
                 <p><b>Dwarf</b> (3,1): Battlehammers
+                <p><b>Dwarf</b> (3,2): Magic Resistance
                 <p><b>Titan</b> (3,3): Titan Obelisk
                 <p><b>Druid</b> (3,3): Building Jungle
-                <p><b>Fairy</b> (3,3): Swarm of Fairies
                 <p><b>Harlequin Bonus</b>: 343/216%
                 <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
                 <p>Fairy Chanting on gold everything else on silver no Tax Collection.

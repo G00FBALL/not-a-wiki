@@ -9,6 +9,7 @@
     <br/>
     <p><b>All builds have been updated as of June, 3rd 2017.</b>
     <p>All builds come from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+    <p>A guide for post-Ascension progression can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/858173-guide-for-post-ascension-progressing-from-r40-to-r75"><b>here</b></a></p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan Production R40-R46 <font color="DarkGoldenRod"> Neutral</font></a></b></p>

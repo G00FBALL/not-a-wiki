@@ -39,8 +39,7 @@
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A250,A330,A400,</p>
                     <p>W10,W120,W150,W320,W330</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
-                        <p>Why the note above?</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
                     </div>
             </div>
             <div class="shelementwhole">
@@ -75,7 +74,7 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also C135,C500,C520</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
                 </div>
             </div>
         </div>
@@ -95,7 +94,7 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also C135,C460,C590</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -111,7 +110,7 @@
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
+                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
                 </div>
             </div>
             <div class="shelementwhole">
