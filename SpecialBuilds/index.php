@@ -172,7 +172,7 @@
         <p><b>Prestige Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar unlock build)<font color="DarkRed"> Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar)<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Goblin</p>
