@@ -122,6 +122,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Vanilla Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
