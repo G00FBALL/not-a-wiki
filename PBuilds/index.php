@@ -40,7 +40,8 @@
                     <p>A105,A120,A250,A330,A400,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A305</p>
-                </div>
+                        <p>Why the note above?</p>
+                    </div>
             </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U-Dwairies R31-33</a></b></p>
