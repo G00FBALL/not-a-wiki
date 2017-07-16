@@ -199,7 +199,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"><font color="DarkRed"> Builds order for R60</font></a></b></p>
                 <div class="autohide">
-                    <p>There are 3 possible methods to unlock DC4, UL5 and DC5, each of them requires a different amount of excavations and takes a different amount time:
+                    <p>There are 3 possible methods to unlock DC4, UL5 and DC5, each of them requires a different amount of excavations and takes a different amount of time:
                         <br/>
                         1) DC4→UL5(Excavations)→UL push/DC5 (require the most excavations, fastest)
                         <br/>
