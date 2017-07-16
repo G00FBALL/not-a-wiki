@@ -209,8 +209,8 @@
                     </p>
                 </div>
             </div>
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> Challenges</a></b></p>
-            <div class="category autohide">
+            <p><b> Challenges</b></p>
+            <div class="category">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 Barkscales R53+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -280,8 +280,8 @@
                     </div>
                 </div>
             </div>
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> Lineages</a></b></p>
-            <div class="category autohide">
+            <p><b> Lineages</b></p>
+            <div class="category">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
