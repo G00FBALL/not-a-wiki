@@ -16,7 +16,7 @@
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
                 <p><b>Template</b>:
-                <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,
+                <p>FR3,FR4,FR9,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,
                 <p>SP:Moon Blessing,SP:Fairy Chanting
                 <p><b>Note</b>: For R3 to R9, requires "some excavations".</p>
                 <p><b>Note</b>: For R18+, requires "Star Blessing" Tier3 Elven challenge.</p>
