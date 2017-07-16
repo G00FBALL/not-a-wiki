@@ -4,17 +4,13 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <br/>
-    <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
-    <br/>
-    <p><b>All builds have been updated as of June, 3rd 2017.</b>
-        <br/>
+    <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6><br/>
+    <p><b>All builds have been updated as of June, 3rd 2017.</b> <br/>
     <p>These builds are not meant to help gem progress, but to help build-up a specific perk.
-    <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact from the build below, it will help out quite a bit. Also at <b>R76</b> Get <b>Know Your Enemy Part 2</b> before you use all your Excavations.</p>
-    <br/>
-    <br/>
+    <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact from the build below, it will help out quite a bit. Also at <b>R76</b> Get <b>Know Your Enemy Part 2</b> before you use all your Excavations.</p><br/> <br/>
     <div class="shlisting">
-        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Trophy and Artifact Builds</a></b></p>
-        <div class="category autohide">
+        <p><b>Mercenary phase</b></p>
+        <div class="category">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
@@ -125,6 +121,10 @@
                     <p>by <b>pseudobyte</b></p>
                 </div>
             </div>
+        </div>
+            <br/>
+        <p><b>Vanilla Research phase</b></p>
+        <div class="category">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wastanarama R18-R23<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
@@ -169,294 +169,172 @@
                     <p>W150,W180,W200,W205,W250</p>
                 </div>
             </div>
+        </div>
+            <br/>
+        <p><b>Prestige Research phase</b></p>
+        <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Flame Chance R33+<font color="DarkRed"> Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar)<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: artcrow</p>
-                    <p><b>Faction</b>: Demon</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Template for R33</b></p>
-                    <p><b>Research Template Edited</b>: Replaced S330 with S305</p>
-                    <p>S105,S150,S200,S305,S500,</p>
-                    <p>C80,C120,C150,C330,C460,</p>
-                    <p>D10,D55,D320,D400,D480,</p>
-                    <p>E150,E200,E290,E330,E480,</p>
-                    <p>A105,A120,A150,A330,A410,</p>
-                    <p>W120,W150,W205,W320,W520</p>
-                    <p><b>Template for R34+</b></p>
-                    <p><b>Research Template Edited</b>: Replaced S330 with S305</p>
-                    <p>S105,S150,S200,S305,S500,</p>
-                    <p>C80,C120,C150,C330,C460,</p>
-                    <p>D10,D55,D320,D400,D480,</p>
-                    <p>E150,E200,E290,E330,E480,</p>
-                    <p>A105,A120,A150,A330,A410,</p>
-                    <p>W120,W150,W205,W320,W590</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945/topics/612801?page=1#posts-10276567/"><b>forum</b></a> post</p>
+                    <p><b>Author</b>: Lapare</p>
+                    <p><b>Faction</b>: Goblin</p>
+                    <p><b>Bloodline</b>: Titan</p>
+                    <p><b>Range</b>: 1e126 gems</p>
+                    <p>S50,S135,S200,S330,S500,</p>
+                    <p>C120,C135,C150,C330,C400,</p>
+                    <p>D55,D245,D290,D320,D400,</p>
+                    <p>E80,E150,E225,E290,E330,</p>
+                    <p>A10,A105,A120,A150,A330,</p>
+                    <p>W150,W205,W290,W320,W330</p>
                 </div>
             </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Know Your Enemy, Part 2 R76+<font color="DarkRed"> Evil</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Alignment</b>: Evil Mercenary</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Mercenary Template</b></p>
-                    <p>FR4,EL3,AN5,GB1,DG7,UD9,DM9,TT8,DD1,FC6,DN2,DW4,</p>
-                    <p>SP:Fairy Chanting,SP:God's Hand</p>
-                    <p><b>Note</b>: This build is for getting KYE Part 2 at R76+</p>
-                    <p><b>Spells</b>: God's Hand, Fairy Chanting</p>
-                    <p><b>Tier 1 Upgrades</b></p>
-                    <p><b>Goblin</b>: (1,1) Strong Currency</p>
-                    <p><b>Elf</b>: (1,3) Sylvan Treasure Frills</p>
-                    <p><b>Druid</b>: (1,1) Druidic Vocabulary</p>
-                    <p><b>Dwarf</b>: (1,2) Expert Masonry</p>
-                    <p><b>Tier 2 Upgrades</b></p>
-                    <p><b>Fairy</b>: (2,1) Fairy Workers</p>
-                    <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
-                    <p><b>Faceless</b>: (2,3) Overgrowth</p>
-                    <p><b>Drow</b>: (2,1) Mana Addicts</p>
-                    <p><b>Tier 3 Upgrades</b></p>
-                    <p><b>Dragon</b>: (3,1) Ancient Hunger (R76+)</p>
-                    <p><b>Undead</b>: (3,3) Undead Resilience</p>
-                    <p><b>Demon</b>: (3,3) Very Bad Guys</p>
-                    <p><b>Titan</b>: (3,2) Heavy Coins</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Ocean R92?<font color="Blue"> Good</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Note</b>: This is poorly optimized, but it's better than the previous build I posted. 11-12 days vs 20 days for the Neutral build.</p>
-                    <p><b>Note</b>: Tested R92, Lineages 27, S400 = 800K. After 5 days buildup, 30 trillion offline mana per day (buildup simulated with editor.)</p>
-                    <p><b>Requires</b>: High S400.</p>
-                    <p><b>Author</b>: artcrow</p>
-                    <p><b>Faction</b>: Good Mercenary</p>
-                    <p><b>Bloodline</b>: Undead</p>
-                    <p><b>A2950</b>: Druid</p>
-                    <p><b>Mercenary Templates</b></p>
-                    <p>FR1,FR3,FR7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
-                    <p>SP:Combo Strike,SP:God's Hand
-                    <p><b>Mercenary 13th Upgrade</b> FR9 - or this build can be run without upgrading Tax Collection.
-                    <p>S180,S305,S400,S500,S1275,S1500,
-                    <p>C340,C590,C1300,C1325,C3000,C3100,
-                    <p>D25,D175,D200,D250,D1275,D2775,
-                    <p>E25,E50,E135,E590,E3250,E3300,
-                    <p>A55,A120,A375,A1500,A2950,A3400,
-                    <p>W175,W275,W400,W520,W3050,W3150
-                    <p><b>Note</b>: Both Combo Strike and God's Hand can be dropped for spell tiering. D175 and W520 alternates: D3350 and W1400.
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/823652-mana-ocean-build-request?page=1#posts-11384551"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Obsoletes</a></b></p>
-            <div class="category autohide">
+        </div>
+            <br/>
+        <p><b>Dragon phase</b></p>
+        <div class="category">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Everything is Awesome R7-R16<font color="DarkRed"> Evil</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 Barkscales R53+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
-                        <p><b>Alignment</b>: Evil Mercenary</p>
-                        <p><b>Bloodline</b>: Goblin</p>
-                        <p><b>Mercenary Template</b></p>
-                        <p>FR1,FR2,UD7,DM6,DM8,TT3,TT6,DD9,FC6,DN2,DN7,DW5,</p>
-                        <p>SP:Hellfire Blast,SP:Night Time</p>
-                        <p><b>Note</b>: Useful to get the building trophies, and boost Faceless Heritage and Faceless Overgrowth (2,3) whether you can reach 35k buildings or not! Name comes from The Lego Movie (it's about building).</p>
-                        <p><b>Range</b>: R7+ </p>
-                        <p><b>Alignment</b>: Evil (For Neutral, use Halstrike Blast. For Good, suggestions are open!)</p>
-                        <p><b>Characteristics</b>: Maximizes the production of Hall of Legends, while reducing building costs as much as possible.</p>
-                        <p><b>Spells</b>: Night Time, Hellfire Blast</p>
-                        <p><b>Tier 1 Upgrades</b>:</p>
-                        <p>Fairy (1,1): Pixie Dust Fertilizer</p>
-                        <p>Fairy (1,2): Fairy Cuisine</p>
-                        <p>Titan (1,3): Oversized Legends</p>
-                        <p>Dwarf (1,2): Expert Masonry</p>
-                        <p><b>Tier 2 Upgrades</b>:</p>
-                        <p>Demon (2,3): Demonic Presence</p>
-                        <p>Titan (2,3): Cyclopean Strength</p>
-                        <p>Drow (2,2): Blood sacrifices</p>
-                        <p>Faceless (2,3): Overgrowth</p>
-                        <p><b>Tier 3 Upgrades</b>:</p>
-                        <p>Undead (3,1): Dead Fields or Demon (3,3): Very Bad Guys</p>
-                        <p>Demon (3,2): Burning Legion</p>
-                        <p>Druid (3,3): Building Jungle</p>
-                        <p>Dwarf (3,1): Battlehammers</p>
-                        <p><b>Instructions</b>: Build, Build, Build, and Build. You should be able to have all 4 spells on silver autocast (Hellfire Blast, Night Time, Call to Arms, and Blood Frenzy) and Tax collection set to gold. Arrow set to maximum.</p>
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Druid</p>
+                        <p><b>Bloodline</b>: Dragon</p>
+                        <p><b>Range</b>: 1e48 (1 Qid) gems</p>
+                        <p>S105,S215,S330,S400,S500,</p>
+                        <p>C150,C330,C340,C400,C1325,</p>
+                        <p>D135,D250,D275,D290,D1275,</p>
+                        <p>E135,E145,E250,E260,E1325,E1425,</p>
+                        <p>A120,A250,A270,A375,A400,A1325,</p>
+                        <p>W135,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Takes an estimated time of 3.5 days. E1425 not needed for build. A1325 makes it considerably easier and its recommended to do DC2 once you get it, but can be done earlier. Buy the Dragon Trade Treaty when you have enough mana spent.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy Builders R28+<font color="Blue"> Good</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC4 Draconstellation/Spell Cataclysm R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
-                        <p><b>Faction</b>: Fairy</p>
-                        <p><b>Bloodline</b>: Goblin</p>
-                        <p><b>Research Template</b></p>
-                        <p>S1,S105,S135,S200,S305,</p>
-                        <p>C80,C105,C120,C150,C330,</p>
-                        <p>D55,D225,D245,D320,D400,</p>
-                        <p>E50,E135,E150,E200,E330,</p>
-                        <p>A105,A120,A150,A330,A400,</p>
-                        <p>W150,W180,W290,W320,W330</p>
-                        <p><b>Spellcraft</b>: 1, 105, 180, 200, 215</p>
-                        <p><b>Craftsmanship</b>: 10, 80, 135, 150, 250</p>
-                        <p><b>Divine</b>: 135, 225, 245, 250, 330</p>
-                        <p><b>Economics</b>: 50, 135, 150, 200, 250</p>
-                        <p><b>Alchemy</b>: 30, 120, 150, 330, 400</p>
-                        <p><b>Warfare</b>: 135, 150, 180, 250, 400</p>
-                        <p>Super Simple Build to get the Overgrinder trophy as well as 5k buildings for Enchanted Fields, Inns, and Blacksmiths. (It also makes getting the Pink Carrot very easy)</p>
-                        <p>Just put spells on gold (SS, FC, HL, CtA, TC) and ride it out.</p>
-                        <p>I suspect that using a similar build with other factions will assist in grabbing an easy 5k buildings for each factions Unique building.</p>
-                    </div>
-                </div>
-                <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Super-Dooper Spells Cast R28+<font color="DarkRed"> Evil</font></a></b></p>
-                    <div class="autohide">
-                        <p><b>Author</b>: why_amihere</p>
-                        <p><b>Faction</b>: Goblin</p>
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
                         <p><b>Bloodline</b>: Druid</p>
-                        <p><b>Research Template Edited</b>: Replaced S200 with S305</p>
-                        <p>S30,S50,S105,S305,S400,</p>
-                        <p>C120,C135,C150,C330,C400,</p>
-                        <p>D55,D135,D150,D200,D250,</p>
-                        <p>E1,E80,E135,E225,E250,</p>
-                        <p>A105,A120,A150,A270,A400,</p>
-                        <p>W25,W135,W205,W250,W400</p>
-                        <p>For mana, spell and FC needs, and also as example of a different kind of build.</p>
-                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/558332?page=6"><b>forum</b></a> post</p>
+                        <p><b>Range</b>: E45 (1 Qad) gems (DC4); E48 (1 Qid) gems (Spell Cataclysm)</p>
+                        <p>S105,S375,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D250,D290,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1225,E1425,</p>
+                        <p>A120,A300,A305,A400,A1325,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Also used for UL5 excavation unlock, which requires a few thousand excavations. If you dont have them, use Druid lineage 5 unlock. Takes 30 minutes max.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Overgrinder 50,000 Buildings<font color="Blue"> Good</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
-                        <p><b>Faction</b>: Fairy</p>
-                        <p><b>Bloodline</b>: Goblin</p>
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Druid</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems</p>
                         <p><b>Research Template</b></p>
-                        <p>S1,S105,S200,S215,S305,</p>
-                        <p>C80,C120,C135,C150,C330,</p>
-                        <p>D225,D245,D250,D320,D400,</p>
-                        <p>E50,E80,E135,E150,E330,</p>
-                        <p>A105,A120,A150,A330,A400,</p>
-                        <p>W150,W180,W290,W320,W400</p>
-                        <p>This build is only for getting the (<b>Overgrinder</b>) Trophy.</p>
-                        <p><b>Spellcraft</b>: 1 105 175 200 215</p>
-                        <p><b>Craftsmanship</b>: 80 120 135 150 330</p>
-                        <p><b>Divine</b>: 225 245 250 320 400</p>
-                        <p><b>Economics</b>: 50 135 150 330 410</p>
-                        <p><b>Alchemy</b>: 25 120 150 330 400</p>
-                        <p><b>Warfare</b>: 150 180 290 320 400</p>
+                        <p>S105,S375,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D290,D330,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1325,E1425,</p>
+                        <p>A120,A300,A305,A400,A1325,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Run this build until Druid Lineage 5 and excavate for Ancient Heirloom. Used if you didnt keep enough excavations for UL5 excavation unlock build. Takes 1.5 hours max.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Excavations)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Undead</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems, DC4</p>
+                        <p><b>Research Template</b></p>
+                        <p>S215,S305,S330,S375,S1450,S1500,</p>
+                        <p>C250,C330,C340,C400,C1300,</p>
+                        <p>D245,D260,D320,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E290,E1325,E1425,</p>
+                        <p>A105,A120,A300,A305,A400,</p>
+                        <p>W150,W180,W290,W400,W1375</p>
+                        <p><b>Notes</b>: Requires around 4k-1k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Faction Coins)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Undead</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems, Druid Lineage 5, Ancient Heirloom</p>
+                        <p><b>Research Template</b></p>
+                        <p>S105,S375,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D245,D290,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1325,E1425,</p>
+                        <p>A120,A300,A305,A400,A1325,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Takes 25 minutes max. Used if not enough excavations left for the option above.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Undead</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+</p>
+                        <p>S305,S330,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D245,D250,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1325,E1425,</p>
+                        <p>A120,A250,A305,A400,A1325,</p>
+                        <p>W180,W250,W275,W400,W1375</p>
+                        <p><b>Notes</b>: Takes 4 hours max to complete DC5. Can be also used to get DC4 and spell cataclysm if you dont have them yet but do have UL5.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 Dracomet Vault R63+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Druid/Dragon</p>
+                        <p><b>Bloodline</b>: Druid</p>
+                        <p><b>Range</b>: E66 (1 Uvg) gems</p>
+                        <p>S215,S305,S330,S400,S1450,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D245,D275,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E250,E260,E460,E1425,</p>
+                        <p>A120,A305,A375,A400,A1325,A1500,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 15 R70+ <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Necrodoom</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Undead</p>
+                        <p><b>Range</b>: ?</p>
+                        <p><b>Research Template</b></p>
+                        <p>S215,S305,S375,S400,S500,S1450,S1500,</p>
+                        <p>C250,C330,C340,C400,C1300,C1325,</p>
+                        <p>D200,D245,D250,D330,D1125,D1275,D1375,</p>
+                        <p>E30,E135,E145,E350,E1225,E1425,</p>
+                        <p>A105,A120,A150,A250,A305,A400,</p>
+                        <p>W135,W180,W250,W275,W400,W1375</p>
+                        <p><b>Notes</b>: Estimated time for UL15 - 12-10 days (not counting buff build time). Swap W135 with W1400 if using silver gift or above. Not recommended if you have T6 faceless spells.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
             </div>
-            <!--<div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> !!!BUILD NAME HERE !!! </a></b></p>
-                <div class="autohide">
-                    ! ! ! BUILD DATA HERE ! ! !
-                </div>
-            </div>-->
-        </div>
-        <br>
-        <p><b>Dragon Stage 3 and 4 Unlock</b></p>
-        <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Stage 3 Fairy Army R46+<font color="Blue"> Good</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Fonzoland + Curunur</p>
-                    <p><b>Faction</b>: Fairy/Dwarf</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: E31 (10 No)+ gems</p>
-                    <p>S150,S180,S330,S400,S500,S590,</p>
-                    <p>C80,C135,C150,C330,C340,C400,C460,</p>
-                    <p>D55,D200,D245,D290,D320,</p>
-                    <p>E50,E135,E145,E330,E410,</p>
-                    <p>A105,A120,A150,A250,A330,</p>
-                    <p>W120,W150,W180,W320,W400</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Stage 4 Elder Dragon R46+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Fonzoland + Curunur</p>
-                    <p><b>Faction</b>: Titan</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: 10 No (e31) gems</p>
-                    <p>S105,S150,S330,S400,S500,</p>
-                    <p>C150,C251,C330,C340,C375,C400,</p>
-                    <p>D55,D200,D290,D320,D350,</p>
-                    <p>E135,E145,E275,E330,E460,</p>
-                    <p>A105,A120,A150,A250,A330,</p>
-                    <p>W150,W180,W290,W320,W330,W400</p>
-                    <p><b>Notes</b>: Gets stage 4 unlock almost instantly.</p>
-                </div>
-            </div>
-        </div>
-        <br>
-        <p><b>Dragon Challenge Builds</b></p>
-        <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 Barkscales R53+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Druid</p>
-                    <p><b>Bloodline</b>: Dragon</p>
-                    <p><b>Range</b>: 1e48 (1 Qid) gems</p>
-                    <p>S105,S215,S330,S400,S500,</p>
-                    <p>C150,C330,C340,C400,C1325,</p>
-                    <p>D135,D250,D275,D290,D1275,</p>
-                    <p>E135,E145,E250,E260,E1325,E1425,</p>
-                    <p>A120,A250,A270,A375,A400,A1325,</p>
-                    <p>W135,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Takes an estimated time of 3.5 days. E1425 not needed for build. A1325 makes it considerably easier and its recommended to do DC2 once you get it, but can be done earlier. Buy the Dragon Trade Treaty when you have enough mana spent.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC4 Draconstellation/Spell Cataclysm R57+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Faceless/Dragon</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: E45 (1 Qad) gems (DC4); E48 (1 Qid) gems (Spell Cataclysm)</p>
-                    <p>S105,S375,S400,S500,S1450,S1500,</p>
-                    <p>C250,C340,C400,C1300,C1325,</p>
-                    <p>D200,D250,D290,D1125,D1275,D1375,</p>
-                    <p>E135,E145,E460,E1225,E1425,</p>
-                    <p>A120,A300,A305,A400,A1325,</p>
-                    <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Also used for UL5 excavation unlock, which requires a few thousand excavations. If you dont have them, use below build. Takes 30 minutes max.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Faceless/Dragon</p>
-                    <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+</p>
-                    <p>S305,S330,S400,S500,S1450,S1500,</p>
-                    <p>C250,C340,C400,C1300,C1325,</p>
-                    <p>D200,D245,D250,D1125,D1275,D1375,</p>
-                    <p>E135,E145,E460,E1325,E1425,</p>
-                    <p>A120,A250,A305,A400,A1325,</p>
-                    <p>W180,W250,W275,W400,W1375</p>
-                    <p><b>Notes</b>: Takes 4 hours max to complete DC5.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 Dracomet Vault R63+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Druid/Dragon</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: E66 (1 Uvg) gems</p>
-                    <p>S215,S305,S330,S400,S1450,</p>
-                    <p>C250,C340,C400,C1300,C1325,</p>
-                    <p>D245,D275,D1125,D1275,D1375,</p>
-                    <p>E135,E145,E250,E260,E460,E1425,</p>
-                    <p>A120,A305,A375,A400,A1325,A1500,</p>
-                    <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
-                    <p>Build comes from this <a target="_blank"
-                                                href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-        </div>
-        <br>
-        <p><b>Mercenary Unlocks</b></p>
+            <br/>
+        <p><b>Mercenary Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -496,8 +374,7 @@
                     <p><b>Note</b>: This build is for the Secrets of the Warriors quest that unlocks the research itself. For the Mercenary Encampments quest that unlocks the unique buildings, you could try to substitute in Goblin Bloodline.</p>
                     <p><b>Mercenary Template</b></p>
                     <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,SP:Fairy Chanting,SP:Dragon's Breath</p>
-                    <p>Build comes from this <a target="_blank"
-                                                href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
+                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -512,96 +389,16 @@
                     <p><b>Mercenary Templates</b></p>
                     <p><b>Sun Force Faction Coins</b></p>
                     <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DN2,DG3,DG4,</p>
-                    <p>SP:Grand Balance,SP:Dragon's Breath
-                        <br>
-                        <br>
+                    <p>SP:Grand Balance,SP:Dragon's Breath <br> <br>
                     </p>
                     <p><b>Sun Force Production or Offline.</b></p>
                     <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC2,FC7,DG3,DG4,</p>
-                    <p>SP:Grand Balance,SP:Dragon's Breath
-                        <br>
-                        <br>
+                    <p>SP:Grand Balance,SP:Dragon's Breath <br> <br>
                     </p>
                     <p><b>Sun Force Assistants and high DB:White DG9 can replace FR9 for more income.</b></p>
                     <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DW2,DG3,DG4,</p>
                     <p>SP:Grand Balance,SP:Dragon's Breath</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a>post</p>
-                </div>
-            </div>
-        </div>
-        <br>
-        <p><b>Lineage Unlocks</b></p>
-        <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Faceless/Dragon</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: E48 (1 Qid) gems</p>
-                    <p><b>Research Template</b></p>
-                    <p>S105,S375,S400,S500,S1450,S1500,</p>
-                    <p>C250,C340,C400,C1300,C1325,</p>
-                    <p>D200,D290,D330,D1125,D1275,D1375,</p>
-                    <p>E135,E145,E460,E1325,E1425,</p>
-                    <p>A120,A300,A305,A400,A1325,</p>
-                    <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Run this build until Druid Lineage 5 and excavate for Ancient Heirloom. Used if you didnt keep enough excavations for UL5 excavation unlock build. Takes 1.5 hours max.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Excavations)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Faceless/Dragon</p>
-                    <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Range</b>: E48 (1 Qid) gems, DC4</p>
-                    <p><b>Research Template</b></p>
-                    <p>S215,S305,S330,S375,S1450,S1500,</p>
-                    <p>C250,C330,C340,C400,C1300,</p>
-                    <p>D245,D260,D320,D1125,D1275,D1375,</p>
-                    <p>E135,E145,E290,E1325,E1425,</p>
-                    <p>A105,A120,A300,A305,A400,</p>
-                    <p>W150,W180,W290,W400,W1375</p>
-                    <p><b>Notes</b>: Requires around 4k-1k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Faction Coins)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Faceless/Dragon</p>
-                    <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Range</b>: E48 (1 Qid) gems, Druid Lineage 5, Ancient Heirloom</p>
-                    <p><b>Research Template</b></p>
-                    <p>S105,S375,S400,S500,S1450,S1500,</p>
-                    <p>C250,C340,C400,C1300,C1325,</p>
-                    <p>D200,D245,D290,D1125,D1275,D1375,</p>
-                    <p>E135,E145,E460,E1325,E1425,</p>
-                    <p>A120,A300,A305,A400,A1325,</p>
-                    <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Takes 25 minutes max. Used if not enough excavations left for the option above.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 15 R70+ <font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Necrodoom</p>
-                    <p><b>Faction</b>: Faceless/Dragon</p>
-                    <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Range</b>: ?</p>
-                    <p><b>Research Template</b></p>
-                    <p>S215,S305,S375,S400,S500,S1450,S1500,</p>
-                    <p>C250,C330,C340,C400,C1300,C1325,</p>
-                    <p>D200,D245,D250,D330,D1125,D1275,D1375,</p>
-                    <p>E30,E135,E145,E350,E1225,E1425,</p>
-                    <p>A105,A120,A150,A250,A305,A400,</p>
-                    <p>W135,W180,W250,W275,W400,W1375</p>
-                    <p><b>Notes</b>: Estimated time for UL15 - 12-10 days (not counting buff build time). Swap W135 with W1400 if using silver gift or above. Not recommended if you have T6 faceless spells.</p>
-                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -622,6 +419,53 @@
                     <p>A105,A120,A305,A375,A1325,A1500,</p>
                     <p>W150,W180,W250,W275,W400,W1375</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Know Your Enemy, Part 2 R76+<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Alignment</b>: Evil Mercenary</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Mercenary Template</b></p>
+                    <p>FR4,EL3,AN5,GB1,DG7,UD9,DM9,TT8,DD1,FC6,DN2,DW4,</p>
+                    <p>SP:Fairy Chanting,SP:God's Hand</p>
+                    <p><b>Note</b>: This build is for getting KYE Part 2 at R76+</p>
+                    <p><b>Spells</b>: God's Hand, Fairy Chanting</p>
+                    <p><b>Tier 1 Upgrades</b></p>
+                    <p><b>Goblin</b>: (1,1) Strong Currency</p>
+                    <p><b>Elf</b>: (1,3) Sylvan Treasure Frills</p>
+                    <p><b>Druid</b>: (1,1) Druidic Vocabulary</p>
+                    <p><b>Dwarf</b>: (1,2) Expert Masonry</p>
+                    <p><b>Tier 2 Upgrades</b></p>
+                    <p><b>Fairy</b>: (2,1) Fairy Workers</p>
+                    <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
+                    <p><b>Faceless</b>: (2,3) Overgrowth</p>
+                    <p><b>Drow</b>: (2,1) Mana Addicts</p>
+                    <p><b>Tier 3 Upgrades</b></p>
+                    <p><b>Dragon</b>: (3,1) Ancient Hunger (R76+)</p>
+                    <p><b>Undead</b>: (3,3) Undead Resilience</p>
+                    <p><b>Demon</b>: (3,3) Very Bad Guys</p>
+                    <p><b>Titan</b>: (3,2) Heavy Coins</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">S3200 Unlock/50 Shades of Taxes R81<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Lapare</p>
+                    <p><b>Faction</b>: Evil Mercenary</p>
+                    <p><b>Bloodline</b>: Dragon</p>
+                    <p><b>A2950</b>: Druid</p>
+                    <p><b>Mercenary Templates</b></p>
+                    <p>EL1,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG7,</p>
+                    <p>SP:Fairy Chanting,SP:Grand Balance</p>
+                    <p><b>Mercenary 13th Upgrade</b> UD7</p>
+                    <p><b>Research Template</b></p>
+                    <p>S50,S305,S330,S400,S1450,S1500,</p>
+                    <p>C300,C340,C400,C590,C1300,C3000,</p>
+                    <p>D25,D200,D245,D1275,D1375,D2775,</p>
+                    <p>E10,E135,E145,E350,E1325,E3250,</p>
+                    <p>A10,A120,A305,A410,A1500,A2950,</p>
+                    <p>W180,W275,W400,W525,W3050,W3150</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -694,33 +538,10 @@
                 </div>
             </div>
         </div>
-        <br>
-        <p><b>S3200 Unlock build</b></p>
+            <br/>
+        <p><b>Endgame</b></p>
         <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">50 Shades of Taxes R81<font color="DarkRed"> Evil</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Lapare</p>
-                    <p><b>Faction</b>: Evil Mercenary</p>
-                    <p><b>Bloodline</b>: Dragon</p>
-                    <p><b>A2950</b>: Druid</p>
-                    <p><b>Mercenary Templates</b></p>
-                    <p>EL1,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG7,</p>
-                    <p>SP:Fairy Chanting,SP:Grand Balance</p>
-                    <p><b>Mercenary 13th Upgrade</b> UD7</p>
-                    <p><b>Research Template</b></p>
-                    <p>S50,S305,S330,S400,S1450,S1500,</p>
-                    <p>C300,C340,C400,C590,C1300,C3000,</p>
-                    <p>D25,D200,D245,D1275,D1375,D2775,</p>
-                    <p>E10,E135,E145,E350,E1325,E3250,</p>
-                    <p>A10,A120,A305,A410,A1500,A2950,</p>
-                    <p>W180,W275,W400,W525,W3050,W3150</p>
-                </div>
-            </div>
-        </div>
-        <br>
-        <p><b>Buff Builds</b></p>
-        <div class="category">
+
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">S400/TC R82+<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
@@ -787,7 +608,158 @@
                     <p>Build is based on this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=17#posts-11422165"><b>forum</b></a> post</p>
                 </div>
             </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Ocean R92?<font color="Blue"> Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Note</b>: This is poorly optimized, but it's better than the previous build I posted. 11-12 days vs 20 days for the Neutral build.</p>
+                    <p><b>Note</b>: Tested R92, Lineages 27, S400 = 800K. After 5 days buildup, 30 trillion offline mana per day (buildup simulated with editor.)</p>
+                    <p><b>Requires</b>: High S400.</p>
+                    <p><b>Author</b>: artcrow</p>
+                    <p><b>Faction</b>: Good Mercenary</p>
+                    <p><b>Bloodline</b>: Undead</p>
+                    <p><b>A2950</b>: Druid</p>
+                    <p><b>Mercenary Templates</b></p>
+                    <p>FR1,FR3,FR7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
+                    <p>SP:Combo Strike,SP:God's Hand
+                    <p><b>Mercenary 13th Upgrade</b> FR9 - or this build can be run without upgrading Tax Collection.
+                    <p>S180,S305,S400,S500,S1275,S1500,
+                    <p>C340,C590,C1300,C1325,C3000,C3100,
+                    <p>D25,D175,D200,D250,D1275,D2775,
+                    <p>E25,E50,E135,E590,E3250,E3300,
+                    <p>A55,A120,A375,A1500,A2950,A3400,
+                    <p>W175,W275,W400,W520,W3050,W3150
+                    <p><b>Note</b>: Both Combo Strike and God's Hand can be dropped for spell tiering. D175 and W520 alternates: D3350 and W1400.
+                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/823652-mana-ocean-build-request?page=1#posts-11384551"><b>forum</b></a> post</p>
+                </div>
+            </div>
         </div>
+        <br/> <br/>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Obsoletes</a></b></p>
+        <div class="category autohide">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Everything is Awesome R7-R16<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Alignment</b>: Evil Mercenary</p>
+                    <p><b>Bloodline</b>: Goblin</p>
+                    <p><b>Mercenary Template</b></p>
+                    <p>FR1,FR2,UD7,DM6,DM8,TT3,TT6,DD9,FC6,DN2,DN7,DW5,</p>
+                    <p>SP:Hellfire Blast,SP:Night Time</p>
+                    <p><b>Note</b>: Useful to get the building trophies, and boost Faceless Heritage and Faceless Overgrowth (2,3) whether you can reach 35k buildings or not! Name comes from The Lego Movie (it's about building).</p>
+                    <p><b>Range</b>: R7+ </p>
+                    <p><b>Alignment</b>: Evil (For Neutral, use Halstrike Blast. For Good, suggestions are open!)</p>
+                    <p><b>Characteristics</b>: Maximizes the production of Hall of Legends, while reducing building costs as much as possible.</p>
+                    <p><b>Spells</b>: Night Time, Hellfire Blast</p>
+                    <p><b>Tier 1 Upgrades</b>:</p>
+                    <p>Fairy (1,1): Pixie Dust Fertilizer</p>
+                    <p>Fairy (1,2): Fairy Cuisine</p>
+                    <p>Titan (1,3): Oversized Legends</p>
+                    <p>Dwarf (1,2): Expert Masonry</p>
+                    <p><b>Tier 2 Upgrades</b>:</p>
+                    <p>Demon (2,3): Demonic Presence</p>
+                    <p>Titan (2,3): Cyclopean Strength</p>
+                    <p>Drow (2,2): Blood sacrifices</p>
+                    <p>Faceless (2,3): Overgrowth</p>
+                    <p><b>Tier 3 Upgrades</b>:</p>
+                    <p>Undead (3,1): Dead Fields or Demon (3,3): Very Bad Guys</p>
+                    <p>Demon (3,2): Burning Legion</p>
+                    <p>Druid (3,3): Building Jungle</p>
+                    <p>Dwarf (3,1): Battlehammers</p>
+                    <p><b>Instructions</b>: Build, Build, Build, and Build. You should be able to have all 4 spells on silver autocast (Hellfire Blast, Night Time, Call to Arms, and Blood Frenzy) and Tax collection set to gold. Arrow set to maximum.</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy Builders R28+<font color="Blue"> Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Faction</b>: Fairy</p>
+                    <p><b>Bloodline</b>: Goblin</p>
+                    <p><b>Research Template</b></p>
+                    <p>S1,S105,S135,S200,S305,</p>
+                    <p>C80,C105,C120,C150,C330,</p>
+                    <p>D55,D225,D245,D320,D400,</p>
+                    <p>E50,E135,E150,E200,E330,</p>
+                    <p>A105,A120,A150,A330,A400,</p>
+                    <p>W150,W180,W290,W320,W330</p>
+                    <p><b>Spellcraft</b>: 1, 105, 180, 200, 215</p>
+                    <p><b>Craftsmanship</b>: 10, 80, 135, 150, 250</p>
+                    <p><b>Divine</b>: 135, 225, 245, 250, 330</p>
+                    <p><b>Economics</b>: 50, 135, 150, 200, 250</p>
+                    <p><b>Alchemy</b>: 30, 120, 150, 330, 400</p>
+                    <p><b>Warfare</b>: 135, 150, 180, 250, 400</p>
+                    <p>Super Simple Build to get the Overgrinder trophy as well as 5k buildings for Enchanted Fields, Inns, and Blacksmiths. (It also makes getting the Pink Carrot very easy)</p>
+                    <p>Just put spells on gold (SS, FC, HL, CtA, TC) and ride it out.</p>
+                    <p>I suspect that using a similar build with other factions will assist in grabbing an easy 5k buildings for each factions Unique building.</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Super-Dooper Spells Cast R28+<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: why_amihere</p>
+                    <p><b>Faction</b>: Goblin</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Research Template Edited</b>: Replaced S200 with S305</p>
+                    <p>S30,S50,S105,S305,S400,</p>
+                    <p>C120,C135,C150,C330,C400,</p>
+                    <p>D55,D135,D150,D200,D250,</p>
+                    <p>E1,E80,E135,E225,E250,</p>
+                    <p>A105,A120,A150,A270,A400,</p>
+                    <p>W25,W135,W205,W250,W400</p>
+                    <p>For mana, spell and FC needs, and also as example of a different kind of build.</p>
+                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/558332?page=6"><b>forum</b></a> post</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Overgrinder 50,000 Buildings<font color="Blue"> Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Faction</b>: Fairy</p>
+                    <p><b>Bloodline</b>: Goblin</p>
+                    <p><b>Research Template</b></p>
+                    <p>S1,S105,S200,S215,S305,</p>
+                    <p>C80,C120,C135,C150,C330,</p>
+                    <p>D225,D245,D250,D320,D400,</p>
+                    <p>E50,E80,E135,E150,E330,</p>
+                    <p>A105,A120,A150,A330,A400,</p>
+                    <p>W150,W180,W290,W320,W400</p>
+                    <p>This build is only for getting the (<b>Overgrinder</b>) Trophy.</p>
+                    <p><b>Spellcraft</b>: 1 105 175 200 215</p>
+                    <p><b>Craftsmanship</b>: 80 120 135 150 330</p>
+                    <p><b>Divine</b>: 225 245 250 320 400</p>
+                    <p><b>Economics</b>: 50 135 150 330 410</p>
+                    <p><b>Alchemy</b>: 25 120 150 330 400</p>
+                    <p><b>Warfare</b>: 150 180 290 320 400</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Flame Chance R33+<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: artcrow</p>
+                    <p><b>Faction</b>: Demon</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Template for R33</b></p>
+                    <p><b>Research Template Edited</b>: Replaced S330 with S305</p>
+                    <p>S105,S150,S200,S305,S500,</p>
+                    <p>C80,C120,C150,C330,C460,</p>
+                    <p>D10,D55,D320,D400,D480,</p>
+                    <p>E150,E200,E290,E330,E480,</p>
+                    <p>A105,A120,A150,A330,A410,</p>
+                    <p>W120,W150,W205,W320,W520</p>
+                    <p><b>Template for R34+</b></p>
+                    <p><b>Research Template Edited</b>: Replaced S330 with S305</p>
+                    <p>S105,S150,S200,S305,S500,</p>
+                    <p>C80,C120,C150,C330,C460,</p>
+                    <p>D10,D55,D320,D400,D480,</p>
+                    <p>E150,E200,E290,E330,E480,</p>
+                    <p>A105,A120,A150,A330,A410,</p>
+                    <p>W120,W150,W205,W320,W590</p>
+                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945/topics/612801?page=1#posts-10276567/"><b>forum</b></a> post</p>
+                </div>
+            </div>
+        </div>
+        <!--<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> !!!BUILD NAME HERE !!! </a></b></p>
+                <div class="autohide">
+                    ! ! ! BUILD DATA HERE ! ! !
+                </div>
+            </div>-->
     </div>
 
 

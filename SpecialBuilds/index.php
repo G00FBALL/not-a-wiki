@@ -4,10 +4,14 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <br/>
-    <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6><br/>
-    <p><b>All builds have been updated as of June, 3rd 2017.</b> <br/>
+    <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
+    <br/>
+    <p><b>All builds have been updated as of June, 3rd 2017.</b>
+        <br/>
     <p>These builds are not meant to help gem progress, but to help build-up a specific perk.
-    <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact from the build below, it will help out quite a bit. Also at <b>R76</b> Get <b>Know Your Enemy Part 2</b> before you use all your Excavations.</p><br/> <br/>
+    <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact from the build below, it will help out quite a bit. Also at <b>R76</b> Get <b>Know Your Enemy Part 2</b> before you use all your Excavations.</p>
+    <br/>
+    <br/>
     <div class="shlisting">
         <p><b>Mercenary phase</b></p>
         <div class="category">
@@ -79,7 +83,7 @@
                     <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
                     <p>Variant of IGOT a need for trophies for getting mana waste and autocasting.</p>
                     <p><b>Range</b>:R7-R11</p>
-                    <p><b>Requirements</b>: Helden Sterben Nicht </p>
+                    <p><b>Requirements</b>: Helden Sterben Nicht</p>
                     <p><b>Note</b>: Takes 4 hours 45 minutes to get Mana Waste.</p>
                     <p><b>Note</b>: All times listed below are with masterful autocast unlocked, 67.4 Qad 6.74e46 gems at R7</p>
                     <p><b>300 assistants</b>: 5 hours</p>
@@ -122,7 +126,7 @@
                 </div>
             </div>
         </div>
-            <br/>
+        <br/>
         <p><b>Vanilla Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -170,7 +174,7 @@
                 </div>
             </div>
         </div>
-            <br/>
+        <br/>
         <p><b>Prestige Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -189,9 +193,24 @@
                 </div>
             </div>
         </div>
-            <br/>
+        <br/>
         <p><b>Dragon phase</b></p>
         <div class="category">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"><font color="DarkRed"> Builds order for R60</font></a></b></p>
+                <div class="autohide">
+                    <p>At R60 here are 3 possible run orders, every requires different amount of excavations and takes different time. From fast to slow they are:
+                        <br/>
+                        1) DC4→UL5(Excavations)→UL push/DC5 (require the most excavations)
+                        <br/>
+                        2) DC4→DL5→UL5(Excavations)→UL push/DC5 (require medium amount of excavations)
+                        <br/>
+                        3) DC4→UL5(Faction Coins)→UL push/DC5 (don't require excavations)
+                    </p>
+                </div>
+            </div>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> Challenges</a></b></p>
+            <div class="category autohide">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 Barkscales R53+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -226,6 +245,43 @@
                         <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Undead</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+</p>
+                        <p>S305,S330,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D245,D250,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1325,E1425,</p>
+                        <p>A120,A250,A305,A400,A1325,</p>
+                        <p>W180,W250,W275,W400,W1375</p>
+                        <p><b>Notes</b>: Takes 4 hours max to complete DC5. Can be also used to get DC4 and spell cataclysm if you dont have them yet but do have UL5.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 Dracomet Vault R63+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Druid/Dragon</p>
+                        <p><b>Bloodline</b>: Druid</p>
+                        <p><b>Range</b>: E66 (1 Uvg) gems</p>
+                        <p>S215,S305,S330,S400,S1450,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D245,D275,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E250,E260,E460,E1425,</p>
+                        <p>A120,A305,A375,A400,A1325,A1500,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+            </div>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> Lineages</a></b></p>
+            <div class="category autohide">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -281,40 +337,6 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                    <div class="autohide">
-                        <p><b>Author</b>: Curunur</p>
-                        <p><b>Faction</b>: Faceless/Dragon</p>
-                        <p><b>Bloodline</b>: Undead</p>
-                        <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+</p>
-                        <p>S305,S330,S400,S500,S1450,S1500,</p>
-                        <p>C250,C340,C400,C1300,C1325,</p>
-                        <p>D200,D245,D250,D1125,D1275,D1375,</p>
-                        <p>E135,E145,E460,E1325,E1425,</p>
-                        <p>A120,A250,A305,A400,A1325,</p>
-                        <p>W180,W250,W275,W400,W1375</p>
-                        <p><b>Notes</b>: Takes 4 hours max to complete DC5. Can be also used to get DC4 and spell cataclysm if you dont have them yet but do have UL5.</p>
-                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                    </div>
-                </div>
-                <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 Dracomet Vault R63+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                    <div class="autohide">
-                        <p><b>Author</b>: Curunur</p>
-                        <p><b>Faction</b>: Druid/Dragon</p>
-                        <p><b>Bloodline</b>: Druid</p>
-                        <p><b>Range</b>: E66 (1 Uvg) gems</p>
-                        <p>S215,S305,S330,S400,S1450,</p>
-                        <p>C250,C340,C400,C1300,C1325,</p>
-                        <p>D245,D275,D1125,D1275,D1375,</p>
-                        <p>E135,E145,E250,E260,E460,E1425,</p>
-                        <p>A120,A305,A375,A400,A1325,A1500,</p>
-                        <p>W150,W180,W250,W400,W1375</p>
-                        <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
-                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                    </div>
-                </div>
-                <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 15 R70+ <font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Necrodoom</p>
@@ -333,7 +355,8 @@
                     </div>
                 </div>
             </div>
-            <br/>
+        </div>
+        <br/>
         <p><b>Mercenary Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -389,11 +412,15 @@
                     <p><b>Mercenary Templates</b></p>
                     <p><b>Sun Force Faction Coins</b></p>
                     <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DN2,DG3,DG4,</p>
-                    <p>SP:Grand Balance,SP:Dragon's Breath <br> <br>
+                    <p>SP:Grand Balance,SP:Dragon's Breath
+                        <br>
+                        <br>
                     </p>
                     <p><b>Sun Force Production or Offline.</b></p>
                     <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC2,FC7,DG3,DG4,</p>
-                    <p>SP:Grand Balance,SP:Dragon's Breath <br> <br>
+                    <p>SP:Grand Balance,SP:Dragon's Breath
+                        <br>
+                        <br>
                     </p>
                     <p><b>Sun Force Assistants and high DB:White DG9 can replace FR9 for more income.</b></p>
                     <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DW2,DG3,DG4,</p>
@@ -538,7 +565,7 @@
                 </div>
             </div>
         </div>
-            <br/>
+        <br/>
         <p><b>Endgame</b></p>
         <div class="category">
 
@@ -602,7 +629,7 @@
                     <p>E25,E50,E135,E590,E3250,E3300,</p>
                     <p>A120,A305,A375,A1500,A2950,A3400,</p>
                     <p>W175,W275,W400,W520,W1400,W3050</p>
-                    <p><b>Note</b>: High W275 buff for Lineage levelling builds. Primarily for level 28+ Lineage around the highest reincarnation reachable in a reasonable amount of time. High S400 recommended. At least 750K for maximizing Lineage levels, the higher the better. </p>
+                    <p><b>Note</b>: High W275 buff for Lineage levelling builds. Primarily for level 28+ Lineage around the highest reincarnation reachable in a reasonable amount of time. High S400 recommended. At least 750K for maximizing Lineage levels, the higher the better.</p>
                     <p>S30 instead of S500 for runs over 7-8 days. Dragon Lineage and Dragon's Breath tiers are slow with this build.</p>
                     <p>Don't buy the tax collection upgrade(Round Table), turn off Druid Challenge 4 and autocast all spells + tax collection for buildup, which last until end of run. Buy Round Table and finish the run during Sun Force assistants.</p>
                     <p>Build is based on this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=17#posts-11422165"><b>forum</b></a> post</p>
@@ -633,7 +660,8 @@
                 </div>
             </div>
         </div>
-        <br/> <br/>
+        <br/>
+        <br/>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Obsoletes</a></b></p>
         <div class="category autohide">
             <div class="shelementwhole">
@@ -645,7 +673,7 @@
                     <p>FR1,FR2,UD7,DM6,DM8,TT3,TT6,DD9,FC6,DN2,DN7,DW5,</p>
                     <p>SP:Hellfire Blast,SP:Night Time</p>
                     <p><b>Note</b>: Useful to get the building trophies, and boost Faceless Heritage and Faceless Overgrowth (2,3) whether you can reach 35k buildings or not! Name comes from The Lego Movie (it's about building).</p>
-                    <p><b>Range</b>: R7+ </p>
+                    <p><b>Range</b>: R7+</p>
                     <p><b>Alignment</b>: Evil (For Neutral, use Halstrike Blast. For Good, suggestions are open!)</p>
                     <p><b>Characteristics</b>: Maximizes the production of Hall of Legends, while reducing building costs as much as possible.</p>
                     <p><b>Spells</b>: Night Time, Hellfire Blast</p>
