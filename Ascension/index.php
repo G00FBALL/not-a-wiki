@@ -26,7 +26,7 @@
 <p>Values for ascension <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/615701-values-for-ascension-upgrades-assistants-mana-regen-and-no-percent-shown">upgrades</a> by <a target="_blank" href="http://www.kongregate.com/accounts/artcrow">artcrow</a>
 <p><b>Formula</b>: ((x / 100 + 1)0.1A - 1) * 100, where x is original bonus in percentage and A is Ascension count.
 <h6>Multiplier reduction</h6>
-<p> Anscension reduces multipliers for building cost and excavation. 
+<p> Ascension reduces multipliers for building cost and excavation. 
 <p><b>Formula</b>: 1 + (M - 1) / 5, where M is old multiplier. 
 
 <?php include "../scripts/footer.html"; ?>
