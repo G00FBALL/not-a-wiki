@@ -170,6 +170,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Prestige Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -188,6 +189,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Dragon phase</b></p>
         <div class="category">
                 <div class="shelementwhole">
@@ -331,6 +333,7 @@
                     </div>
                 </div>
             </div>
+            <br/>
         <p><b>Mercenary Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -535,6 +538,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Endgame</b></p>
         <div class="category">
 
