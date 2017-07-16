@@ -122,6 +122,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Vanilla Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -169,6 +170,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Prestige Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -187,6 +189,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Dragon phase</b></p>
         <div class="category">
                 <div class="shelementwhole">
@@ -242,23 +245,6 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                    <div class="autohide">
-                        <p><b>Author</b>: Curunur</p>
-                        <p><b>Faction</b>: Faceless/Dragon</p>
-                        <p><b>Bloodline</b>: Undead</p>
-                        <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+</p>
-                        <p>S305,S330,S400,S500,S1450,S1500,</p>
-                        <p>C250,C340,C400,C1300,C1325,</p>
-                        <p>D200,D245,D250,D1125,D1275,D1375,</p>
-                        <p>E135,E145,E460,E1325,E1425,</p>
-                        <p>A120,A250,A305,A400,A1325,</p>
-                        <p>W180,W250,W275,W400,W1375</p>
-                        <p><b>Notes</b>: Takes 4 hours max to complete DC5. Can be also used to get DC4 and spell cataclysm if you dont have them yet but do have UL5.</p>
-                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                    </div>
-                </div>
-                <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Excavations)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Curunur</p>
@@ -291,6 +277,23 @@
                         <p>A120,A300,A305,A400,A1325,</p>
                         <p>W150,W180,W250,W400,W1375</p>
                         <p><b>Notes</b>: Takes 25 minutes max. Used if not enough excavations left for the option above.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Undead</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+</p>
+                        <p>S305,S330,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D245,D250,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1325,E1425,</p>
+                        <p>A120,A250,A305,A400,A1325,</p>
+                        <p>W180,W250,W275,W400,W1375</p>
+                        <p><b>Notes</b>: Takes 4 hours max to complete DC5. Can be also used to get DC4 and spell cataclysm if you dont have them yet but do have UL5.</p>
                         <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
@@ -330,6 +333,7 @@
                     </div>
                 </div>
             </div>
+            <br/>
         <p><b>Mercenary Research phase</b></p>
         <div class="category">
             <div class="shelementwhole">
@@ -534,6 +538,7 @@
                 </div>
             </div>
         </div>
+            <br/>
         <p><b>Endgame</b></p>
         <div class="category">
 
