@@ -199,13 +199,13 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"><font color="DarkRed"> Builds order for R60</font></a></b></p>
                 <div class="autohide">
-                    <p>At R60 here are 3 possible run orders, every requires different amount of excavations and takes different time. From fast to slow they are:
+                    <p>There are 3 possible methods to unlock DC4, UL5 and DC5, each of them requires a different amount of excavations and takes a different amount time:
                         <br/>
-                        1) DC4→UL5(Excavations)→UL push/DC5 (require the most excavations)
+                        1) DC4→UL5(Excavations)→UL push/DC5 (require the most excavations, fastest)
                         <br/>
-                        2) DC4→DL5→UL5(Excavations)→UL push/DC5 (require medium amount of excavations)
+                        2) DC4→DL5→UL5(Excavations)→UL push/DC5 (require a smaller amount of excavations, medium speed)
                         <br/>
-                        3) DC4→UL5(Faction Coins)→UL push/DC5 (don't require excavations)
+                        3) DC4→UL5(Faction Coins)→UL push/DC5 (doesn't require excavations at all, slowest)
                     </p>
                 </div>
             </div>
