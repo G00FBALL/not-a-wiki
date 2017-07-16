@@ -224,6 +224,24 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Faceless/Dragon</p>
+                        <p><b>Bloodline</b>: Druid</p>
+                        <p><b>Range</b>: E48 (1 Qid) gems</p>
+                        <p><b>Research Template</b></p>
+                        <p>S105,S375,S400,S500,S1450,S1500,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D200,D290,D330,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E460,E1325,E1425,</p>
+                        <p>A120,A300,A305,A400,A1325,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Run this build until Druid Lineage 5 and excavate for Ancient Heirloom. Used if you didnt keep enough excavations for UL5 excavation unlock build. Takes 1.5 hours max.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL push/DC5 Ancient Incantation R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Curunur</p>
@@ -240,23 +258,6 @@
                         <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
-                <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 Dracomet Vault R63+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                    <div class="autohide">
-                        <p><b>Author</b>: Curunur</p>
-                        <p><b>Faction</b>: Druid/Dragon</p>
-                        <p><b>Bloodline</b>: Druid</p>
-                        <p><b>Range</b>: E66 (1 Uvg) gems</p>
-                        <p>S215,S305,S330,S400,S1450,</p>
-                        <p>C250,C340,C400,C1300,C1325,</p>
-                        <p>D245,D275,D1125,D1275,D1375,</p>
-                        <p>E135,E145,E250,E260,E460,E1425,</p>
-                        <p>A120,A305,A375,A400,A1325,A1500,</p>
-                        <p>W150,W180,W250,W400,W1375</p>
-                        <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
-                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                    </div>
-            </div>
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Excavations)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -276,24 +277,6 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                    <div class="autohide">
-                        <p><b>Author</b>: Curunur</p>
-                        <p><b>Faction</b>: Faceless/Dragon</p>
-                        <p><b>Bloodline</b>: Druid</p>
-                        <p><b>Range</b>: E48 (1 Qid) gems</p>
-                        <p><b>Research Template</b></p>
-                        <p>S105,S375,S400,S500,S1450,S1500,</p>
-                        <p>C250,C340,C400,C1300,C1325,</p>
-                        <p>D200,D290,D330,D1125,D1275,D1375,</p>
-                        <p>E135,E145,E460,E1325,E1425,</p>
-                        <p>A120,A300,A305,A400,A1325,</p>
-                        <p>W150,W180,W250,W400,W1375</p>
-                        <p><b>Notes</b>: Run this build until Druid Lineage 5 and excavate for Ancient Heirloom. Used if you didnt keep enough excavations for UL5 excavation unlock build. Takes 1.5 hours max.</p>
-                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-                    </div>
-                </div>
-                <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage 5 R60+ (Faction Coins)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Curunur</p>
@@ -308,6 +291,23 @@
                         <p>A120,A300,A305,A400,A1325,</p>
                         <p>W150,W180,W250,W400,W1375</p>
                         <p><b>Notes</b>: Takes 25 minutes max. Used if not enough excavations left for the option above.</p>
+                        <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 Dracomet Vault R63+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                    <div class="autohide">
+                        <p><b>Author</b>: Curunur</p>
+                        <p><b>Faction</b>: Druid/Dragon</p>
+                        <p><b>Bloodline</b>: Druid</p>
+                        <p><b>Range</b>: E66 (1 Uvg) gems</p>
+                        <p>S215,S305,S330,S400,S1450,</p>
+                        <p>C250,C340,C400,C1300,C1325,</p>
+                        <p>D245,D275,D1125,D1275,D1375,</p>
+                        <p>E135,E145,E250,E260,E460,E1425,</p>
+                        <p>A120,A305,A375,A400,A1325,A1500,</p>
+                        <p>W150,W180,W250,W400,W1375</p>
+                        <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
                         <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                     </div>
                 </div>
