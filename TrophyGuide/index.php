@@ -253,7 +253,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretTrophy.png" alt="Expert Researcher" align="middle"> <b>Expert Researcher</b> (R30)
     <p>Research 2750 times across all fields (459 per branch).
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png" alt="Van!shment" align="middle"> <b>Van!shment</b> (R31)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png" alt="Van!shment" align="middle"> <b>Van!shment</b> (R26)
     <p><b>Pre Ascension</b>: Reach an Offline Bonus of at least 1Qa%.
     <p><b>Post Ascension</b>: Reach an Offline Bonus of at least 1895%.
     <p><b>----------------------------------</b>
