@@ -50,26 +50,27 @@
                     <p><b>Alignment</b>: Good Mercenary</p>
                     <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
                     <p><b>Template</b></p>
-                    <p>DW3,DM2,DW1,GB1,DM5,DM6,UD6,UD4,GB7,GB9,UD9,UD8,</p>
+                    <p>GB1,GB7,UD2,UD5,UD7,DM2,DM4,DM6,DM9,DW2,DW5,DW8,</p>
                     <p>SP:Goblin's Greed</p>
                     <p>This build is only for getting the (Lucifer) Trophy.</p>
                     <p><b>Spells</b>: Goblin's Greed, No need to buy the second spell</p>
                     <p><b>Tier 1 Upgrades</b>:</p>
-                    <p><b>Drow</b> (1,3): Shadow Advance</p>
+                    <p><b>Drow</b> (1,2): Honor Among Killers</p>
                     <p><b>Demon</b> (1,2): Devil Tyrant</p>
-                    <p><b>Drow</b> (1,1): Underworld Tyranny</p>
+                    <p><b>Undead</b> (1,2): Deadened Muscles</p>
                     <p><b>Goblin</b> (1,1): Strong Currency</p>
                     <p><b>Tier 2 Upgrades</b>:</p>
-                    <p><b>Demon</b> (2,2): Demon Overseers</p>
+                    <p><b>Demon</b> (2,1): Lava Pits</p>
                     <p><b>Demon</b> (2,3): Demonic Presence</p>
-                    <p><b>Undead</b> (2,3): Plagued Buildings</p>
-                    <p><b>Undead</b> (2,1): Unholy Rituals</p>
+                    <p><b>Undead</b> (2,2): Corpse Supply</p>
+                    <p><b>Drow</b> (2,2): Blood Sacrifices</p>
                     <p><b>Tier 3 Upgrades</b>:</p>
                     <p><b>Goblin</b> (3,1): Goblin Central Bank</p>
-                    <p><b>Goblin</b> (3,3): Green Fingers Discount</p>
-                    <p><b>Undead</b> (3,3): Undead Resilience</p>
-                    <p><b>Undead</b> (3,2): Tireless Workers</p>
+                    <p><b>Drow</b> (3,2): Professional Assassins</p>
+                    <p><b>Demon</b> (3,3): Very Bad Guys</p>
+                    <p><b>Undead</b> (3,1): Dead Fields</p>
                     <p><b>Harlequin Bonus</b>: 216%</p>
+                    <p>by<b> Namelessname</b></p>
                 </div>
             </div>
             <div class="shelementwhole">
