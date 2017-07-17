@@ -5,9 +5,8 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right cornor of the options window (In game).
     <div class="shlisting">
         <div class="shelementwhole">
-<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.2 Full Patch Notes</a></b></p>
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.2 July 17th, 2017</a></b></p>
 <div class="autohide">
-    <p><b>Patch 2.7.3</b> July 17th, 2017
     <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Jul 21st 2017, 12.01 PM UTC and will end on JUL 25th 2017, 6.59 PM UTC.
     <p>Drow's Shadow Advance is now included in the Offline Production tooltip and applies twice multiplicatively when offline (results in a much higher bonus while offline).
     <p>Added localization for the latest versions released.
