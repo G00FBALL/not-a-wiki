@@ -34,7 +34,7 @@
                     <p><b>Tier 2 Upgrades</b></p>
                     <p><b>Fairy</b>: (2,1) Fairy Workers</p>
                     <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
-                    <p><b>Titan</b>: (2,3) Oversized Legends</p>
+                    <p><b>Titan</b>: (2,3) Cyclopean Strength</p>
                     <p><b>Drow</b>: (2,1) Mana Addicts</p>
                     <p><b>Tier 3 Upgrades</b></p>
                     <p><b>Goblin</b>: (3,1) Goblin Central Bank</p>
