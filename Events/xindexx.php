@@ -59,7 +59,7 @@
     </map>
     <div class="shlisting">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion Jul 21st - 25th 2017</a></b></p>
             <div class="autohide">
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
                 <p><b>Cost</b>: Free
