@@ -34,14 +34,13 @@
                     <p><b>Tier 2 Upgrades</b></p>
                     <p><b>Fairy</b>: (2,1) Fairy Workers</p>
                     <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
-                    <p><b>Faceless</b>: (2,3) Overgrowth</p>
+                    <p><b>Titan</b>: (2,3) Oversized Legends</p>
                     <p><b>Drow</b>: (2,1) Mana Addicts</p>
                     <p><b>Tier 3 Upgrades</b></p>
                     <p><b>Goblin</b>: (3,1) Goblin Central Bank</p>
-                    <p><b>Dragon</b>: (3,1) Ancient Hunger (R76+)</p>
-                    <p><b>Undead</b>: (3,3) Undead Resilience</p>
-                    <p><b>Demon</b>: (3,3) Very Bad Guys</p>
-                    <p><b>Titan</b>: (3,2) Heavy Coins</p>
+                    <p><b>Undead</b>: (3,1) Dead Fields</p>
+                    <p><b>Demon</b>: (3,2) Burning Legion</p>
+                    <p><b>Faceless</b>: (3,1) Magical Treasure</p>
                     <p>by<b> Chat Room #2 (edited by PseudonymousBosh)</b></p>
                 </div>
             </div>
