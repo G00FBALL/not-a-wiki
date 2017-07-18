@@ -63,7 +63,7 @@
                     <p><b>Elf</b> (2,1): Elven Emissary</p>
                     <p><b>Angel</b> (2,2): Angelic Wisdom</p>
                     <p><b>Angel</b> (2,3): Archangel Feathers</p>
-                    <p><b>Dwarf/b> (2,2): Indestructible Treasure</p>
+                    <p><b>Dwarf</b> (2,2): Indestructible Treasure</p>
                     <p><b>Tier 3 Upgrades</b>:</p>
                     <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
                     <p><b>Elf</b> (3,1): Elven Diplomacy</p>
