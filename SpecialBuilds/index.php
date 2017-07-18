@@ -21,7 +21,7 @@
                     <p><b>Alignment</b>: Evil Mercenary</p>
                     <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
                     <p><b>Template</b></p>
-                    <p>FR4,EL3,AN5,GB1,DG7,UD9,DM9,TT8,DD1,FC6,DN2,DW4,GB7,</p>
+                    <p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
                     <p>SP:Fairy Chanting,SP:God's Hand</p>
                     <p><b>Note</b>: This build is for getting <b>Coin Pillage</b>,<b>Premeditation</b> and <b>Harlequin</b> at R3 and <b>KYE</b> at R12+</p>
                     <p><b>Coin Pillage</b>: After the build is set up put Tax Collection on Silver auto casting and done.</p>
@@ -34,19 +34,18 @@
                     <p><b>Tier 2 Upgrades</b></p>
                     <p><b>Fairy</b>: (2,1) Fairy Workers</p>
                     <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
-                    <p><b>Faceless</b>: (2,3) Overgrowth</p>
+                    <p><b>Titan</b>: (2,3) Cyclopean Strength</p>
                     <p><b>Drow</b>: (2,1) Mana Addicts</p>
                     <p><b>Tier 3 Upgrades</b></p>
                     <p><b>Goblin</b>: (3,1) Goblin Central Bank</p>
-                    <p><b>Dragon</b>: (3,1) Ancient Hunger (R76+)</p>
-                    <p><b>Undead</b>: (3,3) Undead Resilience</p>
-                    <p><b>Demon</b>: (3,3) Very Bad Guys</p>
-                    <p><b>Titan</b>: (3,2) Heavy Coins</p>
-                    <p>by<b> Chat Room #2</b></p>
+                    <p><b>Undead</b>: (3,1) Dead Fields</p>
+                    <p><b>Demon</b>: (3,2) Burning Legion</p>
+                    <p><b>Faceless</b>: (3,1) Magical Treasure</p>
+                    <p>by<b> Chat Room #2 (edited by PseudonymousBosh)</b></p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="Red"> Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Alignment</b>: Evil Mercenary</p>
                     <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
@@ -64,7 +63,7 @@
                     <p><b>Elf</b> (2,1): Elven Emissary</p>
                     <p><b>Angel</b> (2,2): Angelic Wisdom</p>
                     <p><b>Angel</b> (2,3): Archangel Feathers</p>
-                    <p><b>Dwarf/b> (2,2): Indestructible Treasure</p>
+                    <p><b>Dwarf</b> (2,2): Indestructible Treasure</p>
                     <p><b>Tier 3 Upgrades</b>:</p>
                     <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
                     <p><b>Elf</b> (3,1): Elven Diplomacy</p>
@@ -210,8 +209,8 @@
                     </p>
                 </div>
             </div>
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> Challenges</a></b></p>
-            <div class="category autohide">
+            <p><b> Challenges</b></p>
+            <div class="category">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 Barkscales R53+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">
@@ -281,8 +280,8 @@
                     </div>
                 </div>
             </div>
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"> Lineages</a></b></p>
-            <div class="category autohide">
+            <p><b> Lineages</b></p>
+            <div class="category">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 5 R60+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                     <div class="autohide">

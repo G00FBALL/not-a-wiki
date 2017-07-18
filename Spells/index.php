@@ -717,7 +717,7 @@
     </div>
     </br>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragons Breath</b> (Dragon)</p>
-    <p><b>Works For</b>: Dragon - <b>Cost</b>: 2000 Mana - <b>Duration</b>: 30 seconds</p>
+    <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 30 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)
     <p><b>Name</b>: Dragon's Breath
     <p><b>Effect</b>: With the Spell Dragon's Roar upgrade produces Faction Coins based on this spell activity time.
