@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="Red"> Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Alignment</b>: Evil Mercenary</p>
                     <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
