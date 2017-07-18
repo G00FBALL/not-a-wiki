@@ -69,7 +69,7 @@
                     <p><b>Elf</b> (3,1): Elven Diplomacy</p>
                     <p><b>Dwarf</b> (3,1): Battlehammers</p>
                     <p><b>Dwarf</b> (3,2): Magic Resistance</p>
-                    <p><b>Harlequin Bonus</b>: 216%</p>
+                    <p><b>Harlequin Bonus</b>: 64%</p>
                     <p>by<b> Namelessname</b></p>
                 </div>
             </div>
