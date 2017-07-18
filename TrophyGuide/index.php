@@ -90,7 +90,8 @@
     <p>This will require no less than 36 hours <b>this game</b> for Faceless
     <p><b>----------------------------------</b>
     <p><b>Not so easy; peculiar requirements</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"> <b>Equality</b> Any R (suggested R0, R46)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"> <b>Equality</b> 
+    <p>Any R (suggested R0, R32, R46) Best to do at R0, At R32 you have research D480 that require 12 hours with Good, Evil and Neutral., D525 that requires 1 day 12 hours as Good
     <p>Spend at least 24 hours with each of the 3 alignments, and have the difference between each one be less than 60 seconds.
     <p><b>Note</b>: Get 2 Alignments at 24 hours and a few seconds each then go to the 3rd Alignment and once it reaches at least 24 hour the Trophy will be awarded.
 	<p><b>Note</b>: R32 during unlocking D480, D525 and W525.
