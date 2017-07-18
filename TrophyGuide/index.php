@@ -224,10 +224,6 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png" alt="Warlord" align="middle"> <b>Warlord</b> (R20)
     <p>Discover at least 10 Warfare Researches.
     <p><b>----------------------------------</b>
-    <p><b>3500 Buildings</b> (series 18) (R20-24)
-    <p>Build 3500 of each building
-    <p><b>Note</b> This is 25 Trophies
-    <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png" alt="That Excavated Quickly" align="middle"> <b>That Excavated Quickly</b> (R21-25)
     <p>Excavate 1000 times in the first 30 seconds of playtime.
     <p><b>----------------------------------</b>
