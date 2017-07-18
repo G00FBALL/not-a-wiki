@@ -46,30 +46,30 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="Red"> Evil</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Alignment</b>: Good Mercenary</p>
+                    <p><b>Alignment</b>: Evil Mercenary</p>
                     <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
                     <p><b>Template</b></p>
-                    <p>GB1,GB7,UD2,UD5,UD7,DM2,DM4,DM6,DM9,DW2,DW5,DW8,</p>
+                    <p>FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,</p>
                     <p>SP:Goblin's Greed</p>
                     <p>This build is only for getting the (Lucifer) Trophy.</p>
                     <p><b>Spells</b>: Goblin's Greed, No need to buy the second spell</p>
                     <p><b>Tier 1 Upgrades</b>:</p>
-                    <p><b>Drow</b> (1,2): Honor Among Killers</p>
-                    <p><b>Demon</b> (1,2): Devil Tyrant</p>
-                    <p><b>Undead</b> (1,2): Deadened Muscles</p>
-                    <p><b>Goblin</b> (1,1): Strong Currency</p>
+                    <p><b>Elf</b> (1,1): Elven Mint</p>
+                    <p><b>Elf</b> (1,3): Sylvan Treasure Frills</p>
+                    <p><b>Angel</b> (1,3): Angel Feathers</p>
+                    <p><b>Dwarf</b> (1,2): Expert Masonry</p>
                     <p><b>Tier 2 Upgrades</b>:</p>
-                    <p><b>Demon</b> (2,1): Lava Pits</p>
-                    <p><b>Demon</b> (2,3): Demonic Presence</p>
-                    <p><b>Undead</b> (2,2): Corpse Supply</p>
-                    <p><b>Drow</b> (2,2): Blood Sacrifices</p>
+                    <p><b>Elf</b> (2,1): Elven Emissary</p>
+                    <p><b>Angel</b> (2,2): Angelic Wisdom</p>
+                    <p><b>Angel</b> (2,3): Archangel Feathers</p>
+                    <p><b>Dwarf/b> (2,2): Indestructible Treasure</p>
                     <p><b>Tier 3 Upgrades</b>:</p>
-                    <p><b>Goblin</b> (3,1): Goblin Central Bank</p>
-                    <p><b>Drow</b> (3,2): Professional Assassins</p>
-                    <p><b>Demon</b> (3,3): Very Bad Guys</p>
-                    <p><b>Undead</b> (3,1): Dead Fields</p>
+                    <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
+                    <p><b>Elf</b> (3,1): Elven Diplomacy</p>
+                    <p><b>Dwarf</b> (3,1): Battlehammers</p>
+                    <p><b>Dwarf</b> (3,2): Magic Resistance</p>
                     <p><b>Harlequin Bonus</b>: 216%</p>
                     <p>by<b> Namelessname</b></p>
                 </div>
