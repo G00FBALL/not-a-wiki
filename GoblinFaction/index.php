@@ -60,7 +60,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png" alt="Smiley face" align="middle"> Fool's Gold</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Witch Conclaves you own.</p>
-<p><b>Formula</b>: floor(2 * x^0.6)%p, where x is the number of Witch Conclaves you own.</p>
+<p><b>Formula</b>: floor(2 * x^0.6)%, where x is the number of Witch Conclaves you own.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" alt="Smiley face" align="middle"> Green Fingers Discount</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>
