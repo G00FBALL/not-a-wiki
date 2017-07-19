@@ -90,7 +90,8 @@
     <p>This will require no less than 36 hours <b>this game</b> for Faceless
     <p><b>----------------------------------</b>
     <p><b>Not so easy; peculiar requirements</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"> <b>Equality</b> Any R (suggested R0, R46)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"> <b>Equality</b> 
+    <p>Any R (suggested R0, R32, R46) Best to do at R0, At R32 you have research D480 that require 12 hours with Good, Evil and Neutral., D525 that requires 1 day 12 hours as Good
     <p>Spend at least 24 hours with each of the 3 alignments, and have the difference between each one be less than 60 seconds.
     <p><b>Note</b>: Get 2 Alignments at 24 hours and a few seconds each then go to the 3rd Alignment and once it reaches at least 24 hour the Trophy will be awarded.
 	<p><b>Note</b>: R32 during unlocking D480, D525 and W525.
@@ -223,10 +224,6 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png" alt="Warlord" align="middle"> <b>Warlord</b> (R20)
     <p>Discover at least 10 Warfare Researches.
-    <p><b>----------------------------------</b>
-    <p><b>3500 Buildings</b> (series 18) (R20-24)
-    <p>Build 3500 of each building
-    <p><b>Note</b> This is 25 Trophies
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png" alt="That Excavated Quickly" align="middle"> <b>That Excavated Quickly</b> (R21-25)
     <p>Excavate 1000 times in the first 30 seconds of playtime.

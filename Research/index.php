@@ -159,7 +159,7 @@
 <p><b>Requirement</b>: R16 + 1750 Necropolises</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Undeadr2.png" alt="Undercities" align="middle"> Undercities</b></p>
-<p>Upgrade Necropolises To Undercities, boosting their production bases on time spent in this game and unlocking more unique perks for the building.</p>
+<p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (10 * (2x)^0.75)%, where x is your Playtime (This Game) stat.</p>
 <p><b>Requirement</b>: Buy "Undercities Quest"</p>
 <p><b>Effect</b>: Grants access to the Research Facilities.

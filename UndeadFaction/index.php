@@ -14,7 +14,7 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Night Time</p>
 <p><b>Effect</b>: The production of assistants is increased by 30% per Necropolis you own for 20 seconds.</p>
-<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png" alt="Smiley face" align="middle"> <b>True Night</b>
+<p><b>Spell Trophy &amp; Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png" alt="Smiley face" align="middle"> <b>True Night</b>
 <p><b>Effect</b>: Increases Night Time's production of assistants to 40% per Necropolis.
 <p><b>Requirements</b>: Cast Night Time between 11 pm and 6 am.</p>
 <p><b>----------------------------------</b></p>
@@ -75,7 +75,7 @@
 <p><b>Requirement</b>: R16 + 1750 Necropolises
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercityFactionUpgrade.png" alt="Smiley face" align="middle"> Undercity</b></p>
-<p>Upgrade Necropolises To Undercities, boosting their production bases on time spent in this game and unlocking more unique perks for the building.</p>
+<p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>:  (10 * (2x)0.^75)%, where x is your Playtime (This Game) stat.
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
