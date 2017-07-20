@@ -99,7 +99,7 @@
                     <p><b>Faceless</b> (3,1): Magical Treasure</p>
                     <p><b>Dwarf</b> (3,2): Magic Resistance</p>
                     <p><b>Harlequin Bonus</b>: 64%</p>
-                    <p>by <b>Artcrow</b></p>
+                    <p>by <b>artcrow</b></p>
                 </div>
             </div>
             <div class="shelementwhole">
