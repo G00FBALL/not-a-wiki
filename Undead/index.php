@@ -17,7 +17,7 @@
 <p><b>----------------------------------</b></p>
 <p><b>Undead Challenge 2</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ExperiencedHelpersChallenges.png" alt="Experienced Helpers" align="middle"> <b>Experienced Helpers</b></p>
-<p>The walking dead, pleased with your newfound strenghs, send ou on a mission to reap as many souls as possible under the cover of the Night to bolster their forces.</p>
+<p>The walking dead, pleased with your newfound strenghs, send you on a mission to reap as many souls as possible under the cover of the Night to bolster their forces.</p>
 <p><b>Requirements</b>: 8 Reincarnations, Undead Bloodline, 
 <p><b>Challenge</b>: Cast Night Time when you have over 100 assistants.</p>
 <p><b>Effect</b>: Assistant production is increased by 10%.</p>
