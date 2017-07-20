@@ -74,6 +74,35 @@
                 </div>
             </div>
             <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst R3+<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Alignment</b>: Evil Mercenary</p>
+                    <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+                    <p><b>Template</b></p>
+                    <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
+                    <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
+                    <p>This build is only for getting the (Unlimited Mana) Trophy.</p>
+                    <p><b>Spells</b>: Goblin's Greed, Fairy Chant</p>
+                    <p><b>Tier 1 Upgrades</b>:</p>
+                    <p><b>Angel</b> (1,3): Angel Feathers</p>
+                    <p><b>Druid</b> (1,1): Druidic Vocabulary</p>
+                    <p><b>Dwarf</b> (1,2): Expert Masonry</p>
+                    <p><b>Drow</b> (1,2): Honor Among Killers</p>
+                    <p><b>Tier 2 Upgrades</b>:</p>
+                    <p><b>Angel</b> (2,3): Archangel Feathers</p>
+                    <p><b>Undead</b> (2,2): Corpse Supply</p>
+                    <p><b>Druid</b> (2,3): Shapeshifting</p>
+                    <p><b>Faceless</b> (2,2): Mitosis</p>
+                    <p><b>Tier 3 Upgrades</b>:</p>
+                    <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
+                    <p><b>Demon</b> (3,2): Burning Legion</p>
+                    <p><b>Faceless</b> (3,1): Magical Treasure</p>
+                    <p><b>Dwarf</b> (3,2): Magic Resistance</p>
+                    <p><b>Harlequin Bonus</b>: 64%</p>
+                    <p>by<b>Artcrow</b></p>
+                </div>
+            </div>
+            <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7-R11<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Alignment</b>: Good Mercenary</p>
