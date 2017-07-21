@@ -196,8 +196,8 @@
                     <p><b>Bloodline</b>: Drowline (or Druidline if you dont have Drowline)</p>
                     <p>S105,S135,S150,S270,S305,</p>
                     <p>C80,C135,C150,C200,C305,</p>
-                    <p>D135,D200,D245,D250,D330,E80,E135,</p>
-                    <p>E200,E250,E330,</p>
+                    <p>D135,D200,D245,D250,D330,</p>
+                    <p>E80,E135,E200,E250,E330,</p>
                     <p>A55,A105,A120,A270,A330,</p>
                     <p>W150,W180,W200,W205,W250</p>
                 </div>
