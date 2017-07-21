@@ -76,17 +76,18 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/FighttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Fight the Goblin Army</b>
                 <p><b>Requirement</b>: Good or Neutral alignment
+                <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.
                     <br/>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/SupporttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Support the Goblin Army</b>
                 <p><b>Requirement</b>: Evil or Neutral alignment
+                <p><b>Effect</b>: Increase your assistants by 1% per level.
                 <p><b>----------------------------------</b>
                 <p><b>Event Quest</b>
                 <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 25
-                <p><b>Effect 1</b>: Increase maximum mana and mana regeneration by 1% per level.
-                <p><b>Effect 2</b>: Adds 1% cumulative bonus to you total Event bonus.
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
                 <p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.
@@ -95,7 +96,6 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 50
-                <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.
                 <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
@@ -105,8 +105,7 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 100
-                <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.
-                <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.
+                <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> God's Finger</b></p>
                 <p><b>Effect</b>: Each manual click counts as 1000 clicks for all purposes.
@@ -115,8 +114,7 @@
                 <p><b>Goblin's Commander Quest</b>: Support the Goblin Army
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
                 <p><b>Requirement</b>: Support the Goblin Army Level 25
-                <p><b>Effect</b>: Increase your assistants by 1% per level.
-                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                 <p><b>Effect</b>: All spells activity time counts more based on the amount of assistants you own.
@@ -125,8 +123,7 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                 <p><b>Requirement</b>: Support the Goblin Army Level 50
-                <p><b>Effect</b>: Increase your assistants by 1% per level.
-                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
                 <p><b>Effect</b>: Increases the production of Neutral buildings based on the amount of assistants you own.
@@ -135,8 +132,7 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
                 <p><b>Requirement</b>: Support the Goblin Army Level 100
-                <p><b>Effect</b>: Increase your assistants by 1% per level.
-                <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.
+                <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
                 <p><b>Effect</b>: Increase the production of all buildings based on total time spent, Also further increase Offline production by the same amount.
