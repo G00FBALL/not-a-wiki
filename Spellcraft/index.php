@@ -84,7 +84,7 @@
     <p><B>Formula</B>: round(0.5 * x^0.58)%, where x is your Mana Produced (This Game) stat.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S251</B>: - <b>For</b> Faceless - <B>Research Name</B> Assimilation </p>
-    <p><B>Requirement</B>: Play as Faceless
+    <p><B>Requirement</B>: Secrets of the Ancients (as Faceless)
     <p><B>Cost</B>: 79.05 QiQig (7.905E169)
     <p><B>Effect</B>: Increase the production of Sunken Cities based on time spent affiliated with factions different than the Faceless.</p>
     <p><B>Formula</B>: round(0.3 * x^0.7)%, where x is total time spent as non-Faceless factions.</p>
