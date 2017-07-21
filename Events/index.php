@@ -119,6 +119,7 @@
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                 <p><b>Effect</b>: All spells activity time counts more based on the amount of assistants you own.
                 <p><b>Formula</b>: (x^0.5)%, where x is amount of assistants you own.
+                <p><b>Note</b>: Does NOT work for spell tier leveling
                     <br/>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
