@@ -69,7 +69,7 @@
                 <p><b>Event Resources</b>
                 <p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b>
                 <p>During the Goblin Invasion Event you will be able to collect Goblin Crowns, appearing in a random location of your screen at a rate of 1 per minute, stacking up to 480 units (8 hours). These Resources will be used to either fight or support the invading Goblin Army: both choices will grant you new bonuses and unlock new unique upgrades. You can also complete Quests and Feats, also found in the Event panel. Aside for completion purposes, completed quests will also grant a small permanent production bonus. Remember that all Goblin Invasion upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.
-                <p><b>Note</b>: You need 5170 Goblin Crowns to complete all quest, Total time 3 days 14 hours 10 minutes without scrying.
+                <p><b>Note</b>: You need 5370 Goblin Crowns to complete all quest, Total time 3 days 17 hours 30 minutes without scrying.
                 <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.
                     <br/>
                     <br/>
@@ -84,7 +84,6 @@
                 <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 25
-                <p><b>Cost</b>: 103 Goblin Crowns.
                 <p><b>Effect 1</b>: Increase maximum mana and mana regeneration by 1% per level.
                 <p><b>Effect 2</b>: Adds 1% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
@@ -95,7 +94,6 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 50
-                <p><b>Cost</b>: 537 Goblin Crowns.
                 <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.
                 <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
@@ -106,7 +104,6 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 100
-                <p><b>Cost</b>: 1945 Goblin Crowns.
                 <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.
                 <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
@@ -117,7 +114,6 @@
                 <p><b>Goblin's Commander Quest</b>: Support the Goblin Army
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
                 <p><b>Requirement</b>: Support the Goblin Army Level 25
-                <p><b>Cost</b>: 103 Goblin Crowns.
                 <p><b>Effect</b>: Increase your assistants by 1% per level.
                 <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
@@ -128,7 +124,6 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                 <p><b>Requirement</b>: Support the Goblin Army Level 50
-                <p><b>Cost</b>: 537 Goblin Crowns.
                 <p><b>Effect</b>: Increase your assistants by 1% per level.
                 <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
@@ -139,7 +134,6 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
                 <p><b>Requirement</b>: Support the Goblin Army Level 100
-                <p><b>Cost</b>: 1945 Goblin Crowns.
                 <p><b>Effect</b>: Increase your assistants by 1% per level.
                 <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.
                 <p><b>Reward</b>
