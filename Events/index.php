@@ -146,6 +146,7 @@
                 <p><b>Requirement</b>: Support the Goblin Army 100 times.
                 <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
                 <p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.
+                 <p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarf is 1, any other good/dwarf is not counted)</p>
                 <p><b>----------------------------------</b>
                 <p><b>Shop Item</b>
                 <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 75 Goblin Crowns</b></p>
