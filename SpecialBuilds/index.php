@@ -403,7 +403,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Research R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (Merc Research unlock) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Tskami_ek</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
@@ -417,20 +417,20 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research unlock) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Necrodoom</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
                     <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Note</b>: You need to be at least e88 for this, but higher is better/faster.</p>
+                    <p><b>Note</b>: Tested at e87, takes a few hours, may work at earlier gems.</p>
                     <p><b>Note</b>: This build is for the Secrets of the Warriors quest that unlocks the research itself. For the Mercenary Encampments quest that unlocks the unique buildings, you could try to substitute in Goblin Bloodline.</p>
                     <p><b>Mercenary Template</b></p>
-                    <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,SP:Fairy Chanting,SP:Dragon's Breath</p>
+                    <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG3,DG4,SP:Fairy Chanting,SP:Dragon's Breath</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low-gem Mercenary Research R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low-Gem (Merc Research unlock) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: artcrow</p>
                     <p><b>Note</b>: This build is for the Secrets of the Warriors quest that unlocks the research itself. For the Mercenary Encampments quest that unlocks the unique buildings, you could try to substitute in Goblin Bloodline.</p>
@@ -460,7 +460,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Note</b>: Editied with help from Lapare. Use this to get Lineage 20, starting with the Undead Lineage. Replace A1325 for A2950 (Druid or Undead) after R77 if you would like, though it's usually not necessary for this to work quickly.</p>
+                    <p><b>Note</b>: Edited with help from Lapare. Use this to get Lineage 20, starting with the Undead Lineage. Replace A1325 for A2950 (Druid or Undead) after R77 if you would like, though it's usually not necessary for this to work quickly.</p>
                     <p><b>Author</b>: ?</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
                     <p><b>Bloodline</b>: All (1 at a time)</p>
