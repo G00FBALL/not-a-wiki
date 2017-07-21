@@ -39,7 +39,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>Merc Template</b>
-                <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,
+                <p>EL1,EL3,EL4,EL7,AN3,AN5,GB7,FC7,DW2,DW6,DG4,DG7,
                 <p>SP:Fairy Chanting,SP:Dragon's Breath
                 <p><b>Note</b>: Start out casting Fairy Chanting and Dragon's Breath (tier 1) on bronze and Tax Collect on Gold until you get 400 REs / UL15.
                 <p><b>Note</b>: Faster if you have UL15, but works without it. There are also Druidline builds which are likely faster, but I don’t know of any yet.
@@ -54,7 +54,7 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>Note</b>: Tested at e87, takes a few hours, may work at earlier gems.
                 <p><b>Merc Template</b>
-                <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,
+                <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG3,DG4,
                 <p>SP:Fairy Chanting,SP:Dragon's Breath
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
             </div>
