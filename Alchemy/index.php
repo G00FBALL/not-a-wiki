@@ -85,7 +85,7 @@
 <p><B>Formula</B>: floor(x^0.9 / 25)%, where x is the amount of research made.
 <p><b>----------------------------------</b></p>
 <p><b>A251</b> - <b>For</b> Druid - <B>Research Name</B> Infusion
-<p><B>Requirement</B>: Play as Druid
+<p><B>Requirement</B>: Secrets of the Ancients (as Druids)
 <p><B>Cost</B>: 79.05 QiQig (7.905E169)
 <p><B>Effect</B>: Increase the production of Stonehenge Circles based on mana produced in this game.
 <p><B>Formula</B>: round(0.75 * x ^0.6)%, where x is your Mana Produced (This Game) stat.
