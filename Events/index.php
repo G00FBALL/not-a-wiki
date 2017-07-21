@@ -69,8 +69,9 @@
                 <p><b>Event Resources</b>
                 <p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b>
                 <p>During the Goblin Invasion Event you will be able to collect Goblin Crowns, appearing in a random location of your screen at a rate of 1 per minute, stacking up to 480 units (8 hours). These Resources will be used to either fight or support the invading Goblin Army: both choices will grant you new bonuses and unlock new unique upgrades. You can also complete Quests and Feats, also found in the Event panel. Aside for completion purposes, completed quests will also grant a small permanent production bonus. Remember that all Goblin Invasion upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.
-                <p><b>Note</b>: You need 5370 Goblin Crowns to complete all quest, Total time 3 days 17 hours 30 minutes without scrying.
-                <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.
+                <p>The Formula for the cost needed to level a faction is floor((level + 1) ^ 0.85) Goblin Crowns
+                <p>You need 203 Goblin Crowns (total) to level a faction to level 25, 740 to level 50, and 2685 to level 100.
+                <p>You need 5370 Goblin Crowns to complete all quest by leveling both factions to level 100, Total time 3 days 17 hours 30 minutes without scrying.
                     <br/>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/FighttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Fight the Goblin Army</b>
