@@ -128,7 +128,7 @@
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
                 <p><b>Effect</b>: Increases the production of Neutral buildings based on the amount of assistants you own.
-                <p><b>Formula</b>: (x^0.25)%, where x is amount of assistants you own.
+                <p><b>Formula</b>: (150 * x^0.25)%, where x is amount of assistants you own.
                     <br/>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
