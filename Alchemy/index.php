@@ -100,7 +100,7 @@
 <p><B>Requirement</B>: Produce 5M mana (This game, as Druid)
 <p><B>Cost</B>: 33 OcQig (3.36E178)
 <p><B>Effect</B>: Increase mana regeneration based on mana produced in this game.
-<p><B>Formula</B>: floor(10 * ln(1 + x) ^ 1.2) / 300, where x is your Mana Produced (This Game) stat.
+<p><B>Formula</B>: floor(30 * ln(1 + x) ^ 1.2) / 300, where x is your Mana Produced (This Game) stat.
 <p><b>----------------------------------</b></p>
 <p><b>A305</b> - <b>For</b> Any - <B>Research Name</B> Engraving
 <p><B>Requirement</B>: 5 days as Druids (Total across all Rs)
