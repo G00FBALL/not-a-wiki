@@ -677,7 +677,7 @@
                     <p><b>Mercenary Templates</b></p>
                     <p>FR1,FR3,FR7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
                     <p>SP:Combo Strike,SP:God's Hand
-                    <p><b>Mercenary 13th Upgrade</b> FR9 - or this build can be run without upgrading Tax Collection.
+                    <p><b>Mercenary 13th Upgrade</b> FR9
                     <p>S180,S305,S400,S500,S1275,S1500,
                     <p>C340,C590,C1300,C1325,C3000,C3100,
                     <p>D25,D175,D200,D250,D1275,D2775,
