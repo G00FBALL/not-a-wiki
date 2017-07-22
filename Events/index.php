@@ -96,7 +96,7 @@
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 50
-                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.
                 <p><b>Reward</b>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
                 <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.
