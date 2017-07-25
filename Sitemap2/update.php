@@ -1,6 +1,6 @@
 <?php
     if (!empty($_POST["pass"])) {
-        if ($_POST["pass"] === "goofygoof") {
+        if (md5($_POST["pass"]) === "9fe9cb12277af13c8bc31be450a3172c") {
             $website = "http://www.musicfamily.org/realm";
             $dom = new DOMDocument("1.0", "UTF-8");
             $urlset = $dom->createElement("urlset");
