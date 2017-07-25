@@ -6,7 +6,7 @@
             $urlset = $dom->createElement("urlset");
             $urlset->setAttribute("xmlns", "http://www.sitemaps.org/schemas/sitemap/0.9");
             $urlset = $dom->appendChild($urlset);
-            $directory = new RecursiveDirectoryIterator("..", FilesystemIterator::SKIP_DOTS);
+            $directory = new RecursiveDirectoryIterator("..");
             $filter = new RecursiveCallbackFilterIterator($directory, function ($current) {
                 /** @var SplFileInfo $current */
                 if ($current->getFilename()[0] === '.') {
@@ -21,18 +21,36 @@
                 return FALSE;
             });
             $iterator = new RecursiveIteratorIterator($filter);
+
+            class SortingIterator extends SplHeap
+            {
+                public function __construct(Iterator $iterator)
+                {
+                    foreach ($iterator as $item) {
+                        $this->insert($item);
+                    }
+                }
+
+                public function compare($b, $a)
+                {
+                    return strcasecmp($a->getRealpath(), $b->getRealpath());
+                }
+            }
+
+            $iteratorsorted = new SortingIterator($iterator);
             $href = "";
             $html = "";
             $depthdef = mb_substr_count($website, "/") + 1;
             $depth = $depthdef;
-            foreach ($iterator as $key => $entry) {
-                $href = str_replace("..", "", $key);
+            /** @var SplFileInfo $entry */
+            foreach ($iteratorsorted as $entry) {
+                $href = str_replace("..", "", $entry->getPathname());
                 $href = str_replace("\\", "/", $href);
                 $href = $website . $href;
                 $url = $dom->createElement("url");
                 $url = $urlset->appendChild($url);
                 $loc = $dom->createElement("loc", $href);
-                $loc = $urlset->appendChild($loc);
+                $loc = $url->appendChild($loc);
                 if ($href !== $website . "/index.php") {
                     $href = str_replace("index.php", "", $href);
                     while ($depth < mb_substr_count($href, "/")) {
