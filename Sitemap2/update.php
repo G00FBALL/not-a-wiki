@@ -9,7 +9,7 @@
             $directory = new RecursiveDirectoryIterator("..");
             $filter = new RecursiveCallbackFilterIterator($directory, function ($current) {
                 /** @var SplFileInfo $current */
-                if ($current->getFilename()[0] === '.') {
+                if ($current->getFilename()[0] === '.' || in_array($current->getFilename(), ["G00F'sPicks", "test"])) {
                     return FALSE;
                 }
                 if ($current->isDir()) {
