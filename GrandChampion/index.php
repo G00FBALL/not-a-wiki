@@ -48,6 +48,5 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png" alt="DragonGrandChampionTrophy.png" align="middle"> <b>Dragon Grand Champion</b>
     <p><b>Requirement</b>: Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.
-    <p><b>----------------------------------</b>
         <?php include "../scripts/footer.html"; ?>
 
