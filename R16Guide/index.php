@@ -19,7 +19,7 @@
 <p><b>Alignment</b>: Vanilla faction
 <p><b>------------------------------<p></b>
 <p><b>RP = Research Points<p></b>
-<p><b>Note</b>: Some editing done by G00FBALL
+<p><b>Note</b>: Get to e70 to e71 gems before starting to unlock research.
 <p><b>Note</b>: Good Alignment, Elf/Elfline to Merc in under 10-20 minutes.
 <p>You can use <b>Mercenary</b> to get to the required gem level. (Elven Farms build suggested) 
 <p><b>Note</b>: If the upgrade is one of the key points of the run it will be listed outside of brackets/parentheses (). Design your build based on these.
