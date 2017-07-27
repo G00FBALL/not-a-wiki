@@ -2,6 +2,11 @@
     if (!empty($_POST["pass"])) {
         if (md5($_POST["pass"]) === "9fe9cb12277af13c8bc31be450a3172c") {
             $website = "http://www.musicfamily.org/realm";
+            $typos = [
+                "WallofShame" => "Wall of Shame",
+                "BuildingAlignements" => "Building Alignments",
+                ".." => "Main Page"
+            ];
             $href = "";
             $html = "";
             $htmlul = array();
@@ -38,6 +43,7 @@
                  */
                 public function __construct(RecursiveIteratorIterator $iterator) {
                     global $website;
+                    global $typos;
                     /** @var SplFileInfo $item */
                     foreach ($iterator as $item) {
                         $linkxml = str_replace("..", "", $item->getPathname());
@@ -45,18 +51,10 @@
                         $linkxml = $website . $linkxml;
                         $linkhtml = str_replace("index.php", "", $linkxml);
                         $name = $item->getPathInfo()->getBasename();
-                        switch ($name) {
-                            case "WallofShame":
-                                $name = "Wall of Shame";
-                                break;
-                            case "BuildingAlignements":
-                                $name = "Building Alignments";
-                                break;
-                            case "..":
-                                $name = "Main page";
-                                break;
-                            default:
-                                $name = preg_replace('/(?<=[a-z])[A-Z]/', ' $0', $name);
+                        if (isset($typos[$name])) {
+                            $name = $typos[$name];
+                        } else {
+                            $name = preg_replace('/(?<=[a-z])[A-Z]/', ' $0', $name);
                         }
                         $depth = $iterator->getDepth();
                         $parent = preg_replace("/[^\\/]+\\/$/", "", $linkhtml);
