@@ -4,7 +4,7 @@
             $website = "http://www.musicfamily.org/realm";
             $typos = array(
                 "WallofShame" => "Wall of Shame",
-                "BuildingAlignements" => "Building alignments",
+                "BuildingAlignements" => "Building Alignments",
                 "ResearchBuildsobsolete" => "Research Builds (Obsolete)",
                 ".." => "Main Page"
             );
