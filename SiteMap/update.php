@@ -10,6 +10,7 @@
             $href = "";
             $html = "";
             $htmlul = array();
+            //conflict stuff
             $htmlli = array();
             $xml = new DOMDocument("1.0", "UTF-8");
             $urlset = $xml->createElement("urlset");
