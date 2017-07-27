@@ -53,6 +53,9 @@
                             case "..":
                                 $name = "Main page";
                                 break;
+                            case "52563":
+                                $name = "Main page";
+                                break;
                             default:
                                 $name = preg_replace('/(?<=[a-z])[A-Z]/', ' $0', $name);
                         }
