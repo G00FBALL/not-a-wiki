@@ -2,16 +2,15 @@
     if (!empty($_POST["pass"])) {
         if (md5($_POST["pass"]) === "9fe9cb12277af13c8bc31be450a3172c") {
             $website = "http://www.musicfamily.org/realm";
-            $typos = [
+            $typos = array(
                 "WallofShame" => "Wall of Shame",
-                "BuildingAlignements" => "Building alignments",
+                "BuildingAlignements" => "Building Alignments",
                 "ResearchBuildsobsolete" => "Research Builds (Obsolete)",
                 ".." => "Main Page"
-            ];
+            );
             $href = "";
             $html = "";
             $htmlul = array();
-            //conflict stuff
             $htmlli = array();
             $xml = new DOMDocument("1.0", "UTF-8");
             $urlset = $xml->createElement("urlset");
