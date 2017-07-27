@@ -52,6 +52,9 @@
                             case "..":
                                 $name = "Main page";
                                 break;
+                            case "Research Buildsobsolete"
+                                $name = "Research Builds (Obsolete)"
+                                break;
                             default:
                                 $name = preg_replace('/(?<=[a-z])[A-Z]/', ' $0', $name);
                         }
