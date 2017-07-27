@@ -4,7 +4,8 @@
             $website = "http://www.musicfamily.org/realm";
             $typos = [
                 "WallofShame" => "Wall of Shame",
-                "BuildingAlignements" => "Building Alignments",
+                "BuildingAlignements" => "Building alignments",
+                "ResearchBuildsobsolete" => "Research Builds (Obsolete)",
                 ".." => "Main Page"
             ];
             $href = "";
