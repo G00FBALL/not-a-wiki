@@ -49,6 +49,9 @@
                             case "WallofShame":
                                 $name = "Wall of Shame";
                                 break;
+                            case "BuildingAlignements":
+                                $name = "Building Alignments";
+                                break;
                             case "..":
                                 $name = "Main page";
                                 break;
