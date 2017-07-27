@@ -128,7 +128,7 @@
     <p><B>Note</B>: All purposes doesn't mean all purposes. W400 counts for most upgrade and spell formulas, but does not count for most trophies. Iron Rush is one exception.
     <p><b>----------------------------------</b></p>
     <p><b>W405</b> - <b>For</b> Drow - <B>Research Name</B> Ambush
-    <p><B>Requirement</B>: Secret Underground upgrade (as Drow)
+    <p><B>Requirement</B>: Secrets of the Underworld (as Drow)
     <p><B>Cost</B>: 103.7 QaSxg (1.037E197)
     <p><B>Effect</B>: Increase the production of Spider Sanctuaries based on offline Bonus
     <p><B>Formula</B>: 3.25 * log(1+x) ^ 3.25, where x is Offline Production Bonus.

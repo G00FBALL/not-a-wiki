@@ -74,6 +74,35 @@
                 </div>
             </div>
             <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst R3+<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Alignment</b>: Evil Mercenary</p>
+                    <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+                    <p><b>Template</b></p>
+                    <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
+                    <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
+                    <p>This build is only for getting the (Unlimited Mana) Trophy.</p>
+                    <p><b>Spells</b>: Goblin's Greed, Fairy Chant</p>
+                    <p><b>Tier 1 Upgrades</b>:</p>
+                    <p><b>Angel</b> (1,3): Angel Feathers</p>
+                    <p><b>Druid</b> (1,1): Druidic Vocabulary</p>
+                    <p><b>Dwarf</b> (1,2): Expert Masonry</p>
+                    <p><b>Drow</b> (1,2): Honor Among Killers</p>
+                    <p><b>Tier 2 Upgrades</b>:</p>
+                    <p><b>Angel</b> (2,3): Archangel Feathers</p>
+                    <p><b>Undead</b> (2,2): Corpse Supply</p>
+                    <p><b>Druid</b> (2,3): Shapeshifting</p>
+                    <p><b>Faceless</b> (2,2): Mitosis</p>
+                    <p><b>Tier 3 Upgrades</b>:</p>
+                    <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
+                    <p><b>Demon</b> (3,2): Burning Legion</p>
+                    <p><b>Faceless</b> (3,1): Magical Treasure</p>
+                    <p><b>Dwarf</b> (3,2): Magic Resistance</p>
+                    <p><b>Harlequin Bonus</b>: 64%</p>
+                    <p>by <b>artcrow</b></p>
+                </div>
+            </div>
+            <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7-R11<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Alignment</b>: Good Mercenary</p>
@@ -162,15 +191,15 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R26+<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: KenamePokeball</p>
+                    <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Undead</p>
                     <p><b>Bloodline</b>: Drowline (or Druidline if you dont have Drowline)</p>
-                    <p>S105,S135,S150,S270,S305,</p>
-                    <p>C80,C135,C150,C200,C305,</p>
-                    <p>D135,D200,D245,D250,D330,E80,E135,</p>
-                    <p>E200,E250,E330,</p>
-                    <p>A55,A105,A120,A270,A330,</p>
-                    <p>W150,W180,W200,W205,W250</p>
+                    <p>S105,S150,S200,S270,S330,</p>
+                    <p>C105,C120,C135,C150,C330,</p>
+                    <p>D135,D200,D250,D290,D320,</p>
+                    <pE10,E80,E135,E150,E250,</p>
+                    <p>A55,A105,A120,A175,A270,</p>
+                    <p>W120,W135,W205,W250,W290</p>
                 </div>
             </div>
         </div>
@@ -374,7 +403,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Research R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (Merc Research unlock) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Tskami_ek</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
@@ -388,20 +417,20 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research unlock) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Necrodoom</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
                     <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Note</b>: You need to be at least e88 for this, but higher is better/faster.</p>
+                    <p><b>Note</b>: Tested at e87, takes a few hours, may work at earlier gems.</p>
                     <p><b>Note</b>: This build is for the Secrets of the Warriors quest that unlocks the research itself. For the Mercenary Encampments quest that unlocks the unique buildings, you could try to substitute in Goblin Bloodline.</p>
                     <p><b>Mercenary Template</b></p>
-                    <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG4,DG3,SP:Fairy Chanting,SP:Dragon's Breath</p>
+                    <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG3,DG4,SP:Fairy Chanting,SP:Dragon's Breath</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low-gem Mercenary Research R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low-Gem (Merc Research unlock) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: artcrow</p>
                     <p><b>Note</b>: This build is for the Secrets of the Warriors quest that unlocks the research itself. For the Mercenary Encampments quest that unlocks the unique buildings, you could try to substitute in Goblin Bloodline.</p>
@@ -431,7 +460,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Note</b>: Editied with help from Lapare. Use this to get Lineage 20, starting with the Undead Lineage. Replace A1325 for A2950 (Druid or Undead) after R77 if you would like, though it's usually not necessary for this to work quickly.</p>
+                    <p><b>Note</b>: Edited with help from Lapare. Use this to get Lineage 20, starting with the Undead Lineage. Replace A1325 for A2950 (Druid or Undead) after R77 if you would like, though it's usually not necessary for this to work quickly.</p>
                     <p><b>Author</b>: ?</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
                     <p><b>Bloodline</b>: All (1 at a time)</p>
@@ -648,7 +677,7 @@
                     <p><b>Mercenary Templates</b></p>
                     <p>FR1,FR3,FR7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
                     <p>SP:Combo Strike,SP:God's Hand
-                    <p><b>Mercenary 13th Upgrade</b> FR9 - or this build can be run without upgrading Tax Collection.
+                    <p><b>Mercenary 13th Upgrade</b> FR9
                     <p>S180,S305,S400,S500,S1275,S1500,
                     <p>C340,C590,C1300,C1325,C3000,C3100,
                     <p>D25,D175,D200,D250,D1275,D2775,

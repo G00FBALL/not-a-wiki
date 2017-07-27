@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophiesTopPage.png" alt="TrophiesTopPage" align="middle"></h6>
-    <p>The original guide can be found <a href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"> <b>here</b></a> produced by <a href="http://www.kongregate.com/accounts/dox4242"> <b>dox242</b></a>
+    <p>The original guide can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"> <b>here</b></a> produced by <a target="_blank" href="http://www.kongregate.com/accounts/dox4242"> <b>dox242</b></a>
     <p>At the end of R0 you should have between 430 and 450 Trophies. You will get most of them automatically and will not be listed here.
     <p><b>Easy/possible to do at the beginning of R0</b>
     <p><b>Clouded</b>

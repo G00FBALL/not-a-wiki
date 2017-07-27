@@ -87,7 +87,7 @@
 <p><B>Formula</B>: floor(2.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.</p>
 <p><b>----------------------------------</B></p>
 <p><b>C251</b> - <b>For</b> Titan - <B>Research Name</B> Architecture</p>
-<p><B>Requirement</B>: Play as Titan</p>
+<p><B>Requirement</B>: Secrets of the Ancients (as Titan)</p>
 <p><B>Cost</B>: 79.05 QiQig (79.05E168)</p>
 <p><B>Effect</B>: Increase the production of Olympian Halls based on the amount of buildings you own.
 <p><B>Formula</B>: round(0.5 * x ^0.8)%, where x is your Buildings Owned (This Game) stat.</p>
@@ -129,7 +129,7 @@
 <p><B>Formula</B>:  floor(3.5 * ln^3(x + 1)), where x is your Faction Coins Gained (This Game) stat.</p>
 <p><b>----------------------------------</B></p>
 <p><b>C405</b> - <b>For</b> Dwarf - <B>Research Name</B> Metallurgy</p>
-<p><B>Requirement</B>: Underground Research upgrade</p>
+<p><B>Requirement</B>: Secrets of the Underworld (as Dwarf)</p>
 <p><B>Cost</B>: 103.7 QaSxg (1.037E197)</p>
 <p><B>Effect</B>: Increase Dwarven Forges based on the Dwarven Forges you own.</p>
 <p><B>Formula</B>: 45 * x^0.825%, where x is the number of Dwarven Forges you own.</p>

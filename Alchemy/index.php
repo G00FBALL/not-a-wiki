@@ -85,7 +85,7 @@
 <p><B>Formula</B>: floor(x^0.9 / 25)%, where x is the amount of research made.
 <p><b>----------------------------------</b></p>
 <p><b>A251</b> - <b>For</b> Druid - <B>Research Name</B> Infusion
-<p><B>Requirement</B>: Play as Druid
+<p><B>Requirement</B>: Secrets of the Ancients (as Druids)
 <p><B>Cost</B>: 79.05 QiQig (7.905E169)
 <p><B>Effect</B>: Increase the production of Stonehenge Circles based on mana produced in this game.
 <p><B>Formula</B>: round(0.75 * x ^0.6)%, where x is your Mana Produced (This Game) stat.
@@ -100,7 +100,7 @@
 <p><B>Requirement</B>: Produce 5M mana (This game, as Druid)
 <p><B>Cost</B>: 33 OcQig (3.36E178)
 <p><B>Effect</B>: Increase mana regeneration based on mana produced in this game.
-<p><B>Formula</B>: floor(10 * (1.5 * ln(1 + x))) / 10, where x is your Mana Produced (This Game) stat.
+<p><B>Formula</B>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
 <p><b>----------------------------------</b></p>
 <p><b>A305</b> - <b>For</b> Any - <B>Research Name</B> Engraving
 <p><B>Requirement</B>: 5 days as Druids (Total across all Rs)

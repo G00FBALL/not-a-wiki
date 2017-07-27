@@ -641,40 +641,40 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Grand Champion Trophy</a></b></p>
         <div class="autohide">
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png" alt="Fairy Champion" align="middle"> Fairy Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Fairy Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" alt="Elven Champion" align="middle"> Elven Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Elven Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png" alt="Angel Champion" align="middle"> Angel Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Angel Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png" alt="Goblin Champion" align="middle"> Goblin Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Goblin Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadGrandChampionTrophy.png" alt="Undead Champion" align="middle"> Undead Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Undead Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Undead Lineage to level 20 and purchase 3 Undead Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png" alt="Demon Champion" align="middle"> Demon Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Demon Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png" alt="Titan Champion" align="middle"> Titan Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Titan Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" alt="Druid Champion" align="middle"> Druid Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Druid Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png" alt="Faceless Champion" align="middle"> Faceless Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Faceless Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" alt="Titan Champion" align="middle"> Dwarf Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Dwarf Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Dwarf Lineage to level 20 and purchase 3 Dwarf Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png" alt="Druid Champion" align="middle"> Drow Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Drow Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.
             <p>------------------------------</p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png" alt="Faceless Champion" align="middle"> Dragon Grand Champion</b></p>
-            <p><b>Requirement</b>: Upgrade Dragon Lineage to level 20
+            <p><b>Requirement</b>: Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.
             <p>------------------------------</p></div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Reincarnation Trophy</a></b></p>
         <div class="autohide">
