@@ -37,7 +37,7 @@
 <p><B>Requirement</B>: Research Blessing (D1) & Refraction (A55)
 <p><B>Cost</B>: 3.273 Uqig (3.273E156)
 <p><B>Effect</B>: You gain additional assistants based on God's Hands activity time.
-<p><B>Formula</B>: floor(0.45 * (3 * x / 20)^0.6), where x is God's Hands' Active Time This Game.
+<p><B>Formula</B>: floor(0.45 * (0.15 * x)^0.6), where x is God's Hands' Active Time This Game.
 <br/>
 <br/>
 <p><b>D250</b> - <b>For</b> Any - <B>Research Name</B> Demonology
