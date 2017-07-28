@@ -36,8 +36,8 @@
 <p><b>EL</b>: Elf
 <p><b>AN</b>: Angel
 <p><b>GB</b>: Goblin
+<p><b>UD</b>: Undead
 <p><b>DM</b>: Demon
-<p><b>UN</b>: Undead
 <p><b>TT</b>: Titan
 <p><b>DD</b>: Druid
 <p><b>FC</b>: Faceless
