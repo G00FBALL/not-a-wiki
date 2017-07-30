@@ -281,31 +281,29 @@
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Florian's Ultimate Diamond Grinder R87+"<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Curunur
-                <p><b>Note</b>: This one works up into the e110s and beyond, but REQUIRES T6 of all the spells. You'll also want at least a 1e7% W275. After Rastan9's neutral build above loses steam, this will take you beyond.
-                <p><b>Note</b>: If (100*C1300/demonline)&lt;C1500 C1300→C1500</p>
-                <p><b>Note</b>: If S400&gt;750k(allowing two additional tiers of Share Benefits) S215→S400 and E1225→E460</p>
-                <p><b>Note</b>: DO NOT BUY SHARED BENEFITS UNTIL STAGE 4! This means that you CANNOT use Buy All for the majority of the run.
-                <p><b>Stage 1</b>: Lasts until you get the 400 REs for the lineage, about 5-45 minutes depending on W275.
-                <p><b>Stage 2</b>: Use all Spells and Tiers to be able to buy all Researches, then let them run for ~10 minutes to get maximum buildings
-                <p><b>Stage 3</b>: Spell building for 1-8 hours. Only cast FC1, DB6 and TC to build up DB:Green, D525, etc.
-                <p><b>Stage 4</b>: Buy the Shared Benefits upgrade, then go full spells until abdication.
-                <p><b>Alignment</b>: Good Mercenary
-                <p><b>Bloodline</b>: Dragon
-                <p><b>A2950</b>: Demon
-                <p><b>Note</b>: Demon is used to gain lineage base bonus and will be effective even with 0% bloodline bonus.</p>
-                <p><b>Merc Template</b>
-                <p>FR1,EL3,EL7,AN5,TT6,DD5,DD7,FC7,DN2,DG3,DG4,DG9,
-                <p>SP:Fairy Chanting,SP:Grand Balance
-                <p><b>Merc 13th Upgrade</b>: AN2
-                <p><b>Research Template</b>
-                <p>S215,S305,S330,S1275,S1450,S1500,
-                <p>C300,C340,C400,C590,C1300,C3000,
-                <p>D25,D245,D525,D1275,D1375,D2775,
-                <p>E50,E135,E350,E410,E1225,E3250,
-                <p>A30,A120,A175,A1500,A2950,A3400,
-                <p>W10,W180,W275,W400,W1375,W3150
+            <div class="autohide"> 
+                <p><b>Author</b>: Curunur <b>edited by</b> Artcrow</p>
+                <p><b>Range</b>: 1e114 (1 Sptg) gems+ (?) </p>
+                <p><b>Alignment</b>: Good Mercenary</p>
+                <p><b>Bloodline</b>: Dragon </p>
+                <p><b>A2950</b>: Demon</p>
+                <p><b>Mercenary Template</b>:</p>
+                <p>FR1,EL3,EL7,AN5,TT6,DD5,DD7,FC7,DN2,DG3,DG4,DG9,SP:Fairy Chanting,SP:Grand Balance</p>
+                <p><b>Mercenary 13th Upgrade</b>: AN2, DN8 if higher, FR7 if it adds a Share Benefits tier. </p>
+                <p><b>Research Template</b>:</p>
+                <p>S215,S305,S330,S1275,S1450,S1500,</p>
+                <p>C225,C300,C340,C590,C1300,C3000,</p>
+                <p>D25,D245,D525,D1275,D1375,D2775,</p>
+                <p>E50,E135,E350,E410,E460,E3250,</p>
+                <p>A30,A105,A120,A1500,A2950,A3400,</p>
+                <p>W10,W275,W400,W590,W1375,W3150</p>
+                <p><b>Note</b>:Replace S215 with S400 if S400 is 750k+</p>
+                <p><b>Note</b>:Replace C1300 with C1500 if the bonus of C1300 compared to demon bloodline is smaller than the production bonus of C1500.</p>
+                <p><b>Note</b>: DO NOT BUY SHARED BENEFITS UNTIL STAGE 4! This means that you CANNOT use Buy All for the majority of the run.</p>
+                <p><b>Stage 1</b>: Lasts until you get the 400 Royal Exchanges for the lineage, about 5-45 minutes depending on W275.</p>
+                <p><b>Stage 2</b>: Use all Spells and Tiers to be able to buy all Researches, then let them run for ~10 minutes to get maximum buildings.</p>
+                <p><b>Stage 3</b>: Spell building for 1-8 hours. Only cast FC1, DB6 and TC to build up DB:Green, D525, etc.</p>
+                <p><b>Stage 4</b>: Buy the Shared Benefits upgrade, then go full spells until abdication.</p>
             </div>
         </div>
     </div>
