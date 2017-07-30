@@ -14,10 +14,10 @@
     <p><b>Mercenary Unique Building Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek
-                <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.
+                <p><b>Note</b>: Using Dragless: Get to e86+ gems, Excavate to 8000 for the Obsidian Shard.
                     <br/>
                 <p><b>Mercenary Unique Building Unlock</b>
                 <p><b>Faction</b>: Neutral Mercenary
@@ -84,7 +84,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R75-76<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Fallen Angel" R75-76<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: artcrow
                 <p><b>Alignment</b>: Good Mercenary
@@ -112,7 +112,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R77+ Merc entry<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R77+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Alignment</b>: Neutral Mercenary
@@ -280,7 +280,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Florian's Ultimate Diamond Grinder R87+"<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Florian's Ultimate Diamond Grinder" R87+<font color="Blue"> Good</font></a></b></p>
             <div class="autohide"> 
                 <p><b>Author</b>: Curunur <b>edited by</b> Artcrow</p>
                 <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
@@ -307,7 +307,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Braining Grounds R87+"<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Braining Grounds" R87+<font color="Blue"> Good</font></a></b></p>
             <div class="autohide"> 
                 <p><b>Author</b>: Artcrow</p>
                 <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
@@ -332,6 +332,32 @@
                 <p>Uninterrupted online periods of 20 hours or more as Brainwave restarts if you ever go offline or export/import. </p>
                 <p>Buildup: All spells and TC on autocast, don't buy Round Table/Share Benefits until starting income. Start income near the end of a Brainwave allowing at least 1 hour for income.</p>
                 <p>Be sure to maximize Brainwave duration at the start of the run. Start casting Brainwave at less than maximum tier until you have purchased upgrades and more buildings. Have Dragon's Breath tier 5+ active before casting Brainwave at max tier (put Dragon's Breath before Brainwave in the autocast.)</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"PACKER" R87+<font color="DarkRed"> Evil/font></a></b></p>
+            <div class="autohide"> 
+                <p><b>Author</b>: Artcrow</p>
+                <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
+                <p><b>Alignment</b>: Evil Mercenary</p>
+                <p><b>Bloodline</b>: Dragon </p>
+                <p><b>A2950</b>: Druid</p>
+                <p><b>Mercenary Template</b>:</p>
+                <p>EL3,EL7,AN2,AN5,AN8,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave</p>
+                <p><b>Mercenary 13th Upgrade</b>: UD7</p>
+                <p><b>Research Template</b>:</p>
+                <p>S50,S305,S375,S400,S1450,S1500,</p>
+                <p>C300,C340,C400,C590,C1300,C3000,</p>
+                <p>D25,D200,D245,D330,D1275,D2775,</p>
+                <p>E10,E135,E145,E225,E350,E3250,</p>
+                <p>A10,A150,A410,A1500,A2950,A3400,</p>
+                <p>W180,W275,W400,W525,W3050,W3150</p>
+                <p><b>Note</b>: Replace A120 with A150 for 2+ day runs.</p>
+                <p><b>Note</b>: Replace E225 with E30 for 3+ day runs.</p>
+                <p><b>Note</b>: Replace C400 with C1500 if C1500 is 100%+.</p>
+                <p><b>Note</b>: Replace D200 with D1375 if you already did a long previous S400 buff run.</p>
+                <p><b>Description</b>:Brainwave over 30 hours long in the Druid build. Over 20 in the Demon build. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p> 
+                Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.</p>
             </div>
         </div>
     </div>
