@@ -335,7 +335,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"PACKER" R87+<font color="DarkRed"> Evil/font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"PACKER" R87+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide"> 
                 <p><b>Author</b>: Artcrow</p>
                 <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
