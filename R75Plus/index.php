@@ -283,7 +283,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Florian's Ultimate Diamond Grinder R87+"<font color="Blue"> Good</font></a></b></p>
             <div class="autohide"> 
                 <p><b>Author</b>: Curunur <b>edited by</b> Artcrow</p>
-                <p><b>Range</b>: 1e114 (1 Sptg) gems+ (?) </p>
+                <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
                 <p><b>Alignment</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Dragon </p>
                 <p><b>A2950</b>: Demon</p>
@@ -297,13 +297,41 @@
                 <p>E50,E135,E350,E410,E460,E3250,</p>
                 <p>A30,A105,A120,A1500,A2950,A3400,</p>
                 <p>W10,W275,W400,W590,W1375,W3150</p>
-                <p><b>Note</b>:Replace S215 with S400 if S400 is 750k+</p>
-                <p><b>Note</b>:Replace C1300 with C1500 if the bonus of C1300 compared to demon bloodline is smaller than the production bonus of C1500.</p>
+                <p><b>Note</b>: Replace S215 with S400 if S400 is 750k+</p>
+                <p><b>Note</b>: Replace C1300 with C1500 if the bonus of C1300 compared to demon bloodline is smaller than the production bonus of C1500.</p>
                 <p><b>Note</b>: DO NOT BUY SHARED BENEFITS UNTIL STAGE 4! This means that you CANNOT use Buy All for the majority of the run.</p>
                 <p><b>Stage 1</b>: Lasts until you get the 400 Royal Exchanges for the lineage, about 5-45 minutes depending on W275.</p>
                 <p><b>Stage 2</b>: Use all Spells and Tiers to be able to buy all Researches, then let them run for ~10 minutes to get maximum buildings.</p>
                 <p><b>Stage 3</b>: Spell building for 1-8 hours. Only cast FC1, DB6 and TC to build up DB:Green, D525, etc.</p>
                 <p><b>Stage 4</b>: Buy the Shared Benefits upgrade, then go full spells until abdication.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Braining Grounds R87+"<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide"> 
+                <p><b>Author</b>: Artcrow</p>
+                <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
+                <p><b>Alignment</b>: Good Mercenary</p>
+                <p><b>Bloodline</b>: Dragon </p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Mercenary Template</b>:</p>
+                <p>FR1,EL3,EL7,AN5,AN8,TT6,DD6,DD7,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave</p>
+                <p><b>Mercenary 13th Upgrade</b>: AN2</p>
+                <p><b>Research Template</b>:</p>
+                <p>S305,S330,S375,S1275,S1450,S1500,</p>
+                <p>C225,C340,C590,C1300,C3000,C3100,</p>
+                <p>D25,D245,D330,D525,D1275,D2775,</p>
+                <p>E50,E135,E350,E410,E460,E3250,</p>
+                <p>A105,A120,A175,A1500,A2950,A3400,</p>
+                <p>W275,W400,W560,W1400,W3050,W3150</p>
+                <p><b>Note</b>: Replace S330 with S400 if S400 is 900k+.</p>
+                <p><b>Note</b>: Replace D2775 with D200 if D2775 is less than 5000% and D200 adds another Share Benefits tier.</p>
+                <p><b>Note</b>: Replace W400 with W180 and C225 with C1500 if C1500 is high enough (?).</p>
+                <p><b>Note</b>: Replace E460 with E30 for 3+ day runs.</p>
+                <p><b>Description</b>: Long Brainwave build for gem walls.</p>
+                <p>Uninterrupted online periods of 20 hours or more as Brainwave restarts if you ever go offline or export/import. </p>
+                <p>Buildup: All spells and TC on autocast, don't buy Round Table/Share Benefits until starting income. Start income near the end of a Brainwave allowing at least 1 hour for income.</p>
+                <p>Be sure to maximize Brainwave duration at the start of the run. Start casting Brainwave at less than maximum tier until you have purchased upgrades and more buildings. Have Dragon's Breath tier 5+ active before casting Brainwave at max tier (put Dragon's Breath before Brainwave in the autocast.)</p>
             </div>
         </div>
     </div>
