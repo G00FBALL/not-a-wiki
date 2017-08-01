@@ -1216,7 +1216,7 @@
             <p><b>Alignment</b>: Mercenaries
             <p><b>Effect</b>: Increases the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart1SecretUpgrade.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartIArtifact.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
             <p><b>Cost</b>: 100 Vg (1E65)
             <p><b>Unlock Requirements</b>: Play as Mercenaries, have upgrades from each 11 factions. +R12 Excavate Chance: 10%
             <p><b>Alignment</b>: Any
