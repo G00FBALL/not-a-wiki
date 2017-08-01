@@ -3,6 +3,5 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
-<h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Abdication.png" alt="Abdication" align="middle"></h6>
-
+<p><img src="http://musicfamily.org/realm/Factions/picks/BGBuildingAlchemistLab1.png" alt="Alchemist Lab 1" align="middle"> <b>Alchemist Lab 1</b>
 <?php include "../scripts/footer.html"; ?>
