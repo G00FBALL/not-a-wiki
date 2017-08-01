@@ -659,7 +659,7 @@
                 <p>A120,A305,A375,A1500,A2950,A3400,</p>
                 <p>W175,W275,W400,W520,W1400,W3050</p>
                 <p><b>Note</b>: High W275 buff for Lineage levelling builds. Primarily for level 28+ Lineage around the highest reincarnation reachable in a reasonable amount of time. High S400 recommended. At least 750K for maximizing Lineage levels, the higher the better.</p>
-                <p>S30 instead of S500 for runs over 7-8 days. Dragon Lineage and Dragon's Breath tiers are slow with this build.</p>
+                <p>S30 instead of S500 for runs over 7-8 days.</p>
                 <p>Don't buy the tax collection upgrade(Round Table), turn off Druid Challenge 4 and autocast all spells + tax collection for buildup, which last until end of run. Buy Round Table and finish the run during Sun Force assistants.</p>
                 <p>Build is based on this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=17#posts-11422165"><b>forum</b></a> post</p>
             </div>
