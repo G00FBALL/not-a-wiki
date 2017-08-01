@@ -105,6 +105,36 @@
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 700% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
         </div>
+        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
+        <div class="autohide">
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b></p>
+            <p><b>Type</b>: Elven Spell Upgrade	
+            <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
+            <p><b>Effect</b>: Autoclicks 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
+            <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
+            <p>Sturdy Treasure Series (6 Upgrades)</p>
+            <p><b>Effect</b>: Add 1 click per second while offline. (per upgrade)</p>
+            <p><b>Alignment</b>: Any
+            <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.
+            <p><b>------------------------------</b></p>
+            <p><b>C590</b>: Alloys (C590) Research Upgrade
+            <p><b>Effect</b>: Autoclicks 10 times per second.
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenLineage.png" alt="Elven Lineage" align="middle"><b> Elven Lineage</b></p>
+            <p><b>Cost</b>: 400 Elven Royal Exchanges.
+            <p><b>Effect</b>: Gives 1 autoclick per Lineage level.
+            <p><b>Effect</b>: Also increase clicks count by a multiplicative 5000% per level.
+            <p><b>Level 5</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk1.png" alt="ElvenPerk1" align="middle"><b> Elven Perk 1</b></p>
+            <p><b>Requirement</b>: Reach Lineage Level 5.
+            <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.
+            <p><b>Level 10</b>
+            <p><b>Effect</b>: x100 Elven Faction Coin find chance.
+        </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Click Upgrades</a></b></p>
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
