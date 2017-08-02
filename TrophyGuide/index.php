@@ -141,9 +141,9 @@
     <p><b>Easy to get later (based on R#)</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="Smiley face" align="middle"> <b>Helden Sterben Nicht</b> (R3+)
     <p>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.
-    <p><b>Hint</b>: After joining each stage wiat about 10 seconds before Abdicating.
+    <p><b>Hint</b>: After joining each stage wait about 10 seconds before Abdicating.
     <p><b>Cost</b>: 5.0e75
-    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%
+    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> <b>Coin Pillage</b> (end of R3)
     <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/TrophyBuilds/"><b>Harley Quinn R3+</b></a>
