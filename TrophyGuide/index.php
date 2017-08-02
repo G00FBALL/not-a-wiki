@@ -161,7 +161,8 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png" alt="Unlimited Mana" align="middle"> <b>Unlimited Mana</b> (R3)
     <p>Have at least 300 mana per second. Using Mercenary build IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build to get it with other mana trophies using <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a> in R7.
+    <p>Alternately, you can use <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Wastanarama R18-R23</b></a> to do just this trophy in R3, substituting goblin's greed for god's hand to get FC to set up.
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png" alt="Mercenary Spirit" align="middle"> <b>Mercenary Spirit</b> (end of R3)
     <p>Reincarnate while affiliated with Mercenaries.
