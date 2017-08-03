@@ -80,7 +80,6 @@
 <p><b>Cost</b>: 10 Ttg (1E103)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrategyRoomFactionUpgrade.png" alt="Smiley face" align="middle"> Strategy Room</b></p>
 <p><b>Effect</b>: Unlocks the Warfare research facility and increases Demon production by 100000%, plus an additional bonus based on Warfare research points.
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
 <p><b>Requirements</b>: All Demon faction upgrades bought, Infernal Realm.
 <p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Demon coins
 <p><b>Unique Building</b>
