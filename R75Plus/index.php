@@ -356,7 +356,7 @@
                 <p><b>Note</b>: Replace E225 with E30 for 3+ day runs.</p>
                 <p><b>Note</b>: Replace C400 with C1500 if C1500 is 100%+.</p>
                 <p><b>Note</b>: Replace D200 with D1375 if you already did a long previous S400 buff run.</p>
-                <p><b>Description</b>:Brainwave over 30 hours long in the Druid build. Over 20 in the Demon build. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p> 
+                <p><b>Description</b>:Brainwave over 30 hours long. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p> 
                 Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.</p>
             </div>
         </div>
