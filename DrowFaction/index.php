@@ -98,6 +98,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Sanctuary</b></p>
 <p>Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Unlocks Drow Unique Buildings.
+<p><b>Formula</b>: 30 * x ^ 0.8, where x is your Time Spent Offline (Total) stat.
 <p><b>Requirements</b>: Spider Sanctuary Quest
 <p><b>Cost</b>: 10 USxg (1E187)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
