@@ -468,15 +468,15 @@
                 <p><b>----------------------------------</b></p>
                 <h6>Undead</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" alt="Dead Fields" align="middle"> Dead Fields</b></p>
-                <p><b>Mercenary Template</b>: UN7
+                <p><b>Mercenary Template</b>: UD7
                 <p><b>Cost</b>: 5 Qa (5E15)</p>
                 <p><b>Effect</b>: Each assistants increases the production of all buildings by 0.02% per Necropolises you own.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" alt="Tireless Workers" align="middle"> Tireless Workers</b></p>
-                <p><b>Mercenary Template</b>: UN8
+                <p><b>Mercenary Template</b>: UD8
                 <p><b>Cost</b>: 50 Qa (5E16)</p>
                 <p><b>Effect</b>: Increase the production of assistants by 1000%.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png" alt="Undead Resilience" align="middle"> Undead Resilience</b></p>
-                <p><b>Mercenary Template</b>: UN9
+                <p><b>Mercenary Template</b>: UD9
                 <p><b>Cost</b>: 500 Qa (5E17)</p>
                 <p><b>Effect</b>: Increases offline production by 125 times your mana regeneration rate.</p>
                 <p><b>----------------------------------</b></p>
