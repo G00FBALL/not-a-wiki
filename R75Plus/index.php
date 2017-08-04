@@ -288,7 +288,8 @@
                 <p><b>Bloodline</b>: Dragon </p>
                 <p><b>A2950</b>: Demon</p>
                 <p><b>Mercenary Template</b>:</p>
-                <p>FR1,EL3,EL7,AN5,TT6,DD5,DD7,FC7,DN2,DG3,DG4,DG9,SP:Fairy Chanting,SP:Grand Balance</p>
+                <p>FR1,EL3,EL7,AN5,TT6,DD5,DD7,FC7,DN2,DG3,DG4,DG9,
+                <p>SP:Fairy Chanting,SP:Grand Balance</p>
                 <p><b>Mercenary 13th Upgrade</b>: AN2, DN8 if higher, FR7 if it adds a Share Benefits tier. </p>
                 <p><b>Research Template</b>:</p>
                 <p>S215,S305,S330,S1275,S1450,S1500,</p>
@@ -315,7 +316,8 @@
                 <p><b>Bloodline</b>: Dragon </p>
                 <p><b>A2950</b>: Elf</p>
                 <p><b>Mercenary Template</b>:</p>
-                <p>FR1,EL3,EL7,AN5,AN8,TT6,DD6,DD7,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave</p>
+                <p>FR1,EL3,EL7,AN5,AN8,TT6,DD6,DD7,DN2,DG3,DG4,DG9,
+                <p>SP:Grand Balance,SP:Brainwave</p>
                 <p><b>Mercenary 13th Upgrade</b>: AN2</p>
                 <p><b>Research Template</b>:</p>
                 <p>S305,S330,S375,S1275,S1450,S1500,</p>
@@ -343,7 +345,8 @@
                 <p><b>Bloodline</b>: Dragon </p>
                 <p><b>A2950</b>: Druid</p>
                 <p><b>Mercenary Template</b>:</p>
-                <p>EL3,EL7,AN2,AN5,AN8,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave</p>
+                <p>EL3,EL7,AN2,AN5,AN8,TT6,DD6,DN2,DN8,DG3,DG4,DG9,
+                <p>SP:Grand Balance,SP:Brainwave</p>
                 <p><b>Mercenary 13th Upgrade</b>: UD7</p>
                 <p><b>Research Template</b>:</p>
                 <p>S50,S305,S375,S400,S1450,S1500,</p>
@@ -357,7 +360,7 @@
                 <p><b>Note</b>: Replace C400 with C1500 if C1500 is 100%+.</p>
                 <p><b>Note</b>: Replace D200 with D1375 if you already did a long previous S400 buff run.</p>
                 <p><b>Description</b>:Brainwave over 30 hours long. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p> 
-                Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.</p>
+                <p>Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.</p>
             </div>
         </div>
     </div>
