@@ -275,7 +275,7 @@
                 <p>E10,E135,E145,E350,E495,E3250,
                 <p>A10,A120,A410,A1500,A2950,A3400,
                 <p>W180,W275,W400,W525,W3050,W3150
-                <p><b>Note</b>: If it is hard to buy RE400 and Research Upgrades A3400→A305, W180→W1375. </p>
+                <p><b>Note</b>: If it is hard to buy RE400 and Research Upgrades E350→E1325. </p>
                 <p>If C1500<75% then C1500→C175</p>
             </div>
         </div>
