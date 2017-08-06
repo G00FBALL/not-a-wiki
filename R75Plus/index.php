@@ -334,7 +334,8 @@
                 <p>Uninterrupted online periods of 20 hours or more as Brainwave restarts if you ever go offline or export/import. </p>
                 <p>Buildup: All spells and TC on autocast, don't buy Round Table/Share Benefits until starting income. Start income near the end of a Brainwave allowing at least 1 hour for income.</p>
                 <p>Be sure to maximize Brainwave duration at the start of the run. Start casting Brainwave at less than maximum tier until you have purchased upgrades and more buildings. Have Dragon's Breath tier 5+ active before casting Brainwave at max tier (put Dragon's Breath before Brainwave in the autocast.)</p>
-            </div>
+                <p>Build comes from this <a target="_blank" href=" https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=22#posts-11481494"><b>forum</b></a> post by artcrow</p>
+             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"PACKER" R87+<font color="DarkRed"> Evil</font></a></b></p>
@@ -361,6 +362,8 @@
                 <p><b>Note</b>: Replace D200 with D1375 if you already did a long previous S400 buff run.</p>
                 <p><b>Description</b>:Brainwave over 30 hours long. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p> 
                 <p>Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.</p>
+                <p>Build comes from this <a target="_blank" href=" https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=22#posts-11483818"><b>forum</b></a> post by artcrow</p>
+                   
             </div>
         </div>
     </div>
