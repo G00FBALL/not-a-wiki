@@ -521,7 +521,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">S3200 Unlock/50 Shades of Taxes R81<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">S3200 Unlock/"50 Shades of Taxes" R81<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
                 <p><b>Faction</b>: Evil Mercenary</p>
@@ -681,7 +681,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Ocean R92?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Ocean R87+<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Note</b>: This is poorly optimized, but it's better than the previous build I posted. 11-12 days vs 20 days for the Neutral build.</p>
                 <p><b>Note</b>: Tested R92, Lineages 27, S400 = 800K. After 5 days buildup, 30 trillion offline mana per day (buildup simulated with editor.)</p>
