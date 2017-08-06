@@ -157,15 +157,16 @@
             <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harlequin Tricaster R12+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
+                <p><b>Alignment</b>: Evil Mercenary</p>
+                <p><b>Bloodline</b>: Elf 
+                <p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,
+                <p>SP:Fairy Chanting,SP:Grand Balance
                 <p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.
                 <p>You can try Harlequin Tricaster if you can't afford excavations with the first build.
                 <p>Requires high gem total closer to end of reincarnation in R14+ to add Spiritual Surge.
                 <p>Exclude Blood Frenzy from the spell combo as it doesn't affect Farms.
                 <p>You can ignore the following instructions if you have over 2000 of each of the first 5 buildings by the time you cast income Tax Collections. Buy 1500/1750/2000 Farm, Slave Pen, and Orcish Arena upgrades at the same time to avoid Grand Balance targeting the wrong building.
                 <p>It might require Helden Sterben Nicht, Rule 'dis, Unlimited Mana to work well in R14+.
-                <p><b>Alignment</b>: Evil Mercenary</p>
-                <p><b>Bloodline</b>: Elf 
-                <p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,SP:Fairy Chanting,SP:Grand Balance
                 <p>Build comes from this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/871213-r13-stuck-at-vg-gems?page=1#posts-11488590"><b>forum</b></a> post by artcrow</p>
             </div>
         </div>
