@@ -356,7 +356,7 @@
                 <p>E10,E135,E145,E225,E350,E3250,</p>
                 <p>A10,A150,A410,A1500,A2950,A3400,</p>
                 <p>W180,W275,W400,W525,W3050,W3150</p>
-                <p><b>Note</b>: Replace A120 with A150 for 2+ day runs.</p>
+                <p><b>Note</b>: Replace A10 with A120 for 2+ day runs.</p>
                 <p><b>Note</b>: Replace E225 with E30 for 3+ day runs.</p>
                 <p><b>Note</b>: Replace C400 with C1500 if C1500 is 100%+.</p>
                 <p><b>Note</b>: Replace D200 with D1375 if you already did a long previous S400 buff run.</p>
