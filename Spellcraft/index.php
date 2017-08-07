@@ -67,7 +67,7 @@
     <p><B>Formula</B>: round(x^1.75)%, where x is percentage of current mana.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S215</B>: - <b>For</b> Any - <B>Research Name</B> Projection
-    <p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S175)</p>
+    <p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
     <p><B>Cost</B>: 36.16 TQig (3.616E163) </p>
     <p><B>Effect</B>: Increase Spiritual Surge effect by 150% per other active spell.</p>
     <p><b>----------------------------------</B></p>
