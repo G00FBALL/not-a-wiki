@@ -85,7 +85,7 @@
     <p><b>After Mercenary Research is Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">""Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?
                 <p><b>Note</b>: Note: Edited with help from Lapare. Use this to get Lineage 20, starting with the Undead Lineage. Replace A1325 for A2950 (Druid or Undead) after R77 if you would like, though it's usually not necessary for this to work quickly.
