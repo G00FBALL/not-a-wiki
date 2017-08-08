@@ -78,9 +78,10 @@
                 <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DW2,DG3,DG4,
                 <p>SP:Grand Balance,SP:Dragon's Breath
                 <p>Builds comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945/topics/783256?page=5#posts-11311717"><b>forum</b></a> post</p>
-<br/>
-<br/>
-<div class="shlisting">
+            </div>
+        </div>
+    </div>
+    <br/>
     <p><b>After Mercenary Research is Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
