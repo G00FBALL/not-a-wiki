@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <p><b>All builds have been updated as of June, 3rd 2017.</b></p>
-        <p><b>Most builds will <b>Require</b> Lineage Level 15+</b></p>
+<p>Most builds will <b>Require</b> Lineage Level 15+</p>
 <br/>
 <br/>
 <div class="shlisting">
