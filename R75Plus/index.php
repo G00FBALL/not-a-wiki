@@ -150,13 +150,29 @@
                 <p>FR9,EL3,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:Diamond Pickaxe,SP:God's Hand
                 <p><b>Research Template</b>
+                <p><b>R77-79</b>
+                <p>S215,S305,S330,S460,S1450,S1500,
+                <p>C340,C400,C520,C590,C1300,C3000,
+                <p>D25,D245,D590,D1275,D1375,D2775,
+                <p>E135,E145,E350,E460,E1425,E590,
+                <p>A105,A120,A175,A495,A1500,A2950,
+                <p>W150,W180,W275,W290,W400,W1375 
+                <br/>
+                <p><b>R79-80</b>
+                <p>S215,S305,S330,S460,S1450,S1500,
+                <p>C340,C400,C520,C590,C1300,C3000,
+                <p>D25,D245,D590,D1275,D1375,D2775,
+                <p>E135,E145,E350,E460,E1425,E590,
+                <p>A105,A120,A175,A495,A1500,A2950,
+                <p>W150,W180,W275,W400,W1375,W3150 
+                <br/>
+                <p><b>R81+</b>
                 <p>S215,S305,S330,S1450,S1500,S3200,
                 <p>C340,C400,C520,C590,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E145,E260,E460,E1425,E3250,
                 <p>A105,A120,A175,A1200,A1500,A2950,
-                <p>W180,W275,W400,W1375,W3050,W3150
-                <p><b>Note</b>: Use to enter Mercenary Researches and gain gems until being able to run Flower Ghoul for GB11. Possible swaps: S3200→S460, E260→E350, E3250→E590, A1200→A495, W3050→W150, W3150→W290
+                <p>W180,W275,W400,W1375,W3050,W3150 
             </div>
         </div>
         <div class="shelementwhole">
