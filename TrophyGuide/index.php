@@ -275,6 +275,7 @@
     <p><b>Cost</b>: 100 No (1e32)
     <p><b>Effect</b>: +35% Mana Regeneration (multiplicative).
     <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.
+    <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Tiered Autocasting</b> (R42)
     <p>Produce 200M mana.
