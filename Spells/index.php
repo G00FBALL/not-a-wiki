@@ -342,7 +342,7 @@
             <div class="autohide">
                 <p><b>Faction Coins Needed</b> Fairy, Elven, Angel, Goblin, Undead, Demon, Dwarven, Drow
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier2.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 2
-                <p><b>Cost</b> 66 Vg (6.6e64) - <b>FC</b> 10 T (1e13) each</p>
+                <p><b>Cost</b> 66 Uvg (6.6e67) - <b>FC</b> 10 T (1e13) each</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier3.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 3
                 <p><b>Cost</b> 5.949 Spvg (5.949e84) - <b>FC</b> 891.3 T (8.913e14) each</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier4.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 4
