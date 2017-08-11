@@ -123,7 +123,6 @@
                 <p>E135,E145,E275,E460,E1425,
                 <p>A120,A250,A305,A400,A1200,
                 <p>W120,W180,W260,W400,W1275,W1375
-                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Deep Mine strike and green breath together for maximal production.</p>
             </div>
         </div>
         <div class="shelementwhole">
