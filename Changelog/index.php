@@ -5,6 +5,13 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right cornor of the options window (In game).</p>
 <div class="shlisting">
     <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.5 August 8th, 2017</a></b></p>
+        <div class="autohide">
+            <p>Fixed an issue with Dragon's Breath repeating its effects.</p>
+            <p>Spells can now be scrolled when they don't fit the screen.</p>
+        </div>
+    </div>
+    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.4 July 19th, 2017</a></b></p>
         <div class="autohide">
             <p>Spells are now turned off at loading, fixed an issue with a Goblin Invasion event upgrade.</p>
