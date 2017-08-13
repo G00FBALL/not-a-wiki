@@ -667,7 +667,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween ( Oct 28 - Nov 04, 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 28 - Nov 04, 2016)</a></b></p>
             <div class="autohide">
                 <p>Hello Everyone!
                 <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realmsâ€¦ Choose your own, feed and grow it to its maximum potential!
