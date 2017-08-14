@@ -35,11 +35,11 @@
                 <p><b>Range</b>: 10 Sp (e25) gems+
                 <p>S105,S135,S305,S330,S500,
                 <p>C150,C250,C330,C340,C375,C400,
-                <p>D245,D290,D320,D350,D1125,
+                <p>D55,D245,D290,D320,D1125,
                 <p>E135,E145,E275,E400,E460,
                 <p>A105,A120,A250,A305,A400,
-                <p>W150,W180,W260,W290,W330,W400
-                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Wyrm den strike and red breath together for maximal production.
+                <p>W150,W180,W260,W290,W320,W400
+                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Wyrm den strike and red breath together for maximal production. Swap W320 with W330 if bigger (low excavations)
             </div>
         </div>
         <div class="shelementwhole">
