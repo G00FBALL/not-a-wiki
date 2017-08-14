@@ -35,11 +35,13 @@
                 <p><b>Range</b>: 10 Sp (e25) gems+
                 <p>S105,S135,S305,S330,S500,
                 <p>C150,C250,C330,C340,C375,C400,
-                <p>D55,D245,D290,D320,D1125,
+                <p>D55,D150,D290,D320,D1125,
                 <p>E135,E145,E275,E400,E460,
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W260,W290,W320,W400
-                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Wyrm den strike and red breath together for maximal production. Swap W320 with W330 if bigger (low excavations)
+                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Wyrm den strike and red breath together for maximal production. 
+                <p>Swap W320 with W330 if bigger (low excavations)
+                <p>Swap D150 with D245 for longer runs (Spiritual Surge 2)
             </div>
         </div>
         <div class="shelementwhole">
@@ -51,11 +53,12 @@
                 <p><b>Range</b>: 1 Oc (e27) gems+
                 <p>S105,S215,S305,S330,S500,
                 <p>C150,C250,C330,C340,C375,C400,
-                <p>D55,D245,D290,D320,D350,
+                <p>D55,D150,D290,D320,D350,
                 <p>E135,E145,E275,E400,E460,
                 <p>A120,A250,A305,A400,A1200,
                 <p>W120,W150,W180,W260,W320,W400
                 <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Deep Mine strike and green breath together for maximal production.
+                <p>Swap D150 with D245 for longer runs (Spiritual Surge 2)
             </div>
         </div>
         <div class="shelementwhole">
@@ -67,11 +70,12 @@
                 <p><b>Range</b>: E27 (1 Oc) gems+
                 <p>S105,S215,S305,S330,S500,
                 <p>C150,C250,C330,C340,C375,C400,
-                <p>D55,D245,D320,D350,D1275,
+                <p>D55,D150,D320,D350,D1275,
                 <p>E135,E145,E275,E400,E460,
                 <p>A120,A250,A305,A400,A1200,
                 <p>W120,W150,W180,W260,W400,W1275
                 <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Deep Mine strike and green breath together for maximal production.
+                <p>Swap D150 with D245 for longer runs (Spiritual Surge 2)
             </div>
         </div>
         <div class="shelementwhole">
@@ -83,11 +87,12 @@
                 <p><b>Range</b>: E27 (1 Oc) gems+
                 <p>S105,S215,S305,S330,S500,
                 <p>C250,C330,C340,C375,C400,C1300,
-                <p>D55,D245,D320,D350,D1275,
+                <p>D55,D150,D320,D350,D1275,
                 <p>E135,E145,E275,E460,E1225,
                 <p>A120,A250,A305,A400,A1200,
                 <p>W120,W150,W180,W260,W400,W1275
                 <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Deep Mine strike and green breath together for maximal production.
+                <p>Swap D150 with D245 for longer runs (Spiritual Surge 2)
             </div>
         </div>
         <div class="shelementwhole">
