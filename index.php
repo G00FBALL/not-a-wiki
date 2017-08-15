@@ -5,7 +5,7 @@
 <?php include "musicfamily.org/../scripts/header.html"; ?>
 
 <p>Welcome to <b>G00F's not a wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> Style without all the wiki ads. 
-<p>You can find us in <b><a target="_blank" href="https://discord.gg/PnZhF3p">Realm Grinder Chat on Discord</a></b></p> 
+<p><b><a target="_blank" href="https://discord.gg/PnZhF3p">Realm Grinder Chat on Discord</a></b></p> 
 <p>If you have any suggestions or find any errors send a message to <a target="_blank" href="http://www.kongregate.com/accounts/Igorogi/"><b>Igorogi</b></a> or <a target="_blank" href="http://www.kongregate.com/accounts/G00FBALL/"><b>G00FBALL</b></a> and please include links to where you got the information.</p>
 
 <p>A lot of the information on this site comes from the players in room 2 and the members of the <b><a target="_blank" href="https://discord.gg/PnZhF3p">Realm Grinder Chat on Discord</a></b></p> 
