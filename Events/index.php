@@ -130,7 +130,7 @@
                 <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" align="middle"> Burning Rage</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: 2000 Flame Orbs
-                <p><b>Effect</b>: Decrease the cost of all spells by 50%.
+                <p><b>Effect</b>: Decrease the cost of all spells by 50%. (multiplicative)
                 <p><b>----------------------------------</b>
                 <p><b>Quest</b>
                 <p><b>Winterly Champion</b>
