@@ -137,9 +137,9 @@
                 <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" align="middle">  Winterly Champion 1</b></p>
                 <p><b>Effect</b>: +1% Event bonus.
                 <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" align="middle">   Winterly Champion 2</b></p>
-                <p><b>Effect</b>: +2% Event bonus.
+                <p><b>Effect</b>: +1% Event bonus.
                 <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" align="middle"> Winterly Champion 3</b></p>
-                <p><b>Effect</b>: +4% Event bonus.
+                <p><b>Effect</b>: +2% Event bonus.
                 <p><b>Unlock</b>: Purchase 1/2/3 Winterly upgrades.
                    <br/>
                    <br/>
@@ -147,9 +147,9 @@
                 <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" align="middle"> Summeraan Champion 1</b></p>
                 <p><b>Effect</b>: +1% Event bonus.
                 <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" align="middle"> Summeraan Champion 2</b></p>
-                <p><b>Effect</b>: +2% Event bonus.
+                <p><b>Effect</b>: +1% Event bonus.
                 <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" align="middle"> Summeraan Champion 3</b></p>
-                <p><b>Effect</b>: +4% Event bonus.
+                <p><b>Effect</b>: +2% Event bonus.
                 <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
