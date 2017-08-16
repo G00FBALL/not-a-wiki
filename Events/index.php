@@ -168,11 +168,26 @@
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/OrbShopItem.png" alt="Shop Item" axlign="middle"> Shop Item</b></p>
+                <p><b>Shop Items</b>
+                <p><b><img src="/realm/Factions/picks/75OrbShopItem.png" alt="Shop Item" axlign="middle"> 75 Frost and Flame Orbs</b></p>
                 <p><b>Cost</b>: 5 Rubies
-                <p><b>Kind</b>: Shop Item
-                <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept. (Offer is increased at each purchase)
-                <p><b>----------------------------------</b>
+                <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept.</p>
+                <br/>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/300OrbShopItem.png" alt="Shop Item" axlign="middle"> 300 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 15 Rubies
+                <p><b>Description</b>: A spring wizard wants to sell you 300 Frost and Flame Orbs for 15 Rubies. He will offer you a new deal if you accept.</p>
+                <br/>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/1250OrbShopItem.png" alt="Shop Item" axlign="middle"> 1250 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 45 Rubies
+                <p><b>Description</b>: A spring wizard wants to sell you 1250 Frost and Flame Orbs for 45 Rubies. He will offer you a new deal if you accept.</p>
+                <br/>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/3500OrbShopItem.png" alt="Shop Item" axlign="middle"> 3500 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 100 Rubies
+                <p><b>Description</b>: A spring wizard wants to sell you 3500 Frost and Flame Orbs for 100 Rubies. These are all the orbs he could gather.</p>
+              <p><b>----------------------------------</b>
             </div>
         </div>
         <div class="shelementwhole">
