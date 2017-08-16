@@ -539,7 +539,7 @@
     <p><b>FC Formula</b>: floor(ln^3(1 + x) + 20, where x is your current gems.</p>
     <p><b>Production Formula</b>: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.</p>
     <p><b>Spell Trophy & Upgrade: Greed Drive</b>
-    <p><b>Effect</b>: Goblin's Greed costs 150 less mana. Greed-Drive-spell-upgrade
+    <p><b>Effect</b>: Goblin's Greed costs 150 less mana.
     <p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell.
     <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
     <p><b>Challenge Upgrade</b>: Avarice Drive, Increase Goblin's Greed duration by 5 seconds.</p>
