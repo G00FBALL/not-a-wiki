@@ -16,11 +16,11 @@
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.
     <p><b>Past Events</b>
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
-    <p>Actual Total Cumulative and <b>Permanent</b> Bonuses from all the Events: 99%
-    <p><b>Christmas 2015-2016</b>: 14%, <b>Christmas 2016-2017</b>: 14%,
-    <p><b>Valentines 2016</b>: 4%, <b>Valentines 2017</b>: 4%,
+    <p>Actual Total Cumulative and <b>Permanent</b> Bonuses from all the Events: 107%
+    <p><b>Christmas 2015-2016</b>: 14%, <b>Christmas 2016-2017</b>: 14%
+    <p><b>Valentines 2016</b>: 4%, <b>Valentines 2017</b>: 4%
     <p><b>Easter 2016</b>: 14%, <b>Easter 2017</b>: 14%
-    <p><b>Summer Festival 2016</b>: 8%,
+    <p><b>Summer Festival 2016</b>: 8%, <b>Summer Festival 2017</b>: 8%
     <p><b>Halloween 2016</b>: 11%
     <p><b>Anniversary 2017</b>: 8%
     <p><b>Goblin Invasion 2017</b>: 8%</p>
@@ -29,37 +29,154 @@
     <br/>
     <img src="/realm/Factions/picks/TotalEvents.png" usemap="#TotalEvents-map">
     <map name="TotalEvents-map">
-        <area target="" research="Thanksgiving 2015<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,5,60,58" shape="rect">
-        <area target="" research="Christmas 2015<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.    " coords="71,7,124,60" shape="rect">
-        <area target="" research="Christmas 2015<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="135,7,189,58" shape="rect">
-        <area target="" research="Christmas 2015<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="198,7,253,60" shape="rect">
-        <area target="" research="Christmas 2015<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="262,7,316,60" shape="rect">
-        <area target="" research="Valentines 2016<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="326,7,380,58" shape="rect">
-        <area target="" research="Valentines 2016<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="389,7,445,60" shape="rect">
-        <area target="" research="Easter 2016<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="6,69,60,123" shape="rect">
-        <area target="" research="Easter 2016<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="69,69,125,122" shape="rect">
-        <area target="" research="Easter 2016<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)	" coords="135,69,189,122" shape="rect">
-        <area target="" research="Easter 2016<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction.	To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating" coords="200,71,251,122" shape="rect">
+        <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,5,60,58" shape="rect">
+        <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.    " coords="71,7,124,60" shape="rect">
+        <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="135,7,189,58" shape="rect">
+        <area target="" research="Christmas<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="198,7,253,60" shape="rect">
+        <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="262,7,316,60" shape="rect">
+        <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="326,7,380,58" shape="rect">
+        <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="389,7,445,60" shape="rect">
+        <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="6,69,60,123" shape="rect">
+        <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="69,69,125,122" shape="rect">
+        <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)	" coords="135,69,189,122" shape="rect">
+        <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction.	To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating" coords="200,71,251,122" shape="rect">
         <area target="" research="Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="264,71,315,122" shape="rect">
-        <area target="" research="Summer Festival 2016<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="327,71,380,122" shape="rect">
-        <area target="" research="Summer Festival 2016<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="391,71,444,122" shape="rect">
-        <area target="" research="Summer Festival 2016<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="6,133,60,187" shape="rect">
-        <area target="" research="Halloween 2016<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="69,133,124,189" shape="rect">
-        <area target="" research="Halloween 2016<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="133,133,187,189" shape="rect">
-        <area target="" research="Halloween 2016<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="197,133,251,186" shape="rect">
-        <area target="" research="Halloween 2016<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="260,133,316,187" shape="rect">
-        <area target="" research="Halloween 2016<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="324,133,380,187" shape="rect">
-        <area target="" research="2nd Anniversary (May 17 to May 21)<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="386,131,446,187" shape="rect">
-        <area target="" research="2nd Anniversary (May 17 to May 21)<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="3,194,62,252" shape="rect">
-        <area target="" research="2nd Anniversary (May 17 to May 21)<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="67,194,124,251" shape="rect">
-        <area target="" research="2nd Anniversary (May 17 to May 21)<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="131,193,189,251" shape="rect">
-        <area target="" research="Goblins Bane<p>Fight the Goblin Army 100 times." coords="197,193,254,252" shape="rect">
-        <area target="" research="Goblin's Commander<p>Support the Goblin Army 100 times." coords="260,193,317,252" shape="rect">
-        <area target="" research="Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="324,196,382,253" shape="rect">
+        <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="327,71,380,122" shape="rect">
+        <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="391,71,444,122" shape="rect">
+        <area target="" research="Summer Festival<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="6,133,60,187" shape="rect">
+        <area target="" research="Halloween<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="69,133,124,189" shape="rect">
+        <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="133,133,187,189" shape="rect">
+        <area target="" research="Halloween<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="197,133,251,186" shape="rect">
+        <area target="" research="Halloween<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="260,133,316,187" shape="rect">
+        <area target="" research="Halloween<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="324,133,380,187" shape="rect">
+        <area target="" research="Anniversary<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="386,131,446,187" shape="rect">
+        <area target="" research="Anniversary<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="3,194,62,252" shape="rect">
+        <area target="" research="Anniversary<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="67,194,124,251" shape="rect">
+        <area target="" research="Anniversary<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="131,193,189,251" shape="rect">
+        <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="197,193,254,252" shape="rect">
+        <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="260,193,317,252" shape="rect">
+        <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="324,196,382,253" shape="rect">
     </map>
     <div class="shlisting">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion Jul 21st - 25th 2017</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 16 - Aug 23, 2017)</a></b></p>
+            <div class="autohide">
+                <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!
+                <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 8 hours, up to 480 orbs.
+                <p>You can only collect one type of orb: by doing so, the other will disappear.
+                <p><b>Event Resource</b>
+                <p><img src="/realm/Factions/picks/FrostOrbs.png" alt="Frost Orbs" align="middle"> <b>Frost Orbs</b> used to purchase and empower Winterly upgrades.
+                <p><img src="/realm/Factions/picks/FlameOrbs.png" alt="Flame Orbs" align="middle"> <b>Flame Orbs</b> used to purchase and empower Summeraan upgrades.
+                <p>As with any faction in Realm Grinder, you can choose to affiliate with only one of them per abdication - upgrades will remain free if you purchased them once though.
+                <p>Collected orbs will persist through soft resets and remain until the end of the event.
+                <p><b>Flame Orbs</b> can be used to buy upgrades from the <b>Summeraan</b> faction, whereas <b>Frost Orbs</b> can be used to buy upgrades from the <b>Winterly</b> faction.
+                <p><b><img src="/realm/Factions/picks/Antipodes.png" alt="Antipodes" align="middle"> Antipodes</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: Free
+                <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Orbs collected in this event. This upgrade persists through Abdications and Reincarnations.
+                <p><b>Formula</b>: min(100000, (x / 27) - (x^2 / 36450) + (x^3 / 98415000)) %, where x is the number of Orbs collected in total.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Hailstorm.PNG" alt="Hailstorm" align="middle"> Hailstorm</b></p>
+                <p><b>Kind</b>: Spell
+                <p><b>Unlock / Price</b>: Mana Cost:1000 (Unlocked when aligned with Winterly)
+                <p><b>Effect</b>:Increase the production of all buildings based on Hailstorm activity time for 2m. Bonus provided increases progressively over the duration of the spell.
+                <p><b>Formula</b>: 0.1 * x^0.6 * y^1.1 %, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 400 Frost Orbs
+                <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Glaciality" align="middle"> Glaciality</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 800 Frost Orbs
+                <p><b>Effect</b>: Increase the production of all buildings based on time spent affiliated with the Winterly.
+                <p><b>Formula</b>: 20 * x^0.75%, where x is time spent aligned with the Winterly in hours.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Permafrost" align="middle"> Permafrost</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 1300 Frost Orbs
+                <p><b>Effect</b>: Increase the production of assistants based on the total amount of Frost Orbs collected in this event.
+                <p><b>Formula</b>: x^1.03 %, where x is the number of Frost Orbs collected in total.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" axlign="middle"> Cold Blood</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 2000 Frost Orbs
+                <p><b>Effect</b>: Spell durations are increased by 100%.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Heatwave.PNG" alt="Heatwave" align="middle"> Heatwave</b></p>
+                <p><b>Kind</b>: Spell
+                <p><b>Unlock / Price</b>: Mana Cost:300 (Unlocked when aligned with Summeraan)
+                <p><b>Effect</b>:Increase the production of all buildings based on spells cast in this game for 12s. Also grants faction coins based on the amount of Flame Orbs collected in this event.
+                <p><b>Formula</b>: 5 * x^0.85%, where x is the number of spells cast this game, and x * y^1.1, where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 400 Flame Orbs
+                <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Sun Beams" align="middle"> Sun Beams</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 800 Flame Orbs
+                <p><b>Effect</b>: Whenever you collect Flame Orbs floating on your realm, the production of all buildings is increased based on the amount of Orbs collected with this click for 10 seconds.
+                <p><b>Formula</b>: 25 * x%, where x is the number of Flame Orbs collected with the last click.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Eruption" align="middle"> Eruption</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 1300 Flame Orbs
+                <p><b>Effect</b>: Gain additional assistants based on the clicks made in this game.
+                <p><b>Formula</b>: 2 * log (1 + x^2), where x is the number of clicks made in this game.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" axlign="middle"> Burning Rage</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 2000 Flame Orbs
+                <p><b>Effect</b>: Decrease the cost of all spells by 50%.
+                <p><b>----------------------------------</b>
+                <p><b>Quest</b>
+                <p><b>Winterly Champion</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" axlign="middle">  Winterly Champion 1</b></p>
+                <p><b>Effect</b>: +1% Event bonus.
+                <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" axlign="middle">   Winterly Champion 2</b></p>
+                <p><b>Effect</b>: +2% Event bonus.
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" axlign="middle"> Winterly Champion 3</b></p>
+                <p><b>Effect</b>: +4% Event bonus.
+                <p><b>Unlock</b>: Purchase 1/2/3 Winterly upgrades.
+                   <br/>
+                   <br/>
+                <p><b>Summeraan Champion</b>
+                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" axlign="middle"> Summeraan Champion 1</b></p>
+                <p><b>Effect</b>: +1% Event bonus.
+                <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" axlign="middle"> Summeraan Champion 2</b></p>
+                <p><b>Effect</b>: +2% Event bonus.
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" axlign="middle"> Summeraan Champion 3</b></p>
+                <p><b>Effect</b>: +4% Event bonus.
+                <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" axlign="middle"> Winterly Champion</b></p>
+                <p><b>Kind</b>: Feat
+                <p><b>Unlock</b>: Purchase all Winterly upgrades.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" axlign="middle"> Summeraan Champion</b></p>
+                <p><b>Kind</b>: Feat
+                <p><b>Unlock</b>: Purchase all Summeraan upgrades.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" axlign="middle"> Warm Up</b></p>
+                <p><b>Kind</b>: Feat
+                <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" axlign="middle"> Chill Out</b></p>
+                <p><b>Kind</b>: Feat
+                <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/OrbShopItem.png" alt="Shop Item" axlign="middle"> Shop Item</b></p>
+                <p><b>Cost</b>: 5 Rubies
+                <p><b>Kind</b>: Shop Item
+                <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept. (Offer is increased at each purchase)
+                <p><b>----------------------------------</b>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 21 - Jul 25, 2017)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
                 <p><b>Cost</b>: Free
@@ -164,7 +281,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2nd Anniversary - Blood Wars ( June 2nd 2017, - June 6th 2017, 6.59 PM UTC.)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2nd Anniversary - Blood Wars (June 2 - June 6, 2017)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                 <p><b>Cost</b>: Free
@@ -249,7 +366,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (12 April 2017)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 12 - Apr 19, 2017)</a></b></p>
             <div class="autohide">
                 <p>Starts on Apr 12th, 12.00 PM UTC and will end on Apr 19th, 7.00 PM UTC.
                 <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.
@@ -355,7 +472,7 @@
                 <p><b>Effect</b>: Gives 1 Ruby.
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/UAncientEggEaster2017.png" alt="Ancient Egg" align="middle"> Ancient Egg</b></p>
-                <p><b>Effect</b>: Reduce excavations cost multiplier. (Excavation cost increase – 0.025)
+                <p><b>Effect</b>: Reduce excavations cost multiplier. (Excavation cost increase â€“ 0.025)
                 <p><b>Effect</b>: Gives 1 Ruby.
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/UCrystalEggEaster2017.png" alt="Crystal Egg" align="middle"> Crystal Egg</b></p>
@@ -384,7 +501,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (1 April 2017)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2017)</a></b></p>
             <div class="autohide">
 
                 <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
@@ -453,7 +570,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 20th 2016- Jan 4th 2017</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 20, 2016 - Jan 4, 2017</a></b></p>
             <div class="autohide">
                 <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.
                 <p>The Christmas Event will be starting on Dec 20th 2016, 1.01 PM UTC and will end on Jan 4th 2017, 7.59 PM
@@ -536,7 +653,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 24th - Nov 26th 2016</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 24 - Nov 26, 2016)</a></b></p>
             <div class="autohide">
                 <p>Thanksgiving & Black Friday Sale Guide.
                 <p>The main feature of the Thanksgiving & Black Friday Sale is a 50% discount on Gifts of the Heroes in the shop, but you will also get a new feat and a unique upgrade for the duration of the event. Look for it in your Upgrades panel!.
@@ -550,10 +667,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween ( Oct 28th 2016 - Nov 04th 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 28 - Nov 04, 2016)</a></b></p>
             <div class="autohide">
                 <p>Hello Everyone!
-                <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realms… Choose your own, feed and grow it to its maximum potential!
+                <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realmsâ€¦ Choose your own, feed and grow it to its maximum potential!
                 <p>The Halloween event will be starting on <b>Oct 28th 2016, 12.01 PM UTC and will end on Nov 04th 2016, 7.59 PM UTC</b>.
                 <p>This event will feature daily presents (as we did for the last Christmas), inside which you will found a random monster, up to a maximum of three. Once you have found a monster, you will be able to feed it resources (see below) to make it grow, unlocking perks and bonuses in the process.
                 <p>There will be three new resources for the event: Blood, Ectoplasm and Bones. They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours). You can only collect one type of resource: by doing so, the others will disappear.
@@ -719,7 +836,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (30 Aug - 6 Sept 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 30 - Sept 6, 2016)</a></b></p>
             <div class="autohide">
                 <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!
                 <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 8 hours, up to 480 orbs.
@@ -826,7 +943,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">1st Anniversary (19-20 May 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">1st Anniversary (May 19 - May 20, 2016)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/1stAnniversary.png" alt="Smiley face" align="middle"> 1st Anniversary</b></p>
                 <p><b>Kind</b>: Upgrade
@@ -836,7 +953,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fool's Day:(1 April 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fool's Day:(April 1, 2016)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/Aprilfools1.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
                 <p><b>Kind</b>: Upgrade
@@ -865,7 +982,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (25 - 31 March 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (March 25 - March 31, 2016)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/BlueOmelette.png" alt="Blue Omelette" align="middle"> Blue Omelette</b></p>
                 <p><b>Kind</b>: Upgrade
@@ -942,14 +1059,14 @@
                 <p><b>Effect</b>: Increase offline production by 500%
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/UAncientEgg.png" alt="Ancient Egg" align="middle"> Ancient Egg</b></p>
-                <p><b>Effect</b>: Reduce excavations cost multiplier. (Excavation cost increase – 0.025)
+                <p><b>Effect</b>: Reduce excavations cost multiplier. (Excavation cost increase â€“ 0.025)
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/UCrystalEgg.png" alt="Crystal Egg" align="middle"> Crystal Egg</b></p>
                 <p><b>Effect</b>: Increase production bonus from gems by an additional 8%
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">St Valentine's Day (12 - 16 Feb 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">St Valentine's Day (Feb 12 - Feb 16, 2016)</a></b></p>
             <div class="autohide">
                 <p><b>Event Theme</b>: Hearts. Collected passively online and offline at a base rate of 1 per second. Each can be increased up to 5/s during the length of the event as follows:
                 <p>Online Hearts per second will go up by 1 every time you cast an amount of Call to Love equal to one less than a power of 10. Total online production is 1 + floor(log10(1 + x)), where x is number of CtL casts over all reincarnations. Note that the first cast of each abdication does not count towards this.
@@ -988,7 +1105,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas Event (21 Dec 2015 - 5 Jan 2016)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas Event (Dec 21, 2015 - Jan 5, 2016)</a></b></p>
             <div class="autohide">
                 <p><b>Event Theme</b>: Snowballs (image). They will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Snowball to appear. Or, you can let them grow bigger over time if you are idle or offline - up to a maximum size of 360 Snowballs! (later updated to 1000)
                 <p>During the Event, Players will also receive a daily Christmas Present. (Requires to go online to be retrieved.)
@@ -1027,7 +1144,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving Event (Nov 26 - Nov 30 2015)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving Event (Nov 26 - Nov 30, 2015)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/Thanksgiving2015.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                 <p><b>Kind</b>:Feat
