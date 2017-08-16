@@ -46,6 +46,7 @@
 <p><b>Upgrade</b>: Good for All</p>
 <p><b>Tips</b>
 <p>This is the equivalent of about 8.5 days of time spent allied with Faceless. Getting the Titan Tier 2 challenge Harmony of Thoughts will help increase your Faceless playtime.</p>
+<p><b>TC2 adds 10% of the playtime of all other factions to the Hive Mind calculation, which means you'll get to 1890% that much faster</b></p>
 <p><b>----------------------------------</b></p>
 <p><b>In-Game Challenge Final Reward</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FocusedThoughtsChallenges.png" alt="Focused Thoughts" align="middle"> <b>Focused Thoughts</b></p>
