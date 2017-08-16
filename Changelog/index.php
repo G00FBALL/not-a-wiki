@@ -7,6 +7,7 @@
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.5 August 8th, 2017</a></b></p>
         <div class="autohide">
+            <p><b>Global Reminder</b>: The Summer Event will be starting on Aug 16th 2017, 12.00 PM UTC and will end on Aug 23rd 2017, 7.00 PM UTC.</p>
             <p>Fixed an issue with Dragon's Breath repeating its effects.</p>
             <p>Spells can now be scrolled when they don't fit the screen.</p>
         </div>
