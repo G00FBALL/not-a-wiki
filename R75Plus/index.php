@@ -82,7 +82,7 @@
         </div>
     </div>
     <br/>
-    <p><b>After Mercenary Research is Unlock</b></p>
+    <p><b>Lineage Levelingk</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -104,6 +104,54 @@
                 <p>A105,A120,A305,A375,A1325,A1500,
                 <p>W150,W180,W250,W275,W400,W1375
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>Forum</b></a> post</p>
+            </div>
+        </div>
+        <br />
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Note</b>: This one seems to be able to get UL25 in about 1-2 hours. Tested by <b>Chaos</b> at R82 and e104 gems, S400 at 54k.</p>
+                <p><b>Author</b>: toimil</p>
+                <p><b>Faction</b>: Neutral Mercenary</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Mercenary Templates</b></p>
+                <p>EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,</p>
+                <p>SP:Dragon's Breath,SP:Fairy Chanting</p>
+                <p><b>Research Template</b></p>
+                <p>S215,S305,S330,S400,S1450,S1500,</p>
+                <p>C250,C340,C400,C590,C3000,C3100,</p>
+                <p>D25,D200,D245,D1275,D1375,D2775,</p>
+                <p>E135,E145,E400,E460,E1425,E3250,</p>
+                <p>A120,A305,A1200,A1500,A2950,A3400,</p>
+                <p>W275,W400,W1375,W1400,W3050,W3150</p>
+                <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"A Diverse Lineage" Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Note</b>: R82+ gem count, use this straight after the Undead Lineage leveler</p>
+                <p><b>Author</b>: Lapare</p>
+                <p><b>Faction</b>: Neutral Mercenary</p>
+                <p><b>Bloodline</b>: All but Undead</p>
+                <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)</p>
+                <p><b>Mercenary Templates</b>: For Fairy</p>
+                <p>EL1,EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG4,DG7,</p>
+                <p>SP:Dragon's Breath,SP:God's Hand</p>
+                <p><b>Mercenary Templates</b>: For Dragon</p>
+                <p>EL1,EL3,EL4,EL7,AN5,GB7,TT3,DD4,FC7,DN2,DG4,DG7,</p>
+                <p>SP:Fairy Chanting,SP:God's Hand</p>
+                <p><b>Mercenary Templates</b>: For all others</p>
+                <p>EL1,EL3,EL4,EL7,AN5,GB7,TT3,DD4,FC7,DN2,DG4,DG7,</p>
+                <p>SP:Dragon's Breath,SP:Fairy Chanting</p>
+                <p><b>Research Template</b></p>
+                <p>S215,S305,S330,S400,S1450,S1500,</p>
+                <p>C250,C340,C400,C590,C1300,C3000,</p>
+                <p>D25,D200,D250,D350,D1275,D2775,</p>
+                <p>E135,E145,E590,E1425,E3250,E3300,</p>
+                <p>A120,A305,A1200,A1500,A2950,A3400,</p>
+                <p>W180,W275,W400,W1375,W3050,W3150</p>
             </div>
         </div>
     </div>
@@ -284,7 +332,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R81<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Note</b>: Playing around with this one, but it may need to be tweaked or switched over to Good to be optimal. It provided a near instant jump from 1e93 to 1e96 once it came online. This R goes so fast that it might not be worth editing. You might need to use an earlier build if you're starting at e88.
                 <p><b>Alignment</b>: Neutral Mercenary
@@ -443,7 +491,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"50 Shades of Taxes" S400/TC - R82+<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"50 Shades of Taxes" (S400 Short Term Buff Build) R82+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Notes</b>: Standard S400 buff build using the powers of E3250. If C1500 is below 85% use C400 instead.
                 <p><b>Notes</b>: If you do not have A3400 use A305.
@@ -467,7 +515,28 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Legion" (W275 Buff Build) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Tricke Down Economics" (S400 Long Term Buff Build) R82+<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: toimil</p>
+                <p><b>Faction</b>: Evil Mercenary</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Mercenary Templates</b></p>
+                <p>EL3,EL7,AN3,AN5,AN6,DD6,DD7,FC7,DN2,DG3,DG6,DG9,</p>
+                <p>SP:Fairy Chanting,SP:Grand Balance</p>
+                <p><b>Mercenary 13th Upgrade</b> UD7</p>
+                <p><b>Research Template</b></p>
+                <p>S50,S305,S400,S1450,S1500,S3200,</p>
+                <p>C300,C340,C400,C590,C3000,C3100,</p>
+                <p>D25,D200,D245,D275,D1275,D2775,</p>
+                <p>E10,E135,E145,E350,E495,E3250,</p>
+                <p>A10,A120,A410,A1500,A2950,A3400,</p>
+                <p>W205,W400,W525,W560,W1400,W3050</p>
+                <p>Build is based on this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=7#posts-11318760"><b>forum</b></a> post</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Legion" (W275 Short Term Buff Build) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: artcrow <b>Edited by</b> necrodoom</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
@@ -487,7 +556,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Horde" (W275 Buff Build)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Horde" (W275 Long Term Buff Build)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: artcrow</p>
                 <p><b>Range</b>: e118 gems (10 Octg), high S400</p>
