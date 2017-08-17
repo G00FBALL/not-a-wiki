@@ -230,7 +230,8 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R77-R78<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Note</b>: This becomes viable around ~1e88-1e89. You should do the GB11 Unlock first. During the first buildup, you might need to use contingency autocasting at 50% in order to unlock the research upgrade. A2950 is not optional here, as it is required for the mana regen from the Druid bloodline. The final merc upgrade won't be available until Dragon Lineage is unlocked (after research). Be prepared to load the research multiple times to get the last few upgrades.
+                <p><b>Author</b>: Hyppy
+                <p><b>Range</b>: e88 (10 Ocvg) gems - ? gems, 10B mana this R</p>
                 <p><b>Alignment</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
@@ -293,7 +294,8 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R79-R80<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Note</b>: This becomes viable around ~1e88-1e89. You should do the GB11 Unlock build from below first. During the first buildup, you might need to use contingency autocasting at 50% in order to unlock the research upgrade. The final merc upgrade won't be available until Dragon Lineage is unlocked (after research). Be prepared to load the research multiple times to get the last few upgrades.
+                <p><b>Author</b>: Hyppy
+                <p><b>Range</b>: e88 (10 Ocvg) gems - ? gems, 10B mana this R</p>
                 <p><b>Alignment</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
@@ -334,7 +336,8 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Note</b>: Playing around with this one, but it may need to be tweaked or switched over to Good to be optimal. It provided a near instant jump from 1e93 to 1e96 once it came online. This R goes so fast that it might not be worth editing. You might need to use an earlier build if you're starting at e88.
+                <p><b>Author</b>: Hyppy
+                <p><b>Range</b>: e90 (1 Novg) gems - ? gems, 10B mana this R</p>
                 <p><b>Alignment</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
@@ -355,9 +358,8 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Revenant" R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Note</b>: e90 or so is necessary for this to really go off, so you can use an earlier Pagan Lizards build to get there from e88. The beauty of this build is it performs quite well with just the T6s from Faceless Dragon/Undeadline.
-                <p><b>Note</b>: R82+ with high Ruby count, builds shouldn't get skewed too much just because C340 values is higher for certain players, it's a must have in most cases anyway.
                 <p><b>Author</b>: Rastan9
+                <p><b>Range</b>: e90 (1 Novg) gems - e114 (1 Sxtg) gems, 10B mana this R</p>
                 <p><b>Alignment</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
@@ -536,7 +538,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Legion" (W275 Short Term Buff Build) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Legion" (W275 Short Term Buff Build) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: artcrow <b>Edited by</b> necrodoom</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
@@ -556,7 +558,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Horde" (W275 Long Term Buff Build)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Horde" (W275 Long Term Buff Build) R82+<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: artcrow</p>
                 <p><b>Range</b>: e118 gems (10 Octg), high S400</p>
