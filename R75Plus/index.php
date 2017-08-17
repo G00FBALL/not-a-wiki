@@ -82,7 +82,7 @@
         </div>
     </div>
     <br/>
-    <p><b>Lineage Levelingk</b></p>
+    <p><b>Lineage Leveling</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -155,6 +155,50 @@
             </div>
         </div>
     </div>
+    <br/>
+    <p><b>Grand Balance 11 Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Flower Ghoul" R77+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Notes</b>: It seems that offline mana production is counted at full tilt when unlocking GB11. This means the fastest way to get to 10e9 mana is to get as much mana regen as possible then go offline. Unfortunately, the regen is based off of your regeneration with no spells active, so that cuts the upper limit down a bit.
+                <p><b>Faction</b>: Neutral Mercenaries
+                <p><b>Bloodline</b>: Undead
+                <p><b>A2950</b>: Druid
+                <p><b>Merc Template</b>
+                <p>FR9,EL1,AN3,AN6,DD4,DD6,DD9,FC7,DN2,DG3,DG4,DG7,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
+                <p><b>Research Template</b>
+                <p>S180,S215,S305,S460,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C1325,
+                <p>D25,D200,D245,D1275,D1375,D2775,
+                <p>E135,E145,E330,E350,E1325,E1425,
+                <p>A55,A120,A250,A305,A1500,A2950,
+                <p>W150,W180,W250,W275,W400,W1375
+                <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Flower Ghoul" R81+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Notes</b>: It seems that offline mana production is counted at full tilt when unlocking GB11. This means the fastest way to get to 10e9 mana is to get as much mana regen as possible then go offline. Unfortunately, the regen is based off of your regeneration with no spells active, so that cuts the upper limit down a bit.
+                <p><b>Faction</b>: Neutral Mercenaries
+                <p><b>Bloodline</b>: Undead
+                <p><b>A2950</b>: Druid
+                <p><b>Merc Template</b>
+                <p>FR9,EL3,AN3,AN6,DD4,DD6,FC7,DN2,DN8,DG3,DG4,DG7,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
+                <p><b>Research Template</b>
+                <p>S180,S215,S305,S330,S1450,S1500,
+                <p>C250,C340,C400,C590,C1325,C3000,
+                <p>D25,D245,D250,D1275,D1375,D2775,
+                <p>E135,E350,E460,E590,E1425,E3250,
+                <p>A120,A250,A305,A1200,A1500,A2950,
+                <p>W180,W275,W400,W1375,W3050,W3150
+                <p>Build comes from this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/785317-mercenary-gb11-unlock-build#posts-11303151"><b>forum</b></a> post</p>
+            </div>
+        </div>
+        </div>
     <br/>
     <p><b>Production Builds</b></p>
     <div class="category">
@@ -580,50 +624,6 @@
                 <p>S30 instead of S500 for runs over 7-8 days.</p>
                 <p>Don't buy the tax collection upgrade(Round Table), turn off Druid Challenge 4 and autocast all spells + tax collection for buildup, which last until end of run. Buy Round Table and finish the run during Sun Force assistants.</p>
                 <p>Build is based on this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=17#posts-11422165"><b>forum</b></a> post</p>
-            </div>
-        </div>
-    </div>
-    <br/>
-    <p><b>Grand Balance 11 Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Flower Ghoul" R77+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Notes</b>: It seems that offline mana production is counted at full tilt when unlocking GB11. This means the fastest way to get to 10e9 mana is to get as much mana regen as possible then go offline. Unfortunately, the regen is based off of your regeneration with no spells active, so that cuts the upper limit down a bit.
-                <p><b>Faction</b>: Neutral Mercenaries
-                <p><b>Bloodline</b>: Undead
-                <p><b>A2950</b>: Druid
-                <p><b>Merc Template</b>
-                <p>FR9,EL1,AN3,AN6,DD4,DD6,DD9,FC7,DN2,DG3,DG4,DG7,
-                <p>SP:Dragon's Breath,SP:Fairy Chanting
-                <p><b>Research Template</b>
-                <p>S180,S215,S305,S460,S1450,S1500,
-                <p>C250,C340,C400,C590,C1300,C1325,
-                <p>D25,D200,D245,D1275,D1375,D2775,
-                <p>E135,E145,E330,E350,E1325,E1425,
-                <p>A55,A120,A250,A305,A1500,A2950,
-                <p>W150,W180,W250,W275,W400,W1375
-                <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Flower Ghoul" R81+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Notes</b>: It seems that offline mana production is counted at full tilt when unlocking GB11. This means the fastest way to get to 10e9 mana is to get as much mana regen as possible then go offline. Unfortunately, the regen is based off of your regeneration with no spells active, so that cuts the upper limit down a bit.
-                <p><b>Faction</b>: Neutral Mercenaries
-                <p><b>Bloodline</b>: Undead
-                <p><b>A2950</b>: Druid
-                <p><b>Merc Template</b>
-                <p>FR9,EL3,AN3,AN6,DD4,DD6,FC7,DN2,DN8,DG3,DG4,DG7,
-                <p>SP:Dragon's Breath,SP:Fairy Chanting
-                <p><b>Research Template</b>
-                <p>S180,S215,S305,S330,S1450,S1500,
-                <p>C250,C340,C400,C590,C1325,C3000,
-                <p>D25,D245,D250,D1275,D1375,D2775,
-                <p>E135,E350,E460,E590,E1425,E3250,
-                <p>A120,A250,A305,A1200,A1500,A2950,
-                <p>W180,W275,W400,W1375,W3050,W3150
-                <p>Build comes from this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/785317-mercenary-gb11-unlock-build#posts-11303151"><b>forum</b></a> post</p>
             </div>
         </div>
     </div>
