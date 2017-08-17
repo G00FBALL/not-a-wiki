@@ -138,6 +138,7 @@
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-production-builds?page=1#posts-11298899"><b>forum</b></a> post</p>
             </div>
         </div>
+        <br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R77-78<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -198,6 +199,7 @@
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
+        <br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R79-80<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -260,6 +262,7 @@
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
+        <br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -300,6 +303,7 @@
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
+        <br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Revenant" R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -346,6 +350,7 @@
                 <p>If C1500<75% then C1500→C175</p>
             </div>
         </div>
+        <br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Florian's Ultimate Diamond Grinder" R87+<font color="Blue"> Good</font></a></b></p>
             <div class="autohide"> 
