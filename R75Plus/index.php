@@ -139,7 +139,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R77+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R77-78<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Alignment</b>: Neutral Mercenary
@@ -150,29 +150,12 @@
                 <p>FR9,EL3,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:Diamond Pickaxe,SP:God's Hand
                 <p><b>Research Template</b>
-                <p><b>R77-79</b>
                 <p>S215,S305,S330,S460,S1450,S1500,
                 <p>C340,C400,C520,C590,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E145,E350,E460,E1425,E590,
                 <p>A105,A120,A175,A495,A1500,A2950,
                 <p>W150,W180,W275,W290,W400,W1375 
-                <br/>
-                <p><b>R79-80</b>
-                <p>S215,S305,S330,S460,S1450,S1500,
-                <p>C340,C400,C520,C590,C1300,C3000,
-                <p>D25,D245,D590,D1275,D1375,D2775,
-                <p>E135,E145,E350,E460,E1425,E590,
-                <p>A105,A120,A175,A495,A1500,A2950,
-                <p>W150,W180,W275,W400,W1375,W3150 
-                <br/>
-                <p><b>R81+</b>
-                <p>S215,S305,S330,S1450,S1500,S3200,
-                <p>C340,C400,C520,C590,C1300,C3000,
-                <p>D25,D245,D590,D1275,D1375,D2775,
-                <p>E135,E145,E260,E460,E1425,E3250,
-                <p>A105,A120,A175,A1200,A1500,A2950,
-                <p>W180,W275,W400,W1375,W3050,W3150 
             </div>
         </div>
         <div class="shelementwhole">
@@ -216,13 +199,34 @@
             </div>
         </div>
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R79-80<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Alignment</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Dragon
+                <p><b>A2950</b>: Dwarf
+                <p><b>Range</b>: 1e87 (1 Ocvg) gems with GG3 from excavations.
+                <p><b>Merc Template</b>
+                <p>FR9,EL3,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
+                <p>SP:Diamond Pickaxe,SP:God's Hand
+                <p><b>Research Template</b>
+                <p><b>R79-80</b>
+                <p>S215,S305,S330,S460,S1450,S1500,
+                <p>C340,C400,C520,C590,C1300,C3000,
+                <p>D25,D245,D590,D1275,D1375,D2775,
+                <p>E135,E145,E350,E460,E1425,E590,
+                <p>A105,A120,A175,A495,A1500,A2950,
+                <p>W150,W180,W275,W400,W1375,W3150 
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Dwarven Buster" R79-R80<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dwarf
-                <p><b>Range</b>: e86 (100 Spvg) - e95 (100 Tg) gems, R79+
+                <p><b>Range</b>: e86 (100 Spvg) - e95 (100 Tg) gems, R79-80
                 <p><b>Merc Template</b>
                 <p>EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:Fairy Chanting,SP:Dragon's Breath
@@ -254,6 +258,26 @@
                 <p>A105,A120,A250,A305,A1500,A2950,
                 <p>W25,W180,W275,W400,W1375,W3150
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Commander" R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Alignment</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Dragon
+                <p><b>A2950</b>: Dwarf
+                <p><b>Range</b>: 1e87 (1 Ocvg) gems with GG3 from excavations.
+                <p><b>Merc Template</b>
+                <p>FR9,EL3,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
+                <p>SP:Diamond Pickaxe,SP:God's Hand
+                <p><b>Research Template</b>
+                <p>S215,S305,S330,S1450,S1500,S3200,
+                <p>C340,C400,C520,C590,C1300,C3000,
+                <p>D25,D245,D590,D1275,D1375,D2775,
+                <p>E135,E145,E260,E460,E1425,E3250,
+                <p>A105,A120,A175,A1200,A1500,A2950,
+                <p>W180,W275,W400,W1375,W3050,W3150 
             </div>
         </div>
         <div class="shelementwhole">
