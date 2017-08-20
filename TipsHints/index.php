@@ -6,7 +6,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophiesTopPage.png"></h6>
 <b>Tips and Hints</b>
 <div id="myimage22"></div>
-<p>(<a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"><b>Secret Trophy Guide</a></b>) shows in which order it is easier to get the trophies. (Work in progress - 3/32016 by dox4242)</p>
+<p>(<a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"><b>Secret Trophy Guide</a></b>) shows in which order it is easier to get the trophies. (Work in progress - 3/3/2016 by dox4242)</p>
 <p><b>Leet</b>: If you have a premium upgrade, turn it off in the options to start a game with 0 coins.
 <p><b>Equality</b>: In case you have one alignment playtime much longer than an other: restart and do it after Reincarnations. Play times will be reset to zero. When two alignments are one minute apart, the third can be over 24 hours. All can be done while offline.</p>
 <p>Building, coin, click, spell, mana, assistants... trophies: use special merc builds. To get all the building trophies, tweak those builds to fit other alignments. These can also be done using research but it won't be easy at R16.</p>
