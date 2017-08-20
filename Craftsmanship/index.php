@@ -172,7 +172,7 @@
 <p><B>Formula</B>: floor(1.25 * ln(1 + x)^2), where x is mana produced (this game).</p>
 <p><b>----------------------------------</B></p>
 <p><b>C1500</b> - <b>For</b> Titan,Dragon - <B>Research Name</B> Gargantuaness</p>
-<p><B>Requirement</B>: 2500 Royal Exchanges, D1275, Affiliated Titan/Dragon</p>
+<p><B>Requirement</B>: 2500 Royal Exchanges, Research Inflation(E460) and Solemnity(D1275), Affiliated Titan/Dragon</p>
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase the production of all buildings based on total time spent as Neutral.</p>
 <p><B>Formula</B>: (1.5 * x)^0.7, where x is neutral time (this R) in minutes.</p>

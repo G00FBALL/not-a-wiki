@@ -99,7 +99,7 @@
                 <p><b>Effect</b>: Increase the production of assistants based on the total amount of Frost Orbs collected in this event.
                 <p><b>Formula</b>: x^1.03 %, where x is the number of Frost Orbs collected in total.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" align="middle"> Cold Blood</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" axlign="middle"> Cold Blood</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: 2000 Frost Orbs
                 <p><b>Effect</b>: Spell durations are increased by 100%.
@@ -127,64 +127,52 @@
                 <p><b>Effect</b>: Gain additional assistants based on the clicks made in this game.
                 <p><b>Formula</b>: 2 * log (1 + x^2), where x is the number of clicks made in this game.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" align="middle"> Burning Rage</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" axlign="middle"> Burning Rage</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: 2000 Flame Orbs
-                <p><b>Effect</b>: Decrease the cost of all spells by 50%. (multiplicative)
+                <p><b>Effect</b>: Decrease the cost of all spells by 50%.
                 <p><b>----------------------------------</b>
                 <p><b>Quest</b>
                 <p><b>Winterly Champion</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" align="middle">  Winterly Champion 1</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" axlign="middle">  Winterly Champion 1</b></p>
                 <p><b>Effect</b>: +1% Event bonus.
-                <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" align="middle">   Winterly Champion 2</b></p>
-                <p><b>Effect</b>: +1% Event bonus.
-                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" align="middle"> Winterly Champion 3</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" axlign="middle">   Winterly Champion 2</b></p>
                 <p><b>Effect</b>: +2% Event bonus.
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" axlign="middle"> Winterly Champion 3</b></p>
+                <p><b>Effect</b>: +4% Event bonus.
                 <p><b>Unlock</b>: Purchase 1/2/3 Winterly upgrades.
                    <br/>
                    <br/>
                 <p><b>Summeraan Champion</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" align="middle"> Summeraan Champion 1</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" axlign="middle"> Summeraan Champion 1</b></p>
                 <p><b>Effect</b>: +1% Event bonus.
-                <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" align="middle"> Summeraan Champion 2</b></p>
-                <p><b>Effect</b>: +1% Event bonus.
-                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" align="middle"> Summeraan Champion 3</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" axlign="middle"> Summeraan Champion 2</b></p>
                 <p><b>Effect</b>: +2% Event bonus.
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" axlign="middle"> Summeraan Champion 3</b></p>
+                <p><b>Effect</b>: +4% Event bonus.
                 <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" axlign="middle"> Winterly Champion</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Purchase all Winterly upgrades.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" axlign="middle"> Summeraan Champion</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Purchase all Summeraan upgrades.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" axlign="middle"> Warm Up</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" axlign="middle"> Chill Out</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.
                 <p><b>----------------------------------</b>
-                <p><b>Shop Items</b>
-                <p><b><img src="/realm/Factions/picks/75OrbShopItem.png" alt="Shop Item" align="middle"> 75 Frost and Flame Orbs</b></p>
+                <p><b><img src="/realm/Factions/picks/OrbShopItem.png" alt="Shop Item" axlign="middle"> Shop Item</b></p>
                 <p><b>Cost</b>: 5 Rubies
-                <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept.</p>
-                <br/>
-                <p><b><img src="/realm/Factions/picks/300OrbShopItem.png" alt="Shop Item" align="middle"> 300 Frost and Flame Orbs</b></p>
-                <p><b>Cost</b>: 15 Rubies
-                <p><b>Description</b>: A spring wizard wants to sell you 300 Frost and Flame Orbs for 15 Rubies. He will offer you a new deal if you accept.</p>
-                <br/>
-                <p><b><img src="/realm/Factions/picks/1250OrbShopItem.png" alt="Shop Item" align="middle"> 1250 Frost and Flame Orbs</b></p>
-                <p><b>Cost</b>: 45 Rubies
-                <p><b>Description</b>: A spring wizard wants to sell you 1250 Frost and Flame Orbs for 45 Rubies. He will offer you a new deal if you accept.</p>
-                <br/>
-                <p><b><img src="/realm/Factions/picks/3500OrbShopItem.png" alt="Shop Item" align="middle"> 3500 Frost and Flame Orbs</b></p>
-                <p><b>Cost</b>: 100 Rubies
-                <p><b>Description</b>: A spring wizard wants to sell you 3500 Frost and Flame Orbs for 100 Rubies. These are all the orbs he could gather.</p>
-              <p><b>----------------------------------</b>
+                <p><b>Kind</b>: Shop Item
+                <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept. (Offer is increased at each purchase)
+                <p><b>----------------------------------</b>
             </div>
         </div>
         <div class="shelementwhole">
@@ -888,7 +876,7 @@
                 <p><b>Effect</b>: Increase the production of assistants based on the total amount of Frost Orbs collected in this event.
                 <p><b>Formula</b>: x^1.03 %, where x is the number of Frost Orbs collected in total.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" align="middle"> Cold Blood</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" axlign="middle"> Cold Blood</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: 2000 Frost Orbs
                 <p><b>Effect</b>: Spell durations are increased by 100%.
@@ -916,38 +904,38 @@
                 <p><b>Effect</b>: Gain additional assistants based on the clicks made in this game.
                 <p><b>Formula</b>: 2 * log (1 + x^2), where x is the number of clicks made in this game.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" align="middle"> Burning Rage</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" axlign="middle"> Burning Rage</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: 2000 Flame Orbs
                 <p><b>Effect</b>: Decrease the cost of all spells by 50%.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" align="middle"> <img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" axlign="middle"> <img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" axlign="middle"> Winterly Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" axlign="middle"> <img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" axlign="middle"> <img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" axlign="middle"> Winterly Champion</b></p>
                 <p><b>Kind</b>: Quest
                 <p><b>Unlock</b>: Purchase 1/2/3 Winterly upgrades.
                 <p><b>Effect</b>: +1%/+2%/+4% Event bonus (overall).
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" align="middle"> <img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" axlign="middle"> <img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" axlign="middle"> Summeraan Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" axlign="middle"> <img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" axlign="middle"> <img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" axlign="middle"> Summeraan Champion</b></p>
                 <p><b>Kind</b>: Quest
                 <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.
                 <p><b>Effect</b>: +1%/+2%/+4% Event bonus (overall).
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" axlign="middle"> Winterly Champion</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Purchase all Winterly upgrades.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" axlign="middle"> Summeraan Champion</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Purchase all Summeraan upgrades.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" axlign="middle"> Warm Up</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" axlign="middle"> Chill Out</b></p>
                 <p><b>Kind</b>: Feat
                 <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.
                 <p><b>----------------------------------</b>
-                <p><b><img src="/realm/Factions/picks/OrbShopItem.png" alt="Shop Item" align="middle"> Shop Item</b></p>
+                <p><b><img src="/realm/Factions/picks/OrbShopItem.png" alt="Shop Item" axlign="middle"> Shop Item</b></p>
                 <p><b>Cost</b>: 5 Rubies
                 <p><b>Kind</b>: Shop Item
                 <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept. (Offer is increased at each purchase)

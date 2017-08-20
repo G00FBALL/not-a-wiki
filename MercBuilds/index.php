@@ -186,8 +186,8 @@
                 <p><b>Template</b>: 1 Dc (1e33) to 100 Qid (1e50)
                 <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Grand Balance,SP:Fairy Chanting
-                <p><b>Template</b>: 100 Qid (1e50)+
-                <p>EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
+                <p><b>Template</b>: 100 Qid (1e50)+, Assistant Legion upgrade
+                <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
                 <p>SP:Fairy Chanting,SP:Grand Balance
                 <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold
                 <p><b>Range</b>: 1 Dc (1e33) to ?

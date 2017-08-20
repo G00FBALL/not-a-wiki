@@ -141,9 +141,9 @@
     <p><b>Easy to get later (based on R#)</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="Smiley face" align="middle"> <b>Helden Sterben Nicht</b> (R3+)
     <p>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.
-    <p><b>Hint</b>: After joining each stage wiat about 10 seconds before Abdicating.
+    <p><b>Hint</b>: After joining each stage wait about 10 seconds before Abdicating.
     <p><b>Cost</b>: 5.0e75
-    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%
+    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> <b>Coin Pillage</b> (end of R3)
     <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/TrophyBuilds/"><b>Harley Quinn R3+</b></a>
@@ -161,7 +161,8 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png" alt="Unlimited Mana" align="middle"> <b>Unlimited Mana</b> (R3)
     <p>Have at least 300 mana per second. Using Mercenary build IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build to get it with other mana trophies using <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a> in R7.
+    <p>Alternately, you can use <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Wastanarama R18-R23</b></a> to do just this trophy in R3, substituting goblin's greed for god's hand to get FC to set up.
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png" alt="Mercenary Spirit" align="middle"> <b>Mercenary Spirit</b> (end of R3)
     <p>Reincarnate while affiliated with Mercenaries.
@@ -274,6 +275,7 @@
     <p><b>Cost</b>: 100 No (1e32)
     <p><b>Effect</b>: +35% Mana Regeneration (multiplicative).
     <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.
+    <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Tiered Autocasting</b> (R42)
     <p>Produce 200M mana.

@@ -17,7 +17,7 @@
         <div class="shelementwhole" style="padding-left: 20px">
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
             <div class="autohide">
-                <p>Base cost for Lineage is 25 Qa (2.5e16) Faction Coins with every level costing 10 times more, 9 times more if you have Ancient Heirloom.
+                <p>The base costs for lineages are 25 Qa (2.5e16) Faction Coins and each level costs 10 times more. The Ancient Heirloom reduces the cost of lineages that aren't at the maximum level by raising them to the 0.9th power, making the cost multiplier 10^0.9 or 7.943 instead.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
                 <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
                 <p><b>Chance</b>: Total Lineage levels/2000
@@ -215,7 +215,7 @@
     <p><b>Level 20</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk3.png" alt="DemonPerk3" align="middle"><b> Demon Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.
-    <p><b>Effect</b>: 50% more gem production per 666 Unique Buildings, (additive)
+    <p><b>Effect</b>: 50% to gem production per 666 Unique Buildings (multiplicative)
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png" alt="DemonGrandChampionTrophy.png" align="middle"> Demon Grand Champion Trophy.
     <p><b>Requirement</b>: Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.
     <p><b>----------------------------------</b>

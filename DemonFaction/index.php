@@ -74,8 +74,6 @@
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Realm</b></p>
 <p>Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>:  (10 * (2x)0.^75)%, where x is your Playtime (This Game) stat.
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Infernal Realm Quest"
 <p><b>Cost</b>: 10 Ttg (1E103)

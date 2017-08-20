@@ -14,6 +14,7 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Moon Blessing</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the total amount of treasure clicks across all play-throughs for 20 seconds.</p>
+<p><b>Formula</b>: 1.75 * ln^3.1(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b>
 <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second. 
 <p><b>Requirement</b>: Activate Moon Blessing between 6am and 12pm.</p>

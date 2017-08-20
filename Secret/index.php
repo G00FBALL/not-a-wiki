@@ -233,19 +233,19 @@
 <p><b>Effect</b>: Increases maximum mana by 75%
 <p><b>Note</b>: Post Ascension only 
 <p><b>----------------------------------</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png" alt="AdvisorInsight" align="middle"> Advisor Insight</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png" alt="Advisor Insight" align="middle"> Advisor Insight</b></p>
 <p>Click the Hint button 100 times.</p>
 <p>Cost Pre Ascension: 100 No (1e32).
 <p>Cost Post Ascension: Free.
 <p><b>Effect</b>: post-ascension Increase the production of all buildings by 0.96%.
 <p><b>Effect</b>: pre-ascension Increase the production of all buildings by 10%.<p>
 <p><b>----------------------------------</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png" alt="AdvisorInsight" align="middle"> Dragon Tamer</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png" alt="Dragon Tamer" align="middle"> Dragon Tamer</b></p>
 <p>Fully develop your Spiky Egg into an Elder Dragon.</p>
 <p><b>Cost</b>: 1.0e65
 <p><b>Effect</b>: Increase the production of all buildings by 100% and doubles Faction Coin find chance.
 <p><b>----------------------------------</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="AdvisorInsight" align="middle"> Helden Sterben Nicht</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="Helden Sterben Nicht" align="middle"> Helden Sterben Nicht</b></p>
 <p>Join Mercenaries, then Undead, then Angels within 15 minutes of selecting Mercenary.(Can be done anytime R3+)</p>
 <p><b>Cost</b>: 5.0e75
 <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.
@@ -273,6 +273,7 @@
 <p><b>Cost</b>: 100 No (1e32) 
 <p><b>Effect</b>: 35% Mana Regeneration (multiplicative).
 <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.
+<p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b></p>
 <p><b>Requirements</b>: Perform 40 autoclicks in 1 second.  

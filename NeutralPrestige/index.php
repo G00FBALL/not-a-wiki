@@ -36,7 +36,7 @@
 <p><b>Effect</b>: Hatches the Egg
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrakelingFactionUpgrade.png" alt="Smiley face" align="middle"><b> Drakeling</b></p>
 <p><b>Description</b>: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.
-<p><b>Requirement</b>: Hatch!, 12 hours, 12 hours of active Hellfire Blast (This one is weird! and not sure about the time for Hellfire Blast)</p>
+<p><b>Requirement</b>: Hatch!, 12 hours of active Hellfire Blast since purchasing the previous stage.</p>
 <p><b>Cost</b>: 1.0e67, 100m (1e8) each FC</p>
 <p><b>Effect</b>: Grows Drakeling into Dragon.
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> Dragon</b></p>
