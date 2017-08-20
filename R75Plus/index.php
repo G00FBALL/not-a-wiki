@@ -386,15 +386,15 @@
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
                 <p><b>Merc Template</b>
-                <p>EL1,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DG3,DG4,DG9,
+                <p>EL3,EL7,AN5,GB4,TT3,TT6,DD7,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:Grand Balance,SP:God's Hand
                 <p><b>Research Template</b>
                 <p>S215,S305,S330,S460,S1450,S1500,
-                <p>C340,C400,C590,C1325,C1500,C3000,
+                <p>C340,C400,C590,C1325,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
-                <p>E135,E145,E350,E590,E1425,E3250,
-                <p>A105,A120,A250,A305,A1500,A2950,
-                <p>W25,W180,W275,W400,W1375,W3150
+                <p>E135,E145,E260,E350,E1425,E3250,
+                <p>A105,A120,A305,A1200,A1500,A2950,
+                <p>W180,W275,W400,W1375,W3050,W3150
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
