@@ -356,6 +356,30 @@
     </div>
     </br>
     <h6>Alignment Spells</h6>
+    <p><b>Mercenary Research</b>: 
+    <p><b>Faction Spell</b>: Tax Collection
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Good</b>
+    <p><b>Requirement</b>: Mercenary Camp
+    <p><b>Cost</b>: 1 Qaqag (1e135)
+    <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
+    <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)
+    <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)
+    <br/>
+    <br/>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Evil</b>
+    <p><b>Requirement</b>: Tyrant Garrison
+    <p><b>Cost</b>: 1 Qaqag (1e135)
+    <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.
+    <p><b>Formula</b>: y ^ (1 + 0.2 * Log10(1 + x)), where y is TC original power and x is amount of TC casts
+    <p><b>Note</b>: Extra time from reap interests does apply to S50.
+    <p><b>Note</b>: S50 tax collections do increase reap interests.
+    <br/>
+    <br/>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png" alt="Freemason's Hall" align="middle"> <b>Neutral</b>
+    <p><b>Requirement</b>: Freemason's Hall
+    <p><b>Cost</b>: 1 Qaqag (1e135)
+    <p><b>Effect</b>: Generates additional Faction Coins per cast
+    <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyLight.png" alt="Good" align="middle"> Holy Light</b> (Any Good Faction)</p>
     <p><b>Works For</b>: Good - <b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds </p>
     <p><b>Effect</b>: Increase clicking reward by 2500%</p>
