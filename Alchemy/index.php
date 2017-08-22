@@ -106,8 +106,8 @@
 <p><B>Requirement</B>: 5 days as Druids (Total across all Rs)
 <p><B>Cost</B>: 255.2 OcQig (2.552E179)
 <p><B>Effect</B>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.
-<p><B>Effect</B>: Also increase Faction Coins find chance ba a multiplicative 100%. 
-<p><B>Formula</B>: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat., or approximately floor((ln(x) + 0.69)^2.75)%, where x is your Spells Cast (This Game) stat.
+<p><B>Effect</B>: Also increase Faction Coins find chance by a multiplicative 100%. 
+<p><B>Formula</B>: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat, or approximately floor((ln(x) + 0.69)^2.75)%, where x is your Spells Cast (This Game) stat.
 <p><b>----------------------------------</b></p>
 <p><b>A330</b> - <b>For</b> Any - <B>Research Name</B> Adaptation
 <p><B>Requirement</B>: Research Mutation (D260) & Meditation (D275)
