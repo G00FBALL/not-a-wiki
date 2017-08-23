@@ -16,7 +16,7 @@
 <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate for 20 seconds.</p>
 <p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/God'sRestFactionUpgrade.png" alt="God's Rest" align="middle"> God's Rest</b> 
 <p><b>Effect</b>: Gives random Faction Coins based on your mana regeneration for each other spell you cast while God's Hand is active.
-<p><b>Formula</b>: floor(20 * x^0.5), x is mps.</p>
+<p><b>Formula</b>: 150 * x, where x is mana regen per second.</p>
 <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 1 Upgrades</b></p>
