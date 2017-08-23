@@ -8,6 +8,7 @@
                 "ResearchBuildsobsolete" => "Research Builds (Obsolete)",
                 ".." => "Main Page"
             );
+            $ignores = array("G00F'sPicks", "test", "EndGameR45");
             $href = "";
             $html = "";
             $htmlul = array();
@@ -20,7 +21,8 @@
             $directory = new RecursiveDirectoryIterator("..");
             $filter = new RecursiveCallbackFilterIterator($directory, function ($current) {
                 /** @var SplFileInfo $current */
-                if ($current->getFilename()[0] === '.' || in_array($current->getFilename(), ["G00F'sPicks", "test", "EndGameR45"])) {
+                global $ignores;
+                if ($current->getFilename()[0] === '.' || in_array($current->getFilename(), $ignores)) {
                     return FALSE;
                 }
                 if ($current->isDir()) {
