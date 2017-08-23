@@ -507,7 +507,7 @@
     <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate.</p>
     <p><b>Spell Trophy & Upgrade: God's Rest</b>
     <p><b>Effect</b>: Gives random Faction Coins based on your mana regeneration for each other spell you cast while God's Hand is active.
-    <p><b>Formula</b>: floor(20 * x^0.5), x is mps.</p>
+    <p><b>Formula</b>: 50 * x, where x is mana regen per second.</p>
     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
     <p><b>Challenge Upgrade</b>: God's Throne, Mana regeneration is increased by 20% while God's Hand is active.</p>
     <div class="shlisting">
