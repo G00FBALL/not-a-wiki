@@ -395,7 +395,7 @@
                     <p>E30,E135,E145,E350,E1225,E1425,</p>
                     <p>A105,A120,A150,A250,A305,A400,</p>
                     <p>W135,W180,W250,W275,W400,W1375</p>
-                    <p><b>Notes</b>: Estimated time for UL15 - 12-10 days (not counting buff build time). Swap W135 with W1400 if using silver gift or above. Not recommended if you have T6 faceless spells.</p>
+                    <p><b>Notes</b>: Estimated time for UL15 - 10-12 days (not counting buff build time). Swap W135 with W1400 if using silver gift or above. Not recommended if you have T6 faceless spells.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
