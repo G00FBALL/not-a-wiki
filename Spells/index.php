@@ -94,7 +94,7 @@
             Tier : <input type="number" min="2" max="6" maxlength="1" name="tmin" id="tmin" value="2">
             To Tier : <input type="number" min="2" max="6" maxlength="1" name="tmax" id="tmax" value="6">
             From R : <input type="number" min="42" max="105" maxlength="3" name="rmin" id="rmin" value="42">
-            To R : <input type="number" min="50" max="105" maxlength="3" name="rmax" id="rmax" value="105">
+            To R : <input type="number" min="42" max="105" maxlength="3" name="rmax" id="rmax" value="105">
             <input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,tmin.value,tmax.value)">
         </form>
         <table>
@@ -116,7 +116,7 @@
             var minTier = 2;
             var maxTier = 6;
             var minReinc = 42;
-            var maxReinc = 42;
+            var maxReinc = 50;
             if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
                 minTier = parseInt(localStorage.getItem('mint'));
                 maxTier = parseInt(localStorage.getItem('maxt'));
