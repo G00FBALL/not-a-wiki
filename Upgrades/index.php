@@ -313,7 +313,7 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana regeneration by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Lake" align="middle"> Mana Ocean</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Lake" align="middle"> Mana Ocean (Post A only)</b></p>
             <p><b>Cost</b>: 150 Noqag (1.5e152)
             <p><b>Unlock Requirement</b>: 200 T (2E14) mana produced</p>
             <p><b>Alignment</b>: Any
