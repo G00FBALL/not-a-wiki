@@ -14,8 +14,10 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Goblin's Greed</p>
 <p><b>Effect</b>: Instantly produces Faction Coins based on your current gems and provides a boost based on the number of Faction Coins discovered for 5 seconds.</p>
+<p><b>FC Formula</b>: floor(ln^3(1 + x) + 20, where x is your current gems.</p>
+<p><b>Production Formula</b>: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.</p>
 <p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" alt="Smiley face" align="middle"> Greed Drive</b> 
-<p><b>Effect</b>: Goblin's Greed costs 150 less mana. Greed-Drive-spell-upgrade
+<p><b>Effect</b>: Goblin's Greed costs 150 less mana.
 <p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell. 
 <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
 <p><b>----------------------------------</b></p>
@@ -60,7 +62,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png" alt="Smiley face" align="middle"> Fool's Gold</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Witch Conclaves you own.</p>
-<p><b>Formula</b>: floor(2 * x^0.6)%p, where x is the number of Witch Conclaves you own.</p>
+<p><b>Formula</b>: floor(2 * x^0.6)%, where x is the number of Witch Conclaves you own.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" alt="Smiley face" align="middle"> Green Fingers Discount</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>

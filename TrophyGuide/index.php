@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophiesTopPage.png" alt="TrophiesTopPage" align="middle"></h6>
-    <p>The original guide can be found <a href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"> <b>here</b></a> produced by <a href="http://www.kongregate.com/accounts/dox4242"> <b>dox242</b></a>
+    <p>The original guide can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"> <b>here</b></a> produced by <a target="_blank" href="http://www.kongregate.com/accounts/dox4242"> <b>dox242</b></a>
     <p>At the end of R0 you should have between 430 and 450 Trophies. You will get most of them automatically and will not be listed here.
     <p><b>Easy/possible to do at the beginning of R0</b>
     <p><b>Clouded</b>
@@ -90,7 +90,8 @@
     <p>This will require no less than 36 hours <b>this game</b> for Faceless
     <p><b>----------------------------------</b>
     <p><b>Not so easy; peculiar requirements</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"> <b>Equality</b> Any R(suggested R0, R32, R46)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"> <b>Equality</b> 
+    <p>Any R (suggested R0, R32, R46) Best to do at R0, At R32 you have research D480 that require 12 hours with Good, Evil and Neutral., D525 that requires 1 day 12 hours as Good
     <p>Spend at least 24 hours with each of the 3 alignments, and have the difference between each one be less than 60 seconds.
     <p><b>Note</b>: Get 2 Alignments at 24 hours and a few seconds each then go to the 3rd Alignment and once it reaches at least 24 hour the Trophy will be awarded.
 	<p><b>Note</b>: R32 during unlocking D480, D525 and W525.
@@ -140,9 +141,9 @@
     <p><b>Easy to get later (based on R#)</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="Smiley face" align="middle"> <b>Helden Sterben Nicht</b> (R3+)
     <p>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.
-    <p><b>Hint</b>: After joining each stage wiat about 10 seconds before Abdicating.
+    <p><b>Hint</b>: After joining each stage wait about 10 seconds before Abdicating.
     <p><b>Cost</b>: 5.0e75
-    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%
+    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> <b>Coin Pillage</b> (end of R3)
     <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/TrophyBuilds/"><b>Harley Quinn R3+</b></a>
@@ -160,7 +161,8 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png" alt="Unlimited Mana" align="middle"> <b>Unlimited Mana</b> (R3)
     <p>Have at least 300 mana per second. Using Mercenary build IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build to get it with other mana trophies using <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a> in R7.
+    <p>Alternately, you can use <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Wastanarama R18-R23</b></a> to do just this trophy in R3, substituting goblin's greed for god's hand to get FC to set up.
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png" alt="Mercenary Spirit" align="middle"> <b>Mercenary Spirit</b> (end of R3)
     <p>Reincarnate while affiliated with Mercenaries.
@@ -224,10 +226,6 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png" alt="Warlord" align="middle"> <b>Warlord</b> (R20)
     <p>Discover at least 10 Warfare Researches.
     <p><b>----------------------------------</b>
-    <p><b>3500 Buildings</b> (series 18) (R20-24)
-    <p>Build 3500 of each building
-    <p><b>Note</b> This is 25 Trophies
-    <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png" alt="That Excavated Quickly" align="middle"> <b>That Excavated Quickly</b> (R21-25)
     <p>Excavate 1000 times in the first 30 seconds of playtime.
     <p><b>----------------------------------</b>
@@ -253,7 +251,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretTrophy.png" alt="Expert Researcher" align="middle"> <b>Expert Researcher</b> (R30)
     <p>Research 2750 times across all fields (459 per branch).
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png" alt="Van!shment" align="middle"> <b>Van!shment</b> (R31)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png" alt="Van!shment" align="middle"> <b>Van!shment</b> (R26)
     <p><b>Pre Ascension</b>: Reach an Offline Bonus of at least 1Qa%.
     <p><b>Post Ascension</b>: Reach an Offline Bonus of at least 1895%.
     <p><b>----------------------------------</b>
@@ -277,6 +275,7 @@
     <p><b>Cost</b>: 100 No (1e32)
     <p><b>Effect</b>: +35% Mana Regeneration (multiplicative).
     <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.
+    <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Tiered Autocasting</b> (R42)
     <p>Produce 200M mana.

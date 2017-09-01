@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/UpgradesTopPage.png"></h6>
 <p><b>A complete list of building upgrades</p></b>
-<!--<a target="_blank" href="http://musicfamily.org/realm/BuildingUpgrades/textversion.php"><b>Text Version</b></a>--!>
+<!--<a target="_blank" href="http://musicfamily.org/realm/BuildingUpgrades/textversion.php"><b>Text Version</b></a>-->
 <p>In order from <b>Neutral</b> to <b>Good</b> to <b>Evil</b> with <b>Halls of Legends</b> at the bottom.</p>
 <p>Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 <p><b>Farm Upgrades (Alignment: Any)</p</b>
@@ -592,7 +592,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Funerary Candles<p>Requirement: 3500 Necropolises<p>Cost: 1.243Spd (1.243e54)<p>Increase Necropolises production by 50%." coords="487,58,536,105" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Poltergeist<p>Requirement: 4000 Necropolises<p>Cost: 3.423Nod (3.423e60)<p>Increase Necropolises production by 50%." coords="3,111,54,162" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Will-o'-the-wisp<p>Requirement: 10K Necropolises<p>Cost: 378.4 Qaqag (3.784e137)<p>Increase Necropolis production by 50%" coords="56,110,105,162" shape="rect">
-    <area target="" research="Unique Building<p>At R16, The Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests. Boosting their production bases on time spent in this game and unlocking more unique perks for the building.<p>Requirements: 2500 Necropolises, Play as Evil and Undead, R16+<p>Formula: (10 * (2x)^0.75)%, where x is your Playtime (This Game) stat." coords="351,111,538,160" shape="rect">
+    <area target="" research="Unique Building<p>At R16, The Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests. Boosting their production based on time spent in this game and unlocking more unique perks for the building.<p>Requirements: 2500 Necropolises, Play as Evil and Undead, R16+<p>Formula: (10 * (2x)^0.75)%, where x is your Playtime (This Game) stat." coords="351,111,538,160" shape="rect">
 </map>
 <p><b>Evil Fortress Upgrades (Alignment: Evil)</p</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/evilfortressgroup1.png" usemap="#evilfortressgroup1-map">

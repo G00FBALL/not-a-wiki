@@ -28,7 +28,7 @@
 <p><B>Requirement</B>: 750 Fairy Chanting (Total this R)
 <p><B>Cost</B>: 12.63 Dqag (1.263E130)
 <p><B>Effect</B>: Increases duration of Fairy Chanting based on the amount of Enchanted Fields, Inns and Blacksmiths you own and provides a progressively increasing bonus to the spell.
-<p><B>Formula</B>: Production increase: floor(10 * ceil^1.5(t)); Duration increase: floor(x /800)^0.8) seconds; where t is how long FC has been active in seconds, and x is the number of Farms, Inns, and Blacksmiths you own.
+<p><B>Formula</B>: Additive Production increase: floor(1000 * t^1.5); Duration increase: floor(x / 800)^0.8) seconds; where t is how long FC has been active in seconds, and x is the number of Farms, Inns, and Blacksmiths you own.
 <p><b>----------------------------------</b></p>
 <p><b>A50</b> - <b>For</b> Angel - <B>Research Name</B> Gilding
 <p><B>Requirement</B>: 120 m/s Mana Regen (as Undead)
@@ -85,7 +85,7 @@
 <p><B>Formula</B>: floor(x^0.9 / 25)%, where x is the amount of research made.
 <p><b>----------------------------------</b></p>
 <p><b>A251</b> - <b>For</b> Druid - <B>Research Name</B> Infusion
-<p><B>Requirement</B>: Play as Druid
+<p><B>Requirement</B>: Secrets of the Ancients (as Druids)
 <p><B>Cost</B>: 79.05 QiQig (7.905E169)
 <p><B>Effect</B>: Increase the production of Stonehenge Circles based on mana produced in this game.
 <p><B>Formula</B>: round(0.75 * x ^0.6)%, where x is your Mana Produced (This Game) stat.
@@ -100,14 +100,14 @@
 <p><B>Requirement</B>: Produce 5M mana (This game, as Druid)
 <p><B>Cost</B>: 33 OcQig (3.36E178)
 <p><B>Effect</B>: Increase mana regeneration based on mana produced in this game.
-<p><B>Formula</B>: floor(10 * (1.5 * ln(1 + x))) / 10, where x is your Mana Produced (This Game) stat.
+<p><B>Formula</B>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
 <p><b>----------------------------------</b></p>
 <p><b>A305</b> - <b>For</b> Any - <B>Research Name</B> Engraving
 <p><B>Requirement</B>: 5 days as Druids (Total across all Rs)
 <p><B>Cost</B>: 255.2 OcQig (2.552E179)
 <p><B>Effect</B>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.
-<p><B>Effect</B>: Also increase Faction Coins find chance ba a multiplicative 100%. 
-<p><B>Formula</B>: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat., or approximately floor((ln(x) + 0.69)^2.75)%, where x is your Spells Cast (This Game) stat.
+<p><B>Effect</B>: Also increase Faction Coins find chance by a multiplicative 100%. 
+<p><B>Formula</B>: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat, or approximately floor((ln(x) + 0.69)^2.75)%, where x is your Spells Cast (This Game) stat.
 <p><b>----------------------------------</b></p>
 <p><b>A330</b> - <b>For</b> Any - <B>Research Name</B> Adaptation
 <p><B>Requirement</B>: Research Mutation (D260) & Meditation (D275)

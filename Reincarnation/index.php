@@ -226,7 +226,7 @@
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
                 <p><b>Increase</b>: Production by 25*x%.</p>
                 <p><b>Increase</b>: Offline production by (500 * x)%.</p>
-                <p><b>Increase</b>: FC chance multiplicatively by (x^1.1)%. Note: Tooltip is wrong and display actual bonus for 50th reincation and up.</p>
+                <p><b>Increase</b>: FC chance multiplicatively by (x^1.1)%. Note: Tooltip is wrong and display actual bonus for 50th reincarnation and up.</p>
                 <p><b>Increase</b>: Mana per Second by floor(12.5*(sqrt(1+8*x)-1)/2)/10.</p>
                 <p><b>2nd Reincarnation and up</b>
                 <p><b>Increase</b>: Gem production bonus by 0.2*x%.
@@ -245,7 +245,7 @@
                 <p><b>45th Reincarnation and up</b>
                 <p><b>Increase</b>: Maximum mana by 70*x^1.2. Note: Tooltip is wrong and this power neither replace nor improve Reincarnation 12 power. </p>
                 <p><b>50th Reincarnation and up</b>
-                <p><b>Increase</b>: FC chance by x%. Note: Tooltip is wrong and display actual bonus for 1st reincation and up.
+                <p><b>Increase</b>: FC chance by x%. Note: Tooltip is wrong and display actual bonus for 1st reincarnation and up.
                 <p><b>60th Reincarnation and up</b>
                 <p><b>Increase</b>: FC change multiplicatively by 1.2*x^1.05 if they match your Faction or Bloodline.
                 <p><b>70th Reincarnation and up</b>

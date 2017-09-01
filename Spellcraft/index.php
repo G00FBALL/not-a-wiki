@@ -67,7 +67,7 @@
     <p><B>Formula</B>: round(x^1.75)%, where x is percentage of current mana.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S215</B>: - <b>For</b> Any - <B>Research Name</B> Projection
-    <p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S175)</p>
+    <p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
     <p><B>Cost</B>: 36.16 TQig (3.616E163) </p>
     <p><B>Effect</B>: Increase Spiritual Surge effect by 150% per other active spell.</p>
     <p><b>----------------------------------</B></p>
@@ -84,7 +84,7 @@
     <p><B>Formula</B>: round(0.5 * x^0.58)%, where x is your Mana Produced (This Game) stat.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S251</B>: - <b>For</b> Faceless - <B>Research Name</B> Assimilation </p>
-    <p><B>Requirement</B>: Play as Faceless
+    <p><B>Requirement</B>: Secrets of the Ancients (as Faceless)
     <p><B>Cost</B>: 79.05 QiQig (7.905E169)
     <p><B>Effect</B>: Increase the production of Sunken Cities based on time spent affiliated with factions different than the Faceless.</p>
     <p><B>Formula</B>: round(0.3 * x^0.7)%, where x is total time spent as non-Faceless factions.</p>
@@ -119,7 +119,7 @@
     <p><B>Formula</B>: floor(x^2), where x is how many minutes the spell has been active.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S400</B>: - <b>For</b> Any - <B>Research Name</B> Capacity</p>
-    <p><B>Requirement</B>: Research Projection (S215) & Incantation (S175)</p>
+    <p><B>Requirement</B>: Research Projection (S215) & Domination (W275)</p>
     <p><B>Cost</B>: 13.66 QaSxg (1.366E196) </p>
     <p><B>Effect</B>: Increase maximum mana based on the highest amount of spells cast in a single game.</p>
     <p><B>Formula</B>: floor(35 * x ^ 0.35), where x is your Spell Cast (Max) stat.</p>

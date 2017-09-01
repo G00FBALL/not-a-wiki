@@ -37,9 +37,9 @@
                 <p><b>Druid</b>: (2,1): Earthly Bond
                 <p><b>Tier 3 Upgrades</b>
                 <p><b>Dwarf</b> (3,1): Battlehammers
+                <p><b>Dwarf</b> (3,2): Magic Resistance
                 <p><b>Titan</b> (3,3): Titan Obelisk
                 <p><b>Druid</b> (3,3): Building Jungle
-                <p><b>Fairy</b> (3,3): Swarm of Fairies
                 <p><b>Harlequin Bonus</b>: 343/216%
                 <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
                 <p>Fairy Chanting on gold everything else on silver no Tax Collection.
@@ -186,8 +186,8 @@
                 <p><b>Template</b>: 1 Dc (1e33) to 100 Qid (1e50)
                 <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Grand Balance,SP:Fairy Chanting
-                <p><b>Template</b>: 100 Qid (1e50)+
-                <p>EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
+                <p><b>Template</b>: 100 Qid (1e50)+, Assistant Legion upgrade
+                <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
                 <p>SP:Fairy Chanting,SP:Grand Balance
                 <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold
                 <p><b>Range</b>: 1 Dc (1e33) to ?

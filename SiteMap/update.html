@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("form").submit(function (event) {
+            event.preventDefault();
+            var $form = $(this);
+            if (request) {
+                request.abort();
+            }
+            var data = $form.serialize();
+            $form.find("input").prop("disabled", true);
+            var request = $.ajax({
+                url: "update.php",
+                type: "post",
+                data: data
+            });
+            request.done(function (response) {
+                $("#response").text(response);
+            });
+        });
+    });
+</script>
+</head>
+<body>
+<form method="post">
+    <p>Password: <input type="text" name="pass"/><input type="submit" value="Update sitemap"/></p>
+</form>
+<div id="response">
+
+</div>
+</body>
+</html>

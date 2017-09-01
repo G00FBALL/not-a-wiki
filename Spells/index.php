@@ -116,7 +116,7 @@
             var minTier = 2;
             var maxTier = 6;
             var minReinc = 42;
-            var maxReinc = 42;
+            var maxReinc = 50;
             if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
                 minTier = parseInt(localStorage.getItem('mint'));
                 maxTier = parseInt(localStorage.getItem('maxt'));
@@ -340,21 +340,45 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Spiritual Surge Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Fairy, Elven, Angel, Goblin, Undead, Demon, Dwarven, Drow
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier2.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 2
-                <p><b>Cost</b> 66 Vg (6.6e64) - <b>FC</b> 10 T (1e13)
+                <p><b>Cost</b> 66 Uvg (6.6e67) - <b>FC</b> 10 T (1e13) each</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier3.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 3
-                <p><b>Cost</b> 5.949 Spvg (5.949e84) - <b>FC</b> 891.3 T (8.913e14)
+                <p><b>Cost</b> 5.949 Spvg (5.949e84) - <b>FC</b> 891.3 T (8.913e14) each</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier4.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 4
-                <p><b>Cost</b> 53.61 Utg (5.361e97) - <b>FC</b> 79.43 Qa (7.943e16)
+                <p><b>Cost</b> 53.61 Utg (5.361e97) - <b>FC</b> 79.43 Qa (7.943e16) each</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier5.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 5
-                <p><b>Cost</b> 48.33 Octg (4.833e118) - <b>FC</b> 7.079 Qi (7.079e18)
+                <p><b>Cost</b> 48.33 Octg (4.833e118) - <b>FC</b> 7.079 Qi (7.079e18) each</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiritualSurgeTier6.png" alt="Spiritual Surge" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 4.356 Qaqag (4.356e135) - <b>FC</b> 631 Qi (6.31e20)</p>
+                <p><b>Cost</b> 4.356 Qaqag (4.356e135) - <b>FC</b> 631 Qi (6.31e20) each</p>
             </div>
         </div>
     </div>
     </br>
     <h6>Alignment Spells</h6>
+    <p><b>Faction Spell</b>: Tax Collection
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Mercenary Good Alignment</b>
+    <p><b>Requirement</b>: Mercenary Camp
+    <p><b>Cost</b>: 1 Qaqag (1e135)
+    <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
+    <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)
+    <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)
+    <br/>
+    <br/>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Mercenary Evil Alignment</b>
+    <p><b>Requirement</b>: Tyrant Garrison
+    <p><b>Cost</b>: 1 Qaqag (1e135)
+    <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.
+    <p><b>Formula</b>: y ^ (1 + 0.2 * Log10(1 + x)), where y is TC original power and x is amount of TC casts
+    <p><b>Note</b>: Extra time from reap interests does apply to S50.
+    <p><b>Note</b>: S50 tax collections do increase reap interests.
+    <br/>
+    <br/>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png" alt="Freemason's Hall" align="middle"> <b>Mercenary Neutral Alignment</b>
+    <p><b>Requirement</b>: Freemason's Hall
+    <p><b>Cost</b>: 1 Qaqag (1e135)
+    <p><b>Effect</b>: Generates additional Faction Coins per cast
+    <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyLight.png" alt="Good" align="middle"> Holy Light</b> (Any Good Faction)</p>
     <p><b>Works For</b>: Good - <b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds </p>
     <p><b>Effect</b>: Increase clicking reward by 2500%</p>
@@ -362,6 +386,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Holy Light Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Fairy, Elven, Angel, Dwarf
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HolyLightTier2.png" alt="HolyLightTier2" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 1 B (1e9)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HolyLightTier3.png" alt="HolyLightTier3" align="middle"> <b>Tier</b>: 3
@@ -383,6 +408,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Blood Frenzy Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Goblin, Undead, Demon, Drow
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodfrenzyTier2.png" alt="Bloodfrenzytier" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 1 B (1e9)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodfrenzyTier3.png" alt="Bloodfrenzytier" align="middle"> <b>Tier</b>: 3
@@ -392,7 +418,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodfrenzyTier5.png" alt="Bloodfrenzytier" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 11.22 T (1.122e13)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodfrenzyTier6.png" alt="Bloodfrenzytier" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -405,6 +431,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Gem Grinder Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Fairy, Elven, Angel, Goblin, Undead, Demon, Dwarven, Drow
                 <p><img src="http://musicfamily.org/realm/Factions/picks/GemGrinderTier2.png" alt="Gem Grinder" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 60 Nod (6E61) - <b>FC</b> 5 B (5e9)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/GemGrinderTier3.png" alt="Gem Grinder" align="middle"> <b>Tier</b>: 3
@@ -431,6 +458,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Fairy Chanting Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Fairy
                 <p><b>Effect</b>: Increases the duration of the spell by 10 seconds per tier.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChantingTier2.png" alt="FairyChanting" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
@@ -441,7 +469,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChantingTier5.png" alt="FairyChanting" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 316.2 T (3.162e14)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChantingTier6.png" alt="FairyChanting" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -458,6 +486,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Moon Blessing Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Elven
                 <p><b>Effect</b>: Increase click reward by an additional 35.6% per tier.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessingTier2.png" alt="MoonBlessing" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
@@ -468,7 +497,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessingTier5.png" alt="MoonBlessing" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 316.2 T (3.162e14)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessingTier6.png" alt="MoonBlessing" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -478,13 +507,14 @@
     <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate.</p>
     <p><b>Spell Trophy & Upgrade: God's Rest</b>
     <p><b>Effect</b>: Gives random Faction Coins based on your mana regeneration for each other spell you cast while God's Hand is active.
-    <p><b>Formula</b>: floor(20 * x^0.5), x is mps.</p>
+    <p><b>Formula</b>: 50 * x, where x is mana regen per second.</p>
     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
     <p><b>Challenge Upgrade</b>: God's Throne, Mana regeneration is increased by 20% while God's Hand is active.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">God's Hand Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Angel
                 <p><img src="http://musicfamily.org/realm/Factions/picks/God'sHandTier2.png" alt="God's Hand" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/God'sHandTier3.png" alt="God's Hand" align="middle"> <b>Tier</b>: 3
@@ -494,7 +524,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/God'sHandTier5.png" alt="God's Hand" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 316 Qa (3.162e14)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/God'sHandTier6.png" alt="God's Hand" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -510,6 +540,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Diamond Pickaxe Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Dwarf
                 <p><b>Effect</b>: Increases FC find chance per tier.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxeTier2.png" alt="Diamond Pickaxe" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 63 Vg (6.3e64) - <b>FC</b> 1 T (1e12)
@@ -520,7 +551,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxeTier5.png" alt="Diamond Pickaxe" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 250.5 Sxtg (2.505e113) - <b>FC</b> 251.2 Qa (2.512e17)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxeTier6.png" alt="Diamond Pickaxe" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 3.969 Dqag (3.969e120) - <b>FC</b> 15.85 Qi (1585e19)
+                <p><b>Cost</b> 3.969 Dqag (3.969e120) - <b>FC</b> 15.85 Qi (1.585e19)
             </div>
         </div>
     </div>
@@ -531,7 +562,7 @@
     <p><b>FC Formula</b>: floor(ln^3(1 + x) + 20, where x is your current gems.</p>
     <p><b>Production Formula</b>: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.</p>
     <p><b>Spell Trophy & Upgrade: Greed Drive</b>
-    <p><b>Effect</b>: Goblin's Greed costs 150 less mana. Greed-Drive-spell-upgrade
+    <p><b>Effect</b>: Goblin's Greed costs 150 less mana.
     <p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell.
     <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
     <p><b>Challenge Upgrade</b>: Avarice Drive, Increase Goblin's Greed duration by 5 seconds.</p>
@@ -539,6 +570,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin's Greed Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Goblin
                 <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin'sGreedTier2.png" alt="Goblin's Greed" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin'sGreedTier3.png" alt="Goblin's Greed" align="middle"> <b>Tier</b>: 3
@@ -548,7 +580,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin'sGreedTier5.png" alt="Goblin's Greed" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 316.2 (1.162e14)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin'sGreedTier6.png" alt="Goblin's Greed" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -565,6 +597,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Night Time Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Undead
                 <p><img src="http://musicfamily.org/realm/Factions/picks/NightTimeTier2.png" alt="Night Time" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/NightTimeTier3.png" alt="Night Time" align="middle"> <b>Tier</b>: 3
@@ -574,7 +607,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/NightTimeTier5.png" alt="Night Time" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 316.2 T (3.162e14)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/NightTimeTier6.png" alt="Night Time" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -592,6 +625,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Hellfire Blast Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Demon
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier2.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier3.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 3
@@ -601,7 +635,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier5.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 316.2 T (3.162e14)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier6.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1.e16)
+                <p><b>Cost</b> 2.916 Sxtg (2.916e111) - <b>FC</b> 10 Qa (1e16)
             </div>
         </div>
     </div>
@@ -620,6 +654,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Combo Strike Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Drow
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrikeTier2.png" alt="Combo Strike" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 63 Vg (6.3e64) - <b>FC</b> 1 T (1e12)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrikeTier3.png" alt="Combo Strike" align="middle"> <b>Tier</b>: 3
@@ -629,7 +664,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrikeTier5.png" alt="Combo Strike" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 250.5 Sxtg (2.505e113) - <b>FC</b> 251.2 Qa (2.512e17)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrikeTier6.png" alt="Combo Strike" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 3.969 Dqag (3.969e120) - <b>FC</b> 15.85 Qi (1585e19)
+                <p><b>Cost</b> 3.969 Dqag (3.969e120) - <b>FC</b> 15.85 Qi (1.585e19)
             </div>
         </div>
     </div>
@@ -647,6 +682,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Lightning Strike Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Angel, Goblin
                 <p><b>Effect</b>: Iron Strongholds count for 50% more per tier for the spell bonus.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStrikeTier2.png" alt="Lightning Strike" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 57 Ocd (5.7e58) - <b>FC</b> 50 B (5e10)
@@ -674,6 +710,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Brainwave Tier 2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Fairy, Undead
                 <p><b>Effect</b>: Brainwave headstarts for an additional 10 minutes per tier.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BrainwaveTier2.png" alt="Brainwave" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 57 Ocd (5.7e58) - <b>FC</b> 50 B (5E10)
@@ -702,7 +739,8 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Grand Balance Tier 2-6</a></b></p>
             <div class="autohide">
-                <p><img src="http://musicfamily.org/realm/Factions/picks/GrandBalanceTier2.png" alt="Grand Balance" align="middle"> <b>Tier</b>: 2
+               <p><b>Faction Coins Needed</b> Elven, Demon
+               <p><img src="http://musicfamily.org/realm/Factions/picks/GrandBalanceTier2.png" alt="Grand Balance" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 57 Ocd (5.7e58) - <b>FC</b> 50 B (5E10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/GrandBalanceTier3.png" alt="Grand Balance" align="middle"> <b>Tier</b>: 3
                 <p><b>Cost</b> 27.85 Tvg (2.785e73) - <b>FC</b> 2.013 T (2.013e12)
@@ -717,7 +755,7 @@
     </div>
     </br>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragons Breath</b> (Dragon)</p>
-    <p><b>Works For</b>: Dragon - <b>Cost</b>: 2000 Mana - <b>Duration</b>: 30 seconds</p>
+    <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 30 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)
     <p><b>Name</b>: Dragon's Breath
     <p><b>Effect</b>: With the Spell Dragon's Roar upgrade produces Faction Coins based on this spell activity time.
@@ -741,6 +779,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragons Breath Tier2-6</a></b></p>
             <div class="autohide">
+                <p><b>Faction Coins Needed</b> Dwarf, Drow
                 <p><b>Effect</b>: Each tier gives another random effect per cast. Tier 5 will trigger all the effects simultaneously.
                 <p><b>Effect</b>: Each tier also increase offline production based on mana statistics
                 <p><b>Formula</b>:
@@ -754,7 +793,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreathTier5.png" alt="DragonsBreathTier5" align="middle"> <b>Tier</b>: 5
                 <p><b>Cost</b> 9.289 Qaq (9.289e123) - <b>FC</b> 5.623 Sx (5.623e21) Dwarven, Drow</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreathTier6.png" alt="DragonsBreathTier5" align="middle"> <b>Tier</b>: 6
-                <p><b>Cost</b> 4.751 Sxqag (4.761e141) - <b>FC</b> 1 Sp (1.e24) Dwarven, Drow</p>
+                <p><b>Cost</b> 4.751 Sxqag (4.761e141) - <b>FC</b> 1 Sp (1e24) Dwarven, Drow</p>
                 <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.
             </div>
         </div>

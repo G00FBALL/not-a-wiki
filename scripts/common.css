@@ -83,7 +83,7 @@ body {
 
 #parent {
     margin: 0;
-    overflow: auto;
+    overflow: hidden;
     width: 750px;
     background: #98AFC7;
 }

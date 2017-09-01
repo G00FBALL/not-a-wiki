@@ -120,7 +120,7 @@
 <p><B>Requirement</B>: Produce 5M mana(This game, as Druid)
 <p><B>Cost</B>: 33 OcQig (3.36E178)
 <p><B>Effect</B>: Increase mana regeneration based on mana produced in this game.
-<p><B>Formula</B>: floor(10 * (1.5 * ln(1 + x))) / 10, where x is your Mana Produced (This Game) stat.
+<p><B>Formula</B>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
 <br/>
 <br/>
 <p><b>A1325</b> - <b>For</b>  Any - <B>Research Name</B> Calefaction

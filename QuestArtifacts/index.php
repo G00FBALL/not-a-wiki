@@ -76,5 +76,5 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Obsidian Shard" align="middle"><b> Obsidian Shard</b></p>
 <p><b>Description</b>: Extremely hard and black as darkness itself, this material cannot apparently be carved or melted. It is a mystery how you can make this thing into a sword.
 <p><b>Unlocks</b>: Secrets of the Warriors</p>
-<p><b>Requirements</b>: 8000 Excavations any Faction, R75+</p>
+<p><b>Requirements</b>: 8000th Excavation as any Faction, R75+</p>
 <?php include "../scripts/footer.html"; ?>

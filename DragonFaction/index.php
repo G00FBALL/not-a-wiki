@@ -33,23 +33,23 @@
 <p><b>Requirement</b>: 1500+ Excavations (Chance 2%)</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png" alt="Smiley face" align="middle"><b> Hatch!</b></p>
 <p><b>Description</b>: After waiting for a while... hatch the spiky egg and reveal what's inside!
-<p><b>Requirement</b>: Spiky Rough Egg, 12 hours</p>
+<p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the lore artifact</p>
 <p><b>Cost</b>: 10Vg (1e64), (10m (1e7) each FC)</p>
 <p><b>Effect</b>: Hatches the Egg
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrakelingFactionUpgrade.png" alt="Smiley face" align="middle"><b> Drakeling</b></p>
 <p><b>Description</b>: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.
-<p><b>Requirement</b>: Hatch!, 12 hours, 12 hours of active Hellfire Blast (This one is weird! and not sure about the time for Hellfire Blast)</p>
+<p><b>Requirement</b>: Hatch!, 12 hours of active Hellfire Blast since purchasing the previous stage.</p>
 <p><b>Note</b>: Do not use Research A25 as it will mess up the timer even worse and could increase the time needed.
 <p><b>Cost</b>: 1.0e67, 100m (1e8) each FC</p>
 <p><b>Effect</b>: Grows Drakeling into Dragon.
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> Dragon</b></p>
 <p><b>Description</b>: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.
-<p><b>Requirement</b>: Drakeling, 12 hours, 3750 Fairy Assistants (12 hours since the upgrade became visible and 3750 assistants and being fairy when you buy it)
+<p><b>Requirement</b>: Drakeling, 12 hours since purchasing the previous stage, 3750 Fairy Assistants
 <p><b>Cost</b>: 1.0e70, 1b (1e9) FC</p>
 <p><b>Effect</b>: Grows Dragon into Elder Dragon</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> ElderDragon</b></p>
 <p><b>Description</b>: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.
-<p><b>Requirement</b>: Dragon, 12 hours, 50000 Max Mana
+<p><b>Requirement</b>: Dragon, 12 hours since purchasing the previous stage, 50000 Max Mana
 <p><b>Cost</b>: 1.0e73, 10b (1e10) of each FC
 <p><b>Effect</b>: Gives Dragon Tamer Trophy</p>
 <p><b>----------------------------------</b></p>

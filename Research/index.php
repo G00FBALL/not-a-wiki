@@ -86,11 +86,6 @@
 <p><b>Cost</b>: 10 SxSpg (1E232), 10m Drow Coins
 <p><b>Effect</b>: Provides 3 additional slots for Drow research: (+2 Warfare slots, +1 to the Evil faction's facility you are playing).
 <p><b>Note</b>: Needs purchased for each Prestige research run.
-<p><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheWarriors.png" alt="Secrets of the Warriors" align="middle"> <b>Secrets of the Warriors</b>
-<p><b>Requirement</b>: Obsidian Shard
-<p><b>Cost</b>: 100 Qiqag (1e140) and 10 Qa (1e16) of every Faction Coin
-<p><b>Effect</b>: Unlocks Researches for Mercenaries and increases their production by 100000%
-<p><b>Note</b>: Only needs purchased once.
 <p><b>----------------------------------</b></p>
 <h6>Research Requirements</h6>
 <h6>Vanilla Research</h6>
@@ -159,7 +154,7 @@
 <p><b>Requirement</b>: R16 + 1750 Necropolises</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Undeadr2.png" alt="Undercities" align="middle"> Undercities</b></p>
-<p>Upgrade Necropolises To Undercities, boosting their production bases on time spent in this game and unlocking more unique perks for the building.</p>
+<p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (10 * (2x)^0.75)%, where x is your Playtime (This Game) stat.</p>
 <p><b>Requirement</b>: Buy "Undercities Quest"</p>
 <p><b>Effect</b>: Grants access to the Research Facilities.
@@ -223,7 +218,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactr.png" alt="Earth Core Artifact" align="middle"> Earth Core Artifact</b></p>
 <p>Your Magesty, our miners report to have found an unstable substance, throbbing with magical power. The Dwarves and Drow are ready to share the Secrets of the Underworld!</p>
 <p><b>Requirement</b>:  R29 + 2750th Excavation</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldr.png" alt="Secrets of the Underworld" align="middle"> Secrets of the Underworld</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" alt="Secrets of the Underworld" align="middle"> Secrets of the Underworld</b></p>
 <p>Unlocks researches for Dwarven and Drow and provides a bonus for individual research branches.
 <p><b>Requirement</b>: Prestige Unique Building (Dwarf or Drow), Artifact-Earth Core</p>
 <p><b>Cost</b>: 100 QiSxg (1E200), 10M of each faction coin</p>

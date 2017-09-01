@@ -8,7 +8,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/EfficentMagicChallenges.png" alt="Efficient Magic" align="middle"> <b>Efficient Magic</b></p>
 <p>The blazing have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy lights. Hurry up, corruption is spreading fast.</p>
 <p><b>Requirements</b>: 2 Reincarnations, God's Rest spell upgrade
-<p><b>Challenge</b>: Cast 50 Holy Lights during daytime (6am-6pm) this is your local time) within 20 minutes of a new game.</p>
+<p><b>Challenge</b>: Cast 50 Holy Lights during daytime (6am-6pm local time) within 20 minutes of a new game.</p>
 <p><b>Effect</b>: Reduce all spell costs by 10% (calculated *after* Angel (2,3) Angelic Wisdom).</p>
 <p><b>Upgrade</b>: Good for Angel</p>
 <p><b>Tips</b>

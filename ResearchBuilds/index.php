@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <p><b>Builds Updated by Namelessname 09-07-2017</b>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.
-    <p>All of the builds up to R22 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
+    <p>All of the builds up to R24 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
     <p>Vanilla Flavor Juice is mandatory.
     <p>Focus on getting VFJ , Sunforce and other easy Lore artifacts with excavs (Up to R19: After getting the RPs with them)
     <p>After you unlock E290, make sure to do a last excav run with it prior to reincarnating</p>
@@ -226,8 +226,9 @@
                     <p>D55,D200,D225,D245,D320,
                     <p>E50,E135,E150,E320,E330,
                     <p>A30,A105,A120,A150,A330,
-                    <p>W150,W180,W290,W320,W330
+                    <p>W150,W180,W250,W290,W330
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
+                    <p><b>Note</b>: W320 is not included because you need to get to R26 R gems to be able to unlock it, if you somehow have it (Easter event, or something that was not implented when this note was written) use W320 instead of W250.
                     <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
                 </div>
             </div>

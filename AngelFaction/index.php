@@ -16,7 +16,7 @@
 <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate for 20 seconds.</p>
 <p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/God'sRestFactionUpgrade.png" alt="God's Rest" align="middle"> God's Rest</b> 
 <p><b>Effect</b>: Gives random Faction Coins based on your mana regeneration for each other spell you cast while God's Hand is active.
-<p><b>Formula</b>: floor(20 * x^0.5), x is mps.</p>
+<p><b>Formula</b>: 150 * x, where x is mana regen per second.</p>
 <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 1 Upgrades</b></p>
@@ -26,7 +26,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" alt="Smiley face" align="middle"> Holy Bells</b></p>
 <p><b>Cost</b>: 50 M (5E7)</p>
 <p><b>Effect</b>: Cathedrals also increase your mana regeneration rate.</p>
-<p><b>Formula</b>: ^x0.28, where x is the number of Cathedrals you own.</p>
+<p><b>Formula</b>: x^0.28, where x is the number of Cathedrals you own.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" alt="Angelic Determination" align="middle"> Angelic Determination</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>

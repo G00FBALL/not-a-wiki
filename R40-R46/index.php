@@ -9,6 +9,7 @@
     <br/>
     <p><b>All builds have been updated as of June, 3rd 2017.</b>
     <p>All builds come from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+    <p>A guide for post-Ascension progression can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/858173-guide-for-post-ascension-progressing-from-r40-to-r75"><b>here</b></a></p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan Production R40-R46 <font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -49,11 +50,11 @@
                 <p><b>Bloodline</b>: Druid
                 <p>S50,S105,S330,S400,S500,
                 <p>C250,C305,C330,C340,C400,
-                <p>D55,D200,D245,D250,D290,
-                <p>E1,E135,E145,E225,E250,E590,
-                <p>A120,A250,A270,A330,A400,
+                <p>D55,D200,D250,D290,D320
+                <p>E80,E135,E145,E225,E250,E590,
+                <p>A120,A250,A270,A400,A410
                 <p>W135,W180,W205,W250,W290,W400,W520
-                <p><b>Notes</b>: Do Not buy the Drow Trade Treaty before you are ready. Stay as Goblin to benefit from A400, allowing you to buy more goblin banks and increase S50. Do so until the next S50 level is too far away to get in a short amount of time (S50 increases at 11917, 12459, 13000, 13542, 14084, 14625 Goblin Banks).Once Drow, have only Combo Strike, Blood Frenzy and Tax Collection on autocast for maximum effiiency.</p>
+                <p><b>Notes</b>: Do Not buy the Drow Trade Treaty before you are ready. Stay as Goblin to benefit from A400, allowing you to buy more goblin banks and increase S50. Do so until the next S50 level is too far away to get in a short amount of time (S50 increases at 5015, 5416, 5958, 6500 Goblin Banks).Once Drow, have only Combo Strike, Blood Frenzy and Tax Collection on autocast for maximum effiiency.</p>
             </div>
         </div>
         <p><b>Note</b>: After getting to R46 get the Egg and work your way to <b>10 No (E31) gems</b> Hatching the Egg and doing the 12 hour Hellfire Blast stage.
@@ -69,9 +70,9 @@
                 <p>C80,C135,C150,C330,C340,C400,C460,
                 <p>D55,D200,D245,D290,D320,
                 <p>E50,E135,E145,E330,E410,
-                <p>A105,A120,A150,A250,A330,
+                <p>A105,A120,A150,A250,A400,
                 <p>W120,W150,W180,W320,W400
-                <p><b>Note</b>: Use this build after getting to <b>1e31 gems</b>
+                <p><b>Note</b>: Use this build after getting to <b>1e31 gems</b>. Swap A400 with A330 if A330 is bigger.
             </div>
         </div>
         <div class="shelementwhole">

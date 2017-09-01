@@ -36,7 +36,7 @@
 <p><b>Undead</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Necropolis</p>
-<p>Upgrade Necropolises To Undercities, boosting their production bases on time spent in this game and unlocking more unique perks for the building.
+<p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.
 <p><b>Formula:</b> (10 * (2x)^0.75)%, where x is your Playtime (This Game) stat.
 <p><b>Requirement</b>: Research, 1750 Necropolises
 <p><b>----------------------------------</p></b>
