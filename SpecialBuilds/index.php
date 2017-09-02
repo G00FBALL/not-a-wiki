@@ -409,7 +409,8 @@
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek</p>
                 <p><b>Note</b>: I (G00FBALL) used these builds at R78 with (e94) gems and it was quick and painless, lower gems maybe not so much.</p>
-                <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.</p>
+                <p><b>Note</b>: Tested at R75 less than 2 hours (1h50m) for secrets with just t6 dragless at 1.67e86 gems. 
+                    <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Mercenary Template</b></p>
