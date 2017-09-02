@@ -1749,6 +1749,11 @@
             <p><b>Unlock Requirements</b>: Have Druid's Grand Balance spell affect Hall of Legends.
             <p><b>Effect</b>: Increase Grand Balance duration to 24 seconds and lower its cost by 200.</p>
             <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="Dragon'sRoar" align="middle"> <b>Dragon'sRoar</b>
+            <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.
+            <p><b>Cost</b>: 1 Qad (1.0E45)
+            <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
+            <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b>
             <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment
             <p><b>Cost</b>: 1 Qaqag (1e135)
