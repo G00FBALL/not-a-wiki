@@ -143,7 +143,7 @@
                 <p>E135,E145,E260,E290,E460,E1225,
                 <p>A105,A120,A250,A305,A400,A1325,
                 <p>W180,W290,W350,W400,W1375
-                <p><b>Notes</b>: Used for gem pushing when doing DC2 run early in R54 (after getting A1325 in R53 and doing DC2 run at around E42 (1 Td) gems). Swap E1225 wih E1425 if unlocked.
+                <p><b>Notes</b>: Used for gem pushing after doing DC2 run early in R54 (after getting A1325 in R53 and doing DC2 run at around E42 (1 Td) gems). Swap E1225 wih E1425 if unlocked.
             </div>
         </div>
         <div class="shelementwhole">
