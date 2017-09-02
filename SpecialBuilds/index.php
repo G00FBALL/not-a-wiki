@@ -16,14 +16,14 @@
     <p><b>Mercenary phase</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+, R12+ (Know Your Enemy Part 1)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
                 <p><b>Template</b></p>
                 <p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
                 <p>SP:Fairy Chanting,SP:God's Hand</p>
-                <p><b>Note</b>: This build is for getting <b>Coin Pillage</b>,<b>Premeditation</b> and <b>Harlequin</b> at R3 and <b>KYE (Know Your Enemy Part 1)</b> at R12+</p>
+                <p><b>Note</b>: This build is for getting <b>Coin Pillage</b>,<b>Premeditation</b> and <b>Harlequin</b> at R3 and <b>KYE</b> at R12+</p>
                 <p><b>Coin Pillage</b>: After the build is set up put Tax Collection on Silver auto casting and done.</p>
                 <p><b>Spells</b>: God's Hand, Fairy Chanting</p>
                 <p><b>Tier 1 Upgrades</b></p>
