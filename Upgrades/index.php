@@ -289,25 +289,25 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveUpgrade.png" alt="Mana Wave" align="middle"> Mana Wave</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveUpgrade.png" alt="Mana Wave" align="middle"> Mana Wave (Post A only)</b></p>
             <p><b>Cost</b>: 80 Sp (8E25)
             <p><b>Unlock Requirements</b>: 20M (20E6) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverUpgrade.png" alt="Mana River" align="middle"> Mana River</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverUpgrade.png" alt="Mana River" align="middle"> Mana River (Post A only)</b></p>
             <p><b>Cost</b>: 90 Oc (9E28)
             <p><b>Unlock Requirements</b>: 1B (1E9) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeUpgrade.png" alt="Mana Lake" align="middle"> Mana Lake</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeUpgrade.png" alt="Mana Lake" align="middle"> Mana Lake (Post A only)</b></p>
             <p><b>Cost</b>: 100 No (1E32)
             <p><b>Unlock Requirements</b>: 20B (2E10) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Lake" align="middle"> Mana Sea</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Lake" align="middle"> Mana Sea (Post A only)</b></p>
             <p><b>Cost</b>: 12.5Uqag No (1.25e127)
             <p><b>Unlock Requirement</b>: 10 T (1E13) mana produced</p>
             <p><b>Alignment</b>: Any
