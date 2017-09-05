@@ -98,13 +98,13 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="EvilMerc" align="middle"> <b>Evil Alignment</b></p>
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
-<p><b>Formula</b>: 4 * log(1+x) ^4 where x is Offline Production Bonus
+<p><b>Formula</b>: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus
 <p><b>Requirement</b>: Mercerary, R75, 150K total buildings
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="NeutralMerc" align="middle"> <b>Neutral Alignment</b></p>
 <p>Upgraded from Alchemist Labs</p>
 <p>Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.
-<p><b>Formula</b>: y ^ (1 + 0.15 * Log(1 + x)) Y is TC original power and X is amount of TC casts.
+<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is max assistants you had in a single game (This R)
 <p><b>Requirement</b>: Mercerary, R75, 150K total buildings
 <?php include "../scripts/footer.html"; ?>
