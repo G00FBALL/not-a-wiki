@@ -45,7 +45,7 @@
 <p><b>Effect</b>: Increase the production of Evil buildings by 50%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png" alt="Assistant Squasher" align="middle"><b> Assistant Squasher</b></p>
-<p>(Click 100 times on the little assistant by the treasure chest.)</p>
+<p>Click 100 times on the little assistants on the game background.</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png" alt="Rewind" align="middle"><b> Rewind</b></p>
 <p>(Abdicate after producing at least 1 Oc (1E27) Coins.)</p>
