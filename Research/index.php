@@ -305,7 +305,7 @@
 <p><b>Cost</b>: 1 Tqag (1e125)
 <p><b>Effect 1</b>: Allows access to Research Facilities
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.
-<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is assistants you had in a single game (This R)
+<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is max assistants you had in a single game (This R)
 <p><b>Effect 3</b>: Unlocks Secret Exchange
 
 
