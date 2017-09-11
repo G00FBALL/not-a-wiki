@@ -32,7 +32,7 @@
         </div>
     </div>
     <br/>
-    <p><b>Mercenary Research Unlock</b></p>
+    <p><b>Mercenary Research Unlock (Secrets of the Warriors)</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (e88+?)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
