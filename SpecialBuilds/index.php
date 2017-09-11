@@ -405,7 +405,7 @@
     <p><b>Mercenary Research phase</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building Quest R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek</p>
                 <p><b>Note</b>: I (G00FBALL) used these builds at R78 with (e94) gems and it was quick and painless, lower gems maybe not so much.</p>
