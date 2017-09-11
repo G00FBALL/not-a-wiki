@@ -12,14 +12,14 @@
 <br/>
 <br/>
 <div class="shlisting">
-    <p><b>Mercenary Unique Building Unlock</b></p>
+    <p><b>Mercenary Unique Building Quest Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek
                 <p><b>Note</b>: Using Dragless: Get to e86+ gems, Excavate to 8000 for the Obsidian Shard.
-                 <p>Tested at R75 less than 2 hours (1h50m) for secrets with just t6 dragless at 1.67e86 gems.
+                 <p>Tested at R75 less than 2 hours (1h50m) for Mercenary Encampment Quest with just t6 dragless at 1.67e86 gems.
                     <br/>
                 <p><b>Mercenary Unique Building Unlock</b>
                 <p><b>Faction</b>: Neutral Mercenary
