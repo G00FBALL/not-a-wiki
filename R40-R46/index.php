@@ -54,7 +54,7 @@
                 <p>E80,E135,E145,E225,E250,E590,
                 <p>A120,A250,A270,A400,A410,
                 <p>W135,W180,W205,W250,W290,W400,W520
-                <p><b>Notes</b>: Do Not buy the Drow Trade Treaty before you are ready. Stay as Goblin to benefit from A400, allowing you to buy more goblin banks and increase S50. Do so until the next S50 level is too far away to get in a short amount of time (S50 increases at 5015, 5416, 5958, 6500 Goblin Banks).Once Drow, have only Combo Strike, Blood Frenzy and Tax Collection on autocast for maximum effiiency.</p>
+                <p><b>Notes</b>: Do Not buy the Drow Trade Treaty before you are ready. Stay as Goblin to benefit from A400, allowing you to buy more goblin banks and increase S50. Do so until the next S50 level is too far away to get in a short amount of time (S50 increases at 4875, 5417, 5959, 6500, 7042 Goblin Banks).Once Drow, have only Combo Strike, Blood Frenzy and Tax Collection on autocast for maximum effiiency.</p>
             </div>
         </div>
         <p><b>Note</b>: After getting to R46 get the Egg and work your way to <b>10 No (E31) gems</b> Hatching the Egg and doing the 12 hour Hellfire Blast stage.
