@@ -50,9 +50,9 @@
                 <p><b>Bloodline</b>: Druid
                 <p>S50,S105,S330,S400,S500,
                 <p>C250,C305,C330,C340,C400,
-                <p>D55,D200,D250,D290,D320
+                <p>D55,D200,D250,D290,D320,
                 <p>E80,E135,E145,E225,E250,E590,
-                <p>A120,A250,A270,A400,A410
+                <p>A120,A250,A270,A400,A410,
                 <p>W135,W180,W205,W250,W290,W400,W520
                 <p><b>Notes</b>: Do Not buy the Drow Trade Treaty before you are ready. Stay as Goblin to benefit from A400, allowing you to buy more goblin banks and increase S50. Do so until the next S50 level is too far away to get in a short amount of time (S50 increases at 5015, 5416, 5958, 6500 Goblin Banks).Once Drow, have only Combo Strike, Blood Frenzy and Tax Collection on autocast for maximum effiiency.</p>
             </div>
