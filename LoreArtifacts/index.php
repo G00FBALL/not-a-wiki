@@ -145,7 +145,9 @@
     <p><b>Description</b>: Its blade is unnaturally keen and sharp.</p>
     <p><b>Requirement</b>: Play as Drow +0 Treasure clicks (This includes automatic clicks)(This Game)</p>
     <p><b>Chance</b>: 2%</p>
-    <p><b>----------------------------------</b></p>
+    <p><b>Tip</b></p>
+        <p>Disable background clicks and Disable non-manual clicks.</p>
+        <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ArachnidFigurine.png" alt="Arachnid Figurine" align="middle"><b> Arachnid Figurine</b></p>
     <p><b>Description</b>: If you are afraid of spiders, Drow aren't your faction.</p>
     <p><b>Requirement</b>: Play as Drow +24h Evil Playtime (All-time)</p>
