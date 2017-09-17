@@ -628,6 +628,7 @@
             </div>
         </div>
     </div>
+    <br/>
     <p><b>Trophy Builds</b></p>
     <div class="category">    
         <div class="shelementwhole">
