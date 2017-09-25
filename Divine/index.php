@@ -76,7 +76,6 @@
     <p><B>Requirement</B>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)
     <p><B>Cost</B>: 6.94Qiqig (6.94E168)
     <p><B>Effect</B>: Reincarnations count twice for Spiritual Surge.
-    <p><B>Formula</B>: 100*(1.05^x)%, where x is the amount of times you reincarnated.
     <p><b>----------------------------------</b></p>
     <p><b>D250</b> - <b>For</b> Any - <B>Research Name</B> Demonology
     <p><B>Requirement</B>: Research Transcendence (D200) & Pyromancy (S150)
