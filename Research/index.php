@@ -18,7 +18,7 @@
 <p><b>----------------------------------</b></p>
 <p><b>The Research Facilities</b>
 <p><b>Short and long names</b>
-<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warefare, 
+<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare, 
 <p><img src="http://musicfamily.org/realm/Factions/picks/Spellcraftr.png" alt="Spellcraft" align="middle"> <b>Spellcraft</b></p>
 <p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.</p>
 <p><b>Effect</b>: Increases <b>Fairy</b>, <b>Faceless</b> and <b>Drow</b> production.</p>
@@ -305,7 +305,7 @@
 <p><b>Cost</b>: 1 Tqag (1e125)
 <p><b>Effect 1</b>: Allows access to Research Facilities
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.
-<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is assistants you had in a single game (This R)
+<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is max assistants you had in a single game (This R)
 <p><b>Effect 3</b>: Unlocks Secret Exchange
 
 

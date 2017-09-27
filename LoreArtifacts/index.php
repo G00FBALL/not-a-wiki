@@ -145,7 +145,9 @@
     <p><b>Description</b>: Its blade is unnaturally keen and sharp.</p>
     <p><b>Requirement</b>: Play as Drow +0 Treasure clicks (This includes automatic clicks)(This Game)</p>
     <p><b>Chance</b>: 2%</p>
-    <p><b>----------------------------------</b></p>
+    <p><b>Tip</b></p>
+        <p>Disable background clicks and Disable non-manual clicks.</p>
+        <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ArachnidFigurine.png" alt="Arachnid Figurine" align="middle"><b> Arachnid Figurine</b></p>
     <p><b>Description</b>: If you are afraid of spiders, Drow aren't your faction.</p>
     <p><b>Requirement</b>: Play as Drow +24h Evil Playtime (All-time)</p>
@@ -263,7 +265,7 @@
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-    <p><b>Chance</b>: Total Lineage levels/2000
+    <p><b>Chance</b>: (Total Lineage levels/20)%
     <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
     <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9

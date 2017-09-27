@@ -16,7 +16,7 @@
     <p><b>Mercenary phase</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+, R12+ (Know Your Enemy Part 1)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
@@ -405,11 +405,12 @@
     <p><b>Mercenary Research phase</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building Quest R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek</p>
                 <p><b>Note</b>: I (G00FBALL) used these builds at R78 with (e94) gems and it was quick and painless, lower gems maybe not so much.</p>
-                <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.</p>
+                <p><b>Note</b>: Tested at R75 less than 2 hours (1h50m) for secrets with just t6 dragless at 1.67e86 gems. 
+                    <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Mercenary Template</b></p>

@@ -289,25 +289,25 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveUpgrade.png" alt="Mana Wave" align="middle"> Mana Wave</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveUpgrade.png" alt="Mana Wave" align="middle"> Mana Wave (Post A only)</b></p>
             <p><b>Cost</b>: 80 Sp (8E25)
             <p><b>Unlock Requirements</b>: 20M (20E6) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverUpgrade.png" alt="Mana River" align="middle"> Mana River</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverUpgrade.png" alt="Mana River" align="middle"> Mana River (Post A only)</b></p>
             <p><b>Cost</b>: 90 Oc (9E28)
             <p><b>Unlock Requirements</b>: 1B (1E9) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeUpgrade.png" alt="Mana Lake" align="middle"> Mana Lake</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeUpgrade.png" alt="Mana Lake" align="middle"> Mana Lake (Post A only)</b></p>
             <p><b>Cost</b>: 100 No (1E32)
             <p><b>Unlock Requirements</b>: 20B (2E10) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Lake" align="middle"> Mana Sea</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Lake" align="middle"> Mana Sea (Post A only)</b></p>
             <p><b>Cost</b>: 12.5Uqag No (1.25e127)
             <p><b>Unlock Requirement</b>: 10 T (1E13) mana produced</p>
             <p><b>Alignment</b>: Any
@@ -1748,6 +1748,11 @@
             <p><b>Cost</b>: 10 Dd (1E40)
             <p><b>Unlock Requirements</b>: Have Druid's Grand Balance spell affect Hall of Legends.
             <p><b>Effect</b>: Increase Grand Balance duration to 24 seconds and lower its cost by 200.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="Dragon'sRoar" align="middle"> <b>Dragon'sRoar</b>
+            <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.
+            <p><b>Cost</b>: 1 Qad (1.0E45)
+            <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b>
             <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment

@@ -182,6 +182,25 @@
                 </div>
             </div>
         </div>
+        <br/>
+        <p><b>Special Builds</b></p>
+        <div class="category">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar)<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Lapare</p>
+                    <p><b>Faction</b>: Goblin</p>
+                    <p><b>Bloodline</b>: Titan</p>
+                    <p><b>Range</b>: 1e126 gems</p>
+                    <p>S50,S135,S200,S330,S500,</p>
+                    <p>C120,C135,C150,C330,C400,</p>
+                    <p>D55,D245,D290,D320,D400,</p>
+                    <p>E80,E150,E225,E290,E330,</p>
+                    <p>A10,A105,A120,A150,A330,</p>
+                    <p>W150,W205,W290,W320,W330</p>
+                 </div>
+            </div>
+        </div>    
         <br/> <br/> <br/>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">Obsolete or old(not updated)</font></a></b></p>
         <div class="category autohide">

@@ -386,7 +386,7 @@
     <p><b>In R0</b>: you'll want fairy to unlock Drow/Dwarf (if you want it as early as possible) and then dwarf/elf for max profit
     <p>Around 100 Qi (1E20) gems, try Fairy into Dwarf (Dwairies). Angel / Dwarf (Dwangels) also work well for those wishing to cast lots of spells fast and stack bonuses from them.
     <p><b>3-12 Reincarnations</b>:
-    <p>Play as the above, Once you have reached No (1E32) gems, you are ready to try the Mercenary Faction. See Merc Builds and Magmardooom's guide.
+    <p>Play as the above, Once you have reached No (1E32) gems, you are ready to try the Mercenary Faction. See Merc Builds and why_amihere's <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245-guide-for-r0-starting-realm-grinder?page=1#posts-9738076/"><b>guide</b></a>.
     <p><b>13-16 Reincarnations</b>:
     <p>Vg -Dvg Many Mercenary builds will start slowing down. Do not panic.
     <p>Lightning Forge will still be one of the fastest choice, but requires constant activity. Elven Farms and Diamond Forge will get you to Dvg a bit slower, but Diamond Forge can be almost entirely idled, which makes them better choices for a lot of players.

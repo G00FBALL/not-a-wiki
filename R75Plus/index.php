@@ -12,13 +12,14 @@
 <br/>
 <br/>
 <div class="shlisting">
-    <p><b>Mercenary Unique Building Unlock</b></p>
+    <p><b>Mercenary Unique Building Quest Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek
                 <p><b>Note</b>: Using Dragless: Get to e86+ gems, Excavate to 8000 for the Obsidian Shard.
+                 <p>Tested at R75 less than 2 hours (1h50m) for Mercenary Encampment Quest with just t6 dragless at 1.67e86 gems.
                     <br/>
                 <p><b>Mercenary Unique Building Unlock</b>
                 <p><b>Faction</b>: Neutral Mercenary
@@ -31,7 +32,7 @@
         </div>
     </div>
     <br/>
-    <p><b>Mercenary Research Unlock</b></p>
+    <p><b>Mercenary Research Unlock (Secrets of the Warriors)</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (e88+?)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -626,6 +627,34 @@
                 <p>Build is based on this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=17#posts-11422165"><b>forum</b></a> post</p>
             </div>
         </div>
+    </div>
+    <br/>
+    <p><b>Trophy Builds</b></p>
+    <div class="category">    
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Ocean R87+<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Note</b>: This is poorly optimized, but it's better than the previous build I posted. 11-12 days vs 20 days for the Neutral build.</p>
+                <p><b>Note</b>: Tested R92, Lineages 27, S400 = 800K. After 5 days buildup, 30 trillion offline mana per day (buildup simulated with editor.)</p>
+                <p><b>Requires</b>: High S400.</p>
+                <p><b>Author</b>: artcrow</p>
+                <p><b>Faction</b>: Good Mercenary</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><b>A2950</b>: Druid</p>
+                <p><b>Mercenary Templates</b></p>
+                <p>FR1,FR3,FR7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
+                <p>SP:Combo Strike,SP:God's Hand
+                <p><b>Mercenary 13th Upgrade</b> FR9
+                <p>S180,S305,S400,S500,S1275,S1500,
+                <p>C340,C590,C1300,C1325,C3000,C3100,
+                <p>D25,D175,D200,D250,D1275,D2775,
+                <p>E25,E50,E135,E590,E3250,E3300,
+                <p>A55,A120,A375,A1500,A2950,A3400,
+                <p>W175,W275,W400,W520,W3050,W3150
+                <p><b>Note</b>: Both Combo Strike and God's Hand can be dropped for spell tiering. D175 and W520 alternates: D3350 and W1400.
+                <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/823652-mana-ocean-build-request?page=1#posts-11384551"><b>forum</b></a> post</p>
+            </div>
+        </div>    
     </div>
 </div>
 <?php include "../scripts/footer.html"; ?>

@@ -82,7 +82,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Smiley face" align="middle"> Holy Crusaders (<u>For Good Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p>You gain additional Crusader Assistants based on the amount of spells cast in this game. Increase clicking reward by 1000% per active spell.</p>
-<p><b>Formula</b>: floor((sqrt(1 + 0.8*x)-1)/2), where x is your Spells Cast (This Game) stat.</p>
+<p><b>Formula</b>: floor(((1+ 0.8*x)^0.5 -1)/2), where x is your Spells Cast (This Game) stat.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Smiley face" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
