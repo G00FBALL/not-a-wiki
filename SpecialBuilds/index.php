@@ -286,7 +286,6 @@
                     <p>E135,E145,E460,E1225,E1425,</p>
                     <p>A120,A300,A305,A400,A1325,</p>
                     <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Also used for UL5 excavation unlock, which requires a few thousand excavations. If you dont have them, use Druid lineage 5 unlock. Takes 30 minutes max.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
