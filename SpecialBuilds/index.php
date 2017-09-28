@@ -319,7 +319,7 @@
                     <p>E135,E145,E250,E260,E460,E1425,</p>
                     <p>A120,A305,A375,A400,A1325,A1500,</p>
                     <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
+                    <p><b>Notes</b>: Takes an estimated time of 16-20 hours to complete.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
@@ -358,7 +358,7 @@
                     <p>E135,E145,E290,E1325,E1425,</p>
                     <p>A105,A120,A300,A305,A400,</p>
                     <p>W150,W180,W290,W400,W1375</p>
-                    <p><b>Notes</b>: Requires around 4k-1k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.</p>
+                    <p><b>Notes</b>: Requires around 1k-4k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
