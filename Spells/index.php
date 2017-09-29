@@ -357,7 +357,7 @@
     </br>
     <h6>Alignment Spells</h6>
     <p><b>Faction Spell</b>: Tax Collection
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Mercenary Good Alignment</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Mercenary Good Alignment</b>
     <p><b>Requirement</b>: Mercenary Camp
     <p><b>Cost</b>: 1 Qaqag (1e135)
     <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
@@ -365,7 +365,7 @@
     <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)
     <br/>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Mercenary Evil Alignment</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Mercenary Evil Alignment</b>
     <p><b>Requirement</b>: Tyrant Garrison
     <p><b>Cost</b>: 1 Qaqag (1e135)
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.
@@ -374,7 +374,7 @@
     <p><b>Note</b>: S50 tax collections do increase reap interests.
     <br/>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png" alt="Freemason's Hall" align="middle"> <b>Mercenary Neutral Alignment</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Mercenary Neutral Alignment</b>
     <p><b>Requirement</b>: Freemason's Hall
     <p><b>Cost</b>: 1 Qaqag (1e135)
     <p><b>Effect</b>: Generates additional Faction Coins per cast
