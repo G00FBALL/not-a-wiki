@@ -70,7 +70,7 @@
 <p><b>Formula</b>: floor(0.3 * x^0.5), where x is your Buildings Owned (This Game) stat.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" alt="Smiley face" align="middle"> Overgrowth</b></p>
 <p><b>Cost</b>: 500 Sp (5E26)</p>
-<p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R./s.</p>
+<p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
 <p><b>Formula</b>: 0.8*(x^0.8)%, where x is your Buildings Owned (Max) stat.</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 3 Upgrades</b></p>
