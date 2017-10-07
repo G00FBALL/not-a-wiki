@@ -129,7 +129,7 @@
                     <p><b>Note</b>: After buying Dwarven Horn use also S590,C135,C500</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
                     <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
-                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590</p>
                 </div>
             </div>
             <div class="shelementwhole">
