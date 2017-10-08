@@ -220,7 +220,7 @@
 <p>Reach 750 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.</p>
 <p><b>Cost</b>: Post Ascention 0 : Pre Ascention 3.8e201 coins
 <p><b>Effect</b>: Iron Strongholds count 5% more for all purposes
-<p><b>Can be done at R39</b>: (Titan/Goblin Bloodline)
+<p><b>Can be done at R35, maybe as eraly as R33</b>: (Titan/Goblin Bloodline)
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png" alt="ColorfulAutocasting" align="middle"> Colorful Autocasting</b></p>
 <p>Have each type of autocasting active simultaneously.(Silver,Gold,Bronze,Diamond)</p>
