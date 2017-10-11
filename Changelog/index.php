@@ -2,8 +2,137 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
-<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right cornor of the options window (In game).</p>
+<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the options window (In game).</p>
 <div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.0 October 10th, 2017</a></b></p>
+        <div class="autohide">
+                <p><strong>Ascension 2</strong> will become available at Reincarnation 99 or higher. Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase.</p>
+                <p><em>When performing Ascension 2, all Lineages will be set back to level 25 if higher.</em></p>
+                <p><strong>THREE NEW ALIGNMENTS</strong>: Order, Chaos and Balance. You will be able to purchase a combination of old and new alignments before selecting a faction. At first only one faction per combination will be available, but later on old and new factions will be unlocked to produce new gameplay strategies.</p>
+                <p><strong>NEW SPELLS</strong>: one new spell for each new alignment. They cannot be upgraded via spell tiers for now, but their bonus is unaffected by ascension penalties.</p>
+                <p><strong>FACTION UNIONS</strong>: the affiliation level after Alliance, unlocking more faction upgrades.</p>
+                <p><strong>NEW UNIQUE BUILDINGS</strong>: one new unique building for each available faction, in addition to existing ones.</p>
+                <p><strong>NEW ARTIFACTS</strong>: new artifacts for all ascension stages!</p>
+                <p><strong>NEW UPGRADES</strong>: new upgrades for all ascension stages!</p>
+                <p><strong>NEW TROPHIES</strong>: several A2-exclusive trophies have been added, and old trophy series have gained more elements. Warrior Researcher has finally been added to Ascension 1 content.</p>
+                <p><strong>NEW REINCARNATION POWERS</strong> at R85 and R100.</p>
+                <p><strong>NEW SPELL TIERS</strong>, up to tier 7, for <em>post-A2 only.</em></p>
+                <p><em><strong>Research</strong></em></p>
+                <p>Research Points cost scaling reduced for Ascension 1.</p>
+                <p>Research points are now capped at 5000.</p>
+                <p>Research slots after Ascension 2 will be capped at 1 per branch. Faction Researches will be unlocked after purchasing 1 Research in each branch, and they will not consume slots.</p>
+                <p><strong>S215</strong>: (Projection) moved out of Spiritual Surge formula.</p>
+                <p><strong>S270</strong>: (Runecarving) has been reworked: now increases the production of all buildings based on your production bonus from gems.</p>
+                <p><strong>S375</strong>: (Illusion) effect increased.</p>
+                <p><strong>S1500</strong>: (Psionics) effect and scaling increased.</p>
+                <p><strong>S2875</strong>: (Scholarship) effect increased.</p>
+                <p><strong>W350</strong>: (Survival) effect increased.</p>
+                <p><strong>C330</strong>: (Overload) has been reworked: now increases mana regeneration based on research made.</p>
+                <p><strong>C1300</strong>: (Scintillation) effect and scaling increased.</p>
+                <p><strong>C1325</strong>: (Plasmation) scaling increased.</p>
+                <p><strong>C3000</strong>: (Customizing) effect and scaling decreased.</p>
+                <p><strong>D1225</strong>: (Oblation) effect and scaling increased.</p>
+                <p><strong>D1275</strong>: (Solemnity) effect increased.</p>
+                <p><strong>D1375</strong>: (Sanctification) effect increased. Requirements increased.</p>
+                <p><strong>E1</strong>: (Coinage) effect increased.</p>
+                <p><strong>E260</strong>: (Sifting) effect and scaling increased.</p>
+                <p><strong>E260</strong>: (Sifting) effect increased.</p>
+                <p><strong>E320</strong> (Smuggling) has been reworked: now increases Faction Coin find chance based on the amount of Unique Buildings owned. Also gives a FC chance multiplier in line with similar upgrades.</p>
+                <p><strong>E1225</strong>: (Hoarding) effect increased.</p>
+                <p><strong>E1425</strong>: (Rarity) effect and scaling increased. Requirements reduced.</p>
+                <p><strong>A25</strong>: (Deflagration) effect increased.</p>
+                <p><strong>A250</strong>: (Philosoper's Stone) scaling increased.</p>
+                <p><strong>A300</strong>: (Creeping) effect and scaling increased.</p>
+                <p><strong>A1200</strong>: (Melting) effect increased.</p>
+                <p><strong>A1500</strong>: (Sublimation) effect and scaling increased.</p>
+                <p><strong>W175</strong>: (Overwhelm) scaling increased.</p>
+                <p><strong>W275</strong>: (Domination) effect and scaling decreased.</p>
+                <p><strong>W350</strong>: (Survival) effect and scaling increased.</p>
+                <p><strong>W1275</strong>: (Authority) effect and scaling increased.</p>
+                <p><strong>W1375</strong>: (Scavenging) FCC and multiplier bonus increased. Requirements increased.<br /><br /><strong>S50, S3200, D275, W205, God's Throne, Angelic Wisdom, Versatile Combo</strong>: now increase generic spells cast while offline multiplicatively in addition to their current effects.</p>
+                <p><strong><em>Bloodlines</em></strong></p>
+                <p><strong>Angel Bloodline</strong> reworked: now increases mana regeneration based on spells cast in this game.</p>
+                <p><strong>Elven Bloodline</strong>: now multiplies Faction Coin find chance based on clicks made in addition to its previous effects.</p>
+                <p><strong>Drow Bloodline</strong> reworked: now increases Faction Coin find chance based on time spent in this game.</p>
+                <p><strong>Versatile Combo</strong>: scaling reduced and is no longer linear.</p>
+                <p><strong><em>Perks</em></strong></p>
+                <p><strong>Angel Perk 1</strong> reworked: now makes Angel Bloodline count total spells cast.</p>
+                <p><strong>Demon Perk 2</strong> requirements now count total activity time</p>
+                <p><strong>Druid Perk 1</strong>: effect and scaling increased.</p>
+                <p><strong>Drow Perk 1</strong> reworked: now makes all time spent counts 100% more for all purposes while using Drow * Bloodline.</p>
+                <p><strong>Drow Perk 1</strong>: now removes Drow Bloodline penalty rather than reducing it.</p>
+                <p><strong><em>Challenges</em></strong></p>
+                <p><strong>Pixie Mischief</strong>: counts all Fairy upgrades instead of base only; scaling increased.</p>
+                <p><strong>Mana Crypts</strong>: effect increased.</p>
+                <p><strong>Angel Challenge</strong>: God's Throne increases mana regeneration by 50%, up from 20%.</p>
+                <p><strong>Elite Warriors</strong>: effect increased.</p>
+                <p><strong>Elven Luck</strong>: now generates 100 times your Faction Coin find chance rather than 200 Faction Coins.</p>
+                <p><strong>Elven Treasure Casing</strong>: effect reduced.</p>
+                <p><strong>Death Temples</strong> scaling increased.</p>
+                <p><strong>The Walking Dead</strong> effect increased.</p>
+                <p><strong>Plagued Buildings</strong> effect increased.</p>
+                <p><strong>Corpse Supply</strong>: effect and scaling increased.</p>
+                <p><strong>Natural Recycling</strong>: effect converted to an additive and multiplicative FC find chance bonus.</p>
+                <p><strong>Undercity</strong>: bonus effect increased.</p>
+                <p><strong>Deadly Impatience</strong>: effect increased.</p>
+                <p><strong>Hive Mind</strong>: effect increased.</p>
+                <p><strong>Dragon Tamer</strong>: effects doubled.</p>
+                <p><strong>Druid Challenge 3</strong>: effect increased.</p>
+                <p><strong>Dragon Challenge 1</strong>: production and FC chance effects increased, bonus to Titan upgrades increased.</p>
+                <p><strong>Dragon Challenge 2</strong>: effect increased. Now requires only 7 Grand Balance targets. Scaling increased.</p>
+                <p><strong>Dragon Challenge 3</strong>: now removes Deep Memory penalty and increases its effect. Faction Coin find chance scaling from Evolutive Mutation reduced. Requirements reduced.</p>
+                <p><strong>Dragon Challenge 4</strong>: scaling increased.</p>
+                <p><strong>Dragon Challenge 6</strong>: building and mana regeneration requirements reduced. Effect converted to multiplicative.</p>
+                <p>Fixed an issue with Dragon Challenge 1 being unintendedly active at all times.</p>
+                <p>Faceless Challenge 4 unlock requirements fixed for post-ascension.</p>
+                <p><em><strong>Spells</strong></em></p>
+                <p><strong>Lightning Strike</strong>: now has a 3-cast forecast in its tooltip.</p>
+                <p><strong>God's Rest</strong>: now gives Faction Coins based on Faction Coin find chance.</p>
+                <p><strong>Lightning Strike</strong>: tier bonus increased.</p>
+                <p><strong>Gem Grinder</strong>: tier bonus is now additive instead of multiplicative.</p>
+                <p><strong>Spiritual Surge</strong>: now has increased power on higher ascensions.</p>
+                <p><strong>Red Dragon's Breath</strong>: effect decreased.</p>
+                <p><strong>Black Dragon's Breath</strong>: effect reduced, scaling increased.</p>
+                <p><strong>Grand Balance</strong>: now requires more mana produced to increase the number of targets hits based on ascensions made, and its effect on subsequent ascensions is reduced. Fixed an unintended nerf to Grand Balance bonus.</p>
+                <p>Mabinogion, C300 (Weighting) and Druid Perk 3 have been moved out of Grand Balance spell formula, resulting in different production values. The outcome should be better in A0 and A1, worse in A2.</p>
+                <p><strong><em>Trophies</em></strong></p>
+                <p>Tiered Autocasting requirement is now Ascension 1 rather than Reincarnation 42.</p>
+                <p>Arcane Brilliance trophy series further reduces the time requirement for subsequent spell tiers.</p>
+                <p>Arcane Brilliance trophy series now shows which spells you are missing from completing each step.</p>
+                <p>Autoclicker trophy is now locked at R60+.</p>
+                <p><strong>Mana Sea/Ocean</strong>: requirements reduced.</p>
+                <p><strong><em>Miscellaneous</em></strong></p>
+                <p><strong>Stonehenge</strong>: upgrade effect increased.</p>
+                <p><strong>Goblin Bank</strong>: base production formula reworked. Overall bonus is lower at all game stages, but it scales * much worse on higher ascensions.</p>
+                <p><strong>Drow Lineage</strong> base effect is no longer affected by ascension penalties.</p>
+                <p>Mana produced per second while offline is now capped at max mana.</p>
+                <p><strong>Wall Fragment</strong>: effect increased.</p>
+                <p><strong>Mana Waste</strong>: effect and scaling increased.</p>
+                <p><strong>Exchange High Lord</strong>: effect increased.</p>
+                <p><strong>Master Researcher</strong>: effect increased.</p>
+                <p><strong>Dragon Heritage</strong>: effect and scaling increased.</p>
+                <p><strong>Holy Light</strong>: effect reduced.</p>
+                <p><strong>Blood Frenzy</strong>: effect increased.</p>
+                <p><strong>Thunderstorm</strong>: scaling increased.</p>
+                <p><strong>Secret Exchange</strong>: effect and scaling reduced.</p>
+                <p><strong>Reincarnation 41 Power</strong>: scaling increased.</p>
+                <p><strong>Reincarnation 45 Power</strong>: scaling increased.</p>
+                <p><strong>Demonic Figurine</strong>: requirement changed.</p>
+                <p><strong>Infernal Realm</strong>: effect increased.</p>
+                <p><strong>Sun Force</strong>: assistant bonus for Ascension 2 removed. FC Chance bonus changed to a multiplier.</p>           
+                <p>A lot of building count requirements have been reduced, including Dragon Challenge 1-4-6, Iron Rush and mercenary researches.</p>
+                <p>All Mercenary Unique Building bonuses scaling decreased.</p>
+                <p>Faction Bonus in the Royal Exchange panel replaced with Individual Bonus for Ascension 1 and higher.</p>
+                <p>Several requirements have been fixed not to calculate counting bonuses.</p>
+                <p>Z+Click is now used to set a spell to its maximum possible tier.</p>
+                <p>Mercenary Unique Buildings requirement reduced to 125000.</p>
+                <p>Assistant production in higher Ascensions reduced due to a bugfix in their formula.</p>
+                <p>Non-neutral building upgrade tiers 20, 21, 22 effect increased.</p>
+                <p>Faceless' Magical Treasure effect increased, scaling decreased.</p>
+                <p>Reincarnation and Gem requirement formulas have been adjusted for A2 balance.</p>
+        </div>
+    </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.5 August 8th, 2017</a></b></p>
         <div class="autohide">
