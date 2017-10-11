@@ -106,7 +106,7 @@
 <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
-    <p><b>Requirement</b>: R85+
+    <p><b>Requirement</b>: R90+
     <p><b>Chance</b>: 5%
     <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
 <br/>
