@@ -34,8 +34,8 @@
 <p><b>Mana River</b>: R40+
 <p><b>Mana Lake</b>: R40+
 <p><b>Added</b>: Mana Spring, R100+
-<p><b>Added</b>: Arcain 5
-<p><b>Added</b>: Arcain 6
+<p><b>Added</b>: Arcane 5
+<p><b>Added</b>: Arcane 6
 <p><b>Changed</b>: Mana Sea
 <p><b>Requirement</b>: 1e12, R40+
 <p><b>Changed</b>: Mana Ocean
