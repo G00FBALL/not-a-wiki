@@ -18,7 +18,7 @@
 <p><b>----------------------------------</b></p>
 <p><b>The Research Facilities</b>
 <p><b>Short and long names</b>
-<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warefare, 
+<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare, 
 <p><img src="http://musicfamily.org/realm/Factions/picks/Spellcraftr.png" alt="Spellcraft" align="middle"> <b>Spellcraft</b></p>
 <p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.</p>
 <p><b>Effect</b>: Increases <b>Fairy</b>, <b>Faceless</b> and <b>Drow</b> production.</p>
