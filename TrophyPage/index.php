@@ -317,7 +317,6 @@
     <area target="" research="Perfect Combo<p>Requirement: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.<p>Drow Spell" coords="260,492,318,550" shape="0">
     <area target="" research="Dragon's Roar<p>Requirement: Cast Dragon's Breath while having at least 4 other active spells.<p>Dragon Spell<p>Cost: 1.0e45<p>Effect: Dragon's Breath also produces Faction Coins at each cast based on its activity time." coords="324,493,382,550" shape="0">
 </map>
-<img src="http://musicfamily.org/realm/Factions/picks/BuildingTrophiesTopnew.png"">
 <img src="http://musicfamily.org/realm/Factions/picks/TotalBuildingTrophyMapnew.png" usemap="#TotalBuildingTrophyMapnew-map">
 <map name="TotalBuildingTrophyMapnew-map">
     <area target="" research="Village Grinder<p>Requirement: Build a total of 100 buildings in a single game." coords="4,7,60,62" shape="rect">
