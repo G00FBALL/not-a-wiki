@@ -6,8 +6,8 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
     <p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
     <p><b>Notice</b> Most of the Lore Artifact information comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/594695"> post</a> by daemonik92
-    <p>There are 43 Lore Artifacts.</p>
-    <p><b>Note</b>: <b><u>Lore Artifacts requires</u></b> the <img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b>Survey Equipment Upgrade</b></p>
+    <p>There are 44 Lore Artifacts.</p>
+    <p><b>Note</b>: <b>Getting <u>Lore Artifacts requires</u></b> the <img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b>Survey Equipment Upgrade</b></p>
     <p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RoughStone.png" alt="Artifact" align="middle"><b> Rough Stone</b></p>
     <p><b>Description</b>: A common, totally uninteresting stone.</p>
