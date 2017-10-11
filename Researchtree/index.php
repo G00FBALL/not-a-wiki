@@ -161,6 +161,8 @@
     </script>
 </div>
 <p><a href="http://musicfamily.org/realm/ResearchFacilities/"><b>Research Tree Mobile Text Version</b></a></p>
+    
+    <p><i> Note: As of 3.0.0 research points are capped at 5000.</i></p>
 
 
 <p><img src="http://musicfamily.org/realm/Factions/picks/Researchtreenew.png" usemap="#Researchtreenew-map">
