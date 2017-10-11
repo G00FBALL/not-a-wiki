@@ -6,7 +6,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
     <p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
     <p><b>Notice</b> Most of the Lore Artifact information comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/594695"> post</a> by daemonik92
-    <p>There are 40 Lore Artifacts.</p>
+    <p>There are 43 Lore Artifacts.</p>
     <p><b>Note</b>: <b><u>Lore Artifacts requires</u></b> the <img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b>Survey Equipment Upgrade</b></p>
     <p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RoughStone.png" alt="Artifact" align="middle"><b> Rough Stone</b></p>
@@ -93,7 +93,7 @@
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFigurine.png" alt="Artifacts" align="middle"><b> Demonic Figurine</b></p>
     <p><b>Description</b>: An intricate figurine representing the evil face of a lesser demon.</p>
-    <p><b>Requirement</b>: Play as Demon (Not Drow) +90% Trophies unlocked.</p>
+    <p><b>Requirement</b>: Play as Demon (Not Drow), 666 Trophies unlocked.</p>
     <p><b>Chance</b>: 1%</p>
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonHorn.png" alt="Artifacts" align="middle"><b> Demon Horn</b></p>
@@ -145,9 +145,7 @@
     <p><b>Description</b>: Its blade is unnaturally keen and sharp.</p>
     <p><b>Requirement</b>: Play as Drow +0 Treasure clicks (This includes automatic clicks)(This Game)</p>
     <p><b>Chance</b>: 2%</p>
-    <p><b>Tip</b></p>
-        <p>Disable background clicks and Disable non-manual clicks.</p>
-        <p><b>----------------------------------</b></p>
+    <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ArachnidFigurine.png" alt="Arachnid Figurine" align="middle"><b> Arachnid Figurine</b></p>
     <p><b>Description</b>: If you are afraid of spiders, Drow aren't your faction.</p>
     <p><b>Requirement</b>: Play as Drow +24h Evil Playtime (All-time)</p>
@@ -184,6 +182,14 @@
     <p><b>Cost</b>: 1 coin
     <p><b>Alignment</b>: Vanilla faction
     <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
+    <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.
+    <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
+    <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
+    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.
+    <p><b>Chance</b>: 10%"
+    <p><b>Note</b>: Does not work while offline.
+    <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy" align="middle"><b> Know Your Enemy, Part I</b></p>
     <p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
     <p><b>Rewards</b>: Awards an upgrade of the same name that increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)
@@ -204,7 +210,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragment.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
     <p><b>Rewards</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Formula</b>: 100* (x-1) ^2%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
+    <p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
     <p><b>Requirement</b>: At least 1 Ascension
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 M (1E6)
@@ -265,7 +271,7 @@
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-    <p><b>Chance</b>: (Total Lineage levels/20)%
+    <p><b>Chance</b>: Total Lineage levels/2000
     <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
     <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
@@ -279,4 +285,35 @@
     <p><b>Note</b>: Only available to Mercenaries
     <p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).
     <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigureineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
+    <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
+    <p><b>Requirement</b>: R90+
+    <p><b>Chance</b>: (1,000,000 seconds this R)%
+    <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
+    <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
+    <p><b>Requirements</b>: R100+
+    <p><b>Effect</b>: Increase the production of all buildings based on their tier.
+    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+    <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
+    <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
+    <p><b>Requirement</b>: R100+
+    <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
+    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+    <p><b>Chance:</b>: (log10(assistants)/100)%
+
+
+
+
+
+
+
+
+
+
+
         <?php include "../scripts/footer.html"; ?>

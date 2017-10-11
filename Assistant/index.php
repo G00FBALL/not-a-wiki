@@ -39,10 +39,16 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantKingdom.png" alt="Assistant Kingdom" align="middle"> Assistant Kingdom</b></p>
 <p><b>Requirement</b>: Have 10000 Assistants</p>
 <p>------------------------------</p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantContinent.png" alt="Assistant Nation" align="middle"> Assistant Continent</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantContinent.png" alt="Assistant Continent" align="middle"> Assistant Continent</b></p>
 <p><b>Requirement</b>: Have 25000 Assistants</p>
 <p>------------------------------</p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantWorld.png" alt="Assistant Nation" align="middle"> Assistant World</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantWorld.png" alt="Assistant World" align="middle"> Assistant World</b></p>
 <p><b>Requirement</b>: Have 50000 Assistants</p>
+<p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantGalaxy.png" alt="Assistant Galaxy" align="middle"> Assistant Galaxy</b></p>
+<p><b>Requirement</b>: Have 500,000 Assistants</p>
+<p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantUniverse.png" alt="Assistant Universe" align="middle"> Assistant Universe</b></p>
+<p><b>Requirement</b>: Have 5,000,000 (5E6) Assistants</p>
 <p>------------------------------</p>
 <?php include "../scripts/footer.html"; ?>

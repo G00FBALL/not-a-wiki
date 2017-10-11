@@ -16,28 +16,28 @@
 <p><b>Requirement</b>: Find 250 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1000FactionCoins.png" alt="1000 Faction Coins" align="middle"> 1000 Faction Coins</b></p>
-<p><b>Requirement</b>: Find 1000 Faction Coins</p>
+<p><b>Requirement</b>: Find 1,000 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/5000FactionCoins.png" alt="5000 Faction Coins" align="middle"> 5000 Faction Coins</b></p>
-<p><b>Requirement</b>: Find 5000 Faction Coins</p>
+<p><b>Requirement</b>: Find 5,000 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/10000FactionCoins.png" alt="10000 Faction Coins" align="middle"> 10000 Faction Coins</b></p>
-<p><b>Requirement</b>: Find 10'000 Faction Coins</p>
+<p><b>Requirement</b>: Find 10,000 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/50000FactionCoins.png" alt="50000 Faction Coins" align="middle"> 50000 Faction Coins</b></p>
-<p><b>Requirement</b>: Find 50'000 Faction Coins</p>
+<p><b>Requirement</b>: Find 50,000 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/100000FactionCoins.png" alt="100000 Faction Coins" align="middle"> 100000 Faction Coins</b></p>
-<p><b>Requirement</b>: Find 100'000 Faction Coins</p>
+<p><b>Requirement</b>: Find 100,000 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/500000FactionCoins.png" alt="500000 Faction Coins" align="middle"> 500000 Faction Coins</b></p>
-<p><b>Requirement</b>: Find 500'000 Faction Coins</p>
+<p><b>Requirement</b>: Find 500,000 Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1MillionFactionCoins.png" alt="1 Million Faction Coins" align="middle"> 1 Million Faction Coins</b></p>
 <p><b>Requirement</b>: Find 1 M (1E6 ) Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/100MillionFactionCoins.png" alt="100 Million Faction Coins" align="middle"> 100 Million Faction Coins</b></p>
-<p><b>Requirement</b>: Find 100M (1E8) Faction Coins</p>
+<p><b>Requirement</b>: Find 100 M (1E8) Faction Coins</p>
 <p>------------------------------</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1BillionFactionCoins.png" alt="1 Billion Faction Coins" align="middle"> 1 Billion Faction Coins</b></p>
 <p><b>Requirement</b>: Find 1 B (1E9) Faction Coins</p>
@@ -54,10 +54,19 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadrillionFactionCoins.png" alt="1 Quadrillion Faction Coins" align="middle"> 1 Quadrillion Faction Coins</b></p>
 <p><b>Requirement</b>: Find 1 Qa (1E15) Faction Coins</p>
 <p>------------------------------</p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuintrillionFactionCoins.png" alt="1 Quadrillion Faction Coins" align="middle"> 1 Quintrillion Faction Coins</b></p>
-<p><b>Requirement</b>: Find 1 Quintrillion (1E18) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuintrillionFactionCoins.png" alt="1 Quintrillion Faction Coins" align="middle"> 1 Quintrillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Qi (1E18) Faction Coins</p>
 <p>------------------------------</p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextrillionFactionCoins.png" alt="1 Quadrillion Faction Coins" align="middle"> 1 Sextrillion Faction Coins</b></p>
-<p><b>Requirement</b>: Find 1 Sextrillion (1E21) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextrillionFactionCoins.png" alt="1 Sextrillion Faction Coins" align="middle"> 1 Sextrillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Sx (1E21) Faction Coins</p>
 <p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1NonillionFactionCoins.png" alt="1 Nonillion Faction Coins" align="middle"> 1 Nonillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 No (1E30) Faction Coins</p>
+<p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TredecillionFactionCoins.png" alt="1 Tredecillion Faction Coins" align="middle"> 1 Tredecillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Td (1E42) Faction Coins</p>
+<p>------------------------------</p>
+
+
+
 <?php include "../scripts/footer.html"; ?>

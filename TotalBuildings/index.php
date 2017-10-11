@@ -42,7 +42,10 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Overgrinder.png" alt="Overgrinder" align="middle"><b> Overgrinder</b></p>
 <p><b>Requirement</b>: Build a total of 50,000 buildings</p>
 <p>------------------------------</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/TrusGrinder.png" alt="Overgrinder" align="middle"><b> True Grinder</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/TrusGrinder.png" alt="True Grinder" align="middle"><b> True Grinder</b></p>
 <p><b>Requirement</b>: Build a total of 125,000 buildings</p>
+<p>------------------------------</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MasterGrinder.png" alt="Master Grinder" align="middle"><b> Master Grinder</b></p>
+<p><b>Requirement</b>: Build a total of 200,000 buildings</p>
 <p>------------------------------</p>
 <?php include "../scripts/footer.html"; ?>

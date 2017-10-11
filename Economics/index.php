@@ -13,7 +13,7 @@
 <p><b>E1</b> - <b>For</b> Goblin - <B>Research Name</B> Coinage</p>
 <p><B>Cost</B>: 750 Qag (7.50E125)</P>
 <p><B>Effect</B>: Increase the production of Goblin Banks based on the amount of buildings you own.</p>
-<p><B>Formula</B>: round(0.5 * x^0.8)%, where x is your Buildings Owned (This Game) stat.</p>
+<p><B>Formula</B>: round(0.8*x^0.8))%, where x is your Buildings Owned (This Game) stat.</p>
 <p><b>----------------------------------</b></p>
 <p><b>E10</b> - <b>For</b> Undead - <B>Research Name</B> Recycling</p>
 <p><B>Requirement</B>: 2,000 Undercities
@@ -86,7 +86,8 @@
 <p><b>E260</b> - <b>For</b> Druid - <B>Research Name</B> Sifting
 <p><B>Requirement</B>: 3,000 Stonehenge Circles
 <p><B>Cost</B>: 3.039 SxQig (3.039E171)
-<p><B>Effect</B>: Increase the production of all other buildings by 80% per Stonehenge Circle you own.
+<p><B>Effect</B>: Increase the production of all other buildings based on the amount of Stone Pillars you own.
+<p><B>Formula</B>: (100*x), where x is Stone Pillars.
 <p><b>----------------------------------</b></p>
 <p><b>E275</b> - <b>For</b> Titan - <B>Research Name</B> Offering
 <p><B>Requirement</B>: 1,250 Royal Exchanges (as Titans)
@@ -171,7 +172,7 @@
 <p><B>Formula</B>: 1.5 * x^1.5, where x is artifacts found. (multiplicative)
 <p><b>----------------------------------</b></p>
 <p><b>E3250</b> - <b>For</b> Mercenary - <B>Research Name</B> Estates
-<p><B>Requirement</B>: 50000 Unique buildings, (Hoarding E1225) and (Combination A2950).
+<p><B>Requirement</B>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).
 <p><B>Cost</B>: 419.4 DSxg (4,194e191)
 <p><B>Effect</B>: Gives you all the Unique Buildings of your alignment.
 <p><b>----------------------------------</b></p>

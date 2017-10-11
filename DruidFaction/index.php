@@ -52,8 +52,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/hours.png" alt="Smiley face" align="middle"></b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" alt="Smiley face" align="middle"> Natural Recycling</b></p>
 <p><b>Cost</b>: 50 Sx (5E22)</p>
-<p><b>Effect</b>: Your least productive building tier produces additional faction coins per second based on its overall production.</p>
-<p><b>Formula</b>: floor(0.5*floor(log(1+x*30))), where x is the total production of the building with the lowest total production.</p>
+<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the least productive building you own..</p>
+<p><b>Formula</b>: (x^0.35,), where x is the amount of the building with the lowest production. (additively and multiplicatively)</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Druid Friendship Pact</b></p>
@@ -98,7 +98,7 @@
 <p><b>Requirement</b>: R22, 2000 Stone Pillars
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCircleFactionUpgrade.png" alt="Smiley face" align="middle"> Stonehenge Circles</b></p>
-<p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 25% per point of Maximum Mana and unlocking more unique perks for the building.</p>
+<p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Access to the Research Facilities(after completing Secrets of the Ancients).</p> 
 <p><b>Cost</b>: 10 Ttg (1E103)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>

@@ -36,25 +36,15 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png" alt="Mana Lake" align="middle"> Mana Lake</b></p>
 <p><b>Requirement</b>: 20 B (2E10) mana produced</p>
 <p><b>------------------------------</b></p>
-
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Lake" align="middle"> Mana Sea</b></p>
-<p><b>Requirement</b>: 10 T (1E13) mana produced</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Sea" align="middle"> Mana Sea</b></p>
+<p><b>Requirement</b>: 1 T (1E12) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Lake" align="middle"> Mana Ocean</b></p>
-<p><b>Requirement</b>: 200 T (2E14) mana produced</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Ocean" align="middle"> Mana Ocean</b></p>
+<p><b>Requirement</b>: 2 T (2E13) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png" alt="Mana Spring" align="middle"> Mana Spring</b></p>
+<p><b>Requirement</b>: 100 T (1E14) mana produced, R100+</p>
+<p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png" alt="Automatic Casting" align="middle"> Automatic Casting</b></p>
 <p><b>Requires</b>: 60,000 mana produced</p>
 <p><b>------------------------------</b></p>
@@ -77,21 +67,27 @@
 <p><b>Requirement</b>: 50M (5E7) mana produced</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> Tiered Autocasting</b></p>
-<p><b>Requirement</b>: 200M (2E8) mana produced (Total this R)</p>
+<p><b>Requirement</b>: 200M (2E8) mana produced (Total this R), R42+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png" alt="Arcane Brilliance 1" align="middle"> Arcane Brilliance 1</b></p>
-<p><b>Requirement</b>: Unlock Tier 2 for all spells</p>
+<p><b>Requirement</b>: Unlock Tier 2 for all spells, R42+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance2Trophy.png" alt="Arcane Brilliance 2" align="middle"> Arcane Brilliance 2</b></p>
-<p><b>Requirement</b>: Unlock Tier 3 for all spells</p>
+<p><b>Requirement</b>: Unlock Tier 3 for all spells, R42+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance3Trophy.png" alt="Arcane Brilliance 3" align="middle"> Arcane Brilliance 3</b></p>
-<p><b>Requirement</b>: Unlock Tier 4 for all spells</p>
+<p><b>Requirement</b>: Unlock Tier 4 for all spells, R42+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance4Trophy.png" alt="Arcane Brilliance 4" align="middle"> Arcane Brilliance 4</b></p>
-<p><b>Requirement</b>: Unlock Tier 5 for all spells</p>
+<p><b>Requirement</b>: Unlock Tier 5 for all spells, R42+</p>
 <p><b>------------------------------</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> Coin Pillage</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance5Trophy.png" alt="Arcane Brilliance 5" align="middle"> Arcane Brilliance 5</b></p>
+<p><b>Requirement</b>: Unlock Tier 6 for all spells, R42+</p>
+<p><b>------------------------------</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance6Trophy.png" alt="Arcane Brilliance 6" align="middle"> Arcane Brilliance 6</b></p>
+<p><b>Requirement</b>: Unlock Tier 7 for all spells, R100+</p>
+<p><b>------------------------------</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Coin Pillage" align="middle"> Coin Pillage</b></p>
 <p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>
 <p><b>------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightSecretTrophy.png" alt="True Night" align="middle"><b> True Night</b></p>

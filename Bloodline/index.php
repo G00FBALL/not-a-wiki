@@ -26,8 +26,8 @@
 <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelBloodline.png" alt="Angel" align="middle"><b> Angel</b></p>
-<p><b>Effect</b>: Increase the production of all buildings by a cumulative 1% per second while you have at least one active spell. The bonus falls off by 5% per second while you have no active spell.
-<p><b>Post A Effect</b>: Increase the production of all buildings by a cumulative 1% (^0.1) per second while you have at least one active spell. The bonus falls off by 5% per second while you have no active spell.
+<p><b>Effect</b>: Increase mana regeneration based on spells cast this game.
+<p><b>Formula</b>: (1.31 * x ^ 0.31), where x is spell casts (this game)
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinBloodline.png" alt="Goblin" align="middle"><b> Goblin</b></p>
 <p><b>Effect</b>: Reduce all building cost multipliers.
@@ -59,7 +59,8 @@
 <p><b>Formula</b>: 10 * x^0.8%, where x is your number of excavations purchased.
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowBloodline.png" alt="Drow" align="middle"><b> Drow</b></p>
-<p><b>Effect</b>: increases offline production by a cumulative 0.1% per second while you are offline by at least 1 minute. The value is preserved when you come back online, and persists through abdications.
+<p><b>Effect</b>: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.
+<p><b>Formula</b>: 1.6*x^0.6, where x is time spent in this game.
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonBloodline.png" alt="Dragon" align="middle"><b> Dragon</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.

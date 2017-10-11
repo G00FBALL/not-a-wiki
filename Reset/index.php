@@ -27,7 +27,7 @@
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Ascend.png" alt="Ascend" align="middle"></h6>
 <p>Ascension is a 3rd kind of soft reset. It was implemented to over come the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.
-<p>At the end of R39 the Reincarnation Button will say Ascension.
+<p>At the end of R39 and R99 the Reincarnation Button will say Ascension.
 <p>Ascending will reset all the progress a Reincarnation would reset. 
 <p><b><a target="" href="http://musicfamily.org/realm/Ascension/">More about Ascension</b></a></p>
 <?php include "../scripts/footer.html"; ?>

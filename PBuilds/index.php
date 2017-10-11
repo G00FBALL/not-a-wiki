@@ -129,7 +129,7 @@
                     <p><b>Note</b>: After buying Dwarven Horn use also S590,C135,C500</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
                     <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
-                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -147,7 +147,7 @@
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: For maximising excavations E330→E290</p>
                     <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
-                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -182,25 +182,6 @@
                 </div>
             </div>
         </div>
-        <br/>
-        <p><b>Special Builds</b></p>
-        <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar)<font color="DarkRed"> Evil</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Lapare</p>
-                    <p><b>Faction</b>: Goblin</p>
-                    <p><b>Bloodline</b>: Titan</p>
-                    <p><b>Range</b>: 1e126 gems</p>
-                    <p>S50,S135,S200,S330,S500,</p>
-                    <p>C120,C135,C150,C330,C400,</p>
-                    <p>D55,D245,D290,D320,D400,</p>
-                    <p>E80,E150,E225,E290,E330,</p>
-                    <p>A10,A105,A120,A150,A330,</p>
-                    <p>W150,W205,W290,W320,W330</p>
-                 </div>
-            </div>
-        </div>    
         <br/> <br/> <br/>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">Obsolete or old(not updated)</font></a></b></p>
         <div class="category autohide">

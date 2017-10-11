@@ -104,6 +104,25 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 700% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
+            <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
+            <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
+            <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
+            <p><b>Unlock Requirements</b>: R100+
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
+            <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
+            <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
+            <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
+            <p><b>Unlock Requirements</b>: R100+
+            <p><b>----------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
+            <p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>
+            <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
+            <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
         <div class="autohide">
@@ -134,6 +153,11 @@
             <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.
             <p><b>Level 10</b>
             <p><b>Effect</b>: x100 Elven Faction Coin find chance.
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b></p>
+            <p><b>Requirement</b>: Perform 40 autoclicks in 1 second, R60+
+            <p><b>Cost</b>: 100 Qaq (1e125)
+            <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only.
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Click Upgrades</a></b></p>
         <div class="autohide">
@@ -249,75 +273,81 @@
         <div class="autohide">
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaDropletUpgrade.png" alt="Mana Droplet" align="middle"> Mana Droplet</b></p>
             <p><b>Cost</b>: 10,000
-            <p><b>Unlock Requirements</b>: 200 Mana Produced (Total)
+            <p><b>Requirements</b>: 200 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRainUpgrade.png" alt="Mana Rain" align="middle"> Mana Rain</b></p>
             <p><b>Cost</b>: 20 M (2E7)
-            <p><b>Unlock Requirements</b>: 2,000 Mana Produced (Total)
+            <p><b>Requirements</b>: 2,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSurgeUpgrade.png" alt="Mana Surge" align="middle"> Mana Surge</b></p>
             <p><b>Cost</b>: 30 B (3E10)
-            <p><b>Unlock Requirements</b>: 5,000 Mana Produced (Total)
+            <p><b>Requirements</b>: 5,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaFountainUpgrade.png" alt="Mana Fountain" align="middle"> Mana Fountain</b></p>
             <p><b>Cost</b>: 40 T (4E13)
-            <p><b>Unlock Requirements</b>: 10,000 Mana Produced (Total)
+            <p><b>Requirements</b>: 10,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaShowerUpgrade.png" alt="Mana Shower" align="middle"> Mana Shower</b></p>
             <p><b>Cost</b>: 50 Qa (5E16)
-            <p><b>Unlock Requirements</b>: 20,000 Mana Produced (Total)
+            <p><b>Requirements</b>: 20,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaStreamUpgrade.png" alt="Mana Stream" align="middle"> Mana Stream</b></p>
             <p><b>Cost</b>: 60 Qi (6E19)
-            <p><b>Unlock Requirements</b>: 100,000 Mana Produced (Total)
+            <p><b>Requirements</b>: 100,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaFloodUpgrade.png" alt="Mana Flood" align="middle"> Mana Flood</b></p>
             <p><b>Cost</b>: 70 Sx (7E22)
-            <p><b>Unlock Requirements</b>: 200,000 Mana Produced (Total)
+            <p><b>Requirements</b>: 200,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +0.50.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveUpgrade.png" alt="Mana Wave" align="middle"> Mana Wave (Post A only)</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveUpgrade.png" alt="Mana Wave" align="middle"> Mana Wave</b></p>
             <p><b>Cost</b>: 80 Sp (8E25)
-            <p><b>Unlock Requirements</b>: 20M (20E6) Mana Produced (Total)
+            <p><b>Requirements</b>: 20M (20E6) Mana Produced (Total), R40+
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverUpgrade.png" alt="Mana River" align="middle"> Mana River (Post A only)</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverUpgrade.png" alt="Mana River" align="middle"> Mana River</b></p>
             <p><b>Cost</b>: 90 Oc (9E28)
-            <p><b>Unlock Requirements</b>: 1B (1E9) Mana Produced (Total)
+            <p><b>Requirements</b>: 1B (1E9) Mana Produced (Total), R40+
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeUpgrade.png" alt="Mana Lake" align="middle"> Mana Lake (Post A only)</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeUpgrade.png" alt="Mana Lake" align="middle"> Mana Lake</b></p>
             <p><b>Cost</b>: 100 No (1E32)
-            <p><b>Unlock Requirements</b>: 20B (2E10) Mana Produced (Total)
+            <p><b>Requirements</b>: 20 B (2E10) Mana Produced (Total), R40+
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Lake" align="middle"> Mana Sea (Post A only)</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Sea" align="middle"> Mana Sea</b></p>
             <p><b>Cost</b>: 12.5Uqag No (1.25e127)
-            <p><b>Unlock Requirement</b>: 10 T (1E13) mana produced</p>
+            <p><b>Requirement</b>: 1 T (1E12) mana produced, R40+</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana regeneration by +5.00.
             <p><b>------------------------------</b></p>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Lake" align="middle"> Mana Ocean (Post A only)</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Ocean" align="middle"> Mana Ocean</b></p>
             <p><b>Cost</b>: 150 Noqag (1.5e152)
-            <p><b>Unlock Requirement</b>: 200 T (2E14) mana produced</p>
+            <p><b>Requirement</b>: 2 T (2E12) mana produced, R40+</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana regeneration by +5.00.
+            <p><b>------------------------------</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png" alt="Mana Spring" align="middle"> Mana Spring</b></p>
+            <p><b>Cost</b>: Free
+            <p><b>Requirement</b>: 100 T (1E14) mana produced, R40+</p>
+            <p><b>Alignment</b>: Any
+            <p><b>Effect</b>: Increase Mana regeneration by +10.00.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/AutomaticCastingUpgrade.png" alt="Automatic Casting" align="middle"> Automatic Casting</b></p>
             <p><b>Cost</b>: 100 B (1E11)
@@ -381,14 +411,14 @@
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Research Building Upgrades</a></b></p>
         <div class="autohide">
-            <p><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldsResearchBuildingUpgrades.png" alt="Smiley face" align="middle"><b> Enchanted Fields</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldsResearchBuildingUpgrades.png" alt="Enchanted Fields" align="middle"><b> Enchanted Fields</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
             <p><b>Unlock Requirements</b>: 2250 Farms + R16
             <p><b>Alignment</b>: Fairy
             <p><b>Effect</b>: Upgrade Farms to Enchanted Fields, boosting their production by 750% per assistant you own and unlocking more unique perks for the building.
             <p><b>Effect</b>: Also allows access to the Research Facilities.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsResearchBuildingUpgrades.png" alt="Smiley face" align="middle"><b> Elven Training Grounds</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsResearchBuildingUpgrades.png" alt="Elven Training Grounds" align="middle"><b> Elven Training Grounds</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
             <p><b>Unlock Requirements</b>: 1750 Barracks + R16
             <p><b>Alignment</b>: Elf
@@ -403,14 +433,13 @@
             <p><b>Effect</b>: Upgrade Heaven's Gates to Heaven's Domains, boosting their production by x250 per spell affecting them and unlocking more unique perks for the building.
             <p><b>Effect</b>: Also allows access to the Research Facilities.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinBanksResearchBuildingUpgrades.png" alt="Goblin Banks" align="middle"><b> Goblin Banks</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinBanksResearchBuildingUpgrades.png" align="middle"><b> Goblin Banks</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
             <p><b>Unlock Requirements</b>: 1750 Witch Conclaves + R16
             <p><b>Alignment</b>: Goblin
             <p><b>Effect</b>: Upgrade Witch Conclaves to Goblin Banks, boosting their base production based on the amount of gold you own and unlocking more unique perks for the building.
             <p><b>Effect</b>: Also allows access to the Research Facilities.
-            <p><b>Formula</b>: 650 + 10000 * log^1.5(1 + x), where x is your current amount of Coins.
-            <p><b>Formula</b>: 650 + 10000 * log^1.5/^(A + 1)(1 + x), where x is your current amount of Coins and A is your Ascension count.
+            <p><b>Formula</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/UndercitiesResearchBuildingUpgrades.png" alt="Smiley face" align="middle"><b> Undercities</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
@@ -438,9 +467,8 @@
             <p><b>Cost</b>: 10 Ttg (1E103)
             <p><b>Unlock Requirements</b>: 2000 Stone Pillars + R22
             <p><b>Alignment</b>: Druid
-            <p><b>Effect</b>: Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 25% per point of Maximum Mana and unlocking more unique perks for the building.
+            <p><b>Effect</b>: Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.
             <p><b>Effect</b>: Also allows access to the Research Facilities.
-            <p><b>Note</b>: The listed bonus is not a multiple of 25; this discrepancy appears to be due to maximum mana being represented as a floating point number, not an integer as it is displayed.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunkenCitiesResearchBuildingUpgrades.png" alt="Sunken Cities" align="middle"><b> Sunken Cities</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
@@ -467,7 +495,7 @@
             <p><b>Unlock Requirements</b>: Wyrm's Den Quest
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
-            <p><b>Formula</b>: ({0.05 * (ln^3.5(1 + x))}%)
+            <p><b>Formula</b>: (0.065*(ln(1+x/2+y))^3.65) %)
             <p><b>----------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryCamp.png" alt="Mercenary Camp" align="middle"> <b>Mercenary Camp</b>
             <p><b>Requirement</b>: Mercenary Encampment Quest, Good Alignment
@@ -482,7 +510,7 @@
             <p><b>Cost</b>: 1 Tqag (1e129)
             <p><b>Effect 1</b>: Allows access to Research Facilities
             <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
-            <p><b>Formula</b>: 4 * log(1+x) ^4 where x is Offline Production Bonus
+            <p><b>Formula</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus.
             <p><b>Effect 3</b>: Unlocks Dark Covenant
             <p><b>----------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b>
@@ -490,7 +518,7 @@
             <p><b>Cost</b>: 1 Tqag (1e129)
             <p><b>Effect 1</b>: Allows access to Research Facilities
             <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.
-            <p><b>Formula</b>: 2.5 * x ^ 2.5 where x is assistants you had in a single game (This R)
+            <p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R). 
             <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
         </div>
         <p onclick="shohid($(this)); return false;"><b> <a href="#">Gem Upgrades</a></b></p>
@@ -1063,6 +1091,33 @@
             <p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).
             <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
             <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigureineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
+            <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
+            <p><b>Requirement</b>: R90+
+            <p><b>Chance</b>: 5%
+            <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
+            <p><b>----------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
+            <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
+            <p><b>Requirements</b>: R100+
+            <p><b>Effect</b>: Increase the production of all buildings based on their tier.
+            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+            <p><b>----------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
+            <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
+            <p><b>Requirement</b>: R100+
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
+            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>----------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
+            <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.
+            <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
+            <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
+            <p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.
+            <p><b>Chance</b>: 10%"
+            <p><b>Note</b>: Does not work while offline.
+            <p><b>----------------------------------</b></p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Faction Quest Upgrades</a></b></p>
         <div class="autohide">
@@ -1112,6 +1167,50 @@
             <p><b>Note</b>: Only needs bought once.
             <p><b>Unlocks</b>: Mercenary Unique Buildings
             <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 200K Mana Regeneration, R100+, Good Alignment, Proof of Order</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 45000 offline bonus, R100+, Evil Alignment, Proof of Order</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 3750 royal exchanges</p>
+            <p><b>Effect</b>: Grants access to Unique Building, R100+, Neutral Alignment, Proof of Order</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 200K Assistants, R100+, Good Alignment, Proof of Chaos</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 180 seconds long Call to Arms, R100+, Evil Alignment, Proof of Chaos</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 5000 Excavations</p>
+            <p><b>Effect</b>: Grants access to Unique Building, R100+, Neutral Alignment, Proof of Chaos</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 1e23K Elf Faction Coins found, R100+, Good Alignment, Proof of Balance</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Slave Market Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 30K Neutral buildings, R100+, Evil Alignment, Proof of Balance</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Requirement</b>: 12K Stonehenges, R100+, Neutral Alignment, Proof of Balance</p>
+            <p><b>Effect</b>: Grants access to Unique Building.</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Assistant Upgrades</a></b></p>
         <div class="autohide">
@@ -1216,7 +1315,7 @@
             <p><b>Alignment</b>: Mercenaries
             <p><b>Effect</b>: Increases the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartIArtifact.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
             <p><b>Cost</b>: 100 Vg (1E65)
             <p><b>Unlock Requirements</b>: Play as Mercenaries, have upgrades from each 11 factions. +R12 Excavate Chance: 10%
             <p><b>Alignment</b>: Any
@@ -1538,6 +1637,12 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the overall production of Prestige Factions by 100%.</p>
             <p><b>------------------------------</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" alt="Because I Like to Grind" align="middle"> Triple Weirdness</b></p>
+            <p>(Have exactly 333 of each Royal Exchange and be R40+)
+            <p><b>Cost</b>: Free
+            <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
+            <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)" coords="6,492,62,548" shape="rect">
+            <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretUpgrade.png" alt="Underworld Researcher" align="middle"> Underworld Researcher</b></p>
             <p><b>Cost</b>: 1 NoSxg (1E210)
             <p><b>Unlock Requirements</b>: Discover all the Underworld researches.
@@ -1559,7 +1664,7 @@
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretUpgrade.png" alt="Iron Rush" align="middle"> Iron Rush</b></p>
             <p><b>Cost</b>: 3 SxSxg (3.8E201)
-            <p><b>Unlock Requirements</b>: Reach 750 Iron Strongholds in 5 minutes without using Gem Power nor Reincarnation Power.
+            <p><b>Unlock Requirements</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power. 
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Iron strongholds count as 5% more for all purposes.</p>
             <p><b>------------------------------</b></p>
@@ -1586,7 +1691,7 @@
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png" alt="AdvisorInsight" align="middle"> Dragon Tamer</b></p>
             <p><b>Requirement</b>: Fully develop your Spiky Egg into an Elder Dragon, R46+</p>
             <p><b>Cost</b>: 1.0e65
-            <p><b>Effect</b>: Increase the production of all buildings by 100% and doubles Faction Coin find chance.
+            <p><b>Effect</b>: Increase the production of all buildings by 200% and doubles Faction Coin find chance.
             <p><b>----------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png" alt="Eternal Researcher" align="middle"> Eternal Researcher</b></p>
             <p><b>Requirement</b>: Discover all the Dragon researches, R55+
@@ -1605,12 +1710,12 @@
             <p><b>Cost Pre Ascension</b>: 1 Td (1e42)
             <p><b>Cost Post Ascension</b>: Free
             <p><b>Effect</b>: Increase maximum mana based on spells cast in this game.
-            <p><b>Formula</b>: 126 * log(1 + x) ^ 2.6, where x is spells cast.
+            <p><b>Formula</b>: (127*(log10(1+x))^2.7), where x is spells cast.
             <p><b>----------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretUpgrade.png" alt="Master Researcher" align="middle"> Master Researcher</b></p>
             <p><b>Requirement</b>: Research 10000 times across all fields.</p>
             <p><b>Cost Post Ascension</b>: 1 Qavg (1e75)
-            <p><b>Effect</b>: Increase the overall production of Dragons by 7.18%.
+            <p><b>Effect</b>: Increase the overall production of Dragons by 9.6%.
             <p><b>----------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png" alt="Prestige Challenger" align="middle"> Prestige Challenger</b></p>
             <p><b>Requirement</b>: Complete all the Prestige Challenges, R63+</p>
@@ -1631,10 +1736,10 @@
             <p><b>Note</b>: All times are based on server time (<a target="_blank" href="http://time.unitarium.com/utc/"><b><font color="red">UTC Time</font></b></a>)
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-            <p><b>Formula</b>: floor(0.01 * (Ascension + 1) * ln(1 + Gems)^(1.5 + 0.5 * Ascension).
+            <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
             <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.
-            <p><b>Formula</b>: floor(25 * (A + 1) * x0.5 + (0.05 * A)), where x is your assistants stat.
+            <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat., where x is your assistants stat.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
             <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
@@ -1658,7 +1763,7 @@
             <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b></p>
-            <p><b>Requirements</b>: Perform 40 autoclicks in 1 second
+            <p><b>Requirements</b>: Perform 40 autoclicks in 1 second, R60+
             <p><b>Cost Pre Ascension</b>: Free
             <p><b>Cost Post Ascension</b>: 100 Qaq (1e125)
             <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only
@@ -1674,6 +1779,12 @@
             <p><b>Cost</b>: 10 SpQig (1e175)
             <p><b>Effect</b>: Increas the overall production of Mercenaries by 100%.
             <p><b>----------------------------------</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"><b> Warrior Researcher</b></p>
+            <p><b>Requirements</b>: Discover all the Mercenary researches.
+            <p><b>Cost</b>: 1 DSpg (1e219)
+            <p><b>Effect</b>: Increase the production of all buildings based on research done.
+            <p><b>Formula</b>: 0.3*x^0.7, where x is total of research done.
+            <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b></p>
             <p><b>Requirements</b>: 5000 Royal Exchanges
             <p><b>Cost</b>: 10 DQig (1e160)
@@ -1684,6 +1795,24 @@
             <p><b>Cost</b>: 1 NoQig (1e180)
             <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.
             <p><b>Formula</b>: 2.5 * x^1.25
+            <p><b>----------------------------------</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
+            <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
+            <p><b>Requirements</b>: R100+
+            <p><b>Effect</b>: Increase the production of all buildings based on their tier.
+            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>----------------------------------</b>
+            <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
+            <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
+            <p><b>Requirement</b>: R100+
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
+            <p><b>Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>----------------------------------</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" alt="Excavated Mirage" align="middle"><b> Chocolate Flavor Juice</b></p>
+            <p><b>Requirement</b>: R22+, Neutral Faction, Ancient Cocoa Bean
+            <p><b>Effect</b>: ncrease the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.
+            <p><b>Upgrade Cost</b>: Free
             <p><b>------------------------------</b></p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spell Upgrades</a></b></p>
@@ -1748,11 +1877,6 @@
             <p><b>Cost</b>: 10 Dd (1E40)
             <p><b>Unlock Requirements</b>: Have Druid's Grand Balance spell affect Hall of Legends.
             <p><b>Effect</b>: Increase Grand Balance duration to 24 seconds and lower its cost by 200.</p>
-            <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="Dragon'sRoar" align="middle"> <b>Dragon'sRoar</b>
-            <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.
-            <p><b>Cost</b>: 1 Qad (1.0E45)
-            <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b>
             <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment

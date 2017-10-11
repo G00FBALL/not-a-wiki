@@ -173,7 +173,7 @@
 <p><B>Requirement</B>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325,
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase Max Mana based on the amount of Unique Buildings you own.
-<p><B>Formula</B>: 7.5* x^0.75, where x is unique buildings owned
+<p><B>Formula</B>: 8*x^0.8, where x is Unique Buildings owned.
 <p><b>----------------------------------</b></p>
 <p><b>A2950</b> - <b>For</b>  Mercenary - <B>Research Name</B> Combination
 <p><B>Requirement</B>: All Lineages Level at 15.

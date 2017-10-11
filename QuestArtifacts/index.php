@@ -48,6 +48,7 @@
 <p><b>Chance</b>: 0.2% per excavation (multi-buy or not)
 <p><b>Cost</b>: 100 QiSxg (1E200)
 <p><b>Alignment</b>: Neutral
+<p><b>Note</b>: Has no effect R100+/A2
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EarthCore.png" alt="Earth Core" align="middle"><b> Earth Core</b></p>
 <p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious enery sources.</p>
@@ -76,5 +77,5 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Obsidian Shard" align="middle"><b> Obsidian Shard</b></p>
 <p><b>Description</b>: Extremely hard and black as darkness itself, this material cannot apparently be carved or melted. It is a mystery how you can make this thing into a sword.
 <p><b>Unlocks</b>: Secrets of the Warriors</p>
-<p><b>Requirements</b>: 8000th Excavation as any Faction, R75+</p>
+<p><b>Requirements</b>: 8000 Excavations any Faction, R75+</p>
 <?php include "../scripts/footer.html"; ?>

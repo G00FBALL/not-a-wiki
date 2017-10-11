@@ -135,8 +135,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" alt="Natural Recycling" align="middle"> Natural Recycling</b></p>
                 <p><b>Mercenary Template</b>: DD3
                 <p><b>Cost</b>: 50 Sx (5E22)</p>
-                <p><b>Effect</b>: Your least productive building tier produces additional faction coins per second based on its overall production.</p>
-                <p><b>Formula</b>: floor(0.5*floor(log(1+x*30))), where x is the total production of the building with the lowest total production.</p>
+                <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the least productive building you own.
+                <p><b>Formula</b>: (x^0.35,), where x is the amount of the building with the lowest production. (additively and multiplicatively)</p>
                 <p><b>----------------------------------</b></p>
                 <h6>Faceless</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" alt="Territorial Expanse" align="middle"> Territorial Expanse</b></p>
@@ -154,6 +154,8 @@
                 <p><b>Cost</b>: 50 Sx (5E22)</p>
                 <p><b>Effect</b>: Increases production based on the time of your longest game session this R. (Under Metagame, Longest Session in the Stats)</p>
                 <p><b>Formula</b>: floor(35 * x^0.85)%, where x is your Playtime (Longest Session) stat in hours.</p>
+                <p><b>Formula</b>: 35* x^1.1 with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.
+                <p><b>Note</b>: Dragon Challenge 3 removes the Ascension 1 penalty
                 <p><b>----------------------------------</b></p>
                 <h6>Dwarf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" alt="Dwarven Ale" align="middle"> Dwarven Ale</b></p>
@@ -427,7 +429,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" alt="Elven Luck" align="middle"> Elven Luck</b></p>
                 <p><b>Mercenary Template</b>: EL8
                 <p><b>Cost</b>: 50 Qa (5E16)</p>
-                <p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of the production of all buildings and the production of 1 assistant, also generating 200 random faction coins.</p>
+                <p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 8.14% of your production, also generating 1000 random faction coins.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Clicking Arts</b></p>
                 <p><b>Mercenary Template</b>: EL9
                 <p><b>Cost</b>: 500 Qa (5E17)</p>
@@ -540,7 +542,7 @@
                 <p><b>Mercenary Template</b>: FC9
                 <p><b>Cost</b>: 5 No (5E30)</p>
                 <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
-                <p><b>Formula</b>: (0.075 * x^0.75)%, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
+                <p><b>Formula</b>: (0.1*x^0.75)%, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
                 <p><b>----------------------------------</b></p>
                 <h6>Dwarf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" alt="Battlehammers" align="middle"> Battlehammers</b></p>

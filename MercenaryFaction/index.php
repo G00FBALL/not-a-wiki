@@ -82,7 +82,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Smiley face" align="middle"> Holy Crusaders (<u>For Good Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p>You gain additional Crusader Assistants based on the amount of spells cast in this game. Increase clicking reward by 1000% per active spell.</p>
-<p><b>Formula</b>: floor(((1+ 0.8*x)^0.5 -1)/2), where x is your Spells Cast (This Game) stat.</p>
+<p><b>Formula</b>: floor((sqrt(1 + 0.8*x)-1)/2), where x is your Spells Cast (This Game) stat.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Smiley face" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
@@ -184,7 +184,7 @@
 <p><b>Cost</b>: 1 Tqag (1e125)
 <p><b>Effect 1</b>: Allows access to Research Facilities
 <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
-<p><b>Formula</b>: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus
+<p><b>Formula</b>: 0.5*(log10(1+x))^4.5, where x is Offline Production Bonus.
 <p><b>Effect 3</b>: Unlocks Dark Covenant
 <p><b>Neutral</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b>
@@ -192,7 +192,7 @@
 <p><b>Cost</b>: 1 Tqag (1e125)
 <p><b>Effect 1</b>: Allows access to Research Facilities
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.
-<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is assistants you had in a single game (This R)
+<p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R). 
 <p><b>Effect 3</b>: Unlocks Secret Exchange
 <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Secrets of the Warriors" align="middle"> <b>Obsidian Shard</b>
 <p><b>Requirement</b>: 8000th Excavation as any Faction, R75+

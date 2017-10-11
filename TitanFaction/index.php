@@ -11,9 +11,9 @@
 <p>Titan is the first Neutral Faction to be unlocked as the requirements are the lowest. Their Faction spell is based on luck and can become very powerful. You might want to check out the lightning strike <a target="_blank" href="http://dox4242.github.io/rws/">forecast</a> when playing with their spell.</p>
 <p><b>Alignment</b>: Neutral</p>
 <p><b>Faction Spell</b>: Lightning Strike 
-<p><b>Effect</b>: The production of a random building is multiplied by 4x the amount of Iron Strongholds for 20 seconds. 
-<p><b>Effect</b>: Also grants random Faction Coins based on your current amount of gems.
-<p><b>Formula</b>: round(1.5*ln(1+x)^3), where x is your current gems.
+<p><b>Effect</b>: The production of a random building is multiplied by 300% for each Iron Stronghold.  
+<p><b>Effect</b>: Also grants Faction Coins depending on your current amount of gems.
+<p><b>Formula</b>: round(1.75*ln(1+x)^3), where x is your current gems.
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Lightning Storm</b>
 <p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds. 
 <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.

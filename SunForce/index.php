@@ -20,10 +20,10 @@
 <p><b>Note</b>: All times are based on server time (<a target="_blank" href="http://time.unitarium.com/utc/"><b><font color="red">UTC Time</font></b></a>)
 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
 <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-<p><b>Formula</b>: floor(0.01 * (Ascension + 1) * ln(1 + Gems)^(1.5 + 0.5 * Ascension).
+<p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.
-<p><b>Formula</b>: floor(25 * (A + 1) * x0.5 + (0.05 * A)), where x is your assistants stat.
+<p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
 <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.

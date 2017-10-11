@@ -45,7 +45,7 @@
 <p><b>Effect</b>: Increase the production of Evil buildings by 50%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png" alt="Assistant Squasher" align="middle"><b> Assistant Squasher</b></p>
-<p>Click 100 times on the little assistants on the game background.</p>
+<p>(Click 100 times on the little assistant by the treasure chest.)</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png" alt="Rewind" align="middle"><b> Rewind</b></p>
 <p>(Abdicate after producing at least 1 Oc (1E27) Coins.)</p>
@@ -195,6 +195,12 @@
 <p><b>Cost</b>: 1000 Coins
 <p><b>Effect</b>: Increase Royal Exchange bonus by an additional 1%.<p>
 <p><b>----------------------------------</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" alt="Because I Like to Grind" align="middle"> Triple Weirdness</b></p>
+<p>(Have exactly 333 of each Royal Exchange and be R40+)
+<p><b>Cost</b>: Free
+<p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
+<p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)" coords="6,492,62,548" shape="rect">
+<p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretTrophy.png" alt="Expert Researcher" align="middle"> Expert Researcher</b></p>
 <p>Research 2750 times across all fields.</p>
 <p><b>Cost</b>: 1 QiQig (1e168)
@@ -220,7 +226,7 @@
 <p>Reach 750 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.</p>
 <p><b>Cost</b>: Post Ascention 0 : Pre Ascention 3.8e201 coins
 <p><b>Effect</b>: Iron Strongholds count 5% more for all purposes
-<p><b>Can be done at R35, maybe as eraly as R33</b>: (Titan/Goblin Bloodline)
+<p><b>Can be done at R39</b>: (Titan/Goblin Bloodline)
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png" alt="ColorfulAutocasting" align="middle"> Colorful Autocasting</b></p>
 <p>Have each type of autocasting active simultaneously.(Silver,Gold,Bronze,Diamond)</p>
@@ -258,6 +264,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png" alt="Eternal Researcher" align="middle"> Eternal Researcher</b></p>
 <p>Discover all the Dragon researches.</p>
 <p><b>Cost</b>: 1 Novg (1e90)
+<p><b>Effect</b>: Increase the production of all buildings based on research done.
+<p><b>----------------------------------</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"> Warrior Researcher</b></p>
+<p>Discover all the Mercenary researches.</p>
+<p><b>Cost</b>: 1 DSpq (1e219)
 <p><b>Effect</b>: Increase the production of all buildings based on research done.
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png" alt="Mana Waste" align="middle"> Mana Waste</b></p>

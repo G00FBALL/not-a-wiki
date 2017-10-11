@@ -155,5 +155,5 @@
     <p><b>In-Game Challenge Final Reward</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallenges.png" alt="Thunderstorm" align="middle"> <b>Thunderstorm</b></p>
     <p><b>Effect</b>: Lightning Strike now grants more Faction Coins based on your Faction Coin find chance.
-    <p><b>Formula</b>: round(x^0.8)%, where x is your current chance to find Faction Coins.</p>
+    <p><b>Formula</b>: round(x^1.05)%, where x is your current chance to find Faction Coins.</p>
 <?php include "../scripts/footer.html"; ?>

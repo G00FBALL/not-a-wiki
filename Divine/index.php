@@ -76,6 +76,7 @@
     <p><B>Requirement</B>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)
     <p><B>Cost</B>: 6.94Qiqig (6.94E168)
     <p><B>Effect</B>: Reincarnations count twice for Spiritual Surge.
+    <p><B>Formula</B>: 100*(1.05^x)%, where x is the amount of times you reincarnated.
     <p><b>----------------------------------</b></p>
     <p><b>D250</b> - <b>For</b> Any - <B>Research Name</B> Demonology
     <p><B>Requirement</B>: Research Transcendence (D200) & Pyromancy (S150)
@@ -156,19 +157,18 @@
     <p><B>Requirement</B>: Affiliated Dragon
     <p><B>Requirement</B>: Post Ascension Only
     <p><B>Effect</B>: Increase the production of Wyrm's Den based on Faction Coin find chance.
-    <p><B>Formula</B>: 1.5 * x^0.5, where x is faction coin find chance in percent.
+    <p><B>Formula</B>: 1.55*x^0.55, where x is Faction Coin find chance in percent.
     <p><b>----------------------------------</b></p>
     <p><b>D1275</b> - <b>For</b> Any - <B>Research Name</B> Solemnity
     <p><B>Requirement</B>: 100000 Total Buildings
     <p><B>Requirement</B>: Post Ascension Only
-    <p><B>Effect</B>: Increase the production of each building by + 0.25% per building of the same type.
-    <p><B>Formula</B>: N/A
+    <p><B>Effect</B>: Increase the production of each building by + 0.3% per building of the same type.
     <p><b>----------------------------------</b></p>
     <p><b>D1375</b> - <b>For</b> Any - <B>Research Name</B> Sanctification
     <p><B>Requirement</B>: 24 hours spent as good (Across all R's)
     <p><B>Requirement</B>: Post Ascension Only
     <p><B>Effect</B>: Increase the production of Unique Buildings based on the amount of Non-Unique buildings you own.
-    <p><B>Formula</B>: 2 * x^0.55, where x is non-unique building owned.
+    <p><B>Formula</B>: 2.5*x^0.55, where x is non-unique building owned.
     <p><b>----------------------------------</b></p>
     <p><b>D2775</b> - <b>For</b> Mercenary - <B>Research Name</B> Intervention
     <p><B>Requirement</B>: Secrets of the Warriors.

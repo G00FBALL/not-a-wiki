@@ -95,7 +95,7 @@
     <p><B>Cost</B>: 1.331 SpQig (1.331E174)
     <p><B>Effect</B>: Gain additional Faction Coins per second based on the highest amount of assistants you had in a single game.
     <p><B>Effect</B>: Also a 50% multiplicative FC chance?
-    <p><B>Formula</B>: floor(80 * x^0.8), where x is your Assistants (Max) stat.
+    <p><B>Formula</B>: floor(125*x&^0.75), where x is your Assistants (Max) stat. 
     <p><b>----------------------------------</b></p>
     <p><b>W290</b> - <b>For</b> Any - <B>Research Name</B> Entrench
     <p><B>Requirement</B>: 2,000 Excavations
@@ -119,7 +119,7 @@
     <p><B>Requirement</B>: Research Creeping (A300) & Synthesis (A270).
     <p><B>Cost</B>: 21.42 USxg (2.142E187)
     <p><B>Effect</B>: Increase the production of all other buildings based on the production of your Stonehenge Circles.
-    <p><B>Formula</B>: round(50 * log^1.3(1 + x))%, where x is the production of your Stonehenge Circles.
+    <p><B>Formula</B>: 75*(log10(1+x))^1.3) , where x is the production of your Stonehenge Circles.
     <p><b>----------------------------------</b></p>
     <p><b>W400</b> - <b>For</b> Any - <B>Research Name</B> Siege
     <p><B>Requirement</B>: Research Architecture (C251) & Entrench (W290).
@@ -164,9 +164,9 @@
     <p><b>----------------------------------</b></p>
     <p><b>W1375</b> - <b>For</b> Any - <B>Research Name</B> Scavenging
     <p><B>Requirement</B>: 86400s (24 hours) Evil Time Spent (Across all R's)
-    <p><B>Effect</B>: Increases Faction Coin find chance by a multiplicative 250%.
+    <p><B>Effect</B>: Increases Faction Coin find chance by a multiplicative 275%.
     <p><B>Effect</B>: Increase the chance to find Faction Coins based on the amount of assistants you own.
-    <p><B>Formula</B>: 2500 * x^0.41, where x is assistants.
+    <p><B>Formula</B>: (2500*x^0.425), where x is assistants.
     <p><b>----------------------------------</b></p>
     <p><b>W1400</b> - <b>For</b> Neutral,Dragon - <B>Research Name</B> Cataclysm
     <p><B>Requirement</B>: Research W400, A1200, Affiliated Dragon

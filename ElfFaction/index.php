@@ -60,7 +60,7 @@
 <p><b>Formula</b>: 2 * x, where x is your chance to find Faction Coins.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Luck</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
-<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of the production of all buildings and the production of 1 assistant, also generating 200 random faction coins.</p>
+<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 8.14% of your production, also generating 1000 random faction coins.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Clicking Arts</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>

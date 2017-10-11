@@ -7,35 +7,12 @@
 <h6>Mercenary Research</h6>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryEncampmentQuest.png" alt="Mercenary Encampment Quest" align="middle"> <b>Mercenary Encampment Quest</b>
 <p>We salute you, commander. Your strategical skills had not gone unnoticed within our ranks. We have decided to offer you a chance to establish a formal encampment within your boundaries... Build more structures to strengthen our city.
-<p><b>Requirement</b>: Mercenary (Any Alignment), 150K buildings
+<p><b>Requirement</b>: Mercenary (Any Alignment), 125000 buildings
 <p><b>Cost</b>: 10 Notg (1e121)
 <p><b>Note</b>: Only needs bought once.
 <p><b>Unlocks</b>: Mercenary Unique Buildings
 <br/>
 <br/>
-<p><b>Faction Spell</b>: Tax Collection
-<p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Good</b>
-<p><b>Requirement</b>: Mercenary Camp
-<p><b>Cost</b>: 1 Qaqag (1e135)
-<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
-<p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)
-<p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)
-<br/>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Evil</b>
-<p><b>Requirement</b>: Tyrant Garrison
-<p><b>Cost</b>: 1 Qaqag (1e135)
-<p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.
-<p><b>Formula</b>: y ^ (1 + 0.2 * Log10(1 + x)), where y is TC original power and x is amount of TC casts
-<p><b>Note</b>: Extra time from reap interests does apply to S50.
-<p><b>Note</b>: S50 tax collections do increase reap interests.
-<br/>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png" alt="Freemason's Hall" align="middle"> <b>Neutral</b>
-<p><b>Requirement</b>: Freemason's Hall
-<p><b>Cost</b>: 1 Qaqag (1e135)
-<p><b>Effect</b>: Generates additional Faction Coins per cast
-<p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.
 
 
 
@@ -54,8 +31,15 @@
 <p><b>Cost</b>: 1 Qaqag (1e135)
 <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Good factions. 
 <p><b>Effect 2</b>: Upgrades Tax Collection spell to Share Benefits. Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
+<p><b>Faction Spell</b>: Tax Collection
+<p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Good</b>
+<p><b>Requirement</b>: Mercenary Camp
+<p><b>Cost</b>: 1 Qaqag (1e135)
+<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
 <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)
 <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)
+<br/>
+<br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoodMercenaryUpgrade13.png" alt="Round Table" align="middle"> <b>Good Mercenary Upgrade 13</b>
 <p>You can purchase any upgrade from any Good Faction for an increased price
 <p><b>Requirement</b>: Round Table (Good Spell Upgrade)
@@ -68,8 +52,17 @@
 <p><b>Cost</b>: 100 Qag (1e125)
 <p><b>Effect 1</b>: Allows access to Research Facilities
 <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
-<p><b>Formula</b>: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus
 <p><b>Effect 3</b>: Unlocks Dark Covenant
+<p><b>Formula</b>: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus
+<p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Evil</b>
+<p><b>Requirement</b>: Tyrant Garrison
+<p><b>Cost</b>: 1 Qaqag (1e135)
+<p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.
+<p><b>Formula</b>: y ^ (0.5*(log10(1+x))^4.5), where y is TC original power and x is amount of TC casts
+<p><b>Note</b>: Extra time from reap interests does apply to S50.
+<p><b>Note</b>: S50 tax collections do increase reap interests.
+<br/>
+<br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DarkCovenant.png" alt="Dark Covenant" align="middle"> <b>Dark Covenant</b> (Spell Upgrade)
 <p><b>Requirement</b>: Tyrant Garrison
 <p><b>Cost</b>: 1 Qaqag (1e135)
@@ -87,13 +80,17 @@
 <p><b>Cost</b>: 100 Qag (1e125)
 <p><b>Effect 1</b>: Allows access to Research Facilities
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.
-<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is assistants you had in a single game (This R)
+<p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R)
 <p><b>Effect 3</b>: Unlocks Secret Exchange
 <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b> (Spell Upgrade)
 <p><b>Requirement</b>: Freemason's Hall
 <p><b>Cost</b>: 1 Qaqag (1e135)
 <p><b>Effect </b>: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins per cast
-<p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.
+<p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png" alt="Freemason's Hall" align="middle"> <b>Neutral</b>
+<p><b>Requirement</b>: Freemason's Hall
+<p><b>Cost</b>: 1 Qaqag (1e135)
+<p><b>Effect</b>: Generates additional Faction Coins per cast
+<p><b>Formula</b>: (2.5*x^2.5), where x is original Faction Coin chance.
 <br/>
 <br/>
 <br/>

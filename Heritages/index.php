@@ -73,11 +73,11 @@
 <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased in this game.
 <p><b>Formula</b>: 2 * x^0.8, where x is your Royal Exchanges Made stat.
 <p><b>----------------------------------</b>
-<p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Drow Heritage" align="middle"><b> Dragon Heritage</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
 <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
 <p><b>Requirements</b>: Dragons Champion Trophy</p>
 <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.
-<p><b>Formula</b>:  ({0.5 * (x ^ 0.5)}%) x is hours affiliated with dragon at all R's
+<p><b>Formula</b>:  (0.55*x^0.55)%, x is hours affiliated with dragon at all R's
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBadge.png" alt="Mercenary Badge" align="middle"><b> Mercenary Badge</b></p>
 <p><b>Cost</b>: 100,000 (of each) Faction Coins</p>

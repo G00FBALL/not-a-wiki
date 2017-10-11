@@ -82,7 +82,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank</b></p>
 <p>Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.</p>
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
-<p><b>Effect</b>: 650 + 10000 * log^1.5(1 + x), where x is your current amount of Coins.
+<p><b>Effect</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Goblin Banks Quest"
 <p><b>Cost</b>: 10 Ttg (1E103)

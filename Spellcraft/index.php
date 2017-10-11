@@ -69,7 +69,8 @@
     <p><b>S215</B>: - <b>For</b> Any - <B>Research Name</B> Projection
     <p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
     <p><B>Cost</B>: 36.16 TQig (3.616E163) </p>
-    <p><B>Effect</B>: Increase Spiritual Surge effect by 150% per other active spell.</p>
+    <p><B>Effect</B>: Increase Spiritual Surge effect based on the amount of active spells.</p>
+    <p><B>Formula</B>: (150*x)^(y+1), where x is active spells and y is ascension. (does not include Spiritual Surge) </p>
     <p><b>----------------------------------</B></p>
     <p><b>S225</B>: - <b>For</b> Undead - <B>Research Name</B> Necromancy
     <p><B>Requirement</B>: Research Resurrection (D175) & Cryomancy (S200)
@@ -92,8 +93,8 @@
     <p><b>S270</B>: - <b>For</b> Any - <B>Research Name</B> Runecarving</p>
     <p><B>Requirement</B>: 500,000 clicks (This game)</p>
     <p><B>Cost</B>: 175.2 SxQig (1.752E173) </p>
-    <p><B>Effect</B>: Increase the production of all buildings except the most productive one based on maximum mana. While offline, affects all buildings.</p>
-    <p><B>Formula</B>: round(x^0.9)%, where x is your maximum mana.</p>
+    <p><B>Effect</B>: Increase the production of all buildings based on your bonus from Gems.</p>
+    <p><B>Formula</B>: round(1.15*x^0.75)%, where x is your gem bonus.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S300</B>: - <b>For</b> Titan - <B>Research Name</B> Chain Lightning</p>
     <p><B>Requirement</B>: 25 Brainwaves (Faceless) (This R)</p>
@@ -115,8 +116,8 @@
     <p><b>S375</B>: - <b>For</b> Faceless - <B>Research Name</B> Illusion </p>
     <p><B>Requirement</B>: Research Reverberation (S330), Mesmerization (S305)</p>
     <p><B>Cost</B>: 541 DSxg (5.41E191) </p>
-    <p><B>Effect</B>: Brainwave also provides progressively more assistants over its duration.</p>
-    <p><B>Formula</B>: floor(x^2), where x is how many minutes the spell has been active.</p>
+    <p><B>Effect</B>: Increase Spiritual Surge effect based on the amount of active spells.</p>
+    <p><B>Formula</B>: floor(1.15*((x/30+y)/60)^2), where x is how many minutes the spell has been active.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S400</B>: - <b>For</b> Any - <B>Research Name</B> Capacity</p>
     <p><B>Requirement</B>: Research Projection (S215) & Domination (W275)</p>
@@ -173,9 +174,9 @@
     <p><B>Formula</B>: 8.5* x ^0.85, where x is assistants.</p>
     <p><b>----------------------------------</B></p>
     <p><B>S2875</B>: - <b>For</b> Mercenary - <B>Research Name</B> Scholarship</p>
-    <p><B>Requirement</B>: 12000 Freemason's Halls.
+    <p><B>Requirement</B>: 11000 Freemason's Halls.
     <p><B>Cost</B>: 7.26 Qiqag (7.26e168)
-    <p><B>Effect</B>: Increases the production of Non-Unique buildings by 0.4% per Unique building.
+    <p><B>Effect</B>: Increases the production of Non-Unique buildings by 40% per Unique building.
     <p><b>----------------------------------</B></p>
     <p><B>S3200</B>: - <b>For</b> All Factions - <B>Research Name</B> Manipulation</p>
     <p><B>Requirement</B>: 1B (1e9) Tax Collection cast (This R), (Calefaction A1325) and (Psionics S1500).

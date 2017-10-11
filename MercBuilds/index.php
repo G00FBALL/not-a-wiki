@@ -10,354 +10,193 @@
     <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the <b><a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/">Harley Quinn</b></a> build.
     <p><b>Note</b>: Most Templates are in order that the game save them in. Also when loading Templates the game will buy the upgrades you can afford first and you may need to load Templates several times to buy all upgrades.</p>
     <div class="shlisting">
-        <p><b>Production Builds</b></p>
-        <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine R3-R9 and R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                    <p><b>Template</b>:
-                    <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,
-                    <p>SP:Moon Blessing,SP:Fairy Chanting
-                    <p><b>Note</b>: For R3 to R9, requires "some excavations".</p>
-                    <p><b>Note</b>: For R18+, requires "Star Blessing" Tier3 Elven challenge.</p>
-                    <p><b>Requires</b>: 2 full casting to get full effect then abdicate or cast again</p>
-                    <p><b>Note</b>: Cast TC only after casting Fairy Chanting for the second time</p>
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                    <p><b>Spells</b>: Moon Blessing, Fairy Chanting
-                    <p><b>Tier 1 Upgrades</b>
-                    <p><b>Goblin</b>: (1,1): Strong Currency
-                    <p><b>Dwarf</b>: (1,3): Mining Prodigies // Titan (1,1): Colossal Forge
-                    <p><b>Druid</b>: (1,1): Druidic Vocabulary
-                    <p><b>Fairy</b>: (1,3): Starmetal Alloys
-                    <p><b>Tier 2 Upgrades</b>
-                    <p><b>Titan</b>: (2,3): Cyclopean Strength
-                    <p><b>Fairy</b>: (2,1): Fairy Workers
-                    <p><b>Facel</b>: (2,1): Gold Synthesis // Druid (2,2): Bardic Knowledge
-                    <p><b>Druid</b>: (2,1): Earthly Bond
-                    <p><b>Tier 3 Upgrades</b>
-                    <p><b>Dwarf</b> (3,1): Battlehammers
-                    <p><b>Dwarf</b> (3,2): Magic Resistance
-                    <p><b>Titan</b> (3,3): Titan Obelisk
-                    <p><b>Druid</b> (3,3): Building Jungle
-                    <p><b>Harlequin Bonus</b>: 343/216%
-                    <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
-                    <p>Fairy Chanting on gold everything else on silver no Tax Collection.
-                    <p>Cast Fairy Chanting twice during the 20 seconds spell combo.
-                    <p>This is an Elven Luck build, so don't use Tax Collections.
-                    <p>Clicking manually will not bring any benefits (when using Elven Luck).
-                    <p>Elven Luck is originally an Elven Faction Upgrade. But in this build, Elven Luck comes from the Star Blessing challenge which adds 5% chance to trigger Elven luck to Moon Blessing's clicks.
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brutal Diamond Smithing Machine R7+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Elven
-                    <p><b>Template</b>:
-                    <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
-                    <p>SP:Diamond Pickaxe,SP:Fairy Chanting
-                    <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
-                    <p><b>Tier 1 Upgrades</b>:
-                    <p><b>Fairy</b>: (1,3) Starmetal Alloys
-                    <p><b>Druid</b>: (1,1) Druidic Vocabulary
-                    <p><b>Goblin</b>: (1,1) Strong Currency
-                    <p><b>Dwarf</b>: (1,3) Mining Prodigies
-                    <p><b>Tier 2 Upgrades</b>:</p>
-                    <p><b>Fairy</b>: (2,1) Fairy Workers
-                    <p><b>Titan</b>: (2,3) Cyclopean Strength
-                    <p><b>Druid</b>: (2,1) Earthly Bond
-                    <p><b>Faceless</b>: (2,1) Gold Synthesis
-                    <p><b>Tier 3 Upgrades</b>:</p>
-                    <p><b>Elven</b>: (3,1) Elven Diplomacy
-                    <p><b>Titan</b>: (3,3) Titan Obelisk
-                    <p><b>Druid</b>: (3,3) Building Jungle
-                    <p><b>Dwarf</b>: (3,1) Battlehammers
-                    <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs.
-                    <p><b>Author</b>: pseudobyte
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                    <p><b>Template</b>:
-                    <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
-                    <p>SP:Lightning Strike,SP:Fairy Chanting
-                    <p><b>Note</b>: If using LF use full cast without TC then cast Fairy Chanting a second time then any mana left over on TC
-                    <p>For R3+ Original main build, uses LS for faction coins so you will not need to excavate. Speed will greatly vary on your luck with LS.</p>
-                    <p><b>Tier 1 Upgrades</b>:
-                    <p><b>Fairy</b> (1,3): Starmetal Alloys
-                    <p>[If the Realm Weather Forecast shows a lack of Blacksmiths for a long time, swap for Fairy (1,2) or (1,1) depending on whether Inns or Farms shows up more, giving precedence to Inns.]</p>
-                    <p><b>Goblin</b> (1,1): Strong Currency
-                    <p><b>Druid</b> (1,1): Druidic Vocabulary
-                    <p><b>Dwarf</b> (1,3): Mining Prodigies
-                    <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
-                    <p><b>Tier 2 Upgrades</b>:</p>
-                    <p><b>Druid</b> (2,1): Earthly Bond
-                    <p><b>Fairy</b> (2,1): Fairy Workers
-                    <p><b>Titan</b> (2,3): Cyclopean Strength (Alternative: Druid (2,2): Bardic Knowledge)</p>
-                    <p><b>Faceless</b> (2,1): Gold Synthesis
-                    <p><b>Tier 3 Upgrades</b>:</p>
-                    <p><b>Dwarf</b> (3,1): Battlehammers
-                    <p><b>Druid</b> (3,3): Building Jungle
-                    <p><b>Fairy</b> (3,3): Swarm of Fairies
-                    <p><b>Titan</b> (3,3): Titan Obelisk
-                    <p><b>Harlequin Bonus</b>: 216%
-                    <p><b>Lightning Forge Instructions</b>:
-                    <p>Early game, play until you get a Blacksmith Lightning Strike.
-                    <p>This is when you get your big gem boost, other strikes barely count.
-                    <p>To gain time: As soon as you have bought LS, use the <a target="_blank" href="http://dox4242.github.io/rws/"><b>Realm Weather Service</b></a> to check your LS forecast. Cast Lightning Strikes alone and get ready, build all you can, for when it will hit Blacksmith.
-                    <p><b>(**Note</b>: This tool can be temporarily broken after updates.)
-                    <p>When Lightning Strike hits Blacksmith, drop all your mana on a full combo-spell and cast as many tax collections as you can while all the other spells are casting.
-                    <p>You can get more TCs by casting spells manually: First cast all the non-FC-TC spells, wait 10 seconds for some mana to build-up, then cast FC+TCs. This can make a noticeable difference. Abdicate.</b>
-                    <p>In later games, repeat the above process until gem growth slows substantially, feeding your gold back into buying buildings to improve the return of the combos.
-                    <p>If you have Spiritual Surge, do not use it until you can afford (6000 mana) to cast all 6 spells in one combo, as it will take away the ability to fully combo all other spells and reduce income.
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thunder Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: pseudobyte
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Fairy
-                    <p><b>Template</b>:
-                    <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,
-                    <p>SP:Lightning Strike,SP:Fairy Chanting
-                    <p><b>Tier 1 Upgrades</b>:
-                    <p><b>Fairy</b> (1,3): Starmetal Alloys
-                    <p>[If the Realm Weather Forecast shows a lack of Blacksmiths for a long time, swap for Fairy (1,2) or (1,1) depending on whether Inns or Farms shows up more, giving precedence to Inns.]</p>
-                    <p><b>Goblin</b> (1,1): Strong Currency
-                    <p><b>Druid</b> (1,1): Druidic Vocabulary
-                    <p><b>Dwarf</b> (1,3): Mining Prodigies
-                    <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
-                    <p><b>Tier 2 Upgrades</b>:</p>
-                    <p><b>Druid</b> (2,2): Bardic Knowledge
-                    <p><b>Fairy</b> (2,1): Fairy Workers
-                    <p><b>Titan</b> (2,3): Cyclopean Strength</p>
-                    <p><b>Faceless</b> (2,1): Gold Synthesis
-                    <p><b>Tier 3 Upgrades</b>:</p>
-                    <p><b>Dwarf</b> (3,1): Battlehammers
-                    <p><b>Druid</b> (3,3): Building Jungle
-                    <p><b>Fairy</b> (3,3): Swarm of Fairies
-                    <p><b>Titan</b> (3,3): Titan Obelisk
-                    <p><b>Harlequin Bonus</b>: 216%
-                    <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.
-                    <p>This build is useful for idle periods where otherwise you would gain little gems, like overnight or while waiting for production sunforce. It require build up by autocasting Tax Collection until you have at least 6000 max mana in order to cast a max combo, at which point you are able to use this build like you would use Lightning Forge.
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R3-18 <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                    <p><b>Template</b>:
-                    <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
-                    <p>SP:Diamond Pickaxe,SP:Fairy Chanting
-                    <p>For R3-18, lower range & lower income but doesn't rely on LS RNG.</p>
-                    <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe
-                    <p><b>Tier 1 Upgrades</b>:
-                    <p><b>Fairy</b> (1,3): Starmetal Alloys
-                    <p><b>Goblin</b> (1,1): Strong Currency
-                    <p><b>Druid</b> (1,1): Druidic Vocabulary
-                    <p><b>Dwarf</b> (1,3): Mining Prodigies
-                    <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
-                    <p><b>Tier 2 Upgrades</b>:
-                    <p><b>Druid</b> (2,1): Earthly Bond
-                    <p><b>Fairy</b> (2,1): Fairy Workers
-                    <p><b>Titan</b> (2,3): Cyclopean Strength
-                    <p><b>Faceless</b> (2,1): Gold Synthesis
-                    <p><b>Tier 3 Upgrades</b>:
-                    <p><b>Dwarf</b> (3,1): Battlehammers
-                    <p><b>Druid</b> (3,3): Building Jungle
-                    <p><b>Fairy</b> (3,3): Swarm of Fairies
-                    <p><b>Titan</b> (3,3): Titan Obelisk
-                    <p><b>Harlequin Bonus</b>: 216%
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Farms R7-R15+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>2 builds</b>: Depending on gem count, look below.
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Elf
-                    <p><b>Template</b>: 1 Dc (1e33) to 100 Qid (1e50)
-                    <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
-                    <p>SP:Grand Balance,SP:Fairy Chanting
-                    <p><b>Template</b>: 100 Qid (1e50)+, Assistant Legion upgrade
-                    <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
-                    <p>SP:Fairy Chanting,SP:Grand Balance
-                    <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold
-                    <p><b>Range</b>: 1 Dc (1e33) to ?
-                    <p><b>Important</b>: Do not buy the last farm upgrade.
-                    <p><b>Note</b>: Buy all Royal Exchanges after each cast.
-                    <p><b>Note</b>: This build is stronger than Diamond Forge.
-                    <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat
-                    <p><b>Note</b>: This build requires you to max Excavations.
-                    <p><b>Author</b>: going2killu
-                </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine R3-R9 and R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
+                <p><b>Template</b>:
+                <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,
+                <p>SP:Moon Blessing,SP:Fairy Chanting
+                <p><b>Note</b>: For R3 to R9, requires "some excavations".</p>
+                <p><b>Note</b>: For R18+, requires "Star Blessing" Tier3 Elven challenge.</p>
+                <p><b>Requires</b>: 2 full casting to get full effect then abdicate or cast again</p>
+                <p><b>Note</b>: Cast TC only after casting Fairy Chanting for the second time</p>
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
+                <p><b>Spells</b>: Moon Blessing, Fairy Chanting
+                <p><b>Tier 1 Upgrades</b>
+                <p><b>Goblin</b>: (1,1): Strong Currency
+                <p><b>Dwarf</b>: (1,3): Mining Prodigies // Titan (1,1): Colossal Forge
+                <p><b>Druid</b>: (1,1): Druidic Vocabulary
+                <p><b>Fairy</b>: (1,3): Starmetal Alloys
+                <p><b>Tier 2 Upgrades</b>
+                <p><b>Titan</b>: (2,3): Cyclopean Strength
+                <p><b>Fairy</b>: (2,1): Fairy Workers
+                <p><b>Facel</b>: (2,1): Gold Synthesis // Druid (2,2): Bardic Knowledge
+                <p><b>Druid</b>: (2,1): Earthly Bond
+                <p><b>Tier 3 Upgrades</b>
+                <p><b>Dwarf</b> (3,1): Battlehammers
+                <p><b>Dwarf</b> (3,2): Magic Resistance
+                <p><b>Titan</b> (3,3): Titan Obelisk
+                <p><b>Druid</b> (3,3): Building Jungle
+                <p><b>Harlequin Bonus</b>: 343/216%
+                <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
+                <p>Fairy Chanting on gold everything else on silver no Tax Collection.
+                <p>Cast Fairy Chanting twice during the 20 seconds spell combo.
+                <p>Switch to Elf Research from around 1 Dvg (1E69) gems. Players below R20, go for at least 100 Dvg (1E71) - 500 Dvg (5E71) Gems.
+                <p>This is an Elven Luck build, so don't use Tax Collections.
+                <p>Clicking manually will not bring any benefits (when using Elven Luck).
+                <p>Elven Luck is originally an Elven Faction Upgrade. But in this build, Elven Luck comes from the Star Blessing challenge which adds 5% chance to trigger Elven luck to Moon Blessing's clicks.
             </div>
         </div>
-    </div>
-    <br />
-    <p><b>Special Builds</b></p>
-    <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+, R12+ (Know Your Enemy Part 1)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brutal Diamond Smithing Machine R7+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Alignment</b>: Evil Mercenary</p>
-                <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
-                <p><b>Template</b></p>
-                <p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
-                <p>SP:Fairy Chanting,SP:God's Hand</p>
-                <p><b>Note</b>: This build is for getting <b>Coin Pillage</b>,<b>Premeditation</b> and <b>Harlequin</b> at R3 and <b>KYE</b> at R12+</p>
-                <p><b>Coin Pillage</b>: After the build is set up put Tax Collection on Silver auto casting and done.</p>
-                <p><b>Spells</b>: God's Hand, Fairy Chanting</p>
-                <p><b>Tier 1 Upgrades</b></p>
-                <p><b>Goblin</b>: (1,1) Strong Currency</p>
-                <p><b>Elf</b>: (1,3) Sylvan Treasure Frills</p>
-                <p><b>Druid</b>: (1,1) Druidic Vocabulary</p>
-                <p><b>Dwarf</b>: (1,2) Expert Masonry</p>
-                <p><b>Tier 2 Upgrades</b></p>
-                <p><b>Fairy</b>: (2,1) Fairy Workers</p>
-                <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
-                <p><b>Titan</b>: (2,3) Cyclopean Strength</p>
-                <p><b>Drow</b>: (2,1) Mana Addicts</p>
-                <p><b>Tier 3 Upgrades</b></p>
-                <p><b>Goblin</b>: (3,1) Goblin Central Bank</p>
-                <p><b>Undead</b>: (3,1) Dead Fields</p>
-                <p><b>Demon</b>: (3,2) Burning Legion</p>
-                <p><b>Faceless</b>: (3,1) Magical Treasure</p>
-                <p>by<b> Chat Room #2 (edited by PseudonymousBosh)</b></p>
-            </div>
-        </div>            
-            <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                <p><b>Alignment</b>: Evil Mercenary</p>
-                <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
-                <p><b>Template</b></p>
-                <p>FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,</p>
-                <p>SP:Goblin's Greed</p>
-                <p>This build is only for getting the (Lucifer) Trophy.</p>
-                <p><b>Spells</b>: Goblin's Greed, No need to buy the second spell</p>
-                <p><b>Tier 1 Upgrades</b>:</p>
-                <p><b>Elf</b> (1,1): Elven Mint</p>
-                <p><b>Elf</b> (1,3): Sylvan Treasure Frills</p>
-                <p><b>Angel</b> (1,3): Angel Feathers</p>
-                <p><b>Dwarf</b> (1,2): Expert Masonry</p>
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Elven
+                <p><b>Template</b>:
+                <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
+                <p>SP:Diamond Pickaxe,SP:Fairy Chanting
+                <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
+                <p><b>Tier 1 Upgrades</b>:
+                <p><b>Fairy</b>: (1,3) Starmetal Alloys
+                <p><b>Druid</b>: (1,1) Druidic Vocabulary
+                <p><b>Goblin</b>: (1,1) Strong Currency
+                <p><b>Dwarf</b>: (1,3) Mining Prodigies
                 <p><b>Tier 2 Upgrades</b>:</p>
-                <p><b>Elf</b> (2,1): Elven Emissary</p>
-                <p><b>Angel</b> (2,2): Angelic Wisdom</p>
-                <p><b>Angel</b> (2,3): Archangel Feathers</p>
-                <p><b>Dwarf</b> (2,2): Indestructible Treasure</p>
+                <p><b>Fairy</b>: (2,1) Fairy Workers
+                <p><b>Titan</b>: (2,3) Cyclopean Strength
+                <p><b>Druid</b>: (2,1) Earthly Bond
+                <p><b>Faceless</b>: (2,1) Gold Synthesis
                 <p><b>Tier 3 Upgrades</b>:</p>
-                <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
-                <p><b>Elf</b> (3,1): Elven Diplomacy</p>
-                <p><b>Dwarf</b> (3,1): Battlehammers</p>
-                <p><b>Dwarf</b> (3,2): Magic Resistance</p>
-                <p><b>Harlequin Bonus</b>: 64%</p>
-                <p>by<b> Namelessname</b></p>
+                <p><b>Elven</b>: (3,1) Elven Diplomacy
+                <p><b>Titan</b>: (3,3) Titan Obelisk
+                <p><b>Druid</b>: (3,3) Building Jungle
+                <p><b>Dwarf</b>: (3,1) Battlehammers
+                <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs.
+                <p><b>Author</b>: pseudobyte
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst R3+<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Alignment</b>: Evil Mercenary</p>
-                <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
-                <p><b>Template</b></p>
-                <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
-                <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
-                <p>This build is only for getting the (Unlimited Mana) Trophy.</p>
-                <p><b>Spells</b>: Goblin's Greed, Fairy Chant</p>
-                <p><b>Tier 1 Upgrades</b>:</p>
-                <p><b>Angel</b> (1,3): Angel Feathers</p>
-                <p><b>Druid</b> (1,1): Druidic Vocabulary</p>
-                <p><b>Dwarf</b> (1,2): Expert Masonry</p>
-                <p><b>Drow</b> (1,2): Honor Among Killers</p>
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
+                <p><b>Template</b>:
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
+                <p>SP:Lightning Strike,SP:Fairy Chanting
+                <p><b>Note</b>: If using LF use full cast without TC then cast Fairy Chanting a second time then any mana left over on TC
+                <p>For R3+ Original main build, uses LS for faction coins so you will not need to excavate. Speed will greatly vary on your luck with LS.</p>
+                <p><b>Tier 1 Upgrades</b>:
+                <p><b>Fairy</b> (1,3): Starmetal Alloys
+                <p>[If the Realm Weather Forecast shows a lack of Blacksmiths for a long time, swap for Fairy (1,2) or (1,1) depending on whether Inns or Farms shows up more, giving precedence to Inns.]</p>
+                <p><b>Goblin</b> (1,1): Strong Currency
+                <p><b>Druid</b> (1,1): Druidic Vocabulary
+                <p><b>Dwarf</b> (1,3): Mining Prodigies
+                <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
                 <p><b>Tier 2 Upgrades</b>:</p>
-                <p><b>Angel</b> (2,3): Archangel Feathers</p>
-                <p><b>Undead</b> (2,2): Corpse Supply</p>
-                <p><b>Druid</b> (2,3): Shapeshifting</p>
-                <p><b>Faceless</b> (2,2): Mitosis</p>
+                <p><b>Druid</b> (2,1): Earthly Bond
+                <p><b>Fairy</b> (2,1): Fairy Workers
+                <p><b>Titan</b> (2,3): Cyclopean Strength (Alternative: Druid (2,2): Bardic Knowledge)</p>
+                <p><b>Faceless</b> (2,1): Gold Synthesis
                 <p><b>Tier 3 Upgrades</b>:</p>
-                <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
-                <p><b>Demon</b> (3,2): Burning Legion</p>
-                <p><b>Faceless</b> (3,1): Magical Treasure</p>
-                <p><b>Dwarf</b> (3,2): Magic Resistance</p>
-                <p><b>Harlequin Bonus</b>: 64%</p>
-                <p>by <b>artcrow</b></p>
+                <p><b>Dwarf</b> (3,1): Battlehammers
+                <p><b>Druid</b> (3,3): Building Jungle
+                <p><b>Fairy</b> (3,3): Swarm of Fairies
+                <p><b>Titan</b> (3,3): Titan Obelisk
+                <p><b>Harlequin Bonus</b>: 216%
+                <p><b>Lightning Forge Instructions</b>:
+                <p>Early game, play until you get a Blacksmith Lightning Strike.
+                <p>This is when you get your big gem boost, other strikes barely count.
+                <p>To gain time: As soon as you have bought LS, use the <a target="_blank" href="http://dox4242.github.io/rws/"><b>Realm Weather Service</b></a> to check your LS forecast. Cast Lightning Strikes alone and get ready, build all you can, for when it will hit Blacksmith.
+                <p><b>(**Note</b>: This tool can be temporarily broken after updates.)
+                <p>When Lightning Strike hits Blacksmith, drop all your mana on a full combo-spell and cast as many tax collections as you can while all the other spells are casting.
+                <p>You can get more TCs by casting spells manually: First cast all the non-FC-TC spells, wait 10 seconds for some mana to build-up, then cast FC+TCs. This can make a noticeable difference. Abdicate.</b>
+                <p>In later games, repeat the above process until gem growth slows substantially, feeding your gold back into buying buildings to improve the return of the combos.
+                <p>If you have Spiritual Surge, do not use it until you can afford (6000 mana) to cast all 6 spells in one combo, as it will take away the ability to fully combo all other spells and reduce income.
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7-R11<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thunder Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Alignment</b>: Good Mercenary</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><b>Mercenary Template</b>:</p>
-                <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
-                <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-                <p>Variant of IGOT a need for trophies for getting mana waste and autocasting.</p>
-                <p><b>Range</b>:R7-R11</p>
-                <p><b>Requirements</b>: Helden Sterben Nicht</p>
-                <p><b>Note</b>: Takes 4 hours 45 minutes to get Mana Waste.</p>
-                <p><b>Note</b>: All times listed below are with masterful autocast unlocked, 67.4 Qad 6.74e46 gems at R7</p>
-                <p><b>300 assistants</b>: 5 hours</p>
-                <p><b>Contingence Autocasting</b>: 6 hours</p>
-                <p><b>Mana Wave</b>: 6 hours</p>
-                <p><b>500000 spells</b>: 6 hours 30 minutes</p>
-                <p><b>Planned Autocasting</b>: 6 hours 30 minutes</p>
-                <p><b>500 assistants</b>: 7 hours 20 minutes</p>
-                <p><b>Efficient Autocasting</b>: 7 hours 30 minutes</p>
-                <p><b>1M spells</b>: 8 hours</p>
-                <p><b>Exchange Lord</b>: 10 hours 15 minutes</p>
-                <p><b>100B FC</b>: 10 hours 20 minutes</p>
-                <p><b>1000 assistants</b>: 12-14 hours
-                <p><b>1T FC</b>: 21 hours 30 minutes
-                <p><b>2000 assistants</b>: 28 hours
-                <p><b>Mana River</b>: 29 hours
-                <p><b>Spells</b>: Fairy Chanting, Goblin's Greed for FC to set up (you can substitute something else if you wish, Greed is not important for the build)</p>
-                <p><b>Tier 1 Upgrades</b></p>
-                <p><b>Angel</b>: (1,1): Holy Bells</p>
-                <p><b>Angel</b>: (1,3): Angel Feathers</p>
-                <p><b>Angel</b>: (1,2): Angelic Determination</p>
-                <p><b>Note</b>: If stopping at mana waste (not continuing to efficent autocasting): Goblin (1,1): Strong Currency</p>
-                <p><b>Dwarf</b>: (1,2): Expert Masonry</p>
-                <p><b>Tier 2 Upgrades</b></p>
-                <p><b>Angel</b>: (2,2): Angelic Wisdom</p>
-                <p><b>Angel</b>: (2,3): Archangel Feathers</p>
-                <p><b>Druid</b>: (2,3): Shapeshifting</p>
-                <p><b>Drow</b>: (2,1): Mana Addicts</p>
-                <p><b>Tier 3 Upgrades</b></p>
-                <p><b>Fairy</b>: (3,3): Swarm of Fairies</p>
-                <p><b>Angel</b>: (3,2): Angelic Dominance</p>
-                <p><b>Goblin</b>: (3,1): Goblin Central Bank</p>
-                <p><b>Faceless</b>: (3,1): Magical Treasure</p>
-                <p><b>Harlequin bonus</b>: 343%</p>
-                <p><b>Instructions</b></p>
-                <p>Don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power if it increases max mana. If you already have at least Priority Autocasting unlocked, cast Fairy Chanting and Tax Collection, otherwise cast Tax collection until you do. After you exceed 1100 mana/second and unlock Mana Waste, you can buy it and all the other max mana upgrades to greatly increase your mana regen for further autocasting unlocks.</p>
-                <p><b>Note</b>: Helden Sterben Nicht is used because it increases max mana and regen by the same amount, which on its own is a neutral effect towards getting Mana Waste. However, the extra regen helps the build grow faster, and the extra max mana increases the effect of Druid Bloodline, and decreases the base mana requirement for Mana Waste by a few percent.</p>
-                <p><b>Note</b>: While this can be used R12+, the extra max mana from Reincarnation Power will make it more difficult. It's best to get mana waste before R12 unless you want to wait until R18+.</p>
-                <p>by <b>pseudobyte</b></p>
+                <p><b>Author</b>: pseudobyte
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy
+                <p><b>Template</b>:
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,
+                <p>SP:Lightning Strike,SP:Fairy Chanting
+                <p><b>Tier 1 Upgrades</b>:
+                <p><b>Fairy</b> (1,3): Starmetal Alloys
+                <p>[If the Realm Weather Forecast shows a lack of Blacksmiths for a long time, swap for Fairy (1,2) or (1,1) depending on whether Inns or Farms shows up more, giving precedence to Inns.]</p>
+                <p><b>Goblin</b> (1,1): Strong Currency
+                <p><b>Druid</b> (1,1): Druidic Vocabulary
+                <p><b>Dwarf</b> (1,3): Mining Prodigies
+                <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
+                <p><b>Tier 2 Upgrades</b>:</p>
+                <p><b>Druid</b> (2,2): Bardic Knowledge
+                <p><b>Fairy</b> (2,1): Fairy Workers
+                <p><b>Titan</b> (2,3): Cyclopean Strength</p>
+                <p><b>Faceless</b> (2,1): Gold Synthesis
+                <p><b>Tier 3 Upgrades</b>:</p>
+                <p><b>Dwarf</b> (3,1): Battlehammers
+                <p><b>Druid</b> (3,3): Building Jungle
+                <p><b>Fairy</b> (3,3): Swarm of Fairies
+                <p><b>Titan</b> (3,3): Titan Obelisk
+                <p><b>Harlequin Bonus</b>: 216%
+                <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.
+                <p>This build is useful for idle periods where otherwise you would gain little gems, like overnight or while waiting for production sunforce. It require build up by autocasting Tax Collection until you have at least 6000 max mana in order to cast a max combo, at which point you are able to use this build like you would use Lightning Forge.
             </div>
         </div>
-            <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harlequin Tricaster R12+<font color="DarkRed"> Evil</font></a></b></p>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R3-18 <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Alignment</b>: Evil Mercenary</p>
-                <p><b>Bloodline</b>: Elf 
-                <p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
+                <p><b>Template</b>:
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
+                <p>SP:Diamond Pickaxe,SP:Fairy Chanting
+                <p>For R3-18, lower range & lower income but doesn't rely on LS RNG.</p>
+                <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe
+                <p><b>Tier 1 Upgrades</b>:
+                <p><b>Fairy</b> (1,3): Starmetal Alloys
+                <p><b>Goblin</b> (1,1): Strong Currency
+                <p><b>Druid</b> (1,1): Druidic Vocabulary
+                <p><b>Dwarf</b> (1,3): Mining Prodigies
+                <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
+                <p><b>Tier 2 Upgrades</b>:
+                <p><b>Druid</b> (2,1): Earthly Bond
+                <p><b>Fairy</b> (2,1): Fairy Workers
+                <p><b>Titan</b> (2,3): Cyclopean Strength
+                <p><b>Faceless</b> (2,1): Gold Synthesis
+                <p><b>Tier 3 Upgrades</b>:
+                <p><b>Dwarf</b> (3,1): Battlehammers
+                <p><b>Druid</b> (3,3): Building Jungle
+                <p><b>Fairy</b> (3,3): Swarm of Fairies
+                <p><b>Titan</b> (3,3): Titan Obelisk
+                <p><b>Harlequin Bonus</b>: 216%
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Farms R7-R15+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>2 builds</b>: Depending on gem count, look below.
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Elf
+                <p><b>Template</b>: 1 Dc (1e33) to 100 Qid (1e50)
+                <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
+                <p>SP:Grand Balance,SP:Fairy Chanting
+                <p><b>Template</b>: 100 Qid (1e50)+, Assistant Legion upgrade
+                <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
                 <p>SP:Fairy Chanting,SP:Grand Balance
-                <p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.
-                <p>You can try Harlequin Tricaster if you can't afford excavations with the first build.
-                <p>Requires high gem total closer to end of reincarnation in R14+ to add Spiritual Surge.
-                <p>Exclude Blood Frenzy from the spell combo as it doesn't affect Farms.
-                <p>You can ignore the following instructions if you have over 2000 of each of the first 5 buildings by the time you cast income Tax Collections. Buy 1500/1750/2000 Farm, Slave Pen, and Orcish Arena upgrades at the same time to avoid Grand Balance targeting the wrong building.
-                <p>It might require Helden Sterben Nicht, Rule 'dis, Unlimited Mana to work well in R14+.
-                <p>Build comes from this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/871213-r13-stuck-at-vg-gems?page=1#posts-11488590"><b>forum</b></a> post by artcrow</p>
+                <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold
+                <p><b>Range</b>: 1 Dc (1e33) to ?
+                <p><b>Important</b>: Do not buy the last farm upgrade.
+                <p><b>Note</b>: Buy all Royal Exchanges after each cast.
+                <p><b>Note</b>: This build is stronger than Diamond Forge.
+                <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat
+                <p><b>Note</b>: This build requires you to max Excavations.
+                <p><b>Author</b>: going2killu
             </div>
         </div>
         <br/>

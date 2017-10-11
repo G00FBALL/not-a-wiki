@@ -1,29 +1,29 @@
-<p><b>In-game description</p></b>
-<p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!
-<p>Challenges were first implemented in Secret of the Realms expansion. (v1.4.40.0), bringing new perks for the Vanilla Factions. Later, in v1.5.45, also for the Neutral Factions. In v.1.6.52 the challenges for Prestige Factions became available.
-<p>Upon reaching R2, a "Challenge" button will appear in the Trophy tab leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.
-<p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.
-<p><b>Vanilla Faction challenges</b>: Tier 1 upgrades boost the faction it belongs to. Tier 2 upgrades boosts another Faction. Last Tier upgrades are universal and boost basic perks. Completing all the challenges of a Faction rewards a spell upgrade. The last Tiers and Spell upgrades can be used also with Mercenaries, and their respective Factions, with or without Dwarf or Drow.
-<p><b>Neutral Faction challenges</b>: Tier 1 upgrades boost it's own faction, Tier 2 and Tier 3 upgrades boosts each other Neutral Faction, and Tier 4 upgrades are universal.
-<p><b>Prestige Faction challenges</b>: Tier 1 upgrades boost Dwarven-Angels or Drow-Demons, Tier 2 upgrades boost Dwarven-Fairies or Drow-Goblins, Tier 3 upgrades boost Dwarven-Elves or Drow-Undead, Tier 4 upgrades boost all Dwarven or all Drow, and Tier 5 upgrades are universal.
-<p>Once you have unlocked a challenge, the perks relative to the faction you are playing, being costless, will be turned on by default after the faction's spell upgrade has been purchased. These can be turned on and off by clicking on their respective icon In the Challenge window.
-
-
-
-
-
-
-
-
-Goblin Challenge 1
-<p>There's a 1/6 chance of getting it every time GFD triggers it can take 10 minutes or 10 minutes times however long the longest run without any values in the top sextile is for the game's RNG
-but an hour on average the only thing you can do to speed it up is open multiple tabs before purchasing GFD
-then they will have different RNG states and roll differently
-6 tabs will give you a 65% chance of getting it on the first trigger, 13 will give you a 90% chance
-if you do it in one tab, same odds, 65% in the first 6 activations, 90% in the first 13
-open multiple copies of the game
-all of them will overwrite the same save location, but once you get it in one tab, you can close the others and save manually
-also make sure you have greed drive, because that's the most common way of missing goblin 1
-and if you do the tab trick, be sure you open the tabs and then purchase GFD individually in each tab
-if you open multiple tabs already owning GFD, they'll all have the same RNG state
-or open them owning GFD and then import a save in which you don't own GFD</p>
+<p><b>In-game description</p></b>
+<p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!
+<p>Challenges were first implemented in Secret of the Realms expansion. (v1.4.40.0), bringing new perks for the Vanilla Factions. Later, in v1.5.45, also for the Neutral Factions. In v.1.6.52 the challenges for Prestige Factions became available.
+<p>Upon reaching R2, a "Challenge" button will appear in the Trophy tab leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.
+<p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.
+<p><b>Vanilla Faction challenges</b>: Tier 1 upgrades boost the faction it belongs to. Tier 2 upgrades boosts another Faction. Last Tier upgrades are universal and boost basic perks. Completing all the challenges of a Faction rewards a spell upgrade. The last Tiers and Spell upgrades can be used also with Mercenaries, and their respective Factions, with or without Dwarf or Drow.
+<p><b>Neutral Faction challenges</b>: Tier 1 upgrades boost it's own faction, Tier 2 and Tier 3 upgrades boosts each other Neutral Faction, and Tier 4 upgrades are universal.
+<p><b>Prestige Faction challenges</b>: Tier 1 upgrades boost Dwarven-Angels or Drow-Demons, Tier 2 upgrades boost Dwarven-Fairies or Drow-Goblins, Tier 3 upgrades boost Dwarven-Elves or Drow-Undead, Tier 4 upgrades boost all Dwarven or all Drow, and Tier 5 upgrades are universal.
+<p>Once you have unlocked a challenge, the perks relative to the faction you are playing, being costless, will be turned on by default after the faction's spell upgrade has been purchased. These can be turned on and off by clicking on their respective icon In the Challenge window.
+
+
+
+
+
+
+
+
+Goblin Challenge 1
+<p>There's a 1/6 chance of getting it every time GFD triggers it can take 10 minutes or 10 minutes times however long the longest run without any values in the top sextile is for the game's RNG
+but an hour on average the only thing you can do to speed it up is open multiple tabs before purchasing GFD
+then they will have different RNG states and roll differently
+6 tabs will give you a 65% chance of getting it on the first trigger, 13 will give you a 90% chance
+if you do it in one tab, same odds, 65% in the first 6 activations, 90% in the first 13
+open multiple copies of the game
+all of them will overwrite the same save location, but once you get it in one tab, you can close the others and save manually
+also make sure you have greed drive, because that's the most common way of missing goblin 1
+and if you do the tab trick, be sure you open the tabs and then purchase GFD individually in each tab
+if you open multiple tabs already owning GFD, they'll all have the same RNG state
+or open them owning GFD and then import a save in which you don't own GFD</p>

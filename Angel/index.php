@@ -36,5 +36,5 @@
 <p><b>------------------------------</b>
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/God'sThroneChallenges.png" alt="God's Throne" align="middle"> <b>God's Throne</b></p>
-<p><b>Effect</b>: Mana regeneration is increased by 20% while God's Hand is active.</p>
+<p><b>Effect</b>: Mana regeneration is increased by 50% while God's Hand is active.</p>
 <?php include "../scripts/footer.html"; ?>

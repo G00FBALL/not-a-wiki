@@ -48,4 +48,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchwizardTrophy.png" alt="Archwizard" align="middle"> Archwizard</b></p>
 <p><b>Requirement</b>: 1B (1E9) spells cast</p>
 <p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellMasterTrophy.png" alt="Spell Master" align="middle"> SpellMaster</b></p>
+<p><b>Requirement</b>: 50T (5E13) spells cast</p>
+<p>------------------------------</p>
 <?php include "../scripts/footer.html"; ?>

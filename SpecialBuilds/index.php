@@ -16,7 +16,7 @@
     <p><b>Mercenary phase</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+, R12+ (Know Your Enemy Part 1)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
@@ -286,6 +286,7 @@
                     <p>E135,E145,E460,E1225,E1425,</p>
                     <p>A120,A300,A305,A400,A1325,</p>
                     <p>W150,W180,W250,W400,W1375</p>
+                    <p><b>Notes</b>: Also used for UL5 excavation unlock, which requires a few thousand excavations. If you dont have them, use Druid lineage 5 unlock. Takes 30 minutes max.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
@@ -319,7 +320,7 @@
                     <p>E135,E145,E250,E260,E460,E1425,</p>
                     <p>A120,A305,A375,A400,A1325,A1500,</p>
                     <p>W150,W180,W250,W400,W1375</p>
-                    <p><b>Notes</b>: Takes an estimated time of 16-20 hours to complete.</p>
+                    <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
@@ -358,7 +359,7 @@
                     <p>E135,E145,E290,E1325,E1425,</p>
                     <p>A105,A120,A300,A305,A400,</p>
                     <p>W150,W180,W290,W400,W1375</p>
-                    <p><b>Notes</b>: Requires around 1k-4k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.</p>
+                    <p><b>Notes</b>: Requires around 4k-1k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.</p>
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
                 </div>
             </div>
@@ -404,12 +405,11 @@
     <p><b>Mercenary Research phase</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building Quest R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Unique Building R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek</p>
                 <p><b>Note</b>: I (G00FBALL) used these builds at R78 with (e94) gems and it was quick and painless, lower gems maybe not so much.</p>
-                <p><b>Note</b>: Tested at R75 less than 2 hours (1h50m) for secrets with just t6 dragless at 1.67e86 gems. 
-                    <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.</p>
+                <p><b>Note</b>: Using Dragless: Get to e88+ gems, Excavate to 8000 for the Obsidian Shard.</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Mercenary Template</b></p>

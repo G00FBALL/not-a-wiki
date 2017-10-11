@@ -41,6 +41,8 @@
                     <p id="R50FCChaAdd"></p>
                     <p id="R60FCChaMul"></p>
                     <p id="R70AddResSlo"></p>
+                    <p id="R85AssPerR"></p>
+                    <p id="R100ManRegPerR"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -158,10 +160,26 @@
                 } else {
                     $('#R70AddResSlo').css('display', 'none');
                 }
+                if (rei >= 85) {
+                    var bonus = rei * 4;
+                    $('#R85AssPerR').text('Add ' + bonus.toFixed(0) + ' additional Assistants.');
+                    $('#R85AssPerR').css('display', 'block');
+                } else {
+                    $('#R85AssPerR').css('display', 'none');
+                }
+                if (rei >= 100) {
+                    var bonus = rei;
+                    $('#R100ManRegPerR').text('Increase Mana Regeneration by ' + bonus.toFixed(1) + '%.');
+                    $('#R100ManRegPerR').css('display', 'block');
+                } else {
+                    $('#R100ManRegPerR').css('display', 'none');
+                }
                 if (rei <= 40) {
                     $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1e' + (24 + rei * 3).toFixed(0) + '</b> gems.');
-                } else {
+                } else if (rei <= 100){
                     $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1.778e' + (rei * 2 - 62).toFixed(0) + '</b> gems.');
+                } else {
+                    //TBD
                 }
                 switch (rei) {
                     case 2:
@@ -189,7 +207,7 @@
                         Runl('prestige research');
                         break;
                     case 40:
-                        Runl('Ascension');
+                        Runl('Ascension 1');
                         break;
                     case 42:
                         Runl('Tiered Autocasting');
@@ -208,6 +226,9 @@
                         break;
                     case 75:
                         Runl('Mercenary Research');
+                        break;
+                    case 100:
+                        Runl('Ascension 2 and Second Alignments');
                         break;
                     default:
                         $('#RUnl').css('display', 'none');
@@ -250,6 +271,10 @@
                 <p><b>Increase</b>: FC change multiplicatively by 1.2*x^1.05 if they match your Faction or Bloodline.
                 <p><b>70th Reincarnation and up</b>
                 <p><b>Added</b>: You gain 1 additional Research slot for each branch.
+                <p><b>85th Reincarnation and up</b>
+                <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.
+                <p><b>100th Reincarnation and up</b>
+                <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.
             </div>
         </div>
         <div class="shelementwhole">
@@ -269,9 +294,10 @@
                 <p><b>R42</b>: Tiered Autocasting</p>
                 <p><b>R46</b>: Neutral Prestige (Dragons)</p>
                 <p><b>R47</b>: Neutral Prestige Research</p>
-                <p><b>R48</b>: Dragon Challenges
-                <p><b>R60</b>: Lineages
-                <p><b>R75</b>: Mercenary Research
+                <p><b>R48</b>: Dragon Challenges</p>
+                <p><b>R60</b>: Lineages</p>
+                <p><b>R75</b>: Mercenary Research</p>
+                <p><b>R100</b>: Second Ascension, New Alignments</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -291,6 +317,7 @@
                 <p>All Faction coin stats</p>
                 <p>Click upgrades (50k clicks, 100k clicks)</p>
                 <p>All the "Magic" section of stats page.</p>
+                <p><b>At second Ascension (R100), Access to prestige factions and Mercenaries is lost !</b></p>
                 <p>----------------------------------</p>
                 <p><b>Kept or Gained at Reincarnation</b></p>
                 <p>All Trophies (and their associated unlocks)</p>
@@ -371,6 +398,14 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/70Reincarnations.png" alt="70 Reincarnations" align="middle"> 70 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 70 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R70) 17.78 Qivg (1.778e70) Gems</p>
+                <p>------------------------------</p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/85Reincarnations.png" alt="85 Reincarnations" align="middle"> 85 Reincarnations</b></p>
+                <p><b>Requirement</b>: Reincarnate 85 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R85) 1.778 Qitg (1.778e108) Gems</p>
+                <p>------------------------------</p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/100Reincarnations.png" alt="100 Reincarnations" align="middle"> 100 Reincarnations</b></p>
+                <p><b>Requirement</b>: Reincarnate 100 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems</p>
             </div>
         </div>
     </div>

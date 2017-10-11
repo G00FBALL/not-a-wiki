@@ -72,7 +72,7 @@
         <area target="" research="<b>Faceless Lineage</b><p><b>Base Effect</b>: Increase Max Mana by 1% per level.<p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,134,190,187" shape="rect">
         <area target="" research="<b>Dwarf Lineage</b><p><b>Base Effect</b>: Excavations and Artifacts count 10% more per level.<p><b>Cost</b>: 400 Dwarf Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,193,70,246" shape="rect">
         <area target="" research="<b>Drow Lineage</b><p><b>Base Effect</b>: 5% more offline production per level, Also reduces Drow Bloodline Post Ascension nerf.<p><b>Cost</b>: 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,193,128,247" shape="rect">
-        <area target="" research="<b>Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 12% more per level for all purposes.<p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
+        <area target="" research="<b>Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 15% more per level for all purposes.<p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
 
 
     </map>
@@ -134,7 +134,7 @@
     <p><b>Level 5</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk1.png" alt="AngelPerk1" align="middle"><b> Angel Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.
-    <p><b>Effect</b>: Removes Angel Bloodline dropoff when no spells are active.
+    <p><b>Effect</b>: Angel Bloodline effect now counts total spells cast.
     <p><b>Level 10</b>
     <p><b>Effect</b>: x100 Angel Faction Coin find chance.
     <p><b>Level 15</b>
@@ -187,7 +187,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk2.png" alt="UndeadPerk2" align="middle"><b> Undead Perk 2</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 15.
     <p><b>Effect</b>: Unlocks Undead Lineage Challenge.
-    <p><b>Challenge</b>: Have Night Time's spell duration be higher than 1 minute.
+    <p><b>Challenge</b>: Have Night Time's spell duration be 60 seconds.
     <p><b>Effect</b>: Unlocks Faction spell. (Night Time)
     <p><b>Level 20</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk3.png" alt="UndeadPerk3" align="middle"><b> Undead Perk 3</b></p>
@@ -262,7 +262,8 @@
     <p><b>Level 20</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk3.png" alt="DruidPerk3" align="middle"><b> Druid Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.
-    <p><b>Effect</b>: Grand Balance multiplier is increased by 0.5% per 750 Unique Buildings. (hopefully multiplicative)
+    <p><b>Effect</b>: While Grand Balance is active, increase the production of its targets based on the amount of Unique Buildings you own.
+    <p><b>Formula</b>: (0.5*floor(x/750))^y), where x is Unique Buildings and y is spell tier.
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" alt="DruidGrandChampionTrophy.png" align="middle"> Druid Grand Champion Trophy.
     <p><b>Requirement</b>: Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.
     <p><b>----------------------------------</b>
@@ -321,8 +322,7 @@
     <p><b>Level 5</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk1.png" alt="DrowPerk1" align="middle"><b> Drow Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.
-    <p><b>Effect</b>: Drow Bloodline also counts online playtime in this game and reduces ascension penalty from ^0.1 to ^0.9.
-    <p><b>Formula</b>: (0.15 * (t1 + t2))^0.9, where t1 is offline time this R, t2 is online time this game.
+    <p><b>Effect</b>: While using Drow Bloodline, all time spent counts 100% more for all purposes.
     <p><b>Level 10</b>
     <p><b>Effect</b>: x100 Drow Faction Coin find chance.
     <p><b>Level 15</b>

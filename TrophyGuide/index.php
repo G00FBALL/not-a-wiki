@@ -139,22 +139,22 @@
     <p>Easy at end of R0 takes about 20 minutes.</p>
     <p><b>----------------------------------</b>
     <p><b>Easy to get later (based on R#)</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="Helden Sterben Nicht" align="middle"> <b>Helden Sterben Nicht</b> (R3+)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="Smiley face" align="middle"> <b>Helden Sterben Nicht</b> (R3+)
     <p>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.
     <p><b>Hint</b>: After joining each stage wait about 10 seconds before Abdicating.
     <p><b>Cost</b>: 5.0e75
     <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Coin Pillage" align="middle"> <b>Coin Pillage</b> (end of R3)
-    <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>Harley Quinn R3+</b></a>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> <b>Coin Pillage</b> (end of R3)
+    <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/TrophyBuilds/"><b>Harley Quinn R3+</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png" alt="Lucifer" align="middle"> <b>Lucifer</b> R3+
     <p>As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>Lucifer R3+</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Lucifer R3+</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png" alt="Harlequin" align="middle"> <b>Harlequin</b> R3+
     <p>As a Mercenary, purchase one upgrade from 11 different factions.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>Harley Quinn R3+</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harley Quinn R3+</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png" alt="Mana Matrix" align="middle"> <b>Mana Matrix</b> (R3)
     <p>Have a maximum mana of exactly 4767.
@@ -171,7 +171,7 @@
     <p>Have mana regeneration higher than max mana.</p>
     <p><b>Effect</b>: Increases max mana based on spells cast.
     <p><b>Formula</b>: 100 * log10(1 + x)^2.5
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>IGOT an excess of mana R7-R11</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an excess of mana R7-R11</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png" alt="Faction Run" align="middle"> <b>Faction Run</b> (R7+).
     <p>Earn 1.5 M (1.5e6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.
@@ -181,23 +181,23 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png" alt="Exchange Lord" align="middle"> <b>Exchange Lord</b> (R7)
     <p>Purchase 1500 Royal Exchanges in a single game. Using IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png" alt="Priority Autocasting" align="middle"> <b>Priority Autocasting</b> (R7)
     <p>Produce 12M mana. Using IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png" alt="Contingency Autocasting" align="middle"> <b>Contingency Autocasting</b> (R7)
     <p>Produce 20M mana. Using IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png" alt="Planned Autocasting" align="middle"> <b>Planned Autocasting</b> (R7)
     <p>Produce 30M mana. Using IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Efficient Autocasting</b> (R7)
     <p>Produce 50M mana. Using IGOT-trophies.
-    <p>You can use this build <a href="http://musicfamily.org/realm/MercBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
+    <p>You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png" alt="For Science!" align="middle"> <b>For Science!</b> (R16)
     <p>Purchase all the research facilities.

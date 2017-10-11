@@ -11,7 +11,7 @@
 <p><b>Requirement</b>: Reincarnate 3 times</p>
 <p><b>Cost</b>: (To Reincarnate to R3) 1 Dc (1e33) Gems
 <p>------------------------------</p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/7Reincarnations.png" alt="7 Reincarnations" align="middle"> 5 Reincarnations</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Reincarnations.png" alt="5 Reincarnations" align="middle"> 5 Reincarnations</b></p>
 <p><b>Requirement</b>: Reincarnate 5 times</p>
 <p><b>Cost</b>: (To Reincarnate to R5) 1 Dd (1e39) Gems
 <p>------------------------------</p>
@@ -65,5 +65,13 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/70Reincarnations.png" alt="70  Reincarnations" align="middle"> 70 Reincarnations</b></p>
 <p><b>Requirement</b>: Reincarnate 70 times</p>
 <p><b>Cost</b>: (To Reincarnate to R70) 1.778 Qivg (1.778e78) Gems
+<p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/85Reincarnations.png" alt="85  Reincarnations" align="middle"> 85 Reincarnations</b></p>
+<p><b>Requirement</b>: Reincarnate 85 times</p>
+<p><b>Cost</b>: (To Reincarnate to R85) 1.778 Qitg (1.778e108) Gems
+<p>------------------------------</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100Reincarnations.png" alt="100  Reincarnations" align="middle"> 100 Reincarnations</b></p>
+<p><b>Requirement</b>: Reincarnate 100 times</p>
+<p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems
 <p>------------------------------</p>
 <?php include "../scripts/footer.html"; ?>
