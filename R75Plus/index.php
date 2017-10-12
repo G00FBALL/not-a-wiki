@@ -9,6 +9,7 @@
 <br/>
 <p><b>All builds have been updated as of June, 3rd 2017.</b></p>
 <p>Most builds will <b>Require</b> Lineage Level 15+</p>
+<p><b>As of version 3.0, most of the builds in this page are obsolete, this page is currently undergoing changes</b></p>
 <br/>
 <br/>
 <div class="shlisting">
@@ -156,7 +157,7 @@
         </div>
     </div>
     <br/>
-    <p><b>Grand Balance 11 Builds</b></p>
+    <p><b>Grand Balance 11 Builds (obselete since 3.0)</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Flower Ghoul" R77+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
@@ -203,7 +204,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Fallen Angel" R75-76<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Fallen Angel" R75-76 (obsolete)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: artcrow
                 <p><b>Alignment</b>: Good Mercenary
@@ -272,7 +273,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R77-R78<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R77-R78 (obsolete)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Hyppy
                 <p><b>Range</b>: e88 (10 Ocvg) gems - ? gems, 10B mana this R</p>
@@ -336,7 +337,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R79-R80<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R79-R80 (obsolete)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Hyppy
                 <p><b>Range</b>: e88 (10 Ocvg) gems - ? gems, 10B mana this R</p>
@@ -378,7 +379,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Pagan Lizards" R81+ (obsolete)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Hyppy
                 <p><b>Range</b>: e90 (1 Novg) gems - ? gems, 10B mana this R</p>
@@ -400,7 +401,7 @@
         </div>
         <br />
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Revenant" R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Revenant" R82+ (obsolete)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rastan9
                 <p><b>Range</b>: e90 (1 Novg) gems - e114 (1 Sxtg) gems, 10B mana this R</p>
