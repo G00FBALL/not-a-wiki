@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>All builds have been updated as of June, 3rd 2017.</b>
+    <p><b>All builds have been updated as of Oct, 12th 2017.</b>
     <p>All builds come from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
     <p>A guide for post-Ascension progression can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/858173-guide-for-post-ascension-progressing-from-r40-to-r75"><b>here</b></a></p>
     <div class="shlisting">
@@ -18,7 +18,7 @@
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
                 <p><b>Range</b>: 0 - <b>1e31 gems</b>
-                <p>S105,S135,S150,S330,S500,
+                <p>S135,S150,S270,S330,S500,
                 <p>C150,C251,C330,C340,C375,C400,
                 <p>D55,D245,D290,D320,D350,
                 <p>E135,E145,E275,E330,E400,
@@ -68,8 +68,8 @@
                 <p><b>Range</b>: E31 (10 No)+ gems
                 <p>S150,S180,S330,S400,S500,S590,
                 <p>C80,C135,C150,C330,C340,C400,C460,
-                <p>D55,D200,D245,D290,D320,
-                <p>E50,E135,E145,E330,E410,
+                <p>D55,D200,D245,D320,D480,
+                <p>E50,E135,E145,E410,E480,
                 <p>A105,A120,A150,A250,A400,
                 <p>W120,W150,W180,W320,W400
                 <p><b>Note</b>: Use this build after getting to <b>1e31 gems</b>. Swap A400 with A330 if A330 is bigger.
@@ -82,7 +82,7 @@
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
                 <p><b>Range</b>: <b>10 No (1e31) gems</b>
-                <p>S105,S150,S330,S400,S500,
+                <p>S150,S270,S330,S400,S500,
                 <p>C150,C251,C330,C340,C375,C400,
                 <p>D55,D200,D290,D320,D350,
                 <p>E135,E145,E275,E330,E460,
