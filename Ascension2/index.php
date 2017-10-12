@@ -88,7 +88,7 @@
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
-<p><b>Requirement</b>: Undead Union</p>
+<p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palace you own.</p>
 <p><b>Formula</b>: 1.5x^0.5, where x is amount of Mountain Palace owned.
 <p><b>----------------------------------</b></p>
