@@ -149,7 +149,7 @@
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" alt="Abyssal Furnace" align="middle"> <b>Abyssal Furnace</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
-<p><b>Requirement</b>: Fairies Union</p>
+<p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Burning Abysses you own. Higher tiers get better bonuses.</p>
 <p><b>Formula</b>: t^2*x^0.5, where x is Hall of legends count, T is building tier.
 <br/>
