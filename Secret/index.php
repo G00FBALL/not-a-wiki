@@ -270,6 +270,7 @@
 <p>Discover all the Mercenary researches.</p>
 <p><b>Cost</b>: 1 DSpq (1e219)
 <p><b>Effect</b>: Increase the production of all buildings based on research done.
+<p><b>Upgrade</b>: Good for Mercenary
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png" alt="Mana Waste" align="middle"> Mana Waste</b></p>
 <p>Have mana regeneration higher than max mana.</p>
