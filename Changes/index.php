@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<h6>Release date, October 12, 2017</h6>
+<h6>Release date, October 11, 2017</h6>
 <p><b>Trophies</b>
 <p><a target="" href="http://musicfamily.org/realm/TrophyPage/"><b>Trophy Map Page</b></a></p>
 <p>Added 12 Trophies<p>
@@ -107,7 +107,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
     <p><b>Requirement</b>: R90+
-    <p><b>Chance</b>: (1,000,000 seconds This Game)%
+    <p><b>Chance</b>: (x/1,000,000)%, where x is seconds this game.
     <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
 <br/>
 <br/>
