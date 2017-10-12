@@ -1784,6 +1784,7 @@
             <p><b>Cost</b>: 1 DSpg (1e219)
             <p><b>Effect</b>: Increase the production of all buildings based on research done.
             <p><b>Formula</b>: 0.3*x^0.7, where x is total of research done.
+            <p><b>Upgrade</b>: Good for Mercenary
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b></p>
             <p><b>Requirements</b>: 5000 Royal Exchanges
