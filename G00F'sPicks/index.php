@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <p>Hi I'm G00FBALL, Below you will find a list of my favorite builds
-    <p>I only use a few build to progress through the game. I do not claim that these are the best builds but just my personal favorites.</p>
+    <p>I only use a few builds to progress through the game. I do not claim that these are the best builds but just my personal favorites.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Harley Quinn <span style="font-size:100%;color:DarkRed;">R3+</span> <span style="font-size:125%;color:Gold;">&starf;</span> </a>4 Trophies</b></p>
