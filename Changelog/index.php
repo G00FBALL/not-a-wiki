@@ -5,7 +5,7 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the options window (In game).</p>
 <div class="shlisting">
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.0 October 10th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.0 October 11th, 2017</a></b></p>
         <div class="autohide">
                 <p><strong>Ascension 2</strong> will become available at Reincarnation 99 or higher. Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase.</p>
                 <p><em>When performing Ascension 2, all Lineages will be set back to level 25 if higher.</em></p>
