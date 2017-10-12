@@ -38,7 +38,7 @@ Reduc: Cost Reduction;
 <p>Resources used in Realm Grinder:
 <p><b>Mana</b>: A magic liquid necessary to cast spells.
 <h6>Currencies</h6>
-<p><b>Coins</b>: Gold or Diamond, depending if you have ascended or not.
+<p><b>Coins</b>: Gold, Diamond or Emerald, depending on which Ascension you are on.
 <p><b>Faction Coins</b>: of eight different types, each related to a faction.
 <p><b>Gems</b>: gained when soft-resetting, abdicating.
 <p><b>Rubies</b>: enables ruby power, but also lets the player buy some premium items without using Kreds.
