@@ -5,7 +5,7 @@
     <!--<style>table{border-collapse:collapse;}th,td{border: 1px solid #000000;}tr:hover {background-color: #ffffff}</style>-->
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Builds Updated by Namelessname 09-07-2017</b>
+    <p><b>Builds Updated Oct. 12 2017</b>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.
     <p>All of the builds up to R24 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
     <p>Vanilla Flavor Juice is mandatory.
