@@ -118,7 +118,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R21-22</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R21</font></a></b></p>
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
@@ -134,19 +134,19 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Goblin R23</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R22-23</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Faction</b>: Goblin
-                    <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: 1e87-1e97/e99
-                    <p><b>Duration</b>: 15min - 2h
-                    <p>S50,S105,S150,S200,S215,
-                    <p>C105,C120,C135,C150,C250,
-                    <p>D55,D135,D200,D245,D250,
-                    <p>E80,E135,E150,E200,E225,
-                    <p>A10,A105,A120,A150,A250,
-                    <p>W25,W120,W150,W180,W205
-                    <p><b>Autocasting</b>: BF on Bronze, SS on Silver, Rest on Gold
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Range</b>: 1e77-1e90
+                    <p><b>Duration</b>: 10-15 min
+                    <p>S105,S135,S180,S200,S215,
+                    <p>C80,C105,C120,C135,C150,
+                    <p>D55,D135,D200,D205,D225,
+                    <p>E50,E135,E145,E150,E200,
+                    <p>A30,A105,A120,A150,A250,
+                    <p>W120,W135,W150,W180,W250
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
                 </div>
             </div>
             <div class="shelementwhole">
