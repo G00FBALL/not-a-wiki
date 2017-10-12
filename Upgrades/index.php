@@ -345,7 +345,7 @@
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png" alt="Mana Spring" align="middle"> Mana Spring</b></p>
             <p><b>Cost</b>: Free
-            <p><b>Requirement</b>: 100 T (1E14) mana produced, R40+</p>
+            <p><b>Requirement</b>: 100 T (1E14) mana produced, R100+</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana regeneration by +10.00.
             <p><b>------------------------------</b></p>
