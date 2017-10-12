@@ -271,13 +271,13 @@
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-    <p><b>Chance</b>: Total Lineage levels/2000
+    <p><b>Chance</b>: Total Lineage levels/20
     <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
     <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
     <p><b>Cost</b>: 10 Dtg (1e100)
     <p><b>----------------------------------</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part 2</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part 2" align="middle"><b> Know Your Enemy, Part 2</b></p>
     <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.
     <p><b>Requirement</b>: R76, Upgrade from all 12 Factions
     <p><b>Chance</b>: 5%
@@ -289,7 +289,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
     <p><b>Requirement</b>: R90+
-    <p><b>Chance</b>: (1,000,000 seconds This Game)%
+    <p><b>Chance</b>: (x/1,000,000)%, where x is seconds this game
     <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
