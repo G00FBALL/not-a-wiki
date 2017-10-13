@@ -50,7 +50,7 @@
 <p><b>Evil</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
-<p><b>Requirement</b>: 45000 offline bonus</p>
+<p><b>Requirement</b>: 85M% offline production bonus</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"> <b>Undead</b></p>
 <p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.
