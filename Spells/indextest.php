@@ -100,11 +100,11 @@
         <form style="background-color:#b3bcc6">
             <table id="calcformtiers" border="0">
                 <tr>
-                    <td>Tier:</td>
+                    <td>Tiers</td>
                     <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
                 </tr>
                 <tr>
-                    <td>Arcane Brillance trophies:</td>
+                    <td>Arcane Brillance trophies</td>
                     <td><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
                 </tr>
                 <tr>
@@ -164,8 +164,8 @@
             }
 
             function commitMainTable(Rmin, Rmax, AB, Tmin, Tmax) {
-                minReinc = clamp(parseInt(Rmin), 40, 157);
-                maxReinc = clamp(parseInt(Rmax), 40, 157);
+                minReinc = Math.max(parseInt(Rmin), 40);
+                maxReinc = Math.max(parseInt(Rmax), 40);
                 arcane = clamp(parseInt(AB), 0, 6);
                 minTier = clamp(parseInt(Tmin), 2, 7);
                 maxTier = clamp(parseInt(Tmax), 2, 7);
