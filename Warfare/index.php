@@ -104,7 +104,7 @@
     <p><B>Formula</B>: round(15 * x^0.8)%, where x is the amount of excavations made.
     <p><b>----------------------------------</b></p>
     <p><b>W320</b> - <b>For</b> Any - <B>Research Name</B> Shattering
-    <p><B>Requirement</B>: 2,750 Excavations
+    <p><B>Requirement</B>: 2,650 Excavations
     <p><B>Cost</B>: 1.117 NoQig (1.117E180)
     <p><B>Effect</B>: Increase your clicking reward based on the amount of Excavations you made.
     <p><B>Formula</B>: round(10 * x^0.75)%, where x is the amount of excavations made.
