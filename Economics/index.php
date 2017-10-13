@@ -169,7 +169,7 @@
 <p><B>Requirement</B>: 2592000s Time Spent (10 days with Titan, Druid and Faceless), Research A545, D245 (Total all R's)
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase Gem Grinder bonus based on the amount of artifacts you found.
-<p><B>Formula</B>: 1.5 * x^1.5, where x is artifacts found. (multiplicative)
+<p><B>Formula</B>: 1.75 * x ^ 1.75, where x is artifacts found. (multiplicative)
 <p><b>----------------------------------</b></p>
 <p><b>E3250</b> - <b>For</b> Mercenary - <B>Research Name</B> Estates
 <p><B>Requirement</B>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).
