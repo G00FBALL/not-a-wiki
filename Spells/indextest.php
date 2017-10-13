@@ -94,8 +94,8 @@
             Tier:<input type="number" min="2" max="7" maxlength="1" name="tmin" id="tmin" value="2">
             To Tier:<input type="number" min="2" max="7" maxlength="1" name="tmax" id="tmax" value="6">
             <label title="Number of Arcane Brillance trophies">AB:</label><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0">
-            From R:<input type="number" min="42" max="120" maxlength="3" name="rmin" id="rmin" value="42">
-            To R:<input type="number" min="42" max="120" maxlength="3" name="rmax" id="rmax" value="50">
+            From R:<input type="number" min="40" max="157" maxlength="3" name="rmin" id="rmin" value="40">
+            To R:<input type="number" min="40 max="157" maxlength="3" name="rmax" id="rmax" value="50">
             <input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)">
         </form>
         <table>
@@ -117,7 +117,7 @@
             var minTier = 2;
             var maxTier = 6;
             var arcane = 0;
-            var minReinc = 42;
+            var minReinc = 40;
             var maxReinc = 50;
             if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
                 minTier = parseInt(localStorage.getItem('mint'));
@@ -145,8 +145,8 @@
             }
 
             function commitMainTable(Rmin, Rmax, AB, Tmin, Tmax) {
-                minReinc = clamp(parseInt(Rmin), 42, 120);
-                maxReinc = clamp(parseInt(Rmax), 42, 120);
+                minReinc = clamp(parseInt(Rmin), 40, 157);
+                maxReinc = clamp(parseInt(Rmax), 40, 157);
                 arcane = clamp(parseInt(AB), 0, 6);
                 minTier = clamp(parseInt(Tmin), 2, 7);
                 maxTier = clamp(parseInt(Tmax), 2, 7);
@@ -217,8 +217,8 @@
         Their duration, resource gain, mana-cost, and mana regeneration speed can be altered by getting specific Faction, Heritage, Challenge, or Research upgrades. Different aspects of the spells can also be used in other upgrades (eg: while a spell is active, the number of spell casts, based on mana produced, etc.).</p>
     <p>The trick to use spells efficiently relies on finding the best setting: Which spell combination to cast, at what timing, with which automatic-casting tool, and where to set the contingency arrow. Like for upgrades, these choices can make a crucial difference for your game progress.</p>
     <p><b>------------------------------</b>
-    <p><b>Tier Spell Upgrades (R42+)</p></b>
-    <p><b>From R42+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
+    <p><b>Tier Spell Upgrades (R40+)</p></b>
+    <p><b>From R40+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.
     <p><b>From R100+</b>, for each default spell, 6 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 7 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast 2 random Dragon's Breath spell for the 7th tier.
@@ -337,7 +337,7 @@
                     $('#SSCal tr:eq(0) > th:not(:eq(2))').attr('rowspan', '2');
                     $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
                     $('tr.ResUnl').css('display', 'table-row');
-                    if (rei >= 42) {
+                    if (rei >= 40) {
                         tie = parseInt($('#SSCalTie').val());
                         $('.SSCalTieHid').css('display', 'table-cell');
                     } else {
