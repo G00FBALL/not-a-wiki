@@ -7,8 +7,9 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-<p><b>All builds have been updated as of June, 3rd 2017.</b></p>
-<p>Most builds will <b>Require</b> Lineage Level 15+</p>
+    <h6>Page Outdated, New Builds Coming Soon</h6>
+
+        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
 <p><b>As of version 3.0, most of the builds in this page are obsolete, this page is currently undergoing changes</b></p>
 <br/>
 <br/>
