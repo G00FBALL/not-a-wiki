@@ -271,7 +271,7 @@
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-    <p><b>Chance</b>: Total Lineage levels/20
+    <p><b>Chance</b>: (Total Lineage levels/20)%
     <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
     <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
