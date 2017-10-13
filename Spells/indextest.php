@@ -43,6 +43,10 @@
             background-color: #b3bcc6;
             color: black;
         }
+        #calcformtiers td input {
+            width: 100%;
+            box-sizing: border-box;
+        }
     </style>
     <?php include "../scripts/header.html"; ?>
     <br/>
@@ -91,12 +95,28 @@
             Input the Tier and the R you want to unlock it at then click Show
         </form>
         <form style="background-color:#b3bcc6">
-            Tier:<input type="number" min="2" max="7" maxlength="1" name="tmin" id="tmin" value="2">
-            To Tier:<input type="number" min="2" max="7" maxlength="1" name="tmax" id="tmax" value="6">
-            <label title="Number of Arcane Brillance trophies">AB:</label><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0">
-            From R:<input type="number" min="40" max="157" maxlength="3" name="rmin" id="rmin" value="40">
-            To R:<input type="number" min="40 max="157" maxlength="3" name="rmax" id="rmax" value="50">
-            <input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)">
+            <table id="calcformtiers" border="0">
+                <tr>
+                    <td>From tier:</td>
+                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2"></td>
+                    <td>To tier:</td>
+                    <td><input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
+                </tr>
+                <tr>
+                    <td>Arcane Brillance trophies:</td>
+                    <td><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
+                </tr>
+                <tr>
+                    <td>From R:</td>
+                    <td><input type="number" min="40" max="157" name="rmin" id="rmin" value="40"></td>
+                    <td>To R:</td>
+                    <td><input type="number" min="40 max="157" name="rmax" id="rmax" value="50"></td>
+                </tr>
+                <tr>
+                    <td colspan="4"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
+                </tr>
+
+            </table>
         </form>
         <table>
             <thead>
@@ -819,7 +839,7 @@
     <p><b><font color="white">White</b></font>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
     <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7)
     <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-    <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time. 
+    <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b>
     <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
     <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds
