@@ -138,7 +138,7 @@
             var arcane = 0;
             var minReinc = 40;
             var maxReinc = 50;
-            if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
+            if (localStorage && (parseInt(localStorage.getItem('mint')) > 2) && (parseInt(localStorage.getItem('maxt')) > 6) && (parseInt(localStorage.getItem('minr')) > 40) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 50)) {
                 minTier = parseInt(localStorage.getItem('mint'));
                 maxTier = parseInt(localStorage.getItem('maxt'));
                 arcane = (parseInt(localStorage.getItem('ab')) > 0) ? parseInt(localStorage.getItem('ab')) : 0;
