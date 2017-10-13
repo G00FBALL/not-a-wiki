@@ -92,10 +92,10 @@
         </form>
         <form style="background-color:#b3bcc6">
             Tier:<input type="number" min="2" max="7" maxlength="1" name="tmin" id="tmin" value="2">
-            To Tier:<input type="number" min="2" max="7" maxlength="1" name="tmax" id="tmax" value="7">
+            To Tier:<input type="number" min="2" max="7" maxlength="1" name="tmax" id="tmax" value="6">
             <label title="Number of Arcane Brillance trophies">AB:</label><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0">
-            From R:<input type="number" min="42" max="105" maxlength="3" name="rmin" id="rmin" value="42">
-            To R:<input type="number" min="42" max="105" maxlength="3" name="rmax" id="rmax" value="105">
+            From R:<input type="number" min="42" max="120" maxlength="3" name="rmin" id="rmin" value="42">
+            To R:<input type="number" min="42" max="120" maxlength="3" name="rmax" id="rmax" value="50">
             <input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)">
         </form>
         <table>
@@ -115,7 +115,7 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
         <script>
             var minTier = 2;
-            var maxTier = 7;
+            var maxTier = 6;
             var arcane = 0;
             var minReinc = 42;
             var maxReinc = 50;
@@ -145,8 +145,8 @@
             }
 
             function commitMainTable(Rmin, Rmax, AB, Tmin, Tmax) {
-                minReinc = clamp(parseInt(Rmin), 42, 105);
-                maxReinc = clamp(parseInt(Rmax), 42, 105);
+                minReinc = clamp(parseInt(Rmin), 42, 120);
+                maxReinc = clamp(parseInt(Rmax), 42, 120);
                 arcane = clamp(parseInt(AB), 0, 6);
                 minTier = clamp(parseInt(Tmin), 2, 7);
                 maxTier = clamp(parseInt(Tmax), 2, 7);
@@ -182,7 +182,7 @@
                         }
                         var cell = row.insertCell(-1);
                         cell.style.textAlign = "center";
-                        if (j<7 || i >= 100) {
+                        if ((j<7 || i >= 100) && j-1 > arcane) {
                             cell.innerHTML =
                                 (( Math.floor(Days) > 0 ) ? Math.floor(Days) + "d" : "") +
                                 (( Math.floor(Hours) > 0 ) ? " " + Math.floor(Hours) + "h" : "") +
