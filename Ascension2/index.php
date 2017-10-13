@@ -134,7 +134,7 @@
 <p><b>Evil</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
-<p><b>Requirement</b>: 180 seconds long Call to Arms.</p>
+<p><b>Requirement</b>: 130 seconds long Call to Arms.</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"> <b>Demons</b></p>
 <p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
