@@ -9,7 +9,7 @@
     <br/>
     <h6>Page Outdated, New Builds Coming Soon</h6>
 
-        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
+        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
     <p>A guide for post-Ascension progression can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/858173-guide-for-post-ascension-progressing-from-r40-to-r75"><b>here</b></a></p>
     <div class="shlisting">
         <div class="shelementwhole">
