@@ -210,7 +210,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk2.png" alt="DemonPerk2" align="middle"><b> Demon Perk 2</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 15.
     <p><b>Effect</b>: Unlocks Demon Lineage Challenge.
-    <p><b>Challenge</b>: 10 days of HFB activity time this game.
+    <p><b>Challenge</b>: 10 days of HFB activity time All game.
     <p><b>Effect</b>: Unlocks Faction spell. (Hellfire Blast)
     <p><b>Level 20</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk3.png" alt="DemonPerk3" align="middle"><b> Demon Perk 3</b></p>
