@@ -54,5 +54,5 @@
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/VersaltileComboChallenges.png" alt="Spell Upgrade Versatile Combo" align="middle"> <b>Spell Upgrade Versatile Combo</b></p>
 <p>Increase Combo Strike counter based on the amount of spells cast in this game, not including Tax Collection.
-<p>New Combo Strike Counter Formula: C - C<sub>tax</sub>, where C is your Spells Cast (This Game) stat and C<sub>tax</sub> is your Tax Collection Cast This Game.
+<p>New Combo Strike Counter Formula: 10 * log10(1 + (y * 30)) + x, where x is your Combo Strike cast count and y is every other spell (except tax collection) cast count.
 <?php include "../scripts/footer.html"; ?>
