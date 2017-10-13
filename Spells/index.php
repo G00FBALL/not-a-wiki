@@ -43,6 +43,13 @@
             background-color: #b3bcc6;
             color: black;
         }
+        #calcformtiers td input {
+            width: 100px;
+            box-sizing: border-box;
+        }
+        #calcformtiers td {
+            width: 50%;
+        }
     </style>
     <?php include "../scripts/header.html"; ?>
     <br/>
@@ -91,11 +98,24 @@
             Input the Tier and the R you want to unlock it at then click Show
         </form>
         <form style="background-color:#b3bcc6">
-            Tier : <input type="number" min="2" max="6" maxlength="1" name="tmin" id="tmin" value="2">
-            To Tier : <input type="number" min="2" max="6" maxlength="1" name="tmax" id="tmax" value="6">
-            From R : <input type="number" min="42" max="105" maxlength="3" name="rmin" id="rmin" value="42">
-            To R : <input type="number" min="42" max="105" maxlength="3" name="rmax" id="rmax" value="105">
-            <input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,tmin.value,tmax.value)">
+            <table id="calcformtiers" border="0">
+                <tr>
+                    <td>Tiers</td>
+                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
+                </tr>
+                <tr>
+                    <td>Arcane Brillance trophies</td>
+                    <td><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
+                </tr>
+                <tr>
+                    <td>Reincarnations</td>
+                    <td><input type="number" min="40" max="157" name="rmin" id="rmin" value="40">-<input type="number" min="40" max="157" name="rmax" id="rmax" value="50"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
+                </tr>
+
+            </table>
         </form>
         <table>
             <thead>
@@ -115,11 +135,13 @@
         <script>
             var minTier = 2;
             var maxTier = 6;
-            var minReinc = 42;
+            var arcane = 0;
+            var minReinc = 40;
             var maxReinc = 50;
             if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
                 minTier = parseInt(localStorage.getItem('mint'));
                 maxTier = parseInt(localStorage.getItem('maxt'));
+                arcane = (parseInt(localStorage.getItem('ab')) > 0) ? parseInt(localStorage.getItem('ab')) : 0;
                 minReinc = parseInt(localStorage.getItem('minr'));
                 maxReinc = parseInt(localStorage.getItem('maxr'));
             }
@@ -141,16 +163,18 @@
                 }
             }
 
-            function commitMainTable(Rmin, Rmax, Tmin, Tmax) {
-                minReinc = (Rmin >= 42) ? parseInt(Rmin) : 42;
-                maxReinc = parseInt(Rmax);
-                minTier = (Tmin >= 2) ? parseInt(Tmin) : 2;
-                maxTier = parseInt(Tmax);
+            function commitMainTable(Rmin, Rmax, AB, Tmin, Tmax) {
+                minReinc = Math.max(parseInt(Rmin), 40);
+                maxReinc = Math.max(parseInt(Rmax), 40);
+                arcane = clamp(parseInt(AB), 0, 6);
+                minTier = clamp(parseInt(Tmin), 2, 7);
+                maxTier = clamp(parseInt(Tmax), 2, 7);
                 if (localStorage) {
-                    localStorage.setItem('mint', clamp(minTier, 2));
-                    localStorage.setItem('maxt', clamp(maxTier, 6));
-                    localStorage.setItem('minr', clamp(minReinc, 42));
-                    localStorage.setItem('maxr', clamp(maxReinc, 42));
+                    localStorage.setItem('mint', minTier);
+                    localStorage.setItem('maxt', maxTier);
+                    localStorage.setItem('ab', arcane);
+                    localStorage.setItem('minr', minReinc);
+                    localStorage.setItem('maxr', maxReinc);
                 }
                 commitInput();
                 commitMainHead();
@@ -161,7 +185,8 @@
                     cellR.innerHTML = "R" + i;
                     cellR.style.textAlign = "center";
                     for (j = minTier; j <= maxTier; j++) {
-                        var Generator = ( Math.pow(j, 2) - j ) * Math.pow(0.98, i - j - 42);
+                        var t = j - clamp(0.5 * arcane, 0, j-2);
+                        var Generator = ( Math.pow(t, 2) - t ) * Math.pow(0.98, i - t - 42);
                         var Days = Math.floor(0.5 * Generator);
                         var Hours = Math.floor(12 * Generator) - 24 * Days;
                         var Minutes = Math.round(720 * Generator) - ( 24 * 60 * Days + 60 * Hours );
@@ -176,10 +201,14 @@
                         }
                         var cell = row.insertCell(-1);
                         cell.style.textAlign = "center";
-                        cell.innerHTML =
-                            (( Math.floor(Days) > 0 ) ? Math.floor(Days) + "d" : "") +
-                            (( Math.floor(Hours) > 0 ) ? " " + Math.floor(Hours) + "h" : "") +
-                            (( Math.floor(Minutes) > 0 ) ? " " + Math.floor(Minutes) + "m" : "");
+                        if ((j<7 || i >= 100) && j-1 > arcane) {
+                            cell.innerHTML =
+                                (( Math.floor(Days) > 0 ) ? Math.floor(Days) + "d" : "") +
+                                (( Math.floor(Hours) > 0 ) ? " " + Math.floor(Hours) + "h" : "") +
+                                (( Math.floor(Minutes) > 0 ) ? " " + Math.floor(Minutes) + "m" : "");
+                        } else {
+                            cell.innerHTML = "N/A";
+                        }
                     }
                 }
             }
@@ -187,16 +216,17 @@
             function commitInput() {
                 document.getElementById("tmin").value = minTier;
                 document.getElementById("tmax").value = maxTier;
+                document.getElementById("ab").value = arcane;
                 document.getElementById("rmin").value = minReinc;
                 document.getElementById("rmax").value = maxReinc;
             }
-            commitMainTable(minReinc, maxReinc, minTier, maxTier);
+            commitMainTable(minReinc, maxReinc, arcane, minTier, maxTier);
 
             //handler for enter button on input not using submit button
             $(function () {
                 $("form input").keypress(function (e) {
                     if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13))
-                        commitMainTable(rmin.value, rmax.value, tmin.value, tmax.value);
+                        commitMainTable(rmin.value, rmax.value, ab.value, tmin.value, tmax.value);
                 });
             });
         </script>
@@ -206,8 +236,8 @@
         Their duration, resource gain, mana-cost, and mana regeneration speed can be altered by getting specific Faction, Heritage, Challenge, or Research upgrades. Different aspects of the spells can also be used in other upgrades (eg: while a spell is active, the number of spell casts, based on mana produced, etc.).</p>
     <p>The trick to use spells efficiently relies on finding the best setting: Which spell combination to cast, at what timing, with which automatic-casting tool, and where to set the contingency arrow. Like for upgrades, these choices can make a crucial difference for your game progress.</p>
     <p><b>------------------------------</b>
-    <p><b>Tier Spell Upgrades (R42+)</p></b>
-    <p><b>From R42+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
+    <p><b>Tier Spell Upgrades (R40+)</p></b>
+    <p><b>From R40+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.
     <p><b>From R100+</b>, for each default spell, 6 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 7 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast 2 random Dragon's Breath spell for the 7th tier.
@@ -326,7 +356,7 @@
                     $('#SSCal tr:eq(0) > th:not(:eq(2))').attr('rowspan', '2');
                     $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
                     $('tr.ResUnl').css('display', 'table-row');
-                    if (rei >= 42) {
+                    if (rei >= 40) {
                         tie = parseInt($('#SSCalTie').val());
                         $('.SSCalTieHid').css('display', 'table-cell');
                     } else {
@@ -808,7 +838,7 @@
     <p><b><font color="white">White</b></font>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
     <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7)
     <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-    <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time. 
+    <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b>
     <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
     <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds
