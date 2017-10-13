@@ -164,7 +164,7 @@
 <p><B>Formula</B>: 0.35 * x, where x is iron strongholds owned
 <p><b>----------------------------------</b></p>
 <p><b>A1325</b> - <b>For</b>  Any - <B>Research Name</B> Calefaction
-<p><B>Requirement</B>: 5500 Excavations (This R)
+<p><B>Requirement</B>: 4500 Excavations (This R)
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase mana regeneration based on the amount of excavations made.
 <p><B>Formula</B>:  floor(0.25 * x), where x is current excavations
