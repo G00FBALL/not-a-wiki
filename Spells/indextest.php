@@ -44,8 +44,11 @@
             color: black;
         }
         #calcformtiers td input {
-            width: 100%;
+            width: 100px;
             box-sizing: border-box;
+        }
+        #calcformtiers td {
+            width: 50%;
         }
     </style>
     <?php include "../scripts/header.html"; ?>
@@ -97,23 +100,19 @@
         <form style="background-color:#b3bcc6">
             <table id="calcformtiers" border="0">
                 <tr>
-                    <td>From tier:</td>
-                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2"></td>
-                    <td>To tier:</td>
-                    <td><input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
+                    <td>Tier:</td>
+                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
                 </tr>
                 <tr>
                     <td>Arcane Brillance trophies:</td>
                     <td><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
                 </tr>
                 <tr>
-                    <td>From R:</td>
-                    <td><input type="number" min="40" max="157" name="rmin" id="rmin" value="40"></td>
-                    <td>To R:</td>
-                    <td><input type="number" min="40 max="157" name="rmax" id="rmax" value="50"></td>
+                    <td>Reincarnations</td>
+                    <td><input type="number" min="40" max="157" name="rmin" id="rmin" value="40">-<input type="number" min="40" max="157" name="rmax" id="rmax" value="50"></td>
                 </tr>
                 <tr>
-                    <td colspan="4"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
+                    <td colspan="2"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
                 </tr>
 
             </table>
