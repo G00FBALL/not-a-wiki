@@ -12,8 +12,7 @@
 <p><b>Effect</b>: You gain assistants based on the amount of Fairy afflicated (faction upgrades, heritage, bloodline, research) upgrades you own.</p>
 <p><b>Formula</b>: x ^ 1.75 where x is amount of Fairy afflicated upgrades.
 <p><b>Upgrade</b>: Good for Fairy</b>
-<p><b>Tips</b>
-<p>Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>
+<p><b>Tips:</b> Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>
 <p><b>------------------------------</b>
 <p><b>Fairy Challenge 2</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png" alt="Donations</p>" align="middle"> <b>Donations</b></p>
