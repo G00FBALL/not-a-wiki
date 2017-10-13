@@ -192,7 +192,7 @@
 <p><b>Good</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
-<p><b>Requirement</b>: 1e23K Elf Faction Coins found.</p>
+<p><b>Requirement</b>: 1e23 Elf Faction Coins found.</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"> <b>Elves</b></p>
 <p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
