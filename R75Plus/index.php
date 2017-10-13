@@ -101,7 +101,7 @@
                 <p>S215,S305,S400,S500,S1450,S1500,
                 <p>C250,C340,C400,C590,C1300,C1325,
                 <p>D25,D200,D245,D250,D1275,D2775,
-                <p>E135,E145,E275,E460,E590,E1425,
+                <p>E135,E275,E320,E460,E590,E1425,
                 <p>A105,A120,A305,A375,A1325,A1500,
                 <p>W150,W180,W250,W275,W400,W1375
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>Forum</b></a> post</p>
