@@ -6,8 +6,9 @@
     <BR/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
-    <p><b>All builds have been updated as of June, 3rd 2017.</b>
-    <p>All builds come from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
+    <h6>Page Outdated, New Builds Coming Soon</h6>
+
+        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
     <br/>
     <br/>
     <div class="shlisting">
