@@ -165,7 +165,7 @@
     <p><B>Effect</B>: Increase the production of each building by + 0.3% per building of the same type.
     <p><b>----------------------------------</b></p>
     <p><b>D1375</b> - <b>For</b> Any - <B>Research Name</B> Sanctification
-    <p><B>Requirement</B>: 24 hours spent as good (Across all R's)
+    <p><B>Requirement</B>: 7 days spent as good (Across all Rs)
     <p><B>Requirement</B>: Post Ascension Only
     <p><B>Effect</B>: Increase the production of Unique Buildings based on the amount of Non-Unique buildings you own.
     <p><B>Formula</B>: 2.5*x^0.55, where x is non-unique building owned.
