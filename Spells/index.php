@@ -70,32 +70,12 @@
         <script src='/realm/scripts/tiers/util.js'></script>
         <script src='/realm/scripts/tiers/index.js'></script>
         <div class='container' id='app'>
-            <br/>
-            <b class='page-header' style="padding-left: 40px">What Tiers do you have unlocked?</b>
-            <div class='input-group-btn'>
-                <!--                <button id='doReEnter' class='btn btn-success' type='button'>Re-Enter save</button>
-                <button id='doSaveCopy' class='btn btn-info' type='button'>Copy save</button>
-                <button id='doSaveClear' class='btn btn-danger' type='button' >Clear save</button> -->
-            </div>
-            <div class='panel panel-primary'>
-                <div class='panel-body'>
-                    <div class='input-group panelSaveInput'>
-                        <label id='saveInputLabel' class='input-group-addon' for='saveInput'><b>Input Save</b>
-                            <input id='saveInput' class='form-control' type='text' name='saveInput' value=''>
-                            <button id='doSaveClear' class='btn btn-danger' type='button'><b>Clear save</b></button>
-                    </div>
-                </div>
-            </div>
-            <ul>
-                <li v-for='s in spells' , :style='{fontWeight: s.unlocked != 4?"bold":"normal"}'>
-                    {{s.name}}: {{s.unlocked + 1}}
-                </li>
-            </ul>
         </div>
     </div>
     <b id="tiertimes" class="calculator">
+<br/>
         <form style="background-color:#b3bcc6">
-            Input the Tier and the R you want to unlock it at then click Show
+            Input the Tier and R you want to unlock it at then click Show
         </form>
         <form style="background-color:#b3bcc6">
             <table id="calcformtiers" border="0">
