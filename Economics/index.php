@@ -157,7 +157,7 @@
 <p><B>Requirement</B>: 1T Faction Coins (Found this game), Affiliated Dragon
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Reduce Ascension penalty for Royal Exchanges.
-<p><B>Formula</B>: ((((((bonus per RE as %)^2(if E1225))*number of REs)/100)+1)^0.1.
+<p><B>Formula</B>: ((((((bonus per RE as %)^0.2(if E1225))*number of REs)/100)+1)^0.1(if not E1225).
 <p><b>----------------------------------</b></p>
 <p><b>E1325</b> - <b>For</b> Any - <B>Research Name</B> Intimidation
 <p><B>Requirement</B>: 18000 Unique Buildings
