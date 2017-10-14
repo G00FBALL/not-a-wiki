@@ -8,10 +8,10 @@
     <br/>
     <br/>
         <p><b>Updated Saturday 14th 2017</p></b>
-        <p>A guide for post-Ascension progression can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/858173-guide-for-post-ascension-progressing-from-r40-to-r75"><b>here</b></a></p>
+        <p><b>Note</b>: It is recommended to get at least 10 No (1e31) gems before starting stage 3 of Dragon Unlocks, 100 No (1e32) will be quicer for unlock stages. </p>
     <div class="shlisting">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) Production R40-R46 <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) Production <font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
@@ -24,6 +24,38 @@
                 <p>A105,A120,A250,A330,A400,
                 <p>W150,W180,W290,W320,W330,W400
             </div>
+        </div>
+        <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (GG2/LS2)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                                <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Faction</b>: Titan
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: ? gems - ?
+                <p>S150,S250,S270,S330,S500,
+                <p>C150,C251,C330,C340,C375,C400,
+                <p>D55,D200,D290,D320,D350,
+                <p>E135,E145,E275,E400,E460,
+                <p>A105,A120,A250,A330,A400,
+                <p>W150,W180,W290,W320,W330,W400
+                <p><b>Notes</b>: Swap A330 with A150 if 1 hour run or more.
+                </div>
+        </div>
+        <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (SS2 Alternative)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                                <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Faction</b>: Titan
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e28 (10 Oc) gems - ?
+                <p>S105,S150,S215,S330,S500,
+                <p>C150,C251,C330,C340,C375,C400,
+                <p>D55,D200,D245,D290,D320,
+                <p>E135,E145,E275,E320,E400,
+                <p>A105,A120,A150,A250,A400,
+                <p>W150,W180,W290,W320,W330,W400
+                <p><b>Notes</b>: Requires 3 hours to unlock SS6. Not recommended for runs of over 9 hours (beaten by the original SS2 build). Swap S500 with S400 if higher.
+                </div>
         </div>
         <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 Unlock + S400 buff<font color="Blue"> Good</font></a></b></p>
@@ -58,7 +90,7 @@
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
-                <p><b>Range</b>: E29 - ?
+                <p><b>Range</b>: 1e27 (1 Oc) gems - ?
                 <p>S150,S215,S250,S330,S500,
                 <p>C150,C251,C330,C340,C375,C400,
                 <p>D55,D200,D245,D290,D320,
