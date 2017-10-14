@@ -165,7 +165,7 @@
 <p><b>Requirement</b>: Forbidden Library Quest</p>
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x %10 + 2)) ^ 1.5)%, where x is spells cast.
+<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins
 <p><b>Requirement</b>: Forbidden Library Unique Building</p>
