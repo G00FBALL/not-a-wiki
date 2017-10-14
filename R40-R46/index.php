@@ -38,7 +38,7 @@
         </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 Unlock <font color="DarkRed">Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 Unlock <font color="Blue">Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Fairy/Dwarf
@@ -53,7 +53,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (SS2)/Dragon Stage 4 unlock build <font color="Blue">Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (SS2)/Dragon Stage 4 unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
