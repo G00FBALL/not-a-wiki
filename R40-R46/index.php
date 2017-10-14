@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-        <p><b>Updated Saturday 14th 2017</p></b>
+        <p><b>Updated October 14th 2017</p></b>
         <p><b>Note</b>: It is recommended to get at least 10 No (1e31) gems before starting stage 3 of Dragon Unlocks, 100 No (1e32) will be quicker for unlock stages. </p>
     <div class="shlisting">
         <div class="shelementwhole">
