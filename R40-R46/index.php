@@ -10,8 +10,9 @@
         <p><b>Updated October 14th 2017</p></b>
         <p><b>Note</b>: It is recommended to get at least 10 No (1e31) gems before starting stage 3 of Dragon Unlocks, 100 No (1e32) will be quicker for unlock stages. </p>
     <div class="shlisting">
+                <p><b>Production</b>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) Production <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
@@ -55,10 +56,14 @@
                 <p>A105,A120,A150,A250,A400,
                 <p>W150,W180,W290,W320,W330,W400
                 <p><b>Notes</b>: Requires 3 hours to unlock SS6. Not recommended for runs of over 9 hours (beaten by the original SS2 build). Swap S500 with S400 if higher.
-                </div>
-        </div>
+         </div>
+    </div>
+            </div>
+                    <br/>
+    <p><b>Unlock Builds</b></p>
+    <div class="category">
         <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 Unlock + S400 buff<font color="Blue"> Good</font></a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 + S400 buff<font color="Blue"> Good</font></a></b></p>
                                 <div class="autohide">
         <p><b>Author</b>: Artcrow
         <p><b>Faction</b>: Good Mercenary
@@ -70,7 +75,7 @@
         </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 Unlock <font color="Blue">Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 <font color="Blue">Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Fairy/Dwarf
@@ -85,7 +90,6 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (SS2)/Dragon Stage 4 unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
