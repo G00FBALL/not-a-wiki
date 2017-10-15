@@ -186,7 +186,7 @@
                     cellR.style.textAlign = "center";
                     for (j = minTier; j <= maxTier; j++) {
                         var t = j - 0.5 * arcane;
-                        var Generator = (t ** 2 - t) * 0.98 ** (i - (t + 0.5) - 42);
+                        var Generator = (t ** 2 - t) * 0.98 ** (i - (t - 0.5) - 42);
                         var Days = Math.floor(0.5 * Generator);
                         var Hours = Math.floor(12 * Generator) - 24 * Days;
                         var Minutes = Math.round(720 * Generator) - ( 24 * 60 * Days + 60 * Hours );
@@ -246,7 +246,7 @@
     <p><b>Offline bonus for spell tier</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.
     <p><b>Unlock Formulas</b>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)
-    <p>Time for tier n: Formula: 43200 * ((n - 0.5 * A) ^ 2 - (n - 0.5 * A)) * 0.98 ^ (R - (n - 0.5 * (A - 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.
+    <p>Time for tier n: Formula: 43200 * ((n - 0.5 * A) ^ 2 - (n - 0.5 * A)) * 0.98 ^ (R - (n - 0.5 * (A + 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.
 
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
     <p>Faction Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
