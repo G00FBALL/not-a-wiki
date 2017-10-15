@@ -106,7 +106,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Flesh Workshop (Undead UB2) Quest ? gems<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Lapare
+                    <p><b>Author</b>: ensteffahn
                     <p><b>Faction</b>: Undead
                     <p><b>Bloodline</b>: Drow
                     <p><b>Research Template</b>
@@ -117,6 +117,21 @@
                     <p>A1,A175,A3400,
                     <p>W50,W205
                     <p><b>Notes</b>: Put TC on silver (contingency at 100%), Temporal Flux and all other spells/spell tiers, that cost at most ~2500 mana on bronze. After you have gotten a sufficient amount of spell tiers (most likely SS3 and rest at 6), get to max mana and cast all spells. If you don't get quite enough, wait a bit longer for Temporal Flux to build up more. should take at most 30 minutes.
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ziggurat (Druid UB2) Quest e31 gems<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Faction</b>: Druid
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Research Template</b>
+                    <p>S3200,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>A251,A375,
+                    <p>A400,W350,
+                    <p>W1375
         </div>
     </div>
 </div>
