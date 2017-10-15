@@ -28,6 +28,7 @@
                 <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
             </div>
         </div>
+        </div>
 
         <div class="shlisting">
     <p><b>Mercenary Unique Building Unlock</b></p>
