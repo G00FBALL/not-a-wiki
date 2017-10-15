@@ -31,7 +31,6 @@
                 <p><b>Note</b>: Requires excavations to set up for demon lineage.
                 </div>
         </div>
-        </div>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
