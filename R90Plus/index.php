@@ -97,20 +97,27 @@
          </div>
     </div>
                     <br/>
-    <p><b>Mercenary Unique Building Unlock</b></p>
+    <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Balance Elemental (Mana Builder for GB11)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Tskami_ek
-                <p><b>Note</b>: Using Dragless: Get to 1e90+  (1 NoVg) gems, Excavate to 8000 for the Obsidian Shard.
-                    <br/>
-                <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Goblin
-                <p><b>Merc Template</b>
-                <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
-                <p>SP:Fairy Chanting,SP:God's Hand
-                <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
+                    <p><b>Author</b>: Lapare
+                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Range</b>: 1e90 (1 NoVg gems)(?)
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>A2950</b>: Elf
+                    <p><b>Merc Template</b>
+                    <p>EL7,AN3,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG6,DG9,
+                    <p>SP:God's Hand,SP:Fairy Chanting
+                    <p><b>Research Template</b>
+                    <p>S215,S305,S400,S1450,S1500,S3200,
+                    <p>C250,C400,C590,C1300,C3000,C3100,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>W275,W400,W560,W1375,W1400,W3050
             </div>
         </div>
     </div>
