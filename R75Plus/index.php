@@ -267,7 +267,6 @@
                 <p>W275,W400,W560,W1400,W3050,W3150
             </div>
         </div>
-    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -293,7 +292,6 @@
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
-        </div>
         </div>
             
             
