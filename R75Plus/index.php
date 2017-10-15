@@ -246,7 +246,6 @@
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
-         </div>
    <br/>
             
               <p><b>Lineage Leveling</b></p>
@@ -271,7 +270,6 @@
                 <p>W275,W400,W560,W1400,W3050,W3150
             </div>
         </div>
-          </div>
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -298,7 +296,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-          </div>
      <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -324,7 +321,6 @@
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
-        </div>
         </div>
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
