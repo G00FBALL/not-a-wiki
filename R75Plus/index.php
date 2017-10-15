@@ -158,22 +158,6 @@
             </div>
         </div>
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
-        
                     <br/>
     <p><b>Mercenary Unique Building Unlock</b></p>
     <div class="category">
@@ -210,7 +194,8 @@
             </div>
         </div>
         <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research Unlock + Undead Lineage 20 Unlock Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p>Merc Research Unlock + Undead Lineage 20 Unlock Build
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Neutral Mercenary
