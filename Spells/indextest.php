@@ -185,8 +185,8 @@
                     cellR.innerHTML = "R" + i;
                     cellR.style.textAlign = "center";
                     for (j = minTier; j <= maxTier; j++) {
-                        var t = j - clamp(0.5 * arcane, 0, j-2);
-                        var Generator = ( Math.pow(t, 2) - t ) * Math.pow(0.98, i - t - 42);
+                        var t = j - 0.5 * arcane;
+                        var Generator = (t ** 2 - t) * 0.98 ** (i - (t + 0.5) - 42);
                         var Days = Math.floor(0.5 * Generator);
                         var Hours = Math.floor(12 * Generator) - 24 * Days;
                         var Minutes = Math.round(720 * Generator) - ( 24 * 60 * Days + 60 * Hours );
@@ -244,12 +244,9 @@
     <p>Tier upgrade names start with the default spell's name followed by the tier number, starting from 2 to 6 (Holy Light 2, Holy Light 3, etc.)
     <p>Once tier spell upgrades are bought, you will need to use the Tiered Autocasting on each tier upgraded spell to set the amount of tier casts you wish, or else the casts will remain at tier 1.
     <p><b>Offline bonus for spell tier</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.
-    <p><b>Unlock Formulas</b> Without any Arcane Brilliance trophies.
+    <p><b>Unlock Formulas</b>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)
-    <p>Time for tier n + 1: Formula: 43200 * {(n + 1)^2 - (n + 1)} * 0.98^{R - (n + 1) - 42} seconds
-    <p><b>Unlock Formulas</b> With Arcane Brilliance trophies.
-
-    <p>Time for tier n + 1: Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+    <p>Time for tier n: Formula: 43200 * ((n - 0.5 * A) ^ 2 - (n - 0.5 * A)) * 0.98 ^ (R - (n - 0.5 * (A - 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.
 
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
     <p>Faction Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
@@ -308,6 +305,7 @@
             <tr>
                 <th style="width:100px; height: 35px" rowspan="2">Reincarnation</th>
                 <th style="width:55px" class="SSCalTieHid" rowspan="2">Tier</th>
+                <th style="width:55px" class="SSCalTieHid" title="Prismatic Breath" rowspan="2">PB</th>
                 <th colspan="2">Production bonus</th>
                 <th style="width:120px" class="ResUnl" rowspan="2">D245 production bonus</th>
             </tr>
@@ -316,23 +314,45 @@
                 <th>with D245</th>
             </tr>
             <tr>
-                <td><input id="SSCalRei" type="number" min="14" max="100" value="14"></td>
-                <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="6" value="1"></td>
+                <td><input id="SSCalRei" type="number" min="14" max="157" value="14"></td>
+                <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
+                <td class="SSCalTieHid" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
                 <td id="SSCalProNoD245"></td>
                 <td id="SSCalProD245" class="ResUnl"></td>
                 <td id="SSCalD245" class="ResUnl"></td>
             </tr>
         </table>
         <script>
-            function CalSSMul(rei) {
-                return 100 * Math.pow(1.05, rei) + 1;
+            /**
+             * @return {number}
+             * @param rei
+             * @param [d245]
+             * @param [dp]
+             * @param [tier]
+             */
+            function CalSSMul(rei, d245 = false, dp = false, tier = 1) {
+                var reinc = (d245) ? rei * 2 : rei;
+                reinc = (dp) ? reinc * 2 : reinc;
+                var base = 100 * 1.05**reinc + 1;
+                if(rei < 40){
+                    return base;
+                } else if (rei < 100) {
+                    return base**(0.1*tier);
+                } else {
+                    return base**(0.01*tier);
+                }
             }
+
+            /**
+             * @return {number}
+             */
             function MulToBon(mul) {
                 return Math.floor(100 * (mul - 1));
             }
             function CalSS() {
                 var rei = parseInt($('#SSCalRei').val()),
                     tie = 0,
+                    dp = $('#SSCalPB').is(':checked'),
                     ProNoD245 = 0,
                     ProD245 = 0;
                 if (rei < 22) {
@@ -341,37 +361,33 @@
                     ProNoD245 = CalSSMul(rei);
                     $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
                 } else if (rei < 40) {
-                    $('#SSCal tr:eq(0) > th:eq(2)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(2))').attr('rowspan', '2');
+                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
+                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
                     $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
                     $('tr.ResUnl').css('display', 'table-row');
                     $('.SSCalTieHid').css('display', 'none');
                     ProNoD245 = CalSSMul(rei);
                     $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
-                    ProD245 = CalSSMul(rei * 2);
+                    ProD245 = CalSSMul(rei, true);
                     $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
                     $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
                 } else {
-                    $('#SSCal tr:eq(0) > th:eq(2)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(2))').attr('rowspan', '2');
+                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
+                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
                     $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
                     $('tr.ResUnl').css('display', 'table-row');
-                    if (rei >= 40) {
-                        tie = parseInt($('#SSCalTie').val());
-                        $('.SSCalTieHid').css('display', 'table-cell');
-                    } else {
-                        tie = 1;
-                        $('.SSCalTieHid').css('display', 'none');
-                    }
-                    ProNoD245 = Math.pow(CalSSMul(rei), tie * 0.1);
+                    tie = parseInt($('#SSCalTie').val());
+                    $('.SSCalTieHid').css('display', 'table-cell');
+                    ProNoD245 = CalSSMul(rei, false, dp, tie);
                     $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
-                    ProD245 = Math.pow(CalSSMul(rei * 2), tie * 0.1);
+                    ProD245 = CalSSMul(rei, true, dp, tie);
                     $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
                     $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
                 }
             }
             CalSS();
             $('#SSCalRei, #SSCalTie').on('input', CalSS);
+            $('#SSCalPB').on('change', CalSS);
         </script>
     </div>
     <div class="shlisting">
