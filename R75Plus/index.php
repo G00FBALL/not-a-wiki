@@ -320,7 +320,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150 
             </div>
         </div>
-        </div>
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -341,7 +340,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-        </div>
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -361,7 +359,6 @@
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
-        </div>
         </div>
        <div class="shelementwhole">
              <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf/Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -384,7 +381,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-      </div>
       </div>
 <br/>
             <p><b>NOTE: Some builds below will be obselete, we are sorting and marking them as we get new builds</b></p>
