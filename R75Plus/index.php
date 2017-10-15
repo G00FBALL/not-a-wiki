@@ -272,7 +272,6 @@
             </div>
         </div>
           </div>
-    <div class="category">
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -299,7 +298,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-      <div class="category">
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -326,7 +324,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-     <div class="category">
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -353,7 +350,6 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-    <div class="category">
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
