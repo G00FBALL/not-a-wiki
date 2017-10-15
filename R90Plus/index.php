@@ -7,27 +7,28 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-<p><b>All builds have been updated as of June, 3rd 2017.</b></p>
-<p>Most builds will <b>Require</b> Lineage Level 15+</p>
-<br/>
+    <p><b>NOTE</b>: Updated October 14th 2017
+    <p><b>NOTE</b>: We will be adding builds as we get them.<br/>
 <br/>
 <div class="shlisting">
-    <p><b>Mercenary Unique Building Unlock</b></p>
+    <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Tskami_ek
-                <p><b>Note</b>: Using Dragless: Get to e86+ gems, Excavate to 8000 for the Obsidian Shard.
-                    <br/>
-                <p><b>Mercenary Unique Building Unlock</b>
-                <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Goblin
-                <p><b>Merc Template</b>
-                <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
-                <p>SP:Fairy Chanting,SP:God's Hand
-                <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
-            </div>
+                <p><b>Author</b>: Siku
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Demon
+                <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                <p><b>Research Template</b>
+                <p>S105,S150,S215,S270,S330,S500,
+                <p>C135,C150,C250,C330,C340,C400,C460,
+                <p>D55,D150,D200,D245,D250,D320,
+                <p>E135,E145,E275,E330,E400,E460,
+                <p>A105,A120,A150,A250,A305,A400,
+                <p>W120,W150,W180,W250,W260,W330,W400
+                <p><b>Notes</b>: Requires excavations to set up for demon lineage.
+                </div>
         </div>
     </div>
     <br/>
