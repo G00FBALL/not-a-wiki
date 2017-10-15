@@ -296,9 +296,9 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-     <div class="category">
+              <p><b>Ditto Breeding</b></p>
     <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding (Fairy Lineage Level 25) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Neutral Mercenary
@@ -318,7 +318,7 @@
             </div>
         </div>
        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding (Dragon Lineage Level 25) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Neutral Mercenary
@@ -338,7 +338,7 @@
             </div>
         </div>
        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding (Druid Lineage Level 25) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Neutral Mercenary
@@ -358,7 +358,7 @@
             </div>
         </div>
        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding All Others Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf/Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                
             <div class="autohide">
                 <p><b>Author</b>: Lapare
