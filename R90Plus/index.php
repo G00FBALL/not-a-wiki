@@ -96,6 +96,24 @@
                 <p>Replace C400 with C1500 if high enough (100%+)
          </div>
     </div>
+                    <br/>
+    <p><b>Mercenary Unique Building Unlock</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Tskami_ek
+                <p><b>Note</b>: Using Dragless: Get to 1e90+  (1 NoVg) gems, Excavate to 8000 for the Obsidian Shard.
+                    <br/>
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Goblin
+                <p><b>Merc Template</b>
+                <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
+                <p>SP:Fairy Chanting,SP:God's Hand
+                <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
+            </div>
+        </div>
+    </div>
 </div>
                 </div>
 <?php include "../scripts/footer.html"; ?>
