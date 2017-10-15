@@ -65,8 +65,9 @@
                     <p><b>Notes</b>: Estimated time of 5 days to get GB11.
         </div>
     </div>
+    </div>
                     <br/>
-    <p><b>Special Builds</b></p>
+    <p><b>Unlock Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Swarming Tower (Fairy UB2) Quest e21 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
