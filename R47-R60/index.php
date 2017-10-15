@@ -6,9 +6,28 @@
     <BR/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
-    <h6>Page Outdated, New Builds Coming Soon</h6>
 
-        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
+        <p><b>NOTE</b>: Updated October 14th 2017</p>
+        <p><b>NOTE</b>: We will be adding builds as we get them</p>
+    <br/>
+    <br/>
+    <div class="shlisting">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                <p>S105,S150,S270,S330,S500,
+                <p>C150,C250,C330,C340,C400,C460,
+                <p>D55,D150,D200,D245,D320,
+                <p>E135,E145,E275,E400,E460,
+                <p>E135,E145,E275,E400,E460,
+                <p>W120,W150,W180,W250,W260,W400
+            </div>
+        </div>
+        <p><b>NOTE</b>: Builds below this point are old and may or may not work</p>
     <br/>
     <br/>
     <div class="shlisting">
