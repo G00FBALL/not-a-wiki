@@ -30,7 +30,6 @@
      <br/>
     <br/>
        <p><b>NOTE</b>: Builds below this point are old and may or may not work</p>
-    <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
