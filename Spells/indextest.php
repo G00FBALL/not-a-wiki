@@ -337,9 +337,9 @@
                 if(rei < 40){
                     return base;
                 } else if (rei < 100) {
-                    return base**(0.1*tier);
+                    return (base**1.5)**(0.1*tier);
                 } else {
-                    return base**(0.01*tier);
+                    return (base**2)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
                 }
             }
 
