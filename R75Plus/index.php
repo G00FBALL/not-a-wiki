@@ -220,7 +220,8 @@
             </div>
         </div>
             <br/>
-        <div class="shelementwhole">
+     <div class="category">
+       <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tax Season (S3200 unlock build) R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
