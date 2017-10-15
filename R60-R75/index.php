@@ -60,7 +60,7 @@
                     <p>D55,D150,D200,D245,D250,D320,
                     <p>E135,E145,E275,E330,E400,E460,
                     <p>A105,A120,A150,A250,A305,A400,
-                    <pW120,W150,W180,W250,W260,W330,W400
+                    <p>W120,W150,W180,W250,W260,W330,W400
                     <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+).
                </div>
             </div>
