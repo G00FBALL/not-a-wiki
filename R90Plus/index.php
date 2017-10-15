@@ -30,7 +30,6 @@
                 <p><b>Notes</b>: Requires excavations to set up for demon lineage.
                 </div>
         </div>
-    </div>
     <br/>
 </div>
         </div>
