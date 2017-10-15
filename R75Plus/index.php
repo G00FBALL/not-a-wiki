@@ -296,6 +296,7 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
+            <br/>
               <p><b>Ditto Breeding</b></p>
     <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -316,6 +317,7 @@
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W180,W275,W400,W1375,W3050,W3150 
             </div>
+        </div>
         </div>
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Lineage Level 25 - R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
