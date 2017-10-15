@@ -128,5 +128,6 @@
                 <p><b>Notes</b>: Gets stage 4 unlock almost instantly.
             </div>
         </div>--!>
+            </div>
     </div>
 <?php include "../scripts/footer.html"; ?>
