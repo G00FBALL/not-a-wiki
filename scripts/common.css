@@ -12,8 +12,6 @@ a.tooltips span {
   text-align: center;
   visibility: hidden;
   border-radius: 6px;
-	-moz-border-radius:20px;
-	-webkit-border-radius:20px;
 }
 a.tooltips span:after {
   content: '';
