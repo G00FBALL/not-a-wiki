@@ -51,7 +51,8 @@
             </div>
         </div>
         </div>
-<div class="shlisting">
+<br/>
+        <div class="shlisting">
     <p><b>Production Builds</b></p>
     <p><b>R70-R75</b>
     <div class="category">
@@ -71,7 +72,6 @@
                 <p>W120,W150,W180,W250,W260,W330,W400
                 <p><b>Note</b>: Replace D250 with D350 if higher (e9 (1 B) gems+).
                 </div>
-        </div>
         </div>
 
         
