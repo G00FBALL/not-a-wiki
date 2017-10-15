@@ -121,6 +121,28 @@
                     <p>W275,W400,W560,W1375,W1400,W3050
         </div>
     </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Magic of Rivendell (Elf lineage level pusher)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Lapare
+                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Range</b>: 1e90 (1 NoVg) gems(?)
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Elf
+                    <p><b>A2950</b>: Dragon
+                    <p><b>Merc Template</b>
+                    <p>EL1,EL7,AN5,AN6,GB7,DD3,DD6,FC2,FC7,DN2,DG9,DG6,
+                    <p>SP:Dragon's Breath,SP:Lightning Strike
+                    <p><b>Research Template</b>
+                    <p>S215,S305,S400,S1450,S1500,S3200,
+                    <p>C250,C400,C590,C1300,C3000,C3100,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>W275,W400,W560,W1375,W1400,W3050
+                    <p><b>Notes</b>: Gets level 32 in under a hour without any buff to W275 or S400
+        </div>
+    </div>
 </div>
 </div>
 <?php include "../scripts/footer.html"; ?>
