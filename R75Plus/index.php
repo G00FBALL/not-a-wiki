@@ -236,7 +236,7 @@
                 <p>D25,D200,D245,D250,D1275,D2775,
                 <p>E10,E135,E145,E350,E1225,E3250,
                 <p>A10,A120,A175,A410,A1500,A2950,
-                <pW180,W275,W400,W525,W3050,W3150
+                <p>W180,W275,W400,W525,W3050,W3150
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
