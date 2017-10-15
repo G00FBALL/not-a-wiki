@@ -248,7 +248,7 @@
               <p><b>Lineage Leveling</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Raveyard (Undead Lineage 25 unlock build) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Raveyard (UL25 Unlock) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Neutral Mercenary
@@ -295,6 +295,13 @@
             </div>
         </div>
         </div>
+            
+            
+            
+            
+            
+            
+            
 <br/>
             <p><b>NOTE</b>: Some builds below will be obselete, we are sorting and marking them as we get new builds</p>
         <div class="shelementwhole">
