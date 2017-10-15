@@ -9,7 +9,6 @@
 <br/>
         <p><b>NOTE</b>: Updated October 14th 2017</p>
         <p><b>NOTE</b>: We will be adding builds as we get them.</p>
-        <p><b>NOTE</b>: Some builds below will be obselete, we are sorting and marking them as we get new builds</p>
 <br/>
 <br/>
 <div class="shlisting">
@@ -108,6 +107,8 @@
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
+<br/>
+            <p><b>NOTE</b>: Some builds below will be obselete, we are sorting and marking them as we get new builds</p>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
