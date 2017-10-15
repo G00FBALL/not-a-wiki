@@ -111,25 +111,29 @@
     <p><b>Lineage Leveling</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Blood Transfusion" Lineage Level 20 R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: ?
-                <p><b>Note</b>: Note: Edited with help from Lapare. Use this to get Lineage 20, starting with the Undead Lineage. Replace A1325 for A2950 (Druid or Undead) after R77 if you would like, though it's usually not necessary for this to work quickly.
-                    <br/>
-                <p><b>Mercenary Unique Building Unlock</b>
+                <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: All (1 at a time)
-                <p><b>Merc Template</b>
-                <p>EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
-                <p>SP:Fairy Chanting,SP:Dragon's Breath
+                <p><b>Bloodline</b>: All but Undead
+                <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)
+                <p><b>Range</b>: R82+ gem count, use this straight after the Undead Lineage leveler.
+                <p><b>Merc Template</b>: For Fairy
+                <p>EL1,EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG4,DG7,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Merc Template</b>: For Dragon
+                <p>EL1,EL3,EL7,AN5,GB7,DD3,DD4,FC7,DN2,DG4,TT6,DG7,
+                <p>SP:Fairy Chanting,SP:God's Hand
+                <p><b>Merc Template</b>: For all others
+                <p>EL1,EL3,EL7,AN5,GB7,DD3,DD4,FC7,DN2,DG4,TT6,DG7,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
                 <p><b>Research Template</b>
-                <p>S215,S305,S400,S500,S1450,S1500,
-                <p>C250,C340,C400,C590,C1300,C1325,
-                <p>D25,D200,D245,D250,D1275,D2775,
-                <p>E135,E275,E320,E590,E1225,E1425,
-                <p>A105,A120,A305,A375,A1325,A1500,
-                <p>W150,W180,W250,W275,W400,W1375
-                <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>Forum</b></a> post</p>
+                <p>S215,S305,S330,S400,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>D25,D200,D250,D1275,D1375,D2775,
+                <p>E135,E320,E590,E1225,E1425,E3250,
+                <p>A120,A305,A1200,A1500,A2950,A3400,
+                <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
 <br/>
