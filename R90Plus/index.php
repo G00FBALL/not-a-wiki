@@ -28,10 +28,7 @@
                 <p>A105,A120,A150,A250,A305,A400,
                 <p>W120,W150,W180,W250,W260,W330,W400
                 <p><b>Notes</b>: Requires excavations to set up for demon lineage.
-                </div>
-        </div>
-    <br/>
-        </div>
+         </div>
     </div>
 </div>
 <?php include "../scripts/footer.html"; ?>
