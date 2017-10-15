@@ -194,8 +194,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-                <p>Merc Research Unlock + Undead Lineage 20 Unlock Build
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again + UL20 Push<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Neutral Mercenary
@@ -212,6 +211,10 @@
                 <p>A105,A120,A305,A375,A1325,A1500,
                 <p>W150,W180,W250,W275,W400,W1375
                 <p><b>Note</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
+                <p><b>Note</b>: Build has three stages.
+                <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
+                <p><b>2</b>: Get Lineages and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.
+                <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
