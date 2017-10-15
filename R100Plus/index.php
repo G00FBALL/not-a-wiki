@@ -14,37 +14,34 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans 0-1e33 gems <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Druids 0-1e27<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Siku
-                <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Demon
-                <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                <p><b>Author</b>: ensteffahn
+                <p><b>Faction</b>: Druid
+                <p><b>Bloodline</b>: Druid
                 <p><b>Research Template</b>
-                <p>S105,S150,S215,S270,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
-                <p>D55,D150,D200,D245,D250,D320,
-                <p>E135,E145,E275,E330,E400,E460,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W330,W400
-                <p><b>Notes</b>: Requires excavations to set up for demon lineage.
+                <p>S3200,
+                <p>C300,C340,
+                <p>D150,D275,
+                <p>E260,E1425,
+                <p>A250,A251,A375,
+                <p>W350,W1375
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Faceless1 e30-1e90 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druids ?-1e32 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom
-                <p><b>Faction</b>: Faceless/Dragon
-                <p><b>Bloodline</b>: Elf
-                <p><b>Range</b>: 1e30 (1 No) gems - 1e90 (1 NoVg)(?) gems
+                <p><b>Author</b>: 123123winz
+                <p><b>Faction</b>: Druid
+                <p><b>Bloodline</b>: Undead
                 <p><b>Research Template</b>
-                <p>S215,S250,S270,S305,S330,S1450,S1500,
-                <p>C250,C330,C340,C400,C1300,C1325,
-                <p>D55,D245,D260,D320,D1125,D1275,D1375,
-                <p>E135,E145,E350,E460,E1225,E1425,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W150,W180,W275,W400,W1375,W1400
-                <p><b>Notes</b>: Requires excavations to set up for elf lineage.
+                <p>S3200,
+                <p>C300,C400,
+                <p>D150,D275,
+                <p>E260,E1425,
+                <p>A251,A375,A400,
+                <p>W350,W1375
+                <p><b>Notes</b>: Takes several minutes to set up.
          </div>
     </div>
         <div class="shelementwhole">
