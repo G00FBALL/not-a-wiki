@@ -19,7 +19,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <p><b>Author</b>: Siku
                 <p><b>Note</b>: Using Dragless: Get to 1e90+  (1 NoVg) gems, Excavate to 8000 for the Obsidian Shard.
-                    <br/>
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Goblin
                 <p><b>Merc Template</b>
@@ -30,7 +29,7 @@
         </div>
         </div>
 
-        <div class="shlisting">
+                    <br/>
     <p><b>Mercenary Unique Building Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
