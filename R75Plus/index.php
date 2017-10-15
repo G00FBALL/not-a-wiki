@@ -357,7 +357,7 @@
             </div>
         </div>
        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding All Others Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                
             <div class="autohide">
                 <p><b>Author</b>: Lapare
@@ -378,7 +378,6 @@
             </div>
         </div>
       </div>
-                <p><b>Elf/Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow Lineage Level 25 - R82+</b>
 <br/>
             <p><b>NOTE: Some builds below will be obselete, we are sorting and marking them as we get new builds</b></p>
    <div class="category">
