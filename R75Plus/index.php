@@ -159,6 +159,7 @@
         </div>
       </div>
                     <br/>
+    <p><b>Special Builds</b></p>
     <p><b>Mercenary Unique Building Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
@@ -218,6 +219,7 @@
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
+            <br/>
         <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tax Season (S3200 unlock build) R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
