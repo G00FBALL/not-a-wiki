@@ -335,7 +335,7 @@
                 if (r >= 40) {
                     $('.SSCalTieHid').css('display', 'table-cell');
                 }
-                if (r >= 46) {
+                if (r >= 63) {
                     $('.SSCalDra').css('display', 'table-cell');
                 }
             }
@@ -350,21 +350,21 @@
             function CalSSMul(rei, d245 = false, tier = 1, dp = false) {
                 var reinc = (d245) ? rei * 2 : rei;
                 reinc = (dp) ? reinc * 2 : reinc;
-                var base = 100 * 1.05**reinc + 1;
-                if(rei < 40){
-                    return base;
-                } else if (rei < 100) {
-                    return (base**1.5)**(0.1*tier);
-                } else {
-                    return (base**2)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
+                var base = 10000 * 1.05**reinc;
+                if (40 <= rei && rei < 100) {
+                    base = (base**1.5)**(0.1*tier);
+                } else if (100 <= rei) {
+                    base =  (base**2)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
                 }
+                return base/100 + 1;
             }
 
             /**
-             * @return {number}
+             * @return {string}
              */
             function MulToBon(mul) {
-                return Math.floor(100 * (mul - 1));
+                var bon = 100 * (mul - 1);
+                return bon.toPrecision(3);
             }
 
             function CalSS() {
@@ -379,7 +379,7 @@
                 } else if (rei < 40) {
                     ProNoD245 = CalSSMul(rei);
                     ProD245 = CalSSMul(rei, true);
-                } else if (rei < 46) {
+                } else if (rei < 63) {
                     tie = parseInt($('#SSCalTie').val());
                     ProNoD245 = CalSSMul(rei, false, tie);
                     ProD245 = CalSSMul(rei, true, tie);
@@ -393,9 +393,9 @@
                     $('#SSCalProD245').text('N/A');
                     $('#SSCalD245').text('N/A');
                 } else {
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
-                    $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
-                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
+                    $('#SSCalProNoD245').text(MulToBon(ProNoD245) + '%');
+                    $('#SSCalProD245').text(MulToBon(ProD245) + '%');
+                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245) + '%');
                 }
             }
             CalSS();
