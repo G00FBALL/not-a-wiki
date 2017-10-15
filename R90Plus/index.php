@@ -96,6 +96,7 @@
                 <p>Replace C400 with C1500 if high enough (100%+)
          </div>
     </div>
+            </div>
                     <br/>
     <p><b>Special Builds</b></p>
         <div class="shelementwhole">
@@ -120,7 +121,6 @@
         </div>
     </div>
 </div>
-                </div>
 <?php include "../scripts/footer.html"; ?>
 
 
