@@ -7,10 +7,9 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <h6>Page Outdated, New Builds Coming Soon</h6>
-
-        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
-<p><b>As of version 3.0, most of the builds in this page are obsolete, this page is currently undergoing changes</b></p>
+        <p><b>NOTE</b>: Updated October 14th 2017</p>
+        <p><b>NOTE</b>: We will be adding builds as we get them.</p>
+        <p><b>NOTE</b>: Some builds below will be obselete, we are sorting and marking them as we get new builds</p>
 <br/>
 <br/>
 <div class="shlisting">
@@ -20,9 +19,8 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Need for Greed" R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek
-                <p><b>Note</b>: Using Dragless: Get to e86+ gems, Excavate to 8000 for the Obsidian Shard.
+                <p><b>Note</b>: Using Dragless: Get to 1e90+  (1 NoVg) gems, Excavate to 8000 for the Obsidian Shard.
                     <br/>
-                <p><b>Mercenary Unique Building Unlock</b>
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Goblin
                 <p><b>Merc Template</b>
@@ -36,7 +34,7 @@
     <p><b>Mercenary Research Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (e88+?)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (e88+?)<font color="DarkGoldenRod"> Neutral</font></b> (<b>??</b>)</a></p>
             <div class="autohide">
                 <p><b>Author</b>: Tskami_ek
                 <p><b>Faction</b>: Neutral Mercenary
@@ -50,16 +48,24 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again 1 Ocvg (1e87)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research Unlock + Undead Lineage 20 Unlock Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
-                <p><b>Note</b>: Tested at e87, takes a few hours, may work at earlier gems.
+                <p><b>Range</b>: 1e90 (1 NoVg)(?) gems
                 <p><b>Merc Template</b>
                 <p>FR9,EL1,EL3,EL4,AN5,AN8,GB7,FC7,DW2,DW6,DG3,DG4,
                 <p>SP:Fairy Chanting,SP:Dragon's Breath
-                <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
+                <p><b>Research Template</b>
+                <p>S215,S305,S400,S500,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C1325,
+                <p>D25,D200,D245,D250,D1275,D2775,
+                <p>E135,E275,E320,E460,E590,E1425,
+                <p>A105,A120,A305,A375,A1325,A1500,
+                <p>W150,W180,W250,W275,W400,W1375
+                <p><b>Note</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
+                    <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
         <div class="shelementwhole">
