@@ -70,12 +70,32 @@
         <script src='/realm/scripts/tiers/util.js'></script>
         <script src='/realm/scripts/tiers/index.js'></script>
         <div class='container' id='app'>
+            <br/>
+            <b class='page-header' style="padding-left: 40px">What Tiers do you have unlocked?</b>
+            <div class='input-group-btn'>
+                <!--                <button id='doReEnter' class='btn btn-success' type='button'>Re-Enter save</button>
+                <button id='doSaveCopy' class='btn btn-info' type='button'>Copy save</button>
+                <button id='doSaveClear' class='btn btn-danger' type='button' >Clear save</button> -->
+            </div>
+            <div class='panel panel-primary'>
+                <div class='panel-body'>
+                    <div class='input-group panelSaveInput'>
+                        <label id='saveInputLabel' class='input-group-addon' for='saveInput'><b>Input Save</b>
+                            <input id='saveInput' class='form-control' type='text' name='saveInput' value=''>
+                            <button id='doSaveClear' class='btn btn-danger' type='button'><b>Clear save</b></button>
+                    </div>
+                </div>
+            </div>
+            <ul>
+                <li v-for='s in spells' , :style='{fontWeight: s.unlocked != 4?"bold":"normal"}'>
+                    {{s.name}}: {{s.unlocked + 1}}
+                </li>
+            </ul>
         </div>
     </div>
     <b id="tiertimes" class="calculator">
-<br/>
         <form style="background-color:#b3bcc6">
-            Input the Tier and R you want to unlock it at then click Show
+            Input the Tier and the R you want to unlock it at then click Show
         </form>
         <form style="background-color:#b3bcc6">
             <table id="calcformtiers" border="0">
@@ -118,7 +138,7 @@
             var arcane = 0;
             var minReinc = 40;
             var maxReinc = 50;
-            if (localStorage && (parseInt(localStorage.getItem('mint')) > 2) && (parseInt(localStorage.getItem('maxt')) > 6) && (parseInt(localStorage.getItem('minr')) > 40) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 50)) {
+            if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
                 minTier = parseInt(localStorage.getItem('mint'));
                 maxTier = parseInt(localStorage.getItem('maxt'));
                 arcane = (parseInt(localStorage.getItem('ab')) > 0) ? parseInt(localStorage.getItem('ab')) : 0;
@@ -165,8 +185,8 @@
                     cellR.innerHTML = "R" + i;
                     cellR.style.textAlign = "center";
                     for (j = minTier; j <= maxTier; j++) {
-                        var t = j - clamp(0.5 * arcane, 0, j-2);
-                        var Generator = ( Math.pow(t, 2) - t ) * Math.pow(0.98, i - t - 42);
+                        var t = j - 0.5 * arcane;
+                        var Generator = (t ** 2 - t) * 0.98 ** (i - (t - 0.5) - 42);
                         var Days = Math.floor(0.5 * Generator);
                         var Hours = Math.floor(12 * Generator) - 24 * Days;
                         var Minutes = Math.round(720 * Generator) - ( 24 * 60 * Days + 60 * Hours );
@@ -224,12 +244,9 @@
     <p>Tier upgrade names start with the default spell's name followed by the tier number, starting from 2 to 6 (Holy Light 2, Holy Light 3, etc.)
     <p>Once tier spell upgrades are bought, you will need to use the Tiered Autocasting on each tier upgraded spell to set the amount of tier casts you wish, or else the casts will remain at tier 1.
     <p><b>Offline bonus for spell tier</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.
-    <p><b>Unlock Formulas</b> Without any Arcane Brilliance trophies.
+    <p><b>Unlock Formulas</b>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)
-    <p>Time for tier n + 1: Formula: 43200 * {(n + 1)^2 - (n + 1)} * 0.98^{R - (n + 1) - 42} seconds
-    <p><b>Unlock Formulas</b> With Arcane Brilliance trophies.
-
-    <p>Time for tier n + 1: Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+    <p>Time for tier n: Formula: 43200 * ((n - 0.5 * A) ^ 2 - (n - 0.5 * A)) * 0.98 ^ (R - (n - 0.5 * (A + 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.
 
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
     <p>Faction Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
@@ -288,6 +305,7 @@
             <tr>
                 <th style="width:100px; height: 35px" rowspan="2">Reincarnation</th>
                 <th style="width:55px" class="SSCalTieHid" rowspan="2">Tier</th>
+                <th style="width:55px" class="SSCalDra" title="Prismatic Breath" rowspan="2">PB</th>
                 <th colspan="2">Production bonus</th>
                 <th style="width:120px" class="ResUnl" rowspan="2">D245 production bonus</th>
             </tr>
@@ -296,62 +314,92 @@
                 <th>with D245</th>
             </tr>
             <tr>
-                <td><input id="SSCalRei" type="number" min="14" max="100" value="14"></td>
-                <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="6" value="1"></td>
+                <td><input id="SSCalRei" type="number" min="14" max="157" value="14"></td>
+                <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
+                <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
                 <td id="SSCalProNoD245"></td>
                 <td id="SSCalProD245" class="ResUnl"></td>
                 <td id="SSCalD245" class="ResUnl"></td>
             </tr>
         </table>
         <script>
-            function CalSSMul(rei) {
-                return 100 * Math.pow(1.05, rei) + 1;
+            function CalSSHidSho(r) {
+                $('.ResUnl, .SSCalTieHid, .SSCalDra').css('display', 'none');
+                $('#SSCal th').removeAttr('rowspan colspan');
+                if (r >= 22) {
+                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
+                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
+                    $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
+                    $('tr.ResUnl').css('display', 'table-row');
+                }
+                if (r >= 40) {
+                    $('.SSCalTieHid').css('display', 'table-cell');
+                }
+                if (r >= 63) {
+                    $('.SSCalDra').css('display', 'table-cell');
+                }
             }
+
+            /**
+             * @return {number}
+             * @param rei
+             * @param [d245]
+             * @param [dp]
+             * @param [tier]
+             */
+            function CalSSMul(rei, d245 = false, tier = 1, dp = false) {
+                var reinc = (d245) ? rei * 2 : rei;
+                reinc = (dp) ? reinc * 2 : reinc;
+                var base = 10000 * 1.05**reinc;
+                if (40 <= rei && rei < 100) {
+                    base = (base**1.5/100+1)**(0.1*tier);
+                } else if (100 <= rei) {
+                    base =  (base**2/100+1)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
+                }
+                return base;
+            }
+
+            /**
+             * @return {string}
+             */
             function MulToBon(mul) {
-                return Math.floor(100 * (mul - 1));
+                return Math.floor(100 * (mul - 1)).toPrecision(3);
             }
+
             function CalSS() {
                 var rei = parseInt($('#SSCalRei').val()),
-                    tie = 0,
+                    tie = 1,
+                    dp = $('#SSCalPB').is(':checked'),
                     ProNoD245 = 0,
                     ProD245 = 0;
+                CalSSHidSho(rei);
                 if (rei < 22) {
-                    $('.ResUnl, .SSCalTieHid').css('display', 'none');
-                    $('#SSCal th').removeAttr('rowspan colspan');
                     ProNoD245 = CalSSMul(rei);
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
                 } else if (rei < 40) {
-                    $('#SSCal tr:eq(0) > th:eq(2)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(2))').attr('rowspan', '2');
-                    $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
-                    $('tr.ResUnl').css('display', 'table-row');
-                    $('.SSCalTieHid').css('display', 'none');
                     ProNoD245 = CalSSMul(rei);
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
-                    ProD245 = CalSSMul(rei * 2);
-                    $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
-                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
+                    ProD245 = CalSSMul(rei, true);
+                } else if (rei < 63) {
+                    tie = parseInt($('#SSCalTie').val());
+                    ProNoD245 = CalSSMul(rei, false, tie);
+                    ProD245 = CalSSMul(rei, true, tie);
                 } else {
-                    $('#SSCal tr:eq(0) > th:eq(2)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(2))').attr('rowspan', '2');
-                    $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
-                    $('tr.ResUnl').css('display', 'table-row');
-                    if (rei >= 40) {
-                        tie = parseInt($('#SSCalTie').val());
-                        $('.SSCalTieHid').css('display', 'table-cell');
-                    } else {
-                        tie = 1;
-                        $('.SSCalTieHid').css('display', 'none');
-                    }
-                    ProNoD245 = Math.pow(CalSSMul(rei), tie * 0.1);
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
-                    ProD245 = Math.pow(CalSSMul(rei * 2), tie * 0.1);
-                    $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
-                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
+                    tie = parseInt($('#SSCalTie').val());
+                    ProNoD245 = CalSSMul(rei, false, tie, dp);
+                    ProD245 = CalSSMul(rei, true, tie, dp);
+                }
+                if (rei < 100 && tie > 6) {
+                    $('#SSCalProNoD245').text('N/A');
+                    $('#SSCalProD245').text('N/A');
+                    $('#SSCalD245').text('N/A');
+                } else {
+                    $('#SSCalProNoD245').text(MulToBon(ProNoD245) + '%');
+                    $('#SSCalProD245').text(MulToBon(ProD245) + '%');
+                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245) + '%');
                 }
             }
             CalSS();
             $('#SSCalRei, #SSCalTie').on('input', CalSS);
+            $('#SSCalPB').on('change', CalSS);
         </script>
     </div>
     <div class="shlisting">
@@ -539,7 +587,7 @@
     <p><b>Effect</b>: Gives random Faction Coins based on your mana regeneration for each other spell you cast while God's Hand is active.
     <p><b>Formula</b>: (floor(x^1.1), where x is mana regen per second.</p>
     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
-    <p><b>Challenge Upgrade</b>: God's Throne, Mana regeneration is increased by 50% while God's Hand is active.</p>
+    <p><b>Challenge Upgrade</b>: God's Throne, Mana regeneration is increased by 20% while God's Hand is active.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">God's Hand Tier 2-7</a></b></p>
