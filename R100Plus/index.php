@@ -44,84 +44,34 @@
                 <p><b>Notes</b>: Takes several minutes to set up.
          </div>
     </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor 1e69-1e129 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Lapare
-                <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Titan
-                <p><b>A2950</b>: Dragon
-                <p><b>Range</b>: 1e69 (1 DVg) gems - 1e129 (1 Dqag) gems
-                <p><b>Requiments</b>: Veteran Figurine
-                <p><b>Merc Template</b>
-                <p>EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,
-                <p>SP:Dragon's Breath,SP:God's Hand
-                <p><b>Research Template</b>
-                <p>S215,S270,S305,S330,S2875,S3200,
-                <p>C150,C340,C400,C590,C1300,C3000,
-                <p>D25,D55,D245,D260,D320,D1275,
-                <p>E135,E260,E350,E1225,E1425,E3250,
-                <p>A120,A590,A1200,A1500,A2950,A3400,
-                <p>W180,W260,W400,W1275,W3050,W3150
-                <p><b>Notes</b>: 
-                <p>Replace C150 with C1500 if higher.
-                <p>Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
-                <p>Replace C400 with C1500 if high enough (100%+)
-                <p>May need excavations for spell tiers to set up at low gems
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ragnarok 1e90-1.778e138 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Lapare
-                <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Titan
-                <p><b>A2950</b>: Dragon
-                <p><b>Requiments</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Merc Template</b>
-                <p>EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,
-                <p>SP:Dragon's Breath,SP:Grand Balance
-                <p><b>Research Template</b>
-                <p>S215,S270,S305,S330,S2875,S3200,
-                <p>C300,C340,C400,C590,C1300,C3000,
-                <p>D25,D55,D245,D260,D320,D1275,
-                <p>E135,E260,E350,E1225,E1425,E3250,
-                <p>A120,A590,A1200,A1500,A2950,A3400,
-                <p>W180,W260,W400,W1275,W3050,W3150
-                <p><b>Notes</b>: 
-                <p>Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
-                <p>Replace C400 with C1500 if high enough (100%+)
-         </div>
-    </div>
             </div>
                     <br/>
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Balance Elemental (Mana Builder for GB11)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Bomb (GB11 unlock build) e30 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Lapare
-                    <p><b>Requiments</b>: Veteran Figurine
-                    <p><b>Range</b>: 1e90 (1 NoVg gems)(?)
-                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Requiments</b>: Ziggurat unlock
+                    <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
-                    <p><b>A2950</b>: Elf
-                    <p><b>Merc Template</b>
-                    <p>EL7,AN3,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG6,DG9,
-                    <p>SP:God's Hand,SP:Fairy Chanting
                     <p><b>Research Template</b>
-                    <p>S215,S305,S400,S1450,S1500,S3200,
-                    <p>C250,C400,C590,C1300,C3000,C3100,
-                    <p>D25,D200,D245,D1275,D1375,D2775,
-                    <p>E135,E260,E320,E1225,E1425,E3250,
-                    <p>A120,A305,A1200,A1500,A2950,A3400,
-                    <p>W275,W400,W560,W1375,W1400,W3050
+                    <p>S3200,
+                    <p>C300,C400,
+                    <p>D150,D275,
+                    <p>E135,E260,
+                    <p>A251,A375,A400,
+                    <p>W350,W1375
+                    <p><b>Notes</b>: Estimated time of 5 days to get GB11.
         </div>
     </div>
+                    <br/>
+    <p><b>Special Builds</b></p>
+    <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Magic of Rivendell (Elf lineage level pusher)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Swarming Tower (Fairy UB2) Quest e21 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Lapare
+                    <p><b>Author</b>: FutureSin
                     <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Range</b>: 1e90 (1 NoVg) gems(?)
                     <p><b>Faction</b>: Neutral Mercenary
