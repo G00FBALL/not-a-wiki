@@ -20,7 +20,7 @@ a.tooltips span:after {
   content: '';
   position: absolute;
   top: 50%;
-  right: 105%;
+  right: 100%;
   margin-top: -8px;
   width: 0; height: 0;
   border-right: 8px solid #000000;
