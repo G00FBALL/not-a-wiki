@@ -412,6 +412,7 @@
           
 <br/>
             <p><b>NOTE: Some builds below will be obselete, we are sorting and marking them as we get new builds</b></p>
+   <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
