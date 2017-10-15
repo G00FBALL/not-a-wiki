@@ -13,6 +13,7 @@
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
+    <p><b>R70-R75</b>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -28,7 +29,7 @@
                 <p>E135,E145,E275,E330,E400,E460,
                 <p>A105,A120,A150,A250,A305,A400,
                 <p>W120,W150,W180,W250,W260,W330,W400
-                <p><b>Note</b>: Requires excavations to set up for demon lineage.
+                <p><b>Note</b>: Replace D250 with D350 if higher (e9 (1 B) gems+).
                 </div>
         </div>
         </div>
@@ -39,7 +40,7 @@
                 <p><b>Author</b>: TemperGrace
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
-                <p><b>Range</b>: 1e30 (1 No) gems - 1e90(1e92?) (1 NoVg) gems
+                <p><b>Range</b>: 1e30 (1 No) gems - 1e90 (1 NoVg) gems
                 <p><b>Research Template</b>
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
