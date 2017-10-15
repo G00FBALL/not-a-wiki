@@ -98,7 +98,6 @@
     </div>
                     <br/>
     <p><b>Special Builds</b></p>
-    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Balance Elemental (Mana Builder for GB11)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -118,7 +117,6 @@
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
-            </div>
         </div>
     </div>
 </div>
