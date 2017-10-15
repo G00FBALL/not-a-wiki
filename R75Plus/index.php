@@ -296,7 +296,8 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-     <div class="shelementwhole">
+     <div class="category">
+    <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding (Fairy Lineage Level 25) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
@@ -377,6 +378,7 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
+      </div>
       </div>
 <br/>
             <p><b>NOTE: Some builds below will be obselete, we are sorting and marking them as we get new builds</b></p>
