@@ -244,19 +244,28 @@
         </div>
     <br/>
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
               <p><b>Lineage Leveling</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Raveyard (Undead Lineage 25 unlock build) R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Undead
+                <p><b>A2950</b>: Elf
+                <p><b>Range</b>: ? gems
+                <p><b>Merc Template</b>
+                <p>FR9,EL3,EL7,TT6,DD4,FC2,FC5,FC7,DN2,DG3,DG6,DG9,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Research Template</b>
+                <p>S215,S305,S330,S400,S1450,S1500,
+                <p>C340,C590,C1300,C1325,C3000,C3100,
+                <p>D25,D245,D250,D1275,D1375,D2775,
+                <p>E135,E590,E1225,E1425,E3250,E3300
+                <p>A120,A590,A1200,A1500,A2950,A3400,
+                <p>W275,W400,W560,W1400,W3050,W3150
+            </div>
+        </div>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
