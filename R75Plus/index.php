@@ -299,7 +299,115 @@
                 <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
-            
+      <div class="category">
+       <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: All but Undead
+                <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)
+                <p><b>Range</b>: R82+ gem count, use this straight after the Undead Lineage leveler.
+                <p><b>Merc Template</b>: For Fairy
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Merc Template</b>: For Dragon
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Fairy Chanting,SP:God's Hand
+                <p><b>Merc Template</b>: For all others
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
+                <p><b>Research Template</b>
+                <p>S215,S305,S330,S400,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>D25,D200,D250,D1275,D1375,D2775,
+                <p>E135,E320,E590,E1225,E1425,E3250,
+                <p>A120,A305,A1200,A1500,A2950,A3400,
+                <p>W180,W275,W400,W1375,W3050,W3150
+            </div>
+        </div>
+     <div class="category">
+       <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: All but Undead
+                <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)
+                <p><b>Range</b>: R82+ gem count, use this straight after the Undead Lineage leveler.
+                <p><b>Merc Template</b>: For Fairy
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Merc Template</b>: For Dragon
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Fairy Chanting,SP:God's Hand
+                <p><b>Merc Template</b>: For all others
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
+                <p><b>Research Template</b>
+                <p>S215,S305,S330,S400,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>D25,D200,D250,D1275,D1375,D2775,
+                <p>E135,E320,E590,E1225,E1425,E3250,
+                <p>A120,A305,A1200,A1500,A2950,A3400,
+                <p>W180,W275,W400,W1375,W3050,W3150
+            </div>
+        </div>
+    <div class="category">
+       <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: All but Undead
+                <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)
+                <p><b>Range</b>: R82+ gem count, use this straight after the Undead Lineage leveler.
+                <p><b>Merc Template</b>: For Fairy
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Merc Template</b>: For Dragon
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Fairy Chanting,SP:God's Hand
+                <p><b>Merc Template</b>: For all others
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
+                <p><b>Research Template</b>
+                <p>S215,S305,S330,S400,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>D25,D200,D250,D1275,D1375,D2775,
+                <p>E135,E320,E590,E1225,E1425,E3250,
+                <p>A120,A305,A1200,A1500,A2950,A3400,
+                <p>W180,W275,W400,W1375,W3050,W3150
+            </div>
+        </div>
+    <div class="category">
+       <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A Diverse Lineage Level 25 R82+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: All but Undead
+                <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)
+                <p><b>Range</b>: R82+ gem count, use this straight after the Undead Lineage leveler.
+                <p><b>Merc Template</b>: For Fairy
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Merc Template</b>: For Dragon
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Fairy Chanting,SP:God's Hand
+                <p><b>Merc Template</b>: For all others
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:Fairy Chanting
+                <p><b>Research Template</b>
+                <p>S215,S305,S330,S400,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>D25,D200,D250,D1275,D1375,D2775,
+                <p>E135,E320,E590,E1225,E1425,E3250,
+                <p>A120,A305,A1200,A1500,A2950,A3400,
+                <p>W180,W275,W400,W1375,W3050,W3150
+            </div>
+        </div>
+             
             
             
             
@@ -307,7 +415,7 @@
             
           
 <br/>
-            <p><b>NOTE</b>: Some builds below will be obselete, we are sorting and marking them as we get new builds</p>
+            <p><b>NOTE: Some builds below will be obselete, we are sorting and marking them as we get new builds</b></p>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
