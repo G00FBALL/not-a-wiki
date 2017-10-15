@@ -23,6 +23,7 @@ a.tooltips span:after {
   border-right: 8px solid #000000;
   border-top: 8px solid transparent;
   border-bottom: 8px solid transparent;
+	box-shadow:0px 0px 10px 10px #4c5b86;
 }
 a:hover.tooltips span {
   visibility: visible;
