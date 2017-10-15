@@ -47,6 +47,32 @@
                 <p><b>Notes</b>: Requires excavations to set up for elf lineage.
          </div>
     </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;"Thor<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Titan
+                <p><b>A2950</b>: Dragon
+                <p><b>Range</b>: 1e69 (1 DVg) gems - 1e129 (1 Dqag) gems
+                <p><b>Requiments</b>: Veteran Figurine
+                <p><b>Merc Template</b>
+                <p>EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,
+                <p>SP:Dragon's Breath,SP:God's Hand
+                <p><b>Research Template</b>
+                <p>S215,S270,S305,S330,S2875,S3200,
+                <p>C150,C340,C400,C590,C1300,C3000,
+                <p>D25,D55,D245,D260,D320,D1275,
+                <p>E135,E260,E350,E1225,E1425,E3250,
+                <p>A120,A590,A1200,A1500,A2950,A3400,
+                <p>W180,W260,W400,W1275,W3050,W3150
+                <p><b>Notes</b>: 
+                <p>Replace C150 with C1500 if higher.
+                <p>Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
+                <p>Replace C400 with C1500 if high enough (100%+)
+                <p>May need excavations for spell tiers to set up at low gems
+         </div>
+    </div>
 </div>
                 </div>
 <?php include "../scripts/footer.html"; ?>
