@@ -305,7 +305,7 @@
             <tr>
                 <th style="width:100px; height: 35px" rowspan="2">Reincarnation</th>
                 <th style="width:55px" class="SSCalTieHid" rowspan="2">Tier</th>
-                <th style="width:55px" class="SSCalTieHid" title="Prismatic Breath" rowspan="2">PB</th>
+                <th style="width:55px" class="SSCalDra" title="Prismatic Breath" rowspan="2">PB</th>
                 <th colspan="2">Production bonus</th>
                 <th style="width:120px" class="ResUnl" rowspan="2">D245 production bonus</th>
             </tr>
@@ -316,13 +316,30 @@
             <tr>
                 <td><input id="SSCalRei" type="number" min="14" max="157" value="14"></td>
                 <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
-                <td class="SSCalTieHid" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
+                <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
                 <td id="SSCalProNoD245"></td>
                 <td id="SSCalProD245" class="ResUnl"></td>
                 <td id="SSCalD245" class="ResUnl"></td>
             </tr>
         </table>
         <script>
+            function CalSSHidSho(r) {
+                $('.ResUnl, .SSCalTieHid, .SSCalDra').css('display', 'none');
+                $('#SSCal th').removeAttr('rowspan colspan');
+                if (r >= 22) {
+                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
+                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
+                    $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
+                    $('tr.ResUnl').css('display', 'table-row');
+                }
+                if (r >= 40) {
+                    $('.SSCalTieHid').css('display', 'table-cell');
+                }
+                if (r >= 46) {
+                    $('.SSCalDra').css('display', 'table-cell');
+                }
+            }
+
             /**
              * @return {number}
              * @param rei
@@ -330,7 +347,7 @@
              * @param [dp]
              * @param [tier]
              */
-            function CalSSMul(rei, d245 = false, dp = false, tier = 1) {
+            function CalSSMul(rei, d245 = false, tier = 1, dp = false) {
                 var reinc = (d245) ? rei * 2 : rei;
                 reinc = (dp) ? reinc * 2 : reinc;
                 var base = 100 * 1.05**reinc + 1;
@@ -349,38 +366,34 @@
             function MulToBon(mul) {
                 return Math.floor(100 * (mul - 1));
             }
+
             function CalSS() {
                 var rei = parseInt($('#SSCalRei').val()),
-                    tie = 0,
+                    tie = 1,
                     dp = $('#SSCalPB').is(':checked'),
                     ProNoD245 = 0,
                     ProD245 = 0;
+                CalSSHidSho(rei);
                 if (rei < 22) {
-                    $('.ResUnl, .SSCalTieHid').css('display', 'none');
-                    $('#SSCal th').removeAttr('rowspan colspan');
                     ProNoD245 = CalSSMul(rei);
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
                 } else if (rei < 40) {
-                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
-                    $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
-                    $('tr.ResUnl').css('display', 'table-row');
-                    $('.SSCalTieHid').css('display', 'none');
                     ProNoD245 = CalSSMul(rei);
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
                     ProD245 = CalSSMul(rei, true);
-                    $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
-                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
-                } else {
-                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
-                    $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
-                    $('tr.ResUnl').css('display', 'table-row');
+                } else if (rei < 46) {
                     tie = parseInt($('#SSCalTie').val());
-                    $('.SSCalTieHid').css('display', 'table-cell');
-                    ProNoD245 = CalSSMul(rei, false, dp, tie);
+                    ProNoD245 = CalSSMul(rei, false, tie);
+                    ProD245 = CalSSMul(rei, true, tie);
+                } else {
+                    tie = parseInt($('#SSCalTie').val());
+                    ProNoD245 = CalSSMul(rei, false, tie, dp);
+                    ProD245 = CalSSMul(rei, true, tie, dp);
+                }
+                if (rei < 100 && tie > 6) {
+                    $('#SSCalProNoD245').text('N/A');
+                    $('#SSCalProD245').text('N/A');
+                    $('#SSCalD245').text('N/A');
+                } else {
                     $('#SSCalProNoD245').text(MulToBon(ProNoD245).toFixed(0) + '%');
-                    ProD245 = CalSSMul(rei, true, dp, tie);
                     $('#SSCalProD245').text(MulToBon(ProD245).toFixed(0) + '%');
                     $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245).toFixed(0) + '%');
                 }
