@@ -872,5 +872,6 @@
         </div>
     </div>
 </div>
+</div>
 <?php include "../scripts/footer.html"; ?>
 
