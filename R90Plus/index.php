@@ -131,16 +131,60 @@
                     <p><b>Bloodline</b>: Elf
                     <p><b>A2950</b>: Dragon
                     <p><b>Merc Template</b>
-                    <p>EL1,EL7,AN5,AN6,GB7,DD3,DD6,FC2,FC7,DN2,DG9,DG6,
+                    <p>EL1,EL7,AN5,AN6,GB7,DD3,DD6,FC2,FC7,DN2,DG6,DG9,
                     <p>SP:Dragon's Breath,SP:Lightning Strike
                     <p><b>Research Template</b>
-                    <p>S215,S305,S400,S1450,S1500,S3200,
-                    <p>C250,C400,C590,C1300,C3000,C3100,
+                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D245,D1275,D1375,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
-                    <p>W275,W400,W560,W1375,W1400,W3050
+                    <p>W260,W275,W400,W1375,W3050,W3150
                     <p><b>Notes</b>: Gets level 32 in under a hour without any buff to W275 or S400
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Burial (W275 Buff Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Lapare
+                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Range</b>: 1e90 (1 NoVg) gems(?)
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>A2950</b>: Elf
+                    <p><b>Merc Template</b>
+                    <p>FR9,EL3,EL7,TT6,DD4,FC2,FC5,FC7,DN2,DG3,DG6,DG9,
+                    <p>SP:Dragon's Breath,SP:God's Hand
+                    <p><b>Research Template</b>
+                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>C340,C590,C1300,C1325,C3000,C3100,
+                    <p>D25,D245,D250,D1275,D1375,D2775,
+                    <p>E135,E590,E1225,E1425,E3250,E3300,
+                    <p>A120,A590,A1200,A1500,A2950,A3400,
+                    <p>W275,W400,W560,W1400,W3050,W3150
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">400 Shades of Spells (S400 buff build)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Lapare
+                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Range</b>: 1e90 (1 NoVg) gems(?)
+                    <p><b>Faction</b>: Evil Mercenary
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>A2950</b>: Elf
+                    <p><b>M13</b>: UD7
+                    <p><b>Merc Template</b>
+                    <p>EL3,EL7,AN2,AN5,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,
+                    <p>SP:Night Time,SP:Grand Balance
+                    <p><b>Research Template</b>
+                    <p>S50,S215,S305,S400,S1450,S1500,
+                    <p>C250,C340,C590,C1300,C1500,C3000,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>E10,E135,E145,E350,E1225,E3250,
+                    <p>A120,A410,A590,A1500,A2950,A3400,
+                    <p>W180,W205,W400,W525,W3050,W3150
+                    <p><b>Notes</b>: Estimated run time 10-14 days to unlock Spell Master trophy.
         </div>
     </div>
 </div>
