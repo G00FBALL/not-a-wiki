@@ -221,10 +221,11 @@
         <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tax Season (S3200 unlock build) R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom
-                <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Undead
-                <p><b>Range</b>: 1e90 (1 NoVg)(?) gems
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Evil Mercenary
+                <p><b>Bloodline</b>: Dragon
+                <p><b>A2950</b>: Druid
+                <p><b>Range</b>: ? gems
                 <p><b>Merc Template</b>
                 <p>EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Night Time
@@ -236,11 +237,6 @@
                 <p>E10,E135,E145,E350,E1225,E3250,
                 <p>A10,A120,A175,A410,A1500,A2950,
                 <pW180,W275,W400,W525,W3050,W3150
-                <p><b>Note</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
-                <p><b>Note</b>: Build has three stages.
-                <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
-                <p><b>2</b>: Get Lineages and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.
-                <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
