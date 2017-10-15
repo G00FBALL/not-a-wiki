@@ -305,7 +305,7 @@
             
             
             
-         <!--   
+          
 <br/>
             <p><b>NOTE</b>: Some builds below will be obselete, we are sorting and marking them as we get new builds</p>
         <div class="shelementwhole">
@@ -872,7 +872,7 @@
                 <p>S30 instead of S500 for runs over 7-8 days.</p>
                 <p>Don't buy the tax collection upgrade(Round Table), turn off Druid Challenge 4 and autocast all spells + tax collection for buildup, which last until end of run. Buy Round Table and finish the run during Sun Force assistants.</p>
                 <p>Build is based on this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=17#posts-11422165"><b>forum</b></a> post</p>
-           --!> </div>
+            </div>
         </div>
     </div>
 </div>
