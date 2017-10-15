@@ -17,6 +17,7 @@
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
                 <p><b>Author</b>: Siku
                 <p><b>Note</b>: Using Dragless: Get to 1e90+  (1 NoVg) gems, Excavate to 8000 for the Obsidian Shard.
                 <p><b>Faction</b>: Neutral Mercenary
