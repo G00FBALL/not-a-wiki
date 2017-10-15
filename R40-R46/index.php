@@ -9,8 +9,10 @@
     <br/>
         <p><b>Updated October 14th 2017</p></b>
         <p><b>Note</b>: It is recommended to get at least 10 No (1e31) gems before starting stage 3 of Dragon Unlocks, 100 No (1e32) will be quicker for unlock stages. </p>
-    <div class="shlisting">
-                <p><b>Production</b>
+<div class="shlisting">
+    <p><b>Production</b></p>
+    <div class="category">
+              
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
