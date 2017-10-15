@@ -194,6 +194,8 @@
                 <p>Build comes from this <a target="_blank" href="https://docs.google.com/document/d/1dihhpSBa14_qsmDC9qZlhl5dWIgE9KQlobCqPtSqbsI/edit"><b>Google Docs</b></a> post</p>
             </div>
         </div>
+</div>
+    <div class="category">
         <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again + UL20 Push<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -219,7 +221,9 @@
                     <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
+        </div>
             <br/>
+    <div class="category">
        <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tax Season (S3200 unlock build) R81+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
