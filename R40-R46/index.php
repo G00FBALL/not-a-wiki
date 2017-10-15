@@ -96,7 +96,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 4 <font color="Blue">Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 4 <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
