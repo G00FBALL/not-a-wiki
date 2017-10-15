@@ -7,11 +7,8 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <h6>Page Outdated, New Builds Coming Soon</h6>
-
-        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
-    <br/>
-     <p><b>Note:</b> Unlocking Undead Lineage is a <b>must</b> before running R60-69 builds. Follow the builds as they are on the <a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Special Builds Section</b></a></p>
+     <p><b>Note</b>: Updated October 14th 2017</p>
+     <p><b>Note</b>: Unlocking Undead Lineage is a <b>must</b> before running R60-69 builds. Follow the builds as they are on the <a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Special Builds Section</b></a></p>
     <br/>
     <br/>
     <div class="shlisting">
@@ -20,70 +17,75 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan Start <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Master2080
+                    <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Titan/Dragon
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Range</b>: 0 - 1 No (E30) gems
-                    <p>S105,S135,S150,S305,S330,
-                    <p>C250,C251,C330,C340,C375,C400,
-                    <p>D55,D200,D245,D250,D320,
-                    <p>E135,E145,E275,E330,E460,
+                    <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                    <p>S105,S150,S270,S330,S500,
+                    <p>C150,C250,C330,C340,C400,C460,
+                    <p>D55,D150,D200,D245,D320,
+                    <p>E135,E145,E275,E400,E460,
                     <p>A105,A120,A250,A305,A400,
-                    <p>W150,W180,W290,W320,W330,W400
+                    <p>W120,W150,W180,W250,W260,W400
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Faceless Rush <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Faceless <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Necrodoom
+                    <p><b>Author</b>: Shophaune
                     <p><b>Faction</b>: Faceless/Dragon
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Range</b>: 1 No (E30) - ? gems
-                    <p>S135,S215,S305,S330,S1450,S1500,
+                    <p><b>Range</b>: 1e30 (1 No) gems - 1e80 (100 QiVg) gems
+                    <p>S215,S270,S305,S330,S1450,S1500,
                     <p>C250,C340,C400,C1300,C1325,
                     <p>D245,D260,D320,D1125,D1275,D1375,
-                    <p>E135,E145,E460,E1325,E1425,
-                    <p>A105,A120,A250,A305,A400,
+                    <p>E135,E145,E320,E1225,E1425,
+                    <p>A105,A120,A150,A250,A305,A400,
                     <p>W150,W180,W275,W400,W1375
-                    <p><b>Notes</b>: Excavating for 400 Royal Exchanges when running this build for the first time in an R might be needed.
                 </div>
             </div>
         </div>
         <br/>
-        <p><b>R70+</b></p>
+        <p><b>R70-R75</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan Start <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Titans <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Necrodoom
+                    <p><b>Author</b>: Siku
                     <p><b>Faction</b>: Titan/Dragon
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Range</b>: 0 - E30 (1 No) gems
-                    <p>S105,S135,S150,S305,S330,S500,
-                    <p>C150,C250,C251,C330,C340,C375,C400,
+                    <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                    <p>S105,S150,S215,S270,S330,S500,
+                    <p>C135,C150,C250,C330,C340,C400,C460,
                     <p>D55,D150,D200,D245,D250,D320,
                     <p>E135,E145,E275,E330,E400,E460,
-                    <p>A105,A120,A150,A305,A330,A400,
-                    <p>W150,W180,W250,W290,W320,W330,W400
-                </div>
+                    <p>A105,A120,A150,A250,A305,A400,
+                    <pW120,W150,W180,W250,W260,W330,W400
+                    <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+).
+               </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Faceless Rush <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Faceless <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Fonzoland
+                    <p><b>Author</b>: TemperGrace
                     <p><b>Faction</b>: Faceless/Dragon
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Range</b>: 1 No (E30) - E84 (1 Spvg) gems
-                    <p>S135,S215,S250,S305,S330,S1450,S1500,
-                    <p>C250,C330,C340,C400,C1300,C1325,
+                    <p><b>Range</b>: 1e30 (1 No) gems - 1e90 (1 NoVg) gems
+                    <p>S135,S215,S270,S305,S330,S1450,S1500,
+                    <p>C150,C250,C340,C400,C1300,C1325,
                     <p>D55,D245,D260,D320,D1125,D1275,D1375,
-                    <p>E135,E145,E350,E460,E1325,E1425,
-                    <p>A105,A120,A150,A250,A305,A400,
+                    <p>E135,E145,E320,E350,E1225,E1425,
+                    <p>A105,A120,A150,A305,A330,A400,
                     <p>W150,W180,W275,W290,W400,W1375
-                    <p><b>Notes</b>: Keep excavations low, DB5 takes 30-40 min first time, 5-15 min after and provides a noticable boost, DB6 takes (20-60 min)
                 </div>
             </div>
-            <div class="shelementwhole">
+
+                
+                    <br/>
+                        <br/>
+                    <p><b>Notes</b>: Builds below this point may or may not work.
+                
+                <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">High gem Faceless <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Fonzoland
