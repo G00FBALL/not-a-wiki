@@ -119,13 +119,13 @@
                 <p><b>A2950</b>: Druid (if leveling Druid Lineage use Dragon instead)
                 <p><b>Range</b>: R82+ gem count, use this straight after the Undead Lineage leveler.
                 <p><b>Merc Template</b>: For Fairy
-                <p>EL1,EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG4,DG7,
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:God's Hand
                 <p><b>Merc Template</b>: For Dragon
-                <p>EL1,EL3,EL7,AN5,GB7,DD3,DD4,FC7,DN2,DG4,TT6,DG7,
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
                 <p>SP:Fairy Chanting,SP:God's Hand
                 <p><b>Merc Template</b>: For all others
-                <p>EL1,EL3,EL7,AN5,GB7,DD3,DD4,FC7,DN2,DG4,TT6,DG7,
+                <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:Fairy Chanting
                 <p><b>Research Template</b>
                 <p>S215,S305,S330,S400,S1450,S1500,
