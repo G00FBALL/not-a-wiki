@@ -7,75 +7,101 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>All builds have been updated as of Oct, 12th 2017.</b>
-    <p>All builds come from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/830743-r40-75-builds-megathread"><b>forum</b></a> post</p>
-    <p>A guide for post-Ascension progression can be found <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/858173-guide-for-post-ascension-progressing-from-r40-to-r75"><b>here</b></a></p>
+        <p><b>Updated October 14th 2017</p></b>
+        <p><b>Note</b>: It is recommended to get at least 10 No (1e31) gems before starting stage 3 of Dragon Unlocks, 100 No (1e32) will be quicker for unlock stages. </p>
     <div class="shlisting">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan Production R40-R46 <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) Production <font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom
+                <p><b>Author</b>: Artcrow
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
-                <p><b>Range</b>: 0 - <b>1e31 gems</b>
+                <p><b>Range</b>: 0 - ?
                 <p>S135,S150,S270,S330,S500,
                 <p>C150,C251,C330,C340,C375,C400,
-                <p>D55,D245,D290,D320,D350,
+                <p>D55,D200,D245,D290,D320,
                 <p>E135,E145,E275,E330,E400,
                 <p>A105,A120,A250,A330,A400,
                 <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: Needs spell tiers to push past E25 (10 Sp) gems or R43. Getting titan Tier 3 spells is recommended. Swap A330 with A150 and S135 with S250 for longer runs.</p>
-                <p><b>Notes</b>: After 12h Hellfire Blast stage use this to push until <b>1e31 gems</b>.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (GG2/LS2)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                                <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Faction</b>: Titan
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: ? gems - ?
+                <p>S150,S250,S270,S330,S500,
+                <p>C150,C251,C330,C340,C375,C400,
+                <p>D55,D200,D290,D320,D350,
+                <p>E135,E145,E275,E400,E460,
+                <p>A105,A120,A250,A330,A400,
+                <p>W150,W180,W290,W320,W330,W400
+                <p><b>Notes</b>: Swap A330 with A150 if 1 hour run or more.
+                </div>
+        </div>
+        <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (SS2 Alternative)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                                <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Faction</b>: Titan
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e28 (10 Oc) gems - ?
+                <p>S105,S150,S215,S330,S500,
+                <p>C150,C251,C330,C340,C375,C400,
+                <p>D55,D200,D245,D290,D320,
+                <p>E135,E145,E275,E320,E400,
+                <p>A105,A120,A150,A250,A400,
+                <p>W150,W180,W290,W320,W330,W400
+                <p><b>Notes</b>: Requires 3 hours to unlock SS6. Not recommended for runs of over 9 hours (beaten by the original SS2 build). Swap S500 with S400 if higher.
+                </div>
+        </div>
+        <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 Unlock + S400 buff<font color="Blue"> Good</font></a></b></p>
+                                <div class="autohide">
+        <p><b>Author</b>: Artcrow
+        <p><b>Faction</b>: Good Mercenary
+        <p><b>Bloodline</b>: Druid
+        <p>FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,SP:Fairy Chanting,SP:Hellfire Blast
+                <p><b>Notes</b>: 20 million spells cast in 12 hours. S400=12500.
+                <p><b>Notes</b>: 40 million in 20 hours. S400=16000.
+                <p><b>Notes</b>: 55 milion in 24 hours. S400=18000.
+        </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 Unlock <font color="Blue">Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Faction</b>: Fairy/Dwarf
+                <p><b>Bloodline</b>: Druid
+                <p>S180,S250,S330,S400,S545,S590,
+                <p>C10,C80,C150,C330,C340,C400,C405,
+                <p>D55,D200,D245,D290,D320,
+                <p>E50,E135,E145,E330,E400,
+                <p>A30,A105,A120,A150,A250,
+                <p>W150,W180,W290,W320,W400
+                <p><b>Notes</b>: Estimated run time 1 day+. Can be tried at e30 gems but may take over 3 days.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (SS2)/Dragon Stage 4 unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Faction</b>: Titan
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e27 (1 Oc) gems - ?
+                <p>S150,S215,S250,S330,S500,
+                <p>C150,C251,C330,C340,C375,C400,
+                <p>D55,D200,D245,D290,D320,
+                <p>E135,E145,E275,E400,E460,
+                <p>A105,A120,A150,A250,A400,
+                <p>W150,W180,W290,W320,W330,W400
+                <p><b>Note</b>: Requires 6 hours to unlock SS6. Swap E400 with E30 if run over 12 hours. Swap S500 with S400 if higher.
+                <p><b>Note</b>:  At e31 (10 No) gems (requires using S400 with at least 14k bonus, estimated run time 10 hours)
             </div>
         </div>
         <!--<div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Research Points Push<font color="DarkRed"> Evil</font></a></b></p>
-                                <div class="autohide">
-        <p><b>Author</b>: Necrodoom
-        <p><b>Faction</b>: Goblin/Drow
-        <p><b>Bloodline</b>: Druid
-        <p>S50,S105,S135,S400,S500,
-        <p>C105,C250,C305,C330,C400,
-        <p>D150,D200,D250,D290,D560,
-        <p>E30,E135,E145,E250,E290,E590,
-        <p>A105,A120,A270,A305,A410,
-        <p>W135,W150,W205,W250,W290,W320,W400
-        </div>
-        </div>-->
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> S400 Boost <font color="DarkRed">Evil</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Fonzoland + Curunur
-                <p><b>Faction</b>: Goblin/Drow
-                <p><b>Bloodline</b>: Druid
-                <p>S50,S105,S330,S400,S500,
-                <p>C250,C305,C330,C340,C400,
-                <p>D55,D200,D250,D290,D320
-                <p>E80,E135,E145,E225,E250,E590,
-                <p>A120,A250,A270,A400,A410
-                <p>W135,W180,W205,W250,W290,W400,W520
-                <p><b>Notes</b>: Do Not buy the Drow Trade Treaty before you are ready. Stay as Goblin to benefit from A400, allowing you to buy more goblin banks and increase S50. Do so until the next S50 level is too far away to get in a short amount of time (S50 increases at 5015, 5416, 5958, 6500 Goblin Banks).Once Drow, have only Combo Strike, Blood Frenzy and Tax Collection on autocast for maximum effiiency.</p>
-            </div>
-        </div>
-        <p><b>Note</b>: After getting to R46 get the Egg and work your way to <b>10 No (E31) gems</b> Hatching the Egg and doing the 12 hour Hellfire Blast stage.
-        <p><b>Note</b>: A detailed Guide for R46 can be found <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/753457-spoilers-r46-guide"><b>here</b></a></p>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Stage 3 Fairy Army <font color="Blue">Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Fonzoland + Curunur
-                <p><b>Faction</b>: Fairy/Dwarf
-                <p><b>Bloodline</b>: Druid
-                <p><b>Range</b>: E31 (10 No)+ gems
-                <p>S150,S180,S330,S400,S500,S590,
-                <p>C80,C135,C150,C330,C340,C400,C460,
-                <p>D55,D200,D245,D320,D480,
-                <p>E50,E135,E145,E410,E480,
-                <p>A105,A120,A150,A250,A400,
-                <p>W120,W150,W180,W320,W400
-                <p><b>Note</b>: Use this build after getting to <b>1e31 gems</b>. Swap A400 with A330 if A330 is bigger.
-            </div>
-        </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Stage 4 Grow Dragon <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Fonzoland + Curunur
@@ -91,6 +117,6 @@
                 <p><b>Note</b>: Use this build after getting to <b>1e31 gems</b>
                 <p><b>Notes</b>: Gets stage 4 unlock almost instantly.
             </div>
-        </div>
+        </div>--!>
     </div>
 <?php include "../scripts/footer.html"; ?>

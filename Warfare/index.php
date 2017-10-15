@@ -163,7 +163,7 @@
     <p><B>Formula</B>: 0.2 * x^2, where x is percent of trophies unlocked
     <p><b>----------------------------------</b></p>
     <p><b>W1375</b> - <b>For</b> Any - <B>Research Name</B> Scavenging
-    <p><B>Requirement</B>: 86400s (24 hours) Evil Time Spent (Across all R's)
+    <p><B>Requirement</B>: 7 days spent as evil (Across all Rs)
     <p><B>Effect</B>: Increases Faction Coin find chance by a multiplicative 275%.
     <p><B>Effect</B>: Increase the chance to find Faction Coins based on the amount of assistants you own.
     <p><B>Formula</B>: (2500*x^0.425), where x is assistants.

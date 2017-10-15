@@ -36,5 +36,5 @@
 <p><b>----------------------------------</b></p>
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/StarBlessingChallenges.png" alt="Star Blessing</p>" align="middle"> <b>Star Blessing</b></p>
-<p><b>Effect</b>: Automatic clicks from Sun Blessing have an additional 5% chance to trigger Elven Luck, gaining coins equal to 8.14% of your production and gathering 1000 random faction coins.</p>
+<p><b>Effect</b>: Automatic clicks from Sun Blessing have an additional 5% chance to trigger Elven Luck, gaining coins equal to 250000% of your production and gathering 1000 random faction coins.</p>
 <?php include "../scripts/footer.html"; ?>
