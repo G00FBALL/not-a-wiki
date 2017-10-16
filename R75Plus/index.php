@@ -75,6 +75,28 @@
       </div>
     <div class="category">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans (R77-80)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Neutral Mercenary
+                <p><b>Bloodline</b>: Undead
+                <p><b>A2950</b>: Dragon
+                <p><b>Merc Template</b>
+                <p>EL3,EL7,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
+                <p>P:Dragon's Breath,SP:God's Hand
+                <p><b>Research Template</b>
+                <p>S215,S270,S305,S330,S1450,S1500,
+                <p>C340,C400,C590,C1300,C1500,C3000,
+                <p>D25,D245,D590,D1275,D1375,D2775,
+                <p>E135,E145,E320,E350,E1225,E1425,
+                <p>A105,A120,A150,A175,A1500,A2950,
+                <p>W25,W150,W180,W275,W400,W1375
+                <p><b>Note</b>: Replace W25 with W3150 at R79
+                </div>
+        </div>
+      </div>
+    <div class="category">
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Merchant Night King (R77-R80)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: pmpch
@@ -84,7 +106,7 @@
                 <p><b>Range</b>: 1e90 (1 NoVg) gems - 1e100 (10 DTg) gems
                 <p><b>Merc Template</b>
                 <p>EL7,AN2,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,
-                <p>SP:God's Hand,SP:Dragon's Breath,
+                <p>SP:God's Hand,SP:Dragon's Breath
                 <p><b>Research Template</b>
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C340,C400,C590,C1300,C1500,C3000,
