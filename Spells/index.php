@@ -109,7 +109,7 @@
                 </tr>
                 <tr>
                     <td>Reincarnations</td>
-                    <td><input type="number" min="40" max="157" name="rmin" id="rmin" value="40">-<input type="number" min="40" max="157" name="rmax" id="rmax" value="50"></td>
+                    <td><input type="number" min="42" max="157" name="rmin" id="rmin" value="42">-<input type="number" min="42" max="157" name="rmax" id="rmax" value="50"></td>
                 </tr>
                 <tr>
                     <td colspan="2"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
