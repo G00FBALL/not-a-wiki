@@ -109,6 +109,7 @@
                 <p>A105,A120,A150,A250,A400,
                 <p>W150,W180,W290,W320,W330,W400
                 <p>Requires using S400 with at least 14k bonus, estimated run time 10 hours.
+                <p>If you do not buff S400 and S500 is higher use S500.
             </div>
         </div>
         <!--<div class="shelementwhole">
