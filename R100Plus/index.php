@@ -163,17 +163,17 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e27 (1 Oc) Gems<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: ensteffahn
+                    <p><b>Author</b>: Artgor 
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
                     <p><b>Template</b>
-                    <p>S225,S3200,
-                    <p>C400,
-                    <p>D25,D3350,
-                    <p>E10,E1325,
-                    <p>A1,A175,A3400,
-                    <p>W50,W205
+                    <p>S500,
+                    <p>C50,C3100,
+                    <p>D10,D200,
+                    <p>E230,E1325,
+                    <p>A3400,W1,
+                    <p>W175,W205
                     <p><b>Notes</b>: Set all spells, that cost at most 2500 mana (and Temporal Flux) on bronze, TC on silver (contingency 90%), get to SS3 and tier 6 on the rest, get to max mana and cast all spells.
                     <p><b>Notes</b>: Estimated time of 30 minutes to unlock.
         </div>
