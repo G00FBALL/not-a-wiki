@@ -136,7 +136,7 @@
             var minTier = 2;
             var maxTier = 6;
             var arcane = 0;
-            var minReinc = 40;
+            var minReinc = 42;
             var maxReinc = 50;
             if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
                 minTier = parseInt(localStorage.getItem('mint'));
