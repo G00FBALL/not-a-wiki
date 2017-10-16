@@ -102,7 +102,7 @@
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
                 <p><b>Range</b>: 1e27 (1 Oc) gems - ?
-                <p>S150,S215,S270,S330,S500,
+                <p>S150,S270,S330,S400,S500,
                 <p>C150,C251,C330,C340,C375,C400,
                 <p>D55,D200,D245,D290,D320,
                 <p>E135,E145,E275,E320,E460,
