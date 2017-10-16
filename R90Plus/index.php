@@ -20,6 +20,7 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Demon
                 <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                <p><b>Requiments</b>: Demon Lineage level 25+
                 <p><b>Research Template</b>
                 <p>S105,S150,S215,S270,S330,S500,
                 <p>C135,C150,C250,C330,C340,C400,C460,
@@ -31,12 +32,13 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Faceless1 e30-1e90 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Faceless 1e30-1e90 gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Elf
                 <p><b>Range</b>: 1e30 (1 No) gems - 1e90 (1 NoVg)(?) gems
+                <p><b>Requiments</b>: Elf Lineage level 30+
                 <p><b>Research Template</b>
                 <p>S215,S250,S270,S305,S330,S1450,S1500,
                 <p>C250,C330,C340,C400,C1300,C1325,
