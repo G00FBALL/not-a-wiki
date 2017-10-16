@@ -167,19 +167,18 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">400 Shades of Spells (S400 buff build)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ghosts of Taxes Future (S400 buff build)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
                     <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Range</b>: 1e90 (1 NoVg) gems(?)
                     <p><b>Faction</b>: Evil Mercenary
-                    <p><b>Bloodline</b>: Undead
-                    <p><b>A2950</b>: Elf
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>A2950</b>: Druid
                     <p><b>M13</b>: UD7
-                    <p><b>Merc Template</b>
+                    <p><b>Template</b>
                     <p>EL3,EL7,AN2,AN5,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,
-                    <p>SP:Night Time,SP:Grand Balance
-                    <p><b>Research Template</b>
+                    <p>SP:Night Time,SP:Grand Balance,
                     <p>S50,S215,S305,S400,S1450,S1500,
                     <p>C250,C340,C590,C1300,C1500,C3000,
                     <p>D25,D200,D245,D1275,D1375,D2775,
