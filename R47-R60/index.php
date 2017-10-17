@@ -5,20 +5,22 @@
     <?php include "../scripts/header.html"; ?>
     <BR/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-    <br/>
-
-        <p><b>NOTE</b>: Updated October 14th 2017</p>
-        <p><b>NOTE</b>: We will be adding builds as we get them</p>
-    <br/>
-    <br/>
-    <div class="shlisting">
+<br/>
+<br/>
+    <p><b>NOTE</b>: Updated October 14th 2017
+    <p><b>NOTE</b>: We will be adding builds as we get them.<br/>
+<br/>
+<div class="shlisting">
+    <p><b>Production Builds</b></p>
+    <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-R54)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Template</b>
                 <p>S105,S150,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D320,
@@ -26,10 +28,13 @@
                 <p>A105,A120,A250,A305,A400,
                 <p>W120,W150,W180,W250,W260,W400
             </div>
+          </div>
         </div>
-     <br/>
-    <br/>
-       <p><b>NOTE</b>: Builds below this point are old and may or may not work</p>
+        <br/>
+        <br/>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Old(not updated) and/or obsolete</a></b></p>
+        <div class="category autohide">
+    <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -130,10 +135,6 @@
                 <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Deep Mine strike and green breath together for maximal production.
             </div>
         </div>
-        <br/>
-        <p><b>Note</b>: Faceless/Dragon are much better with Dragon Challenge 3, not required, but should be a priority at R54.</p>
-        <br/>
-        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R53/54 DM-Titan<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -197,4 +198,6 @@
             </div>
         </div>
     </div>
+        </div>
+        </div>
 <?php include "../scripts/footer.html"; ?>
