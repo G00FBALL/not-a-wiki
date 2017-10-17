@@ -168,7 +168,7 @@
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
                     <p><b>Template</b>
-                    <p>S500,
+                    <p>S105,
                     <p>C50,C3100,
                     <p>D10,D200,
                     <p>E230,E1325,
