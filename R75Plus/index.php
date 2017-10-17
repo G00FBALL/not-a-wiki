@@ -75,7 +75,7 @@
       </div>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Night of the living Mercs (R77-80)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Night of the Living Mercs (R77-80)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Neutral Mercenary
@@ -83,7 +83,7 @@
                 <p><b>A2950</b>: Dragon
                 <p><b>Merc Template</b>
                 <p>EL3,EL7,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
-                <p>P:Dragon's Breath,SP:God's Hand
+                <p>SP:Dragon's Breath,SP:God's Hand
                 <p><b>Research Template</b>
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C340,C400,C590,C1300,C1500,C3000,
