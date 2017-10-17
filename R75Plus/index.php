@@ -313,7 +313,7 @@
                     <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Elf/Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow (1 at a time)
-                    <p><b>A2950</b>: Dragon
+                    <p><b>A2950</b>: Druid
                     <p><b>Range</b>: (?)
                     <p><b>Template</b>
                     <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
