@@ -246,7 +246,7 @@
             <p><b>LINEAGES [v2.6.0.0 Full Patch Notes] [March 10, 2017]</b>
             <p><b>NEW MECHANIC</b>: FACTION LINEAGES. Starting at Reincarnation 60, you will be able to choose a Faction Lineage. You will be able to upgrade your Lineage by spending massive amount of Faction Coins, gaining progressively higher bonuses and unlocking new perks at specific thresholds, including more spells taken from the Faction Spells pool. In order to purchase a Lineage, you will need to have 400 Exchanges and a Bloodline of a specific faction. You cannot use the same Lineage as your faction.
             <p><b>NEW TROPHIES</b> related to Lineages and more.
-            <p><b>EW REINCARNATION POWER</b>: at Reincarnation 60, increasing Faction Coins found if they match your Faction or Bloodline.
+            <p><b>NEW REINCARNATION POWER</b>: at Reincarnation 60, increasing Faction Coins found if they match your Faction or Bloodline.
             <p><b>NEW LOCALIZATIONS</b>: Italian and Russian.
             <p>Fixed a lot of text and translation bugs, typos, missing or cut off strings, etc.
             <p>Fixed Knights Joust icon not showing the trophy tab.
