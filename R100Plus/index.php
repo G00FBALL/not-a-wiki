@@ -217,7 +217,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
-                    <p><b>Faction</b>: Druid
+                    <p><b>Faction</b>: Druid (see note)
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
                     <p>S3200,
