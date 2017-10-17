@@ -52,7 +52,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
-                <p><b>Requiments</b>: Veteran Figurine
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                 <p><b>Range</b>: 1e30 (1 No) - 1e90(1e92?) (1 NoVg) Gems
