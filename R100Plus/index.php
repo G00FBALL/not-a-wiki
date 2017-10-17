@@ -217,7 +217,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
-                    <p><b>Faction</b>: Faceless
+                    <p><b>Faction</b>: Druid for about 5 minutes to get the required excavations, then go Faceless
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
                     <p>S3200,
@@ -226,7 +226,6 @@
                     <p>E260,E290,
                     <p>A250,A251,A375,
                     <p>W350,W1375
-                    <p><b>Notes</b>: Estimated 12 hours to unlock.
         </div>
     </div>
 </div>
