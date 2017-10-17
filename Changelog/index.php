@@ -5,7 +5,7 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the options window (In game).</p>
 <div class="shlisting">
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ascension 2 [v3.0.0] October 11th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">ASCENSION 2 [v3.0.0] October 11th, 2017</a></b></p>
         <div class="autohide">
                 <p><strong>Ascension 2</strong> will become available at Reincarnation 99 or higher. Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase.</p>
                 <p><em>When performing Ascension 2, all Lineages will be set back to level 25 if higher.</em></p>
@@ -245,7 +245,7 @@
         <div class="autohide">
             <p><b>LINEAGES [v2.6.0.0 Full Patch Notes] [March 10, 2017]</b>
             <p><b>NEW MECHANIC</b>: FACTION LINEAGES. Starting at Reincarnation 60, you will be able to choose a Faction Lineage. You will be able to upgrade your Lineage by spending massive amount of Faction Coins, gaining progressively higher bonuses and unlocking new perks at specific thresholds, including more spells taken from the Faction Spells pool. In order to purchase a Lineage, you will need to have 400 Exchanges and a Bloodline of a specific faction. You cannot use the same Lineage as your faction.
-            <p><b>NEW TROPHIES</b>" related to Lineages and more. N
+            <p><b>NEW TROPHIES</b> related to Lineages and more.
             <p><b>EW REINCARNATION POWER</b>: at Reincarnation 60, increasing Faction Coins found if they match your Faction or Bloodline.
             <p><b>NEW LOCALIZATIONS</b>: Italian and Russian.
             <p>Fixed a lot of text and translation bugs, typos, missing or cut off strings, etc.
