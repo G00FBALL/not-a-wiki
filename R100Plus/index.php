@@ -112,6 +112,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e20 (100 Qi) Gems
+                    <p><b>Alignment</b>: Good, Proof of Order
                     <p><b>Faction</b>: Angel
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
