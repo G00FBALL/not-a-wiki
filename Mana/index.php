@@ -40,7 +40,7 @@
 <p><b>Requirement</b>: 1 T (1E12) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Ocean" align="middle"> Mana Ocean</b></p>
-<p><b>Requirement</b>: 2 T (2E13) mana produced, R40+</p>
+<p><b>Requirement</b>: 2 T (2E12) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png" alt="Mana Spring" align="middle"> Mana Spring</b></p>
 <p><b>Requirement</b>: 100 T (1E14) mana produced, R100+</p>
