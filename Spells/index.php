@@ -298,7 +298,7 @@
     </br>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Spiritualsurge.png" alt="All Factions" align="middle"> Spiritual Surge</b> (All Factions)</p>
     <p><b>Works For</b>: All (R14+) - <b>Cost</b>: 2500 Mana - <b>Duration</b>: 20 seconds </p>
-    <p><b>Effect</b>: Increase the production of all buildings based on the amount of times you reincarnated and ascended for 236 seconds.</p>
+    <p><b>Effect</b>: Increase the production of all buildings based on the amount of times you reincarnated and ascended.</p>
     <p><b>Formula</b>: (10000*1.05^x)^(1+0.5*y)%, where x is the number of times you have reincarnated and y is how many times you ascended.</p>
     <div id="SSCal" class="calculator">
         <table>
