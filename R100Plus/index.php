@@ -113,7 +113,7 @@
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e20 (100 Qi) Gems
                     <p><b>Faction</b>: Angel
-                    <p><b>Bloodline</b>: Drow
+                    <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
                     <p>S10,S3200,
                     <p>C25,C330,
