@@ -77,6 +77,7 @@
             <div class="autohide">
                     <p><b>Author</b>: FutureSin
                     <p><b>Range</b>: e16 (10 Qa) Gems
+                    <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Undead
                     <p><b>Template</b>
@@ -94,6 +95,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Alignment</b>: Good, Proof of Balance
                     <p><b>Faction</b>: Elf
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
@@ -131,6 +133,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Alignment</b>: Good, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
@@ -148,6 +151,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Alignment</b>: Evil, Proof of Order
                     <p><b>Faction</b>: Undead
                     <p><b>Bloodline</b>: Drow
                     <p><b>Template</b>
@@ -166,6 +170,7 @@
             <div class="autohide">
                     <p><b>Author</b>: Artgor 
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
                     <p><b>Template</b>
@@ -183,6 +188,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e24 (1 Sp) Gems
+                    <p><b>Alignment</b>: Good, Proof of Order
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
@@ -200,6 +206,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e31 (10 No) Gems
+                    <p><b>Alignment</b>: Good, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Template</b>
@@ -218,6 +225,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Druid (see note)
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
