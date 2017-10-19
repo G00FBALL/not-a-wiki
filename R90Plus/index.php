@@ -17,7 +17,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans 0-1e33 Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Siku
-                <p><b>Requiments</b>: Demon Lineage level 25+
+                <p><b>Requirements</b>: Demon Lineage level 25+
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Demon
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
@@ -38,7 +38,7 @@
                 <p><b>Range</b>: 1e30 (1 No) - 1e90 (1 NoVg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Elf
-                <p><b>Requiments</b>: Elf Lineage level 30+
+                <p><b>Requirements</b>: Elf Lineage level 30+
                 <p><b>Template</b>
                 <p>S215,S250,S270,S305,S330,S1450,S1500,
                 <p>C250,C330,C340,C400,C1300,C1325,
@@ -53,7 +53,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor 1e69 (1 DVg)-1e129 (1 Dqag) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Requiments</b>: Veteran Figurine
+                <p><b>Requirements</b>: Veteran Figurine
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
@@ -82,7 +82,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
-                <p><b>Requiments</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
+                <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
                 <p><b>Template</b>
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:Grand Balance,
@@ -110,7 +110,7 @@
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Elf
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Template</b>
                     <p>EL7,AN3,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG6,DG9,
                     <p>SP:God's Hand,SP:Fairy Chanting,
@@ -127,7 +127,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Burial (W275 Buff) 1e90 (1 NoVg) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Undead
@@ -147,7 +147,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ghosts of Taxes Future (S400 Buff, Spell Master)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Evil Mercenary
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Druid
@@ -168,7 +168,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blue Conspiracy (Alternative Active Play S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: DoubleShoe
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Evil Mercenary
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Elf
@@ -196,7 +196,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Magic of Rivendell (Elf)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Elf
                     <p><b>A2950</b>: Dragon
@@ -217,7 +217,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Undead)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Kherti
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Undead
                     <p><b>A2950</b>: Elf
@@ -238,7 +238,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Dragon)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Kherti
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Druid
@@ -258,7 +258,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Fairy)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Kherti
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Fairy
                     <p><b>A2950</b>: Druid
@@ -278,7 +278,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Druid)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Kherti
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Druid
                     <p><b>A2950</b>: Dragon
@@ -298,7 +298,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (All Others)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Kherti
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow (1 at a time)
                     <p><b>A2950</b>: Druid
