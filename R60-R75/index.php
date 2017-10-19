@@ -14,19 +14,19 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (R60-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R60-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom
+                <p><b>Author</b>: Wlerin
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
-                <p>S105,S150,S270,S330,S500,
+                <p>S105,S200,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D320,
-                <p>E135,E145,E275,E400,E460,
+                <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W400
+                <p>W120,W150,W180,W260,W330,W400
          </div>
     </div>
         <div class="shelementwhole">
@@ -45,20 +45,21 @@
                 <p>W150,W180,W275,W400,W1375
          </div>
     </div>
+<br/>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Siku
+                <p><b>Author</b>: Wlerin
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
-                <p>S105,S150,S215,S270,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
+                <p>S105,S200,S270,S300,S330,S500,
+                <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
-                <p>E135,E145,E275,E330,E400,E460,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W330,W400
+                <p>E135,E145,E275,E320,E330,E400,
+                <p>A105,A120,A250,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
                 <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+).
          </div>
     </div>
