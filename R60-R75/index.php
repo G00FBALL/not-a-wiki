@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>NOTE</b>: Updated October 14th 2017
+    <p><b>NOTE</b>: Updated October 19th 2017
     <p><b>NOTE</b>: We will be adding builds as we get them.<br/>
 <br/>
 <div class="shlisting">
