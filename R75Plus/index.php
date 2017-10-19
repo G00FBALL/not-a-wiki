@@ -309,7 +309,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding (All Others)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
-                    <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Elf/Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow (1 at a time)
                     <p><b>A2950</b>: Druid
