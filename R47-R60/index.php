@@ -14,7 +14,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-R54)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Titan/Dragon
@@ -22,11 +22,146 @@
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
                 <p>S105,S150,S270,S330,S500,
+                <p>C150,C250,C330,C340,C375,C400,
+                <p>D55,D150,D200,D245,D320,
+                <p>E135,E145,E275,E320,E330,
+                <p>A105,A120,A250,A305,A400,
+                <p>W150,W180,W290,W320,W330,W400
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Dragtans (R47-R48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S135,S270,S305,S330,S500,
+                <p>C105,C150,C250,C330,C340,C400,
+                <p>D55,D200,D245,D320,D1125,
+                <p>E135,E145,E320,E400,E460,
+                <p>A105,A120,A250,A305,A400,
+                <p>W150,W180,W260,W290,W320,W400
+                <p><b>Notes</b>: Time together Lightning Strike on Wyrm's den and Red Breath for maximal production.
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Dragtans (R47-R48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Template</b>
+                <p>S105,S200,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D320,
-                <p>E135,E145,E275,E400,E460,
+                <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W400
+                <p>W120,W150,W180,W260,W330,W400
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R49)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S500,
+                <p>C105,C150,C250,C330,C340,C400,
+                <p>D55,D200,D245,D320,D350,
+                <p>E135,E145,E400,E460,E1225,
+                <p>A120,A250,A305,A400,A1200,
+                <p>W120,W150,W180,W260,W320,W400
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R50)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S500,
+                <p>C105,C150,C250,C330,C340,C400,
+                <p>D55,D200,D245,D320,D1275,
+                <p>E135,E145,E400,E460,E1225,
+                <p>A120,A250,A305,A400,A1200,
+                <p>W120,W150,W180,W260,W400,W1275
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R51)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S500,
+                <p>C150,C250,C330,C340,C400,C1300,
+                <p>D55,D150,D245,D320,D1275,
+                <p>E135,E145,E275,E460,E1225,
+                <p>A120,A250,A305,A400,A1200,
+                <p>W120,W150,W180,W260,W400,W1275
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R52)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S500,
+                <p>C150,C250,C330,C340,C400,C1300,
+                <p>D55,D150,D245,D320,D1275,
+                <p>E135,E145,E275,E460,E1225,
+                <p>A120,A250,A305,A400,A1200,
+                <p>W120,W180,W260,W400,W1275,W1375
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R53-R54)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S500,
+                <p>C150,C250,C330,C340,C400,C1300,
+                <p>D55,D150,D245,D320,D1275,
+                <p>E135,E145,E460,E1225,E1425,
+                <p>A120,A250,A305,A400,A1200,
+                <p>W120,W180,W260,W400,W1275,W1375
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
+            </div>
+          </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S500,
+                <p>C250,C330,C340,C400,C1300,C1500,
+                <p>D55,D150,D245,D320,D1275,
+                <p>E135,E145,E460,E1225,E1425,
+                <p>A120,A250,A305,A400,A1200,
+                <p>W120,W180,W260,W400,W1275,W1375
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production. Use only if DC3 is not unlocked yet, as Druidline Faceless is faster.
             </div>
           </div>
         </div>
@@ -34,6 +169,8 @@
         <br/>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Old(not updated) and/or obsolete</a></b></p>
         <div class="category autohide">
+    <br/>
+    <br/>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
