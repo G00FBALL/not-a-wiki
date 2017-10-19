@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>NOTE</b>: Updated October 14th 2017
+    <p><b>NOTE</b>: Updated October 19th 2017
     <p><b>NOTE</b>: We will be adding builds as we get them.<br/>
 <br/>
 <div class="shlisting">
@@ -22,12 +22,12 @@
                 <p><b>Bloodline</b>: Demon
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
-                <p>S105,S150,S215,S270,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
+                <p>S105,S200,S270,S300,S330,S500,
+                <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
-                <p>E135,E145,E275,E330,E400,E460,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W330,W400
+                <p>E135,E145,E275,E320,E330,E400,
+                <p>A105,A120,A250,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
                 <p><b>Notes</b>: Requires excavations to set up for Demon Lineage.
          </div>
     </div>
@@ -35,7 +35,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Faceless 1e30 (1 No)-1e90 (1 NoVg) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 1e30 (1 No) - 1e90 (1 NoVg) Gems
+                <p><b>Range</b>: 1e30 (1 No) - 1e90 (1 NoVg)? Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Elf
                 <p><b>Requirements</b>: Elf Lineage level 30+
@@ -78,11 +78,11 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ragnarok 1e90 (1 NoVg)-1.778e138 (1.778 Qiqag) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
+                <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
                 <p><b>Range</b>: 1e90 (1 NoVg)(?) - 1.778e138 (1.778 Qiqag) Gems
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
-                <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
                 <p><b>Template</b>
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:Grand Balance,
@@ -94,7 +94,7 @@
                 <p>W180,W260,W400,W1275,W3050,W3150
                 <p><b>Notes</b>: 
                 <p>Replace Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
-                <p>Replace C400 with C1500 if high enough (100%+)
+                <p>Replace C400 with C1500 if high enough (100%+).
                 <p>Replace W260 with W275 if buffed.
          </div>
     </div>
