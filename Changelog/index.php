@@ -224,7 +224,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2.6.2</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.6.2</a></b></p>
         <div class="autohide">
             <p><b>Global Reminder</b>: The Easter Event will be starting on Apr 12th 2017, 12.00 PM UTC and will end on Apr 19th 2017, 7.00 PM UTC.
             <p><b>NEW TROPHIES</b>: added an element to most regular trophy series and one new Secret Trophy!
@@ -263,7 +263,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Patch 2.5.6</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.5.6</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.5.6 Feb 11th, 2017</b>
             <p><b>Global Announcement</b>: Realm Grinder Mobile has been officially released worldwide. Look for it on Google Play Store and Apple App Store! Added translations to the game for the following languages: Spanish, German, French and Brazilian Portuguese. Language will be auto-detected, and you will be able to change it from the new Language button in the options panel.
@@ -380,7 +380,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Summer Festival</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Summer Festival [v2.2]</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.2 - Aug 29, 2016</b>
             <p><b>Global Reminder</b>:
@@ -392,7 +392,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2.1 Spell Tiers</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.1 Spell Tiers</a></b></p>
         <div class="autohide">
             <p><b>2.1.0 - Jul 2, 2016</b>
             <p><b>NEW SPELL SYSTEM</b>: starting from Reincarnation 42 (post-ascension), you can unlock upgrades which will allow you to cast a single spell up to 5 times simultaneously, also multiplying their effects, for increased mana costs. To unlock them, you must have enough Activity Time with each respective spell. In addition, each spell tier upgrade will also increase offline production based on mana statistics.
@@ -414,7 +414,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2.0 Realm Grinder Graphic Overhaul</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.0 Realm Grinder Graphic Overhaul</a></b></p>
         <div class="autohide">
             <p><b>2.0.9.1 - 2.0.12</b>
             <p><b>Jun 30, 2016 - Graphics Notes</b>
@@ -508,7 +508,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.6 Secrets Of the Underworld</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.6 Secrets Of the Underworld</a></b></p>
         <div class="autohide">
             <p><b>New in v1.6.55</b>
             <p>1.6.55 On June 30TH 2016 Realm Grinder will launch a major upfate which will change all the user interface and graphics.
@@ -603,7 +603,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.5 Secrets Of The Ancients</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.5 Secrets Of The Ancients</a></b></p>
         <div class="autohide">
             <p><b>1.5.47.2</b> - Feb 11 2016
             <p><b>Global Reminder</b>: the Valentine's Day Event is starting on Feb 12th 2016, 1.01 PM UTC and will end on Feb 16th 2016, 12.59 PM UTC!
@@ -702,7 +702,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.4 Secrets Of The Realm</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.4 Secrets Of The Realm</a></b></p>
         <div class="autohide">
             <p><b>1.4.41</b> - Nov 21, 2015
             <p>Added a timer for Green Fingers Discount.
@@ -781,7 +781,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.3 Afterlife</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.3 Afterlife</a></b></p>
         <div class="autohide">
             <p><b>1.3.36</b> - Oct 5, 2015
             <p>Fairy's Kind Hearts improved: now increases maximum mana by 1 each 12 buildings, up from 1 each 15.
@@ -918,7 +918,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.2 The Underworld</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2 The Underworld</a></b></p>
         <div class="autohide">
             <p><b>1.2.29</b> - Aug 5th, 2015
             <p>Elves upgrades and spell Elves upgrades and spell rebalanced: Secret Clicking Techniques and Moon Blessing now use a new formula to calculate bonuses from total clicks. Mouse clicks should feel much more rewarding and will provide a much higher bonus up to ~300,000 clicks, afterwards huge diminishing returns will kick in.
@@ -1010,7 +1010,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.1 The Ancient Races</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1 The Ancient Races</a></b></p>
         <div class="autohide">
             <p><b>1.1.23</b> - Jul 10th, 2015
             <p>Titans' Heavy Coins upgrade now gives +40% bonus to Royal Exchanges, up from +10%; Titan Heritage now gives +15% bonus to Royal Exchanges, up from +5%; Charged Structures now gives a +150% bonus, up from +100%; Cyclopean Strength now gives +0.3% bonus, up from 0.25%.
@@ -1108,7 +1108,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">1.0 Realm Grinder</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0 Realm Grinder</a></b></p>
         <div class="autohide">
             <p><b>1.0.13</b> - Jun 3rd, 2015
             <p>ADDED an option for displaying numbers in scientific notation.
