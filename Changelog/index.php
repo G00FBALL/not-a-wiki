@@ -280,7 +280,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Patch 2.5.0 Neutral Prestige Challenges</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.5.0 Neutral Prestige Challenges</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.5.0 Dec 19th, 2016</b>
             <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2016 1:01PM UTC and will end on Jan 4th 2017 7:59PM UTC.
@@ -303,7 +303,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2.4.0 Thanksgiving</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.4.0 Thanksgiving</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.4.0 Nov 24, 2016</b>
             <p>Global Reminder: The Thanksgiving & Black Friday Sale event will be starting on Nov 24th 2016, 1.01 PM UTC and will end on Nov 26th 2016, 7.59 PM UTC.
@@ -314,7 +314,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2.3.2 Updates</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3.2 Updates</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.3.2 Oct, 2016</b>
             <p>Added graphics for Neutral Prestige buildings.
@@ -326,7 +326,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2.3.1 Halloween</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3.1 Halloween</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.3.1 Oct.26th 2016</b>
             <p><b>Global Reminder</b>: The Halloween event will be starting on Oct 28th 2016, 12.01 PM UTC and will end on Nov 04th 2016, 7.59 PM UTC.
