@@ -16,52 +16,18 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (R75-R82)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Siku
+                <p><b>Author</b>: Wlerin
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
-                <p>S105,S150,S215,S270,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
+                <p>S105,S200,S270,S300,S330,S500,
+                <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
-                <p>E135,E145,E275,E330,E400,E460,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W330,W400
+                <p>EE135,E145,E275,E320,E330,E400,
+                <p>A105,A120,A250,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
                 <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+)
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Siku
-                <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Demon
-                <p><b>Requirements</b>: Demon Lineage level 25+
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
-                <p><b>Template</b>
-                <p>S105,S150,S215,S270,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
-                <p>D55,D150,D200,D245,D250,D320,
-                <p>E135,E145,E275,E330,E400,E460,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W120,W150,W180,W250,W260,W330,W400
-                <p><b>Notes</b>: Requires excavations to set up for Demon Lineage.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: TemperGrace
-                <p><b>Faction</b>: Faceless/Dragon
-                <p><b>Bloodline</b>: Undead
-                <p><b>Range</b>: 1e30 (1 No) - 1e90(1e92?) (1 NoVg) Gems
-                <p><b>Template</b>
-                <p>S135,S215,S270,S305,S330,S1450,S1500,
-                <p>C150,C250,C340,C400,C1300,C1325,
-                <p>D55,D245,D260,D320,D1125,D1275,D1375,
-                <p>E135,E145,E320,E350,E1225,E1425,
-                <p>A105,A120,A150,A305,A330,A400,
-                <p>W150,W180,W275,W290,W400,W1375
          </div>
     </div>
         <div class="shelementwhole">
@@ -81,7 +47,25 @@
                 <p>E135,E145,E320,E350,E1225,E1425,
                 <p>A105,A120,A150,A175,A1500,A2950,
                 <p>W25,W150,W180,W275,W400,W1375
-                <p><b>Notes</b>: R79+ Replace W25 with W3150
+                <p><b>Notes</b>: R79+ Replace W25 with W3150. Replace C150 with C1500 if higher.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Siku
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Demon
+                <p><b>Requiments</b>: Demon Lineage level 25+
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Template</b>
+                <p>S105,S200,S270,S300,S330,S500,
+                <p>C150,C250,C330,C340,C400,C460,C500,
+                <p>D55,D150,D200,D245,D250,D320,
+                <p>E135,E145,E275,E320,E330,E400,
+                <p>A105,A120,A250,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: Requires excavations to set up for Demon Lineage.
          </div>
     </div>
         <div class="shelementwhole">
@@ -101,7 +85,23 @@
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A105,A120,A175,A1200,A1500,A2950,
                 <p>W180,W260,W275,W400,W3050,W3150
-                <p><b>Notes</b>: R82+ Replace A175 with A3400
+                <p><b>Notes</b>: R82+ Replace A175 with A3400. Replace C150 with C1500 if higher.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: TemperGrace
+                <p><b>Faction</b>: Faceless/Dragon
+                <p><b>Bloodline</b>: Undead
+                <p><b>Range</b>: 1e30 (1 No) - 1e90(1e92?) (1 NoVg) Gems
+                <p><b>Template</b>
+                <p>S135,S215,S270,S305,S330,S1450,S1500,
+                <p>C150,C250,C340,C400,C1300,C1325,
+                <p>D55,D245,D260,D320,D1125,D1275,D1375,
+                <p>E135,E145,E320,E350,E1225,E1425,
+                <p>A105,A120,A150,A305,A330,A400,
+                <p>W150,W180,W275,W290,W400,W1375
          </div>
     </div>
         <div class="shelementwhole">
@@ -156,7 +156,7 @@
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems
-                    <p><b>Requirements</b>: Veteran Figurine
+                    <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Template</b>
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                     <p>SP:Fairy Chanting,SP:God's Hand
@@ -240,12 +240,12 @@
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
-                    <p>S215,S305,S400,S1450,S1500,S3200,
-                    <p>C250,C400,C590,C1300,C3000,C3100,
-                    <p>D25,D200,D245,D1275,D1375,D2775,
-                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>C340,C590,C1300,C1325,C3000,C3100,
+                    <p>D25,D245,D250,D1275,D1375,D2775,
+                    <p>A120,A590,A1200,A1500,A2950,A3400,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
-                    <p>W275,W400,W1375,W1400,W3050,W3150
+                    <p>W275,W400,W560,W1400,W3050,W3150
         </div>
     </div>
         <div class="shelementwhole">
@@ -309,9 +309,10 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ditto Breeding (All Others)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
+                    <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Elf/Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow (1 at a time)
-                    <p><b>A2950</b>: Druid
+                    <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: (?)
                     <p><b>Template</b>
                     <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
@@ -327,8 +328,6 @@
         </div>
         <br/>
         <br/>
-        <br/>
-        <br/>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Old(not updated) and/or obsolete</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
@@ -337,7 +336,7 @@
                 <p><b>Author</b>: artcrow
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Druid
-                <p><b>Requirements</b>: e85 gems with Grand Balance tier 6 unlocked. Can still be done with GB5 at e85, but final income phase will take a few hours depending on buildup. 11 target Grand Balance. Max Assistants buff run with the W275 buff build, although assistant totals from Undead Faceless runs may be enough. Buildup period during run if near minimum gems.
+                <p><b>Requires</b>: e85 gems with Grand Balance tier 6 unlocked. Can still be done with GB5 at e85, but final income phase will take a few hours depending on buildup. 11 target Grand Balance. Max Assistants buff run with the W275 buff build, although assistant totals from Undead Faceless runs may be enough. Buildup period during run if near minimum gems.
                 <p><b>Note</b>: Templates vary based on the Sun Force time period you're in.
                 <p><b>Sun Force Faction Coins Template</b>
                 <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DN2,DG3,DG4,
@@ -480,7 +479,7 @@
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Note</b>: Autocast tax collections for a time before buying Share Benefits to buff D525 and DB:Green. Increase buildup time in later runs as gem walls require.
                 <p><b>Note</b>: Don't use Buy All once you can afford the Round Table upgrade that upgrades Tax Collection to Share Benefits. Better with Dragon Lineage 20.
-                <p><b>Requirements</b>: 11 target Grand Balance before the start of the run. The production is needed to afford the Unique Building. Dragon Lineage spell challenge completed. Minimum gems not known, but may have difficulties starting around e87-e88 gems. edit: Might need ~e90 starting gems for a fairly quick start.
+                <p><b>Requires</b>: 11 target Grand Balance before the start of the run. The production is needed to afford the Unique Building. Dragon Lineage spell challenge completed. Minimum gems not known, but may have difficulties starting around e87-e88 gems. edit: Might need ~e90 starting gems for a fairly quick start.
                 <p><b>Note</b>: With buffed upgrades C1500 replaces C1300. W175 or W590 replaces W290. edit: Changed C3000 to C1500 based on assumed Neutral GB 11 run and the non existence of C3000 in R76.
                 <p><b>Untested</b>: Longer run version (Druid Challenge 4 off for buildup, on for income):
                 <p><b>Merc Template</b>
@@ -884,5 +883,6 @@
     </div>
 
 <?php include "../scripts/footer.html"; ?>
+
 
 
