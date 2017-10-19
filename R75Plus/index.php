@@ -156,7 +156,7 @@
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems
-                    <p><b>Requiments</b>: Veteran Figurine
+                    <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Template</b>
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                     <p>SP:Fairy Chanting,SP:God's Hand
@@ -337,7 +337,7 @@
                 <p><b>Author</b>: artcrow
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Druid
-                <p><b>Requires</b>: e85 gems with Grand Balance tier 6 unlocked. Can still be done with GB5 at e85, but final income phase will take a few hours depending on buildup. 11 target Grand Balance. Max Assistants buff run with the W275 buff build, although assistant totals from Undead Faceless runs may be enough. Buildup period during run if near minimum gems.
+                <p><b>Requirements</b>: e85 gems with Grand Balance tier 6 unlocked. Can still be done with GB5 at e85, but final income phase will take a few hours depending on buildup. 11 target Grand Balance. Max Assistants buff run with the W275 buff build, although assistant totals from Undead Faceless runs may be enough. Buildup period during run if near minimum gems.
                 <p><b>Note</b>: Templates vary based on the Sun Force time period you're in.
                 <p><b>Sun Force Faction Coins Template</b>
                 <p>FR9,EL1,EL3,AN5,GB7,DD4,DD6,DD7,FC7,DN2,DG3,DG4,
@@ -480,7 +480,7 @@
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Note</b>: Autocast tax collections for a time before buying Share Benefits to buff D525 and DB:Green. Increase buildup time in later runs as gem walls require.
                 <p><b>Note</b>: Don't use Buy All once you can afford the Round Table upgrade that upgrades Tax Collection to Share Benefits. Better with Dragon Lineage 20.
-                <p><b>Requires</b>: 11 target Grand Balance before the start of the run. The production is needed to afford the Unique Building. Dragon Lineage spell challenge completed. Minimum gems not known, but may have difficulties starting around e87-e88 gems. edit: Might need ~e90 starting gems for a fairly quick start.
+                <p><b>Requirements</b>: 11 target Grand Balance before the start of the run. The production is needed to afford the Unique Building. Dragon Lineage spell challenge completed. Minimum gems not known, but may have difficulties starting around e87-e88 gems. edit: Might need ~e90 starting gems for a fairly quick start.
                 <p><b>Note</b>: With buffed upgrades C1500 replaces C1300. W175 or W590 replaces W290. edit: Changed C3000 to C1500 based on assumed Neutral GB 11 run and the non existence of C3000 in R76.
                 <p><b>Untested</b>: Longer run version (Druid Challenge 4 off for buildup, on for income):
                 <p><b>Merc Template</b>
