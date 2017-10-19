@@ -36,7 +36,7 @@
                 <p><b>Author</b>: Siku
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Demon
-                <p><b>Requiments</b>: Demon Lineage level 25+
+                <p><b>Requirements</b>: Demon Lineage level 25+
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
                 <p>S105,S150,S215,S270,S330,S500,
@@ -94,7 +94,7 @@
                 <p><b>Range</b>: 1e90 (1 NoVg) - 1e118 (1 QiTg) Gems
                 <p><b>Template</b>
                 <p>EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,
-                <p>SP:God's Hand,SP:Dragon's Breath
+                <p>SP:God's Hand,SP:Dragon's Breath,
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C340,C400,C590,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
