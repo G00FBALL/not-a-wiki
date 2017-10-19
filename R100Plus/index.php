@@ -46,6 +46,24 @@
                     <p><b>Notes</b>: Takes several minutes to set up.
          </div>
     </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels ?Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Faction</b>: Angel
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>Template</b>
+                    <p>S10,S400,
+                    <p>C25,C400,
+                    <p>D1,D175,D245,
+                    <p>E145,
+                    <p>A50,A3400,
+                    <p>W225,W1375
+                    <p><b>Notes</b>: Requires significant S400 buildup (recommended at least 100k) and significant neutral time (Week or above) for White Breath growth.
+                    <p><b>Notes</b>: Takes estimated time of 10 days for buying SS7.
+         </div>
+    </div>
             </div>
                     <br/>
     <p><b>Special Builds</b></p>
@@ -66,6 +84,24 @@
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Estimated time of 5 days to get GB11.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics ?Gems (S400 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Faction</b>: Goblin
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Template</b>
+                    <p>S50,S3200,
+                    <p>C175,C400,
+                    <p>D200,
+                    <p>E1,E225,E1325,
+                    <p>A10,A120,
+                    <p>W25,W205
+                    <p><b>Notes</b>: Estimated time of 10 days for 100k S400.
+                    <p><b>Notes</b>: Swap E1325 with E135 if 5 days+ run.
          </div>
     </div>
             </div>
