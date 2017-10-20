@@ -47,7 +47,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels ?Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels ?Gems<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ?-1e32 (100 No) Gems
@@ -87,7 +87,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics ?Gems (S400 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics ?Gems (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ?-1e32 (100 No) Gems
