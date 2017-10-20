@@ -28,11 +28,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 200K Mana Regeneration</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><b>Unique Buildings</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"> <b>Angels</b></p>
-<p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuildingUpgrade.png" alt="Holy Site" align="middle"> <b>Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Holy Site Quest</p>
+<p><b>Effect</b>: Gives Holy Site Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></p>
+<p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on time spent as good.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (0.08*x^0.8)%, where x is time in second as good in this R.
@@ -52,9 +54,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 85M% offline production bonus</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"> <b>Undead</b></p>
-<p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuildingUpgrade.png" alt="Flesh Workshop" align="middle"> <b>Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
+<p><b>Requirement</b>: Flesh Workshop Quest</p>
+<p><b>Effect</b>: Gives Flesh Workshop Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"></p>
+<p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
@@ -75,10 +81,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 3750 royal exchanges</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"> <b>Titans</b></p>
-<p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuildingUpgrade.png" alt="Mountain Palace" align="middle"> <b>Mountain Palace Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Mountain Palace Quest</p>
+<p><b>Effect</b>: Gives Mountain Palace Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></p>
+<p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: 0.25*x^0.75, where x is building owned.
@@ -113,10 +122,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 200K Assistants</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"> <b>Fairies</b></p>
-<p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuildingUpgrade.png" alt="Swarming Towers" align="middle"> <b>Swarming Towers Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Swarming Towers Quest</p>
+<p><b>Effect</b>: Gives Swarming Towers Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
+<p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (0.35*x^2.35)%, where x is active spells.
@@ -136,10 +148,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 130 seconds long Call to Arms.</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"> <b>Demons</b></p>
-<p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> <b>Burning Abyss Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Burning Abyss Quest</p>
+<p><b>Effect</b>: Gives Burning Abyss Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"></p>
+<p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on spent as Evil.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is evil time this R
@@ -159,10 +174,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 5000 Excavations</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"> <b>Faceless</b></p>
-<p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> <b>Forbidden Library Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Forbidden Library Quest</p>
+<p><b>Effect</b>: Gives Forbidden Library Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
+<p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.
@@ -194,10 +212,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 1e23 Elf Faction Coins found.</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"> <b>Elves</b></p>
-<p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuildingUpgrade.png" alt="Arboreal City" align="middle"> <b>Arboreal City Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Arboreal City Quest</p>
+<p><b>Effect</b>: Gives Arboreal City Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></p>
+<p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production production based on Faction Coin find chance.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor20*(log10(1+x))^2), where x is FC chance.
@@ -219,10 +240,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 30K Neutral buildings.</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"> <b>Goblins</b></p>
-<p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuildingUpgrade.png" alt="Slave Market" align="middle"> <b>Slave Market Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Slave Market Quest</p>
+<p><b>Effect</b>: Gives Slave Market Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
+<p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on assistants.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(0.25*x^0.75)%, where x is amount of assistants.
@@ -242,10 +266,13 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
 <p><b>Requirement</b>: 12K Stonehenges</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"> <b>Druid</b></p>
-<p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuildingUpgrade.png" alt="Ziggurat" align="middle"> <b>Ziggurat Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
 <p><b>Requirement</b>: Ziggurat Quest</p>
+<p><b>Effect</b>: Gives Ziggurat Unique Building.</p>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
+<p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(x^1.1)%, where x is total level of lineages
