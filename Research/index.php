@@ -40,8 +40,8 @@
 <p><b>----------------------------------</b></p>
 <p><b>Research Points & Upgrade Slots</b></p>
 <p>At each reincarnation level, you will get limited amount of Research Points (RP) to upgrade each facility. The RP upgrade cost increases according to the following formula:
-<p><b>RP Cost Pre A</b>: Formula: 1e126 * 1.5^x Coins and (x + 1)^3 Faction Coins
-<p><b>RP Cost Post A</b>: Formula: 1e42*1.47^(x-780) and (x + 1)^3 Faction Coins
+<p><b>RP Cost Pre A</b>: Formula: 1e126 * 1.5 ^ x Coins and (x + 1) ^ 3 Faction Coins
+<p><b>RP Cost Post A</b>: Formula: 1e42 * 1.147 ^(x-780) and (x + 1) ^ 3 Faction Coins
 <p><b>Available RPs Formula</b>: (x + 1) * x / 2
 <p>Upon abdication, your gained Research Points will persist, and your Research Upgrade Slots will reset so you can make different research builds each run.
 <p><b>----------------------------------</b></p>
