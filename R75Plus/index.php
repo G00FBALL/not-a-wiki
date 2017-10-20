@@ -116,7 +116,7 @@
                 <p><b>Recommended</b>: Buffed S400 from Dragon Elf S400 run.
                 <p><b>Template</b>: Dragon Lineage + Druid A2950 version.
                 <p>EL3,EL7,AN2,AN5,AN8,TT6,DD6,DD7,DN2,DG3,DG4,DG9,
-                <p>SP:Grand Balance,SP:Brainwave
+                <p>SP:Grand Balance,SP:Brainwave,
                 <p>S50,S305,S375,S400,S1450,S1500,
                 <p>C340,C400,C590,C1300,C3000,
                 <p>D25,D245,D330,D1275,D1375,D2775,
