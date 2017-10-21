@@ -422,6 +422,7 @@
             </div>
         </div>
     </div>
+       <br/>
     <h6>Secondary Alignment/Proof Spells</h6>
                 <p><b>Proof of Order</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"></p>
