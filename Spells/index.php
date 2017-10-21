@@ -422,6 +422,39 @@
             </div>
         </div>
     </div>
+    <h6>Secondary Alignment/Proof Spells</h6>
+                <p><b>Proof of Order</b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"></p>
+                <p><b>Requirement</b>: Ascension 2
+                <p><b>Cost</b>: 5000 Mana
+                <p><b>Effect</b>: Increase Unique building production by time spent this game.
+                <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.
+                <p><b>Formula</b>: (5*(x/60)^0.7)%, where x is time in seconds this game.
+                <p><b>Factions</b>: 
+                <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
+       <br/>
+                <p><b>Proof of Chaos</b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"></p>
+                <p><b>Requirement</b>: Ascension 2
+                <p><b>Cost</b>: 3500 Mana
+                <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.
+                <p><b>Formulas</b>
+                <p><b>Mana</b> (0.02*(log10(1+x))^5%, where x is mana produced this game.
+                <p><b>Clicks</b> (0.075*(log10(1+x))^2.5)%, where x is clicks this game.
+                <p><b>Faction Coins</b> (0.01*(log10(1+x))^4)%, where x is faction coins found this game.
+                <p><b>Assistants</b>(0.25*(log10(1+x))^5)%, where x is amount of assistants.
+                <p><b>Factions</b>: 
+                <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
+       <br/>
+                <p><b>Proof of Balance</b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"></p>
+                <p><b>Requirement</b>: Ascension 2
+                <p><b>Cost</b>: 6000 Mana
+                <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.
+                <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.
+                <p><b>Formula</b>: floor(0.2*x^0.6), where x is mana per seconds.
+                <p><b>Factions</b>: 
+                <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
     </br>
     <h6>Alignment Spells</h6>
     <p><b>Faction Spell</b>: Tax Collection
@@ -441,7 +474,7 @@
     <p><b>Note</b>: Extra time from reap interests does apply to S50.
     <p><b>Note</b>: S50 tax collections do increase reap interests.
     <br/>
-    <br/>
+<br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Mercenary Neutral Alignment</b>
     <p><b>Requirement</b>: Freemason's Hall
     <p><b>Cost</b>: 1 Qaqag (1e135)
@@ -898,38 +931,5 @@
         </div>
     </div>
        <br/>
-    <h6>Proof Spells</h6>
-                <p><b>Proof of Order</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"></p>
-                <p><b>Requirement</b>: Ascension 2
-                <p><b>Cost</b>: 5000 Mana
-                <p><b>Effect</b>: Increase Unique building production by time spent this game.
-                <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.
-                <p><b>Formula</b>: (5*(x/60)^0.7)%, where x is time in seconds this game.
-                <p><b>Factions</b>: 
-                <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
-       <br/>
-                <p><b>Proof of Chaos</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"></p>
-                <p><b>Requirement</b>: Ascension 2
-                <p><b>Cost</b>: 3500 Mana
-                <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.
-                <p><b>Formulas</b>
-                <p><b>Mana</b> (0.02*(log10(1+x))^5%, where x is mana produced this game.
-                <p><b>Clicks</b> (0.075*(log10(1+x))^2.5)%, where x is clicks this game.
-                <p><b>Faction Coins</b> (0.01*(log10(1+x))^4)%, where x is faction coins found this game.
-                <p><b>Assistants</b>(0.25*(log10(1+x))^5)%, where x is amount of assistants.
-                <p><b>Factions</b>: 
-                <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
-       <br/>
-                <p><b>Proof of Balance</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"></p>
-                <p><b>Requirement</b>: Ascension 2
-                <p><b>Cost</b>: 6000 Mana
-                <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.
-                <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.
-                <p><b>Formula</b>: floor(0.2*x^0.6), where x is mana per seconds.
-                <p><b>Factions</b>: 
-                <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
 
     <?php include "../scripts/footer.html"; ?>
