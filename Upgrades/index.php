@@ -2229,7 +2229,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Cheering Crowds<p>Requirement: 3500 Knights Jousts<p>Cost: 953.9Qid (9.539e50)<p>Increase Knights Jousts production by 50%." coords="489,58,536,105" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: VIP Invitations<p>Requirement: 4000 Knights Jousts<p>Cost: 2.626Ocd (2.626e57)<p>Increase Knights Jousts production by 50%." coords="5,111,51,159" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Giant Banners<p>Requirement: 10K Knights Joust<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Knights Joust by 50%" coords="54,110,105,160" shape="rect">
-    <area target="" research="Unique Building<p>At R75, The Mercenaries Knights Joust can be upgraded to a Unique Building: Mercenary Camp, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.<p>Formula: 1.5 * (1 + x) where X is number of Non-Unique Buildings<p>Requirement: R75, Good Mercenary, 150K total buildings" coords="348,109,539,162" shape="0">
+    <area target="" research="Unique Building<p>At R75, The Mercenaries Knights Joust can be upgraded to a Unique Building: Mercenary Camp, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.<p>Formula: 1.5 * (1 + x) where X is number of Non-Unique Buildings<p>Requirement: R75, Good Mercenary, 125K total buildings" coords="348,109,539,162" shape="0">
 </map>
 <p><b>Wizard Tower Upgrades (Alignment: Good)</p</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/wizardtowergroup1.png" usemap="#wizardtowergroup1-map">
