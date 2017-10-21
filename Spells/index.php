@@ -425,7 +425,7 @@
        <br/>
     <h6>Secondary Alignment/Proof Spells</h6>
                 <p><b>Proof of Order</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxSpell.png" alt="Temporal Flux" align="middle"></p>
                 <p><b>Requirement</b>: Ascension 2
                 <p><b>Cost</b>: 5000 Mana
                 <p><b>Effect</b>: Increase Unique building production by time spent this game.
@@ -435,7 +435,7 @@
                 <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
        <br/>
                 <p><b>Proof of Chaos</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"></p>
                 <p><b>Requirement</b>: Ascension 2
                 <p><b>Cost</b>: 3500 Mana
                 <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.
@@ -448,7 +448,7 @@
                 <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
        <br/>
                 <p><b>Proof of Balance</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"></p>
                 <p><b>Requirement</b>: Ascension 2
                 <p><b>Cost</b>: 6000 Mana
                 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.
