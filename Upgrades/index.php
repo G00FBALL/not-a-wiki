@@ -1901,7 +1901,7 @@
             <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.
             <p><b>------------------------------</b></p>
         </div>
-        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Building Upgrades</a></b></p>
+        <onclick="shohid($(this));"><b><a href="#" onclick="return false;">Building Upgrades</a></b></p>
         <div class="autohide">
             <p><b>A complete list of building upgrades</b></p>
             <p>In order from <b>Neutral</b> to <b>Good</b> to <b>Evil</b> with <b>Halls of Legends</b> at the bottom.</p>
