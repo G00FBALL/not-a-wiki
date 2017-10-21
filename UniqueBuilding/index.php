@@ -99,7 +99,7 @@
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
 <p><b>Formula</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus
-<p><b>Requirement</b>: Mercerary, R75, 150K total buildings
+<p><b>Requirement</b>: Mercerary, R75, 125K total buildings
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="NeutralMerc" align="middle"> <b>Neutral Alignment</b></p>
