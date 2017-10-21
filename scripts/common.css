@@ -98,14 +98,14 @@ body {
 
 #outer {
     margin: 0 auto;
-    width: 750px;
+    width: 760px;
     padding: .8% .8% .8% .8%;
     background: #4c5b86;
 }
 
 #header {
     overflow: auto;
-    width: 750px;
+    width: 760px;
     height: 159px;
     background-image: url(http://musicfamily.org/realm/Factions/picks/RealmGrinderHeader.png);
 }
@@ -113,7 +113,7 @@ body {
 #navbox {
     margin: 1px 0px 2px -1px;
     border: 4px solid #000;
-    width: 743px;
+    width: 753px;
     height: 28px;
     position: relative;
 }
@@ -121,7 +121,7 @@ body {
 #parent {
     margin: 0;
     overflow: hidden;
-    width: 750px;
+    width: 760px;
     background: #98AFC7;
 }
 
@@ -276,7 +276,7 @@ h7 {
 }
 
 #rightcolumn {
-    float: right;
+    float: left;
     font-size: 1.2em;
     color: #000;
     background: transparent;
@@ -339,7 +339,7 @@ h7 {
     display: block;
     text-decoration: none;
     color: #000;
-    width: 101px;
+    width: 102.5px;
     height: 23px;
     text-align: center;
     color: #ffffff;
