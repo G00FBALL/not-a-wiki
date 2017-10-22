@@ -9,7 +9,8 @@
 <p><B>Requirement</B>: Have 4000 Mana</P>
 <p><B>Cost</B>: 95.88 Dqag (9.588E130)</P>
 <p><B>Effect</B>: Increase maximum mana and mana regeneration rate based on time spent in this game.</p>
-<p><B>Formula</B>: Maximum Mana: floor(45x), Mana Regeneration: \frac {floor(75x^{0.4})} {10}, where x is your Playtime (This Game) stat in hours.</p>
+<p><B>Formula</B>: Max Mana: floor(45 * X),</p>
+<p><B>Formula</B>: Mana Regeneration: floor(75 * x^0.4) / 10, where x is your Playtime (This Game) stat in hours.</p>
 <br/>
 <br/>
 <p><b>S105</B>: - <b>For</b> Any - <B>Research Name</B> Mysticism	</p>
