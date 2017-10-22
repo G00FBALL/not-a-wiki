@@ -92,14 +92,14 @@
 <p>Upgraded from Knights Jousts</p>
 <p>Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.
 <p><b>Formula</b>: 1.5 * (1 + x) where X is number of Non-Unique Buildings.
-<p><b>Requirement</b>: Mercerary, R75, 150K total buildings
+<p><b>Requirement</b>: Mercerary, R75, 125K total buildings
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="EvilMerc" align="middle"> <b>Evil Alignment</b></p>
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
 <p><b>Formula</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus
-<p><b>Requirement</b>: Mercerary, R75, 125K total buildings
+<p><b>Requirement</b>: Mercerary, R75, 150K total buildings
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="NeutralMerc" align="middle"> <b>Neutral Alignment</b></p>
