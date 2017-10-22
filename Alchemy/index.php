@@ -94,7 +94,7 @@
 <p><B>Requirement</B>: 20 B (2E10) Faction Coins (Found this game)
 <p><B>Cost</B>: 175.2 SxQig (1.752E173)
 <p><B>Effect</B>: Increase mana regeneration based on the amount of Faction Coins found in this game.
-<p><B>Formula</B>: floor(15 * ln(1 + x)) / 10, where x is your Faction Coins Gained (This Game) stat.
+<p><B>Formula</B>: floor(12 * ln(1 + x)) / 10, where x is your Faction Coins Gained (This Game) stat.
 <p><b>----------------------------------</b></p>
 <p><b>A300</b> - <b>For</b> Faceless - <B>Research Name</B> Creeping
 <p><B>Requirement</B>: Produce 5M mana (This game, as Druid)
