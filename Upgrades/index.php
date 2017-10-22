@@ -2067,7 +2067,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Vibranium Transmutation<p>Requirement: 3500 Alchemist Labs<p>Cost: 647.3Sxd (6.473e51)<p>Increase Alchemist Labs production by 50%." coords="489,58,536,105" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Magisteel Transmutation<p>Requirement: 4000 Alchemist Labs<p>Cost: 17.82Ocd (1.782e58)<p>Increase Alchemist Labs production by 50%." coords="3,112,51,161" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Demirock Transmutation<p>Requirement: 10K Alchemist Labs<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Alchemist Lab by 50%" coords="54,109,107,162" shape="rect">
-    <area target="" research="Unique Building<p>At R75, The Mercenaries Alchemist Lab can be upgraded to a Unique Building: Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.<p>Formula: 2 * x ^ 0.95 x is max base assistants (This R)<p>Requirement: R75, Neutral Mercenary, 125K total buildings" coords="347,111,540,162" shape="rect">
+    <area target="" research="Unique Building<p>At R75, The Mercenaries Alchemist Lab can be upgraded to a Unique Building: Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.<p>Formula: 2 * x ^ 0.95 x is max base assistants (This R)<p>Requirement: R75, Neutral Mercenary, Mercenary Encampment Quest" coords="347,111,540,162" shape="rect">
 </map>
 <p><b>Monastery Upgrades (Alignment: Neutral)</p</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/mgroup1.png" usemap="#mgroup1-map">
@@ -2229,7 +2229,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Cheering Crowds<p>Requirement: 3500 Knights Jousts<p>Cost: 953.9Qid (9.539e50)<p>Increase Knights Jousts production by 50%." coords="489,58,536,105" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: VIP Invitations<p>Requirement: 4000 Knights Jousts<p>Cost: 2.626Ocd (2.626e57)<p>Increase Knights Jousts production by 50%." coords="5,111,51,159" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Giant Banners<p>Requirement: 10K Knights Joust<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Knights Joust by 50%" coords="54,110,105,160" shape="rect">
-    <area target="" research="Unique Building<p>At R75, The Mercenaries Knights Joust can be upgraded to a Unique Building: Mercenary Camp, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.<p>Formula: 1.5 * (1 + x) where X is number of Non-Unique Buildings<p>Requirement: R75, Good Mercenary, 125K total buildings" coords="348,109,539,162" shape="0">
+    <area target="" research="Unique Building<p>At R75, The Mercenaries Knights Joust can be upgraded to a Unique Building: Mercenary Camp, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.<p>Formula: 1.5 * (1 + x) where X is number of Non-Unique Buildings<p>Requirement: R75, Good Mercenary, Mercenary Encampment Quest" coords="348,109,539,162" shape="0">
 </map>
 <p><b>Wizard Tower Upgrades (Alignment: Good)</p</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/wizardtowergroup1.png" usemap="#wizardtowergroup1-map">
@@ -2525,7 +2525,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Evilspawns<p>Requirement: 3500 Evil Fortresses<p>Cost: 24.7Spd (2.47e55)<p>Increase Evil Fortresses production by 50%." coords="485,58,539,106" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Heinous Colonnade<p>Requirement: 4000 Evil Fortresses<p>Cost: 68Nod (6.8e61)<p>Increase Evil Fortresses production by 50%." coords="2,112,54,162" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Horrific Battlements<p>Requirement: 10K Evil Fortresses<p>Cost: 7.517 Qiqag (7.517e138)<p>Increase Evil Fortress production by 50%" coords="54,110,107,163" shape="rect">
-    <area target="" research="Unique Building<p>At R75, The Mercenaries Evil Fortress can be upgraded to a Unique Building: Tyrant Garrison, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.<p>Formula: 4 * log(1+x) ^4<p>Requirement: R75, Evil Mercenary, 125K total buildings" coords="347,111,538,162" shape="rect">
+    <area target="" research="Unique Building<p>At R75, The Mercenaries Evil Fortress can be upgraded to a Unique Building: Tyrant Garrison, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.<p>Formula: 4 * log(1+x) ^4<p>Requirement: R75, Evil Mercenary, Mercenary Encampment Quest" coords="347,111,538,162" shape="rect">
 </map>
 <p><b>Hell Portal Upgrades (Alignment: Evil)</p</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/hellportalgroup1.png" usemap="#hellportalgroup1-map">
