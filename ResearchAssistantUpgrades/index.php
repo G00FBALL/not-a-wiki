@@ -16,14 +16,14 @@
 <p><B>Requirement</B>: Research Reverberation (S330), Mesmerization (S305)</p>
 <p><B>Cost</B>: 541 DSxg (5.41E191)	</p>
 <p><B>Effect</B>: Brainwave also provides progressively more assistants over its duration.</p>
-<p><B>Formula</B>: floor(x^2), where x is how many minutes the spell has been active.</p>
+<p><B>Formula</B>: floor(1.15*((x/30+y)/60)^2), where x is how many minutes the spell has been active.</p>
 <p><b>------------------------------</b>
 <p><b>Craftsmanship</b>
 <p><b>C305</b> - <b>For</b> Any - <B>Research Name</B> Golemcraft</p>
 <p><B>Requirement</B>: 5 days as Titans (Total across all R)</p>
 <p><B>Cost</B>: 255.2 OcQig (2.552E179)</p>
 <p><B>Effect</B>:Gain additional assistants based on your total time spent offline (in hours).</p>
-<p><B>Formula</B>: floor(2\sqrt{x}), where x is your Time Spent Offline (Total) in hours stat.</p>
+<p><B>Formula</B>: floor(2 * x^0.5), where x is your Time Spent Offline (In hours) (Total) stat.</p>
 <br/>
 <br/>
 <p><b>C1325</b> - <b>For</b> Any - <B>Research Name</B> Plasmation</p>
@@ -44,7 +44,7 @@
 <p><B>Requirement</B>: Research Transcendence (D200) & Pyromancy (S150)
 <p><B>Cost</B>: 52.7 Qiqig (5.27E169)
 <p><B>Effect</B>: Gain additional assistants based on the amount of Faction Coins found in this game.
-<p><B>Formula</B>: floor(ln^1.3(1.5 * x)), where x is your Faction Coins Gained (This Game) stat.
+<p><B>Formula</B>: floor(ln^1.3(1 + x)), where x is your Faction Coins Gained (This Game) stat.
 <br/>
 <br/>
 <p><b>D320</b> - <b>For</b> Any - <B>Research Name</B> Deliverance
@@ -121,16 +121,7 @@
 <p><B>Effect</B>: Gain additional assistants based on the amount of trophies you unlocked.
 <p><B>Formula</B>: floor(x / 8), where x is the amount of trophies unlocked.
 <br/>
-<br/>
-<p><b>W 275</b>: Domination
-<p><b>Faction</b>: Faceless
-<p><b>Requirement</b>: 300 Base Assistants (as Faceless)
-<p><b>Cost</b>: 1.331 SpQig (1.331E174)
-<p><b>Effect</b>: Gain additional Faction Coins per second based on the highest amount of assistants you had in a single game.
-<p><b>Effect</b>: Also a 50% multiplicative FC chance?
-<p><b>Formula</b>: floor(80 * x^0.8), where x is your Assistants (Max) stat.
-<br/>
-<br/>
+updating mobile version<br/>
 <p><b>W520</b> - <b>For</b> Drow - <B>Research Name</B> Stalking
 <p><B>Requirement</B>: Research Exertion (W50) and Ambush (W405)
 <p><B>Cost</B>: 18.47 Uspg (1.847E217)
