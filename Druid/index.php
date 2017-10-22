@@ -57,7 +57,7 @@
 <p><b>In-Game Challenge Final Reward</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png" alt="Primal Balance" align="middle"> <b>Primal Balance</b></p>
 <p><b>Effect</b>: Grand Balance now affects extra buildings based on total mana spent.
-<p><b>Formula</b>: floor (x^0.2 / 10), where x is your Mana Produced (Total) stat.</p>
+<p><b>Formula</b>: (0.1 * x^0.2)^(1-A/8), where x is mana produced and A is Ascension (Total) stat.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalance.png" alt="Primal Balance" align="middle"></a>
 <!--
 <p>
