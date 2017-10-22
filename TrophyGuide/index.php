@@ -279,6 +279,7 @@
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Tiered Autocasting</b> (R42)
     <p>Produce 200M mana.
+    <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png" alt="ColorfulAutocasting" align="middle"> <b>Colorful Autocasting</b> (R42)
     <p>Have each type of autocasting active simultaneously.(Silver,Gold,Bronze,Diamond)
