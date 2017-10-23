@@ -183,6 +183,6 @@
     <p><B>Requirement</B>: 60000 Enchanted Fields, Inns and Dwarven Forges.
     <p><B>Cost</B>: 357.2 Sxg (3.572e185)
     <p><B>Effect</B>: Increases the production of all buildings based on their tier, giving the highest bonus to the lowest.
-    <p><B>Formula</B>: 50*(12-T)^2.15, where T is building tier.
+    <p><B>Formula</B>: 150*(12-T)^2.15, where T is building tier.
     <p><b>----------------------------------</b></p>
 <?php include "../scripts/footer.html"; ?>
