@@ -230,7 +230,7 @@
     <p><b>Lineage Builds - Level 20, R75+</b></p>
     <div class="category">
           <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (Fairy) R75+<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (Fairy) R75+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Neutral Mercenary
@@ -248,7 +248,7 @@
         </div>
     </div>
       <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (Dragon)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (Dragon)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Neutral Mercenary
@@ -266,7 +266,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (All Others)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (All Others)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Neutral Mercenary
