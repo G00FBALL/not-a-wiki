@@ -13,9 +13,10 @@
 <br/>
 <br/>
 <p><b>S215</B>: - <b>For</b> Any - <B>Research Name</B> Projection	
-<p><B>Requirement</B>: 300 Spiritual Surge (Total), Research Channeling (S10) & Incantation (S175)</p>	
+<p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S175)</p>	
 <p><B>Cost</B>: 36.16 TQig (3.616E163)	</p>
-<p><B>Effect</B>: (150*x)^(y+1), where x is active spells and y is ascension. (does not include Spiritual Surge)</p>
+<p><B>Effect</B>: Increase Spiritual Surge effect based on the amount of active spells.</p>
+<p><B>Formula</B>: (150*x)^(y+1), where x is active spells and y is ascension. (does not include Spiritual Surge)</p>
 <br/>
 <br/>
 <p><b>S375</B>: - <b>For</b> Faceless - <B>Research Name</B> Illusion	</p>
@@ -42,7 +43,8 @@
 <p><b>C300</b> - <b>For</b> Druid - <B>Research Name</B> Weighting</p>
 <p><B>Requirement</B>: 650 Lightning Strikes</p>
 <p><B>Cost</B>: 33.6 OcQig (33.6E177)</p>
-<p><B>Effect</B>: Increase Grand Balance multiplier by x20 when hitting Stonehenge Circles. Also increase its multiplier for every target based on maximum mana.</p>
+<p><B>Effect</B>: While Grand Balance hits Stone Pillars, increase its production by 3.09%.</p>
+<p><B>Effect</B>: Also increase the production of every Grand Balance target based on maximum mana.</p>
 <p><B>Formula</B>: round(1.5*ln(1+x))^2)^y), where x is your maximum mana and y is spell tier.</p>
 <br/>
 <br/>
@@ -96,7 +98,7 @@
 <p><B>Requirement</B>: 2592000 Time Spent (10 days with Titan, Druid and Faceless), Research A545, D245
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase Gem Grinder bonus based on the amount of artifacts you found.
-<p><B>Formula</B>: 1.5 * x^1.5, where x is artifacts found. (multiplicative)
+<p><B>Formula</B>: 1.75 * x ^ 1.75, where x is artifacts found.(multiplicative)
 <p><b>------------------------------</b>
 <p><b>Alchemy</b>
 <p><b>A25</b> - <b>For</b> Demon - <B>Research Name</B> Deflagration
@@ -109,7 +111,7 @@
 <p><B>Requirement</B>: 750 Fairy Chanting(Total)
 <p><B>Cost</B>: 12.63 Dqag (1.263E130)
 <p><B>Effect</B>: Increases duration of Fairy Chanting based on the amount of Enchanted Fields, Inns and Blacksmiths you own and provides a progressively increasing bonus to the spell.
-<p><B>Formula</B>: Production increase: floor(10 * ceil^1.5(t)); Duration increase: floor(x /800)^0.8) seconds; where t is how long FC has been active in seconds, and x is the number of Farms, Inns, and Blacksmiths you own.
+<p><B>Formula</B>: Additive Production increase: floor(1000 * t^1.5); Duration increase: floor(x / 800)^0.8) seconds; where t is how long FC has been active in seconds, and x is the number of Farms, Inns, and Blacksmiths you own.
 <p><b>------------------------------</b>
 <p><b>Warfare</b>
 <p><b>W180</b> - <b>For</b> Any - <B>Research Name</B> Formation
