@@ -15,14 +15,14 @@
 <p><b>S215</B>: - <b>For</b> Any - <B>Research Name</B> Projection	
 <p><B>Requirement</B>: 300 Spiritual Surge (Total), Research Channeling (S10) & Incantation (S175)</p>	
 <p><B>Cost</B>: 36.16 TQig (3.616E163)	</p>
-<p><B>Effect</B>: Increase Spiritual Surge effect by 150% per other active spell.</p>
+<p><B>Effect</B>: (150*x)^(y+1), where x is active spells and y is ascension. (does not include Spiritual Surge)</p>
 <br/>
 <br/>
 <p><b>S375</B>: - <b>For</b> Faceless - <B>Research Name</B> Illusion	</p>
 <p><B>Requirement</B>: Research Reverberation (S330), Mesmerization (S305)</p>
 <p><B>Cost</B>: 541 DSxg (5.41E191)	</p>
 <p><B>Effect</B>: Brainwave also provides progressively more assistants over its duration.</p>
-<p><B>Formula</B>: floor(x^2), where x is how many minutes the spell has been active.</p>
+<p><B>Formula</B>: floor(1.15*((x/30+y)/60)^2), where x is how many minutes the spell has been active.</p>
 <br/>
 <br/>
 <p><b>S435</B>: - <b>For</b> Drow - <B>Research Name</B> Spellbinding</p>    
@@ -43,7 +43,7 @@
 <p><B>Requirement</B>: 650 Lightning Strikes</p>
 <p><B>Cost</B>: 33.6 OcQig (33.6E177)</p>
 <p><B>Effect</B>: Increase Grand Balance multiplier by x20 when hitting Stonehenge Circles. Also increase its multiplier for every target based on maximum mana.</p>
-<p><B>Formula</B>: round((1.5 * ln(1 + x))^2)%, where x is your maximum mana.</p>
+<p><B>Formula</B>: round(1.5*ln(1+x))^2)^y), where x is your maximum mana and y is spell tier.</p>
 <br/>
 <br/>
 <p><b>C520</b> - <b>For</b> Dwarf - <B>Research Name</B> Blacksmithing</p>
