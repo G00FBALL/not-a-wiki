@@ -275,5 +275,26 @@
         </div>
     </div>
 </div>
+                    <br/>
+    <p><b>Buff Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: 1e32 gems Gems
+                    <p><b>Alignment</b>: Good, Proof of Chaos
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Template</b>
+                    <p>S1,S180,S400,
+                    <p>C10,C1325,
+                    <p>D225,D250,
+                    <p>E50,E1325,
+                    <p>A30,A120,
+                    <p>W1375
+                    <p><b>Notes</b>: Note: Get to exactly 8333 Swarming Towers.
+        </div>
+    </div>
 </div>
 <?php include "../scripts/footer.html"; ?>
