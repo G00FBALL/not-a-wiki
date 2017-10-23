@@ -227,6 +227,63 @@
     </div>
             </div>
                     <br/>
+    <p><b>Lineage Builds - Level 20, R75+</b></p>
+          <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (Fairy) R75+<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Range</b>: 1e90 (1 NoVg)(?) Gems
+                    <p><b>Template</b>
+                    <p>EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
+                    <p>SP:God's Hand,SP:Dragon's Breath,
+                    <p>S215,S305,S400,S500,S1450,S1500,
+                    <p>C250,C340,C400,C590,C1300,C1325,
+                    <p>D25,D200,D245,D250,D1275,D2775,
+                    <p>E135,E275,E320,E590,E1225,E1425,
+                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>W150,W180,W250,W275,W400,W1375
+        </div>
+    </div>
+      <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (Dragon)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>Range</b>: 1e90 (1 NoVg)(?) Gems
+                    <p><b>Template</b>
+                    <p>EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
+                    <p>SP:Fairy Chanting,SP:God's Hand,
+                    <p>S215,S305,S400,S500,S1450,S1500,
+                    <p>C250,C340,C400,C590,C1300,C1325,
+                    <p>D25,D200,D245,D250,D1275,D2775,
+                    <p>E135,E275,E320,E590,E1225,E1425,
+                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>W150,W180,W250,W275,W400,W1375
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Bath (All Others)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Elf/Angel/Goblin/Demon/Titan/Druid/Faceless/Dwarf/Drow 
+                    <p><b>Range</b>: 1e90 (1 NoVg)(?) Gems
+                    <p><b>Template</b>
+                    <p>EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,
+                    <p>SP:Fairy Chanting,SP:God's Hand,
+                    <p>S215,S305,S400,S500,S1450,S1500,
+                    <p>C250,C340,C400,C590,C1300,C1325,
+                    <p>D25,D200,D245,D250,D1275,D2775,
+                    <p>E135,E275,E320,E590,E1225,E1425,
+                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>W150,W180,W250,W275,W400,W1375
+        </div>
+    </div>
+            </div>
+                    <br/>
     <p><b>Lineage Builds - Level 25, R82+</b></p>
     <div class="category">
         <div class="shelementwhole">
