@@ -206,9 +206,9 @@
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S400,S1450,S1500,S3200,
                     <p>C250,C400,C590,C1300,C3000,C3100,
-                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>D25,D200,D245,D1125,D1275,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
-                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
                     <p><b>Notes</b>: Gets level 32 in under a hour without any buff to W275 or S400
         </div>
@@ -216,68 +216,69 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Undead)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Kherti
+                    <p><b>Author</b>: Kherti, modified by Necrodoom
                     <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Undead
-                    <p><b>A2950</b>: Elf
+                    <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD6,FC2,FC7,DN2,DG6,DG7,
-                    <p>SP:Dragon's Breath,SP:Fairy Chanting,
-                    <p>S215,S305,S400,S1450,S1500,S3200,
+                    <p>SP:Dragon's Breath,SP:Lightning Strike,
+                    <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3100,
                     <p>D25,D200,D245,D1125,D1275,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
-                    <p><b>Notes</b>: Gets level 32 in under a hour without any buff to W275 or S400
         </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Dragon)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Kherti
+                    <p><b>Author</b>: Kherti, modified by Necrodoom
                     <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Dragon
-                    <p><b>A2950</b>: Druid
+                    <p><b>A2950</b>: Elf
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
-                    <p>SP:Fairy Chanting,SP:God's Hand,
-                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>SP:Fairy Chanting,SP:Lightning Strike,
+                    <p>S215,S305,S330,S1450,S1500,S3200,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D245,D1125,D1275,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W260,W275,W400,W1375,W3050,W3150
+                    <p><b>Notes</b>: Replace S330 with S400 if buffed.      
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Fairy)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Titan)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Kherti
+                    <p><b>Author</b>: Kherti, modified by Necrodoom
                     <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
-                    <p><b>Bloodline</b>: Fairy
-                    <p><b>A2950</b>: Druid
+                    <p><b>Bloodline</b>: Titan
+                    <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
-                    <p>SP:Dragon's Breath,SP:God's Hand,
-                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>SP:Dragon's Breath,SP:Fairy Chanting,
+                    <p>S215,S305,S330,S1450,S1500,S3200,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D245,D1125,D1275,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
+                    <p><b>Notes</b>: Replace S330 with S400 if buffed.      
         </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (Druid)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Kherti
+                    <p><b>Author</b>: Kherti, modified by Necrodoom
                     <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Druid
@@ -285,7 +286,7 @@
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
-                    <p>SP:Dragon's Breath,SP:Fairy Chanting,
+                    <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D245,D1125,D1275,D2775,
@@ -297,21 +298,22 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Vertex (All Others)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Kherti
+                    <p><b>Author</b>: Kherti, modified by Necrodoom
                     <p><b>Requirements</b>: Veteran Figurine
                     <p><b>Faction</b>: Neutral Mercenary
-                    <p><b>Bloodline</b>: Angel/Goblin/Demon/Titan/Faceless/Dwarf/Drow (1 at a time)
-                    <p><b>A2950</b>: Druid
+                    <p><b>Bloodline</b>: Fairy/Angel/Goblin/Demon/Faceless/Dwarf/Drow Lineage  (1 at a time)
+                    <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
-                    <p>SP:Dragon's Breath,SP:Fairy Chanting,
-                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>SP:Dragon's Breath,SP:Lightning Strike,
+                    <p>S215,S305,S330,S1450,S1500,S3200,
                     <p>C250,C340,C400,C590,C1300,C3000,
-                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>D25,D200,D245,D1125,D1275,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
-                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
+                    <p><b>Notes</b>: Replace S330 with S400 if buffed.      
         </div>
      </div>
   </div>
