@@ -240,12 +240,12 @@
                     <p><b>Template</b>
                     <p>EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
-                    <p>S215,S305,S330,S400,S1450,S1500,
-                    <p>C340,C590,C1300,C1325,C3000,C3100,
-                    <p>D25,D245,D250,D1275,D1375,D2775,
-                    <p>A120,A590,A1200,A1500,A2950,A3400,
+                    <p>S215,S305,S400,S1450,S1500,S3200,
+                    <p>C250,C400,C590,C1300,C3000,C3100,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
-                    <p>W275,W400,W560,W1400,W3050,W3150
+                    <p>W275,W400,W1375,W1400,W3050,W3150
         </div>
     </div>
         <div class="shelementwhole">
