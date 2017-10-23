@@ -65,7 +65,7 @@
 <p><B>Requirement</B>: 250 m/s Mana Regen(as Angel)
 <p><B>Cost</B>: 296 Ocqag (2.96E149)
 <p><B>Effect</B>: Increases mana regeneration based on the amount of gems you own.
-<p><B>Formula</B>: floor(10 * log(1+x) / 8, where x is amount of gems you own.
+<p><B>Formula</B>: floor(1.25 * ln(1 + x)) / 10, where x is amount of gems you own.
 <br/>
 <br/>
 <p><b>D275</b> - <b>For</b> Druid - <B>Research Name</B> Meditation
@@ -114,7 +114,7 @@
 <p><B>Requirement</B>: 20 B (2E10) Faction Coins(This game)
 <p><B>Cost</B>: 175.2 SxQig (1.752E173)
 <p><B>Effect</B>: Increase mana regeneration based on the amount of Faction Coins found in this game.
-<p><B>Formula</B>: floor(15 * ln(1 + x)) / 10, where x is your Faction Coins Gained (This Game) stat.
+<p><B>Formula</B>: floor(12 * ln(1 + x)) / 10, where x is your Faction Coins Gained (This Game) stat.
 <br/>
 <br/>
 <p><b>A300</b> - <b>For</b> Faceless - <B>Research Name</B> Creeping
@@ -128,14 +128,14 @@
 <p><B>Requirement</B>: 5500 Excavations
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase mana regeneration based on the amount of excavations made.
-<p><B>Formula</B>:  floor(0.25 * x), where x is current excavations
+<p><B>Formula</B>:  floor(0.02 * X), where x is current excavations.
 <br/>
 <br/>
 <p><b>A1500</b> - <b>For</b>  Druid,Dragon - <B>Research Name</B> Sublimation
 <p><B>Requirement</B>: 21600 Grand Balance Cast Time in a single game, Research D590 & A1325,
 <p><B>Requirement</B>: Post Ascension Only
 <p><B>Effect</B>: Increase Max Mana based on the amount of Unique Buildings you own.
-<p><B>Formula</B>: 7.5* x^0.75, where x is unique buildings owned
+<p><B>Formula</B>: 8*x^0.8, where x is Unique Buildings owned.
 <p><b>------------------------------</b>
 <p><b>Warfare</b>
 <p><b>W135</b> - <b>For</b> Any - <B>Research Name</B> Rampage
