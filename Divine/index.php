@@ -93,7 +93,7 @@
     <p><B>Requirement</B>: Have 10,000 Mana (as Druid)
     <p><B>Cost</B>: 1.331 SpQig (1.331E174)
     <p><B>Effect</B>: Increase mana regeneration based on your current mana.
-    <p><B>Formula</B>: round(50 - \frac{x}{2})%, where x is percentage of your current mana.
+    <p><B>Formula</B>: 0.5 * (100 - 100 * (x /y)) where x is current mana and y is max mana.
     <p><b>----------------------------------</b></p>
     <p><b>D290</b> - <b>For</b> Any - <B>Research Name</B> Transubstantiation
     <p><B>Requirement</B>: 1 Rough Stone Artifact
