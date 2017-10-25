@@ -5,6 +5,22 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the options window (In game).</p>
 <div class="shlisting">
     <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Patch [v3.0.1] October 25th, 2017</a></b></p>
+        <div class="autohide">
+                <p><b>Golobal Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on Nov6th 2017,7:59PM.</p>
+                <p>Spell durations are now formatted better.</p>
+                <p>Spellcraft 215 (Projection) had wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
+                <p>Mobinogion had wrong formula and has been rebalanced Overall effect and scaling are reduced do to this change.</p>
+                <p>Druid Perk 3 had a wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
+                <p>Elven Luck now generates Faction Coins based on recarnations made.</p>
+                <p>Demon Perk 2 had an incorrect unlock formula. It now counts only this reincarnation stats rather than all time.</p>
+                <p>Vampire now gives the effect of the bloodlines of the factions outside your alignment.</p>
+                <p>Other halloween monsters had some balance tweeks too. S270 (Runedarving) formula fixed - was incorrectly set as post-A1.</p>
+                <p>Holy Site and Burning Abyss requirements increased.</p>
+
+        </div>
+    </div>
+    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">ASCENSION 2 [v3.0.0] October 11th, 2017</a></b></p>
         <div class="autohide">
                 <p><strong>Ascension 2</strong> will become available at Reincarnation 99 or higher. Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase.</p>
