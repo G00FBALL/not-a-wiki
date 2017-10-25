@@ -60,7 +60,7 @@
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowBloodline.png" alt="Drow" align="middle"><b> Drow</b></p>
 <p><b>Effect</b>: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.
-<p><b>Formula</b>: 1.6*x^0.6, where x is time spent in this game.
+<p><b>Formula</b>: 1.6*x^0.6, where x is time spent in this game in seconds.
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonBloodline.png" alt="Dragon" align="middle"><b> Dragon</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.
