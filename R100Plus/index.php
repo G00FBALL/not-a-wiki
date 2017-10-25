@@ -18,6 +18,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Druid
                     <p><b>Template</b>
@@ -34,6 +35,7 @@
             <div class="autohide">
                     <p><b>Author</b>: 123123winz
                     <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
                     <p><b>Template</b>
@@ -51,6 +53,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Alignment</b>: Good, Proof of Order
                     <p><b>Faction</b>: Angel
                     <p><b>Bloodline</b>: Dragon
                     <p><b>Template</b>
@@ -74,6 +77,7 @@
                     <p><b>Author</b>: ensteffahn
                     <p><b>Requiments</b>: Ziggurat unlock
                     <p><b>Range</b>: 1e30 (1 No) Gems
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
                     <p><b>Template</b>
@@ -91,6 +95,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Undead
                     <p><b>Template</b>
