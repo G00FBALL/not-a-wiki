@@ -26,7 +26,7 @@
 <p><b>Good</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
-<p><b>Requirement</b>: 200K Mana Regeneration</p>
+<p><b>Requirement</b>: 2M Mana Regeneration</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuildingUpgrade.png" alt="Holy Site" align="middle"> <b>Unique Building Upgrade</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin
