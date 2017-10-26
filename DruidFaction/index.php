@@ -78,7 +78,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MabinogionFactionUpgrade.png" alt="Smiley face" align="middle"> Mabinogion</b></p>
 <p><b>Cost</b>: 50 Oc (5E28)</p>
 <p><b>Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: 1+2.5*x, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<p><b>Formula</b>: (1 + 2.5 * (12 - T)) ^ t where T is building tier and t is Grand Balance tier.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" alt="Smiley face" align="middle"> Earthly Soul</b></p>
 <p><b>Cost</b>: 500 Oc (5E29)</p>
 <p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
