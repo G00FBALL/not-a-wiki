@@ -70,7 +70,7 @@
     <p><B>Requirement</B>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
     <p><B>Cost</B>: 36.16 TQig (3.616E163) </p>
     <p><B>Effect</B>: Increase Spiritual Surge effect based on the amount of active spells.</p>
-    <p><B>Formula</B>: (150*x)^(y+1), where x is active spells and y is ascension. (does not include Spiritual Surge) </p>
+    <p><B>Formula</B>: 15 *((15 * x) ^ Y), where x is active spells and y is ascension. (does not include Spiritual Surge) </p>
     <p><b>----------------------------------</B></p>
     <p><b>S225</B>: - <b>For</b> Undead - <B>Research Name</B> Necromancy
     <p><B>Requirement</B>: Research Resurrection (D175) & Cryomancy (S200)
