@@ -10,7 +10,7 @@
 <p><b>In-game description</b>
 <p>Enter the Archeology Association to control the progress of your Excavations. There you will be able to fund more excavations to find Faction Coins, the rare Rubies and ancient Artifacts from the civilizations of the old.</p>
 <p>Archaeology was first implemented in the "Ancient Races" expansion for introducing the Neutral Factions.</p>
-<p>Excavating enables to find Rubies, with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral & Prestige Factions.</p>
+<p>Excavating enables to find Rubies (See the <b><a target="_blank" href="http://musicfamily.org/realm/Rubies/">Ruby</a></b></p> page), with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral & Prestige Factions.</p>
 <p>Some artifacts will reward direct bonuses and the amount of discovered artifacts take part in some Research upgrades.</p>
 <p><b>Requirements</b>
 <p>Archaeology is unlocked once you have over 1B gems, produced over 10 Oc (1E28) coins and bought the</p>
