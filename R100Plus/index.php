@@ -7,14 +7,13 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
-    <p><b>NOTE</b>: We will be adding builds as we get them.<br/>
+    <p><b>NOTE</b>: Updated Oct. 26th 2017.<br/>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Druids 0 - 1e27 (1 Oc) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
@@ -31,40 +30,43 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druids ?-1e32 (100 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: 123123winz
-                    <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Range</b>: ? Gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
-                    <p>D150,D275,
+                    <p>D245,D275,
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Takes several minutes to set up.
+                    <p><b>Notes</b>: Swap D150 with D245 for longer (1 hour+) runs.
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels ?Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: ?-1e32 (100 No) Gems
-                    <p><b>Alignment</b>: Good, Proof of Order
-                    <p><b>Faction</b>: Angel
+                    <p><b>Range</b>: 1e38 (100 Ud) - 1e43 (10 Td) Gems
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
+                    <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
                     <p><b>Template</b>
-                    <p>S10,S400,
-                    <p>C25,C400,
-                    <p>D1,D175,D245,
-                    <p>E145,
-                    <p>A50,A3400,
-                    <p>W225,W1375
+                    <p>S3200,
+                    <p>C300,C400,
+                    <p>D245,D275,
+                    <p>E260,E1425,
+                    <p>A251,A375,A400,
+                    <p>W350,W1375
                     <p><b>Notes</b>: Requires significant S400 buildup (recommended at least 100k) and significant neutral time (Week or above) for White Breath growth.
                     <p><b>Notes</b>: Takes estimated time of 10 days for buying SS7.
+                    <p><b>Notes</b>: Requires no buildup (Will get GB11 while running it)
+                    <p><b>Notes</b>: Estimated time 18 days for SS7. Next runs this R will take shorter due to White Breath growth.
          </div>
     </div>
             </div>
@@ -79,22 +81,22 @@
                     <p><b>Range</b>: 1e30 (1 No) Gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
-                    <p><b>Bloodline</b>: Dragon
+                    <p><b>Bloodline</b>: Faceless
                     <p><b>Template</b>
-                    <p>S3200,
-                    <p>C300,C400,
-                    <p>D150,D275,
-                    <p>E135,E260,
+                    <p>S400,
+                    <p>C300,C1325,
+                    <p>D200,D275,
+                    <p>E260,E320,
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Estimated time of 5 days to get GB11.
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics ?Gems (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (Short Term S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: ?-1e32 (100 No) Gems
+                    <p><b>Range</b>: ? Gems
                     <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Undead
@@ -106,7 +108,25 @@
                     <p>A10,A120,
                     <p>W25,W205
                     <p><b>Notes</b>: Estimated time of 10 days for 100k S400.
-                    <p><b>Notes</b>: Swap E1325 with E135 if 5 days+ run.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (Long Term S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: ? Gems
+                    <p><b>Alignment</b>: Evil, Proof of Balance
+                    <p><b>Faction</b>: Goblin
+                    <p><b>Bloodline</b>: Angel
+                    <p><b>Template</b>
+                    <p>S50,S400,
+                    <p>C175,C400,
+                    <p>D200,
+                    <p>E1,E135,E225,
+                    <p>A10,A120,
+                    <p>W25,W205
+                    <p><b>Notes</b>: Beats above build for runs of above 5 days.
+                    <p><b>Notes</b>: SEstimated time of 20 days for 200k S400.
          </div>
     </div>
             </div>
@@ -163,7 +183,7 @@
                     <p>C25,C330,
                     <p>D1,D175,D290,
                     <p>E1325,
-                    <p>A50,A3400,
+                    <p>A50,A400,
                     <p>W225,W1375
                     <p><b>Notes</b>: Get 400 Royal Exchanges for Druid Lineage, then cast all spells for unlock.
                     <p><b>Notes</b>: Estimated time of 2 minutes to unlock.
@@ -215,12 +235,12 @@
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
                     <p><b>Template</b>
-                    <p>S105,
+                    <p>S400,
                     <p>C50,C3100,
                     <p>D10,D200,
                     <p>E230,E1325,
-                    <p>A3400,W1,
-                    <p>W175,W205
+                    <p>A25,A3400,
+                    <p>W1,W175,W205
                     <p><b>Notes</b>: Almost automatic after getting Elf Lineage.
         </div>
     </div>
