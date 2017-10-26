@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-        <p><b>Updated October 14th 2017</p></b>
+        <p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
         <p><b>Note</b>: It is recommended to get at least 10 No (1e31) gems before starting stage 3 of Dragon Unlocks, 100 No (1e32) will be quicker for unlock stages. </p>
         <p><b>Note</b>: Make sure to get Prismatic Mana trophy as soon as possible! </p>
 <div class="shlisting">
