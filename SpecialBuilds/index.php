@@ -6,7 +6,7 @@
 <br/>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
 <br/>
-<p><b>All builds have been updated as of June, 3rd 2017.</b>
+<p><b>NOTE</b>: This page will be updated in the near future in the meantime you can find new builds <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>here</b></a></p>
     <br/>
 <p>These builds are not meant to help gem progress, but to help build-up a specific perk.
 <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact from the build below, it will help out quite a bit. Also at <b>R76</b> Get <b>Know Your Enemy Part 2</b> before you use all your Excavations.</p>
