@@ -128,7 +128,7 @@
                     <p>A10,A120,
                     <p>W25,W205
                     <p><b>Notes</b>: Beats above build for runs of above 5 days.
-                    <p><b>Notes</b>: SEstimated time of 20 days for 200k S400.
+                    <p><b>Notes</b>: Estimated time of 20 days for 200k S400.
          </div>
     </div>
             </div>
