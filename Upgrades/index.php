@@ -379,34 +379,34 @@
             <p><b>Effect</b>: While offline, improves spell cast amount by 1 per minute.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingUpgrade.png" alt="Contingency Autocasting" align="middle"> Contingency Autocasting</b></p>
-            <p><b>Cost</b>: 500Qad (5E47)
+            <p><b>Cost</b>: 500 Qad (5E47)
             <p><b>Unlock Requirements</b>: 20 M (2E7) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Allows you to set a minimum amount of mana before starting to Autocast. A slide bar will appear when you CTRL+Click on the mana bar. Contingency-slidebar By adjusting its height you will set a minimum amount of mana below which spells won't be cast. Once your mana reaches the threshold, spells will follow the priority rules. The contingency loop will break when you can't cast a spell, at which point the cycle will reset.
             <p><b>Effect</b>: While offline, improves spell cast amount by an additional 2 per minute.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlannedAutocastingUpgrade.png" alt="Planned Autocasting" align="middle"> Planned Autocasting</b></p>
-            <p><b>Cost</b>: 600Spd (6E56)
+            <p><b>Cost</b>: 600 Spd (6E56)
             <p><b>Unlock Requirements</b>: 30 M (3E7) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Allows you to set Primary and Secondary spells. Primary spells (Set with CTRL+Click) will fire when you have max mana with Contingency Autocasting. Secondary spells (Set with SHIFT+Click) will fire as soon as you have the mana, as long as the primary spells are ALL still active.
             <p><b>Effect</b>: While offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/EfficientAutocastingUpgrade.png" alt="Efficient Autocasting" align="middle"> Efficient Autocasting</b></p>
-            <p><b>Cost</b>: 700Vg (7E65)
+            <p><b>Cost</b>: 700 Vg (7E65)
             <p><b>Unlock Requirements</b>: 50 M (5E7) Mana Produced (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Allows you to select Independent Spells, (a bronze icon set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are casted as soon as you have enough mana for them.
             <p><b>Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingUpgrade.png" alt="Tiered Autocasting" align="middle"> Tiered Autocasting</b></p>
-            <p><b>Cost</b>: 800 Vg (8E65)
+            <p><b>Cost</b>: Free
             <p><b>Unlock Requirements</b>: R40+, 200M Mana Produced (Total this R)
             <p><b>Alignment</b>: Any
             <p>Only for Tier upgraded Spells (R42+). Allows you to set the maximum tier you wish to autocast each spell to.
             <p>In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.
-            <p>Only while offline, increase mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 3 per minute. (Caps at 90% mana regen while offline)
-            <p><b>Note</b>: The trophy and offline bonus can not be acquired before R40
+            <p>Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x)).
+            <p><b>Note</b>: The trophy and offline bonus can not be acquired before R40.
             <p><b>------------------------------</b></p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Research Building Upgrades</a></b></p>
