@@ -29,6 +29,7 @@
     <p><B>Requirement</B>: Have 6000 mana(as Fairy)</p>
     <p><B>Cost</B>: 318.8 Tqag (3.188E134)</p>
     <p><B>Effect</B>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.</p>
+    <p><B>Effect</B>: Also increases offline spell cast amount by multiplicatively by 150%.
     <p><B>Formula</B>: floor(x /650), where x is the number of Goblin Banks you own.</p>
     <p><b>----------------------------------</B></p>
     <p><b>S105</B>: - <b>For</b> Any - <B>Research Name</B> Mysticism </p>
