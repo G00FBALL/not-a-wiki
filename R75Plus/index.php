@@ -201,51 +201,10 @@
                 <p><b>Multistage build</b>
                 <p><b>Buildup phase</b>: Do <b>Not</b> purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 8 hours long.
                 <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal. Optimal production at near the end of the Fairy Chanting cast.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">PACKER - Pre R90 no Veteran Figurine<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: artcrow
-                <p><b>Range</b>: 1e90 (1 NoVg) - 1e118 (1 QiTg) Gems
-                <p><b>Recommended</b>: Buffed S400 from Dragon Elf S400 run.
-                <p><b>Faction</b>: Evil Mercenary
-                <p><b>Bloodline</b>: Dragon
-                <p><b>A2950</b>: Druid
-                <p><b>13th Upgrade</b>: UD7
-                <p><b>Template</b>: Dragon Lineage + Druid A2950 version.
-                <p>EL3,EL7,AN2,AN5,AN8,TT6,DD6,DD7,DN2,DG3,DG4,DG9,
-                <p>SP:Grand Balance,SP:Brainwave,
-                <p>S50,S305,S375,S400,S1450,S1500,
-                <p>C340,C400,C590,C1300,C3000,
-                <p>D25,D245,D330,D1275,D1375,D2775,
-                <p>E10,E135,E145,E350,E1225,E3250,
-                <p>A10,A150,A410,A1500,A2950,A3400,
-                <p>W180,W275,W400,W525,W3050,W3150
-                <p><b>Open Craftsmanship slot</b>: Higher of C150/C1500
-                <p><b>Notes</b>: Brainwave over 30 hours long in the Druid build. Over 20 in the Demon build. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.
-                <p><b>Notes</b>: Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.
-                <p><b>Notes</b>: D1375 alternate: D200 for S400 buffing. D1375 is the stronger production upgrade, but it requires high S400 from a previous long buff run to be better than D200 for most purposes. Self buffing S400 is not recommended. A dedicated S400 buff run with Dragon + Elf will produce a higher S400 than this build.
-                <p><b>Notes</b>: A150 alternate: A120 isn't very useful as it increases production by about 5-6% and lets you cast the first Brainwave with increased duration slightly sooner than A150. A150 can replace A120 in the S400 buff string for higher production losing some S400 buffing at the start of Brainwave to low regeneration. After 2 days or more, A150 will pass A10, and A150 and A120 can be used for long runs dropping A10, but it's better to use A10 and A150 without A120.
-                <p><b>Faction</b>: Evil Mercenary
-                <p><b>Bloodline</b>: Dragon
-                <p><b>A2950</b>: Demon
-                <p><b>13th Upgrade</b>: UD7
-                <p><b>Template</b>: Dragon Lineage + Demon A2950 version.
-                <p>EL3,AN2,AN5,AN8,TT6,DD6,DD7,FC7,DN2,DG3,DG4,DG9,
-                <p>SP:Grand Balance,SP:Brainwave
-                <p>S50,S305,S375,S400,S1450,S1500,
-                <p>C340,C400,C590,C1300,C3000,
-                <p>D25,D245,D330,D1275,D1375,D2775,
-                <p>E10,E135,E145,E350,E1225,E3250,
-                <p>A10,A150,A410,A1500,A2950,A3400,
-                <p>W180,W275,W400,W525,W3050,W3150
-                <p><b>Open Craftsmanship slot</b>: Higher of C150/C1500.
-                <p><b>Notes</b>: A150 alternate: A120.
-         </div>
-    </div>
             </div>
-                    <br/>
+        </div>
+    </div>
+    <br/>
     <p><b>Mercenary Research and Unique Building Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
@@ -260,23 +219,6 @@
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                     <p>SP:Fairy Chanting,SP:God's Hand
                     <p><b>Notes</b>: Estimated time 30 minutes for unlock.
-        </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Unnamed (Merc Research)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: Tskami_ek
-                    <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Faction</b>: Neutral Mercenary
-                    <p><b>Bloodline</b>: Undead
-                    <p><b>Template</b>
-                    <p>EL1,EL3,EL4,EL7,AN3,AN5,GB7,FC7,DW2,DW6,DG4,DG7,
-                    <p>SP:Fairy Chanting,SP:Dragon's Breath
-                    <p><b>Notes</b>: Start out casting Fairy Chanting and Dragon's Breath (tier 1) on bronze and Tax Collect on Gold until you get 400 REs / UL15.
-                    <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
-                    <p><b>2</b>: Faster if you have UL15, but works without it. There are also Druidline builds which are likely faster, but I don’t know of any yet.
-                    <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.
-                    <p>Build comes from this Google Docs post
         </div>
     </div>
         <div class="shelementwhole">
