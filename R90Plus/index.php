@@ -67,11 +67,11 @@
                 <p>D25,D55,D245,D260,D320,D1275,
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A120,A590,A1200,A1500,A2950,A3400,
-                <p>W180,W260,W400,W1275,W3050,W3150
+                <p>W120,W180,W400,W1275,W3050,W3150
                 <p><b>Notes</b>: 
                 <p>Replace C150 with C1500 if higher.
                 <p>Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
-                <p>Replace W260 with W275 if buffed.
+                <p>Replace W120 with W275 if buffed.
                 <p>May need excavations for spell tiers to set up at low gems.
          </div>
     </div>
@@ -92,9 +92,9 @@
                 <p>D25,D55,D245,D260,D320,D1275,
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A120,A590,A1200,A1500,A2950,A3400,
-                <p>W180,W260,W400,W1275,W3050,W3150
+                <p>W120,W180,W400,W1275,W3050,W3150
                 <p><b>Notes</b>: Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
-                <p><b>Notes</b>: Replace W260 with W275 if buffed.
+                <p><b>Notes</b>: Replace W120 with W275 if buffed.
          </div>
     </div>
         <div class="shelementwhole">
