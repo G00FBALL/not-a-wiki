@@ -214,7 +214,6 @@
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems
-                    <p><b>Requiments</b>: Veteran Figurine
                     <p><b>Template</b>
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                     <p>SP:Fairy Chanting,SP:God's Hand
