@@ -334,7 +334,7 @@
                     <p>A120,A410,A590,A1500,A2950,A3400,
                     <p>W205,W400,W525,W560,W1400,W3050
                     <p><b>Notes</b>: Alternative of the above S400 build, that requires Dragon Breath to cast x2 blue breath to be better. To do so, you have to export/import the save until Dragon's Breath is casting x2 blue every time the spell recasts. To be better than above build, you must maintain x2 blue at least 40% of the time.
-                    <p><b>Notes</b>: Estimated run time 8-11 to 12-17 days (Depending on maintained blue x2 time) to unlock Spell Master trophy.
+                    <p><b>Notes</b>: Estimated run time 5-7 to 8-10 days (Depending on maintained blue x2 time) to unlock Spell Master trophy.
                     <p><b>Notes</b>: Make sure you can commit to this build if you want to use it over the other.
          </div>
     </div>
