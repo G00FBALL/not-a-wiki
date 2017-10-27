@@ -12,7 +12,7 @@
     <p>Your Lineage is dependant on the Bloodline you chose.
     <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication)
     <p><b>Note</b>: Levels only need to be bought once.
-    <p><b>Note</b>: All Lineages <b>REQUIRE</b> Prestige Faction.</p>
+    <p><b>Note</b>: All Lineages <b>REQUIRE</b> Prestige Faction. (Ascension 1 only)</p>
     <div class="shlisting">
         <div class="shelementwhole" style="padding-left: 20px">
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
