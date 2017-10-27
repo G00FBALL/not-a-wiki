@@ -55,4 +55,5 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/VersaltileComboChallenges.png" alt="Spell Upgrade Versatile Combo" align="middle"> <b>Spell Upgrade Versatile Combo</b></p>
 <p>Increase Combo Strike counter based on the amount of spells cast in this game, not including Tax Collection.
 <p>New Combo Strike Counter Formula: 10 * log10(1 + (y * 30)) + x, where x is your Combo Strike cast count and y is every other spell (except tax collection) cast count.
+<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration (10 * log10(1 + x)).
 <?php include "../scripts/footer.html"; ?>
