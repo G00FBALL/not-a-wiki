@@ -34,7 +34,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Dragtans (R47-R48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -67,7 +67,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R49)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -84,7 +84,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R50)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -102,7 +102,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R51)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -122,7 +122,7 @@
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Template</b>
                 <p>S215,S270,S305,S330,S500,
                 <p>C150,C250,C330,C340,C400,C1300,
@@ -138,7 +138,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R53-R54)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -156,7 +156,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -174,7 +174,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Requirements</b>: Dragon Challege 3
-                <p><b>Range</b>: 1e33 (1 Dc) -? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -195,7 +195,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Range</b>: ?
                 <p><b>Faction</b>: Druid
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Template</b>
