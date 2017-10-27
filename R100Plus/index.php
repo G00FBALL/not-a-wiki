@@ -65,11 +65,9 @@
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
-                    <p><b>Notes</b>: Requires significant S400 buildup (recommended at least 100k) and significant neutral time (Week or above) for White Breath growth.
-                    <p><b>Notes</b>: Takes estimated time of 10 days for buying SS7.
                     <p><b>Notes</b>: Requires no buildup (Will get GB11 while running it)
-                    <p><b>Notes</b>: Estimated time 18 days for SS7. Next runs this R will take shorter due to White Breath growth.
-         </div>
+                    <p><b>Notes</b>: Estimated time 18 days for SS7. Next runs this R will take shorter due to White Breath growth. 
+                </div>
     </div>
             </div>
                     <br/>
