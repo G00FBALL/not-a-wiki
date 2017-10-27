@@ -182,4 +182,5 @@
     <p><B>Requirement</B>: 1B (1e9) Tax Collection cast (This R), (Calefaction A1325) and (Psionics S1500).
     <p><B>Cost</B>: 387 USxg (3.87e188)
     <p><B>Effect</B>: Each active spell increases mana regen by an additional 8% (good merc TC tiers also count).
+    <p><B>Effect</B>: Also increases offline spell cast amount by multiplicatively by 1200%.
 <?php include "../scripts/footer.html"; ?>
