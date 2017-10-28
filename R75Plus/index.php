@@ -109,7 +109,7 @@
                 <p><b>Notes</b>: R79+ Replace W180 with W3150.
                 <p><b>Multistage build</b>
                 <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 2 hours long.
-                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal. Optimal production at near the end of the Fairy Chanting cast.
+                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal.
          </div>
     </div>
         <div class="shelementwhole">
@@ -135,7 +135,7 @@
                 <p><b>Notes</b>: R79+ Replace W180 with W3150.
                 <p><b>Multistage build</b>
                 <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 8 hours long.
-                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal. Optimal production at near the end of the Fairy Chanting cast.
+                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal.
          </div>
     </div>
         <div class="shelementwhole">
