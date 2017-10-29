@@ -36,7 +36,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Siku modified by Necrodoom
                 <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
-                <p><b>Requirements</b>: Demon Lineage level 25+
+                <p><b>Requirements</b>: Demon Lineage level 25+, Demon Perk 2 <b>NOT</b> needed
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Demon
