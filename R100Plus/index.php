@@ -241,7 +241,9 @@
                     <p>E230,E1325,
                     <p>A25,A3400,
                     <p>W1,W175,W205
-                    <p><b>Notes</b>: Almost automatic after getting Elf Lineage.
+                    <p><b>Notes</b>: Requires a S400 of about 50000 (1 day S400 buff).
+                    <p><b>Notes</b>: Cast only Tax Collection, Blood Frenzy and Moon Blessing on tier 1 for buildup.
+                    <p><b>Notes</b>: Estimated time 6 hours to unlock.
         </div>
     </div>
         <div class="shelementwhole">
