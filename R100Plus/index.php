@@ -174,7 +174,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Holy Site (Angel) 1e20 (100 Qi) Gems<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: 1e20 (100 Qi) Gems
+                    <p><b>Range</b>: 1e28 (10 Oc) Gems
                     <p><b>Alignment</b>: Good, Proof of Order
                     <p><b>Faction</b>: Angel
                     <p><b>Bloodline</b>: Druid
