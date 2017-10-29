@@ -187,7 +187,7 @@
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Demon
                 <p><b>13th Upgrade</b>: FR7 (If it will get a Share Benefits tier), DN8, AN2 (Whichever is stronger otherwise)
-                <p><b>Range</b>: 1e30 (1 No) - 1e90(1e92?) (1 NoVg) Gems
+                <p><b>Range</b>: 1e112 (1 TTg)- 1e118 (1 QiTg) Gems
                 <p><b>Template</b>
                 <p>FR1,EL3,EL7,AN5,TT6,DD6,DD7,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:Grand Balance,SP:Fairy Chanting,
