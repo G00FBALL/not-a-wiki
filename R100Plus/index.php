@@ -186,7 +186,7 @@
                     <p>A50,A400,
                     <p>W225,W1375
                     <p><b>Notes</b>: Get 400 Royal Exchanges for Druid Lineage, then cast all spells for unlock.
-                    <p><b>Notes</b>: Estimated time of 2 minutes to unlock.
+                    <p><b>Notes</b>: Estimated time of 2 hours to unlock.
         </div>
     </div>
         <div class="shelementwhole">
