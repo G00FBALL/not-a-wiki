@@ -18,7 +18,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (R75-R82)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Wlerin
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -35,7 +35,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Siku modified by Necrodoom
-                <p><b>Range</b>: 0 gems - 1e33 (1 Dc) Gems
+                <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
                 <p><b>Requirements</b>: Demon Lineage level 25+
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Undead
@@ -54,7 +54,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
-                <p><b>Range</b>: 1e30 (1 No) - 1e90(1e92?) (1 NoVg) Gems
+                <p><b>Range</b>: 1e30 (1 No) gems - 1e90(1 NoVg) gems / 1e92 (100 NoVg) gems (with UL20)
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                 <p><b>Template</b>
@@ -73,7 +73,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
-                <p><b>Range</b>: 1e90 (1 NoVg) - ? Gems
+                <p><b>Range</b>: 1e90 (1 NoVg) gems - ? gems
                 <p><b>Template</b>
                 <p>EL3,EL7,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Dragon's Breath,
@@ -91,7 +91,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dream Caster (R77-R80)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e93 (1 Tg) - 1e100 (10 DTg) Gems
+                <p><b>Range</b>: 1e93 (1 Tg) gems - 1e100 (10 DTg) gems
                 <p><b>Faction</b>: Good Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Elf
@@ -117,7 +117,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Requirements</b>: 51.8B mana generated this R (for GB11).
-                <p><b>Range</b>: 1e93 (1 Tg) - 1e100 (10 DTg) Gems
+                <p><b>Range</b>: 1e93 (1 Tg) gems - 1e100 (10 DTg) Gems
                 <p><b>Faction</b>: Good Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Elf
@@ -142,7 +142,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Revenant 2.0 (R81-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Xemima
-                <p><b>Range</b>: 1e90 (1 NoVg) - 1e115 (1 QaTg) Gems
+                <p><b>Range</b>: 1e90 (1 NoVg) gems - 1e115 (1 QaTg) Gems
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
@@ -163,7 +163,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Grim Reaper (R82-R90)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: Range: 1e112 (1 TTg)(?) - 1e118 (1 QiTg) Gems
+                <p><b>Range</b>: Range: 1e112 (1 TTg)(?) gems - 1e120 (1 NoTg) Gems
                 <p><b>Faction</b>: Evil Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
@@ -187,7 +187,7 @@
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Demon
                 <p><b>13th Upgrade</b>: FR7 (If it will get a Share Benefits tier), DN8, AN2 (Whichever is stronger otherwise)
-                <p><b>Range</b>: 1e112 (1 TTg)- 1e118 (1 QiTg) Gems
+                <p><b>Range</b>: 1e112 (1 TTg)(?) gems - 1e120 (1 NoTg) Gems
                 <p><b>Template</b>
                 <p>FR1,EL3,EL7,AN5,TT6,DD6,DD7,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:Grand Balance,SP:Fairy Chanting,
@@ -213,7 +213,7 @@
                     <p><b>Author</b>: Tskami_ek
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Range</b>: 1e90 (1 NoVg) Gems
+                    <p><b>Range</b>: 1e90 (1 NoVg) gems
                     <p><b>Template</b>
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                     <p>SP:Fairy Chanting,SP:God's Hand
@@ -224,7 +224,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research, UL20 Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom + Lapare
-                    <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
+                    <p><b>Range</b>: 1e90 (1 NoVg) gems
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Undead
                     <p><b>Template</b>
