@@ -18,7 +18,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Siku modified by Necrodoom
-                <p><b>Requirements</b>: Demon Lineage level 25+
+                <p><b>Requirements</b>: Demon Lineage level 25+, Demon Perk 2 <b>NOT</b> needed
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Demon
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
