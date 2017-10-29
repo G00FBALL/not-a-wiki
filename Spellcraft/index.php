@@ -118,7 +118,7 @@
     <p><B>Requirement</B>: Research Reverberation (S330), Mesmerization (S305)</p>
     <p><B>Cost</B>: 541 DSxg (5.41E191) </p>
     <p><B>Effect</B>: Increase Spiritual Surge effect based on the amount of active spells.</p>
-    <p><B>Formula</B>: floor(1.15*((x/30+y)/60)^2), where x is how many minutes the spell has been active.</p>
+    <p><B>Formula</B>: Floor(1.15 * (x + y) ^ 2), where x is brainwave runtime in minutes and y is headstart in minutes</p>
     <p><b>----------------------------------</B></p>
     <p><b>S400</B>: - <b>For</b> Any - <B>Research Name</B> Capacity</p>
     <p><B>Requirement</B>: Research Projection (S215) & Domination (W275)</p>
