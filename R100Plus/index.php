@@ -227,10 +227,10 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e27 (1 Oc) Gems<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e30 (1 No) Gems<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Artgor 
-                    <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Range</b>: 1e30 (1 No) Gems
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
