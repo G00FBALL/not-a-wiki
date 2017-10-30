@@ -9,7 +9,7 @@
     <p><b>Templates</b> can be found at the top of each build table (if available).
     <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the <b><a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/">Harley Quinn</b></a> build.
     <p><b>Note</b>: Most Templates are in order that the game save them in. Also when loading Templates the game will buy the upgrades you can afford first and you may need to load Templates several times to buy all upgrades.</p>
-    <p><b>Note</b>: All Obsolete builds moved to  <a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
+    <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine R3-R9 and R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
