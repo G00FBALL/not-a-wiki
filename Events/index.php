@@ -148,6 +148,7 @@
                 <p><b><img src="/realm/Factions/picks/Blood.png" alt="Blood" align="middle"> Blood</b>
                     <b><img src="/realm/Factions/picks/Ectoplasm.png" alt="Ectoplasm" align="middle"> Ectoplasm</b>
                     <b><img src="/realm/Factions/picks/Bones.png" alt="Vanpire" align="middle"> Bones</b></p>
+                <p>You will need 3058 of each (Blood, Ectoplasm and Bones) to complete event.
                 <p>They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours).
                 <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.
                 <p><b>----------------------------------</b>
