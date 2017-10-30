@@ -59,6 +59,179 @@
     </map>
     <div class="shlisting">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 30 - Nov 06, 2017)</a></b></p>
+            <div class="autohide">
+                <p>Hello Everyone!
+                <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realms. Choose your own, feed and grow it to its maximum potential!
+                <p>The Halloween event will be starting on <b>Oct 30th 2017, 12.01 PM UTC and will end on Nov 06th 2017, 7.59 PM UTC</b>.
+                <p>This event will feature daily presents (as we did for the last Christmas), inside which you will found a random monster, up to a maximum of three. Once you have found a monster, you will be able to feed it resources (see below) to make it grow, unlocking perks and bonuses in the process.
+                <p>There will be three new resources for the event: Blood, Ectoplasm and Bones. They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours). You can only collect one type of resource: by doing so, the others will disappear.
+                <p>Each resource will be used to feed a single monster, which will gain levels as it grows. At levels 1, 10, 25 and 50 each monster will grant you new perks, including new unique spells and upgrades. You will be able to gain advantage of one single monster at a time, but they can be toggled on and off on the fly in the Event panel.
+                <p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!
+                <p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Halloween</b></p>
+                <p><b>----------------------------------</b>
+                <p>You will get a Pumpkin Smasher once a day (1:01 UTC Time).
+                <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.
+                <p>The first Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire).
+                <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: Free
+                <p><b>Effect</b>: Increase the production of all buildings based on Halloween Resources collected. Increases as you gain new monsters.
+                <p><b>Formula</b>: Formula: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4
+                <p>The next 2 Pumpkins should give you 1 of 2 remaining Monster (Skeleton, Ghost and Vampire).
+                <p><b>----------------------------------</b>
+                <p>Collect all 4 Quest to complete a Feat
+                <p>Collect 6 Pumpkin Smashers to complete a Feat
+                <p><b>Quests</b>
+                <p><b>Pumpkin Smasher</b>
+                <p><b><img src="/realm/Factions/picks/PumpkinSmasher1.png" alt="Halloween" align="middle"> Pumpkin Smasher 1</b>
+                <p><b>Requirements</b>: Log in once a day to collect the pumpkin.
+                <p><b>Effect</b>: Completing this quest step will give you 1 of 3 Monsters, also gives resources and a gift
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/PumpkinSmasher2.png" alt="Halloween" align="middle"> Pumpkin Smasher 2</b>
+                <p><b>Requirements</b>: Log in once a day to collect the pumpkin.
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/PumpkinSmasher3.png" alt="Halloween" align="middle"> Pumpkin Smasher 3</b>
+                <p><b>Requirements</b>: Log in once a day to collect the pumpkin.
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher 4</b>
+                <p><b>Requirements</b>: Log in once a day to collect the pumpkin.
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus
+                <p><b>----------------------------------</b>
+                <p>Collect all 3 Quest to complete a Feat
+                <p><b>Monster Breeder</b>
+                <p><b>Kind</b>: 3 Quest Series
+                <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50
+                <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b>
+                <p><b>Requirements</b>: Grow all monsters to lvl. 10
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b>
+                <p><b>Requirements</b>: Grow all monsters to lvl. 25
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b>
+                <p><b>Requirements</b>: Grow all monsters to lvl. 50
+                <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus
+                <p><b>----------------------------------</b>
+                <p><b>Feats</b>
+                <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b>
+                <p><b>Requirements</b>: Grow all monsters to lvl. 50
+                <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b>
+                <p><b>Requirements</b>: Smash 6 Halloween Pumpkins
+                <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus
+                <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b>
+                <p><b>Requirements</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.(Must have the spell)
+                <p><b>Effect</b>:
+                <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b>
+                <p><b>Requirements</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.(Must have the spell)
+                <p><b>Effect</b>:
+                <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b>
+                <p><b>Requirements</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.(Must have the spell)
+                <p><b>Effect</b>:
+                <p><b>----------------------------------</b>
+                <p><b>Shop</b>
+                <p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b>
+                <p><b>Cost</b>: 5 Rubies
+                <p><b>Effect</b>: Gives you 50 Blood, Ectoplasm and Bones and offer you a new deal.
+                <p><b><img src="/realm/Factions/picks/HalloweenShop2.png" alt="Halloween" align="middle"> Shop 2</b>
+                <p><b>Cost</b>: 15 Rubies
+                <p><b>Effect</b>: Gives you 225 Blood, Ectoplasm and Bones and offer you a new deal.
+                <p><b><img src="/realm/Factions/picks/HalloweenShop3.png" alt="Halloween" align="middle"> Shop 3</b>
+                <p><b>Cost</b>: 45 Rubies
+                <p><b>Effect</b>: Gives you 875 Blood, Ectoplasm and Bones and offer you a new deal.
+                <p><b><img src="/realm/Factions/picks/HalloweenShop4.png" alt="Halloween" align="middle"> Shop 4</b>
+                <p><b>Cost</b>: 100 Rubies
+                <p><b>Effect</b>: Gives you 2250 Blood, Ectoplasm and Bones
+                <p><b>----------------------------------</b>
+                <p><b>Resources</b>
+                <p><b><img src="/realm/Factions/picks/Blood.png" alt="Blood" align="middle"> Blood</b>
+                    <b><img src="/realm/Factions/picks/Ectoplasm.png" alt="Ectoplasm" align="middle"> Ectoplasm</b>
+                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vanpire" align="middle"> Bones</b></p>
+                <p>They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours).
+                <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vanpire" align="middle"> Vampire</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 1
+                <p><b>Unlock / Price</b>: Free from daily pumpkin present
+                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VanpireSire" align="middle"> Vanpire Sire</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 10
+                <p><b>Unlock / Price</b>: 198 Blood
+                <p><b>Effect</b>: Gives the spell (Shadow Embrace)
+                <p><b><img src="/realm/Factions/picks/VampireLord.png" alt="VampireLord" align="middle"> Vampire Lord</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 25
+                <p><b>Unlock / Price</b>: 660 Blood
+                <p><b>Effect</b>: Gain all Bloodline effects of prestige factions outside your alignment at once.
+                <p><b>Note</b>: You can select any Lineage based on those bloodlines.
+                <p><b><img src="/realm/Factions/picks/VampireKing.png" alt="VampireKing" align="middle"> Vampire King</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 50
+                <p><b>Unlock / Price</b>: 2200 Blood
+                <p><b>Effect</b>: Reduce the cost of faction spells by %75.
+                <p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
+                <p><b>Requirement</b>: Level 10 Vampire Monster
+                <p><b>Effect</b>: Increase the size of your assistant army based on the amount of Reincarnations you made for 20 seconds. Increases progressively as you continue casting this spell.
+                <p><b>Formula</b>: (R + 1) * (Number of casts (this game))^0.5, where R is Reincarnation count.</p>
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Ghost.png" alt="Ghost" align="middle"> Ghost</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 1
+                <p><b>Unlock / Price</b>: Free from daily pumpkin present
+                <p><b><img src="/realm/Factions/picks/Banshee.png" alt="Banshee" align="middle"> Banshee</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 10
+                <p><b>Unlock / Price</b>: 198 Ectoplasm
+                <p><b>Effect</b>: Gives the spell (Wail of the Banshee)
+                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wrath" align="middle"> Wrath</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 25
+                <p><b>Unlock / Price</b>: 660 Ectoplasm
+                <p><b>Effect</b>: Increase maximum mana and mana regeneration based on clicks made in this game.
+                <p><b>Formula</b>: Max Mana: log10((1 + x) ^ 2.5)
+                <p><b>Formula</b>: Mana Regeneration: log10((1 + x) ^ 2.25), non additive boost.
+                <p><b><img src="/realm/Factions/picks/Spectre.png" alt="Spectre" align="middle"> Spectre</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 50
+                <p><b>Unlock / Price</b>: 2200 Ectoplasm
+                <p><b>Effect</b>: All productive clicks benefit from a 100 times greater Faction Coin find chance.
+                <p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
+                <p><b>Requirement</b>: Level 10 Ghost Monster
+                <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game for 20 seconds.
+                <p><b>Formula</b>: 0.2 * (R + 1) * x^0.45
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 1
+                <p><b>Unlock / Price</b>: Free from daily pumpkin present
+                <p><b><img src="/realm/Factions/picks/BigSkeleton.png" alt="" align="middle"> Big Skeleton</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 10
+                <p><b>Unlock / Price</b>: 198 Bones
+                <p><b>Effect</b>: Gives the spell (Cannibalize)
+                <p><b><img src="/realm/Factions/picks/HugeSkeleton.png" alt="" align="middle"> Huge Skeleton</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 25
+                <p><b>Unlock / Price</b>: 660 Bones
+                <p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.
+                <p><b>Formula</b>: x^0.7
+                <p><b>Note</b>: Not effected by ascension penalties
+                <p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
+                <p><b>Kind</b>: Monster
+                <p><b>Level</b>: 50
+                <p><b>Unlock / Price</b>: 2200 Bones
+                <p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.
+                <p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
+                <p><b>Requirement</b>: Level 10 Skeleton Monster
+                <p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected for 20 seconds.
+                <p><b>Formula</b>: ceil(0.75 * (R + 1) * x^0.75)
+                <p><b>----------------------------------</b>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 16 - Aug 23, 2017)</a></b></p>
             <div class="autohide">
                 <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!
