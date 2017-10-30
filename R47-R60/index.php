@@ -9,6 +9,7 @@
 <br/>
     <p><b>Updated Oct. 27th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
+    <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <br/>
 <div class="shlisting">
