@@ -200,8 +200,8 @@
                 <p><b>Effect</b>: All productive clicks benefit from a 100 times greater Faction Coin find chance.
                 <p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
                 <p><b>Requirement</b>: Level 10 Ghost Monster
-                <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game for 20 seconds.
-                <p><b>Formula</b>: 0.2 * (R + 1) * x^0.45
+                <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game and the amount of Reincarnations you made for 20 seconds.
+                <p><b>Formula</b>: 0.2 * (R + 1) * x^0.45, where R is reincarnation count and x is mana produced.
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
                 <p><b>Kind</b>: Monster
@@ -226,8 +226,8 @@
                 <p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.
                 <p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
                 <p><b>Requirement</b>: Level 10 Skeleton Monster
-                <p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected for 20 seconds.
-                <p><b>Formula</b>: ceil(0.75 * (R + 1) * x^0.75)
+                <p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.
+                <p><b>Formula</b>: ceil(0.75 * (R + 1) * x^0.75), where R is Reincarnation count and x is bones collected.
                 <p><b>----------------------------------</b>
             </div>
         </div>
