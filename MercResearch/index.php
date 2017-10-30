@@ -58,7 +58,7 @@
 <p><b>Requirement</b>: Tyrant Garrison
 <p><b>Cost</b>: 1 Qaqag (1e135)
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.
-<p><b>Formula</b>: y ^ (0.5*(log10(1+x))^4.5), where y is TC original power and x is amount of TC casts
+<p><b>Formula</b>: y ^ (1 + 0.2 * Log10(1 + x)), where y is TC original power and x is amount of TC casts, where y is TC original power and x is amount of TC casts
 <p><b>Note</b>: Extra time from reap interests does apply to S50.
 <p><b>Note</b>: S50 tax collections do increase reap interests.
 <br/>
