@@ -72,7 +72,7 @@
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Halloween</b></p>
                 <p><b>----------------------------------</b>
-                <p>You will get a Pumpkin Smasher once a day (1:01 UTC Time).
+                <p>You will get a Pumpkin Smasher once a day (1:01PM UTC Time).
                 <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.
                 <p>Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire) if you are missing any.
                 <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
