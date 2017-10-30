@@ -105,8 +105,7 @@
                 <p>E80,E135,E320,E350,E1225,E1325,
                 <p>A105,A120,A175,A305,A1500,A2950,
                 <p>W180,W275,W400,W560,W1375,W1400
-                <p><b>Notes</b>: R78+ Replace C135 with C3100.
-                <p><b>Notes</b>: R79+ Replace W180 with W3150.
+                <p><b>Notes</b>: R79+ Replace C135 with C3100 and W180 with W3150.
                 <p><b>Multistage build</b>
                 <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 2 hours long.
                 <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal.
@@ -131,8 +130,7 @@
                 <p>E80,E135,E320,E350,E1225,E1325,
                 <p>A105,A120,A175,A305,A1500,A2950,
                 <p>W180,W275,W400,W560,W1375,W1400
-                <p><b>Notes</b>: R78+ Replace C135 with C3100.
-                <p><b>Notes</b>: R79+ Replace W180 with W3150.
+                <p><b>Notes</b>: R79+ Replace C135 with C3100 and W180 with W3150.
                 <p><b>Multistage build</b>
                 <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 8 hours long.
                 <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal.
