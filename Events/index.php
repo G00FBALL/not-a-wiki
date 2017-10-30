@@ -76,11 +76,11 @@
                 <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.
                 <p>The first Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire).
                 <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
+                <p>The next 2 Pumpkins should give you 1 of 2 remaining Monster (Skeleton, Ghost and Vampire).
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on Halloween Resources collected. Increases as you gain new monsters.
                 <p><b>Formula</b>: Formula: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4
-                <p>The next 2 Pumpkins should give you 1 of 2 remaining Monster (Skeleton, Ghost and Vampire).
                 <p><b>----------------------------------</b>
                 <p>Collect all 4 Quest to complete a Feat
                 <p>Collect 6 Pumpkin Smashers to complete a Feat
