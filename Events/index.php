@@ -63,7 +63,7 @@
             <div class="autohide">
                 <p>Hello Everyone!
                 <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realms. Choose your own, feed and grow it to its maximum potential!
-                <p>The Halloween event will be starting on <b>Oct 30th 2017, 12.01 PM UTC and will end on Nov 06th 2017, 7.59 PM UTC</b>.
+                <p>The Halloween event will be starting on <b>Oct 30th 2017, 1:01 PM UTC and will end on Nov 06th 2017, 7.59 PM UTC</b>.
                 <p>This event will feature daily presents (as we did for the last Christmas), inside which you will found a random monster, up to a maximum of three. Once you have found a monster, you will be able to feed it resources (see below) to make it grow, unlocking perks and bonuses in the process.
                 <p>There will be three new resources for the event: Blood, Ectoplasm and Bones. They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours). You can only collect one type of resource: by doing so, the others will disappear.
                 <p>Each resource will be used to feed a single monster, which will gain levels as it grows. At levels 1, 10, 25 and 50 each monster will grant you new perks, including new unique spells and upgrades. You will be able to gain advantage of one single monster at a time, but they can be toggled on and off on the fly in the Event panel.
@@ -74,8 +74,7 @@
                 <p><b>----------------------------------</b>
                 <p>You will get a Pumpkin Smasher once a day (1:01 UTC Time).
                 <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.
-                <p>The first Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire).
-                <p>The next 2 Pumpkins should give you 1 of 2 remaining Monster (Skeleton, Ghost and Vampire).
+                <p>Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire) if you are missing any.
                 <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: Free
