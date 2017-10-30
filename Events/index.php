@@ -75,8 +75,8 @@
                 <p>You will get a Pumpkin Smasher once a day (1:01 UTC Time).
                 <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.
                 <p>The first Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire).
-                <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
                 <p>The next 2 Pumpkins should give you 1 of 2 remaining Monster (Skeleton, Ghost and Vampire).
+                <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on Halloween Resources collected. Increases as you gain new monsters.
