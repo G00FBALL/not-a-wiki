@@ -16,12 +16,12 @@
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.
     <p><b>Past Events</b>
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
-    <p>Actual Total Cumulative and <b>Permanent</b> Bonuses from all the Events: 107%
+    <p>Actual Total Cumulative and <b>Permanent</b> Bonuses from all the Events: 118%
     <p><b>Christmas 2015-2016</b>: 14%, <b>Christmas 2016-2017</b>: 14%
     <p><b>Valentines 2016</b>: 4%, <b>Valentines 2017</b>: 4%
     <p><b>Easter 2016</b>: 14%, <b>Easter 2017</b>: 14%
     <p><b>Summer Festival 2016</b>: 8%, <b>Summer Festival 2017</b>: 8%
-    <p><b>Halloween 2016</b>: 11%
+    <p><b>Halloween 2016</b>: 11%, <b>Halloween 2017</b>: 11%
     <p><b>Anniversary 2017</b>: 8%
     <p><b>Goblin Invasion 2017</b>: 8%</p>
     <br/>
