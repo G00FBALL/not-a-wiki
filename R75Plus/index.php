@@ -51,7 +51,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
                 <p><b>Range</b>: 1e30 (1 No) gems - 1e90(1 NoVg) gems / 1e92 (100 NoVg) gems (with UL20)
@@ -64,6 +64,7 @@
                 <p>E135,E145,E320,E350,E1225,E1425,
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
+                <p><b>Notes</b>: If getting DB5, swap s135->s3200 w290->w3150
          </div>
     </div>
         <div class="shelementwhole">
