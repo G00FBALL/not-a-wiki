@@ -76,6 +76,7 @@
                 <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.
                 <p>Pumpkin Smasher should give you 1 of 3 Monster (Skeleton, Ghost and Vampire) if you are missing any.
                 <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
+                <p><b>Note</b>: You need to click on monster to activate it and get the Crucible Of Darkness upgrade.
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on Halloween Resources collected. Increases as you gain new monsters.
