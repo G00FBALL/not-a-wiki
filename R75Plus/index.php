@@ -39,7 +39,7 @@
                 <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
                 <p><b>Requirements</b>: Demon Lineage level 25+, Demon Perk 2 <b>NOT</b> needed
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Undead
+                <p><b>Bloodline</b>: Demon
                 <p><b>Template</b>
                 <p>S105,S200,S270,S300,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,C500,
