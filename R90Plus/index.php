@@ -362,7 +362,7 @@
                     <p>A120,A410,A590,A1500,A2950,A3400,
                     <p>W400,W525,W560,W1400,W3050,W3150
                     <p><b>Notes</b>: Use Vampire to buy dragon lineage and then go Ghost.
-                    <p><b>Notes</b>: Estimated time 2 days to unlock Spell Master trophy.
+                    <p><b>Notes</b>: Estimated time 1-1.5 days to unlock Spell Master trophy.
          </div>
     </div>
             </div>
