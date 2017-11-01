@@ -3083,6 +3083,86 @@
                     <p><b>Notes</b>: Spend excavations to buy the 400 RE for undead lineage.
             </div>
         </div>
+        <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druid Lineage 5 unlock <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Faceless/Dragon
+                    <p><b>Bloodline</b>: Druid
+                    <p><b>Range</b>: E48 (1 Qid) gems
+                    <p>S105,S375,S400,S500,S1450,S1500,
+                    <p>C250,C340,C400,C1300,C1325,
+                    <p>D200,D290,D330,D1125,D1275,D1375,
+                    <p>E135,E145,E460,E1325,E1425,
+                    <p>A120,A300,A305,A400,A1325,
+                    <p>W150,W180,W250,W400,W1375
+                    <p><b>Notes</b>: Run this build until Druid Lineage 5 and excavate for Ancient Heirloom. Used if you didnt keep enough excavations for UL5 excavation unlock build. Takes 1.5 hours max.
+            </div>
+        </div>
+        <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">UL5 Excavation unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Faceless/Dragon
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Range</b>: E48 (1 Qid) gems, DC4
+                    <p>S215,S305,S330,S375,S1450,S1500,
+                    <p>C250,C330,C340,C400,C1300,
+                    <p>D245,D260,D320,D1125,D1275,D1375,
+                    <p>E135,E145,E290,E1325,E1425,
+                    <p>A105,A120,A300,A305,A400,
+                    <p>W150,W180,W290,W400,W1375
+                    <p><b>Notes</b>: Requires around 4k-1k excavations depending on starting point - Make sure your Excavation count is 4K or below to allow proper use of this build at given minimal gem point.
+            </div>
+        </div>
+        <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">UL5 FC gen unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Faceless/Dragon
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Range</b>: E48 (1 Qid) gems, Druid Lineage 5, Ancient Heirloom
+                    <p>S105,S375,S400,S500,S1450,S1500,
+                    <p>C250,C340,C400,C1300,C1325,
+                    <p>D200,D245,D290,D1125,D1275,D1375,
+                    <p>E135,E145,E460,E1325,E1425,
+                    <p>A120,A300,A305,A400,A1325,
+                    <p>W150,W180,W250,W400,W1375
+                    <p><b>Notes</b>: Takes 25 minutes max. Used if not enough excavations left for the option above.
+            </div>
+        </div>
+        <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">UL push/DC5 unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Faceless/Dragon
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Range</b>: E48 (1 Qid) gems, Undead Lineage 5+
+                    <p>S305,S330,S400,S500,S1450,S1500,
+                    <p>C250,C340,C400,C1300,C1325,
+                    <p>D200,D245,D250,D1125,D1275,D1375,
+                    <p>E135,E145,E460,E1325,E1425,
+                    <p>A120,A250,A305,A400,A1325,
+                    <p>W180,W250,W275,W400,W1375
+                    <p><b>Notes</b>: Takes 4 hours max to complete DC5. Can be also used to get DC4 and spell cataclysm if you dont have them yet but do have UL5.
+            </div>
+        </div>
+        <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">DC6 unlock build <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Druid/Dragon
+                    <p><b>Bloodline</b>: Druid
+                    <p><b>Range</b>: E66 (1 Uvg)
+                    <p>S215,S305,S330,S400,S1450,
+                    <p>C250,C340,C400,C1300,C1325,
+                    <p>D245,D275,D1125,D1275,D1375,
+                    <p>E135,E145,E250,E260,E460,E1425,
+                    <p>A120,A305,A375,A400,A1325,A1500,
+                    <p>W150,W180,W250,W400,W1375
+                    <p><b>Notes</b>: Takes an estimated time of 2-3 days to complete.
+            </div>
+        </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">W275 Buff <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
