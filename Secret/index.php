@@ -9,8 +9,9 @@
 <p>Secret trophy icons and tool-tips only become visible once you have completed them.</p>
 <p>Each rewards a Secret Upgrade which shows up in the upgrades tab, and in the current game, as soon as you approach their total cost.</p>
 <p>To get information on the effects of trophy upgrades, see the Upgrades page.</p>
+<p>All upgrades bought with gold pre-Ascension are free post-Ascension.
 <p>Most of the information below comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/522336-full-hidden-trophy-list/"><b>forum</b></a> post , created by Rahler.</p>
-<p>(<a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"><b>Secret Trophy Guide</b></a>) shows in which order it is easier to get the trophies. (Work in progress - 3/32016 by <a target="_blank" href="http://www.kongregate.com/accounts/dox4242"><b>dox4242</b></a>)</p>
+<p>(<a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/605675-secret-trophy-guide-easiest-to-later"><b>Secret Trophy Guide</b></a>) shows in which order it is easier to get the trophies. (Work in progress - 3/3/2016 by <a target="_blank" href="http://www.kongregate.com/accounts/dox4242"><b>dox4242</b></a>)</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png" alt="Leet" align="middle"><b> Leet</b></p>
 <p>(Have exactly 1337 Coins at any given time.)</p>
