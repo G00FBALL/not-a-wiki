@@ -255,9 +255,6 @@
     <p><b>Pre Ascension</b>: Reach an Offline Bonus of at least 1Qa%.
     <p><b>Post Ascension</b>: Reach an Offline Bonus of at least 1895%.
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png" alt="Iron Rush" align="middle"> <b>Iron Rush</b> (R33)
-    <p>Reach 750 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.
-    <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretTrophy.png" alt="Underworld Researcher" align="middle"> <b>Underworld Researcher</b> (R34)
     <p>Discover all the Underworld researches (up to level 590 researches).
     <p><b>----------------------------------</b>
@@ -269,7 +266,7 @@
     <p><b>Note</b>: This is 25 Trophies
     <p><b>Note</b>: Much easier Post A.
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png" alt="Prismatic Mana" align="middle"><b> Prismatic Mana</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png" alt="Prismatic Mana" align="middle"><b> Prismatic Mana</b> (R40+)</p>
     <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.
     <p><b>Requirements</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.
     <p><b>Cost</b>: 100 No (1e32)
@@ -277,17 +274,28 @@
     <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.
     <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance
     <p><b>----------------------------------</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png" alt="Iron Rush" align="middle"> <b>Iron Rush</b> (R40+)</p>
+    <p>Reach 750 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.
+    <p><b>Cost</b>: 3.8 SxSxg (3.8e201) (Pre-A)
+    <p><b>Effect</b>: Iron Strongholds cost 5% more for all purposes.
+    <p><b>----------------------------------</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" alt="Triple Weirdness" align="middle"> <b>Triple Weirdness</b> (R40+)</p>
+    <p>Have exactly 333 of each Royal Exchange type.
+    <p><b>Cost</b>: 1 TTg (1e102)
+    <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
+    <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is mana regen when offline.  
+    <p><b>----------------------------------</b>			
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Tiered Autocasting</b> (R42)
     <p>Produce 200M mana.
     <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png" alt="ColorfulAutocasting" align="middle"> <b>Colorful Autocasting</b> (R42)
-    <p>Have each type of autocasting active simultaneously.(Silver,Gold,Bronze,Diamond)
+    <p>Have each type of autocasting active simultaneously. (Silver, Gold, Bronze, Diamond)
     <p><b>----------------------------------</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png" alt="AdvisorInsight" align="middle"> Dragon Tamer</b> (R46)</p>
     <p>Fully develop your Spiky Egg into an Elder Dragon.</p>
     <p><b>Cost</b>: 1.0e65
-    <p><b>Effect</b>: Increase the production of all buildings by 100% and doubles Faction Coin find chance.
+    <p><b>Effect</b>: Increase the production of all buildings by 200% and triples Faction Coin find chance.
     <p><b>----------------------------------</b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png" alt="Eternal Researcher" align="middle"> Eternal Researcher</b> (R55)</p>
     <p>Discover all the Dragon researches.</p>
@@ -297,22 +305,22 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretTrophy.png" alt="Master Researcher" align="middle"> Master Researcher</b> (R58)</p>
     <p>Research 10,000 times across all fields.</p>
     <p><b>Cost</b>: 1 Qavg (1e75)
-    <p><b>Effect</b>: Increase the overall production of Dragons by 7.18%.
+    <p><b>Effect</b>: Increase the overall production of Dragons by 150%.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretTrophy.png" alt="SpellCataclysm" align="middle"> <b>Spell Cataclysm</b> (R60)
     <p>Have at least 4 spells active on tier 5 or higher.
-    <p><b>Note</b>: Worth doing with Dragon Challenge 4 and Dragon Challenge 5.</p>
+    <p><b>Note</b>: Worth doing with Dragon Challenge 5.</p>
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b> (R60)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b> (R60+)</p>
     <p><b>Requirements</b>: 5000 Royal Exchanges
     <p><b>Cost</b>: cost 10 DQig (1e160)
     <p><b>Effect</b>: Increase royal exchange bonus by 50%.
-    <p><b>Note</b>: Actually useless before R70, but it's trivial unlock.</p>
+    <p><b>Note</b>: Actually useless before R68, but it's trivial unlock.</p>
     <p><b>----------------------------------</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png" alt="Prestige Challenger" align="middle"> Prestige Challenger</b> (R63)</p>
     <p><b>Requirement</b>: Complete all the Prestige Challenges, R63+
     <p><b>Cost</b>: Free
-    <p><b>Effect</b>: Increase the overall production of Prestige Factions by 2.26%.
+    <p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%.
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b> (R75+)</p>
     <p><b>Requirements</b>: Perform 40 autoclicks in 1 second.
@@ -326,10 +334,16 @@
     <p><b>Cost</b>: 10 SpQig (1e175)
     <p><b>Effect</b>: Increase the overall production of Mercenaries by 100%.
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png" alt="Genealogist" align="middle"><b> Genealogist</b> (R81+)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"><b> Warrior Researcher</b> (R82+)</p>
+    <p><b>Requirements</b>: Discover all the Mercenary researches.
+    <p><b>Cost</b>: 1 DSpg (1e219)
+    <p><b>Effect</b>: Increase the production of all buildings based on research done.
+    <p><b>Formula</b>: 0.3 * x ^ 0.7, where x is total of research done.
+    <p><b>----------------------------------</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png" alt="Genealogist" align="middle"><b> Genealogist</b> (R82+)</p>
     <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.
     <p><b>Cost</b>: 1 NoQig (1e180)
     <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.
-    <p><b>Formula</b>: 2.5 * x^1.25
+    <p><b>Formula</b>: 2.5 * x ^ 1.25
     <p><b>----------------------------------</b>
 <?php include "../scripts/footer.html"; ?>
