@@ -118,6 +118,31 @@
                 <p>W25,W180,W400,W525,W3050,W3150
          </div>
     </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">PACKER ULTRA (26th-27th Ruby)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
+                <p><b>Range</b>: 1e132 (1 TQag)(?) - ? Gems
+                <p><b>Faction</b>: Evil Mercenary
+                <p><b>Bloodline</b>: Dragon
+                <p><b>A2950</b>: Druid
+                <p><b>13th Upgrade</b>: UD7
+                <p><b>Template</b>
+                <p>EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,
+                <p>SP:Grand Balance,SP:Brainwave,
+                <p>S50,S305,S375,S400,S1450,S1500,
+                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>D25,D200,D245,D330,D1275,D2775,
+                <p>E10,E135,E145,E290,E1225,E3250,
+                <p>A120,A150,A590,A1500,A2950,A3400,
+                <p>W25,W180,W400,W525,W3050,W3150
+                <p><b>Notes</b>: High-End production build ment for excavating the 26# and 27# excavation rubies. Careful of coin cap.
+                <p><b>Notes</b>: Replace C400 with C1500 if 150%+
+                <p><b>Notes</b>: Replace E290 with E350 if not going for rubies
+                <p><b>Notes</b>: Replace D200 with D1375 and A1500 with A410 if a S400 buff run was already done this R.
+         </div>
+    </div>
             </div>
                     <br/>
     <p><b>Lineage Builds - Level 32</b></p>
