@@ -3,10 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
-<p>All have tooltips just point</p>
-<p>Some of these trophies will be easy</p>
-<p>Others will need special builds to complete</p>
-<p>If a build is needed I will add a link the image to that build</p>
+<p>All have tooltip--just point</p>
+<p>Some of these trophies will be easy, others will need special builds to complete</p>
+<p>If a build is needed I will add a link to that build</p>
 </p><img src="http://musicfamily.org/realm/Factions/picks/SecretTrophyMapnew.png" usemap="#SecretTrophyMapnew-map">
 </p><img src="http://musicfamily.org/realm/Factions/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map">
 </p><img src="http://musicfamily.org/realm/Factions/picks/NonSecretTrophiesnew.png" usemap="#NonSecretTrophiesnew-map">
@@ -54,7 +53,7 @@
     <area target="" research="Faction Run <p>Requirement: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Can be done from around R8+<p>Reincarnate, EXPORT to a text file and save that<p> Turn on 'Multibuy upgrade series'<p> Go Elf with Elf Bloodline<p> Buy max buildings<p> Buy all upgrades<p> Load your save and retry if you don't get it.<p>Upgrade Effect: Increase Faction Coin find chance by 10%." coords="262,367,317,421" shape="rect">
     <area target="" research="Intermediate Researcher <p>Requirement: Research 1800 times across all fields.<p>Upgrade Cost Pre Ascension: 1 QiQig (1e168)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increases production of all Neutral Factions by 100%.<p>Post Ascension: Increases production of all Neutral Factions by 7.18%." coords="326,367,382,421" shape="rect">
     <area target="" research="Ancient Researcher <p>Requirement: Discover all the Ancient Races researches.<p>Upgrade Cost Pre Ascension: 1 NoSxg (1e210)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase the production of all buildings based on research done.<p>Can be done at R29." coords="389,365,445,420" shape="rect">
-    <area target="" research="No Recruiting <p>Requirement: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase Mercenary production by 1% per Reincarnation.<p>It can take up to 1 day at R20. <p>As for tactic: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall." coords="6,429,62,485" shape="rect">
+    <area target="" research="No Recruiting <p>Requirement: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase Mercenary production by 1% per Reincarnation.<p>It can take up to 1 day at R20. <p> Tactic: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall." coords="6,429,62,485" shape="rect">
     <area target="" research="That Excavated Quickly <p>Requirement: Excavate 1000 times in the first 30 seconds of a run (This Game)<p>Upgrade Cost Pre Ascension: 1 Qag (1e123)<p>Upgrade Cost Post Ascension: Free<p>Effect: Your chance to find Faction Coins with excavations is increased by an additional 5%.<p>Around R20, make sure to keep your excavations low until you have enough gems to excavate 1000 times - make a save file, abdicate, then try go for the trophy. Undo if necessary." coords="71,430,125,485" shape="rect">
     <area target="" research="glho kohhl snod<p>Requirement: Import this into you game <p>Barely whispering these letters makes your heart pound harder..<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase base clicking reward by 1.<p>Can be done at any R." coords="135,430,189,485" shape="rect">
     <area target="" research="Mana Matrix<p>Requirement:  Have exactly 4767 maximum Mana.<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p> Effect: Increase maximum mana by 10%." coords="198,430,253,485" shape="rect">
