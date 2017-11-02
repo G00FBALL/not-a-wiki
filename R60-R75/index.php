@@ -137,6 +137,25 @@
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
                 <p><b>Notes</b>: Excavate until Dwarf Lineage level 10 is gotten, which allows to get Undead Lineage to level 10 easily via Ancient Heirloom (Which will be almost certainly gotten on or before getting to this build). No point going further as it is of little benefit.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare
+                <p><b>Requirements</b>: DC5, UL5+, free excavations (6000 Excavations or below)
+                <p><b>Range</b>: 1e72 (1 TVg) Gems
+                <p><b>Faction</b>: Druid/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Template</b>
+                <p>S215,S270,S305,S330,S1450,
+                <p>C250,C340,C400,C1300,C1325,
+                <p>D245,D275,D1125,D1275,D1375,
+                <p>E135,E145,E250,E290,E1225,E1425,
+                <p>A120,A305,A375,A400,A1325,A1500,
+                <p>W150,W180,W250,W400,W1375
+                <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 125k building requirement.
+                <p><b>Notes</b>: Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of target is irrelevant for this build.
             </div>
           </div>
         </div>
