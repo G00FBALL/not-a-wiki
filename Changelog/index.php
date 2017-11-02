@@ -2,12 +2,12 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
-<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the options window (In game).</p>
+<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.1 October 25th, 2017</a></b></p>
         <div class="autohide">
-                <p><b>Golobal Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on Nov6th 2017,7:59PM.</p>
+                <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on Nov6th 2017,7:59PM.</p>
                 <p>Spell durations are now formatted better.</p>
                 <p>Spellcraft 215 (Projection) had wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
                 <p>Mabinogion had wrong formula and has been rebalanced Overall effect and scaling are reduced do to this change.</p>
