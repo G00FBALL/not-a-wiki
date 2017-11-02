@@ -11,7 +11,7 @@
 <p><b>This game and Current game</b>: started last abdication, and ends next abdication.
 <p><b>Total</b>: refers to the current reincarnation. 
 <p><b>All-Time</b>: covers all reincarnations.
-<h6>Commonly used abbreviations</h6>
+<h6>Commonly Used Abbreviations</h6>
 <p><b>R#</b>: Number of times reincarnated (eg: R12 = 12th reincarnation)
 <p><b>FC</b>: Faction Coin
 <p><b>RE</b>: Royal Exchange
@@ -20,11 +20,11 @@
 <p><b>m/s or mps</b>: Mana per Second
 <p><b>BL</b>: Bloodline
 <p><b>Merc or Mercs</b>: Mercenary
-<h6>The Research Facilities</h6>
+<h6>Research Facilities</h6>
 <p><b>Short and long names</b>
-<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warefare, 
+<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare, 
 <h6>Factions</h6>
-<p><b>Faction Name +ine or +line</b>: Bloodline (eg: Angelline for Angel Bloodline)
+<p><b>Faction Name +ine or +line</b>: Bloodline (eg: Angelline/Angeline for Angel Bloodline)
 <p><b>Fairy (3,2)</b>: Simplifies notation of Faction upgrades. The first number represents the tier, and the second the position.
 <p>For combined Faction names, the prestiges' precede and is shortened to whatever sounds best.
 <p><b>Dwangels</b>: Dwarf+Angel
@@ -48,14 +48,14 @@
 <h6>Spells</h6>
 <p>Spells are shortened to their initials. Relies on context to differentiate identical initials.
 <p><b>Pentacast</b>: Casting 5 spells at once.
-<p><b>Combo-Spell</b>: Several spells or casting several spells (e.g.: "Do a combo-spell")
+<p><b>Combo-Spell/Spell Combo</b>: Several spells or casting several spells (e.g.: "Do a combo-spell")
 <p><b>TC</b>: Tax Collection
 <p><b>CtA</b>: Call to Arms
 <p><b>SS</b>: Spiritual Surge
 <p><b>HL</b>: Holy Light
 <p><b>BF</b>: Blood Frenzy
 <p><b>GG</b>: Gem Grinder
-<p><b>FC</b>: Fairy Chanting (Not to confuse with Faction Coins)
+<p><b>FC</b>: Fairy Chanting (Not to be confused with Faction Coins)
 <p><b>MB</b>: Moon Blessing
 <p><b>GH</b>: God's Hand
 <p><b>GG</b>: Goblin's Greed
