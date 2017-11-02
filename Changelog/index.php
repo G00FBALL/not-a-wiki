@@ -10,12 +10,12 @@
                 <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on Nov6th 2017,7:59PM.</p>
                 <p>Spell durations are now formatted better.</p>
                 <p>Spellcraft 215 (Projection) had wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
-                <p>Mabinogion had wrong formula and has been rebalanced Overall effect and scaling are reduced do to this change.</p>
-                <p>Druid Perk 3 had a wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
-                <p>Elven Luck now generates Faction Coins based on recarnations made.</p>
+                <p>Mabinogion had wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
+                <p>Druid Perk 3 had a wrong formula and has been rebalanced. Overall effect and scaling are reduced due to this change.</p>
+                <p>Elven Luck now generates Faction Coins based on reincarnations made.</p>
                 <p>Demon Perk 2 had an incorrect unlock formula. It now counts only this reincarnation stats rather than all time.</p>
                 <p>Vampire now gives the effect of the bloodlines of the factions outside your alignment.</p>
-                <p>Other halloween monsters had some balance tweeks too. 
+                <p>Other halloween monsters had some balance tweaks too. 
                 <p>S270 (Runecarving) formula fixed - was incorrectly set as post-A1.</p>
                 <p>Holy Site and Burning Abyss requirements increased.</p>
 
