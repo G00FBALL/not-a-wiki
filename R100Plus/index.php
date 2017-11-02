@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated Oct. 26th 2017</b>
-    <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
+    <p>All builds come from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
 <br/>
 <br/>
 <div class="shlisting">
@@ -74,7 +74,7 @@
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Bomb (GB11 Bulid) 1e30 (1 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Bomb (GB11 Build) 1e30 (1 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Requiments</b>: Ziggurat unlock
