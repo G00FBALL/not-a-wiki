@@ -16,7 +16,7 @@
                 <p>Demon Perk 2 had an incorrect unlock formula. It now counts only this reincarnation stats rather than all time.</p>
                 <p>Vampire now gives the effect of the bloodlines of the factions outside your alignment.</p>
                 <p>Other halloween monsters had some balance tweeks too. 
-                <p>S270 (Runedarving) formula fixed - was incorrectly set as post-A1.</p>
+                <p>S270 (Runecarving) formula fixed - was incorrectly set as post-A1.</p>
                 <p>Holy Site and Burning Abyss requirements increased.</p>
 
         </div>
