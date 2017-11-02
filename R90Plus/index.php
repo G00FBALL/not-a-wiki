@@ -387,6 +387,56 @@
                     <p><b>Notes</b>: Make sure you can commit to this build if you want to use it over the other.
         </div>
      </div>
+             <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Eldritch Corruption (Always Online S400 buff build)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Requirements</b>: Veteran Figurine
+                    <p><b>Faction</b>: Evil Mercenary
+                    <p><b>Bloodline</b>: Faceless
+                    <p><b>A2950</b>: Dragon
+                    <p><b>Range</b>: 1e120 (1 NoTg) Gems
+                    <p><b>13th Upgrade</b>: UD7
+                    <p><b>Template</b>
+                    <p>EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG4,DG9,
+                    <p>SP:God's Hand,SP:Dragon's Breath,
+                    <p>S50,S305,S375,S400,S1500,S3200,
+                    <p>C250,C305,C340,C590,C1300,C3000,
+                    <p>D25,D200,D245,D275,D330,D1275,
+                    <p>E10,E135,E145,E350,E1225,E3250,
+                    <p>A120,A150,A590,A1500,A2950,A3400,
+                    <p>W180,W205,W400,W525,W3050,W3150
+                    <p><b>Notes</b>: Do **NOT** go offline or export/import as it will reset the brainwave cast and therefore S375, slowing down your progress.
+                    <p><b>Notes</b>: Replace EL3 with FC3 for runs over 1.5 days.
+                    <p><b>Notes</b>: Maintaining Blue Breath x2 is helpful in the the first 5-7 hours of a run.
+                    <p><b>Notes</b>: Estimated time ? days to unlock Spell Master trophy.
+        </div>
+     </div>
+             <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Shadow Government (Active play + Always Online S400 buff build)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Requirements</b>: Veteran Figurine
+                    <p><b>Faction</b>: Evil Mercenary
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>A2950</b>: Elf
+                    <p><b>Range</b>: 1e120 (1 NoTg) Gems
+                    <p><b>13th Upgrade</b>: UD7
+                    <p><b>Template</b>
+                    <p>EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG6,DG9,
+                    <p>SP:God's Hand,SP:Brainwave,
+                    <p>S50,S305,S375,S400,S1500,S3200,
+                    <p>C25,C250,C305,C590,C1300,C3100,
+                    <p>D25,D200,D245,D275,D330,D1275,
+                    <p>E135,E145,E350,E590,E1225,E3250,
+                    <p>A120,A410,A590,A1500,A2950,A3400,
+                    <p>W205,W400,W525,W560,W1400,W3050
+                    <p><b>Notes</b>: Do **NOT** go offline or export/import as it will reset the brainwave cast and therefore S375, slowing down your progress.
+                    <p><b>Notes</b>: Replace EL3 with FC3 for runs over 1.5 days.
+                    <p><b>Notes</b>: Alternative of the above S400 build, that requires Dragon Breath to cast x2 blue breath to be better. To do so, turn off druid 4 challenge until Dragon's Breath is casting x2 blue every time the spell recasts (Will need use of Weather Service tool). To be better than above build, you must maintain x2 blue breath in ~50% of the time in the 16-20 hours of a Brainwave cast before the build is able to mana waste on its own.
+                    <p><b>Notes</b>: Estimated time ? days to unlock Spell Master trophy.
+        </div>
+     </div>
   </div>
                     <br/>
     <p><b>Halloween Builds</b></p>
