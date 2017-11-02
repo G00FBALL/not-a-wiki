@@ -293,7 +293,7 @@
                     <p>E135,E260,E350,E1225,E1425,E3250,
                     <p>A120,A590,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
-                    <p><b>Notes</b>: Estimated 1.5-2 days for Mana Ocean assuming no S400 buff.
+                    <p><b>Notes</b>: Estimated 40 minutes for GB11 and 1.5-2 days for Mana Ocean assuming no S400 buff.
         </div>
     </div>
         <div class="shelementwhole">
