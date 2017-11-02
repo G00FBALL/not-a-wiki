@@ -7,7 +7,7 @@
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.1 October 25th, 2017</a></b></p>
         <div class="autohide">
-                <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on Nov6th 2017,7:59PM.</p>
+                <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on November 6th, 2017 at 7:59PM.</p>
                 <p>Spell durations are now formatted better.</p>
                 <p>Spellcraft 215 (Projection) had wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
                 <p>Mabinogion had wrong formula and has been rebalanced. Overall effect and scaling are reduced do to this change.</p>
@@ -178,7 +178,7 @@
             <p><b>Patch 2.7.2</b> June 4th, 2017
             <p>Multiple Dragon upgrades can no longer be purchased as Mercenaries.
             <p>Unavailable researches can no longer be purchased as Mercenaries.
-            <p><b>Fixed</b>: Unlock condition for the Lucifer tropht.
+            <p><b>Fixed</b>: Unlock condition for the Lucifer trophy.
             <p><b>W1375</b>: (Scavenging) effect increased, scaling decreased.
             <p><b>C400</b>: (Gravitation) effect and multiplier increased.
             <p><b>W275</b>: (Domination) effect increased, scaling decreased. Added 50% multiplier to its effect.
@@ -287,7 +287,7 @@
             <p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 14th 2017, 1.01 PM UTC and will end on Feb 18th 2017, 7.59 PM UTC.
             <p>Prestige Challenger, Master Researcher and Eternal Researcher now gives post-ascension bonuses as intended.
             <p>Text confirmations like Cloud Restore are no longer case sensitive and ignore differences in diacritics.
-            <p>Several ubpanels have been resized for better usability. (Royal Exchange, Ruby Upgrades, Bloodlines, Mercenary Upgrades, Shop).
+            <p>Several panels have been resized for better usability. (Royal Exchange, Ruby Upgrades, Bloodlines, Mercenary Upgrades, Shop).
             <p>Moved several buildings around on the background for better visibility.
             <p>Menu buttons have been set fixed on the left side of the game for better usability.
             <p>Extended view option removed from the game as it was more confusing than helpful.
@@ -309,13 +309,13 @@
             <p>All Prestige Challenges now have a base faction requirement.
             <p><b>Patch 2.5.0.1 Dec 19th, 2016</b>
             <p><b>(Hotfix#1)</b>: Fixed a bug with seasonal event bonus (people at version 2.5.0.0 or lower won't be able to strat Christmas Event);
-            <p>Prestige challenges requirement tooltips updated;
+            <p>Prestige challenges requirement tooltips updated
             <p>Fixed a mercenary upgrade not being properly usable.
             <p><b>Patch 2.5.0.2 Dec 21st, 2016</b>
             <p><b>(Hotfix#2)</b>:
             <p>Snowball requirements for completing Christmas quest lowered;
             <p>Sun Force assistants rebalanced pre-ascension;
-            <p>Dragon Challenge 3 now reduces Deep Memory ascension penalty instead of removing it intirely;
+            <p>Dragon Challenge 3 now reduces Deep Memory ascension penalty instead of removing it entirely;
             <p>Lightning Strike now has a duration even when cast with no primary target.
         </div>
     </div>
