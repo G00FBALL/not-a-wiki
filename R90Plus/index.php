@@ -350,6 +350,7 @@
                     <p><b>Range</b>:1e120 (1 NoTg) Gems(?)
                     <p><b>Faction</b>: Evil Mercenary
                     <p><b>Bloodline</b>: Druid
+                    <p><b>Lineage:</b>: Dragon
                     <p><b>A2950</b>: Elf
                     <p><b>13th Upgrade</b>: UD7
                     <p><b>Template</b>
