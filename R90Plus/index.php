@@ -194,14 +194,14 @@
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                     <p><b>Template</b>
-                    <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
+                    <p>EL1,EL7,AN5,GB7,TT4,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
-                    <p>S215,S305,S330,S1450,S1500,S3200,
+                    <p>S180,S215,S305,S330,S400,S3200,
                     <p>C250,C340,C400,C590,C1300,C3000,
-                    <p>D25,D200,D245,D1125,D1275,D2775,
+                    <p>D25,D200,D245,D275,D1275,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
-                    <p>A120,A305,A590,A1500,A2950,A3400,
-                    <p>W180,W275,W400,W1375,W3050,W3150
+                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>W275,W400,W1275,W1375,W3050,W3150
                     <p><b>Notes</b>: Replace S330 with S400 if buffed.      
         </div>
     </div>
