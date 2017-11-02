@@ -126,7 +126,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Requirements</b>: DC4
-                <p><b>Range</b>: 1e66 (1 Vg) Gems
+                <p><b>Range</b>: 1e66 (1 Uvg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Dwarf
                 <p><b>Template</b>
