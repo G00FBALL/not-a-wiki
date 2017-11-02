@@ -21,7 +21,7 @@
 <p><b>Effect</b>: Increase the production of all buildings by 1.11111111%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png" alt="Building Hater" align="middle"><b> Building Hater</b></p>
-<p>(Reach 100'000 coins without building anything.)</p>
+<p>(Reach 100,000 coins without building anything.)</p>
 <p><b>Effect</b>: Increase clicking reward by 25%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png" alt="Grand Diplomat" align="middle"><b> Grand Diplomat</b></p>
@@ -91,7 +91,7 @@
 <p>(As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.)</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png" alt="Mathematician" align="middle"><b> Mathematician</b></p>
-<p>(Have buildings amounts exactly equal to 2tier from bottom to top, starting from 20 Halls of Legends up to 210 Farms. (1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends.)</p>
+<p>Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.<p>1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)</p>
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> Coin Pillage</b></p>
 <p>(Cast the Tax Collection spell 30 times in less than 5 seconds.)</p>
@@ -145,8 +145,8 @@
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png" alt="Prestige Challenger" align="middle"> Prestige Challenger</b></p>
 <p><b>Requirement</b>: Complete all the Prestige Challenges, R63+
-<p><b>Cost</b>: Free
-<p><b>Effect</b>: Increase the overall production of Prestige Factions by 2.26%.
+<p><b>Cost</b>: 10
+<p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%.
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png" alt="Faction Run" align="middle"> Faction Run</b></p>
 <p>(Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell. (Can be done from around R20+)</p>
@@ -259,7 +259,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretTrophy.png" alt="Master Researcher" align="middle"> Master Researcher</b></p>
 <p>Research 10,000 times across all fields.</p>
 <p><b>Cost</b>: 1 Qavg (1e75)
-<p><b>Effect</b>: Increase the overall production of Dragons by 7.18%.
+<p><b>Effect</b>: Increase the overall production of Dragons by 150%.
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png" alt="Eternal Researcher" align="middle"> Eternal Researcher</b></p>
 <p>Discover all the Dragon researches.</p>
@@ -301,7 +301,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b></p>
 <p><b>Requirements</b>: 5000 Royal Exchanges
 <p><b>Cost</b>:  cost 10 DQig (1e160) 
-<p><b>Effect</b>: Increase royal exchange bonus by 50%.
+<p><b>Effect</b>: Increase royal exchange bonus by 250%.
 <p><b>----------------------------------</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png" alt="Genealogist" align="middle"><b> Genealogist</b></p>
 <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.
