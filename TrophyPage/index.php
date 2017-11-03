@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
-<p>All have tooltip--just point</p>
+<p>All have tooltips--just point</p>
 <p>Some of these trophies will be easy, others will need special builds to complete</p>
 <p>If a build is needed I will add a link to that build</p>
 </p><img src="http://musicfamily.org/realm/Factions/picks/SecretTrophyMapnew.png" usemap="#SecretTrophyMapnew-map">
