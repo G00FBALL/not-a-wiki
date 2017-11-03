@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
-
+  <p><b>Note</b>: All information was provided by pseudobyte
 <p><b>Random Number Generator</b>
 <p>A Random Number Generator (RNG) is used in Realm Grinder to determine the results of some actions in game. The RNG it uses is pseudorandom, which means that the results of the RNG are deterministic and can be predicted in advance with sufficient information. However, the results are qualitatively random and are very hard to distinguish from real random data without careful analysis.
 
