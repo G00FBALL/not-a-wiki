@@ -17,7 +17,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Abdication.png" alt="Abdication" align="middle"></h6>
 <p>Abdicating is the 1st kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production.
 <p>Abdicating will reset all buildings, upgrades and coins, but you will keep your trophies and be awarded with gems that will boost your production. Otherwise, you may also spend Rubies to gain Gems without resetting!
-<p><b> Gems to Coins Formula</b>: n*(n+1)*5E11, where n is gems
+<p><b> Gems to Coins Formula</b>: n * (n + 1) * 5E11(5E3 in A2), where n is gems
 <p><b><a target="" href="http://musicfamily.org/realm/Abdication/">More about Abdication</b></a></p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Reincarnate.png" alt="Reincarnate" align="middle"></h6>
