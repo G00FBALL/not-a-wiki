@@ -177,17 +177,21 @@
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
     <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you Prestige.</p>
-    <p><b>Requirement</b>: +R16</p>
+    <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5m of a game</p>
     <p><b>Cost</b>: 1 coin
     <p><b>Alignment</b>: Vanilla faction
+    <p><b>Note</b>: Does not work while offline.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
     <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.
     <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
     <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
-    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.
-    <p><b>Chance</b>: 10%"
+    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game for all Neutral factions.
+    <p><b>Note</b>: Effect is canceled if you Prestige.</p>
+    <p><b>Chance</b>: 10%</p>
+    <p><b>Cost</b>: 1 coin   
+    <p><b>Alignment</b>: Neutral faction
     <p><b>Note</b>: Does not work while offline.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy" align="middle"><b> Know Your Enemy, Part I</b></p>
