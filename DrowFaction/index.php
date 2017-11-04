@@ -110,6 +110,7 @@
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
 <p><b>Requirements</b>: Prestige Unique Building, Earth Core Artifact
 <p><b>Cost</b>: 100 QiSxg (1E200), 10 M (1E7) FC of each
+<p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.
 <p><b>Unique Building</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlameofBondelnarFactionUpgrade.png" alt="Smiley face" align="middle"> Dark Light of Bondelnar</b></p>
 <p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins
