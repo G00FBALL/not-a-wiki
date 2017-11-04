@@ -223,7 +223,7 @@
 <p>Unlocks researches for Dwarven and Drow and provides a bonus for individual research branches.
 <p><b>Requirement</b>: Prestige Unique Building (Dwarf or Drow), Artifact-Earth Core</p>
 <p><b>Cost</b>: 100 QiSxg (1E200), 10M of each faction coin</p>
-<p><b>Note</b>: Secrets of the Underworld unlocks the origanal formula allowing Prestige to get <b>that</b> bonus with no extra bonus.
+<p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.
 <h6>Dwarf</h6>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwravenForgeQuestr.png" alt="Dwarven Forge Quest" align="middle"> Dwarven Forge Quest</b></p>
 <p>Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
