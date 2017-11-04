@@ -112,6 +112,7 @@
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
 <p><b>Requirement</b>: Prestige Unique Building, Earth Core Artifact
 <p><b>Cost</b>: 100 QiSxg (1E200), 10 M (1E7) FC of each
+<p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKingsFactionUpgrade.png" alt="Smiley face" align="middle"> Legacy of The Dwarven Kings</b></p>
 <p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins
 <p><b>Requirement</b>: Find the Horn of the Kings artifact (Requires Dwarven Forges and 3250 Excavations)
