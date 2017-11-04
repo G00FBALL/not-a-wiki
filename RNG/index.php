@@ -34,4 +34,5 @@
 <br/>
 <p><b>Technical Details</b>
 <p>The RNG used by Realm Grinder is the older <a target="_blank" href="https://en.wikipedia.org/wiki/Lehmer_random_number_generator#Parameters_in_common_use"> <b>Park-Miller minimal standard linear congruental generator</b></a> (a=16807, c=0, m=231-1). Its states are integers from 1 to 231-2. When it generates a value, it multiplies by 16807 and then divides by 231-1 and takes the remainder. The resulting value is the next output of the generator and becomes the next state. Each possible state produces a different value, so all the possible values are generated in a big cycle. The state is where a particular instance is currently in that cycle.
+<p><b>Special Thanks</b>: Pseudobyte
 <?php include "../scripts/footer.html"; ?>
