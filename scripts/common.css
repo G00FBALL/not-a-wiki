@@ -112,7 +112,7 @@ body {
 
 #navbox {
     margin: 1px 0px 2px -1px;
-    border: 4px solid #000;
+    border: 4px solid #4c5b86;
     width: 753px;
     height: 28px;
     position: relative;
@@ -223,7 +223,7 @@ h7 {
     margin: 0;
     padding: 0.20em 1.5em;
     border: 1px solid;
-    border-color: #7D839D #53629B #53629B #424D9C;
+    border-color: #000 #53629B #53629B #424D9C;
     text-align: center;
 }
 
