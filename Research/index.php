@@ -12,7 +12,8 @@
 <p><b>----------------------------------</b></p>
 <p><b>The Facilities & Related Factions</b>
 <p>Each Facility is related to several Factions: Vanilla factions are related to one facility, Neutral to two, and Prestige to three. Each facility increases the production of the related Faction's production according to following formula:
-<p><b>RP Production Formula</b>: 350x^0.75% or 0% if x is 0, where x is the number of corresponding Research Points.
+<p><b>RP Production Formula</b>: 100000 * (1 + 3.5 * x ^ 0.7), where x is RP total of facility affinities.
+<p><b>Secrets Production Bonus : 100000%
 <p><b>Facility cost</b>: 10 Notg (1E121) coins, 1M (1E6) Faction coins of the related faction(s), 1 Dvg (1E69) gems
 <p><b>Note</b>: It is recommended to start research with 100 Dvg (1E71) - 1 Tvg (1E72) gems.
 <p><b>----------------------------------</b></p>
@@ -222,7 +223,7 @@
 <p>Unlocks researches for Dwarven and Drow and provides a bonus for individual research branches.
 <p><b>Requirement</b>: Prestige Unique Building (Dwarf or Drow), Artifact-Earth Core</p>
 <p><b>Cost</b>: 100 QiSxg (1E200), 10M of each faction coin</p>
-<p><b>Formula</b>: 100000 * (1 + 3.5 * x ^ 0.7), where x is RP total of facility affinities
+<p><b>Note</b>: Secrets of the Underworld unlocks the origan formula allowing Prestige to get <b>that</b> bonus with no extra bonus.
 <h6>Dwarf</h6>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwravenForgeQuestr.png" alt="Dwarven Forge Quest" align="middle"> Dwarven Forge Quest</b></p>
 <p>Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
