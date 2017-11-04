@@ -223,7 +223,7 @@ h7 {
     margin: 0;
     padding: 0.20em 1.5em;
     border: 1px solid;
-    border-color: #000 #53629B #53629B #424D9C;
+    border-color: #424D9C #53629B #53629B #424D9C;
     text-align: center;
 }
 
@@ -343,7 +343,7 @@ h7 {
     height: 23px;
     text-align: center;
     color: #ffffff;
-    border: 2px solid #ffffff;
+    border: 2px solid #000;
     background: #5F7096;
     line-height: 20px;
     font-size: 14px;
