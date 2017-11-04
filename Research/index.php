@@ -13,7 +13,7 @@
 <p><b>The Facilities & Related Factions</b>
 <p>Each Facility is related to several Factions: Vanilla factions are related to one facility, Neutral to two, and Prestige to three. Each facility increases the production of the related Faction's production according to following formula:
 <p><b>RP Production Formula</b>: 100000 * (1 + 3.5 * x ^ 0.7), where x is RP total of facility affinities.
-<p><b>Secrets Production Bonus : 100000%
+<p><b>Secrets Production Bonus</b>: 100000%
 <p><b>Facility cost</b>: 10 Notg (1E121) coins, 1M (1E6) Faction coins of the related faction(s), 1 Dvg (1E69) gems
 <p><b>Note</b>: It is recommended to start research with 100 Dvg (1E71) - 1 Tvg (1E72) gems.
 <p><b>----------------------------------</b></p>
