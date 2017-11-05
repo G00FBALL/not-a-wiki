@@ -70,8 +70,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png" alt="Primal Balance" align="middle"> <b>Primal Balance</b></p>
 <p><b>Effect</b>: Grand Balance now affects extra buildings based on total mana spent.
 <p><b>Formula</b>: (0.1 * x^0.2)^(1-A/8), where x is mana produced and A is Ascension (Total) stat.</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalance.png" alt="Primal Balance" align="middle"></a>
-    <p></p>
+    <p>
     <b><a id="Primal Balance"></a>
     <table class="numtable">
         <thead>
@@ -152,67 +151,4 @@
         </tr>
         </tbody>
     </table>
-<!--
-<p>
-
-<b>
-
-<table>
-<thead>
-<tr>
-<th>Buildings Effected</th>
-<th>Mana Produced</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1</td>
-<td>&nbsp0&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(0) </td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2</td>
-<td>&nbsp100k&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(1e5)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp3</td>
-<td>&nbsp3.2m&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(3.2e6)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp4</td>
-<td>&nbsp24.3m&nbsp&nbsp&nbsp&nbsp(2.43e7)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp5</td>
-<td>&nbsp102.4m&nbsp&nbsp(1.024e8)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp6</td>
-<td>&nbsp312.5m&nbsp&nbsp(3.125e8)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp7</td>
-<td>&nbsp777.6m&nbsp&nbsp(7.776e8)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp8</td>
-<td>&nbsp1.681b&nbsp&nbsp&nbsp(1.681e9)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp9</td>
-<td>&nbsp5.905b&nbsp&nbsp&nbsp(5.905e9)</td>
-</tr>
-<tr>
-<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp10</td>
-<td>&nbsp10b&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(1e10)</td>
-</tr>
-<tr>
-</table>
-</b>
-
-
-
---!>
-
-
-
 <?php include "../scripts/footer.html"; ?>            </div>
