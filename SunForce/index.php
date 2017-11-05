@@ -18,6 +18,8 @@
 <p><b>Chance</b>: (Excavation count / 10,000)%</p>
 <h6>Sun Force</h6>
 <p><b>Note</b>: All times are based on server time (<a target="_blank" href="http://time.unitarium.com/utc/"><b><font color="red">UTC Time</font></b></a>)
+        <a href="//24timezones.com/time-zone/utc" style="text-decoration: none" class="clock24" id="tz24-1509892643-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
 <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
 <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
