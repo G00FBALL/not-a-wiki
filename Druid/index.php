@@ -2,26 +2,6 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-    <style>
-        table.numtable {
-            border-collapse: collapse;
-        }
-
-        .numtable th,.numtable td {
-            border: 3px solid #4c5b86;
-        }
-
-        .numtable tr:hover {
-            background-color: #ffffff
-        }</style>
-<!--<style>table{border-collapse:collapse;}th { font-size: 14px; }td { font-size: 14px; }th,td{border: 1px solid #000000;}tr:hover {background-color: #FFFFFF}table {
-    width: 50%;
-}td {
-    text-align: left;
-}th {
-    background-color: #b3bcc6;
-    color: black;
-}</style>--!>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Druid Challenge 1</b></p>
@@ -72,7 +52,7 @@
 <p><b>Formula</b>: (0.1 * x^0.2)^(1-A/8), where x is mana produced and A is Ascension (Total) stat.</p>
     
     <a id="Primal Balance"></a>
-    <p><b><table class="numtable">
+    <table class="numtable">
         <thead>
         <tr>
 
