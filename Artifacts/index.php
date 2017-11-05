@@ -23,16 +23,11 @@
 <p><b>Cost</b>: 1e35 (100 Dc)</b>. To be bought once throughout the entire game and does not show up as bought upgrade.
 <p><b>Cost & Faction Coins</b></p>
 <p><b>Excavation</b>: The first excavation costs 1 Oc (1E27) coins, and each subsequent excavation costs 20% more than the last.</p>
-
-<p><b>Formula Pre Ascension</b>: 1e27*1.2^x
-<p><b>Formula Pre Ascension</b>: 1e27*1.175^x (With E290)
-<p><b>Formula Post Ascension</b>: 1e27^.75*1.04^x
-
-<p><b>Formula Post Ascension</b>: 1e27^.75*1.035^x (With E290)
-<p><b>Faction Coins</b>: According to reports, each excavation has a 35% chance to produce faction coins.</p>
+<p><b>Formula</b>: 1e27 ^ (0.75 ^ A) * (1 + (0.2 - 0.025 (if E290) - 0.025 (if Ancient Egg)) / 5A) ^ x where A is number of ascensions and x is number of excavations
+<p><b>Faction Coins</b>: 35% (40% with That Excavated Quickly upgrade) per excavation</p>
 <p>Formula: floor(2 * ln(1 + (5000000 * 1.15^x))^3), where x is the number of excavations you have (not including the one just purchased).</p>
 <p><b>Excavation Reset</b></p>
-<p><b>Cost</b>: 1 Ruby - 1-2999, 2 Rubies 3000-5999, 3 Rubies 6000-8999, 4 Rubies 9000-11999, 5 Rubies 12000-14999.
+<p><b>Cost</b>: floor(x / 3000) + 1 rubies where x is number of excavations.
 <p><b>Note</b>: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.</p>
 
 <p><img src="http://musicfamily.org/realm/Factions/picks/AllArtifactsnew.png" usemap="#AllArtifactsnew-map">
