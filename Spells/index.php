@@ -61,6 +61,13 @@
         <table>
             <thead>
             <tr>
+                <th>At R40 you can unlock <a research="Tiered Autocasting<p>Requirement: R40+, 200M Mana Produced (Total this R).<p>Note: This trophy unlocks at R40, The upgrade unlocks at R42"><font color="DarkBlue"><u>Tiered Autocasting</u></font></a>, At R42 you can unlock spell tiers</th>
+            </tr>
+            </thead>
+        </table>
+        <table>
+            <thead>
+            <tr>
                 <th>Point to Arcane Brilliance Trophy ingame to see what spell tiers need unlocked</th>
             </tr>
             </thead>
