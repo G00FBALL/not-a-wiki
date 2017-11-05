@@ -442,7 +442,7 @@
     <p><b>Halloween Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UNSC (2 day Spell Master)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UNSC (2 day Spell Master)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Requirements</b>: Veteran Figurine, Vampire L25, Ghost L25
