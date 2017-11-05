@@ -57,6 +57,8 @@
     <div id="tiercal" class="calculator" style="padding-left: 70px">
     </div>
     <br/>
+        <a href="//24timezones.com/time-zone/utc" style="text-decoration: none" class="clock24" id="tz24-1509892643-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     <b id="tiertimes" class="calculator">
         <table>
             <thead>
