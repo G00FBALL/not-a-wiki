@@ -20,16 +20,16 @@
 <p><b>Note</b>: All times are based on 
         <a style="text-decoration: none" class="clock24" id="tz24-1509892643-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9">UTC Time</a>
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
-<p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-<p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
-<p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.
-<p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
-<p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-<p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
-<p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
-<p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-<p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
+    <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
+    <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
+    <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
+    <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
+    <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
+    <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
+    <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
+    <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
+    <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
+    <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
+    <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
+    <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
 <?php include "../scripts/footer.html"; ?>
