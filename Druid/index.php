@@ -59,6 +59,101 @@
 <p><b>Effect</b>: Grand Balance now affects extra buildings based on total mana spent.
 <p><b>Formula</b>: (0.1 * x^0.2)^(1-A/8), where x is mana produced and A is Ascension (Total) stat.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalance.png" alt="Primal Balance" align="middle"></a>
+    <style>
+        table.numtable {
+            border-collapse: collapse;
+        }
+
+        .numtable th,.numtable td {
+            border: 3px solid #4c5b86;
+        }
+
+        .numtable tr:hover {
+            background-color: #ffffff
+        }</style>
+    <?php include "../scripts/header.html"; ?>
+</head>
+    <p></p>
+    <b><a id="Primal Balance"></a>
+    <table class="numtable">
+        <thead>
+        <tr>
+
+            <th>Targets</th>
+            <th>A0</th>
+            <th>A1</th>
+            <th>A2</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>+1</td>
+            <td>1e5</td>
+            <td>1e5</td>
+            <td>1e5</td>
+        </tr>
+        <tr>
+            <td>+2</td>
+            <td>3.2e6</td>
+            <td>5.25e6</td>
+            <td>1.016e7</td>
+        </tr>
+        <tr>
+            <td>+3</td>
+            <td>2.43e7</td>
+            <td>5.326e7</td>
+            <td>1.516e8</td>
+        </tr>
+        <tr>
+            <td>+4</td>
+            <td>1.024e8</td>
+            <td>2.756e8</td>
+            <td>1.032e9</td>
+        </tr>
+        <tr>
+            <td>+5</td>
+            <td>3.125e8</td>
+            <td>9.865e8</td>
+            <td>4.569e9</td>
+        </tr>
+        <tr>
+            <td>+6</td>
+            <td>7.776e8</td>
+            <td>2.796e9</td>
+            <td>1.541e10</td>
+        </tr>
+        <tr>
+            <td>+7</td>
+            <td>1.681e9</td>
+            <td>6.747e9</td>
+            <td>4.305e10</td>
+        </tr>
+        <tr>
+            <td>+8</td>
+            <td>3.277e9</td>
+            <td>1.447e10</td>
+            <td>1.049e11</td>
+        </tr>
+        <tr>
+            <td>+9</td>
+            <td>5.905e9</td>
+            <td>2.837e10</td>
+            <td>2.299e11</td>
+        </tr>
+        <tr>
+            <td>+10</td>
+            <td>1e10</td>
+            <td>5.179e10</td>
+            <td>4.642e11</td>
+        </tr>
+        </tbody>
+    </table>
 <!--
 <p>
 
