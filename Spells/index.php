@@ -500,7 +500,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GemGrinder.png" alt="Neutral" align="middle"> Gem Grinder</b> (Any Neutral Faction)</p>
     <p><b>Works For</b>: Neutral - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Multiply production bonus from gems by x50</p>
-    <p><b>Tier Formula</b>: ^1.5 for tier 2, ^1.75 for tier 3, ^2.00 for tier 4,^2.25 for tier 5</p>
+    <p><b>Tier Formula</b>: T2 = (5000%)*2, T3 = (5000%)*3, T4 = (5000%)*4, T5 = (5000%)*5, T6 = (5000%)*6, T7 = (5000%)*7</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Gem Grinder Tier 2-7</a></b></p>
