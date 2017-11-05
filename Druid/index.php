@@ -2,6 +2,18 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
+    <style>
+        table.numtable {
+            border-collapse: collapse;
+        }
+
+        .numtable th,.numtable td {
+            border: 3px solid #4c5b86;
+        }
+
+        .numtable tr:hover {
+            background-color: #ffffff
+        }</style>
 <!--<style>table{border-collapse:collapse;}th { font-size: 14px; }td { font-size: 14px; }th,td{border: 1px solid #000000;}tr:hover {background-color: #FFFFFF}table {
     width: 50%;
 }td {
@@ -59,20 +71,6 @@
 <p><b>Effect</b>: Grand Balance now affects extra buildings based on total mana spent.
 <p><b>Formula</b>: (0.1 * x^0.2)^(1-A/8), where x is mana produced and A is Ascension (Total) stat.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalance.png" alt="Primal Balance" align="middle"></a>
-    <style>
-        table.numtable {
-            border-collapse: collapse;
-        }
-
-        .numtable th,.numtable td {
-            border: 3px solid #4c5b86;
-        }
-
-        .numtable tr:hover {
-            background-color: #ffffff
-        }</style>
-    <?php include "../scripts/header.html"; ?>
-</head>
     <p></p>
     <b><a id="Primal Balance"></a>
     <table class="numtable">
