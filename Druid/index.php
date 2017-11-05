@@ -70,9 +70,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png" alt="Primal Balance" align="middle"> <b>Primal Balance</b></p>
 <p><b>Effect</b>: Grand Balance now affects extra buildings based on total mana spent.
 <p><b>Formula</b>: (0.1 * x^0.2)^(1-A/8), where x is mana produced and A is Ascension (Total) stat.</p>
-    <p>
-    <b><a id="Primal Balance"></a>
-    <table class="numtable">
+    
+    <a id="Primal Balance"></a>
+    <p><b><table class="numtable">
         <thead>
         <tr>
 
