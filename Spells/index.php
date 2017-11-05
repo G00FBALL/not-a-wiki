@@ -20,7 +20,7 @@
         }
 
         .calculator tr:hover {
-            background-color: #FFFFFF
+            background-color: #b3bcc6
         }
 
         .calculator table {
@@ -45,7 +45,7 @@
         }
         #calcformtiers td input {
             width: 100px;
-            box-sizing: border-box;
+            box-sizing: border-box; 
         }
         #calcformtiers td {
             width: 50%;
@@ -55,53 +55,28 @@
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/SpellsTopPage.png"></h6>
     <div id="tiercal" class="calculator" style="padding-left: 70px">
-        <script src='https://code.jquery.com/jquery-2.1.4.min.js'
-                integrity='sha384-R4/ztc4ZlRqWjqIuvf6RX5yb/v90qNGx6fS48N0tRxiGkqveZETq72KgDVJCp2TC'
-                crossorigin='anonymous'></script>
-        <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'
-                integrity='sha384-pPttEvTHTuUJ9L2kCoMnNqCRcaMPMVMsWVO+RLaaaYDmfSP5//dP6eKRusbPcqhZ'
-                crossorigin='anonymous'></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/0.2.8/pako.js"
-                integrity="sha384-2+IobOaTSbjKqEDmmIZdyBwCBsLf880E4AdS+CXVxRBMrGS01qZi2ZdA69kccuyt"
-                crossorigin="anonymous"></script>
-        <script>window.Vue || document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.18/vue.min.js" integrity="sha384-oyil/hbn4lE/VRhQytSipUwmWiTbzVK5S3a+wzVrgexPs+UrQ+e4xRatGDd8RNNE" crossorigin="anonymous">\x3C/script>')</script>
-
-        <script src='/realm/scripts/tiers/savecodec2.js'></script>
-        <script src='/realm/scripts/tiers/util.js'></script>
-        <script src='/realm/scripts/tiers/index.js'></script>
-        <div class='container' id='app'>
-            <br/>
-            <b class='page-header' style="padding-left: 40px">What Tiers do you have unlocked?</b>
-            <div class='input-group-btn'>
-                <!--                <button id='doReEnter' class='btn btn-success' type='button'>Re-Enter save</button>
-                <button id='doSaveCopy' class='btn btn-info' type='button'>Copy save</button>
-                <button id='doSaveClear' class='btn btn-danger' type='button' >Clear save</button> -->
-            </div>
-            <div class='panel panel-primary'>
-                <div class='panel-body'>
-                    <div class='input-group panelSaveInput'>
-                        <label id='saveInputLabel' class='input-group-addon' for='saveInput'><b>Input Save</b>
-                            <input id='saveInput' class='form-control' type='text' name='saveInput' value=''>
-                            <button id='doSaveClear' class='btn btn-danger' type='button'><b>Clear save</b></button>
-                    </div>
-                </div>
-            </div>
-            <ul>
-                <li v-for='s in spells' , :style='{fontWeight: s.unlocked != 4?"bold":"normal"}'>
-                    {{s.name}}: {{s.unlocked + 1}}
-                </li>
-            </ul>
-        </div>
     </div>
+    <br/>
     <b id="tiertimes" class="calculator">
-        <form style="background-color:#b3bcc6">
-            Input the Tier and the R you want to unlock it at then click Show
-        </form>
+        <table>
+            <thead>
+            <tr>
+                <th>Point to Arcane Brilliance Trophy ingame to see what spell tiers need unlocked</th>
+            </tr>
+            </thead>
+        </table>
+        <table>
+            <thead>
+            <tr>
+                <th>Input the Tier and the R you want to unlock it at then click Show</th>
+            </tr>
+            </thead>
+        </table>
         <form style="background-color:#b3bcc6">
             <table id="calcformtiers" border="0">
                 <tr>
                     <td>Tiers</td>
-                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
+                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="7"></td>
                 </tr>
                 <tr>
                     <td>Arcane Brillance trophies</td>
@@ -109,7 +84,7 @@
                 </tr>
                 <tr>
                     <td>Reincarnations</td>
-                    <td><input type="number" min="42" max="157" name="rmin" id="rmin" value="42">-<input type="number" min="42" max="157" name="rmax" id="rmax" value="50"></td>
+                    <td><input type="number" min="42" max="157" name="rmin" id="rmin" value="42">-<input type="number" min="42" max="157" name="rmax" id="rmax" value="42"></td>
                 </tr>
                 <tr>
                     <td colspan="2"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
@@ -134,17 +109,10 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
         <script>
             var minTier = 2;
-            var maxTier = 6;
+            var maxTier = 7;
             var arcane = 0;
             var minReinc = 42;
             var maxReinc = 50;
-            if (localStorage && (parseInt(localStorage.getItem('mint')) > 0) && (parseInt(localStorage.getItem('maxt')) > 0) && (parseInt(localStorage.getItem('minr')) > 0) && (maxReinc = parseInt(localStorage.getItem('maxr')) > 0)) {
-                minTier = parseInt(localStorage.getItem('mint'));
-                maxTier = parseInt(localStorage.getItem('maxt'));
-                arcane = (parseInt(localStorage.getItem('ab')) > 0) ? parseInt(localStorage.getItem('ab')) : 0;
-                minReinc = parseInt(localStorage.getItem('minr'));
-                maxReinc = parseInt(localStorage.getItem('maxr'));
-            }
             var table = document.getElementById("mainTable");
             function clamp(x, min, max) {
                 return Math.min(Math.max(x, min), max);
