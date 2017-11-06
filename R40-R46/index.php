@@ -140,17 +140,16 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 4 <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Requirements</b>: S400 with at least 14k.
                 <p><b>Range</b>: 1e31+?
+                <p><b>Requirement</b>: S400 with at least 14k (Estimated run time 10 hours)
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
-                <p>S150,S215,S250,S330,S500,
-                <p>C150,C251,C330,C340,C375,C400,
-                <p>D55,D200,D245,D290,D320,
-                <p>E135,E145,E275,E320,E460,
-                <p>A105,A120,A150,A250,A400,
-                <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: Requires using S400 with at least 14k bonus, estimated run time 10 hours.
+                <p>S50,S215,S305,S330,S400,
+                <p>C150,C175,C340,C400,C500,
+                <p>D55,D200,D245,D250,D320,
+                <p>E1,E80,E135,E145,E225,E330,
+                <p>A105,A120,A150,A400,A410,
+                <p>W25,W150,W180,W205,W400,W520,W525
             </div>
         </div>
             </div>
