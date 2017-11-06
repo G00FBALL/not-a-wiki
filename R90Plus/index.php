@@ -439,32 +439,5 @@
      </div>
   </div>
                     <br/>
-    <p><b>Halloween Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UNSC (2 day Spell Master)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: Necrodoom
-                    <p><b>Requirements</b>: Veteran Figurine, Vampire L25, Ghost L25
-                    <p><b>Range</b>:1e120 (1 NoTg) Gems(?)
-                    <p><b>Faction</b>: Evil Mercenary
-                    <p><b>Bloodline</b>: Druid
-                    <p><b>Lineage:</b>: Dragon
-                    <p><b>A2950</b>: Elf
-                    <p><b>13th Upgrade</b>: UD7
-                    <p><b>Template</b>
-                    <p>EL3,EL7,AN5,TT6,DD6,FC3,FC7,DN2,DN8,DG3,DG4,DG9,
-                    <p>SP:Grand Balance,SP:God's Hand,
-                    <p>S50,S215,S305,S400,S1450,S1500,
-                    <p>C250,C340,C590,C1300,C3000,C3100,
-                    <p>D25,D200,D245,D1275,D1375,D2775,
-                    <p>E135,E145,E320,E350,E1225,E3250,
-                    <p>A120,A410,A590,A1500,A2950,A3400,
-                    <p>W400,W525,W560,W1400,W3050,W3150
-                    <p><b>Notes</b>: Use Vampire to buy dragon lineage and then go Ghost.
-                    <p><b>Notes</b>: Estimated time 1-1.5 days to unlock Spell Master trophy.
-         </div>
-    </div>
-            </div>
 </div>
 <?php include "../scripts/footer.html"; ?>
