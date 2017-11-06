@@ -71,7 +71,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Avenger (R76)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e93 (1 Tg) gems - 1e100 (10 DTg) gems
+                <p><b>Range</b>: 1e90 (1 NoVg) gems - 1e92 (100 NoVg) gems
                 <p><b>Faction</b>: Good Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>13th Upgrade</b>: Dn7
