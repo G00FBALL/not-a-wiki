@@ -204,7 +204,7 @@
 <p><b>Requirement</b>: Discover all the Vanilla Faction researches.</p>
 <p><b>Cost</b>:  1 SpQig (1e174)
 <p><b>Effect</b>: Increase the production of all buildings based on research done.<p>
-<p><b>Formula</b>: ?.<p>
+<p><b>Formula</b>: (0.3 * x ^ 0.7)<p>
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretTrophy.png" alt="Vanilla Challenger" align="middle"> Vanilla Challenger</b></p>
 <p><b>Requirement</b>: Complete all the Vanilla Faction Challenges.</p>
