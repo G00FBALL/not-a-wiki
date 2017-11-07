@@ -141,7 +141,7 @@
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
 <p><b>Formula</b>: sumofdigits x*100*x^0.45, where x is amount of Swarming Towers owned.
-<br/>x*100*x^0.45
+<br/>
 <br/>
 <p><b>Evil</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
