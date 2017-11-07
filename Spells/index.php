@@ -459,6 +459,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyLight.png" alt="Good" align="middle"> Holy Light</b> (Any Good Faction)</p>
     <p><b>Works For</b>: Good - <b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds </p>
     <p><b>Effect</b>: Increase clicking reward by 1750%</p>
+<br/>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Holy Light Tier 2-7</a></b></p>
