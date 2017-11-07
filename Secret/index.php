@@ -15,120 +15,120 @@
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png" alt="Leet" align="middle"><b> Leet</b></p>
 <p><b>Requirement</b>: Have exactly 1337 Coins at any given time.</p>
-<p><b>Cost Pre A</b>: 10 M (1e7)
+<p><b>Cost</b>: 10 M (1e7)
 <p><b>Effect</b>: Increase the production of all buildings by 1.337%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png" alt="Unitary" align="middle"><b> Unitary</b></p>
 <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
-<p><b>Cost Pre A</b>: 10 M (1e7)
+<p><b>Cost</b>: 10 M (1e7)
 <p><b>Effect</b>: Increase the production of all buildings by 1.11111111%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png" alt="Building Hater" align="middle"><b> Building Hater</b></p>
 <p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
-<p><b>Cost Pre A</b>: 10 Dc (1e34)
+<p><b>Cost</b>: 10 Dc (1e34)
 <p><b>Effect</b>: Increase clicking reward by 25%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png" alt="Grand Diplomat" align="middle"><b> Grand Diplomat</b></p>
 <p><b>Requirement</b>: Ally with each Vanilla, Neutral and Prestige factions at least once.</p>
-<p><b>Cost Pre A</b>: 6 T (1e12)
+<p><b>Cost</b>: 6 T (1e12)
 <p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 1%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png" alt="Exchange Master" align="middle"><b> Exchange Master</b></p>
 <p><b>Requirement</b>: Purchase 500 Royal Exchanges in a single game.</p>
-<p><b>Cost Pre A</b>: 500 Dc (5e35)
+<p><b>Cost</b>: 500 Dc (5e35)
 <p><b>Effect</b>: Increase Royal Exchange bonus by 5%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretTrophy.png" alt="Lucky Neutral" align="middle"><b> Lucky Neutral</b></p>
 <p><b>Requirement</b>: Spend 7777 minutes being Neutral across all reincarnations.(= 5d 9h 37m)</p>
-<p><b>Cost Pre A</b>: 30 N0 (3e31)
+<p><b>Cost</b>: 30 N0 (3e31)
 <p><b>Effect</b>: Increase the production of Neutral buildings by 50%
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretTrophy.png" alt="Perfectly Good" align="middle"><b> Perfectly Good</b></p>
 <p><b>Requirement</b>: Spend 333 hours being Good across all reincarnations.(= 13d 21h)</p>
-<p><b>Cost Pre A</b>: 30 N0 (3e31)
+<p><b>Cost</b>: 30 N0 (3e31)
 <p><b>Effect</b>: Increase the production of Good buildings by 50%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretTrophy.png" alt="Diabolical Evil" align="middle"><b> Diabolical Evil</b></p>
 <p><b>Requirement</b>: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s)</p>
-<p><b>Cost Pre A</b>: 30 N0 (3e31)
+<p><b>Cost</b>: 30 N0 (3e31)
 <p><b>Effect</b>: Increase the production of Evil buildings by 50%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png" alt="Assistant Squasher" align="middle"><b> Assistant Squasher</b></p>
 <p><b>Requirement</b>: Click 100 times on the little assistant in the background.</p>
-<p><b>Cost Pre A</b>: 100 Qa (1e15)
+<p><b>Cost</b>: 100 Qa (1e15)
 <p><b>Effect</b>: Instantly add 1 additional assistant.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png" alt="Rewind" align="middle"><b> Rewind</b></p>
 <p><b>Requirement</b>: Abdicate after producing at least 1 Oc (1E27) Coins.</p>
-<p><b>Cost Pre A</b>: 1 Oc (1e27)
+<p><b>Cost</b>: 1 Oc (1e27)
 <p><b>Effect</b>: Increase the production of all buildings by 8%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png" alt="Faction Grinder" align="middle"><b> Faction Grinder</b></p>
 <p><b>Requirement</b>: Purchase all the Vanilla Faction Heritage upgrades in a single game.</p>
-<p><b>Cost Pre A</b>: 6 Oc (6e27)
+<p><b>Cost</b>: 6 Oc (6e27)
 <p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 1%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png" alt="Master Archeologist" align="middle"><b> Master Archeologist</b></p>
 <p><b>Master Archeologist</b></p><p>(You have discovered all the relics of the Ancient Races.</p>
 <p><b>Requirement</b>: Titans, Druids, and Faceless)</p>
-<p><b>Cost Pre A</b>: 1 Ud (1e36)
+<p><b>Cost</b>: 1 Ud (1e36)
 <p><b>Effect</b>: Increase the production of all buildings by 5% when you are playing as Titans, Druids, or Faceless.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png" alt="Spellfury" align="middle"><b> Spellfury</b></p>
 <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
-<p><b>Cost Pre A</b>: 4 Dc (4e33)
+<p><b>Cost</b>: 4 Dc (4e33)
 <p><b>Effect</b>: Increase mana regeneration by 5%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png" alt="Speedrun" align="middle"><b> Speedrun</b></p>
 <p><b>Requirement</b>: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.</p>
-<p>(Can be done at R0)</p>
-<p><b>Cost Pre A</b>: 10 coins
+<p>Can be done at R0</p>
+<p><b>Cost</b>: 10 coins
 <p><b>Effect</b>: Increase your base clicking reward by 1M.
 <p>See (<a href="http:/realm/SpeedRun" id="current">Instructions</a>) page</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png" alt="Equality" align="middle"><b> Equality</b></p>
 <p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.</p>
-<p><b>Cost Pre A</b>: 1 Qad (1e45)
+<p><b>Cost</b>: 1 Qad (1e45)
 <p><b>Effect</b>: Increase the production of all buildings by 100%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png" alt="Beard Carpet" align="middle"><b> Beard Carpet</b></p>
 <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade. (This takes 3d 11h 20m)</p>
-<p><b>Cost Pre A</b>: 10 Nod (1e61)
+<p><b>Cost</b>: 10 Nod (1e61)
 <p><b>Effect</b>: Increase the production of assistants by 10%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png" alt="Premeditation" align="middle"><b> Premeditation</b></p>
 <p><b>Requirement</b>: Buy 850 Dark Temples before purchasing the Drow Trade Treaty.</p>
-<p><b>Cost Pre A</b>: 50 Ocd (5e58)
+<p><b>Cost</b>: 50 Ocd (5e58)
 <p><b>Effect</b>: Increase maximum mana by 250.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png" alt="Fast Forward" align="middle"><b> Fast Forward</b></p>
 <p><b>Requirement</b>: Accumulate a total offline time of at least 88 hours. (= 3d 16h) (This R)</p>
-<p><b>Cost Pre A</b>: 8 Oc (8e27)
+<p><b>Cost</b>: 8 Oc (8e27)
 <p><b>Effect</b>: Increase offline production by 200%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png" alt="Need a Head Start?" align="middle"><b> Need a Head Start?</b></p>
 <p><b>Requirement</b>: Don't do anything for 5 minutes after starting a new game or after abdicating. (Don't buy anything and don't click)</p>
-<p><b>Cost Pre A</b>: Free
+<p><b>Cost</b>: Free
 <p><b>Effect</b>: Instantly adds 10 coins.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png" alt="Realm Digger" align="middle"><b> Realm Digger</b></p>
 <p><b>Requirement</b>: Excavate 400 times.</p>
-<p><b>Cost Pre A</b>: 100 Nod (1e62)
+<p><b>Cost</b>: 100 Nod (1e62)
 <p><b>Effect</b>: Increase the production of all buildings by 0.15% for each Excavation you made.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png" alt="Harlequin" align="middle"><b> Harlequin</b></p>
 <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 11 different factions.</p>
-<p><b>Cost Pre A</b>: 5 Qivg (5e78)
+<p><b>Cost</b>: 5 Qivg (5e78)
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your mercenary upgrades.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png" alt="Lucifer" align="middle"><b> Lucifer</b></p>
 <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</p>
-<p><b>Cost Pre A</b>: 50 Vg (5e64)
+<p><b>Cost</b>: 50 Vg (5e64)
 <p><b>Effect</b>: Increase the production of non-neutral mercenary buildings by 300%.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png" alt="Mathematician" align="middle"><b> Mathematician</b></p>
 <p><b>Requirement</b>: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.<p>1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)</p>
-<p><b>Cost Pre A</b>: 1 Td (1e42)
+<p><b>Cost</b>: 1 Td (1e42)
 <p><b>Effect</b>: Increase the production of all buildings based on their tier.
 <p><b>----------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> Coin Pillage</b></p>
