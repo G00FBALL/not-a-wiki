@@ -35,7 +35,7 @@
 <p><b><a href="/realm/FairyFaction"> Fairy</a></b></p>
 <p><a href="/realm/FairyFaction"><img src="http://musicfamily.org/realm/Factions/picks/Fairy.png" alt="Fairy" align="middle"></a>
 <p>Focuses on assistants and boosts the three lowest tier buildings.</p>
-<p><b>Requirement</b>: Proof of Good Dead
+<p><b>Requirement</b>: Proof of Good Deed
 <p><b>Cost</b>: Free</p>
 <p><b>----------------------------------</b></p>
 <p><b><a href="/realm/ElfFaction">Elf</a></b></p>
@@ -47,7 +47,7 @@
 <p><b><a href="/realm/AngelFaction">Angel</a></b></p>
 <p><a href="/realm/AngelFaction"><img src="http://musicfamily.org/realm/Factions/picks/Angel.png" alt="Angel" align="middle"></a>
 <p>Increases mana regen</p>
-<p><b>Requirement</b>: Proof of Good Dead
+<p><b>Requirement</b>: Proof of Good Deed
 <p><b>Cost</b>: 20 Angel coins</p>
 <p><b>----------------------------------</b></p>
 <p><b>Evil Factions</b></p>
@@ -55,19 +55,19 @@
 <p><b><a href="/realm/GoblinFaction">Goblin</a></b></p>
 <p><a href="/realm/GoblinFaction"><img src="http://musicfamily.org/realm/Factions/picks/Goblin.png" alt="Goblin" align="middle"></a>
 <p>Cheaper buildings and greed for money</p>
-<p><b>Requirement</b>: Proof of Evil Dead
+<p><b>Requirement</b>: Proof of Evil Deed
 <p><b>Cost</b>: Free</p>
 <p><b>----------------------------------</b></p>
 <p><b><a href="/realm/UndeadFaction">Undead</a></b></p>
 <p><a href="/realm/UndeadFaction"><img src="http://musicfamily.org/realm/Factions/picks/Undead.png" alt="Undead" align="middle"></a>
 <p>Focuses on long plays increasing production and assistants based on time</p>
-<p><b>Requirement</b>: Proof of Evil Dead
+<p><b>Requirement</b>: Proof of Evil Deed
 <p><b>Cost</b>: 20 Undead coins</p>
 <p><b>----------------------------------</b></p>
 <p><b><a href="/realm/DemonFaction">Demon</a></b></p>
 <p><a href="/realm/DemonFaction"><img src="http://musicfamily.org/realm/Factions/picks/Demon.png" alt="Demon" align="middle"></a>
 <p>Increases the highest tiers of building productions and trophy perks.</p>
-<p><b>Requirement</b>: Proof of Evil Dead
+<p><b>Requirement</b>: Proof of Evil Deed
 <p><b>Cost</b>: 20 Demon coins</p>
 <p><b>----------------------------------</b></p>
 <p><b>Neutral Factions</b></p>
