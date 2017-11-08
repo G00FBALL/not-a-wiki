@@ -303,6 +303,35 @@
             </div>
                     <br/>
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Know Your Enemy, Part 2 R76+<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Evil Mercenary</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Mercenary Template</b></p>
+                <p>FR4,EL3,AN5,GB1,DG7,UD9,DM9,TT8,DD1,FC6,DN2,DW4,</p>
+                <p>SP:Fairy Chanting,SP:God's Hand</p>
+                <p><b>Note</b>: This build is for getting KYE Part 2 at R76+</p>
+                <p><b>Spells</b>: God's Hand, Fairy Chanting</p>
+                <p><b>Tier 1 Upgrades</b></p>
+                <p><b>Goblin</b>: (1,1) Strong Currency</p>
+                <p><b>Elf</b>: (1,3) Sylvan Treasure Frills</p>
+                <p><b>Druid</b>: (1,1) Druidic Vocabulary</p>
+                <p><b>Dwarf</b>: (1,2) Expert Masonry</p>
+                <p><b>Tier 2 Upgrades</b></p>
+                <p><b>Fairy</b>: (2,1) Fairy Workers</p>
+                <p><b>Angel</b>: (2,2) Angelic Wisdom</p>
+                <p><b>Faceless</b>: (2,3) Overgrowth</p>
+                <p><b>Drow</b>: (2,1) Mana Addicts</p>
+                <p><b>Tier 3 Upgrades</b></p>
+                <p><b>Dragon</b>: (3,1) Ancient Hunger (R76+)</p>
+                <p><b>Undead</b>: (3,3) Undead Resilience</p>
+                <p><b>Demon</b>: (3,3) Very Bad Guys</p>
+                <p><b>Titan</b>: (3,2) Heavy Coins</p>
+        </div>
+    </div>
+            </div>
+                    <br/>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tax Season (S3200 Unlock) R81+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare
