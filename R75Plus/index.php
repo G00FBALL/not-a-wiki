@@ -354,7 +354,6 @@
             </div>
                     <br/>
     <p><b>Lineage Builds - Level 25, R82+</b></p>
-    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Raveyard (Undead, W275 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
