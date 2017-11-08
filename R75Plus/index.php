@@ -302,7 +302,6 @@
     </div>
             </div>
                     <br/>
-     <div class="category">
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Know Your Enemy, Part 2 R76+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
