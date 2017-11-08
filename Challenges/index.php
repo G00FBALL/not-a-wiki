@@ -4,6 +4,10 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6>
+<p><b>All challenges need that faction.
+<p>All challenge 2 need that faction and that bloodline.
+<p>All Prestige challenges up to and including challenge 3 will tell you what base faction to use but it also needs that faction.
+<p>All other Prestige challenges still need that faction to complete.</b>
 <p><a href="http://musicfamily.org/realm/Fairy/"><b>Fairy</b></a>
 <a href="http://musicfamily.org/realm/Elf/"><b>Elf</b></a>
 <a href="http://musicfamily.org/realm/Angel/"><b>Angel</b></a>
