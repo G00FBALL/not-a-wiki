@@ -41,7 +41,7 @@
 <p><b><a href="/realm/ElfFaction">Elf</a></b></p>
 <p><a href="/realm/ElfFaction"><img src="http://musicfamily.org/realm/Factions/picks/Elf.png" alt="Elf" align="middle"></a>
 <p>Focuses on clicking and faction coins</p>
-<p><b>Requirement</b>: Proof of Good Dead
+<p><b>Requirement</b>: Proof of Good Deed
 <p><b>Cost</b>: 20 Elven coins</p>
 <p><b>----------------------------------</b></p>
 <p><b><a href="/realm/AngelFaction">Angel</a></b></p>
