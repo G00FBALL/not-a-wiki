@@ -108,4 +108,77 @@
 <p>Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.
 <p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R).
 <p><b>Requirement</b>: Mercerary, R75, 125K total buildings
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></p>
+<p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on time spent as good.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (0.08*x^0.8)%, where x is time in second as good in this R.
+<p><b>Requirement</b>: A2, Good, Proof of Order, Holy Site Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"></p>
+<p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.
+<p><b>Requirement</b>: Flesh Workshop Quest</p>
+<p><b>Effect</b>: Increase production based on mana regen.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (2*x^0.6)%, where x is mana regen per second.
+<p><b>Requirement</b>: A2, Evil, Proof of Order, Flesh Workshop Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></p>
+<p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on buildings owned.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: 0.25*x^0.75, where x is building owned.
+<p><b>Requirement</b>: A2, Neutral, Proof of Order, Mountain Palace Quest, Mountain Palace Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
+<p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on the amount of active spells.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (0.35*x^2.35)%, where x is active spells.
+<p><b>Requirement</b>: A2, Good, Proof of Chaos, Swarming Towers Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"></p>
+<p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on spent as Evil.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is evil time this R
+<p><b>Requirement</b>: A2, Evil, Proof of Chaos, Burning Abyss Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
+<p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on spells cast.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.
+<p><b>Requirement</b>: A2, Neutral, Proof of Chaos, Forbidden Library Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></p>
+<p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production production based on Faction Coin find chance.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: floor20*(log10(1+x))^2), where x is FC chance.
+<p><b>Requirement</b>: A2, Good, Proof of Balance, Arboreal City Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
+<p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on assistants.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: floor(0.25*x^0.75)%, where x is amount of assistants.
+<p><b>Requirement</b>: A2, Evil, Proof of Balance, Slave Market Quest, Unique Building Upgrade
+<br/>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
+<p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.
+<p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: floor(x^1.1)%, where x is total level of lineages
+<p><b>Requirement</b>: A2, Neutral, Proof of Balance, Ziggurat Quest, Unique Building Upgrade
 <?php include "../scripts/footer.html"; ?>
