@@ -37,7 +37,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" alt="Undercities" align="middle"></p>
 <p>Upgraded from Necropolis</p>
 <p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.
-<p><b>Formula:</b> (12 * (2.5x)^0.75)%, where x is your Playtime (This Game) stat.
+<p><b>Formula:</b> (12 * (2.5 * x)^0.75)%, where x is your Playtime (This Game) stat.
 <p><b>Requirement</b>: Research, 1750 Necropolises
 <p><b>----------------------------------</p></b>
 <p><b>Demon</b></p>
@@ -64,14 +64,14 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Labyrinths</p>
 <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.
-<p><b>Formula</b>: 75 * x^0.9%, where x is your Playtime (Longest Session) stat.
+<p><b>Formula</b>: 75 * x ^ 0.9, where x is your Playtime (Longest Session) stat.
 <p><b>Requirement</b>: Research, 2000 Labyrinths
 <p><b>----------------------------------</p></b>
 <p><b>Dwarf</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUniqueBuilding.png" alt="Unique building dwarf" align="middle"></p>
 <p>Upgraded from Blacksmiths</p>
 <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.
-<p><b>Formula</b>: 100 * x^0.9%, where x is your Mana per Second stat.
+<p><b>Formula</b>: 100 * x ^ 0.9, where x is your Mana per Second stat.
 <p><b>Requirement</b>: Research, 5000 Blacksmiths
 <p><b>----------------------------------</p></b>
 <p><b>Drow</b></p>
@@ -85,7 +85,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUniqueBuilding.png" alt="Unique building Dragon" align="middle"></p>
 <p>Upgraded from Stronghold</p>
 <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
-<p><b>Formula</b>: 0.065* ln(1 + x) / 2 + 3.65), where x is faction coins found
+<p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)
 <p><b>Requirement</b>: Research, R46 + 3572 Iron Strongholds
 <p><b>----------------------------------</p></b>
 <p><b>Mercenary</b></p>
@@ -99,14 +99,14 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="EvilMerc" align="middle"> <b>Evil Alignment</b></p>
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.
-<p><b>Formula</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus
+<p><b>Formula</b>: 0.5 * (log10( 1 + x)) ^ 4.5 where x is Offline Production Bonus
 <p><b>Requirement</b>: Mercerary, R75, 125K total buildings
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="NeutralMerc" align="middle"> <b>Neutral Alignment</b></p>
 <p>Upgraded from Alchemist Labs</p>
 <p>Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.
-<p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R).
+<p><b>Formula</b>: 2 * x ^ 0.95, where x is assistants you had in a single game (This R).
 <p><b>Requirement</b>: Mercerary, R75, 125K total buildings
 <br/>
 <br/>
@@ -114,7 +114,7 @@
 <p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on time spent as good.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.08*x^0.8)%, where x is time in second as good in this R.
+<p><b>Formula</b>: 0.08 * x ^ 0.8, where x is time in second as good in this R.
 <p><b>Requirement</b>: A2, Good, Proof of Order, Holy Site Quest, Unique Building Upgrade
 <br/>
 <br/>
@@ -123,7 +123,7 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (2*x^0.6)%, where x is mana regen per second.
+<p><b>Formula</b>: 2 * x ^ 0.6, where x is mana regen per second.
 <p><b>Requirement</b>: A2, Evil, Proof of Order, Flesh Workshop Quest, Unique Building Upgrade
 <br/>
 <br/>
@@ -131,7 +131,7 @@
 <p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: 0.25*x^0.75, where x is building owned.
+<p><b>Formula</b>: 0.25 * x ^ 0.75, where x is building owned.
 <p><b>Requirement</b>: A2, Neutral, Proof of Order, Mountain Palace Quest, Mountain Palace Unique Building Upgrade
 <br/>
 <br/>
@@ -139,7 +139,7 @@
 <p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.35*x^2.35)%, where x is active spells.
+<p><b>Formula</b>: 0.35 * x ^ 2.35, where x is active spells.
 <p><b>Requirement</b>: A2, Good, Proof of Chaos, Swarming Towers Quest, Unique Building Upgrade
 <br/>
 <br/>
@@ -147,7 +147,7 @@
 <p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on spent as Evil.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is evil time this R
+<p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10)) where x is evil time this R
 <p><b>Requirement</b>: A2, Evil, Proof of Chaos, Burning Abyss Quest, Unique Building Upgrade
 <br/>
 <br/>
@@ -155,7 +155,7 @@
 <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.
+<p><b>Formula</b>: 15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5, where x is spells cast.
 <p><b>Requirement</b>: A2, Neutral, Proof of Chaos, Forbidden Library Quest, Unique Building Upgrade
 <br/>
 <br/>
@@ -163,7 +163,7 @@
 <p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.
 <p><b>Effect</b>: Increase production production based on Faction Coin find chance.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: floor20*(log10(1+x))^2), where x is FC chance.
+<p><b>Formula</b>: floor(20 * (log10(1 + x)) ^ 2)), where x is FC chance.
 <p><b>Requirement</b>: A2, Good, Proof of Balance, Arboreal City Quest, Unique Building Upgrade
 <br/>
 <br/>
