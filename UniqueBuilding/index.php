@@ -10,14 +10,14 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyUniqueBuilding.png" alt="Enchanted Fields" align="middle"></p>
 <p>Upgraded from Farms</p>
 <p>Upgrade Farms To Enchanted Fields, boosting their production by 750% per assistant you own and unlocking more unique perks for the building.
-<p><b>Formula:</b> 47 * (750 * x)^0.7, where x is your Assistants stat.
+<p><b>Formula:</b> 50 * (750 * x)^0.7, where x is your Assistants stat.
 <p><b>Requirement</b>: Research, 2250 Farms
 <p><b>----------------------------------</p></b>
 <p><b>Elf</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElfUniqueBuilding.png" alt="Elven Training Grounds" align="middle"></p>
 <p>Upgraded from Warrior Barracks</p>
 <p>Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made and unlocking more unique perks for the building.
-<p><b>Formula:</b> ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.
+<p><b>Formula:</b> ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is total amount of clicks (Total) stat.
 <p><b>Requirement</b>: Research, 1750 Barracks
 <p><b>----------------------------------</p></b>
 <p><b>Angel</b></p>
@@ -48,20 +48,20 @@
 <p><b>Requirement</b>: Research, 1500 Hell Portals
 <p><b>----------------------------------</p></b>
 <p><b>Titan</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/TitanUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/TitanUniqueBuilding.png" alt="Olympian Halls" align="middle"></p>
 <p>Upgraded from Hall of Legends</p>
 <p>Upgrade Halls of Legend to Olympian Halls, boosting their production by 15% per Royal Exchange you've purchased and unlocking more unique perks for the building.
 <p><b>Requirement</b>: Research, 2000 Halls of Legends
 <p><b>----------------------------------</p></b>
 <p><b>Druid</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" alt="Stonehenge Circles" align="middle"></p>
 <p>Upgraded from Stone Pillars</p>
 <p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.
 <p><b>Note:</b> The bonus is not a multiple of 30; this may be due to max. mana appearing as a floating point number instead of an integer.
 <p><b>Requirement</b>: Research, 2000 Stone Pillars
 <p><b>----------------------------------</p></b>
 <p><b>Faceless</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" alt="Sunken Cities" align="middle"></p>
 <p>Upgraded from Labyrinths</p>
 <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.
 <p><b>Formula</b>: 75 * x ^ 0.9, where x is your Playtime (Longest Session) stat.
