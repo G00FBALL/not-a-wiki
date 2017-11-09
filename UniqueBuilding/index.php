@@ -37,13 +37,14 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" alt="Undercities" align="middle"></p>
 <p>Upgraded from Necropolis</p>
 <p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.
-<p><b>Formula:</b> (10 * (2x)^0.75)%, where x is your Playtime (This Game) stat.
+<p><b>Formula:</b> (12 * (2.5x)^0.75)%, where x is your Playtime (This Game) stat.
 <p><b>Requirement</b>: Research, 1750 Necropolises
 <p><b>----------------------------------</p></b>
 <p><b>Demon</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Hell Portals</p>
 <p>Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.
+<p><b>Formula:</b> 125% *x, where x is trophy count
 <p><b>Requirement</b>: Research, 1500 Hell Portals
 <p><b>----------------------------------</p></b>
 <p><b>Titan</b></p>
@@ -84,7 +85,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUniqueBuilding.png" alt="Unique building Dragon" align="middle"></p>
 <p>Upgraded from Stronghold</p>
 <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
-<p><b>Formula</b>: (0.065*(ln(1+x/2+y))^3.65)
+<p><b>Formula</b>: 0.065* ln(1 + x) / 2 + 3.65), where x is faction coins found
 <p><b>Requirement</b>: Research, R46 + 3572 Iron Strongholds
 <p><b>----------------------------------</p></b>
 <p><b>Mercenary</b></p>
