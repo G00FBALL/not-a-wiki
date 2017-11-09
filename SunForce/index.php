@@ -32,5 +32,5 @@
     <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
     <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-    <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
+    <p><b>Formula</b>: 10 * (x * (A + 1)) ^ 0.85, where x is the number of buildings you own.
 <?php include "../scripts/footer.html"; ?>
