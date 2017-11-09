@@ -41,9 +41,9 @@
 <p><b>Requirement</b>: Research, 1750 Necropolises
 <p><b>----------------------------------</p></b>
 <p><b>Demon</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" alt="Infernal Realms" align="middle"></p>
 <p>Upgraded from Hell Portals</p>
-<p>Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.
+<p>Upgrade Hell Portals To Infernal Realms, boosting their production by 125% per Trophy you unlocked and unlocking more unique perks for the building.
 <p><b>Formula:</b> 125% *x, where x is trophy count
 <p><b>Requirement</b>: Research, 1500 Hell Portals
 <p><b>----------------------------------</p></b>
