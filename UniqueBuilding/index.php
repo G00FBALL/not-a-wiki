@@ -115,7 +115,8 @@
 <p><b>Effect</b>: Increase production based on time spent as good.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: 0.08 * x ^ 0.8, where x is time in second as good in this R.
-<p><b>Requirement</b>: A2, Good, Proof of Order, Holy Site Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Good, Proof of Order
+<p><b>Requirement</b>: A2, Holy Site Quest (2M Mana Regeneration)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"></p>
@@ -124,7 +125,8 @@
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: 2 * x ^ 0.6, where x is mana regen per second.
-<p><b>Requirement</b>: A2, Evil, Proof of Order, Flesh Workshop Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Evil, Proof of Order
+<p><b>Requirement</b>: A2, Flesh Workshop Quest (85M% offline production bonus)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></p>
@@ -132,7 +134,8 @@
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: 0.25 * x ^ 0.75, where x is building owned.
-<p><b>Requirement</b>: A2, Neutral, Proof of Order, Mountain Palace Quest, Mountain Palace Unique Building Upgrade
+<p><b>Alignment</b>: Neutral, Proof of Order
+<p><b>Requirement</b>: A2, Mountain Palace Quest (3750 royal exchanges)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
@@ -140,7 +143,8 @@
 <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: 0.35 * x ^ 2.35, where x is active spells.
-<p><b>Requirement</b>: A2, Good, Proof of Chaos, Swarming Towers Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Good, Proof of Chaos
+<p><b>Requirement</b>: A2, Swarming Towers Quest (200K Assistants)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"></p>
@@ -148,7 +152,8 @@
 <p><b>Effect</b>: Increase production based on spent as Evil.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10)) where x is evil time this R
-<p><b>Requirement</b>: A2, Evil, Proof of Chaos, Burning Abyss Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Evil, Proof of Chaos
+<p><b>Requirement</b>: A2, Burning Abyss Quest (160 seconds long Call to Arms)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
@@ -156,7 +161,8 @@
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: 15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5, where x is spells cast.
-<p><b>Requirement</b>: A2, Neutral, Proof of Chaos, Forbidden Library Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Neutral, Proof of Chaos
+<p><b>Requirement</b>: A2, Forbidden Library Quest (5000 Excavations)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></p>
@@ -164,7 +170,8 @@
 <p><b>Effect</b>: Increase production production based on Faction Coin find chance.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(20 * (log10(1 + x)) ^ 2)), where x is FC chance.
-<p><b>Requirement</b>: A2, Good, Proof of Balance, Arboreal City Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Good, Proof of Balance
+<p><b>Requirement</b>: A2, Arboreal City Quest (1e23 Elf Faction Coins found)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
@@ -172,7 +179,8 @@
 <p><b>Effect</b>: Increase production based on assistants.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(0.25*x^0.75)%, where x is amount of assistants.
-<p><b>Requirement</b>: A2, Evil, Proof of Balance, Slave Market Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Evil, Proof of Balance
+<p><b>Requirement</b>: A2, Slave Market Quest (30K Neutral buildings)
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
@@ -180,5 +188,6 @@
 <p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(x^1.1)%, where x is total level of lineages
-<p><b>Requirement</b>: A2, Neutral, Proof of Balance, Ziggurat Quest, Unique Building Upgrade
+<p><b>Alignment</b>: Neutral, Proof of Balance
+<p><b>Requirement</b>: A2, Ziggurat Quest (12K Stonehenges)
 <?php include "../scripts/footer.html"; ?>
