@@ -129,7 +129,6 @@
                 <p><b>1000 assistants</b>: 12-14 hours
                 <p><b>1T FC</b>: 21 hours 30 minutes
                 <p><b>2000 assistants</b>: 28 hours
-                <p><b>Mana River</b>: 29 hours
                 <p><b>Spells</b>: Fairy Chanting, Goblin's Greed for FC to set up (you can substitute something else if you wish, Greed is not important for the build)</p>
                 <p><b>Tier 1 Upgrades</b></p>
                 <p><b>Angel</b>: (1,1): Holy Bells</p>
