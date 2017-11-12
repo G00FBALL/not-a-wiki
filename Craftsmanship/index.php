@@ -110,7 +110,7 @@
 <p><b>C300</b> - <b>For Druid</b> - <b>Research Name</b>: Weighting 
 <p><b>Requirement</b>: 650 Lightning Strikes (This R)
 <p><b>Cost</b>: 33.6 OcQig (33.6E177) 
-<p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 3.09%. 
+<p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 2000%. 
 <p><b>Effect</b>: Also increase the production of every Grand Balance target based on maximum mana. 
 <p><b>Formula</b>: round(0.12*ln(1+x))^2)^y), where x is your maximum mana and y is spell tier.
 <br/>
