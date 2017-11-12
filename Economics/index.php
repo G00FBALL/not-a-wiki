@@ -176,7 +176,7 @@
 <p><b>E590</b> - <b>For Goblin,Drow</b> - <b>Research Name</b>: Slavery 
 <p><b>Requirement</b>: 200 Drow Exchanges as Droblin, Research Automatons(C225) and Undercutting(E480) 
 <p><b>Cost</b>: 39.16 QiSpg (3.916 E229) 
-<p><b>Effect</b>: Gain additional assistants based on the amount of Evil buildings you own. 
+<p><b>Effect</b>: Gain additional assistants based on the amount of Non-Unique buildings you own. 
 <p><b>Formula</b>: floor(x/300)^1.05, where x is the number of Non Unique Buildings you own.
 <br/>
 <br/>
