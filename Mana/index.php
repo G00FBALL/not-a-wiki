@@ -28,13 +28,13 @@
 <p><b>Requirement</b>: 200,000 mana produced</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png" alt="Mana Wave" align="middle"> Mana Wave</b></p>
-<p><b>Requirement</b>: 20 M (2E7) mana produced</p>
+<p><b>Requirement</b>: 20 M (2E7) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png" alt="Mana River" align="middle"> Mana River</b></p>
-<p><b>Requirement</b>: 1 B (1E9) mana produced</p>
+<p><b>Requirement</b>: 1 B (1E9) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png" alt="Mana Lake" align="middle"> Mana Lake</b></p>
-<p><b>Requirement</b>: 20 B (2E10) mana produced</p>
+<p><b>Requirement</b>: 20 B (2E10) mana produced, R40+</p>
 <p><b>------------------------------</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Sea" align="middle"> Mana Sea</b></p>
 <p><b>Requirement</b>: 1 T (1E12) mana produced, R40+</p>
