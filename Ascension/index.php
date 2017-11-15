@@ -24,7 +24,7 @@
 <p>Ascension reduces each income boost by raising the respective multiplier to the 1/10 power. For instance, the 6000% of S330 is a 61x multiplier; 61 ^ 0.1 = 1.508, so it's a 50.8% percent increase post-ascension. (by heeheehee <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/613680#posts-10289299">source</a>), Resulting in the need to change and adapt the Mercenary and research builds.
 <p>Ascend <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/607644">preview</a> forum post by <a target="_blank" href="http://www.kongregate.com/accounts/Kraide">Kraide</a>
 <p>Values for ascension <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/615701-values-for-ascension-upgrades-assistants-mana-regen-and-no-percent-shown">upgrades</a> by <a target="_blank" href="http://www.kongregate.com/accounts/artcrow">artcrow</a>
-<p><b>Formula</b>: : ((x / 100 + 1)^0.1^(A – 1)) * 100, where x is original bonus in percentage and A is Ascension count.
+<p><b>Formula</b>: ((x / 100 + 1)^0.1^(A – 1)) * 100, where x is original bonus in percentage and A is Ascension count.
 <h6>Multiplier reduction</h6>
 <p> Ascension reduces multipliers for building cost and excavation. 
 <p><b>Formula</b>: 1 + (M - 1) / 5, where M is old multiplier. 
