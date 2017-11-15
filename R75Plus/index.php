@@ -302,14 +302,13 @@
     </div>
             </div>
                     <br/>
-    <div class="category">
        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Know Your Enemy, Part 2 R76+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Mercenary Template</b></p>
-                <p>FR4,EL3,AN5,GB1,DG7,UD9,DM9,TT8,DD1,FC6,DN2,DW4,</p>
+                <p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,DG7,</p>
                 <p>SP:Fairy Chanting,SP:God's Hand</p>
                 <p><b>Note</b>: This build is for getting KYE Part 2 at R76+</p>
                 <p><b>Spells</b>: God's Hand, Fairy Chanting</p>
@@ -352,7 +351,6 @@
                     <p>W180,W275,W400,W525,W3050,W3150
         </div>
     </div>
-            </div>
                     <br/>
     <p><b>Lineage Builds - Level 25, R82+</b></p>
     <div class="category">
@@ -453,4 +451,3 @@
         </div>
       </div>
 <?php include "../scripts/footer.html"; ?>
-
