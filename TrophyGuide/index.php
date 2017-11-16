@@ -146,7 +146,7 @@
     <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" alt="Smiley face" align="middle"> <b>Coin Pillage</b> (end of R3)
-    <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/TrophyBuilds/"><b>Harley Quinn R3+</b></a>
+    <p>Cast 30 Tax Collections in less than 5 seconds. You can use this build <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harley Quinn R3+</b></a>
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png" alt="Lucifer" align="middle"> <b>Lucifer</b> R3+
     <p>As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.
