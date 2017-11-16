@@ -154,11 +154,6 @@
             <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.
             <p><b>Level 10</b>
             <p><b>Effect</b>: x100 Elven Faction Coin find chance.
-            <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b></p>
-            <p><b>Requirement</b>: Perform 40 autoclicks in 1 second, R60+
-            <p><b>Cost</b>: 100 Qaq (1e125)
-            <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only.
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Click Upgrades</a></b></p>
         <div class="autohide">
