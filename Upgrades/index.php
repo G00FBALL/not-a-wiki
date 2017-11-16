@@ -104,6 +104,7 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 700% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
+            <h6>Post A2 - R100+</h6>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
             <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
             <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
@@ -131,7 +132,7 @@
             <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
-            <p><b>Effect</b>: Autoclicks 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
+            <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game and autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
             <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
