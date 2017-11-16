@@ -9,10 +9,10 @@
 <p><a href="/realm/ResearchSpellUpgrades/" research="Shows what Slots help with improving Spells"> <b>Spell Upgrade Slots</b></a></p>
 <p><a href="/realm/ResearchFactionCoinUpgrades/" research="Shows what Slots help with improving Faction Coin Find Chance"> <b>Faction Coin Upgrade Slots</b></a></p>
 <p><a href="/realm/ResearchUniqueBuildingUpgrades/" research="Shows what Slots give upgrades to Unique Buildings"> <b>Unique Building Upgrade Slots</b></a></p>
+<p><a href="/realm/ResearchBuildingBasedOnUB/" research="All Building Upgrades based on Unique Buildings"> <b>Building Upgrade Slots based on UB</b></a></p>
 <p><a href="/realm/ResearchNonUniqueUpgrades/" research="Shows what Slots give upgrades to Non-Unique Buildings"> <b>Non-Unique Building Upgrade Slots</b></a></p>
 <p><a href="/realm/ResearchNeutralBuildingUpgrades/" research="Shows what Slots give upgrades to Neutral Buildings"> <b>Neutral Building Upgrade Slots</b></a></p>
-<p><a href="/realm/ResearchAllBuildingUpgrades/" research="Shows what Slots give upgrades to All Buildings"> <b>All other Building Upgrade Slots</b></a></p>
+<p><a href="/realm/ResearchAllBuildingUpgrades/" research="Shows what Slots give upgrades to All other Buildings"> <b>All other Building Upgrade Slots</b></a></p>
 <p><a href="/realm/ResearchClickRewardUpgrades/" research="Shows what Slots give upgrades to to Click Rewards"> <b>Click Reward Upgrade Slots</b></a></p>
 <p><a href="/realm/ResearchGemBonusUpgrades/" research="Shows what Slots give upgrades to to Gem Based Upgrades"> <b>Gem Based Upgrade Slots</b></a></p>
-<p><a href="/realm/ResearchBuildingBasedOnUB/" research="All Building Upgrades based on Unique Buildings"> <b>Building Upgrade Slots based on UB</b></a></p>
 <?php include "../scripts/footer.html"; ?>
