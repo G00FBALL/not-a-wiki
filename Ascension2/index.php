@@ -155,7 +155,7 @@
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"></p>
 <p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.
-<p><b>Effect</b>: Increase production based on spent as Evil.</p>
+<p><b>Effect</b>: Increase production based on spent time as Evil.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is evil time this R
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonsUnion.png" alt="Demons Union" align="middle"> <b>Demons Union</b></p>
