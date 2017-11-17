@@ -208,7 +208,7 @@
 <p><b>A2950</b> - <b>For Mercenary</b> - <b>Research Name</b>: Combination 
 <p><b>Requirement</b>: All Lineages Level at 15.  
 <p><b>Cost</b>: 259 SxQig (2.59e173) 
-<p><b>Effect</b>: Select an aditional bloodline. 
+<p><b>Effect</b>: Select an additional bloodline. 
 <p><b>Effect</b>: You also gain all the base effect of its respective Lineage. 
 <br/>
 <br/>
