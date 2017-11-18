@@ -140,7 +140,7 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
-<p><b>Formula</b>: sumofdigits x*100*x^0.45, where x is amount of Swarming Towers owned.
+<p><b>Formula</b>: sumofdigits(x)*100*x^0.45, where x is amount of Swarming Towers owned.
 <br/>
 <br/>
 <p><b>Evil</b></p>
