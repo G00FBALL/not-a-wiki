@@ -10,7 +10,10 @@
 <p><b><a href="http://www.advanced-mouse-auto-clicker.com/setup/FreeMouseAutoClicker.exe">Download Free Mouse Auto Clicker</a></b> </p> 
 <p><a target="_blank" href="http://dox4242.github.io/arch/"><b>Lara Crypt</b></a> Ethereal Excavator</p> 
 <p><b><a target="_blank" href="http://pastebin.com/">pastebin</a></b> Paste your code to share</p> 
-<p><b><a target="_blank" href="http://imgur.com/upload">imgur.com</a></b> Upload your image to share</p> 
+<p><b><a target="_blank" href="https://pasteboard.co/">pasteboard</a></b> Paste your image to share</p> 
+
+  
+  <p><b><a target="_blank" href="http://imgur.com/upload">imgur.com</a></b> Upload your image to share</p> 
 <p><b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">Unlocked Tiers</a></b></p> 
 <p><b><a target="_blank" href="https://dox4242.github.io/misc/abdication.html">Abdication Helper</a></b></p> 
 <p><b><a target="_blank" href="http://realm-grinder.wikia.com/wiki/User:Pseudobyte/Flash">Chrome and Flash help</a></b></p> 
