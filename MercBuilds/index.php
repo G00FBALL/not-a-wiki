@@ -57,7 +57,7 @@
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Elven
                 <p><b>Template</b>:
-                <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
+                <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
                 <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
                 <p><b>Tier 1 Upgrades</b>:
@@ -66,7 +66,7 @@
                 <p><b>Goblin</b>: (1,1) Strong Currency
                 <p><b>Dwarf</b>: (1,3) Mining Prodigies
                 <p><b>Tier 2 Upgrades</b>:</p>
-                <p><b>Fairy</b>: (2,1) Fairy Workers
+                <p><b>Druid</b>: (2,2) Bardic Knowledge
                 <p><b>Titan</b>: (2,3) Cyclopean Strength
                 <p><b>Druid</b>: (2,1) Earthly Bond
                 <p><b>Faceless</b>: (2,1) Gold Synthesis
@@ -85,7 +85,7 @@
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
                 <p><b>Template</b>:
-                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Lightning Strike,SP:Fairy Chanting
                 <p><b>Note</b>: If using LF use full cast without TC then cast Fairy Chanting a second time then any mana left over on TC
                 <p>For R3+ Original main build, uses LS for faction coins so you will not need to excavate. Speed will greatly vary on your luck with LS.</p>
@@ -98,7 +98,7 @@
                 <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
                 <p><b>Tier 2 Upgrades</b>:</p>
                 <p><b>Druid</b> (2,1): Earthly Bond
-                <p><b>Fairy</b> (2,1): Fairy Workers
+                <p><b>Druid</b>: (2,2) Bardic Knowledge
                 <p><b>Titan</b> (2,3): Cyclopean Strength (Alternative: Druid (2,2): Bardic Knowledge)</p>
                 <p><b>Faceless</b> (2,1): Gold Synthesis
                 <p><b>Tier 3 Upgrades</b>:</p>
@@ -155,7 +155,7 @@
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
                 <p><b>Template</b>:
-                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD9,FC4,DN3,DN7,
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
                 <p>For R3-18, lower range & lower income but doesn't rely on LS RNG.</p>
                 <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe
@@ -167,7 +167,7 @@
                 <p>[If less than 450 excavations: Titan (1,3): Oversized Legends]</p>
                 <p><b>Tier 2 Upgrades</b>:
                 <p><b>Druid</b> (2,1): Earthly Bond
-                <p><b>Fairy</b> (2,1): Fairy Workers
+                <p><b>Druid</b>: (2,2) Bardic Knowledge
                 <p><b>Titan</b> (2,3): Cyclopean Strength
                 <p><b>Faceless</b> (2,1): Gold Synthesis
                 <p><b>Tier 3 Upgrades</b>:
@@ -204,4 +204,3 @@
         <br/>
     </div>
 <?php include "../scripts/footer.html"; ?>
-
