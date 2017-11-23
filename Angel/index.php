@@ -19,7 +19,7 @@
 <p>The archangel leaders have entrusted you on a sacred mission:quickly harvest enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden.</p>
 <p><b>Requirements</b>: 8 Reincarnations, Angel Bloodline
 <p><b>Challenge</b>: Generate 500,000 mana in less than 3 hours without casting a single Tax Collection.</p>
-<p><b>Effect</b>: Increases maximum mana by 25%.</p>
+<p><b>Effect</b>: Increases maximum mana by 30%.</p>
 <p><b>Upgrade</b>: Good for Undead</p>
 <p><b>Tips</b></p>
 <p>Avoid getting Angelic Wisdom (2,2) and Angelic Dominance (3,2) because they reduce your mana-spent-per-second ability, if you are still finding yourself with a full mana pool, you can also turn off your Angel 1 perk. Tip: Autocast God's Hand with bar at 0. Add in CtA if excess mana builds up. When mana regen gets too high, just put every spell on Gold autocast (Not TC of course).</p>
