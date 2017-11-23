@@ -4,10 +4,10 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
+    <p><b>Important</b>: <FONT color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the <b><a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/">Harley Quinn</b></a> build.</font>
     <p>With version 2 comes the ability to load and save mercenary builds. The Faction Upgrades and Spells are saved in templates.
     <p><b>Note</b>: You will need to manually select the alignment and bloodline.
     <p><b>Templates</b> can be found at the top of each build table (if available).
-    <p><b>Important</b>: <b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the <b><a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/">Harley Quinn</b></a> build.
     <p><b>Note</b>: Most Templates are in order that the game save them in. Also when loading Templates the game will buy the upgrades you can afford first and you may need to load Templates several times to buy all upgrades.</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
     <div class="shlisting">
