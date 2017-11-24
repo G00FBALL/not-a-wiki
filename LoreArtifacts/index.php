@@ -228,7 +228,7 @@
     <p><b>Cost</b>: Free
     <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
     <p><b>------------------------------</b></p>
-    <p><b>Description</b>: Will tell you 1 of 23 statements at random.</p>
+    <p><b>Description</b>: Will tell you 1 of 23 statements at random. (Changes every 30 seconds)</p>
     <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")
     <p><b>Statement</b>: 2 ("Ride on the wings of justice!")
     <p><b>Statement</b>: 3 ("Remember to eat healthy meals plenty.")
@@ -248,10 +248,11 @@
     <p><b>Statement</b>: 17 ("Time is money, friend.")
     <p><b>Statement</b>: 18 ("Never say Ni!")
     <p><b>Statement</b>: 19 ("What is this to you? A game?")
-    <p><b>Statement</b>: 20 ("There\'s always a bigger fish.")
+    <p><b>Statement</b>: 20 ("There's always a bigger fish.")
     <p><b>Statement</b>: 21 ("Awaken my child, and embrace the glory that is your birthright.")
     <p><b>Statement</b>: 22 ("Give up now.")
     <p><b>Statement</b>: 23 ("The wandering soul knows no rest.")
+    <p><b>Statement</b>: 23 ("Better luck after you get the 42.")
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
