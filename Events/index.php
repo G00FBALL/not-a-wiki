@@ -72,15 +72,6 @@
                 <p><b>Cost</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.
                 <p><b>Formula</b>: x ^ 1.15, where x is Rubies you own.
-                <p><b>----------------------------------</b>
-                <p><b>Thanksgiving</b>.
-                <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements
-                <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)
-                <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
-                <p><b>Kind</b>: Upgrade/Feat
-                <p><b>Requirements</b>: Play during Thanksgiving
-                <p><b>Cost</b>: Free
-                <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.
             </div>
         </div>
         <div class="shelementwhole">
