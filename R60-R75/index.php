@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Oct. 27th 2017</b>
+    <p><b>Updated Nov. 24th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -98,7 +98,7 @@
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D200,D250,D290,D1125,D1275,D1375,
                 <p>E135,E145,E320,E1225,E1425,
-                <p>A120,A300,A305,A400,A1325,
+                <p>A120,A305,A400,A545,A1325,
                 <p>W150,W180,W250,W400,W1375
                 <p><b>Notes</b>: Estimated run time is 1.5-2 hours.
          </div>
@@ -153,7 +153,7 @@
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D245,D275,D1125,D1275,D1375,
                 <p>E135,E145,E250,E290,E1225,E1425,
-                <p>A120,A305,A375,A400,A1325,A1500,
+                <p>A120,A305,A400,A545,A1325,A1500,
                 <p>W150,W180,W250,W400,W1375
                 <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 125k building requirement.
                 <p><b>Notes</b>: Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of target is irrelevant for this build.
