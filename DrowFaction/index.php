@@ -81,7 +81,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>
 <p><b>Effect</b>: Part of the Combo Strike chain bonus is applied passively.</p>
-<p><b>Formula</b>: 0.3*x, where x is your current Combo Strike bonus.</p>
+<p><b>Formula</b>: x, where x is your current Combo Strike bonus.</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowHeritage.png" alt="Drow Heritage" align="middle"><b> Drow Heritage</b></p>
 <p><b>Cost</b>: 75,000 Drow Coins</p>
