@@ -177,13 +177,6 @@
 <p><b>Formula</b>: round(0.05 * x^0.7)%, where x is time spent as other factions.
 <br/>
 <br/>
-<p><b>A545</b> - <b>For</b>: All Factions - <b>Research Name</b>: Mineralogy 
-<p><b>Requirement</b>: 700 trophies 
-<p><b>Cost</b>: 466.3 DSpg (4.663E221) 
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of rubies you own. 
-<p><b>Formula</b>: 10 * x^1.05%, where x is your Rubies Gained (All Time) stat.
-<br/>
-<br/>
 <p><b>A590</b> - <b>For</b>: Undead,Drow - <b>Research Name</b>: Hexing 
 <p><b>Requirement</b>: 200 Drow Exchanges as Drodead, Research Cursing (D25) and Poisons (A410) 
 <p><b>Cost</b>: 39.16 QiSpg (3.916E229) 
