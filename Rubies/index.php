@@ -70,6 +70,7 @@
     <p>Ruby power bonus will also increase by Tier based on all-time amounts of Rubies collected. See Ruby Upgrades for more details.
     <p><b>------------------------------</b>
     <p><b>Ruby Upgrades</b>
+    <p><b>Note</b>: All Ruby upgrades have both an additive and a multiplicative bonus.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RubyUpgradePanel.png" alt=""></p>
     <p><b>Ruby Assistant</b></p>
     <p><b>Cost</b>: 1 Ruby (+ 1 for every time this upgrade has been purchased)
