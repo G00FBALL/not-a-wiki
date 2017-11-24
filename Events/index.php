@@ -25,39 +25,64 @@
     <p><b>Anniversary 2017</b>: 8%
     <p><b>Goblin Invasion 2017</b>: 8%</p>
     <br/>
-
-    <br/>
-    <img src="/realm/Factions/picks/TotalEvents.png" usemap="#TotalEvents-map">
-    <map name="TotalEvents-map">
-        <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,5,60,58" shape="rect">
-        <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.    " coords="71,7,124,60" shape="rect">
-        <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="135,7,189,58" shape="rect">
-        <area target="" research="Christmas<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="198,7,253,60" shape="rect">
-        <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="262,7,316,60" shape="rect">
-        <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="326,7,380,58" shape="rect">
-        <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="389,7,445,60" shape="rect">
-        <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="6,69,60,123" shape="rect">
-        <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="69,69,125,122" shape="rect">
-        <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)	" coords="135,69,189,122" shape="rect">
-        <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction.	To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating" coords="200,71,251,122" shape="rect">
-        <area target="" research="Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="264,71,315,122" shape="rect">
-        <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="327,71,380,122" shape="rect">
-        <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="391,71,444,122" shape="rect">
-        <area target="" research="Summer Festival<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="6,133,60,187" shape="rect">
-        <area target="" research="Halloween<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="69,133,124,189" shape="rect">
-        <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="133,133,187,189" shape="rect">
-        <area target="" research="Halloween<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="197,133,251,186" shape="rect">
-        <area target="" research="Halloween<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="260,133,316,187" shape="rect">
-        <area target="" research="Halloween<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="324,133,380,187" shape="rect">
-        <area target="" research="Anniversary<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="386,131,446,187" shape="rect">
-        <area target="" research="Anniversary<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="3,194,62,252" shape="rect">
-        <area target="" research="Anniversary<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="67,194,124,251" shape="rect">
-        <area target="" research="Anniversary<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="131,193,189,251" shape="rect">
-        <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="197,193,254,252" shape="rect">
-        <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="260,193,317,252" shape="rect">
-        <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="324,196,382,253" shape="rect">
+    <p><img src="/realm/Factions/picks/TotalEvents2017.png" usemap="#TotalEvents2017-map">
+    <map name="TotalEvents2017-map">
+    <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,7,62,61" shape="rect">
+    <area target="" research="Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="69,5,126,62" shape="rect">
+    <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants." coords="133,5,189,61" shape="rect">
+    <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="196,5,254,62" shape="rect">
+    <area target="" research="Christmas<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="260,5,317,61" shape="rect">
+    <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,5,380,62" shape="rect">
+    <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="387,5,446,61" shape="rect">
+    <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="6,68,60,126" shape="rect">
+    <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="69,68,124,125" shape="rect">
+    <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="131,68,189,125" shape="rect">
+    <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)" coords="196,67,253,125" shape="rect">
+    <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating" coords="260,69,318,125" shape="rect">
+    <area target="" research="Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="324,67,380,125" shape="rect">
+    <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="386,68,445,125" shape="rect">
+    <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="4,131,62,189" shape="rect">
+    <area target="" research="Summer Festival<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="67,132,124,189" shape="rect">
+    <area target="" research="Halloween<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="133,131,189,188" shape="rect">
+    <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="196,132,253,189" shape="rect">
+    <area target="" research="Halloween<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="260,132,317,188" shape="rect">
+    <area target="" research="Halloween<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="324,133,380,189" shape="rect">
+    <area target="" research="Halloween<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="389,131,444,188" shape="rect">
+    <area target="" research="Anniversary<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="4,194,62,252" shape="rect">
+    <area target="" research="Anniversary<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="69,194,126,251" shape="rect">
+    <area target="" research="Anniversary<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="133,196,189,252" shape="rect">
+    <area target="" research="Anniversary<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="197,195,251,251" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="260,196,317,251" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="324,194,382,252" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="387,196,446,252" shape="rect">
     </map>
+    <br/>
+    <br/>
     <div class="shlisting">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Ruby Shine (Nov 27 - Nov 30, 2017)</a></b></p>
+            <div class="autohide">
+                <p><b>Ruby Shine</b>
+                <p>Your miners have found a rich vein of Rubies within your realm! With the abundance of new specimen, researchers discovered ways to grant better improvements to your production. They also sent a sample of the new minerals collected for you to try out!
+                <p>You will receive 3 Rubies per day during the Ruby Shine event.
+                <p><b>Note</b>: There is no Cumulative and Permanent Bonuses from these 2 Events.
+                <p><b><img src="/realm/Factions/picks/RubyShineUpgrade.png" alt="Ruby Shine" align="middle"> Ruby Shine</b>
+                <p><b>Kind</b>: Upgrade/Feat
+                <p><b>Requirements</b>: Play during the Ruby Shine event.
+                <p><b>Cost</b>: Free
+                <p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.
+                <p><b>Formula</b>: x ^ 1.15, where x is Rubies you own.
+                <p><b>----------------------------------</b>
+                <p><b>Thanksgiving</b>.
+                <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements
+                <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)
+                <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
+                <p><b>Kind</b>: Upgrade/Feat
+                <p><b>Requirements</b>: Play during Thanksgiving
+                <p><b>Cost</b>: Free
+                <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 30 - Nov 06, 2017)</a></b></p>
             <div class="autohide">
@@ -80,7 +105,7 @@
                 <p><b>Kind</b>: Upgrade
                 <p><b>Unlock / Price</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on Halloween Resources collected. Increases as you gain new monsters.
-                <p><b>Formula</b>: Formula: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4
+                <p><b>Formula</b>: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4
                 <p><b>----------------------------------</b>
                 <p>Collect all 4 Quest to complete a Feat
                 <p>Collect 6 Pumpkin Smashers to complete a Feat
@@ -846,8 +871,9 @@
                 <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements
                 <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)
                 <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
-                <p><b>Kind</b>:Feat
-                <p><b>Unlock / Price</b>: Play during Thanksgiving
+                <p><b>Kind</b>: Upgrade/Feat
+                <p><b>Requirements</b>: Play during Thanksgiving
+                <p><b>Cost</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.
                 <p><b>Note</b>: This is a repeat of the 1st Realm Grinder Event.
             </div>
@@ -1333,8 +1359,9 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving Event (Nov 26 - Nov 30, 2015)</a></b></p>
             <div class="autohide">
                 <p><b><img src="/realm/Factions/picks/Thanksgiving2015.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
-                <p><b>Kind</b>:Feat
-                <p><b>Unlock / Price</b>: Play during Thanksgiving
+                <p><b>Kind</b>: Upgrade/Feat
+                <p><b>Requirements</b>: Play during Thanksgiving
+                <p><b>Cost</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.
                 <p><b>Note</b>: This was the 1st time Realm Grinder had an Event. The Feats not giving any bonus must have not been decided then.
                 <p><b>----------------------------------</b>
