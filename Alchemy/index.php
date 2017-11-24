@@ -173,8 +173,8 @@
 <p><b>A545</b> - <b>For All Factions</b> - <b>Research Name</b>: Mineralogy 
 <p><b>Requirement</b>: 700 trophies 
 <p><b>Cost</b>: 466.3 DSpg (4.663E221) 
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of rubies you own. 
-<p><b>Formula</b>: 10 * x^1.05%, where x is your Rubies Gained (All Time) stat.
+<p><b>Effect</b>: Increases mana regeneration based on Gems you own. 
+<p><b>Formula</b>:  log10(x) / 2, where x is Gems you own.
 <br/>
 <br/>
 <p><b>A590</b> - <b>For Undead,Drow</b> - <b>Research Name</b>: Hexing 
@@ -208,7 +208,7 @@
 <p><b>A2950</b> - <b>For Mercenary</b> - <b>Research Name</b>: Combination 
 <p><b>Requirement</b>: All Lineages Level at 15.  
 <p><b>Cost</b>: 259 SxQig (2.59e173) 
-<p><b>Effect</b>: Select an additional bloodline. 
+<p><b>Effect</b>: Select an aditional bloodline. 
 <p><b>Effect</b>: You also gain all the base effect of its respective Lineage. 
 <br/>
 <br/>
