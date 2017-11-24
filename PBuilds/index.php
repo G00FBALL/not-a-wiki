@@ -139,7 +139,7 @@
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: 1e130-1e139</p>
-                    <p>S135,S180,S200,S330,S590,</p>
+                    <p>S135,S180,S215,S330,S590,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
                     <p>E50,E135,E150,E330,E410,</p>
@@ -157,7 +157,7 @@
                     <p><b>Faction</b>: Angels/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e138-Ascension</p>
-                    <p>S135,S150,S200,S250,S330,</p>
+                    <p>S135,S150,S215,S250,S330,</p>
                     <p>C25,C120,C150,C330,C400,</p>
                     <p>D1,D55,D290,D320,D435,</p>
                     <p>E80,E150,E250,E330,E410,</p>
@@ -173,7 +173,7 @@
                     <p><b>Faction</b>: Angels/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e138-Ascension</p>
-                    <p>S135,S150,S200,S250,S330,</p>
+                    <p>S135,S150,S215,S250,S330,</p>
                     <p>C25,C120,C150,C330,C400,</p>
                     <p>D1,D55,D320,D435,D590</p>
                     <p>E80,E150,E250,E330,E410,</p>
