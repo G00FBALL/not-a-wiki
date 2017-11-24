@@ -228,7 +228,7 @@
     <p><b>Cost</b>: Free
     <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
     <p><b>------------------------------</b></p>
-    <p><b>Description</b>: Will tell you 1 of 23 statements at random. (Changes every 30 seconds)</p>
+    <p><b>Description</b>: Will tell you 1 of 24 statements at random. (Changes every 30 seconds)</p>
     <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")
     <p><b>Statement</b>: 2 ("Ride on the wings of justice!")
     <p><b>Statement</b>: 3 ("Remember to eat healthy meals plenty.")
