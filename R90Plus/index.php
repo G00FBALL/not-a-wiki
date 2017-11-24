@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Oct. 26th 2017</b>
+    <p><b>Updated Nov. 24th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
 <br/>
 <br/>
@@ -285,13 +285,13 @@
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Elf
                     <p><b>Template</b>
-                    <p>EL7,AN3,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG6,DG9,
+                    <p>EL7,DG3,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG6,DG9,
                     <p>SP:God's Hand,SP:Fairy Chanting,
                     <p>S215,S305,S400,S1450,S1500,S3200,
                     <p>C340,C400,C590,C1300,C3000,C3100,
                     <p>D25,D245,D590,D1275,D1375,D2775,
                     <p>E135,E260,E350,E1225,E1425,E3250,
-                    <p>A120,A590,A1200,A1500,A2950,A3400,
+                    <p>A120,545,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
                     <p><b>Notes</b>: Estimated 40 minutes for GB11 and 1.5-2 days for Mana Ocean assuming no S400 buff.
         </div>
@@ -333,7 +333,7 @@
                     <p>C250,C340,C590,C1300,C1500,C3000,
                     <p>D25,D200,D245,D1275,D1375,D2775,
                     <p>E10,E135,E145,E350,E1225,E3250,
-                    <p>A120,A410,A590,A1500,A2950,A3400,
+                    <p>A120,A545,A590,A1500,A2950,A3400,
                     <p>W180,W205,W400,W525,W3050,W3150
                     <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
                     <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
@@ -356,7 +356,7 @@
                     <p>C250,C305,C340,C590,C1300,C3000,
                     <p>D25,D200,D245,D275,D1275,D2775,
                     <p>E10,E135,E145,E350,E1225,E3250,
-                    <p>A120,A150,A590,A1500,A2950,A3400,
+                    <p>A120,A545,A590,A1500,A2950,A3400,
                     <p>W180,W205,W400,W525,W3050,W3150
                     <p><b>Notes</b>: Takes some time to reach mana waste, based on C305 growth. Maintaining x2 blue breath will be benefitial, but not necessary.
                     <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
@@ -380,7 +380,7 @@
                     <p>C25,C250,C305,C590,C1300,C3100,
                     <p>D25,D200,D245,D275,D330,D1275,
                     <p>E10,E135,E145,E590,E1225,E3250,
-                    <p>A120,A410,A590,A1500,A2950,A3400,
+                    <p>A120,A545,A590,A1500,A2950,A3400,
                     <p>W205,W400,W525,W560,W1400,W3050
                     <p><b>Notes</b>: Alternative of the above S400 build, that requires Dragon Breath to cast x2 blue breath to be better. To do so, you have to export/import the save until Dragon's Breath is casting x2 blue every time the spell recasts. To be better than above build, you must maintain x2 blue at least 40% of the time.
                     <p><b>Notes</b>: Estimated run time 5-7 to 8-10 days (Depending on maintained blue x2 time) to unlock Spell Master trophy.
@@ -429,7 +429,7 @@
                     <p>C25,C250,C305,C590,C1300,C3100,
                     <p>D25,D200,D245,D275,D330,D1275,
                     <p>E135,E145,E350,E590,E1225,E3250,
-                    <p>A120,A410,A590,A1500,A2950,A3400,
+                    <p>A120,A545,A590,A1500,A2950,A3400,
                     <p>W205,W400,W525,W560,W1400,W3050
                     <p><b>Notes</b>: Do **NOT** go offline or export/import as it will reset the brainwave cast and therefore S375, slowing down your progress.
                     <p><b>Notes</b>: Replace EL3 with FC3 for runs over 1.5 days.
