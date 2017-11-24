@@ -5,7 +5,7 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.2 November 4th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.2 November 24th, 2017</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Ruby Shine event will be starting on Nov 27th 2017, 1.01 PM UTC and will end on Nov 30th 2017, 5.59 PM UTC.</p>
                 <p>Factions Coins from Scry are now based on Faction Coin find chance and assistants instead of production.</p>
