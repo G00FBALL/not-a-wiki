@@ -8,6 +8,8 @@
     <h5>Permanent Upgrades</h5>
     <p>These upgrades persist through Abdications, Reincarnations, and even hard resets They are linked to your Kongregate account and you must be logged in for them to work.</p>
     <p>The Gift bonuses can be turned off in the options (which can be necessary to unlock some Secret Trophies).</p>
+    <p><b>Note</b>: All Gifts provide a 250% offline bonus.</p>
+    <p><b>Note</b>: All Gifts bonuses to Faction Coin find chance are both additive and multiplicative.
     <p><b>------------------------------</b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/EventSale.png" alt="Event Sale" align="middle"> Event Sale</b></p>
     <p>During certain Events you will be able to buy "Gift of the Heroes" at 50% off
@@ -28,7 +30,8 @@
     <p><b>Effects</b>: Increases the production of all buildings by 100%, click rewards by 50%, Faction Coin chance by 15%, offline production by 100%, and mana regeneration by 10%.</p>
     <p>Also, you will gain +100Td (1E44) gold and +25000 Faction Coins for each unlocked faction on every Abdication or hard reset.</p>
     <p><b>------------------------------</b>
-    <h5>Rubies:</h5>
+    <h5>Rubies</h5>
+    <p><b>Note</b>: All Ruby upgrades have both an additive and a multiplicative bonus.</p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Buy22Rubies.png" alt="Buy 22 Rubies" align="middle"> Buy 22 Rubies</b></p>
     <p><b>Cost</b>: 50 Kreds</p>
     <p><b>Effect</b>: This purchase will increase your Ruby Production Bonus to tier 1, increasing your bonus from 100% to 200%!</p>
