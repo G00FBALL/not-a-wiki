@@ -404,7 +404,7 @@
                     <p>C250,C305,C340,C590,C1300,C3000,
                     <p>D25,D200,D245,D275,D330,D1275,
                     <p>E10,E135,E145,E350,E1225,E3250,
-                    <p>A120,A150,A590,A1500,A2950,A3400,
+                    <p>A120,A150,A545,A1500,A2950,A3400,
                     <p>W180,W205,W400,W525,W3050,W3150
                     <p><b>Notes</b>: Do **NOT** go offline or export/import as it will reset the brainwave cast and therefore S375, slowing down your progress.
                     <p><b>Notes</b>: Replace EL3 with FC3 for runs over 1.5 days.
