@@ -11,7 +11,7 @@
 <p><b>Challenge</b>: Have 7200 Halls of Legends. 
 <p><b>Effect</b>: Mutiplicatively increase faction coin chance by 10% per Lightning Strike tier bought.
 <p><b>Effect</b>: Also increase Post-Ascension bonuses for Titan Drill and Titan Sized Walls.
-<p><b>Formula</b>: (250000^2.5)% and (25000^2.5)
+<p><b>Formula</b>: (250000^2.4)% and (25000^2.4)%
 <p><b>Upgrade</b>: Good for Titan/Dragon
 <p><b>----------------------------------</b></p>
 <p><b>Dragon Challenge 2</b>: 
