@@ -65,7 +65,7 @@
                 <p><b>Ruby Shine</b>
                 <p>Your miners have found a rich vein of Rubies within your realm! With the abundance of new specimen, researchers discovered ways to grant better improvements to your production. They also sent a sample of the new minerals collected for you to try out!
                 <p>You will receive 3 Rubies per day during the Ruby Shine event.
-                <p><b>Note</b>: There is no Cumulative and Permanent Bonuses from these 2 Events.
+                <p><b>Note</b>: There is no Cumulative and Permanent Bonuses from this Events.
                 <p><b><img src="/realm/Factions/picks/RubyShineUpgrade.png" alt="Ruby Shine" align="middle"> Ruby Shine</b>
                 <p><b>Kind</b>: Upgrade/Feat
                 <p><b>Requirements</b>: Play during the Ruby Shine event.
