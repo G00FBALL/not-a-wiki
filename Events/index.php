@@ -8,9 +8,6 @@
     <a target="_blank" href="http://www.wolframalpha.com/input/?i=nov+04+2016+7.59+pm+utc"><b><font color="red">Event end timer</b></font></a>-->
     </br>
     </br>
-    <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
-    <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
-        </br>
     <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.
     <p><b>Event Panel</b>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.
@@ -58,6 +55,9 @@
     </map>
     <br/>
     <br/>
+    <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
+    <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
+        </br>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Ruby Shine (Nov 27 - Nov 30, 2017)</a></b></p>
