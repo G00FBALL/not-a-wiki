@@ -127,6 +127,13 @@
 <p><b>Formula</b>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
 <br/>
 <br/>
+<p><b>A545</b> - <b>For</b>: All Factions - <b>Research Name</b>: Mineralogy 
+<p><b>Requirement</b>: 700 trophies 
+<p><b>Cost</b>: 466.3 DSpg (4.663E221) 
+<p><b>Effect</b>: Increases mana regeneration based on Gems you own.
+<p><b>Formula</b>: log10(x) / 2, where x is Gems you own. 
+<br/>
+<br/>
 <p><b>A1325</b> - <b>For</b>: Any - <b>Research Name</b>: Calefaction
 <p><b>Requirement</b>: 4500 Excavations (This R)
 <p>Cost: 601.6 Tvg (6.016E74)
