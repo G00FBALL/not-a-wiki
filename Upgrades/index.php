@@ -1736,7 +1736,7 @@
             <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-            <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.35).
+            <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
             <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
             <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat and A is Ascension count.
