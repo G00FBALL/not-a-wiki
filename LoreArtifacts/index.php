@@ -223,6 +223,11 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/FortuntTellerMachineArtifact.png" alt="FortuntTellerMachine" align="middle"><b> Fortune Teller Machine</b></p>
     <p><b>Requirement</b>: Excavate (Chance 0.1%)</p>
     <p><b>Alignment</b>: Any (No Faction)
+    <p><b>Upgrade Requirement</b>: R42+
+    <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)
+    <p><b>Cost</b>: Free
+    <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
+    <p><b>------------------------------</b></p>
     <p><b>Description</b>: Will tell you 1 of 23 statements at random.</p>
     <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")
     <p><b>Statement</b>: 2 ("Ride on the wings of justice!")
@@ -310,15 +315,4 @@
     <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
     <p><b>Chance:</b>: (log10(assistants)/100)%
-
-
-
-
-
-
-
-
-
-
-
-        <?php include "../scripts/footer.html"; ?>
+    <?php include "../scripts/footer.html"; ?>
