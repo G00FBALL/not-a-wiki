@@ -517,7 +517,7 @@
                 <p><b>Mercenary Template</b>: DD7
                 <p><b>Cost</b>: 50 Oc (5E28)</p>
                 <p><b>Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
-                <p><b>Formula</b>: 1+2.5*x, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+                <p><b>Formula</b>: 3.75 * (4.25 * (12 - T)), where T is building tier.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" alt="Earthly Soul" align="middle"> Earthly Soul</b></p>
                 <p><b>Mercenary Template</b>: DD8
                 <p><b>Cost</b>: 500 Oc (5E29)</p>
