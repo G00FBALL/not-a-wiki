@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Oct. 26th 2017</b>
+    <p><b>Updated Nov. 24th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -233,7 +233,7 @@
                     <p>C250,C340,C400,C590,C1300,C1325,
                     <p>D25,D200,D245,D250,D1275,D2775,
                     <p>E135,E275,E320,E460,E590,E1425,
-                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>A105,A120,A305,A545,A1325,A1500,
                     <p>W150,W180,W250,W275,W400,W1375
                     <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
                     <p><b>Build has three stages</b>:
@@ -260,7 +260,7 @@
                     <p>C250,C340,C400,C590,C1300,C1325,
                     <p>D25,D200,D245,D250,D1275,D2775,
                     <p>E135,E275,E320,E590,E1225,E1425,
-                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>A105,A120,A305,A545,A1325,A1500,
                     <p>W150,W180,W250,W275,W400,W1375
         </div>
     </div>
@@ -278,7 +278,7 @@
                     <p>C250,C340,C400,C590,C1300,C1325,
                     <p>D25,D200,D245,D250,D1275,D2775,
                     <p>E135,E275,E320,E590,E1225,E1425,
-                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>A105,A120,A305,A545,A1325,A1500,
                     <p>W150,W180,W250,W275,W400,W1375
         </div>
     </div>
@@ -296,7 +296,7 @@
                     <p>C250,C340,C400,C590,C1300,C1325,
                     <p>D25,D200,D245,D250,D1275,D2775,
                     <p>E135,E275,E320,E590,E1225,E1425,
-                    <p>A105,A120,A305,A375,A1325,A1500,
+                    <p>A105,A120,A305,A545,A1325,A1500,
                     <p>W150,W180,W250,W275,W400,W1375
         </div>
     </div>
@@ -347,7 +347,7 @@
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D245,D1275,D1375,D2775,
                     <p>E10,E135,E145,E1225,E1325,E3250,
-                    <p>A10,A120,A175,A410,A1500,A2950,
+                    <p>A10,A120,A410,A545,A1500,A2950,
                     <p>W180,W275,W400,W525,W3050,W3150
         </div>
     </div>
