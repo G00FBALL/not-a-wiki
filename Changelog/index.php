@@ -5,6 +5,22 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
     <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.2 November 4th, 2017</a></b></p>
+        <div class="autohide">
+                <p><b>Global Reminder</b>: The Ruby Shine event will be starting on Nov 27th 2017, 1.01 PM UTC and will end on Nov 30th 2017, 5.59 PM UTC.</p>
+                <p>Factions Coins from Scry are now based on Faction Coin find chance and assistants instead of production.</p>
+                <p>Mana regeneration bonus from Scry now lasts 30 minutes, up from 10.</p>
+                <p>All Gifts now provide a 250% offline bonus. All Gifts bonuses to Faction Coin find chance now are both additive and multiplicative.</p>
+                <p>All Ruby upgrades now have both an additive and a multiplicative bonus (instead of just additive).</p>
+                <p>New upgrade introduced, based on an old artifact. </p>
+                <p>Alchemy 545 (Mineralogy) reworked: now increases mana regen based on Gems you own instead of its previous effect.</p>
+                <p>Fixed an issue with Spellcraft 215 (Projection), Craftsmanship 300 (Weighting) and Mabinogion causing them to have an unintended effect.</p>
+                <p>Sun Force: assistants scaling reduced. Sun Force: Production and Sun Force: Offline Bonus scaling increased in higher ascensions. 
+                <p> Dragon Challenge 1 bonus to titan upgrades scaling reduced.</p>
+                <p>Typos and bugfixes.</p>
+        </div>
+    </div>
+    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.1 October 25th, 2017</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on November 6th, 2017 at 7:59PM.</p>
