@@ -1271,418 +1271,420 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Secret Upgrades</a></b></p>
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedRodentSecretUpgrade.png" alt="Fossilized Rodent" align="middle"><b> Fossilized Rodent</b></p>
+            <p><b>Requirements</b>: Find the Fossilized Rodent artifact.
             <p><b>Cost</b>: 100 Qid (1E50)
-            <p><b>Unlock Requirements</b>: Find the Fossilized Rodent artifact.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases clicking reward by 10% for each artifact you discovered.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceSecretUpgrade.png" alt="Ancient Device" align="middle"><b> Ancient Device</b></p>
+            <p><b>Requirements</b>: Find the Ancient Device artifact.
             <p><b>Cost</b>: 100 QiSxg (1E200)
-            <p><b>Unlock Requirements</b>: Find the Ancient Device artifact.
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Provides 2 additional slots: 1 for each related Neutral Faction Facility you are playing.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/LegacyoftheDwarvenKingsSecretUpgrade.png" alt="Legacy of the Dwarven Kings" align="middle"><b> Legacy of the Dwarven Kings</b></p>
+            <p><b>Requirements</b>: Find the Horn of the Kings artifact.
             <p><b>Cost</b>: 10 SxSpg (1E232), 100m Dwarven Coins
-            <p><b>Unlock Requirements</b>: Find the Horn of the Kings artifact.
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Adds 3 extra research slots: 2 for Craftsmanship and 1 to the good faction's facility you are playing.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DarkLightofBondelnarSecretUpgrade.png" alt="Dark Light of Bondelnar" align="middle"><b> Dark Light of Bondelnar</b></p>
+            <p><b>Requirements</b>: Find the Flame of Bondelnar artifact.(Requires Spider Sanctuaries and 3250 Excavations - To reach excavations above 3250 to obtain the flame, use <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Flame Chance</b></a> research build.
             <p><b>Cost</b>: 10 SxSpg (1E232), 100m Drow Coins
-            <p><b>Unlock Requirements</b>: Find the Flame of Bondelnar artifact.(Requires Spider Sanctuaries and 3250 Excavations - To reach excavations above 3250 to obtain the flame, use <a href="http://musicfamily.org/realm/PBuilds/">Flame Chance</a> research build.)
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Adds 3 extra research slots: 2 for Warfare and 1 to the evil faction's facility you are playing.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ScarabofFortuneSecretUpgrade.png" alt="Scarab of Fortune" align="middle"><b> Scarab of Fortune</b></p>
+            <p><b>Requirements</b>: Excavate Chance: (#Ancient Pyramids)% / 1000
             <p><b>Cost</b>: 7 Td (7E42)
-            <p><b>Unlock Requirements</b>: Excavate Chance: (#Ancient Pyramids)% / 1000
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings by 0.1% for each trophy you unlocked.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PowerOrbSecretUpgrade.png" alt="Power Orb" align="middle"><b> Power Orb</b></p>
+            <p><b>Requirements</b>: Excavate
             <p><b>Cost</b>: 1 Qavg (1E75)
-            <p><b>Unlock Requirements</b>: Excavate Chance: (# treasure clicks this R / 5,000,000)= 1%
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases click reward by 10% per artifact you discovered.
+            <p><b>Chance</b>: (# treasure clicks this R / 5,000,000)= 1%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VinillaFlavorJuiceSecretUpgrade.png" alt="Vinilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
+            <p><b>Requirements</b>: +R16 Chance: Excavate 20% in the first 5m of a game.
             <p><b>Cost</b>: 1 Coin
-            <p><b>Unlock Requirements</b>: +R16 Chance: Excavate 20% in the first 5m of a game .
             <p><b>Alignment</b>: Mercenaries
             <p><b>Effect</b>: Increases the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
+            <p><b>Requirements</b>: Play as Mercenaries, have upgrades from each 11 factions, R12+ Excavate
             <p><b>Cost</b>: 100 Vg (1E65)
-            <p><b>Unlock Requirements</b>: Play as Mercenaries, have upgrades from each 11 factions. +R12 Excavate Chance: 10%
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)
             <p><b>Formula</b>: (0.5 * x^0.75)%, where x is amount of time spent as non-mercenary factions (in seconds).
+            <p><b>Chance</b>: 10%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VoodooDollSecretUpgrade.png" alt="Voodoo Doll" align="middle"><b> Voodoo Doll</b></p>
+            <p><b>Requirements</b>: Play as Evil, Chance: (number of Witch Conclaves/10,000)= 1%
             <p><b>Cost</b>: 20 Qig (2E154)
-            <p><b>Unlock Requirements</b>: Play as Evil, Chance: (number of Witch Conclaves/10,000)= 1%
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Increases the production of all building by 0.1% for each trophy you have unlocked.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragmentSecretUpgrade.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
+            <p><b>Requirements</b>: R40, At least 1 Ascension
             <p><b>Cost</b>: 1 M (1E6)
-            <p><b>Unlock Requirements</b>: R40, At least 1 Ascension/Chance: 10% (Should get it with 10 Excavations or less)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings based on their tier.
             <p><b>Formula</b>: 100*(x-1)^2%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
+            <p><b>Chance</b>: 10% (Should get it with 10 Excavations or less)
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretUpgrade.png" alt="Leet" align="middle"><b> Leet</b></p>
+            <p><b>Requirements</b>: Have 1337 coins at any given time.
             <p><b>Cost</b>: 10 M (1E6)
-            <p><b>Unlock Requirements</b>: Have 1337 coins at any given time.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings by 1.337%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretUpgrade.png" alt="Unitary" align="middle"><b> Unitary</b></p>
+            <p><b>Requirements</b>: Have exactly 1 of every building.
             <p><b>Cost</b>: 10 M (1E6)
-            <p><b>Unlock Requirements</b>: Have exactly 1 of every building.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings by 1.11111111%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretUpgrade.png" alt="Building Hater" align="middle"><b> Building Hater</b></p>
+            <p><b>Requirements</b>: Reach 100,000 coins without building anything.
             <p><b>Cost</b>: 10 Dc (1E34)
-            <p><b>Unlock Requirements</b>: Reach 100,000 coins without building anything.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase clicking reward by 25%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretUpgrade.png" alt="Grand Diplomat" align="middle"><b> Grand Diplomat</b></p>
+            <p><b>Requirements</b>: Ally with each Vanilla and Prestige faction at least once.
             <p><b>Cost</b>: 6 T (6E12)
-            <p><b>Unlock Requirements</b>: Ally with each Vanilla and Prestige faction at least once.
-            <p><b>Alignment</b>: Any
+            <p><b>Alignment</b>: All (1 at a time)
             <p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 1%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretUpgrade.png" alt="Exchange Master" align="middle"><b> Exchange Master</b></p>
+            <p><b>Requirements</b>: Purchase 500 Royal Exchanges in a single game.
             <p><b>Cost</b>: 500 Dc (5E35)
-            <p><b>Unlock Requirements</b>: Purchase 500 Royal Exchanges in a single game.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Royal Exchange bonus by 5%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretUpgrade.png" alt="Lucky Neutral" align="middle"><b> Lucky Neutral</b></p>
+            <p><b>Requirements</b>: 7777 minutes being Neutral across all reincarnations (5d + 9:37:00)
             <p><b>Cost</b>: 30 No (3E31)
-            <p><b>Unlock Requirements</b>: 7777 minutes being Neutral across all reincarnations (5d + 9:37:00)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of Neutral buildings by 50%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretUpgrade.png" alt="Perfectly Good" align="middle"><b> Perfectly Good</b></p>
+            <p><b>Requirements</b>: 333 hours being good across all reincarnations (13d + 21:00)
             <p><b>Cost</b>: 30 No (3E31)
-            <p><b>Unlock Requirements</b>: 333 hours being good across all reincarnations (13d + 21:00)
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Increase the production of Good buildings by 50%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretUpgrade.png" alt="Diabolical Evil" align="middle"><b> Diabolical Evil</b></p>
+            <p><b>Requirements</b>: 6 days, 66 hours, 666 minutes and 666666 seconds being Evil across all reincarnations (16d + 22:17:06)
             <p><b>Cost</b>: 30 No (3E31)
-            <p><b>Unlock Requirements</b>: 6 days, 66 hours, 666 minutes and 666666 seconds being Evil across all reincarnations (16d + 22:17:06)
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Increase the production of Evil buildings by 50%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretUpgrade.png" alt="Assistant Squasher" align="middle"><b> Assistant Squasher</b></p>
+            <p><b>Requirements</b>: Click 100 times on the little assistant beside the treasure.
             <p><b>Cost</b>: 100 Qa (1E17)
-            <p><b>Unlock Requirements</b>: Click 100 times on the little assistant beside the treasure.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Instantly add 1 additional assistant
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RewindSecretUpgrade.png" alt="Rewind" align="middle"><b> Rewind</b></p>
+            <p><b>Requirements</b>: Abdicate after producing at least 1 Oc (1E27) Coins.
             <p><b>Cost</b>: 1 Oc (1E27)
-            <p><b>Unlock Requirements</b>: Abdicate after producing at least 1 Oc (1E27) Coins.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings by 8%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretUpgrade.png" alt="Faction Grinder" align="middle"><b> Faction Grinder</b></p>
+            <p><b>Requirements</b>: Purchase all the Faction Heritage upgrades in a single Game.
             <p><b>Cost</b>: 6 Oc (6E27)
-            <p><b>Unlock Requirements</b>: Purchase all the Faction Heritage upgrades in a single Game.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase your chance (and chance cap) to find Faction Coins by additional 1%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretUpgrade.png" alt="Master Archeologist" align="middle"><b> Master Archeologist</b></p>
+            <p><b>Requirements</b>: Discover and purchase all the relics of the Ancient Races.
             <p><b>Cost</b>: 1 Ud (1E36)
-            <p><b>Unlock Requirements</b>: Discover and purchase all the relics of the Ancient Races.
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SpellfurySecretUpgrade.png" alt="Spellfury" align="middle"><b> Spellfury</b></p>
+            <p><b>Requirements</b>: Cast Tax Collection while having 3 other spells active.
             <p><b>Cost</b>: 4 Dc (4E33)
-            <p><b>Unlock Requirements</b>: Cast Tax Collection while having 3 other spells active.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana production by 5%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SpeedRunSecretUpgrade.png" alt="Speedrun" align="middle"><b> Speedrun</b></p>
+            <p><b>Requirements</b>: Reach 1M (1E6) coins in less than 5 minutes, without using Gem Power
             <p><b>Cost</b>: 10 coins
-            <p><b>Unlock Requirements</b>: Reach 1M (1E6) coins in less than 5 minutes, without using Gem Power
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase your base clicking reward by 1M
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretUpgrade.png" alt="Equality" align="middle"><b> Equality</b></p>
+            <p><b>Requirements</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.
             <p><b>Cost</b>: 1 Qad (1E45)
-            <p><b>Unlock Requirements</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings by 100%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretUpgrade.png" alt="Beard Carpet" align="middle"><b> Beard Carpet</b></p>
+            <p><b>Requirements</b>: Have at least 3km beards on your assistants (using Dwarf 2,3)
             <p><b>Cost</b>: 10 Nod (1E61)
-            <p><b>Unlock Requirements</b>: Have at least 3km beards on your assistants (using Dwarf 2,3)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase assistants production by 10%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PremeditationSecretUpgrade.png" alt="Premeditation" align="middle"><b> Premeditation</b></p>
+            <p><b>Requirements</b>: Have at least 850 Dark Temples before affiliating with the Drow.
             <p><b>Cost</b>: 50 Ocd (5E58)
-            <p><b>Unlock Requirements</b>: Have at least 850 Dark Temples before affiliating with the Drow.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase maximum Mana by 250.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FastForwardSecretUpgrade.png" alt="Fast Forward" align="middle"><b> Fast Forward</b></p>
+            <p><b>Requirements</b>: 88 hours offline (Total)
             <p><b>Cost</b>: 8 Oc (8E27)
-            <p><b>Unlock Requirements</b>: 88 hours offline (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase offline production by 200%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretUpgrade.png" alt="Need a Head Start?" align="middle"><b> Need a Head Start?</b></p>
+            <p><b>Requirements</b>: Don't do anything for 5 minutes after starting a new game.
             <p><b>Cost</b>: 0 Coins
-            <p><b>Unlock Requirements</b>: Don't do anything for 5 minutes after starting a new game.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Instantly adds 10 gold coins.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretUpgrade.png" alt="Realm Digger" align="middle"><b> Realm Digger</b></p>
+            <p><b>Requirements</b>: Excavate 400 times.
             <p><b>Cost</b>: 100 Nod (1E62)
-            <p><b>Unlock Requirements</b>: Excavate 400 times.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases production of all buildings by 0.15% per excavation.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HarlequinSecretUpgrade.png" alt="Harlequin" align="middle"><b> Harlequin</b></p>
+            <p><b>Requirements</b>: As a Mercenary, purchase one upgrade from all 11 different factions.
             <p><b>Cost</b>: 5 Qivg (5E78)
-            <p><b>Unlock Requirements</b>: As a Mercenary, purchase one upgrade from all 11 different factions.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretUpgrade.png" alt="Lucifer" align="middle"><b> Lucifer</b></p>
+            <p><b>Requirements</b>: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.
             <p><b>Cost</b>: 5 Qivg (5E78)
-            <p><b>Unlock Requirements</b>: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.
             <p><b>Alignment</b>: Mercenary
             <p><b>Effect</b>: Increases production of all non-neutral buildings by 300%
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MathematicianSecretUpgrade.png" alt="Mathematician" align="middle"><b> Mathematician</b></p>
+            <p><b>Requirements</b>: From bottom to top, have building amounts exactly equal to ^2tier = 1 Halls of Legends, 2, 4, 8, 16, 32, 64, 128, 256 Blacksmiths, 512 Inns, and 1024 Farms
             <p><b>Cost</b>: 1 Td (1E42)
-            <p><b>Unlock Requirements</b>: From bottom to top, have building amounts exactly equal to 2tier :20 = 1 Halls of Legends, to 210 = 1024 Farms
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings by 10% per tier (10% for Halls, the 20% for the next building up, etc).
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretUpgrade.png" alt="Smiley face" align="middle"> Coin Pillage</b></p>
+            <p><b>Requirements</b>: Cast 30 Tax Collections in less than 5 seconds.
             <p><b>Cost</b>: 1 Dc (1E33)
-            <p><b>Unlock Requirements</b>: Cast 30 Tax Collections in less than 5 seconds.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Tax Collection also collects Faction Coins.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretUpgrade.png" alt="Mercenary Spirit" align="middle"> Mercenary Spirit</b></p>
+            <p><b>Requirements</b>: Reincarnate while playing as a Mercenary.
             <p><b>Cost</b>: 1 Ocd (1E57)
-            <p><b>Unlock Requirements</b>: Reincarnate while playing as a Mercenary.
             <p><b>Alignment</b>: Mercenary
             <p><b>Effect</b>: Increases production of all buildings by 15% per reincarnation.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodstreamSecretUpgrade.png" alt="Bloodstream" align="middle"> Bloodstream</b></p>
+            <p><b>Requirements</b>: Unlocks Bloodlines
             <p><b>Cost</b>: 1 Tg (1E93)
-            <p><b>Unlock Requirements</b>: Unlocks Bloodlines
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings based on the time spent with the Bloodline's Faction.
             <p><b>Effect</b>: When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.
             <p><b>Formula</b>: 0.1*x0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretUpgrade.png" alt="Unlimited Mana" align="middle"> Unlimited Mana</b></p>
+            <p><b>Requirements</b>: Have a mana regeneration rate of at least 300 per second.
             <p><b>Cost</b>: 80 Vg (8E64)
-            <p><b>Unlock Requirements</b>: Have a mana regeneration rate of at least 300 per second.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase mana regeneration by +2.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForScience!SecretUpgrade.png" alt="For Science!" align="middle"> For Science!</b></p>
+            <p><b>Requirements</b>: Purchase all the research facilities.
             <p><b>Cost</b>: 1 Qag (1E123)
-            <p><b>Unlock Requirements</b>: Purchase all the research facilities.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 100%.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NeutralChallengerSecretUpgrade.png" alt="Neutral Challenger" align="middle"> Neutral Challenger</b></p>
+            <p><b>Requirements</b>: Complete all the Neutral Challenges.
             <p><b>Cost</b>:
-            <p><b>Unlock Requirements</b>: Complete all the Neutral Challenges.
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Increase the overall production of Neutral Factions by 2.26%.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoviceResearcherSecretUpgrade.png" alt="Novice Researcher" align="middle"> Novice Researcher</b></p>
+            <p><b>Requirements</b>: Research 600 Times across all fields.
             <p><b>Cost</b>: 1 Tqag (1E132)
-            <p><b>Unlock Requirements</b>: Research 600 Times across all fields.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 100%.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretUpgrade.png" alt="Exchange Lord" align="middle"> Exchange Lord</b></p>
+            <p><b>Requirements</b>: Purchase 1500 Royal Exchanges in a single game.
             <p><b>Cost</b>: 500 Qag (5E125)
-            <p><b>Unlock Requirements</b>: Purchase 1500 Royal Exchanges in a single game.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Royal Exchange bonus by 5%
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicianSecretUpgrade.png" alt="Magician" align="middle"> Magician</b></p>
+            <p><b>Requirements</b>: Discover at least 10 spellcraft researches.
             <p><b>Cost</b>: 250 Noqag (2.5E152)
-            <p><b>Unlock Requirements</b>: Discover at least 10 spellcraft researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Spellcraft upgrade slots by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtisanSecretUpgrade.png" alt="Artisan" align="middle"> Artisan</b></p>
+            <p><b>Requirements</b>: Discover at least 10 craftsmanship researches.
             <p><b>Cost</b>: 250 Noqag (2.5E152)
-            <p><b>Unlock Requirements</b>: Discover at least 10 craftsmanship researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Craftsmanship upgrade slots by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemigodSecretUpgrade.png" alt="Demigod" align="middle"> Demigod</b></p>
+            <p><b>Requirements</b>: Discover at least 10 divine researches.
             <p><b>Cost</b>: 250 Noqag (2.5E152)
-            <p><b>Unlock Requirements</b>: Discover at least 10 divine researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Divine upgrade slots by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/BusinessmanSecretUpgrade.png" alt="Businessman" align="middle"> Businessman</b></p>
+            <p><b>Requirements</b>: Discover at least 10 Economics researches.
             <p><b>Cost</b>: 250 Noqag (2.5E152)
-            <p><b>Unlock Requirements</b>: Discover at least 10 Economics researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Economics upgrade slots by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ApothecarySecretUpgrade.png" alt="Apothecary" align="middle"> Apothecary</b></p>
+            <p><b>Requirements</b>: Discover at least 10 Alchemy researches.
             <p><b>Cost</b>: 250 Noqag (2.5E152)
-            <p><b>Unlock Requirements</b>: Discover at least 10 Alchemy researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Alchemy upgrade slots by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/WarlordSecretUpgrade.png" alt="Warlord" align="middle"> Warlord</b></p>
+            <p><b>Requirements</b>: Discover at least 10 Warfare researches.
             <p><b>Cost</b>: 250 Noqag (2.5E152)
-            <p><b>Unlock Requirements</b>: Discover at least 10 Warfare researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Warfare upgrade slots by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/VanillaResearcherSecretUpgrade.png" alt="Vanilla Researcher" align="middle"> Vanilla Researcher</b></p>
+            <p><b>Requirements</b>: Discover all the Vanilla researches.
             <p><b>Cost</b>: 1 Spqig (1E174)
-            <p><b>Unlock Requirements</b>: Discover all the Vanilla researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings based on research done.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretUpgrade.png" alt="Vanilla Challenger" align="middle"> Vanilla Challenger</b></p>
+            <p><b>Requirements</b>: Complete all the Vanilla Challenges.
             <p><b>Cost</b>: 10 Coins
-            <p><b>Unlock Requirements</b>: Complete all the Vanilla Challenges.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 25%.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretUpgrade.png" alt="Faction Run" align="middle"> Faction Run</b></p>
+            <p><b>Requirements</b>: Earn 1.5M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.
             <p><b>Cost</b>: 10 Coins
-            <p><b>Unlock Requirements</b>: Earn 1.5M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: +10% Faction Coin find chance
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/IntermediateResearcherSecretUpgrade.png" alt="Intermediate Researcher" align="middle"> Intermediate Researcher</b></p>
+            <p><b>Requirements</b>: Research 1800 times across all fields.
             <p><b>Cost</b>: 1 QiQig (1E168)
-            <p><b>Unlock Requirements</b>: Research 1800 times across all fields.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Intermediate Researcher upgrade, increases production of all Neutral Factions by 100%
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientResearcherSecretUpgrade.png" alt="Ancient Researcher" align="middle"> Ancient Researcher</b></p>
+            <p><b>Requirements</b>: Discover all the Neutral researches.
             <p><b>Cost</b>: 1 NoSxg (1E210)
-            <p><b>Unlock Requirements</b>: Discover all the Neutral researches.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Ancient Researcher upgrade, increases the production of all buildings based on acquired research.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretUpgrade.png" alt="NoRecruiting" align="middle"> No Recruiting</b></p>
+            <p><b>Requirements</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.
             <p><b>Cost</b>: 1 Tg (1E93)
-            <p><b>Unlock Requirements</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.
             <p><b>Alignment</b>: Not Mercenary
             <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretUpgrade.png" alt="That Excavated Quickly" align="middle"> That Excavated Quickly</b></p>
+            <p><b>Requirements</b>: Excavate 1000 times in the first 30 seconds of playtime.
             <p><b>Cost</b>: 1 Qag (1E123)
-            <p><b>Unlock Requirements</b>: Excavate 1000 times in the first 30 seconds of playtime.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the chance to excavate Faction Coins by 5%.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretUpgrade.png" alt="glho kohhl snod" align="middle"> glho kohhl snod</b></p>
+            <p><b>Requirements</b>: In the Save tab, try to import this text: glho kohhl snod.
             <p><b>Cost</b>: 1000
-            <p><b>Unlock Requirements</b>: In the Save tab, try to import this text: glho kohhl snod.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase clicking reward by 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretUpgrade.png" alt="Mana Matrix" align="middle"> Mana Matrix</b></p>
+            <p><b>Requirements</b>: Have exactly 4767 maximum mana.
             <p><b>Cost</b>: 1000
-            <p><b>Unlock Requirements</b>: Have exactly 4767 maximum mana.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase maximum mana by 10%.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretUpgrade.png" alt="Suggestion Master" align="middle"> Suggestion Master</b></p>
+            <p><b>Requirements</b>: Have the changelog interface open for 3 minutes. (Click the version number in the Save tab).
             <p><b>Cost</b>: 1000
-            <p><b>Unlock Requirements</b>: Have the changelog interface open for 3 minutes. (Click the version number in the Save tab).
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase production by hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/Rule'disSecretUpgrade.png" alt="Rule 'dis" align="middle"> Rule 'dis</b></p>
+            <p><b>Requirements</b>: Abdicate 10 times within 3 minutes. (Click abdicate ten times in a row)
             <p><b>Cost</b>: 1000
-            <p><b>Unlock Requirements</b>: Abdicate 10 times within 3 minutes. (Click abdicate ten times in a row)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase mana regeneration by 1 m/s.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/BecauseILiketoGrindSecretUpgrade.png" alt="Because I Like to Grind" align="middle"> Because I Like to Grind</b></p>
+            <p><b>Requirements</b>: Spend at least 3 hours playing in this game.
             <p><b>Cost</b>: 1000
-            <p><b>Unlock Requirements</b>: Spend at least 3 hours playing in this game.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Royal Exchange bonus by an additional 1.
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretUpgrade.png" alt="Expert Researcher" align="middle"> Expert Researcher</b></p>
+            <p><b>Requirements</b>: Research 2750 times across all fields.
             <p><b>Cost</b>: 1 QiQig (1E168)
-            <p><b>Unlock Requirements</b>: Research 2750 times across all fields.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the overall production of Prestige Factions by 100%.</p>
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" alt="Because I Like to Grind" align="middle"> Triple Weirdness</b></p>
-            <p>(Have exactly 333 of each Royal Exchange and be R40+)
+            <p><b>Requirements</b>: Have exactly 333 of each Royal Exchange, R40+
             <p><b>Cost</b>: Free
             <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
             <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)" coords="6,492,62,548" shape="rect">
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretUpgrade.png" alt="Underworld Researcher" align="middle"> Underworld Researcher</b></p>
+            <p><b>Requirements</b>: Discover all the Underworld researches.
             <p><b>Cost</b>: 1 NoSxg (1E210)
-            <p><b>Unlock Requirements</b>: Discover all the Underworld researches.
             <p><b>Alignment</b>: Non-neutral
             <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretUpgrade.png" alt="Stoic Resistance" align="middle"> Stoic Resistance</b></p>
+            <p><b>Requirements</b>: Gather 1 Oc gems without abdicating. (1 Oc = Cost of the 1st reincarnation)
             <p><b>Cost</b>: 10
-            <p><b>Unlock Requirements</b>: Gather 1 Oc gems without abdicating. (1 Oc = Cost of the 1st reincarnation)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 1T (1E12)</p>
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretUpgrade.png" alt="Van!shment" align="middle"> Van!shment</b></p>
+            <p><b>Requirements</b>: Reach on Offline Bonus of at least 1 Qa% (Post-Ascension: 1895%).
             <p><b>Cost</b>: 10 Noqag (1E151)
-            <p><b>Unlock Requirements</b>: Reach on Offline Bonus of at least 1 Qa% (Post-Ascension: 1895%).
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings based on offline bonus.</p>
             <p><b>Formula</b>: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretUpgrade.png" alt="Iron Rush" align="middle"> Iron Rush</b></p>
+            <p><b>Requirements</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power. 
             <p><b>Cost</b>: 3 SxSxg (3.8E201)
-            <p><b>Unlock Requirements</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power. 
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Iron strongholds count as 5% more for all purposes.</p>
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretUpgrade.png" alt="Colorful Autocasting" align="middle"> Colorful Autocasting</b></p>
+            <p><b>Requirements</b>: Have each type of autocasting active simultaneously.
             <p><b>Cost</b>: 5 Sxd (5E51)
-            <p><b>Unlock Requirements</b>: Have each type of autocasting active simultaneously.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases mana regeneration by 10%</p>
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretUpgrade.png" alt="Advisor Insight" align="middle"> Advisor Insight</b></p>
+            <p><b>Requirements</b>: Click the Hint button 100 times.
             <p><b>Cost Pre Ascension</b>: 100 No (1e32)
             <p><b>Cost Post Ascension</b>: Free
-            <p><b>Unlock Requirements</b>: Click the Hint button 100 times.
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: (Pre Ascension - Increase the production of all buildings by 10%.)
             <p><b>Effect</b>: (Post Ascension - Increase the production of all buildings by 0.96%.)
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretUpgrade.png" alt="Spell Cataclysm" align="middle"> Spell Cataclysm</b></p>
+            <p><b>Requirements</b>: Have at least 4 spells active on tier 5 or higher.
             <p><b>Cost</b>: 90 Novg (9E91)
-            <p><b>Unlock Requirements</b>: Have at least 4 spells active on tier 5 or higher.
-            <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases maximum mana by 75%</p>
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png" alt="AdvisorInsight" align="middle"> Dragon Tamer</b></p>
@@ -1721,29 +1723,29 @@
             <p><b>----------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
             <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
-            <p><b>Rewards</b>: With Both the Dawnstone and Duskstone artifact, awards the Sun Force upgrade, which grants different effects based on time of the day.</p>
             <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Local Time)
+            <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifact, awards the Sun Force upgrade, which grants different effects based on time of the day.</p>
             <p><b>Chance</b>: (Excavation count / 10,000)%</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png" alt="Duskstone" align="middle"><b> Duskstone</b></p>
             <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
-            <p><b>Rewards</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day. See details.</p>
             <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Local Time)
+            <p><b>Effect</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day. See details.</p>
             <p><b>Chance</b>: (Excavation count / 10,000)%</p>
             <h6>Sun Force</h6>
             <p><b>Note</b>: All times are based on <a style="text-decoration: none" class="clock24" id="tz24-1509896147-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
             <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-            <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
+            <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.35).
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
             <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
-            <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
+            <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-            <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
+            <p><b>Formula</b>: log(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
             <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-            <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
+            <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png" alt="Prismatic Mana" align="middle"><b> Prismatic Mana</b></p>
             <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.
@@ -1754,20 +1756,19 @@
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
             <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-            <p><b>Chance</b>: Total Lineage levels/2000
             <p><b>Cost</b>: 10 Dtg (1e100)
             <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).
             <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
             <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
+            <p><b>Chance</b>: Total Lineage levels/2000
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b></p>
             <p><b>Requirements</b>: Perform 40 autoclicks in 1 second, R60+
-            <p><b>Cost Pre Ascension</b>: Free
-            <p><b>Cost Post Ascension</b>: 100 Qaq (1e125)
+            <p><b>Cost</b>: 100 Qaq (1e125)
             <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KnowYourEnemyPart2" align="middle"><b> Know Your Enemy, Part 2</b></p>
-            <p>Description: Much more knowledge than you need, stored in a handy book.
+            <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.
             <p><b>Requirements</b>: R76, Upgrade from all 12 Factions
             <p><b>Cost</b>: 100 Noqag (1e152)
             <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
@@ -1775,7 +1776,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png" alt="Grandmaster Researcher" align="middle"><b> Grandmaster Researcher</b></p>
             <p><b>Requirements</b>: Research 18500 times across all fields.
             <p><b>Cost</b>: 10 SpQig (1e175)
-            <p><b>Effect</b>: Increas the overall production of Mercenaries by 100%.
+            <p><b>Effect</b>: Increase the overall production of Mercenaries by 100%.
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"><b> Warrior Researcher</b></p>
             <p><b>Requirements</b>: Discover all the Mercenary researches.
@@ -1799,19 +1800,25 @@
             <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
             <p><b>Requirements</b>: R100+
             <p><b>Effect</b>: Increase the production of all buildings based on their tier.
-            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-            <p><b>----------------------------------</b>
+            <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins
             <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+            <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
             <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
             <p><b>Requirement</b>: R100+
             <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
-            <p><b>Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" alt="Excavated Mirage" align="middle"><b> Chocolate Flavor Juice</b></p>
             <p><b>Requirement</b>: R22+, Neutral Faction, Ancient Cocoa Bean
-            <p><b>Effect</b>: ncrease the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.
-            <p><b>Upgrade Cost</b>: Free
+            <p><b>Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.
+            <p><b>Cost</b>: Free
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/FortuneTellerMachineUpgrade.png" alt="Fortune Teller Machine" align="middle"><b> Fortune Teller Machine</b></p>
+            <p><b>Requirement</b>: Artifact, R42+
+            <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)
+            <p><b>Cost</b>: Free
+            <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
             <p><b>------------------------------</b></p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spell Upgrades</a></b></p>
@@ -2589,12 +2596,3 @@
         </div>
     </div>
     <?php include "../scripts/footer.html"; ?>
-
-
-
-
-
-
-
-
-
