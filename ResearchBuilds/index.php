@@ -205,7 +205,7 @@
                     <p><b>Bloodline</b>: Druid
                     <p><b>Range</b>: e99-e102
                     <p><b>Duration</b>: 4h+
-                    <p>S105,S135,S150,S200,S250,
+                    <p>S105,S135,S150,S200,S215,
                     <p>C105,C120,C135,C150,C250,
                     <p>D1,D55,D200,D245,D320,
                     <p>E80,E135,E145,E150,E200,
@@ -239,7 +239,7 @@
                     <p><b>Bloodline</b>: Druid
                     <p><b>Range</b>: e99-e105
                     <p><b>Duration</b>: 2h+
-                    <p>S135,S150,S200,S250,S330,
+                    <p>S135,S150,S200,S215,S330,
                     <p>C105,C120,C135,C150,C330,
                     <p>D1,D55,D200,D245,D320,
                     <p>E80,E135,E150,E200,E330,
@@ -276,7 +276,7 @@
                     <p><b>Bloodline</b>: Titan
                     <p><b>Range</b>: e92-e108
                     <p><b>Duration</b>: 15min - 2h+
-                    <p>S135,S150,S200,S250,S330,
+                    <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C330,C375,
                     <p>D55,D150,D245,D320,D350,
                     <p>E135,E150,E275,E320,E330,
@@ -312,7 +312,7 @@
                     <p><b>Bloodline</b>: Titan
                     <p><b>Range</b>: e92-e111
                     <p><b>Duration</b>: 15min - 4h+
-                    <p>S135,S150,S200,S250,S330,
+                    <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C375,C400,
                     <p>D55,D245,D320,D350,D400,
                     <p>E135,E150,E200,E275,E330,
@@ -330,7 +330,7 @@
                     <p><b>Bloodline</b>: Dwarf (Requires high Excav count)
                     <p><b>Range</b>: e92-e111
                     <p><b>Duration</b>: 15min - 2h+
-                    <p>S135,S150,S200,S250,S330,
+                    <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C375,C400,
                     <p>D55,D245,D320,D350,D400,
                     <p>E135,E150,E275,E330,E400,
