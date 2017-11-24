@@ -62,7 +62,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Ruby Shine (Nov 27 - Nov 30, 2017)</a></b></p>
             <div class="autohide">
-                <p><b>Ruby Shine</b>
+                    <p>The Ruby Shine event will be starting on <b>Nov 27th 2017, 1.01 PM UTC</b> and will end on <b>Nov 30th 2017, 5.59 PM UTC</b>.
                 <p>Your miners have found a rich vein of Rubies within your realm! With the abundance of new specimen, researchers discovered ways to grant better improvements to your production. They also sent a sample of the new minerals collected for you to try out!
                 <p>You will receive 3 Rubies per day during the Ruby Shine event.
                 <p><b>Note</b>: There is no Cumulative and Permanent Bonuses from this Events.
