@@ -575,7 +575,7 @@
                 <p><b>Mercenary Template</b>: DW9
                 <p><b>Cost</b>: 50 Spd (5E55)</p>
                 <p><b>Effect</b>: Part of the Combo Strike chain bonus is applied passively.</p>
-                <p><b>Formula</b>: 0.3*x, where x is your current Combo Strike bonus.</p>
+                <p><b>Formula</b>: x, where x is your current Combo Strike bonus.</p>
                 <p><b>----------------------------------</b></p>
                 <h6>Dragon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" alt="Ancient Hunger" align="middle"> Ancient Hunger</b></p>
