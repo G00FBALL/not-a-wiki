@@ -5,7 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6><br/> <br/>
-    <p><b>All builds have been updated as of July, 13th 2017.</b></p><br/>
+    <p><b>All builds have been updated as of Nov, 24th 2017.</b></p><br/>
     <p><b>Note</b>: Factions order is Elves→Dwelves(no researches)→Moonshine→Dwelves→Dwairies→Dwangels</p>
     <div class="shlisting">
         <p><b>R29-33</b></p>
