@@ -10,7 +10,7 @@
 <p>The mysterious drow wish for you to prove your murderous honor to them.
 <p><b>Requirements</b>: 6 Reincarnations, Perfect Combo spell upgrade, Goblin 1, Demon 1, and Undead 1 challenges completed, Demon Faction
 <p><b>Challenge</b>: Have Honor Among Killers, at least 1000 Royal Exchanges, and 500 trophies.
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.03% per trophy you own.
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.025% per trophy you own.
 <p><b>Upgrade</b>: Good for Demon-Drow
 <p><b>Tip</b>: Use Demon/drow with Elven Bloodline.
 <p><b>----------------------------------</b></p>
