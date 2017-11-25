@@ -10,7 +10,7 @@
 <p><b>Requirements</b>: 6 Reincarnations, Minedwarf spell upgrade, Elven 1, Angel 1, and Fairy 1 challenges completed, Angel Faction
 <p><b>Challenge</b>: Cast 20 Tax Collections while having at least 4 spells active.
 <p><b>Effect</b>: Reduce all spells' cost based on the amount of gems you own.
-<p><b>Formula</b>: \frac {\ln {(1 + G^{1 + {\frac A {10} } }) } } {20}%; where G is the number of gems you own and A is the number of times you ascended.
+<p><b>Formula</b>: -0.05 * ln(1 + x ^ (1 + A / 10)), where x is your current gems and A is ascension count.
 <p><b>Upgrade</b>: Good for Angel-Dwarf
 <p><b>Tip</b>: Use Angel/Dwarf, buy all upgrades.
 <p><b>----------------------------------</b>
