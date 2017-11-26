@@ -76,7 +76,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
             <div class="autohide">
-    <p>All builds come from the <a target="_blank" https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-will-be-updated-to-3-0-2-on-sunday?page=14#posts-11718140"><b>here</b></a></p>
+    <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-will-be-updated-to-3-0-2-on-sunday?page=14#posts-11718140"><b>here</b></a></p>
 
                     <p>I tested a bunch of high gem A2 builds with buffs. The tests should be reasonably accurate. I took several shortcuts and all the builds have less Tax Collections cast and Faction coins gained than they would in actual runs.
 <br/><br/>
