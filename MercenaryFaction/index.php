@@ -167,7 +167,7 @@
 <p>Upon reaching R75, the game advisor tells us that the Mercenary Lord himself has come to speak with you. He is a man of uncomparable strength and influence... From what I heard, he wishes to task you with the retrieval of an Obsidian Shard, the legendary material of which Mercenary Blades are made.
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryEncampmentQuest.png" alt="Mercenary Encampment Quest" align="middle"> <b>Mercenary Encampment Quest</b>
 <p>We salute you, commander. Your strategical skills had not gone unnoticed within our ranks. We have decided to offer you a chance to establish a formal encampment within your boundaries... Build more structures to strengthen our city.
-<p><b>Cost</b>: 10 Notg (1e121), 150K buildings
+<p><b>Cost</b>: 10 Notg (1e121), 125K buildings
 <p><b>Note</b>: Only needs bought once.
 <p><b>Unlocks</b>: Mercenary Unique Buildings
 <p><b>Good</b>
