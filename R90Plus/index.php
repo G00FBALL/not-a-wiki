@@ -285,13 +285,13 @@
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Elf
                     <p><b>Template</b>
-                    <p>EL7,DG3,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG6,DG9,
+                    <p>EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,
                     <p>SP:God's Hand,SP:Fairy Chanting,
                     <p>S215,S305,S400,S1450,S1500,S3200,
                     <p>C340,C400,C590,C1300,C3000,C3100,
                     <p>D25,D245,D590,D1275,D1375,D2775,
-                    <p>E135,E260,E350,E1225,E1425,E3250,
-                    <p>A120,545,A1200,A1500,A2950,A3400,
+                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>A120,A545,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
                     <p><b>Notes</b>: Estimated 40 minutes for GB11 and 1.5-2 days for Mana Ocean assuming no S400 buff.
         </div>
