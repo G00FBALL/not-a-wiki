@@ -71,8 +71,7 @@
     </div>
             </div>
                     <br/>
-    <p><b>artcrow's A2 collection</b></p>
-                <p>Please feel free to test these builds and let us know what you find.
+    <p><b>A collection of artcrow's A2 builds, please feel free to test these builds and let us know what you find.</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
