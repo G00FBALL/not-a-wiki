@@ -72,10 +72,10 @@
             </div>
                     <br/>
     <p><b>artcrow's A2 collection</b></p>
+                <p>Please feel free to test these builds and let us know what you find.
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
-                <p>Please feel free to test these builds and let us know what you find.
             <div class="autohide">
     <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-will-be-updated-to-3-0-2-on-sunday?page=14#posts-11718140"><b>here</b></a></p>
 
