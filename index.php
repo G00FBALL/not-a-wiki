@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "musicfamily.org/../scripts/header.html"; ?>
-TEST
+
 <p>Welcome to <b>G00F's not a wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> Style without all the wiki adverts. 
 <p><b><a target="_blank" href="https://discord.gg/PnZhF3p">Realm Grinder Chat on Discord</a></b></p> 
 <p>If you have any suggestions or find any errors send a message to <a target="_blank" href="http://www.kongregate.com/accounts/Igorogi/"><b>Igorogi</b></a> or <a target="_blank" href="http://www.kongregate.com/accounts/G00FBALL/"><b>G00FBALL</b></a> and please include links to where you got the information.</p>
