@@ -285,7 +285,7 @@
     <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
     <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is mana regen when offline.  
     <p><b>----------------------------------</b>			
-    <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> <b>Tiered Autocasting</b> (R42)
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Tiered Autocasting" align="middle"> <b>Tiered Autocasting</b> (R40)
     <p>Produce 200M mana.
     <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42
     <p><b>----------------------------------</b>
