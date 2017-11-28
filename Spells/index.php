@@ -838,7 +838,51 @@
     <p><b>Effect</b>: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.
     <p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
     <p><b>Challenge Upgrade</b>: Primal Balance, Grand Balance now affects extra buildings based on total mana spent.
-    <p><b>Formula</b>: floor (x^0.2 / 10), where x is your Mana Produced (Total) stat.</p>
+    <p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced and A is Ascension (Total) stat.</p>
+    
+    <a id="Primal Balance"></a>
+    <table class="numtable">
+        <thead>
+        <tr>
+            <th>Targets</th><th>A0</th><th>A1</th><th>A2</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td><td>0</td><td>0</td><td>0</td>
+        </tr>
+        <tr>
+            <td>+1</td><td>1e5</td><td>1e5</td><td>1e5</td>
+        </tr>
+        <tr>
+            <td>+2</td><td>3.2e6</td><td>5.25e6</td><td>1.016e7</td>
+        </tr>
+        <tr>
+            <td>+3</td><td>2.43e7</td><td>5.326e7</td><td>1.516e8</td>
+        </tr>
+        <tr>
+            <td>+4</td><td>1.024e8</td><td>2.756e8</td><td>1.032e9</td>
+        </tr>
+        <tr>
+            <td>+5</td><td>3.125e8</td><td>9.865e8</td><td>4.569e9</td>
+        </tr>
+        <tr>
+            <td>+6</td><td>7.776e8</td><td>2.796e9</td><td>1.541e10</td>
+        </tr>
+        <tr>
+            <td>+7</td><td>1.681e9</td><td>6.747e9</td><td>4.305e10</td>
+        </tr>
+        <tr>
+            <td>+8</td><td>3.277e9</td><td>1.447e10</td><td>1.049e11</td>
+        </tr>
+        <tr>
+            <td>+9</td><td>5.905e9</td><td>2.837e10</td><td>2.299e11</td>
+        </tr>
+        <tr>
+            <td>+10</td><td>1e10</td><td>5.179e10</td><td>4.642e11</td>
+        </tr>
+        </tbody>
+    </table>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Grand Balance Tier 2-7</a></b></p>
