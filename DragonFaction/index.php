@@ -63,7 +63,7 @@
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 5 Uvg (5.0e66)</p>
 <p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral. 
-<p><b>Formula</b>: ({(1.25 * t / 60) ^ 0.55)}%) where t is total amount of time spent as Neutral.
+<p><b>Formula</b>: (1.25 * t) ^ 0.55 where t is total amount of time spent as Neutral in minutes (this R).
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" alt="Smiley face" align="middle"> Iron Flight</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 50 Uvg (5.0e67)</p>
@@ -72,7 +72,7 @@
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 500 Uvg (5.0e68)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus. 
-<p><b>Formula</b>: ({2 * (x ^ 1.15)}%) where x is Royal Exchange bonus.
+<p><b>Formula</b>: 2 * (x ^ 1.15) where x is Royal Exchange bonus.
 <p><b>----------------------------------</b></p>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Friendship Pact</b></p>
@@ -83,12 +83,12 @@
 <p><b>Requirement</b>: Dragons Friendship Pact
 <p><b>Cost</b>: 50 Dvg (5.0e70)</p>
 <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons. 
-<p><b>Formula</b>: ({0.75 * (t ^ 0.55)}%) where t is amount of time spent with Dragons.
+<p><b>Formula</b>: 0.75 * (t ^ 0.55) where t is amount of time spent with Dragons (All game).
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" alt="Smiley face" align="middle"> Bountiful Hoard</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact
 <p><b>Cost</b>: 500 Dvg (5e71 DC)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found. 
-<p><b>Formula</b>: ({5 * (x ^ 1.25)}%) where x is amount of artifacts you found.
+<p><b>Formula</b>: 5 * (x ^ 1.25) where x is amount of artifacts you found.
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" alt="Smiley face" align="middle"> Sharp Claws</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact
 <p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
@@ -104,23 +104,23 @@
 <p><b>Requirement</b>: Dragons Alliance
 <p><b>Cost</b>: 500 Tvg (5.0e74)</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Faction Coins found in this game. 
-<p><b>Formula</b>: floor(45 * ln(1 + (x ^ 6.5))M) where x is amount of FCs found (This Game).
+<p><b>Formula</b>: floor(45 * ln(1 + x) ^ 1.45) where x is amount of FCs found (This Game).
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" alt="Smiley face" align="middle"> Imposing Presence</b></p>
 <p><b>Requirement</b>: Dragons Alliance
 <p><b>Cost</b>: 5 Qavg (5.0e75)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of neutral buildings you own.
-<p><b>Formula</b>: floor((1 * (x ^ 0.55)) / 10) where x is amount of neutral buildings.
+<p><b>Formula</b>: floor((x ^ 0.55)) / 10 where x is amount of neutral buildings.
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" alt="Smiley face" align="middle"> Chromatic Scales</b></p>
 <p><b>Requirement</b>: Dragons Alliance
 <p><b>Cost</b>: 50 Qavg (5.0e76)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects. 
-<p><b>Formula</b>: ({100 * ((x) ^ 2)}%) where x is amount of active Dragon's Breath effects.
+<p><b>Formula</b>: 100 * (x ^ 2) where x is amount of active Dragon's Breath effects.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Drow Heritage" align="middle"><b> Dragon Heritage</b></p>
 <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
 <p><b>Requirements</b>: Dragons Champion Trophy</p>
-<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.
-<p><b>Formula</b>:  (0.55*x^0.55)%, x is hours affiliated with dragon at all R's.
+<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons (All Game).
+<p><b>Formula</b>:  (0.55 * x ^ 0.55)%, x is hours affiliated with dragon at all R's.
 <p><b>----------------------------------</b>
 <p><b>Dragons Research Requirements</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
