@@ -26,7 +26,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png" alt="Suggestion Master" align="middle"> <b>Suggestion Master</b>
     <p>Keep the changelog open for 3 minutes before closing it.
     <p>Click the bottom right gear icon in game (options) then click the numbers in the bottom right cornor.
-    <p><b>Effect</b>: Increase the production of all buildings base on mysteriour events.
+    <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.
     <p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png" alt="glho kohhl snod" align="middle"> <b>glho kohhl snod</b>
