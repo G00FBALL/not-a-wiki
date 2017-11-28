@@ -14,6 +14,7 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Hellfire Blast</p>
 <p><b>Effect</b>: Increases the production of Evil Fortresses and Hell Portals.</p>
+<p><b>Formula</b>: 200 * x ^ 0.8, where x is your Trophies Unlocked stat.
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Hell Rush</b>
 <p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.
 <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
