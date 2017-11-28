@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Nov. 24th 2017</b>
+    <p><b>Updated Nov. 28th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -39,9 +39,9 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
-                <p>S135,S270,S305,S330,S500,
+                <p>S135,S215,S305,S330,S500,
                 <p>C105,C150,C250,C330,C340,C400,
-                <p>D55,D200,D245,D320,D1125
+                <p>D55,D200,D245,D320,D1125,
                 <p>E135,E145,E320,E400,E460,
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W260,W290,W320,W400
