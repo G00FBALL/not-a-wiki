@@ -322,7 +322,7 @@
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%.
     <p><b>----------------------------------</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b> (R75+)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b> (R60+)</p>
     <p><b>Requirements</b>: Perform 40 autoclicks in 1 second.
     <p>Cost Pre Ascension: Free.
     <p>Cost Post Ascension: 100 Qaq (1e125)
