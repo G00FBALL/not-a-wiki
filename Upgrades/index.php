@@ -8,97 +8,97 @@
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Alignment Upgrades</a></b></p>
         <div class="autohide">
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofGoodDeed.png" alt="Smiley face" align="middle"><b> Proof of Good Deed</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofGoodDeed.png" align="middle"><b> Proof of Good Deed</b></p>
             <p><b>Cost</b>: 25,000
             <p><b>Unlock Requirements</b>: None
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Enables to join Good Factions
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicCertificate.png" alt="Smiley face" align="middle"><b> Heroic Certificate</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicCertificate.png" align="middle"><b> Heroic Certificate</b></p>
             <p><b>Cost</b>: 100 T (1E14)
             <p><b>Unlock Requirements</b>: 750 Good Buildings
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Increase the production of all Good buildings by 100%.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicValidation.png" alt="Smiley face" align="middle"><b> Heroic Validation</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicValidation.png" align="middle"><b> Heroic Validation</b></p>
             <p><b>Cost</b>: 100 Qi (1E20)
             <p><b>Unlock Requirements</b>: 1500 Good Buildings
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Increase the production of all Good buildings by 300% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicAffirmation.png" alt="Smiley face" align="middle"><b> Heroic Affirmation</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicAffirmation.png" align="middle"><b> Heroic Affirmation</b></p>
             <p><b>Cost</b>: 100 Qaq (1E47)
             <p><b>Unlock Requirements</b>: 12000 Good buildings
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Increase the production of all Good buildings by 700% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicProclamations.png" alt="Smiley face" align="middle"><b> Heroic Proclamations</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicProclamations.png" align="middle"><b> Heroic Proclamations</b></p>
             <p><b>Cost</b>: 10 No (1E31)
             <p><b>Unlock Requirements</b>: Post Ascension 20000 Good buildings (16667 with Dwarf 5 on)
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Increase the production of all Good buildings by 100%.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofEvilDeed.png" alt="Smiley face" align="middle"><b> Proof of Evil Deed</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofEvilDeed.png" align="middle"><b> Proof of Evil Deed</b></p>
             <p><b>Cost</b>: 25,000
             <p><b>Unlock Requirements</b>: None
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Enables to join Evil Factions
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosCertificate.png" alt="Smiley face" align="middle"><b> Villainous Certificate</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosCertificate.png" align="middle"><b> Villainous Certificate</b></p>
             <p><b>Cost</b>: 100 T (1E14)
             <p><b>Unlock Requirements</b>: 750 Evil Buildings
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Increase the production of all Evil buildings by 100%.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosValidation.png" alt="Smiley face" align="middle"><b> Villainous Validation</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosValidation.png" align="middle"><b> Villainous Validation</b></p>
             <p><b>Cost</b>: 100 Qi (1E20)
             <p><b>Unlock Requirements</b>: 1500 Evil Buildings
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Increase the production of all Evil buildings by 300% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosAffirmation.png" alt="Smiley face" align="middle"><b> Villainous Affirmation</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosAffirmation.png" align="middle"><b> Villainous Affirmation</b></p>
             <p><b>Cost</b>: 100 Qaq (1E47)
             <p><b>Unlock Requirements</b>: 12000 Evil buildings
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Increase the production of all Evil buildings by 700% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainousProclamations.png" alt="Smiley face" align="middle"><b> Villainous Proclamations</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VillainousProclamations.png" align="middle"><b> Villainous Proclamations</b></p>
             <p><b>Cost</b>: 10 No (1E31)
             <p><b>Unlock Requirements</b>: Post Ascension 20000 Evil buildings (16667 with Dwarf 5 on)
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Increase the production of all Evil buildings by 100%.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutrality.png" alt="Smiley face" align="middle"><b> Proof of Neutrality</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutrality.png" align="middle"><b> Proof of Neutrality</b></p>
             <p><b>Cost</b>: 10 Qa (1E16)
             <p><b>Unlock Requirements</b>: At least one neutral faction unlocked
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Enables to join Neutral Factions
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/GrindingDedication.png" alt="Smiley face" align="middle"><b> Grinding Dedication</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/GrindingDedication.png" align="middle"><b> Grinding Dedication</b></p>
             <p><b>Cost</b>: 1 Sx (1E21)
             <p><b>Unlock Requirements</b>: 7 Hours Playtime (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNeutrality.png" alt="Smiley face" align="middle"><b> True Neutrality</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNeutrality.png" align="middle"><b> True Neutrality</b></p>
             <p><b>Cost</b>: 500 T (5E14)
             <p><b>Unlock Requirements</b>: 24 Hours Playtime as Neutral (Total)
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralCertificate.png" alt="Smiley face" align="middle"><b> Neutral Certificate</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralCertificate.png" align="middle"><b> Neutral Certificate</b></p>
             <p><b>Cost</b>: 2 No (2E30)
             <p><b>Unlock Requirements</b>: 3,500 Neutral Buildings
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 100% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralValidation.png" alt="Smiley face" align="middle"><b> Neutral Validation</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralValidation.png" align="middle"><b> Neutral Validation</b></p>
             <p><b>Cost</b>: 4 Dd (4E39)
             <p><b>Unlock Requirements</b>: 7,000 Neutral Buildings
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all Neutral buildings by 300% Pre Ascension. (Post Ascension 7.18%)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralAffirmation.png" alt="Smiley face" align="middle"><b> Neutral Affirmation</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralAffirmation.png" align="middle"><b> Neutral Affirmation</b></p>
             <p><b>Cost</b>: 8 NoQag (8E180)
             <p><b>Unlock Requirements</b>: 20,000 Neutral Buildings
             <p><b>Alignment</b>: Any
@@ -186,13 +186,13 @@
             <p><b>Cost</b>: 50T (5E13)
             <p><b>Unlock Requirements</b>: 50,000 Clicks (Total)
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 50M (1E6). While offline, generate 1 click per second.
+            <p><b>Effect</b>: Increase base clicking reward by 50M (1E7). While offline, generate 1 click per second.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EternalTreasure.png" alt="Smiley face" align="middle"><b> Eternal Treasure</b></p>
             <p><b>Cost</b>: 5 Qa (5E16)
             <p><b>Unlock Requirements</b>: 100,000 Clicks (Total)
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 50B (1E9). While offline, generate 1 click per second.
+            <p><b>Effect</b>: Increase base clicking reward by 50B (5E10). While offline, generate 1 click per second.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FilledTreasure.png" alt="Smiley face" align="middle"><b> Filled Treasure</b></p>
             <p><b>Cost Pre Ascension</b>: 10,000
