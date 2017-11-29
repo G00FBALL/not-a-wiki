@@ -47,15 +47,15 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" alt="Smiley face" align="middle"> Territorial Expanse</b></p>
 <p><b>Cost</b>: 500 Qi (5E20)</p>
 <p><b>Effect</b>: Chance to have a Labyrinth built for free each time you click the treasure chest. This chance is based on your income per second and the cost of the next Labyrinth. Labyrinth production is increased by 5000% per assistant you own.</p>
-<p><b>Formula</b>: min(100,30*(P+A)/C))%, where P is production per second excluding assistants, A is the production per second of one assistant, and C is the cost to buy one Labyrinth.</p>
+<p><b>Formula</b>: min(100 , 30 * (P + A) / C))%, where P is production per second excluding assistants, A is the production per second of one assistant, and C is the cost to buy one Labyrinth.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" alt="Smiley face" align="middle"> Evolutive Mutation</b></p>
 <p><b>Cost</b>: 5 Sx (5E21)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Labyrinths you own. </p>
-<p><b>Formula</b>: floor(3 * x^0.6), where x is the number of Labyrinths you own.</p>
+<p><b>Formula</b>: floor(3 * x ^ 0.6), where x is the number of Labyrinths you own.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" alt="Smiley face" align="middle"> Deep Memory</b></p>
 <p><b>Cost</b>: 50 Sx (5E22)</p>
 <p><b>Effect</b>: Increases production based on the time of your longest game session this R. (Under Metagame, Longest Session in the Stats)</p>
-<p><b>Formula</b>: floor(35 * x^0.85)%, where x is your Playtime (Longest Session) stat in hours.</p>
+<p><b>Formula</b>: floor(35 * x ^ 0.85), where x is your Playtime (Longest Session) stat in hours.</p>
 <p><b>Formula</b>: 35* x^1.1 with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.
 <p><b>Note</b>: Dragon Challenge 3 removes the Ascension 1 penalty
 <p><b>----------------------------------</b></p>
@@ -69,11 +69,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" alt="Smiley face" align="middle"> Mitosis</b></p>
 <p><b>Cost</b>: 50 Sp (5E25)</p>
 <p><b>Effect</b>: Gain additional Faceless Assistants based on the amount of buildings you own.</p>
-<p><b>Formula</b>: floor(0.3 * x^0.5), where x is your Buildings Owned (This Game) stat.</p>
+<p><b>Formula</b>: floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" alt="Smiley face" align="middle"> Overgrowth</b></p>
 <p><b>Cost</b>: 500 Sp (5E26)</p>
 <p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R./s.</p>
-<p><b>Formula</b>: 0.8*(x^0.8)%, where x is your Buildings Owned (Max) stat.</p>
+<p><b>Formula</b>: 0.8 * x ^ 0.8, where x is your Buildings Owned (Max) stat.</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Faceless Alliance</b></p>
@@ -82,20 +82,20 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalTreasureFactionUpgrade.png" alt="Smiley face" align="middle"> Magical Treasure</b></p>
 <p><b>Cost</b>: 50 Oc (5E28)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-<p><b>Formula</b>: 0.35 * x ^ 0.9, where x is the amount of assistants you own.
+<p><b>Formula</b>: 0.75 * x ^ 0.75, where x is the amount of assistants you own.
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" alt="Smiley face" align="middle"> Abominations</b></p>
 <p><b>Cost</b>: 500 Oc (5E29)</p>
 <p><b>Effect</b>: Increase the production of assistants by 300% per active spell.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png" alt="Smiley face" align="middle"> Hive Mind</b></p>
 <p><b>Cost</b>: 5 No (5E30)</p>
 <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
-<p><b>Formula</b>: (0.1*x^0.75)%, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
+<p><b>Formula</b>: 0.1 * x ^ 0.75, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessHeritage.png" alt="Faceless Heritage" align="middle"><b> Faceless Heritage</b></p>
 <p><b>Cost</b>: 25,000 Fairy Coins, 25,000 Undead Coins</p>
 <p><b>Requirements</b>: Faceless Champion Trophy</p>
 <p><b>Effect</b>: Your production is increased based on the highest amount of buildings purchased in a single game.
-<p><b>Formula</b>: 0.25 * x^0.75%, where x is your Buildings Owned (Max) stat.
+<p><b>Formula</b>: 0.25 * x ^ 0.75, where x is your Buildings Owned (Max) stat.
 <p><b>----------------------------------</b>
 <p><b>Faceless Research Requirements</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCitiesQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities Quest</b></p>
