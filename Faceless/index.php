@@ -34,7 +34,7 @@
 <p><b>Requirements</b>: 19 Reincarnations, 1000 excavations, Fairy 3 and Undead 3 challenges completed
 <p><b>Challenge</b>: Cast Call to Arms, Gem Grinder and Spiritual Surge during last 20 seconds of Brainwave.</p>
 <p><b>Effect</b>: Gain extra assistants based on your royal exchange bonus.</p>
-<p><b>Formula</b>: floor(2 * x^0.5), where x is your Royal Exchange Bonus.</p>
+<p><b>Formula</b>: floor(2 * x ^ 0.5), where x is your Royal Exchange Bonus.</p>
 <p><b>Upgrade</b>: Good for Titan</p>
 <p><b>----------------------------------</b></p>
 <p><b>Faceless Challenge 4</b></p>
@@ -43,7 +43,7 @@
 <p><b>Requirements</b>: 25 Reincarnations, Faceless Unique Building
 <p><b>Challenge</b>: Get Hive Mind (3,3) bonus to at least 1890%.</p>
 <p><b>Effect</b>: All factions receive a bonus based on your Hive Mind bonus.</p>
-<p><b>Formula</b>: (0.01*5*0.1*x^0.75), where x is current Hive Mind bonus.</p>
+<p><b>Formula</b>: 0.05 * x, where x is current Hive Mind bonus.</p>
 <p><b>Upgrade</b>: Good for All</p>
 <p><b>Tips</b>
 <p>This is the equivalent of about 8.5 days of time spent allied with Faceless. Getting the Titan Tier 2 challenge Harmony of Thoughts will help increase your Faceless playtime.</p>
