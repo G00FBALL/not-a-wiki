@@ -53,7 +53,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" alt="Smiley face" align="middle"> Natural Recycling</b></p>
 <p><b>Cost</b>: 50 Sx (5E22)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the least productive building you own..</p>
-<p><b>Formula</b>: (x^0.35,), where x is the amount of the building with the lowest production. (additively and multiplicatively)</p>
+<p><b>Formula</b>: x ^ 0.35, where x is the amount of the building with the lowest production. (additively and multiplicatively)</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Druid Friendship Pact</b></p>
@@ -65,11 +65,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" alt="Smiley face" align="middle"> Bardic Knowledge</b></p>
 <p><b>Cost</b>: 50 Sp (5E25)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
-<p><b>Formula</b>: 1.75*x^0.9%, where x is your maximum mana.</p>
+<p><b>Formula</b>: 1.75 * x ^ 0.9, where x is your maximum mana.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png" alt="Smiley face" align="middle"> Shapeshifting</b></p>
 <p><b>Cost</b>: 500 Sp (5E26)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-<p><b>Formula</b>: 0.28 * x ^0.9, where x is the amount of assistants you own.
+<p><b>Formula</b>: 1.3 * x ^ 0.7, where x is the amount of assistants you own.
 <p><b>----------------------------------</b></p>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Druid Alliance</b></p>
