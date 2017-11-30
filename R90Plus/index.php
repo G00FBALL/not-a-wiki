@@ -9,6 +9,7 @@
 <br/>
     <p><b>Updated Nov. 24th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
+    <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <br/>
 <div class="shlisting">
@@ -88,17 +89,18 @@
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:Grand Balance,
                 <p>S215,S270,S305,S330,S2875,S3200,
-                <p>C340,C400,C590,C1300,C1500,C3000,
+                <p>C300,C340,C400,C590,C1300,C3000,
                 <p>D25,D55,D245,D260,D320,D1275,
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A120,A590,A1200,A1500,A2950,A3400,
                 <p>W120,W180,W400,W1275,W3050,W3150
+                <p><b>Notes</b>: Replace C400 with C1500 if 150%+.
                 <p><b>Notes</b>: Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
                 <p><b>Notes</b>: Replace W120 with W275 if buffed.
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Terror From the Deep<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Terror From the Deep (Obsolete?)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
@@ -161,9 +163,9 @@
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S400,S1450,S1500,S3200,
                     <p>C250,C400,C590,C1300,C3000,C3100,
-                    <p>D25,D200,D245,D1125,D1275,D2775,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
                     <p>E135,E260,E320,E1225,E1425,E3250,
-                    <p>A120,A305,A590,A1500,A2950,A3400,
+                    <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
                     <p><b>Notes</b>: Gets level 32 in under a hour without any buff to W275 or S400
         </div>
@@ -317,29 +319,6 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ghosts of Taxes Future (S400 Buff, Spell Master)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: Lapare
-                    <p><b>Requirements</b>: Veteran Figurine
-                    <p><b>Faction</b>: Evil Mercenary
-                    <p><b>Bloodline</b>: Dragon
-                    <p><b>A2950</b>: Druid
-                    <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>13th Upgrade</b>: UD7
-                    <p><b>Template</b>
-                    <p>EL3,EL7,AN5,TT6,DD5,DD7,FC3,DN2,DN8,DG3,DG4,DG9,
-                    <p>SP:Night Time,SP:Grand Balance,
-                    <p>S50,S215,S305,S400,S1450,S1500,
-                    <p>C250,C340,C590,C1300,C1500,C3000,
-                    <p>D25,D200,D245,D1275,D1375,D2775,
-                    <p>E10,E135,E145,E350,E1225,E3250,
-                    <p>A120,A545,A590,A1500,A2950,A3400,
-                    <p>W180,W205,W400,W525,W3050,W3150
-                    <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
-                    <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
-        </div>
-   </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lazy Rider (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Artcrow
@@ -438,6 +417,5 @@
         </div>
      </div>
   </div>
-                    <br/>
 </div>
 <?php include "../scripts/footer.html"; ?>
