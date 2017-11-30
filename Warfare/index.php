@@ -179,14 +179,14 @@
 <p><b>Formula</b>: 8 * x^0.8%, where x is your Time Spent Being Evil stat.
 <br/>
 <br/>
-<p><b>W1275</b> - <b>For Any</b> - <b>Research Name</b>: Authority
+<p><b>W1275</b> - <b>For All Factions</b> - <b>Research Name</b>: Authority
 <p><b>Requirement</b>: 43200s (12 hours) Call to Arms Cast Time (This game).
 <p><b>Cost</b>: 555.1 Dvg (5.551E71)
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on the percentage of trophies you unlocked.
 <p><b>Formula</b>: 0.2 * x^2, where x is percent of trophies unlocked
 <br/>
 <br/>
-<p><b>W1375</b> - <b>For Any</b> - <b>Research Name</b>: Scavenging
+<p><b>W1375</b> - <b>For All Factions</b> - <b>Research Name</b>: Scavenging
 <p><b>Requirement</b>: 86400s 7 days spent as evil (Across all Rs)
 <p><b>Cost</b>: 651.9 Qavg (6.519E77)
 <p><b>Effect</b>: Increases Faction Coin find chance by a multiplicative 275%.
