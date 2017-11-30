@@ -12,7 +12,7 @@
 <p><b>Total</b>: refers to the current reincarnation. 
 <p><b>All-Time</b>: covers all reincarnations.
 <h6>Commonly Used Abbreviations</h6>
-<p><b>A1</b>: Ascension R40+
+<p><b>A1</b>: Ascension R40-R99
 <p><b>A2</b>: Ascension R100+
 <p><b>Pre A</b>: Before R40
 <p><b>Post A</b>: After R39 and R99
