@@ -187,7 +187,7 @@
 <br/>
 <br/>
 <p><b>W1375</b> - <b>For All Factions</b> - <b>Research Name</b>: Scavenging
-<p><b>Requirement</b>: 86400s 7 days spent as evil (Across all Rs)
+<p><b>Requirement</b>: 604800s  7 days spent as evil (Across all Rs)
 <p><b>Cost</b>: 651.9 Qavg (6.519E77)
 <p><b>Effect</b>: Increases Faction Coin find chance by a multiplicative 275%.
 <p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of assistants you own.
