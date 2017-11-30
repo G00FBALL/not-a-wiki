@@ -3910,7 +3910,9 @@
                     <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
         </div>
     </div>
-                    <br/>
+    </div>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100+</a></b></p>
+        <div class="category autohide">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
