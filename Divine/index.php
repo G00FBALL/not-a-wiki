@@ -193,7 +193,7 @@
 <br/>
 <br/>
 <p><b>D1375</b> - <b>For All Factions</b> - <b>Research Name</b>: Sanctification
-<p><b>Requirement</b>: 7 days spent as good (Across all Rs)
+<p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)
 <p><b>Cost</b>: 651.9 Qavg (6.519E77)
 <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique buildings you own.
 <p><b>Formula</b>: 2.5*x^0.55, where x is non-unique building owned.
