@@ -11,7 +11,7 @@
 <br/>
 <br/>
     <div class="shlisting">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Merc</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Merc Pre Research</a></b></p>
         <div class="category autohide">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">100B FC Build R10+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
@@ -3885,6 +3885,50 @@
             </div>
         </div>
     </div>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R90-R99</a></b></p>
+        <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ghosts of Taxes Future (S400 Buff, Spell Master)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Lapare
+                    <p><b>Requirements</b>: Veteran Figurine
+                    <p><b>Faction</b>: Evil Mercenary
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>A2950</b>: Druid
+                    <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
+                    <p><b>13th Upgrade</b>: UD7
+                    <p><b>Template</b>
+                    <p>EL3,EL7,AN5,TT6,DD5,DD7,FC3,DN2,DN8,DG3,DG4,DG9,
+                    <p>SP:Night Time,SP:Grand Balance,
+                    <p>S50,S215,S305,S400,S1450,S1500,
+                    <p>C250,C340,C590,C1300,C1500,C3000,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>E10,E135,E145,E350,E1225,E3250,
+                    <p>A120,A545,A590,A1500,A2950,A3400,
+                    <p>W180,W205,W400,W525,W3050,W3150
+                    <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
+                    <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
+        </div>
     </div>
-
+                    <br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: 1e32 gems Gems
+                    <p><b>Alignment</b>: Good, Proof of Chaos
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Template</b>
+                    <p>S1,S180,S400,
+                    <p>C10,C1325,
+                    <p>D225,D250,
+                    <p>E50,E1325,
+                    <p>A30,A120,
+                    <p>W1375
+                    <p><b>Notes</b>: Note: Get to exactly 8333 Swarming Towers.
+            </div>
+        </div>
+    </div>
+    </div>
 <?php include "../scripts/footer.html"; ?>
