@@ -7,15 +7,16 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Oct. 26th 2017</b>
+    <p><b>Updated Nov. 29h 2017</b>
     <p>All builds come from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
+    <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid starter<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
@@ -77,161 +78,159 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
             <div class="autohide">
     <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-will-be-updated-to-3-0-2-on-sunday?page=14#posts-11718140"><b>here</b></a></p>
-
                     <p>I tested a bunch of high gem A2 builds with buffs. The tests should be reasonably accurate. I took several shortcuts and all the builds have less Tax Collections cast and Faction coins gained than they would in actual runs.
-<br/><br/>
-<p><b>R111</b>
-<p>1.5 Dd 1.5e39 gems
-<p>Demon Bloodline = 811%
-<p>S400 = 250001
-<p>93 Rubies, C340 = 10.3x
-<p>W275 = 5.4M %
-<p>Dwarf Perk 1 = 0%
-<p>10 target Grand Balance
-<p>Qavg = e75, Qivg = e78
-<p>Non SS7
-<p><b>Demon Lineage Druid</b>
-<p><b>Requires</b>: 10 target Grand Balance
-<p>S3200,
-<p>C300,C1325,
-<p>D150,D275,
-<p>E260,E1425,
-<p>A251,A400,
-<p>W350,W400
-<p>8 Qavg/s SS4, C1325 = 1316, estimated 20 Qavg/s with GB11
-<p>S3200,
-<p>C300,C340,
-<p>D150,D275,
-<p>E260,E1425,A
-<p>251,A400,
-<p>W250,W350
-<p>17 Qavg/s, SS4, estimated 34 Qavg/s with GB11
-<p><b>Angel Lineage Druid</b>
-<p>S400,
-<p>C300,C340,
-<p>D150,D275,
-<p>E260,E1425,
-<p>A120,A251,
-<p>W350,W400
-<p>56 Qavg/s, SS5, estimated 175 Qavg/s with GB11
-<p><b>Undead Lineage Druid</b>
-<p>S400,
-<p>C300,C340,
-<p>D150,D275,
-<p>E260,E1425,
-<p>A400,A251,
-<p>W350,W400
-<p>6 Qavg/s SS5, estimated 18 Qavg/s with GB11
-<p>S3200,
-<p>C300,C340,
-<p>D150,D275,
-<p>E260,E1425,
-<p>A400,A251,
-<p>W350,W400
-<p>2.3 Qavg/s, SS5, estimated 7 Qavg/s with GB11
-<p>C340 alternate: C1325 (less than 50 rubies)
-<p><b>Angel Lineage Faceless</b>
-<p>S251,S375,S400,
-<p>C340,
-<p>D260,D330,
-<p>E350,E1425,
-<p>A250,A300,
-<p>W275,W1375
-<p>~ 8.5 Qavg/s, SS5
-<p>W1375 alternate: W180
-<p><b>Demon Lineage Titan</b>
-<p>S300,S400,
-<p>C251,C375,C340,
-<p>D150,D350,
-<p>E275,E1425,
-<p>A120,
-<p>W260,W400
-<p>32 Qavg/s, SS4, Time Warps to 2 days
-<p>S300,S3200,
-<p>C251,C375,C340,
-<p>D150,D350,
-<p>E275,E1425,
-<p>A120,
-<p>W260,W400
-<p>57 Qavg/s, SS4, Time Warps to 2 days
-<p><b>Dwarf Lineage</b>: 0.75 Qavg/s, SS4, Time Warps to 2 days
-<br/><br/>
-<p><b>SS7</b>
-<p>Some of these take much longer than others to reach SS7. I didn't test buildup times.
-<p><b>Angel Lineage Faceless</b>
-<p>S251,S375,S400,
-<p>C400,
-<p>D245,D260,
-<p>E350,E1425,
-<p>A300,A3400,
-<p>W275,W1375
-<p>~90 Qavg/s, Time Warps to 2 days
-<p>S251,S375,S400,
-<p>C400,
-<p>D245,D260,
-<p>E350,E1425,
-<p>A250,A300,
-<p>W275,W1375
-<p>~5.3 Qivg/s, Time Warps to 12 days
-<p>S251,S375,S400,
-<p>C340,
-<p>D245,D260,
-<p>E350,E1425,
-<p>A250,A300,
-<p>W275,W1375
-<p>Presumably C340x as strong as the previous one - 54.6 Qivg/s with 93 rubies. Not tested.
-<p><b>Angel Lineage Druid</b>
-<p>S400,
-<p>C300,C400,
-<p>D245,D275,
-<p>E260,E1425,
-<p>A251,A375,
-<p>A120,
-<p>W350,W1375
-<p>10 Qivg/s, estimated 32 Qivg/s with GB11
-<p><b>Undead Lineage Druid</b>
-<p>S400,
-<p>C300,C1325,
-<p>D245,D275,
-<p>E260,E1425,
-<p>A251,A375,A400,
-<p>W350,W1375
-<p>4.5 Qivg/s, Time warps for C1325 = 1903, estimated 14 Qivg/s with GB11
-<p>S3200,
-<p>C300,C1325,
-<p>D245,D275,
-<p>E260,E1425,
-<p>A251,A375,A400,
-<p>W350,W1375
-<p>1.4 Qivg/s, Time warps for C1325 = 1697, estimated 4.4 Qivg/s with GB11
-<p><b>Dragon Lineage Druid</b>
-<p>S400,
-<p>C300,C400,
-<p>D245,D275,
-<p>E260,E1425,
-<p>A251,A375,A400,
-<p>W350,W1375
-<p>63 Qivg/s, Time Warps, DB:White 959, 10 target Grand Balance
-<p>650 Qivg/s, More Time Warps to 16 days, DB White = 1590, 11 target Grand Balance
-<p><b>Dragon Lineage Faceless</b>
-<p>S251,S375,S3200,
-<p>C400,
-<p>D245,D260,
-<p>E350,E1425,
-<p>A300,A3400,
-<p>W275,W1375
-<p>600 Qavg/s, Time Warps to 10 days
-<p>C400 alternate: C340
-<p>A3400 alternate: A250, 11.4x with Prismatic Breath in R111.
-<p><b>Dragon Lineage Angel</b>
-<p>S10,S400,
-<p>C25,C400,
-<p>D1,D175,D245,
-<p>E400,
-<p>A50,A3400,
-<p>W225,W1375
-<p>~30 Qivg/s, ~11 days Neutral, Time Warps to 15 days
-
+                    <br/><br/>
+                    <p><b>R111</b>
+                    <p>1.5 Dd 1.5e39 gems
+                    <p>Demon Bloodline = 811%
+                    <p>S400 = 250001
+                    <p>93 Rubies, C340 = 10.3x
+                    <p>W275 = 5.4M %
+                    <p>Dwarf Perk 1 = 0%
+                    <p>10 target Grand Balance
+                    <p>Qavg = e75, Qivg = e78
+                    <p>Non SS7
+                    <p><b>Demon Lineage Druid</b>
+                    <p><b>Requires</b>: 10 target Grand Balance
+                    <p>S3200,
+                    <p>C300,C1325,
+                    <p>D150,D275,
+                    <p>E260,E1425,
+                    <p>A251,A400,
+                    <p>W350,W400
+                    <p>8 Qavg/s SS4, C1325 = 1316, estimated 20 Qavg/s with GB11
+                    <p>S3200,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>E260,E1425,A
+                    <p>251,A400,
+                    <p>W250,W350
+                    <p>17 Qavg/s, SS4, estimated 34 Qavg/s with GB11
+                    <p><b>Angel Lineage Druid</b>
+                    <p>S400,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>E260,E1425,
+                    <p>A120,A251,
+                    <p>W350,W400
+                    <p>56 Qavg/s, SS5, estimated 175 Qavg/s with GB11
+                    <p><b>Undead Lineage Druid</b>
+                    <p>S400,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>E260,E1425,
+                    <p>A400,A251,
+                    <p>W350,W400
+                    <p>6 Qavg/s SS5, estimated 18 Qavg/s with GB11
+                    <p>S3200,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>E260,E1425,
+                    <p>A400,A251,
+                    <p>W350,W400
+                    <p>2.3 Qavg/s, SS5, estimated 7 Qavg/s with GB11
+                    <p>C340 alternate: C1325 (less than 50 rubies)
+                    <p><b>Angel Lineage Faceless</b>
+                    <p>S251,S375,S400,
+                    <p>C340,
+                    <p>D260,D330,
+                    <p>E350,E1425,
+                    <p>A250,A300,
+                    <p>W275,W1375
+                    <p>~ 8.5 Qavg/s, SS5
+                    <p>W1375 alternate: W180
+                    <p><b>Demon Lineage Titan</b>
+                    <p>S300,S400,
+                    <p>C251,C375,C340,
+                    <p>D150,D350,
+                    <p>E275,E1425,
+                    <p>A120,
+                    <p>W260,W400
+                    <p>32 Qavg/s, SS4, Time Warps to 2 days
+                    <p>S300,S3200,
+                    <p>C251,C375,C340,
+                    <p>D150,D350,
+                    <p>E275,E1425,
+                    <p>A120,
+                    <p>W260,W400
+                    <p>57 Qavg/s, SS4, Time Warps to 2 days
+                    <p><b>Dwarf Lineage</b>: 0.75 Qavg/s, SS4, Time Warps to 2 days
+                    <br/><br/>
+                    <p><b>SS7</b>
+                    <p>Some of these take much longer than others to reach SS7. I didn't test buildup times.
+                    <p><b>Angel Lineage Faceless</b>
+                    <p>S251,S375,S400,
+                    <p>C400,
+                    <p>D245,D260,
+                    <p>E350,E1425,
+                    <p>A300,A3400,
+                    <p>W275,W1375
+                    <p>~90 Qavg/s, Time Warps to 2 days
+                    <p>S251,S375,S400,
+                    <p>C400,
+                    <p>D245,D260,
+                    <p>E350,E1425,
+                    <p>A250,A300,
+                    <p>W275,W1375
+                    <p>~5.3 Qivg/s, Time Warps to 12 days
+                    <p>S251,S375,S400,
+                    <p>C340,
+                    <p>D245,D260,
+                    <p>E350,E1425,
+                    <p>A250,A300,
+                    <p>W275,W1375
+                    <p>Presumably C340x as strong as the previous one - 54.6 Qivg/s with 93 rubies. Not tested.
+                    <p><b>Angel Lineage Druid</b>
+                    <p>S400,
+                    <p>C300,C400,
+                    <p>D245,D275,
+                    <p>E260,E1425,
+                    <p>A251,A375,
+                    <p>A120,
+                    <p>W350,W1375
+                    <p>10 Qivg/s, estimated 32 Qivg/s with GB11
+                    <p><b>Undead Lineage Druid</b>
+                    <p>S400,
+                    <p>C300,C1325,
+                    <p>D245,D275,
+                    <p>E260,E1425,
+                    <p>A251,A375,A400,
+                    <p>W350,W1375
+                    <p>4.5 Qivg/s, Time warps for C1325 = 1903, estimated 14 Qivg/s with GB11
+                    <p>S3200,
+                    <p>C300,C1325,
+                    <p>D245,D275,
+                    <p>E260,E1425,
+                    <p>A251,A375,A400,
+                    <p>W350,W1375
+                    <p>1.4 Qivg/s, Time warps for C1325 = 1697, estimated 4.4 Qivg/s with GB11
+                    <p><b>Dragon Lineage Druid</b>
+                    <p>S400,
+                    <p>C300,C400,
+                    <p>D245,D275,
+                    <p>E260,E1425,
+                    <p>A251,A375,A400,
+                    <p>W350,W1375
+                    <p>63 Qivg/s, Time Warps, DB:White 959, 10 target Grand Balance
+                    <p>650 Qivg/s, More Time Warps to 16 days, DB White = 1590, 11 target Grand Balance
+                    <p><b>Dragon Lineage Faceless</b>
+                    <p>S251,S375,S3200,
+                    <p>C400,
+                    <p>D245,D260,
+                    <p>E350,E1425,
+                    <p>A300,A3400,
+                    <p>W275,W1375
+                    <p>600 Qavg/s, Time Warps to 10 days
+                    <p>C400 alternate: C340
+                    <p>A3400 alternate: A250, 11.4x with Prismatic Breath in R111.
+                    <p><b>Dragon Lineage Angel</b>
+                    <p>S10,S400,
+                    <p>C25,C400,
+                    <p>D1,D175,D245,
+                    <p>E400,
+                    <p>A50,A3400,
+                    <p>W225,W1375
+                    <p>~30 Qivg/s, ~11 days Neutral, Time Warps to 15 days
          </div>
     </div>
             </div>
@@ -241,7 +240,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Bomb (GB11 Build) 1e30 (1 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: ensteffahn
+                    <p><b>Author</b>: LcplSpanky
                     <p><b>Requiments</b>: Ziggurat unlock
                     <p><b>Range</b>: 1e30 (1 No) Gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
@@ -464,28 +463,6 @@
                     <p>A250,A251,A375,
                     <p>W350,W1375
                     <p><b>Notes</b>: Estimated 5 minutes to get the required excavations, then go Faceless to unlock the building.
-        </div>
-    </div>
-</div>
-                    <br/>
-    <p><b>Buff Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: 1e32 gems Gems
-                    <p><b>Alignment</b>: Good, Proof of Chaos
-                    <p><b>Faction</b>: Fairy
-                    <p><b>Bloodline</b>: Undead
-                    <p><b>Template</b>
-                    <p>S1,S180,S400,
-                    <p>C10,C1325,
-                    <p>D225,D250,
-                    <p>E50,E1325,
-                    <p>A30,A120,
-                    <p>W1375
-                    <p><b>Notes</b>: Note: Get to exactly 8333 Swarming Towers.
         </div>
     </div>
 </div>
