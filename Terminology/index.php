@@ -12,6 +12,10 @@
 <p><b>Total</b>: refers to the current reincarnation. 
 <p><b>All-Time</b>: covers all reincarnations.
 <h6>Commonly Used Abbreviations</h6>
+<p><b>A1</b>: Ascension R40+
+<p><b>A2</b>: Ascension R100+
+<p><b>Pre A</b>: Before R40
+<p><b>Post A</b>: After R39 and R99
 <p><b>R#</b>: Number of times reincarnated (eg: R12 = 12th reincarnation)
 <p><b>FC</b>: Faction Coin
 <p><b>RE</b>: Royal Exchange
@@ -19,6 +23,7 @@
 <p><b>RUS</b>: Research Upgrade Slot
 <p><b>m/s or mps</b>: Mana per Second
 <p><b>BL</b>: Bloodline
+<p><b>RNG</b>: Random Number Generator
 <p><b>Merc or Mercs</b>: Mercenary
 <h6>Research Facilities</h6>
 <p><b>Short and long names</b>
@@ -75,6 +80,8 @@
 <p><b>IS</b>: Iron Stronghold
 <p><b>AP</b>: Ancient Pyramid
 <p><b>HoL</b>: Hall of Legends
+<p><b>UB</b>: Unique Building (R16-R99)
+<p><b>UB2</b>: Unique Building 2 (R100+)
 <h6>Abbreviations</h6>
 <p><b>Mona</b>: Monastery
 <p><b>Laby</b>: Labyrinth
