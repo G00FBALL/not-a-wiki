@@ -314,7 +314,7 @@
     <area target="" research="Faceless Overmind<p>Requirement: Affiliate with the Faceless 5 times in a row. (Buy Faceless Trade Treaty 5x in a row)<p>Faceless Spell" coords="133,493,189,550" shape="0">
     <area target="" research="Minedwarf<p>Requirement: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.<p>Dwarf Spell" coords="197,492,255,550" shape="0">
     <area target="" research="Perfect Combo<p>Requirement: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.<p>Drow Spell" coords="260,492,318,550" shape="0">
-    <area target="" research="Dragon's Roar<p>Requirement: Cast Dragon's Breath while having at least 4 other active spells.<p>Dragon Spell<p>Cost: 1.0e45<p>Effect: Dragon's Breath also produces Faction Coins at each cast based on its activity time." coords="324,493,382,550" shape="0">
+    <area target="" research="Dragon's Roar<p>Requirement: Cast Dragon's Breath while having at least 4 other active spells.<p>Cost: 1.0e45<p>Effect: Dragon's Breath also produces Faction Coins at each cast based on its activity time.<p>Dragon Spell" coords="324,493,382,550" shape="0">
 </map>
 <img src="http://musicfamily.org/realm/Factions/picks/BuildingTrophiesTop.png">
 <img src="http://musicfamily.org/realm/Factions/picks/TotalBuildingTrophyMapnew.png" usemap="#TotalBuildingTrophyMapnew-map">
