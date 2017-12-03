@@ -225,7 +225,8 @@
     <p><b>Alignment</b>: Any (No Faction)
     <p><b>Upgrade Requirement</b>: R42+
     <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)
-    <p><b>Cost</b>: Free
+    <p><b>Cost</b>: R42+ 1 No (1e32)
+    <p><b>Cost</b>: Post A2 Free
     <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
     <p><b>------------------------------</b></p>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random. (Changes every 30 seconds)</p>
