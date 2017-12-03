@@ -241,7 +241,7 @@
                     <p>A105,A120,A150,A330,A410,
                     <p>W120,W150,W205,W320,W590
                     <p>3/25/2016 by artcrow
-                    <p>Originally posted by <a target="_blank" href="http://www.kongregate.com/forums/8945/topics/612801?page=1#posts-10276567/">artcrow</a>
+                    <p>Originally posted by <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/612801-decent-build-for-drow-flame-of-bondelnar-unlock?page=1#posts-10276567">artcrow</a>
                     <p>Includes 1 Rush build and 1 offline build to try unlock the Flame of Bondelnar.
                     <p>Use as Rush build to get excavations, if you don't get the flame, try again next R. For overnight and online it's better to use a W520 build.
                     <p><b>I used this</b>:
