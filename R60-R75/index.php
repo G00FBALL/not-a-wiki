@@ -144,7 +144,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Requirements</b>: DC5, UL5+, free excavations (6000 Excavations or below)
+                <p><b>Requirements</b>: DC5, free excavations (6000 Excavations or below)
                 <p><b>Range</b>: 1e72 (1 TVg) Gems
                 <p><b>Faction</b>: Druid/Dragon
                 <p><b>Bloodline</b>: Druid
