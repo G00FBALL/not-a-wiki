@@ -121,8 +121,9 @@
 <p><b>E320</b> - <b>For All Factions</b> - <b>Research Name</b>: Smuggling 
 <p><b>Requirement</b>: Have 2x Gems in Abdication Treasury 
 <p><b>Cost</b>: 1.117 NoQig (1.117E180) 
-<p><b>Effect</b>: Increase production bonus from gems based on the gems you have in your abdication treasury. 
-<p><b>Formula</b>: floor(0.45 * log(1+ x)), where x is the amount of gems you will gain upon abdication.
+<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings owned.
+<p><b>Effect</b>: Also increase FC chance find chance by a multiplicative 100%.
+<p><b>Formula</b>: ?.
 <br/>
 <br/>
 <p><b>E330</b> - <b>For All Factions</b> - <b>Research Name</b>: Collection 
