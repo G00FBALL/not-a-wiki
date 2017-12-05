@@ -15,38 +15,6 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan/Dragon Stoic Resistance R70+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: artcrow
-                <p><b>Requires</b>: Fortune Teller Machine, Druid Lineage 5+, Must be done in first run after Reincarnating.
-                <p><b>Range</b>: 0 Gems
-                <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
-                <p>S105,S300,S330,S400,S500,S545,
-                <p>C135,C150,C250,C330,C375,C400,C460,
-                <p>D55,D200,D245,D250,D290,D320,
-                <p>E145,E250,E275,E320,E330,E480,
-                <p>A105,A120,A150,A305,A330,A400,
-                <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Excavate after affiliating with Dragons for Lineage. 
-                <p><b>Notes</b>: As income increases, buy 3500 Deep Mines and save up for Pressurized Suits - the Deep Mine upgrade that adds 75% income.
-                <p><b>Notes</b>: Click online or spend at least 10 minutes offline to buff C135 and C460. 
-                <p><b>Notes</b>: The run takes less than a day and can finish hours sooner during Sun Force: Production.
-                <p><b>Bloodline</b>: Bloodline: Elf
-                <p><b>Requires</b>: Fortune Teller Machine, Elf Lineage 20+, recommended 32+. Must be done in first run after Reincarnating.
-                <p><b>------------------------------</b>
-                <p><b>R99 test</b>: Stoic Resistance took 4 hours with Elf Lineage level 37 and more than 50 rubies during Sun Force: nothing (Offline and Assistants).
-                <p>S105,S215,S270,S300,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
-                <p>D55,D200,D245,D250,D290,D320,
-                <p>E145,E250,E275,E320,E330,E460,
-                <p>A105,A120,A150,A305,A330,A400,
-                <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: E460 alternate: E200, E480
-         </div>
-    </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R60-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Wlerin
@@ -118,6 +86,38 @@
         <br/>
     <p><b>Special Builds</b></p>
     <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan/Dragon Stoic Resistance R70+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: artcrow
+                <p><b>Requires</b>: Fortune Teller Machine, Druid Lineage 5+, Must be done in first run after Reincarnating.
+                <p><b>Range</b>: 0 Gems
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Template</b>
+                <p>S105,S300,S330,S400,S500,S545,
+                <p>C135,C150,C250,C330,C375,C400,C460,
+                <p>D55,D200,D245,D250,D290,D320,
+                <p>E145,E250,E275,E320,E330,E480,
+                <p>A105,A120,A150,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: Excavate after affiliating with Dragons for Lineage. 
+                <p><b>Notes</b>: As income increases, buy 3500 Deep Mines and save up for Pressurized Suits - the Deep Mine upgrade that adds 75% income.
+                <p><b>Notes</b>: Click online or spend at least 10 minutes offline to buff C135 and C460. 
+                <p><b>Notes</b>: The run takes less than a day and can finish hours sooner during Sun Force: Production.
+                <p><b>Bloodline</b>: Bloodline: Elf
+                <p><b>Requires</b>: Fortune Teller Machine, Elf Lineage 20+, recommended 32+. Must be done in first run after Reincarnating.
+                <p><b>------------------------------</b>
+                <p><b>R99 test</b>: Stoic Resistance took 4 hours with Elf Lineage level 37 and more than 50 rubies during Sun Force: nothing (Offline and Assistants).
+                <p>S105,S215,S270,S300,S330,S500,
+                <p>C135,C150,C250,C330,C340,C400,C460,
+                <p>D55,D200,D245,D250,D290,D320,
+                <p>E145,E250,E275,E320,E330,E460,
+                <p>A105,A120,A150,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: E460 alternate: E200, E480
+         </div>
+    </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC4<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
