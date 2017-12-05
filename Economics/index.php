@@ -123,7 +123,7 @@
 <p><b>Cost</b>: 1.117 NoQig (1.117E180) 
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings owned.
 <p><b>Effect</b>: Also increase FC chance find chance by a multiplicative 100%.
-<p><b>Formula</b>: 5 * x^0.9
+<p><b>Formula</b>: 5 * x^0.9, where x is Unique Building owned.
 <br/>
 <br/>
 <p><b>E330</b> - <b>For All Factions</b> - <b>Research Name</b>: Collection 
