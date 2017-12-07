@@ -5,7 +5,8 @@
 <?php include "../scripts/header.html"; ?>
 <h3>Speed Run</h3>
 <p><b>Speed Run Trophy Requirement</b></p>
-<p>Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power. (<b>Should be done at R0</b>)
+<p>Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.
+<p><b>Should be done at R0</b>
 <p><b>Step by Step Guide</b></p>
 <p><b>Bye all upgrades as they become available</b></p>
 <p><b>Do Not Buy Gem Power</b></p>
