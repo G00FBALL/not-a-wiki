@@ -72,7 +72,7 @@
 <p><b>DP</b>: Diamond Pickaxe
 <p><b>CS</b>: Combo Strike
 <p><b>DB</b>: Dragon Breath
-<p>Tired spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...).
+<p>Tiered spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...).
 <h6>Acronyms</h6>
 <p><b>FIB</b>: Farms, Inns, and Blacksmiths
 <p><b>BS</b>: Blacksmith
