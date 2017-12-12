@@ -16,5 +16,5 @@
 <p><b><a target="_blank" href="https://dox4242.github.io/misc/abdication.html">Abdication Helper</a></b></p> 
 <p><b><a target="_blank" href="http://realm-grinder.wikia.com/wiki/User:Pseudobyte/Flash">Chrome and Flash help</a></b></p> 
 <p><b><a target="_blank" href="https://clickspeedtest.appspot.com/">What is your clicks per second</a></b></p> 
-<p><b><a target="_blank" href="https://discord.gg/EtEP6ZP">Realm Grinder Chat on Discord</a></b></p> 
+<p><b><a target="_blank" href="http://discord.gg/realmgrinder">Realm Grinder Chat on Discord</a></b></p> 
 <?php include "../scripts/footer.html"; ?>
