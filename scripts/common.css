@@ -1,3 +1,26 @@
+.photo {
+    background-image: url('http://www.thinksnaps.com/wp-content/uploads/2014/07/images-background.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    background-clip: border-box;
+    transition: background-size 0.2s;
+    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+
+    display: block;
+    width: 190px;
+    height: 190px;
+    text-decoration: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space:nowrap;
+}
+
+.photo:hover {
+    background-size: 500px;
+}
 a.tooltips {
   position: relative;
   display: inline;
