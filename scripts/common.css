@@ -309,6 +309,24 @@ h7 {
     color: #FFE7BE;
 }
 
+ 
+
+#rightbox {
+
+          background-image: url(http://musicfamily.org/realm/Factions/picks/discordpartnerbadge.png);
+
+          background-repeat:no-repeat;
+
+          display:block;
+
+          width:125px;
+
+          height:125px;
+
+          margin:0;
+
+}
+
 .rightbox {
     float: right;
     text-align: left;
