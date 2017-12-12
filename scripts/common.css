@@ -1,3 +1,6 @@
+iframe {
+ margin-left: 95px;
+}
 a.tooltips {
   position: relative;
   display: inline;
