@@ -54,6 +54,7 @@
     <?php include "../scripts/header.html"; ?>
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/SpellsTopPage.png"></h6>
+    <p><b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></b></p> 
     <div id="tiercal" class="calculator" style="padding-left: 70px">
     </div>
     <br/>
