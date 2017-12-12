@@ -13,7 +13,7 @@
 <br/>
 <br/>
         <p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before starting stage 3 of Dragon Unlocks. </p>
-        <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy as soon as possible! </p>
+        <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
         <p><b>Note</b>: Make sure to get <b>Tiered Autocasting</b> (Produce 200M mana), this trophy unlocks at R40 and spell tiers unlock at R42. </p>
 <div class="shlisting">
     <p><b>Production</b></p>
@@ -36,7 +36,7 @@
         <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dwelves (R42-46) + Stage 4 unlock<font color="Blue"> Good</font></a></b></p>
                                 <div class="autohide">
-                <p><b>Author</b>: Artcrow+ Necrodoom
+                <p><b>Author</b>: Artcrow + Necrodoom
                 <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings
                 <p><b>Range</b>: ? gems - ?
                 <p><b>Faction</b>: Elf/Dwarf
@@ -76,6 +76,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 <font color="Blue">Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
+                <p><b>Requires</b> Fortune Teller Machine, Horn of the Kings
                 <p><b>Range</b>: e30 (1 No) gems+
                 <p><b>Faction</b>: Fairy/Dwarf
                 <p><b>Bloodline</b>: Druid
