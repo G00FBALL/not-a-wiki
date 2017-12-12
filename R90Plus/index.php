@@ -81,7 +81,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Range</b>: 1e90 (1 NoVg)(?) - 1.778e138 (1.778 Qiqag) Gems
+                <p><b>Range</b>: 1e90 (1 NoVg)(?) - 1.778e138 (1.778 Qiqag)(?) Gems
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
@@ -338,7 +338,7 @@
                     <p>A120,A545,A590,A1500,A2950,A3400,
                     <p>W180,W205,W400,W525,W3050,W3150
                     <p><b>Notes</b>: Takes some time to reach mana waste, based on C305 growth. Maintaining x2 blue breath will be benefitial, but not necessary.
-                    <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
+                    <p><b>Notes</b>: Estimated time 5-8 days to unlock Spell Master trophy.
                     <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)                     
         </div>
    </div>
@@ -362,7 +362,7 @@
                     <p>A120,A545,A590,A1500,A2950,A3400,
                     <p>W205,W400,W525,W560,W1400,W3050
                     <p><b>Notes</b>: Alternative of the above S400 build, that requires Dragon Breath to cast x2 blue breath to be better. To do so, you have to export/import the save until Dragon's Breath is casting x2 blue every time the spell recasts. To be better than above build, you must maintain x2 blue at least 40% of the time.
-                    <p><b>Notes</b>: Estimated run time 5-7 to 8-10 days (Depending on maintained blue x2 time) to unlock Spell Master trophy.
+                    <p><b>Notes</b>: Estimated run time 4-7 to 6-9 days (Depending on maintained blue x2 time) to unlock Spell Master trophy.
                     <p><b>Notes</b>: Make sure you can commit to this build if you want to use it over the other.
         </div>
      </div>
