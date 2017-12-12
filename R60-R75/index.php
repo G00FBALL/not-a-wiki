@@ -80,6 +80,7 @@
                 <p>E135,E145,E320,E350,E1225,E1425,
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
+                <p><b>Notes</b>: Excavating for DB5 (Dragon's Breath 5) is recommended.
          </div>
     </div>
          </div>
@@ -87,39 +88,7 @@
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan/Dragon Stoic Resistance R70+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: artcrow
-                <p><b>Requires</b>: Fortune Teller Machine, Druid Lineage 5+, Must be done in first run after Reincarnating.
-                <p><b>Range</b>: 0 Gems
-                <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
-                <p>S105,S300,S330,S400,S500,S545,
-                <p>C135,C150,C250,C330,C375,C400,C460,
-                <p>D55,D200,D245,D250,D290,D320,
-                <p>E145,E250,E275,E320,E330,E480,
-                <p>A105,A120,A150,A305,A330,A400,
-                <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Excavate after affiliating with Dragons for Lineage. 
-                <p><b>Notes</b>: As income increases, buy 3500 Deep Mines and save up for Pressurized Suits - the Deep Mine upgrade that adds 75% income.
-                <p><b>Notes</b>: Click online or spend at least 10 minutes offline to buff C135 and C460. 
-                <p><b>Notes</b>: The run takes less than a day and can finish hours sooner during Sun Force: Production.
-                <p><b>Bloodline</b>: Bloodline: Elf
-                <p><b>Requires</b>: Fortune Teller Machine, Elf Lineage 20+, recommended 32+. Must be done in first run after Reincarnating.
-                <p><b>------------------------------</b>
-                <p><b>R99 test</b>: Stoic Resistance took 4 hours with Elf Lineage level 37 and more than 50 rubies during Sun Force: nothing (Offline and Assistants).
-                <p>S105,S215,S270,S300,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
-                <p>D55,D200,D245,D250,D290,D320,
-                <p>E145,E250,E275,E320,E330,E460,
-                <p>A105,A120,A150,A305,A330,A400,
-                <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: E460 alternate: E200, E480
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC4<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC4 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: 1e51 (1 Sxd) Gems
@@ -136,7 +105,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL5/Spell Cataclysm/DC5<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL5/Spell Cataclysm/DC5 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Requirements</b>: DC4
@@ -154,7 +123,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarf Lineage level 10<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarf Lineage level 10 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Requirements</b>: DC4
@@ -173,7 +142,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 (R66+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: DC5, free excavations (6000 Excavations or below)
@@ -187,10 +156,30 @@
                 <p>E135,E145,E250,E290,E1225,E1425,
                 <p>A120,A305,A400,A545,A1325,A1500,
                 <p>W150,W180,W250,W400,W1375
-                <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 125k building requirement.
+                <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 120k building requirement.
                 <p><b>Notes</b>: Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of target is irrelevant for this build.
             </div>
           </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Stoic Resistance (R70+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Range</b>: 0 Gems
+                <p><b>Faction</b>: Titan/Dragon
+                <p><b>Bloodline</b>: Druid
+                <p><b>Template</b>
+                <p>S105,S300,S330,S400,S500,S545,
+                <p>C135,C150,C250,C330,C375,C400,C460,
+                <p>D55,D200,D245,D250,D290,D320,
+                <p>E145,E250,E275,E320,E330,E480,
+                <p>A105,A120,A150,A305,A330,A400,
+                <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: Excavating for lineage is required. 
+                <p><b>Notes</b>: Recommended spamming clicks or staying offline for 10 minutes or so for buffing C135 and C460.
+                <p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.
+                <p><b>Notes</b>: Estimated run time at 20 hours disregarding benefitial sunforce effects.
+         </div>
+    </div>
         </div>
        </div>
 <?php include "../scripts/footer.html"; ?>
