@@ -64,7 +64,7 @@
                 <p>E135,E145,E320,E350,E1225,E1425,
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
-                <p><b>Notes</b>:
+                <p><b>Notes</b>: Excavating for DB5 is recommended.
          </div>
     </div>
         <div class="shelementwhole">
@@ -109,31 +109,6 @@
                 <p><b>Notes</b>: R79+ Replace C135 with C3100 and W180 with W3150.
                 <p><b>Multistage build</b>
                 <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 2 hours long.
-                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Astral Walker (R77-R80)<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Requirements</b>: 51.8B mana generated this R (for GB11).
-                <p><b>Range</b>: 1e93 (1 Tg) gems - 1e100 (10 DTg) Gems
-                <p><b>Faction</b>: Good Mercenary
-                <p><b>Bloodline</b>: Dragon
-                <p><b>A2950</b>: Elf
-                <p><b>13th Upgrade</b>: AN2
-                <p><b>Template</b>
-                <p>AN3,EL3,EL7,AN5,TT6,DD6,DD7,FC7,DN2,DG3,DG6,DG9,
-                <p>SP:Grand Balance,SP:God's Hand,
-                <p>S215,S305,S330,S1275,S1450,S1500,
-                <p>C135,C340,C400,C590,C1300,C3000,
-                <p>D25,D245,D525,D1275,D1375,D2775,
-                <p>E80,E135,E320,E350,E1225,E1325,
-                <p>A105,A120,A175,A305,A1500,A2950,
-                <p>W180,W275,W400,W560,W1375,W1400
-                <p><b>Notes</b>: R79+ Replace C135 with C3100 and W180 with W3150.
-                <p><b>Multistage build</b>
-                <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 8 hours long.
                 <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal.
          </div>
     </div>
