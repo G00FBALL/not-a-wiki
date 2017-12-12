@@ -2,6 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
+<a id="rightbox " href="http://discord.gg/realmgrinder"></a>
 <?php include "musicfamily.org/../scripts/header.html"; ?>
 <p>Welcome to <b>G00F's not a wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> Style without all the wiki adverts. 
 <p><b><a target="_blank" href="http://discord.gg/realmgrinder">Realm Grinder Chat on Discord</a></b></p> 
