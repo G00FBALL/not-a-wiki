@@ -16,7 +16,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e113-?</p>
+                    <p><b>Range</b>: 1e113 (100 SxTg) gems - ?</p>
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -32,7 +32,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e78-1e113</p>
+                    <p><b>Range</b>: 1e78 (1 QiVg) gems - 1e113 (100 SxTg) gems</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -48,7 +48,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e113-?</p>
+                    <p><b>Range</b>: 1e113 (100 SxTg) gems - ?</p>
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -66,7 +66,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e80-1e120</p>
+                    <p><b>Range</b>: 1e80 (100 QiVg) gems - 1e120 (1 NoTg) gems</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -86,7 +86,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e95-1e132</p>
+                    <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -103,7 +103,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e95-1e132</p>
+                    <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C330,C400,C590,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -119,7 +119,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e130-1e139</p>
+                    <p><b>Range</b>: 1e130 (10 DQag) gems - 1e139 (10 QiQag) gems</p>
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -138,7 +138,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e130-1e139</p>
+                    <p><b>Range</b>: 1e130 (10 DQag) gems - 1e139 (10 QiQag) gems</p>
                     <p>S135,S180,S215,S330,S590,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -156,7 +156,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Angels/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: 1e138-Ascension</p>
+                    <p><b>Range</b>: 1e138 (1 QiQag) gems - Ascension</p>
                     <p>S135,S150,S215,S250,S330,</p>
                     <p>C25,C120,C150,C330,C400,</p>
                     <p>D1,D55,D290,D320,D435,</p>
@@ -185,7 +185,7 @@
         <p><b>Special Builds</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar) (R33+)</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar) (R34+)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Goblin</p>
