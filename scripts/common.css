@@ -310,13 +310,11 @@ h7 {
     color: #FFE7BE;
 }
 .rightbox {
-    background-repeat: no-repeat;
     float: right;
     width: 100px;
     height: 100px;
     text-decoration: none;
     cursor: pointer;
-    background-repeat: no-repeat;
 }
 
 .rightboxcontent {
