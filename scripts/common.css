@@ -316,13 +316,11 @@ h7 {
     text-align: left;
     font-size: 1.2em;
     color: transparent;
+    display: block;
     width: 90px;
     height: 90px;
     text-decoration: none;
     cursor: pointer;
-    overflow: hidden;
-    text-indent: 100%;
-    white-space:nowrap;
     position: 10px 10px 10px 10px;
 
 }
