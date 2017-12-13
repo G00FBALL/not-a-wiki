@@ -311,7 +311,6 @@ h7 {
 }
 .rightbox {
     background-image: url(http://musicfamily.org/realm/Factions/picks/discordpartnerbadge.png);
-    background-size: 300px;
     background-repeat: no-repeat;
     background-position: 10px 10px 10px 10px;
 
@@ -326,7 +325,7 @@ h7 {
 }
 
 .rightbox:hover {
-    background-size: 500px;
+    background-size: 125px;
 }
 .rightbox {
     float: right;
