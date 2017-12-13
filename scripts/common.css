@@ -328,6 +328,10 @@ h7 {
     text-indent: 100%;
     white-space:nowrap;
 }
+
+.rightbox:hover {
+    background-size: 500px;
+}
 .rightbox {
     float: right;
     text-align: left;
