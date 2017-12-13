@@ -318,14 +318,6 @@ h7 {
     font-size: 1.2em;
     color: transparent;
 
-    display: block;
-    width: 125px;
-    height: 125px;
-    text-decoration: none;
-    cursor: pointer;
-    overflow: hidden;
-    text-indent: 100%;
-    white-space:nowrap;
 }
 
 .rightboxcontent {
