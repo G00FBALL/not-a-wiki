@@ -319,12 +319,12 @@ h7 {
     text-decoration: none;
     cursor: pointer;
     background-repeat: no-repeat;
-    position: 10px 10px 10px 10px;
+    position: 50px 10px 10px 10px;
 
 }
 
 .rightboxcontent {
-    padding: 125px;
+    padding: 10px;
     margin: 46px 0;
 }
 
