@@ -310,7 +310,6 @@ h7 {
     color: #FFE7BE;
 }
 .rightbox {
-    background-image: url(http://musicfamily.org/realm/Factions/picks/discordpartnerbadge.png);
     background-repeat: no-repeat;
     float: right;
     width: 100px;
@@ -322,7 +321,6 @@ h7 {
 
 .rightboxcontent {
     padding: 10px;
-    margin: 46px 0;
 }
 
 .menu {
