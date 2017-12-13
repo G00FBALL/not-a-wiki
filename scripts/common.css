@@ -328,9 +328,6 @@ h7 {
     white-space:nowrap;
 }
 
-.rightbox:hover {
-    background-size: 125px;
-}
 .rightboxcontent {
     padding: 10px;
     margin: 46px 0;
