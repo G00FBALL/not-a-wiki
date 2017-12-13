@@ -202,7 +202,7 @@
 <p><b>S2875</b> - <b>For Mercenary</b> - <b>Research Name</b>: Scholarship 
 <p><b>Requirement</b>: 11000 Freemason's Halls.  
 <p><b>Cost</b>: 7.26 Qiqag (7.26e168) 
-<p>Effect</b>: Increases the production of Non-Unique buildings by 40% per Unique building.
+<p>Effect</b>: Increases the production of Non-Unique buildings by 35% per Unique building.
 <br/>
 <br/>
 <p><b>S3200</b> - <b>For All Factions</b> - <b>Research Name</b>: Manipulation 
