@@ -328,9 +328,15 @@ h7 {
     text-indent: 100%;
     white-space:nowrap;
 }
-
-.rightbox:hover {
-    background-size: 500px;
+.rightbox {
+    float: right;
+    text-align: left;
+    font-size: 1.2em;
+    color: transparent;
+    background-image: url(http://musicfamily.org/realm/Factions/picks/discordpartnerbadge.png);
+    background-repeat: no-repeat;
+    position: 10px 10px 10px 10px;
+    width: 125px;
 }
 .rightboxcontent {
     padding: 10px;
