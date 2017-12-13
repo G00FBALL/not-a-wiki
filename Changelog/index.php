@@ -5,6 +5,15 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
     <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.3 December 12th, 2017</a></b></p>
+        <div class="autohide">
+                <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM UTC.</p>
+                <p><b>New Christmas Event upgrades</b>: Heavy and Grand Avalanche will increase Avalanche bonus for higher Ascensions.</p>
+                <p><b>Spellcraft 2875 (Scholarship) effect reduced.</p>
+                <p>Fixed a bug with D435 being purchasable while unintended.</p>
+        </div>
+    </div>
+    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.2 November 24th, 2017</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Ruby Shine event will be starting on Nov 27th 2017, 1.01 PM UTC and will end on Nov 30th 2017, 5.59 PM UTC.</p>
