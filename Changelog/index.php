@@ -9,7 +9,7 @@
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM UTC.</p>
                 <p><b>New Christmas Event upgrades</b>: Heavy and Grand Avalanche will increase Avalanche bonus for higher Ascensions.</p>
-                <p><b>Spellcraft 2875 (Scholarship) effect reduced.</p>
+                <p>Spellcraft 2875 (Scholarship) effect reduced.</p>
                 <p>Fixed a bug with D435 being purchasable while unintended.</p>
         </div>
     </div>
