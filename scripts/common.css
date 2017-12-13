@@ -314,10 +314,6 @@ h7 {
     background-size: 300px;
     background-repeat: no-repeat;
     background-position: 10px 10px 10px 10px;
-    border-radius: 50%;
-    background-clip: border-box;
-    transition: background-size 0.2s;
-    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
 
     display: block;
     width: 125px;
