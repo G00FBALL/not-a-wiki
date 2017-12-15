@@ -188,23 +188,25 @@ var x = setInterval(function() {
                 <p><b>Requirement</b>: Play during the Christmas Event.
                 <p><b>Cost</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.
-                <p><b>Formula</b>: min 0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3 with max at 100000%, where s is amount of collected snowballs.
+                <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.
+                <p><b>Note</b>: Ascension penalty for this upgrade is bugged and applies to the precentage rather than to the multiplier.
+                <p><b>Formula</b>: final bonus multiplier = 1 + 0.01 * (x ^ (0.1 ^ A)) instead of (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.
                 <p><b><img src="/realm/Factions/picks/HeavyAvalanche2017.png" alt="Avalanche" align="middle"> Heavy Avalanche</b></p>
                 <p><b>Type</b>: Upgrade
                 <p><b>Requirement</b>: Play during the Christmas Event, R40+.
                 <p><b>Cost</b>: 5000 Snowballs
-                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascension.
-                <p><b>Formula</b>: reduces ascension penalty from 1 + 0.01 * (bonus^0.4) = from 15% to 100%
+                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.
+                <p><b>Formula</b>: reduces ascension penalty ^0.1 to ^0.4
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.
                 <p><b><img src="/realm/Factions/picks/GrandAvalanche2017.png" alt="Avalanche" align="middle"> Grand Avalanche</b></p>
                 <p><b>Type</b>: Upgrade
                 <p><b>Requirement</b>: Play during the Christmas Event, R100+.
                 <p><b>Cost</b>: 10000 Snowballs
-                <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.
-                <p><b>Formula</b>: reduces ascension penalty from 1 + 0.01 * (bonus^(0.7^2)) = from 29% to 281%
+                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.
+                <p><b>Formula</b>: reduces ascension penalty ^0.4 to ^0.7
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.
                 <h6>Quest</h6>
