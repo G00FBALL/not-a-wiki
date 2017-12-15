@@ -15,13 +15,13 @@
     <table class="numtable">
         <thead>
         <tr>
-            <th>Total</th>
+            <th>Total Rubies</th>
             <th colspan="4">Total Cumulative Bonuses 134%</th>
         </tr>
         </thead>
         <tbody>
         <tr>
-            <td>Rubies</td>
+            <td>66</td>
             <td>Events</td>
             <td>2015</td>
             <td>2016</td>
