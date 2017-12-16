@@ -4,13 +4,51 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
-    <!--<p><a target="_blank" href="http://www.wolframalpha.com/input/?i=oct+28+2016+12.01+pm+utc"><b><font color="red">Event start timer</b></font></a>
-    <a target="_blank" href="http://www.wolframalpha.com/input/?i=nov+04+2016+7.59+pm+utc"><b><font color="red">Event end timer</b></font></a>-->
-    </br>
-    </br>
     <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
-    <br/>
-    <br/>
+    <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
+    <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
+    <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
+       </p>
+<p>
+<b>Christamas Event starts in
+<p id="start">
+<script>
+var countDownDate1 = new Date("Dec 20, 2017 13:01:00").getTime();
+var x = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate1 - now;
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    document.getElementById("start").innerHTML = days + "d " + hours + "h "
+    + minutes + "m " + seconds + "s ";
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("start").innerHTML = "Started";
+    }
+}, 1000);
+</script>
+<p>
+Christmas Event ends in
+<p id="end"></p>
+<script>
+var countDownDate2 = new Date("Jan 4, 2018 19:59:00").getTime();
+var x = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate2 - now;
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    document.getElementById("end").innerHTML = days + "d " + hours + "h "
+    + minutes + "m " + seconds + "s ";
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("end").innerHTML = "Ended";
+    }
+}, 1000);
+</script></b></br></p>
     <a id="Events"></a>
     <table class="numtable">
         <thead>
@@ -110,7 +148,7 @@
     <map name="TotalEvents2017-map">
     <area target=""  research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,7,62,61" shape="rect">
     <area target="" research="Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="69,5,126,62" shape="rect">
-    <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants." coords="133,5,189,61" shape="rect">
+    <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="133,5,189,61" shape="rect">
     <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="196,5,254,62" shape="rect">
     <area target="" research="Christmas<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="260,5,317,61" shape="rect">
     <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,5,380,62" shape="rect">
@@ -139,42 +177,117 @@
     </map>
     <br/>
     <p><b>Past Events</b>
-    <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
-    <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
-    <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
-       </br> </br></p>
-<b>Christamas Event starts in<p id="demo"></p></b>
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Dec 20, 2017 13:01:00").getTime();
-// Update the count down every 1 second
-var x = setInterval(function() {
-    // Get todays date and time
-    var now = new Date().getTime();
-    // Find the distance between now an the count down date
-    var distance = countDownDate - now;
-    // Time calculations for days, hours, minutes and seconds
-    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    // Output the result in an element with id="demo"
-    document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-    + minutes + "m " + seconds + "s ";
-    // If the count down is over, write some text 
-    if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("demo").innerHTML = "EXPIRED";
-    }
-}, 1000);
-</script>
     <div class="shlisting">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2017 Events</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 20, 2017 - Jan 4, 2018)</a></b></p>
             <div class="autohide">
-
+               <!-- <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.
+                <p>The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM
+                <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.
+                <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.
+                <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby, 200 or 500 Snowballs
+                <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%
+                <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.
+                <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Avalanche2017.png" alt="Avalanche" align="middle"> Avalanche</b></p>
+                <p><b>Type</b>: Upgrade
+                <p><b>Requirement</b>: Play during the Christmas Event.
+                <p><b>Cost</b>: Free
+                <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.
+                <p><b>Formula</b>: min 0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3 with max at 100000%, where s is amount of collected snowballs.
+                <p><b>Note</b>: Persists through Abdications and Reincarnations.
+                <p><b>Note</b>: Upgrade will disappear at the end of the current event.
+                <p><b><img src="/realm/Factions/picks/HeavyAvalanche2017.png" alt="Avalanche" align="middle"> Heavy Avalanche</b></p>
+                <p><b>Type</b>: Upgrade
+                <p><b>Requirement</b>: Play during the Christmas Event, R40+.
+                <p><b>Cost</b>: 5000 Snowballs
+                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascension.
+                <p><b>Formula</b>: reduces ascension penalty from 1 + 0.01 * (bonus^0.4) = from 15% to 100%
+                <p><b>Note</b>: Persists through Abdications and Reincarnations.
+                <p><b>Note</b>: Upgrade will disappear at the end of the current event.
+                <p><b><img src="/realm/Factions/picks/GrandAvalanche2017.png" alt="Avalanche" align="middle"> Grand Avalanche</b></p>
+                <p><b>Type</b>: Upgrade
+                <p><b>Requirement</b>: Play during the Christmas Event, R100+.
+                <p><b>Cost</b>: 10000 Snowballs
+                <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.
+                <p><b>Formula</b>: reduces ascension penalty from 1 + 0.01 * (bonus^(0.7^2)) = from 29% to 281%
+                <p><b>Note</b>: Persists through Abdications and Reincarnations.
+                <p><b>Note</b>: Upgrade will disappear at the end of the current event.
+                <h6>Quest</h6>
+                <p><b><img src="/realm/Factions/picks/Snowpile2016.png" alt="Snowpile" align="middle"> Snowpile</b></p>
+                <p><b>Type</b>: Quest series
+                <p><b>Requirement</b>: Collect 1000, 4500, 10000 and 21000 Snowballs.
+                <p><b>Effect</b>: Quests total Event bonus : +7%
+                <p><b><img src="/realm/Factions/picks/Snowpile12016.png" alt="Snowpile 1" align="middle"> Snowpile 1</b></p>
+                <p><b>Type</b>: Quest series 1 of 4
+                <p><b>Requirement</b>: Collect 1000 Snowballs
+                <p><b>Effect</b>: Adds 1% to you cumulative bonus
+                <p><b><img src="/realm/Factions/picks/Snowpile22016.png" alt="Snowpile 2" align="middle"> Snowpile 2</b></p>
+                <p><b>Type</b>: Quest series 2 of 4
+                <p><b>Requirement</b>: Collect 4500 Snowballs dropped from 5000 Snowballs
+                <p><b>Effect</b>: Adds 1% to you cumulative bonus
+                <p><b><img src="/realm/Factions/picks/Snowpile32016.png" alt="Snowpile 3" align="middle"> Snowpile 3</b></p>
+                <p><b>Type</b>: Quest series 3 of 4
+                <p><b>Requirement</b>: Collect 10000 Snowballs dropped from 12000 Snowballs
+                <p><b>Effect</b>: Adds 2% to you cumulative bonus
+                <p><b><img src="/realm/Factions/picks/Snowpile42016.png" alt="Snowpile 4" align="middle"> Snowpile 4</b></p>
+                <p><b>Type</b>: Quest series 4 of 4
+                <p><b>Requirement</b>: Collect 21000 Snowballs dropped from 25000 Snowballs
+                <p><b>Effect</b>: Adds 3% to you cumulative bonus
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="Gift Collector" align="middle"> Gift Collector</b></p>
+                <p><b>Type</b>: Quest series
+                <p><b>Requirement</b>: Find 1, 4, 8 and 13 Presents.
+                <p><b>Effect</b>: Quests total Event bonus : +7%
+                <p><b><img src="/realm/Factions/picks/GiftCollector12016.png" alt="Gift Collector 1" align="middle"> Gift Collector 1</b></p>
+                <p><b>Type</b>: Quest series 1 of 4
+                <p><b>Requirement</b>: Open 1 present
+                <p><b>Effect</b>: Adds 1% to you cumulative bonus
+                <p><b><img src="/realm/Factions/picks/GiftCollector22016.png" alt="Gift Collector 2" align="middle"> Gift Collector 2</b></p>
+                <p><b>Type</b>: Quest series 2 of 4
+                <p><b>Requirement</b>: Open 4 presents
+                <p><b>Effect</b>: Adds 1% to you cumulative bonus
+                <p><b><img src="/realm/Factions/picks/GiftCollector32016.png" alt="Gift Collector 3" align="middle"> Gift Collector 3</b></p>
+                <p><b>Type</b>: Quest series 3 of 4
+                <p><b>Requirement</b>: Open 8 presents
+                <p><b>Effect</b>: Adds 2% to you cumulative bonus
+                <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="Gift Collector 4" align="middle"> Gift Collector 4</b></p>
+                <p><b>Type</b>: Quest series 4 of 4
+                <p><b>Requirement</b>: Open 13 presents
+                <p><b>Effect</b>: Adds 3% to you cumulative bonus
+                <h6>Feats</h6>
+                <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
+                <p><b>Type</b>: Feat
+                <p><b>Requirement</b>: Play Elves and get 50 assistants
+                <p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.
+                <p><b>Note</b>: R5& R6 this takes about 10 days this game with Undead heritage and building upgrades.
+                <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
+                <p><b>Type</b>: Feat
+                <p><b>Requirement</b>: Ally with the Undead
+                <p><b><img src="/realm/Factions/picks/Snowpile42016.png" alt="Snowpile" align="middle"> Snowpile</b></p>
+                <p><b>Type</b>: Feat
+                <p><b>Requirement</b>: Complete all the Snowpile quests
+                <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="GiftCollector" align="middle"> Gift Collector</b></p>
+                <p><b>Type</b>: Feat
+                <p><b>Requirement</b>: Open 13 Presents
+                <h6>Shop</h6>
+                <p><b><img src="/realm/Factions/picks/500Snowballs2016Shop.png" alt="500 Snowballs" align="middle"> 500 Snowballs</b></p>
+                <p><b>500 Snowballs</b>: An adventurer wants to sell you 500 Snowballs for 5 Rubies. He will offer you a new deal if you accept.
+                <p><b>Cost</b>: 5 Rubies
+                <p><b><img src="/realm/Factions/picks/1750Snowballs2016Shop.png" alt="1750 Snowballs" align="middle"> 1750 Snowballs</b></p>
+                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 1750 Snowballs for 15 Rubies. He will offer you a new deal if you accept.
+                <p><b>Cost</b>: 15 Rubies
+                <p><b><img src="/realm/Factions/picks/6000Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 6000 Snowballs</b></p>
+                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 6000 Snowballs for 45 Rubies. He will offer you a new deal if you accept.
+                <p><b>Cost</b>: 45 Rubies
+                <p><b><img src="/realm/Factions/picks/13500Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 13500 Snowballs</b></p>
+                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.
+                <p><b>Cost</b>: 100 Rubies
+                <h6>Scrying</h6>
+                <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.--!>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1503,4 +1616,5 @@ var x = setInterval(function() {
     <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder forum</a> at Kongregate.com. A copy of these announcements can be found below.
     <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-sep-28th-2016">REALM GRINDER Developers' Diary</a></b></p>
         <?php include "../scripts/footer.html"; ?>
+
 
