@@ -165,22 +165,19 @@
     <p><b>Description</b>: This huge fang can barely fit in the hands of a Titan.</p>
     <p><b>Requirement</b>: R50+, play as Dragons
     <p><b>Chance</b>: Excavate (# Iron Strongholds / 400,000)%</p>
-    <p><b>Alignment</b>: Neutral faction, Dragons
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonSoulArtifact.png" alt="Dragon Soul" align="middle"><b> Dragon Soul</b></p>
     <p><b>Description</b>: The extracted soul from an ancient dragon, wields the power to end the world in an instant. Also makes a good soup ingredient.</p>
     <p><b>Requirement</b>: R50+, play as Dragons, have 5 different Dragon Breath effects active simultaneously.</p>
     <p><b>Chance</b>: Excavate (# Dragon Breath casts this game / 200,000)%
-    <p><b>Alignment</b>: Neutral faction, Dragons
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Vanilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
     <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
-    <p><b>Note</b>: Effect is canceled if you Prestige.</p>
+    <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Requirement</b>: R16+</p>
-    <p><b>Chance</b>: 20% in the first 5m of a game</p>
+    <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
     <p><b>Cost</b>: 1 coin
-    <p><b>Alignment</b>: Vanilla faction
     <p><b>Note</b>: Does not work while offline.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
@@ -188,28 +185,27 @@
     <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
     <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
     <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game for all Neutral factions.
-    <p><b>Note</b>: Effect is canceled if you Prestige.</p>
+    <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 coin   
-    <p><b>Alignment</b>: Neutral faction
     <p><b>Note</b>: Does not work while offline.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy" align="middle"><b> Know Your Enemy, Part I</b></p>
     <p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
     <p><b>Rewards</b>: Awards an upgrade of the same name that increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)
-    <p><b>Formula</b>: (0.5 * x^0.75)%, where x is amount of time spent as non-mercenary factions (in seconds).
-    <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions. +R12</p>
+    <p><b>Formula</b>: 0.5 * x ^ 0.75, where x is amount of time spent as non-mercenary factions (in seconds).
+    <p><b>Note</b>: Upgrade can be only used by Mercenaries.</p>
+    <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions. R12+</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 100 Vg (1E65)
-    <p><b>Alignment</b>: Mercenary
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VoodooDoll.png" alt="Voodoo Doll" align="middle"><b> Voodoo Doll</b></p>
     <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p>
     <p><b>Rewards</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p>
+    <p><b>Note</b>: Upgrade can be used as any faction.</p>
     <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
     <p><b>Cost</b>: 20 Qig (2E154)
     <p><b>Chance</b>: (number of Witch Conclaves / 10000)%</p>
-    <p><b>Alignment</b>: Any
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragment.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
@@ -218,15 +214,13 @@
     <p><b>Requirement</b>: At least 1 Ascension
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 M (1E6)
-    <p><b>Alignment</b>: Any
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FortuntTellerMachineArtifact.png" alt="FortuntTellerMachine" align="middle"><b> Fortune Teller Machine</b></p>
     <p><b>Requirement</b>: Excavate (Chance 0.1%)</p>
     <p><b>Alignment</b>: Any (No Faction)
     <p><b>Upgrade Requirement</b>: R42+
     <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)
-    <p><b>Cost</b>: R42+ 1 No (1e32)
-    <p><b>Cost</b>: Post A2 Free
+    <p><b>Cost</b>: 100 No (1e32)
     <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
     <p><b>------------------------------</b></p>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random. (Changes every 30 seconds)</p>
@@ -253,7 +247,8 @@
     <p><b>Statement</b>: 21 ("Awaken my child, and embrace the glory that is your birthright.")
     <p><b>Statement</b>: 22 ("Give up now.")
     <p><b>Statement</b>: 23 ("The wandering soul knows no rest.")
-    <p><b>Statement</b>: 23 ("Better luck after you get the 42.")
+    <p><b>Statement</b>: 24 (Only appears before R42) ("Better luck after you get the 42.")
+    <p><b>Statement</b>: 24 (Only appears R42+) ("WARNING! Machine Power is unlocked!")
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
@@ -270,7 +265,7 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
     <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-    <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).
+    <p><b>Formula</b>: floor(ln(1 + x) ^ 1.35).
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
     <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
     <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
@@ -295,7 +290,7 @@
     <p><b>Chance</b>: 5%
     <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
     <p><b>Note</b>: Only available to Mercenaries
-    <p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).
+    <p><b>Formula</b>: 0.065 * x^  0.65 where x is amount of time spent as non-mercenary factions (in seconds).
     <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
