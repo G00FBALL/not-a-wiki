@@ -1,14 +1,8 @@
-// remove newline / carriage return
-str.replace(/\n/g, "");
-    
-// remove whitespace (space and tabs) before tags
-str.replace(/[\t ]+\</g, "<");
-    
-// remove whitespace between tags
-str.replace(/\>[\t ]+\</g, "><");
-    
-// remove whitespace after tags
-str.replace(/\>[\t ]+$/g, ">");
+  div.nospaces {
+      margin: 0;
+      display: inline-block;
+      float: left;
+  }
 a.tooltips {
   position: relative;
   display: inline;
