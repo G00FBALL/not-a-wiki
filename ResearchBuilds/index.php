@@ -195,6 +195,7 @@
                     <p>A30,A105,A120,A150,A250,
                     <p>W135,W150,W180,W250,W290
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
+                    <p><b>Note</b>: At the end of the R, replace E145 with E290 and excavate to unlock W320 for the next R.
                     <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
                 </div>
             </div>
@@ -226,9 +227,8 @@
                     <p>D55,D200,D225,D245,D320,
                     <p>E50,E135,E150,E320,E330,
                     <p>A30,A105,A120,A150,A330,
-                    <p>W150,W180,W250,W290,W330
+                    <p>W150,W180,W290,W320,W330
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
-                    <p><b>Note</b>: W320 is not included because you need to get to R26 R gems to be able to unlock it, if you somehow have it (Easter event, or something that was not implented when this note was written) use W320 instead of W250.
                     <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
                 </div>
             </div>
