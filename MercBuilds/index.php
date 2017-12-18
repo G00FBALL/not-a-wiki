@@ -12,14 +12,15 @@
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
     <div class="shlisting">
          <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R3-18 <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
                 <p><b>Template</b>:
                 <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
-                <p>For R3-18, lower range & lower income but doesn't rely on LS RNG.</p>
+                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
+                <p>For R3+, lower range & lower income but doesn't rely on LS RNG.</p>
                 <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe
             </div>
         </div>
@@ -32,7 +33,8 @@
                 <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
                 <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
-                <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs.
+                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
+                <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs, but is weaker than Diamond Forge.
                 <p><b>Author</b>: pseudobyte
             </div>
         </div>
@@ -48,12 +50,12 @@
                 <p><b>Template</b>: 100 Qid (1e50)+, Assistant Legion upgrade
                 <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
                 <p>SP:Fairy Chanting,SP:Grand Balance
-                <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold
+                <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold.
                 <p><b>Range</b>: 1 Dc (1e33) to ?
                 <p><b>Important</b>: Do not buy the last farm upgrade.
                 <p><b>Note</b>: Buy all Royal Exchanges after each cast.
                 <p><b>Note</b>: Stronger than Diamond Forge, but disallows use of buy all as you have to make sure the weakest building is farms so Grand Balance targets it.
-                <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat
+                <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat.
                 <p><b>Note</b>: This build requires you to max Excavations.
                 <p><b>Author</b>: going2killu
             </div>
@@ -66,6 +68,7 @@
                 <p><b>Template</b>:
                 <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Lightning Strike,SP:Fairy Chanting
+                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
                 <p><b>Lightning Forge Instructions</b>:
                 <p>Early game, play until you get a Blacksmith Lightning Strike.
                 <p>This is when you get your big gem boost, other strikes barely count.
@@ -87,6 +90,7 @@
                 <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Lightning Strike,SP:Fairy Chanting
                 <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.
+                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
                 <p>This build is useful for idle periods where otherwise you would gain little gems, like overnight or while waiting for production sunforce. It require build up by autocasting Tax Collection until you have at least 6000 max mana in order to cast a max combo, at which point you are able to use this build like you would use Lightning Forge.
             </div>
         </div>
