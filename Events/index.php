@@ -10,7 +10,7 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
        </p>
 <p>
-<b>Christamas Event starts in
+<b>Christmas Event starts in
 <p id="start">
 <script>
 var countDownDate1 = new Date("Dec 20, 2017 13:01:00").getTime();
