@@ -91,7 +91,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine (R3-R9) R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
