@@ -16,7 +16,7 @@
 var countDownDate1 = new Date("Dec 20, 2017 13:01:00").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
-    var distance = countDownDate1 - now;
+    var distance = countDownDate1 - nowUTC;
     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
     var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
