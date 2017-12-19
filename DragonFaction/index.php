@@ -126,13 +126,13 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
 <p>Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.
 <p><b>Effect</b>: Unlocks Wyrm's Den
-<p><b>Requirement</b>: R46 + 3572 Iron Strongholds
+<p><b>Requirement</b>: R46 + 4500 Iron Strongholds
 <p><b>Cost</b>: 100 Tvg (1.0e74)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den</b></p>
 <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.
 <p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)
 <p><b>Effect</b>: Unlocks Wyrm's Den Unique Building
-<p><b>Requirement</b>: R46 + 3572 Iron Strongholds
+<p><b>Requirement</b>: R46 + 4500 Iron Strongholds
 <p><b>Cost</b>: 10 Nod (1.e61)</p>
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUniqueBuilding.png" alt="Unique building drow" align="middle"></p>
