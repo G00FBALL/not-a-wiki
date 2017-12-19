@@ -13,10 +13,10 @@
 <b>Christmas Event starts in
 <p id="start">
 <script>
-var countDownDate1 = new Date("Dec 20, 2017 13:01:00").getTime();
+var countDownDate1 = new Date("Dec 20, 2017 13:01:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
-    var distance = countDownDate1 - nowUTC;
+    var distance = countDownDate1 - now;
     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
     var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
@@ -33,7 +33,7 @@ var x = setInterval(function() {
 Christmas Event ends in
 <p id="end"></p>
 <script>
-var countDownDate2 = new Date("Jan 4, 2018 19:59:00").getTime();
+var countDownDate2 = new Date("Jan 4, 2018 19:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
