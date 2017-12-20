@@ -59,7 +59,7 @@ var x = setInterval(function() {
         </thead>
         <tbody>
         <tr>
-            <td>66</td>
+            <td>74</td>
             <td>Events</td>
             <td>2015</td>
             <td>2016</td>
@@ -67,7 +67,7 @@ var x = setInterval(function() {
         </tr>
         <tbody>
         <tr>
-            <td>16</td>
+            <td>24</td>
             <td>Christmas</td>
             <td>14%</td>
             <td>14%</td>
@@ -183,7 +183,7 @@ var x = setInterval(function() {
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 20, 2017 - Jan 4, 2018)</a></b></p>
             <div class="autohide">
-               <!-- <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.
+                <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.
                 <p>The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM
                 <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.
                 <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.
@@ -197,23 +197,25 @@ var x = setInterval(function() {
                 <p><b>Requirement</b>: Play during the Christmas Event.
                 <p><b>Cost</b>: Free
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.
-                <p><b>Formula</b>: min 0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3 with max at 100000%, where s is amount of collected snowballs.
+                <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.
+                <p><b>Note</b>: Ascension penalty for this upgrade is bugged and applies to the precentage rather than to the multiplier.
+                <p><b>Formula</b>: final bonus multiplier = 1 + 0.01 * (x ^ (0.1 ^ A)) instead of (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.
                 <p><b><img src="/realm/Factions/picks/HeavyAvalanche2017.png" alt="Avalanche" align="middle"> Heavy Avalanche</b></p>
                 <p><b>Type</b>: Upgrade
                 <p><b>Requirement</b>: Play during the Christmas Event, R40+.
                 <p><b>Cost</b>: 5000 Snowballs
-                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascension.
-                <p><b>Formula</b>: reduces ascension penalty from 1 + 0.01 * (bonus^0.4) = from 15% to 100%
+                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.
+                <p><b>Formula</b>: reduces ascension penalty ^0.1 to ^0.4
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.
                 <p><b><img src="/realm/Factions/picks/GrandAvalanche2017.png" alt="Avalanche" align="middle"> Grand Avalanche</b></p>
                 <p><b>Type</b>: Upgrade
                 <p><b>Requirement</b>: Play during the Christmas Event, R100+.
                 <p><b>Cost</b>: 10000 Snowballs
-                <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.
-                <p><b>Formula</b>: reduces ascension penalty from 1 + 0.01 * (bonus^(0.7^2)) = from 29% to 281%
+                <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.
+                <p><b>Formula</b>: reduces ascension penalty ^0.4 to ^0.7
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.
                 <h6>Quest</h6>
@@ -263,7 +265,7 @@ var x = setInterval(function() {
                 <p><b>Type</b>: Feat
                 <p><b>Requirement</b>: Play Elves and get 50 assistants
                 <p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.
-                <p><b>Note</b>: R5& R6 this takes about 10 days this game with Undead heritage and building upgrades.
+                <p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades.
                 <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
                 <p><b>Type</b>: Feat
                 <p><b>Requirement</b>: Ally with the Undead
@@ -287,7 +289,7 @@ var x = setInterval(function() {
                 <p><b>1750 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.
                 <p><b>Cost</b>: 100 Rubies
                 <h6>Scrying</h6>
-                <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.--!>
+                <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.
             </div>
         </div>
         <div class="shelementwhole">
