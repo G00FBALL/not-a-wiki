@@ -23,9 +23,6 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     document.getElementById("start").innerHTML = days + "d " + hours + "h "
     + minutes + "m " + seconds + "s ";
-    if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("start").innerHTML = "Started";
     }
 }, 1000);
 </script>
