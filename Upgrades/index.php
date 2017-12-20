@@ -1088,13 +1088,13 @@
             <p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).
             <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
             <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
             <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
             <p><b>Requirement</b>: R90+
             <p><b>Chance</b>: 5%
             <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
             <p><b>----------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
             <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
             <p><b>Requirements</b>: R100+
             <p><b>Effect</b>: Increase the production of all buildings based on their tier.
@@ -1796,7 +1796,7 @@
             <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.
             <p><b>Formula</b>: 2.5 * x^1.25
             <p><b>----------------------------------</b>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
             <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
             <p><b>Requirements</b>: R100+
             <p><b>Effect</b>: Increase the production of all buildings based on their tier.
