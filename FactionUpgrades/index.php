@@ -79,7 +79,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheWalkingDeadFactionUpgrade.png" alt="The Walking Dead" align="middle"> The Walking Dead</b></p>
                 <p><b>Mercenary Template</b>: UD1
                 <p><b>Cost</b>: 50 M (5E7)</p>
-                <p><b>Effect</b>: Increase the production of Necropolises by 5000%.</p>
+                <p><b>Effect</b>: Increase the production of Necropolises by 7500%.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" alt="Deadened Muscles" align="middle"> Deadened Muscles</b></p>
                 <p><b>Mercenary Template</b>: UD2
                 <p><b>Cost</b>: 500 M (5E8)</p>
@@ -88,7 +88,7 @@
                 <p><b>Mercenary Template</b>: UD3
                 <p><b>Cost</b>: 5 B (5E9)</p>
                 <p><b>Effect</b>: Dark Temples also increase your mana production rate.</p>
-                <p><b>Formula</b>: x^0.275, where x is the number of Dark Temples you own.</p>
+                <p><b>Formula</b>: x^0.28, where x is the number of Dark Temples you own.</p>
                 <p><b>----------------------------------</b></p>
                 <h6>Demon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TortureChambersFactionUpgrade.png" alt="Torture Chambers" align="middle"> Torture Chambers</b></p>
