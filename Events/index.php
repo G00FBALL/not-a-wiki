@@ -176,7 +176,7 @@ var x = setInterval(function() {
     <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="387,196,446,252" shape="rect">
     </map>
     <br/>
-    <p><b>Past Events</b>
+    <p><b>Events</b>
     <div class="shlisting">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2017 Events</a></b></p>
         <div class="category autohide">
