@@ -14,7 +14,6 @@
 <br/>
         <p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before starting stage 3 of Dragon Unlocks. </p>
         <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
-        <p><b>Note</b>: Make sure to get <b>Tiered Autocasting</b> (Produce 200M mana), this trophy unlocks at R40 and spell tiers unlock at R42. </p>
 <div class="shlisting">
     <p><b>Production</b></p>
     <div class="category">
@@ -47,7 +46,7 @@
                 <p>E145,E250,E330,E400,E410,
                 <p>A105,A120,A150,A250,A400,
                 <p>W10,W120,W150,W320,W400
-                <p><b>Notes</b>: Requires Spell tiers to get past 1e25 (10 Sp) gems. Recommended doing T3 Elf/Dwarf spell tiers (Call to Arms, Holy Light, Moon Blessing, Diamond Pickaxe, Spiritual Surge).
+                <p><b>Notes</b>: Requires Spell tiers to get past 1e25 (10 Sp) gems. Recommended doing T3 Elf/Dwarf spell tiers (Call to Arms, Holy Light, Moon Blessing, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.
                 <p><b>Notes</b>: Swap S500 with S400 if better.
                 <p><b>Notes</b>: Swap E250 with E480 if better (35%+).
                 <p><b>Notes</b>: Swap S175 with S305 if better (requires CTA3 Hl3 MB3 DP2 SS2).
