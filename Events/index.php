@@ -68,7 +68,7 @@ var x = setInterval(function() {
             <td>Christmas</td>
             <td>14%</td>
             <td>14%</td>
-            <td>?</td>
+            <td>14%</td>
         </tr>
         <tr>
             <td>6</td>
