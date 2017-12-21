@@ -51,7 +51,7 @@ var x = setInterval(function() {
         <thead>
         <tr>
             <th>Total Rubies</th>
-            <th colspan="4">Total Cumulative Bonuses 134%</th>
+            <th colspan="4">Total Cumulative Bonuses 132%</th>
         </tr>
         </thead>
         <tbody>
