@@ -226,15 +226,15 @@ var x = setInterval(function() {
                 <p><b>Effect</b>: Adds 1% to you cumulative bonus
                 <p><b><img src="/realm/Factions/picks/Snowpile22016.png" alt="Snowpile 2" align="middle"> Snowpile 2</b></p>
                 <p><b>Type</b>: Quest series 2 of 4
-                <p><b>Requirement</b>: Collect 4500 Snowballs dropped from 5000 Snowballs
+                <p><b>Requirement</b>: Collect 4500 Snowballs
                 <p><b>Effect</b>: Adds 1% to you cumulative bonus
                 <p><b><img src="/realm/Factions/picks/Snowpile32016.png" alt="Snowpile 3" align="middle"> Snowpile 3</b></p>
                 <p><b>Type</b>: Quest series 3 of 4
-                <p><b>Requirement</b>: Collect 10000 Snowballs dropped from 12000 Snowballs
+                <p><b>Requirement</b>: Collect 10000 Snowballs
                 <p><b>Effect</b>: Adds 2% to you cumulative bonus
                 <p><b><img src="/realm/Factions/picks/Snowpile42016.png" alt="Snowpile 4" align="middle"> Snowpile 4</b></p>
                 <p><b>Type</b>: Quest series 4 of 4
-                <p><b>Requirement</b>: Collect 21000 Snowballs dropped from 25000 Snowballs
+                <p><b>Requirement</b>: Collect 21000 Snowballs
                 <p><b>Effect</b>: Adds 3% to you cumulative bonus
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="Gift Collector" align="middle"> Gift Collector</b></p>
