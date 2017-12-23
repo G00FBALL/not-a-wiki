@@ -10,99 +10,143 @@
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofGoodDeed.png" align="middle"><b> Proof of Good Deed</b></p>
             <p><b>Cost</b>: 25,000
-            <p><b>Unlock Requirements</b>: None
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Enables to join Good Factions
+            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Effect</b>: Enables to join Good Factions.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicCertificate.png" align="middle"><b> Heroic Certificate</b></p>
             <p><b>Cost</b>: 100 T (1E14)
-            <p><b>Unlock Requirements</b>: 750 Good Buildings
+            <p><b>Requirements</b>: 750 Good Buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Increase the production of all Good buildings by 100%.
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicValidation.png" align="middle"><b> Heroic Validation</b></p>
+            <p><b>Requirements</b>: 1500 Good Buildings
             <p><b>Cost</b>: 100 Qi (1E20)
-            <p><b>Unlock Requirements</b>: 1500 Good Buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Increase the production of all Good buildings by 300% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 300%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 14.9%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 1.4%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicAffirmation.png" align="middle"><b> Heroic Affirmation</b></p>
+            <p><b>Requirements</b>: 12000 Good buildings
             <p><b>Cost</b>: 100 Qaq (1E47)
-            <p><b>Unlock Requirements</b>: 12000 Good buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Increase the production of all Good buildings by 700% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 700%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 23.1%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 2.1%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicProclamations.png" align="middle"><b> Heroic Proclamations</b></p>
+            <p><b>Requirements</b>: Ascension 1+, 20000 Good buildings (16667 with Dwarf 5 on)
             <p><b>Cost</b>: 10 No (1E31)
-            <p><b>Unlock Requirements</b>: Post Ascension 20000 Good buildings (16667 with Dwarf 5 on)
+            <p><b>Cost</b>: Ascension 2, Free
             <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Increase the production of all Good buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 100%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 7.18%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofEvilDeed.png" align="middle"><b> Proof of Evil Deed</b></p>
             <p><b>Cost</b>: 25,000
-            <p><b>Unlock Requirements</b>: None
-            <p><b>Alignment</b>: Any
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Effect</b>: Enables to join Evil Factions
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosCertificate.png" align="middle"><b> Villainous Certificate</b></p>
+            <p><b>Requirements</b>: 750 Evil Buildings
             <p><b>Cost</b>: 100 T (1E14)
-            <p><b>Unlock Requirements</b>: 750 Evil Buildings
             <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Increase the production of all Evil buildings by 100%.
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosValidation.png" align="middle"><b> Villainous Validation</b></p>
+            <p><b>Requirements</b>: 1500 Evil Buildings
             <p><b>Cost</b>: 100 Qi (1E20)
-            <p><b>Unlock Requirements</b>: 1500 Evil Buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Increase the production of all Evil buildings by 300% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 300%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 14.9%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 1.4%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosAffirmation.png" align="middle"><b> Villainous Affirmation</b></p>
+            <p><b>Requirements</b>: 12000 Evil buildings
             <p><b>Cost</b>: 100 Qaq (1E47)
-            <p><b>Unlock Requirements</b>: 12000 Evil buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Increase the production of all Evil buildings by 700% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 700%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 23.1%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 2.1%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainousProclamations.png" align="middle"><b> Villainous Proclamations</b></p>
+            <p><b>Requirements</b>: Ascension 1+, 20000 Evil buildings (16667 with Dwarf 5 on)
             <p><b>Cost</b>: 10 No (1E31)
-            <p><b>Unlock Requirements</b>: Post Ascension 20000 Evil buildings (16667 with Dwarf 5 on)
+            <p><b>Cost</b>: Ascension 2, Free
             <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Increase the production of all Evil buildings by 100%.
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 100%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 7.18%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutrality.png" align="middle"><b> Proof of Neutrality</b></p>
+            <p><b>Requirements</b>: At least one neutral faction unlocked
             <p><b>Cost</b>: 10 Qa (1E16)
-            <p><b>Unlock Requirements</b>: At least one neutral faction unlocked
-            <p><b>Alignment</b>: Any
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Effect</b>: Enables to join Neutral Factions
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrindingDedication.png" align="middle"><b> Grinding Dedication</b></p>
+            <p><b>Requirements</b>: 7 Hours Playtime (Total)
             <p><b>Cost</b>: 1 Sx (1E21)
-            <p><b>Unlock Requirements</b>: 7 Hours Playtime (Total)
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNeutrality.png" align="middle"><b> True Neutrality</b></p>
+            <p><b>Requirements</b>: 24 Hours Playtime as Neutral (Total)
             <p><b>Cost</b>: 500 T (5E14)
-            <p><b>Unlock Requirements</b>: 24 Hours Playtime as Neutral (Total)
-            <p><b>Alignment</b>: Neutral
-            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.
+            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Alignment</b>: Any
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralCertificate.png" align="middle"><b> Neutral Certificate</b></p>
+            <p><b>Requirements</b>: 3,500 Neutral Buildings
             <p><b>Cost</b>: 2 No (2E30)
-            <p><b>Unlock Requirements</b>: 3,500 Neutral Buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralValidation.png" align="middle"><b> Neutral Validation</b></p>
+            <p><b>Requirements</b>: 7,000 Neutral Buildings
             <p><b>Cost</b>: 4 Dd (4E39)
-            <p><b>Unlock Requirements</b>: 7,000 Neutral Buildings
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase the production of all Neutral buildings by 300% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralAffirmation.png" align="middle"><b> Neutral Affirmation</b></p>
-            <p><b>Cost</b>: 8 NoQag (8E180)
-            <p><b>Unlock Requirements</b>: 20,000 Neutral Buildings
+            <p><b>Requirements</b>: 20,000 Neutral Buildings
+            <p><b>Cost</b>: 8 NoQag (8E150)
+            <p><b>Cost</b>: Ascension 1+, Free
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase the production of all Neutral buildings by 700% Pre Ascension. (Post Ascension 7.18%)
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralProclamations.png" align="middle"><b> Villainous Proclamations</b></p>
+            <p><b>Requirements</b>: 50000 Neutral buildings
+            <p><b>Cost</b>: 16 Novg (1.6e91)
+            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Alignment</b>: Any
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
             <p><b>------------------------------</b></p>
             <h6>Post A2 - R100+</h6>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
