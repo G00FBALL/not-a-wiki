@@ -143,7 +143,7 @@ var x = setInterval(function() {
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.
     <p><img src="/realm/Factions/picks/TotalEvents2017.png" usemap="#TotalEvents2017-map">
     <map name="TotalEvents2017-map">
-    <area target=""  research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,7,62,61" shape="rect">
+    <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,7,62,61" shape="rect">
     <area target="" research="Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="69,5,126,62" shape="rect">
     <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="133,5,189,61" shape="rect">
     <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="196,5,254,62" shape="rect">
@@ -184,7 +184,7 @@ var x = setInterval(function() {
                 <p>The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM
                 <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.
                 <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.
-                <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby, 200 or 500 Snowballs
+                <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby or 200 Snowballs (every other present)
                 <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%
                 <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.
                 <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.
