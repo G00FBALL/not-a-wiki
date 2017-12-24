@@ -44,7 +44,7 @@
 <p>3.3	E80 Use Fairy with Fairy Bloodline or any?/Goblin Bloodline
 <p>4.1	Make A105 visible (RP105 in Alchemy only) Use Fairy with Fairy Bloodline 	
 <p>4.2	Unlock A105 Use Fairy with Goblin Bloodline (if not unlocked on previous run)
-<p>5.1	S50 A120 (A30) [W120] Use Fairy with Faceless Bloodline unlock right before reincarnation
+<p>5.1	S50 A120 (A30) [W120] Use Fairy with Faceless Bloodline unlock
 <p>5.2	Get to RP135 Using Elf with Titan Bloodline spam MB, and maybe TC
 <p>6.1	S135 Use Fairy with Goblin Bloodline 	
 <p>6.2	(C105) (C120) (C135) Use Elf with Elf Bloodline
