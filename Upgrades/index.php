@@ -172,15 +172,19 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b></p>
-            <p><b>Type</b>: Elven Spell Upgrade	
+            <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 12pm.)
             <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
-            <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game and autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
+            <p><b>Requirement</b>: R7+, but at least 100 Elven upgrades (Total, Accross all Rs).
+            <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.
+            <p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
             <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
-            <p>Sturdy Treasure Series (6 Upgrades)</p>
+            <p><b>Sturdy Treasure Series</b>: (6 Upgrades)</p>
+            <p><b>Requirement</b>: Click 100, 500, 2,500, 10,000, 50,000 and 100,000 times.
+            <p><b>Cost</b>: 500, 5,000, 5M (5E6), 5B (5E9), 50T (5E13),
             <p><b>Effect</b>: Add 1 click per second while offline. (per upgrade)</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.
@@ -204,7 +208,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
             <p><b>Sturdy Treasure</b></p>
             <p><b>Cost</b>: 500
-            <p><b>Unlock Requirements</b>: 100 Clicks (Total)
+            <p><b>Requirements</b>: 100 Clicks (Total)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.
             <p><b>------------------------------</b></p>
