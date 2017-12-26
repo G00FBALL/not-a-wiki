@@ -314,7 +314,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b> (R60+)</p>
     <p><b>Requirements</b>: 5000 Royal Exchanges
     <p><b>Cost</b>: cost 10 DQig (1e160)
-    <p><b>Effect</b>: Increase royal exchange bonus by 50%.
+    <p><b>Effect</b>: Increase royal exchange bonus by 250%.
     <p><b>Note</b>: Actually useless before R68, but it's trivial unlock.</p>
     <p><b>----------------------------------</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png" alt="Prestige Challenger" align="middle"> Prestige Challenger</b> (R63)</p>
