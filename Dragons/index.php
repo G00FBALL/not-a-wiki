@@ -9,7 +9,7 @@
 <p>"The Titan leader has approached you with an offer you cannot refuse: Use the help of your Draconic allies to guard his domain and lightning itself will enchant your riches."
 <p><b>Requirements</b>: Reincarnations 48, Dragon's Roar upgrade, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 1, Play as Titan/Dragon
 <p><b>Challenge</b>: Have 7200 Halls of Legends. 
-<p><b>Effect</b>: Mutiplicatively increase faction coin chance by 10% per Lightning Strike tier bought.
+<p><b>Effect</b>: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.
 <p><b>Effect</b>: Also increase Post-Ascension bonuses for Titan Drill and Titan Sized Walls.
 <p><b>Formula</b>: (250000^2.4)% and (25000^2.4)%
 <p><b>Upgrade</b>: Good for Titan/Dragon
