@@ -215,7 +215,7 @@
     <p><b>Tier Spell Upgrades (R42+)</p></b>
     <p><b>From R42+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.
-    <p><b>From R100+</b>, for each default spell, 6 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 7 times simultaneously.
+    <p><b>From R100+</b>, for each default spell, tier 7 spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 7 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast 2 random Dragon's Breath spell for the 7th tier.
     <p>Tier upgrade names start with the default spell's name followed by the tier number, starting from 2 to 6 (Holy Light 2, Holy Light 3, etc.)
     <p>Once tier spell upgrades are bought, you will need to use the Tiered Autocasting on each tier upgraded spell to set the amount of tier casts you wish, or else the casts will remain at tier 1.
