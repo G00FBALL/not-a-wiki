@@ -61,10 +61,11 @@
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D245,D260,D320,D1125,D1275,D1375,
-                <p>E135,E145,E320,E350,E1225,E1425,
+                <p>E135,E145,E350,E460,E1225,E1425,
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 is recommended.
+                <p><b>Notes</b>: Replace E320 with E460 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
          </div>
     </div>
         <div class="shelementwhole">
