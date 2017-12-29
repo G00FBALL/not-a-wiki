@@ -46,7 +46,7 @@
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
                 <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.
-                <p><b>Notes</b>: Replace E320 with E460 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
          </div>
     </div>
 <br/>
@@ -82,7 +82,7 @@
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 (Dragon's Breath 5) is recommended.
-                <p><b>Notes</b>: Replace E320 with E460 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
          </div>
     </div>
          </div>
