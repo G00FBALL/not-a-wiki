@@ -36,7 +36,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: 123123winz
-                    <p><b>Range</b>: ? Gems
+                    <p><b>Range</b>: 1e27 (1 Oc) gems - 1e38 (100 Ud) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
@@ -48,14 +48,16 @@
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Takes several minutes to set up.
-                    <p><b>Notes</b>: Swap D150 with D245 for longer (1 hour+) runs.
+                    <p><b>Notes</b>: Swap D150 with D245 for longer (45 minutes+) runs
+                    <p><b>Notes</b>: Swap W1375 with W400 for longer (3 hours+) runs.
+                    <p><b>Notes</b>: Swap W400 back with W1375 for SS7 runs (5 days+).
          </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: 1e38 (100 Ud) - 1e43 (10 Td) Gems
+                    <p><b>Range</b>: 1e38 (100 Ud) gems - 1e43 (10 Td) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
@@ -67,7 +69,7 @@
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Requires no buildup (Will get GB11 while running it)
-                    <p><b>Notes</b>: Estimated time 18 days for SS7. Next runs this R will take shorter due to White Breath growth. 
+                    <p><b>Notes</b>: Estimated time 18 days for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth. 
                 </div>
     </div>
             </div>
