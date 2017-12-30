@@ -107,7 +107,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7-R11<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Good Mercenary</p>
-                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Bloodline</b>: Angel</p>
                 <p><b>Mercenary Template</b>:</p>
                 <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
                 <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
