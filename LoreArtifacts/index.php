@@ -302,6 +302,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
     <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
     <p><b>Requirements</b>: R100+
+    <p><b>Chance</b>: 10%</p> 
     <p><b>Effect</b>: Increase the production of all buildings based on their tier.
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
     <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
