@@ -149,7 +149,7 @@
                 <p><b>Harlequin bonus</b>: 343%</p>
                 <p><b>Instructions</b></p>
                 <p>Don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power if it increases max mana. If you already have at least Priority Autocasting unlocked, cast Fairy Chanting and Tax Collection, otherwise cast Tax collection until you do. After you exceed 1100 mana/second and unlock Mana Waste, you can buy it and all the other max mana upgrades to greatly increase your mana regen for further autocasting unlocks.</p>
-                <p><b>Note</b>: Helden Sterben Nicht is used because it increases max mana and regen by the same amount, which on its own is a neutral effect towards getting Mana Waste. However, the extra regen helps the build grow faster, and the extra max mana increases the effect of Druid Bloodline, and decreases the base mana requirement for Mana Waste by a few percent.</p>
+                <p><b>Note</b>: Helden Sterben Nicht is used because it increases max mana and regen by the same amount, which on its own is a neutral effect towards getting Mana Waste. However, the extra regen helps the build grow faster, and decreases the base mana requirement for Mana Waste by a few percent.</p>
                 <p><b>Note</b>: While this can be used R12+, the extra max mana from Reincarnation Power will make it more difficult. It's best to get mana waste before R12 unless you want to wait until R18+.</p>
                 <p>by <b>pseudobyte</b></p>
             </div>
