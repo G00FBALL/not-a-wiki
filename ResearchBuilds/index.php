@@ -25,37 +25,35 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Elf R16</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Fairy R16</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Curunur
-                    <p><b>Faction</b>: Elf
-                    <p><b>Bloodline</b>: Titan
+                    <p><b>Author</b>: Lapare
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
-                    <p>S30,S105,S135,
-                    <p>C1,C105,C120,C135,
-                    <p>D50,D55,D135,
-                    <p>E25,E30,E80,E135,
-                    <p>A55,A105,A120,A135,
-                    <p>W10,W120,W135
+                    <p>S1,S30,S105,S135,
+                    <p>C10,C80,C105,C120,
+                    <p>D55,D135,
+                    <p>E50,E80,E135,
+                    <p>A30,A105,A120,A135,
+                    <p>W120,W135
                     <p><b>Autocasting</b>: SS on silver, the rest on Gold
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Elf R18</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Fairy R17-R18</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Note</b>
-                    <p>Fairies are still the better choice, but Elf becomes viable thanks to the Challenge reward and they are autocasting friendly so im including the build below for lazier people.
-                    <p><b>Faction</b>: Elf
-                    <p><b>Bloodline</b>: Elf
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
-                    <p>S30,S105,S135,S150,
-                    <p>C1,C120,C135,C150,
-                    <p>D50,D55,D135,D150,
-                    <p>E25,E80,E135,E150,
-                    <p>A105,A120,A135,A150,
-                    <p>W10,W120,W135,W150
+                    <p>S1,S30,S105,S135,
+                    <p>C10,C80,C120,C150,
+                    <p>D55,D135,D150,
+                    <p>E50,E135,E145,E150,
+                    <p>A30,A105,A120,A135,A150,
+                    <p>W120,W135,W150
                     <p><b>Autocasting</b>: SS on silver, the rest on Gold
                 </div>
             </div>
@@ -63,36 +61,36 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">R19-20</font></a></b></p>
         <div class="category autohide">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Elf R19</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Fairy R19</font></a></b></p>
                 <div class="autohide">
                     <p><b>Notes</b>
-                    <p>Thanks to S175 Elf becomes superior to Fairies apart from the starting run, just in time since buying RPs with excavs becomes a close thing.
                     <p>From now on Elfs are the recommended faction to buy the RPs.
-                    <p><b>Faction</b>: Elf
-                    <p><b>Bloodline</b>: Elf
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
-                    <p>S30,S105,S150,S175,
-                    <p>C80,C105,C120,C135,C150,
-                    <p>D50,D55,D135,D150,
-                    <p>E25,E80,E135,E150,
-                    <p>A105,A120,A135,A150,
-                    <p>W10,W120,W150,W180
+                    <p>S30,S105,S135,S180,
+                    <p>C10,C80,C120,C135,C150,
+                    <p>D55,D135,D150,
+                    <p>E50,E135,E145,E150,
+                    <p>A30,A105,A120,A135,A150,
+                    <p>W120,W135,W150,W180
                     <p><b>Autocasting</b>: SS on silver, the rest on Gold
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Elf R20</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Fairy R20</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Bloodline</b>: Elf
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
-                    <p>S30,S105,S150,S175,S200,
-                    <p>C80,C105,C120,C135,C150,
-                    <p>D50,D55,D135,D150,
-                    <p>E25,E80,E135,E150,E200,
-                    <p>A105,A120,A135,A150,A200,
-                    <p>W10,W120,W135,W150,W180
+                    <p>S30,S105,S135,S180,S200,
+                    <p>C10,C80,C120,C135,C150,
+                    <p>D55,D135,D150,D200,D205,
+                    <p>E50,E135,E145,E150,E200,
+                    <p>A30,A105,A120,A135,A150,
+                    <p>W120,W135,W150,W180,W200
                     <p><b>Autocasting</b>: SS on silver, the rest on Gold
                 </div>
             </div>
