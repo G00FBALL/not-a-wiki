@@ -12,10 +12,11 @@
 <p><b>Alignment</b>: Prestige (Evil)</p>
 <p><b>Faction spell</b>: Combo Strike</p>
 <p><b>Effect</b>: Increase the production of all buildings. The more spells cast, the more production is increased.</p>
+<p><b>Formula</b>: 30 * x ^ 0.9, where x is the number of times you have cast Combo Strike.
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PerfectComboFactionUpgrade.png" alt="Smiley face" align="middle"></a>  <b>Perfect Combo</b>
 <p><b>Requirement</b>: Cast Combo Strike 100 times in a single game,The chain is interrupted by casting different spells.</p>
 <p><b>Effect</b>: Increases Combo Strike bonus. 
-<p><b>Formula</b>: 40*(x^0.9)%, where x is the number of times you have cast Combo Strike.
+<p><b>Formula</b>: 40 * x ^ 0.9, where x is the number of times you have cast Combo Strike.
 <p><b>----------------------------------</b></p>
 <p><b>Unlock Requirements</b>:
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
