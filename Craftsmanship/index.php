@@ -197,7 +197,7 @@
 <p><b>Requirement</b>: 50m (50e6) Mana Produced (This game)
 <p><b>Cost</b>: 601.6 Tvg (6.016E74)
 <p><b>Effect</b>: Gain assistants based on mana produced in this game.
-<p><b>Formula</b>: floor(1.25 * ln(1 + x)^2), where x is mana produced (this game).
+<p><b>Formula</b>: floor(1.25 * ln(1 + x)^2.25), where x is mana produced (this game).
 <br/>
 <br/>
 <p><b>C1500</b> - <b>For Titan,Dragon</b> - <b>Research Name</b>: Gargantuaness
