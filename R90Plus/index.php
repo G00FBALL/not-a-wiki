@@ -97,6 +97,7 @@
                 <p><b>Notes</b>: Replace C400 with C1500 if 150%+.
                 <p><b>Notes</b>: Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
                 <p><b>Notes</b>: Replace W120 with W275 if buffed.
+                <p>Use Realm Weather Service to make sure LF hits Deep Mine, then abdicate when the spell finishes.
          </div>
     </div>
         <div class="shelementwhole">
