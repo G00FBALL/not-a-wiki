@@ -123,7 +123,7 @@
 <br/>
 <br/>
 <p><b>C330</b> - <b>For All Factions</b> - <b>Research Name</b>: Overload 
-<p><b>Requirement</b>: Research Aeromancy (A250) &amp; Critical Strike (W225) 
+<p><b>Requirement</b>: Research Aeromancy (S250) &amp; Critical Strike (W225) 
 <p><b>Cost</b>: 6.443 Sxg (6.443E183) 
 <p><b>Effect</b>: Increase clicking reward based on the amount of research made. 
 <p><b>Formula</b>: round(145 * x^0.38)%, where x is researches made.
