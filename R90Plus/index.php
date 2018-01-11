@@ -38,7 +38,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Requirements</b>: Elf Lineage level 30+
-                <p><b>Range</b>: 1e30 (1 No) - 1e90 (1 NoVg)? Gems
+                <p><b>Range</b>: 1e30 (1 No) - 1e68 (100 UVg) gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Elf
                 <p><b>Template</b>
@@ -59,7 +59,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
-                <p><b>Range</b>: 1e69 (1 DVg) - 1e129 (1 Dqag) Gems
+                <p><b>Range</b>: 1e68 (100 UVg) gems - 1e129 (1 DQag)(?) gems
                 <p><b>Template</b>
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:God's Hand,
@@ -69,11 +69,11 @@
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A120,A590,A1200,A1500,A2950,A3400,
                 <p>W120,W180,W400,W1275,W3050,W3150
-                <p><b>Notes</b>: 
-                <p>Replace C150 with C1500 if higher.
-                <p>Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
-                <p>Replace W120 with W275 if buffed.
-                <p>May need excavations for spell tiers to set up at low gems.
+                <p><b>Notes</b>:Have Lightning Strike hit Deep Mine for maximal production.
+                <p><b>Notes</b>:Replace C150 with C1500 if higher.
+                <p><b>Notes</b>:Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
+                <p><b>Notes</b>:Replace W120 with W275 if buffed.
+                <p><b>Notes</b>:May need excavations for spell tiers to set up at low gems.
          </div>
     </div>
         <div class="shelementwhole">
@@ -81,7 +81,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Range</b>: 1e90 (1 NoVg)(?) - 1.778e138 (1.778 Qiqag)(?) Gems
+                <p><b>Range</b>: 1e120 (1 NoTg)(?) gems - 1.778e138 (1.778 Qiqag)(?) gems
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
@@ -94,6 +94,7 @@
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A120,A590,A1200,A1500,A2950,A3400,
                 <p>W120,W180,W400,W1275,W3050,W3150
+                <p><b>Notes</b>:Have Lightning Strike hit Deep Mine for maximal production.
                 <p><b>Notes</b>: Replace C400 with C1500 if 150%+.
                 <p><b>Notes</b>: Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
                 <p><b>Notes</b>: Replace W120 with W275 if buffed.
@@ -104,7 +105,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Range</b>: 1e90 (1 NoVg)(?) - 1.778e138 (1.778 Qiqag) Gems
+                <p><b>Range</b>: 1e132 (1 TQag)(?) gems - 1.778e138 (1.778 Qiqag) gems
                 <p><b>Faction</b>: Evil Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
