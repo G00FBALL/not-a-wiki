@@ -75,7 +75,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
-                <p><b>Range</b>: 1e88 (100 OcVg) gems - 1e96 (1 UTg) gems
+                <p><b>Range</b>: 1e88 (10 OcVg) gems - 1e96 (1 UTg) gems
                 <p><b>Template</b>
                 <p>EL3,EL7,AN5,GB7,TT3,TT6,DD6,FC7,DN2,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Dragon's Breath,
@@ -117,7 +117,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Revenant 2.0 (R81-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Xemima
-                <p><b>Range</b>: 1e88 (100 OcVg) gems - 1e115 (1 QaTg) gems
+                <p><b>Range</b>: 1e88 (10 OcVg) gems - 1e115 (1 QaTg) gems
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
