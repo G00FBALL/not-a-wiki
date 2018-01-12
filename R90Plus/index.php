@@ -59,7 +59,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
-                <p><b>Range</b>: 1e68 (100 UVg) gems - 1e129 (1 DQag)(?) gems
+                <p><b>Range</b>: 1e68 (100 UVg) gems - 1e120 (1 NoTg)(?) gems
                 <p><b>Template</b>
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:God's Hand,
@@ -81,7 +81,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Range</b>: 1e120 (1 NoTg)(?) gems - 1.778e138 (1.778 Qiqag)(?) gems
+                <p><b>Range</b>: 1e120 (1 NoTg)(?) gems - 1e132 (1 TQag) gems
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
@@ -105,7 +105,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Range</b>: 1e132 (1 TQag)(?) gems - 1.778e138 (1.778 Qiqag) gems
+                <p><b>Range</b>: 1e132 (1 TQag) gems - 1.778e138 (1.778 Qiqag) gems
                 <p><b>Faction</b>: Evil Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
