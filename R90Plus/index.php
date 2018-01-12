@@ -19,18 +19,18 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Siku modified by Necrodoom
-                <p><b>Requirements</b>: Demon Lineage level 25+, Demon Perk 2 <b>NOT</b> needed
+                <p><b>Requirements</b>: Elf Lineage level 25+
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Demon
+                <p><b>Bloodline</b>: Elf
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Template</b>
-                <p>S105,S200,S270,S300,S330,S500,
-                <p>C150,C250,C330,C340,C400,C460,C500,
+                <p>S105,S200,S215,S270,S330,S500,
+                <p>C135,C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D250,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Requires excavations to set up for Demon Lineage.
+                <p><b>Notes</b>: Requires excavations to set up for Elf Lineage.
          </div>
     </div>
         <div class="shelementwhole">
