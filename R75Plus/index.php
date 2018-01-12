@@ -47,7 +47,7 @@
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Requires excavations to set up for demon lineage.
+                <p><b>Notes</b>: Requires excavations to set up for elf lineage.
          </div>
     </div>
         <div class="shelementwhole">
