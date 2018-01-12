@@ -23,7 +23,7 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
-                <p>S105,S200,S270,S300,S330,S500,
+                <p>S105,S200,S215,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
                 <p>E135,E145,E275,E320,E330,E400,
@@ -33,16 +33,16 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (R83-R90)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Siku modified by Necrodoom
                 <p><b>Range</b>: 0 gems - 1e33 (1 Dc) gems
-                <p><b>Requirements</b>: Demon Lineage level 25+, Demon Perk 2 <b>NOT</b> needed
+                <p><b>Requirements</b>: Elf Lineage level 25+
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Demon
+                <p><b>Bloodline</b>: Elf
                 <p><b>Template</b>
-                <p>S105,S200,S270,S300,S330,S500,
-                <p>C150,C250,C330,C340,C400,C460,C500,
+                <p>S105,S200,S215,S270,S330,S500,
+                <p>C135,C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D250,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
