@@ -58,7 +58,7 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
-                <p>S105,S200,S270,S300,S330,S500,
+                <p>S105,S200,S215,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
                 <p>E135,E145,E275,E320,E330,E400,
