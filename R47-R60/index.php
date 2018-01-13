@@ -193,6 +193,22 @@
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">D1275 (R50+)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Who Cares
+                <p><b>Range</b>: 1 No (1e30)
+                <p><b>Faction</b>: Fairy
+                <p><b>Bloodline</b>: Goblin
+                <p><b>Template</b>
+                <p>S105,S135,S180,S330,S400,S500,
+                <p>C10,C80,C105,C150,C330,C400,C520,
+                <p>D150,D200,D225,D250,D320,
+                <p>E30,E50,E135,E250,E320,
+                <p>A120,A270,A305,A330,A495,
+                <p>W135,W150,W180,W250,W400
+            </div>
+          </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 unlock build (R54+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
