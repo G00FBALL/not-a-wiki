@@ -69,7 +69,7 @@
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Requires no buildup (Will get GB11 while running it)
-                    <p><b>Notes</b>: Estimated time 18 days for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth. 
+                    <p><b>Notes</b>: Estimated time 14.5 days for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth. 
                 </div>
     </div>
             </div>
