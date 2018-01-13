@@ -3,6 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
 <h6>R16 Research Guide</h6>
+<p>The original/old guide can be found <a target="_blank" href="http://musicfamily.org/realm/OldR16Guide/"><b>here</b></a> <b>here</b></a>
+
 <p><b>To unlock Research follow the guide below, do not buy Prestige Faction<p></b>
 <p>The original post can be found <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1264578"><b>here</b></a> by <b>Namelessname</b></a>
 <p>This guide is to help you make it through the Research phase of R16 reasonably quickly, without wasting time on upgrades that are too hard to get or take a really long time when they would be much faster later, and without getting lost amid the complexity of it all.
