@@ -3909,6 +3909,29 @@
                     <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
                     <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
         </div>
+        <div class="shelementwhole">
+-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Rising Skies (R82-R90)<font color="Blue"> Good</font></a></b></p>
+-            <div class="autohide">
+-                <p><b>Author</b>: Artcrow
+-                <p><b>Faction</b>: Good Mercenary
+-                <p><b>Bloodline</b>: Dragon
+-                <p><b>A2950</b>: Demon
+-                <p><b>13th Upgrade</b>: FR7 (If it will get a Share Benefits tier), DN8, AN2 (Whichever is stronger otherwise)
+-                <p><b>Range</b>: 1e112 (1 TTg)(?) gems - 1e120 (1 NoTg) Gems
+-                <p><b>Template</b>
+-                <p>FR1,EL3,EL7,AN5,TT6,DD6,DD7,FC7,DN2,DG3,DG4,DG9,
+-                <p>SP:Grand Balance,SP:Fairy Chanting,
+-                <p>S215,S305,S330,S1275,S1450,S1500,
+-                <p>C225,C340,C400,C590,C1300,C3000,
+-                <p>D25,D245,D525,D1275,D1375,D2775,
+-                <p>E50,E135,E350,E410,E1225,E3250,
+-                <p>A30,A105,A120,A1500,A2950,A3400,
+-                <p>W10,W275,W400,W590,W1375,W3150
+-                <p><b>Notes</b>: Replace C400 with C1500 if 150% or above.
+-                <p><b>Multistage build</b>
+-                <p><b>Buildup phase</b>: Do <b>Not</b> purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 8 hours long.
+-                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal. Optimal production at near the end of the Fairy Chanting cast.
+        </div>
     </div>
     </div>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100+</a></b></p>
