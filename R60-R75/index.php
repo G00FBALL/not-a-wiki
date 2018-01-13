@@ -159,7 +159,7 @@
                 <p>A120,A305,A400,A545,A1325,A1500,
                 <p>W150,W180,W250,W400,W1375
                 <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 120k building requirement.
-                <p><b>Notes</b>: Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of target is irrelevant for this build.
+                <p><b>Notes</b>: Requires excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of target is irrelevant for this build.
             </div>
           </div>
         <div class="shelementwhole">
