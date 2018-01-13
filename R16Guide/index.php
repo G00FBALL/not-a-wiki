@@ -45,6 +45,6 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p>RPs increase by the number of the R, so if R16 had a max of 136 RPs, R17 has 136+17=153, <a target="_blank" href="http://musicfamily.org/realm/Researchtree">the research tree page</a> has the max number of RPs for all Rs between R16-R100, along with the total cost of all RPs you can buy at each R. (assuming you already have the max RPs for the previous R)</p>
 <p>The Evil Merc run is intended to get A25(666 HFB casts), A30(750 FC casts), and gain time toward W50(2d evil playtime this R), however at R18 you do all Vanilla challanges, which would get you some evil playtime as well, so if you aren't planning on afking anyway this run isn't necessary, if you are planning to afk it might be better to do so at higher RPs as you'll eventually need to afk once/twice as Elves and once as Angels to unlock all useful researches.</p>
 <p>Also note that if you complete the requirement as Merc you will still need to be Fairy/Demon and access Research at the same R to unlock it or it won't count.</p>
-<p>If you are having trouble with the spell names check <a href-"http://musicfamily.org/realm/Terminology/">this</a>.
+<p>If you are having trouble with the spell names check <a target="_blank" href="http://musicfamily.org/realm/Terminology/">this</a>.
 <p>My last tip is to try to have fun while playing the game, if you're not, what's the point of playing?
 <?php include "../scripts/footer.html"; ?>
