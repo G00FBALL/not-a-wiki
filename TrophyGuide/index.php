@@ -275,9 +275,9 @@
     <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png" alt="Iron Rush" align="middle"> <b>Iron Rush</b> (R40+)</p>
-    <p>Reach 750 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.
+    <p>Reach 725 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.
     <p><b>Cost</b>: 3.8 SxSxg (3.8e201) (Pre-A)
-    <p><b>Effect</b>: Iron Strongholds cost 5% more for all purposes.
+    <p><b>Effect</b>: Iron Strongholds count 5% more for all purposes.
     <p><b>----------------------------------</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" alt="Triple Weirdness" align="middle"> <b>Triple Weirdness</b> (R40+)</p>
     <p>Have exactly 333 of each Royal Exchange type.
