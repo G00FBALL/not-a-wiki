@@ -1136,7 +1136,6 @@
             <th>Cost</th>
             <th>Requirement</th>
             <th>Effect</th>
-            <th>Hints</th>
         </tr>
         </thead>
         <tbody>
@@ -1145,7 +1144,6 @@
             <td>1 DSpg (1e219)</p>A2+ Free</td>
             <td>Discover all the Mercenary researches.</td>
             <td>Increase the production of all buildings based on research done.</p>Formula</b>: 0.3 * x ^ 0.7, where x is total of research done.</td>
-            <td>Possible to earn earlier by lagging game.</td>
         </tr>
         <tr>
             <td><center>Genealogist</p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png"></td>
