@@ -3,6 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
+    <h6><a target="_blank" href="https://www.silvergames.com/en/t/kongregate"><img src="http://musicfamily.org/realm/Factions/picks/kongregate_anthill.png" alt="TrophiesTopPage" align="middle"></h6>
+<br/>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-jan-8th-2018?page=2#posts-12170739">REALM GRINDER Developers' Diary</a></b></p>
 <p><b><a target="_blank" href="http://www.divinegames.it/#support">Realm Grinder Support</a></b></p>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945">Realm Grinder forum</a></b></p>
