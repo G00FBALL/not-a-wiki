@@ -818,7 +818,7 @@
             <td>Can be done at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
         </tr>
         <tr>
-            <td><center>Stoic Resistance</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
+            <td><center>No Recruiting</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
             <td>1 Tg (1e93)</p>A1+ Free</td>
             <td>Reach 1 NoVg (1e90) gems without affiliating with mercenaries.</td>
             <td>Increase Mercenary production by 1% per Reincarnation.</td>
