@@ -3941,6 +3941,7 @@
                     <p><b>Notes</b>: Estimated time 6-9 days to unlock Spell Master trophy.
                     <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
         </div>
+        </div>
         <div class="shelementwhole">
 -            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Rising Skies (R82-R90)<font color="Blue"> Good</font></a></b></p>
 -            <div class="autohide">
@@ -3963,8 +3964,8 @@
 -                <p><b>Multistage build</b>
 -                <p><b>Buildup phase</b>: Do <b>Not</b> purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 8 hours long.
 -                <p><b>Production phase</b>: buy Round Table upgrade and cast all spells for production as normal. Optimal production at near the end of the Fairy Chanting cast.
-        </div>
-    </div>
+            </div>
+</div>
     </div>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100+</a></b></p>
         <div class="category autohide">
@@ -3986,5 +3987,6 @@
                     <p><b>Notes</b>: Note: Get to exactly 8333 Swarming Towers.
             </div>
         </div>
+    </div>
     </div>
 <?php include "../scripts/footer.html"; ?>
