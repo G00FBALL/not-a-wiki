@@ -198,22 +198,6 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Angels R25</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Faction</b>: Angels
-                    <p><b>Bloodline</b>: Druid
-                    <p><b>Range</b>: e99-e102
-                    <p><b>Duration</b>: 4h+
-                    <p>S105,S135,S150,S200,S215,
-                    <p>C105,C120,C135,C150,C250,
-                    <p>D1,D55,D200,D245,D320,
-                    <p>E80,E135,E145,E150,E200,
-                    <p>A50,A105,A120,A150,A250,
-                    <p>W135,W150,W180,W225,W290
-                    <p><b>Autocasting</b>: GH on Bronze, Rest on Gold
-                </div>
-            </div>
-            <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R26</font></a></b></p>
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
@@ -228,22 +212,6 @@
                     <p>W150,W180,W290,W320,W330
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
                     <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
-                </div>
-            </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Angels R26</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Faction</b>: Angels R26
-                    <p><b>Bloodline</b>: Druid
-                    <p><b>Range</b>: e99-e105
-                    <p><b>Duration</b>: 2h+
-                    <p>S135,S150,S200,S215,S330,
-                    <p>C105,C120,C135,C150,C330,
-                    <p>D1,D55,D200,D245,D320,
-                    <p>E80,E135,E150,E200,E330,
-                    <p>A50,A105,A120,A150,A330,
-                    <p>W150,W225,W290,W320,W330
-                    <p><b>Autocasting</b>: GH on Bronze, Rest on Gold
                 </div>
             </div>
         </div>
