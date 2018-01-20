@@ -113,7 +113,7 @@
 <td> Use Angels and all upgrades</p>You need about 40K gems and 37 mana regeneration.</td>
         </tr>
         <tr>
-            <td><center>Spellfury</p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png"></td>
+            <td><center>God's Rest</p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png"></td>
             <td>1 M (1e6)</p>A1+ Free</td>
             <td>Cast God’s Hand on any Sunday.</td>
             <td>While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</td>
