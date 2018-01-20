@@ -140,6 +140,13 @@
             <td>Increase your chance to find Faction Coins by an additional 1%.</td>
             <td>Elf, Fairy, Angel, Goblin, Undead and Demon</td>
         </tr>
+        <tr>
+            <td><center>Unitary</p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png"></td>
+            <td>10 M (1e7)</p>A1+ Free</td>
+            <td>Have exactly 1 of each building at any given time.</td>
+            <td>Increase the production of all buildings by 1.11111111.</td>
+            <td>yYou need about 47K gems.</td>
+        </tr>
         </tbody>
     </table>
 <br>
@@ -184,12 +191,6 @@
             <td><center>Archaeology Expedition</p><img src="http://musicfamily.org/realm/Factions/picks/ArchaeologyExpedition.png"></td>
             <td></td>
             <td>Excavate once.</td>
-        </tr>
-        <tr>
-            <td><center>Unitary</p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png"></td>
-            <td>10 M (1e7)</p>A1+ Free</td>
-            <td>Have exactly 1 of each building at any given time.</td>
-            <td>Increase the production of all buildings by 1.11111111.</td>
         </tr>
         <tr>
             <td><center>Halls of Balance</p><img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceSecretTrophy.png"></td>
