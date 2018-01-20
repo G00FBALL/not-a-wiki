@@ -110,7 +110,7 @@
             <td>4 Dc (4e33)</p>A1+ Free</td>
             <td>Cast Tax Collection while having 3 spells active.</td>
             <td>Increase Mana production by 5%.</td>
-            <td> Use Angels and all upgrades</td>
+<td> Use Angels and all upgrades</p>You need about 40K gems and 37 mana regeneration.</td>
         </tr>
         <tr>
             <td><center>Spellfury</p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png"></td>
