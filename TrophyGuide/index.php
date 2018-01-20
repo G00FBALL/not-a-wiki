@@ -110,7 +110,7 @@
             <td>4 Dc (4e33)</p>A1+ Free</td>
             <td>Cast Tax Collection while having 3 spells active.</td>
             <td>Increase Mana production by 5%.</td>
-<td> Use Angels and all upgrades</p>You need about 40K gems and 37 mana regeneration.</td>
+            <td> Use Angels and all upgrades</p>You need about 40K gems and 37 mana regeneration.</td>
         </tr>
         <tr>
             <td><center>God's Rest</p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png"></td>
@@ -145,7 +145,7 @@
             <td>10 M (1e7)</p>A1+ Free</td>
             <td>Have exactly 1 of each building at any given time.</td>
             <td>Increase the production of all buildings by 1.11111111.</td>
-            <td>yYou need about 47K gems.</td>
+            <td>You need about 47K gems.</td>
         </tr>
         </tbody>
     </table>
