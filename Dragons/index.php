@@ -56,7 +56,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DracometVaultChallenges.png" alt="Dracomet Vault" align="middle"> <b>Dracomet Vault</b></p>
 <p>"This backwater world has been conquered. The Dragonlords strive for greater riches. Follow the Dragon King, soar through the heavens and claim the energy of the cosmos."
 <p><b>Requirements</b>: Reincarnation 63, Completion of Dragon challenge 5, 12,000 research points spent across all facilities
-<p><b>Challenge</b>: Gather 2.5e18 faction coins, 1e141 diamond coins, 125,000 buildings, 2e10 mana produced, 7500 excavations, 6000 assistants, 300,000 max mana and 200,000 mana regen.
+<p><b>Challenge</b>: Gather 2.5e18 faction coins, 1e141 diamond coins, 125,000 buildings, 2e10 mana produced, 7500 excavations, 6000 assistants, 300,000 max mana and 175,000 mana regen.
 <p><b>Effect</b>: Gem production is passively increased over time based on the amount of artifacts you own. Resets on Abdications.
 <p><b>Formula</b>: 0.0015 * t^0.7 * a, where t is playtime this game in minutes, a is artifacts found.
 <p><b>Upgrade</b>: Good for Any
