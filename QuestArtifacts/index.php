@@ -57,7 +57,7 @@
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKings.png" alt="Horn of the Kings" align="middle"><b> Horn of the Kings</b></p>
 <p><b>Clues</b>: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the Wind.</p>
-<p><b>Unlocks</b>: Legacy of the Kings upgrade that adds 2 extra slots: 3 for Craftsmanship and 1 to the faction's facility you are playing</p>
+<p><b>Unlocks</b>: Legacy of the Kings upgrade that adds 3 extra slots: 2 for Craftsmanship and 1 to the faction's facility you are playing</p>
 <p><b>Requirements</b>: have Dwarven Forges, 3250+ Excavations (as Dwarf) Chance: 0.5%</p>
 <p><b>Cost</b>: 10 SxSpg (1E232) and 10m Dwarven Coins
 <p><b>Alignment</b>: Dwarf
