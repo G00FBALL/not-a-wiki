@@ -187,7 +187,7 @@
 <p><b>A1200</b> - <b>For Neutral,Dragon</b> - <b>Research Name</b>: Melting
 <p><b>Requirement</b>: 5000 Iron Stronghold, Any Neutral Dragon
 <p><b>Cost</b>: 15.56 Uvg (1.556E67)
-<p><b>Effect</b>: Increase the production of all other buildings per Iron Strongholds owned by 0.35%
+<p><b>Effect</b>: Increase the production of all other buildings per Iron Strongholds owned by 0.35%.
 <p><b>Formula</b>: 0.35 * x, where x is Iron Strongholds owned
 <br/>
 <br/>
