@@ -191,12 +191,12 @@
                     <p><b>Faction</b>: Goblin</p>
                     <p><b>Bloodline</b>: Titan</p>
                     <p><b>Range</b>: 1e126 gems</p>
-                    <p>S50,S135,S200,S330,S500,</p>
+                    <p>S50,S135,S200,S215,S330,</p>
                     <p>C120,C135,C150,C330,C400,</p>
                     <p>D55,D245,D290,D320,D400,</p>
                     <p>E80,E150,E225,E290,E330,</p>
                     <p>A10,A105,A120,A150,A330,</p>
-                    <p>W150,W205,W290,W320,W330</p>
+                    <p>W150,W290,W320,W330,W405</p>
                 </div>
             </div>
         </div>
@@ -237,6 +237,21 @@
                     <p>Start out by charging offline time for C250, if you want Faction Coins. Because the build does not focus on production, also have at least 1e117 (1 Octg) gems on hand.
                     <p>To start out, put Blood Frenzy on bronze 1 and Combo Strike on bronze 2, then Tax Collection on gold. If you need some production to get higher-level researches, wait for D55 to build up, then temporarily add all other spells as silver.
                     <p>Credits: Nebuleon, rezilm
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Flame Chance R33+</a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Lapare</p>
+                    <p><b>Faction</b>: Goblin</p>
+                    <p><b>Bloodline</b>: Titan</p>
+                    <p><b>Range</b>: 1e126 gems</p>
+                    <p>S50,S135,S200,S330,S500,</p>
+                    <p>C120,C135,C150,C330,C400,</p>
+                    <p>D55,D245,D290,D320,D400,</p>
+                    <p>E80,E150,E225,E290,E330,</p>
+                    <p>A10,A105,A120,A150,A330,</p>
+                    <p>W150,W205,W290,W320,W330</p>
                 </div>
             </div>
             <div class="shelementwhole">
