@@ -204,11 +204,15 @@
                 <p>W120,W150,W180,W250,W290</p>
             </div>
         </div>
+    </div>
+    <br/>
+    <p><b>Prestige Research phase</b></p>
+    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R29+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Faction</b>: Undead</p>
+                <p><b>Faction</b>: Undead/Drow</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p>S105,S135,S215,S225,S330,</p>
                 <p>C120,C135,C150,C330,C400,</p> 
@@ -218,15 +222,11 @@
                 <p>W135,W205,W250,W400,W405</p>
             </div>
         </div>
-    </div>
-    <br/>
-    <p><b>Prestige Research phase</b></p>
-    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Faction</b>: Goblin</p>
+                <p><b>Faction</b>: Goblin/Drow</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Range</b>: 1e126 gems</p>
                 <p>S50,S135,S200,S330,S500,</p>
