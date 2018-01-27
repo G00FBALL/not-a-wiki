@@ -1612,7 +1612,7 @@ var x = setInterval(function() {
     <p>Players who participate in all our Events will be rewarded with a greater cumulative bonus.</p>
     <p><b>Event Announcements</b>
     <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder forum</a> at Kongregate.com. A copy of these announcements can be found below.
-    <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-sep-28th-2016">REALM GRINDER Developers' Diary</a></b></p>
+    <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-jan-25th-2018?page=3#posts-12354005">REALM GRINDER Developers' Diary</a></b></p>
         <?php include "../scripts/footer.html"; ?>
 
 
