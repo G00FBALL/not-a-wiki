@@ -205,17 +205,17 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R26+<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R29+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
                 <p><b>Faction</b>: Undead</p>
-                <p><b>Bloodline</b>: Drowline (or Druidline if you dont have Drowline)</p>
-                <p>S105,S150,S200,S270,S330,</p>
-                <p>C105,C120,C135,C150,C330,</p>
-                <p>D135,D200,D250,D290,D320,</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p>S105,S135,S215,S225,S330,</p>
+                <p>C120,C135,C150,C330,C400,</p> 
+                <p>D135,D250,D290,D320,D400,</p> 
                 <p>E10,E80,E135,E150,E250,</p>
                 <p>A55,A105,A120,A175,A270,</p>
-                <p>W120,W135,W205,W250,W290</p>
+                <p>W135,W205,W250,W400,W405</p>
             </div>
         </div>
     </div>
