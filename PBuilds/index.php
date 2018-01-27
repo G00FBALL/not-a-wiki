@@ -240,7 +240,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Flame Chance R33+</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar) (R34+)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Goblin</p>
