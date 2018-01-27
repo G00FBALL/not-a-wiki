@@ -33,7 +33,7 @@ Get used to making backups before abdicating so you can always undo if necessary
 <p><b>Requirement</b>: Abdicate after producing at least 1Oc Coins.
 <p><b>Effect</b>: Increase the production of all buildings by 8%.	
 <p><b>Cost</b>: 1 Oc (1E27) 
-<p><b>Tip</b>: This is done at the end of R0
+<p><b>Tip</b>: This is done at the end of R0.
 
 <p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png" alt="Stoic Resistance" align="middle"> <b>Stoic Resistance</b> (R34-39)
 <p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation without abdicating since the start of a new Reincarnation.(1 Oc = cost of the 1st reincarnation)
