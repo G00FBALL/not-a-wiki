@@ -23,7 +23,7 @@
                     <p>E50,E135,E150,E330,E410,</p>
                     <p>A30,A105,A120,A330,A400,</p>
                     <p>W150,W180,W290,W320,W330</p>
-                    <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: For maximising excavations E50→E290</p>
                 </div>
             </div>
             <div class="shelementwhole">
