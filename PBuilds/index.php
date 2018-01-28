@@ -56,7 +56,7 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S1,C135,C500</p>
-                    <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: For maximising excavations E50→E290</p>
                     <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
                 </div>
             </div>
