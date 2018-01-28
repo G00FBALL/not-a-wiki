@@ -145,7 +145,7 @@
                     <p>E50,E135,E150,E330,E410,</p>
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W150,W180,W290,W320,W330</p>
-                    <p><b>Note</b>: For maximising excavations E330→E290</p>
+                    <p><b>Note</b>: For maximising excavations E50→E290</p>
                     <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
                     <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
                 </div>
