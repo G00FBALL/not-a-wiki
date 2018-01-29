@@ -176,9 +176,9 @@
         </tr>
         <tr>
             <td><center>Fairy Choir</p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png"></td>
-            <td>1 M (1ee6)</p>A1+ Free</td>
+            <td>1 M (1e6)</p>A1+ Free</td>
             <td>Cast Fairy Chanting while having 45 or more assistants.</td>
-            <td>Fairy Chanting tripples your assistant whilt it is active.</td>
+            <td>Fairy Chanting triples your assistant while it is active.</td>
             <td>Fairy spell</p>Helps for unlocking Dwarves</td>
         </tr>
         <tr>
