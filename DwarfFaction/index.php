@@ -105,7 +105,7 @@
 <p><b>Cost</b>: 10 USxg (1E187)
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
 <p><b>Effect</b>: Unlocks The Secrets of the Underworld upgrade.</p>
-<p><b>Requirements</b>: Requirements: R29 + 2750th Excavation
+<p><b>Requirements</b>: R29 + 2750th Excavation
 <p><b>Effect</b>: Unlocks The Secrets of the Underworld.
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Underworld</b></p>
 <p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.
