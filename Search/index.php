@@ -14,8 +14,7 @@ q=q==null?"":q;    $("#SearchResult").attr('src','http://search.freefind.com/fin
 
 });
 
-function search(){
-window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').val())
+
 }
     </script>
 <?php include "../scripts/footer.html"; ?>
