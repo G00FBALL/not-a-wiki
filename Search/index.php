@@ -4,13 +4,12 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <iframe style="
-    width: 100%;
+    width: 100%; 
         min-height: 67em; border:0;" id="SearchResult" src="">
 </iframe>
 <script>
-    $(document).ready(function(){
-    $("#SearchResult").attr('src','http://search.freefind.com/find.html?id=32588065&pageid=r&sbv=j2&_charset_=UTF-8&bcd=%C3%B7&scs=1&query='+new URLSearchParams(window.location.search).get('q')+'&Find=Search&mode=ALL');
-
-});
+function Search(){
+window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').val())
+}
     </script>
 <?php include "../scripts/footer.html"; ?>
