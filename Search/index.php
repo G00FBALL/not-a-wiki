@@ -8,6 +8,12 @@
         min-height: 67em; border:0;" id="SearchResult" src="">
 </iframe>
 <script>
+$(document).ready(function(){
+    var q=new URLSearchParams(window.location.search).get('q');    
+q=q==null?"":q;    $("#SearchResult").attr('src','http://search.freefind.com/find.html?id=32588065&pageid=r&sbv=j2&_charset_=UTF-8&bcd=%C3%B7&scs=1&query='+q+'&Find=Search&mode=ALL');
+
+});
+
 function Search(){
 window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').val())
 }
