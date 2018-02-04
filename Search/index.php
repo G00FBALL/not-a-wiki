@@ -10,7 +10,7 @@
 <script>
     $(document).ready(function(){
     $("#SearchResult").attr('src','http://search.freefind.com/find.html?id=32588065&pageid=r&sbv=j2&_charset_=UTF-8&bcd=%C3%B7&scs=1&query='+new URLSearchParams(window.location.search).get('q')+'&Find=Search&mode=ALL');
-id='query'
+
 });
     </script>
 <?php include "../scripts/footer.html"; ?>
