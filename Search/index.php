@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <iframe style="
-    width: 100%;
+    width: 70%;
         min-height: 67em; border:0;" id="SearchResult" src="">
 </iframe>
 <script>
