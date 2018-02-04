@@ -51,6 +51,10 @@
 <![endif]-->
 <!-- Piwik -->
 <script>
+function search(){
+window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').val())
+</script>
+<script>
     $(document).ready(function () {
         $("#Expand").on("hide.bs.collapse", function () {
             $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Expand');
