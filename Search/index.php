@@ -15,6 +15,6 @@ q=q==null?"":q;    $("#SearchResult").attr('src','http://search.freefind.com/fin
 });
 
 
-}
+
     </script>
 <?php include "../scripts/footer.html"; ?>
