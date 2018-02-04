@@ -56,7 +56,7 @@ window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').va
 }
 </script>
 <script>
-$("#query").keypress(function(event) {
+$("#query").keydown(function(event) {
 event.preventDefault();
     if (event.keyCode === 13) {
         search();
