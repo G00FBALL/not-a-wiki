@@ -121,7 +121,7 @@
     <p><b>Effect</b>: Increase non unique building production based on the sum of your faction spells activity time.
     <p><b>Formula</b>: (0.25 * x ^ 0.75), where x is faction spell activity time.
     <p><b>----------------------------------</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/Titan HelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Titan Set.
@@ -252,12 +252,15 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time</p>
-<p><b>Formula</b>: 0.03 * x ^ 0.6, where x is seconds in faction spells
+<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount od Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own. </p>
+<p><b>Formula</b>: (0.6*x^0.6), where x is amount of Holy Sites owned.
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
-<p><b>Moved</b>: Now #2 upgrade with no other change
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Angels Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time</p>
+<p><b>Formula</b>: 0.03 * x ^ 0.6, where x is seconds in faction spells
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
@@ -351,7 +354,7 @@
 <p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>:  (ln(x))????????
+<p><b>Formula</b>:  (ln(x))
 <br/>
 <br/>
 <p><b>Goblin</b>
@@ -381,7 +384,7 @@
 <p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier. Lower tiers get better bonuses.</p>
-<p><b>Formula</b>: 65 * (11-T) ^ 3)
+<p><b>Formula</b>: (10 * (11 - T) ^ 3)
 
 
 <?php include "../scripts/footer.html"; ?>
