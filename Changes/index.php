@@ -54,7 +54,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Fairy Set.
     <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Wizard Tower.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/FairySet.png&quot; align=&quot;middle&quot;><b> Fairy Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FairySet.png" align="middle"><b> Fairy Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Silk Cloth, Pink Carrot, Bottled Voice
     <p><b>Cost</b>: Free
@@ -66,7 +66,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Elven Set.
     <p><b>Chance</b>: ((2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/ElvenSet.png&quot; align=&quot;middle&quot;><b> Elven Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenSet.png" align="middle"><b> Elven Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Raw Emerald, Lucky Clover, Mini-treasure
     <p><b>Cost</b>: Free
@@ -78,7 +78,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Angel Set.
     <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/AngelSet.png&quot; align=&quot;middle&quot;><b> Angel Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AngelSet.png" align="middle"><b> Angel Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Fossilized Wing, Pillar Fragment, DivineSword
     <p><b>Cost</b>: Free
@@ -90,7 +90,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Goblin Set.
     <p><b>Chance</b>: (x - 10000) / 300000)%, where x is Slave Pens.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GoblinSet.png&quot; align=&quot;middle&quot;><b> Goblin Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinSet.png" align="middle"><b> Goblin Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Spiked Whip, Ancient Coin Piece, Goblin Purse
     <p><b>Cost</b>: Free
@@ -102,7 +102,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Undead Set.
     <p><b>Chance</b>: (1 / 30 + (x ^ 1.75))%, where x is time this game in seconds.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/UndeadSet.png&quot; align=&quot;middle&quot;><b> Undead Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadSet.png" align="middle"><b> Undead Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: DustyCoffin Spiked Whip, Rotten Organ, JawBone
     <p><b>Cost</b>: Free
@@ -114,7 +114,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Demon Set.
     <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/DemonSet.png&quot; align=&quot;middle&quot;><b> Demon Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DemonSet.png" align="middle"><b> Demon Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: CrystallizedLava, Demonic Figurine, Demon Horn
     <p><b>Cost</b>: Free
@@ -126,7 +126,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Titan Set.
     <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/TitanSet.png&quot; align=&quot;middle&quot;><b> Titan Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TitanSet.png" align="middle"><b> Titan Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Titan Helmet, Huge Titan Statue, Titan Shield
     <p><b>Cost</b>: Free
@@ -138,7 +138,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Druid Set.
     <p><b>Chance</b>: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/DruidSet.png&quot; align=&quot;middle&quot;><b> Druid Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DruidSet.png" align="middle"><b> Druid Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Branch of the Life Tree, Glyph Table, Stone Of Balance
     <p><b>Cost</b>: Free
@@ -150,7 +150,7 @@
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Faceless Set.
     <p><b>Chance</b>: (x ^ 1.5 / 20000000 (20M))%, where x is headstart time in seconds.
-    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/FacelessSet.png&quot; align=&quot;middle&quot;><b> Faceless Set</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessSet.png" align="middle"><b> Faceless Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Nightmare Figment, Translucent Goo, Octopus-shaped Helmet
     <p><b>Cost</b>: Free
