@@ -101,7 +101,8 @@
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Undead Set.
-    <p><b>Chance</b>: (1 / 30 + (x ^ 1.75))%, where x is time this game in seconds.
+    <p><b>Chance</b>: ((1 / (30 + x ^ 1.75))%, where x is time this game in seconds.
+    <p><b>Chance</b>: 1 in 3000 in 0 seconds 1 in 132349 at 60 seconds. 1 in 438078 at 120 seconds.
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadSet.png" align="middle"><b> Undead Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: DustyCoffin Spiked Whip, Rotten Organ, JawBone
