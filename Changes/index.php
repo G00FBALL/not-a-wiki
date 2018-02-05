@@ -162,66 +162,66 @@
 <p><a target="" href="http://musicfamily.org/realm/Lineages/"><b>Lineage Page</b></a></p>
 <p><b>Added</b>: Level 30 Lineage Perks
     <p><b>Fairy Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.
     <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds. 
 <br/>
 <br/>
     <p><b>Elven Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 500%.
 <br/>
 <br/>
     <p><b>Angel Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When God's Hand is active, increase max mana by 100%.
 <br/>
 <br/>
     <p><b>Goblin Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned. 
     <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is assistants owned.
 <br/>
 <br/>
     <p><b>Undead Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When offline, Night Time production is added to offline bonus. Night Time activity time counts 100% more for all purposes.
 <br/>
 <br/>
     <p><b>Demon Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Non-Unique Uuildings except Hall of Legends are also targeted by Hellfire Blast.
 <br/>
 <br/>
     <p><b>Titan Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Lightning Strike always hits Unique Buildings in addition to its random target. Unique Buildings are no longer random targets.
 <br/>
 <br/>
     <p><b>Druid Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned. Also increase the  production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
     <p><b>Duration Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.
 <br/>
 <br/>
     <p><b>Faceless Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Brainwave headstart time is increased by 1000%.
 <br/>
 <br/>
     <p><b>Dwarf Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance. 
     <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.
 <br/>
 <br/>
     <p><b>Drow Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.
 <br/>
 <br/>
     <p><b>Dragon Level 30</b>
-    <p><b>Requirement</b>: A2+
+    <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Activates two breaths per cast.
 <p><b>------------------------------</b>
 <p><a target="" href="http://musicfamily.org/realm/Ascension2/"><b>A2 Page</b></a></p>
