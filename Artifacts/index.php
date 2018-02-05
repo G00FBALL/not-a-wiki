@@ -105,7 +105,7 @@
 <h6>Artifact Sets</h6>
 <p><b>Finding all the faction artifacts for a specific faction</b> will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.
 <p><b>Requires all artifacts related to the faction to use its set.</b>
-<h6><center><img src="http://musicfamily.org/realm/Factions/picks/AS.png" usemap="#FactionSets-map"></h6>
+<h6><center><img src="http://musicfamily.org/realm/Factions/picks/FactionSets.png" usemap="#FactionSets-map"></h6>
 <map name="FactionSets-map">
     <area target="" research="<img src=&quot;http://musicfamily.org/realm/Factions/picks/FairySet.png&quot; align=&quot;middle&quot;><b> Fairy Set</b></p><p>Requirement: A2+<p>Artifacts Required: Silk Cloth, Pink Carrot, Bottled Voice<p>Cost: Free<p>Effect: Increase Farm, Inn and Blacksmith production based on number of assistants owned.<p>Formula: (0.75 * x ^ 0.75), where x is number of assistants owned." coords="6,7,54,56" shape="rect">
     <area target="" research="<img src=&quot;http://musicfamily.org/realm/Factions/picks/ElvenSet.png&quot; align=&quot;middle&quot;><b> Elven Set</b></p><p>Requirement: A2+<p>Artifacts Required: Raw Emerald, Lucky Clover, Mini-treasure<p>Cost: Free<p>Effect: Increase all building production based on total amount of Elven Lucks triggered (This R)(since unlock).<p>Formula: (0.66 * x ^ 0.6), where x is amount of Elven Lucks triggered."  coords="59,7,110,57" shape="rect">
