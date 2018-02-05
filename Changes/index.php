@@ -347,7 +347,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Assistants count 1000% more for all purposes.</p>
+<p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.
+<p><b>Formula</b>: (0.68 * x ^ 0.68)
+<p><b>Note</b>: Only works on upgrades that check assistant count</p>
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>
