@@ -359,7 +359,7 @@
     <p><b>Effect</b>: Unlocks Demon Set.
     <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.
     <p><b>----------------------------------</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/Titan HelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Titan Set.
