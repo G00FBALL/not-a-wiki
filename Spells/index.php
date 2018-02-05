@@ -214,6 +214,7 @@
     <p><b>------------------------------</b>
     <p><b>Tier Spell Upgrades (R42+)</p></b>
     <p><b>From R42+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
+    <p>The generalized formula for spell tiers is B^T, where B is the base spell production and T is the tier of the spell. The exceptions to this are Gem Grinder, which increases its production by a linear amount, and Dragon's Breath, which simply adds one new type of Dragon Breath to the current breaths in effect.
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.
     <p><b>From R100+</b>, for each default spell, tier 7 spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 7 times simultaneously.
     <p><b>Note</b>: Dragon's Breath will cast 2 random Dragon's Breath spell for the 7th tier.
