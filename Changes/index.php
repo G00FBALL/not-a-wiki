@@ -4,601 +4,384 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<h6>Release date, October 11, 2017</h6>
+<h6>Release date, February 5, 2018</h6>
+<p><b>Excavation</b>
+<p><b>A2+ Only</b>: Free reset if enough times excavated this R 2000 + 50 * R + 500 * x, where x is amount of resets this R
 <p><b>Trophies</b>
 <p><a target="" href="http://musicfamily.org/realm/TrophyPage/"><b>Trophy Map Page</b></a></p>
-<p>Added 12 Trophies<p>
-<p><b>Changed</b>: Iron Rush
-<p><b>Requirement</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.
+<p><b>Moved 13 Trophies</b><p> Research associated 'Secret Trophies' moved to 'Misc Trophies'
+<p><b>Added</b>  2 Secret Trophies<p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png" align="middle"><b> Holy Frenzy</b></p>
+            <p><b>Requirement</b>: In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.
+            <p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.
+            <p><b>Formula</b>: (50 * T ^ 2)
+            <p><b>Note</b>: Upgrade scales from Holy Light/Blood Frenzy tiers.
+            <p><b>Cost</b>: 100 Dc (1e35)
+            <p><b>------------------------------</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png" align="middle"><b> Uniformity</b></p>
+            <p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.
+            <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.
+            <p><b>Formula</b>: 0.7 * min(x ,y, z. s, t ,u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).
+            <p><b>Cost</b>: 100 Qid (1e50)
+    <p><b>----------------------------------</b></p>
 <br/>
 <br/>
-<p><b>Changed</b>: Autoclicker
-<p><b>Requirement</b>: Perform 40 autoclicks in 1 second, R60+
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon Tamer
-<p><b>Effect</b>: Increase the production of all buildings by 200% and triples Faction Coin find chance.
-<br/>
-<br/>
-<p><b>Changed</b>: Mana Waste
-<p><b>Formula</b>: (127*(log10(1+x))^2.7)
-<br/>
-<br/>
-<p><b>Changed</b>: Master Researcher
-<p><b>Effect</b>: Increase the overall production of Dragons by 9.6%.
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/Mana/"><b>Mana Trophy Page</b></a></p>
-<p><b>Changed</b>
-<p><b>Mana Wave</b>: R40+
-<p><b>Mana River</b>: R40+
-<p><b>Mana Lake</b>: R40+
-<p><b>Added</b>: Mana Spring, R100+
-<p><b>Added</b>: Arcane 5
-<p><b>Added</b>: Arcane 6
-<p><b>Changed</b>: Mana Sea
-<p><b>Requirement</b>: 1e12, R40+
-<p><b>Changed</b>: Mana Ocean
-<p><b>Requirement</b>: 2e12, R40+
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/TotalBuildings/"><b>Total Buildings Page</b></a></p>
-<p><b>Added</b>: Master Grinder
-<p><b>Requirement</b>: Build a total of 200,000 buildings
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/Spelltrophy/"><b>Spell Trophy Page</b></a></p>
-<p><b>Added</b>: Spell Master
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/Secret/"><b>Secret Trophy Page</b></a></p>
-<p><b>Added</b>: Warrior Researcher
-<p><b>Added</b>: Triple Weirdness
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/FactionCoin/"><b>Faction Coin Trophy Page</b></a></p>
-<p><b>Added</b>: 1 Nonillion Faction Coins
-<p><b>Added</b>: 1 Tredecillion Faction Coins
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/Assistant/"><b>Assistant Trophy Page</b></a></p>
-<p><b>Added</b>: Assistant Galaxy
-<p><b>Added</b>: Assistant Universe
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/RTrophies/"><b>Reincarnation Trophy Page</b></a></p>
-<p><b>Added</b>: 85 Reincarnations
-<p><b>Added</b>: 100 Reincarnations
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/Reincarnation/"><b>Reincarnation Page</b></a></p>
-<p><b>Added</b>: 85 Reincarnations
-<p><b>Added</b>: 100 Reincarnations
-<p><b>------------------------------</b>
-<br/>
-<br/>
-<p><b>Artifacts</b>
-<p><b>Added</b>: 3 new artifacts
-<p><a target="" href="http://musicfamily.org/realm/Artifacts/"><b>Artifacts Map Page</b></a></p>
-<p><b> <a target="" href="http://musicfamily.org/realm/LoreArtifacts/">Lore Artifacts Page</b></a></p>
-<br/>
-<br/>
-<p><b>Added Note</b>: Ancient Device
-<p><b>Note</b>: Has no effect R99+
-<br/>
-<br/>
-<p><b>Changed</b>: WallFragment
-<p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
-<br/>
-<br/>
-<p><b>Changed</b>: Demonic Figurine
-<p><b>Requirement</b>: Play as Demon (Not Drow) 666 Trophies unlocked.
-<br/>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
-<p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.
-<p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
-<p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
-<p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.
-<p><b>Chance</b>: 10%
-<p><b>Note</b>: Does not work while offline.
-<br/>
-<br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figureine</b></p>
-    <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
-    <p><b>Requirement</b>: R90+
-    <p><b>Chance</b>: (x/1,000,000)%, where x is seconds this game.
-    <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
-<br/>
-<br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunck</b></p>
+<p><a target="" href="http://musicfamily.org/realm/Artifacts/"><b>Artifacts Page</b></a></p>
+<p><b>Added</b>: 10 Artifacts, 9 that unlock Faction Sets
+<p><b>Changed</b>: 1 Artifact
+   <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
     <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
-    <p><b>Requirements</b>: R100+
-    <p><b>Effect</b>: Increase the production of all buildings based on their tier.
-    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-    <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+   <p><b>Requirements</b>: R100+
+   <p><b>Chance</b>: 10%
+   <p><b>Effect</b>: Increase the production of all buildings based on their tier.
+   <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins
+   <p><b>New Formula</b>: 30000 * (11-x) ^ 3.5, where x is building tier.
+   <p><b>Old Formula</b>: 100000 * (11-x) ^ 3, where x is building tier.
 <br/>
 <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
-    <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
+<p><b>Added</b>: 10 Artifacts, 9 that unlock Faction Sets
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
+    <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
     <p><b>Requirement</b>: R100+
-    <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
-    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+    <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.
+    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5) / 10) where x is seconds this game/since lineage bought, y is lineage level and z is reincarnations
+    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 if ancient heirloom
+    <p><b>Secret Upgrade Cost</b>: 1 Novg (1e90) Emerald Coins
+    <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png" align="middle"><b> Silk Cloth</b></p>
+    <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Fairy Set.
+    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Wizard Tower.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/FairySet.png&quot; align=&quot;middle&quot;><b> Fairy Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Silk Cloth, Pink Carrot, Bottled Voice
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase Farm, Inn and Blacksmith production based on number of assistants owned.
+    <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is number of assistants owned.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png" align="middle"><b> Raw Emerald</b></p>
+    <p><b>Description</b>: Just slightly less precious than a raw Ruby.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Elven Set.
+    <p><b>Chance</b>: ((2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/ElvenSet.png&quot; align=&quot;middle&quot;><b> Elven Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Raw Emerald, Lucky Clover, Mini-treasure
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase all building production based on total amount of Elven Lucks triggered (This R)(since unlock).
+    <p><b>Formula</b>: (0.66 * x ^ 0.6), where x is amount of Elven Lucks triggered.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
+    <p><b>Description</b>: The remains of an Angel fallen to earth.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Angel Set.
+    <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/AngelSet.png&quot; align=&quot;middle&quot;><b> Angel Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Fossilized Wing, Pillar Fragment, DivineSword
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase mana regen based on spells cast this game.
+    <p><b>Formula</b>: (0.32 * x ^ 0.32), where x is spells cast.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png" align="middle"><b> Spiked Whip</b></p>
+    <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Goblin Set.
+    <p><b>Chance</b>: (x - 10000) / 300000)%, where x is Slave Pens.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GoblinSet.png&quot; align=&quot;middle&quot;><b> Goblin Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Spiked Whip, Ancient Coin Piece, Goblin Purse
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.
+    <p><b>Formula</b>: (x ^ 0.7), where x is seconds.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> DustyCoffin</b></p>
+    <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Undead Set.
+    <p><b>Chance</b>: (1 / 30 + (x ^ 1.75))%, where x is time this game in seconds.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/UndeadSet.png&quot; align=&quot;middle&quot;><b> Undead Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: DustyCoffin Spiked Whip, Rotten Organ, JawBone
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Additively Increase max mana based on offline bonus.
+    <p><b>Formula</b>: (45 * x ^ 0.6), where x is offline Multiplier.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> CrystallizedLava</b></p>
+    <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Demon Set.
+    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/DemonSet.png&quot; align=&quot;middle&quot;><b> Demon Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: CrystallizedLava, Demonic Figurine, Demon Horn
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase non unique building production based on the sum of your faction spells activity time.
+    <p><b>Formula</b>: (0.25 * x ^ 0.75), where x is faction spell activity time.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/Titan HelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
+    <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Titan Set.
+    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/TitanSet.png&quot; align=&quot;middle&quot;><b> Titan Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Titan Helmet, Huge Titan Statue, Titan Shield
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase Unique building production based on time spent this game.
+    <p><b>Formula</b>: (0.07 * x ^ 0.7), where x is seconds.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png" align="middle"><b> Branch of the Life Tree</b></p>
+    <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Druid Set.
+    <p><b>Chance</b>: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/DruidSet.png&quot; align=&quot;middle&quot;><b> Druid Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Branch of the Life Tree, Glyph Table, Stone Of Balance
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase production of all buildings based on their quantity.
+    <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is building count.
+    <p><b>----------------------------------</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png" align="middle"><b> Nightmare Figment</b></p>
+    <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
+    <p><b>Requirement</b>: A2+, 3000+ Excavations
+    <p><b>Effect</b>: Unlocks Faceless Set.
+    <p><b>Chance</b>: (x ^ 1.5 / 20000000 (20M))%, where x is headstart time in seconds.
+    <p><img src=&quot;http://musicfamily.org/realm/Factions/picks/FacelessSet.png&quot; align=&quot;middle&quot;><b> Faceless Set</b></p>
+    <p><b>Requirement</b>: A2+
+    <p><b>Artifacts Required</b>: Nightmare Figment, Translucent Goo, Octopus-shaped Helmet
+    <p><b>Cost</b>: Free
+    <p><b>Effect</b>: Increase production of all buildings based on highest amount of spells cast in a single game.
+    <p><b>Formula</b>: (0.32 * x ^ 0.32), where x is number of spells cast.
 <p><b>------------------------------</b>
 <br/>
 <br/>
-<p><b>Reincarnation</b>
-<p><b>Added</b>: New R power and Perks
-<p><a target="" href="http://musicfamily.org/realm/Reincarnation/"><b>Reincarnation Page</b></a></p>
-<p><b>------------------------------</b>
-<p><b>Reset</b>: Added (At the end of R39 and R99 the Reincarnation Button will say Ascension.)
-<p>Updated<b> <a target="" href="http://musicfamily.org/realm/Reset/">Reset Page</b></a></p>
-<p><b>Ascension</b>: Added new formula and other stuff for A2
-<p>Updated<b> <a target="" href="http://musicfamily.org/realm/Ascension/">Ascension Page</b></a></p>
-<p>New Page<b> <a target="" href="http://musicfamily.org/realm/Ascension2/">Ascension 2</b></a></p>
-<p><b>Added</b>: Ascension 2 to the left menu
-<p><b>------------------------------</b>
-<p><b>Unique Building</b>
-<p><a target="" href="http://musicfamily.org/realm/UniqueBuilding/"><b>Unique Building Page</b></a></p>
-<p><b>Changed</b>: Goblin Unique Building
-<p><b>Formula</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon's Unique Building
-<p><b>Formula</b>: (0.065*(ln(1+x/2+y))^3.65)
-<br/>
-<br/>
-<p><b>Changed</b>: Druid Unique Building
-<p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.
-<br/>
-<br/>
-<p><b>Changed</b>: Mercenary Unique Building
-<p><b>Good</b>: 1.5 * (1 + x) where X is number of Non-Unique Buildings.
-<p><b>Evil</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus
-<p><b>Neutral</b>: (2*x^0.95), where x is assistants you had in a single game (This R).
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/GoblinFaction/"><b>Goblin Faction Page</b></a></p>
-<p><b>Changed</b>: Goblin Unique Building
-<p><b>Formula</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/DragonFaction/"><b>Dragon Faction Page</b></a></p>
-<p><b>Changed</b>: Dragon's Unique Building
-<p><b>Formula</b>: (0.065*(ln(1+x/2+y))^3.65)
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/DruidFaction/"><b>Druid Faction Page</b></a></p>
-<p><b>Changed</b>: Druid Unique Building
-<p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/MercenaryFaction/"><b>Mercenary Faction Page</b></a></p>
-<p><b>Changed</b>: Mercenary Unique Building
-<p><b>Good</b>: 1.5 * (1 + x) where X is number of Non-Unique Buildings.
-<p><b>Evil</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus
-<p><b>Neutral</b>: (2*x^0.95), where x is assistants you had in a single game (This R).
-<br/>
-<br/>
-<p><b>------------------------------</b>
-<p><b>Research</b>
-<p><a target="" href="http://musicfamily.org/realm/Researchtree/"><b>Researchtree Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/Economics/"><b>Economics Page</b></a> Text Version
-<p><a target="" href="http://musicfamily.org/realm/Warfare/"><b>Warfare Page</b></a> Text Version
-<p><a target="" href="http://musicfamily.org/realm/Spellcraft/"><b>Spellcraft Page</b></a> Text Version
-<p><a target="" href="http://musicfamily.org/realm/Craftsmanship/"><b>Craftsmanship Page</b></a> Text Version
-<p><a target="" href="http://musicfamily.org/realm/Alchemy/"><b>Alchemy Page</b></a> Text Version
-<p><a target="" href="http://musicfamily.org/realm/Divine/"><b>Divine Page</b></a> Text Version
-<br/>
-<br/>
-<p><b>Changed</b>: E1 Coinage
-<p><b>Formula</b>: round(0.8*x^0.8))%
-<br/>
-<br/>
-<p><b>Changed</b>: E260 Sifting
-<p><b>Effect</b>: Increase the production of all other buildings based on the amount of Stone Pillars you own.
-<p><b>Formula</b>: (100*x), where x is Stone Pillars
-<br/>
-<br/>
-<p><b>Changed</b>: E3250 Estates
-<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950)
-<br/>
-<br/>
-<p><b>Changed</b>: W275 Domination
-<p><b>Formula</b>: floor(125*x&^0.75), where x is your Assistants (Max) stat.
-<br/>
-<br/>
-<p><b>Changed</b>: W350 Survival
-<p><b>Formula</b>: 75*(log10(1+x))^1.3)
-<br/>
-<br/>
-<p><b>Changed</b>: W1375 Scavenging
-<p><b>Formula</b>: assistants (2500*x^0.425)), and multiplicative 275%.
-<br/>
-<br/>
-<p><b>Changed</b>: S215 Projection
-<p><b>Effect</b>: Increase Spiritual Surge effect based on the amount of active spells.
-<p><b>Formula</b>: (150*x)^(y+1), where x is active spells and y is ascension. (does not include Spiritual Surge)
-<br/>
-<br/>
-<p><b>Changed</b>: S270 Runecarving 
-<p><b>Effect</b>: Increase the production of all buildings based on your bonus from Gems.
-<p><b>Formula</b>: round(1.15*x^0.75)%, where x is your gem bonus.
-<br/>
-<br/>
-<p><b>Changed</b>: S375 Illusion
-<p><b>Effect</b>: Increase Spiritual Surge effect based on the amount of active spells.
-<p><b>Formula</b>: floor(1.15*((x/30+y)/60)^2), where x is how many minutes the spell has been active.
-<br/>
-<br/>
-<p><b>Changed</b>: S2875 Scholarship
-<p><b>Requirement</b>: 11000 Freemason's Halls.
-<p>Effect</b>: Increases the production of Non-Unique buildings by 40% per Unique building.
-<br/>
-<br/>
-<p><b>Changed</b>: C300 Weighting
-<p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 3.09%. 
-<p><b>Effect</b>: Also increase the production of every Grand Balance target based on maximum mana.
-<p><b>Formula</b>: round(1.5*ln(1+x))^2)^y), where x is your maximum mana and y is spell tier.
-<br/>
-<br/>
-<p><b>Changed</b>: C3000 Customizing
-<p><b>Formula</b>: 1.65*x^1.65, where X is artifacts
-<br/>
-<br/>
-<p><b>Changed</b>: A1500 Sublimation
-<p><b>Formula</b>: 8*x^0.8, where x is Unique Buildings owned.
-<br/>
-<br/>
-<p><b>Changed</b>: D1125 Oblation
-<p><b>Formula</b>: 1.55*x^0.55, where x is Faction Coin find chance in percent.
-<br/>
-<br/>
-<p><b>Changed</b>: D1275 Solemnity
-<p><b>Effect</b>: Increase the production of each building by + 0.3% per building of the same type.
-<br/>
-<br/>
-<p><b>Changed</b>: D1375 Sanctification
-<p><b>Formula</b>: 2.5*x^0.55, where x is non-unique building owned.
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/Research/"><b>Research Page</b></a></p>
-<p><b>Changed</b>: RP Cost Post A
-<p><b>Formula</b>: 1e42*1.47^(x-780) and (x + 1)^3 Faction Coins
-<br/>
-<br/>
-<p><a target="" href="http://musicfamily.org/realm/MercResearch/"><b>MercResearch Page</b></a></p>
-<p><b>Changed</b>: Reap Interests
-<p><b>Formula</b>: y ^ (0.5*(log10(1+x))^4.5), where y is TC original power and x is amount of TC casts
-<br/>
-<br/>
-<p><b>Changed</b>: Mercenary Camp
-<p><b>Formula</b>: (1.5*(1+x)), where X is number of Non-Unique Buildings.
-<br/>
-<br/>
-<p><b>Changed</b>: Freemason's Hall
-<p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R)
-<br/>
-<br/>
-<p><b>Changed</b>: Secret Exchange
-<p><b>Formula</b>: (2.5*x^2.5), where x is original Faction Coin chance.
-<br/>
-<br/>
-<p><b>Changed</b>: Mercenary Encampment Quest
-<p><b>Requirement</b>: Mercenary (Any Alignment), 125000 buildings
-<br/>
-<br/>
-<p><b>------------------------------</b>
-<p><b>Challenges</b>
-<p><a target="" href="http://musicfamily.org/realm/Challenges/"><b>Challenge Map Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/Titan/"><b>Titan Challenge Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/Dragons/"><b>Dragon Challenge Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/Faceless/"><b>Faceless Challenge Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/Elf/"><b>Elf Challenge Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/Angel/"><b>Angel Challenge Page</b></a></p>
-
-
-
-<br/>
-<br/>
-
-
-<p><b>Changed</b>: Angel Final Reward
-<p><b>Effect</b>: Mana regeneration is increased by 50% while God's Hand is active.
-<br/>
-<br/>
-
-
-
-
-
-<p><b>Changed</b>: Titan Final Reward
-<p><b>Formula</b>: round(x^1.05)%, where x is your current chance to find Faction Coins.
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon Challenge 1
-<p><b>Requirement</b>: Have 7200 Halls of Legends.
-<p><b>Formula</b>: (250000^2.5)% and (25000^2.5) 
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon Challenge 2
-<p><b>Requirement</b>: Have Grand Balance affect 7 buildings
-<p><b>Effect</b>: Increase Stone Pillars production based on the amount of Grand Balance targets.
-<p><b>Formula</b>: (6000*x^1.75), where x is number of targets.<p><b>Effect</b>: Also reduces all Spell Tier upgrade costs based on Grand Balance activity time in this game. 
-<p><b>Formula</b>: max(0, (1-t/28)^9) t is Grand Balance activity time in days.
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon Challenge 3
-<p><b>Requirement</b>: Have a combined total of 30 days played as faceless and dragons with a minimum of 8 days as each one
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon Challenge 4
-<p>Have 9,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.
-<p><b>Formula</b>: x^6 (%), where x is number of artifacts.
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon Challenge 6
-<p><b>Formula</b>: 0.0015 * t^0.7 * a, where t is playtime this game in minutes, a is artifacts found.
-<p><b>Requirement</b>: 125,000 buildings,
-<br/>
-<br/>
-<p><b>Changed</b>: Faceless Challenge 4
-<p><b>Effect</b>: All factions receive a bonus based on your Hive Mind bonus.
-<p><b>Formula</b>: (0.01*5*0.1*x^0.75).
-<br/>
-<br/>
-<p><b>Changed</b>: Elven Challenge Final reward
-<p><b>Effect</b>: Automatic clicks from Sun Blessing have an additional 5% chance to trigger Elven Luck, gaining coins equal to 8.14% of your production and gathering 1000 random faction coins.
-<p><b>------------------------------</b>
-<p><b>Faction upgrades</b>
-<p><a target="" href="http://musicfamily.org/realm/FactionUpgrades/"><b>Faction Upgrades Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/FacelessFaction/"><b>Faceless Faction Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/ElfFaction/"><b>Elf Faction Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/DruidFaction/"><b>Druid Faction Page</b></a></p>
-<p><a target="" href="http://musicfamily.org/realm/ElfFaction/"><b>Elf Faction Page</b></a></p>
-<br/>
-<br/>
-<p><b>Changed</b>: Hive Mind
-<p><b>Formula</b>: (0.1*x^0.75)
-<br/>
-<br/>
-<p><b>Changed</b>: Deep Memory
-<p><b>Formula</b>: floor(35 * x^0.85)%, where x is your Playtime (Longest Session) stat in hours.</p>
-<p><b>Formula</b>: 35* x^1.1 with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.
-<p><b>Note</b>: Dragon Challenge 3 removes the Ascension 1 penalty
-<br/>
-<br/>
-<p><b>Changed</b>: Natural Recycling</b></p>
-<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the least productive building you own.
-<p><b>Formula</b>: (x^0.35,), where x is the amount of the building with the lowest production. (additively and multiplicatively)</p>
-
-<br/>
-<br/>
-<p><b>Changed</b>: Elven Luck
-<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 8.14% of your production, also generating 1000 random faction coins.
-<p><b>------------------------------</b>
-<p><b>Spells</b>
-<p><a target="" href="http://musicfamily.org/realm/Spells/"><b>Spell Page</b></a>
-<p><a target="" href="http://musicfamily.org/realm/DragonFaction/"><b>Dragon Page</b></a>
-<p><a target="" href="http://musicfamily.org/realm/TitanFaction/"><b>Titan Page</b></a>
-<p><a target="" href="http://musicfamily.org/realm/AngelFaction/"><b>Angel Page</b></a>
-<br/>
-<br/>
-<p><b>Needed</b>: Add all T7 images and cost, Tier Count Script needs fixed for T7(or removed)
-<br/>
-<br/>
-<p><b>Changed</b>: God's Rest
-<p><b>Formula</b>: (floor(x^1.1).
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon's Breath Red
-<p><b>Formula</b>: (2*(ln(1+x),where x is Faction Coins found in this game.
-<br/>
-<br/>
-<p><b>Changed</b>: Dragon's Breath Black
-<p><b>Formula</b>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.
-<br/>
-<br/>
-<p><b>Changed</b>: Spiritual Surge
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of times you reincarnated and ascended for 236 seconds.
-<p><b>Formula</b>: (10000*1.05^x)^(1+0.5*y)%, where x is the number of times you have reincarnated and y is how many times you ascended.
-<br/>
-<br/>
-<p><b>Changed</b>: Blood Frenzy
-<p><b>Effect</b>: Increases the production of all Evil buildings by 1250%.</p>
-<br/>
-<br/>
-<p><b>Changed</b>: Holy Light
-<p><b>Effect</b>: Increase clicking reward by 1750%</p>
-<br/>
-<br/>
-<p><b>Changed</b>: Lightning Strike
-<p><b>Formula</b>: round(1.75*ln(1+x)^3), where x is your current gems.</p>
-<br/>
-<br/>
-<p><b>Added</b>: Tier 7 Spells
-<p><b>Note</b>: At Ascension 2 you will be able to unlock tier 7 spells</p>
-<br/>
-<br/>
-<p><b>------------------------------</b>
-<p><b>Lineages</b>
 <p><a target="" href="http://musicfamily.org/realm/Lineages/"><b>Lineage Page</b></a></p>
-<p><b>Changed</b>: Druid Perk 3
-<p><b>Effect</b>: While Grand Balance is active, increase the production of its targets based on the amount of Unique Buildings you own.
-<p><b>Formula</b>: (0.5*floor(x/750))^y) where x is Unique Buildings and y is spell tier.
+<p><b>Added</b>: Level 30 Lineage Perks
+    <p><b>Fairy Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.
+    <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds. 
 <br/>
 <br/>
-<p><b>Changed</b>: Undead Perk 2
-<p><b>Challenge</b>: Have Night Time's spell duration be 60 seconds.
+    <p><b>Elven Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 500%.
 <br/>
 <br/>
-<p><b>Changed</b>: Angel Perk 1
-<p><b>Effect</b>: Angel Bloodline effect now counts total spells cast.
+    <p><b>Angel Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: When God's Hand is active, increase max mana by 100%.
 <br/>
 <br/>
-<p><b>Changed</b>: Drow Perk 1
-<p><b>Effect</b>: While using Drow Bloodline, all time spent counts 100% more for all purposes.
+    <p><b>Goblin Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned. 
+    <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is assistants owned.
+<br/>
+<br/>
+    <p><b>Undead Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: When offline, Night Time production is added to offline bonus. Night Time activity time counts 100% more for all purposes.
+<br/>
+<br/>
+    <p><b>Demon Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: Non-Unique Uuildings except Hall of Legends are also targeted by Hellfire Blast.
+<br/>
+<br/>
+    <p><b>Titan Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: Lightning Strike always hits Unique Buildings in addition to its random target. Unique Buildings are no longer random targets.
+<br/>
+<br/>
+    <p><b>Druid Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned. Also increase the  production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
+    <p><b>Duration Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.
+<br/>
+<br/>
+    <p><b>Faceless Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: Brainwave headstart time is increased by 1000%.
+<br/>
+<br/>
+    <p><b>Dwarf Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance. 
+    <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.
+<br/>
+<br/>
+    <p><b>Drow Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.
+<br/>
+<br/>
+    <p><b>Dragon Level 30</b>
+    <p><b>Requirement</b>: A2+
+    <p><b>Effect</b>: Activates two breaths per cast.
 <p><b>------------------------------</b>
-<p><b>Heritage</b>
-<p><a target="" href="http://musicfamily.org/realm/Heritages/"><b>Heritage Page</b></a></p>
-<p><a target="" http://musicfamily.org/realm/DragonFaction/"><b>Dragon Page</b></a></p>
-<p><b>Changed</b>: Dragon Heritage
-<p><b>Formula</b>:  (0.55*x^0.55)%, x is hours affiliated with dragon at all R's
+<p><a target="" href="http://musicfamily.org/realm/Ascension2/"><b>A2 Page</b></a></p>
+<p><b>Changed</b> All Creation, and Elf Union Upgrade 
+<p><b>Added</b> 2 new Union upgrades for each faction
 <br/>
 <br/>
-<p><b>------------------------------</b>
-<p><b>Upgrades</b>
-<p><a target="" href="http://musicfamily.org/realm/SunForce/"><b>SunForce Page</b></a></p>
-<p><b>Changed</b>: Assistants
-<p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
-<p><b>Changed</b>: Faction Coin find chance
-<p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
+<p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"></p>
+<p><b>Cost</b>: 6000 Mana
+<p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.
+<p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.
+<p><b>New Formula</b>: floor(2.5 * x ^ 0.44). where x is mana per second.
+<p><b>Old Formula</b>: floor(2.5 * x ^ 0.5). where x is mana per second.
 <br/>
 <br/>
-<p><a target="" href="http://musicfamily.org/realm/Upgrades/"><b>Upgrades Page</b></a></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
+<p><b>Requirement</b>: Elven Union</p>
+<p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
+<p><b>Elven Luck Formula</b>: X ^ 0.3, where x is Arboreal Cities count.
+<p><b>New Production Formula</b>: (7 * x ^ 0.7), where x is Arboreal Cities count.
+<p><b>Old Production Formula</b>: (6 * x ^ 0.6), where x is Arboreal Cities count.
+<p><b>New Faction Coin Formula</b>: (1.5 * x ^ 0.7), where x is Arboreal Cities count.
+<p><b>Old Faction Coin Formula</b>: (x ^ 0.7), where x is Arboreal Cities count.
 <br/>
 <br/>
-<p><b>Secret Upgrades</b>
+<p><b>Angel</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
+<p><b>Requirement</b>: Angels Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time</p>
+<p><b>Formula</b>: 0.03 * x ^ 0.6, where x is seconds in faction spells
 <br/>
 <br/>
-<p><b>Added</b>
-
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" align="middle"> Triple Weirdness</b></p>
-            <p>(Have exactly 333 of each Royal Exchange and be R40+)
-            <p><b>Cost</b>: Free
-            <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
-            <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)" coords="6,492,62,548" shape="rect">
+<p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
+<p><b>Moved</b>: Now #2 upgrade with no other change
 <br/>
 <br/>
-
-<p><b>Changed</b>: Sunforce
-<p><b>Changed</b>: Assistants
-<p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
-<p><b>Changed</b>: Faction Coin find chance
-<p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
+<p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Requirement</b>: Angels Union</p>
+<p><b>Effect</b>: Increase mana regeneration by 60%.</p>
 <br/>
 <br/>
-
-<p><b>Fixed</b>: Know Your Enemy, Part I (had no image)
+<p><b>Undead</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Undead Union</p>
+<p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7)
 <br/>
 <br/>
-<p><b>Changed</b>: Dragon Tamer
-<p><b>Effect</b>: Increase the production of all buildings by 200% and doubles Faction Coin find chance.
+<p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Requirement</b>: Undead Union</p>
+<p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game. </p>
+<p><b>Formula</b>: 10000 + (x / 1800) ^ 2.72, where x is seconds
 <br/>
 <br/>
-<p><b>Changed</b>: Iron Rush
-<p><b>Requirements</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power. 
+<p><b>Titan</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Titan Union</p>
+<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7)
 <br/>
 <br/>
-<p><b>Changed</b>: Autoclicker
-<p><b>Requirements</b>: Perform 40 autoclicks in 1 second, R60+
+<p><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" alt="Colossus Kingdom" align="middle"> <b>Colossus Kingdom</b></p>
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Requirement</b>: Titan Union</p>
+<p><b>Effect</b>: Gain assistants based on total time spent as Order.</p>
+<p><b>Formula</b>: (x ^ 0.7)
 <br/>
 <br/>
-<p><b>Changed</b>: Mana Waste
-<p><b>Formula</b>: (127*(log10(1+x))^2.7), where x is spells cast.
+<p><b>Fairy</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Fairies Union</p>
+<p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (All time)</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7)
 <br/>
 <br/>
-<p><b>Changed</b>: Master Researcher
-<p><b>Effect</b>: Increase the overall production of Dragons by 9.6%.
+<p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Requirement</b>: Fairies Union</p>
+<p><b>Effect</b>: Every 30 minutes, multipicatively increase mana regen by a random amount. (starts at 0% on a new run)</p>
 <br/>
 <br/>
-<p><b>Added</b>: Wall Chunck
-<p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
-<p><b>Requirements</b>: R100+
-<p><b>Effect</b>: Increase the production of all buildings based on their tier.
-<p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-<p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+<p><b>Demon</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> <b>Demonic Fury</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Demons Union</p>
+<p><b>Effect</b>: Increase production of all buildings based on least time spent between Evil and Chaos this R.</p>
+<p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7, where x is evil time in seconds and y is chaos time in seconds.
 <br/>
 <br/>
-<p><b>Added</b>: Excavated Mirage
-<p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
-<p><b>Requirement</b>: R100+
-<p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
-<p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+<p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Requirement</b>: Demons Union</p>
+<p><b>Effect</b>: Increase the production of Non-Unique buildings based on Hellfire Blast activity time.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Hellfire Blast activity time.
 <br/>
 <br/>
-<p><b>Added</b>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" alt="Excavated Mirage" align="middle"><b> Chocolate Flavor Juice</b></p>
-<p><b>Requirement</b>: R22+, Neutral Faction, Ancient Cocoa Bean
-<p><b>Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.
-<p><b>Upgrade Cost</b>: Free
+<p><b>Faceless</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Faceless Union</p>
+<p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
+<p><b>Formula</b>: X???????????
 <br/>
 <br/>
-<p><b>Added</b>
-<p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"><b> Warrior Researcher</b></p>
-<p><b>Requirements</b>: Discover all the Mercenary researches.
-<p><b>Cost</b>: 1 DSpg (1e219)
-<p><b>Effect</b>: Increase the production of all buildings based on research done.
-<p><b>Formula</b>: 0.3*x^0.7, where x is total of research done.
+<p><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" alt="Dimension Door" align="middle"> <b>Dimension Door</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Requirement</b>: Faceless Union</p>
+<p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation </p>
+<p><b>Formula</b>: (0.007 * x ^ 0.7), where x is highest max mana this R.
 <br/>
 <br/>
-<p><b>Mana/Magic Upgrades</b>
-<p><b>Added</b>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png" alt="Mana Spring" align="middle"> Mana Spring</b></p>
-<p><b>Cost</b>: Free
-<p><b>Requirement</b>: 100 T (1E14) mana produced, R40+</p>
-<p><b>Alignment</b>: Any
-<p><b>Effect</b>: Increase Mana regeneration by +10.00.
+<p><b>Elven</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Elven Union</p>
+<p><b>Effect</b>: Assistants count 1000% more for all purposes.</p>
 <br/>
 <br/>
-<p><b>Changed</b>
-<p><b>Mana Wave</b>: R40+
-<p><b>Mana River</b>: R40+
-<p><b>Mana Lake</b>: R40+
+<p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Requirement</b>: Elven Union</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of Faction Coins found in this game.</p>
+<p><b>Formula</b>:  (ln(x))????????
 <br/>
 <br/>
-<p><b>Autoclick Upgrades</b>
-<p><b>Added</b>
-<p><b>Autoclicker</b>
+<p><b>Goblin</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MoneyisMagic.png" alt="Money is Magic" align="middle"> <b>Money is Magic</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Goblins Union</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of Tax Collections cast in this game.</p>
+<p><b>Formula</b>: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.
 <br/>
 <br/>
-<p><b>Alignment Upgrades</b>
-<p><b>Added</b>: Proof of Order, Chaos, Balance
+<p><img src="http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png" alt="Lousy Architecture" align="middle"> <b>Lousy Architecture</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Requirement</b>: Goblins Union</p>
+<p><b>Effect</b>: Reduce cost multiplier of NU buildings.</p>
+<p><b>Formula</b>: (-0.02)
 <br/>
 <br/>
-<p><b>Research Building Upgrades</b>
-<p><b>Changed</b>: Goblin Banks
-<p><b>Formula</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.
+<p><b>Druid</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
+<p><b>Formula</b>: (x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25) ^ 0.7), where x is online time in seconds and y is offline time in seconds.
 <br/>
 <br/>
-<p><b>Changed</b>: Dragon's Unique Building
-<p><b>Formula</b>: (0.065*(ln(1+x/2+y))^3.65) 
-<br/>
-<br/>
-<p><b>Changed</b>: Druid Unique Building
-<p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building. 
-<br/>
-<br/>
-<p><b>Changed</b>: Mercenary Unique Building
-<p><b>Good</b>: 1.5 * (1 + x) where X is number of Non-Unique Buildings.
-<p><b>Evil</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus
-<p><b>Neutral</b>: (2*x^0.95), where x is assistants you had in a single game (This R). 
-<br/>
-<br/>
-<p><b>Archaeology & Artifact Upgrades</b>
-<p><b>Added</b>
-Veteran Figureine, Wall Chunck, Excavated Mirage, Ancient Cocoa Bean
-<br/>
-<br/>
-<p><b>Faction Quest Upgrades</b>
-<p><b>Added</b> All Quest from Proof of Order, Chaos, Balance
-<br/>
-<br/>
-<p><b>------------------------------</b>
-<p><b>Bloodline</b>
-<p><a target="" href="http://musicfamily.org/realm/Bloodline/"><b>Bloodline Page</b></a></p>
-<p><b>Changed</b>: Drow Bloodline
-<p><b>Effect</b>: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.
-<p><b>Formula</b>: 1.6*x^0.6, where x is time spent in this game.
-<p><b>Changed</b>: Angel Bloodline
-<p><b>Effect</b>: Increase mana regeneration based on spells cast this game.
-<p><b>Formula</b>: (1.31 * x ^ 0.31), where x is spell casts (this game)
-
-
-
-
-
-
+<p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on their tier. Lower tiers get better bonuses.</p>
+<p><b>Formula</b>: 65 * (11-T) ^ 3)
 
 
 <?php include "../scripts/footer.html"; ?>
