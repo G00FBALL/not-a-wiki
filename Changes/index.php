@@ -95,8 +95,7 @@
     <p><b>Artifacts Required</b>: Spiked Whip, Ancient Coin Piece, Goblin Purse
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.
-    <p><b>Formula</b>: 1 + (0.01 * x ^ 0.7), where x is seconds.
-    <p><b>Note:</b> Tooltip is misleading (displays a multiplier that is off by one)
+    <p><b>Formula</b>: (x ^ 0.7), where x is seconds.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> DustyCoffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
@@ -164,65 +163,77 @@
 <p><a target="" href="http://musicfamily.org/realm/Lineages/"><b>Lineage Page</b></a></p>
 <p><b>Added</b>: Level 30 Lineage Perks
     <p><b>Fairy Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk4.png" alt="FairyPerk3" align="middle"><b> Fairy Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.
     <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds. 
 <br/>
 <br/>
     <p><b>Elven Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk4.png" alt="ElvenPerk3" align="middle"><b> Elven Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 500%.
 <br/>
 <br/>
     <p><b>Angel Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk4.png" alt="AngelPerk3" align="middle"><b> Angel Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When God's Hand is active, increase max mana by 100%.
 <br/>
 <br/>
     <p><b>Goblin Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk4.png" alt="GoblinPerk3" align="middle"><b> Goblin Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned. 
     <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is assistants owned.
 <br/>
 <br/>
     <p><b>Undead Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk4.png" alt="UndeadPerk3" align="middle"><b> Undead Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When offline, Night Time production is added to offline bonus. Night Time activity time counts 100% more for all purposes.
 <br/>
 <br/>
     <p><b>Demon Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk4.png" alt="DemonPerk4" align="middle"><b> Demon Perk 4</b></p>
     <p><b>Requirement</b>: R105+
-    <p><b>Effect</b>: Non-Unique Uuildings except Hall of Legends are also targeted by Hellfire Blast.
+    <p><b>Effect</b>: Non-Unique buildings are also targeted by Hellfire Blast.
 <br/>
 <br/>
     <p><b>Titan Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk4.png" alt="TitalPerk3" align="middle"><b> Titan Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Lightning Strike always hits Unique Buildings in addition to its random target. Unique Buildings are no longer random targets.
 <br/>
 <br/>
     <p><b>Druid Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk4.png" alt="DruidPerk3" align="middle"><b> Druid Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned. Also increase the  production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
     <p><b>Duration Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.
 <br/>
 <br/>
     <p><b>Faceless Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk4.png" alt="FacelessPerk3" align="middle"><b> Faceless Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Brainwave headstart time is increased by 1000%.
 <br/>
 <br/>
     <p><b>Dwarf Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" alt="DwarfPerk3" align="middle"><b> Dwarf Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance. 
     <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.
 <br/>
 <br/>
     <p><b>Drow Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" alt="DrowPerk4" align="middle"><b> Drow Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.
 <br/>
 <br/>
     <p><b>Dragon Level 30</b>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk3.png" alt="DragonPerk4" align="middle"><b> Dragon Perk 3</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Activates two breaths per cast.
 <p><b>------------------------------</b>
@@ -252,17 +263,21 @@
 <br/>
 <p><b>Angel</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
-<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount od Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own. </p>
-<p><b>Formula</b>: (0.6*x^0.6), where x is amount of Holy Sites owned.
-<br/>
+<p><b>Formula</b>: (0.6*x^0.6), where x is amount of Holy Sites owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time</p>
-<p><b>Formula</b>: 0.03 * x ^ 0.6, where x is seconds in faction spells
+<p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
+<p><b>Formula</b>: (0.035 * x ^ 0.65), where x is seconds in current spells)</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
+<p><b>Requirement</b>: Angels Union</p>
+<p><b>Effect</b>: Increase mana regeneration by 60%.</p>
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
@@ -276,14 +291,13 @@
 <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7)
-<br/>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time thie R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
-<p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game. </p>
-<p><b>Formula</b>: 10000 + (x / 1800) ^ 2.72, where x is seconds
+<p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
+<p><b>Formula</b>: (10000 + 25 * (x / 1800) ^ 2, where x is seconds</p>
 <br/>
 <br/>
 <p><b>Titan</b>
