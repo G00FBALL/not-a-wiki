@@ -1,0 +1,145 @@
+- header: 
+  items:
+      - name: Home
+        link: /realm/home
+
+      - name: G00f's not a Guest Book
+        link: /realm/GuestBook/gbook.php
+
+      - name: Sitemap
+        link: /realm/SiteMap/
+
+      - name: Random Number Generator
+        link: /realm/RNG
+
+      - name: Latest Major Patch
+        link: /realm/Changes
+
+- header: The Game
+  items:
+      - name: Game Window
+        link: /realm/GameWindow
+
+      - name: Trophy Page
+        link: /realm/TrophyPage
+        research: A complete list of Trophies
+
+      - name: Trophy Guide
+        link: /realm/TrophyGuide
+
+      - name: Abdication Reincarnation Ascension
+        link: /realm/Reset
+
+      - name: R16 Research Guide
+        link: /realm/R16Guide
+
+      - name: Pre A Plot
+        link: /img/pre_a_plot.png
+        research: R0 - R39 Guide
+
+      - name: Post A1 Plot
+        link: /img/post_a_plot.png
+        research: R40 - R99 Guide
+
+      - name: Rubies
+        link: /realm/Rubies
+
+      - name: Events
+        link: /realm/Events
+
+      - name: Building Alignments
+        link: /realm/BuildingAlignments
+
+      - name: Changelog
+        link: /realm/Changelog
+
+      - name: Kongregate Links
+        link: /realm/Kong
+
+      - name: Realm Grinder Tools
+        link: /realm/Tools
+
+      - name: Wall of Shame
+        link: /realm/WallofShame
+
+- header: Upgrades
+  items:
+      - name: Upgrades
+        link: /realm/Upgrades
+
+      - name: Building Upgrades
+        link: /realm/BuildingUpgrades
+
+      - name: Heritages
+        link: /realm/Heritages
+
+      - name: Factions
+        link: /realm/Factions
+
+      - name: Faction Upgrades
+        link: /realm/FactionUpgrades
+
+      - name: Bloodlines
+        link: /realm/Bloodlines
+
+      - name: Lineages
+        link: /realm/Lineages
+
+      - name: Research
+        link: /realm/Research
+
+      - name: Mercenary Research
+        link: /realm/MercResearch
+
+      - name: Ascension 2
+        link: /realm/Ascension2
+
+      - name: Research Tree
+        link: /realm/ResearchTree
+
+      - name: Spells and Tier Upgrades
+        link: /realm/Spells
+
+      - name: Sun Force
+        link: /realm/SunForce
+
+- header: Builds
+  items:
+      - name: Special/Unlock Builds
+        link: /realm/SpecialBuilds
+        research: Trophy and Artifact
+
+      - name: Mercenary Builds
+        link: /realm/MercBuilds
+
+      - name: Research Builds
+        link: /realm/ResearchBuilds
+        research: R16-R29
+
+      - name: Prestige Builds
+        research: R29-R39
+        link: /realm/PBuilds
+
+      - name: R40-R46 Builds
+        link: /realm/R46-R46
+        research: Dragon Unlock
+
+      - name: R47-R60 Builds
+        link: /realm/R47-R60
+        research: Dragons
+
+      - name: R60-R75 Builds
+        link: /realm/R60-R75
+        research: Lineages
+
+      - name: R75-R90 Builds
+        link: /realm/R75Plus
+        research: Mercenary Research
+
+      - name: R90-R99 Builds
+        link: /realm/R90Plus
+        research: Veteran Figurine
+
+      - name: R100+ Builds
+        link: /realm/R100Plus
+        research: Ascension 2
