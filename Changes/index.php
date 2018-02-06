@@ -287,107 +287,109 @@
 <br/>
 <p><b>Titan</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7)
-<br/>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is amount of Royal Exchanges you made.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" alt="Colossus Kingdom" align="middle"> <b>Colossus Kingdom</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
-<p><b>Effect</b>: Gain assistants based on total time spent as Order.</p>
-<p><b>Formula</b>: (x ^ 0.7)
+<p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
+<p><b>Formula</b>: (x ^ 0.7), where x is amount of Order time this R.</p>
 <br/>
 <br/>
 <p><b>Fairy</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (All time)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7)
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is time spent affiliated with Fairies. (All time)</p>
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Every 30 minutes, multipicatively increase mana regen by a random amount. (starts at 0% on a new run)</p>
 <br/>
 <br/>
 <p><b>Demon</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> <b>Demonic Fury</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase production of all buildings based on least time spent between Evil and Chaos this R.</p>
-<p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7, where x is evil time in seconds and y is chaos time in seconds.
-<br/>
+<p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7, where x is evil time in seconds and y is chaos time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
-<p><b>Effect</b>: Increase the production of Non-Unique buildings based on Hellfire Blast activity time.</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Hellfire Blast activity time.
+<p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
+<p><b>Formula</b>:  (0.35 * x ^ 0.65), where x is mana regen.</p>
 <br/>
 <br/>
 <p><b>Faceless</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
-<p><b>Formula</b>: X???????????
-<br/>
+<p><b>Formula</b>: (X)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" alt="Dimension Door" align="middle"> <b>Dimension Door</b></p>
-<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
-<p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation </p>
-<p><b>Formula</b>: (0.007 * x ^ 0.7), where x is highest max mana this R.
+<p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
+<p><b>Formula</b>: (0.013 * x ^ 0.7), where x is highest max mana this R.</p>
 <br/>
 <br/>
 <p><b>Elven</b>
-<p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.
-<p><b>Formula</b>: (0.68 * x ^ 0.68)
-<p><b>Note</b>: Only works on upgrades that check assistant count</p>
+<p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
+<p><b>Elven Luck Formula</b>: X ^ 0.3, where x is Arboreal Cities count.</p>
+<p><b>Production Formula</b>: (7 * x ^ 0.7), where x is Arboreal Cities count.</p>
+<p><b>Faction Coin Formula</b>: (1.5 * x ^ 0.7), where x is Arboreal Cities count.</p>
 <br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
+<p><b>Requirement</b>: Elven Union</p>
+<p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.</p>
+<p><b>Formula</b>: (0.68 * x ^ 0.68)</p>
+<p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>
-<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>:  (ln(x))
+<p><b>Formula</b>: (ln(x))</p>
 <br/>
 <br/>
 <p><b>Goblin</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MoneyisMagic.png" alt="Money is Magic" align="middle"> <b>Money is Magic</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Goblins Union</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of Tax Collections cast in this game.</p>
-<p><b>Formula</b>: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.
-<br/>
+<p><b>Formula</b>: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png" alt="Lousy Architecture" align="middle"> <b>Lousy Architecture</b></p>
-<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Goblins Union</p>
-<p><b>Effect</b>: Reduce cost multiplier of NU buildings.</p>
-<p><b>Formula</b>: (-0.02)
+<p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
+<p><b>Formula</b>: (-0.02)</p>
 <br/>
 <br/>
 <p><b>Druid</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle</b></p>
-<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
+<p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-<p><b>Formula</b>: (x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25) ^ 0.7), where x is online time in seconds and y is offline time in seconds.
-<br/>
+<p><b>Formula</b>: (x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is online time in seconds and y is offline time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
-<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier. Lower tiers get better bonuses.</p>
-<p><b>Formula</b>: (10 * (11 - T) ^ 3)
+<p><b>Formula</b>: (10 * (11 - T) ^ 3), where T is building tier.</p>
 
 
 <?php include "../scripts/footer.html"; ?>
