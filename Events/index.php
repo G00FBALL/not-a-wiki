@@ -13,7 +13,7 @@
 <b>Event starts in
 <p id="start">
 <script>
-var countDownDate1 = new Date("Dec 20, 2017 13:01:00 UTC").getTime();
+var countDownDate1 = new Date("Feb 12, 2018 13:01:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate1 - now;
@@ -23,13 +23,13 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     document.getElementById("start").innerHTML = days + "d " + hours + "h "
     + minutes + "m " + seconds + "s ";
-}, 1000);
+    }, 1000);
 </script>
 <p>
 Event ends in
 <p id="end"></p>
 <script>
-var countDownDate2 = new Date("Jan 4, 2018 19:59:00 UTC").getTime();
+var countDownDate2 = new Date("Feb 16, 2018 19:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -43,7 +43,7 @@ var x = setInterval(function() {
         clearInterval(x);
         document.getElementById("end").innerHTML = "Ended";
     }
-}, 1000);
+ }, 1000);
 </script></b></br></p>
     <a id="Events"></a>
     <table class="numtable">
