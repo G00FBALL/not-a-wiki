@@ -1,0 +1,62 @@
+<!-- Piwik -->
+<script>
+function search(){
+window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').val());
+}
+</script>
+<script>
+$(document).ready(function(){
+$("#query").keypress(function(event) {
+
+    if (event.keyCode === 13) {
+    event.preventDefault();
+        search();
+    }
+});
+})
+</script>
+<script>
+    $(document).ready(function () {
+        $("#Expand").on("hide.bs.collapse", function () {
+            $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Expand');
+        });
+        $("#Expand").on("show.bs.collapse", function () {
+            $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Collapse');
+        });
+    });
+</script>
+<script>
+    (function ($) {
+        $(document).ready(function () {
+            $("[research]").style_my_tooltips();
+        });
+    })(jQuery);
+</script>
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+        var u = "//www.musicfamily.org/piwik/";
+        _paq.push(['setTrackerUrl', u + 'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+        g.type = 'text/javascript';
+        g.async = true;
+        g.defer = true;
+        g.src = u + 'piwik.js';
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<script type="text/javascript">
+    function shohid(e) {
+        $('.autohide').not(e.next()).hide();
+        $(e).parents('.autohide').show();
+        $(e).next().toggle();
+    }
+</script>
+<noscript><p><img src="//www.musicfamily.org/piwik/piwik.php?idsite=1" style="border:0;" alt=""/></p></noscript>
+<!-- End Piwik Code -->  

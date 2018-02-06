@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head> 
+    {% include _header.html %}
+    {% include _piwik.html %}
+</head>
+<body>
+    <div id="outer">
+        <div id="parent">
+            <div id="header" align="center">
+                {% include _top_freefind.html %}
+            </div>
+        </div>
+        {% include _top_navbox.html %}
+        <div id="parent">
+            {% include _left.html %}
+            <div id="rightcolumn">
+                {% include _discord.html %}
+                {{ content }}
+
+            </div>
+            <div id="footer">
+            </div>
+        </div>
+    </div> 
+
+    {% include _footer_links.html %}
+    {% include _footer_thanks.html %}
+</body>
+</html>
