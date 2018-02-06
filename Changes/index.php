@@ -95,7 +95,8 @@
     <p><b>Artifacts Required</b>: Spiked Whip, Ancient Coin Piece, Goblin Purse
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.
-    <p><b>Formula</b>: (x ^ 0.7), where x is seconds.
+    <p><b>Formula</b>: 1 + (0.01 * x ^ 0.7), where x is seconds.
+    <p><b>Note:</b> Tooltip is misleading (displays a multiplier that is off by one)
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> DustyCoffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
