@@ -6,7 +6,7 @@
 <h6>All Changes and Additions</h6>
 <h6>Release date, February 5, 2018</h6>
 <p><b>Excavation</b>
-<p><b>A2+ Only</b>: Free reset if enough times excavated this R 2000 + 50 * R + 500 * x, where x is amount of resets this R
+<p><b>Excavations</b>: Free reset if enough times excavated this R 2000 + 50 * R + 500 * x, where x is amount of resets this R
 <p><b>Trophies</b>
 <p><a target="" href="http://musicfamily.org/realm/TrophyPage/"><b>Trophy Map Page</b></a></p>
 <p><b>Moved 13 Trophies</b><p> Research associated 'Secret Trophies' moved to 'Misc Trophies'
