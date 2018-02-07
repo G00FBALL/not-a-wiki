@@ -296,6 +296,40 @@
                     <p><b>Notes</b>: Estimated time of 20 days for 200k S400.
          </div>
     </div>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Demons (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: artcrow
+                    <p><b>Requiments</b>: 10K+ starting W175
+                    <p><b>Range</b>: ? Gems
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demons
+                    <p><b>Bloodline</b>: Drow
+                    <p><b>Template</b>
+                    <p>S1275,
+                    <p>C50,C400,
+                    <p>D10,D150,
+                    <p>E230,E1325,
+                    <p>A25,A3400,
+                    <p>W1,W175,W205
+         </div>
+    </div>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Demons (W275 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: artcrow
+                    <p><b>Requiments</b>: 10K+ starting W175
+                    <p><b>Range</b>: ? Gems
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demons
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Template</b>
+                    <p>S400,
+                    <p>C1325,
+                    <p>D10,D150,
+                    <p>E230,E1325,
+                    <p>A25,A120,
+                    <p>W1,W175,W205
+         </div>
+    </div>
             </div>
                     <br/>
     <p><b>Unique Building 2 Quest Unlock</b></p>
