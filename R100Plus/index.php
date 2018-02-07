@@ -296,6 +296,7 @@
                     <p><b>Notes</b>: Estimated time of 20 days for 200k S400.
          </div>
     </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Demons (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: artcrow
@@ -313,6 +314,7 @@
                     <p>W1,W175,W205
          </div>
     </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Demons (W275 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: artcrow
