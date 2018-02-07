@@ -50,3 +50,246 @@
         link: /realm/Dragon
         research: All Dragon Challenges
 
+- header: Trophies
+  link: /realm/Trophies
+  research: A complete list of Trophies and their requirements in image map form
+  items:
+      - name: Tips & Hints
+        link: /realm/TipsHints
+        research: Tips & Hints
+
+      - name: Coins
+        link: /realm/Coins
+        research: Coin Trophies
+
+      - name: Treasure
+        link: /realm/Treasure
+        research: Treasure Trophies
+
+      - name: Clicks
+        link: /realm/ClickTrophies
+        research: Click Trophies
+
+      - name: Each Building
+        link: /realm/EachBuilding
+        research: Each Building Trophies
+
+      - name: Total Buildings
+        link: /realm/TotalBuildings
+        research: Total Buildings
+
+      - name: Magic
+        link: /realm/Magic
+        research: Mana, Arcane, Spell Upgrade Trophies
+
+      - name: Spell
+        link: /realm/SpellTrophy
+        research: Spells Cast Trophies
+
+      - name: Faction Coin
+        link: /realm/FactionCoin
+        research: Faction Coin Trophies
+
+      - name: Assistant
+        link: /realm/Assistant
+        research: Assistant Trophies
+
+      - name: Artifact
+        link: /realm/TArtifacts
+        research: Artifact Trophies
+
+      - name: Gem
+        link: /realm/Gem
+        research: Gem Trophies
+
+      - name: Ruby
+        link: /realm/Ruby
+        research: Ruby Trophies
+
+      - name: Upgrade
+        link: /realm/UpgradeTrophy
+        research: Upgrade Trophies
+
+      - name: Faction Champion
+        link: /realm/FactionChampion
+        research: Faction Champion Trophies
+
+      - name: Grand Champion
+        link: /realm/GrandChampion
+        research: Grand Champion Trophies
+
+      - name: Merc Oath
+        link: /realm/MercOath
+        research: Oath of the Mercenary
+
+      - name: Reincarnation
+        link: /realm/RTrophies
+        research: Reincarnation Trophies
+
+      - name: Archaeology
+        link: /realm/Archaeology
+        research: Archaeology Trophies
+
+      - name: Secret
+        link: /realm/Secret
+        research: Secret Trophies
+
+- header: Factions
+  link: /realm/Factions
+  items:
+      - name: Fairy
+        link: /realm/FairyFaction
+        research: Fairy
+
+      - name: Elf
+        link: /realm/ElfFaction
+        research: Elf
+
+      - name: Angel
+        link: /realm/AngelFaction
+        research: Angel
+
+      - name: Goblin
+        link: /realm/GoblinFaction
+        research: Goblin
+
+      - name: Undead
+        link: /realm/UndeadFaction
+        research: Undead
+
+      - name: Demon
+        link: /realm/DemonFaction
+        research: Demon
+
+      - name: Titan
+        link: /realm/TitanFaction
+        research: Titan
+
+      - name: Druid
+        link: /realm/DruidFaction
+        research: Druid
+
+      - name: Faceless
+        link: /realm/FacelessFaction
+        research: Faceless
+
+      - name: Dwarf
+        link: /realm/DwarfFaction
+        research: Dwarf
+
+      - name: Drow
+        link: /realm/DrowFaction
+        research: Drow
+
+      - name: Dragon
+        link: /realm/DragonFaction
+        research: Dragon
+
+      - name: Mercenary
+        link: /realm/MercenaryFaction
+        research: Mercenary
+
+- header: Artifacts
+  link: /realm/Artifacts
+  research: A complete list of Artifacts and their requirements in image map form
+  items:
+      - name: Quest Artifacts
+        link: /realm/QuestArtifacts
+        research: Quest Artifacts
+
+      - name: Lore Artifacts
+        link: /realm/LoreArtifacts
+        research: Lore Artifacts
+
+- header: Research
+  link: /realm/Research
+  items:
+      - name: Research
+        link: /realm/ResearchFacilities
+        research: Research Facilities
+        subitems:
+            - name: Spellcraft
+              link: /realm/Spellcraft
+              research: Spellcraft
+
+            - name: Craftsmanship
+              link: /realm/Craftsmanship
+              research: Craftsmanship
+
+            - name: Divine
+              link: /realm/Divine
+              research: Divine
+
+            - name: Economics
+              link: /realm/Economics
+              research: Economics
+
+            - name: Alchemy
+              link: /realm/Alchemy
+              research: Alchemy
+
+            - name: Warfare
+              link: /realm/Warfare
+              research: Warfare
+
+      - name: Research Tree
+        link: /realm/ResearchTree
+        research: Research Tree
+
+      - name: Unique Building
+        link: /realm/UniqueBuilding
+        research: Unique Building
+
+      - name: Upgrades
+        link: /realm/ResearchUpgrades
+        research: Research Upgrades
+        subitems:
+            - name: Assistant
+              link: /realm/ResearchAssistantUpgrades
+              research: Assistant Upgrades
+
+            - name: Mana
+              link: /realm/ResearchManaUpgrades
+              research: Mana Upgrades
+
+            - name: Spell
+              link: /realm/ResearchSpellUpgrades
+              research: Spell Upgrades
+
+            - name: Faction Coind Find Chance
+              link: /realm/ResearchFactionCoinUpgrades
+              research: Faction Coin Find Chance Upgrades
+
+            - name: Unique Building
+              link: /realm/ResearchUniqueBuildingUpgrades
+              research: Unique Building Upgrades
+
+            - name: Building-UB
+              link: /realm/ResearchBuildingBasedOnUB
+              research: Building Upgrades based on Unique Buildings
+
+            - name: Non-unique Buiding
+              link: /realm/ResearchNonUniqueUpgrades
+              research: Non-unique Buiding Upgrades slots
+
+            - name: Neutral Building
+              link: /realm/ResearchNeutralBuildingUpgrades
+              research: Neutral Building Upgrades
+
+            - name: All Building
+              link: /realm/ResearchAllBuildingUpgrades
+              research: All other Building Upgrades
+
+            - name: Click Reward
+              link: /realm/ResearchClickRewardUpgrades
+              research: Click Reward Upgrades
+
+            - name: Gem Upgrades
+              link: /realm/ResearchGemBonusUpgrades
+              research: Gem Upgrades
+
+- header: Notation
+  link: /realm/Notation
+
+- header: Premium
+  link: /realm/PremiumUpgrades
