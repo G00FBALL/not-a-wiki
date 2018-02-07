@@ -105,7 +105,7 @@
     <p><b>Chance</b>: 1 in 3000 in 0 seconds 1 in 132349 at 60 seconds. 1 in 438078 at 120 seconds.
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadSet.png" align="middle"><b> Undead Set</b></p>
     <p><b>Requirement</b>: A2+
-    <p><b>Artifacts Required</b>: DustyCoffin Spiked Whip, Rotten Organ, JawBone
+    <p><b>Artifacts Required</b>: DustyCoffin, Rotten Organ, JawBone
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Additively Increase max mana based on offline bonus.
     <p><b>Formula</b>: (45 * x ^ 0.6), where x is offline Multiplier.
