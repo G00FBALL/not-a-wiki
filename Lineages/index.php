@@ -376,7 +376,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png" align="middle"> Drow Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.</p>
     <p><b>Level 30</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" align="middle"><b> Drow Perk 4</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk4.png" align="middle"><b> Drow Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 min spent this game.</p>
     <p><b>----------------------------------</b></p>
