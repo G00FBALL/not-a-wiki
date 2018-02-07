@@ -233,7 +233,7 @@
 <br/>
 <br/>
     <p><b>Dragon Level 30</b>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk3.png" alt="DragonPerk4" align="middle"><b> Dragon Perk 3</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk4.png" alt="DragonPerk4" align="middle"><b> Dragon Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: Activates two breaths per cast.
 <p><b>------------------------------</b>
@@ -276,12 +276,6 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
 <p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
-<p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase mana regeneration by 60%.</p>
-<br/>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase mana regeneration by 60%.</p>
 <br/>
