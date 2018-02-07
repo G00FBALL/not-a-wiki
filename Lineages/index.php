@@ -403,7 +403,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png" align="middle"> Dragon Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.</p>
     <p><b>Level 30</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk3.png" align="middle"><b> Dragon Perk 4</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk4.png" align="middle"><b> Dragon Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Activates two breaths per cast.</p>
         <?php include "../scripts/footer.html"; ?>
