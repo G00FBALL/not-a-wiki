@@ -327,13 +327,13 @@
     <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Fairy Set.
-    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Wizard Tower.
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png" align="middle"><b> Raw Emerald</b></p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Elven Set.
-    <p><b>Chance</b>: (2 * x ^ 2) / 10000)%, where x is coins per second.
+    <p><b>Chance</b>: (2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
     <p><b>Description</b>: The remains of an Angel fallen to earth.
@@ -345,35 +345,35 @@
     <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Goblin Set.
-    <p><b>Chance</b>: (x - 10000) / 300000)%, where x is Slave Pens.
+    <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> DustyCoffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Undead Set.
-    <p><b>Chance</b>: (1 / 30 + (x ^ 1.75))%, where x is time this game in seconds.
+    <p><b>Chance</b>: (1 / (30 + x ^ 1.75))%, where x is time this game in seconds.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> CrystallizedLava</b></p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Demon Set.
-    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Titan Set.
-    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges.
+    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges (Royal Exchange count multipliers DO count).
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png" align="middle"><b> Branch of the Life Tree</b></p>
     <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Druid Set.
-    <p><b>Chance</b>: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage.
+    <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png" align="middle"><b> Nightmare Figment</b></p>
     <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
     <p><b>Requirement</b>: R100+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Faceless Set.
-    <p><b>Chance</b>: (x ^ 1.5 / 20000000 (20M))%, where x is headstart time in seconds.
+    <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.
     <?php include "../scripts/footer.html"; ?>
