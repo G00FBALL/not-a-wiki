@@ -724,6 +724,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Hellfire Blast Tier 2-7</a></b></p>
             <div class="autohide">
                 <p><b>Faction Coins Needed</b> Demon
+                <p><b>Effect</b>: Hell Fire Blast will make Evil spells cast count %1% more for all purposes per tier.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier2.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier3.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 3
@@ -755,6 +756,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Combo Strike Tier 2-7</a></b></p>
             <div class="autohide">
                 <p><b>Faction Coins Needed</b> Drow
+                <p><b>Effect</b>: Combo strike cast stat increases more when you cast higher tiers.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrikeTier2.png" alt="Combo Strike" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 63 Vg (6.3e64) - <b>FC</b> 1 T (1e12)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrikeTier3.png" alt="Combo Strike" align="middle"> <b>Tier</b>: 3
@@ -785,7 +787,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Lightning Strike Tier 2-7</a></b></p>
             <div class="autohide">
                 <p><b>Faction Coins Needed</b> Angel, Goblin
-                <p><b>Effect</b>: Iron Strongholds count for 50% more per tier for the spell bonus.
+                <p><b>Effect</b>: Iron Strongholds count for 75% more per tier for the spell bonus.
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStrikeTier2.png" alt="Lightning Strike" align="middle"> <b>Tier</b>: 2
                 <p><b>Cost</b> 57 Ocd (5.7e58) - <b>FC</b> 50 B (5e10)
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStrikeTier3.png" alt="Lightning Strike" align="middle"> <b>Tier</b>: 3
