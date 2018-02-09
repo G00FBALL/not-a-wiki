@@ -18,7 +18,7 @@
 <p><b>Good Buildings</b> : <b>Good Alignment</b>
 <p><b>Requires Proof of Good Deed</b>
 <p><b>Tier 4</b>: Warrior Barracks : <b>Base Production</b> : 65 coins
-<p><b>Tier 5</b>: Knights Joust : <b>Base Production</b> : 200 coins
+<p><b>Tier 5</b>: Knight's Joust : <b>Base Production</b> : 200 coins
 <p><b>Tier 6</b>: Wizard Tower : <b>Base Production</b> : 650 coins
 <p><b>Tier 7</b>: Cathedral : <b>Base Production</b> : 2,000 coins
 <p><b>Tier 8</b>: Citadel : <b>Base Production</b> : 8,500 coins
