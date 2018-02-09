@@ -4,8 +4,8 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
-    <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
-    <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
+    <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
+    <p>All Event Perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
        </p>
@@ -1605,7 +1605,7 @@ var x = setInterval(function() {
     </div>
     <p><b>Event Items</b>
     <p><b>Feats</b>: Special kind of Trophies which can only be unlocked during their respective Event. Feats may have any kind of requirement and you will sometimes have to discover what you need to do by yourself.
-    <p>Feats do not give any bonuses or upgrades, they're a proof of your dedication to the game.</p>
+    <p>Feats do not give any bonuses or upgrades-- they're a proof of your dedication to the game.</p>
     <p><b>Event Quests</b>: Missions entirely based on event-specific mechanics that can be completed during their respective Event. Unlike Feats, completing Quest series will award a permanent bonus which will stack with the Quest bonuses from past and future Events.
     <p>The bonus of each quest series is determined with
     <p><b>Formula</b>: (0.5 * (2 - x + x^2))%, where x is is the number of quests completed in the series.
