@@ -31,7 +31,7 @@
 <br/>
 <br/>
 <p><b>W50</b> - <b>For Undead</b> - <b>Research Name</b>: Exertion 
-<p><b>Requirement</b>: 2 days of Evil Play Time, Note: Play as any Evil faction, but you must be Demon to unlock this. 
+<p><b>Requirement</b>: 2 days of Evil Play Time this R, Note: Play as any Evil faction, but you must be Demon to unlock this. 
 <p><b>Cost</b>: 318.8 Tqag (3.188E134) 
 <p><b>Effect</b>: Increase faction coin find chance based on the number of Undercities you own. 
 <p><b>Formula</b>: (floor(6.5x^0.65))%, where x is the number of Undercities you own.
