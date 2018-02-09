@@ -18,7 +18,7 @@
 <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
 <br/>
 <p><b>Spell</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"> <b>Temporal Flux</b></p>
 <p><b>Cost</b>: 5000 Mana</p>
 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
@@ -155,7 +155,7 @@
 <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
 <br/>
 <p><b>Spell</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b></p>
 <p><b>Cost</b>: 3500 Mana</p>
 <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.</p>
 <p><b>Formulas</b></p>
@@ -296,7 +296,7 @@
 <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
 <br/>
 <p><b>Spell</b>
-<p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"> <b>All Creation</b></p>
 <p><b>Cost</b>: 6000 Mana</p>
 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
 <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
