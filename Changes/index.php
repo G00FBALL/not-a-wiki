@@ -80,7 +80,7 @@
     <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelSet.png" align="middle"><b> Angel Set</b></p>
     <p><b>Requirement</b>: A2+
-    <p><b>Artifacts Required</b>: Fossilized Wing, Pillar Fragment, DivineSword
+    <p><b>Artifacts Required</b>: Fossilized Wing, Pillar Fragment, Divine Sword
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Increase mana regen based on spells cast this game.
     <p><b>Formula</b>: (0.32 * x ^ 0.32), where x is spells cast.
@@ -97,7 +97,7 @@
     <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.
     <p><b>Formula</b>: (x ^ 0.7), where x is seconds.
     <p><b>----------------------------------</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> DustyCoffin</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> Dusty Coffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Undead Set.
@@ -110,14 +110,14 @@
     <p><b>Effect</b>: Additively Increase max mana based on offline bonus.
     <p><b>Formula</b>: (45 * x ^ 0.6), where x is offline Multiplier.
     <p><b>----------------------------------</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> CrystallizedLava</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> Crystallized Lava</b></p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Demon Set.
     <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonSet.png" align="middle"><b> Demon Set</b></p>
     <p><b>Requirement</b>: A2+
-    <p><b>Artifacts Required</b>: CrystallizedLava, Demonic Figurine, Demon Horn
+    <p><b>Artifacts Required</b>: Crystallized Lava, Demonic Figurine, Demon Horn
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Increase non unique building production based on the sum of your faction spells activity time.
     <p><b>Formula</b>: (0.25 * x ^ 0.75), where x is faction spell activity time.
@@ -172,7 +172,7 @@
     <p><b>Elven Level 30</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk4.png" alt="ElvenPerk3" align="middle"><b> Elven Perk 4</b></p>
     <p><b>Requirement</b>: R105+
-    <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 500%.
+    <p><b>Effect</b>: When Moon Blessing is active, multiply your Faction Coin chance by 500%.
 <br/>
 <br/>
     <p><b>Angel Level 30</b>
