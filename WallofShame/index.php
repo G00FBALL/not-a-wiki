@@ -1332,12 +1332,12 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Want to propose next genius?</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Want to propose the next genius?</a></b></p>
             <div class="autohide">
                 <p>Step 1: Ctrl+F or F3</p>
-                <p>Step 2: Write geniuses nick</p>
+                <p>Step 2: Write their nickname or username</p>
                 <p>Step 3: Find first message</p>
-                <p>Step 4: Starting from left side select his first message</p>
+                <p>Step 4: Starting from left side select the first message</p>
                 <p>Step 5: Scroll down</p>
                 <p>Step 6: Shift+Click at bottom of chat to select whole conversation</p>
                 <p>Step 7: Publish at <a target="_blank" href="http://www.pastebin.com"><b>pastebin</b></a>(or something similar)</p>
