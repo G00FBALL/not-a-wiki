@@ -1,0 +1,244 @@
+- name: Resources
+  research: Mana - Coins - Faction Coins - Gems - Rubies - Kreds
+  link: /realm/Resources
+
+- name: Soft Resets
+  research: Reset - Abdication - Reincarnation
+  link: /realm/Reset
+  
+- name: Buildings
+  research: Building Alignments
+  link: /realm/BuildingsAlignments
+
+- name: Heritages
+  research: Faction Heritages
+  link: /realm/Heritages
+
+- name: Bloodlines
+  research: Faction Bloodlines
+  link: /realm/Bloodlines
+
+- name: Spells
+  research: Spells and TIer unlock Times
+  link: /realm/Spells
+
+- name: Excavations
+  research: Excavations
+  link: /realm/Artifacts
+
+- name: Challenges
+  research: Complete list of Challenges and descriptions
+  link: /realm/Challenges
+
+- name: Upgrades
+  research: Upgrades
+  link: /realm/Upgrades
+
+- name: Trophies
+  research: Complete list of Trophies and descriptions
+  link: /realm/TrophyPage
+
+- name: Factions
+  research: Factions
+  link: /realm/Factions
+
+- name: Research
+  research: The Research Facilities - Short and long names
+  link: /realm/Research
+  newline: true
+
+- name: Special Builds
+  research: Lineage/Challenge/Trophy/Buff/Merc Research Unlock Builds
+  link: /realm/SpecialBuilds
+
+- name: Merc Builds
+  research: Mercenary Builds
+  link: /realm/MercBuilds
+
+- name: Research Builds
+  research: Research Builds
+  link: /realm/ResearchBuilds
+
+- name: Prestige Builds
+  research: Evil and Good Prestige Builds
+  link: /realm/PBuilds
+
+- name: Dragon Unlock
+  research: Ascension Builds
+  link: /realm/R40-R46
+
+- name: Neutral Prestige Builds
+  research: Neutral Prestige Builds
+  link: /realm/R47-R60
+
+- name: Research Tree
+  research: Complete list of Research and descriptions
+  link: /realm/ResearchTree
+  newline: true
+
+- name: Fairy
+  research: Fairy Faction (Good)
+  link: /realm/FairyFaction
+  colour: efbbf0
+
+- name: Elf
+  research: Elf Faction (Good)
+  link: /realm/ElfFaction
+  colour: 46bd53 
+
+- name: Angel
+  research: Angel Faction (Good)
+  link: /realm/AngelFaction
+  colour: b1f4f1 
+
+- name: Goblin
+  research: Goblin Faction (Evil)
+  link: /realm/GoblinFaction
+  colour: b8b87b 
+
+- name: Undead
+  research: Undead Faction (Evil)
+  link: /realm/UndeadFaction
+  colour: 62269d 
+
+- name: Demon
+  research: Demon Faction (Evil)
+  link: /realm/DemonFaction
+  colour: e55131 
+
+- name: Titan
+  research: Titan Faction (Neutral)
+  link: /realm/TitanFaction
+  colour: eed835 
+
+- name: Druid
+  research: Druid Faction (Neutral)
+  link: /realm/DruidFaction
+  colour: 876137 
+
+- name: Faceless
+  research: Faceless Faction (Neutral)
+  link: /realm/FacelessFaction
+  colour: ac94ec 
+
+- name: Dwarf
+  research: Dwarf Faction (Good Prestige)
+  link: /realm/DwarfFaction
+  colour: 3333e6 
+
+- name: Drow
+  research: Drow Faction (Evil Prestige)
+  link: /realm/DrowFaction
+  colour: 9a0368 
+
+- name: Dragons
+  research: Dragons Faction (Neutral Prestige)
+  link: /realm/DragonsFaction
+  colour: "006400"
+
+- name: Mercenary
+  research: Mercenary
+  link: /realm/MercenaryFaction
+  newline: true
+
+- name: Vanilla Factions
+  colour: f1e9d1 
+  researchitems: 
+      - name: Vanilla Factions
+      - name: Good
+        colour: Blue
+        subitems: 
+            - name: Fairy
+              colour: efbbf0
+            - name: Elf
+              colour: 46bd53
+            - name: Angel
+              colour: b1f4f1
+      - name: Evil
+        colour: DarkRed
+        subitems:
+            - name: Goblin
+              colour: b8b87b
+            - name: Undead
+              colour: 62269d
+            - name: Demon
+              colour: e55131
+      - name: Neutral
+        colour: DarkGoldenRod
+        subitems:
+            - name: Titan
+              colour: eed835
+            - name: Druid
+              colour: 876137
+            - name: Faceless
+              colour: ac94ec
+
+- name: Good Factions
+  colour: 4db1e8 
+  researchitems: 
+      - name: Good Factions
+      - name: Fairy
+        colour: efbbf0
+      - name: Elf
+        colour: 46bd53
+      - name: Angel
+        colour: b1f4f1
+
+- name: Evil Factions
+  colour: a0000d 
+  researchitems: 
+      - name: Evil Factions
+      - name: Goblin
+        colour: b8b87b
+      - name: Undead
+        colour: 62269d
+      - name: Demon
+        colour: e55131
+
+- name: Neutral Factions
+  colour: dcdcdc 
+  researchitems: 
+      - name: Neutral Factions
+      - name: Titan
+        colour: eed835
+      - name: Druid
+        colour: 876137
+      - name: Faceless
+        colour: ac94ec
+
+- name: Prestige Factions
+  colour: 000000 
+  newline: true
+  researchitems: 
+      - name: Prestige Factions
+      - name: Dwarf
+        colour: 3333e6
+      - name: Drow
+        colour: 9a0368
+      - name: Dragon
+        colour: 006400
+
+- name: Events
+  link: /realm/Events
+  research: Events
+
+- name: Changelog
+  link: /realm/Changelog
+  research: Changelog
+
+- name: Notation
+  link: /realm/Notation
+  research: Short - Scientific - Engineering
+
+- name: Terminology
+  link: /realm/Terminology
+  research: Commonly used terms and abbreviations
+
+- name: Tools
+  link: /realm/Tools
+  research: Realm Weather Service - pastebin - auto clicker - Royal Scribe - Lara Crypt - imgur.com - Realm Grinder Wiki
+
+- name: Kongregate Links
+  link: /realm/Kong
+  research: Help
+
