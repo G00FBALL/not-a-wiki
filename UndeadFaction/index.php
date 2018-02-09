@@ -40,11 +40,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" alt="Smiley face" align="middle"> Unholy Rituals</b></p>
 <p><b>Cost</b>: 500 B (5E11)</p>
 <p><b>Effect</b>: Increase offline production based on your total time spent being offline.</p>
-<p><b>Formula</b>: round((20*x)^0.7)%, where x is your Time Spent Offline (Total) stat in hours.</p>
+<p><b>Formula</b>: round((20 * x) ^ 0.7)%, where x is your Time Spent Offline (Total) stat in hours.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" alt="Smiley face" align="middle"> Corpse Supply</b></p>
 <p><b>Cost</b>: 5 T (5E12)</p>
 <p><b>Effect</b>: You gain additional assistants based on the amount of Necropolises you own.</p>
-<p><b>Formula</b>: floor(sqrt(3*x+1)-1), where x is the number of Necropolis you own.</p>
+<p><b>Formula</b>: floor(2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" alt="Smiley face" align="middle"> Plagued Buildings</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Increase the production of all buildings by an additional 35% per hour of playtime in this game.</p>
