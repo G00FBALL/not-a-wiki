@@ -296,7 +296,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
     <p><b>Requirement</b>: R90+
-    <p><b>Chance</b>: (x/1,000,000)%, where x is seconds this game
+    <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game
     <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
@@ -318,7 +318,7 @@
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
     <p><b>Requirement</b>: R100+
     <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.
-    <p><b>Formula</b>: (x ^ (1 - 0.01 * (y - z / 4) / 36000), where x is seconds since buying upgrade (reset when upgrading lineage), y is lineage level and z is reincarnations.
+    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5) / 10), where x is seconds since buying upgrade (reset when upgrading lineage), y is lineage level and z is reincarnations.
     <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 if ancient heirloom.
     <p><b>Secret Upgrade Cost</b>: 1 Novg (1e90) Emerald Coins
     <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.
