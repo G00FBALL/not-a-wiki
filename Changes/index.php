@@ -77,7 +77,7 @@
     <p><b>Description</b>: The remains of an Angel fallen to earth.
     <p><b>Requirement</b>: A2+, 3000+ Excavations
     <p><b>Effect</b>: Unlocks Angel Set.
-    <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.
+    <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all time) in seconds.
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelSet.png" align="middle"><b> Angel Set</b></p>
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Fossilized Wing, Pillar Fragment, Divine Sword
