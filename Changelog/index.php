@@ -5,6 +5,25 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
     <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1 February 5th, 2018</a></b></p>
+        <div class="autohide">
+                <p><b>NEW FACTION UNION UPGRADES</b>: Two tiers per faction added to the existing series.</p>
+                <p><b>NEW LINEAGE PERKS</b>: at level 30, for Ascension 2 and higher.</p>
+                <p><b>NEW TROPHIES</b>: Two more secret trophies, unlocking new unique upgrades.</p>
+                <p><b>NEW ARTIFACTS</b>: for Ascension 2 and higher.</p>
+                <p><b>NEW FACTION ARTIFACTS</b>: One new artifact per faction, for ascension 2 and higher.</p>
+                <p><b>NEW UPGRADES: ARTIFACT SETS</b>: Finding all the faction artifacts for a specific faction will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.</p>
+                <p><b>EXCAVATION RESET REVAMP</b>: You will be able to reset your excavation count within a single Reincarnation, provided you have made enough of them. The amount of excavations required increases per reset, and is based on Reincarnations you made. However, resetting your excavations this way will also reduce overall production by one one order of magnitude (a 90% reduction) until you abdicate. Your excavation count will still reset when Reincarnating, and you will still be able to use Rubies to force a reset.</p>
+                <p><b>EXCAVATION PANEL REVAMP</b>: Undiscovered artifacts will now be shown in the panel as obscured, similar to secret trophies.</p>
+                <p><b>NEW REINCARNATION POWERS</b>: At Reincarnations 108 and 115.</p>
+                <p><b>Wooden Dice</b>: Effect and FC effect improved.
+                <p><b>Angel Union</b>: Upgrade names have been swapped.</p>
+                <p><b>All Creation</b>: Effect increased, scaling decreased.</p>
+                <p><b>Hellfire Blast</b>: Will make Evil spells cast count 50% more for all purposes per tier.</p>
+                <p><b>Stat Panel</b>: Updated with a new "All Time" tab. A lot of stats have also been rewritten to be consistent with their tab.</p>
+        </div>
+    </div>
+    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.3 December 12th, 2017</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM UTC.</p>
