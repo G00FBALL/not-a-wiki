@@ -119,7 +119,7 @@
 <p>Mercenaries were added in the After-life expansion as an ultimate powerhouse. See <a href="http://musicfamily.org/realm/MercenaryFaction/">Mercenary</a> page for more details.</p>
 <p><b><a href="/realm/MercenaryFaction">Mercenary</a></b></p>
 <p><a href="/realm/MercenaryFaction"><img src="http://musicfamily.org/realm/Factions/picks/Mercenary.png" alt="Fairy" align="middle"></a>
-<p><b>Alignement: Any</b></p>
+<p><b>Alignment: Any</b></p>
 <p>Combines the spells and upgrades from all the other factions to create custom cross-faction <a href="http://musicfamily.org/realm/MercBuilds">mercenary builds</a>.</p>
 <p><b>Cost</b> 50 Spd (5E55)</p>
 <p><b>----------------------------------</b></p>
