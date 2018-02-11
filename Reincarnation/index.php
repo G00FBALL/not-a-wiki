@@ -277,6 +277,7 @@
                 <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.
                 <p><b>108th Reincarnation and up</b>
                 <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.
+                <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7, where x is highest faction time and y is faction time of the Unique Building affinity<p><b>115th Reincarnation and up</b>
                 <p><b>115th Reincarnation and up</b>
                 <p><b>Added</b>: Increase Faction Coins found if they match your Faction, Bloodline or Artifact Set.
             </div>
