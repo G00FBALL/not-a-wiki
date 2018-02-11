@@ -11,7 +11,7 @@
     <p><b>Challenge</b>: Have at least 13 assistants and have exactly 13 times that many Royal Exchanges (Total) - Check the total in stats tab.(e.g. 15 assistants = 195 Royal Exchanges)</p>
     <p><b>Effect</b>: You gain a free assistant for every 80 Royal Exchanges you bought</p>
     <p><b>Upgrade</b>: Good for Titan</p>
-    <p><b>Tips</b>
+    <p><b>Warning</b>: Ruby Power Assistant upgrade will stop you from getting it done.
     <p>Since RG v2, this can be done solely with building assistants where the 5th and 25th buildings gives 1 assistant. Careful of using Ruby power. Avoid Reincarnation power, Undead & Drow bloodline, and Undead 3 challenges. By precaution, don't even get the other assistant upgrades. At lower Rs, aim exactly 13 assistants. Check your stats regularly and when you get close to the required 169 total REs, switch to buying them one by one - careful to not over-buy! Note that you can have more than 13 assistants so long as you have the required 13*(number of assistants) REs. (26 assistants => 338 RE)</p>
     <p><b>----------------------------------</b></p>
     <p><b>Titan Challenge 2</b>
