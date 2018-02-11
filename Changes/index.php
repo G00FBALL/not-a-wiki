@@ -5,6 +5,10 @@
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
 <h6>Release date, February 5, 2018</h6>
+<p><b>108th Reincarnation and up</b>
+<p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.
+<p><b>115th Reincarnation and up</b>
+<p><b>Added</b>: Increase Faction Coins found if they match your Faction, Bloodline or Artifact Set.
 <p><b>Excavation</b>
 <p><b>Excavations</b>: Free reset if enough times excavated this R 2000 + 50 * R + 500 * x, where x is amount of resets this R
 <p><b>Trophies</b>
