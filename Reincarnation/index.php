@@ -275,6 +275,10 @@
                 <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.
                 <p><b>100th Reincarnation and up</b>
                 <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.
+                <p><b>108th Reincarnation and up</b>
+                <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.
+                <p><b>115th Reincarnation and up</b>
+                <p><b>Added</b>: Increase Faction Coins found if they match your Faction, Bloodline or Artifact Set.
             </div>
         </div>
         <div class="shelementwhole">
