@@ -245,30 +245,30 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Reincarnation Perks</a></b></p>
             <div class="autohide">
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
-                <p><b>Increase</b>: Production by 25*x%.</p>
-                <p><b>Increase</b>: Offline production by (500 * x)%.</p>
-                <p><b>Increase</b>: FC chance multiplicatively by (x^1.1)%. Note: Tooltip is wrong and display actual bonus for 50th reincarnation and up.</p>
-                <p><b>Increase</b>: Mana per Second by floor(12.5*(sqrt(1+8*x)-1)/2)/10.</p>
+                <p><b>Added</b>: Increase Production by (5 * x)%/p>
+                <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (x ^ 1.1)%.</p>
+                <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
                 <p><b>2nd Reincarnation and up</b>
-                <p><b>Increase</b>: Gem production bonus by 0.2*x%.
+                <p><b>Added</b>: Increase Gem production bonus by (0.2 * x)%.
                 <p><b>5th Reincarnation and up</b>
-                <p><b>Increase</b>: Assistants by x and assistant production is increased by 2*x%.
+                <p><b>Added</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.
                 <p><b>10th Reincarnation and up</b>
-                <p><b>Increase</b>: Production of all buildings by x^(1.75)*t^(0.65), where t is time(total) in hours.
+                <p><b>Added</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.
                 <p><b>12th Reincarnation and up</b>
-                <p><b>Increase</b>: Maximum mana by 35*x.</p>
+                <p><b>Added</b>: Increase Maximum mana by 35 * x.</p>
                 <p><b>20th Reincarnation and up</b>
-                <p><b>Increase</b>: Production of each building by 0.01*x*b%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
+                <p><b>Added</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
                 <p><b>25th Reincarnation and up</b>
-                <p><b>Increase</b>: Royal Exchange bonus by 0.5*x%.
+                <p><b>Added</b>: Increase Royal Exchange bonus by (0.5 * x)%.
                 <p><b>41st Reincarnation and up</b>
-                <p><b>Increase</b>: Production of Unique Buildings by 1200*(x^1.1)%.
+                <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.1))%.
                 <p><b>45th Reincarnation and up</b>
-                <p><b>Increase</b>: Maximum mana by 70*x^1.2. Note: Tooltip is wrong and this power neither replace nor improve Reincarnation 12 power. </p>
+                <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.2.</p>
                 <p><b>50th Reincarnation and up</b>
-                <p><b>Increase</b>: FC chance by x%. Note: Tooltip is wrong and display actual bonus for 1st reincarnation and up.
+                <p><b>Added</b>: Increase FC chance by (x)%.
                 <p><b>60th Reincarnation and up</b>
-                <p><b>Increase</b>: FC change multiplicatively by 1.2*x^1.05 if they match your Faction or Bloodline.
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline.
                 <p><b>70th Reincarnation and up</b>
                 <p><b>Added</b>: You gain 1 additional Research slot for each branch.
                 <p><b>85th Reincarnation and up</b>
@@ -279,7 +279,7 @@
                 <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.
                 <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7, where x is highest faction time and y is faction time of the Unique Building affinity<p><b>115th Reincarnation and up</b>
                 <p><b>115th Reincarnation and up</b>
-                <p><b>Added</b>: Increase Faction Coins found if they match your Faction, Bloodline or Artifact Set.
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)
             </div>
         </div>
         <div class="shelementwhole">
