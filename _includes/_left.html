@@ -7,9 +7,9 @@
             <p align="center">{{ header.header }}</p>
             {% for item in header.items %}
                 {% if item.research %}
-                    <li id="active"><a href="{{ item.link }}" id="current" research="{{ item.research }}" >{{ item.name }}</a></li>
+                    <li><a href="{{ item.link }}" research="{{ item.research }}" >{{ item.name }}</a></li>
                 {% else %}
-                    <li id="active"><a href="{{ item.link }}" id="current">{{ item.name }}</a></li>
+                    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
                 {% endif %}
             {% endfor %}
         {% endfor %}

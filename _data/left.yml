@@ -1,7 +1,7 @@
 - header: 
   items:
       - name: Home
-        link: /realm/home
+        link: /realm/
 
       - name: G00f's not a Guest Book
         link: /realm/GuestBook/gbook.php
