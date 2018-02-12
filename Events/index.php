@@ -4,8 +4,8 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
-    <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
-    <p>All Event Perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
+    <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
+    <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
        </p>
@@ -50,29 +50,24 @@ var x = setInterval(function() {
         <thead>
         <tr>
             <th>Total Rubies</th>
-            <th colspan="4">Total Cumulative Bonuses 132%</th>
+            <th colspan="5">Total Cumulative Bonuses 136%</th>
         </tr>
         </thead>
         <tbody>
         <tr>
-            <td>74</td>
+            <td>77</td>
             <td>Events</td>
             <td>2015</td>
             <td>2016</td>
             <td>2017</td>
+            <td>2018</td>
         </tr>
         <tbody>
         <tr>
-            <td>24</td>
-            <td>Christmas</td>
-            <td>14%</td>
-            <td>14%</td>
-            <td>14%</td>
-        </tr>
-        <tr>
-            <td>6</td>
+            <td>9</td>
             <td>Valentines</td>
             <td></td>
+            <td>4%</td>
             <td>4%</td>
             <td>4%</td>
         </tr>
@@ -135,13 +130,20 @@ var x = setInterval(function() {
             <td>&#10004;</td>
             <td>&#10004;</td>
         </tr>
+        <tr>
+            <td>24</td>
+            <td>Christmas</td>
+            <td>14%</td>
+            <td>14%</td>
+            <td>14%</td>
+        </tr>
         </tbody>
     </table>
     <br/>
     <p><b>Event Panel</b>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.
-    <p><img src="/realm/Factions/picks/TotalEvents2017.png" usemap="#TotalEvents2017-map">
-    <map name="TotalEvents2017-map">
+    <p><img src="/realm/Factions/picks/TotalEvents2018.png" usemap="#TotalEvents2018-map">
+    <map name="TotalEvents2018-map">
     <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="6,7,62,61" shape="rect">
     <area target="" research="Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="69,5,126,62" shape="rect">
     <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="133,5,189,61" shape="rect">
@@ -150,30 +152,102 @@ var x = setInterval(function() {
     <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,5,380,62" shape="rect">
     <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="387,5,446,61" shape="rect">
     <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="6,68,60,126" shape="rect">
-    <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="69,68,124,125" shape="rect">
-    <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="131,68,189,125" shape="rect">
-    <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)" coords="196,67,253,125" shape="rect">
-    <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating" coords="260,69,318,125" shape="rect">
-    <area target="" research="Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="324,67,380,125" shape="rect">
-    <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="386,68,445,125" shape="rect">
-    <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="4,131,62,189" shape="rect">
-    <area target="" research="Summer Festival<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="67,132,124,189" shape="rect">
-    <area target="" research="Halloween<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="133,131,189,188" shape="rect">
-    <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="196,132,253,189" shape="rect">
-    <area target="" research="Halloween<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="260,132,317,188" shape="rect">
-    <area target="" research="Halloween<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="324,133,380,189" shape="rect">
-    <area target="" research="Halloween<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="389,131,444,188" shape="rect">
-    <area target="" research="Anniversary<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="4,194,62,252" shape="rect">
-    <area target="" research="Anniversary<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="69,194,126,251" shape="rect">
-    <area target="" research="Anniversary<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="133,196,189,252" shape="rect">
-    <area target="" research="Anniversary<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="197,195,251,251" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="260,196,317,251" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="324,194,382,252" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="387,196,446,252" shape="rect">
+    <area target="" research="Valentines<p>Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.<p>Reward: Adds  a button in the top left cornor of Event window to change the mana to be either blue or red.<img src=&quot;http://musicfamily.org/realm/Factions/picks/ButtonEventReward.png&quot;</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades." coords="69,69,126,125" shape="rect">
+    <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="134,69,189,126" shape="rect">
+    <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="196,70,256,125" shape="rect">
+    <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)" coords="263,69,320,125" shape="rect">
+    <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating" coords="325,70,383,125" shape="rect">
+    <area target="" research="Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="391,70,446,126" shape="rect">
+    <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="6,133,62,190" shape="rect">
+    <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="69,134,125,189" shape="rect">
+    <area target="" research="Summer Festival<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="134,133,190,190" shape="rect">
+    <area target="" research="Halloween<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="197,133,254,189" shape="rect">
+    <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="263,133,319,189" shape="rect">
+    <area target="" research="Halloween<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="325,132,384,189" shape="rect">
+    <area target="" research="Halloween<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="391,133,446,190" shape="rect">
+    <area target="" research="Halloween<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="5,198,63,255" shape="rect">
+    <area target="" research="Anniversary<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="69,198,125,253" shape="rect">
+    <area target="" research="Anniversary<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="133,197,190,254" shape="rect">
+    <area target="" research="Anniversary<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="197,198,255,255" shape="rect">
+    <area target="" research="Anniversary<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="262,198,320,255" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="326,198,383,255" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="391,198,447,253" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="5,262,63,318" shape="rect">
     </map>
     <br/>
+
+
+
     <p><b>Events</b>
     <div class="shlisting">
+        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2018 Events</a></b></p>
+        <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">St Valentine's Day (14 - 18 Feb 2017)</a></b></p>
+            <div class="autohide">
+                <p><b>Event Theme</b>: <b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts</b></p>
+                <p>Collected online and offline at a base rate of 1 per second and can be increased up to 3/s during the length of the event as follows:
+                <p><b><img src="/realm/Factions/picks/CalltoLove2017.png" alt="Avalanche" align="middle"> Call to Love</b></p>
+                <p><b>Kind</b>: Spell
+                <p><b>Unlock / Price</b>: Mana Cost:200 (Replaces Call to Arms)
+                <p><b>Effect</b>: In addition to the Call to Arms spell effect, increases heart production per second based on the amount of spell casts.
+                <p>Base Production 1 heart/sec with no active time for CtL
+                <p>2 hearts/sec for 2000 seconds of active time for CtL (33 minutes and 20 seconds)
+                <p>3 hearts/sec for 200000 seconds of active time for CtL (2 days 7 hours 33 minutes and 20 seconds)
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts Upgrades</b></p>
+                <p>Every 100 Heart Upgrades purchased will give 1 free Ruby.
+                <p><b>Kind</b>: Upgrade
+                <p><b>Cost</b>: The first Upgrade for each is 100 Hearts. It increases by 100 for each additional Upgrade (ie..100,200,300).
+                <p><b>Effect</b>
+                <p><b>Assistants</b>: Increases by 1 Assistant with each Upgrade.
+                <p><b>Mana Regen</b>: Increases by 0.5 with each Upgrade.
+                <p><b>Max Mana</b>: Increases by 25 with each Upgrade.
+                <p><b>Gem Bonus</b>: Increases by 0.50 with each Upgrade.
+                <p><b>Exchange Bonus</b>: Increases by 1.50 with each Upgrade.
+                <p><b>Note</b>: All Heart Upgrades will be like Ruby Upgrades for the duration of Event.
+                <p><b>------------------------------</b></p>
+                <h6>Quest</h6>
+                <p><b>Note</b>: Buy 50 Heart Upgrades of each to complete Quest
+                <br/>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> Feel the Love 1</b></p>
+                <p><b>Cost</b>: 50 Heart Upgrades
+                <p><b>Effect</b>: Increases total Event bonus by 1%.
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest2.png" alt="" align="middle"> Feel the Love 2</b></p>
+                <p><b>Cost</b>: 125 Heart Upgrades
+                <p><b>Effect</b>: Increases total Event bonus by 1%.
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="" align="middle"> Feel the Love 3</b></p>
+                <p><b>Cost</b>: 250 Heart Upgrades
+                <p><b>Effect</b>: Increases total Event bonus by 2%.
+                <p><b>----------------------------------</b>
+                <h6>Feats</h6>
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="" align="middle"> Call to Love</b></p>
+                <p><b>Cost</b>: Purchase 250 Heart Upgrades
+                <p><b><img src="/realm/Factions/picks/ILoveYouinEveryLanguage2017.png" alt="" align="middle"> I Love You in Every Language</b></p>
+                <p><b>Cost</b>: Cast Call to Love at least once with 6 different Factions.
+                <p><b><img src="/realm/Factions/picks/AssistantLove2018.png" alt="" align="middle"> Assistant Love</b></p>
+                <p><b>Cost</b>: Reach 50 Assistants from Heart Upgrades.
+                <p><b>Reward</b>: Adds  a button in the top left cornor of Event window to change the mana to be either blue or red.
+                <p><b>----------------------------------</b>
+                <h6>Shop</h6>
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> 15000 Hearts</b></p>
+                <p><b>Effect</b>: A Love Machine will produce 15000 Hearts for 5 Rubies. It will offer you a new deal if you accept.
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest2.png" alt="" align="middle"> 50000 Hearts</b></p>
+                <p><b>Effect</b>: A Love Machine will produce 50000 Hearts for 55 Rubies. It will offer you a new deal if you accept.
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest3.png" alt="Avalanche" align="middle"> 175000 Hearts</b></p>
+                <p><b>Effect</b>: A Love Machine will produce 175000 Hearts for 45 Rubies. It will offer you a new deal if you accept.
+                <p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="Avalanche" align="middle"> 400000 Hearts</b></p>
+                <p><b>Effect</b>: A Love Machine will produce 400000 Hearts for 100 Rubies. It will run out of power after you use this last time.
+                <p><b>----------------------------------</b>
+                <p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" alt="Avalanche" align="middle"> Scrying</b></p>
+                <p><b>Effect</b>: Produces 1 heart every 5 seconds for 4 hours.
+                <p><b>----------------------------------</b>
+                </div>
+            </div>
+        </div>
+
+
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2017 Events</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
@@ -1605,14 +1679,17 @@ var x = setInterval(function() {
     </div>
     <p><b>Event Items</b>
     <p><b>Feats</b>: Special kind of Trophies which can only be unlocked during their respective Event. Feats may have any kind of requirement and you will sometimes have to discover what you need to do by yourself.
-    <p>Feats do not give any bonuses or upgrades-- they're a proof of your dedication to the game.</p>
+    <p>Feats do not give any bonuses or upgrades, they're a proof of your dedication to the game.</p>
     <p><b>Event Quests</b>: Missions entirely based on event-specific mechanics that can be completed during their respective Event. Unlike Feats, completing Quest series will award a permanent bonus which will stack with the Quest bonuses from past and future Events.
     <p>The bonus of each quest series is determined with
     <p><b>Formula</b>: (0.5 * (2 - x + x^2))%, where x is is the number of quests completed in the series.
     <p>Players who participate in all our Events will be rewarded with a greater cumulative bonus.</p>
     <p><b>Event Announcements</b>
     <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder forum</a> at Kongregate.com. A copy of these announcements can be found below.
-    <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-jan-25th-2018?page=3#posts-12354005">REALM GRINDER Developers' Diary</a></b></p>
+    <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-sep-28th-2016">REALM GRINDER Developers' Diary</a></b></p>
         <?php include "../scripts/footer.html"; ?>
+
+
+
 
 
