@@ -52,7 +52,7 @@
     <p><b>level 5</b>: Perk 1</p>
     <p><b>level 10</b>: Specific FC boost</p>
     <p><b>level 15</b>: Perk 2 - Unlocks Faction spell. (adjusted for your alignment if necessary)</p>
-    <p><b>Note</b>: Level 15 Lineage Challenge does not need it's Lineage to complete unless otherwise stated.</p>
+    <p><b>Note</b>: Level 15 Lineage Challenge does not need it's Lineage to complete.</p>
     <p><b>level 20</b>: Perk 3 plus Grand Champion trophy</p>
     <p><b>level 30</b>: Faction Spell boost</p>
     <h6> Lineage Menu</h6>
