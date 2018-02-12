@@ -226,6 +226,7 @@ var x = setInterval(function() {
                 <p><b>Cost</b>: Purchase 250 Heart Upgrades
                 <p><b><img src="/realm/Factions/picks/ILoveYouinEveryLanguage2017.png" alt="" align="middle"> I Love You in Every Language</b></p>
                 <p><b>Cost</b>: Cast Call to Love at least once with 6 different Factions.
+                <p><b>Note</b>: Whenn doing the cast with 6 factions, if you do it to fast the game will not register it
                 <p><b><img src="/realm/Factions/picks/AssistantLove2018.png" alt="" align="middle"> Assistant Love</b></p>
                 <p><b>Cost</b>: Reach 50 Assistants from Heart Upgrades.
                 <p><b>Reward</b>: Adds  a button in the top left cornor of Event window to change the mana to be either blue or red.
