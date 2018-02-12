@@ -12,7 +12,7 @@
 <p>
 <b>Event starts in
 <p id="start">
-<script>
+<!--<script>
 var countDownDate1 = new Date("Feb 12, 2018 13:01:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
@@ -24,11 +24,11 @@ var x = setInterval(function() {
     document.getElementById("start").innerHTML = days + "d " + hours + "h "
     + minutes + "m " + seconds + "s ";
     }, 1000);
-</script>
+</script>--!>
 <p>
 Event ends in
 <p id="end"></p>
-<!--<script>
+<script>
 var countDownDate2 = new Date("Feb 16, 2018 19:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
@@ -44,7 +44,7 @@ var x = setInterval(function() {
         document.getElementById("end").innerHTML = "Ended";
     }
  }, 1000);
-</script>--!></b></br></p>
+</script></b></br></p>
     <a id="Events"></a>
     <table class="numtable">
         <thead>
