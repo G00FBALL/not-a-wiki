@@ -207,7 +207,7 @@
         colour: ac94ec
 
 - name: Prestige Factions
-  colour: 000000 
+  colour: '000000'
   newline: true
   researchitems: 
       - name: Prestige Factions

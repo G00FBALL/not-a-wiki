@@ -2,9 +2,9 @@
     <div id="leftbox">
     </div>
     <div id="navcontainer">
-        <ul id="navlist">
+        <ul id="navlist" style="text-align: center;">
         {% for header in site.data.left %}
-            <p align="center">{{ header.header }}</p>
+            <li style="margin: 1em; display: inline-block; border: none; padding: 0;">{{ header.header }}</li>
             {% for item in header.items %}
                 {% if item.research %}
                     <li><a href="{{ item.link }}" research="{{ item.research }}" >{{ item.name }}</a></li>
