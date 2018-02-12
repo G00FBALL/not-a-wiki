@@ -107,7 +107,7 @@ body {
     overflow: auto;
     width: 760px;
     height: 159px;
-    background-image: url(http://musicfamily.org/realm/Factions/picks/RealmGrinderHeader.png);
+    background-image: url(/realm/img/picks/RealmGrinderHeader.png);
 }
 
 #navbox {
@@ -202,7 +202,7 @@ h7 {
 }
 
 #leftbox {
-    background-image: url(http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png);
+    background-image: url(/realm/img/picks/RealmGrinderGameRL.png);
     background-repeat: no-repeat;
     background-position: center top;
     text-align: left;
@@ -514,4 +514,18 @@ table.numtable {
     background-color: white;
     z-index: 1002;
     overflow: auto;
+}
+
+/* used in footer thanks */
+.html-marquee {
+  height:14px;
+  width:160px;
+  background-color:Black;
+  font-family:Cursive;
+  font-size:14px;
+  color:#98AFC7;
+  font-weight:bold;
+  border-width:1;
+  border-style:solid;
+  border-color:Black;
 }
