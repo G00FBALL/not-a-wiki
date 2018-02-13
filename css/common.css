@@ -118,7 +118,7 @@ body {
     position: relative;
 }
 
-#parent {
+.parent {
     margin: 0;
     overflow: hidden;
     width: 760px;
