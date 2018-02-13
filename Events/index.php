@@ -192,8 +192,8 @@ var x = setInterval(function() {
                 <p><b>Unlock / Price</b>: Mana Cost:200 (Replaces Call to Arms)
                 <p><b>Effect</b>: In addition to the Call to Arms spell effect, increases heart production per second based on the amount of spell casts.
                 <p>Base Production 1 heart/sec with no active time for CtL
-                <p>2 hearts/sec for 2000 seconds of active time for CtL (33 minutes and 20 seconds)(Total this all Rs)
-                <p>3 hearts/sec for 200000 seconds of active time for CtL (2 days 7 hours 33 minutes and 20 seconds)(Total this all Rs)
+                <p>2 hearts/sec for 2000 seconds of active time for CtL (33 minutes and 20 seconds)(Total all Rs)
+                <p>3 hearts/sec for 200000 seconds of active time for CtL (2 days 7 hours 33 minutes and 20 seconds)(Total all Rs)
                 <p><b>Formula</b>:1 + 0.5 * floor(log(x))*
                 <p><b>----------------------------------</b>
                 <p><b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts Upgrades</b></p>
