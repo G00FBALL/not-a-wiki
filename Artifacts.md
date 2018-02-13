@@ -1,36 +1,64 @@
 ---
 layout: default
 ---
-<h6><img src="/realm/img/picks/ExcavationTopPage.png"></h6>
-<p><b>There are two kinds of artifacts</b></p>
-<p><a href="/realm/QuestArtifacts" title="Quest Artifacts"><b>Quest Artifacts</b></a> and 
-<a href="/realm/LoreArtifacts" title="Lore Artifacts"><b>Lore Artifacts</b></a></p>
-<p style="color: red;"><b>Artifact Sets at bottom</b></p>
-<p><b>In-game description</b>
-<p>Enter the Archeology Association to control the progress of your Excavations. There you will be able to fund more excavations to find Faction Coins, the rare Rubies and ancient Artifacts from the civilizations of the old.</p>
-<p>Archaeology was first implemented in the "Ancient Races" expansion for introducing the Neutral Factions.</p>
-<p>Excavating enables to find Rubies (See the <b><a target="_blank" href="/realm/Rubies/">Ruby</a></b> page), with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral &amp; Prestige Factions.</p>
-<p>Some artifacts will reward direct bonuses and the amount of discovered artifacts take part in some Research upgrades.</p>
-<p><b>Requirements</b>
-<p>Archaeology is unlocked once you have over 1B gems, produced over 10 Oc (1E28) coins and bought the</p>
-<p><b><img src="/realm/img/picks/Archeology-upgrade.png" alt="Smiley face" style="vertical-align: middle;"> Archeology Upgrade</b>.</p>
-<p><b>Cost</b>: 100 Oc (1e29)</p>
-<p>An "Excavation" button will then appear on the top left of the Upgrades tab and you may commence excavations.</p>
-<p>The chance to find <b>Lore Artifacts</b> requires the</p>
-<p><img src="/realm/img/picks/SurveyEquipment.png" alt="Smiley face" style="vertical-align: middle;"><b> Survey Equipment Upgrade</b>
-<p><b>Requirements</b>: which requires 100 excavations and
-<p><b>Cost</b>: 1e35 (100 Dc)</b>. To be bought once throughout the entire game and does not show up as bought upgrade.
-<p><b>Cost & Faction Coins</b></p>
-<p><b>Excavation</b>: The first excavation costs 1 Oc (1E27) coins, and each subsequent excavation costs 20% more than the last.</p>
-<p><b>Formula</b>: 1e27 ^ (0.75 ^ A) * (1 + (0.2 - 0.025 (if E290) - 0.025 (if Ancient Egg)) / 5A) ^ x where A is number of ascensions and x is number of excavations.
-<p><b>Faction Coins</b>: 35% (40% with That Excavated Quickly upgrade) per excavation</p>
-<p><b>Formula</b>: floor(2 * ln(1 + (5000000 * 1.15^x))^3), where x is the number of excavations you have (not including the one just purchased).</p>
-<p><b>Excavation Reset</b></p>
-<p><b>Cost</b>: floor(x / 3000) + 1 rubies where x is number of excavations.
-<p><b>Note</b>: Free reset if enough times excavated this R (R40+ to afford reset amount)
-<p><b>Formula</b>: 2000 + 50 * R + 500 * x here x is amount of resets this R.
-<p><b>Note</b>: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.</p>
-<p><img src="/realm/img/picks/AllArtifacts.png" usemap="#AllArtifacts-map">
+
+###### ![Excavation](/realm/img/picks/ExcavationTopPage.png "Excavation")
+
+**There are two kinds of artifacts**
+
+**[Quest Artifacts](/realm/QuestArtifacts)** and **[Lore Artifacts](/realm/LoreArtifacts)**
+
+<p style="color: red; font-weight: bold">Artifact Sets at bottom</p>
+
+**In-game description**
+
+Enter the Archeology Association to control the progress of your Excavations. There you will be able to fund more excavations to find Faction Coins, the rare Rubies and ancient Artifacts from the civilizations of the old.
+
+Archaeology was first implemented in the "Ancient Races" expansion for introducing the Neutral Factions.
+
+Excavating enables to find Rubies (See the **[Ruby](/realm/Rubies)** page), with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral &amp; Prestige Factions.
+
+Some artifacts will reward direct bonuses and the amount of discovered artifacts take part in some Research upgrades.
+
+**Requirements**
+
+Archaeology is unlocked once you have over 1B gems, produced over 10 Oc (1E28) coins and bought the
+
+![Archaeology upgrade](/realm/img/picks/Archeology-upgrade.png "Archeology Upgrade") **Archeology Upgrade**.
+
+**Cost**: 100 Oc (1e29)
+
+An "Excavation" button will then appear on the top left of the Upgrades tab and you may commence excavations.
+
+The chance to find **Lore Artifacts** requires the
+
+![Survey Equipment Upgrade](/realm/img/picks/SurveyEquipment.png "Survey Equipment Upgrade") **Survey Equipment Upgrade**
+
+**Requirements**: which requires 100 excavations and
+
+**Cost**: 1e35 (100 Dc). To be bought once throughout the entire game and does not show up as bought upgrade.
+
+**Cost & Faction Coins**
+
+**Excavation**: The first excavation costs 1 Oc (1E27) coins, and each subsequent excavation costs 20% more than the last.
+
+**Formula**: 1e27 ^ (0.75 ^ A) * (1 + (0.2 - 0.025 (if E290) - 0.025 (if Ancient Egg)) / 5A) ^ x where A is number of ascensions and x is number of excavations.
+
+**Faction Coins**: 35% (40% with That Excavated Quickly upgrade) per excavation
+
+**Formula**: floor(2 * ln(1 + (5000000 * 1.15^x))^3), where x is the number of excavations you have (not including the one just purchased).
+
+**Excavation Reset**
+
+**Cost**: floor(x / 3000) + 1 rubies where x is number of excavations.
+
+**Note**: Free reset if enough times excavated this R (R40+ to afford reset amount)
+
+**Formula**: 2000 + 50 * R + 500 * x here x is amount of resets this R.
+
+**Note**: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.
+
+<img src="/realm/img/picks/AllArtifacts.png" usemap="#AllArtifacts-map">
 <map name="AllArtifacts-map">
     <area alt="" href="#" research="<img src=&quot;/realm/img/picks/AncientStoneSlab1.png&quot; alt=&quot;Artifacts&quot; align=&quot;middle&quot;><b> Ancient Stone Slab 1</b></p> <p><b>Clues</b>: We discovered an ancient stone slab written in old scriptures. It appears to say something about Halls of Legends.</p><p><b>Effect</b>: 1st clue required to unlock the Titan Alliance.</p> <p><b>Requirements</b>: 5th Excavation</p>" coords="6,47,62,103" shape="rect">
     <area alt="" href="#" research="<img src=&quot;/realm/img/picks/FossilizedPieceofBark1.png&quot; alt=&quot;Artifacts&quot; align=&quot;middle&quot;><b> Fossilized Piece of Bark 1</b></p> <p><b>Clues</b>: We discovered a fossilized piece of Bark with the image of a Faction Coin carved into it.</p><p><b>Effect</b>: 1st clue required to unlock the Druid Alliance.</p> <p><b>Requirements</b>: 10th Excavation</p>" coords="69,48,126,103" shape="rect">
@@ -100,9 +128,13 @@ layout: default
     <area alt="" href="#" research="<img src=&quot;/realm/img/picks/BranchoftheLifeTreeArtifact.png&quot; align=&quot;middle&quot;><b> Branch of the Life Tree</b><p>Description: Despite being torn from its source tree, it keeps growing buds and leaves.<p>Requirement: R100+, 3000+ Excavations<p>Effect: Unlocks Druid Set.<p>Chance: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage." coords="195,660,253,717" shape="rect">
     <area alt="" href="#" research="<img src=&quot;/realm/img/picks/NightmareFigmentArtifact.png&quot; align=&quot;middle&quot;><b> Nightmare Figment</b><p>Description: An unshaped, ephemeral substance which is politely trying to corrupt your mind.<p>Requirement:  R100+, 3000+ Excavations<p>Effect: Unlocks Faceless Set.<p>Chance: (x ^ 1.5 / 20000000 (20M))%, where x is headstart time in seconds." coords="262,659,319,716" shape="rect">
 </map>
-<h6>Artifact Sets</h6>
-<p><b>Finding all the faction artifacts for a specific faction</b> will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.
-<p><b>Requires all artifacts related to the faction to use its set.</b>
+
+###### Artifact Sets
+
+**Finding all the faction artifacts for a specific faction** will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.
+
+**Requires all artifacts related to the faction to use its set.**
+
 <h6><img src="/realm/img/picks/FactionSets.png" usemap="#FactionSets-map"></h6>
 <map name="FactionSets-map">
     <area alt="" href="#" research="<img src=&quot;/realm/img/picks/FairySet.png&quot; align=&quot;middle&quot;><b> Fairy Set</b></p><p>Requirement: A2+<p>Artifacts Required: Silk Cloth, Pink Carrot, Bottled Voice<p>Cost: Free<p>Effect: Increase Farm, Inn and Blacksmith production based on number of assistants owned.<p>Formula: (0.75 * x ^ 0.75), where x is number of assistants owned." coords="6,7,54,56" shape="rect">
