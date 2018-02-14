@@ -43,7 +43,7 @@
 <p><b>Requirements</b>: 25 Reincarnations, Faceless Unique Building
 <p><b>Challenge</b>: Get Hive Mind (3,3) bonus to at least 1890%.</p>
 <p><b>Effect</b>: All factions receive a bonus based on your Hive Mind bonus.</p>
-<p><b>Formula</b>: 0.05 * x, where x is current Hive Mind bonus.</p>
+<p><b>Formula</b>: (0.01 * 5 * x), where x is current Hive Mind bonus.</p>
 <p><b>Upgrade</b>: Good for All</p>
 <p><b>Tips</b>
 <p>This is the equivalent of about 8.5 days of time spent allied with Faceless. Getting the Titan Tier 2 challenge Harmony of Thoughts will help increase your Faceless playtime.</p>
