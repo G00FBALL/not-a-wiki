@@ -274,7 +274,7 @@
     <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
     <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-    <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
+    <p><b>Formula</b>: 10 * (x * (A + 1)) ^ 0.85, where x is the number of buildings you own.
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
@@ -290,7 +290,7 @@
     <p><b>Chance</b>: 5%
     <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
     <p><b>Note</b>: Only available to Mercenaries
-    <p><b>Formula</b>: 0.065 * x^  0.65 where x is amount of time spent as non-mercenary factions (in seconds).
+    <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).
     <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
@@ -318,8 +318,8 @@
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
     <p><b>Requirement</b>: R100+
     <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.
-    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5) / 10), where x is seconds since buying upgrade (reset when upgrading lineage), y is lineage level and z is reincarnations.
-    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 if ancient heirloom.
+    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5)) / 10), where x is seconds since buying upgrade (reset when upgrading lineage), y is lineage level and z is reincarnations.
+    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).
     <p><b>Secret Upgrade Cost</b>: 1 Novg (1e90) Emerald Coins
     <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.
     <p><b>----------------------------------</b></p>
