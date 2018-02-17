@@ -125,8 +125,8 @@
 <p><b>C330</b> - <b>For All Factions</b> - <b>Research Name</b>: Overload 
 <p><b>Requirement</b>: Research Aeromancy (S250) &amp; Critical Strike (W225) 
 <p><b>Cost</b>: 6.443 Sxg (6.443E183) 
-<p><b>Effect</b>: Increase clicking reward based on the amount of research made. 
-<p><b>Formula</b>: round(145 * x^0.38)%, where x is researches made.
+<p><b>Effect</b>: Increase mana regeneration based on the amount of research made.
+<p><b>Formula</b>: (3.5 *  x  ^0.35),, where x is researches made.
 <br/>
 <br/>
 <p><b>C340</b> - <b>For All Factions</b> - <b>Research Name</b>: Gem Duster 
