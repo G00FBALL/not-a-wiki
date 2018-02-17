@@ -48,7 +48,7 @@
 <p><b>Requirement</b>: 580 Trophies(as Demon) 
 <p><b>Cost</b>: 296 Ocqag (9.6E149) 
 <p><b>Effect</b>: Increase maximum mana based on the number of trophies you have unlocked. 
-<p><b>Formula</b>: floor(1.25x), where x is the amount of trophies unlocked.
+<p><b>Formula</b>: floor(1.3 * x ^ 1.1), where x is the amount of trophies unlocked.
 <br/>
 <br/>
 <p><b>W150</b> - <b>For All Factions</b> - <b>Research Name</b>: Invasion 
