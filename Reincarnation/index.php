@@ -134,7 +134,7 @@
                     $('#R41UniBuiPro').css('display', 'none');
                 }
                 if (rei >= 45) {
-                    var bonus = 70 * Math.pow(rei, 1.2);
+                    var bonus = 70 * Math.pow(rei, 1.25);
                     $('#R45MaxMan').text('Maximum mana is increased by +' + bonus.toFixed(0) + '. Total increase is +' + (bonus + 35 * rei).toFixed(0) + '.');
                     $('#R45MaxMan').css('display', 'block');
                 } else {
@@ -264,7 +264,7 @@
                 <p><b>41st Reincarnation and up</b>
                 <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.1))%.
                 <p><b>45th Reincarnation and up</b>
-                <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.2.</p>
+                <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
                 <p><b>50th Reincarnation and up</b>
                 <p><b>Added</b>: Increase FC chance by (x)%.
                 <p><b>60th Reincarnation and up</b>
