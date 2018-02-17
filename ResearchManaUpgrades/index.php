@@ -57,7 +57,7 @@
 <p><b>C330</b> - <b>For</b>: All Factions - <b>Research Name</b>: Overload 
 <p><b>Requirement</b>: Research Aeromancy (S250) Critical Strike (W225)  
 <p>Cost: 36.443 Sxg (6.443E183)  
-<p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).
+<p><b>Effect</b>: Increase mana regeneration based on the amount of research made.
 <p><b>Formula</b>: (3.5 *  x  ^0.35),, where x is researches made.
 <br/>
 <br/>
