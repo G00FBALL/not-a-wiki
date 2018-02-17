@@ -26,9 +26,9 @@
 <p><b>Druid Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EldritchArchitectureChallenges.png" alt="Eldritch Architecture" align="middle"> <b>Eldritch Architecture</b></p>
 <p>Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.</p>
-<p><b>Requirements</b>: 19 Reincarnations, 1000 excavationsElf 3 and Demon 3 challenges completed
+<p><b>Requirements</b>: 19 Reincarnations, 1000 excavations, Elf 3 and Demon 3 challenges completed
 <p><b>Challenge</b>: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.</p>
-<p><b>Effect</b>: You gain 1.25 additional max mana for every 4 Labyrinths owned.
+<p><b>Effect</b>: You gain 1.5 additional max mana for every 4 Labyrinths owned. (Ingame tooltip says 1.25 max mana but is wrong)
 <p><b>Upgrade</b>: Good for Faceless</p>
 <p><b>Tip</b>
 <p>Now that Grand Balance affects 0 buildings, it will target the next building down the list:</p>
