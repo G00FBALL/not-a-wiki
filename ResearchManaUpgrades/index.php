@@ -152,14 +152,14 @@
 <p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon
 <p>Cost: 25.2 Spvg (2.52e85)
 <p><b>Effect</b>: Increase Max Mana based on the amount of Unique Buildings you own.
-<p><b>Formula</b>: 8*x^0.8, where x is Unique Buildings owned.
+<p><b>Formula</b>: 8 * x ^0.8, where x is Unique Buildings owned.
 <p><b>------------------------------</b>
 <p><b>Warfare</b>
 <p><b>W135</b> - <b>For</b>: All Factions - <b>Research Name</b>: Rampage 
 <p><b>Requirement</b>: 580 Trophies(as Demon) 
 <p><b>Cost</b>: 296 Ocqag (9.6E149) 
 <p><b>Effect</b>: Increase maximum mana based on the number of trophies you have unlocked. 
-<p><b>Formula</b>: floor(1.25x), where x is the amount of trophies unlocked.
+<p><b>Formula</b>: 1.3 * x ^ 1.1, where x is the amount of trophies unlocked.
 <br/>
 <br/>
 <p><b>W205</b> - <b>For</b>: All Evil Factions - <b>Research Name</b>: Berserking 
