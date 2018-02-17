@@ -26,7 +26,7 @@
 <p><b>Formula</b>: floor(16 * x ^ 0.6) / 10, where x is the number of assistants you have.
 <br/>
 <br/>
-<p><b>S400</b> - <b>For</b>: All Factions - Spell Name Capacity 
+<p><b>S400</b> - <b>For</b>: All Factions - <b>Research Name</b>: Capacity 
 <p><b>Requirement</b>: Research Projection (S215) &amp; Domination (W275) 
 <p><b>Cost</b>: 13.66 QaSxg (1.366E196) 
 <p><b>Effect</b>: Increase maximum mana based on the highest amount of spells cast in a single game. 
@@ -50,8 +50,15 @@
 <p><b>C25</b> - <b>For</b>: Angel - <b>Research Name</b>: Light Condenser 
 <p><b>Requirement</b>: 12,000 Spells cast (This R) 
 <p><b>Cost</b>: 12.63 Dqag (1.263E130) 
-<p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast. 
+<p><b>Effect</b>: Increase mana regeneration based on the amount of research made. 
 <p><b>Formula</b>: floor(10 * x^0.3) / 10, where x is your Spells Cast (This Game) stat.
+<br/>
+<br/>
+<p><b>C330</b> - <b>For</b>: All Factions - <b>Research Name</b>: Overload 
+<p><b>Requirement</b>: Research Aeromancy (S250) Critical Strike (W225)  
+<p>Cost: 36.443 Sxg (6.443E183)  
+<p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).
+<p><b>Formula</b>: (3.5 *  x  ^0.35),, where x is researches made.
 <br/>
 <br/>
 <p><b>C3100</b> - <b>For</b>: All Factions - <b>Research Name</b>: Engineering 
