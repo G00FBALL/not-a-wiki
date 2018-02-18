@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophiesTopPage.png"></h6>
 <p><b>Mana Trophies</b>
-<p><b>Note</b>: All Mana Trophies are (in a single game)</p>
+<p><b>Note</b>: All Mana Trophies are total</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaDropletTrophy.png" alt="Mana Droplet" align="middle"> Mana Droplet</b></p>
 <p><b>Requirement</b>: 200 mana produced</p>
 <p><b>------------------------------</b></p>
