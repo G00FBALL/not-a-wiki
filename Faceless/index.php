@@ -45,6 +45,7 @@
 <p><b>Effect</b>: All factions receive a bonus based on your Hive Mind bonus.</p>
 <p><b>Formula</b>: (0.05 * x), where x is current Hive Mind bonus.</p>
 <p><b>Upgrade</b>: Good for All</p>
+<p><b>Note</b>: Druid Challenge 4 stops this from completing, turn it off.</p>
 <p><b>Tips</b>
 <p>This is the equivalent of about 8.5 days of time spent allied with Faceless. Getting the Titan Tier 2 challenge Harmony of Thoughts will help increase your Faceless playtime.</p>
 <p>TC2 adds 10% of the playtime of <b>all other factions</b> to the Hive Mind calculation, which means you'll get to 1890% that much faster</p>
