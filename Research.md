@@ -4,7 +4,7 @@ layout: default
 
 ###### ![](/realm/img/picks/ResearchTopPage.png)
 
-Click **[Here](/realm/Researchtree)** to view Complete **Research Tree**
+Click **[Here](/realm/ResearchTree)** to view Complete **Research Tree**
 
 Enter the Research Facilities to improve your grinding potential.
 

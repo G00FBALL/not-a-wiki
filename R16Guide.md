@@ -64,7 +64,7 @@ The big blocks are where you buy RPs, and where you can see how many RPs and slo
 
 There is one more thing about researches, which can either be seen as what's fun about them, or, the opinion that I share, is their biggest problem, that is their requirements, or more specifically, the fact you can't see their requirements in-game, yes, you can see a progress indicator, but this game has so many different stats to track, you would spend more time trying to understand what are the requirements than you would planning a run to fulfill as many as possible at once...
 
-However, unlike in the game, in [this page](/realm/Researchtree/) you can see the requirements for yourself and decide of a best course, but if you feel a bit overwhelmed, here is what I recommend to do:
+However, unlike in the game, in [this page](/realm/ResearchTree/) you can see the requirements for yourself and decide of a best course, but if you feel a bit overwhelmed, here is what I recommend to do:
 
 **Step 1:** Use Fairyline Fairy to get RPs, use excavs as needed, but be sure you will have enough to use later, the important researches are S1, C10(requires 2500 Farms/EFs), S30(requires 4000 max mana), once you got to the 50s, and mainly 50 in Economics, it's time for step 2. (remember to start a new run every 15 minutes or so to benefit from VFJ, that applies to the rest of the steps and generally whenever you are using a rush-term Vanilla faction until ascension)
 
@@ -84,7 +84,7 @@ The next Rs should be a lot easier, with less researches to unlock and more to s
 
 **Ending notes**
 
-RPs increase by the number of the R, so if R16 had a max of 136 RPs, R17 has 136+17=153, [the research tree page](/realm/Researchtree) has the max number of RPs for all Rs between R16-R100, along with the total cost of all RPs you can buy at each R. (assuming you already have the max RPs for the previous R)
+RPs increase by the number of the R, so if R16 had a max of 136 RPs, R17 has 136+17=153, [the research tree page](/realm/ResearchTree) has the max number of RPs for all Rs between R16-R100, along with the total cost of all RPs you can buy at each R. (assuming you already have the max RPs for the previous R)
 
 The Evil Merc run is intended to get A25(666 HFB casts), A30(750 FC casts), and gain time toward W50(2d evil playtime this R), however at R18 you do all Vanilla challanges, which would get you some evil playtime as well, so if you aren't planning on afking anyway this run isn't necessary, if you are planning to afk it might be better to do so at higher RPs as you'll eventually need to afk once/twice as Elves and once as Angels to unlock all useful researches.
 
