@@ -108,7 +108,7 @@
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)
 <p><b>Effect</b>: Gain additional Faction Coins per second based on the highest amount of assistants you had in a single game.
 <p><b>Effect</b>: Also a 50% multiplicative Faction Coin find chance.
-<p><b>Formula</b>: floor(125*x&^0.75), where x is your Assistants (Max) stat.
+<p><b>Formula</b>: floor(125* x ^0.75), where x is your Assistants (Max) stat.
 <br/>
 <br/>
 <p><b>W290</b> - <b>For All Factions</b> - <b>Research Name</b>: Entrench 
