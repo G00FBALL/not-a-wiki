@@ -6,7 +6,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Abdication.png" alt="Abdication" align="middle"></h6>
 <p><b>In-game description</b>
 <p>Abdicating will reset all buildings, upgrades and coins, but you will keep your trophies and be awarded with gems that will boost your production. Otherwise, you may also spend Rubies to gain Gems without resetting!
-<p><b>Abdicating</b> is the first kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production. In exchange, you will lose everything except for:
+<p>Abdicating is the first kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production. In exchange, you will lose everything except for:
 <p>Unlocked Factions
 <p>Gained Trophies
 <p>Completed Challenges

@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/ResearchFacilities/"><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6></a>
-<h6><b>Alchemy</b? Facility</h6>
+<h6>Alchemy Facility</h6>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Alchemyr.png" alt="Alchemy" align="middle"> <b>Alchemy</b></p>
 <p>Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets.</p>
 <p><b>Increases</B>: <b>Undead</B>, <b>Druid</B>, and <b>Drow</B> production.</p>
