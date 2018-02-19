@@ -34,11 +34,11 @@
         link: /realm/R16Guide
 
       - name: Pre A Plot
-        link: /img/pre_a_plot.png
+        link: /realm/img/pre_a_plot.png
         research: R0 - R39 Guide
 
       - name: Post A1 Plot
-        link: /img/post_a_plot.png
+        link: /realm/img/post_a_plot.png
         research: R40 - R99 Guide
 
       - name: Rubies
