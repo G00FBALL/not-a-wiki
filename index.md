@@ -1,5 +1,5 @@
 ---
-layout: default-discord
+layout: default
 ---
 
 Welcome to **G00F's not a wiki** Realm Grinder "G00FBALL" Style without all the wiki adverts. 

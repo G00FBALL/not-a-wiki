@@ -7,7 +7,7 @@
 <body>
     <div id="outer">
         <div class="parent">
-            <div id="header">
+            <div id="header" align="center">
                 {% include _top_freefind.html %}
             </div>
         </div>
@@ -15,6 +15,7 @@
         <div class="parent">
             {% include _left.html %}
             <div id="rightcolumn">
+                {% include _discord.html %}
                 {{ content }}
 
             </div>
