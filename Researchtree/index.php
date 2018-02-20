@@ -161,7 +161,7 @@
     </script>
 </div>
 <p><a href="http://musicfamily.org/realm/ResearchFacilities/"><b>Research Tree Mobile Text Version</b></a></p>
-    
+
     <p><i> Note: As of 3.0.0 research points are capped at 5000.</i></p>
 
 
@@ -223,7 +223,7 @@
         <area target="" research="D1 - For Angel - Research Name: Blessing <p> Cost: 750 Qag (7.50E125) <p> Effect: Increase the production of Heaven's Domains based on total time spent with at least one active spell. <p> Formula: round(2.5 * x^0.8)%, where x is total time spent with at least one active spell." coords="258,107,306,155" shape="rect">
         <area target="" research="D10 - For Demon - Research Name: Inflame <p> Requirement: 2,000 Infernal Realms <p> Cost: 28.83 Uqag (2.883E127) <p> Effect: Increase the production of all other buildings by 110% per Infernal Realm you own." coords="314,106,361,155" shape="rect">
         <area target="" research="D25 - For Undead - Research Name: Cursing <p> Requirement: Play 8 hours Offline (as Undead) (This Game)<p> Cost: 12.63 Dqag (1.263E130) <p> Effect: Increase the production of all buildings based on your offline production bonus. <p> Formula: 2.75 * log(1 + x)^2.75, where x is your offline production bonus." coords="258,163,306,210" shape="rect">
-        <area target="" research="D50 - For Elf - Research Name: Hallowing <p> Requirement: 15,000 Good Buildings(as Angel) <p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Increase your chance to find Faction Coins based on the amount of Elven Training Grounds you own. <p> Formula: floor(5 * x^0.85)%, where x is the number of Elven Training Grounds you own." coords="314,164,361,210" shape="rect">
+        <area target="" research="D50 - For Elf - Research Name: Hallowing <p> Requirement: 15,000 Good Buildings(as Angel) <p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Increase your chance to find Faction Coins based on the amount of Elven Training Grounds you own. <p> Formula: floor(1.5 * x^1.05)%, where x is the number of Elven Training Grounds you own." coords="314,164,361,210" shape="rect">
         <area target="" research="D55 - For All Factions - Research Name: Transfixion <p> Requirement: Produce 3 M (3E6) Mana (This Game) <p> Cost: 2.421 Qaqag (2.421E135) <p> Effect: Increase clicking reward based on spell cast in this game. <p> Formula: round(3.5 * x^0.8)%, where x is your Spells Cast (This Game) stat." coords="259,220,306,265" shape="rect">
         <area target="" research="D135 - For All Factions - Research Name: Illumination <p> Requirement: 250 m/s Mana Regen(as Angel) <p> Cost: 296 Ocqag (2.96E149) <p> Effect: Increases mana regeneration based on the amount of gems you own. <p> Formula: floor(1.25 * ln(1 + x)) / 10, where x is amount of gems you own." coords="314,218,361,265" shape="rect">
         <area target="" research="D150 - For All Factions - Research Name: Retribution <p> Requirement: Research Betrayal (W120) &amp; Transfixion (D55). <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Increase chance to find faction coins based on the amount of research made. <p> Formula: floor(0.05 * x ^ 1.25), where x is the amount of research made." coords="259,275,305,317" shape="rect">
