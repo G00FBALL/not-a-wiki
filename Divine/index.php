@@ -55,7 +55,7 @@
 <p><b>Requirement</b>: Research Betrayal (W120) &amp; Transfixion (D55).
 <p><b>Cost</b>: 129.6 Noqag (1.296E152)
 <p><b>Effect</b>: Increase chance to find faction coins based on the amount of research made.
-<p><b>Formula</b>: floor(0.05 * x ^ 1.25), where x is the amount of research made.
+<p><b>Formula</b>: floor(x ^ 1.25), where x is the amount of research made.
 <br/>
 <br/>
 <p><b>D175</b> - <b>For Angel</b> - <b>Research Name</b>: Resurrection

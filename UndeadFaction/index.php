@@ -31,7 +31,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png" alt="Smiley face" align="middle"> Death Temples</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
 <p><b>Effect</b>: Dark Temples also increase your mana production rate.</p>
-<p><b>Formula</b>: x^0.275, where x is the number of Dark Temples you own.</p>
+<p><b>Formula</b>: x^0.28, where x is the number of Dark Temples you own.</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Friendship Pact</b></p>
