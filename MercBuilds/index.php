@@ -33,7 +33,6 @@
                 <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
                 <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
-                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
                 <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs, but is weaker than Diamond Forge.
                 <p><b>Author</b>: pseudobyte
             </div>
