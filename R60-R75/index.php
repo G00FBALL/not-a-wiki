@@ -46,7 +46,7 @@
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
                 <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
          </div>
     </div>
 <br/>
@@ -82,7 +82,7 @@
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 (Dragon's Breath 5) is recommended.
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+). 
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
          </div>
     </div>
          </div>
@@ -167,6 +167,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: 0 Gems
+                <p><b>Requirements</b>: Fortune Teller Machine, Druid Lineage 5+. Must be done in first run after Reincarnating.
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                 <p><b>Template</b>
@@ -176,7 +177,7 @@
                 <p>E145,E250,E275,E320,E330,E480,
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Excavating for lineage is required. 
+                <p><b>Notes</b>: Excavating for lineage is required.
                 <p><b>Notes</b>: Recommended spamming clicks or staying offline for 10 minutes or so for buffing C135 and C460.
                 <p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.
                 <p><b>Notes</b>: Estimated run time at 20 hours disregarding benefitial sunforce effects.
