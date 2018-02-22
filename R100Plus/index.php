@@ -655,7 +655,7 @@
                <div class="autohide">
                     <p><b>Author</b>: Lapare
                     <p><b>Range</b>: ?
-                    <p><b>Alignment</b>: Neutral, Proof of Order
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Template</b>
@@ -667,6 +667,28 @@
                     <p>A30,A120,
                     <p>W1,W175,W205
                     <p><b>Notes</b>: Swap D200 with D245 for longer runs (?)
+         </div>
+     </div>
+   </div>
+                                         <br/>
+            <div class="category">
+              <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: ?
+                    <p><b>Alignment</b>: Neutral, Proof of Chaos
+                    <p><b>Faction</b>: Faceless
+                    <p><b>Bloodline</b>: Drow
+                    <p><b>Artifact</b>: Undead (If avaliable)
+                    <p><b>Template</b>
+                    <p>S251,S375,S3200,
+                    <p>C400,
+                    <p>D150,D260,
+                    <p>E320,E350,
+                    <p>A300,A3400,
+                    <p>W275,W1375
+                    <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
       </div>
     </div>
 </div>
