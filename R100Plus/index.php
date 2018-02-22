@@ -23,7 +23,7 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Template</b>
+                    <p><b>Artifact</b>: Druid (if avaliable)
                     <p>S3200,
                     <p>C300,C340,
                     <p>D150,D275,
@@ -40,27 +40,28 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
+                    <p><b>Artifact</b>: Druid (if avaliable), Elf (if buffed)
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
-                    <p>D245,D275,
+                    <p>D150,D275,
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Takes several minutes to set up.
                     <p><b>Notes</b>: Swap D150 with D245 for longer (45 minutes+) runs
                     <p><b>Notes</b>: Swap W1375 with W400 for longer (3 hours+) runs.
-                    <p><b>Notes</b>: Swap W400 back with W1375 for SS7 runs (5 days+).
          </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: 1e38 (100 Ud) gems - 1e43 (10 Td) gems
+                    <p><b>Range</b>: 1e36 (1 Ud) gems - 1e43 (10 Td) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
+                    <p><b>Artifact</b>: Goblin (if avaliable)
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
@@ -68,10 +69,31 @@
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
-                    <p><b>Notes</b>: Requires no buildup (Will get GB11 while running it)
-                    <p><b>Notes</b>: Estimated time 14.5 days for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth. 
-                </div>
-    </div>
+                    <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
+                    <p><b>Notes</b>: Estimated time 1.5 days (with set) for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
+                    </div>
+               </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: ensteffahn
+                <p><b>Range</b>: 1e38 (100 Ud) gems - ? gems
+                <p><b>Alignment</b>: Good, Proof of Order
+                <p><b>Requirements</b>: Goblin Set Artifact
+                <p><b>Faction</b>: Angels
+                <p><b>Bloodline</b>: Dragon
+                <p><b>Template</b>
+                <p>S10,S400,
+                <p>C25,C340,
+                <p>D1,D175,D245,
+                <p>E400,
+                <p>A50,A3400,
+                <p>W225,W1375
+                <p><b>Notes</b>: Alternative build to Dragonline Druids, its somewhat weaker (closer to Dragonline Druids when able to buy Angelic Fortitude (Angel Upgrade 11) or with high ruby count), but can be stronger if R108 power was buffed.
+                <p><b>Notes</b>: Estimated time 3 days for SS7 with no neutral time this R.
+                <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
+     </div>
+</div>
             </div>
                     <br/>
     <p><b>A collection of artcrow's A2 builds, please feel free to test these builds and let us know what you find.</b></p>
@@ -259,8 +281,52 @@
                     <p><b>Notes</b>: Estimated time of 5 days to get GB11.
          </div>
     </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Nuke (GB11 build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Fabi676
+                <p><b>Range</b>: 1e30 (1 No) Gems
+                <p><b>Requiments</b>: Undead Set Artifact
+                <p><b>Alignment</b>: Neutral, Proof of Balance
+                <p><b>Faction</b>: Druid
+                <p><b>Bloodline</b>: Drow
+                <p><b>Template</b>
+                <p>S3200,
+                <p>C300,C400,
+                <p>D275,D3350,
+                <p>E250,E260,
+                <p>A251,A375,A400,
+                <p>W350,W1375
+                <p><b>Notes</b>: Estimated time of 1 day to get GB11. (highly varies with gifts).
+                <p><b>Notes</b>: Replace E250 with E1325 if you have all 3 gifts and are going for just GB11.
+                <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/Hhigh Drow Lineage level.
+                </div>
+           </div>
+                   <div class="shelementwhole">
+                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Day of the Dead (Multi Purpose Build)<font color="DarkRed"> Evil</font></a></b></p>
+                       <div class="autohide">
+                               <p><b>Notes</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
+                               <p><b>Author</b>: Artcrow
+                               <p><b>Range</b>: ? Gems
+                               <p><b>Requirments</b>: Undead Set Artifact
+                               <p><b>Alignment</b>: Evil, Proof of Balance
+                               <p><b>Faction</b>: Undead
+                               <p><b>Bloodline</b>: Drow
+                               <p><b>Template</b>
+                               <p>S225,S3200,
+                               <p>C400,
+                               <p>D25,D3350,
+                               <p>E10,E135,
+                               <p>A1,A120,A175,
+                               <p>W50,W205
+                               <p><b>Notes</b>: Estimated time of ? to get Mana Spring (2-3 months at Drow L25 and no gifts)
+                               <p><b>Notes</b>: Estimated time of ? to get Drow Lineage level 30 (Requires Ancestal Hourglas and R115+)
+                               <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/high (L30+) Drow Lineage level and for long runs (3 days+).
+                               <p><b>Notes</b>: Use this build for W275 buffing instead of the regular W275 builds if you have at least 2 gifts/high (L30+) Drow Lineage level.
+                               </div>
+                          </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (Short Term S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ? Gems
@@ -277,33 +343,35 @@
                     <p><b>Notes</b>: Estimated time of 10 days for 100k S400.
          </div>
     </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Treasure Hoarder (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: ensteffahn
+                <p><b>Range</b>: ? Gems
+                <p><b>Requirements</b>: Angel Set Artifact
+                <p><b>Alignment</b>: Evil, Proof of Balance
+                <p><b>Faction</b>: Goblin
+                <p><b>Bloodline</b>: Dragon
+                <p><b>Template</b>
+                <p>S50,S3200,
+                <p>C175,C400,
+                <p>D200,
+                <p>E1,E225,E320,
+                <p>A10,A120,
+                <p>W25,W205
+                <p><b>Notes</b>: Swap E320 with E135 for longer runs (1 day+)
+                <p><b>Notes</b>: Swap S3200 -> S400 for very long runs (10 days+, maybe even more) or if you have Dragon Lineage 30+
+                <p><b>Notes</b>: Estimated time of 10 days for 350k S400 at Dragon Lineage 25.
+                <p><b>Notes</b>: Use Mana Nuke (under 3 days) Day of the Dead (for 3 days+) instead if you have at least 2 gifts/high (L30+) Drow Lineage level.
+       </div>
+</div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (Long Term S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: ? Gems
-                    <p><b>Alignment</b>: Evil, Proof of Balance
-                    <p><b>Faction</b>: Goblin
-                    <p><b>Bloodline</b>: Angel
-                    <p><b>Template</b>
-                    <p>S50,S400,
-                    <p>C175,C400,
-                    <p>D200,
-                    <p>E1,E135,E225,
-                    <p>A10,A120,
-                    <p>W25,W205
-                    <p><b>Notes</b>: Beats above build for runs of above 5 days.
-                    <p><b>Notes</b>: Estimated time of 20 days for 200k S400.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Demons (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Overwhelming Odds (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: artcrow
-                    <p><b>Requiments</b>: 10K+ starting W175
-                    <p><b>Range</b>: ? Gems
+                    <p><b>Range</b>:  e32 (100 No) gems+
                     <p><b>Alignment</b>: Evil, Proof of Chaos
-                    <p><b>Faction</b>: Demons
+                    <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Drow
                     <p><b>Template</b>
                     <p>S1275,
@@ -312,25 +380,47 @@
                     <p>E230,E1325,
                     <p>A25,A3400,
                     <p>W1,W175,W205
-         </div>
-    </div>
+                    <p><b>Notes</b>: Disable druid challenge 4 reward, put Blood Frenzy and Hellfire Blast on tier 1 autocast and Combo Strike on the highest tier you have unlocked, with Blood Frenzy as the first to cast.
+                    </div>
+             </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Demons (W275 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Empty Lord (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: artcrow
-                    <p><b>Requiments</b>: 10K+ starting W175
-                    <p><b>Range</b>: ? Gems
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Range</b>: e32 (100 No) gems+
+                    <p><b>Requiments</b>: Undead Set Artifact
                     <p><b>Alignment</b>: Evil, Proof of Chaos
-                    <p><b>Faction</b>: Demons
-                    <p><b>Bloodline</b>: Undead
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Drow
                     <p><b>Template</b>
-                    <p>S400,
-                    <p>C1325,
+                    <p>S1275,
+                    <p>C50,C400,
                     <p>D10,D150,
                     <p>E230,E1325,
                     <p>A25,A120,
                     <p>W1,W175,W205
-         </div>
+                    <p><b>Notes</b>: Disable druid challenge 4 reward, put Blood Frenzy, Hellfire Blast and Combo Strike on autocast, with Blood Frenzy as first, as well as all tiers.
+                    </div>
+             </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demon Horde (W275 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Lordofrye
+                    <p><b>Range</b>: e32 (100 No) gems+
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Artifact</b>: Angel (If avaliable)
+                    <p><b>Template</b>
+                    <p>S400,
+                    <p>C50,C1325,
+                    <p>D10,D150,
+                    <p>E230,E1325,
+                    <p>A25,A120,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Disable druid challenge 4 reward for further W175 buffing.
+                    <p><b>Notes</b>: Use Day of the Dead instead if you have at least 2 gifts/high (L30+) Drow Lineage level.
+           </div>
     </div>
             </div>
                     <br/>
@@ -432,7 +522,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e30 (1 No) Gems<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Artgor 
+                    <p><b>Author</b>: Artgor
                     <p><b>Range</b>: 1e30 (1 No) Gems
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
@@ -503,6 +593,44 @@
                     <p>W350,W1375
                     <p><b>Notes</b>: Estimated 5 minutes to get the required excavations, then go Faceless to unlock the building.
         </div>
+    </div>
+         </div>
+                             <br/>
+        <p><b>Artifact Set Unlock</b></p>
+            <div class="category">
+            <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Spiked Whip (Goblin Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Range</b>: ?
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Goblin
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Template</b>
+                    <p>S50,S3200,
+                    <p>C175,C400,
+                    <p>D200,
+                    <p>E1,E135,E225,
+                    <p>A10,A400,
+                    <p>W25,W205
+         </div>
+   </div>
+            <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Spiked Whip (Goblin Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Range</b>: ?
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Goblin
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Template</b>
+                    <p>S50,S3200,
+                    <p>C175,C400,
+                    <p>D200,
+                    <p>E1,E135,E225,
+                    <p>A10,A400,
+                    <p>W25,W205
+       </div>
     </div>
 </div>
 </div>
