@@ -616,21 +616,58 @@
          </div>
    </div>
             <div class="shelementwhole">
-               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Spiked Whip (Goblin Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Helmet (Titan Artifact)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: ?
+                    <p><b>Alignment</b>: Neutral, Proof of Order
+                    <p><b>Faction</b>: Titan
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>Template</b>
+                    <p>S300,S3200,
+                    <p>C251,C375,C400,
+                    <p>D200,D350,
+                    <p>E275,E1325,
+                    <p>A10,A400,
+                    <p>A3400,
+                    <p>W260,W1375
+         </div>
+   </div>
+            <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Silk Cloth (Fairy Artifact)<font color="Blue"> Good</font></a></b></p>
                <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Range</b>: ?
-                    <p><b>Alignment</b>: Evil, Proof of Chaos
-                    <p><b>Faction</b>: Goblin
-                    <p><b>Bloodline</b>: Undead
+                    <p><b>Alignment</b>: Neutral, Proof of Order
+                    <p><b>Faction</b>: Fairy
+                    <p><b>Bloodline</b>: Goblin
                     <p><b>Template</b>
-                    <p>S50,S3200,
-                    <p>C175,C400,
-                    <p>D200,
-                    <p>E1,E135,E225,
-                    <p>A10,A400,
-                    <p>W25,W205
-       </div>
+                    <p>S1,S180,S3200,
+                    <p>C10,C340,
+                    <p>D200,D225,
+                    <p>E50,E135,
+                    <p>A30,A120,
+                    <p>W1375
+         </div>
+   </div>
+            <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Crystalized Lava (Demon Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: Lapare
+                    <p><b>Range</b>: ?
+                    <p><b>Alignment</b>: Neutral, Proof of Order
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Template</b>
+                    <p>S3200,
+                    <p>C50,C340,
+                    <p>D10,D200,
+                    <p>E135,E230,
+                    <p>A25,A3400,
+                    <p>A30,A120,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Swap D200 with D245 for longer runs (?)
+      </div>
     </div>
 </div>
 </div>
