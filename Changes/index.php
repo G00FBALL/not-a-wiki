@@ -99,7 +99,8 @@
     <p><b>Artifacts Required</b>: Spiked Whip, Ancient Coin Piece, Goblin Purse
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.
-    <p><b>Formula</b>: (x ^ 0.7), where x is seconds.
+    <p><b>Formula</b>: (1 + (0.01 * x ^ 0.7)), where x is seconds.
+    <p><b>Note</b>: Ingame tooltip is off by one (actual effect is 1 higher)
     <p><b>----------------------------------</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> Dusty Coffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
@@ -170,7 +171,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk4.png" alt="FairyPerk3" align="middle"><b> Fairy Perk 4</b></p>
     <p><b>Requirement</b>: R105+
     <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.
-    <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds. 
+    <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds.
 <br/>
 <br/>
     <p><b>Elven Level 30</b>
@@ -188,7 +189,7 @@
     <p><b>Goblin Level 30</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk4.png" alt="GoblinPerk3" align="middle"><b> Goblin Perk 4</b></p>
     <p><b>Requirement</b>: R105+
-    <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned. 
+    <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned.
     <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is assistants owned.
 <br/>
 <br/>
@@ -226,7 +227,7 @@
     <p><b>Dwarf Level 30</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" alt="DwarfPerk3" align="middle"><b> Dwarf Perk 4</b></p>
     <p><b>Requirement</b>: R105+
-    <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance. 
+    <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.
     <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.
 <br/>
 <br/>
@@ -242,7 +243,7 @@
     <p><b>Effect</b>: Activates two breaths per cast.
 <p><b>------------------------------</b>
 <p><a target="" href="http://musicfamily.org/realm/Ascension2/"><b>A2 Page</b></a></p>
-<p><b>Changed</b> All Creation, and Elf Union Upgrade 
+<p><b>Changed</b> All Creation, and Elf Union Upgrade
 <p><b>Added</b> 2 new Union upgrades for each faction
 <br/>
 <br/>
