@@ -439,7 +439,7 @@
                <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Range</b>: ?
-                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Undead
                     <p><b>Template</b>
