@@ -474,7 +474,7 @@
                <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Range</b>: ?
-                    <p><b>Alignment</b>: Neutral, Proof of Order
+                    <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Template</b>
