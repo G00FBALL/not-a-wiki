@@ -59,9 +59,9 @@
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e36 (1 Ud) gems - 1e43 (10 Td) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
+                    <p><b>Requirements</b>: Goblin Set Artifact
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
-                    <p><b>Artifact</b>: Goblin (if avaliable)
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
@@ -70,7 +70,7 @@
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
-                    <p><b>Notes</b>: Estimated time 1.5 days (with set) for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
+                    <p><b>Notes</b>: Estimated time 14.5 days (without set) for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
                     </div>
                </div>
     <div class="shelementwhole">

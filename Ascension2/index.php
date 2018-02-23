@@ -50,7 +50,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount od Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own. </p>
+<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own. </p>
 <p><b>Formula</b>: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
@@ -98,7 +98,7 @@
 <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time thie R.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time php this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
@@ -122,7 +122,7 @@
 <p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.75), where x is building owned.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.75), where x is buildings owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitansUnion.png" alt="Titans Union" align="middle"> <b>Titans Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
@@ -132,8 +132,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
-<p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palace you own.</p>
-<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is amount of Mountain Palace owned.</p>
+<p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is amount of Mountain Palaces owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
 <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
