@@ -105,14 +105,8 @@
                 <p><b>Note</b>: For R18+, requires "Star Blessing" Tier3 Elven challenge.</p>
                 <p><b>Requires</b>: 2 full casting to get full effect then abdicate or cast again</p>
                 <p><b>Note</b>: Cast TC only after casting Fairy Chanting for the second time</p>
-                <p><b>Alignment</b>: Neutral
-                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                <p><b>Spells</b>: Moon Blessing, Fairy Chanting
                 <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
                 <p>Fairy Chanting on gold everything else on silver no Tax Collection.
-                <p>Cast Fairy Chanting twice during the 20 seconds spell combo.
-                <p>Switch to Elf Research from around 1 Dvg (1E69) gems. Players below R20, go for at least 100 Dvg (1E71) - 500 Dvg (5E71) Gems.
-                <p>This is an Elven Luck build, so don't use Tax Collections.
                 <p>Clicking manually will not bring any benefits (when using Elven Luck).
                 <p>Elven Luck is originally an Elven Faction Upgrade. But in this build, Elven Luck comes from the Star Blessing challenge which adds 5% chance to trigger Elven luck to Moon Blessing's clicks.
             </div>
