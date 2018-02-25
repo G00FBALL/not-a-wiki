@@ -60,7 +60,7 @@
 <p><b>Formula</b>: (0.035 * x ^ 0.65), where x is seconds in current spells)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase mana regeneration by 60%.</p>
 <br/>
@@ -101,7 +101,7 @@
 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time php this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
 <p><b>Formula</b>: (10000 + 25 * (x / 1800) ^ 2), where x is seconds</p>
@@ -142,7 +142,7 @@
 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is amount of Royal Exchanges you made.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" alt="Colossus Kingdom" align="middle"> <b>Colossus Kingdom</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
 <p><b>Formula</b>: (x ^ 0.7), where x is seconds this R.</p>
@@ -202,7 +202,7 @@
 <br/>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Every 30 minutes, multipicatively increase mana regen by a random amount. (starts at 0% on a new run)</p>
 <br/>
@@ -242,7 +242,7 @@
 <p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
-<p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
+<p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
 <p><b>Formula</b>:  (0.35 * x ^ 0.65), where x is mana regen.</p>
@@ -316,7 +316,7 @@
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></p>
 <p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.</p>
-<p><b>Effect</b>: Increase production production based on Faction Coin find chance.</p>
+<p><b>Effect</b>: Increase production based on Faction Coin find chance.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(20 * (log10(1 + x)) ^ 2), where x is FC chance.</p>
 <br/>

@@ -423,14 +423,14 @@
             <td>Produce 20 M mana. (2e7) mana.</td>
             <td>Allows you to set a minimum amount of mana before starting autocasting.</p>While offline, improve spell cast amount by 2.</td>
            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</a> build</p>A slidebar will appear on the mana bowl when you point to it and hit ctrl+click.</td>
-        </tr> 
+        </tr>
         <tr>
             <td><center>Planned Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png"></td>
             <td>600 Spd (6e56)</p>A1+ Free</td>
             <td>Produce 30 M mana. (3e7) mana.</td>
             <td>Allows you to set Primary and Secondary spells.</p>While offline, increases mana produced by an additional 10% of your mana regeneration per second and increase spells casted by an additional 2 per minute.</td>
            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/">IGOT an Excess of Mana R7-R11</a> build</p>A slidebar will appear on the mana bowl when you point to it and hit ctrl+click.</td>
-        </tr> 
+        </tr>
         <tr>
             <td><center>Efficient Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png"></td>
             <td>700 Vg (7e65)</p>A1+ Free</td>
@@ -816,7 +816,7 @@
             <td>10 Coins</p>A1+ Free</td>
             <td>Get 1Oc (1e27) gems in the first game of a reincarnation.</td>
             <td>Increase base clicking reward by 1 T (1E12).</td>
-            <td>Can be done at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
+            <td>Can be done R34 (Dwary) and at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
         </tr>
         <tr>
             <td><center>No Recruiting</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
@@ -1095,7 +1095,7 @@
             <td>Possible to earn earlier by lagging game.</td>
         </tr>
    </table>
-<br/>  
+<br/>
       <a id="TrophiesR2130"></a>
     <table class="numtable">
         <thead>

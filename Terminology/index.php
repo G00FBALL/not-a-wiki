@@ -9,7 +9,7 @@
 <p><b>A Run</b>: refers to a game between abdications.
 <p><b>A Session</b>: refers to a game between reincarnations.
 <p><b>This game and Current game</b>: started last abdication, and ends next abdication.
-<p><b>Total</b>: refers to the current reincarnation. 
+<p><b>Total</b>: refers to the current reincarnation.
 <p><b>All-Time</b>: covers all reincarnations.
 <h6>Commonly Used Abbreviations</h6>
 <p><b>A1</b>: Ascension R40-R99
@@ -27,7 +27,7 @@
 <p><b>Merc or Mercs</b>: Mercenary
 <h6>Research Facilities</h6>
 <p><b>Short and long names</b>
-<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare, 
+<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare,
 <h6>Factions</h6>
 <p><b>Faction Name +ine or +line</b>: Bloodline (eg: Angelline/Angeline for Angel Bloodline)
 <p><b>Fairy (3,2)</b>: Simplifies notation of Faction upgrades. The first number represents the tier, and the second the position.
@@ -65,7 +65,7 @@
 <p><b>GH</b>: God's Hand
 <p><b>GG</b>: Goblin's Greed
 <p><b>NT</b>: Night Time
-<p><b>HB</b>: Hellfire Blast
+<p><b>HB-HFB</b>: Hellfire Blast
 <p><b>LS</b>: Lightning Strike
 <p><b>GB</b>: Grand Balance
 <p><b>BW</b>: Brainwave
