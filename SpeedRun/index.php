@@ -13,7 +13,7 @@
 <p><b>----------------------------------</b>
 <p><b>Should be done at R0</b>
 <p><b>Step by Step Guide</b></p>
-<p><b>Bye all upgrades as they become available</b></p>
+<p><b>Buy all upgrades as they become available</b></p>
 <p><b>Do Not Buy Gem Power</b></p>
 <p><b>1</b>. Abdicate</p>
 <p><b>Buy all upgrades as they become available</b></p>

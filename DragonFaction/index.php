@@ -10,8 +10,8 @@
 <p>The Dragon Faction appears in addition to a Neutral faction, this enables the player to use all the 2 faction spells and 18 upgrades from both the Neutral and Dragon factions.</p>
 <p>The Dragon faction cannot be combined with Good or Evil Factions.</p>
 <p><b>Alignment</b>: Prestige (Neutral)</p>
-<p><b>Spell Trophy &amp; Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b> 
-<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time. 
+<p><b>Spell Trophy &amp; Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b>
+<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.
 <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds
 <p><b>Faction spell</b>: Dragon's Breath</p>
 <p><b>Effect</b>: Activates one of the following effects at random for
@@ -30,7 +30,7 @@
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
 <p><b>You can Abdicate and Reincarnate during the 12 hour wait of all 4 stages.</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png" alt="Smiley face" align="middle"><b> Spiky Rough Egg Artifact</b></p>
-<p><b>Requirement</b>: 1500+ Excavations (Chance 2%)</p>
+<p><b>Requirement</b>: R46+, 1500+ Excavations (Chance 2%)</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png" alt="Smiley face" align="middle"><b> Hatch!</b></p>
 <p><b>Description</b>: After waiting for a while... hatch the spiky egg and reveal what's inside!
 <p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the lore artifact</p>
@@ -62,7 +62,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png" alt="Smiley face" align="middle"> Dragonscales</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 5 Uvg (5.0e66)</p>
-<p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral. 
+<p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.
 <p><b>Formula</b>: (1.25 * t) ^ 0.55 where t is total amount of time spent as Neutral in minutes (this R).
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" alt="Smiley face" align="middle"> Iron Flight</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty
@@ -71,7 +71,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" alt="Smiley face" align="middle"> Eternal Wisdom</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty
 <p><b>Cost</b>: 500 Uvg (5.0e68)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus. 
+<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.
 <p><b>Formula</b>: 2 * (x ^ 1.15) where x is Royal Exchange bonus.
 <p><b>----------------------------------</b></p>
 <p><b>Tier 2 Upgrades</b></p>
@@ -82,18 +82,18 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png" alt="Smiley face" align="middle"> Dragonborn</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact
 <p><b>Cost</b>: 50 Dvg (5.0e70)</p>
-<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons. 
+<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.
 <p><b>Formula</b>: 0.75 * (t ^ 0.55) where t is amount of time spent with Dragons (All game).
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" alt="Smiley face" align="middle"> Bountiful Hoard</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact
 <p><b>Cost</b>: 500 Dvg (5e71 DC)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found. 
+<p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found.
 <p><b>Formula</b>: 5 * (x ^ 1.25) where x is amount of artifacts you found.
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" alt="Smiley face" align="middle"> Sharp Claws</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact
 <p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
 <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
-<p><b>Formula</b>: floor(0.1 * ln(1 + x)^2.75) 
+<p><b>Formula</b>: floor(0.1 * ln(1 + x)^2.75)
 <p><b>----------------------------------</b></p>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Alliance</b></p>
@@ -103,7 +103,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Hunger</b></p>
 <p><b>Requirement</b>: Dragons Alliance
 <p><b>Cost</b>: 500 Tvg (5.0e74)</p>
-<p><b>Effect</b>: Increase maximum mana based on the amount of Faction Coins found in this game. 
+<p><b>Effect</b>: Increase maximum mana based on the amount of Faction Coins found in this game.
 <p><b>Formula</b>: floor(45 * ln(1 + x) ^ 1.45) where x is amount of FCs found (This Game).
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" alt="Smiley face" align="middle"> Imposing Presence</b></p>
 <p><b>Requirement</b>: Dragons Alliance
@@ -113,7 +113,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" alt="Smiley face" align="middle"> Chromatic Scales</b></p>
 <p><b>Requirement</b>: Dragons Alliance
 <p><b>Cost</b>: 50 Qavg (5.0e76)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects. 
+<p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects.
 <p><b>Formula</b>: 100 * (x ^ 2) where x is amount of active Dragon's Breath effects.
 <p><b>----------------------------------</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Drow Heritage" align="middle"><b> Dragon Heritage</b></p>
