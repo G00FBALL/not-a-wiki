@@ -45,7 +45,7 @@
         }
         #calcformtiers td input {
             width: 100px;
-            box-sizing: border-box; 
+            box-sizing: border-box;
         }
         #calcformtiers td {
             width: 50%;
@@ -54,7 +54,7 @@
     <?php include "../scripts/header.html"; ?>
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/SpellsTopPage.png"></h6>
-    <p><b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></b></p> 
+    <p><b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></b></p>
     <div id="tiercal" class="calculator" style="padding-left: 70px">
     </div>
     <br/>
@@ -223,7 +223,7 @@
     <p><b>Offline bonus for spell tier</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.
     <p><b>Unlock Formulas</b>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)
-    <p>Time for tier n: Formula: 43200 * ((n - 0.5 * A) ^ 2 - (n - 0.5 * A)) * 0.98 ^ (R - (n - 0.5 * (A + 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.
+    <p>Time for tier: Formula: 43200 * ((T - 0.5 * A) ^ 2 - (T - 0.5 * A)) * 0.98 ^ (R - (T - 0.5 * (A + 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.
 
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
     <p>Faction Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}
@@ -408,7 +408,7 @@
                 <p><b>Effect</b>: Increase Unique building production by time spent this game.
                 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.
                 <p><b>Formula</b>: (5*(x/60)^0.7)%, where x is time in seconds this game.
-                <p><b>Factions</b>: 
+                <p><b>Factions</b>:
                 <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
        <br/>
                 <p><b>Proof of Chaos</b></p>
@@ -421,7 +421,7 @@
                 <p><b>Clicks</b> (0.075*(log10(1+x))^2.5)%, where x is clicks this game.
                 <p><b>Faction Coins</b> (0.01*(log10(1+x))^4)%, where x is faction coins found this game.
                 <p><b>Assistants</b>(0.25*(log10(1+x))^5)%, where x is amount of assistants.
-                <p><b>Factions</b>: 
+                <p><b>Factions</b>:
                 <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
        <br/>
                 <p><b>Proof of Balance</b></p>
@@ -431,7 +431,7 @@
                 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.
                 <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.
                 <p><b>Formula</b>: floor(0.2*x^0.6), where x is mana per seconds.
-                <p><b>Factions</b>: 
+                <p><b>Factions</b>:
                 <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
     </br>
     <h6>Alignment Spells</h6>
@@ -843,7 +843,7 @@
     <p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
     <p><b>Challenge Upgrade</b>: Primal Balance, Grand Balance now affects extra buildings based on total mana spent.
     <p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced and A is Ascension (Total) stat.</p>
-    
+
     <a id="Primal Balance"></a>
     <table class="numtable">
         <thead>
