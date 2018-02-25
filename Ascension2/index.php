@@ -420,7 +420,7 @@
 <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-<p><b>Formula</b>: ((x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is online time in seconds and y is offline time in seconds.</p>
+<p><b>Formula</b>: ((x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is time in seconds this game and y is offline time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
