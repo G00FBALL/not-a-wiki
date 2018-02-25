@@ -5,9 +5,9 @@
 <?php include "../scripts/header.html"; ?>
 <h6>Support G00F's Not a Wiki</h6>
 <p>It has been over 2 years since I created this site and I have always said there will be no ads on it and I will stay true to my word.
-<br>
+</br>
 <p>After a lot of debating with myself I have decided to add a donation button, it is not required and the site will remain free to all users with no ads.
-
+  </p>
 
 
 
