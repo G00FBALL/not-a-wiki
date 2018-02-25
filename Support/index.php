@@ -3,6 +3,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+
 <h6>Support G00F's Not a Wiki</h6>
 <p>It has been over 2 years since I created this site and I have always said there will be no ads on it and I will stay true to my word.
 </br>
