@@ -599,7 +599,7 @@
     <p><b>Effect</b>: Gives random Faction Coins based on your mana regeneration for each other spell you cast while God's Hand is active.
     <p><b>Formula</b>: (floor(x^1.1), where x is FC chance.</p>
     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
-    <p><b>Challenge Upgrade</b>: God's Throne, Mana regeneration is increased by 20% while God's Hand is active.</p>
+    <p><b>Challenge Upgrade</b>: God's Throne, Mana regeneration is increased by 50% while God's Hand is active.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">God's Hand Tier 2-7</a></b></p>
