@@ -3988,7 +3988,6 @@
             </div>
         </div>
         <p><b>A collection of artcrow's A2 builds, please feel free to test these builds and let us know what you find.</b></p>
-        <div class="category">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
                 <div class="autohide">
@@ -4149,8 +4148,6 @@
                         <p>~30 Qivg/s, ~11 days Neutral, Time Warps to 15 days
              </div>
         </div>
-
-
     </div>
     </div>
 <?php include "../scripts/footer.html"; ?>
