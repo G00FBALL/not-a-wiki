@@ -3036,7 +3036,7 @@
                 <p>E135,E145,E275,E400,E460,
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W260,W290,W320,W400
-                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Wyrm den strike and red breath together for maximal production. 
+                <p><b>Notes</b>: Build is using C375 for faster setup and during time of un-luck. Time a Wyrm den strike and red breath together for maximal production.
                 <p>Swap W320 with W330 if bigger (low excavations)
                 <p>Swap D150 with D245 for longer runs (Spiritual Surge 2)
             </div>
@@ -3542,7 +3542,7 @@
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E145,E350,E460,E1425,E590,
                 <p>A105,A120,A175,A495,A1500,A2950,
-                <p>W150,W180,W275,W290,W400,W1375 
+                <p>W150,W180,W275,W290,W400,W1375
             </div>
         </div>
         <div class="shelementwhole">
@@ -3605,7 +3605,7 @@
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E145,E350,E460,E1425,E590,
                 <p>A105,A120,A175,A495,A1500,A2950,
-                <p>W150,W180,W275,W400,W1375,W3150 
+                <p>W150,W180,W275,W400,W1375,W3150
             </div>
         </div>
         <div class="shelementwhole">
@@ -3668,7 +3668,7 @@
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E145,E260,E460,E1425,E3250,
                 <p>A105,A120,A175,A1200,A1500,A2950,
-                <p>W180,W275,W400,W1375,W3050,W3150 
+                <p>W180,W275,W400,W1375,W3050,W3150
             </div>
         </div>
         <div class="shelementwhole">
@@ -3741,7 +3741,7 @@
         <br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Florian's Ultimate Diamond Grinder" R87+<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide"> 
+            <div class="autohide">
                 <p><b>Author</b>: Curunur <b>edited by</b> Artcrow</p>
                 <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
                 <p><b>Alignment</b>: Good Mercenary</p>
@@ -3769,7 +3769,7 @@
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"Braining Grounds" R87+<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide"> 
+            <div class="autohide">
                 <p><b>Author</b>: Artcrow</p>
                 <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
                 <p><b>Alignment</b>: Good Mercenary</p>
@@ -3799,7 +3799,7 @@
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"PACKER" R87+<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide"> 
+            <div class="autohide">
                 <p><b>Author</b>: Artcrow</p>
                 <p><b>Range</b>: 1e114 (1 Sptg) gems+ </p>
                 <p><b>Alignment</b>: Evil Mercenary</p>
@@ -3820,10 +3820,10 @@
                 <p><b>Note</b>: Replace E225 with E30 for 3+ day runs.</p>
                 <p><b>Note</b>: Replace C400 with C1500 if C1500 is 100%+.</p>
                 <p><b>Note</b>: Replace D200 with D1375 if you already did a long previous S400 buff run.</p>
-                <p><b>Description</b>:Brainwave over 30 hours long. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p> 
+                <p><b>Description</b>:Brainwave over 30 hours long. Game must be left online during Brainwave or the spell time will reset. It can be valuable to align the end of Brainwaves with Sun Force Production.</p>
                 <p>Be sure to have DB5 active and buildings built up before activating BW6 (or the highest tier you have unlocked.) Put Dragon's Breath before Brainwave in the autocast. If you started an excessively short Brainwave at max tier you can export/import or go offline and come back to reset spells intentionally.</p>
                 <p>Build comes from this <a target="_blank" href=" https://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=22#posts-11483818"><b>forum</b></a> post by artcrow</p>
-                   
+
             </div>
         </div>
         <div class="shelementwhole">
@@ -3987,6 +3987,170 @@
                     <p><b>Notes</b>: Note: Get to exactly 8333 Swarming Towers.
             </div>
         </div>
+        <p><b>A collection of artcrow's A2 builds, please feel free to test these builds and let us know what you find.</b></p>
+        <div class="category">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
+                <div class="autohide">
+        <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-will-be-updated-to-3-0-2-on-sunday?page=14#posts-11718140"><b>here</b></a></p>
+        <p>More <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-updated-to-3-0-2?page=16#posts-11746797"><b>info</b></a> on these builds</p>
+                        <p>I tested a bunch of high gem A2 builds with buffs. The tests should be reasonably accurate. I took several shortcuts and all the builds have less Tax Collections cast and Faction coins gained than they would in actual runs.
+                        <br/><br/>
+                        <p><b>R111</b>
+                        <p>1.5 Dd 1.5e39 gems
+                        <p>Demon Bloodline = 811%
+                        <p>S400 = 250001
+                        <p>93 Rubies, C340 = 10.3x
+                        <p>W275 = 5.4M %
+                        <p>Dwarf Perk 1 = 0%
+                        <p>10 target Grand Balance
+                        <p>Qavg = e75, Qivg = e78
+                        <p>Non SS7
+                        <p><b>Demon Lineage Druid</b>
+                        <p><b>Requires</b>: 10 target Grand Balance
+                        <p>S3200,
+                        <p>C300,C1325,
+                        <p>D150,D275,
+                        <p>E260,E1425,
+                        <p>A251,A400,
+                        <p>W350,W400
+                        <p>8 Qavg/s SS4, C1325 = 1316, estimated 20 Qavg/s with GB11
+                        <p>S3200,
+                        <p>C300,C340,
+                        <p>D150,D275,
+                        <p>E260,E1425,A
+                        <p>251,A400,
+                        <p>W250,W350
+                        <p>17 Qavg/s, SS4, estimated 34 Qavg/s with GB11
+                        <p><b>Angel Lineage Druid</b>
+                        <p>S400,
+                        <p>C300,C340,
+                        <p>D150,D275,
+                        <p>E260,E1425,
+                        <p>A120,A251,
+                        <p>W350,W400
+                        <p>56 Qavg/s, SS5, estimated 175 Qavg/s with GB11
+                        <p><b>Undead Lineage Druid</b>
+                        <p>S400,
+                        <p>C300,C340,
+                        <p>D150,D275,
+                        <p>E260,E1425,
+                        <p>A400,A251,
+                        <p>W350,W400
+                        <p>6 Qavg/s SS5, estimated 18 Qavg/s with GB11
+                        <p>S3200,
+                        <p>C300,C340,
+                        <p>D150,D275,
+                        <p>E260,E1425,
+                        <p>A400,A251,
+                        <p>W350,W400
+                        <p>2.3 Qavg/s, SS5, estimated 7 Qavg/s with GB11
+                        <p>C340 alternate: C1325 (less than 50 rubies)
+                        <p><b>Angel Lineage Faceless</b>
+                        <p>S251,S375,S400,
+                        <p>C340,
+                        <p>D260,D330,
+                        <p>E350,E1425,
+                        <p>A250,A300,
+                        <p>W275,W1375
+                        <p>~ 8.5 Qavg/s, SS5
+                        <p>W1375 alternate: W180
+                        <p><b>Demon Lineage Titan</b>
+                        <p>S300,S400,
+                        <p>C251,C375,C340,
+                        <p>D150,D350,
+                        <p>E275,E1425,
+                        <p>A120,
+                        <p>W260,W400
+                        <p>32 Qavg/s, SS4, Time Warps to 2 days
+                        <p>S300,S3200,
+                        <p>C251,C375,C340,
+                        <p>D150,D350,
+                        <p>E275,E1425,
+                        <p>A120,
+                        <p>W260,W400
+                        <p>57 Qavg/s, SS4, Time Warps to 2 days
+                        <p><b>Dwarf Lineage</b>: 0.75 Qavg/s, SS4, Time Warps to 2 days
+                        <br/><br/>
+                        <p><b>SS7</b>
+                        <p>Some of these take much longer than others to reach SS7. I didn't test buildup times.
+                        <p><b>Angel Lineage Faceless</b>
+                        <p>S251,S375,S400,
+                        <p>C400,
+                        <p>D245,D260,
+                        <p>E350,E1425,
+                        <p>A300,A3400,
+                        <p>W275,W1375
+                        <p>~90 Qavg/s, Time Warps to 2 days
+                        <p>S251,S375,S400,
+                        <p>C400,
+                        <p>D245,D260,
+                        <p>E350,E1425,
+                        <p>A250,A300,
+                        <p>W275,W1375
+                        <p>~5.3 Qivg/s, Time Warps to 12 days
+                        <p>S251,S375,S400,
+                        <p>C340,
+                        <p>D245,D260,
+                        <p>E350,E1425,
+                        <p>A250,A300,
+                        <p>W275,W1375
+                        <p>Presumably C340x as strong as the previous one - 54.6 Qivg/s with 93 rubies. Not tested.
+                        <p><b>Angel Lineage Druid</b>
+                        <p>S400,
+                        <p>C300,C400,
+                        <p>D245,D275,
+                        <p>E260,E1425,
+                        <p>A251,A375,
+                        <p>A120,
+                        <p>W350,W1375
+                        <p>10 Qivg/s, estimated 32 Qivg/s with GB11
+                        <p><b>Undead Lineage Druid</b>
+                        <p>S400,
+                        <p>C300,C1325,
+                        <p>D245,D275,
+                        <p>E260,E1425,
+                        <p>A251,A375,A400,
+                        <p>W350,W1375
+                        <p>4.5 Qivg/s, Time warps for C1325 = 1903, estimated 14 Qivg/s with GB11
+                        <p>S3200,
+                        <p>C300,C1325,
+                        <p>D245,D275,
+                        <p>E260,E1425,
+                        <p>A251,A375,A400,
+                        <p>W350,W1375
+                        <p>1.4 Qivg/s, Time warps for C1325 = 1697, estimated 4.4 Qivg/s with GB11
+                        <p><b>Dragon Lineage Druid</b>
+                        <p>S400,
+                        <p>C300,C400,
+                        <p>D245,D275,
+                        <p>E260,E1425,
+                        <p>A251,A375,A400,
+                        <p>W350,W1375
+                        <p>63 Qivg/s, Time Warps, DB:White 959, 10 target Grand Balance
+                        <p>650 Qivg/s, More Time Warps to 16 days, DB White = 1590, 11 target Grand Balance
+                        <p><b>Dragon Lineage Faceless</b>
+                        <p>S251,S375,S3200,
+                        <p>C400,
+                        <p>D245,D260,
+                        <p>E350,E1425,
+                        <p>A300,A3400,
+                        <p>W275,W1375
+                        <p>600 Qavg/s, Time Warps to 10 days
+                        <p>C400 alternate: C340
+                        <p>A3400 alternate: A250, 11.4x with Prismatic Breath in R111.
+                        <p><b>Dragon Lineage Angel</b>
+                        <p>S10,S400,
+                        <p>C25,C400,
+                        <p>D1,D175,D245,
+                        <p>E400,
+                        <p>A50,A3400,
+                        <p>W225,W1375
+                        <p>~30 Qivg/s, ~11 days Neutral, Time Warps to 15 days
+             </div>
+        </div>
+
+
     </div>
     </div>
 <?php include "../scripts/footer.html"; ?>
