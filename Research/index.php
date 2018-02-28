@@ -19,7 +19,7 @@
 <p><b>----------------------------------</b></p>
 <p><b>The Research Facilities</b>
 <p><b>Short and long names</b>
-<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare, 
+<p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare,
 <p><img src="http://musicfamily.org/realm/Factions/picks/Spellcraftr.png" alt="Spellcraft" align="middle"> <b>Spellcraft</b></p>
 <p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.</p>
 <p><b>Effect</b>: Increases <b>Fairy</b>, <b>Faceless</b> and <b>Drow</b> production.</p>
@@ -50,19 +50,19 @@
 <p><b>Research Slot Upgrade Requirements</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MagicianSlotUpgrade.png" alt="Warfare" align="middle"> <b>Magician</b></p>
 <p><b>Requirement</b>: R20, Discover at least 10 Spellcraft Researches.
-<p><b>Cost</b>: 250 Noqag (2.5E152)	
+<p><b>Cost</b>: 250 Noqag (2.5E152)
 <p><b>Effect</b>: Increase Spellcraft upgrade slot by 1
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArtisanSlotUpgrade.png" alt="Warfare" align="middle"> <b>Artisan</b></p>
 <p><b>Requirement</b>: R19, Discover at least 10 Craftsmanship Researches.
-<p><b>Cost</b>: 250 Noqag (2.5E152)	
+<p><b>Cost</b>: 250 Noqag (2.5E152)
 <p><b>Effect</b>: Increase Craftsmanship upgrade slot by 1
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemigodSlotUpgrade.png" alt="Warfare" align="middle"> <b>Demigod</b></p>
 <p><b>Requirement</b>: R20, Discover at least 10 Divine Researches.
-<p><b>Cost</b>: 250 Noqag (2.5E152)	
+<p><b>Cost</b>: 250 Noqag (2.5E152)
 <p><b>Effect</b>: Increase Divine upgrade slot by 1
 <p><img src="http://musicfamily.org/realm/Factions/picks/BusinessmanSlotUpgrade.png" alt="Warfare" align="middle"> <b>Businessman</b></p>
 <p><b>Requirement</b>: R20, Discover at least 10 Economics Researches
-<p><b>Cost</b>: 250 Noqag (2.5E152)	
+<p><b>Cost</b>: 250 Noqag (2.5E152)
 <p><b>Effect</b>: Increase Economics upgrade slot by 1
 <p><img src="http://musicfamily.org/realm/Factions/picks/ApothecarySlotUpgrade.png" alt="Warfare" align="middle"> <b>Apothecary</b></p>
 <p><b>Requirement</b>: R17, Discover at least 10 Alchemy Researches
