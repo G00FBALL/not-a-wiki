@@ -3,21 +3,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
 <h6>R16 Research Guide</h6>
-<p>The original/old guide can be found <a target="_blank" href="http://musicfamily.org/realm/OldR16Guide/"><b>here</b></a>
-
-<p><b>To unlock Research follow the guide below, do not buy Prestige Faction<p></b>
-<p>The original post can be found <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1264578"><b>here</b></a> by <b>Namelessname</b></a>
-<p>This guide is to help you make it through the Research phase of R16 reasonably quickly, without wasting time on upgrades that are too hard to get or take a really long time when they would be much faster later, and without getting lost amid the complexity of it all.
-<p><b>------------------------------<p></b>
-<p><b>Notes before beginning to unlock research</b>
-<p> you should have the artifact <b>Vanilla Flavor Juice</b>, it is recommended to get it at the start of the R as it is easy to obtain and very powerful
-<p><b>Requirement</b>: +R16
-<p><b>Chance</b>: 20% in the first 5m of a game (Excavate)
-<p><b>Cost</b>: 1 coin
-<p><b>Alignment</b>: Vanilla faction<p>
-<p>Manage your excavations very carefully upon reaching R16, having excavations available would drastically reduce the time required to purchase new RPs.
-<p>Before trying to unlock Research, you should have 1e69/1Dvg gems, having more would allow for a bit faster and smoother unlock, but might be difficult to achieve without the right Sunforce bonus.
-<p><b>------------------------------<p></b>
+<div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Research introduction by Namelessname</a></b></p>
+        <div class="autohide">
 <p>So, you got to R16, you got a popup from the advisor, you got the gem requirement, now you are just waiting (im)patiently for me to explain what to do now, unfortunately, I will first explain what exactly are you going to unlock.
 <p>Firstly, <b>Unique Buildings<p></b>
 <p>commonly refered to as UBs, these are an upgrade to a certain building, which is determined by your current faction, which does 2 things, the first is a bonus to that building's production, which scales with a certain stat, and the second is giving you access to Research if you unlocked it for that faction.
@@ -35,18 +24,199 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><img src="http://musicfamily.org/realm/Factions/picks/bigblockresearch.png">
 <p>There is one more thing about researches, which can either be seen as what's fun about them, or, the opinion that I share, is their biggest problem, that is their requirements, or more specifically, the fact you can't see their requirements in-game, yes, you can see a progress indicator, but this game has so many different stats to track, you would spend more time trying to understand what are the requirements than you would planning a run to fulfill as many as possible at once...
 <p>However, unlike in the game, in <a href="http://musicfamily.org/realm/Researchtree/">this page</a> you can see the requirements for yourself and decide of a best course, but if you feel a bit overwhelmed, here is what I recommend to do:
-<p><b>Step 1:</b> Use Fairyline Fairy to get RPs, use excavs as needed, but be sure you will have enough to use later, the important researches are S1, C10(requires 2500 Farms/EFs), S30(requires 4000 max mana), once you got to the 50s, and mainly 50 in Economics, it's time for step 2. (remember to start a new run every 15 minutes or so to benefit from VFJ, that applies to the rest of the steps and generally whenever you are using a rush-term Vanilla faction until ascension)
-<p><b>Note:</b> If you get stuck, you might need to unlock A30, to get it afk for a few hours (and leave the device on) using an Evil Merc run with FC, HFB, and as much mana regen as possible, leaving FC and HFB on bronze autocast. *ending note 2
-<p><b>Step 2:</b> Use Druidline Goblin to get 1000 REs(Royal Exchanges) to unlock E50 and E30, leave the game for a while with GobGreed on bronze autocast, use a few excavations to finish if needed.
-<p><b>Step 3:</b> Use Fairyline Fairy to get to 80 RPs, with Craftsmanship prioritized, then unlock C80(16,000 Good buildings) using Gobline Fairy.
-<p><b>Step 4:</b> Use Fairyline Fairy to get to 105 RPs, the important researches are S105 (600 total RPs, will be gotten without trying), A105 (2750 Blacksmiths, most likely the same, if not use Goblin bloodline Fairy), and C105 (25000 clicks in a single run).
-<p><b>Note:</b> At this point you should get C105 ASAP, when you go afk just leave the game on Elfline Elves with MB on autocast.
-<p><b>Step 5:</b> Use Fairyline Fairy to get to 120 RPs, then get A120(6500 max mana) and W120(250 base assistants), both should be gotten without trying, then continue until you have all RPs and unlock all researches (except D25, A135 and W50 if you aren't close, if you haven't done A25 and A30 you can delay those too) and Reincarnate.
-<p>The next Rs should be a lot easier, with less researches to unlock and more to start with, if you delayed the researches mentioned as delayable in step 5, you should do these at R18 with all remaining Vanilla challanges.</p>
-<p><b>Ending notes</b><p>
-<p>RPs increase by the number of the R, so if R16 had a max of 136 RPs, R17 has 136+17=153, <a target="_blank" href="http://musicfamily.org/realm/Researchtree">the research tree page</a> has the max number of RPs for all Rs between R16-R100, along with the total cost of all RPs you can buy at each R. (assuming you already have the max RPs for the previous R)</p>
-<p>The Evil Merc run is intended to get A25(666 HFB casts), A30(750 FC casts), and gain time toward W50(2d evil playtime this R), however at R18 you do all Vanilla challanges, which would get you some evil playtime as well, so if you aren't planning on afking anyway this run isn't necessary, if you are planning to afk it might be better to do so at higher RPs as you'll eventually need to afk once/twice as Elves and once as Angels to unlock all useful researches.</p>
-<p>Also note that if you complete the requirement as Merc you will still need to be Fairy/Demon and access Research at the same R to unlock it or it won't count.</p>
-<p>If you are having trouble with the spell names check <a target="_blank" href="http://musicfamily.org/realm/Terminology/">this</a>.
-<p>My last tip is to try to have fun while playing the game, if you're not, what's the point of playing?
-<?php include "../scripts/footer.html"; ?>
+        </div>
+    </div>
+</div>
+<p><b>To unlock Research follow the guide below, Do not buy Prestige Faction<p></b>
+<p>This guide was written as of v3.1 and only used 10 excavations for VFJ, also without Sunforce
+<p><b>Note</b>: Sunforce will help speed things up
+<p>A complete list of Research Unlock Requirements can be found <a target="_blank" href="http://musicfamily.org/realm/Research/"> <b>here</b></a>
+<p>A complete list of All Unique Buildings Unlock Requirements can be found <a target="_blank" href="http://musicfamily.org/realm/UniqueBuilding/"> <b>here</b></a>
+<hr>
+<p><b>Note</b> Recommended before starting research
+    <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Vanilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
+    <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
+    <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
+    <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
+    <p><b>Requirement</b>: R16+</p>
+    <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
+    <p><b>Cost</b>: 1 coin
+    <p><b>Note</b>: Does not work while offline.
+<hr>
+<p><b>Note</b>: Get to 100 Uvg (1e68) gems before starting to unlock research.
+<p><b>Note</b>: Good Alignment, Elf/Dwarf/Elfline to Merc in under 10-20 minutes.
+<p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 8 hours offline time as Undead to unlock a research.
+<p>You can use <b>Mercenary</b> to get to the required gem level. suggested (Elven Farms build to e68)
+<p>Use Excavations only as needed to speed thing up, <b>DO NOT OVERDO</b>
+<p><b>Auto Casting</b>: Spiritual Surge on Silver everything else on Gold unless stated otherwise.
+<hr>
+<p><b>Step 1</b>: Unlocking Unique Buildings and Research Facilities
+<p><b>1.1</b>: Unlock the Fairy unique building and the Spellcraft research facility. (use Fairy/Elf Bloodline)
+<p><b>Requirements</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png" alt="Smiley face" align="middle"> Enchanted Field Quest</b></p>
+<p><b>Requirement</b>: Fairy, R16+, 2250 Farms</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Effect</b>: Unlocks Enchanted Field
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr2.png" alt="Enchanted Field" align="middle"> Enchanted Field (Unique Building)</b></p>
+<p><b>Cost</b>: 10 Ttg (1E103)
+<p><b>Effect</b>: Upgrade Farms to Enchanted Fields</p>
+<p><b>Effect</b>: Allows access to the Research Facilities.
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Spellweaveryr.png" alt="Enchanted Field" align="middle"> Spellweavery</b></p>
+<p><b>Requirement</b>: Enchanted Field
+<p><b>Cost</b>: 1E121 coins, 1E6 Fairy coins</p>
+<p><b>Effect</b>: Unlocks Spellcraft Research Facility</p>
+<hr>
+<p><b>1.2</b>: Unlock the Elf unique building and the Craftmenship research facility. (use Elf/Elf Bloodline)
+<p><b>Requirements</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Elfr1.png" alt="Training Grounds Quest" align="middle"> Training Grounds Quest</b></p>
+<p><b>Requirement</b>: Elf, R16+, 1750 Warrior Barracks</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Effect</b>: Unlocks Training Grounds
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Elfr2.png" alt="Elven Training Grounds" align="middle"> Training Grounds (Unique Building)</b></p>
+<p><b>Requirement</b>: Training Grounds Quest</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
+<p><b>Effect</b>: Upgrade Warrior Barracks To Elven Training Grounds</p>
+<p><b>Effect</b>: Allows access to the Research Facilities.
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Carpentryr.png" alt="Elven Training Grounds" align="middle"> Carpentry</b></p>
+<p><b>Requirement</b>: Elven Training Grounds</p>
+<p><b>Cost</b>: 1E121 coins, 1E6 Elven coins</p>
+<p><b>Effect</b>: Unlocks Craftsmanship Research Facility</p>
+<hr>
+<p><b>1.3</b>: Unlock the Angel unique building and the Divine research facility. (use Angel/Elf Bloodline)
+<p><b>Requirements</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Angelr1.png" alt="Heaven's Domain Quest" align="middle"> Heaven's Domain Quest</b></p>
+<p><b>Requirement</b>: Angel, R16+, 1500 Heaven's Gates</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Effect</b>: Unlocks Heaven's Domain
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Angelr2.png" alt="Heaven's Domain" align="middle"> Heaven's Domain (Unique Building)</b></p>
+<p><b>Requirement</b>: Buy "Heaven's Domain Quest"</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
+<p><b>Effect</b>: Upgrade Heaven's Gate To Heaven's Domains</p>
+<p><b>Effect</b>: Allows access to the Research Facilities.
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Pantheonr.png" alt="Heaven's Domain Quest" align="middle"> Pantheon</b></p>
+<p><b>Requirement</b>: Heaven's Domain</p>
+<p><b>Cost</b>: 1E121 coins, 1E6 Angel coins</p>
+<p><b>Effect</b>: Unlocks Divine Research Facility</p>
+<hr>
+<p><b>1.4</b>: Unlock the Goblin unique building and the Economics research facility. (use Goblin/Elf Bloodline)
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Goblinr1.png" alt="Goblin Banks Quest" align="middle"> Goblin Bank Quest</b></p>
+<p><b>Requirement</b>: Goblin, R16+, 1750 Witch Conclaves</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Effect</b>: Unlocks Goblin Bank
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Goblinr2.png" alt="Goblin Banks" align="middle"> Goblin Bank (Unique Building)</b></p>
+<p><b>Requirement</b>: Buy "Goblin Banks Quest"</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
+<p><b>Effect</b>: Upgrade Witch Conclaves To Goblin Bank</p>
+<p><b>Effect</b>: Allows access to the Research Facilities.
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Exchequerr.png" alt="Goblin Banks Quest" align="middle"> Exchequer</b></p>
+<p><b>Requirement</b>: Goblin Bank</p>
+<p><b>Cost</b>: 1E121 coins, 1E6 Goblin coins</p>
+<p><b>Effect</b>: Unlocks Economics Research Facility</p>
+<hr>
+<p><b>1.5</b>: Unlock the Undead unique building and the Alchemy research facility. (use Undead/Elf Bloodline)
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Undeadr1.png" alt="Undercities Quest" align="middle"> Undercities Quest</b></p>
+<p><b>Requirement</b>: Undead, R16+, 1750 Necropolises</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Effect</b>: Unlocks Undercities
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Undeadr2.png" alt="Undercities" align="middle"> Undercities (Unique Building)</b></p>
+<p><b>Requirement</b>: Undercities Quest</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
+<p><b>Effect</b>: Upgrade Necropolises To Undercities</p>
+<p><b>Effect</b>: Allows access to the Research Facilities.
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Laboratoryr.png" alt="Laboratory" align="middle"> Laboratory</b></p>
+<p><b>Requirement</b>: Undercities</p>
+<p><b>Cost</b>: 1E121 coins, 1E6 Undead coins</p>
+<p><b>Effect</b>: Unlocks Alchemy Research Facility</p>
+<hr>
+<p><b>1.6</b>: Unlock the Demon unique building and the Warfare research facility. (use Demon/Elf Bloodline)
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Demonr1.png" alt="Infernal Realm Quest" align="middle"> Infernal Realm Quest</b></p>
+<p><b>Requirement</b>: Demon, R16+, 1500 Hell Portals</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Effect</b>: Unlocks Infernal Realm
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Demonr2.png" alt="Infernal Realm" align="middle"> Infernal Realm (Unique Building)</b></p>
+<p><b>Requirement</b>: Infernal Realm Quest</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
+<p><b>Effect</b>: Upgrade Hell Portals To Infernal Realm</p>
+<p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StrategyRoomr.png" alt="Strategy Room" align="middle"> Strategy Room</b></p>
+<p><b>Requirement</b>: All Demon faction upgrades bought, Infernal Realm</p>
+<p><b>Cost</b>: 1E121 coins, 1E6 Demon coins</p>
+<p><b>Effect</b>: Unlocks Warfare Research Facilities</p>
+<p><b>Note</b>: Stay with this run to until you get to step 2.
+<hr>
+<style>
+  div#images{
+  width:100%;
+  text-align:center;
+}
+div#images div{
+  display:inline-block;
+}
+</style>
+<center><b>Research Facilities</b></center>
+<br>
+<div id="images">
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/SpellcraftResearch.png" width="54" height="54" />
+    <p>Spellcraft</p>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/CraftsmanshipResearch.png" width="54" height="54" />
+    <p>Craftsmanship</p>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/DivineResearch.png" width="54" height="54" />
+    <p>Divine</p>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/EconomicsResearch.png" width="54" height="54" />
+    <p>Economics</p>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AlchemyResearch.png" width="54" height="54" />
+    <p>Alchemy</p>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/WarfareResearch.png" width="54" height="54" />
+    <p>Warfare</p>
+  </div>
+</div>
+<p>Once you unlock these you will see them in the research tab, pointing to them (ingame) will tell you how many research points you have and how many available slots you have.
+<p><b>Reincarnation</b>: = R, <b>Research Points</b>: = RP
+<p>After you unlock all 6 Research Facilities you can upgrade them with RP.
+<p>You get more RP everytime you R, at R16 you start with 136 RP for each Research Facility then you get more for each R you are at. (R17 you get 17 RP, R18 you get 18 RP and so on) all the way to R100 where RP is capped at 5000.
+<p>It cost gold coins and faction coins to raise the RP in each facility.
+<p>RP opens up research that need unlocked, below you will find a list of unlock steps to take for each research.
+<hr>
+<p><b>Step 2</b>: Unlocking Research
+<p><b>Auto Casting</b>: Spiritual Surge on Silver everything else on Gold unless stated otherwise.
+<p><b>2.1</b>: Get to 55+ Research Points Use Fairy with Elf Bloodline.
+<p><b>2.2</b>: <b>S30</b>: 4000 Mana, <b>S50</b>: 6000 max mana, <b>C10</b>: 2500 Farms, Use Fairy with Elf Bloodline.
+<p><b>2.3</b>: <b>D50</b>: 15000 good buildings as Angels, <b>S10</b>: 2000 heaven's gates this game, Use Angel with Goblin Bloodline.
+<p><b>2.4</b>: <b>E30</b>: 1000 royal exchanges this game, <b>E50</b>: 1000 royal exchanges as Goblin, <b>A10</b>: 2250 Goblin Banks, <b>W25</b>: 1e32 coins this game, Use Goblin with Goblin Bloodline. (E30-E50 will be last, Bronze cast Goblin's Greed)
+<p><b>2.5</b>: <b>D10</b>: 2000 Infernal Realms, Use Demon with Goblin Bloodline.
+<p><b>2.6</b>: <b>E10</b>: 2000 Undercities, Use Undead with Goblin Bloodline.
+<hr>
+<p><b>Step 3</b>: Get to 80 Research Points Use Elf with Elf Bloodline.
+<p><b>3.1</b>: <b>C50</b>: 1 B (1e9) Faction Coins, <b>E25</b>: 100 M (1e8) Faction Coins found this game, <b>W10</b>: 2000 Warrior Barracks, Use Elf with Elf Bloodline.
+<p><b>3.2</b>: <b>C80</b>: 16K Good and Evil Buildings (Total, this game), <b>E80</b>: 9K Neutral Buildings, Use Fairy with Goblin Bloodline.
+<hr>
+<p><b>Step 4</b>: Get to 105 Research Points Using Fairy with Fairy Bloodline and A105.
+<p><b>4.1</b>: <b>D55</b>: 3 M (3e6) mana produced this game, <b>A55</b>: 25K spells this game, <b>C25</b>: 12K spells this R, Use Angel with Druid Bloodline. (2 Hour run) (Everything Gold autocast Tax Collection last)
+<hr>
+<p><b>Step 5</b>: Get to 136 Research Points Using Fairy with Fairy Bloodline
+<p><b>5.1</b>: <b>A120</b>: 6500 max mana, <b>W120</b>: 250 base assistants, Use Fairy with Faceless Bloodline unlock.
+<p><b>5.2</b>: <b>S135</b>: 5K Unique Buildings this game as Fairy, Use Fairy with Goblin Bloodline.
+<p><b>5.3</b>: <b>C105</b>: 25K clicks, <b>C120</b>: 200K clicks, <b>C135</b>: 250K Clicks this game as Elf, Use Elf with Elf Bloodline, After all upgrades and research bought autocast Moon Blessing and Call to Arms.
+<p><b>5.4</b>: <b>A135</b>: 1 day play time this R Use Undead with any Bloodline.
+<p><b>5.5</b>: <b>D135</b>: 250 m/s Mana Regen(as Angel) Use Angel with Druid Bloodline.
+<p><b>5.6</b>: <b>E135</b>: 28,000 Total Buildings(as Goblin) Goblin with Goblin Bloodline.
+<p><b>5.7</b>: <b>A25</b>: 666 Hellfire Blast, <b>A30</b>: 750 Fairy Chanting this R, <b>W135</b>: 580 trophies Use Demon with any Bloodline. (Use Merc build below and read note) (After spell count reached switch to Demon and Fairy to unlock both research)
+<p><b>Merc Build</b>
+<p><b>Alingment</b>: Neutral
+<p><b>Bloodline</b>: Druid
+<p>FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast
+<p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)
+<p><b>4.8</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead), <b>W50</b>: 2 days evil playtime this R, Use Undead with Druid Bloodline. (After 2 days evil time switch to Demon to unlock W50)
+<p><b>Note</b>: <b>D25</b> and <b>W50</b> can wait until after R18 but needs to be done.
+ <?php include "../scripts/footer.html"; ?>
