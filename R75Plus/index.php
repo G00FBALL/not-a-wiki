@@ -124,7 +124,7 @@
                 <p><b>Template</b>
                 <p>EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Dragon's Breath,
-                <p>S215,S305,S330,S1450,S1500,S3200
+                <p>S215,S305,S330,S1450,S1500,S3200,
                 <p>C150,C340,C400,C590,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E260,E350,E1225,E1425,E3250,
