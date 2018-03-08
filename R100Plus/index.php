@@ -504,6 +504,25 @@
                     <p><b>Notes</b>: Swap D200 with D245 for longer runs (?)
          </div>
      </div>
+            <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Raw Emerald (Elf Artifact)<font color="Blue"> Good</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: Ensteffahn
+                    <p><b>Range</b>: e42 (1 Td) gems+
+                    <p><b>Alignment</b>: Good, Proof of Chaos
+                    <p><b>Faction</b>: Elf
+                    <p><b>Bloodline</b>: Faceless
+                    <p><b>Requirement</b>: Goblin Set Artifact
+                    <p><b>Template</b>
+                    <p>S175,S3200,
+                    <p>C1,C225,C400,
+                    <p>D50,D245,
+                    <p>E25,E290,
+                    <p>A120,
+                    <p>W10,W1375
+                    <p><b>Notes</b>: Estimated 7 days for SS7. Great for up to 3 excavation resets (4 with e45 (1 Qad) gems).
+         </div>
+     </div>
    </div>
                                          <br/>
             <div class="category">
