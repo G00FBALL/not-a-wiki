@@ -14,7 +14,7 @@
 
 
 <h6>Support G00F's Not a Wiki</h6>
-<p>Help keep this site ad free.
+<p><center>Help keep this site ad free.</center>
   </p>
 
 
