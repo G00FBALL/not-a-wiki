@@ -16,9 +16,9 @@
 <p><b>Effect</b>: Instantly produces Faction Coins based on your current gems and provides a boost based on the number of Faction Coins discovered for 5 seconds.</p>
 <p><b>FC Formula</b>: floor(ln^3(1 + x) + 20, where x is your current gems.</p>
 <p><b>Production Formula</b>: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.</p>
-<p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" alt="Smiley face" align="middle"> Greed Drive</b> 
+<p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" alt="Smiley face" align="middle"> Greed Drive</b>
 <p><b>Effect</b>: Goblin's Greed costs 150 less mana.
-<p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell. 
+<p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell.
 <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
 <p><b>----------------------------------</b></p>
 <p><b>Tier 1 Upgrades</b></p>
@@ -82,7 +82,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank</b></p>
 <p>Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.</p>
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
-<p><b>Effect</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.
+<p><b>Effect</b>: floor(log(x+1)^(3.1/(1 + 0.1*A))), where x is your current amount of Coins and y is ascension.
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Goblin Banks Quest"
 <p><b>Cost</b>: 10 Ttg (1E103)
