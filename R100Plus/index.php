@@ -509,7 +509,7 @@
                <div class="autohide">
                     <p><b>Author</b>: Ensteffahn
                     <p><b>Range</b>: e42 (1 Td) gems+
-                    <p><b>Alignment</b>: Good, Proof of Chaos
+                    <p><b>Alignment</b>: Good, Proof of Balance
                     <p><b>Faction</b>: Elf
                     <p><b>Bloodline</b>: Faceless
                     <p><b>Requirement</b>: Goblin Set Artifact
@@ -531,7 +531,7 @@
                <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ?
-                    <p><b>Alignment</b>: Neutral, Proof of Balance
+                    <p><b>Alignment</b>: Neutral, Proof of Chaos
                     <p><b>Faction</b>: Faceless
                     <p><b>Bloodline</b>: Drow
                     <p><b>Artifact</b>: Undead (If avaliable)
