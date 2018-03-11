@@ -531,7 +531,7 @@
                <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: ?
-                    <p><b>Alignment</b>: Neutral, Proof of Chaos
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Faceless
                     <p><b>Bloodline</b>: Drow
                     <p><b>Artifact</b>: Undead (If avaliable)
