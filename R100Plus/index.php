@@ -145,7 +145,7 @@
                                <p><b>Author</b>: Artcrow
                                <p><b>Range</b>: ? Gems
                                <p><b>Requirments</b>: Undead Set Artifact
-                               <p><b>Alignment</b>: Evil, Proof of Balance
+                               <p><b>Alignment</b>: Evil, Proof of Order
                                <p><b>Faction</b>: Undead
                                <p><b>Bloodline</b>: Drow
                                <p><b>Template</b>
