@@ -21,8 +21,8 @@
                 <p><b>Chance</b>: Total Lineage levels/2000</p>
                 <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)</p>
-                <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9</p>
+                <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (15 + lineage level)</p>
+                <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (15 + lineage level)) ^ 0.9</p>
                 <p><b>Note</b>: The cost listed below is <b>Without</b> Ancient Heirloom</p>
                 <p><b>Level 1</b>: 25 Qa (2.5e16)</p>
                 <p><b>Level 2</b>: 250 Qa (2.5e17)</p>
@@ -294,8 +294,10 @@
     <p><b>Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk4.png" align="middle"><b> Druid Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned. Also increase the  production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.</p>
+    <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned.</p>
     <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.</p>
+    <p><b>Effect</b>: Also increase the production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
+    <p><b>Formula</b>: ((5 * floor(x / 300)) ^ T) where x is Grand Balance duration in seconds, and T is Grand Balance tier.
     <p><b>----------------------------------</b></p>
     <H6>Faceless</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessLineage.png" align="middle"><b> Faceless Lineage</b></p>
@@ -380,6 +382,8 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk4.png" align="middle"><b> Drow Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.</p>
+    <p><b>Effect</b>: While Combo Strike is active, increase the production of all buildings based on the current Combo Strike bonus.</p>
+    <p><b>Formula</b>: (2 * log((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.
     <p><b>----------------------------------</b></p>
     <H6>Dragon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonLineage.png" align="middle"><b> Dragon Lineage</b></p>
