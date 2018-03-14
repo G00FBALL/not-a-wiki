@@ -298,7 +298,11 @@
     <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.</p>
     <p><b>Effect</b>: Also increase the production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
     <p><b>Formula</b>: ((5 * floor(x / 300)) ^ T) where x is Grand Balance duration in seconds, and T is Grand Balance tier.
+<<<<<<< HEAD
     <hr>
+=======
+    <p><b>----------------------------------</b></p>
+>>>>>>> 8c2f6b301f139bd20de2f74ff0405e631294119a
     <H6>Faceless</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessLineage.png" align="middle"><b> Faceless Lineage</b></p>
     <p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.</p>
