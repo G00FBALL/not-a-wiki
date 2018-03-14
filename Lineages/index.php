@@ -21,8 +21,8 @@
                 <p><b>Chance</b>: Total Lineage levels/2000</p>
                 <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)</p>
-                <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9</p>
+                <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (15 + lineage level)</p>
+                <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (15 + lineage level)) ^ 0.9</p>
                 <p><b>Note</b>: The cost listed below is <b>Without</b> Ancient Heirloom</p>
                 <p><b>Level 1</b>: 25 Qa (2.5e16)</p>
                 <p><b>Level 2</b>: 250 Qa (2.5e17)</p>
@@ -71,7 +71,7 @@
         <area target="" research="<b>Drow Lineage</b><p><b>Base Effect</b>: Multiplicative 75% more offline production per level.<p><b>Cost</b>: 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,193,128,247" shape="rect">
         <area target="" research="<b>Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 12% more per level for all purposes.<p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
     </map>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Fairy</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyLineage.png" align="middle"><b> Fairy Lineage</b></p>
     <p><b>Cost</b>: 400 Fairy Royal Exchanges.</p>
@@ -101,7 +101,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.</p>
     <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Elven</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenLineage.png" align="middle"><b> Elven Lineage</b></p>
     <p><b>Cost</b>: 400 Elven Royal Exchanges.</p>
@@ -129,7 +129,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk4.png" align="middle"><b> Elven Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 500%.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Angel</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelLineage.png" align="middle"><b> Angel Lineage</b></p>
     <p><b>Cost</b>: 400 Angel Royal Exchanges.</p>
@@ -157,7 +157,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk4.png" align="middle"><b> Angel Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When God's Hand is active, increase max mana by 100%.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Goblin</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinLineage.png" align="middle"><b> Goblin Lineage</b></p>
     <p><b>Cost</b>: 400 Goblin Royal Exchanges.</p>
@@ -185,7 +185,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned.</p>
     <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is assistants owned.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Undead</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadLineage.png" align="middle"><b> Undead Lineage</b></p>
     <p><b>Cost</b>: 400 Undead Royal Exchanges.</p>
@@ -212,7 +212,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk4.png" align="middle"><b> Undead Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When offline, Night Time production is added to offline bonus. Night Time activity time counts 100% more for all purposes.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Demon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonLineage.png" align="middle"><b> Demon Lineage</b></p>
     <p><b>Cost</b>: 400 Demon Royal Exchanges.</p>
@@ -239,7 +239,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk4.png" align="middle"><b> Demon Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Non-Unique Buildings are also targeted by Hellfire Blast.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Titan</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanLineage.png" align="middle"><b> Titan Lineage</b></p>
     <p><b>Cost</b>: 400 Angel and 400 Goblin Royal Exchanges.</p>
@@ -266,7 +266,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk4.png" align="middle"><b> Titan Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Lightning Strike always hits Unique Buildings in addition to its random target. Unique Buildings are no longer random targets.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Druid</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidLineage.png" align="middle"><b> Druid Lineage</b></p>
     <p><b>Cost</b>: 400 Elven and 400 Demon Royal Exchanges.</p>
@@ -294,9 +294,11 @@
     <p><b>Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk4.png" align="middle"><b> Druid Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned. Also increase the  production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.</p>
+    <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned.</p>
     <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.</p>
-    <p><b>----------------------------------</b></p>
+    <p><b>Effect</b>: Also increase the production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
+    <p><b>Formula</b>: ((5 * floor(x / 300)) ^ T) where x is Grand Balance duration in seconds, and T is Grand Balance tier.
+    <hr>
     <H6>Faceless</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessLineage.png" align="middle"><b> Faceless Lineage</b></p>
     <p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.</p>
@@ -324,7 +326,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk4.png" align="middle"><b> Faceless Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Brainwave headstart time is increased by 1000%.</p>
-    <p><b>----------------------------------</b>
+    <hr>
     <H6>Dwarf</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfLineage.png" align="middle"><b> Dwarf Lineage</b></p>
     <p><b>Cost</b>: 400 Dwarf Royal Exchanges.</p>
@@ -353,7 +355,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.</p>
     <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
-    <p><b>----------------------------------</b></p>
+    <hr>
     <H6>Drow</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"><b> Drow Lineage</b></p>
     <p><b>Cost</b>: 400 Drow Royal Exchanges.</p>
@@ -379,8 +381,10 @@
     <p><b>Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk4.png" align="middle"><b> Drow Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 min spent this game.</p>
-    <p><b>----------------------------------</b></p>
+    <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.</p>
+    <p><b>Effect</b>: While Combo Strike is active, increase the production of all buildings based on the current Combo Strike bonus.</p>
+    <p><b>Formula</b>: (2 * log((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.
+    <hr>
     <H6>Dragon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonLineage.png" align="middle"><b> Dragon Lineage</b></p>
     <p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.</p>
