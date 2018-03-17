@@ -341,6 +341,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
                     <p><b>Range</b>: 1e27 (1 Oc) Gems
+                    <p><b>Requirement</b>: Drow Lineage Level 25
                     <p><b>Alignment</b>: Evil, Proof of Order
                     <p><b>Faction</b>: Undead
                     <p><b>Bloodline</b>: Drow
