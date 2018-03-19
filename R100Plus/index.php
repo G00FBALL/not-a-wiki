@@ -95,7 +95,7 @@
                 </div>
            </div>
    <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Undead<font color="DarkRed"> Good</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Undead<font color="DarkRed"> Evil</font></a></b></p>
         <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: ? gems
