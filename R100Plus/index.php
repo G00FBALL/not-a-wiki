@@ -92,6 +92,27 @@
                 <p><b>Notes</b>: Alternative build to Dragonline Druids, its somewhat weaker (closer to Dragonline Druids when able to buy Angelic Fortitude (Angel Upgrade 11) or with high ruby count), but can be stronger if R108 power was buffed.
                 <p><b>Notes</b>: Estimated time 3 days for SS7 with no neutral time this R.
                 <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
+                </div>
+           </div>
+   <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Undead<font color="DarkRed"> Good</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Range</b>: ? gems
+                <p><b>Alignment</b>: Evil, Proof of Order
+                <p><b>Requirements</b>: Undead Set Artifact, Drow Lineage Level 30
+                <p><b>Faction</b>: Undead
+                <p><b>Bloodline</b>: Drow
+                <p><b>Template</b>
+                <p>S225,S3200,
+                <p>C340,
+                <p>D25,D245,
+                <p>E10,E400,
+                <p>A1,A120,A175,
+                <p>W50,W205
+                <p><b>Notes</b>: Druid Challenge 4 off for Combo Strike count. On during Production or Sun Force Faction Coins.
+                <p><b>Notes</b>: Long setup time (? hours).
+                <p><b>Notes</b>: Highly benefits from gifts.
      </div>
 </div>
             </div>
@@ -135,7 +156,7 @@
                 <p>W350,W1375
                 <p><b>Notes</b>: Estimated time of 1 day to get GB11. (highly varies with gifts).
                 <p><b>Notes</b>: Replace E250 with E1325 if you have all 3 gifts and are going for just GB11.
-                <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/Hhigh Drow Lineage level.
+                <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/high Drow Lineage level.
                 </div>
            </div>
                    <div class="shelementwhole">
@@ -377,6 +398,25 @@
         </div>
     </div>
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) with (Undead Set)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: meldragora
+                    <p><b>Range</b>: 1e30 (1 No) Gems
+                    <p><b>Requirement</b>: Undead Set
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Drow
+                    <p><b>Template</b>
+                    <p>S3200,
+                    <p>C50,C400,
+                    <p>D10,D200,
+                    <p>E230,E1325,
+                    <p>A25,A3400,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Estimated time 5 minutes to unlock.
+        </div>
+    </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mountain Palace (Titan) 1e24 (1 Sp) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
@@ -546,6 +586,6 @@
                     <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
       </div>
     </div>
-</div>
+ </div>
 </div>
 <?php include "../scripts/footer.html"; ?>

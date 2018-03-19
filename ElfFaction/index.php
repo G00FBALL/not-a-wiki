@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/ElfTopPage.png" alt="Spellcraft" align="middle"></h6></a>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Elf.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
-<p><b>In-game description</b>
+<p><b>In-game description</b></p>
 <p>Elves are masters of efficiency and expertise, taking the best results from every single action.</p>
 <p>Affiliating yourself with the Elves faction will dramatically boost your clicking rewards while forsaking passive production.</p>
 <p>Part of the Good Vanilla Factions, the Elven Faction increase click reward and the chance to find faction coins. They can help you to get the Click and Faction coins trophies series. Their spell upgrade will relieve you from the necessity of manual clicking and let you aim for the Treasure Trophies series while idling.</p>
@@ -16,9 +16,9 @@
 <p><b>Effect</b>: Increases the production of all buildings based on the total amount of treasure clicks across all play-throughs for 20 seconds.</p>
 <p><b>Formula</b>: 1.75 * ln^3.1(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b>
-<p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second. 
+<p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
 <p><b>Requirement</b>: Activate Moon Blessing between 6am and 12pm.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTradeTreaty.png" alt="Elven Trade Treaty" align="middle"> Elven Trade Treaty</b></p>
 <p><b>Cost</b>: 20 Elven Coins</p>
@@ -33,7 +33,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" alt="Smiley face" align="middle"> Sylvan Treasure Frills</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
 <p><b>Effect</b>: Increase clicking reward by 80% of your total production.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenFriendshipPact.png" alt="Smiley face" align="middle"> Elven Friendship Pact</b></p>
 <p><b>Cost</b>: 100 Elven Coins</p>
@@ -49,7 +49,7 @@
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
 <p><b>Formula</b>: ln^2.5(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Alliance</b></p>
 <p><b>Cost</b>: 500 Elven Coins</p>
@@ -65,31 +65,31 @@
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>
 <p><b>Formula</b>: floor(10 * log(1 + x^2)) / 10, where x is your Treasure Clicks (Total) stat.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenHeritage.png" alt="Elven Heritage" align="middle"><b> Elven Heritage</b></p>
 <p><b>Cost</b>: 5000 Elven Coins</p>
 <p><b>Requirements</b>: Elven Champion Trophy</p>
-<p><b>Effect</b>: Increase your chance to find Faction Coins by 5% and increase your click reward based on your chance to find Faction Coins.
-<p><b>Formula</b>: (x/2)%, where x is your chance to find faction coins.
-<p><b>----------------------------------</b>
-<p><b>Elven Research Requirements</b>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by 5% and increase your click reward based on your chance to find Faction Coins.</p>
+<p><b>Formula</b>: (x/2)%, where x is your chance to find faction coins.</p>
+<hr>
+<p><b>Elven Research Requirements</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Training Grounds Quest</b></p>
-<p>Hello, mellonamin. We require a new place to train our soldiers. Build enough Warrior Barracks, and we'll make them worthy of you.
-<p><b>Requirement</b>: R16 + 1750 Warrior Barracks
+<p>Hello, mellonamin. We require a new place to train our soldiers. Build enough Warrior Barracks, and we'll make them worthy of you.</p>
+<p><b>Requirement</b>: R16 + 1750 Warrior Barracks</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Training Grounds</b></p>
 <p>Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made and unlocking more unique perks for the building.</p>
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
-<p><b>Formula</b>: ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.
+<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
+<p><b>Formula</b>: ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.</p>
 <p>+Access to the Research Facilities.</p>
-<p><b>Requirements</b>: Buy "Elven Training Grounds Quest"
-<p><b>Cost</b>: 10 Ttg (1E103)
+<p><b>Requirements</b>: Buy "Elven Training Grounds Quest"</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CarpentryFactionUpgrade.png" alt="Smiley face" align="middle"> Carpentry</b></p>
 <p>Unlocks the Craftsmanship research facility and increases Elven production by 100000%, plus an additional bonus based on Craftsmanship research points.</p>
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
-<p><b>Requirements</b>: All Elven faction upgrades bought, Elven Training Grounds
-<p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Elven coins
-<p><b>Unique Building</b>
+<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
+<p><b>Requirements</b>: All Elven faction upgrades bought, Elven Training Grounds</p>
+<p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Elven coins</p>
+<p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElfUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Warrior Barracks</p>
 <p>At R16, the Elves' Warrior Barracks building can be upgraded to a Unique Building: Elven Training Grounds, which is required for some challenges and research quests.</p>

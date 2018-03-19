@@ -5,36 +5,36 @@
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DwarfTopPage.png" alt="Spellcraft" align="middle"></h6></a>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Dwarves.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
-<p><b>In-game description</b>
+<p><b>In-game description</b></p>
 <p>The Dwarves make the best masons, artisans and blacksmiths in all the realms. Their creations will outlast anything made by other races... except for beer, that is.</p>
 <p>The Dwarf Faction appears in addition to a good faction and enables the player to use all the 2 faction spells and 18 upgrades from both the Good and Dwarf factions.</p>
 <p>The Dwarf faction cannot be combined with Evil or Neutral Factions, nor is there a Research <b>Tree</b> for Dwarfs.</p>
 <p><b>Alignment</b>: Prestige (Good)</p>
 <p><b>Faction spell</b>: Diamond Pickaxe</p>
 <p><b>Effect</b>: Increase clicking reward by 25% per Excavation and "Faction Coin Find Chance" by 200% for 12 seconds.</p>
-<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" alt="Smiley face" align="middle"></a> <b>Minedwarf</b> 
-<p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%. 
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" alt="Smiley face" align="middle"></a> <b>Minedwarf</b>
+<p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
 <p><b>Requirement</b>: Find 30'000 Faction Coins using Diamond Pickaxe in a single game.</p>
-<p><b>----------------------------------</b></p>
-<p><b>Unlock Requirements</b>:
+<hr>
+<p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PassageToTheUnderWorld.png" alt="Smiley face" align="middle"><b> Passage to the Underworld</b></p>
 <p><b>Cost</b>: 50Qid (5E49)</p>
 <p><b>Requirements</b>: 200 Excavations</p>
-<p><b>Effect</b>: Unlocks Prestige Quests
-<p><b>Note</b>: Only needs to be bought once and do not count towards the 'Bought Upgrades' stats.
-<p><b>Tip</b>: Use Titans with about 53 Qa (5e16) gems
+<p><b>Effect</b>: Unlocks Prestige Quests</p>
+<p><b>Note</b>: Only needs to be bought once and do not count towards the 'Bought Upgrades' stats.</p>
+<p><b>Tip</b>: Use Titans with about 53 Qa (5e16) gems</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" alt="Smiley face" align="middle"><b> Sturdy Bearded Man's Quest</b></p>
 <p><b>Cost</b>: 10Qad (1E46), 10K Fairy Coins, 10K Elven Coins, 10K Angel Coins</p>
-<p><b>Requirements</b>: Play a Good Alignment
+<p><b>Requirements</b>: Play a Good Alignment</p>
 <p><b>Requirements</b>: Build 800 Inns, 7000 Buildings Owned (This Game),10000 clicks (Total)</p>
-<p><b>Effect</b>: Unlocks Underworld Diplomacy
-<p><b>Note</b>: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.
+<p><b>Effect</b>: Unlocks Underworld Diplomacy</p>
+<p><b>Note</b>: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png" alt="Smiley face" align="middle"><b> Underworld Diplomacy</b></p>
 <p><b>Cost</b>: 1Qad (1E45)</p>
-<p><b>Requirements</b>: Sturdy Bearded Man's Quest
+<p><b>Requirements</b>: Sturdy Bearded Man's Quest</p>
 <p><b>Effect</b>: Unlocks Prestige Faction Coins, Trade Treaty, Royal Exchanges and Heritage, Required each run until R3</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png" alt="Smiley face" align="middle"> Dwarven Trade Treaty</b></p>
 <p><b>Cost</b>: 3000 Dwarven Coins</p>
@@ -50,7 +50,7 @@
 <p><b>Cost</b>: 500 Qad (5E47)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
 <p><b>Formula</b>: 10*x^0.9%, where x is the number of excavations you've purchased.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Friendship Pact</b></p>
 <p><b>Cost</b>: 12000 Dwarven Coins</p>
@@ -67,7 +67,7 @@
 <p><b>Cost</b>: 5 Sxd (5E51)</p>
 <p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
 <p><b>Formula</b>: 0.03*x^0.7%, where x is your Playtime (This Game) stat in seconds.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Alliance</b></p>
 <p><b>Cost</b>: 30000 Dwarven Coins</p>
@@ -84,42 +84,42 @@
 <p><b>Cost</b>: 50 Spd (5E55)</p>
 <p><b>Effect</b>: Your production is increased by 600% so long as there are mouse movements. Clicking and casting are not considered as movements.</p>
 <p>This bonus falls off by 1% per second, down to 0 while inactive.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenHeritage.png" alt="Dwarven Heritage" align="middle"><b> Dwarven Heritage</b></p>
 <p><b>Cost</b>: 75,000 Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarven Champion Trophy</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.
-<p><b>Formula</b>: 2 * (x^0.9)%, where x is the number of excavations you've purchased.
-<p><b>----------------------------------</b>
-<p><b>Dwarf Research Requirements</b>
+<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
+<p><b>Formula</b>: 2 * (x^0.9)%, where x is the number of excavations you've purchased.</p>
+<hr>
+<p><b>Dwarf Research Requirements</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forge Quest</b></p>
-<p>Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!
-<p><b>Effect</b>: Unlocks Dwarven Forges.
-<p><b>Requirement</b>: R28 + 5000 Blacksmiths
+<p>Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
+<p><b>Effect</b>: Unlocks Dwarven Forges.</p>
+<p><b>Requirement</b>: R28 + 5000 Blacksmiths</p>
 <p><b>Cost</b>: 10 Sxg (1E184)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forges</b></p>
 <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 100 * x^0.9%, where x is your Mana per Second stat.
+<p><b>Formula</b>: 100 * x^0.9%, where x is your Mana per Second stat.</p>
 <p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
-<p><b>Requirements</b>: Dwarven Forge Quest
-<p><b>Cost</b>: 10 USxg (1E187)
+<p><b>Requirements</b>: Dwarven Forge Quest</p>
+<p><b>Cost</b>: 10 USxg (1E187)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
 <p><b>Effect</b>: Unlocks The Secrets of the Underworld upgrade.</p>
-<p><b>Requirements</b>: R29 + 2750th Excavation
-<p><b>Effect</b>: Unlocks The Secrets of the Underworld.
+<p><b>Requirements</b>: R29 + 2750th Excavation</p>
+<p><b>Effect</b>: Unlocks The Secrets of the Underworld.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Underworld</b></p>
-<p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
-<p><b>Requirement</b>: Prestige Unique Building, Earth Core Artifact
-<p><b>Cost</b>: 100 QiSxg (1E200), 10 M (1E7) FC of each
-<p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.
+<p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.</p>
+<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
+<p><b>Requirement</b>: Prestige Unique Building, Earth Core Artifact</p>
+<p><b>Cost</b>: 100 QiSxg (1E200), 10 M (1E7) FC of each</p>
+<p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKingsFactionUpgrade.png" alt="Smiley face" align="middle"> Legacy of The Dwarven Kings</b></p>
-<p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins
-<p><b>Requirement</b>: Find the Horn of the Kings artifact (Requires Dwarven Forges and 3250 Excavations)
-<p><b>Effect</b>: Adds 3 extra Dwarven research slots: 2 for Craftsmanship and 1 to the faction's facility you are playing.
-<p><b>Note</b>: Required to be bought each Dwarven research run.
-<p><b>----------------------------------</b></p>
-<p><b>Unique Building</b>
+<p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins</p>
+<p><b>Requirement</b>: Find the Horn of the Kings artifact (Requires Dwarven Forges and 3250 Excavations)</p>
+<p><b>Effect</b>: Adds 3 extra Dwarven research slots: 2 for Craftsmanship and 1 to the faction's facility you are playing.</p>
+<p><b>Note</b>: Required to be bought each Dwarven research run.</p>
+<hr>
+<p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUniqueBuilding.png" alt="Unique building dwarf" align="middle"></p>
 <p>Upgraded from Blacksmiths</p>
 <p>At R28, the Dwarven Blacksmiths building can be upgraded to a Unique Building: Dwarven Forges, which is required for some challenges and research quests.</p>

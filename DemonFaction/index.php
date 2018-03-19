@@ -14,11 +14,11 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Hellfire Blast</p>
 <p><b>Effect</b>: Increases the production of Evil Fortresses and Hell Portals.</p>
-<p><b>Formula</b>: 200 * x ^ 0.8, where x is your Trophies Unlocked stat.
-<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Hell Rush</b>
-<p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.
+<p><b>Formula</b>: 200 * x ^ 0.8, where x is your Trophies Unlocked stat.</p>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Hell Rush</b></p>
+<p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
 <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsTradeTreaty.png" alt="Smiley face" align="middle"> Demon Trade Treaty</b></p>
 <p><b>Cost</b>: 20 Demon Coins</p>
@@ -32,7 +32,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" alt="Smiley face" align="middle"> Evil Conquerors</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
 <p><b>Effect</b>: Increase the production of all other buildings by 1.5% per Evil Fortresses you own.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsFriendshipPact.png" alt="Smiley face" align="middle"> Demon Friendship Pact</b></p>
 <p><b>Cost</b>: 100 Demon Coins</p>
@@ -46,7 +46,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png" alt="Smiley face" align="middle"> Demonic Presence</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Increase the production of the two highest tier buildings by 0.2% for each Building you own.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Demon Alliance</b></p>
 <p><b>Cost</b>: 500 Demons Coins</p>
@@ -62,28 +62,28 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" alt="Smiley face" align="middle"> Very Bad Guys</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Let Blood Frenzy target Hall of Legends and increase the production of Halls of Legends by +0.05% per trophy for each Evil Fortress and Hell Portal you own.</p>
-<p><b>----------------------------------</b></p>
+<hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicHeritage.png" alt="Demonic Heritage" align="middle"><b> Demonic Heritage</b></p>
 <p><b>Cost</b>: 5000 Demon Coins</p>
 <p><b>Requirements</b>: Demon Champion Trophy</p>
-<p><b>Effect</b>: Increase the production of all buildings by 0.3% per Hall of Legends you own.
-<p><b>----------------------------------</b>
-<p><b>Demon Research Requirements</b>
+<p><b>Effect</b>: Increase the production of all buildings by 0.3% per Hall of Legends you own.</p>
+<hr>
+<p><b>Demon Research Requirements</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Realm Quest</b></p>
-<p>Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!
-<p><b>Requirement</b>: R16 + 1500 Hell Portals
+<p>Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!</p>
+<p><b>Requirement</b>: R16 + 1500 Hell Portals</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Realm</b></p>
 <p>Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
-<p><b>Requirements</b>: Buy "Infernal Realm Quest"
-<p><b>Cost</b>: 10 Ttg (1E103)
+<p><b>Requirements</b>: Buy "Infernal Realm Quest"</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrategyRoomFactionUpgrade.png" alt="Smiley face" align="middle"> Strategy Room</b></p>
-<p><b>Effect</b>: Unlocks the Warfare research facility and increases Demon production by 100000%, plus an additional bonus based on Warfare research points.
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.
-<p><b>Requirements</b>: All Demon faction upgrades bought, Infernal Realm.
-<p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Demon coins
-<p><b>Unique Building</b>
+<p><b>Effect</b>: Unlocks the Warfare research facility and increases Demon production by 100000%, plus an additional bonus based on Warfare research points.</p>
+<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
+<p><b>Requirements</b>: All Demon faction upgrades bought, Infernal Realm.</p>
+<p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Demon coins</p>
+<p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Hell Portals</p>
 <p>At R16, the Demon's building Hell Portals can be upgraded to a Unique Building: Infernal Realm, which is required for some challenges and research quests.</p>

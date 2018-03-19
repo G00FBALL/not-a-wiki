@@ -9,10 +9,9 @@
     <br/>
     <p><b>Updated Nov. 28th 2017</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
-    <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
+    <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
-<br/>
-        <p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before starting stage 3 of Dragon Unlocks. </p>
+        <p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before starting stage 3 of Dragon Unlocks.</p>
         <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
 <div class="shlisting">
     <p><b>Production</b></p>
