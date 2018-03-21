@@ -48,7 +48,7 @@
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
     <p><b>Requirement</b>: R100+
     <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.
-    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5) / 10) where x is seconds this game/since lineage bought, y is lineage level and z is reincarnations
+    <p><b>Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5)) / 10) where x is seconds this game/since lineage bought, y is lineage level and z is reincarnations
     <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 if ancient heirloom
     <p><b>Secret Upgrade Cost</b>: 1 Novg (1e90) Emerald Coins
     <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.
@@ -397,7 +397,7 @@
 <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-<p><b>Formula</b>: (x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is online time in seconds and y is offline time in seconds.</p>
+<p><b>Formula</b>: (x + y) ^ 0.65) * (1 / abs(x - y) ^ 0.25), where x is time in seconds and y is offline time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100) Emerald Coins</p>
