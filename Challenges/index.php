@@ -4,10 +4,10 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6>
-<p><b>All challenges need that faction.
-<p>All challenge 2 need that faction and that bloodline.
-<p>All Prestige challenges up to and including challenge 3 will tell you what base faction to use but it also needs that faction.
-<p>All other Prestige challenges still need that faction to complete.</b>
+<p><b>All challenges need that faction.</p>
+<p>All challenge 2 need that faction and that bloodline.</p>
+<p>All Prestige challenges up to and including challenge 3 will tell you what base faction to use but it also needs that faction.</p>
+<p>All other Prestige challenges still need that faction to complete.</b></p>
 <p><a href="http://musicfamily.org/realm/Fairy/"><b>Fairy</b></a>
 <a href="http://musicfamily.org/realm/Elf/"><b>Elf</b></a>
 <a href="http://musicfamily.org/realm/Angel/"><b>Angel</b></a>
@@ -19,14 +19,14 @@
 <a href="http://musicfamily.org/realm/Faceless/"><b>Faceless</b></a>
 <a href="http://musicfamily.org/realm/Dwarf/"><b>Dwarf</b></a>
 <a href="http://musicfamily.org/realm/Drow/"><b>Drow</b></a>
-<a href="http://musicfamily.org/realm/Dragons/"><b>Dragons</b></a>
-<p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!
-<p>Upon reaching R2, a "Challenge" button will appear on the left leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.
-<p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.
-<p><b>Vanilla Faction challenges</b>: Tier 1 upgrades boost the faction it belongs to. Tier 2 upgrades boosts another Faction. Last Tier upgrades are universal and boost basic perks. Completing all the challenges of a Faction rewards a spell upgrade. The last Tiers and Spell upgrades can be used also with Mercenaries, and their respective Factions, with or without Dwarf or Drow.
-<p><b>Neutral Faction challenges</b>: Tier 1 upgrades boost it's own faction, Tier 2 and Tier 3 upgrades boosts each other Neutral Faction, and Tier 4 upgrades are universal.
-<p><b>Prestige Faction challenges</b>: Tier 1 upgrades boost Dwarven-Angels or Drow-Demons, Tier 2 upgrades boost Dwarven-Fairies or Drow-Goblins, Tier 3 upgrades boost Dwarven-Elves or Drow-Undead, Tier 4 upgrades boost all Dwarven or all Drow, and Tier 5 upgrades are universal.
-<p>Once you have unlocked a challenge, the perks relative to the faction you are playing, being costless, will be turned on by default after the faction's spell upgrade has been purchased. These can be turned on and off by clicking on their respective icon In the Challenge window.
+<a href="http://musicfamily.org/realm/Dragons/"><b>Dragons</b></a></p>
+<p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!</p>
+<p>Upon reaching R2, a "Challenge" button will appear on the left leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.</p>
+<p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.</p>
+<p><b>Vanilla Faction challenges</b>: Tier 1 upgrades boost the faction it belongs to. Tier 2 upgrades boosts another Faction. Last Tier upgrades are universal and boost basic perks. Completing all the challenges of a Faction rewards a spell upgrade. The last Tiers and Spell upgrades can be used also with Mercenaries, and their respective Factions, with or without Dwarf or Drow.</p>
+<p><b>Neutral Faction challenges</b>: Tier 1 upgrades boost it's own faction, Tier 2 and Tier 3 upgrades boosts each other Neutral Faction, and Tier 4 upgrades are universal.</p>
+<p><b>Prestige Faction challenges</b>: Tier 1 upgrades boost Dwarven-Angels or Drow-Demons, Tier 2 upgrades boost Dwarven-Fairies or Drow-Goblins, Tier 3 upgrades boost Dwarven-Elves or Drow-Undead, Tier 4 upgrades boost all Dwarven or all Drow, and Tier 5 upgrades are universal.</p>
+<p>Once you have unlocked a challenge, the perks relative to the faction you are playing, being costless, will be turned on by default after the faction's spell upgrade has been purchased. These can be turned on and off by clicking on their respective icon In the Challenge window.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AllChallenges.png" usemap="#AllChallenges-map">
 <map name="AllChallenges-map">
     <area target="" research="<b><!--Fairy--!>Spell upgrade challenge reward</b><p><img src=&quot;http://musicfamily.org/realm/Factions/picks/FairyOrchestraFinalReward.png&quot; align=&quot;middle&quot;> <b>Fairy Orchestra</b><p><b>Effect</b>: Each assistant generates 3 times as many faction coins while Fairy Chanting is active." coords="4,48,63,100" shape="rect">
