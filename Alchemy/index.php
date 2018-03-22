@@ -18,7 +18,7 @@
 <p><b>Requirement</b>: 2250 Goblin Banks</p>
 <p><b>Cost</b>: 28.83 Uqag (2.883E127)</p>
 <p><b>Effect</b>: Increase the production of all other buildings by 85% per Goblin Bank you own.</p>
-<br/><br/>
+<br/>
 <p><b>A25</b> - <b>For Demon</b> - <b>Research Name</b>: Deflagration</p>
 <p><b>Requirement</b>: 666 Hellfire Blasts (Total this R)</p>
 <p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
@@ -128,7 +128,7 @@
 <p><b>Cost</b>: 13.66 QaSxg (1.366E196)</p>
 <p><b>Effect</b>: You get your faction's Bloodline effect for free. Bloodstream counts time spent with both factions.</p>
 <b>NOTE</b>: Does not work with two Bloodlines of the same type.</p>
-<br/>
+<p><br/>
 <p><b>A410</b> - <b>For Drow</b> - <b>Research Name</b>: Poisons</p>
 <p><b>Requirement</b>: 4000 Sanctuaries</p>
 <p><b>Cost</b>: 787.7 QaSxg (7.877E197)</p>
