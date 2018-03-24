@@ -7,10 +7,9 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Feb. 22, 2017</b>
+    <p><b>Updated Mar. 24, 2018</b></p>
         <p>All builds come from the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
-    <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
-<br/>
+    <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
@@ -57,7 +56,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: 1e36 (1 Ud) gems - 1e43 (10 Td) gems
+                    <p><b>Range</b>: 1e36 (1 Ud) gems - 1e44 (100 Td) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Requirements</b>: Goblin Set Artifact
                     <p><b>Faction</b>: Druid
@@ -77,7 +76,7 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
         <div class="autohide">
                 <p><b>Author</b>: ensteffahn
-                <p><b>Range</b>: 1e38 (100 Ud) gems - ? gems
+                <p><b>Range</b>: 1e42 (1 Td) gems - ? gems
                 <p><b>Alignment</b>: Good, Proof of Order
                 <p><b>Requirements</b>: Goblin Set Artifact
                 <p><b>Faction</b>: Angels
@@ -149,39 +148,60 @@
                 <p><b>Bloodline</b>: Drow
                 <p><b>Template</b>
                 <p>S3200,
-                <p>C300,C400,
+                <p>C300,C1325,
                 <p>D275,D3350,
                 <p>E250,E260,
                 <p>A251,A375,A400,
                 <p>W350,W1375
                 <p><b>Notes</b>: Estimated time of 1 day to get GB11. (highly varies with gifts).
                 <p><b>Notes</b>: Replace E250 with E1325 if you have all 3 gifts and are going for just GB11.
-                <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/high Drow Lineage level.
-                </div>
-           </div>
-                   <div class="shelementwhole">
-                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Day of the Dead (Multi Purpose Build)<font color="DarkRed"> Evil</font></a></b></p>
-                       <div class="autohide">
-                               <p><b>Notes</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
-                               <p><b>Author</b>: Artcrow
-                               <p><b>Range</b>: ? Gems
-                               <p><b>Requirments</b>: Undead Set Artifact
-                               <p><b>Alignment</b>: Evil, Proof of Order
-                               <p><b>Faction</b>: Undead
-                               <p><b>Bloodline</b>: Drow
-                               <p><b>Template</b>
-                               <p>S225,S3200,
-                               <p>C400,
-                               <p>D25,D3350,
-                               <p>E10,E135,
-                               <p>A1,A120,A175,
-                               <p>W50,W205
-                               <p><b>Notes</b>: Estimated time of ? to get Mana Spring (2-3 months at Drow L25 and no gifts)
-                               <p><b>Notes</b>: Estimated time of ? to get Drow Lineage level 30 (Requires Ancestal Hourglas and R115+)
-                               <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/high (L30+) Drow Lineage level and for long runs (3 days+).
-                               <p><b>Notes</b>: Use this build for W275 buffing instead of the regular W275 builds if you have at least 2 gifts/high (L30+) Drow Lineage level.
-                               </div>
-                          </div>
+                <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts or high Drow Lineage level.
+        </div>
+   </div>
+   <div class="shelementwhole">
+       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Day of the Dead (Multi Purpose Build)<font color="DarkRed"> Evil</font></a></b></p>
+       <div class="autohide">
+               <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
+               <p><b>Author</b>: Artcrow
+               <p><b>Range</b>: ? Gems
+               <p><b>Requirments</b>: Undead Set Artifact
+               <p><b>Alignment</b>: Evil, Proof of Order
+               <p><b>Faction</b>: Undead
+               <p><b>Bloodline</b>: Drow
+               <p><b>Template</b>
+               <p>S225,S3200,
+               <p>C400,
+               <p>D25,D3350,
+               <p>E10,E135,
+               <p>A1,A120,A175,
+               <p>W50,W205
+               <p><b>Notes</b>: Estimated time of 20 days to get Mana Spring (At Drow L25 and no gifts)
+               <p><b>Notes</b>: Estimated time of 1 month to get Drow Lineage level 30 (Requires Ancestral Hourglass, E45 (1 Qad) gems+, R113+)
+               <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/high (L30+) Drow Lineage level and for long runs (3 days+).
+               <p><b>Notes</b>: Use this build for W275 buffing instead of the regular W275 builds if you have at least 2 gifts/high (L30+) Drow Lineage level.
+        </div>
+    </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonborn (Dragon L30 Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+               <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
+               <p><b>Author</b>: Artcrow
+               <p><b>Range</b>: ? Gems
+               <p><b>Requirments</b>: Angel Set Artifact, Drow Lineage Level 30
+               <p><b>Alignment</b>: Chaos, Proof of Chaos
+               <p><b>Faction</b>: Faceless
+               <p><b>Bloodline</b>: Dragon
+               <p><b>Template</b>
+               <p>S50,S400,
+               <p>C175,C400,
+               <p>D200,
+               <p>E1,E225,E320,
+               <p>A10,A120,
+               <p>W50,W205
+               <p><b>Notes</b>: S400 and W275 buffing recommended.
+               <p><b>Notes</b>: Estimated time for Dragon lineage L30 is ?
+        </div>
+      </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
@@ -561,9 +581,28 @@
                     <p>E25,E290,
                     <p>A120,
                     <p>W10,W1375
-                    <p><b>Notes</b>: Estimated 7 days for SS7. Great for up to 3 excavation resets (4 with e45 (1 Qad) gems).
+                    <p><b>Notes</b>: Estimated 3 days for SS7. Great for up to 2 excavation resets (3 with e45 (1 Qad) gems).
          </div>
      </div>
+            <div class="shelementwhole">
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Druids (Excavation Reset)<font color="Blue"> Good</font></a></b></p>
+               <div class="autohide">
+                    <p><b>Author</b>: Ensteffahn
+                    <p><b>Range</b>: e42 (1 Td) gems+
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
+                    <p><b>Faction</b>: Druids
+                    <p><b>Bloodline</b>: Angel
+                    <p><b>Artifact Set</b>: Elf (If buffed) -> Demon (If avaliable)
+                    <p><b>Template</b>
+                    <p>S400,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>E260,E290,
+                    <p>A120,A251,A375,
+                    <p>W350,W400
+                    <p><b>Notes</b>: Intended for grabbing excavation resets when Undeadline build is insufficient, but Dragonline build seems unnecessary.
+         </div>
+      </div>
    </div>
                                          <br/>
             <div class="category">
