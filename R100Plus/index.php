@@ -585,7 +585,7 @@
          </div>
      </div>
             <div class="shelementwhole">
-               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Druids (Excavation Reset)<font color="Blue"> Good</font></a></b></p>
+               <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Druids (Excavation Reset)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                <div class="autohide">
                     <p><b>Author</b>: Ensteffahn
                     <p><b>Range</b>: e42 (1 Td) gems+
