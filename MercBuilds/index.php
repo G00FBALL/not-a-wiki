@@ -25,6 +25,23 @@
             </div>
         </div>
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Evil
+                <p><b>Bloodline</b>: Elven/Titan
+                <p><b>Requirement</b>: Helden Sterben Nicht, Mana Matrix, Rule dis, Unlimited Mana. Power Orb artifact helpful.
+                <p><b>Template</b>: Titan Bloodline
+                <p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN7,DN8,DW5,
+                <p>SP:Fairy Chanting,SP:Grand Balance
+                <p><b>Template</b>: Elven Bloodline
+                <p>EL7,GB1,UD5,UD7,DM3,TT6,DD1,DD6,DN3,DN7,DN8,DW5,
+                <p>SP:Fairy Chanting,SP:Grand Balance
+                <p><b>Instructions</b>: Don't cast Blood Frenzy.</p>
+                <p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
+                <p><b>Note</b>: Autocast should be fine with R18 challenges. Or with Mana Waste. But Tricaster is supposed to be a short 2-minute rush build.
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brutal Diamond Smithing Machine R7+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
