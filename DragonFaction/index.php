@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DragonTopPage.png" alt="Spellcraft" align="middle"></h6></a>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
-<p><b>In-game description</b</p>
+<p><b>In-game description</b></p>
 <p>The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.</p>
 <p>The Dragon Faction appears in addition to a Neutral faction, this enables the player to use all the 2 faction spells and 18 upgrades from both the Neutral and Dragon factions.</p>
 <p>The Dragon faction cannot be combined with Good or Evil Factions.</p>
