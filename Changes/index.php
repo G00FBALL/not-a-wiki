@@ -5,6 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
 <h6>Release date, March 26, 2018</h6>
+<h6>v3.1.1</h6>
 <hr>
 <p><b>New Easter Feat</b>: With new reward</p>
 <hr>
