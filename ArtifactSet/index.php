@@ -47,7 +47,8 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png" align="middle"><b> Raw Emerald</b></p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Elf</p>
-    <p><b>Chance</b>: ((2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+    <p><b>Chance</b>: ((2 * x ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+    <p><b>Chance</b>: 1 in 500k for 1 reset, 1 in 22097 for 2 resets, 1 in 3564 for 3 resets
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelSet.png" align="middle"><b> Angel Set</b></p>
     <p><b>Requirement</b>: A2+</p>
@@ -99,7 +100,7 @@
     <p><b>Artifacts Required</b>: Rotten Organ, JawBone, DustyCoffin</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
-    <p><b>Formula</b>: (45 * x ^ 0.6), where x is offline Multiplier.</p>
+    <p><b>Formula</b>: 35 * log(1 + x) ^ 3.25, where x is offline Multiplier.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RottenOrgan.png" alt="Artifacts" align="middle"><b> Rotten Organ</b></p>
     <p><b>Description</b>: Ew... disgusting. It still pulses.</p>
@@ -114,8 +115,8 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> Dusty Coffin</b></p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Undead</p>
-    <p><b>Chance</b>: ((1 / (30 + x ^ 1.75))%, where x is time this game in seconds.</p>
-    <p><b>Chance</b>: 1 in 3000 in 0 seconds 1 in 132349 at 60 seconds. 1 in 438078 at 120 seconds.</p>
+    <p><b>Chance</b>: ((1 / (30 + x ^ 1.5))%, where x is time this game in seconds.</p>
+    <p><b>Chance</b>: 1 in 3000 in 0 seconds 1 in 49475 at 60 seconds. 1 in 134453 at 120 seconds.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonSet.png" align="middle"><b> Demon Set</b></p>
     <p><b>Requirement</b>: A2+</p>

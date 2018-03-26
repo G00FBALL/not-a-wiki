@@ -4,6 +4,20 @@
 <?php include "../scripts/header.html"; ?>
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
+  <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1.1 March 25th, 2018</a></b></p>
+      <div class="autohide">
+              <p><b>Global Reminder</b>: The Easter Event will be starting on Mar 30th 2018, 12.01 PM UTC and will end on Apr 6th 2018, 6.59 PM UTC.</p>
+              <p><b>Note 1</b>: Due to the latest change in assistant handling, Titan Challenge 1 and similar effects were suffering from rounding errors. This should have been fixed.</p>
+              <p><b>Grand Champion</b>: Grand Champion trophies were incorrectly requiring 4 lineage perks since last patch. Fixed.
+              <p><b>Undead Set</b>: Undead Set formula is now logarithmic, resulting in a stronger effect but with lower scaling. Values match at around 1e6 Offline Bonus.</p>
+              <p>Spell Tier 7 upgrades Offline Bonus ascension penalty reduced.</p>
+              <p>Elven and Undead Set requirements made easier.</p>
+              <p>Ancestral Hourglass lineage level counts more against cost reduction.</p>
+              <p>Faction upgrades 11 and 12 cost reduced.</p>
+              <p>Added hints for all Lore Artifacts requirements.</p>
+      </div>
+  </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1 February 5th, 2018</a></b></p>
         <div class="autohide">
@@ -43,7 +57,7 @@
                 <p>New upgrade introduced, based on an old artifact. </p>
                 <p>Alchemy 545 (Mineralogy) reworked: now increases mana regen based on Gems you own instead of its previous effect.</p>
                 <p>Fixed an issue with Spellcraft 215 (Projection), Craftsmanship 300 (Weighting) and Mabinogion causing them to have an unintended effect.</p>
-                <p>Sun Force: assistants scaling reduced. Sun Force: Production and Sun Force: Offline Bonus scaling increased in higher ascensions. 
+                <p>Sun Force: assistants scaling reduced. Sun Force: Production and Sun Force: Offline Bonus scaling increased in higher ascensions.
                 <p> Dragon Challenge 1 bonus to titan upgrades scaling reduced.</p>
                 <p>Typos and bugfixes.</p>
         </div>
@@ -59,7 +73,7 @@
                 <p>Elven Luck now generates Faction Coins based on reincarnations made.</p>
                 <p>Demon Perk 2 had an incorrect unlock formula. It now counts only this reincarnation stats rather than all time.</p>
                 <p>Vampire now gives the effect of the bloodlines of the factions outside your alignment.</p>
-                <p>Other halloween monsters had some balance tweaks too. 
+                <p>Other halloween monsters had some balance tweaks too.
                 <p>S270 (Runecarving) formula fixed - was incorrectly set as post-A1.</p>
                 <p>Holy Site and Burning Abyss requirements increased.</p>
 
@@ -181,7 +195,7 @@
                 <p><strong>Reincarnation 45 Power</strong>: scaling increased.</p>
                 <p><strong>Demonic Figurine</strong>: requirement changed.</p>
                 <p><strong>Infernal Realm</strong>: effect increased.</p>
-                <p><strong>Sun Force</strong>: assistant bonus for Ascension 2 removed. FC Chance bonus changed to a multiplier.</p>           
+                <p><strong>Sun Force</strong>: assistant bonus for Ascension 2 removed. FC Chance bonus changed to a multiplier.</p>
                 <p>A lot of building count requirements have been reduced, including Dragon Challenge 1-4-6, Iron Rush and mercenary researches.</p>
                 <p>All Mercenary Unique Building bonuses scaling decreased.</p>
                 <p>Faction Bonus in the Royal Exchange panel replaced with Individual Bonus for Ascension 1 and higher.</p>
