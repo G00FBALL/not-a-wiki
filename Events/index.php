@@ -10,10 +10,10 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b>
        </p>
 <p>
-<b>Event starts in
+<b>Easter Event starts in
 <p id="start">
-<!--<script>
-var countDownDate1 = new Date("Feb 12, 2018 13:01:00 UTC").getTime();
+<script>
+var countDownDate1 = new Date("Mar 30, 2018 12:01:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate1 - now;
@@ -24,12 +24,12 @@ var x = setInterval(function() {
     document.getElementById("start").innerHTML = days + "d " + hours + "h "
     + minutes + "m " + seconds + "s ";
     }, 1000);
-</script>--!>
+</script>
 <p>
-Event ends in
+Easter Event ends in
 <p id="end"></p>
 <script>
-var countDownDate2 = new Date("Feb 16, 2018 19:59:00 UTC").getTime();
+var countDownDate2 = new Date("April 6, 2018 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -195,7 +195,7 @@ var x = setInterval(function() {
                 <p>2 hearts/sec for 1000 seconds of active time for CtL (16 min, 40 sec) (Total all Rs)
                 <p>3 hearts/sec for 100000 seconds of active time for CtL (27 hours, 47 min) ((Total all Rs)
                 <p><b>Formula</b>:1 + 0.5 * floor(log(x))
-                <p><b>----------------------------------</b>
+                <hr>
                 <p><b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts Upgrades</b></p>
                 <p>Every 100 Heart Upgrades purchased will give 1 free Ruby.
                 <p><b>Kind</b>: Upgrade
@@ -207,7 +207,7 @@ var x = setInterval(function() {
                 <p><b>Gem Bonus</b>: Increases by 0.50 with each Upgrade.
                 <p><b>Exchange Bonus</b>: Increases by 1.50 with each Upgrade.
                 <p><b>Note</b>: All Heart Upgrades will be like Ruby Upgrades for the duration of Event.
-                <p><b>------------------------------</b></p>
+                <hr>
                 <h6>Quest</h6>
                 <p><b>Note</b>: Buy 50 Heart Upgrades of each to complete Quest
                 <br/>
@@ -221,7 +221,7 @@ var x = setInterval(function() {
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="" align="middle"> Feel the Love 3</b></p>
                 <p><b>Cost</b>: 250 Heart Upgrades
                 <p><b>Effect</b>: Increases total Event bonus by 2%.
-                <p><b>----------------------------------</b>
+                <hr>
                 <h6>Feats</h6>
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="" align="middle"> Call to Love</b></p>
                 <p><b>Cost</b>: Purchase 250 Heart Upgrades
@@ -231,7 +231,7 @@ var x = setInterval(function() {
                 <p><b><img src="/realm/Factions/picks/AssistantLove2018.png" alt="" align="middle"> Assistant Love</b></p>
                 <p><b>Cost</b>: Reach 50 Assistants from Heart Upgrades.
                 <p><b>Reward</b>: Adds  a button in the top left cornor of Event window to change the mana to be either blue or red.
-                <p><b>----------------------------------</b>
+                <hr>
                 <h6>Shop</h6>
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> 15000 Hearts</b></p>
                 <p><b>Effect</b>: A Love Machine will produce 15000 Hearts for 5 Rubies. It will offer you a new deal if you accept.
@@ -241,10 +241,9 @@ var x = setInterval(function() {
                 <p><b>Effect</b>: A Love Machine will produce 175000 Hearts for 45 Rubies. It will offer you a new deal if you accept.
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="Avalanche" align="middle"> 400000 Hearts</b></p>
                 <p><b>Effect</b>: A Love Machine will produce 400000 Hearts for 100 Rubies. It will run out of power after you use this last time.
-                <p><b>----------------------------------</b>
+                <hr>
                 <p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" alt="Avalanche" align="middle"> Scrying</b></p>
                 <p><b>Effect</b>: Produces 1 heart every 5 seconds for 4 hours.
-                <p><b>----------------------------------</b>
                 </div>
             </div>
         </div>
@@ -1690,8 +1689,3 @@ var x = setInterval(function() {
     <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder forum</a> at Kongregate.com. A copy of these announcements can be found below.
     <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-sep-28th-2016">REALM GRINDER Developers' Diary</a></b></p>
         <?php include "../scripts/footer.html"; ?>
-
-
-
-
-
