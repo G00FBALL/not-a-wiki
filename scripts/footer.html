@@ -161,7 +161,7 @@
 </style>
 <script>
 function myFunction(e) {
-  var copyText = e.next();
+  var copyText = e.nextElementSibling();
   if (isOS()) {
         var editable = copyText.contentEditable;
         var readOnly = copyText.readOnly;
