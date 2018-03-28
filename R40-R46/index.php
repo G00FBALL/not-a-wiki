@@ -84,15 +84,8 @@
                 <p><b>Range</b>: e30 (1 No) gems+
                 <p><b>Faction</b>: Fairy/Dwarf
                 <p><b>Bloodline</b>: Druid
-                  <div class="whatever">
-                      <input type="text" value="S150,S180,S215,S330,S400,S590,C80,C135,C150,C330,C340,C400,C460,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build">
-                      <span class="buildexpander"></span>
-                  </div>
-
-
-
-
-
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S150,S180,S215,S330,S400,S590,C80,C135,C150,C330,C340,C400,C460,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build">
                 <p>S150,S180,S215,S330,S400,S590,
                 <p>C80,C135,C150,C330,C340,C400,C460,
                 <p>D55,D200,D245,D290,D320,
