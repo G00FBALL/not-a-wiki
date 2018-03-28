@@ -164,19 +164,15 @@ function myFunction(e) {
   var copyText = e.next();
   if (isOS()) {
         range = document.createRange();
-        range.selectNodeContents(textArea);
+        range.selectNodeContents(copyText);
         selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range);
-        textArea.setSelectionRange(0, 999999);
+        copyText.setSelectionRange(0, 999999);
     } else {
-        textArea.select();
+        copyText.select();
     }
   document.execCommand("Copy");
- }
- function isOS() {
-    return navigator.userAgent.match(/ipad|iphone/i);
-}
-</script> <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3200435&c=9601618" alt="AmazingCounters.com"></a></div>
+} </script><div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3200435&c=9601618" alt="AmazingCounters.com"></a></div>
 </body>
 </html>
