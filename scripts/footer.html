@@ -163,12 +163,18 @@
 function myFunction(e) {
   var copyText = e.next();
   if (isOS()) {
+        var editable = copyText.contentEditable;
+        var readOnly = copyText.readOnly;
+        copyText.contentEditable = true;
+        copyText.readOnly = false;
         range = document.createRange();
         range.selectNodeContents(copyText);
         selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range);
         copyText.setSelectionRange(0, 999999);
+        copyText.contentEditable = editable;
+        copyText.readOnly = readOnly;
     } else {
         copyText.select();
     }
