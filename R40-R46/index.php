@@ -23,6 +23,8 @@
                 <p><b>Range</b>: 0 - ?
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A250,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
                 <p>S135,S150,S270,S330,S500,
                 <p>C150,C251,C330,C340,C375,C400,
                 <p>D55,D200,D245,D290,D320,
@@ -39,6 +41,8 @@
                 <p><b>Range</b>: ? gems - ?
                 <p><b>Faction</b>: Elf/Dwarf
                 <p><b>Bloodline</b>: Druid
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S150,S175,S215,S330,S500,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build">
                 <p>S150,S175,S215,S330,S500,
                 <p>C80,C150,C225,C330,C340,C400,C460,C590,
                 <p>D55,D200,D245,D290,D320,
@@ -63,6 +67,8 @@
                 <p><b>Range</b>: ? gems
                 <p><b>Faction</b>: Good Mercenary
                 <p><b>Bloodline</b>: Druid
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
                 <p>FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,
                 <p>SP:Fairy Chanting,SP:Hellfire Blast
                 <p><b>Notes</b>: 20 million spells cast in 12 hours. S400=12500.
@@ -78,6 +84,8 @@
                 <p><b>Range</b>: e30 (1 No) gems+
                 <p><b>Faction</b>: Fairy/Dwarf
                 <p><b>Bloodline</b>: Druid
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S150,S180,S215,S330,S400,S590,C80,C135,C150,C330,C340,C400,C460,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build">
                 <p>S150,S180,S215,S330,S400,S590,
                 <p>C80,C135,C150,C330,C340,C400,C460,
                 <p>D55,D200,D245,D290,D320,
