@@ -195,8 +195,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
 <p><b>Cost</b>: 10 Spvg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
-<p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (All time)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is time spent affiliated with Fairies. (All time)</p>
+<p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (This R)</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is time spent affiliated with Fairies. (This R)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
 <p><b>Cost</b>: 10 Dtg (1e95) Emerald Coins</p>

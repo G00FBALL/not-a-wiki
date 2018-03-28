@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DruidTopPage.png"></h6></a>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Druid.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
-<p><b>In-game description</b>
+<p><b>In-game description</b></p>
 <p>The wise druids of old were a group of people from all races who strove to maintain world balance with mystical discipline and powerful magic.</p>
 <p>Affiliating yourself with the Druids faction will boost your magic capabilities and reward balancing of all things.</p>
 <p>The Druids feature a powerful Heritage that increases maximum mana, and their final Challenge reward extends their spell to affect more buildings.</p>
@@ -17,7 +17,7 @@
 <p><b>Effect</b>: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.</p>
 <p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
 <hr>
-<p><b>Unlock Requirements</b>:
+<p><b>Unlock Requirements</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedPieceofBark1FactionUpgrade.png" align="middle"><b> Fossilized Piece of Bark 1</b></p>
 <p><b>Type</b>: Quest Artifact</p>
 <p><b>Unlock</b>: Have at least 1B (1E9) gems in the abdication treasury, 10 Excavations</p>

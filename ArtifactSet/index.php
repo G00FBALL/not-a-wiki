@@ -48,7 +48,7 @@
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Elf</p>
     <p><b>Chance</b>: ((2 * x ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
-    <p><b>Chance</b>: 1 in 500k for 1 reset, 1 in 22097 for 2 resets, 1 in 3564 for 3 resets
+    <p><b>Chance</b>: 1 in 44194 for 1 reset, 1 in 1954 for 2 resets, 1 in 316 for 3 resets.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelSet.png" align="middle"><b> Angel Set</b></p>
     <p><b>Requirement</b>: A2+</p>
