@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Nov. 28th 2017</b>
+    <p><b>Updated March 28th 2018</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -21,7 +21,8 @@
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S200,S270,S330,S500,C150,C250,C330,C340,C400,C460,D55,D150,D200,D245,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W120,W150,W180,W260,W330,W400" id="Build">
                 <p>S105,S200,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D320,
@@ -38,7 +39,8 @@
                 <p><b>Range</b>: 1e30 (1 No) - 1e80 (100 QiVg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D245,D260,D320,D1125,D1275,D1375,
@@ -57,7 +59,8 @@
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D245,D250,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
                 <p>S105,S200,S215,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
@@ -74,7 +77,8 @@
                 <p><b>Range</b>: 1e30 (1 No) - 1e90 (1 NoVg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D245,D260,D320,D1125,D1275,D1375,
@@ -96,7 +100,8 @@
                 <p><b>Range</b>: 1e51 (1 Sxd) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S375,S400,S500,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D250,D290,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A120,A305,A400,A545,A1325,W150,W180,W250,W400,W1375" id="Build">
                 <p>S105,S375,S400,S500,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D200,D250,D290,D1125,D1275,D1375,
@@ -114,7 +119,8 @@
                 <p><b>Range</b>: 1e54 (1 Spd) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D245,D260,D320,D1125,D1275,D1375,
@@ -132,7 +138,8 @@
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Dwarf
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E290,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D245,D260,D320,D1125,D1275,D1375,
@@ -151,7 +158,8 @@
                 <p><b>Range</b>: 1e72 (1 TVg) Gems
                 <p><b>Faction</b>: Druid/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,C250,C340,C400,C1300,C1325,D245,D275,D1125,D1275,D1375,E135,E145,E250,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W150,W180,W250,W400,W1375" id="Build">
                 <p>S215,S270,S305,S330,S1450,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D245,D275,D1125,D1275,D1375,
@@ -170,7 +178,8 @@
                 <p><b>Requirements</b>: Fortune Teller Machine, Druid Lineage 5+. Must be done in first run after Reincarnating.
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S300,S330,S400,S500,S545,C135,C150,C250,C330,C375,C400,C460,D55,D200,D245,D250,D290,D320,E145,E250,E275,E320,E330,E480,A105,A120,A150,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
                 <p>S105,S300,S330,S400,S500,S545,
                 <p>C135,C150,C250,C330,C375,C400,C460,
                 <p>D55,D200,D245,D250,D290,D320,
