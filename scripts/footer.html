@@ -165,6 +165,7 @@ function myFunction(e) {
   if (isOS()) {
         var editable = copyText.contentEditable;
         var readOnly = copyText.readOnly;
+        var range = document.createRange();
         copyText.contentEditable = true;
         copyText.readOnly = false;
         range = document.createRange();
