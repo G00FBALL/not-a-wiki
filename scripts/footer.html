@@ -168,7 +168,7 @@ function myFunction(e) {
         copyText.contentEditable = true;
         copyText.readOnly = false;
         var range = document.createRange();
-        range.selectNodeContents(copyText);
+        range.selectNodeContents(copyText[0]);
         var selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range);
