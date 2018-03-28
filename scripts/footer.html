@@ -185,26 +185,6 @@ function myFunction(e) {
  function isOS() {
     return navigator.userAgent.match(/ipad|iphone/i);
 }
-</script>
-<script>
-$('span.buildexpander').each(function() {
-    var strings = $(this).prev()[0].value.split(',');
-    var str = "";
-    var firstChar = '?';
-    for(var i = 0; i < strings.length; i++){
-        if(firstChar != strings[i].charAt(0)){
-            if(firstChar != '?')
-                str = str.concat("</p>");
-            str = str.concat("<p>");
-            firstChar = strings[i].charAt(0);
-        }
-        str = str.concat(strings[i]).concat(',');
-    }
-    str = str.substring(0,str.length - 1).concat("</p>");
-
-    $(this).append(str);
-});
-</script>
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3200435&c=9601618" alt="AmazingCounters.com"></a></div>
+</script><div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3200435&c=9601618" alt="AmazingCounters.com"></a></div>
 </body>
 </html>
