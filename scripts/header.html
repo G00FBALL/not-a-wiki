@@ -110,11 +110,11 @@ $("#query").keypress(function(event) {
     }
 </script>
 <script>
-function myFunction() {
-  var copyText = document.getElementById("Build");
+function myFunction(e) {
+  var copyText = e.next();
   copyText.select();
   document.execCommand("Copy");
-  }
+ }
 </script>
 <noscript><p><img src="//www.musicfamily.org/piwik/piwik.php?idsite=1" style="border:0;" alt=""/></p></noscript>
 <!-- End Piwik Code -->
