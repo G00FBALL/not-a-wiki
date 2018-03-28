@@ -165,12 +165,11 @@ function myFunction(e) {
   if (isOS()) {
         var editable = copyText.contentEditable;
         var readOnly = copyText.readOnly;
-        var range = document.createRange();
         copyText.contentEditable = true;
         copyText.readOnly = false;
-        range = document.createRange();
+        var range = document.createRange();
         range.selectNodeContents(copyText);
-        selection = window.getSelection();
+        var selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range);
         copyText.setSelectionRange(0, 999999);
