@@ -223,6 +223,8 @@ div#images div{
 <p><b>Merc Build</b>
 <p><b>Alingment</b>: Neutral</p>
 <p><b>Bloodline</b>: Druid</p>
+<p><button onclick="myFunction($(this))">Copy Build</button>
+<input type="text" value="FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
 <p>FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
 <p><b>4.8</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead), <b>W50</b>: 2 days evil playtime this R, Use Undead with Druid Bloodline. (After 2 days evil time switch to Demon to unlock W50)</p>
