@@ -162,9 +162,21 @@
 <script>
 function myFunction(e) {
   var copyText = e.next();
-  copyText.select();
+  if (isOS()) {
+        range = document.createRange();
+        range.selectNodeContents(textArea);
+        selection = window.getSelection();
+        selection.removeAllRanges();
+        selection.addRange(range);
+        textArea.setSelectionRange(0, 999999);
+    } else {
+        textArea.select();
+    }
   document.execCommand("Copy");
  }
+ function isOS() {
+    return navigator.userAgent.match(/ipad|iphone/i);
+}
 </script> <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3200435&c=9601618" alt="AmazingCounters.com"></a></div>
 </body>
 </html>
