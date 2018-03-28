@@ -163,18 +163,19 @@
 function myFunction(e) {
   var copyText = e.next();
   if (isOS()) {
-        var editable = copyText.contentEditable;
-        var readOnly = copyText.readOnly;
-        copyText.contentEditable = true;
-        copyText.readOnly = false;
+        var textElement = copyText[0];
+        var editable = textElement.contentEditable;
+        var readOnly = textElement.readOnly;
+        textElement.contentEditable = true;
+        textElement.readOnly = false;
         var range = document.createRange();
-        range.selectNodeContents(copyText[0]);
+        range.selectNodeContents(textElement);
         var selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range);
-        copyText.setSelectionRange(0, 999999);
-        copyText.contentEditable = editable;
-        copyText.readOnly = readOnly;
+        textElement.setSelectionRange(0, 999999);
+        textElement.contentEditable = editable;
+        textElement.readOnly = readOnly;
     } else {
         copyText.select();
     }
