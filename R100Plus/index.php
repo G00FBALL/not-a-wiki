@@ -44,6 +44,10 @@
                     <p><b>Artifact</b>: Druid (if avaliable), Elf (if buffed)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D150,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build"> 45+ minutes
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W400" id="Build"> 3+ hours
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
@@ -67,6 +71,8 @@
                     <p><b>Bloodline</b>: Dragon
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W400" id="Build"> Longer Run
                     <p>S3200,
                     <p>C300,C400,
                     <p>D245,D275,
@@ -88,6 +94,8 @@
                 <p><b>Bloodline</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W400" id="Build"> Longer Run
                 <p>S10,S400,
                 <p>C25,C340,
                 <p>D1,D175,D245,
@@ -156,6 +164,8 @@
                 <p><b>Bloodline</b>: Drow
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S3200,C300,C1325,D275,D3350,E250,E260,A251,A375,A400,W350,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S3200,C300,C1325,D275,D3350,E260,E1325,A251,A375,A400,W350,W1375" id="Build"> 3 gifts, GB11
                 <p>S3200,
                 <p>C300,C1325,
                 <p>D275,D3350,
@@ -243,6 +253,10 @@
                 <p><b>Bloodline</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E320,A10,A120,W25,W205" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S50,S3200,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 1+ day
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S50,S400,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 10+ day
                 <p>S50,S3200,
                 <p>C175,C400,
                 <p>D200,
@@ -488,6 +502,8 @@
                     <p><b>Bloodline</b>: Goblin
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C340,D150,D275,E135,E260,A251,A375,A400,W350,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C400,D150,D275,E135,E260,A251,A375,A400,W350,W1375" id="Build"> T7 spells
                     <p>S3200,
                     <p>C300,C340,
                     <p>D150,D275,
