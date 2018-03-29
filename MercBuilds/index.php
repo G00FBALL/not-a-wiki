@@ -46,7 +46,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Elven
-                <p><b>Template</b>:
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,SP:Diamond Pickaxe,SP:Fairy Chanting" id="Build">
                 <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
                 <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
@@ -60,10 +61,12 @@
                 <p><b>2 builds</b>: Depending on gem count, look below.
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Elf
-                <p><b>Template</b>: 1 Dc (1e33) to 100 Qid (1e50)
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,SP:Grand Balance,SP:Fairy Chanting" id="Build">
                 <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Grand Balance,SP:Fairy Chanting
-                <p><b>Template</b>: 100 Qid (1e50)+, Assistant Legion upgrade
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                 <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
                 <p>SP:Fairy Chanting,SP:Grand Balance
                 <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold.
@@ -81,7 +84,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                <p><b>Template</b>:
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,SP:Lightning Strike,SP:Fairy Chanting" id="Build">
                 <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Lightning Strike,SP:Fairy Chanting
                 <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
@@ -102,7 +106,8 @@
                 <p><b>Author</b>: pseudobyte
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy
-                <p><b>Template</b>:
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,SP:Lightning Strike,SP:Fairy Chanting" id="Build">
                 <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Lightning Strike,SP:Fairy Chanting
                 <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.
@@ -115,7 +120,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                <p><b>Template</b>:
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,SP:Moon Blessing,SP:Fairy Chanting" id="Build">
                 <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,
                 <p>SP:Moon Blessing,SP:Fairy Chanting
                 <p><b>Note</b>: For R3 to R9, requires "some excavations".</p>
