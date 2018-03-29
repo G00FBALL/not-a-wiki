@@ -585,8 +585,8 @@
                     <p><b>Bloodline</b>: Goblin
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C50,C340,D10,D200,E135,E230,A25,A3400,A30,A120,W1,W175,W205" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button> Longer Run
-                      <input type="text" value="S3200,C50,C340,D10,D245,E135,E230,A25,A3400,A30,A120,W1,W175,W205" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C50,C340,D10,D245,E135,E230,A25,A3400,A30,A120,W1,W175,W205" id="Build"> Longer Run
                     <p>S3200,
                     <p>C50,C340,
                     <p>D10,D200,
