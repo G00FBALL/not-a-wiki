@@ -64,6 +64,12 @@
                 <p><b>Range</b>: 1e68 (100 UVg) gems - 1e120 (1 NoTg)(?) gems
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S270,S305,S330,S2875,S3200,C150,C340,C400,C590,C1300,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E350,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S270,S305,S330,S2875,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E350,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build"> C1500 is higher
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S270,S305,S330,S2875,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E480,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build"> E480 is higher
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S270,S305,S330,S2875,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E480,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W3050,W3150" id="Build"> W275 is buffed
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:God's Hand,
                 <p>S215,S270,S305,S330,S2875,S3200,
@@ -90,6 +96,12 @@
                 <p><b>A2950</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:Grand Balance,S215,S270,S305,S330,S2875,S3200,C300,C340,C400,C590,C1300,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E350,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:Grand Balance,S215,S270,S305,S330,S2875,S3200,C300,C340,C590,C1300,C1500,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E350,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build"> C1500 is 150%+
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:Grand Balance,S215,S270,S305,S330,S2875,S3200,C300,C340,C590,C1300,C1500,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E480,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build"> E480 is higher
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:Grand Balance,S215,S270,S305,S330,S2875,S3200,C300,C340,C590,C1300,C1500,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E480,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W3050,W3150" id="Build"> W275 is buffed
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:Grand Balance,
                 <p>S215,S270,S305,S330,S2875,S3200,
@@ -138,6 +150,12 @@
                 <p><b>13th Upgrade</b>: UD7
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> C1500 is 150%+
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E350,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> No Ruby
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D245,D330,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A120,A150,A410,A590,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> S400 is buffed
                 <p>EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,
                 <p>SP:Grand Balance,SP:Brainwave,
                 <p>S50,S305,S375,S400,S1450,S1500,
@@ -210,6 +228,8 @@
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Fairy Chanting,SP:Lightning Strike,S215,S305,S330,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W260,W275,W400,W1375,W3050,W3150" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Fairy Chanting,SP:Lightning Strike,S215,S305,S400,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W260,W275,W400,W1375,W3050,W3150" id="Build"> S400 is buffed
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Fairy Chanting,SP:Lightning Strike,
                     <p>S215,S305,S330,S1450,S1500,S3200,
@@ -232,6 +252,8 @@
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="EL1,EL7,AN5,GB7,TT4,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D275,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1275,W1375,W3050,W3150" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT4,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D275,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1275,W1375,W3050,W3150" id="Build"> S400 is buffed
                     <p>EL1,EL7,AN5,GB7,TT4,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S330,S1450,S1500,S3200,
@@ -275,6 +297,8 @@
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S330,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S400,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build"> S400 is buffed
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S330,S1450,S1500,S3200,
@@ -395,6 +419,8 @@
                     <p><b>13th Upgrade</b>: UD7
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S50,S305,S375,S400,S1500,S3200,C250,C305,C340,C590,C1300,C3000,D25,D200,D245,D275,D330,D1275,E10,E135,E145,E350,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="FC3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S50,S305,S375,S400,S1500,S3200,C250,C305,C340,C590,C1300,C3000,D25,D200,D245,D275,D330,D1275,E10,E135,E145,E350,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150" id="Build"> 1.5+ days
                     <p>EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG4,DG9,
                     <p>SP:God's Hand,SP:Dragon's Breath,
                     <p>S50,S305,S375,S400,S1500,S3200,
@@ -421,6 +447,8 @@
                     <p><b>13th Upgrade</b>: UD7
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG6,DG9,SP:God's Hand,SP:Brainwave,S50,S305,S375,S400,S1500,S3200,C25,C250,C305,C590,C1300,C3100,D25,D200,D245,D275,D330,D1275,E135,E145,E350,E590,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W205,W400,W525,W560,W1400,W3050" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="FC3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG6,DG9,SP:God's Hand,SP:Brainwave,S50,S305,S375,S400,S1500,S3200,C25,C250,C305,C590,C1300,C3100,D25,D200,D245,D275,D330,D1275,E135,E145,E350,E590,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W205,W400,W525,W560,W1400,W3050" id="Build"> 1.5+ days
                     <p>EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG6,DG9,
                     <p>SP:God's Hand,SP:Brainwave,
                     <p>S50,S305,S375,S400,S1500,S3200,
