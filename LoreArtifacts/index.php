@@ -312,7 +312,7 @@
     <p><b>Requirement</b>: R100+
     <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-    <p><b>Chance:</b>: (log10(assistants)/100)%
+    <p><b>Formula</b>: (log(x) / 100)% where x is FC chance.
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
