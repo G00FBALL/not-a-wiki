@@ -41,6 +41,8 @@
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build"> e74 (100 TVg) gems+
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D245,D260,D320,D1125,D1275,D1375,
@@ -61,6 +63,8 @@
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D245,D250,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D245,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
                 <p>S105,S200,S215,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D245,D250,D320,
@@ -79,6 +83,8 @@
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D245,D260,D320,D1125,D1275,D1375,

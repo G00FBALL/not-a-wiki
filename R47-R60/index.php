@@ -94,6 +94,8 @@
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S500,C105,C150,C250,C330,C340,C400,D55,D200,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S500,C105,C150,C250,C330,C340,C400,D55,D200,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> W1275 not unlocked
                 <p>S215,S270,S305,S330,S500,
                 <p>C105,C150,C250,C330,C340,C400,
                 <p>D55,D200,D245,D320,D1275,
@@ -113,6 +115,8 @@
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> W1275 not unlocked
                 <p>S215,S270,S305,S330,S500,
                 <p>C150,C250,C330,C340,C400,C1300,
                 <p>D55,D150,D245,D320,D1275,
@@ -132,6 +136,8 @@
                 <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1275" id="Build"> W1375 not unlocked
                 <p>S215,S270,S305,S330,S500,
                 <p>C150,C250,C330,C340,C400,C1300,
                 <p>D55,D150,D245,D320,D1275,
@@ -151,6 +157,8 @@
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1275" id="Build"> W1375 not unlocked
                 <p>S215,S270,S305,S330,S500,
                 <p>C150,C250,C330,C340,C400,C1300,
                 <p>D55,D150,D245,D320,D1275,
