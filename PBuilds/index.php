@@ -17,6 +17,8 @@
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: 1e113 (100 SxTg) gems - ?</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A330,A400,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -33,6 +35,8 @@
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
                     <p><b>Range</b>: 1e78 (1 QiVg) gems - 1e113 (100 SxTg) gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A250,A330,A400,W10,W120,W150,W320,W330" id="Build">
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -49,6 +53,8 @@
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: 1e113 (100 SxTg) gems - ?</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -67,6 +73,8 @@
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
                     <p><b>Range</b>: 1e80 (100 QiVg) gems - 1e120 (1 NoTg) gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A330,A400,A495,W10,W120,W150,W320,W330" id="Build">
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -87,6 +95,8 @@
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
                     <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A330,A400,A495,W10,W120,W150,W320,W330" id="Build">
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C225,C330,C400,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -104,6 +114,8 @@
                     <p><b>Faction</b>: Elves/Dwarf</p>
                     <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
                     <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C330,C400,C590,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A330,A400,A495,W10,W120,W150,W320,W330" id="Build">
                     <p>S105,S175,S200,S215,S330,</p>
                     <p>C120,C150,C330,C400,C590,</p>
                     <p>D55,D135,D245,D290,D320,</p>
@@ -120,6 +132,8 @@
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: 1e130 (10 DQag) gems - 1e139 (10 QiQag) gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -139,6 +153,8 @@
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: 1e130 (10 DQag) gems - 1e139 (10 QiQag) gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S180,S215,S330,S590,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S215,S330,S590,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -157,6 +173,8 @@
                     <p><b>Faction</b>: Angels/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e138 (1 QiQag) gems - Ascension</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S150,S215,S250,S330,C25,C120,C150,C330,C400,D1,D55,D290,D320,D435,E80,E150,E250,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S215,S250,S330,</p>
                     <p>C25,C120,C150,C330,C400,</p>
                     <p>D1,D55,D290,D320,D435,</p>
@@ -173,6 +191,8 @@
                     <p><b>Faction</b>: Angels/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e138-Ascension</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S150,S215,S250,S330,C25,C120,C150,C330,C400,D1,D55,D320,D435,D590E80,E150,E250,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S215,S250,S330,</p>
                     <p>C25,C120,C150,C330,C400,</p>
                     <p>D1,D55,D320,D435,D590</p>
@@ -191,6 +211,8 @@
                     <p><b>Faction</b>: Goblin</p>
                     <p><b>Bloodline</b>: Titan</p>
                     <p><b>Range</b>: 1e126 gems</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S135,S200,S215,S330,C120,C135,C150,C330,C400,D55,D245,D290,D320,D400,E80,E150,E225,E290,E330,A10,A105,A120,A150,A330,W150,W290,W320,W330,W405" id="Build">
                     <p>S50,S135,S200,S215,S330,</p>
                     <p>C120,C135,C150,C330,C400,</p>
                     <p>D55,D245,D290,D320,D400,</p>

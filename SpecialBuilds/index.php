@@ -21,6 +21,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,SP:Goblin's Greed,SP:Fairy Chanting" id="Build">
                 <p><b>Template</b></p>
                 <p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
                 <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
@@ -44,12 +46,14 @@
                 <p><b>Faceless</b>: (3,1) Magical Treasure</p>
                 <p>by<b> Chat Room #2 (edited by PseudonymousBosh)</b></p>
             </div>
-        </div>            
+        </div>
             <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,SP:Goblin's Greed" id="Build">
                 <p><b>Template</b></p>
                 <p>FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,</p>
                 <p>SP:Goblin's Greed</p>
@@ -79,6 +83,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,SP:Goblin's Greed,SP:Fairy Chanting," id="Build">
                 <p><b>Template</b></p>
                 <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
                 <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
@@ -108,6 +114,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Angel</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build">
                 <p><b>Mercenary Template</b>:</p>
                 <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
                 <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
@@ -158,7 +166,9 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harlequin Tricaster R12+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
-                <p><b>Bloodline</b>: Elf 
+                <p><b>Bloodline</b>: Elf
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                 <p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,
                 <p>SP:Fairy Chanting,SP:Grand Balance
                 <p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.
@@ -179,6 +189,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR1,FR2,FR9,AN3,AN6,UD5,DM7,DM8,DD6,FC5,FC7,DN2,SP:Fairy Chanting,SP:God's Hand" id="Build">
                 <p><b>Mercenary Template</b>:</p>
                 <p>FR1,FR2,FR9,AN3,AN6,UD5,DM7,DM8,DD6,FC5,FC7,DN2,</p>
                 <p>SP:Fairy Chanting,SP:God's Hand</p>
@@ -196,6 +208,8 @@
                 <p><b>Do not buy</b>: Druid Heritage, R Power, Premeditation, Mana Matrix (Do not use the Buy All button)(Put an X in Don't Consolidate Upgrades and Disable Multibuy for Upgrades Series)</p>
                 <p><b>Note</b>: Buy Helden Sterben Nicht and max all buildings and cast Spell.</p>
                 <p><b>Note</b>: If you have research Slots left over buy all mana regen upgrades then faction coin upgrades.</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S10,S105,S150,S200,S305,C25,C80,C105,C250,C400,D1,D135,D150,D250,D290,E30,E80,E135,E145,E250,A50,A105,A120,A270,A305,W120,W150,W180,W250,W290" id="Build">
                 <p>S10,S105,S150,S200,S305,</p>
                 <p>C25,C80,C105,C250,C400,</p>
                 <p>D1,D135,D150,D250,D290,</p>
@@ -214,9 +228,11 @@
                 <p><b>Author</b>: Lapare</p>
                 <p><b>Faction</b>: Undead/Drow</p>
                 <p><b>Bloodline</b>: Druid</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S105,S135,S215,S225,S330,C120,C135,C150,C330,C400,D135,D250,D290,D320,D400,E10,E80,E135,E150,E250,A55,A105,A120,A175,A270,W135,W205,W250,W400,W405" id="Build">
                 <p>S105,S135,S215,S225,S330,</p>
-                <p>C120,C135,C150,C330,C400,</p> 
-                <p>D135,D250,D290,D320,D400,</p> 
+                <p>C120,C135,C150,C330,C400,</p>
+                <p>D135,D250,D290,D320,D400,</p>
                 <p>E10,E80,E135,E150,E250,</p>
                 <p>A55,A105,A120,A175,A270,</p>
                 <p>W135,W205,W250,W400,W405</p>
@@ -229,6 +245,8 @@
                 <p><b>Faction</b>: Goblin/Drow</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Range</b>: 1e126 gems</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S50,S135,S200,S330,S500,C120,C135,C150,C330,C400,D55,D245,D290,D320,D400,E80,E150,E225,E290,E330,A10,A105,A120,A150,A330,W150,W205,W290,W320,W330" id="Build">
                 <p>S50,S135,S200,S330,S500,</p>
                 <p>C120,C135,C150,C330,C400,</p>
                 <p>D55,D245,D290,D320,D400,</p>

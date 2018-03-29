@@ -16,7 +16,8 @@
             <div class="autohide">
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
-                <p><b>Template</b>:
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,SP:Diamond Pickaxe,SP:Fairy Chanting" id="Build">
                 <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
                 <p>SP:Diamond Pickaxe,SP:Fairy Chanting
                 <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
@@ -30,9 +31,13 @@
                 <p><b>Alignment</b>: Evil
                 <p><b>Bloodline</b>: Elven/Titan
                 <p><b>Requirement</b>: Helden Sterben Nicht, Mana Matrix, Rule dis, Unlimited Mana. Power Orb artifact helpful.
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN7,DN8,DW5,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                 <p><b>Template</b>: Titan Bloodline
                 <p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN7,DN8,DW5,
                 <p>SP:Fairy Chanting,SP:Grand Balance
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL7,GB1,UD5,UD7,DM3,TT6,DD1,DD6,DN3,DN7,DN8,DW5,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                 <p><b>Template</b>: Elven Bloodline
                 <p>EL7,GB1,UD5,UD7,DM3,TT6,DD1,DD6,DN3,DN7,DN8,DW5,
                 <p>SP:Fairy Chanting,SP:Grand Balance
@@ -61,10 +66,14 @@
                 <p><b>2 builds</b>: Depending on gem count, look below.
                 <p><b>Alignment</b>: Neutral
                 <p><b>Bloodline</b>: Elf
+                  <hr>
+                <p>1 Dc (1e33) to 100 Qid (1e50)
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,SP:Grand Balance,SP:Fairy Chanting" id="Build">
                 <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Grand Balance,SP:Fairy Chanting
+                  <hr>
+                <p>100 Qid (1e50)+, Assistant Legion upgrade
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                 <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
