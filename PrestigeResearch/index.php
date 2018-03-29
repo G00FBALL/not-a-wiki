@@ -17,7 +17,7 @@
 <p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious energy sources.</p>
 <p><b>Unlocks</b>: Part of the Prestige research quest</p>
 <p><b>Requirements</b>: 2750th Excavation</p>
-<p>----------------------------------</p>
+<hr>
 <p><b>Dwarf</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwravenForgeQuestr.png" alt="Dwarven Forge Quest" align="middle"> Dwarven Forge Quest</p></b>
 <p><b>In-game Description</b></p>
@@ -30,7 +30,7 @@
 <p><b>Formula</b>: 100 * x0.9%, where x is your Mana per Second stat.
 <p><b>Requirement</b>: Dwarven Forge Quest</p>
 <p><b>Cost</b>: 10 USxg (1E187)</p>
-<p>----------------------------------</p>
+<hr>
 <p><b>Drow</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryQuestr.png" alt="Spider Sanctuary Quest" align="middle"> Spider Sanctuary Quest</p></b>
 <p><b>In-game Description</b></p>

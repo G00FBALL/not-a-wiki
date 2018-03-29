@@ -5,7 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
     <p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
-    <p><b>Notice</b> Most of the Lore Artifact information comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/594695"> post</a> by daemonik92
+    <p><b>Notice</b> Most of the Lore Artifact information comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/594695"> post</a> by daemonik92</p>
     <p>There are 54 Lore Artifacts.</p>
     <p><b>Note</b>: <b>Getting <u>Lore Artifacts requires</u></b> the <img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b>Survey Equipment Upgrade</b></p>
     <p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
@@ -13,14 +13,14 @@
     <p><b>Description</b>: A common, totally uninteresting stone.</p>
     <p><b>Rewards</b>: Unlocks Research D290</p>
     <p><b>Requirement</b>: Chance: 2% On the first excavation of a run, after abdication or reincarnation.</p>
-    <p><b>Reward</b>: Unlocks Research D290
+    <p><b>Reward</b>: Unlocks Research D290</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ScarabofFortune.png" alt="Scarab of Fortune" align="middle"><b> Scarab of Fortune</b></p>
     <p><b>Description</b>: You found the rarest of relics. This golden scarab will grant you 7 days of good luck, starting from now. Make good use of it.</p>
     <p><b>Rewards</b>: Awards an upgrade of the same name that increases the production of all buildings by 0.1% for each trophy you unlocked.</p>
     <p><b>Chance</b>: (#Ancient Pyramids)% / 1000.</p>
-    <p><b>Cost</b>: 7 Td (7E42)
-    <p><b>Alignment</b>: Any
+    <p><b>Cost</b>: 7 Td (7E42)</p>
+    <p><b>Alignment</b>: Any</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateCookie.png" alt="Chocolate Cookie" align="middle"><b> Chocolate Cookie</b></p>
     <p><b>Description</b>: Found in a wasteland made of cakes and sweets, snatched from the hands of an old woman.</p>
@@ -30,16 +30,16 @@
     <p><b>Description</b>: What's this, a prehistoric mouse...?</p>
     <p><b>Rewards</b>: Awards an upgrade of the same name that increases click reward by 10% per artifact you discovered.</p>
     <p><b>Chance</b>: (# Treasure clicks this R / 5,000,000) %</p>
-    <p><b>Cost</b>: 100 Qid (1E50)
-    <p><b>Alignment</b>: Any
+    <p><b>Cost</b>: 100 Qid (1E50)</p>
+    <p><b>Alignment</b>: Any</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PowerOrb.png" alt="Power Orb" align="middle"><b> Power Orb</b></p>
     <p><b>Description</b>: Throbbing with Arcane Power</p>
     <p><b>Rewards</b>: Increases mana regeneration by 2.5%.</p>
     <p><b>Requirement</b>: +3000 max mana</p>
     <p><b>Chance</b>: (max mana / 15,000) %</p>
-    <p><b>Cost</b>: 1 QaVg (1E75)
-    <p><b>Alignment</b>: Any
+    <p><b>Cost</b>: 1 QaVg (1E75)</p>
+    <p><b>Alignment</b>: Any</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PinkCarrot.png" alt="Smiley face" align="middle"><b> Pink Carrot</b></p>
     <p><b>Description</b>: The main product of properly nurtured Farms.</p>
@@ -163,13 +163,13 @@
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonFangArtifact.png" alt="Dragon Fang" align="middle"><b> Dragon Fang</b></p>
     <p><b>Description</b>: This huge fang can barely fit in the hands of a Titan.</p>
-    <p><b>Requirement</b>: R50+, play as Dragons
+    <p><b>Requirement</b>: R50+, play as Dragons</p>
     <p><b>Chance</b>: Excavate (# Iron Strongholds / 400,000)%</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonSoulArtifact.png" alt="Dragon Soul" align="middle"><b> Dragon Soul</b></p>
     <p><b>Description</b>: The extracted soul from an ancient dragon, wields the power to end the world in an instant. Also makes a good soup ingredient.</p>
     <p><b>Requirement</b>: R50+, play as Dragons, have 5 different Dragon Breath effects active simultaneously.</p>
-    <p><b>Chance</b>: Excavate (# Dragon Breath casts this game / 200,000)%
+    <p><b>Chance</b>: Excavate (# Dragon Breath casts this game / 200,000)%</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Vanilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
@@ -177,205 +177,205 @@
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
-    <p><b>Cost</b>: 1 coin
-    <p><b>Note</b>: Does not work while offline.
+    <p><b>Cost</b>: 1 coin</p>
+    <p><b>Note</b>: Does not work while offline.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
-    <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.
-    <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
-    <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
-    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game for all Neutral factions.
+    <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.</p>
+    <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade</p>
+    <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice</p>
+    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game for all Neutral factions.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Chance</b>: 10%</p>
-    <p><b>Cost</b>: 1 coin
-    <p><b>Note</b>: Does not work while offline.
+    <p><b>Cost</b>: 1 coin</p>
+    <p><b>Note</b>: Does not work while offline.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy" align="middle"><b> Know Your Enemy, Part I</b></p>
     <p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
-    <p><b>Rewards</b>: Awards an upgrade of the same name that increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)
-    <p><b>Formula</b>: 0.5 * x ^ 0.75, where x is amount of time spent as non-mercenary factions (in seconds).
+    <p><b>Rewards</b>: Awards an upgrade of the same name that increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)</p>
+    <p><b>Formula</b>: 0.5 * x ^ 0.75, where x is amount of time spent as non-mercenary factions (in seconds).</p>
     <p><b>Note</b>: Upgrade can be only used by Mercenaries.</p>
     <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions. R12+</p>
     <p><b>Chance</b>: 10%</p>
-    <p><b>Cost</b>: 100 Vg (1E65)
+    <p><b>Cost</b>: 100 Vg (1E65)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VoodooDoll.png" alt="Voodoo Doll" align="middle"><b> Voodoo Doll</b></p>
     <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p>
     <p><b>Rewards</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p>
     <p><b>Note</b>: Upgrade can be used as any faction.</p>
     <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
-    <p><b>Cost</b>: 20 Qig (2E154)
+    <p><b>Cost</b>: 20 Qig (2E154)</p>
     <p><b>Chance</b>: (number of Witch Conclaves / 10000)%</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragment.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
     <p><b>Rewards</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.
-    <p><b>Requirement</b>: At least 1 Ascension
+    <p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+    <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Chance</b>: 10%</p>
-    <p><b>Cost</b>: 1 M (1E6)
+    <p><b>Cost</b>: 1 M (1E6)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FortuntTellerMachineArtifact.png" alt="FortuntTellerMachine" align="middle"><b> Fortune Teller Machine</b></p>
     <p><b>Requirement</b>: Excavate (Chance 0.1%)</p>
-    <p><b>Alignment</b>: Any (No Faction)
-    <p><b>Upgrade Requirement</b>: R42+
-    <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)
-    <p><b>Cost</b>: 100 No (1e32)
-    <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
+    <p><b>Alignment</b>: Any (No Faction)</p>
+    <p><b>Upgrade Requirement</b>: R42+</p>
+    <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)</p>
+    <p><b>Cost</b>: 100 No (1e32)</p>
+    <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R</p>
 <hr>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random. (Changes every 30 seconds)</p>
-    <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")
-    <p><b>Statement</b>: 2 ("Ride on the wings of justice!")
-    <p><b>Statement</b>: 3 ("Remember to eat healthy meals plenty.")
-    <p><b>Statement</b>: 4 ("Ask again.")
-    <p><b>Statement</b>: 5 ("Hey! We meet again!")
-    <p><b>Statement</b>: 6 ("When life gives you lemons, Reincarnate!")
-    <p><b>Statement</b>: 7 ("The drums of war thunder once again.")
-    <p><b>Statement</b>: 8 ("The greatest risk is not taking one.")
-    <p><b>Statement</b>: 9 ("Protect the world from devastation!")
-    <p><b>Statement</b>: 10 ("Your good nature will bring you unbounded happiness.")
-    <p><b>Statement</b>: 11 ("The black wind howls...")
-    <p><b>Statement</b>: 12 ("If everything\'s a dream, don\'t wake up.")
-    <p><b>Statement</b>: 13 ("A promise is a promise.")
-    <p><b>Statement</b>: 14 ("Be careful of forgetfulness. Your lucky color is... blue?")
-    <p><b>Statement</b>: 15 ("Nothing happens by chance.")
-    <p><b>Statement</b>: 16 ("Not even the greatest realm lasts forever.")
-    <p><b>Statement</b>: 17 ("Time is money, friend.")
-    <p><b>Statement</b>: 18 ("Never say Ni!")
-    <p><b>Statement</b>: 19 ("What is this to you? A game?")
-    <p><b>Statement</b>: 20 ("There's always a bigger fish.")
-    <p><b>Statement</b>: 21 ("Awaken my child, and embrace the glory that is your birthright.")
-    <p><b>Statement</b>: 22 ("Give up now.")
-    <p><b>Statement</b>: 23 ("The wandering soul knows no rest.")
-    <p><b>Statement</b>: 24 (Only appears before R42) ("Better luck after you get the 42.")
-    <p><b>Statement</b>: 24 (Only appears R42+) ("WARNING! Machine Power is unlocked!")
+    <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")</p>
+    <p><b>Statement</b>: 2 ("Ride on the wings of justice!")</p>
+    <p><b>Statement</b>: 3 ("Remember to eat healthy meals plenty.")</p>
+    <p><b>Statement</b>: 4 ("Ask again.")</p>
+    <p><b>Statement</b>: 5 ("Hey! We meet again!")</p>
+    <p><b>Statement</b>: 6 ("When life gives you lemons, Reincarnate!")</p>
+    <p><b>Statement</b>: 7 ("The drums of war thunder once again.")</p>
+    <p><b>Statement</b>: 8 ("The greatest risk is not taking one.")</p>
+    <p><b>Statement</b>: 9 ("Protect the world from devastation!")</p>
+    <p><b>Statement</b>: 10 ("Your good nature will bring you unbounded happiness.")</p>
+    <p><b>Statement</b>: 11 ("The black wind howls...")</p>
+    <p><b>Statement</b>: 12 ("If everything\'s a dream, don\'t wake up.")</p>
+    <p><b>Statement</b>: 13 ("A promise is a promise.")</p>
+    <p><b>Statement</b>: 14 ("Be careful of forgetfulness. Your lucky color is... blue?")</p>
+    <p><b>Statement</b>: 15 ("Nothing happens by chance.")</p>
+    <p><b>Statement</b>: 16 ("Not even the greatest realm lasts forever.")</p>
+    <p><b>Statement</b>: 17 ("Time is money, friend.")</p>
+    <p><b>Statement</b>: 18 ("Never say Ni!")</p>
+    <p><b>Statement</b>: 19 ("What is this to you? A game?")</p>
+    <p><b>Statement</b>: 20 ("There's always a bigger fish.")</p>
+    <p><b>Statement</b>: 21 ("Awaken my child, and embrace the glory that is your birthright.")</p>
+    <p><b>Statement</b>: 22 ("Give up now.")</p>
+    <p><b>Statement</b>: 23 ("The wandering soul knows no rest.")</p>
+    <p><b>Statement</b>: 24 (Only appears before R42) ("Better luck after you get the 42.")</p>
+    <p><b>Statement</b>: 24 (Only appears R42+) ("WARNING! Machine Power is unlocked!")</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
     <p><b>Rewards</b>: With Both the Dawnstone and Duskstone artifact, awards the Sun Force upgrade, which grants different effects based on time of the day.</p>
-    <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Local Time)
+    <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Local Time)</p>
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png" alt="Duskstone" align="middle"><b> Duskstone</b></p>
     <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
     <p><b>Rewards</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day. See details.</p>
-    <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Local Time)
+    <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Local Time)</p>
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
     <h6>Sun Force</h6>
     <p><b>Note</b>: All times are based on <a style="text-decoration: none" class="clock24" id="tz24-1509896147-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
-    <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-    <p><b>Formula</b>: floor(ln(1 + x) ^ 1.35).
+    <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.</p>
+    <p><b>Formula</b>: floor(ln(1 + x) ^ 1.35).</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-    <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
-    <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
+    <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.</p>
+    <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
-    <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-    <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
+    <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>
+    <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
-    <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-    <p><b>Formula</b>: 10 * (x * (A + 1)) ^ 0.85, where x is the number of buildings you own.
+    <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
+    <p><b>Formula</b>: 10 * (x * (A + 1)) ^ 0.85, where x is the number of buildings you own.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
-    <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-    <p><b>Chance</b>: (Total Lineage levels/20)%
-    <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)
-    <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
-    <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
-    <p><b>Cost</b>: 10 Dtg (1e100)
+    <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
+    <p><b>Chance</b>: (Total Lineage levels/20)%</p>
+    <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
+    <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)</p>
+    <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9</p>
+    <p><b>Cost</b>: 10 Dtg (1e100)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part 2" align="middle"><b> Know Your Enemy, Part 2</b></p>
-    <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.
-    <p><b>Requirement</b>: R76, Upgrade from all 12 Factions
-    <p><b>Chance</b>: 5%
-    <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
-    <p><b>Note</b>: Only available to Mercenaries
-    <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).
-    <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
+    <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
+    <p><b>Requirement</b>: R76, Upgrade from all 12 Factions</p>
+    <p><b>Chance</b>: 5%</p>
+    <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
+    <p><b>Note</b>: Only available to Mercenaries</p>
+    <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).</p>
+    <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
-    <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
-    <p><b>Requirement</b>: R90+
-    <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game
-    <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
+    <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.</p>
+    <p><b>Requirement</b>: R90+</p>
+    <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game</p>
+    <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
-    <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
-    <p><b>Requirements</b>: R100+
+    <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
+    <p><b>Requirements</b>: R100+</p>
     <p><b>Chance</b>: 10%</p>
-    <p><b>Effect</b>: Increase the production of all buildings based on their tier.
-    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-    <p><b>Formula</b>: (30000 * (11-x) ^ 3.5)%, where x is building tier.
+    <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
+    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
+    <p><b>Formula</b>: (30000 * (11-x) ^ 3.5)%, where x is building tier.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
-    <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
-    <p><b>Requirement</b>: R100+
-    <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
-    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-    <p><b>Formula</b>: (log(x) / 100)% where x is FC chance.
+    <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
+    <p><b>Requirement</b>: R100+</p>
+    <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.</p>
+    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
+    <p><b>Formula</b>: (log(x) / 100)% where x is FC chance.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
-    <p><b>Description</b>: The silver sands contained within seem to never stop flowing.
-    <p><b>Requirement</b>: R100+
-    <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.
-    <p><b>Formula</b>: (floor(x ^ (1 - 0.01 * ((y ^ 1.01) - z / 5))) / 10), where x is hours this game (reset when upgrading lineage), y is lineage level and z is reincarnations.
-    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).
+    <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
+    <p><b>Requirement</b>: R100+</p>
+    <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.</p>
+    <p><b>Formula</b>: (floor(x ^ (1 - 0.01 * ((y ^ 1.01) - z / 5))) / 10), where x is hours this game (reset when upgrading lineage), y is lineage level and z is reincarnations.</p>
+    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
     <p><b>Secret Upgrade Cost</b>: 1 Novg (1e90) Emerald Coins
-    <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.
+    <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png" align="middle"><b> Silk Cloth</b></p>
-    <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Fairy Set.
-    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).
+    <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Fairy Set.</p>
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png" align="middle"><b> Raw Emerald</b></p>
-    <p><b>Description</b>: Just slightly less precious than a raw Ruby.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Elven Set.
-    <p><b>Chance</b>: ((2 * x ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).
-    <p><b>Note</b>: 1 in 500k for 1 reset, 1 in 22097 for 2 resets, 1 in 3564 for 3 resets
+    <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Elven Set.</p>
+    <p><b>Chance</b>: ((2 * x ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+    <p><b>Note</b>: 1 in 500k for 1 reset, 1 in 22097 for 2 resets, 1 in 3564 for 3 resets</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
-    <p><b>Description</b>: The remains of an Angel fallen to earth.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Angel Set.
-    <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.
+    <p><b>Description</b>: The remains of an Angel fallen to earth.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Angel Set.</p>
+    <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png" align="middle"><b> Spiked Whip</b></p>
-    <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Goblin Set.
-    <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).
+    <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Goblin Set.</p>
+    <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> Dusty Coffin</b></p>
-    <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Undead Set.
-    <p><b>Chance</b>: ((1 / (30 + x ^ 1.5))%, where x is time this game in seconds.
-    <p><b>Note</b>: 1 in 3000 in 0 seconds 1 in 49475 at 60 seconds. 1 in 134453 at 120 seconds
+    <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Undead Set.</p>
+    <p><b>Chance</b>: ((1 / (30 + x ^ 1.5))%, where x is time this game in seconds.</p>
+    <p><b>Note</b>: 1 in 3000 in 0 seconds 1 in 49475 at 60 seconds. 1 in 134453 at 120 seconds</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> Crystallized Lava</b></p>
-    <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Demon Set.
-    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).
+    <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Demon Set.</p>
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
-    <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Titan Set.
-    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges (Royal Exchange count multipliers DO count).
+    <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Titan Set.</p>
+    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges (Royal Exchange count multipliers DO count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png" align="middle"><b> Branch of the Life Tree</b></p>
-    <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Druid Set.
-    <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.
+    <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Druid Set.</p>
+    <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png" align="middle"><b> Nightmare Figment</b></p>
-    <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.
-    <p><b>Requirement</b>: R100+, 3000+ Excavations
-    <p><b>Effect</b>: Unlocks Faceless Set.
-    <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.
+    <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.</p>
+    <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
+    <p><b>Effect</b>: Unlocks Faceless Set.</p>
+    <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.</p>
     <?php include "../scripts/footer.html"; ?>
