@@ -22,6 +22,8 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Druid
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C340,D150,D275,E260,E1425,A250,A251,A375,W350,W1375" id="Build">
                     <p><b>Artifact</b>: Druid (if avaliable)
                     <p>S3200,
                     <p>C300,C340,
@@ -40,6 +42,8 @@
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact</b>: Druid (if avaliable), Elf (if buffed)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C400,D150,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
@@ -61,7 +65,8 @@
                     <p><b>Requirements</b>: Goblin Set Artifact
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                     <p>S3200,
                     <p>C300,C400,
                     <p>D245,D275,
@@ -81,7 +86,8 @@
                 <p><b>Requirements</b>: Goblin Set Artifact
                 <p><b>Faction</b>: Angels
                 <p><b>Bloodline</b>: Dragon
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W1375" id="Build">
                 <p>S10,S400,
                 <p>C25,C340,
                 <p>D1,D175,D245,
@@ -102,7 +108,8 @@
                 <p><b>Requirements</b>: Undead Set Artifact, Drow Lineage Level 30
                 <p><b>Faction</b>: Undead
                 <p><b>Bloodline</b>: Drow
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S225,S3200,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build">
                 <p>S225,S3200,
                 <p>C340,
                 <p>D25,D245,
@@ -127,7 +134,8 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Faceless
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C300,C1325,D200,D275,E260,E320,A251,A375,A400,W350,W1375" id="Build">
                     <p>S400,
                     <p>C300,C1325,
                     <p>D200,D275,
@@ -146,7 +154,8 @@
                 <p><b>Alignment</b>: Neutral, Proof of Balance
                 <p><b>Faction</b>: Druid
                 <p><b>Bloodline</b>: Drow
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S3200,C300,C1325,D275,D3350,E250,E260,A251,A375,A400,W350,W1375" id="Build">
                 <p>S3200,
                 <p>C300,C1325,
                 <p>D275,D3350,
@@ -168,7 +177,8 @@
                <p><b>Alignment</b>: Evil, Proof of Order
                <p><b>Faction</b>: Undead
                <p><b>Bloodline</b>: Drow
-               <p><b>Template</b>
+                 <p><button onclick="myFunction($(this))">Copy Build</button>
+                 <input type="text" value="S225,S3200,C400,D25,D3350,E10,E135,A1,A120,A175,W50,W205" id="Build">
                <p>S225,S3200,
                <p>C400,
                <p>D25,D3350,
@@ -191,7 +201,8 @@
                <p><b>Alignment</b>: Chaos, Proof of Chaos
                <p><b>Faction</b>: Faceless
                <p><b>Bloodline</b>: Dragon
-               <p><b>Template</b>
+                 <p><button onclick="myFunction($(this))">Copy Build</button>
+                 <input type="text" value="S50,S400,C175,C400,D200,E1,E225,E320,A10,A120,W50,W205" id="Build">
                <p>S50,S400,
                <p>C175,C400,
                <p>D200,
@@ -210,7 +221,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E1325,A10,A120,W25,W205" id="Build">
                     <p>S50,S3200,
                     <p>C175,C400,
                     <p>D200,
@@ -229,7 +241,8 @@
                 <p><b>Alignment</b>: Evil, Proof of Balance
                 <p><b>Faction</b>: Goblin
                 <p><b>Bloodline</b>: Dragon
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E320,A10,A120,W25,W205" id="Build">
                 <p>S50,S3200,
                 <p>C175,C400,
                 <p>D200,
@@ -250,7 +263,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Drow
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1275,C50,C400,D10,D150,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
                     <p>S1275,
                     <p>C50,C400,
                     <p>D10,D150,
@@ -269,7 +283,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Drow
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1275,C50,C400,D10,D150,E230,E1325,A25,A120,W1,W175,W205" id="Build">
                     <p>S1275,
                     <p>C50,C400,
                     <p>D10,D150,
@@ -288,7 +303,8 @@
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact</b>: Angel (If avaliable)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C50,C1325,D10,D150,E230,E1325,A25,A120,W1,W175,W205" id="Build">
                     <p>S400,
                     <p>C50,C1325,
                     <p>D10,D150,
@@ -311,7 +327,8 @@
                     <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S105,S180,C10,C400,D150,D225,E50,E1325,A30,A120,W1375" id="Build">
                     <p>S1,S105,S180,
                     <p>C10,C400,
                     <p>D150,D225,
@@ -329,7 +346,8 @@
                     <p><b>Alignment</b>: Good, Proof of Balance
                     <p><b>Faction</b>: Elf
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E320,A3400,W10,W1375" id="Build">
                     <p>S175,S3200,
                     <p>C1,C225,C400,
                     <p>D50,D290,
@@ -348,7 +366,8 @@
                     <p><b>Alignment</b>: Good, Proof of Order
                     <p><b>Faction</b>: Angel
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S3200,C25,C330,D1,D175,D290,E1325,A50,A400,W225,W1375" id="Build">
                     <p>S10,S3200,
                     <p>C25,C330,
                     <p>D1,D175,D290,
@@ -367,7 +386,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S105,C175,C340,D150,E1,E145,E225,A10,A400,W25,W1375" id="Build">
                     <p>S50,S105,
                     <p>C175,C340,
                     <p>D150,
@@ -386,7 +406,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Order
                     <p><b>Faction</b>: Undead
                     <p><b>Bloodline</b>: Drow
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S225,S3200,C400,D25,D3350,E10,E1325,A1,A175,A3400,W50,W205" id="Build">
                     <p>S225,S3200,
                     <p>C400,
                     <p>D25,D3350,
@@ -405,7 +426,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
                     <p>S400,
                     <p>C50,C3100,
                     <p>D10,D200,
@@ -426,7 +448,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Drow
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C50,C400,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
                     <p>S3200,
                     <p>C50,C400,
                     <p>D10,D200,
@@ -444,7 +467,8 @@
                     <p><b>Alignment</b>: Neutral, Proof of Order
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S3200,C251,C375,C400,D200,D350,E275,E1325,A3400,W260,W1375" id="Build">
                     <p>S300,S3200,
                     <p>C251,C375,C400,
                     <p>D200,D350,
@@ -462,7 +486,8 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C340,D150,D275,E135,E260,A251,A375,A400,W350,W1375" id="Build">
                     <p>S3200,
                     <p>C300,C340,
                     <p>D150,D275,
@@ -481,7 +506,8 @@
                     <p><b>Alignment</b>: Neutral, Proof of Chaos
                     <p><b>Faction</b>: Druid (see note)
                     <p><b>Bloodline</b>: Druid
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C300,C340,D150,D275,E260,E290,A250,A251,A375,W350,W1375" id="Build">
                     <p>S3200,
                     <p>C300,C340,
                     <p>D150,D275,
@@ -503,7 +529,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S3200,C175,C400,D200,E1,E135,E225,A10,A400,W25,W205" id="Build">
                     <p>S50,S3200,
                     <p>C175,C400,
                     <p>D200,
@@ -520,7 +547,8 @@
                     <p><b>Alignment</b>: Neutral, Proof of Order
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Dragon
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S3200,C251,C375,C400,D200,D350,E275,E1325,A3400,W260,W1375" id="Build">
                     <p>S300,S3200,
                     <p>C251,C375,C400,
                     <p>D200,D350,
@@ -537,7 +565,8 @@
                     <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S180,S3200,C10,C340,D200,D225,E50,E135,A30,A120,W1375" id="Build">
                     <p>S1,S180,S3200,
                     <p>C10,C340,
                     <p>D200,D225,
@@ -554,7 +583,8 @@
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C50,C340,D10,D200,E135,E230,A25,A3400,A30,A120,W1,W175,W205" id="Build">
                     <p>S3200,
                     <p>C50,C340,
                     <p>D10,D200,
@@ -574,7 +604,8 @@
                     <p><b>Faction</b>: Elf
                     <p><b>Bloodline</b>: Faceless
                     <p><b>Requirement</b>: Goblin Set Artifact
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D245,E25,E290,A120,W10,W1375" id="Build">
                     <p>S175,S3200,
                     <p>C1,C225,C400,
                     <p>D50,D245,
@@ -593,7 +624,8 @@
                     <p><b>Faction</b>: Druids
                     <p><b>Bloodline</b>: Angel
                     <p><b>Artifact Set</b>: Elf (If buffed) -> Demon (If avaliable)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C300,C340,D150,D275,E260,E290,A120,A251,A375,W350,W400" id="Build">
                     <p>S400,
                     <p>C300,C340,
                     <p>D150,D275,
@@ -615,7 +647,8 @@
                     <p><b>Faction</b>: Faceless
                     <p><b>Bloodline</b>: Drow
                     <p><b>Artifact</b>: Undead (If avaliable)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S251,S375,S3200,C400,D150,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
                     <p>S251,S375,S3200,
                     <p>C400,
                     <p>D150,D260,

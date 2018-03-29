@@ -23,7 +23,8 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Elf
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C135,C150,C250,C330,C340,C400,C460,D55,D150,D200,D245,D250,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
                 <p>S105,S200,S215,S270,S330,S500,
                 <p>C135,C150,C250,C330,C340,C400,C460,
                 <p>D55,D150,D200,D245,D250,D320,
@@ -41,7 +42,8 @@
                 <p><b>Range</b>: 1e30 (1 No) - 1e68 (100 UVg) gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Elf
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S250,S270,S305,S330,S1450,S1500,C250,C330,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A250,A305,A400,W150,W180,W275,W400,W1375,W1400" id="Build">
                 <p>S215,S250,S270,S305,S330,S1450,S1500,
                 <p>C250,C330,C340,C400,C1300,C1325,
                 <p>D55,D245,D260,D320,D1125,D1275,D1375,
@@ -60,7 +62,8 @@
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
                 <p><b>Range</b>: 1e68 (100 UVg) gems - 1e120 (1 NoTg)(?) gems
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S270,S305,S330,S2875,S3200,C150,C340,C400,C590,C1300,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E350,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build">
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:God's Hand,
                 <p>S215,S270,S305,S330,S2875,S3200,
@@ -85,7 +88,8 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Titan
                 <p><b>A2950</b>: Dragon
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:Grand Balance,S215,S270,S305,S330,S2875,S3200,C300,C340,C400,C590,C1300,C3000,D25,D55,D245,D260,D320,D1275,E135,E260,E350,E1225,E1425,E3250,A120,A590,A1200,A1500,A2950,A3400,W120,W180,W400,W1275,W3050,W3150" id="Build">
                 <p>EL3,EL7,TT4,TT6,DD6,FC2,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Dragon's Breath,SP:Grand Balance,
                 <p>S215,S270,S305,S330,S2875,S3200,
@@ -110,7 +114,8 @@
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
                 <p><b>13th Upgrade</b>: UD7
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,AN2,AN5,TT6,DD6,DD7,DN2,DN8,DG3,DG4,DG9,SP:Night Time,SP:Grand Balance,S50,S215,S305,S330,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A120,A410,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
                 <p>EL3,EL7,AN2,AN5,TT6,DD6,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:Night Time,SP:Grand Balance,
                 <p>S50,S215,S305,S330,S1450,S1500,
@@ -131,7 +136,8 @@
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
                 <p><b>13th Upgrade</b>: UD7
-                <p><b>Template</b>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
                 <p>EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,
                 <p>SP:Grand Balance,SP:Brainwave,
                 <p>S50,S305,S375,S400,S1450,S1500,
@@ -159,7 +165,8 @@
                     <p><b>Bloodline</b>: Elf
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,AN6,GB7,DD3,DD6,FC2,FC7,DN2,DG6,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S400,S1450,S1500,S3200,C250,C400,C590,C1300,C3000,C3100,D25,D200,D245,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
                     <p>EL1,EL7,AN5,AN6,GB7,DD3,DD6,FC2,FC7,DN2,DG6,DG9,
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S400,S1450,S1500,S3200,
@@ -180,7 +187,8 @@
                     <p><b>Bloodline</b>: Undead
                     <p><b>A2950</b>: Elf
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD6,FC2,FC7,DN2,DG6,DG7,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3100,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD6,FC2,FC7,DN2,DG6,DG7,
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S330,S400,S1450,S1500,
@@ -200,7 +208,8 @@
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Elf
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Fairy Chanting,SP:Lightning Strike,S215,S305,S330,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W260,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Fairy Chanting,SP:Lightning Strike,
                     <p>S215,S305,S330,S1450,S1500,S3200,
@@ -209,7 +218,7 @@
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W260,W275,W400,W1375,W3050,W3150
-                    <p><b>Notes</b>: Replace S330 with S400 if buffed.      
+                    <p><b>Notes</b>: Replace S330 with S400 if buffed.
         </div>
     </div>
         <div class="shelementwhole">
@@ -221,7 +230,8 @@
                     <p><b>Bloodline</b>: Titan
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT4,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D275,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1275,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT4,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S330,S1450,S1500,S3200,
@@ -230,7 +240,7 @@
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W1275,W1375,W3050,W3150
-                    <p><b>Notes</b>: Replace S330 with S400 if buffed.      
+                    <p><b>Notes</b>: Replace S330 with S400 if buffed.
         </div>
     </div>
         <div class="shelementwhole">
@@ -242,7 +252,8 @@
                     <p><b>Bloodline</b>: Druid
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S330,S400,S1450,S1500,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S330,S400,S1450,S1500,
@@ -262,7 +273,8 @@
                     <p><b>Bloodline</b>: Fairy/Angel/Goblin/Demon/Faceless/Dwarf/Drow (1 at a time)
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S330,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT6,DD3,DD4,FC2,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Lightning Strike,
                     <p>S215,S305,S330,S1450,S1500,S3200,
@@ -271,7 +283,7 @@
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A590,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
-                    <p><b>Notes</b>: Replace S330 with S400 if buffed.      
+                    <p><b>Notes</b>: Replace S330 with S400 if buffed.
         </div>
      </div>
   </div>
@@ -287,7 +299,8 @@
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Dragon
                     <p><b>A2950</b>: Elf
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,SP:God's Hand,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D245,D590,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A545,A1200,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
                     <p>EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,
                     <p>SP:God's Hand,SP:Fairy Chanting,
                     <p>S215,S305,S400,S1450,S1500,S3200,
@@ -308,7 +321,8 @@
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Undead
                     <p><b>A2950</b>: Elf
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3100,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG6,DG7,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S330,S400,S1450,S1500,
@@ -329,7 +343,8 @@
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e120 (1 NoTg) Gems
                     <p><b>13th Upgrade</b>: UD7
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL7,AN3,AN5,AN6,TT6,FC3,FC7,DN2,DN8,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S50,S305,S400,S1450,S1500,S3200,C250,C305,C340,C590,C1300,C3000,D25,D200,D245,D275,D1275,D2775,E10,E135,E145,E350,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150" id="Build">
                     <p>EL7,AN3,AN5,AN6,TT6,FC3,FC7,DN2,DN8,DG3,DG4,DG9,
                     <p>SP:Fairy Chanting,SP:Dragon's Breath,
                     <p>S50,S305,S400,S1450,S1500,S3200,
@@ -340,7 +355,7 @@
                     <p>W180,W205,W400,W525,W3050,W3150
                     <p><b>Notes</b>: Takes some time to reach mana waste, based on C305 growth. Maintaining x2 blue breath will be benefitial, but not necessary.
                     <p><b>Notes</b>: Estimated time 5-8 days to unlock Spell Master trophy.
-                    <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)                     
+                    <p><b>Notes</b>: Estimated 2-3 days to unlock Mana Ocean Trophy (if you want to multitask)
         </div>
    </div>
         <div class="shelementwhole">
@@ -353,7 +368,8 @@
                     <p><b>A2950</b>: Elf
                     <p><b>Range</b>: 1e120 (1 NoTg) Gems
                     <p><b>13th Upgrade</b>: UD5
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL3,EL7,AN3,AN5,AN6,UD7,DD6,FC7,DN2,DG3,DG6,DG9,SP:God's Hand,SP:Fairy Chanting,S50,S180,S305,S400,S1500,S3200,C25,C250,C305,C590,C1300,C3100,D25,D200,D245,D275,D330,D1275,E10,E135,E145,E590,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W205,W400,W525,W560,W1400,W3050" id="Build">
                     <p>EL3,EL7,AN3,AN5,AN6,UD7,DD6,FC7,DN2,DG3,DG6,DG9,
                     <p>SP:God's Hand,SP:Fairy Chanting,
                     <p>S50,S180,S305,S400,S1500,S3200,
@@ -377,7 +393,8 @@
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: 1e120 (1 NoTg) Gems
                     <p><b>13th Upgrade</b>: UD7
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S50,S305,S375,S400,S1500,S3200,C250,C305,C340,C590,C1300,C3000,D25,D200,D245,D275,D330,D1275,E10,E135,E145,E350,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150" id="Build">
                     <p>EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG4,DG9,
                     <p>SP:God's Hand,SP:Dragon's Breath,
                     <p>S50,S305,S375,S400,S1500,S3200,
@@ -402,7 +419,8 @@
                     <p><b>A2950</b>: Elf
                     <p><b>Range</b>: 1e120 (1 NoTg) Gems
                     <p><b>13th Upgrade</b>: UD7
-                    <p><b>Template</b>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG6,DG9,SP:God's Hand,SP:Brainwave,S50,S305,S375,S400,S1500,S3200,C25,C250,C305,C590,C1300,C3100,D25,D200,D245,D275,D330,D1275,E135,E145,E350,E590,E1225,E3250,A120,A545,A590,A1500,A2950,A3400,W205,W400,W525,W560,W1400,W3050" id="Build">
                     <p>EL3,EL7,AN3,AN5,AN6,AN8,DD6,FC7,DN2,DG3,DG6,DG9,
                     <p>SP:God's Hand,SP:Brainwave,
                     <p>S50,S305,S375,S400,S1500,S3200,

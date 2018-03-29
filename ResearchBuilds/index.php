@@ -32,6 +32,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S30,S105,S135,C10,C80,C105,C120,D55,D135,E50,E80,E135,A30,A105,A120,A135,W120,W135" id="Build">
                     <p>S1,S30,S105,S135,
                     <p>C10,C80,C105,C120,
                     <p>D55,D135,
@@ -48,6 +50,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S30,S105,S135,C10,C80,C120,C150,D55,D135,D150,E50,E135,E145,E150,A30,A105,A120,A135,A150,W120,W135,W150" id="Build">
                     <p>S1,S30,S105,S135,
                     <p>C10,C80,C120,C150,
                     <p>D55,D135,D150,
@@ -69,6 +73,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S30,S105,S135,S180,C10,C80,C120,C135,C150,D55,D135,D150,E50,E135,E145,E150,A30,A105,A120,A135,A150,W120,W135,W150,W180" id="Build">
                     <p>S30,S105,S135,S180,
                     <p>C10,C80,C120,C135,C150,
                     <p>D55,D135,D150,
@@ -85,6 +91,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: e72+
                     <p><b>Duration</b>: 5-15min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S30,S105,S135,S180,S200,C10,C80,C120,C135,C150,D55,D135,D150,D200,D205,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
                     <p>S30,S105,S135,S180,S200,
                     <p>C10,C80,C120,C135,C150,
                     <p>D55,D135,D150,D200,D205,
@@ -105,6 +113,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e69
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S105,S135,S180,S200,C10,C80,C105,C120,C150,D55,D135,D150,D200,D205,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
                     <p>S1,S105,S135,S180,S200,
                     <p>C10,C80,C105,C120,C150,
                     <p>D55,D135,D150,D200,D205,
@@ -122,6 +132,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e77-1e90
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D205,D225,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
                     <p>S105,S135,S180,S200,S215,
                     <p>C80,C105,C120,C135,C150,
                     <p>D55,D135,D200,D205,D225,
@@ -138,6 +150,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e77-1e90
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D205,D225,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W120,W135,W150,W180,W250" id="Build">
                     <p>S105,S135,S180,S200,S215,
                     <p>C80,C105,C120,C135,C150,
                     <p>D55,D135,D200,D205,D225,
@@ -154,6 +168,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e77-1e99
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D250,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
                     <p>S105,S135,S180,S200,S215,
                     <p>C80,C105,C120,C135,C150,
                     <p>D55,D200,D225,D245,D250,
@@ -186,6 +202,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e77-1e99
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
                     <p>S105,S135,S180,S200,S215,
                     <p>C80,C105,C120,C135,C150,
                     <p>D55,D200,D225,D245,D320,
@@ -204,6 +222,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e77-1e99
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,
                     <p>C80,C105,C120,C150,C330,
                     <p>D55,D200,D225,D245,D320,
@@ -224,6 +244,8 @@
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e77-1e99
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,
                     <p>C80,C105,C120,C150,C330,
                     <p>D55,D200,D225,D245,D320,
@@ -242,6 +264,8 @@
                     <p><b>Bloodline</b>: Titan
                     <p><b>Range</b>: e92-e108
                     <p><b>Duration</b>: 15min - 2h+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D320,D350,E135,E150,E275,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build">
                     <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C330,C375,
                     <p>D55,D150,D245,D320,D350,
@@ -259,6 +283,8 @@
                     <p><b>Bloodline</b>: Titan
                     <p><b>Range</b>: 1e77-1e99
                     <p><b>Duration</b>: 10-15 min
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A330,A400,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,
                     <p>C80,C120,C150,C330,C400,
                     <p>D55,D200,D225,D245,D320,
@@ -278,6 +304,8 @@
                     <p><b>Bloodline</b>: Titan
                     <p><b>Range</b>: e92-e111
                     <p><b>Duration</b>: 15min - 4h+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D320,D350,D400,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C375,C400,
                     <p>D55,D245,D320,D350,D400,
@@ -296,6 +324,8 @@
                     <p><b>Bloodline</b>: Dwarf (Requires high Excav count)
                     <p><b>Range</b>: e92-e111
                     <p><b>Duration</b>: 15min - 2h+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D320,D350,D400,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C375,C400,
                     <p>D55,D245,D320,D350,D400,
