@@ -223,15 +223,19 @@ var x = setInterval(function() {
                 <p><b><img src="/realm/Factions/picks/EggHunter750Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 1</b></p>
                 <p><b>Unlock / Price</b>: Collect 750 Common Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 2.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggHunter2000Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 2</b></p>
                 <p><b>Unlock / Price</b>: Collect 2000 Common Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 3.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggHunter4000Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 3</b></p>
                 <p><b>Unlock / Price</b>: Collect 4000 Common Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 2%, which will be added to your cumulative Event bonus, Unlocks Quest 4.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggHunter7000Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 4</b></p>
                 <p><b>Unlock / Price</b>: Collect 7000 Common Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 3%, which will be added to your cumulative Event bonus, Gives Egg Hunter Feat.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggHunter7000Easter2017.png" alt="Egg Hunter" align="middle"> Egg Hunter Feat</b></p>
                 <p><b>Kind</b>: Feat</p>
                 <p><b>Unlock / Price</b>: Complete all 4 Egg Hunter Quest.</p>
