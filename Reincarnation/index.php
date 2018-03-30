@@ -245,41 +245,41 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Reincarnation Perks</a></b></p>
             <div class="autohide">
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
-                <p><b>Added</b>: Increase Production by (5 * x)%/p>
+                <p><b>Added</b>: Increase Production by (5 * x)%/p></p>
                 <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
                 <p><b>Added</b>: Increase FC chance multiplicatively by (x ^ 1.1)%.</p>
                 <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
-                <p><b>2nd Reincarnation and up</b>
-                <p><b>Added</b>: Increase Gem production bonus by (0.2 * x)%.
-                <p><b>5th Reincarnation and up</b>
-                <p><b>Added</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.
-                <p><b>10th Reincarnation and up</b>
-                <p><b>Added</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.
-                <p><b>12th Reincarnation and up</b>
+                <p><b>2nd Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase Gem production bonus by (0.2 * x)%.</p>
+                <p><b>5th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.</p>
+                <p><b>10th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.</p>
+                <p><b>12th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 35 * x.</p>
-                <p><b>20th Reincarnation and up</b>
+                <p><b>20th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
-                <p><b>25th Reincarnation and up</b>
-                <p><b>Added</b>: Increase Royal Exchange bonus by (0.5 * x)%.
-                <p><b>41st Reincarnation and up</b>
-                <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.1))%.
-                <p><b>45th Reincarnation and up</b>
+                <p><b>25th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase Royal Exchange bonus by (0.5 * x)%.</p>
+                <p><b>41st Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.1))%.</p>
+                <p><b>45th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
-                <p><b>50th Reincarnation and up</b>
-                <p><b>Added</b>: Increase FC chance by (x)%.
-                <p><b>60th Reincarnation and up</b>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline.
-                <p><b>70th Reincarnation and up</b>
-                <p><b>Added</b>: You gain 1 additional Research slot for each branch.
-                <p><b>85th Reincarnation and up</b>
-                <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.
-                <p><b>100th Reincarnation and up</b>
-                <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.
-                <p><b>108th Reincarnation and up</b>
-                <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.
-                <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7, where x is highest faction time and y is faction time of the Unique Building affinity<p><b>115th Reincarnation and up</b>
-                <p><b>115th Reincarnation and up</b>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)
+                <p><b>50th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase FC chance by (x)%.</p>
+                <p><b>60th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline.</p>
+                <p><b>70th Reincarnation and up</b></p>
+                <p><b>Added</b>: You gain 1 additional Research slot for each branch.</p>
+                <p><b>85th Reincarnation and up</b></p>
+                <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.</p>
+                <p><b>100th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.</p>
+                <p><b>108th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
+                <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7, where x is highest faction time and y is faction time of the Unique Building affinity<p><b>115th Reincarnation and up</b></p>
+                <p><b>115th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -323,7 +323,7 @@
                 <p>Click upgrades (50k clicks, 100k clicks)</p>
                 <p>All the "Magic" section of stats page.</p>
                 <p><b>At second Ascension (R100), Access to prestige factions and Mercenaries is lost !</b></p>
-                <p>----------------------------------</p>
+                <hr>
                 <p><b>Kept or Gained at Reincarnation</b></p>
                 <p>All Trophies (and their associated unlocks)</p>
                 <p>Heritages (technically from trophies)</p>
@@ -343,93 +343,91 @@
             <div class="autohide">
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1Reincarnation.png" alt="1 Reincarnation" align="middle"> 1 Reincarnation</b></p>
                 <p><b>Requirement</b>: Reincarnate 1 time</p>
-                <p><b>Cost</b>: (To Reincarnate to R1) 1 Oc (1e27) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R1) 1 Oc (1e27) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/3Reincarnations.png" alt="3 Reincarnations" align="middle"> 3 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 3 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R3) 1 Dc (1e33) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R3) 1 Dc (1e33) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/7Reincarnations.png" alt="7 Reincarnations" align="middle"> 5 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 5 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R5) 1 Dd (1e39) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R5) 1 Dd (1e39) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/7Reincarnations.png" alt="7 Reincarnations" align="middle"> 7 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 7 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R7) 1 Qad (1e45) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R7) 1 Qad (1e45) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/10Reincarnations.png" alt="10 Reincarnations" align="middle"> 10 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 10 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R10) 1 Spd (1e54) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R10) 1 Spd (1e54) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12Reincarnations.png" alt="12 Reincarnations" align="middle"> 12 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 12 times</p>
-                <p>------------------------------</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/15Reincarnations.png" alt="15 Reincarnations" align="middle"> 15 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 15 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R15) 1 Dvg (1e69) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R15) 1 Dvg (1e69) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/20Reincarnations.png" alt="20 Reincarnations" align="middle"> 20 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 20 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R20) 1 Spvg (1e84) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R20) 1 Spvg (1e84) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/25Reincarnations.png" alt="25 Reincarnations" align="middle"> 25 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 25 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R25) 1 Dtg (1e99) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R25) 1 Dtg (1e99) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/30Reincarnations.png" alt="30 Reincarnations" align="middle"> 30 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 30 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R30) 1 Sptg (1e114) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R30) 1 Sptg (1e114) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/35Reincarnations.png" alt="35 Reincarnations" align="middle"> 35 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 35 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R35) 1 Dqag (1e129) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R35) 1 Dqag (1e129) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/40Reincarnations.png" alt="40 Reincarnations" align="middle"> 40 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 40 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R40) 1 Spqag (1e144) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R40) 1 Spqag (1e144) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/45Reincarnations.png" alt="45 Reincarnations" align="middle"> 45 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 45 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R45) 17.78 Oc Sp (1.778e28) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R45) 17.78 Oc Sp (1.778e28) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/50Reincarnations.png" alt="50 Reincarnations" align="middle"> 50 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 50 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R50) 177.8 Ud (1.778e38) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R50) 177.8 Ud (1.778e38) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/60Reincarnations.png" alt="60 Reincarnations" align="middle"> 60 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 60 times</p>
-                <p><b>Cost</b>: (To Reincarnate to R60) 17.78 Ocd (1.778e58) Gems
-                <p>------------------------------</p>
+                <p><b>Cost</b>: (To Reincarnate to R60) 17.78 Ocd (1.778e58) Gems</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/70Reincarnations.png" alt="70 Reincarnations" align="middle"> 70 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 70 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R70) 17.78 Qivg (1.778e70) Gems</p>
-                <p>------------------------------</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/85Reincarnations.png" alt="85 Reincarnations" align="middle"> 85 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 85 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R85) 1.778 Qitg (1.778e108) Gems</p>
-                <p>------------------------------</p>
+                <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/100Reincarnations.png" alt="100 Reincarnations" align="middle"> 100 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 100 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems</p>
             </div>
         </div>
     </div>
-
-    <p>----------------------------------</p>
+    <hr>
     <p><b>Tips</b></p>
     <p>There are many paths you can take to progress, there is no "one correct path". Each player finds their own path, adapted to their play-style and personal progress bonuses. Trying to find your own path is the best way to learn and understand each faction.</p>
-    <p>The below steps are an example guideline but I would encourage players to step out of the guide, try all factions and note down which factions work best at which gem amounts to create your personal path.
-    <p>In general when things get slow, optimize your runs by doing build-up runs using special builds. (eg: Run "Foreplay" or "Everything is Awesome" merc builds to optimize your click total or your Faceless Heritage.)
-    <p><b>1-3 Reincarnations</b>:
-    <p>0 Gems: Try Elf for at least the first run, for their high Faction Coin Find chance.
-    <p>Around 1 T (1E12) gems, try Titan, Druid.
-    <p><b>In R0</b>: you'll want fairy to unlock Drow/Dwarf (if you want it as early as possible) and then dwarf/elf for max profit
-    <p>Around 100 Qi (1E20) gems, try Fairy into Dwarf (Dwairies). Angel / Dwarf (Dwangels) also work well for those wishing to cast lots of spells fast and stack bonuses from them.
-    <p><b>3-12 Reincarnations</b>:
-    <p>Play as the above, Once you have reached No (1E32) gems, you are ready to try the Mercenary Faction. See Merc Builds and why_amihere's <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245-guide-for-r0-starting-realm-grinder?page=1#posts-9738076/"><b>guide</b></a>.
-    <p><b>13-16 Reincarnations</b>:
-    <p>Vg -Dvg Many Mercenary builds will start slowing down. Do not panic.
-    <p>Lightning Forge will still be one of the fastest choice, but requires constant activity. Elven Farms and Diamond Forge will get you to Dvg a bit slower, but Diamond Forge can be almost entirely idled, which makes them better choices for a lot of players.
-    <p>Around Dvg - Tvg, things become really very slow. If you aren't fed up. Lightning Forge still has potential for active players. Hopefully, this is the last stretch to research! (min 1 Tvg required).
-
+    <p>The below steps are an example guideline but I would encourage players to step out of the guide, try all factions and note down which factions work best at which gem amounts to create your personal path.</p>
+    <p>In general when things get slow, optimize your runs by doing build-up runs using special builds. (eg: Run "Foreplay" or "Everything is Awesome" merc builds to optimize your click total or your Faceless Heritage.)</p>
+    <p><b>1-3 Reincarnations</b></p>
+    <p>0 Gems: Try Elf for at least the first run, for their high Faction Coin Find chance.</p>
+    <p>Around 1 T (1E12) gems, try Titan, Druid.</p>
+    <p><b>In R0</b>: you'll want fairy to unlock Drow/Dwarf (if you want it as early as possible) and then dwarf/elf for max profit</p>
+    <p>Around 100 Qi (1E20) gems, try Fairy into Dwarf (Dwairies). Angel / Dwarf (Dwangels) also work well for those wishing to cast lots of spells fast and stack bonuses from them.</p>
+    <p><b>3-12 Reincarnations</b></p>
+    <p>Play as the above, Once you have reached No (1E32) gems, you are ready to try the Mercenary Faction. See Merc Builds and why_amihere's <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245-guide-for-r0-starting-realm-grinder?page=1#posts-9738076/"><b>guide</b></a>.</p>
+    <p><b>13-16 Reincarnations</b></p>
+    <p>Vg -Dvg Many Mercenary builds will start slowing down. Do not panic.</p>
+    <p>Lightning Forge will still be one of the fastest choice, but requires constant activity. Elven Farms and Diamond Forge will get you to Dvg a bit slower, but Diamond Forge can be almost entirely idled, which makes them better choices for a lot of players.</p>
+    <p>Around Dvg - Tvg, things become really very slow. If you aren't fed up. Lightning Forge still has potential for active players. Hopefully, this is the last stretch to research! (min 1 Tvg required).</p>
 <?php include "../scripts/footer.html"; ?>

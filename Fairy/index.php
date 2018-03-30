@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-<p><b>Fairy Challenge 1</b>
+<p><b>Fairy Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PixieMischiefChallenge.png" alt="Pixie Mischief</p>" align="middle"> <b>Pixie Mischief</b></p>
 <p>The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!</p>
 <p><b>Requirements</b>: 2 Reincarnations, Fairy Choir spell upgrade
@@ -13,19 +13,19 @@
 <p><b>Formula</b>: x ^ 1.75 where x is amount of Fairy afflicated upgrades.
 <p><b>Upgrade</b>: Good for Fairy</b>
 <p><b>Tips</b>: Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>
-<p><b>------------------------------</b>
-<p><b>Fairy Challenge 2</b>
+<hr>
+<p><b>Fairy Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png" alt="Donations</p>" align="middle"> <b>Donations</b></p>
 <p>Our farmers' crops are not growing. Perhaps a little magic can help change that.</p>
 <p><b>Requirements</b>: 8 Reincarnations, Fairy Bloodline
 <p><b>Challenge</b>: Cast Fairy Chanting within 30 seconds of a new game with over 1000 Farms.</p>
 <p><b>Effect</b>: Tax collections give 10 more seconds worth of coins and Faction Coins.</p>
 <p><b>Upgrade</b>: Good for Goblin</p>
-<p><b>Tips</b>:
+<p><b>Tips</b></p>
 <p>This is easiest just before you reincarnate, Grab the fairy and dwarf upgrades as quickly as possible, buy 1k farms, and hit the spell.
 <p>Don't forget to purchase the Bloodline within the time limit.</p>
-<p><b>------------------------------</b>
-<p><b>Fairy Challenge 3</b>
+<hr>
+<p><b>Fairy Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EnchantedLandsChallenges.png" alt="Enchanted Lands</p>" align="middle"> <b>Enchanted Lands</b></p>
 <p>The Fairies have developed a taste for honey. Find out quickly if they have a queen!</p>
 <p><b>Requirements</b>: 18 Reincarnations and Fairy Unique Building
@@ -37,8 +37,8 @@
 <p>(8190, total, of Farms, Inns and Blacksmiths and you don't have to buy the upgrade itself.)</p>
 <p>Use Goblin Bloodline.</p>
 <p><b>Note</b>: Tier 3 challenges cannot be done as Drow or Dwarf Factions."because you can't buy the U building"</p>
-<p><b>------------------------------</b>
-<p><b>In-Game Challenge Final Reward</b>
+<hr>
+<p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyOrchestraFinalReward.png" alt="Fairy Orchestra</p>" align="middle"> <b>Fairy Orchestra</b></p>
 <p><b>Effect</b>: Each assistant generates 3 times as many faction coins while Fairy Chanting is active.</p>
 <?php include "../scripts/footer.html"; ?>
