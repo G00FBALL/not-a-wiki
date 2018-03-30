@@ -241,15 +241,19 @@ var x = setInterval(function() {
                 <p><b><img src="/realm/Factions/picks/EggCollection1Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 1</b></p>
                 <p><b>Unlock / Price</b>: Find 1 Unique Egg.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 2.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggCollection3Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 2</b></p>
                 <p><b>Unlock / Price</b>: Find 3 Unique Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 3.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggCollection5Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 3</b></p>
                 <p><b>Unlock / Price</b>: Find 5 Unique Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 2%, which will be added to your cumulative Event bonus, Unlocks Quest 4.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggCollection8Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 4</b></p>
                 <p><b>Unlock / Price</b>: Find 8 Unique Eggs.</p>
                 <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 3%, which will be added to your cumulative Event bonus, Gives Egg Collection Feat.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/EggCollection8Easter2017.png" alt="Egg Collection" align="middle"> Egg Collection Feat</b></p>
                 <p><b>Kind</b>: Feat</p>
                 <p><b>Unlock / Price</b>: Complete all 4 Egg Collection Quest.</p>
@@ -321,14 +325,17 @@ var x = setInterval(function() {
                 <p><b><img src="/realm/Factions/picks/BundleofEggs150Easter2017.png" alt="Bundle of Eggs" align="middle"> 150 Eggs</b></p>
                 <p><b>Unlock / Price</b>: 5 Rubies</p>
                 <p><b>Note</b>: The Easter Bunny wants to sell you 150 eggs for 5 rubies. It will offer you a new deal if you accept.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/BundleofEggs600Easter2017.png" alt="Bundle of Eggs" align="middle"> 600 Eggs</b></p>
                 <p><b>Kind</b>: Shop Item</p>
                 <p><b>Unlock / Price</b>: 15 Rubies</p>
                 <p><b>Note</b>: The Easter Bunny wants to sell you 600 eggs for 15 rubies. It will offer you a new deal if you accept.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/BundleofEggs2500Easter2017.png" alt="Bundle of Eggs" align="middle"> 2500 Eggs</b></p>
                 <p><b>Kind</b>: Shop Item</p>
                 <p><b>Unlock / Price</b>: 45 Rubies</p>
                 <p><b>Note</b>: The Easter Bunny wants to sell you 2500 eggs for 45 rubies. It will offer you a new deal if you accept.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/BundleofEggs7000Easter2017.png" alt="Bundle of Eggs" align="middle"> 7000 Eggs</b></p>
                 <p><b>Kind</b>: Shop Item</p>
                 <p><b>Unlock / Price</b>: 100 Rubies</p>
