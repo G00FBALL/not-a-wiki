@@ -205,7 +205,7 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonborn (Dragon L30 Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
                <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
-               <p><b>Author</b>: Artcrow
+               <p><b>Author</b>: Necrodoom
                <p><b>Range</b>: ? Gems
                <p><b>Requirments</b>: Angel Set Artifact, Drow Lineage Level 30
                <p><b>Alignment</b>: Neutral, Proof of Balance
