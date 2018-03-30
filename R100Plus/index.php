@@ -208,18 +208,19 @@
                <p><b>Author</b>: Artcrow
                <p><b>Range</b>: ? Gems
                <p><b>Requirments</b>: Angel Set Artifact, Drow Lineage Level 30
-               <p><b>Alignment</b>: Chaos, Proof of Chaos
-               <p><b>Faction</b>: Faceless
+               <p><b>Alignment</b>: Neutral, Proof of Balance
+               <p><b>Faction</b>: Druid
                <p><b>Bloodline</b>: Dragon
                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                 <input type="text" value="S50,S400,C175,C400,D200,E1,E225,E320,A10,A120,W50,W205" id="Build">
-               <p>S50,S400,
-               <p>C175,C400,
-               <p>D200,
-               <p>E1,E225,E320,
-               <p>A10,A120,
-               <p>W50,W205
-               <p><b>Notes</b>: S400 and W275 buffing recommended.
+                 <input type="text" value="S3200,C300,C400,D150,D275,E260,E320,A251,A375,A400,W350,W1375" id="Build">
+               <p>S3200,
+               <p>C300,C400,
+               <p>D150,D275,
+               <p>E260,E320,
+               <p>A251,A375,A400,
+               <p>W350,W1375
+               <p><b>Notes</b>: Estimated time of 7 days for SS7.
+               <p><b>Notes</b>: Swap S3200 with S400 if S400 is at least ?
                <p><b>Notes</b>: Estimated time for Dragon lineage L30 is ?
         </div>
       </div>
