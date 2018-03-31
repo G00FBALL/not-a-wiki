@@ -25,7 +25,7 @@
 <p><b>Elf artifact</b> Chance changed</p>
 <p><b>Raw Emerald</b></p>
 <p><b>Old Chance</b>: ((2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).</p>
-<p><b>New Chance</b>: ((2 * x ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+<p><b>New Chance</b>: (((2 * x) ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).</p>
 <hr>
 <p><b>Union Upgrades</b>: Cost changed</p>
 <p><b>Upgrade 11</b></p>
