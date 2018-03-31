@@ -333,7 +333,7 @@
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
     <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
     <p><b>Effect</b>: Unlocks Elven Set.</p>
-    <p><b>Chance</b>: (((2 * x) ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+    <p><b>Chance</b>: (((2 * x) ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
     <p><b>Note</b>: 1 in 500k for 1 reset, 1 in 22097 for 2 resets, 1 in 3564 for 3 resets</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
