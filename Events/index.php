@@ -10,23 +10,23 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
 <p><b>Event started</b></p>
 <p id="start">
-<script>
-var countDownDate1 = new Date("Mar 30, 2018 12:01:00 UTC").getTime();
-var x = setInterval(function() {
-    var now = new Date().getTime();
-    var distance = countDownDate1 - now;
-    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    document.getElementById("start").innerHTML = days + "d " + hours + "h "
-    + minutes + "m " + seconds + "s ";
-    if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("end").innerHTML = "";
-    }
-    }, 1000);
-</script></p>
+  <!--<script>
+  var countDownDate1 = new Date("Mar 30, 2018 12:01:00 UTC").getTime();
+  var x = setInterval(function() {
+      var now = new Date().getTime();
+      var distance = countDownDate1 - now;
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+      document.getElementById("start").innerHTML = days + "d " + hours + "h "
+      + minutes + "m " + seconds + "s ";
+      if (distance < 0) {
+          clearInterval(x);
+          document.getElementById("end").innerHTML = "";
+      }
+      }, 1000);
+  </script></p>--!>
 <p><b>Event ends in</b></p>
 <p id="end"></p>
 <script>
