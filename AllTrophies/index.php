@@ -2960,7 +2960,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (58)</a></b></p>
             <div class="autohide">
 <p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
-<p><b>Requirement</b>: Have exactly 1337 Coins at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)</p>
+<p><b>Requirement</b>: Have exactly 1337 Coins at any given time.
 <p><b>Effect</b>: Increase the production of all buildings by 1.337%</p>
 <p><b>Cost</b>: 10 M (1e7)</p>
 <p><b>Cost</b>: Post A+, Free</p>
@@ -2975,7 +2975,8 @@
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
 <p><b>Requirement</b>: Reach 100'000 coins without building anything.</p>
-<p><b>Effect</b>: Increase clicking reward by 25%<p>Post Ascension: Increase the production of all buildings by 2.26%</p>
+<p><b>Effect</b>: Increase clicking reward by 25%
+<p><b>Effect</b>: A1, Increase the production of all buildings by 2.26%</p>
 <p><b>Cost</b>: 10 Dc (1e34)</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: This can be done at any R.</p>
@@ -3059,7 +3060,7 @@
 <p><b>Cost</b>: 10 coins</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: Can be done at R0</p>
-<p><b>Note</b>: <a href="http://musicfamily.org/realm/SpeedRun/"><center>Instructions</a></p>
+<p><b>Note</b>: <a href="http://musicfamily.org/realm/SpeedRun/"><b>Instructions</b></a></p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png align=middle><b> Equality</b></p>
 <p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.</p>
