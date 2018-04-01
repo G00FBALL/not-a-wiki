@@ -6,6 +6,7 @@
 <p>All have tooltips--just point</p>
 <p>Some of these trophies will be easy, others will need special builds to complete</p>
 <p>If a build is needed I will add a link to that build</p>
+<a target="" href="http://musicfamily.org/realm/AllTrophies/"><b>Mobile text version</b></a></p>
 </p><img src="http://musicfamily.org/realm/Factions/picks/SecretTrophyMap.png" usemap="#SecretTrophyMap-map">
 </p><img src="http://musicfamily.org/realm/Factions/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map">
 </p><img src="http://musicfamily.org/realm/Factions/picks/NonSecretTrophies.png" usemap="#NonSecretTrophies-map">
