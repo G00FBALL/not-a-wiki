@@ -803,156 +803,403 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Misc Trophies (15)</a></b></p>
             <div class="autohide">
-<p>Archaeology Expedition
-  <p>Requirement: You have funded an archaeology expedition to find relics of the Ancient Races. (Excavate for 1st time.)
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArchaeologyExpedition.png align=middle><b> Archaeology Expedition</b></p>
+<p><b>In-game description</b>: You have funded an archaeology expedition to find relics of the Ancient Races.</p>
+<p><b>Requirement</b>: Excavate 1 time.</p>
+<p><b>Note</b>: Archaeology shows up at 1B (1E9) Gems</p>
 <br/>
-<p>Clouded
-  <p> Requirement: Register your realm in the Cloud Service!
-  <p>In the Options
+<p><img src=http://musicfamily.org/realm/Factions/picks/CloudTrophy.png align=middle><b> Clouded</b></p>
+<p><b>Requirement</b>: Register your realm in the Cloud Service!</p>
+<p><b>Note</b>: Found in the Options</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretTrophy.png align=middle><b> Vanilla Challenger</b></p>
-<p>Requirement: Complete all the Vanilla Faction Challenges.
-  <p>Upgrade Cost Pre Ascension: 10 coins
-  <p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Vanilla Factions by 25%.
-    <p>Post Ascension: Increase the overall production of Vanilla Factions by 2.26%.
+<p><b>Requirement</b>: Complete all the Vanilla Faction Challenges.</p>
+<p><b>Effect</b>: Increase the overall production of Vanilla Factions by 25%.</p>
+<p><b>Effect</b>: Post A1, Increase the overall production of Vanilla Factions by 2.26%.</p>
+<p><b>Effect</b>: Post A2, Not available.</p>
+<p><b>Upgrade Cost</b>: 10 coins</p>
+<p><b>Upgrade Cost</b>: Post A1+, Free</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/NeutralChallengerSecretTrophy.png align=middle><b> Neutral Challenger</b></p>
-<p>Requirement: Complete all the Neutral Faction Challenges.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Neutral Factions by 25%.<p>Post Ascension: Increase the overall production of Neutral Factions by 2.26%.
+<p><b>Requirement</b>: Complete all the Neutral Faction Challenges.</p>
+<p><b>Effect</b>: Increase the overall production of Neutral Factions by 25%.</p>
+<p><b>Effect</b>: Post A1, Increase the overall production of Neutral Factions by 2.26%.
+<p><b>Effect</b>: Post A2, Not available</p>
+<p><b>Upgrade Cost</b>: 10 coins</p>
+<p><b>Upgrade Cost</b>: Post A1+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png align=middle><b> Prestige Challenger</b></p><p>Requirement: Complete all the Prestige Challenges, R63+<p>Cost: 10<p>Effect</b>: Increase the overall production of Prestige Factions by 25%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png align=middle><b> Prestige Challenger</b></p>
+<p><b>Requirement</b>: Complete all the Prestige Challenges, R63+</p>
+<p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%.</p>
+<p><b>Effect</b>: Post A2, Not available</p>
+<p><b>Upgrade Cost</b>: 10 coins</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/NoviceResearcherSecretTrophy.png align=middle><b> Novice Researcher</b></p><p>Requirement: Research 600 times across all fields.<p>Upgrade Cost: 1 Tqag (1e132)<p>Upgrade Cost A1+: Free<p>Upgrade Effect: Increase the overall production of Vanilla Factions by 100%.<p>Effect A1: Increase the overall production of Vanilla Factions by 7.18%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/NoviceResearcherSecretTrophy.png align=middle><b> Novice Researcher</b></p>
+<p><b>Requirement</b>: Research 600 times across all fields.</p>
+<p><b>Effect</b>: Increase the overall production of Vanilla Factions by 100%.</p>
+<p><b>Effect</b>: Post A1, Increase the overall production of Vanilla Factions by 7.18%.</p>
+<p><b>Effect</b>: Post A2, Not available</p>
+<p><b>Upgrade Cost</b>: 1 Tqag (1e132)</p>
+<p><b>Upgrade Cost</b>: A1+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/IntermediateResearcherSecretTrophy.png align=middle><b> Intermediate Researcher</b></p><p>Requirement: Research 1800 times across all fields.<p>Upgrade Cost Pre Ascension: 1 QiQig (1e168)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increases production of all Neutral Factions by 100%.<p>Post Ascension: Increases production of all Neutral Factions by 7.18%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/IntermediateResearcherSecretTrophy.png align=middle><b> Intermediate Researcher</b></p>
+<p><b>Requirement</b>: Research 1800 times across all fields.</p>
+<p><b>Effect</b>: Increases production of all Neutral Factions by 100%.</p>
+<p><b>Effect</b>: Post A1, Increases production of all Neutral Factions by 7.18%.</p>
+<p><b>Effect</b>: Post A2, Not available</p>
+<p><b>Upgrade Cost</b>: 1 QiQig (1e168)</p>
+<p><b>Upgrade Cost</b>: A1+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretTrophy.png align=middle><b> Expert Researcher</b></p><p>Requirement: Research 2750 times across all fields.<p>Upgrade Cost Pre Ascension: 1 QiQig (1e168)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Prestige Factions by 100%.<p>Post Ascension:  Increase the overall production of Prestige Factions by 7.18%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretTrophy.png align=middle><b> Expert Researcher</b></p>
+<p><b>Requirement</b>: Research 2750 times across all fields.</p>
+<p><b>Effect</b>: Increase the overall production of Prestige Factions by 100%.</p>
+<p><b>Effect</b>: Post A1, Increase the overall production of Prestige Factions by 7.18%.</p>
+<p><b>Upgrade Cost</b>: 1 QiQig (1e168)</p>
+<p><b>Upgrade Cost</b>: A1+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretTrophy.png align=middle><b> Master Researcher</b></p><p>Requirement: Research 10000 times across all fields.<p>Cost: 1 Qavg (1e75)<p>Effect: Increase the overall production of Dragons by 150%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretTrophy.png align=middle><b> Master Researcher</b></p>
+<p><b>Requirement</b>: Research 10000 times across all fields.</p>
+<p><b>Effect</b>: Increase the overall production of Dragons by 150%.</p>
+<p><b>Upgrade Cost</b>: Cost: 1 Qavg (1e75)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png align=middle><b> Grandmaster Researcher</b></p><p>Requirement: Research 18500 times across all fields.<p>Effect: Increas the overall production of Mercenaries by 100%.<p>Cost: 10 SpQig (1e175)
+<p><img src=http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png align=middle><b> Grandmaster Researcher</b></p>
+<p><b>Requirement</b>: Research 18500 times across all fields.</p>
+<p><b>Effect</b>: Increas the overall production of Mercenaries by 100%.</p>
+<p><b>Upgrade Cost</b>: 10 SpQig (1e175)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/VanillaResearcherSecretTrophy.png align=middle><b> Vanilla Researcher</b></p><p>Requirement: Discover all the Vanilla Faction researches.<p>Upgrade Cost Pre Ascension: 1 SpQig (1e174)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of all buildings based on research done.
+<p><img src=http://musicfamily.org/realm/Factions/picks/VanillaResearcherSecretTrophy.png align=middle><b> Vanilla Researcher</b></p>
+<p><b>Requirement</b>: Discover all the Vanilla Faction researches.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+<p><b>Formula</b>: (0.3 * x^0.7)
+<p><b>Upgrade Cost</b>: 1 SpQig (1e174)</p>
+<p><b>Upgrade Cost</b>: A1+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AncientResearcherSecretTrophy.png align=middle><b> Ancient Researcher</b></p><p>Requirement: Discover all the Ancient Races researches.<p>Upgrade Cost Pre Ascension: 1 NoSxg (1e210)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase the production of all buildings based on research done.<p>Can be done at R29.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AncientResearcherSecretTrophy.png align=middle><b> Ancient Researcher</b></p>
+<p><b>Requirement</b>: Discover all the Ancient Races researches.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+<p><b>Formula</b>: (0.3 * x^0.7)</p>
+<p><b>Upgrade Cost</b>: 1 NoSxg (1e210)</p>
+<p><b>Upgrade Cost</b>: A1+, Free</p>
+<p><b>Note</b>: Can be done at R29.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretTrophy.png align=middle><b> Underworld Researcher</b></p><p>Requirement: Discover all the Underworld researches.<p>Upgrade Cost Pre Ascension: 1 NoSxg (1e210)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of all buildings based on research done.<p>Formula: 0.3 * x^0.7, where x is amount of research done.
+<p><img src=http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretTrophy.png align=middle><b> Underworld Researcher</b></p>
+<p><b>Requirement</b>: Discover all the Underworld researches.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+<p><b>Formula</b>: 0.3 * x^0.7, where x is amount of research done.</p>
+<p><b>Upgrade Cost</b>: 1 NoSxg (1e210)</p>
+<p><b>Upgrade Cost</b>: A1+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png align=middle><b> Eternal Researcher</b></p><p>Requirement: Discover all the Dragon researches, R55+<p>Cost: 1 Novg (1e90)<p>Effect: Increase the production of all buildings based on research done.<p>Formula: 0.3 * x^0.7
-<p><img src=http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png align=middle><b> Warrior Researcher</b></p><p>Requirement: Discover all the Mercenary researches<p>Cost: 1 DSpg (1e219)<p>Effect: Increase the production of all buildings based on research done<p>Formula: 0.3*x^0.7, where x is total of research done.<p>Upgrade good for Mercenary.
+<p><img src=http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png align=middle><b> Eternal Researcher</b></p>
+<p><b>Requirement</b>: Discover all the Dragon researches, R55+</p>
+<p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+<p><b>Formula</b>: 0.3 * x^0.7</p>
+<p><b>Upgrade Cost</b>: 1 Novg (1e90)</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png align=middle><b> Warrior Researcher</b></p>
+<p><b>Requirement</b>: Discover all the Mercenary researches</p>
+<p><b>Effect</b>: Increase the production of all buildings based on research done</p>
+<p><b>Formula</b>: 0.3*x^0.7, where x is total of research done.</p>
+<p><b>Good For</b>: Mercenary.</p>
+<p><b>Upgrade Cost</b>: 1 DSpg (1e219)</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Magic Trophies (55)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaDropletTrophy.png align=middle><b> Mana Droplet</b></p><p>Requirement: 200 Mana Produced (Total)<p>Upgrade Cost: 10,000<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaDropletTrophy.png align=middle><b> Mana Droplet</b></p>
+<p><b>Requirement</b>: 200 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 10,000</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaRainTrophy.png align=middle><b> Mana Rain</b></p><p>Requirement: 2,000 Mana Produced (Total)<p>Upgrade Cost: 20 M (2E7)<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaRainTrophy.png align=middle><b> Mana Rain</b></p>
+<p><b>Requirement</b>: 2,000 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 20 M (2E7)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaSurgeTrophy.png align=middle><b> Mana Surge</b></p><p>Requirement: 5,000 Mana Produced (Total)<p>Upgrade Cost: 30 B (3E10)<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaSurgeTrophy.png align=middle><b> Mana Surge</b></p>
+<p><b>Requirement</b>: 5,000 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 30 B (3E10)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaFountainTrophy.png align=middle><b> Mana Fountain</b></p><p>Requirement: 10,000 Mana Produced (Total)<p>Upgrade Cost: 40 T (4E13)<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaFountainTrophy.png align=middle><b> Mana Fountain</b></p>
+<p><b>Requirement</b>: 10,000 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 40 T (4E13)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaShowerTrophy.png align=middle><b> Mana Shower</b></p><p>Requirement: 20,000 Mana Produced (Total)<p>Upgrade Cost: 50 Qa (5E16)<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaShowerTrophy.png align=middle><b> Mana Shower</b></p>
+<p><b>Requirement</b>: 20,000 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 50 Qa (5E16)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaStreamTrophy.png align=middle><b> Mana Stream</b></p><p>Requirement: 100,000 Mana Produced (Total)<p>Upgrade Cost: 60 Qi (6E19)<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaStreamTrophy.png align=middle><b> Mana Stream</b></p>
+<p><b>Requirement</b>: 100,000 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 60 Qi (6E19)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaFloodTrophy.png align=middle><b> Mana Flood</b></p><p>Requirement: 200,000 Mana Produced (Total)<p>Upgrade Cost: 70 Sx (7E22)<p>Effect: Increase Mana regeneration by +0.50.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaFloodTrophy.png align=middle><b> Mana Flood</b></p>
+<p><b>Requirement</b>: 200,000 Mana Produced (Total)</p>
+<p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+<p><b>Upgrade Cost</b>: 70 Sx (7E22)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png align=middle><b> Mana Wave</b></p><p>Requirement: 20M (20E6) Mana Produced (Total), R40+<p>Upgrade Cost: 80 Sp (8E25)<p>Effect: Post-ascension - Increase Mana regeneration by +5.00.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png align=middle><b> Mana Wave</b></p>
+<p><b>Requirement</b>: 20M (20E6) Mana Produced (Total), R40+</p>
+<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Cost</b>: 80 Sp (8E25)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png align=middle><b> Mana River</b></p><p>Requirement: 1B (1E9) Mana Produced (Total), R40+<p>Upgrade Cost: 90 Oc (9E28)<p>Effect: Post-ascension - Increase Mana regeneration by +5.00.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png align=middle><b> Mana River</b></p>
+<p><b>Requirement</b>: 1B (1E9) Mana Produced (Total), R40+</p>
+<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Cost</b>: 90 Oc (9E28)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png align=middle><b> Mana Lake</b></p><p>Requirement: 20B (2E10) Mana Produced (Total), R40+<p>Upgrade Cost: 100 No (1E32)<p>Effect: Post-ascension - Increase Mana regeneration by +5.00.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png align=middle><b> Mana Lake</b></p>
+<p><b>Requirement</b>: 20B (2E10) Mana Produced (Total), R40+</p>
+<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Cost</b>: 100 No (1E32)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png align=middle><b> Mana Sea</b></p><p>Requirement: 1 T (1E12) mana produced, R40+<p>Cost: 12.5Uqag No (1.25e127)<p>Effect: Increase Mana regeneration by +5.00.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png align=middle><b> Mana Sea</b></p>
+<p><b>Requirement</b>: 1 T (1E12) mana produced, R40+</p>
+<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Cost</b>: 12.5Uqag No (1.25e127)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png align=middle><b> Mana Ocean</b></p><p>Requirement: 2 T (2E12) mana produced, R40+<p>Cost: 150 Noqag (1.5e152)<p>Effect: Increase Mana regeneration by +5.00.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png align=middle><b> Mana Ocean</b></p>
+<p><b>Requirement</b>: 2 T (2E12) mana produced, R40+</p>
+<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Cost</b>: 150 Noqag (1.5e152)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png align=middle><b> Mana Spring</b></p><p>Requirement: 100 T (1E14) mana produced, R100<p>Cost: Free<p>Effect: Increase Mana regeneration by +10.00.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png align=middle><b> Mana Spring</b></p>
+<p><b>Requirement</b>: 100 T (1E14) mana produced, R100</p>
+<p><b>Effect</b>: Increase Mana regeneration by +10.00.</p>
+<p><b>Upgrade Cost</b>: Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MagicUserTrophy.png align=middle><b> Magic User</b></p><p>Requirement: 10 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/MagicUserTrophy.png align=middle><b> Magic User</b></p>
+<p><b>Requirement</b>: 10 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MagicAbuserTrophy.png align=middle><b> Magic Abuser</b></p><p>Requirement: 100 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/MagicAbuserTrophy.png align=middle><b> Magic Abuser</b></p>
+<p><b>Requirement</b>: 100 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellProdigyTrophy.png align=middle><b> Spell Prodigy</b></p><p>Requirement: 500 spells casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellProdigyTrophy.png align=middle><b> Spell Prodigy</b></p>
+<p><b>Requirement</b>: 500 spells casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaLeakerTrophy.png align=middle><b> Mana Leaker</b></p><p>Requirement: 1,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaLeakerTrophy.png align=middle><b> Mana Leaker</b></p>
+<p><b>Requirement</b>: 1,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaEraserTrophy.png align=middle><b> Mana Eraser</b></p><p>Requirement: 2,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaEraserTrophy.png align=middle><b> Mana Eraser</b></p>
+<p><b>Requirement</b>: 2,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AutocasterTrophy.png align=middle><b> Autocaster</b></p><p>Requirement: 5,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AutocasterTrophy.png align=middle><b> Autocaster</b></p>
+<p><b>Requirement</b>: 5,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellSpammerTrophy.png align=middle><b> Spell Spammer</b></p><p>Requirement: 20,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellSpammerTrophy.png align=middle><b> Spell Spammer</b></p>
+<p><b>Requirement</b>: 20,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaAnnihilatorTrophy.png align=middle><b> Mana Annihilator</b></p><p>Requirement: 50,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaAnnihilatorTrophy.png align=middle><b> Mana Annihilator</b></p>
+<p><b>Requirement</b>: 50,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MasterChannelerTrophy.png align=middle><b> Master Channeler</b></p><p>Requirement: 100,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/MasterChannelerTrophy.png align=middle><b> Master Channeler</b></p>
+<p><b>Requirement</b>: 100,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CasterSupremeTrophy.png align=middle><b> Caster Supreme</b></p><p>Requirement: 200,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CasterSupremeTrophy.png align=middle><b> Caster Supreme</b></p>
+<p><b>Requirement</b>: 200,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellSuperiorityTrophy.png align=middle><b> Spell Superiority</b></p><p>Requirement: 500,000 spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellSuperiorityTrophy.png align=middle><b> Spell Superiority</b></p>
+<p><b>Requirement</b>: 500,000 spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MassiveAutocasterTrophy.png align=middle><b> Massive Autocaster</b></p><p>Requirement: 1 M (1E6) spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/MassiveAutocasterTrophy.png align=middle><b> Massive Autocaster</b></p>
+<p><b>Requirement</b>: 1 M (1E6) spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellWeaverTrophy.png align=middle><b> Spell Weaver</b></p><p>Requirement: 50 M (5E7) spell casts in a single game.<p>Note: No upgrade associated with this trophy.
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArchwizardTrophy.png align=middle><b> Archwizard</b></p><p>Requirement: 1 B (1E9) spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellWeaverTrophy.png align=middle><b> Spell Weaver</b></p>
+<p><b>Requirement</b>: 50 M (5E7) spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
+    <br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArchwizardTrophy.png align=middle><b> Archwizard</b></p>
+<p><b>Requirement</b>: 1 B (1E9) spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellMasterTrophy.png align=middle><b> Spell Master</b></p><p>Requirement: 50 T (5E13) spell casts in a single game.<p>Note: No upgrade associated with this trophy.
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellMasterTrophy.png align=middle><b> Spell Master</b></p>
+<p>Requirement: 50 T (5E13) spell casts in a single game.</p>
+<p><b>Note</b>: No upgrade associated with this trophy.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png align=middle><b> Automatic Casting</b></p><p>Requirement: 60,000 Mana Produced (Total)<p>Upgrade Cost: 100 B (1E11)<p>Effect: Allows autocasting of spells by CTRL+Clicking them.<p>While you have at least 1 spell in autocasting mode, your mana regen rate is reduced by 50%.<p>Effect: While offline, spells are not cast, instead increases mana produced amount by 10% of your mana regen per second.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png align=middle><b> Automatic Casting</b></p>
+<p><b>Requirement</b>: 60,000 Mana Produced (This R)</p>
+<p><b>Effect</b>: Allows autocasting of spells by CTRL+Clicking them.</p>
+<p><b>Effect</b>: While you have at least 1 spell in autocasting mode, your mana regen rate is reduced by 50%.</p>
+<p><b>Effect</b>: While offline, spells are not cast, instead increases mana produced amount by 10% of your mana regen per second.</p>
+<p><b>Upgrade Cost</b>: 100 B (1E11)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingTrophy.png align=middle><b> Improved Autocasting</b></p><p>Requirement: 2 M (2E6) Mana Produced (Total)<p>Upgrade Cost: 200 Qi (2E20)<p>Effect: Reduces mana regeneration penalty to Autocast to -25%.<p>Effect: While offline, increases mana produced amount by an additional 15% of your mana regeneration per second.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingTrophy.png align=middle><b> Improved Autocasting</b></p>
+<p><b>Requirement</b>: 2 M (2E6) Mana Produced (This R)</p>
+<p><b>Effect</b>: Reduces mana regeneration penalty to Autocast to -25%.</p>
+<p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your mana regeneration per second.</p>
+<p><b>Upgrade Cost</b>: 200 Qi (2E20)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingTrophy.png align=middle><b> Masterful Autocasting</b></p><p>Requirement: 6 M (6E6) Mana Produced (Total)<p>Upgrade Cost: 300 Oc (3E29)<p>Effect: Totally removes mana regeneration penalty from Autocast.<p>Effect: While offline, increases mana produced amount by an additional 35% of your mana regeneration per second.
+<p><img src=http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingTrophy.png align=middle><b> Masterful Autocasting</b></p>
+<p><b>Requirement</b>: 6 M (6E6) Mana Produced (This R)</p>
+<p><b>Effect</b>: Totally removes mana regeneration penalty from Autocast.</p>
+<p><b>Effect</b>: While offline, increases mana produced amount by an additional 35% of your mana regeneration per second.</p>
+<p><b>Upgrade Cost</b>: 300 Oc (3E29)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png align=middle><b> Priority Autocasting</b></p><p>Requirement: 12 M (1.2E7) Mana Produced (Total)<p>Upgrade Cost: 400 Ud (4E38)<p>Effect: Allows you to prioritize the order of spell casting.<p>Spells with lower priority will be cast only if the higher priority spells are already active.<p>Effect: While offline, improves spell cast amount by 1 per minute.
+<p><img src=http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png align=middle><b> Priority Autocasting</b></p>
+<p><b>Requirement</b>: 12 M (1.2E7) Mana Produced (This R)</p>
+<p><b>Effect</b>: Allows you to prioritize the order of spell casting.</p>
+<p><b>Note</b>: Spells with lower priority will be cast only if the higher priority spells are already active.</p>
+<p><b>Effect</b>: While offline, improves spell cast amount by 1 per minute.</p>
+<p><b>Upgrade Cost</b>: 400 Ud (4E38)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png align=middle><b> Contingency Autocasting</b></p><p>Requirement: 20 M (2E7) Mana Produced (Total)<p>Upgrade Cost: 500 Qad (5E47)<p>Effect: Allows you to set a minimum amount of mana before starting to Autocast.<p>A slide bar will appear when you CTRL+Click on the mana bar. <p>Contingency-slidebar By adjusting its height you will set a minimum amount of mana below which spells won't be cast. <p>Once your mana reaches the threshold, spells will follow the priority rules.<p>The contingency loop will break when you can't cast a spell, at which point the cycle will reset.<p>Effect: While offline, improves spell cast amount by an additional 2 per minute.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png align=middle><b> Contingency Autocasting</b></p>
+<p><b>Requirement</b>: 20 M (2E7) Mana Produced (This R)</p>
+<p><b>Effect</b>: Allows you to set a minimum amount of mana before starting to Autocast.</p>
+<p><b>Note</b>: A slide bar will appear when you CTRL+Click on the mana bar.</p>
+<p><b>Note</b>: Contingency-slidebar By adjusting its height you will set a minimum amount of mana below which spells won't be cast.</p>
+<p><b>Note</b>: >Once your mana reaches the threshold, spells will follow the priority rules.</p>
+<p><b>Note</b>: The contingency loop will break when you can't cast a spell, at which point the cycle will reset.</p>
+<p><b>Effect</b>: While offline, improves spell cast amount by an additional 2 per minute.</p>
+<p><b>Upgrade Cost</b>: 500 Qad (5E47)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png align=middle><b> Planned Autocasting</b></p><p>Requirement: 30 M (3E7) Mana Produced (Total)<p>Upgrade Cost: 600 Spd (6E56)<p>Effect: Allows you to set Primary and Secondary spells.<p>Primary spells (Set with CTRL+Click) will fire when you have max mana with Contingency Autocasting. <p>Secondary spells (Set with SHIFT+Click) will fire as soon as you have the mana, as long as the primary spells are ALL still active.<p>Effect: While offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.
+<p><img src=http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png align=middle><b> Planned Autocasting</b></p>
+<p><b>Requirement</b>: 30 M (3E7) Mana Produced (Total)</p>
+<p><b>Effect</b>: Allows you to set Primary and Secondary spells.</p>
+<p><b>Note</b>: Primary spells (Set with CTRL+Click) will fire when you have max mana with Contingency Autocasting.</p>
+<p><b>Note</b>: Secondary spells (Set with SHIFT+Click) will fire as soon as you have the mana, as long as the primary spells are ALL still active.</p>
+<p><b>Effect</b>: While offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.</p>
+<p><b>Upgrade Cost</b>: 600 Spd (6E56)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png align=middle><b> Efficient Autocasting</b></p><p>Requirement: 50 M (5E7) Mana Produced (Total)<p>Upgrade Cost: 700 Vg (7E65)<p>Effect: Allows you to select Independent Spells,<p>A bronze icon (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are casted as soon as you have enough mana for them.<p>Effect: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.
+<p><img src=http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png align=middle><b> Efficient Autocasting</b></p>
+<p><b>Requirement</b>: 50 M (5E7) Mana Produced (Total)</p>
+<p><b>Effect</b>: Allows you to select Independent Spells</p>
+<p><b>Note</b>: A bronze icon (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are casted as soon as you have enough mana for them.</p>
+<p><b>Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
+<p><b>Upgrade Cost</b>: 700 Vg (7E65)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle><b> Tiered Autocasting</b></p><p>Requirement: R40+, 200M Mana Produced (Total this R).<p>Note: This trophy unlocks at R40, The upgrade unlocks at R42<p>Upgrade Cost: Free<p>Effect: Allows you to set the maximum tier you wish to autocast each spell to.<p>Note: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.<p>Effect: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x))
+<p><img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle><b> Tiered Autocasting</b></p>
+<p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
+<p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
+<p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.</p>
+<p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
+<p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x))</p>
+<p><b>Upgrade Cost</b>: Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png align=middle><b> Arcane Brilliance 1</b></p><p>Requirement: Unlock tier 2 for all spells<p>Effect: Reduces tier unlock time<p>Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png align=middle><b> Arcane Brilliance 1</b></p>
+<p><b>Requirement</b>: Unlock tier 2 for all spells</p>
+<p><b>Effect</b>: Reduces tier unlock time</p>
+<p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance2Trophy.png align=middle><b> Arcane Brilliance 2</b></p><p>Requirement: Unlock tier 3 for all spells<p>Effect: Reduces tier unlock time<p>Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance2Trophy.png align=middle><b> Arcane Brilliance 2</b></p>
+<p><b>Requirement</b>: Unlock tier 3 for all spells</p>
+<p><b>Effect</b>: Reduces tier unlock time</p>
+<p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance3Trophy.png align=middle><b> Arcane Brilliance 3</b></p><p>Requirement: Unlock tier 4 for all spells<p>Effect: Reduces tier unlock time<p>Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance3Trophy.png align=middle><b> Arcane Brilliance 3</b></p>
+<p><b>Requirement</b>: Unlock tier 4 for all spells</p>
+<p><b>Effect</b>: Reduces tier unlock time</p>
+<p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance4Trophy.png align=middle><b> Arcane Brilliance 4</b></p><p>Requirement: Unlock tier 5 for all spells<p>Effect: Reduces tier unlock time<p>Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance4Trophy.png align=middle><b> Arcane Brilliance 4</b></p>
+<p><b>Requirement</b>: Unlock tier 5 for all spells</p>
+<p><b>Effect</b>: Reduces tier unlock time</p>
+<p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance5Trophy.png align=middle><b> Arcane Brilliance 5</b></p><p>Requirement: Unlock tier 6 for all spells<p>Effect: Reduces tier unlock time<p>Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance5Trophy.png align=middle><b> Arcane Brilliance 5</b></p>
+<p><b>Requirement</b>: Unlock tier 6 for all spells</p>
+<p><b>Effect</b>: Reduces tier unlock time</p>
+<p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance6Trophy.png align=middle><b> Arcane Brilliance 6</b></p><p>Requirement: Unlock tier 7 for all spells<p>Effect: Reduces tier unlock time<p>Formula: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance6Trophy.png align=middle><b> Arcane Brilliance 6</b></p>
+<p><b>Requirement</b>: Unlock tier 7 for all spells</p>
+<p><b>Effect</b>: Reduces tier unlock time</p>
+<p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p><p>Requirement: Cast the Tax Collection spell 30 times in less than 5 seconds.)<p>Upgrade Cost: 1 Dc (1E33)<p>Effect: Tax Collection also finds 30 seconds worth of Faction Coins.<p>Default Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p>
+<p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>
+<p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
+<p><b>Upgrade Cost</b>: 1 Dc (1E33)</p>
+<p><b>Default Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png align=middle><b> Fairy Choir</b></p><p>Requirement: Cast Fairy Chanting while having 45 or more assistants.<p>Upgrade Cost: 1 M (1E6)<p>Effect: Fairy Chanting triples your assistants for its duration.<p>Fairy Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png align=middle><b> Fairy Choir</b></p>
+<p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
+<p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.</p>
+<p><b>Upgrade Cost</b>: 1 M (1E6)</p>
+<p><b>Fairy Spell</b>
+<br/></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png align=middle><b> Sun Blessing</b></p>
+<p><b>Requirement</b>: Activate the Moon Blessing spell after 6 am and before 12 pm (noon).</p>
+<p><b>Effect</b>: The treasure is autoclicked 15 times per second while Moon Blessing is active.</p>
+<p><b>Upgrade Cost</b>: 1 M (1E6)</p>
+<p><b>Elven Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png align=middle><b> Sun Blessing</b></p><p>Requirement: Activate the Moon Blessing spell after 6 am and before 12 pm (noon).<p>Upgrade Cost: 1 M (1E6)<p>Effect: The treasure is autoclicked 15 times per second while Moon Blessing is active.<p>Elven Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png align=middle><b> God's Rest</b></p>
+<p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
+<p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</p>
+<p><b>Upgrade Cost</b>: 1 M (1E6)</p>
+<p><b>Angel Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png align=middle><b> God's Rest</b></p><p>Requirement: Cast God's Hand on any Sunday.<p>Upgrade Cost: 1 M (1E6)<p>Effect: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.<p>Angel Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/GreedDriveSecretTrophy.png align=middle><b> Greed Drive</b></p>
+<p><b>Requirement</b>: Goblin Spell: Cast 100 Goblin's Greed spells in a row in a single game. The chain is interrupted by casting different spells.</p>
+<p><b>Note</b>: Spell casts from the Goblin's Central Bank upgrade are included in the [stats], but they do not count for this trophy.</p>
+<p><b>Effect</b>: Goblin's Greed cost 150 less mana.</p>
+<p><b>Upgrade Cost</b>: 1 M (1E6)</p>
+<p><b>Goblin Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/GreedDriveSecretTrophy.png align=middle><b> Greed Drive</b></p><p>Requirement: Goblin Spell: Cast 100 Goblin's Greed spells in a row in a single game. The chain is interrupted by casting different spells.<p>Note: Spell casts from the Goblin's Central Bank upgrade are included in the [stats], but they do not count for this trophy.<p>Upgrade Cost: 1 M (1E6)<p>Effect: Goblin's Greed cost 150 less mana.<p>Goblin Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/TrueNightSecretTrophy.png align=middle><b> True Night</b></p>
+<p><b>Requirement</b>: Undead Spell: Activate the Night Time spell after 11 pm and before 6 am.</p>
+<p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.</p>
+<p><b>Upgrade Cost</b>: 1 M (1E6)</p>
+<p><b>Undead Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TrueNightSecretTrophy.png align=middle><b> True Night</b></p><p>Requirement: Undead Spell: Activate the Night Time spell after 11 pm and before 6 am.<p>Effect: Increase Night Time boost to assistants production to 40% per Necropolis.<p>Undead Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/HellRushSecretTrophy.png align=middle><b> Hell Rush</b></p>
+<p><b>Requirement</b>: Cast Hellfire Blast in the first 60 seconds of playtime</p>
+<p><b>Effect</b>: Hellfire Blast also boost Halls of Legends</p>
+<p><b>Upgrade Cost</b>: 1 M (1E6)</p>
+<p><b>Demon Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/HellRushSecretTrophy.png align=middle><b> Hell Rush</b></p><p>Requirement: Cast Hellfire Blast in the first 60 seconds of playtime<p>Upgrade Cost: 1 M (1E6)<p>Effect: Hellfire Blast also boost Halls of Legends<p>Demon Spell.
+<p><img src=http://musicfamily.org/realm/Factions/picks/LightningStormSecretTrophy.png align=middle><b> Lightning Storm</b></p>
+<p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
+<p><b>Effect</b>: Increase Lightning Strike multiplier to 500% per Iron Stronghold</p>
+<p><b>Upgrade Cost</b>: 10 Dd (1E40)</p>
+<p><b>Titan Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/LightningStormSecretTrophy.png align=middle><b> Lightning Storm</b></p><p>Requirement: Cast Lightning Strike 100 times in a single game.<p>Upgrade Cost: 10 Dd (1E40)<p>Effect: Increase Lightning Strike multiplier to 500% per Iron Stronghold<p>Titan Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/HallsofBalanceSecretTrophy.png align=middle><b> Halls of Balance</b></p>
+<p><b>Requirement</b>: Have Grand Balance affect Hall of Legends</p>
+<p><b>Effect</b>: Increase Grand Balance duration by 4 seconds and lower its cost by 200 mana</p>
+<p><b>Upgrade Cost</b>: 10 Dd (1E40)</p>
+<p><b>Druid Spell</b></p>
+<p><b>Tip</b>: Buy at least 1 of everything and buy 0 Hall of Legends.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/HallsofBalanceSecretTrophy.png align=middle><b> Halls of Balance</b></p><p>Requirement: Have Grand Balance affect Hall of Legends<p>Upgrade Cost: 10 Dd (1E40)<p>Effect: Increase Grand Balance duration by 4 seconds and lower its cost by 200 mana<p>Druid Spell<p>Tip: Buy at least 1 of everything and buy 0 Hall of Legends.
+<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessOvermindSecretTrophy.png align=middle><b> Faceless Overmind</b></p>
+<p><b>Requirement</b>: Affiliate with the Faceless 5 times in a row. (Buy Faceless Trade Treaty 5x in a row)</p>
+<p><b>Effect</b>: Increase Brainwave tick to 3% per second
+<p><b>Upgrade Cost</b>: 10 Dd (1E40)</p>
+<p><b>Faceless Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessOvermindSecretTrophy.png align=middle><b> Faceless Overmind</b></p><p>Requirement: Affiliate with the Faceless 5 times in a row. (Buy Faceless Trade Treaty 5x in a row)<p>Upgrade Cost: 10 Dd (1E40)<p>Effect: Increase Brainwave tick to 3% per second<p>Faceless Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/MinedwarfSecretTrophy.png align=middle><b> Minedwarf</b></p>
+<p><b>Requirement</b>: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.</p>
+<p><b>Effect</b>:</p>
+<p><b>Upgrade Cost</b>: 100 Sxd (1E53)</p>
+<p><b>Dwarf Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MinedwarfSecretTrophy.png align=middle><b> Minedwarf</b></p><p>Requirement: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.<p>Dwarf Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/PerfectComboSecretTrophy.png align=middle><b> Perfect Combo</b></p>
+<p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
+<p><b>Effect</b>:</p>
+<p><b>Upgrade Cost</b>: 100 Sxd (1E53)</p>
+<p><b>Drow Spell</b></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PerfectComboSecretTrophy.png align=middle><b> Perfect Combo</b></p><p>Requirement: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.<p>Drow Spell
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle><b> Dragon's Roar</b></p><p>Requirement: Cast Dragon's Breath while having at least 4 other active spells.<p>Cost: 1.0e45<p>Effect: Dragon's Breath also produces Faction Coins at each cast based on its activity time.<p>Dragon Spell
+<p><img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle><b> Dragon's Roar</b></p>
+<p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
+<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
+<p><b>Upgrade Cost</b>: 1.0e45</p>
+<p><b>Dragon Spell</b></p>
                  </div>
             </div>
                 <hr>
