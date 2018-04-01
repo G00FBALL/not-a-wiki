@@ -2959,121 +2959,420 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (58)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p><p>Requirement: Have exactly 1337 Coins at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)<p>Upgrade Cost Post Ascension: Free<p>This can be done at any R.<p>Upgrade Effect: Increase the production of all buildings by 1.337%</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
+<p><b>Requirement</b>: Have exactly 1337 Coins at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)</p>
+<p><b>Effect</b>: Increase the production of all buildings by 1.337%</p>
+<p><b>Cost</b>: 10 M (1e7)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at any R.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle><b> Unitary</b></p><p>Requirement: Have exactly 1 of each building at any given time.<p>Upgrade Cost Pre Ascension: 10 M (1e7)<p>Upgrade Cost Post Ascension: Free<p> This can be done at any R.<p>Upgrade Effect: Increase the production of all buildings by 1.11111111%</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle><b> Unitary</b></p>
+<p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 1.11111111%</p>
+<p><b>Cost</b>: 10 M (1e7)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at any R.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p><p>Requirement: Reach 100'000 coins without building anything.<p>Upgrade Cost Pre Ascension: 10 Dc (1e34)<p>Upgrade Cost Post Ascension: Free<p> This can be done at any R.<p>Upgrade Effect: Increase clicking reward by 25%<p>Post Ascension: Increase the production of all buildings by 2.26%</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
+<p><b>Requirement</b>: Reach 100'000 coins without building anything.</p>
+<p><b>Effect</b>: Increase clicking reward by 25%<p>Post Ascension: Increase the production of all buildings by 2.26%</p>
+<p><b>Cost</b>: 10 Dc (1e34)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at any R.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle><b> Grand Diplomat</b></p><p>Requirement: Ally with each Vanilla, Neutral and Prestige factions at least once.<p>Upgrade Cost Pre Ascension: 6 T (6e12)<p>Upgrade Cost Post Ascension: Free<p> This can be done at any R.<p>Upgrade Effect: Increase your chance to find Faction Coins by an additional 1%</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle><b> Grand Diplomat</b></p>
+<p><b>Requirement</b>: Ally with each Vanilla, Neutral and Prestige factions at least once.</p>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 1%</p>
+<p><b>Cost</b>: 6 T (6e12)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at any R.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png align=middle><b> Exchange Master</b></p><p>Requirement: Purchase 500 Royal Exchanges in a single game.<p>Upgrade Cost Pre Ascension: 500 Dc (5e35)<p>Upgrade Cost Post Ascension: Free<p>This can be done at any R, The higher the R the easier it will be<p>Upgrade Effect: Increase Royal Exchange bonus by 5%</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png align=middle><b> Exchange Master</b></p>
+<p><b>Requirement</b>: Purchase 500 Royal Exchanges in a single game.</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 5%</p>
+<p><b>Cost</b>: 500 Dc (5e35)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at any R, The higher the R the easier it will be.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretTrophy.png align=middle><b> Lucky Neutral</b></p><p>Requirement: Spend 7777 minutes being Neutral across all reincarnations.(= 5d 9h 37m)<p>Upgrade Cost Pre Ascension: 30 No (3e31)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of Neutral buildings by 50%.<p>Post Ascension: Increase the production of Neutral buildings by 4.14%</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretTrophy.png align=middle><b> Lucky Neutral</b></p>
+<p><b>Requirement</b>: Spend 7777 minutes being Neutral across all reincarnations.(= 5d 9h 37m)</p>
+<p><b>Effect</b>: Increase the production of Neutral buildings by 50%.</p>
+<p><b>Effect</b>: A1, Increase the production of Neutral buildings by 4.14%</p>
+<p><b>Cost</b>: 30 No (3e31)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretTrophy.png align=middle><b> Perfectly Good</b></p><p>Requirement: Spend 333 hours being Good across all reincarnations.(= 13d 21h)<p>Upgrade Cost Pre Ascension: 30 No (3e31)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of Good buildings by 50%.<p>Post Ascension: Increase the production of Good buildings by 4.14%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretTrophy.png align=middle><b> Perfectly Good</b></p>
+<p><b>Requirement</b>: Spend 333 hours being Good across all reincarnations.(= 13d 21h)</p>
+<p><b>Effect</b>: Increase the production of Good buildings by 50%.</p>
+<p><b>Effect</b>: A1, Increase the production of Good buildings by 4.14%.</p>
+<p><b>Cost</b>: 30 No (3e31)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretTrophy.png align=middle><b> Diabolical Evil</b></p><p>Requirement: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s).<p>Upgrade Cost Pre Ascension: 30 No (3e31)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of Evil buildings by 50%.<p>Post Ascension: Increase the production of Evil buildings by 4.14%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretTrophy.png align=middle><b> Diabolical Evil</b></p>
+<p><b>Requirement</b>: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s).</p>
+<p><b>Effect</b>: Increase the production of Evil buildings by 50%.</p>
+<p><b>Effect</b>: A1, Increase the production of Evil buildings by 4.14%.</p>
+<p><b>Cost</b>: 30 No (3e31)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p><p>Requirement: Click 100 times on the little assistant around your realm.<p>Upgrade Cost Pre Ascension: 100 Qa (1e17)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Instantly add 1 additional assistant.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p>
+<p><b>Requirement</b>: Click 100 times on the little assistant around your realm.</p>
+<p><b>Effect</b>: Instantly add 1 additional assistant.</p>
+<p><b>Cost</b>: 100 Qa (1e17)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle><b> Rewind</b></p><p>Requirement: Abdicate after producing at least 1 Oc (1E27) Coins.<p>Upgrade Cost Pre Ascension: 1 Oc (1e27)<p>Upgrade Cost Post Ascension: Free<p>This can be done at any R, The higher the R the easier it will be.<p>Upgrade Effect: Increase the production of all buildings by 8%.<p>Post Ascension: Increase the production of all buildings by 0.77%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle><b> Rewind</b></p>
+<p><b>Requirement</b>: Abdicate after producing at least 1 Oc (1E27) Coins.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 8%.</p>
+<p><b>Effect</b>: A1, Increase the production of all buildings by 0.77%.</p>
+<p><b>Cost</b>: 1 Oc (1e27)</p>
+<p><b>Cost</b>: Post A+,  Free</p>
+<p><b>Note</b>: This can be done at any R, The higher the R the easier it will be.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p><p>Requirement: Purchase the first 6 Faction Heritage upgrades in a single game.<p>Upgrade Cost Pre Ascension: 6 Oc (6e27)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0 (use Elf).<p>Upgrade Effect: Increase your chance to find Faction Coins by additional 1%.<p>Post Ascension: Increase your chance to find Faction Coins by additional 1%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
+<p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by additional 1%.</p>
+<p><b>Effect</b>: A1, Increase your chance to find Faction Coins by additional 1%.</p>
+<p><b>Cost</b>: 6 Oc (6e27)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R0 (use Elf).</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p><p>You have discovered all the relics of the Ancient Races.<p>Upgrade Cost Pre Ascension: 1 Ud (1e36)<p>Upgrade Cost Post Ascension: Free<p>Requirement: Unlock Titans, Druids, and Faceless<p> This can be done at R0.<p>Upgrade Effect: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless.<p>Post Ascension: Increase the production of all buildings by 0.49% when you are playing as Titan, Druid or Faceless.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p>
+<p>You have discovered all the relics of the Ancient Races.</p>
+<p><b>Requirement</b>: Unlock Titans, Druids, and Faceless</p>
+<p><b>Effect</b>: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless.</p>
+<p><b>Effect</b>: A1, Increase the production of all buildings by 0.49% when you are playing as Titan, Druid or Faceless.</p>
+<p><b>Cost</b>: 1 Ud (1e36)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R0.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p><p>Requirement: Cast the Tax Collection spell while having 3 other spells active.<p>Upgrade Cost Pre Ascension: 4 Dc (4e33)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0.(use Angles and all their upgrades)<p>Upgrade Effect: Increase Mana production by 5%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p>
+<p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
+<p><b>Effect</b>: Increase Mana production by 5%.</p>
+<p><b>Cost</b>: 4 Dc (4e33)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R0.(use Angles and all their upgrades)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p><p>Requirement: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Can be done at R0<p>Upgrade Effect: Increase your base clicking reward by 1M.<p> Click image for Instructions.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p>
+<p><b>Requirement</b>: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.</p>
+<p><b>Effect</b>: Increase your base clicking reward by 1M.</p>
+<p><b>Cost</b>: 10 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done at R0</p>
+<p><b>Note</b>: <a href="http://musicfamily.org/realm/SpeedRun/"><center>Instructions</a></p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png align=middle><b> Equality</b></p><p>Requirement: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.<p>Alignments: Good, Evil, Neutral<p>Upgrade Cost Pre Ascension: 1 Qad (1e45)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0.<p>Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.<p>Upgrade Effect: Increase the production of all buildings by 100%.<p>Post Ascension: Increase the production of all buildings by 7.18%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png align=middle><b> Equality</b></p>
+<p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.</p>
+<p><b>Note</b>: Alignments: Good, Evil, Neutral</p>
+<p><b>Effect</b>: Increase the production of all buildings by 100%.</p>
+<p><b>Effect</b>: A1, the production of all buildings by 7.18%.</p>
+<p><b>Cost</b>: 1 Qad (1e45)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.</p>
+<p><b>Note</b>: This can be done at R0.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p><p>Requirement: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).<p>This takes 3d 11h 20m and can be done at R0.<p>Upgrade Cost Pre Ascension: 10 Nod (1e61)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase assistants production by 10%.<p>Post Ascension: Increase assistants production by 0.96%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p>
+<p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
+<p><b>Effect</b>: Increase assistants production by 10%.<p>Post Ascension: Increase assistants production by 0.96%.</p>
+<p><b>Cost</b>: 10 Nod (1e61)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p><p>Requirement: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.<p>Upgrade Cost Pre Ascension: 50 Ocd (5e58)<p>Upgrade Cost Post Ascension: Free<p>Can be done at the end of R2+ with high gem count.<p>Upgrade Effect: Increase maximum Mana by 250.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p>
+<p><b>Requirement</b>: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.</p>
+<p><b>Effect</b>: Increase maximum Mana by 250.</p>
+<p><b>Cost</b>: 50 Ocd (5e58)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done at the end of R2+ with high gem count.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle><b> Fast Forward</b></p><p>Requirement: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)<p>Upgrade Cost Pre Ascension: 8 Oc (8e27)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R0.<p>Upgrade Effect: Increase offline production by 200%.<p>Post Ascension: Increase offline production by 11.6%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle><b> Fast Forward</b></p>
+<p><b>Requirement</b>: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)</p>
+<p><b>Effect</b>: Increase offline production by 200%.</p>
+<p><b>Effect</b>: Post A1, Increase offline production by 11.6%.</p>
+<p><b>Cost</b>: 8 Oc (8e27)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R0.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png align=middle><b> Need a Head Start?</b></p><p>Requirement: Don't do anything for 5 minutes after starting a new game or after abdicating. Don't buy anything and don't click anything<p>Cost: Free<p>This can be done at the start of any reincarnation or abdication.<p>Upgrade Effect: Instantly adds 10 gold coins.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png align=middle><b> Need a Head Start?</b></p>
+<p><b>Requirement</b>: Don't do anything for 5 minutes after starting a new game or after abdicating. Don't buy anything and don't click anything.</p>
+<p><b>Effect</b>: Instantly adds 10 gold coins.</p>
+<p><b>Cost</b>: Free</p>
+<p><b>Note</b>: This can be done at the start of any reincarnation or abdication.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png align=middle><b> Realm Digger</b></p><p>Requirement: Excavate 400 times.<p>Upgrade Cost Pre Ascension: 100 Nod (1e62)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0.<p>Upgrade Effect: Increases production of all buildings by 0.15% per excavation.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png align=middle><b> Realm Digger</b></p>
+<p><b>Requirement</b>: Excavate 400 times.</p>
+<p><b>Effect</b>: Increases production of all buildings by 0.15% per excavation.</p>
+<p><b>Cost</b>: 100 Nod (1e62)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R0.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle><b> Harlequin</b></p><p>Requirement: As a Mercenary, purchase one upgrade from 11 different factions.<p>Upgrade Cost Pre Ascension: 5 Qivg (5e78)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R3 with Merc Build (Harlequin)<p>Click image to go to the Harlequin Build.<p>Upgrade Effect: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)<p>Post Ascension: Increases production of all buildings based on the amount of different factions involved in your mercenary upgrades.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle><b> Harlequin</b></p>
+<p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 11 different factions.</p>
+<p><b>Note</b>: Click image to go to the Harlequin Build.</p>
+<p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)</p>
+<p><b>Effect</b>: Post A1, Increases production of all buildings based on the amount of different factions involved in your mercenary upgrades.</p>
+<p><b>Cost</b>: 5 Qivg (5e78)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R3 with Merc Build (Harlequin)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle><b> Lucifer</b></p><p>Requirement: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.<p>Upgrade Cost Pre Ascension: 5 Qivg (5e78)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R3 with Merc Build (Lucifer)<p>Upgrade Effect: Increases production of all non-neutral buildings by 300%.<p>Post Ascension: Increases production of all non-neutral buildings by 14.9%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle><b> Lucifer</b></p>
+<p><b>Requirement</b>: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</p>
+<p><b>Effect</b>: Increases production of all non-neutral buildings by 300%.</p>
+<p><b>Effect</b>: Post A1, Increases production of all non-neutral buildings by 14.9%.</p>
+<p><b>Cost</b>: 5 Qivg (5e78)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at R3 with Merc Build (Lucifer)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle><b> Mathematician</b></p><p>Requirement: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.<p>1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)<p>Upgrade Cost Pre Ascension: 1 Td (1e42)<p>Upgrade Cost Post Ascension: Free<p>This can be done at the end of R0 just before reincarnating.<p>Upgrade Effect: Increases the production of all buildings by 10% per tier (10% for Halls, the 20% for the next building up, etc).</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle><b> Mathematician</b></p>
+<p><b>Requirement</b>: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.</p>
+<p><b>Note</b>: 1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)</p>
+<p><b>Effect</b>: Increases the production of all buildings by 10% per tier (10% for Halls, the 20% for the next building up, etc).</p>
+<p><b>Cost</b>: 1 Td (1e42)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: This can be done at the end of R0 just before reincarnating.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle><b> Mercenary Spirit</b></p><p>Requirement: Reincarnate while playing as a Mercenary.<p>Upgrade Cost Pre Ascension: 1 Ocd (1e57)<p>Upgrade Cost Post Ascension: Free<p> Can be done at R3.<p>Upgrade Effect: Increases production of all buildings by 15% per reincarnation.<p>Post Ascension: Increases production of all buildings based on the amount of reincarnation. (For Mercenary only)</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle><b> Mercenary Spirit</b></p>
+<p><b>Requirement</b>: Reincarnate while playing as a Mercenary.</p>
+<p><b>Effect</b>: Increases production of all buildings by 15% per reincarnation.</p>
+<p><b>Effect</b>: Post A1, Increases production of all buildings based on the amount of reincarnation. (For Mercenary only)</p>
+<p><b>Cost</b>: 1 Ocd (1e57)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done at R3.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p><p>Requirement: Unlock all Bloodlines. (excluding the Dragon bloodline)<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost A1+: Free<p>This can be done at R7<p>The Bloodline upgrade appears at the 7th reincarnation and requires you to have bought a total of 100 Faction upgrades of each faction, total across reincarnations. Upgrades such as Trade Treaties, Friendship Pacts, Alliances, Heritages, and Spell Upgrades all count towards this.<p>Upgrade Effect: Increases the production of all buildings based on the time spent with the Bloodline's Faction. When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.<p>Formula: 0.1*x0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.<p>Post Ascension: Increases the production of all buildings based on the time spent with the Bloodline you are using. While you are mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p>
+<p><b>Requirement</b>: Unlock all Bloodlines. (excluding the Dragon bloodline)</p>
+<p><b>Effect</b>: Increases the production of all buildings based on the time spent with the Bloodline's Faction. When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.</p>
+<p><b>Formula</b>: 0.1*x0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.
+<p><b>Effect</b>: Increases the production of all buildings based on the time spent with the Bloodline you are using. While you are mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using.</p>
+<p><b>Cost</b>: 1 Tg (1e93)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: The Bloodline upgrade appears at the 7th reincarnation and requires you to have bought a total of 100 Faction upgrades of each faction, total across reincarnations. Upgrades such as Trade Treaties, Friendship Pacts, Alliances, Heritages, and Spell Upgrades all count towards this.</p>
+<p><b>Note</b>: This can be done at R7</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png align=middle><b> Unlimited Mana</b></p><p>Requirement: Have at least 300 mana per second.<p>Upgrade Cost Pre Ascension: 80 Vg (8e64)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase mana regeneration by +2.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png align=middle><b> Unlimited Mana</b></p>
+<p><b>Requirement</b>: Have at least 300 mana per second.</p>
+<p><b>Effect</b>: Increase mana regeneration by +2.</p>
+<p><b>Cost</b>: 80 Vg (8e64)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle><b> For Science!</b></p><p>Requirement: Purchase all the research facilities.<p>Upgrade Cost Pre Ascension: 1 Qag (1e123)<p>Upgrade Cost Post Ascension: Free<p>Can be done at R16.<p>Upgrade Effect: Increase the overall production of Vanilla Factions by 100%.<p>Post Ascension: Increase the overall production of Vanilla Factions by 7.18%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle><b> For Science!</b></p>
+<p><b>Requirement</b>: Purchase all the research facilities.</p>
+<p><b>Effect</b>: Increase the overall production of Vanilla Factions by 100%.</p>
+<p><b>Effect</b>: Post A1, Increase the overall production of Vanilla Factions by 7.18%.</p>
+<p><b>Cost</b>: 1 Qag (1e123)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done at R16.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle><b> Exchange Lord</b></p><p>Requirement: Purchase 1500 Royal Exchanges in a single game.<p>Upgrade Cost Pre Ascension: 500 Qag (5e125)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Royal Exchange bonus by 5%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle><b> Exchange Lord</b></p>
+<p><b>Requirement</b>: Purchase 1500 Royal Exchanges in a single game.</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 5%.</p>
+<p><b>Cost</b>: 500 Qag (5e125)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/MagicianSecretTrophy.png align=middle><b> Magician</b></p><p>Requirement: Discover at least 10 Spellcraft Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Spellcraft upgrade slots by 1.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/MagicianSecretTrophy.png align=middle><b> Magician</b></p>
+<p><b>Requirement</b>: Discover at least 10 Spellcraft Researches.</p>
+<p><b>Effect</b>: Increase Spellcraft upgrade slots by 1.</p>
+<p><b>Cost</b>: 250 Noqag (2.50e152)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ArtisanSecretTrophy.png align=middle><b> Artisan</b></p><p>Requirement: Discover at least 10 Craftsmanship Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Craftsmanship upgrade slots by 1.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ArtisanSecretTrophy.png align=middle><b> Artisan</b></p>
+<p><b>Requirement</b>: Discover at least 10 Craftsmanship Researches.</p>
+<p><b>Effect</b>: Increase Craftsmanship upgrade slots by 1.</p>
+<p><b>Cost</b>: 250 Noqag (2.50e152)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DemigodSecretTrophy.png align=middle><b> Demigod</b></p><p>Requirement: Discover at least 10 Divine Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Divine upgrade slots by 1.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DemigodSecretTrophy.png align=middle><b> Demigod</b></p>
+<p><b>Requirement</b>: Discover at least 10 Divine Researches.</p>
+<p><b>Effect</b>: Increase Divine upgrade slots by 1.</p>
+<p><b>Cost</b>: 250 Noqag (2.50e152)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/BusinessmanSecretTrophy.png align=middle><b> Businessman</b></p><p>Requirement: Discover at least 10 Economics Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Economics upgrade slots by 1.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/BusinessmanSecretTrophy.png align=middle><b> Businessman</b></p>
+<p><b>Requirement</b>: Discover at least 10 Economics Researches.</p>
+<p><b>Effect</b>: Increase Economics upgrade slots by 1.</p>
+<p><b>Cost</b>: 250 Noqag (2.50e152)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ApothecarySecretTrophy.png align=middle><b> Apothecary</b></p><p>Requirement: Discover at least 10 Alchemy Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Alchemy upgrade slots by 1.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ApothecarySecretTrophy.png align=middle><b> Apothecary</b></p>
+<p><b>Requirement</b>: Discover at least 10 Alchemy Researches.</p>
+<p><b>Effect</b>: Increase Alchemy upgrade slots by 1.</p>
+<p><b>Cost</b>: 250 Noqag (2.50e152)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png align=middle><b> Warlord</b></p><p>Requirement: Discover at least 10 Warfare Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Warfare upgrade slots by 1.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png align=middle><b> Warlord</b></p>
+<p><b>Requirement</b>: Discover at least 10 Warfare Researches.</p>
+<p><b>Effect</b>: Increase Warfare upgrade slots by 1.</p>
+<p><b>Cost</b>: 250 Noqag (2.50e152)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png align=middle><b> Faction Run</b></p><p>Requirement: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Can be done from around R8+<p>Reincarnate, EXPORT to a text file and save that<p> Turn on 'Multibuy upgrade series'<p> Go Elf with Elf Bloodline<p> Buy max buildings<p> Buy all upgrades<p> Load your save and retry if you don't get it.<p>Upgrade Effect: Increase Faction Coin find chance by 10%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png align=middle><b> Faction Run</b></p>
+<p><b>Requirement</b>: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
+<p><b>Effect</b>: Increase Faction Coin find chance by 10%.</p>
+<p><b>Note</b>: Reincarnate, EXPORT to a text file and save that.</p>
+<p><b>Note</b>: Turn on 'Multibuy upgrade series'</p>
+<p><b>Note</b>: Go Elf with Elf Bloodline</p>
+<p><b>Note</b>: Buy max buildings</p>
+<p><b>Note</b>: Buy all upgrades</p>
+<p><b>Note</b>: Load your save and retry if you don't get it.</p>
+<p><b>Cost</b>: 10 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done from around R8+</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle><b> No Recruiting</b></p><p>Requirement: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase Mercenary production by 1% per Reincarnation.<p>It can take up to 1 day at R20. <p> Tactic: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle><b> No Recruiting</b></p>
+<p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
+<p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
+<p><b>Cost</b>: 1 Tg (1e93)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: It can take up to 1 day at R20.</p>
+<p><b>Note</b>: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle><b> That Excavated Quickly</b></p><p>Requirement: Excavate 1000 times in the first 30 seconds of a run (This Game)<p>Upgrade Cost Pre Ascension: 1 Qag (1e123)<p>Upgrade Cost Post Ascension: Free<p>Effect: Your chance to find Faction Coins with excavations is increased by an additional 5%.<p>Around R20, make sure to keep your excavations low until you have enough gems to excavate 1000 times - make a save file, abdicate, then try go for the trophy. Undo if necessary.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle><b> That Excavated Quickly</b></p>
+<p><b>Requirement</b>: Excavate 1000 times in the first 30 seconds of a run (This Game)</p>
+<p><b>Effect</b>: Your chance to find Faction Coins with excavations is increased by an additional 5%.</p>
+<p><b>Cost</b>: 1 Qag (1e123)</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Around R20, make sure to keep your excavations low until you have enough gems to excavate 1000 times - make a save file, abdicate, then try go for the trophy. Undo if necessary.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png align=middle><b> glho kohhl snod</b></p><p>Requirement: Import this into you game <p>Barely whispering these letters makes your heart pound harder..<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase base clicking reward by 1.<p>Can be done at any R.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png align=middle><b> glho kohhl snod</b></p>
+<p><b>Requirement</b>: Import this into you game</p>
+<p><b>Note</b>: Barely whispering these letters makes your heart pound harder.</p>
+<p><b>Effect</b>: Increase base clicking reward by 1.</p>
+<p><b>Cost</b>: 1000 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done at any R.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png align=middle><b> Mana Matrix</b></p><p>Requirement:  Have exactly 4767 maximum Mana.<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p> Effect: Increase maximum mana by 10%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png align=middle><b> Mana Matrix</b></p>
+<p><b>Requirement</b>: Have exactly 4767 maximum Mana.</p>
+<p><b>Effect</b>: Increase maximum mana by 10%.</p>
+<p><b>Cost</b>: 1000 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png align=middle><b> Suggestion Master</b></p><p>Requirement: Open the changelog and ponder about what could be added in there for 3 minutes.<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of all buildings base on mysterious events.<p>Formula: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.<p>Click the Option tab and click the numbers in the bottom right corner and leave it open for 3 minutes.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png align=middle><b> Suggestion Master</b></p>
+<p><b>Requirement</b>: Open the changelog and ponder about what could be added in there for 3 minutes.</p>
+<p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
+<p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.</p>
+<p><b>Cost</b>: 1000 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Click the Option tab and click the numbers in the bottom right corner and leave it open for 3 minutes.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Rule'disSecretTrophy.png align=middle><b> Rule 'dis</b></p><p>Requirement:  Abdicate 10 times within 3 minutes.<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase mana regeneration by 1m/s.<p>Can be done at any R.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/Rule'disSecretTrophy.png align=middle><b> Rule 'dis</b></p>
+<p><b>Requirement</b>: Abdicate 10 times within 3 minutes.</p>
+<p><b>Effect</b>: Increase mana regeneration by 1m/s.</p>
+<p><b>Cost</b>: 1000 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Can be done at any R.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/BecauseILiketoGrindSecretTrophy.png align=middle><b> Because I Like to Grind</b></p><p>Requirement: Spend at least 3 hours playing in this game.<p>Upgrade Cost Pre Ascension: 1000 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Royal Exchange bonus by an additional 1%.<p>Done at R0.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/BecauseILiketoGrindSecretTrophy.png align=middle><b> Because I Like to Grind</b></p>
+<p><b>Requirement</b>: Spend at least 3 hours playing in this game.</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by an additional 1%.</p>
+<p><b>Cost</b>: 1000 coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
+<p><b>Note</b>: Done at R0.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png align=middle><b> Triple Weirdness</b></p><p>Requirements: 333 of each Royal Exchange, R40+<p>Effect: Increase Faction Coins generation while offline based on your mana regeneration.<p>Cost: 1 TTg (1e102)<p>A2+: Free <p>Formula: 300 * log10(1 + x)^3, where x is offline mana regen.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png align=middle><b> Triple Weirdness</b></p>
+<p><b>Requirement</b>: 333 of each Royal Exchange, R40+</p>
+<p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.</p>
+<p><b>Formula</b>: 300 * log10(1 + x)^3, where x is offline mana regen.</p>
+<p><b>Cost</b>: 1 TTg (1e102)<p>A2+: Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle><b> Stoic Resistance</b></p><p>Requirement: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.<p>Upgrade Cost Pre Ascension: 10 Coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase base clicking reward by 1 T (1E12)<p>Possible at R33 in less than 1 hour with fairy and fairy bloodline.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle><b> Stoic Resistance</b></p>
+<p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.</p>
+<p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)</p>
+<p><b>Note</b>: Possible at R33 in less than 1 hour with fairy and fairy bloodline.</p>
+<p><b>Cost</b>: 10 Coins</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p><p>Requirement:  Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).<p>Upgrade Cost Pre Ascension: 10 Noqag (1e151)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase the production of all buildings based on offline bonus.<p>Formula: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
+<p><b>Requirement</b>: Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>
+<p><b>Effect</b>: Increase the production of all buildings based on offline bonus.</p>
+<p><b>Formula</b>: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier.</p>
+<p><b>Cost</b>: 10 Noqag (1e151)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png align=middle><b> Iron Rush</b></p><p>Requirement: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.<p>Upgrade Cost Pre Ascension: 3 SxSxg (3.8e201)<p>Upgrade Cost Post Ascension: Free<p>Effect: Iron Strongholds count 5% more for all purposes.<p>Post-Ascension with Mercs + Gobline +Dwarf Expert Masonry, GG or LS for Faction Coins for first spell.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png align=middle><b> Iron Rush</b></p>
+<p><b>Requirement</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.</p>
+<p><b>Effect</b>: Iron Strongholds count 5% more for all purposes.</p>
+<p><b>Effect</b>: Post A1, With Mercs + Gobline + Dwarf Expert Masonry, GG or LS for Faction Coins for first spell.</p>
+<p><b>Cost</b>: 3 SxSxg (3.8e201)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png align=middle><b> Colorful Autocasting</b></p><p>Requirement: Have each type of autocasting active simultaneously.<p>(Silver,Gold,Bronze,Diamond), R42+<p>Cost: 5 Sxd (5e51)<p>Upgrade Effect: Increases mana regeneration by 10%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png align=middle><b> Colorful Autocasting</b></p>
+<p><b>Requirement</b>: R42+, Have each type of autocasting active simultaneously.</p>
+<p><b>Note</b>: Silver, Gold, Bronze, Diamond</p>
+<p><b>Effect</b>: Increases mana regeneration by 10%.</p>
+<p><b>Cost</b>: 5 Sxd (5e51)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretTrophy.png align=middle><b> Spell Cataclysm</b></p><p>Requirement: Have at least 4 spells active on tier 5 or higher, R42+<p>Cost: 640 Vg (6.4e65)<p>Will require to be at least R55, if not R60.<p>Effect Post Ascension: Increases maximum mana by 75%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretTrophy.png align=middle><b> Spell Cataclysm</b></p>
+<p><b>Requirement</b>: Have at least 4 spells active on tier 5 or higher, R42+</p>
+<p><b>Effect</b>: Increases maximum mana by 75%.</p>
+<p><b>Cost</b>: 640 Vg (6.4e65)</p>
+<p><b>Note</b>: Will require to be at least R55, if not R60.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png align=middle><b> Advisor Insight</b></p><p>Requirement: Click the Hint button 100 times.<p>Upgrade Cost Pre Ascension: 100 No (1e32)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of all buildings by 10%.<p>Post-Ascension: Increase the production of all buildings by 0.96%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png align=middle><b> Advisor Insight</b></p>
+<p><b>Requirement</b>: Click the Hint button 100 times.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 10%.</p>
+<p><b>Effect</b>: Post A1, Increase the production of all buildings by 0.96%.</p>
+<p><b>Cost</b>: 100 No (1e32)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png align=middle><b> Dragon Tamer</b></p><p>Requirement: Fully develop your Spiky Egg into an Elder Dragon, R46+.<p>Cost: 100 Vg (1e65)<p>Effect: Increase the production of all buildings by 200% and triples Faction Coin find chance.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png align=middle><b> Dragon Tamer</b></p>
+<p><b>Requirement</b>: Fully develop your Spiky Egg into an Elder Dragon, R46+.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 200% and triples Faction Coin find chance.</p>
+<p><b>Cost</b>: 100 Vg (1e65)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png align=middle><b> Helden Sterben Nicht</b></p><p>Requirement:<p>1.Join Mercenaries then abdicate.<p>2.Join Undead then abdicate.<p>3.Join Angels all within 15 minutes of selecting Mercenary.(Can be done anytime R3+).<p>Upgrade Cost Pre Ascension: 5 Qavg (5e75)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase mana regeneration and maximum mana by 15%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png align=middle><b> Helden Sterben Nicht</b></p>
+<p><b>Requirement</b>:</p>
+<p><b>Note</b>: 1. Join Mercenaries then abdicate.</p>
+<p><b>Note</b>: 2. Join Undead then abdicate.</p>
+<p><b>Note</b>: 3. Join Angels all within 15 minutes of selecting Mercenary.(Can be done anytime R3+).</p>
+<p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.</p></p>
+<p><b>Cost</b>: 5 Qavg (5e75)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png align=middle><b> Mana Waste</b></p><p>Requirement: Have mana regeneration higher than max mana.<p>Cost Pre Ascension: 1 Td (1e42)<p>Cost Post Ascension: Free<p>Effect: Increase maximum mana based on spells cast in this game.<p>Formula: (127*(log10(1+x))^2.7), where x is spells cast.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png align=middle><b> Mana Waste</b></p>
+<p><b>Requirement</b>: Have mana regeneration higher than max mana.</p>
+<p><b>Effect</b>: Increase maximum mana based on spells cast in this game.</p>
+<p><b>Formula</b>: (127*(log10(1+x))^2.7), where x is spells cast.</p>
+<p><b>Cost</b>: 1 Td (1e42)</p>
+<p><b>Cost</b>: Post A+, Free</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png align=middle><b> Prismatic Mana</b></p><p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.<p><b>Requirements</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.<p>Cost: 100 No (1e32)<p><b>Effect</b>: 35% Mana Regeneration (multiplicative).<p>Warning: All Spells have to be exact same count, Tiered casting may go over the count you need.<p><p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png align=middle><b> Prismatic Mana</b></p>
+<p><b>Requirement</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.</p>
+<p><b>Requirement</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.</p>
+<p><b>Effect</b>: 35% Mana Regeneration (multiplicative).</p>
+<p><b>Cost</b>: 100 No (1e32)</p>
+<p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.</p>
+<p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png align=middle><b> Autoclicker</b></p><p>Requirement: Perform 40 autoclicks in 1 second, R60+<p>Upgrade Cost: 100 Qaq (1e125)<p>Effect: Multiply Faction Coin find chance by x5 for automatic clicks only.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png align=middle><b> Autoclicker</b></p>
+<p><b>Requirement</b>: Perform 40 autoclicks in 1 second, R60+</p>
+<p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only.</p>
+<p><b>Cost</b>: 100 Qaq (1e125)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png align=middle><b> Exchange High Lord</b></p><p>Requirements: 5000 Royal Exchanges<p>Cost: 10 DQig (1e160)<p>Effect: Increase royal exchange bonus by 250%.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png align=middle><b> Exchange High Lord</b></p>
+<p><b>Requirement</b>: 5000 Royal Exchanges</p>
+<p><b>Effect</b>: Increase royal exchange bonus by 250%.</p>
+<p><b>Cost</b>: 10 DQig (1e160)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png align=middle><b> Genealogist</b></p><p>Requirements: Have a total of 300 Lineage levels across all Lineage.<p>Cost: 1 NoQig (1e180)<p>Effect: Increase the production of all buildings based on the total amount of lineage levels you have.<p>Formula: 2.5 * x^1.25, where x is total amount of lineage levels you have.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png align=middle><b> Genealogist</b></p>
+<p><b>Requirement</b>: Have a total of 300 Lineage levels across all Lineage.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.</p>
+<p><b>Formula</b>: 2.5 * x^1.25, where x is total amount of lineage levels you have.</p>
+<p><b>Cost</b>: 1 NoQig (1e180)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png align=middle><b> Holy Frenzy</b></p><p><b>Requirement</b>: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.<p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.<p><b>Note</b>:Upgrade scales from Holy Light/Blood Frenzy tiers.<p>Formula: (50 * T ^ 2)<p><b>Cost</b>: 100 Dc (1e35)</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png align=middle><b> Holy Frenzy</b></p>
+<p><b>Requirement</b>: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.</p>
+<p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.</p>
+<p><b>Note</b>: Upgrade scales from Holy Light/Blood Frenzy tiers.</p>
+<p><b>Formula</b>: (50 * T ^ 2)</p>
+<p><b>Cost</b>: 100 Dc (1e35)</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle><b> Uniformity</b></p><p><b>Requirement</b>: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.<p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.<p><b>Cost</b>: 100 Qid (1e50)<p><b>Formula</b>: 0.7 * min(x ,y, z. s, t ,u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).<p>Note: Equality is needed for offline unlock.</p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle><b> Uniformity</b></p>
+<p><b>Requirement</b>: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.</p>
+<p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
+<p><b>Formula</b>: 0.7 * min(x ,y, z. s, t ,u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
+<p><b>Cost</b>: 100 Qid (1e50)</p>
+<p><b>Note</b>: Equality is needed for offline unlock.</p>
     </div>
 </div>
             </div>
