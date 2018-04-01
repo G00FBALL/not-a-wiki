@@ -192,7 +192,7 @@ var x = setInterval(function() {
                 <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
                 <hr>
                 <p><b><img src="/realm/Factions/picks/EventResourceEaster2017.png" alt="Blue Omelette" align="middle"> Event Resource</b></p>
-                <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 480 Eggs! Eggs are devided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
+                <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 480 Eggs! Eggs are divided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
                 <hr>
                 <p><b><img src="/realm/Factions/picks/BlueOmeletteEaster2017.png" alt="Blue Omelette" align="middle"> Blue Omelette</b></p>
                 <p><b>Kind</b>: Upgrade</p>
