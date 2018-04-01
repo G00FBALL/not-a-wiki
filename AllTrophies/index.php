@@ -653,7 +653,7 @@
 <p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (12.5%).</p>
 <p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/39Reincarnations.png" align="middle"> 30 Reincarnations</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/30Reincarnations.png" align="middle"> 30 Reincarnations</b></p>
 <p><b>Requirement</b>: 1 Sptg (1e114) Gems, Reincarnate 30 times</p>
 <p><b>Research Points</b>: 465</p>
 <p><b>Effect</b>: Increase production of all buildings by 750%</p>

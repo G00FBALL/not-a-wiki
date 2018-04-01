@@ -56,7 +56,7 @@
                 <p><b>Notes</b>: Requires Spell tiers to get past 1e25 (10 Sp) gems. Recommended doing T3 Elf/Dwarf spell tiers (Call to Arms, Holy Light, Moon Blessing, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.
                 <p><b>Notes</b>: Swap S500 with S400 if better.
                 <p><b>Notes</b>: Swap E250 with E480 if better (35%+).
-                <p><b>Notes</b>: Swap S175 with S305 if better (requires CTA3 Hl3 MB3 DP2 SS2).
+                <p><b>Notes</b>: Swap S175 with S305 if better (requires CTA3 HL3 MB3 DP2 SS2).
                 <p><b>Notes</b>: For Stage 4, requires S400 at 12500+, E30 (1 No) gems+. Estimated runtime 6 hours.
          </div>
     </div>

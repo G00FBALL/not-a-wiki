@@ -116,6 +116,8 @@
                 <p><b>Bloodline</b>: Angel</p>
                 <p><button onclick="myFunction($(this))">Copy Build</button>
                 <input type="text" value="FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build">
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR9,AN1,AN3,AN5,AN6,AN8,GB1,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"> Stopping at Mana Waste
                 <p><b>Mercenary Template</b>:</p>
                 <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
                 <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
