@@ -3074,7 +3074,8 @@
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p>
 <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
-<p><b>Effect</b>: Increase assistants production by 10%.<p>Post Ascension: Increase assistants production by 0.96%.</p>
+<p><b>Effect</b>: Increase assistants production by 10%.
+<p><b>Effect</b>: A1, Increase assistants production by 0.96%.</p>
 <p><b>Cost</b>: 10 Nod (1e61)</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
