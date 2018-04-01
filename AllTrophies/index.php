@@ -10,624 +10,814 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Allegiances Trophies (14)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle><b> Fairy Champion</b></p><p>Requirement: Purchase all Fairy Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Elf.png align=middle><b> Elven Champion</b></p><p> Requirement: Purchase all Elven Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Angel.png align=middle><b> Angel Champion</b></p><p>Requirement: Purchase all Angel Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin.png align=middle><b> Goblin Champion</b></p><p> Requirement: Purchase all Goblin Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Undead.png align=middle><b> Undead Champion</b></p><p> Requirement: Purchase all Undead Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Demon.png align=middle><b> Demon Champion</b></p><p> Requirement: Purchase all Demon Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Titan.png align=middle><b> Titan Champion</b></p><p> Requirement: Purchase all Titan Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Druid.png align=middle><b> Druid Champion</b></p><p>Requirement: Purchase all Druid Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Faceless.png align=middle><b> Faceless Champion</b></p><p> Requirement: Purchase all Faceless Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Dwarves.png align=middle><b> Dwarven Champion</b></p><p> Requirement: Purchase all Dwarven Faction Upgrades<p>Can be done at R0.<p>Note: Do not need to buy Heritage
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Drow.png align=middle><b> Drow Champion</b></p><p> Requirement: Purchase all Drow Faction Upgrades<p>Can be done at R0 but easier at R1.
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/Mercenary.png align=middle><b> Mercenary Champion</b></p><p>Requirement: Purchase all Mercenary Upgrades<p>Can be done at R3<p>Tier 1 Upgrades: Mercenary First Contract, Mercenary Magic Contract,Mercenary Upgrades 1,2,3,4<p>Tier 2 Upgrades: Mercenary Second Contract, Holy Crusaders(For Good Alignments), Heresiarchs (For Evil Alignments), Mercenary Upgrades 5,6,7,8<p>Tier 3 Upgrades: Mercenary Third Contract, Mercenary Sorcery Contract, Mercenary Upgrades 9,10,11,12
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/OathoftheMercenaries.png align=middle><b> Mercenary Oath</b></p><p> You have become a Mercenary for the rest of your existence.<p>Requirement: Select Mercenary for the first time.
-<br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png align=middle><b> Dragon Champion</b></p><p>Requirement: Purchase all Dragon Faction Upgrades<p>Can be done at R46+.
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle><b> Fairy Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Fairy Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Elf.png align=middle><b> Elven Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Elven Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Angel.png align=middle><b> Angel Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Angel Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Goblin.png align=middle><b> Goblin Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Goblin Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Undead.png align=middle><b> Undead Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Undead Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Demon.png align=middle><b> Demon Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Demon Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Titan.png align=middle><b> Titan Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Titan Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Druid.png align=middle><b> Druid Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Druid Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Faceless.png align=middle><b> Faceless Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Faceless Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Dwarves.png align=middle><b> Dwarven Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Dwarven Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Drow.png align=middle><b> Drow Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Drow Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R0 but easier at R3.</p>
+              <p><b>Note</b>: Note: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/Mercenary.png align=middle><b> Mercenary Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Mercenary Upgrades</p>
+              <p><b>Note</b>: Can be done at R3</p>
+              <p><b>Tier 1 Upgrades</b>: Mercenary First Contract, Mercenary Magic Contract,Mercenary Upgrades 1,2,3,4</p>
+              <p><b>Tier 2 Upgrades</b>: Mercenary Second Contract, Holy Crusaders(For Good Alignments), Heresiarchs (For Evil Alignments), Mercenary Upgrades 5,6,7,8</p>
+              <p><b>Tier 3 Upgrades</b>: Mercenary Third Contract, Mercenary Sorcery Contract, Mercenary Upgrades 9,10,11,12</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/OathoftheMercenaries.png align=middle><b> Mercenary Oath</b></p>
+              <p><b>Note</b>: You have become a Mercenary for the rest of your existence.</p>
+              <p><b>Requirement</b>: Select Mercenary for the first time.</p>
+              <br/>
+              <p><img src=http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png align=middle><b> Dragon Champion</b></p>
+              <p><b>Requirement</b>: Purchase all Dragon Faction Upgrades</p>
+              <p><b>Note</b>: Can be done at R46+.</p>
+              <p><b>Note</b>: Do not need to buy Heritage</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Grand Champion Trophies (12)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png align=middle><b> Fairy Grand Champion</b></p><p>Requirement: R60+, Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png align=middle><b> Fairy Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png align=middle><b> Elven Grand Champion</b></p><p>Requirement: R60+, Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png align=middle><b> Elven Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png align=middle><b> Angel Grand Champion</b></p><p>Requirement: R60+, Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png align=middle><b> Angel Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png align=middle><b> Goblin Grand Champion</b></p><p>Requirement: R60+, Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png align=middle><b> Goblin Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadGrandChampionTrophy.png align=middle><b> Undead Grand Champion</b></p><p>Requirement: R60+, Upgrade Undead Lineage to level 20 and purchase 3 Undead Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadGrandChampionTrophy.png align=middle><b> Undead Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Undead Lineage to level 20 and purchase 3 Undead Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png align=middle><b> Demon Grand Champion</b></p><p>Requirement: R60+, Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png align=middle><b> Demon Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png align=middle><b> Titan Grand Champion</b></p><p>Requirement: R60+, Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png align=middle><b> Titan Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png align=middle><b> Druid Grand Champion</b></p><p>Requirement: R60+, Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png align=middle><b> Druid Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png align=middle><b> Faceless Grand Champion</b></p><p>Requirement: R60+, Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png align=middle><b> Faceless Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png align=middle><b> Dwarf Grand Champion</b></p><p>Requirement: R60+, Upgrade Dwarf Lineage to level 20 and purchase 3 Dwarf Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png align=middle><b> Dwarf Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Dwarf Lineage to level 20 and purchase 3 Dwarf Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png align=middle><b> Drow Grand Champion</b></p><p>Requirement: R60+, Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png align=middle><b> Drow Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png align=middle><b> Dragon Grand Champion</b></p><p>Requirement: R60+, Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.
+<p><img src=http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png align=middle><b> Dragon Grand Champion</b></p>
+<p><b>Requirement</b>: R60+, Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.</p>
          </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Coin Trophies (20)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/AThousandCoins.png align=middle><b> A Thousand Coins</b></p><p>Requirement: Gain 1,000 coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AThousandCoins.png align=middle><b> A Thousand Coins</b></p>
+<p><b>Requirement</b>: Gain 1,000 coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AMillionCoins.png align=middle><b> A Million Coins</b></p><p>Requirement: Gain 1 M (1E6) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AMillionCoins.png align=middle><b> A Million Coins</b></p>
+<p><b>Requirement</b>: Gain 1 M (1E6) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ABillionCoins.png align=middle><b> A Billion Coins</b></p><p>Requirement: Gain 1 B (1E9) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ABillionCoins.png align=middle><b> A Billion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 B (1E9) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ATrillionCoins.png align=middle><b> A Trillion Coins</b></p><p>Requirement: Gain 1 T (1E12) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ATrillionCoins.png align=middle><b> A Trillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 T (1E12) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AQuadrillionCoins.png align=middle><b> A Quadrillion Coins</b></p><p>Requirement: Gain 1 Qa (1E15) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AQuadrillionCoins.png align=middle><b> A Quadrillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Qa (1E15) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AQuintillionCoins.png align=middle><b> A Quintillion Coins</b></p><p>Requirement: Gain 1 Qi (1E18) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AQuintillionCoins.png align=middle><b> A Quintillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Qi (1E18) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ASextillionCoins.png align=middle><b> A Sextillion Coins</b></p><p>Requirement: Gain 1 Sx (1E21) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ASextillionCoins.png align=middle><b> A Sextillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Sx (1E21) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ASeptillionCoins.png align=middle><b> A Septillion Coins</b></p><p>Requirement: Gain 1 Sp (1E24) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ASeptillionCoins.png align=middle><b> A Septillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Sp (1E24) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/AnOctillionCoins.png align=middle><b> An Octillion Coins</b></p><p>Requirement: Gain 1 Oc (1E27) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AnOctillionCoins.png align=middle><b> An Octillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Oc (1E27) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ANonillionCoins.png align=middle><b> A Nonillion Coins</b></p><p>Requirement: Gain 1 No (1E30) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ANonillionCoins.png align=middle><b> A Nonillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 No (1E30) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ADecillionCoins.png align=middle><b> A Decillion Coins</b></p><p>Requirement: Gain 1 Dc (1E33) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ADecillionCoins.png align=middle><b> A Decillion Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Dc (1E33) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CountlessCoins.png align=middle><b> Countless Coins</b></p><p>Requirement: Gain 1 Ud (1E36) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CountlessCoins.png align=middle><b> Countless Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Ud (1E36) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/InfiniteCoins.png align=middle><b> Infinite Coins</b></p><p>Requirement: Gain 1 Uvg (1E66) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/InfiniteCoins.png align=middle><b> Infinite Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Uvg (1E66) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/UnlimitedCoins.png align=middle><b> Unlimited Coins</b></p><p>Requirement: Gain 1 Qivg (1E78) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/UnlimitedCoins.png align=middle><b> Unlimited Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Qivg (1E78) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/EndlessCoins.png align=middle><b> Endless Coins</b></p><p>Requirement: Gain 1 Tg (1E93) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/EndlessCoins.png align=middle><b> Endless Coins</b></p>
+<p><b>Requirement</b>: Gain 1 Tg (1E93) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CoinsGalore.png align=middle><b> Coins Galore</b></p><p>Requirement: Gain 1 Qitg (1E108) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CoinsGalore.png align=middle><b> Coins Galore</b></p>
+<p><b>Requirement</b>: Gain 1 Qitg (1E108) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CoinMultiplication.png align=middle><b> Coin Multiplication</b></p><p>Requirement: Gain 1 Qag (1E123) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CoinMultiplication.png align=middle><b> Coin Multiplication</b></p>
+<p><b>Requirement</b>: Gain 1 Qag (1E123) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CoinHemisphere.png align=middle><b> Coin Hemisphere</b></p><p>Requirement: Gain 1 Qig (1E153) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CoinHemisphere.png align=middle><b> Coin Hemisphere</b></p>
+<p><b>Requirement</b>: Gain 1 Qig (1E153) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CoinWorld.png align=middle><b> Coin World</b></p><p>Requirement: Gain 1 SxSxg (1E201) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CoinWorld.png align=middle><b> Coin World</b></p>
+<p><b>Requirement</b>: Gain 1 SxSxg (1E201) coins in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/CoinUniverse.png align=middle><b> Coin Universe</b></p><p>Requirement: Gain 1 Ocg (1E243) coins in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/CoinUniverse.png align=middle><b> Coin Universe</b></p>
+<p><b>Requirement</b>: Gain 1 Ocg (1E243) coins in a single game.</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Coins by clicks Trophies (19)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureClicker.png align=middle><b> Treasure Clicker</b></p><p>Requirement: Gain 100 coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureClicker.png align=middle><b> Treasure Clicker</b></p>
+<p><b>Requirement</b>: Gain 100 coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureFinder.png align=middle><b> Treasure Finder</b></p><p>Requirement: Gain 1,000 coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureFinder.png align=middle><b> Treasure Finder</b></p>
+<p><b>Requirement</b>: Gain 1,000 coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDigger.png align=middle><b> Treasure Digger</b></p><p>Requirement: Gain 1 M (1E6) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDigger.png align=middle><b> Treasure Digger</b></p>
+<p><b>Requirement</b>: Gain 1 M (1E6) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureHunter.png align=middle><b> Treasure Hunter</b></p><p>Requirement: Gain 1 B (1E9) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureHunter.png align=middle><b> Treasure Hunter</b></p>
+<p><b>Requirement</b>: Gain 1 B (1E9) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureSeeker.png align=middle><b> Treasure Seeker</b></p><p>Requirement: Gain 1 T (1E12) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureSeeker.png align=middle><b> Treasure Seeker</b></p>
+<p><b>Requirement</b>: Gain 1 T (1E12) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureMaster.png align=middle><b> Treasure Master</b></p><p>Requirement: Gain 1 Qa (1E15) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureMaster.png align=middle><b> Treasure Master</b></p>
+<p><b>Requirement</b>: Gain 1 Qa (1E15) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureHero.png align=middle><b> Treasure Hero</b></p><p>Requirement: Gain 1 Qi (1E18) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureHero.png align=middle><b> Treasure Hero</b></p>
+<p><b>Requirement</b>: Gain 1 Qi (1E18) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureLegend.png align=middle><b> Treasure Legend</b></p><p>Requirement: Gain 1 Sx (1E21) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureLegend.png align=middle><b> Treasure Legend</b></p>
+<p><b>Requirement</b>: Gain 1 Sx (1E21) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureGrinder.png align=middle><b> Treasure Grinder</b></p><p>Requirement: Gain 1 Sp (1E24) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureGrinder.png align=middle><b> Treasure Grinder</b></p>
+<p><b>Requirement</b>: Gain 1 Sp (1E24) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureBreaker.png align=middle><b> Treasure Breaker</b></p><p>Requirement: Gain 1 Ud (1E36) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureBreaker.png align=middle><b> Treasure Breaker</b></p>
+<p><b>Requirement</b>: Gain 1 Ud (1E36) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureSmasher.png align=middle><b> Treasure Smasher</b></p><p>Requirement: Gain 1 Qad (1E45) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureSmasher.png align=middle><b> Treasure Smasher</b></p>
+<p><b>Requirement</b>: Gain 1 Qad (1E45) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDestroyer.png align=middle><b> Treasure Destroyer</b></p><p>Requirement: Gain 1 Spd (1E54) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDestroyer.png align=middle><b> Treasure Destroyer</b></p>
+<p><b>Requirement</b>: Gain 1 Spd (1E54) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureAnnihilator.png align=middle><b> Treasure Annihilator</b></p><p>Requirement: Gain 1 Vg (1E63) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureAnnihilator.png align=middle><b> Treasure Annihilator</b></p>
+<p><b>Requirement</b>: Gain 1 Vg (1E63) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDisintegrator.png align=middle><b> Treasure Disintegrator</b></p><p>Requirement: Gain 1 Qivg (1E78) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDisintegrator.png align=middle><b> Treasure Disintegrator</b></p>
+<p><b>Requirement</b>: Gain 1 Qivg (1E78) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureEnder.png align=middle><b> Treasure Ender</b></p><p>Requirement: Gain 1 Tg (1E93) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureEnder.png align=middle><b> Treasure Ender</b></p>
+<p><b>Requirement</b>: Gain 1 Tg (1E93) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureUnmaker.png align=middle><b> Treasure Unmaker</b></p><p>Requirement: Gain 1 Qitg (1E108) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureUnmaker.png align=middle><b> Treasure Unmaker</b></p>
+<p><b>Requirement</b>: Gain 1 Qitg (1E108) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureNullifier.png align=middle><b> Treasure Nullifier</b></p><p>Requirement: Gain 1 Qag (1E123) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureNullifier.png align=middle><b> Treasure Nullifier</b></p>
+<p><b>Requirement</b>: Gain 1 Qag (1E123) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureWrecker.png align=middle><b> Treasure Wrecker</b></p><p>Requirement: Gain 1 Qig (1E153) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureWrecker.png align=middle><b> Treasure Wrecker</b></p>
+<p><b>Requirement</b>: Gain 1 Qig (1E153) coins by clicking in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureObliterator.png align=middle><b> Treasure Obliterator</b></p><p>Requirement: Gain 1 SxSxg (1E201) coins by clicking in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TreasureObliterator.png align=middle><b> Treasure Obliterator</b></p>
+<p><b>Requirement</b>: Gain 1 SxSxg (1E201) coins by clicking in a single game.</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Click Trophies (9)</a></b></p>
             <div class="autohide">
-<p><img src=http://musicfamily.org/realm/Factions/picks/AClickingStart.png align=middle><b> A Clicking Start</b></p><p>Requirement: Click the background 100 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/AClickingStart.png align=middle><b> A Clicking Start</b></p>
+<p><b>Requirement</b>: Click the background 100 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ClickingMore.png align=middle><b> Clicking More</b></p><p>Requirement: Click the background 500 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ClickingMore.png align=middle><b> Clicking More</b></p>
+<p><b>Requirement</b>: Click the background 500 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ClickClock.png align=middle><b> Click Clock</b></p><p>Requirement: Click the background 1,000 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ClickClock.png align=middle><b> Click Clock</b></p>
+<p><b>Requirement</b>: Click the background 1,000 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ClickingForward.png align=middle><b> Clicking Forward</b></p><p>Requirement: Click the background 2,500 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ClickingForward.png align=middle><b> Clicking Forward</b></p>
+<p><b>Requirement</b>: Click the background 2,500 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ClickingFrenzy.png align=middle><b> Clicking Frenzy</b></p><p>Requirement: Click the background 5,000 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ClickingFrenzy.png align=middle><b> Clicking Frenzy</b></p>
+<p><b>Requirement</b>: Click the background 5,000 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/WorldofClicks.png align=middle><b> World of Clicks</b></p><p>Requirement: Click the background 10,000 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/WorldofClicks.png align=middle><b> World of Clicks</b></p>
+<p><b>Requirement</b>: Click the background 10,000 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/TheClickyWay.png align=middle><b> The Clicky Way</b></p><p>Requirement: Click the background 20,000 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/TheClickyWay.png align=middle><b> The Clicky Way</b></p>
+<p><b>Requirement</b>: Click the background 20,000 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/ClickerEternal.png align=middle><b> Clicker Eternal</b><p>Requirement: Click the background 50,000 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/ClickerEternal.png align=middle><b> Clicker Eternal</b></p>
+<p><b>Requirement</b>: Click the background 50,000 Times in a single game.</p>
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/RealmClicker.png align=middle><b> Realm Clicker</b><p>Requirement: Click the background 100,000 Times in a single game.
+<p><img src=http://musicfamily.org/realm/Factions/picks/RealmClicker.png align=middle><b> Realm Clicker</b></p>
+<p><b>Requirement</b>: Click the background 100,000 Times in a single game.</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faction Coin Trophies (20)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1FactionCoin.png" alt="1 Faction Coin" align="middle"> 1 Faction Coin</b></p><p><b>Requirement</b>: Find 1 Faction Coin</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1FactionCoin.png" alt="1 Faction Coin" align="middle"> 1 Faction Coin</b></p>
+<p><b>Requirement</b>: Find 1 Faction Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50FactionCoins.png" alt="50 Faction Coins" align="middle"> 50 Faction Coins</b></p><p><b>Requirement</b>: Find 50 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50FactionCoins.png" alt="50 Faction Coins" align="middle"> 50 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 50 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/250FactionCoins.png" alt="250 Faction Coins" align="middle"> 250 Faction Coins</b></p><p><b>Requirement</b>: Find 250 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/250FactionCoins.png" alt="250 Faction Coins" align="middle"> 250 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 250 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1000FactionCoins.png" alt="1000 Faction Coins" align="middle"> 1000 Faction Coins</b></p><p><b>Requirement</b>: Find 1,000 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1000FactionCoins.png" alt="1000 Faction Coins" align="middle"> 1000 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1,000 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/5000FactionCoins.png" alt="5000 Faction Coins" align="middle"> 5000 Faction Coins</b></p><p><b>Requirement</b>: Find 5,000 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/5000FactionCoins.png" alt="5000 Faction Coins" align="middle"> 5000 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 5,000 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/10000FactionCoins.png" alt="10000 Faction Coins" align="middle"> 10000 Faction Coins</b></p><p><b>Requirement</b>: Find 10,000 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/10000FactionCoins.png" alt="10000 Faction Coins" align="middle"> 10000 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 10,000 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50000FactionCoins.png" alt="50000 Faction Coins" align="middle"> 50000 Faction Coins</b></p><p><b>Requirement</b>: Find 50,000 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50000FactionCoins.png" alt="50000 Faction Coins" align="middle"> 50000 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 50,000 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/100000FactionCoins.png" alt="100000 Faction Coins" align="middle"> 100000 Faction Coins</b></p><p><b>Requirement</b>: Find 100,000 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100000FactionCoins.png" alt="100000 Faction Coins" align="middle"> 100000 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 100,000 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/500000FactionCoins.png" alt="500000 Faction Coins" align="middle"> 500000 Faction Coins</b></p><p><b>Requirement</b>: Find 500,000 Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/500000FactionCoins.png" alt="500000 Faction Coins" align="middle"> 500000 Faction Coins</b></p>
+<p><b>Requirement</b>: Find 500,000 Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1MillionFactionCoins.png" alt="1 Million Faction Coins" align="middle"> 1 Million Faction Coins</b></p><p><b>Requirement</b>: Find 1 M (1E6 ) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1MillionFactionCoins.png" alt="1 Million Faction Coins" align="middle"> 1 Million Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 M (1E6 ) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/100MillionFactionCoins.png" alt="100 Million Faction Coins" align="middle"> 100 Million Faction Coins</b></p><p><b>Requirement</b>: Find 100 M (1E8) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100MillionFactionCoins.png" alt="100 Million Faction Coins" align="middle"> 100 Million Faction Coins</b></p>
+<p><b>Requirement</b>: Find 100 M (1E8) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1BillionFactionCoins.png" alt="1 Billion Faction Coins" align="middle"> 1 Billion Faction Coins</b></p><p><b>Requirement</b>: Find 1 B (1E9) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1BillionFactionCoins.png" alt="1 Billion Faction Coins" align="middle"> 1 Billion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 B (1E9) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/100BillionFactionCoins.png" alt="100 Billion Faction Coins" align="middle"> 100 Billion Faction Coins</b></p><p><b>Requirement</b>: Find 100 B (1E11) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100BillionFactionCoins.png" alt="100 Billion Faction Coins" align="middle"> 100 Billion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 100 B (1E11) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TrillionFactionCoins.png" alt="1 Trillion Faction Coins" align="middle"> 1 Trillion Faction Coins</b></p><p><b>Requirement</b>: Find 1 T (1E12) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TrillionFactionCoins.png" alt="1 Trillion Faction Coins" align="middle"> 1 Trillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 T (1E12) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/100TrillionFactionCoins.png" alt="100 Trillion Faction Coins" align="middle"> 100 Trillion Faction Coins</b></p><p><b>Requirement</b>: Find 100 T (1E14) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100TrillionFactionCoins.png" alt="100 Trillion Faction Coins" align="middle"> 100 Trillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 100 T (1E14) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadrillionFactionCoins.png" alt="1 Quadrillion Faction Coins" align="middle"> 1 Quadrillion Faction Coins</b></p><p><b>Requirement</b>: Find 1 Qa (1E15) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadrillionFactionCoins.png" alt="1 Quadrillion Faction Coins" align="middle"> 1 Quadrillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Qa (1E15) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuintrillionFactionCoins.png" alt="1 Quintrillion Faction Coins" align="middle"> 1 Quintrillion Faction Coins</b></p><p><b>Requirement</b>: Find 1 Qi (1E18) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuintrillionFactionCoins.png" alt="1 Quintrillion Faction Coins" align="middle"> 1 Quintrillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Qi (1E18) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextrillionFactionCoins.png" alt="1 Sextrillion Faction Coins" align="middle"> 1 Sextrillion Faction Coins</b></p><p><b>Requirement</b>: Find 1 Sx (1E21) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextrillionFactionCoins.png" alt="1 Sextrillion Faction Coins" align="middle"> 1 Sextrillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Sx (1E21) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1NonillionFactionCoins.png" alt="1 Nonillion Faction Coins" align="middle"> 1 Nonillion Faction Coins</b></p><p><b>Requirement</b>: Find 1 No (1E30) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1NonillionFactionCoins.png" alt="1 Nonillion Faction Coins" align="middle"> 1 Nonillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 No (1E30) Faction Coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TredecillionFactionCoins.png" alt="1 Tredecillion Faction Coins" align="middle"> 1 Tredecillion Faction Coins</b></p><p><b>Requirement</b>: Find 1 Td (1E42) Faction Coins</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TredecillionFactionCoins.png" alt="1 Tredecillion Faction Coins" align="middle"> 1 Tredecillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Td (1E42) Faction Coins</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Assistant Trophies (15)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantSolo.png" alt="Assistant Solo" align="middle"> Assistant Solo</b></p><p><b>Requirement</b>: Have 1 Assistant</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantSolo.png" alt="Assistant Solo" align="middle"> Assistant Solo</b></p>
+<p><b>Requirement</b>: Have 1 Assistant</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantGroup.png" alt="Assistant Group" align="middle"> Assistant Group</b></p><p><b>Requirement</b>: Have 10 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantGroup.png" alt="Assistant Group" align="middle"> Assistant Group</b></p>
+<p><b>Requirement</b>: Have 10 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantCommando.png" alt="Assistant Commando" align="middle"> Assistant Commando</b></p><p><b>Requirement</b>: Have 50 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantCommando.png" alt="Assistant Commando" align="middle"> Assistant Commando</b></p>
+<p><b>Requirement</b>: Have 50 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquad.png" alt="Assistant Squad" align="middle"> Assistant Squad</b></p><p><b>Requirement</b>: Have 100 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquad.png" alt="Assistant Squad" align="middle"> Assistant Squad</b></p>
+<p><b>Requirement</b>: Have 100 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantArmy.png" alt="Assistant Army" align="middle"> Assistant Army</b></p><p><b>Requirement</b>: Have 200 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantArmy.png" alt="Assistant Army" align="middle"> Assistant Army</b></p>
+<p><b>Requirement</b>: Have 200 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantLegion.png" alt="Assistant Legion" align="middle"> Assistant Legion</b></p><p><b>Requirement</b>: Have 300 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantLegion.png" alt="Assistant Legion" align="middle"> Assistant Legion</b></p>
+<p><b>Requirement</b>: Have 300 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantHorde.png" alt="Assistant Horde" align="middle"> Assistant Horde</b></p><p><b>Requirement</b>: Have 500 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantHorde.png" alt="Assistant Horde" align="middle"> Assistant Horde</b></p>
+<p><b>Requirement</b>: Have 500 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantHost.png" alt="Assistant Host" align="middle"> Assistant Host</b></p><p><b>Requirement</b>: Have 1000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantHost.png" alt="Assistant Host" align="middle"> Assistant Host</b></p>
+<p><b>Requirement</b>: Have 1000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantClump.png" alt="Assistant Clump" align="middle"> Assistant Clump</b></p><p><b>Requirement</b>: Have 2000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantClump.png" alt="Assistant Clump" align="middle"> Assistant Clump</b></p>
+<p><b>Requirement</b>: Have 2000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantNation.png" alt="Assistant Nation" align="middle"> Assistant Nation</b></p><p><b>Requirement</b>: Have 5000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantNation.png" alt="Assistant Nation" align="middle"> Assistant Nation</b></p>
+<p><b>Requirement</b>: Have 5000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantKingdom.png" alt="Assistant Kingdom" align="middle"> Assistant Kingdom</b></p><p><b>Requirement</b>: Have 10000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantKingdom.png" alt="Assistant Kingdom" align="middle"> Assistant Kingdom</b></p>
+<p><b>Requirement</b>: Have 10000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantContinent.png" alt="Assistant Continent" align="middle"> Assistant Continent</b></p><p><b>Requirement</b>: Have 25000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantContinent.png" alt="Assistant Continent" align="middle"> Assistant Continent</b></p>
+<p><b>Requirement</b>: Have 25000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantWorld.png" alt="Assistant World" align="middle"> Assistant World</b></p><p><b>Requirement</b>: Have 50000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantWorld.png" alt="Assistant World" align="middle"> Assistant World</b></p>
+<p><b>Requirement</b>: Have 50000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantGalaxy.png" alt="Assistant Galaxy" align="middle"> Assistant Galaxy</b></p><p><b>Requirement</b>: Have 500,000 Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantGalaxy.png" alt="Assistant Galaxy" align="middle"> Assistant Galaxy</b></p>
+<p><b>Requirement</b>: Have 500,000 Assistants</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantUniverse.png" alt="Assistant Universe" align="middle"> Assistant Universe</b></p><p><b>Requirement</b>: Have 5,000,000 (5E6) Assistants</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantUniverse.png" alt="Assistant Universe" align="middle"> Assistant Universe</b></p>
+<p><b>Requirement</b>: Have 5,000,000 (5E6) Assistants</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Artifact Trophies (6)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Artifact.png" alt="1 Artifact" align="middle"> 1 Artifact</b></p><p><b>Requirement</b>: Find 1 Artifact</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Artifact.png" alt="1 Artifact" align="middle"> 1 Artifact</b></p>
+<p><b>Requirement</b>: Find 1 Artifact</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Aritfacts.png" alt="5 Aritfacts" align="middle"> 5 Aritfacts</b></p><p><b>Requirement</b>: Find 5 Artifacts</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Aritfacts.png" alt="5 Aritfacts" align="middle"> 5 Aritfacts</b></p>
+<p><b>Requirement</b>: Find 5 Artifacts</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/10Artifacts.png" alt="10 Artifacts" align="middle"> 10 Artifacts</b></p><p><b>Requirement</b>: Find 10 Artifacts</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/10Artifacts.png" alt="10 Artifacts" align="middle"> 10 Artifacts</b></p>
+<p><b>Requirement</b>: Find 10 Artifacts</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/20Artifacts.png" alt="20 Artifacts" align="middle"> 20 Artifacts</b></p><p><b>Requirement</b>: Find 20 Artifacts</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/20Artifacts.png" alt="20 Artifacts" align="middle"> 20 Artifacts</b></p>
+<p><b>Requirement</b>: Find 20 Artifacts</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/35Artifacts.png" alt="35 Artifacts" align="middle"> 35 Artifacts</b></p><p><b>Requirement</b>: Find 35 Artifacts</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/35Artifacts.png" alt="35 Artifacts" align="middle"> 35 Artifacts</b></p>
+<p><b>Requirement</b>: Find 35 Artifacts</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Artifacts.png" alt="50 Artifacts" align="middle"> 50 Artifacts</b></p><p><b>Requirement</b>: Find 50 Artifacts</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Artifacts.png" alt="50 Artifacts" align="middle"> 50 Artifacts</b></p>
+<p><b>Requirement</b>: Find 50 Artifacts</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gem Trophies (23)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Gem.png" alt="1 Gem" align="middle"> 1 Gem</b></p><p><b>Requirement</b>: Gain 1 Gem
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Gem.png" alt="1 Gem" align="middle"> 1 Gem</b></p>
+<p><b>Requirement</b>: Gain 1 Gem</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Gems.png" alt="50 Gems" align="middle"> 50 Gems</b></p><p><b>Requirement</b>: Gain 50 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Gems.png" alt="50 Gems" align="middle"> 50 Gems</b></p>
+<p><b>Requirement</b>: Gain 50 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/150Gems.png" alt="150 Gems" align="middle"> 150 Gems</b></p><p><b>Requirement</b>: Gain 150 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/150Gems.png" alt="150 Gems" align="middle"> 150 Gems</b></p>
+<p><b>Requirement</b>: Gain 150 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/500Gems.png" alt="500 Gems" align="middle"> 500 Gems</b></p><p><b>Requirement</b>: Gain 500 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/500Gems.png" alt="500 Gems" align="middle"> 500 Gems</b></p>
+<p><b>Requirement</b>: Gain 500 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1000Gems.png" alt="1000 Gems" align="middle"> 1000 Gems</b></p><p><b>Requirement</b>: Gain 1'000 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1000Gems.png" alt="1000 Gems" align="middle"> 1000 Gems</b></p>
+<p><b>Requirement</b>: Gain 1'000 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/5000Gems.png" alt="5000 Gems" align="middle"> 5000 Gems</b></p><p><b>Requirement</b>: Gain 5'000 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/5000Gems.png" alt="5000 Gems" align="middle"> 5000 Gems</b></p>
+<p><b>Requirement</b>: Gain 5'000 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/15000Gems.png" alt="15000 Gems" align="middle"> 15000 Gems</b></p><p><b>Requirement</b>: Gain 15'000 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/15000Gems.png" alt="15000 Gems" align="middle"> 15000 Gems</b></p>
+<p><b>Requirement</b>: Gain 15'000 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50000Gems.png" alt="50000 Gems" align="middle"> 50000 Gems</b></p><p><b>Requirement</b>: Gain 50'000 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50000Gems.png" alt="50000 Gems" align="middle"> 50000 Gems</b></p>
+<p><b>Requirement</b>: Gain 50'000 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/100000Gems.png" alt="100000 Gems" align="middle"> 100000 Gems</b></p><p><b>Requirement</b>: Gain 100'000 Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100000Gems.png" alt="100000 Gems" align="middle"> 100000 Gems</b></p>
+<p><b>Requirement</b>: Gain 100'000 Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1BillionGems.png" alt="1 Billion Gems" align="middle"> 1 Billion Gems</b></p><p><b>Requirement</b>: Gain 1 B (1E9) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1BillionGems.png" alt="1 Billion Gems" align="middle"> 1 Billion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 B (1E9) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadrillionGems.png" alt="1 Quadrillion Gems" align="middle"> 1 Quadrillion Gems</b></p><p><b>Requirement</b>: Gain 1 Qa (1E15) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadrillionGems.png" alt="1 Quadrillion Gems" align="middle"> 1 Quadrillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Qa (1E15) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextillionGems.png" alt="1 Sextillion Gems" align="middle"> 1 Sextillion Gems</b></p><p><b>Requirement</b>: Gain 1 Sx (1E21) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextillionGems.png" alt="1 Sextillion Gems" align="middle"> 1 Sextillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Sx (1E21) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1NonillionGems.png" alt="1 Nonillion Gems" align="middle"> 1 Nonillion Gems</b></p><p><b>Requirement</b>: Gain 1 No (1E30) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1NonillionGems.png" alt="1 Nonillion Gems" align="middle"> 1 Nonillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 No (1E30) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1DuodecillionGems.png" alt="1 Duodecillion Gems" align="middle"> 1 Duodecillion Gems</b></p><p><b>Requirement</b>: Gain 1 Dd (1E39) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1DuodecillionGems.png" alt="1 Duodecillion Gems" align="middle"> 1 Duodecillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Dd (1E39) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuindecillionGems.png" alt="1 Quindecillion Gems" align="middle"> 1 Quindecillion Gems</b></p><p><b>Requirement</b>: Gain 1 Qid (1E48) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuindecillionGems.png" alt="1 Quindecillion Gems" align="middle"> 1 Quindecillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Qid (1E48) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1OctodecillionGems.png" alt="1 Octodecillion Gems" align="middle"> 1 Octodecillion Gems</b></p><p><b>Requirement</b>: Gain 1 Ocd (1E57) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1OctodecillionGems.png" alt="1 Octodecillion Gems" align="middle"> 1 Octodecillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Ocd (1E57) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1UnvigintillionGems.png" alt="1 Unvigintillion Gems" align="middle"> 1 Unvigintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Uvg (1E66) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1UnvigintillionGems.png" alt="1 Unvigintillion Gems" align="middle"> 1 Unvigintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Uvg (1E66) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadravigintillionGems.png" alt="1 Quadravigintillion Gems" align="middle"> 1 Quadravigintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Qavg (1E75) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1QuadravigintillionGems.png" alt="1 Quadravigintillion Gems" align="middle"> 1 Quadravigintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Qavg (1E75) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SeptenvigintillionGems.png" alt="1 Septenvigintillion Gems" align="middle"> 1 Septenvigintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Spvg (1E84) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SeptenvigintillionGems.png" alt="1 Septenvigintillion Gems" align="middle"> 1 Septenvigintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Spvg (1E84) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TrigintillionGems.png" alt="1 Trigintillion Gems" align="middle"> 1 Trigintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Tg (1E93) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TrigintillionGems.png" alt="1 Trigintillion Gems" align="middle"> 1 Trigintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Tg (1E93) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TretrigintillionGems.png" alt="1 Tretrigintillion Gems" align="middle"> 1 Tretrigintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Ttg (1E102) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1TretrigintillionGems.png" alt="1 Tretrigintillion Gems" align="middle"> 1 Tretrigintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Ttg (1E102) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextrigintillionGems.png" alt="1 Sextrigintillion Gems" align="middle"> 1 Sextrigintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Sxtg (1E111) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SextrigintillionGems.png" alt="1 Sextrigintillion Gems" align="middle"> 1 Sextrigintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Sxtg (1E111) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1UnquadragintillionGems.png" alt="1 Unquadragintillion Gems" align="middle"> 1 Unquadragintillion Gems</b></p><p><b>Requirement</b>: Gain 1 Uqag (1E126) Gems
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1UnquadragintillionGems.png" alt="1 Unquadragintillion Gems" align="middle"> 1 Unquadragintillion Gems</b></p>
+<p><b>Requirement</b>: Gain 1 Uqag (1E126) Gems</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ruby Trophies (4)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Ruby.png" alt="1 Ruby" align="middle"> 1 Ruby</b></p><p><b>Requirement</b>: Gain 1 Ruby
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Ruby.png" alt="1 Ruby" align="middle"> 1 Ruby</b></p>
+<p><b>Requirement</b>: Gain 1 Ruby</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/10Ruby.png" alt="10 Ruby" align="middle"> 10 Rubies</b></p><p><b>Requirement</b>: Gain 10 Rubies
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/10Ruby.png" alt="10 Ruby" align="middle"> 10 Rubies</b></p>
+<p><b>Requirement</b>: Gain 10 Rubies</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/25Ruby.png" alt="25 Ruby" align="middle"> 25 Rubies</b></p><p><b>Requirement</b>: Gain 25 Rubies
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/25Ruby.png" alt="25 Ruby" align="middle"> 25 Rubies</b></p>
+<p><b>Requirement</b>: Gain 25 Rubies</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Ruby.png" alt="50 Ruby" align="middle"> 50 Rubies</b></p><p><b>Requirement</b>: Gain 50 Rubies
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Ruby.png" alt="50 Ruby" align="middle"> 50 Rubies</b></p>
+<p><b>Requirement</b>: Gain 50 Rubies</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Upgrade Trophies (10)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Upgrades.png" alt="5 Upgrades" align="middle"> 5 Upgrades</b></p><p><b>Requirement</b>: Purchase 5 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Upgrades.png" alt="5 Upgrades" align="middle"> 5 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 5 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/15Upgrades.png" alt="15 Upgrades" align="middle"> 15 Upgrades</b></p><p><b>Requirement</b>: Purchase 15 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/15Upgrades.png" alt="15 Upgrades" align="middle"> 15 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 15 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/30Upgrades.png" alt="30 Upgrades" align="middle"> 30 Upgrades</b></p><p><b>Requirement</b>: Purchase 30 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/30Upgrades.png" alt="30 Upgrades" align="middle"> 30 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 30 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Upgrades.png" alt="50 Upgrades" align="middle"> 50 Upgrades</b></p><p><b>Requirement</b>: Purchase 50 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Upgrades.png" alt="50 Upgrades" align="middle"> 50 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 50 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/85Upgrades.png" alt="85 Upgrades" align="middle"> 85 Upgrades</b></p><p><b>Requirement</b>: Purchase 85 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/85Upgrades.png" alt="85 Upgrades" align="middle"> 85 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 85 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/120Upgrades.png" alt="120 Upgrades" align="middle"> 120 Upgrades</b></p><p><b>Requirement</b>: Purchase 120 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/120Upgrades.png" alt="120 Upgrades" align="middle"> 120 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 120 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/175Upgrades.png" alt="175 Upgrades" align="middle"> 175 Upgrades</b></p><p><b>Requirement</b>: Purchase 175 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/175Upgrades.png" alt="175 Upgrades" align="middle"> 175 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 175 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/235Upgrades.png" alt="235 Upgrades" align="middle"> 235 Upgrades</b></p><p><b>Requirement</b>: Purchase 235 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/235Upgrades.png" alt="235 Upgrades" align="middle"> 235 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 235 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/305Upgrades.png" alt="305 Upgrades" align="middle"> 305 Upgrades</b></p><p><b>Requirement</b>: Purchase 305 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/305Upgrades.png" alt="305 Upgrades" align="middle"> 305 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 305 Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/385Upgrades.png" alt="385 Upgrades" align="middle"> 385 Upgrades</b></p><p><b>Requirement</b>: Purchase 385 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/385Upgrades.png" alt="385 Upgrades" align="middle"> 385 Upgrades</b></p>
+<p><b>Requirement</b>: Purchase 385 Upgrades</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Reincarnation Trophies (18)</a></b></p>
             <div class="autohide">
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Reincarnation.png" align="middle"> 1 Reincarnation</b>
-<p><b>Requirement</b>: 1 Oc (1e27) Gems, Reincarnate 1 time.
-<p><b>Effect</b>: Increase production of all buildings by 25%
-<p><b>Effect</b>: Increase offline bonus by 200%<p><p><b>Effect</b>: Increase FC coin Chance by 1%.
-<p><b>Effect</b>: Increase mana regen by 1.2 m/s.
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1Reincarnation.png" align="middle"> 1 Reincarnation</b></p>
+<p><b>Requirement</b>: 1 Oc (1e27) Gems, Reincarnate 1 time.</p>
+<p><b>Effect</b>: Increase production of all buildings by 25%</p>
+<p><b>Effect</b>: Increase offline bonus by 200%<p><p><b>Effect</b>: Increase FC coin Chance by 1%.</p>
+<p><b>Effect</b>: Increase mana regen by 1.2 m/s.</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/3Reincarnations.png" align="middle"> 3 Reincarnations</b>
-<p><b>Requirement</b>: 1 Dc (1e33) Gems, Reincarnate 3 times.
-<p><b>Effect</b>: Unlocks Mercenary faction and automatically grants Underworld Diplomacy
-<p><b>Effect</b>: Increase production of all buildings by 75%
-<p><b>Effect</b>: Increase offline bonus by 600%
-<p><b>Effect</b>: Increase FC coin Chance by 3%.
-<p><b>Effect</b>: Increase mana regen by 2.5 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+0.6%)
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/3Reincarnations.png" align="middle"> 3 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Dc (1e33) Gems, Reincarnate 3 times.</p>
+<p><b>Effect</b>: Unlocks Mercenary faction and automatically grants Underworld Diplomacy</p>
+<p><b>Effect</b>: Increase production of all buildings by 75%</p>
+<p><b>Effect</b>: Increase offline bonus by 600%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 3%.</p>
+<p><b>Effect</b>: Increase mana regen by 2.5 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+0.6%)</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Reincarnations.png" align="middle"> 5 Reincarnations</b>
-<p><b>Requirement</b>: 1 Dd (1e39) Gems, Reincarnate 5 times.
-<p><b>Effect</b>: Increase production of all buildings by 125%
-<p><b>Effect</b>: Increase offline bonus by 1000%
-<p><b>Effect</b>: Increase FC coin Chance by 5%.
-<p><b>Effect</b>: Increase mana regen by 3.3 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+1.0%)
-<p><b>Effect</b>: adds 1 assistant per reincarnation and +2% assistant production per reincarnation (10%)
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/5Reincarnations.png" align="middle"> 5 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Dd (1e39) Gems, Reincarnate 5 times.</p>
+<p><b>Effect</b>: Increase production of all buildings by 125%</p>
+<p><b>Effect</b>: Increase offline bonus by 1000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 5%.</p>
+<p><b>Effect</b>: Increase mana regen by 3.3 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+1.0%)</p>
+<p><b>Effect</b>: adds 1 assistant per reincarnation and +2% assistant production per reincarnation (10%)</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/7Reincarnations.png" align="middle"> 7 Reincarnations</b>
-<p><b>Requirement</b>: 1 Qad (1e45) Gems, Reincarnate 7 times.
-<p><b>Effect</b>: Unlocks Bloodlines
-<p><b>Effect</b>: Increase production of all buildings by 175%
-<p><b>Effect</b>: Increase offline bonus by 1400%
-<p><b>Effect</b>: Increase FC coin Chance by 7%.
-<p><b>Effect</b>: Increase mana regen by 4.0 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+1.4%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (14%)
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/7Reincarnations.png" align="middle"> 7 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Qad (1e45) Gems, Reincarnate 7 times.</p>
+<p><b>Effect</b>: Unlocks Bloodlines</p>
+<p><b>Effect</b>: Increase production of all buildings by 175%</p>
+<p><b>Effect</b>: Increase offline bonus by 1400%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 7%.</p>
+<p><b>Effect</b>: Increase mana regen by 4.0 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+1.4%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (14%)</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/10Reincarnations.png" align="middle"> 10 Reincarnations</b>
-<p><b>Requirement</b>: 1 Spd (1e54) Gems, Reincarnate 10 times.
-<p><b>Effect</b>: Increase production of all buildings by 250%
-<p><b>Effect</b>: Increase offline bonus by 2000%
-<p><b>Effect</b>: Increase FC coin Chance by 10%.
-<p><b>Effect</b>: Increase mana regen by 5.0 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+2.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (20%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/10Reincarnations.png" align="middle"> 10 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Spd (1e54) Gems, Reincarnate 10 times.</p>
+<p><b>Effect</b>: Increase production of all buildings by 250%</p>
+<p><b>Effect</b>: Increase offline bonus by 2000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 10%.</p>
+<p><b>Effect</b>: Increase mana regen by 5.0 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+2.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (20%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/12Reincarnations.png" align="middle"> 12 Reincarnations</b>
-<p><b>Requirement</b>: 1 Nod (1e60) Gems, Reincarnate 12 times.
-<p><b>Effect</b>: Increase production of all buildings by 300%
-<p><b>Effect</b>: Increase offline bonus by 2400%
-<p><b>Effect</b>: Increase FC coin Chance by 12%.
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/12Reincarnations.png" align="middle"> 12 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Nod (1e60) Gems, Reincarnate 12 times.</p>
+<p><b>Effect</b>: Increase production of all buildings by 300%</p>
+<p><b>Effect</b>: Increase offline bonus by 2400%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 12%.</p>
 <p><b>Effect</b>: Increase mana regen by 5.5 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+2.4%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (24%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+300)
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+2.4%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (24%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+300)</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/15Reincarnations.png" align="middle"> 15 Reincarnations</b>
-<p><b>Requirement</b>: 1 Dvg (1e69) Gems, Reincarnate 15 times.
-<p><b>Effect</b>: Increase production of all buildings by 375%
-<p><b>Effect</b>: Increase offline bonus by 3000%
-<p><b>Effect</b>: Increase FC coin Chance by 15%.
-<p><b>Effect</b>: Increase mana regen by 6.2 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+3.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (30%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+375)
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/15Reincarnations.png" align="middle"> 15 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Dvg (1e69) Gems, Reincarnate 15 times.</p>
+<p><b>Effect</b>: Increase production of all buildings by 375%</p>
+<p><b>Effect</b>: Increase offline bonus by 3000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 15%.</p>
+<p><b>Effect</b>: Increase mana regen by 6.2 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+3.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (30%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+375)</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/20Reincarnations.png" align="middle"> 20 Reincarnations</b>
-<p><b>Requirement</b>: 1 Spvg (1e84) Gems, Reincarnate 20 times.
-<p><b>Research Points</b>: 210
-<p><b>Effect</b>: Increase production of all buildings by 500%
-<p><b>Effect</b>: Increase offline bonus by 4000%
-<p><b>Effect</b>: Increase FC coin Chance by 20%.
-<p><b>Effect</b>: Increase mana regen by 7.3 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+4.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (40%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+500)
-<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/20Reincarnations.png" align="middle"> 20 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Spvg (1e84) Gems, Reincarnate 20 times.</p>
+<p><b>Research Points</b>: 210</p>
+<p><b>Effect</b>: Increase production of all buildings by 500%</p>
+<p><b>Effect</b>: Increase offline bonus by 4000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 20%.</p>
+<p><b>Effect</b>: Increase mana regen by 7.3 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+4.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (40%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+500)</p>
+<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/25Reincarnations.png" align="middle"> 25 Reincarnations</b>
-<p><b>Requirement</b>: 1 Dtg (1e99) Gems, Reincarnate 25 times.
-<p><b>Research Points</b>: 325
-<p><b>Effect</b>: Increase production of all buildings by 625%
-<p><b>Effect</b>: Increase offline bonus by 5000%
-<p><b>Effect</b>: Increase FC coin Chance by 25%.
-<p><b>Effect</b>: Increase mana regen by 8.2 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+5.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (50%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+625)
-<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (12.5%).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/25Reincarnations.png" align="middle"> 25 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Dtg (1e99) Gems, Reincarnate 25 times.</p>
+<p><b>Research Points</b>: 325</p>
+<p><b>Effect</b>: Increase production of all buildings by 625%</p>
+<p><b>Effect</b>: Increase offline bonus by 5000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 25%.</p>
+<p><b>Effect</b>: Increase mana regen by 8.2 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+5.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (50%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+625)</p>
+<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (12.5%).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/39Reincarnations.png" align="middle"> 30 Reincarnations</b>
-<p><b>Requirement</b>: 1 Sptg (1e114) Gems, Reincarnate 30 times
-<p><b>Research Points</b>: 465
-<p><b>Effect</b>: Increase production of all buildings by 750%
-<p><b>Effect</b>: Increase offline bonus by 6000%
-<p><b>Effect</b>: Increase FC coin Chance by 30%.
-<p><b>Effect</b>: Increase mana regen by 9.0 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+6.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (60%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+750)
-<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (15%).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/39Reincarnations.png" align="middle"> 30 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Sptg (1e114) Gems, Reincarnate 30 times</p>
+<p><b>Research Points</b>: 465</p>
+<p><b>Effect</b>: Increase production of all buildings by 750%</p>
+<p><b>Effect</b>: Increase offline bonus by 6000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 30%.</p>
+<p><b>Effect</b>: Increase mana regen by 9.0 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+6.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (60%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+750)</p>
+<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (15%).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/35Reincarnations.png" align="middle"> 35 Reincarnations</b>
-<p><b>Requirement</b>: 1 Dqag (1e129) Gems, Reincarnate 35 times
-<p><b>Research Points</b>: 630
-<p><b>Effect</b>: Increase production of all buildings by 875%
-<p><b>Effect</b>: Increase offline bonus by 7000%
-<p><b>Effect</b>: Increase FC coin Chance by 35%.
-<p><b>Effect</b>: Increase mana regen by 9.8 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+7.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (70%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+875)
-<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (17.5%).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/35Reincarnations.png" align="middle"> 35 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Dqag (1e129) Gems, Reincarnate 35 times</p>
+<p><b>Research Points</b>: 630</p>
+<p><b>Effect</b>: Increase production of all buildings by 875%</p>
+<p><b>Effect</b>: Increase offline bonus by 7000%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 35%.</p>
+<p><b>Effect</b>: Increase mana regen by 9.8 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+7.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (70%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+875)</p>
+<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (17.5%).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/40Reincarnations.png" align="middle"> 40 Reincarnations</b>
-<p><b>Requirement</b>: 1 Spqag (1e144) Gems, Ascend 1 time
-<p><b>Research Points</b>: 820
-<p><b>Effect</b>: Increase production of all buildings by 27.1%
-<p><b>Effect</b>: Increase offline bonus by 55.2%
-<p><b>Effect</b>: Increase FC coin Chance by 40%.
-<p><b>Effect</b>: Increase mana regen by 10.5 m/s.
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+8.0%)
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.05%)
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).
-<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+1000)
-<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (20%)
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/40Reincarnations.png" align="middle"> 40 Reincarnations</b></p>
+<p><b>Requirement</b>: 1 Spqag (1e144) Gems, Ascend 1 time</p>
+<p><b>Research Points</b>: 820</p>
+<p><b>Effect</b>: Increase production of all buildings by 27.1%</p>
+<p><b>Effect</b>: Increase offline bonus by 55.2%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 40%.</p>
+<p><b>Effect</b>: Increase mana regen by 10.5 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+8.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.05%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase maximum mana by 25 per reincarnation (+1000)</p>
+<p><b>Effect</b>: Increase production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (20%)</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/45Reincarnations.png" align="middle"> 45 Reincarnations</b>
-<p><b>Requirement</b>: 17.78 Oc Sp (1.778e28) Gems, Reincarnate 45 times
-<p><b>Research Points</b>: 1035
-<p><b>Effect</b>: Increase production of all buildings by 28.5%,
-<p><b>Effect</b>: Increase offline bonus by 72% ,
-<p><b>Effect</b>: Increase FC coin Chance by 45%.
-<p><b>Effect</b>: Increase mana regen by 11.2 m/s.,
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+9.0%),
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.63%),
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).,
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (22.530%),
-<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (79.015%),
-<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (3,2,),
-<p><b>Effect</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/45Reincarnations.png" align="middle"> 45 Reincarnations</b></p>
+<p><b>Requirement</b>: 17.78 Oc Sp (1.778e28) Gems, Reincarnate 45 times</p>
+<p><b>Research Points</b>: 1035</p>
+<p><b>Effect</b>: Increase production of all buildings by 28.5%</p>
+<p><b>Effect</b>: Increase offline bonus by 72% ,</p>
+<p><b>Effect</b>: Increase FC coin Chance by 45%.</p>
+<p><b>Effect</b>: Increase mana regen by 11.2 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+9.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.63%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (22.530%)</p>
+<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (79.015%)</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (3,2,)</p>
+<p><b>Effect</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Reincarnations.png" align="middle"> 50 Reincarnations</b>
-<p><b>Requirement</b>: 177.8 Ud (1.778e38) Gems, Reincarnate 50 times
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/50Reincarnations.png" align="middle"> 50 Reincarnations</b></p>
+<p><b>Requirement</b>: 177.8 Ud (1.778e38) Gems, Reincarnate 50 times</p>
 <p><b>Research Points</b>: 1275<p>
-<p><b>Effect</b>: Increase production of all buildings by 29.7%,
-<p><b>Effect</b>: Increase offline bonus by 73.8% ,
-<p><b>Effect</b>: Increase FC coin Chance by 50%.
-<p><b>Effect</b>: Increase mana regen by 11.8 m/s.,
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+10%),
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (7.18%),
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).,
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (25%),
-<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (88725%),
-<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (3,696),
-<p><b>Effect</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b>Effect</b>: Increase production of all buildings by 29.7%,</p>
+<p><b>Effect</b>: Increase offline bonus by 73.8%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 50%.</p>
+<p><b>Effect</b>: Increase mana regen by 11.8 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+10%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (7.18%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (25%)</p>
+<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (88725%)</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (3,696)</p>
+<p><b>Effect</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/60Reincarnations.png" align="middle"> 60 Reincarnations</b>
-<p><b>Requirement</b>: 17.78 Ocd (1.778e58) Gems, Reincarnate 60 times
-<p><b>Research Points</b>: 1830
-<p><b>Effect</b>: Increase production of all buildings by 2.81%,
-<p><b>Effect</b>: Increase offline bonus by 77% ,
-<p><b>Effect</b>: Increase FC coin Chance by 60%.
-<p><b>Effect</b>: Increase mana regen by 13 m/s.,
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+12.0%),
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (8.2%),
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).,
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (30%),
-<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (108429%),
-<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (4,517),
-<p><b>Effect</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/60Reincarnations.png" align="middle"> 60 Reincarnations</b></p>
+<p><b>Requirement</b>: 17.78 Ocd (1.778e58) Gems, Reincarnate 60 times</p>
+<p><b>Research Points</b>: 1830</p>
+<p><b>Effect</b>: Increase production of all buildings by 2.81%</p>
+<p><b>Effect</b>: Increase offline bonus by 77%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 60%.</p>
+<p><b>Effect</b>: Increase mana regen by 13 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+12.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +2% assistant production per reincarnation (8.2%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (30%)</p>
+<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (108429%)</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (4,517)</p>
+<p><b>Effect</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/70Reincarnations.png" align="middle"> 70 Reincarnations</b>
-<p><b>Requirement</b>: 1.778 Qivg (1.778e78) Gems, Reincarnate 70 times
-<p><b>Research Points</b>: 2485
-<p><b>Effect</b>: Increase production of all buildings by 2.96%,
-<p><b>Effect</b>: Increase offline bonus by 79.7%,
-<p><b>Effect</b>: Increase FC coin Chance by 70%.
-<p><b>Effect</b>: Increase mana regen by 14.1 m/s.,
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+14.0%),
-<p><b>Effect</b>: Instantly aadds 1 assistant per reincarnation and +2% assistant production per reincarnation (9.15%),
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).,
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (35%),
-<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (128466%),
-<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (5,352),
-<p><b>Effect</b>: Increase multiplicatively Faction Coin find chance based on the amount of times you reincarnated (107%)
-<p><b>Effect</b>: New R Power at Reincarnation 70, gain one additional Research slot for each branch.
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/70Reincarnations.png" align="middle"> 70 Reincarnations</b></p>
+<p><b>Requirement</b>: 1.778 Qivg (1.778e78) Gems, Reincarnate 70 times</p>
+<p><b>Research Points</b>: 2485</p>
+<p><b>Effect</b>: Increase production of all buildings by 2.96%</p>
+<p><b>Effect</b>: Increase offline bonus by 79.7%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 70%.</p>
+<p><b>Effect</b>: Increase mana regen by 14.1 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+14.0%)</p>
+<p><b>Effect</b>: Instantly aadds 1 assistant per reincarnation and +2% assistant production per reincarnation (9.15%)</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (35%)</p>
+<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (128466%)</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (5,352)</p>
+<p><b>Effect</b>: Increase multiplicatively Faction Coin find chance based on the amount of times you reincarnated (107%)</p>
+<p><b>Effect</b>: New R Power at Reincarnation 70, gain one additional Research slot for each branch.</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/85Reincarnations.png" align="middle"> 85 Reincarnations</b>
-<p><b>Requirement</b>: 1.778 Qitg (1.778e108) Gems, Reincarnate 85 times
-<p><b>Research Points</b>: 3655
-<p><b>Effect</b>: Increase production of all buildings by 3.15%,
-<p><b>Effect</b>: Increase offline bonus by 6.24%,
-<p><b>Effect</b>: Increase FC coin Chance by 85%.
-<p><b>Effect</b>: Increase mana regen by 15.6 m/s.,
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+17.0%),
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +1% assistant production per reincarnation,
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).,
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (42%),
-<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (113%),
-<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (18066),
-<p><b>Effect</b>: Increase multiplicatively Faction Coin find chance based on the amount of times you reincarnated (132%)
-<p><b>Effect</b>: New R Power at Reincarnation 85, gain 4 additional assistants per reincarnation.
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/85Reincarnations.png" align="middle"> 85 Reincarnations</b></p>
+<p><b>Requirement</b>: 1.778 Qitg (1.778e108) Gems, Reincarnate 85 times</p>
+<p><b>Research Points</b>: 3655</p>
+<p><b>Effect</b>: Increase production of all buildings by 3.15%</p>
+<p><b>Effect</b>: Increase offline bonus by 6.24%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 85%.</p>
+<p><b>Effect</b>: Increase mana regen by 15.6 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+17.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +1% assistant production per reincarnation</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (42%)</p>
+<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (113%)</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (18066)</p>
+<p><b>Effect</b>: Increase multiplicatively Faction Coin find chance based on the amount of times you reincarnated (132%)</p>
+<p><b>Effect</b>: New R Power at Reincarnation 85, gain 4 additional assistants per reincarnation.</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/100Reincarnations.png" align="middle"> 100 Reincarnations</b>
-<p><b>Requirement</b>: 1.778 Qiqag (1.778e138) Gems, Reincarnate 100 times
-<p><b>Research Points</b>: 5000 (Max)
-<p><b>Effect</b>: Increase production of all buildings by 3.31%,
-<p><b>Effect</b>: Increase offline bonus by 6.41%,
-<p><b>Effect</b>: Increase FC coin Chance by 100%.
-<p><b>Effect</b>: Increase mana regen by 17 m/s.,
-<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+20.0%),
-<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +1.1% assistant production per reincarnation,
-<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).,
-<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (50%),
-<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (117%),
-<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (22135),
-<p><b>Effect</b>: Increase multiplicatively Faction Coin find chance based on the amount of times you reincarnated (132%)
-<p><b>Effect</b>: New R Power at Reincarnation 85</font>: Will gain 4 additional assistants per reincarnation.,
-<p><b>Effect</b>: Increase mana regeneration by 1% per Reincarnation (100%).
-<p><b>Upgrade Cost</b>: RPower 1 Coin
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/100Reincarnations.png" align="middle"> 100 Reincarnations</b></p>
+<p><b>Requirement</b>: 1.778 Qiqag (1.778e138) Gems, Reincarnate 100 times</p>
+<p><b>Research Points</b>: 5000 (Max)</p>
+<p><b>Effect</b>: Increase production of all buildings by 3.31%</p>
+<p><b>Effect</b>: Increase offline bonus by 6.41%</p>
+<p><b>Effect</b>: Increase FC coin Chance by 100%.</p>
+<p><b>Effect</b>: Increase mana regen by 17 m/s.</p>
+<p><b>Effect</b>: Increase gem production bonus by 0.2% per reincarnation (+20.0%)</p>
+<p><b>Effect</b>: Instantly adds 1 assistant per reincarnation and +1.1% assistant production per reincarnation</p>
+<p><b>Effect</b>: Increase production of all buildings over time (based on times reincarnated).</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus by 0.5% per reincarnation (50%)</p>
+<p><b>Effect</b>: Increase production of Unique Buildings based on the amount of times you reincanation (117%)</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of times you reincarnated (22135)</p>
+<p><b>Effect</b>: Increase multiplicatively Faction Coin find chance based on the amount of times you reincarnated (132%)</p>
+<p><b>Effect</b>: New R Power at Reincarnation 85</font>: Will gain 4 additional assistants per reincarnation.</p>
+<p><b>Effect</b>: Increase mana regeneration by 1% per Reincarnation (100%).</p>
+<p><b>Upgrade Cost</b>: RPower 1 Coin</p>
         </div>
     </div>
 <hr>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Misc Trophies (15)</a></b></p>
             <div class="autohide">
-<p>Archaeology Expedition<p>Requirement: You have funded an archaeology expedition to find relics of the Ancient Races. (Excavate for 1st time.)
+<p>Archaeology Expedition
+  <p>Requirement: You have funded an archaeology expedition to find relics of the Ancient Races. (Excavate for 1st time.)
 <br/>
-<p>Clouded<p> Requirement: Register your realm in the Cloud Service! <p>In the Options
+<p>Clouded
+  <p> Requirement: Register your realm in the Cloud Service!
+  <p>In the Options
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretTrophy.png align=middle><b> Vanilla Challenger</b></p><p>Requirement: Complete all the Vanilla Faction Challenges.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Vanilla Factions by 25%.<p>Post Ascension: Increase the overall production of Vanilla Factions by 2.26%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretTrophy.png align=middle><b> Vanilla Challenger</b></p>
+<p>Requirement: Complete all the Vanilla Faction Challenges.
+  <p>Upgrade Cost Pre Ascension: 10 coins
+  <p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Vanilla Factions by 25%.
+    <p>Post Ascension: Increase the overall production of Vanilla Factions by 2.26%.
 <br/>
-<p><img src=http://musicfamily.org/realm/Factions/picks/NeutralChallengerSecretTrophy.png align=middle><b> Neutral Challenger</b></p><p>Requirement: Complete all the Neutral Faction Challenges.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Neutral Factions by 25%.<p>Post Ascension: Increase the overall production of Neutral Factions by 2.26%.
+<p><img src=http://musicfamily.org/realm/Factions/picks/NeutralChallengerSecretTrophy.png align=middle><b> Neutral Challenger</b></p>
+<p>Requirement: Complete all the Neutral Faction Challenges.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the overall production of Neutral Factions by 25%.<p>Post Ascension: Increase the overall production of Neutral Factions by 2.26%.
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png align=middle><b> Prestige Challenger</b></p><p>Requirement: Complete all the Prestige Challenges, R63+<p>Cost: 10<p>Effect</b>: Increase the overall production of Prestige Factions by 25%.
 <br/>
