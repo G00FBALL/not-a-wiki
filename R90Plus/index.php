@@ -164,7 +164,7 @@
                 <p>E10,E135,E145,E290,E1225,E3250,
                 <p>A120,A150,A590,A1500,A2950,A3400,
                 <p>W25,W180,W400,W525,W3050,W3150
-                <p><b>Notes</b>: High-End production build ment for excavating the 26# and 27# excavation rubies. Careful of coin cap.
+                <p><b>Notes</b>: High-End production build meant for excavating the 26# and 27# excavation rubies. Careful of coin cap.
                 <p><b>Notes</b>: Replace C400 with C1500 if 150%+
                 <p><b>Notes</b>: Replace E290 with E350 if not going for rubies
                 <p><b>Notes</b>: Replace D200 with D1375 and A1500 with A410 if a S400 buff run was already done this R.

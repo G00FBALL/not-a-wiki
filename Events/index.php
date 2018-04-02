@@ -302,7 +302,7 @@ var x = setInterval(function() {
                 <p><b><img src="/realm/Factions/picks/URadiantEggEaster2017.png" alt="Radiant Egg" align="middle"> Radiant Egg</b></p>
                 <p><b>Effect</b>: Increase clicking reward by 100%</p>
                 <p><b>Effect A1</b>: Increase clicking reward by 7.18%</p>
-                <p><b>Effect A2</b>: Increase the production of all buildings by 0.7%.</p>
+                <p><b>Effect A2</b>: Increase clicking reward by 0.07</p>
                 <p><b>Effect</b>: Gives 1 Ruby.</p>
                 <hr>
                 <p><b><img src="/realm/Factions/picks/UWoodenEggEaster2017.png" alt="Wooden Egg" align="middle"> Wooden Egg</b></p>
@@ -311,8 +311,8 @@ var x = setInterval(function() {
                 <hr>
                 <p><b><img src="/realm/Factions/picks/UDarkEggEaster2017.png" alt="Dark Egg" align="middle"> Dark Egg</b></p>
                 <p><b>Effect</b>: Increase offline production by 500%</p>
-                <p><b>Effect A1</b>: Increase offline production by 19.6%, Gives 1 Ruby.</p>
-                <p><b>Effect A2</b>: Increase the production of all buildings by 1.81%.</p>
+                <p><b>Effect A1</b>: Increase offline production by 19.6%</p>
+                <p><b>Effect A2</b>: Increase offline production by 1.81%.</p>
                 <p><b>Effect</b>: Gives 1 Ruby.</p>
                 <hr>
                 <p><b><img src="/realm/Factions/picks/UAncientEggEaster2017.png" alt="Ancient Egg" align="middle"> Ancient Egg</b></p>
