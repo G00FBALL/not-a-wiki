@@ -53,7 +53,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/EarthCore.png" alt="Earth Core" align="middle"><b> Earth Core</b></p>
 <p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious enery sources.</p>
 <p><b>Unlocks</b>: Part of the Prestige research quest</p>
-<p><b>Requirements</b>: 2750th Excavation</p>
+<p><b>Requirements</b>: 2750th Excavation, R29+</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKings.png" alt="Horn of the Kings" align="middle"><b> Horn of the Kings</b></p>
 <p><b>Clues</b>: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the Wind.</p>
