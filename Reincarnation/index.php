@@ -15,7 +15,7 @@
         </map>
     <p>It is this upgrade that enables the reincarnation perks.</p>
     <p>Hovering over it (<u>in game</u>) located under the <u>Upgrade</u> tab will reveal all the details about your reincarnation perks.</p>
-    <p><b>Requirements</b>
+    <p><b>Requirements</b></p>
     <p>Reincarnation can only be performed for the first time when the user reaches 1 Oc Gems, and each subsequent reincarnation costs 1000 times more gems.</p>
     <p>Along the way, try to get all the Trophies and Artifacts you can get at each progress level.</p>
     <br/>

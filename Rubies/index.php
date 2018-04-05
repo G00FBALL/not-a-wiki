@@ -57,19 +57,19 @@
             $('#rubcalc :checkbox').on('change', rubcalc);
         </script>
     </div>
-    <p>The formula for the number of excavations required for each ruby is 25n(n+1), where n is the number of rubies.
-    <p>Finding the 1st, 10th, 25th and 50th ruby rewards a trophy.
-    <p><b>Spending Rubies</b>
+    <p>The formula for the number of excavations required for each ruby is 25n(n+1), where n is the number of rubies.</p>
+    <p>Finding the 1st, 10th, 25th and 50th ruby rewards a trophy.</p>
+    <p><b>Spending Rubies</b></p>
     <p>Rubies enable you to buy:
-    <p>Excavation Resets : Costs 1 Ruby - 1-2999, 2 Rubies 3000-5999, 3 Rubies 6000-8999, 4 Rubies 9000-11999, 5 Rubies 12000-14999.
-    <p>Note: The counter is reset, but you will not find rubies again.
-    <p>Event items (such as snowballs during the Christmas event)
+    <p>Excavation Resets : Costs 1 Ruby - 1-2999, 2 Rubies 3000-5999, 3 Rubies 6000-8999, 4 Rubies 9000-11999, 5 Rubies 12000-14999.</p>
+    <p>Note: The counter is reset, but you will not find rubies again.</p>
+    <p>Event items (such as snowballs during the Christmas event)</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RubyPower.png" align="middle"><b> Ruby Power Upgrade</b></p>
-    <p>Finding 1 Ruby will unlock the Ruby power upgrade which unlocks The Power of Rubies.
-    <p>Each Ruby enables you to purchase one of the Ruby powers listed below:
-    <p>Ruby power bonus will also increase by Tier based on all-time amounts of Rubies collected. See Ruby Upgrades for more details.
-    <p><b>------------------------------</b>
-    <p><b>Ruby Upgrade Panel</b>
+    <p>Finding 1 Ruby will unlock the Ruby power upgrade which unlocks The Power of Rubies.</p>
+    <p>Each Ruby enables you to purchase one of the Ruby powers listed below:</p>
+    <p>Ruby power bonus will also increase by Tier based on all-time amounts of Rubies collected. See Ruby Upgrades for more details.</p>
+    <hr>
+    <p><b>Ruby Upgrade Panel</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RubyUpgradePanel.png" alt=""></p>
        <a id="Upgrades"></a>
     <table class="numtable">
@@ -704,4 +704,3 @@
         </thead>
     </table>
 <?php include "../scripts/footer.html"; ?>
-
