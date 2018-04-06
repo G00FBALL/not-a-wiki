@@ -223,7 +223,7 @@ div#images div{
 <p><b>Merc Build</b>
 <p><b>Alingment</b>: Neutral</p>
 <p><b>Bloodline</b>: Druid</p>
-<p><button onclick="myFunction($(this))" data-text-swap="Copy Build">Build Copied</button>
+<p><button onclick="myFunction($(this))">Copy Build</button>
 
 
 
