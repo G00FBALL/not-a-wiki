@@ -352,7 +352,7 @@
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.</p>
     <p><b>Requirement</b>: R100+, 3000+ Excavations</p>
     <p><b>Effect</b>: Unlocks Undead Set.</p>
-    <p><b>Chance</b>: ((1 / (30 + x ^ 1.5))%, where x is time this game in seconds.</p>
+    <p><b>Chance</b>: (1 / (30 + x ^ 1.5))%, where x is time this game in seconds.</p>
     <p><b>Note</b>: 1 in 3000 in 0 seconds 1 in 49475 at 60 seconds. 1 in 134453 at 120 seconds</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> Crystallized Lava</b></p>
