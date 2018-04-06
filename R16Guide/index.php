@@ -223,7 +223,10 @@ div#images div{
 <p><b>Merc Build</b>
 <p><b>Alingment</b>: Neutral</p>
 <p><b>Bloodline</b>: Druid</p>
-<p><button onclick="myFunction($(this))">Copy Build</button>
+<p><button onclick="myFunction($(this))" data-text-swap="Copy Build">Build Copied</button>
+
+
+
 <input type="text" value="FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
 <p>FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
