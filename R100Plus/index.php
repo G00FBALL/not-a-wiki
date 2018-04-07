@@ -129,6 +129,25 @@
                 <p><b>Notes</b>: Druid Challenge 4 off for Combo Strike count. On during Production or Sun Force Faction Coins.
                 <p><b>Notes</b>: Long setup time (? hours).
                 <p><b>Notes</b>: Highly benefits from gifts.
+                </div>
+           </div>
+   <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Undead Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Range</b>: ? gems
+                <p><b>Alignment</b>: Neutral, Proof of Balance
+                <p><b>Requirements</b>: Undead Set
+                <p><b>Faction</b>: Druid
+                <p><b>Bloodline</b>: Undead
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S3200,C300,C1325,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
+                <p>S3200,
+                <p>C300,C1325,
+                <p>D245,D275,
+                <p>E260,E1425,
+                <p>A251,A375,A400,
+                <p>W350,W1375
      </div>
 </div>
             </div>
