@@ -22,6 +22,7 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Druid
+                      <p><b>Artifact Set</b>: Undead (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C340,D150,D275,E260,E1425,A250,A251,A375,W350,W1375" id="Build">
                     <p><b>Artifact</b>: Druid (if avaliable)
@@ -41,7 +42,7 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Artifact</b>: Druid (if avaliable), Elf (if buffed)
+                    <p><b>Artifact Set</b>: Undead (if avaliable), Elf (if buffed)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D150,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -69,6 +70,7 @@
                     <p><b>Requirements</b>: Goblin Set Artifact
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
+                      <p><b>Artifact Set</b>: Undead (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -84,7 +86,7 @@
                     </div>
                </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b> Obsolete?</p>
         <div class="autohide">
                 <p><b>Author</b>: ensteffahn
                 <p><b>Range</b>: 1e42 (1 Td) gems - ? gems
