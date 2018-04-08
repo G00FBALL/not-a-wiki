@@ -167,7 +167,7 @@
                 <p>E260,E1425,
                 <p>A120,A251,A375,
                 <p>W350,W1375
-                  Requires: Buffed Angel Bloodline (spells cast this R). Angel Lineage Goblin S400 buff should be best for this. Production won't be much higher than Undead Lineage without a large S400 buff.
+                <p><b>Requires</b>: Buffed Angel Bloodline (spells cast this R). Angel Lineage Goblin S400 buff should be best for this. Production won't be much higher than Undead Lineage without a large S400 buff.
      </div>
 </div>
             </div>
