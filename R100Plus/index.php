@@ -131,6 +131,10 @@
                 <p><b>Notes</b>: Highly benefits from gifts.
                 </div>
            </div>
+            </div>
+                    <br/>
+    <p><b>Tested at R113 e44 Gems</b></p>
+    <div class="category">
    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Undead Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
