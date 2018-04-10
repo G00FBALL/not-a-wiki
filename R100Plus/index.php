@@ -159,7 +159,7 @@
         <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: ? gems
-                <p><b>Alignment</b>: Good, Proof of Order
+                <p><b>Alignment</b>: Neutral, Proof of Balance
                 <p><b>Requirements</b>: Undead Set
                 <p><b>Faction</b>: Druid
                 <p><b>Bloodline</b>: Angel
