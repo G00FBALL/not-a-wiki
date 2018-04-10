@@ -70,7 +70,6 @@
                     <p><b>Requirements</b>: Goblin Set Artifact
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
-                      <p><b>Artifact Set</b>: Undead (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
