@@ -201,7 +201,7 @@ div#images div{
 <p><b>2.1</b>: Get to 55+ Research Points Use Fairy with Elf Bloodline.</p>
 <p><b>2.2</b>: <b>S30</b>: 4000 Mana, <b>S50</b>: 6000 max mana, <b>C10</b>: 2500 Farms, Use Fairy with Elf Bloodline.</p>
 <p><b>2.3</b>: <b>D50</b>: 15000 good buildings as Angels, <b>S10</b>: 2000 heaven's gates this game, Use Angel with Goblin Bloodline.</p>
-<p><b>2.4</b>: <b>E30</b>: 1000 royal exchanges this game, <b>E50</b>: 1000 royal exchanges as Goblin, <b>A10</b>: 2250 Goblin Banks, <b>W25</b>: 1e32 coins this game, Use Goblin with Goblin Bloodline. (E30-E50 will be last, Bronze cast Goblin's Greed)</p>
+<p><b>2.4</b>: <b>E30</b>: 1000 royal exchanges this game, <b>E50</b>: 1000 royal exchanges as Goblin, <b>A10</b>: 2250 Goblin Banks, <b>W25</b>: 1 Tqag (1e132) coins this game, Use Goblin with Goblin Bloodline. (E30-E50 will be last, Bronze cast Goblin's Greed)</p>
 <p><b>2.5</b>: <b>D10</b>: 2000 Infernal Realms, Use Demon with Goblin Bloodline.</p>
 <p><b>2.6</b>: <b>E10</b>: 2000 Undercities, Use Undead with Goblin Bloodline.</p>
 <hr>
