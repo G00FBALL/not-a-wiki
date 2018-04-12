@@ -303,7 +303,7 @@
                 <p><b>Drow</b>: (2,1) Mana Addicts</p>
                 <p><b>Tier 3 Upgrades</b></p>
                 <p><b>Dragon</b>: (3,1) Ancient Hunger (R76+)</p>
-                <p><b>Undead</b>: (3,3) Undead Resilience</p>
+                <p><b>Undead</b>: (3,1) Dead Fields</p>
                 <p><b>Demon</b>: (3,3) Very Bad Guys</p>
                 <p><b>Titan</b>: (3,2) Heavy Coins</p>
         </div>
