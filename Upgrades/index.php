@@ -8,219 +8,219 @@
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Alignment Upgrades</a></b></p>
         <div class="autohide">
+            <p><img src="http://musicfamily.org/realm/Factions/picks/GrindingDedication.png" align="middle"><b> Grinding Dedication</b></p>
+            <p><b>Requirements</b>: 7 Hours Playtime (Total)</p>
+            <p><b>Cost</b>: 1 Sx (1E21)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofGoodDeed.png" align="middle"><b> Proof of Good Deed</b></p>
-            <p><b>Cost</b>: 25,000
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Effect</b>: Enables to join Good Factions.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 25,000</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Effect</b>: Enables to join Good Factions.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicCertificate.png" align="middle"><b> Heroic Certificate</b></p>
-            <p><b>Cost</b>: 100 T (1E14)
-            <p><b>Requirements</b>: 750 Good Buildings
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 0.7%.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 100 T (1E14)</p>
+            <p><b>Requirements</b>: 750 Good Buildings</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Good</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 0.7%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicValidation.png" align="middle"><b> Heroic Validation</b></p>
-            <p><b>Requirements</b>: 1500 Good Buildings
-            <p><b>Cost</b>: 100 Qi (1E20)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 300%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 14.9%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 1.4%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 1500 Good Buildings</p>
+            <p><b>Cost</b>: 100 Qi (1E20)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Good</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 300%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 14.9%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 1.4%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicAffirmation.png" align="middle"><b> Heroic Affirmation</b></p>
-            <p><b>Requirements</b>: 12000 Good buildings
-            <p><b>Cost</b>: 100 Qaq (1E47)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 700%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 23.1%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 2.1%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 12000 Good buildings</p>
+            <p><b>Cost</b>: 100 Qaq (1E47)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Good</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 700%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 23.1%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 2.1%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicProclamations.png" align="middle"><b> Heroic Proclamations</b></p>
-            <p><b>Requirements</b>: Ascension 1+, 20000 Good buildings (16667 with Dwarf 5 on)
-            <p><b>Cost</b>: 10 No (1E31)
-            <p><b>Cost</b>: Ascension 2, Free
-            <p><b>Alignment</b>: Good
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 100%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 7.18%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: Ascension 1+, 20000 Good buildings (16667 with Dwarf 5 on)</p>
+            <p><b>Cost</b>: 10 No (1E31)</p>
+            <p><b>Cost</b>: Ascension 2+, Free</p>
+            <p><b>Alignment</b>: Good</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 7.18%.</p>
+            <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofEvilDeed.png" align="middle"><b> Proof of Evil Deed</b></p>
-            <p><b>Cost</b>: 25,000
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Effect</b>: Enables to join Evil Factions
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 25,000</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Effect</b>: Enables to join Evil Factions</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosCertificate.png" align="middle"><b> Villainous Certificate</b></p>
             <p><b>Requirements</b>: 750 Evil Buildings
             <p><b>Cost</b>: 100 T (1E14)
-            <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 0.7%.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Evil</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 0.7%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosValidation.png" align="middle"><b> Villainous Validation</b></p>
-            <p><b>Requirements</b>: 1500 Evil Buildings
-            <p><b>Cost</b>: 100 Qi (1E20)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 300%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 14.9%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 1.4%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 1500 Evil Buildings</p>
+            <p><b>Cost</b>: 100 Qi (1E20)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Evil</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 300%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 14.9%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 1.4%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosAffirmation.png" align="middle"><b> Villainous Affirmation</b></p>
-            <p><b>Requirements</b>: 12000 Evil buildings
-            <p><b>Cost</b>: 100 Qaq (1E47)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 700%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 23.1%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 2.1%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 12000 Evil buildings</p>
+            <p><b>Cost</b>: 100 Qaq (1E47)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Evil</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 700%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 23.1%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 2.1%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainousProclamations.png" align="middle"><b> Villainous Proclamations</b></p>
-            <p><b>Requirements</b>: Ascension 1+, 20000 Evil buildings (16667 with Dwarf 5 on)
-            <p><b>Cost</b>: 10 No (1E31)
-            <p><b>Cost</b>: Ascension 2, Free
-            <p><b>Alignment</b>: Evil
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 100%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 7.18%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: Ascension 1+, 20000 Evil buildings (16667 with Dwarf 5 on)</p>
+            <p><b>Cost</b>: 10 No (1E31)</p>
+            <p><b>Cost</b>: Ascension 2+, Free</p>
+            <p><b>Alignment</b>: Evil</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 7.18%.</p>
+            <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutrality.png" align="middle"><b> Proof of Neutrality</b></p>
-            <p><b>Requirements</b>: At least one neutral faction unlocked
-            <p><b>Cost</b>: 10 Qa (1E16)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Effect</b>: Enables to join Neutral Factions
-            <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/GrindingDedication.png" align="middle"><b> Grinding Dedication</b></p>
-            <p><b>Requirements</b>: 7 Hours Playtime (Total)
-            <p><b>Cost</b>: 1 Sx (1E21)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: At least one neutral faction unlocked</p>
+            <p><b>Cost</b>: 10 Qa (1E16)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Effect</b>: Enables to join Neutral Factions</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNeutrality.png" align="middle"><b> True Neutrality</b></p>
-            <p><b>Requirements</b>: 24 Hours Playtime as Neutral (Total)
-            <p><b>Cost</b>: 500 T (5E14)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 24 Hours Playtime as Neutral (Total)</p>
+            <p><b>Cost</b>: 500 T (5E14)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralCertificate.png" align="middle"><b> Neutral Certificate</b></p>
-            <p><b>Requirements</b>: 3,500 Neutral Buildings
-            <p><b>Cost</b>: 2 No (2E30)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 3,500 Neutral Buildings</p>
+            <p><b>Cost</b>: 2 No (2E30)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralValidation.png" align="middle"><b> Neutral Validation</b></p>
-            <p><b>Requirements</b>: 7,000 Neutral Buildings
-            <p><b>Cost</b>: 4 Dd (4E39)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 7,000 Neutral Buildings</p>
+            <p><b>Cost</b>: 4 Dd (4E39)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralAffirmation.png" align="middle"><b> Neutral Affirmation</b></p>
-            <p><b>Requirements</b>: 20,000 Neutral Buildings
-            <p><b>Cost</b>: 8 NoQag (8E150)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
-            <p><b>------------------------------</b></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralProclamations.png" align="middle"><b> Villainous Proclamations</b></p>
-            <p><b>Requirements</b>: 50000 Neutral buildings
-            <p><b>Cost</b>: 16 Novg (1.6e91)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.
-            <p><b>------------------------------</b></p>
-            <h6>Post A2 - R100+</h6>
+            <p><b>Requirements</b>: 20,000 Neutral Buildings</p>
+            <p><b>Cost</b>: 8 NoQag (8E150)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <br/>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralProclamations.png" align="middle"><b> Neutral Proclamations</b></p>
+            <p><b>Requirements</b>: 50000 Neutral buildings</p>
+            <p><b>Cost</b>: 16 Novg (1.6e91)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
             <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
-            <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
-            <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
             <p><b>Requirements</b>: R100+
+            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
             <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
-            <p><b>------------------------------</b></p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
             <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
-            <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
-            <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
             <p><b>Requirements</b>: R100+
+            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
             <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
-            <p><b>----------------------------------</b></p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
             <p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>
-            <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
-            <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
             <p><b>Requirements</b>: R100+
+            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
             <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b></p>
-            <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 12pm.)
-            <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 12pm.)</p>
+            <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
-            <p><b>Requirement</b>: R7+, but at least 100 Elven upgrades (Total, Accross all Rs).
-            <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.
-            <p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.
-            <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirement</b>: R7+, but at least 100 Elven upgrades (Total, Accross all Rs).</p>
+            <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
+            <p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
+            <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure Series</b></p>
             <p><b>6 Upgrades</b>:</p>
             <p><b>Requirement</b>: Click 100, 500, 2,500, 10,000, 50,000 and 100,000 times.
             <p><b>Cost</b>: 500, 5,000, 5M (5E6), 5B (5E9), 50T (5E13),
             <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Effect</b>: Add 1 click per second while offline. (per upgrade)</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.
-            <p><b>------------------------------</b></p>
-            <p><b>C590</b>: <b>For</b>: Elf, Dwarf - <b>Research Name</b>: Alloys
-            <p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwelf), Research Fusion(A105) and Blacksmithing(C520).
-            <p><b>Cost</b>: Pre Ascension, 39.16 QiSpg (3.916E229)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Effect</b>: Autoclicks 10 times per second.
-            <p><b>Effect</b>: Increase clicking reward based on your chance to find Faction Coins, (if your FC chance is 10k%, this will be 10k%).
-            <p><b>------------------------------</b></p>
+            <p><b>Effect</b>: Add 1 click per second while offline. (per upgrade - 6 Total)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.</p>
+            <br/>
+            <p><b>C590</b>: <b>For</b>: Elf, Dwarf - <b>Research Name</b>: Alloys</p>
+            <p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwelf), Research Fusion(A105) and Blacksmithing(C520).</p>
+            <p><b>Cost</b>: Pre Ascension, 39.16 QiSpg (3.916E229)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Effect</b>: Autoclicks 10 times per second.</p>
+            <p><b>Effect</b>: Increase clicking reward based on your chance to find Faction Coins, (if your FC chance is 10k%, this will be 10k%).</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenLineage.png" alt="Elven Lineage" align="middle"><b> Elven Lineage</b></p>
-            <p><b>Requirement</b>: R60+
-            <p><b>Cost</b>: 400 Elven Royal Exchanges.
-            <p><b>Effect</b>: Gives 1 autoclick per Lineage level.
-            <p><b>Effect</b>: Also increase clicks count by a multiplicative 5000% per level.
-            <p><b>Level 5</b>
+            <p><b>Requirement</b>: R60+</p>
+            <p><b>Cost</b>: 400 Elven Royal Exchanges.</p>
+            <p><b>Effect</b>: Gives 1 autoclick per Lineage level.</p>
+            <p><b>Effect</b>: Also increase clicks count by a multiplicative 5000% per level.</p>
+            <p><b>Level 5</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk1.png" alt="ElvenPerk1" align="middle"><b> Elven Perk 1</b></p>
             <p><b>Requirement</b>: Reach Lineage Level 5.
-            <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.
-            <p><b>Level 10</b>
-            <p><b>Effect</b>: x100 Elven Faction Coin find chance.
-            <p><b>Level 15</b>
+            <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.</p>
+            <p><b>Level 10</b></p>
+            <p><b>Effect</b>: x100 Elven Faction Coin find chance.</p>
+            <p><b>Level 15</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk2.png" alt="ElvenPerk2" align="middle"><b> Elven Perk 2</b></p>
-            <p><b>Requirement</b>: Reach Lineage Level 15.
-            <p><b>Effect</b>: Unlocks Elven Lineage Challenge.
-            <p><b>Challenge</b>: 7777 autoclicks in the first 5 minutes of a run.
-            <p><b>Effect</b>: Unlocks Faction spell. (Moon Blessing)
-            <p><b>Level 20</b>
+            <p><b>Requirement</b>: Reach Lineage Level 15.</p>
+            <p><b>Effect</b>: Unlocks Elven Lineage Challenge.</p>
+            <p><b>Challenge</b>: 7777 autoclicks in the first 5 minutes of a run.</p>
+            <p><b>Effect</b>: Unlocks Faction spell. (Moon Blessing)</p>
+            <p><b>Level 20</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk3.png" alt="ElvenPerk3" align="middle"><b> Elven Perk 3</b></p>
-            <p><b>Requirement</b>: Reach Lineage Level 20.
-            <p><b>Effect</b>: Increase base clicking reward by 5% of Unique Building production for every 777 of them.
+            <p><b>Requirement</b>: Reach Lineage Level 20.</p>
+            <p><b>Effect</b>: Increase base clicking reward by 5% of Unique Building production for every 777 of them.</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" alt="ElvenGrandChampionTrophy.png" align="middle"> Elven Grand Champion Trophy.
-            <p><b>Requirement</b>: Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.
+            <p><b>Requirement</b>: Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Click Upgrades</a></b></p>
         <div class="autohide">
@@ -593,7 +593,7 @@
             <p><b>Cost</b>: 1 Tqag (1e129)
             <p><b>Effect 1</b>: Allows access to Research Facilities
             <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.
-            <p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R). 
+            <p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R).
             <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
         </div>
         <p onclick="shohid($(this)); return false;"><b> <a href="#">Gem Upgrades</a></b></p>
@@ -1742,7 +1742,7 @@
             <p><b>Formula</b>: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretUpgrade.png" alt="Iron Rush" align="middle"> Iron Rush</b></p>
-            <p><b>Requirements</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power. 
+            <p><b>Requirements</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.
             <p><b>Cost</b>: 3 SxSxg (3.8E201)
             <p><b>Alignment</b>: Neutral
             <p><b>Effect</b>: Iron strongholds count as 5% more for all purposes.</p>
@@ -1976,22 +1976,22 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/DarkCovenant.png" alt="Dark Covenant" align="middle"> <b>Dark Covenant</b>
             <p><b>Requirement</b>: Tyrant Garrison, Mercenary Evil Alignment
             <p><b>Cost</b>: 1 Qaqag (1e135)
-            <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.
-            <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests Additional casts of Reap Interests increase its seconds worth of production.
-            <p><b>Formula</b>: y ^ (1 + 0.2 * Log(1 + x)) Y is TC original power and X is amount of TC casts?
+            <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
+            <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests Additional casts of Reap Interests increase its seconds worth of production.</p>
+            <p><b>Formula</b>: y ^ (1 + 0.2 * Log(1 + x)) Y is TC original power and X is amount of TC casts?</p>
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b>
-            <p><b>Requirement</b>: Freemason's Hall, Mercenary Neutral Alignment
-            <p><b>Cost</b>: 1 Qaqag (1e135)
-            <p><b>Effect </b>: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins per cast
-            <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirement</b>: Freemason's Hall, Mercenary Neutral Alignment</p>
+            <p><b>Cost</b>: 1 Qaqag (1e135)</p>
+            <p><b>Effect </b>: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins per cast</p>
+            <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.</p>
+            <hr>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Building Upgrades</a></b></p>
         <div class="autohide">
             <p><b>A complete list of building upgrades</b></p>
             <p>In order from <b>Neutral</b> to <b>Good</b> to <b>Evil</b> with <b>Halls of Legends</b> at the bottom.</p>
-            <p>Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
+            <p>Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.</p>
             <p><b>Farm Upgrades (Alignment: Any)</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/fgroup1.png" usemap="#fgroup1-map">
 <map name="fgroup1-map">
