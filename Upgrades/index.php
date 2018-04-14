@@ -203,10 +203,12 @@
             <p><b>Cost</b>: 400 Elven Royal Exchanges.</p>
             <p><b>Effect</b>: Gives 1 autoclick per Lineage level.</p>
             <p><b>Effect</b>: Also increase clicks count by a multiplicative 5000% per level.</p>
+            <br/>
             <p><b>Level 5</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk1.png" alt="ElvenPerk1" align="middle"><b> Elven Perk 1</b></p>
             <p><b>Requirement</b>: Reach Lineage Level 5.
             <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.</p>
+            <br/>
             <p><b>Level 10</b></p>
             <p><b>Effect</b>: x100 Elven Faction Coin find chance.</p>
             <p><b>Level 15</b></p>
@@ -215,6 +217,7 @@
             <p><b>Effect</b>: Unlocks Elven Lineage Challenge.</p>
             <p><b>Challenge</b>: 7777 autoclicks in the first 5 minutes of a run.</p>
             <p><b>Effect</b>: Unlocks Faction spell. (Moon Blessing)</p>
+            <br/>
             <p><b>Level 20</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk3.png" alt="ElvenPerk3" align="middle"><b> Elven Perk 3</b></p>
             <p><b>Requirement</b>: Reach Lineage Level 20.</p>
