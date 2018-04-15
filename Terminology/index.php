@@ -23,6 +23,8 @@
 <p><b>RUS</b>: Research Upgrade Slot
 <p><b>m/s or mps</b>: Mana per Second
 <p><b>BL</b>: Bloodline
+<p><b>U (Build Name)</b>: Builds that target Unique Buildings
+<p><b>NU (Build Name)</b>:Builds that do not target Unique Buildings
 <p><b>RNG</b>: Random Number Generator
 <p><b>Merc or Mercs</b>: Mercenary
 <h6>Research Facilities</h6>
@@ -90,6 +92,7 @@
 <p><b>Necros</b>: Necropolis
 <p><b>Pyra</b>: Ancient Pyramids
 <p><b>Den</b>: Wyrm's Den
+<p><b>OH</b>: Olympian Hall (Titan's Unique building)
 <h6>Gift Shop</h6>
 <p><b>GotH</b>: Gift of the Heroes
 <p><b>GotK</b>: Gift of the Kings
