@@ -82,6 +82,7 @@
 <p><b>IS</b>: Iron Stronghold
 <p><b>AP</b>: Ancient Pyramid
 <p><b>HoL</b>: Hall of Legends
+<p><b>OH</b>: Olympian Hall (Titan's Unique building)
 <p><b>UB</b>: Unique Building (R16-R99)
 <p><b>UB2</b>: Unique Building 2 (R100+)
 <h6>Abbreviations</h6>
@@ -92,7 +93,6 @@
 <p><b>Necros</b>: Necropolis
 <p><b>Pyra</b>: Ancient Pyramids
 <p><b>Den</b>: Wyrm's Den
-<p><b>OH</b>: Olympian Hall (Titan's Unique building)
 <h6>Gift Shop</h6>
 <p><b>GotH</b>: Gift of the Heroes
 <p><b>GotK</b>: Gift of the Kings

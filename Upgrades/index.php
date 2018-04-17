@@ -11,143 +11,143 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrindingDedication.png" align="middle"><b> Grinding Dedication</b></p>
             <p><b>Requirements</b>: 7 Hours Playtime (Total)</p>
             <p><b>Cost</b>: 1 Sx (1E21)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Neutral buildings by 0.7%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofGoodDeed.png" align="middle"><b> Proof of Good Deed</b></p>
             <p><b>Cost</b>: 25,000</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Effect</b>: Enables to join Good Factions.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicCertificate.png" align="middle"><b> Heroic Certificate</b></p>
             <p><b>Cost</b>: 100 T (1E14)</p>
             <p><b>Requirements</b>: 750 Good Buildings</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Good</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Good buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Good buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Good buildings by 0.7%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicValidation.png" align="middle"><b> Heroic Validation</b></p>
             <p><b>Requirements</b>: 1500 Good Buildings</p>
             <p><b>Cost</b>: 100 Qi (1E20)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Good</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 300%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 14.9%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 1.4%.</p>
+            <p><b>Effect</b>: Increase the production of all Good buildings by 300%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Good buildings by 14.9%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Good buildings by 1.4%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicAffirmation.png" align="middle"><b> Heroic Affirmation</b></p>
             <p><b>Requirements</b>: 12000 Good buildings</p>
             <p><b>Cost</b>: 100 Qaq (1E47)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Good</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Good buildings by 700%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 23.1%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 2.1%.</p>
+            <p><b>Effect</b>: Increase the production of all Good buildings by 700%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Good buildings by 23.1%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Good buildings by 2.1%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HeroicProclamations.png" align="middle"><b> Heroic Proclamations</b></p>
             <p><b>Requirements</b>: Ascension 1+, 20000 Good buildings (16667 with Dwarf 5 on)</p>
             <p><b>Cost</b>: 10 No (1E31)</p>
-            <p><b>Cost</b>: Ascension 2+, Free</p>
+            <p><b>Cost</b>: A2+, Free</p>
             <p><b>Alignment</b>: Good</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Good buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Good buildings by 7.18%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Good buildings by 100%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Good buildings by 7.18%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofEvilDeed.png" align="middle"><b> Proof of Evil Deed</b></p>
             <p><b>Cost</b>: 25,000</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Effect</b>: Enables to join Evil Factions</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosCertificate.png" align="middle"><b> Villainous Certificate</b></p>
             <p><b>Requirements</b>: 750 Evil Buildings
             <p><b>Cost</b>: 100 T (1E14)
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Evil</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Evil buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Evil buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Evil buildings by 0.7%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosValidation.png" align="middle"><b> Villainous Validation</b></p>
             <p><b>Requirements</b>: 1500 Evil Buildings</p>
             <p><b>Cost</b>: 100 Qi (1E20)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Evil</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 300%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 14.9%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 1.4%.</p>
+            <p><b>Effect</b>: Increase the production of all Evil buildings by 300%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Evil buildings by 14.9%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Evil buildings by 1.4%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosAffirmation.png" align="middle"><b> Villainous Affirmation</b></p>
             <p><b>Requirements</b>: 12000 Evil buildings</p>
             <p><b>Cost</b>: 100 Qaq (1E47)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Evil</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 700%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 23.1%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 2.1%.</p>
+            <p><b>Effect</b>: Increase the production of all Evil buildings by 700%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Evil buildings by 23.1%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Evil buildings by 2.1%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainousProclamations.png" align="middle"><b> Villainous Proclamations</b></p>
             <p><b>Requirements</b>: Ascension 1+, 20000 Evil buildings (16667 with Dwarf 5 on)</p>
             <p><b>Cost</b>: 10 No (1E31)</p>
-            <p><b>Cost</b>: Ascension 2+, Free</p>
+            <p><b>Cost</b>: A2+, Free</p>
             <p><b>Alignment</b>: Evil</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Evil buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Evil buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Evil buildings by 7.18%.</p>
+            <p><b>Effect</b>: Increase the production of all Evil buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Evil buildings by 100%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Evil buildings by 7.18%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutrality.png" align="middle"><b> Proof of Neutrality</b></p>
             <p><b>Requirements</b>: At least one neutral faction unlocked</p>
             <p><b>Cost</b>: 10 Qa (1E16)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Effect</b>: Enables to join Neutral Factions</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNeutrality.png" align="middle"><b> True Neutrality</b></p>
             <p><b>Requirements</b>: 24 Hours Playtime as Neutral (Total)</p>
             <p><b>Cost</b>: 500 T (5E14)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Neutral buildings by 0.7%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralCertificate.png" align="middle"><b> Neutral Certificate</b></p>
             <p><b>Requirements</b>: 3,500 Neutral Buildings</p>
             <p><b>Cost</b>: 2 No (2E30)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Neutral buildings by 0.7%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralValidation.png" align="middle"><b> Neutral Validation</b></p>
             <p><b>Requirements</b>: 7,000 Neutral Buildings</p>
             <p><b>Cost</b>: 4 Dd (4E39)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Neutral buildings by 0.7%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralAffirmation.png" align="middle"><b> Neutral Affirmation</b></p>
             <p><b>Requirements</b>: 20,000 Neutral Buildings</p>
             <p><b>Cost</b>: 8 NoQag (8E150)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Neutral buildings by 0.7%.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralProclamations.png" align="middle"><b> Neutral Proclamations</b></p>
             <p><b>Requirements</b>: 50000 Neutral buildings</p>
             <p><b>Cost</b>: 16 Novg (1.6e91)</p>
-            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
-            <p><b>Effect</b>: Pre Ascension, Increase the production of all Neutral buildings by 100%.</p>
-            <p><b>Effect</b>: Ascension 1, Increase the production of all Neutral buildings by 7.18%.</p>
-            <p><b>Effect</b>: Ascension 2, Increase the production of all Neutral buildings by 0.7%.</p>
+            <p><b>Effect</b>: Increase the production of all Neutral buildings by 100%.</p>
+            <p><b>Effect</b>: A1, Increase the production of all Neutral buildings by 7.18%.</p>
+            <p><b>Effect</b>: A2, Increase the production of all Neutral buildings by 0.7%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
             <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
@@ -229,51 +229,51 @@
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
             <p><b>Sturdy Treasure</b></p>
-            <p><b>Requirements</b>: 100 Clicks (Total)
-            <p><b>Cost</b>: Pre Ascension, 500
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 100 Clicks (Total)</p>
+            <p><b>Cost</b>: 500</p>
+            <p><b>Cost</b>: Post A1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DurableTreasure.png" alt="Smiley face" align="middle"><b> Durable Treasure</b></p>
-            <p><b>Requirements</b>: 500 Clicks (Total)
-            <p><b>Cost</b>: Pre Ascension, 5,000
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Requirements</b>: 500 Clicks (Total)</p>
+            <p><b>Cost</b>: 5,000</p>
+            <p><b>Cost</b>: Post A1+, Free</p>
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 45. While offline, generate 1 click per second.
+            <p><b>Effect</b>: Increase base clicking reward by 45. While offline, generate 1 click per second.</p>
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ReinforcedTreasure.png" alt="Smiley face" align="middle"><b> Reinforced Treasure</b></p>
             <p><b>Requirements</b>: 2,500 Clicks (Total)
-            <p><b>Cost</b>: Pre Ascension, 5M (5E6)
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 5M (5E6)
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 4,950. While offline, generate 1 click per second.
+            <p><b>Effect</b>: Increase base clicking reward by 4,950. While offline, generate 1 click per second.</p>
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ResilientTreasure.png" alt="Smiley face" align="middle"><b> Resilient Treasure</b></p>
             <p><b>Requirements</b>: 10,000 Clicks (Total)
-            <p><b>Cost</b>: Pre Ascension, 5B (5E9)
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 5B (5E9)
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 500,000. While offline, generate 1 click per second.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/UnbreakableTreasure.png" alt="Smiley face" align="middle"><b> Unbreakable Treasure</b></p>
             <p><b>Requirements</b>: 50,000 Clicks (Total)
-            <p><b>Cost</b>: Pre Ascension, 50T (5E13)
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 50T (5E13)
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 50M (1E7). While offline, generate 1 click per second.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EternalTreasure.png" alt="Smiley face" align="middle"><b> Eternal Treasure</b></p>
             <p><b>Requirements</b>: 100,000 Clicks (Total)
-            <p><b>Cost</b>: Pre Ascension, 5 Qa (5E16)
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 5 Qa (5E16)
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 50B (5E10). While offline, generate 1 click per second.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FilledTreasure.png" alt="Smiley face" align="middle"><b> Filled Treasure</b></p>
             <p><b>Requirements</b>: 5,000 Coins by clicking (This Game)
-            <p><b>Cost</b>: Pre Ascension, 10,000
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 10,000
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.
             <p><b>Effect</b>: Ascension 1+, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
@@ -281,17 +281,17 @@
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RichTreasure.png" alt="Smiley face" align="middle"><b> Rich Treasure</b></p>
             <p><b>Requirements</b>: 5 M (5E6) Coins by clicking (This Game)
-            <p><b>Cost</b>: Pre Ascension, 50M (5E7)
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 50M (5E7)
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.
-            <p><b>Effect</b>: Post Ascension, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
-            <p><b>Effect</b>: Ascension 2+, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
+            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.
+            <p><b>Effect</b>: Post A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
+            <p><b>Effect</b>: Post A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WealthyTreasure.png" alt="Smiley face" align="middle"><b> Wealthy Treasure</b></p>
             <p><b>Requirements</b>: 5 B (5E9) Coins by clicking (This Game)
-            <p><b>Cost</b>: Pre Ascension, 100B (1E11)
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Cost</b>: 100B (1E11)
+            <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.
             <p><b>Effect</b>: Ascension 1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
@@ -1870,7 +1870,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b></p>
             <p><b>Requirements</b>: 5000 Royal Exchanges
             <p><b>Cost</b>: 10 DQig (1e160)
-            <p><b>Effect</b>: Increase royal exchange bonus by 50%.
+            <p><b>Effect</b>: Increase royal exchange bonus by 250%.
             <p><b>----------------------------------</b>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png" alt="Genealogist" align="middle"><b> Genealogist</b></p>
             <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.
