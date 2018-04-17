@@ -185,7 +185,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Bomb (GB11 Build) 1e30 (1 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: LcplSpanky
-                    <p><b>Requiments</b>: Ziggurat unlock
+                    <p><b>Requirements</b>: Ziggurat unlock
                     <p><b>Range</b>: 1e30 (1 No) Gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
@@ -206,7 +206,7 @@
         <div class="autohide">
                 <p><b>Author</b>: Fabi676
                 <p><b>Range</b>: 1e30 (1 No) Gems
-                <p><b>Requiments</b>: Undead Set Artifact
+                <p><b>Requirements</b>: Undead Set Artifact
                 <p><b>Alignment</b>: Neutral, Proof of Balance
                 <p><b>Faction</b>: Druid
                 <p><b>Bloodline</b>: Drow
@@ -231,7 +231,7 @@
                <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
                <p><b>Author</b>: Artcrow
                <p><b>Range</b>: ? Gems
-               <p><b>Requirments</b>: Undead Set Artifact
+               <p><b>Requirements</b>: Undead Set Artifact
                <p><b>Alignment</b>: Evil, Proof of Order
                <p><b>Faction</b>: Undead
                <p><b>Bloodline</b>: Drow
@@ -255,7 +255,7 @@
                <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
                <p><b>Author</b>: Necrodoom
                <p><b>Range</b>: ? Gems
-               <p><b>Requirments</b>: Angel Set Artifact, Drow Lineage Level 30
+               <p><b>Requirements</b>: Angel Set Artifact, Drow Lineage Level 30
                <p><b>Alignment</b>: Neutral, Proof of Balance
                <p><b>Faction</b>: Druid
                <p><b>Bloodline</b>: Dragon
@@ -342,7 +342,7 @@
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Range</b>: e32 (100 No) gems+
-                    <p><b>Requiments</b>: Undead Set Artifact
+                    <p><b>Requirements</b>: Undead Set Artifact
                     <p><b>Alignment</b>: Evil, Proof of Chaos
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Drow
