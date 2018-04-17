@@ -98,7 +98,7 @@
 <p><b>Cost</b>: 10 Spvg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time php this R.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 10 Dtg (1e95) Emerald Coins</p>

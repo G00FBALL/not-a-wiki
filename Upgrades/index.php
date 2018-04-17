@@ -239,113 +239,113 @@
             <p><b>Requirements</b>: 500 Clicks (Total)</p>
             <p><b>Cost</b>: 5,000</p>
             <p><b>Cost</b>: Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
+            <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 45. While offline, generate 1 click per second.</p>
-            <p><b>------------------------------</b></p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ReinforcedTreasure.png" alt="Smiley face" align="middle"><b> Reinforced Treasure</b></p>
-            <p><b>Requirements</b>: 2,500 Clicks (Total)
-            <p><b>Cost</b>: 5M (5E6)
+            <p><b>Requirements</b>: 2,500 Clicks (Total)</p>
+            <p><b>Cost</b>: 5M (5E6)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 4,950. While offline, generate 1 click per second.</p>
-            <p><b>------------------------------</b></p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ResilientTreasure.png" alt="Smiley face" align="middle"><b> Resilient Treasure</b></p>
-            <p><b>Requirements</b>: 10,000 Clicks (Total)
-            <p><b>Cost</b>: 5B (5E9)
+            <p><b>Requirements</b>: 10,000 Clicks (Total)</p>
+            <p><b>Cost</b>: 5B (5E9)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 500,000. While offline, generate 1 click per second.
-            <p><b>------------------------------</b></p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 500,000. While offline, generate 1 click per second.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/UnbreakableTreasure.png" alt="Smiley face" align="middle"><b> Unbreakable Treasure</b></p>
-            <p><b>Requirements</b>: 50,000 Clicks (Total)
-            <p><b>Cost</b>: 50T (5E13)
+            <p><b>Requirements</b>: 50,000 Clicks (Total)</p>
+            <p><b>Cost</b>: 50T (5E13)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 50M (1E7). While offline, generate 1 click per second.
-            <p><b>------------------------------</b></p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 50M (1E7). While offline, generate 1 click per second.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EternalTreasure.png" alt="Smiley face" align="middle"><b> Eternal Treasure</b></p>
-            <p><b>Requirements</b>: 100,000 Clicks (Total)
-            <p><b>Cost</b>: 5 Qa (5E16)
+            <p><b>Requirements</b>: 100,000 Clicks (Total)</p>
+            <p><b>Cost</b>: 5 Qa (5E16)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 50B (5E10). While offline, generate 1 click per second.
-            <p><b>------------------------------</b></p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 50B (5E10). While offline, generate 1 click per second.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FilledTreasure.png" alt="Smiley face" align="middle"><b> Filled Treasure</b></p>
-            <p><b>Requirements</b>: 5,000 Coins by clicking (This Game)
-            <p><b>Cost</b>: 10,000
+            <p><b>Requirements</b>: 5,000 Coins by clicking (This Game)</p>
+            <p><b>Cost</b>: 10,000</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.
-            <p><b>Effect</b>: Ascension 1+, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
-            <p><b>Effect</b>: Ascension 2+, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
-            <p><b>------------------------------</b></p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.</p>
+            <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
+            <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RichTreasure.png" alt="Smiley face" align="middle"><b> Rich Treasure</b></p>
-            <p><b>Requirements</b>: 5 M (5E6) Coins by clicking (This Game)
-            <p><b>Cost</b>: 50M (5E7)
+            <p><b>Requirements</b>: 5 M (5E6) Coins by clicking (This Game)</p>
+            <p><b>Cost</b>: 50M (5E7)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.
-            <p><b>Effect</b>: Post A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
-            <p><b>Effect</b>: Post A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
-            <p><b>------------------------------</b></p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.</p>
+            <p><b>Effect</b>: Post A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
+            <p><b>Effect</b>: Post A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WealthyTreasure.png" alt="Smiley face" align="middle"><b> Wealthy Treasure</b></p>
-            <p><b>Requirements</b>: 5 B (5E9) Coins by clicking (This Game)
-            <p><b>Cost</b>: 100B (1E11)
+            <p><b>Requirements</b>: 5 B (5E9) Coins by clicking (This Game)</p>
+            <p><b>Cost</b>: 100B (1E11)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.
-            <p><b>Effect</b>: Ascension 1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
-            <p><b>Effect</b>: Ascension 2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
-            <p><b>------------------------------</b></p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.</p>
+            <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
+            <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/OpulentTreasure.png" alt="Smiley face" align="middle"><b> Opulent Treasure</b></p>
-            <p><b>Requirements</b>: 5 T (5E12) Coins by clicking (This Game)
-            <p><b>Cost</b>: Pre Ascension, 150 T (1.5E14)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.
-            <p><b>Effect</b>: Ascension 1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
-            <p><b>Effect</b>: Ascension 2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 5 T (5E12) Coins by clicking (This Game)</p>
+            <p><b>Cost</b>: Pre Ascension, 150 T (1.5E14)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Pre Ascension, Increase clicking reward by 25% and the production of all buildings by 25%.</p>
+            <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
+            <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/OverflowingTreasure.png" alt="Smiley face" align="middle"><b> Overflowing Treasure</b></p>
-            <p><b>Requirements</b>: 5 Qa (5E15) Coins by clicking (This Game)
-            <p><b>Cost Pre Ascension</b>: 200 Qa (2E17)
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.
-            <p><b>Effect</b>: Ascension 1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.
-            <p><b>Effect</b>: Ascension 2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.
-            <p><b>------------------------------</b></p>
+            <p><b>Requirements</b>: 5 Qa (5E15) Coins by clicking (This Game)</p>
+            <p><b>Cost Pre Ascension</b>: 200 Qa (2E17)</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase clicking reward by 25% and the production of all buildings by 25%.</p>
+            <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
+            <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PreciousTreasure.png" alt="Smiley face" align="middle"><b> Precious Treasure</b></p>
-            <p><b>Requirements</b>: Produce 100,000 Coins (Total)
-            <p><b>Cost</b>: 50,000
-            <p><b>Cost</b>: Ascension 1+, Free
-            <p><b>Alignment</b>: Any
+            <p><b>Requirements</b>: Produce 100,000 Coins (Total)</p>
+            <p><b>Cost</b>: 50,000</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
+            <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.
-            <p><b>------------------------------</b></p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/OrnateTreasure.png" alt="Smiley face" align="middle"><b> Ornate Treasure</b></p>
-            <p><b>Cost</b>: 50 M (5E7)
-            <p><b>Unlock Requirements</b>: 100 M (1E8) Coins by clicking (Total)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 50 M (5E7)</p>
+            <p><b>Unlock Requirements</b>: 100 M (1E8) Coins by clicking (Total)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AdornedTreasure.png" alt="Smiley face" align="middle"><b> Adorned Treasure</b></p>
-            <p><b>Cost</b>: 50 B (5E10)
-            <p><b>Unlock Requirements</b>: 100 B (1E11) Coins by clicking (Total)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 50 B (5E10)</p>
+            <p><b>Unlock Requirements</b>: 100 B (1E11) Coins by clicking (Total)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EmbellishedTreasure.png" alt="Smiley face" align="middle"><b> Embellished Treasure</b></p>
-            <p><b>Cost</b>: 50 T (5E13)
-            <p><b>Unlock Requirements</b>: 100 T (1E14) Coins by clicking (Total)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 50 T (5E13)</p>
+            <p><b>Unlock Requirements</b>: 100 T (1E14) Coins by clicking (Total)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
+            <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ResplendentTreasure.png" alt="Smiley face" align="middle"><b> Resplendent Treasure</b></p>
-            <p><b>Cost</b>: 5 Qa (5E15)
-            <p><b>Unlock Requirements</b>: 100 Qa (1E17) Coins by clicking (Total)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.
-            <p><b>------------------------------</b></p>
+            <p><b>Cost</b>: 5 Qa (5E15)</p>
+            <p><b>Unlock Requirements</b>: 100 Qa (1E17) Coins by clicking (Total)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
+            <br/>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Magic Upgrades</a></b></p>
         <div class="autohide">
