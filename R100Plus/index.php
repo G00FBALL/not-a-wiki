@@ -153,7 +153,9 @@
                 <p>W350,W1375
                 </div>
            </div>
+         </div>
            <p><b>Tested at R112 5e43 Gems</b></p>
+           <div class="category">
    <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Angel Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
