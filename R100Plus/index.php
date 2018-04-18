@@ -706,7 +706,7 @@
                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Requirements</b>: Forbidden Library (Faceless Unique Building 2) 
+                    <p><b>Requirement</b>: Forbidden Library(Faceless Unique Building 2) 
                     <p><b>Range</b>: ?
                     <p><b>Alignment</b>: Neutral, Proof of Chaos
                     <p><b>Faction</b>: Faceless
