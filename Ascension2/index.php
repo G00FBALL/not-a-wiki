@@ -202,7 +202,7 @@
 <p><b>Cost</b>: 10 Dtg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Multipicatively increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
-<p><b>Formula</b>: (rand(0.5, 5))%, where x is time in seconds this game (averages out to 132% per day).</p>
+<p><b>Formula</b>: every 30 minutes, (upgrade bonus) + rand(0.5, 5))% (averages out to 132% per day).</p>
 <br/>
 <p><b>Evil</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
