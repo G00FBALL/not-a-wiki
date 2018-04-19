@@ -46,7 +46,7 @@
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S150,S175,S215,S330,S400,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> S400 is higher
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S175,S215,S330,S500,C80,C150,C225,C330,C340,C500,C460,C590,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> E480 is 35+%
+                  <input type="text" value="S150,S175,S215,S330,S500,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> E480 is 35+%
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S150,S215,S305,S330,S500,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> S305 with CTA3 HL3 MB3 DP2 SS2
                   <p><button onclick="myFunction($(this))">Copy Build</button>
