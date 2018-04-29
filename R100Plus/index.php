@@ -130,6 +130,26 @@
                 <p><b>Notes</b>: Highly benefits from gifts.
                 </div>
            </div>
+   <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Dragon Lineage Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Range</b>: ? gems
+                <p><b>Alignment</b>: Neutral, Proof of Chaos
+                <p><b>Requirements</b>: Undead Set
+                <p><b>Faction</b>: Faceless
+                <p><b>Bloodline</b>: Dragon
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S251,S375,S3200,C340,D245,D260,E350,E1425,A250,A300,W275,W1375" id="Build">
+                <p>S251,S375,S3200,
+                <p>C340,
+                <p>D245,D260,
+                <p>E350,E1425,
+                <p>A250,A300,
+                <p>W275,W1375
+                <p><b>Notes</b>: Range will also depend on your FC12, Uniformity, R108, and the 1 gift. It may be close to R gems. If it is, a 2nd chained production Brainwave would be enough.</p>
+                </div>
+           </div>
             </div>
                     <br/>
     <p><b>Tested at R113 e44 Gems</b></p>
@@ -706,7 +726,7 @@
                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Requirement</b>: Forbidden Library(Faceless Unique Building 2) 
+                    <p><b>Requirement</b>: Forbidden Library(Faceless Unique Building 2)
                     <p><b>Range</b>: ?
                     <p><b>Alignment</b>: Neutral, Proof of Chaos
                     <p><b>Faction</b>: Faceless
