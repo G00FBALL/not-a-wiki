@@ -164,7 +164,7 @@
 <p><b>Requirement</b>: 30000 Max Mana, Any Neutral,Dragon (This game)</p>
 <p><b>Cost</b>: 18.27 Tvg (1.827E73)<p><b>Effect</p>
 </b>: Increase production bonus from gems based on maximum mana.</p>
-<p><b>Formula</b>: 2 * x^0.4, where x is max mana</p>
+<p><b>Formula</b>: 2.5 * x^0.5, where x is max mana</p>
 <br/>
 <p><b>C1325</b> - <b>For All Factions</b> - <b>Research Name</b>: Plasmation</p>
 <p><b>Requirement</b>: 50m (50e6) Mana Produced (This game)</p>
