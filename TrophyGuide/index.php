@@ -340,7 +340,7 @@
             <td>1000 coins</p>A1+ Free</td>
             <td>Have a maximum mana of exactly 4767.</td>
             <td>Increase maximum mana by 10%.</td>
-            <td>Use Druidline</td>
+            <td>Use Druidline (Ignore Bloodline before R7) <p>Pick DD4,DN2 (1st silver Druid, 2nd bronze Dwarf) and production</td>
         </tr>
         <tr>
             <td><center>Unlimited Mana</p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png"></td>
