@@ -8,8 +8,14 @@
     <h5>Permanent Upgrades</h5>
     <p>These upgrades persist through Abdications, Reincarnations, and even hard resets They are linked to your Kongregate account and you must be logged in for them to work.</p>
     <p>The Gift bonuses can be turned off in the options (which can be necessary to unlock some Secret Trophies).</p>
-    <p><b>Note</b>: All Gifts provide a 250% offline bonus.</p>
-    <p><b>Note</b>: All Gifts bonuses to Faction Coin find chance are both additive and multiplicative.</p>
+    <p><b>Note</b>: All bonuses are multiplicative with each other.</p>
+    <p><b>Note</b>: All gifts are multiplicative.</p>
+    <p><b>Note</b>: All 3 gifts = 8.41x prod bonus.</p>
+    <p><b>Note</b>: All 3 gifts = 10% mana regen.</p>
+    <p><b>Note</b>: All 3 gifts = x1.26 FC chance.</p>
+    <p><b>Note</b>: All 3 gifts =  x42.875 offline bonus.</p>
+    <p><b>Note</b>: All 3 gifts =  +0.5 addive mana regen.
+    <p><b>Note</b>: All 3 gifts =  +2 clicks per sec.</p>
     <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/EventSale.png" alt="Event Sale" align="middle"> Event Sale</b></p>
     <p>During certain Events you will be able to buy "Gift of the Heroes" at 50% off</p>
