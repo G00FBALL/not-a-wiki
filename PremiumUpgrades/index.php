@@ -14,7 +14,7 @@
     <p><b>Note</b>: All 3 gifts = 10% mana regen.</p>
     <p><b>Note</b>: All 3 gifts = x1.26 FC chance.</p>
     <p><b>Note</b>: All 3 gifts =  x42.875 offline bonus.</p>
-    <p><b>Note</b>: All 3 gifts =  +0.5 addive mana regen.
+    <p><b>Note</b>: All 3 gifts =  +0.5 addive mana regen.</p>
     <p><b>Note</b>: All 3 gifts =  +2 clicks per sec.</p>
     <p><b>Note</b>: Each gift gives 250% offline production.</p>
     <hr>
@@ -23,19 +23,32 @@
     <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GiftoftheHeroes.png" alt="Gift of the Heroes" align="middle"> Gift of the Heroes</b></p>
     <p><b>Cost</b>: 50 Kreds</p>
-    <p><b>Effects</b>: Increases the production of all buildings by 25%, click rewards by 15%, Faction Coin chance by 5%, and provide +0.50 mana per second.</p>
-    <p>Also grants +25,000 gold and +20 faction coins of each unlocked faction after every abdication or hard reset. (in other words, you can immediately join the Vanilla Faction of your choice after abdicating.) Buying it unlocks a better upgrade.</p>
+    <p><b>Effects</b>: Increase the production of all buildings by 25%.</p>
+    <p><b>Effects</b>: Increase clicking reward by 15%.</p>
+    <p><b>Effects</b>: Increase Faction Coin chance aditively and multiplicatively by 5%.</p>
+    <p><b>Effects</b>: Increase offline gains by 250%.</p>
+    <p><b>Effects</b>: Provides 0.50 mana per second.</p>
+    <p><b>Effects</b>: Grants +25,000 gold and +20 faction coins of each unlocked faction after every abdication or hard reset. (in other words, you can immediately join the Vanilla Faction of your choice after abdicating.)</p>
+    <p><b>Effects</b>: Buying this upgrade unlocks a better upgrade.</p>
     <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GiftoftheKings.png" alt="Gift of the Kings" align="middle"> Gift of the Kings</b></p>
     <p><b>Cost</b>: 100 Kreds</p>
-    <p><b>Effects</b>: Increases the production of all buildings by 50%, click rewards by 30%, Faction Coin chance 5%.</p>
-    <p>It will also provide a special assistant which actually autoclicks twice a second (triggering all real click effects and increasing the clicks stat) and counts as 2 common assistants while offline.</p>
-    <p>Also grants +10Qa gold and +500 Faction coins for each vanilla faction upon any reset.</p>
+    <p><b>Effects</b>: Increases the production of all buildings by 50%.</p>
+    <p><b>Effects</b>: Increase clicking reward by 30%.</p>
+    <p><b>Effects</b>: Increase Faction Coin chance aditively and multiplicatively by 5%.</p>
+    <p><b>Effects</b>: Increase offline gains by 250%.</p>
+    <p><b>Effects</b>: Provides a special assistant which actually autoclicks twice a second (triggering all real click effects and increasing the click stats) and counts as 2 common assistants while offline.</p>
+    <p><b>Effects</b>: Grants 10 Qa (1e16) coins and 500 Faction coins for each faction upon any reset.</p>
+    <p><b>Effects</b>: Buying this upgrade will unlock a more powerful upgrade.</p>
     <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GiftoftheGods.png" alt="Gift of the Gods" align="middle"> Gift of the Gods</b></p>
     <p><b>Cost</b>: 200 Kreds</p>
-    <p><b>Effects</b>: Increases the production of all buildings by 100%, click rewards by 50%, Faction Coin chance by 15%, offline production by 100%, and mana regeneration by 10%.</p>
-    <p>Also, you will gain +100Td (1E44) gold and +25000 Faction Coins for each unlocked faction on every Abdication or hard reset.</p>
+    <p><b>Effects</b>: Increase the production of all buildings by 100%.</p>
+    <p><b>Effects</b>: Increase clicking reward by 50%.</p>
+    <p><b>Effects</b>: Increase Faction Coin chance aditively and multiplicatively by 15%.</p>
+    <p><b>Effects</b>: Increase offline gains by 250%.</p>
+    <p><b>Effects</b>: Increase mana regeneration by 10%.</p>
+    <p><b>Effects</b>: Grants 100 Td (1e44) coins and 25000 Faction Coins for each unlocked faction upon any reset.</p>
     <hr>
     <h5>Rubies</h5>
     <p><b>Note</b>: All Ruby upgrades have both an additive and a multiplicative bonus.</p>
@@ -400,23 +413,22 @@
     </div>
 
 
-    <p><b>------------------------------</b>
+    <hr>
     <h5>One-Use Upgrades</h5>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Timewarp12Hours.png" alt="Timewarp 12 Hours" align="middle"> Timewarp 12 Hours</b>.</p>
     <p><b>Cost</b>: 4 Rubies</p>
     <p><b>Effects</b>: Instantly gain 12 hours worth of production in both coins and faction coins. All timewarps count time as time (this game), (offline), and (total), allowing trophies and upgrades.</p>
-    <p><b>------------------------------</b>
+    <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Timewarp1Day12Hours.png" alt="Timewarp 1 Day 12 Hours" align="middle"> Timewarp 1 Day 12 Hours</b>.</p>
     <p><b>Cost</b>: 8 Rubies</p>
     <p><b>Effects</b>: Instantly gain 36 hours worth of production.</p>
-    <p><b>------------------------------</b>
+    <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Timewarp5Days.png" alt="Timewarp 5 Days" align="middle"> Timewarp 5 Days</b>.</p>
     <p><b>Timewarp 5 Days</b></p>
     <p><b>Cost</b>: 12 Rubies</p>
     <p><b>Effects</b>: Instantly gain 120 hours worth of production.</p>
-    <p><b>------------------------------</b>
+    <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GemConversion.png" alt="Gem Conversion" align="middle"> Gem Conversion</b>.</p>
     <p><b>Cost</b>: 12 Rubies</p>
     <p><b>Effects</b>: Instantly add your new gems to your current total without Abdicating. (This is nice because you can keep your gold, upgrades, this game stats, and trophy progress without having to wait for gems.)</p>
-    <p><b>------------------------------</b>
 <?php include "../scripts/footer.html"; ?>
