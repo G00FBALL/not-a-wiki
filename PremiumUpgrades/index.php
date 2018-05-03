@@ -16,6 +16,7 @@
     <p><b>Note</b>: All 3 gifts =  x42.875 offline bonus.</p>
     <p><b>Note</b>: All 3 gifts =  +0.5 addive mana regen.
     <p><b>Note</b>: All 3 gifts =  +2 clicks per sec.</p>
+    <p><b>Note</b>: Each gift gives 250% offline production.</p>
     <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/EventSale.png" alt="Event Sale" align="middle"> Event Sale</b></p>
     <p>During certain Events you will be able to buy "Gift of the Heroes" at 50% off</p>
