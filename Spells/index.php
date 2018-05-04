@@ -213,6 +213,17 @@
     <p>The trick to use spells efficiently relies on finding the best setting: Which spell combination to cast, at what timing, with which automatic-casting tool, and where to set the contingency arrow. Like for upgrades, these choices can make a crucial difference for your game progress.</p>
     <p><b>------------------------------</b>
     <p><b>Tier Spell Upgrades (R42+)</p></b>
+    <hr>
+    <p><b>Requires</b>: </p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" align="middle"><b> Tiered Autocasting</b></p>
+    <p>Requirement: R40+, 200M Mana Produced (Total this R).
+    <p><b>Note</b>: This trophy unlocks at R40, The uprade is availabe at R40, but tiers do not unlock until R42.
+    <p><b>Upgrade Cost</b>: Free
+    <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.
+    <p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.
+    <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.
+    <p><b>Formulas</b>: (1000 * log10(1 + x))
+    <hr>
     <p><b>From R42+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.
     <p>The generalized formula for spell tiers is B^T, where B is the base spell production and T is the tier of the spell. The exceptions to this are Gem Grinder, which increases its production by a linear amount, and Dragon's Breath, which simply adds one new type of Dragon Breath to the current breaths in effect. Other peripheral effects, such as the tripling of assistants granted from Fairy Chanting, are also not impacted by spell tiers.
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.
