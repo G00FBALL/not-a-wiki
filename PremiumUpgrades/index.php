@@ -25,7 +25,7 @@
     <p><b>Cost</b>: 50 Kreds</p>
     <p><b>Effects</b>: Increase the production of all buildings by 25%.</p>
     <p><b>Effects</b>: Increase clicking reward by 15%.</p>
-    <p><b>Effects</b>: Increase Faction Coin chance aditively and multiplicatively by 5%.</p>
+    <p><b>Effects</b>: Increase Faction Coin chance additively and multiplicatively by 5%.</p>
     <p><b>Effects</b>: Increase offline gains by 250%.</p>
     <p><b>Effects</b>: Provides 0.50 mana per second.</p>
     <p><b>Effects</b>: Grants +25,000 gold and +20 faction coins of each unlocked faction after every abdication or hard reset. (in other words, you can immediately join the Vanilla Faction of your choice after abdicating.)</p>
@@ -35,7 +35,7 @@
     <p><b>Cost</b>: 100 Kreds</p>
     <p><b>Effects</b>: Increases the production of all buildings by 50%.</p>
     <p><b>Effects</b>: Increase clicking reward by 30%.</p>
-    <p><b>Effects</b>: Increase Faction Coin chance aditively and multiplicatively by 5%.</p>
+    <p><b>Effects</b>: Increase Faction Coin chance additively and multiplicatively by 5%.</p>
     <p><b>Effects</b>: Increase offline gains by 250%.</p>
     <p><b>Effects</b>: Provides a special assistant which actually autoclicks twice a second (triggering all real click effects and increasing the click stats) and counts as 2 common assistants while offline.</p>
     <p><b>Effects</b>: Grants 10 Qa (1e16) coins and 500 Faction coins for each faction upon any reset.</p>
@@ -45,7 +45,7 @@
     <p><b>Cost</b>: 200 Kreds</p>
     <p><b>Effects</b>: Increase the production of all buildings by 100%.</p>
     <p><b>Effects</b>: Increase clicking reward by 50%.</p>
-    <p><b>Effects</b>: Increase Faction Coin chance aditively and multiplicatively by 15%.</p>
+    <p><b>Effects</b>: Increase Faction Coin chance additively and multiplicatively by 15%.</p>
     <p><b>Effects</b>: Increase offline gains by 250%.</p>
     <p><b>Effects</b>: Increase mana regeneration by 10%.</p>
     <p><b>Effects</b>: Grants 100 Td (1e44) coins and 25000 Faction Coins for each unlocked faction upon any reset.</p>
