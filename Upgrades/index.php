@@ -1721,7 +1721,8 @@
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png" alt="Because I Like to Grind" align="middle"> Triple Weirdness</b></p>
             <p><b>Requirements</b>: Have exactly 333 of each Royal Exchange, R40+
-            <p><b>Cost</b>: Free
+            <p><b>Cost</b>: 1 TTg (1E102)
+            <p><b>Cost Post Ascension 2</b>: Free
             <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
             <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)" coords="6,492,62,548" shape="rect">
             <p><b>------------------------------</b></p>
