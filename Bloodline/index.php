@@ -41,11 +41,11 @@
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonBloodline.png" alt="Demon" align="middle"><b> Demon</b></p>
 <p><b>Effect</b>: Increase production bonus from gems based on total time spent being Evil.</p>
-<p><b>Formula</b>: floor(0.04 * x^0.8)%, where x is your Time Spent Being Evil (Total) in seconds stat.</p>
+<p><b>Formula</b>: floor(18 * (x / 3600) ^ 0.8)%, where x is your Time Spent Being Evil (Total) in seconds stat.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanBloodline.png" alt="Titan" align="middle"><b> Titan</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Royal Exchanges you purchased.</p>
-<p><b>Formula</b>: 15*x^0.85%, where x is the amount of Royal Exchanges you own.</p>
+<p><b>Formula</b>: (15 * x ^ 0.85)%, where x is the amount of Royal Exchanges you own.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidBloodline.png" alt="Druid" align="middle"><b> Druid</b></p>
 <p><b>Effect</b>: Increase mana regeneration based on maximum mana.</p>
