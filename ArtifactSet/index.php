@@ -86,12 +86,8 @@
     <p><b>Artifacts Required</b>: Ancient Coin Piece, Goblin Purse, Spiked Whip</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.</p>
-<<<<<<< HEAD
-    <p><b>Formula</b>: (0.1 * x ^ 0.7)), where x is seconds this game.</p>
+    <p><b>Formula</b>: (0.1 * x ^ 0.7), where x is seconds this game.</p>
     <p><b>Note</b>: Ingame tooltip is off by one (actual effect is 1 higher)</p>
-=======
-    <p><b>Formula</b>: ((0.01 * x ^ 0.7)), where x is seconds.</p>
->>>>>>> fe12714e6f2fe41df6e33bb86836f90dfa53296c
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCoinPiece.png" alt="Artifacts" align="middle"><b> Ancient Coin Piece</b></p>
     <p><b>Clue</b>: Rarely found among other special coins.</p>
@@ -116,11 +112,7 @@
     <p><b>Artifacts Required</b>: Rotten Organ, JawBone, DustyCoffin</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
-<<<<<<< HEAD
-    <p><b>Formula</b>: (9 * ln(1 + x)) ^3), where x is offline Multiplier.</p>
-=======
-    <p><b>Formula</b>: 35 * ln(1 + x) ^ 3.25, where x is offline Multiplier.</p>
->>>>>>> fe12714e6f2fe41df6e33bb86836f90dfa53296c
+    <p><b>Formula</b>: ((9 * ln(1 + x)) ^3), where x is offline Multiplier. (offline production/100 + 1)</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RottenOrgan.png" alt="Artifacts" align="middle"><b> Rotten Organ</b></p>
     <p><b>Clue</b>: Found among large masses of dead bodies.</p>
