@@ -77,8 +77,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairiesUnion.png" alt="Fairies Union" align="middle"> <b>Fairies Union</b></p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Added Effect</b>: Increase assistant production based on amount of Enchanted Fields, Inns and Blacksmiths if building count is even, or all other buildings if building count is odd.</p>
-<p><b>Formula</b>: (50 * x ^ 0.5.), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
-<p><b>Formula</b>: (50 * x ^ 0.5.), where x is T4-T11 Buildings (If building count is odd)</p>
+<p><b>Formula</b>: (15 * x ^ 0.475), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
+<p><b>Formula</b>: (15 * x ^ 0.475), where x is T4-T11 Buildings (If building count is odd)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonsUnion.png" alt="Demons Union" align="middle"> <b>Demons Union</b></p>
 <p><b>Effect Requirement</b>: R111+
