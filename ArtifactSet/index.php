@@ -28,7 +28,7 @@
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
     <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Fairy</p>
-    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Wizard Tower.</p>
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is amount of Wizard Towers.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenSet.png" align="middle"><b> Elven Set</b></p>
     <p><b>Requirement</b>: A2+
@@ -41,7 +41,7 @@
     <p><b>Clue</b>: Requires extreme amounts of luck!</p>
     <p><b>Description</b>: A perfectly shaped four leaf clover. Each leaf is almost unnaturally identical to the other three.</p>
     <p><b>Requirement</b>: Play as Elven (Not Dwarf)</p>
-    <p><b>Chance</b>: (Highest # of consecutive Elven Luck-1) * 50)%</p>
+    <p><b>Chance</b>: ((Highest # of consecutive Elven Luck-1) * 50)%</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/Mini-treasure.png" alt="Smiley face" align="middle"><b> Mini-treasure</b></p>
     <p><b>Clue</b>: Click your way to the treasure!</p>
@@ -67,7 +67,7 @@
     <p><b>Clue</b>: May fall from the Heavens.</p>
     <p><b>Description</b>: A tiny piece of the legendary pillars which sustain all the Heavens.</p>
     <p><b>Requirement</b>: Play as Angel (Not Dwarf)</p>
-    <p><b>Chance</b>: (# Heaven's Gate / 3,750) %</p>
+    <p><b>Chance</b>: (# Heaven's Gate / 3,750)%</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DivineSword.png" alt="Smiley face" align="middle"><b> Divine Sword</b></p>
     <p><b>Clue</b>: Only found by dedicated Angel allies.</p>
@@ -86,39 +86,47 @@
     <p><b>Artifacts Required</b>: Ancient Coin Piece, Goblin Purse, Spiked Whip</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.</p>
+<<<<<<< HEAD
     <p><b>Formula</b>: (0.1 * x ^ 0.7)), where x is seconds this game.</p>
     <p><b>Note</b>: Ingame tooltip is off by one (actual effect is 1 higher)</p>
+=======
+    <p><b>Formula</b>: ((0.01 * x ^ 0.7)), where x is seconds.</p>
+>>>>>>> fe12714e6f2fe41df6e33bb86836f90dfa53296c
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCoinPiece.png" alt="Artifacts" align="middle"><b> Ancient Coin Piece</b></p>
     <p><b>Clue</b>: Rarely found among other special coins.</p>
     <p><b>Description</b>: A common goblin lucky charm. The older it is, the luckier you are, or so they say.</p>
     <p><b>Requirement</b>: Play as Goblin (Not Drow)</p>
-    <p><b>Chance</b>: (#Faction Coins this R# / 50'000'000) %</p>
+    <p><b>Chance</b>: (Faction Coins this R / 50,000,000)%</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPurse.png" alt="Artifacts" align="middle"><b> Goblin Purse</b></p>
     <p><b>Clue</b>: Fill your pockets with extorted money.</p>
     <p><b>Description</b>: Heavy and roomy. Definitely too big for just pocket change.</p>
     <p><b>Requirement</b>: Play as Goblin (Not Drow)</p>
-    <p><b>Chance</b>: (Tax collection casts this game / 300'000) %</p>
+    <p><b>Chance</b>: (Tax collection casts this game / 300,000)%</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png" align="middle"><b> Spiked Whip</b></p>
     <p><b>Clue</b>: Used by the overseers in the Slave Markets.</p>
     <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations,Play as Goblin</p>
-    <p><b>Chance</b>: (x - 10000) / 300000)%, where x is Slave Pens.</p>
+    <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is amount of Slave Pens.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadSet.png" align="middle"><b> Undead Set</b></p>
     <p><b>Requirement</b>: A2+</p>
     <p><b>Artifacts Required</b>: Rotten Organ, JawBone, DustyCoffin</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
+<<<<<<< HEAD
     <p><b>Formula</b>: (9 * ln(1 + x)) ^3), where x is offline Multiplier.</p>
+=======
+    <p><b>Formula</b>: 35 * ln(1 + x) ^ 3.25, where x is offline Multiplier.</p>
+>>>>>>> fe12714e6f2fe41df6e33bb86836f90dfa53296c
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RottenOrgan.png" alt="Artifacts" align="middle"><b> Rotten Organ</b></p>
     <p><b>Clue</b>: Found among large masses of dead bodies.</p>
     <p><b>Description</b>: Ew... disgusting. It still pulses.</p>
     <p><b>Requirement</b>: Play as Undead (Not Drow)</p>
-    <p><b>Chance</b>: (# Assistants / 500) %</p>
+    <p><b>Chance</b>: (Assistants / 500)%</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/JawBone.png" alt="Artifacts" align="middle"><b> Jaw Bone</b></p>
     <p><b>Clue</b>: Needs some time off.</p>
@@ -156,7 +164,7 @@
     <p><b>Clue</b>: Found in the Burning Abysses.</p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Demon</p>
-    <p><b>Chance</b>: (x - 10000) / 200000)%, where x is Hall of  Legends.</p>
+    <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is amount of Hall of Legends.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanSet.png" align="middle"><b> Titan Set</b></p>
     <p><b>Requirement</b>: A2+</p>
@@ -206,7 +214,7 @@
     <p><b>Clue</b>: Found in the remains of druidic ancestors.</p>
     <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Druid</p>
-    <p><b>Chance</b>: (x ^ 3) / 2000000 (2M))%, where x is level of current lineage.</p>
+    <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessSet.png" align="middle"><b> Faceless Set</b></p>
     <p><b>Requirement</b>: A2+</p>
@@ -225,7 +233,7 @@
     <p><b>Clue</b>: Found in the Labyrinths.</p>
     <p><b>Description</b>: A large helmet with empty metal prongs to accomodate tentacular appendages.</p>
     <p><b>Requirement</b>: Play as Faceless (Not Dragon)</p>
-    <p><b>Chance</b>: (# Labyrinths / 2000)%</p>
+    <p><b>Chance</b>: (Labyrinths / 2000)%</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png" align="middle"><b> Nightmare Figment</b></p>
     <p><b>Clue</b>: A strong and quick brain is required.</p>
