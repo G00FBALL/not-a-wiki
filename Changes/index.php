@@ -211,7 +211,7 @@
 <p><b>New Formula</b>: (0.4 * x ^ 2.4)%, where x is active spells.</p>
 <hr>
 <p><b>Added</b>: 1 Trophy</p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
 <p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
 <p><b>Effect</b>: Gives upgrade with the same name.</p>
 <br/>
@@ -232,15 +232,15 @@ div#images div{
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Proof of Order</b>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCOrderGood.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderGood.png" width="54" height="54" />
     <center>Good</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCOrderEvil.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderEvil.png" width="54" height="54" />
     <center>Evil</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCOrderNeutral.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderNeutral.png" width="54" height="54" />
     <center>Neutral</center>
   </div>
 </div>
@@ -250,15 +250,15 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCChaosGood.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosGood.png" width="54" height="54" />
     <center>Good</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCChaosEvil.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosEvil.png" width="54" height="54" />
     <center>Evil</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCChaosNeutral.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosNeutral.png" width="54" height="54" />
     <center>Neutral</center>
   </div>
 </div>
@@ -268,15 +268,15 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCBalanceGood.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceGood.png" width="54" height="54" />
     <center>Good</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCBalanceEvil.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceEvil.png" width="54" height="54" />
     <center>Evil</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCBalanceNeutral.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceNeutral.png" width="54" height="54" />
     <center>Neutral</center>
   </div>
 </div>
@@ -293,25 +293,25 @@ div#images div{
 <hr>
 <p><b>Added</b>: 3 Artifacts for Prestige Factions</p>
 <p><b>Dwarven</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/BeardHair.png" align="middle"><b> Beard Hair</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BeardHair.png" align="middle"><b> Beard Hair</b></p>
 <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
 <p><b>Requirement</b>: R116+, Play as Dwarf</p>
 <p><b>Chance</b>: (x / 100000000 (100M))%, where x is assistant count</p>
 <br/>
 <p><b>Drow</b>:
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/PoisonVial.png" align="middle"><b> Poison Vial</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/PoisonVial.png" align="middle"><b> Poison Vial</b></p>
 <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
 <p><b>Requirement</b>: R116+, Play as Drow</p>
 <p><b>Chance</b>: (x / 10000000 (10M))%, where x is combo strike production bonus</p>
 <br/>
 <p><b>Dragon</b>:
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonScale.png" align="middle"><b> Dragon Scale</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonScale.png" align="middle"><b> Dragon Scale</b></p>
 <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
 <p><b>Requirement</b>: R116+, Play as Dragon</p>
 <p><b>Chance</b>: (x / 2500)%, where x is active spells</p>
 <hr>
 <p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DwarvenSet.png" align="middle"><b> Dwarven Set</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenSet.png" align="middle"><b> Dwarven Set</b></p>
 <p><b>Requirement</b>: R116+</p>
 <p><b>Artifacts Required</b>: Dwarven Bow, Stone Tankard, Beard Hair</p>
 <p><b>Cost</b>: Free</p>
@@ -319,7 +319,7 @@ div#images div{
 <p><b>Formula</b>: (x ^ 0.9), where x is Royal Exchange bonus.</p>
 <br/>
 <p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DrowSet.png" align="middle"><b> Drow Set</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"><b> Drow Set</b></p>
 <p><b>Requirement</b>: R116+</p>
 <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
 <p><b>Cost</b>: Free</p>
@@ -327,7 +327,7 @@ div#images div{
 <p><b>Formula</b>: (0.75 * x ^0.75 ), where x is total evil spells cast (this R).</p>
 <br/>
 <p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonSet.png" align="middle"><b> Dragon Set</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonSet.png" align="middle"><b> Dragon Set</b></p>
 <p><b>Requirement</b>: R116+</p>
 <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p>
 <p><b>Cost</b>: Free</p>
@@ -336,21 +336,21 @@ div#images div{
 <hr>
 <p><b>Added</b>: Prestige Factions</p>
 <p><b>Drow</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
 <p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
 <p><b>Requirement</b>: 1 B (1e9) spells cast this game</p>
 <p><b>Cost</b>: 100 Vg (1e65)</p>
 <p><b>Effect</b>: Unlocks 2nd Unique Building for Drow</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/Brothel.png" align="middle"><b> Brothel Upgrade</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Brothel.png" align="middle"><b> Brothel Upgrade</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80)</p>
 <p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
 <p><b>Formula</b>: (10 * x ^1.05), where x is royal exchanges this game</p>
 <br/>
 <p><b>Drow Unique Building</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
 <p><b>Cost</b>: 1e24 Drow coins</p>
 <p><b>Effect</b>: Unlocks Union Upgrades</p>
 <br/>
@@ -365,35 +365,35 @@ div#images div{
 <p><b>Formula</b>: (6 * x ^0.6 building chosen (tier): 1 + floor(x % 11)</p>
 <br/>
 <p><b>Union Upgrades</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
 <p><b>Effect</b>: Increase Royal Exchange bonus based on Brothel amount.</p>
 <p><b>Formula</b>: (1.75 * x ^ 0.75), where x is Brothels</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
 <p><b>Cost</b>: 100 Qitg (1e110)</p>
 <p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
 <p><b>Formula</b>: (45 * x ^ 0.45), where x is amount of Unique Buildings.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
 <p><b>Formula</b>: (log(x) ^ 2), where x is amount of current gems.</p>
 <hr>
 <p><b>Dwarf</b>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
 <p><b>Discription</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>
 <p><b>Requirement</b>: 5 free excav resets this R</p>
 <p><b>Cost</b>: 100 Vg (1e65)</p>
 <p><b>Effect</b>: Unlocks 2nd Unique Building for Drow</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/HighBastion.png" align="middle"><b> High Bastion Upgrade</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HighBastion.png" align="middle"><b> High Bastion Upgrade</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80)</p>
 <p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R</p>
 <br/>
 <p><b>Drarf Unique Building</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
 <br/>
 
 
@@ -401,7 +401,7 @@ div#images div{
 
 
 
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven coins</p>
 <p><b>Effect</b>: Unlock Union Upgrades.</p>
 <br/>
@@ -415,38 +415,38 @@ div#images div{
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
 <p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2, for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
 <p><b>Effect</b>: Multiplicatively increase gem production based on High Bastion you own. </p>
 <p><b>Formula</b>: (1.55 * x ^ 0.55), where x is royal castles multiplicative.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"><b> Stonetalking</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"><b> Stonetalking</b></p>
 <p><b>Cost</b>: 100 Qitg (1e110)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
 <p><b>Formula</b>: (0.055 * max(x, y) ^ 0.55), where x is max mana and y is mana regen.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively increase mana regen and max mana based on highest time spent as Order, Balance or Chaos.</p>
 <p><b>Formula</b>: (0.03 * max(x, y ,z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
 <hr>
 
 <p><b>Dragon</b>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
 <p><b>Discription</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
 <p><b>Requirement</b>: 42 active spells</p>
 <p><b>Cost</b>: 1e65</p>
 <p><b>Effect</b>: Unlocks 2nd Unique Building for Dragon</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonPasture.png" align="middle"><b> Dragon Pasture Upgrade</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonPasture.png" align="middle"><b> Dragon Pasture Upgrade</b></p>
 <p><b>Cost</b>: 1e80</p>
 <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
 <br/>
 <p><b>Dragon Unquie Building</b>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
 <p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>
 <p><b>Effect</b>: Unlock Union Upgrades.</p>
 <br/>
@@ -463,17 +463,17 @@ div#images div{
 
 <br/>
 
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of Dragon Pastures you own.</p>
 <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is Dragon Pastures you own.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/Wyrm'sRest.png" align="middle"><b> Wyrm's Rest</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"><b> Wyrm's Rest</b></p>
 <p><b>Cost</b>: 100 Qitg (1e110)</p>
 <p><b>Effect</b>: Gain assistants based on the amount of time spent as Dragon this Reincarnation.</p>
 <p><b>Formula</b>: (15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/DraconicSupremacy.png" align="middle"><b> Draconic Supremacy</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DraconicSupremacy.png" align="middle"><b> Draconic Supremacy</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your mana regeneration. </p>
 <p><b>Formula</b>: (0.6 * x ^ 0.45), where x is mana regeneration.</p>
