@@ -5,6 +5,33 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.2.0 A2 Prestige, May 16, 2018</a></b></p>
+      <div class="autohide">
+              <p><b>Global Reminder</b>: The Blood War Event will be starting on May 18th 2018, 12.01 PM UTC and will end on May 22nd 2018, 6.59 PM UTC.
+              <p><b>PRESTIGE FACTIONS</b> added to Ascension 2 content.
+              <p>You will be able to ally with Dwarves, Drow or Dragons starting from Reincarnation 116.</p>
+              <p>NEW UNIQUE BUILDINGS for all prestige factions.</p>
+              <p><b>NEW UPGRADES</b>: Faction Unions are available for all prestige factions. As usual, they grant access to three new Union upgrades per faction.</p>
+              <p>FACTION UNION POWERS. Starting from Reincarnation 111, each Faction Union will gain a new unique power.</p>
+              <p>Prestige faction powers will be different for each of the new alignments.</p>
+              <p><b>NEW ARTIFACTS</b>: Dwarven, Drow and Dragon final set pieces have been added, unlocking new Set upgrades for them.</p>
+              <p><b>NEW SECRET TROPHY</b>: for Ascension 2, granting new strategic choices for all alignments.</p>
+              <p>Undead's Eternal Servitude effect increased.</p>
+              <p>Goblin Set effect increased.</p>
+              <p>Demon Set effect increased.</p>
+              <p>Angel Set effect and scaling increased.</p>
+              <p>Scintillation (Craftsmanship 1300) reworked: now increases production based on max mana and Gem bonus.</p>
+              <p>Swarming Tower effect and scaling increased.</p>
+              <p>Wooden Dice production bonus, effect and scaling increased.</p>
+              <p>Elven Discipline effect increased, and it now also adds mana regeneration.</p>
+              <p>Pheromones effect and scaling increased.</p>
+              <p>Ancestral Hourglass formula slightly changed.</p>
+              <p>Added Excavation Resets as a stat.</p>
+              <p>Fixed a bug that caused several autocasting options not to work properly.</p>
+              <p>The Bunny Helpers Feat will be awarded to all players who completed it during Easter 2018 event, unlocking the cosmetic mana bar color if you also completed all the other feats.</p>
+      </div>
+  </div>
+    <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1.1 March 25th, 2018</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Easter Event will be starting on Mar 30th 2018, 12.01 PM UTC and will end on Apr 6th 2018, 6.59 PM UTC.</p>
