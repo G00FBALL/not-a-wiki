@@ -24,7 +24,7 @@
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
 <p><b>Formula</b>: (5 * (x / 60) ^ 0.7)%, where x is time in seconds this game.</p>
 <br/>
-<p><b>Good</b></p>
+<p><b>Good - Angels</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 2M (2e6) Mana Regeneration</p>
@@ -45,6 +45,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelsUnion.png" alt="Angels Union" align="middle"> <b>Angels Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel Coins</p>
 <p><b>Requirement</b>: Holy Sites Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
+<p><b>Formula</b>: (ln(x) ^ 1.8 + ln(y) ^ 2.1), where x is mana spent this game and y is mana regeneration.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
@@ -64,7 +67,7 @@
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase mana regeneration by 60%.</p>
 <br/>
-<p><b>Evil</b></p>
+<p><b>Evil - Undead</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 85M% offline production bonus</p>
@@ -86,6 +89,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
 <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
+<p><b>Formula</b>: (10 * log(1 + x) ^ 2), where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
@@ -104,9 +110,9 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
-<p><b>Formula</b>: (10000 + 25 * (x / 1800) ^ 2), where x is seconds</p>
+<p><b>Formula</b>: (10000 + 75 * (x / 1800) ^ 2), where x is seconds this game.</p>
 <br/>
-<p><b>Neutral</b></p>
+<p><b>Neutral - Titans</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 3750 royal exchanges</p>
@@ -127,6 +133,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitansUnion.png" alt="Titans Union" align="middle"> <b>Titans Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
 <p><b>Requirement</b>: Mountain Palace Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance by 5% per hour spent in this game.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
@@ -144,8 +152,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" alt="Colossus Kingdom" align="middle"> <b>Colossus Kingdom</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
-<p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
-<p><b>Formula</b>: (x ^ 0.7), where x is seconds this R.</p>
+<p><b>Effect</b>: Multiplicative gain assistants based on total time spent as Order.</p>
+<p><b>Formula</b>: (20 * x ^ 0.7), where x is seconds this R.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
 <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
@@ -163,7 +171,7 @@
 <p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4), where x is faction coins found this game.</p>
 <p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5), where x is amount of assistants.</p>
 <br/>
-<p><b>Good</b></p>
+<p><b>Good - Fairies</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 200K Assistants</p>
@@ -178,12 +186,16 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
 <p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
-<p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.35 * x ^ 2.35)%, where x is active spells.</p>
+<p><b>Formula</b>: (0.4 * x ^ 2.4)%, where x is active spells.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairiesUnion.png" alt="Fairies Union" align="middle"> <b>Fairies Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Fairy Coins</p>
 <p><b>Requirement</b>: Swarming Towers Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase assistant production based on amount of Enchanted Fields, Inns and Blacksmiths if building count is even, or all other buildings if building count is odd.</p>
+<p><b>Formula</b>: (14 * x ^ 0.45 ), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
+<p><b>Formula</b>: (14 * x ^ 0.45 ), where x is T4-T11 Buildings (If building count is odd)</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" alt="Bubble Swarm" align="middle"> <b>Bubble Swarm</b></p>
@@ -196,15 +208,15 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (This R)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is time spent affiliated with Fairies. (This R)</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.75), where x is time spent affiliated with Fairies. (This R)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Multipicatively increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
-<p><b>Formula</b>: every 30 minutes, ((upgrade bonus) + rand(0.5, 5))% (averages out to 132% per day).</p>
+<p><b>Formula</b>: Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
 <br/>
-<p><b>Evil</b></p>
+<p><b>Evil - Demons</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 160 seconds long Call to Arms.</p>
@@ -225,6 +237,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonsUnion.png" alt="Demons Union" align="middle"> <b>Demons Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Demon Coins</p>
 <p><b>Requirement</b>: Burning Abyss Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: 1% of all Non-Evil spells cast in this game count as Evil.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" alt="Abyssal Furnace" align="middle"> <b>Abyssal Furnace</b></p>
@@ -243,9 +257,9 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-<p><b>Formula</b>: (0.35 * x ^ 0.65), where x is mana regen.</p>
+<p><b>Formula</b>: (0.35 * x ^ 0.6), where x is mana regen.</p>
 <br/>
-<p><b>Neutral</b></p>
+<p><b>Neutral - Faceless</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 5000 Excavations</p>
@@ -266,6 +280,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>
 <p><b>Requirement</b>: Forbidden Library Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
+<p><b>Formula</b>: (50 * x ^ 0.5), where x is random faction all time in seconds.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
@@ -300,7 +317,7 @@
 <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
 <p><b>Formula</b>: floor(2.5 * x ^ 0.44). where x is mana per second.</p>
 <br/>
-<p><b>Good</b></p>
+<p><b>Good - Elven</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 1e23 Elf Faction Coins found.</p>
@@ -321,6 +338,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenUnion.png" alt="Elven Union" align="middle"> <b>Elven Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven Coins</p>
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
+<p><b>Formula</b>: (2 * ln(1 + x) ^ 2.5), where x is faction coins found in this Reincarnation.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
@@ -328,23 +348,24 @@
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
-<p><b>Production Formula</b>: (7 * x ^ 0.7), where x is Arboreal Cities count.</p>
-<p><b>Faction Coin Formula</b>: (1.5 * x ^ 0.7), where x is Arboreal Cities count.</p>
+<p><b>Production Formula</b>: (8 * x ^ 0.8), where x is Arboreal Cities count.</p>
+<p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.7), where x is Arboreal Cities count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.</p>
-<p><b>Formula</b>: (0.68 * x ^ 0.68)</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Increase mana regeneration based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>: (ln(x))</p>
+<p><b>Effect</b>: Increase mana regeneration additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
+<p><b>Formula</b>: (100 * ln(x) ^ 1.5), where x is Faction Coins found in this game.(additively)</p>
+<p><b>Formula</b>: (1.45 * ln(x)), where x is Faction Coins found in this game.(multiplicatively)</p>
 <br/>
-<p><b>Evil</b></p>
+<p><b>Evil - Goblins</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Slave Market Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 30K Neutral buildings.</p>
@@ -365,6 +386,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinsUnion.png" alt="Goblins Union" align="middle"> <b>Goblins Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
 <p><b>Requirement</b>: Slave Market Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
+<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is spells cast in this game.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
@@ -385,7 +409,7 @@
 <p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
 <p><b>Formula</b>: (-0.02)</p>
 <br/>
-<p><b>Neutral</b></p>
+<p><b>Neutral - Druids</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 12K Stonehenges</p>
@@ -406,6 +430,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> <b>Druids Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
 <p><b>Requirement</b>: Ziggurat Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
+<p><b>Formula</b>: ((x * y) / 2.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -418,11 +445,154 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-<p><b>Formula</b>: (x + y) ^0.65 * ( 1 / (1 + abs(x - y) ) ) ^0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
+<p><b>Formula</b>: (x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
-<p><b>Effect</b>: Increase the production of all buildings based on their tier. Lower tiers get better bonuses.</p>
-<p><b>Formula</b>: (10 * (11 - T) ^ 3), where T is building tier.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
+<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5), where T is building tier.</p>
+<hr>
+<h6><b>Prestige</b></h6>
+<p><b>Good - Dwarf</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
+<p><b>Discription</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>
+<p><b>Requirement</b>: 5 free excav resets this R</p>
+<p><b>Cost</b>: 100 Vg (1e65)</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HighBastion.png" align="middle"><b> Unique Building Upgrade</b></p>
+<p><b>Requirement</b>: High Bastion Quest</p>
+<p><b>Cost</b>: 100 Qivg (1e80)</p>
+<p><b>Effect</b>: Gives High Bastion Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
+<p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
+<p><b>Cost</b>: 1 Sp (1e24) Dwarven coins</p>
+<p><b>Effect</b>: Unlock Union Upgrades.</p>
+<br/>
+<p><b>Other Effects</b></p>
+<p><b>Proof of Order</b>: Increase all building production based on time spent this reincarnation.</p>
+<p><b>Formula</b>:  (0.65 * x ^ 0.65), where x is time spent this reincarnation.</p>
+<br/>
+<p><b>Proof of Balance</b>: Increase mana regen based on clicks made this reincarnation.</p>
+<p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
+<br/>
+<p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
+<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2, for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100)</p>
+<p><b>Effect</b>: Multiplicatively increase gem production based on High Bastion you own. </p>
+<p><b>Formula</b>: (1.55 * x ^ 0.55), where x is royal castles multiplicative.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"><b> Stonetalking</b></p>
+<p><b>Cost</b>: 100 Qitg (1e110)</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
+<p><b>Formula</b>: (0.055 * max(x, y) ^ 0.55), where x is max mana and y is mana regen.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
+<p><b>Cost</b>: 1 Notg (1e120)</p>
+<p><b>Effect</b>: Multiplicatively increase mana regen and max mana based on highest time spent as Order, Balance or Chaos.</p>
+<p><b>Formula</b>: (0.03 * max(x, y ,z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
+<br/>
+<p><b>Evil - Drow</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
+<p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
+<p><b>Requirement</b>: 1 B (1e9) spells cast this game</p>
+<p><b>Cost</b>: 100 Vg (1e65)</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Brothel.png" align="middle"><b> Brothel Upgrade</b></p>
+<p><b>Requirement</b>: Brothel Quest</p>
+<p><b>Cost</b>: 100 Qivg (1e80)</p>
+<p><b>Effect</b>: Gives Brothel Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
+<p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
+<p><b>Formula</b>: (10 * x ^1.05), where x is royal exchanges this game</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
+<p><b>Cost</b>: 1e24 Drow coins</p>
+<p><b>Effect</b>: Unlocks Union Upgrades</p>
+<br/>
+<p><b>Other Effects</b></p>
+<p><b>Proof of Order</b>: Increase offline bonus based on max mana.</p>
+<p><b>Formula</b>:  (0.1 * x ^ 0.85), where x is max mana</p>
+<br/>
+<p><b>Proof of Balance</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
+<p><b>Formula</b>: (0.1 * ln(1 + x) ^ 2.8), where x is Tax Collections cast this game.</p>
+<br/>
+<p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
+<p><b>Production Formula</b>: (6 * x ^ 0.6), where x is time offline this R</p>
+<p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
+<br/>
+<p><b>Union Upgrades</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100)</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus based on Brothel amount.</p>
+<p><b>Formula</b>: (1.75 * x ^ 0.75), where x is Brothels</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
+<p><b>Cost</b>: 100 Qitg (1e110)</p>
+<p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
+<p><b>Formula</b>: (45 * x ^ 0.45), where x is amount of Unique Buildings.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
+<p><b>Cost</b>: 1 Notg (1e120)</p>
+<p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
+<p><b>Formula</b>: (log(x) ^ 2), where x is amount of current gems.</p>
+<br/>
+
+<p><b>Neutral - Dragon</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
+<p><b>Discription</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
+<p><b>Requirement</b>: 42 active spells</p>
+<p><b>Cost</b>: 1e65</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonPasture.png" align="middle"><b> Dragon Pasture Upgrade</b></p>
+<p><b>Requirement</b>: Dragon Pasture Quest</p>
+<p><b>Cost</b>: 1e80</p>
+<p><b>Effect</b>: Gives Dragon Pasture Unique Building.</p>
+<br/>
+<p><b>Unquie Building</b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
+<p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
+<p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>
+<p><b>Effect</b>: Unlock Union Upgrades.</p>
+<br/>
+<p><b>Other Effects</b></p>
+<p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order.</p>
+<p><b>Formula</b>: (1.6 * x ^ 0.6), where x is time spent this Order.</p>
+<br/>
+<p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
+<p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
+<br/>
+<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend FC chance(even for Unique, odd for Non-Unique).</p>
+<p><b>Formula</b>: Non-Unique (25  * 0.6 * x ^ 0.6), where x is FC chance.</p>
+<p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is FC chance.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100)</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of Dragon Pastures you own.</p>
+<p><b>Formula</b>: (0.65 * x ^ 0.65), where x is Dragon Pastures you own.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"><b> Wyrm's Rest</b></p>
+<p><b>Cost</b>: 100 Qitg (1e110)</p>
+<p><b>Effect</b>: Gain assistants based on the amount of time spent as Dragon this Reincarnation.</p>
+<p><b>Formula</b>: (15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DraconicSupremacy.png" align="middle"><b> Draconic Supremacy</b></p>
+<p><b>Cost</b>: 1 Notg (1e120)</p>
+<p><b>Effect</b>: Increase the production of all buildings based on your mana regeneration. </p>
+<p><b>Formula</b>: (0.6 * x ^ 0.45), where x is mana regeneration.</p>
 <?php include "../scripts/footer.html"; ?>

@@ -25,7 +25,6 @@
                       <p><b>Artifact Set</b>: Undead (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C340,D150,D275,E260,E1425,A250,A251,A375,W350,W1375" id="Build">
-                    <p><b>Artifact</b>: Druid (if avaliable)
                     <p>S3200,
                     <p>C300,C340,
                     <p>D150,D275,

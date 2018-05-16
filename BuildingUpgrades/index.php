@@ -9,8 +9,8 @@
 <p>In order from <b>Neutral</b> to <b>Good</b> to <b>Evil</b> with <b>Halls of Legends</b> at the bottom.</p>
 <p>Each building has 21 upgrades except Halls of Legends, it has 27 upgrades.
 <p><b>Farm Upgrades (Alignment: Any-None)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/fgroup1.png" usemap="#fgroup1-map">
-<map name="fgroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/fgroup2.png" usemap="#fgroup2-map">
+<map name="fgroup2-map">
     <area target="" research="Upgrade 1: Crop Rotation<p>Requirement: 5 Farms<p> Cost Pre Ascension: 200<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 100%.<p>Post Ascencion: Increase Farm production by 7.18%.<p>Adds 1 Assistant" coords="5,3,50,51" shape="rect">
     <area target="" research="Upgrade 2: Irrigation<p>Requirement: 25 Farms<p>Cost Pre Ascension: 6,580<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 200%.<p>Post Ascencion: Increase Farm production by 11.6%.<p>Adds 1 Assistant" coords="58,3,103,51" shape="rect">
     <area target="" research="Upgrade 3: Professional Farmers<p>Requirement: 75 Farms<p>Cost Pre Ascension: 10.7M (1.07e7)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 300%.<p>Post Ascencion: Increase Farm production by 14.9%." coords="112,4,158,51" shape="rect">
@@ -34,11 +34,12 @@
     <area target="" research="Post Ascension Only<p>Upgrade 21: Self Germination<p>Requirement: 4000 Farms<p>Cost: 4.689Spd (4.689e54)<p>Increase Farm production by 70% ." coords="4,112,51,161" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Lunar Photosynthesis<p>Requirement: 10K Farms<p>Cost: 518.4 Dqag (5.148e131)<p>Increase Farm by 80%" coords="56,111,105,162" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Fairies' Farm building can be upgraded to a Unique Building: Enchanted Fields, which is required for some challenges and research quests, Boosting their production by 750% per assistant you own and unlocking more unique perks for the building.<p>Requirements: 2250 Farms, Research, Play as Good and Fairy, R16+.<p>Formula: 50 * (750 * x)^0.7, where x is your Assistants stat." coords="354,113,536,158" shape="rect">
+    <area target="" research="Unique Building<p>At R116, Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p> <p><b>Effect</b>: Increase production based on your max mana.</p> <p><b>Effect</b>: Also grants access to Faction Union.</p> <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p> <p><b>Alignment</b>: Neutral-Dragon, Proof of Order, Balance, Chaos</p> <p><b>Requirement</b>: R116+, Dragon Pasture Quest (42 active spells)" coords="156,112,345,162" shape="rect">
 </map>
 </br>
 <p><b>Inn Upgrades (Alignment: Any-None)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/igroup1.png" usemap="#igroup1-map">
-<map name="igroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/igroup2.png" usemap="#igroup2-map">
+<map name="igroup2-map">
     <area target="" research="Upgrade 1: Top Quality Beer<p>Requirement: 5 Inns<p>Cost Pre Ascension: 2,510<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 100%.<p>Post Ascension: Increase Inn production by 17.8%.<p>Adds 1 Assistant" coords="5,4,51,51" shape="rect">
     <area target="" research="Upgrade 2: Cockroach Disinfestation<p>Requirement: 25 Inns<p>Cost Pre Ascension: 82,300<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 200%.<p>Post Ascension: Increase Inn production by 11.6%.<p>Adds 1 Assistant" coords="56,4,105,51" shape="rect">
     <area target="" research="Upgrade 3: Silk Blankets<p>Requirement: 75 Inns<p>Cost Pre Ascension: 133.8M (1.338e8)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 300%.<p>Post Ascension: Increase Inn production by 14.9%." coords="111,4,159,51" shape="rect">
@@ -61,6 +62,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Bottomless Cups<p>Requirement: 3500 Inns<p>Cost: 21.29Qid (2.129e49)<p> <p>Increase Inn production by 60%." coords="487,57,538,105" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Ogre Brewery<p>Requirement: 4000 Inns<p>Cost: 4.689Qid (4.689e54)<p>Increase Inn production by 70%." coords="3,111,50,160" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Otherworldly Spirits<p>Requirement: 10K Inns<p>Cost: 6.48 Tqag (6.48e132)<p>Increase Inn by 80%" coords="54,109,105,161" shape="rect">
+    <area target="" research="Unique Building<p>At R116, Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p> <p><b>Effect</b>: Increase production based on Royal Exchanges made this game.</p> <p><b>Effect</b>: Also grants access to Faction Union.</p> <p><b>Formula</b>: (10 * x ^1.05), where x is royal exchanges this game</p> <p><b>Alignment</b>: Evil-Drow, Proof of Order, Balance, Chaos</p> <p><b>Requirement</b>: R116+, Brothel Quest (1 B (1e9) spells cast this game)" coords="346,109,540,161" shape="rect">
 </map>
 </br>
 <p><b>Blacksmith Upgrades (Alignment: Any-None)</b></p>
@@ -415,8 +417,8 @@
     <area target="" research="Unique Building <p>At R100, Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building. <p>Requirements: R100+, Good, Proof of Balance, Arboreal City Quest <p>Effect: Increase production production based on Faction Coin find chance. <p>Effect: Also grants access to Faction Union. <p>Formula: floor20*(log10(1+x))^2), where x is FC chance." coords="350,109,539,162" shape="rect">
 </map>
 <p><b>Royal Castle Upgrades (Alignment: Good)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/royalcastlegroup1.png" usemap="#royalcastlegroup1-map">
-<map name="royalcastlegroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/royalcastlegroup2.png" usemap="#royalcastlegroup2-map">
+<map name="royalcastlegroup2-map">
     <area target="" research="Upgrade 1: Reinforced Walls<p>Requirement: 5 Royal Castles<p>Cost Pre Ascension: 2.916B (2.916e9)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%.<p>Adds 1 Assistant" coords="3,4,51,52" shape="rect">
     <area target="" research="Upgrade 2: Court Jesters<p>Requirement: 25 Royal Castles<p>Cost Pre Ascension: 95.46B (9.546e10)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,51" shape="rect">
     <area target="" research="Upgrade 3: Comfy Throne<p>Requirement: 75 Royal Castles<p>Cost Pre Ascension: 155.2T (1.552e14)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Royal Castles production by 100%.<p>Pre Ascension: Increase Royal Castles production by 7.18%." coords="112,2,158,51" shape="rect">
@@ -439,6 +441,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Red Carpet<p>Requirement: 3500 Royal Castles<p>Cost: 24.7Spd (2.47e55)<p>Increase Royal Castles production by 50%." coords="489,58,536,104" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Dance Hall<p>Requirement: 4000 Royal Castles<p>Cost: 68Nod (6.8e61)<p>Increase Royal Castles production by 50%." coords="2,111,51,159" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Mirror Hallway<p>Requirement: 10K Royal Castles<p>Cost: 7.517 Qiqag (7.517e138)<p>Increase Royal Castle production by 50%" coords="54,109,107,160" shape="rect">
+    <area target="" research="Unique Building<p>At R116, Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p> <p><b>Effect</b>: production based on clicks made in this reincarnation.</p> <p><b>Effect</b>: Also grants access to Faction Union.</p> <p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R.</p> <p><b>Alignment</b>: Good-Dwarf, Proof of Order, Balance, Chaos</p> <p><b>Requirement</b>: R116+, High Bastion Quest (5 free excav resets this R)" coords="350,108,538,161" shape="rect">
 </map>
 <p><b>Heaven's Gate Upgrades (Alignment: Good)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/heavensgategroup1.png" usemap="#heavensgategroup1-map">
