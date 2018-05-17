@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<p><b>v3.2 May ?, 2018</b></p><!--&#128078;--!>
+<p><b>v3.2 May ?, 2018</b>
 <br/>
 <p><b>Fixed</b>
 <p>Setting 8 spells set with same autocast now working</p>
@@ -40,7 +40,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/UndeadSet.png align=middle><b> Undead Set</b></p>
 <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
 <p><b>Old Formula</b>: (35 * log(1 + x) ^ 3.25), where x is offline Multiplier.</p>
-<p><b>New Formula</b>: (9 * ln(1 + x)) ^3), where x is offline Multiplier.</p>
+<p><b>New Formula</b>: (9 * ln(1 + x) ^3), where x is offline Multiplier.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/GoblinSet.png align=middle><b> Goblin Set</b></p>
 <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.</p>

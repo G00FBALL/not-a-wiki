@@ -112,7 +112,7 @@
     <p><b>Artifacts Required</b>: Rotten Organ, JawBone, DustyCoffin</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
-    <p><b>Formula</b>: ((9 * ln(1 + x)) ^3), where x is offline Multiplier. (offline production/100 + 1)</p>
+    <p><b>Formula</b>: (9 * ln(1 + x) ^3), where x is offline Multiplier. (offline production/100 + 1)</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RottenOrgan.png" alt="Artifacts" align="middle"><b> Rotten Organ</b></p>
     <p><b>Clue</b>: Found among large masses of dead bodies.</p>
