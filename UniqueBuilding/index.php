@@ -94,19 +94,19 @@
 <p>Upgraded from Knights Jousts</p>
 <p>Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: 1.5 * (1 + x) where X is number of Non-Unique Buildings.</p>
-<p><b>Requirement</b>: Mercerary, R75, 125K total buildings</p>
+<p><b>Requirement</b>: Mercenary, R75, 125K total buildings</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="EvilMerc" align="middle"> <b>Evil Alignment</b></p>
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: 0.5 * (log10( 1 + x)) ^ 4.5 where x is Offline Production Bonus</p>
-<p><b>Requirement</b>: Mercerary, R75, 125K total buildings</p>
+<p><b>Requirement</b>: Mercenary, R75, 125K total buildings</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="NeutralMerc" align="middle"> <b>Neutral Alignment</b></p>
 <p>Upgraded from Alchemist Labs</p>
 <p>Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: 2 * x ^ 0.95, where x is assistants you had in a single game (This R).</p>
-<p><b>Requirement</b>: Mercerary, R75, 125K total buildings</p>
+<p><b>Requirement</b>: Mercenary, R75, 125K total buildings</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></p>
 <p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.</p>
