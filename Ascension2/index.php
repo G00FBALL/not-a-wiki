@@ -451,7 +451,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
-<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5), where T is building tier.</p>
+<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
 <hr>
 <h6><b>Prestige</b></h6>
 <p><b>Good - Dwarf</b>
@@ -483,7 +483,7 @@
 <p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2, for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
+<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
