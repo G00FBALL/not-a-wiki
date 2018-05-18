@@ -395,12 +395,6 @@ div#images div{
 <p><b>Drarf Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
 <br/>
-
-
-
-
-
-
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven coins</p>
 <p><b>Effect</b>: Unlock Union Upgrades.</p>
@@ -443,7 +437,7 @@ div#images div{
 <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
 <br/>
-<p><b>Dragon Unquie Building</b>
+<p><b>Dragon Unique Building</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
