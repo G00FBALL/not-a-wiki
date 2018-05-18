@@ -385,7 +385,7 @@
 <p><b>Formula</b>: 0.7 * min(x ,y, z. s, t ,u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
 <p><b>Note</b>: Equality is needed for offline unlock.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
 <p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
 <p><b>Effect</b>: Gives upgrade with the same name.</p>
 <br/>
@@ -406,15 +406,15 @@ div#images div{
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Proof of Order</b>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCOrderGood.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderGood.png" width="54" height="54" />
     <center>Good</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCOrderEvil.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderEvil.png" width="54" height="54" />
     <center>Evil</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCOrderNeutral.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderNeutral.png" width="54" height="54" />
     <center>Neutral</center>
   </div>
 </div>
@@ -425,15 +425,15 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCChaosGood.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosGood.png" width="54" height="54" />
     <center>Good</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCChaosEvil.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosEvil.png" width="54" height="54" />
     <center>Evil</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCChaosNeutral.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosNeutral.png" width="54" height="54" />
     <center>Neutral</center>
   </div>
 </div>
@@ -443,15 +443,15 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCBalanceGood.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceGood.png" width="54" height="54" />
     <center>Good</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCBalanceEvil.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceEvil.png" width="54" height="54" />
     <center>Evil</center>
   </div>
   <div>
-  <img src="http://musicfamily.org/admincontrols/Factions/picks/AotCBalanceNeutral.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceNeutral.png" width="54" height="54" />
     <center>Neutral</center>
   </div>
 </div>
