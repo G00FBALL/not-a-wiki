@@ -8,10 +8,10 @@
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a></p>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
-<p><b>Event started</b></p>
+<p><b>Event starting</b></p>
 <p id="start">
-  <!--<script>
-  var countDownDate1 = new Date("Mar 30, 2018 12:01:00 UTC").getTime();
+<script>
+  var countDownDate1 = new Date("May 18, 2018 12:01:00 UTC").getTime();
   var x = setInterval(function() {
       var now = new Date().getTime();
       var distance = countDownDate1 - now;
@@ -26,11 +26,11 @@
           document.getElementById("end").innerHTML = "";
       }
       }, 1000);
-  </script></p>--!>
+  </script></p>
 <p><b>Event ends in</b></p>
 <p id="end"></p>
 <script>
-var countDownDate2 = new Date("Apr 6, 2018 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("May 22, 2018 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -52,7 +52,7 @@ var x = setInterval(function() {
         <tr>
             <th>Rubies</th>
             <th colspan="1">Event</th>
-            <th colspan="4">Total Cumulative Bonus 150%</th>
+            <th colspan="4">Total Cumulative Bonus 158%</th>
         </tr>
         </thead>
         <tbody>
@@ -94,6 +94,7 @@ var x = setInterval(function() {
             <td>Anniversary</td>
             <td></td>
             <td></td>
+            <td>8%</td>
             <td>8%</td>
         </tr>
         <tr>
@@ -146,44 +147,134 @@ var x = setInterval(function() {
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/realm2/Factions/picks/TotalEvents2018Easter.png" usemap="#TotalEvents2018Easter-map">
-    <map name="TotalEvents2018Easter-map">
+    <p><img src="/realm/Factions/picks/TotalEvents2018Anniversary.png" usemap="#TotalEvents2018Anniversary-map">
+    <map name="TotalEvents2018Anniversary-map">
     <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="3,4,62,62" shape="rect">
     <area target="" research="Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="67,3,125,62" shape="rect">
     <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 &amp; R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="132,4,189,61" shape="rect">
     <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="197,5,255,61" shape="rect">
     <area target="" research="Christmas<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="261,5,320,62" shape="rect">
     <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,4,383,61" shape="rect">
-    <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="391,1,448,61" shape="rect">
-    <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="4,69,60,126" shape="rect">
-    <area target="" research="Valentines 2018<p>Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bowl.<p><img src=&quot;http://musicfamily.org/realm2/Factions/picks/ManaButtonValentines.png&quot;></p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades." coords="67,69,126,127" shape="rect">
-    <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total." coords="131,68,190,127" shape="rect">
-    <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%" coords="196,68,255,126" shape="rect">
-    <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)" coords="262,68,319,126" shape="rect">
-    <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating." coords="326,68,384,126" shape="rect">
-    <area target="" research="Easter 2018<p>Bunny Helpers<p>Requirement: Collect a full stack of 480 Eggs while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bowl<p><img src=&quot;http://musicfamily.org/realm2/Factions/picks/ManaButtonValentines.png&quot;></p></p>" coords="390,69,447,127" shape="rect">
-    <area target="" research="Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="4,133,60,191" shape="rect">
+    <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="391,1,448,61" shape="rect">
+    <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,69,60,126" shape="rect">
+    <area target="" research="Valentines 2018<p>Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="67,69,126,127" shape="rect">
+    <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="131,68,190,127" shape="rect">
+    <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="196,68,255,126" shape="rect">
+    <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="262,68,319,126" shape="rect">
+    <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="326,68,384,126" shape="rect">
+    <area target="" research="Easter 2018<p>Bunny Helpers<p>Requirement: Collect a full stack of 480 Eggs while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="390,69,447,127" shape="rect">
+    <area target="" research="Summer Festival<p>Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="4,133,60,191" shape="rect">
     <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="67,133,125,191" shape="rect">
-    <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all Summeraan upgrades" coords="133,133,190,190" shape="rect">
-    <area target="" research="Summer Festival<p>Winterly Champion<p>Type: 3 Quest Series<p>Requirement: Purchase 1, 2, and 3 Winterly upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="197,132,254,190" shape="rect">
-    <area target="" research="Halloween<p>Monster Breeder <p>Type: Feat<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="262,133,320,190" shape="rect">
-    <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: Feat<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="326,133,383,190" shape="rect">
-    <area target="" research="Halloween<p>Spooky<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="391,133,447,190" shape="rect">
-    <area target="" research="Halloween<p>Bloodthirsty<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="3,197,61,254" shape="rect">
-    <area target="" research="Halloween<p>Bonepicker<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="68,197,126,255" shape="rect">
-    <area target="" research="Anniversary<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels." coords="132,197,189,254" shape="rect">
-    <area target="" research="Anniversary<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon." coords="197,196,255,254" shape="rect">
-    <area target="" research="Anniversary<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="262,196,320,254" shape="rect">
-    <area target="" research="Anniversary<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus." coords="326,197,383,255" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="391,197,446,256" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="3,262,63,320" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="67,260,124,319" shape="rect">
+    <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%" coords="133,133,190,190" shape="rect">
+    <area target="" research="Summer Festival<p>Winterly Champion<p>Type: Feat<p>Requirement: Purchase all 3 Winterly upgrades.<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%" coords="197,132,254,190" shape="rect">
+    <area target="" research="Halloween<p>Monster Breeder <p>Type: 3 part Quest<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="262,133,320,190" shape="rect">
+    <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: 4 part Quest<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="326,133,383,190" shape="rect">
+    <area target="" research="Halloween<p>Spooky<p>Type: Feat<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="391,133,447,190" shape="rect">
+    <area target="" research="Halloween<p>Bloodthirsty<p>Type: Feat<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="3,197,61,254" shape="rect">
+    <area target="" research="Halloween<p>Bonepicker<p>Type: Feat<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="68,197,126,255" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="132,197,189,254" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="197,196,255,254" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p>Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="260,196,317,251" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="325,196,382,252" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="388,196,448,252" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="3,261,60,317" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="68,261,125,316" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="132,260,188,318" shape="rect">
     </map></p>
     <hr>
     <p><b>Events</b></p>
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2018 Events</a></b></p>
         <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">3rd Anniversary - Blood Wars (May 18 - May 22, 2018)</a></b></p>
+            <div class="autohide">
+                <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
+                <p><b>Cost</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Holy Symbols and Lava Stones collected.</p>
+                <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                <p><b>Event Resources</b></p>
+                <p><b><img src="/realm/Factions/picks/HolySymbols2017.png" alt="Holy Symbols" align="middle"> Holy Symbols</b></p>
+                <p><b><img src="/realm/Factions/picks/LavaStones2017.png" alt="Lava Stones" align="middle"> Lava Stones</b></p>
+                <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 480 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
+                <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
+                <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                <hr>
+                <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
+                <p><b>Cost</b>: 200 Holy Symbols
+                <p><b>Description</b>: The highest Angelic ranks carry wings blazing with pure light, whose every feather is infused with enough magical power to revive a dead soul or purify the hearts of a thousand sinners. Affiliating with the Seraphim will increase your magical abilities to the extreme, but you can only do so when playing as Good or Neutral.</p>
+                <p><b>Seraphim Quest</b></p>
+                <p><b>Seraphim Champion 1</b></p>
+                <p><b><img src="/realm/Factions/picks/HeavenlyFeathers2017.png" alt="Heavenly Feathers" align="middle"> Heavenly Feathers</b></p>
+                <p><b>Cost</b>: 400 Holy Symbols.
+                <p><b>Effect</b>: All buildings also increase your mana regeneration.</p>
+                <p><b>Formula</b>: 2 * x ^ 0.2</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                <p><b>Seraphim Champion 2</b></p>
+                <p><b><img src="/realm/Factions/picks/God'sChamber2017.png" alt="God's Chamber" align="middle"> God's Chamber</b></p>
+                <p><b>Cost</b>: 750 Holy Symbols.</p>
+                <p><b>Effect</b>: Increase maximum mana by 1 for every 10 buildings you own.</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                <p><b>Seraphim Champion 3</b></p>
+                <p><b><img src="/realm/Factions/picks/BoonofRadiance2017.png" alt="Boon of Radiance" align="middle"> Boon of Radiance</b></p>
+                <p><b>Cost</b>: 1000 Holy Symbols.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
+                <p><b>Formula</b>: 0.2 * (x * 30) ^ 0.85</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.</p>
+                <p><b>Effect</b>: Also completes Seraphim Champion Feat.</p>
+                <hr>
+                <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
+                <p><b>Cost</b>: 200 Lava Stones</p>
+                <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                <p><b>Asmodean Quest</b></p>
+                <p><b>Asmodean Champion 1</b></p>
+                <p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>
+                <p><b>Cost</b>: 400 Lava Stones</p>
+                <p><b>Effect</b>: Gain additional assistants based on time spent affiliated with the Asmodeans.</p>
+                <p><b>Formula</b>: 0.25 * x * (x + 1) where x is hours
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                <p><b>Asmodean Champion 2</b></p>
+                <p><b><img src="/realm/Factions/picks/AbyssalGaze2017.png" alt="Abyssal Gaze" align="middle"> Abyssal Gaze</b></p>
+                <p><b>Cost</b>: 750 Lava Stones</p>
+                <p><b>Effect</b>: Increase assistant production based on total time spent as Evil.</p>
+                <p><b>Formula</b>: 2 x ^ 0.7 where x is seconds of total evil time</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                <p><b>Asmodean Champion 3</b></p>
+                <p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
+                <p><b>Cost</b>: 1000 Lava Stones</p>
+                <p><b>Effect</b>: Increase offline production bonus based on the amount of assistants you own.</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
+                <p><b>Effect</b>: Also completes Asmodean Champion Feat</p>
+                <hr>
+                <p><b>Event Feats</b></p>
+                <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                <p><b><img src="/realm/Factions/picks/SeraphimChampion2017.png" alt="Seraphim Champion" align="middle"> Seraphim Champion</b></p>
+                <p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
+                <p><b><img src="/realm/Factions/picks/AsmondeanChampion2017.png" alt="Asmodean Champion" align="middle"> Asmodean Champion</b></p>
+                <p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
+                <p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.</p>
+                <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones while affiliated with the Demons</p>
+                <p><b><img src="/realm/Factions/picks/Indifference2017.png" alt="Indifference" align="middle"> Indifference</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones or Holy Symbols while affiliated with a Neutral faction</p>
+                <hr>
+                <p><b>Shop Item</b></p>
+                <p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 40 Holy Symbols and Lava Stones for 5 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                <p><b><img src="/realm/Factions/picks/150HolySymbolsandLavaStones2017.png" alt="150 Holy Symbols and Lava Stones" align="middle"> 150 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 150 Holy Symbols and Lava Stones for 15 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                <p><b><img src="/realm/Factions/picks/650HolySymbolsandLavaStones2017.png" alt="650 Holy Symbols and Lava Stones" align="middle"> 650 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 650 Holy Symbols and Lava Stones for 45 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                <p><b><img src="/realm/Factions/picks/1800HolySymbolsandLavaStones2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 1800 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 1800 Holy Symbols and Lava Stones for 100 Rubies.</p>
+                <p>These are all the resources he could gather.</p>
+                <hr>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (March 30 - Apr 6, 2018)</a></b></p>
             <div class="autohide">
@@ -263,6 +354,7 @@ var x = setInterval(function() {
                 <p><b>Unlock / Price</b>: Complete all 4 Egg Collection Quest.</p>
                 <hr>
                 <p><b>Feats</b></p>
+                <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                 <p><b><img src="/realm/Factions/picks/EggHunter7000Easter2017.png" alt="Egg Hunter" align="middle"> Egg Hunter Feat</b></p>
                 <p><b>Kind</b>: Feat</p>
                 <p><b>Unlock / Price</b>: Complete all 4 Egg Hunter Quest.</p>
@@ -344,7 +436,6 @@ var x = setInterval(function() {
                 <p><b>Kind</b>: Shop Item</p>
                 <p><b>Unlock / Price</b>: 100 Rubies</p>
                 <p><b>Note</b>: The Easter Bunny wants to sell you 7000 eggs for 100 rubies. These are all the eggs he could gather.</p>
-                <hr>
             </div>
         </div>
         <div class="shelementwhole">
