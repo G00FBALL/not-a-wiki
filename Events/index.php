@@ -28,7 +28,7 @@
       }, 1000);
   </script></p>
 <p><b>Event ends in</b></p>
-<p id="end"></p>
+<p id="end">
 <script>
 var countDownDate2 = new Date("May 22, 2018 18:59:00 UTC").getTime();
 var x = setInterval(function() {
