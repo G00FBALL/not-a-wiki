@@ -255,7 +255,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/BeardHair.png" align="middle"><b> Beard Hair</b></p>
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
-    <p><b>Requirement</b>: R116+, Play as Dwarves</p>
+    <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dwarves</p>
     <p><b>Chance</b>: (x / 100000000 (100M))%, where x is assistant count.</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"><b> Drow Set</b></p>
@@ -281,7 +281,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/PoisonVial.png" align="middle"><b> Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>
     <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
-    <p><b>Requirement</b>: R116+, Play as Drow</p>
+    <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Drow</p>
     <p><b>Chance</b>: (x / 10000000 (10M))%, where x is combo strike production bonus</p>
       <hr>
     <p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
@@ -307,6 +307,6 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonScale.png" align="middle"><b> Dragon Scale</b></p>
     <p><b>Clue</b>: Usually found when a lot of magic is lingering.</p>
     <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
-    <p><b>Requirement</b>: R116+, Play as Dragon</p>
+    <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dragon</p>
     <p><b>Chance</b>: (x / 2500)%, where x is active spells</p>
 <?php include "../scripts/footer.html"; ?>

@@ -295,19 +295,19 @@ div#images div{
 <p><b>Dwarven</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BeardHair.png" align="middle"><b> Beard Hair</b></p>
 <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
-<p><b>Requirement</b>: R116+, Play as Dwarf</p>
+<p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dwarf</p>
 <p><b>Chance</b>: (x / 100000000 (100M))%, where x is assistant count</p>
 <br/>
 <p><b>Drow</b>:
 <p><img src="http://musicfamily.org/realm/Factions/picks/PoisonVial.png" align="middle"><b> Poison Vial</b></p>
 <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
-<p><b>Requirement</b>: R116+, Play as Drow</p>
+<p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Drow</p>
 <p><b>Chance</b>: (x / 10000000 (10M))%, where x is combo strike production bonus</p>
 <br/>
 <p><b>Dragon</b>:
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonScale.png" align="middle"><b> Dragon Scale</b></p>
 <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
-<p><b>Requirement</b>: R116+, Play as Dragon</p>
+<p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dragon</p>
 <p><b>Chance</b>: (x / 2500)%, where x is active spells</p>
 <hr>
 <p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
@@ -318,7 +318,6 @@ div#images div{
 <p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
 <p><b>Formula</b>: (x ^ 0.9), where x is Royal Exchange bonus.</p>
 <br/>
-<p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"><b> Drow Set</b></p>
 <p><b>Requirement</b>: R116+</p>
 <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
@@ -326,7 +325,6 @@ div#images div{
 <p><b>Effect</b>: Increase offline production based on evil spells cast (this R).</p>
 <p><b>Formula</b>: (0.75 * x ^0.75 ), where x is total evil spells cast (this R).</p>
 <br/>
-<p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonSet.png" align="middle"><b> Dragon Set</b></p>
 <p><b>Requirement</b>: R116+</p>
 <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p>
