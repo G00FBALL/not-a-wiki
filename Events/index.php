@@ -256,7 +256,7 @@ var x = setInterval(function() {
                 <p><b>Requirement</b>: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.</p>
                 <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
                 <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones while affiliated with the Demons</p>
-                <p><b><img src="/realm/Factions/picks/Indifference2017.png" alt="Indifference" align="middle"> Indifference</b></p>
+                <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
                 <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones or Holy Symbols while affiliated with a Neutral faction</p>
                 <hr>
                 <p><b>Shop Item</b></p>
