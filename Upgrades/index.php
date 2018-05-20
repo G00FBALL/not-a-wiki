@@ -1724,7 +1724,7 @@
             <p><b>Cost</b>: 1 TTg (1E102)
             <p><b>Cost Post Ascension 2</b>: Free
             <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.
-            <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)" coords="6,492,62,548" shape="rect">
+            <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is base mana regen (no spells)
             <p><b>------------------------------</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretUpgrade.png" alt="Underworld Researcher" align="middle"> Underworld Researcher</b></p>
             <p><b>Requirements</b>: Discover all the Underworld researches.

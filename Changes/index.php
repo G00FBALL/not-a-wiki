@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<p><b>v3.2 May ?, 2018</b>
+<p><b>v3.2 May 16, 2018</b>
 <br/>
 <p><b>Fixed</b>
 <p>Setting 8 spells set with same autocast now working</p>
@@ -335,7 +335,7 @@ div#images div{
 <p><b>Added</b>: Prestige Factions</p>
 <p><b>Drow</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
-<p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
+<p><b>Description</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
 <p><b>Requirement</b>: 1 B (1e9) spells cast this game</p>
 <p><b>Cost</b>: 100 Vg (1e65)</p>
 <p><b>Effect</b>: Unlocks 2nd Unique Building for Drow</p>
@@ -380,10 +380,10 @@ div#images div{
 <hr>
 <p><b>Dwarf</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
-<p><b>Discription</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>
+<p><b>Description</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>
 <p><b>Requirement</b>: 5 free excav resets this R</p>
 <p><b>Cost</b>: 100 Vg (1e65)</p>
-<p><b>Effect</b>: Unlocks 2nd Unique Building for Drow</p>
+<p><b>Effect</b>: Unlocks 2nd Unique Building for Dwarf</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastion.png" align="middle"><b> High Bastion Upgrade</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80)</p>
@@ -425,7 +425,7 @@ div#images div{
 
 <p><b>Dragon</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
-<p><b>Discription</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
+<p><b>Description</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
 <p><b>Requirement</b>: 42 active spells</p>
 <p><b>Cost</b>: 1e65</p>
 <p><b>Effect</b>: Unlocks 2nd Unique Building for Dragon</p>
