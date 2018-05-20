@@ -467,7 +467,7 @@ div#images div{
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DraconicSupremacy.png" align="middle"><b> Draconic Supremacy</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on your mana regeneration. </p>
+<p><b>Effect</b>: Increase the production of all buildings based on your max mana.</p>
 <p><b>Formula</b>: (0.6 * x ^ 0.45), where x is mana regeneration.</p>
 <div class="shlisting">
     <div class="shelementwhole">
