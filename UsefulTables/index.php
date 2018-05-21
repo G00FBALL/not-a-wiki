@@ -6,14 +6,15 @@
 <br/>
 <br/>
 <br/>
+<br/><br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bubble Swarm</b></p>
  <a id="Swarming Towers"></a>
     <table class="numtable" align="left" >
         <thead>
+        <tr>
+            <th colspan="2">Bubble Swarm</th>
+        </tr>
         <tr>
             <th>Swarming Towers</th>
             <th>Max Mana</th>
@@ -150,6 +151,9 @@
     <table class="numtable" align="center" >
         <thead>
         <tr>
+            <th colspan="2">Bubble Swarm</th>
+        </tr>
+        <tr>
             <th>Swarming Towers</th>
             <th>Max Mana</th>
         </tr>
@@ -283,11 +287,13 @@
     </table>
         </thead>
 <br style="clear: both"/><hr>
-<p><b>&nbsp;&nbsp;&nbsp;Animal Companions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primal Balance (GB +10)</b></p>
     <a id="Companions"></a>
     <table class="numtable" align="left" >
         <thead>
         <tbody>
+        <tr>
+            <th colspan="2">Animal Companions</th>
+        </tr>
         <tr>
             <td>Hours of Playtime</td>
             <th>Assistants</th>
@@ -358,6 +364,9 @@
     <a id="Primal Balance"></a>
     <table class="numtable"" align="right" >
         <thead>
+        <tr>
+            <th colspan="4">Primal Balance (GB +10)</th>
+        </tr>
         <tr>
             <th>Targets</th>
             <th>A0</th>
@@ -436,14 +445,18 @@
     </table>
 <br style="clear: both"/>
 <hr>
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Titan Challenge 3</b></p>
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lightning Strikes needed per gem count</b></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List provided by <a target="_blank" href="http://www.kongregate.com/accounts/pseudobyte"><b>pseudobyte</b></a>
+<p>List provided by <a target="_blank" href="http://www.kongregate.com/accounts/pseudobyte"><b>pseudobyte</b></a>
     <a id="TC3"></a>
     <table class="numtable" align="left" >
         <thead>
         <tr>
-            <th>Gem Count</th>
+            <th colspan="2">Titan Challenge 3</th>
+        </tr>
+        <tr>
+            <th colspan="2">Lightning Strikes needed</th>
+        </tr>
+        <tr>
+            <th>Your Gem Count</th>
             <th>Lightning Strikes</th>
         </tr>
         </thead>
@@ -553,6 +566,12 @@
     <a id="TC3"></a>
     <table class="numtable" align="right" >
         <thead>
+        <tr>
+            <th colspan="2">Titan Challenge 3</th>
+        </tr>
+        <tr>
+            <th colspan="2">Lightning Strikes needed</th>
+        </tr>
         <tr>
             <th>Gem Count</th>
             <th>Lightning Strikes</th>
