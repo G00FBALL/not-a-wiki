@@ -9,6 +9,7 @@
 <br/><br/>
 <br/>
 <br/>
+<p>Origanal list provided by bobbert can be found <a target="_blank" href="https://pastebin.com/uTSXSpL7"><b>here</b></a>
  <a id="Swarming Towers"></a>
     <table class="numtable" align="left" >
         <thead>
