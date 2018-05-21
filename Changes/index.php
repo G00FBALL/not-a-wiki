@@ -87,7 +87,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Added Effect</b>: Increase assistants based on the amount of time spent as a random faction. Updates every 3 minutes.</p>
-<p><b>Formula</b>: ( 3 * x ^ 0.6), where x is random faction all time in seconds.</p>
+<p><b>Formula</b>: (50 * x ^ 0.5), where x is random faction all time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenUnion.png" alt="Elven Union" align="middle"> <b>Elven Union</b></p>
 <p><b>Effect Requirement</b>: R111+
