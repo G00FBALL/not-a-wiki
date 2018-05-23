@@ -111,7 +111,7 @@
                 <p>E10,E400,
                 <p>A1,A120,A175,
                 <p>W50,W205
-                <p><b>Notes</b>: akes estimated time of 12 hours to lineage, and another 8 hours to SS7.
+                <p><b>Notes</b>: Takes estimated time of 12 hours to lineage, and another 8 hours to SS7.
          </div>
     </div>
          </div>
@@ -179,7 +179,7 @@
                 </div>
            </div>
                <div class="shelementwhole">
-                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="Blue"> Good</font></a></b></p>
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                    <div class="autohide">
                        <p><b>Author</b>: Jgchan29
                        <p><b>Range</b>: ? Gems+
