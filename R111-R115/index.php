@@ -176,6 +176,26 @@
                 <p>A50,A250,
                 <p>W225,W1375
                 <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
+                </div>
+           </div>
+               <div class="shelementwhole">
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="Blue"> Good</font></a></b></p>
+                   <div class="autohide">
+                       <p><b>Author</b>: Jgchan29
+                       <p><b>Range</b>: ? Gems+
+                       <p><b>Faction</b>: Faceless
+                       <p><b>Bloodline</b>: Drow
+                       <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S251,S375,S400,C400,D150,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
+                       <p>S251,S375,S400,
+                       <p>C400,
+                       <p>D150,D260,
+                       <p>E320,E350,
+                       <p>A300,A3400,
+                       <p>W275,W1375
+                       <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
+                       <p><b>Notes</b>: Works faster if able to afford Art of the Crow (1e42 (1 Td) gems+)
          </div>
     </div>
         </div>
