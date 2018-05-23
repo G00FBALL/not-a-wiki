@@ -312,7 +312,7 @@
             <td>5 Qavg (5e75)</p>A1+ Free</td>
             <td>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.</td>
             <td>Increase mana regeneration and maximum mana by 15%.</td>
-            <td>After joining each stage wait about 10 seconds before Abdicating.You Abdicate or Reincarnate and the timer starts, from then you have 15 minutes to join the three factions</td>
+            <td>After joining each stage wait about 10 seconds before Abdicating.You Abdicate or Reincarnate and the timer starts, from then you have 15 minutes total to join the three factions.</td>
         </tr>
         <tr>
             <td><center>Coin Pillage</p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png"></td>
