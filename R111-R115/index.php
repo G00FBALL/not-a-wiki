@@ -127,13 +127,15 @@
                 <p><b>Artifact Set</b>: Goblin
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S225,S3200,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S225,S400,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build"> S400 is 100K+
                 <p>S225,S3200,
                 <p>C340,
                 <p>D25,D245,
                 <p>E10,E400,
                 <p>A1,A120,A175,
                 <p>W50,W205
-                <p><b>Notes</b>: Takes estimated time of 12 hours to lineage, and another 8 hours to SS7.
+                <p><b>Notes</b>: Takes estimated time of 12 hours to lineage and another 8 hours to SS7.
          </div>
     </div>
          </div>
