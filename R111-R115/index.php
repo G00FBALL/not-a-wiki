@@ -51,28 +51,6 @@
                 <p>A30,A120,
                 <p>W1375
                 <p><b>Notes</b>: Replace E1325 with E400 if R115.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e37 (10 Ud) - 1e42 (1 Td) Gems
-                <p><b>Faction</b>: Fairy
-                <p><b>Bloodline</b>: Undead
-                <p><b>Artifact Set</b>: Fairy
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A120,W1375" id="Build"> Sunforce FC active
-                <p>S1,S180,S3200,
-                <p>C10,C400,
-                <p>D225,D245,
-                <p>E50,E400,
-                <p>A30,A120,
-                <p>W1375
-                <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
-                <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
                 </div>
            </div>
                <div class="shelementwhole">
@@ -95,6 +73,28 @@
                        <p>W1375
                        <p><b>Notes</b>: Takes estimated time of 1 hour to SS7.
                        <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7<font color="Blue"> Good</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Artcrow
+                              <p><b>Range</b>: 1e37 (10 Ud) - 1e42 (1 Td) Gems
+                              <p><b>Faction</b>: Fairy
+                              <p><b>Bloodline</b>: Undead
+                              <p><b>Artifact Set</b>: Fairy
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A120,W1375" id="Build"> Sunforce FC active
+                              <p>S1,S180,S3200,
+                              <p>C10,C400,
+                              <p>D225,D245,
+                              <p>E50,E400,
+                              <p>A30,A120,
+                              <p>W1375
+                              <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
+                              <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
          </div>
     </div>
         <div class="shelementwhole">
