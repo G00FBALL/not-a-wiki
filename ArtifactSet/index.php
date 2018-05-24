@@ -188,7 +188,7 @@
     <p><b>Artifacts Required</b>: Glyph Table, Stone Of Balance, Branch of the Life Tree</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase production of all buildings based on their quantity.</p>
-    <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is building count.</p>
+    <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is building count (NOT effected by build count multipliers).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GlyphTable.png" alt="Artifacts" align="middle"><b> Glyph Table</b></p>
     <p><b>Clue</b>: Balance your buildings.</p>
