@@ -3,8 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
+<br/>
 <h6>Hot Keys / Shortcuts</h6>
-<b><p>Spells</p></b>
+<br/>
+<h6>Spells</h6>
+<p><b>Casting</b></p>
 <p><b>#1</b>: Tax Collection</p>
 <p><b>#2</b>: Call to Arms</p>
 <p><b>#3</b>: 3rd Spell</p>
@@ -14,13 +17,18 @@
 <p><b>#7</b>: 7th Spell</p>
 <p><b>#8</b>: 8th Spell</p>
 <br/>
-<b><p>Buildings</p></b>
+<p><b>Tiers</b>: R42+</p>
+<p><b>X +click spell</b>: This will set each spell 1 tier at at time and back to 0</p>
+<p><b>Z +click spell</b>: This will set each spell to it's maxumine tier and will not take it to 0</p>
+<br/>
+<h6>Buildings</h6>
 <p>You will need to disable BuyMax Button in options to use hotkeys for buildings</p>
 <p><b>Buy 1</b>: Click spell</p>
 <p><b>Buy 10</b>: CTRL +click spell</p>
 <p><b>Buy 100</b>: SHIFT +click spell</p>
 <p><b>Buy 1000</b>: X +click spell</p>
 <p><b>Buy Max</b>: CTRL, SHIFT +click spell</p>
+<br/>
 <hr>
 <h6>Terminology</h6>
 <p>Below is a list of acronyms and terms used in Realm Grinder.</p>
