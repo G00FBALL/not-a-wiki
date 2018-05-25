@@ -4,26 +4,19 @@
 <head>
     <link rel="stylesheet" href="http://musicfamily.org/realm/scripts/2.css"></link>
     <style>
-        table.numtable {
-            border-collapse: collapse;
-        }
-
-        .numtable th,.numtable td {
-            border: 1px solid #000000;
-        }
-
         .numtable tr:hover {
             background-color: #ffffff
         }</style>
     <?php include "../scripts/header.html"; ?>
 </head>
-<b>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <h8>Table of Suffixes</h8>
+<center><img src="http://musicfamily.org/realm/Factions/picks/scientificnotationtable.png"></center>
     <table class="numtable">
+        <thead>
+        <tr>
+            <th colspan="11">Table of Suffixes</th>
+        </tr>
+        </thead>
+        <tbody>
         <thead>
         <tr>
             <th></th>
@@ -54,7 +47,7 @@
             <td>1 No (1e30)</td>
         </tr>
         <tr>
-            <td><strong>-d</strong></td>
+            <td><strong>d</strong></td>
             <td>1 Dc (1e33)</td>
             <td>1 Ud (1e36)</td>
             <td>1 Dd (1e39)</td>
@@ -67,7 +60,7 @@
             <td>1 Nod (1e60)</td>
         </tr>
         <tr>
-            <td><strong>-vg</strong></td>
+            <td><strong>vg</strong></td>
             <td>1 Vg (1e63)</td>
             <td>1 Uvg (1e66)</td>
             <td>1 Dvg (1e69)</td>
@@ -80,7 +73,7 @@
             <td>1 Novg (1e90)</td>
         </tr>
         <tr>
-            <td><strong>-tg</strong></td>
+            <td><strong>tg</strong></td>
             <td>1 Tg (1e93)</td>
             <td>1 Utg (1e96)</td>
             <td>1 Dtg (1e99)</td>
@@ -93,7 +86,7 @@
             <td>1 Notg (1e120)</td>
         </tr>
         <tr>
-            <td><strong>-qag</strong></td>
+            <td><strong>qag</strong></td>
             <td>1 Qag (1e123)</td>
             <td>1 Uqag (1e126)</td>
             <td>1 Dqag (1e129)</td>
@@ -106,7 +99,7 @@
             <td>1 Noqag (1e150)</td>
         </tr>
         <tr>
-            <td><strong>-qig</strong></td>
+            <td><strong>qig</strong></td>
             <td>1 Qig (1e153)</td>
             <td>1 UQig (1e156)</td>
             <td>1 DQig (1e159)</td>
@@ -119,7 +112,7 @@
             <td>1 NoQig (1e180)</td>
         </tr>
         <tr>
-            <td><strong>-sxg</strong></td>
+            <td><strong>sxg</strong></td>
             <td>1 Sxg (1e183)</td>
             <td>1 USxg (1e186)</td>
             <td>1 DSxg (1e189)</td>
@@ -132,7 +125,7 @@
             <td>1 NoSxg (1e210)</td>
         </tr>
         <tr>
-            <td><strong>-spg</strong></td>
+            <td><strong>spg</strong></td>
             <td>1 Spg (1e213)</td>
             <td>1 USpg (1e216)</td>
             <td>1 DSpg (1e219)</td>
@@ -145,7 +138,7 @@
             <td>1 NoSpg (1e240)</td>
         </tr>
         <tr>
-            <td><strong>-ocg</strong></td>
+            <td><strong>ocg</strong></td>
             <td>1 Ocg (1e243)</td>
             <td>1 UOcg (1e246)</td>
             <td>1 DOcg (1e249)</td>
@@ -158,7 +151,7 @@
             <td>1 NoOcg (1e270)</td>
         </tr>
         <tr>
-            <td><strong>-nog</strong></td>
+            <td><strong>nog</strong></td>
             <td>1 Nog (1e273)</td>
             <td>1 UNog (1e276)</td>
             <td>1 DNog (1e279)</td>
@@ -171,18 +164,21 @@
             <td>1 NoNog (1e300)</td>
         </tr>
         <tr>
-            <td><strong>-c</strong></td>
+            <td><strong>c</strong></td>
             <td>1 C (1e303)</td>
             <td>1 Uc (1e306)</td>
         </tr>
         </tbody>
     </table>
-    <p></p>
-    <h8><a id="Full_List_of_Numbers_16"></a>Full List of Numbers</h8>
+<br/>
     <table class="numtable">
         <thead>
         <tr>
-
+            <th colspan="4">Full List of Numbers</th>
+        </tr>
+        </thead>
+        <thead>
+        <tr>
             <th>Full Number</th>
             <th>Short Scale</th>
             <th>Scientific</th>
