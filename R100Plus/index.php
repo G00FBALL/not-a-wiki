@@ -22,7 +22,7 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Druid
-                      <p><b>Artifact Set</b>: Undead (if avaliable)
+                      <p><b>Artifact Set</b>: Druid (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C340,D150,D275,E260,E1425,A250,A251,A375,W350,W1375" id="Build">
                     <p>S3200,
@@ -41,7 +41,7 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
-                    <p><b>Artifact Set</b>: Undead (if avaliable), Elf (if buffed)
+                    <p><b>Artifact Set</b>: Druid (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D150,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -149,53 +149,6 @@
                 <p><b>Notes</b>: Range will also depend on your FC12, Uniformity, R108, and the 1 gift. It may be close to R gems. If it is, a 2nd chained production Brainwave would be enough.</p>
                 </div>
            </div>
-            </div>
-                    <br/>
-    <p><b>Tested at R113 e44 Gems</b></p>
-    <div class="category">
-   <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Undead Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-        <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: ? gems
-                <p><b>Alignment</b>: Neutral, Proof of Balance
-                <p><b>Requirements</b>: Undead Set
-                <p><b>Faction</b>: Druid
-                <p><b>Bloodline</b>: Undead
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S3200,C300,C1325,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
-                <p>S3200,
-                <p>C300,C1325,
-                <p>D245,D275,
-                <p>E260,E1425,
-                <p>A251,A375,A400,
-                <p>W350,W1375
-                </div>
-           </div>
-         </div>
-         <br/>
-           <p><b>Tested at R112 5e43 Gems</b></p>
-           <div class="category">
-   <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Angel Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-        <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: ? gems
-                <p><b>Alignment</b>: Neutral, Proof of Balance
-                <p><b>Requirements</b>: Undead Set
-                <p><b>Faction</b>: Druid
-                <p><b>Bloodline</b>: Angel
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A120,A251,A375,W350,W1375" id="Build">
-                <p>S3200,
-                <p>C300,C400,
-                <p>D245,D275,
-                <p>E260,E1425,
-                <p>A120,A251,A375,
-                <p>W350,W1375
-                <p><b>Requires</b>: Buffed Angel Bloodline (spells cast this R). Angel Lineage Goblin S400 buff should be best for this. Production won't be much higher than Undead Lineage without a large S400 buff.
-     </div>
-</div>
             </div>
                     <br/>
     <p><b>Special Builds</b></p>

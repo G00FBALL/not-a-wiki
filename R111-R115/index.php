@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated May. 23rd 2018</b>
-    <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
+    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.2</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
@@ -51,28 +51,50 @@
                 <p>A30,A120,
                 <p>W1375
                 <p><b>Notes</b>: Replace E1325 with E400 if R115.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e37 (10 Ud) - 1e42 (1 Td) Gems
-                <p><b>Faction</b>: Fairy
-                <p><b>Bloodline</b>: Undead
-                <p><b>Artifact Set</b>: Fairy
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A120,W1375" id="Build"> Sunforce FC active
-                <p>S1,S180,S3200,
-                <p>C10,C400,
-                <p>D225,D245,
-                <p>E50,E400,
-                <p>A30,A120,
-                <p>W1375
-                <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
-                <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
+                </div>
+           </div>
+               <div class="shelementwhole">
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7 rush<font color="Blue"> Good</font></a></b></p>
+                   <div class="autohide">
+                       <p><b>Author</b>: Artcrow
+                       <p><b>Range</b>: 1e33 (1 Dc) - 1e37 (10 Ud) Gems
+                       <p><b>Faction</b>: Fairy
+                       <p><b>Bloodline</b>: Undead
+                       <p><b>Artifact Set</b>: Fairy
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A3400,W1375" id="Build"> Sunforce FC active
+                       <p>S1,S180,S3200,
+                       <p>C10,C400,
+                       <p>D225,D245,
+                       <p>E50,E400,
+                       <p>A30,A120,
+                       <p>W1375
+                       <p><b>Notes</b>: Takes estimated time of 1 hour to SS7.
+                       <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7<font color="Blue"> Good</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Artcrow
+                              <p><b>Range</b>: 1e37 (10 Ud) - 1e42 (1 Td) Gems
+                              <p><b>Faction</b>: Fairy
+                              <p><b>Bloodline</b>: Undead
+                              <p><b>Artifact Set</b>: Fairy
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A120,W1375" id="Build"> Sunforce FC active
+                              <p>S1,S180,S3200,
+                              <p>C10,C400,
+                              <p>D225,D245,
+                              <p>E50,E400,
+                              <p>A30,A120,
+                              <p>W1375
+                              <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
+                              <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
          </div>
     </div>
         <div class="shelementwhole">
@@ -105,13 +127,15 @@
                 <p><b>Artifact Set</b>: Goblin
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S225,S3200,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S225,S400,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build"> S400 is 100K+
                 <p>S225,S3200,
                 <p>C340,
                 <p>D25,D245,
                 <p>E10,E400,
                 <p>A1,A120,A175,
                 <p>W50,W205
-                <p><b>Notes</b>: akes estimated time of 12 hours to lineage, and another 8 hours to SS7.
+                <p><b>Notes</b>: Takes estimated time of 12 hours to lineage and another 8 hours to SS7.
          </div>
     </div>
          </div>
@@ -176,6 +200,47 @@
                 <p>A50,A250,
                 <p>W225,W1375
                 <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
+                </div>
+           </div>
+               <div class="shelementwhole">
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                   <div class="autohide">
+                       <p><b>Author</b>: Jgchan29
+                       <p><b>Range</b>: ? Gems+
+                       <p><b>Faction</b>: Faceless
+                       <p><b>Bloodline</b>: Drow
+                       <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S251,S375,S400,C400,D150,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
+                       <p>S251,S375,S400,
+                       <p>C400,
+                       <p>D150,D260,
+                       <p>E320,E350,
+                       <p>A300,A3400,
+                       <p>W275,W1375
+                       <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
+                       <p><b>Notes</b>: Works faster if able to afford Art of the Crow (1e42 (1 Td) gems+)
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf union buff build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Necrodoom
+                              <p><b>Range</b>: ? Gems+
+                              <p><b>Faction</b>: Faceless
+                              <p><b>Bloodline</b>: Undead
+                              <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
+                              <p>S251,S375,S400,
+                              <p>C400,
+                              <p>D200,D260,
+                              <p>E320,E350,
+                              <p>A300,A3400,
+                              <p>W275,W1375
+                              <p><b>Notes</b>: Significally buffed by sunforce faction coins.
+                              <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
+                              <p><b>Notes</b>: Estimated time to L30 is unknown.
          </div>
     </div>
         </div>

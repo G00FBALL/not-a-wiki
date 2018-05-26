@@ -186,7 +186,7 @@
 <p><b>Effect</b>: Increase production based on Royal Exchanges made this game.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (10 * x ^1.05), where x is royal exchanges this game</p>
-<p><b>Alignment</b>: Evil-Drow, Proof of Order, Balance, Chaos</p>
+<p><b>Alignment</b>: Evil-Drow, and Proof of Order, Balance, or Chaos</p>
 <p><b>Requirement</b>: R116+, Brothel Quest (1 B (1e9) spells cast this game)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" alt="High Bastion" align="middle"></p>
@@ -194,7 +194,7 @@
 <p><b>Effect</b>: production based on clicks made in this reincarnation.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R.</p>
-<p><b>Alignment</b>: Good-Dwarf, Proof of Order, Balance, Chaos</p>
+<p><b>Alignment</b>: Good-Dwarf, and Proof of Order, Balance, or Chaos</p>
 <p><b>Requirement</b>: R116+, High Bastion Quest (5 free excav resets this R)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" alt="Dragon Pasture" align="middle"></p>
@@ -202,6 +202,6 @@
 <p><b>Effect</b>: Increase production based on your max mana.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
-<p><b>Alignment</b>: Neutral-Dragon, Proof of Order, Balance, Chaos</p>
+<p><b>Alignment</b>: Neutral-Dragon, and Proof of Order, Balance, or Chaos</p>
 <p><b>Requirement</b>: R116+, Dragon Pasture Quest (42 active spells)</p>
 <?php include "../scripts/footer.html"; ?>
