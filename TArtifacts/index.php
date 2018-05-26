@@ -4,23 +4,22 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophiesTopPage.png"></h6>
 <p><b>Artifact Trophies</b>
-<p><b>Note</b>: All Artifact Trophies are (All Time)
+<p><b>Note</b>: All Artifact Trophies are (All Time)</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1Artifact.png" alt="1 Artifact" align="middle"> 1 Artifact</b></p>
 <p><b>Requirement</b>: Find 1 Artifact</p>
-<p>------------------------------</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/5Aritfacts.png" alt="5 Aritfacts" align="middle"> 5 Aritfacts</b></p>
 <p><b>Requirement</b>: Find 5 Artifacts</p>
-<p>------------------------------</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/10Artifacts.png" alt="10 Artifacts" align="middle"> 10 Artifacts</b></p>
 <p><b>Requirement</b>: Find 10 Artifacts</p>
-<p>------------------------------</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/20Artifacts.png" alt="20 Artifacts" align="middle"> 20 Artifacts</b></p>
 <p><b>Requirement</b>: Find 20 Artifacts</p>
-<p>------------------------------</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/35Artifacts.png" alt="35 Artifacts" align="middle"> 35 Artifacts</b></p>
 <p><b>Requirement</b>: Find 35 Artifacts</p>
-<p>------------------------------</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/50Artifacts.png" alt="50 Artifacts" align="middle"> 50 Artifacts</b></p>
 <p><b>Requirement</b>: Find 50 Artifacts</p>
-<p>------------------------------</p>
 <?php include "../scripts/footer.html"; ?>

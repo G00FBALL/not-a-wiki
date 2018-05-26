@@ -87,7 +87,7 @@
 <p>Upgraded from Stronghold</p>
 <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)</p>
-<p><b>Requirement</b>: Research, R46 + 4500 Iron Strongholds
+<p><b>Requirement</b>: Research, R46 + 4500 Iron Strongholds</p>
 <hr>
 <p><b>Mercenary</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoodMercUniqueBuilding.png" alt="GoodMerc" align="middle"> <b>Good Alignment</b></p>

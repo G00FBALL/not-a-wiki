@@ -10,14 +10,14 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">foofyderpface</a></b></p>
             <div class="autohide">
-                <p><b>foofyderpface</b>: i just accidentally got C340 without realizing i have 910 M rubies
-                <p><b>lauriesrank</b>: 910000000 seems excessive
-                <p><b>JAN 22 - 6:07PM</b>
-                <p><b>foofyderpface</b>: what bl should i do
-                <p><b>ivanovich1998</b>: druid
-                <p><b>foofyderpface</b>: why druid
-                <p><b>ivanovich1998</b>: after r40 always druidline
-                <p><b>ivanovich1998</b>: because spell tiers
+                <p><b>foofyderpface</b>: i just accidentally got C340 without realizing i have 910 M rubies</p>
+                <p><b>lauriesrank</b>: 910000000 seems excessive</p>
+                <p><b>JAN 22 - 6:07PM</b></p>
+                <p><b>foofyderpface</b>: what bl should i do</p>
+                <p><b>ivanovich1998</b>: druid</p>
+                <p><b>foofyderpface</b>: why druid</p>
+                <p><b>ivanovich1998</b>: after r40 always druidline</p>
+                <p><b>ivanovich1998</b>: because spell tiers</p>
                 <p><b>JAN 22 - 6:08PM</b>
                 <p><b>foofyderpface</b>: boi my mana regen is actually over 9000 base
                 <p><b>foofyderpface</b>: so not druid

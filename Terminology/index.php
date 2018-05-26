@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <br/>
 <h6>G00F's Not a Wiki</h6>
-<p><b>G00F's Not a Wiki</b>: NaW
+<p><b>G00F's Not a Wiki</b>: NaW</p>
 <br/>
 <h6>Hot Keys / Shortcuts</h6>
 <br/>
@@ -61,18 +61,18 @@
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
-<p><b>Fairyline</b>: Fairy Bloodline
-<p><b>Angeline</b>: Angel Bloodline
-<p><b>Elfline</b>: Elf Bloodline
-<p><b>Gobline</b>: Goblin Bloodline
-<p><b>Undeadline</b>: Undead Bloodline
-<p><b>Demonline</b>: Demon Bloodline
-<p><b>Titanline</b>: Titan Bloodline
-<p><b>Druidline</b>: Druid Bloodline
-<p><b>Faceline</b>: Faceless Bloodline
-<p><b>Dwarfline</b>: Dwarf Bloodline
-<p><b>Drowline</b>: Drow Bloodline
-<p><b>Dragonline</b>: Dragon Bloodline
+<p><b>Fairyline</b>: Fairy Bloodline</p>
+<p><b>Angeline</b>: Angel Bloodline</p>
+<p><b>Elfline</b>: Elf Bloodline</p>
+<p><b>Gobline</b>: Goblin Bloodline</p>
+<p><b>Undeadline</b>: Undead Bloodline</p>
+<p><b>Demonline</b>: Demon Bloodline</p>
+<p><b>Titanline</b>: Titan Bloodline</p>
+<p><b>Druidline</b>: Druid Bloodline</p>
+<p><b>Faceline</b>: Faceless Bloodline</p>
+<p><b>Dwarfline</b>: Dwarf Bloodline</p>
+<p><b>Drowline</b>: Drow Bloodline</p>
+<p><b>Dragonline</b>: Dragon Bloodline</p>
 <hr>
 <h6>Research Facilities</h6>
 <p><b>Short and long names</b></p>
