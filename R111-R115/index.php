@@ -62,7 +62,7 @@
                        <p><b>Bloodline</b>: Undead
                        <p><b>Artifact Set</b>: Fairy
                              <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A3400,W1375" id="Build">
+                             <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
                              <p><button onclick="myFunction($(this))">Copy Build</button>
                              <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A3400,W1375" id="Build"> Sunforce FC active
                        <p>S1,S180,S3200,
