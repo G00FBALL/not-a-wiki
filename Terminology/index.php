@@ -4,6 +4,8 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <br/>
+<h6>G00F's Not a Wiki</h6>
+<p><b>'s Not a Wiki</b>: NaW
 <h6>Hot Keys / Shortcuts</h6>
 <br/>
 <h6>Spells</h6>
