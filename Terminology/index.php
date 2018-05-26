@@ -56,11 +56,25 @@
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
 <hr>
+<h6>Bloodlines</h6>
+<p><b>Faction Name +line</b>: Faction names may be shortened</p>
+<p><b>Fairyline</b>: Fairy Bloodline
+<p><b>Angeline</b>: Angel Bloodline
+<p><b>Elfline</b>: Elf Bloodline
+<p><b>Gobline</b>: Goblin Bloodline
+<p><b>Undeadline</b>: Undead Bloodline
+<p><b>Demonline</b>: Demon Bloodline
+<p><b>Titanline</b>: Titan Bloodline
+<p><b>Druidline</b>: Druid Bloodline
+<p><b>Faceline</b>: Faceless Bloodline
+<p><b>Dwarfline</b>: Dwarf Bloodline
+<p><b>Drowline</b>: Drow Bloodline
+<p><b>Dragonline</b>: Dragon Bloodline
+<hr>
 <h6>Research Facilities</h6>
 <p><b>Short and long names</b></p>
 <p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, and <b>W</b>=Warfare,</p>
 <h6>Factions</h6>
-<p><b>Faction Name +line</b>: Bloodline (eg: Angelline/Angeline for Angel Bloodline)</p>
 <p><b>Fairy (3,2)</b>: Simplifies notation of Faction upgrades. The first number represents the tier, and the second the position.</p>
 <p>For combined Faction names, the prestiges' precede and is shortened to whatever sounds best.</p>
 <p><b>Dwangels</b>: Dwarf+Angel</p>
