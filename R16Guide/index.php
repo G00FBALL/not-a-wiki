@@ -43,7 +43,7 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
     <p><b>Cost</b>: 1 coin</p>
     <p><b>Note</b>: Does not work while offline.</p>
 <hr>
-<p><b>Note</b>: Get to 100 Uvg (1e68) gems before starting to unlock research.</p>
+<p><b>Note</b>: Get to 100 Dvg (1e71) gems before starting to unlock research.</p>
 <p><b>Note</b>: Good Alignment, Elf/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
 <p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 8 hours offline time as Undead to unlock a research.</p>
 <p>You can use <b>Mercenary</b> to get to the required gem level. suggested (Elven Farms build to e68)</p>
