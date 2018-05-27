@@ -62,7 +62,7 @@
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Beard Hair (Dwarf Artifact) Excavator build<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Beard Hair (Dwarf Artifact) Excavator build<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: 1e42 (1 Qad) Gems+
@@ -81,7 +81,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 buff build)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 buff build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: ?
