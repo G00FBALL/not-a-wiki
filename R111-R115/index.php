@@ -54,7 +54,7 @@
                 </div>
            </div>
                <div class="shelementwhole">
-                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless SS7 Rush<font color="Blue"> Good</font></a></b></p>
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless SS7 Rush<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                    <div class="autohide">
                        <p><b>Author</b>: Crocketeer
                        <p><b>Range</b>: 1e32 (100 No) - 1e37 (10 Ud) Gems
