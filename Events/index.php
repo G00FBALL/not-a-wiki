@@ -182,6 +182,36 @@ var x = setInterval(function() {
     <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="132,260,188,318" shape="rect">
     </map></p>
     <hr>
+
+<style>
+  div#images{
+  width:100%;
+  text-align:left;
+}
+div#images div{
+  display:inline-block;
+}
+</style>
+<p><b><center>Event Mana Colors</center></b></p>
+<br>
+<div id="images">
+  <div>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleValentine.png" width="54%" height="54%" /></center>
+    <center><b>Valentine</b></center>
+  </div>
+  <div>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleEaster.png" width="54%" height="54%" /></center>
+    <center><b>Easter</b></center>
+  </div>
+  <div>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleBloodwar.png" width="54%" height="54%" /></center>
+    <center><b>Blood War</b></center>
+  </div>
+</div>
+<br>
+<p><b>Requirement</b>: If you unlock all of the event's feats, you will permanently unlock a new color option for the mana bar from that event.</p>
+<p>Once unlocked these can be changed in the Event tab.</p>
+    <hr>
     <p><b>Events</b></p>
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2018 Events</a></b></p>
