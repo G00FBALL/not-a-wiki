@@ -33,7 +33,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FragmentofaTitanStatue.png" alt="Fragment of a Titan Statue" align="middle"><b> Fragment of a Titan Statue</b></p>
 <p><b>Type</b>: Upgrade</p>
 <p><b>Requirement</b>: 2 Ancient Stone Slabs, 300 Halls of Legends</p>
-<p><b>Cost</b>: 1 No (1E30), ,25,000 Angel Coins, , 25,000 Goblin Coins</p>
+<p><b>Cost</b>: 1 No (1E30), ,25,000 Angel Coins, 25,000 Goblin Coins</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutralityFactionUpgrade.png" alt="Proof of Neutrality" align="middle"><b> Proof Of Neutrality</b></p>
 <p><b>Type</b>: Alignment Upgrade</p>
