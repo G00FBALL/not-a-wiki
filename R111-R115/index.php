@@ -54,25 +54,23 @@
                 </div>
            </div>
                <div class="shelementwhole">
-                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7 rush<font color="Blue"> Good</font></a></b></p>
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless SS7 Rush<font color="Blue"> Good</font></a></b></p>
                    <div class="autohide">
-                       <p><b>Author</b>: Artcrow
-                       <p><b>Range</b>: 1e33 (1 Dc) - 1e37 (10 Ud) Gems
-                       <p><b>Faction</b>: Fairy
-                       <p><b>Bloodline</b>: Undead
-                       <p><b>Artifact Set</b>: Fairy
+                       <p><b>Author</b>: Crocketeer
+                       <p><b>Range</b>: 1e32 (100 No) - 1e37 (10 Ud) Gems
+                       <p><b>Faction</b>: Faceless
+                       <p><b>Bloodline</b>: Dragon
+                       <p><b>Artifact Set</b>: Goblin
                              <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
-                             <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A3400,W1375" id="Build"> Sunforce FC active
-                       <p>S1,S180,S3200,
-                       <p>C10,C400,
-                       <p>D225,D245,
-                       <p>E50,E400,
-                       <p>A30,A120,
+                             <input type="text" value="S251,S375,S3200,C340,D245,D260,E350,E1425,A250,A300,W275,W1375" id="Build">
+                       <p>S251,S375,S3200,
+                       <p>C340,
+                       <p>D245,D260,
+                       <p>E350,E1425,
+                       <p>A250,A300,
                        <p>W1375
-                       <p><b>Notes</b>: Takes estimated time of 1 hour to SS7.
-                       <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
+                       <p><b>Notes</b>: Takes estimated time of 2-5 hours to SS7.
+                       <p><b>Notes</b>: Do W275 buffing before running this build.
                        </div>
                   </div>
                       <div class="shelementwhole">
