@@ -75,6 +75,7 @@
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R)</p>
 <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
+<br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b> (Spell Upgrade)</p>
 <p><b>Requirement</b>: Freemason's Hall</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>

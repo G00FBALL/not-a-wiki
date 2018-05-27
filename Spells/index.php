@@ -1,6 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <style>
+        .numtable tr:hover {
+            background-color: #ffffff
+        }</style>
 <head>
     <style>
         .calculator table {
@@ -20,7 +24,7 @@
         }
 
         .calculator tr:hover {
-            background-color: #b3bcc6
+            background-color: #ffffff
         }
 
         .calculator table {
@@ -80,7 +84,6 @@
             </tr>
             </thead>
         </table>
-        <form style="background-color:#b3bcc6">
             <table id="calcformtiers" border="0">
                 <tr>
                     <td>Tiers</td>
@@ -250,7 +253,7 @@
     <p>Offline spell casting upgrades (such as included in the 'Priority Auto-casting' upgrade)</p>
     <p>The bonuses are additional. The total bonus of all the offline auto-casting upgrades is 7 spell casts per minute and 90% of your online mana regeneration rate.</p>
     <hr>
-    <h6>All Alignment and Faction Spells</h6>
+    <p><b><center>All Alignment and Faction Spells</center></b></p>
     <p><b>All Spells Tiers</b></p>
     <p><b>Note</b>: Each tier also increase offline production based on mana statistics. (Not Tax Collection)</p>
     <p><b>Formula</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.</p>
@@ -408,8 +411,8 @@
             </div>
         </div>
     </div>
-       <br/>
-    <h6>Secondary Alignment/Proof Spells</h6>
+       <hr>
+    <p><b><center>Secondary Alignment/Proof Spells</center></b></p>
                 <p><b>Proof of Order</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxSpell.png" alt="Temporal Flux" align="middle"></p>
                 <p><b>Requirement</b>: Ascension 2</p>
@@ -442,9 +445,9 @@
                 <p><b>Formula</b>: floor(0.2*x^0.6), where x is mana per seconds.</p>
                 <p><b>Factions</b></p>
                 <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
-    </br>
-    <h6>Alignment Spells</h6>
-    <p><b>Faction Spell</b>: Tax Collection</p>
+    <hr>
+    <p><b><center>Alignment Spells</center></p></b>
+    <p><b>Mercenary</b>: Tax Collection</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Mercenary Good Alignment</b></p>
     <p><b>Requirement</b>: Mercenary Camp</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
@@ -538,8 +541,8 @@
             </div>
         </div>
     </div>
-    </br>
-    <h6>Faction Spells</h6>
+    <hr>
+    <p><b><center>Faction Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Good" align="middle"> Fairy Chanting</b> (Fairies)</p>
     <p><b>Works For</b>: Fairy - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 10 seconds </p>
     <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50'000%</p>
@@ -850,7 +853,7 @@
     <p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
     <p><b>Challenge Upgrade</b>: Primal Balance, Grand Balance now affects extra buildings based on total mana spent.</p>
     <p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced and A is Ascension (Total this R).</p>
-
+<br/>
     <a id="Primal Balance"></a>
     <table class="numtable">
         <thead>
@@ -918,19 +921,24 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragons Breath</b> (Dragon)</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 30 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)</p>
-    <p><b>Name</b>: Dragon's Breath
+    <p><b>Name</b>: Dragon's Breath</p>
     <p><b>Effect</b>: With the Spell Dragon's Roar upgrade produces Faction Coins based on this spell activity time.</p>
     <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
     <p><b>Requirement</b>: Dragons Trade Treaty</p>
     <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
     <p><b><font color="darkred">Formula</b></font>: 2 * (ln(1 + X) ^ 2),where x is Faction Coins found in this game.</p>
+    </br>
     <p><b><font color="darkgreen">Green</b></font>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
     <p><b><font color="darkgreen">Formula</b></font>: (0.01 * x^0.625 * (11-T)^5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
+    </br>
     <p><b><font color="darkblue">Blue</b></font>: Increase your mana regeneration by 200%</p>
+    </br>
     <p><b><font color="white">White</b></font>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
     <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7)</p>
+    </br>
     <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
     <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.</p>
+    </br>
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b></p>
     <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.</p>
     <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds</p>

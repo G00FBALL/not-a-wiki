@@ -2957,7 +2957,7 @@
 </div>
 <hr>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (58)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (59)</a></b></p>
             <div class="autohide">
 <p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
 <p><b>Requirement</b>: Have exactly 1337 Coins at any given time.
@@ -3375,7 +3375,87 @@
 <p><b>Formula</b>: 0.7 * min(x ,y, z. s, t ,u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
 <p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Note</b>: Equality is needed for offline unlock.</p>
-    </div>
+ <br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
+<p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
+<p><b>Effect</b>: Gives upgrade with the same name.</p>
+<br/>
+<p><b> Art of the Crow Upgrade</b></p>
+<p><b>Requirement</b>: Faction and Set Alignments has to match to buy the upgrade (Evil, Good, Neutral).</p>
+<p><b>Cost</b>: 1 Qavg (1.0e75)</p>
+<br>
+<style>
+  div#images{
+  width:100%;
+  text-align:left;
+}
+div#images div{
+  display:inline-block;
+}
+</style>
+<p><b>Alignments</b></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Proof of Order</b>
+<div id="images">
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderGood.png" width="54" height="54" />
+    <center>Good</center>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderEvil.png" width="54" height="54" />
+    <center>Evil</center>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCOrderNeutral.png" width="54" height="54" />
+    <center>Neutral</center>
+  </div>
+</div>
+<p><b>Effect</b>: Multiplicatively increase max mana.</p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Proof of Chaos</b>
+<br>
+<div id="images">
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosGood.png" width="54" height="54" />
+    <center>Good</center>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosEvil.png" width="54" height="54" />
+    <center>Evil</center>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCChaosNeutral.png" width="54" height="54" />
+    <center>Neutral</center>
+  </div>
+</div>
+<p><b>Effect</b>: Multiplicatively increase assistants.</p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Proof of Balance</b>
+<br>
+<div id="images">
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceGood.png" width="54" height="54" />
+    <center>Good</center>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceEvil.png" width="54" height="54" />
+    <center>Evil</center>
+  </div>
+  <div>
+  <img src="http://musicfamily.org/realm/Factions/picks/AotCBalanceNeutral.png" width="54" height="54" />
+    <center>Neutral</center>
+  </div>
+</div>
+<p><b>Balance</b>: Multiplicatively increase mana regeneration.</p>
+<br>
+<p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
+<p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
+<br/>
+<p><b>Evil Effect</b>: The amount increased is based on time spent in this game.</p>
+<p><b>Formula</b>: (4 * x ^ 0.44), where x is time spent this game.</p>
+<br/>
+<p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
+<p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
+   </div>
 </div>
             </div>
      </div>

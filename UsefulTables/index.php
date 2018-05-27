@@ -446,7 +446,7 @@
     </table>
 <br style="clear: both"/>
 <hr>
-<p>List provided by <a target="_blank" href="http://www.kongregate.com/accounts/pseudobyte"><b>pseudobyte</b></a>
+<center><p>List provided by <a target="_blank" href="http://www.kongregate.com/accounts/pseudobyte"><b>pseudobyte</b></a></center>
     <a id="TC3"></a>
     <table class="numtable" align="left" >
         <thead>
