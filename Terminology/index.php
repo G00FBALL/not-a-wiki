@@ -26,11 +26,11 @@
 <br/>
 <h6>Buildings</h6>
 <p>You will need to disable BuyMax Button in options to use hotkeys for buildings</p>
-<p><b>Buy 1</b>: Click spell</p>
-<p><b>Buy 10</b>: CTRL +click spell</p>
-<p><b>Buy 100</b>: SHIFT +click spell</p>
-<p><b>Buy 1000</b>: X +click spell</p>
-<p><b>Buy Max</b>: CTRL, SHIFT +click spell</p>
+<p><b>Buy 1</b>: Click building</p>
+<p><b>Buy 10</b>: CTRL +click building</p>
+<p><b>Buy 100</b>: SHIFT +click building</p>
+<p><b>Buy 1000</b>: X +click building</p>
+<p><b>Buy Max</b>: CTRL, SHIFT +click building</p>
 <br/>
 <hr>
 <h6>Terminology</h6>
