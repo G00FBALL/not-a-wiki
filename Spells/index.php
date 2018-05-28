@@ -725,12 +725,12 @@
     <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
     <p><b>Challenge Upgrade</b>: Hellfire Burst, Reduces Hellfire Blast mana cost based on the number of trophies you have unlocked.</p>
     <p><b>Formula</b>: floor(0.25 * x), where x is the amount of trophies unlocked.</p>
+    <p><b>Effect</b>: Hell Fire Blast will make Evil spells cast count 50% more for all purposes per tier while active.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Hellfire Blast Tier 2-7</a></b></p>
             <div class="autohide">
                 <p><b>Faction Coins Needed</b> Demon</p>
-                <p><b>Effect</b>: Hell Fire Blast will make Evil spells cast count %1% more for all purposes per tier.</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier2.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 2</p>
                 <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier3.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 3</p>

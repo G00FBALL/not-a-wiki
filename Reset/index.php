@@ -15,7 +15,7 @@
 <p>Finally, enriched with all the experiences through many reincarnations and lives, we reach the ultimate state of wisdom and are able to ascend, to walk the heaven as mortal.</p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Abdication.png" alt="Abdication" align="middle"></h6>
-<p>Abdicating is the 1st kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production.</p>
+<p>Abdicating is the first kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production.</p>
 <p>Abdicating will reset all buildings, upgrades and coins, but you will keep your trophies and be awarded with gems that will boost your production. Otherwise, you may also spend Rubies to gain Gems without resetting!</p>
 <p><b> Gems to Coins Formula</b>: n * (n + 1) * 5E11(5E3 in A2), where n is gems</p>
 <p><b><a target="" href="http://musicfamily.org/realm/Abdication/">More about Abdication</b></a></p>
@@ -26,7 +26,7 @@
 <p><b><a target="" href="http://musicfamily.org/realm/Reincarnation/">More about Reincarnation</b></a></p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Ascend.png" alt="Ascend" align="middle"></h6>
-<p>Ascension is a 3rd kind of soft reset. It was implemented to over come the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
+<p>Ascension is a third kind of soft reset. It was implemented to over come the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
 <p>At the end of R39 and R99 the Reincarnation Button will say Ascension.</p>
 <p>Ascending will reset all the progress a Reincarnation would reset.</p>
 <p><b><a target="" href="http://musicfamily.org/realm/Ascension/">More about Ascension</b></a></p>
