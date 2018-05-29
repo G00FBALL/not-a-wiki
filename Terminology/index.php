@@ -5,7 +5,11 @@
 <?php include "../scripts/header.html"; ?>
 <br/>
 <h6>G00F's Not a Wiki</h6>
+<br/>
+<br/>
+<br/>
 <p>Below is a list of acronyms, terms, and shortcuts used in Realm Grinder.</p>
+<br/>
 <p><b>G00F's Not a Wiki</b>: NaW</p>
 <br/>
 <h6>Hot Keys / Shortcuts</h6>
