@@ -86,7 +86,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercityFactionUpgrade.png" alt="Smiley face" align="middle"> Undercity</b></p>
 <p>Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>:  (10 * (2x)0.^75)%, where x is your Playtime (This Game) stat.</p>
+<p><b>Formula</b>: 12 * (2.5 * x) ^ 0.75, where x is your Playtime (This Game) stat.</p>
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Undercities Quest"</p>
