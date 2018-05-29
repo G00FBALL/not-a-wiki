@@ -110,7 +110,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Very Bad Build R12-R13<font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Very Bad Build R12-R13<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
               <p><b>Requirements</b>: Mana Waste, Helden Sterben Nicht, KYE Part 1
                 <p><b>Alignment</b>: Evil
