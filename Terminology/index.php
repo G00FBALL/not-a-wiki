@@ -29,6 +29,11 @@
 <p><b>X +click spell</b>: This will set each spell 1 tier at a time and back to 0</p>
 <p><b>Z +click spell</b>: This will set each spell to it's maxumine tier and will not take it to 0</p>
 <br/>
+<h6>Autocasting</h6>
+<p><b>Gold</b>: SHIFT +click spell</p>
+<p><b>Silver</b>: CTRL +click spell</p>
+<p><b>Bronze</b>: CTRL +SHIFT +click spell</p>
+<br/>
 <h6>Buildings</h6>
 <p>You will need to disable BuyMax Button in options to use hotkeys for buildings</p>
 <p><b>Buy 1</b>: Click building</p>
