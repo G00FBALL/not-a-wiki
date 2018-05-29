@@ -5,6 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <br/>
 <h6>G00F's Not a Wiki</h6>
+<p>Below is a list of acronyms, terms, and shortcuts used in Realm Grinder.</p>
 <p><b>G00F's Not a Wiki</b>: NaW</p>
 <br/>
 <h6>Hot Keys / Shortcuts</h6>
@@ -21,7 +22,7 @@
 <p><b>#8</b>: 8th Spell</p>
 <br/>
 <p><b>Tiers</b>: R42+</p>
-<p><b>X +click spell</b>: This will set each spell 1 tier at at time and back to 0</p>
+<p><b>X +click spell</b>: This will set each spell 1 tier at a time and back to 0</p>
 <p><b>Z +click spell</b>: This will set each spell to it's maxumine tier and will not take it to 0</p>
 <br/>
 <h6>Buildings</h6>
@@ -34,7 +35,6 @@
 <br/>
 <hr>
 <h6>Terminology</h6>
-<p>Below is a list of acronyms and terms used in Realm Grinder.</p>
 <h6>Soft-Resets & Stats</h6>
 <p><b>A Run</b>: refers to a game between abdications.</p>
 <p><b>A Session</b>: refers to a game between reincarnations.</p>
