@@ -13,7 +13,7 @@
 <p><b>Faction Spell</b>: Lightning Strike</p>
 <p><b>Effect</b>: The production of a random building is multiplied by 300% for each Iron Stronghold.</p>
 <p><b>Effect</b>: Also grants Faction Coins depending on your current amount of gems.</p>
-<p><b>Formula</b>: round(1.75*ln(1+x)^3), where x is your current gems.</p>
+<p><b>Formula</b>: round(1.5 * ln(1 + x) ^ 3), where x is your current gems.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Lightning Storm</b></p>
 <p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.</p>
