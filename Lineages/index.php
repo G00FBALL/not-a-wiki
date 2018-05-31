@@ -318,7 +318,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk1.png" align="middle"><b> Druid Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: increases Non-Unique buildings production based on time spent in this game.</p>
-    <p><b>Formula</b>: 0.015 * x ^ 1.025 where x is seconds (this game)</p>
+    <p><b>Formula</b>: 0.15 * x ^ 1.025 where x is seconds (this game)</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x50 more Elven and Demon Faction Coin find chance.</p>
