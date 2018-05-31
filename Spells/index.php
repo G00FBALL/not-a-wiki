@@ -782,12 +782,12 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/LightningStrike.png" alt="Neutral" align="middle"> Lightning Strike</b> (Titans)</p>
     <p><b>Works For</b>: Titan - <b>Cost</b>: 900 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: The production of a random building is multiplied by 300% for each Iron Stronghold. Also grants Faction Coins depending on your current amount of gems.</p>
-    <p><b>Formula</b>: round(1.75*ln(1+x)^3), where x is your current gems.</p>
+    <p><b>Formula</b>: round(1.5 * ln(1 + x) ^ 3), where x is your current gems.</p>
     <p><b>Spell Trophy & Upgrade</b>: <b>Lightning Storm</b></p>
     <p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.</p>
     <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
     <p><b>Challenge Upgrade</b>: Thunderstorm, Lightning Strike now grants more Faction Coins based on your Faction Coin find chance.</p>
-    <p><b>Formula</b>: round(1.75*ln(1+x)^3), where x is your current gems.</p>
+    <p><b>Formula</b>: round(1.75 * ln(1 + x) ^ 3), where x is your current gems.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Lightning Strike Tier 2-7</a></b></p>
