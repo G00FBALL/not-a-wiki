@@ -3985,12 +3985,166 @@
                     <p>A30,A120,
                     <p>W1375
                     <p><b>Notes</b>: Note: Get to exactly 8333 Swarming Towers.
-            </div>
         </div>
-        <p><b>A collection of artcrow's A2 builds, please feel free to test these builds and let us know what you find.</b></p>
+     </div>
+   <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Undead<font color="DarkRed"> Evil</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Range</b>: ? gems
+                <p><b>Alignment</b>: Evil, Proof of Order
+                <p><b>Requirements</b>: Undead Set Artifact, Drow Lineage Level 30
+                <p><b>Faction</b>: Undead
+                <p><b>Bloodline</b>: Drow
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S225,S3200,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build">
+                <p>S225,S3200,
+                <p>C340,
+                <p>D25,D245,
+                <p>E10,E400,
+                <p>A1,A120,A175,
+                <p>W50,W205
+                <p><b>Notes</b>: Druid Challenge 4 off for Combo Strike count. On during Production or Sun Force Faction Coins.
+                <p><b>Notes</b>: Long setup time (? hours).
+                <p><b>Notes</b>: Highly benefits from gifts.
+                </div>
+           </div>
+   <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Dragon Lineage Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Range</b>: ? gems
+                <p><b>Alignment</b>: Neutral, Proof of Chaos
+                <p><b>Requirements</b>: Undead Set
+                <p><b>Faction</b>: Faceless
+                <p><b>Bloodline</b>: Dragon
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S251,S375,S3200,C340,D245,D260,E350,E1425,A250,A300,W275,W1375" id="Build">
+                <p>S251,S375,S3200,
+                <p>C340,
+                <p>D245,D260,
+                <p>E350,E1425,
+                <p>A250,A300,
+                <p>W275,W1375
+                <p><b>Notes</b>: Range will also depend on your FC12, Uniformity, R108, and the 1 gift. It may be close to R gems. If it is, a 2nd chained production Brainwave would be enough.</p>
+
+                </div>
+           </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Empty Lord (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Range</b>: e32 (100 No) gems+
+                    <p><b>Requirements</b>: Undead Set Artifact
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Drow
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1275,C50,C400,D10,D150,E230,E1325,A25,A120,W1,W175,W205" id="Build">
+                    <p>S1275,
+                    <p>C50,C400,
+                    <p>D10,D150,
+                    <p>E230,E1325,
+                    <p>A25,A120,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Disable druid challenge 4 reward, put Blood Frenzy, Hellfire Blast and Combo Strike on autocast, with Blood Frenzy as first, as well as all tiers.
+                    </div>
+             </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Bomb (GB11 Build) 1e30 (1 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: LcplSpanky
+                    <p><b>Requirements</b>: Ziggurat unlock
+                    <p><b>Range</b>: 1e30 (1 No) Gems
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
+                    <p><b>Faction</b>: Druid
+                    <p><b>Bloodline</b>: Faceless
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C300,C1325,D200,D275,E260,E320,A251,A375,A400,W350,W1375" id="Build">
+                    <p>S400,
+                    <p>C300,C1325,
+                    <p>D200,D275,
+                    <p>E260,E320,
+                    <p>A251,A375,A400,
+                    <p>W350,W1375
+                    <p><b>Notes</b>: Estimated time of 5 days to get GB11.
+         </div>
+    </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Nuke (GB11 build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: Fabi676
+                <p><b>Range</b>: 1e30 (1 No) Gems
+                <p><b>Requirements</b>: Undead Set Artifact
+                <p><b>Alignment</b>: Neutral, Proof of Balance
+                <p><b>Faction</b>: Druid
+                <p><b>Bloodline</b>: Drow
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S3200,C300,C1325,D275,D3350,E250,E260,A251,A375,A400,W350,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S3200,C300,C1325,D275,D3350,E260,E1325,A251,A375,A400,W350,W1375" id="Build"> 3 gifts, GB11
+                <p>S3200,
+                <p>C300,C1325,
+                <p>D275,D3350,
+                <p>E250,E260,
+                <p>A251,A375,A400,
+                <p>W350,W1375
+                <p><b>Notes</b>: Estimated time of 1 day to get GB11. (highly varies with gifts).
+                <p><b>Notes</b>: Replace E250 with E1325 if you have all 3 gifts and are going for just GB11.
+                <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts or high Drow Lineage level.
+        </div>
+   </div>
+   <div class="shelementwhole">
+       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Day of the Dead (Multi Purpose Build)<font color="DarkRed"> Evil</font></a></b></p>
+       <div class="autohide">
+               <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
+               <p><b>Author</b>: Artcrow
+               <p><b>Range</b>: ? Gems
+               <p><b>Requirements</b>: Undead Set Artifact
+               <p><b>Alignment</b>: Evil, Proof of Order
+               <p><b>Faction</b>: Undead
+               <p><b>Bloodline</b>: Drow
+                 <p><button onclick="myFunction($(this))">Copy Build</button>
+                 <input type="text" value="S225,S3200,C400,D25,D3350,E10,E135,A1,A120,A175,W50,W205" id="Build">
+               <p>S225,S3200,
+               <p>C400,
+               <p>D25,D3350,
+               <p>E10,E135,
+               <p>A1,A120,A175,
+               <p>W50,W205
+               <p><b>Notes</b>: Estimated time of 20 days to get Mana Spring (At Drow L25 and no gifts)
+               <p><b>Notes</b>: Estimated time of 1 month to get Drow Lineage level 30 (Requires Ancestral Hourglass, E45 (1 Qad) gems+, R113+)
+               <p><b>Notes</b>: Use this build for S400 buffing instead of the regular S400 builds if you have at least 2 gifts/high (L30+) Drow Lineage level and for long runs (3 days+).
+               <p><b>Notes</b>: Use this build for W275 buffing instead of the regular W275 builds if you have at least 2 gifts/high (L30+) Drow Lineage level.
+        </div>
+    </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonborn (Dragon L30 Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+               <p><b>Good for</b>: Mana Spring, Drow L30, S400 buffing, W275 buffing
+               <p><b>Author</b>: Necrodoom
+               <p><b>Range</b>: ? Gems
+               <p><b>Requirements</b>: Angel Set Artifact, Drow Lineage Level 30
+               <p><b>Alignment</b>: Neutral, Proof of Balance
+               <p><b>Faction</b>: Druid
+               <p><b>Bloodline</b>: Dragon
+                 <p><button onclick="myFunction($(this))">Copy Build</button>
+                 <input type="text" value="S3200,C300,C400,D150,D275,E260,E320,A251,A375,A400,W350,W1375" id="Build">
+               <p>S3200,
+               <p>C300,C400,
+               <p>D150,D275,
+               <p>E260,E320,
+               <p>A251,A375,A400,
+               <p>W350,W1375
+               <p><b>Notes</b>: Estimated time of 7 days for SS7.
+               <p><b>Notes</b>: Swap S3200 with S400 if S400 is at least ?
+               <p><b>Notes</b>: Estimated time for Dragon lineage L30 is ?
+        </div>
+      </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
                 <div class="autohide">
+        <p><b>A collection of artcrow's A2 builds, please feel free to test these builds and let us know what you find.</b></p>
         <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-will-be-updated-to-3-0-2-on-sunday?page=14#posts-11718140"><b>here</b></a></p>
         <p>More <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-updated-to-3-0-2?page=16#posts-11746797"><b>info</b></a> on these builds</p>
                         <p>I tested a bunch of high gem A2 builds with buffs. The tests should be reasonably accurate. I took several shortcuts and all the builds have less Tax Collections cast and Faction coins gained than they would in actual runs.
@@ -4148,11 +4302,10 @@
                         <p>~30 Qivg/s, ~11 days Neutral, Time Warps to 15 days
              </div>
         </div>
-    </div>
-    <p><b>Tested at R113 e44 Gems</b></p>
-    <div class="category">
-   <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Undead Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+<br/>
+<div class="shelementwhole">
+     <p><b>Tested at R113 e44 Gems</b></p>
+       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Undead Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: ? gems
@@ -4170,12 +4323,10 @@
                 <p>W350,W1375
                 </div>
            </div>
-         </div>
          <br/>
-           <p><b>Tested at R112 5e43 Gems</b></p>
-           <div class="category">
    <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Angel Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p><b>Tested at R112 5e43 Gems</b></p>
+       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">SS7 Angel Lineage Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: ? gems
