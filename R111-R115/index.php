@@ -119,7 +119,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
-                <p><b>Faction</b>: Undead
+                <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
