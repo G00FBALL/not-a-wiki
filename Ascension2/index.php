@@ -153,7 +153,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Multiplicative gain assistants based on total time spent as Order.</p>
-<p><b>Formula</b>: (20 * x ^ 0.7), where x is seconds this R.</p>
+<p><b>Formula</b>: (2 * x ^ 0.7), where x is seconds this R.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
 <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
