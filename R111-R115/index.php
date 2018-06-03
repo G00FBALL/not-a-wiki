@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated May. 23rd 2018</b>
+    <p><b>Updated June 3rd 2018</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.2</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -98,8 +98,8 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e41 (100 Dd) - ? Gems
+                <p><b>Author</b>: Ensteffahn
+                <p><b>Range</b>: 1e41 (100 Dd) - 1e47 (100 Qad) Gems
                 <p><b>Faction</b>: Faceless
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
@@ -113,38 +113,37 @@
                 <p>W275,W1375
                 <p><b>Notes</b>: Takes estimated time of 2-5 hours to SS7.
                 <p><b>Notes</b>: Do W275 buffing before running this build.
-         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e45 (1 Qad) - ? Gems
+                <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
                 <p><b>Faction</b>: Undead
                 <p><b>Bloodline</b>: Dragon
-                <p><b>Artifact Set</b>: Goblin
+                <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S225,S3200,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S225,S400,C340,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build"> S400 is 100K+
-                <p>S225,S3200,
-                <p>C340,
-                <p>D25,D245,
-                <p>E10,E400,
-                <p>A1,A120,A175,
-                <p>W50,W205
-                <p><b>Notes</b>: Takes estimated time of 12 hours to lineage and another 8 hours to SS7.
+                      <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build">
+                <p>S10,S400,
+                <p>C25,C340,
+                <p>D1,D175,D245,
+                <p>E400,
+                <p>A50,A120,
+                <p>W225,W1375
+                <p><b>Notes</b>: Takes estimated time of 3-4 days to SS7.
+                <p><b>Notes</b>: Buffing Elf set and S400 before running this build is highly recommended.
          </div>
     </div>
          </div>
+    </div>
         <br/>
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 rush buff build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 1e51 (1 Sxd) Gems
+                <p><b>Range</b>: ? Gems
                 <p><b>Faction</b>: Faceless
                 <p><b>Bloodline</b>: Undead
                 <p><b>Artifact Set</b>: Undead
@@ -160,9 +159,9 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 buff build)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Artcrow
+                <p><b>Author</b>: Jgchan29
                 <p><b>Range</b>: 1e43 (10 Td) Gems+
                 <p><b>Faction</b>: Goblin
                 <p><b>Bloodline</b>: Dragon
@@ -177,18 +176,38 @@
                 <p>E1,E135,E225,
                 <p>A10,A120,
                 <p>W25,W205
-                <p><b>Notes</b>: Use S400 for runs of over 3(?) days.
-
+                <p><b>Notes</b>: Use S400 for runs of over 3+ days.
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff build)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Elves (Elf Set buff)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: jgchan29
+                <p><b>Range</b>: ? Gems+
+                <p><b>Faction</b>: Elf
+                <p><b>Bloodline</b>: Dragon
+                <p><b>Artifact Set</b>: Elf
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E135,A400,W10,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S400,C1,C225,C400,D50,D290,E25,E135,A400,W10,W1375" id="Build"> AotC
+                <p>S175,S3200,
+                <p>C1,C225,C400,
+                <p>D50,D290,
+                <p>E25,E135,
+                <p>A400,
+                <p>W10,W1375
+                <p><b>Notes</b>: If buffed AotC is affordable, S3200 -> S400? Not that it matters as long as you can cast Moon Blessing.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Jgchan29
                 <p><b>Range</b>: 1e45 (1 Qad) Gems+
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Dwarf
-                <p><b>Artifact Set</b>: Angel
+                <p><b>Artifact Set</b>: Angel, Elf (if buffed)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S10,S400,C25,C340,D1,D150,D175,E1325,A50,A250,W225,W1375" id="Build">
                 <p>S10,S400,
@@ -200,6 +219,30 @@
                 <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
                 </div>
            </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Necrodoom
+                              <p><b>Range</b>: ? Gems+
+                              <p><b>Faction</b>: Faceless
+                              <p><b>Bloodline</b>: Undead
+                              <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
+                              <p>S251,S375,S400,
+                              <p>C400,
+                              <p>D200,D260,
+                              <p>E320,E350,
+                              <p>A300,A3400,
+                              <p>W275,W1375
+                              <p><b>Notes</b>: Significally buffed by sunforce faction coins.
+                              <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
+                              <p><b>Notes</b>: Estimated time to L30 is unknown.
+         </div>
+    </div>
+         </div>
+        <br/>
+    <div class="category">
                <div class="shelementwhole">
                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                    <div class="autohide">
@@ -218,27 +261,6 @@
                        <p>W275,W1375
                        <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
                        <p><b>Notes</b>: Works faster if able to afford Art of the Crow (1e42 (1 Td) gems+)
-                       </div>
-                  </div>
-                      <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf union buff build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                          <div class="autohide">
-                              <p><b>Author</b>: Necrodoom
-                              <p><b>Range</b>: ? Gems+
-                              <p><b>Faction</b>: Faceless
-                              <p><b>Bloodline</b>: Undead
-                              <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
-                              <p>S251,S375,S400,
-                              <p>C400,
-                              <p>D200,D260,
-                              <p>E320,E350,
-                              <p>A300,A3400,
-                              <p>W275,W1375
-                              <p><b>Notes</b>: Significally buffed by sunforce faction coins.
-                              <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
-                              <p><b>Notes</b>: Estimated time to L30 is unknown.
          </div>
     </div>
         </div>
