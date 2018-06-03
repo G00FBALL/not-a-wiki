@@ -77,7 +77,7 @@
 <p><b>W225</b> - <b>For Angel</b> - <b>Research Name</b>: Critical Strike</p>
 <p><b>Requirement</b>: Research Dueling (W10) &amp; Transfixion (D55)</p>
 <p><b>Cost</b>: 2.087 Qaqig (2.087E165)</p>
-<p><b>Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.</p>
+<p><b>Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.(This R)</p>
 <p><b>Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light Active Time This Game in seconds.</p>
 <br/>
 <p><b>W250</b> - <b>For All Factions</b> - <b>Research Name</b>: Swarming</p>

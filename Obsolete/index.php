@@ -3967,7 +3967,7 @@
             </div>
 </div>
     </div>
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100+</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100 - R110</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275<font color="Blue"> Good</font></a></b></p>
@@ -4027,7 +4027,6 @@
                 <p>A250,A300,
                 <p>W275,W1375
                 <p><b>Notes</b>: Range will also depend on your FC12, Uniformity, R108, and the 1 gift. It may be close to R gems. If it is, a 2nd chained production Brainwave would be enough.</p>
-
                 </div>
            </div>
         <div class="shelementwhole">
@@ -4139,8 +4138,11 @@
                <p><b>Notes</b>: Estimated time of 7 days for SS7.
                <p><b>Notes</b>: Swap S3200 with S400 if S400 is at least ?
                <p><b>Notes</b>: Estimated time for Dragon lineage L30 is ?
-        </div>
-      </div>
+            </div>
+</div>
+    </div>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110 - R115</a></b></p>
+        <div class="category autohide">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R110+ e90+ Gems</a></b></p>
                 <div class="autohide">
