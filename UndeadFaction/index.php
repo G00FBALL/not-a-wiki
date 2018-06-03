@@ -34,7 +34,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png" alt="Smiley face" align="middle"> Death Temples</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
 <p><b>Effect</b>: Dark Temples also increase your mana production rate.</p>
-<p><b>Formula</b>: x^0.28, where x is the number of Dark Temples you own.</p>
+<p><b>Formula</b>: x ^0.28, where x is the number of Dark Temples you own.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Friendship Pact</b></p>
@@ -44,7 +44,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" alt="Smiley face" align="middle"> Unholy Rituals</b></p>
 <p><b>Cost</b>: 500 B (5E11)</p>
 <p><b>Effect</b>: Increase offline production based on your total time spent being offline.</p>
-<p><b>Formula</b>: round((20 * x) ^ 0.7)%, where x is your Time Spent Offline (Total) stat in hours.</p>
+<p><b>Formula</b>: round((25 * x) ^ 0.75)%, where x is your Time Spent Offline (Total) stat in hours.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" alt="Smiley face" align="middle"> Corpse Supply</b></p>
 <p><b>Cost</b>: 5 T (5E12)</p>
