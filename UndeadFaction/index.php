@@ -53,7 +53,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" alt="Smiley face" align="middle"> Plagued Buildings</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
-<p><b>Effect</b>: Increase the production of all buildings by an additional 35% per hour of playtime in this game.</p>
+<p><b>Effect</b>: Increase the production of all buildings by an additional 50% per hour of playtime in this game.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Alliance</b></p>
