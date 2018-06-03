@@ -81,7 +81,7 @@
                     </div>
                </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b> Obsolete?</p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
         <div class="autohide">
                 <p><b>Author</b>: ensteffahn
                 <p><b>Range</b>: 1e42 (1 Td) gems - ? gems
