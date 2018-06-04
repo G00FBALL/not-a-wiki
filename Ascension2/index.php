@@ -833,7 +833,7 @@
 <p><b>Cost</b>: 1e80</p>
 <p><b>Effect</b>: Gives Dragon Pasture Unique Building.</p>
 <br/>
-<p><b>Unquie Building</b>
+<p><b>Unique Building</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
