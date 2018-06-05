@@ -458,7 +458,7 @@
     <p><b>Clue</b>: Combo your way through.</p>
     <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
     <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Drow</p>
-    <p><b>Chance</b>: (x / 10000000 (10M))%, where x is combo strike production bonus</p>
+    <p><b>Chance</b>: (x / 10000000 (10M))%, where x is combo strike production bonus (T1, no A-nerf)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonScale.png" align="middle"><b> Dragon Scale</b></p>
     <p><b>Clue</b>: Usually found when a lot of magic is lingering.</p>
