@@ -157,7 +157,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MabinogionFactionUpgrade.png" align="middle"> Mabinogion</b></p>
 <p><b>Cost</b>: 50 Oc (5E28)</p>
 <p><b>Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: 3.75 * (4.25 * (12 - T)), where T is building tier.</p>
+<p><b>Formula</b>: 3.75 * ((4.25 * (12 - T)) ^ t), where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
 <p><b>Cost</b>: 500 Oc (5E29)</p>
