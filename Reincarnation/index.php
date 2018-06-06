@@ -303,6 +303,8 @@
                 <p><b>R60</b>: Lineages</p>
                 <p><b>R75</b>: Mercenary Research</p>
                 <p><b>R100</b>: Second Ascension, New Alignments</p>
+                <p><b>R111</b>: Base Union Effects</p>
+                <p><b>R111</b>: Prestige Factions</p>
             </div>
         </div>
         <div class="shelementwhole">

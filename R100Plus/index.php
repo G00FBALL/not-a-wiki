@@ -171,7 +171,6 @@
                 <p><b>Notes</b>: Swap E320 with E135 for longer runs (1 day+)
                 <p><b>Notes</b>: Swap S3200 -> S400 for very long runs (10 days+, maybe even more) or if you have Dragon Lineage 30+
                 <p><b>Notes</b>: Estimated time of 10 days for 350k S400 at Dragon Lineage 25.
-                <p><b>Notes</b>: Use Mana Nuke (under 3 days) Day of the Dead (for 3 days+) instead if you have at least 2 gifts/high (L30+) Drow Lineage level.
        </div>
 </div>
         <div class="shelementwhole">

@@ -72,10 +72,10 @@
                   <input type="text" value="EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,SP:Grand Balance,SP:Fairy Chanting" id="Build">
                 <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
                 <p>SP:Grand Balance,SP:Fairy Chanting
-                  <hr>
                 <p>100 Qid (1e50)+, Assistant Legion upgrade
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,SP:Fairy Chanting,SP:Grand Balance" id="Build">
+                  <hr>
                 <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
                 <p>SP:Fairy Chanting,SP:Grand Balance
                 <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold.
