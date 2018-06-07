@@ -30,12 +30,17 @@
 <p><b>Z +click spell</b>: This will set each spell to it's maxumine tier and will not take it to 0</p>
 <p><b>Tooltip</b>: To set autocasting with tooltip go to options and put a X in <b>Enable Spell Tooltip Persist</b>.</p>
 <br/>
-<h6>Autocasting</h6>
+<h6>Autocasting (Windows)</h6>
 <p><b>Gold</b>: SHIFT +click spell</p>
 <p><b>Silver</b>: CTRL +click spell</p>
 <p><b>Bronze</b>: CTRL +SHIFT +click spell</p>
 <br/>
-<h6>Buildings</h6>
+<h6>Autocasting (Mac)</h6>
+<p><b>Gold</b>: SHIFT +click spell</p>
+<p><b>Silver</b>: CMD +click spell</p>
+<p><b>Bronze</b>: CMD +SHIFT +click spell</p>
+<br/>
+<h6>Buildings (Windows)</h6>
 <p>You will need to disable BuyMax Button in options to use hotkeys for buildings</p>
 <p><b>Buy 1</b>: Click building</p>
 <p><b>Buy 10</b>: CTRL +click building</p>
@@ -43,6 +48,13 @@
 <p><b>Buy 1000</b>: X +click building</p>
 <p><b>Buy Max</b>: CTRL +SHIFT +click building</p>
 <br/>
+<h6>Buildings (Mac)</h6>
+<p>You will need to disable BuyMax Button in options to use hotkeys for buildings</p>
+<p><b>Buy 1</b>: Click building</p>
+<p><b>Buy 10</b>: CMD +click building</p>
+<p><b>Buy 100</b>: SHIFT +click building</p>
+<p><b>Buy 1000</b>: X +click building</p>
+<p><b>Buy Max</b>: CMD +SHIFT +click building</p>
 <hr>
 <h6>Terminology</h6>
 <h6>Soft-Resets & Stats</h6>
