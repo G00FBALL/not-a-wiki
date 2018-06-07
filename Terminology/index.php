@@ -36,6 +36,8 @@
 <p><b>Bronze</b>: CTRL +SHIFT +click spell</p>
 <br/>
 <h6>Autocasting (Mac)</h6>
+
+<p><b>Contingency</b>: SHIFT +click mana</p>
 <p><b>Gold</b>: SHIFT +click spell</p>
 <p><b>Silver</b>: CMD +click spell</p>
 <p><b>Bronze</b>: CMD +SHIFT +click spell</p>

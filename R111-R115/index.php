@@ -115,7 +115,7 @@
                 <p><b>Notes</b>: Do W275 buffing before running this build.
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Elf Set)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
@@ -132,6 +132,24 @@
                 <p>W225,W1375
                 <p><b>Notes</b>: Takes estimated time of 3-4 days to SS7.
                 <p><b>Notes</b>: Buffing Elf set and S400 before running this build is highly recommended.
+                </div>
+                    <div class="shelementwhole">
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Angel Set)<font color="Blue"> Good</font></a></b></p>
+                        <div class="autohide">
+                            <p><b>Author</b>: Artcrow
+                            <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
+                            <p><b>Faction</b>: Angel
+                            <p><b>Bloodline</b>: Dragon
+                            <p><b>Artifact Set</b>: Angel
+                                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                                  <input type="text" value="S10,S400,C25,C400,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build">
+                            <p>S10,S400,
+                            <p>C25,C340,
+                            <p>D1,D175,D245,
+                            <p>E400,
+                            <p>A50,A120,
+                            <p>W225,W1375
+                            <p><b>Notes</b>: Takes estimated time of 21 hours to SS7.
          </div>
     </div>
          </div>
