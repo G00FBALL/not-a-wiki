@@ -16,7 +16,7 @@
 <p><b>Cost</b>: At least: 1 Nod (1E60) Coins</p>
 <p><b>Cost</b>: 100,000 of each Faction Coin</p>
 <p>(Price rises with time and is reset at Abdications.)</p>
-<p><b>Coin Formula</b>: 1e60 * (ceil (1+x)/60))^3.5, x is playtime in seconds</p>
+<p><b>Coin Formula</b>: 1e60 * (ceil((1 + x)/60))^3.5, x is playtime in seconds</p>
 <p><b>FC Formula</b>: 100000 * (ceil((1 + x)/60))^0.5, x is playtime in seconds</p>
 <p><b>In Game description</b></p>
 <p>Pay the mercenaries tribute to unlock their powers. Be quick through, the price increases over time!</p>

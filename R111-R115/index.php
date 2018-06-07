@@ -84,7 +84,7 @@
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
                                     <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E1325,A30,A120,W1375" id="Build"> Sunforce FC active
+                                    <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E400,A30,A120,W1375" id="Build"> Sunforce FC active
                               <p>S1,S180,S3200,
                               <p>C10,C400,
                               <p>D225,D245,
@@ -92,7 +92,7 @@
                               <p>A30,A120,
                               <p>W1375
                               <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
-                              <p><b>Notes</b>: Swap C400 with C340 and E400 with E1325 if sunforce FC is active.
+                              <p><b>Notes</b>: Swap C400 with C340 if sunforce FC is active.
          </div>
     </div>
         <div class="shelementwhole">
@@ -136,7 +136,7 @@
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Angel Set)<font color="Blue"> Good</font></a></b></p>
                         <div class="autohide">
-                            <p><b>Author</b>: 
+                            <p><b>Author</b>:
                             <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
                             <p><b>Faction</b>: Angel
                             <p><b>Bloodline</b>: Dragon
@@ -144,7 +144,7 @@
                                   <p><button onclick="myFunction($(this))">Copy Build</button>
                                   <input type="text" value="S10,S400,C25,C400,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build">
                             <p>S10,S400,
-                            <p>C25,C340,
+                            <p>C25,C400,
                             <p>D1,D175,D245,
                             <p>E400,
                             <p>A50,A120,
