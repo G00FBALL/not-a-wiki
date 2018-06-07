@@ -136,7 +136,7 @@
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Angel Set)<font color="Blue"> Good</font></a></b></p>
                         <div class="autohide">
-                            <p><b>Author</b>: Artcrow
+                            <p><b>Author</b>: 
                             <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
                             <p><b>Faction</b>: Angel
                             <p><b>Bloodline</b>: Dragon
