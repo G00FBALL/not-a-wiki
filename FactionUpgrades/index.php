@@ -38,7 +38,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTreasureCastingFactionUpgrade.png" alt="Elven Treasure Casing" align="middle"> Elven Treasure Casing</b></p>
                 <p><b>Mercenary Template</b>: EL2</p>
                 <p><b>Cost</b>: 500 M (5E8)</p>
-                <p><b>Effect</b>: Increase base clicking reward by 250k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
+                <p><b>Effect</b>: Increase base clicking reward by 25k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
                 <p><b>Formula</b>: floor((1+0.05*x)^0.95), where x is your Trophies Unlocked stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" alt="Sylvan Treasure Frills" align="middle"> Sylvan Treasure Frills</b></p>
@@ -665,7 +665,7 @@
                 <p><b>Mercenary Template</b>: FC7</p>
                 <p><b>Cost</b>: 50 Oc (5E28)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: 0.35 * x ^ 0.9, where x is the amount of assistants you own.</p>
+                <p><b>Formula</b>: 0.75 * x ^ 0.75, where x is the amount of assistants you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" alt="Abominations" align="middle"> Abominations</b></p>
                 <p><b>Mercenary Template</b>: FC8</p>

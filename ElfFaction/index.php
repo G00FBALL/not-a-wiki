@@ -28,7 +28,7 @@
 <p><b>Effect</b>: The base chance to find Faction Coins is doubled.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTreasureCastingFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Treasure Casing</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
-<p><b>Effect</b>: Increase base clicking reward by 250k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
+<p><b>Effect</b>: Increase base clicking reward by 25k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
 <p><b>Formula</b>: floor((1+0.05*x)^0.95), where x is your Trophies Unlocked stat.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" alt="Smiley face" align="middle"> Sylvan Treasure Frills</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
