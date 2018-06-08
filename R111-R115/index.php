@@ -133,6 +133,7 @@
                 <p><b>Notes</b>: Takes estimated time of 3-4 days to SS7.
                 <p><b>Notes</b>: Buffing Elf set and S400 before running this build is highly recommended.
                 </div>
+              </div>
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Angel Set)<font color="Blue"> Good</font></a></b></p>
                         <div class="autohide">
