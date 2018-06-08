@@ -222,44 +222,7 @@
         </div>
     </div>
     <br/>
-    <p><b>Prestige Research phase</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R29+<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
-                <p><b>Faction</b>: Undead/Drow</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><button onclick="myFunction($(this))">Copy Build</button>
-                <input type="text" value="S105,S135,S215,S225,S330,C120,C135,C150,C330,C400,D135,D250,D290,D320,D400,E10,E80,E135,E150,E250,A55,A105,A120,A175,A270,W135,W205,W250,W400,W405" id="Build">
-                <p>S105,S135,S215,S225,S330,</p>
-                <p>C120,C135,C150,C330,C400,</p>
-                <p>D135,D250,D290,D320,D400,</p>
-                <p>E10,E80,E135,E150,E250,</p>
-                <p>A55,A105,A120,A175,A270,</p>
-                <p>W135,W205,W250,W400,W405</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
-                <p><b>Faction</b>: Goblin/Drow</p>
-                <p><b>Bloodline</b>: Titan</p>
-                <p><b>Range</b>: 1e126 gems</p>
-                <p><button onclick="myFunction($(this))">Copy Build</button>
-                <input type="text" value="S50,S135,S200,S330,S500,C120,C135,C150,C330,C400,D55,D245,D290,D320,D400,E80,E150,E225,E290,E330,A10,A105,A120,A150,A330,W150,W205,W290,W320,W330" id="Build">
-                <p>S50,S135,S200,S330,S500,</p>
-                <p>C120,C135,C150,C330,C400,</p>
-                <p>D55,D245,D290,D320,D400,</p>
-                <p>E80,E150,E225,E290,E330,</p>
-                <p>A10,A105,A120,A150,A330,</p>
-                <p>W150,W205,W290,W320,W330</p>
-            </div>
-        </div>
-    </div>
     <br/>
-    <br/>
-    <p><b> R40+ special builds are found in their respective reincarnation build section.</b>
+    <p><b> R29+ special builds are found in their respective reincarnation build section.</b>
 </div>
 <?php include "../scripts/footer.html"; ?>
