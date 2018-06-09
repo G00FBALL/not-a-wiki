@@ -324,7 +324,7 @@
         <tr>
             <td><center>Lucifer</p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png"></td>
             <td>50 Vg (5e64)</p>A1+ Free</td>
-            <td>As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</td>
+            <td>As a Good Mercenary, purchase only Evil faction upgrades or vice versa.</td>
             <td>Increase production of all buildings by 300%.</p>A1, 14.9%</td>
             <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Lucifer R3+</b></a> build</td>
         </tr>
