@@ -1919,7 +1919,7 @@
             <p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSpellUpgrade.png" alt="Smiley face" align="middle"><b> Sun Blessing</b>
-            <p><b>Cost</b>: 150 Qi (1.5E20)
+            <p><b>Cost</b>: 1 M (1.E6)
             <p><b>Unlock Requirements</b>: Cast the Elven spell Moon Blessing between 6 am and 12 pm (midnight)
             <p><b>Effect</b>: Autoclicks 15 times per second while Moon Blessing is active.
             <p><b>------------------------------</b></p>
@@ -1939,7 +1939,7 @@
             <p><b>Effect</b>: Goblin's Greed costs 150 less mana.
             <p><b>------------------------------</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightSpellUpgrade.png" alt="Smiley face" align="middle"><b> True Night</b>
-            <p><b>Cost</b>: 11 Sx (1.1E22)
+            <p><b>Cost</b>: 1 M (1.E6)
             <p><b>Unlock Requirements</b>: Cast Undead's Night Time spell between 11 pm and 6 am.
             <p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.
             <p><b>------------------------------</b></p>
