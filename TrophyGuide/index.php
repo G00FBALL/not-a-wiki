@@ -325,7 +325,7 @@
             <td><center>Lucifer</p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png"></td>
             <td>50 Vg (5e64)</p>A1+ Free</td>
             <td>As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</td>
-            <td>Increase production of all buildings by 15% per reincarnation.</p>A1, 14.9%</td>
+            <td>Increase production of all buildings by 300%.</p>A1, 14.9%</td>
             <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Lucifer R3+</b></a> build</td>
         </tr>
         <tr>
@@ -347,7 +347,7 @@
             <td>80 Vg (8e64)</p>A1+ Free</td>
             <td>Have at least 300 mana per second.</td>
             <td>Increase maximum mana by 2%.</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Mana Burst R3+</b></a> build</td>
         </tr>
         <tr>
             <td><center>Mercenary Spirit</p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png"></td>
