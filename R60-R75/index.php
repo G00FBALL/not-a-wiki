@@ -107,13 +107,13 @@
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S375,S400,S500,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D250,D290,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A120,A305,A400,A545,A1325,W150,W180,W250,W400,W1375" id="Build">
+                  <input type="text" value="S105,S375,S400,S500,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D250,D290,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A120,A305,A400,A545,A1325,W150,W180,W275,W400,W1375" id="Build">
                 <p>S105,S375,S400,S500,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
                 <p>D200,D250,D290,D1125,D1275,D1375,
                 <p>E135,E145,E320,E1225,E1425,
                 <p>A120,A305,A400,A545,A1325,
-                <p>W150,W180,W250,W400,W1375
+                <p>W150,W180,W275,W400,W1375
                 <p><b>Notes</b>: Estimated run time is 1.5-2 hours.
          </div>
     </div>
