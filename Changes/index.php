@@ -13,8 +13,8 @@
 <p><b>Changes</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"> Ancestral Hourglass</b></p>
 <p><b>Effect</b>: Lower cost of Lineage level based on time spent this game.FC cost is reset when you purchase a new lineage level.</p>
-<p><b>Old Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.1) - z / 5)) / 10), where x is hours this game, y is lineage level and z is reincarnations.</p>
-<p><b>New Formula</b>:  ((x / 3600) ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations.</p>
+<p><b>Old Formula</b>: (x ^ (1 - 0.01 * ((y ^ 1.1) - z / 5)) / 10), where x is hours this game, y is lineage level and z is reincarnations.</p>
+<p><b>New Formula</b>:  (x ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png align=middle><b> Holy Frenzy</b></p>
 <p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.</p>
