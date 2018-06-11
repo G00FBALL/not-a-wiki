@@ -476,8 +476,8 @@ div#images div{
 <p><b>New Easter Feat</b>: With new reward</p>
 <hr>
 <p><b>Hourglass</b>: Formula changed</p>
-<p><b>Old Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.01) - z / 5) / 10), where x is hours this game (reset when upgrading lineage), y is lineage level and z is reincarnations.</p>
-<p><b>New Formula</b>: ((x / 3600) ^ (1 - 0.01 * ((y ^ 1.1) - z / 5) / 10), where x is hours this game (reset when upgrading lineage), y is lineage level and z is reincarnations.</p>
+<p><b>Old Formula</b>: (x ^ (1 - 0.01 * ((y ^ 1.01) - z / 5) / 10), where x is hours this game (reset when upgrading lineage), y is lineage level and z is reincarnations.</p>
+<p><b>New Formula</b>: (x ^ (1 - 0.01 * ((y ^ 1.1) - z / 5) / 10), where x is hours this game (reset when upgrading lineage), y is lineage level and z is reincarnations.</p>
 <hr>
 <p><b>Undead Set</b>: Formula and Chance changed</p>
 <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
@@ -490,7 +490,7 @@ div#images div{
 <hr>
 <p><b>Elf artifact</b> Chance changed</p>
 <p><b>Raw Emerald</b></p>
-<p><b>Old Chance</b>: ((2 * x ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+<p><b>Old Chance</b>: (((2 * x) ^ 2) / 10000)%, where x is non-ruby excavation resets (this game).</p>
 <p><b>New Chance</b>: (((2 * x) ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
 <hr>
 <p><b>Union Upgrades</b>: Cost changed</p>
