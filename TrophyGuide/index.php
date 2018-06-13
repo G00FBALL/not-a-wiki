@@ -253,14 +253,14 @@
             <td>500 Dc (5e35)</p>A1+ Free</td>
             <td>Purchase 500 Royal Exchanges in a single game.</td>
             <td>Increase Royla Exchange bonus by 5%.</td>
-            <td>This can be done any R but the higher the T the easier it will be.</td>
+            <td>This can be done any R but the higher the R the easier it will be.</td>
         <tr>
        </tr>
             <td><center>Premeditation</p><img src="http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png"></td>
             <td>50 Odc (5e58)</p>A1+ Free</td>
             <td>Buy 850 Dark Temples before purchasing the Drow Trade Treaty.</td>
             <td>Increase maximine mana by 250</td>
-            <td>This can be done any R but the higher the T the easier it will be.</td>
+            <td>This can be done any R but the higher the R the easier it will be.</td>
        </tr>
         <tr>
             <td><center>Realm Digger</p><img src="http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png"></td>

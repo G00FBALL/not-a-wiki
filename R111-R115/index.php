@@ -198,7 +198,7 @@
                 <p>E25,E1325,
                 <p>A400,
                 <p>W10,W1375
-                <p><b>Notes</b>: Swap E1325 with E135 if R115. 
+                <p><b>Notes</b>: Swap E1325 with E135 if R115.
          </div>
     </div>
         <div class="shelementwhole">
@@ -239,11 +239,32 @@
                               <p><b>Notes</b>: Significally buffed by sunforce faction coins.
                               <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
                               <p><b>Notes</b>: Estimated time to L30 is unknown.
-         </div>
-    </div>
+                              </div>
+                         </div>
          </div>
         <br/>
+    <p><b>Artifact Builds</b></p>
     <div class="category">
+                                    <div class="shelementwhole">
+                                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Raw Emerald (Elf Artifact) Excavator build<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                                        <div class="autohide">
+                                            <p><b>Author</b>: OldYouth
+                                            <p><b>Requirements</b>: Art of the Crow Trophy
+                                            <p><b>Range</b>: e45 (1 Qad) Gems+
+                                            <p><b>Faction</b>: Elf
+                                            <p><b>Bloodline</b>: Druid
+                                            <p><b>Artifact Set</b>: Angel
+                                                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                                                  <input type="text" value="S105,S175,C1,C225,C340,D50,D245,E25,E290,A3400,W10,W1375" id="Build">
+                                            <p>S105,S175,
+                                            <p>C1,C225,C340,
+                                            <p>D50,D245,
+                                            <p>E25,E290,
+                                            <p>A3400,
+                                            <p>W10,W1375
+                                            <p><b>Notes</b>: Great for up to 3 free resets.
+         </div>
+    </div>
                <div class="shelementwhole">
                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                    <div class="autohide">
@@ -262,7 +283,6 @@
                        <p>W275,W1375
                        <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
                        <p><b>Notes</b>: Works faster if able to afford Art of the Crow (1e42 (1 Td) gems+)
-         </div>
     </div>
         </div>
        </div>
