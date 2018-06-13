@@ -134,7 +134,6 @@
                 <p><b>Notes</b>: Buffing Elf set, S400 and E290 before running this build is highly recommended.
                 </div>
               </div>
-         </div>
     </div>
          </div>
     </div>
