@@ -118,7 +118,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Elf Set)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
+                <p><b>Range</b>: 1e47 (10 Qad) - ? Gems
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Elf
@@ -130,27 +130,10 @@
                 <p>E400,
                 <p>A50,A120,
                 <p>W225,W1375
-                <p><b>Notes</b>: Takes estimated time of 3-4 days to SS7.
-                <p><b>Notes</b>: Buffing Elf set and S400 before running this build is highly recommended.
+                <p><b>Notes</b>: Takes estimated time of 3-5 days to SS7.
+                <p><b>Notes</b>: Buffing Elf set, S400 and E290 before running this build is highly recommended.
                 </div>
               </div>
-                    <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Angel Set)<font color="Blue"> Good</font></a></b></p>
-                        <div class="autohide">
-                            <p><b>Author</b>:
-                            <p><b>Range</b>: 1e46 (1 Qad) - ? Gems
-                            <p><b>Faction</b>: Angel
-                            <p><b>Bloodline</b>: Dragon
-                            <p><b>Artifact Set</b>: Angel
-                                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                                  <input type="text" value="S10,S400,C25,C400,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build">
-                            <p>S10,S400,
-                            <p>C25,C400,
-                            <p>D1,D175,D245,
-                            <p>E400,
-                            <p>A50,A120,
-                            <p>W225,W1375
-                            <p><b>Notes</b>: Takes estimated time of 21 hours to SS7.
          </div>
     </div>
          </div>
@@ -188,35 +171,35 @@
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S50,S3200,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 3+ days run.
+                      <input type="text" value="S50,S400,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> S400 version.
                 <p>S50,S3200,
                 <p>C175,C400,
                 <p>D200,
                 <p>E1,E135,E225,
                 <p>A10,A120,
                 <p>W25,W205
-                <p><b>Notes</b>: Use S400 for runs of over 3+ days.
+                <p><b>Notes</b>: Use S400 for runs of over 5(?) days, or 2(?) days if dragonline level 30+.
          </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Elves (Elf Set buff)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: jgchan29
+                <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: ? Gems+
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E135,A400,W10,W1375" id="Build">
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E1325,A400,W10,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S400,C1,C225,C400,D50,D290,E25,E135,A400,W10,W1375" id="Build"> AotC
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E135,A400,W10,W1375" id="Build"> R115
                 <p>S175,S3200,
                 <p>C1,C225,C400,
                 <p>D50,D290,
-                <p>E25,E135,
+                <p>E25,E1325,
                 <p>A400,
                 <p>W10,W1375
-                <p><b>Notes</b>: If buffed AotC is affordable, S3200 -> S400? Not that it matters as long as you can cast Moon Blessing.
+                <p><b>Notes</b>: Swap E1325 with E135 if R115. 
          </div>
     </div>
         <div class="shelementwhole">
