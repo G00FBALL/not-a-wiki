@@ -58,10 +58,10 @@
             function CalRBen() {
                 var rei = parseInt($('#ReiCosRei').val());
 				//get Ascension# for Prodnerf
-				if (rei > 40){
+				if (rei > 39){
 				  var asc = 1;
 				  }
-				if (rei > 100){
+				if (rei > 99){
 				  var asc = 2;
 				  }
 				//Reincarnation Perks
@@ -137,7 +137,7 @@
                     $('#R25RE').css('display', 'none');
                 }
                 if (rei >= 41) {
-					var bonus = (rei < 100) ? 1200 * Math.pow(rei, 1.15) : (Math.pow(1 + 12 * Math.pow(rei, 1.15), Math.pow(0.1, (asc - 1))) - 1) * 100;
+		    var bonus = (rei < 100) ? 1200 * Math.pow(rei, 1.15) : (Math.pow(1 + 12 * Math.pow(rei, 1.15), Math.pow(0.1, (asc - 1))) - 1) * 100;
                     $('#R41UniBuiPro').text('Unique Buildings\' production is increased by ' + bonus.toFixed(1) + '%.');
                     $('#R41UniBuiPro').css('display', 'block');
                 } else {
