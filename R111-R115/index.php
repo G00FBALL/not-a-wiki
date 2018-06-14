@@ -113,6 +113,7 @@
                 <p>W275,W1375
                 <p><b>Notes</b>: Takes estimated time of 2-5 hours to SS7.
                 <p><b>Notes</b>: Do W275 buffing before running this build.
+                </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Elf Set)<font color="Blue"> Good</font></a></b></p>
@@ -136,7 +137,6 @@
                 <p><b>Notes</b>: Takes estimated time of 1.5-2 days to SS7.
                 <p><b>Notes</b>: Buffing Elf set, S400 and E290 before running this build is highly recommended.
                 <p><b>Notes</b>: Swap C400 with C340 if high C340 and longer runs (3-5 days to SS7)
-                </div>
               </div>
     </div>
     </div>
@@ -242,7 +242,6 @@
                 <p><b>Notes</b>: Significally buffed by sunforce faction coins.
                 <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
                 <p><b>Notes</b>: Estimated time to L30 is unknown.
-                              </div>
                          </div>
          </div>
     </div>
