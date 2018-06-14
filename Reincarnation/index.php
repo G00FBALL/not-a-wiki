@@ -22,7 +22,7 @@
     <div id="ReiCosCal">
         <table style="width:98%">
             <tr>
-                <th>Complete list of Reincarnation benefits <input id="ReiCosRei" type="number" min="1" max="100" value="1"><span id="R10"> with time(total) <input id="R10TimTot" type="number" min="0" max="876000" value="1"> in hours</span><span id="R20"> and <input id="R20SpeBui" type="number" min="0" max="9999999" value="1">buildings of given type.</span></th>
+                <th>Complete list of Reincarnation benefits <input id="ReiCosRei" type="number" min="1" max="160" value="1"><span id="R10"> with time(total) <input id="R10TimTot" type="number" min="0" max="876000" value="1"> in hours</span><span id="R20"> and <input id="R20SpeBui" type="number" min="0" max="9999999" value="1">buildings of given type.</span></th>
             </tr>
             <tr>
                 <td id="Ben">
@@ -43,6 +43,8 @@
                     <p id="R70AddResSlo"></p>
                     <p id="R85AssPerR"></p>
                     <p id="R100ManRegPerR"></p>
+                    <p id="R108ProdUBTimeDiff"></p>
+                    <p id="R115FCChaMul"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -174,12 +176,25 @@
                 } else {
                     $('#R100ManRegPerR').css('display', 'none');
                 }
+		        if (rei >= 108) {
+		            $('#R108ProdUBTimeDiff').text('Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation');
+                    $('#R108ProdUBTimeDiff').css('display', 'block');
+		        } else {
+		            $('#R108ProdUBTimeDiff').css('display', 'none');
+		        }
+		        if (rei >= 115) {
+                    var bonus = 1.2 * Math.pow(rei, 1.05);
+                    $('#R115FCChaMul').text('Faction coin chance is increased ' + bonus.toFixed(0) + ' times if they match your Faction, Bloodline or Artifact Set.');
+                    $('#R115FCChaMul').css('display', 'block');
+                } else {
+                    $('#R115FCChaMul').css('display', 'none');
+                }
                 if (rei <= 40) {
                     $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1e' + (24 + rei * 3).toFixed(0) + '</b> gems.');
                 } else if (rei <= 100){
                     $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1.778e' + (rei * 2 - 62).toFixed(0) + '</b> gems.');
-                } else {
-                    //TBD
+                } else {                                   
+                    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>'  + (Math.pow(1e27,0.75) * Math.pow(rei , (rei - 100))).toExponential(4) + '</b> gems.');
                 }
                 switch (rei) {
                     case 2:
@@ -230,6 +245,12 @@
                     case 100:
                         Runl('Ascension 2 and Second Alignments');
                         break;
+                    case 111:
+                        Runl('Union Upgrades')
+                        break;
+                    case 116:
+                        Runl('Prestige Factions')
+                        break;			
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
