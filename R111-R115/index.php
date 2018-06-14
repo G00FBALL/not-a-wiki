@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated June 3rd 2018</b>
+    <p><b>Updated June 14rd 2018</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.2</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -118,24 +118,27 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Elf Set)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e45 (10 Qad) Gems
+                <p><b>Requirements</b>: Art of the Crow Trophy
+                <p><b>Range</b>: 1e46 (10 Qad) Gems
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build">
+                      <input type="text" value="S10,S400,C25,C400,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build"> Short 2 day run
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build"> Long 3+ day run
                 <p>S10,S400,
-                <p>C25,C340,
+                <p>C25,C400,
                 <p>D1,D175,D245,
                 <p>E400,
                 <p>A50,A120,
                 <p>W225,W1375
-                <p><b>Notes</b>: Takes estimated time of 3-5 days to SS7.
+                <p><b>Notes</b>: Takes estimated time of 1.5-2 days to SS7.
                 <p><b>Notes</b>: Buffing Elf set, S400 and E290 before running this build is highly recommended.
+                <p><b>Notes</b>: Swap C400 with C340 if high C340 and longer runs (3-5 days to SS7)
                 </div>
               </div>
     </div>
-         </div>
     </div>
         <br/>
     <p><b>Special Builds</b></p>
@@ -220,49 +223,50 @@
                 <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
                 </div>
            </div>
-                      <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                          <div class="autohide">
-                              <p><b>Author</b>: Necrodoom
-                              <p><b>Range</b>: ? Gems+
-                              <p><b>Faction</b>: Faceless
-                              <p><b>Bloodline</b>: Undead
-                              <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
-                              <p>S251,S375,S400,
-                              <p>C400,
-                              <p>D200,D260,
-                              <p>E320,E350,
-                              <p>A300,A3400,
-                              <p>W275,W1375
-                              <p><b>Notes</b>: Significally buffed by sunforce faction coins.
-                              <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
-                              <p><b>Notes</b>: Estimated time to L30 is unknown.
+        <div class="shelementwhole">
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+             <div class="autohide">
+                <p><b>Author</b>: Necrodoom
+                <p><b>Range</b>: ? Gems+
+                <p><b>Faction</b>: Faceless
+                <p><b>Bloodline</b>: Undead
+                <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                   <p><button onclick="myFunction($(this))">Copy Build</button>
+                   <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
+                <p>S251,S375,S400,
+                <p>C400,
+                <p>D200,D260,
+                <p>E320,E350,
+                <p>A300,A3400,
+                <p>W275,W1375
+                <p><b>Notes</b>: Significally buffed by sunforce faction coins.
+                <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
+                <p><b>Notes</b>: Estimated time to L30 is unknown.
                               </div>
                          </div>
          </div>
+    </div>
         <br/>
     <p><b>Artifact Builds</b></p>
     <div class="category">
-                                    <div class="shelementwhole">
-                                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Raw Emerald (Elf Artifact) Excavator build<font color="Blue"> Good</font></a></b></p>
-                                        <div class="autohide">
-                                            <p><b>Author</b>: OldYouth
-                                            <p><b>Requirements</b>: Art of the Crow Trophy
-                                            <p><b>Range</b>: e45 (1 Qad) Gems+
-                                            <p><b>Faction</b>: Elf
-                                            <p><b>Bloodline</b>: Druid
-                                            <p><b>Artifact Set</b>: Angel
-                                                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                                                  <input type="text" value="S105,S175,C1,C225,C340,D50,D245,E25,E290,A3400,W10,W1375" id="Build">
-                                            <p>S105,S175,
-                                            <p>C1,C225,C340,
-                                            <p>D50,D245,
-                                            <p>E25,E290,
-                                            <p>A3400,
-                                            <p>W10,W1375
-                                            <p><b>Notes</b>: Great for up to 3 free resets.
+         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Raw Emerald (Elf Artifact) Excavator build<font color="Blue"> Good</font></a></b></p>
+             <div class="autohide">
+                <p><b>Author</b>: OldYouth
+                <p><b>Requirements</b>: Art of the Crow Trophy
+                <p><b>Range</b>: e45 (1 Qad) Gems+
+                <p><b>Faction</b>: Elf
+                <p><b>Bloodline</b>: Druid
+                <p><b>Artifact Set</b>: Angel
+                   <p><button onclick="myFunction($(this))">Copy Build</button>
+                   <input type="text" value="S105,S175,C1,C225,C340,D50,D245,E25,E290,A3400,W10,W1375" id="Build">
+                <p>S105,S175,
+                <p>C1,C225,C340,
+                <p>D50,D245,
+                <p>E25,E290,
+                <p>A3400,
+                <p>W10,W1375
+                <p><b>Notes</b>: Great for up to 3 free resets.
          </div>
     </div>
                <div class="shelementwhole">
@@ -283,7 +287,8 @@
                        <p>W275,W1375
                        <p><b>Notes</b>: W275 buffing highly recommended. Will require running for a while (several days) for a decent chance for the artifact.
                        <p><b>Notes</b>: Works faster if able to afford Art of the Crow (1e42 (1 Td) gems+)
-    </div>
         </div>
        </div>
+         </div>
+    </div>
 <?php include "../scripts/footer.html"; ?>
