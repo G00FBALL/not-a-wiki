@@ -47,7 +47,7 @@
 <p><b>Buy 1</b>: Click building</p>
 <p><b>Buy 10</b>: CTRL +click building</p>
 <p><b>Buy 100</b>: SHIFT +click building</p>
-<p><b>Buy 1000</b>: X +click building</p>
+<p><b>Buy 1000</b>: X +click building - R1+</p>
 <p><b>Buy Max</b>: CTRL +SHIFT +click building</p>
 <br/>
 <h6>Buildings (Mac)</h6>
@@ -55,7 +55,7 @@
 <p><b>Buy 1</b>: Click building</p>
 <p><b>Buy 10</b>: CMD +click building</p>
 <p><b>Buy 100</b>: SHIFT +click building</p>
-<p><b>Buy 1000</b>: X +click building</p>
+<p><b>Buy 1000</b>: X +click building - R1+</p>
 <p><b>Buy Max</b>: CMD +SHIFT +click building</p>
 <hr>
 <h6>Terminology</h6>
