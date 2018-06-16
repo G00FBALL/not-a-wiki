@@ -175,7 +175,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/CeremonialDagger.png" alt="Artifacts" align="middle"><b> Ceremonial Dagger</b></p>
     <p><b>Clue</b>: Avoid hurting your fingers.</p>
     <p><b>Description</b>: Its blade is unnaturally keen and sharp.</p>
-    <p><b>Requirement</b>: Play as Drow +0 Treasure clicks (This includes automatic clicks)(This Game)</p>
+    <p><b>Requirement</b>: Play as Drow, 0 Treasure clicks (This Game) (This includes automatic clicks)</p>
     <p><b>Chance</b>: 2%</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ArachnidFigurine.png" alt="Arachnid Figurine" align="middle"><b> Arachnid Figurine</b></p>
