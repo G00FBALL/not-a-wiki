@@ -263,12 +263,12 @@
     <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase offline production based on evil spells cast (this R).</p>
-    <p><b>Formula</b>: (0.75 * x ^0.75 ), where x is total evil spells cast (this R).</p>
+    <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is total evil spells cast (this R).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CeremonialDagger.png" alt="Artifacts" align="middle"><b> Ceremonial Dagger</b></p>
     <p><b>Clue</b>: Avoid hurting your fingers.</p>
     <p><b>Description</b>: Its blade is unnaturally keen and sharp.</p>
-    <p><b>Requirement</b>: Play as Drow +0 Treasure clicks (This includes automatic clicks)(This Game)</p>
+    <p><b>Requirement</b>: Play as Drow, 0 Treasure clicks (This Game) (This includes automatic clicks)</p>
     <p><b>Note</b>: You can disable Gifts in options.</p>
     <p><b>Chance</b>: 2%</p>
     <br/>
