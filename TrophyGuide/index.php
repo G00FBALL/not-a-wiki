@@ -144,7 +144,7 @@
             <td><center>Unitary</p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png"></td>
             <td>10 M (1e7)</p>A1+ Free</td>
             <td>Have exactly 1 of each building at any given time.</td>
-            <td>Increase the production of all buildings by 1.11111111.</td>
+            <td>Increase the production of all buildings by 1.11111111%.</td>
             <td>You need about 47K gems.</td>
         </tr>
         </tbody>
