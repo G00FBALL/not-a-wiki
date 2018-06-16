@@ -22,7 +22,7 @@
 <p><b>A25</b> - <b>For Demon</b> - <b>Research Name</b>: Deflagration</p>
 <p><b>Requirement</b>: 666 Hellfire Blasts (Total this R)</p>
 <p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
-<p><b>Effect</b>: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and multiplies its effect by x7.</p>
+<p><b>Effect</b>: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and increases its effect by 1000%.</p>
 <br/>
 <p><b>A30</b> - <b>For Fairy</b> - <b>Research Name</b>: Delayed Reaction</p>
 <p><b>Requirement</b>: 750 Fairy Chanting (Total this R)</p>
