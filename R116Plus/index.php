@@ -51,7 +51,7 @@
                 <p>C340,C1300,
                 <p>D245,D260,D1125,
                 <p>E350,E1225,E1425,
-                <p>A120,A300,A1200,
+                <p>A250,A300,A1200,
                 <p>W180,W275,W1400
                 <p><b>Notes</b>: Replace A120 with A250 if able to buy DG11.
                 <p><b>Notes</b>: Replace S500 with S400 if stronger.
