@@ -135,7 +135,7 @@
                 <p>A50,A120,
                 <p>W225,W1375
                 <p><b>Notes</b>: Takes estimated time of 1.5-2 days to SS7.
-                <p><b>Notes</b>: Buffing Elf set, S400 and E290 before running this build is highly recommended.
+                <p><b>Notes</b>: Buffing Elf set, S400 and max excavation with E290 before running this build is highly recommended.
                 <p><b>Notes</b>: Swap C400 with C340 if high C340 and longer runs (3-5 days to SS7)
               </div>
     </div>
