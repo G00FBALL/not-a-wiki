@@ -29,7 +29,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" alt="Smiley face" align="middle"> Deadened Muscles</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
-<p><b>Effect</b>: Increase the production of all other buildings by 1.5% per Necropolis you own.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 1.5% per Necropolis you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png" alt="Smiley face" align="middle"> Death Temples</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
