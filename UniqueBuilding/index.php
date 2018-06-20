@@ -24,7 +24,7 @@
 <p><b>Angel</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelUniqueBuilding.png" alt="Heaven's Domains" align="middle"></p>
 <p>Upgraded from Heaven's Gates</p>
-<p>Upgrade Heaven's Gate To Heaven's Domains, boosting their production by x250 per spell affecting them and unlocking more unique perks for the building.</p>
+<p>Upgrade Heaven's Gate To Heaven's Domains, boosting their production by x35000 per spell affecting them and unlocking more unique perks for the building.</p>
 <p><b>Requirement</b>: Research, 1500 Heaven's Gates</p>
 <hr>
 <p><b>Goblin</b></p>

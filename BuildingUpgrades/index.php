@@ -468,7 +468,7 @@
     <area target="" research="Post Ascension Only<p>Upgrade 20: Upwards Rain<p>Requirement: 3500 Heaven's Gates<p>Cost: 545.1Spd (5.451e56)<p>Increase Heaven's Gates production by 50%." coords="489,58,536,105" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 21: Blissful Eden<p>Requirement: 4000 Heaven's Gates<p>Cost: 1.504Vg (1.504e63)<p>Increase Heaven's Gates production by 50%." coords="2,111,51,160" shape="rect">
     <area target="" research="Post Ascension Only<p>Upgrade 22: Allowed Fruit<p>Requirement: 10K Heaven's Gates<p>Cost: 165.9 Qiqag(1.659e140)<p>Increase Heaven's Gate production by 50%" coords="54,110,107,160" shape="rect">
-    <area target="" research="Unique Building<p>At R16, The Angels' building Heaven Gates can be upgraded to a Unique Building: Heaven Domain, which is required for some challenges and research quests.Boosting their production by x250 per spell affecting them and unlocking more unique perks for the building.<p>Requirements: 1500 Heaven's Gates, Research, Play as Good and Angel, R16+" coords="348,111,536,160" shape="rect">
+    <area target="" research="Unique Building<p>At R16, The Angels' building Heaven Gates can be upgraded to a Unique Building: Heaven Domain, which is required for some challenges and research quests.Boosting their production by x35000 per spell affecting them and unlocking more unique perks for the building.<p>Requirements: 1500 Heaven's Gates, Research, Play as Good and Angel, R16+" coords="348,111,536,160" shape="rect">
 </map>
 <p><b>Slave Pen Upgrades (Alignment: Evil)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/slavepengroup1.png" usemap="#slavepengroup1-map">

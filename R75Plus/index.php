@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Nov. 24th 2017</b>
+    <p><b>Updated June 20th 2018</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -75,6 +75,32 @@
                 <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
          </div>
     </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Avenger (R75-R76)<font color="Blue"> Good</font></a></b></p>
+        <div class="autohide">
+            <p><b>Author</b>: Artcrow
+            <p><b>Range</b>: 1e90 (1 NoVg) Gems (R75) / 1e88 (10 OcVg) Gems (R76) - 1e92 (100 NoVg) Gems
+            <p><b>Faction</b>: Good Mercenary
+            <p><b>Bloodline</b>: Dragon
+            <p><b>13th Upgrade</b>: DN7
+              <p><button onclick="myFunction($(this))">Copy Build</button>
+              <input type="text" value="EL3,EL4,EL7,AN5,DD6,FC7,DN2,DN8,DW2,DG3,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C340,C400,C590,C1300,C1325,C1500,D25,D200,D245,D1275,D1375,D2775,E135,E320,E350,E590,E1225,E1325,A105,A120,A175,A305,A545,A1500,W150,W180,W275,W290,W590,W1375" id="Build">
+              <p><button onclick="myFunction($(this))">Copy Build</button>
+              <input type="text" value="EL3,EL4,EL7,AN5,DD6,FC7,DN2,DN8,DW2,DG3,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C340,C400,C590,C1300,C1325,C1500,D25,D245,D525,D1275,D1375,D2775,E135,E320,E350,E590,E1225,E1325,A105,A120,A175,A305,A545,A1500,W150,W180,W275,W290,W590,W1375" id="Build"> Holy Light tier 6
+            <p><p>EL3,EL4,EL7,AN5,DD6,FC7,DN2,DN8,DW2,DG3,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,
+            <p>S215,S305,S330,S1275,S1450,S1500,
+            <p>C340,C400,C590,C1300,C1325,C1500,
+            <p>D25,D200,D245,D1275,D1375,D2775,
+            <p>E135,E320,E350,E590,E1225,E1325,
+            <p>A105,A120,A175,A305,A545,A1500,
+            <p>W150,W180,W275,W290,W590,W1375
+            <p><b>Notes</b>: Alternative for UL20 faceless with low NT tiers.
+            <p><b>Notes</b>: Replace D200 with D525 if Holy Light tier 6.
+            <p><b>Multistage build</b>
+            <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 30 minutes - 1 hour long.
+            <p><b>Production phase</b>: Buy Round Table upgrade and cast all spells for production as normal.
+     </div>
+</div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Night of the Living Merc (R77-R80)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
