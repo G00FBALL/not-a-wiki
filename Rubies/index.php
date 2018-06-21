@@ -28,7 +28,7 @@
                 <th>Gems</th>
             </tr>
             <tr>
-                <td><input id="rub" type="number" min="1" max="39" value="1"/></td>
+                <td><input id="rub" type="number" min="1" max="41" value="1"/></td>
                 <td><label><input id="E290" type="checkbox"/></label></td>
                 <td><label><input id="eas" type="checkbox"/></label></td>
                 <td><input id="asc" type="number" min="0" max="2" value="0"/></td>
