@@ -28,10 +28,10 @@
                 <th>Gems</th>
             </tr>
             <tr>
-                <td><input id="rub" type="number" min="1" max="39" value="1"/></td>
+                <td><input id="rub" type="number" min="1" max="29" value="1"/></td>
                 <td><label><input id="E290" type="checkbox"/></label></td>
                 <td><label><input id="eas" type="checkbox"/></label></td>
-                <td><input id="asc" type="number" min="0" max="2" value="0"/></td>
+                <td><label><input id="asc" type="checkbox"/></label></td>
                 <td id="exc"></td>
                 <td id="coi"></td>
                 <td id="gem"></td>
@@ -39,31 +39,22 @@
         </table>
         <script>
             function rubcalc() {
-                var asc = parseInt($('input#asc').val());
-                var rub = parseInt($('input#rub').val()),              
+                var rub = parseInt($('input#rub').val()),
                     mult = 1.2,
                     cost = 0,
-                    base = 1e27;
-                    base = (asc > 0) ? Math.pow(1e27 , Math.pow(0.75 , asc)) : 1e27;                   
+                    base = $('#asc').prop('checked') ? 1e27 ** 0.75 : 1e27;
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
                 if ($('#E290').prop('checked')) mult -= 0.025;
-                if ($('#eas').prop('checked')) mult -= 0.025;                
-                if (asc > 0) {
-                    mult = 1 + ((mult - 1) / (asc * 5));
-                }
-                cost = base * Math.pow(mult , exc);
+                if ($('#eas').prop('checked')) mult -= 0.025;
+                if ($('#asc').prop('checked')) mult = 1 + (mult - 1) / 5;
+                cost = base * (1 - mult ** exc) / (1 - mult);
                 $('#coi').html(cost.toExponential(2));
-                if (asc < 2) {
                 $('#gem').html((1.41421e-6 * (cost + 125e9) ** 0.5 - 0.5).toExponential(2));
-                } else {
-                 $('#gem').html((0.02 * ((((cost + 1250) ** 0.5) / (2 ** 0.5)) - 25)).toExponential(2));
-                }
             }
-            rubcalc();             
-            $('#rubcalc', '#asc').on('input', rubcalc);
+            rubcalc();
+            $('#rubcalc').on('input', rubcalc);
             $('#rubcalc :checkbox').on('change', rubcalc);
-           
         </script>
     </div>
     <p>The formula for the number of excavations required for each ruby is 25n(n+1), where n is the number of rubies.</p>
