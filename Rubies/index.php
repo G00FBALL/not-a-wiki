@@ -17,12 +17,6 @@
                 <th>Ruby Excavation Count and Cost</th>
             </tr>
         </table>
-<div id="rubcalc" class="calc">
-        <table>
-            <tr>
-                <th>Ruby Excavation Count and Cost</th>
-            </tr>
-        </table>
         <table>
             <tr>
                 <th style="width: 15%">Ruby</th>
