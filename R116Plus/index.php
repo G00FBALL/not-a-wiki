@@ -55,7 +55,25 @@
                 <p>W180,W275,W1400
                 <p><b>Notes</b>: Replace A120 with A250 if able to buy DG11.
                 <p><b>Notes</b>: Replace S500 with S400 if stronger.
-         </div>
+                </div>
+           </div>
+               <div class="shelementwhole">
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Fairy<font color="Blue"> Good</font></a></b></p>
+                   <div class="autohide">
+                       <p><b>Author</b>: Somarilnos
+                       <p><b>Range</b>: 1e51 (1 SxD) - ? Gems
+                       <p><b>Faction</b>: Fairy
+                       <p><b>Bloodline</b>: Fairy
+                       <p><b>Artifact Set</b>: Dragon, Faceless (If high (%1000+) R108 bonus)
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build">
+                       <p>S1,S180,S400,S590,
+                       <p>C10,C340,C405,C520,
+                       <p>D225,D245,D435,
+                       <p>E50,E135,E410,
+                       <p>A30,A120,A495,
+                       <p>W560,W1375
+                       <p><b>Notes</b>: Maintaining high FR10 is recommended.
     </div>
          </div>
         <br/>
