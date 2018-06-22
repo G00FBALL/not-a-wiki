@@ -45,7 +45,7 @@
 <p><b>Clues</b>: This strange Device seems to react to the Ancient Races magical capabilities. We may channel its power to increase their research potential!</p>
 <p><b>Unlocks</b>: Provides 2 additional slots: 1 for each related Neutral Faction Facility you are playing.</p>
 <p><b>Requirements</b>: Play a Neutral Faction and have over 2,000 excavations.</p>
-<p><b>Chance</b>: 0.2% per excavation (multi-buy or not)</p>
+<p><b>Chance</b>: 0.2%</p>
 <p><b>Cost</b>: 100 QiSxg (1E200)
 <p><b>Alignment</b>: Neutral</p>
 <p><b>Note</b>: Has no effect R100+/A2</p>
@@ -72,7 +72,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png" alt="SpikyRoughEgg" align="middle"><b> Spiky Rough Egg</b></p>
 <p><b>Clues</b>: What a weird egg... it looks ages old, yet something alive is inside. Perhaps if you wait long enough, something will hatch?</p>
 <p><b>Unlocks</b>: The Hatch! Egg</p>
-<p><b>Requirements</b>: R46+, 1500, Excavations (Chance: 2%)</p>
+<p><b>Requirements</b>: R46+, 1500 Excavations (Chance: 2%)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Obsidian Shard" align="middle"><b> Obsidian Shard</b></p>
 <p><b>Description</b>: Extremely hard and black as darkness itself, this material cannot apparently be carved or melted. It is a mystery how you can make this thing into a sword.</p>
