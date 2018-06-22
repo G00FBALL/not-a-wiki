@@ -74,6 +74,7 @@
                        <p>A30,A120,A495,
                        <p>W560,W1375
                        <p><b>Notes</b>: Maintaining high FR10 is recommended.
+             </div>
     </div>
          </div>
         <br/>
@@ -153,6 +154,26 @@
                        <p>A250,A1200,
                        <p>W260,W1375,W1400
                        <p><b>Notes</b>: Requires excavations to both set up the build and boost royal exchange count.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 buff)<font color="DarkRed"> Evil</font></a></b></p>
+                          <div class="autohide">
+                      <p><b>Author</b>: Lapare
+                      <p><b>Range</b>: e52 (10 SxD) gems+ / e51 (1 SxD) gems+ (Dragon Lineage L30)
+                      <p><b>Requirements</b>: Angel Lineage Level 30
+                      <p><b>Faction</b>: Goblin/Drow
+                      <p><b>Bloodline</b>: Dragon
+                      <p><b>Artifact Set</b>: Dwarf
+                            <p><button onclick="myFunction($(this))">Copy Build</button>
+                            <input type="text" value="S50,S400,S435,C175,C340,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
+                      <p>S50,S400,S435,
+                      <p>C175,C340,
+                      <p>D200,D560,
+                      <p>E1,E135,E225,E495,E590,
+                      <p>A10,A120,A410,
+                      <p>W25,W205,W405,W520
+                      <p><b>Notes</b>: At higher gems (x10 above minimum range), can swap C340 with C250 for lineage building.
          </div>
     </div>
         </div>
