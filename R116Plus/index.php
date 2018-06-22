@@ -161,7 +161,6 @@
                           <div class="autohide">
                       <p><b>Author</b>: Lapare
                       <p><b>Range</b>: e52 (10 SxD) gems+ / e51 (1 SxD) gems+ (Dragon Lineage L30)
-                      <p><b>Requirements</b>: Angel Lineage Level 30
                       <p><b>Faction</b>: Goblin/Drow
                       <p><b>Bloodline</b>: Dragon
                       <p><b>Artifact Set</b>: Dwarf
