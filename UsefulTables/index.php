@@ -39,7 +39,7 @@ function applyBldgMultiplier(x, l) {
 }
 
 function buildBubbleSwarmTable(l) {
-	var minbldg = 9999;  // This is the minimum number of buildings after applying building multiplier
+	var minbldg = 7999;  // This is the minimum number of buildings after applying building multiplier
   if(l > 5)
   	minbldg = 17999;
   if(l > 10)
