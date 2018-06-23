@@ -3,290 +3,100 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
-<br/>
-<br/>
-<br/>
 <br/><br/>
-<br/>
-<br/>
-<p>Origanal list provided by bobbert can be found <a target="_blank" href="https://pastebin.com/uTSXSpL7"><b>here</b></a>
- <a id="Swarming Towers"></a>
-    <table class="numtable" align="left" >
-        <thead>
-        <tr>
-            <th colspan="2">Bubble Swarm</th>
-        </tr>
-        <tr>
-            <th>Swarming Towers</th>
-            <th>Max Mana</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td>8158</td>
-            <td>222344</td>
-        </tr>
-        <tr>
-            <td>8165</td>
-            <td>222430</td>
-        </tr>
-        <tr>
-            <td>8166</td>
-            <td>229386</td>
-        </tr>
-        <tr>
-            <td>8241</td>
-            <td>230269</td>
-        </tr>
-        <tr>
-            <td>8249</td>
-            <td>230357</td>
-        </tr>
-        <tr>
-            <td>8316</td>
-            <td>231146</td>
-        </tr>
-        <tr>
-            <td>8324</td>
-            <td>231234</td>
-        </tr>
-        <tr>
-            <td>8331</td>
-            <td>231321</td>
-        </tr>
-        <tr>
-            <td>8332</td>
-            <td>238341</td>
-        </tr>
-        <tr>
-            <td>8333</td>
-            <td>245361</td>
-        </tr>
-        <tr>
-            <td>11666</td>
-            <td>251708</td>
-        </tr>
-        <tr>
-            <td>12416</td>
-            <td>258790</td>
-        </tr>
-        <tr>
-            <td>12491</td>
-            <td>259484</td>
-        </tr>
-        <tr>
-            <td>12499</td>
-            <td>259554</td>
-        </tr>
-        <tr>
-            <td>13166</td>
-            <td>265633</td>
-        </tr>
-        <tr>
-            <td>13241</td>
-            <td>266305</td>
-        </tr>
-        <tr>
-            <td>13249</td>
-            <td>266373</td>
-        </tr>
-        <tr>
-            <td>13316</td>
-            <td>266975</td>
-        </tr>
-        <tr>
-            <td>13324</td>
-            <td>267042</td>
-        </tr>
-        <tr>
-            <td>13331</td>
-            <td>267109</td>
-        </tr>
-        <tr>
-            <td>13332</td>
-            <td>275778</td>
-        </tr>
-        <tr>
-            <td>13333</td>
-            <td>284447</td>
-        </tr>
-        <tr>
-            <td>14083</td>
-            <td>291460</td>
-        </tr>
-        <tr>
-            <td>14158</td>
-            <td>292149</td>
-        </tr>
-        <tr>
-            <td>14165</td>
-            <td>292218</td>
-        </tr>
-        <tr>
-            <td>14166</td>
-            <td>301127</td>
-        </tr>
-        <tr>
-            <td>14916</td>
-            <td>308117</td>
-        </tr>
-        <tr>
-            <td>14991</td>
-            <td>308805</td>
-        </tr>
-        <tr>
-            <td>14999</td>
-            <td>308874</td>
-        </tr>
-        <tr>
-            <td>15666</td>
-            <td>314911</td>
-        </tr>
-        <tr>
-            <td>15741</td>
-            <td>315581</td>
-        </tr>
-        </tbody>
-    </table>
- <a id="Swarming Towers"></a>
-    <table class="numtable" align="center" >
-        <thead>
-        <tr>
-            <th colspan="2">Bubble Swarm</th>
-        </tr>
-        <tr>
-            <th>Swarming Towers</th>
-            <th>Max Mana</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td>15749</td>
-            <td>315647</td>
-        </tr>
-        <tr>
-            <td>15816</td>
-            <td>316248</td>
-        </tr>
-        <tr>
-            <td>15824</td>
-            <td>316315</td>
-        </tr>
-        <tr>
-            <td>15831</td>
-            <td>316381</td>
-        </tr>
-        <tr>
-            <td>15832</td>
-            <td>325746</td>
-        </tr>
-        <tr>
-            <td>15833</td>
-            <td>335112</td>
-        </tr>
-        <tr>
-            <td>16583</td>
-            <td>342079</td>
-        </tr>
-        <tr>
-            <td>16658</td>
-            <td>342766</td>
-        </tr>
-        <tr>
-            <td>16665</td>
-            <td>342834</td>
-        </tr>
-        <tr>
-            <td>16666</td>
-            <td>352418</td>
-        </tr>
-        <tr>
-            <td>21658</td>
-            <td>352771</td>
-        </tr>
-        <tr>
-            <td>21665</td>
-            <td>352825</td>
-        </tr>
-        <tr>
-            <td>21666</td>
-            <td>363607</td>
-        </tr>
-        <tr>
-            <td>22416</td>
-            <td>369120</td>
-        </tr>
-        <tr>
-            <td>22491</td>
-            <td>369665</td>
-        </tr>
-        <tr>
-            <td>22499</td>
-            <td>369720</td>
-        </tr>
-        <tr>
-            <td>23166</td>
-            <td>374527</td>
-        </tr>
-        <tr>
-            <td>23241</td>
-            <td>375062</td>
-        </tr>
-        <tr>
-            <td>23249</td>
-            <td>375116</td>
-        </tr>
-        <tr>
-            <td>23316</td>
-            <td>375597</td>
-        </tr>
-        <tr>
-            <td>23324</td>
-            <td>375650</td>
-        </tr>
-        <tr>
-            <td>23331</td>
-            <td>375703</td>
-        </tr>
-         <tr>
-            <td>23332</td>
-            <td>386851</td>
-        </tr>
-        <tr>
-            <td>23333</td>
-            <td>398000</td>
-        </tr>
-        <tr>
-            <td>24083</td>
-            <td>403605</td>
-        </tr>
-        <tr>
-            <td>24158</td>
-            <td>404160</td>
-        </tr>
-        <tr>
-            <td>24165</td>
-            <td>404215</td>
-        </tr>
-        <tr>
-            <td>24166</td>
-            <td>415541</td>
-        </tr>
-        <tr>
-            <td>24916</td>
-            <td>421192</td>
-        </tr>
-        <tr>
-            <td>24991</td>
-            <td>421752</td>
-        </tr>
-        <tr>
-            <td>24999</td>
-            <td>421808</td>
-        </tr>
-        </tbody>
-    </table>
-        </thead>
+<b><center><font size="5">Useful Tables</font></center></b>
+<br/><br/>
+<div id="bubble-swarm">
+  <div>
+    <p for="dlinput"><b>Bubble Swarm Count - Max Mana</b> </p>
+    <p for="dlinput"><b>This includes Dwarf challenge 5</b> </p>
+    <label for="dlinput"><b>Dragon Lineage</b>: </label>
+    <input type="number" id="dlinput" name="dragon lineage" value="0">
+    <button id="dlsubmit">Submit</button>
+  </div>
+  <br>
+  <span id="bubble-swarm-table"></span>
+</div>
+
+<script>
+function sumOfDigits(x) {
+	var m = 10;
+	var sum = x % m;
+  while( x >= m ){
+  	var d = m;
+    m *= 10;
+    sum += ( x % m ) / d; // A proper implementation would floor this value, the game does not use floor
+  }
+  return sum;
+}
+
+function bubbleSwarm(x) {
+	return Math.floor(sumOfDigits(x) * 100 * Math.pow( x, 0.45 ) );
+}
+
+function applyBldgMultiplier(x, l) {
+	return Math.floor( x * 1.2 * (1 + 0.12 * l));
+}
+
+function buildBubbleSwarmTable(l) {
+	var minbldg = 9999;  // This is the minimum number of buildings after applying building multiplier
+  if(l > 5)
+  	minbldg = 17999;
+  if(l > 10)
+  	minbldg = 19999;
+  if(l > 15)
+  	minbldg = 24999;
+  if(l > 20)
+  	minbldg = 29999;
+  if(l > 25)
+  	minbldg = 39999;
+  if(l > 30)
+  	minbldg = 49999;
+	var maxbldg = 30000; // This is the maximum number of purchased buildings
+  if(l > 20)
+  	maxbldg = 40000;
+
+	var tabletext = "";
+  var maxmana = 0;
+  var manavals = [];
+  var bldgvals = [];
+  var numvals = 0;
+  for (i = 1; i < maxbldg; i++) {
+    var mana = bubbleSwarm(applyBldgMultiplier(i,l));
+    if( mana > maxmana ) {
+    	if( applyBldgMultiplier(i,l) >= minbldg ){
+      	manavals[numvals] = mana;
+        bldgvals[numvals] = i;
+      	numvals++;
+      }
+      maxmana = mana;
+    }
+	}
+  tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>Max Mana</th></tr></thead><tbody>";
+  for(i = 0; i < numvals/2; i++){
+  	  tabletext += "<tr><td>" + bldgvals[i] + "</td><td>" + manavals[i] + "</td></tr>";
+  }
+  tabletext += "</tbody></table>";
+
+  tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>Max Mana</th></tr></thead><tbody>";
+  for(i = Math.floor(1 + numvals/2); i < numvals; i++){
+  	  tabletext += "<tr><td>" + bldgvals[i] + "</td><td>" + manavals[i] + "</td></tr>";
+  }
+  tabletext += "</tbody></table>";
+
+  return tabletext;
+}
+
+$( "#dlsubmit" ).click(function(){
+  var lineage = document.getElementById("dlinput").value;
+  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage));
+})
+
+$( "#dlinput" ).change(function(){
+	var lineage = document.getElementById("dlinput").value;
+  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage));
+})
+</script>
 <br style="clear: both"/><hr>
     <a id="Companions"></a>
     <table class="numtable" align="left" >
