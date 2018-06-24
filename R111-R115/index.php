@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated June 14rd 2018</b>
+    <p><b>Updated June 17th, 2018</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.2</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
