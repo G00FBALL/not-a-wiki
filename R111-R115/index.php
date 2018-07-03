@@ -68,7 +68,7 @@
                        <p>D245,D260,
                        <p>E350,E1425,
                        <p>A250,A300,
-                       <p>W1375
+                       <p>W275,W1375
                        <p><b>Notes</b>: Takes estimated time of 2-5 hours to SS7.
                        <p><b>Notes</b>: Do W275 buffing before running this build.
                        </div>
