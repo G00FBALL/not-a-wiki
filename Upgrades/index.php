@@ -1195,8 +1195,20 @@
             <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
             <p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.
             <p><b>Chance</b>: 10%"
-            <p><b>Note</b>: Does not work while offline.
-            <hr></p>
+            <p><b>Note</b>: Does not work while offline.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
+            <p><b>Clue</b>: Really, raise your chances.</p>
+            <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
+            <p><b>Requirement</b>: R100+</p>
+            <p><b>Effect</b>: Awards an upgrade of the same name.</p>
+            <p><b>Upgrade Effect</b>: Lower cost of Lineage level based on time spent this game.
+            <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
+            <p><b>Formula</b>: (x ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations. (reset when upgrading lineage),</p>
+            <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
+            <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
+            <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
+            <hr>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Faction Quest Upgrades</a></b></p>
         <div class="autohide">
