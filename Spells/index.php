@@ -494,7 +494,7 @@
     <p><b>Effect</b>: Increases the production of all Evil buildings by 1250%.</p>
     <div class="shlisting">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Blood Frenzy Tier 2-6</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Blood Frenzy Tier 2-7</a></b></p>
             <div class="autohide">
                 <p><b>Faction Coins Needed</b> Goblin, Undead, Demon, Drow</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodfrenzyTier2.png" alt="Bloodfrenzytier" align="middle"> <b>Tier</b>: 2</p>
