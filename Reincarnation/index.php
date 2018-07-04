@@ -202,7 +202,7 @@
                     $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1e' + (24 + rei * 3).toFixed(0) + '</b> gems.');
                 } else if (rei <= 100){
                     $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1.778e' + (rei * 2 - 62).toFixed(0) + '</b> gems.');
-                } else {                                   
+                } else {
 		    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((rei - 1) , (rei - 101))).toExponential(4) + '</b> gems.');
                 }
 		//Unlocks next R
@@ -260,7 +260,7 @@
                         break;
                     case 116:
                         Runl('Prestige Factions')
-                        break;			
+                        break;
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
@@ -335,7 +335,7 @@
                 <p><b>R75</b>: Mercenary Research</p>
                 <p><b>R100</b>: Second Ascension, New Alignments</p>
                 <p><b>R111</b>: Base Union Effects</p>
-                <p><b>R111</b>: Prestige Factions</p>
+                <p><b>R116</b>: Prestige Factions</p>
             </div>
         </div>
         <div class="shelementwhole">
