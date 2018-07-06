@@ -918,7 +918,7 @@
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 30 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)</p>
     <p><b>Name</b>: Dragon's Breath</p>
-    <p><b>Effect</b>: With the Spell Dragon's Roar upgrade produces Faction Coins based on this spell activity time.</p>
+    <p><b>Effect</b>: With the Spell Dragon's Roar, Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
     <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
     <p><b>Requirement</b>: Dragons Trade Treaty</p>
     <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>

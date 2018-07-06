@@ -11,7 +11,7 @@
 <p>The Dragon faction cannot be combined with Good or Evil Factions.</p>
 <p><b>Alignment</b>: Prestige (Neutral)</p>
 <p><b>Spell Trophy &amp; Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b></p>
-<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.</p>
+<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
 <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds.</p>
 <p><b>Faction spell</b>: Dragon's Breath</p>
 <p><b>Effect</b>: Activates one of the following effects at random.</p>
