@@ -99,7 +99,7 @@
                 <p>E50,E135,E410,
                 <p>A30,A120,A495,
                 <p>W560,W1375
-                <p><b>Notes</b>: Capable of approximately 20M assistants at 1e42 (1 Qad) gems for a 1 in 500 chance for artifact.
+                <p><b>Notes</b>: Capable of approximately 20M assistants at 1e42 (1 Qad) gems for a 1 in 500 chance for artifact  at low excavation count.
          </div>
     </div>
         <div class="shelementwhole">
@@ -124,16 +124,16 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead (W275 buff)<font color="DarkRed"> Evil</font></a></b></p>
         <div class="autohide">
             <p><b>Author</b>: Rellikrellik
-            <p><b>Range</b>: e55 (10 SpD) Gems+
+            <p><b>Range</b>: e54 (1 SpD) gems+
             <p><b>Faction</b>: Undead/Drow
             <p><b>Bloodline</b>: Dragon
             <p><b>Artifact Set</b>: Dwarf
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S225,S400,S435,C340,D25,D245,D560,E10,E400,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build">
+                  <input type="text" value="S225,S400,S435,C340,D25,D245,D560,E10,E400,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build"> Base build
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S225,S400,S435,C340,D25,D245,D560,E10,E135,E495,A1,A175,A250,A410,A590,W50,W205,W405,W520" id="Build"> e63 (1 Vg) Gems+
+                  <input type="text" value="S225,S400,S435,C340,D25,D245,D560,E10,E135,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build"> e55 (10 SpD) gems+ / e63 (1 Vg) Gems+ (with DW12)
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S225,S400,S435,C340,D25,D200,D560,E10,E135,E495,A1,A175,A250,A410,A590,W50,W205,W405,W520" id="Build"> e65 (100 Vg) Gems+
+                  <input type="text" value="S225,S400,S435,C340,D25,D200,D560,E10,E135,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build"> e57 (1 OcD) gems+ / e65 (100 Vg) Gems+ (with DW12)
             <p>S225,S400,S435,
             <p>C340,
             <p>D25,D245,D560,
@@ -142,7 +142,10 @@
             <p>W50,W205,W405,W520
             <p><b>Notes</b>: Requires some time to beat faceless W275 buff.
             <p><b>Notes</b>: Buffing S400 is highly recommended.
-            <p><b>Notes</b>: Swap E400 with E135 and A120 with A250 at higher gems (e63 (1 Vg) gems+).
+            <p><b>Notes</b>: Swap E400 with E135 at higher gems (e55 (10 SpD) gems+).
+            <p><b>Notes</b>: Swap D245 with D200 at higher gems (e57 (1 OcD) gems+)
+            <p><b>Notes</b>: Able to afford DW12 at higher gems (Swap E135 and D200 back to E400 and D245) (e62 (100 Nod) gems+).
+            <p><b>Notes</b>: Swap E400 with E135 at higher gems (e63 (1 Vg) gems+).
             <p><b>Notes</b>: Swap D245 with D200 at higher gems (e65 (100 Vg) gems+).
      </div>
 </div>
@@ -165,31 +168,12 @@
         <p><b>Notes</b>: Requires excavations to both set up the build and boost royal exchange count.
         </div>
    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (FC12 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 1e45 (1 Qad) Gems+
-                <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Faceless
-                <p><b>Artifact Set</b>: Druid, Faceless (If stronger)
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D350,D1125,E275,E1325,A250,A1200,W260,W1375,W1400" id="Build">
-                <p>S300,S400,S1450,
-                <p>C251,C340,C375,C1300,C1500,
-                <p>D245,D350,D1125,
-                <p>E275,E1325,
-                <p>A250,A1200,
-                <p>W260,W1375,W1400
-                <p><b>Notes</b>: Requires excavations to both set up the build and boost royal exchange count.
-                </div>
-           </div>
                <div class="shelementwhole">
                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Titans (FC12 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                    <div class="autohide">
                        <p><b>Author</b>: Necrodoom
-                       <p><b>Range</b>: ? Gems+
-                       <p><b>Requirements</b>: Angel Lineage Level 30
+                       <p><b>Range</b>: ?
+                       <p><b>Requirements</b>: Angel Lineage Level 30, S400 of 400k+
                        <p><b>Faction</b>: Titan/Dragon
                        <p><b>Bloodline</b>: Angel
                        <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
@@ -208,7 +192,7 @@
                           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 buff)<font color="DarkRed"> Evil</font></a></b></p>
                           <div class="autohide">
                       <p><b>Author</b>: Lapare
-                      <p><b>Range</b>: e52 (10 SxD) gems+ / e51 (1 SxD) gems+ (Dragon Lineage L30)
+                      <p><b>Range</b>: 1e52 (10 SxD) gems+
                       <p><b>Faction</b>: Goblin/Drow
                       <p><b>Bloodline</b>: Dragon
                       <p><b>Artifact Set</b>: Dwarf
@@ -220,7 +204,7 @@
                       <p>E1,E135,E225,E495,E590,
                       <p>A10,A120,A410,
                       <p>W25,W205,W405,W520
-                      <p><b>Notes</b>: At higher gems (x10 above minimum range), can swap C340 with C250 for lineage building.
+                      <p><b>Notes</b>: At higher gems (1e53 (100 SxD) gems+), can swap C340 with C250 for lineage building.
          </div>
     </div>
     <div class="shelementwhole">
@@ -274,7 +258,7 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angel/Druid/Dragon<font color="DarkRed"> Evil</font></a></b></p>
         <div class="autohide">
     <p><b>Author</b>: ?
-    <p><b>Range</b>: e63 (1 Vg) Gems+
+    <p><b>Range</b>: 1e63 (1 Vg) Gems+
     <p><b>Faction</b>: Goblin/Drow
     <p><b>Bloodline</b>: Angel/Druid/Dragon
     <p><b>Artifact Set</b>: Dwarf
@@ -288,14 +272,14 @@
     <p>E1,E135,E225,E495,E590,
     <p>A10,A120,A410,
     <p>W25,W205,W405,W520
-    <p><b>Notes</b>: Swap D245 with D200 at e65 (100 Vg) gems+.
+    <p><b>Notes</b>: Swap D245 with D200 at 1e65 (100 Vg) gems+.
          </div>
     </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless<font color="Blue"> Good</font></a></b></p>
         <div class="autohide">
     <p><b>Author</b>: Somarilnos
-    <p><b>Range</b>: e63 (1 Vg) Gems+
+    <p><b>Range</b>: 1e63 (1 Vg) Gems+
     <p><b>Faction</b>: Fairy/Dwarf
     <p><b>Bloodline</b>: Faceless
     <p><b>Artifact Set</b>: Dwarf
