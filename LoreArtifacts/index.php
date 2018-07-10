@@ -268,7 +268,7 @@
     <p><b>Alignment</b>: Any (No Faction)</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Requirement</b>: R42+</p>
-    <p><b>Upgrade Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)</p>
+    <p><b>Upgrade Effect</b>: Increase the production of Non-Unique buildings based on total time spent. (Time in seconds this R)</p>
     <p><b>Cost</b>: 100 No (1e32)</p>
     <p><b>Cost</b>: A2+, Free</p>
     <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R.</p>
