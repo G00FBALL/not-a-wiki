@@ -18,7 +18,7 @@
                 <p>The base costs for lineages are 25 Qa (2.5e16) Faction Coins and each level costs 10 times more. The Ancient Heirloom reduces the cost of lineages that aren't at the maximum level by raising them to the 0.9th power, making the cost multiplier 10^0.9 or 7.943 instead.</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
                 <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
-                <p><b>Chance</b>: Total Lineage levels/2000</p>
+                <p><b>Chance</b>: Total Lineage levels/20</p>
                 <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
                 <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (15 + lineage level)</p>
