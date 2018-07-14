@@ -95,7 +95,10 @@ body {
     font-size: 13px;
     background: #000;
 }
-
+.content {
+  border: 1px solid;
+  padding: 15px;
+}
 #outer {
     margin: 0 auto;
     width: 760px;
