@@ -99,21 +99,7 @@ body {
   border: 1px solid;
   padding: 15px;
 }
-window.onload = function() {
-	if(localStorage.getItem('content')) {
-		document.querySelector('.content').innerHTML = localStorage.getItem('content');
-  }
-}
 
-let editBtn = document.querySelector('#edit_content');
-let content = document.querySelector('.content');
-
-editBtn.addEventListener('click', () => {
-	content.contentEditable = !content.isContentEditable;
-  if(content.contentEditable === 'false') {
-  	localStorage.setItem('content', content.innerHTML);
-  }
-});
 #outer {
     margin: 0 auto;
     width: 760px;
