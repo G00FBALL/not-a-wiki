@@ -95,29 +95,10 @@ body {
     font-size: 13px;
     background: #000;
 }
-PHP
-
-<?php
-$editData = $_POST['data'];
-
-// Add your validation and save data to database
-
-echo $editData;
-?>
-1
-2
-3
-4
-5
-6
-7
-<?php
-$editData = $_POST['data'];
-
-// Add your validation and save data to database
-
-echo $editData;
-?>
+.content {
+  border: 1px solid;
+  padding: 15px;
+}
 
 #outer {
     margin: 0 auto;
