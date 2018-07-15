@@ -885,7 +885,7 @@
             <td>1 TTg (1e102)</p>A1+ Free</td>
             <td>Reach 725 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.</td>
             <td>Iron Strongholds count 5% more for all purposes.</td>
-            <td>A1+ You can use Mercs + Gobline +Dwarf Expert Masonry, Goblin's Greed or Lightning Strike for Faction Coins for first spell.</td>
+            <td>A1+ Elf bloodline Titans does the trick</td>
         </tr>
         <tr>
             <td><center>Triple Weirdness</p><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png"></td>
