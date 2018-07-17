@@ -407,11 +407,11 @@ $( "#dlinput" ).change(function(){
         </tr>
          <tr>
             <td><center>1 Novg (1e90)</td>
-            <td><center>68</td>
+            <td><center>75</td>
         </tr>
          <tr>
             <td><center>1 Tg (1e93)</td>
-            <td><center>75</td>
+            <td><center>68</td>
         </tr>
          <tr>
             <td><center>1 Utg (1e96)</td>
