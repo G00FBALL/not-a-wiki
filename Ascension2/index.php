@@ -560,7 +560,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
-<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time ad resets every 15 minutes.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time and resets every 15 minutes.</p>
 <p><b>Formula</b>: (Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
