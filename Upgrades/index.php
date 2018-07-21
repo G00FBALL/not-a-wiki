@@ -483,7 +483,7 @@
             <p><b>Alignment</b>: Any
             <p>Only for Tier upgraded Spells (R42+). Allows you to set the maximum tier you wish to autocast each spell to.
             <p>In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.
-            <p>Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x)).
+            <p>Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x)).
             <p><b>Note</b>: The trophy and offline bonus can not be acquired before R40.
             <hr>
         </div>
