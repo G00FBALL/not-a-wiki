@@ -93,6 +93,7 @@
                               <p>W1375
                               <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
                               <p><b>Notes</b>: Swap C400 with C340 if sunforce FC is active.
+                              <p><b>Notes</b>: Build depends on Art of the Crow and high excavs.
          </div>
     </div>
         <div class="shelementwhole">
