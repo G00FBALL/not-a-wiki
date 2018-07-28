@@ -922,10 +922,10 @@
     <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
     <p><b>Requirement</b>: Dragons Trade Treaty</p>
     <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
-    <p><b><font color="darkred">Formula</b></font>: 2 * (ln(1 + X) ^ 2),where x is Faction Coins found in this game.</p>
+    <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2)% ,where x is Faction Coins found in this game.</p>
     </br>
     <p><b><font color="darkgreen">Green</b></font>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
-    <p><b><font color="darkgreen">Formula</b></font>: (0.01 * x^0.625 * (11-T)^5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
+    <p><b><font color="darkgreen">Formula</b></font>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
     </br>
     <p><b><font color="darkblue">Blue</b></font>: Increase your mana regeneration by 200%</p>
     </br>
@@ -933,7 +933,7 @@
     <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7)</p>
     </br>
     <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-    <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.</p>
+    <p><b><font color="black">Formula</b></font>: (0.5 *x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
     </br>
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b></p>
     <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.</p>
