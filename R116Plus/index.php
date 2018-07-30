@@ -76,7 +76,29 @@
                        <p>A30,A120,A495,
                        <p>W560,W1375
                        <p><b>Notes</b>: Maintaining high FR10 is recommended.
+                       <p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
                        <p><b>Notes</b>: Replace S215 with S400 if buffed.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Elf<font color="Blue"> Good</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Rellikrellik
+                              <p><b>Range</b>: 1e57 (1 OcD) - ? Gems
+                              <p><b>Requirements</b>: Angel Lineage Level 30
+                              <p><b>Faction</b>: Elf/Dwarf
+                              <p><b>Bloodline</b>: Angel
+                              <p><b>Artifact Set</b>: Elf
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build">
+                              <p>S175,S400,
+                              <p>C1,C225,C340,C405,C520,C590,
+                              <p>D50,D245,D435,
+                              <p>E25,E400,E410,
+                              <p>A120,A495,
+                              <p>W10,W560,W1375
+                              <p><b>Notes</b>: Buffs Elf set by itself.
+                              <p><b>Notes</b>: S400 is required before running this build.
              </div>
     </div>
          </div>

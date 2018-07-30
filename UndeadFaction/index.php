@@ -53,7 +53,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" alt="Smiley face" align="middle"> Plagued Buildings</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
-<p><b>Effect</b>: Increase the production of all buildings by an additional 50% per hour of playtime in this game.</p>
+<p><b>Effect</b>: Increase the production of all buildings by an additional 75% per hour of playtime in this game.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Alliance</b></p>
@@ -62,11 +62,12 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" alt="Smiley face" align="middle"> Dead Fields</b></p>
 <p><b>Cost</b>: 5 Qa (5E15)</p>
-<p><b>Effect</b>: Each assistants increases the production of all buildings by 0.02% per Necropolises you own.</p>
+<p><b>Effect</b>: Each assistants increases the production of all buildings based on the amount of Assistants and Necropolises you own.</p>
+<p><b>Formula</b>: (0.03 * x * y), where x is Assistants and y is Necropolises you own</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" alt="Smiley face" align="middle"> Tireless Workers</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
-<p><b>Effect</b>: Increase the production of assistants by 1000%.</p>
+<p><b>Effect</b>: Increase the production of assistants by 1500%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Resilience</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
@@ -102,4 +103,55 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Necropolis</p>
 <p>At R16, the Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Undead upgrades and 8 hours activity time (This Game) of Night Time.<p>
+<p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
+<p><b>Formula</b>: (0.018 * log(1 + x) ^ 2)%, where x is offline bonus.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 85M% offline production bonus</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuildingUpgrade.png" alt="Flesh Workshop" align="middle"> <b>Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Flesh Workshop Quest</p>
+<p><b>Effect</b>: Gives Flesh Workshop Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"></p>
+<p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
+<p><b>Requirement</b>: Flesh Workshop Quest</p>
+<p><b>Effect</b>: Increase production based on mana regen.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
+<p><b>Requirement</b>: Flesh Workshop Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
+<p><b>Formula</b>: (75 * log(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Undead Union</p>
+<p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
+<p><b>Formula</b>: (1.2 * x ^ 0.65), where x is amount of Flesh Workshop owned.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Undead Union</p>
+<p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time this R.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Undead Union</p>
+<p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
+<p><b>Formula</b>: (10000 + 75 * (x / 1800) ^ 2), where x is seconds this game.</p>
 <?php include "../scripts/footer.html"; ?>

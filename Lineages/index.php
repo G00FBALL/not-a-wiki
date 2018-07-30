@@ -58,9 +58,9 @@
     <h6> Lineage Menu</h6>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/Lineages.png" usemap="#Lineages-map"></h6>
     <map name="Lineages-map">
-        <area target="" research="<b>Fairy Lineage</b><p><b>Base Effect</b>: Makes Farms, Inns and Blacksmiths count 15% more per Lineage level.<p><b>Cost</b>: 400 Fairy Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,14,68,69" shape="rect">
+        <area target="" research="<b>Fairy Lineage</b><p><b>Base Effect</b>: Makes Farms, Inns and Blacksmiths count 18% more per Lineage level.<p><b>Cost</b>: 400 Fairy Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,14,68,69" shape="rect">
         <area target="" research="<b>Elven Lineage</b><p><b>Base Effect</b>: Gives 1 autoclick per Lineage level. Also increase clicks count by a multiplicative 5000% per level.<p><b>Cost</b>: 400 Elven Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,14,131,67" shape="rect">
-        <area target="" research="<b>Angel Lineage</b><p><b>Base Effect</b>: Adds 10% mana regeneration per level.<p><b>Cost</b>: 400 Angel Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,16,188,67" shape="rect">
+        <area target="" research="<b>Angel Lineage</b><p><b>Base Effect</b>: Adds 7% mana regeneration per level.<p><b>Cost</b>: 400 Angel Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,16,188,67" shape="rect">
         <area target="" research="<b>Goblin Lineage</b><p><b>Base Effect</b>: Multiplicative 2.5% gem bonus per level.<p><b>Cost</b>: 400 Goblin Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,76,68,125" shape="rect">
         <area target="" research="<b>Undead Lineage</b><p><b>Base Effect</b>: +1% more Assistants per level.<p><b>Cost</b>: 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,75,130,127" shape="rect">
         <area target="" research="<b>Demon Lineage</b><p><b>Base Effect</b>: Trophies count 30% more per level.<p><b>Cost</b>: 400 Demon Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,73,191,127" shape="rect">
@@ -75,14 +75,14 @@
     <H6>Fairy</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyLineage.png" align="middle"><b> Fairy Lineage</b></p>
     <p><b>Cost</b>: 400 Fairy Royal Exchanges.</p>
-    <p><b>Effect</b>: Makes Farms, Inns and Blacksmiths count 15% more per Lineage level.</p>
+    <p><b>Effect</b>: Makes Farms, Inns and Blacksmiths count 18% more per Lineage level.</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk1.png" align="middle"><b> Fairy Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: Makes Fairy Bloodline affect Hall of Legends.</p>
     <p><b>Effect</b>: Also reduces Fairy Bloodline Post Ascension nerf.</p>
-    <p><b>Formula</b>: 250 * ((a^0.9)^5)</p>
+    <p><b>Formula</b>: (250 * (a ^ 0.9)), A1 nerf removed</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Fairy Faction Coins find chance.</p>
@@ -145,7 +145,7 @@
     <H6>Angel</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelLineage.png" align="middle"><b> Angel Lineage</b></p>
     <p><b>Cost</b>: 400 Angel Royal Exchanges.</p>
-    <p><b>Effect</b>: Adds 10% mana regeneration per level.</p>
+    <p><b>Effect</b>: Adds 7% mana regeneration per level.</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk1.png" align="middle"><b> Angel Perk 1</b></p>
@@ -166,7 +166,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk3.png" align="middle"><b> Angel Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Increase God's Hand bonus by an additional 500000.0% for every 1000 Unique Buildings.(rounded down to nearest 1000)</p>
+    <p><b>Effect</b>: Increase God's Hand bonus based on Unique Buildings owned.</p>
+    <p><b>Formula</b>: (12000 * (x / 1000))%, Unique Buildings.(rounded down to nearest 1000)</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png" align="middle"> Angel Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.</p>
@@ -174,7 +175,7 @@
     <p><b>Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk4.png" align="middle"><b> Angel Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: When God's Hand is active, increase max mana by 100%.</p>
+    <p><b>Effect</b>: When God's Hand is active, increase max mana by 50%.</p>
     <hr>
     <H6>Goblin</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinLineage.png" align="middle"><b> Goblin Lineage</b></p>
@@ -199,7 +200,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk3.png" align="middle"><b> Goblin Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Unique Building's base production increased by 2% for every 650 Unique Buildings.</p>
+    <p><b>Effect</b>: Unique Building's base production increased by 3% for every 650 Unique Buildings.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png" align="middle"> Goblin Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.</p>

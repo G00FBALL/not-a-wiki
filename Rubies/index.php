@@ -14,10 +14,8 @@
     <div id="rubcalc" class="calc">
         <table>
             <tr>
-                <th>Ruby Excavation Count and Cost</th>
+                <th colspan="7">Ruby Excavation Count and Cost</th>
             </tr>
-        </table>
-        <table>
             <tr>
                 <th style="width: 15%">Ruby</th>
                 <th style="width: 10%">E290</th>
@@ -40,15 +38,15 @@
         <script>
             function rubcalc() {
                 var asc = parseInt($('input#asc').val());
-                var rub = parseInt($('input#rub').val()),				
+                var rub = parseInt($('input#rub').val()),
                     mult = 1.2,
                     cost = 0,
                     base = 1e27;
-                    base = (asc > 0) ? Math.pow(1e27 , Math.pow(0.75 , asc)) : 1e27;					
+                    base = (asc > 0) ? Math.pow(1e27 , Math.pow(0.75 , asc)) : 1e27;
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
                 if ($('#E290').prop('checked')) mult -= 0.025;
-                if ($('#eas').prop('checked')) mult -= 0.025;                
+                if ($('#eas').prop('checked')) mult -= 0.025;
                 if (asc > 0) {
                     mult = 1 + ((mult - 1) / (asc * 5));
                 }
@@ -59,11 +57,11 @@
                 } else {
                     $('#gem').html((0.02 * ((((cost + 1250) ** 0.5) / (2 ** 0.5)) - 25)).toExponential(2));
                 }
-            } 
-            rubcalc();  			
+            }
+            rubcalc();
             $('#rubcalc').on('input', rubcalc);
             $('#rubcalc :checkbox').on('change', rubcalc);
-			
+
         </script>
     </div>
     <p>The formula for the number of excavations required for each ruby is 25n(n+1), where n is the number of rubies.</p>

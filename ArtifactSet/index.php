@@ -163,7 +163,7 @@
     <p><b>Artifacts Required</b>: Huge Titan Statue, Titan Shield, Titan Helmet</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase Unique building production based on time spent this game.</p>
-    <p><b>Formula</b>: (0.09 * x ^ 0.7), where x is seconds.</p>
+    <p><b>Formula</b>: (0.5 * x ^ 0.7), where x is seconds.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HugeTitanStatue.png" alt="Artifacts" align="middle"><b> Huge Titan Statue</b></p>
     <p><b>Clue</b>: Struck by the lightning.</p>
@@ -188,7 +188,7 @@
     <p><b>Artifacts Required</b>: Glyph Table, Stone Of Balance, Branch of the Life Tree</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase production of all buildings based on their quantity.</p>
-    <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is building count (NOT effected by build count multipliers).</p>
+    <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is building count. (NOT effected by build count multipliers).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GlyphTable.png" alt="Artifacts" align="middle"><b> Glyph Table</b></p>
     <p><b>Clue</b>: Balance your buildings.</p>
@@ -213,7 +213,7 @@
     <p><b>Artifacts Required</b>: Translucent Goo, Octopus-shaped Helmet, Nightmare Figment</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase production of all buildings based on highest amount of spells cast in a single game.</p>
-    <p><b>Formula</b>: (0.32 * x ^ 0.32), where x is number of spells cast.</p>
+    <p><b>Formula</b>: (0.32 * x ^ 0.28), where x is number of spells cast.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TranslucentGoo.png" alt="Artifacts" align="middle"><b> Translucent Goo</b></p>
     <p><b>Clue</b>: Byproduct of the Brain.</p>
@@ -284,7 +284,6 @@
     <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Drow</p>
     <p><b>Chance</b>: (x / 10000000 (10M))%, where x is combo strike production bonus</p>
       <hr>
-    <p><b>Added</b>: 3 Artifacts Sets for Prestige Factions</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonSet.png" align="middle"><b> Dragon Set</b></p>
     <p><b>Requirement</b>: R116+</p>
     <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p>

@@ -69,13 +69,13 @@
             <td><center>glho kohhl snod</p><img src="http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png"></td>
             <td>1000 coins</p>A1+ Free</td>
             <td>Import this “glho kohhl snod” without the ""</td>
-            <td>Increase base clicking reward by 1.</td>
+            <td>Increase base clicking reward by 50%.</td>
         </tr>
         <tr>
             <td><center>Leet</p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png"></td>
             <td>10m  (1e7) coins</p>A1+ Free</td>
             <td>Have exactly 1337 Coins at any given time.</td>
-            <td>Increase the production of all buildings by 1.337%</td>
+            <td>Increase the production of all buildings by 13.37% (No A Nerf)</td>
             <td>Buy 1 farm, and click slowly after 1250 coins, or just click 1337 time without buying anything.</td>
         </tr>
         <tr>
@@ -137,14 +137,14 @@
             <td><center>Grand Diplomat</p><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png"></td>
             <td>1 M (1e6)</p>A1+ Free</td>
             <td>Ally with each vanilla faction at least once.</td>
-            <td>Increase your chance to find Faction Coins by an additional 1%.</td>
+            <td>Increase your chance to find Faction Coins by an additional 2%.</td>
             <td>Elf, Fairy, Angel, Goblin, Undead and Demon</td>
         </tr>
         <tr>
             <td><center>Unitary</p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png"></td>
             <td>10 M (1e7)</p>A1+ Free</td>
             <td>Have exactly 1 of each building at any given time.</td>
-            <td>Increase the production of all buildings by 1.11111111%.</td>
+            <td>Increase the production of all buildings by 11.11111111%, No A Nerf.</td>
             <td>You need about 47K gems.</td>
         </tr>
         </tbody>
@@ -171,7 +171,7 @@
             <td><center>Faction Grinder</p><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png"></td>
             <td>6 Oc (6e27)</p>A1+ Free</td>
             <td>Purchase the 6 Vanilla Faction Heritage upgrades in a single game. (Without Abdicating)</td>
-            <td>Increase your chance to find Faction Coins by an additional 1%.</td>
+            <td>Increase your chance to find Faction Coins by an additional 2%.</td>
             <td>Elf, Fairy, Angel, Goblin, Undead and Demon</td>
         </tr>
         <tr>
@@ -814,7 +814,7 @@
         <tr>
             <td><center>Stoic Resistance</p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png"></td>
             <td>10 Coins</p>A1+ Free</td>
-            <td>Get 1 Oc (1e27) gems in the first game of a reincarnation.<p>A1+, 177.8 Qi (1.778e20)</td>
+            <td>Get 1 Oc (1e27) gems in the first game of a reincarnation.<p>A1, 177.8 Qi (1.778e20)<p>A2, 1.54 Qa (1.54e15)</td>
             <td>Increase base clicking reward by 1 T (1E12).</td>
             <td>Can be done R34 (Dwary) and at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
         </tr>
@@ -885,7 +885,7 @@
             <td>1 TTg (1e102)</p>A1+ Free</td>
             <td>Reach 725 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.</td>
             <td>Iron Strongholds count 5% more for all purposes.</td>
-            <td>A1+ Elf bloodline Titans does the trick</td>
+            <td>A1+ You can use Mercs + Gobline +Dwarf Expert Masonry, Goblin's Greed or Lightning Strike for Faction Coins for first spell.</td>
         </tr>
         <tr>
             <td><center>Triple Weirdness</p><img src="http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png"></td>

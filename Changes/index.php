@@ -4,6 +4,333 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
+<br/>
+<p><b>v3.3 July 26, 2018</b></p>
+<br/>
+
+<p><b>Changed</b>: Base mana regen</p>
+<p><b>Old Base</b>: 0.5/sec</p>
+<p><b>New Base</b>: 1/sec</p>
+<br/>
+<p><b>Added</b>: Music</p>
+<p>Short instrumental music for Good, Evil and Neutral (with and without Proof of Neutrality) alignments.</p>
+<br/>
+<p><b>Goblin Invasion</b>: New feat with new reward</p>
+<br/>
+<p><b>Added</b>: 25 Building Upgrades</p>
+<p><b>Requirements</b>: Reach 18000 of each building to get its upgrade.</p>
+<br/>
+<p><b>Added</b>: 12 Allegiances Trophies</p>
+<p><b>Requirements</b>: A2, Level 30 Lineage for each faction and buy all it's faction upgrades.</p>
+<hr>
+<p><b>Added</b>: 3 Artifacts</p>
+<p><b>Effect</b>: Unlocks A2 Tier 2 Spells</p>
+<p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins</p>
+<p><b>FC Cost</b>: 1 Oc (1e27) good/evil faction coins of the alignment and dwarf/drow</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/OilLampArtifact.png" align="middle"> Oil Lamp</b></p>
+<p><b>Hint</b>: Chaos magic burns brightly.</p>
+<p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
+<p><b>Requirements</b>: R120+, Proof of Chaos</p>
+<p><b>Chance</b>: (min(x, y, z) / 100 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
+<p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/LanternofGuidanceArtifact.png" align="middle"> Lantern of Guidance</b></p>
+<p><b>Hint</b>: Massive mana flows can offer guidance.</p>
+<p><b>Description</b>: Follow the guiding light, o wonderer, for it shall bring you fortune.</p>
+<p><b>Requirements</b>: R120+, Proof of Order</p>
+<p><b>Chance</b>: (x / 10,000,000,000 (10B))%, where x is mana regen.</p>
+<p><b>Effect</b>: Unlocks Tier 2 Temporal Flux</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SparkofLifeArtifact.png" align="middle"> Spark of Life</b></p>
+<p><b>Hint</b>: The power of Creation may spark something new.</p>
+<p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
+<p><b>Requirements</b>: R120+, Proof of Balance</p>
+<p><b>Chance</b>: (x / ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
+<p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
+<hr>
+<p><b>Added</b>: Advanced Heritages for each faction</p>
+<p><b>Requirements</b>: A2, Lineage Level 30 and buying all upgrades of that faction and 8 hours activity time (This Game) of that Faction's spell</p>
+<p>When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+<p><b>Formula</b>: (1 + 0.3 * level)</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy Coins</p>
+<p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
+<p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Elven Coins</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * ln(1 + x) ^ 1.5)%, where x is amount of clicks this reincarnation.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of spells cast in this game.</p>
+<p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is spells cast this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
+<p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
+<p><b>Formula</b>: (0.25 * log(1 + x) ^ 0.95), where x is gems owned.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
+<p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
+<p><b>Formula</b>: (0.018 * log(1 + x) ^ 2)%, where x is offline bonus.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDemonicHeritage.png" align="middle"> Advanced Demonic Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Demon Coins</p>
+<p><b>Effect</b>: Increase the production of all buildings based on trophies unlocked.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is amount of trophies unlocked.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedTitanHeritage.png" align="middle"> Advanced Titan Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
+<p><b>Formula</b>: (0.05 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Elven and Demon Coins</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
+<p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy and Undead Coins</p>
+<p><b>Effect</b>: Gaim assistants based on the amount of Unique Buildings owned (additive).</p>
+<p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
+<p><b>Effect</b>: Increased the production of all buildings based on the amount ofexcavations and excavation resets (This R).</p>
+<p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y)), where x is excavations and y is excavation resets this R (ruby and free resets).</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
+<p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
+<p><b>Formula</b>: (0.0008 * log(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
+<p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
+<hr>
+<p><b>Added</b>: 1 Secret Trophy</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png" align="middle"> Faction Ruler</b></p>
+<p><b>Requirements</b>: Unlock all the Advanced Heritages</p>
+<p><b>Cost</b>: 120 Notg (1.2e122)</p>
+<p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
+<hr>
+<p><b>Secret Upgrade Changes</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png" align="middle"> Leet</b></p>
+<p><b>Old Effect</b>: Increase the production of all buildings by 1.337%</p>
+<p><b>New Effect</b>: Increase the production of all buildings by 13.37%, No A nerf</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png" align="middle"> Unitary</b></p>
+<p><b>Old Effect</b>: Increase the production of all buildings by 1.11111111%</p>
+<p><b>New Effect</b>: Increase the production of all buildings by 11.11111111%, No A nerf</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png" align="middle"> Grand Diplomat</b></p>
+<p><b>Old Effect</b>: Increase your chance to find Faction Coins by an additional 1%</p>
+<p><b>New Effect</b>: Increase your chance to find Faction Coins by an additional 2%</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png" align="middle"> Faction Grinder</b></p>
+<p><b>Old Effect</b>: Increase your chance to find Faction Coins by additional 1%</p>
+<p><b>New Effect</b>: Increase your chance to find Faction Coins by additional 2%</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png" align="middle"> Glho kohhl snod</b></p>
+<p><b>Old Effect</b>: Increase base clicking reward by 1</p>
+<p><b>New Effect</b>: Increase base clicking reward by 50%, no A-nerf</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png" align="middle"> Suggestion Master</b></p>
+<p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
+<p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.</p>
+<p><b>Old Formula</b>: (a.b.c.d) (0.01 * d + c)%</p>
+<p><b>New Formula</b>: (30 * b) + a + (0.1 * d) * (0.01 * c)%, no A-nerf</p>
+<hr>
+<p><b>Quest Changes</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
+<p><b>Old Requirement</b>: 160 seconds long Call to Arms.</p>
+<p><b>New Requirement</b>: 120 seconds long Call to Arms.</p>
+<hr>
+<p><b>Faction Upgrade Changes</b></p>
+<p><b>Undead</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" align="middle"> Plagued Buildings (UD 2,3)</b></p>
+<p><b>Old Effect</b>: Increase the production of all buildings by an additional 50% per hour of playtime in this game.</p>
+<p><b>New Effect</b>: Increase the production of all buildings by an additional 75% per hour of playtime in this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" align="middle"> Dead Fields (UD 3,1)</b></p>
+<p><b>Effect</b>: Each assistants increases the production of all buildings based on the amount of Assistants and Necropolises you own.</p>
+<p><b>OldFormula</b>: (0.02 * x * y), where x is Assistants and y is Necropolises you own</p>
+<p><b>New Formula</b>: (0.03 * x * y), where x is Assistants and y is Necropolises you own</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" align="middle"> Tireless Workers (UD 3,2)</b></p>
+<p><b>Old Effect</b>: Increase the production of assistants by 1000%.</p>
+<p><b>New Formula</b>: Increase the production of assistants by 1500%</p>
+<br/>
+<p><b>Faceless</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" align="middle"> Dimension Door (FC 4,3)</b></p>
+<p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
+<p><b>Old Formula</b>: (0.013 * x ^ 0.7), where x is highest max mana this R.</p>
+<p><b>New Formula</b>: (0.013 * ^ 0.67), where x is highest max mana this R.</p>
+<br/>
+<p><b>Druid</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling (DD 1,3)</b></p>
+<p><b>Old Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the <b>least productive building</b> you own.</p>
+<p><b>New Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the <b>total buildings</b> you own.</p>
+<p><b>Formula</b>: (x ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
+<br/>
+<p><b>Drow</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"> Crystal Servants (DW 4,3) (Upgrade 12)</b></p>
+<p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
+<p><b>Old Formula</b>: (0.75 * (log(x) ^ 2), where x is amount of current gems.</p>
+<p><b>New Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
+<hr>
+<p><b>Union Changes</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" align="middle"> Druids Union</b></p>
+<p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
+<p><b>Old Formula</b>: ((x * y) / 2.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>New Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" align="middle"> Undead Union</b></p>
+<p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
+<p><b>Old Formula</b>: (10 * log(1 + x) ^ 2), where x is offline bonus multiplier.</p>
+<p><b>New Formula</b>: (75 * log(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"> Dragon Union</b></p>
+<p><b>Chaos Dragon Union</b></p>
+<p><b>Old Formula</b>: FC chance</p>
+<p><b>New Formula</b>: Log(FC chance)</p>
+<br/>
+<p><b>Old Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend <b>FC chance</b> (even for Unique, odd for Non-Unique).</p>
+<p><b>New Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend <b>Log(FC chance)</b> (even for Unique, odd for Non-Unique).</p>
+<p><b>Old  Formula</b>: Non-Unique (25 * 0.6 * x ^ 0.6), where x is FC chance.</p>
+<p><b>New Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is FC chance.</p>
+<p><b>Old  Formula</b>:  Unique (0.6 * x ^ 0.6), where x is FC chance.</p>
+<p><b>New Formula</b>: Unique (0.58 * x ^ 0.58), where x is FC chance.</p>
+<br/>
+<p><b>Order Dragon Union</b></p>
+<p><b>Effect</b>: Increase the production of all buildings based on time spent as Order.</p>
+<p><b>Old  Formula</b>: (1.6 * x ^ 0.6), where x is time spent this Order.</p>
+<p><b>New Formula</b>: (1.65 * x ^ 0.65), where x is time spent this Order.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"> Dwarven Union</b></p>
+<p><b>Chaos Dwarven Union</b></p>
+<p><b>Effect</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
+<p><b>Old Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
+<p><b>New Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"> Drow Union</b></p>
+<p><b>Balance Drow Union</b></p>
+<p><b>Effect</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
+<p><b>Old Formula</b>: (0.1 * ln(1 + x) ^ 2.8), where x is Tax Collections cast this game.</p>
+<p><b>New Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
+<hr>
+<p><b>Challenge Upgrade Changes</b></p>
+<br/>
+<p><b>Goblin Challenge 1</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DiscountSeasonChallenges.png" align="middle"> Discount Season</b></p>
+<p><b>Old Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 8 minutes.</p>
+<p><b>New Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes.</p>
+<br/>
+<p><b>Goblin Challenge 3</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SmuggledJewelsChallenges.png" align="middle"> Smuggled Jewels</b></p>
+<p><b>Old Effect</b>: Increase production bonus from Gems by 0.005% for each upgrade purchased.</p>
+<p><b>New Effect</b>: Increase production bonus from Gems by 0.01% for each upgrade purchased.</p>
+<br/>
+<p><b>Undead Challenge 1</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadlyImpatienceChallenges.png" align="middle"> Deadly Impatience</b></p>
+<p><b>Old Effect</b>: Undead Heritage works 1000% faster.</p>
+<p><b>New Effect</b>: Undead Heritage works 5000% faster.</p>
+<br/>
+<p><b>Druid Challenge 1</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SilentAssistanceChallenges.png" align="middle"> Silent Assistance</b></p>
+<p><b>Effect</b>: Animal Companions (1,2) works faster
+<p><b>Old Formula</b>: floor((sqrt(1 + 16 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Old Formula</b>: 1.1547x</p>
+<p><b>New Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>New Formula</b>: 3.1622x</p>
+<br/>
+<p><b>Druid challenge 4</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" align="middle"> Overflowing Mana</b></p>
+<p><b>Old Effect</b>: All spell durations increased by 1% for every 1,500 max mana.</p>
+<p><b>New Effect</b>: All spell durations increased based on max mana.</p>
+<p><b>New Formula</b>: (0.005 * x ^ 0.85), where x is max mana.</p>
+<br/>
+<p><b>Dragon Challenge 6</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DracometVaultChallenges.png" align="middle"> Dracomet Vault</b></p>
+<p><b>Effect</b>: Production bonus from Gems is multiplicatively increased over time based on the amount of artifacts you own. Resets on Abdications.</p>
+<p><b>Old Formula</b>: (0.002 * x * (y / 60) ^ 0.7), where x is artfiact found and y is time this game in seconds.</p>
+<p><b>New Formula</b>: (0.01 *  x * (y / 60) ^ 0.7), where x is artfiact found and y is time this game in seconds.</p>
+<hr>
+<p><b>Unique Building Changes</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" align="middle"></b></p>
+<p><b>Effect</b>: Increase production based on mana regen.</p>
+<p><b>Old Formula</b>: (2 * x ^ 0.6), where x is mana regen per second.</p>
+<p><b>New Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
+<hr>
+<p><b>Spell Changes</b></p>
+<p>All spell durations are now capped to 10000x their base duration.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" align="middle"></b></p>
+<p><b>Maelstrom click formula</b></p>
+<p><b>Old Clicks  Formula</b>: (0.075 * (log10(1 + x)) ^ 2.5)%, where x is clicks this game.</p>
+<p><b>New Clicks  Formula</b>: (0.075 * (log10(1 + x)) ^ 2.75)%, where x is clicks this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxSpell.png" align="middle"></b></p>
+<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on time spent in this game.</p>
+<p><b>Old Formula</b>: (5 * (x/60) ^ 0.7)%, where x is time in seconds this game.</p>
+<p><b>New Formula</b>: (3.2 * (x/60) ^ 0.82))%, where x is time in seconds this game.</p>
+<hr>
+<p><b>Lineage Changes</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyLineage.png" align="middle"> Fairy Lineage</b></p>
+<p><b>Fairy Lineage base</b></p>
+<p><b>Old Effect</b>: Makes Farms, Inns and Blacksmiths count 15% more per Lineage level.</p>
+<p><b>New Effect</b>: Makes Farms, Inns and Blacksmiths count 18% more per Lineage level.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk1.png" align="middle"> Fairy Perk 1</b></p>
+<p><b>Effect</b>: Makes Fairy Bloodline affect Hall of Legends.</p>
+<p><b>Effect</b>: Also reduces Fairy Bloodline Post Ascension nerf.</p>
+<p><b>Old Formula</b>: 250 * ((a ^ 0.9) ^5)</p>
+<p><b>New Effect</b>: Fairy Bloodline also effects Hall of Legends and removes 1 ascenion penalty.</p>
+<p><b>New Formula</b>: 250 * (a ^ 0.9), A1 nerf removed</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelLineage.png" align="middle"> AngelLineage</b></p>
+<p><b>Old Effect</b>: Effect: Adds 10% mana regeneration per level.</p>
+<p><b>New Effect</b>: Effect: Adds 7% mana regeneration per level.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk3.png" align="middle"> Angel Perk 3</b></p>
+<p><b>Effect</b>: Increase God's Hand bonus based on Unique Buildings owned.</p>
+<p><b>Old Formula</b>: (25000 * (x / 1000))%, Unique Buildings.(rounded down to nearest 1000)</p>
+<p><b>New Formula</b>: (12000 * (x / 1000))%, Unique Buildings.(rounded down to nearest 1000)</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk4.png" align="middle"> Angel Perk 4</b></p>
+<p><b>Old Effect</b>: When God's Hand is active, increase max mana by 100%.</p>
+<p><b>New Effect</b>: When God's Hand is active, increase max mana by 50%.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk3.png" align="middle"> Goblin Perk 3</b></p>
+<p><b>Old Effect</b>: Unique Building's base production increased by 2% for every 650 Unique Buildings.</p>
+<p><b>New Effect</b>: Unique Building's base production increased by 3% for every 650 Unique Buildings.</p>
+<hr>
+<p><b>Set Changes</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanSet.png" align="middle"> Titan Set</b></p>
+<p><b>Effect</b>: Increase Unique building production based on time spent this game.</p>
+<p><b>Old Formula</b>: (0.07 * x ^ 0.7), where x is seconds.</p>
+<p><b>New Formula</b>: (0.5 * x ^ 0.7), where x is seconds.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidSet.png" align="middle"> Druid Set</b></p>
+<p><b>Effect</b>: Increase production of all buildings based on their quantity.</p>
+<p><b>Old Formula</b>: (0.65 * x ^ 0.65), where x is building count.</p>
+<p><b>New Formula</b>: (0.75 * x ^ 0.75), where x is building count.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessSet.png" align="middle"> Faceless Set</b></p>
+<p><b>Effect</b>: Increase production of all buildings based on highest amount of spells cast in a single game.</p>
+<p><b>Old Formula</b>: (0.32 * x ^ 0.32), where x is number of spells cast.</p>
+<p><b>New Formula</b>: (0.32 * x ^ 0.28), where x is number of spells cast.</p>
+<br/>
+<div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1.1 March 26, 2018</a></b></p>
+        <div class="autohide">
+
 <p><b>v3.2 May 16, 2018</b>
 <br/>
 <p><b>Fixed</b>
@@ -422,7 +749,6 @@ div#images div{
 <p><b>Effect</b>: Multiplicatively increase mana regen and max mana based on highest time spent as Order, Balance or Chaos.</p>
 <p><b>Formula</b>: (0.03 * max(x, y ,z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
 <hr>
-
 <p><b>Dragon</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
 <p><b>Description</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
@@ -452,9 +778,7 @@ div#images div{
 <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend FC chance(even for Unique, odd for Non-Unique).</p>
 <p><b>Formula</b>: Non-Unique (25  * 0.6 * x ^ 0.6), where x is FC chance.</p>
 <p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is FC chance.</p>
-
 <br/>
-
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of Dragon Pastures you own.</p>
@@ -469,7 +793,8 @@ div#images div{
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your max mana.</p>
 <p><b>Formula</b>: (0.6 * x ^ 0.45), where x is max mana.</p>
-<div class="shlisting">
+    </div>
+   </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1.1 March 26, 2018</a></b></p>
         <div class="autohide">

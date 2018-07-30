@@ -3,140 +3,257 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
-<h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DwarfTopPage.png" alt="Spellcraft" align="middle"></h6></a>
-<p><img src="http://musicfamily.org/realm/Factions/picks/Dwarves.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+<h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DruidTopPage.png"></h6></a>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Druid.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
 <p><b>In-game description</b></p>
-<p>The Dwarves make the best masons, artisans and blacksmiths in all the realms. Their creations will outlast anything made by other races... except for beer, that is.</p>
-<p>The Dwarf Faction appears in addition to a good faction and enables the player to use all the 2 faction spells and 18 upgrades from both the Good and Dwarf factions.</p>
-<p>The Dwarf faction cannot be combined with Evil or Neutral Factions, nor is there a Research <b>Tree</b> for Dwarfs.</p>
-<p><b>Alignment</b>: Prestige (Good)</p>
-<p><b>Faction spell</b>: Diamond Pickaxe</p>
-<p><b>Effect</b>: Increase clicking reward by 25% per Excavation and "Faction Coin Find Chance" by 200% for 12 seconds.</p>
-<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" alt="Smiley face" align="middle"></a> <b>Minedwarf</b>
-<p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
-<p><b>Requirement</b>: Find 30'000 Faction Coins using Diamond Pickaxe in a single game.</p>
+<p>The wise druids of old were a group of people from all races who strove to maintain world balance with mystical discipline and powerful magic.</p>
+<p>Affiliating yourself with the Druids faction will boost your magic capabilities and reward balancing of all things.</p>
+<p>The Druids feature a powerful Heritage that increases maximum mana, and their final Challenge reward extends their spell to affect more buildings.</p>
+<p><b>Alignment</b>: Neutral</p>
+<p><b>Faction spell</b>: Grand Balance</p>
+<p><b>Effect</b>: Increase the production of your least productive building based on the amount of the three most built ones for 20 seconds.</p>
+<p><b>Formula</b>: round(0.25*(x*y*z/729)^0.9) where x,y, and z are the number of your three most-built buildings.</p>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceFactionUpgrade.png"> <b>Halls of Balance</b></p>
+<p><b>Effect</b>: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.</p>
+<p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
 <hr>
-<p><b>Unlock Requirements</b>:</p>
-<p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
+<p><b>Unlock Requirements</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedPieceofBark1FactionUpgrade.png" align="middle"><b> Fossilized Piece of Bark 1</b></p>
+<p><b>Type</b>: Quest Artifact</p>
+<p><b>Unlock</b>: Have at least 1B (1E9) gems in the abdication treasury, 10 Excavations</p>
+<p><b>Description</b>: 1st clue required to unlock the Druid Alliance.</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/PassageToTheUnderWorld.png" alt="Smiley face" align="middle"><b> Passage to the Underworld</b></p>
-<p><b>Cost</b>: 50Qid (5E49)</p>
-<p><b>Requirements</b>: 200 Excavations</p>
-<p><b>Effect</b>: Unlocks Prestige Quests</p>
-<p><b>Note</b>: Only needs to be bought once and do not count towards the 'Bought Upgrades' stats.</p>
-<p><b>Tip</b>: Use Titans with about 53 Qa (5e16) gems</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedPieceofBark2FactionUpgrade.png" align="middle"><b> Fossilized Piece of Bark 2</b></p>
+<p><p><b>Type</b>: Quest Artifact</p>
+<p><b>Unlock</b>: Have at least 1B (1E9) gems in the abdication treasury, 25 Excavations</p>
+<p><b>Description</b>: 2nd clue required to unlock the Druid Alliance.</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" alt="Smiley face" align="middle"><b> Sturdy Bearded Man's Quest</b></p>
-<p><b>Cost</b>: 10Qad (1E46), 10K Fairy Coins, 10K Elven Coins, 10K Angel Coins</p>
-<p><b>Requirements</b>: Play a Good Alignment</p>
-<p><b>Requirements</b>: Build 800 Inns, 7000 Buildings Owned (This Game),10000 clicks (Total)</p>
-<p><b>Effect</b>: Unlocks Underworld Diplomacy</p>
-<p><b>Note</b>: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.</p>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png" alt="Smiley face" align="middle"><b> Underworld Diplomacy</b></p>
-<p><b>Cost</b>: 1Qad (1E45)</p>
-<p><b>Requirements</b>: Sturdy Bearded Man's Quest</p>
-<p><b>Effect</b>: Unlocks Prestige Faction Coins, Trade Treaty, Royal Exchanges and Heritage, Required each run until R3</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DruidicRunestone.png" align="middle"><b> Druidic Runestone</b></p>
+<p><b>Type</b>: Upgrade</p>
+<p><b>Unlock</b>: 2 Fossilized Pieces of Bark, 1 M (1E6) Faction Coins (This Game)</p>
+<p><b>Cost</b>: 1 No (1E30), 25,000 Elf Coins, 25,000 Demon Coins</p>
+<hr>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ProofNeutralityFactionUpgrade.png" align="middle"><b> Proof Of Neutrality</b></p>
+<p><b>Type</b>: Alignment Upgrade</p>
+<p><b>Unlock</b>: Collect the 3 quest artifacts of any Neutral Faction.</p>
+<p><b>Cost</b>: 10Qa (1E16)</p>
+<p><b>Note</b>: To get 1 M (1E6) Faction Coins use the Elf faction with the Elven Luck upgrade (up to 100% chance of faction coins), Goblin with the Goblin Greed upgrade, or Titan for the Lightning Strike spell.</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png" alt="Smiley face" align="middle"> Dwarven Trade Treaty</b></p>
-<p><b>Cost</b>: 3000 Dwarven Coins</p>
-<p><b>Effect</b>: Unlocks Tier 1 Upgrades</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsTradeTreatyFactionUpgrade.png" align="middle"> Druid Trade Treaty</b></p>
+<p><b>Cost</b>: 500 Elven Coins + 500 Demon Coins</p>
+<p><b>Effect</b>: Unlocks Tier 1 Druid Upgrades.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Ale</b></p>
-<p><b>Cost</b>: 5 Qad (5E45)</p>
-<p><b>Effect</b>: Increase the production of all buildings by 1% per Inn you own.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidicVocabularyFactionUpgrade.png" align="middle"> Druidic Vocabulary</b></p>
+<p><b>Cost</b>: 500 Qi (5E20)</p>
+<p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
+<p><b>Formula</b>: 4000*x%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" alt="Smiley face" align="middle"> Expert Masonry</b></p>
-<p><b>Cost</b>: 50 Qad (5E46)</p>
-<p><b>Effect</b>: Reduce all building cost multipliers.</p>
-<p>Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
+<p><b>Cost</b>: 5 Sx (5E21)</p>
+<p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
+<p><b>Formula</b>: floor((sqrt(1+12*x)-1)/2), where x is your Playtime (This Game) stat in hours.</p>
+    <a id="Companions"></a>
+    <table class="numtable">
+        <thead>
+        <tbody>
+        <tr>
+            <td>Hours of Playtime</td>
+            <th>Assistants</th>
+        </tr>
+        <tbody>
+        <tr>
+            <td><center>0</td>
+            <td><center>3</td>
+        </tr>
+        <tr>
+            <td><center>1</td>
+            <td><center>4</td>
+        </tr>
+        <tr>
+            <td><center>2</td>
+            <td><center>5</td>
+        </tr>
+        <tr>
+            <td><center>3</td>
+            <td><center>5</td>
+        </tr>
+        <tr>
+            <td><center>4</td>
+            <td><center>6</td>
+        </tr>
+        <tr>
+            <td><center>5</td>
+            <td><center>6</td>
+        </tr>
+        <tr>
+            <td><center>6</td>
+            <td><center>6</td>
+        </tr>
+        </tbody>
+        <tr>
+            <td><center>12</td>
+            <td><center>8</td>
+        </tr>
+        </tbody>
+        <tr>
+           <td><center>18</td>
+           <td><center>9</td>
+        </tr>
+        </tbody>
+        <tr>
+            <td><center>24</td>
+            <td><center>11</td>
+        </tr>
+        <tr>
+            <td><center>36</td>
+            <td><center>12</td>
+        </tr>
+        <tr>
+            <td><center>48</td>
+            <td><center>14</td>
+        </tr>
+        <tr>
+            <td><center>60</td>
+            <td><center>15</td>
+        </tr>
+        <tr>
+            <td><center>72</td>
+            <td><center>17</td>
+        </tr>
+        </tbody>
+        </thead>
+    </table>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" alt="Smiley face" align="middle"> Mining Prodigies</b></p>
-<p><b>Cost</b>: 500 Qad (5E47)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-<p><b>Formula</b>: 10*x^0.9%, where x is the number of excavations you've purchased.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>
+<p><b>Cost</b>: 50 Sx (5E22)</p>
+<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
+<p><b>Formula</b>: (x ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Friendship Pact</b></p>
-<p><b>Cost</b>: 12000 Dwarven Coins</p>
-<p><b>Effect</b>: Unlocks more Dwarven Upgrades.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsFriendshipPactFactionUpgrade.png" align="middle"> Druid Friendship Pact</b></p>
+<p><b>Cost</b>: 2,500 Elven Coins + 2,500 Demon Coins</p>
+<p><b>Effect</b>: Unlocks Tier 2 Druid Upgrades.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" alt="Smiley face" align="middle"> Underground Citadels</b></p>
-<p><b>Cost</b>: 50 Qid (5E49)</p>
-<p><b>Effect</b>: Increase the production of Citadels based on the gems you own.</p>
-<p><b>Formula</b>: round(210*log(x)1.5)%, where x is your current number of gems.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlyBondFactionUpgrade.png" align="middle"> Earthly Bond</b></p>
+<p><b>Cost</b>: 5 Sp (5E24)</p>
+<p><b>Effect</b>: Increase maximum mana by 2.0 for each Stone Pillars you own.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" alt="Smiley face" align="middle"> Indestructible Treasure</b></p>
-<p><b>Cost</b>: 500 Qid (5E50)</p>
-<p><b>Effect</b>: Increase clicking reward based on the amount of buildings you own.</p>
-<p><b>Formula</b>: 0.5*x^0.65%, where x is your Buildings Owned (This Game) stat.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" align="middle"> Bardic Knowledge</b></p>
+<p><b>Cost</b>: 50 Sp (5E25)</p>
+<p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
+<p><b>Formula</b>: (1.75 * x ^ 0.9), where x is your maximum mana.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/BeardedAssistantsFactionUpgrade.png" alt="Smiley face" align="middle"> Bearded Assistants</b></p>
-<p><b>Cost</b>: 5 Sxd (5E51)</p>
-<p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
-<p><b>Formula</b>: 0.03*x^0.7%, where x is your Playtime (This Game) stat in seconds.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png" align="middle"> Shapeshifting</b></p>
+<p><b>Cost</b>: 500 Sp (5E26)</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
+<p><b>Formula</b>: (1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Alliance</b></p>
-<p><b>Cost</b>: 30000 Dwarven Coins</p>
-<p><b>Effect</b>: Unlocks more Dwarven Upgrades.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsAllianceFactionUpgrade.png" align="middle"> Druid Alliance</b></p>
+<p><b>Cost</b>: 10,000 Elven Coins + 10,000 Demon Coins</p>
+<p><b>Effect</b>: Unlocks Tier 3 Druid Upgrades.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" alt="Smiley face" align="middle"> Battlehammers</b></p>
-<p><b>Cost</b>: 500 Sxd (5E53)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-<p><b>Formula</b>: ln(x)^3*1.5%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MabinogionFactionUpgrade.png" align="middle"> Mabinogion</b></p>
+<p><b>Cost</b>: 50 Oc (5E28)</p>
+<p><b>Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
+<p><b>Formula</b>: (3.75 * ((4.25 * (12 - T)) ^ t)), where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" alt="Smiley face" align="middle"> Magic Resistance</b></p>
-<p><b>Cost</b>: 5 Spd (5E54)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on mana regeneration rate.</p>
-<p><b>Formula</b>: 80*x^0.85%, where x is your Mana per Second stat.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
+<p><b>Cost</b>: 500 Oc (5E29)</p>
+<p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
+<p><b>Formula</b>: (x 0.25), where x is Stone Pillars.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" alt="Smiley face" align="middle"> Overwatch</b></p>
-<p><b>Cost</b>: 50 Spd (5E55)</p>
-<p><b>Effect</b>: Your production is increased by 600% so long as there are mouse movements. Clicking and casting are not considered as movements.</p>
-<p>This bonus falls off by 1% per second, down to 0 while inactive.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
+<p><b>Cost</b>: 5 No (5E30)</p>
+<p><b>Effect</b>: Increase the production of each building by 1.75% per building of the same type. </p>
 <hr>
-<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenHeritage.png" alt="Dwarven Heritage" align="middle"><b> Dwarven Heritage</b></p>
-<p><b>Cost</b>: 75,000 Dwarven Coins</p>
-<p><b>Requirements</b>: Dwarven Champion Trophy</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-<p><b>Formula</b>: 2 * (x^0.9)%, where x is the number of excavations you've purchased.</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DruidHeritage.png" align="middle"><b> Druid Heritage</b></p>
+<p><b>Cost</b>: 25,000 Elven Coins, 25,000 Demon Coins</p>
+<p><b>Requirements</b>: Druid Champion Trophy</p>
+<p><b>Effect</b>: Increase maximum Mana by 1 every 15 buildings you own.</p>
 <hr>
-<p><b>Dwarf Research Requirements</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forge Quest</b></p>
-<p>Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
-<p><b>Effect</b>: Unlocks Dwarven Forges.</p>
-<p><b>Requirement</b>: R28 + 5000 Blacksmiths</p>
-<p><b>Cost</b>: 10 Sxg (1E184)</p>
+<p><b>Druid Research Requirements</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCirclesQuestFactionUpgrade.png" align="middle"> Stonehenge Circles Quest</b></p>
+<p>Hello, friend. The balance of nature requires more magic to sustain it. Build enough Stone Pillars, we'll gather our elders to improve them.</p>
+<p><b>Requirement</b>: R22, 2000 Stone Pillars</p>
+<p><b>Cost</b>: 10 Dtg (1E100)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forges</b></p>
-<p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 100 * x^0.9%, where x is your Mana per Second stat.</p>
-<p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
-<p><b>Requirements</b>: Dwarven Forge Quest</p>
-<p><b>Cost</b>: 10 USxg (1E187)</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCircleFactionUpgrade.png" align="middle"> Stonehenge Circles</b></p>
+<p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Access to the Research Facilities(after completing Secrets of the Ancients).</p>
+<p><b>Cost</b>: 10 Ttg (1E103)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
-<p><b>Effect</b>: Unlocks The Secrets of the Underworld upgrade.</p>
-<p><b>Requirements</b>: R29 + 2750th Excavation</p>
-<p><b>Effect</b>: Unlocks The Secrets of the Underworld.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" align="middle"> Key to the Lost City</b></p>
+<p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
+<p><b>Requirements</b>: Found on the 1500th excavation +R23</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Underworld</b></p>
-<p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" align="middle"> Secrets of the Ancients</b></p>
+<p><b>Effect</b>: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
-<p><b>Requirement</b>: Prestige Unique Building, Earth Core Artifact</p>
-<p><b>Cost</b>: 100 QiSxg (1E200), 10 M (1E7) FC of each</p>
-<p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.</p>
+<p><b>Requirements</b>: Key To The Lost City artifact, Any Neutral Unique Building.</p>
+<p><b>Cost</b>: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKingsFactionUpgrade.png" alt="Smiley face" align="middle"> Legacy of The Dwarven Kings</b></p>
-<p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins</p>
-<p><b>Requirement</b>: Find the Horn of the Kings artifact (Requires Dwarven Forges and 3250 Excavations)</p>
-<p><b>Effect</b>: Adds 3 extra Dwarven research slots: 2 for Craftsmanship and 1 to the faction's facility you are playing.</p>
-<p><b>Note</b>: Required to be bought each Dwarven research run.</p>
-<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceFactionUpgrade.png" align="middle"> Ancient Device</b></p>
+<p><b>Description</b>: Quest Artifact and Upgrade</p>
+<p><b>Effect</b>: Adds 2 extra slots to the Neutral faction you are playing.</p>
+<p><b>Note</b>: Druid research is related to Economics and Alchemy</p>
+<p><b>Requirements</b>: Play a Neutral Faction, + 2,000 excavations, (Chance: 0.2% per excavation)</p>
+<p><b>Cost</b>: 100 QiSxg (1E200)</p>
+<br/>
 <p><b>Unique Building</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUniqueBuilding.png" alt="Unique building dwarf" align="middle"></p>
-<p>Upgraded from Blacksmiths</p>
-<p>At R28, the Dwarven Blacksmiths building can be upgraded to a Unique Building: Dwarven Forges, which is required for some challenges and research quests.</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></p>
+<p>Upgraded from Stone Pillars</p>
+<p>At R22, Druid's Stone Pillars can be upgraded to a Unique Building: Stonehenge Circles, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Elven and Demon Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Druid upgrades and 8 hours activity time (This Game) of Grand Balance.<p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
+<p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 12K Stonehenges</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuildingUpgrade.png" alt="Ziggurat" align="middle"> <b>Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Ziggurat Quest</p>
+<p><b>Effect</b>: Gives Ziggurat Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
+<p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of lineages.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> <b>Druids Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
+<p><b>Requirement</b>: Ziggurat Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
+<p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase Non-Unique building count based on the amount of Ziggurats you own.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is Ziggurats count.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
+<p><b>Formula</b>: (x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
+<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+
 <?php include "../scripts/footer.html"; ?>

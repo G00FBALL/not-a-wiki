@@ -132,4 +132,53 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanUniqueBuilding.png" align="middle"></p>
 <p>Upgraded from Hall of Legends</p>
 <p>At R22, the Titan's Hall Of Legends building can be upgraded to a Unique Building: Olympian Halls, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedTitanHeritage.png" align="middle"> Advanced Titan Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Titan upgrades and 8 hours activity time (This Game) of Lightning Strike.<p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
+<p><b>Formula</b>: (0.05 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 3750 royal exchanges</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuildingUpgrade.png" alt="Mountain Palace" align="middle"> <b>Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Mountain Palace Quest</p>
+<p><b>Effect</b>: Gives Mountain Palace Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></p>
+<p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Increase production based on buildings owned.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.75), where x is buildings owned.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/TitansUnion.png" alt="Titans Union" align="middle"> <b>Titans Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
+<p><b>Requirement</b>: Mountain Palace Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance by 5% per hour spent in this game.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Titan Union</p>
+<p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is amount of Mountain Palaces owned.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Titan Union</p>
+<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is amount of Royal Exchanges you made.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" alt="Colossus Kingdom" align="middle"> <b>Colossus Kingdom</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Titan Union</p>
+<p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
+<p><b>Formula</b>: (20 * x ^ 0.7), where x is seconds this R.</p>
 <?php include "../scripts/footer.html"; ?>

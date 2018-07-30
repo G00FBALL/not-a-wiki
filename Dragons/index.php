@@ -58,7 +58,7 @@
 <p><b>Requirements</b>: Reincarnation 63, Completion of Dragon challenge 5, 12,000 research points spent across all facilities</p>
 <p><b>Challenge</b>: Gather 2.5e18 faction coins, 1e141 diamond coins, 120,000 buildings, 2e10 mana produced, 7500 excavations, 6000 assistants, 300,000 max mana and 175,000 mana regen.</p>
 <p><b>Effect</b>: Production bonus from Gems is multiplicatively increased over time based on the amount of artifacts you own. Resets on Abdications.</p>
-<p><b>Formula</b>: (0.002 * x * (y / 60) ^ 0.7), where x is artfiact count and y is time this game in seconds.</p>
+<p><b>Formula</b>: (0.01 * x * (y / 60) ^ 0.7), where x is artfiact found and y is time this game in seconds.</p>
 <p><b>Upgrade</b>: Good for Any</p>
 <hr>
 <p><b>In-Game Challenge Final Reward</b></p>

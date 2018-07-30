@@ -10,7 +10,7 @@
 <p><b>Requirements</b>: 4 Reincarnations, Halls of Balance spell upgrade, Elf 1 and Demon 1 challenges completed</p>
 <p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 <p><b>Effect</b>: Animal Companions (1,2) works faster</p>
-<p><b>New Formula</b>: floor((sqrt(1 + 16 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
 <p><b>Upgrade</b>: Good for Druid</p>
 <p><b>Tips</b>:
 <p>Make sure your least-producing building still makes up a large proportion of your production (2% and up). This will necessarily balance the production of each of your other buildings around 9.09% (= 1/11). Upgrade buildings only as required to balance them. Building more Farms, Inns and Blacksmiths will increase the multiplier of the final cast of Grand Balance.</p>
@@ -36,12 +36,13 @@
 <p>2.Buy Max Stone Pillars and Max Alchy Labs > Cast Grand Balance</p>
 <p>3.Buy Max Monasteries, Max Labys, and Max Iron Strongholds > Cast Grand Balance.</p>
 <hr>
-<p><b>Druid Challenge 4</b></p>
+<p><b>Druid Challenge 4</b></p>(0.005 * x ^ 0.85)
 <p><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" alt="Overflowing Mana" align="middle"> <b>Overflowing Mana</b></p>
 <p>The Druids need more spell power, but they are worried about outside influences throwing off their balance</p>
 <p><b>Requirements</b>: 25 Reincarnations, Druid Unique Building</p>
 <p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
-<p><b>Effect</b>: All spell durations increased by 1% for every 1,500 max mana.</p>
+<p><b>Effect</b>: Increase all spell durations based on max mana.</p>
+<p><b>Formula</b>: (0.005 * x ^ 0.85), where x is max mana.</b>
 <p><b>Upgrade</b>: Good for All</b>
 <p><b>Tips</b></p>
 <p>Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>

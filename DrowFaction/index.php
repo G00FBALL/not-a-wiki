@@ -132,8 +132,63 @@
 <p><b>Requirement</b>: Find the Flame of Bondelnar artifact (Requires Spider Sanctuaries and 3250 Excavations)</p>
 <p><b>Effect</b>: Adds 3 extra Drow research slots: 2 for Warfare and 1 to the faction's facility you are playing.</p>
 <p><b>Note</b>: Required to be bought each Drow research run.</p>
-<hr>
+<br/>
+<p><b>Unique Building</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowUniqueBuilding.png" alt="Unique building drow" align="middle"></p>
 <p>Upgraded from Dark Temples</p>
 <p>At R28, Drow's Dark temples building can be upgraded to a Unique Building: Spider Sanctuary, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R116+</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Drow upgrades and 8 hours activity time (This Game) of Combo Strike.<p>
+<p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
+<p><b>Formula</b>: (0.0008 * log(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
+<p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
+<p><b>Requirement</b>: 1 B (1e9) spells cast this game</p>
+<p><b>Cost</b>: 100 Vg (1e65)</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Brothel.png" align="middle"><b> Brothel Upgrade</b></p>
+<p><b>Requirement</b>: Brothel Quest</p>
+<p><b>Cost</b>: 100 Qivg (1e80)</p>
+<p><b>Effect</b>: Gives Brothel Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
+<p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
+<p><b>Formula</b>: (10 * x ^1.05), where x is royal exchanges this game</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
+<p><b>Cost</b>: 1e24 Drow coins</p>
+<p><b>Effect</b>: Unlocks Union Upgrades</p>
+<br/>
+<p><b>Other Effects</b></p>
+<p><b>Proof of Order</b>: Increase offline bonus based on max mana.</p>
+<p><b>Formula</b>:  (0.1 * x ^ 0.85), where x is max mana</p>
+<br/>
+<p><b>Proof of Balance</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
+<p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
+<br/>
+<p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
+<p><b>Production Formula</b>: (6 * x ^ 0.6), where x is time offline this R</p>
+<p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
+<br/>
+<p><b>Union Upgrades</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
+<p><b>Cost</b>: 10 Dtg (1e100)</p>
+<p><b>Effect</b>: Increase Royal Exchange bonus based on Brothel amount.</p>
+<p><b>Formula</b>: (1.75 * x ^ 0.75), where x is Brothels</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
+<p><b>Cost</b>: 100 Qitg (1e110)</p>
+<p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
+<p><b>Formula</b>: (45 * x ^ 0.45), where x is amount of Unique Buildings.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
+<p><b>Cost</b>: 1 Notg (1e120)</p>
+<p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
+<p><b>Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
 <?php include "../scripts/footer.html"; ?>

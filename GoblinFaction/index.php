@@ -29,7 +29,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrongCurrencyFactionUpgrade.png" alt="Smiley face" align="middle"> Strong Currency</b></p>
 <p><b>Cost</b>: 50 M (5E7)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>: ln^3(x)%, where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: ln(1 + x) ^ 3%, where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveTradingFactionUpgrade.png" alt="Smiley face" align="middle"> Slave Trading</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
@@ -107,4 +107,54 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Witch Conclaves</p>
 <p>At R16, the Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Goblin upgrades and 8 hours activity time (This Game) of Goblin's Greed.<p>
+<p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
+<p><b>Formula</b>: (0.25 * log(1 + x) ^ 0.95), where x is gems owned.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Slave Market Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 30K Neutral buildings.</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuildingUpgrade.png" alt="Slave Market" align="middle"> <b>Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Slave Market Quest</p>
+<p><b>Effect</b>: Gives Slave Market Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
+<p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Increase production based on assistants.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: floor(0.25 * x ^ 0.75)%, where x is amount of assistants.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/GoblinsUnion.png" alt="Goblins Union" align="middle"> <b>Goblins Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
+<p><b>Requirement</b>: Slave Market Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
+<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is spells cast in this game.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Goblins Union</p>
+<p><b>Effect</b>: Increase production bonus from Gem based on the amount of Slave Markets you own.</p>
+<p><b>Formula</b>: X ^ 0.5, where x is Slave Market you own.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MoneyisMagic.png" alt="Money is Magic" align="middle"> <b>Money is Magic</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Goblins Union</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of Tax Collections cast in this game.</p>
+<p><b>Formula</b>: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png" alt="Lousy Architecture" align="middle"> <b>Lousy Architecture</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Goblins Union</p>
+<p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
+<p><b>Formula</b>: (-0.02)</p>
 <?php include "../scripts/footer.html"; ?>

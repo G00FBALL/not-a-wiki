@@ -5,7 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
     <p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
-    <p>There are 57 Lore Artifacts.</p>
+    <p>There are 60 Lore Artifacts.</p>
     <p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b> Survey Equipment Upgrade</b></p>
@@ -465,4 +465,25 @@
     <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
     <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dragon</p>
     <p><b>Chance</b>: (x / 2500)%, where x is active spells</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/LanternofGuidanceArtifact.png" align="middle"> Lantern of Guidance</b></p>
+<p><b>Hint</b>: Massive mana flows can offer guidance.</p>
+<p><b>Description</b>: Follow the guiding light, o wonderer, for it shall bring you fortune.</p>
+<p><b>Requirements</b>: R120+, Proof of Order</p>
+<p><b>Chance</b>: (x / 10,000,000,000 (10B))%, where x is mana regen.</p>
+<p><b>Effect</b>: Unlocks Tier 2 Temporal Flux</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/OilLampArtifact.png" align="middle"> Oil Lamp</b></p>
+<p><b>Hint</b>: Chaos magic burns brightly.</p>
+<p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
+<p><b>Requirements</b>: R120+, Proof of Chaos</p>
+<p><b>Chance</b>: (min(x, y, z) / 100 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
+<p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SparkofLifeArtifact.png" align="middle"> Spark of Life</b></p>
+<p><b>Hint</b>: The power of Creation may spark something new.</p>
+<p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
+<p><b>Requirements</b>: R120+, Proof of Balance</p>
+<p><b>Chance</b>: (x / ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
+<p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
     <?php include "../scripts/footer.html"; ?>

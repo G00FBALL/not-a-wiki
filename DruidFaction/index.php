@@ -127,8 +127,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>
 <p><b>Cost</b>: 50 Sx (5E22)</p>
-<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the least productive building you own.</p>
-<p><b>Formula</b>: x ^ 0.35, where x is the amount of the building with the lowest production. (additively and multiplicatively)</p>
+<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
+<p><b>Formula</b>: (x ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsFriendshipPactFactionUpgrade.png" align="middle"> Druid Friendship Pact</b></p>
@@ -142,12 +142,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" align="middle"> Bardic Knowledge</b></p>
 <p><b>Cost</b>: 50 Sp (5E25)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
-<p><b>Formula</b>: 1.75 * x ^ 0.9, where x is your maximum mana.</p>
+<p><b>Formula</b>: (1.75 * x ^ 0.9), where x is your maximum mana.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png" align="middle"> Shapeshifting</b></p>
 <p><b>Cost</b>: 500 Sp (5E26)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-<p><b>Formula</b>: 1.3 * x ^ 0.7, where x is the amount of assistants you own.</p>
+<p><b>Formula</b>: (1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsAllianceFactionUpgrade.png" align="middle"> Druid Alliance</b></p>
@@ -157,12 +157,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MabinogionFactionUpgrade.png" align="middle"> Mabinogion</b></p>
 <p><b>Cost</b>: 50 Oc (5E28)</p>
 <p><b>Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: 3.75 * ((4.25 * (12 - T)) ^ t), where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
+<p><b>Formula</b>: (3.75 * ((4.25 * (12 - T)) ^ t)), where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
 <p><b>Cost</b>: 500 Oc (5E29)</p>
 <p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
-<p><b>Formula</b>: x0.25, where x is Stone Pillars.</p>
+<p><b>Formula</b>: (x 0.25), where x is Stone Pillars.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
 <p><b>Cost</b>: 5 No (5E30)</p>
@@ -205,4 +205,55 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></p>
 <p>Upgraded from Stone Pillars</p>
 <p>At R22, Druid's Stone Pillars can be upgraded to a Unique Building: Stonehenge Circles, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Elven and Demon Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Druid upgrades and 8 hours activity time (This Game) of Grand Balance.<p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
+<p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 12K Stonehenges</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuildingUpgrade.png" alt="Ziggurat" align="middle"> <b>Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Ziggurat Quest</p>
+<p><b>Effect</b>: Gives Ziggurat Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
+<p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of lineages.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> <b>Druids Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
+<p><b>Requirement</b>: Ziggurat Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
+<p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase Non-Unique building count based on the amount of Ziggurats you own.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is Ziggurats count.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
+<p><b>Formula</b>: (x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Druids Union</p>
+<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
+<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+
 <?php include "../scripts/footer.html"; ?>

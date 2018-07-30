@@ -5,7 +5,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <div class="shlisting">
-    <h6><b>838 Total Trophies</b></h6>
+    <h6><b>852 Total Trophies</b></h6>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Allegiances Trophies (14)</a></b></p>
@@ -122,6 +122,47 @@
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png align=middle><b> Dragon Grand Champion</b></p>
 <p><b>Requirement</b>: R60+, Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.</p>
+         </div>
+    </div>
+<hr>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Master Trophies (12)</a></b></p>
+            <div class="autohide">
+<p><img src=http://musicfamily.org/realm/Factions/picks/FairyMasterTrophy.png align=middle><b> Fairy Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Fairy Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ElvenMasterTrophy.png align=middle><b> Elven Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Elven Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/AngelMasterTrophy.png align=middle><b> Angel Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Angel Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinMasterTrophy.png align=middle><b> Goblin Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Goblin Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadMasterTrophy.png align=middle><b> Undead Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Undead Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DemonMasterTrophy.png align=middle><b> Demon Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Demon Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/TitanMasterTrophy.png align=middle><b> Titan Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Titan Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DruidMasterTrophy.png align=middle><b> Druid Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Druid Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessMasterTrophy.png align=middle><b> Faceless Master</b></p>
+<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Faceless Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DwarvenMasterTrophy.png align=middle><b> Dwarven Master</b></p>
+<p><b>Requirement</b>: R116+, Reach lineage level 30 and purchase all Dwarven Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DrowMasterTrophy.png align=middle><b> Drow Master</b></p>
+<p><b>Requirement</b>: R116+, Reach lineage level 30 and purchase all Drow Upgrades.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/DragonMasterTrophy.png align=middle><b> Dragon Master</b></p>
+<p><b>Requirement</b>: R116+, Reach lineage level 30 and purchase all Dragon Upgrades.</p>
          </div>
     </div>
 <hr>
@@ -2957,18 +2998,18 @@
 </div>
 <hr>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (59)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (60)</a></b></p>
             <div class="autohide">
 <p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
 <p><b>Requirement</b>: Have exactly 1337 Coins at any given time.
-<p><b>Effect</b>: Increase the production of all buildings by 1.337%</p>
+<p><b>Effect</b>: Increase the production of all buildings by 13.37%</p>
 <p><b>Cost</b>: 10 M (1e7)</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: This can be done at any R.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle><b> Unitary</b></p>
 <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
-<p><b>Effect</b>: Increase the production of all buildings by 1.11111111%</p>
+<p><b>Effect</b>: Increase the production of all buildings by 11.1111%</p>
 <p><b>Cost</b>: 10 M (1e7)</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: This can be done at any R.</p>
@@ -2983,7 +3024,7 @@
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle><b> Grand Diplomat</b></p>
 <p><b>Requirement</b>: Ally with each Vanilla, Neutral and Prestige factions at least once.</p>
-<p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 1%</p>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 2%</p>
 <p><b>Cost</b>: 6 T (6e12)</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: This can be done at any R.</p>
@@ -3033,7 +3074,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
 <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
 <p><b>Effect</b>: Increase your chance to find Faction Coins by additional 1%.</p>
-<p><b>Effect</b>: A1, Increase your chance to find Faction Coins by additional 1%.</p>
+<p><b>Effect</b>: A1, Increase your chance to find Faction Coins by additional 2%.</p>
 <p><b>Cost</b>: 6 Oc (6e27)</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: This can be done at R0 (use Elf).</p>
@@ -3238,7 +3279,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png align=middle><b> glho kohhl snod</b></p>
 <p><b>Requirement</b>: Import this into you game</p>
 <p><b>Note</b>: Barely whispering these letters makes your heart pound harder.</p>
-<p><b>Effect</b>: Increase base clicking reward by 1.</p>
+<p><b>Effect</b>: Increase base clicking reward by 50%, no A-nerf.</p>
 <p><b>Cost</b>: 1000 coins</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: Can be done at any R.</p>
@@ -3253,6 +3294,7 @@
 <p><b>Requirement</b>: Open the changelog and ponder about what could be added in there for 3 minutes.</p>
 <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
 <p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.</p>
+<p><b>Formula</b>: (a.b.c.d) (0.01 * d + c) -> (30 * b) + a + (0.1 * d) * (0.01 * c))%, no A Nerf
 <p><b>Cost</b>: 1000 coins</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: Click the Option tab and click the numbers in the bottom right corner and leave it open for 3 minutes.</p>
@@ -3455,6 +3497,11 @@ div#images div{
 <br/>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
 <p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png" align="middle"><b> Faction Ruler</b></p>
+<p><b>Requirement</b>: Unlock all the Advanced Heritages.</p>
+<p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
+<p><b>Cost</b>: 120 Notg (1.2e122)</p>
    </div>
 </div>
             </div>

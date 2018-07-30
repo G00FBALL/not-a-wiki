@@ -9,7 +9,7 @@
 <p>The goblin king has revealed the secrets to his race's success. Patience and persistence.</p>
 <p><b>Requirements</b>: 2 Reincarnations, Greed Drive spell upgrade
 <p><b>Challenge</b>: Have Goblin (3,3) Green Fingers Discount roll more than 1000 seconds worth of production.</p>
-<p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 8 minutes instead.</p>
+<p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead.</p>
 <p><b>Upgrade</b>: Good for Goblin</p>
 <p><b>Tips</b></p>
 <p>While Green Fingers Discount says it works offline, it does not work in the same way as online, and this challenge cannot be completed offline or when coming online based on the offline effect of GFD. The challenge can be attempted in multiple tabs simultaneously, provided the save you load into the tabs does not yet have GFD purchased.</p>
@@ -30,7 +30,7 @@
 <p>The goblin king wants a castle made of jewels all to himself.</p>
 <p><b>Requirements</b>: 18 Reincarnations, Goblin Unique Building, Goblin Bloodline</p>
 <p><b>Challenge</b>: Have at least 1 Qavg (1E75) gems in the abdication treasury.</p>
-<p><b>Effect</b>: Increase production bonus from Gems by 0.005% for each upgrade purchased.</p>
+<p><b>Effect</b>: Increase production bonus from Gems by 0.01% for each upgrade purchased.</p>
 <p><b>Upgrade</b>: Good for All</p>
 <p><b>Note</b>: Tier 3 challenges cannot be done as Drow or Dwarf Factions."because you can't buy the U building"</p>
 <hr>

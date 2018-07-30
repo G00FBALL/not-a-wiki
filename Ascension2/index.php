@@ -22,7 +22,7 @@
 <p><b>Cost</b>: 5000 Mana</p>
 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
-<p><b>Formula</b>: (5 * (x / 60) ^ 0.7)%, where x is time in seconds this game.</p>
+<p><b>Formula</b>: (3.2 * (x/60) ^ 0.82)%, where x is time in seconds this game.</p>
 <br/>
 <p><b>Good - Angels</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
@@ -84,14 +84,14 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (2 * x ^ 0.6), where x is mana regen per second.</p>
+<p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
 <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (10 * log(1 + x) ^ 2), where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (75 * log10(x) ^ 2.25), where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
@@ -573,7 +573,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
-<p><b>Formula</b>: (0.013 * x ^ 0.7), where x is highest max mana this R.</p>
+<p><b>Formula</b>: (0.013 * x ^ 0.67), where x is highest max mana this R.</p>
 <br/>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
@@ -704,7 +704,7 @@
 <p><b>Requirement</b>: Ziggurat Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-<p><b>Formula</b>: ((x * y) / 2.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -755,7 +755,7 @@
 <p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
+<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
@@ -798,7 +798,7 @@
 <p><b>Formula</b>:  (0.1 * x ^ 0.85), where x is max mana</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
-<p><b>Formula</b>: (0.1 * ln(1 + x) ^ 2.8), where x is Tax Collections cast this game.</p>
+<p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
 <p><b>Production Formula</b>: (6 * x ^ 0.6), where x is time offline this R</p>
@@ -818,7 +818,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-<p><b>Formula</b>: (log(x) ^ 2), where x is amount of current gems.</p>
+<p><b>Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
 <br/>
 
 <p><b>Neutral - Dragon</b>
@@ -844,14 +844,14 @@
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order.</p>
-<p><b>Formula</b>: (1.6 * x ^ 0.6), where x is time spent this Order.</p>
+<p><b>Formula</b>: (1.65 * x ^ 0.65), where x is time spent this Order.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend FC chance(even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (25  * 0.6 * x ^ 0.6), where x is FC chance.</p>
-<p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is FC chance.</p>
+<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend Log(FC chance) (even for Unique, odd for Non-Unique).</p>
+<p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is FC chance.</p>
+<p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is FC chance.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>

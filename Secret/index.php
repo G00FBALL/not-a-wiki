@@ -15,12 +15,12 @@
 <p><b>Requirement</b>: Have exactly 1337 Coins at any given time.</p>
 <p><b>Cost</b>: 10 M (1e7), A1+, Free</p>
 <p><b>Note</b>: This can be done at any R</p>
-<p><b>Effect</b>: Increase the production of all buildings by 1.337%.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 13.37%.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle><b> Unitary</b></p>
 <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
 <p><b>Cost</b>: 10 M (1e7), A1+, Free</p>
-<p><b>Effect</b>: Increase the production of all buildings by 1.11111111%</p>
+<p><b>Effect</b>: Increase the production of all buildings by 11.11111111%</p>
 <p><b>Note</b>: This can be done at any R</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
@@ -34,7 +34,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle><b> Grand Diplomat</b></p>
 <p><b>Requirement</b>: Ally with each Vanilla, Neutral and Prestige factions at least once.<p>
 <p><b>Cost</b>: 6 T (6e12), A1+, Free</p>
-<p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 1%</p>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 2%</p>
 <p><b>Note</b>: This can be done at any R.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png align=middle><b> Exchange Master</b></p>
@@ -81,7 +81,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
 <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
 <p><b>Cost</b>: 6 Oc (6e27), A1+, Free</p>
-<p><b>Effect</b>: Increase your chance to find Faction Coins by additional 1%.</p>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by additional 2%.</p>
 <p><b>Note</b>: This can be done at R0 (use Elf).</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p>
@@ -257,7 +257,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png align=middle><b> glho kohhl snod</b></p>
 <p><b>Requirement</b>: Import 'glho kohhl snod' into you game without the quotes.</p>
 <p><b>Cost</b>: 1000 coins, A1+, Free</p>
-<p><b>Effect</b>: Increase base clicking reward by 1.</p>
+<p><b>Effect</b>: Increase base clicking reward by 50%.</p>
 <p><b>Note</b>: This can be done at any time.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png align=middle><b> Mana Matrix</b></p>
@@ -270,6 +270,7 @@
 <p><b>Cost</b>: 1000 coins, A1+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
 <p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.</p>
+<p><b>Formula</b>: (30 * b) + a + (0.1 * d) * (0.01 * c)%, no A-nerf
 <p><b>Note</b>: Click the Option tab and click the numbers in the bottom right corner and leave it open for 3 minutes.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/Rule'disSecretTrophy.png align=middle><b> Rule 'dis</b></p>
@@ -388,7 +389,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
 <p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
 <p><b>Effect</b>: Gives upgrade with the same name.</p>
-<hr>
+<br>
 <p><b> Art of the Crow Upgrade</b></p>
 <p><b>Requirement</b>: Faction and Set Alignments has to match to buy the upgrade (Evil, Good, Neutral).</p>
 <p><b>Cost</b>: 1 Qavg (1.0e75)</p>
@@ -455,14 +456,19 @@ div#images div{
     <center>Neutral</center>
   </div>
 </div>
-<p><b>Balance</b>: Multiplicatively increase mana regeneration.</p>
+<p><b>Effect</b>: Multiplicatively increase mana regeneration.</p>
 <br>
 <p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
 <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
-<hr>
+<br>
 <p><b>Evil Effect</b>: The amount increased is based on time spent in this game.</p>
 <p><b>Formula</b>: (4 * x ^ 0.44), where x is time spent this game.</p>
-<hr>
+<br>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
 <p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png" align="middle"> Faction Ruler</b></p>
+<p><b>Requirements</b>: Unlock all the Advanced Heritages</p>
+<p><b>Cost</b>: 120 Notg (1.2e122)</p>
+<p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
 <?php include "../scripts/footer.html"; ?>

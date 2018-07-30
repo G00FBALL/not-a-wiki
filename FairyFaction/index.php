@@ -102,4 +102,56 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Farms</p>
 <p>At R16, the Fairies' Farms building can be upgraded to a Unique Building: Enchanted Fields, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Fairy upgrades and 8 hours activity time (This Game) of Fairy Chanting.<p>
+<p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
+<p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 200K Assistants</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuildingUpgrade.png" alt="Swarming Towers" align="middle"> <b>Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Swarming Towers Quest</p>
+<p><b>Effect</b>: Gives Swarming Towers Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
+<p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Increase production based on the amount of active spells.</p>
+<p><b>Formula</b>: (0.4 * x ^ 2.4)%, where x is active spells.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FairiesUnion.png" alt="Fairies Union" align="middle"> <b>Fairies Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Fairy Coins</p>
+<p><b>Requirement</b>: Swarming Towers Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase assistant production based on amount of Enchanted Fields, Inns and Blacksmiths if building count is even, or all other buildings if building count is odd.</p>
+<p><b>Formula</b>: (15 * x ^ 0.475), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
+<p><b>Formula</b>: (15 * x ^ 0.475), where x is T4-T11 Buildings (If building count is odd)</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" alt="Bubble Swarm" align="middle"> <b>Bubble Swarm</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Fairies Union</p>
+<p><b>Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
+<p><b>Formula</b>: (sumOfDigits(x) * 100 * x ^ 0.45), where x is amount of Swarming Towers owned.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Fairies Union</p>
+<p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (This R)</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.75), where x is time spent affiliated with Fairies. (This R)</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Fairies Union</p>
+<p><b>Effect</b>: Multipicatively increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
+<p><b>Formula</b>: Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
+<br/>
 <?php include "../scripts/footer.html"; ?>

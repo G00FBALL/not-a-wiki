@@ -142,4 +142,54 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" alt="Smiley face" align="middle"></p>
 <p>Upgraded from Labyrinths</p>
 <p>At R22, Faceless' Labyrinths can be upgraded to a Unique Building: Sunken Cities, which is required for some challenges and research quests.</p>
+<hr>
+<p><b>Ascension 2 - R100+</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
+<p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy and Undead Coins</p>
+<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Faceless upgrades and 8 hours activity time (This Game) of Brainwave.<p>
+<p><b>Effect</b>: Gaim assistants based on the amount of Unique Buildings owned (additive).</p>
+<p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
+<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
+<p><b>Requirement</b>: 5000 Excavations</p>
+<p><b>Effect</b>: Grants access to Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> <b>Forbidden Library Unique Building Upgrade</b></p>
+<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+<p><b>Requirement</b>: Forbidden Library Quest</p>
+<p><b>Effect</b>: Gives Forbidden Library Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
+<p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
+<p><b>Effect</b>: Increase production based on spells cast.</p>
+<p><b>Effect</b>: Also grants access to Faction Union.</p>
+<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
+<p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>
+<p><b>Requirement</b>: Forbidden Library Unique Building</p>
+<p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
+<p><b>Formula</b>: (50 * x ^ 0.5), where x is random faction all time in seconds.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
+<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+<p><b>Requirement</b>: Faceless Union</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time and resets every 15 minutes.</p>
+<p><b>Formula</b>: (Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
+<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+<p><b>Requirement</b>: Faceless Union</p>
+<p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
+<p><b>Formula</b>: (x)</p>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" alt="Dimension Door" align="middle"> <b>Dimension Door</b></p>
+<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+<p><b>Requirement</b>: Faceless Union</p>
+<p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
+<p><b>Formula</b>: (0.013 * x ^ 0.67), where x is highest max mana this R.</p>
 <?php include "../scripts/footer.html"; ?>

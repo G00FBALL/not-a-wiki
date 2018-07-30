@@ -208,7 +208,7 @@
         </font>
     </b>
     <p>Spells are an active component of the game mechanics that enables to boost production. They require mana to be cast and only work while playing online.</p>
-        Their duration, resource gain, mana-cost, and mana regeneration speed can be altered by getting specific Faction, Heritage, Challenge, or Research upgrades. Different aspects of the spells can also be used in other upgrades (eg: while a spell is active, the number of spell casts, based on mana produced, etc.).</p>
+    <p>Their duration, resource gain, mana-cost, and mana regeneration speed can be altered by getting specific Faction, Heritage, Challenge, or Research upgrades. Different aspects of the spells can also be used in other upgrades (eg: while a spell is active, the number of spell casts, based on mana produced, etc.).</p>
     <p>The trick to use spells efficiently relies on finding the best setting: Which spell combination to cast, at what timing, with which automatic-casting tool, and where to set the contingency arrow. Like for upgrades, these choices can make a crucial difference for your game progress.</p>
     <hr>
     <p><b>Tier Spell Upgrades (R42+)</p></b>
@@ -222,7 +222,7 @@
     <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
     <p><b>Formulas</b>: (1000 * log10(1 + x))</p>
     <hr>
-    <p><b>From R42+</b>, for each default spell, 5 tier spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.</p>
+    <p><b>From R42+</b>, for each default spell, tier 6 spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 6 times simultaneously.</p>
     <p>The generalized formula for spell tiers is B^T, where B is the base spell production and T is the tier of the spell. The exceptions to this are Gem Grinder, which increases its production by a linear amount, and Dragon's Breath, which simply adds one new type of Dragon Breath to the current breaths in effect. Other peripheral effects, such as the tripling of assistants granted from Fairy Chanting, are also not impacted by spell tiers.</p>
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath spell for the 6th tier.</p>
     <p><b>From R100+</b>, for each default spell, tier 7 spell upgrades become available. Each tier gives 1 additional spell cast, and with all tiers combined, allows to cast a single spell up to 7 times simultaneously.</p>
@@ -250,6 +250,9 @@
     <p>The bonuses are additional. The total bonus of all the offline auto-casting upgrades is 7 spell casts per minute and 90% of your online mana regeneration rate.</p>
     <hr>
     <p><b><center>All Alignment and Faction Spells</center></b></p>
+    </br>
+    <p><b>As of v3.3 All spell durations are now capped to 10000x their base duration.</b></p>
+    </br>
     <p><b>All Spells Tiers</b></p>
     <p><b>Note</b>: Each tier also increase offline production based on mana statistics. (Not Tax Collection)</p>
     <p><b>Formula</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.</p>
@@ -415,9 +418,14 @@
                 <p><b>Cost</b>: 5000 Mana</p>
                 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
                 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
-                <p><b>Formula</b>: (5*(x/60)^0.7)%, where x is time in seconds this game.</p>
+                <p><b>Formula</b>: (3.2 * (x/60) ^ 0.82))%, where x is time in seconds this game.</p>
                 <p><b>Factions</b></p>
                 <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
+       <br/>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxTier2.png" alt="Temporal Flux" align="middle"> <b>Tier 2</b></p>
+                <p><b>Requirement</b>: Lantern of Guidance (Artifact)</p>
+                <p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins
+                <p><b>FC Cost</b>: 1 Oc (1e27) Angel, Undead, Dwarven and Drow Coins.</p>
        <br/>
                 <p><b>Proof of Chaos</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"></p>
@@ -425,12 +433,17 @@
                 <p><b>Cost</b>: 3500 Mana</p>
                 <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.</p>
                 <p><b>Formulas</b></p>
-                <p><b>Mana</b> (0.02*(log10(1+x))^5%, where x is mana produced this game.</p>
-                <p><b>Clicks</b> (0.075*(log10(1+x))^2.5)%, where x is clicks this game.</p>
-                <p><b>Faction Coins</b> (0.01*(log10(1+x))^4)%, where x is faction coins found this game.</p>
-                <p><b>Assistants</b>(0.25*(log10(1+x))^5)%, where x is amount of assistants.</p>
+                <p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5%, where x is mana produced this game.</p>
+                <p><b>Clicks</b> (0.075 * (log10(1 + x)) ^ 2.75)%, where x is clicks this game.%, where x is clicks this game.</p>
+                <p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
+                <p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
                 <p><b>Factions</b></p>
                 <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
+       <br/>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpellTier2.png" alt="Maelstrom" align="middle"> <b>Tier 2</b></p>
+                <p><b>Requirement</b>: Oil Lamp (Artifact)</p>
+                <p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins
+                <p><b>FC Cost</b>: 1 Oc (1e27) Fairy, Demon, Dwarven and Drow Coins.</p>
        <br/>
                 <p><b>Proof of Balance</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"></p>
@@ -438,9 +451,14 @@
                 <p><b>Cost</b>: 6000 Mana</p>
                 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
                 <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
-                <p><b>Formula</b>: floor(0.2*x^0.6), where x is mana per seconds.</p>
+                <p><b>Formula</b>: floor(0.2 * x ^ 0.6), where x is mana per seconds.</p>
                 <p><b>Factions</b></p>
                 <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
+       <br/>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpellTier2.png" alt="All Creation" align="middle"> <b>Tier 2</b></p>
+                <p><b>Requirement</b>: Spark of Life (Artifact)</p>
+                <p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins
+                <p><b>FC Cost</b>: 1 Oc (1e27) Elven, Goblin, Dwarven and Drow Coins.</p>
     <hr>
     <p><b><center>Alignment Spells</center></p></b>
     <p><b>Mercenary</b>: Tax Collection</p>
@@ -463,7 +481,7 @@
     <p><b>Requirement</b>: Freemason's Hall</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Generates additional Faction Coins per cast</p>
-    <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.</p>
+    <p><b>Formula</b>: (2.65 * x ^ 2.65), where x is original Faction Coin chance.</p>
     <br/>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyLight.png" alt="Good" align="middle"> Holy Light</b> (Any Good Faction)</p>
     <p><b>Works For</b>: Good - <b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds</p>
@@ -922,10 +940,10 @@
     <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
     <p><b>Requirement</b>: Dragons Trade Treaty</p>
     <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
-    <p><b><font color="darkred">Formula</b></font>: 2 * (ln(1 + X) ^ 2),where x is Faction Coins found in this game.</p>
+    <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2))%,where x is Faction Coins found in this game.</p>
     </br>
     <p><b><font color="darkgreen">Green</b></font>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
-    <p><b><font color="darkgreen">Formula</b></font>: (0.01 * x^0.625 * (11-T)^5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
+    <p><b><font color="darkgreen">Formula</b></font>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
     </br>
     <p><b><font color="darkblue">Blue</b></font>: Increase your mana regeneration by 200%</p>
     </br>
@@ -933,7 +951,7 @@
     <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7)</p>
     </br>
     <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-    <p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.</p>
+    <p><b><font color="black">Formula</b></font>: (0.5 *x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
     </br>
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b></p>
     <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.</p>
