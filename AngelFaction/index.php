@@ -109,7 +109,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Angel upgrades and 8 hours activity time (This Game) of God's Hand.<p>
-<p><b>Effect</b>: Increase maximum mana based on the amount of spells cast in this game.</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is spells cast this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>

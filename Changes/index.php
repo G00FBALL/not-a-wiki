@@ -66,7 +66,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
-<p><b>Effect</b>: Increase maximum mana based on the amount of spells cast in this game.</p>
+<p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is spells cast this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
@@ -96,7 +96,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy and Undead Coins</p>
-<p><b>Effect</b>: Gaim assistants based on the amount of Unique Buildings owned (additive).</p>
+<p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
