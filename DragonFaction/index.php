@@ -17,19 +17,29 @@
 <p><b>Dragon's Breath</b></p>
 <p><b>Effect</b>: Activates one of the following effects at random.</p>
 <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
+<<<<<<< HEAD
 <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2))%,where x is Faction Coins found in this game.</p>
 <br/>
 <p><b><font color="darkgreen">Green</b></font>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
 <p><b><font color="darkgreen">Formula</b></font>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
 <p><b><font color="darkgreen">Formula</b></font>: (0.32*x^0.625) Druid and Faceless boost with the above Formula.</p>
 <br/>
+=======
+<p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2)%,where x is Faction Coins found in this game.</p>
+<p><b><font color="darkgreen">Green</b></font>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
+<p><b><font color="darkgreen">Formula</b></font>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
+>>>>>>> bcd54c32f958c1b650111ca98b8597df6e86d380
 <p><b><font color="darkblue">Blue</b></font>: Increase your mana regeneration by 200%</p>
 <br/>
 <p><b><font color="white">White</b></font>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
 <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7)</p>
 <br/>
 <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
+<<<<<<< HEAD
 <p><b><font color="black">Formula</b></font>: (0.5 *x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
+=======
+<p><b><font color="black">Formula</b></font>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
+>>>>>>> bcd54c32f958c1b650111ca98b8597df6e86d380
 <hr>
 <p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
