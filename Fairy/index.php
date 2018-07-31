@@ -9,8 +9,8 @@
 <p>The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!</p>
 <p><b>Requirements</b>: 2 Reincarnations, Fairy Choir spell upgrade
 <p><b>Challenge</b>: Buy only Farms, Inns and Blacksmiths and all Fairy Faction upgrades within 1 minute of a new game.</p>
-<p><b>Effect</b>: You gain assistants based on the amount of Fairy afflicated (faction upgrades, heritage, bloodline, research) upgrades you own.</p>
-<p><b>Formula</b>: (0.35 * x ^ 1.75), where x is amount of Fairy afflicated upgrades.
+<p><b>Effect</b>: You gain assistants based on the amount of Fairy affiliated (faction upgrades, heritage, bloodline, research) upgrades you own.</p>
+<p><b>Formula</b>: (0.35 * x ^ 1.75), where x is amount of Fairy affiliated upgrades.
 <p><b>Upgrade</b>: Good for Fairy</b>
 <p><b>Tips</b>: Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>
 <hr>

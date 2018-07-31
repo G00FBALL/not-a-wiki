@@ -225,6 +225,11 @@
 <p><b>New Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
 <hr>
 <p><b>Challenge Upgrade Changes</b></p>
+<p><b>Fairy Challenge 1</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/PixieMischiefChallenge.png" alt="Pixie Mischief</p>" align="middle"> <b>Pixie Mischief</b></p>
+<p><b>Effect</b>: You gain assistants based on the amount of Fairy affiliated (faction upgrades, heritage, bloodline, research) upgrades you own.</p>
+<p><b>Old Formula</b>: (x ^ 1.75), where x is amount of Fairy affiliated upgrades.
+<p><b>New Formula</b>: (0.35 * x ^ 1.75), where x is amount of Fairy affiliated upgrades.
 <br/>
 <p><b>Goblin Challenge 1</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DiscountSeasonChallenges.png" align="middle"> Discount Season</b></p>
