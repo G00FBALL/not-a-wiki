@@ -170,7 +170,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" align="middle"> Dimension Door (FC 4,3)</b></p>
 <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
 <p><b>Old Formula</b>: (0.013 * x ^ 0.7), where x is highest max mana this R.</p>
-<p><b>New Formula</b>: (0.013 * ^ 0.67), where x is highest max mana this R.</p>
+<p><b>New Formula</b>: (0.013 * x ^ 0.67), where x is highest max mana this R.</p>
 <br/>
 <p><b>Druid</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling (DD 1,3)</b></p>
