@@ -141,7 +141,7 @@
 <p>At R28, the Dwarven Blacksmiths building can be upgraded to a Unique Building: Dwarven Forges, which is required for some challenges and research quests.</p>
 <hr>
 <p><b>Ascension 2 - R116+</b>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dwarf upgrades and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on the amount ofexcavations and excavation resets (This R).</p>
