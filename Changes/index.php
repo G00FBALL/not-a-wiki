@@ -182,7 +182,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"> Crystal Servants (DW 4,3) (Upgrade 12)</b></p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
 <p><b>Old Formula</b>: (0.75 * (log(x) ^ 2), where x is amount of current gems.</p>
-<p><b>New Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
+<p><b>New Formula</b>: (5 * log(x) ^ 1.5), where x is amount of current gems.</p>
 <hr>
 <p><b>Union Changes</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" align="middle"> Druids Union</b></p>

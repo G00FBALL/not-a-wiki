@@ -190,5 +190,5 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-<p><b>Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
+<p><b>Formula</b>: (5 * log(x) ^ 1.5), where x is amount of current gems.</p>
 <?php include "../scripts/footer.html"; ?>
