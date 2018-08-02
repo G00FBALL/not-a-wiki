@@ -35,5 +35,5 @@
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MidnightTimeChallenges.png" alt="Midnight Time" align="middle"> <b>Midnight Time</b></p>
 <p><b>Effect</b>: Increase Night Time assistant bonus based on time spent offline this reincarnation.</p>
-<p><b>Formula</b>: 0.2 * x^0.7%, where x is your Time Spent Offline (Total) stat in seconds.</p>
+<p><b>Formula</b>: 0.2 * (x / 60) ^ 0.7%, where x is your Time Spent Offline (This Reincarnation) stat in seconds.</p>
 <?php include "../scripts/footer.html"; ?>
