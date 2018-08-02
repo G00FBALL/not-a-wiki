@@ -49,8 +49,8 @@
 <hr>
 <p><b>In-Game Challenge Final Reward</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png" alt="Primal Balance" align="middle"> <b>Primal Balance</b></p>
-<p><b>Effect</b>: Grand Balance now affects extra buildings based on total mana spent.</p>
-<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced and A is Ascension (Total) stat.</p>
+<p><b>Effect</b>: Grand Balance now affects extra buildings based on mana spent this reincarnation.</p>
+<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
     <a id="Primal Balance"></a>
     <table class="numtable">
         <thead>
