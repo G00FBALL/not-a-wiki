@@ -10,7 +10,7 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
 <p><b>Event starts in</b></p>
 <p id="start">
-<script>
+<!--<script>
   var countDownDate1 = new Date("Aug 3, 2018 12:01:00 UTC").getTime();
   var x = setInterval(function() {
       var now = new Date().getTime();
@@ -26,7 +26,7 @@
           document.getElementById("end").innerHTML = "Started";
       }
       }, 1000);
-  </script></p>
+  </script></p>--!>
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
