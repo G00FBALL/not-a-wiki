@@ -52,7 +52,7 @@ function buildBubbleSwarmTable(l) {
   	minbldg = 39999;
   if(l > 30)
   	minbldg = 49999;
-	var maxbldg = 30000; // This is the maximum number of purchased buildings
+	var maxbldg = 34000; // This is the maximum number of purchased buildings
   if(l > 20)
   	maxbldg = 40000;
 
