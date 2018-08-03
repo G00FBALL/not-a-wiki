@@ -8,10 +8,10 @@
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a></p>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
-<p><b>Event starting</b></p>
-<!--<p id="start">
+<p><b>Event starts in</b></p>
+<p id="start">
 <script>
-  var countDownDate1 = new Date("May 18, 2018 12:01:00 UTC").getTime();
+  var countDownDate1 = new Date("Aug 3, 2018 12:01:00 UTC").getTime();
   var x = setInterval(function() {
       var now = new Date().getTime();
       var distance = countDownDate1 - now;
@@ -23,14 +23,14 @@
       + minutes + "m " + seconds + "s ";
       if (distance < 0) {
           clearInterval(x);
-          document.getElementById("end").innerHTML = "";
+          document.getElementById("end").innerHTML = "Started";
       }
       }, 1000);
-  </script></p>--!>
+  </script></p>
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("May 22, 2018 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("Aug 7, 2018 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -52,7 +52,7 @@ var x = setInterval(function() {
         <tr>
             <th>Rubies</th>
             <th colspan="1">Event</th>
-            <th colspan="4">Total Cumulative Bonus 158%</th>
+            <th colspan="4">Total Cumulative Bonus 166%</th>
         </tr>
         </thead>
         <tbody>
@@ -99,6 +99,14 @@ var x = setInterval(function() {
         </tr>
         <tr>
             <td>0</td>
+            <td>Goblin Invasion</td>
+            <td></td>
+            <td></td>
+            <td>8%</td>
+            <td>8%</td>
+        </tr>
+        <tr>
+            <td>0</td>
             <td>Summer Festival</td>
             <td></td>
             <td>8%</td>
@@ -110,13 +118,6 @@ var x = setInterval(function() {
             <td></td>
             <td>11%</td>
             <td>11%</td>
-        </tr>
-        <tr>
-            <td>0</td>
-            <td>Goblin Invasion</td>
-            <td></td>
-            <td></td>
-            <td>8%</td>
         </tr>
         </tbody>
         <tr>
@@ -177,9 +178,10 @@ var x = setInterval(function() {
     <area target="" research="Anniversary<p>Blood Wars<p>Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="260,196,317,251" shape="rect">
     <area target="" research="Anniversary<p>Blood Wars<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="325,196,382,252" shape="rect">
     <area target="" research="Anniversary<p>Blood Wars<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="388,196,448,252" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Fight the Goblin Army 100 times." coords="3,261,60,317" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Support the Goblin Army 100 times." coords="68,261,125,316" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions." coords="132,260,188,318" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="3,261,60,317" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,261,125,316" shape="rect">
+    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,260,188,318" shape="rect">
+    <area target="" research="Goblin Invasion<p>Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.Goblin Invasion<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,261,254,316" shape="rect">
     </map></p>
     <hr>
 
@@ -207,6 +209,10 @@ div#images div{
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleBloodwar.png" width="54%" height="54%" /></center>
     <center><b>Blood War</b></center>
   </div>
+  <div>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleGoblinInvasion.png" width="45%" height="49%" /></center>
+    <center><b>Goblin Invasion</b></center>
+  </div>
 </div>
 <br>
 <p><b>Requirement</b>: If you unlock all of the event's feats, you will permanently unlock a new color option for the mana bar from that event.</p>
@@ -216,6 +222,113 @@ div#images div{
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2018 Events</a></b></p>
         <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Aug 3 - Aug 7, 2018)</a></b></p>
+            <div class="autohide">
+                <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
+                <p><b>Cost</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
+                <p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+                <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                <p><b>Event Resources</b>
+                <p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b></p>
+                <p>During the Goblin Invasion Event you will be able to collect Goblin Crowns, appearing in a random location of your screen at a rate of 1 per minute, stacking up to 480 units (8 hours). These Resources will be used to either fight or support the invading Goblin Army: both choices will grant you new bonuses and unlock new unique upgrades. You can also complete Quests and Feats, also found in the Event panel. Aside for completion purposes, completed quests will also grant a small permanent production bonus. Remember that all Goblin Invasion upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
+                <p>The Formula for the cost needed to level a faction is floor((level + 1) ^ 0.85) Goblin Crowns</p>
+                <p>You need 203 Goblin Crowns (total) to level a faction to level 25, 740 to level 50, and 2685 to level 100.</p>
+                <p>You need 5370 Goblin Crowns to complete all quest by leveling both factions to level 100, Total time 3 days 17 hours 30 minutes without scrying.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/FighttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Fight the Goblin Army</b></p>
+                <p><b>Requirement</b>: Good or Neutral alignment</p>
+                <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/SupporttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Support the Goblin Army</b></p>
+                <p><b>Requirement</b>: Evil or Neutral alignment</p>
+                <p><b>Effect</b>: Increase your assistants by 1% per level.</p>
+                <hr>
+                <p><b>Event Quest</b></p>
+                <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
+                <p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
+                <p><b>Formula</b>: (30 / floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
+                <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
+                <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> God's Finger</b></p>
+                <p><b>Effect</b>: Each manual click counts as 1000 clicks for all purposes.</p>
+                    <br/>
+                <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
+                <p><b>Effect</b>: All spells activity time counts more based on the amount of assistants you own.</p>
+                <p><b>Formula</b>: (0.35 * ln(1 + x) ^ 3.5)%, where x is amount of assistants you own.</p>
+                <p><b>Note</b>: Does NOT work for spell tier leveling</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
+                <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
+                <p><b>Effect</b>: Increase the production of all buildings based on total time spent, Also further increase Offline production by the same amount.</p>
+                <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                <hr>
+                <p><b>Event Feat</b></p>
+                <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
+                <p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
+                 <p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarf is 1, any other good/dwarf is not counted)</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
+                <p><b>Requirement</b>: Collect a full stack of Goblin Crowns while affiliated with Goblins.</p>
+                <hr>
+                <p><b>Shop Item</b></p>
+                <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 75 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 75 Goblin Crowns for 5 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/300GoblinCrowns2017.png" alt="150 Holy Symbols and Lava Stones" align="middle"> 300 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 300 Goblin Crowns 15 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/1250GoblinCrowns2017.png" alt="650 Holy Symbols and Lava Stones" align="middle"> 1250 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 1250 Goblin Crowns for 45 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 3500 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 3500 Holy Goblin Crowns for 100 Rubies.</p>
+                <p>These are all the crowns he could gather.</p>
+                    <hr>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">3rd Anniversary - Blood Wars (May 18 - May 22, 2018)</a></b></p>
             <div class="autohide">
