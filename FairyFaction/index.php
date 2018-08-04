@@ -141,6 +141,7 @@
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
 <p><b>Formula</b>: (sumOfDigits(x) * 100 * x ^ 0.45), where x is amount of Swarming Towers owned.</p>
+<p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

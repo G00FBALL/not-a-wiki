@@ -1196,7 +1196,7 @@
             <p><b>Rewards</b>: Increases mana regeneration by 2.5%.</p>
             <p><b>Requirement</b>: +3000 max mana</p>
             <p><b>Chance</b>: (max mana / 15,000) %</p>
-            <p><b>Cost</b>: 1 QaVg (1E75)
+            <p><b>Cost</b>: 1 QaVg (1E75), A1+: Free</p>
             <p><b>Alignment</b>: Any
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Smiley face" align="middle"><b> Vanilla Flavor Juice</b></p>
@@ -1206,7 +1206,7 @@
             <p><b>Requirement</b>: +R16</p>
             <p><b>Chance</b>: 20% in the first 5m of a game</p>
             <p><b>Cost</b>: 1 coin
-            <p><b>Alignment</b>: Vanilla faction
+            <p><b>Alignment</b>: Any Vanilla Faction
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy" align="middle"><b> Know Your Enemy, Part I</b></p>
             <p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
@@ -1501,16 +1501,17 @@
             <p><b>Effect</b>: Increases the production of all buildings by 0.1% for each trophy you unlocked.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PowerOrbSecretUpgrade.png" alt="Power Orb" align="middle"><b> Power Orb</b></p>
-            <p><b>Requirements</b>: Excavate
-            <p><b>Cost</b>: 1 Qavg (1E75)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increases click reward by 10% per artifact you discovered.
-            <p><b>Chance</b>: (# treasure clicks this R / 5,000,000)= 1%
+            <p><b>Description</b>: Throbbing with Arcane Power</p>
+            <p><b>Rewards</b>: Increases mana regeneration by 2.5%.</p>
+            <p><b>Requirement</b>: +3000 max mana</p>
+            <p><b>Chance</b>: (max mana / 15,000) %</p>
+            <p><b>Cost</b>: 1 QaVg (1E75), A1+: Free</p>
+            <p><b>Alignment</b>: Any</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VinillaFlavorJuiceSecretUpgrade.png" alt="Vinilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
             <p><b>Requirements</b>: +R16 Chance: Excavate 20% in the first 5m of a game.
             <p><b>Cost</b>: 1 Coin
-            <p><b>Alignment</b>: Mercenaries
+            <p><b>Alignment</b>: Any Vinilla Faction
             <p><b>Effect</b>: Increases the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
@@ -1658,7 +1659,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/HarlequinSecretUpgrade.png" alt="Harlequin" align="middle"><b> Harlequin</b></p>
             <p><b>Requirements</b>: As a Mercenary, purchase one upgrade from all 11 different factions.
             <p><b>Cost</b>: 5 Qivg (5E78)
-            <p><b>Alignment</b>: Any
+            <p><b>Alignment</b>: Any but need to be Mercenary,</p>
             <p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretUpgrade.png" alt="Lucifer" align="middle"><b> Lucifer</b></p>

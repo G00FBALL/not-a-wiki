@@ -49,7 +49,7 @@
     <p><b>Upgrade Effect</b>: Increases mana regeneration by 2.5%.</p>
     <p><b>Requirement</b>: +3000 max mana</p>
     <p><b>Chance</b>: (max mana / 15,000) %</p>
-    <p><b>Cost</b>: 1 QaVg (1E75)</p>
+    <p><b>Cost</b>: 1 QaVg (1E75), A1+: Free</p>
     <p><b>Alignment</b>: Any</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PinkCarrot.png" alt="Smiley face" align="middle"><b> Pink Carrot</b></p>
@@ -214,7 +214,7 @@
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
-    <p><b>Requirement</b>: R16+</p>
+    <p><b>Requirement</b>: R16+, Any Vanilla Faction</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
     <p><b>Cost</b>: 1 coin</p>
     <p><b>Note</b>: Does not work while offline.</p>

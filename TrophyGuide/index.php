@@ -330,7 +330,7 @@
         </tr>
         <tr>
             <td><center>Harlequin</p><img src="http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png"></td>
-            <td>5 Qivg (5e78)</p>A1+ Free</td>
+            <td>5 Qivg (5e78)</p>A1 Free</td>
             <td>As a Mercenary, purchase one upgrade from 11 different factions.</td>
             <td>Increase the production of all buildings based on the amount of different factions involved in your mercenary upgrades.</td>
             <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harley Quinn R3+</b></a> build</td>
