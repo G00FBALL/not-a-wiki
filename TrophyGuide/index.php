@@ -354,7 +354,6 @@
             <td>1 Ocd (1e57)</p>A1+ Free</td>
             <td>Reincarnate while affiliated with Mercenaries.</td>
             <td>Increase the production of all buildings by 15% for eacr reincarnation you made.</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</b></a> build</td>
         </tr>
         </tbody>
     </table>
