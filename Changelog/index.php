@@ -5,6 +5,51 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.0, Jul 30, 2018 ADVANCED HERITAGES</a></b></p>
+      <div class="autohide">
+              <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Aug 3rd 2018, 12.01 PM UTC and will end on Aug 7th 2018, 6.59 PM UTC.</p>
+              <p><b>NEW BUILDING UPGRADES</b>: For all buildings.</p>
+              <p><b>THREE NEW ARTIFACTS</b>: Which will unlock Tier 2 for the new Ascension 2 spells.</p>
+              <p><b>ADVANCED HERITAGES</b>: Available for all factions! Each of them is a new unique upgrade which will be empowered by their respective Lineage.</p>
+              <p><b>REALM GRINDER MUSIC</b>: Added to the game, one track for each of the basic alignments. You can turn it on/off via the button on the main screen, or adjust volume in the Options menu!</p>
+              <p><b>Several secret trophies</b>: Have been reworked to give a greater bonus, and their Ascension penalty has been removed.</p>
+              <p><b>Starting mana regen</b>: Increased to 1 per second.</p>
+              <p><b>Natural Recycling</b>: Is now based on total building quantity.</p>
+              <p><b>Dimension Door</b>: Scaling reduced.</p>
+              <p><b>Fairy Challenge 1</b>: Effect decreased.</p>
+              <p><b>Goblin Challenge 1</b>: Now makes Green Fingers Discount trigger every 2 minutes.</p>
+              <p><b>Goblin Challenge 3</b>: Effect increased.</p>
+              <p><b>Undead Challenge 1</b>: Effect increased.</p>
+              <p><b>Undead Union</b>: Effect and scaling increased.</p>
+              <p><b>Druid Union</b>: Effect increased.</p>
+              <p><b>Flesh Workshop</b>: Production bonus increased.</p>
+              <p><b>Druid Challenge 1</b>: Effect increased.</p>
+              <p><b>Druid Challenge 4</b>: Formula reworked to be non-linear.</p>
+              <p><b>Dragon Challenge 6</b>: Effect increased.</p>
+              <p><b>Dwarven Chaos Union</b>: Scaling reduced.</p>
+              <p><b>Drow Balance Union</b>: Effect and scaling reduced.</p>
+              <p><b>Dragon Chaos Union</b>: Effect and scaling reduced.</p>
+              <p><b>Fairy Lineage</b>: Effect increased.</p>
+              <p><b>Angel Lineage</b>: Effect reduced.</p>
+              <p><b>Fairy Perk 1</b>: Now removes 1 Ascension penalty.</p>
+              <p><b>Angel Perk 3</b>: Effect reduced.</p>
+              <p><b>Angel Perk 4</b>: Effect reduced.</p>
+              <p><b>Goblin Perk 3</b>: Effect increased.</p>
+              <p><b>Temporal Flux</b>: Effect and scaling increased.</p>
+              <p><b>All spell</b>: Durations are now capped to 10000 times their base duration.</p>
+              <p><b>"Total"</b>: References have been reworded to "This Reincarnation" for clarity.</p>
+              <p><b>Tireless Workers</b>: Bonus increased to 1500%, up from 1000%.</p>
+              <p><b>Plagued Buildings</b>: Effect increased.</p>
+              <p><b>Dead Field</b>: Effect increased.</p>
+              <p><b>Maelstrom</b>: Click bonus, scaling increased.</p>
+              <p><b>Faceless Set</b>: Scaling reduced.
+              <p><b>Druid Set</b>: Effect and scaling increased.</p>
+              <p><b>Titan Set</b>: Effect increased.</p>
+              <p><b>Chaos Dragon Union</b>: Now only counts Faction Coin find chance exponent for targeting purposes.</p>
+              <p><b>Burning Abyss</b>: Quest requirement reduced from 160 to 120 seconds.</p>
+      </div>
+  </div>
+  <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.2.0 A2 Prestige, May 16, 2018</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Blood War Event will be starting on May 18th 2018, 12.01 PM UTC and will end on May 22nd 2018, 6.59 PM UTC.
