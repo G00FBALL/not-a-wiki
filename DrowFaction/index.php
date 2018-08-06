@@ -140,6 +140,7 @@
 <hr>
 <p><b>Ascension 2 - R116+</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
+<p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Drow upgrades and 8 hours activity time (This Game) of Combo Strike.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
