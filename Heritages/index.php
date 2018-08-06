@@ -122,6 +122,7 @@
 <p><b>Formula</b>: (2 * (x ^ 0.9))%, where x is the number of excavations you've purchased.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
+<p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dwarf upgrades and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on the amount ofexcavations and excavation resets (This R).</p>
@@ -134,6 +135,7 @@
 <p><b>Formula</b>: (2 * x ^ 0.8), where x is your Royal Exchanges Made stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
+<p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Drow upgrades and 8 hours activity time (This Game) of Combo Strike.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
@@ -146,6 +148,7 @@
 <p><b>Formula</b>:  (0.55 * x ^ 0.55)%, x is hours affiliated with dragon at all R's</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
+<p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dragon upgrades and 8 hours activity time (This Game) of Dragon's Breath.<p>
 <p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
