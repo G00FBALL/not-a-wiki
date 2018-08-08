@@ -245,7 +245,7 @@
 <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
 <p><b>Cost</b>: 1 Tg (1e93), A1, Free</p>
 <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
-<p><b>Note</b>: It can take up to 1 day at R20, esay at R34.</p>
+<p><b>Note</b>: It can take up to 1 day at R20, easy at R34.</p>
 <p><b>Tactic</b>: Elf/Elfline to about e34 gems, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle><b> That Excavated Quickly</b></p>
