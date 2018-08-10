@@ -68,7 +68,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
 <p><b>Requirements</b>: A2, Lineage Level 30, Buy all Undead upgrades and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
-<p><b>Formula</b>: (0.018 * log(1 + x) ^ 2)%, where x is offline bonus.</p>
+<p><b>Formula</b>: (0.018 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicHeritage.png" alt="Demonic Heritage" align="middle"><b> Demonic Heritage</b></p>
 <p><b>Cost</b>: 5000 Demon Coins</p>
