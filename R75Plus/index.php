@@ -65,6 +65,8 @@
                   <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,S3200,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W400,W3150,W1375" id="Build"> 1e87 (1 OcVg) gems+
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D245,D260,D320,D1125,D1275,D1375,
@@ -73,6 +75,7 @@
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 is recommended.
                 <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
+                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems - 1e87 (1 OcVg) gems, based on Night Time tiers).
          </div>
     </div>
     <div class="shelementwhole">
@@ -98,7 +101,7 @@
             <p><b>Notes</b>: Alternative for UL20 faceless with low NT tiers.
             <p><b>Notes</b>: Replace D200 with D525 if Holy Light tier 6.
             <p><b>Multistage build</b>
-            <p><b>Buildup phase</b>: Do Not purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 30 minutes - 1 hour long.
+            <p><b>Buildup phase</b>: Do <b>Not</b> purchase Round Table upgrade, cast spells in order to increase spell cast count for buffing. Buildup phase estimated 30 minutes - 1 hour long.
             <p><b>Production phase</b>: Buy Round Table upgrade and cast all spells for production as normal.
      </div>
 </div>
@@ -164,14 +167,14 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A175,A1200,A1500,A2950,W180,W260,W275,W400,W3050,W3150" id="Build">
+                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S270,S305,S330,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A175,A1200,A1500,A2950,W180,W260,W275,W400,W3050,W3150" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> R82+
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S330,S1450,S1500,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> C1500 is higher
+                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S270,S305,S330,S1450,S1500,C340,C400,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> C1500 is higher
                 <p>EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Dragon's Breath,
-                <p>S215,S305,S330,S1450,S1500,S3200,
+                <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C340,C400,C590,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
                 <p>E135,E260,E350,E1225,E1425,E3250,
@@ -212,7 +215,7 @@
                     <p><b>Author</b>: Tskami_ek
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Range</b>: 1e90 (1 NoVg) gems
+                    <p><b>Range</b>: 1e89 (100 OcVg) gems
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,SP:Fairy Chanting,SP:God's Hand" id="Build">
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
@@ -224,7 +227,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research, UL20 Build)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom + Lapare
-                    <p><b>Range</b>: 1e90 (1 NoVg) gems
+                    <p><b>Range</b>: 1e89 (100 OcVg) gems
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Undead
                       <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -254,7 +257,7 @@
                     <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e90 (1 NoVg)(?) Gems
+                    <p><b>Range</b>: 1e90 (1 NoVg) Gems
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,SP:God's Hand,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E590,E1225,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build">
                     <p>EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD6,FC7,DN2,DG4,DG7,

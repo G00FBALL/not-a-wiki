@@ -24,12 +24,15 @@
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S105,S150,S270,S330,S500,C150,C250,C330,C340,C375,C400,D55,D150,D200,D245,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S150,S215,S330,S500,C150,C250,C330,C340,C375,C400,D55,D150,D200,D245,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400" id="Build"> 1e28 (10 Oc) Gems+
                 <p>S105,S150,S270,S330,S500,
                 <p>C150,C250,C330,C340,C375,C400,
                 <p>D55,D150,D200,D245,D320,
                 <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W290,W320,W330,W400
+                <p><b>Notes</b>: 1e28 (10 Oc) gems+ swap S270 with S215 (for SS2)
             </div>
           </div>
         <div class="shelementwhole">
@@ -158,7 +161,9 @@
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1275" id="Build"> W1375 not unlocked
+                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1375" id="Build"> W1375 not unlocked
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D245,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1275" id="Build"> E1425 not unlocked
                 <p>S215,S270,S305,S330,S500,
                 <p>C150,C250,C330,C340,C400,C1300,
                 <p>D55,D150,D245,D320,D1275,
@@ -167,6 +172,7 @@
                 <p>W120,W180,W260,W400,W1275,W1375
                 <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
                 <p><b>Notes</b>: Use W320 if W1275 is not unlocked yet.
+                <p><b>Notes</b>: Use E275 if E1425 is not unlocked yet.
             </div>
           </div>
         <div class="shelementwhole">
@@ -184,7 +190,8 @@
                 <p>E135,E145,E460,E1225,E1425,
                 <p>A120,A250,A305,A400,A1200,
                 <p>W120,W180,W260,W400,W1275,W1375
-                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production. Use only if DC3 is not unlocked yet, as Druidline Faceless is faster.
+                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.
+                <p><b>Notes</b>: Use only if DC3 is not unlocked yet, as Druidline Faceless is faster.
             </div>
           </div>
         <div class="shelementwhole">

@@ -152,7 +152,7 @@
                 <p>E135,E145,E290,E1225,E1425,
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
-                <p><b>Notes</b>: Everything on Silver casting
+                <p><b>Notes</b>: Put Brainwave on bronze, Tax Collection on Gold, and the rest on Silver. Youd want to cast as many tiers as possible.
                 <p><b>Notes</b>: Excavate until Dwarf Lineage level 10 is gotten, which allows to get Undead Lineage to level 10 easily via Ancient Heirloom (Which will be almost certainly gotten on or before getting to this build). No point going further as it is of little benefit.
          </div>
     </div>
