@@ -181,9 +181,9 @@
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S50,S400,S435,C175,C340,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> Base build
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S225,S400,S435,C250,D25,D245,D560,E10,E135,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build"> 1e53 (100 SxD) gems+ Lineage Building
+                  <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> 1e53 (100 SxD) gems+ Lineage Building
             <p>S50,S400,S435,
-            <p>C340,
+            <p>C175,C340,
             <p>D200,D560,
             <p>E1,E135,E225,E495,E590,
             <p>A10,A120,A410,
