@@ -106,20 +106,23 @@
                           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R120+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
-                              <p><b>Range</b>: 1e61 (10 NoVg) Gems
+                              <p><b>Range</b>: 1e61 (10 Nod) Gems
                               <p><b>Requirements</b>: Fairy Lineage Level 30, Fairy AH, All Creation Tier 2
                               <p><b>Faction</b>: Druid/Dragon
                               <p><b>Bloodline</b>: Fairy
                               <p><b>Artifact Set</b>: Dragon
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S400,S1450,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
-                              <p>S400,S1450,
+                                    <input type="text" value="S1450,S3200,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S400,S1450,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build"> S400 = 750k+
+                              <p>S1450,S3200,
                               <p>C300,C340,C1300,
                               <p>D245,D275,D1125,
                               <p>E260,E1225,E1425,
                               <p>A250,A251,A375,A1200,A1500,
                               <p>W350,W1375,W1400
                               <p><b>Notes</b>: Excavate for Fairy AH to set up this build.
+                              <p><b>Notes</b>: Swap S3200 for S400 if it is 750K+.
              </div>
     </div>
          </div>
