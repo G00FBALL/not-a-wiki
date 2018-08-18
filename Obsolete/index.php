@@ -4345,6 +4345,70 @@
                 <p>A120,A251,A375,
                 <p>W350,W1375
                 <p><b>Requires</b>: Buffed Angel Bloodline (spells cast this R). Angel Lineage Goblin S400 buff should be best for this. Production won't be much higher than Undead Lineage without a large S400 buff.
+                       </div>
+                  </div>
+         <br/>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairy SS7<font color="Blue"> Good</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Artcrow
+                              <p><b>Range</b>: 1e37 (10 Ud) - 1e42 (1 Td) Gems
+                              <p><b>Faction</b>: Fairy
+                              <p><b>Bloodline</b>: Undead
+                              <p><b>Artifact Set</b>: Fairy
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1,S180,S3200,C10,C400,D225,D245,E50,E400,A30,A120,W1375" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E400,A30,A120,W1375" id="Build"> Sunforce FC active
+                              <p>S1,S180,S3200,
+                              <p>C10,C400,
+                              <p>D225,D245,
+                              <p>E50,E400,
+                              <p>A30,A120,
+                              <p>W1375
+                              <p><b>Notes</b>: Takes estimated time of 3 hours to SS7.
+                              <p><b>Notes</b>: Swap C400 with C340 if sunforce FC is active.
+                              <p><b>Notes</b>: Build depends on Art of the Crow and high excavs.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Jgchan29
+                <p><b>Range</b>: 1e45 (1 Qad) Gems+
+                <p><b>Faction</b>: Angel
+                <p><b>Bloodline</b>: Dwarf
+                <p><b>Artifact Set</b>: Angel, Elf (if buffed)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S400,C25,C340,D1,D150,D175,E1325,A50,A250,W225,W1375" id="Build">
+                <p>S10,S400,
+                <p>C25,C340,
+                <p>D1,D150,D175,
+                <p>E1325,
+                <p>A50,A250,
+                <p>W225,W1375
+                <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
+                </div>
+           </div>
+        <div class="shelementwhole">
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+             <div class="autohide">
+                <p><b>Author</b>: Necrodoom
+                <p><b>Range</b>: ? Gems+
+                <p><b>Faction</b>: Faceless
+                <p><b>Bloodline</b>: Undead
+                <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                   <p><button onclick="myFunction($(this))">Copy Build</button>
+                   <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
+                <p>S251,S375,S400,
+                <p>C400,
+                <p>D200,D260,
+                <p>E320,E350,
+                <p>A300,A3400,
+                <p>W275,W1375
+                <p><b>Notes</b>: Significally buffed by sunforce faction coins.
+                <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
+                <p><b>Notes</b>: Estimated time to L30 is unknown.
      </div>
 </div>
             </div>
