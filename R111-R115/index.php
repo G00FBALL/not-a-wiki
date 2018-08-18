@@ -78,7 +78,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn
-                <p><b>Range</b>: 1e41 (100 Dd) - 1e47 (100 Qad) Gems
+                <p><b>Range</b>: 1e37 (10 UD) gems - 1e47 (100 QaD) Gems
                 <p><b>Faction</b>: Faceless
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
