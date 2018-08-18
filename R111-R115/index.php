@@ -148,7 +148,8 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 buff) (1e37 (10 Ud) Gems+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
             <p><b>Author</b>: Necrodoom
-            <p><b>Range</b>: ? Gems
+            <p><b>Range</b>: 10 Ud (1e37) Gems+ Gems
+            <p><b>Requirements</b>: Art of the Crow
             <p><b>Faction</b>: Faceless
             <p><b>Bloodline</b>: Undead
             <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
@@ -162,7 +163,8 @@
             <p>E350,E1325,
             <p>A120,A300,
             <p>W275,W1375
-            <p><b>Notes</b>: Performance varies baRequires SS7 to afford Art of the Crow trophy (30 min - 1.5 hours wait).
+            <p><b>Notes</b>: Swap S500 with S400 if better.
+            <p><b>Notes</b>: Requires SS7 to afford Art of the Crow trophy (30 min - 1.5 hours wait).
      </div>
 </div>
         <div class="shelementwhole">
