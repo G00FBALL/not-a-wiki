@@ -133,13 +133,7 @@
                 <p><b>Planned Autocasting</b>: 6 hours 30 minutes</p>
                 <p><b>500 assistants</b>: 7 hours 20 minutes</p>
                 <p><b>Efficient Autocasting</b>: 7 hours 30 minutes</p>
-                <p><b>1M spells</b>: 8 hours</p>
-                <p><b>Exchange Lord</b>: 10 hours 15 minutes</p>
-                <p><b>100B FC</b>: 10 hours 20 minutes</p>
-                <p><b>1000 assistants</b>: 12-14 hours
-                <p><b>1T FC</b>: 21 hours 30 minutes
-                <p><b>2000 assistants</b>: 28 hours
-                <p><b>Spells</b>: Fairy Chanting, Goblin's Greed for FC to set up (you can substitute something else if you wish, Greed is not important for the build)</p>
+                <p><b>Spells</b>: Fairy Chanting, Goblin's Greed for FC to set up</p>
                 <p><b>Tier 1 Upgrades</b></p>
                 <p><b>Angel</b>: (1,1): Holy Bells</p>
                 <p><b>Angel</b>: (1,3): Angel Feathers</p>
