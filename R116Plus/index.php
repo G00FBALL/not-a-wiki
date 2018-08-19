@@ -125,7 +125,7 @@
                        </div>
                   </div>
                       <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R120+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R120+)<font color="DarkGoldenRod"> Neutral</font></a></b> Obsolete?</p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
                               <p><b>Range</b>: 1e61 (10 Nod) Gems
@@ -235,26 +235,6 @@
         <p><b>Notes</b>: Requires excavations to both set up the build and boost royal exchange count.
         </div>
    </div>
-               <div class="shelementwhole">
-                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Titans (FC12 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                   <div class="autohide">
-                       <p><b>Author</b>: Necrodoom
-                       <p><b>Range</b>: ?
-                       <p><b>Requirements</b>: Faceless Lineage Level 30, S400 of 800k+
-                       <p><b>Faction</b>: Titan/Dragon
-                       <p><b>Bloodline</b>: Angel
-                       <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
-                             <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D350,D1125,E275,E1225,E1325,A250,A1200,W260,W1375,W1400" id="Build">
-                       <p>S300,S400,S1450,
-                       <p>C251,C340,C375,C1300,C1500,
-                       <p>D245,D350,D1125,
-                       <p>E275,E1225,E1325,
-                       <p>A250,A1200,
-                       <p>W260,W1375,W1400
-                       <p><b>Notes</b>: Requires excavations to both set up the build and boost royal exchange count.
-         </div>
-    </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Mana Spring / FC12 buff)<font color="Blue"> Good</font></a></b></p>
         <div class="autohide">
