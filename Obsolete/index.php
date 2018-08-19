@@ -3970,6 +3970,131 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100 - R110</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Burial (W275 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Kherti, modified by Necrodoom
+                    <p><b>Requirements</b>: Veteran Figurine
+                    <p><b>Range</b>: 1e90 (1 NoVg) Gems(?)
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>A2950</b>: Elf
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3100,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
+                    <p>EL1,EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG6,DG7,
+                    <p>SP:Dragon's Breath,SP:Fairy Chanting,
+                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>C250,C340,C400,C590,C1300,C3100,
+                    <p>D25,D200,D245,D1125,D1275,D2775,
+                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>A120,A305,A590,A1500,A2950,A3400,
+                    <p>W275,W400,W560,W1375,W1400,W3050
+        </div>
+    </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: ensteffahn
+                <p><b>Range</b>: 1e42 (1 Td) gems - ? gems
+                <p><b>Alignment</b>: Good, Proof of Order
+                <p><b>Requirements</b>: Goblin Set Artifact
+                <p><b>Faction</b>: Angels
+                <p><b>Bloodline</b>: Dragon
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W400" id="Build"> Longer Run
+                <p>S10,S400,
+                <p>C25,C340,
+                <p>D1,D175,D245,
+                <p>E400,
+                <p>A50,A3400,
+                <p>W225,W1375
+                <p><b>Notes</b>: Alternative build to Dragonline Druids, its somewhat weaker (closer to Dragonline Druids when able to buy Angelic Fortitude (Angel Upgrade 11) or with high ruby count), but can be stronger if R108 power was buffed.
+                <p><b>Notes</b>: Estimated time 18 hours for SS7 with no neutral time this R.
+                <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
+                </div>
+           </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Druids (Excavation reset)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ?
+                    <p><b>Range</b>: e42 (1 Td) Gems+
+                    <p><b>Alignment</b>: Neutral, Proof of Balance
+                    <p><b>Faction</b>: Druids
+                    <p><b>Bloodline</b>: Angel
+                    <p><b>Artifact Set</b>: Elf (If buffed) -> Demon (If avaliable)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C300,C340,D150,D275,E260,E290,A120,A251,A375,W350,W400" id="Build">
+                    <p>S400,
+                    <p>C300,C340,
+                    <p>D150,D275,
+                    <p>E260,E290,
+                    <p>A120,A251,A375,
+                    <p>W350,W400
+                    <p><b>Notes</b>: Intended for grabbing excavation resets when Undeadline build is insufficient, but Dragonline build seems unnecessary.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Overwhelming Odds (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: artcrow
+                    <p><b>Range</b>:  e32 (100 No) gems+
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Drow
+                    <p><b>Artifact Set</b>: Angel (If avaliable)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1275,C50,C400,D10,D150,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
+                    <p>S1275,
+                    <p>C50,C400,
+                    <p>D10,D150,
+                    <p>E230,E1325,
+                    <p>A25,A3400,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Disable druid challenge 4 reward, put Blood Frenzy and Hellfire Blast on tier 1 autocast and Combo Strike on the highest tier you have unlocked, with Blood Frenzy as the first to cast.
+                    </div>
+             </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demon Horde (W275 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Lordofrye
+                    <p><b>Range</b>: e32 (100 No) gems+
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Artifact</b>: Angel (If avaliable)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C50,C1325,D10,D150,E230,E1325,A25,A120,W1,W175,W205" id="Build">
+                    <p>S400,
+                    <p>C50,C1325,
+                    <p>D10,D150,
+                    <p>E230,E1325,
+                    <p>A25,A120,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Disable druid challenge 4 reward for further W175 buffing.
+           </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) with (Undead Set)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: meldragora
+                    <p><b>Range</b>: 1e30 (1 No) Gems
+                    <p><b>Requirement</b>: Undead Set
+                    <p><b>Alignment</b>: Evil, Proof of Chaos
+                    <p><b>Faction</b>: Demon
+                    <p><b>Bloodline</b>: Drow
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C50,C400,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
+                    <p>S3200,
+                    <p>C50,C400,
+                    <p>D10,D200,
+                    <p>E230,E1325,
+                    <p>A25,A3400,
+                    <p>W1,W175,W205
+                    <p><b>Notes</b>: Estimated time 5 minutes to unlock.
+        </div>
+    </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
