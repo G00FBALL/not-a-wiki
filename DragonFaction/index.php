@@ -195,8 +195,8 @@
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend Log(FC chance) (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is FC chance.</p>
-<p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is FC chance.</p>
+<p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is assistant count.</p>
+<p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is assistant count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
