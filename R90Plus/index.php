@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Nov. 24th 2017</b>
+    <p><b>Updated Aug 19th 2018</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -314,28 +314,28 @@
                     <br/>
     <p><b>Special/Buff Builds</b></p>
     <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Balance Elemental (GB11, Mana Ocean)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: Lapare
-                    <p><b>Requirements</b>: Veteran Figurine
-                    <p><b>Range</b>: 1e90 (1 NoVg ) Gems(?)
-                    <p><b>Faction</b>: Neutral Mercenary
-                    <p><b>Bloodline</b>: Dragon
-                    <p><b>A2950</b>: Elf
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,SP:God's Hand,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D245,D590,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A545,A1200,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
-                    <p>EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,
-                    <p>SP:God's Hand,SP:Fairy Chanting,
-                    <p>S215,S305,S400,S1450,S1500,S3200,
-                    <p>C340,C400,C590,C1300,C3000,C3100,
-                    <p>D25,D245,D590,D1275,D1375,D2775,
-                    <p>E135,E260,E320,E1225,E1425,E3250,
-                    <p>A120,A545,A1200,A1500,A2950,A3400,
-                    <p>W275,W400,W560,W1375,W1400,W3050
-                    <p><b>Notes</b>: Estimated 40 minutes for GB11 and 1.5-2 days for Mana Ocean assuming no S400 buff.
-        </div>
-    </div>
+      <div class="shelementwhole">
+          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Balance Elemental (GB11, Mana Ocean)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+          <div class="autohide">
+                  <p><b>Author</b>: Lapare
+                  <p><b>Requirements</b>: Veteran Figurine
+                  <p><b>Range</b>: 1e90 (1 NoVg ) Gems(?)
+                  <p><b>Faction</b>: Neutral Mercenary
+                  <p><b>Bloodline</b>: Dragon
+                  <p><b>A2950</b>: Elf
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,SP:God's Hand,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D245,D590,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A545,A1200,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
+                  <p>EL7,AN6,TT3,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG6,DG9,
+                  <p>SP:God's Hand,SP:Fairy Chanting,
+                  <p>S215,S305,S400,S1450,S1500,S3200,
+                  <p>C340,C400,C590,C1300,C3000,C3100,
+                  <p>D25,D245,D590,D1275,D1375,D2775,
+                  <p>E135,E260,E320,E1225,E1425,E3250,
+                  <p>A120,A545,A1200,A1500,A2950,A3400,
+                  <p>W275,W400,W560,W1375,W1400,W3050
+                  <p><b>Notes</b>: Estimated 30 minutes for GB11 and 1.5-2 days for Mana Ocean assuming no S400 buff.
+      </div>
+  </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Burial (W275 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -346,8 +346,8 @@
                     <p><b>Bloodline</b>: Undead
                     <p><b>A2950</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL1,EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3100,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
-                    <p>EL1,EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG6,DG7,
+                      <input type="text" value="EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG3,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3100,D25,D200,D245,D1125,D1275,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A590,A1500,A2950,A3400,W275,W400,W560,W1375,W1400,W3050" id="Build">
+                    <p>EL7,AN5,GB7,TT3,TT6,DD6,FC2,FC7,DN2,DG3,DG6,DG7,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3100,

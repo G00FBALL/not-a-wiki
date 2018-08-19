@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated June 3rd, 2018</b></p>
+    <p><b>Updated Aug 19th 2018</b></p>
         <p>All builds come from the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
     <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
@@ -77,57 +77,13 @@
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
-                    <p><b>Notes</b>: 12 hours for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
+                    <p><b>Notes</b>: Estimated time 10-11 hours for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
                     </div>
                </div>
-    <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
-        <div class="autohide">
-                <p><b>Author</b>: ensteffahn
-                <p><b>Range</b>: 1e42 (1 Td) gems - ? gems
-                <p><b>Alignment</b>: Good, Proof of Order
-                <p><b>Requirements</b>: Goblin Set Artifact
-                <p><b>Faction</b>: Angels
-                <p><b>Bloodline</b>: Dragon
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W1375" id="Build">
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A3400,W225,W400" id="Build"> Longer Run
-                <p>S10,S400,
-                <p>C25,C340,
-                <p>D1,D175,D245,
-                <p>E400,
-                <p>A50,A3400,
-                <p>W225,W1375
-                <p><b>Notes</b>: Alternative build to Dragonline Druids, its somewhat weaker (closer to Dragonline Druids when able to buy Angelic Fortitude (Angel Upgrade 11) or with high ruby count), but can be stronger if R108 power was buffed.
-                <p><b>Notes</b>: Estimated time 18 hours for SS7 with no neutral time this R.
-                <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
-                </div>
-           </div>
             </div>
                     <br/>
     <p><b>Special Builds</b></p>
     <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Druids (Excavation reset)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: ?
-                    <p><b>Range</b>: e42 (1 Td) Gems+
-                    <p><b>Alignment</b>: Neutral, Proof of Balance
-                    <p><b>Faction</b>: Druids
-                    <p><b>Bloodline</b>: Angel
-                    <p><b>Artifact Set</b>: Elf (If buffed) -> Demon (If avaliable)
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,C300,C340,D150,D275,E260,E290,A120,A251,A375,W350,W400" id="Build">
-                    <p>S400,
-                    <p>C300,C340,
-                    <p>D150,D275,
-                    <p>E260,E290,
-                    <p>A120,A251,A375,
-                    <p>W350,W400
-                    <p><b>Notes</b>: Intended for grabbing excavation resets when Undeadline build is insufficient, but Dragonline build seems unnecessary.
-         </div>
-    </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
@@ -173,46 +129,6 @@
                 <p><b>Notes</b>: Estimated time of 10 days for 350k S400 at Dragon Lineage 25.
        </div>
 </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Overwhelming Odds (W175 Buff)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: artcrow
-                    <p><b>Range</b>:  e32 (100 No) gems+
-                    <p><b>Alignment</b>: Evil, Proof of Chaos
-                    <p><b>Faction</b>: Demon
-                    <p><b>Bloodline</b>: Drow
-                    <p><b>Artifact Set</b>: Angel (If avaliable)
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1275,C50,C400,D10,D150,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
-                    <p>S1275,
-                    <p>C50,C400,
-                    <p>D10,D150,
-                    <p>E230,E1325,
-                    <p>A25,A3400,
-                    <p>W1,W175,W205
-                    <p><b>Notes</b>: Disable druid challenge 4 reward, put Blood Frenzy and Hellfire Blast on tier 1 autocast and Combo Strike on the highest tier you have unlocked, with Blood Frenzy as the first to cast.
-                    </div>
-             </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demon Horde (W275 Buff)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: Lordofrye
-                    <p><b>Range</b>: e32 (100 No) gems+
-                    <p><b>Alignment</b>: Evil, Proof of Chaos
-                    <p><b>Faction</b>: Demon
-                    <p><b>Bloodline</b>: Undead
-                    <p><b>Artifact</b>: Angel (If avaliable)
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,C50,C1325,D10,D150,E230,E1325,A25,A120,W1,W175,W205" id="Build">
-                    <p>S400,
-                    <p>C50,C1325,
-                    <p>D10,D150,
-                    <p>E230,E1325,
-                    <p>A25,A120,
-                    <p>W1,W175,W205
-                    <p><b>Notes</b>: Disable druid challenge 4 reward for further W175 buffing.
-           </div>
-    </div>
             </div>
                     <br/>
     <p><b>Unique Building 2 Quest Unlock</b></p>
@@ -326,35 +242,17 @@
                     <p><b>Bloodline</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
-                    <p>S400,
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build"> S400 Stronger
+                    <p>S500,
                     <p>C50,C3100,
                     <p>D10,D200,
                     <p>E230,E1325,
                     <p>A25,A3400,
                     <p>W1,W175,W205
-                    <p><b>Notes</b>: Requires a S400 of about 50000 (1 day S400 buff).
                     <p><b>Notes</b>: Cast only Tax Collection, Blood Frenzy and Moon Blessing on tier 1 for buildup.
-                    <p><b>Notes</b>: Estimated time 6 hours to unlock.
-        </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) with (Undead Set)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: meldragora
-                    <p><b>Range</b>: 1e30 (1 No) Gems
-                    <p><b>Requirement</b>: Undead Set
-                    <p><b>Alignment</b>: Evil, Proof of Chaos
-                    <p><b>Faction</b>: Demon
-                    <p><b>Bloodline</b>: Drow
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C50,C400,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
-                    <p>S3200,
-                    <p>C50,C400,
-                    <p>D10,D200,
-                    <p>E230,E1325,
-                    <p>A25,A3400,
-                    <p>W1,W175,W205
-                    <p><b>Notes</b>: Estimated time 5 minutes to unlock.
+                    <p><b>Notes</b>: Swap S500 for S400 if stronger.
+                    <p><b>Notes</b>: Estimated time 3 minutes to unlock.
         </div>
     </div>
         <div class="shelementwhole">
@@ -467,12 +365,15 @@
                     <p><b>Bloodline</b>: Goblin
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S180,S3200,C10,C340,D200,D225,E50,E135,A30,A120,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S180,S3200,C10,C340,D225,D245,E50,E135,A30,A120,W1375" id="Build"> Long Run
                     <p>S1,S180,S3200,
                     <p>C10,C340,
                     <p>D200,D225,
                     <p>E50,E135,
                     <p>A30,A120,
                     <p>W1375
+                    <p><b>Note</b>: Swap D200 with D245 for longer runs (?)
          </div>
    </div>
             <div class="shelementwhole">
@@ -485,12 +386,15 @@
                     <p><b>Bloodline</b>: Goblin
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C50,C340,D10,D200,E135,E230,A25,A3400,W1,W175,W205" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S3200,C50,C340,D10,D245,E135,E230,A25,A3400,W1,W175,W205" id="Build"> Long Run
                     <p>S3200,
                     <p>C50,C340,
                     <p>D10,D200,
                     <p>E135,E230,
                     <p>A25,A3400,
                     <p>W1,W175,W205
+                    <p><b>Note</b>: Swap D200 with D245 for longer runs (?)
          </div>
      </div>
 </div>

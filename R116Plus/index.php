@@ -7,8 +7,8 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Aug 12th 2018</b>
-    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.2</b></a>  forum page</p>
+    <p><b>Updated Aug 19th 2018</b>
+    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.3</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
@@ -59,7 +59,7 @@
                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Fairy<font color="Blue"> Good</font></a></b></p>
                    <div class="autohide">
                        <p><b>Author</b>: Somarilnos
-                       <p><b>Range</b>: 1e56 (100 SpD) - ? Gems
+                       <p><b>Range</b>: 1e54 (100 SpD) - ? Gems
                        <p><b>Faction</b>: Fairy
                        <p><b>Bloodline</b>: Dragon
                        <p><b>Artifact Set</b>: Fairy
@@ -82,10 +82,32 @@
                        </div>
                   </div>
                       <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead<font color="DarkRed"> Evil</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Rellikrellik
+                              <p><b>Range</b>: 1e61 (10 NoD) Gems+
+                              <p><b>Faction</b>: Undead/Drow
+                              <p><b>Bloodline</b>: Dragon
+                              <p><b>Artifact Set</b>: Undead
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S225,S400,S435,C340,D25,D245,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build"> S400 Buffed
+                              <p>S225,S435,S3200,
+                              <p>C340,
+                              <p>D25,D245,D560,
+                              <p>E10,E400,E495,
+                              <p>A1,A175,A400,A410,A590,
+                              <p>W50,W205,W405,W520
+                              <p><b>Notes</b>: Several hours setup time, grower build.
+                              <p><b>Notes</b>: Swap S3200 with S400 if buffed.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
                           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Elf<font color="Blue"> Good</font></a></b></p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
-                              <p><b>Range</b>: 1e57 (1 OcD) - ? Gems
+                              <p><b>Range</b>: 1e65 Gems+
                               <p><b>Requirements</b>: Angel Lineage Level 30
                               <p><b>Faction</b>: Elf/Dwarf
                               <p><b>Bloodline</b>: Angel

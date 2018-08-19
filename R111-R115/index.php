@@ -7,8 +7,8 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated June 17th, 2018</b>
-    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.2</b></a>  forum page</p>
+    <p><b>Updated Aug 19th 2018</b>
+    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.3</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
@@ -186,6 +186,26 @@
                 <p>A10,A120,
                 <p>W25,W205
                 <p><b>Notes</b>: Use S400 for runs of over 5(?) days, or 2(?) days if dragonline level 30+.
+                </div>
+           </div>
+                   <div class="shelementwhole">
+                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="DarkRed"> Evil</font></a></b></p>
+                       <div class="autohide">
+                           <p><b>Author</b>: Jgchan29
+                           <p><b>Range</b>: 1e45 (1 QaD) Gems+
+                           <p><b>Requirements</b>: Art of the Crow Trophy
+                           <p><b>Faction</b>: Angel
+                           <p><b>Bloodline</b>: Dwarf
+                           <p><b>Artifact Set</b>: Angel, Elf (if buffed)
+                                 <p><button onclick="myFunction($(this))">Copy Build</button>
+                                 <input type="text" value="S10,S400,C25,C340,D1,D150,D175,E1325,A50,A250,W225,W1375" id="Build">
+                           <p>S50,S3200,
+                           <p>C175,C400,
+                           <p>D200,
+                           <p>E1,E135,E225,
+                           <p>A10,A120,
+                           <p>W25,W205
+                           <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
          </div>
     </div>
         <div class="shelementwhole">
