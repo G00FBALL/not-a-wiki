@@ -8,44 +8,44 @@
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a></p>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
-<p><b>Event starts in</b></p>
-<p id="start">
-<!--<script>
-  var countDownDate1 = new Date("Aug 3, 2018 12:01:00 UTC").getTime();
-  var x = setInterval(function() {
-      var now = new Date().getTime();
-      var distance = countDownDate1 - now;
-      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-      document.getElementById("start").innerHTML = days + "d " + hours + "h "
-      + minutes + "m " + seconds + "s ";
-      if (distance < 0) {
-          clearInterval(x);
-          document.getElementById("end").innerHTML = "Started";
-      }
-      }, 1000);
-  </script></p>--!>
-<p><b>Event ends in</b></p>
-<p id="end">
-<script>
-var countDownDate2 = new Date("Aug 7, 2018 18:59:00 UTC").getTime();
-var x = setInterval(function() {
-    var now = new Date().getTime();
-    var distance = countDownDate2 - now;
-    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    document.getElementById("end").innerHTML = days + "d " + hours + "h "
-    + minutes + "m " + seconds + "s ";
-    if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("end").innerHTML = "Ended";
-    }
- }, 1000);
-</script></p>
+    <p><b>Event starts in</b></p>
+    <p id="start">
+    <script>
+      var countDownDate1 = new Date("Aug 23, 2018 12:01:00 UTC").getTime();
+      var x = setInterval(function() {
+          var now = new Date().getTime();
+          var distance = countDownDate1 - now;
+          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+          document.getElementById("start").innerHTML = days + "d " + hours + "h "
+          + minutes + "m " + seconds + "s ";
+          if (distance < 0) {
+              clearInterval(x);
+              document.getElementById("end").innerHTML = "Started";
+          }
+          }, 1000);
+      </script></p>
+    <p><b>Event ends in</b></p>
+    <p id="end">
+    <script>
+    var countDownDate2 = new Date("Aug 30, 2018 18:59:00 UTC").getTime();
+    var x = setInterval(function() {
+        var now = new Date().getTime();
+        var distance = countDownDate2 - now;
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        document.getElementById("end").innerHTML = days + "d " + hours + "h "
+        + minutes + "m " + seconds + "s ";
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("end").innerHTML = "Ended";
+        }
+     }, 1000);
+    </script></p>
 <a id="Events"></a>
 <table class="numtable">
         <thead>
