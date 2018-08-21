@@ -55,6 +55,18 @@ function search(){
 window.location.replace("http://musicfamily.org/realm/Search/?q="+$('#query').val());
 }
 </script>
+<!-- set title -->
+<script>
+$(document).ready(function(){
+    var new_title = ["G00F's Not a Wiki"]
+    var href = window.location.pathname.split('/');
+    var page_title = href[href.length-1].split(/(?=[A-Z])/).join(" ");
+    if (page_title.length() > 0) {
+        new_title.splice(0, 0, page_title)
+    };
+    document.title = new_title.join(' | ');
+}());
+</script>
 <script>
 $(document).ready(function(){
 $("#query").keypress(function(event) {
