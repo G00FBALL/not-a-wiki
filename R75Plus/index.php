@@ -178,7 +178,7 @@
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A105,A120,A175,A1200,A1500,A2950,
                 <p>W180,W260,W275,W400,W3050,W3150
-                <p><b>Notes</b>: R82+ Replace A175 with A3400.
+                <p><b>Notes</b>: R82+ Replace A175 with A3400 and S270 with S3200.
                 <p><b>Notes</b>: Replace C150 with C1500 if higher.
          </div>
     </div>
