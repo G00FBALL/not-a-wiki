@@ -42,18 +42,15 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>Artifact Set</b>: Dragon, Faceless (If high (%1000+) R108 bonus)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S251,S375,S500,S1450,S1500,C340,C1300,D245,D260,D1125,E350,E1225,E1425,A120,A300,A1200,W180,W275,W1400" id="Build">
+                      <input type="text" value="S251,S375,S500,S1450,S1500,C340,C1300,D245,D260,D1125,E350,E1225,E1425,A250,A300,A1200,W180,W275,W1400" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S251,S375,S500,S1450,S1500,C340,C1300,D245,D260,D1125,E350,E1225,E1425,A250,A300,A1200,W180,W275,W1400" id="Build"> Can buy DG11
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S251,S375,S400,S1450,S1500,C340,C1300,D245,D260,D1125,E350,E1225,E1425,A120,A300,A1200,W180,W275,W1400" id="Build"> S400 is stronger
+                      <input type="text" value="S251,S375,S400,S1450,S1500,C340,C1300,D245,D260,D1125,E350,E1225,E1425,A250,A300,A1200,W180,W275,W1400" id="Build"> S400 is stronger
                 <p>S251,S375,S500,S1450,S1500,
                 <p>C340,C1300,
                 <p>D245,D260,D1125,
                 <p>E350,E1225,E1425,
                 <p>A250,A300,A1200,
                 <p>W180,W275,W1400
-                <p><b>Notes</b>: Replace A120 with A250 if able to buy DG11.
                 <p><b>Notes</b>: Replace S500 with S400 if stronger.
                 </div>
            </div>
