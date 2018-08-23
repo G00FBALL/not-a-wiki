@@ -8,51 +8,51 @@
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a></p>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
-    <p><b>Event starts in</b></p>
-    <p id="start">
-    <script>
-      var countDownDate1 = new Date("Aug 23, 2018 12:01:00 UTC").getTime();
-      var x = setInterval(function() {
-          var now = new Date().getTime();
-          var distance = countDownDate1 - now;
-          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-          document.getElementById("start").innerHTML = days + "d " + hours + "h "
-          + minutes + "m " + seconds + "s ";
-          if (distance < 0) {
-              clearInterval(x);
-              document.getElementById("end").innerHTML = "Started";
-          }
-          }, 1000);
-      </script></p>
-    <p><b>Event ends in</b></p>
-    <p id="end">
-    <script>
-    var countDownDate2 = new Date("Aug 30, 2018 18:59:00 UTC").getTime();
-    var x = setInterval(function() {
-        var now = new Date().getTime();
-        var distance = countDownDate2 - now;
-        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        document.getElementById("end").innerHTML = days + "d " + hours + "h "
-        + minutes + "m " + seconds + "s ";
-        if (distance < 0) {
-            clearInterval(x);
-            document.getElementById("end").innerHTML = "Ended";
-        }
-     }, 1000);
-    </script></p>
+<p><b>Event starts in</b></p>
+<p id="start">
+<!--<script>
+  var countDownDate1 = new Date("Aug 23, 2018 12:01:00 UTC").getTime();
+  var x = setInterval(function() {
+      var now = new Date().getTime();
+      var distance = countDownDate1 - now;
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+      document.getElementById("start").innerHTML = days + "d " + hours + "h "
+      + minutes + "m " + seconds + "s ";
+      if (distance < 0) {
+          clearInterval(x);
+          document.getElementById("end").innerHTML = "Started";
+      }
+      }, 1000);
+  </script>--!></p>
+<p><b>Event ends in</b></p>
+<p id="end">
+<script>
+var countDownDate2 = new Date("Aug 30, 2018 18:59:00 UTC").getTime();
+var x = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate2 - now;
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    document.getElementById("end").innerHTML = days + "d " + hours + "h "
+    + minutes + "m " + seconds + "s ";
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("end").innerHTML = "Ended";
+    }
+ }, 1000);
+</script></p>
 <a id="Events"></a>
 <table class="numtable">
         <thead>
         <tr>
             <th>Rubies</th>
             <th colspan="1">Event</th>
-            <th colspan="4">Total Cumulative Bonus 166%</th>
+            <th colspan="4">Total Cumulative Bonus 174%</th>
         </tr>
         </thead>
         <tbody>
@@ -111,6 +111,7 @@
             <td></td>
             <td>8%</td>
             <td>8%</td>
+            <td>8%</td>
         </tr>
         <tr>
             <td>16  (8)</td>
@@ -148,40 +149,41 @@
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/realm/Factions/picks/TotalEvents2018Anniversary.png" usemap="#TotalEvents2018Anniversary-map">
-    <map name="TotalEvents2018Anniversary-map">
-    <area target="" research="Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="3,4,62,62" shape="rect">
-    <area target="" research="Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="67,3,125,62" shape="rect">
-    <area target="" research="Christmas<p>Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 &amp; R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="132,4,189,61" shape="rect">
-    <area target="" research="Christmas<p>Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="197,5,255,61" shape="rect">
-    <area target="" research="Christmas<p>Snowpile<p>Type: 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="261,5,320,62" shape="rect">
-    <area target="" research="Christmas<p>Gift Collector<p>Type: 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,4,383,61" shape="rect">
-    <area target="" research="Valentines<p>Feel the Love<p>Type: 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="391,1,448,61" shape="rect">
-    <area target="" research="Valentines<p>I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,69,60,126" shape="rect">
-    <area target="" research="Valentines 2018<p>Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="67,69,126,127" shape="rect">
-    <area target="" research="Easter<p>Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="131,68,190,127" shape="rect">
-    <area target="" research="Easter<p>Egg Collection<p>Type: 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="196,68,255,126" shape="rect">
-    <area target="" research="Easter<p>Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="262,68,319,126" shape="rect">
-    <area target="" research="Easter<p>Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="326,68,384,126" shape="rect">
-    <area target="" research="Easter 2018<p>Bunny Helpers<p>Requirement: Collect a full stack of 480 Eggs while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="390,69,447,127" shape="rect">
-    <area target="" research="Summer Festival<p>Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans." coords="4,133,60,191" shape="rect">
-    <area target="" research="Summer Festival<p>Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly." coords="67,133,125,191" shape="rect">
-    <area target="" research="Summer Festival<p>Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%" coords="133,133,190,190" shape="rect">
-    <area target="" research="Summer Festival<p>Winterly Champion<p>Type: Feat<p>Requirement: Purchase all 3 Winterly upgrades.<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%" coords="197,132,254,190" shape="rect">
-    <area target="" research="Halloween<p>Monster Breeder <p>Type: 3 part Quest<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="262,133,320,190" shape="rect">
-    <area target="" research="Halloween<p>Pumpkin Smasher<p>Type: 4 part Quest<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="326,133,383,190" shape="rect">
-    <area target="" research="Halloween<p>Spooky<p>Type: Feat<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="391,133,447,190" shape="rect">
-    <area target="" research="Halloween<p>Bloodthirsty<p>Type: Feat<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="3,197,61,254" shape="rect">
-    <area target="" research="Halloween<p>Bonepicker<p>Type: Feat<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="68,197,126,255" shape="rect">
-    <area target="" research="Anniversary<p>Blood Wars<p>Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="132,197,189,254" shape="rect">
-    <area target="" research="Anniversary<p>Blood Wars<p>Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="197,196,255,254" shape="rect">
-    <area target="" research="Anniversary<p>Blood Wars<p>Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="260,196,317,251" shape="rect">
-    <area target="" research="Anniversary<p>Blood Wars<p>Seraphim Champion<p>Type: 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="325,196,382,252" shape="rect">
-    <area target="" research="Anniversary<p>Blood Wars<p>Asmodean Champion<p>Type: 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>" coords="388,196,448,252" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="3,261,60,317" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,261,125,316" shape="rect">
-    <area target="" research="Goblin Invasion<p>Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,260,188,318" shape="rect">
-    <area target="" research="Goblin Invasion<p>Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.Goblin Invasion<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,261,254,316" shape="rect">
+    <p><img src="/admincontrols/Factions/picks/TotalEvents2018SummerFestival.png" usemap="#TotalEvents2018SummerFestival-map">
+    <map name="TotalEvents2018SummerFestival-map">
+    <area target="" research="<img src=&quot;http://musicfamily.org/realm/Factions/picks/Thanksgiving.png&quot; align=&quot;middle&quot;> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,43,62,101" shape="rect">
+    <area target="" research="<img src=&quot;http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png&quot; align=&quot;middle&quot;> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="68,44,126,102" shape="rect">
+    <area target="" research="Christmas<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Santa'sHelpers2016.png&quot; align=&quot;middle&quot;> Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 &amp;amp; R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="131,44,190,101" shape="rect">
+    <area target="" research="Christmas<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Unholidays2016.png&quot; align=&quot;middle&quot;> Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="197,44,254,101" shape="rect">
+    <area target="" research="Christmas<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Snowpile42016.png&quot; align=&quot;middle&quot;> Snowpile<p>Type: Feat, 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="261,44,319,102" shape="rect">
+    <area target="" research="Christmas<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GiftCollector2016.png&quot; align=&quot;middle&quot;> Gift Collector<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="326,45,382,102" shape="rect">
+    <area target="" research="Valentines<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png&quot; align=&quot;middle&quot;> Feel the Love<p>Type: Feat, 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,47,447,102" shape="rect">
+    <area target="" research="Valentines<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/ILoveYouinEveryLanguage2017.png&quot; align=&quot;middle&quot;> I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="3,109,61,166" shape="rect">
+    <area target="" research="Valentines 2018<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/AssistantLove2018.png&quot; align=&quot;middle&quot;> Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="67,108,125,166" shape="rect">
+    <area target="" research="Easter<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/EggHunter7000Easter2017.png&quot; align=&quot;middle&quot;> Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,109,189,165" shape="rect">
+    <area target="" research="Easter<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/EggCollection8Easter2017.png&quot; align=&quot;middle&quot;> Egg Collection<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="197,108,255,166" shape="rect">
+    <area target="" research="Easter<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GoldenChickenEaster2017.png&quot; align=&quot;middle&quot;> Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,108,319,166" shape="rect">
+    <area target="" research="Easter<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GreyEaster2017.png&quot; align=&quot;middle&quot;> Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="325,108,383,166" shape="rect">
+    <area target="" research="Easter 2018<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/BunnyHelpers2018.png&quot; align=&quot;middle&quot;> Bunny Helpers<p>Requirement: Collect a full stack of 480 Eggs while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,109,447,165" shape="rect">
+    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/ChillOut.PNG&quot; align=&quot;middle&quot;> Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="3,172,62,230" shape="rect">
+    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/WarmUp.PNG&quot; align=&quot;middle&quot;> Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="66,171,126,230" shape="rect">
+    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/SummeraanAlliance.PNG&quot; align=&quot;middle&quot;> Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="133,174,190,230" shape="rect">
+    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/WinterlyAlliance.PNG&quot; align=&quot;middle&quot;> Winterly Champion<p>Type: Feat<p>Requirement: Purchase all 3 Winterly upgrades.<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,172,255,229" shape="rect">
+    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/admincontrols/Factions/picks/ClimateForecast.png&quot; align=&quot;middle&quot;> Climate Forecast<p>Type: Feat<p>Requirement: Collect a full stack of any Orbs while unaffilliated with either of the Summer Festival faction.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,172,319,230" shape="rect">
+    <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/MonsterBreederFeat.png&quot; align=&quot;middle&quot;> Monster Breeder <p>Type: Feat, 3 part Quest<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="325,173,383,231" shape="rect">
+    <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/PumpkinSmasher4.png&quot; align=&quot;middle&quot;> Pumpkin Smasher<p>Type: Feat, 4 part Quest<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="389,173,447,231" shape="rect">
+    <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Spooky.png&quot; align=&quot;middle&quot;> Spooky<p>Type: Feat<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="3,236,62,295" shape="rect">
+    <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/BloodThirsty.png&quot; align=&quot;middle&quot;> Bloodthirsty<p>Type: Feat<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="68,237,126,295" shape="rect">
+    <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/BonePicker.png&quot; align=&quot;middle&quot;> Bonepicker<p>Type: Feat<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="133,238,189,294" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/SacredHoliness2017.png&quot; align=&quot;middle&quot;> Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,237,255,295" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/DarkestHeresy2017.png&quot; align=&quot;middle&quot;> Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="262,236,319,294" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Indifference2018.png&quot; align=&quot;middle&quot;> Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="326,236,382,294" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png&quot; align=&quot;middle&quot;> Seraphim Champion<p>Type: Feat, 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,238,447,294" shape="rect">
+    <area target="" research="Anniversary<p>Blood Wars<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/AsmondeanChampion2017.png&quot; align=&quot;middle&quot;> Asmodean Champion<p>Type: Feat, 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effcet: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,302,61,359" shape="rect">
+    <area target="" research="Goblin Invasion<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png&quot; align=&quot;middle&quot;> Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="69,302,126,358" shape="rect">
+    <area target="" research="Goblin Invasion<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png&quot; align=&quot;middle&quot;> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,301,189,358" shape="rect">
+    <area target="" research="Goblin Invasion<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png&quot; align=&quot;middle&quot;> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,301,255,359" shape="rect">
+    <area target="" research="Goblin Invasion<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png&quot; align=&quot;middle&quot;> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.Goblin Invasion<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="262,301,317,359" shape="rect">
     </map></p>
     <hr>
 
@@ -201,17 +203,24 @@ div#images div{
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleValentine.png" width="54%" height="54%" /></center>
     <center><b>Valentine</b></center>
   </div>
-  <div>
+&nbsp  <div>
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleEaster.png" width="54%" height="54%" /></center>
     <center><b>Easter</b></center>
   </div>
-  <div>
+&nbsp  <div>
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleBloodwar.png" width="54%" height="54%" /></center>
     <center><b>Blood War</b></center>
   </div>
-  <div>
+&nbsp  <div>
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleGoblinInvasion.png" width="45%" height="49%" /></center>
     <center><b>Goblin Invasion</b></center>
+  </div>
+</div>
+<br>
+<div id="images">
+  <div>
+  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/ManaBubbleSummerFest.png" width="43%" height="46%" /></center>
+    <center><b>Summer Festival</b></center>
   </div>
 </div>
 <br>
@@ -222,6 +231,140 @@ div#images div{
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2018 Events</a></b></p>
         <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 23 - Aug 30, 2017)</a></b></p>
+            <div class="autohide">
+                <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!</p>
+                <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 8 hours, up to 480 orbs.</p>
+                <p>You can only collect one type of orb: by doing so, the other will disappear.</p>
+                <p><b>Event Resource</b></p>
+                <p><img src="/realm/Factions/picks/FrostOrbs.png" alt="Frost Orbs" align="middle"> <b>Frost Orbs</b> used to purchase and empower Winterly upgrades.</p>
+                <br/>
+                <p><img src="/realm/Factions/picks/FlameOrbs.png" alt="Flame Orbs" align="middle"> <b>Flame Orbs</b> used to purchase and empower Summeraan upgrades.</p>
+                <br/>
+                <p>As with any faction in Realm Grinder, you can choose to affiliate with only one of them per abdication - upgrades will remain free if you purchased them once though.</p>
+                <p>Collected orbs will persist through soft resets and remain until the end of the event.</p>
+                <p><b>Flame Orbs</b> can be used to buy upgrades from the <b>Summeraan</b> faction, whereas <b>Frost Orbs</b> can be used to buy upgrades from the <b>Winterly</b> faction.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Antipodes.png" alt="Antipodes" align="middle"> Antipodes</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Orbs collected in this event. This upgrade persists through Abdications and Reincarnations.</p>
+                <p><b>Formula</b>: min(100000, (x / 27) - (x^2 / 36450) + (x^3 / 98415000)) %, where x is the number of Orbs collected in total.</p>
+                <hr>
+                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 400 Frost Orbs</p>
+                <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Hailstorm.PNG" alt="Hailstorm" align="middle"> Hailstorm</b></p>
+                <p><b>Kind</b>: Spell</p>
+                <p><b>Unlock / Price</b>: Mana Cost:1000 (Unlocked when aligned with Winterly)</p>
+                <p><b>Effect</b>:Increase the production of all buildings based on Hailstorm activity time for 2m. Bonus provided increases progressively over the duration of the spell.</p>
+                <p><b>Formula</b>: 0.1 * x^0.6 * y^1.1 %, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Glaciality" align="middle"> Glaciality</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 800 Frost Orbs</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on time spent affiliated with the Winterly.</p>
+                <p><b>Formula</b>: 20 * x^0.75%, where x is time spent aligned with the Winterly in hours.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Permafrost" align="middle"> Permafrost</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1300 Frost Orbs</p>
+                <p><b>Effect</b>: Increase the production of assistants based on the total amount of Frost Orbs collected in this event.</p>
+                <p><b>Formula</b>: x^1.03 %, where x is the number of Frost Orbs collected in total.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" align="middle"> Cold Blood</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 2000 Frost Orbs</p>
+                <p><b>Effect</b>: Spell durations are increased by 100%.</p>
+                <hr>
+                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 400 Flame Orbs</p>
+                <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Heatwave.PNG" alt="Heatwave" align="middle"> Heatwave</b></p>
+                <p><b>Kind</b>: Spell</p>
+                <p><b>Unlock / Price</b>: Mana Cost:300 (Unlocked when aligned with Summeraan)</p>
+                <p><b>Effect</b>:Increase the production of all buildings based on spells cast in this game for 12s. Also grants faction coins based on the amount of Flame Orbs collected in this event.</p>
+                <p><b>Formula</b>: 5 * x^0.85%, where x is the number of spells cast this game, and x * y^1.1, where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Sun Beams" align="middle"> Sun Beams</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 800 Flame Orbs</p>
+                <p><b>Effect</b>: Whenever you collect Flame Orbs floating on your realm, the production of all buildings is increased based on the amount of Orbs collected with this click for 10 seconds.</p>
+                <p><b>Formula</b>: 25 * x%, where x is the number of Flame Orbs collected with the last click.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Eruption" align="middle"> Eruption</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1300 Flame Orbs</p>
+                <p><b>Effect</b>: Gain additional assistants based on the clicks made in this game.</p>
+                <p><b>Formula</b>: 2 * log (1 + x^2), where x is the number of clicks made in this game.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" align="middle"> Burning Rage</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 2000 Flame Orbs</p>
+                <p><b>Effect</b>: Decrease the cost of all spells by 50%. (multiplicative)</p>
+                <hr>
+                <p><b>Quest</b></p>
+                <p><b>Winterly Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Winterly Champion 1" align="middle">  Winterly Champion 1</b></p>
+                <p><b>Effect</b>: +1% Event bonus.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Winterly Champion 2" align="middle">   Winterly Champion 2</b></p>
+                <p><b>Effect</b>: +1% Event bonus.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Winterly Champion 1" align="middle"> Winterly Champion 3</b></p>
+                <p><b>Effect</b>: +2% Event bonus.
+                <p><b>Unlock</b>: Purchase 1/2/3 Winterly upgrades.</p>
+                   <br/>
+                <p><b>Summeraan Champion</b></p>
+                <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Summeraan Champion 1" align="middle"> Summeraan Champion 1</b></p>
+                <p><b>Effect</b>: +1% Event bonus.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Summeraan Champion 2" align="middle"> Summeraan Champion 2</b></p>
+                <p><b>Effect</b>: +1% Event bonus.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Summeraan Champion 1" align="middle"> Summeraan Champion 3</b></p>
+                <p><b>Effect</b>: +2% Event bonus.</p>
+                <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.</p>
+                <hr>
+                <p><b>Feats</b>
+                <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                <p><b>Unlock</b>: Purchase all Winterly upgrades.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.</p>
+                <br/>
+                <p><b><img src="/admincontrols/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
+                <p><b>Unlock</b>: Collect a full stack of 480 of any Orbs while unaffilliated with either of the Summer Festival factions.</p>
+                <hr>
+                <p><b>Shop Items</b></p>
+                <p><b><img src="/realm/Factions/picks/75OrbShopItem.png" alt="Shop Item" align="middle"> 75 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 5 Rubies</p>
+                <p><b>Description</b>: A spring wizard wants to sell you 75 Frost and Flame Orbs for 5 Rubies. He will offer you a new deal if you accept.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/300OrbShopItem.png" alt="Shop Item" align="middle"> 300 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 15 Rubies</p>
+                <p><b>Description</b>: A spring wizard wants to sell you 300 Frost and Flame Orbs for 15 Rubies. He will offer you a new deal if you accept.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/1250OrbShopItem.png" alt="Shop Item" align="middle"> 1250 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 45 Rubies</p>
+                <p><b>Description</b>: A spring wizard wants to sell you 1250 Frost and Flame Orbs for 45 Rubies. He will offer you a new deal if you accept.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/3500OrbShopItem.png" alt="Shop Item" align="middle"> 3500 Frost and Flame Orbs</b></p>
+                <p><b>Cost</b>: 100 Rubies</p>
+                <p><b>Description</b>: A spring wizard wants to sell you 3500 Frost and Flame Orbs for 100 Rubies. These are all the orbs he could gather.</p>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Aug 3 - Aug 7, 2018)</a></b></p>
             <div class="autohide">
