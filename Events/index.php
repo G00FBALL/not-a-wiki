@@ -149,7 +149,7 @@ var x = setInterval(function() {
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/admincontrols/Factions/picks/TotalEvents2018SummerFestival.png" usemap="#TotalEvents2018SummerFestival-map">
+    <p><img src="/realm/Factions/picks/TotalEvents2018SummerFestival.png" usemap="#TotalEvents2018SummerFestival-map">
     <map name="TotalEvents2018SummerFestival-map">
     <area target="" research="<img src=&quot;http://musicfamily.org/realm/Factions/picks/Thanksgiving.png&quot; align=&quot;middle&quot;> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,43,62,101" shape="rect">
     <area target="" research="<img src=&quot;http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png&quot; align=&quot;middle&quot;> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="68,44,126,102" shape="rect">
@@ -169,7 +169,7 @@ var x = setInterval(function() {
     <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/WarmUp.PNG&quot; align=&quot;middle&quot;> Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="66,171,126,230" shape="rect">
     <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/SummeraanAlliance.PNG&quot; align=&quot;middle&quot;> Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="133,174,190,230" shape="rect">
     <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/WinterlyAlliance.PNG&quot; align=&quot;middle&quot;> Winterly Champion<p>Type: Feat<p>Requirement: Purchase all 3 Winterly upgrades.<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,172,255,229" shape="rect">
-    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/admincontrols/Factions/picks/ClimateForecast.png&quot; align=&quot;middle&quot;> Climate Forecast<p>Type: Feat<p>Requirement: Collect a full stack of any Orbs while unaffilliated with either of the Summer Festival faction.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,172,319,230" shape="rect">
+    <area target="" research="Summer Festival<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/ClimateForecast.png&quot; align=&quot;middle&quot;> Climate Forecast<p>Type: Feat<p>Requirement: Collect a full stack of any Orbs while unaffilliated with either of the Summer Festival faction.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,172,319,230" shape="rect">
     <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/MonsterBreederFeat.png&quot; align=&quot;middle&quot;> Monster Breeder <p>Type: Feat, 3 part Quest<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="325,173,383,231" shape="rect">
     <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/PumpkinSmasher4.png&quot; align=&quot;middle&quot;> Pumpkin Smasher<p>Type: Feat, 4 part Quest<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="389,173,447,231" shape="rect">
     <area target="" research="Halloween<p><img src=&quot;http://musicfamily.org/realm/Factions/picks/Spooky.png&quot; align=&quot;middle&quot;> Spooky<p>Type: Feat<p>Requirements: Collect a full stack of 480 Ectoplasm while using Ghost monster pet." coords="3,236,62,295" shape="rect">
@@ -219,7 +219,7 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/ManaBubbleSummerFest.png" width="43%" height="46%" /></center>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleSummerFest.png" width="43%" height="46%" /></center>
     <center><b>Summer Festival</b></center>
   </div>
 </div>
@@ -344,7 +344,7 @@ div#images div{
                 <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
                 <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.</p>
                 <br/>
-                <p><b><img src="/admincontrols/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
+                <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
                 <p><b>Unlock</b>: Collect a full stack of 480 of any Orbs while unaffilliated with either of the Summer Festival factions.</p>
                 <hr>
                 <p><b>Shop Items</b></p>
