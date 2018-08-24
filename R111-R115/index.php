@@ -189,7 +189,7 @@
                 </div>
            </div>
                    <div class="shelementwhole">
-                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="DarkRed"> Evil</font></a></b></p>
+                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="Blue"> Good</font></a></b></p>
                        <div class="autohide">
                            <p><b>Author</b>: Jgchan29
                            <p><b>Range</b>: 1e45 (1 QaD) Gems+
@@ -199,12 +199,12 @@
                            <p><b>Artifact Set</b>: Angel, Elf (if buffed)
                                  <p><button onclick="myFunction($(this))">Copy Build</button>
                                  <input type="text" value="S10,S400,C25,C340,D1,D150,D175,E1325,A50,A250,W225,W1375" id="Build">
-                           <p>S50,S3200,
-                           <p>C175,C400,
-                           <p>D200,
-                           <p>E1,E135,E225,
-                           <p>A10,A120,
-                           <p>W25,W205
+                           <p>S10,S400,
+                           <p>C25,C340,
+                           <p>D1,D150,D175,
+                           <p>E1325,
+                           <p>A50,A250,
+                           <p>W225,W1375
                            <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
          </div>
     </div>
