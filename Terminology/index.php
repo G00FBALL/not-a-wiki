@@ -24,7 +24,7 @@
 <p><b>#6</b>: 6th Spell</p>
 <p><b>#7</b>: 7th Spell</p>
 <p><b>#8</b>: 8th Spell</p>
-<p><b>#9</b>: 9th Spell</p> <b>During Events Only</b>
+<p><b>#9</b>: 9th Spell (<b>During Events Only)</b></p>
 <br/>
 <p><b>Tiers</b>: R42+</p>
 <p><b>X +click spell</b>: This will set each spell 1 tier at a time and back to 0</p>
