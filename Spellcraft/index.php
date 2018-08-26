@@ -72,7 +72,7 @@
 <p><b>S215</b> - <b>For All Factions</b> - <b>Research Name</b>: Projection</p>
 <p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) &amp; Incantation (S180)</p>
 <p><b>Cost</b>: 36.16 TQig (3.616E163)</p>
-<p><b>Effect</b>: Increase Spiritual Surge effect based on the amount of active spells.</p>
+<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</p>
 <p><b>Formula</b>: 100 * ((10 * x) ^ y), where x is active spells and y is ascension. (does not include Spiritual Surge)</p>
 <br/>
 <p><b>S225</b> - <b>For Undead</b> - <b>Research Name</b>: Necromancy</p>
