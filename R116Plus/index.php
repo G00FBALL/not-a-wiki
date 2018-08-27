@@ -376,7 +376,27 @@
 </div>
 </div>
 <div class="shelementwhole">
-<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin (L30+ pusher)<font color="DarkRed"> Evil</font></a></b></p>
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (L30+ pusher) e63+<font color="DarkRed"> Evil</font></a></b></p>
+<div class="autohide">
+<p><b>Author</b>: Artcrow
+<p><b>Range</b>: 1e63 (1 Vg) Gems+
+<p><b>Requirements</b>: Fairy Lineage Level 30+
+<p><b>Faction</b>: Undead/Drow
+<p><b>Bloodline</b>: Fairy
+<p><b>Artifact Set</b>: Undead
+ <p><button onclick="myFunction($(this))">Copy Build</button>
+ <input type="text" value="S225,S400,S435,C400,D25,D330,D560,E10,E145,E495,A1,A175,A400,A410,A590,W25,W205,W405,W520" id="Build">
+<p>S225,S400,S435,
+<p>C400,
+<p>D25,D330,D560,
+<p>E10,E145,E495,
+<p>A1,A175,A400,A410,A590,
+<p>W50,W205,W405,W520
+<p><b>Notes</b>: Buffing S400 is highly recommended.
+</div>
+</div>
+<div class="shelementwhole">
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin (L30+ pusher) E65+<font color="DarkRed"> Evil</font></a></b></p>
 <div class="autohide">
 <p><b>Author</b>: Artcrow
 <p><b>Range</b>: 1e65 (100 Vg) Gems+
