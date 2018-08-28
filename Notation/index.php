@@ -10,6 +10,13 @@
     <?php include "../scripts/header.html"; ?>
 </head>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
     <table class="numtable">
         <thead>
         <tr>
