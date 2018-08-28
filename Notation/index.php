@@ -9,7 +9,6 @@
         }</style>
     <?php include "../scripts/header.html"; ?>
 </head>
-<center><img src="http://musicfamily.org/realm/Factions/picks/scientificnotationtable.png"></center>
 <br/>
     <table class="numtable">
         <thead>
