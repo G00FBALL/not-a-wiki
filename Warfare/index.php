@@ -30,7 +30,7 @@
 <p><b>Requirement</b>: 2 days of Evil Play Time this R</p>
 <p><b>Cost</b>: 318.8 Tqag (3.188E134)</p>
 <p><b>Effect</b>: Increase faction coin find chance based on the number of Undercities you own.</p>
-<p><b>Formula</b>: (floor(6.5x^0.65))%, where x is the number of Undercities you own.</p>
+<p><b>Formula</b>: (floor(1.5 * x ^ 1.05))% where x is the number of Undercities you own.</p>
 <p><b>Note</b>: Play as any Evil faction, but you must be Demon to unlock this.</p>
 <br/>
 <p><b>W120</b> - <b>For All Factions</b> - <b>Research Name</b>: Betrayal</p>
