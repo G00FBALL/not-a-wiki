@@ -250,7 +250,7 @@
                 <p>A120,A250,A270,A400,A545,A1325,
                 <p>W135,W250,W400,W1275,W1375
                 <p><b>Notes</b>: Do NOT buy dragon treaty until you have 10B mana generated this game.
-                <p><b>Notes</b>: Estimated run time is 2-3 days.
+                <p><b>Notes</b>: Estimated run time is 1.5-2.5 days.
             </div>
           </div>
         </div>
