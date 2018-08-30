@@ -106,21 +106,21 @@
                           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Elf<font color="Blue"> Good</font></a></b></p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
-                              <p><b>Range</b>: 1e65 Gems+
-                              <p><b>Requirements</b>: Angel Lineage Level 30
+                              <p><b>Range</b>: 1e66 (1 UVg) gems(?) - ?
+                              <p><b>Requirements</b>: Angel Lineage Level 30, S400 of 2e6 (2 M)+(?)
                               <p><b>Faction</b>: Elf/Dwarf
                               <p><b>Bloodline</b>: Angel
-                              <p><b>Artifact Set</b>: Elf
+                              <p><b>Artifact Set</b>: Angel
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
                                     <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build">
                               <p>S175,S400,
-                              <p>C1,C225,C340,C405,C520,C590,
+                              <p>C1,C225,C400,C405,C520,C590,
                               <p>D50,D245,D435,
                               <p>E25,E400,E410,
                               <p>A120,A495,
                               <p>W10,W560,W1375
-                              <p><b>Notes</b>: Buffs Elf set by itself.
                               <p><b>Notes</b>: S400 is required before running this build.
+                              <p><b>Notes</b>: Swap C400 with C340 for longer runs (1 day+).
                        </div>
                   </div>
                       <div class="shelementwhole">
