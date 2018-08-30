@@ -354,6 +354,7 @@
     <p>W560,W1375
     <p><b>Notes</b>: Swap D200 to D245 and E145 to E400 to be able to afford DN12 with 1e64 (10 Vg) gems+
     <p><b>Notes</b>: Swap E400 back to E145 at 1e65 (100 Vg) gems+
+    <p><b>Notes</b>: Use Goblin lineage leveler at 1e67 (10 UVg) gems+.
     </div>
 </div>
 <div class="shelementwhole">
@@ -372,11 +373,12 @@
 <p>E290,E350,E1225,
 <p>A250,A300,A1200,
 <p>W275,W400,W1400
-<p><b>Notes</b>: Can easily afford L26-L28 with 1 reset, L29 will require multiple while L30 wont be able to be afforded. Use general lineage builder for L30.
+<p><b>Notes</b>: Can easily afford L26-L28 with 1 reset, L29 will require multiple while L30 wont be able to be afforded. 
+<p><b>Notes</b>: Use general lineage builder for L30.
 </div>
 </div>
 <div class="shelementwhole">
-<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (L30+ pusher) e63+<font color="DarkRed"> Evil</font></a></b></p>
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (L30+ pusher)<font color="DarkRed"> Evil</font></a></b></p>
 <div class="autohide">
 <p><b>Author</b>: Artcrow
 <p><b>Range</b>: 1e63 (1 Vg) Gems+
@@ -392,29 +394,6 @@
 <p>E10,E145,E495,
 <p>A1,A175,A400,A410,A590,
 <p>W50,W205,W405,W520
-<p><b>Notes</b>: Buffing S400 is highly recommended.
-</div>
-</div>
-<div class="shelementwhole">
-<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin (L30+ pusher) E65+<font color="DarkRed"> Evil</font></a></b></p>
-<div class="autohide">
-<p><b>Author</b>: Artcrow
-<p><b>Range</b>: 1e65 (100 Vg) Gems+
-<p><b>Requirements</b>: Fairy Lineage Level 30+
-<p><b>Faction</b>: Goblin/Drow
-<p><b>Bloodline</b>: Fairy
-<p><b>Artifact Set</b>: Undead
- <p><button onclick="myFunction($(this))">Copy Build</button>
- <input type="text" value="S50,S400,S435,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build">
- <p><button onclick="myFunction($(this))">Copy Build</button>
- <input type="text" value="S50,S400,S435,C175,C400,D330,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> 1e67 (10 UVg) Gems+
-<p>S50,S400,S435,
-<p>C175,C400,
-<p>D245,D560,
-<p>E1,E135,E225,E495,E590,
-<p>A10,A400,A410,
-<p>W25,W205,W405,W520
-<p><b>Notes</b>: Replace D245 with D330 at 1e67 (10 UVg) gems+.
 <p><b>Notes</b>: Buffing S400 is highly recommended.
 </div>
 </div>
