@@ -51,7 +51,7 @@
                 <p><b>Mercenary Template</b>: AN1</p>
                 <p><b>Cost</b>: 50 M (5E7)</p>
                 <p><b>Effect</b>: Cathedrals also increase your mana regeneration rate.</p>
-                <p><b>Formula</b>: (^ x 0.28), where x is the number of Cathedrals you own.</p>
+                <p><b>Formula</b>: (x ^ 0.28), where x is the number of Cathedrals you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" align="middle"> Angelic Determination</b></p>
                 <p><b>Mercenary Template</b>: AN2</p>

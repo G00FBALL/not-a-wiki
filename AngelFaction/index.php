@@ -27,12 +27,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" align="middle"> Holy Bells</b></p>
 <p><b>Cost</b>: 50 M (5E7)</p>
 <p><b>Effect</b>: Cathedrals also increase your mana regeneration rate.</p>
-<p><b>Formula</b>: x^0.28, where x is the number of Cathedrals you own.</p>
+<p><b>Formula</b>: x ^ 0.28, where x is the number of Cathedrals you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" align="middle"> Angelic Determination</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
-<p><b>Formula</b>: 1.5*x^0.85%, where x is your Spells Cast (This Game) stat.</p>
+<p><b>Formula</b>: 1.5 * x ^ 0.85%, where x is your Spells Cast (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelFeathersFactionUpgrade.png" align="middle"> Angel Feathers</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
@@ -46,7 +46,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GuardianAngelsFactionUpgrade.png" align="middle"> Guardian Angels</b></p>
 <p><b>Cost</b>: 500 B (5E11)</p>
 <p><b>Effect</b>: Royal Castles also increase your mana production rate.</p>
-<p><b>Formula</b>: x^0.305, where x is the number of Royal Castles you own.</p>
+<p><b>Formula</b>: x ^ 0.305, where x is the number of Royal Castles you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicWisdomFactionUpgrade.png" align="middle"> Angelic Wisdom</b></p>
 <p><b>Cost</b>: 5 T (5E12)</p>
@@ -74,7 +74,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WingsofLibertyFactionUpgrade.png" align="middle"> Wings of Liberty</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
-<p><b>Formula</b>: 3 * x^0.85, where x is your Mana per Second stat.</p>
+<p><b>Formula</b>: 3 * x ^ 0.85, where x is your Mana per Second stat.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
 <p><b>Cost</b>: 5000 Angel Coins</p>
