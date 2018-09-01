@@ -121,7 +121,7 @@
                        </div>
                   </div>
                       <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R120+) (obsolete?)<font color="DarkGoldenRod"> Neutral</font></a></b> Obsolete?</p>
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R120+)<font color="DarkGoldenRod"> Neutral</font></a></b> Obsolete?</p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
                               <p><b>Range</b>: 1e61 (10 Nod) Gems
