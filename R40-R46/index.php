@@ -38,6 +38,7 @@
                                 <div class="autohide">
                 <p><b>Author</b>: Artcrow + Necrodoom
                 <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings
+                <p><b>Requirements</b>: Mana Waste is also needed for stage 4 unlock.
                 <p><b>Range</b>: ? gems - ?
                 <p><b>Faction</b>: Elf/Dwarf
                 <p><b>Bloodline</b>: Druid
