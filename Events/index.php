@@ -196,10 +196,14 @@ div#images div{
   display:inline-block;
 }
 </style>
-<p><b><center>Event Mana Colors</center></b></p>
+<p><b><center>Event Mana Colors Options</center></b></p>
 <br>
 <div id="images">
   <div>
+  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/ManaBubbleStandard.png" width="54%" height="54%" /></center>
+    <center><b>Standard</b></center>
+  </div>
+&nbsp  <div>
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleValentine.png" width="54%" height="54%" /></center>
     <center><b>Valentine</b></center>
   </div>
@@ -211,17 +215,18 @@ div#images div{
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleBloodwar.png" width="54%" height="54%" /></center>
     <center><b>Blood War</b></center>
   </div>
-&nbsp  <div>
+&nbsp
+<div id="images">
+  <div>
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleGoblinInvasion.png" width="45%" height="49%" /></center>
     <center><b>Goblin Invasion</b></center>
   </div>
-</div>
-<br>
-<div id="images">
+&nbsp
   <div>
   <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleSummerFest.png" width="43%" height="46%" /></center>
     <center><b>Summer Festival</b></center>
   </div>
+</div>
 </div>
 <br>
 <p><b>Requirement</b>: If you unlock all of the event's feats, you will permanently unlock a new color option for the mana bar from that event.</p>
