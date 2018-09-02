@@ -159,6 +159,7 @@
 <p><b>OH</b>: Olympian Hall (Titan's Unique building)</p>
 <p><b>UB</b>: Unique Building (R16-R99)</p>
 <p><b>UB2</b>: Unique Building 2 (R100+)</p>
+<p><b>AH</b>: Advanced Heritage (R100+)</p>
 <h6>Abbreviations</h6>
 <p><b>Mona</b>: Monastery</p>
 <p><b>Laby</b>: Labyrinth</p>
