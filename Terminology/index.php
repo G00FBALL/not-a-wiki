@@ -83,8 +83,6 @@
 <p><b>NU</b>: Non Unique Buildings</p>
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
-<p><b>SF</b>: Sun Force</p>
-<p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
@@ -169,7 +167,6 @@
 <p><b>UB</b>: Unique Building (R16-R99)</p>
 <p><b>UB2</b>: Unique Building 2 (R100+)</p>
 <p><b>AH</b>: Advanced Heritage (R100+)</p>
-<p><b>SF</b>: Sun Force</p>
 <h6>Abbreviations</h6>
 <p><b>Mona</b>: Monastery</p>
 <p><b>Laby</b>: Labyrinth</p>
@@ -188,6 +185,11 @@
 <p><b>DL</b>: Demon, Druid, Dwarf, Drow, and Dragon Lineage</p>
 <p><b>TL</b>: Titan Lineage</p>
 <p>For Lineage levels a number will follow the abreviation (eg: FL5, EL15, UL30...).</p>
+<hr>
+<h6>Upgrades</h6>
+<p><b>SF</b>: Sun Force</p>
+<p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
+<p><b>VFJ</b>: Vanilla Flavor Juice
 <hr>
 <h6>Gift Shop</h6>
 <p><b>GotH</b>: Gift of the Heroes</p>
