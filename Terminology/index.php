@@ -86,7 +86,8 @@
 <p><b>Merc or Mercs</b>: Mercenary</p>
 <p><b>SF</b>: Sun Force</p>
 <p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
-<p><b>VFJ</b>: Vanilla Flavor Juice
+<p><b>AB</b>: Arcane Brilliance
+
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
