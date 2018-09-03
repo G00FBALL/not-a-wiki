@@ -152,9 +152,9 @@
 <p><b>SB</b>: Share Benefit (Mercenary Spell)</p>
 <p><b>RI</b>: Reap Interests (Mercenary Spell)</p>
 <p><b>AV</b>: Appraisal Vantage (Mercenary Spell)</p>
-<p><b>TF</b>: Temporal Flux</p>
-<p><b>MS</b>: Maelstrom</p>
-<p><b>AC</b>: All Creation</p>
+<p><b>TF</b>: Temporal Flux (R100+ Spell, Proof of Order)</p>
+<p><b>MS</b>: Maelstromell, Proof of Chaos)</p>
+<p><b>AC</b>: All Creationell, Proof of Balance)</p>
 <p><b>GB11</b>: +10 Primal Balance</p>
 <p>Tiered spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...).</p>
 <hr>
