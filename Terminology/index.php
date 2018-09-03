@@ -68,8 +68,9 @@
 <p><b>All-Time</b>: covers all reincarnations.</p>
 <hr>
 <h6>Commonly Used Abbreviations</h6>
-<p><b>A1</b>: Ascension R40-R99</p>
-<p><b>A2</b>: Ascension R100+</p>
+<p><b>A0</b>: R0-R39</p>
+<p><b>A1</b>: R40-R99</p>
+<p><b>A2</b>: R100+</p>
 <p><b>Pre A</b>: Before R40</p>
 <p><b>Post A</b>: After R39 and R99</p>
 <p><b>R#</b>: Number of times reincarnated (eg: R12 = 12th reincarnation)</p>
@@ -83,6 +84,9 @@
 <p><b>NU</b>: Non Unique Buildings</p>
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
+<p><b>SF</b>: Sun Force</p>
+<p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
+<p><b>VFJ</b>: Vanilla Flavor Juice
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
@@ -185,11 +189,6 @@
 <p><b>DL</b>: Demon, Druid, Dwarf, Drow, and Dragon Lineage</p>
 <p><b>TL</b>: Titan Lineage</p>
 <p>For Lineage levels a number will follow the abreviation (eg: FL5, EL15, UL30...).</p>
-<hr>
-<h6>Upgrades</h6>
-<p><b>SF</b>: Sun Force</p>
-<p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
-<p><b>VFJ</b>: Vanilla Flavor Juice
 <hr>
 <h6>Gift Shop</h6>
 <p><b>GotH</b>: Gift of the Heroes</p>
