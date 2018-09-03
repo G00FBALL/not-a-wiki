@@ -148,8 +148,9 @@
 <p><b>CS</b>: Combo Strike</p>
 <p><b>DB</b>: Dragon Breath</p>
 <p><b>TF</b>: Temporal Flux</p>
-<p><b>MS</b>: Mealstrom</p>
+<p><b>MS</b>: Maelstrom</p>
 <p><b>AC</b>: All Creation</p>
+<p><b>GB11</b>: +10 Primal Balance</p>
 <p>Tiered spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...).</p>
 <hr>
 <h6>Acronyms</h6>
@@ -163,6 +164,7 @@
 <p><b>UB</b>: Unique Building (R16-R99)</p>
 <p><b>UB2</b>: Unique Building 2 (R100+)</p>
 <p><b>AH</b>: Advanced Heritage (R100+)</p>
+<p><b>SF</b>: Sun Force</p>
 <h6>Abbreviations</h6>
 <p><b>Mona</b>: Monastery</p>
 <p><b>Laby</b>: Labyrinth</p>
@@ -171,6 +173,7 @@
 <p><b>Necros</b>: Necropolis</p>
 <p><b>Pyra</b>: Ancient Pyramids</p>
 <p><b>Den</b>: Wyrm's Den</p>
+<p><b>SF</b>: Sun Force</p>
 <hr>
 <h6>Lineages</h6>
 <p><b>FL</b>: Fairy and Faceless Lineage</p>
@@ -180,7 +183,7 @@
 <p><b>UL</b>: Undead Lineage</p>
 <p><b>DL</b>: Demon, Druid, Dwarf, Drow, and Dragon Lineage</p>
 <p><b>TL</b>: Titan Lineage</p>
-<p>For Lineage levels a number will follow the abreviation (eg: FL5, EL15, UD30...).</p>
+<p>For Lineage levels a number will follow the abreviation (eg: FL5, EL15, UL30...).</p>
 <hr>
 <h6>Gift Shop</h6>
 <p><b>GotH</b>: Gift of the Heroes</p>
