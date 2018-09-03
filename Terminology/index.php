@@ -79,10 +79,12 @@
 <p><b>RUS</b>: Research Upgrade Slot</p>
 <p><b>m/s or mps</b>: Mana per Second</p>
 <p><b>BL</b>: Bloodline</p>
-<p><b>U (Build Name)</b>: Builds that target Unique Buildings</p>
-<p><b>NU (Build Name)</b>:Builds that do not target Unique Buildings</p>
+<p><b>U</b>: Unique Buildings</p>
+<p><b>NU</b>: Non Unique Buildings</p>
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
+<p><b>SF</b>: Sun Force</p>
+<p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
@@ -147,6 +149,9 @@
 <p><b>DP</b>: Diamond Pickaxe</p>
 <p><b>CS</b>: Combo Strike</p>
 <p><b>DB</b>: Dragon Breath</p>
+<p><b>SB</b>: Share Benefit (Mercenary Spell)</p>
+<p><b>RI</b>: Reap Interests (Mercenary Spell)</p>
+<p><b>AV</b>: Appraisal Vantage (Mercenary Spell)</p>
 <p><b>TF</b>: Temporal Flux</p>
 <p><b>MS</b>: Maelstrom</p>
 <p><b>AC</b>: All Creation</p>
@@ -173,7 +178,6 @@
 <p><b>Necros</b>: Necropolis</p>
 <p><b>Pyra</b>: Ancient Pyramids</p>
 <p><b>Den</b>: Wyrm's Den</p>
-<p><b>SF</b>: Sun Force</p>
 <hr>
 <h6>Lineages</h6>
 <p><b>FL</b>: Fairy and Faceless Lineage</p>
