@@ -383,7 +383,7 @@
 <p><b>Bloodline</b>: Fairy
 <p><b>Artifact Set</b>: Undead
  <p><button onclick="myFunction($(this))">Copy Build</button>
- <input type="text" value="S225,S400,S435,C400,D25,D330,D560,E10,E145,E495,A1,A175,A400,A410,A590,W25,W205,W405,W520" id="Build">
+ <input type="text" value="S225,S400,S435,C400,D25,D330,D560,E10,E145,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
 <p>S225,S400,S435,
 <p>C400,
 <p>D25,D330,D560,
