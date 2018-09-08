@@ -207,7 +207,7 @@
             <p>A10,A120,A410,
             <p>W25,W205,W405,W520
             <p><b>Notes</b>: At higher gems (1e53 (100 SxD) gems+), can swap C340 with C250 for lineage building.
-            <p><b>Notes</b>: Swap Dwarf artifact with Undead at 1e64 (10 UVg) gems+.
+            <p><b>Notes</b>: Swap Dwarf artifact with Undead at 1e64 (10 Vg) gems+.
      </div>
 </div>
 <div class="shelementwhole">
@@ -369,7 +369,7 @@
 <p>E290,E350,E1225,
 <p>A250,A300,A1200,
 <p>W275,W400,W1400
-<p><b>Notes</b>: Can easily afford L26-L28 with 1 reset, L29 will require multiple while L30 wont be able to be afforded. 
+<p><b>Notes</b>: Can easily afford L26-L28 with 1 reset, L29 will require multiple while L30 wont be able to be afforded.
 <p><b>Notes</b>: Use general lineage builder for L30.
 </div>
 </div>
