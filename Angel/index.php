@@ -37,5 +37,6 @@
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/God'sThroneChallenges.png" alt="God's Throne" align="middle"> <b>God's Throne</b></p>
 <p><b>Effect</b>: Mana regeneration is increased by 50% while God's Hand is active.</p>
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration (10 * log10(1 + x)).</p>
+<p><b>Effect</b>: Also increases offline spells cast amount multiplicatively based on your offline mana regeneration.</p>
+<p><b>Formula</b>: (10 * log10(1 + x)), where x is offline mana regeneration.</p>
 <?php include "../scripts/footer.html"; ?>

@@ -90,6 +90,8 @@
                               <p><b>Artifact Set</b>: Undead
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
                                     <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A545,A410,A590,W50,W205,W405,W520" id="Build"> Sunforce Asssitants
                               <p>S225,S435,S3200,
                               <p>C340,
                               <p>D25,D245,D560,
@@ -97,6 +99,7 @@
                               <p>A1,A175,A400,A410,A590,
                               <p>W50,W205,W405,W520
                               <p><b>Notes</b>: Several hours setup time, grower build.
+                              <p><b>Notes</b>: Replace A400 with A545 if able to benefit from Sunforce Asssitants bonus.
                        </div>
                   </div>
                       <div class="shelementwhole">
