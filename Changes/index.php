@@ -32,7 +32,7 @@
 <p><b>Hint</b>: Chaos magic burns brightly.</p>
 <p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
 <p><b>Requirements</b>: R120+, Proof of Chaos</p>
-<p><b>Chance</b>: (min(x, y, z) / 100 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
+<p><b>Chance</b>: (min(x, y, z) / 1000 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
 <p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LanternofGuidanceArtifact.png" align="middle"> Lantern of Guidance</b></p>
