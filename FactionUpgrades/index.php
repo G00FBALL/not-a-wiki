@@ -919,7 +919,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"> Solidity</b></p>
                 <p><b>Requirement</b>: R116+, Dwarven Union</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Effect</b>: Multiplicatively increase gem production based on High Bastion you own.</p>
+                <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of High Bastion you own.</p>
                 <p><b>Formula</b>: (1.55 * x ^ 0.55), where x is royal castles multiplicative.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"> Stonetalking</b></p>
