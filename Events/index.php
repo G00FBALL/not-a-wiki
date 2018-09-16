@@ -200,7 +200,7 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/ManaBubbleStandard.png" width="54%" height="54%" /></center>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleStandard.png" width="54%" height="54%" /></center>
     <center><b>Standard</b></center>
   </div>
 &nbsp  <div>
