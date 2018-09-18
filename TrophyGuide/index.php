@@ -280,7 +280,7 @@
             <td><center>Lightning Storm</p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormSecretTrophy.png"></td>
             <td>10 D (1e40)</p>A1+ Free</td>
             <td>Cast Lightning Strike 100 times in a single game.</td>
-            <td>Increase Lightning Strike by 500% per Iron Stronghold.</td>
+            <td>Increase Lightning Strike multiplier to 500% per Iron Stronghold.</td>
             <td>Titan spell</td>
         </tr>
         </tbody>
