@@ -62,7 +62,7 @@
             <td><center>Suggestion Master</p><img src="http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png"></td>
             <td>1000 coins</p>A1+ Free</td>
             <td>Keep the changelog open for 3 minutes before closing it.</td>
-            <td>Increase the production of all buildings base on mysterious events.</td>
+            <td>Increase the production of all buildings based on mysterious events.</td>
             <td>Click the bottom right gear icon in game (options) then click the numbers in the bottom right cornor.</td>
         </tr>
         <tr>
@@ -353,7 +353,7 @@
             <td><center>Mercenary Spirit</p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png"></td>
             <td>1 Ocd (1e57)</p>A1+ Free</td>
             <td>Reincarnate while affiliated with Mercenaries.</td>
-            <td>Increase the production of all buildings by 15% for eacr reincarnation you made.</td>
+            <td>Increase the production of all buildings by 15% for each reincarnation you made.</td>
         </tr>
         </tbody>
     </table>
