@@ -81,10 +81,10 @@
                        </div>
                   </div>
                       <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid<font color="DarkGoldenRod"> Neutral</font></a></b> Obsolete?</p>
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
-                              <p><b>Range</b>: 1e54 (1 SpD) - 1e60 (1 NoD) Gems
+                              <p><b>Range</b>: 1e54 (1 SpD) - 1e63 (1 Vg) Gems
                               <p><b>Requirements</b>: Fairy Lineage Level 30
                               <p><b>Faction</b>: Druid/Dragon
                               <p><b>Bloodline</b>: Fairy
