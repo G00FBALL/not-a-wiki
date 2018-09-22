@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Aug 19th 2018</b>
+    <p><b>Updated Sep 22nd, 2018</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.3</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -81,6 +81,29 @@
                        </div>
                   </div>
                       <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid<font color="DarkGoldenRod"> Neutral</font></a></b> Obsolete?</p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Rellikrellik
+                              <p><b>Range</b>: 1e54 (1 SpD) - 1e60 (1 NoD) Gems
+                              <p><b>Requirements</b>: Fairy Lineage Level 30
+                              <p><b>Faction</b>: Druid/Dragon
+                              <p><b>Bloodline</b>: Fairy
+                              <p><b>Artifact Set</b>: Dragon
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S1450,S3200,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S400,S1450,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build"> S400 = 750k+
+                              <p>S1450,S3200,
+                              <p>C300,C340,C1300,
+                              <p>D245,D275,D1125,
+                              <p>E260,E1225,E1425,
+                              <p>A250,A251,A375,A1200,A1500,
+                              <p>W350,W1375,W1400
+                              <p><b>Notes</b>: Excavate for Fairy AH to set up this build.
+                              <p><b>Notes</b>: Swap S3200 for S400 if it is 750K+.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
                           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead<font color="DarkRed"> Evil</font></a></b></p>
                           <div class="autohide">
                               <p><b>Author</b>: Rellikrellik
@@ -121,35 +144,57 @@
                               <p>W10,W560,W1375
                               <p><b>Notes</b>: Buffing S400 is required before running this build.
                               <p><b>Notes</b>: Swap C400 with C340 for longer runs (6 hours+).
-                       </div>
-                  </div>
-                      <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R120+)<font color="DarkGoldenRod"> Neutral</font></a></b> Obsolete?</p>
-                          <div class="autohide">
-                              <p><b>Author</b>: Rellikrellik
-                              <p><b>Range</b>: 1e61 (10 Nod) Gems
-                              <p><b>Requirements</b>: Fairy Lineage Level 30, Fairy AH, All Creation Tier 2
-                              <p><b>Faction</b>: Druid/Dragon
-                              <p><b>Bloodline</b>: Fairy
-                              <p><b>Artifact Set</b>: Dragon
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S1450,S3200,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S400,S1450,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build"> S400 = 750k+
-                              <p>S1450,S3200,
-                              <p>C300,C340,C1300,
-                              <p>D245,D275,D1125,
-                              <p>E260,E1225,E1425,
-                              <p>A250,A251,A375,A1200,A1500,
-                              <p>W350,W1375,W1400
-                              <p><b>Notes</b>: Excavate for Fairy AH to set up this build.
-                              <p><b>Notes</b>: Swap S3200 for S400 if it is 750K+.
              </div>
     </div>
          </div>
         <br/>
-    <p><b>Special Builds</b></p>
+    <p><b>Artifact Builds</b></p>
     <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (Lantern Of Guidance)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                              <p><b>Author</b>: Necrodoom
+                              <p><b>Range</b>: ?
+                              <p><b>Faction</b>: Titan/Dragon
+                              <p><b>Bloodline</b>: Druid
+                              <p><b>Artifact Set</b>: Druid
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S300,S1450,S3200,C251,C330,C375,C1300,C1500,D290,D350,D1125,E275,E290,E1225,A1200,A1325,W180,W260,W1400" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S300,S1450,S3200,C251,C330,C375,C1300,C1500,D290,D350,D1125,E275,E1225,E1325,A1200,A1325,W180,W260,W1400" id="Build"> Resets
+                              <p>S300,S1450,S3200,
+                              <p>C251,C330,C375,C1300,C1500,
+                              <p>D290,D350,D1125,
+                              <p>E275,E290,E1225,
+                              <p>A1200,A1325,
+                              <p>W180,W260,W1400
+                              <p><b>Notes</b>: Excavate for Royal Exchanges to power up the build.
+                              <p><b>Notes</b>: While multiple builds can get more mana regen over time, this build is intended for low gem rushing temporal flux, capable of 500M mana regen (for 1 in 2000 chance) within minutes.
+                              <p><b>Notes</b>: Swap E290 with E1325 if you have a lot of cheap free resets (25% more mana regen).
+                              <p><b>Notes</b>: Make sure Dragon's Breath has x2 blue breath before excavating.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Titans (Lantern Of Guidance)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Necrodoom
+                              <p><b>Range</b>: ?
+                              <p><b>Faction</b>: Titan/Dragon
+                              <p><b>Bloodline</b>: Angel
+                              <p><b>Artifact Set</b>: Angel
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S300,S1450,S3200,C251,C330,C375,C1300,C1500,D290,D350,D1125,E275,E290,E1225,A545,A1200,W180,W260,W1400" id="Build">
+                              <p>S300,S1450,S3200,
+                              <p>C251,C330,C375,C1300,C1500,
+                              <p>D290,D350,D1125,
+                              <p>E275,E290,E1225,
+                              <p>A545,A1200,
+                              <p>W180,W260,W1400
+                              <p><b>Notes</b>: Excavate for Angel AH to power up the build.
+                              <p><b>Notes</b>: Also a mostly rush build, This build has better starting regen and growth, capable of 2B mana regen (for 1 in 500 chance) within minutes.
+                              <p><b>Notes</b>: Make sure Dragon's Breath has x2 blue breath before excavating.
+                       </div>
+                  </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Beard Hair (Dwarf Artifact)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
@@ -167,8 +212,12 @@
                 <p>A30,A120,A495,
                 <p>W560,W1375
                 <p><b>Notes</b>: Capable of approximately 20M assistants at 1e42 (1 Qad) gems for a 1 in 500 chance for artifact  at low excavation count.
-         </div>
+             </div>
     </div>
+         </div>
+        <br/>
+    <p><b>Special Builds</b></p>
+    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairies (W275 buff)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
