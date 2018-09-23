@@ -245,7 +245,7 @@
                 <p>E145,E350,
                 <p>A300,A3400,
                 <p>W275,W1375
-                <p><b>Notes</b>: Significally buffed by sunforce faction coins.
+                <p><b>Notes</b>: Significantly buffed by sunforce faction coins.
                 <p><b>Notes</b>: Requires 1e46 gems (10 Qad) to buy hourglass if attempting to use this build for undead lineage L30.
                 <p><b>Notes</b>: Estimated time to L30 is unknown.
                          </div>
