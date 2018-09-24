@@ -7,7 +7,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
 <p><b>In-game description</b></p>
 <p>The sly Goblins excel at making the best possible deals and bargains.</p>
-<p>Affiliating yourself with the Goblins faction will offer you heavy discounts on every purchase and allows you to benefit from larger quantities of everything</p>
+<p>Affiliating yourself with the Goblin faction will offer you economic opportunities and allows you to benefit from larger quantities of everything.</p>
 <p>Part of the Evil Vanilla Factions, the Goblin's asset is the ability to build cheap, thus enabling to build more. Their Bloodline will be valuable when aiming for all the building trophy series.</p>
 <p><b>Alignment</b>: Evil</p>
 <p><b>Unlock Requirements</b>: None</p>
