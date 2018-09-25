@@ -370,6 +370,8 @@
           <input type="text" value="S50,S400,S435,C175,C250,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
           <p><button onclick="myFunction($(this))">Copy Build</button>
           <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D200 swap
+          <p><button onclick="myFunction($(this))">Copy Build</button>
+          <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> A400 swap
     <p>S50,S400,S435,
     <p>C175,C250,
     <p>D245,D560,
@@ -378,6 +380,7 @@
     <p>W25,W205,W405,W520
     <p><b>Notes</b>: Swap W205 with W1375 for Faceless Lineage leveling.
     <p><b>Notes</b>: Swap D245 with D200 at atleast 1e63 (1 Vg) gems+ (Angel, Dragon) / 1e64 (10 Vg) gems+ (Angel) / 1e66 (1 UVg) gems+ (Druid) / 1e69 (1 DVg)(?) gems+ (Faceless)
+    <p><b>Notes</b>: Swap A120 with A400 at 1e69 (1 DVg)(?) gems+ (Dragon).
          </div>
     </div>
     <div class="shelementwhole">
