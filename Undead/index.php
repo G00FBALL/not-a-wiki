@@ -10,7 +10,7 @@
 <p><b>Requirements</b>: 2 Reincarnations, True Night spell upgrade</p>
 <p><b>Challenge</b>: Get 6 assistants via Undead Heritage.</p>
 <p><b>Note</b>: This takes 11 hours, 6 minutes, 40 seconds.</p>
-<p><b>Effect</b>: Undead Heritage works 5000% faster.</p>
+<p><b>Effect</b>: Undead Heritage works 5000% faster. (Effective 7.07x boost)</p>
 <p><b>Upgrade</b>: Good for Undead</p>
 <p><b>Tips</b></p>
 <p>Awarded if your playtime is at least 11h, 6m, 40s and you have True Night and the Undead Trade Treaty. You do not need to own the Heritage or have it unlocked, and no upgrades reduce the time required.</p>
