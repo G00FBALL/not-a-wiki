@@ -188,7 +188,7 @@
 <p><b>Effect</b>: Unlock Union Upgrades.</p>
 <br/>
 <p><b>Other Effects</b></p>
-<p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order.</p>
+<p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order this R.</p>
 <p><b>Formula</b>: (1.65 * x ^ 0.65), where x is time spent this Order.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
