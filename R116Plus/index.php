@@ -122,7 +122,7 @@
                               <p>A1,A175,A400,A410,A590,
                               <p>W50,W205,W405,W520
                               <p><b>Notes</b>: Several hours setup time, grower build.
-                              <p><b>Notes</b>: Replace A400 with A545 if able to benefit from Sunforce Asssitants bonus.
+                              <p><b>Notes</b>: Replace A400 with A545 if able to benefit from Sunforce Faction Coins bonus.
                        </div>
                   </div>
                       <div class="shelementwhole">
