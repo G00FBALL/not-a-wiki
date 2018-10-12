@@ -227,13 +227,13 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>Artifact Set</b>: Dwarf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build">
+                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E410,E460,A30,A120,A495,W560,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S400,S590,C10,C400,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build"> S400 Buffed
+                      <input type="text" value="S1,S180,S400,S590,C10,C400,C405,C520,D225,D245,D435,E50,E410,E460,A30,A120,A495,W560,W1375" id="Build"> S400 Buffed
                 <p>S1,S180,S590,S3200,
                 <p>C10,C400,C405,C520,
                 <p>D225,D245,D435,
-                <p>E50,E135,E410,
+                <p>E50,E410,E460,
                 <p>A30,A120,A495,
                 <p>W560,W1375
                 <p><b>Notes</b>: Can afford DN12 at 1e66 (1 UVg)(?) gems+.
