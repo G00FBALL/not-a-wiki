@@ -326,7 +326,7 @@
                     <p><b>Range</b>: ?
                     <p><b>Alignment</b>: Evil, Proof of Balance
                     <p><b>Faction</b>: Goblin
-                    <p><b>Bloodline</b>: Undead
+                    <p><b>Bloodline</b>: Druid
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S50,S3200,C175,C400,D200,E1,E135,E225,A10,A400,W25,W205" id="Build">
                     <p>S50,S3200,
