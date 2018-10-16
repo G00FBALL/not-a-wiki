@@ -77,7 +77,7 @@
                        <p><b>Notes</b>: Maintaining high FR10 is recommended.
                        <p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
                        <p><b>Notes</b>: Replace S3200 with S400 if buffed.
-                       <p><b>Notes</b>: Replace E400 with E135 and A120 with A250 if FR11 is high enough (2000+?) or Sunforce FC chance is active and fairy AH is available.
+                       <p><b>Notes</b>: Replace E400 with E135 and A120 with A250 if fairy AH is available and either FR11 is high enough (2000+?) or Sunforce FC chance is active.
                        </div>
                   </div>
                       <div class="shelementwhole">
