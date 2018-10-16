@@ -193,7 +193,7 @@
                     <p>E135,E260,E320,E1225,E1425,E3250,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W560,W1375,W1400,W3050
-                    <p><b>Notes</b>: Gets level 32 in under a hour without any buff to W275 or S400
+                    <p><b>Notes</b>: Gets level 32 in under an hour without any buff to W275 or S400
         </div>
     </div>
         <div class="shelementwhole">
