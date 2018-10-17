@@ -135,7 +135,7 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Burning Abysses you own. Higher tiers get better bonuses.</p>
-<p><b>Formula</b>: ((t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
+<p><b>Formula</b>: (0.1 * (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> <b>Demonic Fury</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
