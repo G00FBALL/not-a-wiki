@@ -10,8 +10,8 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
 <p><b>Event starts in</b></p>
 <p id="start">
-<!--<script>
-  var countDownDate1 = new Date("Aug 23, 2018 12:01:00 UTC").getTime();
+<script>
+  var countDownDate1 = new Date("Oct 29, 2018 13:01:00 UTC").getTime();
   var x = setInterval(function() {
       var now = new Date().getTime();
       var distance = countDownDate1 - now;
@@ -26,11 +26,11 @@
           document.getElementById("end").innerHTML = "Started";
       }
       }, 1000);
-  </script>--!></p>
+  </script></p>
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("Aug 30, 2018 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("Nov 5, 2018 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -52,7 +52,7 @@ var x = setInterval(function() {
         <tr>
             <th>Rubies</th>
             <th colspan="1">Event</th>
-            <th colspan="4">Total Cumulative Bonus 174%</th>
+            <th colspan="4">Total Cumulative Bonus 185%</th>
         </tr>
         </thead>
         <tbody>
@@ -114,9 +114,10 @@ var x = setInterval(function() {
             <td>8%</td>
         </tr>
         <tr>
-            <td>16  (8)</td>
+            <td>24  (8)</td>
             <td>Halloween</td>
             <td></td>
+            <td>11%</td>
             <td>11%</td>
             <td>11%</td>
         </tr>
