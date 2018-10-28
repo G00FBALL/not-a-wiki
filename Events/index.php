@@ -57,7 +57,7 @@ var x = setInterval(function() {
         </thead>
         <tbody>
         <tr>
-            <td>85 Total </td>
+            <td>93 Total </td>
             <td></td>
             <td>2015</td>
             <td>2016</td>
