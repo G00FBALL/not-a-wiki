@@ -346,17 +346,17 @@ div#images div{
                 <p><b>Resources</b></p>
                 <p><b><img src="/realm/Factions/picks/Blood.png" alt="Blood" align="middle"> Blood</b>
                     <b><img src="/realm/Factions/picks/Ectoplasm.png" alt="Ectoplasm" align="middle"> Ectoplasm</b>
-                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vanpire" align="middle"> Bones</b></p>
+                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vampire" align="middle"> Bones</b></p>
                 <p>You will need 3058 of each (Blood, Ectoplasm and Bones) to complete event.</p>
                 <p>They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours).</p>
                 <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.</p>
                 <hr>
-                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vanpire" align="middle"> Vampire</b></p>
+                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vampire" align="middle"> Vampire</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 1</p>
                 <p><b>Unlock / Price</b>: Free from daily pumpkin present</p>
                 <br/>
-                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VanpireSire" align="middle"> Vanpire Sire</b></p>
+                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VampireSire" align="middle"> Vampire Sire</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 10</p>
                 <p><b>Unlock / Price</b>: 198 Blood</p>
@@ -391,7 +391,7 @@ div#images div{
                 <p><b>Unlock / Price</b>: 198 Ectoplasm</p>
                 <p><b>Effect</b>: Gives the spell (Wail of the Banshee)</p>
                 <br/>
-                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wrath" align="middle"> Wrath</b></p>
+                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wraith" align="middle"> Wraith</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 25</p>
                 <p><b>Unlock / Price</b>: 660 Ectoplasm</p>
@@ -1235,16 +1235,16 @@ div#images div{
                 <p><b>Resources</b></p>
                 <p><b><img src="/realm/Factions/picks/Blood.png" alt="Blood" align="middle"> Blood</b>
                     <b><img src="/realm/Factions/picks/Ectoplasm.png" alt="Ectoplasm" align="middle"> Ectoplasm</b>
-                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vanpire" align="middle"> Bones</b></p>
+                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vampire" align="middle"> Bones</b></p>
                 <p>You will need 3058 of each (Blood, Ectoplasm and Bones) to complete event.</p>
                 <p>They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours).</p>
                 <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.</p>
                 <hr>
-                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vanpire" align="middle"> Vampire</b></p>
+                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vampire" align="middle"> Vampire</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 1</p>
                 <p><b>Unlock / Price</b>: Free from daily pumpkin present</p>
-                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VanpireSire" align="middle"> Vanpire Sire</b></p>
+                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VampireSire" align="middle"> Vampire Sire</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 10</p>
                 <p><b>Unlock / Price</b>: 198 Blood</p>
@@ -1274,7 +1274,7 @@ div#images div{
                 <p><b>Level</b>: 10</p>
                 <p><b>Unlock / Price</b>: 198 Ectoplasm</p>
                 <p><b>Effect</b>: Gives the spell (Wail of the Banshee)</p>
-                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wrath" align="middle"> Wrath</b></p>
+                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wraith" align="middle"> Wraith</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 25</p>
                 <p><b>Unlock / Price</b>: 660 Ectoplasm</p>
@@ -2023,15 +2023,15 @@ div#images div{
                 <p><b>Resources</b></p>
                 <p><b><img src="/realm/Factions/picks/Blood.png" alt="Blood" align="middle"> Blood</b>
                     <b><img src="/realm/Factions/picks/Ectoplasm.png" alt="Ectoplasm" align="middle"> Ectoplasm</b>
-                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vanpire" align="middle"> Bones</b></p>
+                    <b><img src="/realm/Factions/picks/Bones.png" alt="Vampire" align="middle"> Bones</b></p>
                 <p>They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours).</p>
                 <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.</p>
                 <hr>
-                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vanpire" align="middle"> Vampire</b></p>
+                <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vampire" align="middle"> Vampire</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 1</p>
                 <p><b>Unlock / Price</b>: Free from daily pumpkin present</p>
-                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VanpireSire" align="middle"> Vanpire Sire</b></p>
+                <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VampireSire" align="middle"> Vampire Sire</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 10</p>
                 <p><b>Unlock / Price</b>: 198 Blood</p>
@@ -2060,7 +2060,7 @@ div#images div{
                 <p><b>Level</b>: 10
                 <p><b>Unlock / Price</b>: 198 Ectoplasm</p>
                 <p><b>Effect</b>: Gives the spell (Wail of the Banshee)</p>
-                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wrath" align="middle"> Wrath</b></p>
+                <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wraith" align="middle"> Wraith</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 25</p>
                 <p><b>Unlock / Price</b>: 660 Ectoplasm</p>
