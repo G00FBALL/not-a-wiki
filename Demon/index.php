@@ -23,7 +23,7 @@
 <p><b>Effect</b>: Increase max mana by 6.66% of your number of Halls of Legends.</p>
 <p><b>Upgrade</b>: Good for Fairy</p>
 <p><b>Tips</b>:</p>
-<p>High gem and low Excavations (relative). Work up enough coins to excavate 96 REs, until the number says "(96)", and then buy 1 or 2 more to get exactly 666. Don't buy Demon exchanges. Drow's blackmail upgrade helps the challenge, and the exchanges don't have to be spread evenly.</p>
+<p>High gem and low Excavations (relative). Work up enough coins to excavate until you can buy 96 of each. then for 6 of them you need to buy 95 and for the 7th you need to buy 96. Don't buy Demon exchanges. Drow's blackmail upgrade helps the challenge, and the exchanges don't have to be spread evenly.</p>
 <hr>
 <p><b>Demon Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PassagetoTartarusChallenges.png" alt="Efficient Magic" align="middle"> <b>Passage to Tartarus</b></p>
