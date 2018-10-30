@@ -255,7 +255,8 @@
     </br>
     <p><b>All Spells Tiers</b></p>
     <p><b>Note</b>: Each tier also increase offline production based on mana statistics. (Not Tax Collection)</p>
-    <p><b>Formula</b>: (m + 100 * r)^(1 + 0.15 * (t-1)) where m is max mana, r is regen, t is tier.</p>
+    <p><b>Formula</b>: (m + 100 * r)^(1 + 0.15 * t) where m is max mana, r is regen, t is tier.</p>
+    <p><b>Note</b>: Spell tier upgrades are A0 upgrades (A1 for T7 and A2 spells) so apply A-nerf accordingly.
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TaxCollection.png" alt="All Factions" align="middle"> Tax Collection</b> (All Factions)</p>
     <p><b>Works For</b>: All - <b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds </p>
     <p><b>Effect</b>: Instantly gain 30 seconds worth of coin production from buildings and assistants.</p>
