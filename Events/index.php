@@ -367,7 +367,7 @@ div#images div{
                 <p><b>Level</b>: 25</p>
                 <p><b>Unlock / Price</b>: 660 Blood</p>
                 <p><b>Effect</b>: Gain all Bloodline effects of prestige factions outside your alignment at once.</p>
-                <p><b>Note</b>: You can select any Lineage based on those bloodlines.</p>
+                <p><b>Note</b>: You cannot select any Lineage based on those bloodlines.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/VampireKing.png" alt="VampireKing" align="middle"> Vampire King</b></p>
                 <p><b>Kind</b>: Monster</p>
