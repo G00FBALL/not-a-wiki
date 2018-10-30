@@ -144,7 +144,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dwarf upgrades and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
+<p><b>Requirements</b>: Drarf Master trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on the amount ofexcavations and excavation resets (This R).</p>
 <p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y)), where x is excavations and y is excavation resets this R (ruby and free resets).</p>
 <br/>

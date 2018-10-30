@@ -106,7 +106,7 @@
 <p><b>Ascension 2 - R100+</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Fairy upgrades and 8 hours activity time (This Game) of Fairy Chanting.<p>
+<p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
 <p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
 <br/>

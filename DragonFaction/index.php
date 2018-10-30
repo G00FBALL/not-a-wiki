@@ -164,7 +164,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dragon upgrades and 8 hours activity time (This Game) of Dragon's Breath.<p>
+<p><b>Requirements</b>: Dragon Master trophy and 8 hours activity time (This Game) of Dragon's Breath.<p>
 <p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>

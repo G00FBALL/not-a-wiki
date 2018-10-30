@@ -146,7 +146,7 @@
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy and Undead Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Faceless upgrades and 8 hours activity time (This Game) of Brainwave.<p>
+<p><b>Requirements</b>: Faceless Master trophy and 8 hours activity time (This Game) of Brainwave.<p>
 <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
 <br/>

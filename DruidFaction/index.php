@@ -209,7 +209,7 @@
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Elven and Demon Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Druid upgrades and 8 hours activity time (This Game) of Grand Balance.<p>
+<p><b>Requirements</b>: Druid Master trophy and 8 hours activity time (This Game) of Grand Balance.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
 <p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
 <br/>

@@ -111,7 +111,7 @@
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Goblin upgrades and 8 hours activity time (This Game) of Goblin's Greed.<p>
+<p><b>Requirements</b>: Goblin Master trophy and 8 hours activity time (This Game) of Goblin's Greed.<p>
 <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
 <p><b>Formula</b>: (0.25 * log(1 + x) ^ 0.95), where x is gems owned.</p>
 <br/>
