@@ -19,7 +19,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Fairy upgrades and 8 hours activity time (This Game) of Fairy Chanting.<p>
+<p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
 <p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
 <hr>
@@ -31,7 +31,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Elven Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Elven upgrades and 8 hours activity time (This Game) of Moon Blessing.<p>
+<p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * ln(1 + x) ^ 1.5)%, where x is amount of clicks this reincarnation.</p>
 <hr>
@@ -42,7 +42,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Angel upgrades and 8 hours activity time (This Game) of God's Hand.<p>
+<p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.<p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is spells cast this game.</p>
 <hr>
@@ -54,7 +54,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Goblin upgrades and 8 hours activity time (This Game) of Goblin's Greed.<p>
+<p><b>Requirements</b>: Goblin Master trophy and 8 hours activity time (This Game) of Goblin's Greed.<p>
 <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
 <p><b>Formula</b>: (0.25 * log(1 + x) ^ 0.95), where x is gems owned.</p>
 <hr>
@@ -66,7 +66,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Undead upgrades and 8 hours activity time (This Game) of Night Time.<p>
+<p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
 <p><b>Formula</b>: (0.018 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
 <hr>
@@ -77,7 +77,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDemonicHeritage.png" align="middle"> Advanced Demonic Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Demon Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Demon upgrades and 8 hours activity time (This Game) of Hellfire Blast.<p>
+<p><b>Requirements</b>: Demon Master trophy and 8 hours activity time (This Game) of Hellfire Blast.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on trophies unlocked.</p>
 <p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is amount of trophies unlocked.</p>
 <hr>
@@ -88,7 +88,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedTitanHeritage.png" align="middle"> Advanced Titan Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Titan upgrades and 8 hours activity time (This Game) of Lightning Strike.<p>
+<p><b>Requirements</b>: Titan Master trophy and 8 hours activity time (This Game) of Lightning Strike.<p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
 <p><b>Formula</b>: (0.05 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
 <hr>
@@ -99,7 +99,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Elven and Demon Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Druid upgrades and 8 hours activity time (This Game) of Grand Balance.<p>
+<p><b>Requirements</b>: Druid Master trophy and 8 hours activity time (This Game) of Grand Balance.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
 <p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
 <hr>
@@ -111,7 +111,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy and Undead Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Faceless upgrades and 8 hours activity time (This Game) of Brainwave.<p>
+<p><b>Requirements</b>: Faceless Master trophy and 8 hours activity time (This Game) of Brainwave.<p>
 <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
 <hr>
@@ -124,7 +124,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dwarf upgrades and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
+<p><b>Requirements</b>: Dwarf Master Trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on the amount of excavations and excavation resets (This R).</p>
 <p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y)), where x is excavations and y is excavation resets this R (ruby and free resets).</p>
 <hr>
@@ -137,7 +137,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Drow upgrades and 8 hours activity time (This Game) of Combo Strike.<p>
+<p><b>Requirements</b>: Drow Master trophy and 8 hours activity time (This Game) of Combo Strike.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
 <p><b>Formula</b>: (0.0008 * log(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
 <hr>
@@ -150,7 +150,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
-<p><b>Requirements</b>: A2, Lineage Level 30, Buy all Dragon upgrades and 8 hours activity time (This Game) of Dragon's Breath.<p>
+<p><b>Requirements</b>: Dragon Master trophy and 8 hours activity time (This Game) of Dragon's Breath.<p>
 <p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBadge.png" alt="Mercenary Badge" align="middle"><b> Mercenary Badge</b></p>
