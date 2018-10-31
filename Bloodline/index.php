@@ -49,7 +49,7 @@
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidBloodline.png" alt="Druid" align="middle"><b> Druid</b></p>
 <p><b>Effect</b>: Increase mana regeneration based on maximum mana.</p>
-<p><b>Formula</b>: 0.03 * x ^ 0.9, where m is your maximum mana.</p>
+<p><b>Formula</b>: 0.03 * x ^ 0.9, where x is your maximum mana.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png" alt="Faceless" align="middle"><b> Faceless</b></p>
 <p><b>Effect</b>: Increase maximum mana based on mana produced in this game.</p>
