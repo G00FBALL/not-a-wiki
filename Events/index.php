@@ -314,13 +314,13 @@ div#images div{
                 <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                <p><b>Requirements</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.(Must have the spell)</p>
+                <p><b>Requirements</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                <p><b>Requirements</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.(Must have the spell)</p>
+                <p><b>Requirements</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                <p><b>Requirements</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.(Must have the spell)</p>
+                <p><b>Requirements</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.</p>
                 <p><b><img src="/realm/Factions/picks/HalloweenMagic.png" alt="Halloween" align="middle"> Halloween Magic</b></p>
                 <br/>
                 <p><b>Requirements</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
