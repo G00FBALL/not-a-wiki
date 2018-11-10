@@ -241,7 +241,7 @@
                     <p><b>Faction</b>: Demon
                     <p><b>Bloodline</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
+                      <input type="text" value="S500,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build"> S400 Stronger
                     <p>S500,
