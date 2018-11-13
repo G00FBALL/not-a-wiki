@@ -62,7 +62,7 @@
 <p><b>Cost</b>: 50 Sx (5E22)</p>
 <p><b>Effect</b>: Increases production based on the time of your longest game session this R. (Under Metagame, Longest Session in the Stats)</p>
 <p><b>Formula</b>: floor(35 * x ^ 0.85), where x is your Playtime (Longest Session) stat in hours.</p>
-<p><b>Formula</b>: 35* x^1.1 with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.</p>
+<p><b>Formula</b>: floor(35 * x ^ 1.085) with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.</p>
 <p><b>Note</b>: Dragon Challenge 3 removes the Ascension 1 penalty</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
