@@ -356,22 +356,23 @@
          </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angel/Druid/Faceless/Dragon<font color="DarkRed"> Evil</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angel/Undead/Druid/Faceless/Dragon<font color="DarkRed"> Evil</font></a></b></p>
         <div class="autohide">
     <p><b>Author</b>: ?
     <p><b>Range</b>: 1e61 (10 NoD) Gems+ (Dragon)
     <p><b>Range</b>: 1e62 (100 NoD) Gems+ (Angel)
+    <p><b>Range</b>: 1e63 (1 Vg) Gems+ (Undead)
     <p><b>Range</b>: 1e64 (10 Vg) Gems+ (Druid)
     <p><b>Range</b>: 1e67 (10 UVg) Gems+ (Faceless)
     <p><b>Faction</b>: Goblin/Drow
-    <p><b>Bloodline</b>: Angel/Druid/Faceless/Dragon
+    <p><b>Bloodline</b>: Angel/Undead/Druid/Faceless/Dragon
     <p><b>Artifact Set</b>: Dwarf
           <p><button onclick="myFunction($(this))">Copy Build</button>
           <input type="text" value="S50,S400,S435,C175,C250,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
           <p><button onclick="myFunction($(this))">Copy Build</button>
           <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D200 swap
           <p><button onclick="myFunction($(this))">Copy Build</button>
-          <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> A400 swap
+          <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> A400 swap          
     <p>S50,S400,S435,
     <p>C175,C250,
     <p>D245,D560,
@@ -379,8 +380,9 @@
     <p>A10,A120,A410,
     <p>W25,W205,W405,W520
     <p><b>Notes</b>: Swap W205 with W1375 for Faceless Lineage leveling.
-    <p><b>Notes</b>: Swap D245 with D200 at atleast 1e63 (1 Vg) gems+ (Angel, Dragon) / 1e64 (10 Vg) gems+ (Angel) / 1e66 (1 UVg) gems+ (Druid) / 1e69 (1 DVg)(?) gems+ (Faceless)
+    <p><b>Notes</b>: Swap D245 with D200 at atleast 1e63 (1 Vg) gems+ (Angel, Dragon) / 1e64 (10 Vg) gems+ (Angel) / 1e65 (100 Vg) gems+(?) (Undead) / 1e66 (1 UVg) gems+ (Druid) / 1e69 (1 DVg)(?) gems+ (Faceless)
     <p><b>Notes</b>: Swap A120 with A400 at 1e69 (1 DVg)(?) gems+ (Dragon).
+    <p><b>Notes</b>: Swap C250 with C400 (Undead).        
          </div>
     </div>
     <div class="shelementwhole">
