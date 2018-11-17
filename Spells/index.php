@@ -435,7 +435,7 @@
                 <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.</p>
                 <p><b>Formulas</b></p>
                 <p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5%, where x is mana produced this game.</p>
-                <p><b>Clicks</b> (0.075 * (log10(1 + x)) ^ 2.75)%, where x is clicks this game.%, where x is clicks this game.</p>
+                <p><b>Clicks</b> (0.075 * (log10(1 + x)) ^ 2.75)%, where x is clicks this R.%, where x is clicks this game.</p>
                 <p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
                 <p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
                 <p><b>Factions</b></p>
