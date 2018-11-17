@@ -432,7 +432,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"></p>
                 <p><b>Requirement</b>: Ascension 2</p>
                 <p><b>Cost</b>: 3500 Mana</p>
-                <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.</p>
+                <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made in this Reincarnation, Faction Coins found or amount of assistants.</p>
                 <p><b>Formulas</b></p>
                 <p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5%, where x is mana produced this game.</p>
                 <p><b>Clicks</b> (0.075 * (log10(1 + x)) ^ 2.75)%, where x is clicks this R.</p>
