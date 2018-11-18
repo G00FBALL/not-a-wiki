@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated Aug 19th 2018</b></p>
-        <p>All builds come from the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
+        <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
     <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <div class="shlisting">
@@ -22,7 +22,7 @@
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Druid
-                      <p><b>Artifact Set</b>: Druid (if avaliable)
+                    <p><b>Artifact Set</b>: Druid (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C340,D150,D275,E260,E1425,A250,A251,A375,W350,W1375" id="Build">
                     <p>S3200,
@@ -37,7 +37,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: 123123winz
-                    <p><b>Range</b>: 1e27 (1 Oc) gems - 1e38 (100 Ud) gems
+                    <p><b>Range</b>: 1e27 (1 Oc) gems - 1e35 (100 Dc) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
@@ -53,7 +53,7 @@
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
-                    <p><b>Notes</b>: Takes several minutes to set up.
+                    <p><b>Notes</b>: Takes several minutes (~10 minutes) to set up.
                     <p><b>Notes</b>: Swap D150 with D245 for longer (45 minutes+) runs
          </div>
     </div>
@@ -61,22 +61,19 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: 1e36 (1 Ud) gems - 1e44 (100 Td) gems
+                    <p><b>Range</b>: 1e35 (100 Dc) gems - 1e41 (100 DD) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Requirements</b>: Goblin Set Artifact
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Dragon
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W400" id="Build"> Longer Run
                     <p>S3200,
                     <p>C300,C400,
                     <p>D245,D275,
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
-                    <p><b>Notes</b>: Replace W1375 with W400 for longer (?) runs.
                     <p><b>Notes</b>: Estimated time 10-11 hours for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
                     </div>
                </div>
