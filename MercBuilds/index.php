@@ -26,16 +26,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R3+ <font color="DarkRed">Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R7+ <font color="DarkRed">Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Alignment</b>: Evil
-                <p><b>Bloodline</b>: Elven/Titan
-                <p><b>Requirement</b>: Helden Sterben Nicht, Mana Matrix, Rule dis, Unlimited Mana. Power Orb artifact helpful.
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN7,DN8,DW5,SP:Fairy Chanting,SP:Grand Balance" id="Build">
-                <p><b>Template</b>: Titan Bloodline
-                <p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN7,DN8,DW5,
-                <p>SP:Fairy Chanting,SP:Grand Balance
+                <p><b>Bloodline</b>: Elven
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL7,GB1,UD5,UD7,DM3,TT6,DD1,DD6,DN3,DN7,DN8,DW5,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                 <p><b>Template</b>: Elven Bloodline
@@ -107,20 +101,6 @@
                 <p>You can get more TCs by casting spells manually: First cast all the non-FC-TC spells, wait 10 seconds for some mana to build-up, then cast FC+TCs. This can make a noticeable difference. Abdicate.</b>
                 <p>In later games, repeat the above process until gem growth slows substantially, feeding your gold back into buying buildings to improve the return of the combos.
                 <p>If you have Spiritual Surge, do not use it until you can afford (6000 mana) to cast all 6 spells in one combo, as it will take away the ability to fully combo all other spells and reduce income.
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Very Bad Build R12-R13<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-              <p><b>Author</b>: scwizard
-              <p><b>Requirements</b>: Mana Waste, Helden Sterben Nicht, KYE Part 1
-                <p><b>Alignment</b>: Evil
-                <p><b>Bloodline</b>: Titan
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,SP:Hellfire Blast,SP:Night Time" id="Build">
-                <p>GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,
-                <p>SP:Hellfire Blast,SP:Night Time
-                <p><b>Note</b>: 1 to 2 full combos then abdicate
             </div>
         </div>
         <div class="shelementwhole">
