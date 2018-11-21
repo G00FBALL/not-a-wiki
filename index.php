@@ -7,7 +7,7 @@
 <p>Welcome to <b>G00F's Not a Wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> style without all the wiki adverts.
 <p><b><a target="_blank" href="http://discord.gg/realmgrinder">Realm Grinder Chat on Discord</a></b></p>
 <p>If you have any suggestions or find any errors send a message to <a target="_blank" href="http://www.kongregate.com/accounts/Igorogi/"><b>Igorogi</b></a> or <a target="_blank" href="http://www.kongregate.com/accounts/G00FBALL/"><b>G00FBALL</b></a> and please include links to where you got the information.</p>
-
+<b>TEST</b>
 <p>A lot of the information on this site comes from the players in room 2 and the members of the <b><a target="_blank" href="http://discord.gg/realmgrinder">Realm Grinder Chat on Discord</a></b></p>
 <p>Some information came from <a target="_blank" href="http://realm-grinder.wikia.com/"><b>Realm Grinder Wikia</b></a> with some additions and corrections.</p>
 <p>This site contains information you need to know to help you play <a target="_blank" href="http://www.kongregate.com/games/DivineGames/realm-grinder"><b>Realm Grinder</b></a>, an incremental/idle game by <a target="_blank"target="_blank" href="http://www.divinegames.it/"><b>DivineGames</b></a> and hosted on <a target="_blank"target="_blank" href="http://www.kongregate.com/"><b>Kongregate</b>.</a>
