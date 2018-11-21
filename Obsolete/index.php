@@ -13,6 +13,20 @@
     <div class="shlisting">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Merc Pre Research</a></b></p>
         <div class="category autohide">
+       <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Very Bad Build R12-R13<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+              <p><b>Author</b>: scwizard
+              <p><b>Requirements</b>: Mana Waste, Helden Sterben Nicht, KYE Part 1
+                <p><b>Alignment</b>: Evil
+                <p><b>Bloodline</b>: Titan
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,SP:Hellfire Blast,SP:Night Time" id="Build">
+                <p>GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,
+                <p>SP:Hellfire Blast,SP:Night Time
+                <p><b>Note</b>: 1 to 2 full combos then abdicate
+            </div>
+        </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">100B FC Build R10+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
