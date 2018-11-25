@@ -135,7 +135,9 @@
                               <p><b>Bloodline</b>: Angel
                               <p><b>Artifact Set</b>: Angel
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build">
+                                    <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build"> 6 hours+
                               <p>S175,S400,
                               <p>C1,C225,C400,C405,C520,C590,
                               <p>D50,D245,D435,
@@ -372,7 +374,7 @@
           <p><button onclick="myFunction($(this))">Copy Build</button>
           <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D200 swap
           <p><button onclick="myFunction($(this))">Copy Build</button>
-          <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> A400 swap          
+          <input type="text" value="S50,S400,S435,C175,C250,D200,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> A400 swap
     <p>S50,S400,S435,
     <p>C175,C250,
     <p>D245,D560,
@@ -382,7 +384,7 @@
     <p><b>Notes</b>: Swap W205 with W1375 for Faceless Lineage leveling.
     <p><b>Notes</b>: Swap D245 with D200 at atleast 1e63 (1 Vg) gems+ (Angel, Dragon) / 1e64 (10 Vg) gems+ (Angel) / 1e65 (100 Vg) gems+(?) (Undead) / 1e66 (1 UVg) gems+ (Druid) / 1e69 (1 DVg)(?) gems+ (Faceless)
     <p><b>Notes</b>: Swap A120 with A400 at 1e69 (1 DVg)(?) gems+ (Dragon).
-    <p><b>Notes</b>: Swap C250 with C400 (Undead).        
+    <p><b>Notes</b>: Swap C250 with C400 (Undead).
          </div>
     </div>
     <div class="shelementwhole">
