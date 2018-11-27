@@ -50,4 +50,10 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantUniverse.png" alt="Assistant Universe" align="middle"> Assistant Universe</b></p>
 <p><b>Requirement</b>: Have 5,000,000 (5E6) Assistants</p>
+<hr>
+<p><b><img src=http://musicfamily.org/realm/Factions/picks/AssistantDimension.png align=middle> Assistant Dimension</b></p>
+<p>Requirement</b>: Have 5 B (5e9) Assistants in a single game.</p>
+<hr>
+<p><b><img src=http://musicfamily.org/realm/Factions/picks/AssistantMultiverse.png align=middle> Assistant Multiverse</b></p>
+<p>Requirement</b>: Have 5 T (5e12) Assistants in a single game.</p>
 <?php include "../scripts/footer.html"; ?>

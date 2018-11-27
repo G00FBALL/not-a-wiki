@@ -188,7 +188,8 @@
     <p><b>Artifacts Required</b>: Glyph Table, Stone Of Balance, Branch of the Life Tree</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase production of all buildings based on their quantity.</p>
-    <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is building count. (NOT effected by build count multipliers).</p>
+    <p><b>Formula</b>: (0.8 * x ^ 0.7), where x is building count.</p>
+    <p><b>Effect</b>: Alsoconsiders building count upgrades.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GlyphTable.png" alt="Artifacts" align="middle"><b> Glyph Table</b></p>
     <p><b>Clue</b>: Balance your buildings.</p>
@@ -262,8 +263,8 @@
     <p><b>Requirement</b>: R116+</p>
     <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
     <p><b>Cost</b>: Free</p>
-    <p><b>Effect</b>: Increase offline production based on evil spells cast (this R).</p>
-    <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is total evil spells cast (this R).</p>
+    <p><b>Effect</b>: Increase Mana Regeneration based on Evil spells cast (this R). (additive)</p>
+    <p><b>Formula</b>: (50 * x ^ 0.5), where x is total evil spells cast (this R).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CeremonialDagger.png" alt="Artifacts" align="middle"><b> Ceremonial Dagger</b></p>
     <p><b>Clue</b>: Avoid hurting your fingers.</p>

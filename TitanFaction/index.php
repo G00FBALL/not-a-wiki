@@ -138,7 +138,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
 <p><b>Requirements</b>: Titan Master trophy 8 hours activity time (This Game) of Lightning Strike.<p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
-<p><b>Formula</b>: (0.05 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
+<p><b>Formula</b>: (0.2 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
@@ -161,14 +161,18 @@
 <p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
 <p><b>Requirement</b>: Mountain Palace Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
-<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance by 5% per hour spent in this game.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in this game.</p>
+<p><b>Formula</b>: 50 * (x / 3600) ^ 0.85), where x is time spent in this game.(per hours).</p>
+<p><b>Effect</b>: Also increase Maximum Mana based on time spent in this game.</p>
+
+<p><b>Formula</b>: (20 * x ^ 0.75), where x is time spent in this game.(in seconds)</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
-<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is amount of Mountain Palaces owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Mountain Palaces owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
@@ -180,5 +184,5 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
-<p><b>Formula</b>: (20 * x ^ 0.7), where x is seconds this R.</p>
+<p><b>Formula</b>: (25 * x ^ 0.7), where x is seconds this R.</p>
 <?php include "../scripts/footer.html"; ?>

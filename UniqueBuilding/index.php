@@ -194,7 +194,7 @@
 <p>Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on your max mana.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
+<p><b>Formula</b>: (0.63 * x ^ 0.63), where x is your max mana.</p>
 <p><b>Alignment</b>: Neutral-Dragon, and Proof of Order, Balance, or Chaos</p>
 <p><b>Requirement</b>: R116+, Dragon Pasture Quest (42 active spells)</p>
 <hr>

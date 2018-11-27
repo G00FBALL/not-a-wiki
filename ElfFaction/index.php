@@ -135,7 +135,7 @@
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
-<p><b>Formula</b>: (2 * ln(1 + x) ^ 2.5), where x is faction coins found in this Reincarnation.</p>
+<p><b>Formula</b>: (2.85 * ln(1 + x) ^ 2.85), where x is faction coins found in this Reincarnation.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
@@ -143,7 +143,7 @@
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
-<p><b>Production Formula</b>: (8 * x ^ 0.8), where x is Arboreal Cities count.</p>
+<p><b>Production Formula</b>: (32 * x ^ 0.8), where x is Arboreal Cities count.</p>
 <p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.7), where x is Arboreal Cities count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
@@ -157,6 +157,6 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase mana regeneration additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>: (100 * ln(x) ^ 1.5), where x is Faction Coins found in this game.(additively)</p>
+<p><b>Formula</b>: (100 * ln(1 + x) ^ 1.35), where x is Faction Coins found in this game.(additively)</p>
 <p><b>Formula</b>: (1.45 * ln(x)), where x is Faction Coins found in this game.(multiplicatively)</p>
 <?php include "../scripts/footer.html"; ?>

@@ -65,4 +65,7 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1TredecillionFactionCoins.png" alt="1 Tredecillion Faction Coins" align="middle"> 1 Tredecillion Faction Coins</b></p>
 <p><b>Requirement</b>: Find 1 Td (1E42) Faction Coins</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/1SeptendecillionFactionCoins.png" alt="1 Septendecillion Faction Coins" align="middle"> 1 Septendecillion Faction Coins</b></p>
+<p><b>Requirement</b>: Find 1 Spd (1e54) Faction Coins</p>
 <?php include "../scripts/footer.html"; ?>

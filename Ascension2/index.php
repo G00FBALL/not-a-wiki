@@ -6,7 +6,7 @@
 <h6>Ascension 2</h6>
 <p>At R99 the Reincarnation button will change to Ascension. Things will be reduced as it was with Ascension 1.</p>
 <p> Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase. </p>
-<p><i>When performing Ascension 2, all Lineages will be set back to level 25 if higher </i></p>
+<p><b><font color="red">When performing Ascension 2, all Lineages will be set back to level 25 if higher<font></b></p>
 <p>Starting at R100, 3 new Alignments and 1 new spell for each, each new Alignment will work with the existing Alignments. And finally, You will have access to 9 new Unique Buildings, these will allow you to have 2 Unique Buildings with each Faction.</p>
 <p>Ascension 2 will give you access to Tier 7 spells. (See spell page for time required).</p>
 <br/>
@@ -22,7 +22,7 @@
 <p><b>Cost</b>: 5000 Mana</p>
 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
-<p><b>Formula</b>: (3.2 * (x/60) ^ 0.82)%, where x is time in seconds this game.</p>
+<p><b>Formula</b>: (3.5 * (x / 60) ^ 0.825)%, where x is time in seconds this game.</p>
 <br/>
 <p><b>Good - Angels</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
@@ -47,7 +47,7 @@
 <p><b>Requirement</b>: Holy Sites Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
-<p><b>Formula</b>: (ln(x) ^ 1.8 + ln(y) ^ 2.1), where x is mana spent this game and y is mana regeneration.</p>
+<p><b>Formula</b>: (ln(x) ^ 2 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
@@ -60,12 +60,12 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
-<p><b>Formula</b>: (0.035 * x ^ 0.65), where x is seconds in current spells)</p>
+<p><b>Formula</b>: (0.04 * x ^ 0.675), where x is seconds in current spells.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase mana regeneration by 60%.</p>
+<p><b>Effect</b>: Increase mana regeneration by 80%.</p>
 <br/>
 <p><b>Evil - Undead</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
@@ -98,19 +98,19 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
-<p><b>Formula</b>: (1.2 * x ^ 0.65), where x is amount of Flesh Workshop owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.7), where x is amount of Flesh Workshop owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time this R.</p>
+<p><b>Formula</b>: (0.72 * x ^ 0.72), where x is offline time this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
-<p><b>Formula</b>: (10000 + 75 * (x / 1800) ^ 2), where x is seconds this game.</p>
+<p><b>Formula</b>: (10000 + 0.75 * x ^ 1.5), where x is seconds this game.</p>
 <br/>
 <p><b>Neutral - Titans</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
@@ -134,14 +134,17 @@
 <p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
 <p><b>Requirement</b>: Mountain Palace Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
-<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance by 5% per hour spent in this game.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in this game.</p>
+<p><b>Formula</b>: (50 * (x / 3600) ^ 0.85), where x is time spent in this game.(per hours).</p>
+<p><b>Effect</b>: Also increase Maximum Mana based on time spent in this game.
+<p><b>Formula</b>: (20 * x ^ 0.75), where x is time spent in this game.(in seconds)</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
-<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is amount of Mountain Palaces owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Mountain Palaces owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
@@ -153,7 +156,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
-<p><b>Formula</b>: (20 * x ^ 0.7), where x is seconds this R.</p>
+<p><b>Formula</b>: (25 * x ^ 0.7), where x is seconds this R.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
 <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
@@ -167,7 +170,7 @@
 <p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, clicks made, Faction Coin found or amount of assistants.</p>
 <p><b>Formulas</b></p>
 <p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5), where x is mana produced this game.</p>
-<p><b>Clicks</b> (0.075 * (log10(1 + x)) ^ 2.5), where x is clicks this game.</p>
+<p><b>Trophy</b> (2.5 * x ^ 0.9), where x is trophies unlocked.</p>
 <p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4), where x is faction coins found this game.</p>
 <p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5), where x is amount of assistants.</p>
 <br/>
@@ -512,6 +515,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: 1% of all Non-Evil spells cast in this game count as Evil.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Trophies count 100% more.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" alt="Abyssal Furnace" align="middle"> <b>Abyssal Furnace</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -587,7 +591,7 @@
 <p><b>Cost</b>: 6000 Mana</p>
 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
 <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
-<p><b>Formula</b>: floor(2.5 * x ^ 0.44). where x is mana per second.</p>
+<p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
 <br/>
 <p><b>Good - Elven</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
@@ -612,7 +616,7 @@
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
-<p><b>Formula</b>: (2 * ln(1 + x) ^ 2.5), where x is faction coins found in this Reincarnation.</p>
+<p><b>Formula</b>: (2.85 * ln(1 + x) ^ 2.85), where x is faction coins found in this Reincarnation.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
@@ -620,7 +624,7 @@
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
-<p><b>Production Formula</b>: (8 * x ^ 0.8), where x is Arboreal Cities count.</p>
+<p><b>Production Formula</b>: (32 * x ^ 0.8), where x is Arboreal Cities count.</p>
 <p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.7), where x is Arboreal Cities count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
@@ -634,7 +638,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
 <p><b>Effect</b>: Increase mana regeneration additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>: (100 * ln(x) ^ 1.5), where x is Faction Coins found in this game.(additively)</p>
+<p><b>Formula</b>: (100 * ln(1 + x) ^ 1.35), where x is Faction Coins found in this game.(additively).</p>
 <p><b>Formula</b>: (1.45 * ln(x)), where x is Faction Coins found in this game.(multiplicatively)</p>
 <br/>
 <p><b>Evil - Goblins</b></p>

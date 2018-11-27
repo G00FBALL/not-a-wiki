@@ -334,8 +334,10 @@
                 <p><b>R60</b>: Lineages</p>
                 <p><b>R75</b>: Mercenary Research</p>
                 <p><b>R100</b>: Second Ascension, New Alignments</p>
-                <p><b>R111</b>: Base Union Effects</p>
+                <p><b>R111</b>: Base Union</p>
                 <p><b>R116</b>: Prestige Factions</p>
+                <p><b>R125</b>: Archon, Djinn, and Makers Factions</p>
+                <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -367,7 +369,7 @@
                 <p>Research quests</p>
                 <p>Researches completed</p>
                 <p>Completed Faction quests</p>
-                <p>Gain research points if above R16. # gained is equal to the new R#.</p>
+                <p>Gained research points if above R16. # gained is equal to the new R#, At R100 research points are capped at 5000.</p>
                 <p>Reincarnation Power (Upgrade)</p>
             </div>
         </div>
@@ -444,6 +446,10 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/100Reincarnations.png" alt="100 Reincarnations" align="middle"> 100 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 100 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/125Reincarnations.png" alt="100 Reincarnations" align="middle"> 125 Reincarnations</b></p>
+                <p><b>Requirement</b>: Reincarnate 125 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R125) 31.05 Dvg (3.105e70) Gems</p>
             </div>
         </div>
     </div>

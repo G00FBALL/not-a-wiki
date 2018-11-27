@@ -181,7 +181,7 @@
 <p><b>Unique Building</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
+<p><b>Formula</b>: (0.63 * x ^ 0.63), where x is your max mana.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
 <p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>

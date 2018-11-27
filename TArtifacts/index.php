@@ -22,4 +22,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/50Artifacts.png" alt="50 Artifacts" align="middle"> 50 Artifacts</b></p>
 <p><b>Requirement</b>: Find 50 Artifacts</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/75Artifacts.png" alt="75 Artifacts" align="middle"> 75 Artifacts</b></p>
+<p><b>Requirement</b>: Find 75 Artifacts</p>
 <?php include "../scripts/footer.html"; ?>

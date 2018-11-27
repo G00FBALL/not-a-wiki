@@ -123,18 +123,18 @@ var x = setInterval(function() {
         </tr>
         </tbody>
         <tr>
-            <td>12  (12)</td>
-            <td>Ruby Shine</td>
-            <td></td>
-            <td></td>
-            <td>&#10004;</td>
-        </tr>
-        </tbody>
-        <tr>
             <td>0</td>
             <td>Thanksgiving</td>
             <td>&#10004;</td>
             <td>&#10004;</td>
+            <td>&#10004;</td>
+        </tr>
+        </tbody>
+        <tr>
+            <td>12  (12)</td>
+            <td>Ruby Shine</td>
+            <td></td>
+            <td></td>
             <td>&#10004;</td>
         </tr>
         </tbody>

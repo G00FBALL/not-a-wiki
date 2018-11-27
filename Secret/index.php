@@ -245,7 +245,7 @@
 <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
 <p><b>Cost</b>: 1 Tg (1e93), A1, Free</p>
 <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
-<p><b>Note</b>: It can take up to 1 day at R20, easy at R34.</p>
+<p><b>Note</b>: It can take up to 1 day at R20, esay at R34.</p>
 <p><b>Tactic</b>: Elf/Elfline to about e34 gems, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle><b> That Excavated Quickly</b></p>
@@ -380,7 +380,7 @@
 <p><b>Note</b>: Upgrade scales from Holy Light/Blood Frenzy tiers.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle><b> Uniformity</b></p>
-<p><b>Requirements</b>: A2+, With no less than 3 days of playtime this R, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.</p>
+<p><b>Requirements</b>: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.</p>
 <p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
 <p><b>Formula</b>: 0.7 * min(x, y, z, s, t, u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
@@ -471,4 +471,11 @@ div#images div{
 <p><b>Requirements</b>: Unlock all the Advanced Heritages</p>
 <p><b>Cost</b>: 120 Notg (1.2e122)</p>
 <p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"> MAD Masks</b></p>
+<p><b>Requirement</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
+<p><b>Effect</b>: Gives upgrade with same name.</p>
+<p><b>Upgrade Cost</b>: 1 SpQag (1.e144)</p>
+<p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.5), where x is highest amount of excavations made in a single Reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>

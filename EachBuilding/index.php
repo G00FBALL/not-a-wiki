@@ -74,6 +74,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000FarmTrophy.png" alt="Farms" align="middle"> 12000 Farms</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Farms</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000FarmTrophy.png" alt="Farms" align="middle"> 20000 Farms</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Farms</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -141,6 +144,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000InnTrophy.png" alt="Inn" align="middle"> 12000 Inns</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Inns</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000InnTrophy.png" alt="Inn" align="middle"> 20000 Inns</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Inns</p>
                 <hr>
             </div>
         </div>
@@ -210,6 +216,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000BlacksmithTrophy.png" alt="Blacksmith" align="middle"> 12000 Blacksmiths</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Blacksmiths</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000BlacksmithTrophy.png" alt="Blacksmith" align="middle"> 20000 Blacksmiths</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Blacksmiths</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -277,6 +286,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000WarriorBarracksTrophy.png" alt="Warrior Barracks" align="middle"> 12000 Warrior Barracks</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Warrior Barracks</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000WarriorBarracksTrophy.png" alt="Warrior Barracks" align="middle"> 20000 Warrior Barracks</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Warrior Barracks</p>
                 <hr>
                 </div>
         </div>
@@ -346,6 +358,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000SlavePenTrophy.png" alt="Slave Pen" align="middle"> 12000 Slave Pens</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Slave Pens</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000SlavePenTrophy.png" alt="Slave Pen" align="middle"> 20000 Slave Pens</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Slave Pens</p>
+                <hr>
           </div>
         </div>
         <div class="shelementwhole">
@@ -411,8 +426,11 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/7500KnightsJoustTrophy.png" alt="Knights Joust" align="middle"> 7500 Knights Jousts</b></p>
                 <p><b>Requirement</b>: Purchase 7500 Knights Jousts</p>
                 <hr>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000KnightsJoustTrophy.png" alt="Knights Joust" align="middle"> 12000 Knights Jousts</b></p>
-                <p><b>Requirement</b>: Purchase 12000 Knights Jousts</p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000SlavePenTrophy.png" alt="Slave Pen" align="middle"> 12000 Slave Pens</b></p>
+                <p><b>Requirement</b>: Purchase 12000 Slave Pens</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000SlavePenTrophy.png" alt="Slave Pen" align="middle"> 20000 Slave Pens</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Slave Pens</p>
                 <hr>
             </div>
         </div>
@@ -482,6 +500,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000OrcishArenaTrophy.png" alt="Orcish Arena" align="middle"> 12000 Orcish Arenas</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Orcish Arenas</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000OrcishArenaTrophy.png" alt="Orcish Arena" align="middle"> 20000 Orcish Arenas</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Orcish Arenas</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -550,6 +571,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000WizardTowerTrophy.png" alt="Wizard Tower" align="middle"> 12000 Wizard Towers</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Wizard Towers</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000WizardTowerTrophy.png" alt="Wizard Tower" align="middle"> 20000 Wizard Towers</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Wizard Towers</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -617,6 +641,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000WitchConclaveTrophy.png" alt="Witch Conclaves" align="middle"> 12000 Witch Conclaves</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Witch Conclaves</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000WitchConclaveTrophy.png" alt="Witch Conclaves" align="middle"> 20000 Witch Conclaves</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Witch Conclaves</p>
                 <hr>
             </div>
         </div>
@@ -687,6 +714,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000CathedralTrophy.png" alt="Cathedrals" align="middle"> 12000 Cathedrals</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Cathedrals</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000CathedralTrophy.png" alt="Cathedrals" align="middle"> 20000 Cathedrals</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Cathedrals</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -754,6 +784,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000DarkTempleTrophy.png" alt="Dark Temple" align="middle"> 12000 Dark Temple</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Dark Temples</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000DarkTempleTrophy.png" alt="Dark Temple" align="middle"> 20000 Dark Temple</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Dark Temples</p>
                 <hr>
             </div>
         </div>
@@ -823,6 +856,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000CitadelTrophy.png" alt="Citadel" align="middle"> 12000 Citadels</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Citadels</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000CitadelTrophy.png" alt="Citadel" align="middle"> 20000 Citadels</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Citadels</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -890,6 +926,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000NecropolisTrophy.png" alt="Necropolis" align="middle"> 12000 Necropolises</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Necropolises</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000NecropolisTrophy.png" alt="Necropolis" align="middle"> 20000 Necropolises</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Necropolises</p>
                 <hr>
             </div>
         </div>
@@ -959,6 +998,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000RoyalCastleTrophy.png" alt="Royal Castle" align="middle"> 12000 Royal Castles</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Royal Castles</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000RoyalCastleTrophy.png" alt="Royal Castle" align="middle"> 20000 Royal Castles</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Royal Castles</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1026,6 +1068,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000EvilFortressTrophy.png" alt="Evil Fortresses" align="middle"> 12000 Evil Fortresses</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Evil Fortresses</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000EvilFortressTrophy.png" alt="Evil Fortresses" align="middle"> 20000 Evil Fortresses</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Evil Fortresses</p>
                 <hr>
             </div>
         </div>
@@ -1095,6 +1140,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000Heaven'sGateTrophy.png" alt="Heaven's Gates" align="middle"> 12000 Heaven's Gates</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Heaven's Gates</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000Heaven'sGateTrophy.png" alt="Heaven's Gates" align="middle"> 20000 Heaven's Gates</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Heaven's Gates</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1162,6 +1210,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000HellPortalTrophy.png" alt="Hell Portals" align="middle"> 12000 Hell Portals</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Hell Portals</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000HellPortalTrophy.png" alt="Hell Portals" align="middle"> 20000 Hell Portals</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Hell Portals</p>
                 <hr>
             </div>
         </div>
@@ -1231,6 +1282,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000DeepMineTrophy.png" alt="Deep Mines" align="middle"> 12000 Deep Mines</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Deep Mines</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000DeepMineTrophy.png" alt="Deep Mines" align="middle"> 20000 Deep Mines</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Deep Mines</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1298,6 +1352,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000StonePillarsTrophy.png" alt="Stone Pillars" align="middle"> 12000 Stone Pillars</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Stone Pillars</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000StonePillarsTrophy.png" alt="Stone Pillars" align="middle"> 20000 Stone Pillars</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Stone Pillars</p>
                 <hr>
             </div>
         </div>
@@ -1367,6 +1424,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000AlchemistLabTrophy.png" alt="Alchemist Labs" align="middle"> 12000 Alchemist Labs</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Alchemist Labs</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000AlchemistLabTrophy.png" alt="Alchemist Labs" align="middle"> 20000 Alchemist Labs</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Alchemist Labs</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1434,6 +1494,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000MonasteryTrophy.png" alt="Monasteries" align="middle"> 12000 Monasteries</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Monasteries</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000MonasteryTrophy.png" alt="Monasteries" align="middle"> 20000 Monasteries</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Monasteries</p>
                 <hr>
             </div>
         </div>
@@ -1503,6 +1566,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000LabyrinthTrophy.png" alt="Labyrinths" align="middle"> 12000 Labyrinths</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Labyrinths</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000LabyrinthTrophy.png" alt="Labyrinths" align="middle"> 20000 Labyrinths</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Labyrinths</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1570,6 +1636,9 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000IronStrongholdTrophy.png" alt="Iron Strongholds" align="middle"> 12000 Iron Strongholds</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Iron Strongholds</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000IronStrongholdTrophy.png" alt="Iron Strongholds" align="middle"> 20000 Iron Strongholds</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Iron Strongholds</p>
                 <hr>
             </div>
         </div>
@@ -1639,6 +1708,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000AncientPyramidTrophy.png" alt="Ancient Pyramids" align="middle"> 12000 Ancient Pyramids</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Ancient Pyramids</p>
                 <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000AncientPyramidTrophy.png" alt="Ancient Pyramids" align="middle"> 20000 Ancient Pyramids</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Ancient Pyramids</p>
+                <hr>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1707,10 +1779,13 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12000HallofLegendsTrophy.png" alt="Hall of Legends" align="middle"> 12000 Hall of Legends</b></p>
                 <p><b>Requirement</b>: Purchase 12000 Hall of Legends</p>
                 <hr>
-                </p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/20000HallofLegendsTrophy.png" alt="Hall of Legends" align="middle"> 20000 Hall of Legends</b></p>
+                <p><b>Requirement</b>: Purchase 20000 Hall of Legends</p>
+                <hr>
             </div>
         </div>
     </div>
+    <br/>
     <p><b>Building Groups</b></p>
     <p><font color="white">White = Neutral</font> : <font color="Blue">Blue = Good</font> : <font color="Red">Red = Evil</font>
     <p><font color="white">Farms</font> : <font color="white">Inns</font> : <font color="white">Blacksmith</font> :<font color="blue"> Warrior Barrack</font> :<font color="blue"> Knights Joust</font>
@@ -1720,7 +1795,7 @@
     <p><font color="white">Deep Mine</font> : <font color="white">Stone Pillars</font> : <font color="white">Alchemist Labs</font> :<font color="white"> Monasteries</font>
     <p><font color="white">Labyrinths</font> : <font color="white">Strongholds</font> :<font color="white"> Ancient Pyramids</font> :<font color="white"> Hall of Legends</font></p>
     <p><b>Note</b>: All Buildings get 1 Trophy for each number limit reached(Includes Unique Buildings)</p>
-    <p>1,50,100,150,200,300,400</p>
-    <p>500,600,700,800,900,1000,1500</p>
-    <p>2000,2500,3000,3500,5000,7500,12000</p>
+    <p>1,50,100,150,200,300,400,500</p>
+    <p>600,700,800,900,1000,1500,2000</p>
+    <p>2500,3000,3500,5000,7500,12000,20000</p>
 <?php include "../scripts/footer.html"; ?>

@@ -110,7 +110,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
 <p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.<p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
-<p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is spells cast this game.</p>
+<p><b>Formula</b>: (5 * x ^ 0.25)%, where x is spells cast this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
@@ -134,7 +134,7 @@
 <p><b>Requirement</b>: Holy Sites Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
-<p><b>Formula</b>: (ln(x) ^ 1.8 + ln(y) ^ 2.1), where x is mana spent this game and y is mana regeneration.</p>
+<p><b>Formula</b>: (ln(x) ^ 2 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration., where x is mana spent this game and y is mana regeneration.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
@@ -147,10 +147,10 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
-<p><b>Formula</b>: (0.035 * x ^ 0.65), where x is seconds in current spells)</p>
+<p><b>Formula</b>: (0.04 * x ^ 0.675), where x is seconds in current spells.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase mana regeneration by 60%.</p>
+<p><b>Effect</b>: Increase mana regeneration by 80%.</p>
 <?php include "../scripts/footer.html"; ?>

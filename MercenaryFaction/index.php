@@ -16,8 +16,8 @@
 <p><b>Cost</b>: At least: 1 Nod (1E60) Coins</p>
 <p><b>Cost</b>: 100,000 of each Faction Coin</p>
 <p>(Price rises with time and is reset at Abdications.)</p>
-<p><b>Coin Formula</b>: 1e60 * (ceil((1 + x)/60))^3.5, x is playtime in seconds</p>
-<p><b>FC Formula</b>: 100000 * (ceil((1 + x)/60))^0.5, x is playtime in seconds</p>
+<p><b>Coin Formula</b>: (1e60 * (ceil((1 + x)/60)) ^ 3.5), x is playtime in seconds</p>
+<p><b>FC Formula</b>: (100000 * (ceil((1 + x)/60)) ^ 0.5), x is playtime in seconds</p>
 <p><b>In Game description</b></p>
 <p>Pay the mercenaries tribute to unlock their powers. Be quick through, the price increases over time!</p>
 <br/>
@@ -67,17 +67,17 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Smiley face" align="middle"> Holy Crusaders (<u>For Good Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p>You gain additional Crusader Assistants based on the amount of spells cast in this game. Increase clicking reward by 1000% per active spell.</p>
-<p><b>Formula</b>: floor((sqrt(1 + 0.8*x)-1)/2), where x is your Spells Cast (This Game) stat.</p>
+<p><b>Formula</b>: floor((sqrt(1 + 0.8 * x) -1)/2), where x is your Spells Cast (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Smiley face" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
-<p><b>Formula</b>: round(1.15 * x^0.85)%, where x is the number of your most-built evil building you own.</p>
+<p><b>Formula</b>: round(1.15 * x ^ 0.85)%, where x is the number of your most-built evil building you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Smiley face" align="middle"> Trade Lords (<u>For Neutral Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: When assistants finds a faction coin, they also find a faction coin for every other faction. Also increases mana regeneration based on faction coins gained in this game.</p>
-<p><b>Formula</b>: floor(10*log(1+x^1.5))/10, where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: floor(10 * log(1 + x ^ 1.5))/10, where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade5.png" alt="Smiley face" align="middle"> Mercenary Upgrade 5</b></p>
 <p><b>Cost</b>: 3,000 FC</p>
@@ -141,7 +141,7 @@
 <p><b>Note</b>: You can use <a target="_blank"target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Harlequin</b>.</p>
 <p><b>Cost</b>: 5 Qivg (5E78)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your mercenary upgrades.</p>
-<p><b>Formula</b>: x^3%, where x is the number of different factions you've bought upgrades from.</p>
+<p><b>Formula</b>: (x ^ 3)%, where x is the number of different factions you've bought upgrades from.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png" alt="Smiley face" align="middle"> Lucifer</b></p>
 <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</p>
@@ -174,7 +174,7 @@
 <p><b>Cost</b>: 10 Dqag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 1.5 * (1 + x), where X is number of Non-Unique Buildings.</p>
+<p><b>Formula</b>: (1.5 * (1 + x)), where X is number of Non-Unique Buildings.</p>
 <p><b>Effect 3</b>: Unlocks Round Table</p>
 <br/>
 <p><b>Evil</b></p>
@@ -183,7 +183,7 @@
 <p><b>Cost</b>: 1 Tqag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 0.5*(log10(1+x))^4.5, where x is Offline Production Bonus.</p>
+<p><b>Formula</b>: (0.5 * (log10(1+x)) ^ 4.5), where x is Offline Production Bonus.</p>
 <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
 <br/>
 <p><b>Neutral</b></p>
@@ -192,7 +192,7 @@
 <p><b>Cost</b>: 1 Tqag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R).</p>
+<p><b>Formula</b>: (2 * x ^ 0.95), where x is assistants you had in a single game (This R).</p>
 <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Secrets of the Warriors" align="middle"> <b>Obsidian Shard</b></p>
@@ -226,14 +226,14 @@
 <p><b>Requirement</b>: Mercenary Camp</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.</p>
-<p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
+<p><b>Formula</b>: (120 ^ (0.25 * t)), where t is tier (FC chance multiplier)</p>
 <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Evil</b></p>
 <p><b>Requirement</b>: Tyrant Garrison</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-<p><b>Formula</b>: y ^ (1 + 0.2 * Log10(1 + x)), where y is TC original power and x is amount of TC casts</p>
+<p><b>Formula</b>: (y ^ (1 + 0.24 * Log(1 + x))), where y is TC original power and x is amount of TC casts.</p>
 <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
 <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
 <br/>
@@ -241,7 +241,7 @@
 <p><b>Requirement</b>: Freemason's Hall</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Generates additional Faction Coins per cast</p>
-<p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.</p>
+<p><b>Formula</b>: (2.65 * x ^ 2.65), where x is original Faction Coin chance.</p>
 <br/>
 <p><b>Extras</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part 2</b></p>
@@ -249,7 +249,7 @@
 <p><b>Requirement</b>: R76, Upgrade from all 12 Factions</p>
 <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
 <p><b>Note</b>: Only available to Mercenaries</p>
-<p><b>Formula</b>: 0.065 * x^0.65, where x is amount of time spent as non-mercenary factions (in seconds).</p>
+<p><b>Formula</b>: (0.065 * x^0.65), where x is amount of time spent as non-mercenary factions (in seconds).</p>
 <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)</p>
 <hr>
 <p><b>13th Upgrade</b> Good and Evil only</p>

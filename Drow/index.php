@@ -38,7 +38,8 @@
 <p>There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm.</p>
 <p><b>Requirements</b>: 27 Reincarnations, 2000 excavations, Drow Challenge 3 completed</p>
 <p><b>Challenge</b>: Cast Call to Arms with at least 35,000 buildings.</p>
-<p><b>Effect</b>: Increase your Offline Time (This Game) by 1 second for every 10 spells cast in this game.</p>
+<p><b>Effect</b>: Increase your Offline Time (This Game) based on spells cast in this game.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.8) where x is spells cast in this game.
 <p><b>Upgrade</b>: Good for Drow</p>
 <hr>
 <p><b>Drow Challenge 5</b>:</p>
@@ -53,6 +54,6 @@
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/VersaltileComboChallenges.png" alt="Spell Upgrade Versatile Combo" align="middle"> <b>Spell Upgrade Versatile Combo</b></p>
 <p>Increase Combo Strike counter based on the amount of spells cast in this game, not including Tax Collection.</p>
-<p>New Combo Strike Counter Formula: 10 * log10(1 + (y * 30)) + x, where x is your Combo Strike cast count and y is every other spell (except tax collection) cast count.</p>
+<p>New Combo Strike Counter Formula: x + y, where x is your Combo Strike cast count and y is every other spell (except tax collection and generic) cast count.</p>
 <p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration (10 * log10(1 + x)).</p>
 <?php include "../scripts/footer.html"; ?>

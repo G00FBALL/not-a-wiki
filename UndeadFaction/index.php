@@ -141,17 +141,17 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
-<p><b>Formula</b>: (1.2 * x ^ 0.65), where x is amount of Flesh Workshop owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.7), where x is amount of Flesh Workshop owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time this R.</p>
+<p><b>Formula</b>: (0.72 * x ^ 0.72), where x is offline time this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
-<p><b>Formula</b>: (10000 + 75 * (x / 1800) ^ 2), where x is seconds this game.</p>
+<p><b>Formula</b>: (10000 + 0.75 * x ^ 1.5), where x is seconds this game.</p>
 <?php include "../scripts/footer.html"; ?>

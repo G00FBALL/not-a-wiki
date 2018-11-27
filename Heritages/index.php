@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <p>Each Faction has its own unique and universal Heritage that you can unlock and buy in each subsequent abdication.</p>
-<p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/FactionChampion/"> Champion Trophy</a></b> of that faction, which requires buying every Faction Upgrade of that Faction.</p>
+<p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/FactionChampion/"> Champion Trophy</a></b> of that faction, which requires buying the first 12 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, and Alliance)</p>
 <p>Once unlocked, its price is in Faction Coins, the number depending on the faction's tier:</p>
 <p><b>Vanilla</b>: 5000</p>
 <p><b>Neutral</b>: 25000 each of two factions</p>
@@ -44,7 +44,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
 <p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.<p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
-<p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is spells cast this game.</p>
+<p><b>Formula</b>: (5 * x ^ 0.25)%, where x is spells cast this game.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinHeritage.png" alt="Goblin Heritage" align="middle"><b> Goblin Heritage</b></p>
 <p><b>Cost</b>: 5000 Goblin Coins</p>
@@ -90,7 +90,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
 <p><b>Requirements</b>: Titan Master trophy and 8 hours activity time (This Game) of Lightning Strike.<p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
-<p><b>Formula</b>: (0.05 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
+<p><b>Formula</b>: (0.2 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidHeritage.png" alt="Druid Heritage" align="middle"><b> Druid Heritage</b></p>
 <p><b>Cost</b>: 25,000 Elven Coins, 25,000 Demon Coins</p>
@@ -158,4 +158,24 @@
 <p><b>Unlock Requirements</b>: Mercenary Champion Trophy, Underworld Diplomacy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of coins you gained in a single game.</p>
 <p><b>Formula</b>: floor(5 * log(1 + x)), where x is your Coins Gained (Max) stat.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
+<p><b>Note</b>: Not available till R125</p>
+<p><b>Cost</b>: 100 Qid (1e50) Angel and Undead Coins</p>
+<p><b>Requirements</b>: Archon Champion Trophy<p>
+<p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 15%.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
+<p><b>Note</b>: Not available till R125</p>
+<p><b>Cost</b>: 100 Qid (1e50) Fairy and Demon Coins</p>
+<p><b>Requirements</b>: Djinn Champion Trophy<p>
+<p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
+<p><b>Note</b>: Not available till R125</p>
+<p><b>Cost</b>: 100 Qid (1e50) Elven and Goblin Coins</p>
+<p><b>Requirements</b>: Makers Champion Trophy<p>
+<p><b>Effect</b>: Increase maximum mana based on Tax Cctiolleons cast in this game.</p>
+<p><b>Formula</b>: (2.2 * log(1 + x) ^ 1.8), where x is Tax Cctiolleons cast this game.</p>
 <?php include "../scripts/footer.html"; ?>

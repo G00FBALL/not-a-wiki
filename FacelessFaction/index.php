@@ -185,7 +185,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
-<p><b>Formula</b>: (x)</p>
+<p><b>Formula</b>: (x ^ 1.1), where x is Reincarnations made.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" alt="Dimension Door" align="middle"> <b>Dimension Door</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>

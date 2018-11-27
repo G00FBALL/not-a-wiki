@@ -5,6 +5,83 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.0, Nov 27, 2018 NEW FACTIONS</a></b></p>
+      <div class="autohide">
+              <p><b>THREE NEW FACTIONS</b>! New alignment factions will be able to stack upon a base and prestige factions, for a total of three affiliations simultaneously. All new factions will start with Union upgrades and a new faction spell, and will be available at Reincarnation 125+ after completing their Entry Quest.</p>
+              <p><b>NEW ARTIFACTS AND TROPHIES</b>, some of which will also grant new upgrades. A lot of generic trophies have a new tier as well!</p>
+              <p>Fixed Advanced Gobin Heritage interaction with other Tax Collection bonuses.</p>
+              <p>Druid set now considers building count upgrades. Effect increased, scaling decreased.</p>
+              <p>Elven Union effect increased.</p>
+              <p>Titan Union now also increases max mana additively. All effects increased.</p>
+              <p>Goblin Lineage effect increased.</p>
+              <p>Goblin Perk 3 effect increased.</p>
+              <p>Angelic Fortitude effect and scaling increased.</p>
+              <p>Demon Union now also increases trophy count.</p>
+              <p>Conjuration (Spellcraft 50) now has diminishing returns. Base effect increased.</p>
+              <p>Maelstrom click part has been changed to trophies unlocked.</p>
+              <p>Excavated Mirage effect increased.</p>
+              <p>Sun Force: Faction Coin find chance made logarithmic.</p>
+              <p>Elven Discipline, additive mana regen scaling decreased.</p>
+              <p>Colossus Kingdom effect increased.</p>
+              <p>Giant Market effect and scaling increased.</p>
+              <p>Zombie Apocalypse effect and scaling increased.</p>
+              <p>Flesh Servants effect and scaling increased.</p>
+              <p>All Creation is now log-based, resulting in higher effect and reduced scaling.</p>
+              <p>Drow Set changed to provide additional mana regeneration.</p>
+              <p>Drow Challenge 4 is no longer linear.</p>
+              <p>Spell duration cap removed, now Druid Challenge 4 is capped to 100000%.</p>
+              <p>Druid Perk 4 reworked to provide less duration boost and a reduced effect, but Ascension 2 penalty is removed, resulting in a significant bonus.</p>
+              <p>Wooden Dice effect increased.</p>
+              <p>Seraphim Feathers effect increased.</p>
+              <p>Forbidden Language scaling increased.</p>
+              <p>Eternal Servitude effect increased, scaling decreased.</p>
+              <p>Devastation effect increased, scaling decreased.</p>
+              <p>Camouflage effect increased to 1500%.</p>
+              <p>Angel Union scaling increased.</p>
+              <p>Elven Union effect and scaling increased.</p>
+              <p>Goblin Perk 4 now also makes Tax Collection casts count 100% more.</p>
+              <p>Faceless Perk 3 no longer suffers from Ascension penalties.</p>
+              <p>Advanced Titan Heritage effect increased.</p>
+              <p>Advanced Angel Heritage effect increased.</p>
+              <p>Angel Perk 2 time requirements lowered.</p>
+              <p>Demon Perk 2 time requirements lowered.</p>
+              <p>Know Your Enemy effect increased, scaling decreased.</p>
+              <p>Vanilla Flavor Juice duration increased.
+              <p>Reap Interests scaling increased.</p>
+              <p>Exertion, Engraving, Golemcraft and Mesmerization researches: time requirements reduced.</p>
+              <p>Warfare Exertion scaling increased.</p>
+              <p>Spellcraft 400 (Capacity) made logarithmic.</p>
+              <p>Craftsmanship 305 (Golemcraft) effect decreased, scaling increased.</p>
+              <p>Mana Regeneration penalties from Autocast upgrades have been removed, and replaced with a 5% and 10% bonus for Improved and Masterful Autocast, respectively.</p>
+              <p>Helden Sterben Nicht mana regeneration bonus reduced.
+              <p>Prismatic Mana mana regeneration bonus reduced.</p>
+              <p>Mana Matrix max mana bonus increased.</p>
+              <p>Dragon Pastures effect and scaling decreased.</p>
+              <p>Share Benefits Tier 36 wasn't correctly providing its bonus and it has been fixed.</p>
+              <p>Added an option to disable spell effect icons on building buttons.</p>
+              <p>A new formula for the BuyMAX features has been implemented. This should reduce lag issues and remove the cap of 20k entities purchased at once.</p>
+              <p>Fixed several offline interactions from incorrect implementations of certain spells and effects. Timewarps and offline rush actions should be less effective as a result.</p>
+      </div>
+  </div>
+  <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.2, NOV 11, 2018</a></b></p>
+      <div class="autohide">
+              <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 29th 2018, 1.01 PM UTC and will end on Nov 5th, 7.59 PM UTC.</p>
+              <p><b>Added</b>: New Halloween feat and cosmetic option.</p>
+      </div>
+  </div>
+  <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.1, AUG 20, 2018</a></b></p>
+      <div class="autohide">
+              <p><b>Global Reminder</b>: The Summer Event will be starting on Aug 23rd 2018, 12.01 PM UTC and will end on Aug 30th 2018, 6.59 PM UTC.</p>
+              <p><b>Fixed</b>: Dragon Union targeting formula.</p>
+              <p><b>Fixed</b>: Share Benefits not working correctly with the recently added spell duration cap.</p>
+              <p>Maelstrom click bonus has been changed to count all clicks in the current Reincarnation.</p>
+              <p>Game sound is now muted when scrying.</p>
+              <p><b>Fixed</b>:  A few sound issues on iOS.</p>
+      </div>
+  </div>
+  <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.0, Jul 30, 2018 ADVANCED HERITAGES</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Aug 3rd 2018, 12.01 PM UTC and will end on Aug 7th 2018, 6.59 PM UTC.</p>

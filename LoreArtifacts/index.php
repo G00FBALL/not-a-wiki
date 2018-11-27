@@ -49,7 +49,7 @@
     <p><b>Upgrade Effect</b>: Increases mana regeneration by 2.5%.</p>
     <p><b>Requirement</b>: +3000 max mana</p>
     <p><b>Chance</b>: (max mana / 15,000) %</p>
-    <p><b>Cost</b>: 1 QaVg (1E75), A1+: Free</p>
+    <p><b>Cost</b>: 1 QaVg (1E75)</p>
     <p><b>Alignment</b>: Any</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PinkCarrot.png" alt="Smiley face" align="middle"><b> Pink Carrot</b></p>
@@ -214,7 +214,7 @@
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
-    <p><b>Requirement</b>: R16+, Any Vanilla Faction</p>
+    <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
     <p><b>Cost</b>: 1 coin</p>
     <p><b>Note</b>: Does not work while offline.</p>
@@ -235,7 +235,7 @@
     <p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
     <p><b>Effect</b>: Awards an upgrade of the same name</p>
     <p><b>Upgrade Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)</p>
-    <p><b>Formula</b>: 0.5 * x ^ 0.75, where x is amount of time spent as non-mercenary factions (in seconds).</p>
+    <p><b>Formula</b>: (0.75 * x ^ 0.6), where x is amount of time spent as non-mercenary factions (in seconds).</p>
     <p><b>Note</b>: Upgrade can be only used by Mercenaries.</p>
     <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions. R12+</p>
     <p><b>Chance</b>: 10%</p>
@@ -477,13 +477,13 @@
 <p><b>Hint</b>: Chaos magic burns brightly.</p>
 <p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
 <p><b>Requirements</b>: R120+, Proof of Chaos</p>
-<p><b>Chance</b>: (min(x, y, z) / 1000 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
+<p><b>Chance</b>: (min(x, y, z) / 100 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
 <p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SparkofLifeArtifact.png" align="middle"> Spark of Life</b></p>
 <p><b>Hint</b>: The power of Creation may spark something new.</p>
 <p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
 <p><b>Requirements</b>: R120+, Proof of Balance</p>
-<p><b>Chance</b>: (ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
+<p><b>Chance</b>: (x / ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
 <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
     <?php include "../scripts/footer.html"; ?>

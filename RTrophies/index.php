@@ -74,4 +74,7 @@
 <p><b>Requirement</b>: Reincarnate 100 times</p>
 <p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems</p>
 <hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/125Reincarnations.png" alt="100 Reincarnations" align="middle"> 125 Reincarnations</b></p>
+<p><b>Requirement</b>: Reincarnate 125 times</p>
+<p><b>Cost</b>: (To Reincarnate to R125) 31.05 Dvg (3.105e70) Gems</p>
 <?php include "../scripts/footer.html"; ?>

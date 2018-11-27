@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6>Lineages</h6>
-    <p><b>Requirement</b>: R60+
+    <p><b>Requirement</b>: R60+</p>
     <p>At R60 you will unlock Lineages, powerful upgrades to your chosen Bloodline that will even allow you to use the spell of other Factions, provided you complete their challenges.</p>
     <p>Your Lineage can't match your Faction.</p>
     <p>Your Lineage is dependant on the Bloodline you chose.</p>
@@ -150,7 +150,7 @@
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk1.png" align="middle"><b> Angel Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
-    <p><b>Effect</b>: Angel Bloodline effect now counts total spells cast.</p>
+    <p><b>Effect</b>: Angel Bloodline effect now counts total spells cast this R.</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Angel Faction Coin find chance.</p>
@@ -159,7 +159,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk2.png" align="middle"><b> Angel Perk 2</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Angel Lineage Challenge.</p>
-    <p><b>Challenge</b>: Play 8 hours straight with at least 1 spell active.</p>
+    <p><b>Challenge</b>: Play 2 hours straight with at least 1 spell active.</p>
     <p><b>Note</b>: This must be done within first 8 hours and 1 minute since start of run.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (God's Hand)</p>
     <br/>
@@ -180,7 +180,7 @@
     <H6>Goblin</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinLineage.png" align="middle"><b> Goblin Lineage</b></p>
     <p><b>Cost</b>: 400 Goblin Royal Exchanges.</p>
-    <p><b>Effect</b>: Multiplicative 2.5% gem bonus per level.</p>
+    <p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 6.5% for every level.</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk1.png" align="middle"><b> Goblin Perk 1</b></p>
@@ -200,7 +200,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk3.png" align="middle"><b> Goblin Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Unique Building's base production increased by 3% for every 650 Unique Buildings.</p>
+    <p><b>Effect</b>: Unique Building's base production increased by 25% for every 650 Unique Buildings.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png" align="middle"> Goblin Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.</p>
@@ -210,6 +210,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Goblin's Greed is active, increase seconds worth of Tax Collections based on assistants owned.</p>
     <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is assistants owned.</p>
+    <p><b>Effect</b>: Also makes Tax Collection casts count 100% more.</p>
     <hr>
     <H6>Undead</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadLineage.png" align="middle"><b> Undead Lineage</b></p>
@@ -261,7 +262,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk2.png" align="middle"><b> Demon Perk 2</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Demon Lineage Challenge.</p>
-    <p><b>Challenge</b>: 10 days of HFB activity time (This R).</p>
+    <p><b>Challenge</b>: 5 days of HFB activity time (This R).</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Hellfire Blast)</p>
     <br/>
     <p><b>Level 20</b></p>
@@ -343,10 +344,11 @@
     <p><b>Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk4.png" align="middle"><b> Druid Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: Increase Grand Balance duration based on assistants owned.</p>
-    <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is assistants owned.</p>
-    <p><b>Effect</b>: Also increase the production of all buildings while Grand Balance is active by 10% every 5 minutes of its duration.
-    <p><b>Formula</b>: ((5 * floor(x / 300)) ^ T) where x is Grand Balance duration in seconds, and T is Grand Balance tier.
+    <p><b>Effect</b>: Grand Balance lasts longer based on the amount of assistants you own.</p>
+    <p><b>Formula</b>: 2.25 * ln(1 + x) ^ 2.25, where x is amount of assistants you own.</p>
+    <p><b>Effect</b>: Also, while Grand Balance is active, increase the production of its targets based on Grand Balance duration.</p>
+    <p><b>Formula</b>: (x ^ 0.5) ^ (1 + 0.01 * y), where x is spell duration in seconds and y is amount of grand balance targets</p>
+    <p><b>Note</b>: Ascension 2 penalty is removed</p>
     <hr>
     <H6>Faceless</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessLineage.png" align="middle"><b> Faceless Lineage</b></p>
@@ -372,7 +374,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk3.png" align="middle"><b> Faceless Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: 5% more assistant production per 1k Unique Buildings.</p>
+    <p><b>Effect</b>: 5% more assistant production per 1k Unique Buildings. (Does not suffer from Ascension penalties)</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png" align="middle"> Faceless Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.</p>
@@ -391,7 +393,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk1.png" align="middle"><b> Dwarf Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: Dwarven Bloodline increases faction coin find chance based on total time spent as Good. (1 day of Good = 19,520%).
-    <p><b>Formula</b>: 50 * x ^ 0.75 where x is seconds of good alignment (this R)
+    <p><b>Formula</b>: 50 * x ^ 0.75 where x is seconds of good alignment (this R)</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Dwarf Faction Coin find chance.</p>
@@ -449,7 +451,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.</p>
     <p><b>Effect</b>: While Combo Strike is active, increase the production of all buildings based on the current Combo Strike bonus.</p>
-    <p><b>Formula</b>: (2 * log((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.
+    <p><b>Formula</b>: (2 * log((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.</p>
     <hr>
     <H6>Dragon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonLineage.png" align="middle"><b> Dragon Lineage</b></p>

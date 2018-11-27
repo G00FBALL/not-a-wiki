@@ -24,11 +24,11 @@
 <p><b>#6</b>: 6th Spell</p>
 <p><b>#7</b>: 7th Spell</p>
 <p><b>#8</b>: 8th Spell</p>
-<p><b>#9</b>: 9th Spell (<b>During Events Only)</b></p>
+<p><b>#9</b>: 9th Spell</p>
 <br/>
 <p><b>Tiers</b>: R42+</p>
 <p><b>X +click spell</b>: This will set each spell 1 tier at a time and back to 0</p>
-<p><b>Z +click spell</b>: This will set each spell to it's maximum tier and will not take it to 0</p>
+<p><b>Z +click spell</b>: This will set each spell to it's maxumine tier and will not take it to 0</p>
 <p><b>Tooltip</b>: To set autocasting with tooltip go to options and put a X in <b>Enable Spell Tooltip Persist</b>.</p>
 <br/>
 <h6>Autocasting (Windows)</h6>
@@ -37,7 +37,6 @@
 <p><b>Bronze</b>: CTRL +SHIFT +click spell</p>
 <br/>
 <h6>Autocasting (Mac)</h6>
-
 <p><b>Contingency</b>: SHIFT +click mana</p>
 <p><b>Gold</b>: SHIFT +click spell</p>
 <p><b>Silver</b>: CMD +click spell</p>
@@ -68,9 +67,8 @@
 <p><b>All-Time</b>: covers all reincarnations.</p>
 <hr>
 <h6>Commonly Used Abbreviations</h6>
-<p><b>A0</b>: R0-R39</p>
-<p><b>A1</b>: R40-R99</p>
-<p><b>A2</b>: R100+</p>
+<p><b>A1</b>: Ascension R40-R99</p>
+<p><b>A2</b>: Ascension R100+</p>
 <p><b>Pre A</b>: Before R40</p>
 <p><b>Post A</b>: After R39 and R99</p>
 <p><b>R#</b>: Number of times reincarnated (eg: R12 = 12th reincarnation)</p>
@@ -80,14 +78,10 @@
 <p><b>RUS</b>: Research Upgrade Slot</p>
 <p><b>m/s or mps</b>: Mana per Second</p>
 <p><b>BL</b>: Bloodline</p>
-<p><b>U</b>: Unique Buildings</p>
-<p><b>NU</b>: Non Unique Buildings</p>
+<p><b>U (Build Name)</b>: Builds that target Unique Buildings</p>
+<p><b>NU (Build Name)</b>:Builds that do not target Unique Buildings</p>
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
-<p><b>SF</b>: Sun Force</p>
-<p><b>KYE</b>: Know Your Enemy, Part I and Part 2</p>
-<p><b>AB</b>: Arcane Brilliance
-
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
@@ -111,10 +105,15 @@
 <p><b>Fairy (3,2)</b>: Simplifies notation of Faction upgrades. The first number represents the tier, and the second the position.</p>
 <p>For combined Faction names, the prestiges' precede and is shortened to whatever sounds best.</p>
 <p><b>Dwangels</b>: Dwarf+Angel</p>
+<p><b>Dwaries</b>: Dwarf+Fairy</p>
+<p><b>Dwelf</b>: Dwarf+Elf</p>
 <p><b>Dromon</b>: Drow+Demon
+<p><b>Droblins</b>: Drow+Goblin
 <p><b>Draguid</b>: Dragon+Druid</p>
 <hr>
 <h6>Mercenary Templates</h6>
+<h6>&</h6>
+<h6>Faction Abbreviations</h6>
 <p>Faction abbreviations used in Merc Build templates to identify faction upgrades. These are followed by the numbers 1-9 reflecting their overall position. (eg: Dwarf(3,1) Battlehammers = DN7)</p>
 <p><b>FR</b>: Fairy</p>
 <p><b>EL</b>: Elf</p>
@@ -129,6 +128,9 @@
 <p><b>DW</b>: Drow</p>
 <p><b>MC</b>: Mercenary</p>
 <p><b>DG</b>: Dragon</p>
+<p><b>AR</b>: Archon</p>
+<p><b>DJ</b>: Djinn</p>
+<p><b>MK</b>: Makers</p>
 <hr>
 <h6>Spells</h6>
 <p>Spells are shortened to their initials. Relies on context to differentiate identical initials.</p>
@@ -152,13 +154,12 @@
 <p><b>DP</b>: Diamond Pickaxe</p>
 <p><b>CS</b>: Combo Strike</p>
 <p><b>DB</b>: Dragon Breath</p>
-<p><b>SB</b>: Share Benefit (Mercenary Spell)</p>
-<p><b>RI</b>: Reap Interests (Mercenary Spell)</p>
-<p><b>AV</b>: Appraisal Vantage (Mercenary Spell)</p>
-<p><b>TF</b>: Temporal Flux (R100+ Spell, Proof of Order)</p>
-<p><b>MS</b>: Maelstromell, (R100+ Spell, Proof of Chaos)</p>
-<p><b>AC</b>: All Creationell, (R100+ Spell, Proof of Balance)</p>
-<p><b>GB11</b>: +10 Primal Balance</p>
+<p><b>AC</b>: All Creation</p>
+<p><b>MS</b>: Maelstrom</p>
+<p><b>TF</b>: Temporal Flux</p>
+<p><b>PC</b>: Precognition</p>
+<p><b>LW</b>: Limited Wish</p>
+<p><b>IS</b>: Infinite Spiral</p>
 <p>Tiered spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...).</p>
 <hr>
 <h6>Acronyms</h6>
@@ -171,7 +172,6 @@
 <p><b>OH</b>: Olympian Hall (Titan's Unique building)</p>
 <p><b>UB</b>: Unique Building (R16-R99)</p>
 <p><b>UB2</b>: Unique Building 2 (R100+)</p>
-<p><b>AH</b>: Advanced Heritage (R100+)</p>
 <h6>Abbreviations</h6>
 <p><b>Mona</b>: Monastery</p>
 <p><b>Laby</b>: Labyrinth</p>
@@ -180,16 +180,6 @@
 <p><b>Necros</b>: Necropolis</p>
 <p><b>Pyra</b>: Ancient Pyramids</p>
 <p><b>Den</b>: Wyrm's Den</p>
-<hr>
-<h6>Lineages</h6>
-<p><b>FL</b>: Fairy and Faceless Lineage</p>
-<p><b>EL</b>: Elf Lineage</p>
-<p><b>AL</b>: Angel Lineage</p>
-<p><b>GL</b>: Goblin Lineage</p>
-<p><b>UL</b>: Undead Lineage</p>
-<p><b>DL</b>: Demon, Druid, Dwarf, Drow, and Dragon Lineage</p>
-<p><b>TL</b>: Titan Lineage</p>
-<p>For Lineage levels a number will follow the abreviation (eg: FL5, EL15, UL30...).</p>
 <hr>
 <h6>Gift Shop</h6>
 <p><b>GotH</b>: Gift of the Heroes</p>

@@ -63,7 +63,7 @@
             <p><b>Effect</b>: Enables to join Evil Factions</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VillainuosCertificate.png" align="middle"><b> Villainous Certificate</b></p>
-            <p><b>Requirements</b>: 750 Evil Buildings
+            <p><b>Requirements</b>: 750 Evil Buildings</p>
             <p><b>Cost</b>: 100 T (1E14)
             <p><b>Cost</b>: A1+, Free</p>
             <p><b>Alignment</b>: Evil</p>
@@ -151,28 +151,28 @@
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
             <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
-            <p><b>Requirements</b>: R100+
-            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Requirements</b>: R100+</p>
+            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
             <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
             <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
             <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
-            <p><b>Requirements</b>: R100+
-            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Requirements</b>: R100+</p>
+            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
             <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
             <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
             <p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>
-            <p><b>Requirements</b>: R100+
-            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.
+            <p><b>Requirements</b>: R100+</p>
+            <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
             <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
             <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
         <div class="autohide">
-            <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" align="middle"> <b>Sun Blessing</b></p>
             <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 12pm.)</p>
             <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.</p>
             <br/>
@@ -182,11 +182,11 @@
             <p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
             <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure Series</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" align="middle"><b> Sturdy Treasure Series</b></p>
             <p><b>6 Upgrades</b>:</p>
-            <p><b>Requirement</b>: Click 100, 500, 2,500, 10,000, 50,000 and 100,000 times.
-            <p><b>Cost</b>: 500, 5,000, 5M (5E6), 5B (5E9), 50T (5E13),
-            <p><b>Cost</b>: Ascension 1+, Free
+            <p><b>Requirement</b>: Click 100, 500, 2,500, 10,000, 50,000 and 100,000 times.</p>
+            <p><b>Cost</b>: 500, 5,000, 5M (5E6), 5B (5E9), 50T (5E13),</p>
+            <p><b>Cost</b>: Ascension 1+, Free</p>
             <p><b>Effect</b>: Add 1 click per second while offline. (per upgrade - 6 Total)</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.</p>
@@ -206,7 +206,7 @@
             <br/>
             <p><b>Level 5</b></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk1.png" alt="ElvenPerk1" align="middle"><b> Elven Perk 1</b></p>
-            <p><b>Requirement</b>: Reach Lineage Level 5.
+            <p><b>Requirement</b>: Reach Lineage Level 5.</p>
             <p><b>Effect</b>: Increase autoclicks provided by Elven Bloodlines to 9 per second and their multiplier to x10000.</p>
             <br/>
             <p><b>Level 10</b></p>
@@ -222,12 +222,12 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk3.png" alt="ElvenPerk3" align="middle"><b> Elven Perk 3</b></p>
             <p><b>Requirement</b>: Reach Lineage Level 20.</p>
             <p><b>Effect</b>: Increase base clicking reward by 5% of Unique Building production for every 777 of them.</p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" alt="ElvenGrandChampionTrophy.png" align="middle"> Elven Grand Champion Trophy.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" alt="ElvenGrandChampionTrophy.png" align="middle"> Elven Grand Champion Trophy.</p>
             <p><b>Requirement</b>: Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Click Upgrades</a></b></p>
         <div class="autohide">
-            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" alt="Smiley face" align="middle"><b> Sturdy Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" align="middle"><b> Sturdy Treasure</b></p>
             <p><b>Sturdy Treasure</b></p>
             <p><b>Requirements</b>: 100 Clicks (Total)</p>
             <p><b>Cost</b>: 500</p>
@@ -235,42 +235,42 @@
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 4. While offline, generate 1 click per second per upgrade.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/DurableTreasure.png" alt="Smiley face" align="middle"><b> Durable Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/DurableTreasure.png" align="middle"><b> Durable Treasure</b></p>
             <p><b>Requirements</b>: 500 Clicks (Total)</p>
             <p><b>Cost</b>: 5,000</p>
             <p><b>Cost</b>: Post A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 45. While offline, generate 1 click per second.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ReinforcedTreasure.png" alt="Smiley face" align="middle"><b> Reinforced Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ReinforcedTreasure.png" align="middle"><b> Reinforced Treasure</b></p>
             <p><b>Requirements</b>: 2,500 Clicks (Total)</p>
             <p><b>Cost</b>: 5M (5E6)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
-            <p><b>Alignment</b>: Any
+            <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 4,950. While offline, generate 1 click per second.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ResilientTreasure.png" alt="Smiley face" align="middle"><b> Resilient Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ResilientTreasure.png" align="middle"><b> Resilient Treasure</b></p>
             <p><b>Requirements</b>: 10,000 Clicks (Total)</p>
             <p><b>Cost</b>: 5B (5E9)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 500,000. While offline, generate 1 click per second.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/UnbreakableTreasure.png" alt="Smiley face" align="middle"><b> Unbreakable Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/UnbreakableTreasure.png" align="middle"><b> Unbreakable Treasure</b></p>
             <p><b>Requirements</b>: 50,000 Clicks (Total)</p>
             <p><b>Cost</b>: 50T (5E13)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 50M (1E7). While offline, generate 1 click per second.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/EternalTreasure.png" alt="Smiley face" align="middle"><b> Eternal Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/EternalTreasure.png" align="middle"><b> Eternal Treasure</b></p>
             <p><b>Requirements</b>: 100,000 Clicks (Total)</p>
             <p><b>Cost</b>: 5 Qa (5E16)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 50B (5E10). While offline, generate 1 click per second.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/FilledTreasure.png" alt="Smiley face" align="middle"><b> Filled Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/FilledTreasure.png" align="middle"><b> Filled Treasure</b></p>
             <p><b>Requirements</b>: 5,000 Coins by clicking (This Game)</p>
             <p><b>Cost</b>: 10,000</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
@@ -279,7 +279,7 @@
             <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
             <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/RichTreasure.png" alt="Smiley face" align="middle"><b> Rich Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/RichTreasure.png" align="middle"><b> Rich Treasure</b></p>
             <p><b>Requirements</b>: 5 M (5E6) Coins by clicking (This Game)</p>
             <p><b>Cost</b>: 50M (5E7)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
@@ -288,7 +288,7 @@
             <p><b>Effect</b>: Post A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
             <p><b>Effect</b>: Post A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/WealthyTreasure.png" alt="Smiley face" align="middle"><b> Wealthy Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/WealthyTreasure.png" align="middle"><b> Wealthy Treasure</b></p>
             <p><b>Requirements</b>: 5 B (5E9) Coins by clicking (This Game)</p>
             <p><b>Cost</b>: 100B (1E11)</p>
             <p><b>Cost</b>:  Post A1+, Free</p>
@@ -297,7 +297,7 @@
             <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
             <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/OpulentTreasure.png" alt="Smiley face" align="middle"><b> Opulent Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/OpulentTreasure.png" align="middle"><b> Opulent Treasure</b></p>
             <p><b>Requirements</b>: 5 T (5E12) Coins by clicking (This Game)</p>
             <p><b>Cost</b>: Pre Ascension, 150 T (1.5E14)</p>
             <p><b>Cost</b>: Ascension 1+, Free</p>
@@ -306,7 +306,7 @@
             <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
             <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/OverflowingTreasure.png" alt="Smiley face" align="middle"><b> Overflowing Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/OverflowingTreasure.png" align="middle"><b> Overflowing Treasure</b></p>
             <p><b>Requirements</b>: 5 Qa (5E15) Coins by clicking (This Game)</p>
             <p><b>Cost Pre Ascension</b>: 200 Qa (2E17)</p>
             <p><b>Cost</b>: Ascension 1+, Free</p>
@@ -315,32 +315,32 @@
             <p><b>Effect</b>: A1, Increase clicking reward by 2.26% and the production of all buildings by 2.26%.</p>
             <p><b>Effect</b>: A2, Increase clicking reward by 2.26% and the production of all buildings by 0.22%.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/PreciousTreasure.png" alt="Smiley face" align="middle"><b> Precious Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/PreciousTreasure.png" align="middle"><b> Precious Treasure</b></p>
             <p><b>Requirements</b>: Produce 100,000 Coins (Total)</p>
             <p><b>Cost</b>: 50,000</p>
             <p><b>Cost</b>: Ascension 1+, Free</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/OrnateTreasure.png" alt="Smiley face" align="middle"><b> Ornate Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/OrnateTreasure.png" align="middle"><b> Ornate Treasure</b></p>
             <p><b>Cost</b>: 50 M (5E7)</p>
             <p><b>Unlock Requirements</b>: 100 M (1E8) Coins by clicking (Total)</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/AdornedTreasure.png" alt="Smiley face" align="middle"><b> Adorned Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AdornedTreasure.png" align="middle"><b> Adorned Treasure</b></p>
             <p><b>Cost</b>: 50 B (5E10)</p>
             <p><b>Unlock Requirements</b>: 100 B (1E11) Coins by clicking (Total)</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/EmbellishedTreasure.png" alt="Smiley face" align="middle"><b> Embellished Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/EmbellishedTreasure.png" align="middle"><b> Embellished Treasure</b></p>
             <p><b>Cost</b>: 50 T (5E13)</p>
             <p><b>Unlock Requirements</b>: 100 T (1E14) Coins by clicking (Total)</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase base clicking reward by 1% of your total production.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ResplendentTreasure.png" alt="Smiley face" align="middle"><b> Resplendent Treasure</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ResplendentTreasure.png" align="middle"><b> Resplendent Treasure</b></p>
             <p><b>Cost</b>: 5 Qa (5E15)</p>
             <p><b>Unlock Requirements</b>: 100 Qa (1E17) Coins by clicking (Total)</p>
             <p><b>Alignment</b>: Any</p>
@@ -427,25 +427,31 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase Mana regeneration by +10.00.
             <hr>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaFalls.png" alt="ManaFalls" align="middle"> Mana Falls</b></p>
+            <p><b>Cost</b>: Free
+            <p><b>Requirement</b>: R100+, Produce 200 Qi (2e20) mana.</p>
+            <p><b>Alignment</b>: Any
+            <p><b>Effect</b>: Increase Mana regeneration by +10.00.
+            <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/AutomaticCastingUpgrade.png" alt="Automatic Casting" align="middle"> Automatic Casting</b></p>
             <p><b>Cost</b>: 100 B (1E11)
             <p><b>Unlock Requirements</b>: 60,000 Mana Produced (Total)
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Allows autocasting of spells by CTRL+Clicking them. While you have at least 1 spell in autocasting mode, your mana regen rate is reduced by 50%.
+            <p><b>Effect</b>: Allows autocasting of spells by CTRL+Clicking them.
             <p><b>Effect</b>: While offline, spells are not cast, instead increases mana produced amount by 10% of your mana regen per second
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingUpgrade.png" alt="Improved Autocasting" align="middle"> Improved Autocasting</b></p>
             <p><b>Cost</b>: 200 Qi (2E20)
             <p><b>Unlock Requirements</b>: 2 M (2E6) Mana Produced (Total)
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Reduces mana regeneration penalty to Autocast to -25%.
+            <p><b>Effect</b>: Increases mana regeneration by 5%.
             <p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your mana regeneration per second.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingUpgrade.png" alt="Masterful Autocasting" align="middle"> Masterful Autocasting</b></p>
             <p><b>Cost</b>: 300 Oc (3E29)
             <p><b>Unlock Requirements</b>: 6 M (6E6) Mana Produced (Total)
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Totally removes mana regeneration penalty from Autocast.
+            <p><b>Effect</b>: Increases mana regeneration by 10%.
             <p><b>Effect</b>: While offline, increases mana produced amount by an additional 35% of your mana regeneration per second.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/PriorityAutocastingUpgrade.png" alt="Priority Autocasting" align="middle"> Priority Autocasting</b></p>
@@ -505,7 +511,7 @@
             <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
             <p><b>Formula</b>: ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sDomainResearchBuildingUpgrades.png" alt="Smiley face" align="middle"><b> Heaven's Domain</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sDomainResearchBuildingUpgrades.png" align="middle"><b> Heaven's Domain</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
             <p><b>Unlock Requirements</b>: 1500 Heaven's Gate + R16</p>
             <p><b>Alignment</b>: Angel</p>
@@ -520,7 +526,7 @@
             <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
             <p><b>Formula</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.</p>
             <br/>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/UndercitiesResearchBuildingUpgrades.png" alt="Smiley face" align="middle"><b> Undercities</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/UndercitiesResearchBuildingUpgrades.png" align="middle"><b> Undercities</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)
             <p><b>Unlock Requirements</b>: 1750 Necropolises + R16</p>
             <p><b>Alignment</b>: Undead</p>
@@ -536,7 +542,7 @@
             <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
             <hr>
             <p><b>R22+</b>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsResearchBuildingUpgrades.png" alt="Smiley face" align="middle"><b> Olympian Halls</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsResearchBuildingUpgrades.png" align="middle"><b> Olympian Halls</b></p>
             <p><b>Cost</b>: 10 Ttg (1E103)</p>
             <p><b>Unlock Requirements</b>: 2000 Hall of Legends + R22</p>
             <p><b>Alignment</b>: Titan</p>
@@ -572,7 +578,7 @@
             <p><b>Formula</b>: (25 * x ^0.75)%, where x is your Time Spent Offline (Total) stat.</p>
             <hr>
             <p><b>R46+</b>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" align="middle"> Wyrm's Den</b></p>
             <p><b>Cost</b>: 10 Nod (1.e61)
             <p><b>Unlock Requirements</b>: Wyrm's Den Quest</p>
             <p><b>Alignment</b>: Neutral</p>
@@ -696,14 +702,9 @@
             <p><b>Cost</b>: 100 Qivg 1e80</p>
             <p><b>Requirement</b>: Dragon Pasture Quest, Neutral alignment</p>
             <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
+            <p><b>Formula</b>: (0.63 * x ^ 0.63), where x is your max mana.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
-
-
-
-
-
         </div>
         <p onclick="shohid($(this)); return false;"><b> <a href="#">Gem Upgrades</a></b></p>
         <div class="autohide">
@@ -1199,7 +1200,7 @@
             <p><b>Cost</b>: 1 QaVg (1E75), A1+: Free</p>
             <p><b>Alignment</b>: Any
             <hr></p>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Smiley face" align="middle"><b> Vanilla Flavor Juice</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" align="middle"><b> Vanilla Flavor Juice</b></p>
             <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
             <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
             <p><b>Note</b>: Effect is canceled if you Prestige.</p>
@@ -1326,33 +1327,33 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Unlocks the Titan Faction.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/DruidicRunestone.png" alt="Smiley face" align="middle"><b> Druidic Runestone</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/DruidicRunestone.png" align="middle"><b> Druidic Runestone</b></p>
             <p><b>Cost</b>: 1 No (1E30), 25,000 Elf Coins, 25,000 Demon Coins
             <p><b>Unlock Requirements</b>: 2 Druid quest artifacts,1M (1E6) faction coins
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Unlocks the Druid Faction.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/OctopusShapedSpine.png" alt="Smiley face" align="middle"><b> Octopus Shaped Spine</b></p>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/OctopusShapedSpine.png" align="middle"><b> Octopus Shaped Spine</b></p>
             <p><b>Cost</b>: 1 No (1E30), 25,000 Fairy Coins 25,000 Undead Coins
             <p><b>Unlock Requirements</b>: 2 Faceless quest artifacts,36 hours playtime (This game)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Unlocks the Faceless Faction.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" alt="Smiley face" align="middle"><b> Sturdy Bearded Man's Quest</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" align="middle"><b> Sturdy Bearded Man's Quest</b>
             <p><b>Cost</b>: 10Qad (1E46), 10K Fairy Coins, 10K Elven Coins, 10K Angel Coins.
             <p><b>Unlock Requirements</b>: To make it appear: Puchase the "Passage to the Underworld" archeology upgrade.
             <p><b>Unlock Requirements</b>: To unlock: Play a Good Alignment, Build 800 Inns, 7000 Buildings Owned (This Game), 10000 treasure clicks (Total)
             <p><b>Alignment</b>: Good
             <p><b>Effect</b>: Unlocks the Dwarven Faction and the Underworld Diplomacy upgrade.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/CloakyShadyFigure.png" alt="Smiley face" align="middle"><b> Cloaked Shady Figure's Quest</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/CloakyShadyFigure.png" align="middle"><b> Cloaked Shady Figure's Quest</b>
             <p><b>Cost</b>: 10Qad (1E46), 10K of each Goblin, Undead and Demon Coins
             <p><b>Unlock Requirements</b>: To make it appear: Puchase the "Passage to the Underworld" archeology upgrade.
             <p><b>Unlock Requirements</b>: To unlock: Play an Evil Alignment and build 650 Dark Temples. Have 325 trophies and 10,000 spells casts (Total)
             <p><b>Alignment</b>: Evil
             <p><b>Effect</b>: Unlocks the Drow Faction and the Underworld Diplomacy upgrade.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png" alt="Smiley face" align="middle"><b> Underworld Diplomacy</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png" align="middle"><b> Underworld Diplomacy</b>
             <p><b>Cost</b>: 1 Qad (1E45)
             <p><b>Unlock Requirements</b>: Purchase the Dwarf or Drow Invitation upgrade
             <p><b>Alignment</b>: Any
@@ -1390,12 +1391,12 @@
             <p><b>Effect</b>: Grants access to Unique Building.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
-            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
             <p><b>Requirement</b>: 5000 Excavations</p>
             <p><b>Effect</b>: Grants access to Unique Building, R100+, Neutral Alignment, Proof of Chaos</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
-            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
             <p><b>Requirement</b>: 1e23K Elf Faction Coins found, R100+, Good Alignment, Proof of Balance</p>
             <p><b>Effect</b>: Grants access to Unique Building.</p>
             <hr>
@@ -1405,27 +1406,42 @@
             <p><b>Effect</b>: Grants access to Unique Building.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
-            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins
+            <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
             <p><b>Requirement</b>: 12K Stonehenges, R100+, Neutral Alignment, Proof of Balance</p>
             <p><b>Effect</b>: Grants access to Unique Building.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png"" align="middle"> <b>Archon Quest</b></p>
+            <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
+            <p><b>Effect</b>: Unlocks Archon Faction</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png"" align="middle"> <b>Djinn Quest</b></p>
+            <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom Flux activity time in this game.</p>
+            <p><b>Effect</b>: Unlocks Djinn Faction</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png"" align="middle"> <b>Makers Quest</b></p>
+            <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
+            <p><b>Requirement</b>: R125+,  Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
+            <p><b>Effect</b>: Unlocks Makers Faction</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Assistant Upgrades</a></b></p>
         <div class="autohide">
-            <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantTradeUnion.png" alt="Smiley face" align="middle"><b> Assistant Trade Union</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantTradeUnion.png" align="middle"><b> Assistant Trade Union</b>
             <p><b>Assistant Trade Union</b>
             <p><b>Cost</b>: 150 Qi (1.5E20)
             <p><b>Unlock Requirements</b>: 10 Assistants
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase production of all buildings by 1% per Assistant.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSyndicate.png" alt="Smiley face" align="middle"><b> Assistant Syndicate</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSyndicate.png" align="middle"><b> Assistant Syndicate</b>
             <p><b>Assistant Syndicate</b>
             <p><b>Cost</b>: 300 Qivg (3E80)
             <p><b>Unlock Requirements</b>: 100 Assistants
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase production of all buildings by 1% per Assistant.
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantCartel.png" alt="Smiley face" align="middle"><b> Assistant Cartel</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantCartel.png" align="middle"><b> Assistant Cartel</b>
             <p><b>Assistant Cartel</b>
             <p><b>Cost</b>: 5 Qitg (5E108)
             <p><b>Unlock Requirements</b>: 300 Assistants
@@ -1519,7 +1535,7 @@
             <p><b>Cost</b>: 100 Vg (1E65)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)
-            <p><b>Formula</b>: (0.5 * x^0.75)%, where x is amount of time spent as non-mercenary factions (in seconds).
+            <p><b>Formula</b>: (0.75 * x ^ 0.6), where x is amount of time spent as non-mercenary factions (in seconds).
             <p><b>Chance</b>: 10%
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VoodooDollSecretUpgrade.png" alt="Voodoo Doll" align="middle"><b> Voodoo Doll</b></p>
@@ -1674,7 +1690,7 @@
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings by 10% per tier (10% for Halls, the 20% for the next building up, etc).
             <hr>
-            <p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretUpgrade.png" alt="Smiley face" align="middle"> Coin Pillage</b></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretUpgrade.png" align="middle"> Coin Pillage</b></p>
             <p><b>Requirements</b>: Cast 30 Tax Collections in less than 5 seconds.
             <p><b>Cost</b>: 1 Dc (1E33)
             <p><b>Alignment</b>: Any
@@ -1812,7 +1828,7 @@
             <p><b>Requirements</b>: Have exactly 4767 maximum mana.
             <p><b>Cost</b>: 1000
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase maximum mana by 10%.
+            <p><b>Effect</b>: Increase maximum mana by 15%.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretUpgrade.png" alt="Suggestion Master" align="middle"> Suggestion Master</b></p>
             <p><b>Requirements</b>: Have the changelog interface open for 3 minutes. (Click the version number in the Save tab).
@@ -1904,7 +1920,7 @@
             <p><b>Requirement</b>: Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.(Abdication or Reincarnation)</p>
             <p><b>Cost Pre Ascension</b>: 5.0e75
             <p><b>Cost Post Ascension</b>: Free
-            <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.
+            <p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%.
             <hr></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png" alt="Mana Waste" align="middle"> Mana Waste</b></p>
             <p><b>Requirement</b>: Have mana regeneration higher than max mana.</p>
@@ -1941,95 +1957,95 @@
             <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
             <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
-            <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat and A is Ascension count.
+            <p><b>Formula</b>: floor(0.25 * ln(x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
             <p><b>Formula</b>: log(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
-            <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-            <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.
+            <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
+            <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png" alt="Prismatic Mana" align="middle"><b> Prismatic Mana</b></p>
-            <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.
-            <p><b>Requirements</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.
-            <p><b>Cost</b>: 100 No (1e32)
-            <p><b>Effect</b>: 35% Mana Regeneration (multiplicative).
-            <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.
+            <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.</p>
+            <p><b>Requirements</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.</p>
+            <p><b>Cost</b>: 100 No (1e32)</p>
+            <p><b>Effect</b>: 25% Mana Regeneration (multiplicative).</p>
+            <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
-            <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-            <p><b>Cost</b>: 10 Dtg (1e100)
-            <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).
-            <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
-            <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
-            <p><b>Chance</b>: Total Lineage levels/2000
+            <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
+            <p><b>Cost</b>: 10 Dtg (1e100)</p>
+            <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
+            <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)</p>
+            <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9</p>
+            <p><b>Chance</b>: Total Lineage levels/2000</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AutoclickerSecretTrophy.png" alt="Autoclicker" align="middle"><b> Autoclicker</b></p>
-            <p><b>Requirements</b>: Perform 40 autoclicks in 1 second, R60+
-            <p><b>Cost</b>: 100 Qaq (1e125)
-            <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only
+            <p><b>Requirements</b>: Perform 40 autoclicks in 1 second, R60+</p>
+            <p><b>Cost</b>: 100 Qaq (1e125)</p>
+            <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KnowYourEnemyPart2" align="middle"><b> Know Your Enemy, Part 2</b></p>
-            <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.
-            <p><b>Requirements</b>: R76, Upgrade from all 12 Factions
-            <p><b>Cost</b>: 100 Noqag (1e152)
-            <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
+            <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
+            <p><b>Requirements</b>: R76, Upgrade from all 12 Factions</p>
+            <p><b>Cost</b>: 100 Noqag (1e152)</p>
+            <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png" alt="Grandmaster Researcher" align="middle"><b> Grandmaster Researcher</b></p>
-            <p><b>Requirements</b>: Research 18500 times across all fields.
-            <p><b>Cost</b>: 10 SpQig (1e175)
-            <p><b>Effect</b>: Increase the overall production of Mercenaries by 100%.
+            <p><b>Requirements</b>: Research 18500 times across all fields.</p>
+            <p><b>Cost</b>: 10 SpQig (1e175)</p>
+            <p><b>Effect</b>: Increase the overall production of Mercenaries by 100%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"><b> Warrior Researcher</b></p>
-            <p><b>Requirements</b>: Discover all the Mercenary researches.
-            <p><b>Cost</b>: 1 DSpg (1e219)
-            <p><b>Effect</b>: Increase the production of all buildings based on research done.
-            <p><b>Formula</b>: 0.3*x^0.7, where x is total of research done.
-            <p><b>Upgrade</b>: Good for Mercenary
+            <p><b>Requirements</b>: Discover all the Mercenary researches.</p>
+            <p><b>Cost</b>: 1 DSpg (1e219)</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is total of research done.</p>
+            <p><b>Upgrade</b>: Good for Mercenary</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png" alt="Exchange High Lord" align="middle"><b> Exchange High Lord</b></p>
-            <p><b>Requirements</b>: 5000 Royal Exchanges
-            <p><b>Cost</b>: 10 DQig (1e160)
-            <p><b>Effect</b>: Increase royal exchange bonus by 250%.
+            <p><b>Requirements</b>: 5000 Royal Exchanges</p>
+            <p><b>Cost</b>: 10 DQig (1e160)</p>
+            <p><b>Effect</b>: Increase royal exchange bonus by 250%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png" alt="Genealogist" align="middle"><b> Genealogist</b></p>
-            <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.
-            <p><b>Cost</b>: 1 NoQig (1e180)
-            <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.
-            <p><b>Formula</b>: 2.5 * x^1.25
+            <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.</p>
+            <p><b>Cost</b>: 1 NoQig (1e180)</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.</p>
+            <p><b>Formula</b>: (2.5 * x ^ 1.25), where x is total amount of lineage levels you have.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
-            <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
-            <p><b>Requirements</b>: R100+
-            <p><b>Chance</b>: 10%
-            <p><b>Effect</b>: Increase the production of all buildings based on their tier.
-            <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins
-            <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+            <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
+            <p><b>Requirements</b>: R100+</p>
+            <p><b>Chance</b>: 10%</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
+            <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins</p>
+            <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
-            <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
-            <p><b>Requirement</b>: R100+
-            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
-            <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
+            <p><b>Requirement</b>: R100+</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1500%.</p>
+            <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" alt="Excavated Mirage" align="middle"><b> Chocolate Flavor Juice</b></p>
-            <p><b>Requirement</b>: R22+, Neutral Faction, Ancient Cocoa Bean
-            <p><b>Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.
-            <p><b>Cost</b>: Free
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" align="middle"><b> Chocolate Flavor Juice</b></p>
+            <p><b>Requirement</b>: R22+, Neutral Faction, Ancient Cocoa Bean</p>
+            <p><b>Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.</p>
+            <p><b>Cost</b>: Free</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FortuneTellerMachineUpgrade.png" alt="Fortune Teller Machine" align="middle"><b> Fortune Teller Machine</b></p>
-            <p><b>Requirement</b>: Artifact, R42+
-            <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)
-            <p><b>Cost</b>: R42+ 1 No (1e32)
-            <p><b>Cost</b>: Post A2 Free
-            <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R
+            <p><b>Requirement</b>: Artifact, R42+</p>
+            <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)</p>
+            <p><b>Cost</b>: R42+ 1 No (1e32)</p>
+            <p><b>Cost</b>: Post A2 Free</p>
+            <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
             <p><b>Clue</b>: Really, raise your chances.</p>
             <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
             <p><b>Requirement</b>: R100+</p>
             <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-            <p><b>Upgrade Effect</b>: Lower cost of Lineage level based on time spent this game.
+            <p><b>Upgrade Effect</b>: Lower cost of Lineage level based on time spent this game.</p>
             <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
             <p><b>Formula</b>: (x ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations. (reset when upgrading lineage),</p>
             <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
@@ -2135,84 +2151,104 @@ div#images div{
             <p><b>Cost</b>: 120 Notg (1.2e122)</p>
             <p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
             <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"><b> Mad Masks</b></p>
+            <p><b>Requirements</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
+            <p><b>Cost</b>: 1 SpQag (1.e144)</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
+            <p><b>Formula</b>: (1.5 * x ^ 0.5), where x is highest amount of excavations made in a single Reincarnation.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
+            <p><b>Requirements</b>: Find all 3 Iron Fragments.</p>
+            <p><b>Cost</b>: 1 QiQag (1.e138)</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by 2000%.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"><b> Djinn Mask</b></p>
+            <p><b>Requirements</b>: Find all 3 Crystal Fragments.</p>
+            <p><b>Cost</b>: 1 QiQag (1.e138)</p>
+            <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"><b> Makers Mask</b></p>
+            <p><b>Requirements</b>: Find all 3 Stone Fragments.</p>
+            <p><b>Cost</b>: 1 QiQag (1.e138)</p>
+            <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
         </div>
-        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spell Upgrades</a></b></p>
+        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spell Upgrades</a></b>
         <div class="autohide">
-            <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSpellUpgrade.png" alt="Smiley face" align="middle"><b> Coin Pillage</b>
-            <p><b>Cost</b>: 1 Dc (1E33)
-            <p><b>Unlock Requirements</b>: Cast 30 Tax Collection in less than 5 seconds.
-            <p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSpellUpgrade.png" align="middle"><b> Coin Pillage</b></p>
+            <p><b>Cost</b>: 1 Dc (1E33)</p>
+            <p><b>Unlock Requirements</b>: Cast 30 Tax Collection in less than 5 seconds.</p>
+            <p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirSpellUpgrade.png" alt="Smiley face" align="middle"><b> Fairy Choir</b>
-            <p><b>Cost</b>: 1 M (1E6)
-            <p><b>Unlock Requirements</b>: Cast Fairy Chanting while having 45 or more assistants.
-            <p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirSpellUpgrade.png" align="middle"><b> Fairy Choir</b></p>
+            <p><b>Cost</b>: 1 M (1E6)</p>
+            <p><b>Unlock Requirements</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
+            <p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSpellUpgrade.png" alt="Smiley face" align="middle"><b> Sun Blessing</b>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSpellUpgrade.png" align="middle"><b> Sun Blessing</b></p>
             <p><b>Cost</b>: 1 M (1.E6)
-            <p><b>Unlock Requirements</b>: Cast the Elven spell Moon Blessing between 6 am and 12 pm (midnight)
-            <p><b>Effect</b>: Autoclicks 15 times per second while Moon Blessing is active.
+            <p><b>Unlock Requirements</b>: Cast the Elven spell Moon Blessing between 6 am and 12 pm (midnight)</p>
+            <p><b>Effect</b>: Autoclicks 15 times per second while Moon Blessing is active.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSpellUpgrade.png" alt="Smiley face" align="middle"><b> God's Rest</b>
-            <p><b>Cost</b>: 1 M (1E6)
-            <p><b>Unlock Requirements</b>: Cast Angel's God's Hand on a Sunday.
-            <p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSpellUpgrade.png" align="middle"><b> God's Rest</b></p>
+            <p><b>Cost</b>: 1 M (1E6)</p>
+            <p><b>Unlock Requirements</b>: Cast Angel's God's Hand on a Sunday.</p>
+            <p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgrade.png" alt="Smiley face" align="middle"><b> Minedwarf</b>
-            <p><b>Cost</b>: 100 Sxd (1E53)
-            <p><b>Unlock Requirements</b>: Find 30,000 faction coins from the Dwarf spell Diamond Pickaxe in a single game.
-            <p><b>Effect</b>: Increase Diamond Pickaxe bonus to Faction Coin find chance to 300%.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgrade.png" align="middle"><b> Minedwarf</b></p>
+            <p><b>Cost</b>: 100 Sxd (1E53)</p>
+            <p><b>Unlock Requirements</b>: Find 30,000 faction coins from the Dwarf spell Diamond Pickaxe in a single game.</p>
+            <p><b>Effect</b>: Increase Diamond Pickaxe bonus to Faction Coin find chance to 300%.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveSpellUpgrade.png" alt="Smiley face" align="middle"><b> Greed Drive</b>
-            <p><b>Cost</b>: 1 M (1E6)
-            <p><b>Unlock Requirements</b>: Cast 100 Goblin's Greed spells in a row. The chain is interrupted by casting other spells.
-            <p><b>Effect</b>: Goblin's Greed costs 150 less mana.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveSpellUpgrade.png" align="middle"><b> Greed Drive</b></p>
+            <p><b>Cost</b>: 1 M (1E6)</p>
+            <p><b>Unlock Requirements</b>: Cast 100 Goblin's Greed spells in a row. The chain is interrupted by casting other spells.</p>
+            <p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightSpellUpgrade.png" alt="Smiley face" align="middle"><b> True Night</b>
-            <p><b>Cost</b>: 1 M (1.E6)
-            <p><b>Unlock Requirements</b>: Cast Undead's Night Time spell between 11 pm and 6 am.
-            <p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightSpellUpgrade.png" align="middle"><b> True Night</b></p>
+            <p><b>Cost</b>: 1 M (1.E6)</p>
+            <p><b>Unlock Requirements</b>: Cast Undead's Night Time spell between 11 pm and 6 am.</p>
+            <p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/HellRushSpellUpgrade.png" alt="Smiley face" align="middle"><b> Hell Rush</b>
-            <p><b>Cost</b>: 1 M (1E6)
-            <p><b>Unlock Requirements</b>: Cast Demon's Hellfire Blast spell in the first 60 seconds of playtime.
-            <p><b>Effect</b>: Hellfire Blast also boosts Hall of Legends.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HellRushSpellUpgrade.png" align="middle"><b> Hell Rush</b></p>
+            <p><b>Cost</b>: 1 M (1E6)</p>
+            <p><b>Unlock Requirements</b>: Cast Demon's Hellfire Blast spell in the first 60 seconds of playtime.</p>
+            <p><b>Effect</b>: Hellfire Blast also boosts Hall of Legends.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboSpellUpgrade.png" alt="Perfect Combo" align="middle"><b> Perfect Combo</b>
-            <p><b>Cost</b>: 100 Sxd (1E53)
-            <p><b>Unlock Requirements</b>: Cast 100 Drow's Combo Strike spell in a row. The chain is interrupted by casting other spells.
-            <p><b>Effect</b>: Increase Combo Strike bonus.
-            <p><b>Formula</b>: 40*(x^0.9)%, where x is the number of times you have cast Combo Strike.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboSpellUpgrade.png" alt="Perfect Combo" align="middle"><b> Perfect Combo</b></p>
+            <p><b>Cost</b>: 100 Sxd (1E53)</p>
+            <p><b>Unlock Requirements</b>: Cast 100 Drow's Combo Strike spell in a row. The chain is interrupted by casting other spells.</p>
+            <p><b>Effect</b>: Increase Combo Strike bonus.</p>
+            <p><b>Formula</b>: (40 * (x ^ 0.9))%, where x is the number of times you have cast Combo Strike.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormSpellUpgrade.png" alt="Smiley face" align="middle"><b> Lightning Storm</b>
-            <p><b>Cost</b>: 10 Dd (1E40)
-            <p><b>Unlock Requirements</b>: Cast 100 Titan's Lightning Strike spell in a single game.
-            <p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormSpellUpgrade.png" align="middle"><b> Lightning Storm</b></p>
+            <p><b>Cost</b>: 10 Dd (1E40)</p>
+            <p><b>Unlock Requirements</b>: Cast 100 Titan's Lightning Strike spell in a single game.</b>
+            <p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.</b>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindSpellUpgrade.png" alt="Smiley face" align="middle"><b> Faceless Overmind</b>
-            <p><b>Cost</b>: 10 Dd (1E40)
-            <p><b>Unlock Requirements</b>: Affiliate with the Faceless 5 times in a row.
-            <p><b>Effect</b>: Increase Brainwave ticks to 3% per second.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindSpellUpgrade.png" align="middle"><b> Faceless Overmind</b></p>
+            <p><b>Cost</b>: 10 Dd (1E40)</p>
+            <p><b>Unlock Requirements</b>: Affiliate with the Faceless 5 times in a row.</p>
+            <p><b>Effect</b>: Increase Brainwave ticks to 3% per second.</p>
             <hr>
-            <p><img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceSpellUpgrade.png" alt="Smiley face" align="middle"><b> Halls of Balance</b>
-            <p><b>Cost</b>: 10 Dd (1E40)
-            <p><b>Unlock Requirements</b>: Have Druid's Grand Balance spell affect Hall of Legends.
+            <p><img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceSpellUpgrade.png" align="middle"><b> Halls of Balance</b></p>
+            <p><b>Cost</b>: 10 Dd (1E40)</p>
+            <p><b>Unlock Requirements</b>: Have Druid's Grand Balance spell affect Hall of Legends.</p>
             <p><b>Effect</b>: Increase Grand Balance duration to 24 seconds and lower its cost by 200.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b>
-            <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment
-            <p><b>Cost</b>: 1 Qaqag (1e135)
-            <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Good factions.
-            <p><b>Effect 2</b>: Upgrades Tax Collection spell to Share Benefits. Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.
-            <p><b>Formula</b>: 125 ^ (0.25 * t), where t is tier (FC chance multiplier)
-            <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)
+            <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment</p>
+            <p><b>Cost</b>: 1 Qaqag (1e135)</p>
+            <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Good factions.</p>
+            <p><b>Effect 2</b>: Upgrades Tax Collection spell to Share Benefits. Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
+            <p><b>Formula</b>: 125 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
+            <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DarkCovenant.png" alt="Dark Covenant" align="middle"> <b>Dark Covenant</b>
-            <p><b>Requirement</b>: Tyrant Garrison, Mercenary Evil Alignment
-            <p><b>Cost</b>: 1 Qaqag (1e135)
+            <p><b>Requirement</b>: Tyrant Garrison, Mercenary Evil Alignment</p>
+            <p><b>Cost</b>: 1 Qaqag (1e135)</p>
             <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
             <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests Additional casts of Reap Interests increase its seconds worth of production.</p>
-            <p><b>Formula</b>: y ^ (1 + 0.2 * Log(1 + x)) Y is TC original power and X is amount of TC casts?</p>
+            <p><b>Formula</b>: (y ^ (1 + 0.24 * Log(1 + x))) , where y is TC original power and x is amount of TC casts.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b>
             <p><b>Requirement</b>: Freemason's Hall, Mercenary Neutral Alignment</p>
@@ -2253,7 +2289,7 @@ div#images div{
     <area target="" research="Upgrade 22: Lunar Photosynthesis<p>Requirement: R40+, 10000 Farms<p>Cost: 518.4 Dqag (5.148e131)<p>Increase Farm by 80%" coords="56,111,105,162" shape="rect">
     <area target="" research="Upgrade 23: Vaster Fields<p>Requirement: R100+, 18000 Farms<p>Cost: 563 Octg (5.63e119)<p>Increase the production of Farms by 90%." coords="109,110,161,163" shape="rect">
     <area target="" research="Unique Building<p>At R16, The Fairies' Farm building can be upgraded to a Unique Building: Enchanted Fields, which is required for some challenges and research quests, Boosting their production by 750% per assistant you own and unlocking more unique perks for the building.<p>Requirements: 2250 Farms, Research, Play as Good and Fairy, R16+.<p>Formula: 50 * (750 * x)^0.7, where x is your Assistants stat." coords="354,113,536,158" shape="rect">
-    <area target="" research="Unique Building<p>At R116, Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p><p><b>Effect</b>: Increase production based on your max mana.</p> <p><b>Effect</b>: Also grants access to Faction Union.</p><p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p><p><b>Alignment</b>: Neutral-Dragon, Proof of Order, Balance, Chaos</p><p><b>Requirement</b>: R116+, Dragon Pasture Quest (42 active spells)" coords="164,110,346,162" shape="rect">
+    <area target="" research="Unique Building<p>At R116, Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p><p><b>Effect</b>: Increase production based on your max mana.</p> <p><b>Effect</b>: Also grants access to Faction Union.</p><p><b>Formula</b>: (0.63 * x ^ 0.63), where x is your max mana.</p><p><b>Alignment</b>: Neutral-Dragon, Proof of Order, Balance, Chaos</p><p><b>Requirement</b>: R116+, Dragon Pasture Quest (42 active spells)" coords="164,110,346,162" shape="rect">
 </map>
 </br>
 <p><b>Inn Upgrades (Alignment: Any-None)</b></p>
