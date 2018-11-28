@@ -20,14 +20,13 @@
 
 <script>
 function sumOfDigits(x) {
-	var m = 10;
-	var sum = x % m;
-  while( x >= m ){
-  	var d = m;
-    m *= 10;
-    sum += ( x % m ) / d; // A proper implementation would floor this value, the game does not use floor
-  }
-  return sum;
+    var sum = 0;
+    while (x > 1)
+    {
+	sum += x % 10;
+	x = Math.floor(x / 10);
+    }
+    return sum;
 }
 
 function bubbleSwarm(x) {
