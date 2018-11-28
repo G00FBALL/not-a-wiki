@@ -1252,7 +1252,7 @@
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
             <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-            <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
+            <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.
             <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
@@ -1956,7 +1956,7 @@
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
             <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-            <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.
+            <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.
             <p><b>Formula</b>: floor(0.25 * ln(x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.

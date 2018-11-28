@@ -672,7 +672,7 @@
 <br/>
 <p><b>All Creation</b></p>
 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
-<p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
+<p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
 <p><b>Old Formula</b>: (2.5 * x ^ 0.44), where x is mana per seconds.</p>
 <p><b>New Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
 <hr>
@@ -682,7 +682,7 @@
 <p><b>New Effect</b>:  Increase Faction Coin find chance by a multiplicative 1500%.</p>
 <br/>
 <p><b>Sunforce</b></p>
-<p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.</p>
+<p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.</p>
 <p><b>Old Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat and A is Ascension count.</p>
 <p><b>New Formula</b>: floor(0.25 * ln(x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.</p>
 <br/>
@@ -1173,7 +1173,7 @@
 <p>Fairy Upgrade 12</p>
 <p><b>Cost</b>: 10 Dtg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
-<p><b>Effect</b>: Multipicatively increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
+<p><b>Effect</b>: multiplicative increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
 <p><b>Old Formula</b>: Every 30 minutes, ((upgrade bonus) + rand(0.5, 5))% (averages out to 132% per day).</p>
 <p><b>New Formula</b>: Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
 <br/>
@@ -1786,7 +1786,7 @@ div#images div{
 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"></p>
 <p><b>Cost</b>: 6000 Mana</p>
 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
-<p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
+<p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
 <p><b>New Formula</b>: floor(2.5 * x ^ 0.44). where x is mana per second.</p>
 <p><b>Old Formula</b>: floor(2.5 * x ^ 0.5). where x is mana per second.</p>
 <br/>
@@ -1854,7 +1854,7 @@ div#images div{
 <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
 <p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
-<p><b>Effect</b>: Every 30 minutes, multipicatively increase mana regen by a random amount. (starts at 0% on a new run)</p>
+<p><b>Effect</b>: Every 30 minutes, multiplicative increase mana regen by a random amount. (starts at 0% on a new run)</p>
 <br/>
 <p><b>Demon</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> <b>Demonic Fury</b></p>

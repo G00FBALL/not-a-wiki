@@ -979,7 +979,7 @@
                 <p><b>Requirement</b>: Ascension 2</p>
                 <p><b>Cost</b>: 6000 Mana</p>
                 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
-                <p><b>Effect</b>: Also multipicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
+                <p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
                 <p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
                 <p><b>Factions</b></p>
                 <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>

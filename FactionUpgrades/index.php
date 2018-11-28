@@ -931,7 +931,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" align="middle"> Dream Catchers</b></p>
                 <p><b>Requirement</b>: A2, Fairies Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-                <p><b>Effect</b>: Multipicatively increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought).</p>
+                <p><b>Effect</b>: multiplicative increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought).</p>
                 <p><b>Formula</b>:  Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
                 <hr>
                 <h6>Elf</h6>

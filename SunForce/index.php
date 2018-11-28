@@ -27,7 +27,7 @@
     <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).</p>
       <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-    <p><b>Effect</b>: Multipicatively increase Faction Coin find chance based on the amount of assistants you own.</p>
+    <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.</p>
     <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat and A is Ascension count.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
