@@ -383,8 +383,8 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Elven and Goblin Coins</p>
-<p><b>Effect</b>: Increase maximum mana based on Tax Cctiolleons cast in this game.</p>
-<p><b>Formula</b>: (2.2 * log(1 + x) ^ 1.8), where x is Tax Cctiolleons cast this game.</p>
+<p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
+<p><b>Formula</b>: (2.2 * log(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130</p>
@@ -449,7 +449,7 @@
 <hr>
 <p><b>Changes</b>
 <p><b>BuyMax</b></p>
-<p>No longer capped at 20000, now buys whet ever you can afford.</p>
+<p>No longer capped at 20000, now buys what ever you can afford.</p>
 <hr>
 <p><b>Drow Challenge Final Reward</b></p>
 <p><b>Versatile Combo</b></p>
