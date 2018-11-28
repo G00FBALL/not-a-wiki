@@ -21,7 +21,7 @@
 <script>
 function sumOfDigits(x) {
     var sum = 0;
-    while (x > 1)
+    while (x > 0)
     {
 	sum += x % 10;
 	x = Math.floor(x / 10);
