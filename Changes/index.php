@@ -864,7 +864,7 @@
 <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
 <p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.</p>
 <p><b>Old Formula</b>: (a.b.c.d) (0.01 * d + c)%</p>
-<p><b>New Formula</b>: (30 * b) + a + (0.1 * d) * (0.01 * c)%, no A-nerf</p>
+<p><b>New Formula</b>: (10 * b) + a + (0.1 * d) * (0.01 * c)%, no A-nerf</p>
 <hr>
 <p><b>Quest Changes</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>

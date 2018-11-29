@@ -3294,7 +3294,7 @@
 <p><b>Requirement</b>: Open the changelog and ponder about what could be added in there for 3 minutes.</p>
 <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
 <p><b>Formula</b>: hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.</p>
-<p><b>Formula</b>: (a.b.c.d) (0.01 * d + c) -> (30 * b) + a + (0.1 * d) * (0.01 * c))%, no A Nerf
+<p><b>Formula</b>: (a.b.c.d) (0.01 * d + c) -> (10 * b) + a + (0.1 * d) * (0.01 * c))%, no A Nerf
 <p><b>Cost</b>: 1000 coins</p>
 <p><b>Cost</b>: Post A+, Free</p>
 <p><b>Note</b>: Click the Option tab and click the numbers in the bottom right corner and leave it open for 3 minutes.</p>
