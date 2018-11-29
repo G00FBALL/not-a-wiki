@@ -39,21 +39,19 @@ function applyBldgMultiplier(x, l) {
 
 function buildBubbleSwarmTable(l) {
 	var minbldg = 7999;  // This is the minimum number of buildings after applying building multiplier
-  if(l > 5)
-  	minbldg = 17999;
-  if(l > 10)
-  	minbldg = 19999;
-  if(l > 15)
-  	minbldg = 24999;
-  if(l > 20)
-  	minbldg = 29999;
-  if(l > 25)
-  	minbldg = 39999;
-  if(l > 30)
-  	minbldg = 49999;
-	var maxbldg = 34000; // This is the maximum number of purchased buildings
-  if(l > 20)
-  	maxbldg = 40000;
+    var maxbldg = 100000; // This is the maximum number of purchased buildings
+  	if(l > 5)
+  		minbldg = 17999;
+    if(l > 10)
+  	    minbldg = 19999;
+    if(l > 15)
+  	    minbldg = 24999;
+    if(l > 20)
+  	    minbldg = 29999;
+    if(l > 25)
+  	    minbldg = 39999;
+    if(l > 30)
+  	    minbldg = 49999;
 
 	var tabletext = "";
   var maxmana = 0;
