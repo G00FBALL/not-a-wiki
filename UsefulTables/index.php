@@ -12,9 +12,12 @@
     <p for="dlinput"><b>This includes Dwarf challenge 5</b> </p>
     <label for="dlinput"><b>Dragon Lineage</b>: </label>
     <input type="number" id="dlinput" name="dragon lineage" value="0">
+    <br />
+    <label for="archinput"><b>Archon Heritage</b>: </label>
+    <input type="checkbox" id="archinput" name="archon heritage">
     <button id="dlsubmit">Submit</button>
   </div>
-  <br>
+  <br />
   <span id="bubble-swarm-table"></span>
 </div>
 
@@ -33,11 +36,12 @@ function bubbleSwarm(x) {
 	return Math.floor(sumOfDigits(x) * 100 * Math.pow( x, 0.45 ) );
 }
 
-function applyBldgMultiplier(x, l) {
-	return Math.floor( x * 1.2 * (1 + 0.12 * l));
+function applyBldgMultiplier(x, l, h) {
+	var res = Math.floor( x * 1.2 * (1 + 0.12 * l));
+	return h ? res * 1.15 : res;	
 }
 
-function buildBubbleSwarmTable(l) {
+function buildBubbleSwarmTable(l, h) {
 	var minbldg = 7999;  // This is the minimum number of buildings after applying building multiplier
     var maxbldg = 100000; // This is the maximum number of purchased buildings
   	if(l > 5)
@@ -59,7 +63,7 @@ function buildBubbleSwarmTable(l) {
   var bldgvals = [];
   var numvals = 0;
   for (i = 1; i < maxbldg; i++) {
-    var mana = bubbleSwarm(applyBldgMultiplier(i,l));
+    var mana = bubbleSwarm(applyBldgMultiplier(i,l,h));
     if( mana > maxmana ) {
     	if( applyBldgMultiplier(i,l) >= minbldg ){
       	manavals[numvals] = mana;
@@ -86,12 +90,20 @@ function buildBubbleSwarmTable(l) {
 
 $( "#dlsubmit" ).click(function(){
   var lineage = document.getElementById("dlinput").value;
-  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage));
+  var heritage = document.getElementById("archinput").value;
+  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
 })
 
 $( "#dlinput" ).change(function(){
-	var lineage = document.getElementById("dlinput").value;
-  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage));
+  var lineage = document.getElementById("dlinput").value;
+  var heritage = document.getElementById("archinput").value;
+  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+})
+	
+$( "#archinput" ).change(function(){
+  var lineage = document.getElementById("dlinput").value;
+  var heritage = document.getElementById("archinput").value;
+  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
 })
 </script>
 <br style="clear: both"/><hr>
