@@ -10,8 +10,8 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
 <p><b>Event starts in</b></p>
 <p id="start">
-<!--<script>
-  var countDownDate1 = new Date("Oct 29, 2018 13:01:00 UTC").getTime();
+<script>
+  var countDownDate1 = new Date("Nov 30, 2018 13:01:00 UTC").getTime();
   var x = setInterval(function() {
       var now = new Date().getTime();
       var distance = countDownDate1 - now;
@@ -26,11 +26,11 @@
           document.getElementById("end").innerHTML = "Started";
       }
       }, 1000);
-  </script></p>--!>
+  </script></p>
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("Nov 5, 2018 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("Dec 4, 2018 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -125,6 +125,7 @@ var x = setInterval(function() {
         <tr>
             <td>0</td>
             <td>Thanksgiving</td>
+            <td>&#10004;</td>
             <td>&#10004;</td>
             <td>&#10004;</td>
             <td>&#10004;</td>
@@ -243,6 +244,19 @@ div#images div{
     <div class="shlisting">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2018 Events</a></b></p>
         <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving(Nov 30 - Dec 4, 2018)</a></b></p>
+            <div class="autohide">
+                <p>The Thanksgiving event will be starting on <b>Nov 30th 2018, 1.01 PM UTC</b> and will end on <b>Dec 4th 2018, 6.59 PM UTC</b>.</p>
+                <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements</p>
+                <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
+                <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
+                <p><b>Kind</b>: Upgrade/Feat</p>
+                <p><b>Requirements</b>: Play during Thanksgiving</p>
+                <p><b>Cost</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
+             </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 29 - Nov 5, 2018)</a></b></p>
             <div class="autohide">
@@ -442,7 +456,7 @@ div#images div{
              </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 23 - Aug 30, 2017)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 23 - Aug 30, 2018)</a></b></p>
             <div class="autohide">
                 <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!</p>
                 <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 8 hours, up to 480 orbs.</p>
