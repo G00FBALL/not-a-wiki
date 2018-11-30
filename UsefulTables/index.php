@@ -14,7 +14,7 @@
     <input type="number" id="dlinput" name="dragon lineage" value="0">
     <br />
     <label for="archinput"><b>Archon Heritage</b>: </label>
-    <input type="checkbox" id="archinput" name="archon heritage">
+    <input type="checkbox" id="archinput" name="archon heritage" value="false">
     <button id="dlsubmit">Submit</button>
   </div>
   <br />
@@ -90,19 +90,19 @@ function buildBubbleSwarmTable(l, h) {
 
 $( "#dlsubmit" ).click(function(){
   var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").value;
+  var heritage = document.getElementById("archinput").is(":checked");
   $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
 })
 
 $( "#dlinput" ).change(function(){
   var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").value;
+  var heritage = document.getElementById("archinput").is(":checked");
   $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
 })
 	
 $( "#archinput" ).change(function(){
   var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").value;
+  var heritage = document.getElementById("archinput").is(":checked");
   $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
 })
 </script>
