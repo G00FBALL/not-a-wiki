@@ -102,7 +102,7 @@ $( "#dlinput" ).change(function(){
 	
 $( "#archinput" ).change(function(){
   var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").checked);
+  var heritage = document.getElementById("archinput").checked;
   $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
 })
 </script>
