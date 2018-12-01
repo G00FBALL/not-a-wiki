@@ -65,7 +65,7 @@
 <p><b>Cost</b>: 33.6 OcQig (33.6E177) 
 <p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 2000%. 
 <p><b>Effect</b>: Also increase the production of every Grand Balance target based on maximum mana. 
-<p><b>Formula</b>: round10 * (2.15 * log(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier.
+<p><b>Formula</b>: round10 * (2.15 * log10(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier.
 <br/>
 <br/>
 <p><b>C520</b> - <b>For</b>: Dwarf - <b>Research Name</b>: Blacksmithing 

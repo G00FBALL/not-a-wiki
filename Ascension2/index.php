@@ -759,7 +759,7 @@
 <p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
+<p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
@@ -822,7 +822,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-<p><b>Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
+<p><b>Formula</b>: (0.5 * (log10(x) ^ 1.5), where x is amount of current gems.</p>
 <br/>
 
 <p><b>Neutral - Dragon</b>
@@ -853,7 +853,7 @@
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend Log(FC chance) (even for Unique, odd for Non-Unique).</p>
+<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend log10(FC chance) (even for Unique, odd for Non-Unique).</p>
 <p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is FC chance.</p>
 <p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is FC chance.</p>
 <br/>

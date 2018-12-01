@@ -73,7 +73,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Clicking Arts</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>
-<p><b>Formula</b>: floor(10 * log(1 + x^2)) / 10, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Formula</b>: floor(10 * log10(1 + x^2)) / 10, where x is your Treasure Clicks (Total) stat.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenHeritage.png" alt="Elven Heritage" align="middle"><b> Elven Heritage</b></p>
 <p><b>Cost</b>: 5000 Elven Coins</p>

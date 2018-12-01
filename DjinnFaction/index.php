@@ -37,7 +37,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png" align="middle"> Second Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png" align="middle"> Third Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
@@ -69,7 +69,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenWill.png" align="middle"> Forbidden Will</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Faction Coins found in this Reincarnation.</p>
-<p><b>Formula</b>: (0.2 * log(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
+<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
@@ -115,7 +115,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaCreatures.png" align="middle"> Mana Creatures</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-<p><b>Formula</b>: (2.25 * log(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
+<p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Fairy and Demon Coins</p>

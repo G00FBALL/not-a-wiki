@@ -65,7 +65,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" alt="Smiley face" align="middle"> Underground Citadels</b></p>
 <p><b>Cost</b>: 50 Qid (5E49)</p>
 <p><b>Effect</b>: Increase the production of Citadels based on the gems you own.</p>
-<p><b>Formula</b>: round(210*log(x)1.5)%, where x is your current number of gems.</p>
+<p><b>Formula</b>: round(210*log10(x)1.5)%, where x is your current number of gems.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" alt="Smiley face" align="middle"> Indestructible Treasure</b></p>
 <p><b>Cost</b>: 500 Qid (5E50)</p>
@@ -176,7 +176,7 @@
 <p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
+<p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>

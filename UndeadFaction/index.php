@@ -109,7 +109,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
 <p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
-<p><b>Formula</b>: (0.018 * log(1 + x) ^ 2)%, where x is offline bonus.</p>
+<p><b>Formula</b>: (0.018 * log10(1 + x) ^ 2)%, where x is offline bonus.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
@@ -134,7 +134,7 @@
 <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (75 * log(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (75 * log10(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>

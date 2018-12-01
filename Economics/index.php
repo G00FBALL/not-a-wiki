@@ -135,7 +135,7 @@
 <p><b>Requirement</b>: 100B (1E11) Faction Coins (Found this Game)</p>
 <p><b>Cost</b>: 502.3 SpSxg (5.023E206)</p>
 <p><b>Effect</b>: Increase Royal Exchange Bonus based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>: floor(3.5 * log(1 + x))%, where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: floor(3.5 * log10(1 + x))%, where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b>E480</b> - <b>For</b> All Factions - <b>Research Name</b>: Undercutting</p>
 <p><b>Requirement</b>: 15000 max mana</p>

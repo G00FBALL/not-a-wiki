@@ -81,7 +81,7 @@
 <p><b>Cost</b>: 5000 Goblin Coins</p>
 <p><b>Requirements</b>: Goblin Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of gems you own.</p>
-<p><b>Formula</b>: floor(7.5 * log(1+x))%, where x is the amount of gems you have.</p>
+<p><b>Formula</b>: floor(7.5 * log10(1+x))%, where x is the amount of gems you have.</p>
 <hr>
 <p><b>Goblin Research Requirements</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank Quest</b></p>
@@ -92,7 +92,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank</b></p>
 <p>Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.</p>
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
-<p><b>Effect</b>: floor(log(x+1)^(3.1/(1.1 + 0.1*A))) where x is your current amount of Coins and A is ascension.</p>
+<p><b>Effect</b>: floor(log10(x+1)^(3.1/(1.1 + 0.1*A))) where x is your current amount of Coins and A is ascension.</p>
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Goblin Banks Quest"</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
@@ -113,7 +113,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
 <p><b>Requirements</b>: Goblin Master trophy and 8 hours activity time (This Game) of Goblin's Greed.<p>
 <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
-<p><b>Formula</b>: (0.25 * log(1 + x) ^ 0.95), where x is gems owned.</p>
+<p><b>Formula</b>: (0.25 * log10(1 + x) ^ 0.95), where x is gems owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Slave Market Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

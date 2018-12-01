@@ -1256,7 +1256,7 @@
             <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-            <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.
+            <p><b>Formula</b>: log10(1 + x)3 + A, where x is your total faction coins stat.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
             <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
             <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
@@ -1960,7 +1960,7 @@
             <p><b>Formula</b>: floor(0.25 * ln(x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-            <p><b>Formula</b>: log(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.
+            <p><b>Formula</b>: log10(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
             <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
             <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.</p>
@@ -2248,7 +2248,7 @@ div#images div{
             <p><b>Cost</b>: 1 Qaqag (1e135)</p>
             <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
             <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests Additional casts of Reap Interests increase its seconds worth of production.</p>
-            <p><b>Formula</b>: (y ^ (1 + 0.24 * Log(1 + x))) , where y is TC original power and x is amount of TC casts.</p>
+            <p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))) , where y is TC original power and x is amount of TC casts.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b>
             <p><b>Requirement</b>: Freemason's Hall, Mercenary Neutral Alignment</p>
@@ -2823,7 +2823,7 @@ div#images div{
     <area target="" research="Upgrade 21: Tattered Cloaks<p>Requirement: R40+, 4000 Witch Conclaves<p>Cost: 17.82Ocd (1.782e58)<p>Increase Witch Conclaves production by 50%." coords="2,112,52,160" shape="rect">
     <area target="" research="Upgrade 22: Black Cats<p>Requirement: R40+, 10000 Witch Conclaves<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Witch Conclave production by 50%" coords="56,110,107,162" shape="rect">
     <area target="" research="Upgrade 23: Tarot Cards<p>Requirement: R100+, 18000 Witch Conclaves<p>Cost: 2.139 Qag (2.139e123)<p><p>Increase the production of Witch Conclaves by 100%." coords="107,110,161,161" shape="rect">
-    <area target="" research="Unique Building<p>At R16, The Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests. Boosting their production based on the amount of gold you own and unlocking more unique perks for the building.<p>Requirement: 1750 Witch Conclaves, Research, Play as Evil and Goblin, R16+<p>Formula: floor(log(x+1)^(3.1/(1.1 + 0.1*A))) where x is your current amount of Coins and A is ascension.. " coords="351,112,538,162" shape="rect">
+    <area target="" research="Unique Building<p>At R16, The Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests. Boosting their production based on the amount of gold you own and unlocking more unique perks for the building.<p>Requirement: 1750 Witch Conclaves, Research, Play as Evil and Goblin, R16+<p>Formula: floor(log10(x+1)^(3.1/(1.1 + 0.1*A))) where x is your current amount of Coins and A is ascension.. " coords="351,112,538,162" shape="rect">
 </map>
 <p><b>Dark Temple Upgrades (Alignment: Evil)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/darktemplesgroup1.png" usemap="#darktemplesgroup1-map">

@@ -131,7 +131,7 @@
 <p><b>Requirement</b>: Secrets of the Underworld (as Drow)</p>
 <p><b>Cost</b>: 103.7 QaSxg (1.037E197)</p>
 <p><b>Effect</b>: Increase the production of Spider Sanctuaries based on offline Bonus</p>
-<p><b>Formula</b>: (3.25 * log(1 + x) ^ 3.25)%, where x is offline production bonus multiplier.</p>
+<p><b>Formula</b>: (3.25 * log10(1 + x) ^ 3.25)%, where x is offline production bonus multiplier.</p>
 <br/>
 <p><b>W520</b> - <b>For</b> Drow - <b>Research Name</b>: Stalking</p>
 <p><b>Requirement</b>: Research Exertion (W50) and Ambush (W405)</p>
@@ -173,7 +173,7 @@
 <p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon</p>
 <p><b>Cost</b>: 4.249 Qivg (4.249e78)</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.</p>
-<p><b>Formula</b>: floor(25 * log(1 + x) ^ 2.5), where x is clicks (this game).</p>
+<p><b>Formula</b>: floor(25 * log10(1 + x) ^ 2.5), where x is clicks (this game).</p>
 <br/>
 <p><b>W3050</b> - <b>For</b> Mercenary - <b>Research Name</b>: Flanking</p>
 <p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).</p>

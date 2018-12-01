@@ -1,11 +1,11 @@
 function randint(a,b){return a+Math.floor(Math.random()*(++b-a))}
 
-function log(x, b) {
+function log10(x, b) {
   if (b === undefined) {
-  return Math.log(x);
+  return Math.log10(x);
   }
   else {
-  return Math.log(x) / Math.log(b);
+  return Math.log10(x) / Math.log10(b);
   } 
 }
 
@@ -451,7 +451,7 @@ function olJoin(a) {
         },
         // transfusion
         142518: function(save) {
-          return Math.floor(4.5 * Math.log(1 + this.stat(save, 16)));
+          return Math.floor(4.5 * Math.log10(1 + this.stat(save, 16)));
         },
         // resurrection
         127108: function(save) {
@@ -467,7 +467,7 @@ function olJoin(a) {
         },
         // demonology
         126712: function(save) {
-          return Math.floor(Math.pow(Math.log(1 + this.faction_coins(save)), 1.3));
+          return Math.floor(Math.pow(Math.log10(1 + this.faction_coins(save)), 1.3));
         },
         // swarming
         132112: function(save) {
@@ -558,7 +558,7 @@ function olJoin(a) {
         },
         // inflation
         153121: function(save) { 
-          return Math.floor(3.5 * Math.log(1 + this.faction_coins(save)) / Math.LN10);
+          return Math.floor(3.5 * Math.log10(1 + this.faction_coins(save)) / Math.LN10);
         }
       },
       middle: [
@@ -597,7 +597,7 @@ function olJoin(a) {
         },
         // faceless bloodline
         183: function(save) {
-          return Math.floor(10 * Math.pow(Math.log(1 + this.stat(save,16)) / Math.LN10,3));
+          return Math.floor(10 * Math.pow(Math.log10(1 + this.stat(save,16)) / Math.LN10,3));
         },
         // vacuumancy
         130903: function(save) {
@@ -656,7 +656,7 @@ function olJoin(a) {
       multiplicative: {
         // balanced economy
         497: function(save) {
-          return 1 + 0.02 * Math.log(1 + this.faction_coins(save)) / Math.LN10;
+          return 1 + 0.02 * Math.log10(1 + this.faction_coins(save)) / Math.LN10;
         },
         // mana crypts
         79: function(save) { return 1.2; }

@@ -82,7 +82,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png align=middle><b> First Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png align=middle><b> Second Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
@@ -92,7 +92,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png align=middle><b> Third Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png align=middle><b> First Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
@@ -102,7 +102,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png align=middle><b> Second Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png align=middle><b> Third Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
@@ -112,7 +112,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png align=middle><b> First Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png align=middle><b> Second Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
@@ -122,5 +122,5 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdStoneFragment.png align=middle><b> Third Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
 <?php include "../scripts/footer.html"; ?>

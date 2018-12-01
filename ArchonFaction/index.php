@@ -9,13 +9,13 @@
 <p><b>Alignment</b>: (Order)</p>
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.15 * log(1 + x) ^ 2.15), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.15 * log10(1 + x) ^ 2.15), where x is mana produced in this game.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png" align="middle"> Second Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
@@ -25,7 +25,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png" align="middle"> Third Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"> Archon Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
@@ -57,7 +57,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
 <p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (2.5 * log(1 + x) ^ 2.5), where x is clicks made.</p>
+<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is clicks made.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonFriendshipPact.png" align="middle">  Archon Friendship Pact</b></p>
@@ -97,7 +97,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game.</p>
-<p><b>Formula</b>: (2.35 * log(1 + x) ^ 2.35), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Angel and Undead Coins</p>

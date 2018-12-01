@@ -199,5 +199,5 @@
 <p><b>Requirement</b>: Secrets of the Underworld (as Drow) 
 <p><b>Cost</b>: 103.7 QaSxg (1.037E197) 
 <p><b>Effect</b>: Increase the production of Spider Sanctuaries based on offline Bonus 
-<p><b>Formula</b>: 3.25 * log(1+x) ^ 3.25, where x is Offline Production Bonus.
+<p><b>Formula</b>: 3.25 * log10(1+x) ^ 3.25, where x is Offline Production Bonus.
 <?php include "../scripts/footer.html"; ?>

@@ -32,7 +32,7 @@
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>
-    <p><b>Formula</b>: log(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.</p>
+    <p><b>Formula</b>: log10(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
     <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>

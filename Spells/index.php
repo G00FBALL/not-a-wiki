@@ -929,7 +929,7 @@
     <p><b>Requirement</b>: Tyrant Garrison</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-    <p><b>Formula</b>: (y ^ (1 + 0.24 * Log(1 + x))), where y is TC original power and x is amount of TC casts.</p>
+    <p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
     <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
     <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
     <br/>
@@ -995,7 +995,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation"></p>
 <p><b>Cost</b>: 123456 mana</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.15 * log(1 + x) ^ 2.15), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.15 * log10(1 + x) ^ 2.15), where x is mana produced in this game.</p>
 <br/>
                 <p><b>Proof of Chaos</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="All Creation" align="middle"></p>

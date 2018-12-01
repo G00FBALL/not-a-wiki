@@ -12,7 +12,7 @@
 <p><b>Formula</b>: (0.045 * x ^ 0.45), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
-<p><b>Formula</b>: (1.65 * log(1 + x) ^ 1.65), where x is FC chance.</p>
+<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
 <p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.0025 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
@@ -21,7 +21,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png" align="middle"> Second Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
@@ -31,7 +31,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdStoneFragment.png" align="middle"> Third Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
@@ -53,7 +53,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (3.5 * log(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
+<p><b>Formula</b>: (3.5 * log10(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Magical Shards</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
@@ -78,7 +78,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TreasureMosaic.png" align="middle"> Treasure Mosaic</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
 <p><b>Effect</b>: Additionally increase Maximum Mana based on Faction Coins found in this game.(additively)</p>
-<p><b>Formula</b>: (27.5 * log(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
+<p><b>Formula</b>: (27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
@@ -108,7 +108,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
-<p><b>Formula</b>: (2.2 * log(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
+<p><b>Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130</p>

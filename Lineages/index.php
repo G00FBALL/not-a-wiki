@@ -417,7 +417,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" align="middle"><b> Dwarf Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.</p>
-    <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
+    <p><b>Formula</b>: (0 .5 * log10(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
     <hr>
     <H6>Drow</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"><b> Drow Lineage</b></p>
@@ -451,7 +451,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Combo Strike's combo bonus increases by 5% per 30 seconds spent this game.</p>
     <p><b>Effect</b>: While Combo Strike is active, increase the production of all buildings based on the current Combo Strike bonus.</p>
-    <p><b>Formula</b>: (2 * log((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.</p>
+    <p><b>Formula</b>: (2 * log10((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.</p>
     <hr>
     <H6>Dragon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonLineage.png" align="middle"><b> Dragon Lineage</b></p>

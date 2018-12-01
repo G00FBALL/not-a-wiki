@@ -290,7 +290,7 @@
     <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase the production of Non-Unique buildings based on Faction Coins found in this game.</p>
-    <p><b>Formula</b>: (16 * log(1 + x) ^ 2), where x is Faction Coins found.</p>
+    <p><b>Formula</b>: (16 * log10(1 + x) ^ 2), where x is Faction Coins found.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonFangArtifact.png" alt="Dragon Fang" align="middle"><b> Dragon Fang</b></p>
     <p><b>Clue</b>: Found in the Wyrm Dens.</p>

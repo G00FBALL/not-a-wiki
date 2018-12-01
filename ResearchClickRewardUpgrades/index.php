@@ -9,7 +9,7 @@
 <p><b>Requirement</b>: 200,000 clicks (This Game) 
 <p><b>Cost</b>: 676 Spqag (6.76E146) 
 <p><b>Effect</b>: Increase clicking reward based on the amount of gems you own. 
-<p><b>Formula</b>: round(20 * log(1 + x))%, where x is your current number of gems.
+<p><b>Formula</b>: round(20 * log10(1 + x))%, where x is your current number of gems.
 <br/>
 <br/>
 <p><b>C330</b> - <b>For</b>: All Factions - <b>Research Name</b>: Overload 

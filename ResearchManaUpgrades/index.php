@@ -173,5 +173,5 @@
 <p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon
 <p>Cost: 21.46 Qivg (2.146E79)
 <p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.
-<p><b>Formula</b>: floor 25 * log(1+x) ^ 2.5, where x is clicks (this game).
+<p><b>Formula</b>: floor 25 * log10(1+x) ^ 2.5, where x is clicks (this game).
 <?php include "../scripts/footer.html"; ?>

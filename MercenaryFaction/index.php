@@ -77,7 +77,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Smiley face" align="middle"> Trade Lords (<u>For Neutral Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: When assistants finds a faction coin, they also find a faction coin for every other faction. Also increases mana regeneration based on faction coins gained in this game.</p>
-<p><b>Formula</b>: floor(10 * log(1 + x ^ 1.5))/10, where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: floor(10 * log10(1 + x ^ 1.5))/10, where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade5.png" alt="Smiley face" align="middle"> Mercenary Upgrade 5</b></p>
 <p><b>Cost</b>: 3,000 FC</p>
@@ -233,7 +233,7 @@
 <p><b>Requirement</b>: Tyrant Garrison</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-<p><b>Formula</b>: (y ^ (1 + 0.24 * Log(1 + x))), where y is TC original power and x is amount of TC casts.</p>
+<p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
 <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
 <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
 <br/>

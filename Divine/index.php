@@ -24,7 +24,7 @@
 <p><b>Requirement</b>: Play 8 hours Offline (as Undead) (This Game)</p>
 <p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your offline production bonus.</p>
-<p><b>Formula</b>: (2.75 * log(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier.</p>
+<p><b>Formula</b>: (2.75 * log10(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier.</p>
 <br/>
 <p><b>D50</b> - <b>For</b> Elf - <b>Research Name</b>: Hallowing</p>
 <p><b>Requirement</b>: 15,000 Good Buildings(as Angel)</p>

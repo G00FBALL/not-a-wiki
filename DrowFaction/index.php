@@ -144,7 +144,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
 <p><b>Requirements</b>: Drow Master trophy and 8 hours activity time (This Game) of Combo Strike.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
-<p><b>Formula</b>: (0.0008 * log(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
+<p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
 <p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
@@ -191,5 +191,5 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-<p><b>Formula</b>: (5 * log(x) ^ 1.5), where x is amount of current gems.</p>
+<p><b>Formula</b>: (5 * log10(x) ^ 1.5), where x is amount of current gems.</p>
 <?php include "../scripts/footer.html"; ?>

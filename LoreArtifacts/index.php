@@ -327,7 +327,7 @@
     <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>
-    <p><b>Formula</b>: log(1 + x)3 + A, where x is your total faction coins stat.</p>
+    <p><b>Formula</b>: log10(1 + x)3 + A, where x is your total faction coins stat.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
     <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
     <p><b>Formula</b>: 10 * (x * (A + 1)) ^ 0.85, where x is the number of buildings you own.</p>
@@ -378,7 +378,7 @@
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.</p>
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
-    <p><b>Formula</b>: (log(x) / 100)% where x is FC chance.</p>
+    <p><b>Formula</b>: (log10(x) / 100)% where x is FC chance.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
     <p><b>Clue</b>: Really, raise your chances.</p>

@@ -16,13 +16,13 @@
 <p><b>Alignment</b>: (Order)</p>
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.15 * log(1 + x) ^ 2.15), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.15 * log10(1 + x) ^ 2.15), where x is mana produced in this game.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png" align="middle"> Second Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
@@ -32,7 +32,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png" align="middle"> Third Iron Fragment</b></p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"> Archon Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
@@ -64,7 +64,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
 <p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (2.5 * log(1 + x) ^ 2.5), where x is clicks made.</p>
+<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is clicks made.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonFriendshipPact.png" align="middle">  Archon Friendship Pact</b></p>
@@ -104,7 +104,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game.</p>
-<p><b>Formula</b>: (2.35 * log(1 + x) ^ 2.35), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Angel and Undead Coins</p>
@@ -168,7 +168,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png" align="middle"> Second Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png" align="middle"> Third Crystal Fragment</b></p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
@@ -200,7 +200,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenWill.png" align="middle"> Forbidden Will</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Faction Coins found in this Reincarnation.</p>
-<p><b>Formula</b>: (0.2 * log(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
+<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
@@ -246,7 +246,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaCreatures.png" align="middle"> Mana Creatures</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-<p><b>Formula</b>: (2.25 * log(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
+<p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Fairy and Demon Coins</p>
@@ -288,7 +288,7 @@
 <p><b>Formula</b>: (0.045 * x ^ 0.45), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
-<p><b>Formula</b>: (1.65 * log(1 + x) ^ 1.65), where x is FC chance.</p>
+<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
 <p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.0025 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
@@ -297,7 +297,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png" align="middle"> Second Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
@@ -307,7 +307,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdStoneFragment.png" align="middle"> Third Stone Fragment</b></p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
-<p><b>Chance</b>: (log(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
@@ -329,7 +329,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (3.5 * log(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
+<p><b>Formula</b>: (3.5 * log10(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Magical Shards</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
@@ -354,7 +354,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TreasureMosaic.png" align="middle"> Treasure Mosaic</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
 <p><b>Effect</b>: Additionally increase Maximum Mana based on Faction Coins found in this game.(additively)</p>
-<p><b>Formula</b>: (27.5 * log(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
+<p><b>Formula</b>: (27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
@@ -384,7 +384,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Cost</b>: 100 Qid (1e50) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
-<p><b>Formula</b>: (2.2 * log(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
+<p><b>Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130</p>
@@ -569,7 +569,7 @@
 <p><b>Druid Bloodline</b></p>
 <p><b>Effect</b>: Increase mana regeneration based on maximum mana.</p>
 <p><b>Old Formula</b>: 0.03 * x ^ 0.9, where x is your maximum mana.</p>
-<p><b>New Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log(x) ^ 8), where x is your maximum mana.</p>
+<p><b>New Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8), where x is your maximum mana.</p>
 <br/>
 <p><b>Druid Set</b></p>
 <p><b>Effect</b>: Increase production of all buildings based on their quantity.</p>
@@ -623,7 +623,7 @@
 <p><b>S400 - Capacity</b></p>
 <p><b>Effect</b>: Increase maximum mana based on the highest amount of spells cast in a single game.</p>
 <p><b>Old Formula</b>: (35 * x ^ 0.35), where x is your Spell Cast (Max) stat.</p>
-<p><b>New Formula</b>: (1.2 * log(x) ^ 4.8), where x is your Spell Cast (Max) stat.</p>
+<p><b>New Formula</b>: (1.2 * log10(x) ^ 4.8), where x is your Spell Cast (Max) stat.</p>
 <br/>
 <p><b>C305 - Golemcraft</b></p>
 <p><b>Old Requirement</b>: 5 days as Titans (Total across all R)</p>
@@ -653,7 +653,7 @@
 <p><b>Reap Interests</b></p>
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
 <p><b>Old Formula</b>: (y ^ (1 + 0.2 * Log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
-<p><b>New Formula</b>: (y ^ (1 + 0.24 * Log(1 + x))), where y is TC original power and x is amount of TC casts.</p>
+<p><b>New Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
 <br/>
 <p><b>Temporal Flux</b></p>
 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
@@ -792,12 +792,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
 <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
-<p><b>Formula</b>: (0.25 * log(1 + x) ^ 0.95), where x is gems owned.</p>
+<p><b>Formula</b>: (0.25 * log10(1 + x) ^ 0.95), where x is gems owned.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
-<p><b>Formula</b>: (0.018 * log(1 + x) ^ 2)%, where x is offline bonus.</p>
+<p><b>Formula</b>: (0.018 * log10(1 + x) ^ 2)%, where x is offline bonus.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDemonicHeritage.png" align="middle"> Advanced Demonic Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Demon Coins</p>
@@ -827,7 +827,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
 <p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
-<p><b>Formula</b>: (0.0008 * log(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
+<p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
@@ -901,8 +901,8 @@
 <p><b>Drow</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"> Crystal Servants (DW 4,3) (Upgrade 12)</b></p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-<p><b>Old Formula</b>: (0.75 * (log(x) ^ 2), where x is amount of current gems.</p>
-<p><b>New Formula</b>: (5 * log(x) ^ 1.5), where x is amount of current gems.</p>
+<p><b>Old Formula</b>: (0.75 * (log10(x) ^ 2), where x is amount of current gems.</p>
+<p><b>New Formula</b>: (5 * log10(x) ^ 1.5), where x is amount of current gems.</p>
 <hr>
 <p><b>Union Changes</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" align="middle"> Druids Union</b></p>
@@ -912,16 +912,16 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" align="middle"> Undead Union</b></p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Old Formula</b>: (10 * log(1 + x) ^ 2), where x is offline bonus multiplier.</p>
-<p><b>New Formula</b>: (75 * log(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
+<p><b>Old Formula</b>: (10 * log10(1 + x) ^ 2), where x is offline bonus multiplier.</p>
+<p><b>New Formula</b>: (75 * log10(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"> Dragon Union</b></p>
 <p><b>Chaos Dragon Union</b></p>
 <p><b>Old Formula</b>: FC chance</p>
-<p><b>New Formula</b>: Log(FC chance)</p>
+<p><b>New Formula</b>: log10(FC chance)</p>
 <br/>
 <p><b>Old Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend <b>FC chance</b> (even for Unique, odd for Non-Unique).</p>
-<p><b>New Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend <b>Log(FC chance)</b> (even for Unique, odd for Non-Unique).</p>
+<p><b>New Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend <b>log10(FC chance)</b> (even for Unique, odd for Non-Unique).</p>
 <p><b>Old  Formula</b>: Non-Unique (25 * 0.6 * x ^ 0.6), where x is FC chance.</p>
 <p><b>New Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is FC chance.</p>
 <p><b>Old  Formula</b>:  Unique (0.6 * x ^ 0.6), where x is FC chance.</p>
@@ -935,8 +935,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"> Dwarven Union</b></p>
 <p><b>Chaos Dwarven Union</b></p>
 <p><b>Effect</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Old Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
-<p><b>New Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
+<p><b>Old Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
+<p><b>New Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"> Drow Union</b></p>
 <p><b>Balance Drow Union</b></p>
@@ -1093,7 +1093,7 @@
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/UndeadSet.png align=middle><b> Undead Set</b></p>
 <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
-<p><b>Old Formula</b>: (35 * log(1 + x) ^ 3.25), where x is offline Multiplier.</p>
+<p><b>Old Formula</b>: (35 * log10(1 + x) ^ 3.25), where x is offline Multiplier.</p>
 <p><b>New Formula</b>: (9 * ln(1 + x) ^3), where x is offline Multiplier.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/GoblinSet.png align=middle><b> Goblin Set</b></p>
@@ -1122,7 +1122,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Added Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (10 * log(1 + x) ^ 2), where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (10 * log10(1 + x) ^ 2), where x is offline bonus multiplier.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitansUnion.png" alt="Titans Union" align="middle"> <b>Titans Union</b></p>
 <p><b>Effect Requirement</b>: R111+
@@ -1384,7 +1384,7 @@ div#images div{
 <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p>
 <p><b>Cost</b>: Free</p>
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on Faction Coins found in this game.</p>
-<p><b>Formula</b>: (16 * log(1 + x) ^ 2), where x is Faction Coins found.</p>
+<p><b>Formula</b>: (16 * log10(1 + x) ^ 2), where x is Faction Coins found.</p>
 <hr>
 <p><b>Added</b>: Prestige Factions</p>
 <p><b>Drow</b></p>
@@ -1430,7 +1430,7 @@ div#images div{
 <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-<p><b>Formula</b>: (log(x) ^ 2), where x is amount of current gems.</p>
+<p><b>Formula</b>: (log10(x) ^ 2), where x is amount of current gems.</p>
 <hr>
 <p><b>Dwarf</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
@@ -1459,7 +1459,7 @@ div#images div{
 <p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log(1 + x) + 1) / 10 + 2, for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
+<p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2, for each digit of x, sum(2 * (mod(x,10) ^ y)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
@@ -1534,7 +1534,7 @@ div#images div{
 <p><b>Undead Set</b>: Formula and Chance changed</p>
 <p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
 <p><b>Old Formula</b>: (45 * x ^ 0.6), where x is offline Multiplier.</p>
-<p><b>New Formula</b>: 35 * log(1 + x) ^ 3.25, where x is offline Multiplier.</p>
+<p><b>New Formula</b>: 35 * log10(1 + x) ^ 3.25, where x is offline Multiplier.</p>
 <br/>
 <p><b>Dusty Coffin</b></p>
 <p><b>Old Chance</b>: ((1 / (30 + x ^ 1.75))%, where x is time this game in seconds.</p>
@@ -1767,7 +1767,7 @@ div#images div{
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" alt="DwarfPerk3" align="middle"><b> Dwarf Perk 4</b></p>
     <p><b>Requirement</b>: R105+</p>
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.</p>
-    <p><b>Formula</b>: (0 .5 * log(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
+    <p><b>Formula</b>: (0 .5 * log10(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
 <br/>
     <p><b>Drow Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" alt="DrowPerk4" align="middle"><b> Drow Perk 4</b></p>

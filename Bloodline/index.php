@@ -25,7 +25,7 @@
 <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game and autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
 <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.</p>
 <p><b>Effect</b>: Multiplies Faction Coin find chance based on clicks made.</p>
-<p><b>Formula</b>: floor(log( 1 + x) * 10)</p>
+<p><b>Formula</b>: floor(log10( 1 + x) * 10)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelBloodline.png" alt="Angel" align="middle"><b> Angel</b></p>
 <p><b>Effect</b>: Increase mana regeneration based on spells cast this game.</p>
@@ -49,7 +49,7 @@
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidBloodline.png" alt="Druid" align="middle"><b> Druid</b></p>
 <p><b>Effect</b>: Increase mana regeneration based on maximum mana.</p>
-<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log(x) ^ 8), where x is your maximum mana.</p>
+<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8), where x is your maximum mana.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png" alt="Faceless" align="middle"><b> Faceless</b></p>
 <p><b>Effect</b>: Increase maximum mana based on mana produced in this game.</p>

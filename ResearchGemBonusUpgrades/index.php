@@ -16,7 +16,7 @@
 <p><b>Requirement</b>: 200,000 clicks (This Game) 
 <p><b>Cost</b>: 676 Spqag (6.76E146) 
 <p><b>Effect</b>: Increase clicking reward based on the amount of gems you own. 
-<p><b>Formula</b>: round(20 * log(1 + x))%, where x is your current number of gems.
+<p><b>Formula</b>: round(20 * log10(1 + x))%, where x is your current number of gems.
 <br/>
 <br/>
 <p><b>C175</b> - <b>For</b>: Goblin - <b>Research Name</b>: Gemcutting 
@@ -58,7 +58,7 @@
 <p><b>Requirement</b>: Have 2x Gems in Abdication Treasury 
 <p><b>Cost</b>: 1.117 NoQig (1.117E180) 
 <p><b>Effect</b>: Increase production bonus from gems based on the gems you have in your abdication treasury. 
-<p><b>Formula</b>: floor(0.45 * log(1+ x)), where x is the amount of gems you will gain upon abdication.
+<p><b>Formula</b>: floor(0.45 * log10(1+ x)), where x is the amount of gems you will gain upon abdication.
 <br/>
 <br/>
 <p><b>E400</b> - <b>For</b>: All Factions - <b>Research Name</b>: Conversion 

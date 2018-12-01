@@ -316,7 +316,7 @@
                 <p>AR3</p>
                 <p><b>Cost</b>: 100 NoQag (1e152)</p>
                 <p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-                <p><b>Formula</b>: (2.5 * log(1 + x) ^ 2.5), where x is clicks made.</p>
+                <p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is clicks made.</p>
                 <hr>
                 <h6>Djinn</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
@@ -329,7 +329,7 @@
                 <p>DJ2</p>
                 <p><b>Cost</b>: 10 NoQag (1e151)</p>
                 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Faction Coins found in this Reincarnation.</p>
-                <p><b>Formula</b>: (0.2 * log(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
+                <p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
                 <p>DJ3</p>
@@ -342,7 +342,7 @@
                 <p>MK1</p>
                 <p><b>Cost</b>: 1 NoQag (1e150)</p>
                 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-                <p><b>Formula</b>: (3.5 * log(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
+                <p><b>Formula</b>: (3.5 * log10(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Magical Shards</b></p>
                 <p>MK2</p>
@@ -521,7 +521,7 @@
                 <p><b>Mercenary Template</b>: DN4</p>
                 <p><b>Cost</b>: 50 Qid (5E49)</p>
                 <p><b>Effect</b>: Increase the production of Citadels based on the gems you own.</p>
-                <p><b>Formula</b>: round(210 * log(x)1.5)%, where x is your current number of gems.</p>
+                <p><b>Formula</b>: round(210 * log10(x)1.5)%, where x is your current number of gems.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
                 <p><b>Mercenary Template</b>: DN5</p>
@@ -621,7 +621,7 @@
                 <p>MK5</p>
                 <p><b>Cost</b>: 1 DQig (1e159)</p>
                 <p><b>Effect</b>: Additionally increase Maximum Mana based on Faction Coins found in this game.</p>
-                <p><b>Formula</b>: (27.5 * log(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
+                <p><b>Formula</b>: (27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
                 <p>MK6</p>
@@ -667,7 +667,7 @@
                 <p><b>Mercenary Template</b>: EL9</p>
                 <p><b>Cost</b>: 500 Qa (5E17)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>
-                <p><b>Formula</b>: floor(10 * log(1 + x^2)) / 10, where x is your Treasure Clicks (Total) stat.</p>
+                <p><b>Formula</b>: floor(10 * log10(1 + x^2)) / 10, where x is your Treasure Clicks (Total) stat.</p>
                 <hr>
                 <h6>Angel</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalGatesFactionUpgrade.png" align="middle"> Magical Gates</b></p>
@@ -868,7 +868,7 @@
                 <p>AR9</p>
                 <p><b>Cost</b>: 1 QaQig (1e165)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game.</p>
-                <p><b>Formula</b>: (2.35 * log(1 + x) ^ 2.35), where x is mana produced in this game.</p>
+                <p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
                 <hr>
                 <h6>Djinn</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
@@ -888,7 +888,7 @@
                 <p>DJ9</p>
                 <p><b>Cost</b>: 1 QaQig (1e165)</p>
                 <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-                <p><b>Formula</b>: (2.25 * log(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
+                <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
                 <hr>
                 <h6>Makers</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Everlasting Materials</b></p>
@@ -901,7 +901,7 @@
                 <p>MK8</p>
                 <p><b>Cost</b>: 100 TQig (1e164)</p>
                 <p><b>Effect</b>: Additionally increase Maximum Mana based on Faction Coins found in this game.</p>
-                <p><b>Formula</b>: (27.5 * log(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
+                <p><b>Formula</b>: (27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
                 <p>MK9</p>
@@ -1125,7 +1125,7 @@
                 <p><b>Requirement</b>: R116+, Drow Union</p>
                 <p><b>Cost</b>: 1 Notg (1e120)</p>
                 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-                <p><b>Formula</b>: (0.5 * (log(x) ^ 1.5), where x is amount of current gems.</p>
+                <p><b>Formula</b>: (0.5 * (log10(x) ^ 1.5), where x is amount of current gems.</p>
                 <hr>
                 <h6>Dragon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"> Fang Food</b></p>

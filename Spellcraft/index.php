@@ -109,7 +109,7 @@
 <p><b>Requirement</b>: 2 days as Faceless (Total across all R)</p>
 <p><b>Cost</b>: 225.2 OcQig (2.252E179)</p>
 <p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.</p>
-<p><b>Formula</b>: (2.5 * log(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
+<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
 <br/>
 <p><b>S330</b> - <b>For</b> All Factions - <b>Research Name</b>: Reverberation</p>
 <p><b>Requirement</b>: Research Cryomancy (A200) & Weather Control (D225)</p>
@@ -127,7 +127,7 @@
 <p><b>Requirement</b>: Research Projection (S215) &amp; Domination (W275)</p>
 <p><b>Cost</b>: 13.66 QaSxg (1.366E196)</p>
 <p><b>Effect</b>: Increase maximum mana based on the highest amount of spells cast in a single game.</p>
-<p><b>Formula</b>: (1.2 * log(x) ^ 4.8), where x is your Spell Cast (Max) stat.</p>
+<p><b>Formula</b>: (1.2 * log10(x) ^ 4.8), where x is your Spell Cast (Max) stat.</p>
 <br/>
 <p><b>S435</b> - <b>For</b> Drow - <b>Research Name</b>: Spellbinding</p>
 <p><b>Requirement</b>: 14400s (4 hour) Combo Strike Cast Time (This Game)</p>

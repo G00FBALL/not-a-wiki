@@ -48,7 +48,7 @@
 <p><b>Requirement</b>: 200,000 clicks (This Game)</p>
 <p><b>Cost</b>: 676 Spqag (6.76E146)</p>
 <p><b>Effect</b>: Increase clicking reward based on the amount of gems you own.</p>
-<p><b>Formula</b>: round(20 * log(1 + x))%, where x is your current number of gems.</p>
+<p><b>Formula</b>: round(20 * log10(1 + x))%, where x is your current number of gems.</p>
 <br/>
 <p><b>C135</b> - <b>For</b> All Factions - <b>Research Name</b>: Reinforcing</p>
 <p><b>Requirement</b>: 250,000 clicks (This Game, as Elf)</p>
@@ -97,7 +97,7 @@
 <p><b>Cost</b>: 33.6 OcQig (33.6E177)</p>
 <p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 2000%.</p>
 <p><b>Effect</b>: Also increase the production of every Grand Balance target based on maximum mana.</p>
-<p><b>Formula</b>: 10 * (2.15 * log(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier.</p>
+<p><b>Formula</b>: 10 * (2.15 * log10(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier.</p>
 <br/>
 <p><b>C305</b> - <b>For</b> All Factions - <b>Research Name</b>: Golemcraft</p>
 <p><b>Requirement</b>: 2 days as Titans (Total across all R)</p>

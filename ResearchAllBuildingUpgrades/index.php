@@ -32,7 +32,7 @@
 <p><b>Requirement</b>: 5 days as Faceless (Total across all R)</p>
 <p><b>Cost</b>: 225.2 OcQig (2.252E179)</p>
 <p><b>Effect</b>: Increase the production of all buildings by a fraction of your offline production bonus.</p>
-<p><b>Formula</b>: 2.5 *log(1 +x)^2.5, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
+<p><b>Formula</b>: 2.5 *log10(1 +x)^2.5, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
 <br/>
 <p><b>S330</b> - <b>For</b>: All Factions - <b>Research Name</b>: Reverberation</p>
 <p><b>Requirement</b>: Research Cryomancy (A200) &amp; Weather Control (D225)</p>
@@ -82,7 +82,7 @@
 <p><b>Requirement</b>: Play 8 hours Offline (as Undead) (This Game)</p>
 <p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your offline production bonus.</p>
-<p><b>Formula</b>: 2.75 * log(1 + x)^2.75, where x is your offline production bonus.</p>
+<p><b>Formula</b>: 2.75 * log10(1 + x)^2.75, where x is your offline production bonus.</p>
 <br/>
 <p><b>D480</b> - <b>For</b>: All Factions - <b>Research Name</b>: Mercy</p>
 <p><b>Requirement</b>: 12h Spent as each Good, Evil and Neutral alignment (This R)</p>
