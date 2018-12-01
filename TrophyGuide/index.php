@@ -252,7 +252,7 @@
             <td><center>Exchange Master</p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png"></td>
             <td>500 Dc (5e35)</p>A1+ Free</td>
             <td>Purchase 500 Royal Exchanges in a single game.</td>
-            <td>Increase Royla Exchange bonus by 5%.</td>
+            <td>Increase Royal Exchange bonus by 5%.</td>
             <td>This can be done any R but the higher the R the easier it will be.</td>
         <tr>
        </tr>
