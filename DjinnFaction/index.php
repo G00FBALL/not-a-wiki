@@ -26,7 +26,7 @@
 <p><b>3</b>: Increase Faction Coin find chance</p>
 <p><b>4</b>: Increase Maximum Mana</p>
 <br/>
-<p><b>Formula</b>: (1.5 * (ln(1 + x) ^ 1.5) * (y ^ 0.8)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
+<p><b>Formula</b>: (1.725 * (ln(1 + x) ^ 1.25) * (y ^ 0.65)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Crystal Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png" align="middle"> First Crystal Fragment</b></p>
@@ -127,7 +127,7 @@
 <p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
-<p><b>Formula</b>: + 1.25 multiplier to exponent of maelstrom formulas.</p>
+<p><b>Formula</b>: + 1.15 multiplier to exponent of maelstrom formulas.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
