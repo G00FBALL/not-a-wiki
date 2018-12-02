@@ -198,12 +198,13 @@
                     $('#R115FCChaMul').css('display', 'none');
                 }
                 //Gem Costs for next R
-                if (rei <= 40) {
-                    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1e' + (24 + rei * 3).toFixed(0) + '</b> gems.');
-                } else if (rei <= 100){
-                    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1.778e' + (rei * 2 - 62).toFixed(0) + '</b> gems.');
+				var nextR = rei + 1;
+                if (rei < 40) {
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (24 + nextR * 3).toFixed(0) + '</b> gems.');
+                } else if (rei < 100){
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1.778e' + (nextR * 2 - 62).toFixed(0) + '</b> gems.');
                 } else {
-                    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((rei - 1) , (rei - 101))).toExponential(4) + '</b> gems.');
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((nextR-1) , (nextR - 101))).toExponential(4) + '</b> gems.');
                 }
                 //Unlocks next R
                 switch (rei) {
