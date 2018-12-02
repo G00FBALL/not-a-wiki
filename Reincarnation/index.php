@@ -43,8 +43,8 @@
                     <p id="R70AddResSlo"></p>
                     <p id="R85AssPerR"></p>
                     <p id="R100ManRegPerR"></p>
-					<p id="R108ProdUBTimeDiff"></p>
-					<p id="R115FCChaMul"></p>
+                    <p id="R108ProdUBTimeDiff"></p>
+                    <p id="R115FCChaMul"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -64,7 +64,7 @@
                 if (rei > 99){
                     var asc = 2;
                 }
-                //Reincarnation Perks
+                // Reincarnation Perks
                 if (rei >= 1) {
                     var bonus = (rei < 40) ? 25 * rei : (Math.pow(1 + 0.25 * rei, Math.pow(0.1, asc)) - 1) * 100;
                     $('#R1AllBuiPro').text('Production of all buildings is increased by ' + bonus.toFixed(1) + '%.');
@@ -117,7 +117,7 @@
                 if (rei >= 12) {
                     var bonus = 35 * rei;
                     $('#R12MaxMan').text('Maximum mana is increased by +' + bonus.toFixed(0) + '.');
-                    if (rei >= 45) $('#R12MaxMan').append(' Total increase is +' + (bonus + 70 * Math.pow(rei, 1.2)).toFixed(0) + '.');
+                    if (rei >= 45) $('#R12MaxMan').append(' Total increase is +' + (bonus + 70 * Math.pow(rei, 1.25)).toFixed(0) + '.');
                     $('#R12MaxMan').css('display', 'block');
                 } else {
                     $('#R12MaxMan').css('display', 'none');
@@ -184,28 +184,29 @@
                 } else {
                     $('#R100ManRegPerR').css('display', 'none');
                 }
-		if (rei >= 108) {
-		    $('#R108ProdUBTimeDiff').text('Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation');
-                    $('#R108ProdUBTimeDiff').css('display', 'block');
-		} else {
-		    $('#R108ProdUBTimeDiff').css('display', 'none');
-		}
-		if (rei >= 115) {
+                if (rei >= 108) {
+                    $('#R108ProdUBTimeDiff').text('Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation');
+                            $('#R108ProdUBTimeDiff').css('display', 'block');
+                } else {
+                    $('#R108ProdUBTimeDiff').css('display', 'none');
+                }
+                if (rei >= 115) {
                     var bonus = 1.2 * Math.pow(rei, 1.05);
                     $('#R115FCChaMul').text('Faction coin chance is increased ' + bonus.toFixed(0) + ' times if they match your Faction, Bloodline or Artifact Set.');
                     $('#R115FCChaMul').css('display', 'block');
                 } else {
                     $('#R115FCChaMul').css('display', 'none');
                 }
-		//Gem Costs for next R
-                if (rei <= 40) {
-                    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1e' + (24 + rei * 3).toFixed(0) + '</b> gems.');
-                } else if (rei <= 100){
-                    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>1.778e' + (rei * 2 - 62).toFixed(0) + '</b> gems.');
+                //Gem Costs for next R
+                var nextR = rei + 1;
+                if (rei < 40) {
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (24 + nextR * 3).toFixed(0) + '</b> gems.');
+                } else if (rei < 100){
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1.778e' + (nextR * 2 - 62).toFixed(0) + '</b> gems.');
                 } else {
-		    $('#RNex').html('To Reincarnate to R' + rei.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((rei - 1) , (rei - 101))).toExponential(4) + '</b> gems.');
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((nextR-1) , (nextR - 101))).toExponential(4) + '</b> gems.');
                 }
-		//Unlocks next R
+                //Unlocks next R
                 switch (rei) {
                     case 2:
                         Runl('Vanilla Challenges');
@@ -261,6 +262,12 @@
                     case 116:
                         Runl('Prestige Factions')
                         break;
+                    case 125:
+                        Runl('Archon, Djinn, and Makers Factions');
+                        break;
+                    case 130:
+                        Runl('Archon, Djinn, and Makers Base Unions');
+                        break;
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
@@ -276,7 +283,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Reincarnation Perks</a></b></p>
             <div class="autohide">
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
-                <p><b>Added</b>: Increase Production by (5 * x)%/p></p>
+                <p><b>Added</b>: Increase Production by (25 * x)%</p>
                 <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
                 <p><b>Added</b>: Increase FC chance multiplicatively by (x ^ 1.1)%.</p>
                 <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
@@ -293,13 +300,13 @@
                 <p><b>25th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Royal Exchange bonus by (0.5 * x)%.</p>
                 <p><b>41st Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.1))%.</p>
+                <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.15))%.</p>
                 <p><b>45th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
                 <p><b>50th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase FC chance by (x)%.</p>
                 <p><b>60th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline.</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
                 <p><b>70th Reincarnation and up</b></p>
                 <p><b>Added</b>: You gain 1 additional Research slot for each branch.</p>
                 <p><b>85th Reincarnation and up</b></p>
@@ -308,9 +315,9 @@
                 <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.</p>
                 <p><b>108th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
-                <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7, where x is highest faction time and y is faction time of the Unique Building affinity</p>
+                <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
                 <p><b>115th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05) if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
             </div>
         </div>
         <div class="shelementwhole">
