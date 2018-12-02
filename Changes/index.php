@@ -629,7 +629,7 @@
 <p><b>Old Requirement</b>: 5 days as Titans (Total across all R)</p>
 <p><b>New Requirement</b>: 2 days as Titans (Total across all R)</p>
 <p><b>Effect</b>: Gain assistants based on time spent offline in this Reincarnation.(in hours).</p>
-<p><b>Old Formula</b>: (2 * (x / 3600) * 0.5), where x is your Time Spent Offline (this R).</p>
+<p><b>Old Formula</b>: (2 * (x / 3600) ^ 0.5), where x is your Time Spent Offline (this R).</p>
 <p><b>New Formula</b>: (0.15 * (x / 60) ^ 0.95), where x is your Time Spent Offline(this R)..</p>
 <br/>
 <p><b>A305 - Engraving</b></p>
