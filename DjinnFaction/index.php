@@ -118,7 +118,7 @@
 <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Cost</b>: 100 Qid (1e50) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Qid (1e48) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>

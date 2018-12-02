@@ -1316,6 +1316,20 @@
             <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
             <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
             <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
+            <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
+            <p><b>Cost</b>: 1 QiQag (1.e138).</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by 2000%</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"><b> Djinn Mask</b></p>
+            <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
+            <p><b>Cost</b>: 1 QiQag (1.e138)</p>
+            <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"><b> Makers Mask</b></p>
+            <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
+            <p><b>Cost</b>: 1 QiQag (1.e138)</p>
+            <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Faction Quest Upgrades</a></b></p>
         <div class="autohide">

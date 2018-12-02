@@ -107,7 +107,7 @@
 <p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
-<p><b>Cost</b>: 100 Qid (1e50) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Qid (1e48) Angel and Undead Coins</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 15%.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
@@ -249,7 +249,7 @@
 <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Cost</b>: 100 Qid (1e50) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Qid (1e48) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
@@ -382,7 +382,7 @@
 <p><b>Formula</b>: (0.1 * x ^ 0.375), where x spells cast in this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
-<p><b>Cost</b>: 100 Qid (1e50) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Qid (1e48) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
 <p><b>Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
 <hr>
