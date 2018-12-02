@@ -64,7 +64,7 @@
                 if (rei > 99){
                     var asc = 2;
                 }
-                //Reincarnation Perks
+                // Reincarnation Perks
                 if (rei >= 1) {
                     var bonus = (rei < 40) ? 25 * rei : (Math.pow(1 + 0.25 * rei, Math.pow(0.1, asc)) - 1) * 100;
                     $('#R1AllBuiPro').text('Production of all buildings is increased by ' + bonus.toFixed(1) + '%.');
@@ -117,7 +117,7 @@
                 if (rei >= 12) {
                     var bonus = 35 * rei;
                     $('#R12MaxMan').text('Maximum mana is increased by +' + bonus.toFixed(0) + '.');
-                    if (rei >= 45) $('#R12MaxMan').append(' Total increase is +' + (bonus + 70 * Math.pow(rei, 1.2)).toFixed(0) + '.');
+                    if (rei >= 45) $('#R12MaxMan').append(' Total increase is +' + (bonus + 70 * Math.pow(rei, 1.25)).toFixed(0) + '.');
                     $('#R12MaxMan').css('display', 'block');
                 } else {
                     $('#R12MaxMan').css('display', 'none');
@@ -198,7 +198,7 @@
                     $('#R115FCChaMul').css('display', 'none');
                 }
                 //Gem Costs for next R
-				var nextR = rei + 1;
+                var nextR = rei + 1;
                 if (rei < 40) {
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (24 + nextR * 3).toFixed(0) + '</b> gems.');
                 } else if (rei < 100){
@@ -261,6 +261,12 @@
                         break;
                     case 116:
                         Runl('Prestige Factions')
+                        break;
+                    case 125:
+                        Runl('Archon, Djinn, and Makers Factions');
+                        break;
+                    case 130:
+                        Runl('Archon, Djinn, and Makers Base Unions');
                         break;
                     default:
                         $('#RUnl').css('display', 'none');
