@@ -36,7 +36,8 @@
 <p><b>Tip</b>: This is done at the end of R0.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png" alt="Stoic Resistance" align="middle"> <b>Stoic Resistance</b> (R34-39)</p>
-<p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation without abdicating since the start of a new Reincarnation.(1 Oc = cost of the 1st reincarnation)</p>
+<p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation without abdicating since the start of a new Reincarnation.</p>
+<p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
 <p><b>Effect</b>: Increase base clicking reward by 1 T (1E12).</p>
 <p><b>Cost</b>: 10 gold</p>
 <?php include "../scripts/footer.html"; ?>

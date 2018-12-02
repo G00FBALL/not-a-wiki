@@ -1869,6 +1869,7 @@
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretUpgrade.png" alt="Stoic Resistance" align="middle"> Stoic Resistance</b></p>
             <p><b>Requirements</b>: Gather 1 Oc gems without abdicating. (1 Oc = Cost of the 1st reincarnation)
+            <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
             <p><b>Cost</b>: 10
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase base clicking reward by 1T (1E12)</p>

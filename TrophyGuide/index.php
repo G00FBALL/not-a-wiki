@@ -813,7 +813,7 @@
         <tr>
             <td><center>Stoic Resistance</p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png"></td>
             <td>10 Coins</p>A1+ Free</td>
-            <td>Get 1 Oc (1e27) gems in the first game of a reincarnation.<p>A1, 177.8 Qi (1.778e20)<p>A2, 1.54 Qa (1.54e15)</td>
+            <td>Get 1 Oc (1e27) gems in the first game of a reincarnation.<p>Gems Needed: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)<p></td>
             <td>Increase base clicking reward by 1 T (1E12).</td>
             <td>Can be done R34 (Dwary) and at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
         </tr>
