@@ -146,6 +146,7 @@
 <p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
 <p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+<p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
 <p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>

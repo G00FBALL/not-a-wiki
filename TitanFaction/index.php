@@ -140,6 +140,7 @@
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
 <p><b>Formula</b>: (0.2 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+<p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

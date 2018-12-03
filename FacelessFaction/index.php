@@ -150,6 +150,7 @@
 <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+<p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

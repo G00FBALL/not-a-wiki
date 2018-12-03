@@ -12,6 +12,7 @@
     <p><b>Note</b>: Levels only need to be bought once.</p>
     <p><b>Note</b>: All Lineages <b>REQUIRE</b> Prestige Faction. (Ascension 1 only)</p>
     <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+    <p><b>Formula</b>: (1 + 0.3 * level)</p>
     <div class="shlisting">
         <div class="shelementwhole" style="padding-left: 20px">
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>

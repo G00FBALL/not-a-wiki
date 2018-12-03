@@ -107,6 +107,7 @@
 <p><b>Effect</b>: Increase the production of all buildings based on trophies unlocked.</p>
 <p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is amount of trophies unlocked.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+<p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

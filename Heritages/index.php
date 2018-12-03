@@ -12,6 +12,7 @@
 <p><b>Neutral Prestige</b>: 400b each of Dwarf and Drow</p>
 <p><b>Mercenary</b>: 100000 each of all.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+<p><b>Formula</b>: (1 + 0.3 * level)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyHeritage.png" alt="Fairy Heritage" align="middle"><b> Fairy Heritage</b></p>
 <p><b>Cost</b>: 5000 Fairy Coins</p>
