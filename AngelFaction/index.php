@@ -111,6 +111,7 @@
 <p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.<p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
 <p><b>Formula</b>: (5 * x ^ 0.25)%, where x is spells cast this game.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

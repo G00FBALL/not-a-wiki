@@ -212,6 +212,7 @@
 <p><b>Requirements</b>: Druid Master trophy and 8 hours activity time (This Game) of Grand Balance.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
 <p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

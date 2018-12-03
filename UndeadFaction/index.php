@@ -110,6 +110,7 @@
 <p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
 <p><b>Formula</b>: (0.018 * log10(1 + x) ^ 2)%, where x is offline bonus.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

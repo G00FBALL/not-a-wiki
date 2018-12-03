@@ -166,6 +166,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
 <p><b>Requirements</b>: Dragon Master trophy and 8 hours activity time (This Game) of Dragon's Breath.<p>
 <p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
 <p><b>Discription</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>

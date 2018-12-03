@@ -112,6 +112,7 @@
 <p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * ln(1 + x) ^ 1.5)%, where x is amount of clicks this reincarnation.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

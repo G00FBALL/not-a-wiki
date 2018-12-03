@@ -147,6 +147,7 @@
 <p><b>Requirements</b>: Drarf Master trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increased the production of all buildings based on the amount ofexcavations and excavation resets (This R).</p>
 <p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y)), where x is excavations and y is excavation resets this R (ruby and free resets).</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
 <p><b>Discription</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>

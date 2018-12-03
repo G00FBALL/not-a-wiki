@@ -109,6 +109,7 @@
 <p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
 <p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>

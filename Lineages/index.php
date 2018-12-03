@@ -11,6 +11,7 @@
     <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication)</p>
     <p><b>Note</b>: Levels only need to be bought once.</p>
     <p><b>Note</b>: All Lineages <b>REQUIRE</b> Prestige Faction. (Ascension 1 only)</p>
+    <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
     <div class="shlisting">
         <div class="shelementwhole" style="padding-left: 20px">
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>

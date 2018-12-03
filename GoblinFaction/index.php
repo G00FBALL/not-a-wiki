@@ -114,6 +114,7 @@
 <p><b>Requirements</b>: Goblin Master trophy and 8 hours activity time (This Game) of Goblin's Greed.<p>
 <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
 <p><b>Formula</b>: (0.25 * log10(1 + x) ^ 0.95), where x is gems owned.</p>
+<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Slave Market Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
