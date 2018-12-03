@@ -55,9 +55,100 @@
                 $('#RUnl').html('This Reincarnation unlocks <b>' + unl + '</b>.');
                 $('#RUnl').css('display', 'block');
             }
+            function GetANerfValue(bonus, reqR, asc) {
+                // R40 and R100 have A-nerfs, so if reqR is >= 40, don't A-nerf twice, but only once
+                if (reqR >= 40)  {asc -= 1;}
+                if (reqR >= 100) {asc -= 1;}
+                return (Math.pow(1 + bonus / 100, Math.pow(0.1, asc)) - 1) * 100;
+            }
+            // Array of "tuples" containing:
+            //  * Req R
+            //  * element to put data in
+            //  * whether it's A-nerfed
+            //  * decimals of precision (for bonus text)
+            //  * function to calculate bonus (rNum -> bonusValue)
+            //  * function to create bonus text (rNum -> bonus (already toFixed) -> string)
+            var RBenefits = [
+                [ 1, '#R1AllBuiPro', true, 1
+                , function(rei) {return 25 * rei;}
+                , function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
+                ],
+                [ 1, '#R1OffPro', true, 1
+                , function(rei) {return 500 * rei;}
+                , function(rei, bonus) {return 'Offline production is increased by ' + bonus + '%.';}
+                ],
+                [ 1, '#R1FCChaMul', false, 1
+                , function(rei) {return rei;}
+                , function(rei, bonus) {return 'Faction coin chance is increased by ' + bonus + '%.';}
+                ],
+                [ 1, '#R1MpS', false, 1
+                , function(rei) {return Math.floor(12.5 * (Math.pow(1 + 8 * rei, 0.5) - 1) / 2) / 10;}
+                , function(rei, bonus) {return 'Mana regeneration is increased by +' + bonus + ' m/s.';}
+                ],
+                [ 2, '#R2GemPro', false, 1
+                , function(rei) {return 0.2 * rei;}
+                , function(rei, bonus) {return 'Gem production is increased by +' + bonus + '%.';}
+                ],
+                [ 5, '#R5Ass', true, 1
+                , function(rei) {return 2 * rei;}
+                , function(rei, bonus) {return 'Add ' + rei + ' assistants and their production is increased by ' + bonus + '%.';}
+                ],
+                [ 10, '#R10AllBuiPro', true, 1
+                , function(rei) {return Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimTot').val()), 0.65);}
+                , function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
+                ],
+                [ 12, '#R12MaxMan', false, 0
+                , function(rei) {return 35 * rei;}
+                , function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '.';}
+                ],
+                [ 20, '#R20ProEacBui', true, 1
+                , function(rei) {return 0.01 * rei * parseInt($('#R20SpeBui').val());}
+                , function(rei, bonus) {return 'Given buildings\' production is increased by ' + bonus + '%.';}
+                ],
+                [ 25, '#R25RE', false, 1
+                , function(rei) {return 0.5 * rei;}
+                , function(rei, bonus) {return 'Royal Exchange bonus is increased by ' + bonus + '%.';}
+                ],
+                [ 41, '#R41UniBuiPro', true, 1
+                , function(rei) {return 1200 * Math.pow(rei, 1.15);}
+                , function(rei, bonus) {return 'Unique Buildings\' production is increased by ' + bonus + '%.';}
+                ],
+                [ 45, '#R45MaxMan', false, 0
+                , function(rei) {return 70 * Math.pow(rei, 1.25);}
+                , function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '. Total increase is +' + ((70 * Math.pow(rei, 1.25)) + 35 * rei).toFixed(0) + '.';}
+                ],
+                [ 50, '#R50FCChaAdd', false, 1
+                , function(rei) {return Math.pow(rei, 1.1);}
+                , function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
+                ],
+                [ 60, '#R60FCChaMul', false, 0
+                , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
+                , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
+                ],
+                [ 70, '#R70AddResSlo', false, 0
+                , function(rei) {return 0;}
+                , function(rei, bonus) {return 'You gain 1 additional Research slot for each branch.';}
+                ],
+                [ 85, '#R85AssPerR', false, 0
+                , function(rei) {return rei * 4;}
+                , function(rei, bonus) {return 'Add ' + bonus + ' additional Assistants.';}
+                ],
+                [ 100, '#R100ManRegPerR', false, 0
+                , function(rei) {return rei;}
+                , function(rei, bonus) {return 'Increase Mana Regeneration by ' + bonus + '%.';}
+                ],
+                [ 108, '#R108ProdUBTimeDiff', false, 0
+                , function(rei) {return 0;}
+                , function(rei, bonus) {return 'Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation';}
+                ],
+                [ 115, '#R115FCChaMul', false, 0
+                , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
+                , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction, Bloodline or Artifact Set.';}
+                ]
+            ];
             function CalRBen() {
                 var rei = parseInt($('#ReiCosRei').val());
-                 //get Ascension# for Prodnerf
+                //get Ascension# for Prodnerf
                 if (rei > 39){
                     var asc = 1;
                 }
@@ -65,137 +156,38 @@
                     var asc = 2;
                 }
                 // Reincarnation Perks
-                if (rei >= 1) {
-                    var bonus = (rei < 40) ? 25 * rei : (Math.pow(1 + 0.25 * rei, Math.pow(0.1, asc)) - 1) * 100;
-                    $('#R1AllBuiPro').text('Production of all buildings is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R1AllBuiPro').css('display', 'block');
-                } else {
-                    $('#R1AllBuiPro').css('display', 'none');
+                var arrLen = RBenefits.length;
+                for (var i = 0; i < arrLen; ++i) {
+                    var benefit = RBenefits[i];
+
+                    var reqR         = benefit[0];
+                    var htmlElem     = benefit[1];
+                    var doANerf      = benefit[2];
+                    var decimalCount = benefit[3];
+                    var bonusFun     = benefit[4];
+                    var textFun      = benefit[5];
+
+                    if (rei >= reqR) {
+                        var bonus = bonusFun(rei);
+                        if (rei >= 40 && doANerf === true) {
+                            bonus = GetANerfValue(bonus, reqR, asc);
+                        }
+                        $(htmlElem).text(textFun(rei, bonus.toFixed(decimalCount)));
+                        $(htmlElem).css('display', 'block');
+                    } else {
+                        $(htmlElem).css('display', 'none');
+                    }
                 }
-                if (rei >= 1) {
-                    var bonus = (rei < 40) ? 500 * rei : (Math.pow(1 + 5 * rei, Math.pow(0.1, asc)) - 1) * 100;
-                    $('#R1OffPro').text('Offline production is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R1OffPro').css('display', 'block');
-                } else {
-                    $('#R1OffPro').css('display', 'none');
-                }
-                if (rei >= 1) {
-                    var bonus = rei;
-                    $('#R1FCChaMul').text('Faction coin chance is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R1FCChaMul').css('display', 'block');
-                } else {
-                    $('#R1FCChaMul').css('display', 'none');
-                }
-                if (rei >= 1) {
-                    var bonus = Math.floor(12.5 * (Math.pow(1 + 8 * rei, 0.5) - 1) / 2) / 10;
-                    $('#R1MpS').text('Mana regeneration is increased by +' + bonus.toFixed(1) + ' m/s.');
-                    $('#R1MpS').css('display', 'block');
-                } else {
-                    $('#R1MpS').css('display', 'none');
-                }
-                if (rei >= 2) {
-                    var bonus = 0.2 * rei;
-                    $('#R2GemPro').text('Gem production bonus is increased by +' + bonus.toFixed(1) + '%.');
-                    $('#R2GemPro').css('display', 'block');
-                } else {
-                    $('#R2GemPro').css('display', 'none');
-                }
-                if (rei >= 5) {
-                    var bonus = (rei < 40) ? 2 * rei : (Math.pow(1 + 0.02 * rei, Math.pow(0.1, asc)) - 1) * 100;
-                    $('#R5Ass').text('Add ' + rei + ' assistants and their production is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R5Ass').css('display', 'block');
-                } else {
-                    $('#R5Ass').css('display', 'none');
-                }
+                // Hide/show inputs based on R
                 if (rei >= 10) {
-                    var bonus = (rei < 40) ? Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimTot').val()), 0.65) : (Math.pow(1 + Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimTot').val()), 0.65) / 100, Math.pow(0.1, asc)) - 1) * 100;
-                    $('#R10AllBuiPro').text('Production of all buildings is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R10AllBuiPro, #R10').css('display', 'block');
+                    $('#R10').css('display', 'block');
                 } else {
-                    $('#R10AllBuiPro, #R10').css('display', 'none');
-                }
-                if (rei >= 12) {
-                    var bonus = 35 * rei;
-                    $('#R12MaxMan').text('Maximum mana is increased by +' + bonus.toFixed(0) + '.');
-                    if (rei >= 45) $('#R12MaxMan').append(' Total increase is +' + (bonus + 70 * Math.pow(rei, 1.25)).toFixed(0) + '.');
-                    $('#R12MaxMan').css('display', 'block');
-                } else {
-                    $('#R12MaxMan').css('display', 'none');
+                    $('#R10').css('display', 'none');
                 }
                 if (rei >= 20) {
-                    var bonus = (rei < 40) ? 0.01 * rei * parseInt($('#R20SpeBui').val()) : (Math.pow(1 + 0.0001 * rei * parseInt($('#R20SpeBui').val()), Math.pow(0.1, asc)) - 1) * 100;
-                    $('#R20ProEacBui').text('Given buildings\' production is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R20ProEacBui, #R20').css('display', 'block');
+                    $('#R20').css('display', 'block');
                 } else {
-                    $('#R20ProEacBui, #R20').css('display', 'none');
-                }
-                if (rei >= 25) {
-                    var bonus = 0.5 * rei;
-                    $('#R25RE').text('Royal Exchange bonus is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R25RE').css('display', 'block');
-                } else {
-                    $('#R25RE').css('display', 'none');
-                }
-                if (rei >= 41) {
-                    var bonus = (rei < 100) ? 1200 * Math.pow(rei, 1.15) : (Math.pow(1 + 12 * Math.pow(rei, 1.15), Math.pow(0.1, (asc - 1))) - 1) * 100;
-                    $('#R41UniBuiPro').text('Unique Buildings\' production is increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R41UniBuiPro').css('display', 'block');
-                } else {
-                    $('#R41UniBuiPro').css('display', 'none');
-                }
-                if (rei >= 45) {
-                    var bonus = 70 * Math.pow(rei, 1.25);
-                    $('#R45MaxMan').text('Maximum mana is increased by +' + bonus.toFixed(0) + '. Total increase is +' + (bonus + 35 * rei).toFixed(0) + '.');
-                    $('#R45MaxMan').css('display', 'block');
-                } else {
-                    $('#R45MaxMan').css('display', 'none');
-                }
-                if (rei >= 50) {
-                    var bonus = Math.pow(rei, 1.1);
-                    $('#R50FCChaAdd').text('Faction coin chance is multiplicatively increased by ' + bonus.toFixed(1) + '%.');
-                    $('#R50FCChaAdd').css('display', 'block');
-                } else {
-                    $('#R50FCChaAdd').css('display', 'none');
-                }
-                if (rei >= 60) {
-                    var bonus = 1.2 * Math.pow(rei, 1.05);
-                    $('#R60FCChaMul').text('Faction coin chance is increased ' + bonus.toFixed(0) + ' times if they match your Faction or Bloodline.');
-                    $('#R60FCChaMul').css('display', 'block');
-                } else {
-                    $('#R60FCChaMul').css('display', 'none');
-                }
-                if (rei >= 70) {
-                    $('#R70AddResSlo').text('You gain 1 additional Research slot for each branch.');
-                    $('#R70AddResSlo').css('display', 'block');
-                } else {
-                    $('#R70AddResSlo').css('display', 'none');
-                }
-                if (rei >= 85) {
-                    var bonus = rei * 4;
-                    $('#R85AssPerR').text('Add ' + bonus.toFixed(0) + ' additional Assistants.');
-                    $('#R85AssPerR').css('display', 'block');
-                } else {
-                    $('#R85AssPerR').css('display', 'none');
-                }
-                if (rei >= 100) {
-                    var bonus = rei;
-                    $('#R100ManRegPerR').text('Increase Mana Regeneration by ' + bonus.toFixed(1) + '%.');
-                    $('#R100ManRegPerR').css('display', 'block');
-                } else {
-                    $('#R100ManRegPerR').css('display', 'none');
-                }
-                if (rei >= 108) {
-                    $('#R108ProdUBTimeDiff').text('Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation');
-                            $('#R108ProdUBTimeDiff').css('display', 'block');
-                } else {
-                    $('#R108ProdUBTimeDiff').css('display', 'none');
-                }
-                if (rei >= 115) {
-                    var bonus = 1.2 * Math.pow(rei, 1.05);
-                    $('#R115FCChaMul').text('Faction coin chance is increased ' + bonus.toFixed(0) + ' times if they match your Faction, Bloodline or Artifact Set.');
-                    $('#R115FCChaMul').css('display', 'block');
-                } else {
-                    $('#R115FCChaMul').css('display', 'none');
+                    $('#R20').css('display', 'none');
                 }
                 //Gem Costs for next R
                 var nextR = rei + 1;
