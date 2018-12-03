@@ -80,8 +80,8 @@
                     $('#R1OffPro').css('display', 'none');
                 }
                 if (rei >= 1) {
-                    var bonus = Math.pow(rei, 1.1);
-                    $('#R1FCChaMul').text('Faction coin chance is multiplicatively increased by ' + bonus.toFixed(1) + '%.');
+                    var bonus = rei;
+                    $('#R1FCChaMul').text('Faction coin chance is increased by ' + bonus.toFixed(1) + '%.');
                     $('#R1FCChaMul').css('display', 'block');
                 } else {
                     $('#R1FCChaMul').css('display', 'none');
@@ -151,8 +151,8 @@
                     $('#R45MaxMan').css('display', 'none');
                 }
                 if (rei >= 50) {
-                    var bonus = rei;
-                    $('#R50FCChaAdd').text('Faction coin chance is increased by ' + bonus.toFixed(1) + '%.');
+                    var bonus = Math.pow(rei, 1.1);
+                    $('#R50FCChaAdd').text('Faction coin chance is multiplicatively increased by ' + bonus.toFixed(1) + '%.');
                     $('#R50FCChaAdd').css('display', 'block');
                 } else {
                     $('#R50FCChaAdd').css('display', 'none');
@@ -285,7 +285,7 @@
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
                 <p><b>Added</b>: Increase Production by (25 * x)%</p>
                 <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (x ^ 1.1)%.</p>
+                <p><b>Added</b>: Increase FC chance by (x)%.</p>
                 <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
                 <p><b>2nd Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Gem production bonus by (0.2 * x)%.</p>
@@ -304,7 +304,7 @@
                 <p><b>45th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
                 <p><b>50th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance by (x)%.</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (x ^ 1.1)%.</p>
                 <p><b>60th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
                 <p><b>70th Reincarnation and up</b></p>
