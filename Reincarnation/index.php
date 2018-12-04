@@ -22,7 +22,13 @@
     <div id="ReiCosCal">
         <table style="width:98%">
             <tr>
-                <th>Complete list of Reincarnation benefits <input id="ReiCosRei" type="number" min="0" max="160" value="1"><span id="R10"> with time(total) <input id="R10TimTot" type="number" min="0" max="876000" value="1"> in hours</span><span id="R20"> and <input id="R20SpeBui" type="number" min="0" max="9999999" value="1">buildings of given type.</span></th>
+                <th>
+                    Complete list of Reincarnation benefits:
+                    <input id="ReiCosRei" type="number" min="0" max="160" value="1">
+                    <span id="R10"> with time(total) <input id="R10TimTot" type="number" min="0" max="876000" value="1"> in hours</span>
+                    <span id="R20"> and <input id="R20SpeBui" type="number" min="0" max="9999999" value="1">buildings of given type.</span>
+                    <span id="R63"> Prismatic Breath active? <input id="R63PB" type="checkbox"></span>
+                </th>
             </tr>
             <tr>
                 <td id="Ben">
@@ -155,6 +161,11 @@
                 if (rei > 99){
                     var asc = 2;
                 }
+                // Boosted R num - Prismatic Breath (and stuff?)
+                var reiEff = rei;
+                if ($('#R63PB').is(':checked')) {
+                    reiEff *= 2;
+                }
                 // Reincarnation Perks
                 var arrLen = RBenefits.length;
                 for (var i = 0; i < arrLen; ++i) {
@@ -168,11 +179,11 @@
                     var textFun      = benefit[5];
 
                     if (rei >= reqR) {
-                        var bonus = bonusFun(rei);
+                        var bonus = bonusFun(reiEff);
                         if (rei >= 40 && doANerf === true) {
                             bonus = GetANerfValue(bonus, reqR, asc);
                         }
-                        $(htmlElem).text(textFun(rei, bonus.toFixed(decimalCount)));
+                        $(htmlElem).text(textFun(reiEff, bonus.toFixed(decimalCount)));
                         $(htmlElem).css('display', 'block');
                     } else {
                         $(htmlElem).css('display', 'none');
@@ -188,6 +199,11 @@
                     $('#R20').css('display', 'block');
                 } else {
                     $('#R20').css('display', 'none');
+                }
+                if (rei >= 63) {
+                    $('#R63').css('display', 'block');
+                } else {
+                    $('#R63').css('display', 'none');
                 }
                 //Gem Costs for next R
                 var nextR = rei + 1;
@@ -268,7 +284,7 @@
                         break;
                 }
             }
-            $('#ReiCosRei, #R10TimTot, #R20SpeBui').on('input', CalRBen);
+            $('#ReiCosRei, #R10TimTot, #R20SpeBui, #R63PB').on('input', CalRBen);
             CalRBen();
         </script>
     </div>
