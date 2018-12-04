@@ -238,7 +238,7 @@
                         Runl('Neutral Research');
                         break;
                     case 29:
-                        Runl('prestige research');
+                        Runl('Prestige Research');
                         break;
                     case 40:
                         Runl('Ascension 1');
@@ -256,7 +256,7 @@
                         Runl('Dragon Challenges');
                         break;
                     case 60:
-                        Runl('lineages');
+                        Runl('Lineages');
                         break;
                     case 75:
                         Runl('Mercenary Research');
