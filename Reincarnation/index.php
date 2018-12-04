@@ -354,7 +354,7 @@
                 <p><b>R100</b>: Second Ascension, New Alignments</p>
                 <p><b>R111</b>: Base Union</p>
                 <p><b>R116</b>: Prestige Factions</p>
-                <p><b>R116</b>: A2 Spells Tier 2</p>
+                <p><b>R120</b>: A2 Spells Tier 2</p>
                 <p><b>R125</b>: Archon, Djinn, and Makers Factions</p>
                 <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
             </div>
