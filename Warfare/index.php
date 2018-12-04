@@ -71,7 +71,7 @@
 <p><b>Requirement</b>: 850 Blood Frenzy (This R), Research Rampage (W135) &amp; Retribution (D150)</p>
 <p><b>Cost</b>: 627.6 Dqig (6.276E161)</p>
 <p><b>Effect</b>: While Blood Frenzy is active, increase mana regeneration based on the amount of assistants you own.</p>
- <p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 300%.</p>
+ <p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.</p>
  <p><b>Formula</b>: floor(0.25 x ^ 0.9), where x is your Assistants stat.</p>
 <br/>
 <p><b>W225</b> - <b>For</b> Angel - <b>Research Name</b>: Critical Strike</p>

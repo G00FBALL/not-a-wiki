@@ -612,7 +612,7 @@
 <p><b>Research</b></p>
 <p><b>S50 - Conjuration</b></p>
 <p><b>Effect</b>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.</p>
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 150%.</p>
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%.</p>
 <p><b>Old Formula</b>: floor(x /650), where x is the number of Goblin Banks you own.</p>
 <p><b>New Formula</b>: floor((x / 600) ^ 0.9), where x is the number of Goblin Banks you own.</p>
 <br/>

@@ -9,7 +9,7 @@
 <p><b>Requirement</b>: Have 6000 mana (as Fairy) (This Game)
 <p><b>Cost</b>: 318.8 Tqag (3.188E134)
 <p><b>Effect</b>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 150%.
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%.
 <p><b>Formula</b>: floor(x /650), where x is the number of Goblin Banks you own.
 <br/>
 <br/>
@@ -98,7 +98,7 @@
 <p><b>Requirement</b>: Have 10,000 Mana (as Druid)
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)
 <p><b>Effect</b>: Increase mana regeneration based on your current mana.
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 300%.
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.
 <p><b>Formula</b>: 0.5 * (100 - x)%, where x is percent of max mana.
 <br/>
 <br/>

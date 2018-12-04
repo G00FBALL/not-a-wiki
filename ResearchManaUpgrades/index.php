@@ -81,7 +81,7 @@
 <p><b>Requirement</b>: Have 10,000 Mana (as Druid)
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)
 <p><b>Effect</b>: Increase mana regeneration based on your current mana.
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 300%.
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.
 <p><b>Formula</b>: 0.5 * (100 - x)%, where x is percent of max mana.
 <br/>
 <br/>
@@ -166,7 +166,7 @@
 <p><b>Requirement</b>: 850 Blood Frenzy (This R), Research Rampage (W135) &amp; Retribution (D150)
 <p><b>Cost</b>: 627.6 Dqig (6.276E161)
 <p><b>Effect</b>: While Blood Frenzy is active, increase mana regeneration based on the amount of assistants you own.
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 300%. <p><b>Formula</b>: floor(0.25x^0.9), where x is your Assistants stat.
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%. <p><b>Formula</b>: floor(0.25x^0.9), where x is your Assistants stat.
 <br/>
 <br/>
 <p><b>W1400</b> - <b>For</b>: Dragon - <b>Research Name</b>: Cataclysm

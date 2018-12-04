@@ -92,7 +92,7 @@
 <p><b>Requirement</b>: Have 10,000 Mana (as Druid)</p>
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)</p>
 <p><b>Effect</b>: Increase mana regeneration based on your current mana.</p>
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 300%.</p>
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.</p>
 <p><b>Formula</b>: (0.5 * (100 - x))%, where x is percent of max mana.</p>
 <br/>
 <p><b>D290</b> - <b>For</b> All Factions - <b>Research Name</b>: Transubstantiation</p>
