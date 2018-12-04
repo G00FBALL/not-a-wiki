@@ -2167,7 +2167,7 @@ div#images div{
             <p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"><b> Mad Masks</b></p>
-            <p><b>Requirements</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
+            <p><b>Requirements</b>: R125+, Find all fragments of the Makers, Archon and Djinn masks.</p>
             <p><b>Cost</b>: 1 SpQag (1.e144)</p>
             <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
             <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a single Reincarnation.</p>

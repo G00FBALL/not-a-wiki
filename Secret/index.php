@@ -474,7 +474,7 @@ div#images div{
 <p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"> MAD Masks</b></p>
-<p><b>Requirement</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
+<p><b>Requirement</b>: R125+, Find all fragments of the Makers, Archon and Djinn masks.</p>
 <p><b>Effect</b>: Gives upgrade with same name.</p>
 <p><b>Upgrade Cost</b>: 1 SpQag (1.e144)</p>
 <p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
