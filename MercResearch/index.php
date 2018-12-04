@@ -106,6 +106,7 @@
 <p><b>Requirement</b>: 1B (1e9) Tax Collection cast, (Calefaction A1325) and (Psionics S1500).</p>
 <p><b>Cost</b>: 387 USsx (3.87.188)</p>
 <p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (good merc TC tiers also count).</p>
+<p><b>Effect</b>: Also increases offline spells cast amount multiplicatively by 1200%</p>
 <hr>
 <p><b>C3000</b>: For Mercenary - Spell Name: Customizing</p>
 <p><b>Requirement</b>: 9000 Excavations as Mercenary.</p>
