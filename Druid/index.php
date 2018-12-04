@@ -12,8 +12,20 @@
 <p><b>Effect</b>: Animal Companions (1,2) works faster</p>
 <p><b>Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
 <p><b>Upgrade</b>: Good for Druid</p>
-<p><b>Tips</b>:
-<p>Make sure your least-producing building still makes up a large proportion of your production (2% and up). This will necessarily balance the production of each of your other buildings around 9.09% (= 1/11). Upgrade buildings only as required to balance them. Building more Farms, Inns and Blacksmiths will increase the multiplier of the final cast of Grand Balance.</p>
+<p><b>Tips</b>
+<p>Buy the building upgrades of the amount before the arrow, then continue building without purchasing new building upgrades towards the amount after the arrow.</p>
+<p><b>Farms</b>: 300 -> 417 (Farming Tools)
+<p><b>Inns</b>: 200 -> 573 (Comfy Stools)</p>
+<p><b>Blacksmiths</b>: 200 -> 318 (Master Blacksmith)</p>
+<p><b>Deep Mines</b>: 300 -> 531 (Rare Veins)</p>
+<p><b>stone pillars</b>: 300 -> 312 (Glyph of Saving)</p>
+<p><b>alchemist labs</b>: 200 -> 326 (Gold Transmutation)</p>
+<p><b>monasteries</b>: 150 -> 285 (Fanaticism)</p>
+<p><b>labyrinths</b>: 75 -> 212 (Random Illusions)</p>
+<p><b>iron strongholds</b>: 25 -> 89 (Crenellations)</p>
+<p><b>ancient pyramids</b>: 10 -> 35 (Golden Sarcophagi)</p>
+<p><b>halls of legends</b>: 1 (Legends Among Legends)</p>
+<p><b>Note</b>: Don't forget to buy the upgrade Halls of Balance upgrade for 10 Dd</p>
 <hr>
 <p><b>Druid Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BalancedCurrentChallenges.png" alt="Balanced Current" align="middle"> <b>Balanced Current</b></p>
