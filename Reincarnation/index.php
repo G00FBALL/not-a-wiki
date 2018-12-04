@@ -24,7 +24,7 @@
             <tr>
                 <th>
                     Complete list of Reincarnation benefits:
-                    <input id="ReiCosRei" type="number" min="0" max="160" value="1">
+                    <input id="ReiCosRei" type="number" min="0" max="160" value="0">
                     <span id="R10"> with time(total) <input id="R10TimTot" type="number" min="0" max="876000" value="1"> in hours</span>
                     <span id="R20"> and <input id="R20SpeBui" type="number" min="0" max="9999999" value="1"> buildings of given type.</span>
                     <span id="R63"> Prismatic Breath active? <input id="R63PB" type="checkbox"></span>
