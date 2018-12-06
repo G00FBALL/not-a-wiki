@@ -25,7 +25,6 @@
 <p>1st clue required to unlock the Faceless Alliance.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BoneFragment2FactionUpgrade.png" alt="Smiley face" align="middle"><b> Bone Fragment 2</b></p>
-<p><b>Description</b>: 1st clue required to unlock the Faceless Alliance.</p>
 <p><p><b>Type</b>: Quest Artifact</p>
 <p><b>Unlock</b>: 30 Excavations</p>
 <p><b>Description</b>: 2nd clue required to unlock the Faceless Alliance.</p>
