@@ -58,10 +58,12 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: Fairy, R16+, 2250 Farms</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Enchanted Field</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr2.png" alt="Enchanted Field" align="middle"> Enchanted Field (Unique Building)</b></p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b>Effect</b>: Upgrade Farms to Enchanted Fields</p>
 <p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Spellweaveryr.png" alt="Enchanted Field" align="middle"> Spellweavery</b></p>
 <p><b>Requirement</b>: Enchanted Field</p>
 <p><b>Cost</b>: 1E121 coins, 1E6 Fairy coins</p>
@@ -73,11 +75,13 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: Elf, R16+, 1750 Warrior Barracks</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Training Grounds</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Elfr2.png" alt="Elven Training Grounds" align="middle"> Training Grounds (Unique Building)</b></p>
 <p><b>Requirement</b>: Training Grounds Quest</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b>Effect</b>: Upgrade Warrior Barracks To Elven Training Grounds</p>
 <p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Carpentryr.png" alt="Elven Training Grounds" align="middle"> Carpentry</b></p>
 <p><b>Requirement</b>: Elven Training Grounds</p>
 <p><b>Cost</b>: 1E121 coins, 1E6 Elven coins</p>
@@ -89,11 +93,13 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: Angel, R16+, 1500 Heaven's Gates</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Heaven's Domain</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Angelr2.png" alt="Heaven's Domain" align="middle"> Heaven's Domain (Unique Building)</b></p>
 <p><b>Requirement</b>: Buy "Heaven's Domain Quest"</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b>Effect</b>: Upgrade Heaven's Gate To Heaven's Domains</p>
 <p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Pantheonr.png" alt="Heaven's Domain Quest" align="middle"> Pantheon</b></p>
 <p><b>Requirement</b>: Heaven's Domain</p>
 <p><b>Cost</b>: 1E121 coins, 1E6 Angel coins</p>
@@ -104,11 +110,13 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: Goblin, R16+, 1750 Witch Conclaves</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Goblin Bank</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Goblinr2.png" alt="Goblin Banks" align="middle"> Goblin Bank (Unique Building)</b></p>
 <p><b>Requirement</b>: Buy "Goblin Banks Quest"</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b>Effect</b>: Upgrade Witch Conclaves To Goblin Bank</p>
 <p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Exchequerr.png" alt="Goblin Banks Quest" align="middle"> Exchequer</b></p>
 <p><b>Requirement</b>: Goblin Bank</p>
 <p><b>Cost</b>: 1E121 coins, 1E6 Goblin coins</p>
@@ -119,11 +127,13 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: Undead, R16+, 1750 Necropolises</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Undercities</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Undeadr2.png" alt="Undercities" align="middle"> Undercities (Unique Building)</b></p>
 <p><b>Requirement</b>: Undercities Quest</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b>Effect</b>: Upgrade Necropolises To Undercities</p>
 <p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Laboratoryr.png" alt="Laboratory" align="middle"> Laboratory</b></p>
 <p><b>Requirement</b>: Undercities</p>
 <p><b>Cost</b>: 1E121 coins, 1E6 Undead coins</p>
@@ -134,11 +144,13 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: Demon, R16+, 1500 Hell Portals</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Infernal Realm</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Demonr2.png" alt="Infernal Realm" align="middle"> Infernal Realm (Unique Building)</b></p>
 <p><b>Requirement</b>: Infernal Realm Quest</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>
 <p><b>Effect</b>: Upgrade Hell Portals To Infernal Realm</p>
 <p><b>Effect</b>: Allows access to the Research Facilities.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrategyRoomr.png" alt="Strategy Room" align="middle"> Strategy Room</b></p>
 <p><b>Requirement</b>: All Demon faction upgrades bought, Infernal Realm</p>
 <p><b>Cost</b>: 1E121 coins, 1E6 Demon coins</p>
@@ -221,15 +233,13 @@ div#images div{
 <p><b>5.6</b>: <b>E135</b>: 28,000 Total Buildings(as Goblin) Goblin with Goblin Bloodline.</p>
 <p><b>5.7</b>: <b>A25</b>: 666 Hellfire Blast, <b>A30</b>: 750 Fairy Chanting this R, <b>W135</b>: 580 trophies Use Demon with any Bloodline. (Use Merc build below and read note) (After spell count reached switch to Demon and Fairy to unlock both research)</p>
 <p><b>Merc Build</b>
-<p><b>Alingment</b>: Neutral</p>
+<p><b>Alingment</b>: Evil</p>
 <p><b>Bloodline</b>: Druid</p>
 <p><button onclick="myFunction($(this))">Copy Build</button>
-
-
-
-<input type="text" value="FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
+<input type="text" value="FR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
 <p>FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
+<br/>
 <p><b>5.8</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
 <p><b>W50</b>: 2 days evil playtime this R, Use Undead with Druid Bloodline. (After 2 days evil time switch to Demon to unlock W50)</p>
 <p><b>Note</b>: <b>D25</b> and <b>W50</b> can wait until after R18 but needs to be done.</p>
