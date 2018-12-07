@@ -163,7 +163,7 @@
     <p><b>Artifacts Required</b>: Huge Titan Statue, Titan Shield, Titan Helmet</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase Unique building production based on time spent this game.</p>
-    <p><b>Formula</b>: (0.5 * x ^ 0.7), where x is seconds.</p>
+    <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is seconds.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HugeTitanStatue.png" alt="Artifacts" align="middle"><b> Huge Titan Statue</b></p>
     <p><b>Clue</b>: Struck by the lightning.</p>
