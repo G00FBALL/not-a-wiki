@@ -241,6 +241,6 @@ div#images div{
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
 <br/>
 <p><b>5.8</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
-<p><b>W50</b>: 2 days evil playtime this R, Use Undead with Druid Bloodline. (After 2 days evil time switch to Demon to unlock W50)</p>
+<p><b>W50</b>: 1 days evil playtime this R, Use Undead with Druid Bloodline. (After 1 days evil time switch to Demon to unlock W50)</p>
 <p><b>Note</b>: <b>D25</b> and <b>W50</b> can wait until after R18 but needs to be done.</p>
  <?php include "../scripts/footer.html"; ?>
