@@ -1202,7 +1202,7 @@
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" align="middle"><b> Vanilla Flavor Juice</b></p>
             <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
-            <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
+            <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
             <p><b>Note</b>: Effect is canceled if you Prestige.</p>
             <p><b>Requirement</b>: +R16</p>
             <p><b>Chance</b>: 20% in the first 5m of a game</p>
@@ -1542,7 +1542,7 @@
             <p><b>Requirements</b>: +R16 Chance: Excavate 20% in the first 5m of a game.
             <p><b>Cost</b>: 1 Coin
             <p><b>Alignment</b>: Any Vinilla Faction
-            <p><b>Effect</b>: Increases the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.
+            <p><b>Effect</b>: Increases the production of all buildings by 25,000% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
             <p><b>Requirements</b>: Play as Mercenaries, have upgrades from each 11 factions, R12+ Excavate

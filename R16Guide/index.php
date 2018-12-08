@@ -36,7 +36,7 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Note</b> Recommended before starting research</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Vanilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
-    <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
+    <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
