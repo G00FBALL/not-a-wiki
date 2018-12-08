@@ -212,7 +212,7 @@
     <p><b>Clue</b>: Quickly!</p>
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
+    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
