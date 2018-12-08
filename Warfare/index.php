@@ -45,7 +45,7 @@
 <p><b>Formula</b>: floor(1.3 * x ^ 1.1), where x is the amount of trophies unlocked.</p>
 <br/>
 <p><b>W150</b> - <b>For</b> All Factions - <b>Research Name</b>: Invasion</p>
-<p><b>Requirement</b>: Research War Funds (W25) &amp; Trophies (W135)</p>
+<p><b>Requirement</b>: Research War Funds (W25) &amp; Rampage (W135)</p>
 <p><b>Cost</b>: 129.6 Noqag (1.296E152)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of assistants you own.</p>
 <p><b>Formula</b>: round(32 * x ^ 0.75)%, where x is the amount of assistants you own.</p>
