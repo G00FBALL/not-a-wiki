@@ -38,7 +38,7 @@
 <p><b>Requirements</b>: 27 Reincarnations,2000 excavations, Dwarven Challenge 3 completed</p>
 <p><b>Challenge</b>: Have at least 3,500 Knights Jousts and as many Wizard Towers.</p>
 <p><b>Effect</b>: Increase Holy Light bonus based on the combined amount of Knights Jousts and Wizard Towers you own.</p>
-<p><b>Formula</b>: 50x^0.35%, where x is the number of Knight Jousts and Wizard Towers you own.</p>
+<p><b>Formula</b>: (50 x ^0.35)%, where x is the number of Knight Jousts and Wizard Towers you own.</p>
 <p><b>Upgrade Good for</b>: Dwarf</p>
 <hr>
 <p><b>Dwarf Challenge 5</b></p>
