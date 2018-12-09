@@ -1020,11 +1020,15 @@
 <br/>
 <p><b>Formula</b>: (1.725 * (ln(1 + x) ^ 1.25) * (y ^ 0.65)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 <br/>
-                <p><b>Proof of Balance</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="All Creation" align="middle"></p>
+<p><b>Proof of Balance</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="All Creation" align="middle"></p>
 <p><b>Cost</b>: 505000 mana</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
 <p><b>Formula</b>: (0.045 * x ^ 0.45), where x is Maximum Mana.</p>
-
-
-    <?php include "../scripts/footer.html"; ?>
+<br/>
+<p><b>Effect</b>: Increase max mana based on FC chance.</p>
+<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
+<br/>
+<p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
+<p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.0025 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<?php include "../scripts/footer.html"; ?>
