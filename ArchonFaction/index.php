@@ -13,16 +13,19 @@
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
+<p><b>Clue</b>: This one seems to require a lot of magical renewance.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png" align="middle"> Second Iron Fragment</b></p>
+<p><b>Clue</b>: Found via extensive Royal Trading mandates.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Titan</p>
 <p><b>Chance</b>: (x ^ 3 / 5000000000 (5B))%, where x is royal exchange bonus.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png" align="middle"> Third Iron Fragment</b></p>
+<p><b>Clue</b>: Chances to find increase while not actively searching.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>

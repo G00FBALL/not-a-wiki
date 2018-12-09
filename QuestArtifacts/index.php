@@ -80,46 +80,55 @@
 <p><b>Requirements</b>: 8000 Excavations any Faction, R75+</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png align=middle><b> First Iron Fragment</b></p>
+<p><b>Clue</b>: This one seems to require a lot of magical renewance.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png align=middle><b> Second Iron Fragment</b></p>
+<p><b>Clue</b>: Found via extensive Royal Trading mandates.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Titan</p>
 <p><b>Chance</b>: (x ^ 3 / 5000000000 (5B))%, where x is royal exchange bonus.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png align=middle><b> Third Iron Fragment</b></p>
+<p><b>Clue</b>: Chances to find increase while not actively searching.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png align=middle><b> First Crystal Fragment</b></p>
+<p><b>Clue</b>: Assistants will lead the way.</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
-<p>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
+<p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
 <p><b>Chance</b>: (x / 100000000000 (100B))%, where x is assistant count.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png align=middle><b> Second Crystal Fragment</b></p>
+<p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png align=middle><b> Third Crystal Fragment</b></p>
+<p><b>Clue</b>: Also acts as a spell catalyst.</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Demon</p>
 <p><b>Chance</b>: (x / 50000000 (50M))%, where x is evil spells this R.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png align=middle><b> First Stone Fragment</b></p>
+<p><b>Clue</b>: Click to Carve.</p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png align=middle><b> Second Stone Fragment</b></p>
+<p><b>Clue</b>: Stone to stone, buildings to buildings.</p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Druid</p>
 <p><b>Chance</b>: (x / 20000000 (20M))%, where x is amount of buildings.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdStoneFragment.png align=middle><b> Third Stone Fragment</b></p>
+<p><b>Clue</b>: Might be collected with taxes.</p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>

@@ -30,16 +30,19 @@
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Crystal Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png" align="middle"> First Crystal Fragment</b></p>
+<p><b>Clue</b>: Assistants will lead the way.</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
 <p><b>Chance</b>: (x / 100000000000 (100B))%, where x is assistant count.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png" align="middle"> Second Crystal Fragment</b></p>
+<p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png" align="middle"> Third Crystal Fragment</b></p>
+<p><b>Clue</b>: Also acts as a spell catalyst.</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Demon</p>
 <p><b>Chance</b>: (x / 50000000 (50M))%, where x is evil spells this R.</p>
