@@ -36,7 +36,7 @@
 <p><b>Effect</b>: Increase Faction Coin find chance by 2000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
-<p><b>Requirements</b>: Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
+<p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Archon Faction</p>
 <hr>

@@ -43,7 +43,7 @@
 <p><b>Effect</b>: Increase Faction Coin find chance by 2000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
-<p><b>Requirements</b>: Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
+<p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Archon Faction</p>
 <hr>
@@ -187,7 +187,7 @@
 <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png" align="middle"> Djinn Quest</b></p>
-<p><b>Requirements</b>: Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom Flux activity time in this game.</p>
+<p><b>Requirements</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom Flux activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Djinn Faction</p>
 <hr>
@@ -324,7 +324,7 @@
 <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
-<p><b>Requirements</b>: Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
+<p><b>Requirements</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Makers Faction</p>
 <hr>

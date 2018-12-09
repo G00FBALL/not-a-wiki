@@ -1436,7 +1436,7 @@
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png"" align="middle"> <b>Makers Quest</b></p>
             <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
-            <p><b>Requirement</b>: R125+,  Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
             <p><b>Effect</b>: Unlocks Makers Faction</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Assistant Upgrades</a></b></p>
