@@ -891,19 +891,19 @@
                 <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
                 <hr>
                 <h6>Makers</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Everlasting Materials</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Everlasting Materials</b></p>
                 <p>MK7</p>
                 <p><b>Cost</b>: 10 TQig (1e163)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
                 <p><b>Formula</b>: (0.15 * x ^ 0.7), where x is highest amount of buildings built this Reincarnation.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/TreasureMosaic.png" align="middle"> Treasure Mosaic</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Treasure Mosaic</b></p>
                 <p>MK8</p>
                 <p><b>Cost</b>: 100 TQig (1e164)</p>
                 <p><b>Effect</b>: Additionally increase Maximum Mana based on Faction Coins found in this game.</p>
                 <p><b>Formula</b>: (27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/StructuralStability.png" align="middle"> Art of Commerce</b></p>
                 <p>MK9</p>
                 <p><b>Cost</b>: 1 QaQig (1e165)</p>
                 <p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on their quantity.</p>
