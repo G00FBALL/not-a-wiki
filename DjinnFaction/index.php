@@ -77,7 +77,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
 <p><b>Effect</b>: Increase Maximum Mana based on researches selected.</p>
-<p><b>Formula</b>: sum(sumOfDigits(bought research number)) ^ 1.4</p>
+<p><b>Formula</b>: sum(sumOfDigits(bought research number)) ^ 1.3</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnFriendshipPact.png" align="middle">  Djinn Friendship Pact</b></p>
