@@ -859,7 +859,7 @@
                 <p>AR8</p>
                 <p><b>Cost</b>: 100 TQig (1e164)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance based on the activity time of your least used spell.</p>
-                <p><b>Formula</b>: (25 + (0.25 * x ^ 0.75)), where x is spell with least acttivity time this R in seconds.</p>
+                <p><b>Formula</b>: (25 + (0.25 * x ^ 0.75)), where x is spell with least activity time this R in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
                 <p>AR9</p>
