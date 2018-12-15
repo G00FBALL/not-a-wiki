@@ -351,7 +351,7 @@
 <p><b>Note</b>: This can be done with Merc Build <a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>(IGOT an Excess of Mana R7-R11)</b></a></p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png align=middle><b> Prismatic Mana</b></p>
-<p><b>Requirements</b>: R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts each.<p>
+<p><b>Requirements</b>: R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts each(This R).<p>
 <p><b>Cost</b>: 100 No (1e32), A2+, Free</p>
 <p><b>Effect</b>: Increase Mana Regeneration by  35% (multiplicative).</p>
 <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance (Does not need Dwarf, Drow nor Dragon spells)</p>

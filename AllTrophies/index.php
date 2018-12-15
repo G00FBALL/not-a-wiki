@@ -3382,7 +3382,7 @@
 <p><b>Cost</b>: Post A+, Free</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png align=middle><b> Prismatic Mana</b></p>
-<p><b>Requirement</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.</p>
+<p><b>Requirement</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts(This R).</p>
 <p><b>Requirement</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.</p>
 <p><b>Effect</b>: 35% Mana Regeneration (multiplicative).</p>
 <p><b>Cost</b>: 100 No (1e32)</p>

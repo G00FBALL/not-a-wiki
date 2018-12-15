@@ -1985,7 +1985,7 @@
             <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png" alt="Prismatic Mana" align="middle"><b> Prismatic Mana</b></p>
-            <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.</p>
+            <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts(This R).</p>
             <p><b>Requirements</b>: R40+, Does not need Dwarf, Drow nor Dragon spells.</p>
             <p><b>Cost</b>: 100 No (1e32)</p>
             <p><b>Effect</b>: 25% Mana Regeneration (multiplicative).</p>

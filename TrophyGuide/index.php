@@ -875,7 +875,7 @@
         <tr>
             <td><center>Prismatic Mana</p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png"></td>
             <td>100 No (1e32)</p>A2 Free</td>
-            <td>R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.</td>
+            <td>R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts(This R).</td>
             <td>Increase Mana Regeneration by 35% (multiplicative).</td>
             <td>All Spells have to be exact same count, Tiered casting may go over the count you need.</p>Spells Needed: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance</p>Does not need Dwarf, Drow nor Dragon spells.</td>
         </tr>
