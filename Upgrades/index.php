@@ -1133,7 +1133,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCity.png" alt="Artifacts" align="middle"><b> Key to the Lost City</b></p>
             <p><b>Clues</b>: Despite being thousands of years old, it's still shiny.</p>
             <p><b>Unlocks</b>: Neutral Research</p>
-            <p><b>Requirements</b>: 1500th Excavation (total) + R23</p>
+            <p><b>Requirements</b>: 1500th Excavation (total), R23+</p>
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDevice.png" alt="Artifacts" align="middle"><b> Ancient Device</b></p>
             <p><b>Clues</b>: This strange Device seems to react to the Ancient Races magical capabilities. We may channel its power to increase their research potential!</p>
@@ -1270,12 +1270,15 @@
             <p><b>Cost</b>: 10 Dtg (1e100)
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part 2</b></p>
-            <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.
-            <p><b>Requirement</b>: R76, Upgrade from all 12 Factions
-            <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.
-            <p><b>Note</b>: Only available to Mercenaries
-            <p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).
-            <p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)
+            <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
+            <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
+            <p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
+            <p><b>Chance</b>: 5%</p>
+            <p><b>Effect</b>: Awards an upgrade of the same name.</p>
+            <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
+            <p><b>Note</b>: Only available to Mercenaries</p>
+            <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).</p>
+            <p><b>Cost</b>: 100 Noqag (1e152)</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
             <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
@@ -1293,6 +1296,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
             <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
             <p><b>Requirement</b>: R100+
+            <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.
             <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
             <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
             <hr></p>
@@ -2001,10 +2005,15 @@
             <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KnowYourEnemyPart2" align="middle"><b> Know Your Enemy, Part 2</b></p>
+            <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
             <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
-            <p><b>Requirements</b>: R76, Upgrade from all 12 Factions</p>
+            <p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
+            <p><b>Chance</b>: 5%</p>
+            <p><b>Effect</b>: Awards an upgrade of the same name.</p>
+            <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
+            <p><b>Note</b>: Only available to Mercenaries</p>
+            <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).</p>
             <p><b>Cost</b>: 100 Noqag (1e152)</p>
-            <p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png" alt="Grandmaster Researcher" align="middle"><b> Grandmaster Researcher</b></p>
             <p><b>Requirements</b>: Research 18500 times across all fields.</p>
@@ -2040,6 +2049,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
             <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
             <p><b>Requirement</b>: R100+</p>
+            <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
             <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1500%.</p>
             <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins</p>
             <hr>

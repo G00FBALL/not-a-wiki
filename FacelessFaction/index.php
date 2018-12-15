@@ -122,7 +122,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>
 <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
-<p><b>Requirements</b>: Found on the 1500th excavation +R23</p>
+<p><b>Requirements</b>: Found on the 1500th excavation, R23+</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Ancients</b></p>
 <p><b>Effect</b>: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>

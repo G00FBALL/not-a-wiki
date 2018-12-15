@@ -245,12 +245,15 @@
 <br/>
 <p><b>Extras</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part 2</b></p>
+<p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
 <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
-<p><b>Requirement</b>: R76, Upgrade from all 12 Factions</p>
-<p><b>Effect</b>: Awards an upgrade of the same name that Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
+<p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
+<p><b>Chance</b>: 5%</p>
+<p><b>Effect</b>: Awards an upgrade of the same name.</p>
+<p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
 <p><b>Note</b>: Only available to Mercenaries</p>
-<p><b>Formula</b>: (0.065 * x^0.65), where x is amount of time spent as non-mercenary factions (in seconds).</p>
-<p><b>Secret Upgrade Cost</b>: 100 Noqag (1e152)</p>
+<p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).</p>
+<p><b>Cost</b>: 100 Noqag (1e152)</p>
 <hr>
 <p><b>13th Upgrade</b> Good and Evil only</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoodMercenaryUpgrade13.png" alt="Round Table" align="middle"> <b>Good Mercenary Upgrade 13</b></p>

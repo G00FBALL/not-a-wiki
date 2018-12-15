@@ -214,7 +214,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsr.png" alt="Secrets of the Ancients" align="middle"> Secrets of the Ancients</b></p>
 <p>Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>
 <p><b>Requirement</b>:  Neutral Unique Building</p>
-<p><b>Requirement</b>: The Key To The Lost City artifact (for this you need: R23 +1500 excavations)</p>
+<p><b>Requirement</b>: The Key To The Lost City artifact (for this you need: 1500 excavations, R23+)</p>
 <p><b>Cost</b>: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead and Demon coins</p>
 <hr>
 <h6>Titan</h6>

@@ -346,7 +346,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part 2" align="middle"><b> Know Your Enemy, Part 2</b></p>
     <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
     <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
-    <p><b>Requirement</b>: R76, Upgrade from all 12 Factions</p>
+    <p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
     <p><b>Chance</b>: 5%</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
@@ -378,7 +378,7 @@
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 1500%.</p>
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
-    <p><b>Formula</b>: (log10(x) / 100)% where x is FC chance.</p>
+    <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
     <p><b>Clue</b>: Really, raise your chances.</p>
