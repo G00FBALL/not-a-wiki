@@ -39,7 +39,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCity.png" alt="Artifacts" align="middle"><b> Key to the Lost City</b></p>
 <p><b>Clues</b>: Despite being thousands of years old, it's still shiny.</p>
 <p><b>Unlocks</b>: Neutral Research</p>
-<p><b>Requirements</b>: 1500th Excavation (total) + R23</p>
+<p><b>Requirements</b>: 1500th Excavation (total), R23+</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDevice.png" alt="Artifacts" align="middle"><b> Ancient Device</b></p>
 <p><b>Clues</b>: This strange Device seems to react to the Ancient Races magical capabilities. We may channel its power to increase their research potential!</p>
