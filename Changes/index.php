@@ -264,7 +264,7 @@
 <p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
-<p><b>Formula</b>: + 1.25 multiplier to exponent of maelstrom formulas.</p>
+<p><b>Formula</b>: + 1.15 multiplier to exponent of maelstrom formulas.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
