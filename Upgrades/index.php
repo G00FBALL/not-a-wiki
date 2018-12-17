@@ -1435,7 +1435,7 @@
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png"" align="middle"> <b>Djinn Quest</b></p>
             <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
-            <p><b>Requirement</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom Flux activity time in this game.</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this game.</p>
             <p><b>Effect</b>: Unlocks Djinn Faction</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png"" align="middle"> <b>Makers Quest</b></p>
