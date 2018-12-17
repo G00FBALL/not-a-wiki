@@ -14,6 +14,7 @@
 <p><b>Upgrade</b>: Good for Druid</p>
 <p><b>Tips</b>
 <p>Buy the building upgrades of the amount before the arrow, then continue building without purchasing new building upgrades towards the amount after the arrow.</p>
+<p>Do a few clicks, buy all upgrades except building upgrades then cast spell.</p>
 <p><b>Farms</b>: 300 -> 417 (Farming Tools)
 <p><b>Inns</b>: 200 -> 573 (Comfy Stools)</p>
 <p><b>Blacksmiths</b>: 200 -> 318 (Master Blacksmith)</p>
