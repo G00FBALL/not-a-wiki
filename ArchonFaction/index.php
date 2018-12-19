@@ -9,7 +9,7 @@
 <p><b>Alignment</b>: (Order)</p>
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.15 * log10(1 + x) ^ 2.15), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.25 * log10(1 + x) ^ 1.75), where x is mana produced in this game.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
@@ -32,7 +32,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"> Archon Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
-<p><b>Cost</b>: 1 QiQag (1.e138)</p>
+<p><b>Cost</b>: 10 Dqag (1e130)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance by 2000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
@@ -50,12 +50,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarTrading.png" align="middle"> Star Trading</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the maximum amount of Royal Exchanges you made in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.9), where x is Royal Exchanges.</p>
+<p><b>Formula</b>: (0.25 * x), where x is Royal Exchanges.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnergyRecharge.png" align="middle"> Energy Recharge</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
 <p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation.</p>
-<p><b>Formula</b>: (0.32 * x ^ 0.58), where x is time spent as Order this R in seconds.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.55), where x is time spent as Order this R in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
@@ -75,7 +75,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPride.png" align="middle"> Archon Pride</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
 <p><b>Effect</b>: Increase assistants based on time spent as your least used faction.</p>
-<p><b>Formula</b>: (50 + (1.3 * x ^ 0.7)), where x is least used faction.</p>
+<p><b>Formula</b>: (50 + 0.3 * x ^ 0.7), where x is least used faction.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Absentmindedness.png" align="middle"> Absent-mindedness</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
@@ -90,7 +90,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SuperiorConsciousness.png" align="middle"> Superior Consciousness</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Increase the production of Unique buildings based on their quantity.</p>
-<p><b>Formula</b>: (0,8 * x ^ 0.8), where x is Unique Buildings.</p>
+<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Unique Buildings.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrangeAttraction.png" align="middle"> Strange Attraction</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -104,11 +104,11 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Cost</b>: 1 Qid (1e48) Angel and Undead Coins</p>
-<p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 15%.</p>
+<p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Qad (1e45) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>
 <p><b>Effect</b>: Unlocks Archon Upgrades</p>

@@ -174,7 +174,7 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Titan Union</p>
 <p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
-<p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Mountain Palaces owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.725), where x is amount of Mountain Palaces owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" alt="Titanic Authority" align="middle"> <b>Titanic Authority</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

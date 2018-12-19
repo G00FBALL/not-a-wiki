@@ -191,7 +191,7 @@
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order this R.</p>
-<p><b>Formula</b>: (1.65 * x ^ 0.65), where x is time spent as Order this R.</p>
+<p><b>Formula</b>: (6.5 * x ^ 0.65), where x is time spent as Order this R.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>

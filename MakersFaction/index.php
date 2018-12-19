@@ -9,13 +9,13 @@
 <p><b>Alignment</b>: (Balance)</p>
 <p><b>Faction spell</b>: Infinite Spiral</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (0.045 * x ^ 0.45), where x is Maximum Mana.</p>
+<p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
 <p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.0025 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.002 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Stone Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>
@@ -38,7 +38,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
-<p><b>Cost</b>: 1 QiQag (1.e138)</p>
+<p><b>Cost</b>: 10 Dqag (1e130)</p>
 <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
@@ -58,10 +58,10 @@
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
 <p><b>Formula</b>: (3.5 * log10(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Magical Shards</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
-<p><b>Effect</b>: Increase mana regeneration based on artifacts found.(Multiplicatively)</p>
-<p><b>Formula</b>: (x ^ 0.95), where x is artifacts found.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.7), where x is highest amount of buildings built this Reincarnation.</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfiniteImprovements.png" align="middle"> Infinite Improvements</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
@@ -73,10 +73,10 @@
 <p><b>Cost</b>: 1 UD (1e36) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Everlasting Materials</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Magical Shards</b></p>
 <p><b>Cost</b>: 100 UQig (1e158)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
-<p><b>Formula</b>: (0.15 * x ^ 0.7), where x is highest amount of buildings built this Reincarnation.</p>
+<p><b>Effect</b>: Increase mana regeneration based on artifacts found.(Multiplicatively)</p>
+<p><b>Formula</b>: (x ^ 0.95), where x is artifacts found.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TreasureMosaic.png" align="middle"> Treasure Mosaic</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
@@ -95,8 +95,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stone Servants</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
-<p><b>Effect</b>: Increase assistants based on excavations made in this Reincarnation, including resets.</p>
-<p><b>Formula</b>: (0.5 * x ^ (0.4 + 0.004 * y + 0.001 * z)), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
+<p><b>Formula</b>: (2.5 * x ^ (0.4 + 0.004 * y + 0.001 * z)), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -106,17 +106,19 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StructuralStability.png" align="middle"> Structural Stability</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase the production of building tiers directly above or below Unique Buildings based on spells cast in this game.</p>
-<p><b>Formula</b>: (0.1 * x ^ 0.375), where x spells cast in this game.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.4), where x spells cast in this game.</p>
+<p><b>Note</b>: MK9 now works like W3150 ( ^ 2 bonus when able).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
-<p><b>Cost</b>: 1 Qid (1e48) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
 <p><b>Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Td (1e42) Elven and Goblin Coins</p>
-<p><b>Effect</b>: All Creation is based on highest mana regeneration rate this reincarnation.</p>
+<p><b>Cost</b>: 1 Qad (1e45) Elven and Goblin Coins</p>
+<p><b>Effect</b>: All Creation production effect is based on the highest mana regeneration rate in this Reincarnation.</p>
+<p><b>Note</b>: Does not effetc FC chance
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity</b></p>
@@ -134,5 +136,5 @@
 <p><b>Requirements</b>: Makers Union</p>
 <p><b>Cost</b>: 100 QiQig (1e170) </p>
 <p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (4 * ln(x) ^ 4), where x is clicks made this Reincarnation.</p>
+<p><b>Formula</b>: (2 * ln(x) ^ 1.75), where x is clicks made this Reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>

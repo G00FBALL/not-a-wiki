@@ -181,7 +181,7 @@
     <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.</p>
     <p><b>Requirement</b>: A2+, 3000+ Excavations, Play as Titan</p>
-    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges.</p>
+    <p><b>Chance</b>: ((x ^ 2) / 1,500,000,000 (1.5B))%, where x is Royal Exchanges (Royal Exchange count multipliers <b>DO NOT</b> count).</p>
       <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidSet.png" align="middle"><b> Druid Set</b></p>
     <p><b>Requirement</b>: A2+</p>
@@ -239,7 +239,7 @@
     <p><b>Artifacts Required</b>: Dwarven Bow, Stone Tankard, Beard Hair</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
-    <p><b>Formula</b>: (x ^ 0.9), where x is Royal Exchange bonus.</p>
+    <p><b>Formula</b>: (2.5 * x ^ 0.75), where x is Royal Exchange bonus.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenBow.png" alt="Artifacts" align="middle"><b> Dwarven Bow</b></p>
     <p><b>Clue</b>: Click to throw.</p>

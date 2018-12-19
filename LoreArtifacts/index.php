@@ -434,7 +434,7 @@
     <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.</p>
     <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Titan</p>
-    <p><b>Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges (Royal Exchange count multipliers DO count).</p>
+    <p><b>Chance</b>: ((x ^ 2) / 1,500,000,000 (1.5B))%, where x is Royal Exchanges (Royal Exchange count multipliers <b>DO NOT</b> count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png" align="middle"><b> Branch of the Life Tree</b></p>
     <p><b>Clue</b>: Found in the remains of druidic ancestors.</p>

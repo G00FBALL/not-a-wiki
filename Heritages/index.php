@@ -163,20 +163,20 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Note</b>: Not available till R125</p>
-<p><b>Cost</b>: 1 Qid (1e48) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
 <p><b>Requirements</b>: Archon Champion Trophy<p>
-<p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 15%.</p>
+<p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
 <p><b>Note</b>: Not available till R125</p>
-<p><b>Cost</b>: 1 Qid (1e48) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
 <p><b>Requirements</b>: Djinn Champion Trophy<p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Note</b>: Not available till R125</p>
-<p><b>Cost</b>: 1 Qid (1e48) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Elven and Goblin Coins</p>
 <p><b>Requirements</b>: Makers Champion Trophy<p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
 <p><b>Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>

@@ -995,7 +995,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation"></p>
 <p><b>Cost</b>: 123456 mana</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.15 * log10(1 + x) ^ 2.15), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.25 * log10(1 + x) ^ 1.75), where x is mana produced in this game.</p>
 <br/>
                 <p><b>Proof of Chaos</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="All Creation" align="middle"></p>
@@ -1005,16 +1005,16 @@
 <p><b>Fairy</b></p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Assistants</p>
-<p><b>3</b>: Increase Faction Coin find chance</p>
+<p><b>3</b>: All spells durations count more</p>
 <p><b>4</b>: Increase Mana Regeneration</p>
 <p><b>Demon</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Trophy count and Offline Bonus</p>
 <p><b>3</b>: Increase Mana Regeneration</p>
-<p><b>4</b>: Increase all spells activity time count except Limited Wish.</p>
+<p><b>4</b>: Increase Faction Coin find chance.</p>
 <p><b>Faceless</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
-<p><b>2</b>: Increase all spells activity time count except Limited Wish</p>
+<p><b>2</b>: All spells durations count more</p>
 <p><b>3</b>: Increase Faction Coin find chance</p>
 <p><b>4</b>: Increase Maximum Mana</p>
 <br/>
@@ -1024,11 +1024,11 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="All Creation" align="middle"></p>
 <p><b>Cost</b>: 505000 mana</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (0.045 * x ^ 0.45), where x is Maximum Mana.</p>
+<p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
 <p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.0025 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.002 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <?php include "../scripts/footer.html"; ?>

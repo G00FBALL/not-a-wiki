@@ -172,7 +172,7 @@
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>: Increase all building production based on time spent this reincarnation.</p>
-<p><b>Formula</b>:  (0.65 * x ^ 0.65), where x is time spent this reincarnation.</p>
+<p><b>Formula</b>:  (3.5 * x ^ 0.65), where x is time spent this reincarnation.</p>
 <br/>
 <p><b>Proof of Balance</b>: Increase mana regen based on clicks made this reincarnation.</p>
 <p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>

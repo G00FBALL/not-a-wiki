@@ -188,7 +188,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
 <p><b>Cost</b>: 100 Qitg (1e110)</p>
 <p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
-<p><b>Formula</b>: (45 * x ^ 0.45), where x is amount of Unique Buildings.</p>
+<p><b>Formula</b>: (50 * x ^ 0.5), where x is amount of Unique Buildings.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>

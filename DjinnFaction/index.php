@@ -13,16 +13,16 @@
 <p><b>Fairy</b></p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Assistants</p>
-<p><b>3</b>: Increase Faction Coin find chance</p>
+<p><b>3</b>: All spells durations count more</p>
 <p><b>4</b>: Increase Mana Regeneration</p>
 <p><b>Demon</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Trophy count and Offline Bonus</p>
 <p><b>3</b>: Increase Mana Regeneration</p>
-<p><b>4</b>: Increase all spells activity time count except Limited Wish.</p>
+<p><b>4</b>: Increase Faction Coin find chance.</p>
 <p><b>Faceless</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
-<p><b>2</b>: Increase all spells activity time count except Limited Wish</p>
+<p><b>2</b>: All spells durations count more</p>
 <p><b>3</b>: Increase Faction Coin find chance</p>
 <p><b>4</b>: Increase Maximum Mana</p>
 <br/>
@@ -49,7 +49,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"> Djinn Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
-<p><b>Cost</b>: 1 QiQag (1.e138)</p>
+<p><b>Cost</b>: 10 Dqag (1e130)</p>
 <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png" align="middle"> Djinn Quest</b></p>
@@ -67,7 +67,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on spells of your current alignments cast in this game.</p>
-<p><b>Formula</b>: (25 * ln(1 + x) ^ 2.35), where x is alignments spells cast in this game.</p>
+<p><b>Formula</b>: (25 * ln(1 + x) ^ 2), where x is alignments spells cast in this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenWill.png" align="middle"> Forbidden Will</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
@@ -87,7 +87,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic</b></p>
 <p><b>Cost</b>: 100 UQig (1e158)</p>
 <p><b>Effect</b>: Increase non-unique building production based on mana produced this game.</p>
-<p><b>Formula</b>: (0.75 * x ^ 0.35), where x is mana produced this game.</p>
+<p><b>Formula</b>: (0.125 * x ^ 0.325), where x is mana produced this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiritualBindings.png" align="middle"> Spiritual Bindings</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
@@ -107,13 +107,13 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-<p><b>Formula</b>: (0.045 * x ^ 0.45), where x is mount of assistants you own..</p>
+<p><b>Formula</b>: (0.04 * x ^ 0.4), where x is mount of assistants you own..</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
 <p><b>Effect</b>: Increase the production of even-tier buildings on odd days of the month, odd-tier buildings on even days.</p>
 <p><b>Note</b>: The bonus is based on assistants owned.</p>
-<p><b>Formula</b>: (0.125 * x ^ 0.425), where x is assistants owned.</p>
+<p><b>Formula</b>: (ln(1 + x) ^ 2.5), where x is assistants owned.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaCreatures.png" align="middle"> Mana Creatures</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
@@ -121,13 +121,13 @@
 <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Cost</b>: 1 Qid (1e48) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnUnion.png" align="middle"> Djinn Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Qad (1e45) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <p><b>Formula</b>: * 1.15 multiplier to exponent of maelstrom formulas.</p>

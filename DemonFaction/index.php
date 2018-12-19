@@ -138,17 +138,17 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Burning Abysses you own. Higher tiers get better bonuses.</p>
-<p><b>Formula</b>: (0.1 * (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
+<p><b>Formula</b>: (0.5 * (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> <b>Demonic Fury</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
-<p><b>Effect</b>: Increase production of all buildings based on least time spent between Evil and Chaos this R.</p>
+<p><b>Effect</b>: Increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
 <p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-<p><b>Formula</b>: (0.35 * x ^ 0.6), where x is mana regen.</p>
+<p><b>Formula</b>: (3.5 * ln(1+ x) ^ 3.5), where x is mana regen.</p>
 <?php include "../scripts/footer.html"; ?>

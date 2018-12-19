@@ -359,12 +359,12 @@
 <p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
-<p><b>Cost</b>: 1 Qid (1e48) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 15%.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Qad (1e45) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>
 <p><b>Effect</b>: Unlocks Archon Upgrades</p>
@@ -501,13 +501,13 @@
 <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Cost</b>: 1 Qid (1e48) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnUnion.png" align="middle"> Djinn Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Qad (1e45) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <p><b>Formula</b>: + 1.25 multiplier to exponent of maelstrom formulas.</p>
@@ -563,7 +563,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
-<p><b>Cost</b>: 1 QiQag (1.e138)</p>
+<p><b>Cost</b>: 10 Dqag (1e130)</p>
 <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
@@ -640,7 +640,7 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Td (1e42) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Qad (1e45) Elven and Goblin Coins</p>
 <p><b>Effect</b>: All Creation is based on highest mana regeneration rate this reincarnation.</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
