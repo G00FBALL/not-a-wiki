@@ -37,7 +37,7 @@ function bubbleSwarm(x) {
 }
 
 function applyBldgMultiplier(x, l, h) {
-	var res = Math.floor(Math.fround(x * (h ? 1.15 : 1.0) * 1.2 * (1 + 0.12 * l)));
+	var res = Math.floor(Math.fround(x * (h ? 1.1 : 1.0) * 1.2 * (1 + 0.12 * l)));
 	return res;	
 }
 
