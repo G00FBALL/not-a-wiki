@@ -4,8 +4,260 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
+<p><b>v3.4.3 Dec 19, 2018</b>
 <br/>
-<p><b>v3.4 Nov 27, 2018</b></p>
+<p><b>Christmas Event</b>: Will start Dec 21, 2018</p>
+<p><b>Added</b>: New feat with new reward</p>
+<br/>
+<p><b>Changed</b>: Heavy Avalanche now (x ^ (2.5 * A)), where x is original bonus in precentage</p>
+<p><b>Changed</b>: Grand Avalanche now (x ^ (5 * A)), where x is original bonus in precentage (overrides Heavy Avalanche)</p>
+<br/>
+<p><b>Elven Challenge 3</b>: Fixed</p>
+<br/>
+<p><b>Elite Faction Union</b>
+<p><b>Old Cost</b>: 1 Td (1e42) Faction Coins</p>
+<p><b>New Cost</b>: 1 Qad  (1e45) Faction Coins</p>
+<br/>
+<p><b>Elite Faction Heritage</p></b>
+<p><b>Old Cost</b>: 1 Qid (1e48)</p>
+<p><b>New Cost</b>: 1 Td (1e42)</p>
+<br/>
+<p><b>Faction Mask</p></b>
+<p><b>Old Cost</b>: 1 QiQag (1.e138)</p>
+<p><b>New Cost</b>: 10 Dqag (1e130)</p>
+<hr>
+<p><b>Faction Changes</p></b>
+<p><b>Elven</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> Camouflage (EL11)</b></p>
+<p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.</p>
+<p><b>Old Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
+<p><b>New Formula</b>: (0.75 * x ^ 0.75), where x is assistant count.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenUnion.png" alt="Elven Union" align="middle"> Elven Union</p></b>
+<p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
+<p><b>Old Formula</b>: (2.85 * ln(x) ^ 2.85), where x is faction coins found in this Reincarnation.</p>
+<p><b>New Formula</b>: (3 * ln(x) ^ 3), where x is faction coins found in this Reincarnation.</p>
+<hr>
+<p><b>Angel</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelsUnion.png" alt="Angels Union" align="middle"> Angels Union</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
+<p><b>Old Formula</b>: (ln(x) ^ 2 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
+<p><b>New Formula</b>: (4 * ln(x) ^ 2 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
+<hr>
+<p><b>Undead</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> Zombie Apocalypse (UD11)</b></p>
+<p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
+<p><b>Old Formula</b>: (0.72 * x ^ 0.72), where x is offline time this R.</p>
+<p><b>New Formula</b>: (3.5 * x ^ 0.7), where x is offline time this R.</p>
+<hr>
+<p><b>Demon</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" alt="Abyssal Furnace" align="middle"> Abyssal Furnace (DM10)</b></p>
+<p><b>Effect</b>: Increase the production of all buildings based on the amount of Burning Abysses you own. Higher tiers get better bonuses.</p>
+<p><b>Old Formula</b>: (0.1 * (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
+<p><b>New Formula</b>: (0.5 * (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> Demonic Fury (DM11)</b></p>
+<p><b>Old Effect</b>: Increase production of all buildings based on least time spent between Evil and Chaos this R.</p>
+<p><b>New Effect</b>: Increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
+<p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> Devastation (DM12)</b></p>
+<p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
+<p><b>Old Formula</b>: (0.35 * x ^ 0.6), where x is mana regen.</p>
+<p><b>New Formula</b>: (3.5 * ln(1+ x) ^ 3.5), where x is mana regen.</p>
+<hr>
+<p><b>Titan</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> Giant Market (TT10)</p></b>
+<p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
+<p><b>Old Formula</b>: (1.25 * x ^ 0.75), where x is amount of Mountain Palaces owned.</p>
+<p><b>New Formula</b>: (1.25 * x ^ 0.725), where x is amount of Mountain Palaces owned.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png" align="middle"> Titan Helmet (Artifact)</p></b>
+<p><b>Old Chance</b>: ((x ^ 2) / 5000000000 (5B))%, where x is Royal Exchanges (Royal Exchange count multipliers DO count).</p>
+<p><b>New Chance</b>: ((x ^ 2) / 1,500,000,000 (1.5B))%, where x is Royal Exchanges (Royal Exchange count multipliers <b>DO NOT</b> count).</p>
+<hr>
+<p><b>Druid</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> Grove Farming (DD12)</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
+<p><b>Old Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+<p><b>New Formula</b>: (0.8 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> Druids Union</p></b>
+<p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
+<p><b>Old Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>New Formula</b>: (3 * x * y ^ 1.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<hr>
+<p><b>Dwarf</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"> Dwarven Union</p></b>
+<p><b>Effect</b></p>
+<p><b>Proof of Order</b>: Increase all building production based on time spent this reincarnation.</p>
+<p><b>Old Formula</b>: (0.8 * x ^ 0.65), where x is time spent this reincarnation.</p>
+<p><b>New Formula</b>: (3.5 * x ^ 0.65), where x is time spent this reincarnation.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenSet.png" align="middle"> Dwarven Set</p></b>
+<p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
+<p><b>Old Formula</b>: (x ^ 0.9), where x is Royal Exchange bonus.</p>
+<p><b>New Formula</b>: (2.5 * x ^ 0.75), where x is Royal Exchange bonus.</p>
+<hr>
+<p><b>Drow</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"> Ancillae Obscurae (DW11)</p></b>
+<p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
+<p><b>Old Formula</b>: (45 * x ^ 0.45), where x is amount of Unique Buildings.</p>
+<p><b>New Formula</b>: (50 * x ^ 0.5), where x is amount of Unique Buildings.</p>
+<hr>
+<p><b>Dragon</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"> Dragon Union</p></b>
+<p><b>Effect</b></p>
+<p><b>Proof of Order</b>: Increase the production of all buildings based on time spent as Order this R.</p>
+<p><b>Old Formula</b>: (1.65 * x ^ 0.65), where x is time spent this Order.</p>
+<p><b>New Formula</b>: (6.5 * x ^ 0.65), where x is time spent this Order.</p>
+<hr>
+<p><b>Archon</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StarTrading.png" align="middle"> Star Trading (AR1)</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on the maximum amount of Royal Exchanges you made in this Reincarnation.</p>
+<p><b>Old Formula</b>: (0.25 * x ^ 0.9), where x is Royal Exchanges.</p>
+<p><b>New Formula</b>: (0.25 * x), where x is Royal Exchanges.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EnergyRecharge.png" align="middle"> Energy Recharge (AR2)</p></b>
+<p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation.</p>
+<p><b>Old Formula</b>: (0.32 * x ^ 0.58), where x is time spent as Order this R in seconds.</p>
+<p><b>New Formula</b>: (0.25 * x ^ 0.55), where x is time spent as Order this R in seconds.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPride.png" align="middle"> Archon Pride (AR5)</p></b>
+<p><b>Effect</b>: Increase assistants based on time spent as your least used faction.</p>
+<p><b>Old Formula</b>: (50 + (1.3 * x ^ 0.7)), where x is least used faction.</p>
+<p><b>New Formula</b>: (50 + 0.3 * x ^ 0.7), where x is least used faction.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SuperiorConsciousness.png" align="middle"> Superior Consciousness (AR7)</p></b>
+<p><b>Effect</b>: Increase the production of Unique buildings based on their quantity.</p>
+<p><b>Old Formula</b>: (0,8 * x ^ 0.8), where x is Unique Buildings.</p>
+<p><b>New Formula</b>: (0.85 * x ^ 0.85), where x is Unique Buildings.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</p></b>
+<p><b>Old Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 15%.</p>
+<p><b>New Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
+<hr>
+<p><b>Djinn</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within (DJ1)</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on spells of your current alignments cast in this game.</p>
+<p><b>Old Formula</b>: (25 * ln(1 + x) ^ 2.35), where x is alignments spells cast in this game.</p>
+<p><b>New Formula</b>: (25 * ln(1 + x) ^ 2), where x is alignments spells cast in this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic (DJ4)</p></b>
+<p><b>Effect</b>: Increase non-unique building production based on mana produced this game.</p>
+<p><b>Old Formula</b>: (0.75 * x ^ 0.35), where x is mana produced this game.</p>
+<p><b>New Formula</b>: (0.125 * x ^ 0.325), where x is mana produced this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well (DJ7)</p></b>
+<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
+<p><b>Old Formula</b>: (0.045 * x ^ 0.45), where x is mount of assistants you own.</p>
+<p><b>New Formula</b>: (0.04 * x ^ 0.4), where x is mount of assistants you own.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm (DJ8)</p></b>
+<p><b>Effect</b>: Increase the production of even-tier buildings on odd days of the month, odd-tier buildings on even days.</p>
+<p><b>Note</b>: The bonus is based on assistants owned.</p>
+<p><b>Old Formula</b>: (0.125 * x ^ 0.425), where x is assistants owned.</p>
+<p><b>New Formula</b>: (ln(1 + x) ^ 2.5), where x is assistants owned.</p>
+<hr>
+<p><b>Makers</p></b>
+<p><b>MK2 and MK4 switch places</p></b>
+<p><b>Old MK2</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Magical Shards (MK2)</p></b>
+<p><b>Effect</b>: Increase mana regeneration based on artifacts found.(Multiplicatively)</p>
+<p><b>Formula</b>: (x ^ 0.95), where x is artifacts found.</p>
+<p><b>New MK2</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials (MK2)</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.7), where x is highest amount of buildings built this Reincarnation.</p>
+<br/>
+<p><b>Old MK4</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Everlasting Materials (MK4)</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
+<p><b>Formula</b>: (0.15 * x ^ 0.7), where x is highest amount of buildings built this Reincarnation.</p>
+<p><b>New MK4</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Magical Shards (MK4)</p></b>
+<p><b>Effect</b>: Increase mana regeneration based on artifacts found.(Multiplicatively)</p>
+<p><b>Formula</b>: (x ^ 0.95), where x is artifacts found.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stone Servants (MK7)</p></b>
+<p><b>Old Effect</b>: Increase assistants based on excavations made in this Reincarnation, including resets.</p>
+<p><b>Old Formula</b>: (0.5 * x ^ (0.4 + 0.004 * y + 0.001 * z)), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
+<p><b>New Formula</b>: (2.5 * x ^ (0.4 + 0.004 * y + 0.001 * z)), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StructuralStability.png" align="middle"> Structural Stability (MK9)</p></b>
+<p><b>Effect</b>: Increase the production of building tiers directly above or below Unique Buildings based on spells cast in this game.</p>
+<p><b>Old Formula</b>: (0.1 * x ^ 0.375), where x spells cast in this game.</p>
+<p><b>New Formula</b>: (0.2 * x ^ 0.4), where x spells cast in this game.</p>
+<p><b>Note</b>: MK9 now works like W3150 ( ^ 2 bonus when able).</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityMarble.png" align="middle"> Reality Marble (MK12)</p></b>
+<p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
+<p><b>Old Formula</b>: (4 * ln(x) ^ 4), where x is clicks made this Reincarnation.</p>
+<p><b>New Formula</b>: (3 * ln(x) ^ 3), where x is clicks made this Reincarnation.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</p></b>
+<p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
+<p><b>Old Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
+<p><b>New Formula</b>: (2 * ln(x) ^ 1.75), where x is Tax Collections cast this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</p></b>
+<p><b>Old Effect</b>: All Creation is based on highest mana regeneration rate this reincarnation.</p>
+<p><b>New Effect</b>: All Creation production effect is based on the highest mana regeneration rate in this Reincarnation.</p>
+<p><b>Note</b>: No longer effects All creation FC chance</p>
+<hr>
+<p><b>Spells</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="Precognition"></p></b>
+<p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
+<p><b>Old Formula</b>: (1.25 * log10(1 + x) ^ 2), where x is mana produced in this game.</p>
+<p><b>New Formula</b>: (1.25 * log10(1 + x) ^ 1.75), where x is mana produced in this game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited Wish" align="middle"></p></b>
+<p><b>Effect</b>: Provide a random effect based on your base faction, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
+<p><b>Possible Effects</b></p>
+<p><b>Fairy</b></p>
+<p><b>1</b>: Increase the production of all buildings</p>
+<p><b>2</b>: Increase Assistants</p>
+<p><b>3: Old Effect</b>: Increase Faction Coin find chance</p>
+<p><b>3: New Effect</b>: All spells durations count more</p>
+<p><b>4</b>: Increase Mana Regeneration</p>
+<br/>
+<p><b>Demon</b></p>
+<p><b>1</b>: Increase the production of all buildings</p>
+<p><b>2</b>: Increase Trophy count and Offline Bonus</p>
+<p><b>3</b>: Increase Mana Regeneration</p>
+<p><b>4: Old Effect</b>: Increase all spells activity time count except Limited Wish.</p>
+<p><b>4: New Effect</b>: Increase Faction Coin find chance</p>
+<br/>
+<p><b>Faceless</b></p>
+<p><b>1</b>: Increase the production of all buildings</p>
+<p><b>2: Old Effect</b>: Increase all spells activity time count except Limited Wish</p>
+<p><b>2: New Effect</b>: All spells durations count more</p>
+<p><b>3</b>: Increase Faction Coin find chance</p>
+<p><b>4</b>: Increase Maximum Mana</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="All Creation" align="middle"></p></b>
+<p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
+<p><b>Old Formula</b>: (0.045 * x ^ 0.45), where x is Maximum Mana.</p>
+<p><b>New Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
+<br/>
+<p><b>Effect</b>: Increase max mana based on FC chance.</p>
+<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
+<br/>
+<p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
+<p><b>Old Formula</b>: (1.35 * x ^ (0.5 + 0.0025 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>New Formula</b>: (1.35 * x ^ (0.5 + 0.002 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<hr>
+<p><b>Research</p></b>
+<p><b>C305</b> - <b>For</b> All Factions - <b>Research Name</b>: Golemcraft</p>
+<p><b>Effect</b>: Gain additional assistants based on your total time spent offline (in hours).</p>
+<p><b>Old Formula</b>: floor(0.15 * (x / 60) ^ 0.95), where x is your Time Spent Offline(this R).</p>
+<p><b>New Formula</b>: floor(0.2 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R).</p>
+<hr>
+<div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4 Nov 27, 2018</a></b></p>
+        <div class="autohide">
 <br/>
 <p><b>Added</b>: 3 new Factions, each with upgrades, spells, artifacts and trophies</p>
 <br/>
@@ -20,19 +272,16 @@
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
-<p><b>Clue</b>: This one seems to require a lot of magical renewance.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png" align="middle"> Second Iron Fragment</b></p>
-<p><b>Clue</b>: Found via extensive Royal Trading mandates.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Titan</p>
 <p><b>Chance</b>: (x ^ 3 / 5000000000 (5B))%, where x is royal exchange bonus.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png" align="middle"> Third Iron Fragment</b></p>
-<p><b>Clue</b>: Chances to find increase while not actively searching.</p>
 <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 1000000 (1M))%, where x is offline bonus multiplier.</p>
@@ -43,7 +292,7 @@
 <p><b>Effect</b>: Increase Faction Coin find chance by 2000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
-<p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
+<p><b>Requirements</b>: Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Archon Faction</p>
 <hr>
@@ -102,7 +351,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrangeAttraction.png" align="middle"> Strange Attraction</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the activity time of your least used spell.</p>
-<p><b>Formula</b>: (25 + (0.25 * x ^ 0.75)), where x is spell with least activity time this R in seconds.</p>
+<p><b>Formula</b>: (25 + (0.25 * x ^ 0.75)), where x is spell with least acttivity time this R in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
@@ -164,19 +413,16 @@
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Crystal Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png" align="middle"> First Crystal Fragment</b></p>
-<p><b>Clue</b>: Assistants will lead the way.</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
 <p><b>Chance</b>: (x / 100000000000 (100B))%, where x is assistant count.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png" align="middle"> Second Crystal Fragment</b></p>
-<p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png" align="middle"> Third Crystal Fragment</b></p>
-<p><b>Clue</b>: Also acts as a spell catalyst.</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Demon</p>
 <p><b>Chance</b>: (x / 50000000 (50M))%, where x is evil spells this R.</p>
@@ -187,7 +433,7 @@
 <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png" align="middle"> Djinn Quest</b></p>
-<p><b>Requirements</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this game.</p>
+<p><b>Requirements</b>: Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom Flux activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Djinn Faction</p>
 <hr>
@@ -264,7 +510,7 @@
 <p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
-<p><b>Formula</b>: + 1.15 multiplier to exponent of maelstrom formulas.</p>
+<p><b>Formula</b>: + 1.25 multiplier to exponent of maelstrom formulas.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
@@ -301,19 +547,16 @@
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Stone Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>
-<p><b>Clue</b>: Click to Carve.</p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png" align="middle"> Second Stone Fragment</b></p>
-<p><b>Clue</b>: Stone to stone, buildings to buildings.</p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Druid</p>
 <p><b>Chance</b>: (x / 20000000 (20M))%, where x is amount of buildings.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdStoneFragment.png" align="middle"> Third Stone Fragment</b></p>
-<p><b>Clue</b>: Might be collected with taxes.</p>
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
@@ -324,7 +567,7 @@
 <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
-<p><b>Requirements</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
+<p><b>Requirements</b>: Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Makers Faction</p>
 <hr>
@@ -420,7 +663,7 @@
 <hr>
 <p><b>New Trophies</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"> MAD Masks (Secret Trophy)</b></p>
-<p><b>Requirement</b>: R125+, Find all fragments of the Makers, Archon and Djinn masks.</p>
+<p><b>Requirement</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
 <p><b>Effect</b>: Gives upgrade with same name.</p>
 <p><b>Upgrade Cost</b>: 1 SpQag (1.e144)</p>
 <p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
@@ -621,7 +864,7 @@
 <p><b>Research</b></p>
 <p><b>S50 - Conjuration</b></p>
 <p><b>Effect</b>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.</p>
-<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%.</p>
+<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively by 150%.</p>
 <p><b>Old Formula</b>: floor(x /650), where x is the number of Goblin Banks you own.</p>
 <p><b>New Formula</b>: floor((x / 600) ^ 0.9), where x is the number of Goblin Banks you own.</p>
 <br/>
@@ -638,7 +881,7 @@
 <p><b>Old Requirement</b>: 5 days as Titans (Total across all R)</p>
 <p><b>New Requirement</b>: 2 days as Titans (Total across all R)</p>
 <p><b>Effect</b>: Gain assistants based on time spent offline in this Reincarnation.(in hours).</p>
-<p><b>Old Formula</b>: (2 * (x / 3600) ^ 0.5), where x is your Time Spent Offline (this R).</p>
+<p><b>Old Formula</b>: (2 * (x / 3600) * 0.5), where x is your Time Spent Offline (this R).</p>
 <p><b>New Formula</b>: (0.15 * (x / 60) ^ 0.95), where x is your Time Spent Offline(this R)..</p>
 <br/>
 <p><b>A305 - Engraving</b></p>
@@ -729,14 +972,11 @@
 <p><b>Old Effect</b>: Increase maximum mana by 10%.</p>
 <p><b>New Effect</b>:  Increase maximum mana by 15%.</p>
 <hr>
-<br/>
-<div class="shlisting">
+    </div>
+   </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3 July 26, 2018</a></b></p>
         <div class="autohide">
-<p><b>v3.3 July 26, 2018</b></p>
-<br/>
-
 <p><b>Changed</b>: Base mana regen</p>
 <p><b>Old Base</b>: 0.5/sec</p>
 <p><b>New Base</b>: 1/sec</p>
@@ -1059,16 +1299,12 @@
 <p><b>Effect</b>: Increase production of all buildings based on highest amount of spells cast in a single game.</p>
 <p><b>Old Formula</b>: (0.32 * x ^ 0.32), where x is number of spells cast.</p>
 <p><b>New Formula</b>: (0.32 * x ^ 0.28), where x is number of spells cast.</p>
-<br/>
     </div>
    </div>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.2 May 16, 2018</a></b></p>
         <div class="autohide">
-
-<p><b>v3.2 May 16, 2018</b>
-<br/>
 <p><b>Fixed</b>
 <p>Setting 8 spells set with same autocast now working</p>
 <p>Bunny Helper</p>
@@ -1244,7 +1480,6 @@
 <p><b>New Effect</b>: Increase mana regeneration additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
 <p><b>New Formula</b>: (100 * ln(x) ^ 1.5), where x is Faction Coins found in this game.(additively)</p>
 <p><b>New Formula</b>: (1.45 * ln(x)), where x is Faction Coins found in this game.(multiplicatively)</p>
-<br/>
 <br/>
 <p><b>Titan</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" alt="Colossus Kingdom" align="middle"> <b>Colossus Kingdom</b></p>
