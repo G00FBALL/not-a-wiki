@@ -1250,16 +1250,16 @@
             <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-            <p><b>Formula</b>: floor(0.01 * ln(1+x) ^ 1.5).
+            <p><b>Formula</b>: (ln(1 + x) ^ 1.35)), where x is amount of Gems you own.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
             <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.
-            <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat.
+            <p><b>Formula</b>: (0.25 * ln(1 + x) ^ (2 + 0.25 * A)), where x is your assistants stat.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-            <p><b>Formula</b>: log10(1 + x)3 + A, where x is your total faction coins stat.
+            <p><b>Formula</b>: (ln(1+ x) ^ (3 + 3 * A)), where x is your total faction coins stat.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
             <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.
-            <p><b>Formula</b>: 10 * (x * (A + 1))0.85, where x is the number of buildings you own.
+            <p><b>Formula</b>: (x ^ (0.85 + 0.15 * A)), where x is the number of buildings you own.
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
             <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
@@ -1973,16 +1973,16 @@
             <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
-            <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).
+            <p><b>Formula</b>: (ln(1 + x) ^ 1.35)), where x is amount of Gems you own.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
             <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.
-            <p><b>Formula</b>: floor(0.25 * ln(x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.
+            <p><b>Formula</b>: (0.25 * ln(1 + x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
-            <p><b>Formula</b>: log10(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.
+            <p><b>Formula</b>: (ln(1+ x) ^ (3 + 3 * A)), where x is your total faction coins stat and A is Ascension count.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
             <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
-            <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.</p>
+            <p><b>Formula</b>: (x ^ (0.85 + 0.15 * A)), where x is the number of buildings you own and A is Ascension count.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png" alt="Prismatic Mana" align="middle"><b> Prismatic Mana</b></p>
             <p><b>Requirements</b>: Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts(This R).</p>

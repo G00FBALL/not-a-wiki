@@ -24,17 +24,17 @@
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
     <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.</p>
-    <p><b>Formula</b>: floor(ln(1+x) ^ 1.35).</p>
+    <p><b>Formula</b>: (ln(1 + x) ^ 1.35)).</p>
       <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
     <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: floor(0.25 * X ^ (0.4 + 0.05 * A), where x is your assistants stat and A is Ascension count.</p>
+    <p><b>Formula</b>: (0.25 * ln(1 + x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>
-    <p><b>Formula</b>: log10(1 + x) ^ (3 + 3 *A), where x is your total faction coins stat and A is Ascension count.</p>
+    <p><b>Formula</b>: (ln(1+ x) ^ (3 + 3 * A)), where x is your total faction coins stat and A is Ascension count.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
     <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
-    <p><b>Formula</b>: 10 * x ^ (0.85 + 0.15 * A), where x is the number of buildings you own and A is Ascension count.</p>
+    <p><b>Formula</b>: (x ^ (0.85 + 0.15 * A)), where x is the number of buildings you own and A is Ascension count.</p>
 <?php include "../scripts/footer.html"; ?>
