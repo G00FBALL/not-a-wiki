@@ -362,6 +362,7 @@ div#images div{
                 <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="GiftCollector" align="middle"> Gift Collector</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Open 13 Presents</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/FreezingHell2018.png" alt="FreezingHell" align="middle"> Freezing Hell</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Collect a full stack of 480 Snowballs while affiliated with the Demons.</p>
@@ -386,12 +387,6 @@ div#images div{
                 <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.</p>
             </div>
         </div>
-
-
-
-
-
-
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving(Nov 30 - Dec 4, 2018)</a></b></p>
             <div class="autohide">

@@ -5,6 +5,55 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.3, Dec 19, 2018</a></b></p>
+      <div class="autohide">
+<p>Fixed an issue with Royal Exchange checks for all factions, resulting in Elven Challenge 3 being non-unlockable</p>
+<p>Added a new Christmas feat and cosmetic option.</p>
+<p>Camouflage effect and scaling increased.</p>
+<p>Grove Farming effect increased.</p>
+<p>Druid Union effect increased.</p>
+<p>Dwarven Set effect increased, scaling decreased.</p>
+<p>Reality Marble effect and scaling decreased.</p>
+<p>Hand of the Makers scaling decreased.</p>
+<p>Everlasting Materials effect increased.</p>
+<p>Structural Stability effect and scaling increased.</p>
+<p>Ancillae Obscurae effect and scaling increased.</p>
+<p>Elven Union effect and scaling increased.</p>
+<p>nfinite Spiral scaling decreased.</p>
+<p>FC Chance and Max mana from spells now count for upgrade purposes, resulting in much higher bonuses overall.</p>
+<p>Titan Helmet requirements reduced.</p>
+<p>Makers Heritage effect and scaling decreased.</p>
+<p>Golemcraft (Craftsmanship 305) effect increased, scaling decreased.</p>
+<p>Makers Union mana calculations fixed, resulting in a higher All Creation effect when using it.</p>
+<p>Zombie Apocalypse effect increased, scaling decreased.
+<p>Angel Union effect increased.</p>
+<p>Dwarven Order Union effect increased.</p>
+<p>Dragon Order Union effect increased.</p>
+<p>Energy Recharge effect and scaling decreased.</p>
+<p>Archon Pride effect decreased.</p>
+<p>Precognition scaling decreased.</p>
+<p>Archon Heritage effect decreased.</p>
+<p>Star Trading scaling increased.</p>
+<p>Superior Consciousness effect and scaling increased.</p>
+<p>Druid Union GB target scaling increased.</p>
+<p>Structural Stability now provides double bonus where appropriate.</p>
+<p>Aura of Magic effect decreased.</p>
+<p>Flashy Storm made logarithmic, resulting in increased effect and reduced scaling.</p>
+<p>Limited Wish Fairy/Faceless changed to spell duration count. Demon/Faceless get Faction Coin find chance.</p>
+<p>Infinite Spiral assistants formula made logarithmic, resulting in increased effect and reduced scaling.</p>
+<p>Stone Servants reworked into all buildings production. Effect increased.</p>
+<p>The Desire Within scaling decreased.</p>
+<p>Aura of Magic effect and scaling decreased.</p>
+<p>Wishing Well effect and scaling decreased.</p>
+<p>Everlasting Materials position switched with Magical Shards.</p>
+<p>Masks costs reduced.","Abyssal Furnace effect increased.</p>
+<p>Devastation made logarithmic, resulting in increased effect and reduced scaling.</p>
+<p>Demonic Fury reworked to provide Faction Coin find chance.</p>
+<p>Elite factions heritage costs reduced.
+<p>Elite factions union costs increased.</p>
+      </div>
+  </div>
+  <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.0, Nov 27, 2018 NEW FACTIONS</a></b></p>
       <div class="autohide">
               <p><b>THREE NEW FACTIONS</b>! New alignment factions will be able to stack upon a base and prestige factions, for a total of three affiliations simultaneously. All new factions will start with Union upgrades and a new faction spell, and will be available at Reincarnation 125+ after completing their Entry Quest.</p>
