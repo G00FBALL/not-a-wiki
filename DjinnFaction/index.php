@@ -97,7 +97,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WildSurge.png" align="middle"> Wild Surge</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
-<p><b>Formula</b>: (0.25 * x  ^ 0.75), where x is the duration of your longest spell.</p>
+<p><b>Formula</b>: (0.35 * x ^ 0.65), where x is the duration of your longest spell.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnAlliance.png" align="middle">  Djinn Alliance</b></p>

@@ -148,6 +148,11 @@
 <p><b>Old Formula</b>: (0.75 * x ^ 0.35), where x is mana produced this game.</p>
 <p><b>New Formula</b>: (0.125 * x ^ 0.325), where x is mana produced this game.</p>
 <br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/WildSurge.png" align="middle"> Wild Surge (DJ6)</b></p>
+<p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
+<p><b>Old Formula</b>: (0.25 * x ^ 0.75), where x is the duration of your longest spell.</p>
+<p><b>New Formula</b>: (0.35 * x ^ 0.65), where x is the duration of your longest spell.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well (DJ7)</p></b>
 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
 <p><b>Old Formula</b>: (0.045 * x ^ 0.45), where x is mount of assistants you own.</p>
