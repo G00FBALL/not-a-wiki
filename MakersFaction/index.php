@@ -56,12 +56,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (3.5 * log10(1 + x) ^ 2), where x is clicks made in this Reincarnation.</p>
+<p><b>Formula</b>: (3.5 * log10(1 + x) ^ 1.5), where x is clicks made in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
-<p><b>Formula</b>: (0.2 * x ^ 0.7), where x is highest amount of buildings built this Reincarnation.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.85), where x is highest amount of buildings built this Reincarnation.</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfiniteImprovements.png" align="middle"> Infinite Improvements</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
@@ -136,5 +136,5 @@
 <p><b>Requirements</b>: Makers Union</p>
 <p><b>Cost</b>: 100 QiQig (1e170) </p>
 <p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (2 * ln(x) ^ 1.75), where x is clicks made this Reincarnation.</p>
+<p><b>Formula</b>: (3 * ln(x) ^ 3), where x is clicks made this Reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>
