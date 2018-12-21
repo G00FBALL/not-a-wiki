@@ -274,6 +274,7 @@ div#images div{
                 <p><b>Formula</b>: final bonus multiplier = 1 + 0.01 * (x ^ (0.1 ^ A)) instead of (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/HeavyAvalanche2017.png" alt="Avalanche" align="middle"> Heavy Avalanche</b></p>
                 <p><b>Type</b>: Upgrade</p>
                 <p><b>Requirement</b>: Play during the Christmas Event, R40+.</p>
@@ -282,6 +283,7 @@ div#images div{
                 <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in precentage</p>
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/GrandAvalanche2017.png" alt="Avalanche" align="middle"> Grand Avalanche</b></p>
                 <p><b>Type</b>: Upgrade</p>
                 <p><b>Requirement</b>: Play during the Christmas Event, R100+.</p>
@@ -296,18 +298,22 @@ div#images div{
                 <p><b>Type</b>: Quest series</p>
                 <p><b>Requirement</b>: Collect 1000, 4500, 10000 and 21000 Snowballs.</p>
                 <p><b>Effect</b>: Quests total Event bonus : +7%</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/Snowpile12016.png" alt="Snowpile 1" align="middle"> Snowpile 1</b></p>
                 <p><b>Type</b>: Quest series 1 of 4</p>
                 <p><b>Requirement</b>: Collect 1000 Snowballs</p>
                 <p><b>Effect</b>: Adds 1% to you cumulative bonus</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/Snowpile22016.png" alt="Snowpile 2" align="middle"> Snowpile 2</b></p>
                 <p><b>Type</b>: Quest series 2 of 4</p>
                 <p><b>Requirement</b>: Collect 4500 Snowballs</p>
                 <p><b>Effect</b>: Adds 1% to you cumulative bonus</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/Snowpile32016.png" alt="Snowpile 3" align="middle"> Snowpile 3</b></p>
                 <p><b>Type</b>: Quest series 3 of 4</p>
                 <p><b>Requirement</b>: Collect 10000 Snowballs</p>
                 <p><b>Effect</b>: Adds 2% to you cumulative bonus</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/Snowpile42016.png" alt="Snowpile 4" align="middle"> Snowpile 4</b></p>
                 <p><b>Type</b>: Quest series 4 of 4</p>
                 <p><b>Requirement</b>: Collect 21000 Snowballs</p>
@@ -317,18 +323,22 @@ div#images div{
                 <p><b>Type</b>: Quest series</p>
                 <p><b>Requirement</b>: Find 1, 4, 8 and 13 Presents.</p>
                 <p><b>Effect</b>: Quests total Event bonus : +7%</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/GiftCollector12016.png" alt="Gift Collector 1" align="middle"> Gift Collector 1</b></p>
                 <p><b>Type</b>: Quest series 1 of 4</p>
                 <p><b>Requirement</b>: Open 1 present</p>
                 <p><b>Effect</b>: Adds 1% to you cumulative bonus</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/GiftCollector22016.png" alt="Gift Collector 2" align="middle"> Gift Collector 2</b></p>
                 <p><b>Type</b>: Quest series 2 of 4</p>
                 <p><b>Requirement</b>: Open 4 presents</p>
                 <p><b>Effect</b>: Adds 1% to you cumulative bonus</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/GiftCollector32016.png" alt="Gift Collector 3" align="middle"> Gift Collector 3</b></p>
                 <p><b>Type</b>: Quest series 3 of 4</p>
                 <p><b>Requirement</b>: Open 8 presents</p>
                 <p><b>Effect</b>: Adds 2% to you cumulative bonus</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="Gift Collector 4" align="middle"> Gift Collector 4</b></p>
                 <p><b>Type</b>: Quest series 4 of 4</p>
                 <p><b>Requirement</b>: Open 13 presents</p>
@@ -340,12 +350,15 @@ div#images div{
                 <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
                 <p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.</p>
                 <p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades.</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Ally with the Undead</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/Snowpile42016.png" alt="Snowpile" align="middle"> Snowpile</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Complete all the Snowpile quests</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="GiftCollector" align="middle"> Gift Collector</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Open 13 Presents</p>
@@ -357,12 +370,15 @@ div#images div{
                 <p><b><img src="/realm/Factions/picks/500Snowballs2016Shop.png" alt="500 Snowballs" align="middle"> 500 Snowballs</b></p>
                 <p><b>500 Snowballs</b>: An adventurer wants to sell you 500 Snowballs for 5 Rubies. He will offer you a new deal if you accept.</p>
                 <p><b>Cost</b>: 5 Rubies</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/1750Snowballs2016Shop.png" alt="1750 Snowballs" align="middle"> 1750 Snowballs</b></p>
                 <p><b>1750 Snowballs</b>: An adventurer wants to sell you 1750 Snowballs for 15 Rubies. He will offer you a new deal if you accept.</p>
                 <p><b>Cost</b>: 15 Rubies</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/6000Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 6000 Snowballs</b></p>
                 <p><b>1750 Snowballs</b>: An adventurer wants to sell you 6000 Snowballs for 45 Rubies. He will offer you a new deal if you accept.</p>
                 <p><b>Cost</b>: 45 Rubies</p>
+                <br/>
                 <p><b><img src="/realm/Factions/picks/13500Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 13500 Snowballs</b></p>
                 <p><b>1750 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.</p>
                 <p><b>Cost</b>: 100 Rubies</p>
