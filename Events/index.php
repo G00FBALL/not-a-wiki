@@ -153,7 +153,7 @@ var x = setInterval(function() {
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/admincontrols/Factions/picks/TotalEventChristmas2018.png" usemap="#TotalEventChristmas2018-map">
+    <p><img src="/realm/Factions/picks/TotalEventChristmas2018.png" usemap="#TotalEventChristmas2018-map">
     <map name="TotalEventChristmas2018-map">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,46,62,102" shape="rect">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="67,43,126,101" shape="rect">
@@ -161,7 +161,7 @@ var x = setInterval(function() {
     <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Unholidays2016.png align=middle> Unholidays<p>Type: Feat<p>Requirement: Ally with the Undead during the Christmas season." coords="196,43,254,101" shape="rect">
     <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Snowpile42016.png align=middle> Snowpile<p>Type: Feat, 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="261,45,318,102" shape="rect">
     <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/GiftCollector2016.png align=middle> Gift Collector<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="326,44,382,100" shape="rect">
-    <area research="Christmas<p><img src=http://musicfamily.org/admincontrols/Factions/picks/FreezingHell2018.png align=middle> Freezing Hell<p>Type: Feat<p>Requirement: Collect a full stack of 480 Snowballs while affiliated with the Demons." coords="389,44,446,100" shape="rect">
+    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/FreezingHell2018.png align=middle> Freezing Hell<p>Type: Feat<p>Requirement: Collect a full stack of 480 Snowballs while affiliated with the Demons." coords="389,44,446,100" shape="rect">
     <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png align=middle> Feel the Love<p>Type: Feat, 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,107,61,166" shape="rect">
     <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/ILoveYouinEveryLanguage2017.png align=middle> I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,108,127,166" shape="rect">
     <area research="Valentines 2018<p><img src=http://musicfamily.org/realm/Factions/picks/AssistantLove2018.png align=middle> Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,107,190,166" shape="rect">
@@ -239,7 +239,7 @@ div#images div{
   </div>
 &nbsp
   <div>
-  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/ChristmasMana.png" width="54%" height="54%" /></center>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/ChristmasMana.png" width="54%" height="54%" /></center>
     <center><b>Christmas</b></center>
   </div>
 </div>
@@ -349,7 +349,7 @@ div#images div{
                 <p><b><img src="/realm/Factions/picks/GiftCollector2016.png" alt="GiftCollector" align="middle"> Gift Collector</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Open 13 Presents</p>
-                <p><b><img src="/admincontrols/Factions/picks/FreezingHell2018.png" alt="FreezingHell" align="middle"> Freezing Hell</b></p>
+                <p><b><img src="/realm/Factions/picks/FreezingHell2018.png" alt="FreezingHell" align="middle"> Freezing Hell</b></p>
                 <p><b>Type</b>: Feat</p>
                 <p><b>Requirement</b>: Collect a full stack of 480 Snowballs while affiliated with the Demons.</p>
                 <hr>
