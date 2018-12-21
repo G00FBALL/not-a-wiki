@@ -204,7 +204,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</p></b>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
 <p><b>Old Formula</b>: (2.2 * log10(1 + x) ^ 1.8), where x is Tax Collections cast this game.</p>
-<p><b>New Formula</b>: (2 * ln(x) ^ 1.75), where x is Tax Collections cast this game.</p>
+<p><b>New Formula</b>: (2 * log10(x) ^ 1.75), where x is Tax Collections cast this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</p></b>
 <p><b>Old Effect</b>: All Creation is based on highest mana regeneration rate this reincarnation.</p>

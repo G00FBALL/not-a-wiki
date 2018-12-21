@@ -885,7 +885,7 @@
                 <p>DJ9</p>
                 <p><b>Cost</b>: 1 QaQig (1e165)</p>
                 <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-                <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is highest mana produced in a single game this reincarnation.</p>
+                <p><b>Formula</b>: (2 * log10(x) ^ 2), where x is highest mana produced in a single game this reincarnation.</p>
                 <hr>
                 <h6>Makers</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stone Servants</b></p>
