@@ -50,7 +50,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
-<p><b>Formula</b>: floor(3 * x^0.9), where x is your Assistants stat.</p>
+<p><b>Formula</b>: floor(2 * x ^ 0.9), where x is your Assistants stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" alt="Smiley face" align="middle"> Shadow Advance</b></p>
 <p><b>Cost</b>: 500 Qad (5E47)</p>
@@ -176,7 +176,7 @@
 <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
-<p><b>Production Formula</b>: (6 * x ^ 0.6), where x is time offline this R</p>
+<p><b>Production Formula</b>: (4 * x ^ 0.6), where x is time offline this R</p>
 <p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
 <br/>
 <p><b>Union Upgrades</b></p>

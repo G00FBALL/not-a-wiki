@@ -85,7 +85,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" alt="Smiley face" align="middle"> Battlehammers</b></p>
 <p><b>Cost</b>: 500 Sxd (5E53)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-<p><b>Formula</b>: ln(x)^3*1.5%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: (1.5 * ln(1 +x) ^ 3)%, where x is your Dwarven Coins Gained (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" alt="Smiley face" align="middle"> Magic Resistance</b></p>
 <p><b>Cost</b>: 5 Spd (5E54)</p>
@@ -175,7 +175,7 @@
 <p><b>Formula</b>:  (3.5 * x ^ 0.65), where x is time spent this reincarnation.</p>
 <br/>
 <p><b>Proof of Balance</b>: Increase mana regen based on clicks made this reincarnation.</p>
-<p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
+<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
 <p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>

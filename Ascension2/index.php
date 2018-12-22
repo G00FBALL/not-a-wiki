@@ -756,7 +756,7 @@
 <p><b>Formula</b>:  (3.5 * x ^ 0.65), where x is time spent this reincarnation.</p>
 <br/>
 <p><b>Proof of Balance</b>: Increase mana regen based on clicks made this reincarnation.</p>
-<p><b>Formula</b>: (ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
+<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
 <p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
@@ -805,7 +805,7 @@
 <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
-<p><b>Production Formula</b>: (6 * x ^ 0.6), where x is time offline this R</p>
+<p><b>Production Formula</b>: (4 * x ^ 0.6), where x is time offline this R</p>
 <p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
 <br/>
 <p><b>Union Upgrades</b></p>

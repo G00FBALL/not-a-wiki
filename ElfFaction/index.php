@@ -54,7 +54,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" alt="Smiley face" align="middle"> Secret Clicking Techniques</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
-<p><b>Formula</b>: ln^2.5(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Formula</b>: ln(1 + x) ^ 2.5%, where x is your Treasure Clicks (Total) stat.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Alliance</b></p>
@@ -146,7 +146,7 @@
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
 <p><b>Production Formula</b>: (32 * x ^ 0.8), where x is Arboreal Cities count.</p>
-<p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.7), where x is Arboreal Cities count.</p>
+<p><b>Faction Coin Formula</b>: (3 * x ^ 0.7), where x is Arboreal Cities count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

@@ -273,7 +273,7 @@
                 <p><b>Mercenary Template</b>: DW2</p>
                 <p><b>Cost</b>: 50 Qad (5E46)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: floor(3 * x^0.9), where x is your Assistants stat.</p>
+                <p><b>Formula</b>: floor(3 * x ^ 0.9), where x is your Assistants stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" align="middle"> Shadow Advance</b></p>
                 <p><b>Mercenary Template</b>: DW3</p>
@@ -393,7 +393,7 @@
                 <p><b>Mercenary Template</b>: EL6</p>
                 <p><b>Cost</b>: 50 T (5E13)</p>
                 <p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
-                <p><b>Formula</b>: ln^2.5(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
+                <p><b>Formula</b>: ln(1 + x) ^ 2.5%, where x is your Treasure Clicks (Total) stat.</p>
                 <hr>
                 <h6>Angel</h6>
                 <p><b>Effect</b>: Unlocks more Angel Upgrades.</p>
@@ -797,7 +797,7 @@
                 <p><b>Mercenary Template</b>: DN7</p>
                 <p><b>Cost</b>: 500 Sxd (5E53)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-                <p><b>Formula</b>: ln(x)^3 * 1.5%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+                <p><b>Formula</b>: (1.5 * ln(1 +x) ^ 3)%, where x is your Dwarven Coins Gained (This Game) stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
                 <p><b>Mercenary Template</b>: DN8</p>
@@ -939,7 +939,7 @@
                 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
                 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
                 <p><b>Production Formula</b>: (8 * x ^ 0.8), where x is Arboreal Cities count.</p>
-                <p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.7), where x is Arboreal Cities count.</p>
+                <p><b>Faction Coin Formula</b>: (3 * x ^ 0.7), where x is Arboreal Cities count.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" align="middle"> Camouflage</b></p>
                 <p><b>Requirement</b>: A2, Elven Union</p>
