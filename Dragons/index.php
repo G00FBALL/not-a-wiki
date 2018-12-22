@@ -20,7 +20,7 @@
 <p><b>Requirements</b>: Reincarnation 51, Dragon Bloodline, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 2, Completion Dragon Challenge 1, Play as Druid/Dragon, Generate at least 1e10 mana in this game.</p>
 <p><b>Challenge</b>: Have Grand Balance affect 7 buildings.</p>
 <p><b>Effect</b>: Increase Stone Pillars production based on the amount of Grand Balance targets.</p>
-<p><b>Formula</b>: (6000*x^1.75), where x is number of targets.</p>
+<p><b>Formula</b>: (6000 * x ^ 1.75), where x is number of targets.</p>
 <p><b>Effect</b>: Also reduces all Spell Tier upgrade costs based on Grand Balance activity time in this game.</p>
 <p><b>Formula</b>: max(0, (1-t/28)^9) t is Grand Balance activity time in days.</p>
 <p><b>Upgrade</b>: Good for Druid/Dragon</p>
@@ -32,7 +32,7 @@
 <p><b>Challenge</b>: Have 5500 Excavations.</p>
 <p><b>Effect</b>: Reduces Deep Memory ascension penalty.</p>
 <p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
-<p><b>Formula</b>: (3 * x^0.65)%, where x is your amount of Sunken Cities.</p>
+<p><b>Formula</b>: (3 * x ^ 0.65)%, where x is your amount of Sunken Cities.</p>
 <p><b>Upgrade</b>: Good for Faceless/Dragon</p>
 <hr>
 <p><b>Dragon Challenge 4</b>:</p>
@@ -41,7 +41,7 @@
 <p><b>Requirements</b>: Reincarnation 57, 46 Artifacts, Completion of Titan, Druid, Faceless, Dwarven and Drow challenge 4, Completion of Dragon challenge 3</p>
 <p><b>Challenge</b>: Have 9,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.</p>
 <p><b>Effect</b>: Faction coins from excavations are increased based on the amount of artifacts you own.</p>
-<p><b>Formula</b>: x^6 (%), where x is number of artifacts.</p>
+<p><b>Formula</b>: (x ^ 6)%, where x is number of artifacts.</p>
 <p><b>Upgrade</b>: Good for Dragon</p>
 <hr>
 <p><b>Dragon Challenge 5</b>:</p>

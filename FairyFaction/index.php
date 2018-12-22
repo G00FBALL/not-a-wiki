@@ -51,7 +51,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" alt="Smiley face" align="middle"> Spellsmith</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Blacksmiths also increase your mana regeneration rate.</p>
-<p><b>Formula</b>: x ^ 0.25, where x is the number of Blacksmiths you own.</p>
+<p><b>Formula</b>: (x ^ 0.25), where x is the number of Blacksmiths you own.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Fairy Alliance</b></p>
@@ -70,7 +70,7 @@
 <p><b>Cost</b>: 500 Qa (5E17)</p>
 <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
 <p><b>Formula</b>: floor((sqrt(1+4*x)-1)/3), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
-<p><b>Reverse Formula</b>: ceiling(((x*3+1)^2-1)/4), where x is the number of Assistants you own.</p>
+<p><b>Reverse Formula</b>: ceiling(((x * 3 + 1)^ 2-1)/4), where x is the number of Assistants you own.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyHeritage.png" alt="Fairy Heritage" align="middle"><b> Fairy Heritage</b></p>
 <p><b>Cost</b>: 5000 Fairy Coins</p>

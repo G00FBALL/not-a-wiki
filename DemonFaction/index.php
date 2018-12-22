@@ -14,7 +14,7 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Hellfire Blast</p>
 <p><b>Effect</b>: Increases the production of Evil Fortresses and Hell Portals.</p>
-<p><b>Formula</b>: 200 * x ^ 0.8, where x is your Trophies Unlocked stat.</p>
+<p><b>Formula</b>: (200 * x ^ 0.8), where x is your Trophies Unlocked stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Hell Rush</b></p>
 <p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
 <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
@@ -61,12 +61,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Magic</b></p>
 <p><b>Cost</b>: 5 Qa (5E15)</p>
 <p><b>Effect</b>: Hell Portals also increase your mana regeneration rate.</p>
-<p><b>Formula</b>: x^0.325, where x is the number of Hell Portals you own.</p>
+<p><b>Formula</b>: (x ^ 0.325), where x is the number of Hell Portals you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" alt="Smiley face" align="middle"> Burning Legion</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
 <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
-<p><b>Formula</b>: floor(sqrt(1+2.5*x)-1), where x is the number of Hell Portals you own.</p>
+<p><b>Formula</b>: floor(sqrt(1 + 2.5 * x)-1), where x is the number of Hell Portals you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" alt="Smiley face" align="middle"> Very Bad Guys</b></p>
 <p><b>Cost</b>: 500 Qa (5E17)</p>
@@ -150,5 +150,5 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-<p><b>Formula</b>: (3.5 * ln(1+ x) ^ 3.5), where x is mana regen.</p>
+<p><b>Formula</b>: (3.5 * ln(1 + x) ^ 3.5), where x is mana regen.</p>
 <?php include "../scripts/footer.html"; ?>

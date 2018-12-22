@@ -52,7 +52,7 @@
 <p><b>Cost</b>: 5000 Goblin Coins</p>
 <p><b>Requirements</b>: Goblin Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of gems you own.</p>
-<p><b>Formula</b>: floor(7.5 * log10(1+x))%, where x is the amount of gems you have.</p>
+<p><b>Formula</b>: floor(7.5 * log10(1 + x))%, where x is the amount of gems you have.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>

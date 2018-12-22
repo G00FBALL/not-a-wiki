@@ -54,7 +54,7 @@
 <p><b>Requirement</b>: Research Blessing (D1) &amp; Refraction (A55)</p>
 <p><b>Cost</b>: 3.273 Uqig (3.273E156)</p>
 <p><b>Effect</b>: You gain additional assistants based on God's Hands activity time.</p>
-<p><b>Formula</b>: floor(0.45 * (0.15 * x)^0.6), where x is God's Hands Cast Time Activity(This game).</p>
+<p><b>Formula</b>: floor(0.45 * (0.15 * x) ^ 0.6), where x is God's Hands Cast Time Activity(This game).</p>
 <br/>
 <p><b>D200</b> - <b>For</b> All Factions - <b>Research Name</b>: Transcendence</p>
 <p><b>Requirement</b>: Research Resurrection (D175) &amp; Illumination (D135)</p>
@@ -157,7 +157,7 @@
 <p><b>Requirement</b>: Any Neutral,Build Dragons' Unique Building</p>
 <p><b>Cost</b>: 177.2 Nod (1.772e62)</p>
 <p><b>Effect</b>: Increase the production of Wyrm's Den based on Faction Coin find chance.</p>
-<p><b>Formula</b>: 1.55*x^0.55, where x is Faction Coin find chance in percent.</p>
+<p><b>Formula</b>: (1.55 * x ^ 0.55), where x is Faction Coin find chance in percent.</p>
 <br/>
 <p><b>D1275</b> - <b>For</b> All Factions - <b>Research Name</b>: Solemnity</p>
 <p><b>Requirement</b>: 100000 Total Buildings</p>
@@ -168,7 +168,7 @@
 <p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)</p>
 <p><b>Cost</b>: 137.8 Qavg (1.378e77)</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique buildings you own.</p>
-<p><b>Formula</b>: (2.5 * x ^0.55), where x is non-unique building owned.</p>
+<p><b>Formula</b>: (2.5 * x ^ 0.55), where x is non-unique building owned.</p>
 <br/>
 <p><b>D2775</b> - <b>For</b> Mercenary - <b>Research Name</b>: Intervention</p>
 <p><b>Requirement</b>: Secrets of the Warriors.</p>

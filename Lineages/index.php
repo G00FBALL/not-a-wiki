@@ -108,7 +108,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk4.png" align="middle"><b> Fairy Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.</p>
-    <p><b>Formula</b>: 10 * Floor (x/300), where x is Fairy Chanting duration in seconds.</p>
+    <p><b>Formula</b>: (10 * Floor (x/300)), where x is Fairy Chanting duration in seconds.</p>
     <hr>
     <H6>Elven</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenLineage.png" align="middle"><b> Elven Lineage</b></p>
@@ -322,7 +322,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk1.png" align="middle"><b> Druid Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: increases Non-Unique buildings production based on time spent in this game.</p>
-    <p><b>Formula</b>: 0.15 * x ^ 1.25 where x is seconds (this game)</p>
+    <p><b>Formula</b>: (0.15 * x ^ 1.25) where x is seconds (this game)</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x50 more Elven and Demon Faction Coin find chance.</p>
@@ -338,7 +338,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk3.png" align="middle"><b> Druid Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: While Grand Balance is active, increase the production of its targets based on the amount of Unique Buildings you own.</p>
-    <p><b>Formula</b>: (0.5*floor(x/750))^y), where x is Unique Buildings and y is spell tier.</p>
+    <p><b>Formula</b>: (0.5 * floor(x/750)) ^y), where x is Unique Buildings and y is spell tier.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" align="middle"> Druid Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.</p>
@@ -347,7 +347,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk4.png" align="middle"><b> Druid Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Grand Balance lasts longer based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: 2.25 * ln(1 + x) ^ 2.25, where x is amount of assistants you own.</p>
+    <p><b>Formula</b>: (2.25 * ln(1 + x) ^ 2.25), where x is amount of assistants you own.</p>
     <p><b>Effect</b>: Also, while Grand Balance is active, increase the production of its targets based on Grand Balance duration.</p>
     <p><b>Formula</b>: (x ^ 0.5) ^ (1 + 0.01 * y), where x is spell duration in seconds and y is amount of grand balance targets</p>
     <p><b>Note</b>: Ascension 2 penalty is removed</p>
@@ -361,7 +361,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk1.png" align="middle"><b> Faceless Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: Faceless Bloodline counts total mana produced (This R) and increases mana per second based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: 0.95 * x ^ 0.95, where x is assistants you own</p>
+    <p><b>Formula</b>: (0.95 * x ^ 0.95), where x is assistants you own</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x50 more Fairy and Undead Faction Coin find chance.</p>
@@ -395,7 +395,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk1.png" align="middle"><b> Dwarf Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: Dwarven Bloodline increases faction coin find chance based on total time spent as Good. (1 day of Good = 19,520%).
-    <p><b>Formula</b>: 50 * x ^ 0.75 where x is seconds of good alignment (this R)</p>
+    <p><b>Formula</b>: (50 * x ^ 0.75) where x is seconds of good alignment (this R)</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Dwarf Faction Coin find chance.</p>

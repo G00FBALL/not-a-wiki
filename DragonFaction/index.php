@@ -17,11 +17,11 @@
 <p><b>Dragon's Breath</b></p>
 <p><b>Effect</b>: Activates one of the following effects at random.</p>
 <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
-<p><b><font color="darkred">Formula</b></font>: 2 * (ln(1 + X) ^ 2), where x is Faction Coins found in this game.</p>
+<p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2)), where x is Faction Coins found in this game.</p>
 <br/>
 <p><b><font color="darkgreen">Green</b></font>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
-<p><b><font color="darkgreen">Formula</b></font>: (0.01 * x^0.625 * (11-T)^5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
-<p><b><font color="darkgreen">Formula</b></font>: (0.32*x^0.625) Druid and Faceless boost with the above Formula.</p>
+<p><b><font color="darkgreen">Formula</b></font>: (0.01 * x ^ 0.625 * (11-T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
+<p><b><font color="darkgreen">Formula</b></font>: (0.32 * x ^ 0.625) Druid and Faceless boost with the above Formula.</p>
 <br/>
 <p><b><font color="darkblue">Blue</b></font>: Increase your mana regeneration by 200%</p>
 <br/>
@@ -29,7 +29,7 @@
 <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7), where x is time as neutral this R in seconds.</p>
 <br/>
 <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-<p><b><font color="black">Formula</b></font>: (0.5*x^0.75)%), where x is Dragon's Breath activity time.</p>
+<p><b><font color="black">Formula</b></font>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
 <hr>
 <p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
@@ -74,7 +74,7 @@
 <p><b>Requirement</b>: Dragons Trade Treaty</p>
 <p><b>Cost</b>: 5 Uvg (5.0e66)</p>
 <p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.</p>
-<p><b>Formula</b>: (1.25 * t) ^ 0.55 where t is total amount of time spent as Neutral in minutes (this R).</p>
+<p><b>Formula</b>: ((1.25 * t) ^ 0.55) where t is total amount of time spent as Neutral in minutes (this R).</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" alt="Smiley face" align="middle"> Iron Flight</b></p>
 <p><b>Requirement</b>: Dragons Trade Treaty</p>
@@ -85,7 +85,7 @@
 <p><b>Requirement</b>: Dragons Trade Treaty</p>
 <p><b>Cost</b>: 500 Uvg (5.0e68)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
-<p><b>Formula</b>: 2 * (x ^ 1.15) where x is Royal Exchange bonus.</p>
+<p><b>Formula</b>: (2 * (x ^ 1.15)) where x is Royal Exchange bonus.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Friendship Pact</b></p>
@@ -97,13 +97,13 @@
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
 <p><b>Cost</b>: 50 Dvg (5.0e70)</p>
 <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-<p><b>Formula</b>: 0.75 * (t ^ 0.55) where t is amount of time spent with Dragons (All game).</p>
+<p><b>Formula</b>: (0.75 * (t ^ 0.55)) where t is amount of time spent with Dragons (All game).</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" alt="Smiley face" align="middle"> Bountiful Hoard</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
 <p><b>Cost</b>: 500 Dvg (5e71 DC)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found.</p>
-<p><b>Formula</b>: 5 * (x ^ 1.25) where x is amount of artifacts you found.</p>
+<p><b>Formula</b>: (5 * (x ^ 1.25)) where x is amount of artifacts you found.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" alt="Smiley face" align="middle"> Sharp Claws</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
@@ -114,7 +114,7 @@
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Alliance</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
-<p><b>Cost</b>: 65b 6.5e10 Dwarven and Drow coins</p>
+<p><b>Cost</b>: 65b (6.5e10) Dwarven and Drow coins</p>
 <p><b>Effect</b>: Unlocks Tier 3 Upgrades.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Hunger</b></p>
@@ -133,7 +133,7 @@
 <p><b>Requirement</b>: Dragons Alliance</p>
 <p><b>Cost</b>: 50 Qavg (5.0e76)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects.</p>
-<p><b>Formula</b>: 100 * (x ^ 2) where x is amount of active Dragon's Breath effects.</p>
+<p><b>Formula</b>: (100 * (x ^ 2)) where x is amount of active Dragon's Breath effects.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Drow Heritage" align="middle"><b> Dragon Heritage</b></p>
 <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>

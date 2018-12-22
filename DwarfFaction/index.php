@@ -55,7 +55,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" alt="Smiley face" align="middle"> Mining Prodigies</b></p>
 <p><b>Cost</b>: 500 Qad (5E47)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-<p><b>Formula</b>: 10*x^0.9%, where x is the number of excavations you've purchased.</p>
+<p><b>Formula</b>: (10 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Friendship Pact</b></p>
@@ -65,17 +65,17 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" alt="Smiley face" align="middle"> Underground Citadels</b></p>
 <p><b>Cost</b>: 50 Qid (5E49)</p>
 <p><b>Effect</b>: Increase the production of Citadels based on the gems you own.</p>
-<p><b>Formula</b>: round(210*log10(x)1.5)%, where x is your current number of gems.</p>
+<p><b>Formula</b>: round(210 * log10(x)1.5)%, where x is your current number of gems.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" alt="Smiley face" align="middle"> Indestructible Treasure</b></p>
 <p><b>Cost</b>: 500 Qid (5E50)</p>
 <p><b>Effect</b>: Increase clicking reward based on the amount of buildings you own.</p>
-<p><b>Formula</b>: 0.5*x^0.65%, where x is your Buildings Owned (This Game) stat.</p>
+<p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is your Buildings Owned (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BeardedAssistantsFactionUpgrade.png" alt="Smiley face" align="middle"> Bearded Assistants</b></p>
 <p><b>Cost</b>: 5 Sxd (5E51)</p>
 <p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
-<p><b>Formula</b>: 0.03*x^0.7%, where x is your Playtime (This Game) stat in seconds.</p>
+<p><b>Formula</b>: (0.03 * x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Alliance</b></p>
@@ -90,7 +90,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" alt="Smiley face" align="middle"> Magic Resistance</b></p>
 <p><b>Cost</b>: 5 Spd (5E54)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration rate.</p>
-<p><b>Formula</b>: 80*x^0.85%, where x is your Mana per Second stat.</p>
+<p><b>Formula</b>: (80 * x ^ 0.85)%, where x is your Mana per Second stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" alt="Smiley face" align="middle"> Overwatch</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>
@@ -101,7 +101,7 @@
 <p><b>Cost</b>: 75,000 Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarven Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-<p><b>Formula</b>: 2 * (x^0.9)%, where x is the number of excavations you've purchased.</p>
+<p><b>Formula</b>: (2 * (x ^ 0.9))%, where x is the number of excavations you've purchased.</p>
 <hr>
 <p><b>Dwarf Research Requirements</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forge Quest</b></p>

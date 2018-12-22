@@ -12,11 +12,11 @@
 <p><b>Alignment</b>: Prestige (Evil)</p>
 <p><b>Faction spell</b>: Combo Strike</p>
 <p><b>Effect</b>: Increase the production of all buildings. The more spells cast, the more production is increased.</p>
-<p><b>Formula</b>: 30 * x ^ 0.9, where x is the number of times you have cast Combo Strike.</p>
+<p><b>Formula</b>: (30 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PerfectComboFactionUpgrade.png" alt="Smiley face" align="middle"></a>  <b>Perfect Combo</b></p>
 <p><b>Requirement</b>: Cast Combo Strike 100 times in a single game,The chain is interrupted by casting different spells.</p>
 <p><b>Effect</b>: Increases Combo Strike bonus.</p>
-<p><b>Formula</b>: 40 * x ^ 0.9, where x is the number of times you have cast Combo Strike.</p>
+<p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
 <hr>
 <p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
@@ -45,7 +45,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" alt="Smiley face" align="middle"> Underworld Tyranny</b></p>
 <p><b>Cost</b>: 5 Qad (5E45)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil.</p>
-<p><b>Formula</b>: (15*x)^0.7%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
+<p><b>Formula</b>: ((15 * x) ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
@@ -65,7 +65,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" alt="Smiley face" align="middle"> Mana Addicts</b></p>
 <p><b>Cost</b>: 50 Qid (5E49)</p>
 <p><b>Effect</b>: Mana regeneration increases over time.</p>
-<p><b>Formula</b>: 0.25 * x ^ 0.55, where x is your Play Time (This Game) stat in seconds.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" alt="Smiley face" align="middle"> Blood Sacrifices</b></p>
 <p><b>Cost</b>: 500 Qid (5E50)</p>
@@ -88,7 +88,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" alt="Smiley face" align="middle"> Professional Assassins</b></p>
 <p><b>Cost</b>: 5 Spd (5E54)</p>
 <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased.</p>
-<p><b>Formula</b>: round(10*x^0.8)%, where x is your Royal Exchanges Made stat.</p>
+<p><b>Formula</b>: round(10 * x ^ 0.8)%, where x is your Royal Exchanges Made stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>
@@ -99,7 +99,7 @@
 <p><b>Cost</b>: 75,000 Drow Coins</p>
 <p><b>Requirements</b>: Drow Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased in this game.</p>
-<p><b>Formula</b>: 2 * x^0.8, where x is your Royal Exchanges Made stat.</p>
+<p><b>Formula</b>: (2 * x ^ 0.8), where x is your Royal Exchanges Made stat.</p>
 <hr>
 <p><b>Drow Research Requirements</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Sanctuary Quest</b></p>
@@ -111,7 +111,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Sanctuary</b></p>
 <p>Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Unlocks Drow Unique Buildings.</p>
-<p><b>Formula</b>: 30 * x ^ 0.8, where x is your Time Spent Offline (Total) stat.</p>
+<p><b>Formula</b>: (30 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
 <p><b>Requirements</b>: Spider Sanctuary Quest</p>
 <p><b>Cost</b>: 10 USxg (1E187)</p>
 <br/>
@@ -162,7 +162,7 @@
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
-<p><b>Formula</b>: (10 * x ^1.05), where x is royal exchanges this game</p>
+<p><b>Formula</b>: (10 * x ^ 1.05), where x is royal exchanges this game</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
 <p><b>Cost</b>: 1e24 Drow coins</p>

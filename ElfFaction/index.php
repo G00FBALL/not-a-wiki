@@ -14,7 +14,7 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Moon Blessing</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the total amount of treasure clicks across all play-throughs for 20 seconds.</p>
-<p><b>Formula</b>: 1.75 * ln^3.1(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Formula</b>: (1.75 * ln^3.1(1 + x))%, where x is your Treasure Clicks (Total) stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b>
 <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
 <p><b>Requirement</b>: Activate Moon Blessing between 6am and 12pm.</p>
@@ -31,7 +31,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTreasureCastingFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Treasure Casing</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
 <p><b>Effect</b>: Increase base clicking reward by 25k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
-<p><b>Formula</b>: floor((1+0.05*x)^0.95), where x is your Trophies Unlocked stat.</p>
+<p><b>Formula</b>: floor((1 + 0.05 * x)^ 0.95), where x is your Trophies Unlocked stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" alt="Smiley face" align="middle"> Sylvan Treasure Frills</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
@@ -45,7 +45,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEmissaryFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Emissary</b></p>
 <p><b>Cost</b>: 500 B (5E11)</p>
 <p><b>Effect</b>: Increase clicking reward based on the amount of Good buildings you own, and assistants find 3 times as many Faction Coins.</p>
-<p><b>Formula</b>: x^0.6%, where x is the number of Good Buildings you own.</p>
+<p><b>Formula</b>: (x ^ 0.6)%, where x is the number of Good Buildings you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEfficiencyFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Efficiency</b></p>
 <p><b>Cost</b>: 5 T (5E12)</p>
@@ -54,7 +54,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" alt="Smiley face" align="middle"> Secret Clicking Techniques</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
-<p><b>Formula</b>: ln(1 + x) ^ 2.5%, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Formula</b>: (ln(1 + x) ^ 2.5)%, where x is your Treasure Clicks (Total) stat.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Alliance</b></p>
@@ -64,7 +64,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiplomacyFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Diplomacy</b></p>
 <p><b>Cost</b>: 5 Qa (5E15)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on your chance to find Faction Coins.</p>
-<p><b>Formula</b>: 2 * x, where x is your chance to find Faction Coins.</p>
+<p><b>Formula</b>: (2 * x), where x is your chance to find Faction Coins.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Luck</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
@@ -90,7 +90,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Training Grounds</b></p>
 <p>Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made and unlocking more unique perks for the building.</p>
 <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
-<p><b>Formula</b>: ((50 * x^0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Formula</b>: ((50 * x ^ 0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.</p>
 <p>+Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Elven Training Grounds Quest"</p>
 <p><b>Cost</b>: 10 Ttg (1E103)</p>

@@ -256,7 +256,7 @@
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+    <p><b>Formula</b>: (2.5 * x ^ 2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
     <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 M (1E6)</p>
@@ -271,7 +271,7 @@
     <p><b>Upgrade Effect</b>: Increase the production of Non-Unique buildings based on total time spent. (Time in seconds this R)</p>
     <p><b>Cost</b>: 100 No (1e32)</p>
     <p><b>Cost</b>: A2+, Free</p>
-    <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R.</p>
+    <p><b>Formula</b>: (6.5 * x ^ 0.65), where x is time this R.</p>
 <hr>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random. (Changes every 30 seconds)</p>
     <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")</p>
@@ -351,7 +351,7 @@
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
     <p><b>Note</b>: Only available to Mercenaries</p>
-    <p><b>Formula</b>: 0.065 * x ^ 0.65 where x is amount of time spent as non-mercenary factions (in seconds).</p>
+    <p><b>Formula</b>: (0.065 * x ^ 0.65) where x is amount of time spent as non-mercenary factions (in seconds).</p>
     <p><b>Cost</b>: 100 Noqag (1e152)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>

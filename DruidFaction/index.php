@@ -47,12 +47,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidicVocabularyFactionUpgrade.png" align="middle"> Druidic Vocabulary</b></p>
 <p><b>Cost</b>: 500 Qi (5E20)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: 4000*x%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<p><b>Formula</b>: (4000 * x)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
 <p><b>Cost</b>: 5 Sx (5E21)</p>
 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-<p><b>Formula</b>: floor((sqrt(1+12*x)-1)/2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: floor((sqrt(1 + 12 * x)-1)/2), where x is your Playtime (This Game) stat in hours.</p>
     <a id="Companions"></a>
     <table class="numtable">
         <thead>
@@ -250,7 +250,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-<p><b>Formula</b>: (x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
+<p><b>Formula</b>: ((x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25), where x is time this game in seconds and y is offline time this game in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
