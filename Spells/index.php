@@ -792,7 +792,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GrandBalance.png" alt="Neutral" align="middle"> Grand Balance</b> (Druid)</p>
     <p><b>Works For</b>: Druid - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds (24s/w spell upgrade)</p>
     <p><b>Effect</b>: Increase the production of your least productive building based on the amount of the three most built ones.</p>
-    <p><b>Formula</b>: round(0.25*(x*y*z/729)^0.9) where x,y, and z are the number of your three most-built buildings.</p>
+    <p><b>Formula</b>: 25 * (x * y * z / (A + 3) ^ 6) ^ 0.9 where x, y and z are the number of your three most-built buildings.</p>
     <p><b>Spell Trophy & Upgrade</b>: <b>Halls of Balance</b></p>
     <p><b>Effect</b>: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.</p>
     <p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
