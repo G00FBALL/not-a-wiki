@@ -162,7 +162,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Angel Lineage Challenge.</p>
     <p><b>Challenge</b>: Play 2 hours straight with at least 1 spell active.</p>
-    <p><b>Note</b>: This must be done within first 8 hours and 1 minute since start of run.</p>
+    <p><b>Note</b>: This must be done within first 2 hours and 1 minute since start of run.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (God's Hand)</p>
     <br/>
     <p><b>Level 20</b></p>

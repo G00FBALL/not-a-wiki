@@ -270,8 +270,7 @@ div#images div{
                 <p><b>Cost</b>: Free</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.</p>
                 <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.</p>
-                <p><b>Note</b>: Ascension penalty for this upgrade is bugged and applies to the precentage rather than to the multiplier.</p>
-                <p><b>Formula</b>: final bonus multiplier = 1 + 0.01 * (x ^ (0.1 ^ A)) instead of (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
+                <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
                 <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                 <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                 <br/>
