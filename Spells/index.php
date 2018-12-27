@@ -340,7 +340,11 @@
                 var reinc = (d245) ? rei * 2 : rei;
                 reinc = (dp) ? reinc * 2 : reinc;
                 var base = 10000 * 1.05**reinc;
-                if (40 <= rei && rei < 100) {
+                if (rei < 40)
+                {
+                    base = (base/100+1);
+                }
+                else if (40 <= rei && rei < 100) {
                     base = (base**1.5/100+1)**(0.1*tier);
                 } else if (100 <= rei) {
                     base =  (base**2/100+1)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
