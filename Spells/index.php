@@ -86,8 +86,8 @@
                     <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="7"></td>
                 </tr>
                 <tr>
-                    <td>Arcane Brillance trophies</td>
-                    <td><input title="Number of Arcane Brillance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
+                    <td>Arcane Brilliance trophies</td>
+                    <td><input title="Number of Arcane Brilliance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
                 </tr>
                 <tr>
                     <td>Reincarnations</td>
