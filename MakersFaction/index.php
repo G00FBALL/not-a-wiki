@@ -118,7 +118,7 @@
 <p><b>Requirements</b>: R130</p>
 <p><b>Cost</b>: 1 Qad (1e45) Elven and Goblin Coins</p>
 <p><b>Effect</b>: All Creation production effect is based on the highest mana regeneration rate in this Reincarnation.</p>
-<p><b>Note</b>: Does not effetc FC chance
+<p><b>Note</b>: Does not effect FC chance
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity</b></p>
