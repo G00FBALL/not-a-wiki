@@ -37,7 +37,7 @@
                     <p>S1,S30,S105,S135,
                     <p>C10,C80,C105,C120,
                     <p>D55,D135,
-                    <p>E50,E80,E135,
+                    <p>E30,E50,E80,E135,
                     <p>A30,A105,A120,A135,
                     <p>W120,W135
                     <p><b>Autocasting</b>: SS on silver, the rest on Gold
