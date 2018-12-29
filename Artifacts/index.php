@@ -26,7 +26,7 @@
 <p><b>Excavation</b>: The first excavation costs 1 Oc (1E27) coins, and each subsequent excavation costs 20% more than the last.</p>
 <p><b>Formula</b>: 1e27 ^ (0.75 ^ A) * (1 + (0.2 - 0.025 (if E290) - 0.025 (if Ancient Egg)) / 5A) ^ x where A is number of ascensions and x is number of excavations.
 <p><b>Faction Coins</b>: 35% (40% with That Excavated Quickly upgrade) per excavation</p>
-<p><b>Formula</b>: floor(2 * ln(1 + (5000000 * 1.15^x))^3), where x is the number of excavations you have (not including the one just purchased).</p>
+<p><b>Formula</b>: 1500 + 0.05 * x ^ 2.75, where x is the number of excavations you have (not including the one just purchased).</p>
 <p><b>Excavation Reset</b></p>
 <p><b>Cost</b>: floor(x / 3000) + 1 rubies where x is number of excavations.
 <p><b>Note</b>: Free reset if enough times excavated this R (R40+ to afford reset amount)
