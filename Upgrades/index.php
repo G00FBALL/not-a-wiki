@@ -1086,13 +1086,13 @@
             <p><b>Effect</b>: Increases offline production by 200%.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MissingRuler.png" alt="" align="middle"> <b>Missing Ruler</b></p>
-            <p><b>Cost</b>: 1 B (1E9)
+            <p><b>Cost</b>: 1 Qi (1E18)
             <p><b>Unlock Requirements</b>: 24 consecutive hours offline
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases offline production by 500%.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NonexistentRuler.png" alt="" align="middle"> <b>Nonexistent Ruler</b></p>
-            <p><b>Cost</b>: 1 Qig (1E153)
+            <p><b>Cost</b>: 10 Qig (1E154)
             <p><b>Unlock Requirements</b>: 36 consecutive hours offline
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases offline production by 1500%
