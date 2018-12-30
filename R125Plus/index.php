@@ -60,7 +60,80 @@
                 <p>W275,W1375,W1400
                 <p><b>Notes</b>: Buffing W275 and FC12 is highly recommended.
                 <p><b>Notes</b>: Target Maelstrom at Dragon Pasture for maximum production
+
+
+
+    </div>
          </div>
+    </div>
+<br/>
+    <p><b>Buff Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairies (W275)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Fairy/Dwarf
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Artifact Set</b>: Dwarf
+                    <p><b>Range</b>: 1e42 (1 TD) Gems+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E410,E460,A30,A120,A495,W560,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S180,S400,S590,C10,C400,C405,C520,D225,D245,D435,E50,E410,E460,A30,A120,A495,W560,W1375" id="Build"> S400 Buffed
+                    <p>S1,S180,S590,S3200,
+                    <p>C10,C400,C405,C520,
+                    <p>D225,D245,D435,
+                    <p>E50,E410,E460,
+                    <p>A30,A120,A495,
+                    <p>W560,W1375
+                    <p><b>Notes</b>: Replace S3200 with S400 if buffed.
+                    <p><b>Notes</b>: Can afford DN12 at e67 (10 Uvg) Gems+
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titan (FC12 Buff) (1e48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Ensteffahn
+                    <p><b>Faction</b>: Titan/Dragon
+                    <p><b>Bloodline</b>: Elf
+                    <p><b>Artifact Set</b>: Druid
+                    <p><b>Range</b>: 1e48 (1 QiD) Gems
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S1450,S3200,C251,C251,C375,C1300,C1500,C3100,D245,D290,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S400,S1450,C251,C251,C375,C1300,C1500,C3100,D245,D290,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"> S400 Buffed
+                    <p>S300,S1450,S3200,
+                    <p>C251,C375,C1300,C1500,C3100,
+                    <p>D245,D290,D1125,
+                    <p>E275,E1225,E1325,
+                    <p>A120,A1200
+                    <p>W260,W1375,W1400
+                    <p><b>Notes</b>: Replace S3200 with S400 if buffed.
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Titan (FC12 Buff) (1e68)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Ensteffahn
+                    <p><b>Faction</b>: Titan/Dragon
+                    <p><b>Bloodline</b>: Faceless
+                    <p><b>Artifact Set</b>: Druid
+                    <p><b>Range</b>: 1e68 (1 100 UVg) Gems
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S1450,S3200,C251,C340,C375,C1300,C1500,D245,D290,D1125,E275,E1225,E1425,A120,A1200,W260,W1375,W1400" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D290,D1125,E275,E1225,E1425,A120,A1200,W260,W1375,W1400" id="Build"> S400 Buffed
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D290,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"> High Gems
+                    <p>S300,S1450,S3200,
+                    <p>C251,C340,C375,C1300,C1500,
+                    <p>D245,D290,D1125,
+                    <p>E275,E1225,E1425,
+                    <p>A120,A1200
+                    <p>W260,W1375,W1400
+                    <p><b>Notes</b>: Replace S3200 with S400 if buffed.
+                    <p><b>Notes</b>: E1425 with E1325 with sufficient gems(?)
     </div>
          </div>
     </div>
@@ -223,8 +296,69 @@
                     <p>A250,A495,
                     <p>W10,W560,W1375
                     <p><b>Notes</b>: Replace E290 with E135 if there are excavations to spare.
-
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Second Stone Fragment (production)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Rellikrellik
+                    <p><b>Faction</b>: Druid/Dragon
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1450,S3200,C300,C340,C1300,D245,D275,D1125,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
+                    <p>S1450,S3200,
+                    <p>C300,C340,C1300,
+                    <p>D245,D275,D1125,
+                    <p>E260,E1225,E1425,
+                    <p>A250,A251,A375,A1200,A1500,
+                    <p>W350,W1375,W1400
+                    <p><b>Notes</b>: Stronger than the Goblinline Druid build, this one is intended for worse values, but much higher production.
+                    <p><b>Notes</b>: Excavate for Fairy AH to set up this build.
+                    <p><b>Notes</b>: Replace E290 with E135 if there are excavations to spare.
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Second Stone Fragment (sv)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Druid/Dragon
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Artifact Set</b>: Druid, Faceless (If stronger)
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S400,S1450,C300,C340,C1300,D245,D275,D1125,E260,E290,E1225,A120,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
+                    <p>S400,S1450,
+                    <p>C300,C340,C1300,
+                    <p>D245,D275,D1125,
+                    <p>E260,E290,E1225,
+                    <p>A120,A251,A375,A1200,A1500,
+                    <p>W350,W1375,W1400
+                    <p><b>Notes</b>: If you really need that specific value, this build has worse production than the above build but can hit better values.
+                    <p><b>Notes</b>: Replace E290 with E135 if there are excavations to spare.
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Third Stone Fragment<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                   <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Gobin/Drow
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>Artifact Set</b>: Undead
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S400,S435,C175,C340,D200,D560,E145,E1,E225,E290,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
+                    <p>S50,S400,S435,
+                    <p>C175,C340,
+                    <p>D200,D560,
+                    <p>E1,E225,E290,E495,E590,
+                    <p>A10,A120,A410,
+                    <p>W25,W205,W405,W520
+                    <p><b>Notes</b>: Druid challenge 4 off for Combo Strike buffing if production is needed.
+                    <p><b>Notes</b>: Replace E290 with E135 if there are excavations to spare.
         </div>
     </div>
       </div>
+         </div>
 <?php include "../scripts/footer.html"; ?>
