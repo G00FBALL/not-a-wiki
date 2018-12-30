@@ -60,9 +60,171 @@
                 <p>W275,W1375,W1400
                 <p><b>Notes</b>: Buffing W275 and FC12 is highly recommended.
                 <p><b>Notes</b>: Target Maelstrom at Dragon Pasture for maximum production
+         </div>
+    </div>
+         </div>
+    </div>
+<br/>
+    <p><b>Artifact Builds</b></p>
+                    <p><b>All Artifact builds are still being refined</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">First Iron Fragment (Need a Build)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+<!--                    <p><b>Author</b>: Lapare
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>A2950</b>: Elf
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C250,C400,C590,C1300,C3000,C3100,D25,D200,D245,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1375,W1400,W3050,W3150" id="Build">
+                    <p>EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,
+                    <p>SP:Dragon's Breath,SP:Fairy Chanting,
+                    <p>S215,S305,S400,S1450,S1500,S3200,
+                    <p>C250,C400,C590,C1300,C3000,C3100,
+                    <p>D25,D200,D245,D1275,D1375,D2775,
+                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>W275,W400,W1375,W1400,W3050,W3150--!>
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Second Iron Fragment<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Titan/Dragon
+                    <p><b>Bloodline</b>: Druid
+                    <p><b>Artifact Set</b>: Druid, Faceless (If stronger)
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D350,D1125,E275,E460,E1225,A120,A1200,W260,W1375,W1400" id="Build">
+                    <p>S300,S400,S1450,
+                    <p>C251,C340,C375,C1300,C1500,
+                    <p>D245,D350,D1125,
+                    <p>E275,E460,E1225,
+                    <p>A120,A1200,W260,
+                    <p>W1375,W1400
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Third Iron Fragment (Need a Build)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+<!--                     <p><b>Author</b>: Lapare
+                    <p><b>Faction</b>: Neutral Mercenary
+                    <p><b>Bloodline</b>: Dragon
+                    <p><b>A2950</b>: Druid
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
+                    <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
+                    <p>SP:Fairy Chanting,SP:God's Hand,
+                    <p>S215,S305,S330,S400,S1450,S1500,
+                    <p>C250,C340,C400,C590,C1300,C3000,
+                    <p>D25,D200,D250,D350,D1275,D2775,
+                    <p>E135,E145,E320,E590,E1425,E3250,
+                    <p>A120,A305,A1200,A1500,A2950,A3400,
+                    <p>W180,W275,W400,W1375,W3050,W3150--!>
+        </div>
+    </div>
+<br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">First Crystal Fragment<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Fairy/Dwarf
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Artifact Set</b>: Dwarf
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E290,E410,A30,A120,A495,W560,W1375" id="Build">
+                    <p>S1,S180,S590,S3200,
+                    <p>C10,C400,C405,C520,
+                    <p>D225,D245,D435,
+                    <p>E50,E290,E410
+                    <p>A30,A120,A495,
+                    <p>W560,W1375
+                    <p><b>Notes</b>: Replace E290 with E460 if there are excavations to spare.
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Second Crystal Fragment<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Faceless/Dragon
+                    <p><b>Bloodline</b>: Undead
+                    <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D330,D1125,E290,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
+                    <p>S251,S375,S400,S1450,S1500,
+                    <p>C400,C1300,
+                    <p>D260,D330,D1125,
+                    <p>E290,E350,E1225,
+                    <p>A300,A1200,A3400,
+                    <p>W275,W1375,W1400
+                    <p><b>Notes</b>: Replace E290 with E320 if there are excavations to spare.
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Third Crystal Fragment (Stage 1)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Curunur
+                    <p><b>Faction</b>: Demon/Drow
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Artifact Set</b>: Demon
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S435,S3200,C50,C250,D10,D245,D560,E145,E230,E495,A25,A120,A410,W1,W175,W205,W405,W520,W590" id="Build">
+                    <p>S435,S3200,
+                    <p>C50,C250,
+                    <p>D10,D245,D560,
+                    <p>E145,E230,E495,
+                    <p>A25,A120,A410,
+                    <p>W1,W175,W205,W405,W520,W590
+                    <p><b>Notes</b>: This build is for increasing chances for the artifact, as its based on This R casts. Once you are satified with the amount of casts, change to the Stage 2 build for excavating the artifact.
+                    <p><b>Notes</b>: Turn off Druid Challenge 4 and Goblin Spell Challenge to maximize casts.
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Third Crystal Fragment (Stage 2)(Need a Build<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+<!--                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Demon/Drow
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Artifact Set</b>: Demon
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S435,S3200,C50,C250,D10,D245,D560,E145,E230,E495,A25,A120,A410,W1,W175,W205,W405,W520,W590" id="Build">
+                    <p>S435,S3200,
+                    <p>C50,C250,
+                    <p>D10,D245,D560,
+                    <p>E145,E230,E495,
+                    <p>A25,A120,A410,
+                    <p>W1,W175,W205,W405,W520,W590
+                    <p><b>Notes</b>: This build is for increasing chances for the artifact, as its based on This R casts. Once you are satified with the amount of casts, change to the Stage 2 build for excavating the artifact.
+                    <p><b>Notes</b>: Turn off Druid Challenge 4 and Goblin Spell Challenge to maximize casts.!-->
+        </div>
+    </div>
+<br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">First Stone Fragment<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Elf/Dwarf
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Artifact Set</b>: fairy
+                    <p><b>Range</b>: (?)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D245,D435,E25,E290,E410,A250,A495,W10,W560,W1375" id="Build">
+                    <p>S175,S400,
+                    <p>C1,C225,C340,C405,C520,C590,
+                    <p>D50,D245,D435,
+                    <p>E25,E290,E410,
+                    <p>A250,A495,
+                    <p>W10,W560,W1375
+                    <p><b>Notes</b>: Replace E290 with E135 if there are excavations to spare.
 
-         </div>
+        </div>
     </div>
-         </div>
-    </div>
+      </div>
 <?php include "../scripts/footer.html"; ?>
