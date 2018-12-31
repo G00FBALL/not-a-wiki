@@ -3122,7 +3122,6 @@
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle><b> Harlequin</b></p>
 <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 11 different factions.</p>
-<p><b>Note</b>: Click image to go to the Harlequin Build.</p>
 <p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)</p>
 <p><b>Effect</b>: Post A1, Increases production of all buildings based on the amount of different factions involved in your mercenary upgrades.</p>
 <p><b>Cost</b>: 5 Qivg (5e78)</p>
