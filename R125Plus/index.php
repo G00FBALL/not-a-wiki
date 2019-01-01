@@ -303,7 +303,7 @@
             <div class="autohide">
                     <p><b>Author</b>: Rellikrellik
                     <p><b>Faction</b>: Druid/Dragon
-                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Bloodline</b>: Fairyline
                     <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
