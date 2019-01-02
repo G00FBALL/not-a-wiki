@@ -189,7 +189,7 @@
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase production of all buildings based on their quantity.</p>
     <p><b>Formula</b>: (0.8 * x ^ 0.7), where x is building count.</p>
-    <p><b>Effect</b>: Alsoconsiders building count upgrades.</p>
+    <p><b>Effect</b>: Also considers building count upgrades.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GlyphTable.png" alt="Artifacts" align="middle"><b> Glyph Table</b></p>
     <p><b>Clue</b>: Balance your buildings.</p>
