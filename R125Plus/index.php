@@ -121,14 +121,14 @@
                     <p><b>Artifact Set</b>: Druid
                     <p><b>Range</b>: 1e68 (1 100 UVg) Gems
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S300,S1450,S3200,C251,C340,C375,C1300,C1500,D245,D290,D1125,E275,E1225,E1425,A120,A1200,W260,W1375,W1400" id="Build">
+                      <input type="text" value="S300,S1450,S3200,C251,C340,C375,C1300,C1500,D245,D350,D1125,E275,E1225,E1425,A120,A1200,W260,W1375,W1400" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D290,D1125,E275,E1225,E1425,A120,A1200,W260,W1375,W1400" id="Build"> S400 Buffed
+                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D350,D1125,E275,E1225,E1425,A120,A1200,W260,W1375,W1400" id="Build"> S400 Buffed
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D290,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"> High Gems
+                      <input type="text" value="S300,S400,S1450,C251,C340,C375,C1300,C1500,D245,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"> High Gems
                     <p>S300,S1450,S3200,
                     <p>C251,C340,C375,C1300,C1500,
-                    <p>D245,D290,D1125,
+                    <p>D245,D350,D1125,
                     <p>E275,E1225,E1425,
                     <p>A120,A1200
                     <p>W260,W1375,W1400

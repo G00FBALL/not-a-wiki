@@ -54,7 +54,7 @@
 <p>The Druids need more spell power, but they are worried about outside influences throwing off their balance</p>
 <p><b>Requirements</b>: 25 Reincarnations, Druid Unique Building</p>
 <p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
-<p><b>Effect</b>: Increase all spell durations based on max mana.</p>
+<p><b>Effect</b>: All spell durations are increased based on Maximum Mana. Cannot exceed a bonus of 100,000%.</p>
 <p><b>Formula</b>: (0.005 * x ^ 0.85), where x is max mana.</b>
 <p><b>Upgrade</b>: Good for All</b>
 <p><b>Tips</b></p>
