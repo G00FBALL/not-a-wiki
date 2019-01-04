@@ -98,7 +98,7 @@
 <hr>
 <p><b>Research</b></p>
 <p><b>S2875</b>: For Mercenary - Spell Name: Scholarship</p>
-<p><b>Requirement</b>: 12000 Freemason's Halls.</p>
+<p><b>Requirement</b>: 11000 Merc Unique Buildings.</p>
 <p><b>Cost</b>: 7.26 Qiqag (7.26e168)</p>
 <p><b>Effect</b>: Increases the production of Non-Unique buildings by 0.4% per Unique building.</p>
 <br/>

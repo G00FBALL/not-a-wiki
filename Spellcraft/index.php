@@ -177,7 +177,7 @@
 <p><b>Formula</b>: (8.5 * x ^ 0.85)%, where x is assistants.</p>
 <br/>
 <p><b>S2875</b> - For</b> Mercenary - Research Name</b>: Scholarship</p>
-<p><b>Requirement</b>: 11000 Freemason's Halls.</p>
+<p><b>Requirement</b>: 11000 Merc Unique Buildings.</p>
 <p><b>Cost</b>: 30.5 QaQig (3.05e166)</p>
 <p><b>Effect</b>: Increases the production of Non-Unique buildings by 35% per Unique building.</p>
 <br/>
