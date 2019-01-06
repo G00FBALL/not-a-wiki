@@ -348,7 +348,7 @@
                     <p><b>Artifact Set</b>: Undead
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C340,D200,D560,E145,E1,E225,E290,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
+                      <input type="text" value="S50,S400,S435,C175,C340,D200,D560,E1,E225,E290,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
                     <p>S50,S400,S435,
                     <p>C175,C340,
                     <p>D200,D560,
