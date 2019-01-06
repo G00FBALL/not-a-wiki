@@ -62,6 +62,8 @@ function buildBubbleSwarmTable(l, h) {
   var manavals = [];
   var bldgvals = [];
   var numvals = 0;
+  var j = 0; // Index for second half of array to avoid odd/even issues
+  
   for (i = 1; i < maxbldg; i++) {
     var mana = bubbleSwarm(applyBldgMultiplier(i,l,h));
     if( mana > maxmana ) {
@@ -80,8 +82,8 @@ function buildBubbleSwarmTable(l, h) {
   tabletext += "</tbody></table>";
 
   tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>Max Mana</th></tr></thead><tbody>";
-  for(i = Math.floor(1 + numvals/2); i < numvals; i++){
-  	  tabletext += "<tr><td>" + bldgvals[i] + "</td><td>" + manavals[i] + "</td></tr>";
+  for(j = i ; j < numvals; j++){
+  	  tabletext += "<tr><td>" + bldgvals[j] + "</td><td>" + manavals[j] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
