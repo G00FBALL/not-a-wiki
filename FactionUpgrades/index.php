@@ -960,7 +960,8 @@
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
-                <p><b>Formula</b>: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.</p>
+                <p><b>Formula</b>: (0.01 * log10(1 + x)), where x is T7 spells.</p>
+                <p><b>Dragon's Breath Formula</b>: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" align="middle"> Angelic Fortitude</b></p>
                 <p><b>Requirement</b>: A2, Angels Union</p>
