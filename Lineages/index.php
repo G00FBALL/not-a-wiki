@@ -107,7 +107,7 @@
     <p><b>Level 30</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk4.png" align="middle"><b> Fairy Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: When Fairy Chanting is active, increase assistant amount by 10% every 5 minutes of its duration.</p>
+    <p><b>Effect</b>: While Fairy Chanting is active, further increase your temporary assistants by 10% every 5 minutes of its duration.</p>
     <p><b>Formula</b>: (10 * Floor (x/300)), where x is Fairy Chanting duration in seconds.</p>
     <hr>
     <H6>Elven</h6>
