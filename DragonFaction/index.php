@@ -196,7 +196,7 @@
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend Ln(FC chance) (even for Unique, odd for Non-Unique).</p>
+<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend log10(FC chance) (even for Unique, odd for Non-Unique).</p>
 <p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is assistant count.</p>
 <p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is assistant count.</p>
 <br/>
