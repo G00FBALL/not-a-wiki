@@ -242,7 +242,7 @@
     <p><b>Offline Spell Casting</b></p>
     <p><b>While offline</b>: Spells set on autocasting will gain "Active Time (This game)", but no spell casts will be counted. Instead, a generic non-specific spell will increase your "Spell Casts" entry in the stats.</p>
     <p><b>Offline Activity Time Gain Formula</b></p>
-    <p><b>Formula</b>: t * min(1, m * d / (c^1.5 * n)), where t is offline time, m is mana regen per second, d is spell duration, c is spell mana cost, and n is number of spells set to autocast</p>
+    <p><b>Formula</b>: t * min(1, m * d / (n * c ^ 1.5)), where t is offline time, m is mana regen per second, d is spell duration in seconds, c is spell mana cost (as tier 1), and n is number of spells set to autocast</p>
     <p><b>Note</b>: When going offline disable Tax Collection as it is counted for the number of spells set to autocast but nothing will be gained from it being set to autocast offline.</p>
     <p><b>For Spells to work offline, you need</b></p>
     <p>Offline mana regen upgrades (such as included in the 'Automatic auto-casting' upgrade)</p>
@@ -251,11 +251,9 @@
     <hr>
     <p><b><center>All Alignment and Faction Spells</center></b></p>
     </br>
-    <p><b>As of v3.3 All spell durations are now capped to 10000x their base duration.</b></p>
-    </br>
     <p><b>All Spells Tiers</b></p>
     <p><b>Note</b>: Each tier also increase offline production based on mana statistics. (Not Tax Collection)</p>
-    <p><b>Formula</b>: (m + 100 * r)^(1 + 0.15 * t) where m is max mana, r is regen, t is tier.</p>
+    <p><b>Formula</b>: (m + 100 * r) ^ (1 + 0.15 * t) where m is max mana, r is regen, t is tier.</p>
     <p><b>Note</b>: Spell tier upgrades are A0 upgrades (A1 for T7 and A2 spells) so apply A-nerf accordingly.
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TaxCollection.png" alt="All Factions" align="middle"> Tax Collection</b> (All Factions)</p>
     <p><b>Works For</b>: All - <b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds </p>
@@ -264,7 +262,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/CallToArms.png" alt="All Factions" align="middle"> Call to Arms</b> (All Factions)</p>
     <p><b>Works For</b>: All - <b>Cost</b>: 400 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
-    <p><b>Formula</b>: (0.3*x)^0.975%, where x is your Buildings Owned (This Game) stat.</p>
+    <p><b>Formula</b>: ((0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Call to Arms Tier 2-7</a></b></p>
