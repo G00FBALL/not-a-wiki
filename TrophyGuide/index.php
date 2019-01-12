@@ -230,7 +230,7 @@
         <tr>
             <td><center>Equality</p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png"></td>
             <td>1 Qa (1e45)</p>A1+ Free</td>
-            <td>Spend at least 24 hours with each of the 3 alignments, and have the difference between each one be less than 60 seconds.</td>
+            <td>With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments (Good, Evil, Neutral) (This R).</td>
             <td>Increase the production of all buildings by 100%.</p>A1, 7.18%</p>A2, 0.7%</td>
             <td>Any R (suggested R0, R32, R46) Best to do at R0 because of bonus, At R32 you have research D480 that require 12 hours with Good, Evil and Neutral., D525 that requires 1 day 12 hours as Good.</td>
         </tr>
