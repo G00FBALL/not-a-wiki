@@ -350,8 +350,8 @@
                 <p><b>Notes</b>: At atleast 1e65 (100 Vg) Gems+(?) (Undead Lineage).
                 <p><b>Notes</b>: At atleast 1e66 (1 UVg) Gems+ (Druid Lineage).
                 <p><b>Notes</b>: At atleast 1e69 (1 DVg)(?) Gems+ (Faceless Lineage).
-                <p><b>Notes</b>: Swap A120 with A400 at 1e69 (1 DVg)(?) Gems+ (Dragon Lineage).
-                <p><b>Notes</b>: Swap A120 with A400 at 1e71 (100 Dvg)(?) Gems+ (Faceless Lineage).)<b>if Fairy and Faceless AH are avaliable</b>)
+                <p><b>Notes</b>: Swap A120 with A400 at 1e69 (1 DVg)(?) Gems+ (Dragon Lineage).(<b>if Fairy and Faceless AH are avaliable</b>)
+                <p><b>Notes</b>: Swap A120 with A400 at 1e71 (100 Dvg)(?) Gems+ (Faceless Lineage).(<b>if Fairy and Faceless AH are avaliable</b>)
          </div>
                 <p><b>(Gem reqs need testing/Outdated?)</b></p>
                 <p><b>(C305 swaps need testing)</b></p>
