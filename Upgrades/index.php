@@ -1655,7 +1655,7 @@
             <p><b>Effect</b>: Increase your base clicking reward by 1M
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretUpgrade.png" alt="Equality" align="middle"><b> Equality</b></p>
-            <p><b>Requirements</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.
+            <p><b>Requirements</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.(This R)
             <p><b>Cost</b>: 1 Qad (1E45)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings by 100%.

@@ -3104,7 +3104,7 @@
 <p><b>Note</b>: <a href="http://musicfamily.org/realm/SpeedRun/"><b>Instructions</b></a></p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png align=middle><b> Equality</b></p>
-<p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.</p>
+<p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.(This R)</p>
 <p><b>Note</b>: Alignments: Good, Evil, Neutral</p>
 <p><b>Effect</b>: Increase the production of all buildings by 100%.</p>
 <p><b>Effect</b>: A1, the production of all buildings by 7.18%.</p>
