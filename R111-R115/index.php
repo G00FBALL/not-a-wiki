@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Aug 19th 2018</b>
+    <p><b>Updated Jan 12th 2019</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread 3.3</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -15,7 +15,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid starter<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Starter<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn
                 <p><b>Range</b>: 0 gems - 1e27 (1 Oc) Gems
@@ -95,27 +95,46 @@
                 </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Elf Set)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Artcrow
+                <p><b>Author</b>: Wlerin
                 <p><b>Requirements</b>: Art of the Crow Trophy
-                <p><b>Range</b>: 1e46 (10 Qad) Gems
-                <p><b>Faction</b>: Angel
+                <p><b>Range</b>: 1e45 (1 QaD) Gems+
+                <p><b>Faction</b>: Undead
                 <p><b>Bloodline</b>: Dragon
-                <p><b>Artifact Set</b>: Elf
+                <p><b>Artifact Set</b>: Undead
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S10,S400,C25,C400,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build"> Short 2 day run
+                      <input type="text" value="S225,S3200,C400,D25,D245,E10,E400,A1,A120,A175,W50,W205" id="Build">
+                <p>S225,S3200,
+                <p>C400,
+                <p>D25,D245,
+                <p>E10,E400,
+                <p>A1,A120,A175,
+                <p>W50,W205
+                <p><b>Notes</b>: Takes estimated time of 12-16(?) hours to SS7 (Highly depends on use of Sunforce Faction Coins).
+                </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Titan<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Cromie
+                <p><b>Requirements</b>: Art of the Crow Trophy
+                <p><b>Range</b>: 1e46 (10 QaD) Gems+
+                <p><b>Faction</b>: Titan
+                <p><b>Bloodline</b>: Dragon
+                <p><b>Artifact Set</b>: Titan
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build"> Long 3+ day run
-                <p>S10,S400,
-                <p>C25,C400,
-                <p>D1,D175,D245,
-                <p>E400,
-                <p>A50,A120,
-                <p>W225,W1375
-                <p><b>Notes</b>: Takes estimated time of 1.5-2 days to SS7.
-                <p><b>Notes</b>: Buffing Elf set, S400 and max excavation with E290 before running this build is highly recommended.
-                <p><b>Notes</b>: Swap C400 with C340 if high C340 and longer runs (2-4(?) days to SS7)
+                      <input type="text" value="S300,S3200,C251,C375,C400,D245,D350,E275,E1425,A120,W260,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S300,S3200,C251,C375,C400,D245,D350,E275,E1425,A250,W260,W1375" id="Build"> if TT12 is stronger
+                <p>S300,S3200,
+                <p>C251,C375,C400,
+                <p>D245,D350,
+                <p>E275,E1425,
+                <p>A120,W260,
+                <p>W260,W1375
+                <p><b>Notes</b>: Takes estimated time of 10-20 hours(?) to SS7.
+                <p><b>Notes</b>: Swap A120 with A250 if TT12 is stronger than A120.
               </div>
     </div>
     </div>
@@ -123,17 +142,17 @@
     <p><b>Special Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 Buff) (-1e37 (10 Ud) Gems)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: ? Gems
+                <p><b>Range</b>: ? - 1e37 (10 Ud) Gems
                 <p><b>Faction</b>: Faceless
                 <p><b>Bloodline</b>: Undead
                 <p><b>Artifact Set</b>: Undead
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S251,S375,S500,C400,D200,D260,E350,E1325,A120,A300,W275,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S251,S375,S400,C400,D200,D260,E350,E1325,A120,A300,W275,W1375" id="Build"> S400 Buffed
+                      <input type="text" value="S251,S375,S400,C400,D200,D260,E350,E1325,A120,A300,W275,W1375" id="Build"> S400 higher than S500
                 <p>S251,S375,S500,
                 <p>C400,
                 <p>D200,D260,
@@ -141,22 +160,22 @@
                 <p>A120,A300,
                 <p>W275,W1375
                 <p><b>Notes</b>: Performance varies based on faction times, but needs very little time to beat most W275 buff variants.
-                <p><b>Notes</b>: Swap artifact to Druid (or Faceless, if stronger) if able to afford Art of the Crow (1e37 (10 Ud) gems+) with SS7 (45 minutes - 1.5 hours wait).
+                <p><b>Notes</b>: S500 with S400 if better.
          </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 buff) (1e37 (10 Ud) Gems+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 Buff) (+1e37 (10 Ud) Gems)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
             <p><b>Author</b>: Necrodoom
-            <p><b>Range</b>: 10 Ud (1e37) Gems+ Gems
+            <p><b>Range</b>: 10 Ud (1e37) Gems+
             <p><b>Requirements</b>: Art of the Crow
             <p><b>Faction</b>: Faceless
             <p><b>Bloodline</b>: Undead
-            <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+            <p><b>Artifact Set</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S251,S375,S500,C400,D200,D260,E350,E1325,A120,A300,W275,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S251,S375,S400,C400,D200,D260,E350,E1325,A120,A300,W275,W1375" id="Build"> S400 Buffed
+                  <input type="text" value="S251,S375,S400,C400,D200,D260,E350,E1325,A120,A300,W275,W1375" id="Build">  S400 higher than S500
             <p>S251,S375,S500,
             <p>C400,
             <p>D200,D260,
@@ -168,10 +187,11 @@
      </div>
 </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Jgchan29
                 <p><b>Range</b>: 1e43 (10 Td) Gems+
+                <p><b>Requirements</b>: Art of the Crow
                 <p><b>Faction</b>: Goblin
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Undead
@@ -189,30 +209,30 @@
                 </div>
            </div>
                    <div class="shelementwhole">
-                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="Blue"> Good</font></a></b></p>
+                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titan (FC12 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                        <div class="autohide">
-                           <p><b>Author</b>: Jgchan29
-                           <p><b>Range</b>: 1e45 (1 QaD) Gems+
-                           <p><b>Requirements</b>: Art of the Crow Trophy
-                           <p><b>Faction</b>: Angel
-                           <p><b>Bloodline</b>: Dwarf
-                           <p><b>Artifact Set</b>: Angel, Elf (if buffed)
+                           <p><b>Author</b>: Necrodoom
+                           <p><b>Range</b>: 1e43 (10 TD) Gems+
+                           <p><b>Requirements</b>: Art of the Crow
+                           <p><b>Faction</b>: Titan
+                           <p><b>Bloodline</b>: Faceless
+                           <p><b>Artifact Set</b>: Druid
                                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                                 <input type="text" value="S10,S400,C25,C340,D1,D150,D175,E1325,A50,A250,W225,W1375" id="Build">
-                           <p>S10,S400,
-                           <p>C25,C340,
-                           <p>D1,D150,D175,
-                           <p>E1325,
-                           <p>A50,A250,
-                           <p>W225,W1375
-                           <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
+                                 <input type="text" value="S300,S400,C251,C375,C400,D245,D350,E275,E1325,A120,W260,W1375" id="Build">
+                           <p>S300,S400,
+                           <p>C251,C375,C400,
+                           <p>D245,D350,
+                           <p>E275,E1325,
+                           <p>A120,
+                           <p>W260,W1375
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Elves (Elf Set buff)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Elves (Elf Set Buff)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: ? Gems+
+                <p><b>Range</b>: 1e45 (1 QaD) Gems+
+                <p><b>Requirements</b>: Art of the Crow
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Elf
@@ -230,13 +250,14 @@
                 </div>
            </div>
         <div class="shelementwhole">
-           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
              <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: ? Gems+
+                <p><b>Requirements</b>: Art of the Crow
                 <p><b>Faction</b>: Faceless
                 <p><b>Bloodline</b>: Undead
-                <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                <p><b>Artifact Set</b>: Druid
                    <p><button onclick="myFunction($(this))">Copy Build</button>
                    <input type="text" value="S251,S375,S400,C400,D200,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
                 <p>S251,S375,S400,
@@ -281,7 +302,7 @@
                        <p><b>Range</b>: ? Gems+
                        <p><b>Faction</b>: Faceless
                        <p><b>Bloodline</b>: Drow
-                       <p><b>Artifact Set</b>: Druid, Faceless (if stronger)
+                       <p><b>Artifact Set</b>: Druid
                              <p><button onclick="myFunction($(this))">Copy Build</button>
                              <input type="text" value="S251,S375,S400,C400,D150,D260,E320,E350,A300,A3400,W275,W1375" id="Build">
                        <p>S251,S375,S400,
