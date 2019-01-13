@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Aug 19th 2018</b></p>
+    <p><b>Updated Jan 12th 2019</b></p>
         <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
     <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
@@ -37,24 +37,21 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druids<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: 123123winz
-                    <p><b>Range</b>: 1e27 (1 Oc) gems - 1e35 (100 Dc) gems
+                    <p><b>Range</b>: 1e27 (1 Oc) gems - 1e36 (100 Dc) gems
                     <p><b>Alignment</b>: Neutral, Proof of Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact Set</b>: Druid (if available)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C300,C400,D150,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build"> 45+ minutes
+                      <input type="text" value="S3200,C300,C400,D245,D275,E260,E1425,A251,A375,A400,W350,W1375" id="Build">
                     <p><b>Template</b>
                     <p>S3200,
                     <p>C300,C400,
-                    <p>D150,D275,
+                    <p>D245,D275,
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
                     <p><b>Notes</b>: Takes several minutes (~10 minutes) to set up.
-                    <p><b>Notes</b>: Swap D150 with D245 for longer (45 minutes+) runs
          </div>
     </div>
         <div class="shelementwhole">
@@ -74,56 +71,7 @@
                     <p>E260,E1425,
                     <p>A251,A375,A400,
                     <p>W350,W1375
-                    <p><b>Notes</b>: Estimated time 10-11 hours for SS7 with no neutral time this R. Next runs this R will take shorter due to White Breath growth.
-                    </div>
-               </div>
-            </div>
-                    <br/>
-    <p><b>Special Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: ensteffahn
-                    <p><b>Range</b>: ? Gems
-                    <p><b>Alignment</b>: Evil, Proof of Balance
-                    <p><b>Faction</b>: Goblin
-                    <p><b>Bloodline</b>: Undead
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E1325,A10,A120,W25,W205" id="Build">
-                    <p>S50,S3200,
-                    <p>C175,C400,
-                    <p>D200,
-                    <p>E1,E225,E1325,
-                    <p>A10,A120,
-                    <p>W25,W205
-                    <p><b>Notes</b>: Estimated time of 10 days for 100k S400.
-         </div>
-    </div>
-    <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Treasure Hoarder (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
-        <div class="autohide">
-                <p><b>Author</b>: ensteffahn
-                <p><b>Range</b>: ? Gems
-                <p><b>Requirements</b>: Angel Set Artifact
-                <p><b>Alignment</b>: Evil, Proof of Balance
-                <p><b>Faction</b>: Goblin
-                <p><b>Bloodline</b>: Dragon
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E320,A10,A120,W25,W205" id="Build">
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S50,S3200,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 1+ day
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S50,S400,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 10+ day
-                <p>S50,S3200,
-                <p>C175,C400,
-                <p>D200,
-                <p>E1,E225,E320,
-                <p>A10,A120,
-                <p>W25,W205
-                <p><b>Notes</b>: Swap E320 with E135 for longer runs (1 day+)
-                <p><b>Notes</b>: Swap S3200 -> S400 for very long runs (10 days+, maybe even more) or if you have Dragon Lineage 30+
-                <p><b>Notes</b>: Estimated time of 10 days for 350k S400 at Dragon Lineage 25.
+                    <p><b>Notes</b>: Estimated time 10-11 hours for SS7.
        </div>
 </div>
             </div>
@@ -133,7 +81,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Swarming Tower (Fairy) e16 (10 Qa) Gems<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: FutureSin
+                    <p><b>Author</b>: Ensteffahn
                     <p><b>Range</b>: e16 (10 Qa) Gems
                     <p><b>Alignment</b>: Good, Proof of Chaos
                     <p><b>Faction</b>: Fairy
@@ -146,7 +94,7 @@
                     <p>E50,E1325,
                     <p>A30,A120,
                     <p>W1375
-                    <p><b>Notes</b>: Estimated time of 2 minutes for unlock.
+                    <p><b>Notes</b>: Estimated time of 2 minutes to unlock.
         </div>
     </div>
         <div class="shelementwhole">
@@ -240,7 +188,7 @@
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S500,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build"> S400 Stronger
+                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build"> S400 higher than S500
                     <p>S500,
                     <p>C50,C3100,
                     <p>D10,D200,
@@ -341,7 +289,7 @@
                     <p><b>Range</b>: ?
                     <p><b>Alignment</b>: Neutral, Proof of Order
                     <p><b>Faction</b>: Titan
-                    <p><b>Bloodline</b>: Dragon
+                    <p><b>Bloodline</b>: Druid
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S300,S3200,C251,C375,C400,D200,D350,E275,E1325,A3400,W260,W1375" id="Build">
                     <p>S300,S3200,
