@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Aug 19th 2018</b>
+    <p><b>Updated Jan 12th 2019</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982027-row"><b>megathread</b></a>  forum page</p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -110,7 +110,7 @@
                 <p>E135,E260,E350,E1225,E1425,E3250,
                 <p>A120,A590,A1200,A1500,A2950,A3400,
                 <p>W120,W180,W400,W1275,W3050,W3150
-                <p><b>Notes</b>:Have Lightning Strike hit Deep Mine for maximal production.
+                <p><b>Notes</b>: Have Lightning Strike hit Deep Mine for maximal production.
                 <p><b>Notes</b>: Replace C400 with C1500 if 150%+.
                 <p><b>Notes</b>: Replace E350 with E480 if higher (takes about 1 hour of buildup in R for E480 to be higher).
                 <p><b>Notes</b>: Replace W120 with W275 if buffed.
@@ -143,23 +143,23 @@
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Requirements</b>: Veteran Figurine, 51.8B mana generated this R (for GB11)
-                <p><b>Range</b>: 1e132 (1 TQag)(?) - ? Gems
+                <p><b>Range</b>: 1e138 (1 QiQag)(?) - ? Gems
                 <p><b>Faction</b>: Evil Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
                 <p><b>13th Upgrade</b>: UD7
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C305,C340,C400,C590,C1300,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> C1500 is 150%+
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C305,C340,C590,C1300,C1500,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E290,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> C1500 is 150%+
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E350,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> No Ruby
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C305,C340,C400,C590,C1300,C3000,D25,D200,D245,D330,D1275,D2775,E10,E135,E145,E350,E1225,E3250,A120,A150,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> No Ruby
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D245,D330,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A120,A150,A410,A590,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> S400 is buffed
+                  <input type="text" value="EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,SP:Grand Balance,SP:Brainwave,S50,S305,S375,S400,S1450,S1500,C305,C340,C400,C590,C1300,C3000,D25,D245,D330,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A120,A150,A410,A590,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build"> S400 is buffed
                 <p>EL3,EL7,AN5,AN8,TT6,DD6,DD7,FC3,DN2,DG3,DG4,DG9,
                 <p>SP:Grand Balance,SP:Brainwave,
                 <p>S50,S305,S375,S400,S1450,S1500,
-                <p>C250,C340,C400,C590,C1300,C3000,
+                <p>C305,C340,C400,C590,C1300,C3000,
                 <p>D25,D200,D245,D330,D1275,D2775,
                 <p>E10,E135,E145,E290,E1225,E3250,
                 <p>A120,A150,A590,A1500,A2950,A3400,
