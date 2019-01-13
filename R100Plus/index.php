@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated Jan 12th 2019</b></p>
-        <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945/topics/1628696?page=1"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
+        <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982029-row"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
     <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <div class="shlisting">

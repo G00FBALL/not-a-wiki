@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated Jan 12th 2019</b>
-    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989-3-4-3-build-megathread-under-construction?page=1"><b>megathread</b></a>  forum page</p>
+    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982033-row"><b>megathread</b></a>  forum page</p>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
