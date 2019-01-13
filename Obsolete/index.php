@@ -2868,22 +2868,22 @@
                     <p>C460 requires clicks to grow (it can grow past C120 quickly.) Take C120 and C500 as alternatives to C460 and C135 if you don't want to click.</p>
                 </div>
             </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 0 - ?
-                <p><b>Faction</b>: Titan
-                <p><b>Bloodline</b>: Druid
-                <p>S135,S150,S270,S330,S500,
-                <p>C150,C251,C330,C340,C375,C400,
-                <p>D55,D200,D245,D290,D320,
-                <p>E135,E145,E275,E330,E400,
-                <p>A105,A120,A250,A330,A400,
-                <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: Requires Spell tiers to get past 1e24 (1 Sp) gems. Recommended doing T3 titan spell tiers (Call to Arms, Gem Grinder, Lightning Strike, Spiritual Surge).
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (Rush) <font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: 0 - ?
+                    <p><b>Faction</b>: Titan
+                    <p><b>Bloodline</b>: Druid
+                    <p>S135,S150,S270,S330,S500,
+                    <p>C150,C251,C330,C340,C375,C400,
+                    <p>D55,D200,D245,D290,D320,
+                    <p>E135,E145,E275,E330,E400,
+                    <p>A105,A120,A250,A330,A400,
+                    <p>W150,W180,W290,W320,W330,W400
+                    <p><b>Notes</b>: Requires Spell tiers to get past 1e24 (1 Sp) gems. Recommended doing T3 titan spell tiers (Call to Arms, Gem Grinder, Lightning Strike, Spiritual Surge).
+                </div>
             </div>
-        </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU Druid R43+</a></b></p>
                 <div class="autohide">
@@ -2904,127 +2904,127 @@
                     <p>Taking the time for a buildup run is not recommended before R43.
                 </div>
             </div>
-        <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (GG2/LS2)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                                <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: ? gems - ?
-                <p><b>Faction</b>: Titan
-                <p><b>Bloodline</b>: Druid
-                <p>S150,S250,S270,S330,S500,
-                <p>C150,C251,C330,C340,C375,C400,
-                <p>D55,D200,D290,D320,D350,
-                <p>E135,E145,E275,E400,E460,
-                <p>A105,A120,A250,A330,A400,
-                <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: Swap A330 with A150 if 1 hour run or more.
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (GG2/LS2)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: ? gems - ?
+                    <p><b>Faction</b>: Titan
+                    <p><b>Bloodline</b>: Druid
+                    <p>S150,S250,S270,S330,S500,
+                    <p>C150,C251,C330,C340,C375,C400,
+                    <p>D55,D200,D290,D320,D350,
+                    <p>E135,E145,E275,E400,E460,
+                    <p>A105,A120,A250,A330,A400,
+                    <p>W150,W180,W290,W320,W330,W400
+                    <p><b>Notes</b>: Swap A330 with A150 if 1 hour run or more.
                 </div>
-        </div>
-        <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (SS2) (Stage 4 Unlock)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                                <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e27 (1 Oc) gems - ?
-                <p><b>Faction</b>: Titan
-                <p><b>Bloodline</b>: Druid
-                <p>S150,S215,S250,S330,S500,
-                <p>C150,C251,C330,C340,C375,C400,
-                <p>D55,D200,D245,D290,D320,
-                <p>E135,E145,E275,E320,E460,
-                <p>A105,A120,A150,A250,A400,
-                <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: Requires 6 hours to unlock SS2.
-                <p><b>Notes</b>: Swap S500 with S400 if higher.
-                <p><b>Notes</b>: Swap E460 with E30 if Run if 12 hours run or more.
-                <p><b>Notes</b>: Also used for stage 4 unlock at e3? (?) gems (requires using S400 with at least 14k bonus, estimated run time ? hours)
-                </div>
-        </div>
-        <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spider Sanctuary<font color="DarkRed"> Evil</font></a></b></p>
-                                <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e30 (1 No) -? Gems
-                <p><b>Faction</b>: Goblin/Drow
-                <p><b>Bloodline</b>: Druid
-                <p>S50,S215,S305,S330,S400,
-                <p>C120,C135,C150,C340,C400,
-                <p>D55,D200,D245,D320,D400,
-                <p>E30,E80,E135,E145,E225,E400,
-                <p>A10,A105,A120,A150,A400,
-                <p>W25,W180,W205,W400,W405,W520,W525
-                <p><b>Notes</b>: Replace C135 with C200 if stronger.
-                <p><b>Notes</b>: Run for 3 days to unlock T3 spells.
-                </div>
-        </div>
-        <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Goblin Banks (Stage 4 Unlock?)<font color="DarkRed"> Evil</font></a></b></p>
-                                <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Requirements</b>: T3 Goblin/Drow spells
-                <p><b>Range</b>: 1e30 (1 No) -? Gems
-                <p><b>Faction</b>: Goblin/Drow
-                <p><b>Bloodline</b>: Druid
-                <p>S50,S215,S305,S330,S400,
-                <p>C150,C175,C340,C400,C500,
-                <p>D55,D200,D245,D250,D320,
-                <p>E1,E80,E135,E145,E225,E330,
-                <p>A105,A120,A150,A400,A410,
-                <p>W25,W150,W180,W205,W400,W520,W525
-                <p><b>Notes</b>: Requires 1.5-2 days to set up.
-         </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 + S400 buff<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: ? gems
-                <p><b>Faction</b>: Good Mercenary
-                <p><b>Bloodline</b>: Druid
-                <p>FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,
-                <p>SP:Fairy Chanting,SP:Hellfire Blast
-                <p><b>Notes</b>: 20 million spells cast in 12 hours. S400=12500.
-                <p><b>Notes</b>: 40 million in 20 hours. S400=16000.
-                <p><b>Notes</b>: 55 milion in 24 hours. S400=18000.
-        </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 <font color="Blue">Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: e31 (10 No) gems+
-                <p><b>Faction</b>: Fairy/Dwarf
-                <p><b>Bloodline</b>: Druid
-                <p>S180,S250,S330,S400,S545,S590,
-                <p>C10,C80,C150,C330,C340,C400,C405,
-                <p>D55,D200,D245,D290,D320,
-                <p>E50,E135,E145,E330,E400,
-                <p>A30,A105,A120,A150,A250,
-                <p>W150,W180,W290,W320,W400
-                <p><b>Notes</b>: Estimated run time 1 day+. Can be tried at e30 gems but may take over 3 days.
             </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 4 <font color="DarkGoldenRod">Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 1e31+?
-                <p><b>Requirement</b>: S400 with at least 14k (Estimated run time 10 hours)
-                <p><b>Faction</b>: Titan
-                <p><b>Bloodline</b>: Druid
-                <p>S150,S250,S270,S330,S400,
-                <p>C150,C251,C330,C340,C375,C400,
-                <p>D55,D200,D290,D320,D350,
-                <p>E135,E145,E275,E400,E460,
-                <p>A105,A120,A250,A330,A400,
-                <p>W150,W180,W290,W320,W330,W400
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Titan (SS2) (Stage 4 Unlock)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: 1e27 (1 Oc) gems - ?
+                    <p><b>Faction</b>: Titan
+                    <p><b>Bloodline</b>: Druid
+                    <p>S150,S215,S250,S330,S500,
+                    <p>C150,C251,C330,C340,C375,C400,
+                    <p>D55,D200,D245,D290,D320,
+                    <p>E135,E145,E275,E320,E460,
+                    <p>A105,A120,A150,A250,A400,
+                    <p>W150,W180,W290,W320,W330,W400
+                    <p><b>Notes</b>: Requires 6 hours to unlock SS2.
+                    <p><b>Notes</b>: Swap S500 with S400 if higher.
+                    <p><b>Notes</b>: Swap E460 with E30 if Run if 12 hours run or more.
+                    <p><b>Notes</b>: Also used for stage 4 unlock at e3? (?) gems (requires using S400 with at least 14k bonus, estimated run time ? hours)
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spider Sanctuary<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: 1e30 (1 No) -? Gems
+                    <p><b>Faction</b>: Goblin/Drow
+                    <p><b>Bloodline</b>: Druid
+                    <p>S50,S215,S305,S330,S400,
+                    <p>C120,C135,C150,C340,C400,
+                    <p>D55,D200,D245,D320,D400,
+                    <p>E30,E80,E135,E145,E225,E400,
+                    <p>A10,A105,A120,A150,A400,
+                    <p>W25,W180,W205,W400,W405,W520,W525
+                    <p><b>Notes</b>: Replace C135 with C200 if stronger.
+                    <p><b>Notes</b>: Run for 3 days to unlock T3 spells.
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Goblin Banks (Stage 4 Unlock?)<font color="DarkRed"> Evil</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Requirements</b>: T3 Goblin/Drow spells
+                    <p><b>Range</b>: 1e30 (1 No) -? Gems
+                    <p><b>Faction</b>: Goblin/Drow
+                    <p><b>Bloodline</b>: Druid
+                    <p>S50,S215,S305,S330,S400,
+                    <p>C150,C175,C340,C400,C500,
+                    <p>D55,D200,D245,D250,D320,
+                    <p>E1,E80,E135,E145,E225,E330,
+                    <p>A105,A120,A150,A400,A410,
+                    <p>W25,W150,W180,W205,W400,W520,W525
+                    <p><b>Notes</b>: Requires 1.5-2 days to set up.
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 + S400 buff<font color="Blue"> Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: ? gems
+                    <p><b>Faction</b>: Good Mercenary
+                    <p><b>Bloodline</b>: Druid
+                    <p>FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,
+                    <p>SP:Fairy Chanting,SP:Hellfire Blast
+                    <p><b>Notes</b>: 20 million spells cast in 12 hours. S400=12500.
+                    <p><b>Notes</b>: 40 million in 20 hours. S400=16000.
+                    <p><b>Notes</b>: 55 milion in 24 hours. S400=18000.
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 <font color="Blue">Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: e31 (10 No) gems+
+                    <p><b>Faction</b>: Fairy/Dwarf
+                    <p><b>Bloodline</b>: Druid
+                    <p>S180,S250,S330,S400,S545,S590,
+                    <p>C10,C80,C150,C330,C340,C400,C405,
+                    <p>D55,D200,D245,D290,D320,
+                    <p>E50,E135,E145,E330,E400,
+                    <p>A30,A105,A120,A150,A250,
+                    <p>W150,W180,W290,W320,W400
+                    <p><b>Notes</b>: Estimated run time 1 day+. Can be tried at e30 gems but may take over 3 days.
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 4 <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Artcrow
+                    <p><b>Range</b>: 1e31+?
+                    <p><b>Requirement</b>: S400 with at least 14k (Estimated run time 10 hours)
+                    <p><b>Faction</b>: Titan
+                    <p><b>Bloodline</b>: Druid
+                    <p>S150,S250,S270,S330,S400,
+                    <p>C150,C251,C330,C340,C375,C400,
+                    <p>D55,D200,D290,D320,D350,
+                    <p>E135,E145,E275,E400,E460,
+                    <p>A105,A120,A250,A330,A400,
+                    <p>W150,W180,W290,W320,W330,W400
                 </div>
             </div>
         </div>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R47-R60</a></b></p>
-        <div class="category autohide">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
+            <div class="category autohide">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R47-R54 Titan Start<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
@@ -4568,10 +4568,102 @@
         <p>A250,A1200,
         <p>W260,W1375,W1400
         <p><b>Notes</b>: Requires excavations to both set up the build and boost royal exchange count.
-  </div>
+     </div>
 </div>
+<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Elf Set)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow
+                <p><b>Requirements</b>: Art of the Crow Trophy
+                <p><b>Range</b>: 1e46 (10 Qad) Gems
+                <p><b>Faction</b>: Angel
+                <p><b>Bloodline</b>: Dragon
+                <p><b>Artifact Set</b>: Elf
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S400,C25,C400,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build"> Short 2 day run
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S400,C25,C340,D1,D175,D245,E400,A50,A120,W225,W1375" id="Build"> Long 3+ day run
+                <p>S10,S400,
+                <p>C25,C400,
+                <p>D1,D175,D245,
+                <p>E400,
+                <p>A50,A120,
+                <p>W225,W1375
+                <p><b>Notes</b>: Takes estimated time of 1.5-2 days to SS7.
+                <p><b>Notes</b>: Buffing Elf set, S400 and max excavation with E290 before running this build is highly recommended.
+                <p><b>Notes</b>: Swap C400 with C340 if high C340 and longer runs (2-4(?) days to SS7)
+        </div>
+    </div>
+                   <div class="shelementwhole">
+                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Angels (FC12 buff)<font color="Blue"> Good</font></a></b></p>
+                       <div class="autohide">
+                           <p><b>Author</b>: Jgchan29
+                           <p><b>Range</b>: 1e45 (1 QaD) Gems+
+                           <p><b>Requirements</b>: Art of the Crow Trophy
+                           <p><b>Faction</b>: Angel
+                           <p><b>Bloodline</b>: Dwarf
+                           <p><b>Artifact Set</b>: Angel, Elf (if buffed)
+                                 <p><button onclick="myFunction($(this))">Copy Build</button>
+                                 <input type="text" value="S10,S400,C25,C340,D1,D150,D175,E1325,A50,A250,W225,W1375" id="Build">
+                           <p>S10,S400,
+                           <p>C25,C340,
+                           <p>D1,D150,D175,
+                           <p>E1325,
+                           <p>A50,A250,
+                           <p>W225,W1375
+                           <p><b>Notes</b>: Build set up is up to buying Art of the Crow.
+
+
+
+                    </div>
+               </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Economics (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ensteffahn
+                    <p><b>Range</b>: ? Gems
+                    <p><b>Alignment</b>: Evil, Proof of Balance
+                    <p><b>Faction</b>: Goblin
+                    <p><b>Bloodline</b>: Undead
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E1325,A10,A120,W25,W205" id="Build">
+                    <p>S50,S3200,
+                    <p>C175,C400,
+                    <p>D200,
+                    <p>E1,E225,E1325,
+                    <p>A10,A120,
+                    <p>W25,W205
+                    <p><b>Notes</b>: Estimated time of 10 days for 100k S400.
+         </div>
+    </div>
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Treasure Hoarder (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+        <div class="autohide">
+                <p><b>Author</b>: ensteffahn
+                <p><b>Range</b>: ? Gems
+                <p><b>Requirements</b>: Angel Set Artifact
+                <p><b>Alignment</b>: Evil, Proof of Balance
+                <p><b>Faction</b>: Goblin
+                <p><b>Bloodline</b>: Dragon
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S50,S3200,C175,C400,D200,E1,E225,E320,A10,A120,W25,W205" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S50,S3200,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 1+ day
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S50,S400,C175,C400,D200,E1,E135,E225,A10,A120,W25,W205" id="Build"> 10+ day
+                <p>S50,S3200,
+                <p>C175,C400,
+                <p>D200,
+                <p>E1,E225,E320,
+                <p>A10,A120,
+                <p>W25,W205
+                <p><b>Notes</b>: Swap E320 with E135 for longer runs (1 day+)
+                <p><b>Notes</b>: Swap S3200 -> S400 for very long runs (10 days+, maybe even more) or if you have Dragon Lineage 30+
+                <p><b>Notes</b>: Estimated time of 10 days for 350k S400 at Dragon Lineage 25.
+         </div>
+    </div>
 </div>
-<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116+</a></b></p>
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R125</a></b></p>
 <div class="category autohide">
         <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin (L30+ pusher) E65+<font color="DarkRed"> Evil</font></a></b></p>
@@ -4594,7 +4686,113 @@
         <p>W25,W205,W405,W520
         <p><b>Notes</b>: Replace D245 with D330 at 1e67 (10 UVg) gems+.
         <p><b>Notes</b>: Buffing S400 is highly recommended.
+    </div>
 </div>
+        <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Elf E65+<font color="Blue"> Good</font></a></b></p>
+        <div class="autohide">
+        <p><b>Author</b>: Rellikrellik
+        <p><b>Range</b>: 1e66 (1 UVg) gems(?) - ?
+        <p><b>Requirements</b>: Angel Lineage Level 30, S400 of 2e6 (2 M)+(?)
+        <p><b>Faction</b>: Elf/Dwarf
+        <p><b>Bloodline</b>: Angel
+        <p><b>Artifact Set</b>: Angel
+         <p><button onclick="myFunction($(this))">Copy Build</button>
+         <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build">
+         <p><button onclick="myFunction($(this))">Copy Build</button>
+         <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D245,D435,E25,E400,E410,A120,A495,W10,W560,W1375" id="Build"> 6 hours+
+        <p>S175,S400,
+        <p>C1,C225,C400,C405,C520,C590,
+        <p>D50,D245,D435,
+        <p>E25,E400,E410,
+        <p>A120,A495,
+        <p>W10,W560,W1375
+        <p><b>Notes</b>: Buffing S400 is required before running this build.
+        <p><b>Notes</b>: Swap C400 with C340 for longer runs (6 hours+).
+    </div>
+</div>
+        <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Mana Spring / FC12 buff)<font color="Blue"> Good</font></a></b></p>
+        <div class="autohide">
+        <p><b>Author</b>: Artcrow
+        <p><b>Range</b>: e60 (1 NoD) Gems+
+        <p><b>Requirements</b>: Angel Lineage Level 30, S400 of 2e6 (2 M)+(?)
+        <p><b>Faction</b>: Angel/Dwarf
+        <p><b>Bloodline</b>: Dragon
+        <p><b>Artifact Set</b>: Angel
+         <p><button onclick="myFunction($(this))">Copy Build</button>
+         <input type="text" value="S10,S400,C25,C340,C405,C520,D1,D175,D245,D435,D590,E400,E410,A50,A120,A495,W225,W560,W1375" id="Build">
+        <p>S10,S400,
+        <p>C25,C340,C405,C520,
+        <p>D1,D175,D245,D435,D590,
+        <p>E400,E410,
+        <p>A50,A120,A495,
+        <p>W225,W560,W1375
+        <p><b>Notes</b>: Buffing S400, DN12, excavation count will greatly benefit this build.
+        <p><b>Notes</b>: Time to Mana Spring is 2-7 days (highly dependant on buffs).
+    </div>
+</div>
+        <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Angels (Mana Spring / FC12 buff)<font color="Blue"> Good</font></a></b></p>
+        <div class="autohide">
+        <p><b>Author</b>: Artcrow
+        <p><b>Range</b>: 1e67 (10 UVg) Gems+
+        <p><b>Requirements</b>: Angel Lineage Level 30, S400 of 2e6 (2 M)+(?)
+        <p><b>Faction</b>: Angel/Dwarf
+        <p><b>Bloodline</b>: Faceless
+        <p><b>Artifact Set</b>: Angel
+         <p><button onclick="myFunction($(this))">Copy Build</button>
+         <input type="text" value="S10,S400,C25,C340,C405,C520,D1,D175,D245,D435,D590,E400,E410,A50,A120,A495,W225,W560,W1375" id="Build">
+        <p>S10,S400,
+        <p>C25,C340,C405,C520,
+        <p>D1,D175,D245,D435,D590,
+        <p>E400,E410,
+        <p>A50,A120,A495,
+        <p>W225,W560,W1375
+        <p><b>Notes</b>: Buffing S400, DN12, excavation count will greatly benefit this build.
+        <p><b>Notes</b>: Time to Mana Spring is 2-7 days (highly dependant on buffs).
+    </div>
+</div>
+        <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarf L29<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <div class="autohide">
+        <p><b>Author</b>: Necrodoom
+        <p><b>Range</b>: ?
+        <p><b>Requirements</b>:
+        <p><b>Faction</b>: Faceless/Dragon
+        <p><b>Bloodline</b>: Dwarf
+        <p><b>Artifact Set</b>: Faceless
+         <p><button onclick="myFunction($(this))">Copy Build</button>
+         <input type="text" value="S251,S375,S400,S1450,S1500,C340,C1300,D245,D260,D1125,E290,E350,E1225,A250,A300,A1200,W275,W400,W1400" id="Build">
+        <p>S251,S375,S400,S1450,S1500,
+        <p>C340,C1300,
+        <p>D245,D260,D1125,
+        <p>E290,E350,E1225,
+        <p>A250,A300,A1200,
+        <p>W275,W400,W1400
+        <p><b>Notes</b>: Can easily afford L26-L28 with 1 reset, L29 will require multiple while L30 wont be able to be afforded.
+        <p><b>Notes</b>: Use general lineage builder for L30.
+    </div>
+</div>
+        <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (L30+ pusher)<font color="DarkRed"> Evil</font></a></b></p>
+        <div class="autohide">
+        <p><b>Author</b>: Artcrow
+        <p><b>Range</b>: 1e63 (1 Vg) Gems+
+        <p><b>Requirements</b>: Fairy Lineage Level 30+
+        <p><b>Faction</b>: Undead/Drow
+        <p><b>Bloodline</b>: Fairy
+        <p><b>Artifact Set</b>: Undead
+         <p><button onclick="myFunction($(this))">Copy Build</button>
+         <input type="text" value="S225,S400,S435,C400,D25,D330,D560,E10,E145,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
+        <p>S225,S400,S435,
+        <p>C400,
+        <p>D25,D330,D560,
+        <p>E10,E145,E495,
+        <p>A1,A175,A400,A410,A590,
+        <p>W50,W205,W405,W520
+        <p><b>Notes</b>: Buffing S400 is highly recommended.
+    </div>
 </div>
             </div>
           </div>
