@@ -18,7 +18,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn
                 <p><b>Requirements</b>: Elf Lineage Level 35(?)+
-                <p><b>Range</b>: 0 - 1e63 (1 Vg) Gems
+                <p><b>Range</b>: 0 - 1e65 (1 Vg) Gems
                 <p><b>Faction</b>: Faceless/Dragon/Djinn
                 <p><b>Bloodline</b>: Elf
                 <p><b>Artifact Set</b>: Druid
@@ -45,7 +45,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn
-                <p><b>Range</b>: 1e63 (1 Vg) Gems
+                <p><b>Range</b>: 1e65 (1 Vg) Gems
                 <p><b>Requirements</b>: Fairy Lineage Level 35
                 <p><b>Faction</b>: Faceless/Dragon/Djinn
                 <p><b>Bloodline</b>: Fairy
