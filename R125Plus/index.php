@@ -285,7 +285,7 @@
                      <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Undead/Drow
                     <p><b>Bloodline</b>: Dragon
-                    <p><b>A2950</b>: Dwarf
+                    <p><b>Artifact Set</b>: Dwarf
                     <p><b>Range</b>: 1e64 (10 Vg)+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E290,E495,A1,A175,A410,A545,A590, W50,W205,W405,W520" id="Build"> More Excavations
