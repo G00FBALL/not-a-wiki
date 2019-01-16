@@ -195,7 +195,7 @@
                     <p><b>Goblin</b> (1,1): Strong Currency
                     <p><b>Dwarf</b> (1,3): Mining Prodigies
                     <p><b>Demon</b> (1,3): Evil Conquerors
-                    <p><b>Undead</b> (1,2): Deadened Muscles [For 7 day+ run — Angel (1,2): Angelic Determination]
+                    <p><b>Undead</b> (1,2): Deadened Muscles [For 7 day+ run â€” Angel (1,2): Angelic Determination]
                     <p><b>Tier 2 Upgrades</b>:
                     <p><b>Titan</b> (2,3): Cyclopean Strength
                     <p><b>Demon</b> (2,3): Demonic Presence
@@ -1182,7 +1182,7 @@
                     <p><b>Dwarf</b> (3,2): Magic Resistance
                     <p><b>Instructions</b>:
                     <p><b>Important!</b>: Leave out the last 2 blacksmith upgrades.
-                    <p>For completing R15, buy 1500 to 1749 blacksmiths and buy all upgrades. Then you can buy more blacksmiths but don’t buy the remaining blacksmith upgrades.
+                    <p>For completing R15, buy 1500 to 1749 blacksmiths and buy all upgrades. Then you can buy more blacksmiths but donâ€™t buy the remaining blacksmith upgrades.
                     <p><b>Autocasting</b>:
                     <p><b>Buildup</b>:
                     <p><b>Gold</b>: Tax Collection
@@ -2120,7 +2120,7 @@
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Druid
                     <p><b>Notation</b>: Bold are direct mana regeneration/assistant sources, whereas underlined ones help with FC gain and therefore are indirect mana regeneration sources. The remaining 7 are just the best production upgrades for vacant spots.
-                    <p><b>Important</b>: Don’t affiliate with Drow before getting 5200 (650*8) Goblin Banks. With Dwarf Challenge 5 (All buildings count 20% more for all purposes.), you can reach 10 free TC casts per spell cast (S50) with 5417 Goblin Banks, or 9 free TC casts per spell cast with 4875 Goblin Banks.
+                    <p><b>Important</b>: Donâ€™t affiliate with Drow before getting 5200 (650*8) Goblin Banks. With Dwarf Challenge 5 (All buildings count 20% more for all purposes.), you can reach 10 free TC casts per spell cast (S50) with 5417 Goblin Banks, or 9 free TC casts per spell cast with 4875 Goblin Banks.
                     <p><b>Note</b>: Dwarf Challenge 5 required, Drow Challenge 4 recommended combined with C250 and C305.
                     <p><b>Spellcraft</b>: : <b>30</b>, <b>50</b>, <b>105</b>, <b>400</b>, <b>500</b>
                     <p><b>Craftsmanship</b>: : <u>250</u>, 150, 305, 330, 340
@@ -2316,7 +2316,7 @@
                     <p>E80,E135,E150,E200,E225,</p>
                     <p>A10,A105,A120,A150,A250,</p>
                     <p>W25,W120,W150,W180,W205</p>
-                    <p><b>Note</b>: If you have less than 20 artifacts D290→D135.
+                    <p><b>Note</b>: If you have less than 20 artifacts D290â†’D135.
                     <p><b>Autocasting</b>: BF on Bronze, SS on Silver, Rest on Gold
                 </div>
             </div>
@@ -2647,7 +2647,7 @@
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Druid
                     <p><b>Notation</b>: Bold are direct mana regeneration/assistant sources, whereas underlined ones help with FC gain and therefore are indirect mana regeneration sources. The remaining 7 are just the best production upgrades for vacant spots.
-                    <p><b>Important</b>: Don’t affiliate with Drow before getting 5200 (650*8) Goblin Banks. With Dwarf Challenge 5 (All buildings count 20% more for all purposes.), you can reach 10 free TC casts per spell cast (S50) with 5417 Goblin Banks, or 9 free TC casts per spell cast with 4875 Goblin Banks.
+                    <p><b>Important</b>: Donâ€™t affiliate with Drow before getting 5200 (650*8) Goblin Banks. With Dwarf Challenge 5 (All buildings count 20% more for all purposes.), you can reach 10 free TC casts per spell cast (S50) with 5417 Goblin Banks, or 9 free TC casts per spell cast with 4875 Goblin Banks.
                     <p><b>Note</b>: Dwarf Challenge 5 required, Drow Challenge 4 recommended combined with C250 and C305.
                     <p><b>Pre Ascension</b>:
                     <p><b>Spellcraft</b>: <b>30</b>, <b>50</b>, <b>105</b>, <b>400</b>, <b>500</b>
@@ -2787,7 +2787,7 @@
                     <p><b>Economics</b>: 80, 135, 145, 150
                     <p><b>Alchemy</b>: 50, 105, 120, 135, 150
                     <p><b>Warfare</b>: 120, 135, 150, 180
-                    <p><b>Auto-cast</b>: Run God’s Hand and TC on gold autocast in that order for one to two days – then unleash full combos in any order until you’re satisfied with your production.
+                    <p><b>Auto-cast</b>: Run Godâ€™s Hand and TC on gold autocast in that order for one to two days â€“ then unleash full combos in any order until youâ€™re satisfied with your production.
                     <p><b>Note</b>: Don't buy Angelic Dominance (3,2) before starting with the production phase.</p>
                 </div>
             </div>
@@ -2834,7 +2834,7 @@
                     <p><b>Faction</b>: Goblin
                     <p><b>Bloodline</b>: Druid
                     <p><b>Notation</b>: Bold are direct mana regeneration/assistant sources, whereas underlined ones help with FC gain and therefore are indirect mana regeneration sources. The remaining 7 are just the best production upgrades for vacant spots.
-                    <p><b>Important</b>: Don’t affiliate with Drow before getting 5200 (650*8) Goblin Banks. With Dwarf Challenge 5 (All buildings count 20% more for all purposes.), you can reach 10 free TC casts per spell cast (S50) with 5417 Goblin Banks, or 9 free TC casts per spell cast with 4875 Goblin Banks.
+                    <p><b>Important</b>: Donâ€™t affiliate with Drow before getting 5200 (650*8) Goblin Banks. With Dwarf Challenge 5 (All buildings count 20% more for all purposes.), you can reach 10 free TC casts per spell cast (S50) with 5417 Goblin Banks, or 9 free TC casts per spell cast with 4875 Goblin Banks.
                     <p><b>Note</b>: Dwarf Challenge 5 required, Drow Challenge 4 recommended combined with C250 and C305.
                     <p><b>Spellcraft</b>: : <b>30</b>, <b>50</b>, <b>105</b>, <b>400</b>, <b>500</b>
                     <p><b>Craftsmanship</b>: : <u>250</u>, 150, 305, 330, 340
@@ -3725,7 +3725,7 @@
                 <p>E135,E145,E260,E350,E1425,E3250,
                 <p>A105,A120,A1200,A1500,A2950,A3400,
                 <p>W180,W260,W275,W400,W3050,W3150
-                <p><b>Note</b>: For R81 A3400→A175
+                <p><b>Note</b>: For R81 A3400â†’A175
                 <p>Build comes from this <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/783256-merc-research-builds-r75?page=1"><b>forum</b></a> post</p>
             </div>
         </div>
@@ -3748,8 +3748,8 @@
                 <p>E10,E135,E145,E350,E495,E3250,
                 <p>A10,A120,A410,A1500,A2950,A3400,
                 <p>W180,W275,W400,W525,W3050,W3150
-                <p><b>Note</b>: If it is hard to buy RE400 and Research Upgrades E350→E1325. </p>
-                <p>If C1500<75% then C1500→C175</p>
+                <p><b>Note</b>: If it is hard to buy RE400 and Research Upgrades E350â†’E1325. </p>
+                <p>If C1500<75% then C1500â†’C175</p>
             </div>
         </div>
         <br />
@@ -4772,6 +4772,54 @@
         <p>W275,W400,W1400
         <p><b>Notes</b>: Can easily afford L26-L28 with 1 reset, L29 will require multiple while L30 wont be able to be afforded.
         <p><b>Notes</b>: Use general lineage builder for L30.
+                </div>
+           </div>
+               <div class="shelementwhole">
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Fairy (Outdated?)<font color="Blue"> Good</font></a></b></p>
+                   <div class="autohide">
+                       <p><b>Author</b>: Somarilnos
+                       <p><b>Range</b>: 1e54 (1 SpD) - ? Gems
+                       <p><b>Faction</b>: Fairy/Dwarf
+                       <p><b>Bloodline</b>: Dragon
+                       <p><b>Artifact Set</b>: Fairy
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S1,S180,S590,S3200,C10,C340,C405,C520,D225,D245,D435,E50,E400,E410,A30,A120,A495,W560,W1375" id="Build">
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D245,D435,E50,E400,E410,A30,A120,A495,W560,W1375" id="Build"> S400 buffed
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D245,D435,E50,E135,E410,A30,A250,A495,W560,W1375" id="Build"> FR11 (2000+?)
+                       <p>S1,S180,S590,S3200,
+                       <p>C10,C340,C405,C520,
+                       <p>D225,D245,D435,
+                       <p>E50,E400,E410,
+                       <p>A30,A120,A495,
+                       <p>W560,W1375
+                       <p><b>Notes</b>: Maintaining high FR10 is recommended.
+                       <p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
+                       <p><b>Notes</b>: Replace S3200 with S400 if buffed.
+                       <p><b>Notes</b>: Replace E400 with E135 and A120 with A250 if fairy AH is available and either FR11 is high enough (2000+?) or Sunforce FC chance is active.
+                       </div>
+                  </div>
+                      <div class="shelementwhole">
+                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead (Outdated, needs variant testing)<font color="DarkRed"> Evil</font></a></b></p>
+                          <div class="autohide">
+                              <p><b>Author</b>: Rellikrellik
+                              <p><b>Range</b>: 1e58 (10 OcD) Gems+
+                              <p><b>Faction</b>: Undead/Drow
+                              <p><b>Bloodline</b>: Dragon
+                              <p><b>Artifact Set</b>: Undead
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
+                                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                                    <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A545,A410,A590,W50,W205,W405,W520" id="Build"> Sunforce Faction Coins active
+                              <p>S225,S435,S3200,
+                              <p>C340,
+                              <p>D25,D245,D560,
+                              <p>E10,E400,E495,
+                              <p>A1,A175,A400,A410,A590,
+                              <p>W50,W205,W405,W520
+                              <p><b>Notes</b>: Several hours setup time, grower build.
+                              <p><b>Notes</b>: Replace A400 with A545 if able to benefit from Sunforce Faction Coins bonus.
     </div>
 </div>
         <div class="shelementwhole">

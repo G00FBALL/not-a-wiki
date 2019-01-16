@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Jan 12th, 2019</b>
+    <p><b>Updated Jan 15th, 2019</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982032-row"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -52,32 +52,27 @@
                 <p>A250,A300,A1200,
                 <p>W180,W275,W1400
                 <p><b>Notes</b>: Replace S500 with S400 if stronger.
-                </div>
-           </div>
-               <div class="shelementwhole">
-                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Fairy (Outdated?)<font color="Blue"> Good</font></a></b></p>
-                   <div class="autohide">
-                       <p><b>Author</b>: Somarilnos
-                       <p><b>Range</b>: 1e54 (1 SpD) - ? Gems
-                       <p><b>Faction</b>: Fairy/Dwarf
-                       <p><b>Bloodline</b>: Dragon
-                       <p><b>Artifact Set</b>: Fairy
-                             <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S1,S180,S590,S3200,C10,C340,C405,C520,D225,D245,D435,E50,E400,E410,A30,A120,A495,W560,W1375" id="Build">
-                             <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D245,D435,E50,E400,E410,A30,A120,A495,W560,W1375" id="Build"> S400 buffed
-                             <p><button onclick="myFunction($(this))">Copy Build</button>
-                             <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D245,D435,E50,E135,E410,A30,A250,A495,W560,W1375" id="Build"> FR11 (2000+?)
-                       <p>S1,S180,S590,S3200,
-                       <p>C10,C340,C405,C520,
-                       <p>D225,D245,D435,
-                       <p>E50,E400,E410,
-                       <p>A30,A120,A495,
-                       <p>W560,W1375
-                       <p><b>Notes</b>: Maintaining high FR10 is recommended.
-                       <p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
-                       <p><b>Notes</b>: Replace S3200 with S400 if buffed.
-                       <p><b>Notes</b>: Replace E400 with E135 and A120 with A250 if fairy AH is available and either FR11 is high enough (2000+?) or Sunforce FC chance is active.
+         </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Torisen
+                <p><b>Range</b>: 1e54 (1 SpD) Gems(?) - 1e60 (1 NoD) Gems(?)
+                <p><b>Faction</b>: Angel/Dwarf
+                <p><b>Bloodline</b>: Dragon
+                <p><b>Artifact Set</b>: Angel, Druid (If FC12 and R108 power add up to x1000+)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D245,D435,D590,E400,E410,A50,A120,A495,W225,W560,W1375" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S10,S400,C25,C340,C405,C520,D1,D175,D245,D435,D590,E400,E410,A50,A120,A495,W225,W560,W1375" id="Build"> S400 Buffed
+                <p>S10,S3200,
+                <p>C25,C340,C405,C520,
+                <p>D1,D175,D245,D435,D590,
+                <p>E400,E410,
+                <p>A50,A120,A495,
+                <p>W225,W560,W1375
+                <p><b>Notes</b>: Replace S3200 with S400 if buffed (100K (?))
                        </div>
                   </div>
                       <div class="shelementwhole">
@@ -98,28 +93,6 @@
                               <p>A250,A251,A375,A1200,A1500,
                               <p>W350,W1375,W1400
                               <p><b>Notes</b>: Excavate for Fairy AH to set up this build.
-                       </div>
-                  </div>
-                      <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead (Outdated, needs variant testing)<font color="DarkRed"> Evil</font></a></b></p>
-                          <div class="autohide">
-                              <p><b>Author</b>: Rellikrellik
-                              <p><b>Range</b>: 1e58 (10 OcD) Gems+
-                              <p><b>Faction</b>: Undead/Drow
-                              <p><b>Bloodline</b>: Dragon
-                              <p><b>Artifact Set</b>: Undead
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A545,A410,A590,W50,W205,W405,W520" id="Build"> Sunforce Faction Coins active
-                              <p>S225,S435,S3200,
-                              <p>C340,
-                              <p>D25,D245,D560,
-                              <p>E10,E400,E495,
-                              <p>A1,A175,A400,A410,A590,
-                              <p>W50,W205,W405,W520
-                              <p><b>Notes</b>: Several hours setup time, grower build.
-                              <p><b>Notes</b>: Replace A400 with A545 if able to benefit from Sunforce Faction Coins bonus.
                        </div>
                   </div>
                       <div class="shelementwhole">
@@ -344,7 +317,7 @@
                 <p>A10,A120,A410,
                 <p>W25,W205,W405,W520
                 <p><b>Notes</b>: Swap W205 with W1375 for Faceless Lineage leveling.
-                <p><b>Notes</b>: Swap D245 with D200 (Read Notes 👇)
+                <p><b>Notes</b>: Swap D245 with D200 (Read Notes ðŸ‘‡)
                 <p><b>Notes</b>: At atleast 1e63 (1 Vg) Gems+ for (Dragon Lineage).
                 <p><b>Notes</b>: At atleast 1e64 (10 Vg) Gems+ (Angel Lineage).
                 <p><b>Notes</b>: At atleast 1e65 (100 Vg) Gems+(?) (Undead Lineage).
