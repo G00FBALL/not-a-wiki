@@ -61,7 +61,7 @@
                 <p><b>Range</b>: 1e54 (1 SpD) Gems(?) - 1e60 (1 NoD) Gems(?)
                 <p><b>Faction</b>: Angel/Dwarf
                 <p><b>Bloodline</b>: Dragon
-                <p><b>Artifact Set</b>: Angel, Druid (If FC12 and R108 power add up to x1000+)
+                <p><b>Artifact Set</b>: Angel
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D245,D435,D590,E400,E410,A50,A120,A495,W225,W560,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>

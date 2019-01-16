@@ -195,7 +195,7 @@
                     <p><b>Goblin</b> (1,1): Strong Currency
                     <p><b>Dwarf</b> (1,3): Mining Prodigies
                     <p><b>Demon</b> (1,3): Evil Conquerors
-                    <p><b>Undead</b> (1,2): Deadened Muscles [For 7 day+ run â€” Angel (1,2): Angelic Determination]
+                    <p><b>Undead</b> (1,2): Deadened Muscles [For 7 day+ run & Angel (1,2): Angelic Determination]
                     <p><b>Tier 2 Upgrades</b>:
                     <p><b>Titan</b> (2,3): Cyclopean Strength
                     <p><b>Demon</b> (2,3): Demonic Presence
