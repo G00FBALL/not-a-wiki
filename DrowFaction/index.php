@@ -143,7 +143,7 @@
 <p><b>Note</b>: Not available till R116</p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
 <p><b>Requirements</b>: Drow Master trophy and 8 hours activity time (This Game) of Combo Strike.<p>
-<p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on offline bonus and time spent in this game.</p>
 <p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>

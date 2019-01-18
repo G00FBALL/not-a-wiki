@@ -1080,7 +1080,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
-<p><b>Effect</b>: Increased the production of all buildings based on offline bonus and time spent in this game.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on offline bonus and time spent in this game.</p>
 <p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
