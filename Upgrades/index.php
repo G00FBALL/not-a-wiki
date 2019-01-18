@@ -1301,7 +1301,7 @@
             <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
-            <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.
+            <p><b>Description</b>: Despite being centuries old, it still smells like top-quality cocoa.
             <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
             <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
             <p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.

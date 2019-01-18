@@ -170,7 +170,7 @@
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
-<p><b>Discription</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
+<p><b>Description</b>: Insignificant creature, you have much to do to gain our full respect. Our hatchlings need more food... yes, this would be a task worthy of your stature. Show your ability to maintain powerful magic at the same time, and we will let you serve us.</p>
 <p><b>Requirement</b>: 42 active spells</p>
 <p><b>Cost</b>: 1e65</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>

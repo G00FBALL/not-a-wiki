@@ -151,7 +151,7 @@
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
-<p><b>Discription</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>
+<p><b>Description</b>: Aye lad! Yer castle looks solid, but we think we can do better, yes? Excavate to yer best and then again from the start, we'll have a deal.</p>
 <p><b>Requirement</b>: 5 free excav resets this R</p>
 <p><b>Cost</b>: 100 Vg (1e65)</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>

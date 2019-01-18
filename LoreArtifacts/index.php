@@ -221,7 +221,7 @@
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
     <p><b>Clue</b>: True Neutral Flavor.</p>
-    <p><b>Discription</b>: Despite being centuries old, it still smells like top-quality cocoa.</p>
+    <p><b>Description</b>: Despite being centuries old, it still smells like top-quality cocoa.</p>
     <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade</p>
     <p><b>Effect</b>: Awards an upgrade named Chocolate Flavored Juice</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game for all Neutral factions.</p>

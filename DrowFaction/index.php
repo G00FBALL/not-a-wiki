@@ -149,7 +149,7 @@
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
-<p><b>Discription</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
+<p><b>Description</b>: Yawn... Kivvil, your realm is starting to bore us. We need better places to have fun and Rest. Show us your spellcasting ability and we'll teach you a few new things about underworld fun.</p>
 <p><b>Requirement</b>: 1 B (1e9) spells cast this game</p>
 <p><b>Cost</b>: 100 Vg (1e65)</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
