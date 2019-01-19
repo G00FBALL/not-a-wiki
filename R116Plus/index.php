@@ -317,7 +317,7 @@
                 <p>A10,A120,A410,
                 <p>W25,W205,W405,W520
                 <p><b>Notes</b>: Swap W205 with W1375 for Faceless Lineage leveling.
-                <p><b>Notes</b>: Swap D245 with D200 (Read Notes ðŸ‘‡)
+                <p><b>Notes</b>: Swap D245 with D200 (Read Notes)
                 <p><b>Notes</b>: At atleast 1e63 (1 Vg) Gems+ for (Dragon Lineage).
                 <p><b>Notes</b>: At atleast 1e64 (10 Vg) Gems+ (Angel Lineage).
                 <p><b>Notes</b>: At atleast 1e65 (100 Vg) Gems+(?) (Undead Lineage).
