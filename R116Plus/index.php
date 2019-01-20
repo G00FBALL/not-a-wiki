@@ -115,7 +115,7 @@
                               <p>A120,A1200,
                               <p>W260,W1375,W1400
                               <p><b>Notes</b>: Druid challenge 4 off for Combo Strike buffing.
-                              <p><b>Notes</b>: Swap A120 with A250 when TT12 is high enough (?)
+                              <p><b>Notes</b>: Swap A120 with A250 when TT12 is high enough (3+ Days?)
                               <p><b>Notes</b>: Target Lightning Strike on Mountain Palace.
              </div>
     </div>
