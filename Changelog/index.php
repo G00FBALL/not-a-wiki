@@ -19,7 +19,7 @@
 <p>Structural Stability effect and scaling increased.</p>
 <p>Ancillae Obscurae effect and scaling increased.</p>
 <p>Elven Union effect and scaling increased.</p>
-<p>nfinite Spiral scaling decreased.</p>
+<p>Infinite Spiral scaling decreased.</p>
 <p>FC Chance and Max mana from spells now count for upgrade purposes, resulting in much higher bonuses overall.</p>
 <p>Titan Helmet requirements reduced.</p>
 <p>Makers Heritage effect and scaling decreased.</p>
