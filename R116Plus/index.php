@@ -279,7 +279,7 @@
     <p>S251,S375,S400,S1450,S1500,
     <p>C400,C1300,
     <p>D200,D260,D1125,
-    <p>EE145,E350,E1225,
+    <p>E145,E350,E1225,
     <p>A300,A1200,A3400,
     <p>W275,W1375,W1400
     <p><b>Notes</b>: Use the more specialized builds below if possible.
