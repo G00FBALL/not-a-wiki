@@ -99,7 +99,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Wlerin
                 <p><b>Requirements</b>: Art of the Crow Trophy
-                <p><b>Range</b>: 1e44 (1 QaD) Gems+
+                <p><b>Range</b>: 1e45 (1 QaD) Gems+
                 <p><b>Faction</b>: Undead
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Undead
@@ -119,7 +119,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Cromie
                 <p><b>Requirements</b>: Art of the Crow Trophy
-                <p><b>Range</b>: 1e44 (10 QaD) Gems+
+                <p><b>Range</b>: 1e46 (10 QaD) Gems+
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Dragon
                 <p><b>Artifact Set</b>: Titan
