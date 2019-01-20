@@ -99,7 +99,7 @@
                           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Titan<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                           <div class="autohide">
                               <p><b>Author</b>: ?
-                              <p><b>Range</b>: 1e66 (1 UVg) gems(?) - ?
+                              <p><b>Range</b>: Range: 1e57 (1 OcD) Gems(?)
                               <p><b>Requirements</b>: Drow Lineage Level 30 Range: ?
                               <p><b>Faction</b>: Titan/Dragon
                               <p><b>Bloodline</b>: Drow
