@@ -964,8 +964,8 @@
                 <p><b>Cost</b>: 3500 Mana</p>
                 <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
                 <p><b>Formulas</b></p>
-                <p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5%, where x is mana produced this game.</p>
-                <p><b>Trophy Formula</b> (2.5 * x ^ 0.9), where x is trophies unlocked.</p>
+                <p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5)%, where x is mana produced this game.</p>
+                <p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
                 <p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
                 <p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
                 <p><b>Factions</b></p>

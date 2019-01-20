@@ -168,12 +168,12 @@
 <p><b>Spell</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b></p>
 <p><b>Cost</b>: 3500 Mana</p>
-<p><b>Effect</b>: Increase the production of three random buildings based on these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coin found or amount of assistants.</p>
+<p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
 <p><b>Formulas</b></p>
-<p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5), where x is mana produced this game.</p>
-<p><b>Trophy</b> (2.5 * x ^ 0.9), where x is trophies unlocked.</p>
-<p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4), where x is faction coins found this game.</p>
-<p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5), where x is amount of assistants.</p>
+<p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5)%, where x is mana produced this game.</p>
+<p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
+<p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
+<p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
 <br/>
 <p><b>Good - Fairies</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
@@ -207,278 +207,7 @@
 <p><b>Requirement</b>: Fairies Union</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
 <p><b>Formula</b>: (sumOfDigits(x) * 100 * x ^ 0.45), where x is amount of Swarming Towers owned.</p>
-<br/>
- <a id="Swarming Towers"></a>
-    <table class="numtable" align="left" >
-        <thead>
-        <tr>
-            <th>Swarming Towers</th>
-            <th>Max Mana</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td>8158</td>
-            <td>222344</td>
-        </tr>
-        <tr>
-            <td>8165</td>
-            <td>222430</td>
-        </tr>
-        <tr>
-            <td>8166</td>
-            <td>229386</td>
-        </tr>
-        <tr>
-            <td>8241</td>
-            <td>230269</td>
-        </tr>
-        <tr>
-            <td>8249</td>
-            <td>230357</td>
-        </tr>
-        <tr>
-            <td>8316</td>
-            <td>231146</td>
-        </tr>
-        <tr>
-            <td>8324</td>
-            <td>231234</td>
-        </tr>
-        <tr>
-            <td>8331</td>
-            <td>231321</td>
-        </tr>
-        <tr>
-            <td>8332</td>
-            <td>238341</td>
-        </tr>
-        <tr>
-            <td>8333</td>
-            <td>245361</td>
-        </tr>
-        <tr>
-            <td>11666</td>
-            <td>251708</td>
-        </tr>
-        <tr>
-            <td>12416</td>
-            <td>258790</td>
-        </tr>
-        <tr>
-            <td>12491</td>
-            <td>259484</td>
-        </tr>
-        <tr>
-            <td>12499</td>
-            <td>259554</td>
-        </tr>
-        <tr>
-            <td>13166</td>
-            <td>265633</td>
-        </tr>
-        <tr>
-            <td>13241</td>
-            <td>266305</td>
-        </tr>
-        <tr>
-            <td>13249</td>
-            <td>266373</td>
-        </tr>
-        <tr>
-            <td>13316</td>
-            <td>266975</td>
-        </tr>
-        <tr>
-            <td>13324</td>
-            <td>267042</td>
-        </tr>
-        <tr>
-            <td>13331</td>
-            <td>267109</td>
-        </tr>
-        <tr>
-            <td>13332</td>
-            <td>275778</td>
-        </tr>
-        <tr>
-            <td>13333</td>
-            <td>284447</td>
-        </tr>
-        <tr>
-            <td>14083</td>
-            <td>291460</td>
-        </tr>
-        <tr>
-            <td>14158</td>
-            <td>292149</td>
-        </tr>
-        <tr>
-            <td>14165</td>
-            <td>292218</td>
-        </tr>
-        <tr>
-            <td>14166</td>
-            <td>301127</td>
-        </tr>
-        <tr>
-            <td>14916</td>
-            <td>308117</td>
-        </tr>
-        <tr>
-            <td>14991</td>
-            <td>308805</td>
-        </tr>
-        <tr>
-            <td>14999</td>
-            <td>308874</td>
-        </tr>
-        <tr>
-            <td>15666</td>
-            <td>314911</td>
-        </tr>
-        <tr>
-            <td>15741</td>
-            <td>315581</td>
-        </tr>
-        </tbody>
-    </table>
- <a id="Swarming Towers"></a>
-    <table class="numtable" align="left" >
-        <thead>
-        <tr>
-            <th>Swarming Towers</th>
-            <th>Max Mana</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td>15749</td>
-            <td>315647</td>
-        </tr>
-        <tr>
-            <td>15816</td>
-            <td>316248</td>
-        </tr>
-        <tr>
-            <td>15824</td>
-            <td>316315</td>
-        </tr>
-        <tr>
-            <td>15831</td>
-            <td>316381</td>
-        </tr>
-        <tr>
-            <td>15832</td>
-            <td>325746</td>
-        </tr>
-        <tr>
-            <td>15833</td>
-            <td>335112</td>
-        </tr>
-        <tr>
-            <td>16583</td>
-            <td>342079</td>
-        </tr>
-        <tr>
-            <td>16658</td>
-            <td>342766</td>
-        </tr>
-        <tr>
-            <td>16665</td>
-            <td>342834</td>
-        </tr>
-        <tr>
-            <td>16666</td>
-            <td>352418</td>
-        </tr>
-        <tr>
-            <td>21658</td>
-            <td>352771</td>
-        </tr>
-        <tr>
-            <td>21665</td>
-            <td>352825</td>
-        </tr>
-        <tr>
-            <td>21666</td>
-            <td>363607</td>
-        </tr>
-        <tr>
-            <td>22416</td>
-            <td>369120</td>
-        </tr>
-        <tr>
-            <td>22491</td>
-            <td>369665</td>
-        </tr>
-        <tr>
-            <td>22499</td>
-            <td>369720</td>
-        </tr>
-        <tr>
-            <td>23166</td>
-            <td>374527</td>
-        </tr>
-        <tr>
-            <td>23241</td>
-            <td>375062</td>
-        </tr>
-        <tr>
-            <td>23249</td>
-            <td>375116</td>
-        </tr>
-        <tr>
-            <td>23316</td>
-            <td>375597</td>
-        </tr>
-        <tr>
-            <td>23324</td>
-            <td>375650</td>
-        </tr>
-        <tr>
-            <td>23331</td>
-            <td>375703</td>
-        </tr>
-         <tr>
-            <td>23332</td>
-            <td>386851</td>
-        </tr>
-        <tr>
-            <td>23333</td>
-            <td>398000</td>
-        </tr>
-        <tr>
-            <td>24083</td>
-            <td>403605</td>
-        </tr>
-        <tr>
-            <td>24158</td>
-            <td>404160</td>
-        </tr>
-        <tr>
-            <td>24165</td>
-            <td>404215</td>
-        </tr>
-        <tr>
-            <td>24166</td>
-            <td>415541</td>
-        </tr>
-        <tr>
-            <td>24916</td>
-            <td>421192</td>
-        </tr>
-        <tr>
-            <td>24991</td>
-            <td>421752</td>
-        </tr>
-        <tr>
-            <td>24999</td>
-            <td>421808</td>
-        </tr>
-        </tbody>
-    </table>
-<br style="clear: both"/>
+<p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
@@ -572,7 +301,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
-<p><b>Formula</b>: (x)</p>
+<p><b>Formula</b>: (x ^ 1.1), where x is Reincarnations made.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" alt="Dimension Door" align="middle"> <b>Dimension Door</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
@@ -849,14 +578,14 @@
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order.</p>
-<p><b>Formula</b>: (6.5 * x ^ 0.65), where x is time spent as Order this R.</p>
+<p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time spent as Order this R.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
-<p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
+<p><b>Formula</b>: (1.3 * x ^ 1.3)%, where x is Lineage level.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend log10(FC chance) (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58), where x is FC chance.</p>
-<p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is FC chance.</p>
+<p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58)%, where x is assistant count.</p>
+<p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is assistant count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
