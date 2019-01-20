@@ -146,7 +146,7 @@
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
 <p><b>Production Formula</b>: (32 * x ^ 0.8), where x is Arboreal Cities count.</p>
-<p><b>Faction Coin Formula</b>: (3 * x ^ 0.7), where x is Arboreal Cities count.</p>
+<p><b>Faction Coin Formula</b>: (3 * x ^ 0.75), where x is Arboreal Cities count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

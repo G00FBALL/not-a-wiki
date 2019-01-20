@@ -355,7 +355,7 @@
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
 <p><b>Production Formula</b>: (32 * x ^ 0.8), where x is Arboreal Cities count.</p>
-<p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.7), where x is Arboreal Cities count.</p>
+<p><b>Faction Coin Formula</b>: (1.45 * x ^ 0.75), where x is Arboreal Cities count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
@@ -570,7 +570,7 @@
 <p><b>Unique Building</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (0.65 * x ^ 0.65), where x is your max mana.</p>
+<p><b>Formula</b>: Dragon Pastures, where x is your max mana.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
 <p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>
