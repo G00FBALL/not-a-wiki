@@ -171,7 +171,7 @@
 <p><b>Good</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryCamp.png" alt="Mercenary Camp" align="middle"> <b>Mercenary Camp</b></p>
 <p><b>Requirement</b>: Mercenary Encampment Quest</p>
-<p><b>Cost</b>: 10 Dqag (1e125)</p>
+<p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (1.5 * (1 + x)), where X is number of Non-Unique Buildings.</p>
@@ -180,7 +180,7 @@
 <p><b>Evil</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TyrantGarrison.png" alt="Tyrant Garrison" align="middle"> <b>Tyrant Garrison</b></p>
 <p><b>Requirement</b>: Mercenary Encampment Quest</p>
-<p><b>Cost</b>: 1 Tqag (1e125)</p>
+<p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.5 * (log10(1+x)) ^ 4.5), where x is Offline Production Bonus.</p>
@@ -189,7 +189,7 @@
 <p><b>Neutral</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
 <p><b>Requirement</b>: Mercenary Encampment Quest</p>
-<p><b>Cost</b>: 1 Tqag (1e125)</p>
+<p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (2 * x ^ 0.95), where x is assistants you had in a single game (This R).</p>
