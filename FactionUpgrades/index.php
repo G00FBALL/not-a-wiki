@@ -1131,7 +1131,7 @@
                 <p><b>Requirement</b>: R116+, Dragon Union</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on the amount of Dragon Pastures you own.</p>
-                <p><b>Formula</b>: Dragon Pastures, where x is Dragon Pastures you own.</p>
+                <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is Dragon Pastures you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"> Wyrm's Rest</b></p>
                 <p><b>Requirement</b>: R116+, Dragon Union</p>

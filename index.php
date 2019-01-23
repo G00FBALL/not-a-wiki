@@ -6,6 +6,8 @@
 <a id="rightbox " href="https://discord.gg/cDgCqzp"></a>
 <p>Welcome to <b>G00F's Not a Wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> style without all the wiki adverts.
 <p><b><a target="_blank" href="https://discord.gg/cDgCqzp">Realm Grinder Chat on Discord</a></b></p>
+<p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder Forum on Kongregate</a></b></p>
+<p><b><a target="_blank" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1118498519">In-Depth Guide to R0 Starting Realm Grinder</a></b> by bookboy</p>
 <p>If you have any suggestions or find any errors send a message to <a target="_blank" href="http://www.kongregate.com/accounts/Igorogi/"><b>Igorogi</b></a> or <a target="_blank" href="http://www.kongregate.com/accounts/G00FBALL/"><b>G00FBALL</b></a> and please include links to where you got the information.</p>
 
 <p>A lot of the information on this site comes from the players in room 2 and the members of the <b><a target="_blank" href="https://discord.gg/cDgCqzp">Realm Grinder Chat on Discord</a></b></p>
