@@ -26,6 +26,8 @@
 <p><b>In Game description</b></p>
 <p>By reciting the Oath of the Mercenaries you will be able to join mercenaries for the rest of your existence. Not even Reincarnations will strip you of this right. You will be able to take any alignment and become a Good, Neutral or Evil mercenary, therefore determining your building set, and from there on you will be able to take any spell or ability from any other faction.</p>
 <hr>
+<p><b>Note</b>: Only 1 Dragon Upgrade per Mercenary tier.</p>
+<hr>
 <p><b>Mercenary Tier Upgrades</b></p>
 <p><b>Tier 1 Upgrades</b></p>
 <p>The price of the tier upgrades cost Faction Coins of the upgrade's Faction. e.g.: For a Fairy spell or upgrade, it will cost Fairy Faction Coins. For a Druid spell or upgrade, it will cost Elven and Demon Faction Coins.</p>

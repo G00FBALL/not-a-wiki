@@ -282,6 +282,8 @@
                 <p><b>Effect</b>: increases offline production directly by 750%</p>
                 <hr>
                 <h6>Dragon</h6>
+                <p><b>Note</b>: Only 1 Dragon Upgrade per Mercenary tier.</p>
+                <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png" align="middle"> Dragonscales</b></p>
                 <p><b>Mercenary Template</b>: DG1</p>
                 <p><b>Cost</b>: 5 Uvg (5.0e66)</p>
