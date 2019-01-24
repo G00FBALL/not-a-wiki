@@ -1799,6 +1799,7 @@
             <p><b>Cost</b>: 1 Spqig (1E174)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings based on research done.
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.        
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretUpgrade.png" alt="Vanilla Challenger" align="middle"> Vanilla Challenger</b></p>
             <p><b>Requirements</b>: Complete all the Vanilla Challenges.
@@ -1823,6 +1824,7 @@
             <p><b>Cost</b>: 1 NoSxg (1E210)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Ancient Researcher upgrade, increases the production of all buildings based on acquired research.
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretUpgrade.png" alt="NoRecruiting" align="middle"> No Recruiting</b></p>
             <p><b>Requirements</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.
@@ -1884,6 +1886,7 @@
             <p><b>Cost</b>: 1 NoSxg (1E210)
             <p><b>Alignment</b>: Non-neutral
             <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.    
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretUpgrade.png" alt="Stoic Resistance" align="middle"> Stoic Resistance</b></p>
             <p><b>Requirements</b>: Gather 1 Oc gems without abdicating. (1 Oc = Cost of the 1st reincarnation)
@@ -1933,7 +1936,7 @@
             <p><b>Requirement</b>: Discover all the Dragon researches, R55+
             <p><b>Cost</b>: 1 Novg (1e90)
             <p><b>Effect</b>: Increase the production of all buildings based on research done.
-            <p><b>Formula</b>: 0.3 * x^0.7
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.
             <hr></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png" alt="AdvisorInsight" align="middle"> Helden Sterben Nicht</b></p>
             <p><b>Requirement</b>: Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.(Abdication or Reincarnation)</p>
