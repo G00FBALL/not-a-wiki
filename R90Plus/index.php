@@ -127,7 +127,7 @@
                 <p><b>A2950</b>: Druid
                 <p><b>13th Upgrade</b>: UD7
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN2,AN5,TT6,DD6,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S330,S1450,S1500,C250,C340,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A120,A410,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
+                  <input type="text" value="EL3,EL7,AN2,AN5,TT6,DD6,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S330,S1450,S1500,C305,C340,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A120,A410,A590,A1500,A2950,A3400,W25,W180,W400,W525,W3050,W3150" id="Build">
                 <p>EL3,EL7,AN2,AN5,TT6,DD6,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Grand Balance,
                 <p>S50,S215,S305,S330,S1450,S1500,
