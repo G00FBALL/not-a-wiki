@@ -92,7 +92,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
 <p><b>Requirements</b>: Titan Master trophy and 8 hours activity time (This Game) of Lightning Strike.<p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
-<p><b>Formula</b>: (0.2 * ln(x) ^ 1.5), where x is Royal Exchanges purchased.</p>
+<p><b>Formula</b>: (0.2 * ln(x) ^ 1.5)%, where x is Royal Exchanges purchased.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidHeritage.png" alt="Druid Heritage" align="middle"><b> Druid Heritage</b></p>
 <p><b>Cost</b>: 25,000 Elven Coins, 25,000 Demon Coins</p>
