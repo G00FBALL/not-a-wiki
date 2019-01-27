@@ -767,7 +767,7 @@
     <p><b>Spell Trophy & Upgrade</b>: <b>Faceless Overmind</b>
     <p><b>Effect</b>: Increases Brainwave ticks to 3% per second.</p>
     <p><b>Requirement</b>: Affiliate with the Faceless 5 times in a row.</p>
-    <p><b>Challenge Upgrade</b>: Focused Thoughts, Give Brainwave a headstart based on the amount of times you cast it in this game, with a minimum of 1 minute,then grows up to maximum duration. +1 second per 5 minutes Active Time (This Game)
+    <p><b>Challenge Upgrade</b>: Focused Thoughts, Give Brainwave a headstart based on the amount of times you cast it in this game, with a minimum of 1 minute. +1 second per 5 minutes Active Time (This Game)
     <p><b>Tier Upgrade</b>: +10 minutes per tier of Brainwave past tier 1.</p>
     <div class="shlisting">
         <div class="shelementwhole">

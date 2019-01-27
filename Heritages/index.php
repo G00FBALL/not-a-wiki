@@ -58,7 +58,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Goblin Coins</p>
 <p><b>Requirements</b>: Goblin Master trophy and 8 hours activity time (This Game) of Goblin's Greed.<p>
 <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
-<p><b>Formula</b>: (0.25 * log10(1 + x) ^ 0.95), where x is gems owned.</p>
+<p><b>Formula</b>: (0.25 * log10(1 + x) ^ 0.95)%, where x is gems owned.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadHeritage.png" alt="Undead Heritage" align="middle"><b> Undead Heritage</b></p>
 <p><b>Cost</b>: 5000 Undead Coins</p>
@@ -128,7 +128,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarf Master Trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations and excavation resets. (This R).</p>
-<p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y)), where x is excavations and y is excavation resets this R (ruby and free resets).</p>
+<p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y))%, where x is excavations and y is excavation resets this R (ruby and free resets).</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowHeritage.png" alt="Drow Heritage" align="middle"><b> Drow Heritage</b></p>
 <p><b>Cost</b>: 75,000 Drow Coins</p>
@@ -141,7 +141,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
 <p><b>Requirements</b>: Drow Master trophy and 8 hours activity time (This Game) of Combo Strike.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on offline bonus and time spent in this game.</p>
-<p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8), where x offline bonus and y is time spent this game.</p>
+<p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8)%, where x offline bonus and y is time spent this game.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
 <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
