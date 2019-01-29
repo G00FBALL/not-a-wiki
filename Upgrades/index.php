@@ -1799,7 +1799,7 @@
             <p><b>Cost</b>: 1 Spqig (1E174)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increase the production of all buildings based on research done.
-            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.        
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretUpgrade.png" alt="Vanilla Challenger" align="middle"> Vanilla Challenger</b></p>
             <p><b>Requirements</b>: Complete all the Vanilla Challenges.
@@ -1886,7 +1886,7 @@
             <p><b>Cost</b>: 1 NoSxg (1E210)
             <p><b>Alignment</b>: Non-neutral
             <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
-            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.    
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretUpgrade.png" alt="Stoic Resistance" align="middle"> Stoic Resistance</b></p>
             <p><b>Requirements</b>: Gather 1 Oc gems without abdicating. (1 Oc = Cost of the 1st reincarnation)
@@ -2262,6 +2262,12 @@ div#images div{
             <p><b>Cost</b>: 10 Dd (1E40)</p>
             <p><b>Unlock Requirements</b>: Have Druid's Grand Balance spell affect Hall of Legends.</p>
             <p><b>Effect</b>: Increase Grand Balance duration to 24 seconds and lower its cost by 200.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="Dragon's Roar" align="middle"> <b>Dragon's Roar</b></p>
+            <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
+            <p><b>Cost</b>: 1 Qad (1.0e45)</p>
+            <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
+            <p><b>Formula</b>: floor(135 * x^0.98), where x is all Rs activity time in seconds.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b>
             <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment</p>
