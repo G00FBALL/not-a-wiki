@@ -487,7 +487,52 @@
                     <p>W25,W205,W405,W520
                     <p><b>Notes</b>: Druid challenge 4 off for Combo Strike buffing if production is needed.
                     <p><b>Notes</b>: Replace E290 with E135 if there are excavations to spare.
+    </div>
+         </div>
+    </div>
+<br/>
+    <p><b>Lineage Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Necrodoom
+                    <p><b>Faction</b>: Goblin/Drow/Makers
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Artifact Set</b>: Dwarf
+                    <p><b>Range</b>: 1e93 (1 TVg) Gems(?)+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S400,S435,C175,C400,D330,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S400,S435,C175,C305,D330,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> (2 days+
+                    <p>S50,S400,S435,
+                    <p>C175,C400,
+                    <p>D330,D560,
+                    <p>E1,E135,E225,E495,E590,
+                    <p>A10,A120,A410,
+                    <p>W25,W205,W405,W520
+                    <p><b>Notes</b>: Swap C400 with C305 and A120 with A400 at longer runs (2 days+).
+                    <p><b>Notes</b>: Infinite Spiral FC chance buffing recommended.
+            </div>
         </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Demon (Long term (L50+)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                   <p><b>Author</b>: OldYouth
+                    <p><b>Faction</b>: Demon/Drow/Djinn
+                    <p><b>Bloodline</b>: Goblin
+                    <p><b>Artifact Set</b>: Undead
+                    <p><b>Range</b>: 1e93 (1 TVg) Gems(?)+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S435,S3200,C50,C400,D10,D330,D560,E230,E320,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build">
+                    <p>S435,S3200,
+                    <p>C50,C400,
+                    <p>D10,D330,D560,
+                    <p>E230,E320,E495,
+                    <p>A25,A400,A410,
+                    <p>W1,W175,W205,W405,W520,W590
+                    <p><b>Notes</b>: Setup time is up to 2 days.
+         </div>
     </div>
       </div>
          </div>
