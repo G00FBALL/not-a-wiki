@@ -504,7 +504,7 @@
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S50,S400,S435,C175,C400,D330,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C305,D330,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> (2 days+
+                      <input type="text" value="S50,S400,S435,C175,C305,D330,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> 2 days+
                     <p>S50,S400,S435,
                     <p>C175,C400,
                     <p>D330,D560,
