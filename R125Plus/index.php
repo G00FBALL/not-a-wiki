@@ -255,6 +255,46 @@
                     <p><b>Notes</b>: Swap C400 with C305 for longer runs (6 hours+).
                     <p><b>Notes</b>: Swap A120 with A400 for longer runs (2-3 days+)
                     <p><b>Notes</b>: Estimated time for Spell Grinder is ?
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Goblin (MK Union) (Rush Build)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: ?
+                    <p><b>Faction</b>: Goblin/Drow/Makers
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Artifact Set</b>: Dwarf
+                    <p><b>Range</b>: 1e93 (1 TVg)(?) Gems+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S435,S3200,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
+                    <p>S50,S435,S3200,
+                    <p>C175,C400,
+                    <p>D245,D560,
+                    <p>E1,E135,E225,E495,E590,
+                    <p>A10,A120,A410,
+                    <p>W25,W205,W405,W520
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (MK Union)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Midasv2
+                    <p><b>Faction</b>: Undead/Drow/Archon
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Artifact Set</b>: Dwarf
+                    <p><b>Range</b>: 1e93 (1 TVg)(?) Gems+
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S225,S400,S435,C340,D25,D245,D560,E10,E135,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S225,S400,S435,C340,D25,D330,D560,E10,E135,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build"> 1e95 (100 TVg) Gems+
+                    <p>S225,S400,S435,
+                    <p>C340,
+                    <p>D25,D245,D560,
+                    <p>E10,E135,E495,
+                    <p>A1,A120,A175,A410,A590,
+                    <p>W25,W205,W405,W520
+                    <p><b>Notes</b>: Growth build, several hours set up time.
+                    <p><b>Notes</b>: Swap D245 with D330 at 1e95 (100 TVg) Gems+
     </div>
          </div>
     </div>
