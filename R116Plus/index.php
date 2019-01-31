@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Jan 15th, 2019</b>
+    <p><b>Updated Jan 31st, 2019</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982032-row"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -73,6 +73,29 @@
                 <p>A50,A120,A495,
                 <p>W225,W560,W1375
                 <p><b>Notes</b>: Replace S3200 with S400 if buffed (100K (?))
+                </div>
+           </div>
+               <div class="shelementwhole">
+                   <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead (Needs testing)<font color="DarkRed"> Evil</font></a></b></p>
+                   <div class="autohide">
+                       <p><b>Author</b>: Rellikrellik
+                       <p><b>Requirements</b>: Lineage Level 30, Art of the Crow ?
+                       <p><b>Range</b>: 1e60 (1 Nod) - 1e65 (100 Vg)
+                       <p><b>Faction</b>: Undead/Drow
+                       <p><b>Bloodline</b>: Dragon
+                       <p><b>Artifact Set</b>: Undead
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520" id="Build">
+                             <p><button onclick="myFunction($(this))">Copy Build</button>
+                             <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E400,E495,A1,A175,A545,A410,A590,W50,W205,W405,W520" id="Build"> Sunforce Faction Coins active
+                       <p>S225,S435,S3200,
+                       <p>C340,
+                       <p>D25,D245,D560,
+                       <p>E10,E400,E495,
+                       <p>A1,A175,A400,A410,A590,
+                       <p>W50,W205,W405,W520
+                       <p><b>Notes</b>: Several hours setup time, grower build.
+                       <p><b>Notes</b>: Replace A400 with A545 if able to benefit from Sunforce Faction Coins bonus.
                        </div>
                   </div>
                       <div class="shelementwhole">

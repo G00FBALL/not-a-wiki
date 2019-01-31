@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Jan 12th 2019</b>
+    <p><b>Updated Jan 31st, 2019</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982033-row"><b>megathread</b></a>  forum page</p>
 <br/>
 <div class="shlisting">
@@ -60,7 +60,29 @@
                 <p>W275,W1375,W1400
                 <p><b>Notes</b>: Buffing W275 and FC12 is highly recommended.
                 <p><b>Notes</b>: Target Maelstrom at Dragon Pasture for maximum production
+         </div>
     </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy(Needs testing)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Somarilnos
+                <p><b>Range</b>: 1e105 (1 QaTg) Gems(?)
+                <p><b>Requirements</b>: DN12 1000%+ (?)
+                <p><b>Faction</b>: Fairy/Dwarf/Djinn
+                <p><b>Bloodline</b>: Goblin
+                <p><b>Artifact Set</b>: Fairy
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S1,S180,S590,S3200,C10,C340,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build"> S400
+                <p>S1,S180,S590,S3200,
+                <p>C10,C340,C405,C520,
+                <p>D225,D245,D435,
+                <p>E50,E135,E410,
+                <p>A30,A120,A495,
+                <p>W560,W1375
+                <p><b>Notes</b>: Swap S3200 with S400 if buffed enough(?)
+     </div>
          </div>
     </div>
 <br/>
