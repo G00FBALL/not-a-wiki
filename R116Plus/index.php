@@ -213,10 +213,10 @@
     </div>
          </div>
         <br/>
-    <p><b>Special Builds</b></p>
+    <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (W275 buff)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (W275)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: 1e42 (1 TD) gems+
@@ -238,7 +238,7 @@
          </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 buff)<font color="DarkRed"> Evil</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400)<font color="DarkRed"> Evil</font></a></b></p>
         <div class="autohide">
             <p><b>Author</b>: Lapare
             <p><b>Range</b>: 1e52 (10 SxD) gems+
@@ -260,7 +260,7 @@
      </div>
 </div>
 <div class="shelementwhole">
-    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (Mana Spring/FC12 buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (Mana Spring/FC12)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
     <div class="autohide">
         <p><b>Author</b>: Necrodoom
         <p><b>Range</b>: ?

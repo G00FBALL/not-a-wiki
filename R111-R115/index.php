@@ -139,10 +139,10 @@
     </div>
     </div>
         <br/>
-    <p><b>Special Builds</b></p>
+    <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 Buff) (-1e37 (10 Ud) Gems)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275) (-1e37 (10 Ud) Gems)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: ? - 1e37 (10 Ud) Gems
@@ -164,7 +164,7 @@
          </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275 Buff) (+1e37 (10 Ud) Gems)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275) (+1e37 (10 Ud) Gems)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
             <p><b>Author</b>: Necrodoom
             <p><b>Range</b>: 10 Ud (1e37) Gems+
@@ -187,7 +187,7 @@
      </div>
 </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Jgchan29
                 <p><b>Range</b>: 1e43 (10 Td) Gems+
@@ -209,7 +209,7 @@
                 </div>
            </div>
                    <div class="shelementwhole">
-                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titan (FC12 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titan (FC12)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                        <div class="autohide">
                            <p><b>Author</b>: Necrodoom
                            <p><b>Range</b>: 1e43 (10 TD) Gems+
@@ -228,7 +228,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Elves (Elf Set Buff)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Elves (Elf Set)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: 1e45 (1 QaD) Gems+
@@ -250,7 +250,7 @@
                 </div>
            </div>
         <div class="shelementwhole">
-           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Elf Union)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
              <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Range</b>: ? Gems+

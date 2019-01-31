@@ -110,7 +110,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (W275 Buff) (1e67)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (W275) (1e67)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Midasv2
                     <p><b>Faction</b>: Undead/Drow
@@ -129,7 +129,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titan (FC12 Buff) (1e48-1e68)(1e74)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titan (FC12) (1e48-1e68)(1e74)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Ensteffahn
                     <p><b>Faction</b>: Titan/Dragon
@@ -151,7 +151,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titan (FC12 Buff) (1e68)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titan (FC12) (1e68)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Ensteffahn
                     <p><b>Faction</b>: Titan/Dragon/Archon
@@ -175,7 +175,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin (AR1 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin (AR1)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Curunur
                     <p><b>Faction</b>: Goblin/Drow/Makers
@@ -194,7 +194,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1 Buff) (1e95)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1) (1e95)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Curunur
                     <p><b>Faction</b>: Goblin/Drow/Makers
@@ -215,7 +215,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (MK2 Buff)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (MK2)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom/Curunur
                     <p><b>Faction</b>: Fairy/Dwarf/Djinn
@@ -233,7 +233,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin (S400 Buff)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin (S400)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Necrodoom
                     <p><b>Faction</b>: Goblin/Drow/Makers
