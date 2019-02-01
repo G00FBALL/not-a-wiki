@@ -3,14 +3,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "musicfamily.org/../scripts/header.html"; ?>
-<a id="rightbox " href="https://discord.gg/cDgCqzp"></a>
+<a id="rightbox " href="https://discord.gg/cq6zmQX"></a>
 <p>Welcome to <b>G00F's Not a Wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> style without all the wiki adverts.
-<p><b><a target="_blank" href="https://discord.gg/cDgCqzp">Realm Grinder Chat on Discord</a></b></p>
+<p><b><a target="_blank" href="https://discord.gg/cq6zmQX">Realm Grinder Chat on Discord</a></b></p>
 <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder Forum on Kongregate</a></b></p>
 <p><b><a target="_blank" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1118498519">In-Depth Guide to R0 Starting Realm Grinder</a></b> by bookboy</p>
 <p>If you have any suggestions or find any errors send a message to <a target="_blank" href="http://www.kongregate.com/accounts/Igorogi/"><b>Igorogi</b></a> or <a target="_blank" href="http://www.kongregate.com/accounts/G00FBALL/"><b>G00FBALL</b></a> and please include links to where you got the information.</p>
 
-<p>A lot of the information on this site comes from the players in room 2 and the members of the <b><a target="_blank" href="https://discord.gg/cDgCqzp">Realm Grinder Chat on Discord</a></b></p>
+<p>A lot of the information on this site comes from the players in room 2 and the members of the <b><a target="_blank" href="https://discord.gg/cq6zmQX">Realm Grinder Chat on Discord</a></b></p>
 <p>This site contains information you need to know to help you play <a target="_blank" href="http://www.kongregate.com/games/DivineGames/realm-grinder"><b>Realm Grinder</b></a>, an incremental/idle game by <a target="_blank"target="_blank" href="http://www.divinegames.it/"><b>DivineGames</b></a> and hosted on <a target="_blank"target="_blank" href="http://www.kongregate.com/"><b>Kongregate</b>.</a>
 <p>Now available on <a target="_blank"target="_blank" href="http://store.steampowered.com/app/610080/Realm_Grinder/"><b>Steam</b></a>, <a target="_blank"target="_blank" href="https://play.google.com/store/apps/details?id=com.kongregate.mobile.realmgrinder.google&hl=en/"><b>Android</b></a>, and <a target="_blank"target="_blank" href="https://itunes.apple.com/us/app/realm-grinder/id1110149506?mt=8/"><b>iOS</b></a>.
 <p><b>About The Game</b>
