@@ -1187,7 +1187,7 @@
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedRodent.png" alt="Fossilized Rodent" align="middle"><b> Fossilized Rodent</b></p>
             <p><b>Description</b>: What's this, a prehistoric mouse...?</p>
-            <p><b>Rewards</b>: Awards an upgrade of the same name that increases click reward by 10% per artifact you discovered.</p>
+            <p><b>Rewards</b>: Awards an upgrade of the same name that will Increase clicking reward based on the amount of artifacts you discovered.</p>
             <p><b>Chance</b>: (# Treasure clicks this R / 5,000,000) %</p>
             <p><b>Cost</b>: 100 Qid (1E50)
             <p><b>Alignment</b>: Any
@@ -1505,10 +1505,11 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Secret Upgrades</a></b></p>
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedRodentSecretUpgrade.png" alt="Fossilized Rodent" align="middle"><b> Fossilized Rodent</b></p>
-            <p><b>Requirements</b>: Find the Fossilized Rodent artifact.
-            <p><b>Cost</b>: 100 Qid (1E50)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increases clicking reward by 10% for each artifact you discovered.
+            <p><b>Requirements</b>: Find the Fossilized Rodent artifact.</p>
+            <p><b>Cost</b>: 100 Qid (1E50)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Increase clicking reward based on the amount of artifacts you discovered.</p>
+            <p><b>Formula</b>: ?
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceSecretUpgrade.png" alt="Ancient Device" align="middle"><b> Ancient Device</b></p>
             <p><b>Requirements</b>: Find the Ancient Device artifact.
