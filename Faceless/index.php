@@ -17,7 +17,7 @@
 <p><b>Tip 2</b>:</p>
 <p>Disable the Undead 3 Challenge bonus.</p>
 <p><b>Tip 3</b>:</p>
-<p>Buy <b>All</b> Faceless upgrades and click 1 at a time when buying upgrades, be sure not to buy assistant upgrades and dont buy R Power</p>
+<p>Buy <b>All</b> Faceless upgrades and click 1 at a time when buying upgrades, be sure not to buy assistant upgrades, building upgrades, Ruby power(if it includes assistants) and dont buy R Power.</p>
 <hr>
 <p><b>Faceless Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png" alt="Mystic Maze" align="middle"> <b>Mystic Maze</b></p>
