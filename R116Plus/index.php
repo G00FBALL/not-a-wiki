@@ -316,7 +316,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angel/Undead/Druid/Faceless/Dragon<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?
-                <p><b>Range</b>:
+                <p><b>Range</b>:(Gem reqs need testing/Outdated?)
                 <p><b>Dragon</b>: 1e61 (10 NoD) Gems+
                 <p><b>Angel</b>: 1e62 (100 NoD)
                 <p><b>Undead</b>: 1e63 (1 Vg)
@@ -348,10 +348,8 @@
                 <p><b>Notes</b>: At atleast 1e69 (1 DVg)(?) Gems+ (Faceless Lineage).
                 <p><b>Notes</b>: Swap A120 with A400 at 1e69 (1 DVg)(?) Gems+ (Dragon Lineage).(<b>if Fairy and Faceless AH are avaliable</b>)
                 <p><b>Notes</b>: Swap A120 with A400 at 1e71 (100 Dvg)(?) Gems+ (Faceless Lineage).(<b>if Fairy and Faceless AH are avaliable</b>)
-         </div>
-                <p><b>(Gem reqs need testing/Outdated?)</b></p>
                 <p><b>(C305 swaps need testing)</b></p>
-                <br/>
+             </div>
          </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless (Goblin at 1e67) (L30)<font color="Blue"> Good</font></a></b></p>
