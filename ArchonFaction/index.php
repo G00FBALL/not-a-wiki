@@ -103,7 +103,7 @@
 <p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
-<p><b>Cost</b>: 1 Qid (1e48) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
