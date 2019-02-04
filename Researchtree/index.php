@@ -50,7 +50,7 @@
             <th style="width:115px">Research Points</th>
             <th style="width:175px">Cost in Coins</th>
             <th style="width:175px">Recomended Gems</th>
-            <th>Cost in Faction coins</th>
+            <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
             <td><input id="reinc" type="number" min="16" max="100" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
@@ -146,7 +146,7 @@
             "97": {"RP": "4753", "CoinSc": "6.54e284", "CoinSh": "653.54 Tnog", "FCSc": "6.65e13", "FCSh": "66.49 T", "GemsSc": "3.62e136", "GemsSh": "36.15 Qaqag"},
             "98": {"RP": "4851", "CoinSc": "5.80e290", "CoinSh": "580.31 Qinog", "FCSc": "7.21e13", "FCSh": "72.12 T", "GemsSc": "3.41e139", "GemsSh": "34.07 Qiqag"},
             "99": {"RP": "4950", "CoinSc": "5.93e296", "CoinSh": "592.58 Spnog", "FCSc": "7.82e13", "FCSh": "78.16 T", "GemsSc": "3.44e142", "GemsSh": "34.43 Sxqag"},
-            "100": {"RP": "5000 Maxed", "CoinSc": "0", "CoinSh": "0", "FCSc": "8.46e13", "FCSh": "84.63 T", "GemsSc": "3.73e145", "GemsSh": "37.31 Spqag"}
+            "100": {"RP": "5000 Maxed", "CoinSc": "N/A", "CoinSh": "", "FCSc": "8.46e13", "FCSh": "84.63 T", "GemsSc": "3.73e145", "GemsSh": "37.31 Spqag"}
         };
         function CalcCost() {
             var reinc = parseInt($('#reinc').val());
