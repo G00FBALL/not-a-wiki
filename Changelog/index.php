@@ -5,6 +5,13 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.4, Feb 4, 2019</a></b></p>
+      <div class="autohide">
+<p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 11th 2019, 1.01 PM UTC and will end on Feb 15th 2019, 7.59 PM UTC.</p>
+<p>Added a new Valentine feat and upgrade.</p>
+</div>
+  </div>
+  <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.3, Dec 19, 2018</a></b></p>
       <div class="autohide">
 <p>Fixed an issue with Royal Exchange checks for all factions, resulting in Elven Challenge 3 being non-unlockable</p>
