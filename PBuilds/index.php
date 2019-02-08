@@ -47,7 +47,7 @@
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A250,A330,A400,</p>
                     <p>W10,W120,W150,W320,W330</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
                     </div>
             </div>
             <div class="shelementwhole">
@@ -71,7 +71,7 @@
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S1,C135,C500</p>
                     <p><b>Note</b>: For maximising excavations E50→E290</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A30</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -92,7 +92,7 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also C135,C500,C520</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
                 </div>
             </div>
         </div>
@@ -116,7 +116,7 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also C135,C460,C590</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -136,7 +136,7 @@
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W10,W120,W150,W320,W330</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A150</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -160,8 +160,8 @@
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S590,C135,C500</p>
                     <p><b>Note</b>: For maximising excavations E50→E290</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
-                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A30</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 2 days as Faceless)</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -182,8 +182,8 @@
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: For maximising excavations E50→E290</p>
-                    <p><b>Note</b>: If you don't have A400(requires 5 days as Druids) A400→A30</p>
-                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 5 days as Faceless)</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A30</p>
+                    <p><b>Note</b>: Use the Dwelves R34+ build if you don't have S590(requires 2 days as Faceless)</p>
                 </div>
             </div>
             <div class="shelementwhole">
