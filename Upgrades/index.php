@@ -1138,8 +1138,8 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDevice.png" alt="Artifacts" align="middle"><b> Ancient Device</b></p>
             <p><b>Clues</b>: This strange Device seems to react to the Ancient Races magical capabilities. We may channel its power to increase their research potential!</p>
             <p><b>Unlocks</b>: Provides 2 additional slots: 1 for each related Neutral Faction Facility you are playing.</p>
-            <p><b>Requirements</b>: Play a Neutral Faction and have over 2,000 excavations.
-            <p><b>Chance</b>: 0.2% per excavation (multi-buy or not)
+            <p><b>Requirements</b>: Play a Neutral Faction and have over 2,000 excavations, Unique Building.</p>
+            <p><b>Chance</b>: 0.2% per excavation (multi-buy or not)</p>
             <p><b>Cost</b>: 100 QiSxg (1E200)
             <p><b>Alignment</b>: Neutral
             <hr></p>

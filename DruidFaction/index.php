@@ -198,8 +198,9 @@
 <p><b>Description</b>: Quest Artifact and Upgrade</p>
 <p><b>Effect</b>: Adds 2 extra slots to the Neutral faction you are playing.</p>
 <p><b>Note</b>: Druid research is related to Economics and Alchemy</p>
-<p><b>Requirements</b>: Play a Neutral Faction, + 2,000 excavations, (Chance: 0.2% per excavation)</p>
+<p><b>Requirements</b>: Play a Neutral Faction, + 2,000 excavations, Unique Building.</p>
 <p><b>Cost</b>: 100 QiSxg (1E200)</p>
+<p><b>Chance</b>: 0.2% per excavation</p>
 <br/>
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></p>

@@ -187,7 +187,7 @@
                 <div class="autohide">
                     <p><b>Important</b>: If you don't already have the <b>Ancient Device</b>, get it.
                     <p><b>Unlocks</b>: Provides 2 additional slots: 1 for each related Neutral Faction Facility you are playing.
-                    <p><b>Requirements</b>: Play a Neutral Faction and have over 2,000 excavations.
+                    <p><b>Requirements</b>: Play a Neutral Faction and have over 2,000 excavations, Unique Building.</p>
                     <p><b>Chance</b>: 0.2% per excavation (multi-buy or not)
                                     <!--<p>Depending on if you have S305 or not you can use the updated Undead and Goblin builds to save yourself some time.-->
                     <p>Try to take advantage of Sunforce, otherwise the last stretch from e99 to e102 will take a while.

@@ -85,7 +85,8 @@
 <p><b>Effect</b>: Increase Warfare upgrade slot by 1</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceSlotUpgrade.png" alt="Warfare" align="middle"> <b>Artifact-Ancient Device</b></p>
-<p><b>Requirement</b>: R23, Find the Ancient Device (Play a Neutral Faction, 2000+ Excavations)</p>
+<p><b>Requirement</b>: R23, Find the Ancient Device (Play a Neutral Faction, 2000+ Excavations, Unique Building.</p>
+<p><b>Chance</b>: 0.2% per excavation</p>
 <p><b>Cost</b>: 100 QiSxg (1E200)</p>
 <p><b>Effect</b>: Provides 2 additional slots for Neutral researches(1 for each related Neutral Faction Facility you are playing).</p>
 <p><b>Note</b>: Needs purchased for each Neutral research run.</p>
