@@ -256,7 +256,7 @@ div#images div{
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2019 Events</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 14 - Feb 18, 2018)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 11 - Feb 15, 2019)</a></b></p>
             <div class="autohide">
                 <p><b>Event Theme</b>: <b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts</b></p>
                 <p>Collected online and offline at a base rate of 1 per second and can be increased up to 3.5/s during the length of the event as follows:</p>
@@ -282,7 +282,7 @@ div#images div{
                 <hr>
                 <p><b>Quest</b></p>
                 <p><b>Note</b>: Buy 50 Heart Upgrades of each to complete Quest (<b>Must show 5100+ for each upgrade</b>)</p>
-                <p><b>Note</b>: Total Hearts needed to complete all quest <b>if spread equally</b> 637500
+                <p><b>Note</b>: Total Hearts needed to complete all quest <b>if spread equally</b> 637500</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> Feel the Love 1</b></p>
                 <p><b>Requirement</b>: 50 Heart Upgrades</p>
@@ -311,10 +311,9 @@ div#images div{
                 <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateBoxFeat2019.png align=middle> Chocolate Box</b></p>
                 <p><b>Requirement</b>: Have at least 72 hours of Call to Love activity time during the Valentine event.</p>
                 <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-                <p><b>Cost</b>: Free
+                <p><b>Cost</b>: Free</p>
                 <p><b>Effect</b>: Increase your event bonus by a multiplicative 50%.</p>
                 <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-
                 <hr>
                 <p><b>Shop</b></p>
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> 15000 Hearts</b></p>
