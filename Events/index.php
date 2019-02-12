@@ -282,6 +282,7 @@ div#images div{
                 <hr>
                 <p><b>Quest</b></p>
                 <p><b>Note</b>: Buy 50 Heart Upgrades of each to complete Quest (<b>Must show 5100+ for each upgrade</b>)</p>
+                <p><b>Note</b>: Total Hearts needed to complete all quest <b>if spread equally</b> 637500
                 <br/>
                 <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> Feel the Love 1</b></p>
                 <p><b>Requirement</b>: 50 Heart Upgrades</p>
