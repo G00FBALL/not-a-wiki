@@ -498,7 +498,7 @@
                 <p><b>Mercenary Template</b>: DD6</p>
                 <p><b>Cost</b>: 500 Sp (5E26)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: 0.28 * x ^0.9, where x is the amount of assistants you own.</p>
+                <p><b>Formula</b>: (1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
                 <hr>
                 <h6>Faceless</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" align="middle"> Gold Synthesis</b></p>
