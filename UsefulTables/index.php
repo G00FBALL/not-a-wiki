@@ -9,7 +9,7 @@
 <div id="bubble-swarm">
   <div>
     <p for="dlinput"><b>Bubble Swarm Count - Max Mana</b> </p>
-    <p for="dlinput"><b>This includes Dwarf Challenge 5 and Kind Hearts (FR7)</b> </p>
+    <p for="dlinput"><b>This includes: Dwarf Challenge 5, Kind Hearts (FR7), Druid Heritage, Dragon Lineage Perk 3</b> </p>
     <label for="dlinput"><b>Dragon Lineage</b>: </label>
     <input type="number" id="dlinput" name="dragon lineage" value="0">
     <br />
@@ -32,6 +32,14 @@ function sumOfDigits(x) {
     return sum;
 }
 
+function druidHeritage(x) {
+	return Math.floor(x / 15);
+}
+
+function dragonPerk3(x) {
+	return Math.floor(1.25 * x / 2);
+}
+
 function kindHearts(x) {
 	return Math.floor(x / 8);
 }
@@ -41,8 +49,7 @@ function bubbleSwarm(x) {
 }
 
 function applyBldgMultiplier(x, l, h) {
-	var res = Math.floor(Math.fround(x * (h ? 1.1 : 1.0) * 1.2 * (1 + 0.12 * l)));
-	return res;	
+	return Math.floor(Math.fround(x * (h ? 1.1 : 1.0) * 1.2 * (1 + 0.12 * l)));
 }
 
 function buildBubbleSwarmTable(l, h) {
@@ -61,19 +68,19 @@ function buildBubbleSwarmTable(l, h) {
     if(l > 30)
   	    minbldg = 49999;
 
-	var tabletext = "";
+  var tabletext = "";
   var maxmana = 0;
   var bldgvals = [];
   var bubblevals = [];
   var manavals = [];
-	var numvals = 0;
-  var j = 0; // Index for second half of array to avoid odd/even issues
+  var numvals = 0;
   
   for (i = 1; i < maxbldg; i++) {
-    var bubbleval = bubbleSwarm(applyBldgMultiplier(i,l,h));
-    var manaval = bubbleval + kindHearts(applyBldgMultiplier(i,l,h));
+  	var bldgcount = applyBldgMultiplier(i,l,h);
+    var bubbleval = bubbleSwarm(bldgcount);
+    var manaval = bubbleval + kindHearts(bldgcount) + druidHeritage(bldgcount) + ((l > 0) ? dragonPerk3(bldgcount) : 0);
     if( manaval > maxmana ) {
-    	if( applyBldgMultiplier(i,l,h) >= minbldg ){
+    	if( bldgcount >= minbldg ){
         bubblevals[numvals] = bubbleval;
       	manavals[numvals] = manaval;
         bldgvals[numvals] = i;
@@ -84,13 +91,13 @@ function buildBubbleSwarmTable(l, h) {
 	}
   tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>FR10 Max Mana</th></tr></thead><tbody>";
   for(i = 0; i < numvals/2; i++){
-  	  tabletext += "<tr title=\"Total Max Mana with FR7: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
+  	  tabletext += "<tr title=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
   tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>FR10 Max Mana</th></tr></thead><tbody>";
-  for(j = i ; j < numvals; j++){
-  	  tabletext += "<tr title=\"Total Max Mana with FR7: " + manavals[j] + "\"><td>" + bldgvals[j] + "</td><td>" + bubblevals[j] + "</td></tr>";
+  for(; i < numvals; i++){
+  	  tabletext += "<tr title=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
