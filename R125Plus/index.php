@@ -640,10 +640,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Demon (Alternative)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Undead (Alternative)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                    <p><b>Author</b>: Rellikrellik
-                    <p><b>Faction</b>: Undead/Drow/Djinn
+                    <p><b>Faction</b>: Undead/Drow/Archon
                     <p><b>Bloodline</b>: Goblin
                     <p><b>Artifact Set</b>: Undead
                     <p><b>Range</b>: (?)+
@@ -656,6 +656,7 @@
                     <p>A1,A175,A400,A410,A590,
                     <p>W50,W205,W405,W520
                     <p><b>Notes</b>: AR5 and AR8 buffing required. (? recommended).
+                    <p><b>Notes</b>: Intended for use for players that spend a lot of time offline, as this build grows significally better than the other builds offline.
          </div>
     </div>
       </div>
