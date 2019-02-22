@@ -285,7 +285,7 @@
             <div class="autohide">
                     <p><b>Author</b>: ?
                     <p><b>Faction</b>: Goblin/Drow/Makers
-                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Bloodline</b>: Druid
                     <p><b>Artifact Set</b>: Dwarf
                     <p><b>Range</b>: 1e93 (1 TVg)(?) Gems+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
