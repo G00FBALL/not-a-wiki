@@ -9,7 +9,7 @@
 <div id="bubble-swarm">
   <div>
     <p for="dlinput"><b>Bubble Swarm Count - Max Mana</b> </p>
-    <p for="dlinput"><b>This includes Dwarf challenge 5</b> </p>
+    <p for="dlinput"><b>This includes: Dwarf Challenge 5, Kind Hearts (FR7), Druid Heritage, Dragon Lineage Perk 3</b> </p>
     <label for="dlinput"><b>Dragon Lineage</b>: </label>
     <input type="number" id="dlinput" name="dragon lineage" value="0">
     <br />
@@ -32,13 +32,24 @@ function sumOfDigits(x) {
     return sum;
 }
 
+function druidHeritage(x) {
+	return Math.floor(x / 15);
+}
+
+function dragonPerk3(x) {
+	return Math.floor(1.25 * x / 2);
+}
+
+function kindHearts(x) {
+	return Math.floor(x / 8);
+}
+
 function bubbleSwarm(x) {
 	return Math.floor(sumOfDigits(x) * 100 * Math.pow( x, 0.45 ) );
 }
 
 function applyBldgMultiplier(x, l, h) {
-	var res = Math.floor(Math.fround(x * (h ? 1.1 : 1.0) * 1.2 * (1 + 0.12 * l)));
-	return res;	
+	return Math.floor(Math.fround(x * (h ? 1.1 : 1.0) * 1.2 * (1 + 0.12 * l)));
 }
 
 function buildBubbleSwarmTable(l, h) {
@@ -57,55 +68,60 @@ function buildBubbleSwarmTable(l, h) {
     if(l > 30)
   	    minbldg = 49999;
 
-	var tabletext = "";
+  var tabletext = "";
   var maxmana = 0;
-  var manavals = [];
   var bldgvals = [];
+  var bubblevals = [];
+  var manavals = [];
   var numvals = 0;
-  var j = 0; // Index for second half of array to avoid odd/even issues
   
   for (i = 1; i < maxbldg; i++) {
-    var mana = bubbleSwarm(applyBldgMultiplier(i,l,h));
-    if( mana > maxmana ) {
-    	if( applyBldgMultiplier(i,l) >= minbldg ){
-      	manavals[numvals] = mana;
+  	var bldgcount = applyBldgMultiplier(i,l,h);
+    var bubbleval = bubbleSwarm(bldgcount);
+    var manaval = bubbleval + kindHearts(bldgcount) + druidHeritage(bldgcount) + ((l > 0) ? dragonPerk3(bldgcount) : 0);
+    if( manaval > maxmana ) {
+    	if( bldgcount >= minbldg ){
+        bubblevals[numvals] = bubbleval;
+      	manavals[numvals] = manaval;
         bldgvals[numvals] = i;
       	numvals++;
       }
-      maxmana = mana;
+      maxmana = manaval;
     }
 	}
-  tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>Max Mana</th></tr></thead><tbody>";
+  tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>FR10 Max Mana</th></tr></thead><tbody>";
   for(i = 0; i < numvals/2; i++){
-  	  tabletext += "<tr><td>" + bldgvals[i] + "</td><td>" + manavals[i] + "</td></tr>";
+  	  tabletext += "<tr research=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
-  tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>Max Mana</th></tr></thead><tbody>";
-  for(j = i ; j < numvals; j++){
-  	  tabletext += "<tr><td>" + bldgvals[j] + "</td><td>" + manavals[j] + "</td></tr>";
+  tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>FR10 Max Mana</th></tr></thead><tbody>";
+  for(; i < numvals; i++){
+  	  tabletext += "<tr research=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
   return tabletext;
 }
 
-$( "#dlsubmit" ).click(function(){
+function bubbleSwarmActivate(){
   var lineage = document.getElementById("dlinput").value;
   var heritage = document.getElementById("archinput").checked;
   $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+  $( "#s-m-t-tooltip" ).css("z-index",100);
+  $( "tr[research]" ).style_my_tooltips();
+}
+
+$( "#dlsubmit" ).click(function(){
+  bubbleSwarmActivate();
 })
 
 $( "#dlinput" ).change(function(){
-  var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").checked;
-  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+  bubbleSwarmActivate();
 })
 	
 $( "#archinput" ).change(function(){
-  var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").checked;
-  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+  bubbleSwarmActivate();
 })
 </script>
 <br style="clear: both"/><hr>
