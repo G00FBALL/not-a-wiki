@@ -91,35 +91,37 @@ function buildBubbleSwarmTable(l, h) {
 	}
   tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>FR10 Max Mana</th></tr></thead><tbody>";
   for(i = 0; i < numvals/2; i++){
-  	  tabletext += "<tr title=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
+  	  tabletext += "<tr research=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
   tabletext += "<a id=\"Swarming Towers\"></a><table class=\"numtable\" align=\"left\"><thead><tr><th>Swarming Towers</th><th>FR10 Max Mana</th></tr></thead><tbody>";
   for(; i < numvals; i++){
-  	  tabletext += "<tr title=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
+  	  tabletext += "<tr research=\"Total Max Mana from Swarming Towers: " + manavals[i] + "\"><td>" + bldgvals[i] + "</td><td>" + bubblevals[i] + "</td></tr>";
   }
   tabletext += "</tbody></table>";
 
   return tabletext;
 }
 
-$( "#dlsubmit" ).click(function(){
+function bubbleSwarmActivate(){
   var lineage = document.getElementById("dlinput").value;
   var heritage = document.getElementById("archinput").checked;
   $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+  $( "#s-m-t-tooltip" ).css("z-index",100);
+  $( "tr[research]" ).style_my_tooltips();
+}
+
+$( "#dlsubmit" ).click(function(){
+  bubbleSwarmActivate();
 })
 
 $( "#dlinput" ).change(function(){
-  var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").checked;
-  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+  bubbleSwarmActivate();
 })
 	
 $( "#archinput" ).change(function(){
-  var lineage = document.getElementById("dlinput").value;
-  var heritage = document.getElementById("archinput").checked;
-  $( "#bubble-swarm-table" ).html(buildBubbleSwarmTable(lineage, heritage));
+  bubbleSwarmActivate();
 })
 </script>
 <br style="clear: both"/><hr>
