@@ -249,10 +249,10 @@
             <p><b>Bloodline</b>: Dragon
             <p><b>Artifact Set</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="50,S435,S3200,C175,C340,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> Base build
+                  <input type="text" value="S50,S435,S3200,C175,C340,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> Base build
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="50,S400,S435,C175,C340,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> Long Runs
-            <p>50,S435,S3200
+                  <input type="text" value="S50,S400,S435,C175,C340,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> Long Runs
+            <p>S50,S435,S3200
             <p>C175,C340,
             <p>D200,D560,
             <p>E1,E135,E225,E495,E590,
