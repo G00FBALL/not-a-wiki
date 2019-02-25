@@ -393,15 +393,15 @@
                     <p><b>Artifact Set</b>: Dwarf
                     <p><b>Range</b>: 1e64 (10 Vg)+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E290,E495,A1,A175,A410,A545,A590, W50,W205,W405,W520" id="Build"> More Excavations
+                      <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E290,E495,A1,A175,A410,A545,A590,W50,W205,W405,W520" id="Build"> More Excavations
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E135,E495,A1,A175,A410,A545,A590, W50,W205,W405,W520" id="Build"> Less Excavations
+                      <input type="text" value="S225,S435,S3200,C340,D25,D245,D560,E10,E135,E495,A1,A175,A410,A545,A590,W50,W205,W405,W520" id="Build"> Less Excavations
                     <p>S225,S435,S3200,
                     <p>C340,
                     <p>D25,D245,D560,
                     <p>E10,E290,E495,
                     <p>A1,A175,A410,A545,A590,
-                    <p> W50,W205,W405,W520
+                    <p>W50,W205,W405,W520
                     <p><b>Notes</b>: Swap E290 with E135 if there are excavations to spare.
         </div>
     </div>
