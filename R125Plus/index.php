@@ -325,7 +325,7 @@
             <div class="autohide">
                     <p><b>Author</b>: Somarilnos
                     <p><b>Faction</b>: Undead/Drow/Archon
-                    <p><b>Bloodline</b>: Amgel
+                    <p><b>Bloodline</b>: Angel
                     <p><b>Artifact Set</b>: Dwarf
                     <p><b>Range</b>: 1e93 (1 TVg) Gems+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
