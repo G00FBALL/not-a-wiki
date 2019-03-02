@@ -158,8 +158,7 @@
 <p><b>E1225</b> - <b>For</b> Neutral,Dragon - <b>Research Name</b>: Hoarding</p>
 <p><b>Requirement</b>: 1T (1E12) Faction coins (Found this game)</p>
 <p><b>Cost</b>: 160.2 Uvg (1.602e68)</p>
-<p><b>Effect</b>: Reduce Ascension penalty for Royal Exchanges.</p>
-<p><b>Formula</b>: ((((((bonus per RE as %) ^ 0.2(if E1225)) * number of REs) / 100) + 1) ^ 0.1(if not E1225).</p>
+<p><b>Effect</b>: Removes 1 Ascension penalty for Royal Exchanges.</p>
 <br/>
 <p><b>E1325</b> - <b>For</b> All Factions - <b>Research Name</b>: Intimidation</p>
 <p><b>Requirement</b>: 18000 Unique Buildings</p>
