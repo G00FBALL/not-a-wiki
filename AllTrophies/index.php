@@ -301,7 +301,7 @@
 <p><b>Requirement</b>: Have exactly 4767 maximum Mana.</p>
 <p><b>Cost Pre A</b>: 1000 coins</p>
 <p><b>Cost Post A</b>: Free</p>
-<p><b>Effect</b>: Increase maximum mana by 10%.</p>
+<p><b>Effect</b>: Increase maximum mana by 15%.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png align=middle><b> Suggestion Master</b></p>
 <p><b>Requirement</b>: Open the changelog and ponder about what could be added in there for 3 minutes.</p>
@@ -385,7 +385,7 @@
 <p><b>1</b>. Join Mercenaries (Wait 10 seconds) then abdicate.</p>
 <p><b>2</b>. Join Undead (Wait 10 seconds) then abdicate.</p>
 <p><b>3</b>. Join Angels.</p>
-<p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.</p>
+<p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png align=middle><b> Mana Waste</b></p>
 <p><b>Requirement</b>: Have mana regeneration higher than max mana.</p>

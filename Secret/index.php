@@ -263,7 +263,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png align=middle><b> Mana Matrix</b></p>
 <p><b>Requirement</b>: Have exactly 4767 maximum Mana.</p>
 <p><b>Cost</b>: 1000 coins, A1+, Free</p>
-<p><b>Effect</b>: Increase maximum mana by 10%.</p>
+<p><b>Effect</b>: Increase maximum mana by 15%.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png align=middle><b> Suggestion Master</b></p>
 <p><b>Requirement</b>: Open the changelog and ponder about what could be added in there for 3 minutes.</p>
@@ -337,7 +337,7 @@
 <p><img src=http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png align=middle><b> Helden Sterben Nicht</b></p>
 <p><b>Requirement</b>: Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new Abdication or Reincarnation.</p>
 <p><b>Cost</b>: 5 Qavg (5e75), A1+, Free</p>
-<p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.</p>
+<p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%.</p>
 <p><b>1</b>: Join Mercenaries then abdicate. (Wait 5-10 seconds)</p>
 <p><b>2</b>: Join Undead then abdicate. (Wait 5-10 seconds)</p>
 <p><b>3</b>: Join Angels</p>
