@@ -476,7 +476,7 @@
                     <p><b>Author</b>: Curunur
                     <p><b>Faction</b>: Demon/Drow
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Artifact Set</b>: Demon
+                    <p><b>Artifact Set</b>: Undead
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S435,S3200,C50,C250,D10,D245,D560,E145,E230,E495,A25,A120,A410,W1,W175,W205,W405,W520,W590" id="Build">
