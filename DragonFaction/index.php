@@ -40,7 +40,7 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png" alt="Smiley face" align="middle"><b> Hatch!</b></p>
 <p><b>Description</b>: After waiting for a while... hatch the spiky egg and reveal what's inside!</p>
-<p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the lore artifact</p>
+<p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the quest artifact</p>
 <p><b>Cost</b>: 10Vg (1e64), (10m (1e7) each FC)</p>
 <p><b>Effect</b>: Hatches the Egg</p>
 <br/>
