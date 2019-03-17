@@ -583,7 +583,7 @@
     <p><b>Effect</b>: Increase clicking reward by 25% per Excavation you made and increase your Faction Coin find chance by 300%.</p>
     <p><b>Spell Trophy & Upgrade</b>: <b>Minedwarf</b></p>
     <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
-    <p><b>Requirement</b>: Find 30'000 Faction Coins using Diamond Pickaxe in a single game.</p>
+    <p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
     <p><b>Challenge Upgrade</b>: Iron Grip, Increase Diamond Pickaxe duration by 8 seconds, and its bonus to Faction Coin find chance is passively applied as a multiplier to excavations Faction Coin rewards.</p>
     <div class="shlisting">
         <div class="shelementwhole">
