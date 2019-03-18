@@ -171,11 +171,11 @@
 <p><b>Effect</b>: Unlock Union Upgrades.</p>
 <br/>
 <p><b>Other Effects</b></p>
-<p><b>Proof of Order</b>: Increase all building production based on time spent this reincarnation.</p>
-<p><b>Formula</b>:  (3.5 * x ^ 0.65), where x is time spent this reincarnation.</p>
+<p><b>Proof of Order</b>: Increase all building production based on time spent this Reincarnation.</p>
+<p><b>Formula</b>:  (3.5 * x ^ 0.65), where x is time spent this Reincarnation.</p>
 <br/>
-<p><b>Proof of Balance</b>: Increase mana regen based on clicks made this game.</p>
-<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 2.45), where x is amount of clicks made this game.</p>
+<p><b>Proof of Balance</b>: Increase mana regen based on clicks made this Reincarnation.</p>
+<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 2.45), where x is amount of clicks made this Reincarnation.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
 <p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
