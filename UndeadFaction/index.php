@@ -62,7 +62,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" alt="Smiley face" align="middle"> Dead Fields</b></p>
 <p><b>Cost</b>: 5 Qa (5E15)</p>
-<p><b>Effect</b>: Each assistants increases the production of all buildings based on the amount of Assistants and Necropolises you own.</p>
+<p><b>Effect</b>: Each assistant increases the production of all buildings based on the amount of Assistants and Necropolises you own.</p>
 <p><b>Formula</b>: (0.03 * x * y), where x is Assistants and y is Necropolises you own</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" alt="Smiley face" align="middle"> Tireless Workers</b></p>
