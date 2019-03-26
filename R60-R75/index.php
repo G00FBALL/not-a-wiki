@@ -157,7 +157,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 (R66+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Requirements</b>: DC5, free excavations (6000 Excavations or below, free reset before starting the run if needed)
