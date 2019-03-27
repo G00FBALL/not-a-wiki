@@ -114,7 +114,7 @@
                 <p>E135,E145,E320,E1225,E1425,
                 <p>A120,A305,A400,A545,A1325,
                 <p>W150,W180,W275,W400,W1375
-                <p><b>Notes</b>: Estimated run time is 1.5-2 hours.
+                <p><b>Notes</b>: Estimated run time is 10-15 minutes.
          </div>
     </div>
         <div class="shelementwhole">
@@ -157,17 +157,17 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 (R66+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Requirements</b>: DC5, free excavations (6000 Excavations or below)
-                <p><b>Range</b>: 1e72 (1 TVg) Gems
+                <p><b>Requirements</b>: DC5, free excavations (6000 Excavations or below, free reset before starting the run if needed)
+                <p><b>Range</b>: 1e66 (1 UVg) Gems
                 <p><b>Faction</b>: Druid/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S1450,C250,C340,C400,C1300,C1325,D245,D275,D1125,D1275,D1375,E135,E145,E250,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W150,W180,W250,W400,W1375" id="Build">
                 <p>S215,S270,S305,S330,S1450,
-                <p>C250,C340,C400,C1300,C1325,
+                <p>C330,C340,C400,C1300,C1325,
                 <p>D245,D275,D1125,D1275,D1375,
                 <p>E135,E145,E250,E290,E1225,E1425,
                 <p>A120,A305,A400,A545,A1325,A1500,
