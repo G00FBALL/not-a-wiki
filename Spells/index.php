@@ -491,7 +491,7 @@
     <p><b><center>Faction Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Good" align="middle"> Fairy Chanting</b> (Fairies)</p>
     <p><b>Works For</b>: Fairy - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 10 seconds </p>
-    <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50'000%</p>
+    <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50,000%</p>
     <p><b>Spell Trophy & Upgrade</b>: <b>Fairy Choir</b></p>
     <p><b>Effect</b>: Triples your assistants while Fairy Chanting is active.</p>
     <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>

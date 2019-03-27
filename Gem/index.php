@@ -28,10 +28,10 @@
 <p><b>Requirement</b>: Gain 15'000 Gems</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/50000Gems.png" alt="50000 Gems" align="middle"> 50000 Gems</b></p>
-<p><b>Requirement</b>: Gain 50'000 Gems</p>
+<p><b>Requirement</b>: Gain 50,000 Gems</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/100000Gems.png" alt="100000 Gems" align="middle"> 100000 Gems</b></p>
-<p><b>Requirement</b>: Gain 100'000 Gems</p>
+<p><b>Requirement</b>: Gain 100,000 Gems</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/1BillionGems.png" alt="1 Billion Gems" align="middle"> 1 Billion Gems</b></p>
 <p><b>Requirement</b>: Gain 1 B (1E9) Gems</p>

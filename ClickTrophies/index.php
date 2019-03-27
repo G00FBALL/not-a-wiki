@@ -25,11 +25,11 @@
 <p><b>Requirement</b>: Click the treasure 10,000 times</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheClickyWay.png" alt="The Clicky Way" align="middle"> The Clicky Way</b></p>
-<p><b>Requirement</b>: Click the treasure 20'000 times</p>
+<p><b>Requirement</b>: Click the treasure 20,000 times</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ClickerEternal.png" alt="Clicker Eternal" align="middle"> Clicker Eternal</b></p>
-<p><b>Requirement</b>: Click the treasure 50'000 times</p>
+<p><b>Requirement</b>: Click the treasure 50,000 times</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/RealmClicker.png" alt="Realm Clicker" align="middle"> Realm Clicker</b></p>
-<p><b>Requirement</b>: Click the treasure 100'000 times</p>
+<p><b>Requirement</b>: Click the treasure 100,000 times</p>
 <?php include "../scripts/footer.html"; ?>

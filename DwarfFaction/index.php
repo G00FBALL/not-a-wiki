@@ -14,7 +14,7 @@
 <p><b>Effect</b>: Increase clicking reward by 25% per Excavation and "Faction Coin Find Chance" by 200% for 12 seconds.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" alt="Smiley face" align="middle"></a> <b>Minedwarf</b>
 <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
-<p><b>Requirement</b>: Find 30'000 Faction Coins using Diamond Pickaxe in a single game.</p>
+<p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
 <hr>
 <p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>

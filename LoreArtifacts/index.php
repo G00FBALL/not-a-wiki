@@ -93,13 +93,13 @@
     <p><b>Clue</b>: Rarely found among other special coins.</p>
     <p><b>Description</b>: A common goblin lucky charm. The older it is, the luckier you are, or so they say.</p>
     <p><b>Requirement</b>: Play as Goblin (Not Drow)</p>
-    <p><b>Chance</b>: (#Faction Coins this R# / 50'000'000) %</p>
+    <p><b>Chance</b>: (#Faction Coins this R# / 50,000,000) %</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPurse.png" alt="Artifacts" align="middle"><b> Goblin Purse</b></p>
     <p><b>Clue</b>: Fill your pockets with extorted money.</p>
     <p><b>Description</b>: Heavy and roomy. Definitely too big for just pocket change.</p>
     <p><b>Requirement</b>: Play as Goblin (Not Drow)</p>
-    <p><b>Chance</b>: (Tax collection casts this game / 300'000) %</p>
+    <p><b>Chance</b>: (Tax collection casts this game / 300,000) %</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RottenOrgan.png" alt="Artifacts" align="middle"><b> Rotten Organ</b></p>
     <p><b>Clue</b>: Found among large masses of dead bodies.</p>

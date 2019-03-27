@@ -24,7 +24,7 @@
 <p><b>Note</b>: This can be done at any R</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
-<p><b>Requirement</b>: Reach 100'000 coins without building anything.</p>
+<p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
 <p><b>Cost</b>: 10 Dc (1e34), A1+, Free</p>
 <p><b>Note</b>: This can be done at any R.</p>
 <p><b>Effect</b>: Increase clicking reward by 25%</p>

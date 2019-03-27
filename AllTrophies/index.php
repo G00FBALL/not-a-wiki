@@ -25,7 +25,7 @@
 <p><b>Effect</b>: Increase the production of all buildings by 11.11111111% (No A Nerf)</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
-<p><b>Requirement</b>: Reach 100'000 coins without building anything.</p>
+<p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
 <p><b>Cost Pre A</b>: 10 Dc (1e34)</p>
 <p><b>Cost Post A</b>: Free</p>
 <p><b>Note</b>: This can be done at any R.</p>

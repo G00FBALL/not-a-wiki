@@ -184,7 +184,7 @@
 <p><b>Upgrade Effect</b>: Increase Brainwave tick to 3% per second</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfSecretTrophy.png" alt="Minedwarf" align="middle"><b> Minedwarf</b></p>
-<p><b>Requirement</b>: Playing as Dwarf, gain 30'000 Faction Coins using the Dwarf spell Diamond Pickaxe in a single game.</p>
+<p><b>Requirement</b>: Playing as Dwarf, gain 30,000 Faction Coins using the Dwarf spell Diamond Pickaxe in a single game.</p>
 <p><b>Upgrade Cost</b>: 100 Sxd (1.53), A1+ Free</p>
 <p><b>Upgrade Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
 <hr>
