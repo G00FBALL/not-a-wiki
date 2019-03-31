@@ -1685,7 +1685,7 @@ div#images div{
 <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p>
-<p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.)</p>
+<p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>
 <p><b>Cost</b>: 1 Dc (1E33)</p>
 <p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
 <p><b>Note</b>: Default Spell</p>
