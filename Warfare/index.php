@@ -182,7 +182,7 @@
 <p><b>Formula</b>: (0.15 * x ^ 0.8), where x is assistants.</p>
 <br/>
 <p><b>W3150</b> - <b>For</b> All Factions - <b>Research Name</b>: Upheaval</p>
-<p><b>Requirement</b>: 60000 Farms, Inns and Dwarven Forges.</p>
+<p><b>Requirement</b>: 60000 Farms, Inns and Blacksmiths.</p>
 <p><b>Cost</b>: 731.6 NoQig (7.316e182)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on their tier, giving the highest bonus to the lowest.</p>
 <p><b>Formula</b>: (150 * (12 - T) ^ 2.15), where T is building tier.</p>
