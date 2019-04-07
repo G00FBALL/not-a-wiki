@@ -19,13 +19,13 @@
 <p><b>Inns</b>: 200 -> 573 (Comfy Stools)</p>
 <p><b>Blacksmiths</b>: 200 -> 318 (Master Blacksmith)</p>
 <p><b>Deep Mines</b>: 300 -> 531 (Rare Veins)</p>
-<p><b>stone pillars</b>: 300 -> 312 (Glyph of Saving)</p>
-<p><b>alchemist labs</b>: 200 -> 326 (Gold Transmutation)</p>
-<p><b>monasteries</b>: 150 -> 285 (Fanaticism)</p>
-<p><b>labyrinths</b>: 75 -> 212 (Random Illusions)</p>
-<p><b>iron strongholds</b>: 25 -> 89 (Crenellations)</p>
-<p><b>ancient pyramids</b>: 10 -> 35 (Golden Sarcophagi)</p>
-<p><b>halls of legends</b>: 1 (Legends Among Legends)</p>
+<p><b>Stone Pillars</b>: 300 -> 312 (Glyph of Saving)</p>
+<p><b>Alchemist Labs</b>: 200 -> 326 (Gold Transmutation)</p>
+<p><b>Monasteries</b>: 150 -> 285 (Fanaticism)</p>
+<p><b>Labyrinths</b>: 75 -> 212 (Random Illusions)</p>
+<p><b>Iron Strongholds</b>: 25 -> 89 (Crenellations)</p>
+<p><b>Ancient Pyramids</b>: 10 -> 35 (Golden Sarcophagi)</p>
+<p><b>Halls of Legends</b>: 1 (Legends Among Legends)</p>
 <p><b>Note</b>: Don't forget to buy the upgrade Halls of Balance upgrade for 10 Dd</p>
 <hr>
 <p><b>Druid Challenge 2</b></p>
