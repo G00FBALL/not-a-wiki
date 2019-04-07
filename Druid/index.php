@@ -26,7 +26,7 @@
 <p><b>Iron Strongholds</b>: 25 -> 89 (Crenellations)</p>
 <p><b>Ancient Pyramids</b>: 10 -> 35 (Golden Sarcophagi)</p>
 <p><b>Halls of Legends</b>: 1 (Legends Among Legends)</p>
-<p><b>Note</b>: Don't forget to buy the upgrade Halls of Balance upgrade for 10 Dd</p>
+<p><b>Note</b>: Don't forget to buy the Halls of Balance upgrade for 10 Dd.</p>
 <hr>
 <p><b>Druid Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BalancedCurrentChallenges.png" alt="Balanced Current" align="middle"> <b>Balanced Current</b></p>
