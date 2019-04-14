@@ -45,7 +45,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
 <p><b>Hint</b>: Planets aligning seem to affect your realm in different ways...</p>
 <p><b>Requirements</b>: R100+</p>
-<p><b>Chance</b>: ((x ^ 2.5) / 5000) where x is amount of consecutive days.</p>
+<p><b>Chance</b>: ((x ^ 2.5) / 5000), where x is amount of consecutive days logged in.</p>
+<p><b>Note</b>: Restarting the game is required to increase the counter</p>
 <p><b>Effect</b>: Gives upgrade with the same name</p>
 <p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
 <p><b>Upgrade Cost</b>: 100 Qi (1e20)</p>
@@ -382,7 +383,7 @@
 <p><b>Old Cost</b> 1 Dc (1e33) Faction Coins.</p>
 <p><b>New Cost</b> 1 No (1e30) Faction Coins.</p>
 <br/>
-<p><b>Elite Prestige Facrion Upgrades</b></p>
+<p><b>Elite Prestige Faction Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form (AR10)</p></b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True (DJ10)</p></b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity (MK10)</p></b>
@@ -800,7 +801,7 @@
 <p><b></b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png"></p></b>
 <p>Upgraded From Royal Castle</p>
-<p>Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
+<p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase the production of Flesh Workshops based on mana regen.</p>
 <p><b>Old Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
 <p><b>New Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>

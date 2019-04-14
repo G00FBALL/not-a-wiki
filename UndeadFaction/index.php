@@ -109,7 +109,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
 <p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
-<p><b>Formula</b>: (0.018 * log10(1 + x) ^ 2)%, where x is offline bonus.</p>
+<p><b>Formula</b>: (0.025 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>

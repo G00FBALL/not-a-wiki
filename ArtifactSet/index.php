@@ -9,17 +9,17 @@
     <p><b>Requires all artifacts related to the faction to use its set.</b>
     <h6><center><img src="http://musicfamily.org/realm/Factions/picks/FactionSets.png" usemap="#FactionSets-map"></h6></center>
     <map name="FactionSets-map">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FairySet.png align=middle><b> Fairy Set</b></p><p>Requirement: A2+<p>Artifacts Required: Silk Cloth, Pink Carrot, Bottled Voice<p>Cost: Free<p>Effect: Increase Farm, Inn and Blacksmith production based on number of assistants owned.<p>Formula: (0.75 * x ^ 0.75), where x is number of assistants owned." coords="30,22,76,69" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ElvenSet.png align=middle><b> Elven Set</b></p><p>Requirement: A2+<p>Artifacts Required: Raw Emerald, Lucky Clover, Mini-treasure<p>Cost: Free<p>Effect: Increase all building production based on total amount of Elven Lucks triggered (This R)(since unlock).<p>Formula: (0.66 * x ^ 0.6), where x is amount of Elven Lucks triggered." coords="82,22,129,70" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/AngelSet.png align=middle><b> Angel Set</b></p><p>Requirement: A2+<p>Artifacts Required: Fossilized Wing, Pillar Fragment, DivineSword<p>Cost: Free<p>Effect: Increase mana regen based on spells cast this game.<p>Formula: (0.35 * x ^ 0.35), where x is spells cast." coords="134,22,182,69" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/GoblinSet.png align=middle><b> Goblin Set</b></p><p>Requirement: A2+<p>Artifacts Required: Spiked Whip, Ancient Coin Piece, Goblin Purse<p>Cost: Free<p>Effect: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.<p>Formula: (0.1 * x ^ 0.7), where x is seconds.<p>Note: Ingame tooltip is off by one (actual effect is 1 higher)" coords="28,75,77,120" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FairySet.png align=middle><b> Fairy Set</b></p><p>Requirement: A2+<p>Artifacts Required: Silk Cloth, Pink Carrot, Bottled Voice<p>Cost: Free<p>Effect: Increase Farm, Inn and Blacksmith production based on number of assistants owned.<p>Formula: (0.7 * x ^ 0.7), where x is number of assistants owned." coords="30,22,76,69" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ElvenSet.png align=middle><b> Elven Set</b></p><p>Requirement: A2+<p>Artifacts Required: Raw Emerald, Lucky Clover, Mini-treasure<p>Cost: Free<p>Effect: Increase all building production based on total amount of Elven Lucks triggered (This R)(since unlock).<p>Formula: (6 * x ^ 0.6), where x is amount of Elven Lucks triggered." coords="82,22,129,70" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/AngelSet.png align=middle><b> Angel Set</b></p><p>Requirement: A2+<p>Artifacts Required: Fossilized Wing, Pillar Fragment, DivineSword<p>Cost: Free<p>Effect: Additively increase Mana Regeneration based on highest amount of spells cast in a single game.<p>Formula: (3 * x ^ 0.3), where x is spells cast in a single game." coords="134,22,182,69" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/GoblinSet.png align=middle><b> Goblin Set</b></p><p>Requirement: A2+<p>Artifacts Required: Spiked Whip, Ancient Coin Piece, Goblin Purse<p>Cost: Free<p>Effect: Increase Faction Coin find chance additively and multiplicatively based on time spent in this game.<p>Additive Formula: (70 * x ^ 0.7), where x is time spent in this game.<p>Multiplicative Formula: (0.5 * x ^ 0.5), where x is time spent in this game." coords="28,75,77,120" shape="rect">
         <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/UndeadSet.png align=middle><b> Undead Set</b></p><p>Requirement: A2+<p>Artifacts Required: Dusty Coffin, Rotten Organ, JawBone<p>Cost: Free<p>Effect: Additively Increase max mana based on offline bonus.<p>Formula: (9 * ln(1 + x) ^3), where x is offline Multiplier." coords="81,73,130,124" shape="rect">
         <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DemonSet.png align=middle><b> Demon Set</b></p><p>Requirement: A2+<p>Artifacts Required: Crystallized Lava, Demonic Figurine, Demon Horn<p>Cost: Free<p>Effect: Increase non unique building production based on the sum of your faction spells activity time. (This R)<p>Formula: (0.4 * x ^ 0.75), where x is faction spell activity time." coords="133,74,182,121" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TitanSet.png align=middle><b> Titan Set</b></p><p>Requirement: A2+<p>Artifacts Required: Titan Helmet, Huge Titan Statue, Titan Shield<p>Cost: Free<p>Effect: Increase Unique building production based on time spent this game.<p>Formula: (0.7 * x ^ 0.7), where x is seconds." coords="30,127,78,174" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TitanSet.png align=middle><b> Titan Set</b></p><p>Requirement: A2+<p>Artifacts Required: Titan Helmet, Huge Titan Statue, Titan Shield<p>Cost: Free<p>Effect: Increase Royal Exchange Bonus additively and multiplicatively based on time spent in this game.<p>Aditive Formula: (0.3 * x ^ 0.7), where x is time spent in this game.<p>Multiplicative Formula: (0.45 * x ^ 0.45), where x is time spent in this game." coords="30,127,78,174" shape="rect">
         <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DruidSet.png align=middle><b> Druid Set</b></p><p>Requirement: A2+<p>Artifacts Required: Branch of the Life Tree, Glyph Table, Stone Of Balance<p>Cost: Free<p>Effect: Increase production of all buildings based on their quantity.<p>Effect: Also considers building count upgrades.<p>Formula: (0.8 * x ^ 0.7), where x is building count." coords="81,127,130,175" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FacelessSet.png align=middle><b> Faceless Set</b></p><p>Requirement: A2+<p>Artifacts Required: Nightmare Figment, Translucent Goo, Octopus-shaped Helmet<p>Cost: Free<p>Effect: Increase production of all buildings based on highest amount of spells cast in a single game.<p>Formula: (0.32 * x ^ 0.28), where x is number of spells cast." coords="135,127,183,174" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DwarvenSet.png align=middle><b> Dwarven Set</b></p> <p><b>Requirement</b>: R116+</p> <p><b>Artifacts Required</b>: Dwarven Bow, Stone Tankard, Beard Hair</p> <p><b>Cost</b>: Free</p> <p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p> <p><b>Formula</b>: (2.5 * x ^ 0.75), where x is Royal Exchange bonus." coords="28,179,77,225" shape="rect">
-        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DrowSet.png align=middle><b> Drow Set</b></p> <p><b>Requirement</b>: R116+</p> <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p> <p><b>Cost</b>: Free</p> <p><b>Effect</b>: Increase Mana Regeneration based on Evil spells cast (this R). (additive)</p> <p><b>Formula</b>: (50 * x ^ 0.5), where x is total evil spells cast (this R)." coords="81,178,130,225" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FacelessSet.png align=middle><b> Faceless Set</b></p><p>Requirement: A2+<p>Artifacts Required: Nightmare Figment, Translucent Goo, Octopus-shaped Helmet<p>Cost: Free<p>Effect: Gain assistants based on the highest amount of assistants you had in a previous game.(additively)<p>Formula: (2.5 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game." coords="135,127,183,174" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DwarvenSet.png align=middle><b> Dwarven Set</b></p> <p><b>Requirement</b>: R116+</p> <p><b>Artifacts Required</b>: Dwarven Bow, Stone Tankard, Beard Hair</p> <p><b>Cost</b>: Free</p> <p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p> <p><b>Formula</b>: (2.25 * x ^ 0.75), where x is Royal Exchange bonus." coords="28,179,77,225" shape="rect">
+        <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DrowSet.png align=middle><b> Drow Set</b></p> <p><b>Requirement</b>: R116+</p> <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p> <p><b>Cost</b>: Free</p> <p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.(additive)</p><p><b>Formula</b>: (0.45 * x ^ 0.45), where x is total evil spells cast (this R)." coords="81,178,130,225" shape="rect">
         <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DragonSet.png align=middle><b> Dragon Set</b></p> <p><b>Requirement</b>: R116+</p> <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p> <p><b>Cost</b>: Free</p> <p><b>Effect</b>: Increase the production of Non-Unique buildings based on Faction Coins found in this game.</p> <p><b>Formula</b>: (16 * log10(1 + x) ^ 2), where x is Faction Coins found." coords="136,180,182,226" shape="rect">
     </map>
     <br/>
@@ -28,7 +28,7 @@
     <p><b>Artifacts Required</b>: Pink Carrot, Bottled Voice, Silk Cloth</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase Farm, Inn and Blacksmith production based on number of assistants owned.</p>
-    <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is number of assistants owned.</p>
+    <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is number of assistants owned.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PinkCarrot.png" align="middle"><b> Pink Carrot</b></p>
     <p><b>Clue</b>: Found randomly in the Farms.</p>
@@ -53,7 +53,7 @@
     <p><b>Artifacts Required</b>: Lucky Clover, Mini-treasure, Raw Emerald</p>
     <p><b>Cost</b>: Free
     <p><b>Effect</b>: Increase all building production based on total amount of Elven Lucks triggered (This R)(since unlock).
-    <p><b>Formula</b>: (0.66 * x ^ 0.6), where x is amount of Elven Lucks triggered.</p>
+    <p><b>Formula</b>: (6 * x ^ 0.6), where x is amount of Elven Lucks triggered.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/LuckyClover.png" alt="Smiley face" align="middle"><b> Lucky Clover</b></p>
     <p><b>Clue</b>: Requires extreme amounts of luck!</p>
@@ -78,8 +78,8 @@
     <p><b>Requirement</b>: A2+</p>
     <p><b>Artifacts Required</b>: Pillar Fragment, Divine Sword, Fossilized Wing</p>
     <p><b>Cost</b>: Free</p>
-    <p><b>Effect</b>: Increase mana regen based on spells cast this game.</p>
-    <p><b>Formula</b>: (0.35 * x ^ 0.35), where x is spells cast.</p>
+    <p><b>Effect</b>: Additively increase Mana Regeneration based on highest amount of spells cast in a single game.</p>
+    <p><b>Formula</b>: (3 * x ^ 0.3), where x is spells cast in a single game.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/Pillarfragment.png" alt="Smiley face" align="middle"><b> Pillar Fragment</b></p>
     <p><b>Clue</b>: May fall from the Heavens.</p>
@@ -103,9 +103,9 @@
     <p><b>Requirement</b>: A2+
     <p><b>Artifacts Required</b>: Ancient Coin Piece, Goblin Purse, Spiked Whip</p>
     <p><b>Cost</b>: Free</p>
-    <p><b>Effect</b>: Multiplicatively increase gathered faction coins based on time spent this game if they don't match faction or bloodline.</p>
-    <p><b>Formula</b>: (0.1 * x ^ 0.7), where x is seconds this game.</p>
-    <p><b>Note</b>: Ingame tooltip is off by one (actual effect is 1 higher)</p>
+    <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on time spent in this game.</p>
+    <p><b>Additive Formula</b>: (70 * x ^ 0.7), where x is time spent in this game.</p>
+    <p><b>Multiplicative Formula</b>: (0.5 * x ^ 0.5), where x is time spent in this game.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCoinPiece.png" alt="Artifacts" align="middle"><b> Ancient Coin Piece</b></p>
     <p><b>Clue</b>: Rarely found among other special coins.</p>
@@ -180,8 +180,9 @@
     <p><b>Requirement</b>: A2+</p>
     <p><b>Artifacts Required</b>: Huge Titan Statue, Titan Shield, Titan Helmet</p>
     <p><b>Cost</b>: Free</p>
-    <p><b>Effect</b>: Increase Unique building production based on time spent this game.</p>
-    <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is seconds.</p>
+    <p><b>Effect</b>: Increase Royal Exchange Bonus additively and multiplicatively based on time spent in this game.</p>
+    <p><b>Aditive Formula</b>: (0.3 * x ^ 0.7), where x is time spent in this game.</p>
+    <p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45), where x is time spent in this game.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HugeTitanStatue.png" alt="Artifacts" align="middle"><b> Huge Titan Statue</b></p>
     <p><b>Clue</b>: Struck by the lightning.</p>
@@ -231,8 +232,8 @@
     <p><b>Requirement</b>: A2+</p>
     <p><b>Artifacts Required</b>: Translucent Goo, Octopus-shaped Helmet, Nightmare Figment</p>
     <p><b>Cost</b>: Free</p>
-    <p><b>Effect</b>: Increase production of all buildings based on highest amount of spells cast in a single game.</p>
-    <p><b>Formula</b>: (0.32 * x ^ 0.28), where x is number of spells cast.</p>
+    <p><b>Effect</b>: Gain assistants based on the highest amount of assistants you had in a previous game.(additively)</p>
+    <p><b>Formula</b>: (2.5 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TranslucentGoo.png" alt="Artifacts" align="middle"><b> Translucent Goo</b></p>
     <p><b>Clue</b>: Byproduct of the Brain.</p>
@@ -257,7 +258,7 @@
     <p><b>Artifacts Required</b>: Dwarven Bow, Stone Tankard, Beard Hair</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
-    <p><b>Formula</b>: (2.5 * x ^ 0.75), where x is Royal Exchange bonus.</p>
+    <p><b>Formula</b>: (2.25 * x ^ 0.75), where x is Royal Exchange bonus.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenBow.png" alt="Artifacts" align="middle"><b> Dwarven Bow</b></p>
     <p><b>Clue</b>: Click to throw.</p>
@@ -281,8 +282,8 @@
     <p><b>Requirement</b>: R116+</p>
     <p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
     <p><b>Cost</b>: Free</p>
-    <p><b>Effect</b>: Increase Mana Regeneration based on Evil spells cast (this R). (additive)</p>
-    <p><b>Formula</b>: (50 * x ^ 0.5), where x is total evil spells cast (this R).</p>
+    <p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.(additive)</p>
+    <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is total evil spells cast Reincarnation.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CeremonialDagger.png" alt="Artifacts" align="middle"><b> Ceremonial Dagger</b></p>
     <p><b>Clue</b>: Avoid hurting your fingers.</p>

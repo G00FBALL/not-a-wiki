@@ -70,7 +70,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
 <p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
-<p><b>Formula</b>: (0.018 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (0.025 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicHeritage.png" alt="Demonic Heritage" align="middle"><b> Demonic Heritage</b></p>
 <p><b>Cost</b>: 5000 Demon Coins</p>
@@ -92,7 +92,7 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
 <p><b>Requirements</b>: Titan Master trophy and 8 hours activity time (This Game) of Lightning Strike.<p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
-<p><b>Formula</b>: (0.2 * ln(x) ^ 1.5)%, where x is Royal Exchanges purchased.</p>
+<p><b>Formula</b>: (0.85 * ln(1 + x) ^ 1.15)%, where x is Royal Exchanges purchased.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidHeritage.png" alt="Druid Heritage" align="middle"><b> Druid Heritage</b></p>
 <p><b>Cost</b>: 25,000 Elven Coins, 25,000 Demon Coins</p>
@@ -128,7 +128,8 @@
 <p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarf Master Trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations and excavation resets. (This R).</p>
-<p><b>Formula</b>: (0.01 * x ^ (0.85 + 0.01 * y))%, where x is excavations and y is excavation resets this R (ruby and free resets).</p>
+<p><b>Formula</b>: (0.025 * (x * y) ^ 0.65)%, where x is excavations and y is excavation resets this R (ruby and free resets).</p>
+<p><b>Note</b>: Reset count now starts from 1 (no more 0% bonus).</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowHeritage.png" alt="Drow Heritage" align="middle"><b> Drow Heritage</b></p>
 <p><b>Cost</b>: 75,000 Drow Coins</p>

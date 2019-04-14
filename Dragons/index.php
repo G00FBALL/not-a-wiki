@@ -28,7 +28,7 @@
 <p><b>Dragon Challenge 3</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SerpentQuellerChallenges.png" alt="Serpent Queller" align="middle"> <b>Serpent Queller</b></p>
 <p>"Legends tell of a terrible sea monster destroying ships and harbors. With your dragon and faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the leviathan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more."</p>
-<p><b>Requirements</b>: Reincarnation 54, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 3, Completion Dragon Challenge 2, Play as Faceless/Dragon, Have a combined total of 25 days played as faceless and dragons with a minimum of 8 days as each one.</p>
+<p><b>Requirements</b>: Reincarnation 54, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 3, Completion Dragon Challenge 2, Play as Faceless/Dragon, Have a combined total of 8 days played as faceless and dragons with a minimum of 2 days as each one.</p>
 <p><b>Challenge</b>: Have 5500 Excavations.</p>
 <p><b>Effect</b>: Reduces Deep Memory ascension penalty.</p>
 <p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>

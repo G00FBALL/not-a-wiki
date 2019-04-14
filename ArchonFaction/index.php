@@ -120,7 +120,7 @@
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
-<p><b>Requirements</b>: R130</p>
+<p><b>Requirements</b>: R130, Unique Building</p>
 <p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>

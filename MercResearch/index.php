@@ -32,7 +32,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Good</b></p>
 <p><b>Requirement</b>: Mercenary Camp</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
-<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.</p>
+<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
 <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
 <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
 <br/>

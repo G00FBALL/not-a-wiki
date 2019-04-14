@@ -521,7 +521,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Good" align="middle"> Moon Blessing</b> (Elvens)</p>
     <p><b>Works For</b>: Elf - <b>Cost</b>: 700 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Increase the production of all buildings based on Treasure Clicks (Total).</p>
-    <p><b>Formula</b>: 1.75 * ln^3.1(1 + x)%, where x is your Treasure Clicks (Total) stat.</p>
+    <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
     <p><b>Spell Trophy & Upgrade</b>: <b>Sun Blessing</b></p>
     <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
     <p><b>Requirement</b>: Activate Moon Blessing between 6am and 12pm.</p>
@@ -673,8 +673,8 @@
     <p><b>Spell Trophy & Upgrade</b>: <b>Hell Rush</b></p>
     <p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
     <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
-    <p><b>Challenge Upgrade</b>: Hellfire Burst, Reduces Hellfire Blast mana cost based on the number of trophies you have unlocked.</p>
-    <p><b>Formula</b>: floor(0.25 * x), where x is the amount of trophies unlocked.</p>
+    <p><b>Challenge Upgrade</b>: Hellfire Burst, Hellfire Blast also counts Evil spells cast in this reincarnation to increase its bonus.</p>
+    <p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>
     <p><b>Effect</b>: Hell Fire Blast will make Evil spells cast count 50% more for all purposes per tier while active.</p>
     <div class="shlisting">
         <div class="shelementwhole">

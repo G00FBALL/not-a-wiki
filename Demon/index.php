@@ -38,6 +38,6 @@
 <hr>
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBurstChallenges.png" alt="Efficient Magic" align="middle"> <b>Hellfire Burst</b></p>
-<p><b>Effect</b>: Reduces Hellfire Blast mana cost based on the number of trophies you have unlocked.</p>
-<p><b>Formula</b>: floor(0.25 * x), where x is the amount of trophies unlocked.</p>
+<p><b>Effect</b>: Hellfire Blast also counts Evil spells cast in this reincarnation to increase its bonus.</p>
+<p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>
