@@ -60,23 +60,23 @@
     <p><b>Level 50</b>: Faction specific boost</p>
     <br/>
     <center><b>Lineage Menu</b></center>
-    <center><img src="http://musicfamily.org/admincontrols/Factions/picks/Lineages.png" usemap="#Lineages-map"></center>
+    <center><img src="http://musicfamily.org/realm/Factions/picks/Lineages.png" usemap="#Lineages-map"></center>
     <map name="Lineages-map">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/FairyLineage.png align=middle> Fairy Lineage</b><p><b>Base Effect</b>: Makes Farms, Inns and Blacksmiths count 18% more per Lineage level.<p><b>Cost</b>: 400 Fairy Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,14,68,69" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/ElvenLineage.png align=middle> Elven Lineage</b><p><b>Base Effect</b>: Gives 1 autoclick per Lineage level. Also increases clicks count by 5000% per level.<p><b>Cost</b>: 400 Elven Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,14,131,67" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/AngelLineage.png align=middle> Angel Lineage</b><p><b>Base Effect</b>: Adds 7% mana regeneration per level.<p><b>Cost</b>: 400 Angel Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,16,188,67" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/GoblinLineage.png align=middle> Goblin Lineage</b><p><b>Base Effect</b>: Increase Tax Collection worth in seconds by 25 for every level.<p><b>Cost</b>: 400 Goblin Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,76,68,125" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/UndeadLineage.png align=middle> Undead Lineage</b><p><b>Base Effect</b>: +1% more Assistants per level.<p><b>Cost</b>: 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,75,130,127" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/DemonLineage.png align=middle> Demon Lineage</b><p><b>Base Effect</b>: Increase Non-Unique Buildings production based on Lineage level. Does not suffer from Ascension penalties.</p><p><b>Formula</b>: (100 * x ^ 2), where x is Lineage level.</p><p><b>Cost</b>: 400 Demon Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,73,191,127" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/TitanLineage.png align=middle> Titan Lineage</b><p><b>Base Effect</b>: Royal Exchanges count 100% more per level.<p><b>Cost</b>: 400 Angel and 400 Goblin Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,135,68,187" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/DruidLineage.png align=middle> Druid Lineage</b><p><b>Base Effect</b>: Each lineage level counts as 2 additional Reincarnations.<p><b>Cost</b>: 400 Elven and 400 Demon Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,133,130,187" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/FacelessLineage.png align=middle> Faceless Lineage</b><p><b>Base Effect</b>: Increase Max Mana by 1.5% per level.<p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,134,190,187" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/DwarfLineage.png align=middle> Dwarf Lineage</b><p><b>Base Effect</b>: Increase the base production of each building based on their tier (additively). The bonus is multiplied by the Lineage level.</p><p><b>Formula</b>: (L * 10 ^ (0.2 * T  ^ 1.4)), where L is Lineage level and T is Building tier.</p><p><b>Cost</b>: 400 Dwarf Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,193,70,246" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/DrowLineage.png align=middle> Drow Lineage</b><p><b>Base Effect</b>: Increase offline production bonus based on Lineage level. Does not suffer from Ascension penalties.</p><p><b>Formula</b>: (150 * L ^ 2.25), where x is Lineage level.</p><p><b>Cost</b>: 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,193,128,247" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/DragonLineage.png align=middle> Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 12% more per level for all purposes.<p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/ArchonLineage.png align=middle> Archon Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Angel, Undead Royal Exchanges</p> <p><b>Effect</b>: Increase Faction Coin find chance multiplicatively by 25% per level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="18,257,68,305" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/DjinnLineage.png align=middle> Djinn Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Fairy, Demon Royal Exchanges</p> <p><b>Effect</b>: Increase production bonus from gems by a multiplicative 8% for every level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="78,255,128,306" shape="rect">
-        <area target="" research="<p><b><img src=http://musicfamily.org/admincontrols/Factions/picks/MakersLineage.png align=middle> Makers Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Elven, Goblin Royal Exchanges</p> <p><b>Effect</b>: Increase Royal Exchange bonus by multiplicative 8% per level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="136,255,190,305" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/FairyLineage.png align=middle> Fairy Lineage</b><p><b>Base Effect</b>: Makes Farms, Inns and Blacksmiths count 18% more per Lineage level.<p><b>Cost</b>: 400 Fairy Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,14,68,69" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/ElvenLineage.png align=middle> Elven Lineage</b><p><b>Base Effect</b>: Gives 1 autoclick per Lineage level. Also increases clicks count by 5000% per level.<p><b>Cost</b>: 400 Elven Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,14,131,67" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/AngelLineage.png align=middle> Angel Lineage</b><p><b>Base Effect</b>: Adds 7% mana regeneration per level.<p><b>Cost</b>: 400 Angel Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,16,188,67" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/GoblinLineage.png align=middle> Goblin Lineage</b><p><b>Base Effect</b>: Increase Tax Collection worth in seconds by 25 for every level.<p><b>Cost</b>: 400 Goblin Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,76,68,125" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/UndeadLineage.png align=middle> Undead Lineage</b><p><b>Base Effect</b>: +1% more Assistants per level.<p><b>Cost</b>: 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,75,130,127" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DemonLineage.png align=middle> Demon Lineage</b><p><b>Base Effect</b>: Increase Non-Unique Buildings production based on Lineage level. Does not suffer from Ascension penalties.</p><p><b>Formula</b>: (100 * x ^ 2), where x is Lineage level.</p><p><b>Cost</b>: 400 Demon Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,73,191,127" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/TitanLineage.png align=middle> Titan Lineage</b><p><b>Base Effect</b>: Royal Exchanges count 100% more per level.<p><b>Cost</b>: 400 Angel and 400 Goblin Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,135,68,187" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DruidLineage.png align=middle> Druid Lineage</b><p><b>Base Effect</b>: Each lineage level counts as 2 additional Reincarnations.<p><b>Cost</b>: 400 Elven and 400 Demon Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,133,130,187" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/FacelessLineage.png align=middle> Faceless Lineage</b><p><b>Base Effect</b>: Increase Max Mana by 1.5% per level.<p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,134,190,187" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DwarfLineage.png align=middle> Dwarf Lineage</b><p><b>Base Effect</b>: Increase the base production of each building based on their tier (additively). The bonus is multiplied by the Lineage level.</p><p><b>Formula</b>: (L * 10 ^ (0.2 * T  ^ 1.4)), where L is Lineage level and T is Building tier.</p><p><b>Cost</b>: 400 Dwarf Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,193,70,246" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DrowLineage.png align=middle> Drow Lineage</b><p><b>Base Effect</b>: Increase offline production bonus based on Lineage level. Does not suffer from Ascension penalties.</p><p><b>Formula</b>: (150 * L ^ 2.25), where x is Lineage level.</p><p><b>Cost</b>: 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,193,128,247" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DragonLineage.png align=middle> Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 12% more per level for all purposes.<p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/ArchonLineage.png align=middle> Archon Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Angel, Undead Royal Exchanges</p> <p><b>Effect</b>: Increase Faction Coin find chance multiplicatively by 25% per level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="18,257,68,305" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DjinnLineage.png align=middle> Djinn Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Fairy, Demon Royal Exchanges</p> <p><b>Effect</b>: Increase production bonus from gems by a multiplicative 8% for every level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="78,255,128,306" shape="rect">
+        <area target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/MakersLineage.png align=middle> Makers Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Elven, Goblin Royal Exchanges</p> <p><b>Effect</b>: Increase Royal Exchange bonus by multiplicative 8% per level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="136,255,190,305" shape="rect">
     </map>
     <hr>
     <H6>Fairy</h6>
@@ -116,7 +116,7 @@
     <p><b>Formula</b>: (8 * Floor (x/300)), where x is Fairy Chanting duration in seconds.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Assistants count 300% more.</p>
     <hr>
@@ -156,7 +156,7 @@
     <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 1500%.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ElvenPerk5.png" align="middle"> Elven Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk5.png" align="middle"> Elven Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Faction Coins count 1000% more.</p>
     <hr>
@@ -196,7 +196,7 @@
     <p><b>Effect</b>: When God's Hand is active, increase max mana by 50%.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/AngelPerk5.png" align="middle"> Angel Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk5.png" align="middle"> Angel Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Spells cast count 1000% more.</p>
     <hr>
@@ -237,7 +237,7 @@
     <p><b>Effect</b>: Also makes Tax Collection casts count 100% more.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/GoblinPerk5.png" align="middle"> Goblin Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk5.png" align="middle"> Goblin Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Faction Coin find chance counts 1000% more.</p>
     <hr>
@@ -276,7 +276,7 @@
     <p><b>Formula</b>: (7 * x ^ 0.7), where x is Night Time activity time this game.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/UndeadPerk5.png" align="middle"> Undead Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk5.png" align="middle"> Undead Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Reincarnation Power Counts Reincarnations as 100% more.</p>
     <hr>
@@ -316,7 +316,7 @@
     <p><b>Effect</b>: Non-Unique Buildings are also targeted by Hellfire Blast.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DemonPerk5.png" align="middle"> Demon Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk5.png" align="middle"> Demon Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Trophies count 1000% more.</p>
     <hr>
@@ -354,7 +354,7 @@
     <p><b>Effect</b>: Lightning Strike always hits Unique Buildings in addition to its random target. Unique Buildings are no longer random targets.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/TitanPerk5.png" align="middle"> Titan Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk5.png" align="middle"> Titan Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Royal Exchanges count 500% more.</p>
     <hr>
@@ -399,7 +399,7 @@
     <p><b>Note</b>: Ascension 2 penalty is removed</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DruidPerk5.png" align="middle"> Druid Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk5.png" align="middle"> Druid Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Mana produced counts 1000% more.</p>
     <hr>
@@ -439,7 +439,7 @@
     <p><b>Effect</b>: Remove 1 Ascension penalty from Brainwave on Unique Buildings.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/FacelessPerk5.png" align="middle"> Faceless Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk5.png" align="middle"> Faceless Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Time passed counts 100% more.</p>
     <hr>
@@ -481,7 +481,7 @@
     <p><b>Formula</b>: (0 .5 * log10(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarf Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarf Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Buildings count 100% more.</p>
     <hr>
@@ -523,7 +523,7 @@
     <p><b>Formula</b>: (2 * log10((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DrowPerk5.png" align="middle"> Drow Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk5.png" align="middle"> Drow Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Maximum Mana counts 300% more.</p>
     <hr>
@@ -561,20 +561,20 @@
     <p><b>Effect</b>: Activates two breaths per cast.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DragonPerk5.png" align="middle"> Dragon Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk5.png" align="middle"> Dragon Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Lineage levels count 100% more.</p>
     <hr>
     <p><b>Elite Lineages - R130+</b></p>
     <br/>
     <H6>Archon</h6>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonLineage.png" align="middle"> Archon Lineage</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonLineage.png" align="middle"> Archon Lineage</p></b>
     <p><b>Requirements</b>: R130+</p>
     <p><b>Cost</b>: 400 Angel, Undead Royal Exchanges</p>
     <p><b>Effect</b>: Increase Faction Coin find chance multiplicatively by 25% per level.</p>
     <br/>
     <p><b>Level 5</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonPerk1.png" align="middle"> Archon Perk 1</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk1.png" align="middle"> Archon Perk 1</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: While using Archon Bloodline, increase production of Elite Unique Buildings based on maximum mana.</p>
     <p><b>Formula</b>: (0.8 * x ^ 0.8), where x is maximum mana.</p>
@@ -584,35 +584,35 @@
     <p><b>Effect</b>: x50 more Angel and Undead Faction Coin find chance.</p>
     <br/>
     <p><b>Level 15</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonPerk2.png" align="middle"> Archon Perk 2</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk2.png" align="middle"> Archon Perk 2</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Archon Lineage Challenge.</p>
     <p><b>Challenge</b>: Have at least 30B (3e10) mana regeneration within 45 seconds of a new run.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Chrono Loading).</p>
     <br/>
     <p><b>Level 20</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonPerk3.png" align="middle"> Archon Perk 3</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk3.png" align="middle"> Archon Perk 3</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase mana regeneration by 3% per 1000 Unique Buildings.</p>
     <br/>
     <p><b>Level 30</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonPerk4.png" align="middle"> Archon Perk 4</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk4.png" align="middle"> Archon Perk 4</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Percognition also effects trophies, gems owned and faction coins found.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonPerk5.png" align="middle"> Archon Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk5.png" align="middle"> Archon Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Unique Buildings count 100% more.</p>
     <hr>
     <H6>Djinn</h6>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnLineage.png" align="middle"> Djinn Lineage</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnLineage.png" align="middle"> Djinn Lineage</p></b>
     <p><b>Requirements</b>: R130+</p>
     <p><b>Cost</b>: 400 Fairy, Demon Royal Exchanges</p>
     <p><b>Effect</b>: Increase production bonus from gems by a multiplicative 8% for every level.</p>
     <br/>
     <p><b>Level 5</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnPerk1.png" align="middle"> Djinn Perk 1</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk1.png" align="middle"> Djinn Perk 1</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: Catalyst casts in this game also increase Limited Wish counter for the purpose of increasing its bonus.</p>
     <br/>
@@ -621,35 +621,35 @@
     <p><b>Effect</b>: x50 more Fairy and Demon Faction Coin find chance.</p>
     <br/>
     <p><b>Level 15</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnPerk2.png" align="middle"> Djinn Perk 2</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk2.png" align="middle"> Djinn Perk 2</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Djinn Lineage Challenge.</p>
     <p><b>Challenge</b>: Have at least 1B (1e10) assistants within 45 seconds of a new run.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Persistent Entropy).</p>
     <br/>
     <p><b>Level 20</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnPerk3.png" align="middle"> Djinn Perk 3</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk3.png" align="middle"> Djinn Perk 3</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Activity time for all spells counts 2.5% more for every 1000 Unique Buildings.</p>
     <br/>
     <p><b>Level 30</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnPerk4.png" align="middle"> Djinn Perk 4</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk4.png" align="middle"> Djinn Perk 4</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Limited Wish is cast, gain +888 to automatic clicks this reincarnation.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnPerk5.png" align="middle"> Djinn Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk5.png" align="middle"> Djinn Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Mana regeneration counts 200% more.</p>
     <hr>
     <H6>Makers</h6>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersLineage.png" align="middle"> Makers Lineage</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineage.png" align="middle"> Makers Lineage</p></b>
     <p><b>Requirements</b>: R130+</p>
     <p><b>Cost</b>: 400 Elven, Goblin Royal Exchanges</p>
     <p><b>Effect</b>: Increase Royal Exchange bonus by multiplicative 8% per level.</p>
     <br/>
     <p><b>Level 5</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersLineagePerk1.png" align="middle"> Makers Perk 1</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk1.png" align="middle"> Makers Perk 1</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: While using Makers Bloodline, the requirement for Free Excavation Reset is reduced by 25%.</p>
     <br/>
@@ -658,24 +658,24 @@
     <p><b>Effect</b>: x50 more Elven and Goblin Faction Coin find chance.</p>
     <br/>
     <p><b>Level 15</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersLineagePerk2.png" align="middle"> Makers Perk 2</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk2.png" align="middle"> Makers Perk 2</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Makers Lineage Challenge.</p>
     <p><b>Challenge</b>: Have atleast 350000 buildings within 45 seconds of a new run.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Reality Crater).</p>
     <br/>
     <p><b>Level 20</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersLineagePerk3.png" align="middle"> Makers Perk 3</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk3.png" align="middle"> Makers Perk 3</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase Offline bonus by 10% per 500 Unique Buildings.</p>
     <br/>
     <p><b>Level 30</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersLineagePerk4.png" align="middle"> Makers Perk 4</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk4.png" align="middle"> Makers Perk 4</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
     <p><b>Effect</b>: While infinite spiral is active, production of all buildings increases by 1% each second, up to its maximum duration.</p>
     <br/>
     <p><b>Level 50</b></p>
-    <p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersLineagePerk5.png" align="middle"> Makers Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk5.png" align="middle"> Makers Perk 5</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 50.</p>
     <p><b>Effect</b>: Excavations count 200% more.</p>
         <?php include "../scripts/footer.html"; ?>

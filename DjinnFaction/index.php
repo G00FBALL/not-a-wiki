@@ -126,12 +126,12 @@
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
 <p><b>R130+</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</p></b>
 <p>Greetings. You will have the honor of hosting our people. Cover your realm in Chaos magic for us!</p>
 <p><b>Requirements</b>: R130+, 5 days of chaos spells this game</p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PavilionUpgrade.png" align="middle"> Pavilion Upgrade</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionUpgrade.png" align="middle"> Pavilion Upgrade</p></b>
 <p>Upgrade Orcish Arena/Stone PIllars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirements</b>: Pavilion Quest.</p>

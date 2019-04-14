@@ -522,7 +522,7 @@ div#images div{
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
 <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a single Reincarnation.</p>
 <hr>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</p></b>
 <p><b>Requirements</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
 <p><b>Cost</b>: 10 Sptg (1e115)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
@@ -1764,18 +1764,18 @@ div#images div{
 <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
 <p><b>Note</b>: Dragon Spell</p>
 <hr>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ChronoLoadingUpgrade.png" align="middle"> Chrono Loading</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirements</b>: R130+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: A fraction of Pregognition activity time in this Reincarnation is added to time spent in this game.</p>
 <p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Pregognition activity time in this Reincarnation.</p>
 <hr>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
 <p><b>Requirements</b>: R130+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: Also adds 150 casts to Limited wish formula.</p>
 <hr>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/RealityCraterUpgrade.png" align="middle"> Reality Crater</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityCraterUpgrade.png" align="middle"> Reality Crater</p></b>
 <p><b>Requirements</b>: R130+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>

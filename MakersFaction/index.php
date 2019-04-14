@@ -115,12 +115,12 @@
 <p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is Tax Collections cast this game.</p>
 <hr>
 <p><b>R130+</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOriginationQuest.png" align="middle"> Hall of Origination Quest</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOriginationQuest.png" align="middle"> Hall of Origination Quest</p></b>
 <p>Hello, child! Your realm progress looks kinda... obsolete. Would you mind if we help improve your realm with our advanced perks? Please gather more Faction Coins to generate more energy!</p>
 <p><b>Requirements</b>: R130+, Gather 5 TD (5e42) Faction Coins</p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOriginationUpgrade.png" align="middle"> Hall of Origination Upgrade</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOriginationUpgrade.png" align="middle"> Hall of Origination Upgrade</p></b>
 <p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
 <p><b>Requirements</b>: Hall of Origination Quest.</p>

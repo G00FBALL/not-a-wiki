@@ -107,12 +107,12 @@
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <hr>
 <p><b>R130+</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusQuest.png" align="middle"> Nexus Quest</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusQuest.png" align="middle"> Nexus Quest</p></b>
 <p>Hassar, Ruler. Our kind wants to establish better communications with you. Please build more Wizard Towers/Witch Conclaves/Alchemist Labs to convert.</p>
 <p><b>Requirements</b>: R130+, Buy 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs.</p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusUpgrade.png" align="middle"> Nexus Upgrade</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusUpgrade.png" align="middle"> Nexus Upgrade</p></b>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
 <p><b>Requirements</b>: Nexus Quest.</p>
