@@ -44,7 +44,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
                 <p><b>Mercenary Template</b>: EL3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
-                <p><b>Effect</b>: Increase clicking reward by 80% of your total production.</p>
+                <p><b>Effect</b>: Increase clicking reward by 50% of your total production.</p>
                 <hr>
                 <h6>Angel</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" align="middle"> Holy Bells</b></p>
@@ -248,7 +248,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" align="middle"> Dwarven Ale</b></p>
                 <p><b>Mercenary Template</b>: DN1</p>
                 <p><b>Cost</b>: 5 Qad (5E45)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by 1% per Inn you own.</p>
+                <p><b>Effect</b>: Increase the production of all buildings by 0.8% per Inn you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" align="middle"> Expert Masonry</b></p>
                 <p><b>Mercenary Template</b>: DN2</p>
@@ -260,14 +260,14 @@
                 <p><b>Mercenary Template</b>: DN3</p>
                 <p><b>Cost</b>: 500 Qad (5E47)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-                <p><b>Formula</b>: 10*x^0.9%, where x is the number of excavations you've purchased.</p>
+                <p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
                 <hr>
                 <h6>Drow</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny</b></p>
                 <p><b>Mercenary Template</b>: DW1</p>
                 <p><b>Cost</b>: 5 Qad (5E45)</p>
-                <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil.</p>
-                <p><b>Formula</b>: (15 * x) ^ 0.7%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
+                <p><b>Formula</b>: (x ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" align="middle"> Honor Among Killers</b></p>
                 <p><b>Mercenary Template</b>: DW2</p>
@@ -318,7 +318,7 @@
                 <p>AR3</p>
                 <p><b>Cost</b>: 100 NoQag (1e152)</p>
                 <p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-                <p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is clicks made.</p>
+                <p><b>Formula</b>: <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
                 <hr>
                 <h6>Djinn</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
@@ -344,7 +344,7 @@
                 <p>MK1</p>
                 <p><b>Cost</b>: 1 NoQag (1e150)</p>
                 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-                <p><b>Formula</b>: (3.5 * log10(1 + x) ^ 1.5), where x is clicks made in this Reincarnation.</p>
+                <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks made in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials</b></p>
                 <p>MK2</p>
@@ -395,7 +395,7 @@
                 <p><b>Mercenary Template</b>: EL6</p>
                 <p><b>Cost</b>: 50 T (5E13)</p>
                 <p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
-                <p><b>Formula</b>: ln(1 + x) ^ 2.5%, where x is your Treasure Clicks (Total) stat.</p>
+                <p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks (Total) stat.</p>
                 <hr>
                 <h6>Angel</h6>
                 <p><b>Effect</b>: Unlocks more Angel Upgrades.</p>
@@ -413,7 +413,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
                 <p><b>Mercenary Template</b>: AN6</p>
                 <p><b>Cost</b>: 50 T (5E13)</p>
-                <p><b>Effect</b>: Increase Mana production by 40%.</p>
+                <p><b>Effect</b>: Increase Mana production by 60%.</p>
                 <hr>
                 <h6>Goblin</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackMarketFactionUpgrade.png" align="middle"> Black Market</b></p>
@@ -542,12 +542,12 @@
                 <p><b>Mercenary Template</b>: DW4</p>
                 <p><b>Cost</b>: 50 Qid (5E49)</p>
                 <p><b>Effect</b>: Mana regeneration increases over time.</p>
-                <p><b>Formula</b>: (0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
+                <p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" align="middle"> Blood Sacrifices</b></p>
                 <p><b>Mercenary Template</b>: DW5</p>
                 <p><b>Cost</b>: 500 Qid (5E50)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by 2.5% per Dark Temple you own.</p>
+                <p><b>Effect</b>: Increase the production of all buildings by 3% per Dark Temple you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png" align="middle"> Blackmail</b></p>
                 <p><b>Mercenary Template</b>: DW6</p>
@@ -572,7 +572,7 @@
                 <p><b>Mercenary Template</b>: DG6</p>
                 <p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
                 <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
-                <p><b>Formula</b>: floor(0.1 * ln(1 + x)^2.75)</p>
+                <p><b>Formula</b>: (1.35 * x ^0.35), where x is clicks made in this game.</p>
                 <hr>
                 <h6>Archon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Constellation.png" align="middle"> Constellation</b></p>
@@ -584,8 +584,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPride.png" align="middle"> Archon Pride</b></p>
                 <p>AR5</p>
                 <p><b>Cost</b>: 1 DQig (1e159)</p>
-                <p><b>Effect</b>: Increase assistants based on time spent as your least used faction.</p>
-                <p><b>Formula</b>: (50 + 0.3 * x ^ 0.7), where x is least used faction.</p>
+                <p><b>Effect</b>: Increase assistants based on your current Lineage level.</p>
+                <p><b>Formula</b>: (1.25 * x ^ 1.25), where x is your current Lineage level.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Absentmindedness.png" align="middle"> Absent-mindedness</b></p>
                 <p>AR6</p>
@@ -657,8 +657,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiplomacyFactionUpgrade.png" align="middle"> Elven Diplomacy</b></p>
                 <p><b>Mercenary Template</b>: EL7</p>
                 <p><b>Cost</b>: 5 Qa (5E15)</p>
-                <p><b>Effect</b>: Increases the production of all buildings based on your chance to find Faction Coins.</p>
-                <p><b>Formula</b>: (2 * x), where x is your chance to find Faction Coins.</p>
+                <p><b>Effect</b>: Increase click count based on Faction Coins found in this game.</p>
+                <p><b>Formula</b>: (2 * ln(1 + x) ^ 2), where x is Faction Coins found in this game.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" align="middle"> Elven Luck</b></p>
                 <p><b>Mercenary Template</b>: EL8</p>
@@ -799,13 +799,13 @@
                 <p><b>Mercenary Template</b>: DN7</p>
                 <p><b>Cost</b>: 500 Sxd (5E53)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-                <p><b>Formula</b>: (1.5 * ln(1 +x) ^ 3)%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+                <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is your Dwarven Coins Gained (This Game) stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
                 <p><b>Mercenary Template</b>: DN8</p>
                 <p><b>Cost</b>: 5 Spd (5E54)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration rate.</p>
-                <p><b>Formula</b>: (80 * x ^0.85)%, where x is your Mana per Second stat.</p>
+                <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
                 <p><b>Mercenary Template</b>: DN9</p>
@@ -817,13 +817,13 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" align="middle"> Spider Gods</b></p>
                 <p><b>Mercenary Template</b>: DW7</p>
                 <p><b>Cost</b>: 500 Sxd (5E53)</p>
-                <p><b>Effect</b>: Increase the production of Dark Temples by 5% for each other building you own.</p>
+                <p><b>Effect</b>: Increase the production of Dark Temples by 8% for each other building you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" align="middle"> Professional Assassins</b></p>
                 <p><b>Mercenary Template</b>: DW8</p>
                 <p><b>Cost</b>: 5 Spd (5E54)</p>
                 <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased.</p>
-                <p><b>Formula</b>: round(10 * x ^0.8)%, where x is your Royal Exchanges Made stat.</p>
+                <p><b>Formula</b>: round(9 * x * 0.9)%, where x is your Royal Exchanges Made stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
                 <p><b>Mercenary Template</b>: DW9</p>
@@ -861,13 +861,13 @@
                 <p>AR8</p>
                 <p><b>Cost</b>: 100 TQig (1e164)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance based on the activity time of your least used spell.</p>
-                <p><b>Formula</b>: (25 + (0.25 * x ^ 0.75)), where x is spell with least activity time this R in seconds.</p>
+                <p><b>Formula</b>: (50 + 0.75 * x ^ 0.75), where x is spell with least activity time this R in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
                 <p>AR9</p>
                 <p><b>Cost</b>: 1 QaQig (1e165)</p>
-                <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game.</p>
-                <p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this Reincarnation.</p>
+                <p><b>Formula</b>: (log10(1 + x) ^ 2.5), where x is mana produced in this Reincarnation.</p>
                 <hr>
                 <h6>Djinn</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
@@ -890,11 +890,11 @@
                 <p><b>Formula</b>: (2 * log10(1 + x) ^ 2), where x is highest mana produced in a single game this reincarnation.</p>
                 <hr>
                 <h6>Makers</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stone Servants</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stonecarving</b></p>
                 <p>MK7</p>
                 <p><b>Cost</b>: 10 TQig (1e163)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-                <p><b>Formula</b>: (2.5 * x ^ (0.4 + 0.004 * y + 0.001 * z)), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+                <p><b>Formula</b>: (0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
                 <p>MK8</p>
@@ -938,6 +938,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" align="middle"> Wooden Dices</b></p>
                 <p><b>Requirement</b>: A2, Elven Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
+                <p><b>Effect</b>: When Elven Luck triggers, 100000 automatic Tax Collections are cast.</p>
                 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
                 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
                 <p><b>Production Formula</b>: (8 * x ^ 0.8), where x is Arboreal Cities count.</p>
@@ -946,14 +947,14 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" align="middle"> Camouflage</b></p>
                 <p><b>Requirement</b>: A2, Elven Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
-                <p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.</p>
+                <p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
                 <p><b>Formula</b>:  (0.75 * x ^ 0.75), where x is assistant count.</p>
                 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" align="middle"> Elven Discipline</b></p>
                 <p><b>Requirement</b>: A2, Elven Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-                <p><b>Effect</b>: Increase mana regeneration additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
+                <p><b>Effect</b>: Increase assistants additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
                 <p><b>Formula</b>: (100 * ln(x) ^ 1.5), where x is Faction Coins found in this game.(additively)</p>
                 <p><b>Formula</b>: (1.45 * ln(x)), where x is Faction Coins found in this game.(multiplicatively)</p>
                 <hr>
@@ -961,20 +962,20 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" align="middle"> Heaven's Brilliance</b></p>
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
-                <p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
-                <p><b>Formula</b>: (0.01 * log10(1 + x)), where x is T7 spells.</p>
-                <p><b>Dragon's Breath Formula</b>: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.</p>
+                <p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. Gem Grinder and all Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
+                <p><b>Formula</b>: (0.01 * ln(1 + x)), where x is amount of Holy Sites owned.</p>
+                <p><b>Gem Grinder and Dragon's Breath Formula</b>: (0.65 * x ^ 0.65), where x is amount of Holy Sites owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" align="middle"> Angelic Fortitude</b></p>
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
-                <p><b>Formula</b>: (0.035 * x ^ 0.65), where x is seconds in current spells)</p>
+                <p><b>Formula</b>: (0.07 * x ^ 0.7), where x is seconds in current spells.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" align="middle"> Seraphim Feathers</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" align="middle"> Seraphim Wings</b></p>
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-                <p><b>Effect</b>: Increase mana regeneration by 60%.</p>
+                <p><b>Effect</b>: Increase Mana Regeneration, Faction Coin find chance and assistants by 160%.</p>
                 <hr>
                 <h6>Goblin</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" align="middle"> Fools Gems</b></p>
@@ -987,7 +988,7 @@
                 <p><b>Requirement</b>: A2, Goblins Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase mana regeneration based on the amount of Tax Collections cast in this game.</p>
-                <p><b>Formula</b>: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
+                <p><b>Formula</b>: (2 * (ln(1 + x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png" align="middle"> Lousy Architecture</b></p>
                 <p><b>Requirement</b>: A2, Goblins Union</p>
@@ -1011,8 +1012,9 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" align="middle"> Eternal Servitude</b></p>
                 <p><b>Requirement</b>: A2, Undead Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-                <p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
-                <p><b>Formula</b>: (10000 + 75 * (x / 1800) ^ 2), where x is seconds this game.</p>
+                <p><b>Effect</b>: Increase base production of Undercity by +10000, and then increase this effect based on time spent in this Reincarnation.</p>
+                <p><b>Formula</b>: (10000 + 1.3 * x ^ 1.3), where x is time spent this Reincarnation.</p>
+                <p><b>Note</b>: Also effects Flesh Workshops.</p>
                 <hr>
                 <h6>Demon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" align="middle"> Abyssal Furnace</b></p>
@@ -1024,14 +1026,14 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" align="middle"> Demonic Fury</b></p>
                 <p><b>Requirement</b>: A2, Demons Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
-                <p><b>Effect</b>: Increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
-                <p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.</p>
+                <p><b>Effect</b>: Multiplicatively increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
+                <p><b>Formula</b>: (0.25 * min(x,y) ^ 0.75), where x is evil time in seconds and y is chaos time in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" align="middle"> Devastation</b></p>
                 <p><b>Requirement</b>: A2, Demons Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-                <p><b>Formula</b>: (3.5 * ln(1+ x) ^ 3.5), where x is mana regen.</p>
+                <p><b>Formula</b>: (4.5 * ln(1 + x) ^ 4.5), where x is mana regen.</p>
                 <hr>
                 <h6>Titan</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" align="middle"> Giant Market</b></p>
@@ -1062,8 +1064,10 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" align="middle"> Lunar Cycle</b></p>
                 <p><b>Requirement</b>: A2, Druids Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
-                <p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-                <p><b>Formula</b>: (x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
+                <p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
+                <p><b>Online Formula</b>: (50 * x ^ 0.95), where x is time spent online in this game.</p>
+                <p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
+                <p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" align="middle"> Grove Farming</b></p>
                 <p><b>Requirement</b>: A2, Druids Union</p>
@@ -1088,14 +1092,14 @@
                 <p><b>Requirement</b>: A2+, Faceless Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
-                <p><b>Formula</b>: (0.013 * x ^ 0.67), where x is highest max mana this R.</p>
+                <p><b>Formula</b>: (0.01 * x ^ 0.65), where x is highest max mana this R.</p>
                 <hr>
                 <h6>Dwarf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"> Solidity</b></p>
                 <p><b>Requirement</b>: R116+, Dwarven Union</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
                 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of High Bastion you own.</p>
-                <p><b>Formula</b>: (1.55 * x ^ 0.55), where x is royal castles multiplicative.</p>
+                <p><b>Formula</b>: (1.6 * x ^ 0.6), where x is High Bastion.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"> Stonetalking</b></p>
                 <p><b>Requirement</b>: R116+, Dwarven Union</p>
@@ -1150,56 +1154,56 @@
                 <h6>Archon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
                 <p><b>Requirement</b>: R130+, Archon Union</p>
-                <p><b>Cost</b>: 1 QiQig (1e168)</p>
+                <p><b>Cost</b>: 100 QiQig (1e170)</p>
                 <p><b>Effect</b>: Lineage levels count 300% more for all purposes.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbsoluteHierarchy.png" align="middle"> Absolute Hierarchy</b></p>
                 <p><b>Requirement</b>: R130+, Archon Union</p>
-                <p><b>Cost</b>: 10 QiQig (1e169)</p>
+                <p><b>Cost</b>: 1 SxQig (1e171)</p>
                 <p><b>Effect</b>: Remove 1 Ascension Penalty from Call to Arms.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EssenceExtractor.png" align="middle"> Essence Extractor</b></p>
                 <p><b>Requirement</b>: R130+, Archon Union</p>
-                <p><b>Cost</b>: 100 QiQig (1e170)</p>
+                <p><b>Cost</b>: 10 SxQig (1e172)</p>
                 <p><b>Effect</b>: Increase production bonus from Gems based on the duration of your longest spell.</p>
                 <p><b>Formula</b>: (0.15 * x ^ 0.7), where x is the duration of your longest spell.</p>
                 <hr>
                 <h6>Djinn</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
                 <p><b>Requirement</b>: R130+, Djinn Union</p>
-                <p><b>Cost</b>: 1 QiQig (1e168)</p>
+                <p><b>Cost</b>: 100 QiQig (1e170)</p>
                 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
                 <p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>
                 <p><b>Requirement</b>: R130+, Djinn Union</p>
-                <p><b>Cost</b>: 10 QiQig (1e169)</p>
+                <p><b>Cost</b>: 1 SxQig (1e171)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on Royal Exchanges made.</p>
                 <p><b>Formula</b>: (0.3 * x ^ 0.8), where x is Royal Exchanges made.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AcademicProdigy.png" align="middle"> Academic Prodigy</b></p>
                 <p><b>Requirement</b>: R130+, Djinn Union</p>
-                <p><b>Cost</b>: 100 QiQig (1e170)</p>
+                <p><b>Cost</b>: 10 SxQig (1e172)</p>
                 <p><b>Effect</b>: Tax Collections are worth more seconds based on trophies unlocked.</p>
                 <p><b>Formula</b>: (5 * x ^ 0.5), where x is trophies unlocked.</p>
                 <hr>
                 <h6>Makers</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity</b></p>
                 <p><b>Requirement</b>: R130+, Makers Union</p>
-                <p><b>Cost</b>: 1 QiQig (1e168)</p>
+                <p><b>Cost</b>: 100 QiQig (1e170)</p>
                 <p><b>Effect</b>: Artifacts count more based on time spent in this Reincarnation.</p>
                 <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is time spent this Reincarnation.(in seconds)</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BedrockFoundations.png" align="middle"> Bedrock Foundations</b></p>
                 <p><b>Requirement</b>: R130+, Makers Union</p>
-                <p><b>Cost</b>: 10 QiQig (1e169)</p>
+                <p><b>Cost</b>: 1 SxQig (1e171)</p>
                 <p><b>Effect</b>: Increase the base production of all buildings by 1000 per building tier.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityMarble.png" align="middle"> Reality Marble</b></p>
                 <p><b>Requirement</b>: R130+, Makers Union</p>
                 <p><b>Cost</b>: 100 QiQig (1e170)</p>
                 <p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
-                <p><b>Formula</b>: (3 * ln(x) ^ 3), where x is clicks made this Reincarnation.</p>
+                <p><b>Formula</b>: (2.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
             </div>
         </div>
     </div>

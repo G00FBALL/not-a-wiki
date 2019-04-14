@@ -136,7 +136,7 @@
 <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (75 * log10(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (75 * ln(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
@@ -154,6 +154,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
-<p><b>Effect</b>: Increase base production of Undercity by +10000, then increase this effect based on time spent this game.</p>
-<p><b>Formula</b>: (10000 + 0.75 * x ^ 1.5), where x is seconds this game.</p>
+<p><b>Effect</b>: Increase base production of Undercity by +10000, and then increase this effect based on time spent in this Reincarnation.</p>
+<p><b>Formula</b>: (10000 + 1.3 * x ^ 1.3), where x is time spent this Reincarnation.</p>
+<p><b>Note</b>: Also effects Flesh Workshops.</p>
 <?php include "../scripts/footer.html"; ?>

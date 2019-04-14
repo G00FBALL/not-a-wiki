@@ -55,7 +55,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
-<p><b>Effect</b>: Increase Mana production by 40%.</p>
+<p><b>Effect</b>: Increase Mana production by 60%.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelsAllianceFactionUpgrade.png" align="middle"> Angel Alliance</b></p>
@@ -134,26 +134,26 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelsUnion.png" alt="Angels Union" align="middle"> <b>Angels Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel Coins</p>
 <p><b>Requirement</b>: Holy Sites Unique Building</p>
-<p><b>Effect Requirement</b>: R111+
+<p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
-<p><b>Formula</b>: (4 * ln(x) ^ 2 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
+<p><b>Formula</b>: (4 * ln(x) ^ 2.25 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. All Dragon's Breath effects are increased based on the amount of Holy Sites you own. </p>
-<p><b>Formula</b>: (0.01 * log10(1 + x)), where x is T7 spells.</p>
-<p><b>Dragon's Breath Formula</b>: (0.6 * x ^ 0.6), where x is amount of Holy Sites owned.</p>
+<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. Gem Grinder and all Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
+<p><b>Formula</b>: (0.01 * ln(1 + x)), where x is amount of Holy Sites owned.</p>
+<p><b>Gem Grinder and Dragon's Breath Formula</b>: (0.65 * x ^ 0.65), where x is amount of Holy Sites owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
-<p><b>Formula</b>: (0.04 * x ^ 0.675), where x is seconds in current spells.</p>
+<p><b>Formula</b>: (0.07 * x ^ 0.7), where x is seconds in current spells.</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Feathers" align="middle"> <b>Seraphim Feathers</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Wings" align="middle"> <b>Seraphim Wings</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase mana regeneration by 80%.</p>
+<p><b>Effect</b>: Increase Mana Regeneration, Faction Coin find chance and assistants by 160%.</p>
 <?php include "../scripts/footer.html"; ?>

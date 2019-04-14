@@ -5,12 +5,12 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/BloodlineTopPage.png"></h6>
 <p><h6> The Bloodline</h6>
-<p>This upgrade appears at the 7th reincarnation and requires to have bought a total of 100 "Faction upgrades" of each faction, total across reincarnations. Upgrades such as Trade Treaties, Friendship Pacts, Alliances, Heritages and Spell Upgrades all count towards this.</p>
+<p>This upgrade appears at the 7th reincarnation and require 100 Faction Upgrades purchased. (any 1 faction)</p>
 <p>This upgrade enables to choose a Faction Bloodline, giving a kind of cross-faction perk that resets at abdications.</p>
 <p><b>Cost</b>: Free</p>
 <p><b>Trophy & Upgrade</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png" alt="Bloodstream" align="middle"><b> Bloodstream</b></p>
-<p>Unlocking all Faction Bloodlines grants the Bloodstream Secret Trophy, which in turn grants the Bloodstream upgrade.</p>
+<p>Bloodstream Secret Trophy requires 100 each of the first 11 Factions Upgrades to be purchased(accross all Rs), which in turn grants the Bloodstream upgrade.</p>
 <p><b>In-game description</b>:Increase the production of all buildings based on the time spent as faction of the bloodline you are using. While you are Mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using.</p>
 <p><b>Cost</b>: 1Tg (1e93 coins)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the total time allied with the faction bloodline you are playing. ('Time Spent Allied with' at the bottom of the stats)</p>
@@ -66,4 +66,27 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonBloodline.png" alt="Dragon" align="middle"><b> Dragon</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.</p>
 <p><b>Formula</b>: 4 * (x ^ 0.4), where x is Faction Coin find chance.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArchonBloodline.png" align="middle"> Archon</p></b>
+<p><b>Requirements</b>: R130+</p>
+<p><b>Effect</b>: Gain additional research slots based on time spent this game.</p>
+<p><b>Formula</b>: (1 + floor(0.5 * ((1 + x / 10800) ^ 0.5 - 1))), where x is time spent this game.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/DjinnBloodline.png" align="middle"> Djinn</p></b>
+<p><b>Requirements</b>: R130+</p>
+<p><b>Effect</b>: Gain a new spell that costs 500,000 mana and lasts 1 minute as a fixed duration. Each time you cast it, it activates a vanilla or primary alignment spell at tier 7.</p>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/CatalystSpell.png"></p></b>
+<p><b>Formula</b>: (1 + floor(0.5 * ((1 + x / 10800) ^ 0.5 - 1))), where x is time spent this game.</p>
+<p><b>Notes</b>
+<p><b>1</b>. Spell comes with tier bonus.
+<p><b>2</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
+<p><b>3</b>. Cannot cast a spell that is already active
+<p><b>4</b>. The Spell Pool is 8 for Neutral factions (No Gem Grinder), 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
+<hr>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MakersBloodline.png" align="middle"> Makers</p></b>
+<p><b>Requirements</b>: R130+</p>
+<p><b>Effect</b>: Increase your Set power based on faction coins collected this game.</p>
+<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5), where x is coins collected this game.</p>
+<p><b>Note</b> Includes Dwarf 5.</p>
+<br/>
 <?php include "../scripts/footer.html"; ?>

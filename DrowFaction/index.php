@@ -44,8 +44,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" alt="Smiley face" align="middle"> Underworld Tyranny</b></p>
 <p><b>Cost</b>: 5 Qad (5E45)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil.</p>
-<p><b>Formula</b>: ((15 * x) ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
+<p><b>Formula</b>: (x ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
@@ -65,11 +65,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" alt="Smiley face" align="middle"> Mana Addicts</b></p>
 <p><b>Cost</b>: 50 Qid (5E49)</p>
 <p><b>Effect</b>: Mana regeneration increases over time.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
+<p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" alt="Smiley face" align="middle"> Blood Sacrifices</b></p>
 <p><b>Cost</b>: 500 Qid (5E50)</p>
-<p><b>Effect</b>: Increase the production of all buildings by 2.5% per Dark Temple you own.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 3% per Dark Temple you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png" alt="Smiley face" align="middle"> Blackmail</b></p>
 <p><b>Cost</b>: 5 Sxd (5E51)</p>
@@ -83,12 +83,12 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Gods</b></p>
 <p><b>Cost</b>: 500 Sxd (5E53)</p>
-<p><b>Effect</b>: Increase the production of Dark Temples by 5% for each other building you own.</p>
+<p><b>Effect</b>: Increase the production of Dark Temples by 8% for each other building you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" alt="Smiley face" align="middle"> Professional Assassins</b></p>
 <p><b>Cost</b>: 5 Spd (5E54)</p>
 <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased.</p>
-<p><b>Formula</b>: round(10 * x ^ 0.8)%, where x is your Royal Exchanges Made stat.</p>
+<p><b>Formula</b>: round(9 * x * 0.9)%, where x is your Royal Exchanges Made stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>

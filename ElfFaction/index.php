@@ -35,7 +35,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" alt="Smiley face" align="middle"> Sylvan Treasure Frills</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
-<p><b>Effect</b>: Increase clicking reward by 80% of your total production.</p>
+<p><b>Effect</b>: Increase clicking reward by 50% of your total production.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenFriendshipPact.png" alt="Smiley face" align="middle"> Elven Friendship Pact</b></p>
@@ -54,7 +54,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" alt="Smiley face" align="middle"> Secret Clicking Techniques</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
-<p><b>Formula</b>: (ln(1 + x) ^ 2.5)%, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks (Total) stat.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Alliance</b></p>
@@ -63,8 +63,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiplomacyFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Diplomacy</b></p>
 <p><b>Cost</b>: 5 Qa (5E15)</p>
-<p><b>Effect</b>: Increases the production of all buildings based on your chance to find Faction Coins.</p>
-<p><b>Formula</b>: (2 * x), where x is your chance to find Faction Coins.</p>
+<p><b>Effect</b>: Increase click count based on Faction Coins found in this game.</p>
+<p><b>Formula</b>: (2 * ln(1 + x) ^ 2), where x is Faction Coins found in this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Luck</b></p>
 <p><b>Cost</b>: 50 Qa (5E16)</p>
@@ -135,7 +135,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenUnion.png" alt="Elven Union" align="middle"> <b>Elven Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven Coins</p>
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
-<p><b>Effect Requirement</b>: R111+
+<p><b>Effect Requirement</b>: R111+</p>
+<p><b>Effect</b>: Also autoclicks 10 times per second.</p>
 <p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
 <p><b>Formula</b>: (3 * ln(x) ^ 3), where x is faction coins found in this Reincarnation.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
@@ -143,6 +144,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
+<p><b>Effect</b>: When Elven Luck triggers, 100000 automatic Tax Collections are cast.</p>
 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
 <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
 <p><b>Production Formula</b>: (32 * x ^ 0.8), where x is Arboreal Cities count.</p>
@@ -151,14 +153,14 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Assistants count 1000% more for all purposes and increase assistant production based on assistant amount.</p>
+<p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistant count.</p>
 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Increase mana regeneration additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
+<p><b>Effect</b>: Increase assistants additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
 <p><b>Formula</b>: (100 * ln(1 + x) ^ 1.35), where x is Faction Coins found in this game.(additively)</p>
 <p><b>Formula</b>: (1.45 * ln(x)), where x is Faction Coins found in this game.(multiplicatively)</p>
 <?php include "../scripts/footer.html"; ?>

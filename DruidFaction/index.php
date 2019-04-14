@@ -238,7 +238,7 @@
 <p><b>Requirement</b>: Ziggurat Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-<p><b>Formula</b>: (3 * x * y ^ 1.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Formula</b>: (3 * x ^ 1.03 * y ^ 1.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -250,8 +250,10 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
-<p><b>Formula</b>: ((x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25), where x is time this game in seconds and y is offline time this game in seconds.</p>
+<p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
+<p><b>Online Formula</b>: (50 * x ^ 0.95), where x is time spent online in this game.</p>
+<p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
+<p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>

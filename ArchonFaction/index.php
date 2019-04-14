@@ -44,7 +44,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonTradeTreaty.png" align="middle"> Archon Trade Treaty</b></p>
 <p><b>Description</b>: The Archon value loyalty and any systematic and efficient plan of action. Affiliating with them will increase your ability to boost your production immensely over long periods of time.</p>
 <p><b>Requirements</b>: Vanilla and Prestige Union</p>
-<p><b>Cost</b>: 1 Dc (1e33) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Angel and Undead Coins</p>
 <p><b>Effect</b>: Unlocks Archon Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarTrading.png" align="middle"> Star Trading</b></p>
@@ -60,7 +60,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
 <p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is clicks made.</p>
+<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonFriendshipPact.png" align="middle">  Archon Friendship Pact</b></p>
@@ -74,8 +74,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPride.png" align="middle"> Archon Pride</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
-<p><b>Effect</b>: Increase assistants based on time spent as your least used faction.</p>
-<p><b>Formula</b>: (50 + 0.3 * x ^ 0.7), where x is least used faction.</p>
+<p><b>Effect</b>: Increase assistants based on your current Lineage level.</p>
+<p><b>Formula</b>: (1.25 * x ^ 1.25), where x is your current Lineage level.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Absentmindedness.png" align="middle"> Absent-mindedness</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
@@ -95,37 +95,50 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrangeAttraction.png" align="middle"> Strange Attraction</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the activity time of your least used spell.</p>
-<p><b>Formula</b>: (25 + (0.25 * x ^ 0.75)), where x is spell with least activity time this R in seconds.</p>
+<p><b>Formula</b>: (50 + 0.75 * x ^ 0.75), where x is spell with least activity time this R in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game.</p>
-<p><b>Formula</b>: (2.35 * log10(1 + x) ^ 2.35), where x is mana produced in this game.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this Reincarnation.</p>
+<p><b>Formula</b>: (log10(1 + x) ^ 2.5), where x is mana produced in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <hr>
+<p><b>R130+</b></p>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusQuest.png" align="middle"> Nexus Quest</p></b>
+<p>Hassar, Ruler. Our kind wants to establish better communications with you. Please build more Wizard Towers/Witch Conclaves/Alchemist Labs to convert.</p>
+<p><b>Requirements</b>: R130+, Buy 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs.</p>
+<p><b>Cost</b>: 1 QaQig (1e165)</p>
+<br/>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusUpgrade.png" align="middle"> Nexus Upgrade</p></b>
+<p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
+<p><b>Requirements</b>: Nexus Quest.</p>
+<p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
 <p><b>Requirements</b>: R130</p>
-<p><b>Cost</b>: 1 Qad (1e45) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>
 <p><b>Effect</b>: Unlocks Archon Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
 <p><b>Requirements</b>: Archon Union</p>
-<p><b>Cost</b>: 1 QiQig (1e168) </p>
+<p><b>Cost</b>: 100 QiQig (1e170)</p>
 <p><b>Effect</b>: Lineage levels count 300% more for all purposes.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbsoluteHierarchy.png" align="middle"> Absolute Hierarchy</b></p>
 <p><b>Requirements</b>: Archon Union</p>
-<p><b>Cost</b>: 10 QiQig (1e169) </p>
+<p><b>Cost</b>: 1 SxQig (1e171)</p>
 <p><b>Effect</b>: Remove 1 Ascension Penalty from Call to Arms.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EssenceExtractor.png" align="middle"> Essence Extractor</b></p>
 <p><b>Requirements</b>: Archon Union</p>
-<p><b>Cost</b>: 100 QiQig (1e170) </p>
+<p><b>Cost</b>: 10 SxQig (1e172)</p>
 <p><b>Effect</b>: Increase production bonus from Gems based on the duration of your longest spell.</p>
 <p><b>Formula</b>: (0.15 * x ^ 0.7), where x is the duration of your longest spell.</p>
 <?php include "../scripts/footer.html"; ?>

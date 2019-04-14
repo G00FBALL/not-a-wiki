@@ -61,7 +61,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png" align="middle"> Djinn Trade Treaty</b></p>
 <p><b>Description</b>: A magical race of ephemeral and elusive beings, unbound by natural rules but instead commanding them. Affiliating with them will grant you the ability to manipulate random outcomes to your advantage.</p>
 <p><b>Requirements</b>: Vanilla and Prestige Union</p>
-<p><b>Cost</b>: 1 Dc (1e33) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
@@ -125,6 +125,19 @@
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
+<p><b>R130+</b></p>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</p></b>
+<p>Greetings. You will have the honor of hosting our people. Cover your realm in Chaos magic for us!</p>
+<p><b>Requirements</b>: R130+, 5 days of chaos spells this game</p>
+<p><b>Cost</b>: 1 QaQig (1e165)</p>
+<br/>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PavilionUpgrade.png" align="middle"> Pavilion Upgrade</p></b>
+<p>Upgrade Orcish Arena/Stone PIllars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (10 * x ^ 0.5), where x is spells cast this R.</p>
+<p><b>Requirements</b>: Pavilion Quest.</p>
+<p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnUnion.png" align="middle"> Djinn Union</b></p>
 <p><b>Requirements</b>: R130</p>
 <p><b>Cost</b>: 1 Qad (1e45) Fairy and Demon Coins</p>
@@ -134,19 +147,19 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
-<p><b>Cost</b>: 1 QiQig (1e168) </p>
+<p><b>Cost</b>: 100 QiQig (1e170)</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
-<p><b>Cost</b>: 10 QiQig (1e169) </p>
+<p><b>Cost</b>: 1 SxQig (1e171)</p>
 <p><b>Effect</b>: Increase mana regeneration based on Royal Exchanges made.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.8), where x is Royal Exchanges made.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AcademicProdigy.png" align="middle"> Academic Prodigy</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
-<p><b>Cost</b>: 100 QiQig (1e170) </p>
+<p><b>Cost</b>: 10 SxQig (1e172)</p>
 <p><b>Effect</b>: Tax Collections are worth more seconds based on trophies unlocked.</p>
 <p><b>Formula</b>: (5 * x ^ 0.5), where x is trophies unlocked.</p>
 <?php include "../scripts/footer.html"; ?>

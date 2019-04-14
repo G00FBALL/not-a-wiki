@@ -174,7 +174,7 @@
 <p><b>Requirement</b>: Forbidden Library Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
-<p><b>Formula</b>: (50 * x ^ 0.5), where x is random faction all time in seconds.</p>
+<p><b>Formula</b>: (55 * x ^ 0.55), where x is random faction all time in seconds.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
@@ -193,5 +193,5 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
-<p><b>Formula</b>: (0.013 * x ^ 0.67), where x is highest max mana this R.</p>
+<p><b>Formula</b>: (0.01 * x ^ 0.65), where x is highest max mana this R.</p>
 <?php include "../scripts/footer.html"; ?>

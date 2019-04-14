@@ -50,13 +50,13 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png" align="middle"> Makers Trade Treaty</b></p>
 <p><b>Description</b>: The legendary old race which is said to have created the world, their watchful eye aims to keep all forces in check. Affiliating with them will increase your ability to dominate all your resources.</p>
 <p><b>Requirements</b>: Vanilla and Prestige Union</p>
-<p><b>Cost</b>: 1 Dc (1e33) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (3.5 * log10(1 + x) ^ 1.5), where x is clicks made in this Reincarnation.</p>
+<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks made in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
@@ -93,10 +93,10 @@
 <p><b>Cost</b>: 1 Dd (1e39) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stone Servants</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stonecarving</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-<p><b>Formula</b>: (2.5 * x ^ (0.4 + 0.004 * y + 0.001 * z)), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -114,6 +114,19 @@
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
 <p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is Tax Collections cast this game.</p>
 <hr>
+<p><b>R130+</b></p>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOriginationQuest.png" align="middle"> Hall of Origination Quest</p></b>
+<p>Hello, child! Your realm progress looks kinda... obsolete. Would you mind if we help improve your realm with our advanced perks? Please gather more Faction Coins to generate more energy!</p>
+<p><b>Requirements</b>: R130+, Gather 5 TD (5e42) Faction Coins</p>
+<p><b>Cost</b>: 1 QaQig (1e165)</p>
+<br/>
+<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOriginationUpgrade.png" align="middle"> Hall of Origination Upgrade</p></b>
+<p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
+<p><b>Requirements</b>: Hall of Origination Quest.</p>
+<p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130</p>
 <p><b>Cost</b>: 1 Qad (1e45) Elven and Goblin Coins</p>
@@ -123,18 +136,18 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity</b></p>
 <p><b>Requirements</b>: Makers Union</p>
-<p><b>Cost</b>: 1 QiQig (1e168) </p>
+<p><b>Cost</b>: 100 QiQig (1e170)</p>
 <p><b>Effect</b>: Artifacts count more based on time spent in this Reincarnation.</p>
 <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is time spent this Reincarnation.(in seconds)</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BedrockFoundations.png" align="middle"> Bedrock Foundations</b></p>
 <p><b>Requirements</b>: Makers Union</p>
-<p><b>Cost</b>: 10 QiQig (1e169) </p>
+<p><b>Cost</b>: 1 SxQig (1e171)</p>
 <p><b>Effect</b>: Increase the base production of all buildings by 1000 per building tier.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityMarble.png" align="middle">  Reality Marble</b></p>
 <p><b>Requirements</b>: Makers Union</p>
-<p><b>Cost</b>: 100 QiQig (1e170) </p>
+<p><b>Cost</b>: 100 QiQig (1e170)</p>
 <p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (3 * ln(x) ^ 3), where x is clicks made this Reincarnation.</p>
+<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>

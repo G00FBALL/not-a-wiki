@@ -45,7 +45,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Ale</b></p>
 <p><b>Cost</b>: 5 Qad (5E45)</p>
-<p><b>Effect</b>: Increase the production of all buildings by 1% per Inn you own.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 0.8% per Inn you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" alt="Smiley face" align="middle"> Expert Masonry</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
@@ -55,7 +55,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" alt="Smiley face" align="middle"> Mining Prodigies</b></p>
 <p><b>Cost</b>: 500 Qad (5E47)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-<p><b>Formula</b>: (10 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
+<p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Friendship Pact</b></p>
@@ -85,12 +85,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" alt="Smiley face" align="middle"> Battlehammers</b></p>
 <p><b>Cost</b>: 500 Sxd (5E53)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-<p><b>Formula</b>: (1.5 * ln(1 +x) ^ 3)%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is your Dwarven Coins Gained (This Game) stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" alt="Smiley face" align="middle"> Magic Resistance</b></p>
 <p><b>Cost</b>: 5 Spd (5E54)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration rate.</p>
-<p><b>Formula</b>: (80 * x ^ 0.85)%, where x is your Mana per Second stat.</p>
+<p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" alt="Smiley face" align="middle"> Overwatch</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>
@@ -174,16 +174,16 @@
 <p><b>Proof of Order</b>: Increase all building production based on time spent this Reincarnation.</p>
 <p><b>Formula</b>:  (3.5 * x ^ 0.65), where x is time spent this Reincarnation.</p>
 <br/>
-<p><b>Proof of Balance</b>: Increase mana regen based on clicks made this Reincarnation.</p>
-<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 2.45), where x is amount of clicks made this Reincarnation.</p>
+<p><b>Proof of Balance</b>: Increase Mana Regeneration based on clicks made in this Reincarnation.</p>
+<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5), where x is amount of clicks made this Reincarnation.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
 <p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of High Bastion you own. </p>
-<p><b>Formula</b>: (1.55 * x ^ 0.55), where x is royal castles multiplicative.</p>
+<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of High Bastion you own.</p>
+<p><b>Formula</b>: (1.6 * x ^ 0.6), where x is High Bastion.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"><b> Stonetalking</b></p>
 <p><b>Cost</b>: 100 Qitg (1e110)</p>

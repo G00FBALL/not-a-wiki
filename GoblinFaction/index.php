@@ -137,9 +137,9 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinsUnion.png" alt="Goblins Union" align="middle"> <b>Goblins Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
 <p><b>Requirement</b>: Slave Market Unique Building</p>
-<p><b>Effect Requirement</b>: R111+
+<p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
-<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is spells cast in this game.</p>
+<p><b>Formula</b>: (0.45 * x ^ 0.45), where x is spells cast in this game.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
@@ -152,7 +152,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Goblins Union</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of Tax Collections cast in this game.</p>
-<p><b>Formula</b>: (2 * (ln(x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
+<p><b>Formula</b>: (2 * (ln(1 + x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png" alt="Lousy Architecture" align="middle"> <b>Lousy Architecture</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>

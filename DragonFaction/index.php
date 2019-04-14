@@ -111,7 +111,7 @@
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
 <p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
 <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
-<p><b>Formula</b>: floor(0.1 * ln(1 + x)^2.75)</p>
+<p><b>Formula</b>: (1.35 * x ^0.35), where x is clicks made in this game.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Alliance</b></p>

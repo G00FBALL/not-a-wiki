@@ -144,11 +144,11 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Multiplicatively increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
-<p><b>Formula</b>: (0.12 * min(x, y) ^ 0.7), where x is evil time in seconds and y is chaos time in seconds.</p>
+<p><b>Formula</b>: (0.25 * min(x,y) ^ 0.75), where x is evil time in seconds and y is chaos time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-<p><b>Formula</b>: (3.5 * ln(1 + x) ^ 3.5), where x is mana regen.</p>
+<p><b>Formula</b>: (4.5 * ln(1 + x) ^ 4.5), where x is mana regen.</p>
 <?php include "../scripts/footer.html"; ?>
