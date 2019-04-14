@@ -588,7 +588,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Archon Lineage Challenge.</p>
     <p><b>Challenge</b>: Have at least 30B (3e10) mana regeneration within 45 seconds of a new run.</p>
-    <p><b>Effect</b>: Unlocks Faction spell. (Chrono Loading).</p>
+    <p><b>Effect</b>: Unlocks Faction spell. (Precognition).</p>
     <br/>
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk3.png" align="middle"> Archon Perk 3</p></b>
@@ -625,7 +625,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Djinn Lineage Challenge.</p>
     <p><b>Challenge</b>: Have at least 1B (1e10) assistants within 45 seconds of a new run.</p>
-    <p><b>Effect</b>: Unlocks Faction spell. (Persistent Entropy).</p>
+    <p><b>Effect</b>: Unlocks Faction spell. (Limited Wish).</p>
     <br/>
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk3.png" align="middle"> Djinn Perk 3</p></b>
@@ -662,7 +662,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Makers Lineage Challenge.</p>
     <p><b>Challenge</b>: Have atleast 350000 buildings within 45 seconds of a new run.</p>
-    <p><b>Effect</b>: Unlocks Faction spell. (Reality Crater).</p>
+    <p><b>Effect</b>: Unlocks Faction spell. (Infinite Spiral).</p>
     <br/>
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk3.png" align="middle"> Makers Perk 3</p></b>
