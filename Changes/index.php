@@ -23,7 +23,7 @@
 <br/>
 <p><b>3 Magic Trophies</p></b>
 <p><b>A2 Spell Upgrade and Trophies</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingUpgrade.png" align="middle"> Chrono Loading</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirements</b>: R130+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
@@ -34,7 +34,7 @@
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: Also adds 150 casts to Limited wish formula.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityCraterUpgrade.png" align="middle"> Reality Crater</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
 <p><b>Requirements</b>: R130+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
