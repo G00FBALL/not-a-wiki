@@ -11,33 +11,34 @@
     <p><b>Getting Rubies</b>
     <p>You can either buy Rubies in the shop, find free Rubies at Events, or by excavating.
     <p>You can buy an unlimited number of Rubies, or you can excavate for them but they get progressively harder to find.
-    <div id="rubcalc" class="calc">
+   <div id="rubcalc" class="calc">
         <table>
+            <tbody><tr><th colspan="8">Ruby Excavation Count and Cost</th></tr>
             <tr>
-                <th colspan="7">Ruby Excavation Count and Cost</th>
-            </tr>
-            <tr>
-                <th style="width: 15%">Ruby</th>
-                <th style="width: 10%">E290</th>
-                <th style="width: 10%">Easter</th>
+                <th style="width: 7.5%">Ruby</th>
+                <th style="width: 7.5%">E290</th>
+                <th style="width: 7.5%">Easter</th>
+                <th style="width: 12.5%">Maker</th>
                 <th style="width: 15%">Ascension</th>
                 <th style="width: 15%">Excavation</th>
                 <th style="width: 17.5%">Coins</th>
                 <th>Gems</th>
             </tr>
             <tr>
-                <td><input id="rub" type="number" min="1" max="41" value="1"/></td>
-                <td><label><input id="E290" type="checkbox"/></label></td>
-                <td><label><input id="eas" type="checkbox"/></label></td>
-                <td><input id="asc" type="number" min="0" max="2" value="0"/></td>
+                <td><input id="rub" type="number" min="1" max="99" value="1"></td>
+                <td><label><input id="E290" type="checkbox"></label></td>
+                <td><label><input id="eas" type="checkbox"></label></td>
+                <td><input id="maker" type="number" step="0.001" min="0.000" max="0.050" value="0.000"></td>
+                <td><input id="asc" type="number" min="0" max="2" value="0"></td>
                 <td id="exc"></td>
                 <td id="coi"></td>
                 <td id="gem"></td>
             </tr>
-        </table>
+        </tbody></table>
         <script>
             function rubcalc() {
                 var asc = parseInt($('input#asc').val());
+                var maker = parseFloat($('input#maker').val());
                 var rub = parseInt($('input#rub').val()),
                     mult = 1.2,
                     cost = 0,
@@ -47,6 +48,9 @@
                 $('#exc').html(exc);
                 if ($('#E290').prop('checked')) mult -= 0.025;
                 if ($('#eas').prop('checked')) mult -= 0.025;
+                if (maker > 0) {
+                    mult -= maker;
+                }
                 if (asc > 0) {
                     mult = 1 + ((mult - 1) / (asc * 5));
                 }
