@@ -45,7 +45,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
 <p><b>Hint</b>: Planets aligning seem to affect your realm in different ways...</p>
 <p><b>Requirements</b>: R100+</p>
-<p><b>Chance</b>: ((x ^ 2.5) / 5000), where x is amount of consecutive days logged in.</p>
+<p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
 <p><b>Note</b>: Restarting the game is required to increase the counter</p>
 <p><b>Effect</b>: Gives upgrade with the same name</p>
 <p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
@@ -722,7 +722,7 @@
 <p><b>New Formula</b>: (2.25 * x ^ 0.75), where x is Royal Exchange bonus.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"> Drow Set</p></b>
-<p><b>old Effect</b>: Increase Mana Regeneration based on Evil spells cast (this R). (additive)</p>
+<p><b>Old Effect</b>: Increase Mana Regeneration based on Evil spells cast (this R). (additive)</p>
 <p><b>Old Formula</b>: (50 * x ^ 0.5), where x is total evil spells cast (this R).</p>
 <p><b>New Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
 <p><b>New Formula</b>: (0.45 * x ^ 0.45), where x is total evil spells cast (this R).</p>
@@ -800,7 +800,7 @@
 <br/>
 <p><b></b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png"></p></b>
-<p>Upgraded From Royal Castle</p>
+<p>Upgraded From Orcish Arenas</p>
 <p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase the production of Flesh Workshops based on mana regen.</p>
 <p><b>Old Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
@@ -1012,7 +1012,7 @@
 <p><b>New Note</b>: Now works for Elite Bloodline when you're an elite faction.</p>
 <p><b>Note</b>: Does not work with two Bloodlines of the same type.</p>
 <br/>
-<p><b>A1500</b> - <b>For</b> For Druid,Dragon - <b>Research Name</b>: Sublimation</p>
+<p><b>A1500</b> - <b>For</b> Druid,Dragon - <b>Research Name</b>: Sublimation</p>
 <p><b>Old Effect</b>: Increase Max Mana based on the amount of Unique Buildings you own.</p>
 <p><b>Old Formula</b>: (8 * x ^ 0.8), where x is Unique Buildings owned.</p>
 <p><b>New Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</p>
