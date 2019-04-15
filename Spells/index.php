@@ -246,7 +246,7 @@
     <p><b>For Spells to work offline, you need</b></p>
     <p>Offline mana regen upgrades (such as included in the 'Automatic auto-casting' upgrade)</p>
     <p>Offline spell casting upgrades (such as included in the 'Priority Auto-casting' upgrade)</p>
-    <p>The bonuses are additional. The total bonus of all the offline auto-casting upgrades is 7 spell casts per minute and 90% of your online mana regeneration rate.</p>
+    <p>The bonuses are additive. The total bonus of all the offline auto-casting upgrades is 7 spell casts per minute and 90% of your online mana regeneration rate.</p>
     <hr>
     <p><b><center>All Alignment and Faction Spells</center></b></p>
     </br>
