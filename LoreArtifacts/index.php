@@ -324,8 +324,8 @@
     <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.</p>
     <p><b>Formula</b>: (ln(1 + x) ^ 1.35)).</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-    <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: (0.25 * ln(1 + x) ^ (2 + 0.25 * A)), where x is your assistants stat.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration based on the amount of assistants you own. (Additive)</p>
+    <p><b>Formula</b>: (1.75 * ln(1 + x) ^ (1.75 + 0.5 * A)), where x is amount of assistants you own.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>
     <p><b>Formula</b>: (ln(1+ x) ^ (3 + 3 * A)), where x is your total faction coins stat.</p>
@@ -377,7 +377,7 @@
     <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
     <p><b>Requirement</b>: R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-    <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 1500%.</p>
+    <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%.</p>
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
     <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
 <hr>

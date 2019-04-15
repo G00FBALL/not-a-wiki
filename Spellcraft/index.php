@@ -24,8 +24,8 @@
 <p><b>Requirement</b>: Have 4000 Mana. (This Game)</p>
 <p><b>Cost</b>: 95.88 Dqag (9.588E130)</p>
 <p><b>Effect</b>: Increase maximum mana and mana regeneration rate based on time spent in this game.</p>
-<p><b>Formula</b>: Max Mana:floor(45 * X)</p>
-<p><b>Formula</b>: Mana Regeneration:floor(75 * x^0.4) / 10, where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p>
 <br/>
 <p><b>S50</b> - <b>For</b> Goblin - <b>Research Name</b>: Conjuration</p>
 <p><b>Requirement</b>: Have 6000 mana (as Fairy) (This Game)</p>
@@ -143,8 +143,9 @@
 <p><b>S500</b> - <b>For</b> All Factions - <b>Research Name</b>: Heirlooms</p>
 <p><b>Requirement</b>: 40 Artifacts (as Drow)</p>
 <p><b>Cost</b>: 5.554 Spg (5,554E213)</p>
-<p><b>Effect</b>: increases maximum mana based on the amount of artifacts you own.</p>
-<p><b>Formula</b>: 100 * x ^ 1.1, where x is artifacts.</p>
+<p><b>Formula</b>
+<p><b>Maximum Mana</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.
+<p><b>Mana Regeneration</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.
 <br/>
 <p><b>S545</b> - <b>For</b> All Factions - <b>Research Name</b>: Hierarchy</p>
 <p><b>Requirement</b>: 10M (1E7) mana produced (This Game)</p>
@@ -179,7 +180,7 @@
 <p><b>S2875</b> - For</b> Mercenary - Research Name</b>: Scholarship</p>
 <p><b>Requirement</b>: 11000 Merc Unique Buildings.</p>
 <p><b>Cost</b>: 30.5 QaQig (3.05e166)</p>
-<p><b>Effect</b>: Increases the production of Non-Unique buildings by 35% per Unique building.</p>
+<p><b>Effect</b>: Increases the production of Non-Unique buildings by 3.5% per Unique building.</p>
 <br/>
 <p><b>S3200</b> - For</b> All Factions - Research Name</b>: Manipulation</p>
 <p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p>

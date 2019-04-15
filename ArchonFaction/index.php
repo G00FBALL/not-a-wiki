@@ -9,7 +9,7 @@
 <p><b>Alignment</b>: (Order)</p>
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.25 * log10(1 + x) ^ 1.75), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.3 * ln(1 + x) ^ 1.7), where x is mana produced in this game.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>

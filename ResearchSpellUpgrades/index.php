@@ -91,7 +91,8 @@
 <p><b>D245</b> - <b>For</b>: All Factions - <b>Research Name</b>: Soulrending
 <p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) &amp; Necromancy (S225)
 <p><b>Cost</b>: 6.94Qiqig (6.94E168)
-<p><b>Effect</b>: Reincarnations count twice for Spiritual Surge.
+<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.
+<p><b>Formula</b>: (2.5 * x ^ 0.55), where x is the amount of Non-Unique Buildings you own.
 <br/>
 <br/>
 <p><b>D275</b> - <b>For</b>: Druid - <b>Research Name</b>: Meditation
@@ -99,7 +100,7 @@
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)
 <p><b>Effect</b>: Increase mana regeneration based on your current mana.
 <p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.
-<p><b>Formula</b>: 0.5 * (100 - x)%, where x is percent of max mana.
+<p><b>Formula</b>: (0.35 * x ^0.35 + 0.035 * log(x) ^3.5), where x is max mana.
 <br/>
 <br/>
 <p><b>D330</b> - <b>For</b>: All Factions - <b>Research Name</b>: Eternity
@@ -125,7 +126,7 @@
 <p><b>Requirement</b>: 7 days playtime each with Titan, Druid and Faceless, Research A545, C1300
 <p><b>Cost</b>: 706.4 Qivg (7.064E80)
 <p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.
-<p><b>Formula</b>: 1.75 * x ^ 1.75, where x is artifacts found. (multiplicative)
+<p><b>Formula</b>: (1.65 * x ^ 1.65)%, where x is artifacts found. (multiplicative)
 <p><b>------------------------------</b>
 <p><b>Alchemy</b>
 <p><b>A25</b> - <b>For</b>: Demon - <b>Research Name</b>: Deflagration

@@ -126,7 +126,8 @@
 <p><b>Requirement</b>: Research Assimilation (S251) &amp; Transfusion (A375).</p>
 <p><b>Cost</b>: 13.66 QaSxg (1.366E196)</p>
 <p><b>Effect</b>: You get your faction's Bloodline effect for free. Bloodstream counts time spent with both factions.</p>
-<p><b>NOTE</b>: Does not work with two Bloodlines of the same type.</p>
+<p><b>Note</b>: Works for Elite Bloodline when you're an elite faction.
+<p><b>Note</b>: Does not work with two Bloodlines of the same type.</p>
 <br/>
 <p><b>A410</b> - <b>For</b> Drow - <b>Research Name</b>: Poisons</p>
 <p><b>Requirement</b>: 4000 Sanctuaries</p>
@@ -173,8 +174,9 @@
 <p><b>A1500</b> - <b>For</b> Druid,Dragon - <b>Research Name</b>: Sublimation</p>
 <p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon</p>
 <p><b>Cost</b>: 3.843 Spvg (3.843e84)</p>
-<p><b>Effect</b>: Increase Max Mana based on the amount of Unique Buildings you own.</p>
-<p><b>Formula</b>: (8 * x ^ 0.8), where x is Unique Buildings owned.</p>
+<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</p>
+<p><b>Effect</b>: Also increase Faction Coin find chance by a multiplicative 250%.</p>
+<p><b>Formula</b>: (40 * x * 0.8), where x is Unique Buildings owned.</p>
 <br/>
 <p><b>A2950</b> - <b>For</b> Mercenary - <b>Research Name</b>: Combination</p>
 <p><b>Requirement</b>: All Lineages Level at 15.</p>

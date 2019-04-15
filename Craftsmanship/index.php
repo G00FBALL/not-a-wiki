@@ -183,11 +183,11 @@
 <p><b>Requirement</b>: 9000 Excavations as Mercenary.</p>
 <p><b>Cost</b>: 850.7 SxQig (8.507e173)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.</p>
-<p><b>Formula</b>: 1.65 * x ^ 1.65, where X is artifacts</p>
+<p><b>Formula</b>: (1.5 * x ^ 1.5), where X is artifacts you own.</p>
 <br/>
 <p><b>C3100</b> - <b>For</b> All Factions - <b>Research Name</b>: Engineering</p>
 <p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).</p>
 <p><b>Cost</b>: 769.3 OcQig (7.693e179)</p>
 <p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).</p>
-<p><b>Formula</b>: (7.5 * log10(x + 1)) ^ 2.15, where x is clicks made</p>
+<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.</p>
 <?php include "../scripts/footer.html"; ?>

@@ -12,9 +12,9 @@
 <br/>
 <br/>
 <p><b>S2875</b> - <b>For</b>: Mercenary - <b>Research Name</b>: Scholarship
-<p><b>Requirement</b>: 11000 Merc Unique Buildings.  
+<p><b>Requirement</b>: 11000 Merc Unique Buildings.
 <p><b>Cost</b>: 7.26 Qiqag (7.26e168)
-<p><b>Effect</b></b>: Increases the production of Non-Unique buildings by 40% per Unique building.
+<p><b>Effect</b></b>: Increases the production of Non-Unique buildings by 3.5% per Unique building.
 <p><b>----------------------------------</b>
 <p><b>Craftsmanship</b>
 <p><b>C10</b> - <b>For</b>: Fairy - <b>Research Name</b>: Cultivation
@@ -100,4 +100,4 @@
 <p><b>W3050</b> - <b>For</b>: Mercenary - <b>Research Name</b>: Flanking
 <p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).
 <p><b>Cost</b>: 304.1 OcQig (2.146e179) <p><b>Effect</b>: Increases the production of buildings one tiers directly above or below a Unique Building based on the amount of assistants you own.
-<p><b>Formula</b>: 0.15 * x ^ 0.8, where X is assistants.
+<p><b>Formula</b>: (0.2 * x ^ 0.7), where x is assistants.

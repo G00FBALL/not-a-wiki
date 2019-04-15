@@ -315,7 +315,8 @@
                 <p><b>45th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
                 <p><b>50th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (x ^ 1.1)%.</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively</p>
+                <p><b>Formula</b>: (2.5 * x ^ 1.1), where x is number of Reincarnations made.</p>
                 <p><b>60th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
                 <p><b>70th Reincarnation and up</b></p>

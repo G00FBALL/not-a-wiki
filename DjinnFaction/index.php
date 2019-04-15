@@ -8,7 +8,7 @@
 <p><b>Requirement</b>: R125+, 12 faction upgrades (this includes faction treaty)</p>
 <p><b>Alignment</b>: (Chaos)</p>
 <p><b>Faction spell</b>: Limited Wish</p>
-<p><b>Effect</b>: Provide a random effect based on your base faction, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
+<p><b>Effect</b>: Provide a random effect based on your chosen alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b>
 <p><b>Fairy</b></p>
 <p><b>1</b>: Increase the production of all buildings</p>
@@ -26,7 +26,7 @@
 <p><b>3</b>: Increase Faction Coin find chance</p>
 <p><b>4</b>: Increase Maximum Mana</p>
 <br/>
-<p><b>Formula</b>: (1.725 * (ln(1 + x) ^ 1.25) * (y ^ 0.65)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
+<p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * (y ^ 0.45)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Crystal Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png" align="middle"> First Crystal Fragment</b></p>

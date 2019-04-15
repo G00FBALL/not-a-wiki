@@ -27,8 +27,8 @@
     <p><b>Formula</b>: (ln(1 + x) ^ 1.35)).</p>
       <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-    <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: (0.25 * ln(1 + x) ^ (2 + 0.25 * A)), where x is your assistants stat and A is Ascension count.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration based on the amount of assistants you own. (Additive)</p>
+    <p><b>Formula</b>: (1.75 * ln(1 + x) ^ (1.75 + 0.5 * A)), where x is amount of assistants you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>

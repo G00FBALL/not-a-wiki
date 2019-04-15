@@ -36,15 +36,15 @@
 <p><b>D175</b> - <b>For</b>:  Angel - <b>Research Name</b>: Resurrection
 <p><b>Requirement</b>: Research Blessing (D1) &amp; Refraction (A55)
 <p><b>Cost</b>: 3.273 Uqig (3.273E156)
-<p><b>Effect</b>: You gain additional assistants based on God's Hands activity time.
-<p><b>Formula</b>: floor(0.45 * (0.15 * x)^0.6), where x is God's Hands Cast Time Activity(This game).
+<p><b>Effect</b>: You gain additional assistants based on God's Hands activity time. (This R)
+<p><b>Formula</b>: floor(1.5 * x ^ 0.75), where x is God's Hands Cast Time Activity (This R).
 <br/>
 <br/>
 <p><b>D250</b> - <b>For</b>:  All Factions - <b>Research Name</b>: Demonology
 <p><b>Requirement</b>: Research Transcendence (D200) &amp; Pyromancy (S150)
 <p><b>Cost</b>: 52.7 Qiqig (5.27E169)
 <p><b>Effect</b>: Gain additional assistants based on the amount of Faction Coins found in this game.
-<p><b>Formula</b>: floor(ln^1.3(1 + x)), where x is your Faction Coins Gained (This Game) stat.
+<p><b>Formula</b>: floor(ln(1 + x) ^ 1.5), where x is your Faction Coins Gained (This Game) stat.
 <br/>
 <br/>
 <p><b>D320</b> - <b>For</b>:  All Factions - <b>Research Name</b>: Deliverance
@@ -72,7 +72,7 @@
 <p><b>Requirement</b>: 200 Drow Exchanges as Droblin, Research Automatons(C225) and Undercutting(E480)
 <p><b>Cost</b>: 39.16 QiSpg (3.916 E229)
 <p><b>Effect</b>: Gain additional assistants based on the amount of Evil buildings you own.
-<p><b>Formula</b>: floor(x/300)^1.05, where x is the number of Non Unique Buildings you own.
+<p><b>Formula</b>: (0.1 * x ^ 0.8), where x is the number of Non Unique Buildings you own.
 <br/>
 <br/>
 <p><b>E3300</b> - <b>For</b>:  Mercenary - <b>Research Name</b>: Hirelings
@@ -107,7 +107,7 @@
 <p><b>Requirement</b>: Research Assault (W1) &amp; Invasion (W150)
 <p><b>Cost</b>: 3.273 Uqig (3.273E156)
 <p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.
-<p><b>Formula</b>: floor(0.75 * x ^ 0.6), where x is the amount of evil spells cast.
+<p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast.
 <br/>
 <br/>
 <p><b>W200</b> - <b>For</b>:  All Factions - <b>Research Name</b>: Crusade

@@ -6,9 +6,9 @@
 <h6>Unique Building Research Upgrade Slots</h6>
 <p><b>Spellcraft</b>
 <p><b>S2875</b> - <b>For</b>: Mercenary - <b>Research Name</b>: Scholarship
-<p><b>Requirement</b>: 11000 Merc Unique Buildings.  
+<p><b>Requirement</b>: 11000 Merc Unique Buildings.
 <p><b>Cost</b>: 7.26 Qiqag (7.26e168)
-<p><b>Effect</b>: Increases the production of Non-Unique buildings by 35% per Unique building.
+<p><b>Effect</b>: Increases the production of Non-Unique buildings by 3.5% per Unique building.
 <p><b>----------------------------------</b>
 <p><b>Craftsmanship</b>
 <p><b>C460</b> - <b>For</b>: All Factions (Prestige Neutral) - <b>Research Name</b>: Distribution

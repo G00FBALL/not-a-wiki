@@ -9,7 +9,8 @@
 <p><b>Requirement</b>: Have 4000 Mana. (This Game)
 <p><b>Cost</b>: 95.88 Dqag (9.588E130)
 <p><b>Effect</b>: Increase maximum mana and mana regeneration rate based on time spent in this game.
-<p><b>Formula</b>: Max Mana:floor(45 * X),<p><b>Formula</b>: Mana Regeneration:floor(75 * x^0.4) / 10, where x is your Playtime (This Game) stat in hours.
+<p><b>Formula</b>: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in hours.
+<p><b>Formula</b>: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.
 <br/>
 <br/>
 <p><b>S105</b> - <b>For</b>: All Factions - <b>Research Name</b>: Mysticism
@@ -36,8 +37,10 @@
 <p><b>S500</b> - <b>For</b>: All Factions - <b>Research Name</b>: Heirlooms
 <p><b>Requirement</b>: 40 Artifacts (as Drow)
 <p><b>Cost</b>: 5.554 Spg (5,554E213)
-<p><b>Effect</b>: increases maximum mana based on the amount of artifacts you own.
-<p><b>Formula</b>: 100 * x ^ 1.1, where x is artifacts.
+<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.
+<p><b>Formula</b>
+<p><b>Maximum Mana</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.
+<p><b>Mana Regeneration</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.
 <br/>
 <br/>
 <p><b>S3200</b> - <b>For</b>: All Factions - <b>Research Name</b>: Manipulation
@@ -65,7 +68,7 @@
 <p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).
 <p>Cost: 329.6 NoQig (3.296e182)
 <p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).
-<p><b>Formula</b>: (7.5 * log10(x + 1))^2.15, where x is clicks made
+<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.
 <br/>
 <br/>
 <p><b>------------------------------</b>
@@ -82,14 +85,16 @@
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)
 <p><b>Effect</b>: Increase mana regeneration based on your current mana.
 <p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.
-<p><b>Formula</b>: 0.5 * (100 - x)%, where x is percent of max mana.
+<p><b>Formula</b>: (0.35 * x ^0.35 + 0.035 * log(x) ^3.5), where x is max mana.
 <br/>
 <br/>
 <p><b>D290</b> - <b>For</b>: All Factions - <b>Research Name</b>: Transubstantiation
 <p><b>Requirement</b>: 1 Rough Stone Artifact
 <p><b>Cost</b>: 582.7 SpQig (5.827E176)
-<p><b>Effect</b>: Each artifact you discover increases mana regeneration by 1.5 m/s
-<p><b>Formula</b>: floor(1.5 * x)), where x is the number of artifacts found.
+<p><b>Effect</b>: Each artifact you discover increases Maximum Mana additively and multiplicatively.
+<p>Formula</b>
+<p>Additively</b>: (50 * x ^1.1), where x is the number of artifacts found.
+<p>Multiplicatively</b>: (0.45 * x ^ 1.1), where x is the number of artifacts found.
 <br/>
 <br/>
 <p><b>D560</b> - <b>For</b>: Drow - <b>Research Name</b>: Ritualism
@@ -146,13 +151,6 @@
 <p>Cost: 601.6 Tvg (6.016E74)
 <p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.
 <p><b>Formula</b>:  floor(0.02 * X), where x is current excavations<p>Tip: E290 and end of R54.
-<br/>
-<br/>
-<p><b>A1500</b> - <b>For</b>: Druid,Dragon - <b>Research Name</b>: Sublimation
-<p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon
-<p>Cost: 25.2 Spvg (2.52e85)
-<p><b>Effect</b>: Increase Max Mana based on the amount of Unique Buildings you own.
-<p><b>Formula</b>: 8 * x ^0.8, where x is Unique Buildings owned.
 <p><b>------------------------------</b>
 <p><b>Warfare</b>
 <p><b>W135</b> - <b>For</b>: All Factions - <b>Research Name</b>: Rampage
@@ -173,5 +171,5 @@
 <p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon
 <p>Cost: 21.46 Qivg (2.146E79)
 <p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.
-<p><b>Formula</b>: floor 25 * log10(1+x) ^ 2.5, where x is clicks (this game).
+<p><b>Formula</b>: (650 * x ^ 0.35), where x is clicks (this game).
 <?php include "../scripts/footer.html"; ?>

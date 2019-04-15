@@ -75,8 +75,8 @@
 <p><b>E230</b> - <b>For</b> Demon - <b>Research Name</b>: Coercion</p>
 <p><b>Requirement</b>: Research Exertion (W50) &amp; Diplomacy (E30)</p>
 <p><b>Cost</b>: 2.087 Qaqig (2.087E165)</p>
-<p><b>Effect</b>: Increase the production of Infernal Realms based on total time spent being Evil.</p>
-<p><b>Formula</b>: round(0.2 * x ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat.</p>
+<p><b>Effect</b>: Increases trophy count based on time spent as Evil this R.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.65), where x is time spent as Evil this R.</p>
 <br/>
 <p><b>E250</b> - <b>For</b> All Factions - <b>Research Name</b>: Trade Routes</p>
 <p><b>Requirement</b>: Research Forgery (E225) &amp; Royal Demand (E145)</p>
@@ -153,12 +153,12 @@
 <p><b>Requirement</b>: 200 Drow Exchanges as Droblin, Research Automatons(C225) and Undercutting(E480)</p>
 <p><b>Cost</b>: 39.16 QiSpg (3.916 E229)</p>
 <p><b>Effect</b>: Gain additional assistants based on the amount of Non-Unique buildings you own.</p>
- <p><b>Formula</b>: (floor(x / 300) ^ 1.05), where x is the number of Non Unique Buildings you own.</p>
+ <p><b>Formula</b>: (0.1 * x ^ 0.8), where x is the number of Non Unique Buildings you own.</p>
 <br/>
 <p><b>E1225</b> - <b>For</b> Neutral,Dragon - <b>Research Name</b>: Hoarding</p>
 <p><b>Requirement</b>: 1T (1E12) Faction coins (Found this game)</p>
 <p><b>Cost</b>: 160.2 Uvg (1.602e68)</p>
-<p><b>Effect</b>: Removes 1 Ascension penalty for Royal Exchanges.</p>
+<p><b>Effect</b>: Remove 1 Ascension penalty from Royal Exchange bonus, but reduce their overall production by 90%.</p>
 <br/>
 <p><b>E1325</b> - <b>For</b> All Factions - <b>Research Name</b>: Intimidation</p>
 <p><b>Requirement</b>: 18000 Unique Buildings</p>
@@ -170,15 +170,16 @@
 <p><b>Requirement</b>: 7 days playtime each with Titan, Druid and Faceless, Research A545, C1300</p>
 <p><b>Cost</b>: 131 Qivg (1.31e80)</p>
 <p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</p>
-<p><b>Formula</b>: (1.75 * x ^ 1.75)%, where x is artifacts found. (multiplicative)</p>
+<p><b>Formula</b>: (1.65 * x ^ 1.65)%, where x is artifacts found. (multiplicative)</p>
 <br/>
-<p><b>E3250</b> - <b>For</b> Mercenary - <b>Research Name</b>: Estates</p>
-<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
-<p><b>Cost</b>: 661.6 USxg (6.616e188)</p>
-<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>
-<br/>
-<p><b>E3300</b> - <b>For</b> Mercenary - <b>Research Name</b>: Hirelings</p>
+<p><b>E3250</b> - <b>For</b> All - <b>Research Name</b>: Hirelings</p>
 <p><b>Requirement</b>: (Intimidation E1325) and (Scholarship S2875).</p>
+<p><b>Cost</b>: 661.6 USxg (6.616e188)</p>
+<p><b>Effect</b>: Gives assistants based on the amount of coins you own.</p>
+<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>
+<br/>
+<p><b>E3300</b> - <b>For</b> Mercenary - <b>Research Name</b>: Estates</p>
+<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
 <p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
-<p><b>Effect</b>: Gives assistants based on the amount of coins you own.<p><b>Formula</b>: 2 * log10(x + 1)</p>
+<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>
 <?php include "../scripts/footer.html"; ?>

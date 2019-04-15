@@ -231,7 +231,7 @@
 <p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of lineages.</p>
+<p><b>Formula</b>:  floor(x ^ 1.2)%, where x is total level of lineages.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> <b>Druids Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>

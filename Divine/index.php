@@ -53,8 +53,8 @@
 <p><b>D175</b> - <b>For</b> Angel - <b>Research Name</b>: Resurrection</p>
 <p><b>Requirement</b>: Research Blessing (D1) &amp; Refraction (A55)</p>
 <p><b>Cost</b>: 3.273 Uqig (3.273E156)</p>
-<p><b>Effect</b>: You gain additional assistants based on God's Hands activity time.</p>
-<p><b>Formula</b>: floor(0.45 * (0.15 * x) ^ 0.6), where x is God's Hands Cast Time Activity(This game).</p>
+<p><b>Effect</b>: You gain additional assistants based on God's Hands activity time. (This R)</p>
+<p><b>Formula</b>: floor(1.5 * x ^ 0.75), where x is God's Hands Cast Time Activity (This R).</p>
 <br/>
 <p><b>D200</b> - <b>For</b> All Factions - <b>Research Name</b>: Transcendence</p>
 <p><b>Requirement</b>: Research Resurrection (D175) &amp; Illumination (D135)</p>
@@ -75,13 +75,14 @@
 <p><b>D245</b> - <b>For</b> All Factions - <b>Research Name</b>: Soulrending</p>
 <p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) &amp; Necromancy (S225)</p>
 <p><b>Cost</b>: 6.94Qiqig (6.94E168)</p>
-<p><b>Effect</b>: Reincarnations count twice for Spiritual Surge.</p>
+<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.</p>
+<p><b>Formula</b>: (2.5 * x ^ 0.55), where x is the amount of Non-Unique Buildings you own.
 <br/>
 <p><b>D250</b> - <b>For</b> All Factions - <b>Research Name</b>: Demonology</p>
 <p><b>Requirement</b>: Research Transcendence (D200) &amp; Pyromancy (S150)</p>
 <p><b>Cost</b>: 52.7 Qiqig (5.27E169)</p>
 <p><b>Effect</b>: Gain additional assistants based on the amount of Faction Coins found in this game.</p>
-<p><b>Formula</b>: floor(ln^1.3(1 + x)), where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>Formula</b>: floor(ln(1 + x) ^ 1.5), where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b>D260</b> - <b>For</b> Faceless - <b>Research Name</b>: Mutation</p>
 <p><b>Requirement</b>: 3,000 Sunken Cities</p>
@@ -93,13 +94,15 @@
 <p><b>Cost</b>: 1.331 SpQig (1.331E174)</p>
 <p><b>Effect</b>: Increase mana regeneration based on your current mana.</p>
 <p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.</p>
-<p><b>Formula</b>: (0.5 * (100 - x))%, where x is percent of max mana.</p>
+<p><b>Formula</b>: (0.35 * x ^0.35 + 0.035 * log(x) ^3.5), where x is max mana.</p>
 <br/>
 <p><b>D290</b> - <b>For</b> All Factions - <b>Research Name</b>: Transubstantiation</p>
 <p><b>Requirement</b>: 1 Rough Stone Artifact</p>
 <p><b>Cost</b>: 582.7 SpQig (5.827E176)</p>
-<p><b>Effect</b>: Each artifact you discover increases mana regeneration by 1.5 m/s</p>
-<p>Formula</b>: floor(1.5 * x), where x is the number of artifacts found.</p>
+<p><b>Effect</b>: Each artifact you discover increases Maximum Mana additively and multiplicatively.</p>
+<p>Formula</b>
+<p>Additively</b>: (50 * x ^1.1), where x is the number of artifacts found.
+<p>Multiplicatively</b>: (0.45 * x ^ 1.1), where x is the number of artifacts found.
 <br/>
 <p><b>D320</b> - <b>For</b> All Factions - <b>Research Name</b>: Deliverance</p>
 <p><b>Requirement</b>: 350 m/s Mana Regen</p>
@@ -167,8 +170,7 @@
 <p><b>D1375</b> - <b>For</b> All Factions - <b>Research Name</b>: Sanctification</p>
 <p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)</p>
 <p><b>Cost</b>: 137.8 Qavg (1.378e77)</p>
-<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique buildings you own.</p>
-<p><b>Formula</b>: (2.5 * x ^ 0.55), where x is non-unique building owned.</p>
+<p><b>Effect</b>: Ascensions count 50% more for Spiritual Surge.</p>
 <br/>
 <p><b>D2775</b> - <b>For</b> Mercenary - <b>Research Name</b>: Intervention</p>
 <p><b>Requirement</b>: Secrets of the Warriors.</p>
@@ -179,6 +181,8 @@
 <p><b>D3350</b> - <b>For</b> All Factions - <b>Research Name</b>: Vampirism</p>
 <p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
 <p><b>Cost</b>: 598.3 TSxg (5.983e194)</p>
-<p><b>Effect</b>: Increases offline production based on the amount of Reincarnations you made.</p>
-<p><b>Formula</b>: (1.7 * x ^ 1.7)%, where x is your Reincarnation count.</p>
+<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
+<p><b>Formula</b>
+<p><b>Additive</b>: (3.25 * log10(1 + x) ^ 2.25), where x is your Offline Bonus.
+<p><b>Multiplicative</b>: (0.05 * log10(1 + x) ^ 2), where x is your Offline Bonus.
 <?php include "../scripts/footer.html"; ?>

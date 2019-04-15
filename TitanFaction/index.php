@@ -158,7 +158,7 @@
 <p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.75), where x is buildings owned.</p>
+<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is buildings owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitansUnion.png" alt="Titans Union" align="middle"> <b>Titans Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>

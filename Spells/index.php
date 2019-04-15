@@ -285,7 +285,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Spiritualsurge.png" alt="All Factions" align="middle"> Spiritual Surge</b> (All Factions)</p>
     <p><b>Works For</b>: All (R14+) - <b>Cost</b>: 2500 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of times you reincarnated and ascended.</p>
-    <p><b>Formula</b>: (10000*1.05^x)^(1+0.5*y)%, where x is the number of times you have reincarnated and y is how many times you ascended.</p>
+    <p><b>Formula</b>: (2500 * (R ^ 1.05)) ^ (1 + A * 0.5)%, where R is the number of times you have reincarnated and A is how many times you ascended.</p>
     <div id="SSCal" class="calculator">
         <table>
             <tr>
@@ -996,12 +996,12 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation"></p>
 <p><b>Cost</b>: 123456 mana</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (1.25 * log10(1 + x) ^ 1.75), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (1.3 * ln(1 + x) ^ 1.7), where x is mana produced in this game.</p>
 <br/>
                 <p><b>Proof of Chaos</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="All Creation" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="" align="middle"></p>
 <p><b>Cost</b>: 888888 mana</p>
-<p><b>Effect</b>: Provide a random effect based on your base faction, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
+<p><b>Effect</b>: Provide a random effect based on your chosen alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b>
 <p><b>Fairy</b></p>
 <p><b>1</b>: Increase the production of all buildings</p>
@@ -1019,10 +1019,10 @@
 <p><b>3</b>: Increase Faction Coin find chance</p>
 <p><b>4</b>: Increase Maximum Mana</p>
 <br/>
-<p><b>Formula</b>: (1.725 * (ln(1 + x) ^ 1.25) * (y ^ 0.65)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
+<p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * (y ^ 0.45)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 <br/>
 <p><b>Proof of Balance</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="All Creation" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"></p>
 <p><b>Cost</b>: 505000 mana</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
 <p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
@@ -1031,5 +1031,5 @@
 <p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (1.35 * x ^ (0.5 + 0.002 * (y + z))), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (0.025 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <?php include "../scripts/footer.html"; ?>

@@ -371,7 +371,7 @@
 <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.</p>
 <p><b>Cost</b>: 1 NoQig (1e180), A2+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.</p>
-<p><b>Formula</b>: 2.5 * x^1.25, where x is total amount of lineage levels you have.</p>
+<p><b>Formula</b>: (2.5 * x ^1.35), where x is total amount of lineage levels you have.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png align=middle><b> Holy Frenzy</b></p>
 <p><b>Requirements</b>: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.
@@ -384,7 +384,7 @@
 <p><b>Requirements</b>: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.</p>
 <p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
-<p><b>Formula</b>: 0.7 * min(x, y, z, s, t, u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
+<p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
 <p><b>Note</b>: Equality is needed for offline unlock.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
@@ -462,8 +462,8 @@ div#images div{
 <p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
 <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
 <br>
-<p><b>Evil Effect</b>: The amount increased is based on time spent in this game.</p>
-<p><b>Formula</b>: (4 * x ^ 0.44), where x is time spent this game.</p>
+<p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p>
+<p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
 <br>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
 <p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>

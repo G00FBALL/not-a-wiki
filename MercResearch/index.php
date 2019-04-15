@@ -19,7 +19,7 @@
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 1.5 * (1 + x), where X is number of Non-Unique Buildings.</p>
+<p><b>Formula</b>: (1.25 * (1 + x) ^ 1.05), where X is number of Non-Unique Buildings.</p>
 <p><b>Effect 3</b>: Unlocks Round Table</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b> (Spell Upgrade)</p>
@@ -47,7 +47,7 @@
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
 <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
-<p><b>Formula</b>: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus</p>
+<p><b>Formula</b>: (0.5 * log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="Tyrant Garrison" align="middle"> <b>Evil</b></p>
 <p><b>Requirement</b>: Tyrant Garrison</p>
@@ -73,7 +73,7 @@
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R)</p>
+<p><b>Formula</b>: (2 * x ^ 1), where x is assistants you had in a single game (This R)</p>
 <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b> (Spell Upgrade)</p>
@@ -100,7 +100,7 @@
 <p><b>S2875</b>: For Mercenary - Spell Name: Scholarship</p>
 <p><b>Requirement</b>: 11000 Merc Unique Buildings.</p>
 <p><b>Cost</b>: 7.26 Qiqag (7.26e168)</p>
-<p><b>Effect</b>: Increases the production of Non-Unique buildings by 0.4% per Unique building.</p>
+<p><b>Effect</b>: Increases the production of Non-Unique buildings by 3.5% per Unique building.</p>
 <br/>
 <p><b>S3200</b>: For All Factions - Spell Name: Manipulation</p>
 <p><b>Requirement</b>: 1B (1e9) Tax Collection cast, (Calefaction A1325) and (Psionics S1500).</p>
@@ -112,13 +112,13 @@
 <p><b>Requirement</b>: 9000 Excavations as Mercenary.</p>
 <p><b>Cost</b>: 280.7 SpQig (2.807e176)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.</p>
-<p><b>Formula</b>: 1.75 * x ^ 1.75, where X is artifacts.</p>
+<p><b>Formula</b>: (1.5 * x ^ 1.5), where X is artifacts you own.</p>
 <br/>
 <p><b>C3100</b>: For All Factions - Spell Name: Engineering</p>
 <p><b>Requirement</b>: 15 days Mercenary time spent (Total).</p>
 <p><b>Cost</b>: 329.6 NoQig (3.296e182)</p>
 <p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).</p>
-<p><b>Formula</b>: (7.5 * log10(x + 1))^2.15, where x is clicks made</p>
+<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.</p>
 <hr>
 <p><b>D2775</b>: For Mercenary - Spell Name: Intervention</p>
 <p><b>Requirement</b>: Secrets of the Warriors.</p>
@@ -129,20 +129,21 @@
 <p><b>D3350</b>: For All Factions - Spell Name: Vampirism</p>
 <p><b>Requirement</b>: 1QA% (1e15) offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
 <p><b>Cost</b>: 492.5 QaSxg (4.925e197)</p>
-<p><b>Effect</b>: Increases offline production based on the amount of Reincarnations you made.</p>
-<p><b>Formula</b>: 1.7 * x ^ 1.7</p>
+<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
+<p><b>Formula</b>
+<p><b>Additive</b>: (3.25 * log10(1 + x) ^ 2.25), where x is your Offline Bonus.
+<p><b>Multiplicative</b>: (0.05 * log10(1 + x) ^ 2), where x is your Offline Bonus.
 <hr>
-<p><b>E3250</b>: For Mercenary - Spell Name: Estates</p>
-<p><b>Requirement</b>: 50000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
-<p><b>Cost</b>: 419.4 DSxg (4,194e191)</p>
-<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>
-<p><b>Effect</b>: Also unlocks all researches involving these unique buildings.</p>
-<br/>
-<p><b>E3300</b>: For All Factions - Spell Name: Hirelings</p>
+<p><b>E3250</b> - <b>For</b> All - <b>Research Name</b>: Hirelings</p>
 <p><b>Requirement</b>: (Intimidation E1325) and (Scholarship S2875).</p>
-<p><b>Cost</b>: 454.5 TSxg (4.545e194)</p>
-<p><b>Effect</b>: Gives assistants based on the gold you have.</p>
-<p><b>Formula</b>: 2 * log10(x + 1) additive</p>
+<p><b>Cost</b>: 661.6 USxg (6.616e188)</p>
+<p><b>Effect</b>: Gives assistants based on the amount of coins you own.</p>
+<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>
+<br/>
+<p><b>E3300</b> - <b>For</b> Mercenary - <b>Research Name</b>: Estates</p>
+<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
+<p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
+<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>
 <hr>
 <p><b>A2950</b>: For Mercenary - Spell Name: Combination</p>
 <p><b>Requirement</b>: All Lineages Level at 15.</p>
@@ -161,7 +162,7 @@
 <p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).</p>
 <p><b>Cost</b>: 304.1 OcQig (2.146e179)</p>
 <p><b>Effect</b>: Increases the production of buildings one tiers directly above or below a Unique Building based on the amount of assistants you own.</p>
-<p><b>Formula</b>: 0.15 * x ^ 0.8, where X is assistants.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.7), where x is assistants.</p>
 <br/>
 <p><b>W3150</b>: For All Factions - Spell Name: Upheaval</p>
 <p><b>Requirement</b>: 60000 Enchanted Fields, Inns and Dwarven Forges.</p>

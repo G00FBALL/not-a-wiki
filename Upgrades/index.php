@@ -591,7 +591,7 @@
             <p><b>Cost</b>: 10 Dqag (1e129)</p>
             <p><b>Effect 1</b>: Allows access to Research Facilities</p>
             <p><b>Effect 2</b>: Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: 1.5 * (1 + x) where X is number of Non-Unique Buildings.</p>
+            <p><b>Formula</b>: (1.25 * (1 + x) ^ 1.05), where X is number of Non-Unique Buildings.</p>
             <p><b>Effect 3</b>: Unlocks Round Table</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/TyrantGarrison.png" alt="Tyrant Garrison" align="middle"> <b>Tyrant Garrison</b></p>
@@ -599,7 +599,7 @@
             <p><b>Cost</b>: 1 Tqag (1e129)</p>
             <p><b>Effect 1</b>: Allows access to Research Facilities</p>
             <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: 0.5*(log10(1+x))^4.5 where x is Offline Production Bonus.</p>
+            <p><b>Formula</b>: (0.5 * log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
             <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
@@ -607,7 +607,7 @@
             <p><b>Cost</b>: 1 Tqag (1e129)</p>
             <p><b>Effect 1</b>: Allows access to Research Facilities</p>
             <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: (2*x^0.95), where x is assistants you had in a single game (This R).</p>
+            <p><b>Formula</b>: (2 * x ^ 1), where x is assistants you had in a single game (This R)</p>
             <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
             <hr>
             <p><b>R100+</b>
@@ -640,7 +640,7 @@
             <p><b>Requirement</b>: Flesh Workshop Quest, Evil alignment, Proof of Order</p>
             <p><b>Effect</b>: Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on mana regen.</p>
-            <p><b>Formula</b>: (2 * x ^ 0.6), where x is mana regen per second.</p>
+            <p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> <b>Burning Abyss</b></p>
@@ -664,7 +664,7 @@
             <p><b>Requirement</b>: Mountain Palace Quest, Neutral alignment, Proof of Order</p>
             <p><b>Effect</b>: Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on buildings owned.</p>
-            <p><b>Formula</b>: (0.25 * x ^ 0.75), where x is buildings owned.</p>
+            <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is buildings owned.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> <b>Forbidden Library</b></p>
@@ -680,7 +680,7 @@
             <p><b>Requirement</b>: Ziggurat Quest, Neutral alignment, Proof of Balance</p>
             <p><b>Effect</b>: Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
-            <p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of lineages.</p>
+            <p><b>Formula</b>:  floor(x ^ 1.2)%, where x is total level of lineages.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <hr>
             <p><b>R116+</b>
@@ -688,7 +688,7 @@
             <p><b>Cost</b>: 100 Qivg (1e80)</p>
             <p><b>Requirement</b>: High Bastion Quest, Good alignment</p>
             <p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R</p>
+            <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks this Reincarnation.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/Brothel.png" align="middle"> <b>Brothel</b></p>
@@ -1252,8 +1252,8 @@
             <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.
             <p><b>Formula</b>: (ln(1 + x) ^ 1.35)), where x is amount of Gems you own.
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
-            <p><b>Effect</b>: multiplicative increase Faction Coin find chance based on the amount of assistants you own.
-            <p><b>Formula</b>: (0.25 * ln(1 + x) ^ (2 + 0.25 * A)), where x is your assistants stat.
+            <p><b>Effect</b>: Increase Mana Regeneration based on the amount of assistants you own. (Additive)</p>
+            <p><b>Formula</b>: (1.75 * ln(1 + x) ^ (1.75 + 0.5 * A)), where x is amount of assistants you own.</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.
             <p><b>Formula</b>: (ln(1+ x) ^ (3 + 3 * A)), where x is your total faction coins stat.
@@ -1297,7 +1297,7 @@
             <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
             <p><b>Requirement</b>: R100+
             <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.
-            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1000%.
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%.
             <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
@@ -2040,7 +2040,7 @@
             <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.</p>
             <p><b>Cost</b>: 1 NoQig (1e180)</p>
             <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.</p>
-            <p><b>Formula</b>: (2.5 * x ^ 1.25), where x is total amount of lineage levels you have.</p>
+            <p><b>Formula</b>: (2.5 * x ^1.35), where x is total amount of lineage levels you have.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
             <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
@@ -2054,7 +2054,7 @@
             <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
             <p><b>Requirement</b>: R100+</p>
             <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
-            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 1500%.</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%.</p>
             <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" align="middle"><b> Chocolate Flavor Juice</b></p>
@@ -2092,7 +2092,7 @@
             <p><b>Requirement</b>: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.</p>
             <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
             <p><b>Cost</b>: 100 Qid (1e50)</p>
-            <p><b>Formula</b>: 0.7 * min(x, y, z, s, t, u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
+            <p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
             <p><b>Note</b>: Equality is needed for offline unlock.</p>
             <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
@@ -2169,8 +2169,8 @@ div#images div{
 <p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
 <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
 <br/>
-<p><b>Evil Effect</b>: The amount increased is based on time spent in this game.</p>
-<p><b>Formula</b>: (4 * x ^ 0.44), where x is time spent this game.</p>
+<p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p>
+<p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
 <br/>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
 <p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
@@ -2578,7 +2578,7 @@ div#images div{
     <area target="" research="Upgrade 21: Weighted Heart<p>Requirement: R40+, 4000 Ancient Pyramids<p>Cost: 1.501Vg (1.501e63)<p>Increase Ancient Pyramids production by 50%." coords="2,112,51,161" shape="rect">
     <area target="" research="Upgrade 22: Sun Chariot<p>Requirement: R40+, 10000 Ancient Pyramids<p>Cost: 165.9 Qiqag(1.659e140)<p>Increase Ancient Pyramid by 50%" coords="54,110,105,160" shape="rect">
     <area target="" research="Upgrade 23: Glyph of Afterlife<p>Requirement: R100+, 18000 Ancient Pyramids<p>Cost: 180.2 Uqag (1.802e128)<p><p>Increase the production of Ancient Pyramids by 100%." coords="110,110,159,162" shape="rect">
-    <area target="" research="Unique Building <p>At R100, Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building. <p>Requirements: R100+, Neutral, Proof of Balance, Ziggurat Quest <p>Effect: Increase production based on based on total lineage levels. <p>Effect: Also grants access to Faction Union. <p>Formula: floor(x^1.1)%, where x is total number of lineage levels" coords="349,110,540,163" shape="rect">
+    <area target="" research="Unique Building <p>At R100, Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building. <p>Requirements: R100+, Neutral, Proof of Balance, Ziggurat Quest <p>Effect: Increase production based on based on total lineage levels. <p>Effect: Also grants access to Faction Union. <p>Formula:  floor(x ^ 1.2)%, where x is total level of lineages." coords="349,110,540,163" shape="rect">
 </map>
 <p><b>Warrior Barracks Upgrades (Alignment: Good)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/wbgroup1.png" usemap="#wbgroup1-map">

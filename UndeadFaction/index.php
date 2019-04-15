@@ -129,7 +129,7 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
+<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>

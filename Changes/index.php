@@ -913,7 +913,7 @@
 <p><b>C3000</b> - <b>For</b> Mercenary - <b>Research Name</b>: Customizing</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.</p>
 <p><b>Old Formula</b>: (1.65 * x ^ 1.65), where X is artifacts you own.</p>
-<p><b>New Formula</b>: (1.5 * x ^ 1.5), where X is artifactsyou own.</p>
+<p><b>New Formula</b>: (1.5 * x ^ 1.5), where X is artifacts you own.</p>
 <br/>
 <p><b>C3100</b> - <b>For</b> All Factions - <b>Research Name</b>: Engineering</p>
 <p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).</p>
@@ -2904,7 +2904,7 @@ div#images div{
             <p><img src="http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png" align="middle"><b> Uniformity</b></p>
             <p><b>Requirement</b>: A2+, With no less than 3 days of playtime, have less than 1 minute of playtime difference for Order, Chaos and Balance alignments.</p>
             <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
-            <p><b>Formula</b>: 0.7 * min(x, y, z, s, t, u) ^ 0.7, where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
+            <p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
             <p><b>Cost</b>: 100 Qid (1e50)</p>
     <hr>
 <p><a target="" href="http://musicfamily.org/realm/Artifacts/"><b>Artifacts Page</b></a></p>

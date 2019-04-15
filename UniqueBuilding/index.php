@@ -35,7 +35,7 @@
 <p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on Faction Coin find chance.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: floor(20 * (log10(1 + x)) ^ 2)), where x is FC chance.</p>
+<p><b>Formula</b>: floor(20 * (ln(1 + x)) ^ 2), where x is FC chance</p>
 <p><b>Alignment</b>: Good, Proof of Balance</p>
 <p><b>Requirement</b>: A2, Arboreal City Quest (1e23 Elf Faction Coins found)</p>
 <hr>
@@ -83,7 +83,7 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (2 * x ^ 0.6), where x is mana regen per second.</p>
+<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
 <p><b>Alignment</b>: Evil, Proof of Order</p>
 <p><b>Requirement</b>: A2, Flesh Workshop Quest (85M% offline production bonus)</p>
 <hr>
@@ -114,7 +114,7 @@
 <p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.75), where x is building owned.</p>
+<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is buildings owned.</p>
 <p><b>Alignment</b>: Neutral, Proof of Order</p>
 <p><b>Requirement</b>: A2, Mountain Palace Quest (3750 royal exchanges)</p>
 <hr>
@@ -130,7 +130,7 @@
 <p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on total lineage levels.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of lineages</p>
+<p><b>Formula</b>:  floor(x ^ 1.2)%, where x is total level of lineages.</p>
 <p><b>Alignment</b>: Neutral, Proof of Balance</p>
 <p><b>Requirement</b>: A2, Ziggurat Quest (12K Stonehenges)</p>
 <hr>
@@ -162,7 +162,7 @@
 <p>Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: production based on clicks made in this reincarnation.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R.</p>
+<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks this Reincarnation.</p>
 <p><b>Alignment</b>: Good-Dwarf, and Proof of Order, Balance, or Chaos</p>
 <p><b>Requirement</b>: R116+, High Bastion Quest (5 free excav resets this R)</p>
 <hr>

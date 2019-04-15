@@ -54,7 +54,7 @@
 <p><b>Requirement</b>: Research Assault (W1) &amp; Invasion (W150)</p>
 <p><b>Cost</b>: 3.273 Uqig (3.273E156)</p>
  <p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.</p>
- <p><b>Formula</b>: floor(0.75 * x ^ 0.75), where x is the amount of evil spells cast.</p>
+ <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast.</p>
 <br/>
 <p><b>W180</b> - <b>For</b> All Factions - <b>Research Name</b>: Formation</p>
 <p><b>Requirement</b>: 1000 Call to Arms (Total this R), Research Dueling (W10) &amp; Exertion (W50)</p>
@@ -173,13 +173,13 @@
 <p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon</p>
 <p><b>Cost</b>: 4.249 Qivg (4.249e78)</p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.</p>
-<p><b>Formula</b>: floor(25 * log10(1 + x) ^ 2.5), where x is clicks (this game).</p>
+<p><b>Formula</b>: (650 * x ^ 0.35), where x is clicks (this game).</p>
 <br/>
 <p><b>W3050</b> - <b>For</b> Mercenary - <b>Research Name</b>: Flanking</p>
 <p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).</p>
 <p><b>Cost</b>: 809 SpQig (8.09e176)</p>
 <p><b>Effect</b>: Increases the production of buildings one tiers directly above or below a Unique Building based on the amount of assistants you own.</p>
-<p><b>Formula</b>: (0.15 * x ^ 0.8), where x is assistants.</p>
+<p><b>Formula</b>: (0.2 * x ^ 0.7), where x is assistants.</p>
 <br/>
 <p><b>W3150</b> - <b>For</b> All Factions - <b>Research Name</b>: Upheaval</p>
 <p><b>Requirement</b>: 60000 Farms, Inns and Blacksmiths.</p>

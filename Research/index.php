@@ -328,7 +328,7 @@
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 1.5 * (1 + x), where X is number of Non-Unique Buildings.</p>
+<p><b>Formula</b>: (1.25 * (1 + x) ^ 1.05), where X is number of Non-Unique Buildings.</p>
 <p><b>Effect 3</b>: Unlocks Round Table</p>
 <br/>
 <p><b>Evil Alignment</b></p>
@@ -337,7 +337,7 @@
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 0.5 * log10(1+x) ^ 4.5, where x is Offline Production Bonus</p>
+<p><b>Formula</b>: (0.5 * log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
 <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
 <br/>
 <p><b>Neutral Alignment</b></p>
@@ -346,6 +346,6 @@
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
 <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 2.5 * x ^ 2.5, where x is assistants you had in a single game (This R)</p>
+<p><b>Formula</b>: (2 * x ^ 1), where x is assistants you had in a single game (This R)</p>
 <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
 <?php include "../scripts/footer.html"; ?>

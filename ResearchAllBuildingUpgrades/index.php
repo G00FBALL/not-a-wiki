@@ -75,7 +75,7 @@
 <p><b>Requirement</b>: 9000 Excavations as Mercenary.</p>
 <p><b>Cost</b>: 280.7 SpQig (2.807e176)</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.</p>
-<p><b>Formula</b>: 1.65 * x ^ 1.65, where X is artifacts</p>
+<p><b>Formula</b>: (1.5 * x ^ 1.5), where X is artifacts you own.</p>
 <hr>
 <p><b>Divine</b></p>
 <p><b>D25</b> - <b>For</b>: Undead - <b>Research Name</b>: Cursing</p>
