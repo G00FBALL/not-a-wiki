@@ -624,7 +624,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk2.png" align="middle"> Djinn Perk 2</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
     <p><b>Effect</b>: Unlocks Djinn Lineage Challenge.</p>
-    <p><b>Challenge</b>: Have at least 1B (1e10) assistants within 45 seconds of a new run.</p>
+    <p><b>Challenge</b>: Have at least 1B (1e9) assistants within 45 seconds of a new run.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Limited Wish).</p>
     <br/>
     <p><b>Level 20</b></p>
