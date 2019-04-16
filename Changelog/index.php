@@ -5,6 +5,140 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.5, April 15, 2019</a></b></p>
+      <div class="autohide">
+<p>Global Reminder: The Easter Event will be starting on Apr 18th 2019, 12.01 PM UTC and will end on Apr 25th 2019, 6.59 PM UTC.</p>
+<p>MAD UNIQUE BUILDINGS. Each of the new MAD Factions now has its own Unique Building, unlockable from Reincarnation 130.</p>
+<p>MAD BLOODLINES. Three new Bloodlines to select, themed for the new factions.</p>
+<p>MAD LINEAGES. Available when you get their respective Bloodline and reach 400 of each Royal Exchange.</p>
+<p>LEVEL 50 LINEAGE PERKS. Perk 5s for all Lineages, available from Reincarnation 130 and Lineage Level 50.</p>
+<p>NEW ARTIFACTS and their relative upgrades.</p>
+<p>NEW SECRET TROPHIES and their relative upgrades, including MAD spell upgrades.</p>
+<p>Precognition base and scaling increased.</p>
+<p>Arcane Core base decreased, scaling increased.</p>
+<p>MAD Trade Treaties costs reduced.</p>
+<p>Elven Diplomacy reworked: now increase click count based on Faction Coins found in this game.</p>
+<p>Elven Lineage effect changed to additive, resulting in a much lower click count.</p>
+<p>Goblin Lineage reworked: now increases Tax Collection worth in seconds.</p>
+<p>Demon Lineage reworked: now increases Non-Unique buildings production, ignoring Ascension Penalties.</p>
+<p>Dwarven Lineage reworked: now increases all buildings base production based on their tier. Bonus is multiplied by the Lineage level.</p>
+<p>Drow Lineage changed to standard exponential (base and scaling reduced).</p>
+<p>Old Goblin Perk 4 merged into Goblin Perk 1 and turned into a multiplicative bonus.</p>
+<p>New Goblin Perk 4 now makes Goblin's Greed stop producing Faction Coins instantly. Instead, increase your Faction Coin find chance based on the Gems required for your next Reincarnation.</p>
+<p>Avarice Drive reworked: now makes Goblin's Greed use Faction Coins found in this Reincarnation.</p>
+<p>Fairy Perk 4 effect decreased.</p>
+<p>Elven Perk 3 effect increased.</p>
+<p>Elven Perk 4 effect increased.</p>
+<p>Druid Perk 1 base increased.</p>
+<p>Druid Perk 3 merged into Grand Balance effect.</p>
+<p>Drow Perk 3 reworked to provide Faction Coin find chance.</p>
+<p>Undead Perk 4 changed to provide an independent offline bonus based on Night Time activity time.</p>
+<p>Dwarven Perk 3 reworked: Excavations and artifacts count 1% more for every 1500 Unique Buildings.</p>
+<p>Fairy Challenge 1 now provides 2 assistants per Fairy upgrade.</p>
+<p>Dragon Challenge 3 time req reduced to 8 days total and 2 each.</p>
+<p>Advanced Elven Heritage base increased.</p>
+<p>Advanced Titan Heritage base increased, scaling decreased.</p>
+<p>Advanced Undead Heritage base increased.</p>
+<p>Camouflage also increases click count.</p>
+<p>Sylvan Treasure Frills bonus reduced.</p>
+<p>Elven Discipline now gives assistants instead of mana regen.</p>
+<p>Wooden Dice was incorrectly replacing Elven Luck bonus instead of multiplying it. Now it does, and it also casts automatic Tax Collections when Elven Luck triggers.</p>
+<p>Angelic Fortitude base and scaling increased.</p>
+<p>Spellcraft 30 (Vacuumancy) both base and scalings increased.</p>
+<p>Divine 175 (Resurrection) now counts time in this Reincarnation. Base and scaling increased.</p>
+<p>Divine 250 (Demonology) scaling increased.</p>
+<p>Economics 230 (Coercion) reworked: now makes Trophies count more based on time spent being Evil.</p>
+<p>Alchemy 400 (Bloodspring) now gives Elite Bloodlines as intended.</p>
+<p>Economics 3250 (Estates) now costs 3300 Economics points.</p>
+<p>Economics 3300 (Hirelings) now costs 3250 Economics points. No longer locked to Mercenaries.</p>
+<p>Economics 590 (Slavery) base increased, scaling decreased.</p>
+<p>Spellcraft 2875 (Scholarship) base decreased.</p>
+<p>Warfare 3050 (Flanking) base increased, scaling decreased.</p>
+<p>Craftsmanship 3000 (Customizing) base and scaling decreased.</p>
+<p>Economics 1425 (Rarity) base and scaling decreased.</p>
+<p>Hellfire Burst reworked: now makes Hellfire Blast add part of Evil spells cast in this Reincarnation to fuel its bonus.</p>
+<p>Archangel Feathers base increased.</p>
+<p>Seraphim Feathers renamed to Seraphim Wings: base increased, now also increases Faction Coin find chance and assistants.</p>
+<p>Fairy Set base and scaling reduced.</p>
+<p>Archon Pride is now based on Lineage level.</p>
+<p>Lunar Cycle reworked: now increase Maximum Mana additively based on time spent online in this game. Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
+<p>Strange Attraction base increased.</p>
+<p>Eternal Servitude is now based on time spent in this Reincarnation. Now also affects Flesh Workshops.</p>
+<p>Djinn Union base reduced.</p>
+<p>Drow Set base and scaling increased.</p>
+<p>Dwarven base and scaling increased.</p>
+<p>High Bastion scaling increased.</p>
+<p>Reincarnation 50 power, base increased.</p>
+<p>Elven Set base increased.</p>
+<p>Goblin Set reworked to increase general Faction Coin find chance additively and multiplicatively.</p>
+<p>Stone Servants renamed to Stonecarving.</p>
+<p>Holy Crusaders now increases its bonuses with Ascensions.</p>
+<p>Share Benefits now adds Tax Collections casts based on its duration and current tier cast.</p>
+<p>Mercenary Camp scaling increased.</p>
+<p>Tyrant Garrison base and scaling decreased.</p>
+<p>Freemason's Hall scaling increased.</p>
+<p>Uniformity effect and scaling increased.</p>
+<p>Ziggurat scaling increased.</p>
+<p>Mountain Palace base increased.</p>
+<p>Genealogist scaling increased.</p>
+<p>Underworld Tyranny base increased.</p>
+<p>Mana Addicts effect increased.</p>
+<p>Blood Sacrifices base increased.</p>
+<p>Spider Gods base increased.</p>
+<p>Professional Assassins base decreased, scaling increased.</p>
+<p>Demonic Fury base and scaling increased.</p>
+<p>Druid Lineage base effect reworked: now each Lineage level counts as 2 additional Reincarnations.</p>
+<p>Sun Force: Faction Coin find chance changed to additive mana regen.</p>
+<p>Excavated Mirage bonus increased.</p>
+<p>Angel Set is now based on the highest amount of spells cast in a single game.</p>
+<p>Faceless Set reworked: now increases assistants based on the highest amount of assistants you had in a previous game.</p>
+<p>Dwarven Set base decreased.</p>
+<p>Arboreal City scaling changed to ln(x).</p>
+<p>Undead Union scaling changed to ln(x).</p>
+<p>Heaven's Brilliance all effects increased.</p>
+<p>Goblin Union base and scaling increased.</p>
+<p>Fairy Union scaling increased.</p>
+<p>Faceless Union base and scaling increased.</p>
+<p>Elven Union now also adds 10 clicks per second, in addition to its previous effect.</p>
+<p>Druid Union Lineage count scaling increased.</p>
+<p>Angel Union mana produced scaling increased.</p>
+<p>Dwarven Ale base decreased.</p>
+<p>Mining Prodigies base decreased.</p>
+<p>Magic Resistance scaling decreased.</p>
+<p>Solidity base and scaling increased.</p>
+<p>Evil Art of the Crow is now based on production bonus from Gems.</p>
+<p>Drow Set now increases the production of all buildings based on Evil spells cast in this Reincarnation.</p>
+<p>Titan Set now increases Royal Exchange bonus additively and multiplicatively based on time spent in this game.</p>
+<p>Hand of the Makers changed to exponential (decreased base, increased scaling).</p>
+<p>Cosmic Resonance changed to exponential (decreased base, increased scaling).</p>
+<p>Reality Marble changed to exponential (decreased base, increased scaling).</p>
+<p>Moon Blessing changed to exponential (decreased base, increased scaling).</p>
+<p>Secret Clicking Techniques changed to exponential (decreased base, increased scaling).</p>
+<p>Sharp Claws changed to exponential (decreased base, increased scaling).</p>
+<p>Advanced Elven Heritage changed to exponential (decreased base, increased scaling).</p>
+<p>Warfare 1400 (Cataclysm) changed to exponential (increased scaling).</p>
+<p>Craftsmanship 3100 (Engineering) changed to exponential (decreased base, increased scaling).</p>
+<p>Divine 3350 (Vampirism) reworked: now increase assistants additively and multiplicatively based on your Offline Bonus.</p>
+<p>Divine 290 (Transubstantiation) changed to provide Max Mana.</p>
+<p>Divine 275 (Meditation) primary effect reworked to provide mana regen based on max mana. Formula is similar to Druid Bloodline.</p>
+<p>Spellcraft 500 (Heirlooms) now also increases mana regen.</p>
+<p>Alchemy 1500 (Sublimation) reworked to provide Faction Coin find chance instead of Maximum Mana.</p>
+<p>Warfare 175 (Overwhelm) base and scaling increased.</p>
+<p>Economics 1225 (Hoarding) changed to reduce production by 90% (one less order of magnitude) when active, in addition to its previous effect.</p>
+<p>Divine 245 (Soulrending) now has D1375 (Sanctification) effect. New D1375 makes Ascensions count 50% more for Spiritual Surge.</p>
+<p>High Bastion formula changed to exponential (decreased base, increased scaling).</p>
+<p>Djinn Perk 1 effect increased.</p>
+<p>Advanced Dwarven Heritage, Infinite Spiral, Stonecarving: resets contribution moved from exponent to base.</p>
+<p>Evil Art of the Crow base and scaling increased.</p>
+<p>Bloodlines no longer require 100 upgrades to unlock.</p>
+<p>Spiritual Surge formula changed. Now it provides an higher bonus early on, but scales worse at later stages.</p>
+<p>Faceless unlock requirements now count total time, making them easier to get in the early stages.</p>
+<p>Changed automatic click handler: now all automatic clicks perform only once per second, but they increase click stat and reward as if they clicked X times (depending on the effect). This should greatly reduce lag and screen littering.</p>
+<p>Offline gains now take place before loading spells. Spells no longer cancel when you reload the game.</p>
+<p>Challenge tooltips now clarify all requirements.</p>
+</div>
+  </div>
+  <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.4, Feb 4, 2019</a></b></p>
       <div class="autohide">
 <p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 11th 2019, 1.01 PM UTC and will end on Feb 15th 2019, 7.59 PM UTC.</p>
@@ -53,7 +187,8 @@
 <p>Aura of Magic effect and scaling decreased.</p>
 <p>Wishing Well effect and scaling decreased.</p>
 <p>Everlasting Materials position switched with Magical Shards.</p>
-<p>Masks costs reduced.","Abyssal Furnace effect increased.</p>
+<p>Masks costs reduced.
+<p>Abyssal Furnace effect increased.</p>
 <p>Devastation made logarithmic, resulting in increased effect and reduced scaling.</p>
 <p>Demonic Fury reworked to provide Faction Coin find chance.</p>
 <p>Elite factions heritage costs reduced.
