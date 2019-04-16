@@ -487,4 +487,13 @@
 <p><b>Requirements</b>: R120+, Proof of Balance</p>
 <p><b>Chance</b>: (ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
 <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
+<p><b>Hint</b>: Planets aligning seem to affect your realm in different ways...</p>
+<p><b>Requirements</b>: R100+</p>
+<p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
+<p><b>Note</b>: Restarting the game is required to increase the counter</p>
+<p><b>Effect</b>: Gives upgrade with the same name</p>
+<p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
+<p><b>Upgrade Cost</b>: 100 Qi (1e20)</p>
     <?php include "../scripts/footer.html"; ?>
