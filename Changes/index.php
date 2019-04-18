@@ -85,7 +85,7 @@
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionUpgrade.png" align="middle"> Pavilion Upgrade</p></b>
-<p>Upgrade Orcish Arena/Stone PIllars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirements</b>: Pavilion Quest.</p>
 <p><b>Cost</b>: (1 QiQig (1e168)</p>
