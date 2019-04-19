@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated June 20th 2018</b>
+    <p><b>Updated Apr 19th 2019 (E3250 updated to E3300, no other build updates for updated effects)</b>
     <p>All builds comes from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
@@ -165,17 +165,17 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>A2950</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S270,S305,S330,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A175,A1200,A1500,A2950,W180,W260,W275,W400,W3050,W3150" id="Build">
+                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S270,S305,S330,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3300,A105,A120,A175,A1200,A1500,A2950,W180,W260,W275,W400,W3050,W3150" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> R82+
+                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3300,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> R82+
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S270,S305,S330,S1450,S1500,C340,C400,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3250,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> C1500 is higher
+                  <input type="text" value="EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S270,S305,S330,S1450,S1500,C340,C400,C590,C1300,C1500,C3000,D25,D245,D590,D1275,D1375,D2775,E135,E260,E350,E1225,E1425,E3300,A105,A120,A1200,A1500,A2950,A3400,W180,W260,W275,W400,W3050,W3150" id="Build"> C1500 is higher
                 <p>EL3,EL7,AN5,TT3,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Dragon's Breath,
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C340,C400,C590,C1300,C3000,
                 <p>D25,D245,D590,D1275,D1375,D2775,
-                <p>E135,E260,E350,E1225,E1425,E3250,
+                <p>E135,E260,E350,E1225,E1425,E3300,
                 <p>A105,A120,A175,A1200,A1500,A2950,
                 <p>W180,W260,W275,W400,W3050,W3150
                 <p><b>Notes</b>: R82+ Replace A175 with A3400 and S270 with S3200.
@@ -192,13 +192,13 @@
                 <p><b>A2950</b>: Dragon
                 <p><b>13th Upgrade</b>: DM4
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S50,S215,S305,S330,S1450,S1500,C340,C400,C590,C1300,C1500,C3000,D25,D55,D245,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3250,A10,A120,A410,A1500,A2950,A3400,W180,W275,W400,W525,W3050,W3150" id="Build">
+                  <input type="text" value="EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Dragon's Breath,S50,S215,S305,S330,S1450,S1500,C340,C400,C590,C1300,C1500,C3000,D25,D55,D245,D1275,D1375,D2775,E10,E135,E145,E350,E1225,E3300,A10,A120,A410,A1500,A2950,A3400,W180,W275,W400,W525,W3050,W3150" id="Build">
                 <p>EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Dragon's Breath,
                 <p>S50,S215,S305,S330,S1450,S1500,
                 <p>C340,C400,C590,C1300,C1500,C3000,
                 <p>D25,D55,D245,D1275,D1375,D2775,
-                <p>E10,E135,E145,E350,E1225,E3250,
+                <p>E10,E135,E145,E350,E1225,E3300,
                 <p>A10,A120,A410,A1500,A2950,A3400,
                 <p>W180,W275,W400,W525,W3050,W3150
             </div>
@@ -348,13 +348,13 @@
                     <p><b>13th Upgrade</b>: DM4
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Night Time,S50,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1275,D1375,D2775,E10,E135,E145,E1225,E1325,E3250,A10,A120,A410,A545,A1500,A2950,W180,W275,W400,W525,W3050,W3150" id="Build">
+                      <input type="text" value="EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Night Time,S50,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1275,D1375,D2775,E10,E135,E145,E1225,E1325,E3300,A10,A120,A410,A545,A1500,A2950,W180,W275,W400,W525,W3050,W3150" id="Build">
                     <p>EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,
                     <p>SP:God's Hand,SP:Night Time,
                     <p>S50,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D245,D1275,D1375,D2775,
-                    <p>E10,E135,E145,E1225,E1325,E3250,
+                    <p>E10,E135,E145,E1225,E1325,E3300,
                     <p>A10,A120,A410,A545,A1500,A2950,
                     <p>W180,W275,W400,W525,W3050,W3150
         </div>
@@ -371,13 +371,13 @@
                     <p><b>A2950</b>: Elf
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C250,C400,C590,C1300,C3000,C3100,D25,D200,D245,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1375,W1400,W3050,W3150" id="Build">
+                      <input type="text" value="EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S400,S1450,S1500,S3200,C250,C400,C590,C1300,C3000,C3100,D25,D200,D245,D1275,D1375,D2775,E135,E260,E320,E1225,E1425,E3300,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1375,W1400,W3050,W3150" id="Build">
                     <p>EL1,EL7,AN5,GB7,TT6,DD4,FC7,DN2,DW2,DG3,DG6,DG7,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S400,S1450,S1500,S3200,
                     <p>C250,C400,C590,C1300,C3000,C3100,
                     <p>D25,D200,D245,D1275,D1375,D2775,
-                    <p>E135,E260,E320,E1225,E1425,E3250,
+                    <p>E135,E260,E320,E1225,E1425,E3300,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W275,W400,W1375,W1400,W3050,W3150
         </div>
@@ -391,13 +391,13 @@
                     <p><b>A2950</b>: Druid
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG4,DG7,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
+                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG4,DG7,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3300,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL3,EL7,AN5,GB7,TT3,TT6,DD4,FC7,DN2,DG4,DG7,
                     <p>SP:Dragon's Breath,SP:God's Hand,
                     <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D250,D350,D1275,D2775,
-                    <p>E135,E145,E320,E590,E1425,E3250,
+                    <p>E135,E145,E320,E590,E1425,E3300,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
         </div>
@@ -411,13 +411,13 @@
                     <p><b>A2950</b>: Druid
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
+                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3300,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
                     <p>SP:Fairy Chanting,SP:God's Hand,
                     <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D250,D350,D1275,D2775,
-                    <p>E135,E145,E320,E590,E1425,E3250,
+                    <p>E135,E145,E320,E590,E1425,E3300,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
         </div>
@@ -431,13 +431,13 @@
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
+                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3300,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D250,D350,D1275,D2775,
-                    <p>E135,E145,E320,E590,E1425,E3250,
+                    <p>E135,E145,E320,E590,E1425,E3300,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
         </div>
@@ -451,13 +451,13 @@
                     <p><b>A2950</b>: Dragon
                     <p><b>Range</b>: (?)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3250,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
+                      <input type="text" value="EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Fairy Chanting,S215,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D250,D350,D1275,D2775,E135,E145,E320,E590,E1425,E3300,A120,A305,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W3050,W3150" id="Build">
                     <p>EL1,EL3,EL7,AN5,GB7,TT6,DD3,DD4,FC7,DN2,DG4,DG9,
                     <p>SP:Dragon's Breath,SP:Fairy Chanting,
                     <p>S215,S305,S330,S400,S1450,S1500,
                     <p>C250,C340,C400,C590,C1300,C3000,
                     <p>D25,D200,D250,D350,D1275,D2775,
-                    <p>E135,E145,E320,E590,E1425,E3250,
+                    <p>E135,E145,E320,E590,E1425,E3300,
                     <p>A120,A305,A1200,A1500,A2950,A3400,
                     <p>W180,W275,W400,W1375,W3050,W3150
             </div>
