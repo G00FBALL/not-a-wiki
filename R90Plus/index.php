@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated Jan 12th 2019</b>
+    <p><b>Updated Apr 19th 2019 (E3250 updated to E3300, no other build updates for updated effects)</b>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982027-row"><b>megathread</b></a>  forum page</p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
