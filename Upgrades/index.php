@@ -1855,7 +1855,8 @@
             <p><b>Requirements</b>: Have the changelog interface open for 3 minutes. (Click the version number in the Save tab).
             <p><b>Cost</b>: 1000
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase production by hotfix.patch%, where hotfix and patch are the 4th and 3rd elements of the game's version number.
+            <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
+            <p><b>Formula</b>: (10 * a) + b + (0.1 * d) * (0.01 * c)%, where a, b, c and d are the respective game version numbers (a.b.c.d). Not A-nerfed.</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/Rule'disSecretUpgrade.png" alt="Rule 'dis" align="middle"> Rule 'dis</b></p>
             <p><b>Requirements</b>: Abdicate 10 times within 3 minutes. (Click abdicate ten times in a row)

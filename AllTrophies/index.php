@@ -309,7 +309,7 @@
 <p><b>Cost Post A</b>: Free</p>
 <p><b>Note</b>: Click the Option tab and click the numbers in the bottom right corner and leave it open for 3 minutes.</p>
 <p><b>Effect</b>: Increase the production of all buildings base on mysterious events.</p>
-<p><b>Formula</b>: (10 * b) + a + (0.1 * d) * (0.01 * c)%, where a, b, c and d are the respective game version numbers (a.b.c.d). Not A-nerfed.</p>
+<p><b>Formula</b>: (10 * a) + b + (0.1 * d) * (0.01 * c)%, where a, b, c and d are the respective game version numbers (a.b.c.d). Not A-nerfed.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/Rule'disSecretTrophy.png align=middle><b> Rule 'dis</b></p>
 <p><b>Requirement</b>:  Abdicate 10 times within 3 minutes.</p>
