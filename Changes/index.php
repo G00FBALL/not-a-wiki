@@ -523,9 +523,9 @@
 <p><b>Drow</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny (DW1)</p></b>
 <p><b>Old Effect</b>: Increase the production of all buildings based on your total time spent being Evil.</p>
-<p><b>Old Formula</b>: ((15 * x) ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
+<p><b>Old Formula</b>: (15 * floor(x / 3600) ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in seconds.</p>
 <p><b>New Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
-<p><b>New Formula</b>: (x ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
+<p><b>New Formula</b>: (x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" align="middle"> Mana Addicts (DW4)</p></b>
 <p><b>Effect</b>: Mana regeneration increases over time.</p>

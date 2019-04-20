@@ -45,7 +45,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" alt="Smiley face" align="middle"> Underworld Tyranny</b></p>
 <p><b>Cost</b>: 5 Qad (5E45)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
-<p><b>Formula</b>: (x ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in hours.</p>
+<p><b>Formula</b>: (x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
