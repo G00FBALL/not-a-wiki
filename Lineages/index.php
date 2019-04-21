@@ -49,7 +49,7 @@
             </div>
         </div>
     </div>
-    <p>You can get Lineage for each Faction (12 in Total)</p>
+    <p>You can get Lineage for each Faction (12 in Total, 15 in R125+)</p>
     <p>You get 3 perks and a Faction Coin boost plus Champion trophy after reaching level 20.</p>
     <p><b>level 5</b>: Perk 1</p>
     <p><b>level 10</b>: Specific FC boost</p>
