@@ -435,7 +435,6 @@
     <p><b>Level 30</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk4.png" align="middle"><b> Faceless Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: Brainwave headstart time is increased by 1000%.</p>
     <p><b>Effect</b>: Remove 1 Ascension penalty from Brainwave on Unique Buildings.</p>
     <br/>
     <p><b>Level 50</b></p>
