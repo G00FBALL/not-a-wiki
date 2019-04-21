@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated March 28th 2018</b>
-    <p>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.<p>
+    <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">

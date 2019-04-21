@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated Feb 21st, 2019</b>
-    <p>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.<p>
+      <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982033-row"><b>megathread</b></a>  forum page</p>
 <br/>
 <div class="shlisting">

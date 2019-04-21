@@ -5,6 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6><br/> <br/>
+    <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
     <p><b>All builds have been updated as of Nov, 24th 2017.</b></p><br/>
     <p><b>Note</b>: Factions order is Elves→Dwelves(no researches)→Moonshine→Dwelves→Dwairies→Dwangels</p>
     <div class="shlisting">

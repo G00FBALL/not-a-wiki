@@ -6,7 +6,7 @@
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <p><b>Builds Updated Oct. 12 2017</b>
-    <p>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.<p>
+      <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.
     <p>All of the builds up to R24 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
     <p>Vanilla Flavor Juice is mandatory.
