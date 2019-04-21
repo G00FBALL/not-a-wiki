@@ -8,7 +8,8 @@
 <br/>
 <br/>
     <p><b>Updated Jan 12th 2019</b></p>
-        <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982029-row"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
+    <p>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.<p>
+    <p>All builds come from the <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982029-row"><b>megathread</b></a> forum page. Where you can also find the new <b>Artifact Set</b> builds</p>
     <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <div class="shlisting">
