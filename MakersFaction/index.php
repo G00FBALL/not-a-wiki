@@ -16,6 +16,12 @@
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
 <p><b>Formula</b>: (0.025 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<br/>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
+<p><b>Requirements</b>: R130+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
+<p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
+<p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
+<p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Stone Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>

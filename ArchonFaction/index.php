@@ -10,6 +10,12 @@
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
 <p><b>Formula</b>: (1.3 * ln(1 + x) ^ 1.7), where x is mana produced in this game.</p>
+<br/>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
+<p><b>Requirement</b>: R130+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+<p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
+<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
@@ -121,7 +127,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
 <p><b>Requirements</b>: R130, Unique Building</p>
-<p><b>Cost</b>: 1 Td (1e42) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Qad (1e45) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>
 <p><b>Effect</b>: Unlocks Archon Upgrades</p>
