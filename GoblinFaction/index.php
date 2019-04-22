@@ -17,9 +17,10 @@
 <p><b>FC Formula</b>: floor(ln^3(1 + x) + 20, where x is your current gems.</p>
 <p><b>Production Formula</b>: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.</p>
 <p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" alt="Smiley face" align="middle"> Greed Drive</b></p>
-<p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
 <p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell.</p>
 <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
+<p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
+<p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsTradeTreaty.png" alt="Smiley face" align="middle"> Goblin Trade Treaty</b></p>

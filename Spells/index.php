@@ -998,6 +998,12 @@
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
 <p><b>Formula</b>: (1.3 * ln(1 + x) ^ 1.7), where x is mana produced in this game.</p>
 <br/>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
+<p><b>Requirement</b>: R130+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+<p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
+<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
+<br/>
                 <p><b>Proof of Chaos</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="" align="middle"></p>
 <p><b>Cost</b>: 888888 mana</p>
@@ -1018,8 +1024,12 @@
 <p><b>2</b>: All spells durations count more</p>
 <p><b>3</b>: Increase Faction Coin find chance</p>
 <p><b>4</b>: Increase Maximum Mana</p>
-<br/>
 <p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * (y ^ 0.45)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
+<br/>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
+<p><b>Requirement</b>: R130+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
+<p><b>Effect</b>: Adds 150 casts to Limited wish formula.</p>
+<p><b>Cost</b>: 10 Octg (1e118)</p>
 <br/>
 <p><b>Proof of Balance</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"></p>
@@ -1032,4 +1042,10 @@
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
 <p><b>Formula</b>: (0.025 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<br/>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
+<p><b>Requirements</b>: R130+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
+<p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
+<p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
+<p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <?php include "../scripts/footer.html"; ?>

@@ -15,8 +15,9 @@
 <p><b>Faction spell</b>: Fairy Chanting</p>
 <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by x500 for 10 seconds.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/FairyChoirFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Fairy Choir</b></p>
-<p><b>Effect</b>: Triples your assistants while Fairy Chanting is active.
 <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
+<p><b>Effect</b>: Triples your assistants while Fairy Chanting is active.
+<p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy" align="middle"> Fairy Trade Treaty</b></p>

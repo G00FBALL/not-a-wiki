@@ -15,9 +15,10 @@
 <p><b>Faction spell</b>: God's Hand</p>
 <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate for 20 seconds.</p>
 <p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/God'sRestFactionUpgrade.png" align="middle"> God's Rest</b></p>
+<p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
 <p><b>Effect</b>: Gives random Faction Coins based on your Faction Coin find chance for each other spell you cast while God's Hand is active.</p>
 <p><b>Formula</b>: (floor(x^1.1), where x is FC chance.</p>
-<p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
+<p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelsTradeTreaty.png" align="middle"> Angel Trade Treaty</b></p>

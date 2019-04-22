@@ -131,21 +131,21 @@
 <p><b>Alignement: Order</b></p>
 <p>Increase your ability to boost your production immensely over long periods of time.</p>
 <p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 Dc (1e33) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Angel and Undead Coins</p>
 <hr>
 <p><b><a href="/realm/DjinnFaction">Djinn</a></b></p>
 <p><a href="/realm/DjinnFaction"><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png"></a></p>
 <p><b>Alignement: Chaos</b></p>
 <p>Granting you the ability to manipulate random outcomes to your advantage.</p>
 <p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 Dc (1e33) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
 <hr>
 <p><b><a href="/realm/MakersFaction">Makers</a></b></p>
 <p><a href="/realm/MakersFaction"><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png"></a></p>
 <p><b>Alignement: Balance</b></p>
 <p>Increase your ability to dominate all your resources.</p>
 <p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 Dc (1e33) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Elven and Goblin Coins</p>
 <hr>
 <p><b>Faction Spell & Upgrades</b></p>
 <br/>

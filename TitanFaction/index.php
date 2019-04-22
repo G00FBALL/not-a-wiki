@@ -16,8 +16,9 @@
 <p><b>Formula</b>: round(1.5 * ln(1 + x) ^ 3), where x is your current gems.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Lightning Storm</b></p>
-<p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.</p>
 <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
+<p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.</p>
+<p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientStoneSlab1FactionUpgrade.png" alt="Ancient Stone Slab 1" align="middle"><b> Ancient Stone Slab 1</b></p>

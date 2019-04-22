@@ -16,8 +16,9 @@
 <p><b>Effect</b>: Increases the production of Evil Fortresses and Hell Portals.</p>
 <p><b>Formula</b>: (200 * x ^ 0.8), where x is your Trophies Unlocked stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Hell Rush</b></p>
-<p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
 <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
+<p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
+<p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsTradeTreaty.png" alt="Smiley face" align="middle"> Demon Trade Treaty</b></p>

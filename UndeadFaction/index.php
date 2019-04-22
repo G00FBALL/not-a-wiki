@@ -14,9 +14,10 @@
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Night Time</p>
 <p><b>Effect</b>: The production of assistants is increased by 30% per Necropolis you own for 20 seconds.</p>
-<p><b>Spell Trophy &amp; Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png" alt="Smiley face" align="middle"> <b>True Night</b>
-<p><b>Effect</b>: Increases Night Time's production of assistants to 40% per Necropolis.</p>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png" alt="Smiley face" align="middle"> <b>True Night</b>
 <p><b>Requirements</b>: Cast Night Time between 11 pm and 6 am.</p>
+<p><b>Effect</b>: Increases Night Time's production of assistants to 40% per Necropolis.</p>
+<p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadTradeTreaty.png" alt="Smiley face" align="middle"> Undead Trade Treaty</b></p>

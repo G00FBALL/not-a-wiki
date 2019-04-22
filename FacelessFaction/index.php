@@ -13,8 +13,9 @@
 <p><b>Faction spell</b>: Brainwave</p>
 <p><b>Effect</b>: Increase production of all buildings by a cumulative 2% for 10 minutes.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Faceless Overmind</b>
-<p><b>Effect</b>: Increases Brainwave ticks to 3% per second.</p>
 <p><b>Requirement</b>: Affiliate with the Faceless 5 times in a row.</p>
+<p><b>Effect</b>: Increases Brainwave ticks to 3% per second.</p>
+<p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b></p>
 <p><b>36 hours this game</b></p>

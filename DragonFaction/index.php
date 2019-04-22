@@ -11,10 +11,6 @@
 <p>The Dragon faction cannot be combined with Good or Evil Factions.</p>
 <p><b>Alignment</b>: Prestige (Neutral)</p>
 <p><b>Faction spell</b>: Dragon's Breath</p>
-<p><b>Spell Trophy &amp; Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b></p>
-<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
-<p><b>Formula</b>: floor(135 * x^0.98), where x is all Rs activity time in seconds.</p>
-<p><b>Dragon's Breath</b></p>
 <p><b>Effect</b>: Activates one of the following effects at random.</p>
 <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
 <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2)), where x is Faction Coins found in this game.</p>
@@ -30,6 +26,12 @@
 <br/>
 <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
 <p><b><font color="black">Formula</b></font>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
+<br/>
+<p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b></p>
+<p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
+<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
+<p><b>Formula</b>: floor(135 * x^0.98), where x is all Rs activity time in seconds.</p>
+<p><b>Upgrade Cost</b>: 10 Dd (1e40), A2+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
