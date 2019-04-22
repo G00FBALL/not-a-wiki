@@ -6,7 +6,7 @@
     <h6>Lineages</h6>
     <p><b>Requirement</b>: R60+</p>
     <p>At R60 you will unlock Lineages, powerful upgrades to your chosen Bloodline that will even allow you to use the spell of other Factions, provided you complete their challenges.</p>
-    <p>Your Lineage can't match your Faction.</p>
+    <p><b>Note</b></b>: You can not use Lineage if it matches your faction/alignment.
     <p>Your Lineage is dependant on the Bloodline you chose.</p>
     <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication)</p>
     <p><b>Note</b>: Levels only need to be bought once.</p>

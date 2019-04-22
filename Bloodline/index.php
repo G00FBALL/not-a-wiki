@@ -8,7 +8,6 @@
 <p>This upgrade appears at the 7th reincarnation and require 100 Faction Upgrades purchased. (any 1 faction)</p>
 <p>This upgrade enables to choose a Faction Bloodline, giving a kind of cross-faction perk that resets at abdications.</p>
 <p><b>Cost</b>: Free</p>
-<p><b>Note</b></b>: You can not use Bloodline if it matches your faction/alignment.
 <p><b>Trophy & Upgrade</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png" alt="Bloodstream" align="middle"><b> Bloodstream</b></p>
 <p>Bloodstream Secret Trophy requires 100 each of the first 11 Factions Upgrades to be purchased(accross all Rs), which in turn grants the Bloodstream upgrade.</p>
