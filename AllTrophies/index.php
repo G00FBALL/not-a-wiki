@@ -1765,18 +1765,18 @@ div#images div{
 <p><b>Note</b>: Dragon Spell</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-<p><b>Requirements</b>: R130+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+<p><b>Requirements</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
 <p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
-<p><b>Requirements</b>: R130+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
+<p><b>Requirements</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: Also adds 150 casts to Limited wish formula.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
-<p><b>Requirements</b>: R130+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
+<p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
 <p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>

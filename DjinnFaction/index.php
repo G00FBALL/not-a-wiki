@@ -28,7 +28,7 @@
 <p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * (y ^ 0.45)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
-<p><b>Requirement</b>: R130+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
+<p><b>Requirement</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
 <p><b>Effect</b>: Adds 150 casts to Limited wish formula.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <hr>

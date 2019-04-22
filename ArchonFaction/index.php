@@ -12,7 +12,7 @@
 <p><b>Formula</b>: (1.3 * ln(1 + x) ^ 1.7), where x is mana produced in this game.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-<p><b>Requirement</b>: R130+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+<p><b>Requirement</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
 <p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
 <p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
