@@ -43,7 +43,8 @@
 <hr>
 <p><b>1 new Artifact</p></b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
-<p><b>Hint</b>: Planets aligning seem to affect your realm in different ways...</p>
+<p><b>Clue</b>: Try every day for better luck! Missing a day is the same as breaking a mirror, you know.</p>
+<p><b>Description</b>: Planets aligning seem to affect your realm in different ways...</p>
 <p><b>Requirements</b>: R100+</p>
 <p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
 <p><b>Note</b>: Restarting the game is required to increase the counter</p>
