@@ -141,7 +141,7 @@
 <p><b>Effect</b>: Gives Pavillion Unique Building.</p>
 <br/>
 <p><b>Unique Building</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/PavillionUniqueBuilding.png"></p></b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></p></b>
 <p>Upgraded from Orcish Arena/Stone Pillars/Knights Jousts</p>
 <p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>

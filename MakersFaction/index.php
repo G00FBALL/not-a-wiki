@@ -131,7 +131,7 @@
 <p><b>Requirements</b>: Hall of Origination Quest.</p>
 <p><b>Effect</b>: Gives Hall of Origination Unique Building.</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOrigination.png"></b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HallofOrigination.png"></b></p>
 <p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
 <p><b>Requirement</b>: Hall of Origination Quest.</p>

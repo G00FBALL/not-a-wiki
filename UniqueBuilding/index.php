@@ -218,21 +218,21 @@
 <p><b>Requirement</b>: Mercenary, R75, 125K total buildings</p>
 <hr>
 <p><b>Archon</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusUniqueBuilding.png"></b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png"></b></p>
 <p>Upgraded Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses</p>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
 <p><b>Requirement</b>: Nexus Quest.</p>
 <hr>
 <p><b>Djinn</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/PavillionUniqueBuilding.png"></b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></b></p>
 <p>Upgraded from Orcish Arena/Stone Pillars/Knights Jousts</p>
 <p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirement</b>: Pavilion Quest.</p>
 <hr>
 <p><b>Makers</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOrigination.png"></b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/HallofOrigination.png"></b></p>
 <p>Upgraded from Halls of Legends</p>
 <p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
