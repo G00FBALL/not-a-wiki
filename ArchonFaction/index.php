@@ -124,7 +124,7 @@
 <p><b>Effect</b>: Gives Nexus Unique Building.</p>
 <br/>
 <p><b>Unique Building</b></p>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusUniqueBuilding.png"></b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png"></b></p>
 <p>Upgraded Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses</p>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
