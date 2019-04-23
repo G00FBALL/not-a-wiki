@@ -167,10 +167,11 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks this Reincarnation.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven coins</p>
-<p><b>Effect</b>: Unlock Union Upgrades.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>: Increase all building production based on time spent this Reincarnation.</p>

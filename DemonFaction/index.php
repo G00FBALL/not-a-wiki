@@ -126,6 +126,7 @@
 <p><b>Effect</b>: Increase production based on spent time as Evil.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is evil time this R.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonsUnion.png" alt="Demons Union" align="middle"> <b>Demons Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Demon Coins</p>

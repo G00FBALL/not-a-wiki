@@ -164,10 +164,11 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
 <p><b>Formula</b>: (10 * x ^ 1.05), where x is royal exchanges this game</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
 <p><b>Cost</b>: 1e24 Drow coins</p>
-<p><b>Effect</b>: Unlocks Union Upgrades</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>: Increase offline bonus based on max mana.</p>

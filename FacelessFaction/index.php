@@ -167,8 +167,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
 <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on spells cast.</p>
-<p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>

@@ -188,10 +188,11 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
 <p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.63 * x ^ 0.63), where x is your max mana.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
 <p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>
-<p><b>Effect</b>: Unlock Union Upgrades.</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order this R.</p>

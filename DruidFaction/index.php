@@ -233,6 +233,7 @@
 <p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>:  floor(x ^ 1.2)%, where x is total level of lineages.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> <b>Druids Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
@@ -261,5 +262,4 @@
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
 <p><b>Formula</b>: (0.8 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
-
 <?php include "../scripts/footer.html"; ?>

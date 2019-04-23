@@ -118,19 +118,25 @@
 <p><b>Requirements</b>: R130+, Buy 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs.</p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusUpgrade.png" align="middle"> Nexus Upgrade</p></b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusUpgrade.png" align="middle"> Unique Building Upgrade</p></b>
+<p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Requirements</b>: Nexus Quest.</p>
+<p><b>Effect</b>: Gives Nexus Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/admincontrols/Factions/picks/NexusUniqueBuilding.png"></b></p>
+<p>Upgraded Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses</p>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
-<p><b>Requirements</b>: Nexus Quest.</p>
-<p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Requirement</b>: Nexus Quest.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
-<p><b>Requirements</b>: R130, Unique Building</p>
+<p><b>Requirements</b>: R130, Nexus Unique Building</p>
 <p><b>Cost</b>: 1 Qad (1e45) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>
-<p><b>Effect</b>: Unlocks Archon Upgrades</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
 <p><b>Requirements</b>: Archon Union</p>

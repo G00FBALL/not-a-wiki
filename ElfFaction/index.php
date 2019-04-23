@@ -130,8 +130,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></p>
 <p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on Faction Coin find chance.</p>
-<p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(20 * (ln(1 + x)) ^ 2), where x is FC chance</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenUnion.png" alt="Elven Union" align="middle"> <b>Elven Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven Coins</p>

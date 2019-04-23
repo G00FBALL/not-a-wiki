@@ -132,8 +132,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
 <p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on assistants.</p>
-<p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: floor(0.25 * x ^ 0.75)%, where x is amount of assistants.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinsUnion.png" alt="Goblins Union" align="middle"> <b>Goblins Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>

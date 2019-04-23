@@ -129,8 +129,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></p>
 <p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on time spent as good.</p>
-<p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (0.08 * x ^ 0.8)%, where x is time in second as good in this R.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelsUnion.png" alt="Angels Union" align="middle"> <b>Angels Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel Coins</p>

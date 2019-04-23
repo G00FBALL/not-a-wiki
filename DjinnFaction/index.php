@@ -135,11 +135,17 @@
 <p><b>Requirements</b>: R130+, 5 days of chaos spells this game</p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionUpgrade.png" align="middle"> Pavilion Upgrade</p></b>
-<p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (10 * x ^ 0.5), where x is spells cast this R.</p>
-<p><b>Requirements</b>: Pavilion Quest.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionUpgrade.png" align="middle"> Unique Building Upgrade</p></b>
 <p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Requirements</b>: Pavilion Quest.</p>
+<p><b>Effect</b>: Gives Pavillion Unique Building.</p>
+<br/>
+<p><b>Unique Building</b></p>
+<p><img src="http://musicfamily.org/admincontrols/Factions/picks/PavillionUniqueBuilding.png"></p></b>
+<p>Upgraded from Orcish Arena/Stone Pillars/Knights Jousts</p>
+<p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
+<p><b>Requirement</b>: Pavilion Quest.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnUnion.png" align="middle"> Djinn Union</b></p>
@@ -147,7 +153,7 @@
 <p><b>Cost</b>: 1 Qad (1e45) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Formula</b>: x1.1 multiplier to exponent of maelstrom formulas.</p>
-<p><b>Effect</b>: Unlocks Djinn Upgrades</p>
+<p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
 <p><b>Requirements</b>: Djinn Union</p>

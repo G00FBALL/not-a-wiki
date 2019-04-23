@@ -127,18 +127,22 @@
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOriginationUpgrade.png" align="middle"> Hall of Origination Upgrade</p></b>
+<p><b>Cost</b>: (1 QiQig (1e168)</p>
+<p><b>Requirements</b>: Hall of Origination Quest.</p>
+<p><b>Effect</b>: Gives Hall of Origination Unique Building.</p>
+<br/>
+<p><img src="http://musicfamily.org/admincontrols/Factions/picks/HallofOrigination.png"></b></p>
 <p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
-<p><b>Requirements</b>: Hall of Origination Quest.</p>
-<p><b>Cost</b>: (1 QiQig (1e168)</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Requirement</b>: Hall of Origination Quest.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130, Unique Building</p>
 <p><b>Cost</b>: 1 Qad (1e45) Elven and Goblin Coins</p>
 <p><b>Effect</b>: All Creation production effect is based on the highest mana regeneration rate in this Reincarnation.</p>
 <p><b>Note</b>: Does not effect FC chance
-<p><b>Effect</b>: Unlocks Makers Upgrades</p>
+  <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity</b></p>
 <p><b>Requirements</b>: Makers Union</p>

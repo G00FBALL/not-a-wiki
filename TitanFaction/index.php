@@ -158,8 +158,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></p>
 <p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on buildings owned.</p>
-<p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is buildings owned.</p>
+<p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TitansUnion.png" alt="Titans Union" align="middle"> <b>Titans Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
@@ -168,7 +168,6 @@
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in this game.</p>
 <p><b>Formula</b>: 50 * (x / 3600) ^ 0.85), where x is time spent in this game.(per hours).</p>
 <p><b>Effect</b>: Also increase Maximum Mana based on time spent in this game.</p>
-
 <p><b>Formula</b>: (20 * x ^ 0.75), where x is time spent in this game.(in seconds)</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
