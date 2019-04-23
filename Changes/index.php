@@ -2771,7 +2771,7 @@ div#images div{
 <p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (ln(1 + x) ^ 2), where x is clicks this R</p>
 <br/>
-<p><b>Drarf Unique Building</b></p>
+<p><b>Dwarf Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
