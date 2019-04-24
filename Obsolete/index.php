@@ -13,7 +13,83 @@
     <div class="shlisting">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Merc Pre Research</a></b></p>
         <div class="category autohide">
-       <div class="shelementwhole">
+            <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brutal Diamond Smithing Machine R7+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Elven
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,SP:Diamond Pickaxe,SP:Fairy Chanting" id="Build">
+                <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
+                <p>SP:Diamond Pickaxe,SP:Fairy Chanting
+                <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
+                <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs, but is weaker than Diamond Forge.
+                <p><b>Author</b>: pseudobyte
+            </div>
+        </div>
+          <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Farms R7-R16+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>2 builds</b>: Depending on gem count, look below.
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Elf
+                  <hr>
+                <p>1 Dc (1e33) to 100 Qid (1e50)
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,SP:Grand Balance,SP:Fairy Chanting" id="Build">
+                <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
+                <p>SP:Grand Balance,SP:Fairy Chanting
+                <p>100 Qid (1e50)+, Assistant Legion upgrade
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,SP:Fairy Chanting,SP:Grand Balance" id="Build">
+                  <hr>
+                <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
+                <p>SP:Fairy Chanting,SP:Grand Balance
+                <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold.
+                <p><b>Range</b>: 1 Dc (1e33) to ?
+                <p><b>Important</b>: Do not buy the last farm upgrade.
+                <p><b>Note</b>: Buy all Royal Exchanges after each cast.
+                <p><b>Note</b>: Stronger than Diamond Forge, but disallows use of buy all as you have to make sure the weakest building is farms so Grand Balance targets it.
+                <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat.
+                <p><b>Note</b>: This build requires you to max Excavations.
+                <p><b>Author</b>: going2killu
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thunder Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: pseudobyte
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,SP:Lightning Strike,SP:Fairy Chanting" id="Build">
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,
+                <p>SP:Lightning Strike,SP:Fairy Chanting
+                <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.
+                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
+                <p>This build is useful for idle periods where otherwise you would gain little gems, like overnight or while waiting for production sunforce. It require build up by autocasting Tax Collection until you have at least 6000 max mana in order to cast a max combo, at which point you are able to use this build like you would use Lightning Forge.
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Neutral
+                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,SP:Moon Blessing,SP:Fairy Chanting" id="Build">
+                <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,
+                <p>SP:Moon Blessing,SP:Fairy Chanting
+                <p><b>Note</b>: For R3 to R9, requires "some excavations".</p>
+                <p><b>Note</b>: For R18+, requires "Star Blessing" Tier3 Elven challenge.</p>
+                <p><b>Requires</b>: 2 full casting to get full effect then abdicate or cast again</p>
+                <p><b>Note</b>: Cast TC only after casting Fairy Chanting for the second time</p>
+                <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
+                <p>Fairy Chanting on gold everything else on silver no Tax Collection.
+                <p>Clicking manually will not bring any benefits (when using Elven Luck).
+                <p>Elven Luck is originally an Elven Faction Upgrade. But in this build, Elven Luck comes from the Star Blessing challenge which adds 5% chance to trigger Elven luck to Moon Blessing's clicks.
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Very Bad Build R12-R13<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
               <p><b>Author</b>: scwizard
