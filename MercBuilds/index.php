@@ -98,7 +98,7 @@
                         </div>
                 </div>
                 <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst R3+<font color="DarkRed"> Evil</font></a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst (R3+ Unlimited Mana, R7+ Mana Waste)<font color="DarkRed"> Evil</font></a></b></p>
                         <div class="autohide">
                           <p><b>Alignment</b>: Evil Mercenary</p>
                           <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
@@ -107,7 +107,8 @@
                           <p><b>Template</b></p>
                           <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
                           <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
-                          <p>This build is only for getting the (Unlimited Mana) Trophy.</p>               
+                          <p>This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
+                          <p>If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.      
                           <p>by <b>artcrow</b></p>
                         </div>
                 </div>
