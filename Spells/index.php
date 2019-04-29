@@ -1048,4 +1048,14 @@
 <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
 <p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnBloodline.png" align="middle"> Djinn</p></b>
+<p><b>Requirements</b>: R130+</p>
+<p><b>Effect</b>: Gain a new spell that costs 500,000 mana and lasts 1 minute as a fixed duration. Each time you cast it, it activates a vanilla or primary alignment spell at tier 7.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png"></p></b>
+<p><b>Notes</b>
+<p><b>1</b>. Spell comes with tier bonus.
+<p><b>2</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
+<p><b>3</b>. Cannot cast a spell that is already active
+<p><b>4</b>. The Spell Pool is 8 for Neutral factions (No Gem Grinder), 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <?php include "../scripts/footer.html"; ?>
