@@ -194,7 +194,7 @@
 <p><b>Effect Post A</b>: Increases production of all buildings based on the amount of reincarnation. (For Mercenary only)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p>
-<p><b>Requirement</b>: Unlock all Bloodlines. (excluding the Dragon bloodline)</p>
+<p><b>Requirement</b>: Purchase 100 of each A0 faction upgrades.</p>
 <p><b>Cost Pre A</b>: 1 Tg (1e93)</p>
 <p><b>Cost Post A</b>: Free</p>
 <p><b>Note</b>: This can be done at R7
