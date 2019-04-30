@@ -31,7 +31,7 @@
                     <p><b>Author</b>: Lapare
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S30,S105,S135,C10,C80,C105,C120,D55,D135,E50,E80,E135,A30,A105,A120,A135,W120,W135" id="Build">
@@ -49,7 +49,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S30,S105,S135,C10,C80,C120,C150,D55,D135,D150,E50,E135,E145,E150,A30,A105,A120,A135,A150,W120,W135,W150" id="Build">
@@ -68,11 +68,9 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Fairy R19</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Notes</b>
-                    <p>From now on Elfs are the recommended faction to buy the RPs.
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S30,S105,S135,S180,C10,C80,C120,C135,C150,D55,D135,D150,E50,E135,E145,E150,A30,A105,A120,A135,A150,W120,W135,W150,W180" id="Build">
@@ -90,7 +88,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S30,S105,S135,S180,S200,C10,C80,C120,C135,C150,D55,D135,D150,D200,D205,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
@@ -131,7 +129,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e90
+                    <p><b>Range</b>: 1e72-1e90
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D205,D225,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
@@ -149,7 +147,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e90
+                    <p><b>Range</b>: 1e72-1e90
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D205,D225,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W120,W135,W150,W180,W250" id="Build">
@@ -167,7 +165,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e72-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D250,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
@@ -201,7 +199,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e72-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
@@ -221,7 +219,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e72-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
@@ -243,7 +241,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e72-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
