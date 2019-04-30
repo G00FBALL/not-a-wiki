@@ -22,7 +22,7 @@
                           <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting" id="Build">
                           <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,
                           <p>SP:Diamond Pickaxe,SP:Fairy Chanting
-                          <p><b>Note</b>: Replace FR9 with DN7 when under Sunforce Assistant boost.
+                          <p><b>Note</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.
                           <p>For R3+, lower range & lower income but doesn't rely on LS RNG.</p>
                           <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe
                         </div>
@@ -52,7 +52,7 @@
                           <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Lightning Strike,SP:Fairy Chanting" id="Build">
                           <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,
                           <p>SP:Lightning Strike,SP:Fairy Chanting
-                          <p><b>Note</b>: Replace FR9 with DN7 when under Sunforce Assistant boost.
+                          <p><b>Note</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.
                           <p><b>Lightning Forge Instructions</b>:
                           <p>Early game, play until you get a Blacksmith Lightning Strike.
                           <p>This is when you get your big gem boost, other strikes barely count.
@@ -98,7 +98,7 @@
                         </div>
                 </div>
                 <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst R3+<font color="DarkRed"> Evil</font></a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst (R3+ Unlimited Mana, R7+ Mana Waste)<font color="DarkRed"> Evil</font></a></b></p>
                         <div class="autohide">
                           <p><b>Alignment</b>: Evil Mercenary</p>
                           <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
@@ -107,7 +107,8 @@
                           <p><b>Template</b></p>
                           <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
                           <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
-                          <p>This build is only for getting the (Unlimited Mana) Trophy.</p>               
+                          <p>This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
+                          <p>If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.      
                           <p>by <b>artcrow</b></p>
                         </div>
                 </div>
@@ -159,22 +160,6 @@
                           <p>You can ignore the following instructions if you have over 2000 of each of the first 5 buildings by the time you cast income Tax Collections. Buy 1500/1750/2000 Farm, Slave Pen, and Orcish Arena upgrades at the same time to avoid Grand Balance targeting the wrong building.
                           <p>It might require Helden Sterben Nicht, Rule 'dis, Unlimited Mana to work well in R14+.
                           <p>Build comes from this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/871213-r13-stuck-at-vg-gems?page=1#posts-11488590"><b>forum</b></a> post by artcrow</p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wastanarama R18-R23<font color="DarkRed"> Evil</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Evil Mercenary</p>
-                          <p><b>Bloodline</b>: Undead</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR1,FR2,FR9,AN3,AN6,UD5,DM7,DM8,DD6,FC5,FC7,DN2,SP:Fairy Chanting,SP:God's Hand" id="Build">
-                          <p><b>Mercenary Template</b>:</p>
-                          <p>FR1,FR2,FR9,AN3,AN6,UD5,DM7,DM8,DD6,FC5,FC7,DN2,</p>
-                          <p>SP:Fairy Chanting,SP:God's Hand</p>
-                          <p><b>Note</b>: Takes about 5 minutes with 1 Sxvg (1e81) gems (G00FBALL Tested)</p>
-                          <p><b>Requirements</b>: Completed Challenge 3 for Fairies, Elves, Angels and Undead.</p>
-                          <p><b>Important</b>: Avoid buying anything that increases max mana aside from Helden Sterben Nicht, such as Druid Heritage, Premeditation, Reincarnation Power, Mana Matrix, and Ruby Power if it increases max mana.</p>
-                          <p><b>Instructions</b>: Do a few combos to buy more buildings to increase your assistant count. A few rounds of doing a combo and buying buildings should get mana waste.</p>
                         </div>
                 </div>
         </div> 

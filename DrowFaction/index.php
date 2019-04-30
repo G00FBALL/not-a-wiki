@@ -17,7 +17,7 @@
 <p><b>Requirement</b>: Cast Combo Strike 100 times in a single game,The chain is interrupted by casting different spells.</p>
 <p><b>Effect</b>: Increases Combo Strike bonus.</p>
 <p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
-<p><b>Upgrade Cost</b>: 100 Xsd (1e53), A1+ Free</p>
+<p><b>Upgrade Cost</b>: 100 Sxd (1e53), A1+ Free</p>
 <hr>
 <p><b>Unlock Requirements</b>:</p>
 <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>

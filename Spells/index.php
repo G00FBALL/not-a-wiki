@@ -867,7 +867,7 @@
     <p><b><center>Ascension 1</center></p></b>
     <p><b><center>Alignment Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragons Breath</b> (Dragon)</p>
-    <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 30 seconds</p>
+    <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)</p>
     <p><b>Name</b>: Dragon's Breath</p>
     <p><b>Effect</b>: With the Spell upgrade Dragon's Roar, Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
@@ -1048,4 +1048,12 @@
 <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
 <p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png"></p></b>
+<p><b>Requirements</b>: R130+, Djinn Bloodline</p>
+<p><b>Notes</b>
+<p><b>1</b>. Spell comes with tier bonus.
+<p><b>2</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
+<p><b>3</b>. Cannot cast a spell that is already active
+<p><b>4</b>. The Spell Pool is 8 for Neutral factions (No Gem Grinder), 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <?php include "../scripts/footer.html"; ?>

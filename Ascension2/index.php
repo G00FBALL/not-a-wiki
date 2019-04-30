@@ -225,7 +225,7 @@
 <p><b>Evil - Demons</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
-<p><b>Requirement</b>: 160 seconds long Call to Arms.</p>
+<p><b>Requirement</b>: 120 seconds long Call to Arms.</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> <b>Burning Abyss Unique Building Upgrade</b></p>
