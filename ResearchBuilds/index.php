@@ -6,7 +6,6 @@
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <p><b>Builds Updated Oct. 12 2017</b>
-      <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.
     <p>All of the builds up to R24 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
     <p>Vanilla Flavor Juice is mandatory.
@@ -31,7 +30,7 @@
                     <p><b>Author</b>: Lapare
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S30,S105,S135,C10,C80,C105,C120,D55,D135,E50,E80,E135,A30,A105,A120,A135,W120,W135" id="Build">
@@ -49,7 +48,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S30,S105,S135,C10,C80,C120,C150,D55,D135,D150,E50,E135,E145,E150,A30,A105,A120,A135,A150,W120,W135,W150" id="Build">
@@ -68,11 +67,9 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Fairy R19</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Notes</b>
-                    <p>From now on Elfs are the recommended faction to buy the RPs.
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S30,S105,S135,S180,C10,C80,C120,C135,C150,D55,D135,D150,E50,E135,E145,E150,A30,A105,A120,A135,A150,W120,W135,W150,W180" id="Build">
@@ -90,7 +87,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: e72+
+                    <p><b>Range</b>: e70+
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S30,S105,S135,S180,S200,C10,C80,C120,C135,C150,D55,D135,D150,D200,D205,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
@@ -107,6 +104,7 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">R21-24</font></a></b></p>
         <div class="category autohide">
             <p><b>Note</b>: In this range you should always manage excavation for easier start.</p>
+            <p><b>R22+</b>: Remember to grab Ancient Cocoa Bean, you will need it from R24 on.</p>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Fairy Transition R21-24 </font></a></b></p>
                 <div class="autohide">
@@ -131,7 +129,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e90
+                    <p><b>Range</b>: 1e75-1e90
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D205,D225,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
@@ -149,13 +147,13 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e90
+                    <p><b>Range</b>: 1e75-1e90
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D205,D225,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W120,W135,W150,W180,W250" id="Build">
+                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D135,D200,D225,D245,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W120,W135,W150,W180,W250" id="Build">
                     <p>S105,S135,S180,S200,S215,
                     <p>C80,C105,C120,C135,C150,
-                    <p>D55,D135,D200,D205,D225,
+                    <p>D55,D135,D200,D225,D245,
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A150,A250,
                     <p>W120,W135,W150,W180,W250
@@ -167,7 +165,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e75-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D250,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
@@ -201,7 +199,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e75-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
@@ -221,7 +219,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e75-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
@@ -243,7 +241,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e75-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
@@ -263,7 +261,7 @@
                     <p>Some buildup will be required for the later gems, see below
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: e92-e108
+                    <p><b>Range</b>: e84-e108
                     <p><b>Duration</b>: 15min - 2h+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D320,D350,E135,E150,E275,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build">
@@ -282,7 +280,7 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: 1e77-1e99
+                    <p><b>Range</b>: 1e75-1e99
                     <p><b>Duration</b>: 10-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A330,A400,W150,W180,W290,W320,W330" id="Build">
@@ -303,7 +301,7 @@
                     <p>Some buildup will be required for the later gems, see below
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: e92-e111
+                    <p><b>Range</b>: e84-e111
                     <p><b>Duration</b>: 15min - 4h+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D320,D350,D400,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
@@ -323,7 +321,7 @@
                     <p>Some buildup will be required for the later gems, see below
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Dwarf (Requires high Excav count)
-                    <p><b>Range</b>: e92-e111
+                    <p><b>Range</b>: e84-e111
                     <p><b>Duration</b>: 15min - 2h+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D320,D350,D400,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
