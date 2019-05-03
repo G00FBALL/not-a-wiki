@@ -199,7 +199,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Requirements</b>: Dragon Challege 3
+                <p><b>Requirements</b>: Dragon Challenge 3
                 <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Druid
