@@ -1722,7 +1722,7 @@
             <p><b>Effect</b>: Increases production of all buildings by 15% per reincarnation.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodstreamSecretUpgrade.png" alt="Bloodstream" align="middle"> Bloodstream</b></p>
-            <p><b>Requirements</b>: Unlocks Bloodlines
+            <p><b>Requirements</b>: Purchase 100 of each A0 faction upgrades.
             <p><b>Cost</b>: 1 Tg (1E93)
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases the production of all buildings based on the time spent with the Bloodline's Faction.
