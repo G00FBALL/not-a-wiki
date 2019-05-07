@@ -1748,8 +1748,8 @@
 <p><b>Requirement</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
 <p><b>Effect</b>: Gives upgrade with same name.</p>
 <p><b>Upgrade Cost</b>: 1 SpQag (1.e144)</p>
-<p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
-<p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a single Reincarnation.</p>
+<p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterGrinder.png" align="middle">  Grandmaster Grinder</b></p>
 <p><b>Requirement</b>: Build 300000 buildings in a single game.</p>

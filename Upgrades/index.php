@@ -2184,7 +2184,7 @@ div#images div{
             <p><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"><b> Mad Masks</b></p>
             <p><b>Requirements</b>: R125+, Find all fragments of the Makers, Archon and Djinn masks.</p>
             <p><b>Cost</b>: 1 SpQag (1.e144)</p>
-            <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
             <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
