@@ -44,10 +44,10 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
     <p><b>Note</b>: Does not work while offline.</p>
 <hr>
 <p><b>Note</b>: Get to 100 Dvg (1e71) gems before starting to unlock research.</p>
-<p><b>Note</b>: Good Alignment, Elf/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
+<p><b>Note</b>: Demon/Drow/Elfline -> Fairy/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
 <p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 8 hours offline time as Undead to unlock a research.</p>
-<p>You can use <b>Mercenary</b> to get to the required gem level. suggested (Elven Farms build to e68)</p>
-<p>Use Excavations only as needed to speed thing up, <b>DO NOT OVERDO</b></p>
+<p>You can use <b>Mercenary</b> to get to the required gem level. suggested build: Tricaster</p>
+<p>Maxing Excavations to help Merc production is recommended.
 <p><b>Auto Casting</b>: Spiritual Surge on Silver everything else on Gold unless stated otherwise.</p>
 <hr>
 <p><b>Important</b>: Do not buy Dwarf/Drow while doing research</p>
