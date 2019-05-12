@@ -324,16 +324,16 @@
                 <p><b>Bloodline</b>: Angel/Undead/Druid/Faceless/Dragon
                 <p><b>Artifact Set</b>: Dwarf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
+                      <input type="text" value="S50,S400,S435,C175,C400,D560,D1375,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C400,D290,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D290
+                      <input type="text" value="S50,S400,S435,C175,C400,D290,D560,D1375,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D290
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W405,W520,W1375" id="Build"> Faceless
+                      <input type="text" value="S50,S400,S435,C175,C400,D560,D1375,E1,E135,E225,E495,E590,A10,A120,A410,W25,W405,W520,W1375" id="Build"> Faceless
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> Dragon/Faceless (High Gems)
+                      <input type="text" value="S50,S400,S435,C175,C400,D560,D1375,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"> Dragon/Faceless (High Gems)
                 <p>S50,S400,S435,
                 <p>C175,C400,
-                <p>D245,D560,
+                <p>D560,D1375,
                 <p>E1,E135,E225,E495,E590,
                 <p>A10,A120,A410,
                 <p>W25,W205,W405,W520
