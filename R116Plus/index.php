@@ -8,6 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated Feb 21st, 2019</b>
+    <p><b>Updated Lineage Builds May 12, 2019</b>
       <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
     <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982032-row"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
@@ -297,10 +298,10 @@
     <p><b>Artifact Set</b>: Faceless (Fairy and Undead Lineage)
     <p><b>Artifact Set</b>: Dragon (Dwarf and Drow Lineage)
           <p><button onclick="myFunction($(this))">Copy Build</button>
-          <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D200,D260,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
+          <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
     <p>S251,S375,S400,S1450,S1500,
     <p>C400,C1300,
-    <p>D200,D260,D1125,
+    <p>D260,D290,D1125,
     <p>E145,E350,E1225,
     <p>A300,A1200,A3400,
     <p>W275,W1375,W1400
@@ -325,7 +326,7 @@
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S50,S400,S435,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C400,D200,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D200
+                      <input type="text" value="S50,S400,S435,C175,C400,D290,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"> D290
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S50,S400,S435,C175,C400,D245,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W405,W520,W1375" id="Build"> Faceless
                       <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -337,7 +338,6 @@
                 <p>A10,A120,A410,
                 <p>W25,W205,W405,W520
                 <p><b>Notes</b>: Swap W205 with W1375 for Faceless Lineage leveling.
-                <p><b>Notes</b>: Swap D245 with D200 (Read Notes)
                 <p><b>Notes</b>: At atleast 1e65 (100 Vg) Gems+ for (Dragon Lineage).
                 <p><b>Notes</b>: At atleast 1e67 (10 UVg) Gems+ (Angel Lineage).
                 <p><b>Notes</b>: At atleast 1e67 (10 UVg) Gems+ (Undead Lineage).
@@ -357,10 +357,10 @@
     <p><b>Bloodline</b>: Faceless (Goblin at 1e67)
     <p><b>Artifact Set</b>: Dwarf
           <p><button onclick="myFunction($(this))">Copy Build</button>
-          <input type="text" value="S1,S180,S400,S590,C10,C400,C405,C520,D200,D225,D435,E50,E145,E410,A30,A120,A495,W560,W1375" id="Build">
+          <input type="text" value="S1,S180,S400,S590,C10,C400,C405,C520,D290,D225,D435,E50,E145,E410,A30,A120,A495,W560,W1375" id="Build">
     <p>S1,S180,S400,S590,
     <p>C10,C400,C405,C520,
-    <p>D200,D225,D435,
+    <p>D290,D225,D435,
     <p>E50,E145,E410,
     <p>A30,A120,A495,
     <p>W560,W1375
@@ -377,7 +377,7 @@
           <p><button onclick="myFunction($(this))">Copy Build</button>
           <input type="text" value="S400,S435,C50,C400,D10,D245,D560,E145,E230,E495,A25,A400,A410,W1,W175,W405,W520,W590,W1375" id="Build">
           <p><button onclick="myFunction($(this))">Copy Build</button>
-          <input type="text" value="S400,S435,C50,C400,D10,D200,D560,E145,E230,E495,A25,A400,A410,W1,W175,W405,W520,W590,W1375" id="Build"> e67+ Gems
+          <input type="text" value="S400,S435,C50,C400,D10,D290,D560,E145,E230,E495,A25,A400,A410,W1,W175,W405,W520,W590,W1375" id="Build"> e67+ Gems
     <p>S400,S435,
     <p>C50,C400,
     <p>D10,D245,D560,
