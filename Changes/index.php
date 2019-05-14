@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<p><b>3.5.1 May 14, 2019</b></p>
+<p><b>3.5.2 May 14, 2019</b></p>
 <hr>
 <p><b>Artifact Sets</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairySet.png" align="middle"> Fairy Set</p></b>
