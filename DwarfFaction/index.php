@@ -95,8 +95,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" alt="Smiley face" align="middle"> Overwatch</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>
-<p><b>Effect</b>: Your production is increased by 600% so long as there are mouse movements. Clicking and casting are not considered as movements.</p>
-<p>This bonus falls off by 1% per second, down to 0 while inactive.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
+<p><b>Formula</b>: (500 + 35 * x ^ 0.35), where x is the duration of your longest spell.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenHeritage.png" alt="Dwarven Heritage" align="middle"><b> Dwarven Heritage</b></p>
 <p><b>Cost</b>: 75,000 Dwarven Coins</p>

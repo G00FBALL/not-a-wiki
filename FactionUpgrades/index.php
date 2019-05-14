@@ -267,7 +267,7 @@
                 <p><b>Mercenary Template</b>: DW1</p>
                 <p><b>Cost</b>: 5 Qad (5E45)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
-                <p><b>Formula</b>: (x ^ 0.7)%, where x is your Time Spent Being Evil (Total) stat in seconds.</p>
+                <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" align="middle"> Honor Among Killers</b></p>
                 <p><b>Mercenary Template</b>: DW2</p>
@@ -542,7 +542,7 @@
                 <p><b>Mercenary Template</b>: DW4</p>
                 <p><b>Cost</b>: 50 Qid (5E49)</p>
                 <p><b>Effect</b>: Mana regeneration increases over time.</p>
-                <p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
+                <p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" align="middle"> Blood Sacrifices</b></p>
                 <p><b>Mercenary Template</b>: DW5</p>
@@ -810,8 +810,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
                 <p><b>Mercenary Template</b>: DN9</p>
                 <p><b>Cost</b>: 50 Spd (5E55)</p>
-                <p><b>Effect</b>: Your production is increased by 600% so long as there are mouse movements. Clicking and casting are not considered as movements.</p>
-                <p>This bonus falls off by 1% per second, down to 0 while inactive.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
+                <p><b>Formula</b>: (500 + 35 * x ^ 0.35), where x is the duration of your longest spell.</p>
                 <hr>
                 <h6>Drow</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" align="middle"> Spider Gods</b></p>
@@ -1013,7 +1013,7 @@
                 <p><b>Requirement</b>: A2, Undead Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase base production of Undercity by +10000, and then increase this effect based on time spent in this Reincarnation.</p>
-                <p><b>Formula</b>: (10000 + 1.3 * x ^ 1.3), where x is time spent this Reincarnation.</p>
+                <p><b>Formula</b>: (10000 + x ^ 1.05), where x is time spent in this Reincarnation.</p>
                 <p><b>Note</b>: Also effects Flesh Workshops.</p>
                 <hr>
                 <h6>Demon</h6>
@@ -1065,7 +1065,7 @@
                 <p><b>Requirement</b>: A2, Druids Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
-                <p><b>Online Formula</b>: (50 * x ^ 0.95), where x is time spent online in this game.</p>
+                <p><b>Online Formula</b>: (50 * x ^ 0.85), where x is time spent online in this game.</p>
                 <p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
                 <p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
                 <br/>
@@ -1172,7 +1172,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
                 <p><b>Requirement</b>: R130+, Djinn Union</p>
                 <p><b>Cost</b>: 100 QiQig (1e170)</p>
-                <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on Limited Wish activity time in this Reincarnation.</p>
                 <p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>

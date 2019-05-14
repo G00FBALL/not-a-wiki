@@ -46,7 +46,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" alt="Smiley face" align="middle"> Underworld Tyranny</b></p>
 <p><b>Cost</b>: 5 Qad (5E45)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
-<p><b>Formula</b>: (x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
@@ -66,7 +66,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" alt="Smiley face" align="middle"> Mana Addicts</b></p>
 <p><b>Cost</b>: 50 Qid (5E49)</p>
 <p><b>Effect</b>: Mana regeneration increases over time.</p>
-<p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
+<p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" alt="Smiley face" align="middle"> Blood Sacrifices</b></p>
 <p><b>Cost</b>: 500 Qid (5E50)</p>

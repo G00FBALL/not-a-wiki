@@ -1767,8 +1767,8 @@ div#images div{
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirements</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
-<p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
-<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
 <p><b>Requirements</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
