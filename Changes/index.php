@@ -466,7 +466,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"> Drow Lineage</p></b>
 <p><b>Old Effect</b>: Increase offline production bonus by a multiplicative 75% for every level.</p>
 <p><b>New Effect</b>: Increase offline production bonus based on Lineage level. Does not suffer from Ascension penalties.</p>
-<p><b>Formula</b>: (150 * L ^ 2.25), where x is Lineage level.</p>
+<p><b>Formula</b>: (150 * L ^ 2.25), where L is Lineage level.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" align="middle"> Drow Perk 3</p></b>
 <p><b>Old Effect</b>: Increase offline production by 10.0% for every 500 Unique Building.</p>

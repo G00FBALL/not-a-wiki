@@ -10,7 +10,7 @@
     <p><b>Updated Feb 21st, 2019</b>
     <p><b>Updated Lineage Builds May 12, 2019</b>
       <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
-    <p>All builds comes from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982032-row"><b>megathread</b></a>  forum page</p>
+    <p>All builds come from the  <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1787989#posts-12982032-row"><b>megathread</b></a>  forum page</p>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
