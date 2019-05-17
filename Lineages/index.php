@@ -489,7 +489,7 @@
     <p><b>Cost</b>: 400 Drow Royal Exchanges.</p>
     <p><b>Effect</b>: Increase offline production bonus based on Lineage level.
     <p><b>Note</b>: Does not suffer from Ascension penalties.</p>
-    <p><b>Formula</b>: (150 * L ^ 2.25), where x is Lineage level.</p>
+    <p><b>Formula</b>: (150 * L ^ 2.25), where L is Lineage level.</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk1.png" align="middle"><b> Drow Perk 1</b></p>
