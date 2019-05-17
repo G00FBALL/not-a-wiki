@@ -337,7 +337,7 @@
 <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
 <p><b>Cost Pre A</b>: 10 Coins</p>
 <p><b>Cost Post A</b>: Free</p>
-<p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)<p>Possible at R33 in less than 1 hour with fairy and fairy bloodline.</p>
+<p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)<p>Possible at R30 using Titan Bloodline.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
 <p><b>Requirement</b>:  Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>

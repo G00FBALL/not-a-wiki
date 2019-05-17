@@ -143,9 +143,10 @@
 <p><b>S500</b> - <b>For</b> All Factions - <b>Research Name</b>: Heirlooms</p>
 <p><b>Requirement</b>: 40 Artifacts (as Drow)</p>
 <p><b>Cost</b>: 5.554 Spg (5,554E213)</p>
+<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.</p>
 <p><b>Formula</b>
-<p><b>Maximum Mana</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.
-<p><b>Mana Regeneration</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.
+<p><b>Maximum Mana</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.</p>
+<p><b>Mana Regeneration</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.</p>
 <br/>
 <p><b>S545</b> - <b>For</b> All Factions - <b>Research Name</b>: Hierarchy</p>
 <p><b>Requirement</b>: 10M (1E7) mana produced (This Game)</p>

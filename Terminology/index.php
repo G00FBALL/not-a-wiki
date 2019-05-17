@@ -97,6 +97,9 @@
 <p><b>Dwarfline</b>: Dwarf Bloodline</p>
 <p><b>Drowline</b>: Drow Bloodline</p>
 <p><b>Dragonline</b>: Dragon Bloodline</p>
+<p><b>Archonline</b>: Archon Bloodline</p>
+<p><b>Djinnline</b>: Djinn Bloodline</p>
+<p><b>Makerline</b>: Makers Bloodline</p>
 <hr>
 <h6>Research Facilities</h6>
 <p><b>Short and long names</b></p>
