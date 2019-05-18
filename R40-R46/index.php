@@ -7,25 +7,24 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>Updated Nov. 28th 2017</b>
-      <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
-    <p>All builds come from the  <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/922600-3-0-build-megathread-under-construction-please-post-builds-to-add?page=1"><b>megathread</b></a>  forum page</p>
+    <p><b>Updated may 18th. 2019</b>
+    <p>All builds come from the  <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a> </p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
-<br/>
-        <p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before starting stage 3 of Dragon Unlocks.</p>
+    <br/>
+        <p><b>Note</b>: It is recommended to get at least 100 Oc (1e29) gems before starting stage 3 of Dragon Unlocks.</p>
         <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
-<div class="shlisting">
+    <div class="shlisting">
     <p><b>Production</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (R40-R41)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: 0 - ?
+                <p><b>Range</b>: 0 Gems - ?
                 <p><b>Faction</b>: Titan
                 <p><b>Bloodline</b>: Druid
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A250,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A250,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
                 <p>S135,S150,S270,S330,S500,
                 <p>C150,C251,C330,C340,C375,C400,
                 <p>D55,D200,D245,D290,D320,
@@ -35,74 +34,55 @@
             </div>
         </div>
         <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dwelves (R42-46) + Stage 4 unlock<font color="Blue"> Good</font></a></b></p>
-                                <div class="autohide">
-                <p><b>Author</b>: Artcrow + Necrodoom
-                <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings
-                <p><b>Requirements</b>: Mana Waste is also needed for stage 4 unlock.
-                <p><b>Range</b>: ? gems - ?
-                <p><b>Faction</b>: Elf/Dwarf
-                <p><b>Bloodline</b>: Druid
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S175,S215,S330,S500,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build">
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S175,S215,S330,S400,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> S400 is higher
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S175,S215,S330,S500,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> E480 is 35+%
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S215,S305,S330,S500,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> S305 with CTA3 HL3 MB3 DP2 SS2
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S215,S305,S330,S400,C80,C150,C225,C330,C340,C400,C460,C590,D55,D200,D245,D290,D320,E145,E250,E330,E400,E410,A105,A120,A150,A250,A400,W10,W120,W150,W320,W400" id="Build"> Dragon Stage 4
-                <p>S150,S175,S215,S330,S500,
-                <p>C80,C150,C225,C330,C340,C400,C460,C590,
-                <p>D55,D200,D245,D290,D320,
-                <p>E145,E250,E330,E400,E410,
-                <p>A105,A120,A150,A250,A400,
-                <p>W10,W120,W150,W320,W400
-                <p><b>Notes</b>: Requires Spell tiers to get past 1e25 (10 Sp) gems. Recommended doing T3 Elf/Dwarf spell tiers (Call to Arms, Holy Light, Moon Blessing, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.
-                <p><b>Notes</b>: Swap S500 with S400 if better.
-                <p><b>Notes</b>: Swap E250 with E480 if better (35%+).
-                <p><b>Notes</b>: Swap S175 with S305 (requires CTA3 HL3 MB3 DP2 SS2).
-                <p><b>Notes</b>: For Stage 4, requires S400 at 12500+, E30 (1 No) gems+. Estimated runtime 6 hours.
-         </div>
-    </div>
-            </div>
-                    <br/>
-    <p><b>Unlock Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 2 + S400 buff<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dwangels (R42-46) + Stage 4 unlock<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Artcrow
-                <p><b>Range</b>: ? gems
-                <p><b>Faction</b>: Good Mercenary
+                <p><b>Author</b>: Cyden
+                <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings
+                <p><b>Requirements</b>: Mana Waste is recommended for stage 4 unlock.
+                <p><b>Range</b>: 0 Gems - ?
+                <p><b>Faction</b>: Angel/Dwarf
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
-                <p>FR1,FR7,FR9,EL3,AN3,AN5,AN6,GB7,DD6,FC5,FC7,DN2,
-                <p>SP:Fairy Chanting,SP:Hellfire Blast
-                <p><b>Notes</b>: 20 million spells cast in 12 hours. S400=12500.
-                <p><b>Notes</b>: 40 million in 20 hours. S400=16000.
-                <p><b>Notes</b>: 55 milion in 24 hours. S400=18000.
+                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A120,A150,A250,W120,W150,W180,W330,W400" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A150,A250,A330,W120,W150,W180,W330,W400" id="Build"> A330 is higher
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A150,A250,A400,W120,W150,W180,W330,W400" id="Build"> A400 is higher
+                <p>S10,S150,S215,S330,S500,
+                <p>C25,C80,C150,C330,C340,C400,C500,
+                <p>D55,D175,D200,D250,D290,D320,
+                <p>E135,E145,E330,E410,E480,
+                <p>A50,A105,A120,A150,A250,
+                <p>W120,W150,W180,W330,W400
+                <p><b>Notes</b>: Requires Spell tiers to get past 1e25 (10 Sp) gems. Recommended doing T3 Angel/Dwarf spell tiers (Call to Arms, Holy Light, God's hand, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.
+                <p><b>Notes</b>: Swap A120 with A330/A400 (Which is higher) if D175 is 1500 or higher (3 hours is 1589 assistants)
+                <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.
             </div>
         </div>
+    </div>
+    <br/>
+    <p><b>Unlock Builds</b></p>
+    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragon Stage 3 <font color="Blue">Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Artcrow
                 <p><b>Requires</b> Fortune Teller Machine, Horn of the Kings
-                <p><b>Range</b>: e30 (1 No) gems+
+                <p><b>Range</b>: 1e29 (100 Oc) Gems+
                 <p><b>Faction</b>: Fairy/Dwarf
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S180,S215,S330,S400,S590,C80,C135,C150,C330,C340,C400,C460,D55,D200,D245,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build">
-                <p>S150,S180,S215,S330,S400,S590,
-                <p>C80,C135,C150,C330,C340,C400,C460,
-                <p>D55,D200,D245,D290,D320,
+                  <input type="text" value="S150,S180,S215,S330,S500,S590,C80,C120,C150,C330,C340,C400,C500,D55,D200,D250,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S150,S180,S215,S330,S500,S590,C80,C120,C150,C330,C340,C400,C500,D55,D200,D250,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build"> A400 is stronger
+                <p>S150,S180,S215,S330,S500,S590,
+                <p>C80,C120,C150,C330,C340,C400,C500,
+                <p>D55,D200,D250,D290,D320,
                 <p>E145,E330,E400,E410,E480,
-                <p>A105,A120,A150,A250,A400,
+                <p>A105,A120,A150,A250,A330,
                 <p>W120,W150,W180,W320,W400
-                <p><b>Notes</b>: Estimated runtime 2-3 hours. Could possibly be done at e29 gems in under 12 hours.
+                <p><b>Notes</b>: Estimated runtime 2-3 hours, 30 minutes at 1e30 (1 No) Gems.
+                <p><b>Notes</b>: Swap A330 with A400 if stronger.
             </div>
         </div>
             </div>
