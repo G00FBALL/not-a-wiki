@@ -7,8 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated March 28th 2018</b>
-    <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
+    <p><b>Updated May 19th, 2019</b>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
@@ -22,10 +21,10 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S270,S330,S500,C150,C250,C330,C340,C400,C460,D55,D150,D200,D245,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W120,W150,W180,W260,W330,W400" id="Build">
+                  <input type="text" value="S105,S200,S270,S330,S500,C150,C250,C330,C340,C400,C460,D55,D150,D200,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W120,W150,W180,W260,W330,W400" id="Build">
                 <p>S105,S200,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,
-                <p>D55,D150,D200,D245,D320,
+                <p>D55,D150,D200,D290,D320,
                 <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
                 <p>W120,W150,W180,W260,W330,W400
@@ -40,12 +39,12 @@
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build"> e74 (100 TVg) gems+
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build"> e74 (100 TVg) gems+
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
-                <p>D245,D260,D320,D1125,D1275,D1375,
+                <p>D260,D290,D320,D1125,D1275,D1375,
                 <p>E135,E145,E460,E1225,E1425,
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
@@ -53,7 +52,7 @@
                 <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
          </div>
     </div>
-<br/>
+<p></p>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -62,12 +61,12 @@
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D245,D250,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D245,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D290,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
                 <p>S105,S200,S215,S270,S330,S500,
                 <p>C150,C250,C330,C340,C400,C460,C500,
-                <p>D55,D150,D200,D245,D250,D320,
+                <p>D55,D150,D200,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
@@ -82,12 +81,12 @@
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
-                <p>D55,D245,D260,D320,D1125,D1275,D1375,
+                <p>D55,D260,D290,D320,D1125,D1275,D1375,
                 <p>E135,E145,E350,E460,E1225,E1425,
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
@@ -118,7 +117,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">UL5/Spell Cataclysm/DC5 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC5/Spell Cataclysm/UL5 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
                 <p><b>Requirements</b>: DC4
@@ -126,10 +125,10 @@
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
                 <p>S215,S270,S305,S330,S1450,S1500,
                 <p>C250,C340,C400,C1300,C1325,
-                <p>D245,D260,D320,D1125,D1275,D1375,
+                <p>D260,D290,D320,D1125,D1275,D1375,
                 <p>E135,E145,E320,E1225,E1425,
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
@@ -137,45 +136,27 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarf Lineage level 10 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Necrodoom
-                <p><b>Requirements</b>: DC4
-                <p><b>Range</b>: 1e66 (1 Uvg) Gems
-                <p><b>Faction</b>: Faceless/Dragon
-                <p><b>Bloodline</b>: Dwarf
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D245,D260,D320,D1125,D1275,D1375,E135,E145,E290,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build">
-                <p>S215,S270,S305,S330,S1450,S1500,
-                <p>C250,C340,C400,C1300,C1325,
-                <p>D245,D260,D320,D1125,D1275,D1375,
-                <p>E135,E145,E290,E1225,E1425,
-                <p>A105,A120,A150,A305,A400,
-                <p>W150,W180,W275,W400,W1375
-                <p><b>Notes</b>: Put Brainwave on bronze, Tax Collection on Gold, and the rest on Silver. Youd want to cast as many tiers as possible.
-                <p><b>Notes</b>: Excavate until Dwarf Lineage level 10 is gotten, which allows to get Undead Lineage to level 10 easily via Ancient Heirloom (Which will be almost certainly gotten on or before getting to this build). No point going further as it is of little benefit.
-         </div>
-    </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC6 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare
-                <p><b>Requirements</b>: DC5, free excavations (6000 Excavations or below, free reset before starting the run if needed)
-                <p><b>Range</b>: 1e66 (1 UVg) Gems
+                <p><b>Author</b>: Cyden
+                <p><b>Requirements</b>: DC5, low excavations (free reset if needed)
+                <p><b>Range</b>: 1e66 (1 Uvg) Gems
                 <p><b>Faction</b>: Druid/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S1450,C250,C340,C400,C1300,C1325,D245,D275,D1125,D1275,D1375,E135,E145,E250,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W150,W180,W250,W400,W1375" id="Build">
-                <p>S215,S270,S305,S330,S1450,
+                  <input type="text" value="S215,S305,S330,S500,S1450,C330,C340,C400,C1300,C1325,D275,D290,D1125,D1275,D1375,E135,E145,E260,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W150,W180,W350,W400,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S305,S400,S500,S1450,C330,C340,C400,C1300,C1325,D275,D290,D1125,D1275,D1375,E135,E145,E260,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W135,W180,W400,W1375,W1400" id="Build"> e67+ Gems
+                <p>S215,S305,S330,S500,S1450,
                 <p>C330,C340,C400,C1300,C1325,
-                <p>D245,D275,D1125,D1275,D1375,
-                <p>E135,E145,E250,E290,E1225,E1425,
+                <p>D275,D290,D1125,D1275,D1375,
+                <p>E135,E145,E260,E290,E1225,E1425,
                 <p>A120,A305,A400,A545,A1325,A1500,
-                <p>W150,W180,W250,W400,W1375
-                <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 120k building requirement.
-                <p><b>Notes</b>: Requires excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of target is irrelevant for this build.
-            </div>
-          </div>
+                <p>W150,W180,W350,W400,W1375
+                <p><b>Notes</b>: At higher gems (e67+) swap S330 with S400, W150 with W135 and W350 with W1400.
+         </div>
+    </div>
+    <p><b></b></p>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Stoic Resistance (R70+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
