@@ -845,7 +845,7 @@
         <tr>
             <td><center>5000 Buildings</td>
             <td></td>
-            <td>Build 5000 of each building.</td>
+            <td>Build 5000 of each building.(5K series = 25 Trophies)</td>
             <td></td>
             <td>Much easier Post A.</td>
         </tr>

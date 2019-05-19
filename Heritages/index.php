@@ -11,6 +11,9 @@
 <p><b>Prestige</b>: 75000</p>
 <p><b>Neutral Prestige</b>: 400b each of Dwarf and Drow</p>
 <p><b>Mercenary</b>: 100000 each of all.</p>
+<p><b>Elite</b>: 1 Td (1e42) each of two factions</p>
+<p><b>Vanilla Advanced</b>: 7.5 Oc (7.5e27)</p>
+<p><b>Neutral Advanced</b>: 7.5 Oc (7.5e27) each of two factions</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <p><b>Note</b>: Faction Ruler doubles Advanced Heritage powers

@@ -82,6 +82,7 @@
 <p><b>NU (Build Name)</b>:Builds that do not target Unique Buildings</p>
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
+<p><b>AH</b>: Advance Heritage</p>
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
