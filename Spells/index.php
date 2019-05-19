@@ -293,26 +293,26 @@
                 <th style="width:55px" class="SSCalTieHid" rowspan="2">Tier</th>
                 <th style="width:55px" class="SSCalDra" title="Prismatic Breath" rowspan="2">PB</th>
                 <th colspan="2">Production bonus</th>
-                <th style="width:120px" class="ResUnl" rowspan="2">D245 production bonus</th>
+                <th style="width:120px" class="ResUnl" rowspan="2">D1375 production bonus</th>
             </tr>
             <tr class="ResUnl">
-                <th>without D245</th>
-                <th>with D245</th>
+                <th>without D1375</th>
+                <th>with D1375</th>
             </tr>
             <tr>
                 <td><input id="SSCalRei" type="number" min="14" max="157" value="14"></td>
                 <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
                 <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
-                <td id="SSCalProNoD245"></td>
-                <td id="SSCalProD245" class="ResUnl"></td>
-                <td id="SSCalD245" class="ResUnl"></td>
+                <td id="SSCalProNoD1375"></td>
+                <td id="SSCalProD1375" class="ResUnl"></td>
+                <td id="SSCalD1375" class="ResUnl"></td>
             </tr>
         </table>
         <script>
             function CalSSHidSho(r) {
                 $('.ResUnl, .SSCalTieHid, .SSCalDra').css('display', 'none');
                 $('#SSCal th').removeAttr('rowspan colspan');
-                if (r >= 22) {
+                if (r >= 52) {
                     $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
                     $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
                     $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
@@ -329,22 +329,23 @@
             /**
              * @return {number}
              * @param rei
-             * @param [d245]
+             * @param [d1375]
              * @param [dp]
              * @param [tier]
              */
-            function CalSSMul(rei, d245 = false, tier = 1, dp = false) {
-                var reinc = (d245) ? rei * 2 : rei;
+            function CalSSMul(rei, d1375 = false, tier = 1, dp = false) {
                 reinc = (dp) ? reinc * 2 : reinc;
-                var base = 10000 * 1.05**reinc;
+                var base = 2500 * reinc**1.05;
                 if (rei < 40)
                 {
                     base = (base/100+1);
                 }
                 else if (40 <= rei && rei < 100) {
-                    base = (base**1.5/100+1)**(0.1*tier);
+                    var asc = (d1375) ? 1.5 : 1;
+                    base = (base**(1+(asc*0.5))/100+1)**(0.1*tier);
                 } else if (100 <= rei) {
-                    base =  (base**2/100+1)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
+                    var asc = (d1375) ? 3 : 2;
+                    base =  (base**(1+(asc*0.5)/100+1)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
                 }
                 return base;
             }
@@ -360,31 +361,31 @@
                 var rei = parseInt($('#SSCalRei').val()),
                     tie = 1,
                     dp = $('#SSCalPB').is(':checked'),
-                    ProNoD245 = 0,
-                    ProD245 = 0;
+                    ProNoD1375 = 0,
+                    ProD1375 = 0;
                 CalSSHidSho(rei);
-                if (rei < 22) {
-                    ProNoD245 = CalSSMul(rei);
-                } else if (rei < 40) {
-                    ProNoD245 = CalSSMul(rei);
-                    ProD245 = CalSSMul(rei, true);
+                if (rei < 40) {
+                    ProNoD1375 = CalSSMul(rei);
+                } else if (rei < 52) {
+                    tie = parseInt($('#SSCalTie').val());
+                    ProNoD1375 = CalSSMul(rei, false, tie);
                 } else if (rei < 63) {
                     tie = parseInt($('#SSCalTie').val());
-                    ProNoD245 = CalSSMul(rei, false, tie);
-                    ProD245 = CalSSMul(rei, true, tie);
+                    ProNoD1375 = CalSSMul(rei, false, tie);
+                    ProD1375 = CalSSMul(rei, true, tie);
                 } else {
                     tie = parseInt($('#SSCalTie').val());
-                    ProNoD245 = CalSSMul(rei, false, tie, dp);
-                    ProD245 = CalSSMul(rei, true, tie, dp);
+                    ProNoD1375 = CalSSMul(rei, false, tie, dp);
+                    ProD1375 = CalSSMul(rei, true, tie, dp);
                 }
                 if (rei < 100 && tie > 6) {
-                    $('#SSCalProNoD245').text('N/A');
-                    $('#SSCalProD245').text('N/A');
-                    $('#SSCalD245').text('N/A');
+                    $('#SSCalProNoD1375').text('N/A');
+                    $('#SSCalProD1375').text('N/A');
+                    $('#SSCalD1375').text('N/A');
                 } else {
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245) + '%');
-                    $('#SSCalProD245').text(MulToBon(ProD245) + '%');
-                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245) + '%');
+                    $('#SSCalProNoD1375').text(MulToBon(ProNoD1375) + '%');
+                    $('#SSCalProD1375').text(MulToBon(ProD1375) + '%');
+                    $('#SSCalD1375').text(MulToBon(ProD1375 / ProNoD1375) + '%');
                 }
             }
             CalSS();
