@@ -54,9 +54,10 @@
                 <p>E135,E145,E330,E410,E480,
                 <p>A50,A105,A120,A150,A250,
                 <p>W120,W150,W180,W330,W400
-                <p><b>Notes</b>: Requires Spell tiers to get past 1e25 (10 Sp) gems. Recommended doing T3 Angel/Dwarf spell tiers (Call to Arms, Holy Light, God's hand, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.
-                <p><b>Notes</b>: Swap A120 with A330/A400 (Which is higher) if D175 is 1500 or higher (3 hours is 1589 assistants)
-                <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.
+                  <p><b>Notes</b>: Require tier 3 spells for R45,46 to get past 1e25 (10 Sp) gems. Recommended doing T3 Angel/Dwarf spell tiers (Call to Arms, Holy Light, God's hand, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.
+                  <p><b>Notes</b>: Swap A120 with A330/A400 (Which is higher) if D175 is 1500 or higher (3 hours is 1589 assistants)
+                  <p><b>Notes</b>: Swap W330 with W320 if higher
+                  <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.
             </div>
         </div>
     </div>

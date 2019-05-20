@@ -96,7 +96,7 @@
       <div class="shelementwhole">
           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Armageddon (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
           <div class="autohide">
-                  <p><b>Author</b>: Lapare
+                  <p><b>Author</b>: Cyden
                   <p><b>Range</b>: e116 (100 Sptg) - e124 (10 Qag) Gems
                   <p><b>Faction</b>: Neutral Mercenary
                   <p><b>Bloodline</b>: Titan
@@ -190,9 +190,8 @@
                   <p><b>Author</b>: Lapare
                   <p><b>Range</b>: ? Gems
                   <p><b>Faction</b>: Neutral Mercenary
-                  <p><b>Bloodline</b>: Any
+                  <p><b>Bloodline</b>: Drow First
                   <p><b>A2950</b>: Dragon
-                  <p><b>13th Upgrade</b>: FR1
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL7,AN5,GB7,DD3,DD4,DD6,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S400,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D275,D290,D1275,D2775,E135,E320,E1225,E1425,E3250,E3300,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1375,W1400,W3050,W3150" id="Build">
                   <p>EL1,EL7,AN5,GB7,DD3,DD4,DD6,FC2,FC7,DN2,DG4,DG9,
@@ -204,12 +203,10 @@
                   <p>A120,A305,A1200,A1500,A2950,A3400,
                   <p>W275,W400,W1375,W1400,W3050,W3150
                   <p><b>Notes</b>: Start with Drowline
-                  <p><b>Notes</b>: Remake of the old Ragnarok, probably not needed as it's slower than Heat Death Tax
-                  <p><b>Notes</b>: Remake of the old Ragnarok, probably not needed as it's slower than Heat Death Tax
         </div>
      </div>
       <div class="shelementwhole">
-          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Embargo of the Underworld(Dragonline) (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
           <div class="autohide">
                   <p><b>Author</b>: Lapare
                   <p><b>Range</b>: ? Gems
@@ -219,7 +216,7 @@
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL7,AN9,TT3,TT6,DD4,DD5,FC2,DN2,DN8,DG3,DG4,DG7,SP:Lightning Strike,SP:God's Hand,S215,S305,S400,S1450,S1500,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D1375,D2775,E135,E260,E1225,E1425,E3250,E3300,A120,A590,A1200,A1500,A2950,A3400,W275,W400,W1375,W1400,W3050,W3150" id="Build">
                   <p>EL7,AN9,TT3,TT6,DD4,DD5,FC2,DN2,DN8,DG3,DG4,DG7,
-                  <p>SP:God's Hand,SP:Dragon's Breath,
+                  <p>SP:God's Hand,SP:Lightning Strike,
                   <p>S215,S305,S400,S1450,S1500,S3200,
                   <p>C340,C400,C590,C1300,C3000,C3100,
                   <p>D25,D275,D290,D1275,D1375,D2775,
@@ -229,7 +226,7 @@
         </div>
      </div>
       <div class="shelementwhole">
-          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Embargo of the Underworld(Titanline) (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
           <div class="autohide">
                   <p><b>Author</b>: Lapare
                   <p><b>Range</b>: ? Gems
