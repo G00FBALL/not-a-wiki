@@ -133,6 +133,7 @@
                   <p>E10,E135,E230,E1225,E3250,E3300,
                   <p>A120,A545,A590,A1500,A2950,A3400,
                   <p>W205,W275,W400,W525,W3050,W3150
+                  <p><b>Notes</b>: <font color="Red"><b></b>Turn off "Hide unavailable researches" and buy E230 manually (click on it)</b></font>
          </div>
     </div>
          </div>
