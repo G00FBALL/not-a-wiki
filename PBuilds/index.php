@@ -101,9 +101,9 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Fairyline Dwairy</a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Lapare</p>
+                    <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
-                    <p><b>Bloodline</b>: Fairyline</p>
+                    <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: (?) - e138 (1 Qiqag) Gems</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A150,A495,W150,W180,W290,W320,W330,S200,C330,C520" id="Build">
@@ -123,12 +123,12 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">An Angelic Ascension</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">An Angelic Ascension (R37-39)</a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: Lapare</p>
+                    <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Angel/Dwarf</p>
-                    <p><b>Bloodline</b>: Druidline</p>
-                    <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Range</b>: 1e138 (1 Qiqag) gems - 1e144 (1 Spqag) gems</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545W120,W150,W180,W330,W400,C25,C330,D480" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -146,6 +146,7 @@
                     <p><b>Note</b>: After the horn buy C25,C330,D480</p>
                     <p><b>Note</b>: Swap D480 with D290 if you don't have/ don't want to buff D480</p>
                     <p><b>Note</b>: Swap A495 with A400 if high excav (~2500+ or so)</p>
+                    <p><b>Note</b>: Be carefull to stay under the coin cap (e308)</p>
 
 
                 </div>
