@@ -5,8 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6><br/> <br/>
-    <p><FONT color=DarkRed>No builds have been updated for the 3.5 patch and may or may not work, check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer builds, once builds have been tested and added to NaW this line will be removed.</font><p>
-    <p><b>All builds have been updated as of Nov, 24th 2017.</b></p><br/>
+    <p><b>Updated May 20th, 2019</b></p><br/>
     <p><b>Note</b>: Factions order is Elves→Dwelves(no researches)→Moonshine→Dwelves→Dwairies→Dwangels</p>
     <div class="shlisting">
         <p><b>R29-33</b></p>
@@ -100,47 +99,58 @@
         <p><b>R34-39</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"Dwelving Deeper"</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Fairyline Dwairy</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
-                    <p><b>Faction</b>: Elves/Dwarf</p>
-                    <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
-                    <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
+                    <p><b>Faction</b>: Fairy/Dwarf</p>
+                    <p><b>Bloodline</b>: Fairyline</p>
+                    <p><b>Range</b>: (?) - e138 (1 Qiqag) Gems</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A330,A400,A495,W10,W120,W150,W320,W330" id="Build">
+                    <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A150,A495,W150,W180,W290,W320,W330,S200,C330,C520" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A150,A330,A495,W10,W120,W150,W320,W330" id="Build"> A400 not unlocked
-                    <p>S105,S175,S200,S215,S330,</p>
-                    <p>C120,C150,C225,C330,C400,</p>
-                    <p>D55,D135,D245,D290,D320,</p>
-                    <p>E80,E150,E200,E330,E410,</p>
-                    <p>A105,A120,A330,A400,A495,</p>
-                    <p>W10,W120,W150,W320,W330</p>
-                    <p><b>Note</b>: After buying Dwarven Horn use also C135,C460,C590</p>
-                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
+                    <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A330,A495,W150,W180,W290,W320,W330,S200,C330,C520" id="Build"> A330 is higher
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A400,A495,W150,W180,W290,W320,W330,S200,C330,C520" id="Build"> A400 is higher
+                    <p>S135,S215,S330,S500,S590,</p>
+                    <p>C80,C120,C150,C400,C500,</p>
+                    <p>D55,D225,D245,D290,D320,</p>
+                    <p>E50,E135,E150,E330,E410,</p>
+                    <p>A30,A105,A120,A150,A495,</p>
+                    <p>W150,W180,W290,W320,W330</p>
+                    <p><b>Note</b>: After the horn buy S200,C330,C520 (Load build again)</p>
+                    <p><b>Note</b>: Swap A150 with A330 or A400 if higher</p>
+
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"Dwelving Deeper" (No Dwarven Horn)</a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">An Angelic Ascension</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
-                    <p><b>Faction</b>: Elves/Dwarf</p>
-                    <p><b>Bloodline</b>: Elf(Short runs) or Titan(Long Runs)</p>
+                    <p><b>Faction</b>: Angel/Dwarf</p>
+                    <p><b>Bloodline</b>: Druidline</p>
                     <p><b>Range</b>: 1e95 (100 Tg) gems - 1e132 (1 TQag) gems</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C330,C400,C590,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A330,A400,A495,W10,W120,W150,W320,W330" id="Build">
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545W120,W150,W180,W330,W400,C25,C330,D480" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C330,C400,C590,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A150,A330,A495,W10,W120,W150,W320,W330" id="Build"> A400 not unlocked
-                    <p>S105,S175,S200,S215,S330,</p>
-                    <p>C120,C150,C330,C400,C590,</p>
-                    <p>D55,D135,D245,D290,D320,</p>
-                    <p>E80,E150,E200,E330,E410,</p>
-                    <p>A105,A120,A330,A400,A495,</p>
-                    <p>W10,W120,W150,W320,W330</p>
-                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545W120,W150,W180,W330,W400,C25,C330,D290" id="Build"> D290
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A400,A545W120,W150,W180,W330,W400,C25,C330,D480" id="Build"> 2500+ Excavations
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A400,A545W120,W150,W180,W330,W400,C25,C330,D290" id="Build"> D290 and 2500+ Excavations
+                    <p>S135,S150,S215,S330,S500,</p>
+                    <p>C120,C150,C400,C500,C520,</p>
+                    <p>D1,D55,D320,D435,D590,</p>
+                    <p>E80,E135,E150,E330,E410,</p>
+                    <p>A105,A120,A150,A495,A545</p>
+                    <p>W120,W150,W180,W330,W400</p>
+                    <p><b>Note</b>: After the horn buy C25,C330,D480</p>
+                    <p><b>Note</b>: Swap D480 with D290 if you don't have/ don't want to buff D480</p>
+                    <p><b>Note</b>: Swap A495 with A400 if high excav (~2500+ or so)</p>
+
+
                 </div>
             </div>
-            <div class="shelementwhole">
+<!--            <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">"All is Fairy in Love and Dwarf"</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
@@ -795,7 +805,7 @@
                     <p><b>Economics</b>: : <u>30</u>, <b>135</b>, <u>145</u>, <b>250</b>, 400 [Dark Light of Bondelnar: <b>590</b>] [Optional <b>590</b> -> 225]
                     <p><b>Alchemy</b>: : <b>120</b>, <b>270</b>, 250, <b>400</b>, [Drow: 410] [Optional 250 -> <u>305</u> and 120 -> 150]
                     <p><b>Warfare</b>: : 25, 150, <b>205</b>, <b>520</b>, 525 [Dark Light of Bondelnar <u>400</u>, <b>135</b>]
-                    <p>Edited by Deworx (Added Post Ascension, improved the Build)</p>
+                    <p>Edited by Deworx (Added Post Ascension, improved the Build)</p>--!>
                 </div>
             </div>
         </div>

@@ -931,6 +931,9 @@
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
     <p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
+    <p><b>Effect</b>: Now adds Tax Collections casts based on its duration and current tier cast.</p>
+    <p><b>Formula</b>: (10 * x * T), where x is spell duration and T is spell tier</p>
+    <p><b>Formula</b>: sum formula is (x ^ (0.15 * T)), where x is spell duration and T is spell tier</p>
     <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
     <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
     <br/>
@@ -1000,8 +1003,8 @@
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
-<p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
-<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <br/>
                 <p><b>Proof of Chaos</b></p>

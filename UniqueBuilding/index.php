@@ -221,7 +221,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png"></b></p>
 <p>Upgraded Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses</p>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
+<p><b>Formula</b>: (80 * x ^ 0.8), where x is time spent as Order this R.</p>
 <p><b>Requirement</b>: Nexus Quest.</p>
 <hr>
 <p><b>Djinn</b></p>

@@ -100,19 +100,19 @@
 <p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf ) or Droblins (Goblin+Drow).See the <a href="http://musicfamily.org/realm/DwarfFaction">Dwarf</a> and <a href="http://musicfamily.org/realm/DrowFaction">Drow</a> pages for more details.</p>
 <p><b><a href="/realm/DwarfFaction">Dwarf</a></b></p>
 <p><a href="/realm/DwarfFaction"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png"></a></p>
-<p><b>Alignement: Good</b></p>
+<p><b>Alignment: Good</b></p>
 <p>Enhances the Good Vanilla Faction they are associated with.</p>
 <p><b>Cost</b> 3000 Dwarven Coins</p>
 <hr>
 <p><b><a href="/realm/DrowFaction">Drow</a></b></p>
 <p><a href="/realm/DrowFaction"><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png"></a></p>
-<p><b>Alignement: Evil</b></p>
+<p><b>Alignment: Evil</b></p>
 <p>Enhances the Evil Vanilla Faction they are associated with.</p>
 <p><b>Cost</b> 3000 Drow Coins</p>
 <hr>
 <p><b><a href="/realm/DragonFaction">Dragon</a></b></p>
 <p><a href="/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png"></a>
-<p><b>Alignement: Neutral</b></p>
+<p><b>Alignment: Neutral</b></p>
 <p>Enhances the Neutral Faction they are associated with.</p>
 <p><b>Requirement</b>: R46+, Proof of Neutrality</p>
 <p><b>Cost</b>: 5 B (5e9) Dwarven and Drow Coins</p>
@@ -128,21 +128,21 @@
 <hr>
 <p><b><a href="/realm/ArchonFaction">Archon</a></b></p>
 <p><a href="/realm/ArchonFaction"><img src="http://musicfamily.org/realm/Factions/picks/ArchonTradeTreaty.png"></a>
-<p><b>Alignement: Order</b></p>
+<p><b>Alignment: Order</b></p>
 <p>Increase your ability to boost your production immensely over long periods of time.</p>
 <p><b>Requirement</b>: R125+</p>
 <p><b>Cost</b>: 1 No (1e30) Angel and Undead Coins</p>
 <hr>
 <p><b><a href="/realm/DjinnFaction">Djinn</a></b></p>
 <p><a href="/realm/DjinnFaction"><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png"></a></p>
-<p><b>Alignement: Chaos</b></p>
+<p><b>Alignment: Chaos</b></p>
 <p>Granting you the ability to manipulate random outcomes to your advantage.</p>
 <p><b>Requirement</b>: R125+</p>
 <p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
 <hr>
 <p><b><a href="/realm/MakersFaction">Makers</a></b></p>
 <p><a href="/realm/MakersFaction"><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png"></a></p>
-<p><b>Alignement: Balance</b></p>
+<p><b>Alignment: Balance</b></p>
 <p>Increase your ability to dominate all your resources.</p>
 <p><b>Requirement</b>: R125+</p>
 <p><b>Cost</b>: 1 No (1e30) Elven and Goblin Coins</p>

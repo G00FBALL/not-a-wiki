@@ -13,8 +13,8 @@
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
-<p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
-<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
@@ -127,7 +127,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png"></b></p>
 <p>Upgraded Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses</p>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
+<p><b>Formula</b>: (80 * x ^ 0.8), where x is time spent as Order this R.</p>
 <p><b>Requirement</b>: Nexus Quest.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>

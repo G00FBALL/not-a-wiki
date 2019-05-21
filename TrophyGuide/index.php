@@ -815,7 +815,7 @@
             <td>10 Coins</p>A1+ Free</td>
             <td>Get 1 Oc (1e27) gems in the first game of a reincarnation.<p>Gems Needed: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)<p></td>
             <td>Increase base clicking reward by 1 T (1E12).</td>
-            <td>Can be done R34 (Dwary) and at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
+            <td>Possible at R30+ using Titan Bloodline and at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
         </tr>
         <tr>
             <td><center>No Recruiting</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
@@ -845,7 +845,7 @@
         <tr>
             <td><center>5000 Buildings</td>
             <td></td>
-            <td>Build 5000 of each building.</td>
+            <td>Build 5000 of each building.(5K series = 25 Trophies)</td>
             <td></td>
             <td>Much easier Post A.</td>
         </tr>

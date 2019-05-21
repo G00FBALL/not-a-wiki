@@ -296,7 +296,7 @@
 <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
 <p><b>Cost</b>: 10 Coins, A1+, Free</p>
 <p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)</p>
-<p><b>Note</b>: Possible at R33 in less than 1 hour with fairy and fairy bloodline.</p>
+<p><b>Note</b>: Possible at R30+ using Titan Bloodline.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
 <p><b>Requirement</b>: Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>
@@ -476,7 +476,13 @@ div#images div{
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"> MAD Masks</b></p>
 <p><b>Requirement</b>: R125+, Find all fragments of the Makers, Archon and Djinn masks.</p>
 <p><b>Effect</b>: Gives upgrade with same name.</p>
-<p><b>Upgrade Cost</b>: 1 SpQag (1.e144)</p>
-<p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
+<p><b>Upgrade Cost</b>: 1 SpQag (1e144)</p>
+<p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
 <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</b></p>
+<p><b>Requirement</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
+<p><b>Effect</b>: Gives upgrade with same name.</p>
+<p><b>Upgrade Cost</b>:  10 SpTg (1e115)</p>
+<p><b>Upgrade Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
+<p><b>Formula</b>: (214 + 0.03 * x  ^ 0.7), where x is time spent in last game.</p>
 <?php include "../scripts/footer.html"; ?>

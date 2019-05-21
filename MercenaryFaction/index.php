@@ -231,6 +231,9 @@
 <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.</p>
 <p><b>Formula</b>: (120 ^ (0.25 * t)), where t is tier (FC chance multiplier)</p>
 <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
+<p><b>Effect</b>: Now adds Tax Collections casts based on its duration and current tier cast.</p>
+<p><b>Formula</b>: (10 * x * T), where x is spell duration and T is spell tier</p>
+<p><b>Formula</b>: sum formula is (x ^ (0.15 * T)), where x is spell duration and T is spell tier</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="RI" align="middle"> <b>Evil</b></p>
 <p><b>Requirement</b>: Tyrant Garrison</p>

@@ -4,7 +4,104 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<p><b>V3.5 Date April 15, 2019</b></p>
+<p><b>3.5.2 May 14, 2019</b></p>
+<hr>
+<p><b>Artifact Sets</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairySet.png" align="middle"> Fairy Set</p></b>
+<p><b>Effect</b>: Increase Farm, Inn and Blacksmith production based on number of assistants owned.</p>
+<p><b>Old Formula</b>: (0.7 * x ^ 0.7), where x is number of assistants owned.</p>
+<p><b>New Formula</b>: (0.65*x^0.65), where x is number of assistants owned.</p>
+<br/>
+<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadSet.png align=middle><b> Undead Set</b></p>
+<p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
+<p><b>Old Formula</b>: (9 * ln(1 + x) ^3), where x is offline Multiplier.</p>
+<p><b>New Formula</b>: (6 * ln(1 + x) ^3), where x is offline Multiplier.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessSet.png" align="middle"> Faceless Set</p></b>
+<p><b>Effect</b>: Gain assistants based on the highest amount of assistants you had in a previous game.(additively)</p>
+<p><b>Old Formula</b>: (2.5 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
+<p><b>New Formula</b>: (2 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenSet.png" align="middle"> Dwarven Set</p></b>
+<p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
+<p><b>Old Formula</b>: (2.25 * x ^ 0.75), where x is Royal Exchange bonus.</p>
+<p><b>New Formula</b>: (2 * x ^ 0.7), where x is Royal Exchange bonus.</p>
+<hr>
+<p><b>Faction Upgrades</b></p>
+<p><b>Undead</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude (UD12)</b></p>
+<p><b>Effect</b>: Increase base production of Undercity by +10000, and then increase this effect based on time spent in this Reincarnation.</p>
+<p><b>Old Formula</b>: (10000 + 1.3 * x ^ 1.3), where x is time spent this Reincarnation.</p>
+<p><b>New Formula</b>: (10000 + x ^ 1.05), where x is time spent in this Reincarnation.</p>
+<br/>
+<p><b>Druid</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle (DD11)</b></p>
+<p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
+<p><b>Old Online Formula</b>: (50 * x ^ 0.95), where x is time spent online in this game.</p>
+<p><b>New Online Formula</b>: (50 * x ^ 0.85), where x is time spent online in this game.</p>
+<p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
+<p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
+<br/>
+<p><b>Dwarf</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" alt="Smiley face" align="middle"> Overwatch (DN9)</b></p>
+<p><b>Old Effect</b>: Your production is increased by 600% so long as there are mouse movements. Clicking and casting are not considered as movements.</p>
+<p><b>Old Effect</b>: This bonus falls off by 1% per second, down to 0 while inactive.</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
+<p><b>Formula</b>: (500 + 35 * x ^ 0.35), where x is the duration of your longest spell.</p>
+<br/>
+<p><b>Drow</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" alt="Smiley face" align="middle"> Underworld Tyranny (DW1)</b></p>
+<p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
+<p><b>Old Formula</b>: (x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
+<p><b>New Formula</b>: (0.7 * x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" alt="Smiley face" align="middle"> Mana Addicts (DW4)</b></p>
+<p><b>Effect</b>: Mana regeneration increases over time.</p>
+<p><b>Old Formula</b>: (2.5 + 0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
+<p><b>New Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
+<br/>
+<p><b>Djinn</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True (DJ10)</b></p>
+<p><b>Requirements</b>: Djinn Union</p>
+<p><b>Cost</b>: 1 QiQig (1e168) </p>
+<p><b>Old Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
+<p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on Limited Wish activity time in this Reincarnation.</p>
+<p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
+
+<hr>
+<p><b>Spells</b></p>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
+<p><b>Old Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
+<p><b>Old Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>New Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+<p><b>New Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
+<br/>
+<p><b>Mercenary</b>: Tax Collection</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Mercenary Good Alignment</b></p>
+<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
+<p><b>Formula</b>: (120 ^ (0.25 * t)), where t is tier (FC chance multiplier)</p>
+<p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
+<p><b>New Effect added in 3.5</b>: Now adds Tax Collections casts based on its duration and current tier cast.</p>
+<p><b>New Formula</b>: (10 * x * T), where x is spell duration and T is spell tier</p>
+<p><b>New Formula</b>: sum formula is (x ^ (0.15 * T)), where x is spell duration and T is spell tier</p>
+<hr>
+<p><b>Unique Buildings</b></p>
+<p><b>Archon</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png"></b></p>
+<p><b>Old Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
+<p><b>New Formula</b>: (80 * x ^ 0.8), where x is time spent as Order this R.</p>
+<hr>
+<p><b>E1225</b> - <b>For</b> Neutral,Dragon - <b>Research Name</b>: Hoarding</p>
+<p><b>Old Formula</b>: Remove 1 Ascension penalty from Royal Exchange bonus, but reduce their overall production by 90%.</p>
+<p><b>New Effect</b>: Removes 1 Ascension penalty for Royal Exchanges.</p>
+
+
+<div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.5 April 15, 2019</a></b></p>
+        <div class="autohide">
+<p><b>V3.5 April 15, 2019</b></p>
 <p><b>Bloodlines</b>: Now auto unlocked (No longer require 100 upgrades to unlock).</p>
 <p><b>Currently Bugged</b>: Requires 100 Faction Upgrades purchased. (any 1 faction).</p>
 <br/>
@@ -369,7 +466,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"> Drow Lineage</p></b>
 <p><b>Old Effect</b>: Increase offline production bonus by a multiplicative 75% for every level.</p>
 <p><b>New Effect</b>: Increase offline production bonus based on Lineage level. Does not suffer from Ascension penalties.</p>
-<p><b>Formula</b>: (150 * L ^ 2.25), where x is Lineage level.</p>
+<p><b>Formula</b>: (150 * L ^ 2.25), where L is Lineage level.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" align="middle"> Drow Perk 3</p></b>
 <p><b>Old Effect</b>: Increase offline production by 10.0% for every 500 Unique Building.</p>
@@ -1034,47 +1131,9 @@
 <p><b>Old Formula</b>: (0.15 * x ^ 0.8), where x is assistants.</p>
 <p><b>New Formula</b>: (0.2 * x ^ 0.7), where x is assistants.</p>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr>
-<div class="shlisting">
+    </div>
+   </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.3 Dec 19, 2018</a></b></p>
         <div class="autohide">

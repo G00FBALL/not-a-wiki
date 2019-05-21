@@ -337,7 +337,7 @@
 <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
 <p><b>Cost Pre A</b>: 10 Coins</p>
 <p><b>Cost Post A</b>: Free</p>
-<p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)<p>Possible at R33 in less than 1 hour with fairy and fairy bloodline.</p>
+<p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)<p>Possible at R30 using Titan Bloodline.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
 <p><b>Requirement</b>:  Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>
@@ -519,8 +519,8 @@ div#images div{
 <p><img src=http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png align=middle><b> MAD Masks</b></p>
 <p><b>Requirement</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
 <p><b>Cost</b>: 1 SpQag (1.e144)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in a single Reincarnation.</p>
-<p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
+<p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</p></b>
 <p><b>Requirements</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
@@ -1767,8 +1767,8 @@ div#images div{
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirements</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
-<p><b>Effect</b>: A fraction of Precognition activity time in this Reincarnation is added to time spent in this game.</p>
-<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Precognition activity time in this Reincarnation.</p>
+<p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
 <p><b>Requirements</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>

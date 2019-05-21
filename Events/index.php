@@ -6,12 +6,12 @@
     <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
     <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
-    <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" research="Time in UTC">UTC Time</a></p>
+    <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" research="Universal Time Coordinated">UTC Time</a></p>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
     <p><b>Event has started</b></p>
     <p id="start">
     <!--<script>
-      var countDownDate1 = new Date("April 18, 2019 13:01:00 UTC").getTime();
+      var countDownDate1 = new Date("May 17, 2019 12:01:00 UTC").getTime();
       var x = setInterval(function() {
           var now = new Date().getTime();
           var distance = countDownDate1 - now;
@@ -23,14 +23,13 @@
           + minutes + "m " + seconds + "s ";
           if (distance < 0) {
               clearInterval(x);
-              document.getElementById("end").innerHTML = "Started";
           }
           }, 1000);
       </script></p>--!>
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("April 25, 2019 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("May 21, 2019 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -53,7 +52,7 @@ var x = setInterval(function() {
         <tr>
             <th>Rubies</th>
             <th colspan="1">Event</th>
-            <th colspan="5">Total Cumulative Bonus 217%</th>
+            <th colspan="5">Total Cumulative Bonus 225%</th>
         </tr>
         </thead>
         <tbody>
@@ -92,12 +91,14 @@ var x = setInterval(function() {
             <td>&#10004;</td>
             <td>&#10004;</td>
             <td>&#10004;</td>
+            <td>&#10004;</td>
         </tr>
         <tr>
             <td>0</td>
             <td>Anniversary</td>
             <td></td>
             <td></td>
+            <td>8%</td>
             <td>8%</td>
             <td>8%</td>
         </tr>
@@ -141,6 +142,7 @@ var x = setInterval(function() {
             <td></td>
             <td></td>
             <td>&#10004;</td>
+            <td></td>
         </tr>
         </tbody>
         <tr>
@@ -156,7 +158,7 @@ var x = setInterval(function() {
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/realm/Factions/picks/TotalEventEaster2019.png" usemap="#TotalEventEaster2019-map">
+    <p><img src="/realm/Factions/picks/TotalEventBW2019.png" usemap="#TotalEventEaster2019-map">
     <map name="TotalEventEaster2019-map">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,45,63,100" shape="rect">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="67,45,126,100" shape="rect">
@@ -191,10 +193,11 @@ var x = setInterval(function() {
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/Indifference2018.png align=middle> Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="133,301,190,358" shape="rect">
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png align=middle>iddle;> Seraphim Champion<p>Type: Feat, 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,301,253,358" shape="rect">
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/AsmondeanChampion2017.png align=middle> Asmodean Champion<p>Type: Feat, 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="259,302,317,358" shape="rect">
-    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="324,300,382,359" shape="rect">
-    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,301,446,359" shape="rect">
-    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,365,62,423" shape="rect">
-    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.Goblin Invasion<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="69,366,126,424" shape="rect">
+    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/WorldRestoration.png align=middle> World Restoration<p>Type: Feat<p>Requirements: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Note: This Feat is not needed to unlock new mana color" coords="325,301,383,359" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="389,301,448,359" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="5,367,62,425" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="69,368,125,423" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.Goblin Invasion<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,366,190,424" shape="rect">
     </map></p>
     <hr>
 
@@ -257,6 +260,134 @@ div#images div{
     <div class="shlisting">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2019 Events</a></b></p>
         <div class="category autohide">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">4th Anniversary - Blood Wars (May 17 - May 21, 2019)</a></b></p>
+            <div class="autohide">
+                <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
+                <p><b>Cost</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Holy Symbols and Lava Stones collected.</p>
+                <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                <br/>
+
+<style>
+  div#images{
+  width:100%;
+  text-align:left;
+}
+div#images div{
+  display:inline-block;
+}
+</style>
+<div id="images">
+  <div><center>
+<p><b>Event Resources</b></p>
+  <p><img src="/realm/Factions/picks/HolySymbolCurrency.png" width="36%" height="36%" />
+    <center><b>Holy Symbols</b></center>
+  </div>
+  <div>
+                <br/>
+  <p><img src="/realm/Factions/picks/LavaStoneCurrency.png" width="68%" height="68%" />
+    <center><b>Lava Stones</b></center>
+  </div>
+</div>
+                <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 480 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
+                <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
+                <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                <hr>
+                <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
+                <p><b>Cost</b>: 200 Holy Symbols
+                <p><b>Description</b>: The highest Angelic ranks carry wings blazing with pure light, whose every feather is infused with enough magical power to revive a dead soul or purify the hearts of a thousand sinners. Affiliating with the Seraphim will increase your magical abilities to the extreme, but you can only do so when playing as Good or Neutral.</p>
+                <br/>
+                <p><b>Seraphim Quest</b></p>
+                <p><b>Seraphim Champion 1</b></p>
+                <p><b><img src="/realm/Factions/picks/HeavenlyFeathers2017.png" alt="Heavenly Feathers" align="middle"> Heavenly Feathers</b></p>
+                <p><b>Cost</b>: 400 Holy Symbols.
+                <p><b>Effect</b>: All buildings also increase your mana regeneration.</p>
+                <p><b>Formula</b>: 2 * x ^ 0.2</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                <br/>
+                <p><b>Seraphim Champion 2</b></p>
+                <p><b><img src="/realm/Factions/picks/God'sChamber2017.png" alt="God's Chamber" align="middle"> God's Chamber</b></p>
+                <p><b>Cost</b>: 750 Holy Symbols.</p>
+                <p><b>Effect</b>: Increase maximum mana by 1 for every 10 buildings you own.</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                <br/>
+                <p><b>Seraphim Champion 3</b></p>
+                <p><b><img src="/realm/Factions/picks/BoonofRadiance2017.png" alt="Boon of Radiance" align="middle"> Boon of Radiance</b></p>
+                <p><b>Cost</b>: 1000 Holy Symbols.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
+                <p><b>Formula</b>: 0.2 * (x * 30) ^ 0.85</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.</p>
+                <p><b>Effect</b>: Also completes Seraphim Champion Feat.</p>
+                <hr>
+                <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
+                <p><b>Cost</b>: 200 Lava Stones</p>
+                <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                <br/>
+                <p><b>Asmodean Quest</b></p>
+                <p><b>Asmodean Champion 1</b></p>
+                <p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>
+                <p><b>Cost</b>: 400 Lava Stones</p>
+                <p><b>Effect</b>: Gain additional assistants based on time spent affiliated with the Asmodeans.</p>
+                <p><b>Formula</b>: 0.25 * x * (x + 1) where x is hours
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                <br/>
+                <p><b>Asmodean Champion 2</b></p>
+                <p><b><img src="/realm/Factions/picks/AbyssalGaze2017.png" alt="Abyssal Gaze" align="middle"> Abyssal Gaze</b></p>
+                <p><b>Cost</b>: 750 Lava Stones</p>
+                <p><b>Effect</b>: Increase assistant production based on total time spent as Evil.</p>
+                <p><b>Formula</b>: 2 x ^ 0.7 where x is seconds of total evil time</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                <br/>
+                <p><b>Asmodean Champion 3</b></p>
+                <p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
+                <p><b>Cost</b>: 1000 Lava Stones</p>
+                <p><b>Effect</b>: Increase offline production bonus based on the amount of assistants you own.</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
+                <p><b>Effect</b>: Also completes Asmodean Champion Feat</p>
+                <hr>
+                <p><b>Event Feats</b></p>
+                <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                <p><b><img src="/realm/Factions/picks/SeraphimChampion2017.png" alt="Seraphim Champion" align="middle"> Seraphim Champion</b></p>
+                <p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/AsmondeanChampion2017.png" alt="Asmodean Champion" align="middle"> Asmodean Champion</b></p>
+                <p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones while affiliated with the Demons</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones or Holy Symbols while affiliated with a Neutral faction</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration</b></p>
+                <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
+                <p><b>Cost</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
+                <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5) where x is your least used alignment</p>
+                <hr>
+                <p><b>Shop Item</b></p>
+                <p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 40 Holy Symbols and Lava Stones for 5 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/150HolySymbolsandLavaStones2017.png" alt="150 Holy Symbols and Lava Stones" align="middle"> 150 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 150 Holy Symbols and Lava Stones for 15 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/650HolySymbolsandLavaStones2017.png" alt="650 Holy Symbols and Lava Stones" align="middle"> 650 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 650 Holy Symbols and Lava Stones for 45 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/1800HolySymbolsandLavaStones2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 1800 Holy Symbols and Lava Stones</b></p>
+                <p>A hooded shady merchant wants to sell you 1800 Holy Symbols and Lava Stones for 100 Rubies.</p>
+                <p>These are all the resources he could gather.</p>
+                <hr>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 18 - April 25, 2019)</a></b></p>
             <div class="autohide">
@@ -425,6 +556,47 @@ div#images div{
                 <p><b>Kind</b>: Shop Item</p>
                 <p><b>Unlock / Price</b>: 100 Rubies</p>
                 <p><b>Note</b>: The Easter Bunny wants to sell you 7000 eggs for 100 rubies. These are all the eggs he could gather.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2019)</a></b></p>
+            <div class="autohide">
+                <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1 Coin</p>
+                <p><b>Effect & Notes</b>: Increase the production of all buildings by 1E6%.</p>
+                <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades</p>
+                <p><b>Note</b>: All the upgrades does nothing</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Aprilfools1.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1 Coin</p>
+                <p><b>Effect & Notes</b>: Increase the production of all buildings by 1E6%.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Aprilfools2.png" alt="Smiley face" align="middle"> Enhanced Production Activator</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1 Coin</p>
+                <p><b>Effect & Notes</b>: Activates the upgrade you just bought.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Aprilfools3.png" alt="Smiley face" align="middle"> Enhanced Production Fix</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 1 Coin
+                <p><b>Effect & Notes</b>: Fixes a bug in the Activator that prevented the upgrade from working correctly
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Aprilfools4.png" alt="Smiley face" align="middle"> Enhanced Production Complaint</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1 Coin</p>
+                <p><b>Effect & Notes</b>: Complain about about the upgrade not working yet, even after the fix.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Aprilfools5.png" alt="Smiley face" align="middle"> Enhanced Production Report</b></p>
+                <p><b>Kind</b>: Upgrade</p>
+                <p><b>Unlock / Price</b>: 1 Coin</p>
+                <p><b>Effect & Notes</b>: Report the bug to the Powers That Be and hope it gets fixed before the event is over.</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Aprilfools6.png" alt="Smiley face" align="middle"> Enhanced Production Fooled</b></p>
+                <p><b>Kind</b>: Upgrade
+                <p><b>Unlock / Price</b>: 1 Coin</p>
+                <p><b>Effect & Notes</b>: The Enhanced Production timer is over! We hope you enjoyed your huge production bonus and hopefully didn't get too greedy. Happy April Fools' Day!</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -1135,6 +1307,7 @@ div#images div{
                 <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                 <p><b>Cost</b>: 200 Lava Stones</p>
                 <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                <br/>
                 <p><b>Asmodean Quest</b></p>
                 <p><b>Asmodean Champion 1</b></p>
                 <p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>
@@ -1997,6 +2170,7 @@ div#images div{
                 <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                 <p><b>Cost</b>: 200 Lava Stones</p>
                 <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                <br/>
                 <p><b>Asmodean Quest</b></p>
                 <p><b>Asmodean Champion 1</b></p>
                 <p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>

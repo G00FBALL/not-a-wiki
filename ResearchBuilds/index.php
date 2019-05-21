@@ -5,7 +5,7 @@
     <!--<style>table{border-collapse:collapse;}th,td{border: 1px solid #000000;}tr:hover {background-color: #ffffff}</style>-->
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Builds Updated Oct. 12 2017</b>
+    <p><b>Builds Updated May 19th 2019</b>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.
     <p>All of the builds up to R24 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
     <p>Vanilla Flavor Juice is mandatory.
@@ -304,10 +304,10 @@
                     <p><b>Range</b>: e84-e111
                     <p><b>Duration</b>: 15min - 4h+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D320,D350,D400,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C375,C400,
-                    <p>D55,D245,D320,D350,D400,
+                    <p>D55,D245,D290,D320,D350,
                     <p>E135,E150,E200,E275,E330,
                     <p>A105,A120,A150,A250,A330,
                     <p>W150,W180,W290,W320,W330,W400
@@ -324,10 +324,10 @@
                     <p><b>Range</b>: e84-e111
                     <p><b>Duration</b>: 15min - 2h+
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D320,D350,D400,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C375,C400,
-                    <p>D55,D245,D320,D350,D400,
+                    <p>D55,D245,D290,D320,D350,
                     <p>E135,E150,E275,E330,E400,
                     <p>A105,A120,A150,A330,A400,
                     <p>W150,W180,W290,W320,W330,W400

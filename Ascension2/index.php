@@ -111,7 +111,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase base production of Undercity by +10000, and then increase this effect based on time spent in this Reincarnation.</p>
-<p><b>Formula</b>: (10000 + 1.3 * x ^ 1.3), where x is time spent this Reincarnation.</p>
+<p><b>Formula</b>: (10000 + x ^ 1.05), where x is time spent in this Reincarnation.</p>
 <p><b>Note</b>: Also effects Flesh Workshops.</p>
 <br/>
 <p><b>Neutral - Titans</b></p>
@@ -453,7 +453,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
-<p><b>Online Formula</b>: (50 * x ^ 0.95), where x is time spent online in this game.</p>
+<p><b>Online Formula</b>: (50 * x ^ 0.85), where x is time spent online in this game.</p>
 <p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
 <p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
 <br/>

@@ -82,6 +82,7 @@
 <p><b>NU (Build Name)</b>:Builds that do not target Unique Buildings</p>
 <p><b>RNG</b>: Random Number Generator</p>
 <p><b>Merc or Mercs</b>: Mercenary</p>
+<p><b>AH</b>: Advance Heritage</p>
 <hr>
 <h6>Bloodlines</h6>
 <p><b>Faction Name +line</b>: Faction names may be shortened</p>
@@ -97,6 +98,9 @@
 <p><b>Dwarfline</b>: Dwarf Bloodline</p>
 <p><b>Drowline</b>: Drow Bloodline</p>
 <p><b>Dragonline</b>: Dragon Bloodline</p>
+<p><b>Archonline</b>: Archon Bloodline</p>
+<p><b>Djinnline</b>: Djinn Bloodline</p>
+<p><b>Makerline</b>: Makers Bloodline</p>
 <hr>
 <h6>Research Facilities</h6>
 <p><b>Short and long names</b></p>
