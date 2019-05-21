@@ -103,7 +103,7 @@
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="FR9,EL1,EL3,EL4,AN5,GB7,DD6,FC7,DW2,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build"> e88+
+                      <input type="text" value="FR9,EL1,EL3,EL4,AN5,GB7,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build"> e88+
                     <p>FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,
                     <p>SP:Fairy Chanting,SP:Dragon's Breath,
                     <p>S215,S305,S400,S500,S1450,S1500,
@@ -112,7 +112,12 @@
                     <p>E135,E275,E320,E460,E590,E1425,
                     <p>A105,A120,A305,A545,A1325,A1500,
                     <p>W150,W180,W250,W275,W400,W1375
-                    <p><b>Notes</b>: If unlock at higher gems (e88+): swap out DD6 for EL4
+                    <p><b>Notes</b>: Swap DD6 to EL4 if at e88 (10 OcVg) gems or higher.
+                    <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
+                    <p><b>Build has three stages</b>:
+                    <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
+                    <p><b>2</b>: Get Lineage and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.
+                    <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.
             </div>
         </div>
     </div>
