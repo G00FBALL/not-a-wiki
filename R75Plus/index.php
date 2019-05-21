@@ -187,7 +187,6 @@
                 <p><b>Range</b>: 1e88 (10 Ocvg) Gems
                 <p><b>Faction</b>: Good Mercenary
                 <p><b>Bloodline</b>: Dragon
-                <p><b>A2950</b>: Elf
                 <p><b>13th Upgrade</b>: AN2
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,AN5,GB1,TT6,DD6,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Fairy Chanting,S215,S305,S330,S1275,S1450,S1500,C120,C150,C340,C400,C590,C1300,D25,D275,D290,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A150,A175,A495,A1500,W25,W180,W275,W400,W1375,W1400" id="Build">
