@@ -307,7 +307,7 @@
                 <p>A120,A175,A410,A545,A1500,A2950,
                 <p>W180,W275,W400,W1400,W3050,W3150
                 <p><b>Notes</b>: Max buying Goblin Banks is recommended
-                <p><b>Notes</b>: Estimated 10 minutes to S3200
+                <p><b>Notes</b>: Estimated time 10 minutes for S3200
             </div>
         </div>
     </div>
