@@ -1093,6 +1093,12 @@
             <td>Multiply Faction Coin find chance by x5 for automatic clicks only.</td>
             <td>Possible to earn earlier by lagging game.</td>
         </tr>
+        <tr>
+            <td><center>Genealogist</p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png"></td>
+            <td>1 NoQig (1e180)</p>A2+ Free</td>
+            <td>Have a total of 300 Lineage levels across all Lineage.</td>
+            <td>Increase the production of all buildings based on the total amount of lineage levels you have.</p>Formula: 2.5 * x ^ 1.35</td>
+        </tr>
    </table>
 <br/>
       <a id="TrophiesR2130"></a>
@@ -1144,12 +1150,6 @@
             <td>1 DSpg (1e219)</p>A2+ Free</td>
             <td>Discover all the Mercenary researches.</td>
             <td>Increase the production of all buildings based on research done.</p>Formula</b>: 0.3 * x ^ 0.7, where x is total of research done.</td>
-        </tr>
-        <tr>
-            <td><center>Genealogist</p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png"></td>
-            <td>1 NoQig (1e180)</p>A2+ Free</td>
-            <td>Have a total of 300 Lineage levels across all Lineage.</td>
-            <td>Increase the production of all buildings based on the total amount of lineage levels you have.</p>Formula: 2.5 * x ^ 1.25</td>
         </tr>
    </table>
       </div>

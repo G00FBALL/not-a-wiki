@@ -15,43 +15,48 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (0-e33)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Siku modified by Necrodoom
-                <p><b>Requirements</b>: Elf Lineage level 25+
+                <p><b>Author</b>: Wlerin
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) gems
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Elf
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C135,C150,C250,C330,C340,C400,C460,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D290,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
                 <p>S105,S200,S215,S270,S330,S500,
-                <p>C135,C150,C250,C330,C340,C400,C460,
+                <p>C150,C250,C330,C340,C400,C460,C500,
                 <p>D55,D150,D200,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Requires excavations to set up for Elf Lineage.
+                <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+)
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Faceless (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless(e30)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom
-                <p><b>Requirements</b>: Elf Lineage level 30+
-                <p><b>Range</b>: 1e30 (1 No) - 1e68 (100 UVg) gems
+                <p><b>Author</b>: TemperGrace
+                <p><b>Range</b>: 1e30 (1 No) Gems - ?
                 <p><b>Faction</b>: Faceless/Dragon
-                <p><b>Bloodline</b>: Elf
+                <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S250,S270,S305,S330,S1450,S1500,C250,C330,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A250,A305,A400,W150,W180,W275,W400,W1375,W1400" id="Build">
-                <p>S215,S250,S270,S305,S330,S1450,S1500,
-                <p>C250,C330,C340,C400,C1300,C1325,
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
+                <p>S135,S215,S270,S305,S330,S1450,S1500,
+                <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D260,D290,D320,D1125,D1275,D1375,
                 <p>E135,E145,E350,E460,E1225,E1425,
-                <p>A105,A120,A150,A250,A305,A400,
-                <p>W150,W180,W275,W400,W1375,W1400
-                <p><b>Notes</b>: Requires excavations to set up for Elf Lineage.
+                <p>A105,A120,A150,A305,A330,A400,
+                <p>W150,W180,W275,W290,W400,W1375
+                <p><b>Notes</b>: Excavating for DB5 is recommended.
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
+                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems - 1e87 (1 OcVg) gems, based on Night Time tiers).
+            </div>
         </div>
-     </div>
+    <br/>
       <div class="shelementwhole">
           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor Mk7 (low tiers variation) (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
           <div class="autohide">
