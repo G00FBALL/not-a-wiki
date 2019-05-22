@@ -290,22 +290,24 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tax Season (S3200 Unlock) R81+<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare
+                <p><b>Author</b>: Lapare modified by Cyden
                 <p><b>Faction</b>: Evil Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Druid
-                <p><b>13th Upgrade</b>: DM4
+                <p><b>13th Upgrade</b>: UD7
                 <p><b>Range</b>: (?)
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Night Time,S50,S305,S330,S400,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D245,D1275,D1375,D2775,E10,E135,E145,E1225,E1325,E3250,A10,A120,A410,A545,A1500,A2950,W180,W275,W400,W525,W3050,W3150" id="Build">
-                <p>EL3,EL7,AN2,AN5,UD7,TT6,DD6,DN2,DN8,DG3,DG4,DG9,
+                  <input type="text" value="EL3,EL7,AN2,AN5,AN9,TT6,DD6,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Night Time,S50,S215,S305,S400,S1450,S1500,C340,C400,C590,C1300,C3000,C3100,D25,D200,D290,D1275,D1375,D2775,E10,E135,E1225,E1325,E3250,E3300,A120,A175,A410,A545,A1500,A2950,W180,W275,W400,W1400,W3050,W3150" id="Build">
+                <p>EL3,EL7,AN2,AN5,AN9,TT6,DD6,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Night Time,
                 <p>S50,S305,S330,S400,S1450,S1500,
-                <p>C250,C340,C400,C590,C1300,C3000,
-                <p>D25,D200,D245,D1275,D1375,D2775,
-                <p>E10,E135,E145,E1225,E1325,E3250,
-                <p>A10,A120,A410,A545,A1500,A2950,
-                <p>W180,W275,W400,W525,W3050,W3150
+                <p>C340,C400,C590,C1300,C3000,C3100,
+                <p>D25,D200,D290,D1275,D1375,D2775,
+                <p>E10,E135,E1225,E1325,E3250,E3300,
+                <p>A120,A175,A410,A545,A1500,A2950,
+                <p>W180,W275,W400,W1400,W3050,W3150
+                <p><b>Notes</b>: Max buying Goblin Banks is recommended
+                <p><b>Notes</b>: Estimated 10 minutes to S3200
             </div>
         </div>
     </div>
