@@ -141,7 +141,7 @@
                     <p>C120,C150,C400,C500,C520,</p>
                     <p>D1,D55,D320,D435,D590,</p>
                     <p>E80,E135,E150,E330,E410,</p>
-                    <p>A105,A120,A150,A495,A545</p>
+                    <p>A105,A120,A150,A495,A545,</p>
                     <p>W120,W150,W180,W330,W400</p>
                     <p><b>Note</b>: After the horn buy C25,C330,D480</p>
                     <p><b>Note</b>: Swap D480 with D290 if you don't have/ don't want to buff D480</p>
