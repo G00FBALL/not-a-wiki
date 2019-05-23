@@ -81,13 +81,13 @@
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact Set</b>: Faceless
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C300,C340,D275,D1375,E260,E1325,A250,A251,A375,W350,W1375">
-                    <p>S3200,
-                    <p>C300,C340,
-                    <p>D275,D1375,
-                    <p>E260,E1325,
-                    <p>A250,A251,A375,
-                    <p>W350,W1375
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E1325,A250,W10,W1375">
+                    <p>S175,S3200,
+                    <p>C1,C225,C400,
+                    <p>D50,D1375,
+                    <p>E25,E1325,
+                    <p>A250,
+                    <p>W10,W1375
          </div>
     </div>
         <div class="shelementwhole">
