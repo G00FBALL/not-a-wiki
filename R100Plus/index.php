@@ -11,6 +11,9 @@
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
+    <p><b>These Builds are not optimal and can be improved, they will do the job for now until better builds can be made.</b></p>
+    <p><b>Elf builds, manually clicks will help with production.</b></p>
+    <p><FONT Check <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder"><b>RG forum</b></a> on kongregate for newer/better builds<p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Starter (R100-R110)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -113,7 +116,7 @@
             <div class="autohide">
                     <p><b>Author</b>: Blargplean
                     <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
-                    <p><b>Faction</b>: Druid
+                    <p><b>Faction</b>: Elf
                     <p><b>Bloodline</b>: Druid
                     <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
