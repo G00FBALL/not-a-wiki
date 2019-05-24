@@ -59,7 +59,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Cyden
                 <p><b>Requirements</b>: Undead Lineage level 5+
-                <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
+                <p><b>Range</b>: 0 - 1e28 (10 Oc) Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -176,8 +176,8 @@
                 <p><b>Notes</b>: Recommended spamming clicks or staying offline for 10 minutes or so for buffing C135 and C460.
                 <p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.
                 <p><b>Notes</b>: Estimated run time at 4-5 hours disregarding benefitial sunforce effects.
-         </div>
-    </div>
+            </div>
         </div>
-       </div>
+    </div>
+</div>
 <?php include "../scripts/footer.html"; ?>

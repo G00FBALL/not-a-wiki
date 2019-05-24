@@ -248,6 +248,8 @@
                 <p>E135,E320,E1225,E1425,E3250,E3300,
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W275,W400,W1375,W1400,W3050,W3150
-  </div>
+            </div>
+        </div>
+    </div>
 </div>
 <?php include "../scripts/footer.html"; ?>

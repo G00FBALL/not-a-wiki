@@ -33,7 +33,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless(e30)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
                 <p><b>Range</b>: 1e27 (1 Oc) gems - 1e88 (10 OcVg) gems
@@ -132,7 +132,7 @@
                 <p><b>Faction</b>: Neutral Mercenary
                 <p><b>Bloodline</b>: Elf First then other 11
                 <p><b>A2950</b>: Dragon
-                <p><b>Range</b>: 1e87 (10 OcVg) gems - 1e96 (1 UTg) gems
+                <p><b>Range</b>: 1e88 (10 OcVg) gems - 1e96 (1 UTg) gems
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD3,DD6,FC7,DG4,DG7,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D1275,D1375,E135,E320,E350,E590,E1225,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W275,W400,W1375,W1400" id="Build">ElfLine
                   <p><button onclick="myFunction($(this))">Copy Build</button>
