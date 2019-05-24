@@ -15,36 +15,35 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (0-1e33)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Wlerin
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) gems
+                <p><b>Author</b>: Cyden
+                <p><b>Range</b>: 0 - 1e27 (1 Oc) gems
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Druid
+                <p><b>Bloodline</b>: Demon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D290,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C120,C150,C250,C330,C340,C400,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
                 <p>S105,S200,S215,S270,S330,S500,
-                <p>C150,C250,C330,C340,C400,C460,C500,
+                <p>C120,C150,C250,C330,C340,C400,C500,
                 <p>D55,D150,D200,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+)
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless(1e30+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
-                <p><b>Range</b>: 1e30 (1 No) Gems - ?
+                <p><b>Range</b>: 1e27 (1 Oc) gems - 1e88 (10 OcVg) gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e68 (100 UVg) gems+
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,S3200,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W400,W1375,W3150" id="Build"> 1e84 (1 SpVg) gems+
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D260,D290,D320,D1125,D1275,D1375,
@@ -52,13 +51,13 @@
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 is recommended.
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
-                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems - 1e87 (1 OcVg) gems, based on Night Time tiers).
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).
+                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems+).
             </div>
         </div>
         <br/>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor Mk7 (low tiers variation) (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor Mk7 (low tiers variation)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Range</b>: e68 (100 Uvg) - e84 (1 Spvg) Gems
@@ -79,7 +78,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor Mk7 (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thor Mk7<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Range</b>: e68 (100 Uvg) - e120 (1 Notg) Gems
@@ -99,7 +98,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Armageddon (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Armageddon<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden
                 <p><b>Range</b>: e116 (100 Sptg) - e124 (10 Qag) Gems
@@ -167,7 +166,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Eldritch Primal (GB +10) (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Eldritch Primal (GB +10)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Range</b>: ? Gems
@@ -191,12 +190,12 @@
     <p><b>Lineage 35-37 Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Embargo of the Underworld (R90-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Embargo of the Underworld<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
                 <p><b>Range</b>: ? Gems
                 <p><b>Faction</b>: Neutral Mercenary
-                <p><b>Bloodline</b>: Drow First
+                <p><b>Bloodline</b>: Any (Drow First)
                 <p><b>A2950</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL1,EL7,AN5,GB7,DD3,DD4,DD6,FC2,FC7,DN2,DG4,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S400,S1450,S1500,S3200,C250,C340,C400,C590,C1300,C3000,D25,D200,D275,D290,D1275,D2775,E135,E320,E1225,E1425,E3250,E3300,A120,A305,A1200,A1500,A2950,A3400,W275,W400,W1375,W1400,W3050,W3150" id="Build">

@@ -14,20 +14,21 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R60-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R61-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Wlerin
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Author</b>: Cyden
+                <p><b>Requirements</b>: Undead Lineage level 5+
+                <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Druid
+                <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S270,S330,S500,C150,C250,C330,C340,C400,C460,D55,D150,D200,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W120,W150,W180,W260,W330,W400" id="Build">
-                <p>S105,S200,S270,S330,S500,
-                <p>C150,C250,C330,C340,C400,C460,
-                <p>D55,D150,D200,D290,D320,
+                  <input type="text" value="S105,S215,S270,S330,S500,C120,C150,C250,C330,C340,C400,D55,D150,D250,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W120,W150,W180,W260,W320,W400" id="Build">
+                <p>S105,S215,S270,S330,S500,
+                <p>C120,C150,C250,C330,C340,C400,
+                <p>D55,D150,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
-                <p>W120,W150,W180,W260,W330,W400
+                <p>W120,W150,W180,W260,W320,W400
          </div>
     </div>
         <div class="shelementwhole">
@@ -35,7 +36,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Shophaune
                 <p><b>Requirements</b>: Undead Lineage level 5+
-                <p><b>Range</b>: 1e30 (1 No) - 1e80 (100 QiVg) Gems
+                <p><b>Range</b>: 1e27 (1 Oc) - 1e80 (100 QiVg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -49,35 +50,33 @@
                 <p>A105,A120,A150,A305,A400,
                 <p>W150,W180,W275,W400,W1375
                 <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).
          </div>
     </div>
 <p></p>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Wlerin
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Author</b>: Cyden
+                <p><b>Requirements</b>: Undead Lineage level 5+
+                <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Druid
+                <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D290,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
                 <p>S105,S200,S215,S270,S330,S500,
-                <p>C150,C250,C330,C340,C400,C460,C500,
+                <p>C120,C150,C250,C330,C340,C400,C500,
                 <p>D55,D150,D200,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+)
          </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
-                <p><b>Range</b>: 1e30 (1 No) - 1e90 (1 NoVg) Gems
+                <p><b>Range</b>: 1e28 (10 Oc) - 1e88 (10 OcVg) Gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -91,7 +90,7 @@
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 (Dragon's Breath 5) is recommended.
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).
          </div>
     </div>
          </div>
