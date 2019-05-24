@@ -15,36 +15,36 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titans (R75-R82)(0-e33)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Wlerin
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) gems
+                <p><b>Author</b>: Cyden
+                <p><b>Requirements</b>: Demon Lineage level 25+
+                <p><b>Range</b>: 0 - 1e27 (1 Oc) gems
                 <p><b>Faction</b>: Titan/Dragon
-                <p><b>Bloodline</b>: Druid
+                <p><b>Bloodline</b>: Demon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D290,D320,D350,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"> D350 is higher
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C120,C150,C250,C330,C340,C400,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build">
                 <p>S105,S200,S215,S270,S330,S500,
-                <p>C150,C250,C330,C340,C400,C460,C500,
+                <p>C120,C150,C250,C330,C340,C400,C500,
                 <p>D55,D150,D200,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
-                <p><b>Notes</b>: Replace D250 with D350 if higher (e9 (1 B) gems+)
          </div>
     </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless(e30)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: TemperGrace
-                <p><b>Range</b>: 1e30 (1 No) gems - 1e90(1 NoVg) gems / 1e92 (100 NoVg) gems (with UL20)
+                <p><b>Range</b>: 1e27 (1 Oc) gems - 1e88 (10 OcVg) gems
                 <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e74 (100 TVg) gems+
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e68 (100 UVg) gems+
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,S3200,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W400,W1375,W3150" id="Build"> 1e84 (1 SpVg) gems+
                 <p>S135,S215,S270,S305,S330,S1450,S1500,
                 <p>C150,C250,C340,C400,C1300,C1325,
                 <p>D55,D260,D290,D320,D1125,D1275,D1375,
@@ -52,8 +52,8 @@
                 <p>A105,A120,A150,A305,A330,A400,
                 <p>W150,W180,W275,W290,W400,W1375
                 <p><b>Notes</b>: Excavating for DB5 is recommended.
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).
-                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems - 1e87 (1 OcVg) gems, based on Night Time tiers).
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).
+                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems+).
             </div>
         </div>
     </div>
@@ -85,12 +85,12 @@
                     <p><b>Author</b>: Tskami_ek
                     <p><b>Faction</b>: Neutral Mercenary
                     <p><b>Bloodline</b>: Goblin
-                    <p><b>Range</b>: 1e89 (100 OcVg) gems
+                    <p><b>Range</b>: 1e87 (1 OcVg) gems
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,SP:Fairy Chanting,SP:God's Hand" id="Build">
                     <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,
                     <p>SP:Fairy Chanting,SP:God's Hand
-                    <p><b>Notes</b>: Estimated time 30 minutes for unlock.
+                    <p><b>Notes</b>: Estimated time 5 minutes for unlock.
         </div>
     </div>
         <div class="shelementwhole">
