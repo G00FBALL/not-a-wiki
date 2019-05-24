@@ -130,13 +130,13 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e138 (1 Qiqag) gems - 1e144 (1 Spqag) gems</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545W120,W150,W180,W330,W400,C25,C330,D480" id="Build">
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545,W120,W150,W180,W330,W400,C25,C330,D480" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545W120,W150,W180,W330,W400,C25,C330,D290" id="Build"> D290
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A495,A545,W120,W150,W180,W330,W400,C25,C330,D290" id="Build"> D290
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A400,A545W120,W150,W180,W330,W400,C25,C330,D480" id="Build"> 2500+ Excavations
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A400,A545,W120,W150,W180,W330,W400,C25,C330,D480" id="Build"> 2500+ Excavations
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A400,A545W120,W150,W180,W330,W400,C25,C330,D290" id="Build"> D290 and 2500+ Excavations
+                    <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D1,D55,D320,D435,D590,E80,E135,E150,E330,E410,A105,A120,A150,A400,A545,W120,W150,W180,W330,W400,C25,C330,D290" id="Build"> D290 and 2500+ Excavations
                     <p>S135,S150,S215,S330,S500,</p>
                     <p>C120,C150,C400,C500,C520,</p>
                     <p>D1,D55,D320,D435,D590,</p>
