@@ -1006,6 +1006,7 @@
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
+<p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
 <br/>
                 <p><b>Proof of Chaos</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="" align="middle"></p>
