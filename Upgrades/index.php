@@ -2292,6 +2292,24 @@ div#images div{
             <p><b>Effect </b>: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins per cast</p>
             <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.</p>
             <hr>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
+            <p><b>Requirement</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+            <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+            <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
+            <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
+            <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
+            <hr>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
+            <p><b>Requirement</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
+            <p><b>Effect</b>: Adds 150 casts to Limited wish formula.</p>
+            <p><b>Cost</b>: 10 Octg (1e118)</p>
+            <hr>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
+            <p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
+            <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
+            <p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
+            <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
+            <hr>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Building Upgrades</a></b></p>
         <div class="autohide">
