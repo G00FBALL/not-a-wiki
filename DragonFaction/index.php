@@ -59,7 +59,7 @@
 <p><b>Cost</b>: 1.0e70, 1b (1e9) FC</p>
 <p><b>Effect</b>: Grows Dragon into Elder Dragon</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> ElderDragon</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> Elder Dragon</b></p>
 <p><b>Description</b>: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.</p>
 <p><b>Requirement</b>: Dragon, 12 hours since purchasing the previous stage, 50000 Max Mana</p>
 <p><b>Cost</b>: 1.0e73, 10b (1e10) of each FC</p>
