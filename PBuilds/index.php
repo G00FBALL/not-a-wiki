@@ -73,7 +73,7 @@
                     <p>E50,E135,E150,E330,E410,</p>
                     <p>A105,A120,A330,A400,A495,</p>
                     <p>W150,W180,W290,W320,W330,</p>
-                    <p><b>Note</b>: Use the template of the previous R of you don't have S500
+                    <p><b>Note</b>: Use the template of the previous R of you don't have S500</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S1,C330,C520</p>
                     <p><b>Note</b>: For maximising excavations E50→E290</p>
                     <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A150</p>
