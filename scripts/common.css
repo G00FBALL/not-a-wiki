@@ -445,7 +445,7 @@ h7 {
 }
 
 .calc table, #ReiCosCal table, #SSCal table {
-    width: 90%;
+    width: 98%;
     border-collapse: collapse;
 }
 
@@ -461,6 +461,7 @@ h7 {
 }
 
 .calc input, #ReiCosCal input, #SSCal input {
+  width: 90%;
     text-align: center;
     background-color: #b3bcc6;
 }
