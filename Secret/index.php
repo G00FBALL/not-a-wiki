@@ -174,7 +174,7 @@
 <p><b>Note</b>: This can be done at R3.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p>
-<p><b>Requirement</b>: Unlock all Bloodlines. (excluding the Dragon bloodline)</p>
+<p><b>Requirement</b>: Buy 100 upgrades from each of the first 11 Factions (A0 Factions) across all Rs.</p>
 <p><b>Cost</b>: 1 Tg (1e93), A1, Free</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the time spent with the Bloodline's Faction. When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.</p>
 <p><b>Formula</b>: 0.1*x0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.</p>
