@@ -15,13 +15,13 @@
         <table>
             <tbody><tr><th colspan="8">Ruby Excavation Count and Cost</th></tr>
             <tr>
-                <th style="width: 7.5%">Ruby</th>
-                <th style="width: 7.5%">E290</th>
-                <th style="width: 7.5%">Easter</th>
-                <th style="width: 12.5%">Maker</th>
-                <th style="width: 15%">Ascension</th>
-                <th style="width: 15%">Excavation</th>
-                <th style="width: 17.5%">Coins</th>
+                <th>Ruby</th>
+                <th>E290</th>
+                <th>Easter</th>
+                <th>Maker</th>
+                <th>Ascension</th>
+                <th>Excavation</th>
+                <th>Coins</th>
                 <th>Gems</th>
             </tr>
             <tr>
