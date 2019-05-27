@@ -15,7 +15,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden
                 <p><b>Requirements</b>: Demon Lineage level 25+
@@ -30,6 +30,7 @@
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: Excavate to get 400 Royal Exchanges for lineage.
          </div>
     </div>
         <div class="shelementwhole">
