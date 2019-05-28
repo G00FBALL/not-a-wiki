@@ -15,7 +15,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden
                 <p><b>Requirements</b>: Demon Lineage level 25+
@@ -30,6 +30,7 @@
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: Excavate to get 400 Royal Exchanges for lineage.
          </div>
     </div>
         <div class="shelementwhole">
@@ -331,7 +332,7 @@
                 <p>E135,E320,E1225,E1425,E3250,E3300,
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W275,W400,W1375,W1400,W3050,W3150
-                <p><b>Notes</b>: Only GB10 is needed, get GB11 for maximizing prod
+                <p><b>Notes</b>: Only GB10 (Grand Balance targeting 10 buildings) is needed, get GB11 for maximizing prod
                 <p><b>Notes</b>: Estimated 35 minutes for GB10 and 1 hour for GB11
 
             </div>

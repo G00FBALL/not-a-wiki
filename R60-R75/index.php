@@ -14,10 +14,10 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R61-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Titan Starter (R61-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden
-                <p><b>Requirements</b>: Undead Lineage level 5+
+                <p><b>Requirements</b>: DC4, Undead Lineage level 5+
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Undead
@@ -29,10 +29,11 @@
                 <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
                 <p>W120,W150,W180,W260,W320,W400
+                <p><b>Notes</b>: Excavate to get 400 Royal Exchanges for lineage.
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R60-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R61-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Shophaune
                 <p><b>Requirements</b>: Undead Lineage level 5+
@@ -55,7 +56,7 @@
     </div>
 <p></p>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Titan Starter (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden
                 <p><b>Requirements</b>: Undead Lineage level 5+
@@ -70,6 +71,7 @@
                 <p>E135,E145,E275,E320,E330,E400,
                 <p>A105,A120,A250,A305,A330,A400,
                 <p>W120,W150,W180,W260,W320,W330,W400
+                <p><b>Notes</b>: Excavate to get 400 Royal Exchanges for lineage.
          </div>
     </div>
         <div class="shelementwhole">
