@@ -5,7 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6><br/> <br/>
-    <p><b>Updated May 20th, 2019</b></p><br/>
+    <p><b>Updated May 28th, 2019</b></p><br/>
     <p><b>Note</b>: Factions order is Angels→Dwangels(no researches)→Dwairies(no researches)→Dwairies→Dwangels</p>
     <div class="shlisting">
         <p><b>R29-33</b></p>
@@ -18,16 +18,19 @@
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Range</b>: 1e113 (100 SxTg) gems - ?</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A330,A400,W150,W180,W290,W320,W330" id="Build">
+                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A30,A105,A120,A330,A400,W150,W180,W290,W320,W330" id="Build"> For Max Excavation
+                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330" id="Build"> For Max Excavation
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build"> A400 not unlocked
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
                     <p>D55,D225,D245,D290,D320,</p>
                     <p>E50,E135,E150,E330,E410,</p>
-                    <p>A30,A105,A120,A330,A400,</p>
+                    <p>A105,A120,A150,A330,A400,</p>
                     <p>W150,W180,W290,W320,W330</p>
-                    <p><b>Note</b>: For maximising excavations E50→E290</p>
+                    <p><b>Note</b>: For maximizing excavations E50→E290</p>
+                    <p><b>Note</b>: If you don't have A400(requires 2 days as Druids) A400→A30</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -36,7 +39,7 @@
                     <p><b>Author</b>: Lapare</p>
                     <p><b>Faction</b>: Fairy/Dwarf</p>
                     <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Range</b>: 1e113 (100 SxTg) gems - ?</p>
+                    <p><b>Range</b>: 1e66 (1 Uvg) gems - ?</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -92,9 +95,7 @@
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build"> A150 is lower
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A330,A495,W150,W180,W290,W320,W330" id="Build"> A400 is lower
+                    <input type="text" value="S135,S215,S330,S500,S590,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build"> A330
                     <p>S135,S215,S330,S500,S590,</p>
                     <p>C80,C120,C150,C400,C500,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -102,7 +103,7 @@
                     <p>A105,A120,A150,A400,A495,</p>
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S200,C330,C520</p>
-                    <p><b>Note</b>: Replace A150/A400 (whichever is lower) with A330 if stronger</p>
+                    <p><b>Note</b>: Swap A150 with A330 if stronger</p>
 
                 </div>
             </div>
