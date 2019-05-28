@@ -332,7 +332,7 @@
                 <p>E135,E320,E1225,E1425,E3250,E3300,
                 <p>A120,A305,A1200,A1500,A2950,A3400,
                 <p>W275,W400,W1375,W1400,W3050,W3150
-                <p><b>Notes</b>: Only GB10 is needed, get GB11 for maximizing prod
+                <p><b>Notes</b>: Only GB10 (Grand Balance targeting 10 buildings) is needed, get GB11 for maximizing prod
                 <p><b>Notes</b>: Estimated 35 minutes for GB10 and 1 hour for GB11
 
             </div>
