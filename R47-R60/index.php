@@ -18,24 +18,27 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 0 - 1e27 (1 Dc) Gems
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S150,S270,S330,S500,C150,C250,C330,C340,C375,C400,D55,D150,D250,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400" id="Build">                 
+                  <input type="text" value="S105,S150,S270,S330,S500,C150,C250,C330,C340,C375,C400,D55,D150,D250,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S150,S215,S330,S500,C150,C250,C330,C340,C375,C400,D55,D150,D250,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400" id="Build"> 1e28 (10 Oc) Gems+
                 <p>S105,S150,S270,S330,S500,
                 <p>C150,C250,C330,C340,C375,C400,
                 <p>D55,D150,D250,D290,D320,
                 <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W290,W320,W330,W400
+                <p><b>Notes</b>: 1e28 (10 Oc) gems+ swap S270 with S215 (for SS2)
             </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Dragtans (R47-R48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 1e27 (1 Dc) - ? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -53,7 +56,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R49-60)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Wlerin
-                <p><b>Range</b>: 0 - 1e27 (1 Dc) Gems
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -70,7 +73,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R49)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e27 (1 Dc) - ? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -88,7 +91,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R50)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e27 (1 Dc) - ? Gems
+                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
