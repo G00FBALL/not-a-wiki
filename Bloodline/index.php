@@ -86,6 +86,5 @@
 <p><b>Requirements</b>: R130+</p>
 <p><b>Effect</b>: Increase your Set power based on faction coins collected this game.</p>
 <p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5), where x is coins collected this game.</p>
-<p><b>Note</b> Includes Dwarf 5.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
