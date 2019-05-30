@@ -32,7 +32,7 @@
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W290,W320,W330,W400
                 <p><b>Notes</b>: 1e28 (10 Oc) gems+ swap S270 with S215 (for SS2)            
-                <p>At R47 and R48 use Wyrm Dragtans build at e27 (1 Oc) gems instead.
+                <p><b>Notes</b>: At R47 and R48 use Wyrm Dragtans build at e27 (1 Oc) gems instead.
 </div>
           </div>
         <div class="shelementwhole">
