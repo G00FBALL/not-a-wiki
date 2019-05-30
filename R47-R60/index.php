@@ -18,7 +18,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems
+                <p><b>Range</b>:  0-1e33 (1 Dc) Gems (R46) /  0-1e27 (1 Oc) Gems (R47-R48)
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -32,7 +32,7 @@
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W290,W320,W330,W400
                 <p><b>Notes</b>: 1e28 (10 Oc) gems+ swap S270 with S215 (for SS2)            
-                <p><b>Notes</b>: At R47 and R48 use Wyrm Dragtans build at e27 (1 Oc) gems instead.
+               
 </div>
           </div>
         <div class="shelementwhole">
@@ -113,7 +113,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R51)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
+                <p><b>Range</b>: 1e27 (1 Oc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -136,7 +136,7 @@
                 <p><b>Author</b>: Lapare
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
-                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
+                <p><b>Range</b>: 1e27 (1 Oc) - ? Gems
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -155,7 +155,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R53-R54)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Range</b>: 1e33 (1 Dc) - ? Gems
+                <p><b>Range</b>: 1e27 (1 Oc) - ? Gems
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
