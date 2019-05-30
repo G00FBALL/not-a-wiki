@@ -289,19 +289,19 @@
     <div id="SSCal" class="calculator">
         <table>
             <tr>
-                <th style="width:100px; height: 35px" rowspan="2">Reincarnation</th>
+                <th style="width:100px; height: 68px" rowspan="2">Reincarnation</th>
                 <th style="width:55px" class="SSCalTieHid" rowspan="2">Tier</th>
-                <th style="width:55px" class="SSCalDDLinHid" rowspan="2">Active Druid Lineage Level</th>
+                <th style="width:80px" class="SSCalDDLinHid" rowspan="2">Active Druid Lineage Level</th>
                 <th style="width:55px" class="SSCalDra" title="Prismatic Breath" rowspan="2">PB</th>
                 <th colspan="2">Production bonus</th>
-                <th style="width:120px" class="ResUnl" rowspan="2">D1375 production bonus</th>
+                <th style="width:100px" class="ResUnl" rowspan="2">D1375 production bonus</th>
             </tr>
             <tr class="ResUnl">
                 <th>without D1375</th>
                 <th>with D1375</th>
             </tr>
             <tr>
-                <td><input id="SSCalRei" type="number" min="14" max="157" value="14"></td>
+                <td><input id="SSCalRei" type="number" min="14" max="159" value="14"></td>
                 <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
                 <td class="SSCalDDLinHid"><input id="SSCalDDLin" type="number" min="0" value="0"></td>
                 <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
@@ -871,7 +871,7 @@
     <hr>
     <p><b><center>Ascension 1</center></p></b>
     <p><b><center>Alignment Spells</center></p></b>
-    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragons Breath</b> (Dragon)</p>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon)</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)</p>
     <p><b>Name</b>: Dragon's Breath</p>
@@ -924,14 +924,14 @@
     </div>
 <br/>
     <p><b>Mercenary</b>: Tax Collection</p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Mercenary Good Alignment)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Good Mercenaries)</p>
     <p><b>Requirement</b>: Mercenary Camp</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
     <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
     <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Mercenary Evil Alignment)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenaries)</p>
     <p><b>Requirement</b>: Tyrant Garrison</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
@@ -942,7 +942,7 @@
     <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
     <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Appraisal Vantage</b> (Mercenary Neutral Alignment)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Appraisal Vantage</b> (Neutral Mercenaries)</p>
     <p><b>Requirement</b>: Freemason's Hall</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Generates additional Faction Coins per cast</p>
@@ -981,7 +981,7 @@
                 <p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins
                 <p><b>FC Cost</b>: 1 Oc (1e27) Fairy, Demon, Dwarven and Drow Coins.</p>
        <br/>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"> <b>All Creation</b> (Proof Of Balance) </p
+                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"> <b>All Creation</b> (Proof Of Balance) </p>
                 <p><b>Requirement</b>: Ascension 2</p>
                 <p><b>Cost</b>: 6000 Mana</p>
                 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
@@ -996,7 +996,7 @@
                 <p><b>FC Cost</b>: 1 Oc (1e27) Elven, Goblin, Dwarven and Drow Coins.</p>
        <hr>
     <p><b><center>Ascension 2</center></b></p>
-    <p><b><center>Third Alignment Spells</center></b></p>
+    <p><b><center>Elite Faction Spells</center></b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation" align="middle"> <b>Precognition</b> (Archons)</p>
 <p><b>Cost</b>: 123456 mana</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
@@ -1011,9 +1011,9 @@
 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinns)</p>
 <p><b>Cost</b>: 888888 mana</p>
-<p><b>Effect</b>: Provide a random effect based on your chosen alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
+<p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b>
-<p><b>Good</b></p>
+<p><b>Good</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Assistants</p>
 <p><b>3</b>: All spells durations count more</p>
