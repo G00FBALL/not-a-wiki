@@ -461,6 +461,7 @@ h7 {
 }
 
 .calc input, #ReiCosCal input, #SSCal input {
+  width: 90%;
     text-align: center;
     background-color: #b3bcc6;
 }

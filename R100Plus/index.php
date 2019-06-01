@@ -46,9 +46,9 @@
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact Set</b>: Angel (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C300,C400,D275,D1375,E260,E1325,A120,A251,A375,W350,W1375" id="Build"> With Plantary Force
+                      <input type="text" value="S3200,C300,C400,D275,D1375,E260,E1325,A120,A251,A375,W350,W1375" id="Build"> With Planetary Force
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S3200,C300,C400,D275,D1375,E260,E1325,A400,A251,A375,W350,W1375" id="Build"> Without Plantary Force
+                      <input type="text" value="S3200,C300,C400,D275,D1375,E260,E1325,A400,A251,A375,W350,W1375" id="Build"> Without Planetary Force
                     <p>S3200,
                     <p>C300,C400,
                     <p>D275,D1375,

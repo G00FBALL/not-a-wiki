@@ -15,14 +15,14 @@
         <table>
             <tbody><tr><th colspan="8">Ruby Excavation Count and Cost</th></tr>
             <tr>
-                <th style="width: 7.5%">Ruby</th>
-                <th style="width: 7.5%">E290</th>
-                <th style="width: 7.5%">Easter</th>
+                <th style="width: 10%">Ruby</th>
+                <th style="width: 8%">E290</th>
+                <th style="width: 7%">Easter</th>
                 <th style="width: 12.5%">Maker</th>
                 <th style="width: 15%">Ascension</th>
                 <th style="width: 15%">Excavation</th>
-                <th style="width: 17.5%">Coins</th>
-                <th>Gems</th>
+                <th style="width: 15%">Coins</th>
+                <th style="width: 15%">Gems</th>
             </tr>
             <tr>
                 <td><input id="rub" type="number" min="1" max="99" value="1"></td>

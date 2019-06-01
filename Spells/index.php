@@ -289,37 +289,42 @@
     <div id="SSCal" class="calculator">
         <table>
             <tr>
-                <th style="width:100px; height: 35px" rowspan="2">Reincarnation</th>
+                <th style="width:100px; height: 68px" rowspan="2">Reincarnation</th>
                 <th style="width:55px" class="SSCalTieHid" rowspan="2">Tier</th>
+                <th style="width:80px" class="SSCalDDLinHid" rowspan="2">Active Druid Lineage Level</th>
                 <th style="width:55px" class="SSCalDra" title="Prismatic Breath" rowspan="2">PB</th>
                 <th colspan="2">Production bonus</th>
-                <th style="width:120px" class="ResUnl" rowspan="2">D245 production bonus</th>
+                <th style="width:100px" class="ResUnl" rowspan="2">D1375 production bonus</th>
             </tr>
             <tr class="ResUnl">
-                <th>without D245</th>
-                <th>with D245</th>
+                <th>without D1375</th>
+                <th>with D1375</th>
             </tr>
             <tr>
-                <td><input id="SSCalRei" type="number" min="14" max="157" value="14"></td>
+                <td><input id="SSCalRei" type="number" min="14" max="159" value="14"></td>
                 <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
+                <td class="SSCalDDLinHid"><input id="SSCalDDLin" type="number" min="0" value="0"></td>
                 <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
-                <td id="SSCalProNoD245"></td>
-                <td id="SSCalProD245" class="ResUnl"></td>
-                <td id="SSCalD245" class="ResUnl"></td>
+                <td id="SSCalProNoD1375"></td>
+                <td id="SSCalProD1375" class="ResUnl"></td>
+                <td id="SSCalD1375" class="ResUnl"></td>
             </tr>
         </table>
         <script>
             function CalSSHidSho(r) {
-                $('.ResUnl, .SSCalTieHid, .SSCalDra').css('display', 'none');
+                $('.ResUnl, .SSCalTieHid, .SSCalDDLinHid, .SSCalDra ').css('display', 'none');
                 $('#SSCal th').removeAttr('rowspan colspan');
-                if (r >= 22) {
-                    $('#SSCal tr:eq(0) > th:eq(3)').attr('colspan', '2');
-                    $('#SSCal tr:eq(0) > th:not(:eq(3))').attr('rowspan', '2');
+                if (r >= 52) {
+                    $('#SSCal tr:eq(0) > th:eq(4)').attr('colspan', '2');
+                    $('#SSCal tr:eq(0) > th:not(:eq(4))').attr('rowspan', '2');
                     $('th.ResUnl, td.ResUnl').css('display', 'table-cell');
                     $('tr.ResUnl').css('display', 'table-row');
                 }
                 if (r >= 40) {
                     $('.SSCalTieHid').css('display', 'table-cell');
+                }
+                if (r >= 60) {
+                    $('.SSCalDDLinHid').css('display', 'table-cell');
                 }
                 if (r >= 63) {
                     $('.SSCalDra').css('display', 'table-cell');
@@ -329,23 +334,16 @@
             /**
              * @return {number}
              * @param rei
-             * @param [d245]
+             * @param [D1375]
              * @param [dp]
              * @param [tier]
              */
-            function CalSSMul(rei, d245 = false, tier = 1, dp = false) {
-                var reinc = (d245) ? rei * 2 : rei;
-                reinc = (dp) ? reinc * 2 : reinc;
-                var base = 10000 * 1.05**reinc;
-                if (rei < 40)
-                {
-                    base = (base/100+1);
-                }
-                else if (40 <= rei && rei < 100) {
-                    base = (base**1.5/100+1)**(0.1*tier);
-                } else if (100 <= rei) {
-                    base =  (base**2/100+1)**(0.01*Math.min(tier, 6) + 0.2*Math.max(tier-6, 0));
-                }
+            function CalSSMul(rei, D1375 = false, tier = 1, druidLevel = 0, dp = false) {
+                var ascension = (rei >= 40) + (rei >= 100);
+                rei = rei + 2 * druidLevel;
+                rei = (dp) ? rei * 2 : rei;
+                var base = (2500 * rei ** 1.05) ** (1 + (1 + 0.5 * D1375) * ascension * 0.5);
+                base = (base/100 + 1)**((0.1 ** ascension)*Math.min(tier,6) + 0.2*Math.max(tier-6, 0));
                 return base;
             }
 
@@ -360,35 +358,42 @@
                 var rei = parseInt($('#SSCalRei').val()),
                     tie = 1,
                     dp = $('#SSCalPB').is(':checked'),
-                    ProNoD245 = 0,
-                    ProD245 = 0;
+                    ProNoD1375 = 0,
+                    ProD1375 = 0,
+                    DruidLevel = 0;
                 CalSSHidSho(rei);
-                if (rei < 22) {
-                    ProNoD245 = CalSSMul(rei);
-                } else if (rei < 40) {
-                    ProNoD245 = CalSSMul(rei);
-                    ProD245 = CalSSMul(rei, true);
+                if (rei < 40) {
+                    ProNoD1375 = CalSSMul(rei);
+              } else if (rei < 52) {
+                    tie = parseInt($('#SSCalTie').val());
+                    ProNoD1375 = CalSSMul(rei, false, tie);
+                } else if (rei < 60) {
+                    tie = parseInt($('#SSCalTie').val());
+                    ProNoD1375 = CalSSMul(rei, false, tie);
+                    ProD1375 = CalSSMul(rei, true, tie);
                 } else if (rei < 63) {
                     tie = parseInt($('#SSCalTie').val());
-                    ProNoD245 = CalSSMul(rei, false, tie);
-                    ProD245 = CalSSMul(rei, true, tie);
+                    DruidLevel = parseInt($('#SSCalDDLin').val());
+                    ProNoD1375 = CalSSMul(rei, false, tie, DruidLevel);
+                    ProD1375 = CalSSMul(rei, true, tie, DruidLevel);
                 } else {
                     tie = parseInt($('#SSCalTie').val());
-                    ProNoD245 = CalSSMul(rei, false, tie, dp);
-                    ProD245 = CalSSMul(rei, true, tie, dp);
+                    DruidLevel = parseInt($('#SSCalDDLin').val());
+                    ProNoD1375 = CalSSMul(rei, false, tie, DruidLevel, dp);
+                    ProD1375 = CalSSMul(rei, true, tie, DruidLevel, dp);
                 }
                 if (rei < 100 && tie > 6) {
-                    $('#SSCalProNoD245').text('N/A');
-                    $('#SSCalProD245').text('N/A');
-                    $('#SSCalD245').text('N/A');
+                    $('#SSCalProNoD1375').text('N/A');
+                    $('#SSCalProD1375').text('N/A');
+                    $('#SSCalD1375').text('N/A');
                 } else {
-                    $('#SSCalProNoD245').text(MulToBon(ProNoD245) + '%');
-                    $('#SSCalProD245').text(MulToBon(ProD245) + '%');
-                    $('#SSCalD245').text(MulToBon(ProD245 / ProNoD245) + '%');
+                    $('#SSCalProNoD1375').text(MulToBon(ProNoD1375) + '%');
+                    $('#SSCalProD1375').text(MulToBon(ProD1375) + '%');
+                    $('#SSCalD1375').text(MulToBon(ProD1375 / ProNoD1375) + '%');
                 }
             }
             CalSS();
-            $('#SSCalRei, #SSCalTie').on('input', CalSS);
+            $('#SSCalRei, #SSCalTie, #SSCalDDLin').on('input', CalSS);
             $('#SSCalPB').on('change', CalSS);
         </script>
     </div>
@@ -866,7 +871,7 @@
     <hr>
     <p><b><center>Ascension 1</center></p></b>
     <p><b><center>Alignment Spells</center></p></b>
-    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragons Breath</b> (Dragon)</p>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon)</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
     <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)</p>
     <p><b>Name</b>: Dragon's Breath</p>
@@ -919,14 +924,14 @@
     </div>
 <br/>
     <p><b>Mercenary</b>: Tax Collection</p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Mercenary Good Alignment</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Good Mercenaries)</p>
     <p><b>Requirement</b>: Mercenary Camp</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
     <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
     <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Mercenary Evil Alignment</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenaries)</p>
     <p><b>Requirement</b>: Tyrant Garrison</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
@@ -937,7 +942,7 @@
     <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
     <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Mercenary Neutral Alignment</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Appraisal Vantage</b> (Neutral Mercenaries)</p>
     <p><b>Requirement</b>: Freemason's Hall</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Generates additional Faction Coins per cast</p>
@@ -945,8 +950,7 @@
        <hr>
     <p><b><center>Ascension 2</center></b></p>
     <p><b><center>Secondary Alignment Spells</center></b></p>
-                <p><b>Proof of Order</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxSpell.png" alt="Temporal Flux" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxSpell.png" alt="Temporal Flux" align="middle"> <b>Temporal Flux</b> (Proof of Order)</p>
                 <p><b>Requirement</b>: Ascension 2</p>
                 <p><b>Cost</b>: 5000 Mana</p>
                 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
@@ -960,8 +964,7 @@
                 <p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins
                 <p><b>FC Cost</b>: 1 Oc (1e27) Angel, Undead, Dwarven and Drow Coins.</p>
        <br/>
-                <p><b>Proof of Chaos</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b> (Proof of Chaos)</p>
                 <p><b>Requirement</b>: Ascension 2</p>
                 <p><b>Cost</b>: 3500 Mana</p>
                 <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
@@ -978,8 +981,7 @@
                 <p><b>Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins
                 <p><b>FC Cost</b>: 1 Oc (1e27) Fairy, Demon, Dwarven and Drow Coins.</p>
        <br/>
-                <p><b>Proof of Balance</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"> <b>All Creation</b> (Proof Of Balance) </p>
                 <p><b>Requirement</b>: Ascension 2</p>
                 <p><b>Cost</b>: 6000 Mana</p>
                 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
@@ -994,9 +996,8 @@
                 <p><b>FC Cost</b>: 1 Oc (1e27) Elven, Goblin, Dwarven and Drow Coins.</p>
        <hr>
     <p><b><center>Ascension 2</center></b></p>
-    <p><b><center>Third Alignment Spells</center></b></p>
-                <p><b>Proof of Order</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation"></p>
+    <p><b><center>Elite Faction Spells</center></b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation" align="middle"> <b>Precognition</b> (Archons)</p>
 <p><b>Cost</b>: 123456 mana</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
 <p><b>Formula</b>: (1.3 * ln(1 + x) ^ 1.7), where x is mana produced in this game.</p>
@@ -1008,22 +1009,21 @@
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
 <br/>
-                <p><b>Proof of Chaos</b></p>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="" align="middle"></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinns)</p>
 <p><b>Cost</b>: 888888 mana</p>
-<p><b>Effect</b>: Provide a random effect based on your chosen alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
+<p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b>
-<p><b>Fairy</b></p>
+<p><b>Good</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Assistants</p>
 <p><b>3</b>: All spells durations count more</p>
 <p><b>4</b>: Increase Mana Regeneration</p>
-<p><b>Demon</b>: </p>
+<p><b>Evil</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: Increase Trophy count and Offline Bonus</p>
 <p><b>3</b>: Increase Mana Regeneration</p>
 <p><b>4</b>: Increase Faction Coin find chance.</p>
-<p><b>Faceless</b>: </p>
+<p><b>Neutral</b>: </p>
 <p><b>1</b>: Increase the production of all buildings</p>
 <p><b>2</b>: All spells durations count more</p>
 <p><b>3</b>: Increase Faction Coin find chance</p>
@@ -1035,8 +1035,7 @@
 <p><b>Effect</b>: Adds 150 casts to Limited wish formula.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <br/>
-<p><b>Proof of Balance</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"> <b>Infinite Spiral</b> (Makers)</p>
 <p><b>Cost</b>: 505000 mana</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
 <p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
@@ -1053,11 +1052,12 @@
 <p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <hr>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png"></p></b>
+<p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"> <b>Catalyst</b> (Djinn Bloodline)</p>
+<p><b>Cost</b>: 500000 mana</p>
+<p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b>
-<p><b>1</b>. Spell comes with tier bonus.
-<p><b>2</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
-<p><b>3</b>. Cannot cast a spell that is already active
-<p><b>4</b>. The Spell Pool is 8 for Neutral factions (No Gem Grinder), 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
+<p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
+<p><b>2</b>. Cannot cast a spell that is already active.
+<p><b>3</b>. The Spell Pool is 8 for Neutral factions (No Gem Grinder), 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <?php include "../scripts/footer.html"; ?>
