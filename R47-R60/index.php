@@ -18,7 +18,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom
-                <p><b>Range</b>:  0-1e33 (1 Dc) Gems (R46) /  0-1e27 (1 Oc) Gems (R47-R48)
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems (R46) /  0-1e27 (1 Oc) Gems (R47-R48)
                 <p><b>Faction</b>: Titan/Dragon
                 <p><b>Bloodline</b>: Druid
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -31,10 +31,9 @@
                 <p>E135,E145,E275,E320,E330,
                 <p>A105,A120,A250,A305,A400,
                 <p>W150,W180,W290,W320,W330,W400
-                <p><b>Notes</b>: 1e28 (10 Oc) gems+ swap S270 with S215 (for SS2)            
-               
-</div>
-          </div>
+                <p><b>Notes</b>: 1e28 (10 Oc) gems+ swap S270 with S215 (for SS2)                    
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Dragtans (R47-R48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
