@@ -49,6 +49,60 @@
             </div>
         </div>
     </div>
+    <div id="ReiCosCal" class="calculator">
+        <table>
+            <tr>
+                <th style="width : 72px"> Lineage level
+                <th style="width : 75px"> Heirloom Active
+                <th style="width : 75px"> Hourglass Active
+                <th class="HourglassRelated"> Reincarnation
+                <th style="width: 90px" class="HourglassRelated"> Time Passed (Hours)
+                <th> Cost for next Lineage level
+            </tr>
+            <tr>
+                <td ><input id="LineageLevel" type="number" min="0" max="100" value="0"></td>
+                <td ><input id="Heirloom" type="checkbox"></td>
+                <td ><input id="Hourglass" type="checkbox"></td>
+                <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="159" value="100"></td>
+                <td class="HourglassRelated"><input id="HourglassT" type="number" min="0" value="0"></td>
+                <td id = "LineageNextLevel">
+            </tr>
+        </table>
+        <script>
+            function ShowAndHide() {
+              $('.HourglassRelated').css('display', 'none');
+              if($('#Hourglass').is(':checked')) {
+                $('.HourglassRelated').css('display', 'table-cell');
+              }
+            }
+            function HourglassCalc(lineageLevel) {
+              if(!$('#Hourglass').is(':checked')) {
+                return 0;
+              }
+              var time = parseInt($('#HourglassT').val());
+              var reincarnation = parseInt($('#HourglassR').val());
+              var redexp = Math.max(0.01,0.9-0.01*(((Math.max(1,lineageLevel-20))**1.4) - reincarnation/4));
+              var reduction = (0.1*Math.floor(time**redexp));
+              return reduction;
+            }
+            function calcCost() {
+              var lin = parseInt($('#LineageLevel').val());
+              var heirloom = $('#Heirloom').is(':checked');
+              lin = 25 * 10 ** (15 + lin - HourglassCalc(lin));
+              lin = lin**(1 - 0.1 * heirloom);
+              return lin;
+            }
+            function calcNextLineageCost() {
+              ShowAndHide();
+              var cost = calcCost();
+              cost = Math.floor(cost).toPrecision(4);
+              $('#LineageNextLevel').text(cost);
+            }
+            calcNextLineageCost();
+            $('#LineageLevel, #HourglassR, #HourglassT').on('input', calcNextLineageCost);
+            $('#Heirloom, #Hourglass').on('change', calcNextLineageCost);
+        </script>
+    </div>
     <p>You can get Lineage for each Faction (12 in Total, 15 in R130+)</p>
     <p>You get 3 perks and a Faction Coin boost plus Champion trophy after reaching level 20.</p>
     <p><b>level 5</b>: Perk 1</p>

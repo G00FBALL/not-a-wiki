@@ -301,8 +301,8 @@
                     <p>Some buildup will be required for the later gems, see below
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: e84-e111
-                    <p><b>Duration</b>: 15min - 4h+
+                    <p><b>Range</b>: e84-e114
+                    <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S200,S215,S330,
@@ -321,8 +321,8 @@
                     <p>Some buildup will be required for the later gems, see below
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Dwarf (Requires high Excav count)
-                    <p><b>Range</b>: e84-e111
-                    <p><b>Duration</b>: 15min - 2h+
+                    <p><b>Range</b>: e84-e114
+                    <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
                     <p>S135,S150,S200,S215,S330,
@@ -337,5 +337,5 @@
             </div>
         </div>
         </div>
-        <p>At e111 gems, Secrets of the Underworld becomes reachable, unlocking Prestige research, which is not covered in this guide.
+        <p>At e114 gems, Secrets of the Underworld becomes reachable, unlocking Prestige research, which is not covered in this guide.
     <?php include "../scripts/footer.html"; ?>
