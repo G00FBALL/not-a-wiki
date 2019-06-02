@@ -285,7 +285,7 @@
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R28-29</font></a></b></p>
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
-                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Bloodline</b>: Titan
                     <p><b>Range</b>: 1e75-1e93
                     <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
