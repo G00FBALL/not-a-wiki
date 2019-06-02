@@ -5,10 +5,10 @@
     <!--<style>table{border-collapse:collapse;}th,td{border: 1px solid #000000;}tr:hover {background-color: #ffffff}</style>-->
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Builds Updated May 19th 2019</b>
+    <p><b>Builds Updated June 2nd 2019</b>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.
-    <p>All of the builds up to R24 are Rushbuilds with under 15 min runtime, so , if you arent doing so already, spend your offline or idle time as Druid (5 days of Druid time will make your life much easier in R25+, because it will unlock the strongest research avaiable to you)
-    <p>Vanilla Flavor Juice is mandatory.
+    <p>All of the builds are rush builds with under 15 min runtime. So , if you arent doing so already, spend your offline or idle time as Druid (2 days of Druid time will make your life much easier in R28+, because it will unlock the strongest research avaiable to you)
+    <p>Vanilla Flavor Juice and Ancient Cocoa Bean is mandatory.
     <p>Focus on getting VFJ , Sunforce and other easy Lore artifacts with excavs (Up to R19: After getting the RPs with them)
     <p>After you unlock E290, make sure to do a last excav run with it prior to reincarnating</p>
     <div class="shlisting">
@@ -19,9 +19,8 @@
                 <div class="autohide">
                     <p><b>Notes</b>
                     <p>There is a still relevant guide on how to go through the unlocking of the researches needed to finish R16. (<a target="_blank" href="http://musicfamily.org/realm/R16Guide/"><b>R16 Research Guide</b></a>)</p>
-                    <p>Small updates to the guide: Early game buffs enable you to start researches at 1e69 gems, which eliminates the need for frustrating LF runs. If RWS shows a lot of blacksmiths coming up I would still recommend going to e70/e71 with LF. Also I recommend starting as fairies and using fairies + excavs to unlock RPs up to 80s first. If you can play during the useful sunforce time do so as it will help quite a lot, but it is still doable without.
-                    <p> Unlocking all relevant researches should get you up to ~5e70 (tested with and without Sunforce), this will be used as a starting point for the build to finish the R.
-                    <p>All builds (Elf/Elf, several Demon variants, Fairies) were used and tested until they hit 15min because of VFJ, Fairies proved to be the best.
+                    <p> Unlocking all relevant researches should get you enough gems to finish the R, otherwise use the build below to finish it.
+                    <p>All factions (Elf, several Demon variants, Fairies) were used and tested, Fairies proved to be the best in a reasonable amount of time.
                 </div>
             </div>
             <div class="shelementwhole">
@@ -40,7 +39,7 @@
                     <p>E30,E50,E80,E135,
                     <p>A30,A105,A120,A135,
                     <p>W120,W135
-                    <p><b>Autocasting</b>: SS on silver, the rest on Gold
+                    <p><b>Autocasting</b>: SS on silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
@@ -58,7 +57,7 @@
                     <p>E50,E135,E145,E150,
                     <p>A30,A105,A120,A135,A150,
                     <p>W120,W135,W150
-                    <p><b>Autocasting</b>: SS on silver, the rest on Gold
+                    <p><b>Autocasting</b>: SS on silver, the rest on Gold with TC last
                 </div>
             </div>
         </div>
@@ -79,7 +78,7 @@
                     <p>E50,E135,E145,E150,
                     <p>A30,A105,A120,A135,A150,
                     <p>W120,W135,W150,W180
-                    <p><b>Autocasting</b>: SS on silver, the rest on Gold
+                    <p><b>Autocasting</b>: SS on silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
@@ -97,7 +96,7 @@
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A135,A150,
                     <p>W120,W135,W150,W180,W200
-                    <p><b>Autocasting</b>: SS on silver, the rest on Gold
+                    <p><b>Autocasting</b>: SS on silver, the rest on Gold with TC last
                 </div>
             </div>
         </div>
@@ -110,8 +109,8 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e69
-                    <p><b>Duration</b>: 10-15 min
+                    <p><b>Range</b>: e69+
+                    <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S105,S135,S180,S200,C10,C80,C105,C120,C150,D55,D135,D150,D200,D205,E50,E135,E145,E150,E200,A30,A105,A120,A135,A150,W120,W135,W150,W180,W200" id="Build">
                     <p>S1,S105,S135,S180,S200,
@@ -120,7 +119,7 @@
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A135,A150,
                     <p>W120,W135,W150,W180,W200
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                     <p><b>Note</b>:1-2 runs to earn enough gems for more efficient builds.</p>
                 </div>
             </div>
@@ -139,7 +138,7 @@
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A135,A150,
                     <p>W120,W135,W150,W180,W200
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
@@ -157,7 +156,7 @@
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A150,A250,
                     <p>W120,W135,W150,W180,W250
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
@@ -166,7 +165,7 @@
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e75-1e99
-                    <p><b>Duration</b>: 10-15 min
+                    <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D250,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
                     <p>S105,S135,S180,S200,S215,
@@ -175,7 +174,7 @@
                     <p>E50,E135,E145,E150,E200,
                     <p>A30,A105,A120,A150,A250,
                     <p>W135,W150,W180,W250,W290
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
         </div>
@@ -200,9 +199,11 @@
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e75-1e99
-                    <p><b>Duration</b>: 10-15 min
+                    <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S105,S135,S180,S200,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E150,E200,E290,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290" id="Build"> E290
                     <p>S105,S135,S180,S200,S215,
                     <p>C80,C105,C120,C135,C150,
                     <p>D55,D200,D225,D245,D320,
@@ -211,7 +212,7 @@
                     <p>W135,W150,W180,W250,W290
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
                     <p><b>Note</b>: At the end of the R, replace E145 with E290 and excavate to unlock W320 for the next R.
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
@@ -220,7 +221,7 @@
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
                     <p><b>Range</b>: 1e75-1e99
-                    <p><b>Duration</b>: 10-15 min
+                    <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,
@@ -230,7 +231,7 @@
                     <p>A30,A105,A120,A150,A330,
                     <p>W150,W180,W290,W320,W330
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
         </div>
@@ -241,8 +242,8 @@
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
                     <p><b>Bloodline</b>: Fairy
-                    <p><b>Range</b>: 1e75-1e99
-                    <p><b>Duration</b>: 10-15 min
+                    <p><b>Range</b>: 1e75-1e93
+                    <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C105,C120,C150,C330,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,
@@ -252,36 +253,41 @@
                     <p>A30,A105,A120,A150,A330,
                     <p>W150,W180,W290,W320,W330
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">OH-Titan R27</font></a></b></p>
                 <div class="autohide">
-                    <p>Some buildup will be required for the later gems, see below
+                    <p><b>Requirement</b>: Ancient Device
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: e84-e108
-                    <p><b>Duration</b>: 15min - 2h+
+                    <p><b>Range</b>: e93-e108
+                    <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D320,D350,E135,E150,E275,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build">
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E275,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E275,E320,E330,A30,A105,A120,A150,A330,W150,W180,W250,W290,W320,W330" id="Build"> A305 not unlocked
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E290,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build"> For Max Excavations
                     <p>S135,S150,S200,S215,S330,
                     <p>C120,C135,C150,C251,C330,C375,
                     <p>D55,D150,D245,D320,D350,
                     <p>E135,E150,E275,E320,E330,
                     <p>A105,A120,A150,A305,A330,
                     <p>W150,W180,W250,W290,W320,W330
-                    <p><b>Autocasting during Buildup</b>: LS and TC on Gold
-                    <p><b>Autocasting during Production</b>: LS on Silver, Rest on Gold
+                    <p><b>Note</b>: If you don't have A305(requires 2 days as Druid) A305→A30
+                    <p><b>Note</b>: For maximizing excavations E275→E290
+                    <p><b>Autocasting</b>: LS on Silver, Rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R28-29</font></a></b></p>
                 <div class="autohide">
                     <p><b>Faction</b>: Fairy
-                    <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: 1e75-1e99
-                    <p><b>Duration</b>: 10-15 min
+                    <p><b>Bloodline</b>: Fairy
+                    <p><b>Range</b>: 1e75-1e93
+                    <p><b>Duration</b>: 5-15 min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D200,D225,D245,D320,E50,E135,E150,E320,E330,A30,A105,A120,A330,A400,W150,W180,W290,W320,W330" id="Build">
                     <p>S135,S180,S200,S215,S330,
@@ -291,48 +297,60 @@
                     <p>A30,A105,A120,A330,A400,
                     <p>W150,W180,W290,W320,W330
                     <p><b>Note</b>: If you can't afford all researches use one of the templates of previous Rs.
-                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold
+                    <p><b>Autocasting</b>: CtA and SS on Silver, the rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">OH-Titan R28-29 without A400</font></a></b></p>
                 <div class="autohide">
                     <p>If you have A400 unlocked use the second, stronger version
-                    <p>Some buildup will be required for the later gems, see below
+                    <p><b>Requirement</b>: Ancient Device
                     <p><b>Faction</b>: Titan
                     <p><b>Bloodline</b>: Titan
-                    <p><b>Range</b>: e84-e114
+                    <p><b>Range</b>: e93-e114
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D250,D290,D320,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build"> C135
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D250,D290,D320,E150,E200,E275,E290,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build"> For Max Excavations
                     <p>S135,S150,S200,S215,S330,
-                    <p>C120,C135,C150,C251,C375,C400,
-                    <p>D55,D245,D290,D320,D350,
+                    <p>C120,C150,C251,C330,C375,C400,
+                    <p>D55,D245,D250,D290,D320,
                     <p>E135,E150,E200,E275,E330,
                     <p>A105,A120,A150,A250,A330,
                     <p>W150,W180,W290,W320,W330,W400
-                    <p><b>Autocasting during Buildup</b>: LS and TC on Gold
-                    <p><b>Autocasting during Production</b>: LS on Silver, Rest on Gold
+                    <p><b>Note</b>: If C135 is 200% or higher: C330→C135
+                    <p><b>Note</b>: For maximizing excavations E135→E290
+                    <p><b>Note</b>: D55→D400 is optional
+                    <p><b>Autocasting</b>: LS on Silver, Rest on Gold with TC last
                 </div>
             </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">OH-Titan R28-29 with A400</font></a></b></p>
                 <div class="autohide">
-                    <p>Some buildup will be required for the later gems, see below
+                    <p><b>Requirement</b>: Ancient Device
                     <p><b>Faction</b>: Titan
-                    <p><b>Bloodline</b>: Dwarf (Requires high Excav count)
-                    <p><b>Range</b>: e84-e114
+                    <p><b>Bloodline</b>: Dwarf (Requires high Excavations count)
+                    <p><b>Range</b>: e93-e114
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"> C135
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S135,S150,S200,S215,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E150,E275,E290,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"> For Max Excavations
                     <p>S135,S150,S200,S215,S330,
-                    <p>C120,C135,C150,C251,C375,C400,
-                    <p>D55,D245,D290,D320,D350,
+                    <p>C120,C150,C251,C330,C375,C400,
+                    <p>D55,D245,D250,D290,D320,
                     <p>E135,E150,E275,E330,E400,
                     <p>A105,A120,A150,A330,A400,
                     <p>W150,W180,W290,W320,W330,W400
-                    <p><b>Autocasting during Buildup</b>: LS and TC on Gold
-                    <p><b>Autocasting during Production</b>: LS on Silver, Rest on Gold
+                    <p><b>Note</b>: If C135 is 200% or higher: C330→C135
+                    <p><b>Note</b>: For maximizing excavations E135→E290
+                    <p><b>Note</b>: D55→D400 is optional
+                    <p><b>Autocasting</b>: LS on Silver, Rest on Gold with TC last
                 </div>
             </div>
         </div>
