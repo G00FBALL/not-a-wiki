@@ -102,9 +102,9 @@
                     <p><b>Bloodline</b>: Druid
                     <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E410,E3250,A120,A495,W10,W560,W1375">
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,D435,E25,E410,E3250,A120,A495,W10,W560,W1375">
                     <p>S175,S3200,
-                    <p>C1,C225,C400,C405,C520,C590,
+                    <p>C1,C225,C400,
                     <p>D50,D290,D435,
                     <p>E25,E410,E3250,
                     <p>A120,A495,
@@ -120,9 +120,9 @@
                     <p><b>Bloodline</b>: Druid
                     <p><b>Artifact Set</b>: Elf
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A250,A495,W10,W560,W1375">
+                      <input type="text" value="S175,S3200,C1,C225,C340,D50,D435,D1375,E25,E410,E3250,A250,A495,W10,W560,W1375">
                     <p>S175,S3200,
-                    <p>C1,C225,C340,C405,C520,C590,
+                    <p>C1,C225,C340,
                     <p>D50,D435,D1375,
                     <p>E25,E410,E3250,
                     <p>A250,A495,
