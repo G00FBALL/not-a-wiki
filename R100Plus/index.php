@@ -195,16 +195,16 @@
                     <p><b>Requirements</b>: 1e11 (100 B) mana produced this R
                     <p><b>Alignment</b>: Evil, Chaos
                     <p><b>Faction</b>: Demon
-                    <p><b>Bloodline</b>: Elf
+                    <p><b>Bloodline</b>: Faceless
                     <p><b>Artifact Set</b>: Undead (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W175,W205" id="Build">
+                      <input type="text" value="S400,C50,C3100,D10,D200,E230,E1325,A25,A3400,W1,W135,W175" id="Build">
                     <p>S400,
                     <p>C50,C3100,
                     <p>D10,D200,
                     <p>E230,E1325,
                     <p>A25,A3400,
-                    <p>W1,W175,W205
+                    <p>W1,W135,W175
                     <p><b>Notes</b>: Cast only Tax Collection, Blood Frenzy and Moon Blessing on tier 1 for buildup.
             </div>
         </div>
