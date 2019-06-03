@@ -17,7 +17,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druids (R100-R110)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Blargplean
-                    <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems
+                    <p><b>Range</b>: 0 - ? Gems
                     <p><b>Alignment</b>: Neutral, Balance
                     <p><b>Faction</b>: Druid
                     <p><b>Bloodline</b>: Demon
@@ -43,16 +43,17 @@
             <div class="autohide">
                     <p><b>Author</b>: Blargplean
                     <p><b>Range</b>: 1e29 (100 Oc) Gems+
+                    <p><b>Requirements</b>: T7 Undead/Elf spells, Planetary Force
                     <p><b>Alignment</b>: Good, Balance
                     <p><b>Faction</b>: Elf
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact Set</b>: Angel (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E1325,A250,W10,W1375">
+                      <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E145,A250,W10,W1375">
                     <p>S175,S3200,
-                    <p>C1,C225,C400,
+                    <p>C1,C225,C340,
                     <p>D50,D1375,
-                    <p>E25,E1325,
+                    <p>E25,E145,
                     <p>A250,
                     <p>W10,W1375
             </div>
