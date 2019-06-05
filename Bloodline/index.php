@@ -79,7 +79,7 @@
 <p><b>Notes</b>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
 <p><b>2</b>. Cannot cast a spell that is already active.
-<p><b>3</b>. The Spell Pool is 8 for Neutral factions (No Gem Grinder), 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
+<p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersBloodline.png" align="middle"> Makers</p></b>
 <p><b>Requirements</b>: Makers Unlocked, R130+</p>
