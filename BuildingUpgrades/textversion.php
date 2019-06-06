@@ -498,7 +498,7 @@
                 <p><b>Cost</b>: 18.99UQig (1.899e157)
                 <p><b>Unlock Requirements</b>: 2500 Deep Mines
                 <p><b>Alignment</b>: Neutral
-                <p><b>Effect</b>: Increase Deep Mines production by 75%.
+                <p><b>Effect</b>: Increase Deep Mines production by 400%.
                 <p><b>------------------------------</b></p>
                 <p><b>Post Ascension Only</b>
                 <p><b>Upgrade Name</b>: Pressurized Suits
