@@ -946,7 +946,7 @@
     <p><b>Requirement</b>: Freemason's Hall</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Generates additional Faction Coins per cast</p>
-    <p><b>Formula</b>: (2.65 * x ^ 2.65), where x is original Faction Coin chance.</p>
+    <p><b>Formula</b>: (2.5 * x ^ 2.5), where x is original Faction Coin chance.</p>
        <hr>
     <p><b><center>Ascension 2</center></b></p>
     <p><b><center>Secondary Alignment Spells</center></b></p>
