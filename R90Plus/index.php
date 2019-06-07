@@ -129,11 +129,11 @@
                 <p><b>A2950</b>: Goblin
                 <p><b>13th Upgrade</b>: UD7
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,AN2,AN5,AN9,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D55,D275,D1275,D1375,D2775,E10,E135,E230,E1225,E3250,E3300,A120,A545,A590,A1500,A2950,A3400,W205,W275,W400,W525,W3050,W3150" id="Build">
+                    <input type="text" value="EL3,AN2,AN5,AN9,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C305,C340,C400,C590,C1300,C3000,D25,D55,D275,D1275,D1375,D2775,E10,E135,E230,E1225,E3250,E3300,A120,A545,A590,A1500,A2950,A3400,W205,W275,W400,W525,W3050,W3150" id="Build">
                 <p>EL3,AN2,AN5,AN9,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,
                 <p>SP:God's Hand,SP:Grand Balance,
                 <p>S50,S215,S305,S1450,S1500,S3200,
-                <p>C340,C400,C590,C1300,C1500,C3000,
+                <p>C305,C340,C400,C590,C1300,C3000,
                 <p>D25,D55,D275,D1275,D1375,D2775,
                 <p>E10,E135,E230,E1225,E3250,E3300,
                 <p>A120,A545,A590,A1500,A2950,A3400,
