@@ -211,8 +211,8 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Anonymous Benefactors (R77-R81)(e88+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare
-                <p><b>Requirement</b>: Dragon Heritage (Excavate)
-                <p><b>Range</b>: 1e88+ (10 Ocvg) Gems
+                <p><b>Requirements</b>: Free Excavations (for 1e88 (10 OcVg) Gems - 1e90 (1 NoVg) Gems)
+                <p><b>Range</b>: 1e88+ (10 OcVg) Gems
                 <p><b>Faction</b>: Good Mercenary
                 <p><b>Bloodline</b>: Dragon
                 <p><b>A2950</b>: Elf
