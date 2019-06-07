@@ -124,7 +124,7 @@
                 , function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '. Total increase is +' + ((70 * Math.pow(rei, 1.25)) + 35 * rei).toFixed(0) + '.';}
                 ],
                 [ 50, '#R50FCChaAdd', false, 1
-                , function(rei) {return Math.pow(rei, 1.1);}
+                , function(rei) {return 2.5 * Math.pow(rei, 1.1);}
                 , function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
                 ],
                 [ 60, '#R60FCChaMul', false, 0
@@ -277,7 +277,7 @@
                         Runl('Archon, Djinn, and Makers Factions');
                         break;
                     case 130:
-                        Runl('Archon, Djinn, and Makers Base Unions');
+                        Runl('Archon, Djinn, and Makers Bloodlines, Lineages and Unions');
                         break;
                     default:
                         $('#RUnl').css('display', 'none');
@@ -357,7 +357,7 @@
                 <p><b>R116</b>: Prestige Factions</p>
                 <p><b>R120</b>: A2 Spells Tier 2</p>
                 <p><b>R125</b>: Archon, Djinn, and Makers Factions</p>
-                <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
+                <p><b>R130</b>: Archon, Djinn, and Makers Bloodline, Lineages and Unions</p>
             </div>
         </div>
         <div class="shelementwhole">
