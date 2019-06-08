@@ -928,17 +928,17 @@
     <p><b>Requirement</b>: Mercenary Camp</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
-    <p><b>Formula</b>: 120 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
+    <p><b>Formula</b>: 120 ^ (0.25 * T), where T is tier (FC chance multiplier)</p>
     <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
+    <p><b>Effect</b>: Adds Tax Collections casts based on its duration and current tier cast.</p>
+    <p><b>Formula</b>: (10 * x * T), where x is spell duration and T is spell tier (per tier)</p>
+    <p><b>Formula</b>: Sum formula of above: (5 * x * (T ^ 2 + T)) , where x is spell duration and T is spell tier</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenaries)</p>
     <p><b>Requirement</b>: Tyrant Garrison</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
     <p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
-    <p><b>Effect</b>: Now adds Tax Collections casts based on its duration and current tier cast.</p>
-    <p><b>Formula</b>: (10 * x * T), where x is spell duration and T is spell tier</p>
-    <p><b>Formula</b>: sum formula is (x ^ (0.15 * T)), where x is spell duration and T is spell tier</p>
     <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
     <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
     <br/>
