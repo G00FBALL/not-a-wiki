@@ -49,9 +49,9 @@
                     <p><b>Bloodline</b>: Undead
                     <p><b>Artifact Set</b>: Angel (if avaliable)
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E145,A250,W10,W1375">
+                      <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E145,A250,W10,W1375">
                     <p>S175,S3200,
-                    <p>C1,C225,C340,
+                    <p>C1,C225,C400,
                     <p>D50,D1375,
                     <p>E25,E145,
                     <p>A250,
