@@ -157,7 +157,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityMarble.png" align="middle">  Reality Marble</b></p>
 <p><b>Requirements</b>: Makers Union</p>
-<p><b>Cost</b>: 100 QiQig (1e170)</p>
+<p><b>Cost</b>: 10 SxQig (1e172)</p>
 <p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>

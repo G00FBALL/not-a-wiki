@@ -84,7 +84,7 @@
                 <br/>
                 <p><b>Stage 3</b>: Dragon (nope, you aren't getting dragon here, not yet)</p>
                 <p><b>Requirement</b>: Drakeling, 12 hours since buying "Drakeling", 3750 Fairy assistants</p>
-                <p><b>Cost</b>: 1e70 (10 Dvg) coins, 1e7 (1 B) of each FC</p>
+                <p><b>Cost</b>: 1e70 (10 Dvg) coins, 1e9 (1 B) of each FC</p>
                 <br/>
                 <p><b>Stage 4</b>: Elder Dragon</p>
                 <p><b>Requirement</b>: Dragon, 12 hours since buying "Dragon", 50000 max mana</p>
