@@ -68,7 +68,7 @@
 <p><b>Requirement</b>: Click 100 times on the little assistant around your realm.
 <p><b>Cost</b>: 100 Qa (1e17), A1+, Free</p>
 <p><b>Effect</b>: Instantly add 1 additional assistant.</p>
-<p><b>Note</b>: Ckick the assistant to the left of spells not the ones at the bottom of page.</p>
+<p><b>Note</b>: Click the assistant to the left of spells not the ones at the bottom of page.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle><b> Rewind</b></p>
 <p><b>Requirement</b>: Abdicate after producing at least 1 Oc (1E27) Coins.</p>
