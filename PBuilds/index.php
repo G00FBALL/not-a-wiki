@@ -46,7 +46,7 @@
                     <p>A105,A120,A150,A330,A400,</p>
                     <p>W150,W180,W290,W320,W330</p>
                     <p><b>Note</b>: Swap E50 with E290 for maximizing excavations.</p>
-                    <p><b>Note</b>: Swap A30 with A400 if you don't have A400 (requires 2 days as Druids).</p>
+                    <p><b>Note</b>: Swap A400 with A30 if you don't have A400 (requires 2 days as Druids).</p>
                 </div>
             </div>
             <div class="shelementwhole">
