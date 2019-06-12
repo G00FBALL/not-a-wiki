@@ -51,7 +51,7 @@
 <p><b>Note</b>: Has no effect R100+/A2</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EarthCore.png" alt="Earth Core" align="middle"><b> Earth Core</b></p>
-<p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious enery sources.</p>
+<p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious energy sources.</p>
 <p><b>Unlocks</b>: Part of the Prestige research quest</p>
 <p><b>Requirements</b>: 2750th Excavation, R29+</p>
 <hr>

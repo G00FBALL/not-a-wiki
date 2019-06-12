@@ -1144,7 +1144,7 @@
             <p><b>Alignment</b>: Neutral
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/EarthCore.png" alt="Earth Core" align="middle"><b> Earth Core</b></p>
-            <p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious enery sources.</p>
+            <p><b>Clues</b>: This piece of rock is continuously shifting its shape, responding to mysterious energy sources.</p>
             <p><b>Unlocks</b>: Part of the Prestige research quest</p>
             <p><b>Requirements</b>: 2750th Excavation</p>
             <hr></p>
