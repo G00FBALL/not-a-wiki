@@ -174,7 +174,7 @@
 <p><b>Formula</b>: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game).</p>
 <br/>
 <p><b>C1500</b> - <b>For</b> Titan,Dragon - <b>Research Name</b>: Gargantuaness</p>
-<p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titans)</p>
+<p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</p>
 <p><b>Cost</b>: 3.843 Spvg (3.843e84)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.</p>
 <p><b>Formula</b>: (1.5 * x) ^ 0.7, where x is neutral time (this R) in minutes.</p>
