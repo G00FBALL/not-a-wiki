@@ -680,33 +680,9 @@
             <td>Complete all the Neutral Challenges.</td>
             <td>Increase the overall production of Neutral Factions by 25%.</p>A1, 2.26%.</p>A2, 0.22%</td>
         </tr>
-   </table>
-<br/>
-       <a id="TrophiesR2130"></a>
-    <table class="numtable">
-        <thead>
-        <tr>
-            <th colspan="5">R26</th>
-       </tr>
-        </thead>
-        <thead>
-        <tr>
-            <th>Name</th>
-            <th>Cost</th>
-            <th>Requirement</th>
-            <th>Effect</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td><center>Van!shment</p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png"></td>
-            <td>10 Noqag (1e151)</p>A1+ Free</td>
-            <td>Reach an Offline Bonus of at least 1Qa%.</p>A1, 1895%.</p>A2. 34.9%</td>
-            <td>Increase the production of all buildings based on offline bonus.</p>Formula: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier</td>
-        </tr>
-  </table>
-<br/>
-       <a id="TrophiesR2130"></a>
+    </table>
+    <br/>
+    <a id="TrophiesR2130"></a>
     <table class="numtable">
         <thead>
         <tr>
@@ -754,9 +730,15 @@
             <td></td>
             <td>Fairy/Gobline for most/all building trophies or just wait for it to happen naturally.</td>
         </tr>
-   </table>
-<br/>
-       <a id="TrophiesR2130"></a>
+        <tr>
+            <td><center>Van!shment</p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png"></td>
+            <td>10 Noqag (1e151)</p>A1+ Free</td>
+            <td>Reach an Offline Bonus of at least 1Qa%.</p>A1, 1895%.</p>A2. 34.9%</td>
+            <td>Increase the production of all buildings based on offline bonus.</p>Formula: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier</td>
+        </tr>
+    </table>
+    <br/>
+    <a id="TrophiesR2130"></a>
     <table class="numtable">
         <thead>
         <tr>
@@ -815,7 +797,7 @@
             <td>10 Coins</p>A1+ Free</td>
             <td>Get 1 Oc (1e27) gems in the first game of a reincarnation.<p>Gems Needed: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)<p></td>
             <td>Increase base clicking reward by 1 T (1E12).</td>
-            <td>Possible at R30+ using Titan Bloodline and at R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
+            <td>Possible at R30+ using Fairy blood Dwairy, R34+ Titan blood Dwangels, R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
         </tr>
         <tr>
             <td><center>No Recruiting</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
@@ -1037,16 +1019,16 @@
             <td>10 DQig (1e160)</p>A2+ Free</td>
             <td>5000 Royal Exchanges</td>
             <td>Increase royal exchange bonus by 250%.</td>
-            <td>Actually useless before R68, but it's trivial unlock.</td>
+            <td>Actually useless before R68, but it's a trivial unlock.</td>
         </tr>
    </table>
-<br/>
-       <a id="TrophiesR2130"></a>
+    <br/>
+   <a id="TrophiesR2130"></a>
     <table class="numtable">
         <thead>
         <tr>
             <th colspan="4">R63</th>
-       </tr>
+        </tr>
         </thead>
         <thead>
         <tr>
@@ -1063,7 +1045,7 @@
             <td>Complete all the Prestige Challenges, R63+</td>
             <td>Increase the overall production of Prestige Factions by 25%.</td>
         </tr>
-   </table>
+    </table>
       </div>
      </div>
     <div class="shelementwhole">
@@ -1091,7 +1073,6 @@
             <td>100 Qaq (1e125)</p>A2+ Free</td>
             <td>Perform 40 autoclicks in 1 second, R60+</td>
             <td>Multiply Faction Coin find chance by x5 for automatic clicks only.</td>
-            <td>Possible to earn earlier by lagging game.</td>
         </tr>
         <tr>
             <td><center>Genealogist</p><img src="http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png"></td>
@@ -1129,30 +1110,164 @@
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R80 - R99 Trophies</a></b></p>
         <div class="autohide">
-       <a id="TrophiesR2130"></a>
-    <table class="numtable">
-        <thead>
-        <tr>
-            <th colspan="5">R82</th>
-       </tr>
-        </thead>
-        <thead>
-        <tr>
-            <th>Name</th>
-            <th>Cost</th>
-            <th>Requirement</th>
-            <th>Effect</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td><center>Warrior Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png"></td>
-            <td>1 DSpg (1e219)</p>A2+ Free</td>
-            <td>Discover all the Mercenary researches.</td>
-            <td>Increase the production of all buildings based on research done.</p>Formula</b>: 0.3 * x ^ 0.7, where x is total of research done.</td>
-        </tr>
-   </table>
-      </div>
-     </div>
+            <a id="TrophiesR2130"></a>
+            <table class="numtable">
+            <thead>
+                <tr>
+                    <th colspan="5">R82</th>
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Cost</th>
+                    <th>Requirement</th>
+                    <th>Effect</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><center>Warrior Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png"></td>
+                    <td>1 DSpg (1e219)</p>A2+ Free</td>
+                    <td>Discover all the Mercenary researches.</td>
+                    <td>Increase the production of all buildings based on research done.</p>Formula</b>: 0.3 * x ^ 0.7, where x is total of research done.</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
     </div>
+        <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100+ Trophies</a></b></p>
+        <div class="autohide">
+            <a id="TrophiesR2130"></a>
+            <table class="numtable">
+                <thead>
+                    <tr>
+                        <th colspan="5">R100</th>
+                    </tr>
+                </thead>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Cost</th>
+                        <th>Requirement</th>
+                        <th>Effect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><center>Holy Frenzy</p><img src="http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png"></td>
+                        <td>100 Dc (1e35)</td>
+                        <td>In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.</td>
+                        <td><p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.<p><b>Note</b>:Upgrade scales from Holy Light/Blood Frenzy tiers.<p>Formula: (250 * t ^ 2)</td>
+                    </tr>
+                    <tr>
+                        <td><center>Uniformity</p><img src="http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png"></td>
+                        <td>100 Qid (1e50)</td>
+                        <td>Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them.</td>
+                        <td><p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment. )<p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</td>
+                    </tr>
+                </tbody>
+            </table>
+            <a id="TrophiesR2130"></a>
+            <table class="numtable">
+                <thead>
+                    <tr>
+                        <th colspan="5">R100-R110</th>
+                    </tr>
+                </thead>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Cost</th>
+                        <th>Requirement</th>
+                        <th>Effect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><center>Art of the Crow</p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png"></td>
+                        <td>1 Qavg (1e75)</td>
+                        <td>Have any 6 complete Faction Artifact Sets.</td>
+                        <td><p>Order Effect: Multiplicatively increase max mana.</p><p>Chaos Effect: Multiplicatively increase assistants.</p><p>Balance Effect: Multiplicatively increase mana regeneration.</p><p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p> <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p><p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p> <p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p></p><p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p> <p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p><p><b>Notes</b>: Faction and Set Alignments has to match to buy the upgrade (Evil, Good, Neutral).</td>
+                    </tr>
+                </tbody>
+            </table>
+            <a id="TrophiesR2130"></a>
+            <table class="numtable">
+                <thead>
+                    <tr>
+                        <th colspan="5">R116</th>
+                    </tr>
+                </thead>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Cost</th>
+                        <th>Requirement</th>
+                        <th>Effect</th>
+                        <th>Hint</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><center>Future Linkin</p><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png"></td>
+                        <td>10 Sptg (1e115)</td>
+                        <td>Abdicate with at least 150,000 Unique Buildings.</td>
+                        <td><p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p> <p><b>Formula</b>: (214 + 0.03 * x  ^ 0.7), where x is time spent in last game.</p></td>
+                        <td>Goblinline Dwairy with E50,E135</td>
+                    </tr>
+                </tbody>
+            </table>
+                        <a id="TrophiesR2130"></a>
+            <table class="numtable">
+                <thead>
+                    <tr>
+                        <th colspan="5">~R120-R125</th>
+                    </tr>
+                </thead>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Cost</th>
+                        <th>Requirement</th>
+                        <th>Effect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><center>Faction Ruler</p><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png"></td>
+                        <td>120 Notg (1.2e122)</td>
+                        <td>Unlock all the Advanced Heritages.</td>
+                        <td><p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p></td>
+                    </tr>
+                </tbody>
+            </table>
+            <a id="TrophiesR2130"></a>
+            <table class="numtable">
+                <thead>
+                    <tr>
+                        <th colspan="5">R125</th>
+                    </tr>
+                </thead>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Cost</th>
+                        <th>Requirement</th>
+                        <th>Effect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><center>MAD Masks</p><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png"></td>
+                        <td>1 SpQag (1.e144)</td>
+                        <td>Find all fragments of the Makers, Archon and Djinn masks.</td>
+                        <td><p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.<p>Formula: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
 <?php include "../scripts/footer.html"; ?>
