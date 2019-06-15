@@ -912,7 +912,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Tier 4 Union Upgrades</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Tier 4 (R100+)</a></b></p>
             <div class="autohide">
                 <h6>Fairy</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" align="middle"> Bubble Swarm</b></p>
