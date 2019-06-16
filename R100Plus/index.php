@@ -8,7 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated June 2nd, 2019</b></p>
-    <p>All builds come from the  <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
+    <p>All builds come from the  <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
