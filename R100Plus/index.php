@@ -206,7 +206,7 @@
                     <p>E230,E1325,</p>
                     <p>A25,A3400,</p>
                     <p>W1,W135,W175</p>
-                    <p><b>Notes</b>: Cast only Tax Collection, Blood Frenzy and Moon Blessing on tier 1 for buildup.</p>
+                    <p><b>Notes</b>: Cast only Tax Collection, Blood Frenzy and Brainwave on tier 1 for buildup.</p>
             </div>
         </div>
         <div class="shelementwhole">
