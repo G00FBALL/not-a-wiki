@@ -205,6 +205,7 @@
                 <p>A105,A120,A150,A175,A495,A1500,</p>
                 <p>W25,W180,W275,W400,W1375,W1400</p>
                 <p><b>Notes</b>: Swap D275 with D525 if HL is T4 or higher.</p>
+                <p><b>Notes</b>: DG9 requires L15 Dragon Lineage and completion of the Perk 2 challenge.</p>
          </div>
     </div>
         <div class="shelementwhole">
