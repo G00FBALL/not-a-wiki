@@ -778,7 +778,7 @@
                     <p>E260,E400,E1225,E1425,
                     <p>A120,A251,A375,A400,A1200,A1500,</p>
                     <p>W350,W400,W1375,W1400</p>
-                    <p><b>Notes</b>: Infinite Spirar-Makers 2-Makers 7-Maker Union Buffs are advised.</p>
+                    <p><b>Notes</b>: Infinite Spiral, Makers 2, Makers 7, Maker Union Buffs are advised.</p>
             </div>
         </div>
         <div class="shelementwhole">

@@ -122,7 +122,7 @@
                     <p><b>Note</b>: After buying Dwarven Horns use also C250,C330,D245.</p>
                     <p><b>Note</b>: Swap D245 with D480 if buffed.</p>
                     <p><b>Note</b>: Swap A495 with A400 if high excavations (~2000+ or so).</p>
-                    <p><b>Note</b>: Be carefull to stay under the coin cap (1.78e308).</p>
+                    <p><b>Note</b>: Be careful to stay under the coin cap (1.78e308).</p>
 
 
                 </div>
