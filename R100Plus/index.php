@@ -184,8 +184,8 @@
                     <p>E10,E3250,</p>
                     <p>A1,A175,A3400,</p>
                     <p>W50,W205</p>
-                    <p><b>Notes</b>: Set all spells, that cost at most 2500 mana (and Temporal Flux) on bronze, TC on silver (contingency 90%), get to SS3 and tier 6 on the rest, get to max mana and cast all spells.</p>
-                    <p><b>Notes</b>: Estimated time of 30 minutes to unlock.</p>
+                    <p><b>Notes</b>: Requires T7 spells to get enough offline bonus for unlock.</p>
+                    <p><b>Notes</b>: Estimated time of ? to unlock.</p>
             </div>
         </div>
         <div class="shelementwhole">
