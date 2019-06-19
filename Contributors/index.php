@@ -236,4 +236,5 @@
 <p>Trewq_</p>
 <p>rhaek7</p>
 <p>fwbx529</p>
+<p>waga baba bobo</p>
 <?php include "../scripts/footer.html"; ?>
