@@ -771,7 +771,7 @@
                     <p><b>Bloodline</b>: Archon</p>
                     <p><b>Artifact Set</b>: Druid</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,S1450,S3200,C300,C340,C400,C1300,D275,D290,D1125,D1375,E260,E400,E1225,E1425,A120,A251,A375,A400,A1200,A1500," id="Build"></p>
+                      <input type="text" value="S400,S1450,S3200,C300,C340,C400,C1300,D275,D290,D1125,D1375,E260,E400,E1225,E1425,A120,A251,A375,A400,A1200,A1500,W350,W400,W1375,W1400" id="Build"></p>
                     <p>S400,S1450,S3200,</p>
                     <p>C300,C340,C400,C1300,</p>
                     <p>D275,D290,D1125,D1375,
