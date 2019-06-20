@@ -256,6 +256,7 @@
                 <p>A105,A120,A175,A1200,A1500,A2950,</p>
                 <p>W180,W260,W275,W400,W3050,W3150</p>
                 <p><b>Notes</b>: Swap A175 with A3400 at R82+.</p>
+                <p><b>Notes</b>: Some Researches will require you to buy E3300 first</p>
          </div>
     </div>
         <div class="shelementwhole">
