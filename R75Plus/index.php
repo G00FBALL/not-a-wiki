@@ -43,7 +43,7 @@
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e68 (100 UVg) gems+</p>
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> 1e68 (100 UVg) gems+</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S215,S270,S305,S330,S1450,S1500,S3200,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W400,W1375,W3150" id="Build"> 1e84 (1 SpVg) gems+</p>
                 <p>S135,S215,S270,S305,S330,S1450,S1500,</p>
@@ -54,7 +54,7 @@
                 <p>W150,W180,W275,W290,W400,W1375</p>
                 <p><b>Notes</b>: Excavating for DB5 is recommended.</p>
                 <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).</p>
-                <p><b>Notes</b>: Swap S135 with S3200 and W290 with W3150 when able to buy them (1e84 (1 SpVg) gems+).</p>
+                <p><b>Notes</b>: Swap W290 with W3150 (R79+) and S135 with S3200 (R80+) and when able to buy them (1e84 (1 SpVg) gems+).</p>
             </div>
         </div>
     </div>
@@ -132,8 +132,6 @@
                 <p><b>Range</b>: 1e87 (1 Ocvg) Gems</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Elf First then other 11</p>
-                <p><b>A2950</b>: Dragon</p>
-                <p><b>Range</b>: 1e88 (10 OcVg) gems - 1e96 (1 UTg) gems</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD3,DD6,FC7,DG4,DG7,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D1275,D1375,E135,E320,E350,E590,E1225,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W275,W400,W1375,W1400" id="Build">ElfLine</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -162,7 +160,6 @@
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Drow First then other 11</p>
                 <p><b>A2950</b>: Dragon</p>
-                <p><b>Range</b>: 1e88 (10 OcVg) gems - 1e96 (1 UTg) gems</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL1,EL3,EL7,AN3,AN5,AN6,GB7,DD3,DD6,FC7,DG4,DG7,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D1275,D1375,E135,E320,E350,E590,E1225,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W275,W400,W1375,W1400" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
