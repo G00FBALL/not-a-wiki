@@ -157,14 +157,14 @@
                               <p><b>Range</b>: 1e54 (1 SpD)
                               <p><b>Faction</b>: Titan/Dragon
                               <p><b>Bloodline</b>: Faceless
-                              <p><b>Artifact Set</b>: Druid
+                              <p><b>Artifact Set</b>: Faceless
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D245,D350,D1125,E275,E290,E1225,A120,A1200,W260,W1375,W1400" id="Build">
+                                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E290,E1225,A120,A1200,W260,W1375,W1400" id="Build">
                                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D245,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"> Resets
+                                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"> Resets
                               <p>S300,S1450,S3200,
                               <p>C251,C375,C400,C1300,C1500,
-                              <p>D245,D350,D1125,
+                              <p>D290,D350,D1125,
                               <p>E275,E290,E1225,
                               <p>A120,A1200,
                               <p>W260,W1375,W1400
@@ -173,28 +173,6 @@
                               <p><b>Notes</b>: Swap E290 with E1325 if aiming for GB11 or if you have a lot of cheap free resets (~25% more mana regen).
                               <p><b>Notes</b>: Make sure Dragon's Breath has x2 blue breath before excavating.
                               <p><b>Notes</b>: Estimated time for GB11 is 1.5 hours(?).
-                       </div>
-                  </div>
-                      <div class="shelementwhole">
-                          <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Titans (Lantern Of Guidance)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                          <div class="autohide">
-                              <p><b>Author</b>: Necrodoom
-                              <p><b>Requirement</b>: 1T+ spell casts this R
-                              <p><b>Range</b>: ?
-                              <p><b>Faction</b>: Titan/Dragon
-                              <p><b>Bloodline</b>: Angel
-                              <p><b>Artifact Set</b>: Angel
-                                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                                    <input type="text" value="S300,S1450,S3200,C251,C330,C375,C1300,C1500,D290,D350,D1125,E275,E290,E1225,A545,A1200,W180,W260,W1400" id="Build">
-                              <p>S300,S1450,S3200,
-                              <p>C251,C330,C375,C1300,C1500,
-                              <p>D290,D350,D1125,
-                              <p>E275,E290,E1225,
-                              <p>A545,A1200,
-                              <p>W180,W260,W1400
-                              <p><b>Notes</b>: Excavate for Angel AH to power up the build.
-                              <p><b>Notes</b>: Also a mostly rush build, This build has better starting regen and growth, capable of 2B mana regen (for 1 in 500 chance) within minutes.
-                              <p><b>Notes</b>: Make sure Dragon's Breath has x2 blue breath before excavating.
                        </div>
                   </div>
         <div class="shelementwhole">
@@ -206,10 +184,10 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>Artifact Set</b>: Fairy
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W275,W560,W1375" id="Build">
+                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D435,D1375,E50,E135,E410,A30,A120,A495,W275,W560,W1375" id="Build">
                 <p>S1,S180,S590,S3200,
                 <p>C10,C400,C405,C520,
-                <p>D225,D245,D435,
+                <p>D225,D435,D1375,
                 <p>E50,E135,E410,
                 <p>A30,A120,A495,
                 <p>W560,W1375
@@ -221,25 +199,21 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (W275)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (W275)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom
+                <p><b>Author</b>: Sad
                 <p><b>Range</b>: 1e42 (1 TD) gems+
-                <p><b>Faction</b>: Fairy/Dwarf
+                <p><b>Faction</b>: Faceless/Dragon
                 <p><b>Bloodline</b>: Undead
-                <p><b>Artifact Set</b>: Dwarf
+                <p><b>Artifact Set</b>: Faceless
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E410,E460,A30,A120,A495,W560,W1375" id="Build">
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S180,S400,S590,C10,C400,C405,C520,D225,D245,D435,E50,E410,E460,A30,A120,A495,W560,W1375" id="Build"> S400 Buffed
-                <p>S1,S180,S590,S3200,
-                <p>C10,C400,C405,C520,
-                <p>D225,D245,D435,
-                <p>E50,E410,E460,
-                <p>A30,A120,A495,
-                <p>W560,W1375
-                <p><b>Notes</b>: Can afford DN12 at 1e66 (1 UVg) gems+.
-                <p><b>Notes</b>: Replace S3200 with S400 if buffed.
+                      <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D260,D3350,E135,E350,E1225,A120,A300,A1200,W275,W1375,W1400" id="Build">                  
+                <p>S251,S375,S1450,S1500,S3200,
+                <p>C340,C1300,
+                <p>D260,D3350,
+                <p>E135,E350,E1225,
+                <p>A120,A300,A1200,
+                <p>W275,W1375,W1400        
          </div>
     </div>
     <div class="shelementwhole">
@@ -270,12 +244,12 @@
         <p><b>Range</b>: ?
         <p><b>Faction</b>: Titan/Dragon
         <p><b>Bloodline</b>: Elf
-        <p><b>Artifact Set</b>: Druid, Faceless (If stronger)
+        <p><b>Artifact Set</b>: Druid
               <p><button onclick="myFunction($(this))">Copy Build</button>
-              <input type="text" value="S300,S400,S1450,C251,C375,C1300,C1500,C3100,D245,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build">
+              <input type="text" value="S300,S400,S1450,C251,C375,C1300,C1500,C3100,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build">
         <p>S300,S400,S1450,
         <p>C251,C375,C1300,C1500,C3100,
-        <p>D245,D350,D1125,
+        <p>D290,D350,D1125,
         <p>E275,E1225,E1325,
         <p>A120,A1200,
         <p>W260,W1375,W1400
