@@ -62,10 +62,10 @@
     <p><b>Mercenary Research and Unique Building Unlock</b></p>
     <div class="category">
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buff-Before Merc Research Unlock (R75)(1e87)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buff-Before Merc Research Unlock (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
         <div class="autohide">
             <p><b>Author</b>: Lapare</p>
-            <p><b>Range</b>: 1e87 (1 Ocvg) Gems</p>
+            <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
             <p><b>Faction</b>: Druid</p>
             <p><b>Bloodline</b>: Undead</p>
               <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -95,10 +95,10 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research, UL20 Build)(R75)(e87)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research, UL20 Build) (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Lapare</p>
-                    <p><b>Range</b>: 1e87 (1 Ocvg) Gems</p>
+                    <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
                     <p><b>Bloodline</b>: Undead</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -113,7 +113,7 @@
                     <p>E135,E275,E320,E460,E590,E1425,</p>
                     <p>A105,A120,A305,A545,A1325,A1500,</p>
                     <p>W150,W180,W250,W275,W400,W1375</p>
-                    <p><b>Notes</b>: Swap DD6 to EL4 if at e88 (10 OcVg) gems or higher.</p>
+                    <p><b>Notes</b>: Swap DD6 to EL4 if at 1e88 (10 OcVg) gems or higher.</p>
                     <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
                     <p><b>Build has three stages</b></p>
                     <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
@@ -126,10 +126,10 @@
     <p><b>Lineage 25 Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Genealogy 101 (R75)(e87)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Genealogy 101 (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: 1e87 (1 Ocvg) Gems</p>
+                <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Elf First then other 11</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -153,10 +153,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Genealogy 101 (R75)(e88+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Genealogy 101 (R75) (1e88+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: 1e88+ (10 Ocvg) Gems</p>
+                <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Drow First then other 11</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -181,10 +181,10 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">23rd Exploiter (R75-R76)(1e88)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">23rd Exploiter (R75-R76) (1e88+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: 1e88 (10 Ocvg) Gems</p>
+                <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>13th Upgrade</b>: AN2</p>
@@ -205,10 +205,10 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Anonymous Benefactors (R77-R81)(e88+)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Anonymous Benefactors (R77-R81) (1e88+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Requirements</b>: Free Excavations (for 1e88 (10 OcVg) Gems - 1e90 (1 NoVg) Gems)</p>
+                <p><b>Requirements</b>: Avaliable Excavations (100+?) at 1e88 (10 OcVg) Gems - 1e90 (1 NoVg) Gems</p>
                 <p><b>Range</b>: 1e88+ (10 OcVg) Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
@@ -230,12 +230,13 @@
                 <p>E80,E135,E320,E350,E590,E1225,</p>
                 <p>A105,A120,A175,A545,A1500,A2950,</p>
                 <p>W180,W275,W290,W400,W1375,W1400</p>
+                <p><b>Notes</b>: Excavate for Dragon Heritage at below 1e90 (1 NoVg) Gems.</p>
                 <p><b>Notes</b>: Swap W290 with W3150 if R79+.</p>
                 <p><b>Notes</b>: Swap Moon Blessing with Brainwave if MB is lower than T3</p>
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Poltergeist Reborn (R81-R89)(1e88)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Poltergeist Reborn (R81-R89) (1e88+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e88 (10 Ocvg) - 1e102 (1 Ttg) Gems</p>
@@ -259,10 +260,10 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Reaper of Monetary Assets (R82-R89)(e100+)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Reaper of Monetary Assets (R82-R89) (1e100+)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: e100+ (10 Dtg) Gems</p>
+                <p><b>Range</b>: 1e100+ (10 Dtg) Gems</p>
                 <p><b>Faction</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>A2950</b>: Goblin</p>
@@ -314,7 +315,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor 10 (GB10 Buffer)(R82-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor 10 (GB10 Buffer) (R82-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: ? Gems</p>
