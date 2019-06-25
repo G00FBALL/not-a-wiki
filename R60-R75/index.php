@@ -177,7 +177,7 @@
                 <p><b>Notes</b>: Excavating for lineage is required.</p>
                 <p><b>Notes</b>: Recommended spamming clicks or staying offline for 10 minutes or so for buffing C135 and C460.</p>
                 <p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.</p>
-                <p><b>Notes</b>: Estimated run time at 4-5 hours disregarding benefitial sunforce effects.</p>
+                <p><b>Notes</b>: Estimated run time at 4-5 hours disregarding beneficial sunforce effects.</p>
             </div>
         </div>
     </div>
