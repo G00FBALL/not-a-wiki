@@ -760,6 +760,7 @@
                     <p>E230,E400,E495,</p>
                     <p>A25,A400,A410,</p>
                     <p>W1,W175,W205,W405,W520,W590</p>
+                    <p><b>Notes</b>: Cycle Drow Union to hit Evil Fortress.</p>
                     <p><b>Notes</b>: D290 swap for D1375 needs testing.</p>
             </div>
         </div>
@@ -789,17 +790,17 @@
                     <p><b>Bloodline</b>: Archon</p>
                     <p><b>Artifact Set</b>: Drow</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S400,S435,S3200,C50,C340,C400,D10,D290,D560,D1375,E135,E230,E400,E495,A25,A400,A410,A545,W1,W135,W175,W205,W405,W520,W590,S305,C305,D330,E145,A120,W525" id="Build"></p>
-                    <p>S400,S435,S3200,</p>
+                      <input type="text" value="S305,S400,S435,C50,C340,C400,D10,D290,D560,D1375,E135,E230,E400,E495,A25,A400,A410,A545,W1,W135,W175,W205,W405,W520,W590,S305,C305,D330,E145,A120,W525" id="Build"></p>
+                    <p>S305,S400,S435,</p>
                     <p>C50,C340,C400,</p>
                     <p>D10,D290,D560,D1375,</p>
                     <p>E135,E230,E400,E495,</p>
                     <p>A25,A400,A410,A545,</p>
                     <p>W1,W135,W175,W205,W405,W520,W590</p>
-                    <p><b>3rd Slot</b>: S305,C305,D330,E145,A120,W525</p>
-                    <p><b>Notes</b>: Reload build after Archon treaty.</p>
+                    <p><b>3rd Slot</b>: S215,C305,D330,E145,A120,W525</p>
+                    <p><b>Notes</b>: Reload build after Archon Bloodline increases.</p>
                     <p><b>Notes</b>: Since there are so many versions further testing will be needed.</p>
-                    <p><b>Notes</b>: Drowset seems to be better for longer runs and demonset for shorter runs.</p>
+                    <p><b>Notes</b>: Drow set swap to demon set needs testing</p>
          </div>
     </div>
       </div>
