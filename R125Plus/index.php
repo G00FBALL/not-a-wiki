@@ -742,7 +742,7 @@
                     <p>W50,W205,W405,W520</p>
                     <p><b>Extra Slot</b>: S305,C340,D330,E135,A120,W525</p>
                     <p><b>Notes</b>: D290 swap for D1375 needs testing.</p>
-                    <p><b>Notes</b>: Reload build after Archon treaty.</p>
+                    <p><b>Notes</b>: Reimport build after Archon treaty is bought.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -798,7 +798,7 @@
                     <p>A25,A400,A410,A545,</p>
                     <p>W1,W135,W175,W205,W405,W520,W590</p>
                     <p><b>3rd Slot</b>: S215,C305,D330,E145,A120,W525</p>
-                    <p><b>Notes</b>: Reload build after Archon Bloodline increases.</p>
+                    <p><b>Notes</b>: Reimport build after Archon Bloodline increases.</p>
                     <p><b>Notes</b>: Since there are so many versions further testing will be needed.</p>
                     <p><b>Notes</b>: Drow set swap to demon set needs testing</p>
          </div>
