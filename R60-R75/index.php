@@ -51,7 +51,7 @@
                 <p>A105,A120,A150,A305,A400,</p>
                 <p>W150,W180,W275,W400,W1375</p>
                 <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.</p>
-                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).</p>
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).</p>
          </div>
     </div>
 <p></p>
