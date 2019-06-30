@@ -164,6 +164,7 @@
 <p><b>PC</b>: Precognition</p>
 <p><b>LW</b>: Limited Wish</p>
 <p><b>IS</b>: Infinite Spiral</p>
+<p><b>CT</b>: Catalyst</p>
 <p>Tiered spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...).</p>
 <hr>
 <h6>Acronyms</h6>
