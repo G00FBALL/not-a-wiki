@@ -230,7 +230,7 @@
 <p>Glitchstorm</p>
 <p>RetroDerpSquid9</p>
 <p>Sythen2014</p>
-<p>Lead Luigi</p>
+<p>Lead "literally unreadable" Luigi</p>
 <p>Aaron Cook</p>
 <p>gamemasterty</p>
 <p>Trewq_</p>
