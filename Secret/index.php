@@ -479,6 +479,7 @@ div#images div{
 <p><b>Upgrade Cost</b>: 1 SpQag (1e144)</p>
 <p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
 <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
+<hr>  
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</b></p>
 <p><b>Requirement</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
 <p><b>Effect</b>: Gives upgrade with same name.</p>
