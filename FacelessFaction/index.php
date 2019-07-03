@@ -18,7 +18,7 @@
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b></p>
-<p><b>36 hours this game</b></p>
+<p><b>36 hours this reincarnation</b></p>
 <p>These requirements can be done in different game plays.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BoneFragment1FactionUpgrade.png" alt="Smiley face" align="middle"><b> Bone Fragment 1</b></p>
 <p><b>Type</b>: Quest Artifact</p>
@@ -32,14 +32,13 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/OctopusShapedSpine.png" alt="Smiley face" align="middle"><b> Octopus Shaped Spine</b></p>
 <p><b>Type</b>: Upgrade</p>
-<p><b>Unlock</b>: 2 Bone Fragments, 36 hours playtime (This game)</p>
+<p><b>Unlock</b>: 2 Bone Fragments, 36 hours playtime (This R)</p>
 <p><b>Cost</b>: Price: 1 No (1E30), 25,000 Fairy Coins, 25,000 Undead Coins</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutralityFactionUpgrade.png" alt="ProofofNeutrality" align="middle"><b> Proof Of Neutrality</b></p>
 <p><b>Type</b>: Alignment Upgrade</p>
 <p><b>Unlock</b>: Collect the 3 quest artifacts of any Neutral Faction.</p>
 <p><b>Cost</b>: 10Qa (1E16)</p>
-<p><b>Note</b>: For the Faceless Octopus Shaped Spine (36 hours) Use Titan or the Undead (up to 10% bonus per hour of play in current instance). With a bit more time, they can also unlock all the other Neutral Factions as well.</p>
 <p>In order to affiliate with a Neutral Faction, like for Vanilla Factions, you first need to choose the alignment. The alignment upgrade for Neutral Factions is called the Proof of Neutrality.</b></p>
 <p>To get Proof of Neutrality you have to unlock at least 1 of the neutral factions.</b></p>
 <hr>
