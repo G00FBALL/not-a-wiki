@@ -61,64 +61,64 @@
     <br/>
     <p><b>Mercenary Research and Unique Building Unlock</b></p>
     <div class="category">
-    <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buff-Before Merc Research Unlock (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-        <div class="autohide">
-            <p><b>Author</b>: Lapare</p>
-            <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
-            <p><b>Faction</b>: Druid</p>
-            <p><b>Bloodline</b>: Undead</p>
-              <p><button onclick="myFunction($(this))">Copy Build</button>
-              <input type="text" value="S215,S305,S330,S400,S500,S1450,C150,C250,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,D1375,E135,E145,E260,E320,E1225,E1325,E1425,A105,A120,A150,A375,A400,A545,A1500,W135,W150,W180,W350,W400,W1375" id="Build"></p>
-            <p>S215,S305,S330,S400,S500,S1450,</p>
-            <p>C150,C250,C340,C400,C1300,C1325,</p>
-            <p>D250,D275,D290,D1125,D1275,D1375,</p>
-            <p>E135,E145,E260,E320,E1225,E1325,E1425,</p>
-            <p>A105,A120,A150,A375,A400,A545,A1500,</p>
-            <p>W135,W150,W180,W350,W400,W1375</p>
-            <p><b>Notes</b>: Rush build, used for buffing W275 before merc research unlock.</p>
-            <p><b>Notes</b>: Excavate for DB5, no GB tiers/additional targets needed</p>
-     </div>
-</div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Tskami_ek</p>
-                    <p><b>Faction</b>: Neutral Mercenary</p>
-                    <p><b>Bloodline</b>: Goblin</p>
-                    <p><b>Range</b>: 1e87 (1 OcVg) gems</p>
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,SP:Fairy Chanting,SP:God's Hand" id="Build">
-                    <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,</p>
-                    <p>SP:Fairy Chanting,SP:God's Hand</p>
-                    <p><b>Notes</b>: Estimated time 5 minutes for unlock.</p>
+                <p><b>Author</b>: Tskami_ek</p>
+                <p><b>Faction</b>: Neutral Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Range</b>: 1e87 (1 OcVg) gems</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,SP:Fairy Chanting,SP:God's Hand" id="Build">
+                <p>FR9,EL3,EL7,AN5,GB4,GB7,TT6,FC7,DN2,DW2,DG3,DG4,</p>
+                <p>SP:Fairy Chanting,SP:God's Hand</p>
+                <p><b>Notes</b>: Estimated time 5 minutes for unlock.</p>
+            </div>
         </div>
-    </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research, UL20 Build) (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buff-Before Merc Research Unlock (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                    <p><b>Author</b>: Lapare</p>
-                    <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
-                    <p><b>Faction</b>: Neutral Mercenary</p>
-                    <p><b>Bloodline</b>: Undead</p>
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build"></p>
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="FR9,EL1,EL3,EL4,AN5,GB7,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build"> e88+</p>
-                    <p>FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,</p>
-                    <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
-                    <p>S215,S305,S400,S500,S1450,S1500,</p>
-                    <p>C250,C340,C400,C590,C1300,C1325,</p>
-                    <p>D25,D200,D245,D250,D1275,D2775,</p>
-                    <p>E135,E275,E320,E460,E590,E1425,</p>
-                    <p>A105,A120,A305,A545,A1325,A1500,</p>
-                    <p>W150,W180,W250,W275,W400,W1375</p>
-                    <p><b>Notes</b>: Swap DD6 to EL4 if at 1e88 (10 OcVg) gems or higher.</p>
-                    <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
-                    <p><b>Build has three stages</b></p>
-                    <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
-                    <p><b>2</b>: Get Lineage and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.
-                    <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.</p>
+                <p><b>Author</b>: Lapare</p>
+                <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
+                <p><b>Faction</b>: Druid</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S215,S305,S330,S400,S500,S1450,C150,C250,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,D1375,E135,E145,E260,E320,E1225,E1325,E1425,A105,A120,A150,A375,A400,A545,A1500,W135,W150,W180,W350,W400,W1375" id="Build"></p>
+                <p>S215,S305,S330,S400,S500,S1450,</p>
+                <p>C150,C250,C340,C400,C1300,C1325,</p>
+                <p>D250,D275,D290,D1125,D1275,D1375,</p>
+                <p>E135,E145,E260,E320,E1225,E1325,E1425,</p>
+                <p>A105,A120,A150,A375,A400,A545,A1500,</p>
+                <p>W135,W150,W180,W350,W400,W1375</p>
+                <p><b>Notes</b>: Rush build, used for buffing W275 before merc research unlock.</p>
+                <p><b>Notes</b>: Excavate for DB5, no GB tiers/additional targets needed</p>
+            </div>
+        </div>    
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research unlock, UL20 Build) (R75) (1e87+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Lapare</p>
+                <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
+                <p><b>Faction</b>: Neutral Mercenary</p>
+                <p><b>Bloodline</b>: Undead</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR9,EL1,EL3,EL4,AN5,GB7,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S215,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D245,D250,D1275,D2775,E135,E275,E320,E460,E590,E1425,A105,A120,A305,A545,A1325,A1500,W150,W180,W250,W275,W400,W1375" id="Build"> e88+</p>
+                <p>FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,</p>
+                <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
+                <p>S215,S305,S400,S500,S1450,S1500,</p>
+                <p>C250,C340,C400,C590,C1300,C1325,</p>
+                <p>D25,D200,D245,D250,D1275,D2775,</p>
+                <p>E135,E275,E320,E460,E590,E1425,</p>
+                <p>A105,A120,A305,A545,A1325,A1500,</p>
+                <p>W150,W180,W250,W275,W400,W1375</p>
+                <p><b>Notes</b>: Swap DD6 to EL4 if at 1e88 (10 OcVg) gems or higher.</p>
+                <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 shortly afterwards.
+                <p><b>Build has three stages</b></p>
+                <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
+                <p><b>2</b>: Get Lineage and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.
+                <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.</p>
             </div>
         </div>
     </div>
@@ -202,8 +202,8 @@
                 <p>W25,W180,W275,W400,W1375,W1400</p>
                 <p><b>Notes</b>: Swap D275 with D525 if HL is T4 or higher.</p>
                 <p><b>Notes</b>: DG9 requires L15 Dragon Lineage and completion of the Perk 2 challenge.</p>
-         </div>
-    </div>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Anonymous Benefactors (R77-R81) (1e88+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
@@ -233,8 +233,8 @@
                 <p><b>Notes</b>: Excavate for Dragon Heritage at below 1e90 (1 NoVg) Gems.</p>
                 <p><b>Notes</b>: Swap W290 with W3150 if R79+.</p>
                 <p><b>Notes</b>: Swap Moon Blessing with Brainwave if MB is lower than T3</p>
-         </div>
-    </div>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Poltergeist Reborn (R81-R89) (1e88+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
@@ -257,8 +257,8 @@
                 <p>W180,W260,W275,W400,W3050,W3150</p>
                 <p><b>Notes</b>: Swap A175 with A3400 at R82+.</p>
                 <p><b>Notes</b>: Some Researches will require you to buy E3300 first</p>
-         </div>
-    </div>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Reaper of Monetary Assets (R82-R89) (1e100+)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
@@ -359,8 +359,8 @@
                 <p>E135,E320,E1225,E1425,E3250,E3300,</p>
                 <p>A120,A305,A1200,A1500,A2950,A3400,</p>
                 <p>W275,W400,W1375,W1400,W3050,W3150</p>
-         </div>
-    </div>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline (R82-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
