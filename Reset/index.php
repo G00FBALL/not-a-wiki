@@ -19,8 +19,8 @@
 <p>Abdicating will reset all buildings, upgrades and coins, but you will keep your trophies and be awarded with gems that will boost your production. Otherwise, you may also spend Rubies to gain Gems without resetting!</p>
 <p><b> Gems to Coins Formula</b>: A1: n * (n + 1) * 5E11(5E3 in A2), where n is gems</p>
 <p><b> Gems to Coins Formula</b>: A2+: n * (n + 1) * (5E3), where n is gems</p>
-<p><b> Coins to Gems Formula</b>: A1: floor(x ^ 0.5 / (5e11) ^ 0.5), where n is coins</p>
-<p><b> Coins to Gems Formula</b>: A2+: floor(x ^ 0.5 / (5e3) ^ 0.5), where n is coins</p>
+<p><b> Coins to Gems Formula</b>: A1: floor(n ^ 0.5 / (5e11) ^ 0.5), where n is coins</p>
+<p><b> Coins to Gems Formula</b>: A2+: floor(n ^ 0.5 / (5e3) ^ 0.5), where n is coins</p>
 <p><b><a target="" href="http://musicfamily.org/realm/Abdication/">More about Abdication</b></a></p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Reincarnate.png" alt="Reincarnate" align="middle"></h6>
