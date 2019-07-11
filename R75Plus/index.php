@@ -54,7 +54,7 @@
                 <p>W150,W180,W275,W290,W400,W1375</p>
                 <p><b>Notes</b>: Excavating for DB5 is recommended.</p>
                 <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).</p>
-                <p><b>Notes</b>: Swap W290 with W3150 (R79+) and S135 with S3200 (R80+) and when able to buy them (1e84 (1 SpVg) gems+).</p>
+                <p><b>Notes</b>: Swap W290 with W3150 (R79+) and S135 with S3200 (R82+) and when able to buy them (1e84 (1 SpVg) gems+).</p>
             </div>
         </div>
     </div>
