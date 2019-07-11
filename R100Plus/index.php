@@ -70,7 +70,7 @@
                     <p><b>Alignment</b>: Neutral, Balance</p>
                     <p><b>Faction</b>: Druid</p>
                     <p><b>Bloodline</b>: Faceless</p>
-                    <p><b>Artifact Set</b>: Faceless (If AotC is affordable)> Angel > Druid (From left to right, if avaliable)</p>
+                    <p><b>Artifact Set</b>: Faceless (If AotC is affordable)> Angel, Druid (From left to right, if avaliable)</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S400,C300,C400,D275,D290,E260,E1325,A251,A375,A400,W350,W1375" id="Build"></p>
                     <p>S400,</p>
@@ -93,7 +93,7 @@
                     <p><b>Alignment</b>: Good, Chaos</p>
                     <p><b>Faction</b>: Fairy</p>
                     <p><b>Bloodline</b>: Undead</p>
-                    <p><b>Artifact Set</b>: Faceless > Undead > Druid (From left to right, if avaliable)</p>
+                    <p><b>Artifact Set</b>: Faceless, Undead, Druid (From left to right, if avaliable)</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S1,S180,S3200,C10,C400,D225,D290,E50,E1325,A30,A120,W1375" id="Build"></p>
                     <p>S1,S180,S3200</p>
@@ -113,7 +113,7 @@
                     <p><b>Alignment</b>: Good, Balance</p>
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Artifact Set</b>: Faceless > Goblin > Druid (From left to right, if avaliable)</p>
+                    <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if avaliable)</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E320,A3400,W10,W1375" id="Build"></p>
                     <p>S175,S3200,</p>
@@ -175,7 +175,7 @@
                     <p><b>Alignment</b>: Evil, Order</p>
                     <p><b>Faction</b>: Undead</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Artifact Set</b>: Angel > Undead > Faceless (From left to right, if avaliable)</p>
+                    <p><b>Artifact Set</b>: Angel, Undead, Faceless (From left to right, if avaliable)</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S225,S3200,C400,D25,D290,E10,E3250,A1,A175,A3400,W50,W205" id="Build"></p>
                     <p>S225,S3200,</p>
@@ -217,7 +217,7 @@
                     <p><b>Alignment</b>: Neutral, Order</p>
                     <p><b>Faction</b>: Titan</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Artifact Set</b>: Faceless > Goblin > Druid (From left to right, if avaliable)</p>
+                    <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if avaliable)</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S300,S3200,C251,C375,C400,D290,D350,E275,E1325,A3400,W260,W1375" id="Build"></p>
                     <p>S300,S3200,</p>

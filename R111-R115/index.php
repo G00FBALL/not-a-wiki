@@ -20,7 +20,7 @@
                 <p><b>Range</b>: 0 Gems - 1e44 (100 TD) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Elf > Angel (From left to right, if avaliable)</p>
+                <p><b>Artifact Set</b>: Elf, Angel (From left to right, if avaliable)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E3250,A120,W10,W1375" id="Build"> 0 Gems - 1e36 (1 UD) Gems</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -44,7 +44,7 @@
                 <p><b>Range</b>: 1e44 (100 TD) Gems+</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Elf > Angel (From left to right, if avaliable)</p>
+                <p><b>Artifact Set</b>: Elf, Angel (From left to right, if avaliable)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E145,A120,W10,W1375" id="Build"></p>
                 <p>S175,S3200,</p>
