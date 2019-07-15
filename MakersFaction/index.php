@@ -9,7 +9,7 @@
 <p><b>Alignment</b>: (Balance)</p>
 <p><b>Faction spell</b>: Infinite Spiral</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
+<p><b>Formula</b>: (10 + 0.025 * (x * (y + z)) ^ 0.75), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
 <p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
@@ -45,18 +45,21 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
 <p><b>Cost</b>: 10 Dqag (1e130)</p>
-<p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
+<p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain 1 M (1e6) assistants.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
 <p><b>Requirements</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Makers Faction</p>
 <hr>
+<p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16.</p>
+<p><b>Note</b>: Elite spells can only be bought from the Sorcery contract.</p>
+<hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png" align="middle"> Makers Trade Treaty</b></p>
 <p><b>Description</b>: The legendary old race which is said to have created the world, their watchful eye aims to keep all forces in check. Affiliating with them will increase your ability to dominate all your resources.</p>
 <p><b>Requirements</b>: Vanilla and Prestige Union</p>
-<p><b>Cost</b>: 1 No (1e30) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Oc (1e27) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
@@ -76,7 +79,7 @@
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersFriendshipPact.png" align="middle">  Makers Friendship Pact</b></p>
-<p><b>Cost</b>: 1 UD (1e36) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Magical Shards</b></p>
@@ -96,13 +99,13 @@
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersAlliance.png" align="middle">  Makers Alliance</b></p>
-<p><b>Cost</b>: 1 Dd (1e39) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Dc (1e33) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Makers Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stonecarving</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-<p><b>Formula</b>: (0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (30 + 0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -116,7 +119,7 @@
 <p><b>Note</b>: MK9 now works like W3150 ( ^ 2 bonus when able).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
-<p><b>Cost</b>: 1 Td (1e42) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Ud (1e36) Elven and Goblin Coins</p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
 <p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is Tax Collections cast this game.</p>
 <hr>
@@ -139,7 +142,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 <p><b>Requirements</b>: R130, Unique Building</p>
-<p><b>Cost</b>: 1 Qad (1e45) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Dd (1e39) Elven and Goblin Coins</p>
 <p><b>Effect</b>: All Creation production effect is based on the highest mana regeneration rate in this Reincarnation.</p>
 <p><b>Note</b>: Does not effect FC chance
   <p><b>Effect</b>: Grants access to Union Upgrade.</p>

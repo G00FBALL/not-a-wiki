@@ -21,7 +21,7 @@
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy" align="middle"> Fairy Trade Treaty</b></p>
-<p><b>Cost</b>: Free</p>
+<p><b>Cost</b>: Free with 0 gems, 20 Fairy Coins with any gems.</p>
 <p><b>Effect</b>: Fairies focus on the small and common things and make them magically powerful. Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" alt="Smiley face" align="middle"> Pixie Dust Fertilizer</b></p>
@@ -106,7 +106,7 @@
 <hr>
 <p><b>Ascension 2 - R100+</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>
 <p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
 <p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
@@ -127,7 +127,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
 <p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
-<p><b>Formula</b>: (0.4 * x ^ 2.4)%, where x is active spells.</p>
+<p><b>Formula</b>: (0.5 * x ^ 2.5)%, where x is active spells.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairiesUnion.png" alt="Fairies Union" align="middle"> <b>Fairies Union</b></p>

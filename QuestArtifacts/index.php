@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
 <p><b>Quest Artifacts <a href="/realm/LoreArtifacts" title="Lore Artifacts">Lore Artifacts</a></b></p>
-<p>There are 22 Quest Artifacts that unlock the other Factions, Research and Research Slots.</p>
+<p>There are 23 Quest Artifacts that unlock the other Factions, Research and Research Slots.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientStoneSlab1.png" alt="Artifacts" align="middle"><b> Ancient Stone Slab 1</b></p>
 <p><b>Clues</b>: We discovered an ancient stone slab written in old scriptures. It appears to say something about Halls of Legends.</p>
 <p><b>Unlocks</b>: 1st clue required to unlock the Titan Alliance.</p>
@@ -107,7 +107,7 @@
 <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-<p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
+<p><b>Chance</b>: 2 * (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png align=middle><b> Third Crystal Fragment</b></p>
 <p><b>Clue</b>: Also acts as a spell catalyst.</p>
@@ -132,4 +132,9 @@
 <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
 <p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ObsidianCrown.png" align="middle"> Obsidian Crown</b></p>
+<p><b>Requirements</b>: R170+, Aligned with Mercs, 10 excavation resets (This game)</p>
+<p><b>Chance</b>: ((x - 10) / 1000)%, x is the number of free and ruby excavation resets (This game)</p>
+<p><b>Effect</b>: Unlocks Mercenary Union Contract</p>
 <?php include "../scripts/footer.html"; ?>

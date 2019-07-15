@@ -107,7 +107,7 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Undead Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Undead Coins</p>
 <p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.<p>
 <p><b>Effect</b>: Assistants count more based on your Offline Bonus.</p>
 <p><b>Formula</b>: (0.025 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
@@ -129,7 +129,7 @@
 <p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
-<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
+<p><b>Formula</b>: (10 * x ^ 0.6), where x is mana regen per second.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>

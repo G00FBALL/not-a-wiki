@@ -484,7 +484,7 @@
             <p><b>Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingUpgrade.png" alt="Tiered Autocasting" align="middle"> Tiered Autocasting</b></p>
-            <p><b>Cost</b>: Free
+            <p><b>Cost</b>: 100 Qid (1e50)
             <p><b>Unlock Requirements</b>: R40+, 200M Mana Produced (Total this R)
             <p><b>Alignment</b>: Any
             <p>Only for Tier upgraded Spells (R42+). Allows you to set the maximum tier you wish to autocast each spell to.
@@ -599,15 +599,15 @@
             <p><b>Cost</b>: 1 Tqag (1e129)</p>
             <p><b>Effect 1</b>: Allows access to Research Facilities</p>
             <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: (0.5 * log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
+            <p><b>Formula</b>: (log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
             <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
             <p><b>Requirement</b>: Mercenary Encampment Quest, Neutral Alignment</p>
             <p><b>Cost</b>: 1 Tqag (1e129)</p>
             <p><b>Effect 1</b>: Allows access to Research Facilities</p>
-            <p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
-            <p><b>Formula</b>: (2 * x ^ 1), where x is assistants you had in a single game (This R)</p>
+            <p><b>Effect 2</b>: Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
+            <p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
             <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
             <hr>
             <p><b>R100+</b>
@@ -616,7 +616,7 @@
             <p><b>Requirement</b>: Holy Site Quest, Good alignment, Proof of Order</p>
             <p><b>Effect</b>: Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on time spent as good.</p>
-            <p><b>Formula</b>: (0.08 * x ^ 0.8)%, where x is time in second as good in this R.</p>
+            <p><b>Formula</b>: (x ^ 0.85), where x is time in second as good in this R.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuildingUpgrade.png" alt="Swarming Towers" align="middle"> <b>Swarming Tower</b></p>
@@ -624,7 +624,7 @@
             <p><b>Requirement</b>: Swarming Towers Quest, Good alignment, Proof of Chaos</p>
             <p><b>Effect</b>: Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
-            <p><b>Formula</b>: (0.4 * x ^ 2.4)%, where x is active spells.</p>
+            <p><b>Formula</b>: (0.5 * x ^ 2.5)%, where x is active spells.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuildingUpgrade.png" alt="Arboreal City" align="middle"> <b>Arboreal City</b></p>
@@ -640,7 +640,7 @@
             <p><b>Requirement</b>: Flesh Workshop Quest, Evil alignment, Proof of Order</p>
             <p><b>Effect</b>: Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on mana regen.</p>
-            <p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
+            <p><b>Formula</b>: (10 * x ^ 0.6), where x is mana regen per second.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> <b>Burning Abyss</b></p>
@@ -1202,7 +1202,7 @@
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" align="middle"><b> Vanilla Flavor Juice</b></p>
             <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
-            <p><b>Rewards</b>: Increase the production of all buildings by 25,000% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
+            <p><b>Rewards</b>: Increase the production of all buildings by 2500% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
             <p><b>Note</b>: Effect is canceled if you Prestige.</p>
             <p><b>Requirement</b>: +R16</p>
             <p><b>Chance</b>: 20% in the first 5m of a game</p>
@@ -1262,12 +1262,12 @@
             <p><b>Formula</b>: (x ^ (0.85 + 0.15 * A)), where x is the number of buildings you own.
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
-            <p><b>Requirements</b>: Have at least 1 Lineage level purchased.
-            <p><b>Chance</b>: Total Lineage levels/2000
-            <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)
-            <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)
-            <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9
-            <p><b>Cost</b>: 10 Dtg (1e100)
+            <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
+            <p><b>Chance</b>: Total Lineage levels/2000</p>
+            <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
+            <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
+            <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level)) ^ 0.9</p>
+            <p><b>Cost</b>: 10 Dtg (1e100)</p>
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part 2</b></p>
             <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
@@ -1281,30 +1281,30 @@
             <p><b>Cost</b>: 100 Noqag (1e152)</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
-            <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.
-            <p><b>Requirement</b>: R90+
-            <p><b>Chance</b>: 5%
-            <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.
+            <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.</p>
+            <p><b>Requirement</b>: R90+, Dragon Challenge 6</p>
+            <p><b>Chance</b>: 5%</p>
+            <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.</p>
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
-            <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.
-            <p><b>Requirements</b>: R100+
-            <p><b>Effect</b>: Increase the production of all buildings based on their tier.
-            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
-            <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.
+            <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
+            <p><b>Requirements</b>: R100+</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
+            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
+            <p><b>Formula</b>: (100000*(11-x)^3)%, where x is building tier.</p>
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
-            <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.
-            <p><b>Requirement</b>: R100+
-            <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.
-            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%.
-            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins
+            <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
+            <p><b>Requirement</b>: R100+</p>
+            <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 200%.</p>
+            <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientCocoaBeanArtifacts.png" alt="Ancient Cocoa Bean" align="middle"><b> Ancient Cocoa Bean</b></p>
-            <p><b>Description</b>: Despite being centuries old, it still smells like top-quality cocoa.
-            <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade
-            <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice
-            <p><b>Upgrade Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions.
+            <p><b>Description</b>: Despite being centuries old, it still smells like top-quality cocoa.</p>
+            <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade</p>
+            <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Juice</p>
+            <p><b>Upgrade Effect</b>: Increase the production of all buildings by 2500% for the first 15 minutes of the game for all Neutral factions.
             <p><b>Chance</b>: 10%"
             <p><b>Note</b>: Does not work while offline.</p>
             <hr>
@@ -1313,27 +1313,27 @@
             <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
             <p><b>Requirement</b>: R100+</p>
             <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-            <p><b>Upgrade Effect</b>: Lower cost of Lineage level based on time spent this game.
+            <p><b>Upgrade Effect</b>: Lower Lineage cost exponent based on Reincarnations made.
             <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
-            <p><b>Formula</b>: (x ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations. (reset when upgrading lineage),</p>
-            <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
+            <p><b>Formula</b>: (0.01 * R), R is Reincarnations made.</p>
+            <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (8 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
             <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
-            <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
+            <p><b>Chance:</b>: 2 * (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
             <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130).</p>
-            <p><b>Effect</b>: Increase Faction Coin find chance by 2000%</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by 200%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"><b> Djinn Mask</b></p>
             <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
-            <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
+            <p><b>Effect</b>: Increase Maximum Mana by 150%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"><b> Makers Mask</b></p>
             <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
-            <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
+            <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain 1 M (1e6) assistants.</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Faction Quest Upgrades</a></b></p>
         <div class="autohide">
@@ -1745,7 +1745,7 @@
             <p><b>Requirements</b>: Complete all the Neutral Challenges.
             <p><b>Cost</b>:
             <p><b>Alignment</b>: Neutral
-            <p><b>Effect</b>: Increase the overall production of Neutral Factions by 2.26%.
+            <p><b>Effect</b>: Increase the overall production of Neutral Factions by 25%. (Not A-Nerfed)
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoviceResearcherSecretUpgrade.png" alt="Novice Researcher" align="middle"> Novice Researcher</b></p>
             <p><b>Requirements</b>: Research 600 Times across all fields.
@@ -1806,7 +1806,7 @@
             <p><b>Requirements</b>: Complete all the Vanilla Challenges.
             <p><b>Cost</b>: 10 Coins
             <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 25%.
+            <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 25%. (Not A-Nerfed)
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretUpgrade.png" alt="Faction Run" align="middle"> Faction Run</b></p>
             <p><b>Requirements</b>: Earn 1.5M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.
@@ -1815,23 +1815,23 @@
             <p><b>Effect</b>: +10% Faction Coin find chance
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/IntermediateResearcherSecretUpgrade.png" alt="Intermediate Researcher" align="middle"> Intermediate Researcher</b></p>
-            <p><b>Requirements</b>: Research 1800 times across all fields.
-            <p><b>Cost</b>: 1 QiQig (1E168)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Intermediate Researcher upgrade, increases production of all Neutral Factions by 100%
+            <p><b>Requirements</b>: Research 1800 times across all fields.</p>
+            <p><b>Cost</b>: 1 QiQig (1E168)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Intermediate Researcher upgrade, increases production of all Neutral Factions by 100%</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientResearcherSecretUpgrade.png" alt="Ancient Researcher" align="middle"> Ancient Researcher</b></p>
-            <p><b>Requirements</b>: Discover all the Neutral researches.
-            <p><b>Cost</b>: 1 NoSxg (1E210)
-            <p><b>Alignment</b>: Any
-            <p><b>Effect</b>: Ancient Researcher upgrade, increases the production of all buildings based on acquired research.
-            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.
+            <p><b>Requirements</b>: Discover all the Neutral researches.</p>
+            <p><b>Cost</b>: 1 NoSxg (1E210)</p>
+            <p><b>Alignment</b>: Any</p>
+            <p><b>Effect</b>: Ancient Researcher upgrade, increases the production of all buildings based on acquired research.</p>
+            <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretUpgrade.png" alt="NoRecruiting" align="middle"> No Recruiting</b></p>
-            <p><b>Requirements</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.
-            <p><b>Cost</b>: 1 Tg (1E93)
-            <p><b>Alignment</b>: Not Mercenary
-            <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation
+            <p><b>Requirements</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
+            <p><b>Cost</b>: 1 Tg (1E93)</p>
+            <p><b>Alignment</b>: Not Mercenary</p>
+            <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation. (Not A-Nerfed)</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretUpgrade.png" alt="That Excavated Quickly" align="middle"> That Excavated Quickly</b></p>
             <p><b>Requirements</b>: Excavate 1000 times in the first 30 seconds of playtime.
@@ -1955,13 +1955,18 @@
             <hr></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretUpgrade.png" alt="Master Researcher" align="middle"> Master Researcher</b></p>
             <p><b>Requirement</b>: Research 10000 times across all fields.</p>
-            <p><b>Cost Post Ascension</b>: 1 Qavg (1e75)
-            <p><b>Effect</b>: Increase the overall production of Dragons by 9.6%.
+            <p><b>Cost Post Ascension</b>: 1 Qavg (1e75)</p>
+            <p><b>Effect</b>: Increase the overall production of Dragons by 100%.</p>
             <hr></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png" alt="Prestige Challenger" align="middle"> Prestige Challenger</b></p>
             <p><b>Requirement</b>: Complete all the Prestige Challenges, R63+</p>
             <p><b>Cost</b>: Free
-            <p><b>Effect</b>: Increase the overall production of Prestige Factions by 2.26%.
+            <p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%. (Not A-Nerfed)
+            <hr></p>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/EliteChallenger.png" alt="Elite Challenger" align="middle"> Elite Challenger</b></p>
+            <p><b>Requirement</b>: Complete all the Prestige Challenges, RR153+</p>
+            <p><b>Cost</b>: Free
+            <p><b>Effect</b>: Increase the overall production of Elite Factions by 25%. (Not A-Nerfed)
             <hr></p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
             <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
@@ -2012,7 +2017,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KnowYourEnemyPart2" align="middle"><b> Know Your Enemy, Part 2</b></p>
             <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
             <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
-            <p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
+            <p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
             <p><b>Chance</b>: 5%</p>
             <p><b>Effect</b>: Awards an upgrade of the same name.</p>
             <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
@@ -2023,7 +2028,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png" alt="Grandmaster Researcher" align="middle"><b> Grandmaster Researcher</b></p>
             <p><b>Requirements</b>: Research 18500 times across all fields.</p>
             <p><b>Cost</b>: 10 SpQig (1e175)</p>
-            <p><b>Effect</b>: Increase the overall production of Mercenaries by 100%.</p>
+            <p><b>Effect</b>: Increase the overall production of Mercenaries by 150%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png" alt="Warrior Researcher" align="middle"><b> Warrior Researcher</b></p>
             <p><b>Requirements</b>: Discover all the Mercenary researches.</p>
@@ -2075,12 +2080,12 @@
             <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
             <p><b>Requirement</b>: R100+</p>
             <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-            <p><b>Upgrade Effect</b>: Lower cost of Lineage level based on time spent this game.</p>
+            <p><b>Upgrade Effect</b>: Lower Lineage cost multiplier based on Reincarnations made.</p>
             <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
-            <p><b>Formula</b>: (x ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations. (reset when upgrading lineage),</p>
+            <p><b>Formula</b>: (0.01 * R), R is Reincarnations made.</p>
             <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
             <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
-            <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
+            <p><b>Chance:</b>: 2 * (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png" align="middle"><b> Holy Frenzy</b></p>
             <p><b>Requirement</b>: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.</p>
@@ -2268,8 +2273,8 @@ div#images div{
             <p><img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="Dragon's Roar" align="middle"> <b>Dragon's Roar</b></p>
             <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
             <p><b>Cost</b>: 1 Qad (1.0e45)</p>
-            <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
-            <p><b>Formula</b>: floor(135 * x^0.98), where x is all Rs activity time in seconds.</p>
+            <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
+            <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b>
             <p><b>Requirement</b>: Mercenary Camp, Mercenary Good Alignment</p>
@@ -2284,20 +2289,22 @@ div#images div{
             <p><b>Cost</b>: 1 Qaqag (1e135)</p>
             <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
             <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests Additional casts of Reap Interests increase its seconds worth of production.</p>
+            <p><b>Effect 2</b>: Removes 1 Ascension Penalty from Heresiarchs</p>
             <p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))) , where y is TC original power and x is amount of TC casts.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b>
             <p><b>Requirement</b>: Freemason's Hall, Mercenary Neutral Alignment</p>
             <p><b>Cost</b>: 1 Qaqag (1e135)</p>
-            <p><b>Effect </b>: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins per cast</p>
-            <p><b>Formula</b>: 2.65 * x ^ 2.65, where x is original Faction Coin chance.</p>
+            <p><b>Effect </b>: Upgrades Tax Collection spell to Appraisal Vantage, Generates additional Faction Coins based on the amount of assistants you own.</p>
+            <p><b>Formula</b>: (y * x ^ 1.25), where y is FC%, x is assistants owned.</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-            <p><b>Requirement</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+            <p><b>Requirement</b>: R125+, Cast Precognition with at least 1 Qi (1e18) mana regeneration.</p>
             <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
-            <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
+            <p><b>Effect</b>: Scale off invisible spell duration modifiers.</p>
+            <p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
             <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
-            <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
+            <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e18 with it not active</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
             <p><b>Requirement</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
@@ -2347,7 +2354,7 @@ div#images div{
 </map>
 </br>
 <p><b>Inn Upgrades (Alignment: Any-None)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/igroup2.png" usemap="#igroup2-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/igroup3.6.png" usemap="#igroup2-map">
 <map name="igroup2-map">
     <area target="" research="Upgrade 1: Top Quality Beer<p>Requirement: 5 Inns<p>Cost Pre Ascension: 2,510<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 100%.<p>Post Ascension: Increase Inn production by 17.8%.<p>Adds 1 Assistant" coords="5,4,51,51" shape="rect">
     <area target="" research="Upgrade 2: Cockroach Disinfestation<p>Requirement: 25 Inns<p>Cost Pre Ascension: 82,300<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Inn production by 200%.<p>Post Ascension: Increase Inn production by 11.6%.<p>Adds 1 Assistant" coords="56,4,105,51" shape="rect">
@@ -2372,8 +2379,8 @@ div#images div{
     <area target="" research="Upgrade 21: Ogre Brewery<p>Requirement: R40+, 4000 Inns<p>Cost: 4.689Qid (4.689e54)<p>Increase Inn production by 70%." coords="3,111,50,160" shape="rect">
     <area target="" research="Upgrade 22: Otherworldly Spirits<p>Requirement: R40+, 10000 Inns<p>Cost: 6.48 Tqag (6.48e132)<p>Increase Inn by 80%" coords="54,109,105,161" shape="rect">
     <area target="" research="Upgrade 23: Spider Decorations<p>Requirement: R100+, 18000 Inns<p>Cost: 7.037 Notg (7.037e120)<p>Increase the production of Inns by 90%." coords="108,110,160,161" shape="rect">
-    <area target="" research="<b>Brothels</b><p>At R116, Inns can be upgraded to the Unique Building: Brothels, boosting their production based on Royal Exchanges made and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Evil Drow</p><p><b>Unlock Requirements:</b> R116+, 1 B (1e9) spells cast this game</p><p><b>Effect:</b> Grants access to Drow Union.</p><p><b>Formula:</b> 10* x ^ 1.05, where x is Royal Exchanges made this game.</p>" coords="346,109,540,161" shape="rect">
-</map>
+    <area target="" research="<b>Brothels</b><p>At R116, Inns can be upgraded to the Unique Building: Brothels, boosting their production based on Royal Exchanges made and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Evil Drow</p><p><b>Unlock Requirements:</b> R116+, 1 B (1e9) spells cast this game</p><p><b>Effect:</b> Grants access to Drow Union.</p><p><b>Formula:</b> 10* x ^ 1.05, where x is Royal Exchanges made this game.</p>" coords="164,110,346,162" shape="rect">
+    <area target="" research="<b>Freemason's Halls</b><p>At R75, Inns can be upgraded to the Unique Building: Freemason's Halls, boosting their production based on the highest amount of assistants you had in a single game and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Neutral Mercenary</p><p><b>Unlock Requirements:</b> R75+, 125,000 buildings</p><p><b>Effect:</b> Grants access to Research Facilities.</p><p><b>Formula: </b>(20 + 20 * x), where x is assistants you had in a single game (This R).</p>" coords="347,111,540,162" shape="rect"></map>
 </br>
 <p><b>Blacksmith Upgrades (Alignment: Any-None)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/bgroup1.png" usemap="#bgroup1-map">
@@ -2404,7 +2411,7 @@ div#images div{
     <area target="" research="<b>Dwarven Forges</b><p>At R28, Blacksmiths can be upgraded to the Unique Building: Dwarven Forges, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Good-Dwarf</p><p><b>Unlock Requirements:</b> R28+, 5000 Blacksmiths</p><p><b>Formula:</b> 100 ^ x ^ 0.9, where x is mana per second.</p>" coords="351,111,536,159" shape="rect">
 </map>
 <p><b>Deep Mine Upgrades (Alignment: Neutral)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/dgroup1.png" usemap="#dgroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/dgroup3.6.png" usemap="#dgroup1-map">
 <map name="dgroup1-map">
     <area target="" research="Upgrade 1: Reinforced Beams<p>Requirement: 5 Deep Mines<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Deep Mines production by 100%.<p>Post Ascension: Increase Deep Mines production by 7.18%.<p>Adds 1 Assistant" coords="3,3,51,52" shape="rect">
     <area target="" research="Upgrade 2: Lifesaving Canary<p>Requirement: 25 Deep Mines<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Deep Mines production by 100%.<p>Post Ascension: Increase Deep Mines production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,52" shape="rect">
@@ -2430,9 +2437,10 @@ div#images div{
     <area target="" research="Upgrade 22: Beard Preserving Mask<p>Requirement: R40+, 10000 Deep Mines<p>Cost: 93.31 Tqag (9.331e133)<p>Increase Deep Mine by 50%" coords="56,110,107,162" shape="rect">
     <area target="" research="Upgrade 23: Safety Caps<p>Requirement: R100+, 18000 Deep Mines<p>Cost: 101.3 Notg (1.013e122)<p><p>Increase the production of Deep Mines by 100%." coords="110,110,161,162" shape="rect">
     <area target="" research="<b>Mountain Palaces</b><p>At R100, Deep Mines can be upgraded to the Unique Building: Mountain Palaces, boosting their production based on buildings owned and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Proof of Order, Titan</p><p><b>Unlock Requirements:</b> R100+, 3750 Royal Exchanges</p><p><b>Effect:</b> Grants access to Titan Union.</p><p><b>Formula:</b> 0.75 * x ^ 0.75, where x is buildings owned.</p>" coords="351,112,540,161" shape="rect">
+  	<area target="" research="<b>Pavillons</b><p>At R130, Deep Mine can be upgraded to the Unique Building: Pavillons, boosting their production based on spell casts in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Faceless</p><p><b>Unlock Requirements:</b> R130+, 5 days of Chaos spells in this game</p><p><b>Effect:</b> Grants access to Djinn Union.</p><p><b>Formula: </b>10 * x ^ 0.5, where x is spell casts this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
 </map>
 <p><b>Stone Pillars Upgrades (Alignment: Neutral)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/sgroup2.png" usemap="#sgroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/sgroup3.6.png" usemap="#sgroup1-map">
 <map name="sgroup1-map">
     <area target="" research="Upgrade 1: Rune of Saving<p>Requirement: 5 Stone Pillars<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Stone Pillars production by 100%.<p>Post Ascension: Increase Stone Pillars production by 7.18%.<p>Adds 1 Assistant" coords="3,3,50,52" shape="rect">
     <area target="" research="Upgrade 2: Rune of Earning<p>Requirement: 25 Stone Pillars<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Stone Pillars production by 100%.<p>Post Ascension: Increase Stone Pillars production by 7.18%.<p>Adds 1 Assistant" coords="56,3,105,51" shape="rect">
@@ -2458,10 +2466,9 @@ div#images div{
     <area target="" research="Upgrade 22: Token of Earning<p>Requirement: R40+, 10000 Stone Pillars<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Stone Pillar by 50%" coords="56,111,105,162" shape="rect">
     <area target="" research="Upgrade 23: Token of Income<p>Requirement: R100+, 18000 Stone Pillars<p>Cost: 315.3 Notg (3.153e122)<p><p>Increase the production of Stone Pillars by 100%." coords="108,110,160,161" shape="rect">
     <area target="" research="<b>Stonehenge Circles</b><p>At R22, Stone Pillars can be upgraded to the Unique Building: Stonehenge Circles, boosting their production based on maximum mana and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Druid</p><p><b>Unlock Requirements:</b> R22+, 2000 Stone Pillars</p><p><b>Effect:</b> Grants access to Research Facilities.</p><p><b>Formula:</b> 30 * x, where x is maximum mana.</p>" coords="351,111,536,159" shape="rect">
-  	<area target="" research="<b>Pavillons</b><p>At R130, Stone Pillars can be upgraded to the Unique Building: Pavillons, boosting their production based on spell casts in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Faceless</p><p><b>Unlock Requirements:</b> R130+, 5 days of Chaos spells in this game</p><p><b>Effect:</b> Grants access to Djinn Union.</p><p><b>Formula: </b>10 * x ^ 0.5, where x is spell casts this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
 </map>
 <p><b>Alchemist Lab Upgrades (Alignment: Neutral)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/agroup2.png" usemap="#agroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/agroup3.6.png" usemap="#agroup1-map">
 <map name="agroup1-map">
     <area target="" research="Upgrade 1: Copper Transmutation<p>Requirement: 5 Alchemist Labs<p>Cost Pre Ascension: 764,320<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Alchemist Labs production by 100%.<p>Post Ascension: Increase Alchemist Labs production by 7.18%.<p>Adds 1 Assistant" coords="3,2,50,51" shape="rect">
     <area target="" research="Upgrade 2: Bronze Transmutation<p>Requirement: 25 Alchemist Labs<p>Cost Pre Ascension: 25.02M (2.502e7)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Alchemist Labs production by 100%.<p>Post Ascension: Increase Alchemist Labs production by 7.18%.<p>Adds 1 Assistant" coords="56,3,103,51" shape="rect">
@@ -2486,8 +2493,7 @@ div#images div{
     <area target="" research="Upgrade 21: Magisteel Transmutation<p>Requirement: R40+, 4000 Alchemist Labs<p>Cost: 17.82Ocd (1.782e58)<p>Increase Alchemist Labs production by 50%." coords="3,112,51,161" shape="rect">
     <area target="" research="Upgrade 22: Demirock Transmutation<p>Requirement: R40+, 10000 Alchemist Labs<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Alchemist Lab by 50%" coords="54,109,107,162" shape="rect">
     <area target="" research="Upgrade 23: Obsidium Transmutation<p>Requirement: R100+, 18000 Alchemist Labs<p>Cost: 2.139 Qag (2.139e123)<p><p>Increase the production of Alchemist Labs by 100%." coords="108,111,160,161" shape="rect">
-    <area target="" research="<b>Freemason's Halls</b><p>At R75, Alchemist Labs can be upgraded to the Unique Building: Freemason's Halls, boosting their production based on the highest amount of assistants you had in a single game and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Neutral Mercenary</p><p><b>Unlock Requirements:</b> R75+, 125,000 buildings</p><p><b>Effect:</b> Grants access to Research Facilities.</p><p><b>Formula: </b>(2 * x ^ 1), where x is highest assistants you had in a single game in this Reincarnation.</p>" coords="347,111,540,162" shape="rect">
-  	<area target="" research="<b>Nexuses</b><p>At R130, Alchemist Labs can be upgraded to the Unique Building: Nexuses, boosting their production based on time spent as Order in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Titan</p><p><b>Unlock Requirements:</b> R130+, 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs</p><p><b>Effect:</b> Grants access to Archon Union.</p><p><b>Formula: </b>(80 * x ^ 0.8), where x is time spent as Order in this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
+  	<area target="" research="<b>Nexuses</b><p>At R130, Alchemist Labs can be upgraded to the Unique Building: Nexuses, boosting their production based on time spent as Order in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Titan</p><p><b>Unlock Requirements:</b> R130+, 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs</p><p><b>Effect:</b> Grants access to Archon Union.</p><p><b>Formula:</b>(80 * x ^ 0.8), where x is time spent as Order this Reincarnation.</p>" coords="347,111,540,162" shape="rect">
 </map>
 <p><b>Monastery Upgrades (Alignment: Neutral)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/mgroup1.png" usemap="#mgroup1-map">
@@ -2544,7 +2550,7 @@ div#images div{
     <area target="" research="Upgrade 22: Poisonous Fog<p>Requirement: R40+, 10000 Labyrinth<p>Cost: 378.4 Qaqag (3.784e137)<p>Increase Labyrinth by 50%" coords="56,110,107,161" shape="rect">
     <area target="" research="Upgrade 23: Oniric Passageways<p>Requirement: R100+, 18000 Labyrinths<p>Cost: 411 Qag (4.11e125)<p><p>Increase the production of Labyrinths by 100%." coords="109,111,162,161" shape="rect">
     <area target="" research="<b>Sunken Cities</b><p>At R22, Labyrinths can be upgraded to the Unique Building: Sunken Cities, boosting their production based on time spent in your longest game session and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Faceless</p><p><b>Unlock Requirements:</b> R22+, 2000 Labyrinths</p><p><b>Effect:</b> Grants access to Research Facilities.</p><p><b>Formula: </b>75 * x ^ 0.9, where x is your Playtime (Longest Session).</p>" coords="351,112,536,159" shape="rect">
-  </map>
+</map>
 <p><b>Iron Stronghold Upgrades (Alignment: Neutral)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/isgroup1.png" usemap="#isgroup1-map">
 <map name="isgroup1-map">
@@ -2602,7 +2608,7 @@ div#images div{
     <area target="" research="<b>Ziggurats</b><p>At R100, Ancient Pyramids can be upgraded to the Unique Building: Ziggurats, boosting their production based on total Lineage levels and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Balance, Druid</p><p><b>Unlock Requirements:</b> R100+, 12,000 Stonehenge Circles</p><p><b>Effect: </b>Grants access to Druid Union.</p><p><b>Formula: </b>floor(x ^ 1.2), where x is total Lineage levels.</p>" coords="349,110,540,163" shape="rect">
 </map>
 <p><b>Warrior Barracks Upgrades (Alignment: Good)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/wbgroup1.png" usemap="#wbgroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/wbgroup3.6.png" usemap="#wbgroup1-map">
 <map name="wbgroup1-map">
     <area target="" research="Upgrade 1: Bronze Weapons<p>Requirement: 5 Warrior Barracks<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Warrior Barracks production by 100%.<p>Post Ascension: Increase Warrior Barracks production by 7.18%.<p>Adds 1 Assistant" coords="3,2,50,52" shape="rect">
     <area target="" research="Upgrade 2: Iron Weapons<p>Requirement: 25 Warrior Barracks<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Warrior Barracks production by 100%.<p>Post Ascension: Increase Warrior Barracks production by 7.18%.<p>Adds 1 Assistant" coords="58,3,105,51" shape="rect">
@@ -2628,9 +2634,10 @@ div#images div{
     <area target="" research="Upgrade 22: Obsidium Weapons<p>Requirement: R40+, 10000 Warrior Barracks<p>Cost: 93.31 Tqag (9.331e133)<p>Increase Warrior Barrack by 50%" coords="54,110,105,161" shape="rect">
     <area target="" research="Upgrade 23: Arcanite Weapons<p>Requirement: R100+, 18000 Warrior Barracks<p>Cost: 101.3 Notg (1.013e122)<p><p>Increase the production of Warrior Barracks by 100%." coords="110,110,162,161" shape="rect">
     <area target="" research="<b>Elven Training Grounds</b><p>At R16, Warrior Barracks can be upgraded to the Unique Building: Elven Training Grounds, boosting their production based on total clicks and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Elf</p><p><b>Unlock Requirements:</b> R16+, 1750 Warrior Barracks</p><p><b>Effect: </b>Grants access to Research Facilities.</p><p><b>Formula: </b>(50 * x ^ 0.85) + 50 * ln^6(1 + x), where x is total Treasure Clicks.</p>" coords="352,112,538,159" shape="rect">
+  	<area target="" research="<b>Pavillons</b><p>At R130, Warrior Barracks can be upgraded to the Unique Building: Pavillons, boosting their production based on spell casts in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Faceless</p><p><b>Unlock Requirements:</b> R130+, 5 days of Chaos spells in this game</p><p><b>Effect:</b> Grants access to Djinn Union.</p><p><b>Formula: </b>10 * x ^ 0.5, where x is spell casts this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
 </map>
 <p><b>Knights Joust Upgrades (Alignment: Good)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/kjgroup2.png" usemap="#kjgroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/kjgroup3.6.png" usemap="#kjgroup1-map">
 <map name="kjgroup1-map">
     <area target="" research="Upgrade 1: Pointy Lances<p>Requirement: 5 Knights Jousts<p>Cost Pre Ascension: 112,640<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Knights Jousts production by 100%.<p>Post Ascension: Increase Knights Jousts production by 7.18%.<p>Adds 1 Assistant" coords="5,4,52,51" shape="rect">
     <area target="" research="Upgrade 2: Stallion Horses<p>Requirement: 25 Knights Jousts<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Knights Jousts production by 100%.<p>Post Ascension: Increase Knights Jousts production by 7.18%.<p>Adds 1 Assistant" coords="58,2,105,51" shape="rect">
@@ -2656,7 +2663,6 @@ div#images div{
     <area target="" research="Upgrade 22: Giant Banners<p>Requirement: R40+, 10000 Knights Joust<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Knights Joust by 50%" coords="54,110,105,160" shape="rect">
     <area target="" research="Upgrade 23: Celestial Heritage<p>Requirement: R100+, 18000 Knights Joust<p>Cost: 315.3 Notg (3.153e122)<p><p>Increase the production of Knights Joust by 100%." coords="108,109,158,161" shape="rect">
     <area target="" research="<b>Mercenary Camps</b><p>At R75, Knights Jousts can be upgraded to the Unique Building: Mercenary Camps, boosting their production based on Non-Unique Buildings you own and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Good Mercenary</p><p><b>Unlock Requirements:</b> R75+, 125,000 buildings</p><p><b>Effect: </b>Grants access to Research Facilities.</p><p><b>Formula: </b>1.25 * (1 + x) ^ 1.05, where x is amount of non-Unique buildings.</p>" coords="348,109,539,162" shape="0">
-  	<area target="" research="<b>Pavillons</b><p>At R130, Knights Jousts can be upgraded to the Unique Building: Pavillons, boosting their production based on spell casts in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Fairy</p><p><b>Unlock Requirements:</b> R130+, 5 days of Chaos spells this game</p><p><b>Effect:</b> Grants access to Djinn Union.</p><p><b>Formula: </b>10 * x ^ 0.5, where x is spell casts this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
 </map>
 <p><b>Wizard Tower Upgrades (Alignment: Good)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/wizardtowergroup2.png" usemap="#wizardtowergroup1-map">
@@ -2684,7 +2690,7 @@ div#images div{
     <area target="" research="Upgrade 21: Circle Channelling<p>Requirement: R40+, 4000 Wizard Towers<p>Cost: 17.82Ocd (1.782e58)<p>Increase Wizard Towers production by 50%." coords="3,112,51,159" shape="rect">
     <area target="" research="Upgrade 22: Enchanted Wands<p>Requirement: R40+, 10000 Wizard Towers<p>Cost: 1.97 Qaqag (1.97e135)<p>Increase Wizard Tower by 50%" coords="56,111,107,162" shape="rect">
     <area target="" research="Upgrade 23: Floating Monuments<p>Requirement: R100+, 18000 Wizard Towers<p>Cost: 2.139 Qag (2.139e123)<p><p>Increase the production of Wizard Towers by 100%." coords="107,110,161,161" shape="rect">
-    <area target="" research="<b>Swarming Towers</b><p>At R100, Wizard Towers can be upgraded to the Unique Building: Swarming Towers, boosting their production based on active spells and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Fairy</p><p><b>Unlock Requirements:</b> R100+, 200,000 Assistants</p><p><b>Effect:</b> Grants access to Fairies Union.</p><p><b>Formula: </b>(0.4 * x ^ 2.4), where x is active spells.</p>" coords="351,112,538,160" shape="rect">
+    <area target="" research="<b>Swarming Towers</b><p>At R100, Wizard Towers can be upgraded to the Unique Building: Swarming Towers, boosting their production based on active spells and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Fairy</p><p><b>Unlock Requirements:</b> R100+, 200,000 Assistants</p><p><b>Effect:</b> Grants access to Fairies Union.</p><p><b>Formula: </b>(0.5 * x ^ 2.5)%, where x is active spells.</p>" coords="351,112,538,160" shape="rect">
   	<area target="" research="<b>Nexuses</b><p>At R130, Wizard Towers can be upgraded to the Unique Building: Nexuses, boosting their production based on time spent as Order in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Angel</p><p><b>Unlock Requirements:</b> R130+, 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs</p><p><b>Effect:</b> Grants access to Archon Union.</p><p><b>Formula: </b>(80 * x ^ 0.8), where x is time spent as Order this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
 </map>
 <p><b>Cathedral Upgrades (Alignment: Good)</b></p>
@@ -2713,7 +2719,7 @@ div#images div{
     <area target="" research="Upgrade 21: Encyclical Letters<p>Requirement: R40+, 4000 Cathedrals<p>Cost: 207.3Ocd (2.073e59)<p>Increase Cathedral production by 50%." coords="3,111,51,160" shape="rect">
     <area target="" research="Upgrade 22: Council Of Saints<p>Requirement: R40+, 10000 Cathedrals<p>Cost: 22.91 Qaqag (2.291e136)<p>Increase Cathedral production by 50%" coords="56,111,107,160" shape="rect">
     <area target="" research="Upgrade 23: Absolute Dogma<p>Requirement: R100+, 18000 Cathedrals<p>Cost: 24.88 Qag (2.488e124)<p><p>Increase the production of Cathedrals by 100%." coords="108,110,160,162" shape="rect">
-    <area target="" research="<b>Holy Sites</b><p>At R100, Cathedrals can be upgraded to the Unique Building: Holy Sites, boosting their production based on time spent as Good in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Angel</p><p><b>Unlock Requirements:</b> R100+, 2M (2e6) Mana Regeneration</p><p><b>Effect:</b> Grants access to Angel Union.</p><p><b>Formula: </b>0.08 * x ^ 0.8, where x is time spent as Good in this Reincarnation.</p>" coords="351,109,540,162" shape="rect">
+    <area target="" research="<b>Holy Sites</b><p>At R100, Cathedrals can be upgraded to the Unique Building: Holy Sites, boosting their production based on time spent as Good in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Angel</p><p><b>Unlock Requirements:</b> R100+, 2M (2e6) Mana Regeneration</p><p><b>Effect:</b> Grants access to Angel Union.</p><p><b>Formula: </b>(x ^ 0.85), where x is time in second as good in this R.</p>" coords="351,109,540,162" shape="rect">
 </map>
 <p><b>Citadel Upgrades (Alignment: Good)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/citadelgroup1.png" usemap="#citadelgroup1-map">
@@ -2800,7 +2806,7 @@ div#images div{
     <area target="" research="<b>Heaven's Domains</b><p>At R16, Heaven's Gates can be upgraded to the Unique Building: Heaven's Domains, boosting their production based on spells affecting them and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Angel</p><p><b>Unlock Requirements:</b> R16+, 1500 Heaven's Gates</p><p><b>Effect:</b> Grants access to Research Facilities.</p><p><b>Formula: </b>35000 * x, where x is spells affecting Heaven's Domains.</p>" coords="348,111,536,160" shape="rect">
 </map>
 <p><b>Slave Pen Upgrades (Alignment: Evil)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/slavepengroup1.png" usemap="#slavepengroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/slavepengroup3.6.png" usemap="#slavepengroup1-map">
 <map name="slavepengroup1-map">
     <area target="" research="Upgrade 1: Smaller Cells<p>Requirement: 5 Slave Pens<p>Cost Pre Ascension: 36,200<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Slave Pens production by 100%.<p>Post Ascension: Increase Slave Pens production by 7.18%.<p>Adds 1 Assistant" coords="2,4,51,54" shape="rect">
     <area target="" research="Upgrade 2: Punishment Whips<p>Requirement: 25 Slave Pens<p>Cost Pre Ascension: 1.185M (1.185e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Slave Pens production by 100%.<p>Post Ascension: Increase Slave Pens production by 7.18%.<p>Adds 1 Assistant" coords="54,3,105,53" shape="rect">
@@ -2826,9 +2832,10 @@ div#images div{
     <area target="" research="Upgrade 22: Sensory Deprivation<p>Requirement: R40+, 10000 Slave Pens<p>Cost: 93.31 (9.331e133)<p>Increase Slave Pen production by 50%" coords="54,110,107,163" shape="rect">
     <area target="" research="Upgrade 23: Isolation Chambers<p>Requirement: R100+, 18000 Slave Pens<p>Cost: 101.3 Notg (1.013e122)<p><p>Increase the production of Slave Pens by 100%." coords="108,110,161,163" shape="rect">
     <area target="" research="<b>Slave Markets</b><p>At R100, Slave Pens can be upgraded to the Unique Building: Slave Markets, boosting their production based on amount of assistants owned and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Balance, Goblin</p><p><b>Unlock Requirements:</b> R100+, 30,000 Neutral buildings</p><p><b>Effect:</b> Grants access to Goblin Union.</p><p><b>Formula: </b>floor(0.25 * x ^ 0.75), where x is amount of assistants.</p>" coords="349,110,540,161" shape="rect">
+  	<area target="" research="<b>Pavillons</b><p>At R130, Slave Pens can be upgraded to the Unique Building: Pavillons, boosting their production based on spell casts in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Demon</p><p><b>Unlock Requirements:</b> R130+, 5 days of Chaos spells this game</p><p><b>Effect:</b> Grants access to Djinn Union.</p><p><b>Formula: </b>10 * x ^ 0.5, where x is spell casts in this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
 </map>
 <p><b>Orcish Arena Upgrades (Alignment: Evil)</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/orcisharenagroup2.png" usemap="#orcisharenagroup1-map">
+<p><img src="http://musicfamily.org/realm/Factions/picks/orcisharenagroup3.6.png" usemap="#orcisharenagroup1-map">
 <map name="orcisharenagroup1-map">
     <area target="" research="Upgrade 1: Unfair Judge<p><p>Requirement: 5 Orcish ArenasCost Pre Ascension: 112,640<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Orcish Arenas production by 100%.<p>Post Ascension: Increase Orcish Arenas production by 7.18%.<p>Adds 1 Assistant" coords="3,3,51,54" shape="rect">
     <area target="" research="Upgrade 2: Rule Abolition<p>Requirement: 25 Orcish Arenas<p>Cost Pre Ascension: 3.687M (3.687e6)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase Orcish Arenas production by 100%.<p>Post Ascension: Increase Orcish Arenas production by 7.18%.<p>Adds 1 Assistant" coords="56,4,105,52" shape="rect">
@@ -2853,8 +2860,7 @@ div#images div{
     <area target="" research="Upgrade 21: Monster Ex Machina<p>Requirement: R40+, 4000 Orcish Arenas<p>Cost: 2.626Ocd (2.626e57)<p>Increase Orcish Arenas production by 50%." coords="2,110,54,163" shape="rect">
     <area target="" research="Upgrade 22: Dramatic Twist<p>Requirement: R40+, 10000 Orcish Arenas<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Orcish Arena production by 50%" coords="54,111,107,162" shape="rect">
     <area target="" research="Upgrade 23: Victory Fanfare<p>Requirement: R100+, 18000 Orcish Arenas<p>Cost: 315.3 Notg (3.153e122)<p><p>Increase the production of Orcish Arena by 100%." coords="108,110,161,163" shape="rect">
-    <area target="" research="<b>Flesh Workshops</b><p>At R100, Orcish Arenas can be upgraded to the Unique Building: Flesh Workshops, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Undead</p><p><b>Unlock Requirements:</b> R100+, 85M% Offline Prod Bonus</p><p><b>Effect:</b> Grants access to Undead Union.</p><p><b>Formula: </b>15 * x ^ 0.65, where x is mana regeneration per second.</p>" coords="349,111,538,161" shape="rect">
-  	<area target="" research="<b>Pavillons</b><p>At R130, Orcish Arenas can be upgraded to the Unique Building: Pavillons, boosting their production based on spell casts in this Reincarnation and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Chaos, Demon</p><p><b>Unlock Requirements:</b> R130+, 5 days of Chaos spells this game</p><p><b>Effect:</b> Grants access to Djinn Union.</p><p><b>Formula: </b>10 * x ^ 0.5, where x is spell casts in this Reincarnation.</p>" coords="164,110,346,162" shape="rect">
+    <area target="" research="<b>Flesh Workshops</b><p>At R100, Orcish Arenas can be upgraded to the Unique Building: Flesh Workshops, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Undead</p><p><b>Unlock Requirements:</b> R100+, 85M% Offline Prod Bonus</p><p><b>Effect:</b> Grants access to Undead Union.</p><p><b>Formula: </b>(10 * x ^ 0.6), where x is mana regen per second.</p>" coords="349,111,538,161" shape="rect">
 </map>
 <p><b>Witch Conclave Upgrades (Alignment: Evil)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/witchconclavegroup2.png" usemap="#witchconclavegroup1-map">
@@ -2967,7 +2973,8 @@ div#images div{
     <area target="" research="Upgrade 21: Heinous Colonnade<p>Requirement: R40+, 4000 Evil Fortresses<p>Cost: 68Nod (6.8e61)<p>Increase Evil Fortresses production by 50%." coords="2,112,54,162" shape="rect">
     <area target="" research="Upgrade 22: Horrific Battlements<p>Requirement: R40+, 10000 Evil Fortresses<p>Cost: 7.517 Qiqag (7.517e138)<p>Increase Evil Fortress production by 50%" coords="54,110,107,163" shape="rect">
     <area target="" research="Upgrade 23: Black Curtains<p>Requirement: R100+, 18000 Evil Fortress<p>Cost: 8.163 Uqag (8.163e126)<p><p>Increase the production of Evil Fortress by 100%." coords="108,109,160,162" shape="rect">
-    <area target="" research="<b>Tyrant Garrisons</b><p>At R75, Evil Fortresses can be upgraded to the Unique Building: Tyrant Garrisons, boosting their production based on offline production bonus and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Evil Mercenary</p><p><b>Unlock Requirements:</b> R75+, 125,000 buildings</p><p><b>Effect: </b>Grants access to Research Facilities.</p><p><b>Formula: </b>0.5 * (log10(1 + x)), where x is Offline production bonus.</p>" coords="347,111,538,162" shape="rect">
+    <area target="" research="<b>Tyrant Garrisons</b><p>At R75, Evil Fortresses can be upgraded to the Unique Building: Tyrant Garrisons, boosting their production based on offline production bonus and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Evil Mercenary</p><p><b>Unlock Requirements:</b> R75+, 125,000 buildings</p><p><b>Effect: </b>Grants access to Research Facilities.</p><p><b>Formula: </b>(log10(x) ^ 3.5), where x is Offline Production Bonus.</p>" coords="347,111,538,162" shape="rect">
+</map>
 <p><b>Hell Portal Upgrades (Alignment: Evil)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/hellportalgroup1.png" usemap="#hellportalgroup1-map">
 <map name="hellportalgroup1-map">

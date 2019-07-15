@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/BloodlineTopPage.png"></h6>
 <p><h6> The Bloodline</h6>
-<p>This upgrade appears at the 7th reincarnation and require 100 Faction Upgrades purchased. (any 1 faction)</p>
+<p>This upgrade appears at the 7th reincarnation with no other unlock requirement.</p>
 <p>This upgrade enables to choose a Faction Bloodline, giving a kind of cross-faction perk that resets at abdications.</p>
 <p><b>Cost</b>: Free</p>
 <p><b>Trophy & Upgrade</b></p>
@@ -70,7 +70,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonBloodline.png" align="middle"> Archon</p></b>
 <p><b>Requirements</b>: Archon Unlocked, R130+</p>
 <p><b>Effect</b>: Gain additional research slots based on time spent this game.</p>
-<p><b>Formula</b>: (1 + floor(0.5 * ((1 + x / 10800) ^ 0.5 - 1))), where x is time spent this game.</p>
+<p><b>Formula</b>: (1 + floor(0.5 * ((1 + x / 21600) ^ 0.5 - 1))), where x is time spent this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnBloodline.png" align="middle"> Djinn</p></b>
 <p><b>Requirements</b>: Djinn Unlocked, R130+</p>

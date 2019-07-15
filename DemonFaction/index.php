@@ -103,7 +103,7 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDemonicHeritage.png" align="middle"> Advanced Demonic Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Demon Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Demon Coins</p>
 <p><b>Requirements</b>: Demon Master trophy and 8 hours activity time (This Game) of Hellfire Blast.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on trophies unlocked.</p>
 <p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is amount of trophies unlocked.</p>

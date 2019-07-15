@@ -126,10 +126,18 @@
 <p><b>Note</b>: A bronze icon (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are casted as soon as you have enough mana for them.</p>
 <p><b>Upgrade Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
 <hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
+<p><b>Requirements</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
+<p><b>Effect</b>: Allows you to manually reset spells.</p>
+<p><b>Note</b>: Can not reset spells with a fixed duration.</p>
+<p><b>Note</b>: Only while offline, increase your mana produced amount by an additional 10% of your Mana Regeneration per second, and your spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
+<p><b>Formula</b>: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
+<p><b>Cost</b>: 3.2 Dc (3.2e33), A2+: Free</p>
+<hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" alt="Efficient Autocasting" align="middle"> Tiered Autocasting</b></p>
 <p><b>Requirement</b>: 200M (2E8) mana produced (Total this R), R42+</p>
 <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
-<p><b>Upgrade Cost</b>: Free</p>
+<p><b>Upgrade Cost</b>: 100 Qid (1.0e50), A2+ Free</p>
 <p><b>Upgrade Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.</p>
 <p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
 <p><b>Upgrade Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
@@ -191,7 +199,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboSecretTrophy.png" alt="PerfectCombo" align="middle"><b> Perfect Combo</b></p>
 <p><b>Requirement</b>: Cast the Drow spell Combo Strike, 100 times in a row (not casting any other spell)</p>
 <p><b>Upgrade Cost</b>: 100 Sxd (1.53), A1+ Free</p>
-<p><b>Upgrade Cost</b>: Increases Combo Strike bonus.</p>
+<p><b>Upgrade Effect</b>: Increases Combo Strike bonus.</p>
 <p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png" alt="Sun Blessing" align="middle"><b> Sun Blessing</b></p>
@@ -223,5 +231,25 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" align="middle"> <b>Dragon's Roar</b>
 <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
 <p><b>Upgrade Cost</b>: 1 Qad (1.0e45), A2+ Free</p>
-<p><b>Upgrade Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
+<p><b>Upgrade Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
+<p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
+<p><b>Requirements</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+<p><b>Cost</b>: 10 Octg (1e118)</p>
+<p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
+<p><b>Effect</b>: Scale off invisible spell duration modifiers.
+<p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
+<p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
+<p><b>Requirements</b>: R125+, Cast Limited Wish 100 times within 30 minutes of a new game.</p>
+<p><b>Cost</b>: 10 Octg (1e118)</p>
+<p><b>Effect</b>: Also adds 150 casts to Limited wish formula.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
+<p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
+<p><b>Cost</b>: 10 Octg (1e118)</p>
+<p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
+<p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
 <?php include "../scripts/footer.html"; ?>

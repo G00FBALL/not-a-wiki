@@ -56,4 +56,7 @@
 <hr>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/AssistantMultiverse.png align=middle> Assistant Multiverse</b></p>
 <p>Requirement</b>: Have 5 T (5e12) Assistants in a single game.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantStratum.png" align="middle"> Assistant Stratum</b></p>
+<p><b>Requirements</b>: Have 5e18 Assistants in a single game.</p>
 <?php include "../scripts/footer.html"; ?>

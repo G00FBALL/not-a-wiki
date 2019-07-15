@@ -29,8 +29,8 @@
 <br/>
 <p><b>Spell Trophy & Upgrade: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" alt="God's Rest" align="middle"> Dragon's Roar</b></p>
 <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
-<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
-<p><b>Formula</b>: floor(135 * x^0.98), where x is all Rs activity time in seconds.</p>
+<p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
+<p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A2+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b>:</p>
@@ -65,7 +65,8 @@
 <p><b>Cost</b>: 1.0e73, 10b (1e10) of each FC</p>
 <p><b>Effect</b>: Gives Dragon Tamer Trophy</p>
 <hr>
-<p><b>Note</b>: Only 1 Dragon Upgrade per Mercenary tier.</p>
+<p><b>Note</b>: In A1, Only 1 Dragon Upgrade per Mercenary tier.</p>
+<p><b>Note</b>: Mercenaries in A3 can buy Dragon Upgrades with any Mercenary Upgrade with increased price.</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Trade Treaty</b></p>
@@ -167,7 +168,7 @@
 <p><b>Ascension 2 - R116+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Dwarven and Drow Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Dwarven and Drow Coins</p>
 <p><b>Requirements</b>: Dragon Master trophy and 8 hours activity time (This Game) of Dragon's Breath.<p>
 <p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>

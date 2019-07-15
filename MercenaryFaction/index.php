@@ -26,7 +26,11 @@
 <p><b>In Game description</b></p>
 <p>By reciting the Oath of the Mercenaries you will be able to join mercenaries for the rest of your existence. Not even Reincarnations will strip you of this right. You will be able to take any alignment and become a Good, Neutral or Evil mercenary, therefore determining your building set, and from there on you will be able to take any spell or ability from any other faction.</p>
 <hr>
-<p><b>Note</b>: Only 1 Dragon Upgrade per Mercenary tier.</p>
+<p><b>Note</b>: In A1, Only 1 Dragon Upgrade per Mercenary tier.</p>
+<p><b>Note</b>: Mercenaries in A3 can buy Dragon Upgrades with any Mercenary Upgrade with increased price.</p>
+<br/>
+<p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16.</p>
+<p><b>Note</b>: Elite spells can only be bought from the Sorcery contract.</p>
 <hr>
 <p><b>Mercenary Tier Upgrades</b></p>
 <p><b>Tier 1 Upgrades</b></p>
@@ -75,7 +79,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Heresiarchs" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
-<p><b>Formula</b>: round(1.15 * x ^ 0.85)%, where x is the number of your most-built evil building you own.</p>
+<p><b>Formula</b>: round(1.85 * x ^ 0.85), where x is the number of your most-built evil building you own. (A-Nerfed)</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Trade Lords" align="middle"> Trade Lords (<u>For Neutral Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
@@ -155,7 +159,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingMercenaryUpgrade.png" alt="Smiley face" align="middle"> No Recruiting</b></p>
 <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries</p>
 <p><b>Cost</b>: 1 Tg (1E93)</p>
-<p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation</p>
+<p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation. (Not A-Nerfed)</p>
+<br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="KYE1" align="middle"> Know Your Enemy, Part I</b></p>
 <p><b>Requirement</b>: Find Know Your Enemy, Part I Artifact - which requires R12, to play as Mercenaries, and have upgrades from 11 different factions. (Excavation chance: 10%)</p>
 <p><b>Note</b>: You can use <a target="_blank"target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Know Your Enemy, Part I</b>.</p>
@@ -189,13 +194,19 @@
 <p><b>Formula</b>: (0.5 * log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
 <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
 <br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/DarkCovenant.png" alt="Dark Covenant" align="middle"> <b>Dark Covenant</b> (Spell Upgrade)</p>
+<p><b>Note</b>: Reap Interests upgrade.</p>
+<p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
+<p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests, Additional casts of Reap Interests increase its seconds worth of production.</p>
+<p><b>Effect</b>: Removes 1 Ascension Penalty from Heresiarchs.</p>
+<br/>
 <p><b>Neutral</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
 <p><b>Requirement</b>: Mercenary Encampment Quest</p>
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
-<p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (2 * x ^ 1), where x is assistants you had in a single game (This R)</p>
+<p><b>Effect 2</b>: Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
 <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Secrets of the Warriors" align="middle"> <b>Obsidian Shard</b></p>
@@ -213,16 +224,19 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoodMercUniqueBuilding.png" alt="Mercenary Camp" align="middle"> <b>Mercenary Camp</b></p>
 <p>Upgraded from Knights Jousts</p>
 <p>Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (1.5 * (1 + x)) where X is number of Non-Unique Buildings.</p>
 <br/>
 <p><b>Evil</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="Tyrant Garrison" align="middle"> <b>Tyrant Garrison</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="Tyrant Garrison" align="middle"> <b>Tyrant Garrison Upgrade</b></p>
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
 <br/>
 <p><b>Neutral</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
-<p>Upgraded from Alchemist Labs</p>
-<p>Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
+<p>Upgraded from Inns</p>
+<p>Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
 <hr>
 <p><b>Faction Spell</b>: Tax Collection</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="SB" align="middle"> <b>Good</b></p>
@@ -231,29 +245,28 @@
 <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.</p>
 <p><b>Formula</b>: (120 ^ (0.25 * t)), where t is tier (FC chance multiplier)</p>
 <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
-<p><b>Effect</b>: Now adds Tax Collections casts based on its duration and current tier cast.</p>
-<p><b>Formula</b>: (10 * x * T), where x is spell duration and T is spell tier</p>
-<p><b>Formula</b>: sum formula is (x ^ (0.15 * T)), where x is spell duration and T is spell tier</p>
+<p><b>Effect</b>: Also produce Tax Collection casts per second based on your Maximum Mana.</p>
+<p><b>Formula</b>: (0.01 * y * T), where y is max mana, T is tier</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="RI" align="middle"> <b>Evil</b></p>
 <p><b>Requirement</b>: Tyrant Garrison</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-<p><b>Formula</b>: (y ^ (1 + 0.24 * log10(1 + x))), where y is TC original power and x is amount of TC casts.</p>
+<p><b>Formula</b>: (120000 * log10(0.125 * x)), where x is amount of TC casts.</p>
 <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
 <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png" alt="AV" align="middle"> <b>Neutral</b>
 <p><b>Requirement</b>: Freemason's Hall</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
-<p><b>Effect</b>: Generates additional Faction Coins per cast</p>
-<p><b>Formula</b>: (2.5 * x ^ 2.5), where x is original Faction Coin chance.</p>
+<p><b>Effect</b>: Generates additional Faction Coins based on the amount of assistants you own.</p>
+<p><b>Formula</b>: (y * x ^ 1.25), where y is FC%, x is assistants owned.</p>
 <br/>
 <p><b>Extras</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KYE2" align="middle"><b> Know Your Enemy, Part 2</b></p>
 <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
 <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
-<p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
+<p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
 <p><b>Chance</b>: 5%</p>
 <p><b>Effect</b>: Awards an upgrade of the same name.</p>
 <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
@@ -265,8 +278,68 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoodMercenaryUpgrade13.png" alt="Round Table" align="middle"> <b>Good Mercenary Upgrade 13</b></p>
 <p>You can purchase any upgrade from any Good Faction for an increased price</p>
 <p><b>Requirement</b>: Round Table (Good Spell Upgrade)</p>
+<p><b>Note</b>: Not available in A3 (R160+)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercenaryUpgrade13.png" alt="Round Table" align="middle"> <b>Evil Mercenary Upgrade 13</b></p>
 <p>You can purchase any upgrade from any Evil Faction for an increased price.</p>
 <p><b>Requirement</b>: Tyrant Garrison (Evil Spell Upgrade)</p>
+<p><b>Note</b>: Not available in A3 (R160+)</p>
+<hr>
+<p><b>Ascension 3 (R160+)</b>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
+<p><b>In-game description</b>: The Mercenary Lord has challenged you to a duel of skills. Complete the following tasks in a single Reincarnation to show your ability as a ruler.</p>
+<p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 1 Nod (1e60) Faction Coins, 300000 Buildings (MAX), 1 Qi (1e18) Assistants (MAX)</p>
+<p><b>Note</b>: 1 time purchase</p>
+<p><b>Effect</b>: Unlocks Mercenary in Ascension 3</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBuildingContract.png" align="middle"> Mercenary Building Contract</b></p>
+<p>You can purchase one Ascension 2 Unique Building from any faction, provided you meet the requisites. You will not be able to change it during the current run.</p>
+<p><b>Cost</b>: Free</p>
+<br/>
+<p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryFourthContract.png" align="middle"> Mercenary Fourth Contract</b></p>
+<p><b>Requirements</b>: R160+, Mercenary Duel purchased</p>
+<p><b>Cost</b>: 100 Qid 1e50</p>
+<p><b>Effect</b>: Unlocks Tier 4 Upgrades 3</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade13.png" align="middle"> Mercenary Upgrade 13</b></p>
+<p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
+<p><b>Cost</b>: 7500 FC</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade14.png" align="middle"> Mercenary Upgrade 14</b></p>
+<p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
+<p><b>Cost</b>: 16500 FC</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade15.png" align="middle"> Mercenary Upgrade 15</b></p>
+<p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
+<p><b>Cost</b>: 24000 FC</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade16.png" align="middle"> Mercenary Upgrade 16</b></p>
+<p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
+<p><b>Cost</b>: 33000 FC</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ObsidianCrown.png" align="middle"> Obsidian Crown</b></p>
+<p><b>Requirements</b>: R170+, Aligned with Mercs, 10 excavation resets (This game)</p>
+<p><b>Chance</b>: ((x - 10) / 1000)%, x is the number of free and ruby excavation resets (This game)</p>
+<p><b>Effect</b>: Unlocks Mercenary Union Contract</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUnionContract.png" align="middle"> Mercenary Union Contract</b></p>
+<p><b>Requirements</b>: Obsidian Crown</p>
+<p>You can purchase one Union Power from any faction, provided you meet the requisites. You will not be able to change it during the current run.</p>
+<p><b>Cost</b>: Free</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?php include "../scripts/footer.html"; ?>

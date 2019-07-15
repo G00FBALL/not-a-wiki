@@ -108,7 +108,7 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Angel Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Angel Coins</p>
 <p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.<p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
 <p><b>Formula</b>: (5 * x ^ 0.25)%, where x is spells cast this game.</p>
@@ -136,8 +136,8 @@
 <p><b>Cost</b>: 1 Qi (1e18) Angel Coins</p>
 <p><b>Requirement</b>: Holy Sites Unique Building</p>
 <p><b>Effect Requirement</b>: R111+</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
-<p><b>Formula</b>: (4 * ln(x) ^ 2.25 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
+<p><b>Effect</b>: Increase Mana Regeneration based on mana produced in this game.(Multiplicative)</p>
+<p><b>Formula</b>: (2.5 * ln(1+y) ^ 2.5), where x is mana spent this game and y is mana regeneration.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
@@ -151,10 +151,10 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
-<p><b>Formula</b>: (0.07 * x ^ 0.7), where x is seconds in current spells.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.7), where x is seconds in current spells.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Wings" align="middle"> <b>Seraphim Wings</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase Mana Regeneration, Faction Coin find chance and assistants by 160%.</p>
+<p><b>Effect</b>: Multiplicatively increase Maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%.</p>
 <?php include "../scripts/footer.html"; ?>

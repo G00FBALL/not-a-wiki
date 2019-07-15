@@ -12,11 +12,10 @@
 <p><b>Alignment</b>: Neutral</p>
 <p><b>Faction spell</b>: Grand Balance</p>
 <p><b>Effect</b>: Increase the production of your least productive building based on the amount of the three most built ones for 20 seconds.</p>
-<p><b>Formula</b>: 25 * (x * y * z / (A + 3) ^ 6) ^ 0.9 where x, y, and z are the number of your three most-built buildings.</p>
+<p><b>Formula</b>: round(0.25*(x*y*z/729)^0.9) where x,y, and z are the number of your three most-built buildings.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceFactionUpgrade.png"> <b>Halls of Balance</b></p>
-<p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
 <p><b>Effect</b>: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.</p>
-<p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free<p>
+<p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
 <hr>
 <p><b>Unlock Requirements</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedPieceofBark1FactionUpgrade.png" align="middle"><b> Fossilized Piece of Bark 1</b></p>
@@ -42,18 +41,18 @@
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsTradeTreatyFactionUpgrade.png" align="middle"> Druid Trade Treaty</b></p>
-<p><b>Cost</b>: 500 Elven Coins + 500 Demon Coins</p>
+<p><b>Cost</b>: 250 Elven Coins + 250 Demon Coins</p>
 <p><b>Effect</b>: Unlocks Tier 1 Druid Upgrades.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidicVocabularyFactionUpgrade.png" align="middle"> Druidic Vocabulary</b></p>
 <p><b>Cost</b>: 500 Qi (5E20)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: (4000 * x)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<p><b>Formula</b>: 4000*x%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
 <p><b>Cost</b>: 5 Sx (5E21)</p>
 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-<p><b>Formula</b>: floor((sqrt(1 + 12 * x)-1)/2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: floor((sqrt(1+12*x)-1)/2), where x is your Playtime (This Game) stat in hours.</p>
     <a id="Companions"></a>
     <table class="numtable">
         <thead>
@@ -187,7 +186,7 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" align="middle"> Key to the Lost City</b></p>
 <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
-<p><b>Requirements</b>: Found on the 1500th excavation, R23+</p>
+<p><b>Requirements</b>: Found on the 1500th excavation +R23</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" align="middle"> Secrets of the Ancients</b></p>
 <p><b>Effect</b>: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>
@@ -199,9 +198,8 @@
 <p><b>Description</b>: Quest Artifact and Upgrade</p>
 <p><b>Effect</b>: Adds 2 extra slots to the Neutral faction you are playing.</p>
 <p><b>Note</b>: Druid research is related to Economics and Alchemy</p>
-<p><b>Requirements</b>: Play a Neutral Faction, + 2,000 excavations, Unique Building.</p>
+<p><b>Requirements</b>: Play a Neutral Faction, + 2,000 excavations, (Chance: 0.2% per excavation)</p>
 <p><b>Cost</b>: 100 QiSxg (1E200)</p>
-<p><b>Chance</b>: 0.2% per excavation</p>
 <br/>
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></p>
@@ -210,12 +208,10 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Elven and Demon Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Elven and Demon Coins</p>
 <p><b>Requirements</b>: Druid Master trophy and 8 hours activity time (This Game) of Grand Balance.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
-<p><b>Formula</b>: (0.01 * x ^ 0.85)%, where x is the sum of all your spell durations.</p>
-<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-<p><b>Formula</b>: (1 + 0.3 * level)</p>
+<p><b>Formula</b>: (9 * x ^ 0.3)%, where x is the sum of all your spell durations.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
@@ -232,15 +228,14 @@
 <p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on based on total lineage levels.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>:  floor(x ^ 1.2)%, where x is total level of lineages.</p>
-<p><b>Effect</b>: Grants access to Faction Union.</p>
+<p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of lineages.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidsUnion.png" alt="Druids Union" align="middle"> <b>Druids Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
 <p><b>Requirement</b>: Ziggurat Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-<p><b>Formula</b>: (3 * x ^ 1.03 * y ^ 1.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -252,14 +247,13 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" alt="Lunar Cycle" align="middle"> <b>Lunar Cycle</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
-<p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
-<p><b>Online Formula</b>: (50 * x ^ 0.85), where x is time spent online in this game.</p>
-<p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
-<p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the difference between time spent online and offline in this game. Maximum bonus is granted for the smallest difference.</p>
+<p><b>Formula</b>: (x + y) ^ 0.65 * (1 / (1 + abs(x - 2y))) ^ 0.25, where x is time this game in seconds and y is offline time this game in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
-<p><b>Formula</b>: (0.8 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+
 <?php include "../scripts/footer.html"; ?>

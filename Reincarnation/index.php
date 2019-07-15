@@ -19,6 +19,8 @@
     <p>Reincarnation can only be performed for the first time when the user reaches 1 Oc Gems, and each subsequent reincarnation costs 1000 times more gems.</p>
     <p>Along the way, try to get all the Trophies and Artifacts you can get at each progress level.</p>
     <br/>
+
+    <p><b>Calculator is not updated with the 3.6 patch</b></p>
     <div id="ReiCosCal">
         <table style="width:98%">
             <tr>
@@ -298,38 +300,57 @@
                 <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
                 <p><b>Added</b>: Increase FC chance by (x)%.</p>
                 <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
+                <br/>
                 <p><b>2nd Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Gem production bonus by (0.2 * x)%.</p>
+                <br/>
                 <p><b>5th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.</p>
+                <br/>
                 <p><b>10th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.</p>
+                <br/>
                 <p><b>12th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 35 * x.</p>
+                <br/>
                 <p><b>20th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
+                <br/>
                 <p><b>25th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Royal Exchange bonus by (0.5 * x)%.</p>
+                <br/>
                 <p><b>41st Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.15))%.</p>
+                <br/>
                 <p><b>45th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
+                <br/>
                 <p><b>50th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively.</p>
                 <p><b>Formula</b>: (2.5 * x ^ 1.1), where x is number of Reincarnations made.</p>
+                <br/>
                 <p><b>60th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
+                <br/>
                 <p><b>70th Reincarnation and up</b></p>
                 <p><b>Added</b>: You gain 1 additional Research slot for each branch.</p>
+                <br/>
                 <p><b>85th Reincarnation and up</b></p>
                 <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.</p>
+                <br/>
                 <p><b>100th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.</p>
+                <br/>
                 <p><b>108th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
                 <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
+                <br/>
                 <p><b>115th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
+                <br/>
+                <p><b>120th Reincarnation and up</b></p>
+                <p><b>Added</b>: Increases the production of all buildings based on Reincarnations made when not affiliated with Mercenaries or Elite factions.</p>
+                <p><b>Formula</b>: (100 * R)</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -349,15 +370,17 @@
                 <p><b>R42</b>: Tiered Autocasting</p>
                 <p><b>R46</b>: Neutral Prestige (Dragons)</p>
                 <p><b>R47</b>: Neutral Prestige Research</p>
-                <p><b>R48</b>: Dragon Challenges</p>
-                <p><b>R60</b>: Lineages</p>
+                <p><b>R48-R65</b>: Dragon Challenges</p>
+                <p><b>R60</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
-                <p><b>R100</b>: Second Ascension, New Alignments</p>
+                <p><b>R100</b>: Second Ascension, New Alignments (Mercenary Removed)</p>
                 <p><b>R111</b>: Base Union</p>
-                <p><b>R116</b>: Prestige Factions</p>
+                <p><b>R116</b>: Prestige Factions Reintroduced</p>
                 <p><b>R120</b>: A2 Spells Tier 2</p>
-                <p><b>R125</b>: Archon, Djinn, and Makers Factions</p>
-                <p><b>R130</b>: Archon, Djinn, and Makers Bloodline, Lineages and Unions</p>
+                <p><b>R125</b>: Archon, Djinn, and Makers (Elite Factions)</p>
+                <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
+                <p><b>R135-R153</b>: Elite Challenges</p>
+                <p><b>R160</b>: Mercenary Reintroduced</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -382,7 +405,7 @@
                 <p><b>Kept or Gained at Reincarnation</b></p>
                 <p>All Trophies (and their associated unlocks)</p>
                 <p>Heritages (technically from trophies)</p>
-                <p>Excavation unlocks</p>
+                <p>Excavation unlocks, Max Count</p>
                 <p>Rubies & Ruby Powers</p>
                 <p>Completed Challenges</p>
                 <p>Total times allied and spent in every faction. Applied only to Bloodlines and Faceless.</p>
@@ -467,9 +490,13 @@
                 <p><b>Requirement</b>: Reincarnate 100 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems</p>
                 <hr>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/125Reincarnations.png" alt="100 Reincarnations" align="middle"> 125 Reincarnations</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/125Reincarnations.png" alt="125 Reincarnations" align="middle"> 125 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 125 times</p>
                 <p><b>Cost</b>: (To Reincarnate to R125) 31.05 Dvg (3.105e70) Gems</p>
+                <hr>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/150Reincarnations.png" alt="150 Reincarnations" align="middle"> 150 Reincarnations</b></p>
+                <p><b>Requirement</b>: Reincarnate 150 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R150) 1.134 Dqag (1.134e129) Gems</p>
             </div>
         </div>
     </div>

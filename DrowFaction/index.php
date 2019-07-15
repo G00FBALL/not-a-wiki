@@ -12,6 +12,7 @@
 <p><b>Alignment</b>: Prestige (Evil)</p>
 <p><b>Faction spell</b>: Combo Strike</p>
 <p><b>Effect</b>: Increase the production of all buildings. The more spells cast, the more production is increased.</p>
+<p><b>Note</b>: Fixed duration 16 seconds
 <p><b>Formula</b>: (30 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PerfectComboFactionUpgrade.png" alt="Smiley face" align="middle"></a>  <b>Perfect Combo</b></p>
 <p><b>Requirement</b>: Cast Combo Strike 100 times in a single game,The chain is interrupted by casting different spells.</p>
@@ -51,7 +52,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
 <p><b>Cost</b>: 50 Qad (5E46)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
-<p><b>Formula</b>: floor(2 * x ^ 0.9), where x is your Assistants stat.</p>
+<p><b>Formula</b>: (100 * x ^ 0.5), where x is your Assistants stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" alt="Smiley face" align="middle"> Shadow Advance</b></p>
 <p><b>Cost</b>: 500 Qad (5E47)</p>
@@ -93,8 +94,8 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
 <p><b>Cost</b>: 50 Spd (5E55)</p>
-<p><b>Effect</b>: Part of the Combo Strike chain bonus is applied passively.</p>
-<p><b>Formula</b>: x, where x is your current Combo Strike bonus.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
+<p><b>Formula</b>: (30 * x ^ 0.9), where x is Combo Strike casts in this game.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowHeritage.png" alt="Drow Heritage" align="middle"><b> Drow Heritage</b></p>
 <p><b>Cost</b>: 75,000 Drow Coins</p>
@@ -142,7 +143,7 @@
 <p><b>Ascension 2 - R116+</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 <p><b>Note</b>: Not available till R116</p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Drow Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Drow Coins</p>
 <p><b>Requirements</b>: Drow Master trophy and 8 hours activity time (This Game) of Combo Strike.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on offline bonus and time spent in this game.</p>
 <p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8)%, where x offline bonus and y is time spent this game.</p>

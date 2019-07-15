@@ -39,7 +39,7 @@
 <p><a href="/realm/FairyFaction"><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy"></a></p>
 <p>Focuses on assistants and boosts the three lowest tier buildings.</p>
 <p><b>Requirement</b>: Proof of Good Deed</p>
-<p><b>Cost</b>: Free</p>
+<p><b>Cost</b>: Free with 0 gems, 20 Fairy Coins with any gems.</p>
 <hr>
 <p><b><a href="/realm/ElfFaction">Elf</a></b></p>
 <p><a href="/realm/ElfFaction"><img src="http://musicfamily.org/realm/Factions/picks/ElvenTradeTreaty.png"></a></p>
@@ -59,7 +59,7 @@
 <p><a href="/realm/GoblinFaction"><img src="http://musicfamily.org/realm/Factions/picks/GoblinsTradeTreaty.png"></a></p>
 <p>Cheaper buildings and greed for money</p>
 <p><b>Requirement</b>: Proof of Evil Deed</p>
-<p><b>Cost</b>: Free</p>
+<p><b>Cost</b>: Free with 0 gems, 20 Goblin Coins with any gems.</p>
 <hr>
 <p><b><a href="/realm/UndeadFaction">Undead</a></b></p>
 <p><a href="/realm/UndeadFaction"><img src="http://musicfamily.org/realm/Factions/picks/UndeadTradeTreaty.png"></a></p>
@@ -100,24 +100,24 @@
 <p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf ) or Droblins (Goblin+Drow).See the <a href="http://musicfamily.org/realm/DwarfFaction">Dwarf</a> and <a href="http://musicfamily.org/realm/DrowFaction">Drow</a> pages for more details.</p>
 <p><b><a href="/realm/DwarfFaction">Dwarf</a></b></p>
 <p><a href="/realm/DwarfFaction"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png"></a></p>
-<p><b>Alignment: Good</b></p>
+<p><b>Alignement: Good</b></p>
 <p>Enhances the Good Vanilla Faction they are associated with.</p>
 <p><b>Cost</b> 3000 Dwarven Coins</p>
 <hr>
 <p><b><a href="/realm/DrowFaction">Drow</a></b></p>
 <p><a href="/realm/DrowFaction"><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png"></a></p>
-<p><b>Alignment: Evil</b></p>
+<p><b>Alignement: Evil</b></p>
 <p>Enhances the Evil Vanilla Faction they are associated with.</p>
 <p><b>Cost</b> 3000 Drow Coins</p>
 <hr>
 <p><b><a href="/realm/DragonFaction">Dragon</a></b></p>
 <p><a href="/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png"></a>
-<p><b>Alignment: Neutral</b></p>
+<p><b>Alignement: Neutral</b></p>
 <p>Enhances the Neutral Faction they are associated with.</p>
 <p><b>Requirement</b>: R46+, Proof of Neutrality</p>
 <p><b>Cost</b>: 5 B (5e9) Dwarven and Drow Coins</p>
 <hr>
-<p><b>Mercenary Faction</b></p>
+<p><b>Mercenary Faction R3-R100, R160+</b></p>
 <p>Mercenaries were added in the After-life expansion as an ultimate powerhouse. See <a href="http://musicfamily.org/realm/MercenaryFaction/"><b>Mercenary</b></a> page for more details.</p>
 <p><b><a href="/realm/MercenaryFaction">Mercenary</a></b></p>
 <p><a href="/realm/MercenaryFaction"><img src="http://musicfamily.org/realm/Factions/picks/MercenaryFirstContract.png"></a></p>
@@ -126,29 +126,29 @@
 <p>Combines the spells and upgrades from other factions to create custom cross-faction <a href="http://musicfamily.org/realm/MercBuilds"><b>mercenary builds</b></a>.</p>
 <p><b>Cost</b> 50 Spd (5E55)</p>
 <hr>
+<p><b>Elite Faction R125+</b></p>
 <p><b><a href="/realm/ArchonFaction">Archon</a></b></p>
 <p><a href="/realm/ArchonFaction"><img src="http://musicfamily.org/realm/Factions/picks/ArchonTradeTreaty.png"></a>
-<p><b>Alignment: Order</b></p>
+<p><b>Alignement: Order</b></p>
 <p>Increase your ability to boost your production immensely over long periods of time.</p>
 <p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 No (1e30) Angel and Undead Coins</p>
+<p><b>Cost</b>: 1 Dc (1e33) Angel and Undead Coins</p>
 <hr>
 <p><b><a href="/realm/DjinnFaction">Djinn</a></b></p>
 <p><a href="/realm/DjinnFaction"><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png"></a></p>
-<p><b>Alignment: Chaos</b></p>
+<p><b>Alignement: Chaos</b></p>
 <p>Granting you the ability to manipulate random outcomes to your advantage.</p>
 <p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Dc (1e33) Fairy and Demon Coins</p>
 <hr>
 <p><b><a href="/realm/MakersFaction">Makers</a></b></p>
 <p><a href="/realm/MakersFaction"><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png"></a></p>
-<p><b>Alignment: Balance</b></p>
+<p><b>Alignement: Balance</b></p>
 <p>Increase your ability to dominate all your resources.</p>
 <p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 No (1e30) Elven and Goblin Coins</p>
+<p><b>Cost</b>: 1 Dc (1e33) Elven and Goblin Coins</p>
 <hr>
 <p><b>Faction Spell & Upgrades</b></p>
-<br/>
 <p>Each Faction has its own Faction specific spell and 3x3 Tier upgrades (3x4 for Mercenaries). The Tier upgrades only show up in order , so when you buy Tier 1 then Tier 2 will show up and then Tier 3, and hence cannot be bought before.</p>
 <p>Each Faction also has its own symbol and color code</p>
 <p>In the first column are the Tier 1 upgrades, in the second, Tier 2 and third, Tier 3 upgrades. </p>

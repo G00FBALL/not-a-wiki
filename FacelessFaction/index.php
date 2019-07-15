@@ -44,7 +44,7 @@
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessTradeTreatyFactionUpgrade.png" alt="Smiley face" align="middle"> Faceless Trade Treaty</b></p>
-<p><b>Cost</b>: 500 Fairy Coins + 500 Undead Coins</p>
+<p><b>Cost</b>: 250 Fairy Coins + 250 Undead Coins</p>
 <p><b>Effect</b>: Unlocks Tier 1 Faceless Upgrades.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" alt="Smiley face" align="middle"> Territorial Expanse</b></p>
@@ -145,7 +145,7 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Fairy and Undead Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Fairy and Undead Coins</p>
 <p><b>Requirements</b>: Faceless Master trophy and 8 hours activity time (This Game) of Brainwave.<p>
 <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
 <p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>

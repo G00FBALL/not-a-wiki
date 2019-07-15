@@ -43,7 +43,7 @@
 <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-<p><b>Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
+<p><b>Chance</b>: 2 * (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png" align="middle"> Third Crystal Fragment</b></p>
 <p><b>Clue</b>: Also acts as a spell catalyst.</p>
@@ -54,18 +54,21 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"> Djinn Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
 <p><b>Cost</b>: 10 Dqag (1e130)</p>
-<p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
+<p><b>Effect</b>: Increase Maximum Mana by 150%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png" align="middle"> Djinn Quest</b></p>
 <p><b>Requirements</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this game.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Djinn Faction</p>
 <hr>
+<p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16.</p>
+<p><b>Note</b>: Elite spells can only be bought from the Sorcery contract.</p>
+<hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png" align="middle"> Djinn Trade Treaty</b></p>
 <p><b>Description</b>: A magical race of ephemeral and elusive beings, unbound by natural rules but instead commanding them. Affiliating with them will grant you the ability to manipulate random outcomes to your advantage.</p>
 <p><b>Requirements</b>: Vanilla and Prestige Union</p>
-<p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Oc (1e27) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
@@ -85,7 +88,7 @@
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnFriendshipPact.png" align="middle">  Djinn Friendship Pact</b></p>
-<p><b>Cost</b>: 1 UD (1e36) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic</b></p>
@@ -105,7 +108,7 @@
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnAlliance.png" align="middle">  Djinn Alliance</b></p>
-<p><b>Cost</b>: 1 Dd (1e39) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Dc (1e33) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
@@ -125,7 +128,7 @@
 <p><b>Formula</b>: (2 * log10(1 + x) ^ 2), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Cost</b>: 1 Td (1e42) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
 <hr>
@@ -142,23 +145,23 @@
 <br/>
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></p></b>
-<p>Upgraded from Orcish Arena/Stone Pillars/Knights Jousts</p>
-<p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p>Upgraded from Slave Pens/Warrior Barracks/Deep Mines</p>
+<p>Upgrade Orcish Upgraded from Slave Pens/Warrior Barracks/Deep Mines to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirement</b>: Pavilion Quest.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnUnion.png" align="middle"> Djinn Union</b></p>
 <p><b>Requirements</b>: R130, Unique Building</p>
-<p><b>Cost</b>: 1 Qad (1e45) Fairy and Demon Coins</p>
+<p><b>Cost</b>: 1 Dd (1e39) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Maelstrom bonuses scale faster.</p>
 <p><b>Formula</b>: x1.1 multiplier to exponent of maelstrom formulas.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
 <p><b>Requirements</b>: Djinn Union</p>
 <p><b>Cost</b>: 100 QiQig (1e170)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on Limited Wish activity time in this Reincarnation.</p>
+<p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>

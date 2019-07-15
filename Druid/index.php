@@ -33,7 +33,7 @@
 <p>Our sorcerers are desperately trying to stabilize the balance of the realm, this is your opportunity to gain their favor - and live another day.</p>
 <p><b> Requirements</b>: 9 Reincarnations, Druid Bloodline, Elf 2 and Demon 2 challenges completed</p>
 <p><b>Challenge</b>: Have exactly 1600 of each building types, for 16 full Grand Balance casts. (The 16 casts only counts after you have all the 1600 buildings.)</p>
-<p><b>Effect</b>: Mana regeneration is increased by 1% for every 200 Stone Pillars you own</p>
+<p><b>Effect</b>: Mana regeneration is increased by 1% for every 5000 buildings.</p>
 <p><b>Upgrade</b>: Good for Titan</p>
 <hr>
 <p><b>Druid Challenge 3</b></p>
@@ -41,7 +41,7 @@
 <p>Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.</p>
 <p><b>Requirements</b>: 19 Reincarnations, 1000 excavations, Elf 3 and Demon 3 challenges completed</p>
 <p><b>Challenge</b>: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.</p>
-<p><b>Effect</b>: You gain 1.5 additional max mana for every 4 Labyrinths owned. (Ingame tooltip says 1.25 max mana but is wrong)</p>
+<p><b>Effect</b>: You gain 1.5 additional max mana for every 100 buildings.</p>
 <p><b>Upgrade</b>: Good for Faceless</p>
 <p><b>Tip</b></p>
 <p>Now that Grand Balance affects 0 buildings, it will target the next building down the list:</p>
@@ -54,8 +54,8 @@
 <p>The Druids need more spell power, but they are worried about outside influences throwing off their balance</p>
 <p><b>Requirements</b>: 25 Reincarnations, Druid Unique Building</p>
 <p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
-<p><b>Effect</b>: All spell durations are increased based on Maximum Mana. Cannot exceed a bonus of 100,000%.</p>
-<p><b>Formula</b>: (0.005 * x ^ 0.85), where x is max mana.</b>
+<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell. Does not suffer from Ascension penalties.</p>
+<p><b>Formula</b>: (75 * x ^0.75), where x is the duration of your longest spell.</b>
 <p><b>Upgrade</b>: Good for All</b>
 <p><b>Tips</b></p>
 <p>Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>
@@ -64,7 +64,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png" alt="Primal Balance" align="middle"> <b>Primal Balance</b></p>
 <p><b>Effect</b>: Grand Balance now affects extra buildings based on mana spent this reincarnation.</p>
 <p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
-    <a id="Primal Balance"></a>
+<br/>
+<a id="Primal Balance"></a>
     <table class="numtable">
         <thead>
         <tr>
@@ -144,4 +145,7 @@
         </tr>
         </tbody>
     </table>
+<br/>
+<p><b>Effect</b>: After 10 exceeding targets (or GB21), Increase the production of all affected buildings based on the exceeding amount.</p>
+<p><b>Formula</b>: (x ^3), where x is the number of targets past 10, not A-nerfed.</p>
 <?php include "../scripts/footer.html"; ?>            </div>

@@ -38,8 +38,8 @@
 <p>There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm.</p>
 <p><b>Requirements</b>: 27 Reincarnations, 2000 excavations, Drow Challenge 3 completed</p>
 <p><b>Challenge</b>: Cast Call to Arms with at least 35,000 buildings.</p>
-<p><b>Effect</b>: Increase your Offline Time (This Game) based on spells cast in this game.</p>
-<p><b>Formula</b>: (0.2 * x ^ 0.8) where x is spells cast in this game.
+<p><b>Effect</b>: Increase your Offline Time (This Game) based on spells cast in this R.</p>
+<p><b>Formula</b>: (8 * log10(x) ^ 4) where x is spells cast in this R.</p>
 <p><b>Upgrade</b>: Good for Drow</p>
 <hr>
 <p><b>Drow Challenge 5</b>:</p>

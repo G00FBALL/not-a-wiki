@@ -77,4 +77,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/125Reincarnations.png" alt="100 Reincarnations" align="middle"> 125 Reincarnations</b></p>
 <p><b>Requirement</b>: Reincarnate 125 times</p>
 <p><b>Cost</b>: (To Reincarnate to R125) 31.05 Dvg (3.105e70) Gems</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/150Reincarnations.png" align="middle"> 150 Reincarnations</b></p>
+<p><b>Requirements</b>: Reincarnate 150 times.</p>
+<p><b>Cost</b>: (To Reincarnate to R150) 1.134 Dqag (1.134e129) Gems</p>
 <?php include "../scripts/footer.html"; ?>

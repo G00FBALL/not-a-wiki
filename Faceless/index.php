@@ -25,7 +25,7 @@
 <p><b>Requirements</b>: 9 Reincarnations, Faceless Bloodline, Fairy 2 and Undead 2 challenges completed</p>
 <p><b>Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
 <p><b>Note</b>: Buy every building except Labyrinth and click 1000 times.</p>
-<p><b>Effect</b>: You gain +10 max mana for every 20 labyrinths built.</p>
+<p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p>
 <p><b>Upgrade</b>: Good for Druid</p>
 <hr>
 <p><b>Faceless Challenge 3</b></p>

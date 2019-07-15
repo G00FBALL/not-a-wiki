@@ -5,7 +5,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
 <hr>
 <div class="shlisting">
-    <h6><b>893 Total Trophies</b></h6>
+    <h6><b>899 Total Trophies</b></h6>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (62)</a></b></p>
@@ -279,7 +279,7 @@
 <p><b>Cost Post A</b>: Free</p>
 <p><b>Note</b>: It can take up to 1 day at R20.</p>
 <p><b>Note</b>: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall.</p>
-<p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
+<p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation. (Not A Nerfed)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle><b> That Excavated Quickly</b></p>
 <p><b>Requirement</b>: Excavate 1000 times in the first 30 seconds of a run (This Game)</p>
@@ -679,7 +679,7 @@ div#images div{
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Misc Trophies (165)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Misc Trophies (166)</a></b></p>
             <div class="autohide">
 <p><img src=http://musicfamily.org/realm/Factions/picks/AThousandCoins.png align=middle><b> A Thousand Coins</b></p>
 <p><b>Requirement</b>: Gain 1,000 coins in a single game.</p>
@@ -938,6 +938,9 @@ div#images div{
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/AssistantMultiverse.png align=middle><b> Assistant Multiverse</b></p>
 <p><b>Requirement</b>: Have 5 T (5e12) Assistants in a single game.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantStratum.png" align="middle"> Assistant Stratum</b></p>
+<p><b>Requirements</b>: Have 5e18 Assistants.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/1Artifact.png align=middle><b> 1 Artifact</b></p>
 <p><b>Requirement</b>: Find 1 Artifact (All Time).</p>
@@ -1397,6 +1400,25 @@ div#images div{
 <p><b>New R Power at Reincarnation 85</b>: Will gain 4 additional assistants per reincarnation.</p>
 <p><b>Increase</b>: Mana regeneration by 1% per Reincarnation (125%).</p>
 <hr>
+<p><b><img src=http://musicfamily.org/realm/Factions/picks/150Reincarnations.png align=middle> 150 Reincarnations</b></p>
+<p><b>Requirement</b>: Reincarnate 150 times<p>
+<p><b>Effects</b></p>
+<p><b>Gives RPower Upgrade</b></p>
+<p><b>Cost</b>: 1 Coin</p>
+<p><b>Current Research Points</b>: 5000 (Max)</p>
+<p><b>Increase</b>: Offline bonus by 0.66%,</p>
+<p><b>Increase</b>: FC coin Chance by 150%.</p>
+<p><b>Increase</b>: Mana regen by 21.0 m/s.</p>
+<p><b>Increase</b>: Bonus from gem by an additional 0.2% per reincarnation (+30.0%)</p>
+<p><b>Increase</b>: Adds 1 assistant per reincarnation and increase the production of assistant production based on reincarnations made( 0.14%)</p>
+<p><b>Increase</b>: Production of each buildings over time based on reincarnation per building of the same type.</p>
+<p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (75%)</p>
+<p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (8.6%)</p>
+<p><b>Increase</b>: Maximum mana by 35 per reincarnation (5250)</p>
+<p><b>Increase</b>: Multiplicatively Faction Coin find chance based on the amount of times you reincarnated (618%)</p>
+<p><b>Increase</b>: New R Power at Reincarnation 85</font>: Will gain 4 additional assistants per reincarnation.</p>
+<p><b>Increase</b>: Mana regeneration by 1% per Reincarnation (150%).</p>
+<hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ArchaeologyExpedition.png align=middle><b> Archaeology Expedition</b></p>
 <p><b>Requirement</b>: Excavate for the 1st time.</p>
 <hr>
@@ -1407,20 +1429,23 @@ div#images div{
 <p><b>Requirement</b>: Complete all the Vanilla Faction Challenges.</p>
 <p><b>Cost Pre A</b>: 10 coins</p>
 <p><b>Cost Post A</b>: Free</p>
-<p><b>Effect Pre A</b>: Increase the overall production of Vanilla Factions by 25%.</p>
-<p><b>Effect Post A</b>: Increase the overall production of Vanilla Factions by 2.26%.</p>
+<p><b>Effect</b>: Increase the overall production of Vanilla Factions by 25%. (Not A-Nerfed)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/NeutralChallengerSecretTrophy.png align=middle><b> Neutral Challenger</b></p>
 <p><b>Requirement</b>: Complete all the Neutral Faction Challenges.</p>
 <p><b>Cost Pre A</b>: 10 coins</p>
 <p><b>Cost Post A</b>: Free</p>
-<p><b>Effect Pre A</b>: Increase the overall production of Neutral Factions by 25%.</p>
-<p><b>Effect Post A</b>: Increase the overall production of Neutral Factions by 2.26%.</p>
+<p><b>Effect</b>: Increase the overall production of Neutral Factions by 25%. (Not A-Nerfed)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PrestigeChallengerSecretUpgrade.png align=middle><b> Prestige Challenger</b></p>
 <p><b>Requirement</b>: Complete all the Prestige Challenges, R63+</p>
 <p><b>Cost</b>: 10</p>
-<p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%.</p>
+<p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%. (Not A-Nerfed)</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EliteChallenger.png" align="middle"> Elite Challenger</b></p>
+<p><b>Requirements</b>: Complete all the MAD Challenges.</p>
+<p><b>Cost</b>: 10</p>
+<p><b>Effect</b>: Increase the overall production of Elite Factions by 25%. (Not A-Nerfed)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/NoviceResearcherSecretTrophy.png align=middle><b> Novice Researcher</b></p>
 <p><b>Requirement</b>: Research 600 times across all fields.</p>
@@ -1446,12 +1471,12 @@ div#images div{
 <p><img src=http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretTrophy.png align=middle><b> Master Researcher</b></p>
 <p><b>Requirement</b>: Research 10000 times across all fields.</p>
 <p><b>Cost</b>: 1 Qavg (1e75)</p>
-<p><b>Effect</b>: Increase the overall production of Dragons by 150%.</p>
+<p><b>Effect</b>: Increase the overall production of Dragons by 100%.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png align=middle><b> Grandmaster Researcher</b></p>
 <p><b>Requirement</b>: Research 18500 times across all fields.</p>
 <p><b>Cost</b>: 10 SpQig (1e175)</p>
-<p><b>Effect</b>: Increas the overall production of Mercenaries by 100%.</p>
+<p><b>Effect</b>: Increase the overall production of Mercenaries by 150%.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/VanillaResearcherSecretTrophy.png align=middle><b> Vanilla Researcher</b></p>
 <p><b>Requirement</b>: Discover all the Vanilla Faction researches.</p>
@@ -1486,6 +1511,9 @@ div#images div{
 <p><b>Effect</b>: Increase the production of all buildings based on research done</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is total of research done.</p>
 <p><b>Note</b>: Upgrade good for Mercenary.</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png" align="middle"> God's Fingers</b></p>
+<p><b>Requirements</b>: Reach 700 M (7e8) automatic clicks in this Reincarnation.</p>
                  </div>
             </div>
         <div class="shelementwhole">
@@ -1653,10 +1681,18 @@ div#images div{
 <p><b>Effect</b>: Allows you to select Independent Spells (set with the bronze icon in the spell tooltip) or (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are cast as soon as you have enough mana for them.</p>
 <p><b>Effect</b>: Only while offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
 <hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
+<p><b>Requirements</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
+<p><b>Effect</b>: Allows you to manually reset spells.</p>
+<p><b>Note</b>: Can not reset spells with a fixed duration.</p>
+<p><b>Note</b>: Only while offline, increase your mana produced amount by an additional 10% of your Mana Regeneration per second, and your spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
+<p><b>Formula</b>: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
+<p><b>Cost</b>: 3.2 Dc (3.2e33), A3+: Free</p>
+<hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle><b> Tiered Autocasting</b></p>
 <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
 <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
-<p><b>Cost</b>: Free</p>
+<p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to. In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
 <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
 <p><b>Formula</b>: (1000 * log10(1 + x))</p>
@@ -1761,14 +1797,15 @@ div#images div{
 <p><img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle><b> Dragon's Roar</b></p>
 <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
 <p><b>Cost</b>: 1.0e45</p>
-<p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on its activity time.</p>
-<p><b>Note</b>: Dragon Spell</p>
+<p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
+<p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-<p><b>Requirements</b>: R125+, Cast Precognition with at least 10 Qi (1e19) mana regeneration.</p>
+<p><b>Requirements</b>: R125+, Cast Precognition with at least 1 Qi (1e18) mana regeneration.</p>
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is Precognition duration.</p>
+<p><b>Effect</b>: Now scale off invisible spell duration modifiers.</p>
+<p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
@@ -3609,6 +3646,9 @@ div#images div{
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterGrinder.png" align="middle"><b> Grandmaster Grinder</b></p>
 <p><b>Requirement</b>: Build a total of 300,000 buildings</p>
+<hr>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png" align="middle"> The Architect</b></p>
+<p><b>Requirements</b>: Build 250000 units of any individual building.</p>
     </div>
 </div>
    </div>

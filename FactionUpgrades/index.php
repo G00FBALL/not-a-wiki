@@ -273,7 +273,7 @@
                 <p><b>Mercenary Template</b>: DW2</p>
                 <p><b>Cost</b>: 50 Qad (5E46)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: floor(3 * x ^ 0.9), where x is your Assistants stat.</p>
+                <p><b>Formula</b>: (100 * x ^ 0.5), where x is your Assistants stat.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" align="middle"> Shadow Advance</b></p>
                 <p><b>Mercenary Template</b>: DW3</p>
@@ -591,7 +591,7 @@
                 <p>AR6</p>
                 <p><b>Cost</b>: 10 DQig (1e160)</p>
                 <p><b>Effect</b>: Increase Offline bonus based on Excavation Resets made in this Reincarnation.</p>
-                <p><b>Formula</b>: (3 * (x + y) ^ 3), where x is free resets this R and y is ruby resets this R.</p>
+                <p><b>Formula</b>: (30 + 3 * (x + y) ^ 3), where x is free resets this R and y is ruby resets this R.</p>
                 <hr>
                 <h6>Djinn</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic</b></p>
@@ -828,8 +828,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
                 <p><b>Mercenary Template</b>: DW9</p>
                 <p><b>Cost</b>: 50 Spd (5E55)</p>
-                <p><b>Effect</b>: Part of the Combo Strike chain bonus is applied passively.</p>
-                <p><b>Formula</b>: x, where x is your current Combo Strike bonus.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
+                <p><b>Formula</b>: (30 * x ^ 0.9), where x is Combo Strike casts in this game.</p>
                 <hr>
                 <h6>Dragon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" align="middle"> Ancient Hunger</b></p>
@@ -894,7 +894,7 @@
                 <p>MK7</p>
                 <p><b>Cost</b>: 10 TQig (1e163)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-                <p><b>Formula</b>: (0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+                <p><b>Formula</b>: (30 + 0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
                 <p>MK8</p>
@@ -970,12 +970,12 @@
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
-                <p><b>Formula</b>: (0.07 * x ^ 0.7), where x is seconds in current spells.</p>
+                <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is seconds in current spells.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" align="middle"> Seraphim Wings</b></p>
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-                <p><b>Effect</b>: Increase Mana Regeneration, Faction Coin find chance and assistants by 160%.</p>
+                <p><b>Effect</b>: Multiplicatively increase Maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%.</p>
                 <hr>
                 <h6>Goblin</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" align="middle"> Fools Gems</b></p>
@@ -1155,7 +1155,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
                 <p><b>Requirement</b>: R130+, Archon Union</p>
                 <p><b>Cost</b>: 100 QiQig (1e170)</p>
-                <p><b>Effect</b>: Lineage levels count 300% more for all purposes.</p>
+                <p><b>Effect</b>: Lineage levels count 300% more for all purposes. Increase Precognition base and scaling.</p>
+                <p><b>Formula</b>: (1.25 * ln(x) ^ 1.5), where x is mana produced in this game.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbsoluteHierarchy.png" align="middle"> Absolute Hierarchy</b></p>
                 <p><b>Requirement</b>: R130+, Archon Union</p>

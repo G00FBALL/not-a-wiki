@@ -109,10 +109,10 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Elven Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
 <p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.4), where x is amount of clicks this reincarnation.</p>
+<p><b>Formula</b>: (0.2 * ln(x) ^ 2), where x is amount of clicks this reincarnation.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>

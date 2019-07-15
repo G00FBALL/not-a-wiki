@@ -19,7 +19,7 @@
 <p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.4 * x ^ 2.4)%, where x is active spells.</p>
+<p><b>Formula</b>: (0.5 * x ^ 2.5)%, where x is active spells.</p>
 <p><b>Alignment</b>: Good, Proof of Chaos</p>
 <p><b>Requirement</b>: A2, Swarming Towers Quest (200K Assistants)</p>
 <hr>
@@ -50,7 +50,7 @@
 <p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as good and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on time spent as good.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (0.08 * x ^ 0.8), where x is time in second as good in this R.</p>
+<p><b>Formula</b>: (x ^ 0.85), where x is time in second as good in this R.</p>
 <p><b>Alignment</b>: Good, Proof of Order</p>
 <p><b>Requirement</b>: A2, Holy Site Quest (2M Mana Regeneration)</p>
 <hr>
@@ -83,7 +83,7 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
+<p><b>Formula</b>: (10 * x ^ 0.6), where x is mana regen per second.</p>
 <p><b>Alignment</b>: Evil, Proof of Order</p>
 <p><b>Requirement</b>: A2, Flesh Workshop Quest (85M% offline production bonus)</p>
 <hr>
@@ -208,13 +208,13 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="EvilMerc" align="middle"> <b>Evil Alignment</b></p>
 <p>Upgraded from Evil Fortresses</p>
 <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (0.5 * (log10( 1 + x)) ^ 4.5) where x is Offline Production Bonus</p>
+<p><b>Formula</b>: (log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
 <p><b>Requirement</b>: Mercenary, R75, 125K total buildings</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="NeutralMerc" align="middle"> <b>Neutral Alignment</b></p>
 <p>Upgraded from Alchemist Labs</p>
-<p>Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (2 * x ^ 0.95), where x is assistants you had in a single game (This R).</p>
+<p>Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
 <p><b>Requirement</b>: Mercenary, R75, 125K total buildings</p>
 <hr>
 <p><b>Archon</b></p>
@@ -226,8 +226,8 @@
 <hr>
 <p><b>Djinn</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></b></p>
-<p>Upgraded from Orcish Arena/Stone Pillars/Knights Jousts</p>
-<p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p>Upgraded from Slave Pen/Warrior Barracks/Deep Mine</p>
+<p>Upgrade Upgraded from Slave Pen/Warrior Barracks/Deep Mine to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirement</b>: Pavilion Quest.</p>
 <hr>

@@ -10,8 +10,7 @@
 <p><b>Requirements</b>: Reincarnations 48, Dragon's Roar upgrade, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 1, Play as Titan/Dragon</p>
 <p><b>Challenge</b>: Have 7200 Halls of Legends.</p>
 <p><b>Effect</b>: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.</p>
-<p><b>Effect</b>: Also increase Post-Ascension bonuses for Titan Drill and Titan Sized Walls.</p>
-<p><b>Formula</b>: (250000^2.4)% and (25000^2.4)%</p>
+<p><b>Effect</b>: Also increase Post-Ascension bonuses for Titan Drill by 100x and Titan Sized Walls 10x.</p>
 <p><b>Upgrade</b>: Good for Titan/Dragon</p>
 <hr>
 <p><b>Dragon Challenge 2</b>:</p>
@@ -19,9 +18,9 @@
 <p>"Unstable power flows through your workforce. Prove to the Dragonlords you can sustain and control every sip of it."</p>
 <p><b>Requirements</b>: Reincarnation 51, Dragon Bloodline, Completion of Titan, Druid, Faceless, Dwarven and Drow Challenge 2, Completion Dragon Challenge 1, Play as Druid/Dragon, Generate at least 1e10 mana in this game.</p>
 <p><b>Challenge</b>: Have Grand Balance affect 7 buildings.</p>
-<p><b>Effect</b>: Increase Stone Pillars production based on the amount of Grand Balance targets.</p>
-<p><b>Formula</b>: (6000 * x ^ 1.75), where x is number of targets.</p>
-<p><b>Effect</b>: Also reduces all Spell Tier upgrade costs based on Grand Balance activity time in this game.</p>
+<p><b>Effect</b>: Increase Non-Unique Buildings production based on the amount of Grand Balance targets. Does not suffer from Ascension penalties.</p>
+<p><b>Formula</b>: (20 * x ^ 2), where x is number of targets.</p>
+<p><b>Effect</b>: Also reduces all Spell Tier upgrades costs based on Grand Balance activity time in this R.</p>
 <p><b>Formula</b>: max(0, (1-t/28)^9) t is Grand Balance activity time in days.</p>
 <p><b>Upgrade</b>: Good for Druid/Dragon</p>
 <hr>
@@ -63,6 +62,5 @@
 <hr>
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrismaticBreathChallenges.png" alt="Prismatic Breath" align="middle"> <b>Prismatic Breath</b></p>
-<p><b>Effect</b>: While all 5 breaths are active, Reincarnations count double for all purposes.</p>
-<p><b>Faction</b>: Dragon</p>
+<p><b>Effect</b>: While all 5 breaths are active, Reincarnations count 50% more.</p>
 <?php include "../scripts/footer.html"; ?>

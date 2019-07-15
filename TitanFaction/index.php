@@ -45,7 +45,7 @@
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitansTradeTreatyFactionUpgrade.png" alt="Titans Trade Treaty" align="middle"> Titans Trade Treaty</b></p>
-<p><b>Cost</b>: 500 Angel Coins + 500 Goblin Coins</p>
+<p><b>Cost</b>: 250 Angel Coins + 250 Goblin Coins</p>
 <p><b>Effect</b>: Unlocks Tier 1 Titan Upgrades.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ColossalForgeFactionUpgrade.png" alt="Colossal Forge" align="middle"> Colossal Forge</b></p>
@@ -137,7 +137,7 @@
 <hr>
 <p><b>Ascension 2 - R100+</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedTitanHeritage.png" align="middle"> Advanced Titan Heritage</b></p>
-<p><b>Cost</b>: 7.5 Oc (7.5e27) Angel and Goblin Coins</p>
+<p><b>Cost</b>: 1 Sp (1e24) Angel and Goblin Coins</p>
 <p><b>Requirements</b>: Titan Master trophy 8 hours activity time (This Game) of Lightning Strike.<p>
 <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
 <p><b>Formula</b>: (0.85 * ln(1 + x) ^ 1.15)%, where x is Royal Exchanges purchased.</p>

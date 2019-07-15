@@ -213,7 +213,7 @@
     <p><b>Clue</b>: Quickly!</p>
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
+    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 2500% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
@@ -225,7 +225,7 @@
     <p><b>Description</b>: Despite being centuries old, it still smells like top-quality cocoa.</p>
     <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade</p>
     <p><b>Effect</b>: Awards an upgrade named Chocolate Flavored Juice</p>
-    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 25,000% for the first 15 minutes of the game for all Neutral factions.</p>
+    <p><b>Upgrade Effect</b>: Increase the production of all buildings by 2500% for the first 15 minutes of the game for all Neutral factions.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 coin</p>
@@ -339,15 +339,15 @@
     <p><b>Chance</b>: (Total Lineage levels/20)%</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
-    <p><b>Formula</b>: Without Ancient Heirloom 25 * 10^(15+lineages)</p>
-    <p><b>Formula</b>: With Ancient Heirloom (25 * 10^(15+lineages))^0.9</p>
+    <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
+    <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level)) ^ 0.9</p></p>
     <p><b>Cost</b>: A1, 10 Dtg (1e100)</p>
     <p><b>Cost</b>: A2+, Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part 2" align="middle"><b> Know Your Enemy, Part 2</b></p>
     <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
     <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
-    <p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
+    <p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
     <p><b>Chance</b>: 5%</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
@@ -360,7 +360,7 @@
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.</p>
     <p><b>Requirement</b>: R90+</p>
     <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game</p>
-    <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all challenges.</p>
+    <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all faction challenges of your alignment.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
     <p><b>Clue</b>: More Ascension...</p>
@@ -377,7 +377,7 @@
     <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
     <p><b>Requirement</b>: R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-    <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%.</p>
+    <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%</p>
     <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
     <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
 <hr>
@@ -386,12 +386,12 @@
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
     <p><b>Requirement</b>: R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-    <p><b>Upgrade Effect</b>: Lower cost of Lineage level based on time spent this game.
+    <p><b>Upgrade Effect</b>: Lower Lineage cost exponent based on Reincarnations made.</p>
     <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
-    <p><b>Formula</b>: (x ^ (0.9 - 0.01 * (((y - 20) ^ 1.4) - z / 4)) / 10), where x is hours this game, y is lineage level and z is reincarnations. (reset when upgrading lineage),</p>
-    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (15 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
+    <p><b>Formula</b>: (0.01 * R), R is Reincarnations made.</p>
+    <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (8 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
     <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
-    <p><b>Chance:</b>: (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
+    <p><b>Chance:</b>: 2 * (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png" align="middle"><b> Silk Cloth</b></p>
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
@@ -403,8 +403,7 @@
     <p><b>Clue</b>: Not found on the first Excavation round.</p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
     <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Elven</p>
-    <p><b>Chance</b>: (((2 * x) ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
-    <p><b>Note</b>: 1 in 44941 for 1 reset, 1 in 1954 for 2 resets, 1 in 316 for 3 resets</p>
+    <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
     <p><b>Clue</b>: Angels may fall after a long time.</p>
@@ -485,7 +484,7 @@
 <p><b>Hint</b>: The power of Creation may spark something new.</p>
 <p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
 <p><b>Requirements</b>: R120+, Proof of Balance</p>
-<p><b>Chance</b>: (ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
+<p><b>Chance</b>: 2 * (ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
 <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
@@ -497,4 +496,11 @@
 <p><b>Effect</b>: Gives upgrade with the same name</p>
 <p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
 <p><b>Upgrade Cost</b>: 100 Qi (1e20)</p>
-    <?php include "../scripts/footer.html"; ?>
+<hr>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryInsigniaArtifact.png" align="middle"><b> Mercenary Insignia</b></p>
+<p><b>Clue</b>: Gem rhabdomancy seems to work best.</p>
+<p><b>Description</b>: The infamous metal cross of the Mercenaries. You should be both proud and afraid to carry one.</p>
+<p><b>Requirement</b>: R160+, Play as Mercenary</p>
+<p><b>Chance</b>: ((log10(x) - 37) * 0.1)%, x is gems owned.</p>
+<p><b>Effect</b>: Unlocks Mercenary Set.</p>
+<?php include "../scripts/footer.html"; ?>
