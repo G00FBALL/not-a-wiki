@@ -16,7 +16,7 @@
 <p><b>Effect</b>: Increases the production of all buildings based on Reincarnations made when not affiliated with Mercenaries or Elite factions.</p>
 <p><b>Formula</b>: (100 * R), where R is Reincarnations made.</p>
 <br>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ChallengePower.png" align="middle"> Challenge Power</b> (<b>New Upgrade</b>)</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChallengePower.png" align="middle"> Challenge Power</b> (<b>New Upgrade</b>)</p>
 <p><b>Effect</b>: Unlock the power of Challenges. Once purchased all available Challenges will be automatically selected.</p>
 <p><b>Note</b>: Challenges can no longer be toggled on/off</p>
 <br>
@@ -35,18 +35,18 @@
 <p><b>Added Effect</b>: Also clicks once per second.</p>--!>
 <br>
 <p><b>6 New Trophies</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/AssistantStratum.png" align="middle"> Assistant Stratum</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AssistantStratum.png" align="middle"> Assistant Stratum</b></p>
 <p><b>Requirements</b>: Have 5e18 Assistants.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/150Reincarnations.png" align="middle"> 150 Reincarnations</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/150Reincarnations.png" align="middle"> 150 Reincarnations</b></p>
 <p><b>Requirements</b>: Reincarnate 150 times.</p>
 <p><b>Cost</b>: (To Reincarnate to R150) 1.134 Dqag (1.134e129) Gems</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/EliteChallenger.png" align="middle"> Elite Challenger</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EliteChallenger.png" align="middle"> Elite Challenger</b></p>
 <p><b>Requirements</b>: Complete all the MAD Challenges.</p>
 <p><b>Effect</b>: Increase the overall production of Elite Factions by 25%.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
 <p><b>Requirements</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
 <p><b>Effect</b>: Allows you to manually reset spells.</p>
 <p><b>Note</b>: Can not reset spells with a fixed duration.</p>
@@ -54,16 +54,16 @@
 <p><b>Formula</b>: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
 <p><b>Cost</b>: 3.2 Dc (3.2e33), A3+: Free</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/TheArchitect.png" align="middle"> The Architect</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png" align="middle"> The Architect</b></p>
 <p><b>Requirements</b>: Build 250,000 units of any individual building.</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/God'sFingers.png" align="middle"> God's Fingers</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png" align="middle"> God's Fingers</b></p>
 <p><b>Requirements</b>: Reach 700 M (7e8) automatic clicks in this Reincarnation.</p>
 <hr>
 <p><b>Added Elite Challenges</b></p>
 <p><b>Archon</b></p>
 <p><b>Archon Challenge 1</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/God’sPlan.png" align="middle"> God’s Plan</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/God’sPlan.png" align="middle"> God’s Plan</b></p>
 <p>The ascended crusade wishes to test the strength of it's angelic understudies; perhaps a huge Call to Arms is worthy of their attention.</p>
 <p><b>Requirements</b>: Angel as Base Faction, Archon as Elite Faction, 135 Reincarnations, Chrono Loading spell upgrade purchased.</p>
 <p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7%) and at least 250,000 Good buildings.</p>
@@ -73,7 +73,7 @@
 <p><b>Upgrade</b>: Good for Angel</p>
 <br/>
 <p><b>Archon Challenge 2</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/AnUntimelyDeath.png" align="middle"> An Untimely Death</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AnUntimelyDeath.png" align="middle"> An Untimely Death</b></p>
 <p>A glorious victory! May we reap the rewards of war with new undead adversaries to join our quest.</p>
 <p><b>Requirements</b>: Undead as Base Faction, Archon as Elite Faction, 139 Reincarnations, Archon Bloodline active, Completion of Archon Challenge 1</p>
 <p><b>Challenge</b>: Have an Offline Bonus of at least 2e32 while also having at least 5e10 assistants.</p>
@@ -83,7 +83,7 @@
 <p><b>Upgrade</b>: Good for Undead</p>
 <br/>
 <p><b>Archon Challenge 3</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/Titanomachy.png" align="middle"> Titanomachy</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Titanomachy.png" align="middle"> Titanomachy</b></p>
 <p>Through mastery of life and death, the final venture of creator's assistance stands between total dominion of the higher planes.</p>
 <p><b>Requirements</b>: Titan as Base Faction, Archon as Elite Faction, 143 Reincarnations, 25,000 excavations, Titan Set active, Completion of Archon Challenge 2</p>
 <p><b>Challenge</b>: Have an individual Royal Exchange bonus of at least 5000% within 5 minutes of a new game.</p>
@@ -93,7 +93,7 @@
 <p><b>Upgrade</b>: Good for Titan</p>
 <br/>
 <p><b>Archon Challenge 4</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/TimeMerge.png" align="middle"> Time Merge</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/TimeMerge.png" align="middle"> Time Merge</b></p>
 <p>In order to satiate our campaign we need to delve deeper into the abstract. Behold, even time itself yields to the crusade.</p>
 <p><b>Requirements</b>: Archon as Elite Faction, 148 Reincarnations, Archon Unique Building Purchased (Nexus), Completion of Archon Challenge 3</p>
 <p><b>Challenge</b>: Have a Temporal Flux bonus of at least 6543210%.</p>
@@ -101,7 +101,7 @@
 <p><b>Upgrade</b>: Good for Archon</p>
 <br/>
 <p><b>Archon Challenge 5</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PowerOverwhelming.png" align="middle"> Power Overwhelming</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PowerOverwhelming.png" align="middle"> Power Overwhelming</b></p>
 <p>All-powerful ruler, we've experienced all this worldline had to offer. Shall we bridge to another and continue?</p>
 <p><b>Requirements</b>: Archon as Elite Faction, 153 Reincarnations, Have all Order Lineages at least level 45, Completion of Archon Challenge 4</p>
 <p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 400% bonus.</p>
@@ -109,12 +109,12 @@
 <p><b>Upgrade</b>: Good for All</p>
 <br/>
 <p><b>In-Game Challenge Final Reward</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/Omniscience.png" align="middle"> Omniscience</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Omniscience.png" align="middle"> Omniscience</b></p>
 <p><b>Effect</b>: Precognition also makes Excavations, Artifacts, Reincarnations, Research points and Lineage levels count 15% more.</p>
 <hr>
 <p><b>Djinn</b></p>
 <p><b>Djinn Challenge 1</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MiniatureLamps.png" align="middle"> Miniature Lamps</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MiniatureLamps.png" align="middle"> Miniature Lamps</b></p>
 <p>In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell.</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, 135 Reincarnations, Persistent Entropy spell upgrade purchased.</p>
 <p><b>Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
@@ -126,7 +126,7 @@
 <p><b>Upgrade</b>: Good for Fairy</p>
 <br/>
 <p><b>Djinn Challenge 2</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
 <p>As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!</p>
 <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, 139 Reincarnations, Djinn Bloodline active, Completion of Djinn Challenge 1.</p>
 <p><b>Challenge</b>: Have at least 6e12 Mana Produced within 6 hours of a new game.</p>
@@ -137,7 +137,7 @@
 <p><b>Upgrade</b>: Good for Demon</p>
 <br/>
 <p><b>Djinn Challenge 3</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
 <p>Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels.</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, 143 Reincarnations, 25,000 excavations, Faceless Set active, Completion of Djinn Challenge 2.</p>
 <p><b>Challenge</b>: Have at least 8e12 assistants within 5 minutes of a new game.</p>
@@ -148,7 +148,7 @@
 <p><b>Upgrade</b>: Good for Faceless</p>
 <br/>
 <p><b>Djinn Challenge 4</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
 <p>This generation decided that we should give them a few more wishes before they give in to our demands for a change.</p>
 <p><b>Requirements</b>: Djinn as Elite Faction, 148 Reincarnations, Djinn Unique Building Purchased (Pavilion), Completion of Djinn Challenge 3.</p>
 <p><b>Challenge</b>: Have a spell duration of at least 2 year.</p>
@@ -156,7 +156,7 @@
 <p><b>Upgrade</b>: Good for Djinn</p>
 <br/>
 <p><b>Djinn Challenge 5</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/AltarofWishes.png" align="middle"> Altar of Wishes</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/AltarofWishes.png" align="middle"> Altar of Wishes</b></p>
 <p>Freedom... at last. Onwards we go, to a better future. So long, mortals.</p>
 <p><b>Requirements</b>: Djinn as Elite Faction, 153 Reincarnations, All Chaos Lineages at level 45, Completion of Djinn Challenge 4.</p>
 <p><b>Challenge</b>: Cast all Chaos spells 88 times each in a single Reincarnation.</p>
@@ -182,12 +182,12 @@
 <p><b>1 Order Spell</b>: Precognition = 132% Mana Regeneration</p>
 <br/>
 <p><b>In-Game Challenge Final Reward</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/FullWish.png" align="middle"> Full Wish</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FullWish.png" align="middle"> Full Wish</b></p>
 <p><b>Effect</b>: Production of all buildings effect of Limited Wish is active on every cast and is no longer a possible random outcome.</p>
 <hr>
 <p><b>Makers</b></p>
 <p><b>Makers Challenge 1</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/SeedofLife.png" align="middle"> Seed of Life</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/SeedofLife.png" align="middle"> Seed of Life</b></p>
 <p>If you wish to make an apple pie from scratch, you must first invent the universe. And the apple tree, you will have to nurse.</p>
 <p><b>Requirements</b>: Elves as Base Faction, Makers as Elite Faction, 135 Reincarnations, Reality Crater spell upgrade purchased.</p>
 <p><b>Challenge</b>: Get 1e7 clicks in this Reincarnation and trigger Elven Luck at least 7777 times in this game.</p>
@@ -198,7 +198,7 @@
 <p><b>Upgrade</b>: Good for Elves</p>
 <br/>
 <p><b>Makers Challenge 2</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ArtificialCurrency.png" align="middle"> Artificial Currency</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtificialCurrency.png" align="middle"> Artificial Currency</b></p>
 <p>Extinction is the rule. Survival is the exception, which can only be achieved through subtle deception.</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Makers as Elite Faction, 139 Reincarnations, Makers Bloodline active, Completion of Makers Challenge 1.</p>
 <p><b>Challenge</b>: Get 1e48 Faction Coins with a minimum of 50 Excavation Resets in this Reincarnation.</p>
@@ -209,7 +209,7 @@
 <p><b>Upgrade</b>: Good for Goblin</p>
 <br/>
 <p><b>Makers Challenge 3</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/PillarsofCreation.png" align="middle"> Pillars of Creation</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/PillarsofCreation.png" align="middle"> Pillars of Creation</b></p>
 <p>We are like butterflies who flutter for a day and think it is forever. This can be accomplished when you sincerely endeavor.</p>
 <p><b>Requirements</b>: Druid as Base Faction, Makers as Elite Faction, 143 Reincarnations, 25,000 excavations, Druid Set active, Completion of Makers Challenge 2.</p>
 <p><b>Challenge</b>: "Have at least 1e9 Maximum Mana and 30000 of each building within 5 minutes of a new game.</p>
@@ -219,7 +219,7 @@
 <p><b>Upgrade</b>: Good for Druid</p>
 <br/>
 <p><b>Makers Challenge 4</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/Stoneheart.png" align="middle"> Stoneheart</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Stoneheart.png" align="middle"> Stoneheart</b></p>
 <p>We are a way for the cosmos to know itself. Manipulate existence to plant an evocation of yourself.</p>
 <p><b>Requirements</b>: Makers as Elite Faction, 148 Reincarnations, Makers Unique Building Purchased (Halls of Origination), Completion of Makers Challenge 3.</p>
 <p><b>Challenge</b>: Without using any Bloodline or Research, reach 35000 Halls of Origination.</p>
@@ -227,7 +227,7 @@
 <p><b>Upgrade</b>: Good for Makers</p>
 <br/>
 <p><b>Makers Challenge 5</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/GreatestInvention.png" align="middle"> Greatest Invention</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GreatestInvention.png" align="middle"> Greatest Invention</b></p>
 <p>Somewhere, something incredible is waiting to be known. Sculpt from your boundless imagination and make it your own.</p>
 <p><b>Requirements</b>: Makers as Elite Faction, 153 Reincarnations, All Balance Lineages at level 45, Completion of Makers Challenge 4.</p>
 <p><b>Challenge</b>: Have at least 1e13 assistants, 10e9 Maximum Mana and 2e22 Faction Coin find chance within 8 minutes of a new game.</p>
@@ -236,54 +236,54 @@
 <p><b>Upgrade</b>: Good for All</p>
 <br/>
 <p><b>In-Game Challenge Final Reward</b></p>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/Gaia'sCradle.png" align="middle"> Gaia's Cradle</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Gaia'sCradle.png" align="middle"> Gaia's Cradle</b></p>
 <p><b>Effect</b>: All Infinite Spiral effects scale 15% faster.</p>
 <hr>
 <p><b>Mercenary Added back in A3</b>:</p>
 <p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
 <p><b>In-game description</b>: The Mercenary Lord has challenged you to a duel of skills. Complete the following tasks in a single Reincarnation to show your ability as a ruler.</p>
 <p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 1 Nod (1e60) Faction Coins, 300000 Buildings (MAX), 1 Qi (1e18) Assistants (MAX)</p>
 <p><b>Note</b>: 1 time purchase</p>
 <p><b>Effect</b>: Unlocks Mercenary in Ascension 3</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryBuildingContract.png" align="middle"> Mercenary Building Contract</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBuildingContract.png" align="middle"> Mercenary Building Contract</b></p>
 <p>You can purchase one Ascension 2 Unique Building from any faction, provided you meet the requisites. You will not be able to change it during the current run.</p>
 <p><b>Cost</b>: Free</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryFourthContract.png" align="middle"> Mercenary Fourth Contract</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryFourthContract.png" align="middle"> Mercenary Fourth Contract</b></p>
 <p><b>Requirements</b>: R160+, Mercenary Duel purchased</p>
 <p><b>Cost</b>: 100 Qid 1e50</p>
 <p><b>Effect</b>: Unlocks Tier 4 Upgrades 3</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryUpgrade13.png" align="middle"> Mercenary Upgrade 13</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade13.png" align="middle"> Mercenary Upgrade 13</b></p>
 <p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
 <p><b>Cost</b>: 7500 FC</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryUpgrade14.png" align="middle"> Mercenary Upgrade 14</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade14.png" align="middle"> Mercenary Upgrade 14</b></p>
 <p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
 <p><b>Cost</b>: 16500 FC</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryUpgrade15.png" align="middle"> Mercenary Upgrade 15</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade15.png" align="middle"> Mercenary Upgrade 15</b></p>
 <p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
 <p><b>Cost</b>: 24000 FC</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryUpgrade16.png" align="middle"> Mercenary Upgrade 16</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade16.png" align="middle"> Mercenary Upgrade 16</b></p>
 <p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
 <p><b>Cost</b>: 33000 FC</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/ObsidianCrown.png" align="middle"> Obsidian Crown</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ObsidianCrown.png" align="middle"> Obsidian Crown</b></p>
 <p><b>Requirements</b>: R170+, Aligned with Mercs, 10 excavation resets (This game)</p>
 <p><b>Chance</b>: ((x - 10) / 1000)%, x is the number of free and ruby excavation resets (This game)</p>
 <p><b>Effect</b>: Unlocks Mercenary Union Contract</p>
 <br/>
-<p><b><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryUnionContract.png" align="middle"> Mercenary Union Contract</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUnionContract.png" align="middle"> Mercenary Union Contract</b></p>
 <p><b>Requirements</b>: Obsidian Crown</p>
 <p>You can purchase one Union Power from any faction, provided you meet the requisites. You will not be able to change it during the current run.</p>
 <p><b>Cost</b>: Free</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenarySet.png" align="middle"><b> Mercenary Set</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySet.png" align="middle"><b> Mercenary Set</b></p>
 <p><b>Requirement</b>: A3+ (R160+),</p>
 <p><b>Artifacts Required</b>: Steel Plate, Black Sword, Mercenary Insignia</p>
 <p><b>Cost</b>: Free</p>
@@ -302,7 +302,7 @@
 <p><b>Requirement</b>: Play as Mercenaries, +100 Merc affiliations (All-time)</p>
 <p><b>Chance</b>: (All-time Mercenary playtime / 16h 40m)%</p>
 <br/>
-<p><img src="http://musicfamily.org/admincontrols/Factions/picks/MercenaryInsigniaArtifact.png" align="middle"><b> Mercenary Insignia</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryInsigniaArtifact.png" align="middle"><b> Mercenary Insignia</b></p>
 <p><b>Clue</b>: Gem rhabdomancy seems to work best.</p>
 <p><b>Description</b>: The infamous metal cross of the Mercenaries. You should be both proud and afraid to carry one.</p>
 <p><b>Requirement</b>: R160+, Play as Mercenary, 2000+ Excavations</p>
