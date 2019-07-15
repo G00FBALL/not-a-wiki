@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
-<p><b>3.6 June ?, 2019</b></p>
+<p><b>3.6 June 15, 2019</b></p>
 <p>Added Ascension 3 (R160)</p>
 <p>Emerald Coins change to Amethyst Coins in A3</p>
 <p><b>Gem Formula to R</b>: (1e27 * 100 ^ (R - 160))</p>
