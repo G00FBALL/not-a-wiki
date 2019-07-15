@@ -5,7 +5,109 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.5, April 15, 2019</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6, July 15, 2019, Elite Challenges, A3</a></b></p>
+      <div class="autohide">
+<p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Jul 22nd 2019, 12.01 PM UTC and will end on Jul 26th 2019, 6.59 PM UTC.</p>
+<p><b>ADDED MAD CHALLENGES</b>, starting from Reincarnation 135. Five new challenges, plus a spell upgrade, will be available for each of the new Elite factions.</p>
+<p><b>ASCENSION 3 BEGINS IN THIS UPDATE</b>, starting with Mercenaries, which will be as strong as you have ever seen. You will now collect Amethyst Coins. New gem and reincarnation formulas, Lineages will be capped at L50.</p>
+<p><b>NEW SPELL RESET FUNCTION</b> to allow smarter control of Realm Grinder spellcasting - this will be available way earlier than endgame.</p>
+<p><b>ADDED NEW BUY10K AND BUY SMART OPTIONS</b>, allowing you to purchase Buildings, Excavations and Royal Exchanges up to a round value.</p>
+<p>LOTS OF UPGRADES AND TROPHIES have been changed throughout all stages of the game, changing and shifting balance of powers and allowing player to create new strategies.</p>
+<p>Chrono Loading now uses seconds rather than ticks for its formula, base reduced.</p>
+<p>Archon 6 (Absent-Mindedness) now has a headstart of 30.</p>
+<p>Dragon 9 (Chromatic Scales) and Dragon Challenge spell upgrade (Prismatic Breath) are now correctly affected by Dragon Perk 4.</p>
+<p>Infinite Spiral now has a headstart of 10.
+<p>Most "Researcher" and all "Challenger" upgrades no longer suffer from Ascension penalties.</p>
+<p>Mercenaries can now buy Dragon upgrades only with the fourth tier of their contract-based upgrades. Cost has been increased.</p>
+<p>Alchemy 400 (Bloodspring) can no longer provide MAD bloodlines before R130.</p>
+<p>Spellcraft 200 (Cryomancy) reworked: it's now based on mana produced in this game.</p>
+<p>Druid challenge 2 reworked: it's now based on all buildings owned.</p>
+<p>Druid challenge 3 reworked: it's now based on all buildings owned.</p>
+<p>Faceless challenge 2 reworked: it's now based on all buildings owned.</p>
+<p>Dragon Challenge 2 now affects Non-Unique buildings. Spell tier cost reduction is now based on Grand * Balance activity time in this Reincarnation. No longer suffers from Ascension penalties.</p>
+<p>Bloodline coming from Alchemy 2950 (Combination) is now taken into account by R60 power.</p>
+<p>Freemason's Hall now has a headstart of 20. Base increased.</p>
+<p>Maelstrom and Catalyst no longer lose their targets when reloading.</p>
+<p>Flesh Workshop base and scaling reduced.</p>
+<p>Holy Sites base and scaling increased.</p>
+<p>Swarming Tower base and scaling increased.</p>
+<p>No Recruiting no longer suffers from Ascension penalties.</p>
+<p>Fixed a bug that caused assistants not to produce anything under certain circumstances.</p>
+<p>Eligible artifacts now show their excavation chance in their tooltip.</p>
+<p>All MAD contracts and Heritages cost reduced.</p>
+<p>All Advanced Heritages cost reduced..</p>
+<p>Archon Bloodline growth reduced by half.</p>
+<p>Warfare 1375 (Scavenging) base decreased, scaling increased.</p>
+<p>Warfare 275 (Domination) base increased, scaling decreased.</p>
+<p>Multiplicative Faction Coin Chance has been reduced from Warfare 1375 (Scavenging), Craftsmanship 400 (Gravitation), Alchemy 3400 (Chemistry).</p>
+<p>Archon Mask bonus reduced.</p>
+<p>Djinn Mask bonus reduced.</p>
+<p>Makers Mask now also adds assistants.</p>
+<p>Excavated Mirage bonus reduced.</p>
+<p>Goblin Invasion Support 1 (Elite Goblins) changed to be based on Evil spells cast in this Reincarnation.</p>
+<p>Chocolate Egg effect increased to 100% and now also clicks once per second.</p>
+<p>Advanced Elven Heritage base increased, scaling decreased.</p>
+<p>Advanced Druid Heritage base increased, scaling decreased.
+<p>Vanilla Flavor Juice and Chocolate Flavor Smoothie effect reduced.</p>
+<p>Chrono Loading mana requirements reduced.</p>
+<p>Faceless Lineage base effect reworked to provide spell duration.</p>
+<p>Archon Bloodline growth reduced by half.</p>
+<p>Titan Lineage now increases Royal Exchange bonus by an additional 200% per level. No longer increases count.</p>
+<p>Goblin Perk 5 now gives actual Faction Coin find chance rather than making it count more.</p>
+<p>All A2 faction artifacts now have a requirement of 2000 Excavations, down from 3000.</p>
+<p>Raw Emerald is now easier to excavate.</p>
+<p>Angel 11 (Angelic Fortitude) reworked to provide Faction Coin find chance. Base increased.</p>
+<p>Angel 12 (Seraphim Wings) now also increases Maximum Mana, bonus increased to 200%.</p>
+<p>Angel Union now provides Mana Regeneration based on mana produced in this game instead of its previous effect.</p>
+<p>Ascension 2 Spell Tier 2s cost reduced.</p>
+<p>Share Benefits now produces TC casts per second based on your Maximum Mana.</p>
+<p>Appraisal Vantage base is now based on the amount of assistants you own, scaling decreased.</p>
+<p>Gem Grinder formula changed to depend on Reincarnations and Ascensions.
+<p>Drow Challenge 4 (Trained Assassins) is now log-based, with a much higher base and much lower scaling.</p>
+<p>Economics 1425 (Rarity) base and scaling decreased.</p>
+<p>Reap Interests base increased, scaling decreased.</p>
+<p>Tyrant Garrison base increased.</p>
+<p>Drow 9 (Blade Dance) is now an independent upgrade based on Combo Strike casts.</p>
+<p>Veteran Figurine now grants only your alignment challenge effects.</p>
+<p>Stonecarving (MK7) now has a headstart of 30.</p>
+<p>Spellcraft 330 (Reverberation) now has a cap of 500 for active spells.</p>
+<p>Precognition base and scaling decreased.</p>
+<p>Spellcraft 2875 (Scholarship) is now available for Good alignment only. Base and scaling increased.</p>
+<p>Craftsmanship 3000 (Customizing) is now available for Neutral alignment only. Base and scaling increased.</p>
+<p>Warfare 3050 (Flanking) is now available for Evil alignment only. Base and scaling increased.</p>
+<p>Divine 2775 (Intervention) base increased.</p>
+<p>AR10 (Purity of Form) now also increases Precognition values (above previous stats - this is an improvement for Archons only).</p>
+<p>Dragon Challenge 1 tooltip states that it removes 1 ascension penalty. No longer increases the scaling of the upgrades, but increases their base.</p>
+<p>Druid Challenge 4 now increases Non-Unique buildings production based on the duration of your longest spell instead of its previous effect. Ascension penalties removed.</p>
+<p>Fairy Perk 4 changed to provide temporary assistants based on Fairy Chanting duration.</p>
+<p>Druid Perk 4 spell duration base and scaling increased.</p>
+<p>Goblin Perk 1 base increased, scaling decreased.</p>
+<p>Primal Balance now also increases Grand Balance targets production based on the amount of targets exceeding 10.</p>
+<p>Titan Lineage base now increases Royal Exchange bonus by 200% per level. No longer increases count.</p>
+<p>Titan Perk 1 effect merged into Djinn Perk 1. New Titan Perk 1 removes 1 Ascension penalty from Titan Bloodline.</p>
+<p>Titan Perk 3 now increases the base production of tier 4 and tier 7 buildings based on Unique Buildings owned.</p>
+<p>Everything that was unlocked at Lineage level 50 is now unlocked at level 45.</p>
+<p>Spellcraft 200 (Cryomancy) reworked to provide spell duration.</p>
+<p>Alchemy 270 (Synthesis) reworked to provide spell duration.</p>
+<p>Warfare 1275 (Authority) reworked to provide spell duration based on the amount of Non-Unique buildings you own.</p>
+<p>Dragon Set reworked to provide spell duration.</p>
+<p>Divine 205 (Communion) effect increased.</p>
+<p>Added Elven Luck stats to the stats panel.</p>
+<p>The initial costs for Trade Treaties with Neutral factions have been halved.</p>
+<p>Combo Strike now has a fixed duration of 16 seconds. Cannot be changed.</p>
+<p>Tiered Autocast cost lowered.</p>
+<p>"Know Your Enemy II" requirements lowered to Reincarnation 75. Now requires a mercenary Unique Building.</p>
+<p>Prismatic Breath bonus reduced to 50%.</p>
+<p>Production bonus provided by Research Facilities has been reduced.</p>
+<p>Ancestral Hourglass now reduces Lineage cost multiplier based on Reincarnations made.</p>
+<p>Lineage base cost multiplier reduced to 8, down from 15. Now increases by 1 additional step every 30 levels.</p>
+<p>Challenges can no longer be toggled on and off. Instead, the Challenge Power upgrade activates their power when you buy it from the Upgrades panel.</p>
+<p>Gem Power, Ruby Power, Reincarnation Power, Challenge Power and Unique Building upgrades can be excluded from the BuyAll button by disabling the "Buy All Upgrades" option in the Options menu.</p>
+<p>Autoclicks no longer count against manual click cap.</p>
+</div>
+  </div>
+  <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.5, April 15, 2019, Elite UB and Bloodlines</a></b></p>
       <div class="autohide">
 <p>Global Reminder: The Easter Event will be starting on Apr 18th 2019, 12.01 PM UTC and will end on Apr 25th 2019, 6.59 PM UTC.</p>
 <p>MAD UNIQUE BUILDINGS. Each of the new MAD Factions now has its own Unique Building, unlockable from Reincarnation 130.</p>
@@ -139,14 +241,14 @@
 </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.4, Feb 4, 2019</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.4, Feb 4, 2019, Valentine Event</a></b></p>
       <div class="autohide">
 <p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 11th 2019, 1.01 PM UTC and will end on Feb 15th 2019, 7.59 PM UTC.</p>
 <p>Added a new Valentine feat and upgrade.</p>
 </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.3, Dec 19, 2018</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.3, Dec 19, 2018, Christmas Event</a></b></p>
       <div class="autohide">
 <p>Fixed an issue with Royal Exchange checks for all factions, resulting in Elven Challenge 3 being non-unlockable</p>
 <p>Added a new Christmas feat and cosmetic option.</p>
@@ -196,7 +298,7 @@
       </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.0, Nov 27, 2018 NEW FACTIONS</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.4.0, Nov 27, 2018 Elite Factions</a></b></p>
       <div class="autohide">
               <p><b>THREE NEW FACTIONS</b>! New alignment factions will be able to stack upon a base and prestige factions, for a total of three affiliations simultaneously. All new factions will start with Union upgrades and a new faction spell, and will be available at Reincarnation 125+ after completing their Entry Quest.</p>
               <p><b>NEW ARTIFACTS AND TROPHIES</b>, some of which will also grant new upgrades. A lot of generic trophies have a new tier as well!</p>
@@ -255,14 +357,14 @@
       </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.2, NOV 11, 2018</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.2, November 11, 2018, Halloween Event</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 29th 2018, 1.01 PM UTC and will end on Nov 5th, 7.59 PM UTC.</p>
               <p><b>Added</b>: New Halloween feat and cosmetic option.</p>
       </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.1, AUG 20, 2018</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.1, August 20, 2018, Summer Event</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Summer Event will be starting on Aug 23rd 2018, 12.01 PM UTC and will end on Aug 30th 2018, 6.59 PM UTC.</p>
               <p><b>Fixed</b>: Dragon Union targeting formula.</p>
@@ -273,7 +375,7 @@
       </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.0, Jul 30, 2018 ADVANCED HERITAGES</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.3.0, Jul 30, 2018, Advanced Heritages</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Aug 3rd 2018, 12.01 PM UTC and will end on Aug 7th 2018, 6.59 PM UTC.</p>
               <p><b>NEW BUILDING UPGRADES</b>: For all buildings.</p>
@@ -318,7 +420,7 @@
       </div>
   </div>
   <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.2.0 A2 Prestige, May 16, 2018</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.2.0 May 16, 2018, A2 Prestige</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Blood War Event will be starting on May 18th 2018, 12.01 PM UTC and will end on May 22nd 2018, 6.59 PM UTC.
               <p><b>PRESTIGE FACTIONS</b> added to Ascension 2 content.
@@ -345,7 +447,7 @@
       </div>
   </div>
     <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1.1 March 25th, 2018</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1.1, March 25, 2018, Easter Event</a></b></p>
       <div class="autohide">
               <p><b>Global Reminder</b>: The Easter Event will be starting on Mar 30th 2018, 12.01 PM UTC and will end on Apr 6th 2018, 6.59 PM UTC.</p>
               <p><b>Note 1</b>: Due to the latest change in assistant handling, Titan Challenge 1 and similar effects were suffering from rounding errors. This should have been fixed.</p>
@@ -359,7 +461,7 @@
       </div>
   </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1 February 5th, 2018</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.1 February 5th, 2018, Union Upgrades and Faction Sets</a></b></p>
         <div class="autohide">
                 <p><b>NEW FACTION UNION UPGRADES</b>: Two tiers per faction added to the existing series.</p>
                 <p><b>NEW LINEAGE PERKS</b>: at level 30, for Ascension 2 and higher.</p>
@@ -378,7 +480,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.3 December 12th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.3, December 12, 2017, Christmas Event</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2017, 1.01 PM UTC and will end on Jan 4th 2018, 7.59 PM UTC.</p>
                 <p><b>New Christmas Event upgrades</b>: Heavy and Grand Avalanche will increase Avalanche bonus for higher Ascensions.</p>
@@ -387,7 +489,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.2 November 24th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.2, November 24, 2017, Ruby Shine Evaent</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Ruby Shine event will be starting on Nov 27th 2017, 1.01 PM UTC and will end on Nov 30th 2017, 5.59 PM UTC.</p>
                 <p>Factions Coins from Scry are now based on Faction Coin find chance and assistants instead of production.</p>
@@ -403,7 +505,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.1 October 25th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.1, October 25, 2017, HalloweenEvent</a></b></p>
         <div class="autohide">
                 <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 30th 2017, 1:01 PM UTC time and will end on November 6th, 2017 at 7:59PM.</p>
                 <p>Spell durations are now formatted better.</p>
@@ -420,7 +522,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">ASCENSION 2 [v3.0.0] October 11th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.0.0 October 11th, 2017, Ascension 2</a></b></p>
         <div class="autohide">
                 <p><strong>Ascension 2</strong> will become available at Reincarnation 99 or higher. Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase.</p>
                 <p><em>When performing Ascension 2, all Lineages will be set back to level 25 if higher.</em></p>
@@ -549,7 +651,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.5 August 8th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.5, August 8, 2017, Summer Event</a></b></p>
         <div class="autohide">
             <p><b>Global Reminder</b>: The Summer Event will be starting on Aug 16th 2017, 12.00 PM UTC and will end on Aug 23rd 2017, 7.00 PM UTC.</p>
             <p>Fixed an issue with Dragon's Breath repeating its effects.</p>
@@ -557,13 +659,13 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.4 July 19th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.4, July 19, 2017, Small Patch/Fixes</a></b></p>
         <div class="autohide">
             <p>Spells are now turned off at loading, fixed an issue with a Goblin Invasion event upgrade.</p>
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.3 July 17th, 2017</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.3, July 17, 2017, Goblin Invasion Event</a></b></p>
         <div class="autohide">
             <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Jul 21st 2017, 12.01 PM UTC and will end on JUL 25th 2017, 6.59 PM UTC.
             <p>Drow's Shadow Advance is now included in the Offline Production tooltip and applies twice multiplicatively when offline (results in a much higher bonus while offline).
@@ -571,7 +673,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.2 Full Patch Notes</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.2, June 4th, 2017, Small Patch/Fixes</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.7.2</b> June 4th, 2017
             <p>Multiple Dragon upgrades can no longer be purchased as Mercenaries.
@@ -584,7 +686,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.1.0 Full Patch Notes</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.1.0, May 30, 2017, Ascension 2 Mercenaries</a></b></p>
         <div class="autohide">
             <p><b>SECRETS OF THE WARRIORS</b>: [May 30, 2017]
             <p><b>Global Reminder</b>: Global Reminder: The Blood War Event will be starting on June 2nd 2017, 12.01 PM UTC and will end on June 6th 2017, 6.59 PM UTC.
@@ -639,7 +741,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.6.2</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.6.2, April 6, 2017, Easter Event</a></b></p>
         <div class="autohide">
             <p><b>Global Reminder</b>: The Easter Event will be starting on Apr 12th 2017, 12.00 PM UTC and will end on Apr 19th 2017, 7.00 PM UTC.
             <p><b>NEW TROPHIES</b>: added an element to most regular trophy series and one new Secret Trophy!
@@ -656,7 +758,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">LINEAGES [v2.6.0.0 Full Patch Notes]</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.6., March 10, 2017, Lineages</a></b></p>
         <div class="autohide">
             <p><b>LINEAGES [v2.6.0.0 Full Patch Notes] [March 10, 2017]</b>
             <p><b>NEW MECHANIC</b>: FACTION LINEAGES. Starting at Reincarnation 60, you will be able to choose a Faction Lineage. You will be able to upgrade your Lineage by spending massive amount of Faction Coins, gaining progressively higher bonuses and unlocking new perks at specific thresholds, including more spells taken from the Faction Spells pool. In order to purchase a Lineage, you will need to have 400 Exchanges and a Bloodline of a specific faction. You cannot use the same Lineage as your faction.
@@ -678,7 +780,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.5.6</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.5.6, February 11, 2017, Mobile Released</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.5.6 Feb 11th, 2017</b>
             <p><b>Global Announcement</b>: Realm Grinder Mobile has been officially released worldwide. Look for it on Google Play Store and Apple App Store! Added translations to the game for the following languages: Spanish, German, French and Brazilian Portuguese. Language will be auto-detected, and you will be able to change it from the new Language button in the options panel.
@@ -695,7 +797,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.5.0 Neutral Prestige Challenges</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.5.0, December 19, 2016, Neutral Prestige Challenges</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.5.0 Dec 19th, 2016</b>
             <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2016 1:01PM UTC and will end on Jan 4th 2017 7:59PM UTC.
@@ -718,7 +820,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.4.0 Thanksgiving</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.4.0, November 24, 2016, Thanksgiving Event</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.4.0 Nov 24, 2016</b>
             <p>Global Reminder: The Thanksgiving & Black Friday Sale event will be starting on Nov 24th 2016, 1.01 PM UTC and will end on Nov 26th 2016, 7.59 PM UTC.
@@ -729,7 +831,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3.2 Updates</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3.2, October 2016, Small Patch/Fixes</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.3.2 Oct, 2016</b>
             <p>Added graphics for Neutral Prestige buildings.
@@ -741,7 +843,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3.1 Halloween</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3.1, October 26, 2016, Halloween Event</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.3.1 Oct.26th 2016</b>
             <p><b>Global Reminder</b>: The Halloween event will be starting on Oct 28th 2016, 12.01 PM UTC and will end on Nov 04th 2016, 7.59 PM UTC.
@@ -754,7 +856,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">ANCIENT ETERNALS [v2.3.0.0]</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.3, October 21, 2016, Dragon Faction</a></b></p>
         <div class="autohide">
             <p><b>FULL PATCH NOTES</b>: Oct 21, 2016
             <p><b>Starting from Reincarnation 46</b>, you will finally be able to start the questline for the new Neutral Prestige faction! Keep your excavations ready, as the quest starts with an ancient and mysterious artifact...
@@ -795,7 +897,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Summer Festival [v2.2]</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.2, August 29, 2016, Summer Festival Event</a></b></p>
         <div class="autohide">
             <p><b>Patch 2.2 - Aug 29, 2016</b>
             <p><b>Global Reminder</b>:
@@ -807,7 +909,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.1 Spell Tiers</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.1, Jul 2, 2016, Spell Tiers</a></b></p>
         <div class="autohide">
             <p><b>2.1.0 - Jul 2, 2016</b>
             <p><b>NEW SPELL SYSTEM</b>: starting from Reincarnation 42 (post-ascension), you can unlock upgrades which will allow you to cast a single spell up to 5 times simultaneously, also multiplying their effects, for increased mana costs. To unlock them, you must have enough Activity Time with each respective spell. In addition, each spell tier upgrade will also increase offline production based on mana statistics.
@@ -829,7 +931,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.0 Realm Grinder Graphic Overhaul</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.0, June 30, 2016 Graphic Overhaul</a></b></p>
         <div class="autohide">
             <p><b>2.0.9.1 - 2.0.12</b>
             <p><b>Jun 30, 2016 - Graphics Notes</b>
@@ -923,7 +1025,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.6 Secrets Of the Underworld</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.6+, June 30, 2016, Secrets Of the Underworld</a></b></p>
         <div class="autohide">
             <p><b>New in v1.6.55</b>
             <p>1.6.55 On June 30TH 2016 Realm Grinder will launch a major upfate which will change all the user interface and graphics.
@@ -1018,7 +1120,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.5 Secrets Of The Ancients</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.5+, February 11, 2016, Secrets Of The Ancients</a></b></p>
         <div class="autohide">
             <p><b>1.5.47.2</b> - Feb 11 2016
             <p><b>Global Reminder</b>: the Valentine's Day Event is starting on Feb 12th 2016, 1.01 PM UTC and will end on Feb 16th 2016, 12.59 PM UTC!
@@ -1117,7 +1219,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.4 Secrets Of The Realm</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.4+, November 21, 2015, Secrets Of The Realm</a></b></p>
         <div class="autohide">
             <p><b>1.4.41</b> - Nov 21, 2015
             <p>Added a timer for Green Fingers Discount.
@@ -1196,7 +1298,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.3 Afterlife</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.3+, October 5, 2015 Afterlife</a></b></p>
         <div class="autohide">
             <p><b>1.3.36</b> - Oct 5, 2015
             <p>Fairy's Kind Hearts improved: now increases maximum mana by 1 each 12 buildings, up from 1 each 15.
@@ -1333,7 +1435,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2 The Underworld</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2+, August 5th, 2015, The Underworld</a></b></p>
         <div class="autohide">
             <p><b>1.2.29</b> - Aug 5th, 2015
             <p>Elves upgrades and spell Elves upgrades and spell rebalanced: Secret Clicking Techniques and Moon Blessing now use a new formula to calculate bonuses from total clicks. Mouse clicks should feel much more rewarding and will provide a much higher bonus up to ~300,000 clicks, afterwards huge diminishing returns will kick in.
@@ -1425,7 +1527,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1 The Ancient Races</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1+, July 10th, 2015 The Ancient Races</a></b></p>
         <div class="autohide">
             <p><b>1.1.23</b> - Jul 10th, 2015
             <p>Titans' Heavy Coins upgrade now gives +40% bonus to Royal Exchanges, up from +10%; Titan Heritage now gives +15% bonus to Royal Exchanges, up from +5%; Charged Structures now gives a +150% bonus, up from +100%; Cyclopean Strength now gives +0.3% bonus, up from 0.25%.
@@ -1523,7 +1625,7 @@
         </div>
     </div>
     <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0 Realm Grinder</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0+, June 3rd, 2015 Realm Grinder</a></b></p>
         <div class="autohide">
             <p><b>1.0.13</b> - Jun 3rd, 2015
             <p>ADDED an option for displaying numbers in scientific notation.

@@ -10,7 +10,7 @@
 <p><b>Gem Formula to R</b>: (1e27 * 100 ^ (R - 160))</p>
 <p><b>Gem</b>: ((1e12 * (G * (G + 1))) / 2) * </p>
 <br/>
-<p><b>All Lineages above L50 will be lowerded to L50 in A3</b></p>
+<p><b>All Lineages above L50 will be lowered to L50 in A3</b></p>
 <br/>
 <p><b>Added R120 Power</b></p>
 <p><b>Effect</b>: Increases the production of all buildings based on Reincarnations made when not affiliated with Mercenaries or Elite factions.</p>
