@@ -17,10 +17,46 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Abdication.png" alt="Abdication" align="middle"></h6>
 <p>Abdicating is the first kind of soft reset in Realm Grinder. It allows you to cash in all the gems you have earned in order to boost your production.</p>
 <p>Abdicating will reset all buildings, upgrades and coins, but you will keep your trophies and be awarded with gems that will boost your production. Otherwise, you may also spend Rubies to gain Gems without resetting!</p>
-<p><b> Gems to Coins Formula</b>: A1: n * (n + 1) * 5E11(5E3 in A2), where n is gems</p>
-<p><b> Gems to Coins Formula</b>: A2+: n * (n + 1) * (5E3), where n is gems</p>
-<p><b> Coins to Gems Formula</b>: A1: floor(n ^ 0.5 / (5e11) ^ 0.5), where n is coins</p>
-<p><b> Coins to Gems Formula</b>: A2+: floor(n ^ 0.5 / (5e3) ^ 0.5), where n is coins</p>
+<p><b> Gems to Coins Formula</b>: n * (n + 1) * 5e11(5e3 in A2), where n is gems</p>
+<p><b> Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e11(5e3 in A2) ^ 0.5), where n is coins</p>
+<div id="GemCoinCostCalculator" class="calc">
+  <table>
+    <tr>
+      <th style="width:20%; height:12px" >Ascension</th>
+      <th style="width:20%; height:12px" >Gem Input</th>
+      <th style="width:20%; height:12px" >Coin Output</th>
+      <th style="width:20%; height:12px" >Coin Input</th>
+      <th style="width:20%; height:12px" >Gem Output</th>
+    </tr>
+    <tr>
+      <td ><input id="Ascension" type="number" min="0" max="3" value="0"></td>
+      <td > <input id="GemIn" type="text" value="0"></td>
+      <td id = "CoinOut"></td>
+      <td ><input id="CoinIn" type="text" value="0"></td>
+      <td id = "GemOut"></td>
+    </tr>
+  </table>
+  <script>
+    function getGemForm(ascension) {
+      return ascension == 2?5e3:5e11;
+    }
+    function gemToCoin(mul) {
+      var input = Number($('#GemIn').val());
+      return input * (input + 1) * mul;
+    }
+    function coinToGem(mul) {
+      var input = Number($('#CoinIn').val());
+      return Math.floor(Math.sqrt(input) / Math.sqrt(mul));
+    }
+    function calValues() {
+      var mul = getGemForm($('#Ascension').val());
+      $('#CoinOut').text(gemToCoin(mul).toPrecision(4));
+      $('#GemOut').text(coinToGem(mul).toPrecision(4));
+    }
+    calValues();
+    $('#Ascension, #GemIn, #CoinIn').on('input', calValues);
+  </script>
+</div>
 <p><b><a target="" href="http://musicfamily.org/realm/Abdication/">More about Abdication</b></a></p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Reincarnate.png" alt="Reincarnate" align="middle"></h6>

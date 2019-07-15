@@ -49,24 +49,21 @@
             </div>
         </div>
     </div>
-<p><b>Calculator is not updated with the 3.6 patch</b></p>
-    <div id="ReiCosCal" class="calculator">
+    <div id="LineageCalculator" class="calc">
         <table>
             <tr>
                 <th style="width : 72px"> Lineage level
                 <th style="width : 75px"> Heirloom Active
                 <th style="width : 75px"> Hourglass Active
                 <th class="HourglassRelated"> Reincarnation
-                <th style="width: 90px" class="HourglassRelated"> Time Passed (Hours)
                 <th> Cost for next Lineage level
             </tr>
             <tr>
                 <td ><input id="LineageLevel" type="number" min="0" max="100" value="0"></td>
                 <td ><input id="Heirloom" type="checkbox"></td>
                 <td ><input id="Hourglass" type="checkbox"></td>
-                <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="159" value="100"></td>
-                <td class="HourglassRelated"><input id="HourglassT" type="number" min="0" value="0"></td>
-                <td id = "LineageNextLevel">
+                <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="220" value="100"></td>
+                <td id = "LineageNextLevel"></td>
             </tr>
         </table>
         <script>
@@ -76,31 +73,34 @@
                 $('.HourglassRelated').css('display', 'table-cell');
               }
             }
-            function HourglassCalc(lineageLevel) {
-              if(!$('#Hourglass').is(':checked')) {
-                return 0;
+            function LineageExponent(lineageLevel) {
+              var costExponent = 0;
+              var counter = 1;
+              var diff;
+              while(lineageLevel > 0) {
+                diff = Math.min(30,lineageLevel);
+                lineageLevel -= diff;
+                costExponent += counter * diff;
+                counter++;
               }
-              var time = parseInt($('#HourglassT').val());
-              var reincarnation = parseInt($('#HourglassR').val());
-              var redexp = Math.max(0.01,0.9-0.01*(((Math.max(1,lineageLevel-20))**1.4) - reincarnation/4));
-              var reduction = (0.1*Math.floor(time**redexp));
-              return reduction;
+              return costExponent;
             }
             function calcCost() {
-              var lin = parseInt($('#LineageLevel').val());
+              var lin = LineageExponent(parseInt($('#LineageLevel').val()));
               var heirloom = $('#Heirloom').is(':checked');
-              lin = 25 * 10 ** (15 + lin - HourglassCalc(lin));
+              var hourglass = $('#Hourglass').is(':checked')?0.01 * parseInt($('#HourglassR').val()):0;
+              lin = 25 * 10 ** (8 + lin - hourglass);
               lin = lin**(1 - 0.1 * heirloom);
               return lin;
             }
             function calcNextLineageCost() {
               ShowAndHide();
               var cost = calcCost();
-              cost = Math.floor(cost).toPrecision(4);
+              cost = Math.floor(cost).toPrecision(4).replace(/0+e/,"e");
               $('#LineageNextLevel').text(cost);
             }
             calcNextLineageCost();
-            $('#LineageLevel, #HourglassR, #HourglassT').on('input', calcNextLineageCost);
+            $('#LineageLevel, #HourglassR').on('input', calcNextLineageCost);
             $('#Heirloom, #Hourglass').on('change', calcNextLineageCost);
         </script>
     </div>
