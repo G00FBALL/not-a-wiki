@@ -179,7 +179,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Assistants count 300% more.</p>
     <hr>
     <H6>Elven</h6>
@@ -219,7 +219,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk5.png" align="middle"> Elven Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Faction Coins count 1000% more.</p>
     <hr>
     <H6>Angel</h6>
@@ -259,7 +259,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk5.png" align="middle"> Angel Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Spells cast count 1000% more.</p>
     <hr>
     <H6>Goblin</h6>
@@ -300,7 +300,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk5.png" align="middle"> Goblin Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Increase Faction Coin Find Chance by 1000%.</p>
     <hr>
     <H6>Undead</h6>
@@ -339,7 +339,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk5.png" align="middle"> Undead Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Reincarnation Power Counts Reincarnations as 100% more.</p>
     <hr>
     <H6>Demon</h6>
@@ -379,7 +379,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk5.png" align="middle"> Demon Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Trophies count 1000% more.</p>
     <hr>
     <H6>Titan</h6>
@@ -418,7 +418,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk5.png" align="middle"> Titan Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Royal Exchanges count 500% more.</p>
     <p><b>Effect</b>: Removes 1 Ascension penalty from Royal Exchanges.</p>
     <hr>
@@ -464,13 +464,14 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk5.png" align="middle"> Druid Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Mana produced counts 1000% more.</p>
     <hr>
     <H6>Faceless</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessLineage.png" align="middle"><b> Faceless Lineage</b></p>
     <p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.</p>
-    <p><b>Effect</b>: Increase Max Mana by 1.5% per level.</p>
+    <p><b>Effect</b>: Increase the duration of all spells based on lineage level</p>
+    <p><b>Formula</b>: (x ^ 2.25)%, where x is lineage level.
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk1.png" align="middle"><b> Faceless Perk 1</b></p>
@@ -503,7 +504,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk5.png" align="middle"> Faceless Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Time passed counts 100% more.</p>
     <hr>
     <H6>Dwarf</h6>
@@ -545,7 +546,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarf Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Buildings count 100% more.</p>
     <hr>
     <H6>Drow</h6>
@@ -587,7 +588,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk5.png" align="middle"> Drow Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Maximum Mana counts 300% more.</p>
     <p><b>Effect</b>: Removes 1 Ascension penalty from Call to Arms</p>
     <hr>
@@ -626,7 +627,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk5.png" align="middle"> Dragon Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Lineage levels count 100% more.</p>
     <hr>
     <p><b>Elite Lineages - R130+</b></p>
@@ -666,7 +667,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk5.png" align="middle"> Archon Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Unique Buildings count 100% more.</p>
     <hr>
     <H6>Djinn</h6>
@@ -704,7 +705,7 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk5.png" align="middle"> Djinn Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Mana regeneration counts 200% more.</p>
     <hr>
     <H6>Makers</h6>
@@ -741,6 +742,6 @@
     <br/>
     <p><b>Level 50</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk5.png" align="middle"> Makers Perk 5</p></b>
-    <p><b>Requirements</b>: Reach Lineage Level 45.</p>
+    <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Excavations count 200% more.</p>
         <?php include "../scripts/footer.html"; ?>
