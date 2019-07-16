@@ -20,7 +20,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
 <p>As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!</p>
 <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, 139 Reincarnations, Djinn Bloodline active, Completion of Djinn Challenge 1.</p>
-<p><b>Challenge</b>: Have at least 6e12 Mana Produced within 6 hours of a new game.</p>
+<p><b>Challenge</b>: Have at least 6 T (6e12) Mana Produced within 6 hours of a new game.</p>
 <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
 <p><b>Formula</b>: Multiplicative: (0.6 * x ^ 0.4), where x is Hellfire Blast casts (this game).</p>
 <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
@@ -31,7 +31,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
 <p>Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels.</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, 143 Reincarnations, 25,000 excavations, Faceless Set active, Completion of Djinn Challenge 2.</p>
-<p><b>Challenge</b>: Have at least 8e12 assistants within 5 minutes of a new game.</p>
+<p><b>Challenge</b>: Have at least 8 T (8e12) assistants within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Catalyst casts one additional spell.</p>
 <p><b>Effect</b>: Makes Limited Wish scale faster based on Research Points used in this game.</p>
 <p><b>Formula</b>: (y = ln(1 + sum of x))%, where x =  all selected researches' number (e.g. W275 = 275)</p>
