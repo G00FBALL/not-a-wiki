@@ -31,7 +31,7 @@
 <br/>
 <p><b>S180</b> - For <b>Fairy</b> - Research Name: <b>Incantation</b></p><p><b>Requirement</b>: Research Enchanting (S1) & Mysticism (S105)</b></p><p><b>Cost</b>: 3.273 UQig (3.273E156)</b></p><p><b>Effect</b>: Increase mana regeneration based on the number of assistants you own.</b></p><p><b>Formula</b>: floor(16 * x ^ 0.6) / 10, where x is the number of assistants you have.</p>
 <br/>
-<p><b>S200</b> - For <b>All Factions</b> - Research Name</b>: <b>Cryomancy</b></p><p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</b></p><p><b>Cost</b>: 82.65 DQig (8.265E160)</b></p><p><b>Effect</b>: Increase the production of all buildings based on your current mana (the less mana, the better bonus).</b></p><p><b>Formula</b>: round((100 - x) ^ 1.75)%, where x is percentage of max mana.</p>
+<p><b>S200</b> - For <b>All Factions</b> - Research Name</b>: <b>Cryomancy</b></p><p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</b></p><p><b>Cost</b>: 82.65 DQig (8.265E160)</b></p><p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).</b></p><p><b>Formula</b>: (2 * ln(x) ^ 1.75)%, where x is mana produced (this game).</p>
 <br/>
 <p><b>S215</b> - For <b>All Factions</b> - Research Name</b>: <b>Projection</b></p><p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) &amp; Incantation (S180)</b></p><p><b>Cost</b>: 36.16 TQig (3.616E163)</b></p><p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</b></p><p><b>Formula</b>: 100 * ((10 * x) ^ y), where x is active spells and y is ascension. (does not include Spiritual Surge)</p>
 <br/>
