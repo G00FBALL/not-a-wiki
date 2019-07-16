@@ -19,8 +19,6 @@
     <p>Reincarnation can only be performed for the first time when the user reaches 1 Oc Gems, and each subsequent reincarnation costs 1000 times more gems.</p>
     <p>Along the way, try to get all the Trophies and Artifacts you can get at each progress level.</p>
     <br/>
-
-    <p><b>Calculator is not updated with the 3.6 patch</b></p>
     <div id="ReiCosCal">
         <table style="width:98%">
             <tr>
