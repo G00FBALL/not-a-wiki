@@ -18,6 +18,13 @@
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
             <div class="autohide">
                 <p>The base costs for lineages are 25 Qa (2.5e16) Faction Coins and each level costs 10 times more. The Ancient Heirloom reduces the cost of lineages that aren't at the maximum level by raising them to the 0.9th power, making the cost multiplier 10^0.9 or 7.943 instead.</p>
+                <p><b>Lineage Cost Formula</b>: 25 * 10 ^ (8 + L + max(0 ; L-30) + max(0 ; L-60) + max(0 ; L-90))</p>
+                <p><b>Lineage Cost Formula Simplified</b>
+                <p>L1-30: 25 10 ^ (8 + L)</p>
+                <p>L31-60: 25 10 ^ (38 + 2 (L - 30))</p>
+                <p>L61-90: 25 10 ^ (98 + 3 (L - 60))</p>
+                <p>L91-120: 25 10 ^ (188 + 4 * (L - 90))</p>
+                <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
                 <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
                 <p><b>Chance</b>: Total Lineage levels/20</p>

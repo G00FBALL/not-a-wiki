@@ -457,7 +457,7 @@ div#images div{
 </div>
 <p><b>Old Coin Cost</b>: 123 Qaq (1.23e125) Emerald coins</p>
 <p><b>Old FC Cost</b>: 1 Oc (1e27)</p>
-<p><b>New Coin Cost</b>: 120 Notg (1.23e1e22) Emerald coins</p>
+<p><b>New Coin Cost</b>: 120 Notg (1.2e122) Emerald coins</p>
 <p><b>New FC Cost</b>: 1 Sp (1e24)</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ComboStrike.png" alt="Evil" align="middle"> Combo Strike</b></p>

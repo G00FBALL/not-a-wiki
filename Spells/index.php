@@ -963,7 +963,7 @@
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxTier2.png" alt="Temporal Flux" align="middle"> <b>Tier 2</b></p>
                 <p><b>Requirement</b>: Lantern of Guidance (Artifact)</p>
-                <p><b>Coin Cost</b>: 120 Notg (1.23e1e22) Emerald coins
+                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins
                 <p><b>FC Cost</b>: 1 Sp (1e24) Angel, Undead, Dwarven and Drow Coins.</p>
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b> (Proof of Chaos)</p>
@@ -980,7 +980,7 @@
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpellTier2.png" alt="Maelstrom" align="middle"> <b>Tier 2</b></p>
                 <p><b>Requirement</b>: Oil Lamp (Artifact)</p>
-                <p><b>Coin Cost</b>: 120 Notg (1.23e1e22) Emerald coins
+                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins
                 <p><b>FC Cost</b>: 1 Sp (1e24) Fairy, Demon, Dwarven and Drow Coins.</p>
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"> <b>All Creation</b> (Proof Of Balance) </p>
@@ -994,7 +994,7 @@
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpellTier2.png" alt="All Creation" align="middle"> <b>Tier 2</b></p>
                 <p><b>Requirement</b>: Spark of Life (Artifact)</p>
-                <p><b>Coin Cost</b>: 120 Notg (1.23e1e22) Emerald coins
+                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins
                 <p><b>FC Cost</b>: 1 Sp (1e24) Elven, Goblin, Dwarven and Drow Coins.</p>
        <hr>
     <p><b><center>Ascension 2</center></b></p>
