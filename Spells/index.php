@@ -302,7 +302,7 @@
                 <th>with D1375</th>
             </tr>
             <tr>
-                <td><input id="SSCalRei" type="number" min="14" max="159" value="14"></td>
+                <td><input id="SSCalRei" type="number" min="14" max="219" value="14"></td>
                 <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
                 <td class="SSCalDDLinHid"><input id="SSCalDDLin" type="number" min="0" value="0"></td>
                 <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
@@ -340,11 +340,11 @@
              * @param [tier]
              */
             function CalSSMul(rei, D1375 = false, tier = 1, druidLevel = 0, dp = false) {
-                var ascension = (rei >= 40) + (rei >= 100);
+                var ascension = (rei >= 40) + (rei >= 100) + (rei >= 160);
                 rei = rei + 2 * druidLevel;
-                rei = (dp) ? rei * 2 : rei;
-                var base = (2500 * rei ** 1.05) ** (1 + (1 + 0.5 * D1375) * ascension * 0.5);
-                base = (base/100 + 1)**((0.1 ** ascension)*Math.min(tier,6) + 0.2*Math.max(tier-6, 0));
+                rei = (dp) ? rei * 1.5 : rei;
+                var base = (2500 * rei ** 1.05) ** (1 + (D1375?1.5:1) * ascension * 0.5);
+                base = (base/100 + 1)**((0.1 ** ascension)*Math.min(tier,6) + 0.2*Math.max(0,tier-6) / (10**Math.max(0,ascension-2)));
                 return base;
             }
 
@@ -352,7 +352,11 @@
              * @return {string}
              */
             function MulToBon(mul) {
-                return Math.floor(100 * (mul - 1)).toPrecision(3);
+                var percent = Math.floor(100 * (mul - 1));
+                var length = percent.toString().length;
+                percent = length > 6?percent.toPrecision(4):percent.toPrecision(length).replace('.0','');
+                if (length > 3 && length <= 6) percent = percent.substring(0,length-3) + "," + percent.substring(length-3,length);
+                return percent;
             }
 
             function CalSS() {

@@ -26,7 +26,7 @@
             <tr>
                 <th>
                     Complete list of Reincarnation benefits:
-                    <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="160" value="0">
+                    <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="219" value="0">
                     <span id="R10"> with time(total) <input id="R10TimTot" style="max-width: 15%" type="number" min="0" max="876000" value="1"> in hours</span>
                     <span id="R20"> and <input id="R20SpeBui" style="max-width: 15%" type="number" min="0" max="9999999" value="1"> buildings of given type.</span>
                     <span id="R63"> Prismatic Breath active? <input id="R63PB" style="width: unset"  type="checkbox"></span>
@@ -53,6 +53,7 @@
                     <p id="R100ManRegPerR"></p>
                     <p id="R108ProdUBTimeDiff"></p>
                     <p id="R115FCChaMul"></p>
+                    <p id="R120NEMPro"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -152,6 +153,10 @@
                 [ 115, '#R115FCChaMul', false, 0
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction, Bloodline or Artifact Set.';}
+                ],
+                [ 120, '#R120NEMPro', true, 1
+                , function(rei) {return 100 * rei;}
+                , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%. Does not work when using Mercenaries or Elite factions.';}
                 ]
             ];
             function CalRBen() {
@@ -162,6 +167,9 @@
                 }
                 if (rei > 99){
                     var asc = 2;
+                }
+                if( rei > 159){
+                    var asc = 3;
                 }
                 // Boosted R num - Prismatic Breath (and stuff?)
                 var reiEff = rei;
@@ -213,8 +221,11 @@
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (24 + nextR * 3).toFixed(0) + '</b> gems.');
                 } else if (rei < 100){
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1.778e' + (nextR * 2 - 62).toFixed(0) + '</b> gems.');
-                } else {
+                } else if (rei < 160){
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((nextR-1) , (nextR - 101))).toExponential(4) + '</b> gems.');
+                }
+                  else{
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (1e27 * Math.pow(100 , (nextR - 161))).toPrecision(1) + '</b> gems.');
                 }
                 //Unlocks next R
                 switch (rei) {
@@ -280,6 +291,12 @@
                         break;
                     case 130:
                         Runl('Archon, Djinn, and Makers Bloodlines, Lineages and Unions');
+                        break;
+                    case 135:
+                        Runl('Archon, Djinn and Makers Challenges');
+                        break;
+                    case 160:
+                        Runl('Ascension 3');
                         break;
                     default:
                         $('#RUnl').css('display', 'none');
