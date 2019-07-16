@@ -516,7 +516,7 @@ div#images div{
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png align=middle><b> Second Crystal Fragment</b></p>
 <p><b>Old Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
-<p><b>New Chance</b>: 2 * (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
+<p><b>New Chance</b>: (log10(1 + x) ^ 3 / 250000 (2.5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b>Lineage Note</b>: Base cost scaling reduced to 8 from 15. Now increases base cost multiplier by 1 every 30 levels</p>
 <br/>
