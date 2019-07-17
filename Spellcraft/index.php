@@ -69,7 +69,7 @@
 <br/>
 <p><b>S1500</b> - For <b>Faceless,Dragon</b> - Research Name: <b>Psionics</b></p><p><b>Requirement</b>: 1000 Base Assistants, Research S545, E1325, as Faceless, Dragon</p><p><b>Cost</b>: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of assistants you own.<p><b>Formula</b>: (8.5 * x ^ 0.85)%, where x is assistants.</p>
 <br/>
-<p><b>S2875</b> - For <b>Mercenary</b> - Research Name: <b>Scholarship</b></p><p><b>Requirement</b>: 11000 Merc Unique Buildings.</b></p><p><b>Cost</b>: 30.5 QaQig (3.05e166)</p><p><b>Effect</b>: Increases the production of Non-Unique buildings by 3.5% per Unique building.</p>
+<p><b>S2875</b> - For <b>Good Mercenary</b> - Research Name: <b>Scholarship</b></p><p><b>Requirement</b>: 11000 Merc Unique Buildings.</b></p><p><b>Cost</b>: 30.5 QaQig (3.05e166)</p><p><b>Effect</b>: Increases the production of Non-Unique buildings by 5% per Unique building.</p>
 <br/>
 <p><b>S3200</b> - For <b>All Factions</b> - Research Name: <b>Manipulation</b></p><p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p><p><b>Cost</b>: 695.7 Sxg (6.957e185)</b><p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).</b><p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 1200%.</p>
 <?php include "../scripts/footer.html"; ?>
