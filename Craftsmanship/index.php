@@ -67,9 +67,9 @@
 <br/>
 <p><b>C1325</b> - For <b>All Factions</b> - Research Name: <b>Plasmation</b><p><b>Requirement</b>: 50m (50e6) Mana Produced (This game)</b><p><b>Cost</b>: 144.9 Tvg (1.449e74)<p><b>Effect</b>: Gain assistants based on mana produced in this game.<p><b>Formula</b>: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game).</p>
 <br/>
-<p><b>C1500</b> - For <b>Titan,Dragon</b> - Research Name: <b>Gargantuaness</b><p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</b><p><b>Cost</b>: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.<p><b>Formula</b>: (1.5 * x) ^ 0.7, where x is neutral time (this R) in minutes.</p>
+<p><b>C1500</b> - For <b>Titan,Dragon</b> - Research Name: <b>Gargantuaness</b><p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</b><p><b>Cost</b>: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.<p><b>Formula</b>: ((1.5 * x) ^ 0.7), where x is neutral time (this R) in minutes.</p>
 <br/>
-<p><b>C3000</b> - For <b>Mercenary</b> - Research Name: <b>Customizing</b><p><b>Requirement</b>: 9000 Excavations as Mercenary.</b><p><b>Cost</b>: 850.7 SxQig (8.507e173)<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.<p><b>Formula</b>: (1.5 * x ^ 1.5), where X is artifacts you own.</p>
+<p><b>C3000</b> - For <b>Neutral Mercenary</b> - Research Name: <b>Customizing</b><p><b>Requirement</b>: 9000 Excavations as Mercenary.</b><p><b>Cost</b>: 850.7 SxQig (8.507e173)<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.<p><b>Formula</b>: (2 * x ^ 2), where X is artifacts you own.</p>
 <br/>
 <p><b>C3100</b> - For <b>All Factions</b> - Research Name: <b>Engineering</b><p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).</b><p><b>Cost</b>: 769.3 OcQig (7.693e179)<p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.</p>
 <?php include "../scripts/footer.html"; ?>
