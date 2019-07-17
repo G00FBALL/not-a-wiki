@@ -73,7 +73,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Holy Crusaders" align="middle"> Holy Crusaders (<u>For Good Alignments</u>)</b></p>
 <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
 <p><b>Effect</b>: Gain additional Crusader Assistants based on the amount of spells cast in this game.</p>
-<p><b>Formula</b>: (0.5 * ((1 + 0.2 * x) ^ (0.1 + A) - 1)), where x is amount of spells cast in this game and A is Ascenion.</p>
+<p><b>Formula</b>: (0.5 * ((1 + 0.8 * x) ^ (0.5 + 0.05 * A) - 1)), where x is amount of spells cast in this game and A is Ascenion.</p>
 <p><b>Effect</b>: Increase clicking reward by 1000% per active spell.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Heresiarchs" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
