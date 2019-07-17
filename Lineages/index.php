@@ -177,7 +177,7 @@
     <p><b>Effect</b>: While Fairy Chanting is active, further increase your temporary assistants based on its duration.</p>
     <p><b>Formula</b>: (2.5 * (x * 30) ^ 0.5), where x is Fairy Chanting duration in seconds.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Assistants count 300% more.</p>
@@ -217,7 +217,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Moon Blessing is active, multiply your fc chance by 1500%.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk5.png" align="middle"> Elven Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Faction Coins count 1000% more.</p>
@@ -257,7 +257,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When God's Hand is active, increase max mana by 50%.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk5.png" align="middle"> Angel Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Spells cast count 1000% more.</p>
@@ -298,7 +298,7 @@
     <p><b>Formula</b>: (20 + ln(1 + x) ^ 1.85), where x is Gems required for your next Reincarnation.</p>
     <p><b>Effect</b>: Also makes Tax Collection casts count 100% more.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk5.png" align="middle"> Goblin Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Increase Faction Coin Find Chance by 1000%.</p>
@@ -337,7 +337,7 @@
     <p><b>Effect</b>: Increase Offline Bonus based on Night Time activity time in this game.</p>
     <p><b>Formula</b>: (7 * x ^ 0.7), where x is Night Time activity time this game.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk5.png" align="middle"> Undead Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Reincarnation Power Counts Reincarnations as 100% more.</p>
@@ -377,7 +377,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Non-Unique Buildings are also targeted by Hellfire Blast.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk5.png" align="middle"> Demon Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Trophies count 1000% more.</p>
@@ -416,7 +416,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Lightning Strike always hits Unique Buildings in addition to its random target. Unique Buildings are no longer random targets.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk5.png" align="middle"> Titan Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Royal Exchanges count 500% more.</p>
@@ -462,7 +462,7 @@
     <p><b>Formula</b>: (3 * ln(1+x) ^ 3), where x is spell duration in seconds and y is amount of grand balance targets.</p>
     <p><b>Note</b>: Ascension 2 penalty is removed</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk5.png" align="middle"> Druid Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Mana produced counts 1000% more.</p>
@@ -502,7 +502,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Remove 1 Ascension penalty from Brainwave on Unique Buildings.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk5.png" align="middle"> Faceless Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Time passed counts 100% more.</p>
@@ -544,7 +544,7 @@
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.</p>
     <p><b>Formula</b>: (0 .5 * log10(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarf Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Buildings count 100% more.</p>
@@ -586,7 +586,7 @@
     <p><b>Effect</b>: While Combo Strike is active, increase the production of all buildings based on the current Combo Strike bonus.</p>
     <p><b>Formula</b>: (2 * log10((x ^ 0.9) ^ T) ^ 2) where x is combo count, and T is spell tier.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk5.png" align="middle"> Drow Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Maximum Mana counts 300% more.</p>
@@ -625,7 +625,7 @@
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Activates two breaths per cast.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk5.png" align="middle"> Dragon Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Lineage levels count 100% more.</p>
@@ -665,7 +665,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Precognition also effects trophies, gems owned and faction coins found.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk5.png" align="middle"> Archon Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Unique Buildings count 100% more.</p>
@@ -703,7 +703,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Limited Wish is cast, gain +888 to automatic clicks this reincarnation.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk5.png" align="middle"> Djinn Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Mana regeneration counts 200% more.</p>
@@ -740,7 +740,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
     <p><b>Effect</b>: While infinite spiral is active, production of all buildings increases by 1% each second, up to its maximum duration.</p>
     <br/>
-    <p><b>Level 50</b></p>
+    <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk5.png" align="middle"> Makers Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Excavations count 200% more.</p>
