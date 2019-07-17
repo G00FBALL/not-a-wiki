@@ -71,5 +71,5 @@
 <br/>
 <p><b>E3250</b> - For <b>All</b> - Research Name: <b>Hirelings</b><p><b>Requirement</b>: (Intimidation E1325) and (Scholarship S2875).</b><p><b>Cost</b>: 661.6 USxg (6.616e188)</b><p><b>Effect</b>: Gives assistants based on the amount of coins you own.</b><p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>
 <br/>
-<p><b>E3300</b> - For <b>Mercenary</b> - Research Name: <b>Estates</b><p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</b><p><b>Cost</b>: 629.2 DSxg (6.292e191)</b><p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>
+<p><b>E3300</b> - For <b>Mercenary</b> - Research Name: <b>Estates</b><p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</b><p><b>Cost</b>: 629.2 DSxg (6.292e191)</b><p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p><p><b>Effect</b>: Ascension 3: Gain all the Unique Buildings that match your alignments.</p>
 <?php include "../scripts/footer.html"; ?>
