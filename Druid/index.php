@@ -146,6 +146,6 @@
         </tbody>
     </table>
 <br/>
-<p><b>Effect</b>: After 10 exceeding targets (or GB21), Increase the production of all affected buildings based on the exceeding amount.</p>
-<p><b>Formula</b>: (x ^3), where x is the number of targets past 10, not A-nerfed.</p>
+<p><b>Effect</b>: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.</p>
+<p><b>Formula</b>: (3 * (x - 10) ^ 1.5), where x is the amount of additional targets, not A-nerfed.</</p>
 <?php include "../scripts/footer.html"; ?>            </div>

@@ -22,7 +22,7 @@
 <br>
 <p><b>Event Changes</b></p>
 <p>New Feat and Upgrade Added, 2 other changes...???</p>
-<!--<br>
+<br>
 <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
 <p><b>OldEffect</b>: All spells activity time counts more based on the amount of assistants you own.</p>
 <p><b>Old Formula</b>: (0.35 * ln(1 + x) ^ 3.5)%, where x is amount of assistants you own.</p>
@@ -564,9 +564,8 @@ div#images div{
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png" alt="Primal Balance" align="middle"> <b>Primal Balance</b></p>
 <p><b>Effect</b>: Grand Balance affects extra buildings based on mana produced in this R.</p>
 <p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
-<p><b>Added Effect</b>: When the amount of targets exceeds 10, increase the production of all affected buildings based on the exceeding amount.</p>
-<p><b>Formula</b>: (x ^3), where x is the number of targets past 10, not A-nerfed.</p>
-<p><b>New Note</b>: Primal Balance new effects starts from 10 exceeding targets.(or GB21)</p>
+<p><b>Added Effect</b>: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.</p>
+<p><b>Formula</b>: (3 * (x - 10) ^ 1.5), where x is the amount of additional targets, not A-nerfed.</p>
 <br/>
 <p><b>Faceless Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png" alt="Mystic Maze" align="middle"> <b>Mystic Maze</b></p>
