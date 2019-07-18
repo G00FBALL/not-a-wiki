@@ -288,7 +288,7 @@
 <p><b>Artifacts Required</b>: Steel Plate, Black Sword, Mercenary Insignia</p>
 <p><b>Cost</b>: Free</p>
 <p><b>Effect</b>: Allows you to pick the same lineage as your faction.</p>
-<p><b>Effect</b>: Lineage levels count 100% more..</p>
+<p><b>Effect</b>: Lineage levels count 100% more.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SteelPlate.png" alt="Steel Plate" align="middle"><b> Steel Plate</b></p>
 <p><b>Clue</b>: Legacy from 50 generations ago.</p>

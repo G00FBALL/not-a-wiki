@@ -166,7 +166,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk3.png" align="middle"><b> Fairy Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Assistants count 1% more per 2000 Unique Buildings.</p>
+    <p><b>Effect</b>: Gain 1% more assistants for every 2000 Unique Buildings.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png" align="middle"> Fairy Grand Champion Trophy.</p>
     <p><b>Requirement</b>: Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.</p>

@@ -29,12 +29,13 @@
 <p><b>Tiers</b>: R42+</p>
 <p><b>X +click spell</b>: This will set each spell 1 tier at a time and back to 0</p>
 <p><b>Z +click spell</b>: This will set each spell to it's maxumine tier and will not take it to 0</p>
+<p><b>R +click spell</b>: This will reset/restart spell</p>
 <p><b>Tooltip</b>: To set autocasting with tooltip go to options and put a X in <b>Enable Spell Tooltip Persist</b>.</p>
 <br/>
 <h6>Autocasting (Windows)</h6>
-<p><b>Gold</b>: SHIFT +click spell</p>
-<p><b>Silver</b>: CTRL +click spell</p>
-<p><b>Bronze</b>: CTRL +SHIFT +click spell</p>
+<p><b>Silver (Primary)</b>: CTRL +click spell</p>
+<p><b>Gold (Secondary)</b>: SHIFT +click spell</p>
+<p><b>Bronze (Independent)</b>: CTRL +SHIFT +click spell</p>
 <br/>
 <h6>Autocasting (Mac)</h6>
 <p><b>Contingency</b>: SHIFT +click mana</p>
