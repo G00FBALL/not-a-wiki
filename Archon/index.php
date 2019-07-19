@@ -12,7 +12,7 @@
 <p><b>Effect</b>: Increase Mana Regeneration additively and multiplicatively based on the amount of Order buildings you own.</p>
 <p><b>Formula</b>: Additive: (0.2 * x ^ 2), Multiplicative: (0.5 * x ^ 0.5)</p>
 <p><b>Effect</b>: Precognition also increases God's Hand bonus.</p>
-<p><b>Upgrade</b>: Good for Angel</p>
+<p><b>Upgrade</b>: Good for Angel/Archon</p>
 <hr>
 <p><b>Archon Challenge 2</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnUntimelyDeath.png" align="middle"> An Untimely Death</b></p>
@@ -22,7 +22,7 @@
 <p><b>Effect</b>: Multiplicatively increase assistants based on Offline Bonus.</p>
 <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is offline bonus multiplier</p>
 <p><b>Effect</b>: Temporal Flux also increases Offline Bonus. (Same Formula as production bonus)</p>
-<p><b>Upgrade</b>: Good for Undead</p>
+<p><b>Upgrade</b>: Good for Undead/Archon</p>
 <hr>
 <p><b>Archon Challenge 3</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Titanomachy.png" align="middle"> Titanomachy</b></p>
@@ -32,7 +32,7 @@
 <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by -0.02 and increase Royal Exchange bonus by 100%.</p>
 <p><b>Effect</b>: Multiplicatively increase time spent in this game based on Royal Exchanges bought.</p>
 <p><b>Formula</b>: (5 * x ^ 0.25), where x is Royal Exchanges bought.</p>
-<p><b>Upgrade</b>: Good for Titan</p>
+<p><b>Upgrade</b>: Good for Titan/Archon</p>
 <hr>
 <p><b>Archon Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TimeMerge.png" align="middle"> Time Merge</b></p>
@@ -40,7 +40,7 @@
 <p><b>Requirements</b>: Archon as Elite Faction, 148 Reincarnations, Archon Unique Building Purchased (Nexus), Completion of Archon Challenge 3</p>
 <p><b>Challenge</b>: Have a Temporal Flux bonus of at least 6543210%.</p>
 <p><b>Effect</b>: 25% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
-<p><b>Upgrade</b>: Good for Archon</p>
+<p><b>Upgrade</b>: Good for Angel, Undead, Titan/Archon</p>
 <hr>
 <p><b>Archon Challenge 5</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PowerOverwhelming.png" align="middle"> Power Overwhelming</b></p>

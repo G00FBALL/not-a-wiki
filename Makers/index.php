@@ -13,7 +13,7 @@
 <p><b>Formula</b>: Multiplicative: (1.5 * x ^ 0.85)%, where x is Elven Lucks this game.</p>
 <p><b>Effect</b>: Gain x5 Faction Coins from any source when they match your Faction, Bloodline or Set.</p>
 <p><b>Formula</b>: Multiplicative: (5 ^ x), where x is number of  faction/bloodline/set FC matches (+1 for full FC match, +½ for half FC match) (includes A2950 and Stoneheart).</p>
-<p><b>Upgrade</b>: Good for Elves</p>
+<p><b>Upgrade</b>: Good for Elves/Makers</p>
 <hr>
 <p><b>Makers Challenge 2</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtificialCurrency.png" align="middle"> Artificial Currency</b></p>
@@ -24,7 +24,7 @@
 <p><b>Formula</b>: (((log10(1+x)) ^2 / (log10(1+y)) ^2) ^ 1.25), where x is mana regen, y is max mana.</p>
 <p><b>Effect</b>: Production bonus from Gems is increased based on Tax Collections cast in this game.</p>
 <p><b>Formula</b>: Multiplicative: (0.7 * ln(1+x) ^ 1.7), where x is number of Tax Collections (This game)</p>
-<p><b>Upgrade</b>: Good for Goblin</p>
+<p><b>Upgrade</b>: Good for Goblin/Makers</p>
 <hr>
 <p><b>Makers Challenge 3</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PillarsofCreation.png" align="middle"> Pillars of Creation</b></p>
@@ -34,7 +34,7 @@
 <p><b>Effect</b>: Infinite Spiral's assistant effect is also increased by Mana Regeneration.</p>
 <p><b>Formula</b>: (12.5 * (ln(1+x * y) ^ 1.25), where x is max mana, y is mana regen</p>
 <p><b>Effect</b>: Your Lineage levels count double.</p>
-<p><b>Upgrade</b>: Good for Druid</p>
+<p><b>Upgrade</b>: Good for Druid/Makers</p>
 <hr>
 <p><b>Makers Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Stoneheart.png" align="middle"> Stoneheart</b></p>
@@ -42,7 +42,7 @@
 <p><b>Requirements</b>: Makers as Elite Faction, 148 Reincarnations, Makers Unique Building Purchased (Halls of Origination), Completion of Makers Challenge 3.</p>
 <p><b>Challenge</b>: Without using any Bloodline or Research, reach 35000 Halls of Origination.</p>
 <p><b>Effect</b>: Pick an additional Set.</p>
-<p><b>Upgrade</b>: Good for Makers</p>
+<p><b>Upgrade</b>: Good for Elves, Goblin, Druid/Makers</p>
 <hr>
 <p><b>Makers Challenge 5</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreatestInvention.png" align="middle"> Greatest Invention</b></p>

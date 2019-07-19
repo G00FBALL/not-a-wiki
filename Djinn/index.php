@@ -14,7 +14,7 @@
 <p><b>Alternative Formula</b>: ((36-x-y-z) * 100)%, where x,y and z are the respective tiers of Maelstrom’s target buildings.</p>
 <p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
 <p><b>Additive to LW casts</b>: (0.0001 * (x ^ 0.4) * y * z), where x = maximum mana, y = Fairy Chanting tier, z = Fairy Chanting runtime (seconds).</p>
-<p><b>Upgrade</b>: Good for Fairy</p>
+<p><b>Upgrade</b>: Good for Fairy/Djinn</p>
 <hr>
 <p><b>Djinn Challenge 2</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
@@ -25,7 +25,7 @@
 <p><b>Formula</b>: Multiplicative: (0.6 * x ^ 0.4), where x is Hellfire Blast casts (this game).</p>
 <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
 <p><b>Formula</b>: Additive: (x ^ 0.7), where x is number of trophies. Applies only for real evil spells, adds casts directly to the spell’s casts.</p>
-<p><b>Upgrade</b>: Good for Demon</p>
+<p><b>Upgrade</b>: Good for Demon/Djinn</p>
 <hr>
 <p><b>Djinn Challenge 3</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
@@ -36,7 +36,7 @@
 <p><b>Effect</b>: Makes Limited Wish scale faster based on Research Points used in this game.</p>
 <p><b>Formula</b>: (y = ln(1 + sum of x))%, where x =  all selected researches' number (e.g. W275 = 275)</p>
 <p><b>Formula</b>: y converted to a multiplier (so 5% = 1.05) is applied to both exponents of LW: ( (2.25 * ln(1+a) ^ (1.35 * y)) * (b^(0.45 * y)), where a= duration, b = casts.</p>
-<p><b>Upgrade</b>: Good for Faceless</p>
+<p><b>Upgrade</b>: Good for Faceless/Djinn</p>
 <hr>
 <p><b>Djinn Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
@@ -44,7 +44,7 @@
 <p><b>Requirements</b>: Djinn as Elite Faction, 148 Reincarnations, Djinn Unique Building Purchased (Pavilion), Completion of Djinn Challenge 3.</p>
 <p><b>Challenge</b>: Have a spell duration of at least 2 year.</p>
 <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
-<p><b>Upgrade</b>: Good for Djinn</p>
+<p><b>Upgrade</b>: Good for Fairy, Demon, Faceless/Djinn</p>
 <hr>
 <p><b>Djinn Challenge 5</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AltarofWishes.png" align="middle"> Altar of Wishes</b></p>
