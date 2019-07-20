@@ -7,31 +7,31 @@
     <p><b>Titan Challenge 1</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RichFollowersChallenges.png" alt="Rich Followers" align="middle"> <b>Rich Followers</b></p>
     <p>The mighty titans have decided to give you and a dozen of you most loyal subjects a chance to prove your kingdom's economy is as strong as theirs.</p>
-    <p><b>Requirements</b>: 4 Reincarnations. Lightning Storm spell upgrade, Angel 1 and Goblin 1 challenges completed
-    <p><b>Challenge</b>: Have at least 13 assistants and have exactly 13 times that many Royal Exchanges (Total) - Check the total in stats tab.(e.g. 15 assistants = 195 Royal Exchanges)</p>
+    <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 4+, Lightning Storm upgrade purchased, Angel and Goblin challenge 1 completed.</p>
+    <p><b>Challenge</b>: Have at least 13 assistants and have exactly 13 times that many Royal Exchanges (Total)</p>
     <p><b>Effect</b>: You gain a free assistant for every 80 Royal Exchanges you bought</p>
-    <p><b>Upgrade</b>: Good for Titan</p>
-    <p><b>Warning</b>: Ruby Power Assistant upgrade will stop you from getting it done. (Fixed?)</p>
-    <p>Since RG v2, this can be done solely with building assistants where the 5th and 25th buildings gives 1 assistant. Careful of using Ruby power. Avoid Reincarnation power, Undead & Drow bloodline, and Undead 3 challenges. By precaution, don't even get the other assistant upgrades. At lower Rs, aim exactly 13 assistants. Check your stats regularly and when you get close to the required 169 total REs, switch to buying them one by one - careful to not over-buy! Note that you can have more than 13 assistants so long as you have the required 13*(number of assistants) REs. (26 assistants => 338 RE)</p>
+    <p><b>Upgrade</b>: Works with Titan</p>
+    <p><b>Tip</b>: This can be done solely with building assistants where the 5th and 25th building upgrade gives 1 assistant each.</p>
+    <p><b>Note</b>: You can have more than 13 assistants so long as you have the required (13 x number of assistants).</p>
+    <p><b>Example</b>: 13 x 26 assistants = 338 Royal Exchanges</p>
     <hr>
     <p><b>Titan Challenge 2</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HarmonyofThoughtsChallenges.png" alt="Harmony of Thoughts" align="middle"> <b>Harmony of Thoughts</b></p>
     <p>The mighty titans wish for you to harness arcane powers through your fingertips.</p>
-    <p><b>2 Requirements</b>: 9 Reincarnations, Titan Bloodline, Angel 2 and Goblin 2 challenges completed</p>
-    <p><b>Challenge</b>: Click the treasure 80 times while having at least 3 active spells in a single session.</p>
+    <p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
+    <p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
     <p><b>Effect</b>: Faceless' Hive Mind playtime is increased by 10% of the playtime of all the other factions.</p>
-    <p><b>Upgrade</b>: Good for Faceless</p>
-    <p><b>Tips</b></p>
-    <p>This challenge does not need to be done within one spell combo. In addition, due to a bug, it counts one click per second if you have at least one assistant. It's possible to meet the condition without clicking the treasure at all while spells are active by casting 3 spells that last 20 seconds together 4 times.</p>
+    <p><b>Upgrade</b>: Works with Faceless</p>
+    <p><b>Tip</b>: This challenge does not need to be done within one spell combo. In addition, due to a bug, it counts one click per second if you have at least one assistant. It's possible to meet the condition without clicking the treasure at all while spells are active by casting 3 spells that last 20 seconds together 4 times.</p>
     <hr>
     <p><b>Titan Challenge 3</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BalancedEconomyChallenges.png" alt="Passage to Tartarus" align="middle"> <b>Balanced Economy</b></p>
     <p>The mighty titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark you ascension.</p>
-    <p><b>Requirements</b>: 19 Reincarnations, 1000 excavations, Angel 3 and Goblin 3 challenges completed</p>
+    <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 19+, 1000 excavations, Angel and Goblin challenge 3 and Titan challenge 2 completed.</p>
     <p><b>Challenge</b>: Generate 1 B (1E9) Faction Coins with the Lightning Strike spell.</p>
-    <p><b>Effect</b>: Gain additional max mana based on the number of faction coins generated this game.
+    <p><b>Effect</b>: Gain additional max mana based on the number of faction coins generated this game.</p>
     <p><b>Formula</b>: round(2.5 * log10(1+x))%, where x is your Faction Coins Gained (This Game) stat.</p>
-    <p><b>Upgrade</b>: Good for Druid</p>
+    <p><b>Upgrade</b>: Works with Druid</p>
     <div class="shlisting" style="padding-left: 20px">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Lightning Strikes required per gem count</a></b></p>
         <div class="autohide">
@@ -144,13 +144,13 @@
     <p><b>Titan Challenge 4</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/StormofWealthChallenges.png" alt="Storm of Wealth" align="middle"> <b>Storm of Wealth</b></p>
     <p>The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them.</p>
-    <p><b>Requirements</b>: 25 Reincarnations, Titan Unique Building</p>
+    <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
     <p><b>Challenge</b>: Hit Halls of Legends with Lightning Strike 2 times in a row while having all building types and no researches.</p>
     <p><b>Effect</b>: Every 5 minutes you automatically generate Faction Coins based on the amount of Gems you own.</p>
     <p><b>Formula</b>: round(0.05 * x), where x is the amount of Faction coins generated from a Lightning Strike.</p>
-    <p><b>Upgrade</b>: Good for All</p>
+    <p><b>Upgrade</b>: Works with All</p>
     <p><b>Tips</b></p>
-    <p><b>Hint</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs[1]. The Realm Weather Service can help to forecast.</p>
+    <p><b>Hint</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs. <a target="_blank" href="http://dox4242.github.io/rws/index.html" research="Allows you to see what Lightning Strike will hit next"> <b>The Realm Weather Service</b></a> can help to forecast.</p>
     <hr>
     <p><b>In-Game Challenge Final Reward</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallenges.png" alt="Thunderstorm" align="middle"> <b>Thunderstorm</b></p>

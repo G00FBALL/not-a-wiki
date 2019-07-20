@@ -7,50 +7,46 @@
 <p><b>Faceless Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/RecruitmentChallenges.png" alt="Recruitment" align="middle"> <b>Recruitment</b></p>
 <p>You are always growing - but what to do when you can only start from a single cell with no means of survival?</p>
-<p><b>Requirements</b>: 4 Reincarnations, All Faceless Faction upgrades, Faceless Overmind spell upgrade, Fairy 1 and Undead 1 challenges completed</p>
-<p><b>Challenge</b>: Only have assistants from Faceless (2,2) Mitosis</p>
-<p><b>Note</b>: Do not have any other upgrades giving assistants: Reincarnation Power, Undead Heritage, Undead 3 challenge etc.</p>
+<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 4+, Faceless Overmind upgrade purchased, Fairy and Undead challenge 1 completed.</p>
+<p><b>Challenge</b>: Buy all the Faceless upgrades and have no assistants except from Mitosis.</p>
 <p><b>Effect</b>: Gain an extra assistant every minute, resets every hour</p>
-<p><b>Upgrade</b>: Good for Faceless</p>
-<p><b>Tips</b>:</p>
-<p>Beware of using Ruby or Reincarnation power.</p>
-<p><b>Tip 2</b>:</p>
-<p>Disable the Undead 3 Challenge bonus.</p>
-<p><b>Tip 3</b>:</p>
-<p>Buy <b>All</b> Faceless upgrades and click 1 at a time when buying upgrades, be sure not to buy assistant upgrades, building upgrades, Ruby power(if it includes assistants) and dont buy R Power.</p>
+<p><b>Upgrade</b>: Works with Faceless</p>
+<p><b>Tip 1</b>: Do not use <b>Buy All</b>.</p>
+<p><b>Tip 2</b>: Beware of using Ruby Power (if it includes assistants) or Challenge Power (if Undead challenge 3 is completed).</p>
+<p><b>Tip 3</b>: Do not buy Reincarnation power.</p>
+<p><b>Tip 4</b>: Buy <b>All</b> Faceless upgrades and click 1 at a time when buying upgrades, be sure not to buy assistant upgrades or building upgrades.</p>
 <hr>
 <p><b>Faceless Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png" alt="Mystic Maze" align="middle"> <b>Mystic Maze</b></p>
 <p>Your hive superiors have ordered you to setup a base without alerting any nearby enemies</p>
-<p><b>Requirements</b>: 9 Reincarnations, Faceless Bloodline, Fairy 2 and Undead 2 challenges completed</p>
+<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 9+, Faceless Bloodline, Fairy and Undead challenge 2 completed</p>
 <p><b>Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
-<p><b>Note</b>: Buy every building except Labyrinth and click 1000 times.</p>
 <p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p>
-<p><b>Upgrade</b>: Good for Druid</p>
+<p><b>Upgrade</b>: Works with Druid</p>
+<p><b>Tip</b>: Buy every building except Labyrinth and click 1000 times.</p>
 <hr>
 <p><b>Faceless Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/CyclopeanArmyChallenges.png" alt="Cyclopean Army" align="middle"> <b>Cyclopean Army</b></p>
 <p>Our enemies, the Outer Gods, have returned. Use mind control to enhance our forces and repel this threat.</p>
-<p><b>Requirements</b>: 19 Reincarnations, 1000 excavations, Fairy 3 and Undead 3 challenges completed</p>
+<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 19+, 1000 excavations, Fairy and Undead challenge 3 completed</p>
 <p><b>Challenge</b>: Cast Call to Arms, Gem Grinder and Spiritual Surge during last 20 seconds of Brainwave.</p>
 <p><b>Effect</b>: Gain extra assistants based on your royal exchange bonus.</p>
 <p><b>Formula</b>: floor(2 * x ^ 0.5), where x is your Royal Exchange Bonus.</p>
-<p><b>Upgrade</b>: Good for Titan</p>
+<p><b>Upgrade</b>: Works with Titan</p>
 <hr>
 <p><b>Faceless Challenge 4</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/OmnipresenceChallenges.png" alt="Omnipresence" align="middle"> <b>Omnipresence</b></p>
 <p>We are suffering attacks from another Hive. It's time to remind them the power of our master.</p>
-<p><b>Requirements</b>: 25 Reincarnations, Faceless Unique Building
+<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 25+, Faceless Unique Building.</p>
 <p><b>Challenge</b>: Get Hive Mind (3,3) bonus to at least 1890%.</p>
 <p><b>Effect</b>: All factions receive a bonus based on your Hive Mind bonus.</p>
 <p><b>Formula</b>: (0.05 * x), where x is current Hive Mind bonus.</p>
-<p><b>Upgrade</b>: Good for All</p>
-<p><b>Tips</b></p>
-<p>This is the equivalent of 5 days, 19 hours, 50 minutes and 42 seconds spent allied with Faceless. Getting the Titan Tier 2 challenge Harmony of Thoughts will help increase your Faceless playtime.</p>
-<p>TC2 adds 10% of the playtime of <b>all other factions</b> to the Hive Mind calculation, which means you'll get to 1890% that much faster</p>
+<p><b>Upgrade</b>: Works with All</p>
+<p><b>Tip 1</b>: This is the equivalent of 5 days, 19 hours, 50 minutes and 42 seconds spent allied with Faceless. Getting the Titan challenge 2 (Harmony of Thoughts) will help increase your Faceless playtime.</p>
+<p><b>Tip 2</b>: Titan challenge 2 adds 10% of the playtime of <b>all other factions</b> to the Hive Mind calculation, which means you'll get to 1890% that much faster.</p>
 <hr>
 <p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FocusedThoughtsChallenges.png" alt="Focused Thoughts" align="middle"> <b>Focused Thoughts</b></p>
 <p><b>Effect</b>: Give Brainwave a headstart based on the amount of times you cast it in this game, with a minimum of 1 minute.</p>
-+1 second per 5 minutes Active Time (This Game) (+10 minutes per tier of Brainwave past 1).</p>
+<p>+1 second per 5 minutes Active Time (This Game) (+10 minutes per tier of Brainwave past 1).</p>
 <?php include "../scripts/footer.html"; ?>

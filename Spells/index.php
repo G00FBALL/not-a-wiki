@@ -879,8 +879,8 @@
     <p><b><center>Alignment Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon)</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
-    <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time. ({1 * x ^ 0.625}%)</p>
-    <p><b>Name</b>: Dragon's Breath</p>
+    <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
+    <p><b>Formula</b>:  ({1 * x ^ 0.625}%), where x is Dragon's Breath activity time.</p>
     <p><b>Effect</b>: With the Spell upgrade Dragon's Roar, Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
     <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.
     <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
@@ -900,9 +900,9 @@
     <p><b><font color="black">Formula</b></font>: (0.5 *x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
     </br>
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b></p>
-    <p><b>Effect</b>: Dragon's Breath also produces Faction Coins at each cast based on it's activity time.</p>
-    <p><b>Formula</b>: floor(135 * x^0.98), x is all Rs activity time in seconds</p>
-    <p><b>Challenge Upgrade</b>: Prismatic Breath While all 5 breaths are active, Reincarnations count double for all purposes.</p>
+    <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
+    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.
+    <p><b>Challenge Upgrade</b>: While all 5 breaths are active, Reincarnations count 50% more.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dragons Breath Tier2-7</a></b></p>
