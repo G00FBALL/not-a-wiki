@@ -41,7 +41,7 @@
 <p><b>Challenge</b>: Have 9,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.</p>
 <p><b>Effect</b>: Faction coins from excavations are increased based on the amount of artifacts you own.</p>
 <p><b>Formula</b>: (x ^ 6)%, where x is number of artifacts.</p>
-<p><b>Upgrade</b>: Works with Titan, Druid and Faceless+Dragon</p>
+<p><b>Upgrade</b>: Works with Titan+Dragon, Druid+Dragon and Faceless+Dragon</p>
 <hr>
 <p><b>Dragon Challenge 5</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientIncantationChallenges.png" alt="Ancient Incantation" align="middle"> <b>Ancient Incantation</b></p>
@@ -49,7 +49,7 @@
 <p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 60+, Dragon Unique Building, Dwarven and Drow challenge 5 and Dragon challenge 4 completed.</p>
 <p><b>Challenge</b>: Have 5 spells active at tier 5.</p>
 <p><b>Effect</b>: Tax Collections are 20% more powerful for every spell tier you have active.</p>
-<p><b>Upgrade</b>: Works with All Base/Prestige</p>
+<p><b>Upgrade</b>: Works with Good+Dwarves, Evil+Drow and Neutral+Dragon</p>
 <hr>
 <p><b>Dragon Challenge 6</b>:
 <p><img src="http://musicfamily.org/realm/Factions/picks/DracometVaultChallenges.png" alt="Dracomet Vault" align="middle"> <b>Dracomet Vault</b></p>

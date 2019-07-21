@@ -7,7 +7,7 @@
 <p><b>Recommended</b> gem level for doing any drow challenge is e90+</p>
 <p><b>Drow Challenge 1</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/OrganizedCrimeChallenges.png" alt="Organized Crime" align="middle"> <b>Organized Crime</b></p>
-<p>The mysterious drow wish for you to prove your murderous honor to them.</p>
+<p>"The mysterious drow wish for you to prove your murderous honor to them."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Drow as Prestige Faction, Reincarnation 6+, Perfect Combo upgrade purchased, Goblin, Demon and Undead challenge 1 completed.</p>
 <p><b>Challenge</b>: Have Honor Among Killers with at least 500 trophies and 1000 Royal Exchanges bought.</p>
 <p><b>Effect</b>: Increase Royal Exchange bonus by 0.025% per trophy you own.</p>
@@ -16,7 +16,7 @@
 <hr>
 <p><b>Drow Challenge 2</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DarkEleganceChallenges.png" alt="Dark Elegance" align="middle"> <b>Dark Elegance</b></p>
-<p>The Spider Queen is not pleased with some of her worshippers. You must weed out the weak and sacrifice them at the temple altar.</p>
+<p>"The Spider Queen is not pleased with some of her worshippers. You must weed out the weak and sacrifice them at the temple altar."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Drow as Prestige Faction, Reincarnation 11+, Drow Bloodline, Goblin, Demon and Undead challenge 2 and Drow challenge 1 completed.</p>
 <p><b>Challenge</b>: Build 2000 Spider Sanctuaries (Dark Temples).</p>
 <p><b>Effect</b>: Increase the production of all buildings based on faction coins earned this game.</p>
@@ -25,7 +25,7 @@
 <hr>
 <p><b>Drow Challenge 3</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Sorcerer'sPactChallenges.png" alt="Sorcerer's Pact" align="middle"> <b>Sorcerer's Pact</b></p>
-<p>A legion of interlopers have invaded our sanctuaries. Work yourselves into a rage and tear them apart.</p>
+<p>"A legion of interlopers have invaded our sanctuaries. Work yourselves into a rage and tear them apart."</p>
 <p><b>Requirements</b>: Undead as Base Faction, Drow as Prestige Faction, Reincarnation 21+, 1750 excavations, Goblin, Demon and Undead challenge 3 and Drow challenge 2 completed.</p>
 <p><b>Challenge</b>: Have at least 2 hours of activity time for both Blood Frenzy and Combo Strike.(This Game)</p>
 <p><b>Effect</b>: Online Time (This game) is added to Offline Time (This game).</p>

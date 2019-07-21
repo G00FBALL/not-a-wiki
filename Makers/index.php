@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Makers Challenge 1</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SeedofLife.png" align="middle"> Seed of Life</b></p>
-<p>If you wish to make an apple pie from scratch, you must first invent the universe. And the apple tree, you will have to nurse.</p>
+<p>"If you wish to make an apple pie from scratch, you must first invent the universe. And the apple tree, you will have to nurse."</p>
 <p><b>Requirements</b>: Elves as Base Faction, Makers as Elite Faction, Reincarnation 135+, Reality Crater upgrade purchased.</p>
 <p><b>Challenge</b>: Get 10 M (1e7) clicks in this Reincarnation and trigger Elven Luck at least 7777 times in this game.</p>
 <p><b>Effect</b>: Increase assistants based on the amount of Elven Luck triggered in this game.</p>
@@ -17,7 +17,7 @@
 <hr>
 <p><b>Makers Challenge 2</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtificialCurrency.png" align="middle"> Artificial Currency</b></p>
-<p>Extinction is the rule. Survival is the exception, which can only be achieved through subtle deception.</p>
+<p>"Extinction is the rule. Survival is the exception, which can only be achieved through subtle deception."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Makers as Elite Faction,  Reincarnation 139+, Makers Bloodline active, Makers challenge 1 completed.</p>
 <p><b>Challenge</b>: Get 1 Qid (1e48) Faction Coins with a minimum of 50 Excavation Resets in this Reincarnation.</p>
 <p><b>Effect</b>: While Mana Regeneration is higher than Maximum Mana, each time you cast a spell, you also cast free Tax Collections based on the difference between them.</p>
@@ -28,7 +28,7 @@
 <hr>
 <p><b>Makers Challenge 3</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PillarsofCreation.png" align="middle"> Pillars of Creation</b></p>
-<p>We are like butterflies who flutter for a day and think it is forever. This can be accomplished when you sincerely endeavor.</p>
+<p>"We are like butterflies who flutter for a day and think it is forever. This can be accomplished when you sincerely endeavor."</p>
 <p><b>Requirements</b>: Druid as Base Faction, Makers as Elite Faction, Reincarnation 143+, 25,000 excavations, Druid Set active, Makers challenge 2 completed.</p>
 <p><b>Challenge</b>: "Have at least 1 B (1e9) Maximum Mana and 30000 of each building within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Infinite Spiral's assistant effect is also increased by Mana Regeneration.</p>
@@ -38,7 +38,7 @@
 <hr>
 <p><b>Makers Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Stoneheart.png" align="middle"> Stoneheart</b></p>
-<p>We are a way for the cosmos to know itself. Manipulate existence to plant an evocation of yourself.</p>
+<p>"We are a way for the cosmos to know itself. Manipulate existence to plant an evocation of yourself."</p>
 <p><b>Requirements</b>: Elves, Goblin or Druid as Base Faction, Makers as Elite Faction, Reincarnation 148+, Makers Unique Building, Makers challenge 3 completed.</p>
 <p><b>Challenge</b>: Without using any Bloodline or Research, reach 35000 Halls of Origination.</p>
 <p><b>Effect</b>: Pick an additional Set.</p>
@@ -46,7 +46,7 @@
 <hr>
 <p><b>Makers Challenge 5</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreatestInvention.png" align="middle"> Greatest Invention</b></p>
-<p>Somewhere, something incredible is waiting to be known. Sculpt from your boundless imagination and make it your own.</p>
+<p>"Somewhere, something incredible is waiting to be known. Sculpt from your boundless imagination and make it your own."</p>
 <p><b>Requirements</b>: Elves, Goblin or Druid as Base Faction, Makers as Elite Faction, Reincarnation 153+, All Balance Lineages at level 45, Makers challenge 4 completed.</p>
 <p><b>Challenge</b>: Have at least 10 T (1e13) assistants, 10e9 Maximum Mana and 2e22 Faction Coin find chance within 8 minutes of a new game.</p>
 <p><b>Effect</b>: Increase Maximum Mana based on Faction Coins gained and mana produced in this game; spells cast and clicks made in this Reincarnation.</p>

@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Demon Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TrophyCollectorsChallenges.png" alt="Efficient Magic" align="middle"> <b>Trophy Collectors</b></p>
-<p>The Prince of Hell wish to test your skills at gathering coins without outside help.</p>
+<p>"The Prince of Hell wish to test your skills at gathering coins without outside help."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Reincarnation 2+, Hellfire Blast upgrade purchased.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Collect 5000 Demon Coins without using Gem Power, Reincarnation Power, Researches or Excavations.</p>
@@ -18,7 +18,7 @@
 <hr>
 <p><b>Demon Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LegendaryAnticsChallenges.png" alt="Efficient Magic" align="middle"> <b>Legendary Antics</b></p>
-<p>The Princes of Hell demand a tribute, unleash the beast by extorting every other faction in this realm. You should perform this task with haste, for they are well known for their impatience</p>
+<p>"The Princes of Hell demand a tribute, unleash the beast by extorting every other faction in this realm. You should perform this task with haste, for they are well known for their impatience."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Reincarnation 8+, Demon Bloodline.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Have exactly 666 Royal Exchanges across all factions, with 0 Demon Exchanges, in under 666 seconds current playtime.</p>
@@ -28,7 +28,7 @@
 <hr>
 <p><b>Demon Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PassagetoTartarusChallenges.png" alt="Efficient Magic" align="middle"> <b>Passage to Tartarus</b></p>
-<p>The Demon King has ordered you to prove your might to the entire realm.</p>
+<p>"The Demon King has ordered you to prove your might to the entire realm."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Reincarnation 18+, Demon Unique Building</p>
 <p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
 <p><b>Challenge</b>: Have at least 2000 Halls of Legends and 333 Trophies.</p>

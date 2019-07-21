@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Djinn Challenge 1</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiniatureLamps.png" align="middle"> Miniature Lamps</b></p>
-<p>In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell.</p>
+<p>"In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, Reincarnation 135+, Persistent Entropy upgrade purchased.</p>
 <p><b>Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
 <p><b>Effect</b>: Maelstrom increase assistants based on building tiers targeted. Provides a better bonus for lower tier buildings.</p>
@@ -18,7 +18,7 @@
 <hr>
 <p><b>Djinn Challenge 2</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
-<p>As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!</p>
+<p>"As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!"</p>
 <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, Reincarnation 139+, Djinn Bloodline active, Djinn challenge 1 completed.</p>
 <p><b>Challenge</b>: Have at least 6 T (6e12) Mana Produced within 6 hours of a new game.</p>
 <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
@@ -29,7 +29,7 @@
 <hr>
 <p><b>Djinn Challenge 3</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
-<p>Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels.</p>
+<p>"Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
 <p><b>Challenge</b>: Have at least 8 T (8e12) assistants within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Catalyst casts one additional spell.</p>
@@ -40,7 +40,7 @@
 <hr>
 <p><b>Djinn Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
-<p>This generation decided that we should give them a few more wishes before they give in to our demands for a change.</p>
+<p>"This generation decided that we should give them a few more wishes before they give in to our demands for a change."</p>
 <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
 <p><b>Challenge</b>: Have a spell duration of at least 2 year.</p>
 <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
@@ -48,7 +48,7 @@
 <hr>
 <p><b>Djinn Challenge 5</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AltarofWishes.png" align="middle"> Altar of Wishes</b></p>
-<p>Freedom... at last. Onwards we go, to a better future. So long, mortals.</p>
+<p>"Freedom... at last. Onwards we go, to a better future. So long, mortals."</p>
 <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnations 153+, All Chaos Lineages at level 45, Djinn challenge 4 completed.</p>
 <p><b>Challenge</b>: Cast all Chaos spells 88 times each in a single Reincarnation.</p>
 <p><b>Spells</b>: Fairy Chanting, HFB, Brainwave, Maelstrom, LW, Catalyst</p>

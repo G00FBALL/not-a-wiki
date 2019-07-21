@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Goblin Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DiscountSeasonChallenges.png" alt="Discount Season" align="middle"> <b>Discount Season</b></p>
-<p>The goblin king has revealed the secrets to his race's success. Patience and persistence.</p>
+<p>"The goblin king has revealed the secrets to his race's success. Patience and persistence."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 2+, Greed Drive upgrade purchased.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Have Goblin (3,3) Green Fingers Discount roll more than 1000 seconds worth of production.</p>
@@ -18,7 +18,7 @@
 <hr>
 <p><b>Goblin Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EliteWarriorsChallenges.png" alt="Elite Warriors" align="middle"> <b>Elite Warriors</b></p>
-<p>Goblin are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth.</p>
+<p>"Goblin are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 8+, Goblin Bloodline, Goblin challenge 1 completed.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Buy over 250 upgrades and 17,000 buildings.</p>
@@ -27,7 +27,7 @@
 <hr>
 <p><b>Goblin Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SmuggledJewelsChallenges.png" alt="Smuggled Jewels" align="middle"> <b>Smuggled Jewels</b></p>
-<p>The goblin king wants a castle made of jewels all to himself.</p>
+<p>"The goblin king wants a castle made of jewels all to himself."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building.</p>
 <p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
 <p><b>Challenge</b>: Have at least 1 Qavg (1E75) gems in the abdication treasury.</p>

@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Fairy Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PixieMischiefChallenge.png" alt="Pixie Mischief</p>" align="middle"> <b>Pixie Mischief</b></p>
-<p>The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!</p>
+<p>"The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 2+, Fairy Choir upgrade purchased.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Only use Farms, Inns and Blacksmiths during a run where you buy all Fairy upgrades within 1 minute of a new game.(Abdication or Reincarnation)</p>
@@ -17,7 +17,7 @@
 <hr>
 <p><b>Fairy Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png" alt="Donations</p>" align="middle"> <b>Donations</b></p>
-<p>Our farmers' crops are not growing. Perhaps a little magic can help change that.</p>
+<p>"Our farmers' crops are not growing. Perhaps a little magic can help change that."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 8+, Fairy Bloodline, Fairy challenge 1 completed.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Cast Fairy Chanting within 30 seconds of a new game with over 1000 Farms.(Abdication or Reincarnation)</p>
@@ -28,7 +28,7 @@
 <hr>
 <p><b>Fairy Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EnchantedLandsChallenges.png" alt="Enchanted Lands</p>" align="middle"> <b>Enchanted Lands</b></p>
-<p>The Fairies have developed a taste for honey. Find out quickly if they have a queen!</p>
+<p>"The Fairies have developed a taste for honey. Find out quickly if they have a queen!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 18+, and Fairy Unique Building, Fairy challenge 2 completed.</p>
 <p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 <p><b>Challenge</b>:  Have Swarm of Fairies (Fairy 3,3) give 60 Assistants in under a minute of a new game.(Abdication or Reincarnation)</p>
