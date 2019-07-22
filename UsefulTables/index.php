@@ -74,7 +74,7 @@ function buildBubbleSwarmTable(l, h) {
   var bubblevals = [];
   var manavals = [];
   var numvals = 0;
-  
+
   for (i = 1; i < maxbldg; i++) {
   	var bldgcount = applyBldgMultiplier(i,l,h);
     var bubbleval = bubbleSwarm(bldgcount);
@@ -119,7 +119,7 @@ $( "#dlsubmit" ).click(function(){
 $( "#dlinput" ).change(function(){
   bubbleSwarmActivate();
 })
-	
+
 $( "#archinput" ).change(function(){
   bubbleSwarmActivate();
 })
@@ -133,7 +133,7 @@ $( "#archinput" ).change(function(){
             <th colspan="2">Animal Companions</th>
         </tr>
         <tr>
-            <td>Hours of Playtime</td>
+            <td>Hour of Playtime</td>
             <th>Assistants</th>
         </tr>
         <tbody>
@@ -203,18 +203,20 @@ $( "#archinput" ).change(function(){
     <table class="numtable"" align="right" >
         <thead>
         <tr>
-            <th colspan="4">Primal Balance (GB +10)</th>
+            <th colspan="5">Primal Balance (GB +10)</th>
         </tr>
         <tr>
             <th>Targets</th>
             <th>A0</th>
             <th>A1</th>
             <th>A2</th>
+            <th>A3</th>
         </tr>
         </thead>
         <tbody>
         <tr>
             <td>1</td>
+            <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -224,60 +226,71 @@ $( "#archinput" ).change(function(){
             <td>1e5</td>
             <td>1e5</td>
             <td>1e5</td>
+            <td>1e5</td>
         </tr>
         <tr>
             <td>+2</td>
             <td>3.2e6</td>
             <td>5.25e6</td>
             <td>1.016e7</td>
+            <td>2.56e7</td>
         </tr>
         <tr>
+
             <td>+3</td>
             <td>2.43e7</td>
             <td>5.326e7</td>
             <td>1.516e8</td>
+            <td>6.561e8</td>
         </tr>
         <tr>
             <td>+4</td>
             <td>1.024e8</td>
             <td>2.756e8</td>
             <td>1.032e9</td>
+            <td>6.554e9</td>
         </tr>
         <tr>
             <td>+5</td>
             <td>3.125e8</td>
             <td>9.865e8</td>
             <td>4.569e9</td>
+            <td>3.906e10</td>
         </tr>
         <tr>
             <td>+6</td>
             <td>7.776e8</td>
             <td>2.796e9</td>
             <td>1.541e10</td>
+            <td>1.68e11</td>
         </tr>
         <tr>
             <td>+7</td>
             <td>1.681e9</td>
             <td>6.747e9</td>
             <td>4.305e10</td>
+            <td>5.765e11</td>
         </tr>
         <tr>
             <td>+8</td>
             <td>3.277e9</td>
             <td>1.447e10</td>
             <td>1.049e11</td>
+            <td>1.678e12</td>
         </tr>
         <tr>
             <td>+9</td>
             <td>5.905e9</td>
             <td>2.837e10</td>
             <td>2.299e11</td>
+            <td>4.305e12</td>
         </tr>
         <tr>
             <td>+10</td>
             <td>1e10</td>
             <td>5.179e10</td>
             <td>4.642e11</td>
+            <td>1e13</td>
         </tr>
         </tbody>
     </table>
