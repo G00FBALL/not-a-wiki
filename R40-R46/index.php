@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>Updated July 221st, 2019</b>
+    <p><b>Updated July 21st, 2019</b>
     <p>All builds come from the  <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
     <br/>
