@@ -8,6 +8,7 @@
 <br/>
 <br/>
     <p><b>Updated July 21st, 2019</b></p>
+    <p><b>Work in progress and some builds need testing</b>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <div class="shlisting">
