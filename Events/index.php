@@ -1191,7 +1191,7 @@ div#images div{
                 <p><b>Reward</b></p>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
                 <p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
-                <p><b>Formula</b>: (30 / floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
+                <p><b>Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
