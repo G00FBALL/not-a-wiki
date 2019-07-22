@@ -8,7 +8,7 @@
 <p>Added Ascension 3 (R160)</p>
 <p>Emerald Coins change to Amethyst Coins in A3</p>
 <p><b>Gem Formula to R</b>: (1e27 * 100 ^ (R - 160))</p>
-<p><b>Gem</b>: ((1e12 * (G * (G + 1))) / 2) * </p>
+<p><b>Gems to coins</b>: ((1e12 * (G * (G + 1))) / 2) * </p>
 <br/>
 <p><b>All Lineages above L50 will be lowered to L50 in A3</b></p>
 <br/>
