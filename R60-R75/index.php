@@ -62,7 +62,7 @@
                 <p><b>Requirements</b>: Titanline L17+</p>
                 <p><b>Range</b>: 0 - 1e28 (10 Oc) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
-                <p><b>Bloodline</b>: Undead</p>
+                <p><b>Bloodline</b>: Titan</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S200,S215,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W400,W1275,W1375" id="Build"></p>
                 <p>S200,S215,S305,S330,S1450,S1500,</p>
