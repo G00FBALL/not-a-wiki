@@ -3095,6 +3095,50 @@
                     <p>W150,W180,W290,W320,W330,W400
                 </div>
             </div>
+            <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (R40-R41)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow</p>
+                <p><b>Range</b>: 0 Gems - ?</p>
+                <p><b>Faction</b>: Titan</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A250,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"></p>
+                <p>S135,S150,S270,S330,S500,</p>
+                <p>C150,C251,C330,C340,C375,C400,</p>
+                <p>D55,D200,D245,D290,D320,</p>
+                <p>E135,E145,E275,E330,E400,</p>
+                <p>A105,A120,A250,A330,A400,</p>
+                <p>W150,W180,W290,W320,W330,W400</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dwangels (R42-46) + Stage 4 unlock<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Cyden</p>
+                <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings</p>
+                <p><b>Requirements</b>: Mana Waste is recommended for stage 4 unlock.</p>
+                <p><b>Range</b>: 0 Gems - ?</p>
+                <p><b>Faction</b>: Angel/Dwarf</p>
+                <p><b>Bloodline</b>: Druid</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A120,A150,A250,W120,W150,W180,W330,W400" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A150,A250,A330,W120,W150,W180,W330,W400" id="Build"> A330 is higher</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A150,A250,A400,W120,W150,W180,W330,W400" id="Build"> A400 is higher</p>
+                <p>S10,S150,S215,S330,S500,</p>
+                <p>C25,C80,C150,C330,C340,C400,C500,</p>
+                <p>D55,D175,D200,D250,D290,D320,</p>
+                <p>E135,E145,E330,E410,E480,</p>
+                <p>A50,A105,A120,A150,A250,</p>
+                <p>W120,W150,W180,W330,W400</p>
+                  <p><b>Notes</b>: Require tier 3 spells for R45,46 to get past 1e25 (10 Sp) gems. Recommended doing T3 Angel/Dwarf spell tiers (Call to Arms, Holy Light, God's hand, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.</p>
+                  <p><b>Notes</b>: Swap A120 with A330/A400 (Which is higher) if D175 is 1500 or higher (3 hours is 1589 assistants)</p>
+                  <p><b>Notes</b>: Swap W330 with W320 if higher</p>
+                  <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
+                </div>
+            </div>
         </div>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R47-R60</a></b></p>
             <div class="category autohide">
@@ -3321,6 +3365,90 @@
                     <p>A105,A120,A150,A250,A305,A400,
                     <p>W150,W180,W275,W290,W400,W1375
                     <p><b>Notes</b>: Keep excavations low, DB5 takes 30-40 min first time, 5-15 min after and provides a noticable boost, DB6 takes (20-60 min)
+            </div>
+        </div>
+            <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R61-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Shophaune</p>
+                <p><b>Requirements</b>: Undead Lineage level 5+</p>
+                <p><b>Range</b>: 1e27 (1 Oc) - 1e80 (100 QiVg) Gems</p>
+                <p><b>Faction</b>: Faceless/Dragon</p>
+                <p><b>Bloodline</b>: Undead</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A150,A305,A400,W150,W180,W275,W400,W1375" id="Build"> e74 (100 TVg) gems+</p>
+                <p>S215,S270,S305,S330,S1450,S1500,</p>
+                <p>C250,C340,C400,C1300,C1325,</p>
+                <p>D260,D290,D320,D1125,D1275,D1375,</p>
+                <p>E135,E145,E460,E1225,E1425,</p>
+                <p>A105,A120,A150,A305,A400,</p>
+                <p>W150,W180,W275,W400,W1375</p>
+                <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.</p>
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e74 (100 TVg) gems+).</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Titan Starter (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Cyden</p>
+                <p><b>Requirements</b>: Undead Lineage level 5+</p>
+                <p><b>Range</b>: 0 - 1e28 (10 Oc) Gems</p>
+                <p><b>Faction</b>: Titan/Dragon</p>
+                <p><b>Bloodline</b>: Undead</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D150,D200,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"></p>
+                <p>S105,S200,S215,S270,S330,S500,</p>
+                <p>C120,C150,C250,C330,C340,C400,C500,</p>
+                <p>D55,D150,D200,D250,D290,D320,</p>
+                <p>E135,E145,E275,E320,E330,E400,</p>
+                <p>A105,A120,A250,A305,A330,A400,</p>
+                <p>W120,W150,W180,W260,W320,W330,W400</p>
+                <p><b>Notes</b>: Excavate to get 400 Royal Exchanges for lineage.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (R70-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: TemperGrace</p>
+                <p><b>Range</b>: 1e28 (10 Oc) - 1e88 (10 OcVg) Gems</p>
+                <p><b>Faction</b>: Faceless/Dragon</p>
+                <p><b>Bloodline</b>: Undead</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E350,E460,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S135,S215,S270,S305,S330,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E350,E1225,E1425,A105,A120,A150,A305,A330,A400,W150,W180,W275,W290,W400,W1375" id="Build"> e68 (100 UVg) gems+</p>
+                <p>S135,S215,S270,S305,S330,S1450,S1500,</p>
+                <p>C150,C250,C340,C400,C1300,C1325,</p>
+                <p>D55,D260,D290,D320,D1125,D1275,D1375,</p>
+                <p>E135,E145,E350,E460,E1225,E1425,</p>
+                <p>A105,A120,A150,A305,A330,A400,</p>
+                <p>W150,W180,W275,W290,W400,W1375</p>
+                <p><b>Notes</b>: Excavating for DB5 (Dragon's Breath 5) is recommended.</p>
+                <p><b>Notes</b>: Replace E460 with E320 when able to buy Exchange Highlord (e68 (100 UVg) gems+).</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Stoic Resistance (R70+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Artcrow</p>
+                <p><b>Range</b>: 0 Gems</p>
+                <p><b>Requirements</b>: Fortune Teller Machine, Druid Lineage 5+. Must be done in first run after Reincarnating.</p>
+                <p><b>Faction</b>: Titan/Dragon</p>
+                <p><b>Bloodline</b>: Druid</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S105,S300,S330,S400,S500,S545,C135,C150,C250,C330,C375,C400,C460,D55,D200,D245,D250,D290,D320,E145,E250,E275,E320,E330,E480,A105,A120,A150,A305,A330,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"></p>
+                <p>S105,S300,S330,S400,S500,S545,</p>
+                <p>C135,C150,C250,C330,C375,C400,C460,</p>
+                <p>D55,D200,D245,D250,D290,D320,</p>
+                <p>E145,E250,E275,E320,E330,E480,</p>
+                <p>A105,A120,A150,A305,A330,A400,</p>
+                <p>W120,W150,W180,W260,W320,W330,W400</p>
+                <p><b>Notes</b>: Excavating for lineage is required.</p>
+                <p><b>Notes</b>: Recommended spamming clicks or staying offline for 10 minutes or so for buffing C135 and C460.</p>
+                <p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.</p>
+                <p><b>Notes</b>: Estimated run time at 4-5 hours disregarding beneficial sunforce effects.</p>
             </div>
         </div>
         <div class="shelementwhole">

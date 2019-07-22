@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated May 19th, 2019</b>
+    <p><b>Updated July 21st, 2019</b>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <br/>
@@ -56,138 +56,152 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R49-60)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Wlerin</p>
-                <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
+                <p><b>Range</b>: 0 - ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S215,S270,S330,S500,C120,C150,C250,C330,C340,C400,D55,D150,D250,D290,D320,E135,E145,E275,E320,E330,A105,A120,A250,A305,A400,W120,W150,W180,W260,W320,W400" id="Build"></p>
-                <p>S105,S215,S270,S330,S500,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C120,C150,C250,C330,C340,C400,D55,D250,D290,D320,D330,E135,E145,E275,E320,E330,A120,A250,A270,A305,A400,W120,W150,W180,W260,W320,W400" id="Build"></p>
+                <p>S200,S215,S270,S330,S500,</p>
                 <p>C120,C150,C250,C330,C340,C400,</p>
-                <p>D55,D150,D250,D290,D320,</p>
+                <p>D55,D250,D290,D320,D330,</p>
                 <p>E135,E145,E275,E320,E330,</p>
-                <p>A105,A120,A250,A305,A400,</p>
+                <p>A120,A250,A270,A305,A400,</p>
                 <p>W120,W150,W180,W260,W320,W400</p>
             </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R49)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
+                <p><b>Author</b>: hoh boy</p>
+                <p><b>Requirement</b>: Dragon challenge 1
                 <p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D350,E135,E145,E400,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"></p>
-                <p>S215,S270,S305,S330,S500,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D330,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S215,S305,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D330,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> S305 is higher</p>
+                <p>S200,S215,S270,S330,S500,</p>
                 <p>C105,C150,C250,C330,C340,C400,</p>
-                <p>D55,D250,D290,D320,D350,</p>
+                <p>D55,D250,D290,D320,D330,</p>
                 <p>E135,E145,E400,E460,E1225,</p>
-                <p>A120,A250,A305,A400,A1200,</p>
+                <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W150,W180,W260,W320,W400</p>
-                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
-            </div>
+                <p><b>Notes</b>: Swap S270->S305 if higher</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
+                </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R50)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>
+                <p><b>Author</b>: </p>
+                <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"></p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> W1275 not unlocked</p>
-                <p>S215,S270,S305,S330,S500,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400," id="Build"> W1275 not unlocked</p>
+                <p>S200,S215,S270,S330,S500,</p>
                 <p>C105,C150,C250,C330,C340,C400,</p>
-                <p>D55,D250,D290,D320,D1275,</p>
-                <p>E135,E145,E275,E460,E1225,</p>
-                <p>A120,A250,A305,A400,A1200,</p>
+                <p>D250,D290,D320,D330,D1275,</p>
+                <p>E135,E145,E400,E460,E1225,</p>
+                <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W150,W180,W260,W400,W1275</p>
-                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
-                <p><b>Notes</b>: Use W320 if W1275 is not unlocked yet.</p>
+                <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
             </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R51)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
+                <p><b>Author</b>: </p>
                 <p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"></p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> W1275 not unlocked</p>
-                <p>S215,S270,S305,S330,S500,</p>
-                <p>C150,C250,C330,C340,C400,C1300,</p>
-                <p>D55,D150,D290,D320,D1275,</p>
-                <p>E135,E145,E275,E460,E1225,</p>
-                <p>A120,A250,A305,A400,A1200,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400," id="Build"> W1275 not unlocked</p>
+                <p>S200,S215,S270,S330,S500,</p>
+                <p>C105,C150,C250,C340,C400,C1300,</p>
+                <p>D250,D290,D320,D330,D1275,</p>
+                <p>E135,E145,E400,E460,E1225,</p>
+                <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W150,W180,W260,W400,W1275</p>
-                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
-                <p><b>Notes</b>: Use W320 if W1275 is not unlocked yet.</p>
+                <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
             </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R52)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
+                <p><b>Author</b>: </p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"></p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1375" id="Build"> W1275 not unlocked</p>
-                <p>S215,S270,S305,S330,S500,</p>
-                <p>C150,C250,C330,C340,C400,C1300,</p>
-                <p>D55,D150,D290,D320,D1275,</p>
-                <p>E135,E145,E275,E460,E1225,</p>
-                <p>A120,A250,A305,A400,A1200,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W180,W260,W320,W400,W1375" id="Build"> no W1275</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"> no W1375</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> no W1275, W1375</p>
+                <p>S200,S215,S270,S330,S500,</p>
+                <p>C105,C150,C250,C340,C400,C1300,</p>
+                <p>D250,D290,D320,D330,D1275,</p>
+                <p>E135,E145,E400,E460,E1225,</p>
+                <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W180,W260,W400,W1275,W1375</p>
-                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
-                <p><b>Notes</b>: Use W320 if W1275 is not unlocked yet.</p>
+                <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
+                <p><b>Notes</b>: Swap W1375->W150 if not unlocked</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
             </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R53-R54)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
+                <p><b>Author</b>: </p>
                 <p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"></p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1375" id="Build"> W1275 not unlocked</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"> no E1425</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C150,C250,C330,C340,C400,C1300,D55,D150,D290,D320,D1275,E135,E145,E275,E460,E1225,A120,A250,A305,A400,A1200,W120,W180,W260,W320,W400,W1275" id="Build"> E1425 not unlocked</p>
-                <p>S215,S270,S305,S330,S500,</p>
-                <p>C150,C250,C330,C340,C400,C1300,</p>
-                <p>D55,D150,D290,D320,D1275,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W320,W400,W1375" id="Build"> no W1275</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"> no W1375</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> no E1425,W1375,W1375</p>
+                <p>S200,S215,S270,S330,S500,</p>
+                <p>C105,C150,C250,C340,C400,C1300,</p>
+                <p>D250,D290,D320,D330,D1275,</p>
                 <p>E135,E145,E460,E1225,E1425,</p>
-                <p>A120,A250,A305,A400,A1200,</p>
+                <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W180,W260,W400,W1275,W1375</p>
-                <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
-                <p><b>Notes</b>: Use W320 if W1275 is not unlocked yet.</p>
-                <p><b>Notes</b>: Use E275 if E1425 is not unlocked yet.</p>
+                <p><b>Notes</b>: Swap E1425->E400 if not unlocked</p>
+                <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
+                <p><b>Notes</b>: Swap W1375->W150 if not unlocked</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
             </div>
           </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DM-Dragtans (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Lapare</p>
+                <p><b>Author</b>: </p>
                 <p><b>Range</b>: 1e33 (1 Dc) - ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S500,C250,C330,C340,C400,C1300,C1500,D55,D150,D290,D320,D1275,E135,E145,E460,E1225,E1425,A120,A250,A305,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"></p>
-                <p>S215,S270,S305,S330,S500,</p>
-                <p>C250,C330,C340,C400,C1300,C1500,</p>
-                <p>D55,D150,D290,D320,D1275,</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C150,C250,C340,C400,C1300,C1500,D250,D290,D320,D330,D1275,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build"></p>
+                <p>S200,S215,S270,S330,S500,</p>
+                <p>C150,C250,C340,C400,C1300,C1500,</p>
+                <p>D250,D290,D320,D330,D1275,</p>
                 <p>E135,E145,E460,E1225,E1425,</p>
-                <p>A120,A250,A305,A400,A1200,</p>
+                <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W180,W260,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
                 <p><b>Notes</b>: Use only if DC3 is not unlocked yet, as Druidline Faceless is faster.</p>
@@ -196,18 +210,18 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom</p>
+                <p><b>Author</b>: </p>
                 <p><b>Requirements</b>: Dragon Challenge 3</p>
                 <p><b>Range</b>: 1e33 (1 Dc) - ? Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A305,A400,A545,W180,W275,W290,W400,W1375" id="Build"></p>
-                <p>S215,S270,S305,S330,S1450,S1500,</p>
+                  <input type="text" value="S200,S215,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W290,W400,W1375" id="Build"></p>
+                <p>S200,S215,S305,S330,S1450,S1500,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D260,D290,D320,D1125,D1275,D1375,</p>
                 <p>E135,E145,E460,E1225,E1425,</p>
-                <p>A105,A120,A305,A400,A545,</p>
+                <p>A105,A120,A270,A305,A400,</p>
                 <p>W180,W275,W290,W400,W1375</p>
             </div>
           </div>
@@ -224,13 +238,21 @@
                 <p><b>Faction</b>: Fairy/Dwarf</p>
                 <p><b>Bloodline</b>: Goblin</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S180,S215,S330,S500,S590,C80,C105,C150,C330,C340,C400,C500,D55,D200,D250,D290,D320,E50,E135,E145,E330,E410,A105,A120,A250,A305,A330,W120,W150,W180,W250,W400" id="Build"></p>
-                <p>S150,S180,S215,S330,S500,S590,</p>
+                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C105,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E50,E135,E145,E330,E410,A105,A120,A250,A270,A305,W120,W180,W250,W400,W1275" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C105,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E50,E135,E145,E330,E410,A120,A250,A270,A305,A330,W120,W180,W250,W400,W1275" id="Build"> A330 is higher</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C105,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E50,E135,E145,E330,E410,A105,A120,A250,A270,A305,W120,W150,W180,W250,W400" id="Build"> no W1275</p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C105,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E50,E135,E145,E330,E410,A120,A250,A270,A305,A330,W120,W150,W180,W250,W400" id="Build"> A330 higher and no W1275</p>
+                <p>S200,S150,S180,S215,S330,S500,</p>
                 <p>C80,C105,C150,C330,C340,C400,C500,</p>
-                <p>D55,D200,D250,D290,D320,</p>
+                <p>D55,D200,D205,D290,D320,</p>
                 <p>E50,E135,E145,E330,E410,</p>
-                <p>A105,A120,A250,A305,A330,</p>
-                <p>W120,W150,W180,W250,W400</p>
+                <p>A105,A120,A250,A270,A305,</p>
+                <p>W120,W180,W250,W400,W1275</p>
+                <p><b>Notes</b>: Swap A105->A330 if higher</p>
+                <p><b>Notes</b>: Swap W1275->W150 if not unlocked</p>
             </div>
           </div>
         <div class="shelementwhole">

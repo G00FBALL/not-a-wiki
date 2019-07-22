@@ -75,7 +75,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnBloodline.png" align="middle"> Djinn</p></b>
 <p><b>Requirements</b>: Djinn Unlocked, R130+</p>
 <p><b>Effect</b>: Gain a new spell that costs 500,000 mana and lasts 1 minute as a fixed duration. Each time you cast it, it activates a vanilla or primary alignment spell at Tier 7.</p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png"></p></b>
+<br/>
+<p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"></p>
+<p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
+<p><b>Note</b>: Can not access to Holy Frenzy regardless of alignment.
+<p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
 <p><b>2</b>. Cannot cast a spell that is already active.

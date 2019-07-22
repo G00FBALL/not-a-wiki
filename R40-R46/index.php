@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>Updated May 22nd, 2019</b>
+    <p><b>Updated July 221st, 2019</b>
     <p>All builds come from the  <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
     <br/>
@@ -18,47 +18,26 @@
     <p><b>Production</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titan (R40-R41)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Artcrow</p>
-                <p><b>Range</b>: 0 Gems - ?</p>
-                <p><b>Faction</b>: Titan</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><button onclick="myFunction($(this))">Copy Build</button>
-                <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A250,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"></p>
-                <p>S135,S150,S270,S330,S500,</p>
-                <p>C150,C251,C330,C340,C375,C400,</p>
-                <p>D55,D200,D245,D290,D320,</p>
-                <p>E135,E145,E275,E330,E400,</p>
-                <p>A105,A120,A250,A330,A400,</p>
-                <p>W150,W180,W290,W320,W330,W400</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Dwangels (R42-46) + Stage 4 unlock<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangel R40-46 + Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings</p>
-                <p><b>Requirements</b>: Mana Waste is recommended for stage 4 unlock.</p>
+                <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4
+                <p><b>Requirement</b>: Stage 4 Unlock will need Mana Waste
                 <p><b>Range</b>: 0 Gems - ?</p>
-                <p><b>Faction</b>: Angel/Dwarf</p>
+                <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A120,A150,A250,W120,W150,W180,W330,W400" id="Build"></p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A150,A250,A330,W120,W150,W180,W330,W400" id="Build"> A330 is higher</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S10,S150,S215,S330,S500,C25,C80,C150,C330,C340,C400,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A50,A105,A150,A250,A400,W120,W150,W180,W330,W400" id="Build"> A400 is higher</p>
-                <p>S10,S150,S215,S330,S500,</p>
-                <p>C25,C80,C150,C330,C340,C400,C500,</p>
-                <p>D55,D175,D200,D250,D290,D320,</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S10,S150,S200,S215,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A120,A150,A250,A270,W120,W150,W180,W330,W400" id="Build"></p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S10,S200,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A120,A150,A250,A270,W120,W150,W180,W330,W400" id="Build"> Tier 3 Spells</p>
+                <p>S10,S150,S200,S215,S500,</p>
+                <p>C80,C150,C330,C340,C400,C25,C500,</p>
+                <p>D175,D200,D205,D250,D290,D320,</p>
                 <p>E135,E145,E330,E410,E480,</p>
-                <p>A50,A105,A120,A150,A250,</p>
+                <p>A50,A120,A150,A250,A270,</p>
                 <p>W120,W150,W180,W330,W400</p>
-                  <p><b>Notes</b>: Require tier 3 spells for R45,46 to get past 1e25 (10 Sp) gems. Recommended doing T3 Angel/Dwarf spell tiers (Call to Arms, Holy Light, God's hand, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.</p>
-                  <p><b>Notes</b>: Swap A120 with A330/A400 (Which is higher) if D175 is 1500 or higher (3 hours is 1589 assistants)</p>
-                  <p><b>Notes</b>: Swap W330 with W320 if higher</p>
-                  <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
+                <p><b>Note</b>: Swap S150->S330 if you have tier 3 spells</p>
+                <p><b>Note</b>: C branch research placements is intentional )reload after horn)</p>
             </div>
         </div>
         </div>
@@ -133,14 +112,16 @@
                 <p><b>Faction</b>: Fairy/Dwarf</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S150,S180,S215,S330,S500,S590,C80,C120,C150,C330,C340,C400,C500,D55,D200,D250,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400" id="Build"></p>
-                  <p>S150,S180,S215,S330,S500,S590,</p>
+                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A270,W120,W150,W180,W320,W400" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A250,A270,A330,W120,W150,W180,W320,W400" id="Build"> A330 is higher</p>
+                  <p>S200,S150,S180,S215,S330,S500,</p>
                   <p>C80,C120,C150,C330,C340,C400,C500,</p>
-                  <p>D55,D200,D250,D290,D320,</p>
+                  <p>D55,D200,D205,D290,D320,</p>
                   <p>E145,E330,E400,E410,E480,</p>
-                  <p>A105,A120,A150,A250,A330,</p>
+                  <p>A105,A120,A150,A250,A270,</p>
                   <p>W120,W150,W180,W320,W400</p>
-                  <p>Notes: Swap A330 with A400 if higher</p>
+                  <p>Notes: Swap A150->A330 if higher</p>
                   <p><b>Notes</b>: Gets to 3750 assistants instantly without Sun Force Assistants</p>
                   <p><b>Notes</b>: Estimated time to 1e70 coins: 2.5-3 hours (at 1e29) or 30 minutes (at 1e30)</p>
             </div>
