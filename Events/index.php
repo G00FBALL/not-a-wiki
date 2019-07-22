@@ -370,7 +370,7 @@ div#images div{
                 <p>He will offer you a new deal if you accept.</p>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" align="middle"> 3500 Goblin Crowns</b></p>
-                <p>A greedy shady merchant wants to exchange 3500 Holy Goblin Crowns for 100 Rubies.</p>
+                <p>A greedy shady merchant wants to exchange 3500 Goblin Crowns for 100 Rubies.</p>
                 <p>These are all the crowns he could gather.</p>
                     <hr>
             </div>
@@ -1377,7 +1377,7 @@ div#images div{
                 <p>He will offer you a new deal if you accept.</p>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 3500 Goblin Crowns</b></p>
-                <p>A greedy shady merchant wants to exchange 3500 Holy Goblin Crowns for 100 Rubies.</p>
+                <p>A greedy shady merchant wants to exchange 3500 Goblin Crowns for 100 Rubies.</p>
                 <p>These are all the crowns he could gather.</p>
                     <hr>
             </div>
@@ -2241,7 +2241,7 @@ div#images div{
                 <p>A greedy shady merchant wants to exchange 1250 Goblin Crowns for 45 Rubies.</p>
                 <p>He will offer you a new deal if you accept.</p>
                 <p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 3500 Goblin Crowns</b></p>
-                <p>A greedy shady merchant wants to exchange 3500 Holy Goblin Crowns for 100 Rubies.</p>
+                <p>A greedy shady merchant wants to exchange 3500 Goblin Crowns for 100 Rubies.</p>
                 <p>These are all the crowns he could gather.</p>
             </div>
         </div>
