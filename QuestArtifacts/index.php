@@ -107,7 +107,7 @@
 <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
 <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-<p><b>Chance</b>: (log10(1 + x) ^ 3 / 250000 (2.5M))%, where x is faction coins this game.</p>
+<p><b>Chance</b>: (log10(1 + x) ^ 3 / 2500000 (2.5M))%, where x is faction coins this game.</p>
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png align=middle><b> Third Crystal Fragment</b></p>
 <p><b>Clue</b>: Also acts as a spell catalyst.</p>

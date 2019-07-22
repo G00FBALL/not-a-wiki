@@ -270,7 +270,7 @@
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk1.png" align="middle"><b> Goblin Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
-    <p><b>Effect</b>: While Goblin's Greed is active, Tax Collections are worth more seconds multiplicatively based on the amount of assistants you own.</p>
+    <p><b>Effect</b>: When using Goblin Bloodline, Tax Collections are worth more seconds based on the amount of assistants you own.</p>
     <p><b>Formula</b>: (0.75 * x ^ 0.25), where x is amount of assistants you own.</p>
     <br/>
     <p><b>Level 10</b></p>

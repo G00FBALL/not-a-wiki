@@ -516,7 +516,7 @@ div#images div{
 <br/>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png align=middle><b> Second Crystal Fragment</b></p>
 <p><b>Old Chance</b>: (log10(1 + x) ^ 3 / 5000000 (5M))%, where x is faction coins this game.</p>
-<p><b>New Chance</b>: (log10(1 + x) ^ 3 / 250000 (2.5M))%, where x is faction coins this game.</p>
+<p><b>New Chance</b>: (log10(1 + x) ^ 3 / 2500000 (2.5M))%, where x is faction coins this game.</p>
 <br/>
 <p><b>Lineage Note</b>: Base cost scaling reduced to 8 from 15. Now increases base cost multiplier by 1 every 30 levels</p>
 <br/>
@@ -650,7 +650,7 @@ div#images div{
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk1.png" align="middle"><b> Goblin Perk 1</b></p>
 <p><b>Requirement</b>: Reach Lineage Level 5.</p>
-<p><b>Effect</b>: While Goblin's Greed is active, Tax Collections are worth more seconds multiplicatively based on the amount of assistants you own.</p>
+<p><b>Effect</b>: When using Goblin Bloodline, Tax Collections are worth more seconds based on the amount of assistants you own.</p>
 <p><b>Old Formula</b>: (0.35 * x ^ 0.35), where x is amount of assistants you own.</p>
 <p><b>New Formula</b>: (0.75 * x ^ 0.25), where x is amount of assistants you own.</p>
 <br/>
