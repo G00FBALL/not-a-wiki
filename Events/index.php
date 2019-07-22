@@ -11,7 +11,7 @@
     <p><b>Event has started</b></p>
     <p id="start">
     <!--<script>
-      var countDownDate1 = new Date("May 17, 2019 12:01:00 UTC").getTime();
+      var countDownDate1 = new Date("Jul 22, 2019 12:01:00 UTC").getTime();
       var x = setInterval(function() {
           var now = new Date().getTime();
           var distance = countDownDate1 - now;
@@ -25,11 +25,11 @@
               clearInterval(x);
           }
           }, 1000);
-      </script></p>--!>
+      </script></p>-->
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("May 21, 2019 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("Jul 26, 2019 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
@@ -52,7 +52,7 @@ var x = setInterval(function() {
         <tr>
             <th>Rubies</th>
             <th colspan="1">Event</th>
-            <th colspan="5">Total Cumulative Bonus 225%</th>
+            <th colspan="5">Total Cumulative Bonus 233%</th>
         </tr>
         </thead>
         <tbody>
@@ -109,6 +109,7 @@ var x = setInterval(function() {
             <td></td>
             <td>8%</td>
             <td>8%</td>
+            <td>8%</td>
         </tr>
         <tr>
             <td>0</td>
@@ -158,8 +159,8 @@ var x = setInterval(function() {
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/realm/Factions/picks/TotalEventBW2019.png" usemap="#TotalEventEaster2019-map">
-    <map name="TotalEventEaster2019-map">
+    <p><img src="/realm/Factions/picks/TotalEventW3.6.png" usemap="#TotalEventW3.6.-map">
+    <map name="TotalEventW3.6.-map">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,45,63,100" shape="rect">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="67,45,126,100" shape="rect">
     <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Santa'sHelpers2016.png align=middle> Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Dwarf is allowed.</p><p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 &amp;amp; R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="132,45,189,102" shape="rect">
@@ -170,13 +171,13 @@ var x = setInterval(function() {
     <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png align=middle> Feel the Love<p>Type: Feat, 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="4,109,62,165" shape="rect">
     <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/ILoveYouinEveryLanguage2017.png align=middle> I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="68,108,126,165" shape="rect">
     <area research="Valentines 2018<p><img src=http://musicfamily.org/realm/Factions/picks/AssistantLove2018.png align=middle> Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock this feat, you will permanently unlock a new color option for the mana bar." coords="131,108,189,166" shape="rect">
-    <area research="Valentines 2019<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateBoxFeat2019.png align=middle> Chocolate Box<p>Type: Feat<p>Requirement: Have at least 72 hours of Call to Love activity time during the Valentine event.</p><p>Note: If you unlock this feat, you will permanently unlock a new upgrade with the same name.<p>Cost: Free<p>Effect: Increase your event bonus by a multiplicative 50%.<p>Note: Once unlocked, it is available during any Seasonal Event." coords="196,109,254,165" shape="rect">
+    <area research="Valentines 2019<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateBoxFeat2019.png align=middle> Chocolate Box<p>Type: Feat<p>Requirement: Have at least 72 hours of Call to Love activity time during the Valentine event.</p><p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Increase your event bonus by a multiplicative 50%.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="196,109,254,165" shape="rect">
     <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/EggHunter7000Easter2017.png align=middle> Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="260,110,316,166" shape="rect">
     <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/EggCollection8Easter2017.png align=middle> Egg Collection<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="323,108,381,165" shape="rect">
     <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenChickenEaster2017.png align=middle> Golden Chicken<p>Type: Feat<p>Requirement: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="387,108,446,165" shape="rect">
     <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/GreyEaster2017.png align=middle> Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,173,60,229" shape="rect">
     <area research="Easter 2018<p><img src=http://musicfamily.org/realm/Factions/picks/BunnyHelpers2018.png align=middle> Bunny Helpers<p>Requirement: Collect a full stack of 480 Eggs while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,173,124,229" shape="rect">
-    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg<p>Collect a full stack of  Eggs while having at least 3 active spells.<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Upgrade Effect: Increase base clicking reward by 1% of your Mana Regeneration.<p>Note: Upgrade only available during seasonal events" coords="134,173,191,230" shape="rect">
+    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg<p>Collect a full stack of  Eggs while having at least 3 active spells.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Increase base clicking reward by 100% of your Mana Regeneration.<p>Effect: Also clicks once per second.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="134,173,191,230" shape="rect">
     <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/ChillOut.PNG align=middle> Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,172,254,230" shape="rect">
     <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/WarmUp.PNG align=middle> Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,172,317,229" shape="rect">
     <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/SummeraanAlliance.PNG align=middle> Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="324,172,383,229" shape="rect">
@@ -191,16 +192,16 @@ var x = setInterval(function() {
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SacredHoliness2017.png align=middle> Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="6,301,62,360" shape="rect">
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/DarkestHeresy2017.png align=middle> Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,301,126,358" shape="rect">
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/Indifference2018.png align=middle> Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="133,301,190,358" shape="rect">
-    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png align=middle>iddle;> Seraphim Champion<p>Type: Feat, 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,301,253,358" shape="rect">
+    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png align=middle> Seraphim Champion<p>Type: Feat, 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,301,253,358" shape="rect">
     <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/AsmondeanChampion2017.png align=middle> Asmodean Champion<p>Type: Feat, 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="259,302,317,358" shape="rect">
-    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/WorldRestoration.png align=middle> World Restoration<p>Type: Feat<p>Requirements: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Note: This Feat is not needed to unlock new mana color" coords="325,301,383,359" shape="rect">
+    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/WorldRestoration.png align=middle> World Restoration<p>Type: Feat<p>Requirements: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p><p><b>Formula</b>: (25 + 0.5 * x ^ 0.5) where x is your least used alignment</p><p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color" coords="325,301,383,359" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="389,301,448,359" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="5,367,62,425" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="69,368,125,423" shape="rect">
-    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.Goblin Invasion<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,366,190,424" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,366,190,424" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect a full stack of 480 Goblin Crowns while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: (0.45 * x ^ 0.45), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="196,367,255,425" shape="rect">
     </map></p>
     <hr>
-
 <style>
   div#images{
   width:100%;
@@ -253,7 +254,7 @@ div#images div{
 </div>
 </div>
 <br>
-<p><b>Requirement</b>: If you unlock all of the event's feats, you will permanently unlock a new color option for the mana bowl from that event.</p>
+<p><b>Requirement</b>: If you unlock certain event feats, you will permanently unlock a new color option for the mana bowl from that event.</p>
 <p>Once unlocked these can be changed in the Event tab. (Only while no event is going on)</p>
     <hr>
     <p><b>Events</b></p>
@@ -261,14 +262,128 @@ div#images div{
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2019 Events</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (July 22 - July 26, 2019)</a></b></p>
+            <div class="autohide">
+                <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
+                <p><b>Cost</b>: Free</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
+                <p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+                <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                    <br/>
+                <p><b>Event Resources</b></p>
+                <p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b></p>
+                <p>During the Goblin Invasion Event you will be able to collect Goblin Crowns, appearing in a random location of your screen at a rate of 1 per minute, stacking up to 480 units (8 hours). These Resources will be used to either fight or support the invading Goblin Army: both choices will grant you new bonuses and unlock new unique upgrades. You can also complete Quests and Feats, also found in the Event panel. Aside for completion purposes, completed quests will also grant a small permanent production bonus. Remember that all Goblin Invasion upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
+                <p>The Formula for the cost needed to level a faction is floor((level + 1) ^ 0.85) Goblin Crowns</p>
+                <p>You need 203 Goblin Crowns (total) to level a faction to level 25, 740 to level 50, and 2685 to level 100.</p>
+                <p>You need 5370 Goblin Crowns to complete all quest by leveling both factions to level 100, Total time 3 days 17 hours 30 minutes without scrying.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/FighttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Fight the Goblin Army</b></p>
+                <p><b>Requirement</b>: Good or Neutral alignment</p>
+                <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/SupporttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Support the Goblin Army</b></p>
+                <p><b>Requirement</b>: Evil or Neutral alignment</p>
+                <p><b>Effect</b>: Increase your assistants by 1% per level.</p>
+                <hr>
+                <p><b>Event Quest</b></p>
+                <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
+                <p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
+                <p><b>Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
+                <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
+                <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Spare Green Hands</b></p>
+                <p><b>Effect</b>: Each manual click counts as 1000 clicks for all purposes.</p>
+                    <br/>
+                <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
+                <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
+                <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8)%, where x is Evil spells cast in this Reincarnation.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
+                <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+                <p><b>Reward</b></p>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
+                <p><b>Effect</b>: Increase the production of all buildings based on total time spent, Also further increase Offline production by the same amount.</p>
+                <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                <hr>
+                <p><b>Event Feat</b></p>
+                <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
+                <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
+                <p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
+                 <p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarf is 1, any other good/dwarf is not counted)</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
+                <p><b>Requirement</b>: Collect a full stack of Goblin Crowns while affiliated with Goblins.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
+                <p><b>Requirement</b>: Collect a full stack of 480 Goblin Crowns while having no faction.</p>
+                <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+                <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
+                <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is amount of buildings you own. (multiplicative)</p>
+                <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+                <hr>
+                <p><b>Shop Item</b></p>
+                <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" align="middle"> 75 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 75 Goblin Crowns for 5 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/300GoblinCrowns2017.png" align="middle"> 300 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 300 Goblin Crowns 15 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/1250GoblinCrowns2017.png" align="middle"> 1250 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 1250 Goblin Crowns for 45 Rubies.</p>
+                <p>He will offer you a new deal if you accept.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" align="middle"> 3500 Goblin Crowns</b></p>
+                <p>A greedy shady merchant wants to exchange 3500 Holy Goblin Crowns for 100 Rubies.</p>
+                <p>These are all the crowns he could gather.</p>
+                    <hr>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">4th Anniversary - Blood Wars (May 17 - May 21, 2019)</a></b></p>
             <div class="autohide">
+
                 <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                 <p><b>Cost</b>: Free</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Holy Symbols and Lava Stones collected.</p>
                 <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
                 <br/>
-
 <style>
   div#images{
   width:100%;
@@ -1191,7 +1306,7 @@ div#images div{
                 <p><b>Reward</b></p>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
                 <p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
-                <p><b>Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
+                <p><b>Formula</b>: (30 / floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
                     <br/>
                 <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
                 <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
