@@ -29,7 +29,7 @@
 <p><b>Event ends in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("Jul 26, 2019 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("Jul 26, 2019 17:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;
