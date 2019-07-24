@@ -80,21 +80,21 @@
 <p>Can be very powerful... when lucky.</p>
 <p><b>Requirement</b>: Fragment of a Titan Statue (Only need bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
-<p><b>Cost</b>: 500 Angel Coins, 500 Goblin Coins</p>
+<p><b>Cost</b>: 250 Angel Coins, 250 Goblin Coins</p>
 <hr>
 <p><b><a href="/realm/DruidFaction">Druid</a></b></p>
 <p><a href="/realm/DruidFaction"><img src="http://musicfamily.org/realm/Factions/picks/DruidsTradeTreatyFactionUpgrade.png"></a></p>
 <p>About magic and balance.</p>
 <p><b>Requirement</b>: Druidic Runestone (Only need bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
-<p><b>Cost</b>: 500 Elven coins, 500 Demon coins</p>
+<p><b>Cost</b>: 250 Elven coins, 250 Demon coins</p>
 <hr>
 <p><b><a href="/realm/FacelessFaction">Faceless</a></b></p>
 <p><a href="/realm/FacelessFaction"><img src="http://musicfamily.org/realm/Factions/picks/FacelessTradeTreatyFactionUpgrade.png"></a></p>
 <p>Feature perks that becomes stronger with time.</p>
 <p><b>Requirement</b>: Octopus Shaped Spine (Only need bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
-<p><b>Cost</b>: <p><p><b>Cost</b> 500 Fairy coins, 500 Undead coins</p>
+<p><b>Cost</b>: <p><p><b>Cost</b> 250 Fairy coins, 250 Undead coins</p>
 <hr>
 <p><b>Prestige Factions</b></p>
 <p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf ) or Droblins (Goblin+Drow).See the <a href="http://musicfamily.org/realm/DwarfFaction">Dwarf</a> and <a href="http://musicfamily.org/realm/DrowFaction">Drow</a> pages for more details.</p>
