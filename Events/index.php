@@ -332,7 +332,7 @@ div#images div{
                 <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                 <p><b>Reward</b></p>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings based on total time spent, Also further increase Offline production by the same amount.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
                 <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
                 <hr>
                 <p><b>Event Feat</b></p>
@@ -1346,7 +1346,7 @@ div#images div{
                 <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                 <p><b>Reward</b></p>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings based on total time spent, Also further increase Offline production by the same amount.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
                 <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
                 <hr>
                 <p><b>Event Feat</b></p>
@@ -2218,7 +2218,7 @@ div#images div{
                 <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                 <p><b>Reward</b></p>
                 <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings based on total time spent, Also further increase Offline production by the same amount.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
                 <p><b>Formula</b>: (0.01*x^0.7)%, where x is total time spent in seconds.</p>
                 <hr>
                 <p><b>Event Feat</b></p>
