@@ -146,7 +146,7 @@
 <p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></p></b>
 <p>Upgraded from Slave Pens/Warrior Barracks/Deep Mines</p>
-<p>Upgrade Orcish Upgraded from Slave Pens/Warrior Barracks/Deep Mines to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p>Upgrade Slave Pens/Warrior Barracks/Deep Mines to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirement</b>: Pavilion Quest.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>

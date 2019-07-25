@@ -227,7 +227,7 @@
 <p><b>Djinn</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></b></p>
 <p>Upgraded from Slave Pen/Warrior Barracks/Deep Mine</p>
-<p>Upgrade Upgraded from Slave Pen/Warrior Barracks/Deep Mine to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
+<p>Upgrade Slave Pen/Warrior Barracks/Deep Mine to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
 <p><b>Requirement</b>: Pavilion Quest.</p>
 <hr>

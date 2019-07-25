@@ -9,10 +9,10 @@
 <p><b>Alignment</b>: (Balance)</p>
 <p><b>Faction spell</b>: Infinite Spiral</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (10 + 0.025 * (x * (y + z)) ^ 0.75), where x is Maximum Mana.</p>
+<p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
-<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
+<p><b>Formula</b>: (10 + 1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
 <p><b>Formula</b>: (0.025 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
