@@ -144,6 +144,7 @@
                   <input type="text" value="FR9,EL3,AN5,GB7,UD8,DM2,TT6,DD6,FC7,DN3,DW2,DG4,SP:Fairy Chanting,SP:Dragon's Breath" id="Build"></p>
                 <p>FR9,EL3,AN5,GB7,UD8,DM2,TT6,DD6,FC7,DN3,DW2,DG4,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath</p>
+                <p><b>Notes</b>: Excavate for DG4 first, then excavate for the artifact.</p>
             </div>
         </div>
     </div>
