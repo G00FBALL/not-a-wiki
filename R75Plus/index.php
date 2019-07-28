@@ -73,8 +73,8 @@
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Requirement</b>: Demonline Lineage 20+
                 <p><b>Range</b>: 1e27 (1 Oc) - 1e88/1e91 (10 Ocvg/10 Novg) Gems</p>
-                <p><b>Faction</b>: Titan/Dragon</p>
-                <p><b>Bloodline</b>: Demon</p>
+                <p><b>Faction</b>: Faceless/Dragon</p>
+                <p><b>Bloodline</b>: Titan</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D260,D290,D320,D330,D1125,D1275,D1375,E135,E145,E320,E400,E1225,E1425,A105,A120,A150,A270,A305,A400,W180,W275,W290,W400,W1275,W1375" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -511,7 +511,7 @@
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>13th Upgrade</b>: AN6 (FR7 if it means you can cast an extra SB tier)</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL1,EL3,EL4,El7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,SP:Fairy Chanting,Sp:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180.W275,W400,W1275,W1375,W1400" id="Build"></p>
+                  <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,SP:Fairy Chanting,Sp:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180.W275,W400,W1275,W1375,W1400" id="Build"></p>
                 <p>EL1,EL3,EL4,El7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,</p>
                 <p>SP:Fairy Chanting,Sp:Dragon's Breath,</p>
                 <p>S200,S215,S305,S1275,S1450,S1500,</p>
