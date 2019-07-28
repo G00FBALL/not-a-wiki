@@ -18,7 +18,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titan Starter R60-R69<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: DC4, Undead Lineage level 5+</p>
+                <p><b>Requirements</b>: Dragon challenge 4, Druid Lineage level 5+</p>
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
@@ -36,7 +36,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Dragless R61-65 (1e27+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: Dragon challenge 4, Undeadline L5+</p>
+                <p><b>Requirements</b>: Dragon challenge 4, Undead Lineage level 5+</p>
                 <p><b>Range</b>:1e27+ (1 Oc) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Undead</p>
@@ -57,7 +57,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R66-69 (1e27+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: Titanline L17+</p>
+                <p><b>Requirements</b>: Titan Lineage level 5+</p>
                 <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Titan</p>
@@ -151,7 +151,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 6 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: DC5, low excavations (free reset if needed)</p>
+                <p><b>Requirements</b>: Dragon Challenge 5, low excavations (free reset if needed)</p>
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems</p>
                 <p><b>Faction</b>: Druid/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
