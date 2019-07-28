@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>Updated July 21st, 2019</b>
+    <p><b>Updated July 28th, 2019</b>
       <p><b>Work in progress and some builds need testing</b>
     <p>All builds come from the  <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
     <p>All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
@@ -31,14 +31,24 @@
                 <input type="text" value="S10,S150,S200,S215,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A120,A150,A250,A270,W120,W150,W180,W330,W400" id="Build"></p>
                 <p><button onclick="myFunction($(this))">Copy Build</button>
                 <input type="text" value="S10,S200,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A120,A150,A250,A270,W120,W150,W180,W330,W400" id="Build"> Tier 3 Spells</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S10,S200,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A150,A250,A270,A330,W120,W150,W180,W330,W400" id="Build"> A330 is Higher</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S10,S200,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A150,A250,A270,A400,W120,W150,W180,W330,W400" id="Build"> A400 is Higher</p>
+                <p><button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="S10,S200,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D175,D200,D205,D250,D290,D320,E135,E145,E330,E410,E480,A50,A150,A250,A270,A400,W120,W150,W180,W320,W400" id="Build"> W320 is Higher</p>
                 <p>S10,S150,S200,S215,S500,</p>
                 <p>C80,C150,C330,C340,C400,C25,C500,</p>
                 <p>D175,D200,D205,D250,D290,D320,</p>
                 <p>E135,E145,E330,E410,E480,</p>
                 <p>A50,A120,A150,A250,A270,</p>
                 <p>W120,W150,W180,W330,W400</p>
+                <p><b>Note</b>: Require tier 3 spells for R45,46 to get past 1e25 (10 Sp) gems. Recommended doing T3 Angel/Dwarf spell tiers (Call to Arms, Holy Light, God's hand, Diamond Pickaxe, Spiritual Surge) You will get Tiered Autocast while doing tiers so theres no point unlocking it before then.</p>
                 <p><b>Note</b>: Swap S150->S330 if you have tier 3 spells</p>
-                <p><b>Note</b>: C branch research placements is intentional )reload after horn)</p>
+                <p><b>Note</b>: Swap A120->A330/A400 (Which is higher) if D175 is 1500 or higher (3 hours is 1589 assistants)</p>
+                <p><b>Note</b>: Swap W330->W320 if higher</p>
+                <p><b>Note</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
+                <p><b>Note</b>: C branch research placements is intentional(reload after horn)</p>
             </div>
         </div>
         </div>

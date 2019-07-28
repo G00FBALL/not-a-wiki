@@ -7,7 +7,7 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated July 21st, 2019</b>
+    <p><b>Updated July 28th, 2019</b>
       <p><b>Work in progress and some builds need testing</b>
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
@@ -176,7 +176,7 @@
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build"> no W1375</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> no E1425,W1375,W1375</p>
+                  <input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D330,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build"> no E1425,W1275,W1375</p>
                 <p>S200,S215,S270,S330,S500,</p>
                 <p>C105,C150,C250,C340,C400,C1300,</p>
                 <p>D250,D290,D320,D330,D1275,</p>
@@ -260,7 +260,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 unlock build (R54+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Range</b>: 1e44+ gems</p>
                 <p><b>Faction</b>: Druid/Dragon</p>
                 <p><b>Bloodline</b>: Dragon</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -272,7 +272,7 @@
                 <p>A120,A250,A270,A400,A545,A1325,</p>
                 <p>W135,W250,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Do NOT buy dragon treaty until you have met the mana generated requirement.</p>
-                <p><b>Notes</b>: Estimated time 14 hours to 1e10 (10 B) mana generated.</p>
+                <p><b>Notes</b>: Estimated time 20-22 hours to 1e10 (10 B) mana generated.</p>
             </div>
           </div>
         </div>

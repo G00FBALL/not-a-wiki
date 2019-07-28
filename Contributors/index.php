@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
+<h6>Thank you for all your help</h6>
 <p>pseudobyte</p>
 <p>Igorogi</p>
 <p>Fonzoland</p>
@@ -243,4 +244,5 @@
 <p>q1235<p>
 <p>kiluh<p>
 <p>KyonLevic<p>
+<p>Tenyasha<p>
 <?php include "../scripts/footer.html"; ?>
