@@ -33,7 +33,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R75 (1e27+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R75<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
@@ -151,7 +151,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Generous Investors R75-76 (1e88+)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Generous Investors R75-R76 <font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Requirement</b>: low excavations count (free reset if needed)
@@ -183,7 +183,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Nameless Philanthropists (R77-80) (1e88+)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Nameless Philanthropists (R77-80)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Requirement</b>: low excavations count (free reset if needed)
@@ -217,11 +217,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Altergeist (R81-R89) (1e91-1e97)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Altergeist (R81-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: 6000j modified by Cyden</p>
-                <p><b>Range</b>: 1e91-1e97 (10 Novg-10 Utg) Gems</p>
-                <p><b>Faction</b>: Neatral Mercenary</p>
+                <p><b>Range</b>: 1e91 (10 Novg) Gems - 1e97 (10 Utg) Gems</p>
+                <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>A2950</b>: Dragon</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -241,10 +241,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">No Vacancies R81-89 (1e97-1e107)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">No Vacancies R81-89<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kuerti, modified by Cyden</p>
-                <p><b>Range</b>: 1e97-1e107 (10 Utg-100 Qatg) Gems</p>
+                <p><b>Range</b>: 1e97 (10 Utg) Gems - 1e107 (100 Qatg) Gems</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -262,7 +262,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lunatic Reapers (R81-R89) (1e107+)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lunatic Reapers (R81-R89)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e107+ (100 Qatg) Gems</p>
@@ -289,10 +289,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairydust (R90+) (1e78-1e116)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairydust (R90+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Range</b>: 1e78-1e116 (1 Qivg-100 Sptg) Gems</p>
+                <p><b>Range</b>: 1e78 (1 Qivg) Gems - 1e116 (100 Sptg) Gems</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -310,7 +310,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Debtor's Wings (R90+) (1e116+)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Debtor's Wings (R90+)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: 6000j</p>
                 <p><b>Range</b>: 1e116+ (100 Sptg) Gems</p>
