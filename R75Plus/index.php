@@ -109,7 +109,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again Merc Research Unlock (R75) (1e87/1e88)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again Merc Research Unlock (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
                 <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
@@ -125,6 +125,12 @@
                 <p>E135,E275,E320,E460,E590,E1425,</p>
                 <p>A120,A270,A305,A545,A1325,A1500,</p>
                 <p>W180,W250,W275,W400,W1275,W1375</p>
+                <p><b>Notes</b>: Swap DD6 to EL4 if at 1e88 (10 OcVg) gems or higher.</p>
+                <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 afterwards.
+                <p><b>Build has three stages</b></p>
+                <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
+                <p><b>2</b>: Get Lineage and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.
+                <p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.</p>
             </div>
         </div>
         <div class="shelementwhole">
