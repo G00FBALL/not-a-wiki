@@ -525,7 +525,7 @@
                 <p>D25,D200,D290,D330,D1275,D2775,</p>
                 <p>E80,E135,E320,E350,E590,E1225,</p>
                 <p>A120,A270,A305,A545,A1500,A2950,</p>
-                <p>W180.W275,W400,W1275,W1375,W1400</p>
+                <p>W180,W275,W400,W1275,W1375,W1400</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -547,7 +547,7 @@
                 <p>D25,D200,D290,D330,D1275,D2775,</p>
                 <p>E80,E135,E320,E350,E590,E1225,</p>
                 <p>A120,A270,A305,A545,A1500,A2950,</p>
-                <p>W180.W275,W400,W1275,W1375,W1400</p>
+                <p>W180,W275,W400,W1275,W1375,W1400</p>
                 <p><b>Notes</b>: When doing Fairyline/Dragonline feel free to swap FC or DB with GH if you have their perk 2</p>
          </div>
     </div>
