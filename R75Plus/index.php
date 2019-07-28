@@ -293,6 +293,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairydust (R90+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
+                <p><b>Requirement</b>: Veteran Figurine
                 <p><b>Range</b>: 1e78 (1 Qivg) Gems - 1e116 (100 Sptg) Gems</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
@@ -314,6 +315,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Debtor's Wings (R90+)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: 6000j</p>
+                <p><b>Requirement</b>: Veteran Figurine
                 <p><b>Range</b>: 1e116+ (100 Sptg) Gems</p>
                 <p><b>Faction</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
@@ -437,7 +439,7 @@
         </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (GB10 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (GB10 Buff) (R82-R99)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: ?</p>
@@ -447,7 +449,7 @@
                 <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,AN3,AN6,TT3,DD4,DD6,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting, SP:God's Hand,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"></p>
                 <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN3,AN6,DD4,DD6,FC2,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting, SP:God's Hand,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"> R90+</p>
+                  <input type="text" value="EL3,EL7,AN3,AN6,DD4,DD6,FC2,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting, SP:God's Hand,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"> R90+ (Requires Veteran Figurine)</p>
                 <p>EL3,EL7,AN3,AN6,TT3,DD4,DD6,FC7,DN2,DN8,DG4,DG9,</p>
                 <p>SP:Fairy Chanting, SP:God's Hand,</p>
                 <p>S215,S305,S1450,S1500,S400,S3200,</p>
@@ -456,7 +458,7 @@
                 <p>E135,E145,E1225,E1425,E3250,E3300,</p>
                 <p>A120,A545,A1200,A1500,A2950,A3400,</p>
                 <p>W180,W275,W400,W1375,W1400,W3150</p>
-                <p><b>Notes</b>: Swap TT3->FC2 for R90+</p>
+                <p><b>Notes</b>: Swap TT3->FC2 for R90+ (Requires Veteran Figurine)</p>
             </div>
         </div>
     </div>
