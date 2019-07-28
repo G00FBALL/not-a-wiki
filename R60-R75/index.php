@@ -18,7 +18,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titan Starter R60-R69<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: Dragon challenge 4, Druid Lineage level 5+</p>
+                <p><b>Requirements</b>: Dragon challenge 4</p>
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
