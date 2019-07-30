@@ -221,7 +221,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Altergeist (R81-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: 6000j modified by Cyden</p>
-                <p><b>Range</b>: 1e91 (10 Novg) Gems - 1e97 (10 Utg) Gems</p>
+                <p><b>Range</b>: 1e88 (10 Ocvg) Gems - 1e97 (10 Utg) Gems</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>A2950</b>: Dragon</p>
