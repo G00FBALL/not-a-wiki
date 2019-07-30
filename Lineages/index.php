@@ -33,26 +33,26 @@
                 <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
                 <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level)) ^ 0.9</p>
                 <p><b>Note</b>: The cost listed below is <b>Without</b> Ancient Heirloom</p>
-                <p><b>Level 1</b>: 25 Qa (2.5e16)</p>
-                <p><b>Level 2</b>: 250 Qa (2.5e17)</p>
-                <p><b>Level 3</b>: 2.5 Qi (2.5e18)</p>
-                <p><b>Level 4</b>: 25 Qi (2.5e19)</p>
-                <p><b>Level 5</b>: 250 Qi (2.5e20)</p>
-                <p><b>Level 6</b>: 2.5 Sx (2.5e21)</p>
-                <p><b>Level 7</b>: 25 Sx (2.5e22)</p>
-                <p><b>Level 8</b>: 250 Sx (2.5e23)</p>
-                <p><b>Leve 9</b>: 2.5 Sp (2.5e24)</p>
-                <p><b>Level 10</b>: 25 Sp (2.5e25)</p>
-                <p><b>Level 11</b>: 250 Sp (2.5e26)</p>
-                <p><b>Level 12</b>: 2.5 Oc (2.5e27)</p>
-                <p><b>Level 13</b>: 25 Oc (2.5e28)</p>
-                <p><b>Level 14</b>: 250 Oc (2.5e29)</p>
-                <p><b>Level 15</b>: 2.5 No (2.5e30)</p>
-                <p><b>Level 16</b>: 25 No (2.5e31)</p>
-                <p><b>Level 17</b>: 250 No (2.5e32)</p>
-                <p><b>Level 18</b>: 2.5 Dc (2.5e33)</p>
-                <p><b>Level 19</b>: 25 Dc (2.5e34)</p>
-                <p><b>Level 20</b>: 250 Dc (2.5e35)</p>
+                <p><b>Level 1</b>: 2.5 B (2.5e9)</p>
+                <p><b>Level 2</b>: 25 B (2.5e10)</p>
+                <p><b>Level 3</b>: 250 B (2.5e11)</p>
+                <p><b>Level 4</b>: 2.5 T (2.5e12)</p>
+                <p><b>Level 5</b>: 25 T (2.5e13)</p>
+                <p><b>Level 6</b>: 250 T (2.5e14)</p>
+                <p><b>Level 7</b>: 2.5 Qa (2.5e15)</p>
+                <p><b>Level 8</b>: 25 Qa (2.5e16)</p>
+                <p><b>Level 9</b>: 250 Qa (2.5e17)</p>
+                <p><b>Level 10</b>: 2.5 Qi (2.5e18)</p>
+                <p><b>Level 11</b>: 25 Qi (2.5e19)</p>
+                <p><b>Level 12</b>: 250 Qi (2.5e20)</p>
+                <p><b>Level 13</b>: 2.5 Sx (2.5e21)</p>
+                <p><b>Level 14</b>: 25 Sx (2.5e22)</p>
+                <p><b>Level 15</b>: 250 Sx (2.5e23)</p>
+                <p><b>Level 16</b>: 2.5 Sp (2.5e24)</p>
+                <p><b>Level 17</b>: 25 Sp (2.5e25)</p>
+                <p><b>Level 18</b>: 250 Sp (2.5e26)</p>
+                <p><b>Level 19</b>: 2.5 Oc (2.5e27)</p>
+                <p><b>Level 20</b>: 25 Oc (2.5e28)</p>
             </div>
         </div>
     </div>
@@ -420,7 +420,6 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk5.png" align="middle"> Titan Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Royal Exchanges count 500% more.</p>
-    <p><b>Effect</b>: Removes 1 Ascension penalty from Royal Exchanges.</p>
     <hr>
     <H6>Druid</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidLineage.png" align="middle"><b> Druid Lineage</b></p>
@@ -590,7 +589,6 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk5.png" align="middle"> Drow Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Maximum Mana counts 300% more.</p>
-    <p><b>Effect</b>: Removes 1 Ascension penalty from Call to Arms</p>
     <hr>
     <H6>Dragon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonLineage.png" align="middle"><b> Dragon Lineage</b></p>
