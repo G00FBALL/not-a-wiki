@@ -738,7 +738,7 @@ div#images div{
 <p><b>Old Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
 <p><b>Old Formula</b>: (4 * ln(x) ^ 2.25 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
 <p><b>New  Effect</b>: Increase Mana Regeneration based on mana produced in this game.(Multiplicative)</p>
-<p><b>New Formula</b>: 2.5 * ln(1+y) ^ 2.5, where x is mana spent this game and y is mana regeneration.</p>
+<p><b>New Formula</b>: 2.5 * ln(1 + x) ^ 2.5, where x is mana spent this game.</p>
 <br/>
 <p><b>Drow</b>:</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
