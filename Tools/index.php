@@ -4,11 +4,9 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 
-<p><b><a target="_blank" href="http://dox4242.github.io/rws/">Realm Weather Service</a></b></p>
-<p><b><a target="_blank" href="http://realm-grinder.wikia.com/wiki/Realm_Grinder_Wikia">Realm Grinder Wiki</a></b> </p>
+<p><b><a target="_blank" href="http://dox4242.github.io/rws/">Realm Weather Service</a></b> Predicts randomness/p>
 <p><b><a target="_blank" href="http://www.advanced-mouse-auto-clicker.com/free-mouse-auto-clicker.html">Visit Free Mouse Auto Clicker Site</a></b> </p>
-<p><b><a href="http://www.advanced-mouse-auto-clicker.com/setup/FreeMouseAutoClicker.exe">Download Free Mouse Auto Clicker</a></b> </p>
-<p><a target="_blank" href="http://dox4242.github.io/arch/"><b>Lara Crypt</b></a> Ethereal Excavator</p>
+<p><a target="_blank" href="http://dox4242.github.io/arch/"><b>Lara Crypt</b></a> Artifact Predictor</p>
 <p><b><a target="_blank" href="http://pastebin.com/">pastebin</a></b> Paste your code to share</p>
 <p><b><a target="_blank" href="https://pasteboard.co/">pasteboard</a></b> Upload your image to share</p>
 <p><b><a target="_blank" href="http://imgur.com/upload">imgur.com</a></b> Upload your image to share</p>
