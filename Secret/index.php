@@ -96,7 +96,7 @@
 <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
 <p><b>Cost</b>: 4 Dc (4e33), A1+, Free</p>
 <p><b>Effect</b>: Increase Mana production by 5%.</p>
-<p><b>Note</b>: This can be done at R0.(use Angles and all their upgrades)</p>
+<p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p>
 <p><b>Requirement</b>: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.</p>
@@ -459,7 +459,7 @@ div#images div{
 </div>
 <p><b>Effect</b>: Multiplicatively increase mana regeneration.</p>
 <br>
-<p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
+<p><b>Good Effect</b>: The amount increased is based on Excavations made.</p>
 <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
 <br>
 <p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p>
@@ -479,7 +479,7 @@ div#images div{
 <p><b>Upgrade Cost</b>: 1 SpQag (1e144)</p>
 <p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
 <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
-<hr>  
+<hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</b></p>
 <p><b>Requirement</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
 <p><b>Effect</b>: Gives upgrade with same name.</p>

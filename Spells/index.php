@@ -1062,7 +1062,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"> <b>Catalyst</b> (Djinn Bloodline)</p>
 <p><b>Cost</b>: 500000 mana</p>
 <p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
-<p><b>Note</b>: Can not access to Holy Frenzy regardless of alignment.
+<p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>

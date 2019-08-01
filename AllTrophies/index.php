@@ -102,7 +102,7 @@
 <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
 <p><b>Cost Pre A</b>: 4 Dc (4e33)</p>
 <p><b>Cost Post A</b>: Free</p>
-<p><b>Note</b>: This can be done at R0.(use Angles and all their upgrades)</p>
+<p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
 <p><b>Effect</b>: Increase Mana production by 5%</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p>
@@ -502,7 +502,7 @@ div#images div{
 </div>
 <p><b>Balance</b>: Multiplicatively increase mana regeneration.</p>
 <br>
-<p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
+<p><b>Good Effect</b>: The amount increased is based on Excavations made.</p>
 <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
 <br/>
 <p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p>

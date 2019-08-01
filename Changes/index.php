@@ -3637,7 +3637,7 @@ div#images div{
 </div>
 <p><b>Balance</b>: Multiplicatively increase mana regeneration.</p>
 <br>
-<p><b>Good Effect</b>: The amount increased is based on on Excavations made.</p>
+<p><b>Good Effect</b>: The amount increased is based on Excavations made.</p>
 <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
 <br/>
 <p><b>Evil Effect</b>: The amount increased is based on time spent in this game.</p>
