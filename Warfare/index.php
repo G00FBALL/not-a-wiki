@@ -41,7 +41,7 @@
 <br/>
 <p><b>W260</b> - For <b>Titan</b> - Research Name: <b>Athletics</b><p><b>Requirement</b>: 3,000 Olympian Halls</b><p><b>Cost</b>: 3.039 SxQig (3.039E171)</b><p><b>Effect</b>: Increase the production of all other buildings by 100% per Olympian Hall you own.</p>
 <br/>
-<p><b>W275</b> - For <b>Faceless</b> - Research Name: <b>Domination</b><p><b>Requirement</b>: 300 Base Assistants (as Faceless)</b><p><b>Cost</b>: 1.331 SpQig (1.331E174)</b><p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of assistants you had in a single game.(This R)</b><p><b>Effect</b>: Also a 50% multiplicative Faction Coin find chance. </b><p><b>Formula</b>: floor(125 * x  ^ 0.75), where x is your Assistants (Max) stat.</p>
+<p><b>W275</b> - For <b>Faceless</b> - Research Name: <b>Domination</b><p><b>Requirement</b>: 300 Base Assistants (as Faceless)</b><p><b>Cost</b>: 1.331 SpQig (1.331E174)</b><p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of assistants you had in a single game.(This R)</b><p><b>Effect</b>: Also a 50% multiplicative Faction Coin find chance. </b><p><b>Formula</b>: floor(200 * x ^ 0.55), where x is your Assistants (Max) stat.</p>
 <br/>
 <p><b>W290</b> - For <b>All Factions</b> - Research Name: <b>Entrench</b><p><b>Requirement</b>: 2,000 Excavations</b><p><b>Cost</b>: 582.7 SpQig (5.827E176)</b><p><b>Effect</b>: Increase the production of Unique buildings based on the amount of Excavations you made.</b><p><b>Formula</b>: round(15 * x ^ 0.8)%, where x is the amount of excavations made.</p>
 <br/>
