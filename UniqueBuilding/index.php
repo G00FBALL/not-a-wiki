@@ -222,19 +222,19 @@
 <p>Upgraded Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses</p>
 <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (80 * x ^ 0.8), where x is time spent as Order this R.</p>
-<p><b>Requirement</b>: Nexus Quest.</p>
+<p><b>Requirement</b>: Nexus Quest. (R130+, Buy 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs)</p>
 <hr>
 <p><b>Djinn</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></b></p>
 <p>Upgraded from Slave Pen/Warrior Barracks/Deep Mine</p>
 <p>Upgrade Slave Pen/Warrior Barracks/Deep Mine to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
-<p><b>Requirement</b>: Pavilion Quest.</p>
+<p><b>Requirement</b>: Pavilion Quest. (R130+, 5 days of chaos spells this game)</p>
 <hr>
 <p><b>Makers</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HallofOrigination.png"></b></p>
 <p>Upgraded from Halls of Legends</p>
 <p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
 <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
-<p><b>Requirement</b>: Hall of Origination Quest.</p>
+<p><b>Requirement</b>: Hall of Origination Quest. (R130+, Gather 5 TD (5e42) Faction Coins)</p>
 <?php include "../scripts/footer.html"; ?>
