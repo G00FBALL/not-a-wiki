@@ -32,7 +32,7 @@
                     <p><b>Range</b>: 1e70 (10 DVg) Gems+
                     <p><b>Duration</b>: 5 - 15 Minutes
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S1,S30,S105,S135,C10,C80,C105,C120,D55,D135,E50,E80,E135,A30,A105,A120,A135,W120,W135" id="Build">
+                      <input type="text" value="S1,S30,S105,S135,C10,C80,C105,C120,D55,D135,E30,E50,E80,E135,A30,A105,A120,A135,W120,W135" id="Build">
                     <p>S1,S30,S105,S135,
                     <p>C10,C80,C105,C120,
                     <p>D55,D135,
