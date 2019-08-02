@@ -448,11 +448,11 @@
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>A2950</b>: Elf</p>
                 <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN3,AN6,TT3,DD4,DD6,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting, SP:God's Hand,S215,S305,S1450,S1500,S400,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"></p>
+                  <input type="text" value="EL3,EL7,AN3,AN6,TT3,DD4,DD6,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S1450,S1500,S400,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"></p>
                 <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,EL7,AN3,AN6,DD4,DD6,FC2,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting, SP:God's Hand,S215,S305,S1450,S1500,S400,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"> R90+ (Requires Veteran Figurine)</p>
+                  <input type="text" value="EL3,EL7,AN3,AN6,DD4,DD6,FC2,FC7,DN2,DN8,DG4,DG9,SP:Fairy Chanting,SP:God's Hand,S215,S305,S1450,S1500,S400,S3200,C340,C400,C590,C1300,C3000,C3100,D25,D275,D290,D1275,D2775,D3350,E135,E145,E1225,E1425,E3250,E3300,A120,A545,A1200,A1500,A2950,A3400,W180,W275,W400,W1375,W1400,W3150" id="Build"> R90+ (Requires Veteran Figurine)</p>
                 <p>EL3,EL7,AN3,AN6,TT3,DD4,DD6,FC7,DN2,DN8,DG4,DG9,</p>
-                <p>SP:Fairy Chanting, SP:God's Hand,</p>
+                <p>SP:Fairy Chanting,SP:God's Hand,</p>
                 <p>S215,S305,S1450,S1500,S400,S3200,</p>
                 <p>C340,C400,C590,C1300,C3000,C3100,</p>
                 <p>D25,D275,D290,D1275,D2775,D3350,</p>
