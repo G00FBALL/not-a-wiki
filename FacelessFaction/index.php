@@ -32,7 +32,7 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/OctopusShapedSpine.png" alt="Smiley face" align="middle"><b> Octopus Shaped Spine</b></p>
 <p><b>Type</b>: Upgrade</p>
-<p><b>Unlock</b>: 2 Bone Fragments, 36 hours playtime (This R)</p>
+<p><b>Unlock</b>: 2 Bone Fragments, 36 hours playtime (All time)</p>
 <p><b>Cost</b>: Price: 1 No (1E30), 25,000 Fairy Coins, 25,000 Undead Coins</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutralityFactionUpgrade.png" alt="ProofofNeutrality" align="middle"><b> Proof Of Neutrality</b></p>
