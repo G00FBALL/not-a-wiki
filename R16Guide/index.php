@@ -237,7 +237,7 @@ div#images div{
 <p><b>Bloodline</b>: Druid</p>
 <p><button onclick="myFunction($(this))">Copy Build</button>
 <input type="text" value="FR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
-<p>FR2,FR6,EL9,AN3,AN6,AN9,DD4,DD6,DD8,DN2,DN3,DN7,SP:Fairy Chanting,SP:Hellfire Blast</p>
+<pFR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
 <br/>
 <p><b>5.8</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
