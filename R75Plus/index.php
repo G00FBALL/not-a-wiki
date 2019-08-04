@@ -111,7 +111,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again Merc Research Unlock (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
+                <p><b>Range</b>: 1e88 (1 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -240,7 +240,8 @@
                 <p>W180,W275,W400,W1275,W1375,W3150</p>
                 <p><b>Notes</b>: Swap A175->A3400 for R82+</p>
                 <p><b>Notes</b>: Use only once per R, high initial power, affords Freemason Hall easier but sacrifice long term production.</p>
-            </div>
+                <p><b>Notes</b>: Some Researches will require you to buy E3300 first.</p>
+                </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">No Vacancies R81-89<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -252,6 +253,8 @@
                 <p><b>A2950</b>: Dragon</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR2,EL3,AN5,AN9,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D290,D590,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A30,A120,A270,A1200,A1500,A2950,W180,W275,W400,W1275,W1375,W3150" id="Build"></p>
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="FR2,EL3,AN5,AN9,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D290,D590,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A30,A120,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W3150" id="Build"></p> R82+
                 <p>FR2,EL3,AN5,AN9,TT6,DD4,FC7,DN2,DN8,DG3,DG4,DG9,</p>
                 <p>SP:Dragon's Breath,SP:God's Hand,</p>
                 <p>S215,S305,S330,S1450,S1500,S3200,</p>
@@ -286,7 +289,7 @@
                 <p>E10,E135,E225,E1225,E3250,E3300,</p>
                 <p>A105,A120,A410,A1500,A2950,A3400,</p>
                 <p>W180,W205,W525,W1375,W3050,W3150</p>
-                <p><b>Notes</b>: Swap Grand Balance->Fairy Chanting, DD7->FC7 and E10->E275 if no GB10</p>
+                <p><b>Notes</b>: Swap Grand Balance->Fairy Chanting, DD7->FC7 and E10->E275 if no GB10 (Grand Balance targeting 10 buildings)</p>
                 <p><b>Notes</b>: E225->E230 after 1-2 hours spent as evil</p>
             </div>
         </div>
@@ -327,7 +330,7 @@
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C1500,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> C1500 is higher</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C1500,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A545,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> Very long run?</p>
+                  <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C1500,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A150,A410,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> long runs</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,FC7,DN2,DN8,DG3,DG4,DG9,SP:God's Hand,SP:Fairy Chanting,S50,S215,S305,S1450,S1500,S3200,C120,C150,C340,C400,C590,C1300,D25,D275,D1275,D1375,D2775,D3350,E135,E10,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> No GB10</p>
                 <p>EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,</p>
@@ -339,7 +342,7 @@
                 <p>A120,A410,A590,A1500,A2950,A3400,</p>
                 <p>W180,W205,W400,W525,W3050,W3150</p>
                 <p><b>Notes</b>: Swap C120->C1500 if higher</p>
-                <p><b>Notes</b>: Swap A590->A545 and AN6->DD5 on very long runs</p>
+                <p><b>Notes</b>: Swap A590->A150 on long runs (8+ (?) hours long)</p>
                 <p><b>Notes</b>: Swap GB->FC and DD7->FC7 if you don't have GB10</p>
             </div>
         </div>
