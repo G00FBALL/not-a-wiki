@@ -126,7 +126,7 @@ $( "#archinput" ).change(function(){
 </script>
 <br style="clear: both"/><hr>
     <a id="Companions"></a>
-    <table class="numtable" align="left" >
+    <table class="numtable" >
         <thead>
         <tbody>
         <tr>
@@ -199,8 +199,10 @@ $( "#archinput" ).change(function(){
         </tbody>
         </thead>
     </table>
+<br style="clear: both"/>
+<hr>    
     <a id="Primal Balance"></a>
-    <table class="numtable"" align="right" >
+    <table class="numtable" >
         <thead>
         <tr>
             <th colspan="5">Primal Balance (GB +10)</th>
