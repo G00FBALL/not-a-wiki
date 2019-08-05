@@ -18,7 +18,7 @@
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b></p>
-<p><b>36 hours this reincarnation</b></p>
+<p><b>36 hours playtime (All time)</b></p>
 <p>These requirements can be done in different game plays.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BoneFragment1FactionUpgrade.png" alt="Smiley face" align="middle"><b> Bone Fragment 1</b></p>
 <p><b>Type</b>: Quest Artifact</p>
