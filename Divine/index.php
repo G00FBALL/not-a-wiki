@@ -31,11 +31,11 @@
 <br/>
 <p><b>D200</b> - For <b>All Factions</b> - Research Name: <b>Transcendence</b><p><b>Requirement</b>: Research Resurrection (D175) &amp; Illumination (D135)</b><p><b>Cost</b>: 82.65 Dqig (8.265E160)</b><p><b>Effect</b>: Decrease the </b><p><b>Cost</b> of all spells by 20% and increase their duration by 20%.</p>
 <br/>
-<p><b>D205</b> - For <b>All Good Factions</b> - Research Name: <b>Communion</b><p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) &amp; Illumination (D135)</b><p><b>Cost</b>: 627.6 Dqig (6.276E161)</b><p><b>Effect</b>: Increase Holy Light duration by 110 seconds.</p>
+<p><b>D205</b> - For <b>All Good Factions</b> - Research Name: <b>Communion</b><p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) &amp; Illumination (D135)</b><p><b>Cost</b>: 627.6 Dqig (6.276E161)</b><p><b>Effect</b>: Increase Holy Light duration by 300 seconds.</p>
 <br/>
 <p><b>D225</b> - For <b>Fairy</b> - Research Name: <b>Weather Control</b><p><b>Requirement</b>: Research Light Condenser (C25) &amp; Vacuumancy (S30)</b><p><b>Cost</b>: 2.087 Qaqig (2.087E165)</b><p><b>Effect</b>: Increase the production of Enchanted Fields based on maximum mana.</b><p><b>Formula</b>: floor(2.25 * x ^ 0.8)%, where x is your maximum mana.</p>
 <br/>
-<p><b>D245</b> - For <b>All Factions</b> - Research Name: <b>Soulrending</b><p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) &amp; Necromancy (S225)</b><p><b>Cost</b>: 6.94Qiqig (6.94E168)</b><p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.</b><p><b>Formula</b>: (2.5 * x ^ 0.55), where x is the amount of Non-Unique Buildings you own.</p>
+<p><b>D245</b> - For <b>All Factions</b> - Research Name: <b>Sanctification</b><p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) &amp; Necromancy (S225)</b><p><b>Cost</b>: 6.94Qiqig (6.94E168)</b><p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.</b><p><b>Formula</b>: (2.5 * x ^ 0.55), where x is the amount of Non-Unique Buildings you own.</p>
 <br/>
 <p><b>D250</b> - For <b>All Factions</b> - Research Name: <b>Demonology</b><p><b>Requirement</b>: Research Transcendence (D200) &amp; Pyromancy (S150)</b><p><b>Cost</b>: 52.7 Qiqig (5.27E169)</b><p><b>Effect</b>: Gain additional assistants based on the amount of Faction Coins found in this game.</b><p><b>Formula</b>: floor(ln(1 + x) ^ 1.5), where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
@@ -67,8 +67,8 @@
 <br/>
 <p><b>D1275</b> - For <b>All Factions</b> - Research Name: <b>Solemnity</b><p><b>Requirement</b>: 100000 Total Buildings</b><p><b>Cost</b>: 152.4 Dvg (1.524e71)</b><p><b>Effect</b>: Increase the production of each building by +0.3% per building of the same type.</p>
 <br/>
-<p><b>D1375</b> - For <b>All Factions</b> - Research Name: <b>Sanctification</b><p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)</b><p><b>Cost</b>: 137.8 Qavg (1.378e77)</b><p><b>Effect</b>: Ascensions count 50% more for Spiritual Surge.</p>
+<p><b>D1375</b> - For <b>All Factions</b> - Research Name: <b>Soulrending</b><p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)</b><p><b>Cost</b>: 137.8 Qavg (1.378e77)</b><p><b>Effect</b>: Ascensions count 50% more for Spiritual Surge.</p>
 <br/>
-<p><b>D2775</b> - For <b>Mercenary</b> - Research Name: <b>Intervention </b><p><b>Requirement</b>: Secrets of the Warriors. </b><p><b>Cost</b>: 33.73 DQig (3.373e160)</b><p><b>Effect</b>: Increases the production of Unique Building based on time spent with Mercenaries.</b><p><b>Formula</b>: (0.1 * x ^ 0.7)%, where x is time spent with Mercenary.</p>
+<p><b>D2775</b> - For <b>Mercenary</b> - Research Name: <b>Intervention</b><p><b>Requirement</b>: Secrets of the Warriors. </b><p><b>Cost</b>: 33.73 DQig (3.373e160)</b><p><b>Effect</b>: Increases the production of Unique Building based on time spent with Mercenaries.</b><p><b>Formula</b>: (10 * x ^ 0.7)%, where x is time spent with Mercenary.</p>
 <br/>
-<p><b>D3350</b> - For <b>All Factions</b> - Research Name: <b>Vampirism </b><p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).  </b><p><b>Cost</b>: 598.3 TSxg (5.983e194)</b><p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.Additive </b><p><b>Formula</b>: (3.25 * log10(1 + x) ^ 2.25), where x is your Offline Bonus.Multiplicative </b><p><b>Formula</b>: (0.05 * log10(1 + x) ^ 2), where x is your Offline Bonus.</p>
+<p><b>D3350</b> - For <b>All Factions</b> - Research Name: <b>Vampirism</b><p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).  </b><p><b>Cost</b>: 598.3 TSxg (5.983e194)</b><p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.Additive </b><p><b>Formula</b>: (3.25 * log10(1 + x) ^ 2.25), where x is your Offline Bonus.Multiplicative </b><p><b>Formula</b>: (0.05 * log10(1 + x) ^ 2), where x is your Offline Bonus.</p>

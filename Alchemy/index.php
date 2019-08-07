@@ -41,7 +41,7 @@
 <br/>
 <p><b>A251</b> - For <b>Druid</b> - Research Name: <b>Infusion</b><p><b>Requirement</b>: Secrets of the Ancients (as Druids)</b><p><b>Cost</b>: 79.05 QiQig (7.905E169)</b><p><b>Effect</b>: Increase the production of Stonehenge Circles based on mana produced in this game.</b><p><b>Formula</b>: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat.</p>
 <br/>
-<p><b>A270</b> - For <b>All Factions</b> - Research Name: <b>Synthesis</b><p><b>Requirement</b>: 20 B (2E10) Faction Coins (Found this game) </b><p><b>Cost</b>: 175.2 SxQig (1.752E173)</b><p><b>Effect</b>: Increase mana regeneration based on the amount of Faction Coins found in this game.</b><p><b>Formula</b>: floor(12 * ln(1 + x)) / 10, where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>A270</b> - For <b>All Factions</b> - Research Name: <b>Synthesis</b><p><b>Requirement</b>: 20 B (2E10) Faction Coins (Found this game) </b><p><b>Cost</b>: 175.2 SxQig (1.752E173)</b><p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.</b><p><b>Formula</b>: (1.25 * ln(1 + x) ^ 1.25), where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b>A300</b> - For <b>Faceless</b> - Research Name: <b>Creeping</b><p><b>Requirement</b>: Produce 5M mana (This game, as Druid)</b><p><b>Cost</b>: 33 OcQig (3.36E178)</b><p><b>Effect</b>: Increase mana regeneration based on mana produced in this game.</b><p><b>Formula</b>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.</p>
 <br/>
@@ -51,7 +51,7 @@
 <br/>
 <p><b>A375</b> - For <b>Druid</b> - Research Name: <b>Transfusion</b><p><b>Requirement</b>: Research Infusion (A251) &amp; Engraving (A305)</b><p><b>Cost</b>: 541 DSxg (5.41E191)</b><p><b>Effect</b>: Gain additional assistants based on mana produced this game.</b><p><b>Formula</b>: floor(4.5 * ln(1 + x)), where x is your Mana Produced (This Game) stat.</p>
 <br/>
-<p><b>A400</b> - For <b>All Factions But Mercenary</b> - Research Name: <b>Bloodspring</b><p><b>Requirement</b>: Research Assimilation (S251) &amp; Transfusion (A375).</b><p><b>Cost</b>: 13.66 QaSxg (1.366E196)</b><p><b>Effect</b>: You get your faction's Bloodline effect for free. Bloodstream counts time spent with both factions. Note: Works for Elite Bloodline when you're an elite faction.Note: Does not work with two Bloodlines of the same type.</p>
+<p><b>A400</b> - For <b>All Factions But Mercenary</b> - Research Name: <b>Bloodspring</b><p><b>Requirement</b>: Research Assimilation (S251) &amp; Transfusion (A375).</b><p><b>Cost</b>: 13.66 QaSxg (1.366E196)</b><p><b>Effect</b>: You get your faction's Bloodline effect for free. Bloodstream counts time spent with both factions. <p><b>Note</b>: Provides Prestige Bloodline for Elite Factions from R125 to R129, MAD bloodlines at R130+.<p><b>Note</b>: Does not work with two Bloodlines of the same type.</p>
 <br/>
 <p><b>A410</b> - For <b>Drow</b> - Research Name: <b>Poisons</b><p><b>Requirement</b>: 4000 Sanctuaries </b><p><b>Cost</b>: 787.7 QaSxg (7.877E197)</b><p><b>Effect</b>: Increase the production of all other buildings by 95% per Spider Sanctuary you own.</p>
 <br/>
@@ -69,7 +69,7 @@
 <br/>
 <p><b>A1500</b> - For <b>Druid,Dragon</b> - Research Name: <b>Sublimation</b><p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon</b><p><b>Cost</b>: 3.843 Spvg (3.843e84)</b><p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</b><p><b>Effect</b>: Also increase Faction Coin find chance by a multiplicative 250%.</b><p><b>Formula</b>: (40 * x * 0.8), where x is Unique Buildings owned.</p>
 <br/>
-<p><b>A2950</b> - For <b>Mercenary</b> - Research Name: <b>Combination </b><p><b>Requirement</b>: All Lineages Level at 15.  </b><p><b>Cost</b>: 259 SxQig (2.59e173) </b><p><b>Effect</b>: Select an additional bloodline. </b><p><b>Effect</b>: You also gain all the base effect of its respective Lineage.</p>
+<p><b>A2950</b> - For <b>Mercenary</b> - Research Name: <b>Combination</b><p><b>Requirement</b>: All Lineages Level at 15.  </b><p><b>Cost</b>: 259 SxQig (2.59e173) </b><p><b>Effect</b>: Select an additional bloodline. </b><p><b>Effect</b>: You also gain the base effect of its respective Lineage.<p><b>Effect</b>: Combination Bloodline effects R60/R115 power.</p>
 <br/>
-<p><b>A3400</b> - For <b>All Factions</b> - Research Name: <b>Chemistry </b><p><b>Requirement</b>: 1 No (1e30) FC (Found this Game), (Customizing C3000) and (Manipulation S3200).  </b><p><b>Cost</b>: 894.5 QiQig (5.69e197)</b><p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.</b><p><b>Effect</b>: Also increases Faction Coin find chance by a multiplicative 350%.</b><p><b>Formula</b>: 3 * x ^ 2.25, where x is total Lineage levels.</p>
+<p><b>A3400</b> - For <b>All Factions</b> - Research Name: <b>Chemistry</b><p><b>Requirement</b>: 1 No (1e30) FC (Found this Game), (Customizing C3000) and (Manipulation S3200).  </b><p><b>Cost</b>: 894.5 QiQig (5.69e197)</b><p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.</b><p><b>Effect</b>: Also increases Faction Coin find chance by a multiplicative 300%.</b><p><b>Formula</b>: 3 * x ^ 2.25, where x is total Lineage levels.</p>
 <?php include "../scripts/footer.html"; ?>

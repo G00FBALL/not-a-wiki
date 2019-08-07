@@ -51,7 +51,7 @@
 <br/>
 <p><b>C375</b> - For <b>Titan</b> - Research Name: <b>Lightning Rod</b><p><b>Requirement</b>: Research Chain Lightning (S300) &amp; Overload (C330)</b><p><b>Cost</b>: 541 DSxg (5.41E191)</b><p><b>Effect</b>: Olympian Halls are always hit by Lightning Strike in addition to the primary target. Olympian Halls can no longer be a primary target.</p>
 <br/>
-<p><b>C400</b> - For <b>All Factions</b> - Research Name: <b>Gravitation</b><p><b>Requirement</b>: Research Magnetism (C250) &amp; Weighting (C300)</b><p><b>Cost</b>: 13.66 QaSxg (1.366E196)</b><p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of Faction Coins found in this game.<p><b>Effect</b>: Also increase the chance to find Faction Coins by a multiplicative 175%.<p><b>Formula</b>: floor(3.5 * ln^3(x + 1)), where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>C400</b> - For <b>All Factions</b> - Research Name: <b>Gravitation</b><p><b>Requirement</b>: Research Magnetism (C250) &amp; Weighting (C300)</b><p><b>Cost</b>: 13.66 QaSxg (1.366E196)</b><p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of Faction Coins found in this game.<p><b>Effect</b>: Also increase the chance to find Faction Coins by a multiplicative 100%.<p><b>Formula</b>: floor(3.5 * ln(x + 1) ^ 3), where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
 <p><b>C405</b> - For <b>Dwarf</b> - Research Name: <b>Metallurgy</b><p><b>Requirement</b>: Secrets of the Underworld (as Dwarf)</b><p><b>Cost</b>: 103.7 QaSxg (1.037E197)</b><p><b>Effect</b>: Increase the production of Dwarven Forges based on the Dwarven Forges you own.</b><p><b>Formula</b>: (45 * x ^ 0.825)%, where x is the number of Dwarven Forges you own.</p>
 <br/>

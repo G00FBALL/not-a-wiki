@@ -67,7 +67,7 @@
 <br/>
 <p><b>E1325</b> - For <b>All Factions</b> - Research Name: <b>Intimidation</b><p><b>Requirement</b>: 18000 Unique Buildings</b><p><b>Cost</b>: 144.9 Tvg (1.449e74)</b><p><b>Effect</b>: Reduce Royal Exchange </b><p><b>Cost</b> multiplier.</b><p><b>Formula</b>: Reduces multiplier by 0.025; with no other reductions applying, base multiplier is 1.1</p>
 <br/>
-<p><b>E1425</b> - For <b>All Neutral Factions</b> - Research Name: <b>Rarity</b><p><b>Requirement</b>: 7 days playtime each with Titan, Druid and Faceless, Research A545, C1300</b><p><b>Cost</b>: 131 Qivg (1.31e80)</b><p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</b><p><b>Formula</b>: (1.65 * x ^ 1.65)%, where x is artifacts found. (multiplicative)</p>
+<p><b>E1425</b> - For <b>All Neutral Factions</b> - Research Name: <b>Rarity</b><p><b>Requirement</b>: 7 days playtime each with Titan, Druid and Faceless, Research A545, C1300</b><p><b>Cost</b>: 131 Qivg (1.31e80)</b><p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</b><p><b>Formula</b>: (1.25 * x ^ 1.25)%, where x is artifacts found. (multiplicative)</p>
 <br/>
 <p><b>E3250</b> - For <b>All</b> - Research Name: <b>Hirelings</b><p><b>Requirement</b>: (Intimidation E1325) and (Scholarship S2875).</b><p><b>Cost</b>: 661.6 USxg (6.616e188)</b><p><b>Effect</b>: Gives assistants based on the amount of coins you own.</b><p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>
 <br/>
