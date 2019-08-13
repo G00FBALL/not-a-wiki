@@ -12,7 +12,6 @@
     <p><b>Requirement</b>: 100 Excavations.</p>
     <p><b>Cost</b>: 100 Dc (1e35)</p>
     <p><b>Effect</b>: Grants access to Lore Artifacts.</p>
-<hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RoughStone.png" alt="Artifact" align="middle"><b> Rough Stone</b></p>
     <p><b>Clue</b>: A first-time only discovery.
     <p><b>Description</b>: A common, totally uninteresting stone.</p>
@@ -396,74 +395,74 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png" align="middle"><b> Silk Cloth</b></p>
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
     <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Fairies</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Fairies</p>
     <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png" align="middle"><b> Raw Emerald</b></p>
     <p><b>Clue</b>: Not found on the first Excavation round.</p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Elven</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Elven</p>
     <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
     <p><b>Clue</b>: Angels may fall after a long time.</p>
     <p><b>Description</b>: The remains of an Angel fallen to earth.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Angel</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Angel</p>
     <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all game) in seconds.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png" align="middle"><b> Spiked Whip</b></p>
     <p><b>Clue</b>: Used by the overseers in the Slave Markets.</p>
     <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Goblin</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Goblin</p>
     <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png" align="middle"><b> Dusty Coffin</b></p>
     <p><b>Clue</b>: Quick! Quick! You have no time to waste!</p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Undead</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Undead</p>
     <p><b>Chance</b>: (1 / (30 + x ^ 1.5))%, where x is time this game in seconds.</p>
     <p><b>Note</b>: 1 in 3000 in 0 seconds 1 in 49475 at 60 seconds. 1 in 134453 at 120 seconds</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png" align="middle"><b> Crystallized Lava</b></p>
     <p><b>Clue</b>: Found in the Burning Abysses.</p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Demon</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Demon</p>
     <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png" align="middle"><b> Titan Helmet</b></p>
     <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Titan</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Titan</p>
     <p><b>Chance</b>: ((x ^ 2) / 1,500,000,000 (1.5B))%, where x is Royal Exchanges (Royal Exchange count multipliers <b>DO NOT</b> count).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png" align="middle"><b> Branch of the Life Tree</b></p>
     <p><b>Clue</b>: Found in the remains of druidic ancestors.</p>
     <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Druid</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Druid</p>
     <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png" align="middle"><b> Nightmare Figment</b></p>
     <p><b>Clue</b>: A strong and quick brain is required.</p>
     <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.</p>
-    <p><b>Requirement</b>: R100+, 3000+ Excavations, Play as Faceless</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Faceless</p>
     <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BeardHair.png" align="middle"><b> Beard Hair</b></p>
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
-    <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dwarf</p>
+    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf</p>
     <p><b>Chance</b>: (x / 100000000 (100M))%, where x is assistant count</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/PoisonVial.png" align="middle"><b> Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>
     <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
-    <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Drow</p>
+    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Drow</p>
     <p><b>Chance</b>: ((40 * x ^ 0.9) / 10000000 (10M))%, where x is combo strike count.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonScale.png" align="middle"><b> Dragon Scale</b></p>
     <p><b>Clue</b>: Usually found when a lot of magic is lingering.</p>
     <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
-    <p><b>Requirement</b>: R116+, 3000+ Excavations, Play as Dragon</p>
+    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dragon</p>
     <p><b>Chance</b>: (x / 2500)%, where x is active spells</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LanternofGuidanceArtifact.png" align="middle"> Lantern of Guidance</b></p>
