@@ -509,8 +509,8 @@
                 <p>E135,E320,E350,E590,E1225,E1425,</p>
                 <p>A120,A270,A305,A545,A1325,A1500,</p>
                 <p>W180,W275,W400,W1275,W1375,W1400</p>
-                <p><b>Notes</b>: Swap DG4->DD4 if e89+ gems</p>
-                <p><b>Notes</b>: When doing Fairyline/Dragonline feel free to swap FC or DB with GH if you have their perk 2</p>
+                <p><b>Notes</b>: Swap DG4->DD4 if e89+ (100 OcVg) gems</p>
+                <p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -555,7 +555,7 @@
                 <p>E80,E135,E320,E350,E590,E1225,</p>
                 <p>A120,A270,A305,A545,A1500,A2950,</p>
                 <p>W180,W275,W400,W1275,W1375,W1400</p>
-                <p><b>Notes</b>: When doing Fairyline/Dragonline feel free to swap FC or DB with GH if you have their perk 2</p>
+                <p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -603,6 +603,7 @@
                 <p>A120,A270,A305,A1500,A2950,A3400,</p>
                 <p>W275,W400,W1275,W1375,W1400,W3150</p>
                 <p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
+                <p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand (R82-R90) or Lightning Strike (R90+, requires Veteran Figurine) if Fairy/Dragon Perk 2 is unlocked.</p>
          </div>
     </div>
         <div class="shelementwhole">
