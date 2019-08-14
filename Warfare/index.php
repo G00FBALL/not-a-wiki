@@ -31,7 +31,7 @@
 <br/>
 <p><b>W180</b> - For <b>All Factions</b> - Research Name: <b>Formation</b><p><b>Requirement</b>: 1000 Call to Arms (Total this R), Research Dueling (W10) &amp; Exertion (W50)</b><p><b>Cost</b>: 24.85 Uqig (2.485E157)</b><p><b>Effect</b>: Each building counts 15 times for Call to Arms purposes.</p>
 <br/>
-<p><b>W200</b> - For <b>All Factions</b> - Research Name: <b>Crusade</b><p><b>Requirement</b>: Research Hallowing (D50) &amp; Formation (W180)</b><p><b>Cost</b>: 82.65 Dqig (8.265E160)</b><p><b>Effect</b>: Gain additional assistants based on total time spent as Good.</b><p><b>Formula</b>: floor(0.065 * x ^ 0.5), where x is your Time Spent Being Good (Total) stat.</p>
+<p><b>W200</b> - For <b>All Factions</b> - Research Name: <b>Crusade</b><p><b>Requirement</b>: Research Hallowing (D50) &amp; Formation (W180)</b><p><b>Cost</b>: 82.65 Dqig (8.265E160)</b><p><b>Effect</b>: Gain additional assistants based on time spent as Good this R.</b><p><b>Formula</b>: floor(0.065 * x ^ 0.5), where x is your Time Spent Being Good (This R) stat.</p>
 <br/>
 <p><b>W205</b> - For <b>All Evil Factions</b> - Research Name: <b>Berserking</b><p><b>Requirement</b>: 850 Blood Frenzy (This R), Research Rampage (W135) &amp; Retribution (D150)</b><p><b>Cost</b>: 627.6 Dqig (6.276E161)</b><p><b>Effect</b>: While Blood Frenzy is active, increase mana regeneration based on the amount of assistants you own. </b><p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%. </b><p><b>Formula</b>: floor(0.25x^0.9), where x is your Assistants stat.</p>
 <br/>
