@@ -5,13 +5,13 @@
     <?php include "../scripts/header.html"; ?>
     <h6>Lineages</h6>
     <p><b>Requirement</b>: R60+</p>
-    <p>At R60 you will unlock Lineages, powerful upgrades to your chosen Bloodline that will even allow you to use the spell of other Factions, provided you complete their challenges.</p>
-    <p><b>Note</b></b>: You can not use Lineage if it matches your faction/alignment.
+    <p>At R60 you will unlock Lineages,  which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
+    <p><b>Note</b></b>: You can not use a Lineage if it matches your faction..
     <p>Your Lineage is dependant on the Bloodline you chose.</p>
     <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication)</p>
     <p><b>Note</b>: Levels only need to be bought once.</p>
-    <p><b>Note</b>: All Lineages <b>REQUIRE</b> Prestige Faction. (Ascension 1 only)</p>
-    <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+    <p><b>Note</b>: You must have a prestige faction to buy a lineage (unless in R100-R115)</p>
+    <p><b>Note</b>: (R116+) When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
     <p><b>Formula</b>: (1 + 0.3 * level)</p>
     <div class="shlisting">
         <div class="shelementwhole" style="padding-left: 20px">
@@ -31,7 +31,7 @@
                 <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
                 <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
-                <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level)) ^ 0.9</p>
+                <p><b>Formula</b>: With Ancient Heirloom (25 * 10 ^ (8 + lineage level)) ^ 0.9</p>
                 <p><b>Note</b>: The cost listed below is <b>Without</b> Ancient Heirloom</p>
                 <p><b>Level 1</b>: 2.5 B (2.5e9)</p>
                 <p><b>Level 2</b>: 25 B (2.5e10)</p>
