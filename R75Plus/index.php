@@ -346,6 +346,30 @@
                 <p><b>Notes</b>: Swap GB->FC and DD7->FC7 if you don't have GB10</p>
             </div>
         </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Synchronic Wave (R97+)<font color="DarkRed"> Evil</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Kiluh</p>
+                <p><b>Requirement</b>: Veteran Figurine
+                <p><b>Range</b>: 1e132+ (1 TQag) Gems</p>
+                <p><b>Faction</b>: Evil Mercenary</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>13th Upgrade</b>: UD7
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:Brainwave,SP:Grand Balance,S50,S200,S305,S375,S1450,S1500,C120,C150,C340,C400,C590,C1300,D25,D275,D330,D1275,D1375,D2775,E10,E135,E230,E400,E1225,E3300,A150,A270,A410,A1500,A2950,A3400,W205,W525,W400,W1275,W3050,W3150"></p>
+                <p>EL3,AN2,AN5,AN8,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,</p>
+                <p>SP:Brainwave,SP:Grand Balance,</p>
+                <p>S50,S200,S305,S375,S1450,S1500,</p>
+                <p>C120,C150,C340,C400,C590,C1300,</p>
+                <p>D25,D275,D330,D1275,D1375,D2775,</p>
+                <p>E10,E135,E230,E400,E1225,E3300,</p>
+                <p>A150,A270,A410,A1500,A2950,A3400,</p>
+                <p>W205,W525,W400,W1275,W3050,W3150</p>
+                <p><b>Notes</b>: Long setup time (22h+ online) is required.</p>
+                <p><b>Notes</b>: Keep Dragon's Breath blue x2 until build is able to mana waste (13h+)</p>
+            </div>
+        </div>
     </div>
     <br/>
     <p><b>Special Builds</b></p>
