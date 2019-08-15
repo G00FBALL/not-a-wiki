@@ -341,7 +341,7 @@
                 <p>E10,E135,E230,E1225,E3250,E3300,</p>
                 <p>A120,A410,A590,A1500,A2950,A3400,</p>
                 <p>W180,W205,W400,W525,W3050,W3150</p>
-                <p><b>Notes</b>: Swap C120->C1500 if higher</p>
+                <p><b>Notes</b>: Swap C120->C1500 if higher.</p>
                 <p><b>Notes</b>: Swap A590->A150 on long runs (8+ (?) hours long)</p>
                 <p><b>Notes</b>: Swap GB->FC and DD7->FC7 if you don't have GB10</p>
             </div>
@@ -357,7 +357,9 @@
                 <p><b>A2950</b>: Titan</p>
                 <p><b>13th Upgrade</b>: UD7
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:Brainwave,SP:Grand Balance,S50,S200,S305,S375,S1450,S1500,C120,C150,C340,C400,C590,C1300,D25,D275,D330,D1275,D1375,D2775,E10,E135,E230,E400,E1225,E3300,A150,A270,A410,A1500,A2950,A3400,W205,W525,W400,W1275,W3050,W3150"></p>
+                  <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:Brainwave,SP:Grand Balance,S50,S200,S305,S375,S1450,S1500,C120,C150,C340,C400,C590,C1300,D25,D275,D330,D1275,D1375,D2775,E10,E135,E230,E400,E1225,E3300,A150,A270,A410,A1500,A2950,A3400,W205,W525,W400,W1275,W3050,W3150"></p> C120 is higher
+                  <p><button onclick="myFunction($(this))">Copy Build</button>
+                  <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,SP:Brainwave,SP:Grand Balance,S50,S200,S305,S375,S1450,S1500,C150,C340,C400,C590,C1300,C1500,D25,D275,D330,D1275,D1375,D2775,E10,E135,E230,E400,E1225,E3300,A150,A270,A410,A1500,A2950,A3400,W205,W525,W400,W1275,W3050,W3150"></p> C1500 is higher
                 <p>EL3,AN2,AN5,AN8,TT6,DD5,DD7,DN2,DN8,DG3,DG4,DG9,</p>
                 <p>SP:Brainwave,SP:Grand Balance,</p>
                 <p>S50,S200,S305,S375,S1450,S1500,</p>
@@ -368,6 +370,7 @@
                 <p>W205,W525,W400,W1275,W3050,W3150</p>
                 <p><b>Notes</b>: Long setup time (22h+ online) is required.</p>
                 <p><b>Notes</b>: Keep Dragon's Breath blue x2 until build is able to mana waste (13h+)</p>
+                <p><b>Notes</b>: Swap C120->C1500 if higher</p>
             </div>
         </div>
     </div>
