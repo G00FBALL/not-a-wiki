@@ -49,7 +49,8 @@
                 <p>E135,E145,E460,E1225,E1425,</p>
                 <p>A105,A120,A270,A305,A400,</p>
                 <p>W180,W275,W400,,W1275,W1375</p>
-                <p><b>Notes</b>: Swap E460->E320 if Exchange Highlord.</p>
+                <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.</p>
+                <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -68,6 +69,7 @@
                 <p>E135,E145,E400,E1225,E1425,</p>
                 <p>A105,A120,A270,A305,A400,</p>
                 <p>W180,W275,W400,W1275,W1375</p>
+                <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -85,6 +87,7 @@
                 <p>E135,E145,E275,E320,E330,E400,</p>
                 <p>A105,A120,A250,A270,A305,A400,</p>
                 <p>W150,W180,W250,W290,W320,W330,W400</p>
+                <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -143,7 +146,7 @@
                 <p>E135,E145,E320,E1225,E1425,</p>
                 <p>A105,A120,A270,A305,A400,</p>
                 <p>W180,W275,W400,W1275,W1375</p>
-                <p><b>Notes</b>: If you don't have enough prod for spell tiers, consider: D200->D260, D330->D320, S200->S270</p>
+                <p><b>Notes</b>: Assuming starting build with 0 excavations, you will need 1500 excavations for UL5, 2600 for Spell Cataclysm, and 3100 for DC5.</p>
          </div>
     </div>
         <div class="shelementwhole">
@@ -164,6 +167,7 @@
                 <p>E135,E145,E260,E290,E1225,E1425,</p>
                 <p>A120,A305,A400,A545,A1325,A1500,</p>
                 <p>W150,W180,W350,W400,W1375</p>
+                <p><b>Notes</b>: Takes estimated 12 hours for mana requirement. The hardest requirement is the 120k building requirement. Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of targets is irrelevant for this build.</p>
                 <p><b>Notes</b>: At higher gems (e67+) swap S330 with S400, W150 with W135 and W350 with W1400.</p>
          </div>
     </div>
