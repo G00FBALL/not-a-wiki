@@ -29,7 +29,7 @@
 <p>"Legends tell of a terrible sea monster destroying ships and harbors. With your dragon and faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the leviathan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 54+, Have 5500 Excavations, Titan, Druid, Faceless, Dwarven and Drow challenge 3 and Dragon challenge 2 completed.</p>
 <p><b>Challenge</b>: Have a combined total of 8 days played as faceless and dragons with a minimum of 2 days as each one.</p>
-<p><b>Effect</b>: Reduces Deep Memory ascension penalty.</p>
+<p><b>Effect</b>: Ascension 1 penalty from Deep Memory is removed and its bonus increased.</p>
 <p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
 <p><b>Formula</b>: (3 * x ^ 0.65)%, where x is your amount of Sunken Cities.</p>
 <p><b>Upgrade</b>: Works with Faceless+Dragon</p>
