@@ -65,7 +65,7 @@
 <br/>
 <p><b>C1300</b> - For <b>Neutral,Dragon</b> - Research Name: <b>Scintillation</b><p><b>Requirement</b>: 30000 Max Mana, as any Neutral,Dragon (This game)</b><p><b>Cost</b>: 4.698 Tvg (4.698e72)<p><b>Effect</b>: Increase production of buildings based on max mana and gem bonus. (Higher boost for lower gem bonus.)<p><b>Formula</b>: ((250 * x ^ 0.5) / y ^ 0.95), where x is max mana and y is total bonus from gem bonus upgrades.</p>
 <br/>
-<p><b>C1325</b> - For <b>All Factions</b> - Research Name: <b>Plasmation</b><p><b>Requirement</b>: 50m (50e6) Mana Produced (This game)</b><p><b>Cost</b>: 144.9 Tvg (1.449e74)<p><b>Effect</b>: Gain assistants based on mana produced in this game.<p><b>Formula</b>: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game).</p>
+<p><b>C1325</b> - For <b>All Factions</b> - Research Name: <b>Plasmation</b><p><b>Requirement</b>: 50m (5e7) Mana Produced (This game)</b><p><b>Cost</b>: 144.9 Tvg (1.449e74)<p><b>Effect</b>: Gain assistants based on mana produced in this game.<p><b>Formula</b>: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game).</p>
 <br/>
 <p><b>C1500</b> - For <b>Titan,Dragon</b> - Research Name: <b>Gargantuaness</b><p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</b><p><b>Cost</b>: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.<p><b>Formula</b>: ((1.5 * x) ^ 0.7), where x is neutral time (this R) in minutes.</p>
 <br/>
