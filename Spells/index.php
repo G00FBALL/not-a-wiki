@@ -878,10 +878,12 @@
     <p><b><center>Ascension 1</center></p></b>
     <p><b><center>Alignment Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon)</p>
+    <p><b>Base Effect</b>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
+    <p><b>Formula</b>: (1 * x ^ 0.625), where x is activity time this game.</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
     <p><b>Effect</b>: With the Spell upgrade Dragon's Roar, Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.
-    <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
+    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
+    <p><b>Bonus Effects</b>: Activates one of the following effects at random for 20 seconds.</p>
     <p><b>Requirement</b>: Dragons Trade Treaty</p>
     <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
     <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2)%, where x is Faction Coins found in this game.</p>
@@ -899,7 +901,7 @@
     </br>
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b></p>
     <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.
+    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
     <p><b>Challenge Upgrade</b>: While all 5 breaths are active, Reincarnations count 50% more.</p>
     <div class="shlisting">
         <div class="shelementwhole">
@@ -965,7 +967,7 @@
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxTier2.png" alt="Temporal Flux" align="middle"> <b>Tier 2</b></p>
                 <p><b>Requirement</b>: Lantern of Guidance (Artifact)</p>
-                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins
+                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins</p>
                 <p><b>FC Cost</b>: 1 Sp (1e24) Angel, Undead, Dwarven and Drow Coins.</p>
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b> (Proof of Chaos)</p>
@@ -982,7 +984,7 @@
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpellTier2.png" alt="Maelstrom" align="middle"> <b>Tier 2</b></p>
                 <p><b>Requirement</b>: Oil Lamp (Artifact)</p>
-                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins
+                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins</p>
                 <p><b>FC Cost</b>: 1 Sp (1e24) Fairy, Demon, Dwarven and Drow Coins.</p>
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"> <b>All Creation</b> (Proof Of Balance) </p>
@@ -996,7 +998,7 @@
        <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpellTier2.png" alt="All Creation" align="middle"> <b>Tier 2</b></p>
                 <p><b>Requirement</b>: Spark of Life (Artifact)</p>
-                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins
+                <p><b>Coin Cost</b>: 120 Notg (1.2e122) Emerald coins</p>
                 <p><b>FC Cost</b>: 1 Sp (1e24) Elven, Goblin, Dwarven and Drow Coins.</p>
        <hr>
     <p><b><center>Ascension 2</center></b></p>
@@ -1010,11 +1012,11 @@
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 1 Qi (1e18) mana regeneration.</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 <p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
-<p><b>Effect</b>: Also scale off invisible spell duration modifiers.
+<p><b>Effect</b>: Also scale off invisible spell duration modifiers.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
 <br/>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinns)</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinns)</p>
 <p><b>Cost</b>: 888888 mana</p>
 <p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b>
@@ -1060,10 +1062,10 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"> <b>Catalyst</b> (Djinn Bloodline)</p>
 <p><b>Cost</b>: 500000 mana</p>
 <p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
-<p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.
+<p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.</p>
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
-<p><b>2</b>. Cannot cast a spell that is already active.
+<p><b>2</b>. Cannot cast a spell that is already active.</p>
 <p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <?php include "../scripts/footer.html"; ?>
