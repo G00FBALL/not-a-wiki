@@ -879,7 +879,6 @@
     <p><b><center>Alignment Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon)</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
-    <p><b>Description</b>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
     <p><b>Formula</b>:  ({1 * x ^ 0.625}%), where x is Dragon's Breath activity time.</p>
     <p><b>Effect</b>: With the Spell upgrade Dragon's Roar, Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
     <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.
