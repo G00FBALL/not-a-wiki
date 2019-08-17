@@ -878,12 +878,8 @@
     <p><b><center>Ascension 1</center></p></b>
     <p><b><center>Alignment Spells</center></p></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon)</p>
-    <p><b>Base Effect</b>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-    <p><b>Formula</b>: (1 * x ^ 0.625), where x is activity time this game.</p>
     <p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
-    <p><b>Effect</b>: With the Spell upgrade Dragon's Roar, Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
-    <p><b>Bonus Effects</b>: Activates one of the following effects at random for 20 seconds.</p>
+    <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
     <p><b>Requirement</b>: Dragons Trade Treaty</p>
     <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
     <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2)%, where x is Faction Coins found in this game.</p>
@@ -897,11 +893,11 @@
     <p><b><font color="white">Formula</b></font>: (1.35 * floor(x / 60) ^ 0.7), where x is time as neutral this R in seconds.</p>
     </br>
     <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
-    <p><b><font color="black">Formula</b></font>: (0.5 *x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
+    <p><b><font color="black">Formula</b></font>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
     </br>
     <p><b>Spell Trophy & Upgrade: Dragon's Roar</b></p>
     <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
+    <p><b>Formula</b>: (6 * x ^ 0.6), where x is duration in seconds.</p>
     <p><b>Challenge Upgrade</b>: While all 5 breaths are active, Reincarnations count 50% more.</p>
     <div class="shlisting">
         <div class="shelementwhole">
