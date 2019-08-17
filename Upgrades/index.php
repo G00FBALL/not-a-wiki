@@ -2195,17 +2195,17 @@ div#images div{
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
             <p><b>Requirements</b>: Find all 3 Iron Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
-            <p><b>Effect</b>: Increase Faction Coin find chance by 2000%.</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by 200%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"><b> Djinn Mask</b></p>
             <p><b>Requirements</b>: Find all 3 Crystal Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
-            <p><b>Effect</b>: Increase Maximum Mana by 750%.</p>
+            <p><b>Effect</b>: Increase Maximum Mana by 150%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"><b> Makers Mask</b></p>
             <p><b>Requirements</b>: Find all 3 Stone Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
-            <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000%.</p>
+            <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain 1 M (1e6) assistants.</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spell Upgrades</a></b>
         <div class="autohide">

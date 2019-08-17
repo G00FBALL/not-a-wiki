@@ -9,7 +9,7 @@
 <p>"In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, Reincarnation 135+, Persistent Entropy upgrade purchased.</p>
 <p><b>Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
-<p><b>Effect</b>: Maelstrom increase assistants based on building tiers targeted. Provides a better bonus for lower tier buildings.</p>
+<p><b>Effect</b>: Maelstrom increases assistants based on building tiers targeted. Provides a better bonus for lower tier buildings.</p>
 <p><b>Formula</b>: Multiplicative to base assistants: sum of ((12-T) * 100 )%, each T is tier of targeted maelstrom building.</p>
 <p><b>Alternative Formula</b>: ((36-x-y-z) * 100)%, where x,y and z are the respective tiers of Maelstrom’s target buildings.</p>
 <p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
@@ -42,7 +42,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
 <p>"This generation decided that we should give them a few more wishes before they give in to our demands for a change."</p>
 <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
-<p><b>Challenge</b>: Have a spell duration of at least 2 year.</p>
+<p><b>Challenge</b>: Have a spell duration of at least 2 years.</p>
 <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
 <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn, Demon+Drow+Djinn and Faceless+Dragon+Djinn</p>
 <hr>

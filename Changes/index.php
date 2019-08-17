@@ -118,7 +118,7 @@
 <p>In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell.</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, 135 Reincarnations, Persistent Entropy spell upgrade purchased.</p>
 <p><b>Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
-<p><b>Effect</b>: Maelstrom increase assistants based on building tiers targeted. Provides a better bonus for lower tier buildings.</p>
+<p><b>Effect</b>: Maelstrom increases assistants based on building tiers targeted. Provides a better bonus for lower tier buildings.</p>
 <p><b>Formula</b>: Multiplicative to base assistants: sum of ((12-T) * 100 )%, each T is tier of targeted maelstrom building.</p>
 <p><b>Alternative Formula</b>: ((36-x-y-z) * 100)%, where x,y and z are the respective tiers of Maelstrom’s target buildings.</p>
 <p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
