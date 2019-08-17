@@ -969,7 +969,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" align="middle"> Angelic Fortitude</b></p>
                 <p><b>Requirement</b>: A2, Angels Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
-                <p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
+                <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this R).</p>
                 <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is seconds in current spells.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" align="middle"> Seraphim Wings</b></p>
