@@ -274,44 +274,44 @@
             </div>
         </div>
     </div>
-     <br/>
-    <p><b>Lineage lvl30 Builds R120+</b></p>
-    <p><b>Note</b>:The optimal path is:Undead L30 first ->Elf L30 -> Faceless L30 -> Get Elf/Faceless Master trophy and Advanced Heritages->push to ~e65 gems with Faceline Elf -> get the rest of the L30's/AH's</p>
-<div class="category">
-    <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage Leveler (L30)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-        <div class="autohide">
-    <p><b>Author</b>: Sheep
-    <p><b>Range</b>: 1e60 (1 Nod)
-    <p><b>Faction</b>: Faceless/Dragon
-    <p><b>Bloodline</b>: Elf/Angel/Undead/Demon/Titan/Druid/Dwarf/Drow
-    <p><b>Artifact Set</b>: Titan (Angel,Goblin,Titan)
-    <p><b>Artifact Set</b>: Druid (Elf,Demon,Druid)
-    <p><b>Artifact Set</b>: Faceless (Fairy and Undead)
-    <p><b>Artifact Set</b>: Dragon (Dwarf and Drow)
-          <p><button onclick="myFunction($(this))">Copy Build</button>
-          <input type="text" value="S200,S251,S375,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
-    <p>S200,S251,S375,S1450,S1500,
-    <p>C400,C1300,
-    <p>D260,D290,D1125,
-    <p>E145,E350,E1225,
-    <p>A300,A1200,A3400,
-    <p>W275,W1375,W1400
-    <p><b>Notes</b>: Buffing W275 is highly recommended.
-    <p><b>Notes</b>: Leveling Undead to L30 first is fastest.
-</div>
-    </div>
+    <br/>
+    <p><b>Lineage level 30 Builds R120+</b></p>
+    <p><b>Note</b>:The optimal path is: Undead level 30 first -> Elf level 30 -> Faceless level 30 -> Get Elf/Faceless Master trophy and Advanced Heritages -> push to ~1e65 (100 Vg) Gems -> get the rest of the Lineages to level 30 and Advanced Heritages</p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage Leveler (L30)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Sheep
+                <p><b>Range</b>: 1e60 (1 Nod) Gems+
+                <p><b>Faction</b>: Faceless/Dragon
+                <p><b>Bloodline</b>: Elf/Angel/Undead/Demon/Titan/Druid/Dwarf/Drow
+                <p><b>Artifact Set</b>: Titan (Angel,Goblin,Titan),
+                <p><b>Artifact Set</b>: Druid (Elf,Demon,Druid),
+                <p><b>Artifact Set</b>: Faceless (Fairy and Undead),
+                <p><b>Artifact Set</b>: Dragon (Dwarf and Drow)
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,S251,S375,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
+                <p>S200,S251,S375,S1450,S1500,
+                <p>C400,C1300,
+                <p>D260,D290,D1125,
+                <p>E145,E350,E1225,
+                <p>A300,A1200,A3400,
+                <p>W275,W1375,W1400
+                <p><b>Notes</b>: Buffing W275 is highly recommended.
+                <p><b>Notes</b>: Leveling Undead to L30 first is fastest.
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf Lineage Leveler (L30)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sheep
-                <p><b>Range</b>:1e65 (100 Vg)
-                <p><b>Requirement</b>: Undead L30
+                <p><b>Range</b>:1e60 (1 Nod) Gems+
+                <p><b>Requirements</b>: Undead L30
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Faceless/Dragon/Goblin/Fairy
                 <p><b>Artifact Set</b>: Elf
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A495,A3400,W10,W560,W1375" id="Build">
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A495,A3400,W10,W560,W1375" id="Build">
                 <p>S175,S400,
                 <p>C1,C225,C400,C405,C520,C590,
                 <p>D50,D290,D435,
@@ -319,8 +319,8 @@
                 <p>A495,A3400,
                 <p>W10,W560,W1375
                 <p><b>Notes</b>: Buffing S400 is recommended.
-             </div>
-         </div>
+            </div>
         </div>
-       </div>
+    </div>
+ </div>
 <?php include "../scripts/footer.html"; ?>
