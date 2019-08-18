@@ -6,7 +6,7 @@
 <h6>Ascension 2</h6>
 <p>At R99 the Reincarnation button will change to Ascension. Things will be reduced as it was with Ascension 1.</p>
 <p> Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase. </p>
-<p><b><font color="red">When performing Ascension 2, all Lineages will be set back to level 25 if higher<font></b></p>
+<p><b><font color="red">When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher<font></b></p>
 <p>Starting at R100, 3 new Alignments and 1 new spell for each, each new Alignment will work with the existing Alignments. And finally, You will have access to 9 new Unique Buildings, these will allow you to have 2 Unique Buildings with each Faction.</p>
 <p>Ascension 2 will give you access to Tier 7 spells. (See spell page for time required).</p>
 <br/>
