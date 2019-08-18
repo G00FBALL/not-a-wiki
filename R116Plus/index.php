@@ -302,7 +302,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf Lineage Leveler (L30)<font color="DarkRed"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf Lineage Leveler (L30)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sheep
                 <p><b>Range</b>:1e60 (1 Nod) Gems+
