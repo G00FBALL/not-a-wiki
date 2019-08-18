@@ -91,10 +91,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves (1e50 (100 QiD) Gems+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik
-                <p><b>Range</b>: ?
+                <p><b>Range</b>: 1e50 (100 QiD) Gems+
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Faceless
@@ -114,10 +114,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel (1e65 (100 Vg) Gems+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik, liminal.shadow
-                <p><b>Range</b>: ?
+                <p><b>Range</b>: 1e65 (100 Vg) Gems+
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Druid
                 <p><b>Artifact Set</b>: Elf
