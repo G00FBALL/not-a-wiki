@@ -99,7 +99,6 @@
             </div>
         </div>
     </div>
-    </div>
     <br/>
     <p><b>Unique Building 2 Quest Unlock</b></p>
     <div class="category">
