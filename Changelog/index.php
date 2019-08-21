@@ -5,6 +5,94 @@
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 <div class="shlisting">
   <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6.1, Aug 21st, 2019, Summer Event</a></b></p>
+      <div class="autohide">
+<p><b>Lucifer Trophy</b> and <b>Mercenary Champion</b> can be unlocked again before MAD upgrades.</p>
+<p><b>Warfare 590 (Torture)</b>: now requires Divine 245 (Sanctification) as intended.</p>
+<p><b>Artifact Set</b>: tutorial no longer locks the game if you had already purchased a Set.</p>
+<p><b>Reap Interests</b>: no longer breaks the spell count when you had cast less than 8.</p>
+<p><b>Limited Wish</b>: no longer overflows when casting too many times (up to e308 casts).</p>
+<p>When loading Mercenary Templates, the game now attempts to buy lockable upgrades (dragon's up to A3, MAD's afterwards) before free upgrades. This should prevent locking yourself out of special upgrades.</p>
+<p>Old Mercenary upgrade 13 no longer breaks template imports: now it is saved as a different variable. Unfortunately this invalidates all existing Mercenary Templates, but should improve the quality of life of future templates and updates.</p>
+<p>Mobile version number is now shown in the Options menu as it was before latest update.</p>
+<p><b>Chrono Loading</b>: base increased, scaling decreased. Unlock requirements reduced.</p>
+<p><b>Mercenary Duel</b>: assistant requirements reduced.</p>
+<p><b>Lineage</b>: cost multiplier increase every 30 levels reduced by half.</p>
+<p><b>Goblin Set</b>: base and scaling for multiplicative effect increased.</p>
+<p><b>Dragon Set</b>: base increased, scaling decreased.</p>
+<p><b>Spellcraft 200 (Cryomancy)</b>: base increased, scaling decreased.</p>
+<p><b>Craftsmanship 250 (Magnetism)</b>: base increased to 7.5.</p>
+<p><b>Craftsmanship 305 (Golemcraft)</b>: base increased.</p>
+<p><b>Economics 230 (Coercion)</b>: base increased, scaling decreased.</p>
+<p><b>Mercenary Set</b>: now gives access to all faction lineages, rather than base only.</p>
+<p><b>Mercenary Researches</b>: from Ascension 1, previously locked in 3.6, are again available to all alignments.</p>
+<p><b>Titan Lineage</b>: tooltip changed to reflect its new intended bonus.</p>
+<p><b>Flash Workshop</b>: base and scaling increased.</p>
+<p><b>Forbidden Libraries</b>: base and scaling increased.</p>
+<p><b>Precognition</b>: boost moved from Archon 10 (Purity of Form) to Archon 2 (Energy Recharge).</p>
+<p><b>Reap Interests</b>: formula was implemented incorrectly, fixed now.</p>
+<p><b>Drow Chaos Union</b>: base and scaling increased.</p>
+<p><b>Catalyst</b>: now forecasts its next 3 spells.</p>
+<p><b>Advanced Elven Heritage</b>: base increased.</p>
+<p><b>Dragon Chaos Union</b>: base and scaling increased.</p>
+<p><b>Reincarnation 1 Power</b>: was incorrectly replaced by Reincarnation 10 instead of just merging tooltips.</p>
+<p><b>Reincarnation 120 Power</b>: is now implemented as a proper Ascension 2 upgrade and it also applies to Mercenaries and Elite factions. Base increased.</p>
+<p><b>Archon Challenge 1</b>: makes Precognition also affect Seraphim Wings. Doubled bonus on Seraphim Wings and God's Hand.</p>
+<p><b>Archon Challenge 2</b>: assistant bonus, base and scaling increased.</p>
+<p><b>Archon Challenge 3</b>: changed to logarithmic, resulting in higher base and lower scaling.</p>
+<p><b>Archon Challenge 4</b>: time bonus reduced. Added an effect that increases Unique buildings production based on time spent in this game. Requirements reduced.</p>
+<p><b>Djinn Challenge 1</b>: Maelstrom effect is now based on the lowest tier targeted.</p>
+<p><b>Djinn Challenge 2</b>: mana requirements reduced. Base and scaling increased.</p>
+<p><b>Djinn Challenge 3</b>: now also grants Catalyst regardless of Djinn Bloodline and increases Catalyst casts by 100 per cast.</p>
+<p><b>Djinn Challenge 4</b>: requirements reduced.</p>
+<p><b>Makers Challenge 2</b>: base grows faster.</p>
+<p><b>Makers Challenge 4</b>: now increases Faction Coins found matching its Set by 1000%.</p>
+<p><b>Makers Challenge 5</b>: max mana and assistants requirements reduced.</p>
+<p><b>Angel 10 (Heaven's Brilliance)</b>: base increased.</p>
+<p><b>Angel 11 (Angelic Fortitude)</b>: base increased.</p>
+<p><b>Goblin 12 (Lousy Architecture)</b>: now also increases Non-Unique buildings production based on their quantity.</p>
+<p><b>Undead 11 (Zombie Apocalypse)</b>: base and scaling increased.</p>
+<p><b>Faceless 12 (Dimension Door)</b>: base increased.</p>
+<p><b>Archon 1 (Star Trading)</b>: base increased.</p>
+<p><b>Archon 2 (Energy Recharge)</b>: scaling decreased.</p>
+<p><b>Archon 5 (Archon Pride)</b>: base and scaling decreased to linear.</p>
+<p><b>Archon 7 (Superior Consciousness)</b>: base and scaling increased to linear.</p>
+<p><b>Archon 8 (Strange Attraction)</b>: start, base and scaling increased.</p>
+<p><b>Archon 9 (Arcane Core)</b>: base increased.</p>
+<p><b>Archon 10 (Purity of Form)</b>: effect reduced.</p>
+<p><b>Djinn 1 (The Desire Within)</b>: scaling increased.</p>
+<p><b>Djinn 3 (Magical Circuit)</b>: scaling decreased.</p>
+<p><b>Djinn 4 (Aura of Magic)</b>: base increased.</p>
+<p><b>Djinn 5 (Spiritual Bindings)</b>: scaling increased.</p>
+<p><b>Djinn 6 (Wild Surge)</b>: base and scaling increased.</p>
+<p><b>Djinn 7 (Wishing Well)</b>: base increased, scaling decreased.</p>
+<p><b>Djinn 9 (Mana Creatures)</b>: base and scaling decreased.</p>
+<p><b>Makers 3 (Infinite Improvements)</b>: now affects all buildings.</p>
+<p><b>Makers 4 (Everlasting Materials)</b>: base increased.</p>
+<p><b>Makers 7 (Stonecarving)</b>: base increased.</p>
+<p><b>Makers 10 (Valuable Antiquity)</b>: base and scaling decreased.</p>
+<p><b>Drow Chaos Union</b>: now only counts real buildings, i.e. ignores those given by the \"count more\" effects.</p>
+<p><b>Mercenary Building Contract</b>: moved to Reincarnation 165, added an Amethyst Coin cost (progressively increasing based on faction tier) and increased Faction Coin cost.</p>
+<p><b>Mercenary Union</b>: Contract, added an Amethyst Coin cost (progressively increasing based on faction tier) and increased Faction Coin cost.</p>
+<p><b>Mercenary Union</b>: Contract now shows the selected Union tooltip when purchased.</p>
+<p><b>Goblin Union</b>: effect reworked to multiplicative Faction Coins find chance.</p>
+<p><b>Demon Union</b>: as Mercenary now properly increases Trophy count.</p>
+<p><b>Druid Challenge 4 and Demon Lineage</b>: changed how ascension penalties are handled: now they are removed progressively as time passes.</p>
+<p><b>Elven Bloodline</b>: base decreased.</p>
+<p><b>Drow Bloodline</b>: base and scaling increased.</p>
+<p><b>Infinite Spiral</b>: base for assistants decreased, base and scaling for max mana decreased, base for Faction Coin find chance increased.</p>
+<p><b>Archon Mask</b>: effect increased.</p>
+<p><b>Base Assistant</b>: stat added to assistant tooltip.</p>
+<p><b>Excavation Resets MAX</b>: stat is now properly implemented.</p>
+<p><b>Limited Wish</b>: no longer loses its active effect upon reloading.</p>
+<p><b>Dragon Heritage</b>: is now properly affected by time modifiers.</p>
+<p><b>Reversed Autocast</b>: can no longer be used on instant spells.</p>
+<p><b>Fixed</b>: Makers Challenge 1 not working when only the Set was matching.</p>
+<p><b>Fixed</b>: several stats increasing inappropriately due to IDs mismatches.</p>
+<p><b>Fixed</b>: Archon Challenge 4 formula that had an improperly calculated log10.</p>
+</div>
+  </div>
+  <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6, July 15, 2019, Elite Challenges, A3</a></b></p>
       <div class="autohide">
 <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Jul 22nd 2019, 12.01 PM UTC and will end on Jul 26th 2019, 6.59 PM UTC.</p>
