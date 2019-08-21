@@ -154,7 +154,8 @@
 <p><b>New Formula</b>: Multiplicative: (0.8 * x ^ 0.8), where x is Hellfire Blast casts (this game).</p>
 <br/>
 <p><b>Djinn Challenge 3</b></p>
-<p><b>Added Effect</b>: Catalyst now also adds 100 casts per spell</p>
+<p><b>Added Effect</b>: Grants the ability to cast Catalyst.</p>  
+<p><b>Added Effect</b>: Catalyst now also adds 100 casts per spell</p>  
 <br/>
 <p><b>Djinn Challenge 4</b></p>
 <p><b>Old Challenge</b>: Have a spell duration of at least 2 year.</p>
@@ -248,8 +249,7 @@
 <p><b>Djinn 3</b>: (Magical Circuit)</p>
 <p><b>Effect</b>: Increase Maximum Mana based on researches selected.</p>
 <p><b>Old Formula</b>: sum(sumOfDigits(bought research number)) ^ 1.3</p>
-<p><b>New Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)</p>
-<p><b>Added Effect</b>: Grants the ability to cast Catalyst with one additional spell effect. Also increases Catalyst casts stat by 100 per cast.</p>
+<p><b>New Formula</b>: sum(sumOfDigits(bought research number)) ^ 1.15</p>
 <br/>
 <p><b>Djinn 4</b>: (Aura of Magic)</p>
 <p><b>Effect</b>: Increase non-unique building production based on mana produced this game.</p>
