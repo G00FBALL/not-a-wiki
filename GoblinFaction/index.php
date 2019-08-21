@@ -139,8 +139,8 @@
 <p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
 <p><b>Requirement</b>: Slave Market Unique Building</p>
 <p><b>Effect Requirement</b>: R111+</p>
-<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
-<p><b>Formula</b>: (0.45 * x ^ 0.45), where x is spells cast in this game.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coins find chance based on spells cast in this game.</p>
+<p><b>Formula</b>: (2 * log10(x) ^ 2), where x is spells cast in this game.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
@@ -160,4 +160,6 @@
 <p><b>Requirement</b>: Goblins Union</p>
 <p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
 <p><b>Formula</b>: (-0.02)</p>
+<p><b>Effect</b>: Increase Non-Unique buildings production based on their quantity.</p>
+<p><b>Formula</b>: (x ^ 0.65), where x is amount of Non-Unique buildings.</p>
 <?php include "../scripts/footer.html"; ?>

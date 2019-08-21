@@ -11,7 +11,7 @@
 <p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7)% and at least 250,000 Good buildings.</p>
 <p><b>Effect</b>: Increase Mana Regeneration additively and multiplicatively based on the amount of Order buildings you own.</p>
 <p><b>Formula</b>: Additive: (0.2 * x ^ 2), Multiplicative: (0.5 * x ^ 0.5)</p>
-<p><b>Effect</b>: Precognition also increases God's Hand bonus.</p>
+<p><b>Effect</b>: Precognition also increases Seraphim Wings and God’s Hand bonus, by double its value.</p>
 <p><b>Upgrade</b>: Works with Angel+Dwarves+Archon</p>
 <hr>
 <p><b>Archon Challenge 2</b></p>
@@ -20,7 +20,7 @@
 <p><b>Requirements</b>: Undead as Base Faction, Archon as Elite Faction, Reincarnation 139+, Archon Bloodline active, Archon challenge 1 completed.</p>
 <p><b>Challenge</b>: Have an Offline Bonus of at least 20 Dc (2e34)% while also having at least 5e10 assistants.</p>
 <p><b>Effect</b>: Multiplicatively increase assistants based on Offline Bonus.</p>
-<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is offline bonus multiplier</p>
+<p><b>Formula</b>: (1.75 * log10(1 + x) ^ 1.75), where x is offline bonus multiplier</p>
 <p><b>Effect</b>: Temporal Flux also increases Offline Bonus. (Same Formula as production bonus)</p>
 <p><b>Upgrade</b>: Works with Undead+Drow+Archon</p>
 <hr>
@@ -31,15 +31,17 @@
 <p><b>Challenge</b>: Have an individual Royal Exchange bonus of at least 5000% within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by -0.02 and increase Royal Exchange bonus by 100%.</p>
 <p><b>Effect</b>: Multiplicatively increase time spent in this game based on Royal Exchanges bought.</p>
-<p><b>Formula</b>: (5 * x ^ 0.25), where x is Royal Exchanges bought.</p>
+<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 1.25), where x is Royal Exchanges bought.</p>
 <p><b>Upgrade</b>: Works with Titan+Dragon+Archon</p>
 <hr>
 <p><b>Archon Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TimeMerge.png" align="middle"> Time Merge</b></p>
 <p>"In order to satiate our campaign we need to delve deeper into the abstract. Behold, even time itself yields to the crusade."</p>
 <p><b>Requirements</b>: Angel, Undead or Titan as Base Faction, Archon as Elite Faction, Reincarnations 148+, Archon Unique Building Purchased (Nexus), Archon challenge 3 completed.</p>
-<p><b>Challenge</b>: Have a Temporal Flux bonus of at least 6543210%.</p>
-<p><b>Effect</b>: 25% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
+<p><b>Challenge</b>: Have a Temporal Flux bonus of at least 54,321%.</p>
+<p><b>Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
+<p><b>Effect</b>: Increase Unique Building production based on time spent in this game.</p>
+<p><b>Formula</b>: (3.5 * ln(1 + x / ln(10)) ^ 3.5), where x is time spent in this game.</p>
 <p><b>Upgrade</b>: Works with Angel+Dwarves+Archon, Undead+Drow+Archon and Titan+Dragon+Archon</p>
 <hr>
 <p><b>Archon Challenge 5</b></p>

@@ -61,7 +61,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this R).</p>
-<p><b>Formula</b>: (0.07 * x ^ 0.7), where x is seconds in current spells.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7),, where x is seconds in current spells.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Wings" align="middle"> <b>Seraphim Wings</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
@@ -85,7 +85,7 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
+<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
@@ -105,7 +105,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (3.5 * x ^ 0.7), where x is offline time this R.</p>
+<p><b>Formula</b>: (15 * x ^ 0.85), where x is offline time this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
@@ -282,7 +282,7 @@
 <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.</p>
+<p><b>Formula</b>: (18 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>
@@ -308,7 +308,7 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
-<p><b>Formula</b>: (0.01 * x ^ 0.65), where x is highest max mana this R.</p>
+<p><b>Formula</b>: (0.1 * x ^ 0.65), where x is highest max mana this R.</p>
 <br/>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
@@ -395,8 +395,8 @@
 <p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
 <p><b>Requirement</b>: Slave Market Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
-<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
-<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is spells cast in this game.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coins find chance based on spells cast in this game.</p>
+<p><b>Formula</b>: (2 * log10(x) ^ 2), where x is spells cast in this game.</p>
 <p><b>Effect</b>: Grants access to Union Upgrade.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
@@ -416,6 +416,8 @@
 <p><b>Requirement</b>: Goblins Union</p>
 <p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
 <p><b>Formula</b>: (-0.02)</p>
+<p><b>Effect</b>: Increase Non-Unique buildings production based on their quantity.</p>
+<p><b>Formula</b>: (x ^ 0.65), where x is amount of Non-Unique buildings.</p>
 <br/>
 <p><b>Neutral - Druids</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
@@ -538,8 +540,8 @@
 <p><b>Proof of Balance</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
 <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
-<p><b>Production Formula</b>: (4 * x ^ 0.6), where x is time offline this R</p>
+<p><b>Proof of Chaos</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
+<p><b>Production Formula</b>: (8 * x ^ 0.8), where x is time offline this R</p>
 <p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
 <br/>
 <p><b>Union Upgrades</b></p>
@@ -588,8 +590,8 @@
 <p><b>Formula</b>: (1.3 * x ^ 1.3)%, where x is Lineage level.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend ln(FC chance) (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (25 * 0.58 * x ^ 0.58)%, where x is assistant count.</p>
-<p><b>Formula</b>: Unique (0.58 * x ^ 0.58), where x is assistant count.</p>
+<p><b>Formula</b>: Non-Unique (25 * 0.6 * x ^ 0.6), where x is assistant count.</p>
+<p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is assistant count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>

@@ -144,14 +144,14 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. Gem Grinder and all Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
-<p><b>Formula</b>: (0.01 * ln(1 + x)), where x is amount of Holy Sites owned.</p>
+<p><b>Formula</b>: (0.02 * ln(1 + x)), where x is amount of Holy Sites owned.</p>
 <p><b>Gem Grinder and Dragon's Breath Formula</b>: (0.65 * x ^ 0.65), where x is amount of Holy Sites owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this R).</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.7), where x is seconds in current spells.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is seconds in current spells.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Wings" align="middle"> <b>Seraphim Wings</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>

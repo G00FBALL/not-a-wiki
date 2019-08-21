@@ -154,7 +154,7 @@
                 ],
                 [ 120, '#R120NEMPro', true, 1
                 , function(rei) {return 100 * rei;}
-                , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%. Does not work when using Mercenaries or Elite factions.';}
+                , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ]
             ];
             function CalRBen() {
@@ -364,8 +364,8 @@
                 <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
                 <br/>
                 <p><b>120th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increases the production of all buildings based on Reincarnations made when not affiliated with Mercenaries or Elite factions.</p>
-                <p><b>Formula</b>: (100 * R)</p>
+                <p><b>Added</b>: Increase the production of all buildings based on Reincarnations made.</p>
+                <p><b>Formula</b>: (125 * R)</p>
             </div>
         </div>
         <div class="shelementwhole">

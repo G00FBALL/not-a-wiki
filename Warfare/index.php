@@ -69,7 +69,7 @@
 <br/>
 <p><b>W1400</b> - For <b>Dragon</b> - Research Name: <b>Cataclysm</b><p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon</b><p><b>Cost</b>: 4.249 Qivg (4.249e78)</b><p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.</b><p><b>Formula</b>: (650 * x ^ 0.35), where x is clicks (this game).</p>
 <br/>
-<p><b>W3050</b> - For <b>Evil Mercenary</b> - Research Name: <b>Flanking</b><p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325). </b><p><b>Cost</b>: 809 SpQig (8.09e176)</b><p><b>Effect</b>: Increases the production of buildings one tier directly above or below a Unique Building based on the amount of assistants you own.</b><p><b>Formula</b>: (2 * x ^ 0.8), where x is assistants.</p>
+<p><b>W3050</b> - For <b>Mercenary</b> - Research Name: <b>Flanking</b><p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325). </b><p><b>Cost</b>: 809 SpQig (8.09e176)</b><p><b>Effect</b>: Increases the production of buildings one tier directly above or below a Unique Building based on the amount of assistants you own.</b><p><b>Formula</b>: (2 * x ^ 0.8), where x is assistants.</p>
 <br/>
 <p><b>W3150</b> - For <b>All Factions</b> - Research Name: <b>Upheaval</b><p><b>Requirement</b>: 60000 Farms, Inns and Blacksmiths.  </b><p><b>Cost</b>: 731.6 NoQig (7.316e182)</b><p><b>Effect</b>: Increases the production of all buildings based on their tier, giving the highest bonus to the lowest.</b><p><b>Formula</b>: (150 * (12 - T) ^ 2.15), where T is building tier.</p>
 <?php include "../scripts/footer.html"; ?>

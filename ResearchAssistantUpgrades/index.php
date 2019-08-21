@@ -23,7 +23,7 @@
 <p><b>Requirement</b>: 5 days as Titans(Total across all R)
 <p><b>Cost</b>: 255.2 OcQig (2.552E179)
 <p><b>Effect</b>: Gain additional assistants based on your total time spent offline (in hours).
-<p><b>Formula</b>: floor(0.2 * (x / 60) ^ 0.85), where x is your Time Spent Offline (Total) stat.
+<p><b>Formula</b>: floor(0.85 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R).
 <br/>
 <br/>
 <p><b>C1325</b> - <b>For</b>:  All Factions - <b>Research Name</b>: Plasmation

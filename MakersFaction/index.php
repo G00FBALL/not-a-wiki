@@ -9,13 +9,13 @@
 <p><b>Alignment</b>: (Balance)</p>
 <p><b>Faction spell</b>: Infinite Spiral</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
+<p><b>Formula</b>: (10 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
-<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
+<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (10 + 0.025 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (10 + 0.05 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
 <p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
@@ -70,11 +70,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
-<p><b>Formula</b>: (0.2 * x ^ 0.85), where x is highest amount of buildings built this Reincarnation.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.85), where x is highest amount of buildings built this Reincarnation.</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfiniteImprovements.png" align="middle"> Infinite Improvements</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
-<p><b>Effect</b>: Increase the production of Unique buildings based on time spent as Balance.</p>
+<p><b>Effect</b>: Increase the production of All Buildings based on time spent as Balance.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is time spent as balance this R in seconds.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
@@ -105,7 +105,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stonecarving</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-<p><b>Formula</b>: (30 + 0.03 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (30 + 0.3 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -151,7 +151,7 @@
 <p><b>Requirements</b>: Makers Union</p>
 <p><b>Cost</b>: 100 QiQig (1e170)</p>
 <p><b>Effect</b>: Artifacts count more based on time spent in this Reincarnation.</p>
-<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is time spent this Reincarnation.(in seconds)</p>
+<p><b>Formula</b>: (0.45 * x ^ 0.45), where x is time spent this Reincarnation.(in seconds)</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BedrockFoundations.png" align="middle"> Bedrock Foundations</b></p>
 <p><b>Requirements</b>: Makers Union</p>

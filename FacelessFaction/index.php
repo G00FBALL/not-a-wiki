@@ -193,5 +193,5 @@
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
-<p><b>Formula</b>: (0.01 * x ^ 0.65), where x is highest max mana this R.</p>
+<p><b>Formula</b>: (0.1 * x ^ 0.65), where x is highest max mana this R.</p>
 <?php include "../scripts/footer.html"; ?>

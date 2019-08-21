@@ -74,7 +74,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on spells of your current alignments cast in this game.</p>
-<p><b>Formula</b>: (25 * ln(1 + x) ^ 2), where x is alignments spells cast in this game.</p>
+<p><b>Formula</b>: (25 * ln(1 + x) ^ 2.5), where x is alignments spells cast in this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenWill.png" align="middle"> Forbidden Will</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
@@ -84,7 +84,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
 <p><b>Effect</b>: Increase Maximum Mana based on researches selected.</p>
-<p><b>Formula</b>: sum(sumOfDigits(bought research number)) ^ 1.3</p>
+<p><b>Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)</p>
+<p><b>Effect</b>: Grants the ability to cast Catalyst with one additional spell effect. Also increases Catalyst casts stat by 100 per cast.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnFriendshipPact.png" align="middle">  Djinn Friendship Pact</b></p>
@@ -94,17 +95,17 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic</b></p>
 <p><b>Cost</b>: 100 UQig (1e158)</p>
 <p><b>Effect</b>: Increase non-unique building production based on mana produced this game.</p>
-<p><b>Formula</b>: (0.125 * x ^ 0.325), where x is mana produced this game.</p>
+<p><b>Formula</b>: (0.325 * x ^ 0.325), where x is mana produced this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiritualBindings.png" align="middle"> Spiritual Bindings</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
 <p><b>Effect</b>: Increase assistants based on time spent offline.</p>
-<p><b>Formula</b>: (0.65 * x ^ 0.35), where x is time spent offline this game in seconds.</p>
+<p><b>Formula</b>: (0.65 * x ^ 0.5), where x is time spent offline this game in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WildSurge.png" align="middle"> Wild Surge</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
-<p><b>Formula</b>: (0.35 * x ^ 0.65), where x is the duration of your longest spell.</p>
+<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is the duration of your longest spell.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnAlliance.png" align="middle">  Djinn Alliance</b></p>
@@ -114,7 +115,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-<p><b>Formula</b>: (0.04 * x ^ 0.4), where x is mount of assistants you own..</p>
+<p><b>Formula</b>: (0.05 * x ^ 0.35), where x is mount of assistants you own..</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -125,7 +126,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaCreatures.png" align="middle"> Mana Creatures</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-<p><b>Formula</b>: (2 * log10(1 + x) ^ 2), where x is highest mana produced in a single game this reincarnation.</p>
+<p><b>Formula</b>: (1.8 * log10(1 + x) ^ 1.8), where x is highest mana produced in a single game this reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>

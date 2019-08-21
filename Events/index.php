@@ -199,7 +199,7 @@ var x = setInterval(function() {
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="5,367,62,425" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="69,368,125,423" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,366,190,424" shape="rect">
-    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect a full stack of 480 Goblin Crowns while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: (0.45 * x ^ 0.45), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="196,367,255,425" shape="rect">
+    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect a full stack of 480 Goblin Crowns while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="196,367,255,425" shape="rect">
     </map></p>
     <hr>
 <style>
@@ -353,7 +353,7 @@ div#images div{
                 <p><b>Requirement</b>: Collect a full stack of 480 Goblin Crowns while having no faction.</p>
                 <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
                 <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
-                <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is amount of buildings you own. (multiplicative)</p>
+                <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
                 <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                 <hr>
                 <p><b>Shop Item</b></p>

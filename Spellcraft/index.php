@@ -31,7 +31,7 @@
 <br/>
 <p><b>S180</b> - For <b>Fairy</b> - Research Name: <b>Incantation</b></p><p><b>Requirement</b>: Research Enchanting (S1) & Mysticism (S105)</b></p><p><b>Cost</b>: 3.273 UQig (3.273E156)</b></p><p><b>Effect</b>: Increase mana regeneration based on the number of assistants you own.</b></p><p><b>Formula</b>: floor(16 * x ^ 0.6) / 10, where x is the number of assistants you have.</p>
 <br/>
-<p><b>S200</b> - For <b>All Factions</b> - Research Name</b>: <b>Cryomancy</b></p><p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</b></p><p><b>Cost</b>: 82.65 DQig (8.265E160)</b></p><p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).</b></p><p><b>Formula</b>: (2 * ln(x) ^ 1.75)%, where x is mana produced (this game).</p>
+<p><b>S200</b> - For <b>All Factions</b> - Research Name</b>: <b>Cryomancy</b></p><p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</b></p><p><b>Cost</b>: 82.65 DQig (8.265E160)</b></p><p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).</b></p><p><b>Formula</b>: (5 * ln(x) ^ 1.25), where x is mana produced (this game).</p>
 <br/>
 <p><b>S215</b> - For <b>All Factions</b> - Research Name</b>: <b>Projection</b></p><p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) &amp; Incantation (S180)</b></p><p><b>Cost</b>: 36.16 TQig (3.616E163)</b></p><p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</b></p><p><b>Formula</b>: 100 * ((10 * x) ^ y), where x is active spells and y is ascension. (does not include Spiritual Surge)</p>
 <br/>
@@ -69,7 +69,7 @@
 <br/>
 <p><b>S1500</b> - For <b>Faceless,Dragon</b> - Research Name: <b>Psionics</b></p><p><b>Requirement</b>: 1000 Base Assistants, Research S545, E1325, as Faceless, Dragon</p><p><b>Cost</b>: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of assistants you own.<p><b>Formula</b>: (8.5 * x ^ 0.85)%, where x is assistants.</p>
 <br/>
-<p><b>S2875</b> - For <b>Good Mercenary</b> - Research Name: <b>Scholarship</b></p><p><b>Requirement</b>: 11000 Merc Unique Buildings.</b></p><p><b>Cost</b>: 30.5 QaQig (3.05e166)</p><p><b>Effect</b>: Increases the production of Non-Unique buildings by 5% per Unique building.</p>
+<p><b>S2875</b> - For <b>Mercenary</b> - Research Name: <b>Scholarship</b></p><p><b>Requirement</b>: 11000 Merc Unique Buildings.</b></p><p><b>Cost</b>: 30.5 QaQig (3.05e166)</p><p><b>Effect</b>: Increases the production of Non-Unique buildings by 5% per Unique building.</p>
 <br/>
 <p><b>S3200</b> - For <b>All Factions</b> - Research Name: <b>Manipulation</b></p><p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p><p><b>Cost</b>: 695.7 Sxg (6.957e185)</b><p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).</b><p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 1200%.</p>
 <?php include "../scripts/footer.html"; ?>

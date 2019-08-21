@@ -12,10 +12,10 @@
 <p><b>Formula</b>: (ln(x) ^ 1.25) (without AR10), (1.25 * ln(x) ^ 1.5) (with AR10), where x is mana produced in this game.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-<p><b>Requirement</b>: R125+, Cast Precognition with at least 1 Qi (1e18) mana regeneration.</p>
+<p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 <p><b>Note</b>: Scale off invisible spell duration modifiers.
-<p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e18 with it not active</p>
 <hr>
@@ -41,7 +41,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"> Archon Mask</b></p>
 <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
 <p><b>Cost</b>: 10 Dqag (1e130)</p>
-<p><b>Effect</b>: Increase Faction Coin find chance by 200%.</p>
+<p><b>Effect</b>: Increase Faction Coin find chance by 500%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
 <p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
@@ -61,12 +61,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarTrading.png" align="middle"> Star Trading</b></p>
 <p><b>Cost</b>: 1 NoQag (1e150)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the maximum amount of Royal Exchanges you made in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * x), where x is Royal Exchanges.</p>
+<p><b>Formula</b>: (0.9 * x), where x is Royal Exchanges.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnergyRecharge.png" align="middle"> Energy Recharge</b></p>
 <p><b>Cost</b>: 10 NoQag (1e151)</p>
-<p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * x ^ 0.55), where x is time spent as Order this R in seconds.</p>
+<p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation. Also increase Precognition base and scaling.</p>
+<p><b>Formula</b>: (0.25 * x ^ 0.5), where x is time spent as Order this R in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 <p><b>Cost</b>: 100 NoQag (1e152)</p>
@@ -86,7 +86,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPride.png" align="middle"> Archon Pride</b></p>
 <p><b>Cost</b>: 1 DQig (1e159)</p>
 <p><b>Effect</b>: Increase assistants based on your current Lineage level.</p>
-<p><b>Formula</b>: (1.25 * x ^ 1.25), where x is your current Lineage level.</p>
+<p><b>Formula</b>: (x), where x is your current Lineage level.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Absentmindedness.png" align="middle"> Absent-mindedness</b></p>
 <p><b>Cost</b>: 10 DQig (1e160)</p>
@@ -101,17 +101,17 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SuperiorConsciousness.png" align="middle"> Superior Consciousness</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Increase the production of Unique buildings based on their quantity.</p>
-<p><b>Formula</b>: (0.85 * x ^ 0.85), where x is Unique Buildings.</p>
+<p><b>Formula</b>: (x), where x is Unique Buildings.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrangeAttraction.png" align="middle"> Strange Attraction</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
 <p><b>Effect</b>: Increase Faction Coin find chance based on the activity time of your least used spell.</p>
-<p><b>Formula</b>: (50 + 0.75 * x ^ 0.75), where x is spell with least activity time this R in seconds.</p>
+<p><b>Formula</b>: (100 + 0.8 * x ^ 0.8), where x is spell with least activity time this R in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this Reincarnation.</p>
-<p><b>Formula</b>: (log10(1 + x) ^ 2.5), where x is mana produced in this Reincarnation.</p>
+<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is mana produced in this Reincarnation.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Angel and Undead Coins</p>
@@ -146,8 +146,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
 <p><b>Requirements</b>: Archon Union</p>
 <p><b>Cost</b>: 100 QiQig (1e170)</p>
-<p><b>Effect</b>: Lineage levels count 300% more for all purposes. Increase Precognition base and scaling.</p>
-<p><b>Formula</b>: (1.25 * ln(x) ^ 1.5), where x is mana produced in this game.</p>
+<p><b>Effect</b>: Lineage levels count 200% more for all purposes.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbsoluteHierarchy.png" align="middle"> Absolute Hierarchy</b></p>
 <p><b>Requirements</b>: Archon Union</p>

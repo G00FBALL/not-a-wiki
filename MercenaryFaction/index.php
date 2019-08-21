@@ -252,7 +252,7 @@
 <p><b>Requirement</b>: Tyrant Garrison</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-<p><b>Formula</b>: (120000 * log10(0.125 * x)), where x is amount of TC casts.</p>
+<p><b>Formula</b>: (120000 * log10(8 + 0.125 * x)), where x is amount of TC casts.</p>
 <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
 <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
 <br/>
@@ -288,13 +288,9 @@
 <p><b>Ascension 3 (R160+)</b>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
 <p><b>In-game description</b>: The Mercenary Lord has challenged you to a duel of skills. Complete the following tasks in a single Reincarnation to show your ability as a ruler.</p>
-<p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 1 Nod (1e60) Faction Coins, 300000 Buildings (MAX), 1 Qi (1e18) Assistants (MAX)</p>
+<p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 1 Nod (1e60) Faction Coins, 300000 Buildings (MAX), 100 Qa (1e17) Assistants (MAX)</p>
 <p><b>Note</b>: 1 time purchase</p>
 <p><b>Effect</b>: Unlocks Mercenary in Ascension 3</p>
-<br/>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBuildingContract.png" align="middle"> Mercenary Building Contract</b></p>
-<p>You can purchase one Ascension 2 Unique Building from any faction, provided you meet the requisites. You will not be able to change it during the current run.</p>
-<p><b>Cost</b>: Free</p>
 <br/>
 <p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16</p>
 <br/>
@@ -318,6 +314,11 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade16.png" align="middle"> Mercenary Upgrade 16</b></p>
 <p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
 <p><b>Cost</b>: 33000 FC</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBuildingContract.png" align="middle"> Mercenary Building Contract</b></p>
+<p><b>Requirements</b>: R165+, Aligned with Mercs</p>
+<p>You can purchase one Ascension 2 Unique Building from any faction, provided you meet the requisites. You will not be able to change it during the current run.</p>
+<p><b>Cost</b>: Free</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ObsidianCrown.png" align="middle"> Obsidian Crown</b></p>
 <p><b>Requirements</b>: R170+, Aligned with Mercs, 10 excavation resets (This game)</p>

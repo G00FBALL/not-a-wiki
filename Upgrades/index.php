@@ -177,10 +177,12 @@
             <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
-            <p><b>Requirement</b>: R7+, but at least 100 Elven upgrades (Total, Accross all Rs).</p>
+            <p><b>Requirement</b>: R7+</p>
             <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
             <p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
-            <p><b>Formula</b>: floor(15 * ln(1 + x)^1.75), where x is number of Faction Coins found in this game.</p>
+            <p><b>Formula</b>: (10 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
+            <p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on the amount of clicks made in this game.</p>
+            <p><b>Formula</b>: (10 * floor(log10(1 + x)), where x is clicks made in this game.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" align="middle"><b> Sturdy Treasure Series</b></p>
             <p><b>6 Upgrades</b>:</p>
@@ -640,7 +642,7 @@
             <p><b>Requirement</b>: Flesh Workshop Quest, Evil alignment, Proof of Order</p>
             <p><b>Effect</b>: Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on mana regen.</p>
-            <p><b>Formula</b>: (10 * x ^ 0.6), where x is mana regen per second.</p>
+            <p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> <b>Burning Abyss</b></p>
@@ -672,7 +674,7 @@
             <p><b>Requirement</b>: Forbidden Library Quest, Neutral alignment, Proof of Chaos</p>
             <p><b>Effect</b>: Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on spells cast.</p>
-            <p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.</p>
+            <p><b>Formula</b>: (18 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuildingUpgrade.png" alt="Ziggurat" align="middle"> <b>Ziggurat</b></p>
@@ -1323,7 +1325,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
             <p><b>Requirement</b>: Find all 3 Iron Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130).</p>
-            <p><b>Effect</b>: Increase Faction Coin find chance by 200%.</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by 500%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"><b> Djinn Mask</b></p>
             <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
@@ -2195,7 +2197,7 @@ div#images div{
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"><b> Archon Mask</b></p>
             <p><b>Requirements</b>: Find all 3 Iron Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
-            <p><b>Effect</b>: Increase Faction Coin find chance by 200%.</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by 500%.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"><b> Djinn Mask</b></p>
             <p><b>Requirements</b>: Find all 3 Crystal Fragments.</p>
@@ -2299,10 +2301,10 @@ div#images div{
             <p><b>Formula</b>: (y * x ^ 1.25), where y is FC%, x is assistants owned.</p>
             <hr>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-            <p><b>Requirement</b>: R125+, Cast Precognition with at least 1 Qi (1e18) mana regeneration.</p>
+            <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
             <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
             <p><b>Effect</b>: Scale off invisible spell duration modifiers.</p>
-            <p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
+            <p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
             <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
             <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e18 with it not active</p>
             <hr>
@@ -2860,7 +2862,7 @@ div#images div{
     <area target="" research="Upgrade 21: Monster Ex Machina<p>Requirement: R40+, 4000 Orcish Arenas<p>Cost: 2.626Ocd (2.626e57)<p>Increase Orcish Arenas production by 50%." coords="2,110,54,163" shape="rect">
     <area target="" research="Upgrade 22: Dramatic Twist<p>Requirement: R40+, 10000 Orcish Arenas<p>Cost: 290.3 Tqag (2.903e134)<p>Increase Orcish Arena production by 50%" coords="54,111,107,162" shape="rect">
     <area target="" research="Upgrade 23: Victory Fanfare<p>Requirement: R100+, 18000 Orcish Arenas<p>Cost: 315.3 Notg (3.153e122)<p><p>Increase the production of Orcish Arena by 100%." coords="108,110,161,163" shape="rect">
-    <area target="" research="<b>Flesh Workshops</b><p>At R100, Orcish Arenas can be upgraded to the Unique Building: Flesh Workshops, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Undead</p><p><b>Unlock Requirements:</b> R100+, 85M% Offline Prod Bonus</p><p><b>Effect:</b> Grants access to Undead Union.</p><p><b>Formula: </b>(10 * x ^ 0.6), where x is mana regen per second.</p>" coords="349,111,538,161" shape="rect">
+    <area target="" research="<b>Flesh Workshops</b><p>At R100, Orcish Arenas can be upgraded to the Unique Building: Flesh Workshops, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment: </b>Proof of Order, Undead</p><p><b>Unlock Requirements:</b> R100+, 85M% Offline Prod Bonus</p><p><b>Effect:</b> Grants access to Undead Union.</p><p><b>Formula: </b>(15 * x ^ 0.65), where x is mana regen per second.</p>" coords="349,111,538,161" shape="rect">
 </map>
 <p><b>Witch Conclave Upgrades (Alignment: Evil)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/witchconclavegroup2.png" usemap="#witchconclavegroup1-map">

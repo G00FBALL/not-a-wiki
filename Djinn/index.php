@@ -20,9 +20,9 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
 <p>"As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!"</p>
 <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, Reincarnation 139+, Djinn Bloodline active, Djinn challenge 1 completed.</p>
-<p><b>Challenge</b>: Have at least 6 T (6e12) Mana Produced within 6 hours of a new game.</p>
+<p><b>Challenge</b>: Have at least 666 B (6.66e11) Mana Produced within 6 hours of a new game.</p>
 <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
-<p><b>Formula</b>: Multiplicative: (0.6 * x ^ 0.4), where x is Hellfire Blast casts (this game).</p>
+<p><b>Formula</b>: Multiplicative: (0.8 * x ^ 0.8), where x is Hellfire Blast casts (this game).</p>
 <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
 <p><b>Formula</b>: Additive: (x ^ 0.7), where x is number of trophies. Applies only for real evil spells, adds casts directly to the spell’s casts.</p>
 <p><b>Upgrade</b>: Works with Demon+Drow+Djinn</p>
@@ -33,6 +33,7 @@
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
 <p><b>Challenge</b>: Have at least 8 T (8e12) assistants within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Catalyst casts one additional spell.</p>
+<p><b>Effect</b>: Catalyst also adds 100 casts per spell.</p>
 <p><b>Effect</b>: Makes Limited Wish scale faster based on Research Points used in this game.</p>
 <p><b>Formula</b>: (y = ln(1 + sum of x))%, where x =  all selected researches' number (e.g. W275 = 275)</p>
 <p><b>Formula</b>: y converted to a multiplier (so 5% = 1.05) is applied to both exponents of LW: ( (2.25 * ln(1+a) ^ (1.35 * y)) * (b^(0.45 * y)), where a= duration, b = casts.</p>
@@ -42,7 +43,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
 <p>"This generation decided that we should give them a few more wishes before they give in to our demands for a change."</p>
 <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
-<p><b>Challenge</b>: Have a spell duration of at least 2 years.</p>
+<p><b>Challenge</b>: Have a spell duration of at least 1 year.</p>
 <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
 <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn, Demon+Drow+Djinn and Faceless+Dragon+Djinn</p>
 <hr>

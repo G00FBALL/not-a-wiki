@@ -8,7 +8,7 @@
 <p><b>Requirement</b>: Have 6000 mana (as Fairy) (This Game)
 <p><b>Cost</b>: 318.8 Tqag (3.188E134)
 <p><b>Effect</b>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.
-<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%. 
+<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%.
 <p><b>Formula</b>: floor(x /650), where x is the number of Goblin Banks you own.
 <p><b>------------------------------</b>
 <p><b>Craftsmanship</b>
@@ -24,7 +24,7 @@
 <p><b>Cost</b>: 52.7 Qiqig (5.27E169)
 <p><b>Effect</b>: Increase the chance to find Faction Coins by a multiplicative 50%
 <p><b>Effect</b>: Increase the chance to find faction coins based on total time spent offline. (in minutes)
-<p><b>Formula</b>: floor(2.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.
+<p><b>Formula</b>: floor(7.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.
 <br/>
 <br/>
 <p><b>C400</b> - <b>For</b>: All Factions - <b>Research Name</b>: Gravitation

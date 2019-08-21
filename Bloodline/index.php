@@ -22,10 +22,11 @@
 <p><b>Formula</b>: 250 * x ^ 0.9%, where x is the number of assistants you have.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven</b></p>
-<p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game and autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
-<p><b>Formula</b>: floor(15 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
-<p><b>Effect</b>: Multiplies Faction Coin find chance based on clicks made.</p>
-<p><b>Formula</b>: floor(log10(1 + x) * 10)</p>
+<p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
+<p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
+<p><b>Formula</b>: (10 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
+<p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on the amount of clicks made in this game.</p>
+<p><b>Formula</b>: (10 * floor(log10(1 + x)), where x is clicks made in this game.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelBloodline.png" alt="Angel" align="middle"><b> Angel</b></p>
 <p><b>Effect</b>: Increase mana regeneration based on spells cast this game.</p>
@@ -61,7 +62,7 @@
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowBloodline.png" alt="Drow" align="middle"><b> Drow</b></p>
 <p><b>Effect</b>: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.</p>
-<p><b>Formula</b>: 1.6 * x ^ 0.6, where x is time spent in this game in seconds.</p>
+<p><b>Formula</b>: (1.7 * x ^ 0.7), where x is time spent in this game in seconds.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonBloodline.png" alt="Dragon" align="middle"><b> Dragon</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.</p>

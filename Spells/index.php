@@ -940,7 +940,7 @@
     <p><b>Requirement</b>: Tyrant Garrison</p>
     <p><b>Cost</b>: 1 Qaqag (1e135)</p>
     <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-    <p><b>Formula</b>: (120000 * log10(0.125 * x)), where x is amount of TC casts.</p>
+    <p><b>Formula</b>: (120000 * log10(8 + 0.125 * x)), where x is amount of TC casts.</p>
     <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
     <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
     <br/>
@@ -1005,9 +1005,9 @@
 <p><b>Formula</b>: (ln(x) ^ 1.25) (without AR10), (1.25 * ln(x) ^ 1.5) (with AR10), where x is mana produced in this game.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
-<p><b>Requirement</b>: R125+, Cast Precognition with at least 1 Qi (1e18) mana regeneration.</p>
+<p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
-<p><b>Formula</b>: (7 * x ^ 0.7), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
 <p><b>Effect</b>: Also scale off invisible spell duration modifiers.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e19 with it not active</p>
@@ -1041,13 +1041,13 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"> <b>Infinite Spiral</b> (Makers)</p>
 <p><b>Cost</b>: 505000 mana</p>
 <p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (12.5 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
+<p><b>Formula</b>: (10 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
 <br/>
 <p><b>Effect</b>: Increase max mana based on FC chance.</p>
-<p><b>Formula</b>: (1.65 * log10(1 + x) ^ 1.65), where x is FC chance.</p>
+<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (10 + 0.025 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (10 + 0.05 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
 <p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>

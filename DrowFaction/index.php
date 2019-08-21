@@ -178,8 +178,8 @@
 <p><b>Proof of Balance</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
 <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of a specific building tier depending on building amount, and increase its production based on time spent offline this reincarnation.</p>
-<p><b>Production Formula</b>: (4 * x ^ 0.6), where x is time offline this R</p>
+<p><b>Proof of Chaos</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
+<p><b>Production Formula</b>: (8 * x ^ 0.8), where x is time offline this R</p>
 <p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
 <br/>
 <p><b>Union Upgrades</b></p>

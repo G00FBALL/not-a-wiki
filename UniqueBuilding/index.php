@@ -83,7 +83,7 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (10 * x ^ 0.6), where x is mana regen per second.</p>
+<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
 <p><b>Alignment</b>: Evil, Proof of Order</p>
 <p><b>Requirement</b>: A2, Flesh Workshop Quest (85M% offline production bonus)</p>
 <hr>
@@ -146,7 +146,7 @@
 <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5), where x is spells cast.</p>
+<p><b>Formula</b>: (18 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
 <p><b>Alignment</b>: Neutral, Proof of Chaos</p>
 <p><b>Requirement</b>: A2, Forbidden Library Quest (5000 Excavations)</p>
 <hr>

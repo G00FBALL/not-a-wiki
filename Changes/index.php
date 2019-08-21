@@ -157,8 +157,12 @@
 <p><b>Added Effect</b>: Catalyst now also adds 100 casts per spell</p>
 <br/>
 <p><b>Djinn Challenge 4</b></p>
+<p><b>Old Effect</b>: 25% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.
+<p><b>New Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.
 <p><b>Old Challenge</b>: Have a spell duration of at least 2 year.</p>
 <p><b>New Challenge</b>: Have a spell duration of at least 1 year.</p>
+
+
 <br/>
 <p><b>Makers Challenge 2</b></p>
 <p><b>Effect</b>: While Mana Regeneration is higher than Maximum Mana, each time you cast a spell, you also cast free Tax Collections based on the difference between them.</p>
@@ -175,7 +179,7 @@
 <br/>
 <p><b>Makers Challenge 5</b></p>
 <p><b>Old Challenge</b>: Have at least 10 T (1e13) assistants, 10e9 Maximum Mana and 2e22 Faction Coin find chance within 8 minutes of a new game.</p>
-<p><b>Old Challenge</b>: Have at least 10 T (1e12) assistants, 1 B (1e9) Maximum Mana and 20 Sx (2e22) Faction Coin find chance within 8 minutes of a new game.</p>
+<p><b>New Challenge</b>: Have at least 1 T (1e12) assistants, 1 B (1e9) Maximum Mana and 20 Sx (2e22) Faction Coin find chance within 8 minutes of a new game.</p>
 <hr>
 <p><b>Faction Upgrades</b></p>
 <p><b>Angel 10</b>: (Heaven’s Brilliance)</p>
@@ -283,7 +287,7 @@
 <br/>
 <p><b>Makers 3</b>: (Infinite Improvements)</p>
 <p><b>Effect</b>: Increase the production of Unique buildings based on time spent as Balance.</p>
-<p><b>Effect</b>: Increase the production of All Buildings based on time spent as Balance.</p>
+<p><b>New Effect</b>: Increase the production of All Buildings based on time spent as Balance.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is time spent as balance this R in seconds.</p>
 <br/>
 <p><b>Makers 7</b>: (Stonecarving)</p>

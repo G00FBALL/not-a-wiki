@@ -13,8 +13,8 @@
 <p><b>S200</b> - <b>For</b>: All Factions - <b>Research Name</b>: Cryomancy</p>
 <p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</p>
 <p><b>Cost</b>: 82.65 DQig (8.265E160)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on your current mana (the less mana, the better bonus).</p>
-<p><b>Formula</b>: round((100-x)^1.75)%%, where x is percentage of max mana.</p>
+<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).</p>
+<p><b>Formula</b>: (5 * ln(x) ^ 1.25), where x is mana produced (this game).</p>
 <br/>
 <p><b>S270</b> - <b>For</b>: All Factions - <b>Research Name</b>: Runecarving</p>
 <p><b>Requirement</b>: 500,000 clicks (This game)</p>

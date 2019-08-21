@@ -35,7 +35,7 @@
 <br/>
 <p><b>E225</b> - For <b>Goblin</b> - Research Name: <b>Forgery</b><p><b>Requirement</b>: Research Coinage (E1) &amp; Gilding (A50)</b><p><b>Cost</b>: 2.087 Qaqig (2.087E165)</b><p><b>Effect</b>: Increase the production of Evil Buildings based on the amount of Goblin Banks you own.</b><p><b>Formula</b>: round(10 * x ^ 0.85)%, where x is the number of Goblin Banks you own.</p>
 <br/>
-<p><b>E230</b> - For <b>Demon</b> - Research Name: <b>Coercion</b><p><b>Requirement</b>: Research Exertion (W50) &amp; Diplomacy (E30)</b><p><b>Cost</b>: 2.087 Qaqig (2.087E165)</b><p><b>Effect</b>: Increases trophy count based on time spent as Evil this R. </b><p><b>Formula</b>: (0.2 * x ^ 0.65), where x is time spent as Evil this R.</p>
+<p><b>E230</b> - For <b>Demon</b> - Research Name: <b>Coercion</b><p><b>Requirement</b>: Research Exertion (W50) &amp; Diplomacy (E30)</b><p><b>Cost</b>: 2.087 Qaqig (2.087E165)</b><p><b>Effect</b>: Increases trophy count based on time spent as Evil this R. </b><p><b>Formula</b>: (0.25 * x ^ 0.5), where x is time spent as Evil this R.</p>
 <br/>
 <p><b>E250</b> - For <b>All Factions</b> - Research Name: <b>Trade Routes</b><p><b>Requirement</b>: Research Forgery (E225) &amp; Royal Demand (E145)</b><p><b>Cost</b>: 52.7 Qiqig (5.27E169)</b><p><b>Effect</b>: Increase mana regeneration based on the amount of Royal Exchanges you purchased.</b><p><b>Formula</b>: floor(10 * x ^ 0.55) / 10, where x is your Royal Exchanges Made stat.</p>
 <br/>

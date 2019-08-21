@@ -37,13 +37,13 @@
 <br/>
 <p><b>C225</b> - For <b>Elf</b> - Research Name: <b>Automatons</b><p><b>Requirement</b>: Research Dummy Targets (C1) &amp; Vivification (A120).</b><p><b>Cost</b>: 2.087 Qaqig (2.087E165)</b><p><b>Effect</b>: Each Elven Training Grounds counts as 200 buildings for Call to Arms purposes.</p>
 <br/>
-<p><b>C250</b> - For <b>All Factions</b> - Research Name: <b>Magnetism</b><p><b>Requirement</b>: Research Tinkering (C150) &amp; Critical Strike (W225).</b><p><b>Cost</b>: 52.7 Qiqig (5.27E169)<p><b>Effect</b>: Increase the chance to find Faction Coins by a multiplicative 50%<p><b>Effect</b>: Increase the chance to find faction coins based on total time spent offline. (in minutes)</b><p><b>Formula</b>: floor(2.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.</p>
+<p><b>C250</b> - For <b>All Factions</b> - Research Name: <b>Magnetism</b><p><b>Requirement</b>: Research Tinkering (C150) &amp; Critical Strike (W225).</b><p><b>Cost</b>: 52.7 Qiqig (5.27E169)<p><b>Effect</b>: Increase the chance to find Faction Coins by a multiplicative 50%<p><b>Effect</b>: Increase the chance to find faction coins based on total time spent offline. (in minutes)</b><p><b>Formula</b>: floor(7.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.</p>
 <br/>
 <p><b>C251</b> - For <b>Titan</b> - Research Name: <b>Architecture</b><p><b>Requirement</b>: Secrets of the Ancients (as Titan)</b><p><b>Cost</b>: 79.05 QiQig (79.05E168)</b><p><b>Effect</b>: Increase the production of Olympian Halls based on the amount of buildings you own.</b><p><b>Formula</b>: round(0.5 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.</p>
 <br/>
 <p><b>C300</b> - For <b>Druid</b> - Research Name: <b>Weighting</b><p><b>Requirement</b>: 650 Lightning Strikes (This R)<p><b>Cost</b>: 33.6 OcQig (33.6E177)</b><p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 2000%.</b><p><b>Effect</b>: Also increase the production of every Grand Balance target based on maximum mana.</b><p><b>Formula</b>: 10 * (2.15 * log10(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier.</p>
 <br/>
-<p><b>C305</b> - For <b>All Factions</b> - Research Name: <b>Golemcraft</b><p><b>Requirement</b>: 2 days as Titans (Total across all R)<p><b>Cost</b>: 255.2 OcQig (2.552E179)</b><p><b>Effect</b>: Gain additional assistants based on your total time spent offline (in hours).</b><p><b>Formula</b>: floor(0.2 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R).</p>
+<p><b>C305</b> - For <b>All Factions</b> - Research Name: <b>Golemcraft</b><p><b>Requirement</b>: 2 days as Titans (Total across all R)<p><b>Cost</b>: 255.2 OcQig (2.552E179)</b><p><b>Effect</b>: Gain additional assistants based on your total time spent offline (in hours).</b><p><b>Formula</b>: floor(0.85 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R).</p>
 <br/>
 <p><b>C330</b> - For <b>All Factions</b> - Research Name: <b>Overload</b><p><b>Requirement</b>: Research Aeromancy (S250) &amp; Critical Strike (W225)</b><p><b>Cost</b>: 6.443 Sxg (6.443E183)</b><p><b>Effect</b>: Increase mana regeneration based on the amount of research made.<p><b>Formula</b>: (3.5 *  x  ^0.35), where x is researches made.</p>
 <br/>
@@ -69,7 +69,7 @@
 <br/>
 <p><b>C1500</b> - For <b>Titan,Dragon</b> - Research Name: <b>Gargantuaness</b><p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</b><p><b>Cost</b>: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.<p><b>Formula</b>: ((1.5 * x) ^ 0.7), where x is neutral time (this R) in minutes.</p>
 <br/>
-<p><b>C3000</b> - For <b>Neutral Mercenary</b> - Research Name: <b>Customizing</b><p><b>Requirement</b>: 9000 Excavations as Mercenary.</b><p><b>Cost</b>: 850.7 SxQig (8.507e173)<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.<p><b>Formula</b>: (2 * x ^ 2), where X is artifacts you own.</p>
+<p><b>C3000</b> - For <b>Mercenary</b> - Research Name: <b>Customizing</b><p><b>Requirement</b>: 9000 Excavations as Mercenary.</b><p><b>Cost</b>: 850.7 SxQig (8.507e173)<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.<p><b>Formula</b>: (2 * x ^ 2), where X is artifacts you own.</p>
 <br/>
 <p><b>C3100</b> - For <b>All Factions</b> - Research Name: <b>Engineering</b><p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).</b><p><b>Cost</b>: 769.3 OcQig (7.693e179)<p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.</p>
 <?php include "../scripts/footer.html"; ?>
