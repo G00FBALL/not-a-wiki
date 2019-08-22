@@ -272,8 +272,8 @@
 <br/>
 <p><b>Djinn 7</b>: (Wishing Well)</p>
 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-<p><b>Old Formula</b>: (0.04 * x ^ 0.4), where x is mount of assistants you own.</p>
-<p><b>New Formula</b>: (0.05 * x ^ 0.35), where x is mount of assistants you own.</p>
+<p><b>Old Formula</b>: (0.04 * x ^ 0.4), where x is amount of assistants you own.</p>
+<p><b>New Formula</b>: (0.05 * x ^ 0.35), where x is amount of assistants you own.</p>
 <br/>
 <p><b>Djinn 9</b>: (Mana Creatures)</p>
 <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
@@ -2562,8 +2562,8 @@ div#images div{
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well (DJ7)</p></b>
 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-<p><b>Old Formula</b>: (0.045 * x ^ 0.45), where x is mount of assistants you own.</p>
-<p><b>New Formula</b>: (0.04 * x ^ 0.4), where x is mount of assistants you own.</p>
+<p><b>Old Formula</b>: (0.045 * x ^ 0.45), where x is amount of assistants you own.</p>
+<p><b>New Formula</b>: (0.04 * x ^ 0.4), where x is amount of assistants you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm (DJ8)</p></b>
 <p><b>Effect</b>: Increase the production of even-tier buildings on odd days of the month, odd-tier buildings on even days.</p>
@@ -2902,7 +2902,7 @@ div#images div{
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-<p><b>Formula</b>: (0.045 * x ^ 0.45), where x is mount of assistants you own..</p>
+<p><b>Formula</b>: (0.045 * x ^ 0.45), where x is amount of assistants you own..</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
