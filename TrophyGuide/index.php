@@ -122,7 +122,7 @@
         <tr>
             <td><center>Sun Blessing</p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png"></td>
             <td>1 M (1e6)</p>A1+ Free</td>
-            <td>Cast Moon Blessing between 6 am and 12 pm (noon).</td>
+            <td>Cast Moon Blessing between 6 am and 1 pm (noon).</td>
             <td>The treasure is autoclicked 15 times per second while Moon Blessing is active.</td>
             <td>(Elf spell) (based on your local time)</td>
         </tr>

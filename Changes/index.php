@@ -138,29 +138,30 @@
 <p><b>Archon Challenge 4</b></p>
 <p><b>Old Challenge</b>: Have a Temporal Flux bonus of at least 6543210%.</p>
 <p><b>New Challenge</b>: Have a Temporal Flux bonus of at least 54,321%.</p>
+<p><b>Old Effect</b>: 25% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
+<p><b>Old Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
 <p><b>Added Effect</b>: Increase Unique Building production based on time spent in this game</p>
 <p><b>Formula</b>: (3.5 * ln(1 + x / ln(10)) ^ 3.5), where x is time spent in this game</p>
 <br/>
 <p><b>Djinn Challenge 1</b></p>
 <p><b>Effect</b>: Maelstrom increase assistants based on the lowest tier targeted. Provides a better bonus for lower tier buildings.</p>
-<p><b>Old Formula</b>: Multiplicative to base assistants: sum of ((12 - T) * 100), T is lowest tier of maelstrom’s targets.</p>
-<p><b>New Formula</b>: Removed Alternative Formula Assistant Multiplier: ((36 - x - y - z)*100)</p>
+<p><b>Old Formula</b>: Alternative Formula Assistant Multiplier: ((36 - x - y - z)*100)</p>
+<p><b>New Formula</b>: Multiplicative to base assistants: sum of ((12 - T) * 100), T is lowest tier of maelstrom’s targets.</p>
 <br/>
 <p><b>Djinn Challenge 2</b></p>
 <p><b>Old Challenge</b>: Have at least 6 T (6e12) Mana Produced within 6 hours of a new game.</p>
-<p><b>Old Challenge</b>: Have at least 666 B (6.66e11) Mana Produced within 6 hours of a new game.</p>
+<p><b>New Challenge</b>: Have at least 666 B (6.66e11) Mana Produced within 6 hours of a new game.</p>
 <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
 <p><b>Old Formula</b>: Multiplicative: (0.6 * x ^ 0.4), where x is Hellfire Blast casts (this game).</p>
 <p><b>New Formula</b>: Multiplicative: (0.8 * x ^ 0.8), where x is Hellfire Blast casts (this game).</p>
 <br/>
 <p><b>Djinn Challenge 3</b></p>
-<p><b>Added Effect</b>: Grants the ability to cast Catalyst.</p>  
-<p><b>Added Effect</b>: Catalyst now also adds 100 casts per spell</p>  
+<p><b>Added Effect</b>: Grants the ability to cast Catalyst.</p>
+<p><b>Added Effect</b>: Catalyst now also adds 100 casts per spell.</p>
 <br/>
 <p><b>Djinn Challenge 4</b></p>
-<p><b>Old Effect</b>: 25% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.
-<p><b>New Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.
-<p><b>Old Challenge</b>: Have a spell duration of at least 2 year.</p>
+<p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
+<p><b>Old Challenge</b>: Have a spell duration of at least 2 years.</p>
 <p><b>New Challenge</b>: Have a spell duration of at least 1 year.</p>
 
 

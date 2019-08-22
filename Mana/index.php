@@ -203,7 +203,7 @@
 <p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png" alt="Sun Blessing" align="middle"><b> Sun Blessing</b></p>
-<p><b>Requirement</b>: Activate the Elf spell Moon Blessing between 6am and 12pm.</p>
+<p><b>Requirement</b>: Activate the Elf spell Moon Blessing between 6am and 1 pm.</p>
 <p><b>Upgrade Cost</b>: 1 M (1E6), A1+ Free</p>
 <p><b>Upgrade Effect</b>: The treasure is autoclicked 15 times per second while Moon Blessing is active.</p>
 <hr>

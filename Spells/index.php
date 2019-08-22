@@ -535,7 +535,7 @@
     <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
     <p><b>Spell Trophy & Upgrade</b>: <b>Sun Blessing</b></p>
     <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
-    <p><b>Requirement</b>: Activate Moon Blessing between 6am and 12pm.</p>
+    <p><b>Requirement</b>: Activate Moon Blessing between 6am and 1pm.</p>
     <p><b>Challenge Upgrade</b>: Star Blessing, Clicks from the Sun Blessing spell upgrade have a 5% increased chance to trigger Elven (3,2) Elven Luck.</p>
     <div class="shlisting">
         <div class="shelementwhole">

@@ -16,7 +16,7 @@
 <p><b>Effect</b>: Increases the production of all buildings based on the total amount of treasure clicks across all play-throughs for 20 seconds.</p>
 <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b>
-<p><b>Requirement</b>: Activate Moon Blessing between 6am and 12pm.</p>
+<p><b>Requirement</b>: Activate Moon Blessing between 6am and 1 pm.</p>
 <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
 <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <hr>

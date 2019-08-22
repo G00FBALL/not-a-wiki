@@ -173,7 +173,7 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
         <div class="autohide">
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" align="middle"> <b>Sun Blessing</b></p>
-            <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 12pm.)</p>
+            <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 1pm.)</p>
             <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
@@ -2223,7 +2223,7 @@ div#images div{
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSpellUpgrade.png" align="middle"><b> Sun Blessing</b></p>
             <p><b>Cost</b>: 1 M (1.E6)
-            <p><b>Unlock Requirements</b>: Cast the Elven spell Moon Blessing between 6 am and 12 pm (midnight)</p>
+            <p><b>Unlock Requirements</b>: Cast the Elven spell Moon Blessing between 6 am and 1 pm (midnight)</p>
             <p><b>Effect</b>: Autoclicks 15 times per second while Moon Blessing is active.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSpellUpgrade.png" align="middle"><b> God's Rest</b></p>
