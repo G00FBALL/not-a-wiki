@@ -190,7 +190,7 @@
 <p><b>New Formula</b>: (0.02 * ln(1 + x)), where x is amount of Holy Sites owned.</p>
 <br/>
 <p><b>Angel 11</b>: (Angelic Fortitude)</p>
-<p><b>Effect</b>: Increase the production of all buildings based on the sum of all your spells' activity time this R.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this R).</p>
 <p><b>Old Formula</b>: (0.3 * x ^ 0.7), where x is seconds in current spells.</p>
 <p><b>New Formula</b>: (0.7 * x ^ 0.7), where x is seconds in current spells.</p>
 <br/>

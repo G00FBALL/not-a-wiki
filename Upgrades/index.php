@@ -2062,7 +2062,7 @@
             <p><b>Description</b>: You know all too well this does not exist, yet it fills you with hope and optimism.</p>
             <p><b>Requirement</b>: R100+</p>
             <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
-            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 2000%.</p>
+            <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 200%.</p>
             <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" align="middle"><b> Chocolate Flavor Juice</b></p>
