@@ -2,7 +2,7 @@
 $base_url = 'http://musicfamily.org/realm/counter/';
 $default_style = 'NaW';
 $default_ext = 'gif';
-$count_unique = 0;
+$count_unique = 1;
 $unique_hours = 24;
 $min_digits = 7;
 header("Content-type: text/javascript");
