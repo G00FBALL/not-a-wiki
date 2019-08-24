@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML; 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>PHP graphical hit counter - README</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* Style sheet and XHTML code
+Author: Mauricio Samy Silva http://www.maujor.com/ A Web Standard evangelist site
+City: Rio de Janeiro - Brazil
+Contact: maujorcss[at]maujor[dot]com
+Date: 2006-05-11
+*/
+body
+{
+        margin:5px 0;
+        padding:0;
+        background:#eee;
+        color: black;
+        font : 68.8%/1.5 Verdana, Geneva, Arial, Helvetica, sans-serif;
+        text-align:center;
+}
+
+#wrapper
+{
+        width:700px;
+        background:#fff;
+        margin:0 auto;
+        text-align:left;
+        border:1px solid #ccc;
+        padding:10px 20px;
+}
+
+h1 {font-size:1.5em;}
+
+h2
+{
+        font-size:1.2em;
+        border-top:1px solid #999;
+        padding-top:1.8em;
+}
+
+h2.title
+{
+        font-size:1.2em;
+        border-top:1px solid #999;
+        padding-top:1.8em;
+        color: green;
+}
+
+h3 {font-size:1.0em;}
+span.dest {color:#f00;}
+span.example {color:#ff9933;}
+span.tip {color:#008000; font-weight:bold;}
+
+p
+{
+        color : black;
+        font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size: 1.0em;
+}
+
+address
+{
+        font-weight:bold;
+        font-style:normal;
+}
+
+ul.nobullets
+{
+        margin:0 0 1.0em;
+        padding:0;
+        list-style:none;
+}
+
+ol li {margin-bottom:1.0em;}
+
+samp, code
+{
+        font-size:1.3em;
+        font-weight:bold;
+}
+
+a:hover
+{
+        color : red;
+        background:#ccc;
+        text-decoration : none;
+}
+
+table#installation
+{
+        border-collapse:collapse;
+        margin: 5px 15px 10px -25px;
+        border: 2px solid #999;
+}
+
+table#installation thead
+{
+        text-align:center;
+        text-transform:uppercase;
+}
+
+table#installation tr td, table#installation tr th
+{
+        padding: 2px 5px;
+        border: 1px solid #ccc;
+}
+
+table#installation tr th
+{
+        border-bottom-width:2px;
+        border-bottom-color:#999;
+}
+
+table#installation tr td var
+{
+        font-weight:bold;
+        font-style:normal;
+}
+
+table#installation tr.odd
+{
+        background: #fafafa;
+}
+
+div.error
+{
+        border: 1px solid #cd0a0a;
+        background: #fef1ec;
+        color: #cd0a0a;
+        padding-left:10px;
+        padding-right:5px;
+}
+
+div.success
+{
+        border: 1px solid #18760f;
+        background: #e9ffdb;
+        color: #363636;
+        padding-left:10px;
+        padding-right:5px;
+}
+
+div.notice
+{
+        border: 1px solid #fcefa1;
+        background: #fbf9ee;
+        color: #363636;
+        padding-left:10px;
+        padding-right:5px;
+}
+</style>
+</head>
+
+<body>
+<div id="wrapper">
+<div id="main">
+<h1><span class="dest">PHPGcount</span> -
+PHP graphical hit counter</h1>
+
+<ul class="nobullets">
+<li>Version: 1.3.1 from 4th January 2015</li>
+<li>Developed by: Klemen Stirn</li>
+<li><a href="http://www.phpjunkyard.com/php-text-hit-gcount.php" target="_blank">PHP text hit counter</a></li>
+<li><a href="http://www.phpjunkyard.com" target="_blank">PHP Scripts from PHPJunkyard.com</a></li>
+</ul>
+
+<h2>INDEX</h2>
+
+<ul class="nobullets">
+    <li><a href="#install"><b>Install hit counter</b></a></li>
+    <li><a href="#usage">Using hit counter</a></li>
+    <li><a href="#style">Changing counter style / images</a></li>
+    <li><a href="#unique">Counting unique hits</a></li>
+    <li><a href="#custom">Adding custom styles/images to the counter</a></li>
+    <li><a href="#upgrade">Upgrading from old versions</a></li>
+    <li><a href="#help">HELP and Troubleshooting</a></li>
+    <li><a href="#other">Newsletter, rating this script and other</a></li>
+    <li><a href="#changelog">Changelog</a></li>
+</ul>
+
+<h2 id="acknowledgement">&raquo; ACKNOWLEDGEMENT</h2>
+
+<p>Please support developing of free PHP scripts by <a href="http://www.phpjunkyard.com/about/link2us.php">linking to us</a> or <a href="http://www.phpjunkyard.com/about/donate.php">sending a donation</a>. Thank you!<br />&nbsp;</p>
+
+<h2 id="install">&raquo; Install hit counter</h2>
+
+<div class="error">
+<p style="font-weight:bold">Please take 5 minutes to read the installation instructions carefully and completely! This will ensure a proper and easy installation.</p>
+</div>
+
+<p style="font-weight:bold">Installation steps:</p>
+
+<ol>
+<li><p>Connect with FTP to the <i>public folder</i> of your server where the rest of your Web site is.</p>
+<p><span class="tip">TIP:</span> The public folder is usually called &quot;<b>public_html</b>&quot;, &quot;www&quot;, &quot;site&quot; or &quot;htdocs&quot;.</p>
+<p><span class="tip">TIP:</span> Learn how to FTP files, read my simple <a href="http://www.phpjunkyard.com/tutorials/ftp-chmod-tutorial.php">FTP and CHMOD tutorial</a></p>
+</li>
+<li><p>Create a new folder where you will install counter. Name it anything you like, for example &quot;counter&quot;.<br />
+Example: /public_html/counter<br />
+Corresponding URL: http://www.site.com/counter</p></li>
+
+<li><p>Open file <b>gcount.php</b> in a plain text editor like Notepad and find this line:</p>
+
+<pre>$base_url = '<span class="dest">http://www.yourwebsite.com/gcount/</span>';</pre>
+
+<p>Change the address to the URL of the folder that you created in Step 2:</p>
+
+<pre>$base_url = '<span class="example">http://www.site.com/counter/</span>';</pre>
+
+<p><span class="dest">Please make sure you end the address with <b>/</b></span></p>
+
+</li>
+
+<li><p>Upload all counter files and folders to your server. The <b>styles</b> folder must be transferred in BINARY mode, all other files in ASCII mode.</p>
+<p><span class="tip">TIP:</span> Most FTP clients will select the proper transfer mode automatically.</li>
+
+<li><p>Make sure the following files are writable by PHP:<br />
+- file <b>test.txt</b> inside <b>logs/</b> folder - on Unix (Linux) servers CHMOD this file to <b>666</b> (rw-rw-rw-)</p>
+<p><span class="tip">TIP:</span> Learn to CHMOD files, read my simple <a href="http://www.phpjunkyard.com/tutorials/ftp-chmod-tutorial.php">FTP and CHMOD tutorial</a></p>
+<p><span class="tip">TIP:</span> CHMOD doesn't work on Windows, you might need to ask your hosting company to set file permissions.</p>
+</li>
+
+<li>
+<p>Test the counter by opening <b>gcount.php?page=test</b> in your browser, for example:<br />
+http://www.yourwebsite.com/counter/gcount.php?page=test</p>
+<p>Your browser should show something like<br /><b>document.write('1');</b></p>
+</li>
+</ol>
+
+<p>Got an error message instead? See below under <a href="#help">HELP and Troubleshooting</a>.<br />&nbsp;</p>
+
+
+<h2 id="usage">&raquo; Using hit counter</h2>
+
+<p>To use the hit counter on your website you need to:</p>
+
+<ol>
+<li><p>Create an empty text file for each page you want to count visits on.</p>
+
+<p>Example valid names: <b>page1.txt</b>, <b>index.txt</b>, <b>some_long_name.txt</b>, <b>buy-now.txt</b>
+
+<p>Valid names contain only letters (a-z, A-Z), digits (0-9), dots &quot;.&quot;, underscores &quot;_&quot; and hyphens &quot;-&quot;</p>
+</li>
+
+<li>Upload these text files into the <b>logs</b> folder to your server and make
+sure PHP scripts have permission to write to them. On Unix (Linux) servers you will need to CHMOD files to <b>666</b> (rw-rw-rw-).</li>
+
+<li>To start counting visitors place this code in your web page:</p>
+
+<pre>&lt;script type=&quot;text/javascript&quot; src=&quot;http://<span class="dest">www.site.com</span>/counter/gcount.php?page=<span class="dest">test</span>&quot;&gt;&lt;!--
+//--&gt;&lt;/script&gt;</pre>
+
+<p>Change http://<span class="dest">www.site.com</span>/counter/gcount.php
+to the URL address of gcount.php on your server, for example:<br />
+http://<span class="example">www.yourwebsite.com</span>/counter/gcount.php</p>
+
+<p>Change <span class="dest">test</span> to the name of a text file you created in Step 1 (without &quot;.txt&quot;), for example:<br />
+http://www.yourwebsite.com/counter/gcount.php?page=<span class="example">index</span></p>
+
+<p><span class="tip">TIP:</span> Not sure how to paste Javascript code into your website? See this tutorial:<br />
+<a href="http://www.phpjunkyard.com/tutorials/cut-paste-code.php" target="_blank">Cut and paste code into HTML document</a></p>
+</li>
+
+<li><p>Open your website and there should be a number (count) displaying where the Javascript code has been pasted.<br />&nbsp;</p></li>
+</ol>
+
+
+<h2 id="style">&raquo; Changing counter style / images</h2>
+
+<p>PHPGcount comes with these image styles by default: <b>57chevy</b>, <b>7seg</b>, <b>bbldotg</b>, <b>bellbtm</b>,
+<b>blgrv</b>, <b>cntdwn</b>, <b>computer</b>, <b>ds9</b>, <b>fdb</b>, <b>led</b>, <b>links</b>, <b>marsil</b>, <b>sbgs</b> and <b>web1</b>.</p>
+
+<p>You may set (test) these styles by adding &quot;&amp;style=STYLENAME&quot; to the Javascript <b>src</b> parameter.</p>
+
+<p>Replace STYLENAME with the name of the style (names are CaSe SeNSiTiVE on most servers!). For example, if you want to test how style <b>led</b> looks you would use this code to display the counter:</p>
+
+<pre>&lt;script type=&quot;text/javascript&quot;
+src=&quot;http://www.site.com/counter/gcount.php?page=test<span class="dest">&amp;style=led</span>>&quot;&gt;&lt;!--
+//--&gt;&lt;/script&gt;</pre>
+
+<p>If no &amp;style=STYLENAME is added to the src parameter, PHPGcount will use the default style, as set in the $default_style variable inside gcount.php.</p>
+
+<p>To change default style open gcount.php in a text editor and find line:</p>
+
+<pre>$default_style = 'web1';</pre>
+
+<p>To change default style to <b>57chevy</b> you would modify the line to say:</p>
+
+<pre>$default_style = '57chevy';</pre>
+
+<p>By adding the &amp;style=STYLENAME you may use the same script on multiple pages, each with its own style of display! You may even add your own styles to the counter, more info on that further down.<br />&nbsp;</p>
+
+
+
+<h2 id="unique">&raquo; Counting UNIQUE hits</h2>
+
+<p>If you wish to count unique visits (hits) only, open file <b>gcount.php</b> in a plain text editor like Notepad.</p>
+
+<p>Find this line:</p>
+
+<pre>$count_unique = <b>0</b>;</pre>
+
+<p>Change it to:</p>
+
+<pre>$count_unique = <b>1</b>;</pre>
+
+
+<p>You can control how many hours a visitor is considered as unique by changing value of line:</p>
+
+<pre>$unique_hours = 24;</pre>
+
+<p>The default value will count visitor as unique only once per 24 hours. To count as unique once per 12 hours you would change the line to:</p>
+
+<pre>$unique_hours = 12;</pre>
+
+<p><b>Save changes and upload the modified gcount.php file to your server.</b><br />&nbsp;</p>
+
+
+<h2 id="zeropadding">&raquo; Zero-padding (minimum digits to display)</h2>
+
+<p>Want your counter to display a minimum number of digits? For example
+instead of <b>123</b> show <b>00123</b>?</p>
+
+<p>No problem, open file <b>gcount.php</b> in a plain
+text editor like Notepad and find line:</p>
+
+<pre>$min_digits = 0;</pre>
+
+<p>Change <b>0</b> to the minimum number of digits you wish to display. To display minimum 5 digits set it to:</p>
+
+<pre>$min_digits = <b>5</b>;</pre>
+
+<p>To disable zero-padding simply change $min_digits back to 0</p>
+
+<p><b>Save changes and upload the modified gcount.php file to your server.</b><br />&nbsp;</p>
+
+
+<h2 id="custom">&raquo; Adding custom styles/images to the counter</h2>
+
+<p>All you need is ten (10) images (equal height and width), each with one number (0,1,2,3,4,5,6,7,8,9) on it.</p>
+
+<p>Save image with number 0 as 0.gif (or 0.jpg or 0.png or whatever format you use), image
+with 1 to 1.gif, image with 2 to 2.gif etc... so you have 10 images, each with one number.</p>
+
+<p>Then create a new folder in the <b>styles</b> directory - the name of the folder will
+be the name of your style. For example if you want to call the style <b>myblue</b>
+you would create folder <b>styles/myblue</b> and upload all ten images
+to that folder.</p>
+
+<p>Then you could just set the myblue style as the default style or use &amp;style=myblue (both explained above) where you want the myblue to be used.</p>
+
+<p>If your style images are different type then the default image extension (as
+set in gcount.php in <b>$default_ext</b>) you can add <b>&amp;ext=EXTENSION</b>
+to the script src parameter. Replace extension with the file extension (<b>without the dot!</b>) of the images of your style.</p>
+
+<p>That probably sounded a bit confusing, but it really isn't, here's an example:</p>
+
+Let's say you are using style web1 by default, which has GIF file format images with <b>.gif</b> extension. That's why you have <b>$default_ext</b> value in gcount.php set to:</p>
+
+<pre>$default_ext = 'gif';</pre>
+
+<p>Now you created your own style myblue. You saved images as JPEG files meaning they have <b>.jpg</b> extension, which is different from the default one (.gif).</p>
+
+<p>Simply you must add <b>&amp;ext=jpg</b> to the counter code in order to use your style counter:</p>
+
+<pre>&lt;script type=&quot;text/javascript&quot;
+src=&quot;http://www.domain.com/counter/gcount.php?page=PAGENAME<span class="dest">&amp;style=myblue&amp;ext=jpg</span>&quot;&gt;&lt;!--
+//--&gt;&lt;/script&gt;</pre>
+
+<p><b>NOTE:</b> All the styles that come with PHPGCount by default are GIF type!<br />&nbsp;</p>
+
+
+
+<h2 id="upgrade">&raquo; Upgrading from old versions</h2>
+
+<div class="error">
+<p style="font-weight:bold">Please take 5 minutes to read the upgrade instructions carefully and completely! This will ensure a proper and easy installation.</p>
+</div>
+
+<p><b>From version 1.3</b></p>
+
+<ol>
+<li>Upload the new gcount.php file to your server</li>
+</ol>
+
+<p><b>From version 1.2</b></p>
+
+<ol>
+<li>Upload the gcount.php file to your server</li>
+<li>Rename gcount.php to graphcount.php or update your Javascript code src parameter gcount.php</li>
+</ol>
+
+<p><b>From version 1.0 or 1.1</b></p>
+
+<ol>
+<li>Rename all files inside &quot;logs&quot; from name.<b>log</b> to name.<b>txt</b></li>
+<li>Make sure PHP scripts can write to files inside &quot;logs&quot; folder. On Unix (Linux) servers you will need to CHMOD these files to <b>666</b> (rw-rw-rw-).</li>
+<li>Upload the new gcount.php file to your server</li>
+<li>Rename gcount.php to graphcount.php or update your Javascript code src parameter gcount.php<br />&nbsp;</li>
+</ol>
+
+<h2 id="help">&raquo; HELP and Troubleshooting</h2>
+
+<h3>1. What is CHMOD and FTP?</h3>
+
+<p>I prepared a simple <a href="http://www.phpjunkyard.com/tutorials/ftp-chmod-tutorial.php">FTP and CHMOD tutorial</a> that will help you FTP files to your server and set correct CHMOD settings.<br />&nbsp;</p>
+
+
+<h3>2. I did CHMOD text files, but I still get an error.</h3>
+
+<p>CHMOD doesn't work on all servers, Windows (IIS) servers, for example, don't understand CHMOD command.
+On Windows you need to make sure the <i>Internet Guest Account</i> (IUSR) has permission to modify, write and read the required
+files.</p>
+
+<p>In case you still can't get it to work, contact your hosting company
+and ask them to set modify/write/read permissions for the text files inside your logs folder.<br />&nbsp;</p>
+
+
+<h3>3. ERROR: The gcount.php file must be called with a ?page=PAGEID parameter</h3>
+
+<p>Your are missing <b>?page=PAGEID</b> in your Javascript code behind gcount.php, see up under <a href="#usage">Using hit counter</a>.<br />&nbsp;</p>
+
+
+<h3>4. ERROR: Log file not found.</h3>
+
+<p>The script can't find your log file. A few things to check:</p>
+
+<ol>
+<li>Did you create an empty text file? If you are calling the script with <i>gcount.php?page=<b>mypage</b></i>
+you need to have an empty text file called <b>mypage.txt</b> inside your &quot;logs&quot;
+folder!</li>
+
+<li>File names are CaSe SeNSiTiVe on most servers! MYPAGE.TXT is not the same
+as mypage.txt. Make sure your file name is in the correct case.</li>
+
+<li>Did you use any special characters in your file name? Try naming the files
+only with letters (a-zA-Z) and digits (0-9).<br />&nbsp;</li>
+</ol>
+
+
+<h3>5. I don't see counter images</h3>
+
+<p>Check two things:</p>
+
+<ol>
+<li>Is the <b>$base_url</b> setting inside gcount.php correct? Don't forget to add a trailing / to the URL!</li>
+<li>Style names are CaSe SeNSiTiVe on most servers! Make sure your style setting exactly matches the name of the style<br />&nbsp;</li>
+</ol>
+
+
+<h3>6. I am still having problems!</h3>
+
+<p>Search the <a href="http://developers.phpjunkyard.com">Support forum</a> (username: <b>php</b> password: <b>php</b>)<br />&nbsp;</p>
+
+
+<h2 id="other">&raquo; Stay updated!</h2>
+
+<p>Join my FREE newsletter and you will be notified about new scripts, new versions of the existing scripts and other important news from PHPJunkYard.<br />
+<a href="http://www.phpjunkyard.com/newsletter.php" target="_blank">Click here for more info</a><br />&nbsp;</p>
+
+<h2>&raquo; Please rate this script</h2>
+
+<p>If you like this script please rate it or even write a review at:</p>
+
+<p><a href="http://php.resourceindex.com/rate?05216" target="_new">Rate this Script @ The PHP Resource Index</a></p>
+
+<p><a href="http://www.hotscripts.com/Detailed/36872.html" target="_blank">Rate this Script @ Hot Scripts</a></p>
+
+<h2>&raquo; Get more useful FREE scripts!</h2>
+
+<p>Looking for more <a href="http://www.phpjunkyard.com" target="_blank">PHP scripts</a>? Here is a list of PHPJunkyard FREE scripts:</p>
+
+<ul>
+<li><a href="http://www.hesk.com" target="_blank">Help Desk Software</a></li>
+<li><a href="http://www.phpjunkyard.com/php-click-counter.php" target="_blank">Click and download counter</a></li>
+<li><a href="http://www.phpjunkyard.com/php-link-manager.php" target="_blank">Reciprocal links manager</a></li>
+<li><a href="http://www.phpjunkyard.com/php-guestbook-script.php" target="_blank">Guestbook</a></li>
+<li><a href="http://www.phpjunkyard.com/php-message-board.php" target="_blank">Message board</a></li>
+<li><a href="http://www.phpjunkyard.com/php-text-hit-counter.php" target="_blank">Text hit counter</a></li>
+<li><a href="http://www.phpjunkyard.com/php-graphical-hit-counter.php" target="_blank">Graphical hit counter</a> (this script)</li>
+<li><a href="http://www.phpjunkyard.com/random-image.php" target="_blank">Random image</a></li>
+<li><a href="http://www.phpjunkyard.com/random-text.php" target="_blank">Random text</a><br />&nbsp;</li>
+</ul>
+
+<h2 id="changelog">&raquo; CHANGELOG</h2>
+
+<p><b>Changes in 1.3.1</b><br />
+- set correct MIME type for servers sending nosniff header</p>
+
+<p><b>Changes in 1.3</b><br />
+- greatly improved reliability of counter on busy websites in multi-threaded environment<br />
+- added headers to prevent browser caching</p>
+
+<p><b>Changes in 1.2</b><br />
+- fixed a bug with counting unique visits over several pages</p>
+
+<p><b>Changes in 1.1</b><br />
+- improved input parameter checking<br />
+- added file locking<br />
+- added zero-padding option<br />
+- added support for counting unique hits<br />
+- no more automatic file creation (for security reasons)<br />
+- removed referrer check (not really needed anymore)</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">&copy; Copyright <a href="http://www.phpjunkyard.com">PHP Scripts from PHPJunkyard</a> 2004-2015. All rights reserved.</p>
+
+</div>
+</div>
+</body>
+</html>
