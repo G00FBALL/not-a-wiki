@@ -141,7 +141,7 @@
 <p><b>Cost</b>: 1 Dd (1e39) Angel and Undead Coins</p>
 <p><b>Effect</b>: Temporal Flux also increases Maximum Mana.</p>
 <p><b>Formula</b>: (0.35 * (x / 60) ^ 0.825), where x is time this game in seconds</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
 <p><b>Requirements</b>: Archon Union</p>

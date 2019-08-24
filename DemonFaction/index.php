@@ -134,7 +134,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: 1% of all Non-Evil spells cast in this game count as Evil.</p>
 <p><b>Effect</b>: Trophies count 100% more.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" alt="Abyssal Furnace" align="middle"> <b>Abyssal Furnace</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

@@ -160,9 +160,9 @@
             <div class="autohide">
                 <p><b>Author</b>: Sad
                 <p><b>Range</b>: 1e42 (1 Qad) Gems+
-                <p><b>Faction</b>: Faceles
+                <p><b>Faction</b>: Faceless
                 <p><b>Bloodline</b>: Drow
-                <p><b>Artifact Set</b>: Faceles
+                <p><b>Artifact Set</b>: Faceless
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
                     <p><button onclick="myFunction($(this))">Copy Build</button>

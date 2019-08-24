@@ -169,7 +169,7 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
 <p><b>Cost</b>: 1e24 Drow coins</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>: Increase offline bonus based on max mana.</p>

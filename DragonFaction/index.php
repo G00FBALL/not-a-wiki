@@ -193,7 +193,7 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"><b> Dragon Union</b></p>
 <p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order this R.</p>

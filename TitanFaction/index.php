@@ -169,7 +169,7 @@
 <p><b>Formula</b>: 50 * (x / 3600) ^ 0.85), where x is time spent in this game.(per hours).</p>
 <p><b>Effect</b>: Also increase Maximum Mana based on time spent in this game.</p>
 <p><b>Formula</b>: (20 * x ^ 0.75), where x is time spent in this game.(in seconds)</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

@@ -171,7 +171,7 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven coins</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>: Increase all building production based on time spent this Reincarnation.</p>

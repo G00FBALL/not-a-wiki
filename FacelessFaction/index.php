@@ -175,7 +175,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
 <p><b>Formula</b>: (55 * x ^ 0.55), where x is random faction all time in seconds.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

@@ -141,7 +141,7 @@
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coins find chance based on spells cast in this game.</p>
 <p><b>Formula</b>: (2 * log10(x) ^ 2), where x is spells cast in this game.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

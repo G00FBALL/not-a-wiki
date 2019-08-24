@@ -137,10 +137,10 @@
 <p><b>Cost</b>: 1 Qi (1e18) Elven Coins</p>
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
 <p><b>Effect Requirement</b>: R111+</p>
-<p><b>Effect</b>: Also autoclicks 10 times per second.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
 <p><b>Formula</b>: (3 * ln(x) ^ 3), where x is faction coins found in this Reincarnation.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Also autoclicks 10 times per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

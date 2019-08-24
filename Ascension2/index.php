@@ -48,7 +48,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
 <p><b>Formula</b>: (4 * ln(x) ^ 2 + ln(y) ^ 2.25), where x is mana spent this game and y is mana regeneration.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -93,7 +93,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
 <p><b>Formula</b>: (75 * log10(x) ^ 2.25), where x is offline bonus multiplier.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -140,7 +140,7 @@
 <p><b>Formula</b>: (50 * (x / 3600) ^ 0.85), where x is time spent in this game.(per hours).</p>
 <p><b>Effect</b>: Also increase Maximum Mana based on time spent in this game.
 <p><b>Formula</b>: (20 * x ^ 0.75), where x is time spent in this game.(in seconds)</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" alt="Giant Market" align="middle"> <b>Giant Market</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -201,7 +201,7 @@
 <p><b>Effect</b>: Increase assistant production based on amount of Enchanted Fields, Inns and Blacksmiths if building count is even, or all other buildings if building count is odd.</p>
 <p><b>Formula</b>: (15 * x ^ 0.475), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
 <p><b>Formula</b>: (15 * x ^ 0.475), where x is T4-T11 Buildings (If building count is odd)</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" alt="Bubble Swarm" align="middle"> <b>Bubble Swarm</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -245,7 +245,7 @@
 <p><b>Requirement</b>: Burning Abyss Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: 1% of all Non-Evil spells cast in this game count as Evil.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <p><b>Effect</b>: Trophies count 100% more.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" alt="Abyssal Furnace" align="middle"> <b>Abyssal Furnace</b></p>
@@ -290,7 +290,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
 <p><b>Formula</b>: (50 * x ^ 0.5), where x is random faction all time in seconds.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -346,9 +346,10 @@
 <p><b>Cost</b>: 1 Qi (1e18) Elven Coins</p>
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
+<p><b>Effect</b>: Also autoclicks 10 times per second.</p>
 <p><b>Effect</b>: Increase click production based on faction coins found in this Reincarnation.</p>
 <p><b>Formula</b>: (3 * ln(x) ^ 3), where x is faction coins found in this Reincarnation.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -397,7 +398,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Multiplicatively increase Faction Coins find chance based on spells cast in this game.</p>
 <p><b>Formula</b>: (2 * log10(x) ^ 2), where x is spells cast in this game.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -443,7 +444,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
 <p><b>Formula</b>: (3 * x * y ^ 1.5), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

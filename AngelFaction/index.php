@@ -138,7 +138,7 @@
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase Mana Regeneration based on mana produced in this game.(Multiplicative)</p>
 <p><b>Formula</b>: (2.5 * ln(1+y) ^ 2.5), where x is mana spent this game and y is mana regeneration.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" alt="Heaven's Brilliance" align="middle"> <b>Heaven's Brilliance</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>

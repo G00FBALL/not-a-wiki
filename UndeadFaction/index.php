@@ -138,7 +138,7 @@
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
 <p><b>Formula</b>: (75 * ln(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
-<p><b>Effect</b>: Grants access to Union Upgrade.</p>
+<p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
