@@ -9,7 +9,7 @@
 <p><b>Alignment</b>: (Order)</p>
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (ln(x) ^ 1.25) (without AR10), (1.25 * ln(x) ^ 1.5) (with AR10), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (ln(x) ^ 1.25) (without AR10), (1.25 * ln(x) ^ 1.5) (with AR2), where x is mana produced in this game.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
@@ -17,7 +17,7 @@
 <p><b>Note</b>: Scale off invisible spell duration modifiers.
 <p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
-<p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e18 with it not active</p>
+<p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active</p>
 <hr>
 <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragment</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>

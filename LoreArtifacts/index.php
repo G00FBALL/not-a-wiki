@@ -5,7 +5,7 @@
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
     <p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
-    <p>There are 61 Lore Artifacts.</p>
+    <p>There are 62 Lore Artifacts.</p>
     <p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b> Survey Equipment Upgrade</b></p>
