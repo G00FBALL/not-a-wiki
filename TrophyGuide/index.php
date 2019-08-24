@@ -728,7 +728,7 @@
             <td></td>
             <td>Build 50,000 Buildings.</td>
             <td></td>
-            <td>Fairy/Gobline for most/all building trophies or just wait for it to happen naturally.</td>
+            <td>Goblin blood fairy for most/all building trophies or just wait for it to happen naturally.</td>
         </tr>
         <tr>
             <td><center>Van!shment</p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png"></td>
