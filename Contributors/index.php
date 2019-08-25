@@ -255,4 +255,6 @@
 <p>wolfsblood<p>
 <p>blackbird<p>
 <p>slantfer<p>
+<p>Kroll<p>
+<p>Dariof4<p>
 <?php include "../scripts/footer.html"; ?>

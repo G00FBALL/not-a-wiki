@@ -10,7 +10,7 @@
 <p><b>Requirements</b>: Angel as Base Faction, Reincarnation 2+, God's Rest upgrade purchased.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Cast 50 Holy Lights during daytime (6am-6pm local time) within 20 minutes of a new game.</p>
-<p><b>Effect</b>: Reduce all spell costs by 10% (calculated *after* Angel (2,3) Angelic Wisdom).</p>
+<p><b>Effect</b>: Reduce all spell costs by 10% (calculated *after* Angel (2,2) Angelic Wisdom).</p>
 <p><b>Upgrade</b>: Works with Angel</p>
 <p><b>Tip</b>: Recommended +1 B (1E9) gems. You will need a min mana regen of 60 m/s get enough Holy Light autocasts. Avoid purchasing Angelic Dominance (3,2). If you have bloodlines (R7), choose the Druid Bloodline.</p>
 <hr>
