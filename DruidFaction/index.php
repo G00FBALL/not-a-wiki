@@ -248,8 +248,9 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Druids Union</p>
 <p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
+<p><b>Formula</b>: (50 * x ^ 0.85), where x is time spent online in this game.</p>
 <p><b>Effect</b>: Increase Maximum Mana multiplicatively based on time spent offline in this game.</p>
-<p><b>Formula</b>: ?</p>
+<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" alt="Grove Farming" align="middle"> <b>Grove Farming</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
