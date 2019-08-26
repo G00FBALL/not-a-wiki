@@ -14,7 +14,7 @@
 <p><b>Note</b>: It is strongly advised to get most, if not all, the trophies, challenges and artifacts possible before ascending (5k buildings, Stoic Resistance etc. Post-ascension, it may take a long time to reach the necessary requirements again.</p>
 <h6>Diamond coins</h6>
 <p>Everything will appear the same, but the gold coins will disappear, everything that used to cost gold coins will become either free, or are converted to Diamond coins. Early upgrades, faction and research upgrades will be free to a certain point. Buildings and excavations will still cost coins, but Diamond coins.</p>
-<p><b>WARNING!</b> It is imperative to ascend before reaching 18.96 Ocqag (1.896E148) gems or 179.7 Uc (1.797E308) gold. If you go above, your game will start to bug. (source)</p>
+<p><b>WARNING!</b> It is imperative to ascend before reaching 18.96 Ocqag (1.896E148) gems or 179.7 Uc (1.797E308) gold. If you go above, your game will start to bug.</p>
 <h6>Income Shift</h6>
 <p><b>First Ascension</b>: (A1 R40-R99)</p>
 <p>Gem Requirement Post Ascension 1e27 ^ 0.75 * 100 ^ (R - 40)</p>
