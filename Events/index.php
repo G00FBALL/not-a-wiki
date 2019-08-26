@@ -321,7 +321,7 @@ div#images div{
                 <p><b>Kind</b>: Spell</p>
                 <p><b>Unlock / Price</b>: Mana Cost:300 (Unlocked when aligned with Summeraan)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game for 12s.
-                  <p><b>Formula</b>: (5 * x ^ 0.85%) , where x is the number of spells cast this game, and (x * y ^ 1.1), where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
+                <p><b>Formula</b>: (5 * x ^ 0.85%) , where x is the number of spells cast this game.</p>
                 <p><b>Effect</b>: Also grants faction coins based on the amount of Flame Orbs collected in this event.</p>
                 <p><b>Formula</b>: (x * y ^ 1.1), where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
                 <br/>
