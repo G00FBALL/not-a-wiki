@@ -282,7 +282,7 @@ div#images div{
                 <p><b>Kind</b>: Upgrade</p>
                 <p><b>Unlock / Price</b>: Free</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Orbs collected in this event. This upgrade persists through Abdications and Reincarnations.</p>
-                <p><b>Formula</b>: min(100000, (x / 27) - (x^2 / 36450) + (x^3 / 98415000)) %, where x is the number of Orbs collected in total.</p>
+                <p><b>Formula</b>: min(100000, (x / 27) - (x ^ 2 / 36450) + (x ^ 3 / 98415000))%, where x is the number of Orbs collected in total.</p>
                 <hr>
                 <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
                 <p><b>Kind</b>: Upgrade</p>
@@ -293,19 +293,19 @@ div#images div{
                 <p><b>Kind</b>: Spell</p>
                 <p><b>Unlock / Price</b>: Mana Cost:1000 (Unlocked when aligned with Winterly)</p>
                 <p><b>Effect</b>:Increase the production of all buildings based on Hailstorm activity time for 2m. Bonus provided increases progressively over the duration of the spell.</p>
-                <p><b>Formula</b>: 0.1 * x^0.6 * y^1.1 %, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).</p>
+                <p><b>Formula</b>: (0.1 * x ^ 0.6 * (y * 30) ^ 1.1)%, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival4.PNG" alt="Glaciality" align="middle"> Glaciality</b></p>
                 <p><b>Kind</b>: Upgrade</p>
                 <p><b>Unlock / Price</b>: 800 Frost Orbs</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on time spent affiliated with the Winterly.</p>
-                <p><b>Formula</b>: 20 * x^0.75%, where x is time spent aligned with the Winterly in hours.</p>
+                <p><b>Formula</b>: (20 * x ^ 0.75)%, where x is time spent aligned with the Winterly in hours.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival5.PNG" alt="Permafrost" align="middle"> Permafrost</b></p>
                 <p><b>Kind</b>: Upgrade</p>
                 <p><b>Unlock / Price</b>: 1300 Frost Orbs</p>
                 <p><b>Effect</b>: Increase the production of assistants based on the total amount of Frost Orbs collected in this event.</p>
-                <p><b>Formula</b>: x^1.03 %, where x is the number of Frost Orbs collected in total.</p>
+                <p><b>Formula</b>: (x ^ 1.03)%, where x is the number of Frost Orbs collected in total.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival6.PNG" alt="Cold Blood" align="middle"> Cold Blood</b></p>
                 <p><b>Kind</b>: Upgrade</p>
@@ -321,21 +321,21 @@ div#images div{
                 <p><b>Kind</b>: Spell</p>
                 <p><b>Unlock / Price</b>: Mana Cost:300 (Unlocked when aligned with Summeraan)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game for 12s.
-                <p><b>Formula</b>: (5 * x ^ 0.85%) , where x is the number of spells cast this game.</p>
+                <p><b>Formula</b>: (5 * x ^ 0.85)%, where x is the number of spells cast this game.</p>
                 <p><b>Effect</b>: Also grants faction coins based on the amount of Flame Orbs collected in this event.</p>
-                <p><b>Formula</b>: (x * y ^ 1.1), where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
+                <p><b>Formula</b>: (x * y ^ 1.1)%, where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival1.PNG" alt="Sun Beams" align="middle"> Sun Beams</b></p>
                 <p><b>Kind</b>: Upgrade</p>
                 <p><b>Unlock / Price</b>: 800 Flame Orbs</p>
                 <p><b>Effect</b>: Whenever you collect Flame Orbs floating on your realm, the production of all buildings is increased based on the amount of Orbs collected with this click for 10 seconds.</p>
-                <p><b>Formula</b>: 25 * x%, where x is the number of Flame Orbs collected with the last click.</p>
+                <p><b>Formula</b>: (25 * x)%, where x is the number of Flame Orbs collected with the last click.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival2.PNG" alt="Eruption" align="middle"> Eruption</b></p>
                 <p><b>Kind</b>: Upgrade</p>
                 <p><b>Unlock / Price</b>: 1300 Flame Orbs</p>
                 <p><b>Effect</b>: Gain additional assistants based on the clicks made in this game.</p>
-                <p><b>Formula</b>: 2 * log (1 + x^2), where x is the number of clicks made in this game.</p>
+                <p><b>Formula</b>: +(2 * log (1 + x^2)), where x is the number of clicks made in this game.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" align="middle"> Burning Rage</b></p>
                 <p><b>Kind</b>: Upgrade</p>
