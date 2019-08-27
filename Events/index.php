@@ -269,6 +269,8 @@ div#images div{
                 <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!</p>
                 <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 8 hours, up to 480 orbs.</p>
                 <p>You can only collect one type of orb: by doing so, the other will disappear.</p>
+                <p>You need 4500 each of <b>Flame</b> and <b>Frost Orbs</b> to complete all quests and unlocking all upgrades from Summeraans & Winterly, 400 to unlock the faction and 4100 for the 3 upgrades (800,1300 and 2000 respectively).</p>
+                <p>Total time 6 days 6 hours without scrying.</p>
                 <p><b>Event Resource</b></p>
                 <p><img src="/realm/Factions/picks/FrostOrbs.png" alt="Frost Orbs" align="middle"> <b>Frost Orbs</b> used to purchase and empower Winterly upgrades.</p>
                 <br/>
