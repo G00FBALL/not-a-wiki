@@ -335,7 +335,7 @@ div#images div{
                 <p><b>Kind</b>: Upgrade</p>
                 <p><b>Unlock / Price</b>: 1300 Flame Orbs</p>
                 <p><b>Effect</b>: Gain additional assistants based on the clicks made in this game.</p>
-                <p><b>Formula</b>: +(2 * log (1 + x^2)), where x is the number of clicks made in this game.</p>
+                <p><b>Formula</b>: +(2 * log(1 + x ^ 2)), where x is the number of clicks made in this game.</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/SummerFestival3.PNG" alt="Burning Rage" align="middle"> Burning Rage</b></p>
                 <p><b>Kind</b>: Upgrade</p>
