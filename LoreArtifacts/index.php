@@ -483,7 +483,7 @@
 <p><b>Hint</b>: The power of Creation may spark something new.</p>
 <p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
 <p><b>Requirements</b>: R120+, Proof of Balance</p>
-<p><b>Chance</b>: 2 * (ln(1 + x) ^ 2 / 12000)%, where x is FC collected this game.</p>
+<p><b>Chance</b>: (ln(1 + x) ^ 2 / 6000)%, where x is FC collected this game.</p>
 <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
