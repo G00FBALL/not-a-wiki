@@ -390,7 +390,7 @@
     <p><b>Formula</b>: (0.01 * R), R is Reincarnations made.</p>
     <p><b>Lineage Cost Formula</b>: (25 * 10 ^ (8 + level - hourglass.formula)) ^ 0.9 (if ancient heirloom).</p>
     <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
-    <p><b>Chance:</b>: 2 * (x / 10000000000000000 (10 QA))%, where x is FC chance.</p>
+    <p><b>Chance:</b>: (x / 5000000000000000 (5 QA))%, where x is FC chance.</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png" align="middle"><b> Silk Cloth</b></p>
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
