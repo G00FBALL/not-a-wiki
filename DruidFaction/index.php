@@ -13,9 +13,10 @@
 <p><b>Faction spell</b>: Grand Balance</p>
 <p><b>Effect</b>: Increase the production of your least productive building based on the amount of the three most built ones for 20 seconds.</p>
 <p><b>Formula</b>: round(0.25*(x*y*z/729)^0.9) where x,y, and z are the number of your three most-built buildings.</p>
-<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceFactionUpgrade.png"> <b>Halls of Balance</b></p>
+<p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceFactionUpgrade.png" align="middle"> <b>Halls of Balance</b></p>
 <p><b>Effect</b>: Increases Grand Balance duration to 24 seconds and lower its cost by 200 mana.</p>
 <p><b>Requirements</b>: Have Grand Balance affect Hall of Legends.</p>
+<p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free<p>
 <hr>
 <p><b>Unlock Requirements</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedPieceofBark1FactionUpgrade.png" align="middle"><b> Fossilized Piece of Bark 1</b></p>
