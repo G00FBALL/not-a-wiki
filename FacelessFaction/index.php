@@ -37,7 +37,7 @@
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutralityFactionUpgrade.png" alt="ProofofNeutrality" align="middle"><b> Proof Of Neutrality</b></p>
 <p><b>Type</b>: Alignment Upgrade</p>
-<p><b>Unlock</b>: Collect the 3 quest artifacts of any Neutral Faction.</p>
+<p><b>Unlock</b>: Collect the 2 quest artifacts of any Neutral Faction.</p>
 <p><b>Cost</b>: 10Qa (1E16)</p>
 <p>In order to affiliate with a Neutral Faction, like for Vanilla Factions, you first need to choose the alignment. The alignment upgrade for Neutral Factions is called the Proof of Neutrality.</b></p>
 <p>To get Proof of Neutrality you have to unlock at least 1 of the neutral factions.</b></p>
