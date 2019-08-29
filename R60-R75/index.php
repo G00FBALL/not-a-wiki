@@ -129,7 +129,7 @@
          </div>
     </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC5/Spell Cataclysm/UL5 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DGC5/Spell Cataclysm/UNL5 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: </p>
                 <p><b>Requirements</b>: Dragon Challenge 4</p>
@@ -146,7 +146,7 @@
                 <p>E135,E145,E320,E1225,E1425,</p>
                 <p>A105,A120,A270,A305,A400,</p>
                 <p>W180,W275,W400,W1275,W1375</p>
-                <p><b>Notes</b>: Assuming starting build with 0 excavations, you will need 1500 excavations for UL5, 2600 for Spell Cataclysm, and 3100 for DC5.</p>
+                <p><b>Notes</b>: Assuming starting build with 0 excavations, you will need 1500 excavations for Undead Lineage level 5, 2600 for Spell Cataclysm, and 3100 for Dragon Challenge 5.</p>
          </div>
     </div>
         <div class="shelementwhole">

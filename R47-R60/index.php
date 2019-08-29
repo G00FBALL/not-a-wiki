@@ -205,7 +205,7 @@
                 <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W180,W260,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
-                <p><b>Notes</b>: Use only if DC3 is not unlocked yet, as Druidline Faceless is faster.</p>
+                <p><b>Notes</b>: Use only if DGC3 is not unlocked yet, as Druidline Faceless is faster.</p>
             </div>
           </div>
         <div class="shelementwhole">
@@ -257,7 +257,7 @@
             </div>
           </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DC2 unlock build (R54+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DGC2 unlock build (R54+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e44+ gems</p>
