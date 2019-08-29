@@ -134,7 +134,7 @@
 <p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ObsidianCrown.png" align="middle"> Obsidian Crown</b></p>
-<p><b>Requirements</b>: R170+, Aligned with Mercs, 10 excavation resets (This game)</p>
+<p><b>Requirements</b>: R170+, Play as Mercenary, 10 excavation resets (This game)</p>
 <p><b>Chance</b>: ((x - 10) / 1000)%, x is the number of free and ruby excavation resets (This game)</p>
 <p><b>Effect</b>: Unlocks Mercenary Union Contract</p>
 <?php include "../scripts/footer.html"; ?>
