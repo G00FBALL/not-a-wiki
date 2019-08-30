@@ -5,8 +5,8 @@
     <?php include "../scripts/header.html"; ?>
     <h6>Lineages</h6>
     <p><b>Requirement</b>: R60+</p>
-    <p>At R60 you will unlock Lineages,  which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
-    <p><b>Note</b></b>: You can not use a Lineage if it matches your faction..
+    <p>At R60 you will unlock Lineages, which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
+    <p><b>Note</b>: You can not use a Lineage if it matches your faction or its respective prestige faction.</p>
     <p>Your Lineage is dependant on the Bloodline you chose.</p>
     <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication)</p>
     <p><b>Note</b>: Levels only need to be bought once.</p>
@@ -17,21 +17,21 @@
         <div class="shelementwhole" style="padding-left: 20px">
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
             <div class="autohide">
-                <p>The base costs for lineages are 25 Qa (2.5e16) Faction Coins and each level costs 10 times more. The Ancient Heirloom reduces the cost of lineages that aren't at the maximum level by raising them to the 0.9th power, making the cost multiplier 10^0.9 or 7.943 instead.</p>
-                <p><b>Lineage Cost Formula</b>: 25 * 10 ^ (8 + L + max(0 ; L-30) + max(0 ; L-60) + max(0 ; L-90))</p>
+                <p>The base costs for lineages are 2.5 B (2.5e9) Faction Coins and each level costs 10 times more. The Ancient Heirloom reduces the cost of lineages that aren't at the maximum level by raising them to the 0.9th power, making the cost multiplier 10 ^ 0.9 or 7.943 instead.</p>
+                <p><b>Lineage Cost Formula</b>: 25 * 10 ^ (8 + L + (0.5 * max(0 ; L - 31)) + (0.5 * max(0 ; L - 61)) + (0.5 * max(0 ; L - 91)) + (0.5 * max(0 ; L - 121))) where L is next lineage level.</p>
                 <p><b>Lineage Cost Formula Simplified</b>
-                <p>L1-30: 25 10 ^ (8 + L)</p>
-                <p>L31-60: 25 10 ^ (38 + 2 (L - 30))</p>
-                <p>L61-90: 25 10 ^ (98 + 3 (L - 60))</p>
-                <p>L91-120: 25 10 ^ (188 + 4 * (L - 90))</p>
+                <p>L1-31: 25 * 10 ^ (8 + L)</p>
+                <p>L32-61: 25 * 10 ^ (39 + 1.5 * (L - 31))</p>
+                <p>L62-91: 25 * 10 ^ (84 + 2 * (L - 61))</p>
+                <p>L92-121: 25 * 10 ^ (144 + 2.5 * (L - 91))</p>
+                <p>L122-150: 25 * 10 ^ (219 + 3 * (L - 121))</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
                 <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
                 <p><b>Chance</b>: Total Lineage levels/20</p>
                 <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
-                <p><b>Formula</b>: With Ancient Heirloom (25 * 10 ^ (8 + lineage level)) ^ 0.9</p>
+                <p><b>Formula</b>: Lineage Level Cost ^ 0.9</p>
                 <p><b>Note</b>: The cost listed below is <b>Without</b> Ancient Heirloom</p>
                 <p><b>Level 1</b>: 2.5 B (2.5e9)</p>
                 <p><b>Level 2</b>: 25 B (2.5e10)</p>
@@ -66,7 +66,7 @@
                 <th> Cost for next Lineage level
             </tr>
             <tr>
-                <td ><input id="LineageLevel" type="number" min="0" max="100" value="0"></td>
+                <td ><input id="LineageLevel" type="number" min="0" max="150" value="0"></td>
                 <td ><input id="Heirloom" type="checkbox"></td>
                 <td ><input id="Hourglass" type="checkbox"></td>
                 <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="220" value="100"></td>
@@ -88,7 +88,7 @@
                 diff = Math.min(30,lineageLevel);
                 lineageLevel -= diff;
                 costExponent += counter * diff;
-                counter++;
+                counter+= 0.5;
               }
               return costExponent;
             }
@@ -113,13 +113,13 @@
     </div>
     <p>You can get Lineage for each Faction (12 in Total, 15 in R130+)</p>
     <p>You get 3 perks and a Faction Coin boost plus Champion trophy after reaching level 20.</p>
-    <p><b>level 5</b>: Perk 1</p>
-    <p><b>level 10</b>: Specific FC boost</p>
-    <p><b>level 15</b>: Perk 2 - Unlocks Faction spell. (adjusted for your alignment if necessary)</p>
+    <p><b>Level 5</b>: Perk 1</p>
+    <p><b>Level 10</b>: Specific FC boost</p>
+    <p><b>Level 15</b>: Perk 2 - Unlocks Faction spell. (adjusted for your alignment if necessary)</p>
     <p><b>Note</b>: Level 15 Lineage Challenge does not need it's Lineage to complete.</p>
-    <p><b>level 20</b>: Perk 3 plus Grand Champion trophy</p>
-    <p><b>Level 30</b>: Faction Spell boost</p>
-    <p><b>Level 45</b>: Faction specific boost</p>
+    <p><b>Level 20</b>: Perk 3 plus Grand Champion trophy</p>
+    <p><b>Level 30 (R105+)</b>: Faction Spell boost</p>
+    <p><b>Level 45 (R105+)</b>: Faction specific boost</p>
     <br/>
     <center><b>Lineage Menu</b></center>
     <center><img src="http://musicfamily.org/realm/Factions/picks/Lineages.png" usemap="#Lineages-map"></center>
@@ -345,8 +345,9 @@
     <H6>Demon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonLineage.png" align="middle"><b> Demon Lineage</b></p>
     <p><b>Cost</b>: 400 Demon Royal Exchanges.</p>
-    <p><b>Effect</b>: Increase Non-Unique Buildings production based on Lineage level. Does not suffer from Ascension penalties</p>
-    <p><b>Formula</b>: (100 * x ^ 2), where x is Lineage level.</p>
+    <p><b>Effect</b>: Increase Non-Unique Buildings production based on Lineage level. Ascension penalty reduces based on time this Reincarnation.</p>
+    <p><b>Production Formula</b>: (100 * x ^ 2), where x is Lineage level.</p>
+    <p><b>Ascension Penalty Reduction Formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2)</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk1.png" align="middle"><b> Demon Perk 1</b></p>

@@ -147,8 +147,7 @@
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarf Master trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations and excavation resets. (This R).</p>
-<p><b>Formula</b>: (0.025 * (x * y) ^ 0.65)%, where x is excavations and y is excavation resets this R (ruby and free resets).</p>
-<p><b>Note</b>: Reset count now starts from 1 (no more 0% bonus).</p>
+<p><b>Formula</b>: (0.025 * (1 + x * y) ^ 0.65)%, where x is excavations and y is free and ruby excavation resets this R </p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
@@ -181,7 +180,7 @@
 <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5), where x is amount of clicks made this Reincarnation.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
+<p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x, 10) ^ y) ^ 0.9</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>

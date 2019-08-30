@@ -66,12 +66,13 @@
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonBloodline.png" alt="Dragon" align="middle"><b> Dragon</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.</p>
-<p><b>Formula</b>: 4 * (x ^ 0.4), where x is Faction Coin find chance.</p>
+<p><b>Formula</b>: (4 * x ^ 0.4), where x is Faction Coin find chance.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonBloodline.png" align="middle"> Archon</p></b>
 <p><b>Requirements</b>: Archon Unlocked, R130+</p>
 <p><b>Effect</b>: Gain additional research slots based on time spent this game.</p>
 <p><b>Formula</b>: (1 + floor(0.5 * ((1 + x / 21600) ^ 0.5 - 1))), where x is time spent this game.</p>
+<p><b>Note</b>: +1 research at start, +2 at 2 days, +3 at 6 days, +4 at 12 days.. (T >= N * (N - 1)) where T is time in days and N is amount of extra researches.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnBloodline.png" align="middle"> Djinn</p></b>
 <p><b>Requirements</b>: Djinn Unlocked, R130+</p>
@@ -83,7 +84,7 @@
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
-<p><b>2</b>. Cannot cast a spell that is already active.
+<p><b>2</b>. Cannot cast a spell that is already avaliable.
 <p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersBloodline.png" align="middle"> Makers</p></b>

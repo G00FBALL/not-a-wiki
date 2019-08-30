@@ -1129,7 +1129,7 @@
 <p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5), where x is FC chance.</p>
 <br/>
 <p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (10 + 0.05 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (10 + 0.05 * (x * (y) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free and ruby Excavation Resets this R</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> <b>Reality Crater</p></b>
 <p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
@@ -1146,6 +1146,6 @@
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
-<p><b>2</b>. Cannot cast a spell that is already active.</p>
+<p><b>2</b>. Cannot cast a spell that is already avaliable.</p>
 <p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <?php include "../scripts/footer.html"; ?>

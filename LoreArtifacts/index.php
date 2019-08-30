@@ -402,7 +402,7 @@
     <p><b>Clue</b>: Not found on the first Excavation round.</p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
     <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Elven</p>
-    <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10000)%, where x is non-ruby excavation resets (this game).</p>
+    <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10000)%, where x is free and ruby excavation resets (this game).</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png" align="middle"><b> Fossilized Wing</b></p>
     <p><b>Clue</b>: Angels may fall after a long time.</p>

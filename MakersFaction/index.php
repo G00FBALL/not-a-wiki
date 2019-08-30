@@ -18,7 +18,7 @@
 <p><b>Formula</b>: (10 + 0.05 * (x * (y + z)) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> Reality Crater</p></b>
-<p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
+<p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 free and ruby excavation resets this game.</p>
 <p><b>Effect</b>: Infinite Spiral also reduces excavation cost multiplier based on assistants owned.</p>
 <p><b>Formula</b>: (0.001 * log(1 + x)), where x is assistants owned.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
@@ -105,7 +105,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stonecarving</b></p>
 <p><b>Cost</b>: 10 TQig (1e163)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-<p><b>Formula</b>: (30 + 0.3 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+<p><b>Formula</b>: (30 + 0.3 * (x * y) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free and ruby excavation resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -116,7 +116,7 @@
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase the production of building tiers directly above or below Unique Buildings based on spells cast in this game.</p>
 <p><b>Formula</b>: (0.2 * x ^ 0.4), where x spells cast in this game.</p>
-<p><b>Note</b>: MK9 now works like W3150 ( ^ 2 bonus when able).</p>
+<p><b>Note</b>: If effected twice, stacks multiplicatively.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Elven and Goblin Coins</p>
