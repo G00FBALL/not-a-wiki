@@ -387,7 +387,7 @@ div#images div{
                 <p><b>Unlock</b>: Collect a full stack of any Orbs while having all three upgrades of either Summeraan or Winterly.</p>
                 <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
                 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                <p><b>Formula</b>: (0.5 * ln(x) ^ 2.5), where x is all time clicks made.</p>
+                <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
                 <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.
                 <hr>
                 <p><b>Shop Items</b></p>
