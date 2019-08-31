@@ -5,11 +5,14 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Ascend.png" alt="Ascend" align="middle"></h6>
 <h6>Description</h6>
+<p>Ascension is a third kind of soft reset. It was implemented to overcome the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
 <p>At R39, R99 and R159 the Reincarnation Button will say Ascension.</p>
 <p>Ascending will reset all the progress a Reincarnation would reset.</p>
 <p>It will not reset your Reincarnation count, and then will revert back to the Reincarnate button for Reincarnation 40 and Reincarnation 100 with new requisites.</p>
 <p>By Ascending you will unlock a new main currency, Diamond Coins at R40, Emerald Coins at R100 and Amethyst Coins at R160 that will be used for post-ascension upgrades and features, resulting in much smaller numbers.</p>
 <p>All upgrades that have previously cost Coins will be free, and the formulas for subsequent Reincarnations will change to allow continued progress. All Gifts bonuses, Scry Rewards, Ruby bonuses, Event bonuses and Gem bonuses will NOT be affected by the Ascension reduction.</p>
+<p><b>Note</b>: It is strongly advised to get most, if not all, the trophies, challenges and artifacts possible before ascending.</p>
+<p><b>Note:</b> It is wise to ascend before reaching or 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count)</p>
 </br>
 <h6>Income Shift</h6>
 <p>Ascension reduces each income boost by raising the respective multiplier to the 1/10 power. For instance, the 6000% of S330 is a 61x multiplier; 61 ^ 0.1 = 1.508, so it's a 50.8% percent increase post-ascension. (by heeheehee <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/613680#posts-10289299">source</a>), Resulting in the need to change and adapt the Mercenary and research builds.</p>
@@ -21,9 +24,6 @@
 <h6>Multiplier reduction</h6>
 <p>Ascension reduces multipliers for building cost and excavation.</p>
 <p><b>Formula</b>: 1 + (M - 1) / 5, where M is old multiplier.</p>
-<p>Ascension is a third kind of soft reset. It was implemented to overcome the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
-<p><b>Note</b>: It is strongly advised to get most, if not all, the trophies, challenges and artifacts possible before ascending.</p>
-<p><b>Note:</b> It is wise to ascend before reaching or 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count)</p>
 <hr>
 <p><b>Pre Ascension</b>: (R0-R39)</p>
 <p><b>Gem Requirement</b>: 1e27 * 1000 ^ R</p>
@@ -34,7 +34,7 @@
 <p><b>Gem Requirement</b>: 1e27 ^ 0.75 * 100 ^ (R - 40)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e11 ^ 0.5), where n is coins.</p>
-<p>Gold Coins become Diammond Coins.</p>
+<p>Gold Coins become Diamond Coins.</p>
 <hr>
 <p><b>Second Ascension</b>: (R100-R159)</p>
 <p><b>Gem Requirement</b>: 1e27 ^ 0.75 * R ^ (R - 100)</p>
