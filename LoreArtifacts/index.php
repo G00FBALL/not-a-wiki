@@ -500,5 +500,4 @@
 <p><b>Description</b>: The infamous metal cross of the Mercenaries. You should be both proud and afraid to carry one.</p>
 <p><b>Requirement</b>: R160+, Play as Mercenary</p>
 <p><b>Chance</b>: ((log10(x) - 37) * 0.1)%, x is gems owned.</p>
-<p><b>Effect</b>: Unlocks Mercenary Set.</p>
 <?php include "../scripts/footer.html"; ?>
