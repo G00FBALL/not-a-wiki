@@ -41,8 +41,8 @@
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e3, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e3 ^ 0.5), where n is coins.</p>
 <p>Diamond Coins become Emerald Coins.</p>
-<p><b>Note:</b>: Mercenaries and Prestige factions are locked on ascending.</p>
-<p><b>Note:</b>: When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher.</p>
+<p><b>Note</b>: Mercenaries and Prestige factions are locked on ascending.</p>
+<p><b>Note</b>: When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher.</p>
 <p>Ascension 2 will give you access to Tier 7 spells. (See spell page for time required).</p>
 <p>3 new alignments are added ontop of the regular 3 alignments, with one faction being assigned to each alignment combo. Each new alignment also unlocks an extra spell.</p>
 <p>Second unique building also becomes avaliable for each faction, unlocking Faction Union once bought (See each faction's page for more information)
@@ -94,6 +94,6 @@
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e11 ^ 0.5), where n is coins.</p>
 <p>Emerald Coins become Amethyst Coins.</p>
-<p><b>Note:</b>: When Ascending to Ascension 2, all Lineages will be set back to level 50 if higher.</p>
+<p><b>Note</b>: When Ascending to Ascension 3, all Lineages will be set back to level 50 if higher.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
