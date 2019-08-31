@@ -386,7 +386,6 @@
     <p><b>Requirement</b>: R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Lower Lineage cost exponent based on Reincarnations made.</p>
-    <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
     <p><b>Formula</b>: (0.01 * R), R is Reincarnations made. (NOT affected by invisible bonuses to R count)</p>
     <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
     <p><b>Chance:</b>: (x / 5000000000000000 (5 QA))%, where x is FC chance.</p>
