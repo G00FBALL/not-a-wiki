@@ -13,6 +13,12 @@
     <p><b>Note</b>: You must have a prestige faction to buy a lineage (unless in R100-R115)</p>
     <p><b>Note</b>: (R116+) When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
     <p><b>Formula</b>: (1 + 0.3 * level)</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
+    <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
+    <p><b>Chance</b>: Total Lineage levels/20</p>
+    <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
+    <p><b>Cost</b>: 10 Dtg (1e100)</p>
+    <p><b>Formula</b>: Lineage Level Cost ^ 0.9</p>
     <div class="shlisting">
         <div class="shelementwhole" style="padding-left: 20px">
             <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
@@ -25,34 +31,6 @@
                 <p>L62-91: 25 * 10 ^ (84 + 2 * (L - 61))</p>
                 <p>L92-121: 25 * 10 ^ (144 + 2.5 * (L - 91))</p>
                 <p>L122-151: 25 * 10 ^ (219 + 3 * (L - 121))</p>
-                <br/>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
-                <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
-                <p><b>Chance</b>: Total Lineage levels/20</p>
-                <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
-                <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Formula</b>: Lineage Level Cost ^ 0.9</p>
-                <p><b>Note</b>: The cost listed below is <b>Without</b> Ancient Heirloom</p>
-                <p><b>Level 1</b>: 2.5 B (2.5e9)</p>
-                <p><b>Level 2</b>: 25 B (2.5e10)</p>
-                <p><b>Level 3</b>: 250 B (2.5e11)</p>
-                <p><b>Level 4</b>: 2.5 T (2.5e12)</p>
-                <p><b>Level 5</b>: 25 T (2.5e13)</p>
-                <p><b>Level 6</b>: 250 T (2.5e14)</p>
-                <p><b>Level 7</b>: 2.5 Qa (2.5e15)</p>
-                <p><b>Level 8</b>: 25 Qa (2.5e16)</p>
-                <p><b>Level 9</b>: 250 Qa (2.5e17)</p>
-                <p><b>Level 10</b>: 2.5 Qi (2.5e18)</p>
-                <p><b>Level 11</b>: 25 Qi (2.5e19)</p>
-                <p><b>Level 12</b>: 250 Qi (2.5e20)</p>
-                <p><b>Level 13</b>: 2.5 Sx (2.5e21)</p>
-                <p><b>Level 14</b>: 25 Sx (2.5e22)</p>
-                <p><b>Level 15</b>: 250 Sx (2.5e23)</p>
-                <p><b>Level 16</b>: 2.5 Sp (2.5e24)</p>
-                <p><b>Level 17</b>: 25 Sp (2.5e25)</p>
-                <p><b>Level 18</b>: 250 Sp (2.5e26)</p>
-                <p><b>Level 19</b>: 2.5 Oc (2.5e27)</p>
-                <p><b>Level 20</b>: 25 Oc (2.5e28)</p>
             </div>
         </div>
     </div>
