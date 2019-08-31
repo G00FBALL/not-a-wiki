@@ -10,9 +10,9 @@
 <p>Ascending will reset all the progress a Reincarnation would reset.</p>
 <p>It will not reset your Reincarnation count, and then will revert back to the Reincarnate button for Reincarnation 40 and Reincarnation 100 with new requisites.</p>
 <p>By Ascending you will unlock a new main currency, Diamond Coins at R40, Emerald Coins at R100 and Amethyst Coins at R160 that will be used for post-ascension upgrades and features, resulting in much smaller numbers.</p>
-<p>All upgrades that have previously cost Coins will be free, and the formulas for subsequent Reincarnations will change to allow continued progress. All Gifts bonuses, Scry Rewards, Ruby bonuses, Event bonuses and Gem bonuses will NOT be affected by the Ascension reduction.</p>
+<p>All upgrades that have previously cost Coins (NOT Faction Coins) will be free, and the formulas for subsequent Reincarnations will change to allow continued progress. All Gifts bonuses, Scry Rewards, Ruby bonuses, Event bonuses and Gem bonuses will NOT be affected by the Ascension reduction.</p>
 <p><b>Note</b>: It is strongly advised to get most, if not all, the trophies, challenges and artifacts possible before ascending.</p>
-<p><b>Note:</b> It is wise to ascend before reaching or 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count)</p>
+<p><b>Note:</b> It is wise to ascend before reaching or 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count).</p>
 </br>
 <h6>Income Shift</h6>
 <p>Ascension reduces each income boost by raising the respective multiplier to the 1/10 power. For instance, the 6000% of S330 is a 61x multiplier; 61 ^ 0.1 = 1.508, so it's a 50.8% percent increase post-ascension. (by heeheehee <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/613680#posts-10289299">source</a>), Resulting in the need to change and adapt the Mercenary and research builds.</p>
@@ -43,14 +43,14 @@
 <p>Diamond Coins become Emerald Coins.</p>
 <p><b>Note</b>: Mercenaries and Prestige factions are locked on ascending.</p>
 <p><b>Note</b>: When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher.</p>
-<p>Ascension 2 will give you access to Tier 7 spells. (See spell page for time required).</p>
+<p>Ascension 2 will give you access to Tier 7 spells (See spell page for time required).</p>
 <p>3 new alignments are added ontop of the regular 3 alignments, with one faction being assigned to each alignment combo. Each new alignment also unlocks an extra spell.</p>
 <p>Second unique building also becomes avaliable for each faction, unlocking Faction Union once bought (See each faction's page for more information)
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
 <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
 <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
-<p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
+<p><b>Angel</b> (Good), <b>Undead</b> (Evil), <b>Titans</b> (Neutral)</p>
 <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
 <br/>
 <p><b>Spell</b></p>
@@ -63,7 +63,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
 <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
 <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
-<p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
+<p><b>Fairies</b> (Good), <b>Demons</b> (Evil), <b>Faceless</b> (Neutral)</p>
 <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
 <br/>
 <p><b>Spell</b></p>
@@ -79,7 +79,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
 <p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>
 <p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
-<p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
+<p><b>Elves</b> (Good), <b>Goblins</b> (Evil), <b>Druid</b> (Neutral)</p>
 <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
 <br/>
 <p><b>Spell</b></p>
