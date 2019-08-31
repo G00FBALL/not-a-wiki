@@ -398,7 +398,7 @@
         <tr>
             <td><center>Bloodstream</p><img src="http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png"></td>
             <td>1 Tg (1e93)</p>A1+ Free</td>
-            <td>100 each of the first 11 Factions(A0 Factions) Upgrades to be purchased(accross all Rs)</td>
+            <td>Purchase 100 upgrades of each faction (Anything that is faction colored counts) (All Game)</td>
             <td>When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.</p>Formula: 0.1*x0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.</p>A1, Increases the production of all buildings based on the time spent with the Bloodline you are using. While you are mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using.</td>
             <td>Buy at least 100 upgrades from each Faction(All A0 Factions) accross all reincarnations (excluding the Dragon bloodline)</td>
         </tr>

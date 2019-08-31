@@ -25,8 +25,12 @@
 </map>
 <p><b>Factions</b></p>
 <p>There are several types of Factions:</p>
-<p><b>Vanilla</b>, which includes the Good & Evil factions.</p>
-<p><b>Neutral</b>, <b>Prestige</b> and <b>Mercenary</b>. The Vanilla Factions show up by default but the others first need to be unlocked.</p>
+<p><b>Vanilla</b>, which includes the Good factions (Fairy, Elf and Angel) & Evil factions (Goblin, Undead and Demon),</p>
+<p><b>Neutral</b>, which includes Titan, Druid and Faceless,</p>
+<p><b>Prestige</b>, which includes Dwarf and Drow, and much later on, Dragon,</p>
+<p><b>Mercenary</b>,</p>
+<p>And <b>Elite Prestige</b>, which includes Archon, Djinn and Makers.
+<p>The Vanilla Factions show up by default but the others first need to be unlocked.</p>
 <p>Once unlocked they will stay unlocked throughout all abdications and reincarnations.</p>
 <p>To affiliate with a Faction, you first need to choose their Alignment.</p>
 <p>This makes all the Factions of that alignment available, and you can then choose which one to join. (Note: The icons used in the below section are the Faction's Trade Treaties, their first Faction upgrade.)</p>
@@ -94,10 +98,10 @@
 <p>Feature perks that becomes stronger with time.</p>
 <p><b>Requirement</b>: Octopus Shaped Spine (Only need bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
-<p><b>Cost</b>: <p><p><b>Cost</b> 250 Fairy coins, 250 Undead coins</p>
+<p><b>Cost</b>: 250 Fairy coins, 250 Undead coins</p>
 <hr>
 <p><b>Prestige Factions</b></p>
-<p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf ) or Droblins (Goblin+Drow).See the <a href="http://musicfamily.org/realm/DwarfFaction">Dwarf</a> and <a href="http://musicfamily.org/realm/DrowFaction">Drow</a> pages for more details.</p>
+<p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf) or Droblins (Goblin+Drow). See the <a href="http://musicfamily.org/realm/DwarfFaction">Dwarf</a> and <a href="http://musicfamily.org/realm/DrowFaction">Drow</a> pages for more details.</p>
 <p><b><a href="/realm/DwarfFaction">Dwarf</a></b></p>
 <p><a href="/realm/DwarfFaction"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png"></a></p>
 <p><b>Alignement: Good</b></p>
@@ -150,7 +154,7 @@
 <hr>
 <p><b>Faction Spell & Upgrades</b></p>
 <p>Each Faction has its own Faction specific spell and 3x3 Tier upgrades (3x4 for Mercenaries). The Tier upgrades only show up in order , so when you buy Tier 1 then Tier 2 will show up and then Tier 3, and hence cannot be bought before.</p>
-<p>Each Faction also has its own symbol and color code</p>
+<p>Each Faction also has its own symbol and color code.</p>
 <p>In the first column are the Tier 1 upgrades, in the second, Tier 2 and third, Tier 3 upgrades. </p>
 <p>The first colored upgrade of each tier cost Faction coins and they unlock the 3 following upgrades.</p>
 <p>These upgrades are exclusive faction upgrades and cost usual coins.</p>

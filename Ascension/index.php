@@ -16,7 +16,7 @@
 </br>
 <h6>Income Shift</h6>
 <p>Ascension reduces each income boost by raising the respective multiplier to the 1/10 power. For instance, the 6000% of S330 is a 61x multiplier; 61 ^ 0.1 = 1.508, so it's a 50.8% percent increase post-ascension.
-<p>The bonus formulas of production upgrades will all be shifted to a lower range, resulting in many 2 number bonuses. Upgrades that increase something other than Building, Click or Assistant production multiplicatively are not affected.</p>
+<p>The bonus formulas of production upgrades will all be shifted to a lower range, resulting in many 2-digit number bonuses. Upgrades that increase something other than Building, Click or Assistant production multiplicatively are not affected.</p>
 <p><b>Formula</b>: ((x / 100 + 1) ^ (0.1 * A) - 1) * 100, where x is original bonus in percentage and A is Ascension count.</p>
 </br>
 <h6>Multiplier reduction</h6>
@@ -67,12 +67,12 @@
 <p><b>Spell</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b></p>
 <p><b>Cost</b>: 3500 Mana</p>
-<p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
+<p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants.</p>
 <p><b>Formulas</b></p>
-<p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5)%, where x is mana produced this game.</p>
+<p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
 <p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
-<p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
-<p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
+<p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
+<p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
 <p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>

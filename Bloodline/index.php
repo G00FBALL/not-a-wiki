@@ -10,16 +10,16 @@
 <p><b>Cost</b>: Free</p>
 <p><b>Trophy & Upgrade</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png" alt="Bloodstream" align="middle"><b> Bloodstream</b></p>
-<p>Bloodstream Secret Trophy requires 100 each of the first 11 Factions(A0 Factions) Upgrades to be purchased(accross all Rs), which in turn grants the Bloodstream upgrade.</p>
+<p>Bloodstream Secret Trophy requirement: Purchase 100 upgrades of each faction (Anything that is faction colored counts) (All Game)</p>
 <p><b>In-game description</b>:Increase the production of all buildings based on the time spent as faction of the bloodline you are using. While you are Mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using.</p>
 <p><b>Cost</b>: 1Tg (1e93 coins), A1+ Free</p>
 <p><b>Effect</b>: Increases the production of all buildings based on the total time allied with the faction bloodline you are playing. ('Time Spent Allied with' at the bottom of the stats)</p>
-<p><b>Formula</b>: 0.1 * x ^ 0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.</p>
+<p><b>Formula</b>: (0.1 * x ^ 0.65)%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.</p>
 <p><b>R28+</b></b>: Starting from R28, you might get Bloodspring research upgrade, that will grant you bloodline of the faction you're currently playing, in addition to the bloodline that you have chosen by basic upgrade.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyBloodline.png" alt="fairy" align="middle"><b> Fairy</b></p>
 <p><b>Effect</b>: Increase the production of Farm, Inn and Blacksmith based on the assistants you own.</p>
-<p><b>Formula</b>: 250 * x ^ 0.9%, where x is the number of assistants you have.</p>
+<p><b>Formula</b>: (250 * x ^ 0.9)%, where x is the number of assistants you have.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven</b></p>
 <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>

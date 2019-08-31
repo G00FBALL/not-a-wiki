@@ -109,7 +109,7 @@
 <p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>
 <p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
-<p><b>Formula</b>: (2 * (x + y + z)  ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
+<p><b>Formula</b>: (2 * x ^ 0.8), where x is amount of Farms, Inns and Blacksmiths you own.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
 <br/>
@@ -155,7 +155,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Fairies Union</p>
-<p><b>Effect</b>: multiplicative increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
-<p><b>Formula</b>: Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
+<p><b>Effect</b>: Multiplicatively increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought)</p>
+<p><b>Formula</b>: Every 30 minutes, bonus increases by (rand(1.5 - 7.5))% (averages out to 216% per day).</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>

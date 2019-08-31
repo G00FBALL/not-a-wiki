@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ExcavationTopPage.png"></h6>
     <h6>Artifact Sets</h6>
-    <p><b>Finding all the faction artifacts for a specific faction</b> will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.
+    <p><b>Finding all the faction artifacts for a specific faction (Which can be done from R100)</b> will also unlock a new selection of upgrades called "Artifact Sets". You will be able to pick one per game only, similar to Bloodlines and Lineages. Abdicating will reset your choice and allow to pick another.
     <p><b>Requires all artifacts related to the faction to use its set.</b>
     <h6><center><img src="http://musicfamily.org/realm/Factions/picks/FactionSets3.6.png" usemap="#FactionSets-map"></h6></center>
     <map name="FactionSets-map">

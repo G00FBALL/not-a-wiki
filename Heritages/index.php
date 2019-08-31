@@ -23,7 +23,7 @@
 <p><b>Cost</b>: 5000 Elven Coins</p>
 <p><b>Requirements</b>: Elven Champion Trophy</p>
 <p><b>Effect</b>: Increase your chance to find Faction Coins by 5% and increase your click reward based on your chance to find Faction Coins.</p>
-<p><b>Formula</b>: (x/2)%, where x is your chance to find faction coins.</p>
+<p><b>Formula</b>: (x / 2)%, where x is your chance to find faction coins.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
 <p><b>Cost</b>: 5000 Angel Coins</p>
@@ -120,7 +120,7 @@
 <p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>
 <p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
-<p><b>Formula</b>: (2 * (x + y + z) ^ 0.8), where x is amount of Farms, y is amount Inns and z is amount Blacksmiths.</p>
+<p><b>Formula</b>: (2 * x ^ 0.8), where x is amount of Farms, Inns and Blacksmiths you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
