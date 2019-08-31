@@ -27,6 +27,7 @@
                 <p>L122-151: 25 * 10 ^ (219 + 3 * (L - 121))</p>
                 <br/>
                 <p>There are two artifacts that effect lineage level cost:</p>
+                <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
                 <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
                 <p><b>Effect</b>: Reduces the cost of Lineages(Except for the highest one).</p>
@@ -38,6 +39,7 @@
                 <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
                 <p><b>Effect</b>: Lower Lineage cost exponent based on Reincarnations made.</p>
                 <p><b>Formula</b>: (0.01 * R), R is Reincarnations made. (NOT affected by invisible bonuses to R count)</p>
+                <br/>
             </div>
         </div>
     </div>
