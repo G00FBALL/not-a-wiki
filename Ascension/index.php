@@ -34,13 +34,13 @@
 <p><b>Gem Requirement</b>: 1e27 ^ 0.75 * 100 ^ (R - 40)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e11 ^ 0.5), where n is coins.</p>
-<p>Gold Coins become Emerald Coins.</p>
+<p>Gold Coins become Diammond Coins.</p>
 <hr>
 <p><b>Second Ascension</b>: (R100-R159)</p>
 <p><b>Gem Requirement</b>: 1e27 ^ 0.75 * R ^ (R - 100)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e3, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e3 ^ 0.5), where n is coins.</p>
-<p>Emerald Coins become Diamond Coins.</p>
+<p>Diamond Coins become Emerald Coins.</p>
 <p><b>Note:</b>: Mercenaries and Prestige factions are locked on ascending.</p>
 <p><b>Note:</b>: When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher.</p>
 <p>Ascension 2 will give you access to Tier 7 spells. (See spell page for time required).</p>
@@ -93,7 +93,7 @@
 <p><b>Gem Requirement</b>: 1e27 * 100 ^ (R - 160)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>: floor(n ^ 0.5 / 5e11 ^ 0.5), where n is coins.</p>
-<p>Diamond Coins become Amethyst Coins.</p>
+<p>Emerald Coins become Amethyst Coins.</p>
 <p><b>Note:</b>: When Ascending to Ascension 2, all Lineages will be set back to level 50 if higher.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
