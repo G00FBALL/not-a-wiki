@@ -24,7 +24,7 @@
                 <p>L32-61: 25 * 10 ^ (39 + 1.5 * (L - 31))</p>
                 <p>L62-91: 25 * 10 ^ (84 + 2 * (L - 61))</p>
                 <p>L92-121: 25 * 10 ^ (144 + 2.5 * (L - 91))</p>
-                <p>L122-150: 25 * 10 ^ (219 + 3 * (L - 121))</p>
+                <p>L122-151: 25 * 10 ^ (219 + 3 * (L - 121))</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b> (Lore Artifact)</p>
                 <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
@@ -66,7 +66,7 @@
                 <th> Cost for next Lineage level
             </tr>
             <tr>
-                <td ><input id="LineageLevel" type="number" min="0" max="150" value="0"></td>
+                <td ><input id="LineageLevel" type="number" min="0" max="151" value="0"></td>
                 <td ><input id="Heirloom" type="checkbox"></td>
                 <td ><input id="Hourglass" type="checkbox"></td>
                 <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="220" value="100"></td>

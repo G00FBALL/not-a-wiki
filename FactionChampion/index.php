@@ -5,47 +5,33 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TrophiesTopPage.png"></h6>
 <p><b>Faction Champion Trophies</b></p>
-<p><b>Requirement</b>: Purchase the first 12 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, and Alliance)</p>
+<p><b>Requirement</b>: Purchase the 12 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, and Alliance)</p>
 <p><b>Note</b>: Do not need to buy Heritage</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle></b><b> Fairy Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Elf.png align=middle></b><b> Elven Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Angel.png align=middle></b><b> Angel Champion</b></p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Goblin.png align=middle></b><b> Goblin Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Undead.png align=middle></b><b> Undead Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Demon.png align=middle></b><b> Demon Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Titan.png align=middle></b><b> Titan Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Druid.png align=middle></b><b> Druid Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Faceless.png align=middle></b><b> Faceless Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Dwarves.png align=middle></b><b> Dwarven Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Drow.png align=middle></b><b> Drow Champion</b></p>
-<p><b>Note</b>: Can be done at R0.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/Mercenary.png align=middle></b><b> Mercenary Champion</b></p>
-<p><b>Requirement</b>: Purchase all Mercenary Upgrades</p>
-<p><b>Tier 1 Upgrades</b>: Mercenary First Contract, Mercenary Magic Contract,Mercenary Upgrades 1,2,3,4</p>
-<p><b>Tier 2 Upgrades</b>: Mercenary Second Contract, Holy Crusaders(For Good Alignments), Heresiarchs (For Evil Alignments), Mercenary Upgrades 5,6,7,8</p>
-<p><b>Tier 3 Upgrades</b>: Mercenary Third Contract, Mercenary Sorcery Contract, Mercenary Upgrades 9,10,11,12</p>
-<p><b>Note</b>: Can be done at R3</p>
+<p><b>Requirement</b>: R3+.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png align=middle></b><b> Dragon Champion</b></p>
 <p><b>Requirement</b>: R46+.</p>
@@ -90,8 +76,7 @@
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png align=middle></b><b> Dragon Grand Champion</b></p>
 <hr>
 <p><b>Faction Master Trophies</b></p>
-<p><b>Requirement</b>: Lineage level 30 and purchase all Faction Upgrades.</p>
-<p><b>Note</b>: Lineage level 30 needs to be done first</p>
+<p><b>Requirement</b>: Have Lineage level 30 of the respective Lineage and then and purchase all Faction Upgrades.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/FairyMasterTrophy.png align=middle></b><b> Fairy Master</b></p>
 <br/>
