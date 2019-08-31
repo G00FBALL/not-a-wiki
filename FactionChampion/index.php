@@ -76,7 +76,7 @@
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png align=middle></b><b> Dragon Grand Champion</b></p>
 <hr>
 <p><b>Faction Master Trophies</b></p>
-<p><b>Requirement</b>: Have Lineage level 30 of the respective Lineage and then and purchase all Faction Upgrades.</p>
+<p><b>Requirement</b>: R100+, Have Lineage level 30 of the respective Lineage and then and purchase all Faction Upgrades.</p>
 <br/>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/FairyMasterTrophy.png align=middle></b><b> Fairy Master</b></p>
 <br/>
