@@ -37,7 +37,7 @@
     <p><b>Description</b>: What's this, a prehistoric mouse...?</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase clicking reward based on the amount of artifacts you discovered.</p>
-    <p><b>Formula</b>: ?
+    <p><b>Formula</b>: (10 * x), where x is number of artifacts you discovered.</p>
     <p><b>Chance</b>: (# Treasure clicks this R / 5,000,000) %</p>
     <p><b>Cost</b>: 100 Qid (1E50)</p>
     <p><b>Alignment</b>: Any</p>
