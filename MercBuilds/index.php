@@ -126,10 +126,9 @@
                           <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
                           <p>Variant of IGOT a need for trophies for getting mana waste and autocasting.</p>
                           <p><b>Range</b>:R7-R11</p>
-                          <p><b>Requirements</b>: Helden Sterben Nicht</p>
-                          <p><b>Note</b>: Takes 3 hours to get Mana Waste.</p>
+                          <p><b>Note</b>: Takes just over 1 hour to get Mana Waste.</p>
                           <p><b>Note</b>: All times listed below are with masterful autocast unlocked, 67.4 Qad 6.74e46 gems at R7</p>
-                          <p><b>Note</b>: Times have not been retested in 3.5</p>
+                          <p><b>Note</b>: Times have been retested in 3.6.1</p>
                           <p><b>300 assistants</b>: 5 hours</p>
                           <p><b>Contingence Autocasting</b>: 6 hours</p>
                           <p><b>Mana Wave</b>: 6 hours</p>
