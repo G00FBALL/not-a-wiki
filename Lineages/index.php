@@ -155,7 +155,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Gain 1% more assistants for every 2000 Unique Buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png" align="middle"> Fairy Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png" align="middle"> <b>Fairy Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.</p>
     <br/>
     <p><b>Level 30</b>
@@ -196,7 +196,7 @@
     <p><b>Effect</b>: Increase base clicking reward by 15% of Unique Building production for every 777 of them.</p>
     <p><b>Formula</b>: (15 * floor(x / 777))</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" align="middle"> Elven Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" align="middle"> <b>Elven Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -236,7 +236,7 @@
     <p><b>Effect</b>: Increase God's Hand bonus based on Unique Buildings owned.</p>
     <p><b>Formula</b>: (12000 * (x / 1000))%, Unique Buildings.(rounded down to nearest 1000)</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png" align="middle"> Angel Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png" align="middle"> <b>Angel Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -275,7 +275,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Unique Building's base production increased by 25% for every 650 Unique Buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png" align="middle"> Goblin Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png" align="middle"> <b>Goblin Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -315,7 +315,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Gain 10 assistants for every 500 Unique Buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadGrandChampionTrophy.png" align="middle"> Undead Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadGrandChampionTrophy.png" align="middle"> <b>Undead Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Undead Lineage to level 20 and purchase 3 Undead Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -357,7 +357,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase production bonus from Gems by 50% per 666 Unique Buildings (multiplicative)</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png" align="middle"> Demon Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png" align="middle"> <b>Demon Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -396,7 +396,7 @@
     <p><b>Effect</b>: Increase the base production of tier 4 and tier 7 buildings based on Unique Buildings owned.</p>
     <p><b>Formula</b>: (0.01 * x and y), where x is tier 4 and tier 7, y is Unique Buildings owned.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png" align="middle"> Titan Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png" align="middle"> <b>Titan Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -437,7 +437,7 @@
     <p><b>Formula</b>: (12000 * (x / 1000)), where x is amount of Unique Buildings you own.</p>
     <p><b>Effect</b>: One ascension penalty is removed.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" align="middle"> Druid Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" align="middle"> <b>Druid Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -481,7 +481,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: 5% more assistant production per 1k Unique Buildings. (Does not suffer from Ascension penalties)</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png" align="middle"> Faceless Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png" align="middle"> <b>Faceless Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -522,7 +522,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Excavations and Artifacts count 1% more for every 1500 Unique Buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> Dwarf Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> <b>Dwarf Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Dwarf Lineage to level 20 and purchase 3 Dwarf Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -564,7 +564,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase Faction Coin find chance by 5% per 3000 unique buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png" align="middle"> Drow Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png" align="middle"> <b>Drow Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
@@ -604,7 +604,7 @@
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Maximum mana increased by 1.25 for every 2 Unique Buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png" align="middle"> Dragon Grand Champion Trophy.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png" align="middle"> <b>Dragon Grand Champion Trophy</b>.</p>
     <p><b>Requirement</b>: Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
