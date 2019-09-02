@@ -258,6 +258,33 @@ div#images div{
 <br>
 <p><b>Requirement</b>: If you unlock certain event feats, you will permanently unlock a new color option for the mana bowl from that event.</p>
 <p>Once unlocked these can be changed in the Event tab. (Only while no event is going on)</p>
+<hr>
+  <div class="shlisting">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Seasonal Event Upgrades</a></b></p>
+        <div class="category autohide">
+        <div class="shelementwhole">
+                <p><b>Note</b>: Once unlocked, these upgrades are available during all Seasonal Events.</p>
+                <br/>
+                <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateBoxFeat2019.png align=middle> Chocolate Box (Valentine)</b></p>
+                <p><b>Effect</b>: Increase your event bonus by a multiplicative 50%.</p>
+                <br/>
+                <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg (Easter)</b></p>
+                <p><b>Effect</b>: Increase base clicking reward by 1% of your Mana Regeneration.</p>
+                    <br/>
+                <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada (Goblin Invasion)</b></p>
+                <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
+                <p><b>Formula</b>: 0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration (Blood Wars)</b></p>
+                <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
+                <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5), where x is your least used alignment in this Reincarnation (in seconds).</p>
+                <br/>
+                <p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter (Summer Event)</b></p>
+                <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
+                <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
+            </div>
+        </div>
+    </div>
     <hr>
     <p><b>Events</b></p>
     <div class="shlisting">
