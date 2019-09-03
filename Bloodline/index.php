@@ -90,6 +90,6 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersBloodline.png" align="middle"> Makers</p></b>
 <p><b>Requirements</b>: Makers Unlocked, R130+</p>
 <p><b>Effect</b>: Increase your Set power based on faction coins collected this game.</p>
-<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5), where x is coins collected this game.</p>
+<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5), where x is faction coins collected this game.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
