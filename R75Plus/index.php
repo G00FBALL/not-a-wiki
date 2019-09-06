@@ -629,7 +629,7 @@
                 <p>A120,A270,A305,A1500,A2950,A3400,</p>
                 <p>W275,W400,W1275,W1375,W1400,W3150</p>
                 <p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
-                <p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand (R82-R90) or Lightning Strike (R90+, requires Veteran Figurine) if Fairy/Dragon Perk 2 is unlocked.</p>
+                <p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
             </div>
         </div>
         <div class="shelementwhole">
