@@ -538,10 +538,8 @@
     <H6>Drow</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"><b> Drow Lineage</b></p>
     <p><b>Cost</b>: 400 Drow Royal Exchanges.</p>
-    <p><b>Effect</b>: Increase offline production bonus based on Lineage level.
+    <p><b>Effect</b>: Increase offline production bonus based on Lineage level. Not effected by Aascension nerfs.
     <p><b>Formula</b>: (150 * L ^ 2.25), where L is Lineage level.</p>
-    <p><b>Note</b>: A-nerfed, but ascension penalties are removed over time.</p>
-    <p><b>Formula</b>: (floor(ln(1 + (3 * x) / 86400 ) / ln(3))) , x is seconds (This Reincarnation).</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk1.png" align="middle"><b> Drow Perk 1</b></p>
