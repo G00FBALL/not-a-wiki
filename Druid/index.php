@@ -49,7 +49,7 @@
 <p><b>Step 3</b>: Buy Max Monasteries, Max Labys, and Max Iron Strongholds > Cast Grand Balance.</p>
 <hr>
 <p><b>Druid Challenge 4</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" alt="Overflowing Mana" align="middle"> <b>Overflowing Mana</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" alt="Overflowing Mana" align="middle"> <b>Overflowing Magic</b></p>
 <p>"The Druids need more spell power, but they are worried about outside influences throwing off their balance."</p>
 <p><b>Requirements</b>: Druid as Base Fraction, Reincarnation 25+, Druid Unique Building, Druid challenge 3 completed.</p>
 <p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>

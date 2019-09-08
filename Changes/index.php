@@ -3640,7 +3640,7 @@ div#images div{
 <p><b>New Formula</b>: 3.1622x</p>
 <br/>
 <p><b>Druid challenge 4</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" align="middle"> Overflowing Mana</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" align="middle"> Overflowing Magic</b></p>
 <p><b>Old Effect</b>: All spell durations increased by 1% for every 1,500 max mana.</p>
 <p><b>New Effect</b>: All spell durations increased based on max mana.</p>
 <p><b>New Formula</b>: (0.005 * x ^ 0.85), where x is max mana.</p>
