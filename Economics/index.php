@@ -41,7 +41,7 @@
 <br/>
 <p><b>E260</b> - For <b>Druid</b> - Research Name: <b>Sifting</b><p><b>Requirement</b>: 3,000 Stonehenge Circles</b><p><b>Cost</b>: 3.039 SxQig (3.039E171)</b><p><b>Effect</b>: Increase the production of all other buildings based on the amount of Stone Pillars you own.</b><p><b>Formula</b>: (100 * x), where x is Stone Pillars</p>
 <br/>
-<p><b>E275</b> - For <b>Titan</b> - Research Name: <b>Offering</b><p><b>Requirement</b>: 1,250 Royal Exchanges(as Titans)</b><p><b>Cost</b>: 175.2 SxQig (1.752E173)</b><p><b>Effect</b>: Increase mana regeneration based on your Royal Exchange Bonus.</b><p><b>Formula</b>: floor(0.9 * x ^ 0.95), where x is your Royal Exchange Bonus.</p>
+<p><b>E275</b> - For <b>Titan</b> - Research Name: <b>Offering</b><p><b>Requirement</b>: 1,250 Royal Exchanges(as Titans)</b><p><b>Cost</b>: 175.2 SxQig (1.752E173)</b><p><b>Effect</b>: Increase mana regeneration based on your Royal Exchange Bonus.</b><p><b>Formula</b>: (x ^ 0.95), where x is your Royal Exchange Bonus.</p>
 <br/>
 <p><b>E290</b> - For <b>All Factions</b> - Research Name: <b>Surveyorship</b><p><b>Requirement</b>: 7 Artifacts</b><p><b>Cost</b>: 582.7 SpQig (5.827E176)</b><p><b>Effect</b>: Reduces Excavation </b><p><b>Cost</b> multiplier by 0.025; with no other reductions applying, the multiplier will be 1.175 instead of 1.2.</p>
 <br/>
