@@ -29,7 +29,7 @@
                 <td><label><input id="E290" type="checkbox"></label></td>
                 <td><label><input id="eas" type="checkbox"></label></td>
                 <td><input id="maker" type="number" step="0.001" min="0.000" max="0.050" value="0.000"></td>
-                <td><input id="asc" type="number" min="0" max="2" value="0"></td>
+                <td><input id="asc" type="number" min="0" max="3" value="0"></td>
                 <td id="exc"></td>
                 <td id="coi"></td>
                 <td id="gem"></td>
