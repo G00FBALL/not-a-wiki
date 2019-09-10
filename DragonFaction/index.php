@@ -132,7 +132,7 @@
 <p><b>Requirement</b>: Dragons Alliance</p>
 <p><b>Cost</b>: 5 Qavg (5.0e75)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of neutral buildings you own.</p>
-<p><b>Formula</b>: (0.1 * floor((x ^ 0.5)) / 10) where x is amount of neutral buildings.</p>
+<p><b>Formula</b>: (1 * floor((x ^ 0.5)) / 10) where x is amount of neutral buildings.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" alt="Smiley face" align="middle"> Chromatic Scales</b></p>
 <p><b>Requirement</b>: Dragons Alliance</p>
