@@ -126,7 +126,7 @@ $( "#archinput" ).change(function(){
 </script>
 <br style="clear: both"/><hr>
     <a id="Companions"></a>
-    <table class="numtable" >
+<center>    <table class="numtable" >
         <thead>
         <tbody>
         <tr>
@@ -198,11 +198,11 @@ $( "#archinput" ).change(function(){
         </tr>
         </tbody>
         </thead>
-    </table>
+    </table></center>
 <br style="clear: both"/>
-<hr>    
+<hr>
     <a id="Primal Balance"></a>
-    <table class="numtable" >
+    <center><table class="numtable" >
         <thead>
         <tr>
             <th colspan="5">Primal Balance (GB +10)</th>
@@ -295,7 +295,7 @@ $( "#archinput" ).change(function(){
             <td>1e13</td>
         </tr>
         </tbody>
-    </table>
+    </table></center>
 <br style="clear: both"/>
 <hr>
 <center><p>List provided by <a target="_blank" href="http://www.kongregate.com/accounts/pseudobyte"><b>pseudobyte</b></a></center>

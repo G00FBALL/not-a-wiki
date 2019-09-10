@@ -9,7 +9,7 @@
 <p><b>Alignment</b>: (Order)</p>
 <p><b>Faction spell</b>: Precognition</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (ln(x) ^ 1.25) (without AR10), (1.25 * ln(x) ^ 1.5) (with AR2), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (ln(x) ^ 1.25) (without AR2), (1.25 * ln(x) ^ 1.5) (with AR2), where x is mana produced in this game.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> Chrono Loading</p></b>
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
