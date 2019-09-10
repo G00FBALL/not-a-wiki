@@ -41,7 +41,7 @@
 <br/>
 <br/>
 <p><b>S1275</b> - <b>For</b>: All Factions - <b>Research Name</b>: Sequence
-<p><b>Requirement</b>: 60.000 spells cast (This Game).
+<p><b>Requirement</b>: 60,000 spells cast (This Game).
 <p><b>Cost</b>: 555.1 Dvg (5.551E71)
 <p><b>Effect</b>: Reduce spell cost for higher spell tiers.
 <p><b>Formula</b>: Reduces cost multiplier by 0.5; with no other reductions applying, the multiplier will be 1.5 instead of 2.</p>

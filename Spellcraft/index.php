@@ -63,7 +63,7 @@
 <br/>
 <p><b>S590</b> - For <b>Fairy,Dwarf</b> - Research Name: <b>Trickery</b></p><p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwairy) (This Game), Research Mysticism(S105) & Illusion (S375)</b></p><p><b>Cost</b>: 39.16 QiSpg (3.916E229)</b></p><p><b>Effect</b>: Increase the production of Neutral buildings based on maximum Mana.</b></p><p><b>Formula</b>: (0.5 * x ^ 1.05)%, where x is Maximum Mana.</p>
 <br/>
-<p><b>S1275</b> - For <b>All Factions</b> - Research Name: <b>Sequence</b></p><p><b>Requirement</b>: 60.000 spells cast (This Game).</p><p><b>Cost</b>: 152.4 Dvg (1.524e71)<p><b>Effect</b>: Reduce spell cost for higher spell tiers.<p><b>Formula</b>: Reduces cost multiplier by 0.5; with no other reductions applying, the multiplier will be 1.5 instead of 2.</p>
+<p><b>S1275</b> - For <b>All Factions</b> - Research Name: <b>Sequence</b></p><p><b>Requirement</b>: 60,000 spells cast (This Game).</p><p><b>Cost</b>: 152.4 Dvg (1.524e71)<p><b>Effect</b>: Reduce spell cost for higher spell tiers.<p><b>Formula</b>: Reduces cost multiplier by 0.5; with no other reductions applying, the multiplier will be 1.5 instead of 2.</p>
 <br/>
 <p><b>S1450</b> - For <b>Neutral,Dragon</b> - Research Name: <b>Spellstorm</b></p><p><b>Requirement</b>: Research S435, C1325, Any Neutral, Dragon</p><p><b>Cost</b>: 4.041 Sxvg (4.041e81)<p><b>Effect</b>: Increase the production of Unique buildings based on the amount of active spells.<p><b>Formula</b>: (50 * x ^ 1.5)%, where x is number of active spells, counting tiers.</p>
 <br/>
