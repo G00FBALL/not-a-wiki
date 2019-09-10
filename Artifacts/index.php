@@ -6,8 +6,8 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/ExcavationTopPage.png"></h6>
 <p><b>There are two kinds of artifacts</b></p>
 <p><a href="/realm/QuestArtifacts" research="Quest Artifacts"><b>Quest Artifacts</b></a>,
-<a href="/realm/LoreArtifacts" research="Lore Artifacts"><b>Lore Artifacts</b></a></p> and
-<a href="/realm/ArtifactSet" research="Lore Artifacts"><b>Artifact Sets</b></a></p>
+<a href="/realm/LoreArtifacts" research="Lore Artifacts"><b>Lore Artifacts</b></a> and
+<a href="/realm/ArtifactSet" research="Artifact Sets"><b>Artifact Sets</b></a></p>
 <p><b>In-game description</b>
 <p>Enter the Archeology Association to control the progress of your Excavations. There you will be able to fund more excavations to find Faction Coins, the rare Rubies and ancient Artifacts from the civilizations of the old.</p>
 <p>Archaeology was first implemented in the "Ancient Races" expansion for introducing the Neutral Factions.</p>
