@@ -6,7 +6,6 @@
     <br/>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/UpgradesTopPage.png" alt="Spellcraft" align="middle"></h6>
     <br/>
-    <p><b>All Faction Upgrades, Updated as of Nov,  2018.</b>
     <p><b>This page was put together for Mercenary builds.</b></p>
     <br/>
     <div class="shlisting">
