@@ -45,9 +45,9 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/PowerOrb.png" alt="Power Orb" align="middle"><b> Power Orb</b></p>
     <p><b>Clue</b>: Attracted by massive concentration of mana.</p>
     <p><b>Description</b>: Throbbing with Arcane Power</p>
+    <p><b>Requirement</b>: +3000 max mana</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increases mana regeneration by 2.5%.</p>
-    <p><b>Requirement</b>: +3000 max mana</p>
     <p><b>Chance</b>: (max mana / 15,000) %</p>
     <p><b>Cost</b>: 1 QaVg (1E75)</p>
     <p><b>Alignment</b>: Any</p>
@@ -200,7 +200,7 @@
     <p><b>Clue</b>: Found in the Wyrm Dens.</p>
     <p><b>Description</b>: This huge fang can barely fit in the hands of a Titan.</p>
     <p><b>Requirement</b>: R50+, play as Dragons</p>
-    <p><b>Chance</b>: Excavate (# Iron Strongholds / 400,000)%</p>
+    <p><b>Chance</b>: (# Iron Strongholds / 400,000)%</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonSoulArtifact.png" alt="Dragon Soul" align="middle"><b> Dragon Soul</b></p>
     <p><b>Clue</b>: Take five deep breaths.</p>
@@ -211,10 +211,10 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Vanilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
     <p><b>Clue</b>: Quickly!</p>
     <p><b>Description</b>: An essence from extremely savory vanilla beans.</p>
+    <p><b>Requirement</b>: R16+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings by 2500% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
     <p><b>Note</b>: Effect is canceled if you use a Prestige faction.</p>
-    <p><b>Requirement</b>: R16+</p>
     <p><b>Chance</b>: 20% in the first 5 minutes of a game</p>
     <p><b>Cost</b>: 1 coin</p>
     <p><b>Note</b>: Does not work while offline.</p>
@@ -233,45 +233,44 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy" align="middle"><b> Know Your Enemy, Part I</b></p>
     <p><b>Clue</b>: A true Mercenary should learn by all other cultures.</p>
     <p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
+    <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions. R12+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name</p>
     <p><b>Upgrade Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)</p>
     <p><b>Formula</b>: (0.75 * x ^ 0.6), where x is amount of time spent as non-mercenary factions (in seconds).</p>
     <p><b>Note</b>: Upgrade can be only used by Mercenaries.</p>
-    <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions. R12+</p>
     <p><b>Chance</b>: 10%</p>
-    <p><b>Cost</b>: 100 Vg (1E65)</p>
+    <p><b>Cost</b>: 100 Vg (1E65), A2+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VoodooDoll.png" alt="Voodoo Doll" align="middle"><b> Voodoo Doll</b></p>
     <p><b>Clue</b>: Found in the Witch Conclaves.</p>
     <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p>
+    <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p>
     <p><b>Note</b>: Upgrade can be used as any faction.</p>
-    <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
-    <p><b>Cost</b>: 20 Qig (2E154)</p>
     <p><b>Chance</b>: (number of Witch Conclaves / 10000)%</p>
+    <p><b>Cost</b>: 20 Qig (2E154), A2+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragment.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
     <p><b>Clue</b>: Ascension...</p>
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
+    <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on their tier.</p>
     <p><b>Formula</b>: (2.5 * x ^ 2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
-    <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Chance</b>: 10%</p>
-    <p><b>Cost</b>: 1 M (1E6)</p>
-    <p><b>Cost</b>: A2+, Free</p>
+    <p><b>Cost</b>: 1 M (1E6), A2+ Free</p>
+    <p><b>Cost</b>: </p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FortuntTellerMachineArtifact.png" alt="FortuntTellerMachine" align="middle"><b> Fortune Teller Machine</b></p>
     <p><b>Clue</b>: Don't choose your allies until you know more.</p>
-    <p><b>Requirement</b>: Excavate (Chance 0.1%)</p>
-    <p><b>Alignment</b>: Any (No Faction)</p>
+    <p><b>Requirement</b>: No Faction</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Requirement</b>: R42+</p>
     <p><b>Upgrade Effect</b>: Increase the production of Non-Unique buildings based on total time spent. (Time in seconds this R)</p>
-    <p><b>Cost</b>: 100 No (1e32)</p>
-    <p><b>Cost</b>: A2+, Free</p>
     <p><b>Formula</b>: (6.5 * x ^ 0.65), where x is time this R.</p>
+    <p><b>Chance</b>: 0.1%</p>
+    <p><b>Cost</b>: 100 No (1e32), A2+ Free</p>
 <hr>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random. (Changes every 30 seconds)</p>
     <p><b>Statement</b>: 1 ("A devilish star gazes upon your future. Is this a good or a bad sign...?")</p>
@@ -303,20 +302,19 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
     <p><b>Clue</b>: Relic of the Dawn hours.</p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
-    <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifact, awards the Sun Force upgrade, which grants different effects based on time of the day. (See details below)</p>
     <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Local Time)</p>
+    <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifact, awards the Sun Force upgrade, which grants different effects based on time of the day. (See details below)</p>
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
 <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png" alt="Duskstone" align="middle"><b> Duskstone</b></p>
     <p><b>Clue</b>: Relic of the Dusk hours.</p>
     <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
-    <p><b>Effect</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day. (See details below)</p>
     <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Local Time)</p>
+    <p><b>Effect</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day. (See details below)</p>
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
 <br/>
     <h6>Sun Force</h6>
-    <p><b>Upgrade Cost</b>: 1 Notg (1e120)</p>
-    <p><b>Upgrade Cost</b>: A1+, Free</p>
+    <p><b>Upgrade Cost</b>: 1 Notg (1e120), A1+ Free</p>
     <p><b>Note</b>: All times are based on <a style="text-decoration: none" class="clock24" id="tz24-1509896147-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Time in UTC" target="_blank" rel="nofollow">UTC Time</a>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
@@ -335,41 +333,40 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
     <p><b>Clue</b>: Relic of the Lineage.</p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
-    <p><b>Chance</b>: (Total Lineage levels/20)%</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
     <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level)) ^ 0.9</p></p>
-    <p><b>Cost</b>: A1, 10 Dtg (1e100)</p>
-    <p><b>Cost</b>: A2+, Free</p>
+    <p><b>Chance</b>: (Total Lineage levels/20)%</p>
+    <p><b>Cost</b>: A1, 10 Dtg (1e100), A2+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part 2" align="middle"><b> Know Your Enemy, Part 2</b></p>
     <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
     <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
     <p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
-    <p><b>Chance</b>: 5%</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
     <p><b>Note</b>: Only available to Mercenaries</p>
     <p><b>Formula</b>: (0.065 * x ^ 0.65) where x is amount of time spent as non-mercenary factions (in seconds).</p>
-    <p><b>Cost</b>: 100 Noqag (1e152)</p>
+    <p><b>Chance</b>: 5%</p>
+    <p><b>Cost</b>: 100 Noqag (1e152), A2+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VeteranFigurineArtifact.png" alt="Veteran Figureine" align="middle"><b> Veteran Figurine</b></p>
     <p><b>Clue</b>: A reward for the veteran challenger.</p>
     <p><b>Description</b>: The warrior of a thousand battles, ultimate champion of the Realms.</p>
     <p><b>Requirement</b>: R90+</p>
-    <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game</p>
     <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all faction challenges of your alignment.</p>
+    <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
     <p><b>Clue</b>: More Ascension...</p>
     <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
     <p><b>Requirements</b>: R100+</p>
-    <p><b>Chance</b>: 10%</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins</p>
     <p><b>Formula</b>: (30000 * (11-x) ^ 3.5)%, where x is building tier.</p>
+    <p><b>Chance</b>: 10%</p>
+    <p><b>Cost</b>: 1 Sx (1e21) Emerald Coins, A3+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ExcavatedMirageArtifact.png" alt="Excavated Mirage" align="middle"><b> Excavated Mirage</b></p>
     <p><b>Clue</b>: Raise your chances.</p>
@@ -377,8 +374,8 @@
     <p><b>Requirement</b>: R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Increase Faction Coin find chance by a multiplicative 200%</p>
-    <p><b>Secret Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins</p>
     <p><b>Chance</b>: (log10(x) / 100)%, where x is FC chance.</p>
+    <p><b>Upgrade Cost</b>: 1 Sx (1e21) Emerald Coins, A3+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
     <p><b>Clue</b>: Really, raise your chances.</p>
@@ -387,8 +384,8 @@
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Upgrade Effect</b>: Lower Lineage cost exponent based on Reincarnations made.</p>
     <p><b>Formula</b>: (0.01 * R), R is Reincarnations made. (NOT affected by invisible bonuses to R count)</p>
-    <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins</p>
     <p><b>Chance:</b>: (x / 5000000000000000 (5 QA))%, where x is FC chance.</p>
+    <p><b>Cost</b>: 1 Novg (1e90) Emerald Coins, A3+ Free</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png" align="middle"><b> Silk Cloth</b></p>
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
@@ -467,32 +464,32 @@
 <p><b>Hint</b>: Massive mana flows can offer guidance.</p>
 <p><b>Description</b>: Follow the guiding light, o wonderer, for it shall bring you fortune.</p>
 <p><b>Requirements</b>: R120+, Proof of Order</p>
-<p><b>Chance</b>: (x / 10,000,000,000 (10B))%, where x is mana regen.</p>
 <p><b>Effect</b>: Unlocks Tier 2 Temporal Flux</p>
+<p><b>Chance</b>: (x / 10,000,000,000 (10B))%, where x is mana regen.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OilLampArtifact.png" align="middle"> Oil Lamp</b></p>
 <p><b>Hint</b>: Chaos magic burns brightly.</p>
 <p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
 <p><b>Requirements</b>: R120+, Proof of Chaos</p>
-<p><b>Chance</b>: (min(x, y, z) / 1,000 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
 <p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
+<p><b>Chance</b>: (min(x, y, z) / 1,000 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SparkofLifeArtifact.png" align="middle"> Spark of Life</b></p>
 <p><b>Hint</b>: The power of Creation may spark something new.</p>
 <p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
 <p><b>Requirements</b>: R120+, Proof of Balance</p>
-<p><b>Chance</b>: (ln(1 + x) ^ 2 / 6000)%, where x is FC collected this game.</p>
 <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
+<p><b>Chance</b>: (ln(1 + x) ^ 2 / 6000)%, where x is FC collected this game.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png" align="middle"> Planetary Force</p></b>
 <p><b>Hint</b>: Try every day for better luck! Missing a day is the same as breaking a mirror, you know.</p>
 <p><b>Description</b>: Planets aligning seem to affect your realm in different ways...</p>
 <p><b>Requirements</b>: R100+</p>
-<p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
-<p><b>Note</b>: Restarting the game is required to increase the counter</p>
 <p><b>Effect</b>: Gives upgrade with the same name</p>
 <p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
-<p><b>Upgrade Cost</b>: 100 Qi (1e20)</p>
+<p><b>Upgrade Cost</b>: 100 Qi (1e20), A3+ Free</p>
+<p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
+<p><b>Note</b>: Restarting the game is required to increase the counter</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryInsigniaArtifact.png" align="middle"><b> Mercenary Insignia</b></p>
 <p><b>Clue</b>: Gem rhabdomancy seems to work best.</p>

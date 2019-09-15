@@ -37,7 +37,6 @@
             <div class="autohide">
                     <p><b>Author</b>: Sad</p>
                     <p><b>Range</b>: 1e29 (100 Oc) Gems - 1e44 (100 Td) Gems</p>
-                    <p><b>Requirements</b>: T7 Demon/Elf spells, Planetary Force</p>
                     <p><b>Alignment</b>: Good, Balance</p>
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Undead</p>
@@ -60,7 +59,6 @@
             <div class="autohide">
                     <p><b>Author</b>: Sad</p>
                     <p><b>Range</b>: 1e44 (100 Td) Gems+<</p>
-                    <p><b>Requirements</b>: T7 Demon/Elf spells, Planetary Force</p>
                     <p><b>Alignment</b>: Good, Balance</p>
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Druid</p>
