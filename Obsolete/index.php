@@ -4800,6 +4800,65 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100 - R110</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R100 - R115), 0 - 1e29 (100 Oc) Gems<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Shard</p>
+                    <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
+                    <p><b>Alignment</b>: Good, Balance</p>
+                    <p><b>Faction</b>: Elves</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Artifact Set</b>: Druid (if avaliable)
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S3200,C1,C225,C340,D50,D205,E25,E3250,A3400,W10,W1275" id="Build"> 0 Gems</p>
+                    <p>S175,S3200,</p>
+                    <p>C1,C225,C340,</p>
+                    <p>D50,D205,</p>
+                    <p>E25,E3250,</p>
+                    <p>A3400,</p>
+                    <p>W10,W1275</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Elves (R100 - R110), 1e29 (100 Oc) Gems - 1e44 (100 Td) Gems(<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Shard</p>
+                    <p><b>Range</b>: 1e29 (100 Oc) Gems - 1e44 (100 Td) Gems</p>
+                    <p><b>Requirements</b>: T7 Demon/Elf spells, Planetary Force</p>
+                    <p><b>Alignment</b>: Good, Balance</p>
+                    <p><b>Faction</b>: Elf</p>
+                    <p><b>Bloodline</b>: Demon</p>
+                    <p><b>Artifact Set</b>: Druid</p>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S3200,C1,C225,C340,D50,D205,E25,E3250,A3400,W10,W1275" id="Build"></p>
+                    <p>S175,S3200,</p>
+                    <p>C1,C225,C340,</p>
+                    <p>D50,D205,</p>
+                    <p>E25,E3250,</p>
+                    <p>A3400,</p>
+                    <p>W10,W1275</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Elves (R100 - R110), 1e44 (100 Td) Gems+<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Shard</p>
+                    <p><b>Range</b>: 1e44 (100 Td) Gems+<</p>
+                    <p><b>Requirements</b>: T7 Demon/Elf spells, Planetary Force</p>
+                    <p><b>Alignment</b>: Good, Balance</p>
+                    <p><b>Faction</b>: Elf</p>
+                    <p><b>Bloodline</b>: Demon</p>
+                    <p><b>Artifact Set</b>: Elf, Angel (From left to right, if avaliable)</p>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S175,S3200,C1,C225,C340,D50,D205,E25,E3250,A250,W10,W1275" id="Build"></p>
+                    <p>S175,S3200,</p>
+                    <p>C1,C225,C340,</p>
+                    <p>D50,D205,</p>
+                    <p>E25,E3250,</p>
+                    <p>A250</p>
+                    <p>W10,W1275</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Burial (W275 Buff)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                     <p><b>Author</b>: Kherti, modified by Necrodoom
