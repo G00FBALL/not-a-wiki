@@ -9,7 +9,7 @@
 <br/>
     <p><b>Updated September 15th, 2019</b>
     <p>All builds come from the  <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
-    <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
+    <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b> page</a></p>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds R116-R120</b></p>
@@ -95,6 +95,10 @@
                 <p><b>Notes</b>: Needs 15-20 minutes for SS7</p>
             </div>
         </div>
+    </div>
+    <br/>
+    <p><b>Production Builds R120+</b></p>
+    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50+ (100 QiD)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
