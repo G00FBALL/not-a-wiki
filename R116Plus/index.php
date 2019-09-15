@@ -200,6 +200,28 @@
         </div>
     </div>
     <br/>
+    <p><b>Advanced Heritage</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master/Drow AH 1e65+ (100 Vg)<font color="darkred"> Evil</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ashen Rider
+                <p><b>Faction</b>: Undead
+                <p><b>Bloodline</b>: Angel
+                <p><b>Artifact Set</b>: Undead
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S225,S435,S3200,C340,D25,D560,D1375,E10,E400,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build">
+                <p>S225,S435,S3200,
+                <p>C340,
+                <p>D25,D560,D1375,
+                <p>E10,E400,E495,
+                <p>A1,A120,A175,A410,A590,
+                <p>W50,W205,W405,W520
+                <p><b>Notes</b>: Takes 30-60 minutes.
+            </div>
+        </div>
+    </div>
+    <br/>
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
