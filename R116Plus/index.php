@@ -12,7 +12,7 @@
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
-    <p><b>Production Builds</b></p>
+    <p><b>Production Builds R116-R120</b></p>
     <p><b>Production builds need tested to see what is best</b></p>
     <div class="category">
         <div class="shelementwhole">
@@ -57,7 +57,6 @@
                  <p><b>Notes</b>: Swap S3200 for S200 at 1e34 (10 Dc)+ Gems.</p>
             </div>
         </div>
-
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R116-R120) 1e40 (10 Dd) - R<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
@@ -82,7 +81,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves 1e50 (100 QiD) - 1e55 (10 SpD)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e50 (100 QiD) Gems - 1e55 (10 SpD) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -101,7 +99,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50+ (100 QiD)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik
-                <p><b>Range</b>: 1e50 (100 QiD) Gems+
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Faceless
@@ -124,7 +121,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel 1e65+ (100 Vg)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik, liminal.shadow
-                <p><b>Range</b>: 1e65 (100 Vg) Gems+
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Druid
                 <p><b>Artifact Set</b>: Elf

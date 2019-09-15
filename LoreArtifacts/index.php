@@ -206,7 +206,7 @@
     <p><b>Clue</b>: Take five deep breaths.</p>
     <p><b>Description</b>: The extracted soul from an ancient dragon, wields the power to end the world in an instant. Also makes a good soup ingredient.</p>
     <p><b>Requirement</b>: R50+, play as Dragons, have 5 different Dragon Breath effects active simultaneously.</p>
-    <p><b>Chance</b>: Excavate (# Dragon Breath casts this game / 200,000)%</p>
+    <p><b>Chance</b>: # Dragon Breath casts this game / 200,000)%</p>
 <hr>
     <p><img src="http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png" alt="Vanilla Flavor Juice" align="middle"><b> Vanilla Flavor Juice</b></p>
     <p><b>Clue</b>: Quickly!</p>
