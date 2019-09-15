@@ -63,7 +63,7 @@
                     <p><b>Requirements</b>: T7 Demon/Elf spells, Planetary Force</p>
                     <p><b>Alignment</b>: Good, Balance</p>
                     <p><b>Faction</b>: Elf</p>
-                    <p><b>Bloodline</b>: Demon</p>
+                    <p><b>Bloodline</b>: Druid</p>
                     <p><b>Artifact Set</b>: Elf</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375" id="Build"></p>
