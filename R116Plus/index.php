@@ -118,7 +118,7 @@
                 <p>A250,A495,
                 <p>W10,W560,W1375
                 <p><b>Notes</b>: Swap W1375 for W400 at higher gems (?).
-                <p><b>Notes</b>: highly benefits from an high click count.
+                <p><b>Notes</b>: highly benefits from high click count.
             </div>
         </div>
         <div class="shelementwhole">
