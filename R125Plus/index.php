@@ -736,8 +736,8 @@
             <div class="autohide">
                    <p><b>Author</b>: rellikrellik</p>
                    <p><b>Requirement</b>: Makers Challenge 2</p>
-                    <p><b>Faction</b>: Angel</p>
-                    <p><b>Bloodline</b>: Goblin</p>
+                    <p><b>Faction</b>: Goblin</p>
+                    <p><b>Bloodline</b>: Angel</p>
                     <p><b>Artifact Set</b>: Undead</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
                       <input type="text" value="S50,S3200,S435,C175,C340,D290,D560,E1,E400,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
