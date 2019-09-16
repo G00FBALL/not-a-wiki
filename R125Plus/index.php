@@ -192,7 +192,7 @@
                 <p>A400,A495,</p>
                 <p>W10,W560,W1375</p>
                 <p><b>Notes</b>: Does not need to cast IS until e62 gems.</p>
-                <p><b>Notes</b>: Can be used at R130+ with L45.</p>
+                <p><b>Notes</b>: Can be used at R139+ with L45.</p>
             </div>
         </div>
     </div>
