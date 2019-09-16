@@ -780,7 +780,7 @@
     <div class="category">
 
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Elves R139+ (First L45)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Elves R139+ (First L45)<font color="blue"> Good</font></a></b></p>
             <div class="autohide">
                    <p><b>Author</b>: meta</p>
                     <p><b>Faction</b>: Elf</p>
