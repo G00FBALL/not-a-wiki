@@ -677,7 +677,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin R130+ (S400) e88+ (10 Ocvg)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin R130+ (S400) e88+ (10 Ocvg)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                    <p><b>Author</b>: Rellikrellik</p>
                    <p><b>Credit</b>: ElectroFuzz for testing</p>
