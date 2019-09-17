@@ -4,6 +4,48 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
+<p><b>Old patches may not have correct information as new patches will change things</p></b>
+<p><b>V3.6.2 September 15th, 2019</b></p>
+<br/>
+<p><b>New Event</b>: Idilium Event</p>
+<p>Check  <a target="_blank" href="http://musicfamily.org/realm/Events/"><b>Event</b></a>  page once event starts</p>
+<br/>
+<p><b>Hotkey/Shortcut</b>: P Key will activate 11th spell.</p>
+<br/>
+<p><b>Spell Tier</b>: Spell tier upgrades now automatically set the autocast tier to maximum when purchased. You can still set their properties with the Tiered Autocast function.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
+<p><b>Effect</b>: Allows you to manually reset spells.</p>
+<p><b>Changed</b>: Now has a 2 second cooldown per spell.</p>
+<br/>
+<p><b>Djinn Challenge 2</b></p>
+<p><b>Old Challenge</b>: Have at least 666 B (6.66e11) Mana Produced within 6 hours of a new game.</p>
+<p><b>New Challenge</b>: Have at least 66 B (6.6e10) Mana Produced within 6 hours of a new game.</p>
+<p><b>Added</b>: Now gives additional evil cast for each tier of spell autocast.</p>
+<p><b>Note</b>: This is equal to manually casting each tier.</p>
+<br/>
+<p><b>Djinn Challenge 3</b></p>
+<p><b>Old Challenge</b>: Have at least 8e12 assistants within 5 minutes of a new game.</p>
+<p><b>New Challenge</b>: Have at least 10e10 assistants within 5 minutes of a new game.</p>
+<p><b>Note</b>: No longer counts temporary assistants.</p>
+<br/>
+<p><b>Archon Challenge 2</b></p>
+<p><b>Old Challenge</b>: Have an Offline Bonus of at least 20 Dc (2e34)% while also having at least 5e10 assistants.</p>
+<p><b>New Challenge</b>: Have an Offline Bonus of at least 300 No (3e32)% while also having at least 4.5 B (4.5e9) assistants.</p>
+<br/>
+<p><b>Archon Challenge 5</b></p>
+<p><b>Old Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 400% bonus.</p>
+<p><b>New Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 390% bonus.</p>
+<br/>
+<p><b>Goblins Union</p></b>
+<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
+<p><b>Old Formula</b>: (2 * log10(1 + x) ^ 2), where x is spells cast in this game.</p>
+<p><b>New Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is spells cast in this game.</p>
+<br/>
+<div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.6.1 August 21st, 2019</a></b></p>
+        <div class="autohide">
 <p><b>V3.6.1 August 21st, 2019</b></p>
 <p><b>New Feat with new upgrade</b>: ?</p>
 <p><b>Event Upgrades</b></p>
@@ -11,8 +53,6 @@
 <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
 <p><b>Old Formula</b>: (0.45 * x ^ 0.45), where x is amount of buildings you own. (multiplicative)</p>
 <p><b>New Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
-<!--<p><b>Frostmelter</b>: Collect a full stack of any orbs while having all three upgrades of either Summeraan or Winterly.</p>
-<p><b>Effect</b>: Multiplicatively increase FC chance based on all time clicks: (0.5 * ln(x) ^ 2.5)</p>-->
 <br/>
 <p><b>R120 Power</b></p>
 <p><b>Old Effect</b>: Increases the production of all buildings based on Reincarnations made when not affiliated with Mercenaries or Elite factions.</p>
@@ -163,8 +203,6 @@
 <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
 <p><b>Old Challenge</b>: Have a spell duration of at least 2 years.</p>
 <p><b>New Challenge</b>: Have a spell duration of at least 1 year.</p>
-
-
 <br/>
 <p><b>Makers Challenge 2</b></p>
 <p><b>Effect</b>: While Mana Regeneration is higher than Maximum Mana, each time you cast a spell, you also cast free Tax Collections based on the difference between them.</p>
@@ -358,9 +396,8 @@
 <p><b>Old</b>: For Evil Mercenary</p>
 <p><b>New</b>: For All Mercenary</p>
 <br/>
-
-
-<div class="shlisting">
+    </div>
+   </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.6 July 15, 2019</a></b></p>
         <div class="autohide">
@@ -3640,7 +3677,7 @@ div#images div{
 <p><b>New Formula</b>: 3.1622x</p>
 <br/>
 <p><b>Druid challenge 4</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" align="middle"> Overflowing Magic</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png" align="middle"> Overflowing Mana</b></p>
 <p><b>Old Effect</b>: All spell durations increased by 1% for every 1,500 max mana.</p>
 <p><b>New Effect</b>: All spell durations increased based on max mana.</p>
 <p><b>New Formula</b>: (0.005 * x ^ 0.85), where x is max mana.</p>
