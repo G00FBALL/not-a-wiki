@@ -9,9 +9,8 @@
 <p>"In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, Reincarnation 135+, Persistent Entropy upgrade purchased.</p>
 <p><b>Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
-<p><b>Effect</b>: Maelstrom increases assistants based on building tiers targeted. Provides a better bonus for lower tier buildings.</p>
-<p><b>Formula</b>: Multiplicative to base assistants: sum of ((12-T) * 100 )%, each T is tier of targeted maelstrom building.</p>
-<p><b>Alternative Formula</b>: ((36-x-y-z) * 100)%, where x,y and z are the respective tiers of Maelstrom’s target buildings.</p>
+<p><b>Effect</b>: Maelstrom increases assistants based on lowest building tier targeted.</p>
+<p><b>Formula</b>: Multiplicative to base assistants: sum of ((12 - T) * 100)%, each T is tier of lowest maelstrom building targeted.</p>
 <p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
 <p><b>Additive to LW casts</b>: (0.0001 * (x ^ 0.4) * y * z), where x = maximum mana, y = Fairy Chanting tier, z = Fairy Chanting runtime (seconds).</p>
 <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn</p>
@@ -20,7 +19,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
 <p>"As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!"</p>
 <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, Reincarnation 139+, Djinn Bloodline active, Djinn challenge 1 completed.</p>
-<p><b>Challenge</b>: Have at least 666 B (6.66e11) Mana Produced within 6 hours of a new game.</p>
+<p><b>Challenge</b>: Have at least 66 B (6.6e10) Mana Produced within 6 hours of a new game.</p>
 <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
 <p><b>Formula</b>: Multiplicative: (0.8 * x ^ 0.8), where x is Hellfire Blast casts (this game).</p>
 <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
@@ -31,7 +30,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
 <p>"Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
-<p><b>Challenge</b>: Have at least 8 T (8e12) assistants within 5 minutes of a new game.</p>
+<p><b>Challenge</b>: Have at least 100 B (1e11) assistants within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Catalyst casts one additional spell.</p>
 <p><b>Effect</b>: Catalyst also adds 100 casts per spell.</p>
 <p><b>Effect</b>: Makes Limited Wish scale faster based on Research Points used in this game.</p>

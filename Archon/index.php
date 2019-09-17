@@ -18,7 +18,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnUntimelyDeath.png" align="middle"> An Untimely Death</b></p>
 <p>"A glorious victory! May we reap the rewards of war with new undead adversaries to join our quest."</p>
 <p><b>Requirements</b>: Undead as Base Faction, Archon as Elite Faction, Reincarnation 139+, Archon Bloodline active, Archon challenge 1 completed.</p>
-<p><b>Challenge</b>: Have an Offline Bonus of at least 20 Dc (2e34)% while also having at least 5e10 assistants.</p>
+<p><b>Challenge</b>: Have an Offline Bonus of at least 300 No (3e32)% while also having at least (4.5 B) 4.5e9 assistants.</p>
 <p><b>Effect</b>: Multiplicatively increase assistants based on Offline Bonus.</p>
 <p><b>Formula</b>: (1.75 * log10(1 + x) ^ 1.75), where x is offline bonus multiplier</p>
 <p><b>Effect</b>: Temporal Flux also increases Offline Bonus. (Same Formula as production bonus)</p>
@@ -48,8 +48,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PowerOverwhelming.png" align="middle"> Power Overwhelming</b></p>
 <p>"All-powerful ruler, we've experienced all this worldline had to offer. Shall we bridge to another and continue?</p>
 <p><b>Requirements</b>: Angel, Undead or Titan as Base Faction, Archon as Elite Faction, Reincarnations 153+, Have all Order Lineages at least level 45, Archon challenge 4 completed."</p>
-<p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 400% bonus.</p>
-<p><b>Effect</b>: The Advanced Heritage that matches your Lineage counts 50% of its level. All others get 5% of their respective Lineage level.</p>
+<p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 390% bonus.</p>
+<p><b>Effect</b>: The Advanced Heritage that matches your Lineage counts 50% (up from 30%) of its level. All others get 5% (up from 0%) of their respective Lineage level.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
 <p><b>In-Game Challenge Final Reward</b></p>

@@ -26,7 +26,7 @@
 <br/>
 <p><b>Djinn Challenge 3</b></p>
 <p><b>Old Challenge</b>: Have at least 8e12 assistants within 5 minutes of a new game.</p>
-<p><b>New Challenge</b>: Have at least 10e10 assistants within 5 minutes of a new game.</p>
+<p><b>New Challenge</b>: Have at least 1e11 assistants within 5 minutes of a new game.</p>
 <p><b>Note</b>: No longer counts temporary assistants.</p>
 <br/>
 <p><b>Archon Challenge 2</b></p>
