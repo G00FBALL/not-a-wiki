@@ -8,10 +8,10 @@
     <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
     <p><b>Note: All Events are based on <a style="text-decoration: none" class="clock24" id="tz24-1509897346-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" research="Universal Time Coordinated">UTC Time</a></p>
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
-    <p><b>Event has started</b></p>
+    <p><b>Event will start in</b></p>
     <p id="start">
-    <!--<script>
-      var countDownDate1 = new Date("Jul 22, 2019 12:01:00 UTC").getTime();
+    <script>
+      var countDownDate1 = new Date("Sep 23, 2019 12:01:00 UTC").getTime();
       var x = setInterval(function() {
           var now = new Date().getTime();
           var distance = countDownDate1 - now;
@@ -25,11 +25,11 @@
               clearInterval(x);
           }
           }, 1000);
-      </script></p>-->
-<p><b>Event ends in</b></p>
+      </script></p>
+<p><b>Event will end in</b></p>
 <p id="end">
 <script>
-var countDownDate2 = new Date("Sep 2, 2019 18:59:00 UTC").getTime();
+var countDownDate2 = new Date("Sep 30, 2019 18:59:00 UTC").getTime();
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate2 - now;

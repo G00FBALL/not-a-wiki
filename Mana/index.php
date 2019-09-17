@@ -128,7 +128,7 @@
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
 <p><b>Requirements</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
-<p><b>Effect</b>: Allows you to manually reset spells.</p>
+<p><b>Effect</b>: Allows you to manually reset spells with a 2 second cooldown per spell.</p>
 <p><b>Note</b>: Can not reset spells with a fixed duration.</p>
 <p><b>Note</b>: Only while offline, increase your mana produced amount by an additional 10% of your Mana Regeneration per second, and your spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
 <p><b>Formula</b>: (1000 * log10(1 + x)), where x is Mana Regeneration</p>

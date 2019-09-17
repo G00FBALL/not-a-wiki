@@ -30,7 +30,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
 <p>"Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
-<p><b>Challenge</b>: Have at least 100 B (1e11) assistants within 5 minutes of a new game.</p>
+<p><b>Challenge</b>: Have at least 100 B (1e11) base assistants within 5 minutes of a new game.</p>
 <p><b>Effect</b>: Catalyst casts one additional spell.</p>
 <p><b>Effect</b>: Catalyst also adds 100 casts per spell.</p>
 <p><b>Effect</b>: Makes Limited Wish scale faster based on Research Points used in this game.</p>
