@@ -443,6 +443,26 @@
                 <p>W10,W560,W1375</p>
                 <p><b>Notes</b>: Does not need to cast IS until e62 gems.</p>
                 <p><b>Notes</b>: Can be used at R139+ with L45.</p>
+          </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R154+) 0 - e90+ (1 Novg) <font color="darkgoldenrod"> Neutral</font> (<b>R139+ with Fairy L45</b>)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: :)</p>
+                <p><b>Requirement</b>: All challenges completed</p>
+                <p><b>Faction</b>: Druid</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>Artifact Set</b>: Fairy</p>
+                <p><b>2nd Artifact Set</b>: Druid</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build"></p>
+                <p>S1450,S3200,</p>
+                <p>C300,C340,C1300,</p>
+                <p>D275,D1125,D1375,</p>
+                <p>E260,E1225,E1425,</p>
+                <p>A250,A251,A375,A1200,A1500,</p>
+                <p>W350,W1375,W1400</p>
+                <p><b>Notes</b>: 2-5 minute runs, hits e90 gems in about 30 minutes</p>
             </div>
         </div>
     </div>
