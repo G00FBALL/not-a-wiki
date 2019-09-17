@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
 <p><b>Old patches may not have correct information as new patches will change things</p></b>
-<p><b>V3.6.2 September 15th, 2019</b></p>
+<p><b>V3.6.2 September 17th, 2019</b></p>
 <br/>
 <p><b>New Event</b>: Idilium Event</p>
 <p>Check  <a target="_blank" href="http://musicfamily.org/realm/Events/"><b>Event</b></a>  page once event starts</p>
