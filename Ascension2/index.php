@@ -46,7 +46,7 @@
 <p><b>Cost</b>: 1 Qi (1e18) Angel Coins</p>
 <p><b>Requirement</b>: Holy Sites Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
-<p><b>Effect</b>: Increase the production of all buildings based on the sum of your mana regeneration and mana produced in this game.</p>
+<p><b>Effect</b>: Increase Mana Regeneration based on mana produced in this game.(Multiplicative)</p>
 <p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana peoduced.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
