@@ -446,7 +446,7 @@
           </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R154+) 0 - e90+ (1 Novg) <font color="darkgoldenrod"> Neutral</font> (<b>R139+ with Fairy L45</b>)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R154+) 0 - e90+ (1 Novg) <font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Requirement</b>: All challenges completed</p>
