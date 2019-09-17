@@ -906,11 +906,11 @@
                 <p><b>Bloodline</b>: Dwarf
                 <p><b>Artifact Set</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S300,S1450,S3200,S400,S500,S200,C251,C375,C400,C1300,C1500,C340,C500,C250,D290,D350,D1125,D1375,D3350,D1275,E135,E275,E1225,E,1325,E1425,E400,A400,A1200,A120,A3400,A270,W260,W1375,W1400,W400,W1275,W180" id="Build">
+                  <input type="text" value="S300,S1450,S3200,S400,S500,S200,C251,C375,C400,C1300,C1500,C340,C500,C250,D290,D350,D1125,D1375,D3350,D1275,E135,E275,E1225,E1325,E1425,E400,A400,A1200,A120,A3400,A270,W260,W1375,W1400,W400,W1275,W180" id="Build">
                   <p>S300,S1450,S3200,S400,S500,S200,
                   <p>C251,C375,C400,C1300,C1500,C340,C500,C250,
                   <p>D290,D350,D1125,D1375,D3350,D1275,
-                  <p>E135,E275,E1225,E,1325,E1425,E400,
+                  <p>E135,E275,E1225,E1325,E1425,E400,
                   <p>A400,A1200,A120,A3400,A270,
                   <p>W260,W1375,W1400,W400,W1275,W180
                  <p><b>After Archon treaty</b>: Reload Build and after each new research slot opens.
