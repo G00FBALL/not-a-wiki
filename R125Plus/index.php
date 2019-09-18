@@ -423,7 +423,7 @@
                   <p>A25,A400,A410,</p>
                   <p>W1,W135,W175,W405,W520,W590</p>
                   <p><b>Notes</b>: Can be used from R139 but needs angel perk 5.
-                  <p><b>Notes</b>: Benefits from rapidly casting HB during LW:trophies, but isn't necessary.
+                  <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count.
           </div>
         </div>
         <div class="shelementwhole">
@@ -509,6 +509,25 @@
                     <p>A10,A120,A410,</p>
                     <p>W25,W205,W405,W520</p>
                     <p><b>Notes</b>: Swap S3200 with S400 if high enough (At least 50% of C3100?)</p>
+        </div>
+    </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)<font color="DarkRed"> Evil</font></a></b> <b>(At R148+ add Faceless Set Buffed)</b></p>
+            <div class="autohide">
+                    <p><b>Author</b>: Curunur</p>
+                    <p><b>Faction</b>: Goblin/Drow/Makers</p>
+                    <p><b>Bloodline</b>: Fairy</p>
+                    <p><b>Artifact Set</b>: Dwarf</p>
+                    <p><b>Range</b>: ?</p>
+                      <p><button onclick="myFunction($(this))">Copy Build</button>
+                      <input type="text" value="S50,S400,S435,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520" id="Build"></p>
+                    <p>S50,S400,S435,</p>
+                    <p>C175,C400,</p>
+                    <p>D560,D3350,</p>
+                    <p>E1,E225,E495,E590,E1325,</p>
+                    <p>A10,A410,A3400,</p>
+                    <p>W25,W205,W405,W520</p>
+                    <p><b>Notes</b>: While A400 grows better than A3400, running this build more than a few minutes is not recommended.</p>
         </div>
     </div>
         <div class="shelementwhole">
@@ -601,25 +620,6 @@
                     <p>A10,A400,A410,</p>
                     <p>W25,W205,W405,W520</p>
                     <p><b>Note</b>: with Makers Challenge 4, also take Dwarf set, or Facelesset if buffed.</p>
-        </div>
-    </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R148+ (AR1)<font color="DarkRed"> Evil</font></a></b></p>
-            <div class="autohide">
-                    <p><b>Author</b>: Curunur</p>
-                    <p><b>Faction</b>: Goblin/Drow/Makers</p>
-                    <p><b>Bloodline</b>: Fairy</p>
-                    <p><b>Artifact Set</b>: Faceless</p>
-                    <p><b>Range</b>: ?</p>
-                      <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S50,S400,S435,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520" id="Build"></p>
-                    <p>S50,S400,S435,</p>
-                    <p>C175,C400,</p>
-                    <p>D560,D3350,</p>
-                    <p>E1,E225,E495,E590,E1325,</p>
-                    <p>A10,A410,A3400,</p>
-                    <p>W25,W205,W405,W520</p>
-                    <p><b>Notes</b>: While A400 grows better than A3400, running this build more than a few minutes is not recommended.</p>
            </div>
          </div>
       </div>

@@ -15,7 +15,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druid (R100-R110), 0 - 1e29 (100 Oc)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druid (R100-R110), 0 - 1e29 (100 Oc)<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
                 <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
