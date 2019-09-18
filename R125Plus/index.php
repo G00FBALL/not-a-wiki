@@ -939,13 +939,13 @@
                 <p><b>Bloodline</b>: Undead
                 <p><b>Artifact Set</b>: Facelesset/Dwarfset
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375" id="Build">
-                  <p>S175,S400,
-                  <p>C1,C225,C400,C405,C520,C590,
-                  <p>D50,D290,D435,
-                  <p>E25,E320,E410,
-                  <p>A400,A495,
-                  <p>W10,W560,W1375
+                  <input type="text" value="S400,S1450,C300,C400,C1300,D275,D290,D1125,E260,E320,E1225,A251,A375,A400,A1200,A1500,W350,W1375,W1400" id="Build">
+                  <p>S400,S1450,
+                  <p>C300,C400,C1300,
+                  <p>D275,D290,D1125,
+                  <p>E260,E320,E1225,
+                  <p>A251,A375,A400,A1200,A1500,
+                  <p>W350,W1375,W1400
                   <p><b>Note</b>: Needs S400 buffing
                 </div>
             </div>
