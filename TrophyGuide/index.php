@@ -13,7 +13,7 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R0 Trophies</a></b></p>
         <div class="autohide">
        <a id="TrophiesBR0"></a>
-    <table class="numtable">
+    <table class="TrophiesBR0">
         <thead>
         <tr>
             <th colspan="5">Beginning of R0</th>
@@ -873,6 +873,13 @@
             <td>1 TTg (1e102)</p>A2+ Free</td>
             <td>Have exactly 333 of each Royal Exchange type.</td>
             <td>Increase Faction Coins generation while offline based on your mana regeneration.</p>Formula</b>: 300 * log10(1 + x)^3, where x is mana regen when offline.</td>
+        </tr>
+        <tr>
+            <td><center>Reverse Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png"></td>
+            <td>3.2 Dc (3.2e33), A2+: Free</td>
+            <td>Produce 150M (1.5e8) mana. (Total this R) </td>
+            <td>Allows you to manually reset spells with a 2 second cooldown per spell.</p>Only while offline, increase your mana produced amount by an additional 10% of your Mana Regeneration per second, and your spells cast amount multiplicatively based on your offline Mana Regeneration.</p><p>Formula: (1000 * log10(1 + x)), where x is Mana Regeneration</p><p>Can not reset spells with a fixed duration.</p></td>
+            <td>This trophy unlocks at R40.</td>
         </tr>
         <tr>
             <td><center>Tiered Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png"></td>
