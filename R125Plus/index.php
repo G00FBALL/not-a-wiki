@@ -840,7 +840,6 @@
                   <p>E350,E1225,E1325,
                   <p>A300,A400,A1200,
                   <p>W275,W1375,W1400
-                  <p><b>Note</b>: Catalyst needs to hit FC to complete the challenge.
             </div>
         </div>
 		<div class="shelementwhole">
