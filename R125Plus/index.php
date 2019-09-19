@@ -755,8 +755,8 @@
                 <p><b>Bloodline</b>: Faceless
                 <p><b>Artifact Set</b>: Dragon
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S10,S305,S3200,C25,C400,C405,C520,D1,D175,D200,D435,D590,E400,A50,A400,A495,W225,W400,W560,W1375,S200,C340,D330,E135,A270,W1275" id="Build">
-                <p>S10,S305,S3200,
+                  <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D200,D435,D590,E400,A50,A400,A495,W225,W400,W560,W1375,S200,C340,D330,E135,A270,W1275" id="Build">
+                <p>S10,S3200,
                 <p>C25,C400,C405,C520,
                 <p>D1,D175,D200,D435,D590,
                 <p>E400,
@@ -766,26 +766,26 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 5 (Dwarfline) <font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 5<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: wolfsblood</p>
-                   <p><b>Requirement</b>: Dwarf Lineage 45</p>
-                <p><b>Faction</b>: Titan
-                <p><b>Bloodline</b>: Dwarf
-                <p><b>Artifact Set</b>: Dragon
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S300,S1450,S3200,S400,S500,S200,C251,C375,C400,C1300,C1500,C340,C500,C250,D290,D350,D1125,D1375,D3350,D1275,E135,E275,E1225,E1325,E1425,E400,A400,A1200,A120,A3400,A270,W260,W1375,W1400,W400,W1275,W180" id="Build">
-                  <p>S300,S1450,S3200,S400,S500,S200,
-                  <p>C251,C375,C400,C1300,C1500,C340,C500,C250,
-                  <p>D290,D350,D1125,D1375,D3350,D1275,
-                  <p>E135,E275,E1225,E1325,E1425,E400,
-                  <p>A400,A1200,A120,A3400,A270,
-                  <p>W260,W1375,W1400,W400,W1275,W180
-                 <p><b>After Archon treaty</b>: Reload Build and after each new research slot opens.
-                 <p><b>Note</b>: Build is listed in order of purchase.
-                 <p><b>Note</b>: takes 26h for +2 researches, 80h for +3.
-                 <p><b>Note</b>: Buff S400 to at least 1.2e6, clicks to ~1e6 this R, AR8 to 1h per spell, and excav resets this R before starting the run.
-                 <p><b>Note</b>: Starts slow but grows well, estimated 4~5 days to complete ARc5
+                <p><b>Requirement</b>: Faceless Lineage 45</p>
+                <p><b>Faction</b>: Titan</p>
+                <p><b>Bloodline</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Dragon</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button></p>
+                    <input type="text" value="S300,S1450,S3200,S200,S400,S30,S305,C251,C375,C1300,C1500,C400,C340,C250,C150,C200,D350,D1125,D200,D330,D1375,D290,D3350,E275,E1225,E135,E400,E1425,E1325,E145,A1200,A400,A270,A120,A3400,A545,W260,W1400,W1375,W1275,W180,W400,W150" id="Build"></p>
+                <p>S300,S1450,S3200,S200,S400,S30,S305</p>
+                <p>C251,C375,C1300,C1500,C400,C340,C250,C150,C200,</p>
+                <p>D350,D1125,D200,D330,D1375,D290,D3350,</p>
+                <p>E275,E1225,E135,E400,E1425,E1325,E145,</p>
+                <p>A1200,A400,A270,A120,A3400,A545,</p>
+                <p>W260,W1400,W1375,W1275,W180,W400,W150</p>
+                <p><b>After Archon treaty</b>: Reload Build and after each new research slot opens.</p>
+                <p><b>Note</b>: Build is listed in order of purchase.</p>
+                <p><b>Note</b>: takes 26h for +2 researches, 80h for +3.</p>
+                <p><b>Note</b>: Buff S400 to at least 1.2e6, clicks to ~1e6 this R, AR8 to 1h per spell, and excav resets this R before starting the run.</p>
+                <p><b>Note</b>: Starts slow but grows well, estimated 3-4 days to complete.</p>
                 </div>
             </div>
         </div>
