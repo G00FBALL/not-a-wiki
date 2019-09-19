@@ -768,7 +768,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 5<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: wolfsblood</p>
+                <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Faceless</p>
