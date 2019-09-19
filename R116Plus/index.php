@@ -204,12 +204,13 @@
         </div>
     </div>
     <br/>
-    <p><b>Advanced Heritage</b></p>
+    <p><b>Trophy Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master/Drow AH 1e65+ (100 Vg)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master Trophy 1e65+ (100 Vg)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Ashen Rider
+                <p><b>Author</b>: ?
+                <p><b>Range</b>: 1e65 (100 Vg) Gems+
                 <p><b>Faction</b>: Undead
                 <p><b>Bloodline</b>: Angel
                 <p><b>Artifact Set</b>: Undead
@@ -221,7 +222,7 @@
                 <p>E10,E400,E495,
                 <p>A1,A120,A175,A410,A590,
                 <p>W50,W205,W405,W520
-                <p><b>Notes</b>: Takes 30-60 minutes.
+                <p><b>Notes</b>: Takes estimated time of 30-60 minutes to complete.
             </div>
         </div>
     </div>
