@@ -221,7 +221,7 @@ div#images div{
 <p><b>3.1</b>: <b>C50</b>: 1 B (1e9) Faction Coins, <b>E25</b>: 100 M (1e8) Faction Coins found this game, <b>W10</b>: 2000 Warrior Barracks, Use Elf with Elf Bloodline.</p>
 <p><b>3.2</b>: <b>C80</b>: 16K Good and Evil Buildings (Total, this game), <b>E80</b>: 9K Neutral Buildings, Use Fairy with Goblin Bloodline.</p>
 <hr>
-<p><b>Step 4</b>: Get to 105 Research Points Using Fairy with Fairy Bloodline and A105.</p>
+<p><b>Step 4</b>: Get to 105 Research Points Using Fairy with Fairy Bloodline and then get A105.</p>
 <p><b>4.1</b>: <b>D55</b>: 3 M (3e6) mana produced this game, <b>A55</b>: 25K spells this game, <b>C25</b>: 12K spells this R, Use Angel with Druid Bloodline. (2 Hour run) (Everything Gold autocast Tax Collection last)</p>
 <hr>
 <p><b>Step 5</b>: Get to 136 Research Points Using Fairy with Fairy Bloodline</p>
