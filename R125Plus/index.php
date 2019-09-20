@@ -423,7 +423,7 @@
                   <p>A25,A400,A410,</p>
                   <p>W1,W135,W175,W405,W520,W590</p>
                   <p><b>Notes</b>: Can be used from R139 but needs angel perk 5.
-                  <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count.
+                  <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana,
           </div>
         </div>
         <div class="shelementwhole">
