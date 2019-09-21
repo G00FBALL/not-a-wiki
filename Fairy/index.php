@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-<p><b>Fairy Challenge 1</b></p>
+<H6 id="FairyFC1"></h6><p><b>Fairy Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PixieMischiefChallenge.png" alt="Pixie Mischief</p>" align="middle"> <b>Pixie Mischief</b></p>
 <p>"The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 2+, Fairy Choir upgrade purchased.</p>
@@ -15,7 +15,7 @@
 <p><b>Upgrade</b>: Works with Fairy</b></p>
 <p><b>Tip</b>: Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>
 <hr>
-<p><b>Fairy Challenge 2</b></p>
+<H6 id="FairyFC2"></h6><p><b>Fairy Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png" alt="Donations</p>" align="middle"> <b>Donations</b></p>
 <p>"Our farmers' crops are not growing. Perhaps a little magic can help change that."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 8+, Fairy Bloodline, Fairy challenge 1 completed.</p>
@@ -26,7 +26,7 @@
 <p><b>Tip 1</b>: This is easiest just before you reincarnate, Grab the fairy and dwarf upgrades as quickly as possible, buy 1k+ farms, and hit the spell.</p>
 <p><b>Tip 2</b>: Don't forget to purchase the Bloodline within the time limit.</p>
 <hr>
-<p><b>Fairy Challenge 3</b></p>
+<H6 id="FairyFC3"></h6><p><b>Fairy Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EnchantedLandsChallenges.png" alt="Enchanted Lands</p>" align="middle"> <b>Enchanted Lands</b></p>
 <p>"The Fairies have developed a taste for honey. Find out quickly if they have a queen!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 18+, and Fairy Unique Building, Fairy challenge 2 completed.</p>
@@ -38,7 +38,7 @@
 <p><b>Tip 1</b>: (8190, total, of Farms, Inns and Blacksmiths and you don't have to buy the upgrade itself.)</p>
 <p><b>Tip 2</b>: Use Goblin Bloodline.</p>
 <hr>
-<p><b>In-Game Challenge Final Reward</b></p>
+<H6 id="FairyFCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyOrchestraFinalReward.png" alt="Fairy Orchestra</p>" align="middle"> <b>Fairy Orchestra</b></p>
 <p><b>Effect</b>: Each assistant generates 3 times as many faction coins while Fairy Chanting is active.</p>
 <?php include "../scripts/footer.html"; ?>

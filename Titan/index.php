@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-    <p><b>Titan Challenge 1</b></p>
+    <H6 id="TitanTC1"></h6><p><b>Titan Challenge 1</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RichFollowersChallenges.png" alt="Rich Followers" align="middle"> <b>Rich Followers</b></p>
     <p>"The mighty titans have decided to give you and a dozen of you most loyal subjects a chance to prove your kingdom's economy is as strong as theirs."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 4+, Lightning Storm upgrade purchased, Angel and Goblin challenge 1 completed.</p>
@@ -15,7 +15,7 @@
     <p><b>Note</b>: You can have more than 13 assistants so long as you have the required (13 x number of assistants).</p>
     <p><b>Example</b>: 13 x 26 assistants = 338 Royal Exchanges</p>
     <hr>
-    <p><b>Titan Challenge 2</b></p>
+    <H6 id="TitanTC2"></h6><p><b>Titan Challenge 2</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HarmonyofThoughtsChallenges.png" alt="Harmony of Thoughts" align="middle"> <b>Harmony of Thoughts</b></p>
     <p>"The mighty titans wish for you to harness arcane powers through your fingertips."</p>
     <p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
@@ -24,7 +24,7 @@
     <p><b>Upgrade</b>: Works with Faceless</p>
     <p><b>Tip</b>: This challenge does not need to be done within one spell combo. In addition, due to a bug, it counts one click per second if you have at least one assistant. It's possible to meet the condition without clicking the treasure at all while spells are active by casting 3 spells that last 20 seconds together 4 times.</p>
     <hr>
-    <p><b>Titan Challenge 3</b></p>
+    <H6 id="TitanTC3"></h6><p><b>Titan Challenge 3</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BalancedEconomyChallenges.png" alt="Passage to Tartarus" align="middle"> <b>Balanced Economy</b></p>
     <p>"The mighty titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark you ascension."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 19+, 1000 excavations, Angel and Goblin challenge 3 and Titan challenge 2 completed.</p>
@@ -141,7 +141,7 @@
         </div>
     </div>
     <hr>
-    <p><b>Titan Challenge 4</b></p>
+    <H6 id="TitanTC4"></h6><p><b>Titan Challenge 4</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/StormofWealthChallenges.png" alt="Storm of Wealth" align="middle"> <b>Storm of Wealth</b></p>
     <p>"The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
@@ -151,7 +151,7 @@
     <p><b>Upgrade</b>: Works with All</p>
     <p><b>Tip</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs. <a target="_blank" href="http://dox4242.github.io/rws/index.html" research="Allows you to see what Lightning Strike will hit next"> <b>The Realm Weather Service</b></a> can help to forecast.</p>
     <hr>
-    <p><b>In-Game Challenge Final Reward</b>
+    <H6 id="TitanTCR"></h6><p><b>In-Game Challenge Final Reward</b>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallenges.png" alt="Thunderstorm" align="middle"> <b>Thunderstorm</b></p>
     <p><b>Effect</b>: Lightning Strike now grants more Faction Coins based on your Faction Coin find chance.</p>
     <p><b>Formula</b>: round(x^1.05)%, where x is your current chance to find Faction Coins.</p>

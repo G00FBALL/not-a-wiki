@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-<p><b>Djinn Challenge 1</b></p>
+<H6 id="DjinnDC1"></h6><p><b>Djinn Challenge 1</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiniatureLamps.png" align="middle"> Miniature Lamps</b></p>
 <p>"In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, Reincarnation 135+, Persistent Entropy upgrade purchased.</p>
@@ -15,7 +15,7 @@
 <p><b>Additive to LW casts</b>: (0.0001 * (x ^ 0.4) * y * z), where x = maximum mana, y = Fairy Chanting tier, z = Fairy Chanting runtime (seconds).</p>
 <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn</p>
 <hr>
-<p><b>Djinn Challenge 2</b></p>
+<H6 id="DjinnDC2"></h6><p><b>Djinn Challenge 2</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IfritIgnition.png" align="middle"> Ifrit Ignition</b></p>
 <p>"As the years passed through, this benevolence fell on deaf ears. The mortals decided to enslave us; dictate to us their every whim. How dare they command us to do their bidding, give them hell!"</p>
 <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, Reincarnation 139+, Djinn Bloodline active, Djinn challenge 1 completed.</p>
@@ -26,7 +26,7 @@
 <p><b>Formula</b>: Additive: (x ^ 0.7), where x is number of trophies. Applies only for real evil spells, adds casts directly to the spell’s casts.</p>
 <p><b>Upgrade</b>: Works with Demon+Drow+Djinn</p>
 <hr>
-<p><b>Djinn Challenge 3</b></p>
+<H6 id="DjinnDC3"></h6><p><b>Djinn Challenge 3</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
 <p>"Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
@@ -38,7 +38,7 @@
 <p><b>Formula</b>: y converted to a multiplier (so 5% = 1.05) is applied to both exponents of LW: ( (2.25 * ln(1+a) ^ (1.35 * y)) * (b^(0.45 * y)), where a= duration, b = casts.</p>
 <p><b>Upgrade</b>: Works with Faceless+Dragon+Djinn</p>
 <hr>
-<p><b>Djinn Challenge 4</b></p>
+<H6 id="DjinnDC4"></h6><p><b>Djinn Challenge 4</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
 <p>"This generation decided that we should give them a few more wishes before they give in to our demands for a change."</p>
 <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
@@ -46,7 +46,7 @@
 <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
 <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn, Demon+Drow+Djinn and Faceless+Dragon+Djinn</p>
 <hr>
-<p><b>Djinn Challenge 5</b></p>
+<H6 id="DjinnDC5"></h6><p><b>Djinn Challenge 5</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AltarofWishes.png" align="middle"> Altar of Wishes</b></p>
 <p>"Freedom... at last. Onwards we go, to a better future. So long, mortals."</p>
 <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnations 153+, All Chaos Lineages at level 45, Djinn challenge 4 completed.</p>
@@ -71,7 +71,7 @@
 <p><b>2 Balance Spell</b>: Infinite Spiral, Goblin's Greed = 353% Faction Coin Find Chance</p>
 <p><b>1 Order Spell</b>: Precognition = 132% Mana Regeneration</p>
 <hr>
-<p><b>In-Game Challenge Final Reward</b></p>
+<H6 id="DjinnDCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FullWish.png" align="middle"> Full Wish</b></p>
 <p><b>Effect</b>: Production of all buildings effect of Limited Wish is active on every cast and is no longer a possible random outcome.</p>
 <?php include "../scripts/footer.html"; ?>

@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-<p><b>Goblin Challenge 1</b></p>
+<H6 id="GoblinGC1"></h6><p><b>Goblin Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DiscountSeasonChallenges.png" alt="Discount Season" align="middle"> <b>Discount Season</b></p>
 <p>"The goblin king has revealed the secrets to his race's success. Patience and persistence."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 2+, Greed Drive upgrade purchased.</p>
@@ -16,7 +16,7 @@
 <p><b>Tip 2</b>: There's a 1/6 chance of getting it every time GFD triggers.</p>
 <p><b>Tip 3</b>: It can take 10 minutes or 10 minutes times however long the longest run without any values in the top sextile is for the game's RNG but an hour on average the only thing you can do to speed it up is open multiple tabs before purchasing GFD then they will have different RNG states and roll differently 6 tabs will give you a 65% chance of getting it on the first trigger, 13 will give you a 90% chance if you do it in one tab, same odds, 65% in the first 6 activations, 90% in the first 13 open multiple copies of the game all of them will overwrite the same save location, but once you get it in one tab, you can close the others and save manually also make sure you have greed drive, because that's the most common way of missing goblin 1 and if you do the tab trick, be sure you open the tabs and then purchase GFD individually in each tab, if you open multiple tabs already owning GFD, they'll all have the same RNG state.</p>
 <hr>
-<p><b>Goblin Challenge 2</b></p>
+<H6 id="GoblinGC2"></h6><p><b>Goblin Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EliteWarriorsChallenges.png" alt="Elite Warriors" align="middle"> <b>Elite Warriors</b></p>
 <p>"Goblin are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 8+, Goblin Bloodline, Goblin challenge 1 completed.</p>
@@ -25,7 +25,7 @@
 <p><b>Effect</b>: 10% of your purchased upgrades are added to your total trophy count for Hellfire Blast and Hall of Legends purposes.</p>
 <p><b>Upgrade</b>: Works with Demon</p>
 <hr>
-<p><b>Goblin Challenge 3</b></p>
+<H6 id="GoblinGC3"></h6><p><b>Goblin Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SmuggledJewelsChallenges.png" alt="Smuggled Jewels" align="middle"> <b>Smuggled Jewels</b></p>
 <p>"The goblin king wants a castle made of jewels all to himself."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building.</p>
@@ -34,7 +34,7 @@
 <p><b>Effect</b>: Increase production bonus from Gems by 0.01% for each upgrade purchased.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
-<p><b>In-Game Challenge Final Reward</b></p>
+<H6 id="GoblinGCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png" alt="Avarice Drive" align="middle"> <b>Avarice Drive</b></p>
 <p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>
 <?php include "../scripts/footer.html"; ?>
