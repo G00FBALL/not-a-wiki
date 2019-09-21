@@ -110,7 +110,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again Merc Research Unlock (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
-                <p><b>Range</b>: 1e88 (1 Ocvg) Gems+</p>
+                <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
