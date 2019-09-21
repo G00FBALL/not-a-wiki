@@ -319,21 +319,21 @@
             <td>1 Dc (1e33)</p>A1+ Free</td>
             <td>Cast 30 Tax Collections in less than 5 seconds.</td>
             <td>Tax Collection also finds 30 seconds worth of Faction Coins.</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harley Quinn R3+</b></a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Harley Quinn R3+</b></a> build</td>
         </tr>
         <tr>
             <td><center>Lucifer</p><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png"></td>
             <td>50 Vg (5e64)</p>A1+ Free</td>
             <td>As a Good Mercenary, purchase only Evil faction upgrades or vice versa.</td>
             <td>Increase the production of non-neutral mercenary buildings by 300%.</p>A1, 14.9%</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Lucifer R3+</b></a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Lucifer R3+</b></a> build</td>
         </tr>
         <tr>
             <td><center>Harlequin</p><img src="http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png"></td>
             <td>5 Qivg (5e78)</p>A1 Free</td>
             <td>As a Mercenary, purchase one upgrade from 11 different factions.</td>
             <td>Increase the production of all buildings based on the amount of different factions involved in your mercenary upgrades.</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harley Quinn R3+</b></a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Harley Quinn R3+</b></a> build</td>
         </tr>
         <tr>
             <td><center>Mana Matrix</p><img src="http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png"></td>
@@ -347,7 +347,7 @@
             <td>80 Vg (8e64)</p>A1+ Free</td>
             <td>Have at least 300 mana per second.</td>
             <td>Increase maximum mana by 2%.</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>Mana Burst R3+</b></a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Burst R3+</b></a> build</td>
         </tr>
         <tr>
             <td><center>Mercenary Spirit</p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png"></td>
@@ -386,7 +386,7 @@
             <td>1 Td (1e42)</p>A1+ Free</td>
             <td>Have mana regeneration higher than max mana.</td>
             <td>Increases max mana based on spells cast.</p>Formula: 127 * log10(1 + x)^2.7</td>
-            <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/">IGOT an Excess of Mana R7-R11</a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Burst R3+</b></a> build</td>
         </tr>
         <tr>
             <td><center>Faction Run</p><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png"></td>
@@ -407,35 +407,35 @@
             <td>500 Qag (5e125)</p>A1+ Free</td>
             <td>Purchase 1500 Royal Exchanges in a single game.</td>
             <td>Increase Royal Exchange bonus by 5%.</td>
-           <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/">IGOT an Excess of Mana R7-R11</a> build</td>
+           <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
         </tr>
         <tr>
             <td><center>Priority Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png"></td>
             <td>400 Ud (4e38)</p>A1+ Free</td>
             <td>Produce 12 M (1.2e7) mana.</td>
             <td>Allows you to prioritize the order of spell casting.</p>Spells with lower priority will be casted only if higher priority spells are already casted.</p>While offline, improve spell cast amount by 1.</td>
-           <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/">IGOT an Excess of Mana R7-R11</a> build</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
         </tr>
         <tr>
             <td><center>Contingency Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png"></td>
             <td>500 Qad (5e47)</p>A1+ Free</td>
             <td>Produce 20 M mana. (2e7) mana.</td>
             <td>Allows you to set a minimum amount of mana before starting autocasting.</p>While offline, improve spell cast amount by 2.</td>
-           <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/"><b>IGOT an Excess of Mana R7-R11</a> build</p>A slidebar will appear on the mana bowl when you point to it and hit ctrl+click.</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
         </tr>
         <tr>
             <td><center>Planned Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png"></td>
             <td>600 Spd (6e56)</p>A1+ Free</td>
             <td>Produce 30 M mana. (3e7) mana.</td>
             <td>Allows you to set Primary and Secondary spells.</p>While offline, increases mana produced by an additional 10% of your mana regeneration per second and increase spells casted by an additional 2 per minute.</td>
-           <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/">IGOT an Excess of Mana R7-R11</a> build</p>A slidebar will appear on the mana bowl when you point to it and hit ctrl+click.</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
         </tr>
         <tr>
             <td><center>Efficient Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png"></td>
             <td>700 Vg (7e65)</p>A1+ Free</td>
             <td>Produce 50 M mana. (5e7) mana.</td>
             <td>Allows you to select independent spells.</p>While offline, increases mana produced by an additional 10% of your mana regeneration per second and increase spells casted by an additional 2 per minute.</td>
-           <td>Use the <a href="http://musicfamily.org/realm/SpecialBuilds/">IGOT an Excess of Mana R7-R11</a> build</p>Set with ctrl+click on the spell, these spells disregard your contingency rules and are casted as soon as you have enough mana.</td>
+            <td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
         </tr>
         </tbody>
     </table>

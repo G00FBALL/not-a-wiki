@@ -113,34 +113,18 @@
                         </div>
                 </div>
                 <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7-R11<font color="Blue"> Good</font></a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7+ (Autocasting upgrades)<font color="Blue"> Good</font></a></b></p>
                         <div class="autohide">
                           <p><b>Alignment</b>: Good Mercenary</p>
-                          <p><b>Bloodline</b>: Angel</p>
+                          <p><b>Bloodline</b>: Druid</p>
                           <p><button onclick="myFunction($(this))">Copy Build</button>
                           <input type="text" value="FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"></p>
                           <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR9,AN1,AN3,AN5,AN6,AN8,GB1,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"> Stopping at Mana Waste</p>
                           <p><b>Mercenary Template</b>:</p>
                           <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
                           <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-                          <p>Variant of IGOT a need for trophies for getting mana waste and autocasting.</p>
-                          <p><b>Range</b>:R7-R11</p>
-                          <p><b>Note</b>: Takes just over 1 hour to get Mana Waste.</p>
-                          <p><b>Note</b>: All times listed below are with masterful autocast unlocked, 67.4 Qad 6.74e46 gems at R7</p>
-                          <p><b>Note</b>: Times have been retested in 3.6.1</p>
-                          <p><b>300 assistants</b>: 5 hours</p>
-                          <p><b>Contingence Autocasting</b>: 6 hours</p>
-                          <p><b>Mana Wave</b>: 6 hours</p>
-                          <p><b>500000 spells</b>: 6 hours 30 minutes</p>
-                          <p><b>Planned Autocasting</b>: 6 hours 30 minutes</p>
-                          <p><b>500 assistants</b>: 7 hours 20 minutes</p>
-                          <p><b>Efficient Autocasting</b>: 7 hours 30 minutes</p>
-                          <p><b>Instructions</b></p>
-                          <p>Don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power if it increases max mana. If you already have at least Priority Autocasting unlocked, cast Fairy Chanting and Tax Collection, otherwise cast Tax collection until you do. After you exceed 1150 mana/second and unlock Mana Waste, you can buy it and all the other max mana upgrades.</p>
-                          <p><b>Note</b>: Helden Sterben Nicht is used because it increases max mana and regen by the same amount, which on its own is a neutral effect towards getting Mana Waste. However, the extra regen helps the build grow faster, and decreases the base mana requirement for Mana Waste by a few percent.</p>
-                          <p><b>Note</b>: While this can be used R12+, the extra max mana from Reincarnation Power will make it more difficult. It's best to get mana waste before R12 unless you want to wait until R18+.</p>
                           <p>by <b>pseudobyte</b></p>
+                          <p>This build is for generating mana to unlock the various autocasting upgrades up to Masterful Autocasting.</p>
                         </div>
                 </div>
                 <div class="shelementwhole">
