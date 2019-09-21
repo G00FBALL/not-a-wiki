@@ -684,7 +684,7 @@
     <p><b>Level 30</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk4.png" align="middle"> Djinn Perk 4</p></b>
     <p><b>Requirements</b>: Reach Lineage Level 30.</p>
-    <p><b>Effect</b>: When Limited Wish is cast, gain +888 to automatic clicks this reincarnation.</p>
+    <p><b>Effect</b>: When Limited Wish is cast, gain +888 to automatic clicks stat.</p>
     <br/>
     <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk5.png" align="middle"> Djinn Perk 5</p></b>
