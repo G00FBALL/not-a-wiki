@@ -773,7 +773,7 @@
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Dragon</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button></p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S300,S1450,S3200,S200,S400,S30,S305,C251,C375,C1300,C1500,C400,C340,C250,C150,C200,D350,D1125,D200,D330,D1375,D290,D3350,E275,E1225,E135,E400,E1425,E1325,E145,A1200,A400,A270,A120,A3400,A545,W260,W1400,W1375,W1275,W180,W400,W150" id="Build"></p>
                 <p>S300,S1450,S3200,S200,S400,S30,S305</p>
                 <p>C251,C375,C1300,C1500,C400,C340,C250,C150,C200,</p>
