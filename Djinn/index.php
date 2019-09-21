@@ -60,8 +60,7 @@
 <p><b>Chaos</b>: Maximum Mana</p>
 <p><b>Balance</b>: Faction Coin Find Chance</p>
 <p><b>Upgrade</b>: Works with All</p>
-<p><b>Note</b>: Base + Prestige + Elite means you will always have at least a 353% bonus for  a primary and secondary alignment’s effect</p>
-<p>132%, 353%, 940%, 2500% (only possible with chaos + chaos lineage + a400; or mercs) for 1, 2 , 3 and 4 faction spells of the same alignment respectively</p>
+<p><b>Formula</b>: (50 ^ (1 + 0.25 * x))% where x is amount of spells with a given alignment.</p>
 <p><b>Examples</b></p>
 <p><b>Faceline Fairy with A400</b></p>
 <p><b>4 Chaos Spells</b>:  Brainwave, Fairy Chanting, Limited Wish, Catalyst = 2500% Maximum Mana</p>
