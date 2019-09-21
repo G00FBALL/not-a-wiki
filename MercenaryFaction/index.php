@@ -260,7 +260,7 @@
 <p><b>Requirement</b>: Freemason's Hall</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Generates additional Faction Coins based on the amount of assistants you own.</p>
-<p><b>Formula</b>: (y * x ^ 1.25), where y is FC%, x is assistants owned.</p>
+<p><b>Formula</b>: (x * y ^ 1.275), where x is Faction coin chance, y is assistants owned.</p>
 <br/>
 <p><b>Extras</b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KYE2" align="middle"><b> Know Your Enemy, Part 2</b></p>

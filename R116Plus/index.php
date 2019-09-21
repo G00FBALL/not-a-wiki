@@ -16,7 +16,7 @@
     <p><b>Production builds need tested to see what is best</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (R116+) 0 - e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (R116+) 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kiluh</p>
                 <p><b>Faction</b>: Faceless</p>
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R116-R120) 0 - e43 (10 Td)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R116-R120) 0 - 1e43 (10 Td)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Faction</b>: Elf</p>
