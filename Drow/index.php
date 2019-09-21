@@ -5,7 +5,7 @@
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <p><b>Recommended</b> gem level for doing any drow challenge is e90+</p>
-<p><b>Drow Challenge 1</b>:</p>
+<H6 id="DrowDC1"></h6><p><b>Drow Challenge 1</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/OrganizedCrimeChallenges.png" alt="Organized Crime" align="middle"> <b>Organized Crime</b></p>
 <p>"The mysterious drow wish for you to prove your murderous honor to them."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Drow as Prestige Faction, Reincarnation 6+, Perfect Combo upgrade purchased, Goblin, Demon and Undead challenge 1 completed.</p>
@@ -14,7 +14,7 @@
 <p><b>Upgrade</b>: Works with Demon+Drow</p>
 <p><b>Tip</b>: Use Elven Bloodline.</p>
 <hr>
-<p><b>Drow Challenge 2</b>:</p>
+<H6 id="DrowDC2"></h6><p><b>Drow Challenge 2</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DarkEleganceChallenges.png" alt="Dark Elegance" align="middle"> <b>Dark Elegance</b></p>
 <p>"The Spider Queen is not pleased with some of her worshippers. You must weed out the weak and sacrifice them at the temple altar."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Drow as Prestige Faction, Reincarnation 11+, Drow Bloodline, Goblin, Demon and Undead challenge 2 and Drow challenge 1 completed.</p>
@@ -23,7 +23,7 @@
 <p><b>Formula</b>: log^2(1 + x), where x is your Faction Coins Gained (This Game) stat.</p>
 <p><b>Upgrade</b>: Works with Goblin+Drow</p>
 <hr>
-<p><b>Drow Challenge 3</b>:</p>
+<H6 id="DrowDC3"></h6><p><b>Drow Challenge 3</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Sorcerer'sPactChallenges.png" alt="Sorcerer's Pact" align="middle"> <b>Sorcerer's Pact</b></p>
 <p>"A legion of interlopers have invaded our sanctuaries. Work yourselves into a rage and tear them apart."</p>
 <p><b>Requirements</b>: Undead as Base Faction, Drow as Prestige Faction, Reincarnation 21+, 1750 excavations, Goblin, Demon and Undead challenge 3 and Drow challenge 2 completed.</p>
@@ -32,7 +32,7 @@
 <p><b>Upgrade</b>: Works with Undead+Drow</p>
 <p><b>Tip</b>: Run both spells at the same time, depending on mana regeneration it takes about 1 hour 15 minutes to complete the challenge.</p>
 <hr>
-<p><b>Drow Challenge 4</b>:</p>
+<H6 id="DrowDC4"></h6><p><b>Drow Challenge 4</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TrainedAssasinsChallenges.png" alt="Trained Assassins" align="middle"> <b>Trained Assassins</b></p>
 <p>There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm.</p>
 <p><b>Requirements</b>: Any Evil as Base Faction, Drow as Prestige Faction, Reincarnation 27+, 2000 excavations, Drow Challenge 3 completed.</p>
@@ -41,7 +41,7 @@
 <p><b>Formula</b>: (8 * log10(x) ^ 4) where x is spells cast in this R.</p>
 <p><b>Upgrade</b>: Works with any Evil+Drow</p>
 <hr>
-<p><b>Drow Challenge 5</b>:</p>
+<H6 id="DrowDC5"></h6><p><b>Drow Challenge 5</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShadowMirageChallenges.png" alt="Shadow Mirage" align="middle"> <b>Shadow Mirage</b></p>
 <p>It is time to emerge from the shadows. Our warriors will demonstrate their hard work and lead us to domination of the realm.</p>
 <p><b>Requirements</b>: Any Evil as Base Faction, Drow as Prestige Faction, Reincarnation 33+, Drow Unique Building, Drow Challenge 4 completed.</p>
@@ -50,7 +50,7 @@
 <p><b>Note</b>: "Fraction" is equal to 5%.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
-<p><b>In-Game Challenge Final Reward</b></p>
+<H6 id="DrowDCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/VersaltileComboChallenges.png" alt="Spell Upgrade Versatile Combo" align="middle"> <b>Spell Upgrade Versatile Combo</b></p>
 <p>Increase Combo Strike counter based on the amount of spells cast in this game, not including Tax Collection.</p>
 <p>New Combo Strike Counter Formula: x + y, where x is your Combo Strike cast count and y is every other spell (except tax collection and generic) cast count.</p>

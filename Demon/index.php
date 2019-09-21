@@ -4,7 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-<p><b>Demon Challenge 1</b></p>
+<H6 id="DemonDC1"></h6><p><b>Demon Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TrophyCollectorsChallenges.png" alt="Efficient Magic" align="middle"> <b>Trophy Collectors</b></p>
 <p>"The Prince of Hell wish to test your skills at gathering coins without outside help."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Reincarnation 2+, Hellfire Blast upgrade purchased.</p>
@@ -16,7 +16,7 @@
 <p><b>Tips 1</b>: Either be very patient, or wait until R7 and use Elves bloodline (recommended).</p>
 <p><b>Tips 2</b>: Scrying for Faction coins, challenges and Ruby Power is okay.</p>
 <hr>
-<p><b>Demon Challenge 2</b></p>
+<H6 id="DemonDC2"></h6><p><b>Demon Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LegendaryAnticsChallenges.png" alt="Efficient Magic" align="middle"> <b>Legendary Antics</b></p>
 <p>"The Princes of Hell demand a tribute, unleash the beast by extorting every other faction in this realm. You should perform this task with haste, for they are well known for their impatience."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Reincarnation 8+, Demon Bloodline.</p>
@@ -26,7 +26,7 @@
 <p><b>Upgrade</b>: Works with Fairy</p>
 <p><b>Tip</b>: High gem and low Excavations (relative). You will need 95 Royal Exchanges of 6 Factions and 96 Royal exchanges of the 7th Faction, Don't buy Demon exchanges. Drow's blackmail upgrade helps the challenge, and the exchanges don't have to be spread evenly.</p>
 <hr>
-<p><b>Demon Challenge 3</b></p>
+<H6 id="DemonDC3"></h6><p><b>Demon Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PassagetoTartarusChallenges.png" alt="Efficient Magic" align="middle"> <b>Passage to Tartarus</b></p>
 <p>"The Demon King has ordered you to prove your might to the entire realm."</p>
 <p><b>Requirements</b>: Demon as Base Faction, Reincarnation 18+, Demon Unique Building</p>
@@ -36,7 +36,7 @@
 <p><b>Upgrade</b>: Works with All</p>
 <p><b>Tip</b>: Use Goblin Bloodline, can be easily done around Uvg(e66) gems.</p>
 <hr>
-<p><b>In-Game Challenge Final Reward</b></p>
+<H6 id="DemonDCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBurstChallenges.png" alt="Efficient Magic" align="middle"> <b>Hellfire Burst</b></p>
 <p><b>Effect</b>: Hellfire Blast also counts Evil spells cast in this reincarnation to increase its bonus.</p>
 <p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>
