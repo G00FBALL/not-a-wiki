@@ -55,7 +55,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Qad (1e46) (Spells)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Qad (1e46) (Spells & FC)<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -75,8 +75,29 @@
                 <p>S30,C105,D150,E320,A3400,W1375</p>
                 <p>S500,C250,D330,E1325,A270,W400,</p>
                 <p><b>Note</b>: Build is listed in order of purchase.</p>
-                <p><b>Note</b>: Estimated time 15? hours.</p>
+                <p><b>Note</b>: Estimated time ?.</p>
                 <p><b>Note</b>: Buffed faceless set from the assistant run will make this build much faster.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demoneline Goblin 10 Qad (1e46) (Spells)<font color="darkred"> Evil</font></a></b> Testing</p>
+            <div class="autohide">
+                <p><b>Author</b>: MLGscrub</p>
+                <p><b>Requirement</b>: Faceless Lineage 45</p>
+                <p><b>Faction</b>: Goblin</p>
+                <p><b>Bloodline</b>: Demone</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>2nd Artifact Set</b>: Goblin</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E400,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
+                <p>S50,S435,S3200,</p>
+                <p>C175,C340,</p>
+                <p>D290,D560,</p>
+                <p>E1,E225,E400,E495,E590,</p>
+                <p>A10,A400,A410,</p>
+                <p>W25,W205,W405,W520</p>
+                <p><b>Note</b>: Buffed faceless set from the assistant run will make this build much faster.</p>
+                <p><b>Note</b>: Estimated time ?.</p>
             </div>
         </div>
     </div>
