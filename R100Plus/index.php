@@ -160,8 +160,7 @@
                 <p>E25,E320,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
-                <p><b>Notes</b>: Set all spells that cost less than 30000 mana (except Holy Light tier 6) on bronze, Tax Collections on silver (contingency at 60-70%)</p>
-                <p><b>Notes</b>: Estimated time of 2-2.5 hours to unlock.</p>
+                <p><b>Notes</b>: Estimated time of 1 hour to unlock.</p>
             </div>
         </div>
         <div class="shelementwhole">
