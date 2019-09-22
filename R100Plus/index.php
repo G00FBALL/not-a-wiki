@@ -202,7 +202,7 @@
                 <p>E1,E145,E225,</p>
                 <p>A10,A400,</p>
                 <p>W25,W1375</p>
-                <p><b>Notes</b>: Estimated time of ? to unlock.</p>
+                <p><b>Notes</b>: Estimated time of almost instant.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -229,7 +229,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e18 (1 Qi) Gems<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Sad</p>
+                <p><b>Author</b>: :)</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
                 <p><b>Requirements</b>: 1e11 (100 B) mana produced this R</p>
                 <p><b>Alignment</b>: Evil, Chaos</p>
@@ -237,14 +237,14 @@
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Undead (if avaliable)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S3200,C50,C400,D10,D330,E230,E1325,A25,A3400,W1,W175,W205" id="Build"></p>
-                <p>S3200,</p>
+                    <input type="text" value="S200,C50,C400,D10,D200,E230,E1325,A25,A270,W1,W175,W1275" id="Build"></p>
+                <p>S200,</p>
                 <p>C50,C400,</p>
-                <p>D10,D330,</p>
+                <p>D10,D200,</p>
                 <p>E230,E1325,</p>
-                <p>A25,A3400,</p>
-                <p>W1,W175,W205</p>
-                <p><b>Notes</b>: Cast only Tax Collection, Blood Frenzy and Brainwave on tier 1 for buildup.</p>
+                <p>A25,A270,</p>
+                <p>W1,W175,W1275</p>
+                <p><b>Notes</b>: Almost instant after buying research and buildings.</p>
             </div>
         </div>
         <div class="shelementwhole">
