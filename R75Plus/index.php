@@ -52,7 +52,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter R76+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Demonline Lineage 20+
+                <p><b>Requirement</b>: Demon Lineage 20+ (Demon perk 2 NOT needed)
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Demon</p>
@@ -64,6 +64,7 @@
                 <p>E135,E145,E275,E320,E330,E400,</p>
                 <p>A105,A120,A250,A270,A305,A400,</p>
                 <p>W120,W150,W180,W260,W320,W330,W400</p>
+                <p><b>Note</b>: Excavate for the royal exchanges to buy the lineage.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -123,7 +124,6 @@
                 <p>E135,E275,E320,E460,E590,E1425,</p>
                 <p>A120,A270,A305,A545,A1325,A1500,</p>
                 <p>W180,W250,W275,W400,W1275,W1375</p>
-                <p><b>Notes</b>: Swap DD6 to EL4 if at 1e88 (10 OcVg) gems or higher.</p>
                 <p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 afterwards.
                 <p><b>Build has three stages</b></p>
                 <p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.
