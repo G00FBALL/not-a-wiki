@@ -122,7 +122,7 @@ var x = setInterval(function() {
         </tr>
         <tr>
             <td>0</td>
-            <td>Idilium</td>
+            <td>idillium</td>
             <td></td>
             <td></td>
             <td></td>
@@ -211,12 +211,12 @@ var x = setInterval(function() {
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,363,190,421" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="197,364,255,420" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect a full stack of 480 Goblin Crowns while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: 0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="262,363,318,420" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector<p>Type: Feat<p>Requirements: Collect a full stack of Entropic Drops while affiliated with the Fairies.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="326,363,384,420" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector<p>Type: Feat<p>Requirements: Collect a full stack of Crystal Prisms while affiliated with the Undead.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,363,448,421" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age<p>Type: Feat<p>Requirements: Cast Remnant spells at least 1000 times.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,426,62,486" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration<p>Type: Feat<p>Requirements: Upgrade Order Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,426,126,484" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration<p>Type: Feat<p>Requirements: Upgrade Chaos Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="131,428,189,486" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration<p>Type: Feat<p>Requirements: Upgrade Balance Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,428,255,485" shape="rect">
+    <area research="idillium<p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector<p>Type: Feat<p>Requirements: Collect a full stack of Entropic Drops while affiliated with the Fairies.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="326,363,384,420" shape="rect">
+    <area research="idillium<p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector<p>Type: Feat<p>Requirements: Collect a full stack of Crystal Prisms while affiliated with the Undead.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,363,448,421" shape="rect">
+    <area research="idillium<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age<p>Type: Feat<p>Requirements: Cast Remnant spells at least 1000 times.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,426,62,486" shape="rect">
+    <area research="idillium<p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration<p>Type: Feat<p>Requirements: Upgrade Order Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,426,126,484" shape="rect">
+    <area research="idillium<p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration<p>Type: Feat<p>Requirements: Upgrade Chaos Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="131,428,189,486" shape="rect">
+    <area research="idillium<p><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration<p>Type: Feat<p>Requirements: Upgrade Balance Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,428,255,485" shape="rect">
     </map></p>
     <hr>
 <br style="clear: both"/>
@@ -293,7 +293,7 @@ var x = setInterval(function() {
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2019 Events</a></b></p>
         <div class="category autohide">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idilium  Event (Sep 23 - Sep 30, 2019)</a></b></p>
+            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">idillium  Event (Sep 23 - Sep 30, 2019)</a></b></p>
             <div class="autohide">
                 <p>The event will feature three Resources, <b>Crystal Prisms</b>, <b>Entropic Drops</b> and <b>Equilibrium Fragments</b>, They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 16 hours, up to 960.</p>
                 <p>Being aligned with an elite faction will double the speed a resource is gained.</p>
