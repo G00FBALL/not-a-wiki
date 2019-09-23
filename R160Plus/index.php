@@ -34,28 +34,47 @@
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
+    <p><b>Do Clicks, Assistants, Spells and Buildings last.</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0 - 1 Qad (1e45) (Clicks)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks & FC)<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: MLGscrub</p>
+                <p><b>Author</b>: rellikrellik</p>
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Elf</p>
-                <p><b>Artifact Set</b>: Goblin</p>
-                <p><b>2nd Artifact Set</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Druid</p>
+                <p><b>2nd Artifact Set</b>: Elf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1450,S3200,C300,C340,C1300,D275,D290,E1225,E1425,A251,A375,A400,A1200,A1500,W350,W1375,W1400" id="Build"></p>
+                    <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E145,E260,E1225,A251,A375,A1200,A1500,A3400,W350,W1375,W1400" id="Build"></p>
                 <p>S1450,S3200,</p>
-                <p>C300,C340,C1300,</p>
-                <p>D275,D290,</p>
-                <p>E1225,E1425,</p>
-                <p>A251,A375,A400,A1200,A1500,</p>
+                <p>C300,C400,C1300,</p>
+                <p>D275,D290,D1125,</p>
+                <p>E145,E260,E1225,</p>
+                <p>A251,A375,A1200,A1500,A3400,</p>
                 <p>W350,W1375,W1400</p>
                 <p><b>Note</b>: Estimated time 22-23 hours.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Qad (1e46) (Spells & FC)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons 10 Dd (1e40) (Assistants)<font color="darkred"> Evil</font></b></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Faction</b>: Demon</p>
+                <p><b>Bloodline</b>: Angel</p>
+                <p><b>Artifact Set</b>: Demon</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S435,S3200,C50,C340,D10,D560,D1375,E230,E400,E495,A25,A400,A410,W1,W135,W175,W405,W520,W590" id="Build"></p>
+                  <p>S435,S3200,</p>
+                  <p>C50,C340,</p>
+                  <p>D10,D560,D1375,</p>
+                  <p>E230,E400,E495,</p>
+                  <p>A25,A400,A410,</p>
+                  <p>W1,W135,W175,W405,W520,W590</p>
+                  <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana,
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Dd (1e40) (Spells)<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -75,12 +94,12 @@
                 <p>S30,C105,D150,E320,A3400,W1375</p>
                 <p>S500,C250,D330,E1325,A270,W400,</p>
                 <p><b>Note</b>: Build is listed in order of purchase.</p>
-                <p><b>Note</b>: Estimated time 27 hours.</p>
-                <p><b>Note</b>: Buffed faceless set from the assistant run will make this build much faster.</p>
+                <p><b>Note</b>: Estimated time 27 hours with no buff run.</p>
+                <p><b>Note</b>: Do the Angeline Demons for assistant before doing this run, it make this build much faster around 20 hours or less.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demoneline Goblin 10 Qad (1e46) (Spells)<font color="darkred"> Evil</font></a></b> Testing</p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demoneline Goblin 10 Dd (1e40) (Spells)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: MLGscrub</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -96,7 +115,7 @@
                 <p>E1,E225,E400,E495,E590,</p>
                 <p>A10,A400,A410,</p>
                 <p>W25,W205,W405,W520</p>
-                <p><b>Note</b>: Buffed faceless set from the assistant run will make this build much faster.</p>
+                <p><b>Note</b>: Do the Angeline Demons for assistant before doing this run, it make this build much faster around 20 hours or less.</p>
                 <p><b>Note</b>: Estimated time ?.</p>
             </div>
         </div>
