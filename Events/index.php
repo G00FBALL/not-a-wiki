@@ -373,7 +373,7 @@ div#images div{
 <p><b>Effect</b>: Unlocks Order Remnant Perk 2.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
 <p><img src="/realm/Factions/picks/OrderRemnantPerk2.png" align="middle"> <b>Order Remnant Perk 2</b></p>
-<p><b>Effect</b>: Grants Temporal spell Flux with a cost of 1000 mana.</p>
+<p><b>Effect</b>: Grants Temporal Flux spell with a cost of 1000 mana.</p>
 <p><img src="/realm/Factions/picks/TemporalFlux1000.png" align="middle"></p>
 <p><b>Effect</b>: Increase Unique building production based on time spent in this game.</p>
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>

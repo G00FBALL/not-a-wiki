@@ -75,7 +75,7 @@
                 <p>S30,C105,D150,E320,A3400,W1375</p>
                 <p>S500,C250,D330,E1325,A270,W400,</p>
                 <p><b>Note</b>: Build is listed in order of purchase.</p>
-                <p><b>Note</b>: Estimated time ?.</p>
+                <p><b>Note</b>: Estimated time 27 hours.</p>
                 <p><b>Note</b>: Buffed faceless set from the assistant run will make this build much faster.</p>
             </div>
         </div>
@@ -98,6 +98,23 @@
                 <p>W25,W205,W405,W520</p>
                 <p><b>Note</b>: Buffed faceless set from the assistant run will make this build much faster.</p>
                 <p><b>Note</b>: Estimated time ?.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)<font color="blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: ?</p>
+                <p><b>Faction</b>: Fairy</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495," id="Build"></p>
+                <p>S1,S180,S590,S3200,</p>
+                <p>C10,C400,C405,C520,</p>
+                <p>D225,D245,D435,</p>
+                <p>E50,E135,E410,</p>
+                <p>A30,A120,A495,</p>
+                <p>W560,W1375</p>
             </div>
         </div>
     </div>
