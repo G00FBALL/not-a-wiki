@@ -169,7 +169,7 @@ var x = setInterval(function() {
     <hr>
     <p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-    <p><img src="/admincontrols/Factions/picks/TotalEvent3.6.2.png" usemap="#TotalEventW3.6.-map">
+    <p><img src="/realm/Factions/picks/TotalEvent3.6.2.png" usemap="#TotalEventW3.6.-map">
     <map name="TotalEventW3.6.-map">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="3,41,62,99" shape="rect">
     <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="67,42,126,99" shape="rect">
@@ -211,12 +211,12 @@ var x = setInterval(function() {
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,363,190,421" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="197,364,255,420" shape="rect">
     <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect a full stack of 480 Goblin Crowns while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: 0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="262,363,318,420" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/admincontrols/Factions/picks/GentleCollector.png align=middle> Gentle Collector<p>Type: Feat<p>Requirements: Collect a full stack of Entropic Drops while affiliated with the Fairies.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="326,363,384,420" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/admincontrols/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector<p>Type: Feat<p>Requirements: Collect a full stack of Crystal Prisms while affiliated with the Undead.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,363,448,421" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/admincontrols/Factions/picks/GoldenAge.png align=middle> Golden Age<p>Type: Feat<p>Requirements: Cast Remnant spells at least 1000 times.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,426,62,486" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/admincontrols/Factions/picks/OrderRestoration.png align=middle> Order Restoration<p>Type: Feat<p>Requirements: Upgrade Order Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,426,126,484" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/admincontrols/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration<p>Type: Feat<p>Requirements: Upgrade Chaos Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="131,428,189,486" shape="rect">
-    <area research="Idilium<p><img src=http://musicfamily.org/admincontrols/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration<p>Type: Feat<p>Requirements: Upgrade Balance Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,428,255,485" shape="rect">
+    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector<p>Type: Feat<p>Requirements: Collect a full stack of Entropic Drops while affiliated with the Fairies.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="326,363,384,420" shape="rect">
+    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector<p>Type: Feat<p>Requirements: Collect a full stack of Crystal Prisms while affiliated with the Undead.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,363,448,421" shape="rect">
+    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age<p>Type: Feat<p>Requirements: Cast Remnant spells at least 1000 times.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,426,62,486" shape="rect">
+    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration<p>Type: Feat<p>Requirements: Upgrade Order Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,426,126,484" shape="rect">
+    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration<p>Type: Feat<p>Requirements: Upgrade Chaos Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="131,428,189,486" shape="rect">
+    <area research="Idilium<p><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration<p>Type: Feat<p>Requirements: Upgrade Balance Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,428,255,485" shape="rect">
     </map></p>
     <hr>
 <br style="clear: both"/>
@@ -250,7 +250,7 @@ var x = setInterval(function() {
     <center>Halloween</center></td>
             <td><center><center><img src="http://musicfamily.org/realm/Factions/picks/ChristmasMana.png" width="44%" height="44%" /></center>
     <center>Christmas</center></td>
-            <th><center><img src="http://musicfamily.org/admincontrols/Factions/picks/manaBubble_Full_idillium.png" width="40%" height="40%" /></center>
+            <th><center><img src="http://musicfamily.org/realm/Factions/picks/manaBubble_Full_idillium.png" width="40%" height="40%" /></center>
     <center>Idillium</center></th>
         </tr>
         </tbody>
@@ -319,21 +319,21 @@ div#images div{
 <br>
 <div id="images">
   <center><div>
-  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/CrystalPrismCurrency.png" width="54%" height="54%" /></center>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/CrystalPrismCurrency.png" width="54%" height="54%" /></center>
     <center><b>Crystal Prism</b></center>
   </div>
   &nbsp&nbsp&nbsp&nbsp&nbsp<div>
-  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/EntropicDropCurrency.png" width="54%" height="54%" /></center>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/EntropicDropCurrency.png" width="54%" height="54%" /></center>
     <center><b>Entropic Drop</b></center>
   </div>
 &nbsp  <div>
-  <center><img src="http://musicfamily.org/admincontrols/Factions/picks/EquilibriumFragmentCurrency.png" width="34%" height="34%" /></center>
+  <center><img src="http://musicfamily.org/realm/Factions/picks/EquilibriumFragmentCurrency.png" width="34%" height="34%" /></center>
     <center><b>Equilibrium Fragment</b></center>
   </div>
   </div>
 <hr>
 <p><b>Event Upgrades</b></p>
-<p><img src="/admincontrols/Factions/picks/BrokenMirror.png" align="middle"> <b>Broken Mirror</b></p>
+<p><img src="/realm/Factions/picks/BrokenMirror.png" align="middle"> <b>Broken Mirror</b></p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Idillium Resources collected.</p>
 <p><b>Formula</b>: ((1 + 0.0035 * ((x + y + z) / 3)) * [(1 + min(1.6 * (x / 25) - 0.002 * (x / 25) ^ 2 + 0.000024 * (x / 25) ^ 3,12500)) * (repeat, replace x with y and z)] ^ 0.4), where x is Crystal Prisms (Order), y is Entropic Drops (Chaos), z is Equilibrium Fragments (Balance)</p>
 <br>
@@ -343,17 +343,17 @@ div#images div{
 <p><b>Level 10</b>: Perk 2: total cost: 1138 Prisms.</p>
 <p><b>Level 15</b>: Perk 3: total cost: 2814 Prisms.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/OrderRemnant.png" align="middle"> <b>Order Remnant</b></p>
+<p><img src="/realm/Factions/picks/OrderRemnant.png" align="middle"> <b>Order Remnant</b></p>
 <p><b>Requirement to Collect</b>: Angels, Undead, Titans, Mercenary or factionless.</p>
 <p><b>Effect</b>: Increase the production of all buildings based on Remnant level. Does not suffer Ascension penalties.</p>
 <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/ChaosRemnant.png" align="middle"> <b>Chaos Remnant</b></p>
+<p><img src="/realm/Factions/picks/ChaosRemnant.png" align="middle"> <b>Chaos Remnant</b></p>
 <p><b>Requirement to Collect</b>: Fairies, Demon, Faceless, Mercenary or factionless.</p>
 <p><b>Effect</b>: Increases Assistants based on remnant level.</p>
 <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/BalanceRemnant.png" align="middle"> <b>Balance Remnant</b></p>
+<p><img src="/realm/Factions/picks/BalanceRemnant.png" align="middle"> <b>Balance Remnant</b></p>
 <p><b>Requirement to Collect</b>: Elves, Goblins, Druids, Mercenary or factionless.</p>
 <p><b>Effect</b>: Increases Faction Coin Find Chance based on remnant level.</p>
 <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
@@ -361,45 +361,45 @@ div#images div{
 <p><b>Quest</b></p>
 <p><b>Note</b>: Completing all Quest will increase your Cumulative Event bonus by an additional 12%.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/OrderRestoration1.png" align="middle"> <b>Order Restoration 1</b></p>
+<p><img src="/realm/Factions/picks/OrderRestoration1.png" align="middle"> <b>Order Restoration 1</b></p>
 <p><b>Requirement</b>: Order Remnant level 5.</p>
 <p><b>Effect</b>: Unlocks Order Remnant Perk 1.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/OrderRemnantPerk1.png" align="middle"> <b>Order Remnant Perk 1</b></p>
+<p><img src="/realm/Factions/picks/OrderRemnantPerk1.png" align="middle"> <b>Order Remnant Perk 1</b></p>
 <p><b>Effect</b>: Increases all spells duration and reduce all spells cost by 10%.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/OrderRestoration2.png" align="middle"> <b>Order Restoration 2</b></p>
+<p><img src="/realm/Factions/picks/OrderRestoration2.png" align="middle"> <b>Order Restoration 2</b></p>
 <p><b>Requirement</b>: Order Remnant level 10.</p>
 <p><b>Effect</b>: Unlocks Order Remnant Perk 2.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/OrderRemnantPerk2.png" align="middle"> <b>Order Remnant Perk 2</b></p>
+<p><img src="/realm/Factions/picks/OrderRemnantPerk2.png" align="middle"> <b>Order Remnant Perk 2</b></p>
 <p><b>Effect</b>: Grants Temporal spell Flux with a cost of 1000 mana.</p>
-<p><img src="/admincontrols/Factions/picks/TemporalFlux1000.png" align="middle"></p>
+<p><img src="/realm/Factions/picks/TemporalFlux1000.png" align="middle"></p>
 <p><b>Effect</b>: Increase Unique building production based on time spent in this game.</p>
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
 <p><b>Note</b>: Temporal Flux obtained this way cannot be tiered.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/OrderRestoration3.png" align="middle"> <b>Order Restoration 3</b></p>
+<p><img src="/realm/Factions/picks/OrderRestoration3.png" align="middle"> <b>Order Restoration 3</b></p>
 <p><b>Requirement</b>: Order Remnant level 15.</p>
 <p><b>Effect</b>: Unlocks Order Remnant Perk 3.</p>
 <p><b>Effect</b>: Adds 2% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/OrderRemnantPerk3.png" align="middle"> <b>Order Remnant Perk 3</b></p>
+<p><img src="/realm/Factions/picks/OrderRemnantPerk3.png" align="middle"> <b>Order Remnant Perk 3</b></p>
 <p><b>Effect</b>: Increases Maximum Mana by 25%.</p>
 <hr>
-<p><img src="/admincontrols/Factions/picks/ChaosRestoration1.png" align="middle"> <b>Chaos Restoration 1</b></p>
+<p><img src="/realm/Factions/picks/ChaosRestoration1.png" align="middle"> <b>Chaos Restoration 1</b></p>
 <p><b>Requirement</b>: Chaos Remnant level 5.</p>
 <p><b>Effect</b>: Unlocks Chaos Remnant Perk 1.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/ChaosRemnantPerk1.png" align="middle"> <b>Chaos Remnant Perk 1</b></p>
+<p><img src="/realm/Factions/picks/ChaosRemnantPerk1.png" align="middle"> <b>Chaos Remnant Perk 1</b></p>
 <p><b>Effect</b>: Increases Production Bonus from Gems by 18%.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/ChaosRestoration2.png" align="middle"> <b>Chaos Restoration 2</b></p>
+<p><img src="/realm/Factions/picks/ChaosRestoration2.png" align="middle"> <b>Chaos Restoration 2</b></p>
 <p><b>Requirement</b>: Chaos Remnant level 10.</p>
 <p><b>Effect</b>: Unlocks Chaos Remnant Perk 2.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/ChaosRemnantPerk2.png" align="middle"> <b>Chaos Remnant Perk 2</b></p>
+<p><img src="/realm/Factions/picks/ChaosRemnantPerk2.png" align="middle"> <b>Chaos Remnant Perk 2</b></p>
 <p><b>Effect</b>: Grants Maelstrom spell with a cost of 1000 mana.</p>
-<p><img src="/admincontrols/Factions/picks/Maelstrom1000.png" align="middle"></p>
+<p><img src="/realm/Factions/picks/Maelstrom1000.png" align="middle"></p>
 <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants.</p>
 <p><b>Formulas</b></p>
 <p><b>Mana</b>: (0.02 * (log10(1+x)) ^ 5)%, where x is mana produced this game.</p>
@@ -408,62 +408,62 @@ div#images div{
 <p><b>Assistants</b>: (0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
 <p><b>Note</b>: Maelstrom obtained this way cannot be tiered.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/ChaosRestoration3.png" align="middle"> <b>Chaos Restoration 3</b></p>
+<p><img src="/realm/Factions/picks/ChaosRestoration3.png" align="middle"> <b>Chaos Restoration 3</b></p>
 <p><b>Requirement</b>: Chaos Remnant level 15.</p>
 <p><b>Effect</b>: Unlocks Chaos Remnant Perk 3.</p>
 <p><b>Effect</b>: Adds 2% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/ChaosRemnantPerk3.png" align="middle"> <b>Chaos Remnant Perk 3</b></p>
+<p><img src="/realm/Factions/picks/ChaosRemnantPerk3.png" align="middle"> <b>Chaos Remnant Perk 3</b></p>
 <p><b>Effect</b>: Increases Mana Regeneration by 50%.</p>
 <hr>
-<p><img src="/admincontrols/Factions/picks/BalanceRestoration1.png" align="middle"> <b>Balance Restoration 1</b></p>
+<p><img src="/realm/Factions/picks/BalanceRestoration1.png" align="middle"> <b>Balance Restoration 1</b></p>
 <p><b>Requirement</b>: Balance Remnant level 5.</p>
 <p><b>Effect</b>: Unlocks Balance Remnant Perk 1.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/BalanceRemnantPerk1.png" align="middle"> <b>Balance Remnant Perk 1</b></p>
+<p><img src="/realm/Factions/picks/BalanceRemnantPerk1.png" align="middle"> <b>Balance Remnant Perk 1</b></p>
 <p><b>Effect</b>: Increases Tax Collection worth by 30 seconds.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/BalanceRestoration2.png" align="middle"> <b>Balance Restoration 2</b></p>
+<p><img src="/realm/Factions/picks/BalanceRestoration2.png" align="middle"> <b>Balance Restoration 2</b></p>
 <p><b>Requirement</b>: Balance Remnant level 10.</p>
 <p><b>Effect</b>: Unlocks Balance Remnant Perk 2.</p>
 <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/BalanceRemnantPerk2.png" align="middle"> <b>Balance Remnant Perk 2</b></p>
+<p><img src="/realm/Factions/picks/BalanceRemnantPerk2.png" align="middle"> <b>Balance Remnant Perk 2</b></p>
 <p><b>Effect</b>: Grants All Creation spell with a cost of 1000 mana.</p>
-<p><img src="/admincontrols/Factions/picks/AllCreation1000.png" align="middle"></p>
+<p><img src="/realm/Factions/picks/AllCreation1000.png" align="middle"></p>
 <p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
 <p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
 <p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
 <p><b>Note</b>: All Creation obtained this way cannot be tiered.</p>
 <br>
-<p><img src="/admincontrols/Factions/picks/BalanceRestoration3.png" align="middle"> <b>Balance Restoration 3</b></p>
+<p><img src="/realm/Factions/picks/BalanceRestoration3.png" align="middle"> <b>Balance Restoration 3</b></p>
 <p><b>Requirement</b>: Balance Remnant level 15.</p>
 <p><b>Effect</b>: Unlocks Balance Remnant Perk 3.</p>
 <p><b>Effect</b>: Adds 2% to your Cumulative Event bonus.</p>
-<p><img src="/admincontrols/Factions/picks/BalanceRemnantPerk3.png" align="middle"> <b>Balance Remnant Perk 3</b></p>
+<p><img src="/realm/Factions/picks/BalanceRemnantPerk3.png" align="middle"> <b>Balance Remnant Perk 3</b></p>
 <p><b>Effect</b>: Increases Royal Exchange Bonus by 20% (Additive).</p>
 <hr>
 <p><b>Feats</b></p>
 <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 <br>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
 <p><b>Requirements</b>: Collect a full stack of Entropic Drops while affiliated with the Fairies.</p>
 <br>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/AggressiveCollector.png align=middle> <b>Aggressive Collector</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> <b>Aggressive Collector</b></p>
 <p><b>Requirements</b>: Collect a full stack of Crystal Prisms while affiliated with the Undead.</p>
 <br>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/GoldenAge.png align=middle> <b>Golden Age</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> <b>Golden Age</b></p>
 <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
 <br>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/OrderRestoration.png align=middle> <b>Order Restoration</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> <b>Order Restoration</b></p>
 <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
 <br>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/ChaosRestoration.png align=middle> <b>Chaos Restoration</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> <b>Chaos Restoration</b></p>
 <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
 <br>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/BalanceRestoration.png align=middle> <b>Balance Restoration</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> <b>Balance Restoration</b></p>
 <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
 <hr>
 <p><b>Shop Items</b></p>
-<p><img src=http://musicfamily.org/admincontrols/Factions/picks/IdilliumShop45.png align=middle> <b>1200 each Idillium Resource</b></p>
+<p><img src=http://musicfamily.org/realm/Factions/picks/IdilliumShop45.png align=middle> <b>1200 each Idillium Resource</b></p>
 <p><b>Cost</b>: 45 Rubies</p>
 <p><b>Description</b>: A shady prophet wants to sell you 1200 units of each Idillium Resource for 45 Rubies.</p>
 <p><b>Note</b>: You can purchase this an infinite amount of times.</p>
