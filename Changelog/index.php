@@ -3,7 +3,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php include "../scripts/header.html"; ?>
 <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
-<div class="shlisting">
+ <div class="shlisting">
+  <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6.2, SEP 17, 2019, Idilium Event</a></b></p>
+      <div class="autohide">
+<p><b>Global Reminder</b>: The Idilium Event will be starting on Sep 23rd 2019, 12.01 PM UTC and will end on Sep 30th 2019, 6.59 PM UTC.</p>
+<p>Spell Reset function is now available only when a spell has been active for at least 2 seconds.</p>
+<p>Djinn Challenge 3 no longer counts temporary assistants. Requirements lowered.</p>
+<p>Archon Challenge 2 requirements lowered.</p>
+<p>Djinn Challenge 2 now gives additional evil cast for each tier of spell autocast.</p>
+<p>{mobile}Fixed cropped version number in several localizations.</p>
+</div>
+  </div>
   <div class="shelementwhole">
       <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6.1, Aug 21st, 2019, Summer Event</a></b></p>
       <div class="autohide">
