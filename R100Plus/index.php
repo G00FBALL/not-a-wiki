@@ -267,7 +267,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ziggurat (Druid) 1e31 (10 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ziggurat (Druid) 1e30 (1 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e31 (10 No) Gems</p>
@@ -283,7 +283,7 @@
                 <p>E135,E260,</p>
                 <p>A251,A375,A400,</p>
                 <p>W350,W1375</p>
-                <p><b>Notes</b>: Estimated 1 hour to unlock.</p>
+                <p><b>Notes</b>: Estimated 30 minutes to unlock.</p>
             </div>
         </div>
     </div>

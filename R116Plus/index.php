@@ -77,24 +77,6 @@
                  <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11</p>
             </div>
         </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves 1e50 (100 QiD) - 1e55 (10 SpD)<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Sad</p>
-                <p><b>Faction</b>: Elf</p>
-                <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Elf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A270,A495,W10,W560,W1275" id="Build">
-                <p>S175,S200,</p>
-                <p>C1,C225,C340,C405,C520,C590,</p>
-                <p>D50,D435,D1375,</p>
-                <p>E25,E400,E410,</p>
-                <p>A270,A495,</p>
-                <p>W10,W560,W1275</p>
-                <p><b>Notes</b>: Needs 15-20 minutes for SS7</p>
-            </div>
-        </div>
     </div>
     <br/>
     <p><b>Production Builds R120+</b></p>
