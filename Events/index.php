@@ -250,7 +250,7 @@ var x = setInterval(function() {
     <center>Halloween</center></td>
             <td><center><center><img src="http://musicfamily.org/realm/Factions/picks/ChristmasMana.png" width="44%" height="44%" /></center>
     <center>Christmas</center></td>
-            <th><center><img src="http://musicfamily.org/realm/Factions/picks/manaBubble_Full_Idillium.png" width="40%" height="40%" /></center>
+            <th><center><img src="http://musicfamily.org/realm/Factions/picks/IdilliumMana.png" width="40%" height="40%" /></center>
     <center>Idillium</center></th>
         </tr>
         </tbody>
