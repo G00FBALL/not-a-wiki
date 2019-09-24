@@ -355,7 +355,7 @@ div#images div{
 <br>
 <p><img src="/realm/Factions/picks/BalanceRemnant.png" align="middle"> <b>Balance Remnant</b></p>
 <p><b>Requirement to Collect</b>: Elves, Goblins, Druids, Mercenary or factionless.</p>
-<p><b>Effect</b>: Increases Faction Coin Find Chance based on remnant level.(additive)</p>
+<p><b>Effect</b>: Increases Faction Coin Find Chance based on remnant level.(multiplicative)</p>
 <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
 <hr>
 <p><b>Quest</b></p>

@@ -133,7 +133,7 @@
                 <p><b>Range</b>: ? gems+
                 <p><b>Faction</b>: Fairy
                 <p><b>Bloodline</b>: Undead
-                <p><b>Artifact Set</b>: Dwarf
+                <p><b>Artifact Set</b>: Fairy
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D1375,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build">
                 <p>S1,S180,S400,S590,
