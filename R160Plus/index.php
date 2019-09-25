@@ -31,6 +31,32 @@
                 <p><b>Note</b>: Build is listed in order of purchase.</p>
             </div>
         </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Gem Rush 0+ (R170+)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E400,E3300,A120,A2950,W1375,W3050," id="Build"></p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E400,A120,A2950,W275,W3050," id="Build"> After Buffs</p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
+                <p>S400,S2875,</p>
+                <p>C340,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E400,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W1375,W3050,</p>
+                <p><b>Note</b>: Requires no prior buildup or buffing, should be able to rush to around R175+</p>
+                <p><b>Note</b>: Later on buff S400, Excavations + resets, clicks and W275</p>
+                <p><b>Note</b>: After buffs, switch W1375 -> W275, Fairy Chanting -> Grand Balance and don't take E3300 to let HoL benefit from DGC2</p>
+            </div>
+        </div>
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
@@ -134,6 +160,151 @@
                 <p>E50,E135,E410,</p>
                 <p>A30,A120,A495,</p>
                 <p>W560,W1375</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Buff Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells - 100 Qid (e50+) Gems</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,S400,S2875,C340,C3000,D290,D2775,E1325,E3300,A120,A2950,W1375,W3050" id="Build"></p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,S400,S2875,C340,C3000,D290,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"> Buffed W275</p>
+                <p>EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,</p>
+                <p>FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,</p>
+                <p>S400,S2875,</p>
+                <p>C340,C3000,</p>
+                <p>D290,D2775,</p>
+                <p>E1325,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W1375,W3050</p>
+                <p><b>Note</b>: Buff clicks, excavations and resets beforehand.</p>
+                <p><b>Note</b>: Use W275 if buffed.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants - 1 Ocd (1e57+)</b></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Alignment</b>: Neutral/Chaos Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,DW12,AR2,AR5,AR10,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:DN,S400,S2875,C400,C3000,D290,D2775,E1325,E3300,A120,A2950,W1375,W3050" id="Build"></p>
+                  <p>EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,</p>
+                  <p>FC7,DN2,DW6,DW12,AR2,AR5,AR10,DJ9,</p>
+                  <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:DN,</p>
+                  <p>S400,S2875,</p>
+                  <p>C400,C3000,</p>
+                  <p>D290,D2775,</p>
+                  <p>E1325,E3300,</p>
+                  <p>A120,A2950,</p>
+                  <p>W1375,W3050</p>
+                  <p><b>Notes</b>: Buff excavations and resets, spells cast, clicks beforehand.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks - 10 Spd (e55+)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Djinn</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,DW12,AR10,DJ9,MK1,MK5,SP:Moon Blessing,SP:Infinite Spiral,UB:Mountain Palace,UNN:EL,S400,S2875,C590,C3000,D275,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR10,DJ9,MK1,MK5,</p>
+                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Mountain Palace,UNN:EL,</p>
+                <p>S400,S2875,</p>
+                <p>C590,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E1325,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Lineage Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush Build - 1 Ocd (e57+) Gems</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: kuerti</p>
+                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,DD4,FC2,FC7,DN2,DW6,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,S2875,S3200,C3000,C3100,D275,D2775,E320,E3300,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL1,EL7,EL11,AN5,AN12,GB7,DD4,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,</p>
+                <p>S2875,S3200,</p>
+                <p>C3000,C3100,</p>
+                <p>D275,D2775,</p>
+                <p>E320,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050</p>
+                <p><b>Note</b>: Buff W275, excavations and resets beforehand.</p>
+                <p><b>Note</b>: May get to L70 quicker than the growth build below.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth Build - 1 Vg (1e63+)</b></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Archon</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:AR,S2875,C3000,D2775,E3300,A2950,W3050,S200,S400,S1500,S330,C400,C3100,C250,C340,D290,D200,D330,D275,E135,E1325,E320,E145,A120,A3400,A1500,A270,W275,W1400,W1375,W1275" id="Build"></p>
+                  <p>EL1,EL7,EL11,AN5,AN12,GB4,GB7,TT10,</p>
+                  <p>FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,</p>
+                  <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:AR,</p>
+                  <p>S2875,C3000,D2775,E3300,A2950,W3050,</p>
+                  <p><b>Extra Research Slots</b>: 2d and 6d
+                  <p>200,S400,S1500,S330,</p>
+                  <p>C400,C3100,C250,C340,</p>
+                  <p>D290,D200,D330,D275,</p>
+                  <p>E135,E1325,E320,E145,</p>
+                  <p>A120,A3400,A1500,A270,</p>
+                  <p>W275,W1400,W1375,W1275</p>
+                  <p><b>Notes</b>: Reload build after each new research slot opens</p>
+                  <p><b>Notes</b>: Buff excavations and resets, S400, W275 beforehand.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler - 1 Vg (1e63+)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: You Pick</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:GB,S400,S2875,C400,C3000,D275,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,</p>
+                <p>FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:GB,</p>
+                <p>S400,S2875,</p>
+                <p>C400,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E1325,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050</p>
             </div>
         </div>
     </div>
