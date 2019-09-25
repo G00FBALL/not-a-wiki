@@ -574,13 +574,13 @@
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Artifact Set</b>: Dwarf</p>
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S225,S435,S400,C400,D25,D290,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W520,S200,C340,D3350,E135,A270,W1275" id="Build"></p>
+                      <input type="text" value="S225,S435,S400,C400,D25,D290,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W520,W405,S200,C340,D3350,E135,A270,W1275" id="Build"></p>
                     <p>S225,S435,S400,
                     <p>C400,</p>
                     <p>D25,D290,D560,</p>
                     <p>E10,E400,E495,</p>
                     <p>A1,A175,A400,A410,A590,</p>
-                    <p>W50,W205,W520,</p>
+                    <p>W50,W205,W520,W405</p>
                     <p><b>After Archon Treaty</b>: S200,C340,D3350,E135,A270,W1275 (Reload Build)</p>
              </div>
         </div>
