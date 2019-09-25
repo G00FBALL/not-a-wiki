@@ -47,7 +47,7 @@ var x = setInterval(function() {
 </script></p>
 <br/>
 <a id="Events"></a>
-<table class="numtable">
+<center><table class="numtable">
         <thead>
         <tr>
             <th>Rubies</th>
@@ -165,9 +165,9 @@ var x = setInterval(function() {
             <td>14%</td>
         </tr>
         </tbody>
-    </table>
+    </table></center>
     <hr>
-    <p><b>Event Panel</b></p>
+    <center><p><b>Event Panel</b></p>
     <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
     <p><img src="/realm/Factions/picks/TotalEvent3.6.2.png" usemap="#TotalEventW3.6.-map">
     <map name="TotalEventW3.6.-map">
@@ -217,7 +217,7 @@ var x = setInterval(function() {
     <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration<p>Type: Feat<p>Requirements: Upgrade Order Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="68,426,126,484" shape="rect">
     <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration<p>Type: Feat<p>Requirements: Upgrade Chaos Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="131,428,189,486" shape="rect">
     <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration<p>Type: Feat<p>Requirements: Upgrade Balance Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,428,255,485" shape="rect">
-    </map></p>
+    </map></p></center>
     <hr>
 <br style="clear: both"/>
     <a id="ManaColors"></a>
