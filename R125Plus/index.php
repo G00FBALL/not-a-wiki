@@ -224,7 +224,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Second Stone Fragment, Expensive Excavations <font color="blue">Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Second Stone Fragment, Expensive Excavations <font color="darkgoldenrod">Neutral</font></a></b></p>
                 <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Faction</b>: Druid
