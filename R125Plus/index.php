@@ -856,6 +856,8 @@
                   <p>E350,E1225,E1325,
                   <p>A270,A300,A1200,
                   <p>W275,W1275,W1400
+                  <p><b>Note</b>: Buff Max assistants,and S400.
+                  <p><b>Note</b>: Grand Balance is the spell to watch.
                   <p><b>Note</b>: Takes about 5 hours to complete the challenge.
             </div>
         </div>
