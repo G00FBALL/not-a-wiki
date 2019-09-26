@@ -217,21 +217,21 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks - 10 Spd (e55+)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Alignment</b>: Good/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Djinn</p>
                 <p><b>A2950</b>: Elf</p>
                 <p><b>Artifact Set</b>: Merc</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,DW12,AR10,DJ9,MK1,MK5,SP:Moon Blessing,SP:Infinite Spiral,UB:Mountain Palace,UNN:EL,S400,S2875,C590,C3000,D275,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"></p>
-                <p>EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,</p>
-                <p>FC7,DN2,DW6,DW12,AR10,DJ9,MK1,MK5,</p>
-                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Mountain Palace,UNN:EL,</p>
-                <p>S400,S2875,</p>
+                    <input type="text" value="EL3,EL4,EL7,EL11,AN5,AN12,GB4,GB7,FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,S1275,S2875,C590,C3000,D290,D2775,E400,E3300,A120,A2950,W1400,W3050" id="Build"></p>
+                <p>EL3,EL4,EL7,EL11,AN5,AN12,GB4,GB7,</p>
+                <p>EFC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,,</p>
+                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,</p>
+                <p>S1275,S2875,</p>
                 <p>C590,C3000,</p>
-                <p>D275,D2775,</p>
-                <p>E1325,E3300,</p>
+                <p>D290,D2775,</p>
+                <p>E400,E3300,</p>
                 <p>A120,A2950,</p>
-                <p>W275,W3050</p>
+                <p>W1400,W3050</p>
             </div>
         </div>
     </div>
