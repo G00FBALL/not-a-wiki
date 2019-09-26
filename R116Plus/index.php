@@ -174,12 +174,12 @@
                 <p><b>Bloodline</b>: Druid
                 <p><b>Artifact Set</b>: Angel
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S3200,C251,C375,C400,C1300,C1500,D1,D175,D290,D435,D590,E135,E410,A50,A120,A495,W225,W560,W1375" id="Build">
+                    <input type="text" value="S10,S3200,C251,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A120,A495,W225,W560,W1375" id="Build">
                 <p>S10,S3200,
-                <p>C251,C375,C400,C1300,C1500,
+                <p>C251,C400,C405,C520,
                 <p>D1,D175,D290,D435,D590,
-                <p>E135,E410,A50,
-                <p>A120,A495,
+                <p>E135,E410
+                <p>A50,A120,A495,
                 <p>W225,W560,W1375
                 <p><b>Notes</b>: Can reach 7e9 (7 B) - 1e10 (10 B) mana regen.
             </div>
