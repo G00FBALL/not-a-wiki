@@ -71,12 +71,12 @@
                 <p><b>Artifact Set</b>: Druid</p>
                 <p><b>2nd Artifact Set</b>: Elf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E145,E260,E1225,A251,A375,A1200,A1500,A3400,W350,W1375,W1400" id="Build"></p>
-                <p>S1450,S3200,</p>
+                    <input type="text" value="S400,S1450,C300,C400,C1300,D275,D290,D1125,E145,E260,E1225,A251,A375,A1200,A3400,A1500,W350,W1375,W1400" id="Build"></p>
+                <p>S400,S1450,</p>
                 <p>C300,C400,C1300,</p>
                 <p>D275,D290,D1125,</p>
                 <p>E145,E260,E1225,</p>
-                <p>A251,A375,A1200,A1500,A3400,</p>
+                <p>A251,A375,A1200,A3400,A1500,</p>
                 <p>W350,W1375,W1400</p>
                 <p><b>Note</b>: Estimated time 22-23 hours.</p>
             </div>
