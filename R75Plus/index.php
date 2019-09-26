@@ -111,6 +111,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again Merc Research Unlock (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
+                <p><b>Requirements</b>: Obsidian Shard</p>
                 <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
@@ -153,7 +154,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Generous Investors R75-R76 <font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Dragon lineage level 20, Dragon perk 2, low excavations count (Reset excavations if needed)
+                <p><b>Requirements</b>: Dragon lineage level 20, Dragon perk 2, low excavations count (Reset excavations if needed)
                 <p><b>Range</b>: 1e88+ (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>

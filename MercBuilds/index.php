@@ -128,7 +128,7 @@
                         </div>
                 </div>
                 <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harlequin Tricaster R12+<font color="DarkRed"> Evil</font></a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harlequin Tricaster R12+ (Know Your Enemy Lore Artifact)<font color="DarkRed"> Evil</font></a></b></p>
                         <div class="autohide">
                           <p><b>Alignment</b>: Evil Mercenary</p>
                           <p><b>Bloodline</b>: Elf
