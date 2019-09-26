@@ -194,9 +194,9 @@
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C150,C340,C400,C590,C1300,C1500,D25,D290,D525,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A175,A545,A1500,A2950,W25,W180,W275,W400,W1275,W1400" id="Build"> Holy Light is T4+</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D290,D525,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A175,A330,A1500,A2950,W180,W275,W400,W1275,W1400,W3050" id="Build"> R78+</p>
+                    <input type="text" value="FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D290,D525,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A175,A330,A1500,A2950,W25,W180,W275,W400,W1275,W1400" id="Build"> R78+</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C340,C400,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A175,A330,A1500,A2950,W180,W400,W1275,W1400,W3050,W3150" id="Build"> R79+</p>
+                    <input type="text" value="FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,SP:Fairy Chanting,SP:God's Hand,S215,S305,S330,S1275,S1450,S1500,C340,C400,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A175,A330,A1500,A2950,W25,W180,W400,W1275,W1400,W3150" id="Build"> R79+</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,SP:Fairy Chanting,SP:Brainwave,S215,S305,S330,S1275,S1450,S1500,C120,C150,C340,C400,C590,C1300,D25,D275,D290,D1275,D1375,D2775,E80,E135,E320,E330,E350,E1225,A105,A120,A175,A330,A1500,A2950,W25,W180,W275,W400,W1275,W1400" id="Build"> God's Hand -1000%</p>
                 <p>FR9,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:DN8,</p>
@@ -209,7 +209,7 @@
                 <p>W25,W180,W275,W400,W1275,W1400</p>
                 <p><b>Notes</b>: Excavate for Dragon Heritage, Dragon upgrade 3 & 4, and Holy Light tier 3</p>
                 <p><b>Notes</b>: Swap D275->D525 (A330->A545 is optional) if T4+ HL</p>
-                <p><b>Notes</b>: Swap C120->C3000, W25->W3050 for R78+</p>
+                <p><b>Notes</b>: Swap C120->C3000 for R78+</p>
                 <p><b>Notes</b>: Swap C150->C3100, W275->W3150 for R79+</p>
                 <p><b>Notes</b>: Swap God's Hand->Brainwave if lower than 1000%</p>
             </div>
