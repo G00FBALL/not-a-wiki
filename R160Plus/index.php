@@ -239,7 +239,7 @@
     <p><b>Lineage Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush - 1 Ocd (e57+) Gems<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush - 1 Ocd (e57+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kuerti</p>
                 <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
