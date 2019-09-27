@@ -60,10 +60,11 @@
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
-    <p><b>Do Clicks, Assistants, Spells and Buildings last.</b></p>
+    <p><b>Do Clicks, Assistants, Spells and Buildings.</b></p>
+    <p><b>You should get FC during clicks on spell run.</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks & FC)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks)<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Faction</b>: Druid</p>
