@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Gem Rush 0+ (R170+)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Gem Rush 0+ (R170+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
@@ -167,7 +167,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells - 100 Qid (e50+) Gems</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells - 100 Qid (e50+) Gems</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
@@ -192,7 +192,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants - 1 Ocd (1e57+)</b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants - 1 Ocd (1e57+)</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Chaos Mercenary</p>
@@ -214,7 +214,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks - 10 Spd (e55+)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks - 10 Spd (e55+)<b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Alignment</b>: Good/Balance Mercenary</p>
@@ -239,7 +239,7 @@
     <p><b>Lineage Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush Build - 1 Ocd (e57+) Gems</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush - 1 Ocd (e57+) Gems<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kuerti</p>
                 <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
@@ -262,7 +262,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth Build - 1 Vg (1e63+)</b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth - 1 Vg (1e63+)</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
@@ -287,7 +287,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler - 1 Vg (1e63+)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler - 1 Vg (1e63+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
@@ -308,4 +308,5 @@
             </div>
         </div>
     </div>
+
 <?php include "../scripts/footer.html"; ?>
