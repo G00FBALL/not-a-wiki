@@ -276,7 +276,7 @@
                   <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:AR,</p>
                   <p>S2875,C3000,D2775,E3300,A2950,W3050,</p>
                   <p><b>Extra Research Slots</b>: 2d and 6d
-                  <p>200,S400,S1500,S330,</p>
+                  <p>S200,S400,S1500,S330,</p>
                   <p>C400,C3100,C250,C340,</p>
                   <p>D290,D200,D330,D275,</p>
                   <p>E135,E1325,E320,E145,</p>
