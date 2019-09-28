@@ -751,6 +751,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 4 1e95 (100 Tg) <font color="blue">Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
+                <p><b>Requirement</b>: Faceless Lineage 45
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Faceless
                 <p><b>Artifact Set</b>: Dragon

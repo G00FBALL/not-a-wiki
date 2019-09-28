@@ -167,15 +167,15 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (FC)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
-                <p><b>Faction</b>: Fairy</p>
+                <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p><b>2nd Artifact Set</b>: Dwarf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S435,S3200,C175,C400,D290,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
+                    <input type="text" value="S50,S435,S3200,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
                 <p>S50,S435,S3200,</p>
                 <p>C175,C400,</p>
-                <p>D290,</p>
+                <p>D290,D560,</p>
                 <p>E1,E225,E320,E495,E590,</p>
                 <p>A10,A400,A410,</p>
                 <p>W25,W205,W405,W520</p>
