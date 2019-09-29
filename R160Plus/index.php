@@ -11,7 +11,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (R160+)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (R160-R171)<font color="darkgoldenrod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -131,7 +131,7 @@
                 <p><b>Author</b>: MLGscrub</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
                 <p><b>Faction</b>: Goblin</p>
-                <p><b>Bloodline</b>: Demone</p>
+                <p><b>Bloodline</b>: Demons</p>
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p><b>2nd Artifact Set</b>: Goblin</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -167,8 +167,8 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (FC)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
-                <p><b>Faction</b>: Elf</p>
-                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Faction</b>: Goblin</p>
+                <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p><b>2nd Artifact Set</b>: Dwarf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
