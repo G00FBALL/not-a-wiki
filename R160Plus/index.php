@@ -54,7 +54,7 @@
                 <p>W1375,W3050,</p>
                 <p><b>Note</b>: Requires no prior buildup or buffing, should be able to rush to around R175+</p>
                 <p><b>Note</b>: Later on buff S400, Excavations + resets, clicks and W275</p>
-                <p><b>Note</b>: After buffs, switch W1375 -> W275, Fairy Chanting -> Grand Balance and don't take E3300 to let HoL benefit from DGC2</p>
+                <p><b>Note</b>: After buffs, switch W1375 -> W275, Fairy Chanting -> Grand Balance and don't take E3300 to let HoL benefit from DGC2.</p>
             </div>
         </div>
     </div>
@@ -244,7 +244,7 @@
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL4,EL7,EL11,AN5,AN12,GB4,GB7,FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,S1275,S2875,C590,C3000,D290,D2775,E400,E3300,A120,A2950,W1400,W3050" id="Build"></p>
                 <p>EL3,EL4,EL7,EL11,AN5,AN12,GB4,GB7,</p>
-                <p>EFC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,,</p>
+                <p>EFC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,</p>
                 <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,</p>
                 <p>S1275,S2875,</p>
                 <p>C590,C3000,</p>
@@ -252,6 +252,28 @@
                 <p>E400,E3300,</p>
                 <p>A120,A2950,</p>
                 <p>W1400,W3050</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets - 100 Vg (e65+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: :)</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E290,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
+                <p>S400,S2875,</p>
+                <p>C340,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E290,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050,</p>
+                <p><b>Notes</b>: Don't take E3300 to let HoL benefit from DGC2.</p>
             </div>
         </div>
     </div>
