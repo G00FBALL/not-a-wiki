@@ -126,7 +126,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demoneline Goblin 10 Dd (1e40) (Spells)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin 10 Dd (1e40) (Spells)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: MLGscrub</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -236,15 +236,15 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks - 10 Spd (e55+)<b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Author</b>: rellikrellik - KuraTheDog</p>
                 <p><b>Alignment</b>: Good/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Djinn</p>
                 <p><b>A2950</b>: Elf</p>
                 <p><b>Artifact Set</b>: Merc</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL4,EL7,EL11,AN5,AN12,GB4,GB7,FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,S1275,S2875,C590,C3000,D290,D2775,E400,E3300,A120,A2950,W1400,W3050" id="Build"></p>
-                <p>EL3,EL4,EL7,EL11,AN5,AN12,GB4,GB7,</p>
-                <p>EFC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,</p>
+                    <input type="text" value="EL3,EL4,EL7,EL11,AN6,AN8,AN12,GB4,FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,S1275,S2875,C590,C3000,D290,D2775,E400,E3300,A120,A2950,W1400,W3050" id="Build"></p>
+                <p>EL3,EL4,EL7,EL11,AN6,AN8,AN12,GB4,</p>
+                <p>FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,</p>
                 <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,</p>
                 <p>S1275,S2875,</p>
                 <p>C590,C3000,</p>
