@@ -79,7 +79,7 @@
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
     <p><b>Do Clicks, Assistants, Spells and Buildings.</b></p>
-    <p><b>You should get FC during clicks on spell run.</b></p>
+    <p><b>You should get FC during clicks or spell run.</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks)</a></b></p>
@@ -352,7 +352,7 @@
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
-                <p><b>Bloodline</b>: You Pick</p>
+                <p><b>Bloodline</b>: You</p>
                 <p><b>A2950</b>: Titan</p>
                 <p><b>Artifact Set</b>: Merc</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
