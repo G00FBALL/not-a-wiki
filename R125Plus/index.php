@@ -278,7 +278,7 @@
     <p><b>Production Builds R130+</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+) 0 - 1e47 (100 Qad) Gems<font color="blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+) 0 - 1e47 (100 Qad)<font color="blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
@@ -296,7 +296,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves (R130+) 1e47 (100 Qad) - 1e70 (10 Dvg) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves (R130+) 1e47 (100 Qad) - 1e70 (10 Dvg)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e47 (100 Qad) - 1e70 (10 Dvg) Gems</p>
@@ -317,7 +317,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R130+) 1e70 (10 Dvg) - 1e90 (1 Novg) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R130+) 1e70 (10 Dvg) - 1e90 (1 Novg)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
@@ -336,7 +336,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R130+) 1e90+ (1 Novg) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R130+) 1e90+ (1 Novg)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -713,7 +713,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 2 <font color="darkred">Evil</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 2<font color="darkred">Evil</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Fabi676</p>
                         <p><b>Range</b>: ?</p>
@@ -731,7 +731,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 3 <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 3<font color="DarkGoldenRod">Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Sad</p>
                         <p><b>Range</b>: ?</p>
@@ -750,7 +750,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 4  <font color="blue">Good</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 4<font color="blue">Good</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Sad</p>                        
                         <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -800,6 +800,7 @@
                     <div class="autohide">
                         <p><b>Author</b>: Sad</p>
                         <p><b>Faction</b>: Fairy</p>
+                        <p><b>Range</b>: ?</p>
                         <p><b>Bloodline</b>: Goblin</p>
                         <p><b>Artifact Set</b>: Fairy</p>
                             <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -817,6 +818,7 @@
                     <div class="autohide">
                         <p><b>Author</b>: Sad</p>
                         <p><b>Faction</b>: Demon</p>
+                        <p><b>Range</b>: ?</p>
                         <p><b>Bloodline</b>: Djinn</p>
                         <p><b>Artifact Set</b>: Undead</p>
                             <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -830,10 +832,11 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinn Challenge 3 <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinn Challenge 3<font color="DarkGoldenRod">Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: ?</p>
                         <p><b>Faction</b>: Faceless</p>
+                        <p><b>Range</b>: ?</p>
                         <p><b>Bloodline</b>: Titan</p>
                         <p><b>Artifact Set</b>: Faceless</p>
                             <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -847,10 +850,11 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinn Challenge 4 e114 (1 Sptg) <font color="DarkGoldenRod">Neutral</font></a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinn Challenge 4<font color="DarkGoldenRod">Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Sad</p>
                         <p><b>Faction</b>: Faceless</p>
+                        <p><b>Range</b>: 1e114 (1 Sptg) Gems+</p>
                         <p><b>Bloodline</b>: Druid</p>
                         <p><b>Artifact Set</b>: Dragon</p>
                             <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -877,9 +881,10 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">Makers</font></a></b></p>
         <div class="category autohide">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 1 <font color="blue">Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 1<font color="blue">Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
+                    <p><b>Range</b>: ?</p>
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Djinn</p>
                     <p><b>Artifact Set</b>: Elf</p>
@@ -894,9 +899,10 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 2 <font color="darkred">Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 2<font color="darkred">Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Curunur</p>
+                    <p><b>Range</b>: ?</p>
                     <p><b>Faction</b>: Goblin</p>
                     <p><b>Bloodline</b>: Makers</p>
                     <p><b>Artifact Set</b>: Faceless</p>
@@ -912,9 +918,10 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 3 1e101 (10 Dtg) <font color="darkgoldenrod">Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 3<font color="darkgoldenrod">Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
+                    <p><b>Range</b>: 1e101 (10 Dtg) Gems+</p>
                     <p><b>Faction</b>: Druid</p>
                     <p><b>Bloodline</b>: Goblin</p>
                     <p><b>Artifact Set</b>: Druid</p>
@@ -929,17 +936,19 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 4 e120 (1 Notg) <font color="blue">Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 4<font color="blue">Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
+                    <p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Artifact Set</b>: Faceless</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 5 <font color="darkgoldenrod">Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 5<font color="darkgoldenrod">Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: waffle</p>
+                    <p><b>Range</b>: ?</p>
                     <p><b>Faction</b>: Druid</p>
                     <p><b>Bloodline</b>: Undead</p>
                     <p><b>Artifact Set</b>: Facelesset/Dwarfset</p>
