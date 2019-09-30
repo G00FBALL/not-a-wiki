@@ -323,7 +323,7 @@
                 <p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Dwarf (Elf if buffed)</p>
+                <p><b>Artifact Set</b>: Dwarf (Elf R135+)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A120,W400" id="Build"></p>
                 <p>S10,S3200,</p>
@@ -332,7 +332,7 @@
                 <p>E400,E410,</p>
                 <p>A50,A400,A495,</p>
                 <p>W225,W560,W1375</p>
-                <p><b>After Archon treaty</b>: S305,C340,D1375,E135,A120,W400 (Reimport build)
+                <p><b>After Archon treaty</b>: S305,C340,D1375,E135,A120,W400 (Reimport build)</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -351,9 +351,9 @@
                 <p>E400,E410,A50,
                 <p>A400,A495,
                 <p>W225,W560,W1375
-                <p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (Reimport build)
-                <p><b>Notes</b>: Swap W1375 with W400 if an11 is buffed..
-                <p><b>Notes</b>: Swap Dwarfset with Elfset at higher gems if ~2k%+?
+                <p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (Reimport build)</p>
+                <p><b>Notes</b>: Swap W1375 with W400 if an11 is buffed..</p>
+                <p><b>Notes</b>: Swap Dwarf set with Elf set at higher gems if ~2k%+?</p>
             </div>
         </div>
     </div>
@@ -375,7 +375,7 @@
                 <p>E25,E320,E410,</p>
                 <p>A400,A495,</p>
                 <p>W10,W560,W1375</p>
-                <p><b>Note</b>: Buff Max Excavations and Excavation resets, Maker 2, Maker Union, Faceles Set.</p>
+                <p><b>Note</b>: Buff Max Excavations and Excavation resets, Maker 2, Maker Union, Faceless Set.</p>
                 <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
             </div>
         </div>
@@ -420,8 +420,7 @@
                 <p>E25,E400,E410,</p>
                 <p>A400,A495,</p>
                 <p>W10,W560,W1375</p>
-                <p><b>Notes</b>: Does not need to cast IS until e62 gems.</p>
-                <p><b>Notes</b>: Can be used at R139+ with L45.</p>
+                <p><b>Notes</b>: Does not need to cast IS until 1e62 (100 Nod) Gems+.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -441,7 +440,6 @@
                 <p>E230,E400,E495,</p>
                 <p>A25,A400,A410,</p>
                 <p>W1,W135,W175,W405,W520,W590</p>
-                <p><b>Notes</b>: Can be used from R139 but needs angel perk 5.</p>
                 <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
             </div>
         </div>
@@ -681,8 +679,8 @@
                 <p><b>Note</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
                 <p><b>Note</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
                 <p><b>Note</b>: Meant to be used at the end of A2, but may overshoot on coins (and thus break) before reaching the necessary assistants for Reality Crater if you focus too much on production and have too many gems at the start of the run.</p>
-                <p><b>Note</b>: For maximum production use the same combo as for Angelline Demon, but with Cata:God's Hand.</p>
-                <p><b>Note</b>: For cheapest excavations, excavate during DJc4: A > G > MM, Cata:Gem Grinder and LW:Trophies.</p>
+                <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants 88% Gems 8% Max Mana.</p>
+                <p><b>Note</b>: For cheapest excavations, excavate during DJC4: Aassistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increasesTrophies.</p>
             </div>
         </div>
     </div>

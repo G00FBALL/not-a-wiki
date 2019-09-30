@@ -19,6 +19,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (R116+) 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kiluh</p>
+                <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -41,6 +42,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R116-R120) 0 - 1e43 (10 Td)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
+                <p><b>Range</b>: 0 - 1e43 (10 Td) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -58,9 +60,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R116-R120) 1e40 (10 Dd) - R<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R116-R120) 1e40 (10 Dd) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ashen Rider</p>
+                <p><b>Range</b>: 1e40 (10 Dd) Gems - ?</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -85,6 +88,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50+ (100 Qid)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik
+                <p><b>Range</b>: 1e50 (100 Qid) Gems - ?</p>
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Faceless
@@ -107,6 +111,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel 1e65+ (100 Vg)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik, liminal.shadow
+                <p><b>Range</b>: 1e65 (100 Vg) Gems - ?</p>
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Druid
                 <p><b>Artifact Set</b>: Elf
