@@ -732,7 +732,7 @@
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 3<font color="DarkGoldenRod">Neutral</font></a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Sad and Kiluh</p>
-                        <p><b>Range</b>: ?</p>
+                        <p><b>Range</b>: 1e110 (100 Qitg) Gems+</p>
                         <p><b>Faction</b>: Titan</p>
                         <p><b>Bloodline</b>: Makers</p>
                         <p><b>Artifact Set</b>: Titan</p>
@@ -745,6 +745,7 @@
                         <p>A400,A1200,</p>
                         <p>W260,W1375,W1400</p>
                         <p><b>After Archon treaty</b>: S200,C250,D200,E460,A270,W1275 (Reimport Build)</p>
+                        <p><b>Notes</b>: Buff Resets to at least 50 Excavation Resets this R before attempting this build.
                     </div>
                 </div>
                 <div class="shelementwhole">
