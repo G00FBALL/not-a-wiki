@@ -731,7 +731,7 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 3<font color="DarkGoldenRod">Neutral</font></a></b></p>
                     <div class="autohide">
-                        <p><b>Author</b>: Sad</p>
+                        <p><b>Author</b>: Sad and Kiluh</p>
                         <p><b>Range</b>: ?</p>
                         <p><b>Faction</b>: Titan</p>
                         <p><b>Bloodline</b>: Makers</p>
