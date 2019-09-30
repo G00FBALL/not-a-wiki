@@ -62,7 +62,7 @@
     </div>
     <br/>
     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R125 MAD Mask Fragment Excavation Builds</a></b></p>
-    <div class="category autohide">
+    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Iron Fragment</a></b></p>
             <div class="autohide">
@@ -689,9 +689,9 @@
     </div>
 <br/>
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mad Challenges R135+</a></b></p>
-        <div class="category autohide">
+        <div class="category">
             <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenges</a></b></p>
             <div class="autohide">
             <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archon Challenge 1 1e95 (100 Tg)<font color="blue">Good</font></a></b></p>
