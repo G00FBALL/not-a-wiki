@@ -17,11 +17,29 @@
     <p><b>Production Builds R125-R130</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves (Range?)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+), 0 - 1e47 (100 Qad)<font color="blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Sad</p>
+                <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
+                <p><b>Faction</b>: Elf</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Artifact Set</b>: Elf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A250,A495,W10,W560,W1375" id="Build"></p>
+                <p>S175,S3200,</p>
+                <p>C1,C225,C400,C405,C520,C590,</p>
+                <p>D50,D435,D1375,</p>
+                <p>E25,E410,E3250,</p>
+                <p>A250,A495,</p>
+                <p>W10,W560,W1375</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves, 1e47 (100 Qad) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>               
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Range</b>: 1e47 (100 Qad) Gems - ?</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Elf</p>
