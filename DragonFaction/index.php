@@ -65,7 +65,7 @@
 <p><b>Cost</b>: 1.0e73, 10b (1e10) of each FC</p>
 <p><b>Effect</b>: Gives Dragon Tamer Trophy</p>
 <hr>
-<p><b>Note</b>: In A1, Only 1 Dragon Upgrade per Mercenary tier.</p>
+<p><b>Note</b>: In A1, Only 1 Dragon Upgrade per Mercenary tier and must be purchased with 4th upgrade of each tier.</p>
 <p><b>Note</b>: Mercenaries in A3 can buy Dragon Upgrades with any Mercenary Upgrade with increased price.</p>
 <hr>
 <p><b>Tier 1 Upgrades</b></p>
