@@ -11,7 +11,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (R160-R171)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (R160-R170)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Gem Rush 0+ (R170+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush 0 - 100 Uvg (e68+) (R170+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
@@ -57,6 +57,24 @@
                 <p><b>Note</b>: After buffs, switch W1375 -> W275, Fairy Chanting -> Grand Balance and don't take E3300 to let HoL benefit from DGC2.</p>
             </div>
         </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Demons 100 Uvg (e68+) (R171+)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: B3nSono</p>
+                <p><b>Faction</b>: Demon</p>
+                <p><b>Bloodline</b>: Demon</p>
+                <p><b>Artifact Set</b>: Merc</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S435,S3200,C50,C340,D10,D290,D560,E230,E400,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build"></p>
+                  <p>S435,S3200,</p>
+                  <p>C50,C340,</p>
+                  <p>D10,D290,D560,</p>
+                  <p>E230,E400,E495,</p>
+                  <p>A25,A400,A410,</p>
+                  <p>W1,W175,W205,W405,W520,W590</p>
+                  <p><b>Notes</b>: Have Drow Union target Burning Abyss and wait.</p>
+            </div>
+        </div>
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
@@ -64,7 +82,7 @@
     <p><b>You should get FC during clicks on spell run.</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Faction</b>: Druid</p>
@@ -83,7 +101,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons 10 Dd (1e40) (Assistants)<font color="darkred"> Evil</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons 10 Dd (1e48+) (Assistants)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Faction</b>: Demon</p>
@@ -97,11 +115,12 @@
                   <p>E230,E400,E495,</p>
                   <p>A25,A400,A410,</p>
                   <p>W1,W135,W175,W405,W520,W590</p>
-                  <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana,
+                  <p><b>Notes</b>: Make sure that Drow Union is targetting Burning Abyss for production.</p>
+                  <p><b>Note</b>: Estimated time 1-5 hours.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Dd (1e40) (Spells)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Dd (1e48) (Spells)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -126,7 +145,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin 10 Dd (1e40) (Spells)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin 10 Dd (1e48) (Spells)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: MLGscrub</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -147,7 +166,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)<font color="blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
                 <p><b>Faction</b>: Fairy</p>
@@ -164,7 +183,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (FC)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (FC)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
                 <p><b>Faction</b>: Goblin</p>
