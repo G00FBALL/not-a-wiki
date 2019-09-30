@@ -744,7 +744,7 @@
                         <p>E275,E1225,E1325,</p>
                         <p>A400,A1200,</p>
                         <p>W260,W1375,W1400</p>
-                        <p><b>After Archon treaty</b>: S400,C340,D290,E460,A120,W400 (Reimport Build)</p>
+                        <p><b>After Archon treaty</b>: S200,C250,D200,E460,A270,W1275 (Reimport Build)</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
