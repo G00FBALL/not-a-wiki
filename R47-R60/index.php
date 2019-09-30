@@ -110,7 +110,7 @@
                 <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W150,W180,W260,W400,W1275</p>
                 <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
-                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best production</p>
             </div>
           </div>
         <div class="shelementwhole">
@@ -131,7 +131,7 @@
                 <p>A120,A250,A270,A400,A1200,</p>
                 <p>W120,W150,W180,W260,W400,W1275</p>
                 <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
-                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best production</p>
             </div>
           </div>
         <div class="shelementwhole">
@@ -157,7 +157,7 @@
                 <p>W120,W180,W260,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
                 <p><b>Notes</b>: Swap W1375->W150 if not unlocked</p>
-                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best production</p>
             </div>
           </div>
         <div class="shelementwhole">
@@ -186,7 +186,7 @@
                 <p><b>Notes</b>: Swap E1425->E400 if not unlocked</p>
                 <p><b>Notes</b>: Swap W1275->W320 if not unlocked</p>
                 <p><b>Notes</b>: Swap W1375->W150 if not unlocked</p>
-                <p><b>Notes</b>: Deep Mine strike + Green Breath for best prod</p>
+                <p><b>Notes</b>: Deep Mine strike + Green Breath for best production</p>
             </div>
           </div>
         <div class="shelementwhole">
