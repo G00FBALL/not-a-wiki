@@ -82,7 +82,7 @@
     <p><b>Production Builds R120+</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50+ (100 QiD)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50+ (100 Qid)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage

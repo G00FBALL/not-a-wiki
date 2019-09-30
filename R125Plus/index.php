@@ -404,7 +404,7 @@
     <p><b>Production Builds R148+</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Elves (R139+) 1e59 (100 Ocd) - 1e70 (10 Dvg) Gems<font color="Blue"> Good</font>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Elves (R139+) 1e59 (100 Ocd) - 1e70 (10 Dvg) Gems<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Requirement</b>: Fairy Lineage L45 or Djinn Challenge 4</p>
@@ -425,7 +425,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons (R139+) 1e110 (100 Qitg) Gems+ <font color="darkred"> Evil</font> </p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e110 (100 Qitg) Gems+ <font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
