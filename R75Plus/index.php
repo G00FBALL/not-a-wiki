@@ -15,7 +15,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titan Starter R75<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titan Starter R75</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R75<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R75</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
@@ -49,7 +49,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter R76+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter R76+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Requirement</b>: Demon Lineage 20+ (Demon perk 2 NOT needed)
@@ -68,7 +68,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R76+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R76+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e27 (1 Oc) - 1e88/1e91 (10 Ocvg/10 Novg) Gems</p>
@@ -665,6 +665,5 @@
             </div>
         </div>
     </div>
-</div>
 </div>
 <?php include "../scripts/footer.html"; ?>
