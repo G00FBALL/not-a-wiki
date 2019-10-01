@@ -99,13 +99,15 @@
     </div>
     <p>You can get Lineage for each Faction (12 in Total, 15 in R130+)</p>
     <p>You get 3 perks and a Faction Coin boost plus Champion trophy after reaching level 20.</p>
-    <p><b>Level 5</b>: Perk 1</p>
-    <p><b>Level 10</b>: Specific FC boost</p>
+    <p><b>Base Lineage</b>: Lineage based boost.</p>
+    <p><b>Level 5</b>: Perk 1 - Bloodline based boost.</p>
+    <p><b>Level 10</b>: Faction specific FC boost.</p>
     <p><b>Level 15</b>: Perk 2 - Unlocks Faction spell. (adjusted for your alignment if necessary)</p>
     <p><b>Note</b>: Level 15 Lineage Challenge does not need its Lineage to complete.</p>
-    <p><b>Level 20</b>: Perk 3 plus Grand Champion trophy</p>
-    <p><b>Level 30 (R105+)</b>: Faction Spell boost</p>
-    <p><b>Level 45 (R130+)</b>: Faction specific boost</p>
+    <p><b>Level 20</b>: Perk 3 - Unique Building based boost.</p>
+    <p><b>Note</b>: Perk 3 also allows the unlock of Grand Champion trophy.</p>
+    <p><b>Level 30 (R105+)</b>: Perk 4 - Faction Spell boost</p>
+    <p><b>Level 45 (R130+)</b>: Perk 5 - Faction specific boost</p>
     <br/>
     <center><b>Lineage Menu</b></center>
     <center><img src="http://musicfamily.org/realm/Factions/picks/Lineages.png" usemap="#Lineages-map"></center>
