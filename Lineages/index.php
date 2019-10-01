@@ -97,8 +97,7 @@
             $('#Heirloom, #Hourglass').on('change', calcNextLineageCost);
         </script>
     </div>
-    <p>You can get Lineage for each Faction (12 in Total, 15 in R130+)</p>
-    <p>You get 3 perks and a Faction Coin boost plus Champion trophy after reaching level 20.</p>
+    <p>You can get a Lineage for every faction, 15 total (12 before R130 and 3 more at R130+), every Lineage has 5 perks plus a Faction Coin boost and a Grand Champion Trophy.</p>
     <p><b>Base Lineage</b>: Lineage based boost.</p>
     <p><b>Level 5</b>: Perk 1 - Bloodline based boost.</p>
     <p><b>Level 10</b>: Faction specific FC boost.</p>
