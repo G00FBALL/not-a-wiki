@@ -168,7 +168,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: ?</p>
+                <p><b>Author</b>: Necrodoom, Curunur</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
@@ -185,7 +185,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (FC)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: ?</p>
+                <p><b>Author</b>: Waffle</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Faceless</p>
