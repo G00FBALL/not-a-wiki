@@ -78,6 +78,7 @@
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
+    <p><b>This can be done at R160 but is super easy to reach R170.</b></p>
     <p><b>Do builds in the order listed.</b></p>
     <p><b>All builds are based on online time.</b></p>
     <p><b>All builds tested at R170 with Lineage Level 50.</b></p>
@@ -355,7 +356,7 @@
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
-                <p><b>Bloodline</b>: You</p>
+                <p><b>Bloodline</b>: Any/All</p>
                 <p><b>A2950</b>: Titan</p>
                 <p><b>Artifact Set</b>: Merc</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
