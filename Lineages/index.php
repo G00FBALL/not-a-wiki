@@ -442,10 +442,9 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk4.png" align="middle"><b> Druid Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: Grand Balance lasts longer based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: (2.25 * ln(1 + x) ^ 2.25), where x is amount of assistants you own.</p>
+    <p><b>Formula</b>: (3 * ln(1 + x) ^ 3), where x is amount of assistants you own.</p>
     <p><b>Effect</b>: Also, while Grand Balance is active, increase the production of its targets based on Grand Balance duration.</p>
-    <p><b>Formula</b>: (3 * ln(1+x) ^ 3), where x is spell duration in seconds and y is amount of grand balance targets.</p>
-    <p><b>Note</b>: Ascension 2 penalty is removed</p>
+    <p><b>Formula</b>: ((x ^ 0.5) ^ (1 + 0.01 * y)), where x is spell duration in seconds and y is Grand Balance tier.</p>
     <br/>
     <p><b>level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk5.png" align="middle"> Druid Perk 5</p></b>
