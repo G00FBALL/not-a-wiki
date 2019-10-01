@@ -964,7 +964,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Makers Challenge 5<font color="darkgoldenrod">Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: waffle</p>
+                    <p><b>Author</b>: Waffle</p>
                     <p><b>Range</b>: ?</p>
                     <p><b>Faction</b>: Druid</p>
                     <p><b>Bloodline</b>: Undead</p>
@@ -977,7 +977,7 @@
                     <p>E260,E320,E1225,</p>
                     <p>A251,A375,A400,A1200,A1500,</p>
                     <p>W350,W1375,W1400</p>
-                    <p><b>Note</b>: Needs S400 buffing (?)</p>
+                    <p><b>Note</b>: Needs a S400 of around 500k</p>
                 </div>
             </div>
         </div>
