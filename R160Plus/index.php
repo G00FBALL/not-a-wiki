@@ -78,8 +78,9 @@
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
-    <p><b>Do Clicks, Assistants, Spells and Buildings.</b></p>
-    <p><b>You should get FC during clicks or spell run.</b></p>
+    <p><b>Do builds in the order listed.</b></p>
+    <p><b>All builds are based on online time.</b></p>
+    <p><b>All builds tested at R170 with Lineage Level 50.</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks)</a></b></p>
@@ -120,7 +121,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Dd (1e48) (Spells)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Dd (1e48) (Spells)</a> Testing</b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Requirement</b>: Faceless Lineage 45</p>
@@ -161,8 +162,8 @@
                 <p>E1,E225,E400,E495,E590,</p>
                 <p>A10,A400,A410,</p>
                 <p>W25,W205,W405,W520</p>
-                <p><b>Note</b>: Do the Angeline Demons for assistant before doing this run, it make this build much faster around 20 hours or less.</p>
-                <p><b>Note</b>: Estimated time ?.</p>
+                <p><b>Note</b>: Do Clicks and Assistants first.</p>
+                <p><b>Note</b>: Estimated time 19 hours.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -180,6 +181,7 @@
                 <p>E50,E135,E410,</p>
                 <p>A30,A120,A495,</p>
                 <p>W560,W1375</p>
+                <p><b>Note</b>: Instant after setup.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -198,7 +200,8 @@
                 <p>E1,E225,E320,E495,E590,</p>
                 <p>A10,A400,A410,</p>
                 <p>W25,W205,W405,W520</p>
-                <p><b>Note</b>: Estimated time ?.</p>
+                <p><b>Note</b>: Do Clicks, Assistants and Spells before this build.
+                <p><b>Note</b>: Estimated time 5 minutes.</p>
             </div>
         </div>
     </div>
@@ -369,5 +372,4 @@
             </div>
         </div>
     </div>
-
 <?php include "../scripts/footer.html"; ?>
