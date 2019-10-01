@@ -297,7 +297,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryFourthContract.png" align="middle"> Mercenary Fourth Contract</b></p>
 <p><b>Requirements</b>: R160+, Mercenary Duel purchased</p>
 <p><b>Cost</b>: 100 Qid 1e50</p>
-<p><b>Effect</b>: Unlocks Tier 4 Upgrades 3</p>
+<p><b>Effect</b>: Unlocks Tier 4 Upgrades</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade13.png" align="middle"> Mercenary Upgrade 13</b></p>
 <p>You can purchase a tier 4 upgrade from any faction for an increased price.</p>
