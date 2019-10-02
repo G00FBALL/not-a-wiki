@@ -17,7 +17,7 @@
     <p><b>Production Builds R125-R130</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+), 0 - 1e47 (100 Qad)<font color="blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+), 0 - 1e47 (100 Qad)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves, 1e47 (100 Qad) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves, 1e47 (100 Qad) - ?</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>               
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage</p>
@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel (Range?)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel (Range?)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik, liminal.shadow</p>
                 <p><b>Range</b>: ?</p>
@@ -208,7 +208,7 @@
                 </div>
             </div>
         </div>
-        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">Stone Fragment</font></a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Stone Fragment</a></b></p>
         <div class="category autohide">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">First Stone Fragment <font color="blue">Good</font></a></b></p>
@@ -297,7 +297,7 @@
     <p><b>Production Builds R130+</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+) 0 - 1e47 (100 Qad)<font color="blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+) 0 - 1e47 (100 Qad)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
@@ -315,7 +315,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves (R130+) 1e47 (100 Qad) - 1e70 (10 Dvg)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves (R130+) 1e47 (100 Qad) - 1e70 (10 Dvg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e47 (100 Qad) - 1e70 (10 Dvg) Gems</p>
@@ -336,7 +336,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R130+) 1e70 (10 Dvg) - 1e90 (1 Novg)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R130+) 1e70 (10 Dvg) - 1e90 (1 Novg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
@@ -355,7 +355,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R130+) 1e90+ (1 Novg)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R130+) 1e90+ (1 Novg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -380,7 +380,7 @@
     <p><b>Lineage Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves R139+ (First L45)<font color="blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves R139+ (First L45)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: meta</p>
                 <p><b>Range</b>: ?</p>
@@ -400,10 +400,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler R139+ (L45s)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler R139+ (L45s)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: meta</p>
-                <p><b>Requirement</b>: Goblin Lineage L45</p>
+                <p><b>Requirements</b>: Goblin Lineage L45</p>
+                <p><b>Range</b>: ?</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Any</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -418,14 +419,35 @@
                 <p>W25,W205,W405,W520</p>
                 <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless set.</p>
                 <p><b>Note</b>: Can level most Lineages including Angeline.</p>
-            </div>
+            </div>         
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels R139+ (Makers L45)</a></b> Needs Testing</p>
+            <div class="autohide">
+                <p><b>Author</b>: Silver</p>
+                <p><b>Requirements</b>: Goblin Lineage L45</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Faction</b>: Angel</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S400,S3200,C25,C250,C400,C405,C520,D1,D175,D290,D435,D590,D3350,E135,E320,E410,A400,A50,A120,A495,W225,W400,W560,W1375" id="Build"></p>
+                <p>S10,S400,S3200,</p>
+                <p>C25,C250,C400,C405,C520,</p>
+                <p>D1,D175,D290,D435,D590,D3350,</p>
+                <p>E135,E320,E410,</p>
+                <p>A400,A50,A120,A495,</p>
+                <p>W225,W400,W560,W1375</p>
+                <p><b>Note</b>: Buff Max Excavations and Excavation resets.</p>
+                <p><b>Note</b>: Estimated time to L45 is ?.</p>
+            </div>         
         </div>
     </div>
     <br/>
     <p><b>Production Builds R148+</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Elves (R139+) 1e59 (100 Ocd) - 1e70 (10 Dvg) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Elves (R139+) 1e59 (100 Ocd) - 1e70 (10 Dvg) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Requirement</b>: Fairy Lineage L45 or Djinn Challenge 4</p>
@@ -445,7 +467,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e110 (100 Qitg) Gems+ <font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e110 (100 Qitg) Gems+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
@@ -461,11 +483,11 @@
                 <p>E230,E400,E495,</p>
                 <p>A25,A400,A410,</p>
                 <p>W1,W135,W175,W405,W520,W590</p>
-                <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
+                <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and(R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R154+) 0 - 1e90+ (1 Novg) Gems+ <font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R154+) 0 - 1e90+ (1 Novg) Gems+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Requirement</b>: All challenges completed</p>
@@ -490,7 +512,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (Max Assistants)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (Max Assistants)<a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Range</b>: 1e42 (1 Td) Gems+</p>
@@ -511,7 +533,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1) <font color="DarkRed"> Evil</font></a></b> Need tested</p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1)</a></b> Need tested</p>
             <div class="autohide">
                 <p><b>Author</b>: Curunur</p>
                 <p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
@@ -532,7 +554,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Elves (Clicks)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Elves (Clicks)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ?</p>
@@ -550,7 +572,7 @@
             </div>
         </div>
                 <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (MK2)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (MK2)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom, Curunur</p>
                 <p><b>Range</b>: ?</p>
@@ -568,7 +590,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead R130+ (Max Assistants)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead R130+ (Max Assistants)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ?</p>
@@ -587,7 +609,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Curunur</p>
                 <p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
@@ -607,7 +629,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin R130+ (Max Spell Casts) <font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin R130+ (Max Spell Casts)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik, ElectroFuzz</p>
                 <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
@@ -625,7 +647,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels R135+ (Max Excavations/Excavation resets build)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels R135+ (Max Excavations/Excavation resets build)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: AquaKnight</p>
                 <p><b>Requirement</b>: Archon Challenge 1</p>
@@ -645,7 +667,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin R139+ (Max Spell Casts)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin R139+ (Max Spell Casts)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Requirement</b>: Makers Challenge 2</p>
@@ -665,7 +687,27 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids R143+ (Clicks)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Demons R139+ (Max Assistants)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom</p>
+                <p><b>Requirements</b>: 100 M (1e8) W175+(?)</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Faction</b>: Demon</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><b>Artifact Set</b>: Undead</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S435,S3200,C50,C340,D10,D560,D3350,E230,E400,E495,A25,A400,A410,W1,W135,W175,W405,W520,W590" id="Build"></p>
+                <p>S435,S3200,</p>
+                <p>C50,C340,</p>
+                <p>D10,D560,D3350,</p>
+                <p>E230,E400,E495,</p>
+                <p>A25,A400,A410,</p>
+                <p>W1,W135,W175,W405,W520,W590</p>
+                <p><b>Notes</b>: Make sure that Catalyst hits Gem Grinder, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids R143+ (Clicks)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Requirement</b>: Makers Challenge 3</p>
@@ -689,9 +731,10 @@
     <p><b>Utility Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Fairy R125 (Djinn Unlock) 1e78 (100 Uvg)<font color="blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Fairy R125 (Djinn Unlock)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: CassiusWilhelm</p>
+                <p><b>Requirements</b>: 1e78 (100 Uvg) Gems+</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -707,9 +750,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Undead R130+ (Chrono Loading) 1e89 (100 Ocvg)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Undead R130+ (Chrono Loading)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Akanezuliani</p>
+                <p><b>Requirements</b>: 1e89 (100 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Undead</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Undead</p>
@@ -725,7 +769,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons R153+ (End of A2 - ruby #41 excavator)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons R153+ (End of A2 - ruby #41 excavator)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Faction</b>: Demon</p>
@@ -755,7 +799,6 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 1s (R135)</a></b></p>
             <div class="autohide">
                 <p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build.</p>
-                </br>
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Archon Challenge 1)</a></b></p>
                     <div class="autohide">
@@ -972,7 +1015,8 @@
             </div>
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 5s (R153)</a></b></p>
             <div class="category autohide">  
-                <p>Djinn Challenge 5 requires Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst. Use Faceless to immidiately get the Catalyst casts.</p>
+                <p>Djinn Challenge 5 requires Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst.</p> 
+                <p>Use Faceless to immidiately get the Catalyst casts and Fairy or Demon for the Limited Wish casts.</p>
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Druid (Makers Challenge 5)</a></b></p>
                     <div class="autohide">
