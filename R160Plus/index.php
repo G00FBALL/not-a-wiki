@@ -109,7 +109,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons (Assistants)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
-                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
+                <p><b>Range</b>: 1e40 (10 Dd) Gems+</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Angel</p>
                 <p><b>Artifact Set</b>: Demon</p>
@@ -126,35 +126,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Spells)</a> Testing</b></p>
-            <div class="autohide">
-                <p><b>Author</b>: ?</p>
-                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
-                <p><b>Faction</b>: Titan</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Dragon</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S400,S1450,C251,C375,C400,C1300,C1500,D200,D350,D1125,E135,E275,E1225,A400,A1200,W260,W1275,W1400,S200,C340,D290,E145,A120,W135,S30,C105,D150,E320,A3400,W1375,S500,C250,D330,E1325,A270,W400" id="Build"></p>
-                <p>S300,S400,S1450,</p>
-                <p>C251,C375,C400,C1300,C1500,</p>
-                <p>D200,D350,D1125,</p>
-                <p>E135,E275,E1225,</p>
-                <p>A400,A1200,</p>
-                <p>W260,W1275,W1400</p>
-                <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
-                <p>S200,C340,D290,E145,A120,W135,</p>
-                <p>S30,C105,D150,E320,A3400,W1375</p>
-                <p>S500,C250,D330,E1325,A270,W400,</p>
-                <p><b>Note</b>: Build is listed in order of purchase.</p>
-                <p><b>Note</b>: Estimated time 27 hours with no buff run.</p>
-                <p><b>Note</b>: Do the Angeline Demons for assistant before doing this run, it make this build much faster around 20 hours or less.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin (Spells)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: MLGscrub</p>
-                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
+                <p><b>Range</b>: 1e40 (10 Dd) Gems+</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Demons</p>
                 <p><b>Artifact Set</b>: Faceless</p>
