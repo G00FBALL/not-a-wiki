@@ -43,6 +43,7 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Elf</p>
+                <p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -487,11 +488,11 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (W275)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairy (Max Assistants)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
-                <p><b>Range</b>: 1e42 (1 TD) Gems+</p>
-                <p><b>Faction</b>: Fairy/Dwarf</p>
+                <p><b>Range</b>: 1e42 (1 Td) Gems+</p>
+                <p><b>Faction</b>: Fairy/Dwarf/Djinn</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -508,13 +509,13 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1) (1e95)<font color="DarkRed"> Evil</font></a></b> Need tested</p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1) <font color="DarkRed"> Evil</font></a></b> Need tested</p>
             <div class="autohide">
                 <p><b>Author</b>: Curunur</p>
+                <p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
                 <p><b>Faction</b>: Goblin/Drow/Makers</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
-                <p><b>Range</b>: 1e95 (100 Tg)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S50,S435,S3200,C175,C3100,D245,D560,E1,E225,E495,E590,E1325,A10,A120,A410,W25,W205,W405,W520" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -529,13 +530,51 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)<font color="DarkRed"> Evil</font></a></b> <b>(At R148+ add Faceless Set Buffed)</b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Elves (Clicks)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Faction</b>: Elf/Dwarf/Makers</p>
+                <p><b>Bloodline</b>: Djinn</p>
+                <p><b>Artifact Set</b>: Elf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A400,A495,W10,W560,W1375" id="Build"></p>
+                <p>S175,S3200,</p>
+                <p>C1,C225,C400,C405,C520,C590,</p>
+                <p>D50,D435,D1375,</p>
+                <p>E25,E400,E410,</p>
+                <p>A400,A495,</p>
+                <p>W10,W560,W1375</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead R130+ (Max Assistants)<font color="darkred"> Evil</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Sad</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Faction</b>: Undead</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S225,S400,S435,C400,D25,D290,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E135,A270,W1275" id="Build"></p>
+                <p>S225,S400,S435</p>
+                <p>C400,</p>
+                <p>D25,D290,D560,</p>
+                <p>E10,E400,E495,</p>
+                <p>A1,A175,A400,A410,A590,</p>
+                <p>W50,W205,W405,W520</p>
+                <p><b>After Archon Treaty</b>: S200,C340,D3350,E135,A270,W1275 (Reimport Build)</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Curunur</p>
+                <p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
                 <p><b>Faction</b>: Goblin/Drow/Makers</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Stoneheart Set (R148+, MKC4)</b>: Faceless</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S50,S400,S435,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520" id="Build"></p>
                 <p>S50,S400,S435,</p>
@@ -551,10 +590,10 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (MK2)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom, Curunur</p>
+                <p><b>Range</b>: ?</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Fairy</p>
-                <p><b>Range</b>: ?
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,D1375,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build"></p>
                 <p>S1,S180,S590,S3200,</p>
@@ -566,15 +605,16 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin R130+ (S400) 1e88+ (10 Ocvg)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin R130+ (Max Spell Casts) <font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik, ElectroFuzz</p>
+                <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Undead</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S3200,S435,C175,C340,D290,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
-                <p>S50,S3200,S435,
+                    <input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E135,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
+                <p>S50,S435,S3200</p>
                 <p>C175,C340,</p>
                 <p>D290,D560,</p>
                 <p>E1,E135,E225,E495,E590,</p>
@@ -583,34 +623,17 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead R135+ (Max Assistants)<font color="darkred"> Evil</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Sad</p>
-                <p><b>Faction</b>: Undead</p>
-                <p><b>Bloodline</b>: Fairy</p>
-                <p><b>Artifact Set</b>: Dwarf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S225,S435,S400,C400,D25,D290,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W520,W405,S200,C340,D3350,E135,A270,W1275" id="Build"></p>
-                <p>S225,S435,S400,
-                <p>C400,</p>
-                <p>D25,D290,D560,</p>
-                <p>E10,E400,E495,</p>
-                <p>A1,A175,A400,A410,A590,</p>
-                <p>W50,W205,W520,W405</p>
-                <p><b>After Archon Treaty</b>: S200,C340,D3350,E135,A270,W1275 (Reimport Build)</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels R135+ (Max Excavations/Excavation resets build)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: AquaKnight</p>
                 <p><b>Requirement</b>: Archon Challenge 1</p>
+                <p><b>Range</b>: ?</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Maker</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A400,A495,W180,W225,W560,S400,C340,D290,E290,A120,W400" id="Build"></p>
-                <p>S10,S3200,
+                <p>S10,S3200,</p>
                 <p>C25,C400,C405,C520,</p>
                 <p>D1,D175,D435,D590,D1375,</p>
                 <p>E400,E410,</p>
@@ -620,22 +643,43 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin R139+ (S400)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin R139+ (Max Spell Casts)<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Requirement</b>: Makers Challenge 2</p>
+                <p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Angel</p>
                 <p><b>Artifact Set</b>: Undead</p>
+                <p><b>Stoneheart Set (R148+, MKC4)b>: Dwarf (Faceless if buffed)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S3200,S435,C175,C340,D290,D560,E1,E400,E225,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
-                <p>S50,S3200,S435,
+                    <input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E400,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
+                <p>S50,S435,S3200,</p>
                 <p>C175,C340,</p>
                 <p>D290,D560,</p>
-                <p>E1,E400,E225,E495,E590,</p>
+                <p>E1,E225,E400,E495,E590,</p>
                 <p>A10,A400,A410,</p>
                 <p>W25,W205,W405,W520</p>
-                <p><b>Note</b>: with Makers Challenge 4, also take Dwarf set, or Facelesset if buffed.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids R143+ (Clicks)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom</p>
+                <p><b>Requirement</b>: Makers Challenge 3</p>
+                <p><b>Range</b>: ?</p>                
+                <p><b>Faction</b>: Druid/Dragon/Makers</p>
+                <p><b>Bloodline</b>: Elf</p>
+                <p><b>Artifact Set</b>: Druid</p>
+                <p><b>Stoneheart Set (R148+, MKC4)</b>: Faceless</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E260,E1225,E1425,A251,A400,A1200,A1500,W350,W1375,W1400" id="Build"></p>
+                <p>S1450,S3200,</p>
+                <p>C300,C400,C1300,</p>
+                <p>D275,D290,D1125,</p>
+                <p>E260,E1225,E1425,</p>
+                <p>A251,A400,A1200,A1500,</p>
+                <p>W350,W1375,W1400</p>
             </div>
         </div>
     </div>
