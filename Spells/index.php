@@ -227,9 +227,10 @@
     <p><b>Note</b>: Dragon's Breath will cast a random Dragon's Breath color for 6th and above casts.</p>
     <p><b>From R100+</b>, for each default spell, tier 7 spell upgrades becomes available.
     <p>Tier upgrade names start with the default spell's name followed by the tier number, starting from 2 to 7 (Holy Light 2, Holy Light 3, etc.)</p>
-    <p>Once tier spell upgrades are bought, you will need to use the Tiered Autocasting on each tier upgraded spell to set the amount of tier casts you wish, or else the casts will remain at tier 1.</p>
+    <p>Tiered Autocasting will automatically set the autocasted spell tier at the highest you have bought, but you can change it to a lower tier if you wish.</p>
     <p><b>Offline bonus for spell tier</b>: (m + 100 * r)^(1 + 0.15 * (t)) where m is max mana, r is regen, t is tier.</p>
-    <p><b>Note</b>: For offline bonuses, A1 tier upgrades count as A0 upgrades and A2 tier upgrades count as A1 upgrades for ascension penalty purposes.    <p><b>Unlock Formulas</b></p>
+    <p><b>Note</b>: For offline bonuses, A1 tier upgrades count as A0 upgrades and A2 tier upgrades count as A1 upgrades for ascension penalty purposes.</p>
+    <p><b>Unlock Formulas</b></p>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)</p>
     <p>Time for tier: Formula: 43200 * ((T - 0.5 * A) ^ 2 - (T - 0.5 * A)) * 0.98 ^ (R - (T - 0.5 * (A + 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.</p>
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}</p>
