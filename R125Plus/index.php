@@ -17,7 +17,7 @@
     <p><b>Production Builds R125-R130</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+), 0 - 1e47 (100 Qad)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves, 0 - 1e47 (100 Qad)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves, 1e47 (100 Qad) - ?</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves, 1e47 (100 Qad) - ?</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>               
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage</p>
@@ -297,7 +297,7 @@
     <p><b>Production Builds R130+</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R130+) 0 - 1e47 (100 Qad)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e47 (100 Qad)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
@@ -315,7 +315,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves (R130+) 1e47 (100 Qad) - 1e70 (10 Dvg)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e47 (100 Qad) - 1e70 (10 Dvg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e47 (100 Qad) - 1e70 (10 Dvg) Gems</p>
@@ -336,7 +336,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R130+) 1e70 (10 Dvg) - 1e90 (1 Novg)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e70 (10 Dvg) - 1e90 (1 Novg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
@@ -355,7 +355,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R130+) 1e90+ (1 Novg)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90+ (1 Novg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -773,7 +773,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Undead R130+ (Chrono Loading)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Akanezuliani</p>
-                <p><b>Requirements</b>: 1e89 (100 Ocvg) Gems+</p>
+                <p><b>Requirements</b>: 1e89 (100 Ocvg) Gems</p>
                 <p><b>Faction</b>: Undead</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Undead</p>
