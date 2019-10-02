@@ -194,7 +194,7 @@
             </div>
         </div>
         <br/>
-        <p><b>Elite Prestige Challenges</b></p>
+        <p><b>Elite Challenges</b></p>
         <div class="category">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 1s (R135)</a></b></p>
