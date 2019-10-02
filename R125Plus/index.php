@@ -759,13 +759,13 @@
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Elf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D435,D1375,E50,E400,E410,A30,A120,A495,W3150,W560" id="Build"></p>
+                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D435,D1375,E50,E400,E410,A30,A120,A495,W560,W3150" id="Build"></p>
                 <p>S1,S180,S400,S590,</p>
                 <p>C10,C340,C405,C520,</p>
                 <p>D225,D435,D1375,</p>
                 <p>E50,E400,E410,</p>
                 <p>A30,A120,A495,</p>
-                <p>W3150,W560</p>
+                <p>W560,W3150</p>
                 <p><b>Notes</b>: Cycle Maelstrom to target inns and set the correct fairy union buff.</p>
             </div>
         </div>
