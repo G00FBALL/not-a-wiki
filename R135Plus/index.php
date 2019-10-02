@@ -168,7 +168,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons R153+ (End of A2 - ruby #41 excavator)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons (R157+) (End of A2 - ruby #41 excavator)</a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Rellikrellik</p>
                         <p><b>Faction</b>: Demon</p>
@@ -184,12 +184,12 @@
                             <p>E230,E290,E495,</p>
                             <p>A25,A400,A410,</p>
                             <p>W1,W175,W205,W405,W520,W590</p>
-                            <p><b>Note</b>: Needs several days to grow for both production and assistants -> Reality Crater.</p>
-                            <p><b>Note</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
-                            <p><b>Note</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
-                            <p><b>Note</b>: Meant to be used at the end of A2, but may overshoot on coins (and thus break) before reaching the necessary assistants for Reality Crater if you focus too much on production and have too many gems at the start of the run.</p>
+                            <p><b>Notes</b>: Needs several days to grow for both production and assistants -> Reality Crater.</p>
+                            <p><b>Notes</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
+                            <p><b>Notes</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
+                            <p><b>Notes</b>: Meant to be used at the end of A2, but may overshoot on coins (and thus break) before reaching the necessary assistants for Reality Crater if you focus too much on production and have too many gems at the start of the run.</p>
                             <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants 88% Gems 8% Max Mana.</p>
-                            <p><b>Note</b>: For cheapest excavations, excavate during DJC4: Aassistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increasesTrophies.</p>
+                            <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Aassistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increasesTrophies.</p>
                     </div>
                 </div>
             </div>
@@ -492,7 +492,7 @@
             <p><b>Lineage Builds</b></p>
             <div class="category">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves R139+ (First L45)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R139+) (First L45)</a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Meta</p>
                         <p><b>Range</b>: ?</p>
@@ -514,7 +514,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler R139+ (L45s)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (R139+) (L45s)</a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Meta</p>
                         <p><b>Requirements</b>: Goblin Lineage L45</p>
@@ -538,7 +538,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels R139+ (Makers L45)</a></b> Needs Testing</p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (R139+) (Makers L45)</a></b> Needs Testing</p>
                     <div class="autohide">
                         <p><b>Author</b>: Silver</p>
                         <p><b>Requirements</b>: Goblin Lineage L45</p>
@@ -586,7 +586,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Demons R139+ (Max Assistants)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Demons (R139+) (Max Assistants)</a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Necrodoom</p>
                         <p><b>Requirements</b>: 100 M (1e8) W175+(?)</p>
@@ -650,7 +650,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids R143+ (Clicks)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (R143+) (Clicks)</a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Necrodoom</p>
                         <p><b>Requirement</b>: Makers Challenge 3</p>
@@ -712,7 +712,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin R139+ (Max Spell Casts)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin (R139+) (Max Spell Casts)</a></b></p>
                     <div class="autohide">
                         <p><b>Author</b>: Rellikrellik</p>
                         <p><b>Requirement</b>: Makers Challenge 2</p>
