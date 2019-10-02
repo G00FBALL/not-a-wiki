@@ -58,6 +58,6 @@
 <p><b>Tier 10</b>: First Building 3.2 B</p>
 <p><b>Tier 11</b>: First Building 200b</p>
 <p>Cost of buying next building increase based on amount of building of that type.</p>
-<p><b>Formula Pre A</b>: y*1.15^x, where y is cost of first building and x is number of building of that type.</p>
-<p><b>Formula Post A</b>: y*1.03^x, where y is cost of first building and x is number of building of that type.</p>
+<p><b>Formula Pre A</b>: b*1.15^x, where b is cost of first building and x is number of building of that type.</p>
+<p><b>Formula A1+  </b>: b*(1+((0.15 - r) / 5*A ))^x, where b is cost of first building, x is number of building of that type, r is your flat cost reduction (i.e. from Gobline) and A is your Ascencion</p>
 <?php include "../scripts/footer.html"; ?>
