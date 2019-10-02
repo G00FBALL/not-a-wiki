@@ -119,12 +119,11 @@
                           <p><b>Bloodline</b>: Druid</p>
                           <p><button onclick="myFunction($(this))">Copy Build</button>
                           <input type="text" value="FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"></p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
                           <p><b>Mercenary Template</b>:</p>
                           <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
                           <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
                           <p>by <b>pseudobyte</b></p>
-                          <p>This build is for generating mana to unlock the various autocasting upgrades up to Masterful Autocasting.</p>
+                          <p>This build is for generating mana to unlock the various autocasting upgrades up to Efficient Autocasting.</p>
                         </div>
                 </div>
                 <div class="shelementwhole">
