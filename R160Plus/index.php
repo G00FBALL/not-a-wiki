@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush 0 - 1e68 (100 Uvg) (R170+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush 0 - (R170+) 1e68 (100 Uvg) <b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
@@ -59,9 +59,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Demons 100 Uvg (e68+) (R171+)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Demons (R171+) 1e68 (100 Uvg)+ </a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: B3nSono</p>
+                <p><b>Range</b>: 1e68 (100 Uvg) Gems+</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Demon</p>
                 <p><b>Artifact Set</b>: Merc</p>
@@ -85,9 +86,10 @@
     <p><b>All builds tested at R170 with Lineage Level 50.</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids 0+ Gems (Clicks)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (Clicks)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
+                <p><b>Range</b>: 0 Gems+</p>
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Druid</p>
@@ -104,9 +106,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons 10 Dd (1e48+) (Assistants)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons (Assistants)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
+                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Angel</p>
                 <p><b>Artifact Set</b>: Demon</p>
@@ -123,10 +126,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans 10 Dd (1e48) (Spells)</a> Testing</b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Spells)</a> Testing</b></p>
             <div class="autohide">
-                <p><b>Author</b>: :)</p>
-                <p><b>Requirement</b>: Faceless Lineage 45</p>
+                <p><b>Author</b>: ?</p>
+                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Dragon</p>
@@ -138,7 +141,7 @@
                 <p>E135,E275,E1225,</p>
                 <p>A400,A1200,</p>
                 <p>W260,W1275,W1400</p>
-                <p><b>After Archon treaty</b>: Reload Build and after each new research slot opens.</p>
+                <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
                 <p>S200,C340,D290,E145,A120,W135,</p>
                 <p>S30,C105,D150,E320,A3400,W1375</p>
                 <p>S500,C250,D330,E1325,A270,W400,</p>
@@ -148,10 +151,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin 10 Dd (1e48) (Spells)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin (Spells)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: MLGscrub</p>
-                <p><b>Requirement</b>: Faceless Lineage 45</p>
+                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Demons</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -172,6 +175,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom, Curunur</p>
+                <p><b>Range</b>: ?</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
@@ -187,9 +191,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (FC)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (Faction Coins)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Waffle</p>
+                <p><b>Range</b>: ?</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -202,7 +207,7 @@
                 <p>E1,E225,E320,E495,E590,</p>
                 <p>A10,A400,A410,</p>
                 <p>W25,W205,W405,W520</p>
-                <p><b>Note</b>: Do Clicks, Assistants and Spells before this build.
+                <p><b>Note</b>: Do Clicks, Assistants and Spells before this build.</p>
                 <p><b>Note</b>: Estimated time 5 minutes.</p>
             </div>
         </div>
@@ -211,9 +216,10 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells - 100 Qid (e50+) Gems</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e50 (100 Qid) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
@@ -236,9 +242,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants - 1 Ocd (1e57+)</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
@@ -258,9 +265,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks - 10 Spd (e55+)<b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks<b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik - KuraTheDog</p>
+                <p><b>Author</b>: Rellikrellik, KuraTheDog</p>
+                <p><b>Range</b>: 1e55 (10 Spd) Gems+</p>
                 <p><b>Alignment</b>: Good/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Djinn</p>
                 <p><b>A2950</b>: Elf</p>
@@ -279,9 +287,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets - 100 Vg (e65+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: :)</p>
+                <p><b>Author</b>: ?</p>
+                <p><b>Range</b>: 1e65 (100 Vg) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
@@ -305,9 +314,10 @@
     <p><b>Lineage Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush - 1 Ocd (e57+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: kuerti</p>
+                <p><b>Author</b>: Kuerti</p>
+                <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Elf</p>
@@ -328,9 +338,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth - 1 Vg (1e63+)</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Archon</p>
                 <p><b>A2950</b>: Elf</p>
@@ -348,14 +359,15 @@
                   <p>E135,E1325,E320,E145,</p>
                   <p>A120,A3400,A1500,A270,</p>
                   <p>W275,W1400,W1375,W1275</p>
-                  <p><b>Notes</b>: Reload build after each new research slot opens</p>
+                  <p><b>Notes</b>: Reimport build after each new research slot opens</p>
                   <p><b>Notes</b>: Buff excavations and resets, S400, W275 beforehand.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler - 1 Vg (1e63+)<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Any/All</p>
                 <p><b>A2950</b>: Titan</p>
