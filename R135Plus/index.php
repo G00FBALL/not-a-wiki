@@ -633,7 +633,6 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Elves (Clicks)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
-                    <p><b>Requirements</b>: Able to afford MAD Masks before Maker Treaty</p>
                     <p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
                     <p><b>Faction</b>: Elf/Dwarf/Makers</p>
                     <p><b>Bloodline</b>: Djinn</p>
