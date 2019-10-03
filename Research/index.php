@@ -345,7 +345,7 @@
 <p><b>Requirement</b>: Mercenary Encampment Quest</p>
 <p><b>Cost</b>: 100 Qag (1e125)</p>
 <p><b>Effect 1</b>: Allows access to Research Facilities</p>
-<p><b>Effect 2</b>: Upgrade Alchemist Labs to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (2 * x ^ 1), where x is assistants you had in a single game (This R)</p>
+<p><b>Effect 2</b>: Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
+<p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
 <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
 <?php include "../scripts/footer.html"; ?>
