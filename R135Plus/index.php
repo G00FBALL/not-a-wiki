@@ -227,7 +227,7 @@
                         <div class="autohide">
                             <p><b>Author</b>: Sad</p>
                             <p><b>Faction</b>: Fairy</p>
-                            <p><b>Range</b>: ?</p>
+                            <p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
                             <p><b>Bloodline</b>: Goblin</p>
                             <p><b>Artifact Set</b>: Fairy</p>
                             <p>
@@ -250,7 +250,7 @@
                         <div class="autohide">
                             <p><b>Author</b>: Sad</p>
                             <p><b>Faction</b>: Demon</p>
-                            <p><b>Range</b>: ?</p>
+                            <p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
                             <p><b>Bloodline</b>: Djinn</p>
                             <p><b>Artifact Set</b>: Undead</p>
                             <p>
@@ -270,7 +270,7 @@
                         <div class="autohide">
                             <p><b>Author</b>: Fabi676</p>
                             <p><b>Requirements</b>: 50+ Excavation Resets</p>
-                            <p><b>Range</b>: ?</p>
+                            <p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
                             <p><b>Faction</b>: Undead</p>
                             <p><b>Bloodline</b>: Archon</p>
                             <p><b>Artifact Set</b>: Undead</p>
@@ -292,7 +292,7 @@
                         <div class="autohide">
                             <p><b>Author</b>: Curunur</p>
                             <p><b>Requirements</b>: Archon Challenge 2</p>
-                            <p><b>Range</b>: ?</p>
+                            <p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
                             <p><b>Faction</b>: Goblin</p>
                             <p><b>Bloodline</b>: Makers</p>
                             <p><b>Artifact Set</b>: Faceless</p>
@@ -354,7 +354,7 @@
                         </div>
                     </div>
                     <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Titans (Archon Challenge 3)</a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Titans (Archon Challenge 3)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Sad and Kiluh</p>
                             <p><b>Requirements</b>: 50+ Excavation Resets</p>
@@ -442,7 +442,7 @@
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Druid (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Waffle</p>
-                            <p><b>Range</b>: ?</p>
+                            <p><b>Range</b>: 1e130 (10 Dqga) Gems+</p>
                             <p><b>Faction</b>: Druid</p>
                             <p><b>Bloodline</b>: Undead</p>
                             <p><b>Artifact Set</b>: Facelesset</p>
@@ -465,7 +465,7 @@
                         <div class="autohide">
                             <p><b>Author</b>: Rellikrellik</p>
                             <p><b>Requirement</b>: Djinn Challenge 5, Makers Challegne 5, Faceless Lineage 45</p>
-                            <p><b>Range</b>: ?</p>
+                            <p><b>Range</b>: 1e130 (10 Dqga) Gems+</p>
                             <p><b>Faction</b>: Titan</p>
                             <p><b>Bloodline</b>: Faceless</p>
                             <p><b>Artifact Set</b>: Dragon</p>
@@ -633,7 +633,7 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Elves (Clicks)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
-                    <p><b>Range</b>: ?</p>
+                    <p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
                     <p><b>Faction</b>: Elf/Dwarf/Makers</p>
                     <p><b>Bloodline</b>: Djinn</p>
                     <p><b>Artifact Set</b>: Elf</p>
