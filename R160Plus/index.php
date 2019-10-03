@@ -13,7 +13,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (R160-R170)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Rellikrellik</p>             
+                <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Faceless</p>
@@ -129,7 +129,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin (Spells)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: MLGscrub</p>
-                <p><b>Range</b>: 1e40 (10 Dd) Gems+</p>
+                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Demons</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -150,7 +150,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom, Curunur</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Range</b>: 1e53 (100 Sxd)</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
@@ -169,7 +169,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (Faction Coins)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Waffle</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Range</b>: 1e53 (100 Sxd)</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Faceless</p>
