@@ -313,7 +313,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth (L70+)</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
