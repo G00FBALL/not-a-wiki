@@ -596,14 +596,14 @@
                     <p><b>Artifact Set</b>: Undead</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S435,S3200,C50,C340,D10,D560,D3350,E230,E400,E495,A25,A400,A410,W1,W135,W175,W405,W520,W590" id="Build">
+                        <input type="text" value="S435,S3200,C50,C340,D10,D560,D3350,E230,E400,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build">
                     </p>
                     <p>S435,S3200,</p>
                     <p>C50,C340,</p>
                     <p>D10,D560,D3350,</p>
                     <p>E230,E400,E495,</p>
                     <p>A25,A400,A410,</p>
-                    <p>W1,W135,W175,W405,W520,W590</p>
+                    <p>W1,W175,W205,W405,W520,W590</p>
                     <p><b>Notes</b>: Make sure that Catalyst hits Gem Grinder, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
                 </div>
             </div>
