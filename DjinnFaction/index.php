@@ -130,7 +130,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation in seconds.</p>
 <hr>
 <p><b>R130+</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</p></b>

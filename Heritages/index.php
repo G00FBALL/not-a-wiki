@@ -99,7 +99,7 @@
 <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
 <p><b>Requirements</b>: Djinn Champion Trophy<p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Note</b>: Not available till R125</p>
