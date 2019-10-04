@@ -133,7 +133,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenomicon (Know Your Enemy, Part 2) (R75+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenomicon (Know Your Enemy Part 2) (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
