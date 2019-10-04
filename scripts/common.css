@@ -482,3 +482,6 @@ h7 {
 .autohide, .category {
     padding-left: 3%;
 }
+p {
+		word-break: break-all;
+}
