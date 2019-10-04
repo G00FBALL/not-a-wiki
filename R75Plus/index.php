@@ -433,7 +433,6 @@
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>A2950</b>: Dragon</p>
-                <p><b>13th Upgrade</b>: FR1</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="FR7,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:FR1,SP:Dragon's Breath,SP:God's Hand,S305,S330,S400,S1275,S1450,S1500,C225,C400,C590,C1300,C1500,C3100,D25,D200,D290,D525,D1275,D3350,E50,E135,E410,E1225,E3250,E3300,A105,A120,A545,A1500,A2950,A3400,W180,W275,W400,W1275,W1400,W3150" id="Build"></p>
                 <p>FR7,EL3,EL7,AN2,AN5,TT6,DD5,FC7,DN2,DG3,DG4,DG9,MA:FR1,</p>
@@ -502,13 +501,14 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Power EL20 (R75)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Good Mercenary requires high clicks count this R (100k-200k+)</p>
+                <p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Elf</p>
-                <p><b>13th Upgrade</b>: AN6 (FR7 if it means you can cast an extra SB tier)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S330,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1325,A1500,W180,W275,W400,W1275,W1375,W1400" id="Build"></p>
+					<p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S330,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1325,A1500,W180,W275,W400,W1275,W1375,W1400" id="Build"> Extra SB tier</p>
                 <p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
                 <p>S200,S215,S305,S330,S1275,S1450,S1500,</p>
@@ -517,6 +517,7 @@
                 <p>E80,E135,E320,E350,E590,E1225,</p>
                 <p>A120,A270,A305,A545,A1325,A1500,</p>
                 <p>W180,W275,W400,W1275,W1375,W1400</p>
+				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra SB tier.<p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -550,14 +551,15 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission EL25 (R77)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Good Mercenary requires high clicks count this R (100k-200k+)</p>
+                <p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>A2950</b>: Dragon</p>
-                <p><b>13th Upgrade</b>: AN6 (FR7 if it means you can cast an extra SB tier)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400" id="Build"></p>
+					<p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400" id="Build"> Extra SB tier</p>
                 <p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
                 <p>S200,S215,S305,S1275,S1450,S1500,</p>
@@ -566,13 +568,14 @@
                 <p>E80,E135,E320,E350,E590,E1225,</p>
                 <p>A120,A270,A305,A545,A1500,A2950,</p>
                 <p>W180,W275,W400,W1275,W1375,W1400</p>
+				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra SB tier.<p>
             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission L25s (R77)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Good Mercenary requires high clicks count this R (100k-200k+)</p>
+                <p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: All (1 at a time)</p>
@@ -595,14 +598,15 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Harvest DWL30+ (R82+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Good Mercenary requires high clicks count this R (100k-200k+)</p>
+                <p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Drow</p>
                 <p><b>A2950</b>: Elf
-                <p><b>13th Upgrade</b>: AN6 (FR7 if it means you can cast an extra SB tier)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E350,E1225,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"></p>
+					<p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E350,E1225,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"> Extra SB tier</p>
                 <p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
                 <p>S200,S215,S305,S1275,S1450,S1500,</p>
@@ -613,20 +617,22 @@
                 <p>W275,W400,W1275,W1375,W1400,W3150</p>
                 <p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
                 <p><b>Notes</b>: Use this build first if you have 300K-500K clicks this R, otherwise do Elf first</p>
+				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra SB tier.<p>
             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Harvest EL30+ (R82+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Good Mercenary requires high clicks count this R (100k-200k+)</p>
+                <p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Elf</p>
-                <p><b>A2950</b>: Dragon
-                <p><b>13th Upgrade</b>: AN6 (FR7 if it means you can cast an extra SB tier)</p>
+                <p><b>A2950</b>: Dragon</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E350,E1225,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"></p>
+					<p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E350,E1225,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"> Extra SB tier</p>
                 <p>EL1,EL3,EL4,L7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
                 <p>S200,S215,S305,S1275,S1450,S1500,</p>
@@ -637,17 +643,18 @@
                 <p>W275,W400,W1275,W1375,W1400,W3150</p>
                 <p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
                 <p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
+				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra SB tier.<p>
             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Harvest L30s (R82+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Good Mercenary requires high clicks count this R (100k-200k+)</p>
+                <p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: All (1 at a time)</p>
-                <p><b>A2950</b>: Elf (Dragon if Elfline)
+                <p><b>A2950</b>: Elf (Dragon if Elfline)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E1225,E590,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -661,7 +668,7 @@
                 <p>A120,A270,A305,A1500,A2950,A3400,</p>
                 <p>W275,W400,W1275,W1375,W1400,W3150</p>
                 <p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
-                <p><b>Notes</b>: Replace AN6 with FR7 if it means you cna cast an extra Share Benefits tier.</p>
+                <p><b>Notes</b>: Swap AN6 with FR7 if it means you cna cast an extra Share Benefits tier.</p>
             </div>
         </div>
     </div>
