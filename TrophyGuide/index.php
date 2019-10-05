@@ -13,7 +13,7 @@
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R0 Trophies</a></b></p>
         <div class="autohide">
        <a id="TrophiesBR0"></a>
-    <table class="TrophiesBR0">
+    <table class="numtable">
         <thead>
         <tr>
             <th colspan="5">Beginning of R0</th>
