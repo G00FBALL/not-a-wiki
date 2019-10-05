@@ -264,6 +264,7 @@
                             <p>E230,E400,E495,</p>
                             <p>A25,A410,A3400,</p>
                             <p>W1,W175,W205,W405,W520,W590</p>
+							<p><b>Notes</b>: Estimated time of 0.5-1.5 hours to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -285,7 +286,8 @@
                             <p>E10,E320,E400,E495,</p>
                             <p>A1,A120,A175,A410,A590,A3400,</p>
                             <p>W50,W205,W405,W520,W1375</p>
-                            <p><b>Notes</b>: Estimated time of 12(?) hours to complete.</p>
+							<p><b>Notes</b>: Buff Max Spell Casts with Dragonline Goblins (Max Spell Casts) first.</p>
+                            <p><b>Notes</b>: Estimated time of 12-18 hours to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
