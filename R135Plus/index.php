@@ -551,14 +551,15 @@
                     <p><b>Artifact Set</b>: Dwarf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S400,S3200,C25,C250,C400,C405,C520,D1,D175,D290,D435,D590,D3350,E135,E320,E410,A400,A50,A120,A495,W225,W400,W560,W1375" id="Build">
+                        <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W1375,S400,C250,D3350,E320,A120,W400" id="Build">
                     </p>
-                    <p>S10,S400,S3200,</p>
-                    <p>C25,C250,C400,C405,C520,</p>
-                    <p>D1,D175,D290,D435,D590,D3350,</p>
-                    <p>E135,E320,E410,</p>
-                    <p>A400,A50,A120,A495,</p>
-                    <p>W225,W400,W560,W1375</p>
+                    <p>S10,S3200,</p>
+                    <p>C25,C400,C405,C520,</p>
+                    <p>D1,D175,D290,D435,D590,</p>
+                    <p>E135,E410,</p>
+                    <p>A50,A400,A495,</p>
+                    <p>W225,W560,W1375</p>
+					<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
                     <p><b>Note</b>: Buff Max Excavations and Excavation resets.</p>
                     <p><b>Note</b>: Estimated time to L45 is ?.</p>
                 </div>
