@@ -55,7 +55,7 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> Dragon</b></p>
 <p><b>Description</b>: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.</p>
-<p><b>Requirement</b>: Drakeling, 12 hours since purchasing the previous stage, 3750 Fairy Assistants</p>
+<p><b>Requirement</b>: Drakeling, 12 hours since purchasing the previous stage, 3750 Fairy Assistants (Assists from Fairy Chanting count)</p>
 <p><b>Cost</b>: 1.0e70, 1b (1e9) FC</p>
 <p><b>Effect</b>: Grows Dragon into Elder Dragon</p>
 <br/>
