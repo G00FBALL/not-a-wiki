@@ -137,7 +137,7 @@
                   <p><b>Notes</b>: Estimated time to 1e70 coins: 2.5-3 hours (at 1e29) or 30 minutes (at 1e30)</p>
             </div>
         </div>
-                <p>Notice how Stage 3 takes much less time than 12 hour? That mean before you attempt stage 3, you can go back to stage 2 and do the other build that you didn't choose before and do that for the extra equality & GH time. If you don't need/ don't bother with those, use Druidline Dwangel to keep gaining gems.</p>
+                <p>Notice how the Stage 3 build takes much less time than 12 hour? You still do need to wait 12h in this stage though, so that means before you attempt stage 3, you can go back to stage 2 and do the other build that you didn't choose before and do that for the extra equality & GH time. If you don't need/ don't bother with those, use Druidline Dwangel to keep gaining gems.</p>
      </div>
     </div>
 <?php include "../scripts/footer.html"; ?>
