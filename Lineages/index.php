@@ -120,9 +120,9 @@
         <area href="#Titan" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/TitanLineage.png align=middle> Titan Lineage</b><p><b>Base Effect</b>: Increase Royal Exchange Bonus and Royal Exchange Count by 200% for every level.<p><b>Cost</b>: 400 Angel and 400 Goblin Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,135,68,187" shape="rect">
         <area href="#Druid" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DruidLineage.png align=middle> Druid Lineage</b><p><b>Base Effect</b>: Each lineage level counts as 2 additional Reincarnations.<p><b>Cost</b>: 400 Elven and 400 Demon Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,133,130,187" shape="rect">
         <area href="#Faceless" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/FacelessLineage.png align=middle> Faceless Lineage</b><p><b>Base Effect</b>:  Increase the duration of all spells based on lineage level<p>Formula: (x ^ 2.25)%, where x is lineage level.<p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,134,190,187" shape="rect">
-        <area href="#Dwarf" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DwarfLineage.png align=middle> Dwarf Lineage</b><p><b>Base Effect</b>: Increase the base production of each building based on their tier (additively). The bonus is multiplied by the Lineage level.</p><p><b>Formula</b>: (L * 10 ^ (0.2 * T  ^ 1.4)), where L is Lineage level and T is Building tier.</p><p><b>Cost</b>: 400 Dwarf Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,193,70,246" shape="rect">
+        <area href="#Dwarf" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DwarfLineage.png align=middle> Dwarven Lineage</b><p><b>Base Effect</b>: Increase the base production of each building based on their tier (additively). The bonus is multiplied by the Lineage level.</p><p><b>Formula</b>: (L * 10 ^ (0.2 * T  ^ 1.4)), where L is Lineage level and T is Building tier.</p><p><b>Cost</b>: 400 Dwarven Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="17,193,70,246" shape="rect">
         <area href="#Drow" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DrowLineage.png align=middle> Drow Lineage</b><p><b>Base Effect</b>: Increase offline production bonus based on Lineage level.</p><p><b>Formula</b>: (150 * L ^ 2.25), where x is Lineage level. Not effected by Ascension nerfs.</p><p><b>Cost</b>: 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="77,193,128,247" shape="rect">
-        <area href="#Dragon" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DragonLineage.png align=middle> Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 12% more per level for all purposes.<p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
+        <area href="#Dragon" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DragonLineage.png align=middle> Dragon Lineage</b><p><b>Base Effect</b>: Unique Buildings count as 12% more per level for all purposes.<p><b>Cost</b>: 400 Dwarven and 400 Drow Royal Exchanges.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at." coords="137,193,190,246" shape="rect">
         <area href="#Archon" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/ArchonLineage.png align=middle> Archon Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Angel, Undead Royal Exchanges</p> <p><b>Effect</b>: Increase Faction Coin find chance multiplicatively by 25% per level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="18,257,68,305" shape="rect">
         <area href="#Djinn" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/DjinnLineage.png align=middle> Djinn Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Fairy, Demon Royal Exchanges</p> <p><b>Effect</b>: Increase production bonus from gems by a multiplicative 8% for every level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="78,255,128,306" shape="rect">
         <area href="#Makers" target="" research="<p><b><img src=http://musicfamily.org/realm/Factions/picks/MakersLineage.png align=middle> Makers Lineage</p></b> <p><b>Requirements</b>: R130+</p> <p><b>Cost</b>: 400 Elven, Goblin Royal Exchanges</p> <p><b>Effect</b>: Increase Royal Exchange bonus by multiplicative 8% per level.<p>Lineages needs bought every Abdication and Reincarnation and Levels only need bought once.<p>Pointing to this ingame will tell you what level it is at.</p>" coords="136,255,190,305" shape="rect">
@@ -492,45 +492,45 @@
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Time passed counts 100% more.</p>
     <hr>
-    <H6 id="Dwarf">Dwarf</h6>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfLineage.png" align="middle"><b> Dwarf Lineage</b></p>
-    <p><b>Cost</b>: 400 Dwarf Royal Exchanges.</p>
+    <H6 id="Dwarf">Dwarven</h6>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfLineage.png" align="middle"><b> Dwarven Lineage</b></p>
+    <p><b>Cost</b>: 400 Dwarven Royal Exchanges.</p>
     <p><b>Effect</b>: Increase the base production of each building based on their tier (additively).</p>
     <p><b>Note</b>: The bonus is multiplied by the Lineage level.</p>
     <p><b>Formula</b>: (L * 10 ^ (0.2 * T  ^ 1.4)), where L is Lineage level and T is Building tier.</p>
     <br/>
     <p><b>Level 5</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk1.png" align="middle"><b> Dwarf Perk 1</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk1.png" align="middle"><b> Dwarven Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5.</p>
     <p><b>Effect</b>: Dwarven Bloodline increases faction coin find chance based on total time spent as Good. (1 day of Good = 19,520%).
     <p><b>Formula</b>: (50 * x ^ 0.75) where x is seconds of good alignment (this R)</p>
     <br/>
     <p><b>Level 10</b></p>
-    <p><b>Effect</b>: x100 Dwarf Faction Coin find chance.</p>
+    <p><b>Effect</b>: x100 Dwarven Faction Coin find chance.</p>
     <br/>
     <p><b>Level 15</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk2.png" align="middle"><b> Dwarf Perk 2</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk2.png" align="middle"><b> Dwarven Perk 2</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 15.</p>
-    <p><b>Effect</b>: Unlocks Dwarf Lineage Challenge.</p>
+    <p><b>Effect</b>: Unlocks Dwarven Lineage Challenge.</p>
     <p><b>Challenge</b>: Have 10k Excavations.</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Diamond Pickaxe)</p>
     <br/>
     <p><b>Level 20</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk3.png" align="middle"><b> Dwarf Perk 3</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk3.png" align="middle"><b> Dwarven Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Excavations and Artifacts count 1% more for every 1500 Unique Buildings.</p>
     <br/>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> <b>Dwarf Grand Champion Trophy</b>.</p>
-    <p><b>Requirement</b>: Upgrade Dwarf Lineage to level 20 and purchase 3 Dwarf Lineage perks.</p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> <b>Dwarven Grand Champion Trophy</b>.</p>
+    <p><b>Requirement</b>: Upgrade Dwarven Lineage to level 20 and purchase 3 Dwarven Lineage perks.</p>
     <br/>
     <p><b>Level 30</b></p>
-    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" align="middle"><b> Dwarf Perk 4</b></p>
+    <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" align="middle"><b> Dwarven Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.</p>
     <p><b>Formula</b>: (0 .5 * log10(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
     <br/>
     <p><b>level 45</b></p>
-    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarf Perk 5</p></b>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarven Perk 5</p></b>
     <p><b>Requirements</b>: R130, Lineage Level 45.</p>
     <p><b>Effect</b>: Buildings count 100% more.</p>
     <hr>
@@ -577,7 +577,7 @@
     <hr>
     <H6 id="Dragon">Dragon</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonLineage.png" align="middle"><b> Dragon Lineage</b></p>
-    <p><b>Cost</b>: 400 Dwarf and 400 Drow Royal Exchanges.</p>
+    <p><b>Cost</b>: 400 Dwarven and 400 Drow Royal Exchanges.</p>
     <p><b>Effect</b>: Unique Buildings count as 12% more per level for all purposes.</p>
     <br/>
     <p><b>Level 5</b></p>
@@ -586,7 +586,7 @@
     <p><b>Effect</b>: Dragon Bloodline increases the production of Unique Buildings by 1.75% per building of the same type.</p>
     <br/>
     <p><b>Level 10</b></p>
-    <p><b>Effect</b>: x50 more Dwarf and Drow Faction Coin find chance.</p>
+    <p><b>Effect</b>: x50 more Dwarven and Drow Faction Coin find chance.</p>
     <br/>
     <p><b>Level 15</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk2.png" align="middle"><b> Dragon Perk 2</b></p>

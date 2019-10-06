@@ -373,8 +373,8 @@
                 <p>E50,E135,E350,E1225,E3250,E3300,</p>
                 <p>A30,A120,A270,A1500,A2950,A3400,</p>
                 <p>W10,W150,W1275,W1400,W3050,W3150</p>
-                <p><b>Notes</b>Swap E350 with E230 after (?) hours of evil time this R
-                <p><b>Notes</b>Swap C10 with C1500 if higher
+                <p><b>Notes</b>: Swap E350 with E230 after (?) hours of evil time this R
+                <p><b>Notes</b>: Swap C10 with C1500 if higher
             </div>
         </div>
     </div>
@@ -583,6 +583,12 @@
                 <p><b>13th Upgrade</b>: AN6 (FR7 if it means you can cast an extra SB tier)</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400" id="Build"></p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:God's Hand,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400" id="Build"> Fairyline with Perk 2</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:God's Hand,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400" id="Build"> Dragonline with Perk 2</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400" id="Build"> Extra SB tier</p>
                 <p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
                 <p>S200,S215,S305,S1275,S1450,S1500,</p>
@@ -658,7 +664,7 @@
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E1225,E590,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E1225,E590,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"></p> Extra SB tier
+                    <input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E1225,E590,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150" id="Build"> Extra SB tier</p>
                 <p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
                 <p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
                 <p>S200,S305,S400,S1275,S1450,S1500,</p>
