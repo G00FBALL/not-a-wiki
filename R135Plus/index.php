@@ -665,13 +665,13 @@
                     <p><b>Stoneheart Set (R148+, MKC4)</b>: Faceless</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E260,E1225,E1425,A251,A400,A1200,A1500,W350,W1375,W1400" id="Build">
+                        <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E260,E1225,E1425,A251,A375,A400,A1200,A1500,W350,W1375,W1400" id="Build">
                     </p>
                     <p>S1450,S3200,</p>
                     <p>C300,C400,C1300,</p>
                     <p>D275,D290,D1125,</p>
                     <p>E260,E1225,E1425,</p>
-                    <p>A251,A400,A1200,A1500,</p>
+                    <p>A251,A375,A400,A1200,A1500,</p>
                     <p>W350,W1375,W1400</p>
                 </div>
             </div>
