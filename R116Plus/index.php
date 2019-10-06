@@ -16,13 +16,13 @@
     <p><b>Production builds need tested to see what is best</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (R116+) 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kiluh</p>
                 <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
-                <p><b>Artifact Set</b>: Elf</p>
+                <p><b>Artifact Set</b>: Druid</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R116-R120) 0 - 1e43 (10 Td)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e43 (10 Td)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e43 (10 Td) Gems</p>
@@ -60,7 +60,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R116-R120) 1e40 (10 Dd) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves 1e40 (10 Dd) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ashen Rider</p>
                 <p><b>Range</b>: 1e40 (10 Dd) Gems - ?</p>
