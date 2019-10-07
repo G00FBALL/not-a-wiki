@@ -451,7 +451,7 @@
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Druid (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Waffle</p>
-                            <p><b>Range</b>: 1e130 (10 Dqga) Gems+</p>
+                            <p><b>Range</b>: 1e130 (10 Dqag) Gems+</p>
                             <p><b>Faction</b>: Druid</p>
                             <p><b>Bloodline</b>: Undead</p>
                             <p><b>Artifact Set</b>: Facelesset</p>
@@ -474,7 +474,7 @@
                         <div class="autohide">
                             <p><b>Author</b>: Rellikrellik</p>
                             <p><b>Requirement</b>: Djinn Challenge 5, Makers Challegne 5, Faceless Lineage 45</p>
-                            <p><b>Range</b>: 1e130 (10 Dqga) Gems+</p>
+                            <p><b>Range</b>: 1e130 (10 Dqag) Gems+</p>
                             <p><b>Faction</b>: Titan</p>
                             <p><b>Bloodline</b>: Faceless</p>
                             <p><b>Artifact Set</b>: Dragon</p>
