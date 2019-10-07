@@ -40,7 +40,6 @@
                           <p><b>Note</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
                           <p><b>Instructions</b>: Don't cast Blood Frenzy.</p>
                           <p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
-                          <p><b>Note</b>: Autocast should be fine with R18 challenges. Or with Mana Waste. But Tricaster is supposed to be a short 2-minute rush build.</p>
                         </div>
                 </div>
                 <div class="shelementwhole">
