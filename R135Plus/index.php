@@ -105,7 +105,7 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Elves (R139+) 1e59 (100 Ocd) - 1e70 (10 Dvg) Gems</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
-                    <p><b>Requirement</b>: Fairy Lineage L45 or Djinn Challenge 4</p>
+                    <p><b>Requirement</b>: Fairy Lineage L45 or Makers Challenge 4</p>
                     <p><b>Range</b>: 1e59 (100 Ocd) - 1e70 (10 Dvg) Gems</p>
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Fairy</p>
