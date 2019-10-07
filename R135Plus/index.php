@@ -41,6 +41,7 @@
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Faceless</p>
                     <p><b>Artifact Set</b>: Elf</p>
+					<p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A495,A3400,W10,W560,W1375" id="Build">
@@ -110,6 +111,7 @@
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Artifact Set</b>: Fairy</p>
+					<p><b>Stoneheart Set (R148+, MKC4)</b>: Elf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A400,A495,W10,W560,W1375" id="Build">
