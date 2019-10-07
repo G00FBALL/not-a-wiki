@@ -135,31 +135,31 @@
 				<p><b>Bloodline</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D330,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build">
+					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D55,D200,D250,D290,D320,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W320,W400" id="Build">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D55,D250,D290,D320,D330,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build">
+					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C330,C340,C400,D200,D250,D290,D320,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build">
 					R50+
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D55,D250,D290,D320,D330,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build">
+					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D200,D250,D290,D320,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W150,W180,W260,W400,W1275" id="Build">
 					R51+
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D55,D250,D290,D320,D330,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
+					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D200,D250,D290,D320,D1275,E135,E145,E400,E460,E1225,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
 					R52+
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D55,D250,D290,D320,D330,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
+					<input type="text" value="S200,S215,S270,S330,S500,C105,C150,C250,C340,C400,C1300,D250,D290,D320,D1275,D1375,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
 					R53+
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S200,S215,S270,S330,S500,C150,C250,C340,C400,C1300,C1500,D55,D250,D290,D320,D330,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
+					<input type="text" value="S200,S215,S270,S330,S500,C150,C250,C340,C400,C1300,C1500,D250,D290,D320,D1275,D1375,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
 					R55+
 				</p>
 				<p>S215,S270,S305,S330,S500,</p>
@@ -168,10 +168,10 @@
 				<p>E135,E145,E400,E460,E1225,</p>
 				<p>A120,A250,A270,A400,A1200,</p>
 				<p>W120,W150,W180,W260,W320,W400</p>
-				<p><b>Notes</b>: (R50+) Swap W320->W1275.</p>
+				<p><b>Notes</b>: (R50+) Swap D55->D1275, W320->W1275.</p>
 				<p><b>Notes</b>: (R51+) Swap C330->C1300.</p>
 				<p><b>Notes</b>: (R52+) Swap W150->W1375.</p>
-				<p><b>Notes</b>: (R53+) Swap E400->E1425.</p>
+				<p><b>Notes</b>: (R53+) Swap D200->D1375, E400->E1425.</p>
 				<p><b>Notes</b>: (R55+) Swap C105->C1500.</p>
 				<p><b>Notes</b>: Time together Lightning Strike on Deep Mine and Green Breath for maximal production.</p>
 			</div>
