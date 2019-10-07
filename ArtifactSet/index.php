@@ -29,7 +29,7 @@
     <p><b>Artifacts Required</b>: Pink Carrot, Bottled Voice, Silk Cloth</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase Farm, Inn and Blacksmith production based on number of assistants owned.</p>
-    <p><b>Formula</b>: (0.65*x^0.65), where x is number of assistants owned.</p>
+    <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is number of assistants owned.</p>
     <br/>
     <H6 id="Elven"></h6><p><img src="http://musicfamily.org/realm/Factions/picks/ElvenSet.png" align="middle"><b> Elven Set</b></p>
     <p><b>Requirement</b>: A2+

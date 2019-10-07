@@ -108,7 +108,7 @@
 <p><b>Old Formula</b>: (4 * x ^ 0.6)</p>
 <p><b>New Effect</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
 <p><b>New Formula</b>: (8 * x ^ 0.8)</p>
-<p><b>Note</b>: Targeting is not effected by building modifiers.</p>
+<p><b>Note</b>: Targeting is not affected by building modifiers.</p>
 <br/>
 <p><b>Dragon Chaos Union</b></p>
 <p><b>Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend ln(FC chance) (even for Unique, odd for Non-Unique).</p>

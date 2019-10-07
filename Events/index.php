@@ -1507,7 +1507,7 @@ div#images div{
                 <p><b>Unlock / Price</b>: 660 Bones</p>
                 <p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
                 <p><b>Formula</b>: x^0.7</p>
-                <p><b>Note</b>: Not effected by ascension penalties</p>
+                <p><b>Note</b>: Not affected by ascension penalties</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
                 <p><b>Kind</b>: Monster</p>
@@ -2387,7 +2387,7 @@ div#images div{
                 <p><b>Unlock / Price</b>: 660 Bones</p>
                 <p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
                 <p><b>Formula</b>: x^0.7</p>
-                <p><b>Note</b>: Not effected by ascension penalties</p>
+                <p><b>Note</b>: Not affected by ascension penalties</p>
                 <p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 50</p>

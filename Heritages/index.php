@@ -80,7 +80,7 @@
 <p><b>Unlock Requirements</b>: Mercenary Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of coins you gained in a single game.</p>
 <p><b>Formula</b>: floor(5 * log10(1 + x)), where x is your Coins Gained (Max) stat.</p>
-<p><b>Notes</b>: Not effected by Demon Challenge 1 (Since its a 'Badge', not a Heritage)
+<p><b>Notes</b>: Not affected by Demon Challenge 1 (Since its a 'Badge', not a Heritage)
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
 <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>

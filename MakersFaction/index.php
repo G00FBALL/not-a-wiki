@@ -116,7 +116,7 @@
 <p><b>Cost</b>: 1 QaQig (1e165)</p>
 <p><b>Effect</b>: Increase the production of building tiers directly above or below Unique Buildings based on spells cast in this game.</p>
 <p><b>Formula</b>: (0.2 * x ^ 0.4), where x spells cast in this game.</p>
-<p><b>Note</b>: If effected twice, stacks multiplicatively.</p>
+<p><b>Note</b>: If affected twice, stacks multiplicatively.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Elven and Goblin Coins</p>
