@@ -160,7 +160,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S200,S215,S270,S330,S500,C150,C250,C340,C400,C1300,C1500,D55,D250,D290,D320,D330,E135,E145,E460,E1225,E1425,A120,A250,A270,A400,A1200,W120,W180,W260,W400,W1275,W1375" id="Build">
-					R53+
+					R55+
 				</p>
 				<p>S215,S270,S305,S330,S500,</p>
 				<p>C105,C150,C250,C330,C340,C400,</p>
