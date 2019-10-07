@@ -200,7 +200,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 1s (R135)</a></b></p>
                 <div class="autohide">
-                    <p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build.</p>
+                    <p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build. Approximately 22-26 hours.</p>
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Archon Challenge 1)</a></b></p>
                         <div class="autohide">
@@ -317,23 +317,24 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 3s (R143)</a></b></p>
                 <div class="category autohide">
                     <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (Djinn Challenge 3)</a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Djinn Challenge 3)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: ?</p>
                             <p><b>Faction</b>: Faceless</p>
-                            <p><b>Range</b>: ?</p>
-                            <p><b>Bloodline</b>: Titan</p>
+                            <p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
+                            <p><b>Bloodline</b>: Undead</p>
                             <p><b>Artifact Set</b>: Faceless</p>
                             <p>
                                 <button onclick="myFunction($(this))">Copy Build</button>
-                                <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D260,D1125,D3350,E350,E1225,E1325,A300,A400,A1200,W275,W1375,W1400" id="Build">
+                                <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D260,D1125,D3350,E350,E1225,E1425,A300,A400,A1200,W275,W1375,W1400" id="Build">
                             </p>
                             <p>S251,S375,S1450,S1500,S3200,</p>
                             <p>C340,C1300,</p>
                             <p>D260,D1125,D3350,</p>
-                            <p>E350,E1225,E1325,</p>
+                            <p>E350,E1225,E1425,</p>
                             <p>A300,A400,A1200,</p>
                             <p>W275,W1375,W1400</p>
+			    <p><b>Notes</b>: Faceless set of 5e7 - 1e8. (1e15 - 3e15 assistants)</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -401,6 +402,7 @@
                             <p>A50,A400,A495,</p>
                             <p>W225,W400,W560</p>
                             <p><b>After Archon treaty</b>: S200,C340,D330,E135,A270,W1275 (Reimport Build)</p>
+			    <p><b>Notes</b>: 10-15 minutes to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -430,10 +432,13 @@
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Elves (Makers Challenge 4)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Sad</p>
-                            <p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
+                            <p><b>Range</b>: 1e124 (10 Qag) Gems+</p>
                             <p><b>Faction</b>: Elf</p>
                             <p><b>Artifact Set</b>: Faceless</p>
                             <p><b>Notes</b>: Buff Max assistants with Fairyline Undead (Max Assistants) buff build if it hasnt been previously buffed with demons.</p>
+			    <p><b>Notes</b>: Buff Excavation resets. 40+. This also buffs Makers Union</p>
+			    <p><b>Notes</b>: Faceless set of 5e7 - 1e8. (1e15 - 3e15 assistants)</p>
+			    <p><b>Notes</b>: 2-5 hours for treaty. 1.5-5 hours to fully complete. Clicking greatly decreases completion time.</p>
                         </div>
                     </div>
                 </div>
