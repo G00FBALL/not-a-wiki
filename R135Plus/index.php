@@ -202,7 +202,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 1s (R135)</a></b></p>
                 <div class="autohide">
-                    <p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build. Approximately 22-26 hours.</p>
+                    <p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build, taking 25.5 hours from 0 clicks.</p>
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Archon Challenge 1)</a></b></p>
                         <div class="autohide">
@@ -336,7 +336,7 @@
                             <p>E350,E1225,E1425,</p>
                             <p>A300,A400,A1200,</p>
                             <p>W275,W1375,W1400</p>
-			    <p><b>Notes</b>: Faceless set of 5e7 - 1e8. (1e15 - 3e15 assistants)</p>
+							<p><b>Notes</b>: Buff Max Assistants with Fairyline Undead (Max Assistants) build first.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -404,7 +404,7 @@
                             <p>A50,A400,A495,</p>
                             <p>W225,W400,W560</p>
                             <p><b>After Archon treaty</b>: S200,C340,D330,E135,A270,W1275 (Reimport Build)</p>
-			    <p><b>Notes</b>: 10-15 minutes to complete.</p>
+							<p><b>Notes</b>: Estimated time 10-15 minutes to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -438,9 +438,8 @@
                             <p><b>Faction</b>: Elf</p>
                             <p><b>Artifact Set</b>: Faceless</p>
                             <p><b>Notes</b>: Buff Max assistants with Fairyline Undead (Max Assistants) buff build if it hasnt been previously buffed with demons.</p>
-			    <p><b>Notes</b>: Buff Excavation resets. 40+. This also buffs Makers Union</p>
-			    <p><b>Notes</b>: Faceless set of 5e7 - 1e8. (1e15 - 3e15 assistants)</p>
-			    <p><b>Notes</b>: 2-5 hours for treaty. 1.5-5 hours to fully complete. Clicking greatly decreases completion time.</p>
+							<p><b>Notes</b>: Buff Excavations to at least 1e6 (1M) excavations and 50+ excavation resets.</p>
+							<p><b>Notes</b>: Estimated time to complete 4 hours or less (highly dependant on buffing).</p>
                         </div>
                     </div>
                 </div>
