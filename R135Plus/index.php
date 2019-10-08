@@ -192,7 +192,7 @@
                         <p><b>Notes</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
                         <p><b>Notes</b>: Meant to be used at the end of A2, but may overshoot on coins (and thus break) before reaching the necessary assistants for Reality Crater if you focus too much on production and have too many gems at the start of the run.</p>
                         <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants 88% Gems 8% Max Mana.</p>
-                        <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Aassistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increasesTrophies.</p>
+                        <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Assistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increases Trophies.</p>
                 </div>
             </div>
         </div>
