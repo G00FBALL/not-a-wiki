@@ -518,7 +518,7 @@
                     <p>E25,E320,E410,</p>
                     <p>A400,A495,</p>
                     <p>W10,W560,W1375</p>
-                    <p><b>Note</b>: Buff Max Excavations and Excavation resets, Maker 2, Maker Union, Faceless Set.</p>
+                    <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless Set.</p>
                     <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
                 </div>
             </div>
@@ -544,6 +544,28 @@
                     <p>W25,W205,W405,W520</p>
                     <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless set.</p>
                     <p><b>Note</b>: Can level most Lineages including Angeline.</p>
+                </div>
+            </div>
+			            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Elves (R139+) (Drow L45)</a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Meta</p>
+                    <p><b>Range</b>: ?</p>
+                    <p><b>Faction</b>: Elf</p>
+                    <p><b>Bloodline</b>: Drow</p>
+                    <p><b>Artifact Set</b>: Faceless</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375" id="Build">
+                    </p>
+                    <p>S175,S400,</p>
+                    <p>C1,C225,C400,C405,C520,C590,</p>
+                    <p>D50,D290,D435,</p>
+                    <p>E25,E320,E410,</p>
+                    <p>A400,A495,</p>
+                    <p>W10,W560,W1375</p>
+                    <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless Set.</p>
+                    <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
                 </div>
             </div>
             <div class="shelementwhole">
