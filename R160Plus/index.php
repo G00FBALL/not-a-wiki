@@ -39,7 +39,7 @@
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E400,E3300,A120,A2950,W1375,W3050," id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -65,7 +65,7 @@
                 <p><b>Range</b>: 1e68 (100 Uvg) Gems+</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Demon</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S435,S3200,C50,C340,D10,D290,D560,E230,E400,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build"></p>
                   <p>S435,S3200,</p>
@@ -198,7 +198,7 @@
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,S400,S2875,C340,C3000,D290,D2775,E1325,E3300,A120,A2950,W1375,W3050" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
@@ -216,6 +216,32 @@
                 <p><b>Note</b>: Use W275 if buffed.</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells (Grower)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Fair_Play</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Archon</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL7,AN5,AN8,AN12,GB7,TT3,TT10,DD6,FC2,FC11,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Limited Wish,UB:Mountain Palace,UNN:AR,S2875,S200,S400,S3200,S330,C3000,C590,C400,C3100,C250,D2775,D200,D330,D275,D290,E1325,E135,E320,E400,A2950,A120,A270,A3400,A1500,W3050,W275,W1275,W1400,W400" id="Build"></p>
+                <p>EL7,AN5,AN8,AN12,GB7,TT3,TT10,DD6,</p>
+				<p>FC2,FC11,DN2,DW6,AR2,AR10,DJ9,MK5,</p>
+				<p>SP:Fairy Chanting,SP:Limited Wish,UB:Mountain Palace,UNN:AR,</p>
+                <p>S2875,S200,S400,S3200,S330,</p>
+                <p>C3000,C590,C400,C3100,C250,</p>
+                <p>D2775,D200,D330,D275,D290,</p>
+                <p>E1325,E135,E320,E400,</p>
+                <p>A2950,A120,A270,A3400,A1500,</p>
+                <p>W3050,W275,W1275,W1400,W400</p>
+				<p><b>Note</b>: For 1 day+ runtime. Otherwise, use the above build.</p>
+				<p><b>Note</b>: Build lacks E3300 intentionally (Buffs W1275).</p>
+				<p><b>Note</b>: Reimport Build and after each new research slot opens (Keep an eye out for Limited Wish: Spell Duration).</p>
+                <p><b>Note</b>: Buff clicks, excavations and resets beforehand.</p>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></a></b></p>
             <div class="autohide">
@@ -224,7 +250,7 @@
                 <p><b>Alignment</b>: Neutral/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,DW12,AR2,AR5,AR10,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:DN,S400,S2875,C400,C3000,D290,D2775,E1325,E3300,A120,A2950,W1375,W3050" id="Build"></p>
                   <p>EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,</p>
@@ -247,7 +273,7 @@
                 <p><b>Alignment</b>: Good/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Djinn</p>
                 <p><b>A2950</b>: Elf</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL4,EL7,EL11,AN6,AN8,AN12,GB4,FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,S1275,S2875,C590,C3000,D290,D2775,E400,E3300,A120,A2950,W1400,W3050" id="Build"></p>
                 <p>EL3,EL4,EL7,EL11,AN6,AN8,AN12,GB4,</p>
@@ -269,7 +295,7 @@
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E290,A120,A2950,W275,W3050" id="Build"></p>
                 <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
@@ -296,7 +322,7 @@
                 <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Elf</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,DD4,FC2,FC7,DN2,DW6,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,S2875,S3200,C3000,C3100,D275,D2775,E320,E3300,A120,A2950,W275,W3050" id="Build"></p>
                 <p>EL1,EL7,EL11,AN5,AN12,GB7,DD4,FC2,</p>
@@ -320,7 +346,7 @@
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Archon</p>
                 <p><b>A2950</b>: Elf</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:AR,S2875,C3000,D2775,E3300,A2950,W3050,S200,S400,S1500,S330,C400,C3100,C250,C340,D290,D200,D330,D275,E135,E1325,E320,E145,A120,A3400,A1500,A270,W275,W1400,W1375,W1275" id="Build"></p>
                   <p>EL1,EL7,EL11,AN5,AN12,GB4,GB7,TT10,</p>
@@ -346,7 +372,7 @@
                 <p><b>Alignment</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Any/All</p>
                 <p><b>A2950</b>: Titan</p>
-                <p><b>Artifact Set</b>: Merc</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:GB,S400,S2875,C400,C3000,D275,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"></p>
                 <p>EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,</p>
