@@ -426,7 +426,7 @@
                             <p>E350,E1225,E1325,</p>
                             <p>A270,A300,A1200,</p>
                             <p>W275,W1275,W1400</p>
-                            <p><b>Notes</b>: Buff Max assistants and S400.</p>
+                            <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R.</p>
                             <p><b>Notes</b>: Grand Balance is the spell to watch.</p>
                             <p><b>Notes</b>: Takes about 5 hours to complete the challenge.</p>
                         </div>
