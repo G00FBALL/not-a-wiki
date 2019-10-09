@@ -426,8 +426,9 @@
                             <p>E350,E1225,E1325,</p>
                             <p>A270,A300,A1200,</p>
                             <p>W275,W1275,W1400</p>
-                            <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R.</p>
-                            <p><b>Notes</b>: Grand Balance is the spell to watch.</p>
+                            <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R. More buffing is better, but has minimal effect.</p>
+							<p><b>Notes</b>: Some DJ5 buffing during the run helps, but has severe diminishing returns.</p>
+                            <p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
                             <p><b>Notes</b>: Takes about 5 hours to complete the challenge.</p>
                         </div>
                     </div>
