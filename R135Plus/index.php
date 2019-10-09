@@ -357,6 +357,7 @@
                             <p>E260,E1225,E1425,</p>
                             <p>A120,A251,A375,A1200,A1500,</p>
                             <p>W350,W1375,W1400</p>
+							<p><b>Notes</b>: Buff Max Spell Casts, Total Excavations, Excavation Reset Count.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
