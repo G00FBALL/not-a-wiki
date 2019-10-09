@@ -447,7 +447,7 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 5s (R153)</a></b></p>
                 <div class="category autohide">
                     <p>Djinn Challenge 5 requires Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst.</p>
-                    <p>Use Faceless to immidiately get the Catalyst casts and Fairy or Demon for the Limited Wish casts.</p>
+                    <p>Use Faceless to immediately get the Catalyst casts and Fairy or Demon for the Limited Wish casts.</p>
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Druid (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
