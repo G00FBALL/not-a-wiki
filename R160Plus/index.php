@@ -239,7 +239,7 @@
 				<p><b>Note</b>: For 1 day+ runtime. Otherwise, use the above build.</p>
 				<p><b>Note</b>: Build lacks E3300 intentionally (Buffs W1275).</p>
 				<p><b>Note</b>: Reimport Build and after each new research slot opens (Keep an eye out for Limited Wish: Spell Duration).</p>
-                <p><b>Note</b>: Buff clicks, excavations and resets beforehand.</p>
+                <p><b>Note</b>: Buff max assistants, clicks, excavations and resets beforehand.</p>
             </div>
         </div>
         <div class="shelementwhole">
