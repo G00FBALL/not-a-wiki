@@ -65,7 +65,7 @@
                     <p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
                     <p><b>Faction</b>: Angel</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Artifact Set</b>: Dwarf (Elf R135+)</p>
+                    <p><b>Artifact Set</b>: Elf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A120,W400" id="Build">
