@@ -109,8 +109,13 @@
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S215,S305,S330,S500,S1425,C150,C250,C340,C400,C1300,C1325,D290,D320,D1125,D1275,D1375,E135,E320,E460,E1225,E1425,A105,A120,A150,A305,A400,W180,W260,W290,W400,W1275,W1375" id="Build">
+					<input type="text" value="S135,S215,S305,S330,S500,C150,C250,C340,C400,C1300,C1325,D290,D320,D1125,D1275,D1375,E135,E320,E460,E1225,E1425,A105,A120,A150,A305,A400,W180,W260,W290,W400,W1275,W1375" id="Build">
 					R53+
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S215,S305,S330,S500,S1450,C150,C250,C340,C400,C1300,C1325,D290,D320,D1125,D1275,D1375,E135,E320,E460,E1225,E1425,A105,A120,A150,A305,A400,W180,W260,W290,W400,W1275,W1375" id="Build">
+					R54+
 				</p>
 				<p>S135,S215,S305,S330,S500,</p>
 				<p>C105,C150,C250,C330,C340,C400,</p>
@@ -121,7 +126,8 @@
 				<p><b>Notes</b>: (R50+) Swap D55->D1275, W150->W1275.</p>
 				<p><b>Notes</b>: (R51+) Swap C330->C1300, C105->C1325.</p>
 				<p><b>Notes</b>: (R52+) Swap D200->D1375, W320->W1375.</p>
-				<p><b>Notes</b>: (R53+) Swap E145->E1425, S135->S1450.</p>
+				<p><b>Notes</b>: (R53+) Swap E145->E1425</p>
+				<p><b>Notes</b>: (R54+) Swap S135->S1450.</p>
 				<p><b>Notes</b>: Time together Lightning Strike on Wyrm's den and Red Breath for maximal production.</p>
 			</div>
 		</div>
