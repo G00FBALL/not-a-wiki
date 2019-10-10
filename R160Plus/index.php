@@ -285,6 +285,7 @@
                 <p>E400,E3300,</p>
                 <p>A120,A2950,</p>
                 <p>W1400,W3050</p>
+				 <p><b>Notes</b>: Estimated time to God's Fingers is 46 days with Elven Lineage level 70.</p>
             </div>
         </div>
         <div class="shelementwhole">
