@@ -343,7 +343,7 @@
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titanline Druids (Makers Challenge 3)</a></b></p>
                         <div class="autohide">
-                            <p><b>Author</b>: Sad</p>
+                            <p><b>Author</b>: Kiluh</p>
                             <p><b>Range</b>: 1e113 (100 Ttg) Gems+</p>
                             <p><b>Faction</b>: Druid</p>
                             <p><b>Bloodline</b>: Titan</p>
@@ -453,7 +453,7 @@
                     <div class="shelementwhole">
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Druid (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
-                            <p><b>Author</b>: Waffle</p>
+                            <p><b>Author</b>: Chillerspoon</p>
 							<p><b>Requirement</b>: Djinn Challenge 5, Elf lineage 45</p>
                             <p><b>Range</b>: 1e111 (1 Sxtg) Gems+</p>
                             <p><b>Faction</b>: Druid</p>
