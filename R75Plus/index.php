@@ -373,8 +373,9 @@
                 <p>E50,E135,E350,E1225,E3250,E3300,</p>
                 <p>A30,A120,A270,A1500,A2950,A3400,</p>
                 <p>W10,W150,W1275,W1400,W3050,W3150</p>
-                <p><b>Notes</b>: Swap E350 with E230 after (?) hours of evil time this R
-                <p><b>Notes</b>: Swap C10 with C1500 if higher
+				<p><b>Notes</b>: Build depends on Fairy Chanting growth. The longer its been active, the better.</p>
+                <p><b>Notes</b>: Swap E350 with E230 after (?) hours of evil time this R</p>
+                <p><b>Notes</b>: Swap C10 with C1500 if higher</p>
             </div>
         </div>
     </div>
