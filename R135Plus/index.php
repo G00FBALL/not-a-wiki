@@ -144,7 +144,8 @@
                     <p>E230,E400,E495,</p>
                     <p>A25,A400,A410,</p>
                     <p>W1,W135,W175,W405,W520,W590</p>
-                    <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and(R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
+					<p><b>Notes</b>: Slow starting build, especially on first run.</p>
+                    <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -340,24 +341,24 @@
                         </div>
                     </div>
                     <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblinline Druids (Makers Challenge 3)</a></b></p>
+                        <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Titanline Druids (Makers Challenge 3)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Sad</p>
-                            <p><b>Range</b>: 1e101 (10 Dtg) Gems+</p>
+                            <p><b>Range</b>: 1e113 (100 Ttg) Gems+</p>
                             <p><b>Faction</b>: Druid</p>
-                            <p><b>Bloodline</b>: Goblin</p>
+                            <p><b>Bloodline</b>: Titan</p>
                             <p><b>Artifact Set</b>: Druid</p>
                             <p>
                                 <button onclick="myFunction($(this))">Copy Build</button>
-                                <input type="text" value="S400,S1450,C300,C340,C1300,D275,D290,D1125,E260,E1225,E1425,A120,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
+                                <input type="text" value="S200,S1450,C300,C400,C1300,D275,D290,D1125,E135,E260,E1225,A120,A251,A375,A1200,A1500,W350,W1375,W1400" id="Build">
                             </p>
-                            <p>S400,S1450,</p>
-                            <p>C300,C340,C1300,</p>
+                            <p>S200,S1450,</p>
+                            <p>C300,C400,C1300,</p>
                             <p>D275,D290,D1125,</p>
-                            <p>E260,E1225,E1425,</p>
+                            <p>E135,E260,E1225,</p>
                             <p>A120,A251,A375,A1200,A1500,</p>
                             <p>W350,W1375,W1400</p>
-							<p><b>Notes</b>: Buff Max Spell Casts, Total Excavations, Excavation Reset Count.</p>
+							<p><b>Notes</b>: Buff MK2, Total Excavations (1e6 (1M)+), Excavation Resets (50+).</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -453,22 +454,23 @@
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Druid (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Waffle</p>
-                            <p><b>Range</b>: 1e130 (10 Dqag) Gems+</p>
+							<p><b>Requirement</b>: Djinn Challenge 5, Elf lineage 45</p>
+                            <p><b>Range</b>: 1e111 (1 Sxtg) Gems+</p>
                             <p><b>Faction</b>: Druid</p>
                             <p><b>Bloodline</b>: Undead</p>
-                            <p><b>Artifact Set</b>: Facelesset</p>
-                            <p><b>Stoneheart Set</b>: Dwarfset</p>
+                            <p><b>Artifact Set</b>: Faceless</p>
+                            <p><b>Stoneheart Set</b>: Dwarf</p>
                             <p>
                                 <button onclick="myFunction($(this))">Copy Build</button>
-                                <input type="text" value="S400,S1450,C300,C400,C1300,D275,D290,D1125,E260,E320,E1225,A251,A375,A400,A1200,A1500,W350,W1375,W1400" id="Build">
+                                <input type="text" value="S50,S400,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build">
                             </p>
-                            <p>S400,S1450,</p>
-                            <p>C300,C400,C1300,</p>
-                            <p>D275,D290,D1125,</p>
-                            <p>E260,E320,E1225,</p>
-                            <p>A251,A375,A400,A1200,A1500,</p>
-                            <p>W350,W1375,W1400</p>
-                            <p><b>Note</b>: Needs a S400 of around 500k.</p>
+                            <p>S50,S400,S435,</p>
+							<p>C175,C400,</p>
+							<p>D290,D560,</p>
+							<p>E1,E225,E320,E495,E590,</p>
+							<p>A10,A400,A410,</p>
+							<p>W25,W205,W405,W520</p>
+                            <p><b>Note</b>: Buff Max Spells (S400 3e5 (300 K)+), Max Spells and Excavation Resets (50+).</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
