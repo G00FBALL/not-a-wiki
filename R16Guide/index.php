@@ -11,7 +11,7 @@
 <p>Firstly, <b>Unique Buildings</p></b>
 <p>commonly refered to as UBs, these are an upgrade to a certain building, which is determined by your current faction, which does 2 things, the first is a bonus to that building's production, which scales with a certain stat, and the second is giving you access to Research if you unlocked it for that faction.</p>
 <p>In order to unlock a UB you need to have a certain amount of the building that is going to be upgraded and 1e100 coins, currently you can only unlock the ones for the Vanilla factions, but that will change as you progress through the game. (<a href=http://musicfamily.org/realm/UniqueBuilding>This page</a> has a list of the building requirements for all UBs, and the formulas for their upgrades)</p>
-<p>After you unlocked it, you need to upgrade the building each abdication, this costs coins (1e103 for Vanilla and Neutral factions) and that means you won't be able to buy UBs at the start of the R. (at least for a while)</p>
+<p>After you unlocked it, you need to upgrade the building each abdication, this costs coins (1e103 (10 Ttg) for Vanilla and Neutral factions) and that means you won't be able to buy UBs at the start of the R. (at least for a while)</p>
 <p>Then, once you have the UB for a faction unlocked, you still need to unlock Research for that faction, Vanilla factions skip this step but they do got something else that need to be done...</p>
 <p>The Research tree has 6 branches, 1 for each Vanilla faction, to unlock these branches, you need to pay 1e6 FCs of that faction and 1e121 coins <b>after</b> you bought the UB for that faction, this only needs to be done once.</p>
 <p>So, what I want you to do first is to unlock every branch in the tree, I recommend using a few excavations for Demon, Undead and Angel as it will speed things up by quite a lot, <b>however, be very careful with excavations as you will need quite a lot of them.</b></p>
@@ -43,7 +43,7 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
     <p><b>Cost</b>: 1 coin</p>
     <p><b>Note</b>: Does not work while offline.</p>
 <hr>
-<p><b>Note</b>: Get to 100 Dvg (1e71) gems before starting to unlock research.</p>
+<p><b>Note</b>: Get to 1e71 (100 Dvg) gems before starting to unlock research.</p>
 <p><b>Note</b>: Demon/Drow/Elfline -> Fairy/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
 <p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 8 hours offline time as Undead to unlock a research.</p>
 <p>You can use <b>Mercenary</b> to get to the required gem level. suggested build: Tricaster</p>
