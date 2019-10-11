@@ -12,14 +12,13 @@
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b> page</a></p>
 <br/>
 <div class="shlisting">
-    <p><b>Production Builds R116-R120</b></p>
-    <p><b>Production builds need tested to see what is best</b></p>
+    <p><b>Production builds need tested to get proper gem ranges.</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: kiluh</p>
-                <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
+                <p><b>Author</b>: Kiluh</p>
+                <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Artifact Set</b>: Druid</p>
@@ -33,30 +32,9 @@
                   <p>E400,E350,E1225,</p>
                   <p>A400,A300,A1200,</p>
                   <p>W180,W275,W1400</p>
-                  <p><b>Notes</b>: Can afford SS T7 at 1e6 gems by excavating, get 1e24 gems in 2m</p>
-                  <p><b>Notes</b>: It slows down at e45 without buffing FC12
-                  <p><b>Notes</b>: For R120+ (with all AH), Swap S215 for S3200 before AotC is affordable.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e43 (10 Td)<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 0 - 1e43 (10 Td) Gems</p>
-                <p><b>Faction</b>: Elf</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Elf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D205,D435,E25,E3250,E410,A250,A495,W10,W560,W1375" id="Build">
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S200,C1,C225,C340,C405,C520,C590,D50,D205,D435,E25,E3250,E410,A250,A495,W10,W560,W1375" id="Build"> 1e34 (10 Dc)+ Gems</p>
-                <p>S175,S3200,</p>
-                <p>C1,C225,C340,C405,C520,C590,</p>
-                <p>D50,D205,D435,</p>
-                <p>E25,E3250,E410,</p>
-                <p>A250,A495,</p>
-                <p>W10,W560,W1375</p>
-                 <p><b>Notes</b>: Swap S3200 for S200 at 1e34 (10 Dc)+ Gems.</p>
+                  <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
+                  <p><b>Notes</b>: It slows down at 1e45 (1 Qad) Gems without buffing FC12.</p>
+                  <p><b>Notes</b>: For R120+ (with all Advanced Heritages), Swap S215 for S3200 before AotC is affordable.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -77,17 +55,13 @@
                 <p>E25,E145,E410,</p>
                 <p>A250,A495,</p>
                 <p>W10,W400,W560</p>
-                 <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11</p>
+                 <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11.</p>
             </div>
         </div>
-    </div>
-    <br/>
-    <p><b>Production Builds R120+</b></p>
-    <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50+ (100 Qid)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50 (100 Qid) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik
+                <p><b>Author</b>: Rellikrellik
                 <p><b>Range</b>: 1e50 (100 Qid) Gems - ?</p>
                 <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage
                 <p><b>Faction</b>: Elf
@@ -108,9 +82,9 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel 1e65+ (100 Vg)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel 1e65 (100 Vg) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik, liminal.shadow
+                <p><b>Author</b>: Rellikrellik, liminal.shadow
                 <p><b>Range</b>: 1e65 (100 Vg) Gems - ?</p>
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Druid
