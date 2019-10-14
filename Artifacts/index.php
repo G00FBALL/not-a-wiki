@@ -30,7 +30,7 @@
 <p><b>Excavation Reset</b></p>
 <p><b>Cost</b>: floor(x / 3000) + 1 rubies where x is number of excavations.
 <p><b>Note</b>: Free reset if enough times excavated this R (R40+ to afford reset amount)
-<p><b>Formula</b>: 2000 + 50 * R + 500 * x here x is amount of resets this R.
+<p><b>Formula</b>: 2000 + 50 * R + 500 * x where x is amount of resets this R.
 <p><b>Note</b>: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.</p>
 
 <p><img src="http://musicfamily.org/realm/Factions/picks/QuestArtifacts3.6.png" usemap="#QuestArtifacts-map">
