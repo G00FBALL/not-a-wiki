@@ -456,7 +456,7 @@
                             <p><b>Author</b>: Chillerspoon</p>
 							<p><b>Requirement</b>: Djinn Challenge 5, Elf lineage 45</p>
                             <p><b>Range</b>: 1e111 (1 Sxtg) Gems+</p>
-                            <p><b>Faction</b>: Druid</p>
+                            <p><b>Faction</b>: Goblin</p>
                             <p><b>Bloodline</b>: Undead</p>
                             <p><b>Artifact Set</b>: Faceless</p>
                             <p><b>Stoneheart Set</b>: Dwarf</p>
