@@ -9,7 +9,7 @@
 <p>Secret trophy icons and tool-tips only become visible once you have completed them.</p>
 <p>Each rewards a Secret Upgrade which shows up in the upgrades tab, and in the current game, as soon as you approach their total cost.</p>
 <p>All upgrades bought with gold pre-Ascension are free post-Ascension.</p>
-<p>(<a target="_blank" href="http://musicfamily.org/realm/TrophyGuide/"><b>Trophy Guide</b></a>) shows in which order it is easier to get the trophies.</p>
+<p>(<a target="_blank" href="http://musicfamily.org/realm/TrophyGuide/"><b>Trophy Guide</b></a>) shows in which order it is easier to get the trophies</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
 <p><b>Requirement</b>: Have exactly 1337 Coins at any given time.</p>
@@ -27,9 +27,7 @@
 <p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
 <p><b>Cost</b>: 10 Dc (1e34), A1+, Free</p>
 <p><b>Note</b>: This can be done at any R.</p>
-<p><b>Effect</b>: Increase clicking reward by 25%</p>
-<p><b>Effect</b>: A1, Increase clicking reward by 2.26%</p>
-<p><b>Effect</b>: A2,  Increase clicking reward by 0.22%</p>
+<p><b>Effect</b>: Increase clicking reward by 25%</p>>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle><b> Grand Diplomat</b></p>
 <p><b>Requirement</b>: Ally with each Vanilla, Neutral and Prestige factions at least once.<p>
@@ -47,22 +45,16 @@
 <p><b>Requirement</b>: Spend 7777 minutes being Neutral across all reincarnations.(= 5d 9h 37m)</p>
 <p><b>Cost</b>: 30 No (3e31), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of Neutral buildings by 50%.</p>
-<p><b>Effect</b>: A1, Increase the production of Neutral buildings by 4.14%</p>
-<p><b>Effect</b>: A2, Increase the production of Neutral buildings by 0.41%</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretTrophy.png align=middle><b> Perfectly Good</b></p>
 <p><b>Requirement</b>: Spend 333 hours being Good across all reincarnations.(= 13d 21h)</p>
 <p><b>Cost</b>: 30 No (3e31), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of Good buildings by 50%.
-<p><b>Effect</b>: A1, Increase the production of Good buildings by 4.14%.</p>
-<p><b>Effect</b>: A2, Increase the production of Good buildings by 0.41%</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretTrophy.png align=middle><b> Diabolical Evil</b></p>
 <p><b>Requirement</b>: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s).</p>
 <p><b>Cost</b>: 30 No (3e31), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of Evil buildings by 50%.</p>
-<p><b>Effect</b>: A1, Increase the production of Evil buildings by 4.14%.</p>
-<p><b>Effect</b>: A2, Increase the production of Evil buildings by 0.41%</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p>
 <p><b>Requirement</b>: Click 100 times on the little assistant around your realm.
@@ -74,9 +66,6 @@
 <p><b>Requirement</b>: Abdicate after producing at least 1 Oc (1E27) Coins.</p>
 <p><b>Cost</b>: 1 Oc (1e27), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings by 8%.</p>
-<p><b>Effect</b>: A1, Increase the production of all buildings by 0.77%.</p>
-<p><b>Effect</b>: A2, Increase the production of all buildings by 0.08%.</p>
-<p><b>Note</b>: This can be done at any R, The higher the R the easier it will be.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
 <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
@@ -88,8 +77,6 @@
 <p><b>Requirement</b>: Unlock Titans, Druids, and Faceless</p>
 <p><b>Cost</b>: 1 Ud (1e36), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless.</p>
-<p><b>Effect</b>: A1, Increase the production of all buildings by 0.49% when you are playing as Titan, Druid or Faceless.</p>
-<p><b>Effect</b>: A2, Increase the production of all buildings by 0.05% when you are playing as Titan, Druid or Faceless.</p>
 <p><b>Note</b>: This can be done at R0.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p>
@@ -109,8 +96,6 @@
 <p><b>Requirement</b>: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments (Good, Evil, Neutral) (This R).</p>
 <p><b>Cost</b>: 1 Qad (1e45), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings by 100%.</p>
-<p><b>Effect</b>: A1, Increase the production of all buildings by 7.18%.</p>
-<p><b>Effect</b>: A2, Increase the production of all buildings by 0.7%.</p>
 <p><b>Note</b>: This can be done at R0.</p>
 <p><b>Note</b>: Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.</p>
 <hr>
@@ -118,8 +103,6 @@
 <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
 <p><b>Cost</b>: 10 Nod (1e61), A1+, Free</p>
 <p><b>Effect</b>: Increase assistants production by 10%.</p>
-<p><b>Effect</b>: A1, Increase assistants production by 0.96%.</p>
-<p><b>Effect</b>: A2, Increase assistants production by 0.1%.</p>
 <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p>
@@ -132,8 +115,6 @@
 <p><b>Requirement</b>: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)</p>
 <p><b>Cost</b>: 8 Oc (8e27), A1+, Free</p>
 <p><b>Effect</b>: Increase offline production by 200%.</p>
-<p><b>Effect</b>: A1, Increase offline production by 11.6%.</p>
-<p><b>Effect</b>: A2, Increase offline production by 1.1%.</p>
 <p><b>Note</b>: This can be done at R0.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png align=middle><b> Need a Head Start?</b></p>
@@ -190,8 +171,6 @@
 <p><b>Requirement</b>: Purchase all the research facilities.</p>
 <p><b>Cost</b>: 1 Qag (1e123), A1+, Free</p>
 <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 100%.</p>
-<p><b>Effect</b>: A1, Increase the overall production of Vanilla Factions by 7.18%.</p>
-<p><b>Effect</b>: A2, Increase the overall production of Vanilla Factions by 0.7%.</p>
 <p><b>Note</b>: This can be done at R16.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle><b> Exchange Lord</b></p>
@@ -233,13 +212,7 @@
 <p><b>Requirement</b>: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
 <p><b>Cost</b>: 10 coins, A1+, Free</p>
 <p><b>Effect</b>: Increase Faction Coin find chance by 10%.</p>
-<p><b>Note</b>: Can be done from around R8+</p>
-<p><b>1</b>: Reincarnate, EXPORT to a text file and save that</p>
-<p><b>2</b>: Turn on 'Multibuy upgrade series'</p>
-<p><b>3</b>: Go Elf with Elf Bloodline</p>
-<p><b>4</b>: Buy max buildings</p>
-<p><b>5</b>: Buy all upgrades (Not Gem Power)</p>
-<p><b>6</b>: Load your save and retry if you don't get it.</p>
+<p><b>Note</b>: Can be done from R7+</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle><b> No Recruiting</b></p>
 <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
@@ -283,20 +256,18 @@
 <p><b>Requirement</b>: Spend at least 3 hours playing in this game.</p>
 <p><b>Cost</b>: 1000 coins, A1+, Free</p>
 <p><b>Effect</b>: Increase Royal Exchange bonus by an additional 1%.</p>
-<p><b>Note</b>: This is done at R0.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png align=middle><b> Triple Weirdness</b></p>
 <p><b>Requirement</b>: 333 of each Royal Exchange, R40+</p>
 <p><b>Cost</b>: 1 TTg (1e102), A2+, Free</p>
 <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.</p>
-<p><b>Formula</b>: 300 * log10(1 + x)^3, where x is offline mana regen.</p>
+<p><b>Formula</b>: 300 * log10(1 + x) ^ 3, where x is offline mana regen.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle><b> Stoic Resistance</b></p>
 <p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.</p>
 <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
 <p><b>Cost</b>: 10 Coins, A1+, Free</p>
 <p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)</p>
-<p><b>Note</b>: Possible at R30+ using Titan Bloodline.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
 <p><b>Requirement</b>: Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>
@@ -308,7 +279,6 @@
 <p><b>Requirement</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.</p>
 <p><b>Cost</b>: 3 SxSxg (3.8e201), A1+, Free</p>
 <p><b>Effect</b>: Iron Strongholds count 5% more for all purposes.</p>
-<p><b>Note</b>: A1 use Mercs + Gobline +Dwarf Expert Masonry, GG or LS for Faction Coins for first spell.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png align=middle><b> Colorful Autocasting</b></p>
 <p><b>Requirement</b>: Have each type of autocasting active simultaneously, R42+, (Silver,Gold,Bronze,Diamond).</p>
@@ -325,8 +295,6 @@
 <p><b>Requirement</b>: Click the Hint button 100 times.</p>
 <p><b>Cost</b>: 100 No (1e32), A1+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings by 10%.</p>
-<p><b>Effect</b>: A1, Increase the production of all buildings by 0.96%.</p>
-<p><b>Effect</b>: A2, Increase the production of all buildings by 0.1%.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png align=middle><b> Dragon Tamer</b></p>
 <p><b>Requirement</b>: Fully develop your Spiky Egg into an Elder Dragon, R46+.</p>
@@ -347,8 +315,7 @@
 <p><b>Requirement</b>: Have mana regeneration higher than max mana.</p>
 <p><b>Cost</b>: 1 Td (1e42), A1+, Free</p>
 <p><b>Effect</b>: Increase maximum mana based on spells cast in this game.</p>
-<p><b>Formula</b>: (127*(log10(1+x))^2.7), where x is spells cast.</p>
-<p><b>Note</b>: This can be done with Merc Build <a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>(IGOT an Excess of Mana R7-R11)</b></a></p>
+<p><b>Formula</b>: (127 * (log10(1 + x)) ^ 2.7), where x is spells cast.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png align=middle><b> Prismatic Mana</b></p>
 <p><b>Requirements</b>: R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts each(This R).<p>
@@ -371,7 +338,7 @@
 <p><b>Requirements</b>: Have a total of 300 Lineage levels across all Lineage.</p>
 <p><b>Cost</b>: 1 NoQig (1e180), A2+, Free</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.</p>
-<p><b>Formula</b>: (2.5 * x ^1.35), where x is total amount of lineage levels you have.</p>
+<p><b>Formula</b>: (2.5 * x ^ 1.35), where x is total amount of lineage levels you have.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png align=middle><b> Holy Frenzy</b></p>
 <p><b>Requirements</b>: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.
