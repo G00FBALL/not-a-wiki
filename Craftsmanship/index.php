@@ -63,7 +63,7 @@
 <br/>
 <p><b>C590</b> - For <b>Elf,Dwarf</b> - Research Name: <b>Alloys</b><p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwelf), Research Fusion(A105) and Blacksmithing(C520)</b><p><b>Cost</b>: 39.16 QiSpg (3.916E229)</b><p><b>Effect</b>: Increase clicking reward based on your chance to find Faction Coins, (if your FC chance is 10k%, this will be 10k%).<p><b>Effect</b>: Autoclicks the treasure 10 times per second.</p>
 <br/>
-<p><b>C1300</b> - For <b>Neutral,Dragon</b> - Research Name: <b>Scintillation</b><p><b>Requirement</b>: 30000 Max Mana, as any Neutral,Dragon (This game)</b><p><b>Cost</b>: 4.698 Tvg (4.698e72)<p><b>Effect</b>: Increase production of buildings based on max mana and gem bonus. (Higher boost for lower gem bonus.)<p><b>Formula</b>: ((250 * x ^ 0.5) / y ^ 0.95), where x is max mana and y is total bonus from gem bonus upgrades.</p>
+<p><b>C1300</b> - For <b>Neutral,Dragon</b> - Research Name: <b>Scintillation</b><p><b>Requirement</b>: 30000 Max Mana, as any Neutral,Dragon (This game)</b><p><b>Cost</b>: 4.698 Tvg (4.698e72)<p><b>Effect</b>: Increase production of buildings based on max mana and additive gem bonus. (Higher boost for lower gem bonus.)<p><b>Formula</b>: ((250 * x ^ 0.5) / y ^ 0.95), where x is max mana and y is total additive gem bonus.</p>
 <br/>
 <p><b>C1325</b> - For <b>All Factions</b> - Research Name: <b>Plasmation</b><p><b>Requirement</b>: 50m (5e7) Mana Produced (This game)</b><p><b>Cost</b>: 144.9 Tvg (1.449e74)<p><b>Effect</b>: Gain assistants based on mana produced in this game.<p><b>Formula</b>: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game).</p>
 <br/>
