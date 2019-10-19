@@ -427,10 +427,11 @@
                             <p>E350,E1225,E1325,</p>
                             <p>A270,A300,A1200,</p>
                             <p>W275,W1275,W1400</p>
-                            <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R. More buffing is better, but has minimal effect.</p>
+                            <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R.</p>
+							<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
 							<p><b>Notes</b>: Some DJ5 buffing during the run helps, but has severe diminishing returns.</p>
                             <p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
-                            <p><b>Notes</b>: Takes about 5 hours to complete the challenge.</p>
+                            <p><b>Notes</b>: Takes about 4 hours to complete the challenge.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -594,6 +595,29 @@
 					<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
                     <p><b>Note</b>: Buff Max Excavations and Excavation resets.</p>
                     <p><b>Note</b>: Estimated time to L45 is ?.</p>
+                </div>
+            </div>
+			<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (R148+) (Makers L45)</a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Kiluh</p>
+                    <p><b>Requirements</b>: Goblin Lineage L45, Djinn Challenge 4</p>
+                    <p><b>Range</b>: ?</p>
+                    <p><b>Faction</b>: Faceless</p>
+                    <p><b>Bloodline</b>: Makers</p>
+                    <p><b>Artifact Set</b>: Faceless</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
+                    </p>
+                    <p>S251,S375,S400,S1450,S1500,</p>
+                    <p>C400,C1300,</p>
+                    <p>D260,D290,D1125,</p>
+                    <p>E320,E350,E1225,</p>
+                    <p>A300,A1200,A3400,</p>
+                    <p>W275,W1375,W1400</p>
+                    <p><b>Note</b>: Buff Max Assistants, Max Spells, Max Excavations and Excavation resets.</p>
+                    <p><b>Note</b>: Estimated time to L45 is 0.5-1 hours with 600k (6e5) S400, 1.3M (1.3e6) 57 excavation resets, 100 Qa (1e17) max assistants. Estimated time heavily differs on buffs.</p>
                 </div>
             </div>
         </div>
