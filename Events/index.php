@@ -1475,9 +1475,9 @@ div#images div{
                 <p><b>Kind</b>: Monster</p>
                 <p><b>Level</b>: 25</p>
                 <p><b>Unlock / Price</b>: 660 Ectoplasm</p>
-                <p><b>Effect</b>: Increase maximum mana and mana regeneration based on clicks made in this game.</p>
+                <p><b>Effect</b>: Multiplicately increase maximum mana and mana regeneration based on clicks made in this game.</p>
                 <p><b>Formula</b>: Max Mana: log10((1 + x) ^ 2.5)</p>
-                <p><b>Formula</b>: Mana Regeneration: log10((1 + x) ^ 2.25), non additive boost.</p>
+                <p><b>Formula</b>: Mana Regeneration: log10((1 + x) ^ 2.25)</p>
                 <br/>
                 <p><b><img src="/realm/Factions/picks/Spectre.png" alt="Spectre" align="middle"> Spectre</b></p>
                 <p><b>Kind</b>: Monster</p>

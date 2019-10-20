@@ -69,7 +69,7 @@
         <table>
             <thead>
             <tr>
-                <th>Point to Arcane Brilliance Trophy ingame to see what spell tiers need unlocked</th>
+                <th><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></th>
             </tr>
             </thead>
         </table>
@@ -83,18 +83,18 @@
             <table id="calcformtiers" border="0">
                 <tr>
                     <td>Tiers</td>
-                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="7"></td>
+                    <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
                 </tr>
-                <tr>
-                    <td>Arcane Brilliance trophies</td>
-                    <td><input title="Number of Arcane Brilliance trophies" type="number" min="0" max="6" maxlength="1" name="ab" id="ab" value="0"></td>
+				<tr>
+                    <td>Total Unlocked Tiers</td>
+                    <td><input title="Number of total unlocked tiers" type="number" min="0" max="102" maxlength="1" name="ut" id="ut" value="0"></td>
                 </tr>
                 <tr>
                     <td>Reincarnations</td>
-                    <td><input type="number" min="42" max="157" name="rmin" id="rmin" value="42">-<input type="number" min="42" max="157" name="rmax" id="rmax" value="42"></td>
+                    <td><input type="number" min="42" max="220" name="rmin" id="rmin" value="42">-<input type="number" min="42" max="220" name="rmax" id="rmax" value="60"></td>
                 </tr>
                 <tr>
-                    <td colspan="2"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ab.value,tmin.value,tmax.value)"></td>
+                    <td colspan="2"><input type="button" value="Show" onclick="commitMainTable(rmin.value,rmax.value,ut.value,tmin.value,tmax.value)"></td>
                 </tr>
 
             </table>
@@ -115,11 +115,11 @@
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
         <script>
-            var minTier = 2;
-            var maxTier = 7;
-            var arcane = 0;
-            var minReinc = 42;
-            var maxReinc = 50;
+            var minTier = document.getElementById("tmin").value;
+            var maxTier = document.getElementById("tmax").value;
+            var unlockedTiers = document.getElementById("ut").value;
+            var minReinc = document.getElementById("rmin").value;
+            var maxReinc = document.getElementById("rmax").value;
             var table = document.getElementById("mainTable");
             function clamp(x, min, max) {
                 return Math.min(Math.max(x, min), max);
@@ -138,20 +138,19 @@
                 }
             }
 
-            function commitMainTable(Rmin, Rmax, AB, Tmin, Tmax) {
+            function commitMainTable(Rmin, Rmax, UT, Tmin, Tmax) {
                 minReinc = Math.max(parseInt(Rmin), 40);
                 maxReinc = Math.max(parseInt(Rmax), 40);
-                arcane = clamp(parseInt(AB), 0, 6);
+                unlockedTiers = clamp(parseInt(UT), 0, 102);
                 minTier = clamp(parseInt(Tmin), 2, 7);
                 maxTier = clamp(parseInt(Tmax), 2, 7);
-                if (localStorage) {
+                if (localStorage) { //TODO: actually pull from localstorage
                     localStorage.setItem('mint', minTier);
                     localStorage.setItem('maxt', maxTier);
-                    localStorage.setItem('ab', arcane);
+                    localStorage.setItem('ut', unlockedTiers);
                     localStorage.setItem('minr', minReinc);
                     localStorage.setItem('maxr', maxReinc);
                 }
-                commitInput();
                 commitMainHead();
                 $("#mainTable > tbody").empty();
                 for (i = minReinc; i <= maxReinc; i++) {
@@ -160,11 +159,13 @@
                     cellR.innerHTML = "R" + i;
                     cellR.style.textAlign = "center";
                     for (j = minTier; j <= maxTier; j++) {
-                        var t = j - 0.5 * arcane;
-                        var Generator = (t ** 2 - t) * 0.98 ** (i - (t - 0.5) - 42);
-                        var Days = Math.floor(0.5 * Generator);
-                        var Hours = Math.floor(12 * Generator) - 24 * Days;
-                        var Minutes = Math.round(720 * Generator) - ( 24 * 60 * Days + 60 * Hours );
+                        var ut = unlockedTiers;
+						//86400 * (0.4 + 0.1 * j) * ((j ^ 2 + 1) / (0.1 * ut + 1)) * (0.98 ^ (i - 35))
+						//Where j = tier, ut = number of unlocked tiers, i = reincarnation
+                        var Generator = (0.4 + 0.1 * j) * ((j ** 2 + 1) / (0.1 * ut + 1)) * (0.98 ** (i - 35));
+                        var Days = Math.floor(Generator);
+                        var Hours = Math.floor(24 * Generator) - 24 * Days;
+                        var Minutes = Math.round(1440 * Generator) - ( 24 * 60 * Days + 60 * Hours );
                         //I can't be assed to do the 60 rounded minute correction properly...
                         if (Minutes == 60) {
                             Minutes = 0;
@@ -176,7 +177,7 @@
                         }
                         var cell = row.insertCell(-1);
                         cell.style.textAlign = "center";
-                        if ((j<7 || i >= 100) && j-1 > arcane) {
+                        if (j<7 || i >= 100) {
                             cell.innerHTML =
                                 (( Math.floor(Days) > 0 ) ? Math.floor(Days) + "d" : "") +
                                 (( Math.floor(Hours) > 0 ) ? " " + Math.floor(Hours) + "h" : "") +
@@ -187,21 +188,13 @@
                     }
                 }
             }
-
-            function commitInput() {
-                document.getElementById("tmin").value = minTier;
-                document.getElementById("tmax").value = maxTier;
-                document.getElementById("ab").value = arcane;
-                document.getElementById("rmin").value = minReinc;
-                document.getElementById("rmax").value = maxReinc;
-            }
-            commitMainTable(minReinc, maxReinc, arcane, minTier, maxTier);
+            commitMainTable(minReinc, maxReinc, unlockedTiers, minTier, maxTier);
 
             //handler for enter button on input not using submit button
             $(function () {
                 $("form input").keypress(function (e) {
                     if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13))
-                        commitMainTable(rmin.value, rmax.value, ab.value, tmin.value, tmax.value);
+                        commitMainTable(rmin.value, rmax.value, ut.value, tmin.value, tmax.value);
                 });
             });
         </script>
