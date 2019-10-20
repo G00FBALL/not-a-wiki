@@ -478,7 +478,7 @@
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Titan (Archon Challenge 5)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Rellikrellik</p>
-                            <p><b>Requirement</b>: Djinn Challenge 5, Makers Challegne 5, Faceless Lineage 45</p>
+                            <p><b>Requirement</b>: Djinn Challenge 5, Makers Challenge 5, Faceless Lineage 45</p>
                             <p><b>Range</b>: 1e130 (10 Dqag) Gems+</p>
                             <p><b>Faction</b>: Titan</p>
                             <p><b>Bloodline</b>: Faceless</p>
