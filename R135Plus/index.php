@@ -523,7 +523,7 @@
                     <p>E25,E320,E410,</p>
                     <p>A400,A495,</p>
                     <p>W10,W560,W1375</p>
-                    <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless Set.</p>
+                    <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless Set.</p>
                     <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
                 </div>
             </div>
@@ -547,7 +547,7 @@
                     <p>E1,E225,E320,E495,E590,</p>
                     <p>A10,A400,A410,</p>
                     <p>W25,W205,W405,W520</p>
-                    <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless set.</p>
+                    <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless set.</p>
                     <p><b>Note</b>: Can level most Lineages including Angeline.</p>
                 </div>
             </div>
@@ -569,7 +569,7 @@
                     <p>E25,E320,E410,</p>
                     <p>A400,A495,</p>
                     <p>W10,W560,W1375</p>
-                    <p><b>Note</b>: Buff Max Excavations and Excavation resets, Faceless Set.</p>
+                    <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless Set.</p>
                     <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
                 </div>
             </div>
@@ -593,7 +593,7 @@
                     <p>A50,A400,A495,</p>
                     <p>W225,W560,W1375</p>
 					<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
-                    <p><b>Note</b>: Buff Max Excavations and Excavation resets.</p>
+                    <p><b>Note</b>: Buff Total Excavations and Excavation resets.</p>
                     <p><b>Note</b>: Estimated time to L45 is ?.</p>
                 </div>
             </div>
@@ -616,7 +616,7 @@
                     <p>E320,E350,E1225,</p>
                     <p>A300,A1200,A3400,</p>
                     <p>W275,W1375,W1400</p>
-                    <p><b>Note</b>: Buff Max Assistants, Max Spells, Max Excavations and Excavation resets.</p>
+                    <p><b>Note</b>: Buff Max Assistants, Max Spells, Total Excavations and Excavation resets.</p>
                     <p><b>Note</b>: Estimated time to L45 is 0.5-1 hours with 600k (6e5) S400, 1.3M (1.3e6) 57 excavation resets, 100 Qa (1e17) max assistants. Estimated time heavily differs on buffs.</p>
                 </div>
             </div>
@@ -794,7 +794,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels (Max Excavations/Excavation resets build)</a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels (Total Excavations/Excavation resets build)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: AquaKnight</p>
                     <p><b>Requirement</b>: Archon Challenge 1</p>
