@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush 0 - (R170+) 1e68 (100 Uvg) <b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush (R170+) 0 - 1e68 (100 Uvg) <b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
