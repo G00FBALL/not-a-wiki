@@ -5,8 +5,49 @@
 <?php include "../scripts/header.html"; ?>
 <h6>All Changes and Additions</h6>
 <p><b>Old patches may not have correct information as new patches will change things</p></b>
-<p><b>V3.6.2 September 17th, 2019</b></p>
 <br/>
+<p><b>V3.6.3 October 24th, 2019</b></p>
+<p><b>Event Update</b>: Halloween Event</p>
+<p><b>Added</b>: Added a new Halloween feat and upgrade.</p>
+<p><b>Fixed</b>: Spell switching in Halloween.</p>
+<p>Check  <a target="_blank" href="http://musicfamily.org/realm/Events/"><b>Event</b></a>  page once event starts.</p>
+<p><b>Note</b>: Event stacks increased to 720 (12 Hours). Feats that required full stacks of resources still require 480 resources.</p>
+<br/>
+<p><b>Added</b>: An option to manually set game resolution for the mobile.</p>
+<br/>
+<p><b>Changed</b>: Tax Collection no longer counts against spells in autocast for offline activity time generation.</p>
+<br/>
+<p><b>Upgrades Changed</b></p>
+<p><b>Mana Wave, River, Lake, Sea, Ocean</b></p>
+<p><b>Old Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>New Effect</b>: Increase Mana regeneration by +50.00.</p>
+<br/>
+<p><b>Mana Falls, Spring</b></p>
+<p><b>Old Effect</b>: Increase Mana regeneration by +10.00.</p>
+<p><b>New Effect</b>: Increase Mana regeneration by +100.00.</p>
+<br/>
+<p><b>Wall Fragment</b></p>
+<p><b>Effect</b>: Increases the production of all buildings based on their tier.</p>
+<p><b>Old Formula</b>: (250 * (11 - T) ^ 2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<p><b>New Formula</b>: (300 * (11 - T) ^ 2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<br/>
+<p><b>Spells</b></p>
+<p><b>Note</b>: Spell tier unlock formula reworked: Higher tiers take less to unlock, Time reduction now based on tiers unlocked so far instead of Arcane Brilliance Trophies.</p>
+<p><b>New Spell Tier time formula</b>: Spell Activity Required This R (in seconds) for Tier T : (86400 * (0.4 + 0.1 * T) * ((T ^ 2 + 1) / (0.1 * U + 1)) * (0.98 ^ (R - 35))), Where T = tier, U = number of unlocked tiers, R = reincarnation.</p>
+<br/>
+<p><b>Arcane Brilliance</b></p>
+<p><b>Old Effect</b>: Reduces tier unlock time.</p>
+<p><b>New Effect</b>: No longer has an effect.</p>
+
+
+
+
+
+<br/>
+<div class="shlisting">
+    <div class="shelementwhole">
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.6.2 September 17th, 2019</a></b></p>
+        <div class="autohide">
 <p><b>New Event</b>: Idilium Event</p>
 <p>Check  <a target="_blank" href="http://musicfamily.org/realm/Events/"><b>Event</b></a>  page once event starts</p>
 <br/>
@@ -42,7 +83,8 @@
 <p><b>Old Formula</b>: (2 * log10(1 + x) ^ 2), where x is spells cast in this game.</p>
 <p><b>New Formula</b>: (2.25 * log10(1 + x) ^ 2.25), where x is spells cast in this game.</p>
 <br/>
-<div class="shlisting">
+    </div>
+   </div>
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.6.1 August 21st, 2019</a></b></p>
         <div class="autohide">
