@@ -330,7 +330,7 @@
 	coords="9,775,64,827" shape="rect">
     <area href="http://musicfamily.org/realm/Druid/#DruidDC1" target="" research=
 	"<p><b>Druid Challenge 1</b></p>
-	<p><img src=http://musicfamily.org/realm/Factions/picks/SilentAssistanceChallenges.png align=middle> <b>Silent Assistance</b>
+	<p><img src=http://musicfamily.org/realm/Factions/picks/SilentAssistanceChallenges.png align=middle> <b>Silent Assistance</b></p>
 	<p>&quot;The ancient druids request evidence that you are a servant of balance before your inclusion to their ranks.&quot;</p>
 	<p><b>Requirements</b>: Druid as Base Fraction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
