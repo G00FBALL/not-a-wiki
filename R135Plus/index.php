@@ -495,7 +495,7 @@
                             <p>W260,W1400,W1375,W1275,W180,W400,W150,W290</p>
                             <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
                             <p><b>Note</b>: Build is listed in order of purchase.</p>
-                            <p><b>Note</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R, AR8 to 1h per spell, and Excavation Resets to 50+ this R as much as possible before starting the run.</p>
+                            <p><b>Note</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
                             <p><b>Note</b>: Starts slow but grows well, estimated 2-3 days to complete.</p>
                         </div>
                     </div>
