@@ -19,7 +19,7 @@
         <p><b>Production Builds R125-R130</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves, 0 - 1e47 (100 Qad)</a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e47 (100 Qad)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Sad</p>
                     <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves, 1e47 (100 Qad) - ?</a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e47 (100 Qad) - ?</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Rellikrellik</p>
                     <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage</p>
@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel (Range?)</a></b></p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angel (Range?)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Rellikrellik, Liminal.Shadow</p>
                     <p><b>Range</b>: ?</p>
