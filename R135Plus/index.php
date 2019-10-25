@@ -471,7 +471,7 @@
 							<p>E1,E225,E320,E495,E590,</p>
 							<p>A10,A400,A410,</p>
 							<p>W25,W205,W405,W520</p>
-                            <p><b>Note</b>: Buff Max Spells (S400 3e5 (300 K)+), Max Excavations and Excavation Resets (50+).</p>
+                            <p><b>Note</b>: Buff Max Spells (S400 3e5 (300 K)+), Max Excavations, Excavation resets and Max assistants.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
