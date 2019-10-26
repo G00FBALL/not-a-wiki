@@ -225,7 +225,7 @@
     <p><b>Note</b>: For offline bonuses, A1 tier upgrades count as A0 upgrades and A2 tier upgrades count as A1 upgrades for ascension penalty purposes.</p>
     <p><b>Unlock Formulas</b></p>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)</p>
-    <p>Time for tier: Formula: 43200 * ((T - 0.5 * A) ^ 2 - (T - 0.5 * A)) * 0.98 ^ (R - (T - 0.5 * (A + 1)) - 42) seconds, where T is tier, A is amount of arcane brilliance trophies, R is reincarnation.</p>
+    <p>Time for tier: Formula: (86400 * (0.4 + 0.1 * T) * ((T ^ 2 + 1) / (0.1 * U + 1)) * (0.98 ^ (R - 35))) Where T is Tier, U is number of unlocked tiers (Amount of tiers unlocked over tier 1 in all spells), R is reincarnation count</p>
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}</p>
     <p>Faction Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}</p>
     <p>where x is costs (see above table), R is your Reincarnation count, and n + 1 is number of upgrades.</p>
