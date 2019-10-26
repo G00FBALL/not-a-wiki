@@ -89,10 +89,10 @@
 <p>Hey There! We need a safe place to keep our honestly earned savings. We'll turn those Witch Conclaves into something more... useful, if you build enough of them.</p>
 <p><b>Requirement</b>: R16 + 1750 Witch Conclaves</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
+<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank</b></p>
 <p>Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.</p>
-<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 <p><b>Effect</b>: floor(log10(x+1)^(3.1/(1.1 + 0.1*A))) where x is your current amount of Coins and A is ascension.</p>
 <p><b>Effect</b>: +Access to the Research Facilities.</p>
 <p><b>Requirements</b>: Buy "Goblin Banks Quest"</p>
