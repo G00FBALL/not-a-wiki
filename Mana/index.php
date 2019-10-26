@@ -44,37 +44,37 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png" alt="Mana Wave" align="middle"> Mana Wave</b></p>
 <p><b>Requirement</b>: 20 M (2E7) mana produced, R40+</p>
 <p><b>Upgrade Cost</b>: 80 Sp (8E25), A2+ Free</p>
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png" alt="Mana River" align="middle"> Mana River</b></p>
 <p><b>Requirement</b>: 1 B (1E9) mana produced, R40+</p>
 <p><b>Upgrade Cost</b>: 90 Oc (9E28), A2+ Free</p>
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png" alt="Mana Lake" align="middle"> Mana Lake</b></p>
 <p><b>Requirement</b>: 20 B (2E10) mana produced, R40+</p>
 <p><b>Upgrade Cost</b>: 100 No (1E32), A2+ Free</p>
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png" alt="Mana Sea" align="middle"> Mana Sea</b></p>
 <p><b>Requirement</b>: 1 T (1E12) mana produced, R40+</p>
 <p><b>Upgrade Cost</b>: 12.5 Uqag No (1.25e127), A2+ Free</p>
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png" alt="Mana Ocean" align="middle"> Mana Ocean</b></p>
 <p><b>Requirement</b>: 2 T (2E12) mana produced, R40+</p>
 <p><b>Upgrade Cost</b>: 150 Noqag (1.5e152), A2+ Free</p>
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png" alt="Mana Spring" align="middle"> Mana Spring</b></p>
 <p><b>Requirement</b>: 100 T (1E14) mana produced, R100+</p>
 <p><b>Upgrade Cost</b>: 1 Sp (1e24)
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +10.00.
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +100.00.
 <hr>
 <p><b><img src=http://musicfamily.org/realm/Factions/picks/ManaFalls.png align=middle> Mana Falls</b></p>
 <p><b>Requirement</b>: Produce 200 Qi (2e20) mana (Total), R100+</p>
 <p><b>Upgrade Cost</b>: 10 Dqag (1e130)</p>
-<p><b>Upgrade Effect</b>: Increase Mana regeneration by +10.00.</p>
+<p><b>Upgrade Effect</b>: Increase Mana regeneration by +100.00.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png" alt="Automatic Casting" align="middle"> Automatic Casting</b></p>
 <p><b>Requires</b>: 60,000 mana produced</p>
