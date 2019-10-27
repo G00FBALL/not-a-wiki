@@ -86,8 +86,8 @@
                     <td><input type="number" min="2" max="7" name="tmin" id="tmin" value="2">-<input type="number" min="2" max="7" name="tmax" id="tmax" value="6"></td>
                 </tr>
 				<tr>
-                    <td>Total Unlocked Tiers</td>
-                    <td><input title="Number of total unlocked tiers" type="number" min="0" max="102" maxlength="1" name="ut" id="ut" value="0"></td>
+                    <td>Total Unlocked Tier Upgrades</td>
+                    <td><input title="Number of total unlocked tier upgrades" type="number" min="0" max="102" maxlength="1" name="ut" id="ut" value="0"></td>
                 </tr>
                 <tr>
                     <td>Reincarnations</td>
@@ -225,7 +225,7 @@
     <p><b>Note</b>: For offline bonuses, A1 tier upgrades count as A0 upgrades and A2 tier upgrades count as A1 upgrades for ascension penalty purposes.</p>
     <p><b>Unlock Formulas</b></p>
     <p>Each Tier Spell upgrade requires Time (Total), Coins, and Faction Coins (except for Call to arms)</p>
-    <p>Time for tier: Formula: (86400 * (0.4 + 0.1 * T) * ((T ^ 2 + 1) / (0.1 * U + 1)) * (0.98 ^ (R - 35))) Where T is Tier, U is number of unlocked tiers (Amount of tiers unlocked over tier 1 in all spells), R is reincarnation count.</p>
+    <p>Time for tier: Formula: (86400 * (0.4 + 0.1 * T) * ((T ^ 2 + 1) / (0.1 * U + 1)) * (0.98 ^ (R - 35))) Where T is Tier, U is number of unlocked tier upgrades in all spells (Aka tiers above tier 1), R is reincarnation count.</p>
     <p>Diamond Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}</p>
     <p>Faction Coins for tier n + 1: Formula: x^{1 + 0.25 * (n - 1)}</p>
     <p>where x is costs (see above table), R is your Reincarnation count, and n + 1 is number of upgrades.</p>
