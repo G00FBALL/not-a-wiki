@@ -69,7 +69,7 @@
         <table>
             <thead>
             <tr>
-                <th><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></th>
+                <th><a target="_blank" style="font-size: 26px;" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></th>
             </tr>
             </thead>
         </table>
