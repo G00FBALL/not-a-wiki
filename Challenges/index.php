@@ -332,7 +332,7 @@
 	"<p><b>Druid Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/SilentAssistanceChallenges.png align=middle> <b>Silent Assistance</b></p>
 	<p>&quot;The ancient druids request evidence that you are a servant of balance before your inclusion to their ranks.&quot;</p>
-	<p><b>Requirements</b>: Druid as Base Fraction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
+	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 	<p><b>Effect</b>: Animal Companions (1,2) works faster</p>
 	<p><b>Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
@@ -342,7 +342,7 @@
 	"<p><b>Druid Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/BalancedCurrentChallenges.png align=middle> <b>Balanced Current</b></p>
 	<p>&quot;Our sorcerers are desperately trying to stabilize the balance of the realm, this is your opportunity to gain their favor - and live another day.&quot;</p>
-	<p><b> Requirements</b>: Druid as Base Fraction, Reincarnation 9+, Druid Bloodline, Elf and Demon challenge 2 and Druid challenge 1 completed.</p>
+	<p><b> Requirements</b>: Druid as Base Faction, Reincarnation 9+, Druid Bloodline, Elf and Demon challenge 2 and Druid challenge 1 completed.</p>
 	<p><b>Challenge</b>: Have exactly 1600 of each building types, for 16 full Grand Balance casts. (The 16 casts only counts after you have all the 1600 buildings.)</p>
 	<p><b>Effect</b>: Mana regeneration is increased by 1% for every 5000 buildings.</p>
 	<p><b>Upgrade</b>: Works with Titan</p>"
@@ -351,7 +351,7 @@
 	"<p><b>Druid Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/EldritchArchitectureChallenges.png align=middle> <b>Eldritch Architecture</b></p>
 	<p>&quot;Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.&quot;</p>
-	<p><b>Requirements</b>: Druid as Base Fraction, Reincarnation 19+, 1000 excavations, Elf and Demon challenge 3 and Druid challenge 2 completed.</p>
+	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 19+, 1000 excavations, Elf and Demon challenge 3 and Druid challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.</p>
 	<p><b>Effect</b>: You gain 1.5 additional max mana for every 100 buildings.</p>
 	<p><b>Upgrade</b>: Works with Faceless</p>
@@ -364,10 +364,11 @@
 	"<p><b>Druid Challenge 4</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/OverflowingManaChallenges.png align=middle> <b>Overflowing Magic</b></p>
 	<p>&quot;The Druids need more spell power, but they are worried about outside influences throwing off their balance.&quot;</p>
-	<p><b>Requirements</b>: Druid as Base Fraction, Reincarnation 25+, Druid Unique Building, Druid challenge 3 completed.</p>
+	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 25+, Druid Unique Building, Druid challenge 3 completed.</p>
 	<p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
 	<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell. Ascension penalty reduces based on time this Reincarnation.</p>
-	<p><b>Formula</b>: (75 * x ^ 0.75), where x is the duration of your longest spell.</b><p><b>Ascension penalty reducution formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
+	<p><b>Formula</b>: (75 * x ^ 0.75), where x is the duration of your longest spell.</b></p>
+	<p><b>Ascension penalty reducution formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
 	<p><b>Upgrade</b>: Works with All</b></p>
 	<p><b>Tips</b>: Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>"
 	coords="262,774,317,827" shape="rect">
