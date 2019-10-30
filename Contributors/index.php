@@ -4,6 +4,8 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>Thank you for all your help</h6>
+<p>Grazloth</p>
+<p>hiimahotdog</p>
 <p>mrothorr</p>
 <p>AKL</p>
 <p>mangafreak140</p>

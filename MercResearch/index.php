@@ -130,7 +130,7 @@
 <p><b>Formula</b>: 0.1 * x ^ 0.7</p>
 <br/>
 <p><b>D3350</b>: For All Factions - Spell Name: Vampirism</p>
-<p><b>Requirement</b>: 1QA% (1e15) offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
+<p><b>Requirement</b>: 100 Sp (1e26)% offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
 <p><b>Cost</b>: 492.5 QaSxg (4.925e197)</p>
 <p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
 <p><b>Formula</b>
