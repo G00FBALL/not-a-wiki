@@ -326,7 +326,8 @@
 	<p><b>Effect</b>: Grand Balance now affects extra buildings based on mana spent this reincarnation.</p>
 	<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/PrimalBalance.png alt=Primal Balance align=middle></a></p>
-	<p>Effect: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.<p>Formula: (3 * (x - 10) ^ 1.5), where x is the amount of additional targets, not A-nerfed.</p>"
+	<p>Effect: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.</p>
+	<p>Formula: (3 * (x - 10) ^ 1.5), where x is the amount of additional targets, not A-nerfed.</p>"
 	coords="9,775,64,827" shape="rect">
     <area href="http://musicfamily.org/realm/Druid/#DruidDC1" target="" research=
 	"<p><b>Druid Challenge 1</b></p>
