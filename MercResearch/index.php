@@ -130,7 +130,7 @@
 <p><b>Formula</b>: 0.1 * x ^ 0.7</p>
 <br/>
 <p><b>D3350</b>: For All Factions - Spell Name: Vampirism</p>
-<p><b>Requirement</b>: 1e26 (100 Sp)% offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
+<p><b>Requirement</b>: 100 Sp (1e26)% offline bonus, Intervention (D2775) and Upheaval (W3150).</p>
 <p><b>Cost</b>: 492.5 QaSxg (4.925e197)</p>
 <p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
 <p><b>Formula</b>
@@ -155,14 +155,14 @@
 <p><b>Effect</b>: You also gain all the base effect of its respective Lineage.</p>
 <br/>
 <p><b>A3400</b>: For All Factions - Spell Name: Chemistry</p>
-<p><b>Requirement</b>: 1 No (1e30) FC, (Customizing C3000) and (Manipulation S3200).</p>
+<p><b>Requirement</b>: 1 No (1e30) FC, Customizing (C3000) and Manipulation (S3200).</p>
 <p><b>Cost</b>: 533.7 QiSxg (5.337e200)</p>
 <p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.</p>
 <p><b>Effect</b>: Also increases Faction Coin find chance by a multiplicative 350%.</p>
 <p><b>Formula</b>: (3 * x ^ 2.25), where x is total Lineage levels.</p>
 <hr>
 <p><b>W3050</b>: For Mercenary - Spell Name: Flanking</p>
-<p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).</p>
+<p><b>Requirement</b>: 50000 Base Assistants, Authority (W1275) and Intimidation (E1325).</p>
 <p><b>Cost</b>: 304.1 OcQig (2.146e179)</p>
 <p><b>Effect</b>: Increases the production of buildings one tiers directly above or below a Unique Building based on the amount of assistants you own.</p>
 <p><b>Formula</b>: (0.2 * x ^ 0.7), where x is assistants.</p>
