@@ -655,7 +655,7 @@
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><b><img src=http://musicfamily.org/realm/Factions/picks/FullWish.png align=middle> Full Wish</b></p>
-	<p><b>Effect</b>: Production of all buildings effect of Limited Wish is active on every cast and is no longer a possible random outcome.&quot;</p>"
+	<p><b>Effect</b>: Production of all buildings effect of Limited Wish is active on every cast and is no longer a possible random outcome.</p>"
 	coords="5,1385,62,1439" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC1" target="" research=
 	"<p><b>Djinn Challenge 1</b></p>
