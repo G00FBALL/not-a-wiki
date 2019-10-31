@@ -192,13 +192,13 @@
                         <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenChickenEaster2017.png align=middle> Golden Chicken<p>Type: Feat<p>Requirement: Collect at least 480 eggs with a single click while playing as Goblin or Droblin (1m per egg = 8h)<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="391,105,447,162" shape="rect">
                         <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/GreyEaster2017.png align=middle> Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="3,169,61,227" shape="rect">
                         <area research="Easter 2018<p><img src=http://musicfamily.org/realm/Factions/picks/BunnyHelpers2018.png align=middle> Bunny Helpers<p>Requirement: Collect at least 480 Eggs with a single click while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="67,169,125,226" shape="rect">
-                        <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg<p>Collect a full stack of  Eggs while having at least 3 active spells.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Increase base clicking reward by 100% of your Mana Regeneration.<p>Effect: Also clicks once per second.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="132,170,189,228" shape="rect">
+                        <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg<p>Collect at least 480 Eggs with a single click while having at least 3 active spells.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Increase base clicking reward by 100% of your Mana Regeneration.<p>Effect: Also clicks once per second.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="132,170,189,228" shape="rect">
                         <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/ChillOut.PNG align=middle> Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="197,170,255,226" shape="rect">
                         <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/WarmUp.PNG align=middle> Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="262,169,318,226" shape="rect">
                         <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/SummeraanAlliance.PNG align=middle> Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="326,169,382,227" shape="rect">
                         <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/WinterlyAlliance.PNG align=middle> Winterly Champion<p>Type: Feat<p>Requirement: Purchase all 3 Winterly upgrades.<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="389,168,447,228" shape="rect">
-                        <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/ClimateForecast.png align=middle> Climate Forecast<p>Type: Feat<p>Requirement: Collect a full stack of any Orbs while unaffilliated with either of the Summer Festival faction.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,233,61,292" shape="rect">
-                        <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/Frostmelter.png align=middle> Frostmelter<p>Type: Feat<p>Requirement: Collect a full stack of any Orbs while having all three upgrades of either Summeraan or Winterly.<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Multiplicatively increase Faction Coin find chance based on clicks made all time.<p>Formula: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="68,234,126,291" shape="rect">
+                        <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/ClimateForecast.png align=middle> Climate Forecast<p>Type: Feat<p>Requirement: Collect at least 480 of any Orbs with a single click while unaffilliated with either of the Summer Festival faction.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,233,61,292" shape="rect">
+                        <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/Frostmelter.png align=middle> Frostmelter<p>Type: Feat<p>Requirement: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Multiplicatively increase Faction Coin find chance based on clicks made all time.<p>Formula: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="68,234,126,291" shape="rect">
                         <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/MonsterBreederFeat.png align=middle> Monster Breeder <p>Type: Feat, 3 part Quest<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="132,234,191,291" shape="rect">
                         <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/PumpkinSmasher4.png align=middle> Pumpkin Smasher<p>Type: Feat, 4 part Quest<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="197,234,254,291" shape="rect">
                         <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/Spooky.png align=middle> Spooky<p>Type: Feat<p>Requirements: Collect at least 480 Ectoplasm with a single click while using Ghost monster pet." coords="261,233,320,291" shape="rect">
@@ -215,10 +215,10 @@
                         <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="67,361,124,418" shape="rect">
                         <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="132,360,189,419" shape="rect">
                         <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="198,361,255,419" shape="rect">
-                        <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect a full stack of Goblin Crowns while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,360,319,419" shape="rect">
+                        <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="261,360,319,419" shape="rect">
                         <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect at least 480 Goblin Crowns with a single click while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="326,361,383,418" shape="rect">
-                        <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector<p>Type: Feat<p>Requirements: Collect a full stack of Entropic Drops while affiliated with the Fairies.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,361,446,418" shape="rect">
-                        <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector<p>Type: Feat<p>Requirements: Collect a full stack of Crystal Prisms while affiliated with the Undead.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,424,60,481" shape="rect">
+                        <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector<p>Type: Feat<p>Requirements: Collect at least Entropic Drops with a single click while affiliated with the Fairies.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,361,446,418" shape="rect">
+                        <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector<p>Type: Feat<p>Requirements: Collect at least Crystal Prisms with a single click while affiliated with the Undead.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,424,60,481" shape="rect">
                         <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age<p>Type: Feat<p>Requirements: Cast Remnant spells at least 1000 times.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="69,426,124,482" shape="rect">
                         <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration<p>Type: Feat<p>Requirements: Upgrade Order Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="133,426,189,482" shape="rect">
                         <area research="Idillium<p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration<p>Type: Feat<p>Requirements: Upgrade Chaos Remnant to Level 15.<p>Note: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,424,254,482" shape="rect">
@@ -704,10 +704,10 @@
                                 <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                                 <br>
                                 <p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
-                                <p><b>Requirements</b>: Collect a full stack of Entropic Drops while affiliated with the Fairies.</p>
+                                <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
                                 <br>
                                 <p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> <b>Aggressive Collector</b></p>
-                                <p><b>Requirements</b>: Collect a full stack of Crystal Prisms while affiliated with the Undead.</p>
+                                <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
                                 <br>
                                 <p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> <b>Golden Age</b></p>
                                 <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
@@ -960,7 +960,7 @@
                                 <p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarf is 1, any other good/dwarf is not counted)</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
-                                <p><b>Requirement</b>: Collect a full stack of Goblin Crowns while affiliated with Goblins.</p>
+                                <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                                 <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
@@ -1220,7 +1220,7 @@
                                         <br/>
                                         <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg</b></p>
                                         <p><b>Kind</b>: Feat</p>
-                                        <p><b>Unlock / Price</b>: Collect a full stack of Eggs while having at least 3 active spells.</p>
+                                        <p><b>Unlock / Price</b>: Collect at least 480 Eggs with a single click while having at least 3 active spells.</p>
                                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
                                         <p><b>Upgrade Effect</b>: Increase base clicking reward by 100% of your Mana Regeneration and clicks once per second.</p>
                                         <p><b>Note</b>: Upgrade only available during seasonal events.</p>
@@ -1628,13 +1628,13 @@
                                 <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                                <p><b>Requirements</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.</p>
+                                <p><b>Requirements</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                                <p><b>Requirements</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.</p>
+                                <p><b>Requirements</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                                <p><b>Requirements</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.</p>
+                                <p><b>Requirements</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/HalloweenMagic.png" alt="Halloween" align="middle"> Halloween Magic</b></p>
                                 <p><b>Requirements</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
@@ -1891,13 +1891,13 @@
                                         <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
-                                        <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.</p>
+                                        <p><b>Unlock</b>: Collect at least 480 Flame Orbs with a single click while affiliated with the Winterly.</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
-                                        <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.</p>
+                                        <p><b>Unlock</b>: Collect at least 480 Frost Orbs with a single click while affiliated with the Summeraans.</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
-                                        <p><b>Unlock</b>: Collect a full stack of 480 of any Orbs while unaffilliated with either of the Summer Festival factions.</p>
+                                        <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while unaffilliated with either of the Summer Festival factions.</p>
                                         <hr>
                                         <p><b>Shop Items</b></p>
                                         <p><b><img src="/realm/Factions/picks/75OrbShopItem.png" alt="Shop Item" align="middle"> 75 Frost and Flame Orbs</b></p>
@@ -2003,7 +2003,7 @@
                                     <p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarf is 1, any other good/dwarf is not counted)</p>
                                     <br/>
                                     <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
-                                    <p><b>Requirement</b>: Collect a full stack of Goblin Crowns while affiliated with Goblins.</p>
+                                    <p><b>Requirement</b>: Collect at least Goblin Crowns with a single click while affiliated with Goblins.</p>
                                     <hr>
                                     <p><b>Shop Item</b></p>
                                     <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 75 Goblin Crowns</b></p>
@@ -2092,11 +2092,11 @@
                                             <p><b><img src="/realm/Factions/picks/AsmondeanChampion2017.png" alt="Asmodean Champion" align="middle"> Asmodean Champion</b></p>
                                             <p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
                                             <p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
-                                            <p><b>Requirement</b>: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.</p>
+                                            <p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
                                             <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
-                                            <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones while affiliated with the Demons</p>
+                                            <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demons</p>
                                             <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
-                                            <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones or Holy Symbols while affiliated with a Neutral faction</p>
+                                            <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
                                             <hr>
                                             <p><b>Shop Item</b></p>
                                             <p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
