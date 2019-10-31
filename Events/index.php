@@ -1084,13 +1084,13 @@
                                         <p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
-                                        <p><b>Requirement</b>: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.</p>
+                                        <p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
-                                        <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones while affiliated with the Demons</p>
+                                        <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demons</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
-                                        <p><b>Requirement</b>: Collect a full stack of 480 Lava Stones or Holy Symbols while affiliated with a Neutral faction</p>
+                                        <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration</b></p>
                                         <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
@@ -1125,7 +1125,7 @@
                                 <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
                                 <hr>
                                 <p><b><img src="/realm/Factions/picks/EventResourceEaster2017.png" alt="Blue Omelette" align="middle"> Event Resource</b></p>
-                                <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 480 Eggs! Eggs are divided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
+                                <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 720 Eggs! Eggs are divided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
                                 <hr>
                                 <p><b><img src="/realm/Factions/picks/BlueOmeletteEaster2017.png" alt="Blue Omelette" align="middle"> Blue Omelette</b></p>
                                 <p><b>Kind</b>: Upgrade</p>
@@ -1207,7 +1207,7 @@
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/GoldenChickenEaster2017.png" alt="Golden Chicken" align="middle"> Golden Chicken</b></p>
                                         <p><b>Kind</b>: Feat</p>
-                                        <p><b>Unlock / Price</b>: Collect a full stack of 480 eggs while playing as Goblin or Droblin (1m per egg = 8h)</p>
+                                        <p><b>Unlock / Price</b>: Collect at least 480 Eggs with a single click while playing as Goblin or Droblin (1m per egg = 8h)</p>
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/GreyEaster2017.png" alt="Grey Easter" align="middle"> Grey Easter</b></p>
                                         <p><b>Kind</b>: Feat</p>
@@ -1215,7 +1215,7 @@
                                         <br/>
                                         <p><b><img src="/realm/Factions/picks/BunnyHelpers2018.png" alt="Bunny Helpers" align="middle"> Bunny Helpers</b></p>
                                         <p><b>Kind</b>: Feat</p>
-                                        <p><b>Unlock / Price</b>: Collect a full stack of 480 Eggs while having exactly 480 assistants.</p>
+                                        <p><b>Unlock / Price</b>: Collect at least 480 Eggs with a single click while having exactly 480 assistants.</p>
                                         <p><b>Effect</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bowl.</p>
                                         <br/>
                                         <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg</b></p>
@@ -1414,7 +1414,7 @@
                             <div class="autohide">
                                 <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                                 <p>The Christmas Event will be starting on Dec 21st 2018, 1.01 PM UTC and will end on Jan 5th 2019, 7.59 PM UTC.</p>
-                                <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
+                                <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                                 <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
                                 <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby or 200 Snowballs (every other present)</p>
                                 <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
@@ -1522,7 +1522,7 @@
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/FreezingHell2018.png" alt="FreezingHell" align="middle"> Freezing Hell</b></p>
                                 <p><b>Type</b>: Feat</p>
-                                <p><b>Requirement</b>: Collect a full stack of 480 Snowballs while affiliated with the Demons.</p>
+                                <p><b>Requirement</b>: Collect at least 480 Snowballs with a single click while affiliated with the Demons.</p>
                                 <hr>
                                 <p><b>Shop</b></p>
                                 <p><b><img src="/realm/Factions/picks/500Snowballs2016Shop.png" alt="500 Snowballs" align="middle"> 500 Snowballs</b></p>
@@ -1564,7 +1564,7 @@
                                 <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realms. Choose your own, feed and grow it to its maximum potential!</p>
                                 <p>The Halloween event will be starting on <b>Oct 29th 2018, 1:01 PM UTC and will end on Nov 05th 2018, 7.59 PM UTC</b>.</p>
                                 <p>This event will feature daily presents (as we did for the last Christmas), inside which you will found a random monster, up to a maximum of three. Once you have found a monster, you will be able to feed it resources (see below) to make it grow, unlocking perks and bonuses in the process.</p>
-                                <p>There will be three new resources for the event: Blood, Ectoplasm and Bones. They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 480 units (8 hours). You can only collect one type of resource: by doing so, the others will disappear.</p>
+                                <p>There will be three new resources for the event: Blood, Ectoplasm and Bones. They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 720 units (12 hours). You can only collect one type of resource: by doing so, the others will disappear.</p>
                                 <p>Each resource will be used to feed a single monster, which will gain levels as it grows. At levels 1, 10, 25 and 50 each monster will grant you new perks, including new unique spells and upgrades. You will be able to gain advantage of one single monster at a time, but they can be toggled on and off on the fly in the Event panel.</p>
                                 <p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
                                 <p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
