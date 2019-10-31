@@ -205,7 +205,7 @@
                         <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/BloodThirsty.png align=middle> Bloodthirsty<p>Type: Feat<p>Requirements: Collect a full stack of 480 Blood while using Vampire monster pet." coords="326,233,383,291" shape="rect">
                         <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/BonePicker.png align=middle> Bonepicker<p>Type: Feat<p>Requirements: Collect a full stack of 480 Bones while using Skeleton monster pet." coords="390,233,448,291" shape="rect">
                         <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/HalloweenMagic.png align=middle> Halloween Magic <p>Type: Feat<p>Requirement: Cast each Halloween Spell at least 100 times in this reincarnation.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="4,298,61,355" shape="rect">
-                        <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/SpectralSurge.png align=middle> Spectral Surge <p>Type: Feat<p>Requirements: Collect at least 480 of each resource in a single run.(This Game)<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.<p><b>Formula</b>: .</p><p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="67,297,126,353" shape="rect">
+                        <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/SpectralSurge.png align=middle> Spectral Surge <p>Type: Feat<p>Requirements: Collect at least 480 of each resource in a single run.(This Game)<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p><p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="67,297,126,353" shape="rect">
                         <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SacredHoliness2017.png align=middle> Sacred Holiness<p>Type: Feat<p>Requirement: Collect a full stack of 480 Holy Symbols while affiliated with the Angels.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="133,296,190,353" shape="rect">
                         <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/DarkestHeresy2017.png align=middle> Darkest Heresy<p>Type: Feat<p>Requirement: Collect a full stack of 480 Lava Stones while affiliated with the Demon.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="198,298,255,353" shape="rect">
                         <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/Indifference2018.png align=middle> Indifference<p>Type: Feat<p>Requirement: Collect a full stack of 480 of any resource while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="262,297,318,354" shape="rect">
@@ -314,8 +314,7 @@
                             <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
                             <br/>
                             <p><b><img src="/realm/Factions/picks/SpectralSurge.png" align="middle"> Spectral Surge (Halloween Event)</b></p>
-                            <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, which increases the previous bonus based on your Event Bonus.</p>
-                            <p><b>Formula</b>: (SS * x), where SS is Spectral Surge and x is your Cumulative Event Bonus.</p>
+                            <p><b>Effect</b>: Effect: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
                         </div>
                     </div>
                 </div>
@@ -437,8 +436,7 @@
                                 <p><b><img src="/realm/Factions/picks/SpectralSurge.png" alt="Halloween" align="middle"> Spectral Surge</b></p>
                                 <p><b>Requirements</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
                                 <p>If you unlock this feat, you will permanently unlock a new upgrade.</p>
-                                <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, which increases the previous bonus based on your Event Bonus.</p>
-                                <p><b>Formula</b>: (SS * x), where SS is Spectral Surge and x is your Cumulative Event Bonus.</p>
+                                <p><b>Effect</b>: Effect: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
                                 <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                                 <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
                                 <hr>
