@@ -526,7 +526,7 @@
 	<p>&quot;It is time to emerge from the shadows. Our warriors will demonstrate their hard work and lead us to domination of the realm.&quot;</p>
 	<p><b>Requirements</b>: Any Evil as Base Faction, Drow as Prestige Faction, Reincarnation 33+, Drow Unique Building, Drow Challenge 4 completed.</p>
 	<p><b>Challenge</b>: Have at least 2 hours offline (This Game) and at least 360 charges of Combo Strike.</p>
-	<p><b>Effect</b>:A fraction of your alignment spell bonus is applied passively.</p>
+	<p><b>Effect</b>: A fraction of your alignment spell bonus is applied passively.</p>
 	<p><b>Note</b>: &quot;Fraction&quot; is equal to 5%.</p>
 	<p><b>Upgrade</b>: Works with All</p>"
 	coords="325,1084,380,1140" shape="rect">
@@ -607,7 +607,8 @@
 	<p><b>Requirements</b>: Angel as Base Faction, Archon as Elite Faction, Reincarnation 135+, Chrono Loading upgrade purchased.</p>
 	<p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7)% and at least 250,000 Good buildings.</p>
 	<p><b>Effect</b>: Increase Mana Regeneration additively and multiplicatively based on the amount of Order buildings you own.</p>
-	<p><b>Formula</b>: Additive: (0.2 * x ^ 2), Multiplicative: (0.5 * x ^ 0.5)</p><p><b>Effect</b>: Precognition also increases Seraphim Wings and God’s Hand bonus, by double its value</p>
+	<p><b>Formula</b>: Additive: (0.2 * x ^ 2), Multiplicative: (0.5 * x ^ 0.5)</p>
+	<p><b>Effect</b>: Precognition also increases Seraphim Wings and God’s Hand bonus, by double its value</p>
 	<p><b>Upgrade</b>: Works with Angel+Dwarves+Archon</p>"
 	coords="70,1289,126,1341" shape="rect">
     <area href="http://musicfamily.org/realm/Archon/#ArchonAC2" target="" research=
