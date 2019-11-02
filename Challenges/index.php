@@ -642,7 +642,7 @@
 	<p><b>Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
 	<p><b>Effect</b>: Increase Unique Building production based on time spent in this game.</p>
 	<p><b>Formula</b>: (3.5 * ln(1 + x / ln(10)) ^ 3.5), where x is time spent in this game.</p>
-	<p><b>Upgrade</b>: Works with Angel+Dwarves+Archon, Undead+Drow+Archon and Titan+Dragon+Archon</p>"
+	<p><b>Upgrade</b>: Works with any Archon</p>"
 	coords="261,1287,319,1341" shape="rect">
     <area href="http://musicfamily.org/realm/Archon/#ArchonAC5" target="" research=
 	"<p><b>Archon Challenge 5</b></p>
@@ -698,7 +698,7 @@
 	<p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
 	<p><b>Challenge</b>: Have a spell duration of at least 1 year.</p>
 	<p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
-	<p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn, Demon+Drow+Djinn and Faceless+Dragon+Djinn</p>"
+	<p><b>Upgrade</b>: Works with any Djinn</p>"
 	coords="260,1383,319,1437" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC5" target="" research=
 	"<p><b>Djinn Challenge 5</b></p>
@@ -761,7 +761,7 @@
 	<p><b>Requirements</b>: Elves, Goblin or Druid as Base Faction, Makers as Elite Faction, Reincarnation 148+, Makers Unique Building, Makers challenge 3 completed.</p>
 	<p><b>Challenge</b>: Without using any Bloodline or Research, reach 35000 Halls of Origination.</p>
 	<p><b>Effect</b>: Pick an additional Set. Increase Faction Coins found matching that Set by 1000%</p>
-	<p><b>Upgrade</b>: Works with Elves+Dwarves+Makers, Goblin+Drow+Makers and Druid+Dragon+Makers</p>"
+	<p><b>Upgrade</b>: Works with any Makers</p>"
 	coords="260,1482,319,1536" shape="rect">
     <area href="http://musicfamily.org/realm/Makers/#MakersMC5" target="" research=
 	"<p><b>Makers Challenge 5</b></p>
