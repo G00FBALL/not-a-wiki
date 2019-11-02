@@ -26,7 +26,8 @@
               clearInterval(x);
           }
           }, 1000);
-      </script></p>-->
+      </script>-->
+	  </p>
             <p><b>Event will end in</b></p>
             <p id="end">
                 <script>
@@ -361,6 +362,7 @@
                                             <center><img src="/realm/Factions/picks/Bones.png" /></center>
                                             <center><b>Bones</b></center>
                                         </div>
+									</center>
                                 </div>
                                 <br/>
                                 <p>You will need 3058 of each (Blood, Ectoplasm and Bones) to complete event.</p>

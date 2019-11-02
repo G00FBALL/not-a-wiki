@@ -518,8 +518,8 @@
 	<p><b>Challenge</b>: Cast Call to Arms with at least 35,000 buildings.</p>
 	<p><b>Effect</b>: Increase your Offline Time (This Game) based on spells cast in this R.</p>
 	<p><b>Formula</b>: (8 * log10(x) ^ 4) where x is spells cast in this R.</p>
-	<p><b>Upgrade</b>: Works with any Evil+Drow</p>" coords="262,1084,317,1140"
-	shape="rect">
+	<p><b>Upgrade</b>: Works with any Evil+Drow</p>"
+	coords="262,1084,317,1140" shape="rect">
     <area href="http://musicfamily.org/realm/Drow/#DrowDC5" target="" research=
 	"<p><b>Drow Challenge 5</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/ShadowMirageChallenges.png align=middle> <b>Shadow Mirage</b></p>
