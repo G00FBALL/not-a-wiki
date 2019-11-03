@@ -262,18 +262,18 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - 1e108 (1 QiTg) Gems
                     <p><b>Duration</b>: 5 - 15 Minutes
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E275,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build">
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E275,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E275,E320,E330,A30,A105,A120,A150,A330,W150,W180,W250,W290,W320,W330" id="Build"> A305 not unlocked
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E275,E320,E330,A105,A120,A150,A250,A330,W150,W180,W250,W290,W320,W330" id="Build"> A305 not unlocked
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E290,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build"> For Max Excavations
-                    <p>S135,S150,S200,S215,S330,
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C135,C150,C251,C330,C375,D55,D150,D245,D250,D320,E135,E150,E290,E320,E330,A105,A120,A150,A305,A330,W150,W180,W250,W290,W320,W330" id="Build"> For Max Excavations
+                    <p>S135,S150,S215,S270,S330,
                     <p>C120,C135,C150,C251,C330,C375,
                     <p>D55,D150,D245,D320,D350,
                     <p>E135,E150,E275,E320,E330,
                     <p>A105,A120,A150,A305,A330,
                     <p>W150,W180,W250,W290,W320,W330
-                    <p><b>Note</b>: Swap A305 with A30 if you don't have A305 (requires 2 days as Druid).
+                    <p><b>Note</b>: Swap A305 with A250 if you don't have A305 (requires 2 days as Druid).
                     <p><b>Note</b>: Swap E275 with E290 for maximizing excavations.
                     <p><b>Autocasting</b>: LS on Silver, Rest on Gold with TC last.
                 </div>
@@ -307,12 +307,12 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - 1e114 (1 SpTg) Gems
                     <p><b>Duration</b>: 5 - 15 Minutes
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D250,D290,D320,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build"> C135
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C135,C150,C251,C375,C400,D55,D245,D250,D290,D320,E135,E150,E200,E275,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build"> C135
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D250,D290,D320,E150,E200,E275,E290,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build"> For Max Excavations
-                    <p>S135,S150,S200,S215,S330,
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C135,C150,C251,C375,C400,D55,D245,D250,D290,D320,E150,E200,E275,E290,E330,A105,A120,A150,A250,A330,W150,W180,W290,W320,W330,W400" id="Build"> For Max Excavations
+                    <p>S135,S150,S215,S270,S330,
                     <p>C120,C150,C251,C330,C375,C400,
                     <p>D55,D245,D250,D290,D320,
                     <p>E135,E150,E200,E275,E330,
@@ -332,12 +332,12 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - 1e114 (1 SpTg) Gems
                     <p><b>Duration</b>: 5-15min
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build">
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"> C135
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C135,C150,C251,C375,C400,D55,D245,D290,D320,D350,E135,E150,E275,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"> C135
                       <p><button onclick="myFunction($(this))">Copy Build</button>
-                      <input type="text" value="S135,S150,S200,S215,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E150,E275,E290,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"> For Max Excavations
-                    <p>S135,S150,S200,S215,S330,
+                      <input type="text" value="S135,S150,S215,S270,S330,C120,C150,C251,C330,C375,C400,D55,D245,D250,D290,D320,E150,E275,E290,E330,E400,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,W400" id="Build"> For Max Excavations
+                    <p>S135,S150,S215,S270,S330,
                     <p>C120,C150,C251,C330,C375,C400,
                     <p>D55,D245,D250,D290,D320,
                     <p>E135,E150,E275,E330,E400,
