@@ -583,7 +583,7 @@
                     <p><b>Requirements</b>: 1e78 (100 Uvg) Gems+</p>
                     <p><b>Faction</b>: Fairy</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Artifact Set</b>: Elf</p>
+                    <p><b>Artifact Set</b>: Fairy</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D435,D1375,E50,E400,E410,A30,A120,A495,W560,W3150" id="Build">
