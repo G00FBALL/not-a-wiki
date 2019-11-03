@@ -22,8 +22,8 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangel R40-46 + Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4
-                <p><b>Requirement</b>: Stage 4 Unlock will need Mana Waste
+                <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4</p>
+                <p><b>Requirement</b>: (Stage 4 Unlock) Mana Waste</p>
                 <p><b>Range</b>: 0 Gems - ?</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
@@ -123,10 +123,10 @@
                 <p><b>Faction</b>: Fairy/Dwarf</p>
                 <p><b>Bloodline</b>: Druid</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A270,W120,W150,W180,W320,W400" id="Build"></p>
+                  <input type="text" value="S150,S180,S200,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A270,W120,W150,W180,W320,W400" id="Build"></p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S200,S150,S180,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A250,A270,A330,W120,W150,W180,W320,W400" id="Build"> A330 is higher</p>
-                  <p>S200,S150,S180,S215,S330,S500,</p>
+                  <input type="text" value="S150,S180,S200,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A250,A270,A330,W120,W150,W180,W320,W400" id="Build"> A330 is higher</p>
+                  <p>S150,S180,S200,S215,S330,S500,</p>
                   <p>C80,C120,C150,C330,C340,C400,C500,</p>
                   <p>D55,D200,D205,D290,D320,</p>
                   <p>E145,E330,E400,E410,E480,</p>
