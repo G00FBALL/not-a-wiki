@@ -990,7 +990,7 @@
             <td><center>Master Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/MasterResearcherSecretTrophy.png"></td>
             <td>1 Qavg (1e75)</p>A2+ Free</td>
             <td>Research 10,000 times across all fields.</td>
-            <td>Increase the overall production of Dragons by 150%.</td>
+            <td>Increase the overall production of Dragons by 100%.</td>
         </tr>
    </table>
       </div>
@@ -1109,7 +1109,7 @@
             <td><center>Grandmaster Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png"></td>
             <td>10 SpQig (1e175)</p>A2+ Free</td>
             <td>Research 18500 times across all fields.</td>
-            <td>Increase the overall production of Mercenaries by 100%.</td>
+            <td>Increase the overall production of Mercenaries by 150%.</td>
         </tr>
    </table>
       </div>
