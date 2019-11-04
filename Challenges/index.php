@@ -81,7 +81,7 @@
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/StarBlessingChallenges.png align=middle> <b>Star Blessing</b></p>
 	<p><b>Effect</b>: Automatic clicks from Sun Blessing always trigger Elven Luck.</p>
-	<p><b>Formula</b>: (R + 1) * x random faction coins, where x is FC chance.</p>" 
+	<p><b>Formula</b>: (R + 1) * x random faction coins, where x is FC chance.</p>"
 	coords="6,151,62,205" shape="rect">
     <area href="http://musicfamily.org/realm/Elf/#ElfEC1" target="" research=
 	"<p><b>Elf Challenge 1</b></p>
@@ -228,7 +228,7 @@
 	<p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Collect 100M (1E8) Faction coins</p>
 	<p><b>Effect</b>: Increase your number of assistants by 10%.</p>
-	<p><b>Upgrade</b>: Works with All</p>" 
+	<p><b>Upgrade</b>: Works with All</p>"
 	coords="198,462,254,517" shape="rect">
     <area href="http://musicfamily.org/realm/Demon/#DemonDCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
@@ -325,7 +325,7 @@
 	<p><img src=http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png align=middle> <b>Primal Balance</b></p>
 	<p><b>Effect</b>: Grand Balance now affects extra buildings based on mana spent this reincarnation.</p>
 	<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
-	<p><img src=http://musicfamily.org/realm/Factions/picks/PrimalBalance.png alt=Primal Balance align=middle></a></p>
+	<p><center><img src=http://musicfamily.org/realm/Factions/picks/GBTargetsA3.png alt=Primal Balance align=middle></center></a></p>
 	<p>Effect: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.</p>
 	<p>Formula: (3 * (x - 10) ^ 1.5), where x is the amount of additional targets, not A-nerfed.</p>"
 	coords="9,775,64,827" shape="rect">
@@ -741,7 +741,7 @@
 	<p><b>Formula</b>: (((log10(1 + x)) ^ 2.5 - (log10(1 + y)) ^ 2.5) ^ 1.25). where x is mana regen, y is max mana.</p>
 	<p><b>Effect</b>: Production bonus from Gems is increased nultiplicatively based on Tax Collections cast in this game.</p>
 	<p><b>Formula</b>: (0.7 * ln(1 + x) ^ 1.7), where x is number of Tax Collections. (This game)</p>
-	<p><b>Upgrade</b>: Works with Goblin+Drow+Makers</p>" 
+	<p><b>Upgrade</b>: Works with Goblin+Drow+Makers</p>"
 	coords="130,1481,192,1537" shape="rect">
     <area href="http://musicfamily.org/realm/Makers/#MakersMC3" target="" research=
 	"<p><b>Makers Challenge 3</b></p>
