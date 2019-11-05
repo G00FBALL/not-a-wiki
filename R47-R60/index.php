@@ -9,8 +9,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-<p><b>Updated July 28th, 2019</b></p>
-<p><b>Work in progress and some builds need testing</b></p>
+<p><b>Updated November 5th, 2019</b></p>
 <p><b>Note</b>: All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
 <br/>
 <br/>
@@ -257,7 +256,7 @@
 				<p>E135,E145,E250,E260,E1325,E1425,</p>
 				<p>A120,A250,A270,A400,A545,A1325,</p>
 				<p>W135,W250,W400,W1275,W1375</p>
-				<p><b>Notes</b>: Do NOT buy dragon treaty until you have met the mana generated requirement.</p>
+				<p><b>Notes</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
 				<p><b>Notes</b>: Estimated time 20-22 hours to 1e10 (10 B) mana generated.</p>
 			</div>
 		</div>
