@@ -71,7 +71,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Titans R41-R42<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Titans R41-R42<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Range</b>: 0 Gems - ?</p>
