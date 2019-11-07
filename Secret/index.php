@@ -352,7 +352,6 @@
 <p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
 <p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
-<p><b>Note</b>: Equality is needed for offline unlock.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
 <p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
