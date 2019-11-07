@@ -1171,7 +1171,7 @@
                     <tr>
                         <td><center>Uniformity</p><img src="http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png"></td>
                         <td>100 Qid (1e50)</td>
-                        <td>Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them.</td>
+                        <td>Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</td>
                         <td><p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment. )<p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</td>
                     </tr>
                 </tbody>

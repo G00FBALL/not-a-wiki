@@ -348,7 +348,7 @@
 <p><b>Note</b>: Upgrade scales from Holy Light/Blood Frenzy tiers.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle><b> Uniformity</b></p>
-<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them.</p>
+<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</p>
 <p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
 <p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>

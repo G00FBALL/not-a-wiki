@@ -426,7 +426,7 @@
 <p><b>Formula</b>: (250 * t ^ 2)</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle><b> Uniformity</b></p>
-<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them.</p>
+<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</p>
 <p><b>Cost</b>: 100 Qid (1e50)</p>
 <p><b>Note</b>: Equality is needed for offline unlock.</p>
 <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
