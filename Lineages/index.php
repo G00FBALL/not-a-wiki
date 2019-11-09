@@ -45,18 +45,18 @@
     <div id="LineageCalculator" class="calc">
         <table>
             <tr>
-                <th style="width : 72px"> Lineage level
-                <th style="width : 75px"> Heirloom Active
-                <th style="width : 75px"> Hourglass Active
-                <th class="HourglassRelated"> Reincarnation
-                <th> Cost for next Lineage level
+                <th style="width : 72px"> Lineage level</th>
+                <th style="width : 75px"> Heirloom Active</th>
+                <th style="width : 75px"> Hourglass Active</th>
+                <th class="HourglassRelated"> Reincarnation</th>
+                <th> Cost for current Lineage level</th>
             </tr>
             <tr>
                 <td ><input id="LineageLevel" type="number" min="0" max="151" value="0"></td>
                 <td ><input id="Heirloom" type="checkbox"></td>
                 <td ><input id="Hourglass" type="checkbox"></td>
                 <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="220" value="100"></td>
-                <td id = "LineageNextLevel"></td>
+                <td id= "LineageNextLevel"></td>
             </tr>
         </table>
         <script>
@@ -79,7 +79,7 @@
               return costExponent;
             }
             function calcCost() {
-              var lin = LineageExponent(parseInt($('#LineageLevel').val()));
+              var lin = LineageExponent(parseInt($('#LineageLevel').val() - 1));
               var heirloom = $('#Heirloom').is(':checked');
               var hourglass = $('#Hourglass').is(':checked')?0.01 * parseInt($('#HourglassR').val()):0;
               lin = 25 * 10 ** (8 + lin - hourglass);
