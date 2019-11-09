@@ -52,7 +52,7 @@
                 <th> Cost for current Lineage level</th>
             </tr>
             <tr>
-                <td ><input id="LineageLevel" type="number" min="0" max="151" value="0"></td>
+                <td ><input id="LineageLevel" type="number" min="1" max="151" value="1"></td>
                 <td ><input id="Heirloom" type="checkbox"></td>
                 <td ><input id="Hourglass" type="checkbox"></td>
                 <td class="HourglassRelated"><input id="HourglassR" type="number" min="100" max="220" value="100"></td>
