@@ -729,8 +729,8 @@
     <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/VersaltileComboChallenges.png" align="middle"> <b>Versatile Combo</b></p>
     <p><b>Effect</b>: Increase Combo Strike counter based on the amount of spells cast in this game, not including Tax Collection.</p>
     <p><b>New Combo Strike Counter Formula</b>: (x + y), where x is your Combo Strike cast count and y is every other spell (except tax collection and generic) cast count.</p>
-    <p><b>Effect</b>: Also increase offline spells cast amount multiplicatively based on your offline Mana Regeneration.
-    <p><b>Formula</b>: (10 * log10(1 + 30))%, where x is your offline Mana Regeneration.</p>
+    <p><b>Effect</b>: Also increase offline spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
+    <p><b>Formula</b>: (10 * log10(1 + x))%, where x is your offline Mana Regeneration.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Combo Strike Tier 2-7</a></b></p>
