@@ -580,7 +580,7 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Fairy R125 (Djinn Unlock)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: CassiusWilhelm</p>
-                    <p><b>Requirements</b>: 1e78 (100 Uvg) Gems+</p>
+                    <p><b>Requirements</b>: 1e78 (1 Qivg) Gems+</p>
                     <p><b>Faction</b>: Fairy</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Artifact Set</b>: Fairy</p>
