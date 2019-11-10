@@ -579,21 +579,21 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Fairy R125 (Djinn Unlock)</a></b></p>
                 <div class="autohide">
-                    <p><b>Author</b>: CassiusWilhelm</p>
+                    <p><b>Author</b>: Popington</p>
                     <p><b>Requirements</b>: 1e78 (1 Qivg) Gems+</p>
                     <p><b>Faction</b>: Fairy</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Artifact Set</b>: Fairy</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D435,D1375,E50,E400,E410,A30,A120,A495,W560,W3150" id="Build">
+                        <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D435,D1375,E50,E135,E410,A30,A250,A495,W180,W560" id="Build">
                     </p>
                     <p>S1,S180,S400,S590,</p>
                     <p>C10,C340,C405,C520,</p>
                     <p>D225,D435,D1375,</p>
-                    <p>E50,E400,E410,</p>
-                    <p>A30,A120,A495,</p>
-                    <p>W560,W3150</p>
+                    <p>E50,E135,E410,</p>
+                    <p>A30,A250,A495,</p>
+                    <p>W180,W560</p>
                     <p><b>Notes</b>: Cycle Maelstrom to target inns and set the correct fairy union buff.</p>
                 </div>
             </div>
