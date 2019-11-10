@@ -192,7 +192,7 @@
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Faceless</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S305,S330,S500,S1450,C105,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,A120,A270,A305,A400,A545,W150,W180,W260,W400,W1275,W1375" id="Build"></p>
+                    <input type="text" value="S200,S305,S330,S500,S1450,C105,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,E135,E320,E1225,E1325,E1425,A120,A270,A305,A400,A545,W150,W180,W260,W400,W1275,W1375" id="Build"></p>
                 <p>S200,S305,S330,S500,S1450,</p>
                 <p>C105,C250,C340,C400,C1300,C1325,</p>
                 <p>D200,D290,D330,D1125,D1275,</p>
@@ -219,7 +219,7 @@
                 <p>W150,W180,W350,W400,W1375</p>
 				<p><b>Notes</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
                 <p><b>Notes</b>: Takes estimated 6-7 hours for mana requirement. The hardest requirement is the 120k building requirement. Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of targets is irrelevant for this build.</p>
-   
+
             </div>
         </div>
         <div class="shelementwhole">

@@ -52,7 +52,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicWisdomFactionUpgrade.png" align="middle"> Angelic Wisdom</b></p>
 <p><b>Cost</b>: 5 T (5E12)</p>
 <p><b>Effect</b>: Decrease the cost of all spells by 100.</p>
-<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration (10 * log10(1 + x)).</p>
+<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration.</p>
+<p><b>Formula</b>: (10 * log10(1 + x)), where x is your offline mana regeneration.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
 <p><b>Cost</b>: 50 T (5E13)</p>

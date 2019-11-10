@@ -542,7 +542,7 @@
                     <p><b>Artifact Set</b>: Fairy</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,D1375,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build">
+                        <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D435,D1375,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build">
                     </p>
                     <p>S1,S180,S590,S3200,</p>
                     <p>C10,C400,C405,C520,</p>

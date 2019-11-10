@@ -4,6 +4,8 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>Thank you for all your help</h6>
+<p>Eltro</p>
+<p>primal cradily</p>
 <p>ARTEZZ</p>
 <p>somarilnos</p>
 <p>Grazloth</p>

@@ -409,6 +409,8 @@
                 <p><b>Mercenary Template</b>: AN5</p>
                 <p><b>Cost</b>: 5 T (5E12)</p>
                 <p><b>Effect</b>: Decrease the cost of all spells by 100.</p>
+                <p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration.</p>
+                <p><b>Formula</b>: (10 * log10(1 + x)), where x is your offline mana regeneration.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
                 <p><b>Mercenary Template</b>: AN6</p>
