@@ -1190,6 +1190,7 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/FossilizedRodent.png" alt="Fossilized Rodent" align="middle"><b> Fossilized Rodent</b></p>
             <p><b>Description</b>: What's this, a prehistoric mouse...?</p>
             <p><b>Rewards</b>: Awards an upgrade of the same name that will Increase clicking reward based on the amount of artifacts you discovered.</p>
+            <p><b>Formula</b>: (10 * x), where x is number of artifacts you discovered.
             <p><b>Chance</b>: (# Treasure clicks this R / 5,000,000) %</p>
             <p><b>Cost</b>: 100 Qid (1E50)
             <p><b>Alignment</b>: Any
@@ -1511,7 +1512,7 @@
             <p><b>Cost</b>: 100 Qid (1E50)</p>
             <p><b>Alignment</b>: Any</p>
             <p><b>Effect</b>: Increase clicking reward based on the amount of artifacts you discovered.</p>
-            <p><b>Formula</b>: ?
+            <p><b>Formula</b>: (10 * x), where x is number of artifacts you discovered.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceSecretUpgrade.png" alt="Ancient Device" align="middle"><b> Ancient Device</b></p>
             <p><b>Requirements</b>: Find the Ancient Device artifact.
@@ -2067,7 +2068,7 @@
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ChocolateFlavorJuice.png" align="middle"><b> Chocolate Flavor Juice</b></p>
             <p><b>Requirement</b>: R22+, Neutral Faction, Ancient Cocoa Bean</p>
-            <p><b>Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Doe not work offline.</p>
+            <p><b>Effect</b>: Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Does not work offline.</p>
             <p><b>Cost</b>: Free</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FortuneTellerMachineUpgrade.png" alt="Fortune Teller Machine" align="middle"><b> Fortune Teller Machine</b></p>
