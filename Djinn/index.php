@@ -59,7 +59,6 @@
 <p><b>Order</b>: Mana Regeneration</p>
 <p><b>Chaos</b>: Maximum Mana</p>
 <p><b>Balance</b>: Faction Coin Find Chance</p>
-<p><b>Upgrade</b>: Works with All</p>
 <p><b>Formula</b>: (50 ^ (1 + 0.25 * x))% where x is amount of spells with a given alignment.</p>
 <p><b>Examples</b></p>
 <p><b>Faceline Fairy with A400</b></p>
@@ -70,6 +69,7 @@
 <p><b>2 Evil Spells</b>: Goblin's Greed, Combo Strike = 353% Trophy Count</p>
 <p><b>2 Balance Spell</b>: Infinite Spiral, Goblin's Greed = 353% Faction Coin Find Chance</p>
 <p><b>1 Order Spell</b>: Precognition = 132% Mana Regeneration</p>
+<p><b>Upgrade</b>: Works with All</p>
 <hr>
 <H6 id="DjinnDCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FullWish.png" align="middle"> Full Wish</b></p>

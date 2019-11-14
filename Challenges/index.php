@@ -707,12 +707,14 @@
 	<p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnations 153+, All Chaos Lineages at level 45, Djinn challenge 4 completed.</p>
 	<p><b>Challenge</b>: Cast all Chaos spells 88 times each in a single Reincarnation.</p><p><b>Spells</b>: Fairy Chanting, HFB, Brainwave, Maelstrom, LW, Catalyst</p>
 	<p><b>Effect</b>: Multiplicatively increases one of your assets based on the amount of alignments tied to your faction spells.</p>
-	<p><b>Good</b>: Assistants</p><p><b>Evil</b>: Trophy Count</p><p><b>Neutral</b>: Production Bonus from Gems</p>
+	<p><b>Good</b>: Assistants</p>
+	<p><b>Evil</b>: Trophy Count</p>
+	<p><b>Neutral</b>: Production Bonus from Gems</p>
 	<p><b>Order</b>: Mana Regeneration</p>
 	<p><b>Chaos</b>: Maximum Mana</p>
 	<p><b>Balance</b>: Faction Coin Find Chance</p>
-	<p><b>Upgrade</b>: Works with All</p>
-	<p><b>Formula</b>: (50 ^ (1 + 0.25 * x))% where x is amount of spells with a given alignment.</p>"
+	<p><b>Formula</b>: (50 ^ (1 + 0.25 * x))% where x is amount of spells with a given alignment.</p>
+	<p><b>Upgrade</b>: Works with All</p>"
 	coords="325,1384,384,1438" shape="rect">
     <area href="http://musicfamily.org/realm/Makers/#MakersMCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
