@@ -33,11 +33,13 @@
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400" id="Build"> W320
+                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400" id="Build">
+						W320
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W330,W400" id="Build"> A400
+                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W330,W400" id="Build">
+						A400
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
@@ -45,15 +47,8 @@
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D245,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400" id="Build"> 1-3 hours+
-                    </p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D245,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build"> 1-3 hours+, A400
-                    </p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S200,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D205,D290,D320,E135,E145,E330,E410,E480,A105,A150,A250,A270,A400,W120,W150,W180,W320,W400" id="Build"> 16 hours+
+                        <input type="text" value="S10,S150,S200,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D205,D290,D320,E135,E145,E330,E410,E480,A105,A150,A250,A270,A400,W120,W150,W180,W320,W400" id="Build">
+						16 hours+
                     </p>
                     <p>S10,S150,S215,S330,S500,</p>
                     <p>C80,C150,C330,C340,C400,C25,C500,</p>
@@ -64,8 +59,7 @@
                     <p><b>Note</b>: Get Mana Wave trophy with this build at R40.</p>
                     <p><b>Note</b>: Swap W330->W320 if higher.</p>
                     <p><b>Note</b>: Swap A330->A400 if higher.</p>
-                    <p><b>Note</b>: Swap D250->D245 with at least 1-3(?) hours of angel time this R.</p>
-                    <p><b>Note</b>: Swap S215->S200, D245->D205, A120->A270 with at least 16 hours this R.</p>
+                    <p><b>Note</b>: Swap S215->S200, D250->D205, A120->A270 with at least 16 hours this R.</p>
                     <p><b>Note</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
                     <p><b>Note</b>: C branch research placements is intentional (reimport build after horn).</p>
                 </div>
