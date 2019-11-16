@@ -382,6 +382,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonist Manifesto (R95+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: somarilnos</p>
+                <p><b>Requirement</b>: Requires: GB11 unlock (use Mana Breeder Reactor build to do this)
                 <p><b>Range</b>: 1 Dqag-2 QiQag (e129-2e138) Gems</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
