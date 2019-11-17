@@ -541,6 +541,9 @@
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S50,S400,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build">
+                        <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S50,S400,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W405,W520,W1375" id="Build"> Faceless
                     </p>
                     <p>S50,S400,S435,</p>
                     <p>C175,C400,</p>
@@ -550,6 +553,7 @@
                     <p>W25,W205,W405,W520</p>
                     <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless set.</p>
                     <p><b>Note</b>: Can level most Lineages including Angeline.</p>
+                    <p><b>Note</b>: Swap W205 -> W1375 when doing Faceless.</p>
                 </div>
             </div>
 			            <div class="shelementwhole">

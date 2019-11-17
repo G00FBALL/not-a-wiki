@@ -337,7 +337,6 @@
                 <p><b>Cost</b>: 100 NoQag (1e152)</p>
                 <p><b>Effect</b>: Increase Maximum Mana based on researches selected.</p>
                 <p><b>Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)</p>
-                <p><b>Effect</b>: Grants the ability to cast Catalyst with one additional spell effect. Also increases Catalyst casts stat by 100 per cast.</p>
                 <hr>
                 <h6>Makers</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
