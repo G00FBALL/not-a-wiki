@@ -31,32 +31,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Dragless R61-R65 (1e27+ (1 Oc+))<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R60-R69 (1e27+ (1 Oc+))<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: Dragon challenge 4, Undead Lineage level 5+</p>
-                <p><b>Range</b>:1e27+ (1 Oc) Gems</p>
-                <p><b>Faction</b>: Faceless/Dragon</p>
-                <p><b>Bloodline</b>: Undead</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W400,W1275,W1375" id="Build"></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W400,W1275,W1375" id="Build"> Have Exchange Highlord</p>
-                <p>S200,S215,S305,S330,S1450,S1500,</p>
-                <p>C250,C340,C400,C1300,C1325,</p>
-                <p>D260,D290,D320,D1125,D1275,D1375,</p>
-                <p>E135,E145,E460,E1225,E1425,</p>
-                <p>A105,A120,A270,A305,A400,</p>
-                <p>W180,W275,W400,W1275,W1375</p>
-                <p><b>Notes</b>: May need excavations to get 400 Royal Exchanges for lineage.</p>
-                <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R66-R69 (1e27+ (1 Oc+))<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Cyden</p>
-                <p><b>Requirements</b>: Titan Lineage level 5+</p>
+                <p><b>Requirements</b>: Dragon challenge 4, Titan Lineage level 5+</p>
                 <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Titan</p>
