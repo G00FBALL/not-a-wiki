@@ -167,7 +167,6 @@
 <p><b>Research Point Production</b></p>
 <p><b>Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
 
-
 <p><img src="http://musicfamily.org/realm/Factions/picks/Researchtreenew.png" usemap="#Researchtreenew-map">
     <map name="Researchtreenew-map">
         <area target="" research="Spellcraft<p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana. <p> Increases: Fairy, Faceless, and Drow production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="47,39,109,99" shape="rect">

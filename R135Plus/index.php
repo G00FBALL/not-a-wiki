@@ -358,7 +358,7 @@
                             <p>E135,E260,E1225,</p>
                             <p>A120,A251,A375,A1200,A1500,</p>
                             <p>W350,W1375,W1400</p>
-							<p><b>Notes</b>: Buff MK2, Total Excavations (1e6 (1M)+), Excavation Resets (50+).</p>
+							<p><b>Notes</b>: Buff MK2, Excavations this R (1e6 (1M)+), Excavation Resets (50+).</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -442,7 +442,7 @@
                             <p><b>Faction</b>: Elf</p>
                             <p><b>Artifact Set</b>: Faceless</p>
                             <p><b>Notes</b>: Buff Max assistants with Fairyline Undead (Max Assistants) buff build if it hasnt been previously buffed with demons.</p>
-							<p><b>Notes</b>: Buff Excavations to at least 1e6 (1M) excavations and 50+ excavation resets.</p>
+							<p><b>Notes</b>: Buff Excavations to at least 1e6 (1M) excavations this R and 50+ excavation resets.</p>
 							<p><b>Notes</b>: Estimated time to complete 4 hours or less (highly dependant on buffing).</p>
                         </div>
                     </div>
