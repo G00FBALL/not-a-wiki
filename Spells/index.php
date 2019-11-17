@@ -236,7 +236,7 @@
     <p><b>While offline</b>: Spells set on autocasting will gain "Active Time (This game)", but no spell casts will be counted. Instead, a generic non-specific spell will increase your "Spell Casts" entry in the stats.</p>
     <p><b>Offline Activity Time Gain Formula</b></p>
     <p><b>Formula</b>: t * min(1, m * d / (n * c ^ 1.5)), where t is offline time, m is mana regen per second, d is spell duration in seconds, c is spell mana cost (as tier 1), and n is number of spells set to autocast</p>
-    <p><b>Note</b>: When going offline disable Tax Collection as it is counted for the number of spells set to autocast but nothing will be gained from it being set to autocast offline.</p>
+    <p><b>Note</b>: Tax Collection does not count against spells in autocast for offline activity time generation..</p>
     <p><b>For Spells to work offline, you need</b></p>
     <p>Offline mana regen upgrades (such as included in the 'Automatic auto-casting' upgrade)</p>
     <p>Offline spell casting upgrades (such as included in the 'Priority Auto-casting' upgrade)</p>
