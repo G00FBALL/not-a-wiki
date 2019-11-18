@@ -27,7 +27,7 @@
 <br/>
 <p><b>A105</b> - For <b>All Factions</b> - Research Name: <b>Fusion</b><p><b>Requirement</b>: 2750 Blacksmiths</b><p><b>Cost</b>: 1.544 Spqag (1.544E144)</b><p><b>Effect</b>: Increases the production of buildings based on the amount of Faction Coins found this game.</b><p><b>Formula</b>: round(0.7 * ln ^ 3(1 + x))%, where x is your Faction Coins Gained (This Game) stat.</p>
 <br/>
-<p><b>A120</b> - For <b>All Factions</b> - Research Name: <b>Vivification</b><p><b>Requirement</b>: Have 6500 mana</b><p><b>Cost</b>: 676 Spqag (6.76E146)</b><p><b>Effect</b>: Gain additional assistants based on max mana.</b><p><b>Formula</b>: floor((x / 15) ^ 0.825), where x is your maximum mana.Tip: Use Fairy with Faceless bloodline.</p>
+<p><b>A120</b> - For <b>All Factions</b> - Research Name: <b>Vivification</b><p><b>Requirement</b>: Have 6500 mana</b><p><b>Cost</b>: 676 Spqag (6.76E146)</b><p><b>Effect</b>: Gain additional assistants based on max mana.</b><p><b>Formula</b>: floor((x / 15) ^ 0.825), where x is your maximum mana.</p>
 <br/>
 <p><b>A135</b> - For <b>All Factions</b> - Research Name: <b>Decay</b><p><b>Requirement</b>: 1 Day Total Play Time any Faction (This R) (Must be Undead to unlock once condition is met.)</b><p><b>Cost</b>: 296 OcQag (9.6E149)</b><p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation.</b><p><b>Formula</b>: (0.03 * (2x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds.</p>
 <br/>

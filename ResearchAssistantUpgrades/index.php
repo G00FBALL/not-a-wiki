@@ -86,7 +86,7 @@
 <p><b>Requirement</b>: Have 6500 mana
 <p><b>Cost</b>: 676 Spqag (6.76E146)
 <p><b>Effect</b>: Gain additional assistants based on max mana.
-<p><b>Formula</b>: floor(x/15)^0.825), where x is your maximum mana.<p>Tip: Use Fairy with Faceless bloodline.
+<p><b>Formula</b>: floor(x/15)^0.825), where x is your maximum mana.
 <br/>
 <br/>
 <p><b>A375</b> - <b>For</b>:  Druid - <b>Research Name</b>: Transfusion
