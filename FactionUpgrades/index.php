@@ -16,17 +16,20 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" align="middle"> Pixie Dust Fertilizer</b></p>
                 <p><b>Mercenary Template</b>: FR1</p>
                 <p><b>Cost</b>: 50 M (5E7)</p>
-                <p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
+                <p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.</p>
+                <p><b>Effect</b>: Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" align="middle"> Fairy Cuisine</b></p>
                 <p><b>Mercenary Template</b>: FR2</p>
                 <p><b>Cost</b>: 500 M (5E8)</p>
-                <p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.Reduces cost multiplier by 0.03; with no other reductions applying, the multiplier will be 1.12 instead of 1.15.</p>
+                <p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
+                <p><b>Effect</b>: Reduces cost multiplier by 0.03; with no other reductions applying, the multiplier will be 1.12 instead of 1.15.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png" align="middle"> Starmetal Alloys</b></p>
                 <p><b>Mercenary Template</b>: FR3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
-                <p><b>Effect</b>: Increase the base production of Blacksmiths by +580 and reduce the building cost multiplier.Reduces cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.125 instead of 1.15.</p>
+                <p><b>Effect</b>: Increase the base production of Blacksmiths by +580 and reduce the building cost multiplier.</p>
+                <p><b>Effect</b>: Reduces cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.125 instead of 1.15.</p>
                 <hr>
                 <h6>Elf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenMintFactionUpgrade.png" align="middle"> Elven Mint</b></p>
@@ -252,7 +255,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" align="middle"> Expert Masonry</b></p>
                 <p><b>Mercenary Template</b>: DN2</p>
                 <p><b>Cost</b>: 50 Qad (5E46)</p>
-                <p><b>Effect</b>: Reduce all building cost multipliers. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+                <p><b>Effect</b>: Reduce all building cost multipliers.</p>
+                <p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
                 <p><b>Mercenary Template</b>: DN3</p>
