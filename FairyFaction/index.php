@@ -26,15 +26,15 @@
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" alt="Smiley face" align="middle"> Pixie Dust Fertilizer</b></p>
 <p><b>Cost</b>: 50 M (5E7)</p>
-<p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
+<p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" alt="Smiley face" align="middle"> Fairy Cuisine</b></p>
 <p><b>Cost</b>: 500 M (5E8)</p>
-<p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.Reduces cost multiplier by 0.03; with no other reductions applying, the multiplier will be 1.12 instead of 1.15.</p>
+<p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier. Reduces cost multiplier by 0.03; with no other reductions applying, the multiplier will be 1.12 instead of 1.15.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png" alt="Smiley face" align="middle"> Starmetal Alloys</b></p>
 <p><b>Cost</b>: 5 B (5E9)</p>
-<p><b>Effect</b>: Increase the base production of Blacksmiths by +580 and reduce the building cost multiplier.Reduces cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.125 instead of 1.15.</p>
+<p><b>Effect</b>: Increase the base production of Blacksmiths by +580 and reduce the building cost multiplier. Reduces cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.125 instead of 1.15.</p>
 <hr>
 <p><b>Tier 2 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesFriendshipPact.png" alt="Smiley face" align="middle"> Fairy Friendship Pact</b></p>
