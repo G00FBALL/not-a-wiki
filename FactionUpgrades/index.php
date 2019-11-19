@@ -252,8 +252,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" align="middle"> Expert Masonry</b></p>
                 <p><b>Mercenary Template</b>: DN2</p>
                 <p><b>Cost</b>: 50 Qad (5E46)</p>
-                <p><b>Effect</b>: Reduce all building cost multipliers.</p>
-                <p>Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+                <p><b>Effect</b>: Reduce all building cost multipliers. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
                 <p><b>Mercenary Template</b>: DN3</p>
