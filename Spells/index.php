@@ -632,7 +632,7 @@
     <p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
     <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png" align="middle"> <b>Avarice Drive</b></p>
-    <p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>
+    <p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin's Greed Tier 2-7</a></b></p>
