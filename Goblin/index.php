@@ -36,5 +36,5 @@
 <hr>
 <H6 id="GoblinGCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png" alt="Avarice Drive" align="middle"> <b>Avarice Drive</b></p>
-<p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>
+<p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>
 <?php include "../scripts/footer.html"; ?>
