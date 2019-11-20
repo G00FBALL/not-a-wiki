@@ -158,7 +158,7 @@
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png align=middle> <b>Avarice Drive</b></p>
-	<p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>"
+	<p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>"
 	coords="7,359,62,413" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC1" target="" research=
 	"<p><b>Goblin Challenge 1</b></p>
