@@ -73,7 +73,7 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,A105,A120,A150,A250,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                        <input type="text" value="S135,S150,S215,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A150,A250,A400,W150,W180,W290,W320,W330,W400" id="Build">
                     </p>
                     <p>S135,S150,S215,S330,S500,</p>
                     <p>C150,C251,C330,C340,C375,C400,</p>
