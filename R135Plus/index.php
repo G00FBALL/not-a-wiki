@@ -171,31 +171,6 @@
                     <p><b>Notes</b>: 2-5 minute runs, hits e90 gems in about 30 minutes</p>
                 </div>
             </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons (R157+) (End of A2 - ruby #41 excavator)</a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Rellikrellik</p>
-                    <p><b>Faction</b>: Demon</p>
-                    <p><b>Bloodline</b>: Makers</p>
-                    <p><b>Artifact Set</b>: Undead</p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S435,S3200,C50,C340,D10,D290,D560,E230,E290,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build">
-                    </p>
-                    <p>S435,S3200,
-                        <p>C50,C340,</p>
-                        <p>D10,D290,D560,</p>
-                        <p>E230,E290,E495,</p>
-                        <p>A25,A400,A410,</p>
-                        <p>W1,W175,W205,W405,W520,W590</p>
-                        <p><b>Notes</b>: Needs several days to grow for both production and assistants -> Reality Crater.</p>
-                        <p><b>Notes</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
-                        <p><b>Notes</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
-                        <p><b>Notes</b>: Meant to be used at the end of A2, but may overshoot on coins (and thus break) before reaching the necessary assistants for Reality Crater if you focus too much on production and have too many gems at the start of the run.</p>
-                        <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants 88% Gems 8% Max Mana.</p>
-                        <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Assistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increases Trophies.</p>
-                </div>
-            </div>
         </div>
         <br/>
         <p><b>Elite Challenges</b></p>
@@ -496,7 +471,7 @@
                             <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
                             <p><b>Note</b>: Build is listed in order of purchase.</p>
                             <p><b>Note</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
-                            <p><b>Note</b>: Starts slow but grows well, estimated 2-3 days to complete.</p>
+                            <p><b>Note</b>: Starts slow but grows well, estimated 2-3 days to complete (needs 9.507e19 (95.07 QI mana generated this R).</p>
                         </div>
                     </div>
                 </div>
@@ -818,6 +793,31 @@
                     <p>A50,A400,A495,</p>
                     <p>W180,W225,W560</p>
                     <p><b>After Archon Treaty</b>: S400,C340,D290,E290,A120,W400 (Reimport Build)</p>
+                </div>
+            </div>
+			<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons (R157+) (End of A2 - ruby #41 excavator)</a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Rellikrellik</p>
+                    <p><b>Faction</b>: Demon</p>
+                    <p><b>Bloodline</b>: Makers</p>
+                    <p><b>Artifact Set</b>: Undead</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S435,S3200,C50,C340,D10,D290,D560,E230,E290,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build">
+                    </p>
+                    <p>S435,S3200,
+                        <p>C50,C340,</p>
+                        <p>D10,D290,D560,</p>
+                        <p>E230,E290,E495,</p>
+                        <p>A25,A400,A410,</p>
+                        <p>W1,W175,W205,W405,W520,W590</p>
+                        <p><b>Notes</b>: Needs several days to grow for both production and assistants -> Reality Crater.</p>
+                        <p><b>Notes</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
+                        <p><b>Notes</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
+                        <p><b>Notes</b>: Meant to be used at the end of A2, but may overshoot on coins (and thus break) before reaching the necessary assistants for Reality Crater if you focus too much on production and have too many gems at the start of the run.</p>
+                        <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants 88% Gems 8% Max Mana.</p>
+                        <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Assistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increases Trophies.</p>
                 </div>
             </div>
         </div>

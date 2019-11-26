@@ -102,19 +102,19 @@
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
 <p><b>Cost</b>: 50 Dvg (5.0e70)</p>
 <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-<p><b>Formula</b>: (0.75 * (t ^ 0.55)) where t is amount of time spent with Dragons (All game).</p>
+<p><b>Formula</b>: (0.75 * (x ^ 0.55))% where x is amount of time spent with Dragons (All game).</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" alt="Smiley face" align="middle"> Bountiful Hoard</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
 <p><b>Cost</b>: 500 Dvg (5e71 DC)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found.</p>
-<p><b>Formula</b>: (5 * (x ^ 1.25)) where x is amount of artifacts you found.</p>
+<p><b>Formula</b>: (5 * (x ^ 1.25))% where x is amount of artifacts you found.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" alt="Smiley face" align="middle"> Sharp Claws</b></p>
 <p><b>Requirement</b>: Dragons Friendship Pact</p>
 <p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
 <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
-<p><b>Formula</b>: (1.35 * x ^0.35), where x is clicks made in this game.</p>
+<p><b>Formula</b>: (1.35 * x ^ 0.35), where x is clicks made in this game.</p>
 <hr>
 <p><b>Tier 3 Upgrades</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Alliance</b></p>
@@ -132,7 +132,7 @@
 <p><b>Requirement</b>: Dragons Alliance</p>
 <p><b>Cost</b>: 5 Qavg (5.0e75)</p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of neutral buildings you own.</p>
-<p><b>Formula</b>: (1 * floor((x ^ 0.5)) / 10) where x is amount of neutral buildings.</p>
+<p><b>Formula</b>: (0.1 * floor(x ^ 0.5)) where x is amount of neutral buildings.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" alt="Smiley face" align="middle"> Chromatic Scales</b></p>
 <p><b>Requirement</b>: Dragons Alliance</p>

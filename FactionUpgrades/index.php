@@ -146,7 +146,7 @@
                 <p><b>Mercenary Template</b>: DD2</p>
                 <p><b>Cost</b>: 5 Sx (5E21)</p>
                 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-                <p><b>Formula</b>: floor((sqrt(1+12 * x)-1)/2), where x is your Playtime (This Game) stat in hours.</p></p>
+                <p><b>Formula</b>: floor(((1 + 12 * x) ^ 0.5 - 1 ) / 2), where x is your Playtime (This Game) stat in hours.</p></p>
                 <a id="Companions"></a>
                 <table class="numtable">
                     <thead>
@@ -564,19 +564,19 @@
                 <p><b>Mercenary Template</b>: DG4</p>
                 <p><b>Cost</b>: 50 Dvg (5.0e70)</p>
                 <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-                <p><b>Formula</b>: ({0.75 * (t ^ 0.55)}%) where t is amount of time spent with Dragons.</p>
+                <p><b>Formula</b>: {0.75 * (x ^ 0.55)}% where x is amount of time spent with Dragons.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" align="middle"> Bountiful Hoard</b></p>
                 <p><b>Mercenary Template</b>: DG5</p>
                 <p><b>Cost</b>: 500 Dvg (5e71 DC)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found.</p>
-                <p><b>Formula</b>: ({5 * (x ^ 1.25)}%) where x is amount of artifacts you found.</p>
+                <p><b>Formula</b>: {5 * (x ^ 1.25)}% where x is amount of artifacts you found.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" align="middle"> Sharp Claws</b></p>
                 <p><b>Mercenary Template</b>: DG6</p>
                 <p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
                 <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
-                <p><b>Formula</b>: (1.35 * x ^0.35), where x is clicks made in this game.</p>
+                <p><b>Formula</b>: (1.35 * x ^ 0.35), where x is clicks made in this game.</p>
                 <hr>
                 <h6>Archon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Constellation.png" align="middle"> Constellation</b></p>
@@ -773,7 +773,7 @@
                 <p><b>Mercenary Template</b>: DD8</p>
                 <p><b>Cost</b>: 500 Oc (5E29)</p>
                 <p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
-                <p><b>Formula</b>: (x 0.25), where x is Stone Pillars.</p>
+                <p><b>Formula</b>: (x * 0.25), where x is Stone Pillars.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
                 <p><b>Mercenary Template</b>: DD9</p>
@@ -840,13 +840,13 @@
                 <p><b>Mercenary Template</b>: DG7</p>
                 <p><b>Cost</b>: 500 Tvg (5.0e74)</p>
                 <p><b>Effect</b>: Increase maximum mana based on the amount of Faction Coins found in this game.</p>
-                <p><b>Formula</b>: floor(45 * ln(1 + (x ^ 6.5))M) where x is amount of FCs found (This Game).</p>
+                <p><b>Formula</b>: floor(45 * ln(1 + x) ^ 1.45) where x is amount of FCs found (This Game).</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" align="middle"> Imposing Presence</b></p>
                 <p><b>Mercenary Template</b>: DG8</p>
                 <p><b>Cost</b>: 5 Qavg (5.0e75)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on the amount of neutral buildings you own.</p>
-                <p><b>Formula</b>: (0.1 * floor((x ^ 0.5)) / 10) where x is amount of neutral buildings.</p>
+                <p><b>Formula</b>: (0.1 * floor(x ^ 0.5)) where x is amount of neutral buildings.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" align="middle"> Chromatic Scales</b></p>
                 <p><b>Mercenary Template</b>: DG9</p>

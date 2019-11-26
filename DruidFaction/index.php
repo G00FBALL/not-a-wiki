@@ -48,12 +48,12 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidicVocabularyFactionUpgrade.png" align="middle"> Druidic Vocabulary</b></p>
 <p><b>Cost</b>: 500 Qi (5E20)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: 4000*x%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<p><b>Formula</b>: (4000 * x)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
 <p><b>Cost</b>: 5 Sx (5E21)</p>
 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-<p><b>Formula</b>: floor((sqrt(1+12*x)-1)/2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: floor(((1 + 12 * x) ^ 0.5 - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
     <a id="Companions"></a>
     <table class="numtable">
         <thead>
@@ -163,7 +163,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
 <p><b>Cost</b>: 500 Oc (5E29)</p>
 <p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
-<p><b>Formula</b>: (x 0.25), where x is Stone Pillars.</p>
+<p><b>Formula</b>: (x * 0.25), where x is Stone Pillars.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
 <p><b>Cost</b>: 5 No (5E30)</p>

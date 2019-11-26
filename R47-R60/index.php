@@ -257,7 +257,7 @@
 				<p>A120,A250,A270,A400,A545,A1325,</p>
 				<p>W135,W250,W400,W1275,W1375</p>
 				<p><b>Notes</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
-				<p><b>Notes</b>: Estimated time 20-22 hours to 1e10 (10 B) mana generated.</p>
+				<p><b>Notes</b>: Estimated time 12-14 hours to 1e10 (10 B) mana generated.</p>
 			</div>
 		</div>
 	</div>
