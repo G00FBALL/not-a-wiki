@@ -31,7 +31,7 @@
 <p><b>Challenge</b>: Have a combined total of 8 days played as faceless and dragons with a minimum of 2 days as each one.</p>
 <p><b>Effect</b>: Ascension 1 penalty from Deep Memory is removed and its bonus increased.</p>
 <p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
-<p><b>Formula</b>: (3 * x ^ 0.65)%, where x is your amount of Sunken Cities.</p>
+<p><b>Formula</b>: floor(3 * x ^ 0.65)%, where x is your amount of Sunken Cities.</p>
 <p><b>Upgrade</b>: Works with Faceless+Dragon</p>
 <hr>
 <H6 id="DragonDC4"></h6><p><b>Dragon Challenge 4</b>:</p>

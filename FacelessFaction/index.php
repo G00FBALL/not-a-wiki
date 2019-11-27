@@ -57,7 +57,7 @@
 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Labyrinths you own. </p>
 <p><b>Formula</b>: floor(3 * x ^ 0.6), where x is the number of Labyrinths you own.</p>
 <p><b>Effect</b>: With Dragon Challenge 3 (<b>Serpent Queller</b>) Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
-<p><b>Formula</b>: (3 * x ^ 0.65)%, where x is your amount of Labyrinths.</p>
+<p><b>Formula</b>: floor(3 * x ^ 0.65)%, where x is your amount of Labyrinths.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" alt="Smiley face" align="middle"> Deep Memory</b></p>
 <p><b>Cost</b>: 50 Sx (5E22)</p>
