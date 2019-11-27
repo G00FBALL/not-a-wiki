@@ -47,6 +47,6 @@
 <hr>
 <H6 id="FacelessFCR"></h6><p><b>In-Game Challenge Final Reward</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FocusedThoughtsChallenges.png" alt="Focused Thoughts" align="middle"> <b>Focused Thoughts</b></p>
-<p><b>Effect</b>: Give Brainwave a headstart based on the amount of times you cast it in this game, with a minimum of 1 minute.</p>
-<p>+1 second per 5 minutes Active Time (This Game) (+10 minutes per tier of Brainwave past 1).</p>
+<p><b>Effect</b>: Give Brainwave a headstart based on its activity time in this game, with a minimum of 1 minute.</p>
+<p>+1 second per 5 minutes Active Time (This Game).</p>
 <?php include "../scripts/footer.html"; ?>
