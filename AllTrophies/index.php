@@ -1556,37 +1556,37 @@ div#images div{
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png align=middle><b> Mana Wave</b></p>
 <p><b>Requirement</b>: Produce 20M (20E6) mana (Total), R40+</p>
 <p><b>Cost</b>: 80 Sp (8E25)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png align=middle><b> Mana River</b></p>
 <p><b>Requirement</b>: Produce 1B (1E9) mana (Total), R40+</p>
 <p><b>Cost</b>: 90 Oc (9E28)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png align=middle><b> Mana Lake</b></p>
 <p><b>Requirement</b>: Produce 20B (2E10) mana (Total), R40+</p>
 <p><b>Cost</b>: 100 No (1E32)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png align=middle><b> Mana Sea</b></p>
 <p><b>Requirement</b>: Produce 1 T (1E12) mana (Total), R40+</p>
 <p><b>Cost</b>: 12.5 Uqag No (1.25e127)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png align=middle><b> Mana Ocean</b></p>
 <p><b>Requirement</b>: Produce 2 T (2E12) mana (Total), R40+</p>
 <p><b>Cost</b>: 150 Noqag (1.5e152)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +5.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png align=middle><b> Mana Spring</b></p>
 <p><b>Requirement</b>: R100+, Produce 100 T (1E14) mana (Total)</p>
 <p><b>Cost</b>: 1 Sp (1e24)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +10.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +100.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/ManaFalls.png align=middle><b> Mana Falls</b></p>
 <p><b>Requirement</b>: R100+, Produce 200 Qi (2e20) mana (Total)</p>
 <p><b>Cost</b>: 10 Dqag (1e130)</p>
-<p><b>Effect</b>: Increase Mana regeneration by +10.00.</p>
+<p><b>Effect</b>: Increase Mana regeneration by +100.00.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/MagicUserTrophy.png align=middle><b> Magic User</b></p>
 <p><b>Requirement</b>: 10 spell casts in a single game.</p>
