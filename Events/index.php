@@ -149,6 +149,7 @@
                             <td>&#10004;</td>
                             <td>&#10004;</td>
                             <td>&#10004;</td>
+                            <td>&#10004;</td>
                         </tr>
                     </tbody>
                     <tr>
@@ -324,6 +325,18 @@
                 <div class="shlisting">
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2019 Events</a></b></p>
                     <div class="category autohide">
+                        <div class="shelementwhole">
+                            <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving(Nov 26 - Nov 30, 2019)</a></b></p>
+                            <div class="autohide">
+                                <p>The Thanksgiving event will be starting on <b>Nov 26th 2018, 1.01 PM UTC</b> and will end on <b>Nov 30th 2019, 6.59 PM UTC</b>.</p>
+                                <p>Remember the Thanksgiving upgrade and bonuse will disappear after the event is over, the Feat achievement will remain.</p>
+                                <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
+                                <p><b>Kind</b>: Upgrade/Feat</p>
+                                <p><b>Requirements</b>: Play during Thanksgiving</p>
+                                <p><b>Cost</b>: Free</p>
+                                <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
+                            </div>
+                        </div>
                         <div class="shelementwhole">
                             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 30 - Nov 6, 2019)</a></b></p>
                             <div class="autohide">
