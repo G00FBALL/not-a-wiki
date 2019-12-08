@@ -340,6 +340,7 @@
     </div>
     <br/>
     <p><b>Lineage Builds</b></p>
+    <p><b>All Lineage Builds need Clicks buffed</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
