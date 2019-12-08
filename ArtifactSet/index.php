@@ -109,7 +109,7 @@
     <p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p>
     <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Increase the duration of all spells based on spells cast in this Reincarnation.</p>
-    <p><b>Formula</b>: (0.75 * ln(x) ^ 2.25), where x is spells cast in this Reincarnation.</p>
+    <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is spells cast in this Reincarnation.</p>
     <br/>
     <H6 id="Mercenary"></h6><p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySet.png" align="middle"><b> Mercenary Set</b></p>
     <p><b>Requirement</b>: A3+ (R160+)</p>
