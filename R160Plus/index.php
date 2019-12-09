@@ -78,29 +78,36 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Merc R185+ (e70+) 10 Dvg<b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"The Master Plan" Demonline Merc 1e75 (1 Qavg)+ <b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: heyitsdross</p>
-                <p><b>Requirement</b>: Mercenary Duel</p>
-                <p><b>Range</b>: 10 Dvg (e70+), recommended 1 Qavg (e75+) Gems</p>
+                <p><b>Author</b>: Heyitsdross</p>
+                <p><b>Requirement</b>: Mercenary Duel, 1d 16h time this Reincarnation</p>
+                <p><b>Range</b>: 1e75 (1 Qavg) Gems+ </p>
                 <p><b>Alignment</b>: Evil/Order Mercenary</p>
                 <p><b>Bloodline</b>: Demon</p>
                 <p><b>A2950</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C3000,D275,D2775,E230,E3300,A120,A2950,W175,W3050,S590,C590,D330,E1325,A3400,W400" id="Build"></p>
+                    <p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A120,A270,A2950,W175,W275,S590,C590,D330,E1325,A3400,W400" id="Build">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A270,A495,A2950,W175,W1275,S590,C590,D330,E1325,A3400,W400" id="Build">
+						W175 is buffed
+					</p>
                 <p>TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,</p>
                 <p>SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,</p>
                 <p>S200,S2875,S3200,</p>
-                <p>C340,C3000,</p>
-                <p>D275,D2775,</p>
-                <p>E230,E3300,</p>
-                <p>A120,A2950,</p>
-                <p>W175,W3050,</p>
-                <p><b>Archon +2</b>: S590,C590,D330,E1325,A3400,W400</p>
+                <p>C340,C400,C3000,</p>
+                <p>D275,D290,D2775,</p>
+                <p>E230,E400,E3300,</p>
+                <p>A120,A270,A2950,</p>
+                <p>W175,W275,</p>
+                <p><b>Archon Bloodline +2</b>: S590,C590,D330,E1325,A3400,W400</p>
                 <p><b>Note</b>: Any further AR bloodline picks should maximize spell length, DJ3, FC chance, or raw prod, in that order</p>
-                <p><b>Note</b>: A120 -> A495 if your W175 was buffed in a previous run</p>
-                <p><b>Buff</b>: Mana produced (this R), Spells cast (this R), time passed (this R), trophies gained (should have all except God's Fingers minimum). Buff with order builds for as long as you like; 6d 16 hours time this R lifts all A nerfs from DDC4 and Demon Lineage, and 28 days as Order this R allows DN12 to outperform AN12                  </p>
+                <p><b>Note</b>: A120 -> A495, W275 -> W1275 if W175 is buffed (?)</p>
+                <p><b>Buff</b>: Mana produced (this R), Spells cast (this R); 8d 16h time this R lifts all A nerfs from DDC4 and Demon Lineage.</p>
             </div>
         </div>
     </div>
