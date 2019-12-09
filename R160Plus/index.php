@@ -89,11 +89,11 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                     <p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A120,A270,A2950,W175,W275,S590,C590,D330,E1325,A3400,W400" id="Build">
+						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A120,A270,A2950,W175,W275,W3050,S590,C590,D330,E1325,A3400,W400" id="Build">
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A270,A495,A2950,W175,W1275,S590,C590,D330,E1325,A3400,W400" id="Build">
+						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A270,A495,A2950,W175,W1275,W3050,S590,C590,D330,E1325,A3400,W400" id="Build">
 						W175 is buffed
 					</p>
                 <p>TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,</p>
@@ -103,7 +103,7 @@
                 <p>D275,D290,D2775,</p>
                 <p>E230,E400,E3300,</p>
                 <p>A120,A270,A2950,</p>
-                <p>W175,W275,</p>
+                <p>W175,W275,W3050</p>
                 <p><b>Archon Bloodline +2</b>: S590,C590,D330,E1325,A3400,W400</p>
                 <p><b>Note</b>: Any further AR bloodline picks should maximize spell length, DJ3, FC chance, or raw prod, in that order</p>
                 <p><b>Note</b>: A120 -> A495, W275 -> W1275 if W175 is buffed (?)</p>
