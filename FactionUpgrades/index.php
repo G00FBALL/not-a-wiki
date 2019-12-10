@@ -1012,7 +1012,7 @@
                 <p><b>Requirement</b>: A2, Goblins Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
-                <p><b>Formula</b>:(-0.02)</p>
+                <p><b>Formula</b>: (-0.02)</p>
                 <p><b>Effect</b>: Increase Non-Unique buildings production based on their quantity.</p>
                 <p><b>Formula</b>: (x ^ 0.65), where x is amount of Non-Unique buildings.</p>
                 <hr>
