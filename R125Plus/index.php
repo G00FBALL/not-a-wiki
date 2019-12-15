@@ -95,7 +95,7 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Iron Fragment</a></b></p>
                 <div class="autohide">
                     <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (First Iron Fragment / SV Pusher Build)</a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (First Iron Fragment)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Rellikrellik</p>
                             <p><b>Range</b>: ?</p>
