@@ -154,8 +154,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
-<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistant count.</p>
+<p><b>Effect</b>: Assistants and Clicks count 1,000% more for all purposes and increase assistant production based on assistant amount.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>

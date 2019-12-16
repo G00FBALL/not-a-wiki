@@ -1,9 +1,8 @@
-<link rel="shortcut icon" href="http://musicfamily.org/realm/Factions/picks/favicon.ico">
-<body>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
-<link rel="stylesheet" href="http://musicfamily.org/realm/scripts/rtree.css"/>
 </link>
 <div id="calrps">
     <style>
@@ -28,7 +27,7 @@
         }
 
         table {
-            width: 133%;
+            width: 100%;
         }
 
         td {
@@ -41,7 +40,7 @@
         }</style>
     <table>
         <tr>
-            <th><b>Maximum &nbsp;&nbsp;Research &nbsp;&nbsp;Points &nbsp;&nbsp;and &nbsp;&nbsp;Cost &nbsp;&nbsp;Per &nbsp;&nbsp;Reincarnation</b></th>
+            <th colspan="5">Maximum Research Points and Cost Per Reincarnation</th>
         </tr>
     </table>
     <table>
@@ -164,199 +163,1470 @@
 <p><a href="http://musicfamily.org/realm/ResearchFacilities/"><b>Research Tree Mobile Text Version</b></a></p>
 <br/>
 <p><b> At Ascension 2 R100+ research points are capped at 5000.</b></p>
+<p><b> At Ascension 3 R175+ research points are capped at 7000.</b></p>
 <p><b>Research Point Production</b></p>
 <p><b>Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
-
-<p><img src="http://musicfamily.org/realm/Factions/picks/Researchtreenew.png" usemap="#Researchtreenew-map">
-    <map name="Researchtreenew-map">
-        <area target="" research="Spellcraft<p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana. <p> Increases: Fairy, Faceless, and Drow production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="47,39,109,99" shape="rect">
-        <area target="" research="S1 - For Fairy - Research Name: Enchanting <p> Cost: 750 Qag (7.5E125) <p> Effect: Increase the production of Enchanted Fields based on mana produced. <p> Formula: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat." coords="30,109,75,155" shape="rect">
-        <area target="" research="S10 - For Angel - Research Name: Channeling. <p> Requirement: 2000 Heaven's Gate. (This Game) <p> Cost: 28.83 Uqag (2.883E127) <p> Effect: Increase the production of all other buildings by 110% per Heaven's Domain you own." coords="83,109,130,153" shape="rect">
-        <area target="" research="S30 - For All Factions - Research Name: Vacuumancy <p> Requirement: Have 4000 Mana. (This Game) <p> Cost: 95.88 Dqag (9.588E130) <p> Effect: Increase maximum mana and mana regeneration rate based on time spent in this game. <p> Formula: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in seconds.<p> Formula: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in seconds." coords="27,162,75,211" shape="rect">
-        <area target="" research="S50 - For Goblin - Research Name: Conjuration <p> Requirement: Have 6000 mana (as Fairy) (This Game)<p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own. <p> Effect: Also increases offline spell cast amount multiplicatively by 150%. <p> Formula: floor((x / 600) ^ 0.9), where x is the number of Goblin Banks you own." coords="83,164,133,210" shape="rect">
-        <area target="" research="S105 - For All Factions - Research Name: Mysticism <p> Requirement: 600 Researches (Total)<p> Cost: 1.544 Spqag (1.544E144) <p> Effect: Increase mana regeneration based on the amount of research made. <p> Formula: floor(x ^ 0.5), where x is number of researches made." coords="28,217,74,264" shape="rect">
-        <area target="" research="S135 - For All Factions - Research Name: Augmentation <p> Requirement: 5000 Unique Buildings (as Fairy) (This Game)<p> Cost: 296 Ocqag (2.96E149) <p> Effect: Increase the production of Unique Buildings based on maximum mana. <p> Formula: round(2 * x^0.8)%, where x is your maximum mana." coords="84,218,130,264" shape="rect">
-        <area target="" research="S150 - For All Factions - Research Name: Pyromancy <p> Requirement: Research Inflame (D10) &amp; Fusion (A105) <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Increase the production of the two highest building tiers based on your mana regeneration. <p> Formula: round(4 * x^1.3)%, where x is your Mana per Second stat." coords="27,273,75,318" shape="rect">
-        <area target="" research="S175 - For Elf - Research Name: Empowered Luck <p> Requirement: Research Blessing (D1) & Augmentation (S135) <p> Cost: 3.273 UQig (3.273E156) <p> Effect: Increase production of buildings by 36,000% for 20 seconds each time you trigger Elven Luck and increase the chance to trigger it by 24%." coords="83,274,130,319" shape="rect">
-        <area target="" research="S180 - For Fairy - Research Name: Incantation <p> Requirement: Research Enchanting (S1) & Mysticism (S105) <p> Cost: 3.273 UQig (3.273E156) <p> Effect: Increase mana regeneration based on the number of assistants you own.<p><b>Formula</b>: floor(16 * x ^ 0.6) / 10, where x is the number of assistants you have." coords="28,328,76,375" shape="rect">
-        <area target="" research="S200 - For All Factions - Research Name: Cryomancy <p> Requirement: Research Conjuration (S50) and Refraction (A55) <p> Cost: 82.65 DQig (8.265E160) <p> Effect: Increase Spell Duration based on mana produced (this game).<p> Formula: (5 * ln(x) ^ 1.25), where x is mana produced (this game)." coords="84,329,130,374" shape="rect">
-        <area target="" research="S215 - For All Factions - Research Name: Projection <p> Requirement: 300 Spiritual Surge (Total this R), Research Channeling (S10) &amp; Incantation (S180) <p> Cost: 36.16 TQig (3.616E163) <p> Effect: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.<p>Formula: 100 * ((10 * x) ^ y), where x is active spells and y is Spiritual Surge tier." coords="28,385,76,428" shape="rect">
-        <area target="" research="S225 - For Undead - Research Name: Necromancy <p> Requirement: Research Resurrection (D175) &amp; Cryomancy (S200) <p> Cost: 2.087 QaQig (2.087E165) <p> Effect: Increase the production of assistants based on the amount of Necropolises you own. <p> Formula: round(5 * x ^ 0.75)%, where x is the number of Necropolises you own." coords="84,382,131,430" shape="rect">
-        <area target="" research="S250 - For All Factions - Research Name: Aeromancy <p> Requirement: Research Weather Control (D225) &amp; Explosives (A150) <p> Cost: 52 QiQig (5.27E169) <p> Effect: Increase the production of Unique Buildings based on mana produced in this game. <p> Formula: round(0.5 * x ^ 0.58)%, where x is your Mana Produced (This Game) stat." coords="27,439,76,486" shape="rect">
-        <area target="" research="S251 - For Faceless - Research Name: Assimilation <p> Requirement: Secrets of the Ancients (as Faceless) <p> Cost: 79.05 QiQig (7.905E169) <p> Effect: Increase the production of Sunken Cities based on time spent affiliated with factions different than the Faceless. <p> Formula: round(0.3 * x ^ 0.7)%, where x is total time spent as non-Faceless factions." coords="84,437,131,484" shape="rect">
-        <area target="" research="S270 - For All Factions - Research Name: Runecarving <p> Requirement: 500,000 clicks (This game) <p> Cost: 175.2 SxQig (1.752E173) <p> Effect: Increase the production of all buildings based on your bonus from Gems. <p> Formula: round(1.15 * x ^ 0.75)%, where x is your gem bonus." coords="28,494,76,540" shape="rect">
-        <area target="" research="S300 - For Titan - Research Name: Chain Lightning <p> Requirement: 25 Brainwaves (Faceless) (This R) <p> Cost: 33 OcQig (3.36E178) <p> Effect: While Lightning Strike is active, all non-target buildings have their production increased based on the amount of Lightning Strikes cast in this game. <p> Formula: round(120 * x ^ 0.8)%, where x is your Lightning Strikes cast (This Game) stat." coords="84,494,131,542" shape="rect">
-        <area target="" research="S305 - For All Factions - Research Name: Mesmerization <p> Requirement: 2 days as Faceless (Total across all R)<p> Cost: 225.2 OcQig (2.252E179) <p> Effect: Increase the production of all buildings by a fraction of your Offline Production Bonus. <p> Formula: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier." coords="28,548,76,596" shape="rect">
-        <area target="" research="S330 - For All Factions - Research Name: Reverberation <p> Requirement: Research Cryomancy (A200) &amp; Weather Control (D225) <p> Cost: 6.443 Sxg (6.443E183) <p> Effect: Increase the production of all buildings based on the number of active spells you have. You must have at least 3 active spells to generate a bonus. <p> Formula: (3000 * 2 ^ (x - 3)), where x is the number of spells currently active. (Capped at 300 spells)" coords="84,549,131,596" shape="rect">
-        <area target="" research="S375 - For Faceless - Research Name: Illusion <p> Requirement: Research Reverberation (S330) &amp; Mesmerization (S305) <p> Cost: 541 DSxg (5.41E191) <p> Effect: Brainwave also provides progressively more assistants over its duration. <p> Formula: Floor(1.15 * (x + y) ^ 2), where x is brainwave runtime in minutes and y is headstart in minutes" coords="27,604,76,650" shape="rect">
-        <area target="" research="S400 - For All Factions - Research Name: Capacity <p> Requirement: Research Projection (S215) &amp; Domination (W275) <p> Cost: 13.66 QaSxg (1.366E196) <p>Effect: Increase maximum mana based on the highest amount of spells cast in a single game. <p> Formula: (1.2 * log10(x) ^ 4.8), where x is your Spell Cast (Max) stat." coords="83,604,130,652" shape="rect">
-        <area target="" research="S435 - For Drow - Research Name: Spellbinding <p> Requirement: 14400s (4 hour) Combo Strike Cast Time (This Game)<p> Cost: 19.89 SxSxg (1.989e202)<p> Effect: Passively grants the effects from Call to Arms while offline." coords="28,657,77,706" shape="rect">
-        <area target="" research="S460 - For All Factions - Research Name: Focus <p> Requirement: 25000 spells cast (This game) <p> Cost: 5.023 SpSxg (5,023E206) <p>Effect: Increase the production of all buildings based on the times you cast your faction spell in this game. <p> Formula: (15 * x ^ 0.8)%, where x is Faction Spells Cast This Game." coords="84,658,130,706" shape="rect">
-        <area target="" research="S500 - For All Factions - Research Name: Heirlooms <p> Requirement: 40 Artifacts (as Drow) <p> Cost: 5.554 Spg (5,554E213) <p> Effect: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.<p>Maximum Mana: (75 * x ^ 1.1), where x is amount of artifacts you own.<p>Mana Regeneration: (5 * x ^ 1.05), where x is amount of artifacts you own." coords="27,712,77,761" shape="rect">
-        <area target="" research="S545 - For All Factions - Research Name: Hierarchy <p> Requirement: 10M (1E7) mana produced (This Game)<p> Cost: 466.3 DSpq (4.663E221) <p> Effect: Increase the production of buildings based on mana produced in this game, depending on their tiers. Gives better bonuses for lower tiers. <p> Formula: (0.1 * x ^ 0.45 * T ^ 2)%, where x is Mana Produced (This Game) stat, and T is the building tier, starting at 11 for Farms and decreasing to 1 for Halls of Legends." coords="84,713,130,761" shape="rect">
-        <area target="" research="S590 - For Fairy,Dwarf - Research Name: Trickery <p> Requirement: 200 Dwarf Exchanges (as Dwairy) (This Game), Research Mysticism(S105) & Illusion (S375) <p> Cost: 39.16 QiSpg (3.916E229) <p> Effect: Increase the production of Neutral buildings based on maximum Mana. <p> Formula: (0.5 * x ^ 1.05)%, where x is Maximum Mana." coords="27,768,76,817" shape="rect">
-        <area target="" research="Craftsmanship<p>Learn how to use tools and experience to improve your production by mastering Craftsmanship. <p> Increases Elven, Titan, and Dwarven production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="159,36,227,101" shape="rect">
-        <area target="" research="C1 - For Elf - Research Name: Dummy Targets <p> Cost: 750 Qag (7.5E125) <p> Effect: Increase Elven Training Grounds production based on the amount of Faction Coins you found. <p> Formula: round(1.3 * ln ^3 (1 + x))%, where x is your Faction Coins Gained (This Game) stat." coords="143,108,190,157" shape="rect">
-        <area target="" research="C10 - For Fairy - Research Name: Cultivation <p> Requirement: 2500 Farms <p> Cost: 28.83 Uqag (2.883E127) <p> Effect: Increases production of Blacksmith and Inn by 60% per Enchanted field that you have." coords="199,109,245,155" shape="rect">
-        <area target="" research="C25 - For Angel - Research Name: Light Condenser <p> Requirement: 12,000 Spells cast (This R) <p> Cost: 12.63 Dqag (1.263E130) <p> Effect: Increase mana regeneration based on the amount of spells cast. <p> Formula: floor(10 * x^0.3) / 10, where x is your Spells Cast (This Game) stat." coords="144,164,191,210" shape="rect">
-        <area target="" research="C50 - For Demon - Research Name: Refining <p> Requirement: 1 B (1E9) Faction Coins (as Elf) <p> Cost: 318.8 Tgag (3.188E134) <p> Effect: Increase the production of Infernal Realms based on the amount of Demon Coins you found in this Game. <p> Formula: round(0.8 * ln^3(1 + x))%, where x is your Demon Coins Gained (This Game) stat." coords="199,163,247,211" shape="rect">
-        <area target="" research="C80 - For All Factions - Research Name: Apprenticeship <p> Requirement: 16,000 Good and Evil buildings <p> Cost: 61.13 Qiqag (6.113E139) <p> Effect: Increase the production of Neutral buildings based on the amount of Good and Evil buildings. <p> Formula: round(x^0.8)%, where x is the number of Good and Evil Buildings you own." coords="143,218,190,264" shape="rect">
-        <area target="" research="C105 - For All Factions - Research Name: Woodcraft <p> Requirement: 25,000 clicks (This Game) <p> Cost: 1.544 Spqag (1.544E144) <p> Effect: Increase the chance to find Faction Coins based on the amount of Unique Buildings you own. <p> Formula: floor(1.5 * x ^ 1.05)%, where x is the number of Unique Buildings you own." coords="199,219,246,265" shape="rect">
-        <area target="" research="C120 - For All Factions - Research Name: Socketing <p> Requirement: 200,000 clicks (This Game) <p> Cost: 676 Spqag (6.76E146) <p> Effect: Increase clicking reward based on the amount of gems you own. <p> Formula: round(20 * log10(1 + x))%, where x is your current number of gems." coords="144,273,191,321" shape="rect">
-        <area target="" research="C135 - For All Factions - Research Name: Reinforcing <p> Requirement: 250,000 clicks (This Game, as Elf) <p> Cost: 296 Ocqag (2.96E149) <p> Effect: Increase the production of all buildings based on your total number of clicks. <p> Formula: (ln(1 + x) ^ 2.75)%, where x is your Treasure Clicks (Total) stat." coords="198,274,246,319" shape="rect">
-        <area target="" research="C150 - For All Factions - Research Name: Tinkering <p> Requirement: Research Recycling (E10) &amp; Reinforcing (C135) <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Increase the production of all buildings based on the amount of research made. <p> Formula: round(125 * x ^ 0.38)%, where x is number of researches made." coords="144,326,191,374" shape="rect">
-        <area target="" research="C175 - For Goblin - Research Name: Gemcutting <p> Requirement: Research Refining (C50) &amp; Socketing (C120) <p> Cost: 3.273 Uqig (3.273E156) <p> Effect: Increase the production bonus from gems based on the number of buildings you own. <p> Formula: floor(x / 2000)%, where x is your Buildings Owned (This Game) stat." coords="198,329,246,375" shape="rect">
-        <area target="" research="C200 - For All Factions - Research Name: Journeymen <p> Requirement: Research Apprenticeship (C80) &amp; Bartering (E50). <p> Cost: 82.65 Dqig (8.265E160) <p> Effect: Increase the production of Unique Buildings based on total time spent as that faction. <p> Formula: round(0.125 * x ^ 0.7)%, where x is your Time Spent as that faction stat." coords="144,383,190,431" shape="rect">
-        <area target="" research="C225 - For Elf - Research Name: Automatons <p> Requirement: Research Dummy Targets (C1) &amp; Vivification (A120). <p> Cost: 2.087 Qaqig (2.087E165) <p> Effect: Each Elven Training Grounds counts as 200 buildings for Call to Arms purposes." coords="198,383,246,430" shape="rect">
-        <area target="" research="C250 - For All Factions - Research Name: Magnetism <p> Requirement: Research Tinkering (C150) &amp; Critical Strike (W225). <p> Cost: 52.7 Qiqig (5.27E169)<p>Effect: Increase the chance to find Faction Coins by a multiplicative 50%<p> Effect: Increase the chance to find faction coins based on total time spent offline. (in minutes) <p> Formula: floor(7.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat." coords="144,438,190,485" shape="rect">
-        <area target="" research="C251 - For Titan - Research Name: Architecture <p> Requirement: Secrets of the Ancients (as Titan) <p> Cost: 79.05 QiQig (79.05E168) <p> Effect: Increase the production of Olympian Halls based on the amount of buildings you own. <p> Formula: round(0.5 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat." coords="198,437,246,485" shape="rect">
-        <area target="" research="C300 - For Druid - Research Name: Weighting <p> Requirement: 650 Lightning Strikes (This R)<p> Cost: 33.6 OcQig (33.6E177) <p> Effect: While Grand Balance hits Stone Pillars, increase its production by 2000%. <p> Effect: Also increase the production of every Grand Balance target based on maximum mana. <p> Formula: 10 * (2.15 * log10(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier." coords="144,493,191,541" shape="rect">
-        <area target="" research="C305 - For All Factions - Research Name: Golemcraft <p> Requirement: 2 days as Titans (Total across all R)<p> Cost: 255.2 OcQig (2.552E179) <p> Effect: Gain additional assistants based on your total time spent offline (in hours). <p> Formula: floor(0.85 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R)." coords="198,493,248,541" shape="rect">
-        <area target="" research="C330 - For All Factions - Research Name: Overload <p> Requirement: Research Aeromancy (S250) &amp; Critical Strike (W225) <p> Cost: 6.443 Sxg (6.443E183) <p> Effect: Increase mana regeneration based on the amount of research made.<p> Formula: (3.5 *  x  ^0.35), where x is researches made." coords="144,548,190,595" shape="rect">
-        <area target="" research="C340 - For All Factions - Research Name: Gem Duster <p> Requirement: 800 Gem Grinders (This R),Research Sifting (E260) &amp; Surveyorship (E290) <p> Cost: 371.5 Sxg (3.715E185) <p> Effect: Increase production bonus from gems based on the amount of Rubies you collected. (Multiplicative) <p> Formula: floor(10 * x), where x is your Rubies Gained (All Time) stat." coords="199,547,246,596" shape="rect">
-        <area target="" research="C375 - For Titan - Research Name: Lightning Rod <p> Requirement: Research Chain Lightning (S300) &amp; Overload (C330) <p> Cost: 541 DSxg (5.41E191) <p> Effect: Olympian Halls are always hit by Lightning Strike in addition to the primary target. Olympian Halls can no longer be a primary target." coords="143,603,190,650" shape="rect">
-        <area target="" research="C400 - For All Factions - Research Name: Gravitation <p> Requirement: Research Magnetism (C250) &amp; Weighting (C300) <p> Cost: 13.66 QaSxg (1.366E196) <p> Effect: Increase the chance to find Faction Coins based on the amount of Faction Coins found in this game.<p>Effect: Also increase the chance to find Faction Coins by a multiplicative 100%.<p> Formula: floor(3.5 * ln(x + 1) ^ 3), where x is your Faction Coins Gained (This Game) stat." coords="198,604,246,648" shape="rect">
-        <area target="" research="C405 - For Dwarf - Research Name: Metallurgy <p> Requirement: Secrets of the Underworld (as Dwarf) <p> Cost: 103.7 QaSxg (1.037E197) <p> Effect: Increase the production of Dwarven Forges based on the Dwarven Forges you own. <p> Formula: (45 * x ^ 0.825)%, where x is the number of Dwarven Forges you own." coords="143,657,191,706" shape="rect">
-        <area target="" research="C460 - For All Factions - Research Name: Distribution <p> Requirement: 1M Clicks (This game) <p> Cost: 502.3 SpSxg (5.023E206) <p> Effect: Increase the production of non-unique buildings based on the amount of clicks you made in this game. <p> Formula: (35 * x ^ 0.5)%, where x is your Treasure Clicks (This Game) stat." coords="198,657,245,706" shape="rect">
-        <area target="" research="C500 - For All Factions - Research Name: Minecrafting <p> Requirement: 3250 excavations (as Dwarf) <p> Cost: 5.554Spg (5.554E213) <p> Effect: Increases production bonus from gems based on the amount of excavations you made. <p> Formula: (3 * x ^ 0.35)%, where x is the amount of Excavations you made." coords="144,713,190,760" shape="rect">
-        <area target="" research="C520 - For Dwarf - Research Name: Blacksmithing <p> Requirement: Research Reinforcing (C135) &amp; Metallurgy (C405) <p> Cost: 18.47 USpg (1.847E217) <p> Effect: Increase clicking reward for Diamond Pickaxe based on the amount of Dwarvin Forges you own. <p> Effect: Also increase Faction Coin find chance bonus of Diamond Pickaxe based on the amount of Dwarvin Forges you own. <p> Formula: Clicking Reward: 2.5 * x^0.3%, where x is the number of Dwarven Forges you own. <p> Formula: Diamond Pickaxe: 20 * x^0.4%, where x is the number of Dwarven Forges you own." coords="198,714,245,761" shape="rect">
-        <area target="" research="C590 - For Elf,Dwarf - Research Name: Alloys <p> Requirement: 200 Dwarf Exchanges (as Dwelf), Research Fusion(A105) and Blacksmithing(C520) <p> Cost: 39.16 QiSpg (3.916E229) <p> Effect: Increase clicking reward based on your chance to find Faction Coins, (if your FC chance is 10k%, this will be 10k%).<p>Effect: Autoclicks the treasure 10 times per second. " coords="144,768,191,816" shape="rect">
-        <area target="" research="Divine<p>Harness the power of the eternals, increasing your spell affinity and bestowing Divine power on all your productivity. <p> Increases Angel, Faceless, and Dwarven production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="276,36,344,102" shape="rect">
-        <area target="" research="D1 - For Angel - Research Name: Blessing <p> Cost: 750 Qag (7.50E125) <p> Effect: Increase the production of Heaven's Domains based on total time spent with at least one active spell. <p> Formula: round(2.5 * x ^ 0.8)%, where x is total time spent with at least one active spell." coords="258,107,306,155" shape="rect">
-        <area target="" research="D10 - For Demon - Research Name: Inflame <p> Requirement: 2,000 Infernal Realms <p> Cost: 28.83 Uqag (2.883E127) <p> Effect: Increase the production of all other buildings by 110% per Infernal Realm you own." coords="314,106,361,155" shape="rect">
-        <area target="" research="D25 - For Undead - Research Name: Cursing <p> Requirement: Play 8 hours Offline (as Undead) (This Game)<p> Cost: 12.63 Dqag (1.263E130) <p> Effect: Increase the production of all buildings based on your offline production bonus. <p> Formula: (2.75 * log10(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier." coords="258,163,306,210" shape="rect">
-        <area target="" research="D50 - For Elf - Research Name: Hallowing <p> Requirement: 15,000 Good Buildings(as Angel) <p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Increase your chance to find Faction Coins based on the amount of Elven Training Grounds you own. <p> Formula: floor(1.5 * x ^ 1.05)%, where x is the number of Elven Training Grounds you own." coords="314,164,361,210" shape="rect">
-        <area target="" research="D55 - For All Factions - Research Name: Transfixion <p> Requirement: Produce 3 M (3E6) Mana (This Game) <p> Cost: 2.421 Qaqag (2.421E135) <p> Effect: Increase clicking reward based on spell cast in this game. <p> Formula: round(3.5 * x ^ 0.8)%, where x is your Spells Cast (This Game) stat." coords="259,220,306,265" shape="rect">
-        <area target="" research="D135 - For All Factions - Research Name: Illumination <p> Requirement: 250 m/s Mana Regen(as Angel) <p> Cost: 296 Ocqag (2.96E149) <p> Effect: Increases mana regeneration based on the amount of gems you own. <p> Formula: floor(1.25 * ln(1 + x)) / 10), where x is amount of gems you own." coords="314,218,361,265" shape="rect">
-        <area target="" research="D150 - For All Factions - Research Name: Retribution <p> Requirement: Research Betrayal (W120) &amp; Transfixion (D55). <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Increase chance to find faction coins based on the amount of research made. <p> Formula: floor(x ^ 1.25), where x is the amount of research made." coords="259,275,305,317" shape="rect">
-        <area target="" research="D175 - For Angel - Research Name: Resurrection <p> Requirement: Research Blessing (D1) &amp; Refraction (A55) <p> Cost: 3.273 Uqig (3.273E156) <p> Effect: You gain additional assistants based on God's Hands activity time. (This R)<p> Formula: floor(1.5 * x ^ 0.75), where x is God's Hands Cast Time Activity (This R)." coords="313,274,361,322" shape="rect">
-        <area target="" research="D200 - For All Factions - Research Name: Transcendence <p> Requirement: Research Resurrection (D175) &amp; Illumination (D135) <p> Cost: 82.65 Dqig (8.265E160) <p> Effect: Decrease the cost of all spells by 20% and increase their duration by 20%." coords="258,329,306,375" shape="rect">
-        <area target="" research="D205 - For All Good Factions - Research Name: Communion <p> Requirement: 777 Holy Lights (Total this R),Research Gemcutting (C175) &amp; Illumination (D135) <p> Cost: 627.6 Dqig (6.276E161) <p> Effect: Increase Holy Light duration by 300 seconds." coords="314,329,360,376" shape="rect">
-        <area target="" research="D225 - For Fairy - Research Name: Weather Control <p> Requirement: Research Light Condenser (C25) &amp; Vacuumancy (S30) <p> Cost: 2.087 Qaqig (2.087E165) <p> Effect: Increase the production of Enchanted Fields based on maximum mana. <p> Formula: floor(2.25 * x ^ 0.8)%, where x is your maximum mana." coords="258,384,305,430" shape="rect">
-        <area target="" research="D245 - For All Factions - Research Name: Sanctification <p> Requirement: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) &amp; Necromancy (S225) <p> Cost: 6.94Qiqig (6.94E168) <p> Effect: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.<p>Formula: (2.5 * x ^ 0.55), where x is the amount of Non-Unique Buildings you own." coords="313,382,360,429" shape="rect">
-        <area target="" research="D250 - For All Factions - Research Name: Demonology <p> Requirement: Research Transcendence (D200) &amp; Pyromancy (S150) <p> Cost: 52.7 Qiqig (5.27E169) <p> Effect: Gain additional assistants based on the amount of Faction Coins found in this game. <p> Formula: floor(ln(1 + x) ^ 1.5), where x is your Faction Coins Gained (This Game) stat." coords="259,438,305,486" shape="rect">
-        <area target="" research="D260 - For Faceless - Research Name: Mutation <p> Requirement: 3,000 Sunken Cities <p> Cost: 3.039 SxQig (3.039E171) <p> Effect: Increase the production of all other buildings by 95% per Sunken Cities you own." coords="314,439,361,485" shape="rect">
-        <area target="" research="D275 - For Druid - Research Name: Meditation <p> Requirement: Have 10,000 Mana (as Druid) <p> Cost: 1.331 SpQig (1.331E174) <p> Effect: Increase mana regeneration based on your current mana. <p>Effect: Also increases offline spell cast amount multiplicatively by 300%. <p> Formula: (0.35 * x ^0.35 + 0.035 * log(x) ^3.5), where x is max mana." coords="258,493,306,540" shape="rect">
-        <area target="" research="D290 - For All Factions - Research Name: Transubstantiation <p> Requirement: 1 Rough Stone Artifact <p> Cost: 582.7 SpQig (5.827E176) <p> Effect: Each artifact you discover increases Maximum Mana additively and multiplicatively.<p>Additive Formula: (50 * x ^1.1), where x is the number of artifacts found.<p>Multiplicative Formula: (0.45 * x ^ 1.1), where x is the number of artifacts found." coords="313,494,360,541" shape="rect">
-        <area target="" research="D320 - For All Factions - Research Name: Deliverance <p> Requirement: 350 m/s Mana Regen <p> Cost: 1.117 NoQig (1.117E180) <p> Effect: Increase assistants production based on mana regeneration. <p> Formula: round(20 * x ^ 0.85)%, where x is your Mana per Second stat." coords="258,547,306,595" shape="rect">
-        <area target="" research="D330 - For All Factions - Research Name: Eternity <p> Requirement: Research Offering (E275) &amp; Deliverance (D320) <p> Cost: 6.443 Sxg (6.443E183) <p> Effect: Double the duration of all faction spells." coords="314,547,360,595" shape="rect">
-        <area target="" research="D350 - For Titan - Research Name: Descent <p> Requirement: Research Swarming (W250) &amp; Heroism (W330) <p> Cost: 21.42 USxg (2.142E187) <p> Effect: Gain additional assistants based on the amount of Olympian Halls you own. <p> Formula: floor(x ^ 0.5)%, where x is the number of Olympian Halls you own." coords="258,604,306,650" shape="rect">
-        <area target="" research="D400 - For All Factions - Research Name: Miracle <p> Requirement: Research Communion (D205) &amp; Transubstantiation (D290) <p> Cost: 13.66 QaSxg (1.366E196) <p> Effect: Increase the Production of a random building by x250. Target changes every 2 minutes. While offline, increase the production of all buildings by x75." coords="314,603,361,651" shape="rect">
-        <area target="" research="D435 - For Dwarf - Research Name: Devotion <p> Requirement: 14400s (4 hour) Diamond Pickaxe Cast Time (This Game)<p> Cost: 19.89 SxSxg (1.989E202) <p> Effect: Increase the production of Good buildings based on spells cast in this game. <p> Formula: (2.5 * x ^ 0.85)%, where x is your Spells Cast (This Game) stat." coords="257,659,305,706" shape="rect">
-        <area target="" research="D480 - For All Factions - Research Name: Mercy <p> Requirement: 12h Spent as each Good, Evil and Neutral alignment (This R) <p> Cost: 1.67 NoSxg (1.67E210) <p> Effect: Increase the production of all buildings based on the difference in time spent with the three alignments. A smaller difference produces a higher bonus. <p> Formula: (100000 * (tmin / tmax) ^ 1.5)%, where tmin is shortest Time Spent Being Alignment and tmax is longest Time Spent Being Alignment (Total) Stat." coords="314,657,361,704" shape="rect">
-        <area target="" research="D525 - For Good - Research Name: Purity <p> Requirement: 1d12h as Good (This R), Research Communion (D205) and Devotion (D435)<p> Cost: 140.2 USpg (1.402E218) <p> Effect: Increase Holy Light multiplier based on the amount of times you cast your faction spell in this game. <p> Formula: (300 * x ^ 0.3)%, where x is your Faction Spells' Cast This Game stat." coords="257,713,306,761" shape="rect">
-        <area target="" research="D560 - For Drow - Research Name: Ritualism <p> Requirement: Research Necromancy(S225) and Heirlooms(S500)(as drow) <p> Cost: 204.2 TSpq (2.042E224) <p> Effect: Increase mana regeneration based on the amount of trophies you unlocked. <p> Formula: (floor(0.7 * x) / 10), where x is the amount of Trophies Unlocked." coords="314,712,361,760" shape="rect">
-        <area target="" research="D590 - For Angel,Dwarf - Research Name: Dispelling <p> Requirement: 200 Dwarf Exchanges as Dwangel, Research Shattering (W320) and Waste (A480) <p> Cost: 39.16 QiSpg (3.916E229) <p> Effect: Increase the production of Unique buildings based on mana regeneration. <p> Formula: (2.5 x ^ 1.25)%, where x is your Mana per Second stat." coords="258,768,306,817" shape="rect">
-        <area target="" research="Economics<p>Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money. <p> Increases Goblin, Druid, and Dwarven production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="389,36,457,102" shape="rect">
-        <area target="" research="E1 - For Goblin - Research Name: Coinage <p> Cost: 750 Qag (7.50E125) <p> Effect: Increase the production of Goblin Banks based on the amount of buildings you own. <p> Formula: round(0.8 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat." coords="374,109,420,155" shape="rect">
-        <area target="" research="E10 - For Undead - Research Name: Recycling <p> Requirement: 2,000 Undercities <p> Cost: 28.83 Uqag (2.883E127) <p> Effect: Increase the production of all other buildings by 95% per Undercity you own." coords="428,108,476,155" shape="rect">
-        <area target="" research="E25 - For Elf - Research Name: Commerce <p> Requirement: 100 M (1E8) Faction Coins (Found this Game)<p>Cost: 12.63 Dqag (1.263E130) <p> Effect: Gain additional assistants based on the amount of Royal Exchanges you purchased. <p> Formula: floor((1 + 6 * x) ^ 0.5 - 1), where x is your Royal Exchanges Made stat." coords="373,161,420,210" shape="rect">
-        <area target="" research="E30 - For All Factions - Research Name: Diplomacy <p> Requirement: 1000 Exchanges (This Game)<p> Cost: 95.88 Dqag (9.588E130) <p> Effect: Increases Faction Coin find chance and Royal Exchange bonus based on time spent in this game. <p> Formula: Faction Coin Chance: floor(1.5 * x ^ 1.05)% <p> Formula: Royal Exchange bonus: floor(x^0.6)%, where x is Playtime (This Game in minutes)." coords="428,164,475,209" shape="rect">
-        <area target="" research="E50 - For Fairy - Research Name: Bartering <p> Requirement: 1,000 Exchanges(as Goblin) <p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Reduce Enchanted Field cost multiplier. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15." coords="373,218,421,265" shape="rect">
-        <area target="" research="E80 - For All Factions - Research Name: Common Business <p> Requirement: 9,000 Neutral Buildings <p> Cost: 61.13 Qiqag (6.113E139) <p> Effect: Increase the production of Good and Evil buildings based on the amount of neutral buildings. <p> Formula: round((1.75 * x) ^ 0.8)%, where x is the number of neutral buildings you own." coords="428,218,477,266" shape="rect">
-        <area target="" research="E135 - For All Factions - Research Name: Bribing <p> Requirement: 28,000 Total Buildings(as Goblin) <p> Cost: 296 Ocqag (2.96E149) <p> Effect: Reduce the building cost multiplier for Unique Buildings. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15." coords="373,274,420,321" shape="rect">
-        <area target="" research="E145 - For All Factions - Research Name: Royal Demand <p> Requirement: 5,000 Tax Collections (This R), Research Cultivation (C10) &amp; Woodcraft (C105) <p> Cost: 17.07 Noqag (1.707E151) <p> Effect: Increase Tax Collection reward by 30 seconds of production." coords="429,273,475,319" shape="rect">
-        <area target="" research="E150 - For All Factions - Research Name: Investment <p> Requirement: Research Bribing (E135) &amp; Commerce (E25) <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Increase the production of all buildings based on the amount of coins you own. <p> Formula: round(ln(1 + x) ^ 1.25)%, where x is the amount of gold you own." coords="373,330,420,374" shape="rect">
-        <area target="" research="E200 - For All Factions - Research Name: Acquisition <p> Requirement: Research Investment (E150) &amp; Common Business (E80) <p> Cost: 82.65 Dqig (8.265E160) <p> Effect: Increase the production of all buildings based on your percentage of trophies unlocked. <p> Formula: round(0.0003 * (100 * x) ^ 3.35), where x is trophies unlocked / max trophies." coords="428,327,475,375" shape="rect">
-        <area target="" research="E225 - For Goblin - Research Name: Forgery <p> Requirement: Research Coinage (E1) &amp; Gilding (A50) <p> Cost: 2.087 Qaqig (2.087E165) <p> Effect: Increase the production of Evil Buildings based on the amount of Goblin Banks you own. <p> Formula: round(10 * x ^ 0.85)%, where x is the number of Goblin Banks you own." coords="373,383,421,428" shape="rect">
-        <area target="" research="E230 - For Demon - Research Name: Coercion <p> Requirement: Research Exertion (W50) &amp; Diplomacy (E30) <p> Cost: 2.087 Qaqig (2.087E165) <p> Effect: Increases trophy count based on time spent as Evil this R.<p> Formula: (0.25 * x ^ 0.5), where x is time spent as Evil this R." coords="428,383,476,431" shape="rect">
-        <area target="" research="E250 - For All Factions - Research Name: Trade Routes <p> Requirement: Research Forgery (E225) &amp; Royal Demand (E145) <p> Cost: 52.7 Qiqig (5.27E169) <p> Effect: Increase mana regeneration based on the amount of Royal Exchanges you purchased. <p> Formula: floor(10 * x ^ 0.55) / 10, where x is your Royal Exchanges Made stat." coords="374,438,421,485" shape="rect">
-        <area target="" research="E260 - For Druid - Research Name: Sifting <p> Requirement: 3,000 Stonehenge Circles <p> Cost: 3.039 SxQig (3.039E171) <p> Effect: Increase the production of all other buildings based on the amount of Stone Pillars you own.<p>Formula: (100 * x), where x is Stone Pillars" coords="429,438,475,485" shape="rect">
-        <area target="" research="E275 - For Titan - Research Name: Offering <p> Requirement: 1,250 Royal Exchanges(as Titans) <p> Cost: 175.2 SxQig (1.752E173) <p> Effect: Increase mana regeneration based on your Royal Exchange Bonus. <p> Formula: (x ^ 0.95), where x is your Royal Exchange Bonus." coords="374,494,421,541" shape="rect">
-        <area target="" research="E290 - For All Factions - Research Name: Surveyorship <p> Requirement: 7 Artifacts <p> Cost: 582.7 SpQig (5.827E176) <p> Effect: Reduces Excavation cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.175 instead of 1.2." coords="429,493,476,539" shape="rect">
-        <area target="" research="E320 - For All Factions - Research Name: Smuggling <p> Requirement: Have 2x Gems in Abdication Treasury <p> Cost: 1.117 NoQig (1.117E180) <p> Effect: Increase Faction Coin find chance based on the amount of Unique Buildings owned.<p>Also increase FC chance find chance by a multiplicative 100%.<p>Formula: 5 * x ^ 0.9, where x is Unique Building owned" coords="373,548,420,595" shape="rect">
-        <area target="" research="E330 - For All Factions - Research Name: Collection <p> Requirement: Research Acquisition (E200) &amp; Forgery (E225) <p> Cost: 6.443 Sxg (6.443E183) <p> Effect: Increase the production of all buildings based on the amount of artifacts you found. <p> Formula: round(50 * x ^ 1.1)%, where x is the amount of artifacts found." coords="429,548,475,595" shape="rect">
-        <area target="" research="E350 - For Faceless - Research Name: Repurpose <p> Requirement: Research Journeymen (C200) &amp; Adaptation (A330)(as Faceless) <p> Cost: 21.42 USxg (2.142E187) <p> Effect: Increase the production of all buildings based on the amount of Reincarnations you made. <p> Formula: round(2.5 * x ^ 2.25)%, where x is the amount of times you reincarnated." coords="374,604,420,649" shape="rect">
-        <area target="" research="E400 - For All Factions - Research Name: Conversion <p> Requirement: Research Philosopher's Stone (A250) &amp; Repurpose (E350). <p> Cost: 13.66 QaSxg (1.366E196) <p> Effect: Increase production bonus from Gems based on your Royal Exchange bonus. <p> Formula: floor(x ^ 0.95)%, where x is your Royal Exchange Bonus." coords="428,604,475,649" shape="rect">
-        <area target="" research="E410 - For Dwarf - Research Name: Marketing <p> Requirement: 5000 Blacksmiths <p> Cost: 787.7 QaSxg (7.877E197) <p> Effect: Increase production of all other buildings by 85% per Dwarven Forge you own." coords="373,656,421,705" shape="rect">
-        <area target="" research="E460 - For All Factions - Research Name: Inflation <p> Requirement: 100B (1E11) Faction Coins (Found this Game)<p> Cost: 502.3 SpSxg (5.023E206) <p> Effect: Increase Royal Exchange Bonus based on the amount of Faction Coins found in this game. <p> Formula: floor(3.5 * log10(1 + x))%, where x is your Faction Coins Gained (This Game) stat." coords="428,659,476,706" shape="rect">
-        <area target="" research="E480 - For All Factions - Research Name: Undercutting <p> Requirement: 15000 max mana <p> Cost: 1.67 NoSxg (1.67E210) <p> Effect: Increase the production of non-unique buildings based on total spells cast. <p> Formula: (0.65 * x ^ 0.65)%, where x is your Spells Cast (Total) stat." coords="373,714,421,761" shape="rect">
-        <area target="" research="E495 - For Drow - Research Name: Jewellery <p> Requirement: 12000 Unique Buildings (as Dwarf) <p> Cost: 731.4 NoSxg (7.314E212) <p> Effect: Increase the production bonus from gems based on the amount of Spider Sanctuaries you own. <p> Formula: (0.06 * x ^ 0.8)%, where x is the number of Spider Sanctuaries you own." coords="429,713,477,762" shape="rect">
-        <area target="" research="E590 - For Goblin,Drow - Research Name: Slavery <p> Requirement: 200 Drow Exchanges as Droblin, Research Automatons(C225) and Undercutting(E480) <p> Cost: 39.16 QiSpg (3.916 E229) <p> Effect: Gain additional assistants based on the amount of Non-Unique buildings you own. <p>Formula: (0.1 * x ^ 0.8), where x is the number of Non Unique Buildings you own." coords="373,766,421,816" shape="rect">
-        <area target="" research="Alchemy<p>Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets. <p> Increases Undead, Druid, and Drow production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="504,36,573,102" shape="rect">
-        <area target="" research="A1 - For Undead - Research Name: Plague <p> Cost: 750 Qag (7.50E125) <p> Effect: Increase the production of Undercities by 8% per assistant you own." coords="487,108,537,156" shape="rect">
-        <area target="" research="A10 - For Goblin - Research Name: Transmutation <p> Requirement: 2250 Goblin Banks <p> Cost: 28.83 Uqag (2.883E127) <p> Effect: Increase the production of all other buildings by 85% per Goblin Bank you own." coords="544,108,590,154" shape="rect">
-        <area target="" research="A25 - For Demon - Research Name: Deflagration <p> Requirement: 666 Hellfire Blasts (Total this R)<p> Cost: 12.63 Dqag (1.263E130) <p> Effect: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and increases its effect by 1000%." coords="489,163,535,209" shape="rect">
-        <area target="" research="A30 - For Fairy - Research Name: Delayed Reaction <p> Requirement: 750 Fairy Chanting (Total this R)<p> Cost: 95.88 Dqag (9.588E130) <p> Effect: Increases duration of Fairy Chanting based on the amount of Enchanted Fields, Inns and Blacksmiths you own and provides a progressively increasing bonus to the spell.<p>Formula: Additive Production increase: floor(1000 * t ^ 1.5), where t is how long FC has been active in seconds.<p>Formula: Duration increase: floor(x / 800) ^ 0.8) seconds, where x is the number of Farms, Inns, and Blacksmiths you own." coords="544,163,591,211" shape="rect">
-        <area target="" research="A50 - For Angel - Research Name: Gilding <p> Requirement: 120 m/s Mana Regen(as Undead) <p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Heaven's Domains further increase your mana regeneration rate. <p> Formula: (1.45 * x ^ 0.45), where x is the number of Heaven's Domains you own." coords="487,219,537,266" shape="rect">
-        <area target="" research="A55 - For All Factions - Research Name: Refraction <p> Requirement: Cast 25000 spells (This Game)<p>Cost: 2.421 Qaqag (2.421E135) <p> Effect: Improve offline production based on spells cast. <p> Formula: round(5 * x ^ 0.85), where x is your Spells Cast (Total) stat." coords="543,217,590,266" shape="rect">
-        <area target="" research="A105 - For All Factions - Research Name: Fusion <p> Requirement: 2750 Blacksmiths <p> Cost: 1.544 Spqag (1.544E144) <p> Effect: Increases the production of buildings based on the amount of Faction Coins found this game. <p> Formula: round(0.7 * ln ^ 3(1 + x))%, where x is your Faction Coins Gained (This Game) stat." coords="489,274,536,320" shape="rect">
-        <area target="" research="A120 - For All Factions - Research Name: Vivification <p> Requirement: Have 6500 mana <p> Cost: 676 Spqag (6.76E146) <p> Effect: Gain additional assistants based on max mana. <p> Formula: floor((x / 15) ^ 0.825), where x is your maximum mana." coords="543,273,590,320" shape="rect">
-        <area target="" research="A135 - For All Factions - Research Name: Decay <p> Requirement: 1 Day Total Play Time any Faction (This R) (Must be Undead to unlock once condition is met.)<p>Cost: 296 OcQag (9.6E149) <p> Effect: Increase the production of all buildings based on time spent in this Reincarnation. <p> Formula: (0.03 * (2x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds." coords="488,327,536,375" shape="rect">
-        <area target="" research="A150 - For All Factions - Research Name: Explosives <p> Requirement: Research (A25) Deflagration & (A30) Delayed Reaction <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Whenever you cast a spell, increase the production of your most productive building based on the amount of mana produced in this game for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration. <p> Formula: round(0.7 * x ^ 0.6)%, where x is your Mana Produced (Total) stat." coords="544,328,590,374" shape="rect">
-        <area target="" research="A175 - For Undead - Research Name: Soulweaving <p> Requirement: Research Cursing (D25) &amp; Reinforcing (C135) <p> Cost: 3.273 Uqig (3.273E156) <p> Effect: Increase the production of all buildings based on the amount of times you Reincarnated. <p> Formula: round(2.5 * x ^ 2.25)%, where x is the amount of times you reincarnated." coords="488,384,537,431" shape="rect">
-        <area target="" research="A200 - For All Factions - Research Name: Corrosion <p> Requirement: Research Plague (A1) &amp; Decay (A135) <p> Cost: 82.65 Dqig (82.65E160) <p> Effect: Increase clicking reward based on time spent in this game. <p> Formula: (0.07 * (2x) ^ 0.75)%, where x is your Playtime (This R) in seconds." coords="544,383,591,430" shape="rect">
-        <area target="" research="A250 - For All Factions - Research Name: Philosopher's Stone <p> Requirement: Research Transmutation (A10) &amp; Empowered Luck (S175) <p> Cost: 52.7 Qiqig (5.27E169) <p> Effect: Increase production bonus from gems based on the amount of research made. <p> Formula: floor(x ^ 0.9 / 25)%, where x is the amount of research made." coords="489,440,536,484" shape="rect">
-        <area target="" research="A251 - For Druid - Research Name: Infusion <p> Requirement: Secrets of the Ancients (as Druids) <p> Cost: 79.05 QiQig (7.905E169) <p> Effect: Increase the production of Stonehenge Circles based on mana produced in this game. <p> Formula: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat." coords="544,439,591,485" shape="rect">
-        <area target="" research="A270 - For All Factions - Research Name: Synthesis <p> Requirement: 20 B (2E10) Faction Coins (Found this game)<p> Cost: 175.2 SxQig (1.752E173) <p> Effect: Increase the duration of all spells based on the amount of Faction Coins found in this game.<p>Formula: (1.25 * ln(1 + x) ^ 1.25), where x is Factions Coins found (this game)." coords="487,494,536,539" shape="rect">
-        <area target="" research="A300 - For Faceless - Research Name: Creeping <p> Requirement: Produce 5M mana (This game, as Druid) <p> Cost: 33 OcQig (3.36E178) <p> Effect: Increase mana regeneration based on mana produced in this game. <p> Formula: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat." coords="544,494,591,540" shape="rect">
-        <area target="" research="A305 - For All Factions - Research Name: Engraving <p> Requirement: 2 days as Druids (Total across all R)<p> Cost: 255.2 OcQig (2.552E179) <p> Effect: Increase your chance to find Faction Coins based on the amount of spells cast in this game.<p>Effect: Also increase Faction Coins find chance by a multiplicative 100%.<p> Formula: floor(3.5 * ln(1 + x) ^ 3.5)%, where x is your Spells Cast (This Game)." coords="489,548,536,596" shape="rect">
-        <area target="" research="A330 - For All Factions - Research Name: Adaptation <p> Requirement: Research Mutation (D260) &amp; Meditation (D275) <p> Cost: 6.443 Sxg (6.443E183) <p> Effect: Increase the production of all buildings based on time spent playing as other factions. <p> Formula: round(0.05 * x ^ 0.7)%, where x is time spent as other factions." coords="544,550,591,595" shape="rect">
-        <area target="" research="A375 - For Druid - Research Name: Transfusion <p> Requirement: Research Infusion (A251) &amp; Engraving (A305) <p> Cost: 541 DSxg (5.41E191) <p> Effect: Gain additional assistants based on mana produced this game. <p> Formula: floor(4.5 * ln(1 + x)), where x is your Mana Produced (This Game) stat." coords="487,601,536,651" shape="rect">
-        <area target="" research="A400 - For All Factions But Mercenary - Research Name: Bloodspring <p> Requirement: Research Assimilation (S251) &amp; Transfusion (A375). <p> Cost: 13.66 QaSxg (1.366E196) <p> Effect: You get your faction's Bloodline effect for free. Bloodstream counts time spent with both factions. <p><b>Note</b>: Provides Prestige Bloodline for Elite Factions from R125 to R129, MAD bloodlines at R130+.<b>Note</b>: Does not work with two Bloodlines of the same type." coords="544,602,591,651" shape="rect">
-        <area target="" research="A410 - For Drow - Research Name: Poisons <p> Requirement: 4000 Sanctuaries<p> Cost: 787.7 QaSxg (7.877E197) <p> Effect: Increase the production of all other buildings by 95% per Spider Sanctuary you own." coords="488,658,536,706" shape="rect">
-        <area target="" research="A480 - For All Factions - Research Name: Waste <p> Requirement: 2000 Royal Exchanges <p> Cost: 1.67 NoSxg (1.67E210) <p> Effect: Increase offline production based on the amount of Royal Exchanges you purchased. <p> Formula: 120 * x ^ 0.85, where x is your Royal Exchanges Made stat." coords="544,658,590,706" shape="rect">
-        <area target="" research="A495 - For Dwarf - Research Name: Elixirs <p> Requirement: 500 Base Assistants (as Drow) <p> Cost: 731.4 NoSxg (7.314E212) <p> Effect: Increase assistants production based on the amount of research made. <p> Formula: (120 * x ^ 0.42)%, where x is the Amount of Researches made." coords="488,713,537,761" shape="rect">
-        <area target="" research="A545 - For All Factions - Research Name: Mineralogy <p> Requirement: 700 trophies <p> Cost: 466.3 DSpg (4.663E221) <p> Effect: Increases mana regeneration based on Gems you own. <p> Formula: log10(x) / 2, where x is Gems you own." coords="544,713,591,762" shape="rect">
-        <area target="" research="A590 - For Undead,Drow - Research Name: Hexing <p> Requirement: 200 Drow Exchanges as Drodead, Research Cursing (D25) and Poisons (A410) <p> Cost: 39.16 QiSpg (3.916E229) <p> Effect: Increase the production of all buildings based on mana produced and the percentage of offline time spent in this game. <p> Formula: (0.045 * x ^ 0.45 * p)%, where x is your Mana Produced (This Game) stat and p is the percentage of your Time Spent Offline for this game." coords="489,768,536,816" shape="rect">
-        <area target="" research="Warfare<p>Use strategical prowess and manpower to manipulate the production system in your favor. <p> Increases: Demon, Titan, and Drow production.<p>Pointing to this ingame will tell you how many slots are available also tells you your total research points." coords="619,34,687,102" shape="rect">
-        <area target="" research="W1 - For Demon - Research Name: Assault <p> Cost: 750 Qag (7.50E125) <p> Effect: Increase the production of Infernal Realms based on the amount of Hellfire Blasts cast in this game. <p> Formula: round(70 * x ^ 0.55)%, where x is Hellfire Blasts Cast This Game." coords="604,108,650,156" shape="rect">
-        <area target="" research="W10 - For Elf - Research Name: Dueling <p> Requirement: 2000 Warrior Barracks<p>Cost: 28.83 Uqag (2.883E127) <p> Effect: Increase the production of all other buildings by 90% per Elven Training Grounds you own." coords="659,108,705,155" shape="rect">
-        <area target="" research="W25 - For Goblin - Research Name: War Funds <p> Requirement: 1 Tqag (1E132) Coins Gained (This Game) <p> Cost: 12.63 Dqag (1.263E130) <p> Effect: Increase the production of all buildings based on the amount of Tax Collections cast in this game. <p> Formula: round(5 * x ^ 0.6)%, where x is Tax Collections Cast This Game." coords="604,163,651,210" shape="rect">
-        <area target="" research="W50 - For Undead - Research Name: Exertion <p> Requirement: 1 day of Evil Play Time this R, Note: Play as any Evil faction, but you must be Demon to unlock this. <p> Cost: 318.8 Tqag (3.188E134) <p> Effect: Increase faction coin find chance based on the number of Undercities you own. <p> Formula: (floor(1.5 * x ^ 1.1))% where x is the number of Undercities you own." coords="659,161,707,211" shape="rect">
-        <area target="" research="W120 - For All Factions - Research Name: Betrayal <p> Requirement: 250 base assistants <p> Cost: 676 Spqag (6.76E146) <p> Effect: Increase the production of non-unique buildings based on the amount of assistants you own. <p> Formula: round(1.5 * x^1.5)%, where x is the amount of assistants you own." coords="604,217,650,265" shape="rect">
-        <area target="" research="W135 - For All Factions - Research Name: Rampage <p> Requirement: 580 Trophies(as Demon) <p> Cost: 296 Ocqag (9.6E149) <p> Effect: Increase maximum mana based on the number of trophies you have unlocked. <p> Formula: floor(1.3 * x ^ 1.1), where x is the amount of trophies unlocked." coords="659,217,706,265" shape="rect">
-        <area target="" research="W150 - For All Factions - Research Name: Invasion <p> Requirement: Research War Funds (W25) &amp; Rampage (W135) <p> Cost: 129.6 Noqag (1.296E152) <p> Effect: Increase the production of all buildings based on the amount of assistants you own. <p> Formula: round(32 * x ^ 0.75)%, where x is the amount of assistants you own." coords="604,273,651,320" shape="rect">
-        <area target="" research="W175 - For Demon - Research Name: Overwhelm <p> Requirement: Research Assault (W1) &amp; Invasion (W150) <p> Cost: 3.273 Uqig (3.273E156) <p>Effect: You gain additional assistants based on total amount of evil spells cast. <p>Formula: (8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast." coords="659,272,706,321" shape="rect">
-        <area target="" research="W180 - For All Factions - Research Name: Formation <p> Requirement: 1000 Call to Arms (This R), Research Dueling (W10) &amp; Exertion (W50) <p> Cost: 24.85 Uqig (2.485E157) <p> Effect: Each building counts 15 times for Call to Arms purposes." coords="603,327,651,376" shape="rect">
-        <area target="" research="W200 - For All Factions - Research Name: Crusade <p> Requirement: Research Hallowing (D50) &amp; Formation (W180) <p> Cost: 82.65 Dqig (8.265E160) <p> Effect: Gain additional assistants based on time spent as Good this R. <p> Formula: floor(0.065 * x ^ 0.5), where x is your Time Spent Being Good (This R) stat." coords="658,328,706,376" shape="rect">
-        <area target="" research="W205 - For All Evil Factions - Research Name: Berserking <p> Requirement: 850 Blood Frenzy (This R), Research Rampage (W135) &amp; Retribution (D150) <p> Cost: 627.6 Dqig (6.276E161) <p> Effect: While Blood Frenzy is active, increase mana regeneration based on the amount of assistants you own. <p>Effect: Also increases offline spell cast amount multiplicatively by 300%. <p>Formula: floor(0.25x^0.9), where x is your Assistants stat." coords="604,383,651,431" shape="rect">
-        <area target="" research="W225 - For Angel - Research Name: Critical Strike <p> Requirement: Research Dueling (W10) &amp; Transfixion (D55) <p>Cost: 2.087 Qaqig (2.087E165) <p> Effect: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game. <p> Formula: (5 * x ^ 0.65)%, where x is Holy Light Active Time This Game in seconds." coords="659,382,706,430" shape="rect">
-        <area target="" research="W250 - For All Factions - Research Name: Swarming <p> Requirement: Research Overwhelm (W175) &amp; Berserking (W205) <p> Cost: 52.7 Qiqig (5.27E169) <p> Effect: Gain additional assistants based on the amount of trophies you unlocked. <p> Formula: floor(x / 8), where x is the amount of trophies unlocked." coords="604,439,651,485" shape="rect">
-        <area target="" research="W260 - For Titan - Research Name: Athletics <p> Requirement: 3,000 Olympian Halls <p> Cost: 3.039 SxQig (3.039E171) <p> Effect: Increase the production of all other buildings by 100% per Olympian Hall you own." coords="658,438,705,485" shape="rect">
-        <area target="" research="W275 - For Faceless - Research Name: Domination <p> Requirement: 300 Base Assistants (as Faceless) <p> Cost: 1.331 SpQig (1.331E174)<p>Effect: Increase Faction Coin find chance based on the highest amount of assistants you had in a single game.(This R)<p>Effect: Also a 50% multiplicative Faction Coin find chance.<p> Formula: (200 * x ^ 0.55), where x is your Assistants (Max) stat." coords="603,495,651,539" shape="rect">
-        <area target="" research="W290 - For All Factions - Research Name: Entrench <p> Requirement: 2,000 Excavations <p> Cost: 582.7 SpQig (5.827E176) <p> Effect: Increase the production of Unique buildings based on the amount of Excavations you made. <p> Formula: round(15 * x ^ 0.8)%, where x is the amount of excavations made." coords="658,493,707,539" shape="rect">
-        <area target="" research="W320 - For All Factions - Research Name: Shattering <p> Requirement: 2,650 Excavations <p> Cost: 1.117 NoQig (1.117E180) <p> Effect: Increase your clicking reward based on the amount of Excavations you made. <p> Formula: round(10 * x ^ 0.75)%, where x is the amount of excavations made." coords="603,548,651,595" shape="rect">
-        <area target="" research="W330 - For All Factions - Research Name: Heroism <p> Requirement: Research Crusade (W200) &amp; Athletics (W260). <p> Cost: 6.443 Sxg (6.443E183) <p> Effect: Increase your click reward based on the amount of trophies you unlocked. <p> Formula: round(2.5 * x)%, where x is the amount of trophies unlocked." coords="659,550,705,595" shape="rect">
-        <area target="" research="W350 - For Druid - Research Name: Survival <p> Requirement: Research Creeping (A300) &amp; Synthesis (A270). <p> Cost: 21.42 USxg (2.142E187) <p> Effect: Increase the production of all other buildings based on the production of your Stonehenge Circles. <p> Formula: (75 * (log10(1 + x)) ^ 1.3))%, where x is the production of your Stonehenge Circles." coords="603,603,651,651" shape="rect">
-        <area target="" research="W400 - For All Factions - Research Name: Siege <p> Requirement: Research Architecture (C251) &amp; Entrench (W290). <p> Cost: 13.66 QaSxg (1.366E196) <p> Effect: Each building in the three highest building tiers count as 2 buildings for all purposes." coords="659,604,705,651" shape="rect">
-        <area target="" research="W405 - For Drow - Research Name: Ambush <p> Requirement: Secrets of the Underworld (as Drow) <p> Cost: 103.7 QaSxg (1.037E197) <p> Effect: Increase the production of Spider Sanctuaries based on offline Bonus <p> Formula: (3.25 * log10(1 + x) ^ 3.25)%, where x is offline production bonus multiplier." coords="604,659,651,706" shape="rect">
-        <area target="" research="W520 - For Drow - Research Name: Stalking <p> Requirement: Research Exertion (W50) and Ambush (W405) <p> Cost: 18.47 Uspg (1.847E217) <p> Effect: Gain 1 assistant for every 100 seconds of Combo Strike activity time. (This Game)" coords="657,659,706,704" shape="rect">
-        <area target="" research="W525 - For All Factions - Research Name: Bloodlust <p> Requirement: 129600s (1d 12hours) as Evil (This R), Research Berserking (W205) and Focus (S460) <p> Cost: 140.2 USpg (1.402E218) <p> Effect: Increase Blood Frenzy multiplier based on the amount of times you cast faction spell in this game. <p> Formula: (300 * floor(x ^ 0.3))%, where x is Faction Spells' Cast This Game." coords="604,714,651,760" shape="rect">
-        <area target="" research="W560 - For Dwarf - Research Name: Resilience <p> Requirement: Research Eternity (D330) and Mercy (D480) <p> Cost: 204.2 TSpg (2.042E224) <p> Effect: Increase clicking reward based on the amount of clicks made in this game. <p> Formula: (5 * x ^ 0.45)%, where x is your Treasure Clicks (This Game) stat." coords="660,713,706,761" shape="rect">
-        <area target="" research="W590 - For Demon,Drow - Research Name: Torture <p>Requirement: 200 Drow Exchanges as Dromon, Research Soulrending (D245) and Stalking (W520) <p> Cost: 39.16 QiSpg (3.916E229) <p> Effect: Increase assistants production based on total time spent being Evil. (This R) <p> Formula: (8 * x ^ 0.8)%, where x is your Time Spent Being Evil stat." coords="603,767,650,815" shape="rect">
-        <area target="" research="S1275 - For All Factions - Research Name: Sequence<p>Requirement: 60,000 spells cast (This Game).<p>Cost: 152.4 Dvg (1.524e71)<p>Effect: Reduce spell cost for higher spell tiers.<p>Formula: Reduces cost multiplier by 0.5; with no other reductions applying, the multiplier will be 1.5 instead of 2.</p>" coords="85,769,129,814" shape="rect">
-        <area target="" research="S1450 - For Neutral,Dragon - Research Name: Spellstorm <p>Requirement: Research S435, C1325, Any Neutral, Dragon<p>Cost: 4.041 Sxvg (4.041e81)<p>Effect: Increase the production of Unique buildings based on the amount of active spells.<p>Formula: (50 * x ^ 1.5)%, where x is number of active spells, counting tiers.</p>" coords="31,822,77,869" shape="rect">
-        <area target="" research="S1500 - For Faceless,Dragon - Research Name: Psionics<p>Requirement: 1000 Base Assistants, Research S545, E1325, as Faceless, Dragon<p>Cost: 3.843 Spvg (3.843e84)<p>Effect: Increase the production of Unique Buildings based on the amount of assistants you own.<p>Formula: (8.5 * x ^ 0.85)%, where x is assistants.</p>" coords="85,822,131,868" shape="rect">
-        <area target="" research="C1300 - For Neutral,Dragon - Research Name: Scintillation<p>Requirement: 30000 Max Mana, as any Neutral,Dragon (This game)<p>Cost: 4.698 Tvg (4.698e72)<p>Effect: Increase production of buildings based on max mana and additive gem bonus. (Higher boost for lower gem bonus.)<p>Formula: ((250 * x ^ 0.5) / y ^ 0.95), where x is max mana and y is total additive gem bonus." coords="199,767,244,815" shape="rect">
-        <area target="" research="C1325 - For All Factions - Research Name: Plasmation<p>Requirement: 50m (5e7) Mana Produced (This game)<p>Cost: 144.9 Tvg (1.449e74)<p>Effect: Gain assistants based on mana produced in this game.<p>Formula: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game)." coords="144,823,191,868" shape="rect">
-        <area target="" research="C1500 - For Titan,Dragon - Research Name: Gargantuaness<p>Requirement: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)<p>Cost: 3.843 Spvg (3.843e84)<p>Effect: Increase the production of all buildings based on total time spent as Neutral.<p>Formula: (1.5 * x) ^ 0.7, where x is neutral time (this R) in minutes." coords="199,823,245,869" shape="rect">
-        <area target="" research="D1125 - For Neutral,Dragon - Research Name: Oblation<p>Requirement: Any Neutral,Build Dragons' Unique Building<p>Cost: 177.2 Nod (1.772e62)<p>Effect: Increase the production of Wyrm's Den based on Faction Coin find chance.<p>Formula: 1.55*x^0.55, where x is Faction Coin find chance in percent." coords="315,769,359,814" shape="rect">
-        <area target="" research="D1275 - For All Factions - Research Name: Solemnity<p>Requirement: 100000 Total Buildings<p>Cost: 152.4 Dvg (1.524e71)<p>Effect: Increase the production of each building by +0.3% per building of the same type." coords="260,826,305,868" shape="rect">
-        <area target="" research="D1375 - For All Factions - Research Name: Soulrending<p>Requirement: 604800s 7 days spent as good (Across all Rs)<p>Cost: 137.8 Qavg (1.378e77)<p>Effect: Ascensions count 50% more for Spiritual Surge." coords="317,825,360,869" shape="rect">
-        <area target="" research="E1225 - For Neutral,Dragon - Research Name: Hoarding<p>Requirement: 1T (1E12) Faction coins (Found this game)<p>Cost: 160.2 Uvg (1.602e68)<p>Effect: Removes 1 Ascension penalty for Royal Exchanges." coords="431,769,475,812" shape="rect">
-        <area target="" research="E1325 - For All Factions - Research Name: Intimidation<p>Requirement: 18000 Unique Buildings<p>Cost: 144.9 Tvg (1.449e74)<p>Effect: Reduce Royal Exchange cost multiplier.<p>Formula: Reduces multiplier by 0.025; with no other reductions applying, base multiplier is 1.1" coords="377,826,419,870" shape="rect">
-        <area target="" research="E1425 - For All Neutral Factions - Research Name: Rarity<p>Requirement: 7 days playtime each with Titan, Druid and Faceless, Research A545, C1300<p>Cost: 131 Qivg (1.31e80)<p>Effect: Increase Gem Grinder bonus based on the amount of artifacts you found.<p>Formula: (1.25 * x ^ 1.25), where x is artifacts found. " coords="431,825,475,869" shape="rect">
-        <area target="" research="A1200 - For Neutral,Dragon - Research Name: Melting<p>Requirement: 5000 Iron Stronghold, Any Neutral Dragon<p>Cost: 5.195 Uvg (5.195e66)<p>Effect: Increase the production of all other buildings per Iron Strongholds owned by 0.35%<p>Formula: (0.35 * x)%, where x is Iron Strongholds owned" coords="546,769,591,814" shape="rect">
-        <area target="" research="A1325 - For All Factions - Research Name: Calefaction<p>Requirement: 4500 Excavations (This R)<p>Cost: 144.9 Tvg (1.449e74)<p>Effect: Increase mana regeneration based on the amount of excavations made.<p>Formula:  floor(0.02 * x), where x is current excavations<p>Tip: E290 and end of R54." coords="491,825,535,870" shape="rect">
-        <area target="" research="A1500 - For Druid,Dragon - Research Name: Sublimation<p>Requirement: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon<p>Cost: 3.843 Spvg (3.843e84)<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</p><p><b>Effect</b>: Also increase Faction Coin find chance by a multiplicative 250%.</p><p><b>Formula</b>: (40 * x * 0.8), where x is Unique Buildings owned.</p>" coords="547,826,591,869" shape="rect">
-        <area target="" research="W1275 - For All Factions - Research Name: Authority<p>Requirement: 43200s (12 hours) Call to Arms Cast Time (This game).<p>Cost: 152.4 Dvg (1.524e71)<p>Effect: Increase the duration of all spells based on the amount of Non-Unique buildings you own.<p>Formula: (0.5 * x ^ 0.5)%, where x is the amount of Non-Unique buildings you own." coords="659,769,705,814" shape="rect">
-        <area target="" research="W1375 - For All Factions - Research Name: Scavenging<p>Requirement: 604800s 7 days spent as evil (Across all Rs)<p>Cost: 137.8 Qavg (1.378e77)<p>Effect: Increases Faction Coin find chance by a multiplicative 200%.<p>Effect: Increase the chance to find Faction Coins based on the amount of assistants you own.<p>Formula: (100 * x ^ 0.5), where x is assistants." coords="605,826,649,869" shape="rect">
-        <area target="" research="W1400 - For Dragon - Research Name: Cataclysm<p>Requirement:  Research W400, A1200, Affiliated Dragon<p>Cost: 4.249 Qivg (4.249e78)<p>Effect: Increase maximum mana based on the amount of clicks made in this game.<p>Formula: (650 * x ^ 0.35), where x is clicks (this game)." coords="660,827,706,868" shape="rect">
-        <area target="" research="S2875 - For Mercenary - Research Name: Scholarship <p>Requirement: 11000 Merc Unique Buildings.<p>Cost: 30.5 QaQig (3.05e166)<p>Effect</b>: Increases the production of Non-Unique buildings by 5% per Unique building. " coords="27,874,75,925" shape="rect">
-        <area target="" research="S3200 - For All Factions - Research Name: Manipulation <p>Requirement: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500). <p> Cost: 695.7 Sxg (6.957e185) <p> Effect: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count). <p> Effect: Also increases offline spell cast amount multiplicatively by 1200%." coords="84,876,132,925" shape="rect">
-        <area target="" research="C3000 - For Mercenary - Research Name: Customizing <p>Requirement: 9000 Excavations as Mercenary. <p>Cost: 850.7 SxQig (8.507e173)<p>Effect: Increases the production of all buildings based on the amount of artifacts you own.<p>Formula: (2 * x ^ 2), where X is artifacts you own. " coords="143,876,192,925" shape="rect">
-        <area target="" research="C3100 - For All Factions - Research Name: Engineering <p>Requirement: 15 days Mercenary time spent (Across all R's). <p>Cost: 769.3 OcQig (7.693e179)<p>Effect: Increase maximum mana based on the total amount of clicks made (This R).<p>Formula: (65 * x ^ 0.35), where x is clicks made." coords="198,878,245,925" shape="rect">
-        <area target="" research="D2775 - For Mercenary - Research Name: Intervention <p>Requirement: Secrets of the Warriors. <p>Cost: 33.73 DQig (3.373e160)<p>Effect: Increases the production of Unique Building based on time spent with Mercenaries.<p>Formula: (10 * x ^ 0.7)%, where x is time spent with Mercenary. " coords="258,876,307,925" shape="rect">
-        <area target="" research="D3350 - For All Factions - Research Name: Vampirism <p>Requirement: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).  <p>Cost: 598.3 TSxg (5.983e194)<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p><p><b>Additive Formula</b>: (3.25 * log10(1 + x) ^ 2.25), where x is your Offline Bonus.<p><b>Multiplicative Formula</b>: (0.05 * log10(1 + x) ^ 2), where x is your Offline Bonus." coords="314,876,363,925" shape="rect">
-        <area target="" research="E3250 - For All - Research Name: Hirelings<p>Requirement: (Intimidation E1325) and (Scholarship S2875).</p><p>Cost: 661.6 USxg (6.616e188)</p><p>Effect: Gives assistants based on the amount of coins you own.</p><p>Formula: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>" coords="372,878,421,925" shape="rect">
-        <area target="" research="E3300 - For Mercenary - Research Name: Estates<p>Requirement: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p><p>Cost: 629.2 DSxg (6.292e191)</p><p>Effect: Gives you all the Unique Buildings of your alignment.<p>Effect: Ascension 3: Gain all the Unique Buildings that match your alignments.</p>" coords="430,878,478,925" shape="rect">
-        <area target="" research="A2950 - For Mercenary - Research Name: Combination <p>Requirement: All Lineages Level at 15.  <p>Cost: 259 SxQig (2.59e173) <p>Effect: Select an additional bloodline. <p>Effect: You also gain the base effect of its respective Lineage.<p>Effect: Combination Bloodline effects R60/R115 power. " coords="487,876,538,925" shape="rect">
-        <area target="" research="A3400 - For All Factions - Research Name: Chemistry <p>Requirement: 1 No (1e30) FC (Found this Game), (Customizing C3000) and (Manipulation S3200).  <p>Cost: 894.5 QiQig (5.69e197)<p>Effect: Increases Faction Coin find chance based on the total amount of Lineage levels you have.<p>Effect: Also increases Faction Coin find chance by a multiplicative 300%.<p>Formula: 3 * x ^ 2.25, where x is total Lineage levels." coords="544,878,592,927" shape="rect">
-        <area target="" research="W3050 - For Mercenary - Research Name: Flanking <p>Requirement: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325). <p>Cost: 809 SpQig (8.09e176)<p>Effect: Increases the production of buildings one tier directly above or below a Unique Building based on the amount of assistants you own.<p>Formula: (2 * x ^ 0.8), where x is assistants." coords="603,878,654,927" shape="rect">
-        <area target="" research="W3150 - For All Factions - Research Name: Upheaval <p>Requirement: 60000 Farms, Inns and Blacksmiths.  <p>Cost: 731.6 NoQig (7.316e182)<p>Effect: Increases the production of all buildings based on their tier, giving the highest bonus to the lowest.<p>Formula: (150 * (12 - T) ^ 2.15), where T is building tier. " coords="661,880,707,927" shape="rect">
-        <area target="" research="Unlocked Upgrade (X): You cannot use this upgrade with the faction you are playing. (There is an option to hide these icons.)" coords="27,931,78,978" shape="rect">
-        <area target="" research="Locked Upgrade (! exclamation mark): You can unlock this upgrade with the Faction you are playing. The Icon tool-tip will show your unlock progress %." coords="144,933,192,982" shape="rect">
-        <area target="" research="Locked Upgrade (? question mark): You cannot unlock this upgrade with the Faction you are playing." coords="256,932,307,982" shape="rect">
+<p><img src="http://musicfamily.org/realm/Factions/picks/ResearchTreeA3.png" usemap="#ResearchTreeA3-map">
+    <map name="ResearchTreeA3-map">
+        <area research="<center>Spellcraft Research Facility</center>
+	<p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.
+	<p>Increases: Fairy, Faceless, and Drow production.
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="4,30,105,130" shape="rect">
+        <area research="<center>Craftsmanship Research Facility</center>
+	<p>Learn how to use tools and experience to improve your production by mastering Craftsmanship.
+	<p>Increases Elven, Titan, and Dwarven production.
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="4,272,105,374" shape="rect">
+        <area research="<center>Divine Research Facility</center>
+	<p>Harness the power of the eternals, increasing your spell affinity and bestowing Divine power on all your productivity.
+	<p>Increases Angel, Faceless, and Dwarven production.
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="3,514,105,615" shape="rect">
+        <area research="<center>Economics Research Facility</center>
+	<p>Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.
+	<p>Increases Goblin, Druid, and Dwarven production.
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="2,748,106,852" shape="rect">
+        <area research="<center>Alchemy Research Facility</center>
+	<p>Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets.
+	<p>Increases Undead, Druid, and Drow production.
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="3,988,105,1090" shape="rect">
+        <area research="<center>Warfare Research Facility</center>
+	<p>Use strategical prowess and manpower to manipulate the production system in your favor.
+	<p>Increases: Demon, Titan, and Drow production.
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="3,1229,106,1330" shape="rect">
+        <area research="<center>Forbidden Research Facility</center>
+	<p>Take advantage of the most ancient and secret arts to empower your production beyonds known limits.
+	<p>Increases: Mercenary production
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.
+	" coords="4,1463,105,1566" shape="rect">
+        <area research="S1 - For Fairy
+	<p><b>Research Name</b>: Enchanting
+	<p><b>Cost</b>: 750 Qag (7.5E125)
+	<p><b>Effect</b>: Increase the production of Enchanted Fields based on mana produced.
+	<p><b>Formula</b>: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat.
+	" coords="113,27,161,77" shape="rect">
+        <area research="S10 - For Angel
+	<p><b>Research Name</b>: Channeling.
+	<p><b>Requirement</b>: 2000 Heaven's Gate. (This Game)
+	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
+	<p><b>Effect</b>: Increase the production of all other buildings by 110% per Heaven's Domain you own.
+	" coords="168,29,216,76" shape="rect">
+        <area research="S30 - For All Factions
+	<p><b>Research Name</b>: Vacuumancy
+	<p><b>Requirement</b>: Have 4000 Mana. (This Game)
+	<p><b>Cost</b>: 95.88 Dqag (9.588E130)
+	<p><b>Effect</b>: Increase maximum mana and mana regeneration rate based on time spent in this game.
+	<p><b>Formula</b>: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in hours.
+	<p><b>Formula</b>: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.
+	" coords="222,30,273,77" shape="rect">
+        <area research="S50 - For Goblin
+	<p><b>Research Name</b>: Conjuration
+	<p><b>Requirement</b>: Have 6000 mana (as Fairy) (This Game)
+	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
+	<p><b>Effect</b>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.
+	<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%.
+	<p><b>Formula</b>: floor((x / 600) ^ 0.9), where x is the number of Goblin Banks you own.
+	" coords="279,29,326,75" shape="rect">
+        <area research="S105 - For All Factions
+	<p><b>Research Name</b>: Mysticism
+	<p><b>Requirement</b>: 600 Researches (Total)
+	<p><b>Cost</b>: 1.544 Spqag (1.544E144)
+	<p><b>Effect</b>: Increase mana regeneration based on the amount of research made.
+	<p><b>Formula</b>: floor(x ^ 0.5), where x is number of researches made.
+	" coords="334,30,381,76" shape="rect">
+        <area research="S135 - For All Factions
+	<p><b>Research Name</b>: Augmentation
+	<p><b>Requirement</b>: 5000 Unique Buildings (as Fairy) (This Game)
+	<p><b>Cost</b>: 296 Ocqag (2.96E149)
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on maximum mana.
+	<p><b>Formula</b>: round(2 * x^0.8)%, where x is your maximum mana.
+	" coords="387,30,436,76" shape="rect">
+        <area research="S150 - For All Factions
+	<p><b>Research Name</b>: Pyromancy
+	<p><b>Requirement</b>: Research Inflame (D10) & Fusion (A105)
+	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
+	<p><b>Effect</b>: Increase the production of the two highest building tiers based on your mana regeneration.
+	<p><b>Formula</b>: round(4 * x^1.3)%, where x is your Mana per Second stat.
+	" coords="442,29,491,75" shape="rect">
+        <area research="S175 - For Elf
+	<p><b>Research Name</b>: Empowered Luck
+	<p><b>Requirement</b>: Research Blessing (D1) & Augmentation (S135)
+	<p><b>Cost</b>: 3.273 UQig (3.273E156)
+	<p><b>Effect</b>: Increase production of buildings by 36,000% for 20 seconds each time you trigger Elven Luck and increase the chance to trigger it by 24%.
+	" coords="497,29,546,76" shape="rect">
+        <area research="S180 - For Fairy
+	<p><b>Research Name</b>: Incantation
+	<p><b>Requirement</b>: Research Enchanting (S1) & Mysticism (S105)
+	<p><b>Cost</b>: 3.273 UQig (3.273E156)
+	<p><b>Effect</b>: Increase mana regeneration based on the number of assistants you own.
+	<p><b>Formula</b>: floor(16 * x ^ 0.6) / 10, where x is the number of assistants you have.
+	" coords="113,84,161,131" shape="rect">
+        <area research="S200 - For All Factions
+	<p><b>Research Name</b>: Cryomancy
+	<p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)
+	<p><b>Cost</b>: 82.65 DQig (8.265E160)
+	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).<p><b>Formula</b>: (5 * ln(x) ^ 1.25), where x is mana produced (this game).
+	" coords="168,85,216,130" shape="rect">
+        <area research="S215 - For All Factions
+	<p><b>Research Name</b>: Projection
+	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)
+	<p><b>Cost</b>: 36.16 TQig (3.616E163)
+	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.
+	<p><b>Formula</b>: 100 * ((10 * x) ^ y), where x is active spells and y is Spiritual Surge tier.
+	" coords="223,85,271,131" shape="rect">
+        <area research="S225 - For Undead
+	<p><b>Research Name</b>: Necromancy
+	<p><b>Requirement</b>: Research Resurrection (D175) & Cryomancy (S200)
+	<p><b>Cost</b>: 2.087 QaQig (2.087E165)
+	<p><b>Effect</b>: Increase the production of assistants based on the amount of Necropolises you own.
+	<p><b>Formula</b>: round(5 * x ^ 0.75)%, where x is the number of Necropolises you own.
+	" coords="279,82,328,130" shape="rect">
+        <area research="S250 - For All Factions
+	<p><b>Research Name</b>: Aeromancy
+	<p><b>Requirement</b>: Research Weather Control (D225) & Explosives (A150)
+	<p><b>Cost</b>: 52 QiQig (5.27E169)
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on mana produced in this game.
+	<p><b>Formula</b>: round(0.5 * x ^ 0.58)%, where x is your Mana Produced (This Game) stat.
+	" coords="334,83,381,131" shape="rect">
+        <area research="S251 - For Faceless
+	<p><b>Research Name</b>: Assimilation
+	<p><b>Requirement</b>: Secrets of the Ancients (as Faceless)
+	<p><b>Cost</b>: 79.05 QiQig (7.905E169)
+	<p><b>Effect</b>: Increase the production of Sunken Cities based on time spent affiliated with factions different than the Faceless.
+	<p><b>Formula</b>: round(0.3 * x ^ 0.7)%, where x is total time spent as non-Faceless factions.
+	" coords="388,84,436,131" shape="rect">
+        <area research="S270 - For All Factions
+	<p><b>Research Name</b>: Runecarving
+	<p><b>Requirement</b>: 500,000 clicks (This game)
+	<p><b>Cost</b>: 175.2 SxQig (1.752E173)
+	<p><b>Effect</b>: Increase the production of all buildings based on your bonus from Gems.
+	<p><b>Formula</b>: round(1.15 * x ^ 0.75)%, where x is your gem bonus.
+	" coords="445,85,491,131" shape="rect">
+        <area research="S300 - For Titan
+	<p><b>Research Name</b>: Chain Lightning
+	<p><b>Requirement</b>: 25 Brainwaves (Faceless) (This R)
+	<p><b>Cost</b>: 33 OcQig (3.36E178)
+	<p><b>Effect</b>: While Lightning Strike is active, all non-target buildings have their production increased based on the amount of Lightning Strikes cast in this game.
+	<p><b>Formula</b>: round(120 * x ^ 0.8)%, where x is your Lightning Strikes cast (This Game) stat.
+	" coords="497,83,546,131" shape="rect">
+        <area research="S305 - For All Factions
+	<p><b>Research Name</b>: Mesmerization
+	<p><b>Requirement</b>: 2 days as Faceless (Total across all R)
+	<p><b>Cost</b>: 225.2 OcQig (2.252E179)
+	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.
+	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.
+	" coords="2,139,51,186" shape="rect">
+        <area research="S330 - For All Factions
+	<p><b>Research Name</b>: Reverberation
+	<p><b>Requirement</b>: Research Cryomancy (A200) & Weather Control (D225)
+	<p><b>Cost</b>: 6.443 Sxg (6.443E183)
+	<p><b>Effect</b>: Increase the production of all buildings based on the number of active spells you have. You must have at least 3 active spells to generate a bonus.
+	<p><b>Formula</b>: (3000 * 2 ^ (x - 3)), where x is the number of spells currently active. (Capped at 300 spells)
+	" coords="57,139,105,186" shape="rect">
+        <area research="S375 - For Faceless
+	<p><b>Research Name</b>: Illusion
+	<p><b>Requirement</b>: Research Reverberation (S330) & Mesmerization (S305)
+	<p><b>Cost</b>: 541 DSxg (5.41E191)
+	<p><b>Effect</b>: Brainwave also provides progressively more assistants over its duration.
+	<p><b>Formula</b>: Floor(1.15 * (x + y) ^ 2), where x is brainwave runtime in minutes and y is headstart in minutes
+	" coords="114,138,161,187" shape="rect">
+        <area research="S400 - For All Factions
+	<p><b>Research Name</b>: Capacity
+	<p><b>Requirement</b>: Research Projection (S215) & Domination (W275)
+	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)
+	<p><b>Effect</b>: Increase maximum mana based on the highest amount of spells cast in a single game.
+	<p><b>Formula</b>: (1.2 * log10(x) ^ 4.8), where x is your Spell Cast (Max) stat.
+	" coords="169,138,217,186" shape="rect">
+        <area research="S435 - For Drow
+	<p><b>Research Name</b>: Spellbinding
+	<p><b>Requirement</b>: 14400s (4 hour) Combo Strike Cast Time (This Game)
+	<p><b>Cost</b>: 19.89 SxSxg (1.989e202)
+	<p><b>Effect</b>: Passively grants the effects from Call to Arms while offline.
+	" coords="224,139,273,188" shape="rect">
+        <area research="S460 - For All Factions
+	<p><b>Research Name</b>: Focus
+	<p><b>Requirement</b>: 25000 spells cast (This game)
+	<p><b>Cost</b>: 5.023 SpSxg (5,023E206)
+	<p><b>Effect</b>: Increase the production of all buildings based on the times you cast your faction spell in this game.
+	<p><b>Formula</b>: (15 * x ^ 0.8)%, where x is Faction Spells Cast This Game.
+	" coords="279,140,327,186" shape="rect">
+        <area research="S500 - For All Factions
+	<p><b>Research Name</b>: Heirlooms
+	<p><b>Requirement</b>: 40 Artifacts (as Drow)
+	<p><b>Cost</b>: 5.554 Spg (5,554E213)
+	<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.
+	<p>Maximum Mana Formula: (75 * x ^ 1.1), where x is amount of artifacts you own.
+	<p>Mana Regeneration Formula: (5 * x ^ 1.05), where x is amount of artifacts you own.
+	" coords="334,138,382,186" shape="rect">
+        <area research="S545 - For All Factions
+	<p><b>Research Name</b>: Hierarchy
+	<p><b>Requirement</b>: 10M (1E7) mana produced (This Game)
+	<p><b>Cost</b>: 466.3 DSpq (4.663E221)
+	<p><b>Effect</b>: Increase the production of buildings based on mana produced in this game, depending on their tiers. Gives better bonuses for lower tiers.
+	<p><b>Formula</b>: (0.1 * x ^ 0.45 * T ^ 2)%, where x is Mana Produced (This Game) stat, and T is the building tier, starting at 11 for Farms and decreasing to 1 for Halls of Legends.
+	" coords="389,139,437,186" shape="rect">
+        <area research="S590 - For Fairy,Dwarf
+	<p><b>Research Name</b>: Trickery
+	<p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwairy) (This Game), Research Mysticism(S105) & Illusion (S375)
+	<p><b>Cost</b>: 39.16 QiSpg (3.916E229)
+	<p><b>Effect</b>: Increase the production of Neutral buildings based on maximum Mana.
+	<p><b>Formula</b>: (0.5 * x ^ 1.05)%, where x is Maximum Mana.
+	" coords="444,139,493,189" shape="rect">
+        <area research="S1275 - For All Factions
+	<p><b>Research Name</b>: Sequence
+	<p><b>Requirement</b>: 60,000 spells cast (This Game).
+	<p><b>Cost</b>: 152.4 Dvg (1.524e71)
+	<p><b>Effect</b>: Reduce spell cost for higher spell tiers.
+	<p><b>Formula</b>: Reduces cost multiplier by 0.5; with no other reductions applying, the multiplier will be 1.5 instead of 2.</p>
+	" coords="499,139,547,186" shape="rect">
+        <area research="S1450 - For Neutral,Dragon
+	<p><b>Research Name</b>: Spellstorm
+	<p><b>Requirement</b>: Research S435, C1325, Any Neutral, Dragon
+	<p><b>Cost</b>: 4.041 Sxvg (4.041e81)
+	<p><b>Effect</b>: Increase the production of Unique buildings based on the amount of active spells.
+	<p><b>Formula</b>: (50 * x ^ 1.5)%, where x is number of active spells, counting tiers.</p>
+	" coords="3,193,50,241" shape="rect">
+        <area research="S1500 - For Faceless,Dragon
+	<p><b>Research Name</b>: Psionics
+	<p><b>Requirement</b>: 1000 Base Assistants, Research S545, E1325, as Faceless, Dragon
+	<p><b>Cost</b>: 3.843 Spvg (3.843e84)
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of assistants you own.
+	<p><b>Formula</b>: (8.5 * x ^ 0.85)%, where x is assistants.</p>
+	" coords="58,194,105,241" shape="rect">
+        <area research="S2875 - For Mercenary
+	<p><b>Research Name</b>: Scholarship
+	<p><b>Requirement</b>: 11000 Merc Unique Buildings.
+	<p><b>Cost</b>: 30.5 QaQig (3.05e166)
+	<p>Effect</b>: Increases the production of Non-Unique buildings by 5% per Unique building.
+	" coords="113,193,162,240" shape="rect">
+        <area research="S3200 - For All Factions
+	<p><b>Research Name</b>: Manipulation
+	<p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).
+	<p><b>Cost</b>: 695.7 Sxg (6.957e185)
+	<p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).
+	<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 1200%.
+	" coords="168,193,216,240" shape="rect">
+        <area research="S5125 - For All Factions
+	<p><b>Research Name</b>: Spilling
+	<p><b>Requirement</b>: R175+
+	<p>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.
+	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This Game)
+	" coords="224,193,273,240" shape="rect">
+        <area research="S5375 - For Chaos
+	<p><b>Research Name</b>: Invocation
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the activity time of your least used spell.
+    <p><b>Additive</b>: (1000 + 80 * x ^ 0.8), where x is spell activity time in seconds.</p>
+    <p><b>Multiplicative</b>: (0.6 * x ^ 0.6), where x is spell activity time in seconds.</p>
+	" coords="277,194,327,241" shape="rect">
+        <area research="S5625 - For All Factions
+	<p><b>Research Name</b>: Leylines
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on assistants owned.
+	<p><b>Formula</b>: (0.65 * x ^ 0.35), where x is assistants
+	" coords="332,194,382,241" shape="rect">
+        <area research="S5875 - For All Factions
+	<p><b>Research Name</b>: Mirrors
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Multiplicatively increase Assistants based on Spell casts in this game.
+	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game
+	" coords="389,192,436,241" shape="rect">
+        <area research="C1 - For Elf
+	<p><b>Research Name</b>: Dummy Targets
+	<p><b>Cost</b>: 750 Qag (7.5E125)
+	<p><b>Effect</b>: Increase Elven Training Grounds production based on the amount of Faction Coins you found.
+	<p><b>Formula</b>: round(1.3 * ln ^3 (1 + x))%, where x is your Faction Coins Gained (This Game) stat.
+	" coords="112,272,162,322" shape="rect">
+        <area research="C10 - For Fairy
+	<p><b>Research Name</b>: Cultivation
+	<p><b>Requirement</b>: 2500 Farms
+	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
+	<p><b>Effect</b>: Increases production of Blacksmith and Inn by 60% per Enchanted field that you have.
+	" coords="167,272,216,320" shape="rect">
+        <area research="C25 - For Angel
+	<p><b>Research Name</b>: Light Condenser
+	<p><b>Requirement</b>: 12,000 Spells cast (This R)
+	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
+	<p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast.
+	<p><b>Formula</b>: floor(10 * x^0.3) / 10, where x is your Spells Cast (This Game) stat.
+	" coords="221,271,273,320" shape="rect">
+        <area research="C50 - For Demon
+	<p><b>Research Name</b>: Refining
+	<p><b>Requirement</b>: 1 B (1E9) Faction Coins (as Elf)
+	<p><b>Cost</b>: 318.8 Tgag (3.188E134)
+	<p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Demon Coins you found in this Game.
+	<p><b>Formula</b>: round(0.8 * ln^3(1 + x))%, where x is your Demon Coins Gained (This Game) stat.
+	" coords="278,271,328,320" shape="rect">
+        <area research="C80 - For All Factions
+	<p><b>Research Name</b>: Apprenticeship
+	<p><b>Requirement</b>: 16,000 Good and Evil buildings
+	<p><b>Cost</b>: 61.13 Qiqag (6.113E139)
+	<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of Good and Evil buildings.
+	<p><b>Formula</b>: round(x^0.8)%, where x is the number of Good and Evil Buildings you own.
+	" coords="333,270,383,320" shape="rect">
+        <area research="C105 - For All Factions
+	<p><b>Research Name</b>: Woodcraft
+	<p><b>Requirement</b>: 25,000 clicks (This Game)
+	<p><b>Cost</b>: 1.544 Spqag (1.544E144)
+	<p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of Unique Buildings you own.
+	<p><b>Formula</b>: floor(1.5 * x ^ 1.05)%, where x is the number of Unique Buildings you own.
+	" coords="389,272,437,320" shape="rect">
+        <area research="C120 - For All Factions
+	<p><b>Research Name</b>: Socketing
+	<p><b>Requirement</b>: 200,000 clicks (This Game)
+	<p><b>Cost</b>: 676 Spqag (6.76E146)
+	<p><b>Effect</b>: Increase clicking reward based on the amount of gems you own.
+	<p><b>Formula</b>: round(20 * log10(1 + x))%, where x is your current number of gems.
+	" coords="443,271,490,319" shape="rect">
+        <area research="C135 - For All Factions
+	<p><b>Research Name</b>: Reinforcing
+	<p><b>Requirement</b>: 250,000 clicks (This Game, as Elf)
+	<p><b>Cost</b>: 296 Ocqag (2.96E149)
+	<p><b>Effect</b>: Increase the production of all buildings based on your total number of clicks.
+	<p><b>Formula</b>: (ln(1 + x) ^ 2.75)%, where x is your Treasure Clicks (Total) stat.
+	" coords="499,271,547,320" shape="rect">
+        <area research="C150 - For All Factions
+	<p><b>Research Name</b>: Tinkering
+	<p><b>Requirement</b>: Research Recycling (E10) & Reinforcing (C135)
+	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of research made.
+	<p><b>Formula</b>: round(125 * x ^ 0.38)%, where x is number of researches made.
+	" coords="112,326,161,375" shape="rect">
+        <area research="C175 - For Goblin
+	<p><b>Research Name</b>: Gemcutting
+	<p><b>Requirement</b>: Research Refining (C50) & Socketing (C120)
+	<p><b>Cost</b>: 3.273 Uqig (3.273E156)
+	<p><b>Effect</b>: Increase the production bonus from gems based on the number of buildings you own.
+	<p><b>Formula</b>: floor(x / 2000)%, where x is your Buildings Owned (This Game) stat.
+	" coords="168,327,215,374" shape="rect">
+        <area research="C200 - For All Factions
+	<p><b>Research Name</b>: Journeymen
+	<p><b>Requirement</b>: Research Apprenticeship (C80) & Bartering (E50).
+	<p><b>Cost</b>: 82.65 Dqig (8.265E160)
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on total time spent as that faction.
+	<p><b>Formula</b>: round(0.125 * x ^ 0.7)%, where x is your Time Spent as that faction stat.
+	" coords="224,327,271,375" shape="rect">
+        <area research="C225 - For Elf
+	<p><b>Research Name</b>: Automatons
+	<p><b>Requirement</b>: Research Dummy Targets (C1) & Vivification (A120).
+	<p><b>Cost</b>: 2.087 Qaqig (2.087E165)
+	<p><b>Effect</b>: Each Elven Training Grounds counts as 200 buildings for Call to Arms purposes.
+	" coords="278,326,327,375" shape="rect">
+        <area research="C250 - For All Factions
+	<p><b>Research Name</b>: Magnetism
+	<p><b>Requirement</b>: Research Tinkering (C150) & Critical Strike (W225).
+	<p><b>Cost</b>: 52.7 Qiqig (5.27E169)
+	<p><b>Effect</b>: Increase the chance to find Faction Coins by a multiplicative 50%
+	<p><b>Effect</b>: Increase the chance to find faction coins based on total time spent offline. (in minutes)
+	<p><b>Formula</b>: floor(7.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.
+	" coords="333,326,383,375" shape="rect">
+        <area research="C251 - For Titan
+	<p><b>Research Name</b>: Architecture
+	<p><b>Requirement</b>: Secrets of the Ancients (as Titan)
+	<p><b>Cost</b>: 79.05 QiQig (79.05E168)
+	<p><b>Effect</b>: Increase the production of Olympian Halls based on the amount of buildings you own.
+	<p><b>Formula</b>: round(0.5 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.
+	" coords="387,327,436,376" shape="rect">
+        <area research="C300 - For Druid
+	<p><b>Research Name</b>: Weighting
+	<p><b>Requirement</b>: 650 Lightning Strikes (This R)
+	<p><b>Cost</b>: 33.6 OcQig (33.6E177)
+	<p><b>Effect</b>: While Grand Balance hits Stone Pillars, increase its production by 2000%.
+	<p><b>Effect</b>: Also increase the production of every Grand Balance target based on maximum mana.
+	<p><b>Formula</b>: 10 * (2.15 * log10(1 + x)) ^ 1.75) ^ y), where x is your maximum mana and y is spell tier.
+	" coords="444,327,492,376" shape="rect">
+        <area research="C305 - For All Factions
+	<p><b>Research Name</b>: Golemcraft
+	<p><b>Requirement</b>: 2 days as Titans (Total across all R)
+	<p><b>Cost</b>: 255.2 OcQig (2.552E179)
+	<p><b>Effect</b>: Gain additional assistants based on your total time spent offline (in hours).
+	<p><b>Formula</b>: floor(0.85 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R).
+	" coords="499,327,547,375" shape="rect">
+        <area research="C330 - For All Factions
+	<p><b>Research Name</b>: Overload
+	<p><b>Requirement</b>: Research Aeromancy (S250) & Critical Strike (W225)
+	<p><b>Cost</b>: 6.443 Sxg (6.443E183)
+	<p><b>Effect</b>: Increase mana regeneration based on the amount of research made.
+	<p><b>Formula</b>: (3.5 *  x  ^0.35), where x is researches made.
+	" coords="3,383,51,429" shape="rect">
+        <area research="C340 - For All Factions
+	<p><b>Research Name</b>: Gem Duster
+	<p><b>Requirement</b>: 800 Gem Grinders (This R),Research Sifting (E260) & Surveyorship (E290)
+	<p><b>Cost</b>: 371.5 Sxg (3.715E185)
+	<p><b>Effect</b>: Increase production bonus from gems based on the amount of Rubies you collected. (Multiplicative)
+	<p><b>Formula</b>: floor(10 * x), where x is your Rubies Gained (All Time) stat.
+	" coords="57,381,105,429" shape="rect">
+        <area research="C375 - For Titan
+	<p><b>Research Name</b>: Lightning Rod
+	<p><b>Requirement</b>: Research Chain Lightning (S300) & Overload (C330)
+	<p><b>Cost</b>: 541 DSxg (5.41E191)
+	<p><b>Effect</b>: Olympian Halls are always hit by Lightning Strike in addition to the primary target. Olympian Halls can no longer be a primary target.
+	" coords="113,381,161,430" shape="rect">
+        <area research="C400 - For All Factions
+	<p><b>Research Name</b>: Gravitation
+	<p><b>Requirement</b>: Research Magnetism (C250) & Weighting (C300)
+	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)
+	<p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of Faction Coins found in this game.
+	<p><b>Effect</b>: Also increase the chance to find Faction Coins by a multiplicative 100%.
+	<p><b>Formula</b>: floor(3.5 * ln(x + 1) ^ 3), where x is your Faction Coins Gained (This Game) stat.
+	" coords="166,383,216,429" shape="rect">
+        <area research="C405 - For Dwarf
+	<p><b>Research Name</b>: Metallurgy
+	<p><b>Requirement</b>: Secrets of the Underworld (as Dwarf)
+	<p><b>Cost</b>: 103.7 QaSxg (1.037E197)
+	<p><b>Effect</b>: Increase the production of Dwarven Forges based on the Dwarven Forges you own.
+	<p><b>Formula</b>: (45 * x ^ 0.825)%, where x is the number of Dwarven Forges you own.
+	" coords="222,383,273,431" shape="rect">
+        <area research="C460 - For All Factions
+	<p><b>Research Name</b>: Distribution
+	<p><b>Requirement</b>: 1M Clicks (This game)
+	<p><b>Cost</b>: 502.3 SpSxg (5.023E206)
+	<p><b>Effect</b>: Increase the production of non-unique buildings based on the amount of clicks you made in this game.
+	<p><b>Formula</b>: (35 * x ^ 0.5)%, where x is your Treasure Clicks (This Game) stat.
+	" coords="278,382,326,430" shape="rect">
+        <area research="C500 - For All Factions
+	<p><b>Research Name</b>: Minecrafting
+	<p><b>Requirement</b>: 3250 excavations (as Dwarf)
+	<p><b>Cost</b>: 5.554Spg (5.554E213)
+	<p><b>Effect</b>: Increases production bonus from gems based on the amount of excavations you made.
+	<p><b>Formula</b>: (3 * x ^ 0.35)%, where x is the amount of Excavations you made.
+	" coords="333,383,381,430" shape="rect">
+        <area research="C520 - For Dwarf
+	<p><b>Research Name</b>: Blacksmithing
+	<p><b>Requirement</b>: Research Reinforcing (C135) & Metallurgy (C405)
+	<p><b>Cost</b>: 18.47 USpg (1.847E217)
+	<p><b>Effect</b>: Increase clicking reward for Diamond Pickaxe based on the amount of Dwarvin Forges you own.
+	<p><b>Effect</b>: Also increase Faction Coin find chance bonus of Diamond Pickaxe based on the amount of Dwarvin Forges you own.
+	<p><b>Formula</b>: Clicking Reward: (2.5 * x^0.3)%, where x is the number of Dwarven Forges you own.
+	<p><b>Formula</b>: Diamond Pickaxe: (20 * x^0.4)%, where x is the number of Dwarven Forges you own.
+	" coords="387,383,437,431" shape="rect">
+        <area research="C590 - For Elf,Dwarf
+	<p><b>Research Name</b>: Alloys
+	<p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwelf), Research Fusion(A105) and Blacksmithing(C520)
+	<p><b>Cost</b>: 39.16 QiSpg (3.916E229)
+	<p><b>Effect</b>: Increase clicking reward based on your chance to find Faction Coins, (if your FC chance is 10k%, this will be 10k%).
+	<p><b>Effect</b>: Autoclicks the treasure 10 times per second.
+	" coords="442,381,492,431" shape="rect">
+        <area research="C1300 - For Neutral,Dragon
+	<p><b>Research Name</b>: Scintillation
+	<p><b>Requirement</b>: 30000 Max Mana, as any Neutral,Dragon (This game)
+	<p><b>Cost</b>: 4.698 Tvg (4.698e72)
+	<p><b>Effect</b>: Increase production of buildings based on max mana and additive gem bonus. (Higher boost for lower gem bonus.)
+	<p><b>Formula</b>: ((250 * x ^ 0.5) / y ^ 0.95), where x is max mana and y is total additive gem bonus.
+	" coords="499,382,548,431" shape="rect">
+        <area research="C1325 - For All Factions
+	<p><b>Research Name</b>: Plasmation
+	<p><b>Requirement</b>: 50m (5e7) Mana Produced (This game)
+	<p><b>Cost</b>: 144.9 Tvg (1.449e74)
+	<p><b>Effect</b>: Gain assistants based on mana produced in this game.
+	<p><b>Formula</b>: floor(1.25 * ln(1 + x) ^ 2.25), where x is mana produced (this game).
+	" coords="3,437,50,484" shape="rect">
+        <area research="C1500 - For Titan,Dragon
+	<p><b>Research Name</b>: Gargantuaness
+	<p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)
+	<p><b>Cost</b>: 3.843 Spvg (3.843e84)
+	<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.
+	<p><b>Formula</b>: (1.5 * x) ^ 0.7, where x is neutral time (this R) in minutes.
+	" coords="57,437,105,485" shape="rect">
+        <area research="C3000 - For Mercenary
+	<p><b>Research Name</b>: Customizing
+	<p><b>Requirement</b>: 9000 Excavations as Mercenary.
+	<p><b>Cost</b>: 850.7 SxQig (8.507e173)
+	<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.
+	<p><b>Formula</b>: (2 * x ^ 2), where X is artifacts you own.
+	" coords="113,435,160,484" shape="rect">
+        <area research="C3100 - All Factions
+	<p><b>Research Name</b>: Engineering
+	<p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).
+	<p><b>Cost</b>: 769.3 OcQig (7.693e179)
+	<p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).
+	<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.
+	" coords="168,438,218,484" shape="rect">
+        <area research="C5125 - For All Factions
+    <p><b>Research Name</b>: Restaurantian
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase the production of all buildings based on assistants owned.
+	<p><b>Formula</b>: (0.75 * x ^ 0.25), where x is assistants owned
+	" coords="224,436,272,484" shape="rect">
+        <area research="C5375 - For Neutral
+	<p><b>Research Name</b>: Manufacture
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on Clicks made in this game.
+    <p><b>Formulas</b></p>
+    <p><b>Additive</b>: (6.5 * x ^ 0.65),  where x is clicks in this game</p>
+    <p><b>Multiplicative</b>: (x ^ 0.35), where x is clicks in this game</p>
+	" coords="278,437,326,485" shape="rect">
+        <area research="C5625 - For All Factions
+	<p><b>Research Name</b>: Discovery
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.
+	<p><b>Formula</b>: (0.5 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).
+	" coords="334,437,383,485" shape="rect">
+        <area research="C5875 - For All Factions
+	<p><b>Research Name</b>: Genuineness
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on lowest Lineage level.
+	<p><b>Formula</b>: (50 + 1.5 * x ^ 0.95), where x is the lowest lineage.
+	" coords="388,436,436,485" shape="rect">
+        <area research="D1 - For Angel
+	<p><b>Research Name</b>: Blessing
+	<p><b>Cost</b>: 750 Qag (7.50E125)
+	<p><b>Effect</b>: Increase the production of Heaven's Domains based on total time spent with at least one active spell.
+	<p><b>Formula</b>: round(2.5 * x ^ 0.8)%, where x is total time spent with at least one active spell.
+	" coords="112,512,162,562" shape="rect">
+        <area research="D10 - For Demon
+	<p><b>Research Name</b>: Inflame
+	<p><b>Requirement</b>: 2,000 Infernal Realms
+	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
+	<p><b>Effect</b>: Increase the production of all other buildings by 110% per Infernal Realm you own.
+	" coords="167,513,217,562" shape="rect">
+        <area research="D25 - For Undead
+	<p><b>Research Name</b>: Cursing
+	<p><b>Requirement</b>: Play 8 hours Offline (as Undead) (This Game)
+	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
+	<p><b>Effect</b>: Increase the production of all buildings based on your offline production bonus.
+	<p><b>Formula</b>: (2.75 * log10(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier.
+	" coords="222,513,272,563" shape="rect">
+        <area research="D50 - For Elf
+	<p><b>Research Name</b>: Hallowing
+	<p><b>Requirement</b>: 15,000 Good Buildings(as Angel)
+	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
+	<p><b>Effect</b>: Increase your chance to find Faction Coins based on the amount of Elven Training Grounds you own.
+	<p><b>Formula</b>: floor(1.5 * x ^ 1.05)%, where x is the number of Elven Training Grounds you own.
+	" coords="279,513,327,561" shape="rect">
+        <area research="D55 - For All Factions
+	<p><b>Research Name</b>: Transfixion
+	<p><b>Requirement</b>: Produce 3 M (3E6) Mana (This Game)
+	<p><b>Cost</b>: 2.421 Qaqag (2.421E135)
+	<p><b>Effect</b>: Increase clicking reward based on spell cast in this game.
+	<p><b>Formula</b>: round(3.5 * x ^ 0.8)%, where x is your Spells Cast (This Game) stat.
+	" coords="333,512,381,560" shape="rect">
+        <area research="D135 - For All Factions
+	<p><b>Research Name</b>: Illumination
+	<p><b>Requirement</b>: 250 m/s Mana Regen(as Angel)
+	<p><b>Cost</b>: 296 Ocqag (2.96E149)
+	<p><b>Effect</b>: Increases mana regeneration based on the amount of gems you own.
+	<p><b>Formula</b>: floor(1.25 * ln(1 + x)) / 10), where x is amount of gems you own.
+	" coords="389,513,436,560" shape="rect">
+        <area research="D150 - For All Factions
+	<p><b>Research Name</b>: Retribution
+	<p><b>Requirement</b>: Research Betrayal (W120) & Transfixion (D55).
+	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
+	<p><b>Effect</b>: Increase chance to find faction coins based on the amount of research made.
+	<p><b>Formula</b>: floor(x ^ 1.25), where x is the amount of research made.
+	" coords="444,513,492,562" shape="rect">
+        <area research="D175 - For Angel
+	<p><b>Research Name</b>: Resurrection
+	<p><b>Requirement</b>: Research Blessing (D1) & Refraction (A55)
+	<p><b>Cost</b>: 3.273 Uqig (3.273E156)
+	<p><b>Effect</b>: You gain additional assistants based on God's Hands activity time. (This R)
+	<p><b>Formula</b>: floor(1.5 * x ^ 0.75), where x is God's Hands Cast Time Activity (This R).
+	" coords="496,512,546,561" shape="rect">
+        <area research="D200 - For All Factions
+	<p><b>Research Name</b>: Transcendence
+	<p><b>Requirement</b>: Research Resurrection (D175) & Illumination (D135)
+	<p><b>Cost</b>: 82.65 Dqig (8.265E160)
+	<p><b>Effect</b>: Decrease the cost of all spells by 20% and increase their duration by 20%.
+	" coords="113,567,161,615" shape="rect">
+        <area research="D205 - For All Good Factions
+	<p><b>Research Name</b>: Communion
+	<p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) & Illumination (D135)
+	<p><b>Cost</b>: 627.6 Dqig (6.276E161)
+	<p><b>Effect</b>: Increase Holy Light duration by 300 seconds.
+	" coords="168,567,217,616" shape="rect">
+        <area research="D225 - For Fairy
+	<p><b>Research Name</b>: Weather Control
+	<p><b>Requirement</b>: Research Light Condenser (C25) & Vacuumancy (S30)
+	<p><b>Cost</b>: 2.087 Qaqig (2.087E165)
+	<p><b>Effect</b>: Increase the production of Enchanted Fields based on maximum mana.
+	<p><b>Formula</b>: floor(2.25 * x ^ 0.8)%, where x is your maximum mana.
+	" coords="223,568,271,617" shape="rect">
+        <area research="D245 - For All Factions
+	<p><b>Research Name</b>: Sanctification
+	<p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)
+	<p><b>Cost</b>: 6.94Qiqig (6.94E168)
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.
+	<p><b>Formula</b>: (2.5 * x ^ 0.55), where x is the amount of Non-Unique Buildings you own.
+	" coords="279,566,326,615" shape="rect">
+        <area research="D250 - For All Factions
+	<p><b>Research Name</b>: Demonology
+	<p><b>Requirement</b>: Research Transcendence (D200) & Pyromancy (S150)
+	<p><b>Cost</b>: 52.7 Qiqig (5.27E169)
+	<p><b>Effect</b>: Gain additional assistants based on the amount of Faction Coins found in this game.
+	<p><b>Formula</b>: floor(ln(1 + x) ^ 1.5), where x is your Faction Coins Gained (This Game) stat.
+	" coords="334,567,382,615" shape="rect">
+        <area research="D260 - For Faceless
+	<p><b>Research Name</b>: Mutation
+	<p><b>Requirement</b>: 3,000 Sunken Cities
+	<p><b>Cost</b>: 3.039 SxQig (3.039E171)
+	<p><b>Effect</b>: Increase the production of all other buildings by 95% per Sunken Cities you own.
+	" coords="388,567,436,615" shape="rect">
+        <area research="D275 - For Druid
+	<p><b>Research Name</b>: Meditation
+	<p><b>Requirement</b>: Have 10,000 Mana (as Druid)
+	<p><b>Cost</b>: 1.331 SpQig (1.331E174)
+	<p><b>Effect</b>: Increase mana regeneration based on your current mana.
+	<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.
+	<p><b>Formula</b>: (0.35 * x ^0.35 + 0.035 * log(x) ^3.5), where x is max mana.
+	" coords="444,568,493,615" shape="rect">
+        <area research="D290 - For All Factions
+	<p><b>Research Name</b>: Transubstantiation
+	<p><b>Requirement</b>: 1 Rough Stone Artifact
+	<p><b>Cost</b>: 582.7 SpQig (5.827E176)
+	<p><b>Effect</b>: Each artifact you discover increases Maximum Mana additively and multiplicatively.
+	<p><b>Additive Formula</b>: (50 * x ^1.1), where x is the number of artifacts found.
+	<p><b>Multiplicative Formula</b>: (0.45 * x ^ 1.1), where x is the number of artifacts found.
+	" coords="499,567,546,616" shape="rect">
+        <area research="D320 - For All Factions
+	<p><b>Research Name</b>: Deliverance
+	<p><b>Requirement</b>: 350 m/s Mana Regen
+	<p><b>Cost</b>: 1.117 NoQig (1.117E180)
+	<p><b>Effect</b>: Increase assistants production based on mana regeneration.
+	<p><b>Formula</b>: round(20 * x ^ 0.85)%, where x is your Mana per Second stat.
+	" coords="3,622,50,670" shape="rect">
+        <area research="D330 - For All Factions
+	<p><b>Research Name</b>: Eternity
+	<p><b>Requirement</b>: Research Offering (E275) & Deliverance (D320)
+	<p><b>Cost</b>: 6.443 Sxg (6.443E183)
+	<p><b>Effect</b>: Double the duration of all faction spells.
+	" coords="57,622,105,671" shape="rect">
+        <area research="D350 - For Titan
+	<p><b>Research Name</b>: Descent
+	<p><b>Requirement</b>: Research Swarming (W250) & Heroism (W330)
+	<p><b>Cost</b>: 21.42 USxg (2.142E187)
+	<p><b>Effect</b>: Gain additional assistants based on the amount of Olympian Halls you own.
+	<p><b>Formula</b>: floor(x ^ 0.5)%, where x is the number of Olympian Halls you own.
+	" coords="113,622,161,669" shape="rect">
+        <area research="D400 - For All Factions
+	<p><b>Research Name</b>: Miracle
+	<p><b>Requirement</b>: Research Communion (D205) & Transubstantiation (D290)
+	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)
+	<p><b>Effect</b>: Increase the Production of a random building by x250. Target changes every 2 minutes. While offline, increase the production of all buildings by x75.
+	" coords="168,622,216,671" shape="rect">
+        <area research="D435 - For Dwarf
+	<p><b>Research Name</b>: Devotion
+	<p><b>Requirement</b>: 14400s (4 hour) Diamond Pickaxe Cast Time (This Game)
+	<p><b>Cost</b>: 19.89 SxSxg (1.989E202)
+	<p><b>Effect</b>: Increase the production of Good buildings based on spells cast in this game.
+	<p><b>Formula</b>: (2.5 * x ^ 0.85)%, where x is your Spells Cast (This Game) stat.
+	" coords="223,621,273,670" shape="rect">
+        <area research="D480 - For All Factions
+	<p><b>Research Name</b>: Mercy
+	<p><b>Requirement</b>: 12h Spent as each Good, Evil and Neutral alignment (This R)
+	<p><b>Cost</b>: 1.67 NoSxg (1.67E210)
+	<p><b>Effect</b>: Increase the production of all buildings based on the difference in time spent with the three alignments. A smaller difference produces a higher bonus.
+	<p><b>Formula</b>: (100000 * (tmin / tmax) ^ 1.5)%, where tmin is shortest Time Spent Being Alignment and tmax is longest Time Spent Being Alignment (Total) Stat.
+	" coords="278,620,327,669" shape="rect">
+        <area research="D525 - For Good
+	<p><b>Research Name</b>: Purity
+	<p><b>Requirement</b>: 1d12h as Good (This R), Research Communion (D205) and Devotion (D435)
+	<p><b>Cost</b>: 140.2 USpg (1.402E218)
+	<p><b>Effect</b>: Increase Holy Light multiplier based on the amount of times you cast your faction spell in this game.
+	<p><b>Formula</b>: (300 * x ^ 0.3)%, where x is your Faction Spells' Cast This Game stat.
+	" coords="333,622,384,671" shape="rect">
+        <area research="D560 - For Drow
+	<p><b>Research Name</b>: Ritualism
+	<p><b>Requirement</b>: Research Necromancy(S225) and Heirlooms(S500)(as drow)
+	<p><b>Cost</b>: 204.2 TSpq (2.042E224)
+	<p><b>Effect</b>: Increase mana regeneration based on the amount of trophies you unlocked.
+	<p><b>Formula</b>: (floor(0.7 * x) / 10), where x is the amount of Trophies Unlocked.
+	" coords="388,621,436,671" shape="rect">
+        <area research="D590 - For Angel,Dwarf
+	<p><b>Research Name</b>: Dispelling
+	<p><b>Requirement</b>: 200 Dwarf Exchanges as Dwangel, Research Shattering (W320) and Waste (A480)
+	<p><b>Cost</b>: 39.16 QiSpg (3.916E229)
+	<p><b>Effect</b>: Increase the production of Unique buildings based on mana regeneration.
+	<p><b>Formula</b>: (2.5 x ^ 1.25)%, where x is your Mana per Second stat.
+	" coords="441,623,491,670" shape="rect">
+        <area research="D1125 - For Neutral,Dragon
+	<p><b>Research Name</b>: Oblation<p><b>Requirement</b>: Any Neutral,Build Dragons' Unique Building
+	<p><b>Cost</b>: 177.2 Nod (1.772e62)
+	<p><b>Effect</b>: Increase the production of Wyrm's Den based on Faction Coin find chance.
+	<p><b>Formula</b>: 1.55*x^0.55, where x is Faction Coin find chance in percent.
+	" coords="499,622,547,669" shape="rect">
+        <area research="D1275 - For All Factions
+	<p><b>Research Name</b>: Solemnity
+	<p><b>Requirement</b>: 100000 Total Buildings
+	<p><b>Cost</b>: 152.4 Dvg (1.524e71)
+	<p><b>Effect</b>: Increase the production of each building by +0.3% per building of the same type.
+	" coords="4,676,52,722" shape="rect">
+        <area research="D1375 - For All Factions
+	<p><b>Research Name</b>: Soulrending
+	<p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)
+	<p><b>Cost</b>: 137.8 Qavg (1.378e77)
+	<p><b>Effect</b>: Ascensions count 50% more for Spiritual Surge.
+	" coords="57,677,105,723" shape="rect">
+        <area research="D2775 - For Mercenary
+	<p><b>Research Name</b>: Intervention
+	<p><b>Requirement</b>: Secrets of the Warriors.
+	<p><b>Cost</b>: 33.73 DQig (3.373e160)
+	<p><b>Effect</b>: Increases the production of Unique Building based on time spent with Mercenaries.
+	<p><b>Formula</b>: (10 * x ^ 0.7)%, where x is time spent with Mercenary.
+	" coords="113,676,163,723" shape="rect">
+        <area research="D3350 - For All Factions
+	<p><b>Research Name</b>: Vampirism
+	<p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).
+	<p><b>Cost</b>: 598.3 TSxg (5.983e194)
+	<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
+	<p><b>Additive Formula</b>: (3.25 * log10(1 + x) ^ 2.25), where x is your Offline Bonus.
+	<p><b>Multiplicative Formula</b>: (0.05 * log10(1 + x) ^ 2), where x is your Offline Bonus.
+	" coords="168,676,217,724" shape="rect">
+        <area research="D5125 - For All Factions
+	<p><b>Research Name</b>: Selection
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase the production of Unique buildings based on Clicks in this game.
+	<p><b>Formula</b>: (x ^ 0.4), where x is clicks this game.
+	" coords="223,676,271,724" shape="rect">
+        <area research="D5375 - For Good
+	<p><b>Research Name</b>: Zealotry
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Royal Exchanges purchased in this game.
+	<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is royal exchanges this game
+	" coords="278,676,328,724" shape="rect">
+        <area research="D5625 - For All Factions
+	<p><b>Research Name</b>: Prophecy
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Empowers the effects of your faction’s Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.
+	<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.
+	" coords="334,676,382,723" shape="rect">
+        <area research="D5875 - For All Factions
+	<p><b>Research Name</b>: Birthright
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Gain the Bloodline effects of your most used non-mercenary faction.
+	<p><b>Effect</b>: Based on time (This R), can give any vanilla, prestige or elite bloodline
+	" coords="388,673,436,723" shape="rect">
+        <area research="E1 - For Goblin
+	<p><b>Research Name</b>: Coinage
+	<p><b>Cost</b>: 750 Qag (7.50E125)
+	<p><b>Effect</b>: Increase the production of Goblin Banks based on the amount of buildings you own.
+	<p><b>Formula</b>: round(0.8 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.
+	" coords="114,748,161,798" shape="rect">
+        <area research="E10 - For Undead
+	<p><b>Research Name</b>: Recycling
+	<p><b>Requirement</b>: 2,000 Undercities
+	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
+	<p><b>Effect</b>: Increase the production of all other buildings by 95% per Undercity you own.
+	" coords="168,748,217,797" shape="rect">
+        <area research="E25 - For Elf
+	<p><b>Research Name</b>: Commerce
+	<p><b>Requirement</b>: 100 M (1E8) Faction Coins (Found this Game)
+	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
+	<p><b>Effect</b>: Gain additional assistants based on the amount of Royal Exchanges you purchased.
+	<p><b>Formula</b>: floor((1 + 6 * x) ^ 0.5 - 1), where x is your Royal Exchanges Made stat.
+	" coords="223,747,271,796" shape="rect">
+        <area research="E30 - For All Factions
+	<p><b>Research Name</b>: Diplomacy
+	<p><b>Requirement</b>: 1000 Exchanges (This Game)
+	<p><b>Cost</b>: 95.88 Dqag (9.588E130)
+	<p><b>Effect</b>: Increases Faction Coin find chance and Royal Exchange bonus based on time spent in this game.
+	<p><b>Formula</b>: Faction Coin Chance: floor(1.5 * x ^ 1.05)%
+	<p><b>Formula</b>: Royal Exchange bonus: floor(x^0.6)%, where x is Playtime (This Game in minutes).
+	" coords="278,748,327,796" shape="rect">
+        <area research="E50 - For Fairy
+	<p><b>Research Name</b>: Bartering
+	<p><b>Requirement</b>: 1,000 Exchanges(as Goblin)
+	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
+	<p><b>Effect</b>: Reduce Enchanted Field cost multiplier. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.
+	" coords="333,748,382,797" shape="rect">
+        <area research="E80 - For All Factions
+	<p><b>Research Name</b>: Common Business
+	<p><b>Requirement</b>: 9,000 Neutral Buildings
+	<p><b>Cost</b>: 61.13 Qiqag (6.113E139)
+	<p><b>Effect</b>: Increase the production of Good and Evil buildings based on the amount of neutral buildings.
+	<p><b>Formula</b>: round((1.75 * x) ^ 0.8)%, where x is the number of neutral buildings you own.
+	" coords="389,749,438,796" shape="rect">
+        <area research="E135 - For All Factions
+	<p><b>Research Name</b>: Bribing
+	<p><b>Requirement</b>: 28,000 Total Buildings(as Goblin)
+	<p><b>Cost</b>: 296 Ocqag (2.96E149)
+	<p><b>Effect</b>: Reduce the building cost multiplier for Unique Buildings. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.
+	" coords="444,749,491,796" shape="rect">
+        <area research="E145 - For All Factions
+	<p><b>Research Name</b>: Royal Demand
+	<p><b>Requirement</b>: 5,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)
+	<p><b>Cost</b>: 17.07 Noqag (1.707E151)
+	<p><b>Effect</b>: Increase Tax Collection reward by 30 seconds of production.
+	" coords="498,747,547,796" shape="rect">
+        <area research="E150 - For All Factions
+	<p><b>Research Name</b>: Investment
+	<p><b>Requirement</b>: Research Bribing (E135) & Commerce (E25)
+	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of coins you own.
+	<p><b>Formula</b>: round(ln(1 + x) ^ 1.25)%, where x is the amount of gold you own.
+	" coords="114,802,163,852" shape="rect">
+        <area research="E200 - For All Factions
+	<p><b>Research Name</b>: Acquisition
+	<p><b>Requirement</b>: Research Investment (E150)  Common Business (E80)
+	<p><b>Cost</b>: 82.65 Dqig (8.265E160)
+	<p><b>Effect</b>: Increase the production of all buildings based on your percentage of trophies unlocked.
+	<p><b>Formula</b>: round(0.0003 * (100 * x) ^ 3.35), where x is trophies unlocked / max trophies.
+	" coords="167,804,216,851" shape="rect">
+        <area research="E225 - For Goblin
+	<p><b>Research Name</b>: Forgery
+	<p><b>Requirement</b>: Research Coinage (E1) & Gilding (A50)
+	<p><b>Cost</b>: 2.087 Qaqig (2.087E165)
+	<p><b>Effect</b>: Increase the production of Evil Buildings based on the amount of Goblin Banks you own.
+	<p><b>Formula</b>: round(10 * x ^ 0.85)%, where x is the number of Goblin Banks you own.
+	" coords="224,804,272,853" shape="rect">
+        <area research="E230 - For Demon
+	<p><b>Research Name</b>: Coercion
+	<p><b>Requirement</b>: Research Exertion (W50) & Diplomacy (E30)
+	<p><b>Cost</b>: 2.087 Qaqig (2.087E165)
+	<p><b>Effect</b>: Increases trophy count based on time spent as Evil this R.
+	<p><b>Formula</b>: (0.25 * x ^ 0.5), where x is time spent as Evil this R.
+	" coords="278,804,327,851" shape="rect">
+        <area research="E250 - For All Factions
+	<p><b>Research Name</b>: Trade Routes
+	<p><b>Requirement</b>: Research Forgery (E225) & Royal Demand (E145)
+	<p><b>Cost</b>: 52.7 Qiqig (5.27E169)
+	<p><b>Effect</b>: Increase mana regeneration based on the amount of Royal Exchanges you purchased.
+	<p><b>Formula</b>: floor(10 * x ^ 0.55) / 10, where x is your Royal Exchanges Made stat.
+	" coords="334,802,382,850" shape="rect">
+        <area research="E260 - For Druid
+	<p><b>Research Name</b>: Sifting
+	<p><b>Requirement</b>: 3,000 Stonehenge Circles
+	<p><b>Cost</b>: 3.039 SxQig (3.039E171)
+	<p><b>Effect</b>: Increase the production of all other buildings based on the amount of Stone Pillars you own.
+	<p><b>Formula</b>: (100 * x), where x is Stone Pillars
+	" coords="390,804,437,851" shape="rect">
+        <area research="E275 - For Titan
+	<p><b>Research Name</b>: Offering
+	<p><b>Requirement</b>: 1,250 Royal Exchanges(as Titans)
+	<p><b>Cost</b>: 175.2 SxQig (1.752E173)
+	<p><b>Effect</b>: Increase mana regeneration based on your Royal Exchange Bonus.
+	<p><b>Formula</b>: (x ^ 0.95), where x is your Royal Exchange Bonus.
+	" coords="443,804,491,851" shape="rect">
+        <area research="E290 - For All Factions
+	<p><b>Research Name</b>: Surveyorship
+	<p><b>Requirement</b>: 7 Artifacts
+	<p><b>Cost</b>: 582.7 SpQig (5.827E176)
+	<p><b>Effect</b>: Reduces Excavation cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.175 instead of 1.2.
+	" coords="499,804,547,852" shape="rect">
+        <area research="E320 - For All Factions
+	<p><b>Research Name</b>: Smuggling
+	<p><b>Requirement</b>: Have 2x Gems in Abdication Treasury
+	<p><b>Cost</b>: 1.117 NoQig (1.117E180)
+	<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings owned.
+	<p>Also increase FC chance find chance by a multiplicative 100%.
+	<p><b>Formula</b>: 5 * x ^ 0.9, where x is Unique Building owned
+	" coords="3,857,51,906" shape="rect">
+        <area research="E330 - For All Factions
+	<p><b>Research Name</b>: Collection
+	<p><b>Requirement</b>: Research Acquisition (E200) & Forgery (E225)
+	<p><b>Cost</b>: 6.443 Sxg (6.443E183)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of artifacts you found.
+	<p><b>Formula</b>: round(50 * x ^ 1.1)%, where x is the amount of artifacts found.
+	" coords="57,858,107,907" shape="rect">
+        <area research="E350 - For Faceless
+	<p><b>Research Name</b>: Repurpose
+	<p><b>Requirement</b>: Research Journeymen (C200) & Adaptation (A330)(as Faceless)
+	<p><b>Cost</b>: 21.42 USxg (2.142E187)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of Reincarnations you made.
+	<p><b>Formula</b>: round(2.5 * x ^ 2.25)%, where x is the amount of times you reincarnated.
+	" coords="112,859,161,907" shape="rect">
+        <area research="E400 - For All Factions
+	<p><b>Research Name</b>: Conversion
+	<p><b>Requirement</b>: Research Philosopher's Stone (A250) & Repurpose (E350).
+	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)
+	<p><b>Effect</b>: Increase production bonus from Gems based on your Royal Exchange bonus.
+	<p><b>Formula</b>: (0.85 * floor(x ^ 0.85))%, where x is your Royal Exchange Bonus.
+	" coords="169,858,217,906" shape="rect">
+        <area research="E410 - For Dwarf
+	<p><b>Research Name</b>: Marketing
+	<p><b>Requirement</b>: 5000 Blacksmiths
+	<p><b>Cost</b>: 787.7 QaSxg (7.877E197)
+	<p><b>Effect</b>: Increase production of all other buildings by 85% per Dwarven Forge you own.
+	" coords="224,857,272,907" shape="rect">
+        <area research="E460 - For All Factions
+	<p><b>Research Name</b>: Inflation
+	<p><b>Requirement</b>: 100B (1E11) Faction Coins (Found this Game)
+	<p><b>Cost</b>: 502.3 SpSxg (5.023E206)
+	<p><b>Effect</b>: Increase Royal Exchange Bonus based on the amount of Faction Coins found in this game.
+	<p><b>Formula</b>: floor(3.5 * log10(1 + x))%, where x is your Faction Coins Gained (This Game) stat.
+	" coords="279,858,328,907" shape="rect">
+        <area research="E480 - For All Factions
+	<p><b>Research Name</b>: Undercutting
+	<p><b>Requirement</b>: 15000 max mana
+	<p><b>Cost</b>: 1.67 NoSxg (1.67E210)
+	<p><b>Effect</b>: Increase the production of non-unique buildings based on total spells cast.
+	<p><b>Formula</b>: (0.65 * x ^ 0.65)%, where x is your Spells Cast (Total) stat.
+	" coords="333,858,384,906" shape="rect">
+        <area research="E495 - For Drow
+	<p><b>Research Name</b>: Jewellery
+	<p><b>Requirement</b>: 12000 Unique Buildings (as Dwarf)
+	<p><b>Cost</b>: 731.4 NoSxg (7.314E212)
+	<p><b>Effect</b>: Increase the production bonus from gems based on the amount of Spider Sanctuaries you own.
+	<p><b>Formula</b>: (0.06 * x ^ 0.8)%, where x is the number of Spider Sanctuaries you own.
+	" coords="388,858,437,906" shape="rect">
+        <area research="E590 - For Goblin,Drow
+	<p><b>Research Name</b>: Slavery
+	<p><b>Requirement</b>: 200 Drow Exchanges as Droblin, Research Automatons(C225) and Undercutting(E480)
+	<p><b>Cost</b>: 39.16 QiSpg (3.916 E229)
+	<p><b>Effect</b>: Gain additional assistants based on the amount of Non-Unique buildings you own.
+	<p><b>Formula</b>: (0.1 * x ^ 0.8), where x is the number of Non Unique Buildings you own.
+	" coords="442,859,492,906" shape="rect">
+        <area research="E1225 - For Neutral,Dragon
+	<p><b>Research Name</b>: Hoarding
+	<p><b>Requirement</b>: 1T (1E12) Faction coins (Found this game)
+	<p><b>Cost</b>: 160.2 Uvg (1.602e68)
+	<p><b>Effect</b>: Removes 1 Ascension penalty for Royal Exchanges.
+	" coords="498,858,548,906" shape="rect">
+        <area research="E1325 - For All Factions
+	<p><b>Research Name</b>: Intimidation
+	<p><b>Requirement</b>: 18000 Unique Buildings
+	<p><b>Cost</b>: 144.9 Tvg (1.449e74)
+	<p><b>Effect</b>: Reduce Royal Exchange cost multiplier.
+	<p><b>Formula</b>: Reduces multiplier by 0.025; with no other reductions applying, base multiplier is 1.1
+	" coords="3,914,51,960" shape="rect">
+        <area research="E1425 - For All Neutral Factions
+	<p><b>Research Name</b>: Rarity
+	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless, Research A545, C1300
+	<p><b>Cost</b>: 131 Qivg (1.31e80)
+	<p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.
+	<p><b>Formula</b>: (1.25 * x ^ 1.25), where x is artifacts found.
+	" coords="57,913,105,960" shape="rect">
+        <area research="E3250 - For All
+	<p><b>Research Name</b>: Hirelings
+	<p><b>Requirement</b>: (Intimidation E1325) and (Scholarship S2875).</p>
+	<p><b>Cost</b>: 661.6 USxg (6.616e188)</p>
+	<p><b>Effect</b>: Gives assistants based on the amount of coins you own.</p>
+	<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>
+	" coords="113,914,161,960" shape="rect">
+        <area research="E3300 - For Mercenary
+	<p><b>Research Name</b>: Estates
+	<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
+	<p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
+	<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.
+	<p><b>Effect</b>: Ascension 3: Gain all the Unique Buildings that match your alignments.</p>
+	" coords="169,913,216,960" shape="rect">
+        <area research="E5125 - For All Factions
+	<p><b>Research Name</b>: Decentralization
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own. Lower tiers get better bonuses.
+	<p><b>Formula</b>: ((6 - 0.5 * T) ^ 2 * x ^ 0.85), where T is building tier and x is the number of (every) buildings you own
+	" coords="224,913,272,960" shape="rect">
+        <area research="E5375 - For Balance
+	<p><b>Research Name</b>: Whipround
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase Royal Exchange bonus additively and multiplicatively based on Tax Collections cast in this game.
+    <p><b>Formulas</b></p>
+    <p><b>Additive</b>: (x ^ 0.2), where x is tax collections (This game)</p>
+    <p><b>Multiplicative</b>: (0.85 * x ^ 0.15), where x is tax collections (This game)</p>
+	" coords="278,913,327,960" shape="rect">
+        <area research="E5625 - For All Factions
+	<p><b>Research Name</b>: Loan Sharking
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Tax Collection is worth more based on Gold owned.
+	<p><b>Formula</b>: (log10(1 + x) ^ 1.8), where x is your current gold
+	" coords="334,912,382,959" shape="rect">
+        <area research="E5875 - For All Factions
+	<p><b>Research Name</b>: Prosperity
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.
+	<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is your least used faction spell (This game)
+	<p>Note: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.
+	" coords="388,911,436,961" shape="rect">
+        <area research="A1 - For Undead
+	<p><b>Research Name</b>: Plague
+	<p><b>Cost</b>: 750 Qag (7.50E125)
+	<p><b>Effect</b>: Increase the production of Undercities by 8% per assistant you own.
+	" coords="113,990,163,1037" shape="rect">
+        <area research="A10 - For Goblin
+	<p><b>Research Name</b>: Transmutation
+	<p><b>Requirement</b>: 2250 Goblin Banks
+	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
+	<p><b>Effect</b>: Increase the production of all other buildings by 85% per Goblin Bank you own.
+	" coords="168,989,217,1037" shape="rect">
+        <area research="A25 - For Demon
+	<p><b>Research Name</b>: Deflagration
+	<p><b>Requirement</b>: 666 Hellfire Blasts (Total this R)
+	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
+	<p><b>Effect</b>: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and increases its effect by 1000%.
+	" coords="223,988,273,1036" shape="rect">
+        <area research="A30 - For Fairy
+	<p><b>Research Name</b>: Delayed Reaction
+	<p><b>Requirement</b>: 750 Fairy Chanting (Total this R)
+	<p><b>Cost</b>: 95.88 Dqag (9.588E130)
+	<p><b>Effect</b>: Increases duration of Fairy Chanting based on the amount of Enchanted Fields, Inns and Blacksmiths you own and provides a progressively increasing bonus to the spell.
+	<p><b>Formula</b>: Additive Production increase: floor(1000 * t ^ 1.5), where t is how long FC has been active in seconds.
+	<p><b>Formula</b>: Duration increase: floor(x / 800) ^ 0.8) seconds, where x is the number of Farms, Inns, and Blacksmiths you own.
+	" coords="278,987,326,1036" shape="rect">
+        <area research="A50 - For Angel
+	<p><b>Research Name</b>: Gilding
+	<p><b>Requirement</b>: 120 m/s Mana Regen(as Undead)
+	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
+	<p><b>Effect</b>: Heaven's Domains further increase your mana regeneration rate.
+	<p><b>Formula</b>: (1.45 * x ^ 0.45), where x is the number of Heaven's Domains you own.
+	" coords="332,987,381,1037" shape="rect">
+        <area research="A55 - For All Factions
+	<p><b>Research Name</b>: Refraction
+	<p><b>Requirement</b>: Cast 25000 spells (This Game)
+	<p><b>Cost</b>: 2.421 Qaqag (2.421E135)
+	<p><b>Effect</b>: Improve offline production based on spells cast.
+	<p><b>Formula</b>: round(5 * x ^ 0.85), where x is your Spells Cast (Total) stat.
+	" coords="388,990,437,1037" shape="rect">
+        <area research="A105 - For All Factions
+	<p><b>Research Name</b>: Fusion
+	<p><b>Requirement</b>: 2750 Blacksmiths
+	<p><b>Cost</b>: 1.544 Spqag (1.544E144)
+	<p><b>Effect</b>: Increases the production of buildings based on the amount of Faction Coins found this game.
+	<p><b>Formula</b>: round(0.7 * ln ^ 3(1 + x))%, where x is your Faction Coins Gained (This Game) stat.
+	" coords="444,990,493,1037" shape="rect">
+        <area research="A120 - For All Factions
+	<p><b>Research Name</b>: Vivification
+	<p><b>Requirement</b>: Have 6500 mana
+	<p><b>Cost</b>: 676 Spqag (6.76E146)
+	<p><b>Effect</b>: Gain additional assistants based on max mana.
+	<p><b>Formula</b>: floor((x / 15) ^ 0.825), where x is your maximum mana.
+	" coords="499,989,548,1036" shape="rect">
+        <area research="A135 - For All Factions
+	<p><b>Research Name</b>: Decay
+	<p><b>Requirement</b>: 1 Day Total Play Time any Faction (This R) (Must be Undead to unlock once condition is met.)
+	<p><b>Cost</b>: 296 OcQag (9.6E149)
+	<p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation.
+	<p><b>Formula</b>: (0.03 * (2x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds.
+	" coords="113,1043,161,1091" shape="rect">
+        <area research="A150 - For All Factions
+	<p><b>Research Name</b>: Explosives
+	<p><b>Requirement</b>: Research (A25) Deflagration & (A30) Delayed Reaction
+	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
+	<p><b>Effect</b>: Whenever you cast a spell, increase the production of your most productive building based on the amount of mana produced in this game for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.
+	<p><b>Formula</b>: round(0.7 * x ^ 0.6)%, where x is your Mana Produced (Total) stat.
+	" coords="168,1043,218,1091" shape="rect">
+        <area research="A175 - For Undead
+	<p><b>Research Name</b>: Soulweaving
+	<p><b>Requirement</b>: Research Cursing (D25) & Reinforcing (C135)
+	<p><b>Cost</b>: 3.273 Uqig (3.273E156)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of times you Reincarnated.
+	<p><b>Formula</b>: round(2.5 * x ^ 2.25)%, where x is the amount of times you reincarnated.
+	" coords="224,1045,273,1091" shape="rect">
+        <area research="A200 - For All Factions
+	<p><b>Research Name</b>: Corrosion
+	<p><b>Requirement</b>: Research Plague (A1) & Decay (A135)
+	<p><b>Cost</b>: 82.65 Dqig (82.65E160)
+	<p><b>Effect</b>: Increase clicking reward based on time spent in this game.
+	<p><b>Formula</b>: (0.07 * (2x) ^ 0.75)%, where x is your Playtime (This R) in seconds..
+	" coords="279,1043,328,1091" shape="rect">
+        <area research="A250 - For All Factions
+	<p><b>Research Name</b>: Philosopher's Stone
+	<p><b>Requirement</b>: Research Transmutation (A10) & Empowered Luck (S175)
+	<p><b>Cost</b>: 52.7 Qiqig (5.27E169)
+	<p><b>Effect</b>: Increase production bonus from gems based on the amount of research made.
+	<p><b>Formula</b>: floor(x ^ 0.9 / 25)%, where x is the amount of research made.
+	" coords="333,1042,382,1091" shape="rect">
+        <area research="A251 - For Druid
+	<p><b>Research Name</b>: Infusion
+	<p><b>Requirement</b>: Secrets of the Ancients (as Druids)
+	<p><b>Cost</b>: 79.05 QiQig (7.905E169)
+	<p><b>Effect</b>: Increase the production of Stonehenge Circles based on mana produced in this game.
+	<p><b>Formula</b>: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat.
+	" coords="389,1044,436,1091" shape="rect">
+        <area research="A270 - For All Factions
+	<p><b>Research Name</b>: Synthesis
+	<p><b>Requirement</b>: 20 B (2E10) Faction Coins (Found this game)
+	<p><b>Cost</b>: 175.2 SxQig (1.752E173)
+	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.
+	<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 1.25), where x is Factions Coins found (this game).
+	" coords="443,1043,491,1091" shape="rect">
+        <area research="A300 - For Faceless
+	<p><b>Research Name</b>: Creeping
+	<p><b>Requirement</b>: Produce 5M mana (This game, as Druid)
+	<p><b>Cost</b>: 33 OcQig (3.36E178)
+	<p><b>Effect</b>: Increase mana regeneration based on mana produced in this game.
+	<p><b>Formula</b>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
+	" coords="498,1044,547,1091" shape="rect">
+        <area research="A305 - For All Factions
+	<p><b>Research Name</b>: Engraving
+	<p><b>Requirement</b>: 2 days as Druids (Total across all R)
+	<p><b>Cost</b>: 255.2 OcQig (2.552E179)
+	<p><b>Effect</b>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.
+	<p><b>Effect</b>: Also increase Faction Coins find chance by a multiplicative 100%.
+	<p><b>Formula</b>: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat,
+	<p><b>or approximately</b>: floor((ln(x) + 0.69)^{2.75})%, where x is your Spells Cast (This Game) stat.
+	" coords="4,1096,51,1145" shape="rect">
+        <area research="A330 - For All Factions
+	<p><b>Research Name</b>: Adaptation
+	<p><b>Requirement</b>: Research Mutation (D260) & Meditation (D275)
+	<p><b>Cost</b>: 6.443 Sxg (6.443E183)
+	<p><b>Effect</b>: Increase the production of all buildings based on time spent playing as other factions.
+	<p><b>Formula</b>: round(0.05 * x ^ 0.7)%, where x is time spent as other factions.
+	" coords="56,1096,105,1145" shape="rect">
+        <area research="A375 - For Druid
+	<p><b>Research Name</b>: Transfusion
+	<p><b>Requirement</b>: Research Infusion (A251) & Engraving (A305)
+	<p><b>Cost</b>: 541 DSxg (5.41E191)
+	<p><b>Effect</b>: Gain additional assistants based on mana produced this game.
+	<p><b>Formula</b>: floor(4.5 * ln(1 + x)), where x is your Mana Produced (This Game) stat.
+	" coords="114,1097,162,1145" shape="rect">
+        <area research="A400 - For All Factions But Mercenary
+	<p><b>Research Name</b>: Bloodspring
+	<p><b>Requirement</b>: Research Assimilation (S251) & Transfusion (A375).
+	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)
+	<p><b>Effect</b>: You get your faction's Bloodline effect for free. Bloodstream counts time spent with both factions.
+	<p><b>Note</b>: Provides Prestige Bloodline for Elite Factions from R125 to R129, MAD bloodlines at R130+.
+	<p><b>Note</b>: Does not work with two Bloodlines of the same type.
+	" coords="168,1097,216,1146" shape="rect">
+        <area research="A410 - For Drow
+	<p><b>Research Name</b>: Poisons
+	<p><b>Requirement</b>: 4000 Sanctuaries
+	<p><b>Cost</b>: 787.7 QaSxg (7.877E197)
+	<p><b>Effect</b>: Increase the production of all other buildings by 95% per Spider Sanctuary you own.
+	" coords="223,1097,273,1145" shape="rect">
+        <area research="A480 - For All Factions
+	<p><b>Research Name</b>: Waste
+	<p><b>Requirement</b>: 2000 Royal Exchanges
+	<p><b>Cost</b>: 1.67 NoSxg (1.67E210)
+	<p><b>Effect</b>: Increase offline production based on the amount of Royal Exchanges you purchased.
+	<p><b>Formula</b>: 120 * x ^ 0.85, where x is your Royal Exchanges Made stat.
+	" coords="279,1098,326,1146" shape="rect">
+        <area research="A495 - For Dwarf
+	<p><b>Research Name</b>: Elixirs
+	<p><b>Requirement</b>: 500 Base Assistants (as Drow)
+	<p><b>Cost</b>: 731.4 NoSxg (7.314E212)
+	<p><b>Effect</b>: Increase assistants production based on the amount of research made.
+	<p><b>Formula</b>: (120 * x ^ 0.42)%, where x is the Amount of Researches made.
+	" coords="333,1098,384,1146" shape="rect">
+        <area research="A545 - For All Factions
+	<p><b>Research Name</b>: Mineralogy
+	<p><b>Requirement</b>: 700 trophies
+	<p><b>Cost</b>: 466.3 DSpg (4.663E221)
+	<p><b>Effect</b>: Increases mana regeneration based on Gems you own.
+	<p><b>Formula</b>: log10(x) / 2, where x is Gems you own.
+	" coords="389,1099,437,1146" shape="rect">
+        <area research="A590 - For Undead,Drow
+	<p><b>Research Name</b>: Hexing
+	<p><b>Requirement</b>: 200 Drow Exchanges as Drodead, Research Cursing (D25) and Poisons (A410)
+	<p><b>Cost</b>: 39.16 QiSpg (3.916E229)
+	<p><b>Effect</b>: Increase the production of all buildings based on mana produced and the percentage of offline time spent in this game.
+	<p><b>Formula</b>: (0.045 * x ^ 0.45 * p)%, where x is your Mana Produced (This Game) stat and p is the percentage of your Time Spent Offline for this game.
+	" coords="442,1097,491,1146" shape="rect">
+        <area research="A1200 - For Neutral,Dragon
+	<p><b>Research Name</b>: Melting
+	<p><b>Requirement</b>: 5000 Iron Stronghold, Any Neutral Dragon
+	<p><b>Cost</b>: 5.195 Uvg (5.195e66)
+	<p><b>Effect</b>: Increase the production of all other buildings per Iron Strongholds owned by 0.35%
+	<p><b>Formula</b>: (0.35 * x)%, where x is Iron Strongholds owned
+	" coords="499,1096,547,1146" shape="rect">
+        <area research="A1325 - For All Factions
+	<p><b>Research Name</b>: Calefaction
+	<p><b>Requirement</b>: 4500 Excavations (This R)<p><b>Cost</b>: 144.9 Tvg (1.449e74)
+	<p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.
+	<p><b>Formula</b>:  floor(0.02 * x), where x is current excavations
+	<p><b>Tip</b>: E290 and end of R54.
+	" coords="4,1152,50,1199" shape="rect">
+        <area research="A1500 - For Druid,Dragon
+	<p><b>Research Name</b>: Sublimation
+	<p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon
+	<p><b>Cost</b>: 3.843 Spvg (3.843e84)
+	<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</p>
+	<p><b>Effect</b>: Also increase Faction Coin find chance by a multiplicative 250%.</p>
+	<p><b>Formula</b>: (40 * x * 0.8), where x is Unique Buildings owned.</p>
+	" coords="57,1151,105,1199" shape="rect">
+        <area research="A2950 - For Mercenary
+	<p><b>Research Name</b>: Combination
+	<p><b>Requirement</b>: All Lineages Level at 15.
+	<p><b>Cost</b>: 259 SxQig (2.59e173)
+	<p><b>Effect</b>: Select an additional bloodline.
+	<p><b>Effect</b>: You also gain the base effect of its respective Lineage.
+	<p><b>Effect</b>: Combination Bloodline effects R60/R115 power.
+	" coords="114,1151,161,1199" shape="rect">
+        <area research="A3400 - For All Factions
+	<p><b>Research Name</b>: Chemistry
+	<p><b>Requirement</b>: 1 No (1e30) FC (Found this Game), (Customizing C3000) & (Manipulation S3200).
+	<p><b>Cost</b>: 894.5 QiQig (5.69e197)
+	<p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.
+	<p><b>Effect</b>: Also increases Faction Coin find chance by a multiplicative 300%.
+	<p><b>Formula</b>: 3 * x ^ 2.25, where x is total Lineage levels.
+	" coords="167,1151,216,1200" shape="rect">
+        <area research="A5125 - For All Factions
+	<p><b>Research Name</b>: Putrefaction
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the longest time spent without abdicating in this Reincarnation.
+	<p><b>Formula</b>: (x ^ 0.75), where x is the longest time spent without abdicating (This R, can also be This Game)
+	" coords="223,1151,271,1200" shape="rect">
+        <area research="A5375 - For Order
+	<p><b>Research Name</b>: Albedo
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase all spells duration based on spell casts in this game.
+	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game
+	" coords="276,1150,327,1200" shape="rect">
+        <area research="A5625 - For All Factions
+	<p><b>Research Name</b>: Reduction
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Reduce all spells cost based on their individual duration.
+	<p><b>Formula</b>: Additive reduction: ((x/y) ^ 0.65), where x is duration and y is base duration.
+	" coords="334,1150,381,1200" shape="rect">
+        <area research="A5875 - For All Factions
+	<p><b>Research Name</b>: Equivalence
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on Faction Coin found in this game.
+	<p><b>Formula</b>: (log10(x) ^ 1.5), where x is faction coins this game
+	" coords="389,1150,437,1199" shape="rect">
+        <area research="W1 - For Demon
+	<p><b>Research Name</b>: Assault
+	<p><b>Cost</b>: 750 Qag (7.50E125)
+	<p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Hellfire Blasts cast in this game.
+	<p><b>Formula</b>: round(70 * x ^ 0.55)%, where x is Hellfire Blasts Cast This Game.
+	" coords="113,1229,161,1277" shape="rect">
+        <area research="W10 - For Elf
+	<p><b>Research Name</b>: Dueling
+	<p><b>Requirement</b>: 2000 Warrior Barracks
+	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
+	<p><b>Effect</b>: Increase the production of all other buildings by 90% per Elven Training Grounds you own.
+	" coords="169,1229,218,1277" shape="rect">
+        <area research="W25 - For Goblin
+	<p><b>Research Name</b>: War Funds
+	<p><b>Requirement</b>: 1 Tqag (1E132) Coins Gained (This Game)
+	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of Tax Collections cast in this game.
+	<p><b>Formula</b>: round(5 * x ^ 0.6)%, where x is Tax Collections Cast This Game.
+	" coords="224,1229,271,1277" shape="rect">
+        <area research="W50 - For Undead
+	<p><b>Research Name</b>: Exertion
+	<p><b>Requirement</b>: 1 day of Evil Play Time this R, Note: Play as any Evil faction, but you must be Demon to unlock this.
+	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
+	<p><b>Effect</b>: Increase faction coin find chance based on the number of Undercities you own.
+	<p><b>Formula</b>: (floor(1.5 * x ^ 1.1))% where x is the number of Undercities you own.
+	" coords="277,1228,327,1277" shape="rect">
+        <area research="W120 - For All Factions
+	<p><b>Research Name</b>: Betrayal
+	<p><b>Requirement</b>: 250 base assistants
+	<p><b>Cost</b>: 676 Spqag (6.76E146)
+	<p><b>Effect</b>: Increase the production of non-unique buildings based on the amount of assistants you own.
+	<p><b>Formula</b>: round(1.5 * x^1.5)%, where x is the amount of assistants you own.
+	" coords="334,1227,382,1278" shape="rect">
+        <area research="W135 - For All Factions
+	<p><b>Research Name</b>: Rampage
+	<p><b>Requirement</b>: 580 Trophies(as Demon)
+	<p><b>Cost</b>: 296 Ocqag (9.6E149)
+	<p><b>Effect</b>: Increase maximum mana based on the number of trophies you have unlocked.
+	<p><b>Formula</b>: floor(1.3 * x ^ 1.1), where x is the amount of trophies unlocked.
+	" coords="388,1229,436,1278" shape="rect">
+        <area research="W150 - For All Factions
+	<p><b>Research Name</b>: Invasion
+	<p><b>Requirement</b>: Research War Funds (W25) & Rampage (W135)
+	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of assistants you own.
+	<p><b>Formula</b>: round(32 * x ^ 0.75)%, where x is the amount of assistants you own.
+	" coords="443,1229,492,1278" shape="rect">
+        <area research="W175 - For Demon
+	<p><b>Research Name</b>: Overwhelm
+	<p><b>Requirement</b>: Research Assault (W1) & Invasion (W150)
+	<p><b>Cost</b>: 3.273 Uqig (3.273E156)
+	<p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.
+	<p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast.
+	" coords="499,1227,547,1277" shape="rect">
+        <area research="W180 - For All Factions
+	<p><b>Research Name</b>: Formation
+	<p><b>Requirement</b>: 1000 Call to Arms (This R), Research Dueling (W10) & Exertion (W50)
+	<p><b>Cost</b>: 24.85 Uqig (2.485E157)
+	<p><b>Effect</b>: Each building counts 15 times for Call to Arms purposes.
+	" coords="112,1283,161,1331" shape="rect">
+        <area research="W200 - For All Factions
+	<p><b>Research Name</b>: Crusade
+	<p><b>Requirement</b>: Research Hallowing (D50) & Formation (W180)
+	<p><b>Cost</b>: 82.65 Dqig (8.265E160)
+	<p><b>Effect</b>: Gain additional assistants based on time spent as Good this R.
+	<p><b>Formula</b>: floor(0.065 * x ^ 0.5), where x is your Time Spent Being Good (This R) stat.
+	" coords="169,1283,216,1332" shape="rect">
+        <area research="W205 - For All Evil Factions
+	<p><b>Research Name</b>: Berserking
+	<p><b>Requirement</b>: 850 Blood Frenzy (This R), Research Rampage (W135) & Retribution (D150)
+	<p><b>Cost</b>: 627.6 Dqig (6.276E161)
+	<p><b>Effect</b>: While Blood Frenzy is active, increase mana regeneration based on the amount of assistants you own.
+	<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 300%.
+	<p><b>Formula</b>: floor(0.25x^0.9), where x is your Assistants stat.
+	" coords="224,1283,272,1332" shape="rect">
+        <area research="W225 - For Angel
+	<p><b>Research Name</b>: Critical Strike
+	<p><b>Requirement</b>: Research Dueling (W10) & Transfixion (D55)
+	<p><b>Cost</b>: 2.087 Qaqig (2.087E165)
+	<p><b>Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.
+	<p><b>Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light Active Time This Game in seconds.
+	" coords="277,1282,328,1331" shape="rect">
+        <area research="W250 - For All Factions
+	<p><b>Research Name</b>: Swarming
+	<p><b>Requirement</b>: Research Overwhelm (W175) & Berserking (W205)
+	<p><b>Cost</b>: 52.7 Qiqig (5.27E169)
+	<p><b>Effect</b>: Gain additional assistants based on the amount of trophies you unlocked.
+	<p><b>Formula</b>: floor(x / 8), where x is the amount of trophies unlocked.
+	" coords="333,1283,381,1332" shape="rect">
+        <area research="W260 - For Titan
+	<p><b>Research Name</b>: Athletics
+	<p><b>Requirement</b>: 3,000 Olympian Halls
+	<p><b>Cost</b>: 3.039 SxQig (3.039E171)
+	<p><b>Effect</b>: Increase the production of all other buildings by 100% per Olympian Hall you own.
+	" coords="388,1283,436,1331" shape="rect">
+        <area research="W275 - For Faceless
+	<p><b>Research Name</b>: Domination
+	<p><b>Requirement</b>: 300 Base Assistants (as Faceless)
+	<p><b>Cost</b>: 1.331 SpQig (1.331E174)
+	<p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of assistants you had in a single game.(This R)
+	<p><b>Effect</b>: Also a 50% multiplicative Faction Coin find chance.
+	<p><b>Formula</b>: (200 * x ^ 0.55), where x is your Assistants (Max) stat.
+	" coords="443,1285,493,1332" shape="rect">
+        <area research="W290 - For All Factions
+	<p><b>Research Name</b>: Entrench
+	<p><b>Requirement</b>: 2,000 Excavations
+	<p><b>Cost</b>: 582.7 SpQig (5.827E176)
+	<p><b>Effect</b>: Increase the production of Unique buildings based on the amount of Excavations you made.
+	<p><b>Formula</b>: round(15 * x ^ 0.8)%, where x is the amount of excavations made.
+	" coords="498,1283,547,1332" shape="rect">
+        <area research="W320 - For All Factions
+	<p><b>Research Name</b>: Shattering
+	<p><b>Requirement</b>: 2,650 Excavations
+	<p><b>Cost</b>: 1.117 NoQig (1.117E180)
+	<p><b>Effect</b>: Increase your clicking reward based on the amount of Excavations you made.
+	<p><b>Formula</b>: round(10 * x ^ 0.75)%, where x is the amount of excavations made.
+	" coords="2,1337,50,1385" shape="rect">
+        <area research="W330 - For All Factions
+	<p><b>Research Name</b>: Heroism
+	<p><b>Requirement</b>: Research Crusade (W200) & Athletics (W260).
+	<p><b>Cost</b>: 6.443 Sxg (6.443E183)
+	<p><b>Effect</b>: Increase your click reward based on the amount of trophies you unlocked.
+	<p><b>Formula</b>: round(2.5 * x)%, where x is the amount of trophies unlocked.
+	" coords="57,1336,106,1385" shape="rect">
+        <area research="W350 - For Druid
+	<p><b>Research Name</b>: Survival
+	<p><b>Requirement</b>: Research Creeping (A300) & Synthesis (A270).
+	<p><b>Cost</b>: 21.42 USxg (2.142E187)
+	<p><b>Effect</b>: Increase the production of all other buildings based on the production of your Stonehenge Circles.
+	<p><b>Formula</b>: (75 * (log10(1 + x)) ^ 1.3))%, where x is the production of your Stonehenge Circles.
+	" coords="113,1338,163,1386" shape="rect">
+        <area research="W400 - For All Factions
+	<p><b>Research Name</b>: Siege
+	<p><b>Requirement</b>: Research Architecture (C251) & Entrench (W290).
+	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)
+	<p><b>Effect</b>: Each building in the three highest building tiers count as 2 buildings for all purposes.
+	" coords="169,1337,217,1386" shape="rect">
+        <area research="W405 - For Drow
+	<p><b>Research Name</b>: Ambush
+	<p><b>Requirement</b>: Secrets of the Underworld (as Drow)
+	<p><b>Cost</b>: 103.7 QaSxg (1.037E197)
+	<p><b>Effect</b>: Increase the production of Spider Sanctuaries based on offline Bonus
+	<p><b>Formula</b>: (3.25 * log10(1 + x) ^ 3.25)%, where x is offline production bonus multiplier.
+	" coords="223,1337,275,1385" shape="rect">
+        <area research="W520 - For Drow
+	<p><b>Research Name</b>: Stalking
+	<p><b>Requirement</b>: Research Exertion (W50) and Ambush (W405)
+	<p><b>Cost</b>: 18.47 Uspg (1.847E217)
+	<p><b>Effect</b>: Gain 1 assistant for every 100 seconds of Combo Strike activity time. (This Game)
+	" coords="279,1336,328,1385" shape="rect">
+        <area research="W525 - For All Factions
+	<p><b>Research Name</b>: Bloodlust
+	<p><b>Requirement</b>: 129600s (1d 12hours) as Evil (This R), Research Berserking (W205) and Focus (S460)
+	<p><b>Cost</b>: 140.2 USpg (1.402E218)
+	<p><b>Effect</b>: Increase Blood Frenzy multiplier based on the amount of times you cast faction spell in this game.
+	<p><b>Formula</b>: (300 * floor(x ^ 0.3))%, where x is Faction Spells' Cast This Game.
+	" coords="334,1338,382,1385" shape="rect">
+        <area research="W560 - For Dwarf
+	<p><b>Research Name</b>: Resilience
+	<p><b>Requirement</b>: Research Eternity (D330) and Mercy (D480)
+	<p><b>Cost</b>: 204.2 TSpg (2.042E224)
+	<p><b>Effect</b>: Increase clicking reward based on the amount of clicks made in this game.
+	<p><b>Formula</b>: (5 * x ^ 0.45)%, where x is your Treasure Clicks (This Game) stat.
+	" coords="387,1335,439,1386" shape="rect">
+        <area research="W590 - For Demon,Drow
+	<p><b>Research Name</b>: Torture
+	<p><b>Requirement</b>: 200 Drow Exchanges as Dromon, Research Soulrending (D245) and Stalking (W520)
+	<p><b>Cost</b>: 39.16 QiSpg (3.916E229)
+	<p><b>Effect</b>: Increase assistants production based on total time spent being Evil. (This R)
+	<p><b>Formula</b>: (8 * x ^ 0.8)%, where x is your Time Spent Being Evil stat.
+	" coords="443,1338,492,1385" shape="rect">
+        <area research="W1275 - For All Factions
+	<p><b>Research Name</b>: Authority
+	<p><b>Requirement</b>: 43200s (12 hours) Call to Arms Cast Time (This game).
+	<p><b>Cost</b>: 152.4 Dvg (1.524e71)
+	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Non-Unique buildings you own.
+	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Non-Unique buildings you own.
+	" coords="498,1336,546,1385" shape="rect">
+        <area research="W1375 - For All Factions
+	<p><b>Research Name</b>: Scavenging
+	<p><b>Requirement</b>: 604800s 7 days spent as evil (Across all Rs)
+	<p><b>Cost</b>: 137.8 Qavg (1.378e77)
+	<p><b>Effect</b>: Increases Faction Coin find chance by a multiplicative 200%.
+	<p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of assistants you own.
+	<p><b>Formula</b>: (100 * x ^ 0.5), where x is assistants.
+	" coords="2,1390,50,1439" shape="rect">
+        <area research="W1400 - For Dragon
+	<p><b>Research Name</b>: Cataclysm
+	<p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon
+	<p><b>Cost</b>: 4.249 Qivg (4.249e78)
+	<p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.
+	<p><b>Formula</b>: (650 * x ^ 0.35), where x is clicks (this game).
+	" coords="58,1392,105,1438" shape="rect">
+        <area research="W3050 - For Mercenary
+	<p><b>Research Name</b>: Flanking
+	<p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).
+	<p><b>Cost</b>: 809 SpQig (8.09e176)
+	<p><b>Effect</b>: Increases the production of buildings one tier directly above or below a Unique Building based on the amount of assistants you own.
+	<p><b>Formula</b>: (2 * x ^ 0.8), where x is assistants.
+	" coords="114,1390,162,1439" shape="rect">
+        <area research="W3150 - For All Factions
+	<p><b>Research Name</b>: Upheaval
+	<p><b>Requirement</b>: 60000 Farms, Inns and Blacksmiths.
+	<p><b>Cost</b>: 731.6 NoQig (7.316e182)
+	<p><b>Effect</b>: Increases the production of all buildings based on their tier, giving the highest bonus to the lowest.
+	<p><b>Formula</b>: (150 * (12 - T) ^ 2.15), where T is building tier.
+	" coords="168,1390,217,1439" shape="rect">
+        <area research="W5125 - For All Factions
+	<p><b>Research Name</b>: Sovereignty
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase the production of two highest tier buildings based on assistants you own.
+	<p><b>Formula</b>: (x ^ 0.3), where x is assistants
+	" coords="223,1391,271,1438" shape="rect">
+        <area research="W5375 - For Evil
+	<p><b>Research Name</b>: Officers
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Gain assistants multiplicatively based on amount of trophies unlocked.
+	<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies
+	" coords="278,1390,329,1439" shape="rect">
+        <area research="W5625 - For All Factions
+	<p><b>Research Name</b>: Concealment
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Offline time counts more based on Mana Produced in this game.
+	<p><b>Effect</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This game)
+	" coords="333,1390,382,1437" shape="rect">
+        <area research="W5875 - For All Factions
+	<p><b>Research Name</b>: Patience
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Time spent with Prestige Counts 500% more.
+	<p><b>Effect</b>: Time spent with Elite factions Counts 1000% more.
+	" coords="388,1391,436,1438" shape="rect">
+        <area research="F5250 - For All Factions
+	<p><b>Research Name</b>: Dreamwalking
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase Offline Bonus based on time spent offline in this Reincarnation.
+	<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time (This R)
+	" coords="113,1463,161,1511" shape="rect">
+        <area research="F5500 - For All Factions
+	<p><b>Research Name</b>: Gathering
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Additively increase production bonus from Gems based on your Faction Coin find chance.
+	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is faction coin find chance
+	" coords="169,1463,216,1511" shape="rect">
+        <area research="F5750 - For All Factions
+	<p><b>Research Name</b>: Corruption
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Gain the base Union effect of your opposite Alignment.
+	<p><b>Note</b>: Neutral and Balance don’t have opposites so they stay the same
+	" coords="223,1462,272,1511" shape="rect">
+        <area research="F6000 - For All Factions
+	<p><b>Research Name</b>: Inevitability
+	<p><b>Requirement</b>: R175+
+	<p><b>Effect</b>: Increase your next time head start based on time spent in this game.
+	<p><b>Formula</b>: (x ^ 0.75), where x is time spent (This Game)
+	" coords="279,1464,326,1511" shape="rect">
+        <area research="Unlocked Upgrade (X): You cannot use this upgrade with the faction you are playing. (There is an option to hide these icons.)
+	" coords="499,193,548,239" shape="rect">
+        <area research="Locked Upgrade (! exclamation mark): You can unlock this upgrade with the Faction you are playing. The Icon tool-tip will show your unlock progress %.
+	" coords="498,435,548,485" shape="rect">
+        <area research="Locked Upgrade (? question mark): You cannot unlock this upgrade with the Faction you are playing.
+	" coords="500,676,549,723" shape="rect">
     </map>
     <?php include "../scripts/footer.html"; ?>
+                   

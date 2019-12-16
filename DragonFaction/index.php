@@ -197,13 +197,13 @@
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order this R.</p>
-<p><b>Formula</b>: (6.5 * x ^ 0.65), where x is time spent as Order this R.</p>
+<p><b>Formula</b>: (7 * x ^ 0.7), where x is time spent as Order this R.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on (ln(x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (25 * 0.6 * x ^ 0.6), where x is assistant count.</p>
+<p><b>Formula</b>: Non-Unique (0.2 * x ^ 0.8), where x is assistant count.</p>
 <p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is assistant count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>

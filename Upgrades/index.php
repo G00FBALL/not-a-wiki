@@ -642,7 +642,7 @@
             <p><b>Requirement</b>: Flesh Workshop Quest, Evil alignment, Proof of Order</p>
             <p><b>Effect</b>: Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
             <p><b>Effect</b>: Increase production based on mana regen.</p>
-            <p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
+            <p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
             <p><b>Effect</b>: Also grants access to Faction Union.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> <b>Burning Abyss</b></p>
@@ -1094,7 +1094,7 @@
             <p><b>Effect</b>: Increases offline production by 500%.
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/NonexistentRuler.png" alt="" align="middle"> <b>Nonexistent Ruler</b></p>
-            <p><b>Cost</b>: 10 Qig (1E154)
+            <p><b>Cost</b>: 10 Spd (1E55)
             <p><b>Unlock Requirements</b>: 36 consecutive hours offline
             <p><b>Alignment</b>: Any
             <p><b>Effect</b>: Increases offline production by 1500%
@@ -1433,17 +1433,17 @@
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png"" align="middle"> <b>Archon Quest</b></p>
             <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
-            <p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this Reincarnation.</p>
             <p><b>Effect</b>: Unlocks Archon Faction</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png"" align="middle"> <b>Djinn Quest</b></p>
             <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
-            <p><b>Requirement</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this game.</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this Reincarnation.</p>
             <p><b>Effect</b>: Unlocks Djinn Faction</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png"" align="middle"> <b>Makers Quest</b></p>
             <p><b>Cost</b>: 1 Ocqag (1e147) Emerald Coins</p>
-            <p><b>Requirement</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this game.</p>
+            <p><b>Requirement</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this Reincarnation.</p>
             <p><b>Effect</b>: Unlocks Makers Faction</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Assistant Upgrades</a></b></p>
@@ -2181,7 +2181,7 @@ div#images div{
 <p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
 <br/>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
-<p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
+<p><b>Formula</b>: (x ^ 0.75), where x royal exchanges made.</p>
             <hr>
             <p><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png" align="middle"><b> Faction Ruler</b></p>
             <p><b>Requirements</b>: Unlock all the Advanced Heritages</p>
@@ -2304,7 +2304,7 @@ div#images div{
             <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
             <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
             <p><b>Effect</b>: Scale off invisible spell duration modifiers.</p>
-            <p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
+            <p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
             <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
             <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active</p>
             <hr>

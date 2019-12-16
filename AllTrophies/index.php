@@ -508,7 +508,7 @@ div#images div{
 <p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
 <br/>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
-<p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
+<p><b>Formula</b>: (x ^ 0.75), where x royal exchanges made.</p>
 <hr>
 <p><img src=http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png align=middle><b> Faction Ruler</b></p>
 <p><b>Requirements</b>: Unlock all the Advanced Heritages</p>
@@ -1804,7 +1804,7 @@ div#images div{
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 <p><b>Effect</b>: Now scale off invisible spell duration modifiers.</p>
-<p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>

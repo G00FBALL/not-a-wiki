@@ -138,8 +138,8 @@
 <p><b>Requirement</b>: Swarming Towers Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase assistant production based on amount of Enchanted Fields, Inns and Blacksmiths if building count is even, or all other buildings if building count is odd.</p>
-<p><b>Even Formula</b>: (15 * x ^ 0.5), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
-<p><b>Odd Formula</b>: (15 * x ^ 0.5), where x is T4-T11 Buildings (If building count is odd)</p>
+<p><b>Even Formula</b>: (6 * x ^ 0.6), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
+<p><b>Odd Formula</b>: (6 * x ^ 0.6), where x is T4-T11 Buildings (If building count is odd)</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" alt="Bubble Swarm" align="middle"> <b>Bubble Swarm</b></p>

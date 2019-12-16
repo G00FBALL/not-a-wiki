@@ -45,7 +45,7 @@
                     <p id="R41UniBuiPro"></p>
                     <p id="R45MaxMan"></p>
                     <p id="R50FCChaAdd"></p>
-                    <p id="R60FCChaMul"></p>
+                    <p id="R58FCChaMul"></p>
                     <p id="R70AddResSlo"></p>
                     <p id="R85AssPerR"></p>
                     <p id="R100ManRegPerR"></p>
@@ -128,7 +128,7 @@
                 , function(rei) {return 2.5 * Math.pow(rei, 1.1);}
                 , function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
                 ],
-                [ 60, '#R60FCChaMul', false, 0
+                [ 60, '#R58FCChaMul', false, 0
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
                 ],
@@ -361,7 +361,7 @@
                 <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
                 <br/>
                 <p><b>115th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
+                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R58 power)</p>
                 <br/>
                 <p><b>120th Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase the production of all buildings based on Reincarnations made.</p>
@@ -386,7 +386,7 @@
                 <p><b>R46</b>: Neutral Prestige (Dragons)</p>
                 <p><b>R47</b>: Neutral Prestige Research</p>
                 <p><b>R48-R65</b>: Dragon Challenges</p>
-                <p><b>R60</b>: Lineages and Perks</p>
+                <p><b>R58</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
                 <p><b>R100</b>: Second Ascension, New Alignments (Mercenary Removed)</p>
                 <p><b>R111</b>: Base Union</p>

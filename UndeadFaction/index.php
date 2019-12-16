@@ -129,7 +129,7 @@
 <p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
-<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
+<p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
@@ -137,20 +137,20 @@
 <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (75 * ln(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (100 * ln(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
-<p><b>Formula</b>: (1.25 * x ^ 0.7), where x is amount of Flesh Workshop owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Flesh Workshop owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (15 * x ^ 0.85), where x is offline time this R.</p>
+<p><b>Formula</b>: (20 * x ^ 0.9), where x is offline time this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>

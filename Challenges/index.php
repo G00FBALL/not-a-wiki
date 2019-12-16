@@ -158,7 +158,7 @@
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png align=middle> <b>Avarice Drive</b></p>
-	<p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>"
+	<p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>"
 	coords="7,359,62,413" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC1" target="" research=
 	"<p><b>Goblin Challenge 1</b></p>
@@ -564,7 +564,7 @@
 	<p><b>Challenge</b>: Have a combined total of 8 days played as faceless and dragons with a minimum of 2 days as each one.</p>
 	<p><b>Effect</b>: Ascension 1 penalty from Deep Memory is removed and its bonus increased. Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
 	<p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
-	<p><b>Formula</b>: floor(3 * x ^ 0.65)%, where x is your amount of Sunken Cities.</p>
+	<p><b>Formula</b>: (3 * x ^ 0.65)%, where x is your amount of Sunken Cities.</p>
 	<p><b>Upgrade</b>: Works with Faceless+Dragon</p>"
 	coords="200,1189,254,1242" shape="rect">
     <area href="http://musicfamily.org/realm/Dragons/#DragonDC4" target="" research=
@@ -618,7 +618,7 @@
 	<p><b>Requirements</b>: Undead as Base Faction, Archon as Elite Faction, Reincarnation 139+, Archon Bloodline active, Archon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Have an Offline Bonus of at least 300 No (3e32)% while also having at least 4.5 B (4.5e9) assistants.</p>
 	<p><b>Effect</b>: Multiplicatively increase assistants based on Offline Bonus.</p>
-	<p><b>Formula</b>: (1.75 * log10(1 + x) ^ 1.75), where x is offline bonus multiplier</p>
+	<p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is offline bonus multiplier</p>
 	<p><b>Effect</b>: Temporal Flux also increases Offline Bonus. (Same Formula as production bonus)</p>
 	<p><b>Upgrade</b>: Works with Undead+Drow+Archon</p>"
 	coords="133,1287,191,1341" shape="rect">
@@ -630,7 +630,7 @@
 	<p><b>Challenge</b>: Have an individual Royal Exchange bonus of at least 5000% within 5 minutes of a new game.</p>
 	<p><b>Effect</b>: Reduce Royal Exchange cost multiplier by -0.02 and increase Royal Exchange bonus by 100%.</p>
 	<p><b>Effect</b>: Multiplicatively increase time spent in this game based on Royal Exchanges bought.</p>
-	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 1.25), where x is Royal Exchanges bought.</p>
+	<p><b>Formula</b>: (3 * ln(x) ^ 1.3), where x is Royal Exchanges bought.</p>
 	<p><b>Upgrade</b>: Works with Titan+Dragon+Archon</p>"
 	coords="197,1287,257,1341" shape="rect">
     <area href="http://musicfamily.org/realm/Archon/#ArchonAC4" target="" research=
@@ -649,7 +649,7 @@
 	<p><b><img src=http://musicfamily.org/realm/Factions/picks/PowerOverwhelming.png align=middle> Power Overwhelming</b></p>
 	<p>&quot;All-powerful ruler, we've experienced all this worldline had to offer. Shall we bridge to another and continue?&quot;</p>
 	<p><b>Requirements</b>: Angel, Undead or Titan as Base Faction, Archon as Elite Faction, Reincarnations 153+, Have all Order Lineages at least level 45, Archon challenge 4 completed.</p>
-	<p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 390% bonus.</p>
+	<p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 350% bonus.</p>
 	<p><b>Effect</b>: The Advanced Heritage that matches your Lineage counts 50% (up from 30%) of its level. All others get 5% (up from 0%) of their respective Lineage level.</p>
 	<p><b>Upgrade</b>: Works with All</p>"
 	coords="325,1289,384,1341" shape="rect">
@@ -676,9 +676,9 @@
 	<p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, Reincarnation 139+, Djinn Bloodline active, Djinn challenge 1 completed.</p>
 	<p><b>Challenge</b>: Have at least 66 B (6.6e10) Mana Produced within 6 hours of a new game.</p>
 	<p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
-	<p><b>Formula</b>: Multiplicative: (0.8 * x ^ 0.8), where x is Hellfire Blast casts (this game).</p>
+	<p><b>Formula</b>: Multiplicative: (0.78 * x ^ 0.78), where x is Hellfire Blast casts (this game).</p>
 	<p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
-	<p><b>Formula</b>: Additive: (x ^ 0.7), where x is number of trophies. Applies only for real evil spells, adds casts directly to the spell’s casts.</p>
+	<p><b>Formula</b>: Additive: (x ^ 0.65), where x is number of trophies. Applies only for real evil spells, adds casts directly to the spell’s casts.</p>
 	<p><b>Upgrade</b>: Works with Demon+Drow+Djinn</p>"
 	coords="132,1384,191,1438" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC3" target="" research=
@@ -687,9 +687,9 @@
 	<p>&quot;Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels.&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have at least 100 B (1e11) base assistants within 5 minutes of a new game.</p><p><b>Effect</b>: Catalyst casts one additional spell.</p>
-	<p><b>Effect</b>: Catalyst also adds 100 casts per spell<p><b>Effect</b>: Makes Limited Wish scale faster based on Research Points used in this game.</p>
-	<p><b>Formula</b>: (y = ln(1 + sum of x))%, where x =  all selected researches' number (e.g. W275 = 275)</p>
-	<p><b>Formula</b>: y converted to a multiplier (so 5% = 1.05) is applied to both exponents of LW: ((2.25 * ln(1 + a) ^ (1.35 * y)) * (b ^ (0.45 * y)), where a is duration, b is casts.</p>
+	<p><b>Effect</b>: Catalyst also adds 100 casts per spell
+	<p><b>Effect</b>: Increase the minimum value on which Limited Wish is based.</p>
+	<p><b>Formula</b>: Increase the minimum value on which Limited Wish is based.</p>
 	<p><b>Upgrade</b>: Works with Faceless+Dragon+Djinn</p>"
 	coords="197,1385,254,1438" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC4" target="" research=
@@ -707,14 +707,12 @@
 	<p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnations 153+, All Chaos Lineages at level 45, Djinn challenge 4 completed.</p>
 	<p><b>Challenge</b>: Cast all Chaos spells 88 times each in a single Reincarnation.</p><p><b>Spells</b>: Fairy Chanting, HFB, Brainwave, Maelstrom, LW, Catalyst</p>
 	<p><b>Effect</b>: Multiplicatively increases one of your assets based on the amount of alignments tied to your faction spells.</p>
-	<p><b>Good</b>: Assistants</p>
-	<p><b>Evil</b>: Trophy Count</p>
-	<p><b>Neutral</b>: Production Bonus from Gems</p>
+	<p><b>Good</b>: Assistants</p><p><b>Evil</b>: Trophy Count</p><p><b>Neutral</b>: Production Bonus from Gems</p>
 	<p><b>Order</b>: Mana Regeneration</p>
 	<p><b>Chaos</b>: Maximum Mana</p>
 	<p><b>Balance</b>: Faction Coin Find Chance</p>
-	<p><b>Formula</b>: (50 ^ (1 + 0.25 * x))% where x is amount of spells with a given alignment.</p>
-	<p><b>Upgrade</b>: Works with All</p>"
+	<p><b>Upgrade</b>: Works with All</p>
+	<p><b>Formula</b>: (50 ^ (1 + 0.25 * x))% where x is amount of spells with a given alignment.</p>"
 	coords="325,1384,384,1438" shape="rect">
     <area href="http://musicfamily.org/realm/Makers/#MakersMCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
@@ -742,7 +740,7 @@
 	<p><b>Effect</b>: While Mana Regeneration is higher than Maximum Mana, each time you cast a spell, you also cast free Tax Collections based on the difference between them.</p>
 	<p><b>Formula</b>: (((log10(1 + x)) ^ 2.5 - (log10(1 + y)) ^ 2.5) ^ 1.25). where x is mana regen, y is max mana.</p>
 	<p><b>Effect</b>: Production bonus from Gems is increased nultiplicatively based on Tax Collections cast in this game.</p>
-	<p><b>Formula</b>: (0.7 * ln(1 + x) ^ 1.7), where x is number of Tax Collections. (This game)</p>
+	<p><b>Formula</b>: (ln(x) ^ 2), where x is number of Tax Collections. (This game)</p>
 	<p><b>Upgrade</b>: Works with Goblin+Drow+Makers</p>"
 	coords="130,1481,192,1537" shape="rect">
     <area href="http://musicfamily.org/realm/Makers/#MakersMC3" target="" research=
@@ -752,7 +750,7 @@
 	<p><b>Requirements</b>: Druid as Base Faction, Makers as Elite Faction, Reincarnation 143+, 25,000 excavations, Druid Set active, Makers challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have at least 1 B (1e9) Maximum Mana and 30000 of each building within 5 minutes of a new game.</p>
 	<p><b>Effect</b>: Assistants and Maximum Mana Infinite Spiral effects are also increased by Mana Regeneration.</p>
-	<p><b>Formula</b>: (12.5 * (ln(1 + x * y) ^ 1.25), where x is max mana, y is mana regen</p>
+	<p><b>Formula</b>: (12.5 * (ln(1 + x * y) ^ 1.3), where x is max mana, y is mana regeneration</p>
 	<p><b>Effect</b>: Your Lineage levels count double.</p>
 	<p><b>Upgrade</b>: Works with Druid+Dragon+Makers</p>"
 	coords="195,1482,257,1536" shape="rect">

@@ -432,7 +432,7 @@ div#images div{
 <p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
 <br>
 <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
-<p><b>Formula</b>: (0.8 * x ^ 0.8), where x royal exchanges made.</p>
+<p><b>Formula</b>: (x ^ 0.75), where x royal exchanges made.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png" align="middle"> Faction Ruler</b></p>
 <p><b>Requirements</b>: Unlock all the Advanced Heritages</p>

@@ -15,7 +15,7 @@
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 <p><b>Note</b>: Scale off invisible spell duration modifiers.
-<p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active</p>
 <hr>
@@ -44,7 +44,7 @@
 <p><b>Effect</b>: Increase Faction Coin find chance by 500%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
-<p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this game.</p>
+<p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this Reincarnation.</p>
 <p><b>Cost</b>: 1 Ocqag (1e147)</p>
 <p><b>Effect</b>: Unlocks Archon Faction</p>
 <hr>

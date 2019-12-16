@@ -85,27 +85,27 @@
 <p><b>Requirement</b>: Flesh Workshop Quest</p>
 <p><b>Effect</b>: Increase production based on mana regen.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (15 * x ^ 0.65), where x is mana regen per second.</p>
+<p><b>Formula</b>: (35 * x ^ 0.65), where x is mana regen per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> <b>Undead Union</b></p>
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
 <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (75 * log10(x) ^ 2.25), where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (100 * ln(1 + x) ^ 2.25), where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
-<p><b>Formula</b>: (1.25 * x ^ 0.7), where x is amount of Flesh Workshop owned.</p>
+<p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Flesh Workshop owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Undead Union</p>
 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-<p><b>Formula</b>: (15 * x ^ 0.85), where x is offline time this R.</p>
+<p><b>Formula</b>: (20 * x ^ 0.9), where x is offline time this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
@@ -199,8 +199,8 @@
 <p><b>Requirement</b>: Swarming Towers Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase assistant production based on amount of Enchanted Fields, Inns and Blacksmiths if building count is even, or all other buildings if building count is odd.</p>
-<p><b>Formula</b>: (15 * x ^ 0.475), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
-<p><b>Formula</b>: (15 * x ^ 0.475), where x is T4-T11 Buildings (If building count is odd)</p>
+<p><b>Formula</b>: (6 * x ^ 0.6), where x is Enchanted Fields, Inns and Blacksmiths (If building count is even)</p>
+<p><b>Formula</b>: (6 * x ^ 0.6), where x is T4-T11 Buildings (If building count is odd)</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" alt="Bubble Swarm" align="middle"> <b>Bubble Swarm</b></p>
@@ -289,7 +289,7 @@
 <p><b>Requirement</b>: Forbidden Library Unique Building</p>
 <p><b>Effect Requirement</b>: R111+
 <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
-<p><b>Formula</b>: (50 * x ^ 0.5), where x is random faction all time in seconds.</p>
+<p><b>Formula</b>: (60 * x ^ 0.6), where x is random faction all time in seconds.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
@@ -363,8 +363,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Elven Union</p>
-<p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
-<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistant count.</p>
+<p><b>Effect</b>: Assistants and Clicks count 1,000% more for all purposes and increase assistant production based on assistant amount.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is amount of Flesh Workshop owned.</p>
 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" alt="Elven Discipline" align="middle"> <b>Elven Discipline</b></p>
@@ -496,7 +496,7 @@
 <p><b>Formula</b>: (1.25 * ln(1 + x) ^ 2.45), where x is amount of clicks made this Reincarnation.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-<p><b>Formula</b>: (y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, 2 * sum(mod(x,10) ^ y) ^ 0.9</p>
+<p><b>Formula</b>: ((y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, sum(mod(x, 10) ^ y) ^ 0.9)</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
@@ -585,13 +585,13 @@
 <br/>
 <p><b>Other Effects</b></p>
 <p><b>Proof of Order</b>:  Increase the production of all buildings based on time spent as Order.</p>
-<p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time spent as Order this R.</p>
+<p><b>Formula</b>: (7 * x ^ 0.7), where x is time spent as Order this R.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3)%, where x is Lineage level.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on (ln(x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (25 * 0.6 * x ^ 0.6), where x is assistant count.</p>
+<p><b>Formula</b>: Non-Unique (0.2 * x ^ 0.8), where x is assistant count.</p>
 <p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is assistant count.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>

@@ -959,7 +959,7 @@
                 <p><b>Requirement</b>: A2, Elven Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
-                <p><b>Formula</b>:  (0.75 * x ^ 0.75), where x is assistant count.</p>
+                <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
                 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" align="middle"> Elven Discipline</b></p>
@@ -1022,14 +1022,14 @@
                 <p><b>Requirement</b>: A2, Undead Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
-                <p><b>Formula</b>: (1.2 * x ^ 0.65), where x is amount of Flesh Workshop owned.</p>
+                <p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Flesh Workshop owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" align="middle"> Zombie Apocalypse</b></p>
                 <p><b>Mercenary Template</b>: UD11</p>
                 <p><b>Requirement</b>: A2, Undead Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-                <p><b>Formula</b>: (15 * x ^ 0.85), where x is offline time this R.</p>
+                <p><b>Formula</b>: (20 * x ^ 0.9), where x is offline time this R.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" align="middle"> Eternal Servitude</b></p>
                 <p><b>Mercenary Template</b>: UD12</p>

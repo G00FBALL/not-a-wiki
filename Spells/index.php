@@ -256,7 +256,7 @@
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/CallToArms.png" alt="All Factions" align="middle"> Call to Arms</b> (All Factions)</p>
     <p><b>Works For</b>: All - <b>Cost</b>: 400 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
-    <p><b>Formula</b>: ((0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
+    <p><b>Formula</b>: ((25 + 0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Call to Arms Tier 2-7</a></b></p>
@@ -632,7 +632,7 @@
     <p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
     <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png" align="middle"> <b>Avarice Drive</b></p>
-    <p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>
+    <p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>
     <div class="shlisting">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin's Greed Tier 2-7</a></b></p>
@@ -1080,7 +1080,7 @@
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
-<p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
 <p><b>Effect</b>: Also scale off invisible spell duration modifiers.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118), A3+ Free<p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/Omniscience.png" align="middle"> <b>Omniscience</p></b>

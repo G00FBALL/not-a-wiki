@@ -400,7 +400,7 @@
         <p><b>Old Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
         <p><b>Old Formula</b>: (0.75 * x ^ 0.75), where x is assistant count.</p>
         <p><b>New Effect</b>: Assistants and Clicks count 1,000% more for all purposes and increase assistant production based on assistant amount.</p>
-        <p><b>New Formula</b>: (0.7 * x ^ 0.7), where x is amount of Flesh Workshop owned.</p>
+        <p><b>New Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
         <br/>
         <p><b>Undead</b></p>
         <p><b>Flesh Servants (Undead 10)</b></p>
@@ -501,7 +501,7 @@
         <p><b>New Tutorials</b>: Multibuy, Treaties, Free Treaty Description, Automatic Casting, Spell Tiers, Bloodline Selection, 2nd Ascension + Alignments, Lineages</p>
         <p><b>Fixed</b>: Many tooltips</p>
         <hr>
-        <p><b>Old Patches (Not up yet)</b></p>
+        <p><b>Old Patches</b></p>
         <p><a href="http://musicfamily.org/realm/3.6Patch/" target="_blank"><b>V3.6</b></a>
             <a href="http://musicfamily.org/realm/3.5Patch/" target="_blank"><b>V3.5</b></a>
             <a href="http://musicfamily.org/realm/3.4Patch/" target="_blank"><b>V3.4</b></a>

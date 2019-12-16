@@ -239,7 +239,7 @@
 <p><b>Cost</b>: 10 Octg (1e118)</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 <p><b>Effect</b>: Scale off invisible spell duration modifiers.
-<p><b>Formula</b>: (25 * x ^ 0.55), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active.</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> Persistent Entropy</p></b>
