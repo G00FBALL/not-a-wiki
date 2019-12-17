@@ -634,7 +634,7 @@
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Factory.png align=middle> <b>Factory</b></p>
     <p><b>Clue</b>: Dig it manually.</p>
     <p><b>Description</b>: Mass-production is the way to go.</p>
-    <p><b>Requirement</b>: R175, True Neutral Alignment</p>
+    <p><b>Requirement</b>: R175, Neutral Alignment</p>
     <p><b>Chance</b>: (log10(x) ^ 3 / 10000), where x is clicks (This Game)</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Factory artifact and upgrade.</p>
@@ -671,7 +671,7 @@
     <p><b>Chance</b>: (x / 1000000), where x is Alchemy Research Points.</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Alchmey research facility, permanently increasing Alchmey budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 2500.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Undead Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="195,621,253,676" shape="rect">

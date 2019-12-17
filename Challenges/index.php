@@ -687,9 +687,9 @@
 	<p>&quot;Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels.&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have at least 100 B (1e11) base assistants within 5 minutes of a new game.</p><p><b>Effect</b>: Catalyst casts one additional spell.</p>
-	<p><b>Effect</b>: Catalyst also adds 100 casts per spell
+	<p><b>Effect</b>: Catalyst also adds 100 casts per spell.</p>
 	<p><b>Effect</b>: Increase the minimum value on which Limited Wish is based.</p>
-	<p><b>Formula</b>: Increase the minimum value on which Limited Wish is based.</p>
+	<p><b>Formula</b>: (0.1 * x ^ 0.9), where x is research points spent.</p>
 	<p><b>Upgrade</b>: Works with Faceless+Dragon+Djinn</p>"
 	coords="197,1385,254,1438" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC4" target="" research=
