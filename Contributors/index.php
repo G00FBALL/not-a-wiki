@@ -4,6 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>Thank you for all your help</h6>
+<p>burninglegion64</p>
 <p>Aaborg</p>
 <p>Cyden</p>
 <p>Eltro</p>
