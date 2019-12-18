@@ -625,7 +625,6 @@
     <p><b>Requirement</b>: R175, Chaos Alignment</p>
     <p><b>Chance</b>: (log10(x) ^ 3 / 50000), where x is mana produced (This Game)</p>
     <p><b>Effect</b>: Gives upgrade with the same name</p>
-    <p><b>Effect</b>: Expands Spellcraft Facility by 1 slot.</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Mana Loom artifact and upgrade.</p>
     <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 2500.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Fairy Coins</p>
