@@ -178,7 +178,7 @@
             <center>
                 <p><b>Event Panel</b></p>
                 <p>Event-related items can be viewed in the Event Panel</a>, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-                <p><img src="/admincontrols/Factions/picks/TotalEvent3.7.png" usemap="#TotalEvent3.7.-map">
+                <p><img src="/realm/Factions/picks/TotalEvent3.7.png" usemap="#TotalEvent3.7.-map">
                     <map name="TotalEvent3.7.-map">
                         <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,45,64,100" shape="rect">
                         <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="68,41,126,100" shape="rect">
@@ -187,7 +187,7 @@
                         <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Snowpile42016.png align=middle> Snowpile<p>Type: Feat, 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="261,44,317,100" shape="rect">
                         <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/GiftCollector2016.png align=middle> Gift Collector<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,44,381,99" shape="rect">
                         <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/FreezingHell2018.png align=middle> Freezing Hell<p>Type: Feat<p>Requirement: Collect at least 480 Snowballs with a single click while affiliated with the Demons." coords="389,44,445,100" shape="rect">
-                        <area research="Christmas<p><img src=http://musicfamily.org/admincontrols/Factions/picks/PerfectSnowflake.png align=middle> Perfect Snowflake<p>Type: Feat<p>Requirement: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.<p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p><p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>" coords="4,107,61,165" shape="rect">
+                        <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/PerfectSnowflake.png align=middle> Perfect Snowflake<p>Type: Feat<p>Requirement: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.<p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p><p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>" coords="4,107,61,165" shape="rect">
                         <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png align=middle> Feel the Love<p>Type: Feat, 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="69,108,126,164" shape="rect">
                         <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/ILoveYouinEveryLanguage2017.png align=middle> I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="133,106,190,164" shape="rect">
                         <area research="Valentines 2018<p><img src=http://musicfamily.org/realm/Factions/picks/AssistantLove2018.png align=middle> Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock this feat, you will permanently unlock a new color option for the mana bar." coords="195,107,253,164" shape="rect">
@@ -321,7 +321,7 @@
                             <p><b><img src="/realm/Factions/picks/SpectralSurge.png" align="middle"> Spectral Surge (Halloween Event)</b></p>
                             <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
                             <br/>
-                            <p><b><img src="/admincontrols/Factions/picks/PerfectSnowflake.png" align="middle"> Perfect Snowflake (Christmas Event)</b></p>
+                            <p><b><img src="/realm/Factions/picks/PerfectSnowflake.png" align="middle"> Perfect Snowflake (Christmas Event)</b></p>
                             <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p>
                         </div>
                     </div>
@@ -446,7 +446,7 @@
                                 <p><b>Type</b>: Feat</p>
                                 <p><b>Requirement</b>: Collect at least 480 Snowballs with a single click while affiliated with the Demons.</p>
                                 <br/>
-                                <p><b><img src="/admincontrols/Factions/picks/PerfectSnowflake.png" align="middle"> Perfect Snowflake</b></p>
+                                <p><b><img src="/realm/Factions/picks/PerfectSnowflake.png" align="middle"> Perfect Snowflake</b></p>
                                 <p><b>Type</b>: Feat</p>
                                 <p><b>Requirement</b>: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.</p>
                                 <p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>
