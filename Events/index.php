@@ -462,18 +462,13 @@
                                 <p><b>Cost</b>: 15 Rubies</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/6000Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 6000 Snowballs</b></p>
-                                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 6000 Snowballs for 45 Rubies. He will offer you a new deal if you accept.</p>
+                                <p><b>6000 Snowballs</b>: An adventurer wants to sell you 6000 Snowballs for 45 Rubies. He will offer you a new deal if you accept.</p>
                                 <p><b>Cost</b>: 45 Rubies</p>
                                 <br/>
-                                <p><b><img src="/realm/Factions/picks/13500Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 13500 Snowballs</b></p>
-                                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.</p>
+                                <p><b><img src="/realm/Factions/picks/13500Snowballs2016Shop.png" alt="13500 Snowballs" align="middle"> 13500 Snowballs</b></p>
+                                <p><b>13500 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.</p>
                                 <p><b>Cost</b>: 100 Rubies</p>
-                                <p><b>Scrying</b></p>
-                                <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.</p>
                                 <br/>
-                                <p><b><img src="/realm/Factions/picks/13500Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 13500 Snowballs</b></p>
-                                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.</p>
-                                <p><b>Cost</b>: 100 Rubies</p>
                                 <p><b>Scrying</b></p>
                                 <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.</p>
                             </div>
@@ -2626,10 +2621,10 @@
                                 <p><b>1750 Snowballs</b>: An adventurer wants to sell you 1750 Snowballs for 15 Rubies. He will offer you a new deal if you accept.</p>
                                 <p><b>Cost</b>: 15 Rubies</p>
                                 <p><b><img src="/realm/Factions/picks/6000Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 6000 Snowballs</b></p>
-                                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 6000 Snowballs for 45 Rubies. He will offer you a new deal if you accept.</p>
+                                <p><b>6000 Snowballs</b>: An adventurer wants to sell you 6000 Snowballs for 45 Rubies. He will offer you a new deal if you accept.</p>
                                 <p><b>Cost</b>: 45 Rubies</p>
                                 <p><b><img src="/realm/Factions/picks/13500Snowballs2016Shop.png" alt="6000 Snowballs" align="middle"> 13500 Snowballs</b></p>
-                                <p><b>1750 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.</p>
+                                <p><b>13500 Snowballs</b>: An adventurer wants to sell you 13500 Snowballs for 100 Rubies. This is all the snow he could gather.</p>
                                 <p><b>Cost</b>: 100 Rubies</p>
                                 <p><b>Scrying</b></p>
                                 <p><b>Effect</b>: Produce 1 snowball every 5 minute for 4 hours.</p>
