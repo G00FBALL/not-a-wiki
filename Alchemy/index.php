@@ -229,28 +229,28 @@
         <hr>
         <p><b>A5125</b> - For All Factions</p>
         <p><b>Research Name</b>: Putrefaction</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R175+, Forgotten Relic, Athanor artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase the production of Non-Unique buildings based on the longest time spent without abdicating in this Reincarnation.</p>
         <p><b>Formula</b>: (x ^ 0.75), where x is the longest time spent without abdicating (This R, can also be This Game)</p>
         <hr>
         <p><b>A5375</b> - For Order</p>
         <p><b>Research Name</b>: Albedo</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R177+, Forgotten Relic, Athanor artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase all spells duration based on spell casts in this game.</p>
         <p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game</p>
         <hr>
         <p><b>A5625</b> - For All Factions</p>
         <p><b>Research Name</b>: Reduction</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R179+, Forgotten Relic, Athanor artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Reduce all spells cost based on their individual duration.</p>
         <p><b>Formula</b>: Additive reduction: ((x/y) ^ 0.65), where x is duration and y is base duration.</p>
         <hr>
         <p><b>A5875</b> - For All Factions</p>
         <p><b>Research Name</b>: Equivalence</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R181+, Forgotten Relic, Athanor artifact and upgrade/p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on Faction Coin found in this game.</p>
         <p><b>Formula</b>: (log10(x) ^ 1.5), where x is faction coins this game</p>

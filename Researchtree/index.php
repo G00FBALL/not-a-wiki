@@ -412,26 +412,26 @@
 	" coords="168,193,216,240" shape="rect">
         <area research="S5125 - For All Factions
 	<p><b>Research Name</b>: Spilling
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Mana Loom artifact and upgrade
 	<p>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.
 	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This Game)
 	" coords="224,193,273,240" shape="rect">
         <area research="S5375 - For Chaos
 	<p><b>Research Name</b>: Invocation
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Mana Loom artifact and upgrade
 	<p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the activity time of your least used spell.
     <p><b>Additive</b>: (1000 + 80 * x ^ 0.8), where x is spell activity time in seconds.</p>
     <p><b>Multiplicative</b>: (0.6 * x ^ 0.6), where x is spell activity time in seconds.</p>
 	" coords="277,194,327,241" shape="rect">
         <area research="S5625 - For All Factions
 	<p><b>Research Name</b>: Leylines
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Mana Loom artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on assistants owned.
 	<p><b>Formula</b>: (0.65 * x ^ 0.35), where x is assistants
 	" coords="332,194,382,241" shape="rect">
         <area research="S5875 - For All Factions
 	<p><b>Research Name</b>: Mirrors
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Mana Loom artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Assistants based on Spell casts in this game.
 	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game
 	" coords="389,192,436,241" shape="rect">
@@ -648,13 +648,13 @@
 	" coords="168,438,218,484" shape="rect">
         <area research="C5125 - For All Factions
     <p><b>Research Name</b>: Restaurantian
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Increase the production of all buildings based on assistants owned.
 	<p><b>Formula</b>: (0.75 * x ^ 0.25), where x is assistants owned
 	" coords="224,436,272,484" shape="rect">
         <area research="C5375 - For Neutral
 	<p><b>Research Name</b>: Manufacture
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on Clicks made in this game.
     <p><b>Formulas</b></p>
     <p><b>Additive</b>: (6.5 * x ^ 0.65),  where x is clicks in this game</p>
@@ -662,13 +662,13 @@
 	" coords="278,437,326,485" shape="rect">
         <area research="C5625 - For All Factions
 	<p><b>Research Name</b>: Discovery
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.
 	<p><b>Formula</b>: (0.5 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).
 	" coords="334,437,383,485" shape="rect">
         <area research="C5875 - For All Factions
 	<p><b>Research Name</b>: Genuineness
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on lowest Lineage level.
 	<p><b>Formula</b>: (50 + 1.5 * x ^ 0.95), where x is the lowest lineage.
 	" coords="388,436,436,485" shape="rect">
@@ -877,25 +877,25 @@
 	" coords="168,676,217,724" shape="rect">
         <area research="D5125 - For All Factions
 	<p><b>Research Name</b>: Selection
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Increase the production of Unique buildings based on Clicks in this game.
 	<p><b>Formula</b>: (x ^ 0.4), where x is clicks this game.
 	" coords="223,676,271,724" shape="rect">
         <area research="D5375 - For Good
 	<p><b>Research Name</b>: Zealotry
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Royal Exchanges purchased in this game.
 	<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is royal exchanges this game
 	" coords="278,676,328,724" shape="rect">
         <area research="D5625 - For All Factions
 	<p><b>Research Name</b>: Prophecy
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Empowers the effects of your faction’s Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.
-	<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.
+	<p><b>Formula</b>: (0.3 * x ^ 0.7), where x is your least spent faction time.
 	" coords="334,676,382,723" shape="rect">
         <area research="D5875 - For All Factions
 	<p><b>Research Name</b>: Birthright
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Gain the Bloodline effects of your most used non-mercenary faction.
 	<p><b>Effect</b>: Based on time (This R), can give any vanilla, prestige or elite bloodline
 	" coords="388,673,436,723" shape="rect">
@@ -1105,13 +1105,13 @@
 	" coords="169,913,216,960" shape="rect">
         <area research="E5125 - For All Factions
 	<p><b>Research Name</b>: Decentralization
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Vault artifact and upgrade
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own. Lower tiers get better bonuses.
 	<p><b>Formula</b>: ((6 - 0.5 * T) ^ 2 * x ^ 0.85), where T is building tier and x is the number of (every) buildings you own
 	" coords="224,913,272,960" shape="rect">
         <area research="E5375 - For Balance
 	<p><b>Research Name</b>: Whipround
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Vault artifact and upgrade
 	<p><b>Effect</b>: Increase Royal Exchange bonus additively and multiplicatively based on Tax Collections cast in this game.
     <p><b>Formulas</b></p>
     <p><b>Additive</b>: (x ^ 0.2), where x is tax collections (This game)</p>
@@ -1119,13 +1119,13 @@
 	" coords="278,913,327,960" shape="rect">
         <area research="E5625 - For All Factions
 	<p><b>Research Name</b>: Loan Sharking
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Vault artifact and upgrade
 	<p><b>Effect</b>: Tax Collection is worth more based on Gold owned.
 	<p><b>Formula</b>: (log10(1 + x) ^ 1.8), where x is your current gold
 	" coords="334,912,382,959" shape="rect">
         <area research="E5875 - For All Factions
 	<p><b>Research Name</b>: Prosperity
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Vault artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.
 	<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is your least used faction spell (This game)
 	<p>Note: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.
@@ -1344,25 +1344,25 @@
 	" coords="167,1151,216,1200" shape="rect">
         <area research="A5125 - For All Factions
 	<p><b>Research Name</b>: Putrefaction
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Athanor artifact and upgrade
 	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the longest time spent without abdicating in this Reincarnation.
 	<p><b>Formula</b>: (x ^ 0.75), where x is the longest time spent without abdicating (This R, can also be This Game)
 	" coords="223,1151,271,1200" shape="rect">
         <area research="A5375 - For Order
 	<p><b>Research Name</b>: Albedo
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Athanor artifact and upgrade
 	<p><b>Effect</b>: Increase all spells duration based on spell casts in this game.
 	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game
 	" coords="276,1150,327,1200" shape="rect">
         <area research="A5625 - For All Factions
 	<p><b>Research Name</b>: Reduction
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Athanor artifact and upgrade
 	<p><b>Effect</b>: Reduce all spells cost based on their individual duration.
 	<p><b>Formula</b>: Additive reduction: ((x/y) ^ 0.65), where x is duration and y is base duration.
 	" coords="334,1150,381,1200" shape="rect">
         <area research="A5875 - For All Factions
 	<p><b>Research Name</b>: Equivalence
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Athanor artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on Faction Coin found in this game.
 	<p><b>Formula</b>: (log10(x) ^ 1.5), where x is faction coins this game
 	" coords="389,1150,437,1199" shape="rect">
@@ -1575,49 +1575,49 @@
 	" coords="168,1390,217,1439" shape="rect">
         <area research="W5125 - For All Factions
 	<p><b>Research Name</b>: Sovereignty
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Battlefield artifact and upgrade
 	<p><b>Effect</b>: Increase the production of two highest tier buildings based on assistants you own.
 	<p><b>Formula</b>: (x ^ 0.3), where x is assistants
 	" coords="223,1391,271,1438" shape="rect">
         <area research="W5375 - For Evil
 	<p><b>Research Name</b>: Officers
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Battlefield artifact and upgrade
 	<p><b>Effect</b>: Gain assistants multiplicatively based on amount of trophies unlocked.
 	<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies
 	" coords="278,1390,329,1439" shape="rect">
         <area research="W5625 - For All Factions
 	<p><b>Research Name</b>: Concealment
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Battlefield artifact and upgrade
 	<p><b>Effect</b>: Offline time counts more based on Mana Produced in this game.
 	<p><b>Effect</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This game)
 	" coords="333,1390,382,1437" shape="rect">
         <area research="W5875 - For All Factions
 	<p><b>Research Name</b>: Patience
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Battlefield artifact and upgrade
 	<p><b>Effect</b>: Time spent with Prestige Counts 500% more.
 	<p><b>Effect</b>: Time spent with Elite factions Counts 1000% more.
 	" coords="388,1391,436,1438" shape="rect">
         <area research="F5250 - For All Factions
 	<p><b>Research Name</b>: Dreamwalking
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R176+, Forgotten Relic, Forbidden artifact and upgrade
 	<p><b>Effect</b>: Increase Offline Bonus based on time spent offline in this Reincarnation.
 	<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time (This R)
 	" coords="113,1463,161,1511" shape="rect">
         <area research="F5500 - For All Factions
 	<p><b>Research Name</b>: Gathering
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R178+, Forgotten Relic, Forbidden artifact and upgrade
 	<p><b>Effect</b>: Additively increase production bonus from Gems based on your Faction Coin find chance.
 	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is faction coin find chance
 	" coords="169,1463,216,1511" shape="rect">
         <area research="F5750 - For All Factions
 	<p><b>Research Name</b>: Corruption
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R180+, Forgotten Relic, Forbidden artifact and upgrade
 	<p><b>Effect</b>: Gain the base Union effect of your opposite Alignment.
 	<p><b>Note</b>: Neutral and Balance don’t have opposites so they stay the same
 	" coords="223,1462,272,1511" shape="rect">
         <area research="F6000 - For All Factions
 	<p><b>Research Name</b>: Inevitability
-	<p><b>Requirement</b>: R175+
+	<p><b>Requirement</b>: R182+, Forgotten Relic, Forbidden artifact and upgrade
 	<p><b>Effect</b>: Increase your next time head start based on time spent in this game.
 	<p><b>Formula</b>: (x ^ 0.75), where x is time spent (This Game)
 	" coords="279,1464,326,1511" shape="rect">
@@ -1629,4 +1629,3 @@
 	" coords="500,676,549,723" shape="rect">
     </map>
     <?php include "../scripts/footer.html"; ?>
-                   

@@ -220,28 +220,28 @@
         <hr>
         <p><b>D5125</b> - For All Factions</p>
         <p><b>Research Name</b>: Selection</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R175+, Forgotten Relic, Mythos artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase the production of Unique buildings based on Clicks in this game.</p>
         <p><b>Formula</b>: (x ^ 0.4), where x is clicks this game.</p>
         <hr>
         <p><b>D5375</b> - For Good</p>
         <p><b>Research Name</b>: Zealotry</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R177+, Forgotten Relic, Mythos artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Royal Exchanges purchased in this game.</p>
         <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is royal exchanges this game</p>
         <hr>
         <p><b>D5625</b> - For All Factions</p>
         <p><b>Research Name</b>: Prophecy</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Empowers the effects of your faction’s Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
-        <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is your least spent faction time.</p>
         <hr>
         <p><b>D5875</b> - For All Factions</p>
         <p><b>Research Name</b>: Birthright</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>:Gain the Bloodline effects of your most used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline</p>
         <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.</p>

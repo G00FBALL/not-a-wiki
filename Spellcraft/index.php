@@ -224,14 +224,14 @@
         <hr>
         <p><b>S5125</b> - For All Factions</p>
         <p><b>Research Name</b>: Spilling</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R175+, Forgotten Relic, Mana Loom artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.</p>
         <p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This Game)</p>
         <hr>
         <p><b>S5375</b> - For Chaos</p>
         <p><b>Research Name</b>: Invocation</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R177+, Forgotten Relic, Mana Loom artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the activity time of your least used spell.</p>
         <p><b>Formula</b>: Additive: (1000 + 80 * x ^ 0.8)</p>
@@ -239,14 +239,14 @@
         <hr>
         <p><b>S5625</b> - For All Factions</p>
         <p><b>Research Name</b>: Leylines</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R179+, Forgotten Relic, Mana Loom artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on assistants owned.</p>
         <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is assistants</p>
         <hr>
         <p><b>S5875</b> - For All Factions</p>
         <p><b>Research Name</b>: Mirrors</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R181+, Forgotten Relic, Mana Loom artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Multiplicatively increase Assistants based on Spell casts in this game.</p>
         <p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game</p>

@@ -223,28 +223,28 @@
         <hr>
         <p><b>W5125</b> - For All Factions</p>
         <p><b>Research Name</b>: Sovereignty</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R175+, Forgotten Relic, Battlefield artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase the production of two highest tier buildings based on assistants you own.</p>
         <p><b>Formula</b>: (x ^ 0.3), where x is assistants</p>
         <hr>
         <p><b>W5375</b> - For Evil</p>
         <p><b>Research Name</b>: Officers</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R177+, Forgotten Relic, Battlefield artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Gain assistants multiplicatively based on amount of trophies unlocked.</p>
         <p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies</p>
         <hr>
         <p><b>W5625</b> - For All Factions</p>
         <p><b>Research Name</b>: Concealment</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R179+, Forgotten Relic, Battlefield artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Offline time counts more based on Mana Produced in this game.</p>
         <p><b>Effect</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This game)</p>
         <hr>
         <p><b>W5875</b> - For All Factions</p>
         <p><b>Research Name</b>: Patience</p>
-        <p><b>Requirement</b>: R175+</p>
+        <p><b>Requirement</b>: R181+, Forgotten Relic, Battlefield artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Time spent with Prestige Counts 500% more.</p>
         <p><b>Effect</b>: Time spent with Elite factions Counts 1000% more.</p>
