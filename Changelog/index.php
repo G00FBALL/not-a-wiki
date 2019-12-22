@@ -1573,7 +1573,11 @@
                 <p><b>(Hotfix #3)</b>: Various performance improvements.</p>
                 <p><b>(Hotfix #4)</b>: Fixed an issue with bloodlines and mercenary spells not showing.</p>
                 <p><b>(Hotfix #5)</b>: Fixed an issue with Linux and old flash player versions.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.3.31, Sept 4, 2015, Bloodlines added</a></b></p>
+            <div class="autohide">
                 <p><b>1.3.31</b> - Sept 4th, 2015</p>
                 <p><b>NEW FACTION UPGRADES</b>: BLOODLINES. Each faction will unlock its unique Bloodline upon purchasing 100 upgrades of that faction. You will be able to purchase a single bloodline per run, choosing it by using an interface similar to the mercenary upgrades. Bloodlines and their unlocking progress will stay unlocked through Abdications and Reincarnations.</p>
                 <p><b>UPGRADES AND TROPHIES CONSOLIDATION</b>: Upgrades and Trophies tab will no longer be littered with hundreds of icons. You will now see only the last purchased upgrade and the first unlocked trophy (greyed out) or the last trophy in a series (colored) if you completed that series.</p>
@@ -1601,7 +1605,11 @@
                 <p><b>(Hotfix #3)</b>: Fixed Contingency Autocasting not working correctly.</p>
                 <p><b>(Hotfix #4)</b>: Fixed some visual bugs and tooltips.</p>
                 <p><b>(Hotfix #5)</b>: Fixed an issue with Angel Bloodline.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.3.30, Aug 22, 2015, Mercenary and R power added</a></b></p>
+            <div class="autohide">
                 <p><b>1.3.30</b> - Aug 22nd, 2015</p>
                 <p><b>EXPANSION</b>: AFTERLIFE</p>
                 <p><b>NEW FACTION</b>: you will obtain a new faction quest upon your 3rd Reincarnation. Follow the quest line to unlock their amazing ability to combine all faction powers into one.</p>
@@ -1639,7 +1647,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2+, August 5th, 2015, The Underworld</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2+, August 5th, 2015, Hotfix</a></b></p>
             <div class="autohide">
                 <p><b>1.2.29</b> - Aug 5th, 2015</p>
                 <p>Elves upgrades and spell Elves upgrades and spell rebalanced: Secret Clicking Techniques and Moon Blessing now use a new formula to calculate bonuses from total clicks. Mouse clicks should feel much more rewarding and will provide a much higher bonus up to ~300,000 clicks, afterwards huge diminishing returns will kick in.</p>
@@ -1669,7 +1677,11 @@
                 <p>Reworded Excavation to state that gems are restored after a soft reset.</p>
                 <p>Reworded Reincarnation tooltip to clarify that the new bonuses replace the existing ones.</p>
                 <p>Changed the Hard Reset button with a red border to distinguish it from the Reincarnate button.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2.26, Jul 30, 2015, Reincarnation added</a></b></p>
+            <div class="autohide">
                 <p><b>1.2.26</b> - Jul 30th, 2015</p>
                 <p><b>NEW FEATURE</b>: Reincarnation. Upon reaching a threshold of 1Oc Gems, you will be able to Reincarnate through a new button in the Save tab. The Reincarnation process will reset all your stats, your archeology progress including excavations, and remove all your gems, you will however keep your trophies and gain a new free upgrades, Reincarnation Power, unlocking immediately upon starting a new run. This upgrade will grant a bonus to overall production, faction coin chance, mana regen, and offline production depending on the amount of times you reincarnated and will persist through subsequent soft resets (but not through hard resets). You will not lose Gifts and Rubies as they are permanent premium features. You may find additional details in the forums.</p>
                 <p>The total clicks requirement for unlocking dwarves has been lowered drastically.</p>
@@ -1692,7 +1704,11 @@
                 <p>Rubies are no longer visible in currency panel when you have 0.</p>
                 <p><b>(Hotfix #1)</b>: Fixed incorrect mana regen display values after latest update.</p>
                 <p><b>(Hotfix #2)</b>: The 240 upgrades trophy was unobtainable due to unique upgrades being counted in. The trophy now unlocks at 235 upgrades.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.2.24, Jul 28, 2015, Prestige Factions added</a></b></p>
+            <div class="autohide">
                 <p><b>1.2.24</b> - Jul 28th, 2015</p>
                 <p><b>EXPANSION</b>: THE UNDERWORLD</p>
                 <p><b>ADDED TWO NEW FACTIONS</b>: new prestige factions, one for the Good and one for the Evil alignment are lurking in the underworld. Excavate your way down to 200 to unlock a new upgrade series which will lead you into contacting these new races and combine their power to an already existing Good or Evil faction.</p>
@@ -1730,7 +1746,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1+, July 10th, 2015 The Ancient Races</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1, July 10th, 2015, Hotfix</a></b></p>
             <div class="autohide">
                 <p><b>1.1.23</b> - Jul 10th, 2015</p>
                 <p>Titans' Heavy Coins upgrade now gives +40% bonus to Royal Exchanges, up from +10%; Titan Heritage now gives +15% bonus to Royal Exchanges, up from +5%; Charged Structures now gives a +150% bonus, up from +100%; Cyclopean Strength now gives +0.3% bonus, up from 0.25%.</p>
@@ -1740,7 +1756,11 @@
                 <p><b>(Hotfix #1)</b>: Fixed an issue with the changelog.</p>
                 <p><b>(Hotfix #2)</b>: Updated the individual Royal Exchange tooltips with the new Heavy Coins and Titan Heritage values.</p>
                 <p><b>(Hotfix #3)</b>: Fixed an issue with Excavation that caused abnormal gem gains.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1.22, July 7, 2015, Priority Autocasting added</a></b></p>
+            <div class="autohide">
                 <p><b>1.1.22</b> - Jul 7th, 2015</p>
                 <p>ADDED TWO MORE AUTOCASTING UPGRADES:</p>
                 <p>Priority Autocasting allows you to prioritize casting of certain spells. Spells with a lower priority will not fire unless higher priority ones are already active.</p>
@@ -1765,7 +1785,11 @@
                 <p>Fixed an issues that caused certain versions of Chrome not to create the backup save properly.</p>
                 <p>Fixed an issue that caused secret trophy upgrade not to be saved correctly. We apologize for the inconvenience if you had already purchased them before.</p>
                 <p>Fixed Night Time and Timewarp tooltips.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1.19, July 1, 2015, Secret Trophy Upgrades added</a></b></p>
+            <div class="autohide">
                 <p><b>1.1.19</b> - Jul 1st, 2015</p>
                 <p><b>SECRET TROPHIES UNLEASHED</b>: now each secret trophy unlocked also unlocks an unique upgrade. They will be visible after you get the trophy and have gained enough coins to be in range of their cost in the current session.</p>
                 <p>Added an additional tier for building upgrades.</p>
@@ -1805,7 +1829,11 @@
                 <p>Faceless Heritage has been scaled down slightly.</p>
                 <p>Fixed an issue which caused some players not to receive offline production under certain circumstances.</p>
                 <p>Fixed a bug that caused some neutral building trophies not to unlock correctly.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.1.14, Jun 24, 2015, THE ANCIENT RACES</a></b></p>
+            <div class="autohide">
                 <p><b>1.1.14</b> - Jun 24th, 2015</p>
                 <p><b>EXPANSION</b>: THE ANCIENT RACES</p>
                 <p><b>NEW ALIGNMENT</b>: the neutral alignment unlocks new buildings and upgrades, as well as three new neutral factions.</p>
@@ -1828,7 +1856,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0+, June 3rd, 2015 Realm Grinder</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0, June 3, 2015, Scientific Notation added</a></b></p>
             <div class="autohide">
                 <p><b>1.0.13</b> - Jun 3rd, 2015</p>
                 <p>ADDED an option for displaying numbers in scientific notation.</p>
@@ -1849,7 +1877,11 @@
                 <p><b>1.0.11</b> - May 31st, 2015</p>
                 <p>Fixed a bug that caused the offline report screen not to include assistants produced coins. Coins were added to your actual resource total, they just weren't added to the offline report.</p>
                 <p>More gray screen fixes.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0.10, May 30, 2015, Faction Heritage added</a></b></p>
+            <div class="autohide">
                 <p><b>1.0.10</b> - May 30th, 2015</p>
                 <p><b>NEW UPGRADES</b>: upon unlocking the Faction Champion trophies (buy all upgrades for a certain faction), you will unlock a Faction Heritage upgrade. This will cost 5000 Faction Coins, and will grant you a bonus depending on the faction involved. It will remain unlocked and available to purchase through soft resets. You can have all Faction Heritage upgrades at once, and they stack!</p>
                 <p><b>2 NEW SECRET TROPHIES</b>!</p>
@@ -1889,7 +1921,11 @@
                 <p>Added one more confirmation to hard reset in order to prevent accidental resets.</p>
                 <p>Fixed a typo in the 500 gems Trophy.</p>
                 <p>Fixed, reworded, and added several other tooltips for clarity. Can't get enough of these ;)</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0.5, May 23, 2015, IMPORT/EXPORT added</a></b></p>
+            <div class="autohide">
                 <p><b>1.0.5</b> - May 23rd, 2015</p>
                 <p>ADDED IMPORT/EXPORT SAVE. Press the Export Save button in the Options tab to copy a string code to clipboard, then paste it in a text file or directly into the Import textbox.</p>
                 <p>Added tooltip info for buy10 and buy100. Hover on building and royal exchange buttons to see it.</p>
@@ -1899,7 +1935,11 @@
                 <p>Goblin's "Strong Currency" upgrade has been significantly toned down.</p>
                 <p>Gem's ability to increase the chance of finding faction coins is now capped at 25%. Elves can still achieve 100% chance due to their faction upgrades.</p>
                 <p>Reworded several tooltips for clarity.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0.4, May 22, 2015, Offline Production added</a></b></p>
+            <div class="autohide">
                 <p><b>1.0.4</b> - May 22nd, 2015</p>
                 <p>OFFLINE PRODUCTION IS NOW OPERATIVE!</p>
                 <p>Added SHIFT+Click to buy 100. This and CTRL+Click now also work on Faction Exchanges.</p>
@@ -1920,7 +1960,11 @@
                 <p>More optimization, lag should be reduced.</p>
                 <p>Fixed a bug that caused Royal Exchanges upgrades to be unavailable despite owning the correct amount of faction coins.</p>
                 <p>Fixed some typos and minor graphics bugs.</p>
-                <p><b>------------------------------</b></p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.0.1, May 20, 2015, Mana capped at 1000</a></b></p>
+            <div class="autohide">
                 <p><b>1.0.1</b> - May 20th, 2015</p>
                 <p>Mana cap reduced to 1000 and reworked the Autocast feature due to balance issues.</p>
                 <p>Optimization to fix some lag issues. We are still working to improve game performance, but as of now, it should be a lot better than before.</p>
