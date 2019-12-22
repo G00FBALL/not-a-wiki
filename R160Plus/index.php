@@ -6,7 +6,7 @@
 <br/>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" align="middle"></h6>
 <br/>
-<br>
+<p><b><font color="darkred">From R175+ builds may not work well with the new points/budget system</b></p></font>
     <br/>
     <p><b>Production Builds</b></p>
     <div class="category">
