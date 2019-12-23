@@ -182,7 +182,7 @@
                     <map name="TotalEvent3.7.-map">
                         <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving<p>Type: Feat<p>Requirement: Play during Thanksgiving<p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season." coords="4,45,64,100" shape="rect">
                         <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine<p>Requirement: Play during the Ruby Shine event.<p>Cost: Free<p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.<p>Formula: x ^ 1.15, where x is Rubies owned.<p>Note: During the Ruby Shine event you will receive 3 Rubies per day." coords="68,41,126,100" shape="rect">
-                        <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Santa'sHelpers2016.png align=middle> Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Dwarf is allowed.</p><p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.<p><b>Note</b>: R5 &amp;amp; R6 this takes about 10 days this game with Undead heritage and building upgrades." coords="132,44,191,99" shape="rect">
+                        <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Santa'sHelpers2016.png align=middle> Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Dwarf is allowed.</p><p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>" coords="132,44,191,99" shape="rect">
                         <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Unholidays2016.png align=middle> Unholidays<p>Type: Feat<p>Requirement: Ally with Undead, purchase Undead Trade Treaty, Undead Friendship Pact, and Undead Alliance, during the Christmas season." coords="197,44,254,100" shape="rect">
                         <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Snowpile42016.png align=middle> Snowpile<p>Type: Feat, 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="261,44,317,100" shape="rect">
                         <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/GiftCollector2016.png align=middle> Gift Collector<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="325,44,381,99" shape="rect">
@@ -426,8 +426,7 @@
                                 <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                                 <p><b>Type</b>: Feat</p>
                                 <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
-                                <p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.</p>
-                                <p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades.</p>
+                                <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
                                 <p><b>Note</b>: Dwarf is allowed.</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
@@ -1667,8 +1666,7 @@
                                 <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                                 <p><b>Type</b>: Feat</p>
                                 <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
-                                <p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.</p>
-                                <p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades.</p>
+                                <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
                                 <p><b>Note</b>: Dwarf is allowed.</p>
                                 <br/>
                                 <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
@@ -2602,8 +2600,7 @@
                                 <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                                 <p><b>Type</b>: Feat</p>
                                 <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
-                                <p><b>Note</b>: Before R5 this takes 16 days this game with Undead heritage and building upgrades.</p>
-                                <p><b>Note</b>: R5 & R6 this takes about 10 days this game with Undead heritage and building upgrades.</p>
+                                <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
                                 <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
                                 <p><b>Type</b>: Feat</p>
                                 <p><b>Requirement</b>: Ally with the Undead</p>
