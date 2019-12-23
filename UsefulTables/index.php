@@ -126,7 +126,7 @@ $( "#archinput" ).change(function(){
 </script>
 <br style="clear: both"/><hr>
     <a id="Companions"></a>
-<center>    <table class="numtable" >
+    <table class="numtable" align="left" >
         <thead>
         <tbody>
         <tr>
@@ -198,8 +198,80 @@ $( "#archinput" ).change(function(){
         </tr>
         </tbody>
         </thead>
-    </table></center>
-<br style="clear: both"/>
+    </table>
+    <a id="TC3"></a>
+    <table class="numtable" align="center" >
+        <thead>
+        <tr>
+            <th colspan="3">God's Finger Time Table</th>
+        </tr>
+        <tr>
+            <th>Clicks Per Sec</th>
+            <th>Days</th>
+            <th>Hours</th>
+        </tr>
+        </thead>
+        <tbody>
+         <tr>
+            <td><center>100</td>
+            <td><center>11</td>
+            <td><center>13</td>
+        </tr>
+         <tr>
+            <td><center>200</td>
+            <td><center>5</td>
+            <td><center>18</td>
+        </tr>
+         <tr>
+            <td><center>300</td>
+            <td><center>3</td>
+            <td><center>20</td>
+        </tr>
+         <tr>
+            <td><center>400</td>
+            <td><center>2</td>
+            <td><center>21</td>
+        </tr>
+         <tr>
+            <td><center>500</td>
+            <td><center>2</td>
+            <td><center>7</td>
+        </tr>
+         <tr>
+            <td><center>600</td>
+            <td><center>1</td>
+            <td><center>22</td>
+        </tr>
+         <tr>
+            <td><center>700</td>
+            <td><center>1</td>
+            <td><center>15</td>
+        </tr>
+         <tr>
+            <td><center>800</td>
+            <td><center>1</td>
+            <td><center>10</td>
+        </tr>
+         <tr>
+            <td><center>900</td>
+            <td><center>1</td>
+            <td><center>6</td>
+        </tr>
+         <tr>
+            <td><center>1000</td>
+            <td><center>1</td>
+            <td><center>3</td>
+        </tr>
+         <tr>
+            <td><center>1158</td>
+            <td colspan="2"><center>Under 1 day</td>
+        </tr>
+        <tr>
+            <th colspan="3">By Aramil Nailo</th>
+        </tr>
+       </tbody>
+    </table>
+    <br style="clear: both"/>
 <hr>
     <a id="Primal Balance"></a>
     <center><table class="numtable" >
@@ -534,224 +606,4 @@ $( "#archinput" ).change(function(){
        </tbody>
     </table>
 <br style="clear: both"/>
-<!--    <a id="TC3"></a>
-    <table class="numtable" align="right" >
-        <thead>
-        <tr>
-            <th>Gem Count</th>
-            <th>Lightning Strikes</th>
-        </tr>
-        </thead>
-        <tbody>
-         <tr>
-            <td><center>1 Qig (1e153)</td>
-            <td><center>16</td>
-        </tr>
-        <tr>
-            <td><center>1 UQig (1e156)</td>
-            <td><center>15</td>
-        </tr>
-        <tr>
-            <td><center>1 DQig (1e159)</td>
-            <td><center>14</td>
-        </tr>
-        <tr>
-            <td><center>1 TQig (1e162)</td>
-            <td><center>13</td>
-        </tr>
-        <tr>
-            <td><center>1 QaQig (1e165)</td>
-            <td><center>13</td>
-        </tr>
-        <tr>
-            <td><center>1 QiQig (1e168)</td>
-            <td><center>12</td>
-        </tr>
-        <tr>
-            <td><center>1 SxQig (1e171)</td>
-            <td><center>11</td>
-        </tr>
-        <tr>
-            <td><center>1 SpQig (1e174)</td>
-            <td><center>11</td>
-        </tr>
-        <tr>
-            <td><center>1 OcQig (1e177)</td>
-            <td><center>10</td>
-        </tr>
-        <tr>
-            <td><center>1 NoQig (1e180)</td>
-            <td><center>10</td>
-        </tr>
-        <tr>
-            <td><center>1 Sxg (1e183)</td>
-            <td><center>9</td>
-        </tr>
-        <tr>
-            <td><center>1 USxg (1e186)</td>
-            <td><center>9</td>
-        </tr>
-        <tr>
-            <td><center>1 DSxg (1e189)</td>
-            <td><center>9</td>
-        </tr>
-        <tr>
-            <td><center>1 TSxg (1e192)</td>
-            <td><center>8</td>
-        </tr>
-        <tr>
-            <td><center>1 QaSxg (1e195)</td>
-            <td><center>8</td>
-        </tr>
-        <tr>
-            <td><center>1 QiSxg (1e198)</td>
-            <td><center>8</td>
-        </tr>
-        <tr>
-            <td><center>1 SxSxg (1e201)</td>
-            <td><center>7</td>
-        </tr>
-        <tr>
-            <td><center>1 SpSxg (1e204)</td>
-            <td><center>7</td>
-        </tr>
-        <tr>
-            <td><center>1 OcSxg (1e207)</td>
-            <td><center>7</td>
-        </tr>
-        <tr>
-            <td><center>1 NoSxg (1e210)</td>
-            <td><center>6</td>
-        </tr>
-        <tr>
-            <td><center>1 Spg (1e213)</td>
-            <td><center>6</td>
-        </tr>
-        <tr>
-            <td><center>1 USpg (1e216)</td>
-            <td><center>6</td>
-        </tr>
-        <tr>
-            <td><center>1 DSpg (1e219)</td>
-            <td><center>6</td>
-        </tr>
-        <tr>
-            <td><center>1 TSpg (1e222)</td>
-            <td><center>5</td>
-        </tr>
-        <tr>
-            <td><center>1 QaSpg (1e225)</td>
-            <td><center>5</td>
-        </tr>
-        <tr>
-            <td><center>1 QiSpg (1e228)</td>
-            <td><center>5</td>
-        </tr>
-        <tr>
-            <td><center>1 SxSpg (1e231)</td>
-            <td><center>5</td>
-        </tr>
-        <tr>
-            <td><center>1 SpSpg (1e234)</td>
-            <td><center>5</td>
-        </tr>
-        <tr>
-            <td><center>1 OcSpg (1e237)</td>
-            <td><center>5</td>
-        </tr>
-        <tr>
-            <td><center>1 NoSpg (1e240)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 Ocg (1e243)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 UOcg (1e246)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 DOcg (1e249)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 TOcg (1e252)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 QaOcg (1e255)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 QiOcg (1e258)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 SxOcg (1e261)</td>
-            <td><center>4</td>
-        </tr>
-        <tr>
-            <td><center>1 SpOcg (1e264)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 OcOcg (1e267)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 NoOcg (1e270)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 Nog (1e273)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 UNog (1e276)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 DNog (1e279)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 TNog (1e282)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 QaNog (1e285)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 QiNog (1e288)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 SxNog (1e291)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 SpNog (1e294)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 OcNog (1e297)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 NoNog (1e300)</td>
-            <td><center>3</td>
-        </tr>
-        <tr>
-            <td><center>1 C (e303)</td>
-            <td><center>2</td>
-        </tr>
-        <tr>
-            <td><center>1 Uc (e306)</td>
-            <td><center>2</td>
-        </tr>
-        </tbody>
-    </table>
-<br style="clear: both"/>--!>
 <?php include "../scripts/footer.html"; ?>
