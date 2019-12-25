@@ -18,17 +18,17 @@
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Angel/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: 1e66 (1 Uvg) Gems - 1e93 (1 Tg) Gems</p>
+                    <p><b>Range</b>: 1e66 (1 Uvg) Gems - 1e84 (1 Spvg) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S135,S150,S200,S215,S330,C105,C120,C150,C250,C330,D1,D55,D245,D290,D320,E80,E135,E150,E200,E330,A50,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
                     </p>
-                    <p>S135,S150,S200,S215,S330,</p>
-                    <p>C105,C120,C150,C250,C330,</p>
-                    <p>D1,D55,D245,D290,D320,</p>
-                    <p>E80,E135,E150,E200,E330,</p>
-                    <p>A50,A105,A120,A150,A330,</p>
-                    <p>W150,W180,W290,W320,W330</p>
+                    <p>S105,S135,S150,S215,S250,</p>
+                    <p>C105,C120,C135,C150,C250,</p>
+                    <p>D1,D55,D150,D175,D245,</p>
+                    <p>E80,E135,E145,E150,E200,</p>
+                    <p>A50,A105,A120,A150,A250,</p>
+                    <p>W135,W150,W180,W225,W250</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -123,7 +123,7 @@
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Angel/Dwarf</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: 1e93 (1 Tg) Gems - 1e144 (1 Spqag) Gems</p>
+                    <p><b>Range</b>: 1e84 (1 Spvg) Gems - 1e144 (1 Spqag) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D245" id="Build">
