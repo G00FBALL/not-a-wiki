@@ -109,7 +109,7 @@
     " coords="261,109,318,165" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png alt=Obsidian Shard align=middle><b> Obsidian Shard</b></p>
     <p><b>Description</b>: Extremely hard and black as darkness itself, this material cannot apparently be carved or melted. It is a mystery how you can make this thing into a sword.</p>
-    <p><b>Requirement</b>: 8000 Excavations any Faction, R75+</p>
+    <p><b>Requirement</b>: 8000th Excavation, any Faction, R75+</p>
     <p><b>Effect</b>: Unlocks Secrets of the Warriors</p>
     " coords="324,108,382,165" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png align=middle><b> First Iron Fragment</b></p>

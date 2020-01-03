@@ -471,7 +471,7 @@
                             <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
                             <p><b>Note</b>: Build is listed in order of purchase.</p>
                             <p><b>Note</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
-                            <p><b>Note</b>: Starts slow but grows well, estimated 2-3 days to complete (needs 9.507e19 (95.07 QI mana generated this R).</p>
+                            <p><b>Note</b>: Starts slow but grows well, estimated ? to complete (needs 3.87e18 (3.87 Qi) mana generated this game).</p>
                         </div>
                     </div>
                 </div>
