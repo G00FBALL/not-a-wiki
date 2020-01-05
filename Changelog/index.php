@@ -835,7 +835,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.1.0, May 30, 2017, Ascension 2 Mercenaries</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v2.7.1.0, May 30, 2017, Ascension 1 Mercenaries</a></b></p>
             <div class="autohide">
                 <p><b>SECRETS OF THE WARRIORS</b>: [May 30, 2017]</p>
                 <p><b>Global Reminder</b>: Global Reminder: The Blood War Event will be starting on June 2nd 2017, 12.01 PM UTC and will end on June 6th 2017, 6.59 PM UTC.</p>
