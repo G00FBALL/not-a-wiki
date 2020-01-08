@@ -287,7 +287,7 @@
                             <p>E1,E225,E320,E495,E590,</p>
                             <p>A10,A410,A3400,</p>
                             <p>W25,W205,W405,W520</p>
-                            <p><b>Notes</b>: Buff Max Assistants with Fairyline Undead (Max Assistants) build first.</p>
+                            <p><b>Notes</b>: Buff Max Assistants with Fairyline Undead (Max Assistants) build first with Archon Challenge 2 unlocked.</p>
                             <p><b>Notes</b>: Estimated time of 5 hours to complete.</p>
                         </div>
                     </div>
