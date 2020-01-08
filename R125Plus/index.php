@@ -497,7 +497,6 @@
                     <p><b>Faction</b>: Goblin/Drow/Makers</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Artifact Set</b>: Dwarf</p>
-                    <p><b>Stoneheart Set (R148+, MKC4)</b>: Faceless</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S50,S400,S435,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520" id="Build">

@@ -362,26 +362,27 @@
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Challenge 4s (R148)</a></b></p>
                 <div class="category autohide">
                     <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Angels (Archon Challenge 4)</a></b></p>
+                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Titans (Archon Challenge 4)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Sad</p>
                             <p><b>Requirement</b>: Faceless Lineage 45</p>
-                            <p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+                            <p><b>Range</b>: 1e102 (1 TTg) Gems+</p>
                             <p><b>Faction</b>: Angel</p>
                             <p><b>Bloodline</b>: Faceless</p>
                             <p><b>Artifact Set</b>: Dragon</p>
                             <p>
                                 <button onclick="myFunction($(this))">Copy Build</button>
-                                <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D200,D435,D590,E400,A50,A400,A495,W225,W400,W560,S200,C340,D330,E135,A270,W1275" id="Build">
+                                <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D200,D350,E275,E320,E1225,A400,W260,W1375,W1400,S200,C250,D330,E1325,A270,W1275" id="Build">
                             </p>
-                            <p>S10,S3200,</p>
-                            <p>C25,C400,C405,C520,</p>
-                            <p>D1,D175,D200,D435,D590,</p>
-                            <p>E400,</p>
-                            <p>A50,A400,A495,</p>
-                            <p>W225,W400,W560</p>
-                            <p><b>After Archon treaty</b>: S200,C340,D330,E135,A270,W1275 (Reimport Build)</p>
-							<p><b>Notes</b>: Estimated time 10-15 minutes to complete.</p>
+                            <p>S300,S1450,S3200,</p>
+							<p>C251,C375,C400,C1300,C1500,</p>
+							<p>D200,D350,</p>
+							<p>E275,E320,E1225,</p>
+							<p>A400,W260,</p>
+							<p>W1375,W1400</p>
+                            <p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
+							<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
+							<p><b>Notes</b>: Estimated time 5-6 hours to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -404,9 +405,9 @@
                             <p>W275,W1275,W1400</p>
                             <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R.</p>
 							<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
-							<p><b>Notes</b>: Some DJ5 buffing during the run helps, but has severe diminishing returns.</p>
+							<p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
                             <p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
-                            <p><b>Notes</b>: Takes about 4 hours to complete the challenge.</p>
+                            <p><b>Notes</b>: Takes about 3 days to complete the challenge.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -430,7 +431,7 @@
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Goblins (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Chillerspoon</p>
-							<p><b>Requirement</b>: Djinn Challenge 5, Elf lineage 45</p>
+							<p><b>Requirement</b>: Djinn Challenge 5</p>
                             <p><b>Range</b>: 1e111 (1 Sxtg) Gems+</p>
                             <p><b>Faction</b>: Goblin</p>
                             <p><b>Bloodline</b>: Undead</p>
@@ -460,18 +461,18 @@
                             <p><b>Artifact Set</b>: Dragon</p>
                             <p>
                                 <button onclick="myFunction($(this))">Copy Build</button>
-                                <input type="text" value="S300,S1450,S3200,S200,S400,S30,S305,S215,C251,C375,C1300,C1500,C400,C340,C250,C150,C200,C3100,D350,D1125,D200,D330,D1375,D290,D3350,D320,E275,E1225,E135,E400,E1425,E1325,E145,E320,A1200,A400,A270,A120,A3400,A545,A305,W260,W1400,W1375,W1275,W180,W400,W150,W290" id="Build">
+                                <input type="text" value="S300,S1450,S400,S200,S30,S500,C251,C375,C1300,C1500,C400,C340,C250,C3100,D350,D1125,D330,D200,D290,D3350,E275,E1225,E320,E1325,E135,E400,A1200,A400,A270,A120,A3400,W260,W1400,W1375,W1275,W400,W180" id="Build">
                             </p>
-                            <p>S300,S1450,S3200,S200,S400,S30,S305,S215,</p>
-                            <p>C251,C375,C1300,C1500,C400,C340,C250,C150,C200,C3100,</p>
-                            <p>D350,D1125,D200,D330,D1375,D290,D3350,D320,</p>
-                            <p>E275,E1225,E135,E400,E1425,E1325,E145,E320,</p>
-                            <p>A1200,A400,A270,A120,A3400,A545,A305,</p>
-                            <p>W260,W1400,W1375,W1275,W180,W400,W150,W290</p>
+                            <p>S300,S1450,S400,S200,S30,S500,</p>
+							<p>C251,C375,C1300,C1500,C400,C340,C250,C3100,</p>
+							<p>D350,D1125,D330,D200,D290,D3350,</p>
+							<p>E275,E1225,E320,E1325,E135,E400,</p>
+							<p>A1200,A400,A270,A120,A3400,</p>
+							<p>W260,W1400,W1375,W1275,W400,W180</p>
                             <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
                             <p><b>Note</b>: Build is listed in order of purchase.</p>
                             <p><b>Note</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
-                            <p><b>Note</b>: Starts slow but grows well, estimated ? to complete (needs 3.87e18 (3.87 Qi) mana generated this game).</p>
+                            <p><b>Note</b>: Starts slow but grows well, estimated 24 hours (?) to complete (needs 3.87e18 (3.87 Qi) mana generated this game).</p>
                         </div>
                     </div>
                 </div>
@@ -697,8 +698,29 @@
                     <p><b>Range</b>: ?</p>
                     <p><b>Faction</b>: Druid/Dragon/Makers</p>
                     <p><b>Bloodline</b>: Elf</p>
-                    <p><b>Artifact Set</b>: Druid</p>
-                    <p><b>Stoneheart Set (R148+, MKC4)</b>: Faceless</p>
+                    <p><b>Artifact Set</b>: Elf</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E260,E1225,E1425,A251,A375,A400,A1200,A1500,W350,W1375,W1400" id="Build">
+                    </p>
+                    <p>S1450,S3200,</p>
+                    <p>C300,C400,C1300,</p>
+                    <p>D275,D290,D1125,</p>
+                    <p>E260,E1225,E1425,</p>
+                    <p>A251,A375,A400,A1200,A1500,</p>
+                    <p>W350,W1375,W1400</p>
+                </div>
+            </div>
+			<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (R148+) (Clicks)</a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Necrodoom</p>
+                    <p><b>Requirement</b>: Makers Challenge 4</p>
+                    <p><b>Range</b>: ?</p>
+                    <p><b>Faction</b>: Druid/Dragon/Makers</p>
+                    <p><b>Bloodline</b>: Elf</p>
+                    <p><b>Artifact Set</b>: Faceless</p>
+					<p><b>Stoneheart Set (R148+, MKC4)</b>: Elf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E260,E1225,E1425,A251,A375,A400,A1200,A1500,W350,W1375,W1400" id="Build">
