@@ -128,7 +128,7 @@
                 , function(rei) {return 2.5 * Math.pow(rei, 1.1);}
                 , function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
                 ],
-                [ 60, '#R58FCChaMul', false, 0
+                [ 58, '#R58FCChaMul', false, 0
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
                 ],
