@@ -13,7 +13,7 @@
 <p><b>Unlock Requirements</b>: None</p>
 <p>All Vanilla Factions are enabled by default</p>
 <p><b>Faction spell</b>: Fairy Chanting</p>
-<p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by x500 for 10 seconds.</p>
+<p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50,000% for 10 seconds.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/FairyChoirFactionUpgrade.png" alt="Smiley face" align="middle">  <b>Fairy Choir</b></p>
 <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
 <p><b>Effect</b>: Triples your assistants while Fairy Chanting is active.
