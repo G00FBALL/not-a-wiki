@@ -367,7 +367,7 @@
                             <p><b>Author</b>: Kiluh</p>
                             <p><b>Requirement</b>: Faceless Lineage 45</p>
                             <p><b>Range</b>: 1e102 (1 TTg) Gems+</p>
-                            <p><b>Faction</b>: Angel</p>
+                            <p><b>Faction</b>: Titan</p>
                             <p><b>Bloodline</b>: Faceless</p>
                             <p><b>Artifact Set</b>: Dragon</p>
                             <p>
