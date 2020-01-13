@@ -227,7 +227,7 @@
         <p><b>Requirement</b>: R175+, Forgotten Relic, Mana Loom artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.</p>
-        <p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This Game)</p>
+        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2), where x is mana produced (This Game)</p>
         <hr>
         <p><b>S5375</b> - For Chaos</p>
         <p><b>Research Name</b>: Invocation</p>

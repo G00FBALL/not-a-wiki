@@ -22,7 +22,7 @@
                 <area href="#Dwarven" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DwarvenSet.png align=middle><b> Dwarven Set</b></p><p><b>Requirement</b>: R116+</p><p><b>Artifacts Required</b>: Dwarven Bow, Stone Tankard, Beard Hair</p><p><b>Cost</b>: Free</p><p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p><p><b>Formula</b>: (2 * x ^ 0.7), where x is Royal Exchange bonus." coords="28,179,77,225" shape="rect">
                 <area href="#Drow" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DrowSet.png align=middle><b> Drow Set</b></p><p><b>Requirement</b>: R116+</p><p><b>Artifacts Required</b>: Ceremonial Dagger, Arachnid Figurine, Poison Vial</p><p><b>Cost</b>: Free</p><p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.(additive)</p><p><b>Formula</b>: (0.45 * x ^ 0.45), where x is total evil spells cast (this R)." coords="81,178,130,225" shape="rect">
                 <area href="#Dragon" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DragonSet.png align=middle><b> Dragon Set</b></p><p><b>Requirement</b>: R116+</p><p><b>Artifacts Required</b>: Dragon Fang, Dragon Soul, Dragon Scale</p><p><b>Cost</b>: Free</p><p><b>Effect</b>: Increase the duration of all spells based on spells cast in this Reincarnation.</p><p><b>Formula</b>: (1.75 * ln(x) ^1.25), where x is spells cast in this Reincarnation." coords="136,180,182,226" shape="rect">
-                <area href="#Mercenary" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MercenarySet.png align=middle><b> Mercenary Set</b></p><p><b>Requirement</b>: A3+ (R160+)</p><p><b>Artifacts Required</b>: Steel Plate, Black Sword, Mercenary Insignia</p><p><b>Cost</b>: Free</p><p><b>Effect</b>: Allows you to pick the same lineage as your faction.</p><p><b>Effect</b>: Lineage levels count 50% more.</p>" coords="26,231,75,279" shape="rect">
+                <area href="#Mercenary" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MercenarySet.png align=middle><b> Mercenary Set</b></p><p><b>Requirement</b>: A3+ (R160+)</p><p><b>Artifacts Required</b>: Steel Plate, Black Sword, Mercenary Insignia</p><p><b>Cost</b>: Free</p><p><b>Effect</b>: Allows you to pick the same lineage as your faction.</p><p><b>Effect</b>: Lineage levels count 25% more.</p>" coords="26,231,75,279" shape="rect">
             </map>
             <br/>
             <H6 id="Fairy"></h6>
@@ -131,6 +131,6 @@
             <p><b>Artifacts Required</b>: Steel Plate, Black Sword, Mercenary Insignia</p>
             <p><b>Cost</b>: Free</p>
             <p><b>Effect</b>: Allows you to pick the same lineage as your faction including Prestige/Elite lineage of same alignment.</p>
-            <p><b>Effect</b>: Lineage levels count 50% more.</p>
+            <p><b>Effect</b>: Lineage levels count 25% more.</p>
             <br/>
             <?php include "../scripts/footer.html"; ?>

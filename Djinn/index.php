@@ -46,8 +46,8 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
         <p>"This generation decided that we should give them a few more wishes before they give in to our demands for a change."</p>
         <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
-        <p><b>Challenge</b>: Have a spell duration of at least 1 year.</p>
-        <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
+        <p><b>Challenge</b>: Have a spell duration of at least 275 Days.</p>
+        <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 88%, 888% and 8888%, targets chosen randomly and refreshing every 88 seconds.</p>
         <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn, Demon+Drow+Djinn and Faceless+Dragon+Djinn</p>
         <hr>
         <H6 id="DjinnDC5"></h6>

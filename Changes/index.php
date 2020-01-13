@@ -6,6 +6,88 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
+        <p><b>V3.7.2 January 13, 2020</b></p>
+        <br/>
+        <p><b>Fixed</b>: S180 unlock</p>
+        <p><b>Fixed</b>: W5375 formula, was a direct multiplier rather than a percentage multiplier.</p>
+        <p><b>Fixed</b>: Stats panel layout (Mobile)</p>
+        <p><b>Fixed</b>: Spell tutorial not advancing when using hotkeys</p>
+        <p><b>Fixed</b>: Research branches in Ascension 2 now show the correct amount of slots.</p>
+        <p><b>Added</b>: Spiritual Surge and Catalyst in the Magic section of the Stats panel.</p>
+        <p><b>Added</b>: Spell Tier levels are now visible in the spells tooltips.</p>
+        <p><b>Added</b>: Lineage levels are now shown in the Stats panel.</p>
+        <p><b>Added</b>: NEW REINCARNATION POWER at Reincarnation 150</p>
+        <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes based on Reincarnations made.</p>
+        <p><b>Formula</b>: (buildings * R)</p>
+        <p><b>Fixed</b>: Rough Stone artifact, Unlock chance and unlock requirements.</p>
+        <p><b>Fixed</b>: Mercenary now count their Tax Collection alternatives as faction spells, for the purpose of several upgrades' formulas.</p>
+        <p><b>Changed</b>: Buy10000 is no longer available in Ascension 0.</p>
+        <br/>
+        <p><b>Fixed</b>: <b>Drow Challenge 1</b>: (Organized Crime)</p>
+        <p>Now requires Honor Among Killers purchased, as intended.</p>
+        <br/>
+        <p><b>Mercenary Set</b></p>
+        <p><b>Old Effect</b>: Lineage levels count 50% more.</p>
+        <p><b>New Effect</b>: Lineage levels count 25% more.</p>
+        <br/>
+        <p><b>Archon Lineage</b></p>
+        <p><b>Old Effect</b>: Increase Faction Coin find chance multiplicatively by 25% per level.</p>
+        <p><b>New Effect</b>: Increase Faction Coin find chance multiplicatively by 20% per level.</p>
+        <br/>
+        <p><b>Archon Challenge 4</b>: (Time Merge)</p>
+        <p><b>Effect</b>: Increase Unique Building production based on time spent in this game.</p>
+        <p><b>Old Formula</b>: (3.5 * log10(1 + x) ^ 3.5), where x is time spent in this game.</p>
+        <p><b>New Formula</b>: (8 * log10(1 + x) ^ 4), where x is time spent in this game.</p>
+        <br/>
+        <p><b>Djinn Challenge 4</b>: (Worldly Desires)</p>
+        <p><b>Old Challenge</b>: Have a spell duration of at least 1 year (365 Days).</p>
+        <p><b>New Challenge</b>: Have a spell duration of at least 275 Days.</p>
+        <p><b>Old Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
+        <p><b>New Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 88%, 888% and 8888%, targets chosen randomly and refreshing every 88 seconds.</p>
+        <br/>
+        <p><b>Spellcraft 5125</b>: (Spilling)</p>
+        <p><b>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.</p>
+        <p><b>Old Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This Game)</p>
+        <p><b>New Formula</b>: (2 * ln(1 + x) ^ 2), where x is mana produced (This Game)</p>
+        <br/>
+        <p><b>Craftsmanship 5125</b>: (Restauration)</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on assistants owned.</p>
+        <p><b>Old Formula</b>: (0.75 * x ^ 0.25), where x is assistants owned.</p>
+        <p><b>New Formula</b>: (0.5 * x ^ 0.25), where x is assistants owned.</p>
+        <br/>
+        <p><b>Craftsmanship 5375</b>: (Manufacture)</p>
+        <p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on Clicks made in this game.</p>
+        <p><b>Old Additive Formula</b>: (6.5 * x ^ 0.65), where x is clicks in this game.</p>
+        <p><b>New Additive Formula</b>: (6 * x ^ 0.6), where x is clicks in this game.</p>
+        <br/>
+        <p><b>Craftsmanship 5625</b>: (Discovery)</p>
+        <p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.</p>
+        <p><b>Old Formula</b>: (0.5 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).</p>
+        <p><b>New Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).</p>
+        <br/>
+        <p><b>Divine 5875</b>: (Birthright)</p>
+        <p><b>Old Effect</b>: Gain the Bloodline effects of your <b>most</b> used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline</p>
+        <p><b>New Effect</b>: Gain the Bloodline effects of your <b>least</b> used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline</p>
+        <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.</p>
+        <br/>
+        <p><b>Economics 5875</b>: (Prosperity)</p>
+        <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.</p>
+        <p><b>Old Formula</b>: (0.5 * x ^ 0.5), where x is your least used faction spell (This game)</p>
+        <p><b>New Formula</b>: (0.4 * x ^ 0.4), where x is your least used faction spell (This game)</p>
+        <br/>
+        <p><b>Forbidden 6000</b>: (Inevitability)</p>
+        <p><b>Effect</b>: Increase your next time head start based on time spent in this game.</p>
+        <p><b>Changed</b></p>
+        <p>Headstart is now capped at time spent in your current Reincarnation.</p>
+        <p>No longer gives double time in this Reincarnation.</p>
+        <p>No longer provides a headstart when Reincarnating.</p>
+        <br/>
+        <p><b>Share Benefits</b></p>
+        <p>Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275)</p>
+        <div class="shlisting">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.7.0 December 16, 2019</a></b></p>
+                <div class="autohide">
         <p><b>V3.7.0 December 16, 2019</b></p>
         <br/>
         <p><b>Added</b>: Added a new Christmas feat and upgrade.</p>
@@ -500,6 +582,9 @@
         <p><b>Added</b>: R46 Dragon Quests timers</p>
         <p><b>New Tutorials</b>: Multibuy, Treaties, Free Treaty Description, Automatic Casting, Spell Tiers, Bloodline Selection, 2nd Ascension + Alignments, Lineages</p>
         <p><b>Fixed</b>: Many tooltips</p>
+                </div>
+            </div>
+            </div>
         <hr>
         <p><b>Old Patches</b></p>
         <p><a href="http://musicfamily.org/realm/3.6Patch/" target="_blank"><b>V3.6</b></a>

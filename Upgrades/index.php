@@ -2283,6 +2283,7 @@ div#images div{
             <p><b>Cost</b>: 1 Qaqag (1e135)</p>
             <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Good factions.</p>
             <p><b>Effect 2</b>: Upgrades Tax Collection spell to Share Benefits. Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 36 tiers.</p>
+            <p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275)</p>
             <p><b>Formula</b>: 125 ^ (0.25 * t), where t is tier (FC chance multiplier)</p>
             <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
             <hr>

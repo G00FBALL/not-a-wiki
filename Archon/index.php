@@ -46,7 +46,7 @@
         <p><b>Challenge</b>: Have a Temporal Flux bonus of at least 54,321%.</p>
         <p><b>Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
         <p><b>Effect</b>: Increase Unique Building production based on time spent in this game.</p>
-        <p><b>Formula</b>: (3.5 * ln(1 + x / ln(10)) ^ 3.5), where x is time spent in this game.</p>
+        <p><b>Formula</b>: (8 * log10(1 + x) ^ 4), where x is time spent in this game.</p>
         <p><b>Upgrade</b>: Works with Angel+Dwarves+Archon, Undead+Drow+Archon and Titan+Dragon+Archon</p>
         <hr>
         <H6 id="ArchonAC5"></h6>
