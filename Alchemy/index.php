@@ -93,7 +93,7 @@
         <p><b>Requirement</b>: Research Plague (A1) & Decay (A135)</p>
         <p><b>Cost</b>: 82.65 Dqig (82.65E160)</p>
         <p><b>Effect</b>: Increase clicking reward based on time spent in this game.</p>
-        <p><b>Formula</b>: (0.07 * (2x) ^ 0.75)%, where x is your Playtime (This R) in seconds.</p>
+        <p><b>Formula</b>: (0.07 * (2x) ^ 0.75)%, where x is your Playtime (This Game) in seconds.</p>
         <hr>
         <p><b>A250</b> - For All Factions</p>
         <p><b>Research Name</b>: Philosopher's Stone</p>
