@@ -145,7 +145,7 @@
                     <p>A25,A400,A410,</p>
                     <p>W1,W135,W175,W405,W520,W590</p>
 					<p><b>Notes</b>: Slow starting build, especially on first run.</p>
-                    <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 8888% assistant 888% gem 88% max mana.</p>
+                    <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -645,7 +645,7 @@
                     <p>E230,E400,E495,</p>
                     <p>A25,A400,A410,</p>
                     <p>W1,W175,W205,W405,W520,W590</p>
-                    <p><b>Notes</b>: Make sure that Catalyst hits Gem Grinder, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 8888% assistant 888% gem 88% max mana.</p>
+                    <p><b>Notes</b>: Make sure that Catalyst hits Gem Grinder, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistant 88% gem 8% max mana.</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -837,7 +837,7 @@
                         <p><b>Notes</b>: Needs several days to grow for both production and assistants -> Reality Crater.</p>
                         <p><b>Notes</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
                         <p><b>Notes</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
-                        <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 8888% Assistants 888% Gems 88% Max Mana.</p>
+                        <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants 88% Gems 8% Max Mana.</p>
                         <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Assistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increases Trophies.</p>
                 </div>
             </div>

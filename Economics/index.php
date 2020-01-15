@@ -245,6 +245,6 @@
         <p><b>Requirement</b>: R181+, Forgotten Relic, Vault artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.</p>
-        <p><b>Formula</b>: (0.4 * x ^ 0.4), where x is your least used faction spell (This game)</p>
+        <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is your least used faction spell (This game)</p>
         <p><b>Note</b>: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.</p>
         <?php include "../scripts/footer.html"; ?>

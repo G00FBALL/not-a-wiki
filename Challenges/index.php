@@ -641,7 +641,7 @@
 	<p><b>Challenge</b>: Have a Temporal Flux bonus of at least 54,321%.</p>
 	<p><b>Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
 	<p><b>Effect</b>: Increase Unique Building production based on time spent in this game.</p>
-	<p><b>Formula</b>: (8 * log10(1 + x) ^ 4), where x is time spent in this game.</p>
+	<p><b>Formula</b>: (3.5 * log10(1 + x) ^ 3.5), where x is time spent in this game.</p>
 	<p><b>Upgrade</b>: Works with any Archon</p>"
 	coords="261,1287,319,1341" shape="rect">
     <area href="http://musicfamily.org/realm/Archon/#ArchonAC5" target="" research=
@@ -696,8 +696,8 @@
 	"<p><b>Djinn Challenge 4</b></p><p><b><img src=http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png align=middle> Worldly Desires</b></p>
 	<p>&quot;This generation decided that we should give them a few more wishes before they give in to our demands for a change.&quot;</p>
 	<p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
-	<p><b>Challenge</b>: Have a spell duration of at least 275 Days.</p>
-	<p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 88%, 888% and 8888%, targets chosen randomly and refreshing every 88 seconds.</p>
+	<p><b>Challenge</b>: Have a spell duration of at least 365 Days.</p>
+	<p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
 	<p><b>Upgrade</b>: Works with any Djinn</p>"
 	coords="260,1383,319,1437" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC5" target="" research=

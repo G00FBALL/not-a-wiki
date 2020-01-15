@@ -40,7 +40,5 @@
         <p><b>Requirement</b>: R182+, Forgotten Relic, Apeiron artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
         <p><b>Effect</b>: Increase your next time head start based on time spent in this game.</p>
-        <p><b>Note</b>: Capped at time spent in your current Reincarnation.</p>
-        <p><b>Note</b>: Does not count when  Reincarnating.</p>
         <p><b>Formula</b>: (x ^ 0.75), where x is time spent (This Game)</p>
         <?php include "../scripts/footer.html"; ?>
