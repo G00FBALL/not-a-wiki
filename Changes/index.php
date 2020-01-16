@@ -68,7 +68,6 @@
         <p><b>Divine 5875</b>: (Birthright)</p>
         <p><b>Old Effect</b>: Gain the Bloodline effects of your <b>most</b> used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline</p>
         <p><b>New Effect</b>: Gain the Bloodline effects of your <b>least</b> used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline</p>
-        <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.</p>
         <br/>
         <p><b>Economics 5875</b>: (Prosperity)</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.</p>

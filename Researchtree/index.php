@@ -897,7 +897,6 @@
 	<p><b>Research Name</b>: Birthright
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Gain the Bloodline effects of your least used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline.
-  <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.
 	" coords="388,673,436,723" shape="rect">
         <area research="E1 - For Goblin
 	<p><b>Research Name</b>: Coinage
