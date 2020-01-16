@@ -594,7 +594,7 @@
             <td><center>Warlord</p><img src="http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png"></td>
             <td>250 Noqag (2.50e152)</p>A1+ Free</td>
             <td>Discover at least 10 Warfare Researches.</td>
-            <td>Increase Warlord slots by 1.</td>
+            <td>Increase Warfare slots by 1.</td>
         </tr>
    </table>
       </div>
