@@ -43,7 +43,7 @@
         <p><b>Old Challenge</b>: Have a spell duration of at least 1 year (365 Days).</p>
         <p><b>New Challenge</b>: Have a spell duration of at least 275 Days.</p>
         <p><b>Old Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 8%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
-        <p><b>New Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 88%, 888% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
+        <p><b>New Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 88%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
         <br/>
         <p><b>Spellcraft 5125</b>: (Spilling)</p>
         <p><b>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.</p>
