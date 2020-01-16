@@ -367,6 +367,10 @@
                 <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
                 <p><b>Formula</b>: (125 * R)</p>
                 <br/>
+                <p><b>150th Reincarnation and up</b></p>
+                <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes based on Reincarnations made.</p>
+                <p><b>Formula</b>: (buildings * R)</p>
+                <br/>
             </div>
         </div>
         <div class="shelementwhole">

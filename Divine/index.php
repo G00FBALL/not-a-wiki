@@ -243,6 +243,6 @@
         <p><b>Research Name</b>: Birthright</p>
         <p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
-        <p><b>Effect</b>: Gain the Bloodline effects of your most used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline</p>
-        <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your most spent faction time.</p>
+        <p><b>Effect</b>: Gain the Bloodline effects of your least used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline.</p>
+        <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.</p>
         <?php include "../scripts/footer.html"; ?>

@@ -414,7 +414,7 @@
 	<p><b>Research Name</b>: Spilling
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Mana Loom artifact and upgrade
 	<p>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.
-	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This Game)
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2), where x is mana produced (This Game)
 	" coords="224,193,273,240" shape="rect">
         <area research="S5375 - For Chaos
 	<p><b>Research Name</b>: Invocation
@@ -650,21 +650,21 @@
     <p><b>Research Name</b>: Restauration
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Increase the production of all buildings based on assistants owned.
-	<p><b>Formula</b>: (0.75 * x ^ 0.25), where x is assistants owned
+	<p><b>Formula</b>: (0.5 * x ^ 0.25), where x is assistants owned.
 	" coords="224,436,272,484" shape="rect">
         <area research="C5375 - For Neutral
 	<p><b>Research Name</b>: Manufacture
 	<p><b>Requirement</b>: R177+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on Clicks made in this game.
     <p><b>Formulas</b></p>
-    <p><b>Additive</b>: (6.5 * x ^ 0.65),  where x is clicks in this game</p>
+    <p><b>Additive</b>: (6 * x ^ 0.6),  where x is clicks in this game</p>
     <p><b>Multiplicative</b>: (x ^ 0.35), where x is clicks in this game</p>
 	" coords="278,437,326,485" shape="rect">
         <area research="C5625 - For All Factions
 	<p><b>Research Name</b>: Discovery
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Factory artifact and upgrade
 	<p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.
-	<p><b>Formula</b>: (0.5 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).
+	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).
 	" coords="334,437,383,485" shape="rect">
         <area research="C5875 - For All Factions
 	<p><b>Research Name</b>: Genuineness
@@ -896,8 +896,8 @@
         <area research="D5875 - For All Factions
 	<p><b>Research Name</b>: Birthright
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade
-	<p><b>Effect</b>: Gain the Bloodline effects of your most used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline
-  <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your most spent faction time.
+	<p><b>Effect</b>: Gain the Bloodline effects of your least used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline.
+  <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your least spent faction time.
 	" coords="388,673,436,723" shape="rect">
         <area research="E1 - For Goblin
 	<p><b>Research Name</b>: Coinage
@@ -1127,7 +1127,7 @@
 	<p><b>Research Name</b>: Prosperity
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Vault artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.
-	<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is your least used faction spell (This game)
+	<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is your least used faction spell (This game)
 	<p>Note: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.
 	" coords="388,911,436,961" shape="rect">
         <area research="A1 - For Undead
@@ -1618,7 +1618,9 @@
         <area research="F6000 - For All Factions
 	<p><b>Research Name</b>: Inevitability
 	<p><b>Requirement</b>: R182+, Forgotten Relic, Forbidden artifact and upgrade
-	<p><b>Effect</b>: Increase your next time head start based on time spent in this game.
+  <p><b>Effect</b>: Increase your next time head start based on time spent in this game.</p>
+  <p><b>Note</b>: Capped at time spent in your current Reincarnation.</p>
+  <p><b>Note</b>: Does not count when  Reincarnating.</p>
 	<p><b>Formula</b>: (x ^ 0.75), where x is time spent (This Game)
 	" coords="279,1464,326,1511" shape="rect">
         <area research="Unlocked Upgrade (X): You cannot use this upgrade with the faction you are playing. (There is an option to hide these icons.)
