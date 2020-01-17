@@ -474,7 +474,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Stoic Resistance (R85+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Fortune Teller Machine, Druidline L25+
+                <p><b>Requirement</b>: Fortune Teller Machine, Druid lineage Level 25+
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
@@ -492,7 +492,8 @@
                 <p><b>Notes</b>: Recommended spam clicking or staying offline for 10 minutes or so to buff C135 and C460.</p>
                 <p><b>Notes</b>: Excavating for lineage is required</p>
                 <p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.</p>
-                <p><b>Notes</b>: Combo Deep Mines Strike + Green Breath, build tested without any LS tiers</p>
+                <p><b>Notes</b>: Combo Deep Mines Strike + Green Breath.</p>
+				<p><b>Notes</b>: Estimated build length at 16 hours(?).</p>
             </div>
         </div>
         <div class="shelementwhole">
