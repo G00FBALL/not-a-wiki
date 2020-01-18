@@ -1695,7 +1695,7 @@
                     <hr>
                 </div>
             </div>
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Building Trophies (566)?</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Building Trophies (566)</a></b></p>
             <div class="category autohide">
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Farms (22)</a></b></p>
@@ -3473,7 +3473,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Total Building (15)</a></b></p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Total Buildings (16)</a></b></p>
                     <div class="autohide">
                         <p><b>Note</b>: All Total Building Trophies are (in a single game)</p>
                         <p><img src="http://musicfamily.org/realm/Factions/picks/VillageGrinder.png" alt="Village Grinder" align="middle"><b> Village Grinder</b></p>
