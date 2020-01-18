@@ -1617,7 +1617,7 @@
                     <p><b>Effect</b>: The treasure is autoclicked 15 times per second while Moon Blessing is active.</p>
                     <p><b>Note</b>: Elven Spell</p>
                     <hr>
-                    <p><img src=http://musicfamily.org/realm/Factions/picks/God 'sRestSecretTrophy.png align=middle><b> God's Rest</b></p>
+                    <p><img src=http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png align=middle><b> God's Rest</b></p>
                     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
                     <p><b>Cost</b>: 1 M (1E6)</p>
                     <p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</p>
@@ -1668,7 +1668,7 @@
                     <p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
                     <p><b>Note</b>: Drow Spell</p>
                     <hr>
-                    <p><img src=http://musicfamily.org/realm/Factions/picks/Dragon 'sRoarFactionUpgrade.png align=middle><b> Dragon's Roar</b></p>
+                    <p><img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle><b> Dragon's Roar</b></p>
                     <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
                     <p><b>Cost</b>: 1.0e45</p>
                     <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
