@@ -11,7 +11,7 @@
 <p><b>Good Factions</b>:
 <a href="http://musicfamily.org/realm/Fairy/"><b>Fairy</b></a>
 <a href="http://musicfamily.org/realm/Elf/"><b>Elf</b></a>
-<a href="http://musicfamily.org/realm/Angel/"><b>Angel</b></a></p>
+<a href="http://musicfamily.org/realm/Angel/"><b>Angel</b></a>
 <p><b>Evil Factions</b>:
 <a href="http://musicfamily.org/realm/Goblin/"><b>Goblin</b></a>
 <a href="http://musicfamily.org/realm/Undead/"><b>Undead</b></a>
@@ -607,9 +607,7 @@
 	<p><b>Requirements</b>: Angel as Base Faction, Archon as Elite Faction, Reincarnation 135+, Chrono Loading upgrade purchased.</p>
 	<p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7)% and at least 250,000 Good buildings.</p>
 	<p><b>Effect</b>: Increase Mana Regeneration additively and multiplicatively based on the amount of Order buildings you own.</p>
-    <p><b>Formulas</b></p>
-    <p><b>Additive</b>: (0.2 * x ^ 2), where x is the amount of Order buildings you own.</p>
-    <p><b>Multiplicative</b>: (0.5 * x ^ 0.5), where x is the amount of Order buildings you own.</p>
+	<p><b>Formula</b>: Additive: (0.2 * x ^ 2), Multiplicative: (0.5 * x ^ 0.5)</p>
 	<p><b>Effect</b>: Precognition also increases Seraphim Wings and God’s Hand bonus, by double its value</p>
 	<p><b>Upgrade</b>: Works with Angel+Dwarves+Archon</p>"
 	coords="70,1289,126,1341" shape="rect">
