@@ -391,7 +391,7 @@
                 <p><b>R46</b>: Neutral Prestige (Dragons)</p>
                 <p><b>R47</b>: Neutral Prestige Research</p>
                 <p><b>R48-R65</b>: Dragon Challenges</p>
-                <p><b>R58</b>: Lineages and Perks</p>
+                <p><b>R60</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
                 <p><b>R100</b>: Second Ascension, New Alignments (Mercenary Removed)</p>
                 <p><b>R111</b>: Base Union</p>
