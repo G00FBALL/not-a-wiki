@@ -126,7 +126,7 @@
                 <p><b>Notes</b>: Assuming starting build with 0 excavations, you will need 1500 excavations for Undead Lineage level 5, 2600 for Spell Cataclysm, and 3100 for Dragon Challenge 5.</p>
             </div>
         </div>
-		        <div class="shelementwhole">
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buffer (R60-R69)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>

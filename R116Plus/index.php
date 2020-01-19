@@ -94,11 +94,10 @@
                 <p>S10,S400,</p>
                 <p>C25,C340,C405,C520,</p>
                 <p>D1,D175,D435,D590,D1375,</p>
-                <p>E145,E410,</p>
-                <p>A250,A50,A495,</p>
+                <p>E400,E410,</p>
+                <p>A120,A50,A495,</p>
                 <p>W225,W400,W560</p>
                 <p><b>Notes</b>: Slow build, works best after at least 1d ~ 1d12h time spent this game.</p>
-                <p><b>Notes</b>: Buffs S400 by itself up to around 180k after a few days.</p>
             </div>
         </div>
     </div>

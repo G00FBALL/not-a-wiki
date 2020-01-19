@@ -15,41 +15,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titan Starter R75</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Cyden</p>
-                <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
-                <p><b>Faction</b>: Titan/Dragon</p>
-                <p><b>Bloodline</b>: Druid</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S105,S150,S215,S270,S330,S500,C150,C250,C330,C340,C375,C400,C500,D55,D200,D250,D290,D320,D330,E135,E145,E275,E320,E330,E400,A105,A120,A250,A270,A305,A400,W150,W180,W250,W290,W320,W330,W400" id="Build"></p>
-                <p>S105,S150,S215,S270,S330,S500,</p>
-                <p>C150,C250,C330,C340,C375,C400,C500,</p>
-                <p>D55,D200,D250,D290,D320,D330,</p>
-                <p>E135,E145,E275,E320,E330,E400,</p>
-                <p>A105,A120,A250,A270,A305,A400,</p>
-                <p>W150,W180,W250,W290,W320,W330,W400</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R75</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Cyden</p>
-                <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
-                <p><b>Faction</b>: Faceless/Dragon</p>
-                <p><b>Bloodline</b>: Titan</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D260,D290,D320,D330,D1125,D1275,D1375,E135,E145,E320,E400,E1225,E1425,A105,A120,A150,A270,A305,A400,W180,W275,W290,W400,W1275,W1375" id="Build"></p>
-                <p>S200,S215,S305,S330,S375,S1450,S1500,</p>
-                <p>C150,C250,C340,C400,C1300,C1325,</p>
-                <p>D260,D290,D320,D330,D1125,D1275,D1375,</p>
-                <p>E135,E145,E320,E400,E1225,E1425,</p>
-                <p>A105,A120,A150,A270,A305,A400,</p>
-                <p>W180,W275,W290,W400,W1275,W1375</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter R76+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Requirement</b>: Demon Lineage 20+ (Demon perk 2 NOT needed)
@@ -68,7 +34,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R76+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e27 (1 Oc) - 1e88/1e91 (10 Ocvg/10 Novg) Gems</p>
@@ -91,6 +57,29 @@
             </div>
         </div>
     </div>
+	<br />
+	<p><b>Low Gem Buff Builds</b></p>
+    <div class="category">
+	        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buffer<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Cyden</p>
+                <p><b>Range</b>: ? - 1e90 (1 Novg) Gems</p>
+                <p><b>Faction</b>: Druid/Dragon</p>
+                <p><b>Bloodline</b>: Undead</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S305,S330,S400,S500,S1450,C150,C250,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,D1375,E135,E145,E260,E320,E1225,E1325,E1425,A105,A120,A150,A375,A400,A545,A1500,W135,W180,W250,W350,W400,W1375" id="Build"></p>
+                <p>S215,S305,S330,S400,S500,S1450,</p>
+                <p>C150,C250,C340,C400,C1300,C1325,</p>
+                <p>D250,D275,D290,D1125,D1275,D1375,</p>
+                <p>E135,E145,E260,E320,E1225,E1325,E1425,</p>
+                <p>A105,A120,A150,A375,A400,A545,A1500,</p>
+                <p>W135,W180,W250,W350,W400,W1375</p>
+				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
+                <p><b>Notes</b>: Excavate for Dragon's Breath 5.</p>
+            </div>
+        </div>
+	</div>
     <br/>
     <p><b>Mercenary Research and Unique Building Unlock</b></p>
     <div class="category">
@@ -342,36 +331,6 @@
                 <p><b>Notes</b>: Swap C150->C1500 if higher.</p>
                 <p><b>Notes</b>: Swap A590->A150 on long runs (8+ (?) hours long)</p>
                 <p><b>Notes</b>: Swap GB->FC and DD7->FC7 if you don't have GB10</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lunar Ascension (R95+)<font color="Blue"> Good</font></a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Kuerti</p>
-                <p><b>Requirement</b>: Veteran Figurine, GB11
-                <p><b>Range</b>: 1e129+ (1 DQag) Gems</p>
-                <p><b>Faction</b>: Good Mercenary</p>
-                <p><b>Bloodline</b>: Fairy</p>
-                <p><b>A2950</b>: Dragon</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,FR7,EL3,EL7,AN5,TT6,DD6,DD7,DN2,DG3,DG4,DG9,MA:FR1,SP:Dragon's Breath,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C10,C225,C340,C590,C1300,C3000,D25,D290,D525,D1275,D2775,D3350,E50,E135,E350,E1225,E3250,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W150,W1275,W1400,W3050,W3150"> <b>E350, C10</b></p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,FR7,EL3,EL7,AN5,TT6,DD6,DD7,DN2,DG3,DG4,DG9,MA:FR1,SP:Dragon's Breath,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C10,C225,C340,C590,C1300,C3000,D25,D290,D525,D1275,D2775,D3350,E50,E135,E230,E1225,E3250,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W150,W1275,W1400,W3050,W3150"> <b>E230, C10</b></p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,FR7,EL3,EL7,AN5,TT6,DD6,DD7,DN2,DG3,DG4,DG9,MA:FR1,SP:Dragon's Breath,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C1500,C3000,D25,D290,D525,D1275,D2775,D3350,E50,E135,E350,E1225,E3250,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W150,W1275,W1400,W3050,W3150"> <b>E350, C1500</b></p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,FR7,EL3,EL7,AN5,TT6,DD6,DD7,DN2,DG3,DG4,DG9,MA:FR1,SP:Dragon's Breath,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C1500,C3000,D25,D290,D525,D1275,D2775,D3350,E50,E135,E230,E1225,E3250,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W150,W1275,W1400,W3050,W3150"> <b>E230, C1500</b></p>
-                <p>FR3,FR7,EL3,EL7,AN5,TT6,DD6,DD7,DN2,DG3,DG4,DG9,MA:FR1,</p>
-                <p>SP:Dragon's Breath,SP:Grand Balance,</p>
-                <p>S215,S305,S330,S1275,S1450,S1500,</p>
-                <p>C10,C225,C340,C590,C1300,C3000,</p>
-                <p>D25,D290,D525,D1275,D2775,D3350,</p>
-                <p>E50,E135,E350,E1225,E3250,E3300,</p>
-                <p>A30,A120,A270,A1500,A2950,A3400,</p>
-                <p>W10,W150,W1275,W1400,W3050,W3150</p>
-				<p><b>Notes</b>: Build depends on Fairy Chanting growth. The longer its been active, the better.</p>
-                <p><b>Notes</b>: Swap E350 with E230 after (?) hours of evil time this R</p>
-                <p><b>Notes</b>: Swap C10 with C1500 if higher</p>
             </div>
         </div>
         <div class="shelementwhole">

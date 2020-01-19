@@ -408,9 +408,9 @@
                             <p>E350,E1225,E1325,</p>
                             <p>A270,A300,A1200,</p>
                             <p>W275,W1275,W1400</p>
-                            <p><b>Notes</b>: Buff Max assistants with Fairyline Undead if you havent yet ran Angelline Demons this R.</p>
-							              <p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
-							              <p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
+                            <p><b>Notes</b>: Buff Max assistants and spell casts before running this build.</p>
+							<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
+							<p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
                             <p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
                             <p><b>Notes</b>: Estimated time to completion is 24 hours.</p>
                         </div>
