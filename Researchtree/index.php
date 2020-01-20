@@ -52,7 +52,7 @@
             <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
-            <td><input id="reinc" type="number" min="16" max="100" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
+            <td><input id="reinc" type="number" min="16" max="190" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
             <td id="rp"></td>
             <td id="Coins"></td>
             <td id="Gems"></td>
@@ -145,7 +145,23 @@
             "97": {"RP": "4753", "CoinSc": "6.54e284", "CoinSh": "653.54 Tnog", "FCSc": "6.65e13", "FCSh": "66.49 T", "GemsSc": "3.62e136", "GemsSh": "36.15 Qaqag"},
             "98": {"RP": "4851", "CoinSc": "5.80e290", "CoinSh": "580.31 Qinog", "FCSc": "7.21e13", "FCSh": "72.12 T", "GemsSc": "3.41e139", "GemsSh": "34.07 Qiqag"},
             "99": {"RP": "4950", "CoinSc": "5.93e296", "CoinSh": "592.58 Spnog", "FCSc": "7.82e13", "FCSh": "78.16 T", "GemsSc": "3.44e142", "GemsSh": "34.43 Sxqag"},
-            "100": {"RP": "5000 Maxed", "CoinSc": "N/A", "CoinSh": "", "FCSc": "8.46e13", "FCSh": "84.63 T", "GemsSc": "N/A", "GemsSh": ""}
+            "100": {"RP": "5000", "CoinSc": "N/A", "CoinSh": "", "FCSc": "8.46e13", "FCSh": "84.63 T", "GemsSc": "N/A", "GemsSh": ""},
+			"175": {"RP": "5125", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"176": {"RP": "5250", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"177": {"RP": "5375", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"178": {"RP": "5500", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"179": {"RP": "5625", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"180": {"RP": "5750", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"181": {"RP": "5875", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"182": {"RP": "6000", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"183": {"RP": "6125", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"184": {"RP": "6250", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"185": {"RP": "6375", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"186": {"RP": "6500", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"187": {"RP": "6625", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"188": {"RP": "6750", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"189": {"RP": "6875", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
+			"190": {"RP": "7000", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"}
         };
         function CalcCost() {
             var reinc = parseInt($('#reinc').val());
