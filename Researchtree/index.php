@@ -161,10 +161,14 @@
 			"187": {"RP": "6625", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
 			"188": {"RP": "6750", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
 			"189": {"RP": "6875", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"},
-			"190": {"RP": "7000", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"}
+			"190": {"RP": "7000 Maxed", "CoinSc": "?", "CoinSh": "?", "FCSc": "?", "FCSh": "?", "GemsSc": "?", "GemsSh": "?"}
         };
         function CalcCost() {
             var reinc = parseInt($('#reinc').val());
+			// Rather than duplicating 75 lines..
+			if (reinc < 175 && reinc > 100) {
+				reinc = 100;
+			}
             $('#rp').text(rtorp[reinc].RP);
             $('#Coins').text(rtorp[reinc].CoinSh + " (" + rtorp[reinc].CoinSc + ")");
             $('#Gems').text(rtorp[reinc].GemsSh + " (" + rtorp[reinc].GemsSc + ")");
