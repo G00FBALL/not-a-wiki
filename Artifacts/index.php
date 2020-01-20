@@ -513,73 +513,73 @@
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png align=middle> <b>Silk Cloth</b></p>
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
     <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Fairy</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Fairy, Pink Carrot and Bottled Voice artifacts.</p>
     <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
     " coords="196,428,252,486" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png align=middle> <b>Raw Emerald</b></p>
     <p><b>Clue</b>: Not found on the first Excavation round.</p>
     <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Elven</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Elven, Lucky Clover and Mini-treasure artifacts.</p>
     <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10000)%, where x is free and ruby excavation resets (this game).</p>
     " coords="260,429,317,486" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png align=middle> <b>Fossilized Wing</b></p>
     <p><b>Clue</b>: Angels may fall after a long time.</p>
     <p><b>Description</b>: The remains of an Angel fallen to earth.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Angel</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Angel, Pillar Fragment and Divine Sword artifacts.</p>
     <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all time) in seconds.</p>
     " coords="324,428,382,485" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png align=middle> <b>Spiked Whip</b></p>
     <p><b>Clue</b>: Used by the overseers in the Slave Markets.</p>
     <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Goblin</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Goblin, Ancient Coin Piece and Goblin Purse artifacts.</p>
     <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
     " coords="387,428,445,485" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png align=middle> <b>Dusty Coffin</b></p>
     <p><b>Clue</b>: Quick! Quick! You have no time to waste!</p>
     <p><b>Description</b>: Sealed since forever, yet you can hear a strange noise from within.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Undead</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Undead, Rotten Organ and Jaw Bone artifacts.</p>
     <p><b>Chance</b>: (1 / (30 + x ^ 1.5))%, where x is time this game in seconds.</p>
     " coords="4,492,60,550" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/CrystallizedLavaArtifact.png align=middle> <b>Crystallized Lava</b></p>
     <p><b>Clue</b>: Found in the Burning Abysses.</p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Demon</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Demon, Demonic Figurine and Demon Horn artifacts</p>
     <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
     " coords="68,492,125,548" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png align=middle> <b>Titan Helmet</b></p>
     <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
     <p><b>Description</b>: Made of enough metal to craft a human-sized full plate.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Titan</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Titan, Huge Titan Statue and Titan Shield artifacts.</p>
     <p><b>Chance</b>: ((x ^ 2) / 1,500,000,000 (1.5B))%, where x is Royal Exchanges (Royal Exchange count multipliers <b>DO NOT</b> count).</p>
     " coords="132,491,189,548" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/BranchoftheLifeTreeArtifact.png align=middle> <b>Branch of the Life Tree</b></p>
     <p><b>Clue</b>: Found in the remains of druidic ancestors.</p>
     <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.</p>
-    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Druid</p>
+    <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Druid, Glyph Table and Stone of Balance artifacts.</p>
     <p><b>Chance</b>:  ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.</p>
     " coords="196,490,253,548" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png align=middle> <b>Nightmare Figment</b></p>
     <p><b>Clue</b>: A strong and quick brain is required.</p>
     <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.</p>
-    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Faceless</p>
+    <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Faceless, Translucent Goo and Octupus-shaped Helmet artifacts.</p>
     <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.</p>
     " coords="260,491,317,549" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/BeardHair.png align=middle> <b>Beard Hair</b></p>
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
-    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf</p>
+    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
     <p><b>Chance</b>: (x / 100000000 (100M))%, where x is assistant count</p>
     " coords="323,493,381,551" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>
     <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
-    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Drow</p>
+    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Drow, Ceremonial Dagger and Arachnid Figurine artifacts.</p>
     <p><b>Chance</b>: ((40 * x ^ 0.9) / 10000000 (10M))%, where x is combo strike count</p>
     " coords="388,492,446,550" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/DragonScale.png align=middle> <b>Dragon Scale</b></p>
     <p><b>Clue</b>: Usually found when a lot of magic is lingering.</p>
     <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
-    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dragon</p>
+    <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dragon, Dragon Fang and Dragon Soul artifacts.</p>
     <p><b>Chance</b>: (x / 2500)%, where x is active spells</p>
     " coords="4,555,60,613" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/LanternofGuidanceArtifact.png align=middle> <b>Lantern of Guidance</b></p>
@@ -616,7 +616,7 @@
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/MercenaryInsigniaArtifact.png align=middle> <b>Mercenary Insignia</b></p>
     <p><b>Clue</b>: Gem rhabdomancy seems to work best.</p>
     <p><b>Description</b>: The infamous metal cross of the Mercenaries. You should be both proud and afraid to carry one.</p>
-    <p><b>Requirement</b>: R160+, Play as Mercenary</p>
+    <p><b>Requirement</b>: R160+, Play as Mercenary, Steel Plate and Black Sword artifacts.</p>
     <p><b>Chance</b>: (floor(log10(x) - 37) * 0.1)%, x is gems owned.</p>
     " coords="324,555,381,612" shape="rect">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaLoom.png align=middle> <b>Mana Loom</b></p>
