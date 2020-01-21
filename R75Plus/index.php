@@ -30,7 +30,7 @@
                 <p>E135,E145,E275,E320,E330,E400,</p>
                 <p>A105,A120,A250,A270,A305,A400,</p>
                 <p>W120,W150,W180,W260,W320,W330,W400</p>
-                <p><b>Note</b>: Excavate for the royal exchanges to buy the lineage.</p>
+                <p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -52,8 +52,10 @@
                 <p>E135,E145,E320,E400,E1225,E1425,</p>
                 <p>A105,A120,A150,A270,A305,A400,</p>
                 <p>W180,W275,W290,W400,W1275,W1375</p>
-                <p><b>Note</b>: Swap W290->W3150 for R80+</p>
-                <p><b>Note</b>: Swap S200->S3200 for R82+ if you can ever afford it</p>
+				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
+                <p><b>Notes</b>: Swap W290->W3150 for R80+.</p>
+                <p><b>Notes</b>: Swap S200->S3200 for R82+ if you can ever afford it.</p>
+				<p><b>Notes</b>: Running W275 buff build is recommended when build slows down.</p>
             </div>
         </div>
     </div>

@@ -47,6 +47,7 @@
                 <p>A105,A120,A270,A305,A400,</p>
                 <p>W180,W275,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
+				<p><b>Notes</b>: Running W275 buff build is recommended when build slows down.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -82,6 +83,7 @@
                 <p>A105,A120,A150,A270,A305,A400,</p>
                 <p>W180,W275,W290,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
+				<p><b>Notes</b>: Running W275 buff build is recommended when build slows down.</p>
             </div>
         </div>
     </div>
