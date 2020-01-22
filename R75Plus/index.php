@@ -283,15 +283,20 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairydust (R90+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
-                <p><b>Requirement</b>: Veteran Figurine
+                <p><b>Requirement</b>: Veteran Figurine</p>
                 <p><b>Range</b>: 1e78 (1 Qivg) Gems - 1e116 (100 Sptg) Gems</p>
                 <p><b>Faction</b>: Neutral Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Dragon</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR2,EL3,AN5,AN9,TT6,DD4,FC2,FC7,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D290,D590,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A105,A120,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W3150"></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR2,EL3,AN5,AN9,TT6,DD4,FC2,FC7,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D290,D590,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A30,A120,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W3150"> <b>T3+ Fairy Chanting</b></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR2,EL3,AN5,AN9,TT6,DD4,FC2,FC7,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D290,D590,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A105,A120,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W3150">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR2,EL3,AN5,AN9,TT6,DD4,FC2,FC7,DN8,DG3,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D290,D590,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A30,A120,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W3150">
+					<b>T3+ Fairy Chanting</b>
+				</p>
                 <p>FR2,EL3,AN5,AN9,TT6,DD4,FC2,FC7,DN8,DG3,DG4,DG9,</p>
                 <p>SP:Dragon's Breath,SP:God's Hand,</p>
                 <p>S215,S305,S330,S1450,S1500,S3200,</p>
@@ -300,29 +305,40 @@
                 <p>E135,E350,E1225,E1425,E3250,E3300,</p>
                 <p>A105,A120,A1200,A1500,A2950,A3400,</p>
                 <p>W180,W275,W400,W1275,W1375,W3150</p>
-                <p><b>Notes</b>: Excavate for lineage, upgrades and spell tiers</p>
-                <p><b>Notes</b>: Swap A105->A30 if T3+ Fairy Chanting</p>
+                <p><b>Notes</b>: Excavate for lineage, upgrades and spell tiers.</p>
+                <p><b>Notes</b>: Swap A105->A30 if T3+ Fairy Chanting.</p>
             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Debtor's Wings (R90+)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: 6000j</p>
-                <p><b>Requirement</b>: Veteran Figurine
+                <p><b>Requirement</b>: Veteran Figurine</p>
                 <p><b>Range</b>: 1e116+ (100 Sptg) Gems</p>
                 <p><b>Faction</b>: Evil Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>A2950</b>: Titan</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> <b>C1500 is higher</b></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A150,A410,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> <b>long runs</b></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,FC7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Fairy Chanting,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E135,E10,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150"> <b>No GB10</b></p>
-                <p>EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,MA:UD7</p>
-                <p>SP:God's Hand,SP:Grand Balance,</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR7,EL3,AN2,AN9,AN5,AN6,TT6,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Fairy Chanting,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR7,EL3,AN2,AN9,AN5,AN6,TT6,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Fairy Chanting,S50,S215,S305,S1450,S1500,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150">
+					<b>C1500 is higher</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150">
+					<b>Primal Balance +9</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL3,AN2,AN9,AN5,AN6,TT6,DD7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,S3200,C340,C400,C590,C1300,C1500,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E230,E1225,E3250,E3300,A120,A150,A410,A1500,A2950,A3400,W180,W205,W400,W525,W3050,W3150">
+					<b>(8+ (?) hours long</b>
+				</p>
+                <p>FR7,EL3,AN2,AN9,AN5,AN6,TT6,DN2,DN8,DG3,DG4,DG9,MA:UD7</p>
+                <p>SP:God's Hand,SP:Fairy Chanting,</p>
                 <p>S50,S215,S305,S1450,S1500,S3200,</p>
                 <p>C150,C340,C400,C590,C1300,C3000,</p>
                 <p>D25,D275,D1275,D1375,D2775,D3350,</p>
@@ -330,25 +346,33 @@
                 <p>A120,A410,A590,A1500,A2950,A3400,</p>
                 <p>W180,W205,W400,W525,W3050,W3150</p>
                 <p><b>Notes</b>: Swap C150->C1500 if higher.</p>
+				<p><b>Notes</b>: Swap Fairy Chanting->Grand Balance and FC7->DD7 if you don't have at least Primal Balance +9</p>
                 <p><b>Notes</b>: Swap A590->A150 on long runs (8+ (?) hours long)</p>
-                <p><b>Notes</b>: Swap GB->FC and DD7->FC7 if you don't have GB10</p>
             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonist Manifesto (R95+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: somarilnos</p>
-                <p><b>Requirement</b>: GB11 unlock (use Mana Breeder Reactor build to do this)
-                <p><b>Range</b>: 1 Dqag-2 QiQag (e129-2e138) Gems</p>
+                <p><b>Requirement</b>: Primal Balance +10 (use Mana Breeder Reactor build to do this)</p>
+                <p><b>Range</b>: 1e129 (1 Dqag) Gems+</p>
                 <p><b>Faction</b>: Good Mercenary</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>A2950</b>: Elf</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C10,C225,C340,C590,C1300,C3000,D25,D290,D525,D1275,D1375,D2775,E50,E135,E350,E460,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150"></p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E50,E135,E350,E460,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150"> <b>C3100</b></b></p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E50,E135,E290,E350,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150"> <b>C3100 and E290</b></b></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C10,C225,C340,C590,C1300,C3000,D25,D290,D525,D1275,D1375,D2775,E50,E135,E350,E460,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E50,E135,E350,E460,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
+					<b>C3100</b>
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E50,E135,E290,E350,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
+					<b>C3100 and E290</b>
+				</p>
                 <p>FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,</p>
                 <p>SP:Fairy Chanting,SP:Grand Balance,</p>
                 <p>S215,S305,S330,S1275,S1450,S1500,</p>
@@ -359,7 +383,7 @@
                 <p>W10,W25,W1275,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Performs better than Lunar Ascension currently in this range, meant for longer (8+ hour) runs.</p>
                 <p><b>Notes</b>: Swap E460 with E290 for additional ruby excavations.</p>
-                <p><b>Notes</b>: Swap C10 with C3100 if unlocked (2-3 times better production)</p>
+                <p><b>Notes</b>: Swap C10 with C3100 if unlocked.</p>
             </div>
         </div>
     </div>
