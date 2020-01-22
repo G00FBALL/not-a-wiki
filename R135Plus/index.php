@@ -149,7 +149,7 @@
                     <p>E230,E400,E495,</p>
                     <p>A25,A400,A410,</p>
                     <p>W1,W135,W175,W405,W520,W590</p>
-					<p><b>Notes</b>: Slow starting build, especially on first run.</p>
+					<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run.</p>
                     <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
                 </div>
             </div>
@@ -452,7 +452,7 @@
 							<p>E1,E225,E320,E495,E590,</p>
 							<p>A10,A400,A410,</p>
 							<p>W25,W205,W405,W520</p>
-                            <p><b>Note</b>: Buff Max Spells (S400 3e5 (300 K)+), Max Excavations, Excavation resets and Max assistants.</p>
+                            <p><b>Notes</b>: Buff Max Spells (S400 3e5 (300 K)+), Max Excavations, Excavation resets and Max assistants.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -475,9 +475,9 @@
 							<p>A1200,A400,A270,A120,A3400,</p>
 							<p>W260,W1400,W1375,W1275,W400,W180</p>
                             <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
-                            <p><b>Note</b>: Build is listed in order of purchase.</p>
-                            <p><b>Note</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
-                            <p><b>Note</b>: Starts slow but grows well, estimated 24 hours (?) to complete (needs 3.87e18 (3.87 Qi) mana generated this game).</p>
+                            <p><b>Notes</b>: Build is listed in order of purchase.</p>
+                            <p><b>Notes</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
+                            <p><b>Notes</b>: Starts slow but grows well, estimated 24 hours (?) to complete (needs 3.87e18 (3.87 Qi) mana generated this game).</p>
                         </div>
                     </div>
                 </div>
@@ -505,8 +505,8 @@
                     <p>E25,E320,E410,</p>
                     <p>A400,A495,</p>
                     <p>W10,W560,W1375</p>
-                    <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless Set.</p>
-                    <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+                    <p><b>Notes</b>: Buff Total Excavations and Excavation resets, Faceless Set.</p>
+                    <p><b>Notes</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -532,12 +532,12 @@
                     <p>E1,E225,E320,E495,E590,</p>
                     <p>A10,A400,A410,</p>
                     <p>W25,W205,W405,W520</p>
-                    <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless set.</p>
-                    <p><b>Note</b>: Can level most Lineages including Angeline.</p>
-                    <p><b>Note</b>: Swap W205 -> W1375 when doing Faceless.</p>
+                    <p><b>Notes</b>: Buff Total Excavations and Excavation resets, Faceless set.</p>
+                    <p><b>Notes</b>: Can level most Lineages including Angeline.</p>
+                    <p><b>Notes</b>: Swap W205 -> W1375 when doing Faceless.</p>
                 </div>
             </div>
-			            <div class="shelementwhole">
+			<div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Elves (R139+) (Drow L45)</a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Meta</p>
@@ -555,12 +555,12 @@
                     <p>E25,E320,E410,</p>
                     <p>A400,A495,</p>
                     <p>W10,W560,W1375</p>
-                    <p><b>Note</b>: Buff Total Excavations and Excavation resets, Faceless Set.</p>
-                    <p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+                    <p><b>Notes</b>: Buff Total Excavations and Excavation resets, Faceless Set.</p>
+                    <p><b>Notes</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (R139+) (Makers L45)</a></b> Needs Testing</p>
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (R148+) (Makers L45)</a></b> Needs Testing</p>
                 <div class="autohide">
                     <p><b>Author</b>: Silver</p>
                     <p><b>Requirements</b>: Goblin Lineage L45</p>
@@ -579,37 +579,36 @@
                     <p>A50,A400,A495,</p>
                     <p>W225,W560,W1375</p>
 					<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
-                    <p><b>Note</b>: Buff Total Excavations and Excavation resets.</p>
-                    <p><b>Note</b>: Estimated time to L45 is ?.</p>
-                </div>
-            </div>
-			<div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (R148+) (Makers L45)</a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Kiluh</p>
-                    <p><b>Requirements</b>: Goblin Lineage L45, Djinn Challenge 4</p>
-                    <p><b>Range</b>: ?</p>
-                    <p><b>Faction</b>: Faceless</p>
-                    <p><b>Bloodline</b>: Makers</p>
-                    <p><b>Artifact Set</b>: Faceless</p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build">
-                    </p>
-                    <p>S251,S375,S400,S1450,S1500,</p>
-                    <p>C400,C1300,</p>
-                    <p>D260,D290,D1125,</p>
-                    <p>E320,E350,E1225,</p>
-                    <p>A300,A1200,A3400,</p>
-                    <p>W275,W1375,W1400</p>
-                    <p><b>Note</b>: Buff Max Assistants, Max Spells, Total Excavations and Excavation resets.</p>
-                    <p><b>Note</b>: Estimated time to L45 is 0.5-1 hours with 600k (6e5) S400, 1.3M (1.3e6) 57 excavation resets, 100 Qa (1e17) max assistants. Estimated time heavily differs on buffs.</p>
+                    <p><b>Notes</b>: Buff Total Excavations and Excavation resets.</p>
+                    <p><b>Notes</b>: Estimated time to L45 is 30 minutes.</p>
                 </div>
             </div>
         </div>
         <br/>
         <p><b>Buff Builds</b></p>
         <div class="category">
+			<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (Early W175)</a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: EatMoreBacon</p>
+					<p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
+                    <p><b>Range</b>: ?</p>
+                    <p><b>Faction</b>: Demon</p>
+                    <p><b>Bloodline</b>: Angel</p>
+                    <p><b>Artifact Set</b>: Faceless</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S435,S3200,C50,C400,D10,D290,D560,A25,A410,A3400,W1,W175,W405,W520,W590,W1375" id="Build">
+                    </p>
+                    <p>S435,S3200,</p>
+                    <p>C50,C400,</p>
+                    <p>D10,D290,D560,</p>
+                    <p>E230,E400,E495,</p>
+                    <p>A25,A410,A3400,</p>
+                    <p>W1,W175,W405,W520,W590,W1375</p>
+					<p><b>Notes</b>: Intended to jumpstart W175 for running Angelline demons production builds. Run for 30 minutes before changing to the production build.</p>
+                </div>
+            </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Max Assistants)</a></b></p>
                 <div class="autohide">
@@ -820,30 +819,6 @@
                     <p>A50,A400,A495,</p>
                     <p>W180,W225,W560</p>
                     <p><b>After Archon Treaty</b>: S400,C340,D290,E290,A120,W400 (Reimport Build)</p>
-                </div>
-            </div>
-			<div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Demons (R157+) (End of A2 - ruby #41 excavator)</a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Rellikrellik</p>
-                    <p><b>Faction</b>: Demon</p>
-                    <p><b>Bloodline</b>: Makers</p>
-                    <p><b>Artifact Set</b>: Undead</p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S435,S3200,C50,C340,D10,D290,D560,E230,E290,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build">
-                    </p>
-                    <p>S435,S3200,
-                        <p>C50,C340,</p>
-                        <p>D10,D290,D560,</p>
-                        <p>E230,E290,E495,</p>
-                        <p>A25,A400,A410,</p>
-                        <p>W1,W175,W205,W405,W520,W590</p>
-                        <p><b>Notes</b>: Needs several days to grow for both production and assistants -> Reality Crater.</p>
-                        <p><b>Notes</b>: Buff max spells cast, mana generated and clicks this R beforehand.</p>
-                        <p><b>Notes</b>: Build is focused on assistants moreso than may be necessary, for more production switch D290 -> D1375, (Undead set, S3200) -> (Demon set, S400).</p>
-                        <p><b>Notes</b>: For maximum production, make sure that Drow Union is targetting Evil Fortress, Catalyst hits God's Hand, Maelstrom hits Evil Fortresses by number of trophies, and Limited Wish is increasing trophy count and DJC4 (Worldly Desires) is on 888% Assistants.</p>
-                        <p><b>Notes</b>: For cheapest excavations, excavate during DJC4: Assistants > Gems > Max Mana, Catalyst hits Gem Grinder and Limited Wish increases Trophies.</p>
                 </div>
             </div>
         </div>
