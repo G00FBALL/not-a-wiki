@@ -407,7 +407,6 @@
                 <p>A105,A120,A270,A1500,A2950,A3400,</p>
                 <p>W10,W25,W1275,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Meant for longer (8+ hour) runs.</p>
-				<p><b>Notes</b>: May require Dragon's Breath on x2 blue in order to afford all possible Share Benefits tiers.</p>
                 <p><b>Notes</b>: Swap E460 with E290 for additional ruby excavations.</p>
             </div>
         </div>
