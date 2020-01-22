@@ -40,7 +40,7 @@
                 <p><b>Bloodline</b>: Titan</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,A105,A120,A305,A400,A545,W180,W275,W400,W1275,W1375" id="Build"></p>
-                <p>SS215,S270,S305,S330,S1450,S1500,</p>
+                <p>S215,S270,S305,S330,S1450,S1500,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D260,D290,D320,D1125,D1275,D1375,</p>
                 <p>E135,E400,E1225,E1325,E1425,</p>
@@ -77,7 +77,7 @@
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S215,S270,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W290,W400,W1275,W1375" id="Build"></p>
 					<p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D200,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W290,W400,W1275,W1375" id="Build">2 hours+</p>
+                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D200,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1325,E1425,A105,A150,A270,A305,A400,A545,W180,W275,W290,W400,W1275,W1375" id="Build">2 hours+</p>
                 <p>S215,S270,S305,S330,S375,S1450,S1500,</p>
                 <p>C150,C250,C340,C400,C1300,C1325,</p>
                 <p>D55,D260,D290,D320,D1125,D1275,D1375,</p>
@@ -86,7 +86,7 @@
                 <p>W180,W275,W290,W400,W1275,W1375</p>
                 <p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
 				<p><b>Notes</b>: Running W275 buff build is recommended when build slows down.</p>
-				<p><b>Notes</b>: Swap S270->S200, D290->D200, E400->E320, A120->S270 for longer (2 hours+) runs.</p>
+				<p><b>Notes</b>: Swap S270->S200, D290->D200, E400->E320, A120->A270 for longer (2 hours+) runs.</p>
             </div>
         </div>
     </div>
