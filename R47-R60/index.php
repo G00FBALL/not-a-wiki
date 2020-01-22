@@ -17,7 +17,7 @@
 	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Start (R46-48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R46-48)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Necrodoom</p>
 				<p><b>Range</b>: 0 - 1e33 (1 Dc) Gems (R46) / 0-1e27 (1 Oc) Gems (R47-R48)</p>
@@ -191,14 +191,14 @@
 				<p><b>Bloodline</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S215,S305,S330,S375,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E145,E460,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W290,W400,W1375" id="Build">
+					<input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E400,E1225,E1325,E1425,A105,A120,A305,A400,A545,W180,W275,W400,W1275,W1375" id="Build">
 				</p>
-				<p>S215,S305,S330,S375,S1450,S1500,</p>
+				<p>S215,S270,S305,S330,S1450,S1500,</p>
 				<p>C250,C340,C400,C1300,C1325,</p>
 				<p>D260,D290,D320,D1125,D1275,D1375,</p>
-				<p>E135,E145,E460,E1225,E1425,</p>
-				<p>A105,A120,A270,A305,A400,</p>
-				<p>W180,W275,W290,W400,W1375</p>
+				<p>E135,E400,E1225,E1325,E1425,</p>
+				<p>A105,A120,A305,A400,A545,</p>
+				<p>W180,W275,W400,W1275,W1375</p>
 			</div>
 		</div>
 	</div>

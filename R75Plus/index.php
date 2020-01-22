@@ -41,20 +41,20 @@
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Titan</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D260,D290,D320,D330,D1125,D1275,D1375,E135,E145,E320,E400,E1225,E1425,A105,A120,A150,A270,A305,A400,W180,W275,W290,W400,W1275,W1375" id="Build"></p>
+                    <input type="text" value="S215,S270,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W290,W400,W1275,W1375" id="Build"></p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D260,D290,D320,D330,D1125,D1275,D1375,E135,E145,E320,E400,E1225,E1425,A105,A120,A150,A270,A305,A400,W180,W275,W400,W1275,W1375,W3150" id="Build"> R80+</p>
+                    <input type="text" value="S215,S270,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W400,W1275,W1375,W3150" id="Build"> R80+</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S305,S330,S375,S1450,S1500,S3200,C150,C250,C340,C400,C1300,C1325,D260,D290,D320,D330,D1125,D1275,D1375,E135,E145,E320,E400,E1225,E1425,A105,A120,A150,A270,A305,A400,W180,W275,W400,W1275,W1375,W3150" id="Build"> R82+</p>
-                <p>S200,S215,S305,S330,S375,S1450,S1500,</p>
+                    <input type="text" value="S215,S270,S305,S330,S1450,S1500,S3200,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W400,W1275,W1375,W3150" id="Build"> R82+</p>
+                <p>S215,S270,S305,S330,S375,S1450,S1500,</p>
                 <p>C150,C250,C340,C400,C1300,C1325,</p>
-                <p>D260,D290,D320,D330,D1125,D1275,D1375,</p>
-                <p>E135,E145,E320,E400,E1225,E1425,</p>
-                <p>A105,A120,A150,A270,A305,A400,</p>
+                <p>D55,D260,D290,D320,D1125,D1275,D1375,</p>
+                <p>E135,E145,E400,E1225,E1325,E1425,</p>
+                <p>A105,A120,A150,A305,A400,A545,</p>
                 <p>W180,W275,W290,W400,W1275,W1375</p>
 				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 6).</p>
                 <p><b>Notes</b>: Swap W290->W3150 for R80+.</p>
-                <p><b>Notes</b>: Swap S200->S3200 for R82+ if you can ever afford it.</p>
+                <p><b>Notes</b>: Swap S375->S3200 for R82+ if you can ever afford it.</p>
 				<p><b>Notes</b>: Running W275 buff build is recommended when build slows down.</p>
             </div>
         </div>
