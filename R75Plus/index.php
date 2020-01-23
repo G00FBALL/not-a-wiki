@@ -23,13 +23,13 @@
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Demon</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S105,S200,S215,S270,S330,S500,C150,C250,C330,C340,C400,C460,C500,D55,D200,D250,D290,D320,D330,E135,E145,E275,E320,E330,E400,A105,A120,A250,A270,A305,A400,W120,W150,W180,W260,W320,W330,W400" id="Build"></p>
-                <p>S105,S200,S215,S270,S330,S500,</p>
-                <p>C150,C250,C330,C340,C400,C460,C500,</p>
-                <p>D55,D200,D250,D290,D320,D330,</p>
+                    <input type="text" value="S135,S150,S215,S270,S330,S500,C150,C250,C251,C330,C340,C375,C400,D55,D200,D245,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W150,W180,W250,W290,W320,W330,W400" id="Build"></p>
+                <p>S135,S150,S215,S270,S330,S500,</p>
+                <p>C150,C250,C251,C330,C340,C375,C400,</p>
+                <p>D55,D200,D245,D250,D290,D320,</p>
                 <p>E135,E145,E275,E320,E330,E400,</p>
-                <p>A105,A120,A250,A270,A305,A400,</p>
-                <p>W120,W150,W180,W260,W320,W330,W400</p>
+                <p>A105,A120,A250,A305,A330,A400,</p>
+                <p>W150,W180,W250,W290,W320,W330,W400</p>
                 <p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
             </div>
         </div>

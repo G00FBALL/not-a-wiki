@@ -69,14 +69,14 @@
 				<p><b>Bloodline</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S135,S215,S270,S330,S500,C120,C150,C250,C330,C340,C400,D55,D200,D250,D290,D320,E135,E145,E275,E320,E330,A120,A250,A270,A305,A400,W120,W150,W180,W260,W320,W400" id="Build">
+					<input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D250,D290,D320,E135,E145,E200,E320,E330,W150,W180,W290,W320,W330,W400">
 				</p>
-				<p>S135,S215,S270,S330,S500,</p>
-				<p>C120,C150,C250,C330,C340,C400,</p>
+				<p>S135,S150,S270,S330,S500,</p>
+				<p>C150,C251,C330,C340,C375,C400,</p>
 				<p>D55,D200,D250,D290,D320,</p>
-				<p>E135,E145,E275,E320,E330,</p>
-				<p>A120,A250,A270,A305,A400,</p>
-				<p>W120,W150,W180,W260,W320,W400</p>
+				<p>E135,E145,E200,E320,E330,</p>
+				<p>A105,A120,A250,A305,A400,</p>
+				<p>W150,W180,W290,W320,W330,W400</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
