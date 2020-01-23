@@ -21,7 +21,7 @@
                     <p><b>Range</b>: 1e66 (1 Uvg) Gems - 1e93 (1 Tg) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S200,S215,S330,C105,C120,C150,C250,C330,D1,D55,D245,D290,D320,E80,E135,E150,E200,E330,A50,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
+                        <input type="text" value="S135,S150,S200,S215,S330,C105,C120,C150,C250,C330,D1,D55,D245,D290,D320,E80,E135,E150,E200,E330,A50,A105,A120,A150,A330,W150,W180,W290,W320,W330">
                     </p>
                     <p>S135,S150,S200,S215,S330,</p>
                     <p>C105,C120,C150,C250,C330,</p>
@@ -40,14 +40,17 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - ?</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330" id="Build">
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330" id="Build"> For Max Excavation</p>
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330">
+						<b>For Max Excavations</b>
+					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build"> A400 not unlocked
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A30,A105,A120,A150,A330,W150,W180,W290,W320,W330">
+						<b>A400 not unlocked</b>
 					</p>
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
@@ -68,14 +71,17 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - ?</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build">
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330" id="Build"> For Max Excavation</p>
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330">
+						<b>For Max Excavations</b>
+					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A30,A120,A330,A495,W150,W180,W290,W320,W330" id="Build"> A400 not unlocked
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A30,A120,A330,A495,W150,W180,W290,W320,W330">
+						<b>A400 not unlocked</b>
 					</p>
                     <p>S135,S180,S200,S215,S330,</p>
                     <p>C80,C120,C150,C330,C400,</p>
@@ -97,14 +103,18 @@
                     <p><b>Range</b>: e93 (1 Tg) Gems - e126 (1 Uqag) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330" id="Build">
+                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330" id="Build"> For Max Excavation</p>
+                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330">
+						<b>For Max Excavations</b>
+					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A150,A330,A495,W10,W120,W150,W320,W330" id="Build"> A400 not unlocked</p>
+                        <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A150,A330,A495,W10,W120,W150,W320,W330">
+						<b>A400 not unlocked</b>
+					</p>
                     <p>S135,S200,S215,S330,S500,</p>
                     <p>C80,C120,C150,C400,C500,</p>
                     <p>D55,D225,D245,D290,D320,</p>
@@ -126,17 +136,22 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - 1e144 (1 Spqag) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D245" id="Build">
+                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D245">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D480" id="Build"> D480</p>
+                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D480">
+						<b>D480</b>
+					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400,C250,C330,D245" id="Build"> 2000+ Excavations</p>
+                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400,C250,C330,D245">
+						<b>2000+ Excavations</b>
+					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400,C250,C330,D480" id="Build"> D480 and 2000+ Excavations
+                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400,C250,C330,D480">
+						<b>D480 and 2000+ Excavations</b>
 					</p>
                     <p>S135,S150,S215,S330,S500,</p>
                     <p>C120,C150,C400,C500,C520,</p>
@@ -163,7 +178,7 @@
                     <p><b>Range</b>: ? Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S215,S225,S330,S500,C120,C250,C150,C330,C400,D25,D55,D290,D320,D400,E10,E80,E135,E150,E330,A55,A105,A120,A480,A545,W135,W180,W205,W400,W405" id="Build">
+                        <input type="text" value="S135,S215,S225,S330,S500,C120,C250,C150,C330,C400,D25,D55,D290,D320,D400,E10,E80,E135,E150,E330,A55,A105,A120,A480,A545,W135,W180,W205,W400,W405">
                     </p>
                     <p>S135,S215,S225,S330,S500,</p>
                     <p>C120,C135,C150,C330,C400,</p>
@@ -182,7 +197,7 @@
                     <p><b>Range</b>: 1e130 (10 Dqag) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S50,S135,S215,S330,S500,C120,C135,C150,C330,C400,D55,D245,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A150,A330,W150,W180,W290,W320,W330" id="Build">
+                        <input type="text" value="S50,S135,S215,S330,S500,C120,C135,C150,C330,C400,D55,D245,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A150,A330,W150,W180,W290,W320,W330">
                     </p>
                     <p>S50,S135,S215,S330,S500,</p>
                     <p>C120,C135,C150,C330,C400,</p>

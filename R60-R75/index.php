@@ -20,8 +20,10 @@
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D250,D290,D320,E135,E145,E200,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S150,S270,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D250,D290,D320,E135,E145,E200,E320,E330,A105,A120,A250,A305,A400,W150,W180,W290,W320,W330,W400">
+				</p>
                 <p>S135,S150,S270,S330,S500,</p>
                 <p>C150,C251,C330,C340,C375,C400,</p>
                 <p>D55,D200,D250,D290,D320,</p>
@@ -38,8 +40,10 @@
                 <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Titan</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,A105,A120,A305,A400,A545,W180,W275,W400,W1275,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,A105,A120,A305,A400,A545,W180,W275,W400,W1275,W1375">
+				</p>
                 <p>S215,S270,S305,S330,S1450,S1500,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D260,D290,D320,D1125,D1275,D1375,</p>
@@ -57,8 +61,10 @@
                 <p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S135,S150,S215,S270,S330,S500,C150,C250,C251,C330,C340,C375,C400,D55,D200,D245,D250,D290,D320,A105,A120,A250,A305,A330,A400,W150,W180,W250,W290,W320,W330,W400" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S135,S150,S215,S270,S330,S500,C150,C250,C251,C330,C340,C375,C400,D55,D200,D245,D250,D290,D320,A105,A120,A250,A305,A330,A400,W150,W180,W250,W290,W320,W330,W400">
+				</p>
                 <p>S135,S150,S215,S270,S330,S500,</p>
                 <p>C150,C250,C251,C330,C340,C375,C400,</p>
                 <p>D55,D200,D245,D250,D290,D320,</p>
@@ -74,10 +80,15 @@
                 <p><b>Range</b>: 1e27+ (1 Oc) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Titan</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S270,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W290,W400,W1275,W1375" id="Build"></p>
-					<p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D200,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1325,E1425,A105,A150,A270,A305,A400,A545,W180,W275,W290,W400,W1275,W1375" id="Build">2 hours+</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S270,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D260,D290,D320,D1125,D1275,D1375,E135,E145,E400,E1225,E1325,E1425,A105,A120,A150,A305,A400,A545,W180,W275,W290,W400,W1275,W1375">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D55,D200,D260,D320,D1125,D1275,D1375,E135,E145,E320,E1225,E1325,E1425,A105,A150,A270,A305,A400,A545,W180,W275,W290,W400,W1275,W1375">
+					<b>2 hours+</b>
+				</p>
                 <p>S215,S270,S305,S330,S375,S1450,S1500,</p>
                 <p>C150,C250,C340,C400,C1300,C1325,</p>
                 <p>D55,D260,D290,D320,D1125,D1275,D1375,</p>
@@ -100,8 +111,10 @@
                 <p><b>Range</b>: 1e51 (1 Sxd) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Druid</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S375,S400,S500,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A120,A270,A305,A400,A1325,W180,W275,W400,W1275,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,S375,S400,S500,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A120,A270,A305,A400,A1325,W180,W275,W400,W1275,W1375">
+				</p>
                 <p>S200,S375,S400,S500,S1450,S1500,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D200,D290,D330,D1125,D1275,D1375,</p>
@@ -118,8 +131,10 @@
                 <p><b>Range</b>: 1e54 (1 Spd) Gems</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Undead</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E400,E1225,E1325,E1425,A105,A120,A305,A400,A545,W180,W275,W400,W1275,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S270,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D260,D290,D320,D1125,D1275,D1375,E135,E400,E1225,E1325,E1425,A105,A120,A305,A400,A545,W180,W275,W400,W1275,W1375">
+				</p>
                 <p>S215,S270,S305,S330,S1450,S1500,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D260,D290,D320,D1125,D1275,D1375,</p>
@@ -136,8 +151,10 @@
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Druid/Dragon</p>
                 <p><b>Bloodline</b>: Undead</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S305,S330,S500,S1450,C250,C340,C400,C1300,C1325,D275,D290,D1125,D1275,D1375,E135,E145,E320,E1225,E1325,E1425,A105,A120,A375,A400,A545,A1500,W135,W180,W350,W400,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S305,S330,S500,S1450,C250,C340,C400,C1300,C1325,D275,D290,D1125,D1275,D1375,E135,E145,E320,E1225,E1325,E1425,A105,A120,A375,A400,A545,A1500,W135,W180,W350,W400,W1375">
+				</p>
                 <p>S215,S305,S330,S500,S1450,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D275,D290,D1125,D1275,D1375,</p>
@@ -154,8 +171,10 @@
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Undead/Titan</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S215,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W400,W1275,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,S215,S305,S330,S1450,S1500,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,D1375,E135,E145,E320,E1225,E1425,A105,A120,A270,A305,A400,W180,W275,W400,W1275,W1375">
+				</p>
                 <p>S200,S215,S305,S330,S1450,S1500,</p>
                 <p>C250,C340,C400,C1300,C1325,</p>
                 <p>D200,D290,D330,D1125,D1275,D1375,</p>
@@ -172,8 +191,10 @@
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Faceless</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S305,S330,S500,S1450,C105,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,E135,E320,E1225,E1325,E1425,A120,A270,A305,A400,A545,W150,W180,W260,W400,W1275,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,S305,S330,S500,S1450,C105,C250,C340,C400,C1300,C1325,D200,D290,D330,D1125,D1275,E135,E320,E1225,E1325,E1425,A120,A270,A305,A400,A545,W150,W180,W260,W400,W1275,W1375">
+				</p>
                 <p>S200,S305,S330,S500,S1450,</p>
                 <p>C105,C250,C340,C400,C1300,C1325,</p>
                 <p>D200,D290,D330,D1125,D1275,</p>
@@ -190,8 +211,10 @@
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+(?)</p>
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Faceless</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S305,S330,S500,S1450,C330,C340,C400,C1300,C1325,D275,D290,D1125,D1275,D1375,E135,E145,E260,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W150,W180,W350,W400,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S305,S330,S500,S1450,C330,C340,C400,C1300,C1325,D275,D290,D1125,D1275,D1375,E135,E145,E260,E290,E1225,E1425,A120,A305,A400,A545,A1325,A1500,W150,W180,W350,W400,W1375">
+				</p>
                 <p>S215,S305,S330,S500,S1450,</p>
                 <p>C330,C340,C400,C1300,C1325,</p>
                 <p>D275,D290,D1125,D1275,D1375,</p>
@@ -211,8 +234,10 @@
                 <p><b>Range</b>: ? Gems</p>
                 <p><b>Faction</b>: Druid/Dragon</p>
                 <p><b>Bloodline</b>: Undead</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S305,S330,S400,S500,S1450,C150,C250,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,D1375,E135,E145,E260,E320,E1225,E1325,E1425,A105,A120,A150,A375,A400,A545,A1500,W135,W180,W250,W350,W400,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S305,S330,S400,S500,S1450,C150,C250,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,D1375,E135,E145,E260,E320,E1225,E1325,E1425,A105,A120,A150,A375,A400,A545,A1500,W135,W180,W250,W350,W400,W1375">
+				</p>
                 <p>S215,S305,S330,S400,S500,S1450,</p>
                 <p>C150,C250,C340,C400,C1300,C1325,</p>
                 <p>D250,D275,D290,D1125,D1275,D1375,</p>

@@ -29,26 +29,27 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W330,W400" id="Build">
+                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W330,W400">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400" id="Build">
-						W320
+                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A330,W120,W150,W180,W320,W400">
+						<b>W320</b>
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W330,W400" id="Build">
-						A400
+                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W330,W400">
+						<b>A400</b>
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400" id="Build"> A400, W320
+                        <input type="text" value="S10,S150,S215,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D250,D290,D320,E135,E145,E330,E410,E480,A105,A120,A150,A250,A400,W120,W150,W180,W320,W400">
+						<b>A400, W320</b>
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S10,S150,S200,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D205,D290,D320,E135,E145,E330,E410,E480,A105,A150,A250,A270,A400,W120,W150,W180,W320,W400" id="Build">
-						16 hours+
+                        <input type="text" value="S10,S150,S200,S330,S500,C80,C150,C330,C340,C400,C25,C500,D55,D175,D200,D205,D290,D320,E135,E145,E330,E410,E480,A105,A150,A250,A270,A400,W120,W150,W180,W320,W400">
+						<b>16 hours+</b>
                     </p>
                     <p>S10,S150,S215,S330,S500,</p>
                     <p>C80,C150,C330,C340,C400,C25,C500,</p>
@@ -73,7 +74,7 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A150,A250,A400,W150,W180,W290,W320,W330,W400" id="Build">
+                        <input type="text" value="S135,S150,S215,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A150,A250,A400,W150,W180,W290,W320,W330,W400">
                     </p>
                     <p>S135,S150,S215,S330,S500,</p>
                     <p>C150,C251,C330,C340,C375,C400,</p>
@@ -127,7 +128,7 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="FR1,FR9,AN3,AN5,AN8,DD4,DD6,DD8,FC2,FC5,FC7,DN2,SP:God's Hand,SP:Hellfire Blast" id="Build">
+                        <input type="text" value="FR1,FR9,AN3,AN5,AN8,DD4,DD6,DD8,FC2,FC5,FC7,DN2,SP:God's Hand,SP:Hellfire Blast">
                     </p>
                     <p>FR1,FR9,AN3,AN5,AN8,DD4,DD6,DD8,FC2,FC5,FC7,DN2,</p>
                     <p>SP:God's Hand,SP:Hellfire Blast</p>
@@ -142,7 +143,7 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="FR9,AN3,AN5,AN6,AN8,UD3,UD5,DM8,DD6,FC7,DN2,DW2,SP:God's Hand,SP:Hellfire Blast" id="Build">
+                        <input type="text" value="FR9,AN3,AN5,AN6,AN8,UD3,UD5,DM8,DD6,FC7,DN2,DW2,SP:God's Hand,SP:Hellfire Blast">
                     </p>
                     <p>FR9,AN3,AN5,AN6,AN8,UD3,UD5,DM8,DD6,FC7,DN2,DW2,</p>
                     <p>SP:God's Hand,SP:Hellfire Blast</p>
@@ -161,11 +162,12 @@
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S150,S180,S200,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A270,W120,W150,W180,W320,W400" id="Build">
+                        <input type="text" value="S150,S180,S200,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A150,A250,A270,W120,W150,W180,W320,W400">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S150,S180,S200,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A250,A270,A330,W120,W150,W180,W320,W400" id="Build"> A330 is higher
+                        <input type="text" value="S150,S180,S200,S215,S330,S500,C80,C120,C150,C330,C340,C400,C500,D55,D200,D205,D290,D320,E145,E330,E400,E410,E480,A105,A120,A250,A270,A330,W120,W150,W180,W320,W400">
+						<b>A330 is higher</b>
                     </p>
                     <p>S150,S180,S200,S215,S330,S500,</p>
                     <p>C80,C120,C150,C330,C340,C400,C500,</p>
