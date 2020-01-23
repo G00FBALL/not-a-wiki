@@ -22,8 +22,10 @@
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Druid (if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S3200,C300,C340,D200,D275,E260,E1325,A251,A375,A3400,W350,W400" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S3200,C300,C340,D200,D275,E260,E1325,A251,A375,A3400,W350,W400">
+				</p>
                 <p>S3200,</p>
                 <p>C300,C340,</p>
                 <p>D200,D275,</p>
@@ -42,8 +44,10 @@
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Druid (if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S3200,C175,C340,D200,E1,E225,E1325,A10,A3400,W25,W205" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S3200,C175,C340,D200,E1,E225,E1325,A10,A3400,W25,W205">
+				</p>
                 <p>S50,S3200,</p>
                 <p>C175,C340,</p>
                 <p>D200,</p>
@@ -62,8 +66,10 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Elf > Druid > Angel (From best to least choice)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D200,E25,E3250,A3400,W10,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D200,E25,E3250,A3400,W10,W1375">
+				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
                 <p>D50,D200,</p>
@@ -84,8 +90,10 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Elf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375">
+				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C340,</p>
                 <p>D50,D1375,</p>
@@ -102,12 +110,20 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Elf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375" id="Build"></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375" id="Build"> 1e42 (1 TD) Gems+</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E400,A3400,W10,W1375" id="Build"> 1e46 (10 QaD) Gems+</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375">
+					<b>1e42 (1 TD) Gems+</b>
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E400,A3400,W10,W1375">
+					<b>1e46 (10 QaD) Gems+</b>
+				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
                 <p>D50,D1375,</p>
@@ -132,8 +148,10 @@
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Faceless, Undead, Druid (From left to right, if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S180,S3200,C10,C400,D225,D290,E50,E1325,A30,A120,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1,S180,S3200,C10,C400,D225,D290,E50,E1325,A30,A120,W1375">
+				</p>
                 <p>S1,S180,S3200</p>
                 <p>C10,C400,</p>
                 <p>D225,D290</p>
@@ -152,8 +170,10 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E320,A3400,W10,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E320,A3400,W10,W1375">
+				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
                 <p>D50,D290,</p>
@@ -172,8 +192,10 @@
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Angel (if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S3200,C25,C330,D1,D175,D290,E1325,A50,A400,W225,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S3200,C25,C330,D1,D175,D290,E1325,A50,A400,W225,W1375">
+				</p>
                 <p>S10,S3200,</p>
                 <p>C25,C330,</p>
                 <p>D1,D175,D290,</p>
@@ -193,8 +215,10 @@
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Druid (if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S105,C175,C340,D290,E1,E145,E225,A10,A400,W25,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S105,C175,C340,D290,E1,E145,E225,A10,A400,W25,W1375">
+				</p>
                 <p>S50,S105,</p>
                 <p>C175,C340,</p>
                 <p>D290,</p>
@@ -213,8 +237,10 @@
                 <p><b>Faction</b>: Undead</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Angel, Undead, Faceless (From left to right, if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S225,S3200,C400,D25,D290,E10,E3250,A1,A175,A3400,W50,W205" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S225,S3200,C400,D25,D290,E10,E3250,A1,A175,A3400,W50,W205">
+				</p>
                 <p>S225,S3200,</p>
                 <p>C400,</p>
                 <p>D25,D290,</p>
@@ -235,8 +261,10 @@
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Undead (if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,C50,C400,D10,D200,E230,E1325,A25,A270,W1,W175,W1275" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,C50,C400,D10,D200,E230,E1325,A25,A270,W1,W175,W1275">
+				</p>
                 <p>S200,</p>
                 <p>C50,C400,</p>
                 <p>D10,D200,</p>
@@ -255,8 +283,10 @@
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S3200,C251,C375,C400,D290,D350,E275,E1325,A3400,W260,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S300,S3200,C251,C375,C400,D290,D350,E275,E1325,A3400,W260,W1375">
+				</p>
                 <p>S300,S3200,</p>
                 <p>C251,C375,C400,</p>
                 <p>D290,D350,</p>
@@ -275,8 +305,10 @@
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Druid (if avaliable)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S3200,C300,C340,D150,D275,E135,E260,A251,A375,A400,W350,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S3200,C300,C340,D150,D275,E135,E260,A251,A375,A400,W350,W1375">
+				</p>
                 <p>S3200,</p>
                 <p>C300,C340,</p>
                 <p>D150,D275,</p>
@@ -298,8 +330,10 @@
                 <p><b>Alignment</b>: Evil, Proof of Balance</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Druid</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S3200,C175,C400,D1375,E1,E135,E225,A10,A400,W25,W205" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S3200,C175,C400,D1375,E1,E135,E225,A10,A400,W25,W205">
+				</p>
                 <p>S50,S3200,</p>
                 <p>C175,C400,</p>
                 <p>D1375,</p>
@@ -316,8 +350,10 @@
                 <p><b>Alignment</b>: Neutral, Proof of Order</p>
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Druid</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S300,S3200,C251,C375,C400,D200,D350,E275,E1325,A3400,W260,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S300,S3200,C251,C375,C400,D200,D350,E275,E1325,A3400,W260,W1375">
+				</p>
                 <p>S300,S3200,</p>
                 <p>C251,C375,C400,</p>
                 <p>D200,D350,</p>
@@ -334,8 +370,10 @@
                 <p><b>Alignment</b>: Good, Proof of Chaos</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Goblin</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S1,S180,S3200,C10,C340,D225,D1375,E50,E135,A30,A120,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S1,S180,S3200,C10,C340,D225,D1375,E50,E135,A30,A120,W1375">
+				</p>
                 <p>S1,S180,S3200,</p>
                 <p>C10,C340,</p>
                 <p>D225,D1375,</p>
@@ -352,8 +390,10 @@
                 <p><b>Alignment</b>: Evil, Proof of Chaos</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Goblin</p>
-                  <p><button onclick="myFunction($(this))">Copy Build</button>
-                  <input type="text" value="S3200,C50,C340,D10,D1375,E135,E230,A25,A3400,W1,W175,W205" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S3200,C50,C340,D10,D1375,E135,E230,A25,A3400,W1,W175,W205">
+				</p>
                 <p>S3200,</p>
                 <p>C50,C340,</p>
                 <p>D10,D1375,</p>

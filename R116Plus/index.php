@@ -22,19 +22,24 @@
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Artifact Set</b>: Druid</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400" id="Build"></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400" id="Build"> R120+ (with all AH)</p>
-                  <p>S215,S251,S375,S1450,S1500,</p>
-                  <p>C340,C1300,</p>
-                  <p>D1375,D260,D1125,</p>
-                  <p>E400,E350,E1225,</p>
-                  <p>A400,A300,A1200,</p>
-                  <p>W180,W275,W1400</p>
-                  <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
-                  <p><b>Notes</b>: It slows down at 1e45 (1 Qad) Gems without buffing FC12.</p>
-                  <p><b>Notes</b>: For R120+ (with all Advanced Heritages), Swap S215 for S3200 before AotC is affordable.</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+					<b>R120+ (with all AH)</b>
+				</p>
+                <p>S215,S251,S375,S1450,S1500,</p>
+                <p>C340,C1300,</p>
+                <p>D1375,D260,D1125,</p>
+                <p>E400,E350,E1225,</p>
+                <p>A400,A300,A1200,</p>
+                <p>W180,W275,W1400</p>
+                <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
+                <p><b>Notes</b>: It slows down at 1e45 (1 Qad) Gems without buffing FC12.</p>
+                <p><b>Notes</b>: For R120+ (with all Advanced Heritages), Swap S215 for S3200 before AotC is affordable.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -45,17 +50,22 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Elf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W400,W560" id="Build">
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W400,W560" id="Build"> can afford DN11</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W400,W560">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W400,W560">
+					<b>can afford DN11</b>
+				</p>
                 <p>S175,S400,</p>
                 <p>C1,C225,C340,C405,C520,C590,</p>
                 <p>D50,D435,D1375,</p>
                 <p>E25,E145,E410,</p>
                 <p>A250,A495,</p>
                 <p>W10,W400,W560</p>
-                 <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11.</p>
+                <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -67,10 +77,15 @@
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Faceless
                 <p><b>Artifact Set</b>: Elf
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375" id="Build">
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W400,W560" id="Build"> Higher Gems (?)
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W400,W560">
+					<b>Higher Gems (?)</b>
+				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C340,C405,C520,C590,</p>
                 <p>D50,D435,D1375,</p>
@@ -89,8 +104,10 @@
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Druid
                 <p><b>Artifact Set</b>: Elf
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S400,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W400,W560" id="Build">
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S400,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W400,W560">
+				</p>
                 <p>S10,S400,</p>
                 <p>C25,C340,C405,C520,</p>
                 <p>D1,D175,D435,D590,D1375,</p>
@@ -112,8 +129,10 @@
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Fairy</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D1375,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build"></p>
+                 <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D1375,D435,E50,E135,E410,A30,A120,A495,W560,W1375">
+				</p>
                 <p>S1,S180,S400,S590,</p>
                 <p>C10,C340,C405,C520,</p>
                 <p>D225,D1375,D435,</p>
@@ -130,10 +149,15 @@
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Drow</p>
                 <p><b>Artifact Set</b>: Faceless</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build"></p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E290,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build"> Excavations</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E290,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
+					<b>Excavations</b>
+				</p>
                 <p>S251,S375,S400,S1450,S1500,</p>
                 <p>C400,C1300,</p>
                 <p>D260,D290,D1125,</p>
@@ -151,8 +175,10 @@
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Angel</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A120,A495,W225,W560,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A120,A495,W225,W560,W1375">
+				</p>
                 <p>S10,S3200,</p>
                 <p>C25,C400,C405,C520,</p>
                 <p>D1,D175,D290,D435,D590,</p>
@@ -174,8 +200,10 @@
                 <p><b>Faction</b>: Undead</p>
                 <p><b>Bloodline</b>: Angel</p>
                 <p><b>Artifact Set</b>: Undead</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S225,S435,S3200,C340,D25,D560,D1375,E10,E400,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S225,S435,S3200,C340,D25,D560,D1375,E10,E400,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520">
+				</p>
                 <p>S225,S435,S3200,</p>
                 <p>C340,</p>
                 <p>D25,D560,D1375,</p>
@@ -197,8 +225,10 @@
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D1375,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D1375,D435,E50,E135,E410,A30,A120,A495,W560,W1375">
+				</p>
                 <p>S1,S180,S400,S590,</p>
                 <p>C10,C340,C405,C520,</p>
                 <p>D225,D1375,D435,</p>
@@ -215,8 +245,10 @@
                 <p><b>Faction</b>: Goblin/Drow</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Undead</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E135,E225,E495,E590,A10,A120,A410,W25,W205,W405,W520">
+				</p>
                 <p>S50,S435,S3200,</p>
                 <p>C175,C340,</p>
                 <p>D290,D560,</p>
@@ -233,8 +265,10 @@
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Druid</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S400,S1450,C251,C375,C1300,C1500,C3100,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S300,S400,S1450,C251,C375,C1300,C1500,C3100,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400">
+				</p>
                 <p>S300,S400,S1450,</p>
                 <p>C251,C375,C1300,C1500,C3100,</p>
                 <p>D290,D350,D1125,</p>
@@ -252,8 +286,10 @@
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Faceless</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400">
+				</p>
                 <p>S300,S1450,S3200,</p>
                 <p>C251,C375,C400,C1300,C1500,</p>
                 <p>D290,D350,D1125,</p>
@@ -279,8 +315,10 @@
                 <p><b>Artifact Set</b>: Druid (Elf,Demon,Druid),</p>
                 <p><b>Artifact Set</b>: Faceless (Fairy and Undead),</p>
                 <p><b>Artifact Set</b>: Dragon (Dwarf and Drow)</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S251,S375,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S200,S251,S375,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
+				</p>
                 <p>S200,S251,S375,S1450,S1500,</p>
                 <p>C400,C1300,</p>
                 <p>D260,D290,D1125,</p>
@@ -300,8 +338,10 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless/Dragon/Goblin/Fairy</p>
                 <p><b>Artifact Set</b>: Elf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A495,A3400,W10,W560,W1375" id="Build"></p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A495,A3400,W10,W560,W1375">
+				</p>
                 <p>S175,S400,</p>
                 <p>C1,C225,C400,C405,C520,C590,</p>
                 <p>D50,D290,D435,</p>
