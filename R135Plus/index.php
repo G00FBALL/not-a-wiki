@@ -397,6 +397,7 @@
                         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (Djinn Challenge 4)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Sad</p>
+							<p><b>Requirement</b>: Druid Lineage 45</p>
                             <p><b>Faction</b>: Faceless</p>
                             <p><b>Range</b>: 1e114 (1 Sptg) Gems+</p>
                             <p><b>Bloodline</b>: Druid</p>
@@ -602,7 +603,7 @@
                     <p><b>Artifact Set</b>: Faceless</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S435,S3200,C50,C400,D10,D290,D560,A25,A410,A3400,W1,W175,W405,W520,W590,W1375">
+                        <input type="text" value="S435,S3200,C50,C400,D10,D290,D560,E230,E400,E495,A25,A410,A3400,W1,W175,W405,W520,W590,W1375">
                     </p>
                     <p>S435,S3200,</p>
                     <p>C50,C400,</p>
