@@ -289,8 +289,8 @@
         <p><b>Requirement</b>: Tyrant Garrison (Evil Spell Upgrade)</p>
         <p><b>Note</b>: Not available in A3 (R160+)</p>
         <hr>
-        <p><b>Ascension 3 (R160+)</b></p>
-        <p id="MercenaryDuel"><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
+        <p id="MercenaryDuel"><b>Ascension 3 (R160+)</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
         <p><b>In-game description</b>: The Mercenary Lord has challenged you to a duel of skills. Complete the following tasks in a single Reincarnation to show your ability as a ruler.</p>
         <p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 1 Nod (1e60) Faction Coins, 300000 Buildings (MAX), 100 Qa (1e17) Assistants (MAX)</p>
         <p><b>Note</b>: 1 time purchase</p>
