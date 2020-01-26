@@ -5,6 +5,36 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.2, Jan 16, 2020, R150 Power added</a></b></p>
+            <div class="autohide">
+                <p>NEW REINCARNATION POWER at Reincarnation 150: unique buildings count more for Call to Arms purposes based on Reincarnations made.</p>
+                <p>Fixed Spellcraft 180 (Incantation) not unlocking correctly.</p>
+                <p>Fixed Warfare 5375 (Officers) being more powerful than intended.</p>
+                <p>Fixed spell tutorial not advancing when using hotkeys.
+                <p>Mercenary now count their Tax Collection alternatives as faction spells, for the purpose of several upgrades' formulas.</p>
+                <p>Drow Challenge 1 now requires Honor Among Killers purchased, as intended.</p>
+                <p>Buy10000 is no longer available in Ascension 0.</p>
+                <p>Research branches in Ascension 2 now show the correct amount of slots.</p>
+                <p>God's Hand no longer overflows when you have high mana regeneration.</p>
+                <p>Forbidden 6000 (Inevitability) headstart is now capped at time spent in your current Reincarnation. No longer gives double time in this Reincarnation. No longer provides a headstart when Reincarnating.</p>
+                <p>Rough Stone artifact, fixed unlock chance and unlock requirements.</p>
+                <p>Djinn Challenge 4, requirements reduced.</p>
+                <p>Craftsmanship 5625 (Discovery) base reduced.</p>
+                <p>Craftsmanship 5375 (Manufacture) base and scaling reduced.</p>
+                <p>Economics 5875 (Prosperity) base and scaling reduced.</p>
+                <p>Spellcraft 5125 (Spilling) base and scaling reduced.</p>
+                <p>Craftsmanship 5125 (Restauration) base reduced.</p>
+                <p>Share Benefits spell tiers cost increased for tiers equal or above 40.</p>
+                <p>Mercenary Set effect to Lineage count reduced.</p>
+                <p>Divine 5875 (Birthright) reworked to be based on the least used non-Mercenary faction.</p>
+                <p>Archon Lineage bonus reduced.</p>
+                <p>Spell Tier levels are now visible in the spells tooltips.</p>
+                <p>Archon Challenge 4, bonus to Unique Buildings production increased.</p>
+                <p>Djinn Challenge 4, all bonuses increased.</p>
+                <p>Fixed Stats panel layout. Lineage levels are now shown in the Faction section. Added lines for Spiritual Surge and Catalyst in the Magic section.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7, DEC 16, 2019, A3 Research</a></b></p>
             <div class="autohide">
                 <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2019, 1.01 PM UTC and will end on Jan 4th 2020, 7.59 PM UTC.</p>
