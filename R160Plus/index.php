@@ -7,7 +7,7 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" align="middle"></h6>
 <br/>
 <p><b><font color="darkred">From R175+ builds may not work well with the new points/budget system</b></p></font>
-<p><b><font color="darkred">Builds are outdated, use builds from <b><a target="_blank" href="https://discord.gg/cq6zmQX">Discord</a></b> or <b><a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1879377-v3-7-a3-builds">Kong</a></b> forum</b></p></font>
+<p><b><font color="darkred">Some builds are outdated, use builds from <b><a target="_blank" href="https://discord.gg/cq6zmQX">Discord</a></b> or <b><a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1879377-v3-7-a3-builds">Kong</a></b> forum</b></p></font>
     <br/>
     <p><b>Production Builds</b></p>
     <div class="category">
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush (R170+) 0 - 1e68 (100 Uvg) <b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush (R170+) 0 - 1e68 (100 Uvg)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
@@ -79,7 +79,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"The Master Plan" Demonline Merc 1e75 (1 Qavg)+ <b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"The Master Plan" Demonline Merc 1e75 (1 Qavg)+</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Heyitsdross</p>
                 <p><b>Requirement</b>: Mercenary Duel, 1d 16h time this Reincarnation</p>
@@ -251,7 +251,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells (Grower)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells (Grower)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Fair_Play</p>
                 <p><b>Range</b>: ?</p>
@@ -277,7 +277,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants</b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
@@ -300,7 +300,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks<b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks</a></b><b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik, KuraTheDog</p>
                 <p><b>Range</b>: 1e55 (10 Spd) Gems+</p>
@@ -323,7 +323,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
                 <p><b>Range</b>: 1e65 (100 Vg) Gems+</p>
@@ -351,7 +351,7 @@
     <p><b>All Lineage Builds need Clicks buffed</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kuerti</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
@@ -375,7 +375,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth (L70+)</b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth (L70+)</b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
@@ -401,7 +401,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler<b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
@@ -420,6 +420,55 @@
                 <p>E1325,E3300,</p>
                 <p>A120,A2950,</p>
                 <p>W275,W3050</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Artifact Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Apeiron/True Harlequin</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: somarilnos</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,A2950,C340,C400,E290,E400,E135,E145,E1325,A120,S400,D200,D275,D290,W275,W400" id="Build"></p>
+                <p>FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,</p>
+                <p>FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace</p>
+                <p>S400,</p>
+                <p>C340,C400,</p>
+                <p>D200,D275,D290,</p>
+                <p>E290,E400,E135,E145,E1325,</p>
+                <p>A2950,A120,</p>
+                <p>W275,W400</p>
+                <p><b>Note</b>: Research depends on whether you've drummed up the artifacts.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Vault</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Marah</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:God's Hand,SP:Goblin's Greed,UB:Mountain Palace,UNN:EL,S200,S400,S435,S590,S1500,S2875,C25,C105,C340,C400,C590,C1500,C3000,D150,D275,D290,D2775,E25,E30,E135,E145,E275,E290,E320,E400,E460,E480,E590,E1325,E1425,A55,A105,A120,A250,A375,A590,A1500,A2950,W25,W120,W150,W180,W200,W275,W590,W1375,W3050" id="Build"></p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:God's Hand,SP:Goblin's Greed,UB:Mountain Palace,UNN:EL</p>
+                <p>S200,S400,S435,S590,S1500,S2875,</p>
+                <p>C25,C105,C340,C400,C590,C1500,C3000,</p>
+                <p>D150,D275,D290,D2775,</p>
+                <p>E25,E30,E135,E145,E275,E290,E320,E400,E460,E480,E590,E1325,E1425,</p>
+                <p>A55,A105,A120,A250,A375,A590,A1500,A2950,</p>
+                <p>W25,W120,W150,W180,W200,W275,W590,W1375,W3050</p>
             </div>
         </div>
     </div>
