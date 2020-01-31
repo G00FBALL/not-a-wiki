@@ -41,7 +41,7 @@
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Faceless</p>
                     <p><b>Artifact Set</b>: Elf</p>
-				            	<p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
+				    <p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A495,A3400,W10,W560,W1375">
@@ -119,7 +119,7 @@
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Fairy</p>
                     <p><b>Artifact Set</b>: Fairy</p>
-				           	<p><b>Stoneheart Set (R148+, MKC4)</b>: Elf</p>
+				    <p><b>Stoneheart Set (R148+, MKC4)</b>: Elf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A400,A495,W10,W560,W1375">
@@ -152,7 +152,7 @@
                     <p>E230,E400,E495,</p>
                     <p>A25,A400,A410,</p>
                     <p>W1,W135,W175,W405,W520,W590</p>
-				          	<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run.</p>
+				    <p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run.</p>
                     <p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
                 </div>
             </div>
@@ -250,7 +250,7 @@
                             <p>E230,E400,E495,</p>
                             <p>A25,A410,A3400,</p>
                             <p>W1,W175,W205,W405,W520,W590</p>
-						              	<p><b>Notes</b>: Estimated time of 0.5-1.5 hours to complete.</p>
+						    <p><b>Notes</b>: Estimated time of 0.5-1.5 hours to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -272,7 +272,7 @@
                             <p>E10,E320,E400,E495,</p>
                             <p>A1,A120,A175,A410,A590,A3400,</p>
                             <p>W50,W205,W405,W520,W1375</p>
-						               	<p><b>Notes</b>: Buff Max Spell Casts with Dragonline Goblins (Max Spell Casts) first.</p>
+						    <p><b>Notes</b>: Buff Max Spell Casts with Dragonline Goblins (Max Spell Casts) first.</p>
                             <p><b>Notes</b>: Estimated time of 12-18 hours to complete.</p>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                             <p>E350,E1225,E1425,</p>
                             <p>A300,A400,A1200,</p>
                             <p>W275,W1375,W1400</p>
-						              	<p><b>Notes</b>: Buff Max Assistants with Fairyline Undead (Max Assistants) build first.</p>
+						    <p><b>Notes</b>: Buff Max Assistants with Fairyline Undead (Max Assistants) build first.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -383,14 +383,14 @@
                                 <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D200,D350,E275,E320,E1225,A400,W260,W1375,W1400,S200,C250,D330,E1325,A270,W1275">
                             </p>
                             <p>S300,S1450,S3200,</p>
-						              	<p>C251,C375,C400,C1300,C1500,</p>
-						              	<p>D200,D350,</p>
-					              		<p>E275,E320,E1225,</p>
-					              		<p>A400,W260,</p>
-					              		<p>W1375,W1400</p>
+						    <p>C251,C375,C400,C1300,C1500,</p>
+						    <p>D200,D350,</p>
+					        <p>E275,E320,E1225,</p>
+					        <p>A400,W260,</p>
+					        <p>W1375,W1400</p>
                             <p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
-					              		<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
-					              		<p><b>Notes</b>: Estimated time 5-6 hours to complete.</p>
+					        <p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
+					        <p><b>Notes</b>: Estimated time 5-6 hours to complete.</p>
                         </div>
                     </div>
                     <div class="shelementwhole">
@@ -413,8 +413,8 @@
                             <p>A270,A300,A1200,</p>
                             <p>W275,W1275,W1400</p>
                             <p><b>Notes</b>: Buff Max assistants and spell casts before running this build.</p>
-					              		<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
-					              		<p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
+					        <p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
+					        <p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
                             <p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
                             <p><b>Notes</b>: Estimated time to completion is 24 hours.</p>
                         </div>
@@ -427,8 +427,8 @@
                             <p><b>Faction</b>: Elf</p>
                             <p><b>Artifact Set</b>: Faceless</p>
                             <p><b>Notes</b>: Buff Max assistants with Fairyline Undead (Max Assistants) buff build if it hasnt been previously buffed with demons.</p>
-					               		<p><b>Notes</b>: Buff Excavations to at least 1e6 (1M) excavations this R and 50+ excavation resets.</p>
-						              	<p><b>Notes</b>: Estimated time to complete 4 hours or less (highly dependant on buffing).</p>
+					        <p><b>Notes</b>: Buff Excavations to at least 1e6 (1M) excavations this R and 50+ excavation resets.</p>
+						    <p><b>Notes</b>: Estimated time to complete 4 hours or less (highly dependant on buffing).</p>
                         </div>
                     </div>
                 </div>
@@ -440,7 +440,7 @@
                         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Undeadline Goblins (Makers Challenge 5)</a></b></p>
                         <div class="autohide">
                             <p><b>Author</b>: Chillerspoon</p>
-					               		<p><b>Requirement</b>: Djinn Challenge 5</p>
+					        <p><b>Requirement</b>: Djinn Challenge 5</p>
                             <p><b>Range</b>: 1e111 (1 Sxtg) Gems+</p>
                             <p><b>Faction</b>: Goblin</p>
                             <p><b>Bloodline</b>: Undead</p>
@@ -451,11 +451,11 @@
                                 <input type="text" value="S50,S400,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520">
                             </p>
                             <p>S50,S400,S435,</p>
-					              		<p>C175,C400,</p>
-					              		<p>D290,D560,</p>
-					               		<p>E1,E225,E320,E495,E590,</p>
-					              		<p>A10,A400,A410,</p>
-					              		<p>W25,W205,W405,W520</p>
+					        <p>C175,C400,</p>
+					        <p>D290,D560,</p>
+					        <p>E1,E225,E320,E495,E590,</p>
+					        <p>A10,A400,A410,</p>
+					        <p>W25,W205,W405,W520</p>
                             <p><b>Notes</b>: Buff Max Spells (S400 3e5 (300 K)+), Max Excavations, Excavation resets and Max assistants.</p>
                         </div>
                     </div>
@@ -473,11 +473,11 @@
                                 <input type="text" value="S300,S1450,S400,S200,S30,S500,C251,C375,C1300,C1500,C400,C340,C250,C3100,D350,D1125,D330,D200,D290,D3350,E275,E1225,E320,E1325,E135,E400,A1200,A400,A270,A120,A3400,W260,W1400,W1375,W1275,W400,W180">
                             </p>
                             <p>S300,S1450,S400,S200,S30,S500,</p>
-					              		<p>C251,C375,C1300,C1500,C400,C340,C250,C3100,</p>
-					               		<p>D350,D1125,D330,D200,D290,D3350,</p>
-					               		<p>E275,E1225,E320,E1325,E135,E400,</p>
-					              		<p>A1200,A400,A270,A120,A3400,</p>
-					              		<p>W260,W1400,W1375,W1275,W400,W180</p>
+					        <p>C251,C375,C1300,C1500,C400,C340,C250,C3100,</p>
+					        <p>D350,D1125,D330,D200,D290,D3350,</p>
+					        <p>E275,E1225,E320,E1325,E135,E400,</p>
+					        <p>A1200,A400,A270,A120,A3400,</p>
+					        <p>W260,W1400,W1375,W1275,W400,W180</p>
                             <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
                             <p><b>Notes</b>: Build is listed in order of purchase.</p>
                             <p><b>Notes</b>: Buff S400 to at least 9e5 (900 K), clicks to 5e5 (500 K) this R</p>
@@ -498,7 +498,7 @@
                     <p><b>Faction</b>: Elf</p>
                     <p><b>Bloodline</b>: Goblin</p>
                     <p><b>Artifact Set</b>: Faceless</p>
-				           	<p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf</p>
+				    <p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
@@ -583,7 +583,7 @@
                     <p>E135,E410,</p>
                     <p>A50,A400,A495,</p>
                     <p>W225,W560,W1375</p>
-				          	<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
+				    <p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
                     <p><b>Notes</b>: Buff Total Excavations and Excavation resets.</p>
                     <p><b>Notes</b>: Estimated time to L45 is 30 minutes.</p>
                 </div>
@@ -729,7 +729,7 @@
                     <p><b>Faction</b>: Druid/Dragon/Makers</p>
                     <p><b>Bloodline</b>: Elf</p>
                     <p><b>Artifact Set</b>: Faceless</p>
-				          	<p><b>Stoneheart Set (R148+, MKC4)</b>: Elf</p>
+				    <p><b>Stoneheart Set (R148+, MKC4)</b>: Elf</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S1450,S3200,C300,C400,C1300,D275,D290,D1125,E260,E1225,E1425,A251,A375,A400,A1200,A1500,W350,W1375,W1400">
@@ -817,6 +817,10 @@
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A400,A495,W180,W225,W560,S400,C340,D290,E290,A120,W400">
                     </p>
+					<p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A400,A495,W225,W560,W1275,S400,C340,D290,E290,A120,W400">
+                    </p>
                     <p>S10,S3200,</p>
                     <p>C25,C400,C405,C520,</p>
                     <p>D1,D175,D435,D590,D1375,</p>
@@ -824,7 +828,7 @@
                     <p>A50,A400,A495,</p>
                     <p>W180,W225,W560</p>
                     <p><b>After Archon Treaty</b>: S400,C340,D290,E290,A120,W400 (Reimport Build)</p>
-                    <p><b>Note</b>: R150+ swap W180 with W1275 or W3150</p>
+                    <p><b>Note</b>: R150+ swap W180 with W1275.</p>
                 </div>
             </div>
         </div>
