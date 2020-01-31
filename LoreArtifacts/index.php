@@ -508,7 +508,7 @@
         <p><b>Clue</b>: Would you think an army is enough to excavate this?</p>
         <p><b>Description</b>: An extremely accurate replica of a battle fought long ago.</p>
         <p><b>Requirement</b>: R175, Evil Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 20000), where x is the number of Assistants. (base and temporary, not invisible)</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 20000), where x is the number of Assistants.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 2500.</p>
