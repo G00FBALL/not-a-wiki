@@ -5,6 +5,17 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.3, Jan 31, 2020, Valentine Event</a></b></p>
+            <div class="autohide">
+                <p>Global Reminder: The Valentine Event will be starting on Feb 12th 2020, 1.01 PM UTC and will end on Feb 16th 2020, 7.59 PM UTC.</p>
+                <p>ADDED A NEW VALENTINE FEAT, unlocking new cosmetic options.</p>
+                <p>Fixed Heart per second production rate for Valentine.</p>
+                <p>Fixed several event tooltips regarding stack sizes.</p>
+                <p>Fixed Autocast tutorials locking game progress.</p>
+                <p>Added graphics for later Share Benefits tiers.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.2, Jan 16, 2020, R150 Power added</a></b></p>
             <div class="autohide">
                 <p>NEW REINCARNATION POWER at Reincarnation 150: unique buildings count more for Call to Arms purposes based on Reincarnations made.</p>
@@ -31,6 +42,7 @@
                 <p>Spell Tier levels are now visible in the spells tooltips.</p>
                 <p>Archon Challenge 4, bonus to Unique Buildings production increased.</p>
                 <p>Djinn Challenge 4, all bonuses increased.</p>
+                <p><b>Note</b>: Djinn Challenge 4, only the lowest bonus was increased and not all as the ingame changelog states.</p>
                 <p>Fixed Stats panel layout. Lineage levels are now shown in the Faction section. Added lines for Spiritual Surge and Catalyst in the Magic section.</p>
             </div>
         </div>

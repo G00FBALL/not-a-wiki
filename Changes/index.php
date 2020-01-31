@@ -6,6 +6,17 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
+        <p><b>V3.7.3 January 31, 2020</b></p>
+        <br/>
+        <p><b>ADDED</b>: A NEW VALENTINE FEAT, unlocking new cosmetic options.
+        <p><b>Fixed</b>: Heart per second production rate for Valentine.
+        <p><b>Fixed</b>: several event tooltips regarding stack sizes.
+        <p><b>Fixed</b>: Autocast tutorials locking game progress.
+        <p><b>ADDED</b>: graphics for later Share Benefits tiers.
+         <div class="shlisting">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.7.2.1 January 16, 2020</a></b></p>
+                <div class="autohide">
         <p><b>V3.7.2.1 January 16, 2020</b></p>
         <br/>
         <p><b>Fixed</b>: S180 unlock</p>
@@ -83,6 +94,9 @@
         <br/>
         <p><b>Share Benefits</b></p>
         <p>Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275)</p>
+                </div>
+            </div>
+            </div>
         <div class="shlisting">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.7.0 December 16, 2019</a></b></p>
