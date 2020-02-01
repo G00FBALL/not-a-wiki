@@ -2208,6 +2208,26 @@ div#images div{
             <p><b>Requirements</b>: Find all 3 Stone Fragments.</p>
             <p><b>Cost</b>: 10 Dqag (1e130)</p>
             <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain 1 M (1e6) assistants.</p>
+            <hr>
+            <p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</b></p>
+            <p><b>Requirement</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
+            <p><b>Effect</b>: Gives upgrade with same name.</p>
+            <p><b>Cost</b>: 10 SpTg (1e115)</p>
+            <p><b>Upgrade Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
+            <p><b>Formula</b>: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png" align="middle"> <b>God's Fingers</b></p>
+            <p><b>Requirement</b>: Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
+            <p><b>Effect</b>: Gives Upgrade with same name.</p>
+            <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
+            <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
+            <hr>
+            <p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png" align="middle"> <b>True Harlequin</b></p>
+            <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 15 different factions.</p>
+            <p><b>Effect</b>: Gives Upgrade with same name.</p>
+            <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades.</p>
+            <p><b>Formula</b>: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</p>
+            <p><b>Cost</b>: 1e152 (100 Noqag)</p>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Spell Upgrades</a></b>
         <div class="autohide">
