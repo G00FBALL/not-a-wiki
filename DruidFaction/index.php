@@ -48,7 +48,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidicVocabularyFactionUpgrade.png" align="middle"> Druidic Vocabulary</b></p>
 <p><b>Cost</b>: 500 Qi (5E20)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
-<p><b>Formula</b>: (4000 * x)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+<p><b>Formula</b>: (4000 * (12 - T))%, where T is building tier.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
 <p><b>Cost</b>: 5 Sx (5E21)</p>
@@ -56,13 +56,10 @@
 <p><b>Formula</b>: floor(((1 + 12 * x) ^ 0.5 - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
     <a id="Companions"></a>
     <table class="numtable">
-        <thead>
-        <tbody>
         <tr>
             <td>Hours of Playtime</td>
-            <th>Assistants</th>
+            <td>Assistants</td>
         </tr>
-        <tbody>
         <tr>
             <td><center>0</td>
             <td><center>3</td>
@@ -91,17 +88,14 @@
             <td><center>6</td>
             <td><center>6</td>
         </tr>
-        </tbody>
         <tr>
             <td><center>12</td>
             <td><center>8</td>
         </tr>
-        </tbody>
         <tr>
            <td><center>18</td>
            <td><center>9</td>
         </tr>
-        </tbody>
         <tr>
             <td><center>24</td>
             <td><center>11</td>
@@ -122,8 +116,6 @@
             <td><center>72</td>
             <td><center>17</td>
         </tr>
-        </tbody>
-        </thead>
     </table>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>

@@ -140,7 +140,7 @@
                 <p><b>Mercenary Template</b>: DD1</p>
                 <p><b>Cost</b>: 500 Qi (5E20)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
-                <p><b>Formula</b>: (4000 * x)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+                <p><b>Formula</b>: (4000 * (12 - T))%, where T is building tier.p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
                 <p><b>Mercenary Template</b>: DD2</p>
@@ -148,76 +148,68 @@
                 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
                 <p><b>Formula</b>: floor(((1 + 12 * x) ^ 0.5 - 1 ) / 2), where x is your Playtime (This Game) stat in hours.</p></p>
                 <a id="Companions"></a>
-                <table class="numtable">
-                    <thead>
-                    <tbody>
-                    <tr>
-                        <td>Hours of Playtime</td>
-                        <th>Assistants</th>
-                    </tr>
-                    <tbody>
-                    <tr>
-                        <td><center>0</td>
-                        <td><center>3</td>
-                    </tr>
-                    <tr>
-                        <td><center>1</td>
-                        <td><center>4</td>
-                    </tr>
-                    <tr>
-                        <td><center>2</td>
-                        <td><center>5</td>
-                    </tr>
-                    <tr>
-                        <td><center>3</td>
-                        <td><center>5</td>
-                    </tr>
-                    <tr>
-                        <td><center>4</td>
-                        <td><center>6</td>
-                    </tr>
-                    <tr>
-                        <td><center>5</td>
-                        <td><center>6</td>
-                    </tr>
-                    <tr>
-                        <td><center>6</td>
-                        <td><center>6</td>
-                    </tr>
-                    </tbody>
-                    <tr>
-                        <td><center>12</td>
-                        <td><center>8</td>
-                    </tr>
-                    </tbody>
-                    <tr>
-                       <td><center>18</td>
-                       <td><center>9</td>
-                    </tr>
-                    </tbody>
-                    <tr>
-                        <td><center>24</td>
-                        <td><center>11</td>
-                    </tr>
-                    <tr>
-                        <td><center>36</td>
-                        <td><center>12</td>
-                    </tr>
-                    <tr>
-                        <td><center>48</td>
-                        <td><center>14</td>
-                    </tr>
-                    <tr>
-                        <td><center>60</td>
-                        <td><center>15</td>
-                    </tr>
-                    <tr>
-                        <td><center>72</td>
-                        <td><center>17</td>
-                    </tr>
-                    </tbody>
-                    </thead>
-                </table>
+				<table class="numtable">
+					<tr>
+						<td>Hours of Playtime</td>
+						<td>Assistants</td>
+					</tr>
+					<tr>
+						<td><center>0</td>
+						<td><center>3</td>
+					</tr>
+					<tr>
+						<td><center>1</td>
+						<td><center>4</td>
+					</tr>
+					<tr>
+						<td><center>2</td>
+						<td><center>5</td>
+					</tr>
+					<tr>
+						<td><center>3</td>
+						<td><center>5</td>
+					</tr>
+					<tr>
+						<td><center>4</td>
+						<td><center>6</td>
+					</tr>
+					<tr>
+						<td><center>5</td>
+						<td><center>6</td>
+					</tr>
+					<tr>
+						<td><center>6</td>
+						<td><center>6</td>
+					</tr>
+					<tr>
+						<td><center>12</td>
+						<td><center>8</td>
+					</tr>
+					<tr>
+					   <td><center>18</td>
+					   <td><center>9</td>
+					</tr>
+					<tr>
+						<td><center>24</td>
+						<td><center>11</td>
+					</tr>
+					<tr>
+						<td><center>36</td>
+						<td><center>12</td>
+					</tr>
+					<tr>
+						<td><center>48</td>
+						<td><center>14</td>
+					</tr>
+					<tr>
+						<td><center>60</td>
+						<td><center>15</td>
+					</tr>
+					<tr>
+						<td><center>72</td>
+						<td><center>17</td>
+					</tr>
+				</table>
             <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>
                 <p><b>Mercenary Template</b>: DD3</p>
