@@ -420,7 +420,7 @@
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
     <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Formula</b>: (2.5*x^2), where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+    <p><b>Formula</b>: (2.5 * (12 - T) ^ 2)%, where T is building tier.</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 M (1E6)</p>
     <p><b>Alignment</b>: Any</p>
@@ -486,7 +486,7 @@
     <p><b>Requirement</b>: R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
     <p><b>Effect</b>: Increase the production of all buildings based on their tier</p>
-    <p><b>Formula</b>: 30000 * (11-x) ^ 3.5, where x is building tier.</p>
+    <p><b>Formula</b>: (30000 * (11 - T) ^ 3.5)%, where T is building tier.</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 Sx (1e21)</p>
     " coords="4,426,60,485" shape="0">

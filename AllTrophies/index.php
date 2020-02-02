@@ -143,7 +143,8 @@
                     <p><img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle><b> Mathematician</b></p>
                     <p><b>Requirement</b>: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms. (1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends.) (Building count has to be exact)</p>
                     <p><b>Cost</b>: 1 Td (1e42), A1, Free</p>
-                    <p><b>Effect</b>: Increases the production of all buildings by 10% per tier (10% for Halls, the 20% for the next building up, etc).</p>
+                    <p><b>Effect</b>: Increases the production of all buildings based on their tier.</p>
+					<p><b>Formula</b>: (10 * (12 - T))%, where T is building tier.</p>
                     <p><b>Note</b>: This can be done at the end of R0 just before reincarnating.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle><b> Mercenary Spirit</b></p>

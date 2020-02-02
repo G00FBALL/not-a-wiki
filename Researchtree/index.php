@@ -387,7 +387,7 @@
 	<p><b>Requirement</b>: 10M (1E7) mana produced (This Game)
 	<p><b>Cost</b>: 466.3 DSpq (4.663E221)
 	<p><b>Effect</b>: Increase the production of buildings based on mana produced in this game, depending on their tiers. Gives better bonuses for lower tiers.
-	<p><b>Formula</b>: (0.1 * x ^ 0.45 * T ^ 2)%, where x is Mana Produced (This Game) stat, and T is the building tier, starting at 11 for Farms and decreasing to 1 for Halls of Legends.
+	<p><b>Formula</b>: (0.1 * x ^ 0.45 * (12 - T) ^ 2)%, where x is Mana Produced (This Game) stat, and T is building tier.
 	" coords="389,139,437,186" shape="rect">
         <area research="S590 - For Fairy,Dwarf
 	<p><b>Research Name</b>: Trickery
