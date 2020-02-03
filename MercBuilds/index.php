@@ -134,8 +134,6 @@
 					<p><b>Template</b></p>
 					<p>FR3,FR4,FR9,TT3,TT6,TT9,DD1,DD4,DD5,DD9,DN2,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Diamond Pickaxe</p>
-					<p>This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
-					<p>If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
