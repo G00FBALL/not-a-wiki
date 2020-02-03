@@ -13,7 +13,7 @@
 <p><b>Effect</b>: You gain assistants based on the amount of Fairy affiliated (faction upgrades, heritage, bloodline, research) upgrades you own.</p>
 <p><b>Formula</b>: (2 * x), where x is amount of Fairy affiliated upgrades.</p>
 <p><b>Upgrade</b>: Works with Fairy</b></p>
-<p><b>Tip</b>: Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>
+<p><b>Tip</b>: Do excavations to quickly unlock all the fairy treaties and buy the fairy upgrades. Don't forget the Fairy Choir spell upgrade.</p>
 <hr>
 <H6 id="FairyFC2"></h6><p><b>Fairy Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png" alt="Donations</p>" align="middle"> <b>Donations</b></p>

@@ -52,7 +52,7 @@
 	<p><b>Challenge</b>: Only use Farms, Inns and Blacksmiths during a run where you buy all Fairy upgrades within 1 minute of a new game.(Abdication or Reincarnation)</p>
 	<p><b>Effect</b>: You gain assistants based on the amount of Fairy affiliated (faction upgrades, heritage, bloodline, research) upgrades you own.</p>
 	<p><b>Formula</b>: (2 * x), where x is amount of Fairy affiliated upgrades.</p>
-	<p><b>Upgrade</b>: Works with Fairy</b></p><p><b>Tip</b>: Do excavations to quickly get the Fairy Heritage upgrade. Don't forget the Fairy Choir spell upgrade.</p>"
+	<p><b>Upgrade</b>: Works with Fairy</b></p><p><b>Tip</b>: Do excavations to quickly unlock all the fairy treaties and buy the fairy upgrades. Don't forget the Fairy Choir spell upgrade.</p>"
 	coords="71,49,126,100" shape="rect">
     <area href="http://musicfamily.org/realm/Fairy/#FairyFC2" target="" research=
 	"<p><b>Fairy Challenge 2</b></p>
