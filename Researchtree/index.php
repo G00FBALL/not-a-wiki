@@ -736,8 +736,8 @@
 	<p><b>Research Name</b>: Retribution
 	<p><b>Requirement</b>: Research Betrayal (W120) & Transfixion (D55).
 	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
-	<p><b>Effect</b>: Increase chance to find faction coins based on the amount of research made.
-	<p><b>Formula</b>: floor(x ^ 1.25), where x is the amount of research made.
+	<p><b>Effect</b>: Increase chance to find faction coins based on the amount of research points.
+	<p><b>Formula</b>: floor(x ^ 1.25), where x is the amount of research points.
 	" coords="444,513,492,562" shape="rect">
         <area research="D175 - For Angel
 	<p><b>Research Name</b>: Resurrection
