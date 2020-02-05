@@ -72,8 +72,8 @@
         <p><b>Research Name</b>: Tinkering</p>
         <p><b>Requirement</b>: Research Recycling (E10) & Reinforcing (C135)</p>
         <p><b>Cost</b>: 129.6 Noqag (1.296E152)</p>
-        <p><b>Effect</b>: Increase the production of all buildings based on the amount of research made.</p>
-        <p><b>Formula</b>: round(125 * x ^ 0.38)%, where x is number of researches made.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on the amount of total research points bought.</p>
+        <p><b>Formula</b>: round(125 * x ^ 0.38)%, where x is number of total research points bought.</p>
         <hr>
         <p><b>C175</b> - For Goblin</p>
         <p><b>Research Name</b>: Gemcutting</p>

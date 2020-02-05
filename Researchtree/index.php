@@ -513,8 +513,8 @@
 	<p><b>Research Name</b>: Tinkering
 	<p><b>Requirement</b>: Research Recycling (E10) & Reinforcing (C135)
 	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
-	<p><b>Effect</b>: Increase the production of all buildings based on the amount of research made.
-	<p><b>Formula</b>: round(125 * x ^ 0.38)%, where x is number of researches made.
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of total research points bought.
+	<p><b>Formula</b>: round(125 * x ^ 0.38)%, where x is number of total research points bought.
 	" coords="112,326,161,375" shape="rect">
         <area research="C175 - For Goblin
 	<p><b>Research Name</b>: Gemcutting
@@ -736,8 +736,8 @@
 	<p><b>Research Name</b>: Retribution
 	<p><b>Requirement</b>: Research Betrayal (W120) & Transfixion (D55).
 	<p><b>Cost</b>: 129.6 Noqag (1.296E152)
-	<p><b>Effect</b>: Increase chance to find faction coins based on the amount of research points.
-	<p><b>Formula</b>: floor(x ^ 1.25), where x is the amount of research points.
+	<p><b>Effect</b>: Increase chance to find faction coins based on the amount of total research points bought.
+	<p><b>Formula</b>: floor(x ^ 1.25), where x is the amount of total research points bought.
 	" coords="444,513,492,562" shape="rect">
         <area research="D175 - For Angel
 	<p><b>Research Name</b>: Resurrection
