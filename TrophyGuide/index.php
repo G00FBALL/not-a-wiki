@@ -35,7 +35,7 @@
         </thead>
         <tbody>
         <tr>
-            <td><center>Clouded</p><img src="http://musicfamily.org/realm/Factions/picks/CloudTrophy.png"></td>
+            <td><center>Clouded</p><img src="http://musicfamily.org/realm/Factions/picks/Clouded.png"></td>
             <td></td>
             <td>Register with the cloud.</td>
         </tr>
