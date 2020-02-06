@@ -773,7 +773,7 @@
 <p><b>Formula</b>: round(1.5 * ln(1 + x) ^ 3), where x is your current gems.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png" align="middle"> <b>Lightning Storm</b></p>
 <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
-<p><b>Effect</b>: Increase Lightning Strike multiplier to 5x Iron Strongholds.</p>
+<p><b>Effect</b>: Increase Lightning Strike bonus to 400% for each Iron Strongholds.</p>
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallenges.png" align="middle"> <b>Thunderstorm</b> (R25+)</p>
 <p><b>Effect</b>: Lightning Strike now grants more Faction Coins based on your Faction Coin find chance.</p>
