@@ -236,7 +236,7 @@
         <p><b>Research Name</b>: Prophecy</p>
         <p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade</p>
         <p><b>Cost</b>: Free</p>
-        <p><b>Effect</b>: Empowers the effects of your faction’s Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
+        <p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
         <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is your least spent faction time.</p>
         <hr>
         <p><b>D5875</b> - For All Factions</p>
