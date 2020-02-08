@@ -745,7 +745,6 @@
 				<p>A120,A270,A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1275,W1375,W1400,W3150</p>
 				<p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
-				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
 				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra Share Benefits tier.
 					<p>
 			</div>
@@ -777,6 +776,7 @@
 				<p>A120,A270,A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1275,W1375,W1400,W3150</p>
 				<p><b>Notes</b>: Recommended to do spell tiers first before building lineage, so you can build up clicks count.</p>
+				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
 				<p><b>Notes</b>: Swap AN6 with FR7 if it means you cna cast an extra Share Benefits tier.</p>
 			</div>
 		</div>
