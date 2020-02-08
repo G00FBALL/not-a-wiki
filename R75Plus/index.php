@@ -15,24 +15,24 @@
 	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titans Starter</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Titans Starter</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Requirement</b>: Demon Lineage 20+ (Demon perk 2 NOT needed)
-					<p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
-					<p><b>Faction</b>: Titan/Dragon</p>
-					<p><b>Bloodline</b>: Demon</p>
-					<p>
-						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S270,S330,S500,C150,C250,C251,C330,C340,C375,C400,D55,D200,D245,D250,D290,D320,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W150,W180,W250,W290,W320,W330,W400">
-					</p>
-					<p>S135,S150,S215,S270,S330,S500,</p>
-					<p>C150,C250,C251,C330,C340,C375,C400,</p>
-					<p>D55,D200,D245,D250,D290,D320,</p>
-					<p>E135,E145,E275,E320,E330,E400,</p>
-					<p>A105,A120,A250,A305,A330,A400,</p>
-					<p>W150,W180,W250,W290,W320,W330,W400</p>
-					<p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
+				<p><b>Requirement</b>: Fairy Lineage 20+</p>
+				<p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
+				<p><b>Faction</b>: Titan/Dragon</p>
+				<p><b>Bloodline</b>: Fairy</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S135,S150,S215,S270,S330,S500,C150,C250,C251,C330,C340,C375,C400,E135,E145,E275,E320,E330,E400,A105,A120,A250,A305,A330,A400,W150,W180,W250,W290,W320,W330,W400">
+				</p>
+				<p>S135,S150,S215,S270,S330,S500,</p>
+				<p>C150,C250,C251,C330,C340,C375,C400,</p>
+				<p>D55,D200,D245,D250,D290,D320,</p>
+				<p>E135,E145,E275,E320,E330,E400,</p>
+				<p>A105,A120,A250,A305,A330,A400,</p>
+				<p>W150,W180,W250,W290,W320,W330,W400</p>
+				<p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
