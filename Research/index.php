@@ -19,18 +19,18 @@
         <p><b>Note</b>: It is recommended to start research with 100 Dvg (1E71) - 1 Tvg (1E72) gems.</p>
         <hr>
         <b><center>Research Facilities and Upgrades</center></b>
-                    <p>At each reincarnation level, you will get Research Points(RP) equal to your Reincarnation number to upgrade each facility, RP is maxed at 5000 at R100. The RP upgrade cost increases according to the following formula.</p>
-                    <p><b>RP Cost Pre A</b>: Formula: 1e126 * 1.5 ^ x Coins and (x + 1) ^ 3 Faction Coins</p>
-                    <p><b>RP Cost Post A</b>: Formula: 1e42 * 1.147 ^(x-780) and (x + 1) ^ 3 Faction Coins</p>
-                    <p><b>Available RPs Formula</b>: (x + 1) * x / 2</p>
-                    <p>Upon abdication, your gained Research Points will persist, and your Research Upgrade Slots/Points will reset so you can make different research builds each run.</p>
-                    <p><b><center>Research Slots/Budget</center></b></p>
-                    <p><b>R16-R99</b>: you get a limited number of Research slots for each ficility, depending on what upgrades you have you can have up to 6 slots for each facility.</p>
-                    <p><b>R100-R160</b>: you get 1 Research slot for each ficility plus faction research</p>
-                    <p><b>Note</b>: At R130+  with specific upgrade you can gain additional research slots based on time spent this game.</p>
-                    <p><b>R160+</b>: The research slots change to a budget system starting at 3500.</p>
-                    <p><b>Note</b>: With specific upgrades you can gain a higher budget based on time spent this game.</p>
-                    <p><b>R175+</b>: RP is raised again with each Reincarnation and maxes to 7000 with new research and additional budget.</p>
+		<p>At each reincarnation level, you will get Research Points (RP) equal to your Reincarnation number to upgrade each facility, RP is maxed at 5000 at R100. The RP upgrade cost increases according to the following formula.</p>
+		<p><b>RP Cost A0 (1 - 780)</b>: Formula: (1e126 * 1.5 ^ x) Coins and ((x + 1) ^ 3) Faction Coins</p>
+		<p><b>RP Cost A1 (781 - 5000)</b>: Formula: (1e42 * 1.147 ^ (x - 780)) and ((x + 1) ^ 3) Faction Coins</p>
+		<p><b>RP Cost A3 (5001 - 7000)</b>: Formula: (1e126 * 1.75 ^ ((x - 5000) * 0.1)) and (10 * (x + 1) ^ 10) Faction Coins</p>
+		<p><b>Available RPs Formula (A0, A1)</b>: ((x + 1) * x / 2)</p>
+		<p><b>Available RPs Formula (A3, R175-R190)</b>: (5000 + (125 * (x - 174))</p>
+		<p><b><center>Research Slots/Budget</center></b></p>
+		<p><b>R16-R99 (A0, A1)</b>: you get a limited number of Research slots for each ficility, depending on what upgrades you have you can have up to 6 slots for each facility.</p>
+		<p><b>R100-R160 (A2)</b>: you get 1 Research slot for each facility, and A0 and A1 research slot upgrades are removed, however, faction researches are free and take no slots.</p>
+		<p><b>R160-R174 (A3)</b>: The research slots change to a budget system based on each research's point value and starts at 3500 per facility.</p>
+		<p><b>R175-R190</b>: Your budget is increased by 125 per Reincarnation, up to 5500 (7000 with a facility upgrade).</p>
+		<p>Upon abdication, your purchased Research Points will persist, but your Research Upgrade Slots/Budget will reset so you can make different research builds each run.</p>
         <div class="shlisting">
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Research Slot/Budget Upgrade Requirements</a></b></p>
