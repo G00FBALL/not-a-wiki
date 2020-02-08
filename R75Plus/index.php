@@ -201,7 +201,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Nameless Philanthropists (R77-80)<font color="Blue"> Good</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Nameless Philanthropists (R77-89)<font color="Blue"> Good</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: low excavations count (Reset excavations if needed)
@@ -239,36 +239,6 @@
 					<p><b>Notes</b>: Excavate for Dragon Heritage, Dragon upgrade 3 & 4, and Holy Light tier 3</p>
 					<p><b>Notes</b>: Swap D275->D525 if T4+ HL</p>
 					<p><b>Notes</b>: Swap C150->C3100, W275->W3150 for R79+</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Altergeist (R81-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: 6000j modified by Cyden</p>
-				<p><b>Range</b>: 1e91 (10 Novg) (1e88 (10 Ocvg) With Sunforce: Assistants) - 1e97 (10 Utg) Gems</p>
-				<p><b>Faction</b>: Neutral Mercenary</p>
-				<p><b>Bloodline</b>: Undead</p>
-				<p><b>A2950</b>: Dragon</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR2,EL3,AN5,AN9,TT3,TT6,DD4,FC7,DN2,DN8,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D290,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A105,A120,A175,A1200,A1500,A2950,W180,W275,W400,W1275,W1375,W3150">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR2,EL3,AN5,AN9,TT3,TT6,DD4,FC7,DN2,DN8,DG4,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S330,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D290,D1275,D1375,D2775,E135,E350,E1225,E1425,E3250,E3300,A105,A120,A1200,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W3150">
-					<b>R82+</b>
-				</p>
-				<p>FR2,EL3,AN5,AN9,TT3,TT6,DD4,FC7,DN2,DN8,DG4,DG9,</p>
-				<p>SP:Dragon's Breath,SP:God's Hand,</p>
-				<p>S215,S305,S330,S1450,S1500,S3200,</p>
-				<p>C150,C340,C400,C590,C1300,C3000,</p>
-				<p>D25,D275,D290,D1275,D1375,D2775,</p>
-				<p>E135,E350,E1225,E1425,E3250,E3300,</p>
-				<p>A105,A120,A175,A1200,A1500,A2950,</p>
-				<p>W180,W275,W400,W1275,W1375,W3150</p>
-				<p><b>Notes</b>: Swap A175->A3400 for R82+</p>
-				<p><b>Notes</b>: Use only once per R, high initial power, affords Freemason Hall easier but sacrifice long term production.</p>
-				<p><b>Notes</b>: Some Researches will require you to buy E3300 first.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
