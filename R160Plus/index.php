@@ -6,8 +6,7 @@
 <br/>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" align="middle"></h6>
 <br/>
-<p><b><font color="darkred">From R175+ builds may not work well with the new points/budget system</b></p></font>
-<p><b><font color="darkred">Some builds are outdated, use builds from <b><a target="_blank" href="https://discord.gg/cq6zmQX">Discord</a></b> or <b><a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1879377-v3-7-a3-builds">Kong</a></b> forum</b></p></font>
+<p><b><font color="darkred">Builds are outdated, use builds from <b><a target="_blank" href="https://discord.gg/cq6zmQX">Discord</a></b> or <b><a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1879377-v3-7-a3-builds">Kong</a></b> forum</b></p></font>
     <br/>
     <p><b>Production Builds</b></p>
     <div class="category">
