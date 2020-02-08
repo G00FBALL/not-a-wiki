@@ -411,37 +411,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonist Manifesto (R95+)<font color="Blue"> Good</font></a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Somarilnos</p>
-				<p><b>Requirement</b>: Primal Balance +10 (use Mana Breeder Reactor build to do this)</p>
-				<p><b>Range</b>: 1e129 (1 Dqag) Gems+</p>
-				<p><b>Faction</b>: Good Mercenary</p>
-				<p><b>Bloodline</b>: Dragon</p>
-				<p><b>A2950</b>: Elf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E50,E135,E350,E460,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,SP:Fairy Chanting,SP:Grand Balance,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E50,E135,E290,E350,E1225,E3300,A30,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
-					<b>E290</b>
-				</p>
-				<p>FR3,EL3,EL7,AN5,TT6,DD6,DD7,DD9,DN2,DG3,DG4,DG9,MA:FR1,</p>
-				<p>SP:Fairy Chanting,SP:Grand Balance,</p>
-				<p>S215,S305,S330,S1275,S1450,S1500,</p>
-				<p>C225,C340,C590,C1300,C3000,C3100</p>
-				<p>D25,D290,D525,D1275,D1375,D2775,</p>
-				<p>E50,E135,E350,E460,E1225,E3300,</p>
-				<p>A30,A120,A270,A1500,A2950,A3400,</p>
-				<p>W10,W25,W1275,W1400,W3050,W3150</p>
-				<p><b>Notes</b>: Meant for longer (8+ hour) runs.</p>
-				<p><b>Notes</b>: Swap E460 with E290 for additional ruby excavations.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blue Moon (R95+)<font color="Blue"> Good</font></a> Needs Testing</b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blue Moon (R95+)<font color="Blue"> Good</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Glenniss2</p>
 				<p><b>Requirement</b>: Primal Balance +10 (use Mana Breeder Reactor build to do this)</p>
