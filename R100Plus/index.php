@@ -57,10 +57,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e29+ (100 Oc)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e29 - 1e34 (100 Oc - 10 Dc)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e29 (100 Oc) Gems+</p>
+                <p><b>Range</b>: 1e29 (100 Oc) Gems - 1e34 (10 Dc) Gems</p>
                 <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
                 <p><b>Alignment</b>: Good, Balance</p>
                 <p><b>Faction</b>: Elf</p>
@@ -78,6 +78,30 @@
                 <p>W10,W1375</p>
                 <p><b>Note</b>: Takes aprox. 25 minutes for SS7.</p>
                 <p><b>Note</b>: Dont cast all spells at max tiers for build-up.</p>
+
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R100-R110), 1e34 (10 Dc)+<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: DragonRu</p>
+                <p><b>Range</b>: 1e34 (10 Dc) Gems+</p>
+                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
+                <p><b>Alignment</b>: Good, Balance</p>
+                <p><b>Faction</b>: Elf</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><b>Artifact Set</b>: Druid, Elf (1e35 (100 Dc) Gems+)</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S400,C25,C340,D1,D175,D290,A50,A3400,W225,W400">
+				</p>
+                <p>S10,S400,</p>
+                <p>C25,C340,</p>
+                <p>D1,D175,D290,</p>
+                <p>E3250,</p>
+                <p>A50,A3400,</p>
+                <p>W225,W400</p>
+                <p><b>Note</b>: Requires a few hours to build up D175 for the first time in an R.</p>
 
             </div>
         </div>
