@@ -15,7 +15,7 @@
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Godshand.png" align="middle"></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Godshand.png" align="middle"> <b>God's Hand</b></p>
         <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate for 20 seconds.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>

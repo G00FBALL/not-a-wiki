@@ -4,7 +4,7 @@
 
 <head>
     <?php include "../scripts/header.html"; ?>
-        <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" alt="Spellcraft" align="middle"></h6></a>
+        <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" alt="Spellcraft" align="middle"></a></h6>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Mercenary.png" alt="Smiley face" align="middle"><b>  Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>When a mercenary crosses your path, there's only one thing that can save your life: offer him more money than he can get by killing you. If you gain the favor of the mercenaries, you will be able to combine the power of all races at once.</p>

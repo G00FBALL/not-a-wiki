@@ -14,7 +14,8 @@
         <p><b>Unlock Requirements</b>: None</p>
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
-        <p><b>Faction spell</b> <img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Smiley face" align="middle"></p>
+        <p><b>Faction spell</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Smiley face" align="middle"> <b>Fairy Chanting</b></p>
         <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50,000% for 10 seconds.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
@@ -25,7 +26,7 @@
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy" align="middle"> Fairy Trade Treaty</b></p>
-        <p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwords</p>
+        <p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwords.</p>
         <p><b>Effect</b>: Fairies focus on the small and common things and make them magically powerful. Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" alt="Smiley face" align="middle"> Pixie Dust Fertilizer</b></p>
@@ -90,9 +91,9 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Enchanted Field Quest</b></p>
         <p>Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!</p>
+        <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <p><b>Requirements</b>: R16 + 2250 Farms</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
-        <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldFactionUpgrade.png" alt="Smiley face" align="middle"> Enchanted Field</b></p>
         <p>Upgrade Farms to Enchanted Fields, boosting their production based on the amount of assistants you own and unlocking more unique perks for the building.</p>
