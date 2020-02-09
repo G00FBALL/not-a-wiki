@@ -453,7 +453,7 @@
         <p><b>Clue</b>: Attracted by amassed mana reserves.
         <p><b>Description</b>: Used to weave even the thinnest mana strings.</p>
         <p><b>Requirement</b>: R175, Chaos Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 50000), where x is mana produced (This Game)</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 50000)%, where x is mana produced (This Game)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Mana Loom artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 2500.</p>
@@ -464,7 +464,7 @@
         <p><b>Clue</b>: Dig it manually.</p>
         <p><b>Description</b>: Mass-production is the way to go.</p>
         <p><b>Requirement</b>: R175, Neutral Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 10000), where x is clicks (This Game)</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 10000)%, where x is clicks (This Game)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Factory artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 2500.</p>
@@ -475,7 +475,7 @@
         <p><b>Clue</b>: Spells get sad when not used for a long time.</p>
         <p><b>Description</b>: Accurate historical list of every existing or non-existing deity.</p>
         <p><b>Requirement</b>: R175, Good Alignment</p>
-        <p><b>Chance</b>: (x / 4320000), where x is minimum spell activity time. (This Reincarnation)</p>
+        <p><b>Chance</b>: (x / 4320000)%, where x is minimum spell activity time. (This Reincarnation)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Mythos artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 2500.</p>
@@ -486,7 +486,7 @@
         <p><b>Clue</b>: Show your prowess as a Royal Trader.</p>
         <p><b>Description</b>: Never a place could be more secure.</p>
         <p><b>Requirement</b>: R175, Balance Alignment</p>
-        <p><b>Chance</b>: (x / 100000000), where x is Royal Exchange Bonus.</p>
+        <p><b>Chance</b>: (x / 100000000 (100M))%, where x is Royal Exchange Bonus.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Vault artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 2500.</p>
@@ -497,7 +497,7 @@
         <p><b>Clue</b>: Archemy.</p>
         <p><b>Description</b>: The legendary oven that could smelt souls into matter.</p>
         <p><b>Requirement</b>: R175, Order Alignment</p>
-        <p><b>Chance</b>: (x / 1000000), where x is Alchemy Research Points.</p>
+        <p><b>Chance</b>: (x / 1000000 (1M))%, where x is Alchemy Research Points.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 2500.</p>
@@ -508,7 +508,7 @@
         <p><b>Clue</b>: Would you think an army is enough to excavate this?</p>
         <p><b>Description</b>: An extremely accurate replica of a battle fought long ago.</p>
         <p><b>Requirement</b>: R175, Evil Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 20000), where x is the number of Assistants.</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 20000)%, where x is the number of Assistants.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 2500.</p>

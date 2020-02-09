@@ -144,5 +144,5 @@
         <p><b>Requirement</b>: R175+</p>
         <p><b>Effect</b>: Unlocks Facility Research upgrades</p>
         <p><b>Note</b>: Each Facility needs their respective artifact and this artifact to get their respective upgrade.</p>
-        <p><b>Chance</b>: (x ^ 2 / 100000000000), where x is spent Research points.</p>
+        <p><b>Chance</b>: (x ^ 2 / 100000000000 (100B))%, where x is spent Research budget.</p>
         <?php include "../scripts/footer.html"; ?>
