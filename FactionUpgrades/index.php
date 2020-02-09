@@ -46,7 +46,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
                 <p><b>Mercenary Template</b>: EL3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
-                <p><b>Effect</b>: Increase clicking reward by 50% of your total production.</p>
+                <p><b>Effect</b>: Increase clicking reward by 50% of your total production.(additive)</p>
                 <hr>
                 <h6>Angel</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" align="middle"> Holy Bells</b></p>
@@ -365,9 +365,9 @@
                 <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 15000%.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png" align="middle"> Golden Pots</b></p>
-                <p><b>Cost</b>: 5 T (5E12)</p>
                 <p><b>Mercenary Template</b>: FR5</p>
-                <p><b>Effect</b>: Increase clicking reward by 20% of the production of Farms, Inns and Blacksmiths combined.</p>
+                <p><b>Cost</b>: 5 T (5E12)</p>
+                <p><b>Effect</b>: Increase clicking reward by 20% of the production of Farms, Inns and Blacksmiths combined.(additive)</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" align="middle"> Spellsmith</b></p>
                 <p><b>Mercenary Template</b>: FR6</p>
@@ -385,7 +385,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEfficiencyFactionUpgrade.png" align="middle"> Elven Efficiency</b></p>
                 <p><b>Mercenary Template</b>: EL5</p>
                 <p><b>Cost</b>: 5 T (5E12)</p>
-                <p><b>Effect</b>: Royal Exchanges also increase clicking reward by 2% each.</p>
+                <p><b>Effect</b>: Royal Exchanges also increase clicking reward by 2% each.(multiplicative)</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" align="middle"> Secret Clicking Techniques</b></p>
                 <p><b>Mercenary Template</b>: EL6</p>
@@ -394,7 +394,6 @@
                 <p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks (Total) stat.</p>
                 <hr>
                 <h6>Angel</h6>
-                <p><b>Effect</b>: Unlocks more Angel Upgrades.</p>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GuardianAngelsFactionUpgrade.png" align="middle"> Guardian Angels</b></p>
                 <p><b>Mercenary Template</b>: AN4</p>
                 <p><b>Cost</b>: 500 B (5E11)</p>
@@ -915,7 +914,7 @@
                 <h6>Fairy</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BubbleSwarm.png" align="middle"> Bubble Swarm</b></p>
                 <p><b>Mercenary Template</b>: FR10</p>
-                <p><b>Requirement</b>: A2, Fairies Union</p>
+                <p><b>Requirement</b>: A2+, Fairies Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
                 <p><b>Formula</b>: (sumOfDigits(x) * 100 * x ^ 0.45), where x is amount of Swarming Towers owned.</p>
@@ -923,14 +922,14 @@
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" align="middle"> Pheromones</b></p>
                 <p><b>Mercenary Template</b>: FR11</p>
-                <p><b>Requirement</b>: A2, Fairies Union</p>
+                <p><b>Requirement</b>: A2+, Fairies Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Gain assistants based on time spent affiliated with Fairies. (This R).</p>
                 <p><b>Formula</b>: (1.5 * x ^ 0.75), where x is time spent affiliated with Fairies. (This R).</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" align="middle"> Dream Catchers</b></p>
                 <p><b>Mercenary Template</b>: FR12</p>
-                <p><b>Requirement</b>: A2, Fairies Union</p>
+                <p><b>Requirement</b>: A2+, Fairies Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: multiplicative increase mana regen by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought).</p>
                 <p><b>Formula</b>:  Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
@@ -938,7 +937,7 @@
                 <h6>Elf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" align="middle"> Wooden Dices</b></p>
                 <p><b>Mercenary Template</b>: EL10</p>
-                <p><b>Requirement</b>: A2, Elven Union</p>
+                <p><b>Requirement</b>: A2+, Elven Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: When Elven Luck triggers, 100000 automatic Tax Collections are cast.</p>
                 <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
@@ -948,7 +947,7 @@
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" align="middle"> Camouflage</b></p>
                 <p><b>Mercenary Template</b>: EL11</p>
-                <p><b>Requirement</b>: A2, Elven Union</p>
+                <p><b>Requirement</b>: A2+, Elven Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
                 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
@@ -956,7 +955,7 @@
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png" align="middle"> Elven Discipline</b></p>
                 <p><b>Mercenary Template</b>: EL12</p>
-                <p><b>Requirement</b>: A2, Elven Union</p>
+                <p><b>Requirement</b>: A2+, Elven Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase assistants additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
                 <p><b>Formula</b>: (100 * ln(x) ^ 1.5), where x is Faction Coins found in this game.(additively)</p>
@@ -965,7 +964,7 @@
                 <h6>Angel</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sBrilliance.png" align="middle"> Heaven's Brilliance</b></p>
                 <p><b>Mercenary Template</b>: AN10</p>
-                <p><b>Requirement</b>: A2, Angels Union</p>
+                <p><b>Requirement</b>: A2+, Angels Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. Gem Grinder and all Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
                 <p><b>Formula</b>: (0.02 * ln(1 + x)), where x is amount of Holy Sites owned.</p>
@@ -973,35 +972,35 @@
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" align="middle"> Angelic Fortitude</b></p>
                 <p><b>Mercenary Template</b>: AN11</p>
-                <p><b>Requirement</b>: A2, Angels Union</p>
+                <p><b>Requirement</b>: A2+, Angels Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this R).</p>
                 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is seconds in current spells.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" align="middle"> Seraphim Wings</b></p>
                 <p><b>Mercenary Template</b>: AN12</p>
-                <p><b>Requirement</b>: A2, Angels Union</p>
+                <p><b>Requirement</b>: A2+, Angels Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Multiplicatively increase Maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%.</p>
                 <hr>
                 <h6>Goblin</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" align="middle"> Fools Gems</b></p>
                 <p><b>Mercenary Template</b>: GB10</p>
-                <p><b>Requirement</b>: A2, Goblins Union</p>
+                <p><b>Requirement</b>: A2+, Goblins Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase production bonus from Gem based on the amount of Slave Markets you own.</p>
                 <p><b>Formula</b>: (X ^ 0.5), where x is Slave Market you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MoneyisMagic.png" align="middle"> Money is Magic</b></p>
                 <p><b>Mercenary Template</b>: GB11</p>
-                <p><b>Requirement</b>: A2, Goblins Union</p>
+                <p><b>Requirement</b>: A2+, Goblins Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase mana regeneration based on the amount of Tax Collections cast in this game.</p>
                 <p><b>Formula</b>: (2 * (ln(1 + x) ^ 1.2)), where x is amount of Tax Collections cast.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png" align="middle"> Lousy Architecture</b></p>
                 <p><b>Mercenary Template</b>: GB12</p>
-                <p><b>Requirement</b>: A2, Goblins Union</p>
+                <p><b>Requirement</b>: A2+, Goblins Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier.</p>
                 <p><b>Formula</b>: (-0.02)</p>
@@ -1011,21 +1010,21 @@
                 <h6>Undead</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" align="middle"> Flesh Servants</b></p>
                 <p><b>Mercenary Template</b>: UD10</p>
-                <p><b>Requirement</b>: A2, Undead Union</p>
+                <p><b>Requirement</b>: A2+, Undead Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase assistants based on the amount of Flesh Workshops you own.</p>
                 <p><b>Formula</b>: (1.25 * x ^ 0.75), where x is amount of Flesh Workshop owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" align="middle"> Zombie Apocalypse</b></p>
                 <p><b>Mercenary Template</b>: UD11</p>
-                <p><b>Requirement</b>: A2, Undead Union</p>
+                <p><b>Requirement</b>: A2+, Undead Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
                 <p><b>Formula</b>: (20 * x ^ 0.9), where x is offline time this R.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" align="middle"> Eternal Servitude</b></p>
                 <p><b>Mercenary Template</b>: UD12</p>
-                <p><b>Requirement</b>: A2, Undead Union</p>
+                <p><b>Requirement</b>: A2+, Undead Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase base production of Undercity by +10000, and then increase this effect based on time spent in this Reincarnation.</p>
                 <p><b>Formula</b>: (10000 + x ^ 1.05), where x is time spent in this Reincarnation.</p>
@@ -1034,21 +1033,21 @@
                 <h6>Demon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbyssalFurnace.png" align="middle"> Abyssal Furnace</b></p>
                 <p><b>Mercenary Template</b>: DM10</p>
-                <p><b>Requirement</b>: A2, Demons Union</p>
+                <p><b>Requirement</b>: A2+, Demons Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Burning Abysses you own. Higher tiers get better bonuses.</p>
                 <p><b>Formula</b>: (0.5 * (t ^ 2) * (x ^ 0.5)), where x is Hall of legends count, t is building tier.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" align="middle"> Demonic Fury</b></p>
                 <p><b>Mercenary Template</b>: DM11</p>
-                <p><b>Requirement</b>: A2, Demons Union</p>
+                <p><b>Requirement</b>: A2+, Demons Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Multiplicatively increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
                 <p><b>Formula</b>: (0.25 * min(x,y) ^ 0.75), where x is evil time in seconds and y is chaos time in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" align="middle"> Devastation</b></p>
                 <p><b>Mercenary Template</b>: DM12</p>
-                <p><b>Requirement</b>: A2, Demons Union</p>
+                <p><b>Requirement</b>: A2+, Demons Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
                 <p><b>Formula</b>: (4.5 * ln(1 + x) ^ 4.5), where x is mana regen.</p>
@@ -1056,21 +1055,21 @@
                 <h6>Titan</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GiantMarket.png" align="middle"> Giant Market</b></p>
                 <p><b>Mercenary Template</b>: TT10</p>
-                <p><b>Requirement</b>: A2, Titan Union</p>
+                <p><b>Requirement</b>: A2+, Titan Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
                 <p><b>Formula</b>: (1.25 * x ^ 0.725), where x is amount of Mountain Palaces owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanicAuthority.png" align="middle"> Titanic Authority</b></p>
                 <p><b>Mercenary Template</b>: TT11</p>
-                <p><b>Requirement</b>: A2, Titan Union</p>
+                <p><b>Requirement</b>: A2+, Titan Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
                 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is amount of Royal Exchanges you made.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png" align="middle"> Colossus Kingdom</b></p>
                 <p><b>Mercenary Template</b>: TT12</p>
-                <p><b>Requirement</b>: A2, Titan Union</p>
+                <p><b>Requirement</b>: A2+, Titan Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Additively gain assistants based on total time spent as Order.</p>
                 <p><b>Formula</b>: (20 * x ^ 0.7), where x is seconds this R.</p>
@@ -1078,14 +1077,14 @@
                 <h6>Druid</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" align="middle"> Building Vines</b></p>
                 <p><b>Mercenary Template</b>: DD10</p>
-                <p><b>Requirement</b>: A2, Druids Union</p>
+                <p><b>Requirement</b>: A2+, Druids Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Increase Non-Unique building count based on the amount of Ziggurats you own.</p>
                 <p><b>Formula</b>: (1.5 * x ^ 0.5), where x is Ziggurats count.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LunarCycle.png" align="middle"> Lunar Cycle</b></p>
                 <p><b>Mercenary Template</b>: DD11</p>
-                <p><b>Requirement</b>: A2, Druids Union</p>
+                <p><b>Requirement</b>: A2+, Druids Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase Maximum Mana additively based on time spent online in this game.</p>
                 <p><b>Online Formula</b>: (50 * x ^ 0.85), where x is time spent online in this game.</p>
@@ -1094,7 +1093,7 @@
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GroveFarming.png" align="middle"> Grove Farming</b></p>
                 <p><b>Mercenary Template</b>: DD12</p>
-                <p><b>Requirement</b>: A2, Druids Union</p>
+                <p><b>Requirement</b>: A2+, Druids Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
                 <p><b>Formula</b>: (0.8 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
@@ -1102,14 +1101,14 @@
                 <h6>Faceless</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" align="middle"> Primal Knowledge</b></p>
                 <p><b>Mercenary Template</b>: FC10</p>
-                <p><b>Requirement</b>: A2, Faceless Union</p>
+                <p><b>Requirement</b>: A2+, Faceless Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
                 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time and resets every 15 minutes.</p>
                 <p><b>Formula</b>: (Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" align="middle"> Forbidden Language</b></p>
                 <p><b>Mercenary Template</b>: FC11</p>
-                <p><b>Requirement</b>: A2, Faceless Union</p>
+                <p><b>Requirement</b>: A2+, Faceless Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
                 <p><b>Formula</b>: (x)</p>

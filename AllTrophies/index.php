@@ -213,7 +213,7 @@
                     <p><b>Effect</b>: Increase Faction Coin find chance by 10%.</p>
                     <p><b>Notes</b></p>
                     <p><b>1</b>. This can be done from around R8+</p>
-                    <p><b>2</b>. Reincarnate, EXPORT to a text file and save that</p>
+                    <p><b>2</b>. Reincarnate/Abdicate, EXPORT to a text file and save that</p>
                     <p><b>3</b>. Turn on 'Multibuy upgrade series'</p>
                     <p><b>4</b>. Go Elf with Elf Bloodline</p>
                     <p><b>5</b>. Buy max buildings</p>

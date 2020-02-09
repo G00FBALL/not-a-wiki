@@ -40,7 +40,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" alt="Smiley face" align="middle"> Sylvan Treasure Frills</b></p>
         <p><b>Cost</b>: 5 B (5E9)</p>
-        <p><b>Effect</b>: Increase clicking reward by 50% of your total production.</p>
+        <p><b>Effect</b>: Increase clicking reward by 50% of your total production.(additive)</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenFriendshipPact.png" alt="Smiley face" align="middle"> Elven Friendship Pact</b></p>
@@ -54,7 +54,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEfficiencyFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Efficiency</b></p>
         <p><b>Cost</b>: 5 T (5E12)</p>
-        <p><b>Effect</b>: Royal Exchanges also increase clicking reward by 2% each.</p>
+        <p><b>Effect</b>: Royal Exchanges also increase clicking reward by 2% each.(multiplicative)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" alt="Smiley face" align="middle"> Secret Clicking Techniques</b></p>
         <p><b>Cost</b>: 50 T (5E13)</p>
