@@ -715,6 +715,7 @@
                 <p><b>Effect</b>: Unlocks the power of Rubies, increasing the production of all buildings by 100% and allowing you to purchase upgrades which increases all aspects of your production.</p>
                 <p>Ruby Power starts at 100% and increases based on the amount of rubies you have.</p>
                 <p>Rubies are not affected by soft-resets.</p>
+                <p>Ruby power upgrades are permanent unless reset</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/RubyUpgradePanel.png" alt=""></p>
                 <p><b>Ruby Assistant</b></p>

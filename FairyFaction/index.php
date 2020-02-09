@@ -25,7 +25,7 @@
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy" align="middle"> Fairy Trade Treaty</b></p>
-        <p><b>Cost</b>: Free with 0 gems, 20 Fairy Coins with any gems.</p>
+        <p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwords</p>
         <p><b>Effect</b>: Fairies focus on the small and common things and make them magically powerful. Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" alt="Smiley face" align="middle"> Pixie Dust Fertilizer</b></p>
