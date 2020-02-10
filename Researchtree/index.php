@@ -9,41 +9,24 @@
         table {
             border-collapse: collapse;
         }
-
         th {
             font-size: 14px;
         }
-
-        td {
-            font-size: 14px;
-        }
-
         th, td {
             border: 1px solid black;
         }
-
-        tr.calc:hover {
-            background-color: #b3bcc6;
-        }
-
         table {
             width: 100%;
         }
-
-        td {
-            text-align: center;
-        }
-
         th {
             background-color: #b3bcc6;
             color: black;
-        }</style>
+        }
+	</style>
     <table>
         <tr>
             <th colspan="5">Maximum Research Points and Cost Per Reincarnation</th>
         </tr>
-    </table>
-    <table>
         <tr class="calc">
             <th style="width:100px">Reincarnation</th>
             <th style="width:115px">Research Points</th>
