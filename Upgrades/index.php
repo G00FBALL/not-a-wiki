@@ -136,28 +136,29 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
                 <p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
                 <p><b>Requirement</b>: R100+</p>
+                <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins, A3+ Free</p>
                 <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
                 <p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
-                <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins, A3+ Free</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
                 <p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
                 <p><b>Requirement</b>: R100+</p>
+                <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins, A3+ Free</p>
                 <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
                 <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
-                <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins, A3+ Free</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
                 <p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>
                 <p><b>Requirement</b>: R100+</p>
+                <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins, A3+ Free</p>
                 <p><b>Effect</b>: Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
                 <p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
-                <p><b>Cost</b>: 1 Qa (1e15) Emerald Coins, A3+ Free</p>
             </div>
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Autoclick Upgrades</a></b></p>
             <div class="autohide">
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" align="middle"> <b>Sun Blessing</b></p>
                 <p><b>Requirement</b>: Elven Spell Upgrade, (Activate Moon Blessing between 6am and 1pm.)</p>
+                <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
                 <p><b>Effect</b>: Autoclicks 15 times per second while the Moon Blessing spell is active.</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"><b> Elven Bloodline</b></p>
@@ -211,7 +212,6 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Click Upgrades</a></b></p>
             <div class="autohide">
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyTreasure.png" align="middle"><b> Sturdy Treasure</b></p>
-                <p><b>Sturdy Treasure</b></p>
                 <p><b>Requirement</b>: 100 Clicks (Total)</p>
                 <p><b>Cost</b>: 500, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
@@ -498,8 +498,8 @@
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinBanksResearchBuildingUpgrades.png" align="middle"><b> Goblin Banks</b></p>
-                <p><b>Cost</b>: 10 Ttg (1E103), A1+ Free</p>
                 <p><b>Requirement</b>: 1750 Witch Conclaves + R16</p>
+                <p><b>Cost</b>: 10 Ttg (1E103), A1+ Free</p>
                 <p><b>Alignment</b>: Goblin</p>
                 <p><b>Effect</b>: Upgrade Witch Conclaves to Goblin Banks, boosting their base production based on the amount of gold you own and unlocking more unique perks for the building.</p>
                 <p><b>Formula</b>: 650 + 10000 * (log10(1+x))^(3.1/(1+0.1*(y+1)))/30)), where x is your current amount of Coins and y is ascension.</p>
@@ -553,8 +553,8 @@
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryResearchBuildingUpgrades.png" alt="Sunken Cities" align="middle"><b> Spider Sanctuary</b></p>
-                <p><b>Cost</b>: 10 USxg (1E187), A1+ Free</p>
                 <p><b>Requirement</b>: Spider Sanctuary Quest + R28</p>
+                <p><b>Cost</b>: 10 USxg (1E187), A1+ Free</p>
                 <p><b>Alignment</b>: Evil</p>
                 <p><b>Effect</b>: Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
                 <p><b>Formula</b>: (25 * x ^0.75)%, where x is your Time Spent Offline (Total) stat.</p>
@@ -722,32 +722,27 @@
                 <p><b>Requirement</b>: Unlocked by Ruby Power</p>
                 <p><b>Cost</b>: 1 Ruby (+ 1 for every time this upgrade has been purchased)</p>
                 <p><b>Effect</b>: Adds 1 assistant</p>
-                <p>Persists through Abdications and Reincarnations</p>
                 <hr>
                 <p><b>Ruby Mana Regeneration</b></p>
                 <p><b>Requirement</b>: Unlocked by Ruby Power</p>
                 <p><b>Cost</b>: 1 Ruby (+ 1 for every time this upgrade has been purchased)</p>
                 <p><b>Effect</b>: Adds 0.5 mana regen</p>
-                <p>Persists through Abdications and Reincarnations</p>
                 <hr>
                 <p>Ruby Max Mana</b>
                 </p>
                 <p><b>Requirement</b>: Unlocked by Ruby Power</p>
                 <p><b>Cost</b>: 1 Ruby (+ 1 for every time this upgrade has been purchased)</p>
                 <p><b>Effect</b>: Adds 25 mana</p>
-                <p>Persists through Abdications and Reincarnations</p>
                 <hr>
                 <p><b>Ruby Gem Bonus</b></p>
                 <p><b>Requirement</b>: Unlocked by Ruby Power</p>
                 <p><b>Cost</b>: 1 Ruby (+ 1 for every time this upgrade has been purchased)</p>
                 <p><b>Effect</b>: Adds 0.5% to the gem production bonus</p>
-                <p>Persists through Abdications and Reincarnations</p>
                 <hr>
                 <p><b>Ruby Royal Trading</b></p>
                 <p><b>Requirement</b>: Unlocked by Ruby Power</p>
                 <p><b>Cost</b>: 1 Ruby (+ 1 for every time this upgrade has been purchased)</p>
                 <p><b>Effect</b>: Adds 1.5% to the royal exchange production bonus</p>
-                <p>Persists through Abdications and Reincarnations</p>
                 <hr>
                 <p><b>Ruby Bonus Reset</b></p>
                 <p>Reset all the ruby powers to 0 and get all your rubies back.</p>
@@ -2405,69 +2400,156 @@
                 <p><b>Hall of Legends Upgrades (Alignment: Any)(Always considered Neutral)</b></p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/halloflegendsgroup3.png" usemap="#halloflegendsgroup1-map"></p>
                 <map name="fgroup2-map">
-                    <area research="Upgrade 1: Crop Rotation
-                    <p>Requirement: 5 Farms
-                    <p> Cost Pre Ascension: 200
-                    <p>Cost Post Ascension: Free
-                    <p>Pre Ascencion: Increase Farm production by 100%.
-                    <p>Post Ascencion: Increase Farm production by 7.18%.
-                    <p>Adds 1 Assistant
+                    <area research="<b>Upgrade 1</b>: Crop Rotation
+                    <p><b>Requirement</b>: 5 Farms</p>
+                    <p><b>Cost</b>: 200, A1+ Free</p>
+                    <p><b>Effect</b>: Increase Farm production by 100%</p>
+                    <p><b>Post Ascencion</b>: Increase Farm production by 7.18%.</p>
+                    <p>Adds 1 Assistant</p>
                     " coords="5,3,50,51" shape="rect">
-                    <area research="Upgrade 2: Irrigation
-                    <p>Requirement: 25 Farms
-                    <p>Cost Pre Ascension: 6,580
-                    <p>Cost Post Ascension: Free
+                    <area research="<b>Upgrade 2</b>: Irrigation</p>
+                    <p><b>Requirement</b>: 25 Farms</p>
+                    <p><b>Cost</b>: 6,580, A1+ Free</p>
                     <p>Pre Ascencion: Increase Farm production by 200%.
                     <p>Post Ascencion: Increase Farm production by 11.6%.
                     <p>Adds 1 Assistant
                     " coords="58,3,103,51" shape="rect">
-                    <area research="Upgrade 3: Professional Farmers
-                    <p>Requirement: 75 Farms
-                    <p>Cost Pre Ascension: 10.7M (1.07e7)
-                    <p>Cost Post Ascension: Free
+                    <area research="<b>Upgrade 3</b>: Professional Farmers
+                    <p><b>Requirement</b>: 75 Farms
+                    <p><b>Cost</b>: 10.7M (1.07e7), A1+ Free</p>
                     <p>Pre Ascencion: Increase Farm production by 300%.
                     <p>Post Ascencion: Increase Farm production by 14.9%.
                     " coords="112,4,158,51" shape="rect">
                     <area target="" research="Upgrade 4: Perfect Seeds
-                    <p>Requirement: 150 Farms
-                    <p>Cost Pre Ascension: 509B (5.09e11)
-                    <p>Cost Post Ascension: Free
+                    <p><b>Requirement</b>: 150 Farms
+                    <p>Cost Pre Ascension: 509B (5.09e11), A1+ Free</p>
                     <p>Pre Ascencion: Increase Farm production by 400%.
                     <p>Post Ascencion: Increase Farm production by 17.5%.
                     " coords="165,4,211,52" shape="rect">
                     <area target="" research="Upgrade 5: Vertical Farms
-                    <p>Requirement: 200 Farms
-                    <p>Cost Pre Ascension: 689.5T (6.895e14)
-                    <p>Cost Post Ascension: Free
+                    <p><b>Requirement</b>: 200 Farms
+                    <p>Cost Pre Ascension: 689.5T (6.895e14), A1+ Free</p>
                     <p>Pre Ascencion: Increase Farm production by 500%.
                     <p>Post Ascencion: Increase Farm production by 19.6%.
                     " coords="219,4,267,51" shape="rect">
                     <area target="" research="Upgrade 6: Farming Tools
-                    <p>Requirement: 300 Farms
-                    <p>Cost Pre Ascension: 971.6Qi (9.716e20)
-                    <p>Cost Post Ascension: Free
+                    <p><b>Requirement</b>: 300 Farms
+                    <p>Cost Pre Ascension: 971.6Qi (9.716e20), A1+ Free</p>
                     <p>Pre Ascencion: Increase Farm production by 400%.
                     <p>Post Ascencion: Increase Farm production by 17.5%.
                     " coords="274,3,320,52" shape="rect">
-                    <area target="" research="Upgrade 7: Animal Herding<p>Requirement: 400 Farms<p>Cost Pre Ascension: 1.331Oc (1.331e27)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 300%.<p>Post Ascencion: Increase Farm production by 14.9%." coords="325,4,374,51" shape="rect">
-                    <area target="" research="Upgrade 8: Heavy Plow<p>Requirement: 500 Farms<p>Cost Pre Ascension: 1.786Dc (1.786e33)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 200%.<p>Post Ascencion: Increase Farm production by 11.6%." coords="380,3,428,51" shape="rect">
-                    <area target="" research="Upgrade 9: Golden Spoon<p>Requirement: 600 Farms<p>Cost Pre Ascension: 2.36Dd (2.36e39)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 100%.<p>Post Ascencion: Increase Farm production by 7.18%." coords="434,3,482,51" shape="rect">
-                    <area target="" research="Upgrade 10: Increased Fertile Area<p>Requirement: 700 Farms<p>Cost Pre Ascension: 3.08Qad (3.08e45)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 200%.<p>Post Ascencion: Increase Farm production by 11.6%." coords="489,4,538,51" shape="rect">
-                    <area target="" research="Upgrade 11: Magically Modified Organisms<p>Requirement: 800 Farms<p>Cost Pre Ascension: 3.978Sxd (3.978e51)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 300%.<p>Post Ascencion: Increase Farm production by 14.9%." coords="3,57,50,104" shape="rect">
-                    <area target="" research="Upgrade 12: Superior Fertilizer<p>Requirement: 900 Farms<p><p>Cost Pre Ascension: 5.096Ocd (5.096e57)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 400%.<p>Post Ascencion: Increase Farm production by 17.5%." coords="58,58,105,105" shape="rect">
-                    <area target="" research="Upgrade 13: Sentient Vegetables<p>Requirement: 1000 Farms<p>Cost Pre Ascension: 6.438Vg (6.438e63)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 500%.<p>Post Ascencion: Increase Farm production by 19.6%." coords="111,58,159,105" shape="rect">
-                    <area target="" research="Upgrade 14: Corn Multiplication<p>Requirement: 1100 Farms<p>Cost Pre Ascension: 8.199Dvg (8.199e69)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 400%.<p>Post Ascencion: Increase Farm production by 17.5%." coords="165,58,211,105" shape="rect">
-                    <area target="" research="Upgrade 15: Fruit Army<p>Requirement: 1250 Farms<p>Cost Pre Ascension: 11.18Qivg (1.118e78)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 300%.<p>Post Ascencion: Increase Farm production by 14.9%." coords="219,58,267,105" shape="rect">
-                    <area target="" research="Upgrade 16: Mixed Manure<p>Requirement: 1500 Farms<p>Cost Pre Ascension: 17.82Tg (1.782e93)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 400%.<p>Post Ascencion: Increase Farm production by 17.5%." coords="274,58,320,105" shape="rect">
-                    <area target="" research="Upgrade 17: Side Orchards<p>Requirement: 1750 Farms<p>Cost Pre Ascension: 28.29Qitg (2.829e108)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 500%.<p>Post Ascencion: Increase Farm production by 19.6%." coords="327,58,374,105" shape="rect">
-                    <area target="" research="Upgrade 18: Cattle Domain<p>Requirement: 2000 Farms<p>Cost Pre Ascension: 44.77Qag (4.477e123)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 400%.<p>Post Ascencion: Increase Farm production by 17.5%." coords="380,57,429,106" shape="rect">
-                    <area target="" research="Upgrade 19: Poultry Feed<p>Requirement: 2500 Farms<p>Cost Pre Ascension: 105.5Qig (1.055e153)<p>Cost Post Ascension: Free<p>Pre Ascencion: Increase Farm production by 300%.<p>Post Ascencion: Increase Farm production by 19.6%." coords="434,58,482,105" shape="rect">
-                    <area target="" research="Upgrade 20: Golden Wheat<p>Requirement: R40+, 3500 Farms<p>Cost: 1.703Qid (1.703e48)<p>Increase Farm production by 60%." coords="488,58,536,105" shape="rect">
-                    <area target="" research="Upgrade 21: Self Germination<p>Requirement: R40+, 4000 Farms<p>Cost: 4.689Spd (4.689e54)<p>Increase Farm production by 70% ." coords="4,112,51,161" shape="rect">
-                    <area target="" research="Upgrade 22: Lunar Photosynthesis<p>Requirement: R40+, 10000 Farms<p>Cost: 518.4 Dqag (5.148e131)<p>Increase Farm by 80%" coords="56,111,105,162" shape="rect">
-                    <area target="" research="Upgrade 23: Vaster Fields<p>Requirement: R100+, 18000 Farms<p>Cost: 563 Octg (5.63e119)<p>Increase the production of Farms by 90%." coords="109,110,161,163" shape="rect">
-                    <area target="" research="<b>Enchanted Fields</b><p>At R16, Farms can be upgraded to the Unique Building: Enchanted Fields, boosting their production based on assistants owned and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Fairy</p><p><b>Requirement:</b> R16+, 2250 Farms</p><p><b>Effect:</b> Grants access to Research.</p><p><b>Formula:</b> 50 * (750 * x)^0.7, where x is assistants owned this game.</p>" coords="354,113,536,158" shape="rect">
-                    <area target="" research="<b>Dragon Pastures</b><p>At R116, Farms can be upgraded to the Unique Building: Dragon Pastures, boosting their production based on maximum mana and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Neutral Dragon</p><p><b>Requirement:</b> R116+, 42 Active Spells</p><p><b>Effect:</b> Grants access to Dragon Union.</p><p><b>Formula:</b> 0.63 * x ^ 0.63, where x is maximum mana.</p>" coords="164,110,346,162" shape="rect">
+                    <area target="" research="Upgrade 7: Animal Herding
+                    <p><b>Requirement</b>: 400 Farms
+                    <p>Cost Pre Ascension: 1.331Oc (1.331e27), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 300%.
+                    <p>Post Ascencion: Increase Farm production by 14.9%.
+                    " coords="325,4,374,51" shape="rect">
+                    <area target="" research="Upgrade 8: Heavy Plow
+                    <p><b>Requirement</b>: 500 Farms<p>
+                    Cost Pre Ascension: 1.786Dc (1.786e33), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 200%.
+                    <p>Post Ascencion: Increase Farm production by 11.6%.
+                    " coords="380,3,428,51" shape="rect">
+                    <area target="" research="Upgrade 9: Golden Spoon
+                    <p><b>Requirement</b>: 600 Farms
+                    <p>Cost Pre Ascension: 2.36Dd (2.36e39), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 100%.
+                    <p>Post Ascencion: Increase Farm production by 7.18%.
+                    " coords="434,3,482,51" shape="rect">
+                    <area target="" research="Upgrade 10: Increased Fertile Area
+                    <p><b>Requirement</b>: 700 Farms
+                    <p>Cost Pre Ascension: 3.08Qad (3.08e45), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 200%.
+                    <p>Post Ascencion: Increase Farm production by 11.6%.
+                    " coords="489,4,538,51" shape="rect">
+                    <area target="" research="Upgrade 11: Magically Modified Organisms
+                    <p><b>Requirement</b>: 800 Farms
+                    <p>Cost Pre Ascension: 3.978Sxd (3.978e51), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 300%.
+                    <p>Post Ascencion: Increase Farm production by 14.9%.
+                    " coords="3,57,50,104" shape="rect">
+                    <area target="" research="Upgrade 12: Superior Fertilizer
+                    <p><b>Requirement</b>: 900 Farms
+                    <p>Cost Pre Ascension: 5.096Ocd (5.096e57), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 400%.
+                    <p>Post Ascencion: Increase Farm production by 17.5%.
+                    " coords="58,58,105,105" shape="rect">
+                    <area target="" research="Upgrade 13: Sentient Vegetables
+                    <p><b>Requirement</b>: 1000 Farms
+                    <p>Cost Pre Ascension: 6.438Vg (6.438e63), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 500%.
+                    <p>Post Ascencion: Increase Farm production by 19.6%.
+                    " coords="111,58,159,105" shape="rect">
+                    <area target="" research="Upgrade 14: Corn Multiplication
+                    <p><b>Requirement</b>: 1100 Farms
+                    <p>Cost Pre Ascension: 8.199Dvg (8.199e69), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 400%.
+                    <p>Post Ascencion: Increase Farm production by 17.5%.
+                    " coords="165,58,211,105" shape="rect">
+                    <area target="" research="Upgrade 15: Fruit Army
+                    <p><b>Requirement</b>: 1250 Farms
+                    <p>Cost Pre Ascension: 11.18Qivg (1.118e78), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 300%.
+                    <p>Post Ascencion: Increase Farm production by 14.9%.
+                    " coords="219,58,267,105" shape="rect">
+                    <area target="" research="Upgrade 16: Mixed Manure
+                    <p><b>Requirement</b>: 1500 Farms
+                    <p>Cost Pre Ascension: 17.82Tg (1.782e93), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 400%.
+                    <p>Post Ascencion: Increase Farm production by 17.5%.
+                    " coords="274,58,320,105" shape="rect">
+                    <area target="" research="Upgrade 17: Side Orchards
+                    <p><b>Requirement</b>: 1750 Farms
+                    <p>Cost Pre Ascension: 28.29Qitg (2.829e108), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 500%.
+                    <p>Post Ascencion: Increase Farm production by 19.6%.
+                    " coords="327,58,374,105" shape="rect">
+                    <area target="" research="Upgrade 18: Cattle Domain
+                    <p><b>Requirement</b>: 2000 Farms
+                    <p>Cost Pre Ascension: 44.77Qag (4.477e123), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 400%.
+                    <p>Post Ascencion: Increase Farm production by 17.5%.
+                    " coords="380,57,429,106" shape="rect">
+                    <area target="" research="Upgrade 19: Poultry Feed
+                    <p><b>Requirement</b>: 2500 Farms
+                    <p>Cost Pre Ascension: 105.5Qig (1.055e153), A1+ Free</p>
+                    <p>Pre Ascencion: Increase Farm production by 300%.
+                    <p>Post Ascencion: Increase Farm production by 19.6%.
+                    " coords="434,58,482,105" shape="rect">
+                    <area target="" research="Upgrade 20: Golden Wheat
+                    <p><b>Requirement</b>: R40+, 3500 Farms
+                    <p>Cost: 1.703Qid (1.703e48)
+                    <p>Increase Farm production by 60%.
+                    " coords="488,58,536,105" shape="rect">
+                    <area target="" research="Upgrade 21: Self Germination
+                    <p><b>Requirement</b>: R40+, 4000 Farms
+                    <p>Cost: 4.689Spd (4.689e54)
+                    <p>Increase Farm production by 70% .
+                    " coords="4,112,51,161" shape="rect">
+                    <area target="" research="Upgrade 22: Lunar Photosynthesis
+                    <p><b>Requirement</b>: R40+, 10000 Farms
+                    <p>Cost: 518.4 Dqag (5.148e131)
+                    <p>Increase Farm by 80%
+                    " coords="56,111,105,162" shape="rect">
+                    <area target="" research="Upgrade 23: Vaster Fields
+                    <p><b>Requirement</b>: R100+, 18000 Farms
+                    <p>Cost: 563 Octg (5.63e119)
+                    <p>Increase the production of Farms by 90%.
+                    " coords="109,110,161,163" shape="rect">
+                    <area target="" research="<b>Enchanted Fields</b>
+                    <p>At R16, Farms can be upgraded to the Unique Building: Enchanted Fields, boosting their production based on assistants owned and unlocking additional perks related to the building.</p>
+                    <p><b>Alignment:</b> Fairy</p>
+                    <p><b>Requirement:</b> R16+, 2250 Farms</p>
+                    <p><b>Effect:</b> Grants access to Research.</p>
+                    <p><b>Formula:</b> 50 * (750 * x)^0.7, where x is assistants owned this game.</p>
+                    " coords="354,113,536,158" shape="rect">
+                    <area target="" research="<b>Dragon Pastures</b>
+                    <p>At R116, Farms can be upgraded to the Unique Building: Dragon Pastures, boosting their production based on maximum mana and unlocking additional perks related to the building.</p>
+                    <p><b>Alignment:</b> Neutral Dragon</p>
+                    <p><b>Requirement:</b> R116+, 42 Active Spells</p>
+                    <p><b>Effect:</b> Grants access to Dragon Union.</p>
+                    <p><b>Formula:</b> 0.63 * x ^ 0.63, where x is maximum mana.</p>
+                    " coords="164,110,346,162" shape="rect">
                 </map>
                 </br>
                 <map name="igroup2-map">
