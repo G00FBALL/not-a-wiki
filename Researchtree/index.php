@@ -6,15 +6,11 @@
 </link>
 <div id="calrps">
     <style>
-        th {
-            font-size: 14px;
-        }
         th, td {
             border: 1px solid black;
         }
         th {
             background-color: #b3bcc6;
-            color: black;
         }
 	</style>
 	<br />
@@ -32,7 +28,7 @@
             <th style="width:100px">Reincarnation</th>
             <th style="width:115px">Research Points</th>
             <th style="width:175px">Cost in Coins</th>
-            <th style="width:175px">Recomended Gems</th>
+            <th style="width:175px">Recommended Gems</th>
             <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
