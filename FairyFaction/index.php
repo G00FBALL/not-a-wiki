@@ -54,7 +54,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png" alt="Smiley face" align="middle"> Golden Pots</b></p>
         <p><b>Cost</b>: 5 T (5E12)</p>
-        <p><b>Effect</b>: Increase clicking reward by 20% of the production of Farms, Inns and Blacksmiths combined.(additive)</p>
+        <p><b>Effect</b>: Additively increase base clicking reward by 20% of the building production of Farms, Inns and Blacksmiths combined.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" alt="Smiley face" align="middle"> Spellsmith</b></p>
         <p><b>Cost</b>: 50 T (5E13)</p>

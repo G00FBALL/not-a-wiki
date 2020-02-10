@@ -46,7 +46,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
                 <p><b>Mercenary Template</b>: EL3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
-                <p><b>Effect</b>: Increase clicking reward by 50% of your total production.(additive)</p>
+                <p><b>Effect</b>: Additively increase base clicking reward by 50% of your building production.</p>
                 <hr>
                 <h6>Angel</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" align="middle"> Holy Bells</b></p>
@@ -367,7 +367,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png" align="middle"> Golden Pots</b></p>
                 <p><b>Mercenary Template</b>: FR5</p>
                 <p><b>Cost</b>: 5 T (5E12)</p>
-                <p><b>Effect</b>: Increase clicking reward by 20% of the production of Farms, Inns and Blacksmiths combined.(additive)</p>
+                <p><b>Effect</b>: Additively increase base clicking reward by 20% of the building production of Farms, Inns and Blacksmiths combined.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" align="middle"> Spellsmith</b></p>
                 <p><b>Mercenary Template</b>: FR6</p>
@@ -385,7 +385,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEfficiencyFactionUpgrade.png" align="middle"> Elven Efficiency</b></p>
                 <p><b>Mercenary Template</b>: EL5</p>
                 <p><b>Cost</b>: 5 T (5E12)</p>
-                <p><b>Effect</b>: Royal Exchanges also increase clicking reward by 2% each.(multiplicative)</p>
+                <p><b>Effect</b>: Increase clicking reward by the amount of your Royal Exchanges.</p>
+				<p><b>Formula</b>: (2 * x)%, where x is the number of Royal Exchanges you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" align="middle"> Secret Clicking Techniques</b></p>
                 <p><b>Mercenary Template</b>: EL6</p>

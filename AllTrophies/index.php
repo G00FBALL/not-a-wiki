@@ -211,14 +211,7 @@
                     <p><b>Requirement</b>: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
                     <p><b>Cost</b>: 10 coins, A1+, Free</p>
                     <p><b>Effect</b>: Increase Faction Coin find chance by 10%.</p>
-                    <p><b>Notes</b></p>
-                    <p><b>1</b>. This can be done from around R8+</p>
-                    <p><b>2</b>. Reincarnate/Abdicate, EXPORT to a text file and save that</p>
-                    <p><b>3</b>. Turn on 'Multibuy upgrade series'</p>
-                    <p><b>4</b>. Go Elf with Elf Bloodline</p>
-                    <p><b>5</b>. Buy max buildings</p>
-                    <p><b>6</b>. Buy all upgrades</p>
-                    <p><b>7</b>. Load your save and retry if you don't get it.</p>
+                    <p><b>Note</b>: Can be done from R7+ with elf/elfline</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle><b> No Recruiting</b></p>
                     <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
