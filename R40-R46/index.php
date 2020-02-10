@@ -19,7 +19,7 @@
         <p><b>Production</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangel R40, R43-R46 Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangel (R40, R43-R46) + Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4</p>
@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Titans R41-R42<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Titans (R41-R42)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Range</b>: 0 Gems - ?</p>
