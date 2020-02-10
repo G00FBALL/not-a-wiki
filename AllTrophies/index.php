@@ -271,8 +271,8 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle><b> Stoic Resistance</b></p>
                     <p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.</p>
-                    <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
                     <p><b>Cost</b>: 10 Coins, A1+, Free</p>
+                    <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
                     <p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
@@ -448,30 +448,30 @@
                     <hr>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png" align="middle"> MAD Masks</b></p>
                     <p><b>Requirement</b>: R125+, Find all fragments of the Makers, Archon and Djinn masks.</p>
-                    <p><b>Effect</b>: Gives upgrade with same name.</p>
                     <p><b>Cost</b>: 1 SpQag (1e144)</p>
-                    <p><b>Upgrade Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
+                    <p><b>Effect</b>: Gives upgrade with same name.</p>
+                    <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
                     <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
                     <hr>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</b></p>
                     <p><b>Requirement</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
-                    <p><b>Effect</b>: Gives upgrade with same name.</p>
                     <p><b>Cost</b>: 10 SpTg (1e115)</p>
-                    <p><b>Upgrade Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
+                    <p><b>Effect</b>: Gives upgrade with same name.</p>
+                    <p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
                     <p><b>Formula</b>: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</p>
                     <hr>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png" align="middle"> <b>God's Fingers</b></p>
                     <p><b>Requirement</b>: Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
+                    <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
                     <p><b>Effect</b>: Gives Upgrade with same name.</p>
                     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
-                    <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
                     <hr>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png" align="middle"> <b>True Harlequin</b></p>
                     <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 15 different factions.</p>
+                    <p><b>Cost</b>: 1e152 (100 Noqag)
                     <p><b>Effect</b>: Gives Upgrade with same name.</p>
                     <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades.</p>
                     <p><b>Formula</b>: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</p>
-                    <p><b>Cost</b>: 1e152 (100 Noqag)
                 </div>
             </div>
             <div class="shelementwhole">
@@ -1023,37 +1023,39 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1Reincarnation.png align=middle><b> 1 Reincarnation</b></p>
                     <p><b>Requirement</b>: Reincarnate 1 time.</p>
+                    <p><b>Cost</b>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Oc (1e27) Gems.</p>
                     <p><b>Increase</b>: Production of all buildings by 25%</p>
                     <p><b>Increase</b>: Offline bonus by 200%</p>
                     <p><b>Increase</b>: FC coin Chance by 1%.</p>
                     <p><b>Increase</b>: Mana regen by 1.2 m/s.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Oc (1e27) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/3Reincarnations.png align=middle><b> 3 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 3 times.</p>
+                    <p><b>Cost</b>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Dc (1e33) Gems.</p>
                     <p><b>Unlocks</b>: Mercenary faction and Automatically grants Underworld Diplomacy</p>
                     <p><b>Increase</b>: Production of all buildings by 75%</p>
                     <p><b>Increase</b>: Offline bonus by 600%</p>
                     <p><b>Increase</b>: FC coin Chance by 3%.</p>
                     <p><b>Increase</b>: Mana regen by 2.5 m/s.</p>
                     <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+0.6%)</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Dc (1e33) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/5Reincarnations.png align=middle><b> 5 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 5 times.</p>
+                    <p><b>Cost</b>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Dd (1e39) Gems.</p>
                     <p><b>Increase</b>: Production of all buildings by 125%</p>
                     <p><b>Increase</b>: Offline bonus by 1000%</p>
                     <p><b>Increase</b>: FC coin Chance by 5%.</p>
                     <p><b>Increase</b>: Mana regen by 3.3 m/s.</p>
                     <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+1.0%)</p>
                     <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (10%)</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Dd (1e39) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/7Reincarnations.png align=middle><b> 7 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 7 times.</p>
+                    <p><b>Cost</b>>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Qad (1e45) Gems.</p>
                     <p><b>Unlocks</b>: Bloodlines</p>
                     <p><b>Increase</b>: Production of all buildings by 175%</p>
                     <p><b>Increase</b>: Offline bonus by 1400%</p>
@@ -1061,11 +1063,11 @@
                     <p><b>Increase</b>: Mana regen by 4.0 m/s.</p>
                     <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+1.4%)</p>
                     <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (14%)</p>
-                    <p><b>Cost</b>>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Qad (1e45) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/10Reincarnations.png align=middle><b> 10 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 10 times.</p>
+                    <p><b>Cost</b>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Spd (1e54) Gems.</p>
                     <p><b>Increase</b>: Production of all buildings by 250%</p>
                     <p><b>Increase</b>: Offline bonus by 2000%</p>
                     <p><b>Increase</b>: FC coin Chance by 10%.</p>
@@ -1073,11 +1075,11 @@
                     <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+2.0%)</p>
                     <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (20%)</p>
                     <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Spd (1e54) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/12Reincarnations.png align=middle><b> 12 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 12 times.</p>
+                    <p><b>Cost</b>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Nod (1e60) Gems.</p>
                     <p><b>Increase</b>: Production of all buildings by 300%</p>
                     <p><b>Increase</b>: Offline bonus by 2400%</p>
                     <p><b>Increase</b>: FC coin Chance by 12%.</p>
@@ -1086,11 +1088,11 @@
                     <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (24%)</p>
                     <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
                     <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+300)</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Nod (1e60) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/15Reincarnations.png align=middle><b> 15 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 15 times.</p>
+                    <p><b>Cost</b>: RPower 1 Coin</p>
+                    <p><b>Cost</b>: 1 Dvg (1e69) Gems.</p>
                     <p><b>Increase</b>: Production of all buildings by 375%</p>
                     <p><b>Increase</b>: Offline bonus by 3000%</p>
                     <p><b>Increase</b>: FC coin Chance by 15%.</p>
@@ -1099,8 +1101,6 @@
                     <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (30%)</p>
                     <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
                     <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+375)</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Dvg (1e69) Gems.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/20Reincarnations.png align=middle><b> 20 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 20 times.</p>
@@ -1174,10 +1174,10 @@
                     <p><img src=http://musicfamily.org/realm/Factions/picks/45Reincarnations.png align=middle><b> 45 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 45 times</p>
                     <p><b>Current Research Points</b>: 1035</p>
-                    <p><b>Instantly</b>: Production of all buildings by 28.5%</p>
+                    <p><b>Increase</b>: Production of all buildings by 28.5%</p>
                     <p><b>Increase</b>: Offline bonus by 72%</p>
                     <p><b>Increase</b>: FC coin Chance by 45%.</p>
-                    <p><b>Instantly</b>: Mana regen by 11.2 m/s.</p>
+                    <p><b>Increase</b>: Mana regen by 11.2 m/s.</p>
                     <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+9.0%)</p>
                     <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.63%)</p>
                     <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
@@ -1219,7 +1219,7 @@
                     <p><img src=http://musicfamily.org/realm/Factions/picks/70Reincarnations.png align=middle><b> 70 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 70 times</p>
                     <p><b>Current Research Points</b>: 2485</p>
-                    <p><b>Instantly</b>: production of all buildings by 2.96%</p>
+                    <p><b>Increase</b>: Production of all buildings by 2.96%</p>
                     <p><b>Increase</b>: Offline bonus by 79.7%</p>
                     <p><b>Increase</b>: FC coin Chance by 70%.</p>
                     <p><b>Increase</b>: Mana regen by 14.1 m/s.</p>
@@ -1556,19 +1556,19 @@
                     <hr>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
                     <p><b>Requirements</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
+                    <p><b>Cost</b>: 3.2 Dc (3.2e33), A3+: Free</p>
                     <p><b>Effect</b>: Allows you to manually reset spells with a 2 second cooldown per spell.</p>
                     <p><b>Note</b>: Can not reset spells with a fixed duration.</p>
                     <p><b>Note</b>: Only while offline, increase your mana produced amount by an additional 10% of your Mana Regeneration per second, and your spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
                     <p><b>Formula</b>: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
-                    <p><b>Cost</b>: 3.2 Dc (3.2e33), A3+: Free</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle><b> Tiered Autocasting</b></p>
                     <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
-                    <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
                     <p><b>Cost</b>: 100 Qid (1e50)</p>
                     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to. In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
                     <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
                     <p><b>Formula</b>: (1000 * log10(1 + x))</p>
+                    <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png align=middle><b> Arcane Brilliance 1</b></p>
                     <p><b>Requirement</b>: Unlock tier 2 for all spells</p>
@@ -1626,13 +1626,14 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/GreedDriveSecretTrophy.png align=middle><b> Greed Drive</b></p>
                     <p><b>Requirement</b>: Goblin Spell: Cast 100 Goblin's Greed spells in a row in a single game. The chain is interrupted by casting different spells.</p>
-                    <p><b>Note</b>: Spell casts from the Goblin's Central Bank upgrade are included in the [stats], but they do not count for this trophy.</p>
                     <p><b>Cost</b>: 1 M (1E6)</p>
                     <p><b>Effect</b>: Goblin's Greed cost 150 less mana.</p>
+                    <p><b>Note</b>: Spell casts from the Goblin's Central Bank upgrade are included in the [stats], but they do not count for this trophy.</p>
                     <p><b>Note</b>: Goblin Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TrueNightSecretTrophy.png align=middle><b> True Night</b></p>
                     <p><b>Requirement</b>: Undead Spell: Activate the Night Time spell after 11 pm and before 6 am.</p>
+                    <p><b>Cost</b>: 1 M (1E6)</p>
                     <p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.</p>
                     <p><b>Note</b>: Undead Spell</p>
                     <hr>
