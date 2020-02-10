@@ -87,7 +87,7 @@
                 <p><b>Author</b>: DragonRu</p>
                 <p><b>Range</b>: 1e34 (10 Dc) Gems+</p>
                 <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
-                <p><b>Alignment</b>: Good, Balance</p>
+                <p><b>Alignment</b>: Good, Order</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Druid, Elf (1e35 (100 Dc) Gems+)</p>
