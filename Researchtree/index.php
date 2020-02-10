@@ -6,24 +6,25 @@
 </link>
 <div id="calrps">
     <style>
-        table {
-            border-collapse: collapse;
-        }
         th {
             font-size: 14px;
         }
         th, td {
             border: 1px solid black;
         }
-        table {
-            width: 100%;
-        }
         th {
             background-color: #b3bcc6;
             color: black;
         }
 	</style>
-    <table>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+    <table style="border-collapse: collapse">
         <tr>
             <th colspan="5">Maximum Research Points and Cost Per Reincarnation</th>
         </tr>
