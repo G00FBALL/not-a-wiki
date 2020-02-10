@@ -66,7 +66,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Wings" align="middle"> <b>Seraphim Wings</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
-<p><b>Effect</b>: Increase Mana Regeneration, Faction Coin find chance and assistants by 160%.</p>
+<p><b>Effect</b>: Multiplicatively increase Maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%</p>
 <br/>
 <p><b>Evil - Undead</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>

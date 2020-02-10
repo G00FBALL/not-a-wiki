@@ -4,7 +4,7 @@
 
 <head>
     <?php include "../scripts/header.html"; ?>
-        <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/ElfTopPage.png" alt="Spellcraft" align="middle"></h6></a>
+        <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/ElfTopPage.png" alt="Spellcraft" align="middle"></a></h6>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Elf.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>Elves are masters of efficiency and expertise, taking the best results from every single action.</p>
@@ -14,7 +14,8 @@
         <p><b>Unlock Requirements</b>: None</p>
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
-        <p><b>Faction spell</b>: <img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Smiley face" align="middle"></p>
+        <p><b>Faction spell</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Smiley face" align="middle"> <b>Moon Blessing</b></p>
         <p><b>Effect</b>: Increases the production of all buildings based on the total amount of treasure clicks across all play-throughs for 20 seconds.</p>
         <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
         <br/>
