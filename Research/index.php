@@ -28,8 +28,7 @@
 		<p><b><center>Research Slots/Budget</center></b></p>
 		<p><b>R16-R99 (A0, A1)</b>: you get a limited number of Research slots for each ficility, depending on what upgrades you have you can have up to 6 slots for each facility.</p>
 		<p><b>R100-R160 (A2)</b>: you get 1 Research slot for each facility, and A0 and A1 research slot upgrades are removed, however, faction researches are free and take no slots.</p>
-		<p><b>R160-R174 (A3)</b>: The research slots change to a budget system based on each research's point value and starts at 3500 per facility.</p>
-		<p><b>R175-R190</b>: Your budget is increased by 125 per Reincarnation, up to 5500 (7000 with a facility upgrade).</p>
+		<p><b>R160+ (A3)</b>: The research slots change to a budget system based on each research's point value and starts at 3500 per facility (6000 with a facility upgrade).</p>
 		<p>Upon abdication, your purchased Research Points will persist, but your Research Upgrade Slots/Budget will reset so you can make different research builds each run.</p>
         <div class="shlisting">
             <div class="shelementwhole">
