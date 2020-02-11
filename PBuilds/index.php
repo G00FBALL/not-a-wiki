@@ -71,16 +71,16 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - ?</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330">
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330,S1,C135,C500">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330">
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A330,A400,A495,W150,W180,W290,W320,W330,S1,C135,C500">
 						<b>For Max Excavations</b>
 					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A30,A120,A330,A495,W150,W180,W290,W320,W330">
+                        <input type="text" value="S135,S180,S200,S215,S330,C80,C120,C150,C330,C400,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A30,A120,A330,A495,W150,W180,W290,W320,W330,S1,C135,C500">
 						<b>A400 not unlocked</b>
 					</p>
                     <p>S135,S180,S200,S215,S330,</p>
@@ -103,28 +103,28 @@
                     <p><b>Range</b>: e93 (1 Tg) Gems - e126 (1 Uqag) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330">
+                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330,S1,C330,C520">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330">
+                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E135,E150,E290,E330,E410,A105,A120,A150,A400,A495,W150,W180,W290,W320,W330,S1,C330,C520">
 						<b>For Max Excavations</b>
 					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S105,S175,S200,S215,S330,C120,C150,C225,C330,C400,D55,D135,D245,D290,D320,E80,E150,E200,E330,E410,A105,A120,A150,A330,A495,W10,W120,W150,W320,W330">
+                        <input type="text" value="S135,S200,S215,S330,S500,C80,C120,C150,C400,C500,D55,D225,D245,D290,D320,E50,E135,E150,E330,E410,A105,A120,A150,A330,A495,W150,W180,W290,W320,W330,S1,C330,C520">
 						<b>A400 not unlocked</b>
 					</p>
                     <p>S135,S200,S215,S330,S500,</p>
                     <p>C80,C120,C150,C400,C500,</p>
                     <p>D55,D225,D245,D290,D320,</p>
                     <p>E50,E135,E150,E330,E410,</p>
-                    <p>A105,A120,A330,A400,A495,</p>
-                    <p>W150,W180,W290,W320,W330,</p>
-                    <p><b>Note</b>: Use the template of the previous R if you don't have S500(requires 40 or more artifacts).</p>
+                    <p>A105,A120,A150,A400,A495,</p>
+                    <p>W150,W180,W290,W320,W330</p>
+                    <p><b>Note</b>: Use the template of the previous R if you don't have S500 (requires 40 or more artifacts).</p>
                     <p><b>Note</b>: After buying Dwarven Horn use also S1,C330,C520.</p>
                     <p><b>Note</b>: Swap E50 with E290 for maximizing excavations.</p>
-                    <p><b>Note</b>: Swap A150 with A400 if you don't have A400 (requires 2 days as Druids).</p>
+                    <p><b>Note</b>: Swap A400 with A330 if you don't have A400 (requires 2 days as Druids).</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -162,7 +162,6 @@
                     <p><b>Note</b>: After buying Dwarven Horns use also C250,C330,D245.</p>
                     <p><b>Note</b>: Swap D245 with D480 if buffed.</p>
                     <p><b>Note</b>: Swap A495 with A400 if high excavations (~2000+ or so).</p>
-                    <p><b>Note</b>: Be careful to stay under the coin cap (1.78e308).</p>
 
                 </div>
             </div>
