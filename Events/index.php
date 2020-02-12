@@ -1644,8 +1644,11 @@
                         <p><b>Mana Cost</b>: 200 (Replaces Call to Arms)</p>
                         <p><b>Effect</b>: In addition to the Call to Arms spell effect, increases heart production per second based on the active time for Call to Love.</p>
                         <p><b>Base Production</b>: 1 heart/sec with no active time for CtL</p>
-                        <p>2 hearts/sec for 1000 seconds of active time for CtL (16 min, 40 sec) (Total all Rs)</p>
-                        <p>3 hearts/sec for 100000 seconds of active time for CtL (27 hours, 47 min) (Total all Rs)</p>
+						<p>1.5 hearts/sec for 10 seconds of active time for CtL (All time)</p>
+						<p>2 hearts/sec for 100 seconds (1 min, 40 sec) of active time for CtL (All time)</p>
+                        <p>2.5 hearts/sec for 1000 seconds (16 min, 40 sec) of active time for CtL  (All time)</p>
+                        <p>3 hearts/sec for 10000 seconds of active time for CtL (2 hours, 46 min, 40 sec) (All time)</p>
+						<p>3.5 hearts/sec for 100000 seconds of active time for CtL (27 hours, 47 min) (All time)</p>
                         <p><b>Formula</b>:1 + 0.5 * floor(log10(x))</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts Upgrades</b></p>
