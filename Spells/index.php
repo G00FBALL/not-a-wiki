@@ -1018,10 +1018,10 @@
 <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds.</p>
 <p><b>Note</b>: A1 can cast up to 36 tiers.</p>
 <p><b>Note</b>: A3 can cast up to 99 tiers.</p>
+<p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275) than each previous tier.</p>
 <p><b>Formula</b>: 120 ^ (0.25 * T), where T is tier (FC chance multiplier)</p>
 <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
 <p><b>Effect</b>: Also produce Tax Collection casts per second based on your Maximum Mana.</p>
-<p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275)</p>
 <p><b>Formula</b>: (0.01 * y * T), where y is max mana, T is tier</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenaries)</p>

@@ -27,7 +27,7 @@
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Good factions.</p>
 <p><b>Effect 2</b>: Upgrades Tax Collection spell to Share Benefits. Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds. Can be cast up to 35 tiers.</p>
-<p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275)</p>
+<p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275) than each previous tier.</p>
 <p><b>Faction Spell</b>: Tax Collection</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="Round Table" align="middle"> <b>Good</b></p>

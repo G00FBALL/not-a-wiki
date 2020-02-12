@@ -12,7 +12,7 @@
         <p><b>Event will start in</b></p>
         <p id="start">
             <script>
-      var countDownDate1 = new Date("Feb 12, 2020 12:01:00 UTC").getTime();
+      var countDownDate1 = new Date("Feb 12, 2020 13:01:00 UTC").getTime();
       var x = setInterval(function() {
           var now = new Date().getTime();
           var distance = countDownDate1 - now;
