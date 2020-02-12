@@ -104,15 +104,68 @@
     <p>This can be done at R0.
     <p>Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.
     " coords="6,174,60,231" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p><p>Requirement: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).<p>This takes 3d 11h 20m and can be done at R0.<p>Upgrade Cost Pre Ascension: 10 Nod (1e61)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase assistants production by 10%.<p>Post Ascension: Increase assistants production by 0.96%." coords="69,174,124,230" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p><p>Requirement: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.<p>Upgrade Cost Pre Ascension: 50 Ocd (5e58)<p>Upgrade Cost Post Ascension: Free<p>Can be done at the end of R2+ with high gem count.<p>Upgrade Effect: Increase maximum Mana by 250." coords="134,176,189,232" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle><b> Fast Forward</b></p><p>Requirement: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)<p>Upgrade Cost Pre Ascension: 8 Oc (8e27)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R0.<p>Upgrade Effect: Increase offline production by 200%.<p>Post Ascension: Increase offline production by 11.6%." coords="197,174,253,230" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png align=middle><b> Need a Head Start?</b></p><p>Requirement: Don't do anything for 5 minutes after starting a new game or after abdicating. Don't buy anything and don't click anything<p>Cost: Free<p>This can be done at the start of any reincarnation or abdication.<p>Upgrade Effect: Instantly adds 10 gold coins." coords="262,174,317,230" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png align=middle><b> Realm Digger</b></p><p>Requirement: Excavate 400 times.<p>Upgrade Cost Pre Ascension: 100 Nod (1e62)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0.<p>Upgrade Effect: Increases production of all buildings by 0.15% per excavation." coords="324,174,382,232" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle><b> Harlequin</b></p><p>Requirement: As a Mercenary, purchase one upgrade from 11 different factions.<p>Upgrade Cost Pre Ascension: 5 Qivg (5e78)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R3 with Merc Build (Harlequin)<p>Click image to go to the Harlequin Build.<p>Upgrade Effect: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)<p>Post Ascension: Increases production of all buildings based on the amount of different factions involved in your mercenary upgrades." href="http://musicfamily.org/realm/SpecialBuilds" coords="389,174,446,230" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle><b> Lucifer</b></p><p>Requirement: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.<p>Upgrade Cost Pre Ascension: 5 Qivg (5e78)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R3 with Merc Build (Lucifer)<p>Upgrade Effect: Increases production of all non-neutral buildings by 300%.<p>Post Ascension: Increases production of all non-neutral buildings by 14.9%.<p>Click image to go to the Lucifer Build."href="http://musicfamily.org/realm/SpecialBuilds/" coords="5,238,62,294" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle><b> Mathematician</b></p><p>Requirement: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.<p>1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)<p>Upgrade Cost Pre Ascension: 1 Td (1e42)<p>Upgrade Cost Post Ascension: Free<p>This can be done at the end of R0 just before reincarnating.<p><b>Effect</b>: Increases the production of all buildings based on their tier.</p><p><b>Formula</b>: (10 * (12 - T))%, where T is building tier.</p>" coords="69,238,126,294" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle><b> Mercenary Spirit</b></p><p>Requirement: Reincarnate while playing as a Mercenary.<p>Upgrade Cost Pre Ascension: 1 Ocd (1e57)<p>Upgrade Cost Post Ascension: Free<p> Can be done at R3.<p>Upgrade Effect: Increases production of all buildings by 15% per reincarnation.<p>Post Ascension: Increases production of all buildings based on the amount of reincarnation. (For Mercenary only)" coords="134,238,189,294" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p>
+    <p>Requirement: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).
+    <p>Cost: 10 Nod (1e61), A1+ Free
+    <p>Effect: Increase assistants production by 10%. (A Nerfed)
+    <p>This takes 3d 11h 20m and can be done at R0.
+    " coords="69,174,124,230" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p>
+    <p>Requirement: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.
+    <p>Cost: 50 Ocd (5e58), A1+ Free
+    <p>Effect: Increase maximum Mana by 250.
+    <p>Can be done at the end of R2+ with high gem count.
+    " coords="134,176,189,232" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle><b> Fast Forward</b></p>
+    <p>Requirement: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)
+    <p>Cost: 8 Oc (8e27), A1+ Free
+    <p>Effect: Increase offline production by 200%. (A Nerfed)
+    <p>This can be done at R0.
+    " coords="197,174,253,230" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png align=middle><b> Need a Head Start?</b></p>
+    <p>Requirement: Don't do anything for 5 minutes after starting a new game or after abdicating. Don't buy anything and don't click anything
+    <p>Cost: Free
+    <p>Effect: Instantly adds 10 gold coins.
+    <p>This can be done at the start of any reincarnation or abdication.
+    " coords="262,174,317,230" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png align=middle><b> Realm Digger</b></p>
+    <p>Requirement: Excavate 400 times.
+    <p>Cost: 100 Nod (1e62), A1+ Free
+    <p>Effect: Increases production of all buildings by 0.15% per excavation.
+    <p>This can be done at R0.
+    " coords="324,174,382,232" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle><b> Harlequin</b></p>
+    <p>Requirement: As a Mercenary, purchase one upgrade from 11 different factions.
+    <p>Cost: 5 Qivg (5e78), A1+ Free
+    <p>Effect: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)
+    <p>Post Ascension: Increases production of all buildings based on the amount of different factions involved in your mercenary upgrades.
+    <p>This can be done at R3 with Merc Build (Harlequin)
+    <p>Click image to go to the Harlequin Build.
+    " href="http://musicfamily.org/realm/MercBuilds
+    " coords="389,174,446,230" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle><b> Lucifer</b></p>
+    <p>Requirement: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.
+    <p>Cost: 5 Qivg (5e78), A1+ Free
+    <p>Effect: Increases production of all non-neutral buildings by 300%. (A Nerfed)
+    <p>Click image to go to the Lucifer Build.
+    <p>This can be done at R3 with Merc Build (Lucifer)
+    "href="http://musicfamily.org/realm/MercBuilds/
+    " coords="5,238,62,294" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle><b> Mathematician</b></p>
+    <p>Requirement: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.
+    <p>1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)
+    <p>Cost: 1 Td (1e42), A1+ Free
+    <p><b>Effect</b>: Increases the production of all buildings based on their tier.</p>
+    <p><b>Formula</b>: (10 * (12 - T))%, where T is building tier.
+    <p>This can be done at the end of R0 just before reincarnating.
+    " coords="69,238,126,294" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle><b> Mercenary Spirit</b></p>
+    <p>Requirement: Reincarnate while playing as a Mercenary.
+    <p>Cost: 1 Ocd (1e57), A1+ Free
+    <p>Effect: Increases production of all buildings by 15% per reincarnation.
+    <p>Post Ascension: Increases production of all buildings based on the amount of reincarnation. (For Mercenary only)
+    <p>This can be done at R3.
+    " coords="134,238,189,294" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p><p>Requirement: Purchase 100 upgrades of each faction (Anything that is faction colored counts) (All Game)<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost A1+: Free<p>This can be done at R7<p>Upgrade Effect: Increases the production of all buildings based on the time spent with the Bloodline's Faction. When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.<p>Formula: (0.1 * x ^ 0.65)%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.<p>Post Ascension: Increases the production of all buildings based on the time spent with the Bloodline you are using. While you are mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using." coords="197,239,253,294" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png align=middle><b> Unlimited Mana</b></p><p>Requirement: Have at least 300 mana per second.<p>Upgrade Cost Pre Ascension: 80 Vg (8e64)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase mana regeneration by +2." coords="262,239,316,294" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle><b> For Science!</b></p><p>Requirement: Purchase all the research facilities.<p>Cost: 1 Qag (1e123), A1+ Free<p>Can be done at R16.<p>Effect: Increase the production of all buildings by 100% when you can access Research." coords="326,238,383,296" shape="rect">
@@ -168,6 +221,9 @@
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades.</p>
     <p><b>Formula</b>: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</p>
     <p><b>Cost</b>: 1e152 (100 Noqag)
+    <p>This can be done at R160 with Merc Build (Apeiron/True Harlequin)
+    <p>Click image to go to the Harlequin Build.
+    " href="http://musicfamily.org/realm/R160Plus
     " coords="5,625,62,682" shape="rect">
 </map>
 
