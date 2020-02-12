@@ -69,7 +69,7 @@
             <td><center>glho kohhl snod</p><img src="http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png"></td>
             <td>1000 coins</p>A1+ Free</td>
             <td>Import this “glho kohhl snod” without the ""</td>
-            <td>Increase base clicking reward by 50%.</td>
+            <td>Increase clicking reward by 50%.</td>
         </tr>
         <tr>
             <td><center>Leet</p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png"></td>
@@ -465,7 +465,7 @@
             <td><center>For Science!</p><img src="http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png"></td>
             <td>1 Tqag (1e132)</p>A1+ Free</td>
             <td>Purchase all the research facilities.</td>
-            <td>Increase the overall production of Vanilla Factions by 100%<p>A1, 7.18%.</p>A2, 0.7%</td>
+            <td>Increase the production of all buildings by 100% when you can access Research.</td>
             <td>Research needed to purchase this upgrade</td>
         </tr>
         <tr>

@@ -172,7 +172,7 @@
         <p><img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle><b> For Science!</b></p>
         <p><b>Requirement</b>: Purchase all the research facilities.</p>
         <p><b>Cost</b>: 1 Qag (1e123), A1+, Free</p>
-        <p><b>Effect</b>: Increase the overall production of Vanilla Factions by 100%.</p>
+        <p><b>Effect</b>: Increase the production of all buildings by 100% when you can access Research.</p>
         <p><b>Note</b>: This can be done at R16.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle><b> Exchange Lord</b></p>
@@ -232,7 +232,7 @@
         <p><img src=http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png align=middle><b> glho kohhl snod</b></p>
         <p><b>Requirement</b>: Import 'glho kohhl snod' into you game without the quotes.</p>
         <p><b>Cost</b>: 1000 coins, A1+, Free</p>
-        <p><b>Effect</b>: Increase base clicking reward by 50%.</p>
+        <p><b>Effect</b>: Increase clicking reward by 50%.</p>
         <p><b>Note</b>: This can be done at any time.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png align=middle><b> Mana Matrix</b></p>
