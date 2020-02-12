@@ -93,7 +93,7 @@
                 <p><b>Artifact Set</b>: Druid, Elf (1e35 (100 Dc) Gems+)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S400,C25,C340,D1,D175,D290,A50,A3400,W225,W400">
+                    <input type="text" value="S10,S400,C25,C340,D1,D175,D290,E3250,A50,A3400,W225,W400">
 				</p>
                 <p>S10,S400,</p>
                 <p>C25,C340,</p>
