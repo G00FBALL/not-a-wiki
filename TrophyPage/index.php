@@ -16,54 +16,94 @@
 <map name="SecretTrophyMap-map">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
     <p>Requirement: Have exactly 1337 Coins at any given time.
-    <p>This can be done at any R.
-    <p>Effect: Gives upgrade with the same name.
-    <p>Effect: Increase the production of all buildings by 13.37% (Not A Nerf).
     <p>Cost: 10 M (1e7), A1+ Free
+    <p>Effect: Increase the production of all buildings by 13.37% (Not A Nerf).
+    <p>This can be done at any R.
     " coords="5,47,62,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle> <b>Unitary</b></p>
     <p>Requirement: Have exactly 1 of each building at any given time.
-    <p>This can be done at any R.
-    <p>Effect: Gives upgrade with the same name.
-    <p>Effect: Increase the production of all buildings by 11.11111111% (Not A Nerf)
     <p>Cost: 10 M (1e7), A1+ Free
+    <p>Effect: Increase the production of all buildings by 11.11111111% (Not A Nerf)
+    <p>This can be done at any R.
     " coords="69,45,126,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle> <b>Building Hater</b></p>
     <p>Requirement: Reach 100'000 coins without building anything.
-    <p>This can be done at any R.
-    <p>Effect: Gives upgrade with the same name.
-    <p>Effect: Increase clicking reward by 25% (A Nerfed)
     <p>Cost: 10 Dc (1e34), A1+ Free
+    <p>Effect: Increase clicking reward by 25% (A Nerfed)
+    <p>This can be done at any R.
     " coords="134,47,191,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle> <b>Grand Diplomat</b></p>
     <p>Requirement: Ally with each Vanilla, Neutral and Prestige factions at least once.
-    <p>This can be done at any R.
-    <p>Effect: Gives upgrade with the same name.
-    <p>Effect: Increase your chance to find Faction Coins by an additional 2% (Not A Nerf)
     <p>Cost: 6 T (6e12), A1+ Free
+    <p>Effect: Increase your chance to find Faction Coins by an additional 2% (Not A Nerf)
+    <p>This can be done at any R.
     " coords="197,47,253,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png align=middle> <b>Exchange Master</b></p>
     <p>Requirement: Purchase 500 Royal Exchanges in a single game.
-    <p>This can be done at any R, The higher the R the easier it will be
-    <p>Effect: Gives upgrade with the same name.
-    <p>Effect: Increase Royal Exchange bonus by 5% (Not A Nerf)
     <p>Cost: 500 Dc (5e35), A1+ Free
+    <p>Effect: Increase Royal Exchange bonus by 5% (Not A Nerf)
+    <p>This can be done at any R, The higher the R the easier it will be
     " coords="262,47,318,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretTrophy.png align=middle> <b>Lucky Neutral</b></p>
     <p>Requirement: Spend 7777 minutes being Neutral across all reincarnations.(= 5d 9h 37m)
-    <p>Effect: Gives upgrade with the same name.
     <p>Cost: 30 No (3e31), A1+ Free
     <p>Effect: Increase the production of Neutral buildings by 50%. (A Nerfed)
     " coords="326,47,382,103" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretTrophy.png align=middle><b> Perfectly Good</b></p><p>Requirement: Spend 333 hours being Good across all reincarnations.(= 13d 21h)<p>Upgrade Cost Pre Ascension: 30 No (3e31)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of Good buildings by 50%.<p>Post Ascension: Increase the production of Good buildings by 4.14%." coords="389,47,446,103" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretTrophy.png align=middle><b> Diabolical Evil</b></p><p>Requirement: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s).<p>Upgrade Cost Pre Ascension: 30 No (3e31)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase the production of Evil buildings by 50%.<p>Post Ascension: Increase the production of Evil buildings by 4.14%." coords="6,110,63,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p><p>Requirement: Click 100 times on the little assistant around your realm.<p>Upgrade Cost Pre Ascension: 100 Qa (1e17)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Instantly add 1 additional assistant." coords="69,110,125,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle><b> Rewind</b></p><p>Requirement: Abdicate after producing at least 1 Oc (1E27) Coins.<p>Upgrade Cost Pre Ascension: 1 Oc (1e27)<p>Upgrade Cost Post Ascension: Free<p>This can be done at any R, The higher the R the easier it will be.<p>Upgrade Effect: Increase the production of all buildings by 8%.<p>Post Ascension: Increase the production of all buildings by 0.77%." coords="133,112,189,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p><p>Requirement: Purchase the first 6 Faction Heritage upgrades in a single game.<p>Upgrade Cost Pre Ascension: 6 Oc (6e27)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0 (use Elf).<p>Upgrade Effect: Increase your chance to find Faction Coins by additional 2%.<p>Post Ascension: Increase your chance to find Faction Coins by additional 1%." coords="198,111,253,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p><p>You have discovered all the relics of the Ancient Races.<p>Upgrade Cost Pre Ascension: 1 Ud (1e36)<p>Upgrade Cost Post Ascension: Free<p>Requirement: Unlock Titans, Druids, and Faceless<p> This can be done at R0.<p>Upgrade Effect: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless.<p>Post Ascension: Increase the production of all buildings by 0.49% when you are playing as Titan, Druid or Faceless." coords="262,110,317,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p><p>Requirement: Cast the Tax Collection spell while having 3 other spells active.<p>Upgrade Cost Pre Ascension: 4 Dc (4e33)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0.(use Angels and all their upgrades)<p>Upgrade Effect: Increase Mana production by 5%." coords="326,111,380,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p><p>Requirement: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Can be done at R0<p>Upgrade Effect: Increase your base clicking reward by 1M.<p> Click image for Instructions."href="http://musicfamily.org/realm/SpeedRun/" coords="389,111,445,167" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png align=middle><b> Equality</b></p><p>Requirement: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.<p>Alignments: Good, Evil, Neutral<p>Upgrade Cost Pre Ascension: 1 Qad (1e45)<p>Upgrade Cost Post Ascension: Free<p>This can be done at R0.<p>Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.<p>Upgrade Effect: Increase the production of all buildings by 100%.<p>Post Ascension: Increase the production of all buildings by 7.18%." coords="6,174,60,231" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/PerfectlyGoodSecretTrophy.png align=middle><b> Perfectly Good</b></p>
+    <p>Requirement: Spend 333 hours being Good across all reincarnations.(= 13d 21h)
+    <p>Cost: 30 No (3e31), A1+ Free
+    <p>Effect: Increase the production of Good buildings by 50%. (A Nerfed)
+    " coords="389,47,446,103" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DiabolicalEvilSecretTrophy.png align=middle><b> Diabolical Evil</b></p>
+    <p>Requirement: Spend 6 days, 66 hours, 666 minutes, 666666 seconds being Evil across all reincarnations (= 16d 22h 17m 6s).
+    <p>Cost: 30 No (3e31), A1+ Free
+    <p>Effect: Increase the production of Evil buildings by 100%. (A Nerfed)
+    " coords="6,110,63,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p>
+    <p>Requirement: Click 100 times on the little assistant around your realm.
+    <p>Cost: 100 Qa (1e17), A1+ Free
+    <p>Effect: Instantly add 1 additional assistant.
+    " coords="69,110,125,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle><b> Rewind</b></p>
+    <p>Requirement: Abdicate after producing at least 1 Oc (1E27) Coins.
+    <p>Cost: 1 Oc (1e27), A1+ Free
+    <p>Effect: Increase the production of all buildings by 8%. (A Nerfed)
+    <p>This can be done at any R, The higher the R the easier it will be.
+    " coords="133,112,189,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
+    <p>Requirement: Purchase the first 6 Faction Heritage upgrades in a single game.
+    <p>Cost: 6 Oc (6e27), A1+ Free
+    <p>Effect: Increase your chance to find Faction Coins by additional 2%. (Not A Nerf)
+    <p>This can be done at R0 (use Elf).
+    " coords="198,111,253,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p>
+    <p>You have discovered all the relics of the Ancient Races.
+    <p>Requirement: Unlock Titans, Druids, and Faceless
+    <p>Cost: 1 Ud (1e36), A1+ Free
+    <p>Effect: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless. (A Nerfed)
+    <p>This can be done at R0.
+    " coords="262,110,317,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p>
+    <p>Requirement: Cast the Tax Collection spell while having 3 other spells active.
+    <p>Cost: 4 Dc (4e33), A1+ Free
+    <p>Effect: Increase Mana production by 5%.
+    <p>This can be done at R0.(use Angels and all their upgrades)
+    " coords="326,111,380,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p>
+    <p>Requirement: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.
+    <p>Cost: 10 coins, A1+ Free
+    <p>Effect: Increase your base clicking reward by 1M (1e6).
+    <p>Can be done at R0
+    <p>Click image for Instructions."href="http://musicfamily.org/realm/SpeedRun/
+    " coords="389,111,445,167" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png align=middle><b> Equality</b></p>
+    <p>Requirement: With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments.
+    <p>Alignments: Good, Evil, Neutral
+    <p>Cost: 1 Qad (1e45), A1+ Free
+    <p>Effect: Increase the production of all buildings by 100%. (A Nerfed)
+    <p>This can be done at R0.
+    <p>Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.
+    " coords="6,174,60,231" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p><p>Requirement: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).<p>This takes 3d 11h 20m and can be done at R0.<p>Upgrade Cost Pre Ascension: 10 Nod (1e61)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase assistants production by 10%.<p>Post Ascension: Increase assistants production by 0.96%." coords="69,174,124,230" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p><p>Requirement: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.<p>Upgrade Cost Pre Ascension: 50 Ocd (5e58)<p>Upgrade Cost Post Ascension: Free<p>Can be done at the end of R2+ with high gem count.<p>Upgrade Effect: Increase maximum Mana by 250." coords="134,176,189,232" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle><b> Fast Forward</b></p><p>Requirement: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)<p>Upgrade Cost Pre Ascension: 8 Oc (8e27)<p>Upgrade Cost Post Ascension: Free<p> This can be done at R0.<p>Upgrade Effect: Increase offline production by 200%.<p>Post Ascension: Increase offline production by 11.6%." coords="197,174,253,230" shape="rect">
