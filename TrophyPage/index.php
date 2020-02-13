@@ -17,13 +17,13 @@
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
     <p>Requirement: Have exactly 1337 Coins at any given time.
     <p>Cost: 10 M (1e7), A1+ Free
-    <p>Effect: Increase the production of all buildings by 13.37% (Not A Nerf).
+    <p>Effect: Increase the production of all buildings by 13.37%.
     <p>This can be done at any R.
     " coords="5,47,62,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle> <b>Unitary</b></p>
     <p>Requirement: Have exactly 1 of each building at any given time.
     <p>Cost: 10 M (1e7), A1+ Free
-    <p>Effect: Increase the production of all buildings by 11.11111111% (Not A Nerf)
+    <p>Effect: Increase the production of all buildings by 11.11111111%.
     <p>This can be done at any R.
     " coords="69,45,126,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle> <b>Building Hater</b></p>
@@ -35,13 +35,13 @@
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png align=middle> <b>Grand Diplomat</b></p>
     <p>Requirement: Ally with each Vanilla, Neutral and Prestige factions at least once.
     <p>Cost: 6 T (6e12), A1+ Free
-    <p>Effect: Increase your chance to find Faction Coins by an additional 2% (Not A Nerf)
+    <p>Effect: Increase your chance to find Faction Coins by an additional 2%.
     <p>This can be done at any R.
     " coords="197,47,253,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png align=middle> <b>Exchange Master</b></p>
     <p>Requirement: Purchase 500 Royal Exchanges in a single game.
     <p>Cost: 500 Dc (5e35), A1+ Free
-    <p>Effect: Increase Royal Exchange bonus by 5% (Not A Nerf)
+    <p>Effect: Increase Royal Exchange bonus by 5%.
     <p>This can be done at any R, The higher the R the easier it will be
     " coords="262,47,318,103" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretTrophy.png align=middle> <b>Lucky Neutral</b></p>
@@ -73,7 +73,7 @@
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
     <p>Requirement: Purchase the first 6 Faction Heritage upgrades in a single game.
     <p>Cost: 6 Oc (6e27), A1+ Free
-    <p>Effect: Increase your chance to find Faction Coins by additional 2%. (Not A Nerf)
+    <p>Effect: Increase your chance to find Faction Coins by additional 2%.
     <p>This can be done at R0 (use Elf).
     " coords="198,111,253,167" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p>
@@ -137,8 +137,7 @@
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle><b> Harlequin</b></p>
     <p>Requirement: As a Mercenary, purchase one upgrade from 11 different factions.
     <p>Cost: 5 Qivg (5e78), A1+ Free
-    <p>Effect: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game)
-    <p>Post Ascension: Increases production of all buildings based on the amount of different factions involved in your mercenary upgrades.
+    <p>Effect: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game) (A Nerfed)
     <p>This can be done at R3 with Merc Build (Harlequin)
     <p>Click image to go to the Harlequin Build.
     " href="http://musicfamily.org/realm/MercBuilds
@@ -155,28 +154,76 @@
     <p>Requirement: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.
     <p>1024 Farms, 512 Inns, 256 Blacksmiths, 128, 64, 32, 16, 8, 4, 2 and 1 Hall of Legends. (Building count has to be exact)
     <p>Cost: 1 Td (1e42), A1+ Free
-    <p><b>Effect</b>: Increases the production of all buildings based on their tier.</p>
+    <p><b>Effect</b>: Increases the production of all buildings based on their tier. (A Nerfed)
     <p><b>Formula</b>: (10 * (12 - T))%, where T is building tier.
     <p>This can be done at the end of R0 just before reincarnating.
     " coords="69,238,126,294" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle><b> Mercenary Spirit</b></p>
     <p>Requirement: Reincarnate while playing as a Mercenary.
     <p>Cost: 1 Ocd (1e57), A1+ Free
-    <p>Effect: Increases production of all buildings by 15% per reincarnation.
-    <p>Post Ascension: Increases production of all buildings based on the amount of reincarnation. (For Mercenary only)
+    <p>Effect: Increases production of all buildings by 15% per reincarnation. (For Mercenary only) (A Nerfed)
     <p>This can be done at R3.
     " coords="134,238,189,294" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p><p>Requirement: Purchase 100 upgrades of each faction (Anything that is faction colored counts) (All Game)<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost A1+: Free<p>This can be done at R7<p>Upgrade Effect: Increases the production of all buildings based on the time spent with the Bloodline's Faction. When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.<p>Formula: (0.1 * x ^ 0.65)%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.<p>Post Ascension: Increases the production of all buildings based on the time spent with the Bloodline you are using. While you are mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using." coords="197,239,253,294" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png align=middle><b> Unlimited Mana</b></p><p>Requirement: Have at least 300 mana per second.<p>Upgrade Cost Pre Ascension: 80 Vg (8e64)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase mana regeneration by +2." coords="262,239,316,294" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle><b> For Science!</b></p><p>Requirement: Purchase all the research facilities.<p>Cost: 1 Qag (1e123), A1+ Free<p>Can be done at R16.<p>Effect: Increase the production of all buildings by 100% when you can access Research." coords="326,238,383,296" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle><b> Exchange Lord</b></p><p>Requirement: Purchase 1500 Royal Exchanges in a single game.<p>Upgrade Cost Pre Ascension: 500 Qag (5e125)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Royal Exchange bonus by 5%." coords="390,237,446,292" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MagicianSecretTrophy.png align=middle><b> Magician</b></p><p>Requirement: Discover at least 10 Spellcraft Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Spellcraft upgrade slots by 1." coords="5,300,61,357" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ArtisanSecretTrophy.png align=middle><b> Artisan</b></p><p>Requirement: Discover at least 10 Craftsmanship Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Craftsmanship upgrade slots by 1." coords="69,302,125,357" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DemigodSecretTrophy.png align=middle><b> Demigod</b></p><p>Requirement: Discover at least 10 Divine Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Divine upgrade slots by 1." coords="134,300,191,358" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BusinessmanSecretTrophy.png align=middle><b> Businessman</b></p><p>Requirement: Discover at least 10 Economics Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Economics upgrade slots by 1." coords="197,301,254,356" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ApothecarySecretTrophy.png align=middle><b> Apothecary</b></p><p>Requirement: Discover at least 10 Alchemy Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Alchemy upgrade slots by 1." coords="262,300,319,358" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png align=middle><b> Warlord</b></p><p>Requirement: Discover at least 10 Warfare Researches.<p>Upgrade Cost Pre Ascension: 250 Noqag (2.50e152)<p>Upgrade Cost Post Ascension: Free<p>Upgrade Effect: Increase Warfare upgrade slots by 1." coords="326,300,382,357" shape="rect">
-    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png align=middle><b> Faction Run</b></p><p>Requirement: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.<p>Upgrade Cost Pre Ascension: 10 coins<p>Upgrade Cost Post Ascension: Free<p>Can be done from around R8+<p>Reincarnate/Abdicate, EXPORT to a text file and save that<p> Turn on 'Multibuy upgrade series'<p> Go Elf with Elf Bloodline<p> Buy max buildings<p> Buy all upgrades<p> Load your save and retry if you don't get it.<p>Upgrade Effect: Increase Faction Coin find chance by 10%." coords="390,301,446,357" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle><b> Bloodstream</b></p>
+    <p>Requirement: Purchase 100 upgrades of each faction (Anything that is faction colored counts) (All Game)
+    <p>Cost: 1 Tg (1e93), A1+ Free
+    <p>Effect: Increase the production of all buildings based on the time spent as faction of the bloodline you are using. While you are a mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of Mercenary upgrades purchased in this game from the faction of the bloodline you are using. (A Nerfed)
+    <p>Formula: (0.1 * x ^ 0.65)%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.
+    <p>This can be done at R7
+    " coords="197,239,253,294" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png align=middle><b> Unlimited Mana</b></p>
+    <p>Requirement: Have at least 300 mana per second.
+    <p>Cost: 80 Vg (8e64), A1+ Free
+    <p>Effect: Increase mana regeneration by +2.
+    " coords="262,239,316,294" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle><b> For Science!</b></p>
+    <p>Requirement: Purchase all the research facilities.
+    <p>Cost: 1 Qag (1e123), A1+ Free
+    <p>Effect: Increase the production of all buildings by 100% when you can access Research.
+    <p>Can be done at R16.
+    " coords="326,238,383,296" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle><b> Exchange Lord</b></p>
+    <p>Requirement: Purchase 1500 Royal Exchanges in a single game.
+    <p>Cost: 500 Qag (5e125), A1+ Free
+    <p>Effect: Increase Royal Exchange bonus by 5%.
+    " coords="390,237,446,292" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/MagicianSecretTrophy.png align=middle><b> Magician</b></p>
+    <p>Requirement: Discover at least 10 Spellcraft Researches.
+    <p>Cost: 250 Noqag (2.50e152), A1+ Free
+    <p>Effect: Increase Spellcraft upgrade slots by 1.
+    " coords="5,300,61,357" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ArtisanSecretTrophy.png align=middle><b> Artisan</b></p>
+    <p>Requirement: Discover at least 10 Craftsmanship Researches.
+    <p>Cost: 250 Noqag (2.50e152), A1+ Free
+    <p>Effect: Increase Craftsmanship upgrade slots by 1.
+    " coords="69,302,125,357" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/DemigodSecretTrophy.png align=middle><b> Demigod</b></p>
+    <p>Requirement: Discover at least 10 Divine Researches.
+    <p>Cost: 250 Noqag (2.50e152), A1+ Free
+    <p>Effect: Increase Divine upgrade slots by 1.
+    " coords="134,300,191,358" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/BusinessmanSecretTrophy.png align=middle><b> Businessman</b></p>
+    <p>Requirement: Discover at least 10 Economics Researches.
+    <p>Cost: 250 Noqag (2.50e152), A1+ Free
+    <p>Effect: Increase Economics upgrade slots by 1.
+    " coords="197,301,254,356" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ApothecarySecretTrophy.png align=middle><b> Apothecary</b></p>
+    <p>Requirement: Discover at least 10 Alchemy Researches.
+    <p>Cost: 250 Noqag (2.50e152), A1+ Free
+    <p>Effect: Increase Alchemy upgrade slots by 1.
+    " coords="262,300,319,358" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png align=middle><b> Warlord</b></p>
+    <p>Requirement: Discover at least 10 Warfare Researches.
+    <p>Cost: 250 Noqag (2.50e152), A1+ Free
+    <p>Effect: Increase Warfare upgrade slots by 1.
+    " coords="326,300,382,357" shape="rect">
+    <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png align=middle><b> Faction Run</b></p>
+    <p>Requirement: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.
+    <p>Upgrade Cost Pre Ascension: 10 coins
+    <p>Cost: Free, A1+ Free
+    <p>Effect: Increase Faction Coin find chance by 10%.
+    <p>Can be done from R7+ with elf/elfline
+    " coords="390,301,446,357" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle><b> No Recruiting</b></p><p>Requirement: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.<p>Upgrade Cost Pre Ascension: 1 Tg (1e93)<p>Upgrade Cost Post Ascension: Free<p>Effect: Increase Mercenary production by 1% per Reincarnation.<p>It can take up to 1 day at R20. <p> Tactic: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall." coords="6,365,62,421" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle><b> That Excavated Quickly</b></p><p>Requirement: Excavate 1000 times in the first 30 seconds of a run (This Game)<p>Upgrade Cost Pre Ascension: 1 Qag (1e123)<p>Upgrade Cost Post Ascension: Free<p>Effect: Your chance to find Faction Coins with excavations is increased by an additional 5%.<p>Around R20, make sure to keep your excavations low until you have enough gems to excavate 1000 times - make a save file, abdicate, then try go for the trophy. Undo if necessary." coords="69,364,125,421" shape="rect">
     <area target="" research="<img src=http://musicfamily.org/realm/Factions/picks/glhokohhlsnodSecretTrophy.png align=middle><b> glho kohhl snod</b></p><p>Requirement: Import this into you game <p>Barely whispering these letters makes your heart pound harder..<p>Cost: 1000 coins, A1+Free<p>Effect: Increase clicking reward by 50%.<p>Note: Not affected by any ascension penalties.<p>Can be done at any R." coords="133,364,190,421" shape="rect">
