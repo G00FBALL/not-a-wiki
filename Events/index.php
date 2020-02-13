@@ -393,7 +393,7 @@
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 11 - Feb 15, 2020)</a></b></p>
                     <div class="autohide">
                         <p><b>Event Theme</b>: <b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts</b></p>
-                        <p>Collected online and offline at a base rate of 1 per second and can be increased up to 3.5/s during the length of the event as follows:</p>
+                        <p>Collected online and offline at a base rate of 1 per second and can be increased up to 4/s during the length of the event as follows:</p>
                         <p><b><img src="/realm/Factions/picks/CalltoLove2017.png" alt="CalltoLove" align="middle"> Call to Love</b></p>
                         <p><b>Requirement</b>: Play during the Valentines Event</p>
                         <p><b>Mana Cost</b>: 200 (Replaces Call to Arms)</p>
@@ -642,7 +642,7 @@
                                 width: 100%;
                                 text-align: left;
                             }
-                            
+
                             div#images div {
                                 display: inline-block;
                             }
@@ -871,7 +871,7 @@
                                 width: 100%;
                                 text-align: left;
                             }
-                            
+
                             div#images div {
                                 display: inline-block;
                             }
@@ -1307,7 +1307,7 @@
                                 width: 100%;
                                 text-align: left;
                             }
-                            
+
                             div#images div {
                                 display: inline-block;
                             }
@@ -1971,7 +1971,7 @@
                                 width: 100%;
                                 text-align: left;
                             }
-                            
+
                             div#images div {
                                 display: inline-block;
                             }
