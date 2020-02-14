@@ -56,7 +56,7 @@
                 }
                 cost = base * ((1 - Math.pow(mult , exc)) / (1 - mult));
                 $('#coi').html(cost.toExponential(2));
-                if (asc < 2) {
+                if (asc != 2) {
                     $('#gem').html((1.41421e-6 * (cost + 125e9) ** 0.5 - 0.5).toExponential(2));
                 } else {
                     $('#gem').html((0.02 * ((((cost + 1250) ** 0.5) / (2 ** 0.5)) - 25)).toExponential(2));
