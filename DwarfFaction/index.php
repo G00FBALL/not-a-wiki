@@ -152,7 +152,7 @@
         <p><b>Requirements</b>: Dwarf Master trophy and 8 hours activity time (This Game) of Diamond Pickaxe.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of current excavations and excavation resets. (This R).</p>
-        <p><b>Formula</b>: (0.025 * (1 + x * y) ^ 0.65)%, where x is current excavations and y is free and ruby excavation resets this R </p>
+        <p><b>Formula</b>: (0.025 * (x * (1 + y)) ^ 0.65)%, where x is current excavations and y is free and ruby excavation resets this R </p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <p><b>Note</b>: Not available till R116</p>

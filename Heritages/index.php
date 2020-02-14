@@ -174,7 +174,7 @@
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarf Master Trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of current excavations and excavation resets. (This R).</p>
-<p><b>Formula</b>: (0.025 * (1 + x * y) ^ 0.65)%, where x is current excavations and y is ruby and free excavation resets this R.</p>
+<p><b>Formula</b>: (0.025 * (x * (1 + y)) ^ 0.65)%, where x is current excavations and y is ruby and free excavation resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Drow Coins</p>
