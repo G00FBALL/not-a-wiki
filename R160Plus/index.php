@@ -36,16 +36,20 @@
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: e101 (~1d this R) / e105 (3d this R) / e109+ (9d+ this R)</p>
                 <p><b>Alignment</b>: Evil/Chaos Mercenary</p>
-                <p><b>Bloodline</b>: Fairy/Demon/Dragon See Notes</p>
-                <p><b>A2950</b>: Faceless</p>
+                <p><b>Bloodline</b>: Fairy/Demon See Notes</p>
+                <p><b>A2950</b>: Dragon/Faceless</p>
                 <p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Faceless</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL11,AN5,AN8,AN12,GB4,GB7,UD10,DM9,TT3,DN2,DW12,DG4,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,S200,S400,S5875,C175,C340,C400,S30,S105,S135,S150,S180,S215,S270,S330,C5125,C25,C80,C105,C120,C135,C150,C250,C305,C590,D5875,D290,D330,D200,D25,D55,D135,D150,D245,D275,D320,E5125,E135,E230,E290,E320,E25,E30,E80,E145,E150,E200,E275,E350,E480,A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,A495,A545,A590,W5125,W1275,W205,W275,W400,W25,W525,F5500" id="Build"></p>
+                    <input type="text" value="EL3,EL11,AN5,AN8,AN12,GB4,GB7,UD10,DM9,TT3,DN2,DW12,DG4,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,S200,S400,S5875,C175,C340,C400,S30,S105,S135,S150,S180,S215,S270,S330,C5125,C25,C80,C105,C120,C135,C150,C250,C305,C590,D5875,D290,D330,D200,D25,D55,D135,D150,D245,D275,D320,E5125,E135,E230,E290,E320,E25,E30,E80,E145,E150,E200,E275,E350,E480,A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,A495,A545,A590,W5125,W1275,W205,W275,W400,W25,W525,F5500" id="Build"> Under 8d16h</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL11,AN5,AN8,AR12,GB4,GB7,UD10,DM9,TT3,DN2,DW12,DG4,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,S200,S400,S5875,C175,C340,C400,S30,S105,S135,S150,S180,S215,S270,S330,C5125,C25,C80,C105,C120,C135,C150,C250,C305,C590,D5875,D290,D330,D200,D25,D55,D135,D150,D245,D275,D320,E5125,E135,E230,E290,E320,E25,E30,E80,E145,E150,E200,E275,E350,E480,A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,A495,A545,A590,W5125,W1275,W205,W275,W400,W25,W525,F5500" id="Build"> Over 8d16h</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL11,AN5,AN8,AR12,GB4,GB7,UD10,DM9,TT3,DN2,DW12,DG4,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,D5875,S200,S400,S5875,S30,S105,S135,S150,S180,S215,S270,S330,C5125,C175,C340,C400,C25,C80,C105,C120,C135,C150,C250,C305,C590,D25,D55,D135,D150,D200,D245,D275,D290,D320,D330,E5125,E25,E30,E80,E135,E145,E150,E200,E230,E275,E290,E320,E350,E480,A5125,A30,A270,A2950,W5125,W25,W205,W275,W400,W525,W1275,F5500" id="Build"> 34+ Hours</p>
                 <p>EL3,EL11,AN5,AN8,AN12,GB4,GB7,UD10,DM9,TT3,DN2,DW12,DG4,DJ3,DJ5,DJ7,</p>
 				<p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,</p>
-                <p>S200,S400,S5875,C175,C340,C400,S30,S105,S135,S150,S180,S215,S270,S330,</p>
-                <p>C5125,C25,C80,C105,C120,C135,C150,C250,C305,C590,</p>
+                <p>S200,S400,S5875,S30,S105,S135,S150,S180,S215,S270,S330,</p>
+                <p>C5125,C175,C340,C400,C25,C80,C105,C120,C135,C150,C250,C305,C590,</p>
                 <p>D5875,D290,D330,D200,D25,D55,D135,D150,D245,D275,D320,</p>
                 <p>E5125,E135,E230,E290,E320,E25,E30,E80,E145,E150,E200,E275,E350,E480,</p>
                 <p>A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,A495,A545,A590,</p>
@@ -53,7 +57,7 @@
                 <p>F5500</p>
 				<p><b>Note</b>: Buffing W275, S400, F6000 is very important.</p>
 				<p><b>Note</b>: Maelstrom should buff HoL with assistants.</p>
-				<p><b>Note</b>: Build depends on time spent this R:.</p>
+				<p><b>Note</b>: Build depends on time spent this R.</p>
                 <p><b>Note</b>: Under 2d16h : use Fairyline + Dragon A2950.</p>
                 <p><b>Note</b>: 2d16h-8d16h : use Demonline + Dragon A2950.</p>
                 <p><b>Note</b>: 8d16h+ use Fairyline + Faceless A2950, swap AN12 -> AR12.</p>
