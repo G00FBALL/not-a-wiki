@@ -347,7 +347,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="DarkBlue"> Good</font></b>/<b><font color="grey">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="Blue"> Good</font></b>/<b><font color="grey">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
                 <p><b>Range</b>: ?</p>
