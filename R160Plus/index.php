@@ -395,7 +395,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Good/Order</p>
+                <p><b>Alignment</b>: Good/Balance</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Elf</p>
                 <p><b>Stoneheart Set</b>: Faceless</p>
