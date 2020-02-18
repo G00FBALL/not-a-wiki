@@ -31,6 +31,50 @@
             </div>
         </div>
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R171-R175 Early Merc Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: dzed</p>
+                <p><b>Range</b>: 0 - 1e70</p>
+                <p><b>Requirement</b>: Mercenary Duel
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S30,S150,S400,S2875,C150,C340,C3000,D25,D275,D290,D2775,E25,E30,E135,E145,E400,E1325,E1425,A55,A120,A270,A2950,W25,W120,W150,W180,W275,W320,W400,W590,W1375" id="Build"> Archon Union</p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
+                <p>S30,S150,S400,S2875,</p>
+                <p>C150,C340,C3000,</p>
+                <p>D25,D275,D290,D2775,</p>
+                <p>E25,E30,E135,E145,E400,E1325,E1425,</p>
+                <p>A55,A120,A270,A2950,</p>
+                <p>W25,W120,W150,W180,W275,W320,W400,W590,W1375</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R175-181 Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: ensteffahn</p>
+                <p><b>Range</b>: 0 - 1e70</p>
+                <p><b>Requirement</b>: A3 Artifacts
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="FR2,EL3,EL7,EL11,AN5,AN8,AN12,GB4,GB7,TT10,DD6,DN2,DW12,DJ3,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Mountain Palace,UNN:FR,S30,S200,S215,S400,S5125,C25,C175,C250,C340,C5125,D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D480,D590,D1275,D1375,E25,E30,E135,E145,E400,E5125,A30,A55,A105,A120,A135,A150,A175,A200,A250,A270,A305,A330,A375,A495,A2950,W25,W120,W275,W400,W5125" id="Build"> Archon Union</p>
+                <p>FR2,EL3,EL7,EL11,AN5,AN8,AN12,GB4,GB7,TT10,DD6,DN2,DW12,DJ3,DJ7,MK6,</p>
+				<p>SP:Grand Balance,SP:Infinite Spiral,UB:Mountain Palace,UNN:FR,</p>
+                <p>S30,S200,S215,S400,S5125,</p>
+                <p>C25,C175,C250,C340,C5125,</p>
+                <p>D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D480,D590,D1275,D1375,</p>
+                <p>E25,E30,E135,E145,E400,E5125,</p>
+                <p>A30,A55,A105,A120,A135,A150,A175,A200,A250,A270,A305,A330,A375,A495,A2950,</p>
+                <p>W25,W120,W275,W400,W5125</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
