@@ -222,7 +222,7 @@
     <p><b>Requirements</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" align="middle"><b> Tiered Autocasting</b></p>
     <p>Requirement: R40+, 200M Mana Produced (Total this R).</p>
-    <p><b>Note</b>: This trophy unlocks at R40, The uprade is availabe at R40, but tiers do not unlock until R42.</p>
+    <p><b>Note</b>: This trophy unlocks at R40, The uprade is available at R40, but tiers do not unlock until R42.</p>
     <p><b>Upgrade Cost</b>:  100 Qid (1.0e50), A2+ Free</p>
     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.</p>
     <p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
@@ -548,7 +548,7 @@
 <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
 <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/StarBlessingChallenges.png" align="middle"> <b>Star Blessing</b> (R18+)</p>
-<p><b>Effect</b>: Clicks from the Sun Blessing spell upgrade have a 5% increased chance to trigger Elven (3,2) Elven Luck.</p>
+<p><b>Effect</b>: Automatic clicks from Sun Blessing always trigger Elven Luck.</p>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Moon Blessing Tier 2-7</a></b> (R42+)</p>
