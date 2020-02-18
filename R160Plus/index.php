@@ -192,23 +192,23 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons (Assistants)</a></b> Need New Build</p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Fairy (Assistants)</a></b> Needs Tested</p>
             <div class="autohide">
-                <p><b>Author</b>: rellikrellik</p>
-                <p><b>Range</b>: 1e40 (10 Dd) Gems+</p>
-                <p><b>Faction</b>: Demon</p>
-                <p><b>Bloodline</b>: Angel</p>
-                <p><b>Artifact Set</b>: Demon</p>
+                <p><b>Author</b>: Weedheter</p>
+                <p><b>Range</b>: 1e40 (10 Dd)? Gems+</p>
+                <p><b>Faction</b>: Fairy</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S435,S3200,C50,C340,D10,D560,D1375,E230,E400,E495,A25,A400,A410,W1,W135,W175,W405,W520,W590" id="Build"></p>
-                  <p>S435,S3200,</p>
-                  <p>C50,C340,</p>
-                  <p>D10,D560,D1375,</p>
-                  <p>E230,E400,E495,</p>
-                  <p>A25,A400,A410,</p>
-                  <p>W1,W135,W175,W405,W520,W590</p>
-                  <p><b>Notes</b>: Make sure that Drow Union is targetting Burning Abyss for production.</p>
-                  <p><b>Note</b>: Estimated time 1-5 hours.</p>
+                    <input type="text" value="S180,S200,S400,C250,C340,C400,C520,D200,D290,D330,D1375,E50,E135,E145,E290,E320,E400,E460,E1325,A30,A120,A270,A305,A400,A545,W180,W400,W1275,W1375" id="Build"></p>
+                  <p>S180,S200,S400,</p>
+                  <p>C250,C340,C400,C520,</p>
+                  <p>D200,D290,D330,D1375,</p>
+                  <p>E50,E135,E145,E290,E320,E400,E460,E1325,</p>
+                  <p>A30,A120,A270,A305,A400,A545,</p>
+                  <p>W180,W400,W1275,W1375</p>
+                  <p><b>Notes</b>: Do clicks first.</p>
+                  <p><b>Note</b>: Estimated instant?.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -410,7 +410,6 @@
                 <p>F5750</p>
                 <p><b>Note</b>: Most researches I just picked to fill and give little boosts, what actually matters here is A400 and Faction Coin chance researches
                 <p><b>Note</b>: D5625 need to be buffed (I had 1407% - 1d minimum with each faction)
-
             </div>
         </div>
     </div>
