@@ -31,6 +31,64 @@
             </div>
         </div>
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Range</b>: 0? - 1e95?</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Dwarf</p>
+                <p><b>A2950</b>: Dragon</p>
+                <p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> </p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,MK10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> 8h+ This R</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:AR,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> Archon Union</p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,</p>
+				<p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,</p>
+                <p>S200,S500,S5875,S330,S150,</p>
+                <p>C175,C250,C340,C400,C5625,</p>
+                <p>D5875,D200,D290,</p>
+                <p>E135,E145,E290,E1325,E1425,E3300,</p>
+                <p>A120,A270,A305,A1200,A1500,A2950,</p>
+                <p>W175,W275,W400,W5125,W1275,</p>
+                <p>F5250</p>
+				<p><b>Note</b>: When using F6000, switch Demon Union -> Archon Union.</p>
+				<p><b>Note</b>: For longer runs (8h+), with or without F6000, keep Demon Union.</p>
+				<p><b>Note</b>: With at least 8h (?) spent this R, switch AR10 -> MK10.</p>
+                <p><b>Note</b>: Spend excess research budget to increase production.</p>
+                <p><b>Note</b>: Benefits from buffing current excavations count, mana generated this R and W275.</p>
+                <p><b>Note</b>: With at least 8d16h spent this R, the dominant production building will be Ancient Pyramid.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Faceline Fairies</a></b></a></p>
+            <div class="autohide">
+                <p><b>Author</b>: Volron</p>
+                <p><b>Range</b>: e70-ish(?) to 1e86</p>
+                <p><b>Alignment</b>: Fairy</p>
+                <p><b>Bloodline</b>: Faceless</p>
+                <p><b>A2950</b>: Faceless</p>
+                <p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1,S200,S400,S5375,C10,C105,C340,C400,C5125,D150,D200,D5625,E30,E50,E135,E145,E5625,A30,A55,A120,A270,A400,A5125,W120,W150,W180,W400,W5125,F5500" id="Build"></p>
+                <p>S1,S200,S400,S5375,</p>
+                <p>C10,C105,C340,C400,C5125,</p>
+                <p>D150,D200,D5625,</p>
+                <p>E30,E50,E135,E145,E5625,</p>
+                <p>A30,A55,A120,A270,A400,A5125,</p>
+                <p>W120,W150,W180,W400,W5125,</p>
+                <p>F5500</p>
+				<p><b>Note</b>: Buffing S400 might be recommended?.</p>
+				<p><b>Note</b>: (also increases Djinn 9) S5375 passes D290 after 41 minutes (if fairy is the last faction to be used), otherwise, use S5125 and D290 instead of S5375 and D200.</p>
+				<p><b>Note</b>: Catalyst spell: Gem Grinder(?)/God's Hand(?) (haven't had time to actually verify the best one)</p>
+				<p><b>Note</b>: Limited Wish effect: Assistants,Maelstrom target(s): Hall of Legends by Amount of Assistants and preferably Enchanted Fields with any (though Inns and Dwarven Forges can work less effectively)</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Production/Excavation Buff</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
@@ -63,64 +121,6 @@
                 <p><b>Note</b>: 8d16h+ use Fairyline + Faceless A2950, swap AN12 -> AR12.</p>
                 <p><b>Note</b>: if buffing excavations is the primary goal, always use Fairyline + Dragon A2950.</p>
                 <p><b>Note</b>: 34h+ run (including F6000): swap all A researches except A30, A270, A2950 for A5125.</p>
-            </div>
-        </div>
-		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Faceline Fairies</a></b></a></p>
-            <div class="autohide">
-                <p><b>Author</b>: Volron</p>
-                <p><b>Range</b>: e70-ish(?) to 1e86</p>
-                <p><b>Alignment</b>: Fairy</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>A2950</b>: Faceless</p>
-                <p><b>D5875</b>: Archon</p>
-                <p><b>Artifact Set</b>: Dwarf</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S200,S400,S5375,C10,C105,C340,C400,C5125,D150,D200,D5625,E30,E50,E135,E145,E5625,A30,A55,A120,A270,A400,A5125,W120,W150,W180,W400,W5125,F5500" id="Build"></p>
-                <p>S1,S200,S400,S5375,</p>
-                <p>C10,C105,C340,C400,C5125,</p>
-                <p>D150,D200,D5625,</p>
-                <p>E30,E50,E135,E145,E5625,</p>
-                <p>A30,A55,A120,A270,A400,A5125,</p>
-                <p>W120,W150,W180,W400,W5125,</p>
-                <p>F5500</p>
-				<p><b>Note</b>: Buffing S400 might be recommended?.</p>
-				<p><b>Note</b>: (also increases Djinn 9) S5375 passes D290 after 41 minutes (if fairy is the last faction to be used), otherwise, use S5125 and D290 instead of S5375 and D200.</p>
-				<p><b>Note</b>: Catalyst spell: Gem Grinder(?)/God's Hand(?) (haven't had time to actually verify the best one)</p>
-				<p><b>Note</b>: Limited Wish effect: Assistants,Maelstrom target(s): Hall of Legends by Amount of Assistants and preferably Enchanted Fields with any (though Inns and Dwarven Forges can work less effectively)</p>
-            </div>
-        </div>
-		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: rellikrellik</p>
-                <p><b>Range</b>: 0? - 1e95?</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
-                <p><b>Bloodline</b>: Dwarf</p>
-                <p><b>A2950</b>: Dragon</p>
-                <p><b>D5875</b>: Archon</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> </p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,MK10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> 8h+ This R</p>
-                    <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:AR,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> Archon Union</p>
-                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,</p>
-				<p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,</p>
-                <p>S200,S500,S5875,S330,S150,</p>
-                <p>C175,C250,C340,C400,C5625,</p>
-                <p>D5875,D200,D290,</p>
-                <p>E135,E145,E290,E1325,E1425,E3300,</p>
-                <p>A120,A270,A305,A1200,A1500,A2950,</p>
-                <p>W175,W275,W400,W5125,W1275,</p>
-                <p>F5250</p>
-				<p><b>Note</b>: When using F6000, switch Demon Union -> Archon Union.</p>
-				<p><b>Note</b>: For longer runs (8h+), with or without F6000, keep Demon Union.</p>
-				<p><b>Note</b>: With at least 8h (?) spent this R, switch AR10 -> MK10.</p>
-                <p><b>Note</b>: Spend excess research budget to increase production.</p>
-                <p><b>Note</b>: Benefits from buffing current excavations count, mana generated this R and W275.</p>
-                <p><b>Note</b>: With at least 8d16h spent this R, the dominant production building will be Ancient Pyramid.</p>
             </div>
         </div>
     </div>
@@ -347,7 +347,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="DarkBlue"> Good</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="DarkBlue"> Good</font></b>/<b><font color="grey">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
                 <p><b>Range</b>: ?</p>
