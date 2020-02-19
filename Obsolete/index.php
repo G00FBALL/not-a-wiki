@@ -16,120 +16,120 @@
             <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brutal Diamond Smithing Machine R7+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Alignment</b>: Neutral
-                <p><b>Bloodline</b>: Elven
+                <p><b>Alignment</b>: Neutral</p>
+                <p><b>Bloodline</b>: Elven</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,SP:Diamond Pickaxe,SP:Fairy Chanting" id="Build">
-                <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,
-                <p>SP:Diamond Pickaxe,SP:Fairy Chanting
+                <p>FR3,FR4,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN7,</p>
+                <p>SP:Diamond Pickaxe,SP:Fairy Chanting</p>
                 <p><b>Spells</b>: Diamond Pickaxe, Fairy Chanting</p>
-                <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs, but is weaker than Diamond Forge.
-                <p><b>Author</b>: pseudobyte
+                <p><b>Note</b>: A compromise between Elven Farms and Diamond Forge, for something that sets up fast in early mercs, but is weaker than Diamond Forge.</p>
+                <p><b>Author</b>: pseudobyte</p>
             </div>
         </div>
           <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elven Farms R7-R16+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>2 builds</b>: Depending on gem count, look below.
-                <p><b>Alignment</b>: Neutral
-                <p><b>Bloodline</b>: Elf
+                <p><b>2 builds</b>: Depending on gem count, look below.</p>
+                <p><b>Alignment</b>: Neutral</p>
+                <p><b>Bloodline</b>: Elf</p>
                   <hr>
-                <p>1 Dc (1e33) to 100 Qid (1e50)
+                <p>1 Dc (1e33) to 100 Qid (1e50)</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,SP:Grand Balance,SP:Fairy Chanting" id="Build">
-                <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,
-                <p>SP:Grand Balance,SP:Fairy Chanting
-                <p>100 Qid (1e50)+, Assistant Legion upgrade
+                <p>EL3,EL7,GB1,TT6,TT9,DD1,DD4,DD5,DD9,FC4,DN3,DN7,</p>
+                <p>SP:Grand Balance,SP:Fairy Chanting</p>
+                <p>100 Qid (1e50)+, Assistant Legion upgrade</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,SP:Fairy Chanting,SP:Grand Balance" id="Build">
                   <hr>
-                <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,
-                <p>SP:Fairy Chanting,SP:Grand Balance
-                <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold.
-                <p><b>Range</b>: 1 Dc (1e33) to ?
-                <p><b>Important</b>: Do not buy the last farm upgrade.
-                <p><b>Note</b>: Buy all Royal Exchanges after each cast.
-                <p><b>Note</b>: Stronger than Diamond Forge, but disallows use of buy all as you have to make sure the weakest building is farms so Grand Balance targets it.
-                <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat.
-                <p><b>Note</b>: This build requires you to max Excavations.
-                <p><b>Author</b>: going2killu
+                <p>FR9,EL7,GB1,TT3,TT6,TT9,DD1,DD4,DD5,FC4,DN3,DN7,</p>
+                <p>SP:Fairy Chanting,SP:Grand Balance</p>
+                <p><b>Setup</b>: Fairy Chanting on Silver, Everything else on Gold.</p>
+                <p><b>Range</b>: 1 Dc (1e33) to ?</p>
+                <p><b>Important</b>: Do not buy the last farm upgrade.</p>
+                <p><b>Note</b>: Buy all Royal Exchanges after each cast.</p>
+                <p><b>Note</b>: Stronger than Diamond Forge, but disallows use of buy all as you have to make sure the weakest building is farms so Grand Balance targets it.</p>
+                <p><b>Note</b>: Run full combo 3-5 times then abdicate and repeat.</p>
+                <p><b>Note</b>: This build requires you to max Excavations.</p>
+                <p><b>Author</b>: going2killu</p>
             </div>
         </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Thunder Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: pseudobyte
-                <p><b>Alignment</b>: Neutral
-                <p><b>Bloodline</b>: Fairy
+                <p><b>Author</b>: pseudobyte</p>
+                <p><b>Alignment</b>: Neutral</p>
+                <p><b>Bloodline</b>: Fairy</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,SP:Lightning Strike,SP:Fairy Chanting" id="Build">
-                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,
-                <p>SP:Lightning Strike,SP:Fairy Chanting
-                <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.
-                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.
-                <p>This build is useful for idle periods where otherwise you would gain little gems, like overnight or while waiting for production sunforce. It require build up by autocasting Tax Collection until you have at least 6000 max mana in order to cast a max combo, at which point you are able to use this build like you would use Lightning Forge.
+                <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD5,DD9,FC4,DN3,DN7,</p>
+                <p>SP:Lightning Strike,SP:Fairy Chanting</p>
+                <p><b>Notes</b>: Mana Waste is required. Helden Streben Nicht and Mana Matrix are highly recommended.</p>
+                <p><b>Note</b>: Replace FR9 with DW8 when under Sunforce Assistant boost.</p>
+                <p>This build is useful for idle periods where otherwise you would gain little gems, like overnight or while waiting for production sunforce. It require build up by autocasting Tax Collection until you have at least 6000 max mana in order to cast a max combo, at which point you are able to use this build like you would use Lightning Forge.</p>
             </div>
         </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Moonshine R18+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
             <div class="autohide">
-                <p><b>Alignment</b>: Neutral
-                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)
+                <p><b>Alignment</b>: Neutral</p>
+                <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,SP:Moon Blessing,SP:Fairy Chanting" id="Build">
-                <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,
-                <p>SP:Moon Blessing,SP:Fairy Chanting
+                <p>FR3,FR4,GB1,TT1,TT6,TT9,DD1,DD4,DD5,DD9,DN7,DN8,</p>
+                <p>SP:Moon Blessing,SP:Fairy Chanting</p>
                 <p><b>Note</b>: For R3 to R9, requires "some excavations".</p>
                 <p><b>Note</b>: For R18+, requires "Star Blessing" Tier3 Elven challenge.</p>
                 <p><b>Requires</b>: 2 full casting to get full effect then abdicate or cast again</p>
                 <p><b>Note</b>: Cast TC only after casting Fairy Chanting for the second time</p>
-                <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)
-                <p>Fairy Chanting on gold everything else on silver no Tax Collection.
-                <p>Clicking manually will not bring any benefits (when using Elven Luck).
-                <p>Elven Luck is originally an Elven Faction Upgrade. But in this build, Elven Luck comes from the Star Blessing challenge which adds 5% chance to trigger Elven luck to Moon Blessing's clicks.
+                <p><b>Instructions & Notes</b>: (Credit goes to why_amihere and artcrow for improvement.)</p>
+                <p>Fairy Chanting on gold everything else on silver no Tax Collection.</p>
+                <p>Clicking manually will not bring any benefits (when using Elven Luck).</p>
+                <p>Elven Luck is originally an Elven Faction Upgrade. But in this build, Elven Luck comes from the Star Blessing challenge which adds 5% chance to trigger Elven luck to Moon Blessing's clicks.</p>
             </div>
         </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Very Bad Build R12-R13<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
-              <p><b>Author</b>: scwizard
-              <p><b>Requirements</b>: Mana Waste, Helden Sterben Nicht, KYE Part 1
-                <p><b>Alignment</b>: Evil
-                <p><b>Bloodline</b>: Titan
+              <p><b>Author</b>: scwizard</p>
+              <p><b>Requirements</b>: Mana Waste, Helden Sterben Nicht, KYE Part 1</p>
+                <p><b>Alignment</b>: Evil</p>
+                <p><b>Bloodline</b>: Titan</p>
                   <p><button onclick="myFunction($(this))">Copy Build</button>
                   <input type="text" value="GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,SP:Hellfire Blast,SP:Night Time" id="Build">
-                <p>GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,
-                <p>SP:Hellfire Blast,SP:Night Time
-                <p><b>Note</b>: 1 to 2 full combos then abdicate
+                <p>GB1,UD5,UD7,DM6,DM9,TT3,TT6,DD1,DD9,DN3,DN7,DW5,</p>
+                <p>SP:Hellfire Blast,SP:Night Time</p>
+                <p><b>Note</b>: 1 to 2 full combos then abdicate</p>
             </div>
         </div>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">100B FC Build R10+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
                 <div class="autohide">
-                    <p>Obsoleted as of 1.6.49 because of the reworking of Faceless Bloodline. Moved from Special Builds section on 3/21/2016.
-                    <p>Reported to get the 100B FC trophy in a matter of hours. Works with same instructions as Cast Frenzy.
-                    <p>Possibly obsoleted by IGOT a Need for Trophies with the Faceless bloodline. 1.5.46 has added a trophy for 1T FC and this build doesn't grow much after 1 day, so it doesn't scale well to 1T FC.
-                    <p><b>Range</b>: R10+
-                    <p><b>Requirements</b>: Priority Autocast, Fairy Chanting secret trophy, Coin Pillage trophy, Planned Autocasting (or better)
-                    <p><b>Alignment</b>: Neutral
-                    <p><b>Bloodline</b>: Faceless
-                    <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe
-                    <p><b>Tier 1 Upgrades</b>
-                    <p><b>Druid</b> (1,2): Animal Companions
-                    <p><b>Angel</b> (1,3): Angel Feathers
-                    <p><b>Elf</b> (1,1): Elven Mint
-                    <p><b>Dwarf</b> (1,2): Expert Masonry
-                    <p><b>Tier 2 Upgrades</b>
-                    <p><b>Elf</b> (2,1): Elven Emissary
-                    <p><b>Angel</b> (2,2): Angelic Wisdom
-                    <p><b>Druid</b> (2,3): Shapeshifting
-                    <p><b>Faceless</b> (2,2): Mitosis
-                    <p><b>Tier 3 Upgrades</b>
-                    <p><b>Fairy</b> (3,3): Swarm of Fairies
-                    <p><b>Elf</b> (3,1): Elven Diplomacy
-                    <p><b>Goblin</b> (3,1): Goblin Central Bank
-                    <p><b>Faceless</b> (3,1): Magical Treasure
-                    <p><b>Harlequin Bonus</b>: 343%
+                    <p>Obsoleted as of 1.6.49 because of the reworking of Faceless Bloodline. Moved from Special Builds section on 3/21/2016.</p>
+                    <p>Reported to get the 100B FC trophy in a matter of hours. Works with same instructions as Cast Frenzy.</p>
+                    <p>Possibly obsoleted by IGOT a Need for Trophies with the Faceless bloodline. 1.5.46 has added a trophy for 1T FC and this build doesn't grow much after 1 day, so it doesn't scale well to 1T FC.</p>
+                    <p><b>Range</b>: R10+</p>
+                    <p><b>Requirements</b>: Priority Autocast, Fairy Chanting secret trophy, Coin Pillage trophy, Planned Autocasting (or better)</p>
+                    <p><b>Alignment</b>: Neutral</p>
+                    <p><b>Bloodline</b>: Faceless</p>
+                    <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe</p>
+                    <p><b>Tier 1 Upgrades</b></p>
+                    <p><b>Druid</b> (1,2): Animal Companions</p>
+                    <p><b>Angel</b> (1,3): Angel Feathers</p>
+                    <p><b>Elf</b> (1,1): Elven Mint</p>
+                    <p><b>Dwarf</b> (1,2): Expert Masonry</p>
+                    <p><b>Tier 2 Upgrades</b></p>
+                    <p><b>Elf</b> (2,1): Elven Emissary</p>
+                    <p><b>Angel</b> (2,2): Angelic Wisdom</p>
+                    <p><b>Druid</b> (2,3): Shapeshifting</p>
+                    <p><b>Faceless</b> (2,2): Mitosis</p>
+                    <p><b>Tier 3 Upgrades</b></p>
+                    <p><b>Fairy</b> (3,3): Swarm of Fairies</p>
+                    <p><b>Elf</b> (3,1): Elven Diplomacy</p>
+                    <p><b>Goblin</b> (3,1): Goblin Central Bank</p>
+                    <p><b>Faceless</b> (3,1): Magical Treasure</p>
+                    <p><b>Harlequin Bonus</b>: 343%</p>
                     <p><b>Instructions</b>: Same as Cast Frenzy.</p>
                 </div>
             </div>
@@ -5968,7 +5968,7 @@
     </div>
 </div>
             </div>
-<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R125+-R160</a></b></p>
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R125-R160</a></b></p>
 <div class="category autohide">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Faceless<font color="DarkGoldenRod"> Neutral</font></a></b></p>
@@ -6579,6 +6579,470 @@
                     <p>A1,A120,A175,A410,A590,</p>
                     <p>W50,W205,W405,W520</p>
                     <p><b>Notes</b>: Growth build, several hours set up time.</p>
+         </div>
+    </div>
+      </div>
+<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R160+</a></b></p>
+<div class="category autohide">
+    <p><b>Production Builds</b></p>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (R160-R170)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
+                <p><b>Faction</b>: Titan</p>
+                <p><b>Bloodline</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Dragon</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S300,S1450,S3200,S200,S400,S30,S305,C251,C375,C1300,C1500,C400,C340,C250,C150,C200,D350,D1125,D200,D330,D1375,D290,D3350,E275,E1225,E135,E400,E1425,E1325,E145,A1200,A400,A270,A120,A3400,A545,W260,W1400,W1375,W1275,W180,W400,W150" id="Build"></p>
+                <p>S300,S1450,S3200,S200,S400,S30,S305</p>
+                <p>C251,C375,C1300,C1500,C400,C340,C250,C150,C200,</p>
+                <p>D350,D1125,D200,D330,D1375,D290,D3350,</p>
+                <p>E275,E1225,E135,E400,E1425,E1325,E145,</p>
+                <p>A1200,A400,A270,A120,A3400,A545,</p>
+                <p>W260,W1400,W1375,W1275,W180,W400,W150</p>
+                <p><b>After Archon treaty</b>: Reimport Build and after each new research slot opens.</p>
+                <p><b>Note</b>: Build is listed in order of purchase.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Merc Rush (R170+) 0 - 1e68 (100 Uvg)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Requirement</b>: Mercenary Duel</p>
+                <p><b>Range</b>: 0 - 1e68 (100 Uvg) Gems</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E400,E3300,A120,A2950,W1375,W3050," id="Build"></p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E400,A120,A2950,W275,W3050," id="Build"> After Buffs</p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
+                <p>S400,S2875,</p>
+                <p>C340,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E400,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W1375,W3050,</p>
+                <p><b>Note</b>: Requires no prior buildup or buffing, should be able to rush to around R175+</p>
+                <p><b>Note</b>: Later on buff S400, Excavations + resets, clicks and W275</p>
+                <p><b>Note</b>: After buffs, switch W1375 -> W275, Fairy Chanting -> Grand Balance and don't take E3300 to let HoL benefit from DGC2.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Demons (R171+) 1e68 (100 Uvg)+ </a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: B3nSono</p>
+                <p><b>Range</b>: 1e68 (100 Uvg) Gems+</p>
+                <p><b>Faction</b>: Demon</p>
+                <p><b>Bloodline</b>: Demon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S435,S3200,C50,C340,D10,D290,D560,E230,E400,E495,A25,A400,A410,W1,W175,W205,W405,W520,W590" id="Build"></p>
+                  <p>S435,S3200,</p>
+                  <p>C50,C340,</p>
+                  <p>D10,D290,D560,</p>
+                  <p>E230,E400,E495,</p>
+                  <p>A25,A400,A410,</p>
+                  <p>W1,W175,W205,W405,W520,W590</p>
+                  <p><b>Notes</b>: Have Drow Union target Burning Abyss and wait.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">"The Master Plan" Demonline Merc 1e75 (1 Qavg)+</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Heyitsdross</p>
+                <p><b>Requirement</b>: Mercenary Duel, 1d 16h time this Reincarnation</p>
+                <p><b>Range</b>: 1e75 (1 Qavg) Gems+ </p>
+                <p><b>Alignment</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Demon</p>
+                <p><b>A2950</b>: Archon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A120,A270,A2950,W175,W275,W3050,S590,C590,D330,E1325,A3400,W400" id="Build">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,S200,S2875,S3200,C340,C400,C3000,D275,D290,D2775,E230,E400,E3300,A270,A495,A2950,W175,W1275,W3050,S590,C590,D330,E1325,A3400,W400" id="Build">
+						W175 is buffed
+					</p>
+                <p>TT3,EL3,EL7,AN5,UD10,GB4,GB7,DD11,FC7,DN2,DW6,DW12,DJ3,DJ5,DJ7,DJ12,</p>
+                <p>SP:Grand Balance,SP:Limited Wish,UB:Flesh Workshop,UNN:DM,</p>
+                <p>S200,S2875,S3200,</p>
+                <p>C340,C400,C3000,</p>
+                <p>D275,D290,D2775,</p>
+                <p>E230,E400,E3300,</p>
+                <p>A120,A270,A2950,</p>
+                <p>W175,W275,W3050</p>
+                <p><b>Archon Bloodline +2</b>: S590,C590,D330,E1325,A3400,W400</p>
+                <p><b>Note</b>: Any further AR bloodline picks should maximize spell length, DJ3, FC chance, or raw prod, in that order</p>
+                <p><b>Note</b>: A120 -> A495, W275 -> W1275 if W175 is buffed (?)</p>
+                <p><b>Buff</b>: Mana produced (this R), Spells cast (this R); 8d 16h time this R lifts all A nerfs from DDC4 and Demon Lineage.</p>
+            </div>
+        </div>
+    <br/>
+    <p><b>Mercenary Duel Unlock</b></p>
+    <p><b>This can be done at R160 but is super easy to reach R170.</b></p>
+    <p><b>Do builds in the order listed.</b></p>
+    <p><b>All builds are based on online time.</b></p>
+    <p><b>All builds tested at R170 with Lineage Level 50.</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (Clicks)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Range</b>: 0 Gems+</p>
+                <p><b>Faction</b>: Druid</p>
+                <p><b>Bloodline</b>: Elf</p>
+                <p><b>Artifact Set</b>: Druid</p>
+                <p><b>2nd Artifact Set</b>: Elf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S400,S1450,C300,C400,C1300,D275,D290,D1125,E145,E260,E1225,A251,A375,A1200,A3400,A1500,W350,W1375,W1400" id="Build"></p>
+                <p>S400,S1450,</p>
+                <p>C300,C400,C1300,</p>
+                <p>D275,D290,D1125,</p>
+                <p>E145,E260,E1225,</p>
+                <p>A251,A375,A1200,A3400,A1500,</p>
+                <p>W350,W1375,W1400</p>
+                <p><b>Note</b>: Estimated time 22-23 hours.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angeline Demons (Assistants)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: rellikrellik</p>
+                <p><b>Range</b>: 1e40 (10 Dd) Gems+</p>
+                <p><b>Faction</b>: Demon</p>
+                <p><b>Bloodline</b>: Angel</p>
+                <p><b>Artifact Set</b>: Demon</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S435,S3200,C50,C340,D10,D560,D1375,E230,E400,E495,A25,A400,A410,W1,W135,W175,W405,W520,W590" id="Build"></p>
+                  <p>S435,S3200,</p>
+                  <p>C50,C340,</p>
+                  <p>D10,D560,D1375,</p>
+                  <p>E230,E400,E495,</p>
+                  <p>A25,A400,A410,</p>
+                  <p>W1,W135,W175,W405,W520,W590</p>
+                  <p><b>Notes</b>: Make sure that Drow Union is targetting Burning Abyss for production.</p>
+                  <p><b>Note</b>: Estimated time 1-5 hours.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Goblin (Spells)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: MLGscrub</p>
+                <p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
+                <p><b>Faction</b>: Goblin</p>
+                <p><b>Bloodline</b>: Demons</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>2nd Artifact Set</b>: Goblin</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E400,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
+                <p>S50,S435,S3200,</p>
+                <p>C175,C340,</p>
+                <p>D290,D560,</p>
+                <p>E1,E225,E400,E495,E590,</p>
+                <p>A10,A400,A410,</p>
+                <p>W25,W205,W405,W520</p>
+                <p><b>Note</b>: Do Clicks and Assistants first.</p>
+                <p><b>Note</b>: Estimated time 19 hours.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gobline Fairy (Buildings)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Necrodoom, Curunur</p>
+                <p><b>Range</b>: 1e53 (100 Sxd)</p>
+                <p><b>Faction</b>: Fairy</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S1,S180,S590,S3200,C10,C400,C405,C520,D225,D245,D435,E50,E135,E410,A30,A120,A495,W560,W1375" id="Build"></p>
+                <p>S1,S180,S590,S3200,</p>
+                <p>C10,C400,C405,C520,</p>
+                <p>D225,D245,D435,</p>
+                <p>E50,E135,E410,</p>
+                <p>A30,A120,A495,</p>
+                <p>W560,W1375</p>
+                <p><b>Note</b>: Instant after setup.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (Faction Coins)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Waffle</p>
+                <p><b>Range</b>: 1e53 (100 Sxd)</p>
+                <p><b>Faction</b>: Goblin</p>
+                <p><b>Bloodline</b>: Elf</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>2nd Artifact Set</b>: Dwarf</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S50,S435,S3200,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520" id="Build"></p>
+                <p>S50,S435,S3200,</p>
+                <p>C175,C400,</p>
+                <p>D290,D560,</p>
+                <p>E1,E225,E320,E495,E590,</p>
+                <p>A10,A400,A410,</p>
+                <p>W25,W205,W405,W520</p>
+                <p><b>Note</b>: Do Clicks, Assistants and Spells before this build.</p>
+                <p><b>Note</b>: Estimated time 5 minutes.</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Buff Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e50 (100 Qid) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,S400,S2875,C340,C3000,D290,D2775,E1325,E3300,A120,A2950,W1375,W3050" id="Build"></p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,S400,S2875,C340,C3000,D290,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"> Buffed W275</p>
+                <p>EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,</p>
+                <p>FC2,FC7,DN2,DW6,AR2,AR10,DJ9,MK5,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AN,</p>
+                <p>S400,S2875,</p>
+                <p>C340,C3000,</p>
+                <p>D290,D2775,</p>
+                <p>E1325,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W1375,W3050</p>
+                <p><b>Note</b>: Buff clicks, excavations and resets beforehand.</p>
+                <p><b>Note</b>: Use W275 if buffed.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Spells (Grower)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Fair_Play</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Archon</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL7,AN5,AN8,AN12,GB7,TT3,TT10,DD6,FC2,FC11,DN2,DW6,AR2,AR10,DJ9,MK5,SP:Fairy Chanting,SP:Limited Wish,UB:Mountain Palace,UNN:AR,S2875,S200,S400,S3200,S330,C3000,C590,C400,C3100,C250,D2775,D200,D330,D275,D290,E1325,E135,E320,E400,A2950,A120,A270,A3400,A1500,W3050,W275,W1275,W1400,W400" id="Build"></p>
+                <p>EL7,AN5,AN8,AN12,GB7,TT3,TT10,DD6,</p>
+				<p>FC2,FC11,DN2,DW6,AR2,AR10,DJ9,MK5,</p>
+				<p>SP:Fairy Chanting,SP:Limited Wish,UB:Mountain Palace,UNN:AR,</p>
+                <p>S2875,S200,S400,S3200,S330,</p>
+                <p>C3000,C590,C400,C3100,C250,</p>
+                <p>D2775,D200,D330,D275,D290,</p>
+                <p>E1325,E135,E320,E400,</p>
+                <p>A2950,A120,A270,A3400,A1500,</p>
+                <p>W3050,W275,W1275,W1400,W400</p>
+				<p><b>Note</b>: For 1 day+ runtime. Otherwise, use the above build.</p>
+				<p><b>Note</b>: Build lacks E3300 intentionally (Buffs W1275).</p>
+				<p><b>Note</b>: Reimport Build and after each new research slot opens (Keep an eye out for Limited Wish: Spell Duration).</p>
+                <p><b>Note</b>: Buff max assistants, clicks, excavations and resets beforehand.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants</b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Chaos Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,DW12,AR2,AR5,AR10,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:DN,S400,S2875,C400,C3000,D290,D2775,E1325,E3300,A120,A2950,W1375,W3050" id="Build"></p>
+                  <p>EL1,EL7,AN5,AN12,GB7,TT10,DD4,FC2,</p>
+                  <p>FC7,DN2,DW6,DW12,AR2,AR5,AR10,DJ9,</p>
+                  <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:DN,</p>
+                  <p>S400,S2875,</p>
+                  <p>C400,C3000,</p>
+                  <p>D290,D2775,</p>
+                  <p>E1325,E3300,</p>
+                  <p>A120,A2950,</p>
+                  <p>W1375,W3050</p>
+                  <p><b>Notes</b>: Buff excavations and resets, spells cast, clicks beforehand.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Clicks</a></b><b><font color="blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik, KuraTheDog</p>
+                <p><b>Range</b>: 1e55 (10 Spd) Gems+</p>
+                <p><b>Alignment</b>: Good/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Djinn</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL4,EL7,EL11,AN6,AN8,AN12,GB4,FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,S1275,S2875,C590,C3000,D290,D2775,E400,E3300,A120,A2950,W1400,W3050" id="Build"></p>
+                <p>EL3,EL4,EL7,EL11,AN6,AN8,AN12,GB4,</p>
+                <p>FC7,DN2,DW2,DW12,AR5,AR10,MK1,DJ7,</p>
+                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Arboreal City,UNN:EL,</p>
+                <p>S1275,S2875,</p>
+                <p>C590,C3000,</p>
+                <p>D290,D2775,</p>
+                <p>E400,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W1400,W3050</p>
+				 <p><b>Notes</b>: Estimated time to God's Fingers is 46 days with Elven Lineage level 70.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: ?</p>
+                <p><b>Range</b>: 1e65 (100 Vg) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,S400,S2875,C340,C3000,D275,D2775,E290,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
+                <p>S400,S2875,</p>
+                <p>C340,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E290,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050,</p>
+                <p><b>Notes</b>: Don't take E3300 to let HoL benefit from DGC2.</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Lineage Builds</b></p>
+    <p><b>All Lineage Builds need Clicks buffed</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Rush</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Kuerti</p>
+                <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,DD4,FC2,FC7,DN2,DW6,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,S2875,S3200,C3000,C3100,D275,D2775,E320,E3300,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL1,EL7,EL11,AN5,AN12,GB7,DD4,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,</p>
+                <p>S2875,S3200,</p>
+                <p>C3000,C3100,</p>
+                <p>D275,D2775,</p>
+                <p>E320,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050</p>
+                <p><b>Note</b>: Buff W275, excavations and resets beforehand.</p>
+                <p><b>Note</b>: May get to L70 quicker than the growth build below.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Pusher, Growth (L70+)</b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Archon</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:AR,S2875,C3000,D2775,E3300,A2950,W3050,S200,S400,S1500,S330,C400,C3100,C250,C340,D290,D200,D330,D275,E135,E1325,E320,E145,A120,A3400,A1500,A270,W275,W1400,W1375,W1275" id="Build"></p>
+                  <p>EL1,EL7,EL11,AN5,AN12,GB4,GB7,TT10,</p>
+                  <p>FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,</p>
+                  <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:AR,</p>
+                  <p>S2875,C3000,D2775,E3300,A2950,W3050,</p>
+                  <p><b>Extra Research Slots</b>: 2d and 6d
+                  <p>S200,S400,S1500,S330,</p>
+                  <p>C400,C3100,C250,C340,</p>
+                  <p>D290,D200,D330,D275,</p>
+                  <p>E135,E1325,E320,E145,</p>
+                  <p>A120,A3400,A1500,A270,</p>
+                  <p>W275,W1400,W1375,W1275</p>
+                  <p><b>Notes</b>: Reimport build after each new research slot opens</p>
+                  <p><b>Notes</b>: Buff excavations and resets, S400, W275 beforehand.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secondary Lineage Leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+                <p><b>Range</b>: 1e63 (1 Vg) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Any/All</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:GB,S400,S2875,C400,C3000,D275,D2775,E1325,E3300,A120,A2950,W275,W3050" id="Build"></p>
+                <p>EL1,EL7,EL11,AN5,AN12,GB7,TT10,DD4,</p>
+                <p>FC2,FC7,DN2,DW6,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Mountain Palace,UNN:GB,</p>
+                <p>S400,S2875,</p>
+                <p>C400,C3000,</p>
+                <p>D275,D2775,</p>
+                <p>E1325,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W275,W3050</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Artifact Builds</b></p>
+    <div class="category">
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Apeiron/True Harlequin</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: somarilnos</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,A2950,C340,C400,E290,E400,E135,E145,E1325,A120,S400,D200,D275,D290,W275,W400" id="Build"></p>
+                <p>FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,</p>
+                <p>FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace</p>
+                <p>S400,</p>
+                <p>C340,C400,</p>
+                <p>D200,D275,D290,</p>
+                <p>E290,E400,E135,E145,E1325,</p>
+                <p>A2950,A120,</p>
+                <p>W275,W400</p>
+                <p><b>Note</b>: Research depends on whether you've drummed up the artifacts.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Vault</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Marah</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Titan</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                    <p><button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:God's Hand,SP:Goblin's Greed,UB:Mountain Palace,UNN:EL,S200,S400,S435,S590,S1500,S2875,C25,C105,C340,C400,C590,C1500,C3000,D150,D275,D290,D2775,E25,E30,E135,E145,E275,E290,E320,E400,E460,E480,E590,E1325,E1425,A55,A105,A120,A250,A375,A590,A1500,A2950,W25,W120,W150,W180,W200,W275,W590,W1375,W3050" id="Build"></p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
+                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>SP:God's Hand,SP:Goblin's Greed,UB:Mountain Palace,UNN:EL</p>
+                <p>S200,S400,S435,S590,S1500,S2875,</p>
+                <p>C25,C105,C340,C400,C590,C1500,C3000,</p>
+                <p>D150,D275,D290,D2775,</p>
+                <p>E25,E30,E135,E145,E275,E290,E320,E400,E460,E480,E590,E1325,E1425,</p>
+                <p>A55,A105,A120,A250,A375,A590,A1500,A2950,</p>
+                <p>W25,W120,W150,W180,W200,W275,W590,W1375,W3050</p>
+            </div>
          </div>
     </div>
       </div>
