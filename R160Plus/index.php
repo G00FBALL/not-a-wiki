@@ -209,7 +209,7 @@
                   <p>A30,A120,A270,A305,A400,A545,A55,A105,A135,A150,A200,A250,A330,A480,</p>
                   <p>W180,W400,W1275,W1375,W250</p>
                   <p><b>Notes</b>: Do clicks first.</p>
-                  <p><b>Note</b>: Several minutes.</p>
+                  <p><b>Note</b>: Estimated time several minutes.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -228,7 +228,7 @@
                 <p>E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,</p>
                 <p>A30,A55,A105,A120,A150,A250,A270,A305,A330,A400,A495,A545,</p>
                 <p>W120,W135,W150,W180,W250,W330,W400,W560,W1375</p>
-                <p><b>Note</b>: Instant after setup.</p>
+                <p><b>Note</b>: Estimated time Instant after setup.</p>
             </div>
         </div>
     </div>
