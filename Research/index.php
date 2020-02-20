@@ -153,7 +153,7 @@
                     <p><b>Requirement</b>: R175, Evil Alignment</p>
                     <p><b>Chance</b>: (log10(x) ^ 3 / 20000), where x is the number of Assistants. (base and temporary, not invisible)</p>
                     <p><b>Effect</b>: Gives upgrade with same name</p>
-                    <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
+                    <p><b>Upgrade Requirement</b>: Forgotten Relic, Battlefield artifact and upgrade.</p>
                     <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 2500.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Demon Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>

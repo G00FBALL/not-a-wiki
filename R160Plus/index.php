@@ -176,7 +176,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (Clicks and FC)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: 7636kei/Youkai Battalion</p>
+                <p><b>Author</b>: 7636kei</p>
                 <p><b>Range</b>: End of R170</p>
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Elf</p>
