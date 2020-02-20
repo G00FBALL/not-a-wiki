@@ -27,7 +27,7 @@
                 <p>E1,E135,E145,E200,E320,E400,E460,E495,E1325,</p>
                 <p>A10,A55,A105,A120,A135,A150,A200,A250,A270,A305,A330,A400,A410,A545,</p>
                 <p>W25,W135,W205,W400,W1275,W1375</p>
-                <p><b>Note</b>: For 1e18 spells: at R170 e47 gems, 31 excav resets, estimated time: 5~7 hours</p>
+                <p><b>Note</b>: For 1e18 spells: at R170 e45 gems, estimated time: 5~7 hours</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -170,7 +170,7 @@
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
-    <p>Tested at end of R170 with e45 gems, Lineage 50</p>
+    <p>Tested at end of R170 with e45 gems</p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (Clicks and FC)</a></b></p>
@@ -189,7 +189,7 @@
                 <p>E30,E135,E145,E250,E290,E320,E400,E460,E1425,</p>
                 <p>A105,A120,A250,A270,A305,A400,A545,A1500,</p>
                 <p>W135,W150,W400,W1375,W1400</p>
-                <p><b>Note</b>: Estimated time 18-20 hours, remember to buff IS and Faceset beforehand.</p>
+                <p><b>Note</b>: Estimated time 18-20 hours, remember to buff Infinite Spiral during the run (6-10 Excavation Resets)</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -209,7 +209,7 @@
                   <p>A30,A120,A270,A305,A400,A545,A55,A105,A135,A150,A200,A250,A330,A480,</p>
                   <p>W180,W400,W1275,W1375,W250</p>
                   <p><b>Notes</b>: Do clicks first.</p>
-                  <p><b>Note</b>: Estimated instant after setup.</p>
+                  <p><b>Note</b>: Several minutes.</p>
             </div>
         </div>
         <div class="shelementwhole">
