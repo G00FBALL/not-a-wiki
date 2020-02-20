@@ -171,6 +171,7 @@
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
     <p>Tested at end of R170 with e45 gems</p>
+    <p>For spells use the Demonline Goblin build above</p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Druids (Clicks and FC)</a></b></p>
