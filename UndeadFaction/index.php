@@ -31,7 +31,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheWalkingDeadFactionUpgrade.png" alt="Smiley face" align="middle"> The Walking Dead</b></p>
         <p><b>Cost</b>: 50 M (5E7)</p>
-        <p><b>Effect</b>: Increase the production of Necropolises by 5000%.</p>
+        <p><b>Effect</b>: Increase the production of Necropolises by 7500%.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" alt="Smiley face" align="middle"> Deadened Muscles</b></p>
         <p><b>Cost</b>: 500 M (5E8)</p>
