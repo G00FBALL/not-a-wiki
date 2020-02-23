@@ -381,19 +381,19 @@
 				<p><b>Requirement</b>: Primal Balance +10 (use Mana Breeder Reactor build to do this)</p>
 				<p><b>Range</b>: 1e129 (1 Dqag) Gems+</p>
 				<p><b>Faction</b>: Good Mercenary</p>
-				<p><b>Bloodline</b>: Elf</p>
-				<p><b>A2950</b>: Dragon</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>A2950</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="DN2,GB1,DD1,DG3,AN5,TT6,DD6,DG4,EL7,DD7,DD9,DG9,MA:AN2,SP:Grand Balance,SP:Dragon's Breath,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E135,E350,E410,E460,E1225,E3300,A105,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
+					<input type="text" value="DN2,AN2,EL3,DG3,AN5,TT6,DD5,DG4,EL7,DD7,FC7,DG9,MA:DN8,SP:Grand Balance,SP:Dragon's Breath,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E135,E350,E410,E460,E1225,E3300,A105,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="DN2,GB1,DD1,DG3,AN5,TT6,DD6,DG4,EL7,DD7,DD9,DG9,MA:AN2,SP:Grand Balance,SP:Dragon's Breath,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E135,E290,E350,E410,E1225,E3300,A105,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
+					<input type="text" value="DN2,AN2,EL3,DG3,AN5,TT6,DD5,DG4,EL7,DD7,FC7,DG9,MA:DN8,SP:Grand Balance,SP:Dragon's Breath,S215,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,C3100,D25,D290,D525,D1275,D1375,D2775,E135,E290,E350,E410,E1225,E3300,A105,A120,A270,A1500,A2950,A3400,W10,W25,W1275,W1400,W3050,W3150">
 					<b>E290</b>
 				</p>
-				<p>DN2,GB1,DD1,DG3,AN5,TT6,DD6,DG4,EL7,DD7,DD9,DG9,MA:AN2,</p>
-				<p>SP:Grand Balance,SP:Dragon's Breath,</p>
+				<p>DN2,AN2,EL3,DG3,AN5,TT6,DD5,DG4,EL7,DD7,FC7,DG9,MA:DN8,</p>
+				<p>SP:Grand Balance,SP:Moon Blessing,</p>
 				<p>S215,S305,S330,S1275,S1450,S1500,</p>
 				<p>C225,C340,C590,C1300,C3000,C3100,</p>
 				<p>D25,D290,D525,D1275,D1375,D2775,</p>
