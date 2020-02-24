@@ -5,17 +5,18 @@
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/ShopTopPage.png"></h6>
     <p>Premium Upgrades are available to purchase for Kreds, Kongregate's premium currency, that can be purchased for real money in the "Shop" tab. Some of these give permanent bonuses that persist as long as you are logged into your Kongregate account, while others are one-time boosts.</p>
+    <p>Premium Upgrades can be purchased on steam for real money in the "Shop".</p>
     <h5>Permanent Upgrades</h5>
     <p>These upgrades persist through Abdications, Reincarnations, and even hard resets They are linked to your Kongregate account and you must be logged in for them to work.</p>
     <p>The Gift bonuses can be turned off in the options (which can be necessary to unlock some Secret Trophies).</p>
     <p><b>Note</b>: All bonuses are multiplicative with each other.</p>
     <p><b>Note</b>: All gifts are multiplicative.</p>
-    <p><b>Note</b>: All 3 gifts = 8.41x prod bonus.</p>
-    <p><b>Note</b>: All 3 gifts = 10% mana regen.</p>
-    <p><b>Note</b>: All 3 gifts = x1.26 FC chance.</p>
+    <p><b>Note</b>: All 3 gifts = 8.41x production bonus.</p>
+    <p><b>Note</b>: All 3 gifts = 10% mana regeneration.</p>
+    <p><b>Note</b>: All 3 gifts = x1.26 Faction Coin chance.</p>
     <p><b>Note</b>: All 3 gifts =  x42.875 offline bonus.</p>
-    <p><b>Note</b>: All 3 gifts =  +0.5 addive mana regen.</p>
-    <p><b>Note</b>: All 3 gifts =  +2 clicks per sec.</p>
+    <p><b>Note</b>: All 3 gifts =  +0.5 additive mana regeneration.</p>
+    <p><b>Note</b>: All 3 gifts =  +2 clicks per second.</p>
     <p><b>Note</b>: Each gift gives 250% offline production.</p>
     <hr>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/EventSale.png" alt="Event Sale" align="middle"> Event Sale</b></p>
@@ -411,8 +412,6 @@
             </div>
         </div>
     </div>
-
-
     <hr>
     <h5>One-Use Upgrades</h5>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/Timewarp12Hours.png" alt="Timewarp 12 Hours" align="middle"> Timewarp 12 Hours</b>.</p>
