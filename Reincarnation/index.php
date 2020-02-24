@@ -521,20 +521,4 @@
             </div>
         </div>
     </div>
-    <hr>
-    <p><b>Tips</b></p>
-    <p>There are many paths you can take to progress, there is no "one correct path". Each player finds their own path, adapted to their play-style and personal progress bonuses. Trying to find your own path is the best way to learn and understand each faction.</p>
-    <p>The below steps are an example guideline but I would encourage players to step out of the guide, try all factions and note down which factions work best at which gem amounts to create your personal path.</p>
-    <p>In general when things get slow, optimize your runs by doing build-up runs using special builds. (eg: Run "Foreplay" or "Everything is Awesome" merc builds to optimize your click total or your Faceless Heritage.)</p>
-    <p><b>1-3 Reincarnations</b></p>
-    <p>0 Gems: Try Elf for at least the first run, for their high Faction Coin Find chance.</p>
-    <p>Around 1 T (1E12) gems, try Titan, Druid.</p>
-    <p><b>In R0</b>: you'll want fairy to unlock Drow/Dwarf (if you want it as early as possible) and then dwarf/elf for max profit</p>
-    <p>Around 100 Qi (1E20) gems, try Fairy into Dwarf (Dwairies). Angel / Dwarf (Dwangels) also work well for those wishing to cast lots of spells fast and stack bonuses from them.</p>
-    <p><b>3-12 Reincarnations</b></p>
-    <p>Play as the above, Once you have reached No (1E32) gems, you are ready to try the Mercenary Faction. See Merc Builds and why_amihere's <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245-guide-for-r0-starting-realm-grinder?page=1#posts-9738076/"><b>guide</b></a>.</p>
-    <p><b>13-16 Reincarnations</b></p>
-    <p>Vg -Dvg Many Mercenary builds will start slowing down. Do not panic.</p>
-    <p>Lightning Forge will still be one of the fastest choice, but requires constant activity. Elven Farms and Diamond Forge will get you to Dvg a bit slower, but Diamond Forge can be almost entirely idled, which makes them better choices for a lot of players.</p>
-    <p>Around Dvg - Tvg, things become really very slow. If you aren't fed up. Lightning Forge still has potential for active players. Hopefully, this is the last stretch to research! (min 1 Tvg required).</p>
 <?php include "../scripts/footer.html"; ?>
