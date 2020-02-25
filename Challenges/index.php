@@ -148,7 +148,7 @@
     <area href="http://musicfamily.org/realm/Angel/#AngelAC3" target="" research=
 	"<p><b>Angel Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/Nephilim'sBlessingChallenges.png align=middle> <b>Nephilim's Blessing</b></p>
-	<p>&quot;The fallen nephilim have noticed your abilities and have entrusted you with a secret mission: Spread false hope upon the legends of mortals.&quot;</p>
+	<p>The fallen nephilim have noticed your abilities and have entrusted you with a secret mission: Spread false hope upon the legends of mortals.</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 18+, Demon Bloodline, Angel Unique Building, Angel challenge 2 completed.</p>
 	<p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Have 2000 Halls of Legends, and no good buildings.</p>
