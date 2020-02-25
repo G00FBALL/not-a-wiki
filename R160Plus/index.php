@@ -85,11 +85,11 @@
                 <p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> </p>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> </p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,MK10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> 8h+ This R</p>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,MK10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> 8h+ This R</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:AR,S200,S500,S5875,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> Archon Union</p>
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:AR,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> Archon Union</p>
                 <p>EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,</p>
 				<p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,</p>
                 <p>S200,S500,S5875,S330,S150,</p>
@@ -114,8 +114,6 @@
                 <p><b>Range</b>: e70-ish(?) to 1e86</p>
                 <p><b>Alignment</b>: Fairy</p>
                 <p><b>Bloodline</b>: Faceless</p>
-                <p><b>A2950</b>: Faceless</p>
-                <p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S1,S200,S400,S5375,C10,C105,C340,C400,C5125,D150,D200,D5625,E30,E50,E135,E145,E5625,A30,A55,A120,A270,A400,A5125,W120,W150,W180,W400,W5125,F5500" id="Build"></p>
