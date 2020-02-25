@@ -153,7 +153,7 @@
 	<p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Have 2000 Halls of Legends, and no good buildings.</p>
 	<p><b>Effect</b>: Halls of Legends benefit from any Certificate, Validation, Affirmation or Proclamation upgrade.</p>
-  </p><p><b>Upgrade</b>: Works with All</p>"
+  <p><b>Upgrade</b>: Works with All</p>"
 	coords="200,255,251,308" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
