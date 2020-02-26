@@ -23,7 +23,7 @@
         <p><b>Clue</b>: Rarely found in the pyramids of old.</p>
         <p><b>Description</b>: You found the rarest of relics. This golden scarab will grant you 7 days of good luck, starting from now. Make good use of it.</p>
         <p><b>Effect</b>: Awards an upgrade of the same name that increases the production of all buildings by 0.1% for each trophy you unlocked.</p>
-        <p><b>Chance</b>: (#Ancient Pyramids)% / 1000.</p>
+        <p><b>Chance</b>: (#Ancient Pyramids)% / 1,000.</p>
         <p><b>Cost</b>: 7 Td (7E42)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateCookie.png alt=Chocolate Cookie align=middle> <b>Chocolate Cookie</b></p>
@@ -37,7 +37,7 @@
         <p><b>Effect</b>: Awards an upgrade of the same name.</p>
         <p><b>Effect</b>: Increase clicking reward based on the amount of artifacts you discovered.</p>
         <p><b>Formula</b>: (10 * x), where x is number of artifacts you discovered.</p>
-        <p><b>Chance</b>: (# Treasure clicks this R / 5,000,000)%</p>
+        <p><b>Chance</b>: (# Treasure clicks this R / 5,000,000 (5M))%</p>
         <p><b>Cost</b>: 100 Qid (1E50)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/PowerOrb.png alt=Power Orb align=middle> <b>Power Orb</b></p>
@@ -66,13 +66,13 @@
         <p><b>Clue</b>: Requires extreme amounts of luck!</p>
         <p><b>Description</b>: A perfectly shaped four leaf clover. Each leaf is almost unnaturally identical to the other three.</p>
         <p><b>Requirement</b>: Play as Elven (Not Dwarf)</p>
-        <p><b>Chance</b>: (Highest # of consecutive Elven Luck-1) * 50)%</p>
+        <p><b>Chance</b>: (Highest # of consecutive Elven Luck - 1) * 50)%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/Mini-treasure.png alt=Smiley face align=middle> <b>Mini-treasure</b></p>
         <p><b>Clue</b>: Click your way to the treasure!</p>
         <p><b>Description</b>: It's a small perfect replica of our gold-filled treasure.</p>
         <p><b>Requirement</b>: Play as Elven (Not Dwarf)</p>
-        <p><b>Chance</b>: (# Clicks this game / 3,000,000)%</p>
+        <p><b>Chance</b>: (# Clicks this game / 3,000,000 (3M))%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/Pillarfragment.png alt=Smiley face align=middle> <b>Pillar Fragment</b></p>
         <p><b>Clue</b>: May fall from the Heavens.</p>
@@ -90,7 +90,7 @@
         <p><b>Clue</b>: Rarely found among other special coins.</p>
         <p><b>Description</b>: A common goblin lucky charm. The older it is, the luckier you are, or so they say.</p>
         <p><b>Requirement</b>: Play as Goblin (Not Drow)</p>
-        <p><b>Chance</b>: (#Faction Coins this R# / 50,000,000)%</p>
+        <p><b>Chance</b>: (#Faction Coins this R# / 50,000,000 (50M))%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/GoblinPurse.png alt=Artifacts align=middle> <b>Goblin Purse</b></p>
         <p><b>Clue</b>: Fill your pockets with extorted money.</p>
@@ -108,7 +108,7 @@
         <p><b>Clue</b>: Needs some time off.</p>
         <p><b>Description</b>: A jaw, missing more than half of its teeth.</p>
         <p><b>Requirement</b>: Play as Undead (Not Drow) +24h offline (This R)</p>
-        <p><b>Chance</b>: (Offline playtime this R / 10d)%</p>
+        <p><b>Chance</b>: (Offline playtime this R / 864,000 (10 days))%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DemonicFigurine.png alt=Artifacts align=middle> <b>Demonic Figurine</b></p>
         <p><b>Clue</b>: Look for the trophies of the beast.</p>
@@ -126,13 +126,13 @@
         <p><b>Clue</b>: Struck by the lightning.</p>
         <p><b>Description</b>: The granite representation of a giant wielding a lightning bolt in its fist. A foot appears to be missing.</p>
         <p><b>Requirement</b>: Play as Titan (Not Dragon)</p>
-        <p><b>Chance</b>: (Lightning Strike Casts this game / 1000)%</p>
+        <p><b>Chance</b>: (Lightning Strike Casts this game / 1,000)%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/TitanShield.png alt=Artifacts align=middle> <b>Titan Shield</b></p>
         <p><b>Clue</b>: Don't fret it.</p>
         <p><b>Description</b>: A gargantuan metal shield, twice as tall as a common human.</p>
         <p><b>Requirement</b>: Play as Titan (Not Dragon) +10h playtime (This game)</p>
-        <p><b>Chance</b>: (Playtime this game / 50h)%</p>
+        <p><b>Chance</b>: (Playtime this game / 180,000 (50 Hours))%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/GlyphTable.png alt=Artifacts align=middle> <b>Glyph Table</b></p>
         <p><b>Clue</b>: Balance your buildings.</p>
@@ -156,7 +156,7 @@
         <p><b>Clue</b>: Found in the Labyrinths.</p>
         <p><b>Description</b>: A large helmet with empty metal prongs to accomodate tentacular appendages.</p>
         <p><b>Requirement</b>: Play as Faceless (Not Dragon)</p>
-        <p><b>Chance</b>: (# Labyrinths / 2000)%</p>
+        <p><b>Chance</b>: (# Labyrinths / 2,000)%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DwarvenBow.png alt=Artifacts align=middle> <b>Dwarven Bow</b></p>
         <p><b>Clue</b>: Click to throw.</p>
@@ -180,7 +180,7 @@
         <p><b>Clue</b>: Embrace Evil. For a while.</p>
         <p><b>Description</b>: If you are afraid of spiders, Drow aren't your faction.</p>
         <p><b>Requirement</b>: Play as Drow +24h Evil Playtime (All-time)</p>
-        <p><b>Chance</b>: (All-time Evil playtime / 50d)%</p>
+        <p><b>Chance</b>: All-time Evil playtime / 4,320,000 (50 Days))%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/SteelPlate.png alt=Steel Plate align=middle> <b>Steel Plate</b></p>
         <p><b>Clue</b>: Legacy from 50 generations ago.</p>
@@ -192,7 +192,7 @@
         <p><b>Clue</b>: Only found by really, really dedicated Mercenary allies.</p>
         <p><b>Description</b>: A long sword with an extremely sharp blade made of dark metal.</p>
         <p><b>Requirement</b>: Play as Mercenaries +100 Merc affiliations (All-time)</p>
-        <p><b>Chance</b>: (All-time Mercenary playtime / 16h 40m)%</p>
+        <p><b>Chance</b>: (All-time Mercenary playtime / 60,000 (16 Hours, 40 Minutes))%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DragonFangArtifact.png alt=Dragon Fang align=middle> <b>Dragon Fang</b></p>
         <p><b>Clue</b>: Found in the Wyrm Dens.</p>
@@ -223,8 +223,7 @@
         <p><b>Description</b>: Despite being centuries old, it still smells like top-quality cocoa.</p>
         <p><b>Requirement</b>: Neutral, R22+, Must be Neutral Faction to buy upgrade</p>
         <p><b>Effect</b>: Gives an upgrade named Chocolate Flavored Smoothie</p>
-        <p><b>Effect</b>: Increase the production of all buildings by 2500% for the first 15 minutes of the game for all Neutral factions.</p>
-        <p><b>Effect</b>: A2, Increase the production of all buildings by 5.68% for the first 15 minutes of the game for all Neutral factions. Does not work while offline.</p>
+        <p><b>Effect</b>: Increase the production of all buildings by 2500% for the first 15 minutes of the game for all Neutral factions. Does not work while offline.</p>
         <p><b>Chance</b>: 10%</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png align=middle> <b>Know Your Enemy, Part I</b></p>
@@ -243,7 +242,7 @@
         <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p>
         <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
         <p><b>Effect</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p>
-        <p><b>Chance</b>: (number of Witch Conclaves / 10000)%</p>
+        <p><b>Chance</b>: (number of Witch Conclaves / 10,000)%</p>
         <p><b>Cost</b>: 20 Qig (2E154)</p>
         <p><b>Alignment</b>: Any</p>
         <hr>
@@ -263,7 +262,7 @@
         <p><b>Requirement</b>: No Faction</p>
         <p><b>Upgrade Requirement</b>: R42+</p>
         <p><b>Effect</b>: Increase the production of Non-Unique buildings based on total time spent. (Time in seconds this R)</p>
-        <p><b>Formula</b>: (6.5 * x ^ 0.65), where x is time this R</p>
+        <p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time this R</p>
         <p><b>Chance</b>: 0.1%</p>
         <p><b>Cost</b>: 1 No (1e32), A2 Free</p>
         <hr>
@@ -287,8 +286,8 @@
         <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
         <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
         <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
-        <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level) ^ 0.9)</p>
-        <p><b>Chance</b>: (Total Lineage levels/20)%</p>
+        <p><b>Formula</b>: With Ancient Heirloom (25 * 10 ^ (8 + lineage level) ^ 0.9)</p>
+        <p><b>Chance</b>: (Total Lineage levels / 20)%</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png align=middle> <b>Know Your Enemy, Part 2</b></p>
@@ -308,7 +307,7 @@
         <p><b>Requirement</b>: R90+, Dragon Challenge 6</p>
         <p><b>Effect</b>: Passive effect: allows Mercenaries to benefit from all faction challenges of your alignment.</p>
         <p><b>Note</b>: Does not grant elite challenges.</p>
-        <p><b>Chance</b>: (x/1,000,000)%, where x is seconds this game.</p>
+        <p><b>Chance</b>: (x / 1,000,000)%, where x is seconds this game.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png align=middle> <b>Wall Chunk</b></p>
         <p><b>Clue</b>: More Ascension...</p>
@@ -337,32 +336,32 @@
         <p><b>Effect</b>: Lower Lineage cost exponent based on Reincarnations made.</p>
         <p><b>Formula</b>: (0.01 * R), R is Reincarnations made (NOT affected by invisible bonuses to R count).</p>
         <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
-        <p><b>Chance</b>: (x / 5000000000000000 (5 QA))%, where x is FC chance.</p>
+        <p><b>Chance</b>: (x / 5,000,000,000,000,000 (5 QA))%, where x is FC chance.</p>
         <p><b>Cost</b>: (1e90)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png align=middle> <b>Silk Cloth</b></p>
         <p><b>Clue</b>: Found in the Swarming Towers.</p>
         <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Fairy, Pink Carrot and Bottled Voice artifacts.</p>
-        <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
+        <p><b>Chance</b>: ((x - 10000) / 200,000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png align=middle> <b>Raw Emerald</b></p>
         <p><b>Clue</b>: Not found on the first Excavation round.</p>
         <p><b>Description</b>: Just slightly less precious than a raw Ruby.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Elven, Lucky Clover and Mini-treasure artifacts.</p>
-        <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10000)%, where x is free and ruby excavation resets (this game).</p>
+        <p><b>Chance</b>: (((3 * x) ^ 4.5) / 10,000)%, where x is free and ruby excavation resets (this game).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/FossilizedWingArtifact.png align=middle> <b>Fossilized Wing</b></p>
         <p><b>Clue</b>: Angels may fall after a long time.</p>
         <p><b>Description</b>: The remains of an Angel fallen to earth.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Angel, Pillar Fragment and Divine Sword artifacts.</p>
-        <p><b>Chance</b>: (x / 25920000 (300 days))%, where x is angel time (all time) in seconds.</p>
+        <p><b>Chance</b>: (x / 25,920,000 (300 Days))%, where x is angel time (all time) in seconds.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/SpikedWhipArtifact.png align=middle> <b>Spiked Whip</b></p>
         <p><b>Clue</b>: Used by the overseers in the Slave Markets.</p>
         <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Goblin, Ancient Coin Piece and Goblin Purse artifacts.</p>
-        <p><b>Chance</b>: ((x - 10000) / 300000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
+        <p><b>Chance</b>: ((x - 10000) / 300,000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png align=middle> <b>Dusty Coffin</b></p>
         <p><b>Clue</b>: Quick! Quick! You have no time to waste!</p>
@@ -374,7 +373,7 @@
         <p><b>Clue</b>: Found in the Burning Abysses.</p>
         <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Demon, Demonic Figurine and Demon Horn artifacts.</p>
-        <p><b>Chance</b>: ((x - 10000) / 200000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
+        <p><b>Chance</b>: ((x - 10000) / 200,000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png align=middle> <b>Titan Helmet</b></p>
         <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
@@ -386,25 +385,25 @@
         <p><b>Clue</b>: Found in the remains of druidic ancestors.</p>
         <p><b>Description</b>: Despite being torn from its source tree, it keeps growing buds and leaves.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Druid, Glyph Table and Stone of Balance artifacts.</p>
-        <p><b>Chance</b>: ((x ^ 3) / 2000000 (2M))%, where x is level of druid lineage.</p>
+        <p><b>Chance</b>: ((x ^ 3) / 2,000,000 (2M))%, where x is level of druid lineage.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/NightmareFigmentArtifact.png align=middle> <b>Nightmare Figment</b></p>
         <p><b>Clue</b>: A strong and quick brain is required.</p>
         <p><b>Description</b>: An unshaped, ephemeral substance which is politely trying to corrupt your mind.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Faceless, Translucent Goo and Octupus-shaped Helmet artifacts.</p>
-        <p><b>Chance</b>: ((x ^ 1.5) / 20000000 (20M))%, where x is headstart time in seconds.</p>
+        <p><b>Chance</b>: ((x ^ 1.5) / 20,000,000 (20M))%, where x is headstart time in seconds.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/BeardHair.png align=middle> <b>Beard Hair</b></p>
         <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
         <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
         <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-        <p><b>Chance</b>: (x / 100000000 (100M))%, where x is assistant count</p>
+        <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
         <p><b>Clue</b>: Combo your way through.</p>
         <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
         <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Drow, Ceremonial Dagger and Arachnid Figurine artifacts.</p>
-        <p><b>Chance</b>: ((40 * x ^ 0.9) / 10000000 (10M))%, where x is combo strike count</p>
+        <p><b>Chance</b>: ((40 * x ^ 0.9) / 10,000,000 (10M))%, where x is combo strike count</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DragonScale.png align=middle> <b>Dragon Scale</b></p>
         <p><b>Clue</b>: Usually found when a lot of magic is lingering.</p>
@@ -424,14 +423,14 @@
         <p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
         <p><b>Requirements</b>: R120+, Proof of Chaos</p>
         <p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
-        <p><b>Chance</b>: (min(x, y, z) / 1000 days)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
+        <p><b>Chance</b>: (min(x, y, z) / 86,400,000 (1000 Days))%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (all time).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/SparkofLifeArtifact.png align=middle> <b>Spark of Life</b></p>
         <p><b>Clue</b>: The power of Creation may spark something new.</p>
         <p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
         <p><b>Requirements</b>: R120+, Proof of Balance</p>
         <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
-        <p><b>Chance</b>: (ln(1 + x) ^ 2 / 6000)%, where x is FC collected this game.</p>
+        <p><b>Chance</b>: (ln(1 + x) ^ 2 / 6,000)%, where x is FC collected this game.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png align=middle> <b>Planetary Force</b></p>
         <p><b>Clue</b>: Try every day for better luck! Missing a day is the same as breaking a mirror, you know.</p>
@@ -439,7 +438,7 @@
         <p><b>Requirements</b>: R100+</p>
         <p><b>Effect</b>: Gives upgrade with the same name</p>
         <p><b>Effect</b>: Activates all Sun Force effects at once.</p>
-        <p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
+        <p><b>Chance</b>: ((x ^ 2.5) / 5,000)%, where x is amount of consecutive days logged in.</p>
         <p><b>Note</b>: Restarting the game is required to increase the counter</p>
         <p><b>Cost</b>: 100 Qi (1e20)</p>
         <hr>
@@ -453,7 +452,7 @@
         <p><b>Clue</b>: Attracted by amassed mana reserves.
         <p><b>Description</b>: Used to weave even the thinnest mana strings.</p>
         <p><b>Requirement</b>: R175, Chaos Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 50000)%, where x is mana produced (This Game)</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 50,000)%, where x is mana produced (This Game)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Mana Loom artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 2500.</p>
@@ -464,7 +463,7 @@
         <p><b>Clue</b>: Dig it manually.</p>
         <p><b>Description</b>: Mass-production is the way to go.</p>
         <p><b>Requirement</b>: R175, Neutral Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 10000)%, where x is clicks (This Game)</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 10,000)%, where x is clicks (This Game)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Factory artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 2500.</p>
@@ -475,7 +474,7 @@
         <p><b>Clue</b>: Spells get sad when not used for a long time.</p>
         <p><b>Description</b>: Accurate historical list of every existing or non-existing deity.</p>
         <p><b>Requirement</b>: R175, Good Alignment</p>
-        <p><b>Chance</b>: (x / 4320000)%, where x is the activity time (This Reincarnation) of your least used spell (excluding shared benefits, catalyst and holiday spells)</p>
+        <p><b>Chance</b>: (x / 4,320,000 (50 Days))%, where x is the activity time (This Reincarnation) of your least used spell (excluding shared benefits, catalyst and holiday spells)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Mythos artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 2500.</p>
@@ -486,7 +485,7 @@
         <p><b>Clue</b>: Show your prowess as a Royal Trader.</p>
         <p><b>Description</b>: Never a place could be more secure.</p>
         <p><b>Requirement</b>: R175, Balance Alignment</p>
-        <p><b>Chance</b>: (x / 100000000 (100M))%, where x is Royal Exchange Bonus.</p>
+        <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is Royal Exchange Bonus.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Vault artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 2500.</p>
@@ -497,7 +496,7 @@
         <p><b>Clue</b>: Archemy.</p>
         <p><b>Description</b>: The legendary oven that could smelt souls into matter.</p>
         <p><b>Requirement</b>: R175, Order Alignment</p>
-        <p><b>Chance</b>: (x / 1000000 (1M))%, where x is Alchemy Research Points.</p>
+        <p><b>Chance</b>: (x / 1,000,000 (1M))%, where x is Alchemy Research Points.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 2500.</p>
@@ -508,7 +507,7 @@
         <p><b>Clue</b>: Would you think an army is enough to excavate this?</p>
         <p><b>Description</b>: An extremely accurate replica of a battle fought long ago.</p>
         <p><b>Requirement</b>: R175, Evil Alignment</p>
-        <p><b>Chance</b>: (log10(x) ^ 3 / 20000)%, where x is the number of Assistants.</p>
+        <p><b>Chance</b>: (log10(x) ^ 3 / 20,000)%, where x is the number of Assistants.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Battlefield artifact and upgrade.</p>
         <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 2500.</p>
