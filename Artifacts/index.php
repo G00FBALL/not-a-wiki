@@ -645,7 +645,7 @@
     <p><b>Clue</b>: Spells get sad when not used for a long time.</p>
     <p><b>Description</b>: Accurate historical list of every existing or non-existing deity.</p>
     <p><b>Requirement</b>: R175+, Good Alignment</p>
-    <p><b>Chance</b>: (x / 4320000)%, where x is minimum spell activity time. (This Reincarnation)</p>
+    <p><b>Chance</b>: (x / 4320000)%, where x is the activity time (This Reincarnation) of your least used spell (excluding shared benefits, catalyst and holiday spells)</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Mythos artifact and upgrade.</p>
     <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 2500.</p>
