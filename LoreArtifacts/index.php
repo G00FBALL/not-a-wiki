@@ -296,7 +296,7 @@
         <p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
         <p><b>Effect</b>: Awards an upgrade of the same name.</p>
         <p><b>Effect</b>: Increase the production of all buildings based on time spent as Non-Mercenaries.</p>
-        <p><b>Formula</b>: 0.065 * x^0.65 where x is amount of time spent as non-mercenary factions (in seconds).</p>
+        <p><b>Formula</b>: (0.065 * x ^ 0.65) where x is amount of time spent as non-mercenary factions (in seconds).</p>
         <p><b>Note</b>: Only available to Mercenaries</p>
         <p><b>Chance</b>: 5%</p>
         <p><b>Cost</b>: 100 Noqag (1e152)</p>

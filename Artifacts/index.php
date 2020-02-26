@@ -457,7 +457,7 @@
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
     <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
-	<p>Formula: With Ancient Heirloom (25 * 10 ^ (8 + lineage level) ^ 0.9)</p>
+	<p><b>Formula</b>: With Ancient Heirloom (25 * 10 ^ (8 + lineage level) ^ 0.9)</p>
     <p><b>Chance</b>: (Total Lineage levels / 20)%</p>
     <p><b>Cost</b>: 10 Dtg (1e100)</p>
     " coords="260,362,317,421" shape="0">
