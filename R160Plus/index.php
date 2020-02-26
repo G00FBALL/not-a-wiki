@@ -92,7 +92,7 @@
                     <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:AR,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250" id="Build"> Archon Union</p>
                 <p>EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,</p>
 				<p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,</p>
-                <p>S200,S500,S5875,S330,S150,</p>
+                <p>S5875,S200,S500,S330,S150,</p>
                 <p>C175,C250,C340,C400,C5625,</p>
                 <p>D5875,D200,D290,</p>
                 <p>E135,E145,E290,E1325,E1425,E3300,</p>

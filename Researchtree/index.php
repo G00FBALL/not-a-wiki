@@ -220,8 +220,8 @@
 	<p><b>Requirement</b>: Have 4000 Mana. (This Game)
 	<p><b>Cost</b>: 95.88 Dqag (9.588E130)
 	<p><b>Effect</b>: Increase maximum mana and mana regeneration rate based on time spent in this game.
-	<p><b>Formula</b>: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in hours.
-	<p><b>Formula</b>: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.
+	<p><b>Formula</b>: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in seconds.
+	<p><b>Formula</b>: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in seconds.
 	" coords="222,30,273,77" shape="rect">
         <area research="S50 - For Goblin
 	<p><b>Research Name</b>: Conjuration
