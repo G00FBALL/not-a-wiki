@@ -17,8 +17,8 @@
         <p><b>Faction spell</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsGreed.png" alt="Smiley face" align="middle"> Goblin's Greed</b></p>
         <p><b>Effect</b>: Instantly produces Faction Coins based on your current gems and provides a boost based on the number of Faction Coins discovered for 5 seconds.</p>
-        <p><b>FC Formula</b>: floor(ln^3(1 + x) + 20, where x is your current gems.</p>
-        <p><b>Production Formula</b>: 0.75 * ln^3.15(1 + x)%, where x is your Faction Coins Gained (This Game) stat.</p>
+        <p><b>FC Formula</b>: (20 + ln(1 + x) ^ 3), where x is your current gems.</p>
+        <p><b>Production Formula</b>: (0.75 * ln(1 + x) ^ 3.15)%, where x is your Faction Coins Gained (This Game) stat.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" alt="Smiley face" align="middle"> Greed Drive</b></p>

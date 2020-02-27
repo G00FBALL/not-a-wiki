@@ -638,8 +638,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsGreed.png" alt="Evil" align="middle"> Goblin's Greed</b> (Goblins)</p>
 <p><b>Works For</b>: Goblin - <b>Cost</b>: 800 Mana - <b>Duration</b>: 5 seconds </p>
 <p><b>Effect</b>: Instantly produces Faction Coins based on gems you own Also increases production of all buildings based on the number of Faction Coins found in this game.</p>
-<p><b>FC Formula</b>: floor(ln^3(1 + x) + 20), where x is your current gems.</p>
-<p><b>Production Formula</b>: (0.75 * ln^3.15(1 + x))%, where x is your Faction Coins Gained (This Game) stat.</p>
+<p><b>FC Formula</b>: (20 + ln(1 + x) ^ 3), where x is your current gems.</p>
+<p><b>Production Formula</b>: (0.75 * ln(1 + x) ^ 3.15)%, where x is your Faction Coins Gained (This Game) stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" align="middle"> <b>Greed Drive</b></p>
 <p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell.</p>
 <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
