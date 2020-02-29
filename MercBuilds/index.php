@@ -30,7 +30,7 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Harvest R3-R6 <font color="DarkRed">Evil</font></a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: Swim</p>
+					<p><b>Author</b>: swim</p>
 					<p><b>Requirement</b>: Coin Pillage, Low Excavations, so you can excavate to set up the build.</p>
 					<p><b>Alignment</b>: Evil</p>
 					<p>
