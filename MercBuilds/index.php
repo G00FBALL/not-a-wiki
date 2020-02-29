@@ -14,23 +14,31 @@
         <p><b>Production</b></p>
         <div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Perfect Quasi R3-R6 <font color="DarkGoldenRod">Neutral</font></a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: ?</p>
+					<p><b>Author</b>: Cyden</p>
 					<p><b>Alignment</b>: Neutral</p>
-					<p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting">
+						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD6,DD9,FC4,DN3,DW8,SP:Goblin's Greed,SP:Fairy Chanting">
 					</p>
+					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD6,DD9,FC4,DN3,DW8,</p>
+					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Harvest R3-R6 <font color="DarkRed">Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Swim</p>
+					<p><b>Requirement</b>: Low Excavations, so you can excavate to set up the build.</p>
+					<p><b>Alignment</b>: Evil</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR3,FR4,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN8,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting">
-						<b>Sunforce Assistant boost</b>
+						<input type="text" value="DM3,GB1,UD5,UD7,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,SP:Hellfire Blast,SP:Night Time">
 					</p>
-					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
-					<p>SP:Diamond Pickaxe,SP:Fairy Chanting</p>
-					<p><b>Notes</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
+					<p>DM3,GB1,UD5,UD7,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
+					<p>SP:Hellfire Blast,SP:Night Time</p>
+					<p><b>Notes</b>: Faster than Perfect Quasi for R3-R6, but requires excavations to set up.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -48,7 +56,6 @@
 						<input type="text" value="GB1,UD7,DM3,TT6,DD1,DD5,DD6,DD9,DN3,DN8,DW5,DW8,SP:Fairy Chanting,SP:Grand Balance">
 						<b>Sunforce Assistant boost</b>
 					</p>
-					<p><b>Template</b>: Elven Bloodline</p>
 					<p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
@@ -56,12 +63,32 @@
 					<p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
 				</div>
 			</div>
-			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+						<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: ?</p>
 					<p><b>Alignment</b>: Neutral</p>
-					<p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)</p>
+					<p><b>Bloodline</b>: Fairy</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN8,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting">
+						<b>Sunforce Assistant boost</b>
+					</p>
+					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
+					<p>SP:Diamond Pickaxe,SP:Fairy Chanting</p>
+					<p><b>Notes</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: ?</p>
+					<p><b>Alignment</b>: Neutral</p>
+					<p><b>Bloodline</b>: Fairy</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
 						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Lightning Strike,SP:Fairy Chanting">
