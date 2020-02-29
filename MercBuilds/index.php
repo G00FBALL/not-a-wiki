@@ -17,6 +17,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Perfect Quasi R3-R6 <font color="DarkGoldenRod">Neutral</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
+					<p><b>Requirement</b>: Coin Pillage</p>
 					<p><b>Alignment</b>: Neutral</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
@@ -30,7 +31,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Harvest R3-R6 <font color="DarkRed">Evil</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Swim</p>
-					<p><b>Requirement</b>: Low Excavations, so you can excavate to set up the build.</p>
+					<p><b>Requirement</b>: Coin Pillage, Low Excavations, so you can excavate to set up the build.</p>
 					<p><b>Alignment</b>: Evil</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
