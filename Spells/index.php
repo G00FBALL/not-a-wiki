@@ -251,13 +251,9 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Offline Spell Casting</a></b></p>
             <div class="autohide">
     <p><b>While offline</b>: Spells set on autocasting will gain "Active Time (This game)", but no spell casts will be counted. Instead, a generic non-specific spell will increase your "Spell Casts" entry in the stats.</p>
-    <p><b>Offline Activity Time Gain Formula</b></p>
+    <p><b>Offline Activity Time Gain Formula (Requires Masterful Autocast)</b></p>
     <p><b>Formula</b>: t * min(1, m * d / (n * c ^ 1.5)), where t is offline time, m is mana regen per second, d is spell duration in seconds, c is spell mana cost (as tier 1), and n is number of spells set to autocast</p>
-    <p><b>Note</b>: Tax Collection does not count against spells in autocast for offline activity time generation..</p>
-    <p><b>For Spells to work offline, you need</b></p>
-    <p>Offline mana regen upgrades (such as included in the 'Automatic auto-casting' upgrade)</p>
-    <p>Offline spell casting upgrades (such as included in the 'Priority Auto-casting' upgrade)</p>
-    <p>The bonuses are additive. The total bonus of all the offline auto-casting upgrades is 7 spell casts per minute and 90% of your online mana regeneration rate.</p>
+    <p><b>Note</b>: Tax Collection does not count against spells in autocast for offline activity time generation.</p>
                 </div>
             </div>
         </div>
