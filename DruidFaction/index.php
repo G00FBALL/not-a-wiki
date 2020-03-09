@@ -193,7 +193,7 @@
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
             <p><b>Cost</b>: 500 Oc (5E29)</p>
             <p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
-            <p><b>Formula</b>: (x * 0.25), where x is Stone Pillars.</p>
+            <p><b>Formula</b>: (x ^ 0.25), where x is Stone Pillars.</p>
             <br/>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
             <p><b>Cost</b>: 5 No (5E30)</p>

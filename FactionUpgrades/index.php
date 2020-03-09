@@ -767,7 +767,7 @@
                 <p><b>Mercenary Template</b>: DD8</p>
                 <p><b>Cost</b>: 500 Oc (5E29)</p>
                 <p><b>Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
-                <p><b>Formula</b>: (x * 0.25), where x is Stone Pillars.</p>
+                <p><b>Formula</b>: (x ^ 0.25), where x is Stone Pillars.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
                 <p><b>Mercenary Template</b>: DD9</p>
