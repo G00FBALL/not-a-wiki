@@ -129,8 +129,7 @@
         <p><b>Cost</b>: 255.2 OcQig (2.552E179)</p>
         <p><b>Effect</b>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.</p>
         <p><b>Effect</b>: Also increase Faction Coins find chance by a multiplicative 100%.</p>
-        <p><b>Formula</b>: floor(3.5 * logE(1+x) ^ 3.5)%, where x is your Spells Cast (This Game) stat,</p>
-        <p><b>or approximately</b>: floor((ln(x) + 0.69)^{2.75})%, where x is your Spells Cast (This Game) stat.</p>
+        <p><b>Formula</b>: floor(3.5 * ln(1 + x) ^ 3.5)%, where x is your Spells Cast (This Game) stat,</p>
         <hr>
         <p><b>A330</b> - For All Factions</p>
         <p><b>Research Name</b>: Adaptation</p>
