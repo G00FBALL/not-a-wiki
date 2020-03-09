@@ -1016,281 +1016,83 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1Reincarnation.png align=middle><b> 1 Reincarnation</b></p>
                     <p><b>Requirement</b>: Reincarnate 1 time.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Oc (1e27) Gems.</p>
-                    <p><b>Increase</b>: Production of all buildings by 25%</p>
-                    <p><b>Increase</b>: Offline bonus by 200%</p>
-                    <p><b>Increase</b>: FC coin Chance by 1%.</p>
-                    <p><b>Increase</b>: Mana regen by 1.2 m/s.</p>
+                    <p><b>Cost</b>: (To Reincarnate to R1) 1 Oc (1e27) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/3Reincarnations.png align=middle><b> 3 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 3 times.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Dc (1e33) Gems.</p>
-                    <p><b>Unlocks</b>: Mercenary faction and Automatically grants Underworld Diplomacy</p>
-                    <p><b>Increase</b>: Production of all buildings by 75%</p>
-                    <p><b>Increase</b>: Offline bonus by 600%</p>
-                    <p><b>Increase</b>: FC coin Chance by 3%.</p>
-                    <p><b>Increase</b>: Mana regen by 2.5 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+0.6%)</p>
+                    <p><b>Cost</b>: (To Reincarnate to R3) 1 Dc (1e33) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/5Reincarnations.png align=middle><b> 5 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 5 times.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Dd (1e39) Gems.</p>
-                    <p><b>Increase</b>: Production of all buildings by 125%</p>
-                    <p><b>Increase</b>: Offline bonus by 1000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 5%.</p>
-                    <p><b>Increase</b>: Mana regen by 3.3 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+1.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (10%)</p>
+                    <p><b>Cost</b>: (To Reincarnate to R5) 1 Dd (1e39) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/7Reincarnations.png align=middle><b> 7 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 7 times.</p>
-                    <p><b>Cost</b>>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Qad (1e45) Gems.</p>
-                    <p><b>Unlocks</b>: Bloodlines</p>
-                    <p><b>Increase</b>: Production of all buildings by 175%</p>
-                    <p><b>Increase</b>: Offline bonus by 1400%</p>
-                    <p><b>Increase</b>: FC coin Chance by 7%.</p>
-                    <p><b>Increase</b>: Mana regen by 4.0 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+1.4%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (14%)</p>
+                    <p><b>Cost</b>: (To Reincarnate to R7) 1 Qad (1e45) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/10Reincarnations.png align=middle><b> 10 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 10 times.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Spd (1e54) Gems.</p>
-                    <p><b>Increase</b>: Production of all buildings by 250%</p>
-                    <p><b>Increase</b>: Offline bonus by 2000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 10%.</p>
-                    <p><b>Increase</b>: Mana regen by 5.0 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+2.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (20%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R10) 1 Spd (1e54) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/12Reincarnations.png align=middle><b> 12 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 12 times.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Nod (1e60) Gems.</p>
-                    <p><b>Increase</b>: Production of all buildings by 300%</p>
-                    <p><b>Increase</b>: Offline bonus by 2400%</p>
-                    <p><b>Increase</b>: FC coin Chance by 12%.</p>
-                    <p><b>Increase</b>: Mana regen by 5.5 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+2.4%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (24%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+300)</p>
+                    <p><b>Cost</b>: (To Reincarnate to R12) 1 Nod (1e60) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/15Reincarnations.png align=middle><b> 15 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 15 times.</p>
-                    <p><b>Cost</b>: RPower 1 Coin</p>
-                    <p><b>Cost</b>: 1 Dvg (1e69) Gems.</p>
-                    <p><b>Increase</b>: Production of all buildings by 375%</p>
-                    <p><b>Increase</b>: Offline bonus by 3000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 15%.</p>
-                    <p><b>Increase</b>: Mana regen by 6.2 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+3.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (30%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+375)</p>
+                    <p><b>Cost</b>: (To Reincarnate to R15) 1 Dvg (1e69) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/20Reincarnations.png align=middle><b> 20 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 20 times.</p>
-                    <p><b>Current Research Points</b>: 210</p>
-                    <p><b>Increase</b>: Production of all buildings by 500%</p>
-                    <p><b>Increase</b>: Offline bonus by 4000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 20%.</p>
-                    <p><b>Increase</b>: Mana regen by 7.3 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+4.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (40%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+500)</p>
-                    <p><b>Increase</b>: Production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R20) 1 Spvg (1e84) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/25Reincarnations.png align=middle><b> 25 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 25 times.</p>
-                    <p><b>Current Research Points</b>: 325</p>
-                    <p><b>Increase</b>: Production of all buildings by 625%</p>
-                    <p><b>Increase</b>: Offline bonus by 5000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 25%.</p>
-                    <p><b>Increase</b>: Mana regen by 8.2 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+5.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (50%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+625)</p>
-                    <p><b>Increase</b>: Production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (12.5%).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R25) 1 Dtg (1e99) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/30Reincarnations.png align=middle><b> 30 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 30 times</p>
-                    <p><b>Current Research Points</b>: 465</p>
-                    <p><b>Increase</b>: Production of all buildings by 750%</p>
-                    <p><b>Increase</b>: Offline bonus by 6000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 30%.</p>
-                    <p><b>Increase</b>: Mana regen by 9.0 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+6.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (60%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+750)</p>
-                    <p><b>Increase</b>: Production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (15%).</p>
+                    <<p><b>Cost</b>: (To Reincarnate to R30) 1 Sptg (1e114) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/35Reincarnations.png align=middle><b> 35 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 35 times</p>
-                    <p><b>Current Research Points</b>: 630</p>
-                    <p><b>Increase</b>: Production of all buildings by 875%</p>
-                    <p><b>Increase</b>: Offline bonus by 7000%</p>
-                    <p><b>Increase</b>: FC coin Chance by 35%.</p>
-                    <p><b>Increase</b>: Mana regen by 9.8 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+7.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (70%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+875)</p>
-                    <p><b>Increase</b>: Production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (17.5%).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R35) 1 Dqag (1e129) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/40Reincarnations.png align=middle><b> 40 Reincarnations</b></p>
-                    <p><b>Requirement</b>: Ascend 1 time, Ascension</p>
-                    <p><b>Current Research Points</b>: 820</p>
-                    <p><b>Increase</b>: Production of all buildings by 27.1%</p>
-                    <p><b>Increase</b>: Offline bonus by 55.2%</p>
-                    <p><b>Increase</b>: FC coin Chance by 40%.</p>
-                    <p><b>Increase</b>: Mana regen by 10.5 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+8.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.05%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Maximum mana by 25 per reincarnation (+1000)</p>
-                    <p><b>Increase</b>: Production of each building by 0.01% per reincarnation per building of the same type (e.g. R20 with 1000 Inns = 0.01%*20*1000 = 200%)</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (20%)</p>
+                    <p><b>Requirement</b>: Reincarnate 40 times</p>
+					<p><b>Cost</b>: (To Reincarnate to R40) 1 Spqag (1e144) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/45Reincarnations.png align=middle><b> 45 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 45 times</p>
-                    <p><b>Current Research Points</b>: 1035</p>
-                    <p><b>Increase</b>: Production of all buildings by 28.5%</p>
-                    <p><b>Increase</b>: Offline bonus by 72%</p>
-                    <p><b>Increase</b>: FC coin Chance by 45%.</p>
-                    <p><b>Increase</b>: Mana regen by 11.2 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+9.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (6.63%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (22.530%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (79.015%)</p>
-                    <p><b>Increase</b>: Maximum mana based on the amount of times you reincarnated (3,2,)</p>
-                    <p><b>R Power at Reincarnation 45</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R45) 17.78 Oc Sp (1.778e28) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/50Reincarnations.png align=middle><b> 50 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 50 times</p>
-                    <p><b>Current Research Points</b>: 1275</p>
-                    <p><b>Increase</b>: Production of all buildings by 29.7%</p>
-                    <p><b>Increase</b>: Offline bonus by 73.8%</p>
-                    <p><b>Increase</b>: FC coin Chance by 50%.</p>
-                    <p><b>Increase</b>: Mana regen by 11.8 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+10%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (7.18%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (25%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (88725%)</p>
-                    <p><b>Increase</b>: Maximum mana based on the amount of times you reincarnated (3,696)</p>
-                    <p><b>R Power at Reincarnation 45</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R50) 177.8 Ud (1.778e38) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/60Reincarnations.png align=middle><b> 60 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 60 times</p>
-                    <p><b>Current Research Points</b>: 1830</p>
-                    <p><b>Increase</b>: Production of all buildings by 2.81%</p>
-                    <p><b>Increase</b>: Offline bonus by 77%</p>
-                    <p><b>Increase</b>: FC coin Chance by 60%.</p>
-                    <p><b>Increase</b>: Mana regen by 13 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+12.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (8.2%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (30%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (108429%)</p>
-                    <p><b>Increase</b>: Maximum mana based on the amount of times you reincarnated (4,517)</p>
-                    <p><b>R Power at Reincarnation 45</b>: Improves Reincarnation 12 Power to increase max mana even more (based on times reincarnated).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R60) 17.78 Ocd (1.778e58) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/70Reincarnations.png align=middle><b> 70 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 70 times</p>
-                    <p><b>Current Research Points</b>: 2485</p>
-                    <p><b>Increase</b>: Production of all buildings by 2.96%</p>
-                    <p><b>Increase</b>: Offline bonus by 79.7%</p>
-                    <p><b>Increase</b>: FC coin Chance by 70%.</p>
-                    <p><b>Increase</b>: Mana regen by 14.1 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+14.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +2% assistant production per reincarnation (9.15%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (35%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (128466%)</p>
-                    <p><b>Increase</b>: Maximum mana based on the amount of times you reincarnated (5,352)</p>
-                    <p><b>Increase</b>: Multiplicatively Faction Coin find chance based on the amount of times you reincarnated (107%)</p>
-                    <p><b>R Power at Reincarnation 70</b>: Will gain one additional Research slot for each branch.</p>
+                    <p><b>Cost</b>: (To Reincarnate to R70) 1.778 Qivg (1.778e78) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/85Reincarnations.png align=middle><b> 85 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 85 times</p>
-                    <p><b>Current Research Points</b>: 3655</p>
-                    <p><b>Increase</b>: Production of all buildings by 3.15%</p>
-                    <p><b>Increase</b>: Offline bonus by 6.24%</p>
-                    <p><b>Increase</b>: FC coin Chance by 85%.</p>
-                    <p><b>Increase</b>: Mana regen by 15.6 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+17.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +1% assistant production per reincarnation</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (42%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (113%)</p>
-                    <p><b>Increase</b>: Maximum mana based on the amount of times you reincarnated (18066)</p>
-                    <p><b>Increase</b>: Multiplicatively Faction Coin find chance based on the amount of times you reincarnated (132%)</p>
-                    <p><b>R Power at Reincarnation 85</b>: Will gain 4 additional assistants per reincarnation.</p>
+                    <p><b>Cost</b>: (To Reincarnate to R85) 1.778 Qitg (1.778e108) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/100Reincarnations.png align=middle><b> 100 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 100 times</p>
-                    <p><b>Current Research Points</b>: 5000 (Max)</p>
-                    <p><b>Increase</b>: production of all buildings by 3.31%</p>
-                    <p><b>Increase</b>: Offline bonus by 6.41%</p>
-                    <p><b>Increase</b>: FC coin Chance by 100%.</p>
-                    <p><b>Increase</b>: Mana regen by 17 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+20.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and +1.1% assistant production per reincarnation</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (50%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (117%)</p>
-                    <p><b>Increase</b>: Maximum mana based on the amount of times you reincarnated (22135)</p>
-                    <p><b>Increase</b>: Multiplicatively Faction Coin find chance based on the amount of times you reincarnated (132%)</p>
-                    <p><b>R Power at Reincarnation 85</b>: Will gain 4 additional assistants per reincarnation.</p>
-                    <p><b>Increase</b>: Mana regeneration by 1% per Reincarnation (100%).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R100) 1.778 Qiqag (1.778e138) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/125Reincarnations.png align=middle><b> 125 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 125 times</p>
-                    <p><b>Current Research Points</b>: 5000 (Max)</p>
-                    <p><b>Increase</b>: Production of all buildings by 3.53%</p>
-                    <p><b>Increase</b>: Offline bonus by 6.65%</p>
-                    <p><b>Increase</b>: FC coin Chance by 125%.</p>
-                    <p><b>Increase</b>: Mana regen by 19.1 m/s.</p>
-                    <p><b>Increase</b>: Gem production bonus by 0.2% per reincarnation (+25.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and increase the production of assistant production based on reincarnations made( 1.26%)</p>
-                    <p><b>Increase</b>: Production of all buildings over time (based on times reincarnated).</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (62%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (123%)</p>
-                    <p><b>Increase</b>: Maximum mana b35 per reincarnation (4375)</p>
-                    <p><b>Increase</b>: Multiplicatively Faction Coin find chance based on the amount of times you reincarnated (202%)</p>
-                    <p><b>R Power at Reincarnation 85</b>: Will gain 4 additional assistants per reincarnation.</p>
-                    <p><b>Increase</b>: Mana regeneration by 1% per Reincarnation (125%).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R125) 31.05 Dvg (3.105e70) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/150Reincarnations.png align=middle><b> 150 Reincarnations</b></p>
                     <p><b>Requirement</b>: Reincarnate 150 times</p>
-                    <p><b>Current Research Points</b>: 5000 (Max)</p>
-                    <p><b>Increase</b>: Offline bonus by 0.66%</p>
-                    <p><b>Increase</b>: FC coin Chance by 150%.</p>
-                    <p><b>Increase</b>: Mana regen by 21.0 m/s.</p>
-                    <p><b>Increase</b>: bonus from gem by an additional 0.2% per reincarnation (+30.0%)</p>
-                    <p><b>Instantly</b>: Adds 1 assistant per reincarnation and increase the production of assistant production based on reincarnations made( 0.14%)</p>
-                    <p><b>Increase</b>: Production of each buildings over time based on reincarnation per building of the same type.</p>
-                    <p><b>Increase</b>: Royal Exchange bonus by 0.5% per reincarnation (75%)</p>
-                    <p><b>Increase</b>: Production of Unique Buildings based on the amount of times you reincanation (8.6%)</p>
-                    <p><b>Increase</b>: Maximum mana by 35 per reincarnation (5250)</p>
-                    <p><b>Increase</b>: Multiplicatively Faction Coin find chance based on the amount of times you reincarnated (618%)</p>
-                    <p><b>R Power at Reincarnation 85+</b>: Will gain 4 additional assistants per reincarnation.</p>
-                    <p><b>R Power at Reincarnation 150+</b>: Effect: Unique Buildings count more for Call to Arms purposes based on Reincarnations made.</p>
-                    <p><b>Increase</b>: Mana regeneration by 1% per Reincarnation (150%).</p>
+                    <p><b>Cost</b>: (To Reincarnate to R150) 1.134 Dqag (1.134e129) Gems</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArchaeologyExpedition.png align=middle><b> Archaeology Expedition</b></p>
                     <p><b>Requirement</b>: You have funded an archaeology expedition to find relics of the Ancient Races. (Excavate for 1st time.)</p>
