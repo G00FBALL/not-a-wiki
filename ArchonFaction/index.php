@@ -125,7 +125,7 @@
         <hr>
         <p><b>R130+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusQuest.png" align="middle"> Nexus Quest</b></p>
-        <p>Hassar, Ruler. Our kind wants to establish better communications with you. Please build more Wizard Towers/Witch Conclaves/Alchemist Labs to convert.</p>
+        <p><b>Description</b>: Hassar, Ruler. Our kind wants to establish better communications with you. Please build more Wizard Towers/Witch Conclaves/Alchemist Labs to convert.</p>
         <p><b>Requirements</b>: R130+, Buy 25,000 Wizard Towers/Witch Conclaves/Alchemist Labs.</p>
         <p><b>Cost</b>: 1 QaQig (1e165)</p>
         <br/>

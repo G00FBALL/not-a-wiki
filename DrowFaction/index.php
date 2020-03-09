@@ -110,7 +110,7 @@
         <hr>
         <p><b>Drow Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Sanctuary Quest</b></p>
-        <p>Kivvil. Our Valsharess requires more places to worship the almighty Spider Queen. Build enough Dark Temples, and our priestesses will consecrate them.</p>
+        <p><b>Description</b>: Kivvil. Our Valsharess requires more places to worship the almighty Spider Queen. Build enough Dark Temples, and our priestesses will consecrate them.</p>
         <p><b>Requirement</b>: R28 + 3333 Dark Temples</p>
         <p><b>Cost</b>: 10 Sxg (1E184)</p>
         <p><b>Effect</b>: Unlocks Spider Sanctuary</p>

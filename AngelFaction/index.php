@@ -90,7 +90,7 @@
         <hr>
         <p><b>Angel Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sDomainQuestFactionUpgrade.png" align="middle"> Heaven's Domain Quest</b></p>
-        <p>Bless you, dear friend. The Lands of the sky are expanding as more good souls are joining our ranks. Would you be so kind to provide them a place to stay in the Heavens?</p>
+        <p><b>Description</b>: Bless you, dear friend. The Lands of the sky are expanding as more good souls are joining our ranks. Would you be so kind to provide them a place to stay in the Heavens?</p>
         <p><b>Requirement</b>: R16 + 1500 Heaven's Gates</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
         <br/>
@@ -122,6 +122,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
+		<p><b>Description</b>: Hello again, mellonamin. It is time for the Elves to have their place to live. Collect enough Elven Faction coins, and we\'ll start to build a true green city!</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Requirement</b>: 2M (2e6) Mana Regeneration</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

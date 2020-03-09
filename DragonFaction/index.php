@@ -154,7 +154,7 @@
         <hr>
         <p><b>Dragons Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
-        <p>Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.</p>
+        <p><b>Description</b>: Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
         <p><b>Cost</b>: 100 Tvg (1.0e74)</p>
         <p><b>Effect</b>: Unlocks Wyrm's Den</p>

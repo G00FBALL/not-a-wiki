@@ -90,7 +90,7 @@
         <hr>
         <p><b>Elven Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Training Grounds Quest</b></p>
-        <p>Hello, mellonamin. We require a new place to train our soldiers. Build enough Warrior Barracks, and we'll make them worthy of you.</p>
+        <p><b>Description</b>: Hello, mellonamin. We require a new place to train our soldiers. Build enough Warrior Barracks, and we'll make them worthy of you.</p>
         <p><b>Requirement</b>: R16 + 1750 Warrior Barracks</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
         <br/>
@@ -122,6 +122,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
+		<p><b>Description</b>:</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Requirement</b>: 1e23 Elf Faction Coins found.</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

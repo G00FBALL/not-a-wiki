@@ -110,7 +110,7 @@
         <hr>
         <p><b>Titan Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Olympian Hall Quest</b></p>
-        <p>Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accommodate the almighty Titans.</p>
+        <p><b>Description</b>: Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accommodate the almighty Titans.</p>
         <p><b>Requirement</b>: R22 + 2000 Halls of Legends.</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
         <br/>
@@ -154,7 +154,8 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
-        <p><b>Requirement</b>: 3750 royal exchanges</p>
+		<p><b>Description</b>: Khaire, ruler. Our kind want to reshape the mountain into something more fitting, but we need funds. Make enough Royal Exchanges, and we\'ll let you see our masterpiece.</p>
+        <p><b>Requirement</b>: 3750 Royal Exchanges</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>
         <br/>

@@ -129,7 +129,7 @@
         <hr>
         <p><b>R130+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOriginationQuest.png" align="middle"> Hall of Origination Quest</b></p>
-        <p>Hello, child! Your realm progress looks kinda... obsolete. Would you mind if we help improve your realm with our advanced perks? Please gather more Faction Coins to generate more energy!</p>
+        <p><b>Description</b>: Hello, child! Your realm progress looks kinda... obsolete. Would you mind if we help improve your realm with our advanced perks? Please gather more Faction Coins to generate more energy!</p>
         <p><b>Requirements</b>: R130+, Gather 5 TD (5e42) Faction Coins</p>
         <p><b>Cost</b>: 1 QaQig (1e165)</p>
         <br/>

@@ -117,7 +117,7 @@
         <hr>
         <p><b>Faceless Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCitiesQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities Quest</b></p>
-        <p>C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to build enough Labyrinths.</p>
+        <p><b>Description</b>: C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to build enough Labyrinths.</p>
         <p><b>Requirement</b>: R22, 2000 Labyrinths</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
         <br/>
@@ -161,6 +161,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
+		<p><b>Description</b>: Het'ankd gewob iiray. Gan'il Knes'fj pha'rgn wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to excavate enough).</p>
         <p><b>Requirement</b>: 5000 Excavations</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

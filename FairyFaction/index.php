@@ -90,7 +90,7 @@
         <p>Upon reaching R16, the game advisor tells us that the Vanilla factions have gained tremendous power, and that we should seek them once again.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Enchanted Field Quest</b></p>
-        <p>Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!</p>
+        <p><b>Description</b>: Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <p><b>Requirements</b>: R16 + 2250 Farms</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
@@ -123,6 +123,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
+		<p><b>Description</b>: Hey! [echoes a thousand times] Listen! [echoes again]. Then the overlapping voice of a thousand fairies fills your head with the desire of having more of their kind as assistants.</p>
         <p><b>Requirement</b>: 200K Assistants</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

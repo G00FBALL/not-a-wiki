@@ -140,7 +140,7 @@
         <hr>
         <p><b>R130+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</b></p>
-        <p>Greetings. You will have the honor of hosting our people. Cover your realm in Chaos magic for us!</p>
+        <p><b>Description</b>: Greetings. You will have the honor of hosting our people. Cover your realm in Chaos magic for us!</p>
         <p><b>Requirements</b>: R130+, 5 days of chaos spell activity time this Game (combined).</p>
         <p><b>Cost</b>: 1 QaQig (1e165)</p>
         <p><b>Note</b>: Chaos spells are: Maelstrom, Limited Wish, Catalyst, Hellfire Blast, Fairy Chanting and Brainwave.</p>

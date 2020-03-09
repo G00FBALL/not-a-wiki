@@ -110,7 +110,7 @@
         <hr>
         <p><b>Dwarf Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forge Quest</b></p>
-        <p>Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
+        <p><b>Description</b>: Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
         <p><b>Requirement</b>: R28 + 5000 Blacksmiths</p>
         <p><b>Cost</b>: 10 Sxg (1E184)</p>
         <p><b>Effect</b>: Unlocks Dwarven Forges.</p>

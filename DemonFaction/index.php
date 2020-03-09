@@ -85,7 +85,7 @@
         <hr>
         <p><b>Demon Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Realm Quest</b></p>
-        <p>Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!</p>
+        <p><b>Description</b>: Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!</p>
         <p><b>Requirement</b>: R16 + 1500 Hell Portals</p>
         <p><b>Cost</b>: 10 Dtg (1E100)</p>
         <br/>
@@ -116,6 +116,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
+		<p><b>Description</b>: Bwahahahaha! We are going to destroy this world! Everything will burn in the flames of hell! We want a Call to Arms longer than ever, everyone needs to suffer and despair!</p>
         <p><b>Requirement</b>: 120 seconds long Call to Arms.</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

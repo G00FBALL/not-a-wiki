@@ -206,7 +206,7 @@
             <hr>
             <p><b>Druid Research Requirements</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCirclesQuestFactionUpgrade.png" align="middle"> Stonehenge Circles Quest</b></p>
-            <p>Hello, friend. The balance of nature requires more magic to sustain it. Build enough Stone Pillars, we'll gather our elders to improve them.</p>
+            <p><b>Description</b>: Hello, friend. The balance of nature requires more magic to sustain it. Build enough Stone Pillars, we'll gather our elders to improve them.</p>
             <p><b>Requirement</b>: R22, 2000 Stone Pillars</p>
             <p><b>Cost</b>: 10 Dtg (1E100)</p>
             <br/>
@@ -248,6 +248,7 @@
             <p><b>Formula</b>: (9 * x ^ 0.3)%, where x is the sum of all your spell durations.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
+			<p><b>Description</b>: Hello, friend. We are close to restore the world balance... build us more Stonehenges, and we\'ll upgrade other buildings to be great places of power.</p>
             <p><b>Requirement</b>: 12K Stonehenges</p>
             <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
             <p><b>Effect</b>: Grants access to Unique Building.</p>
