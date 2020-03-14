@@ -324,13 +324,13 @@
                     <p><b>Duration</b>: ?</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S200,S215,S270,S305,S330,C120,C135,C150,C300,C400,D55,D200,D275,D290,D320,E135,E150,E200,E260,E330,E400A105,A120,A150,A330,A400,A305W120,W150,W320,W330,W350,">
+                        <input type="text" value="S200,S215,S270,S305,S330,C120,C135,C150,C300,C400,D55,D200,D275,D290,D320,E135,E150,E200,E260,E330,E400,A105,A120,A150,A330,A400,A305,W120,W150,W320,W330,W350,">
                     </p>
                     <p>S200,S215,S270,S305,S330,</p>
                     <p>C120,C135,C150,C300,C400,</p>
                     <p>D55,D200,D275,D290,D320,</p>
-                    <p>E135,E150,E200,E260,E330,E400</p>
-                    <p>A105,A120,A150,A330,A400,A305</p>
+                    <p>E135,E150,E200,E260,E330,E400,</p>
+                    <p>A105,A120,A150,A330,A400,A305,</p>
                     <p>W120,W150,W320,W330,W350,</p>
 					<p><b>Note</b>: Import build again after buying Ancient device to buy additional researches.</p>
                 </div>
