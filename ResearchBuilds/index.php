@@ -370,8 +370,7 @@
                     <p>E80,E135,E150,E225,E330,</p>
                     <p>A10,A105,A120,A250,A330,</p>
                     <p>W120,W150,W180,W320,W330</p>
-                    <p><b>Autocasting</b>: Tax Collection on gold, rest on silver</p>
-					<p><b>Note</b>: A250->A400 if unlocked</p>
+					<p><b>Note</b>: A250->A400 if unlocked.</p>
 					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all silver casts for 2-10 minutes for build up then resume the combo.</p>
                 </div>
             </div>
