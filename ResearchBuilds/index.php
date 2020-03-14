@@ -149,7 +149,7 @@
                     <p>E80,E135,E150,E200,E225,</p>
                     <p>A10,A105,A120,A150,A250,</p>
                     <p>W25,W120,W135,W150,W180</p>
-					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all silver casts for 2-10 minutes for build up then resume the combo.</p>
+					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Tax Collection for 2-10 minutes for build up then resume the combo.</p>
 					<p><b>Note</b>: C105->C250 if 1 hour offline or more this R.</p>
                 </div>
             </div>
@@ -194,7 +194,7 @@
                     <p>E80,E135,E150,E200,E225,</p>
                     <p>A10,A105,A120,A150,A250,</p>
                     <p>W25,W120,W135,W150,W180</p>
-					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all silver casts for 2-10 minutes for build up then resume the combo.</p>
+					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Tax Collection for 2-10 minutes for build up then resume the combo.</p>
 					<p><b>Note</b>: C105->C250 if 1 hour offline or more this R.</p>
                 </div>
             </div>
@@ -239,7 +239,7 @@
                     <p>E80,E135,E150,E200,E225,</p>
                     <p>A10,A105,A120,A150,A250,</p>
                     <p>W25,W120,W135,W150,W180</p>
-					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all silver casts for 2-10 minutes for build up then resume the combo.</p>
+					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Tax Collection for 2-10 minutes for build up then resume the combo.</p>
 					<p><b>Note</b>: C105->C250 if 1 hour offline or more this R.</p>
                 </div>
             </div>
@@ -323,7 +323,7 @@
                     <p>E80,E135,E150,E225,E330,</p>
                     <p>A10,A105,A120,A250,A330,</p>
                     <p>W120,W150,W180,W320,W330</p>
-					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all silver casts for 2-10 minutes for build up then resume the combo.</p>
+					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Tax Collection for 2-10 minutes for build up then resume the combo.</p>
 					<p><b>Note</b>: C105->C250 if 1 hour offline or more this R.</p>
                 </div>
             </div>
@@ -371,7 +371,7 @@
                     <p>A10,A105,A120,A250,A330,</p>
                     <p>W120,W150,W180,W320,W330</p>
 					<p><b>Note</b>: A250->A400 if unlocked.</p>
-					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all silver casts for 2-10 minutes for build up then resume the combo.</p>
+					<p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Tax Collection for 2-10 minutes for build up then resume the combo.</p>
                 </div>
             </div>
 						<div class="shelementwhole">
