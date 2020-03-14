@@ -124,7 +124,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Slave Market Quest" align="middle"> <b>Slave Market Quest</b></p>
-		<p><b>Description</b>: Welcome again, dearest ally. We need your help once more: improve your mana potency in this new era, and we\'ll reward you by blessing the ground you walk on.</p>
+		<p><b>Description</b>: Time is money, friend! The markets are expanding, we need new places to sell our slaves to! Build more Neutral buildings for us, will you?</p>
         <p><b>Requirement</b>: 30K Neutral buildings.</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

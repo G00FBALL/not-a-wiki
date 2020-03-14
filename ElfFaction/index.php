@@ -122,7 +122,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
-		<p><b>Description</b>:</p>
+		<p><b>Description</b>: Hello again, mellonamin. It is time for the Elves to have their place to live. Collect enough Elven Faction coins, and we'll start to build a true green city!</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Requirement</b>: 1e23 Elf Faction Coins found.</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

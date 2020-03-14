@@ -85,59 +85,6 @@
             <p>1 Sxqag (1e141) gems - 20 Lightning Strikes needed</p>
             <p>1 Spqag (1e144) gems - 19 Lightning Strikes needed</p>
             <p>1 Ocqag (1e147) gems - 18 Lightning Strikes needed</p>
-            <p>1 Noqag (1e150) gems - 17 Lightning Strikes needed</p>
-            <p>1 Qig (1e153) gems - 16 Lightning Strikes needed</p>
-            <p>1 UQig (1e156) gems - 15 Lightning Strikes needed</p>
-            <p>1 DQig (1e159) gems - 14 Lightning Strikes needed</p>
-            <p>1 TQig (1e162) gems - 13 Lightning Strikes needed</p>
-            <p>1 QaQig (1e165) gems - 13 Lightning Strikes needed</p>
-            <p>1 QiQig (1e168) gems - 12 Lightning Strikes needed</p>
-            <p>1 SxQig (1e171) gems - 11 Lightning Strikes needed</p>
-            <p>1 SpQig (1e174) gems - 11 Lightning Strikes needed</p>
-            <p>1 OcQig (1e177) gems - 10 Lightning Strikes needed</p>
-            <p>1 NoQig (1e180) gems - 10 Lightning Strikes needed</p>
-            <p>1 Sxg (1e183) gems - 9 Lightning Strikes needed</p>
-            <p>1 USxg (1e186) gems - 9 Lightning Strikes needed</p>
-            <p>1 DSxg (1e189) gems - 9 Lightning Strikes needed</p>
-            <p>1 TSxg (1e192) gems - 8 Lightning Strikes needed</p>
-            <p>1 QaSxg (1e195) gems - 8 Lightning Strikes needed</p>
-            <p>1 QiSxg (1e198) gems - 8 Lightning Strikes needed</p>
-            <p>1 SxSxg (1e201) gems - 7 Lightning Strikes needed</p>
-            <p>1 SpSxg (1e204) gems - 7 Lightning Strikes needed</p>
-            <p>1 OcSxg (1e207) gems - 7 Lightning Strikes needed</p>
-            <p>1 NoSxg (1e210) gems - 6 Lightning Strikes needed</p>
-            <p>1 Spg (1e213) gems - 6 Lightning Strikes needed</p>
-            <p>1 USpg (1e216) gems - 6 Lightning Strikes needed</p>
-            <p>1 DSpg (1e219) gems - 6 Lightning Strikes needed</p>
-            <p>1 TSpg (1e222) gems - 5 Lightning Strikes needed</p>
-            <p>1 QaSpg (1e225) gems - 5 Lightning Strikes needed</p>
-            <p>1 QiSpg (1e228) gems - 5 Lightning Strikes needed</p>
-            <p>1 SxSpg (1e231) gems - 5 Lightning Strikes needed</p>
-            <p>1 SpSpg (1e234) gems - 5 Lightning Strikes needed</p>
-            <p>1 OcSpg (1e237) gems - 5 Lightning Strikes needed</p>
-            <p>1 NoSpg (1e240) gems - 4 Lightning Strikes needed</p>
-            <p>1 Ocg (1e243) gems - 4 Lightning Strikes needed</p>
-            <p>1 UOcg (1e246) gems - 4 Lightning Strikes needed</p>
-            <p>1 DOcg (1e249) gems - 4 Lightning Strikes needed</p>
-            <p>1 TOcg (1e252) gems - 4 Lightning Strikes needed</p>
-            <p>1 QaOcg (1e255) gems - 4 Lightning Strikes needed</p>
-            <p>1 QiOcg (1e258) gems - 4 Lightning Strikes needed</p>
-            <p>1 SxOcg (1e261) gems - 4 Lightning Strikes needed</p>
-            <p>1 SpOcg (1e264) gems - 3 Lightning Strikes needed</p>
-            <p>1 OcOcg (1e267) gems - 3 Lightning Strikes needed</p>
-            <p>1 NoOcg (1e270) gems - 3 Lightning Strikes needed</p>
-            <p>1 Nog (1e273) gems - 3 Lightning Strikes needed</p>
-            <p>1 UNog (1e276) gems - 3 Lightning Strikes needed</p>
-            <p>1 DNog (1e279) gems - 3 Lightning Strikes needed</p>
-            <p>1 TNog (1e282) gems - 3 Lightning Strikes needed</p>
-            <p>1 QaNog (1e285) gems - 3 Lightning Strikes needed</p>
-            <p>1 QiNog (1e288) gems - 3 Lightning Strikes needed</p>
-            <p>1 SxNog (1e291) gems - 3 Lightning Strikes needed</p>
-            <p>1 SpNog (1e294) gems - 3 Lightning Strikes needed</p>
-            <p>1 OcNog (1e297) gems - 3 Lightning Strikes needed</p>
-            <p>1 NoNog (1e300) gems - 3 Lightning Strikes needed</p>
-            <p>1 C (e303) gems - 2 Lightning Strikes needed</p>
-            <p>1 Uc (e306) gems - 2 Lightning Strikes needed</p>
         </div>
     </div>
     <hr>
@@ -146,7 +93,7 @@
     <p>"The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
     <p><b>Challenge</b>: Hit Halls of Legends with Lightning Strike 2 times in a row while having all building types and no researches.</p>
-    <p><b>Effect</b>: Every 5 minutes you automatically generate Faction Coins based on the amount of Gems you own.</p>
+    <p><b>Effect</b>: Every 5 minutes you automatically generate Faction Coins based on Lightning Strike's Faction Coins production.</p>
     <p><b>Formula</b>: round(0.05 * x), where x is the amount of Faction coins generated from a Lightning Strike.</p>
     <p><b>Upgrade</b>: Works with All</p>
     <p><b>Tip</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs. <a target="_blank" href="http://dox4242.github.io/rws/index.html" research="Allows you to see what Lightning Strike will hit next"> <b>The Realm Weather Service</b></a> can help to forecast.</p>

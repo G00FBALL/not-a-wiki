@@ -248,7 +248,7 @@
             <p><b>Formula</b>: (9 * x ^ 0.3)%, where x is the sum of all your spell durations.</p>
             <br/>
             <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
-			<p><b>Description</b>: Hello, friend. We are close to restore the world balance... build us more Stonehenges, and we\'ll upgrade other buildings to be great places of power.</p>
+			<p><b>Description</b>: Hello, friend. We are close to restore the world balance... build us more Stonehenges, and we'll upgrade other buildings to be great places of power.</p>
             <p><b>Requirement</b>: 12K Stonehenges</p>
             <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
             <p><b>Effect</b>: Grants access to Unique Building.</p>

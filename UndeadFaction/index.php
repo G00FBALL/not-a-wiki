@@ -119,7 +119,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
-		<p><b>Description</b>: Heelloo... The dead need to rest... accumulate a high enough offline production to allow them their peace, and they\'ll be forever your servants.</p>
+		<p><b>Description</b>: Heelloo... The dead need to rest... accumulate a high enough offline production to allow them their peace, and they'll be forever your servants.</p>
         <p><b>Requirement</b>: 85M% offline production bonus</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>
