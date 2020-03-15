@@ -1010,7 +1010,7 @@
 	<p><b>Requirement</b>: Have 2x Gems in Abdication Treasury
 	<p><b>Cost</b>: 1.117 NoQig (1.117E180)
 	<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings owned.
-	<p>Also increase FC chance find chance by a multiplicative 100%.
+	<p><b>Effect</b>: Also increase FC chance find chance by a multiplicative 100%.
 	<p><b>Formula</b>: 5 * x ^ 0.9, where x is Unique Building owned
 	" coords="3,857,51,906" shape="rect">
         <area research="E330 - For All Factions
