@@ -155,7 +155,6 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Requirement</b>: All Demon faction upgrades bought, Infernal Realm</p>
 <p><b>Cost</b>: 10 Notg (1E121) coins, 1 M (1E6) Demon coins</p>
 <p><b>Effect</b>: Unlocks Warfare Research Facilities</p>
-<p><b>Note</b>: Stay with this run to until you get to step 2.</p>
 <hr>
 <style>
   div#images{
