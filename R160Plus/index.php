@@ -376,8 +376,8 @@
                 <p><b>Range</b>: D5625 buffed (1407%/1 day)+</p>
                 <p><b>Alignment</b>: Good/Balance</p>
                 <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Elf</p>
-                <p><b>Stoneheart Set</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Stoneheart Set</b>: Elf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S30,S105,S135,S150,S175,S200,S215,S330,S400,S500,S545,S3200,C1,C105,C150,C250,C340,C400,C500,C520,C590,C3100,D50,D290,D5625,E25,E30,E320,E5625,A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,F5750">
