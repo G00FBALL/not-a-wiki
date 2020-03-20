@@ -314,7 +314,7 @@
                 <p>A30,A120,A270,A305,A545,A1500,A2950,</p>
                 <p>W5625,W205,W275,W400,W1275,W180,</p>
                 <p>F5500</p>
-                <p><b>Notes</b>: Save Excavation resets, do F6000, build scales on time this R.</p>
+                <p><b>Notes</b>: Buff Excavation resets, do F6000, build scales on time this R.</p>
             </div>
         </div>
     </div>
@@ -370,7 +370,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="Blue"> Good</font></b>/<b><font color="grey">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="Blue"> Good</font></b>/<b><font color="grey">Balance</font> Needs Testing</b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
                 <p><b>Range</b>: D5625 buffed (1407%/1 day)+</p>
