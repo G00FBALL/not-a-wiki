@@ -373,7 +373,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b> Needs Testing</b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
-                <p><b>Range</b>: D5625 buffed (1407%/1 day)+</p>
+                <p><b>Range</b>: D5625 buffed (?)</p>
                 <p><b>Alignment</b>: Good/Balance</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -396,9 +396,9 @@
     <p><b>Lineages</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">A3 Lineage Leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Lineage pusher</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: kuile</p>
+                <p><b>Author</b>: kuile, modified by Wolfsblood</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
                 <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
@@ -406,19 +406,18 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL1,EL7,DW12,FC2,DW6,AN5,AN6,GB7,AN11,DD3,FC7,AN12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Precognition,UNN:DG,S200,S330,S400,S545,S3200,C5875,D25,D55,D275,D5625,E135,E230,E290,E320,E400,E1325,A105,A120,A150,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400,F5750" id="Build">
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Precognition,UNN:DG,S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,C120,C5875,D25,D55,D275,D5625,E30,E135,E145,E150,E200,E230,E320,E330,E350,E400,E460,E480,E1325,E1425,A55,A105,A120,A150,A270,A305,A545,A1500,A2950,W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,F5250">
 				</p>
-                <p>EL1,EL7,DW12,FC2,DW6,AN5,AN6,GB7,AN11,DD3,FC7,AN12,AR5,AR8,AR10,MK1,</p>
+                <p>EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,</p>
                 <p>SP:Dragon's Breath,SP:Precognition,UNN:DG,</p>
-                <p>S200,S330,S400,S545,S3200,</p>
-                <p>C5875,</p>
+                <p>S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,</p>
+                <p>C120,C5875,</p>
                 <p>D25,D55,D275,D5625,</p>
-                <p>E135,E230,E290,E320,E400,E1325,</p>
-                <p>A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
-                <p>W180,W275,W400,W1275,W1375,W1400,</p>
-                <p>F5750</p>
+                <p>E30,E135,E145,E150,E200,E230,E320,E330,E350,E400,E460,E480,E1325,E1425,</p>
+                <p>A55,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
+                <p>W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,</p>
+                <p>F5250</p>
                 <p><b>Note</b>: Buff D5625, S400, W275, and Excavation resets.</p>
-                <p><b>Note</b>: Can reach L86 in a few hours with 4d D5625, 2e7 S400, 1.5e20% W275, 51 Resets.</p>
             </div>
         </div>
     </div>
