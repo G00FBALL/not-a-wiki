@@ -334,8 +334,7 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,C340,C400,E290,E400,E135,E145,E1325,A2950,A120,S400,D200,D275,D290,W275,W400">
 				</p>
-                <p>FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,</p>
-                <p>FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,</p>
+                <p>FR3,EL7,AN5,GB4,UD8,DM6,TT10,DD11,FC7,DN2,DW2,DG12,AR2,AR10,DJ7,MK6,</p>
                 <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace</p>
                 <p>S400,</p>
                 <p>C340,C400,</p>
@@ -358,8 +357,7 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:God's Hand,SP:Goblin's Greed,UB:Mountain Palace,UNN:EL,S200,S400,S435,S590,S1500,S2875,C25,C105,C340,C400,C590,C1500,C3000,D150,D275,D290,D2775,E25,E30,E135,E145,E275,E290,E320,E400,E460,E480,E590,E1325,E1425,A55,A105,A120,A250,A375,A590,A1500,A2950,W25,W120,W150,W180,W200,W275,W590,W1375,W3050">
 				</p>
-                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,</p>
-                <p>FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
+                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
                 <p>SP:God's Hand,SP:Goblin's Greed,UB:Mountain Palace,UNN:EL</p>
                 <p>S200,S400,S435,S590,S1500,S2875,</p>
                 <p>C25,C105,C340,C400,C590,C1500,C3000,</p>
@@ -370,10 +368,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b> Needs Testing</b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
-                <p><b>Range</b>: D5625 buffed (?)</p>
+                <p><b>Range</b>: D5625 buffed (8 hours+ ?)</p>
                 <p><b>Alignment</b>: Good/Balance</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -389,6 +387,7 @@
                 <p>A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,</p>
                 <p>W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,</p>
                 <p>F5750</p>
+				<p><b>Notes</b>: Estimated time to God's Fingers is ?.</p>
             </div>
         </div>
     </div>
@@ -417,7 +416,52 @@
                 <p>A55,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
                 <p>W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,</p>
                 <p>F5250</p>
-                <p><b>Note</b>: Buff D5625, S400, W275, and Excavation resets.</p>
+                <p><b>Note</b>: Buff D5625, S400, W275 and Excavation resets.</p>
+				<p><b>Note</b>: This build does not pick Mercenary Building Contract on purpose.</b>
+            </div>
+        </div>
+		        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Secondary Lineage leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: kuile, modified by Wolfsblood</p>
+                <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
+                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Any</p>
+                <p><b>A2950</b>: Druid</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,C120,C5875,D25,D55,D275,D5625,E30,E135,E145,E150,E200,E230,E320,E330,E350,E400,E460,E480,E1325,E1425,A55,A105,A120,A150,A270,A305,A545,A1500,A2950,W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,F5250">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,C120,C5875,D25,D55,D275,D5625,E30,E135,E145,E150,E200,E230,E320,E330,E350,E400,E460,E480,E1325,E1425,A55,A105,A120,A150,A270,A305,A545,A1500,A2950,W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,F5250">
+					<b>Dragon Lineage</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,C120,C5875,D25,D55,D275,D5625,E30,E135,E145,E230,E320,E400,E1325,E3300,A55,A105,A120,A150,A270,A305,A545,A1500,A2950,W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,F5250">
+					<b>Fairy, Drow and Djinn Lineages</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,C120,C5875,D25,D55,D290,D5625,E30,E135,E145,E230,E320,E400,E1325,E3300,A55,A105,A120,A150,A270,A305,A545,A1500,A2950,W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,F5250">
+					<b>Dwarf Lineage</b>
+				</p>
+                <p>EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,FC2,FC7,DW6,DW12,AR5,AR8,AR10,MK1,</p>
+                <p>SP:Dragon's Breath,SP:SP:Infinite Spiral,UNN:DG,</p>
+                <p>S150,S180,S200,S215,S270,S330,S400,S460,S590,S3200,</p>
+                <p>C120,C5875,</p>
+                <p>D25,D55,D275,D5625,</p>
+                <p>E30,E135,E145,E150,E200,E230,E320,E330,E350,E400,E460,E480,E1325,E1425,</p>
+                <p>A55,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
+                <p>W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,</p>
+                <p>F5250</p>
+                <p><b>Note</b>: Buff D5625, S400, W275 and Excavation resets.</p>
+				<p><b>Note</b>: This build does not pick Mercenary Building Contract on purpose, unless otherwise stated.</b>
+				<p><b>Note</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</b>
+				<p><b>Note</b>: For Fairy, Dwarf, Drow and Djinn Lineages, swap E150,E200,E330,E350,E460,E480,E1425 with E3300, and pick Ziggurat on building contract.</b>
+				<p><b>Note</b>: For Dwarf Lineage, swap D275 with D290.</b>
             </div>
         </div>
     </div>
