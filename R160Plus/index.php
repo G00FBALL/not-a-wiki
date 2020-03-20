@@ -370,7 +370,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ God's Fingers</a></b><b><font color="Blue"> Good</font></b>/<b><font color="grey">Balance</font> Needs Testing</b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b> Needs Testing</b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
                 <p><b>Range</b>: D5625 buffed (1407%/1 day)+</p>
