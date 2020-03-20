@@ -243,18 +243,17 @@
                 <p><b>Artifact Set</b>: Dragon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD4,DD10,FC2,FC11,DN2,AR2,AR5,AR10,DJ9,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,S5875,S30,S150,S200,S215,S330,S400,S2875,C5875,C175,C250,C340,C400,C590,C1300,D5875,D200,D275,D290,D330,D1375,D1275,D320,E135,E320,E1425,E5625,A5375,A120,A270,A2950,W5125,W275,W400,W1275,W1375,W180,W120,W1400,F6000">
+                    <input type="text" value="EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD4,DD10,FC2,FC11,DN2,AR2,AR5,AR10,DJ9,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:ARS200,S400,S5875,S30,S150,S215,S270,S330,S2875,C175,C250,C340,C400,C590,C5875,C1300,C1500,D200,D290,D330,D5875,D25,D55,D275,D320,D1275,D1375,E135,E320,E1425,E5625,E330,E350,E400,E480,E1225,A120,A270,A2950,A5375,A1500,A305,W275,W400,W1275,W1375,W5125,W120,W150,W180,W1400,F6000">
 				</p>
                 <p>EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD4,DD10,FC2,FC11,DN2,AR2,AR5,AR10,DJ9,</p>
                 <p>SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,</p>
-                <p>S5875,S30,S150,S200,S215,S330,S400,S2875,</p>
-                <p>C5875,C175,C250,C340,C400,C590,C1300,</p>
-                <p>D5875,D200,D275,D290,D330,D1375,D1275,D320,</p>
-                <p>E135,E320,E1425,E5625,</p>
-                <p>A5375,A120,A270,A2950,</p>
-                <p>W5125,W275,W400,W1275,W1375,W180,W120,W1400,</p>
+                <p>S200,S400,S5875,S30,S150,S215,S270,S330,S2875,</p>
+                <p>C175,C250,C340,C400,C590,C5875,C1300,C1500,</p>
+                <p>D200,D290,D330,D5875,D25,D55,D275,D320,D1275,D1375,</p>
+                <p>E135,E320,E1425,E5625,E330,E350,E400,E480,E1225,</p>
+                <p>A120,A270,A2950,A5375,A1500,A305,</p>
+                <p>W275,W400,W1275,W1375,W5125,W120,W150,W180,W1400,</p>
                 <p>F6000</p>
-                <p><b>Note</b>: Manually pick A1500, A305 if available.</p>
                 <p><b>Note</b>: Getting 11h+ on F6000 with 4e16 (40 Qa)% W275, 4e6 (4 M) S400, Faceless Lineage L75, 1e70 (10 Dvg) gems.</p>
             </div>
         </div>
