@@ -209,7 +209,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Fairy (Assistants, Buildings)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Weedheter</p>
-                <p><b>Range</b>: 1e45 (1 Qadd) Gems+</p>
+                <p><b>Range</b>: 1e45 (1 Qad) Gems+</p>
 				<p><b>Requirement</b>: 1e7 (10 M) clicks, 1e18 (1 Qi) spells cast</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Makers</p>
