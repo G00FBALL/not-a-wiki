@@ -371,7 +371,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
-                <p><b>Range</b>: D5625 buffed (8 hours+ ?)</p>
+                <p><b>Range</b>: D5625 buffed (5 hours+ ?)</p>
                 <p><b>Alignment</b>: Good/Balance</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -387,7 +387,7 @@
                 <p>A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,</p>
                 <p>W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,</p>
                 <p>F5750</p>
-				<p><b>Notes</b>: Estimated time to God's Fingers is ?.</p>
+				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 4 hours (with 5 hours D5625).</p>
             </div>
         </div>
     </div>
