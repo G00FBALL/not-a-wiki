@@ -140,10 +140,10 @@
             </div>
         </div>
 				<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e65 (100 Vg)(?) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e55 (10 Spd)(?) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
-                <p><b>Range</b>: 1e65 (100 Vg)(?) Gems - ?</p>
+                <p><b>Range</b>: 1e55 (10 Spd)(?) Gems - ?</p>
 				<p><b>Requirement</b>: Prismatic Balance +10, All Advanced Heritages</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
