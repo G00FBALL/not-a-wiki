@@ -14,7 +14,7 @@
 <div class="shlisting">
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e45 (1 Qad) / 1e50 (100 Qid)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116+ Titanline Faceless 0 - 1e45 (1 Qad) / 1e50 (100 Qid)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
                 <p><b>Range</b>: 0 - 1e45 (100 Qad) / 1e50 (100 Qid) (All Advanced Heritages) Gems</p>
@@ -42,7 +42,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves 1e40 (10 Dd) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Undeadline Elves 1e40 (10 Dd) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ashen Rider</p>
                 <p><b>Range</b>: 1e40 (10 Dd) Gems - ?</p>
@@ -67,8 +67,30 @@
                 <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11.</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Druidline Angel 1e55 (10 Spd) - ?<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Glenniss2, Iluxa4000</p>
+                <p><b>Range</b>: 1e55 (10 Spd) Gems - ?</p>
+                <p><b>Requirement</b>: Prismatic Balance +10</p>
+                <p><b>Faction</b>: Angel</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Artifact Set</b>: Elf</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W560,W1375">
+				</p>
+                <p>S10,S3200,</p>
+                <p>C25,C340,C405,C520,</p>
+                <p>D1,D175,D435,D590,D1375,</p>
+                <p>E400,E410,</p>
+                <p>A50,A120,A495,</p>
+                <p>W225,W560,W1375</p>
+                <p><b>Notes</b>: Takes estimated 10 to 40 minutes to buy Spiritual Surge 7.</p>
+            </div>
+        </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves 1e50 (100 Qid) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Faceline Elves 1e50 (100 Qid) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e50 (100 Qid) Gems - ?</p>
@@ -95,14 +117,15 @@
                 <p><b>Notes</b>: highly benefits from high click count.</p>
             </div>
         </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angel 1e55 (10 Spd) - ?<font color="Blue"> Good</font></a></b></p>
+				<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e65 (100 Vg)(?) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
-                <p><b>Range</b>: 1e55 (10 Spd) Gems - ?</p>
-                <p><b>Faction</b>: Angel
-                <p><b>Bloodline</b>: Druid
-                <p><b>Artifact Set</b>: Elf
+                <p><b>Range</b>: 1e65 (100 Vg)(?) Gems - ?</p>
+				<p><b>Requirement</b>: Prismatic Balance +10</p>
+                <p><b>Faction</b>: Angel</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Artifact Set</b>: Elf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W560,W1375">
@@ -259,7 +282,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (Spells cast)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e52 (10 SxD) gems+</p>
@@ -279,7 +302,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (FC12)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (Max mana )<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Range</b>: ?</p>
@@ -300,7 +323,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Faceset Titans (GB11)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Faceset Titans (Mana Spent)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Range</b>: ?</p>
