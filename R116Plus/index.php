@@ -35,10 +35,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Undeadline Elves 1e40 (10 Dd) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Undeadline Elves 1e45 (1 Qad) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ashen Rider</p>
-                <p><b>Range</b>: 1e40 (10 Dd) Gems - ?</p>
+                <p><b>Range</b>: 1e45 (1 Qad) Gems - ?</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>Artifact Set</b>: Elf</p>
