@@ -12,13 +12,12 @@
     <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b> page</a></p>
 <br/>
 <div class="shlisting">
-    <p><b>Production builds need tested to get proper gem ranges.</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e45 (1 Qad) / 1e50 (100 Qid)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
+                <p><b>Range</b>: 0 - 1e45 (100 Qad) / 1e50 (100 Qid) (All Advanced Heritages) Gems</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Artifact Set</b>: Druid</p>
@@ -29,7 +28,7 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
-					<b>R120+ (with all AH)</b>
+					<b>R120+ with all Advanced Heritages and before AotC</b>
 				</p>
                 <p>S215,S251,S375,S1450,S1500,</p>
                 <p>C340,C1300,</p>
@@ -38,8 +37,8 @@
                 <p>A400,A300,A1200,</p>
                 <p>W180,W275,W1400</p>
                 <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
-                <p><b>Notes</b>: It slows down at 1e45 (1 Qad) Gems without buffing FC12.</p>
-                <p><b>Notes</b>: For R120+ (with all Advanced Heritages), Swap S215 for S3200 before AotC is affordable.</p>
+                <p><b>Notes</b>: Slows down at 1e45 (1 Qad) Gems without buffing FC12.</p>
+                <p><b>Notes</b>: For R120+ (with all Advanced Heritages), Swap S215 for S3200 before AotC is affordable (up to ? Gems).</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -69,11 +68,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elfset Elves 1e50 (100 Qid) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Elves 1e50 (100 Qid) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Rellikrellik
+                <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e50 (100 Qid) Gems - ?</p>
-                <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage
+                <p><b>Requirment</b>: Faceless L30 and Faceless Advanced Heritage</p>
                 <p><b>Faction</b>: Elf
                 <p><b>Bloodline</b>: Faceless
                 <p><b>Artifact Set</b>: Elf
@@ -97,24 +96,24 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elfset Angel 1e65 (100 Vg) - ?<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angel 1e55 (10 Spd) - ?<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Rellikrellik, liminal.shadow
-                <p><b>Range</b>: 1e65 (100 Vg) Gems - ?</p>
+                <p><b>Author</b>: Glenniss2, Iluxa4000</p>
+                <p><b>Range</b>: 1e55 (10 Spd) Gems - ?</p>
                 <p><b>Faction</b>: Angel
                 <p><b>Bloodline</b>: Druid
                 <p><b>Artifact Set</b>: Elf
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S400,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W400,W560">
+                    <input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W560,W1375">
 				</p>
-                <p>S10,S400,</p>
+                <p>S10,S3200,</p>
                 <p>C25,C340,C405,C520,</p>
                 <p>D1,D175,D435,D590,D1375,</p>
                 <p>E400,E410,</p>
                 <p>A50,A120,A495,</p>
-                <p>W225,W400,W560</p>
-                <p><b>Notes</b>: Slow build, works best after at least 1d ~ 1d12h time spent this game.</p>
+                <p>W225,W560,W1375</p>
+                <p><b>Notes</b>: Takes estimated 10 to 40 minutes to buy Spiritual Surge 7.</p>
             </div>
         </div>
     </div>
@@ -168,7 +167,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lantern Of Guidance (Tier 2 Temporal Flux) (R120)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lantern Of Guidance (Tier 2 Temporal Flux) (R120+)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e52+ (1 Sxd) Gems+</p>
@@ -193,7 +192,7 @@
     <p><b>Trophy Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master Trophy 1e65+ (100 Vg)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master Trophy<font color="darkred"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
                 <p><b>Range</b>: 1e65 (100 Vg) Gems+</p>
@@ -218,7 +217,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Dwarfset Fairies (W275)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairies (W275)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ? Gems+</p>
@@ -227,18 +226,40 @@
                 <p><b>Artifact Set</b>: Dwarf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D1375,D435,E50,E135,E410,A30,A120,A495,W560,W1375">
+                    <input type="text" value="S1,S180,S400,S590,C10,C340,C405,C520,D225,D435,D1375,E50,E135,E410,A30,A120,A495,W560,W1375">
 				</p>
                 <p>S1,S180,S400,S590,</p>
                 <p>C10,C340,C405,C520,</p>
-                <p>D225,D1375,D435,</p>
+                <p>D225,D435,D1375</p>
                 <p>E50,E135,E410,</p>
                 <p>A30,A120,A495,</p>
                 <p>W560,W1375</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems W275)<font color="Blue"> Good</font></a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Sad</p>
+                <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
+                <p><b>Faction</b>: Fairy</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S225,S400,S435,C340,D25,D560,D1375,E10,E400,E495,A1,A175,A410,A590,A3400,W50,W205,W405,W520">
+				</p>
+                <p>S225,S400,S435,</p>
+                <p>C340,</p>
+                <p>D25,D560,D1375,</p>
+                <p>E10,E400,E495,</p>
+                <p>A1,A175,A410,A590,A3400,</p>
+                <p>W50,W205,W405,W520</p>
+				<p><b>Notes</b>: Cast Tax Collection only until you get Fairy lineage and undead union upgrades.</p>
+				<p><b>Notes</b>: Run until at Drow Upgrade 12 is bought at minimum.</p>
+            </div>
+        </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undeadset Goblins (S400)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (S400)<font color="DarkRed"> Evil</font></a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e52 (10 SxD) gems+</p>
