@@ -37,7 +37,7 @@
                 <p><b>Author</b>: dzed</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
@@ -60,8 +60,8 @@
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e70 (10 Dvg) Gems</p>
-                <p><b>Requirement</b>: A3 Artifacts</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Requirement</b>: A3 Research Facility Artifacts</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Titan</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
@@ -84,7 +84,7 @@
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
                 <p><b>Range</b>: 0 - 1e85 (10 Spvg) Gems</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>D5875</b>: Archon</p>
@@ -116,7 +116,7 @@
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e80 (100 Qivg) Gems(?) - ?</p>
 				<p><b>Requirement</b>: F6000 buff before each run</p>
-                <p><b>Alignment</b>: Evil/Chaos Mercenary</p>
+                <p><b>Faction</b>: Evil/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Fairy, Demon (2d16-8d16h)</p>
                 <p><b>A2950</b>: Dragon, Faceless (8d16h+)</p>
                 <p><b>D5875</b>: Archon</p>
@@ -237,7 +237,7 @@
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
-                <p><b>Alignment</b>: Evil/Order Mercenary</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>D5875</b>: Archon</p>
@@ -271,7 +271,7 @@
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
-                <p><b>Alignment</b>: Evil/Chaos Mercenary</p>
+                <p><b>Faction</b>: Evil/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>D5875</b>: Archon</p>
@@ -294,11 +294,11 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ F6000</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></a></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ F6000</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kiluh</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>A2950</b>: Makers</p>
                 <p><b>D5875</b>: Archon</p>
@@ -318,6 +318,29 @@
                 <p>F6000</p>
             </div>
         </div>
+				<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R190+ Facelessline Titans F6000 (For higher gems)</a> Needs Testing</b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Wolfsblood</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+				<p><b>Requirement</b>: Buff D5625 (1 Day+), Dragon Set (?) </p>
+                <p><b>Faction</b>: Titan</p>
+                <p><b>Bloodline</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Dragon</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S5875,S200,S400,C5875,C340,C400,C250,D5625,D330,D200,D290,E5625,E1325,E135,E320,A5375,A400,A120,A270,A305,A3400,W1275,W1375,W400,W5125,W120,W150,F6000">
+				</p>
+                <p>S5875,S200,S400,</p>
+                <p>C5875,C340,C400,C250,</p>
+                <p>D5625,D330,D200,D290,</p>
+                <p>E5625,E1325,E135,E320,</p>
+                <p>A5375,A400,A120,A270,A305,A3400,</p>
+                <p>W1275,W1375,W400,W5125,W120,W150,</p>
+                <p>F6000</p>
+				<p><b>Notes</b>: Pick additional researches that increase production.</p>
+            </div>
+        </div>
     </div>
     <br/>
     <p><b>Artifact/Trophy Builds</b></p>
@@ -327,7 +350,7 @@
             <div class="autohide">
                 <p><b>Author</b>: somarilnos</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Neutral/Order Mercenary</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
@@ -350,7 +373,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Marah</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
@@ -369,11 +392,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Aramil Nailo</p>
                 <p><b>Range</b>: D5625 buffed (5 hours+ ?)</p>
-                <p><b>Alignment</b>: Good/Balance</p>
+                <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p><b>Stoneheart Set</b>: Elf</p>
@@ -400,7 +423,7 @@
             <div class="autohide">
                 <p><b>Author</b>: kuile, modified by Wolfsblood</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
-                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Druid</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
@@ -426,7 +449,7 @@
             <div class="autohide">
                 <p><b>Author</b>: kuile, modified by Wolfsblood</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
-                <p><b>Alignment</b>: Neutral/Balance Mercenary</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Any</p>
                 <p><b>A2950</b>: Druid</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
