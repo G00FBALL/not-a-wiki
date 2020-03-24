@@ -239,7 +239,7 @@
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems W275)<font color="Blue"> Good</font></a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Sad</p>
+                <p><b>Author</b>: Glenniss2</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Undead</p>
