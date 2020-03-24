@@ -106,8 +106,8 @@
                 <p>A120,A270,A305,A1200,A1500,A2950,</p>
                 <p>W175,W275,W400,W5125,W1275,</p>
                 <p>F5250</p>
-				<p><b>Note</b>: With at least 8h (?) spent this R, switch AR10 -> MK10.</p>
-                <p><b>Note</b>: Benefits from buffing current excavations count, mana generated this R and W275.</p>
+				<p><b>Notes</b>: With at least 8h (?) spent this R, switch AR10 -> MK10.</p>
+				<p><b>Notes</b>: Benefits from buffing current excavations count, mana generated this R and W275.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -149,12 +149,12 @@
                 <p>A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,</p>
                 <p>W5125,W1275,W275,W400,W25,W525,W205,</p>
                 <p>F5500</p>
-				<p><b>Note</b>: Buffing W275, S400 is very important.</p>
-				<p><b>Note</b>: Maelstrom should buff HoL with assistants.</p>
-                <p><b>Note</b>: 2d16h-8d16h time this R: use Demonline + Dragon A2950.</p>
-                <p><b>Note</b>: 8d16h+ time this R: use Fairyline + Faceless A2950, swap AN12 -> AR12.</p>
-                <p><b>Note</b>: 1d10h+ time this game: swap all A researches except A30, A270, A2950 for A5125.</p>
-				<p><b>Note</b>: If buffing excavations is the primary goal, always use Fairyline + Dragon A2950.</p>
+				<p><b>Notes</b>: Buffing W275, S400 is very important.</p>
+				<p><b>Notes</b>: Maelstrom should buff HoL with assistants.</p>
+                <p><b>Notes</b>: 2d16h-8d16h time this R: use Demonline + Dragon A2950.</p>
+                <p><b>Notes</b>: 8d16h+ time this R: use Fairyline + Faceless A2950, swap AN12 -> AR12.</p>
+                <p><b>Notes</b>: 1d10h+ time this game: swap all A researches except A30, A270, A2950 for A5125.</p>
+				<p><b>Notes</b>: If buffing excavations is the primary goal, always use Fairyline + Dragon A2950.</p>
             </div>
         </div>
     </div>
@@ -203,7 +203,7 @@
                 <p>E30,E135,E145,E250,E290,E320,E400,E460,E1425,</p>
                 <p>A105,A120,A250,A270,A305,A400,A545,A1500,</p>
                 <p>W135,W150,W400,W1375,W1400</p>
-                <p><b>Note</b>: Estimated time: 18-20 hours, remember to buff Infinite Spiral during the run (6-10 Excavation Resets)</p>
+                <p><b>Notes</b>: Estimated time: 18-20 hours, remember to buff Infinite Spiral during the run (6-10 Excavation Resets)</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -225,7 +225,7 @@
                   <p>E50,E135,E145,E290,E320,E400,E460,E1325,E30,E330,</p>
                   <p>A30,A120,A270,A305,A400,A545,A55,A105,A135,A150,A200,A250,A330,A480,</p>
                   <p>W180,W400,W1275,W1375,W250</p>
-                  <p><b>Note</b>: Estimated time: 5-20 minutes.</p>
+                  <p><b>Notes</b>: Estimated time: 5-20 minutes.</p>
             </div>
         </div>
     </div>
@@ -278,9 +278,9 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL4,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875mS200,S400,S500,S330,S215,C5625,C175,C250,C340,C400,C520,C590,D5875,D200,D290,D330,D275,E135,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,W180,F5500">
+                    <input type="text" value="EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875,S200,S400,S500,S330,S215,C5625,C175,C250,C340,C400,C520,C590,D5875,D200,D290,D330,D275,E135,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,W180,F5500">
 				</p>
-                <p>EL3,EL4,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW12,AR2,DJ5,DJ7,MK10,</p>
+                <p>EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,</p>
                 <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,</p>
                 <p>S5875,S200,S400,S500,S330,S215,</p>
                 <p>C5625,C175,C250,C340,C400,C520,C590,</p>
@@ -289,7 +289,8 @@
                 <p>A30,A120,A270,A305,A545,A1500,A2950,</p>
                 <p>W5625,W205,W275,W400,W1275,W180,</p>
                 <p>F5500</p>
-                <p><b>Notes</b>: Buff Excavation resets, do F6000, build scales on time this R.</p>
+                <p><b>Notes</b>: Use excavation resets to buff C5625, build scales on time this R.</p>
+				<p><b>Notes</b>: Recommended to buff F6000 before each run.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -416,8 +417,8 @@
                 <p>A55,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
                 <p>W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,</p>
                 <p>F5250</p>
-                <p><b>Note</b>: Buff D5625, S400, W275 and Excavation resets.</p>
-				<p><b>Note</b>: This build does not pick Mercenary Building Contract on purpose.</b>
+                <p><b>Notes</b>: Buff D5625, S400, W275 and Excavation resets.</p>
+				<p><b>Notes</b>: This build does not pick Mercenary Building Contract on purpose.</b>
             </div>
         </div>
 		        <div class="shelementwhole">
@@ -457,11 +458,11 @@
                 <p>A55,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
                 <p>W25,W120,W135,W150,W180,W275,W320,W330,W400,W1275,W1375,W1400,</p>
                 <p>F5250</p>
-                <p><b>Note</b>: Buff D5625, S400, W275 and Excavation resets.</p>
-				<p><b>Note</b>: This build does not pick Mercenary Building Contract on purpose, unless otherwise stated.</b>
-				<p><b>Note</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</b>
-				<p><b>Note</b>: For Fairy, Dwarf, Drow and Djinn Lineages, swap E150,E200,E330,E350,E460,E480,E1425 with E3300, and pick Ziggurat on building contract.</b>
-				<p><b>Note</b>: For Dwarf Lineage, swap D275 with D290.</b>
+                <p><b>Notes</b>: Buff D5625, S400, W275 and Excavation resets.</p>
+				<p><b>Notes</b>: This build does not pick Mercenary Building Contract on purpose, unless otherwise stated.</b>
+				<p><b>Notes</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</b>
+				<p><b>Notes</b>: For Fairy, Dwarf, Drow and Djinn Lineages, swap E150,E200,E330,E350,E460,E480,E1425 with E3300, and pick Ziggurat on building contract.</b>
+				<p><b>Notes</b>: For Dwarf Lineage, swap D275 with D290.</b>
             </div>
         </div>
     </div>
