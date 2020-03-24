@@ -437,7 +437,7 @@
                 <div class="autohide">
                     <p><b>Author</b>: Necrodoom</p>
                     <p><b>Range</b>: 1e42 (1 Td) Gems+</p>
-                    <p><b>Faction</b>: Fairy/Dwarf/Djinn</p>
+                    <p><b>Faction</b>: Fairy</p>
                     <p><b>Bloodline</b>: Undead</p>
                     <p><b>Artifact Set</b>: Dwarf</p>
                     <p>
@@ -455,7 +455,7 @@
                     <p>E50,E410,E460,</p>
                     <p>A30,A120,A495,</p>
                     <p>W560,W1375</p>
-                    <p><b>Notes</b>: Replace S3200 with S400 if buffed.</p>
+                    <p><b>Notes</b>: Replace S3200 with S400 if buffed (?).</p>
                 </div>
             </div>
             <div class="shelementwhole">
