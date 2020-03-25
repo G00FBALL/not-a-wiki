@@ -7,15 +7,15 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
 <br/>
-    <p><b>Updated September 15, 2019</b></p>
-    <p>All builds come from the  <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
-    <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
+<p><b>Updated September 15, 2019</b></p>
+<p>All builds come from the  <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
+<p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druid (R100-R110), 0 - 1e29 (100 Oc)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druid (R100-R110), 0 - 1e29 (100 Oc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
                 <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e29 (100 Oc)<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e29 (100 Oc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
                 <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
@@ -57,7 +57,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e29 - 1e34 (100 Oc - 10 Dc)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e29 - 1e34 (100 Oc - 10 Dc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e29 (100 Oc) Gems - 1e34 (10 Dc) Gems</p>
@@ -82,7 +82,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R100-R110), 1e34 (10 Dc)+<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R100-R110), 1e34 (10 Dc)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: DragonRu</p>
                 <p><b>Range</b>: 1e34 (10 Dc) Gems+</p>
@@ -106,7 +106,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R111-R115), 0 - 1e35 (100 Dc)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R111-R115), 0 - 1e35 (100 Dc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 0 - 1e35 (100 Dc) Gems+<</p>
@@ -127,7 +127,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R111-R115) 1e35+ (100 Dc)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R111-R115) 1e35+ (100 Dc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e35+ (100 Dc) Gems+</p>
@@ -164,7 +164,7 @@
     <p><b>Unique Building 2 Quest Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Swarming Tower (Fairy) 1e18 (1 Qi) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Swarming Tower (Fairy) 1e18 (1 Qi) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Borcha</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
@@ -186,7 +186,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Arboreal City (Elf) 1e18 (1 Qi) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Arboreal City (Elf) 1e18 (1 Qi) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
@@ -208,7 +208,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Holy Site (Angel) 1e27 (1 Oc) Gems<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Holy Site (Angel) 1e27 (1 Oc) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e27 (1 Oc) Gems</p>
@@ -231,7 +231,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Market (Goblin) 1e18 (1 Qi) Gems<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Slave Market (Goblin) 1e18 (1 Qi) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
@@ -253,7 +253,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Flesh Workshop (Undead) 1e18 (1 Qi) Gems<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Flesh Workshop (Undead) 1e18 (1 Qi) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
@@ -276,7 +276,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e18 (1 Qi) Gems<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Burning Abyss (Demon) 1e18 (1 Qi) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
@@ -299,7 +299,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mountain Palace (Titan) 1e18 (1 Qi) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mountain Palace (Titan) 1e18 (1 Qi) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
@@ -321,7 +321,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ziggurat (Druid) 1e31 (10 No) Gems<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ziggurat (Druid) 1e31 (10 No) Gems</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e31 (10 No) Gems</p>
@@ -347,11 +347,11 @@
     <p><b>Artifact Set Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
-           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Spiked Whip (Goblin Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Spiked Whip (Goblin Artifact)</a></b></p>
            <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Evil, Proof of Balance</p>
+                <p><b>Alignment</b>: Evil, Balance</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p>
@@ -367,11 +367,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Helmet (Titan Artifact)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Helmet (Titan Artifact)</a></b></p>
            <div class="autohide">
                 <p><b>Author</b>: Artcrow</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Neutral, Proof of Order</p>
+                <p><b>Alignment</b>: Neutral, Order</p>
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p>
@@ -387,11 +387,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Silk Cloth (Fairy Artifact)<font color="Blue"> Good</font></a></b></p>
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Silk Cloth (Fairy Artifact)</a></b></p>
            <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Good, Proof of Chaos</p>
+                <p><b>Alignment</b>: Good, Chaos</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p>
@@ -407,11 +407,11 @@
             </div>
         </div>
         <div class="shelementwhole">
-           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Crystalized Lava (Demon Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+           <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Crystalized Lava (Demon Artifact)</a></b></p>
            <div class="autohide">
                 <p><b>Author</b>: Lapare</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Alignment</b>: Evil, Proof of Chaos</p>
+                <p><b>Alignment</b>: Evil, Chaos</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p>
