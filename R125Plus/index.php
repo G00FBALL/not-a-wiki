@@ -16,30 +16,37 @@
 	<p><b>Production Builds R125-R130</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e47 (100 Qad)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e50 (100 Qid)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Kiluh</p>
+                <p><b>Range</b>: 0 - 1e50 (100 Qid) Gems</p>
+                <p><b>Faction</b>: Faceless</p>
+                <p><b>Bloodline</b>: Titan</p>
+                <p><b>Artifact Set</b>: Druid</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A250,A495,W10,W560,W1375">
+                    <input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+					<b>Art of the Crow is affordable (? Gems)</b>
 				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C400,C405,C520,C590,</p>
-				<p>D50,D435,D1375,</p>
-				<p>E25,E410,E3250,</p>
-				<p>A250,A495,</p>
-				<p>W10,W560,W1375</p>
-			</div>
-		</div>
+                <p>S251,S375,S1450,S1500,S3200,</p>
+                <p>C340,C1300,</p>
+                <p>D1375,D260,D1125,</p>
+                <p>E400,E350,E1225,</p>
+                <p>A400,A300,A1200,</p>
+                <p>W180,W275,W1400</p>
+                <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
+                <p><b>Notes</b>: Swap S3200 with S215 once Art of the Crow is affordable (? Gems)</p>
+            </div>
+        </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e47 (100 Qad) - 1e66 (1 Uvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e66 (1 Uvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
-				<p><b>Range</b>: 1e47 (100 Qad) Gems - 1e66 (1 Uvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e66 (1 Uvg) Gems</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -329,30 +336,37 @@
 	<p><b>Production Builds R130+</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e47 (100 Qad)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 0 - 1e47 (100 Qad) Gems</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e50 (100 Qid)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Kiluh</p>
+                <p><b>Range</b>: 0 - 1e50 (100 Qid) Gems</p>
+                <p><b>Faction</b>: Faceless</p>
+                <p><b>Bloodline</b>: Titan</p>
+                <p><b>Artifact Set</b>: Druid</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A250,A495,W10,W560,W1375">
+                    <input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+					<b>Art of the Crow is affordable (? Gems)</b>
 				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C400,C405,C520,C590,</p>
-				<p>D50,D435,D1375,</p>
-				<p>E25,E410,E3250,</p>
-				<p>A250,A495,</p>
-				<p>W10,W560,W1375</p>
-			</div>
-		</div>
+                <p>S251,S375,S1450,S1500,S3200,</p>
+                <p>C340,C1300,</p>
+                <p>D1375,D260,D1125,</p>
+                <p>E400,E350,E1225,</p>
+                <p>A400,A300,A1200,</p>
+                <p>W180,W275,W1400</p>
+                <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
+                <p><b>Notes</b>: Swap S3200 with S215 once Art of the Crow is affordable (? Gems)</p>
+            </div>
+        </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e47 (100 Qad) - 1e66 (1 Uvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e66 (1 Uvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e47 (100 Qad) - 1e66 (1 Uvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) - 1e66 (1 Uvg) Gems</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>
