@@ -14,7 +14,7 @@
 <div class="shlisting">
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Titanline Faceless 0 - 1e45 (1 Qad)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Titanline Faceless 0 - 1e45 (1 Qad)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
                 <p><b>Range</b>: 0 - 1e45 (100 Qad) Gems</p>
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Undeadline Elves 1e45 (1 Qad) - 1e55 (10 Spd)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Undeadline Elves 1e45 (1 Qad) - 1e55 (10 Spd)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ashen Rider</p>
                 <p><b>Range</b>: 1e45 (1 Qad) Gems - 1e55 (10 Spd) Gems</p>
@@ -61,7 +61,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Druidline Angel 1e55 (10 Spd)+<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Druidline Angel 1e55 (10 Spd)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e55 (10 Spd) Gems+</p>
@@ -84,7 +84,7 @@
         </div>
 		<br />
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Titanline Faceless 0 - 1e50 (100 Qid)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Titanline Faceless 0 - 1e50 (100 Qid)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
                 <p><b>Range</b>: 0 - 1e50 (100 Qid) Gems</p>
@@ -112,7 +112,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Faceline Elves 1e50 (100 Qid) - 1e64 (10 Vg)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Faceline Elves 1e50 (100 Qid) - 1e64 (10 Vg)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e50 (100 Qid) Gems - 1e64 (10 Vg) Gems</p>
@@ -134,7 +134,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e64 (10 Vg)+<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e64 (10 Vg)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
@@ -160,7 +160,7 @@
     <p><b>Artifact Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Beard Hair (Dwarf Set)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Beard Hair (Dwarf Set)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ? Gems</p>
@@ -180,7 +180,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e42 (1 Qad) Gems+</p>
@@ -206,7 +206,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lantern Of Guidance (Tier 2 Temporal Flux) (R120+)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lantern Of Guidance (Tier 2 Temporal Flux) (R120+)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e52+ (1 Sxd) Gems+</p>
@@ -231,7 +231,7 @@
     <p><b>Trophy Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master Trophy<font color="darkred"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master Trophy</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
                 <p><b>Range</b>: 1e65 (100 Vg) Gems+</p>
@@ -256,7 +256,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairies (Max Assistants)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Fairies (Max Assistants)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: ? Gems+</p>
@@ -276,7 +276,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems Max Assistants)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems Max Assistants)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
@@ -298,7 +298,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (Spells cast)<font color="DarkRed"> Evil</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblins (Spells cast)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
                 <p><b>Range</b>: 1e52 (10 SxD) gems+</p>
@@ -318,7 +318,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (Max mana)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (Max mana)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Range</b>: ?</p>
@@ -339,7 +339,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Mana Spent)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Mana Spent)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Range</b>: ?</p>
@@ -365,7 +365,7 @@
     <p><b>Note</b>:The optimal path is: Undead level 30 first -> Elf level 30 -> Faceless level 30 -> Get Elf/Faceless Master trophy and Advanced Heritages -> push to ~1e65 (100 Vg) Gems -> get the rest of the Lineages to level 30 and Advanced Heritages</p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage Leveler (L30)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage Leveler (L30)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sheep</p>
                 <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
@@ -390,7 +390,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf Lineage Leveler (L30)<font color="Blue"> Good</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf Lineage Leveler (L30)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sheep</p>
                 <p><b>Range</b>:1e60 (1 Nod) Gems+</p>

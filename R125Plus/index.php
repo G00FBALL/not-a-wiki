@@ -447,7 +447,7 @@
 	<p><b>Buff Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Mana Spent)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Mana Spent)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Necrodoom</p>
                 <p><b>Range</b>: ?</p>
@@ -468,7 +468,7 @@
             </div>
         </div>
 	    <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans R130+ (Mana Spent)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans R130+ (Mana Spent)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Origin</p>
                 <p><b>Range</b>: 1e67 (10 Uvg) Gems+</p>
