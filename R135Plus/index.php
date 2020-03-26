@@ -85,7 +85,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90+ (1 Novg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90 (1 Novg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
 				<p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
