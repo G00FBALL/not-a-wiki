@@ -48,10 +48,35 @@
 				<p><b>Range</b>: 1e50 (100 Qid) - 1e70 (10 Dvg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Goblin</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
+				<p><b>Artifact Set</b>: Dwarf, Fairy (1e63 (1 Vg) Gems+)</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E320,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A120,W400">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E320,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A120,W180">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E320,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A250,W180">
+					<b>1e63 (1 Vg) Gems+</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W400,W560,S305,C340,D1375,E135,A120,W180">
+					<b>Goblin Lineage Level 45+</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W400,W560,S305,C340,D1375,E135,A250,W180">
+					<b>Goblin Lineage Level 45+, 1e63 (1 Vg) Gems+</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W400,W560,S305,C340,D1375,E135,A120,W3150">
+					<b>R150+</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W400,W560,S305,C340,D1375,E135,A250,W3150">
+					<b>R150+, 1e63 (1 Vg) Gems+</b>
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
@@ -60,6 +85,8 @@
 				<p>A50,A400,A495,</p>
 				<p>W225,W560,W1375</p>
 				<p><b>After Archon treaty</b>: S305,C340,D1375,E135,A120,W180 (Reimport build)</p>
+				<p><b>Notes:</b>: Swap A120 with A250 and Dwarf set with Fairy set when masks are affordable (1e63 (1 Vg) Gems+)</p>
+				<p><b>Notes</b>: With Goblin Lineage Level 45+, Swap E320 with E400 and W1375 with W400.</p>
 				<p><b>Notes</b>: Swap W180 with W3150 at R150+.</p>
 			</div>
 		</div>
