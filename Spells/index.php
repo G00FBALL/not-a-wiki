@@ -805,7 +805,7 @@
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/FocusedThoughtsChallenges.png" align="middle"> <b>Focused Thoughts</b> (R25+)</p>
 <p><b>Effect</b>: Give Brainwave a headstart based on its activity time in this game, with a minimum of 1 minute.</p>
-<p><b>Formula</b>: +1 second per 5 minutes Active Time (This Game).</p>"
+<p><b>Formula</b>: +1 second per 5 minutes Active Time (This Game).</p>
 <br>
 <p><b>Tier Upgrade</b>: +10 minutes per tier of Brainwave past tier 1.</p>
 <div class="shlisting">
