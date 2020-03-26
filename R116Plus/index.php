@@ -65,7 +65,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e55 (10 Spd) Gems+</p>
-                <p><b>Requirement</b>: Prismatic Balance +10</p>
+                <p><b>Requirement</b>: Primal Balance +10</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -138,7 +138,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
-				<p><b>Requirement</b>: Prismatic Balance +10, All Advanced Heritages</p>
+				<p><b>Requirement</b>: Primal Balance +10, All Advanced Heritages</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Elf</p>

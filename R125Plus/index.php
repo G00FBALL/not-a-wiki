@@ -68,7 +68,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Glenniss2, Iluxa4000</p>
 				<p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
-				<p><b>Requirement</b>: Prismatic Balance +10</p>
+				<p><b>Requirement</b>: Primal Balance +10</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -431,10 +431,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90+ (1 Novg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e84 (1 Spvg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+				<p><b>Range</b>: 1e84 (1 Spvg) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
@@ -482,7 +482,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans R130+ (Mana Spent)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Origin</p>
-                <p><b>Range</b>: 1e67 (10 Uvg) Gems+</p>
+                <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -497,6 +497,7 @@
                 <p>A400,A1200,</p>
                 <p>W260,W1375,W1400</p>
                 <p><b>After Archon Treaty</b>: S400,C1325,D150,E1325,A305,W400 (Reimport Build).</p>
+				<p><b>Notes</b>: Requires some excavations to set up before 1e67 (10 Uvg) Gems.</p>
             </div>
         </div>
 		<div class="shelementwhole">
