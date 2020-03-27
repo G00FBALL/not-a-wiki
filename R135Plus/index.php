@@ -167,8 +167,8 @@
 				<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Druid (R144+) 0 - 1e50 (100 Qid)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Rellikrellik</p>
-				<p><b>Requirement</b>: Druid Challenge 3</p>
+				<p><b>Author</b>: Kiluh</p>
+				<p><b>Requirement</b>: Makers Challenge 3</p>
 				<p><b>Range</b>: 0 - 1e50 (100 Qid) Gems</p>
 				<p><b>Faction</b>: Druid</p>
 				<p><b>Bloodline</b>: Goblin</p>
