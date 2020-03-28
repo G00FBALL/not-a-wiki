@@ -28,7 +28,7 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
     </div>
 </div>
 <p><b>To unlock Research follow the guide below, Do not buy Prestige Faction</p></b>
-<p>This guide was written as of v3.7 and only used 10 excavations for Vanila Flavor Juice, also without Sunforce</p>
+<p>This guide was written as of v3.7.3 and without Sunforce or any Premium Upgrades</p>
 <p><b>Note</b>: Sunforce will help speed things up</p>
 <p>A complete list of Research Unlock Requirements can be found <a target="_blank" href="http://musicfamily.org/realm/Research/"> <b>here</b></a></p>
 <p>A complete list of All Unique Buildings Unlock Requirements can be found <a target="_blank" href="http://musicfamily.org/realm/UniqueBuilding/"> <b>here</b></a></p>
@@ -47,7 +47,8 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Note</b>: Demon/Drow/Elfline -> Fairy/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
 <p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 8 hours offline time as Undead to unlock a research.</p>
 <p>You can use <b>Mercenary</b> to get to the required gem level. suggested build: Tricaster, Lightning Forge</p>
-<p>Maxing Excavations to help Merc production is recommended.
+<p><b>Note</b>: Note: Excavation will significantly speed up unlock process.</p>
+<p>Recommended to have less than 1300 excavation before starting research unlock</p>
 <p><b>Auto Casting</b>: Spiritual Surge on Silver everything else on Gold unless stated otherwise.</p>
 <hr>
 <p><b>Important</b>: Do not buy Dwarf/Drow while doing research</p>
@@ -209,26 +210,37 @@ div#images div{
 <hr>
 <p><b>Step 2</b>: Unlocking Research</p>
 <p><b>Auto Casting</b>: Spiritual Surge on Silver everything else on Gold unless stated otherwise.</p>
-<p><b>2.1</b>: Get to 55 Research Points Use Elf with Elf Bloodline.</p>
+<p><b>2.1</b>: Get to 55 Research Points Use Elf with Elf Bloodline (or Fairy with Fairy Bloodline if you can excavate).</p>
 <p><b>2.2</b>: <b>S30</b>: 4000 Mana, <b>S50</b>: 6000 max mana, <b>C10</b>: 2500 Farms, Use Fairy with Elf Bloodline.</p>
 <p><b>2.3</b>: <b>D50</b>: 15000 good buildings as Angels, <b>S10</b>: 2000 heaven's gates this game, Use Angel with Goblin Bloodline.</p>
-<p><b>2.4</b>: <b>E30</b>: 1000 royal exchanges this game, <b>E50</b>: 1000 royal exchanges as Goblin, <b>A10</b>: 2250 Goblin Banks, <b>W25</b>: 1 Tqag (1e132) coins this game, Use Goblin with Goblin Bloodline. (E30-E50 will be last, Bronze cast Goblin's Greed)</p>
-<p><b>2.5</b>: <b>D10</b>: 2000 Infernal Realms, Use Demon with Goblin Bloodline.</p>
-<p><b>2.6</b>: <b>E10</b>: 2000 Undercities, Use Undead with Goblin Bloodline.</p>
+<p><b>2.4</b>: <b>A10</b>: 2250 Goblin Banks, Use Goblin with Goblin Bloodline.</p>
+<p><b>2.5</b>: <b>E30</b>: 1000 royal exchanges this game, <b>E50</b>: 1000 royal exchanges as Goblin, <b>W25</b>: 1 Tqag (1e132) coins this game, Use Goblin with Druid Bloodline. (Bronze cast Goblin's Greed, can use excavation but don't overspend)</p>
+<p><b>2.6</b>: <b>D10</b>: 2000 Infernal Realms, Use Demon with Goblin Bloodline.</p>
+<p><b>2.7</b>: <b>E10</b>: 2000 Undercities, Use Undead with Goblin Bloodline.</p>
 <hr>
-<p><b>Step 3</b>: Get to 80 Research Points Use Elf with Elf Bloodline.</p>
-<p><b>3.1</b>: <b>C50</b>: 1 B (1e9) Faction Coins, <b>E25</b>: 100 M (1e8) Faction Coins found this game, <b>W10</b>: 2000 Warrior Barracks, Use Elf with Elf Bloodline.</p>
+<p><b>Step 3</b>: Get to 80 Research Points Use Elf with Elf Bloodline (or Fairy with Fairy Bloodline if you can excavate).</p>
+<p><b>3.1</b>: <b>E25</b>: 100 M (1e8) Faction Coins found this game, <b>W10</b>: 2000 Warrior Barracks, Use Elf with Elf Bloodline.</p>
 <p><b>3.2</b>: <b>C80</b>: 16K Good and Evil Buildings (Total, this game), <b>E80</b>: 9K Neutral Buildings, Use Fairy with Goblin Bloodline.</p>
 <hr>
-<p><b>Step 4</b>: Get to 105 Research Points Using Elf with Elf Bloodline and then get A105.</p>
-<p><b>4.1</b>: <b>D55</b>: 3 M (3e6) mana produced this game, <b>A55</b>: 25K spells this game, <b>C25</b>: 12K spells this R, Use Angel with Druid Bloodline. (1.5 hours run) (Everything Gold autocast Tax Collection last until you have bought all researches available, then only Gold autocast Tax Collection)</p>
+<p><b>Step 4</b>: Get to 105 Research Points Use Elf with Elf Bloodline (or Fairy with Fairy Bloodline if you can excavate).</p>
+<p><b>4.1</b>: <b>A105</b>: 2750 Blacksmiths, Use Fairy with Goblin Bloodline.</p>
+<p><b>4.2</b>: <b>C25</b>: 12K spells this R. Use Merc build below and read note (After spell count reached switch to Angel to unlock this research)</p>
+<p><b>Merc Build</b>
+<p><b>Alingment</b>: Evil</p>
+<p><b>Bloodline</b>: Druid</p>
+<p><button onclick="myFunction($(this))">Copy Build</button>
+<input type="text" value="FR9,AN3,AN5,AN6,GB7,UD3,UD5,DM8,DD1,DD6,FC7,DN2,SP:Goblin's Greed,SP:Fairy Chanting" id="Build">
+<p>FR9,AN3,AN5,AN6,GB7,UD3,UD5,DM8,DD1,DD6,FC7,DN2,SP:Goblin's Greed,SP:Fairy Chanting</p>
+<p><b>Note</b>: Buy all available upgrades, then autocast Fairy Chanting and Tax Collection. (5 minutes run)</p>
+<br/>
+<p><b>4.3</b>: <b>D55</b>: 3 M (3e6) mana produced this game, <b>A55</b>: 25K spells this game, Use Angel with Druid Bloodline. (1 hour run) (Everything Gold autocast with Tax Collection last until you have bought all researches available, then only Gold autocast Tax Collection)</p>
 <hr>
-<p><b>Step 5</b>: Get to 120 Research Points Using Elf with Elf Bloodline</p>
-<p><b>5.1</b>: <b>A120</b>: 6500 max mana, <b>W120</b>: 250 base assistants, Use Fairy with Faceless Bloodline unlock.</p>
+<p><b>Step 5</b>: Get to 120 Research Points Use Elf with Elf Bloodline (or Fairy with Fairy Bloodline if you can excavate).</p>
+<p><b>5.1</b>: <b>A120</b>: 6500 max mana, <b>W120</b>: 250 base assistants, Use Fairy with Faceless Bloodline.</p>
 <hr>
-<p><b>Step 6</b>: Get to 136 Research Points Using Fairy with Fairy Bloodline</p>
+<p><b>Step 6</b>: Get to 136 Research Points Use Fairy with Fairy Bloodline</p>
 <p><b>6.1</b>: <b>S135</b>: 5K Unique Buildings this game as Fairy, Use Fairy with Goblin Bloodline.</p>
-<p><b>6.2</b>: <b>C105</b>: 25K clicks, <b>C120</b>: 200K clicks, <b>C135</b>: 250K Clicks this game as Elf, Use Elf with Elf Bloodline, After all upgrades and research bought autocast Moon Blessing and Call to Arms.</p>
+<p><b>6.2</b>: <b>C50</b>: 1 B (1e9) Faction Coins, <b>C105</b>: 25K clicks, <b>C120</b>: 200K clicks, <b>C135</b>: 250K Clicks this game as Elf, Use Elf with Elf Bloodline, After all upgrades and research bought autocast Moon Blessing and Call to Arms.</p>
 <p><b>6.3</b>: <b>A135</b>: 1 day play time this R Use Undead with any Bloodline.</p>
 <p><b>6.4</b>: <b>D135</b>: 250 m/s Mana Regen(as Angel) Use Angel with Druid Bloodline.</p>
 <p><b>6.5</b>: <b>E135</b>: 28,000 Total Buildings(as Goblin) Goblin with Goblin Bloodline.</p>
@@ -238,10 +250,10 @@ div#images div{
 <p><b>Bloodline</b>: Druid</p>
 <p><button onclick="myFunction($(this))">Copy Build</button>
 <input type="text" value="FR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
-<pFR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast</p>
+<p>FR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
 <br/>
-<p><b>5.8</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
+<p><b>6.7</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
 <p><b>W50</b>: 1 days evil playtime this R, Use Undead with Druid Bloodline. (After 1 days evil time switch to Demon to unlock W50)</p>
 <p><b>Note</b>: <b>D25</b> and <b>W50</b> can wait until after R18 but needs to be done.</p>
  <?php include "../scripts/footer.html"; ?>
