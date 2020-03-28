@@ -1936,8 +1936,8 @@
                 <p><b>Effect</b>: Increase the overall production of Prestige Factions by 25%. (Not A-Nerfed)</p>
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EliteChallenger.png" alt="Elite Challenger" align="middle"> Elite Challenger</b></p>
-                <p><b>Requirement</b>: Complete all the Prestige Challenges, RR153+</p>
-                <p><b>Cost</b>: Free</p>
+                <p><b>Requirement</b>: Complete all the MAD Challenges, R153+</p>
+                <p><b>Cost</b>: 10, A3+ Free</p>
                 <p><b>Effect</b>: Increase the overall production of Elite Factions by 25%. (Not A-Nerfed)</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
