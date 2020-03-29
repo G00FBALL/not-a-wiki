@@ -426,7 +426,7 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (Djinn Challenge 4)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
-									<p><b>Requirement</b>: Druid Lineage 45</p>
+						<p><b>Requirement</b>: Druid Lineage 45</p>
 						<p><b>Faction</b>: Faceless</p>
 						<p><b>Range</b>: 1e114 (1 Sptg) Gems+</p>
 						<p><b>Bloodline</b>: Druid</p>

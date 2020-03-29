@@ -280,8 +280,8 @@
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
-                <p><b>Faction</b>: Fairy</p>
-                <p><b>Bloodline</b>: Undead</p>
+                <p><b>Faction</b>: Undead</p>
+                <p><b>Bloodline</b>: Fairy</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
