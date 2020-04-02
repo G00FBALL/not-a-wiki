@@ -145,8 +145,7 @@
 					<p><b>Template</b></p>
 					<p>FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,</p>
 					<p>SP:Goblin's Greed</p>
-					<p>This build is only for getting the Lucifer Trophy.</p>
-					<p>by<b> Namelessname</b></p>
+					<p><b>Notes</b>:This build is only for getting the Lucifer Trophy.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -179,8 +178,8 @@
 					<p><b>Template</b></p>
 					<p>FR9,AN3,AN6,UD3,UD5,DM7,DM8,DD1,DD6,FC5,FC7,DN2,</p>
 					<p>,SP:Fairy Chanting,SP:Night Time</p>
-					<p>This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
-					<p>If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.</p>
+					<p><b>Notes</b>: This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
+					<p><b>Notes</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -196,7 +195,7 @@
 					<p><b>Mercenary Template</b>:</p>
 					<p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
 					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-					<p>This build is for generating mana to unlock the various autocasting upgrades up to Efficient Autocasting.</p>
+					<p><b>Notes</b>: This build is for generating mana to unlock the various autocasting upgrades up to Efficient Autocasting.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -209,7 +208,7 @@
 					<input type="text" value="FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,SP:Fairy Chanting,SP:Grand Balance"></p>
 					<p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
-					<p>Ment for when you have over excavated this R, but still need Know Your Enemy Lore Artifact.</p>
+					<p><b>Notes</b>: This build is meant for when you have over excavated this R, but still need Know Your Enemy Lore Artifact.</p>
 					<p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.</p>
 					<p>You can Prismatic Beam if you can't afford excavations with the first build.</p>
 					<p>Requires high gem total closer to end of reincarnation in R14+ to add Spiritual Surge.</p>
