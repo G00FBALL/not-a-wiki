@@ -210,7 +210,7 @@
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: This build is meant for when you have over excavated this R, but still need Know Your Enemy Lore Artifact.</p>
 					<p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.</p>
-					<p>You can Prismatic Beam if you can't afford excavations with the first build.</p>
+					<p>You can use Prismatic Beam if you can't afford excavations with the first build.</p>
 					<p>Requires high gem total closer to end of reincarnation in R14+ to add Spiritual Surge.</p>
 					<p>Exclude Blood Frenzy from the spell combo as it doesn't affect Farms.</p>
 					<p>You can ignore the following instructions if you have over 2000 of each of the first 5 buildings by the time you cast income Tax Collections. Buy 1500/1750/2000 Farm, Slave Pen, and Orcish Arena upgrades at the same time to avoid Grand Balance targeting the wrong building.</p>
