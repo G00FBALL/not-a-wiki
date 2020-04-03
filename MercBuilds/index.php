@@ -227,7 +227,7 @@
 					<p><b>Template</b></p>
 					<div class="rgtv-template">
 						<p>FR9,AN3,AN6,UD3,UD5,DM7,DM8,DD1,DD6,FC5,FC7,DN2,</p>
-						<p>,SP:Fairy Chanting,SP:Night Time</p>
+						<p>SP:Fairy Chanting,SP:Night Time</p>
 					</div>
 					<div class="rgtv-notes">
 						<p><b>Notes</b>: This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
