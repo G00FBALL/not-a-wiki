@@ -451,7 +451,7 @@
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
                 <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Any</p>
-                <p><b>A2950</b>: Druid</p>
+                <p><b>A2950</b>: Makers</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
