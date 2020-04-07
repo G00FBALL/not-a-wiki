@@ -5,6 +5,18 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.4, Apr 3, 2020, Easter Event</a></b></p>
+            <div class="autohide">
+                <p>Global Reminder: The Easter Event will be starting on Apr 09th 2020, 12.01 PM UTC and will end on Apr 16th 2020, 6.59 PM UTC.</p>
+                <p>ADDED A NEW EASTER FEAT, unlocking new cosmetic options.</p>
+                <p>Forbidden Research branch now correctly adds to the Research Points stat.</p>
+                <p>Rough Stone Artifact now correctly requires the Survey Equipment upgrade.</p>
+                <p>Hard Reset now correctly resets spell timers and all stats.</p>
+                <p>Stats panel layout improved.</p>
+                <p>Mana Bar colors, Share Benefits tier pictures, tooltips, and various other minor issues have been fixed.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.3, Jan 31, 2020, Valentine Event</a></b></p>
             <div class="autohide">
                 <p>Global Reminder: The Valentine Event will be starting on Feb 12th 2020, 1.01 PM UTC and will end on Feb 16th 2020, 7.59 PM UTC.</p>
