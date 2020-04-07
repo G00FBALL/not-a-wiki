@@ -210,7 +210,7 @@
 	<p><b>Formula</b>: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat.
 	" coords="113,27,161,77" shape="rect">
         <area research="S10 - For Angel
-	<p><b>Research Name</b>: Channeling.
+	<p><b>Research Name</b>: Channeling
 	<p><b>Requirement</b>: 2000 Heaven's Gate. (This Game)
 	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
 	<p><b>Effect</b>: Increase the production of all other buildings by 110% per Heaven's Domain you own.
