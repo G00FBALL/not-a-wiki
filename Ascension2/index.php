@@ -543,7 +543,7 @@
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
 <p><b>Production Formula</b>: (8 * x ^ 0.8), where x is time offline this R</p>
-<p><b>Chosen Building Formula</b>: 1 + floor(x % 11), where x is building amount</p>
+<p><b>Chosen Building Tier Formula</b>: (1 + floor(x % 11)), where x is building amount</p>
 <br/>
 <p><b>Union Upgrades</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
