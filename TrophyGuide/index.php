@@ -76,7 +76,7 @@
             <td>10m  (1e7) coins</p>A1+ Free</td>
             <td>Have exactly 1337 Coins at any given time.</td>
             <td>Increase the production of all buildings by 13.37% (No A Nerf)</td>
-            <td>Buy 1 farm, and click slowly after 1250 coins, or just click 1337 time without buying anything.</td>
+            <td>Buy 1 farm, and click slowly after 1250 coins, or just click 1337 times without buying anything.</td>
         </tr>
         <tr>
             <td><center>Building Hater</p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png"></td>
