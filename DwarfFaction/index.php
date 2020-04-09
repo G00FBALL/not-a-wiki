@@ -23,7 +23,7 @@
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" alt="Smiley face" align="middle"><b> Sturdy Bearded Man's Quest</b></p>
         <p><b>Requirements</b>: Play a Good Alignment</p>
-        <p><b>Requirements</b>: Build 800 Inns, 7000 Buildings Owned (This Game),10000 clicks (Total)</p>
+        <p><b>Requirements</b>: Build 800 Inns, 7000 Buildings Owned (This Game), 10000 clicks (Total)</p>
         <p><b>Cost</b>: 10Qad (1E46), 10K Fairy Coins, 10K Elven Coins, 10K Angel Coins</p>
         <p><b>Effect</b>: Unlocks Underworld Diplomacy</p>
         <p><b>Note</b>: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.</p>
@@ -41,7 +41,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" alt="Smiley face" align="middle"></a> <b>Minedwarf</b></p>
         <p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
         <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
-        <p><b>Cost</b>: 100 Xsd (1e53), A1+ Free</p>
+        <p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png" alt="Smiley face" align="middle"> Dwarven Trade Treaty</b></p>
@@ -119,7 +119,7 @@
         <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Dwarven Forge Quest</p>
         <p><b>Cost</b>: 10 USxg (1E187)</p>
-        <p><b>Formula</b>: 100 * x^0.9%, where x is your Mana per Second stat.</p>
+        <p><b>Formula</b>: 100 * x ^ 0.9%, where x is your Mana per Second stat.</p>
         <p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
@@ -201,5 +201,5 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
         <p><b>Cost</b>: 1 Notg (1e120)</p>
         <p><b>Effect</b>: Multiplicatively increase mana regen and max mana based on highest time spent as Order, Balance or Chaos.</p>
-        <p><b>Formula</b>: (0.03 * max(x, y ,z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
+        <p><b>Formula</b>: (0.03 * max(x, y, z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
         <?php include "../scripts/footer.html"; ?>
