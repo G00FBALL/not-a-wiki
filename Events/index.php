@@ -625,7 +625,7 @@
                                 <center>Valentine</center>
                             </th>
                             <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg2.png" width="68%" height="68%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg1.png" width="68%" height="68%" /></center>
                                 <center>Easter</center>
                             </th>
                         </tr>
