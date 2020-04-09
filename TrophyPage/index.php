@@ -7,6 +7,7 @@
     <p>If a build is needed I will add a link to that build</p>
     <p><a href="http://musicfamily.org/realm/AllTrophies/"><b>Mobile text version</b></a></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SecretTrophyMap3.7.png" usemap="#SecretTrophyMap-map"></p>
+    <H6 id="Master"></h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map"></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/NonSecretTrophies3.7.png" usemap="#NonSecretTrophies-map"></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/MagicTrophyMap3.6.png" usemap="#MagicTrophyMapnew-map"></p>
@@ -416,7 +417,7 @@
     </map>
 
     <map name="AllegiancesandGrandTrophies-map">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle> </b>Fairy Champion/b>
+        <area research="<img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle> <b>Fairy Champion</b>
     <p><b>Requirement</b>: Purchase the first 12 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, and Alliance)</p>
     <p><b>Note</b>: Can be done at R0.</p>
     " coords="3,43,61,101" shape="rect">
