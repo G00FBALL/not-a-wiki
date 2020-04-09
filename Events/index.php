@@ -675,9 +675,9 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2020 Events</a></b></p>
             <div class="category autohide">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Date)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 9 - 16 2020,)</a></b></p>
                     <div class="autohide">
-                        <p>Starts on April 18th, 12.01 PM UTC and will end on April 25th, 6.59 PM UTC.</p>
+                        <p>Starts on April 09th 2020, 12.01 PM UTC and will end on  April 16th 2020, 6.59 PM UTC.</p>
                         <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
                         <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
                         <hr>
