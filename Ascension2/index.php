@@ -61,7 +61,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Angels Union</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this R).</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7),, where x is seconds in current spells.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is seconds in current spells.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png" alt="Seraphim Wings" align="middle"> <b>Seraphim Wings</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
@@ -171,10 +171,10 @@
 <p><b>Cost</b>: 3500 Mana</p>
 <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
 <p><b>Formulas</b></p>
-<p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5)%, where x is mana produced this game.</p>
+<p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
 <p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
-<p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
-<p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
+<p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
+<p><b>Assistants</b> (0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
 <br/>
 <p><b>Good - Fairies</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
@@ -258,7 +258,7 @@
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 <p><b>Requirement</b>: Demons Union</p>
 <p><b>Effect</b>: Multiplicatively increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
-<p><b>Formula</b>: (0.25 * min(x,y) ^ 0.75), where x is evil time in seconds and y is chaos time in seconds.</p>
+<p><b>Formula</b>: (0.25 * min(x, y) ^ 0.75), where x is evil time in seconds and y is chaos time in seconds.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
@@ -296,7 +296,7 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time and resets every 15 minutes.</p>
-<p><b>Formula</b>: (Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
+<p><b>Formula</b>: (y % 900) / 60 * x ^ 0.4), where x is Forbidden Libraries count, y is time this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
@@ -404,7 +404,7 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Requirement</b>: Goblins Union</p>
 <p><b>Effect</b>: Increase production bonus from Gem based on the amount of Slave Markets you own.</p>
-<p><b>Formula</b>: X ^ 0.5, where x is Slave Market you own.</p>
+<p><b>Formula</b>: x ^ 0.5, where x is Slave Market you own.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MoneyisMagic.png" alt="Money is Magic" align="middle"> <b>Money is Magic</b></p>
 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
@@ -511,7 +511,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
 <p><b>Effect</b>: Multiplicatively increase mana regen and max mana based on highest time spent as Order, Balance or Chaos.</p>
-<p><b>Formula</b>: (0.03 * max(x, y ,z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
+<p><b>Formula</b>: (0.03 * max(x, y, z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
 <br/>
 <p><b>Evil - Drow</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelQuest.png" align="middle"><b> Brothel Quest</b></p>
