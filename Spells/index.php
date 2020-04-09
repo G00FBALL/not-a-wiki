@@ -481,7 +481,7 @@
 <p><b>Works For</b>: Neutral - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds </p>
 <p><b>Effect</b>: Increase production bonus from Gems</p>
 <p><b>Note</b>: Gem Grinder formula changed to work with Reincarnations and Ascensions.</p>
-<p><b>Tier Formula</b>: ((5000 * (1 + 0.1r)) ^ (0.8 ^ a)), where rei is Reincarnation and a is Ascension</p>
+<p><b>Tier Formula</b>: ((5000 * (1 + 0.1 * R)) ^ (0.8 ^ A)), where R is Reincarnation and A is Ascension</p>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Gem Grinder Tier 2-7</a></b> (R42+)</p>
@@ -606,7 +606,7 @@
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" align="middle"> <b>Minedwarf</b></p>
 <p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
 <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
-<p><b>Upgrade Cost</b>: 100 Xsd (1e53), A1+ Free</p>
+<p><b>Upgrade Cost</b>: 100 Sxd (1e53), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/IronGripChallenges.png" align="middle"> <b>Iron Grip</b> (R33+)</p>
 <p><b>Effect</b>: Increase Diamond Pickaxe duration by 8 seconds, and its bonus to Faction Coin find chance is passively applied as a multiplier to excavations Faction Coin rewards.</p>
 <div class="shlisting">
@@ -961,7 +961,7 @@
 <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
 <p><b>Requirement</b>: Dragons Trade Treaty</p>
 <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
-<p><b><font color="darkred">Formula</font></b>: (2 * (ln(1 + X) ^ 2)%, where x is Faction Coins found in this game.</p>
+<p><b><font color="darkred">Formula</font></b>: (2 * (ln(1 + x) ^ 2)%, where x is Faction Coins found in this game.</p>
 <br>
 <p><b><font color="darkgreen">Green</font></b>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
 <p><b><font color="darkgreen">Formula</font></b>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
@@ -1033,7 +1033,7 @@
 <p><b>Requirement</b>: Freemason's Hall</p>
 <p><b>Cost</b>: 1 Qaqag (1e135)</p>
 <p><b>Effect</b>: Generates additional Faction Coins based on the amount of assistants you own.</p>
-<p><b>Formula</b>: (x * y ^ 1.275), where x is Faction coin chance, y is assistants owned.</p>
+<p><b>Formula</b>: (x * y ^ 1.275), where x is assistants owned, y is Faction coin chance.</p>
 <hr>
 <b><center>Ascension 2</b> (R100+)</center>
 <b><center>Secondary Alignment Spells</center></b>
@@ -1056,10 +1056,10 @@
 <p><b>Cost</b>: 3500 Mana</p>
 <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
 <p><b>Formulas</b></p>
-<p><b>Mana</b> (0.02 * (log10(1+x)) ^ 5)%, where x is mana produced this game.</p>
+<p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
 <p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
-<p><b>Faction Coins</b> (0.01 * (log10(1+x)) ^ 4)%, where x is faction coins found this game.</p>
-<p><b>Assistants</b>(0.25 * (log10(1+x)) ^ 5)%, where x is amount of assistants.</p>
+<p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
+<p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
 <p><b>Factions</b></p>
 <p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
 <br/>
