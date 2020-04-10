@@ -488,7 +488,7 @@
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E320,E1225,A400,A1200,W260,W1375,W1400">
+                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E320,E1225,A400,A1200,W260,W1375,W1400,S400,C1325,D150,E1325,A305,W400">
 				</p>
                 <p>S300,S1450,S3200,</p>
                 <p>C251,C375,C400,C1300,C1500,</p>
