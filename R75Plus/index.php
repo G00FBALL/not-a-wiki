@@ -685,7 +685,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Harvest DWL30+ (R82+)<font color="Blue"> Good</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
+				<p><b>Requirement</b>: High clicks count this R (300k-500k+)</p>
 				<p><b>Range</b>: ? Gems</p>
 				<p><b>Faction</b>: Good Mercenary</p>
 				<p><b>Bloodline</b>: Drow</p>
