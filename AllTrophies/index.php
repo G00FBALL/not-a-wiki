@@ -1367,33 +1367,21 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png align=middle><b> Arcane Brilliance 1</b></p>
                     <p><b>Requirement</b>: Unlock tier 2 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance2Trophy.png align=middle><b> Arcane Brilliance 2</b></p>
                     <p><b>Requirement</b>: Unlock tier 3 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance3Trophy.png align=middle><b> Arcane Brilliance 3</b></p>
                     <p><b>Requirement</b>: Unlock tier 4 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance4Trophy.png align=middle><b> Arcane Brilliance 4</b></p>
                     <p><b>Requirement</b>: Unlock tier 5 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance5Trophy.png align=middle><b> Arcane Brilliance 5</b></p>
                     <p><b>Requirement</b>: Unlock tier 6 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance6Trophy.png align=middle><b> Arcane Brilliance 6</b></p>
                     <p><b>Requirement</b>: Unlock tier 7 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p>
                     <p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>

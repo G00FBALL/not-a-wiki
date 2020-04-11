@@ -642,7 +642,7 @@
 <p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
 <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png" align="middle"> <b>Avarice Drive</b> (R18+)</p>
-<p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>
+<p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin's Greed Tier 2-7</a></b> (R42+)</p>
@@ -705,7 +705,8 @@
 <p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
 <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellfireBurstChallenges.png" align="middle"> <b>Hellfire Burst</b> (R18+)</p>
-<p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>
+<p><b>Effect</b>: Hellfire Blast also counts Evil spells cast in this reincarnation to increase its bonus.</p>
+<p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>"
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Hellfire Blast Tier 2-7</a></b> (R42+)</p>

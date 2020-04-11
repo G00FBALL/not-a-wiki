@@ -204,7 +204,7 @@
             <td></td>
             <td>Discover all the relics of the Ancient Races.</td>
             <td></td>
-            <td>Unlock Titan, Druid, and Faceless</p>This will require no less than 36 hours  this game for Faceless</td>
+            <td>Unlock Titan, Druid, and Faceless</p>This will require no less than 36 hours  this R for Faceless</td>
         </tr>
         <tr>
             <td><center>Faceless Overmind</p><img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindSecretTrophy.png"></td>
