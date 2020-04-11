@@ -415,8 +415,8 @@
 						<p>C251,C375,C400,C1300,C1500,</p>
 						<p>D200,D350,</p>
 						<p>E275,E320,E1225,</p>
-						<p>A400,W260,</p>
-						<p>W1375,W1400</p>
+						<p>A400,</p>
+						<p>W260,W1375,W1400</p>
 						<p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
 						<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
 						<p><b>Notes</b>: Estimated time 5-6 hours to complete.</p>
