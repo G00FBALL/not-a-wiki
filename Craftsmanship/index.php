@@ -22,7 +22,7 @@
         <hr>
         <p><b>C10</b> - For Fairy</p>
         <p><b>Research Name</b>: Cultivation</p>
-        <p><b>Requirement</b>: 2500 Farms</p>
+        <p><b>Requirement</b>: 2500 Enchanted Fields</p>
         <p><b>Cost</b>: 28.83 Uqag (2.883E127)</p>
         <p><b>Effect</b>: Increases production of Blacksmith and Inn by 60% per Enchanted field that you have.</p>
         <hr>

@@ -443,9 +443,9 @@
 	" coords="112,272,162,322" shape="rect">
         <area research="C10 - For Fairy
 	<p><b>Research Name</b>: Cultivation
-	<p><b>Requirement</b>: 2500 Farms
+	<p><b>Requirement</b>: 2500 Enchanted Fields
 	<p><b>Cost</b>: 28.83 Uqag (2.883E127)
-	<p><b>Effect</b>: Increases production of Blacksmith and Inn by 60% per Enchanted field that you have.
+	<p><b>Effect</b>: Increases production of Blacksmith and Inn by 60% per Enchanted Field that you have.
 	" coords="167,272,216,320" shape="rect">
         <area research="C25 - For Angel
 	<p><b>Research Name</b>: Light Condenser
