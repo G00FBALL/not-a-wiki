@@ -32,7 +32,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R171-R175 Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R171-R175)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: dzed</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
@@ -56,7 +56,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R175-R181 Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R175-R181)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e70 (10 Dvg) Gems</p>
@@ -80,10 +80,10 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R181+ Production Rush</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R181+)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: rellikrellik</p>
-                <p><b>Range</b>: 0 - 1e85 (10 Spvg) Gems</p>
+                <p><b>Range</b>: 0 - 1e93 (1 Tg) Gems</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -111,10 +111,10 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Production/Excavation Buff</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production/Excavation Buff (R182+)</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
-                <p><b>Range</b>: 1e80 (100 Qivg) Gems(?) - ?</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems(?) - ?</p>
 				<p><b>Requirement</b>: F6000 buff before each run</p>
                 <p><b>Faction</b>: Evil/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Fairy, Demon (2d16-8d16h)</p>
@@ -233,7 +233,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Spell casts and Mana Produced</b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Spell casts, Mana Produced</b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
                 <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
