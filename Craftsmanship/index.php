@@ -18,7 +18,7 @@
         <p><b>Research Name</b>: Dummy Targets</p>
         <p><b>Cost</b>: 750 Qag (7.5E125)</p>
         <p><b>Effect</b>: Increase Elven Training Grounds production based on the amount of Faction Coins you found.</p>
-        <p><b>Formula</b>: round(1.3 * ln ^3 (1 + x))%, where x is your Faction Coins Gained (This Game) stat.</p>
+        <p><b>Formula</b>: (1.3 * ln(1 + x) ^ 3)%, where x is your Faction Coins Gained (This Game) stat.</p>
         <hr>
         <p><b>C10</b> - For Fairy</p>
         <p><b>Research Name</b>: Cultivation</p>
@@ -31,21 +31,21 @@
         <p><b>Requirement</b>: 12,000 Spells cast (This R)</p>
         <p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
         <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast.</p>
-        <p><b>Formula</b>: floor(10 * x^0.3) / 10, where x is your Spells Cast (This Game) stat.</p>
+        <p><b>Formula</b>: floor(10 * x ^ 0.3) / 10, where x is your Spells Cast (This Game) stat.</p>
         <hr>
         <p><b>C50</b> - For Demon</p>
         <p><b>Research Name</b>: Refining</p>
         <p><b>Requirement</b>: 1 B (1E9) Faction Coins (as Elf)</p>
         <p><b>Cost</b>: 318.8 Tgag (3.188E134)</p>
         <p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Demon Coins you found in this Game.</p>
-        <p><b>Formula</b>: round(0.8 * ln^3(1 + x))%, where x is your Demon Coins Gained (This Game) stat.</p>
+        <p><b>Formula</b>: (0.8 * ln(1 + x) ^ 3)%, where x is your Demon Coins Gained (This Game) stat.</p>
         <hr>
         <p><b>C80</b> - For All Factions</p>
         <p><b>Research Name</b>: Apprenticeship</p>
         <p><b>Requirement</b>: 16,000 Good and Evil buildings</p>
         <p><b>Cost</b>: 61.13 Qiqag (6.113E139)</p>
         <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of Good and Evil buildings.</p>
-        <p><b>Formula</b>: round(x^0.8)%, where x is the number of Good and Evil Buildings you own.</p>
+        <p><b>Formula</b>: (x^0.8)%, where x is the number of Good and Evil Buildings you own.</p>
         <hr>
         <p><b>C105</b> - For All Factions</p>
         <p><b>Research Name</b>: Woodcraft</p>
@@ -59,7 +59,7 @@
         <p><b>Requirement</b>: 200,000 clicks (This Game)</p>
         <p><b>Cost</b>: 676 Spqag (6.76E146)</p>
         <p><b>Effect</b>: Increase clicking reward based on the amount of gems you own.</p>
-        <p><b>Formula</b>: round(20 * log10(1 + x))%, where x is your current number of gems.</p>
+        <p><b>Formula</b>: (20 * log10(1 + x))%, where x is your current number of gems.</p>
         <hr>
         <p><b>C135</b> - For All Factions</p>
         <p><b>Research Name</b>: Reinforcing</p>

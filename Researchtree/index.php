@@ -433,13 +433,13 @@
 	<p><b>Research Name</b>: Mirrors
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mana Loom artifact and upgrade
 	<p><b>Effect</b>: Multiplicatively increase Assistants based on Spell casts in this game.
-	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game
+	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game.
 	" coords="389,192,436,241" shape="rect">
         <area research="C1 - For Elf
 	<p><b>Research Name</b>: Dummy Targets
 	<p><b>Cost</b>: 750 Qag (7.5E125)
 	<p><b>Effect</b>: Increase Elven Training Grounds production based on the amount of Faction Coins you found.
-	<p><b>Formula</b>: round(1.3 * ln ^3 (1 + x))%, where x is your Faction Coins Gained (This Game) stat.
+	<p><b>Formula</b>: (1.3 * ln(1 + x) ^ 3)%, where x is your Faction Coins Gained (This Game) stat.
 	" coords="112,272,162,322" shape="rect">
         <area research="C10 - For Fairy
 	<p><b>Research Name</b>: Cultivation
@@ -452,21 +452,21 @@
 	<p><b>Requirement</b>: 12,000 Spells cast (This R)
 	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
 	<p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast.
-	<p><b>Formula</b>: floor(10 * x^0.3) / 10, where x is your Spells Cast (This Game) stat.
+	<p><b>Formula</b>: floor(10 * x ^ 0.3) / 10, where x is your Spells Cast (This Game) stat.
 	" coords="221,271,273,320" shape="rect">
         <area research="C50 - For Demon
 	<p><b>Research Name</b>: Refining
 	<p><b>Requirement</b>: 1 B (1E9) Faction Coins (as Elf)
 	<p><b>Cost</b>: 318.8 Tgag (3.188E134)
 	<p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Demon Coins you found in this Game.
-	<p><b>Formula</b>: round(0.8 * ln^3(1 + x))%, where x is your Demon Coins Gained (This Game) stat.
+	<p><b>Formula</b>: (0.8 * ln(1 + x) ^ 3)%, where x is your Demon Coins Gained (This Game) stat.
 	" coords="278,271,328,320" shape="rect">
         <area research="C80 - For All Factions
 	<p><b>Research Name</b>: Apprenticeship
 	<p><b>Requirement</b>: 16,000 Good and Evil buildings
 	<p><b>Cost</b>: 61.13 Qiqag (6.113E139)
 	<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of Good and Evil buildings.
-	<p><b>Formula</b>: round(x^0.8)%, where x is the number of Good and Evil Buildings you own.
+	<p><b>Formula</b>: (x ^ 0.8)%, where x is the number of Good and Evil Buildings you own.
 	" coords="333,270,383,320" shape="rect">
         <area research="C105 - For All Factions
 	<p><b>Research Name</b>: Woodcraft
