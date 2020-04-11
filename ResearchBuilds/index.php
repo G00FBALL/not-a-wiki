@@ -107,12 +107,32 @@
         <div class="category autohide">
             <p><b>Note</b>: In this range you should always manage excavation for easier start.</p>
             <p><b>R22+</b>: Remember to grab Ancient Cocoa Bean, you will need it from R26 on.</p>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Goblin Transition R21-R25</font></a></b></p>
+			<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Goblin R21</font></a></b></p>
                 <div class="autohide">
                     <p><b>Faction</b>: Goblin</p>
                     <p><b>Bloodline</b>: Druid</p>
-                    <p><b>Range</b>: 1e72 (1 Tvg) Gems - 1e78 (1 Qivg) gems </p>
+                    <p><b>Range</b>: 1e72 (1 Tvg) Gems - 1e90 (1 Novg) Gems </p>
+                    <p><b>Duration</b>: 5 - 25 Minutes</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S30,S50,S105,S150,S200,C105,C120,C135,C150,C175,D55,D135,D150,D200,E80,E135,E145,E150,E200,A10,A105,A120,A150,A200,W25,W120,W135,W150,W180">
+                    </p>
+                    <p>S30,S50,S105,S150,S200,</p>
+                    <p>C105,C120,C135,C150,C175,</p>
+                    <p>D55,D135,D150,D200,</p>
+                    <p>E80,E135,E145,E150,E200,</p>
+                    <p>A10,A105,A120,A150,A200,</p>
+                    <p>W25,W120,W135,W150,W180</p>
+                    <p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Tax Collection for 2-10 minutes for build up then resume the combo.</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Goblin Transition R22-R25</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Faction</b>: Goblin</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Range</b>: 1e72 (1 Tvg) Gems - 1e78 (1 Qivg) Gems</p>
                     <p><b>Duration</b>: 5 - 25 Minutes</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
@@ -128,7 +148,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Goblin R21-R23</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Goblin R22-R23</font></a></b></p>
                 <div class="autohide">
                     <p><b>Faction</b>: Goblin</p>
                     <p><b>Bloodline</b>: Druid</p>
