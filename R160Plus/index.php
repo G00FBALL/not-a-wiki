@@ -34,7 +34,7 @@
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R171-R175)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: dzed</p>
+                <p><b>Author</b>: dzed modified by Necrodoom</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
@@ -43,15 +43,15 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S30,S150,S400,S2875,C150,C340,C3000,D25,D275,D290,D2775,E25,E30,E135,E145,E400,E1325,E1425,A55,A120,A270,A2950,W25,W120,W150,W180,W275,W320,W400,W590,W1375">
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S30,S150,S400,S2875,C150,C340,C3000,D25,D55,D200,D275,D290,D1275,D1375,E25,E30,E135,E145,E400,E1325,E1425,A30,A55,A120,A270,A2950,W25,W120,W150,W180,W275,W320,W400,W590,W1375">
 				</p>
                 <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
 				<p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
                 <p>S30,S150,S400,S2875,</p>
                 <p>C150,C340,C3000,</p>
-                <p>D25,D275,D290,D2775,</p>
+                <p>D25,D55,D200,D275,D290,D1275,D1375,</p>
                 <p>E25,E30,E135,E145,E400,E1325,E1425,</p>
-                <p>A55,A120,A270,A2950,</p>
+                <p>A30,A55,A120,A270,A2950,</p>
                 <p>W25,W120,W150,W180,W275,W320,W400,W590,W1375</p>
             </div>
         </div>
