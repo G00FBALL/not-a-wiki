@@ -85,7 +85,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Trade Lords" align="middle"> Trade Lords (<u>For Neutral Alignments</u>)</b></p>
         <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
         <p><b>Effect</b>: When assistants finds a faction coin, they also find a faction coin for every other faction. Also increases mana regeneration based on faction coins gained in this game.</p>
-        <p><b>Formula</b>: floor(10 * log10(1 + x ^ 1.5))/10, where x is your Faction Coins Gained (This Game) stat.</p>
+        <p><b>Formula</b>: (floor(10 * log10(1 + x ^ 1.5)) / 10), where x is your Faction Coins Gained (This Game) stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryUpgrade5.png" alt="Smiley face" align="middle"> Mercenary Upgrade 5</b></p>
         <p><b>Cost</b>: 3,000 FC</p>
@@ -186,6 +186,12 @@
         <p><b>Formula</b>: (1.25 * (1 + x) ^ 1.05), where X is number of Non-Unique Buildings.</p>
         <p><b>Effect 3</b>: Unlocks Round Table</p>
         <br/>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/RoundTable.png" alt="Round Table" align="middle"> <b>Round Table</b> (Spell Upgrade)</p>
+        <p><b>Note</b>: Share Benefits upgrade.</p>
+        <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Good factions.</p>
+        <p><b>Effect 2</b>: Upgrades Tax Collection spell to Share Benefits, increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds.</p>
+        <p><b>Effect 3</b>: Also produce Tax Collection casts per second based on your Maximum Mana.</p>
+        <br/>
         <p><b>Evil</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/TyrantGarrison.png" alt="Tyrant Garrison" align="middle"> <b>Tyrant Garrison</b></p>
         <p><b>Requirement</b>: Mercenary Encampment Quest</p>
@@ -198,17 +204,21 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/DarkCovenant.png" alt="Dark Covenant" align="middle"> <b>Dark Covenant</b> (Spell Upgrade)</p>
         <p><b>Note</b>: Reap Interests upgrade.</p>
         <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
-        <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests, Additional casts of Reap Interests increase its seconds worth of production.</p>
-        <p><b>Effect</b>: Removes 1 Ascension Penalty from Heresiarchs.</p>
+        <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests, additional casts of Reap Interests increase its seconds worth of production.</p>
+        <p><b>Effect 3</b>: Removes 1 Ascension Penalty from Heresiarchs.</p>
         <br/>
         <p><b>Neutral</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
         <p><b>Requirement</b>: Mercenary Encampment Quest</p>
         <p><b>Cost</b>: 100 Qag (1e125)</p>
         <p><b>Effect 1</b>: Allows access to Research Facilities</p>
-        <p><b>Effect 2</b>: Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
+        <p><b>Effect 2</b>: Upgrade Inns to Freemason's Hall, boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
         <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
+        <br/>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b> (Spell Upgrade)</p>
+        <p><b>Note</b>: Appraisal Vantage upgrade.</p>
+        <p><b>Effect</b>: Upgrades Tax Collection spell to Appraisal Vantage, generates additional Faction Coins based on the amount of assistants you own.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ObsidianShardArtifact.png" alt="Secrets of the Warriors" align="middle"> <b>Obsidian Shard</b></p>
         <p><b>Requirement</b>: 8000th Excavation as any Faction, R75+</p>
@@ -264,7 +274,7 @@
         <p><b>Requirement</b>: Freemason's Hall</p>
         <p><b>Cost</b>: 1 Qaqag (1e135)</p>
         <p><b>Effect</b>: Generates additional Faction Coins based on the amount of assistants you own.</p>
-        <p><b>Formula</b>: (x * y ^ 1.275), where x is Faction coin chance, y is assistants owned.</p>
+        <p><b>Formula</b>: (x * y ^ 1.275), where x is assistants owned, y is Faction coin chance.</p>
         <br/>
         <p><b>Extras</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KYE2" align="middle"><b> Know Your Enemy, Part 2</b></p>
@@ -286,7 +296,7 @@
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercenaryUpgrade13.png" alt="Round Table" align="middle"> <b>Evil Mercenary Upgrade 13</b></p>
         <p>You can purchase any upgrade from any Evil Faction for an increased price.</p>
-        <p><b>Requirement</b>: Tyrant Garrison (Evil Spell Upgrade)</p>
+        <p><b>Requirement</b>: Dark Covenant (Evil Spell Upgrade)</p>
         <p><b>Note</b>: Not available in A3 (R160+)</p>
         <hr>
         <p id="MercenaryDuel"><b>Ascension 3 (R160+)</b></p>
