@@ -462,6 +462,7 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12Reincarnations.png" alt="12 Reincarnations" align="middle"> 12 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 12 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R12) 1 Nod (1e60) Gems</p>
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/15Reincarnations.png" alt="15 Reincarnations" align="middle"> 15 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 15 times</p>
