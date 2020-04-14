@@ -142,11 +142,11 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e104 (100 Ttg)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e110 (100 Qitg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
 				<p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
-				<p><b>Range</b>: 1e104 (100 Ttg) Gems+</p>
+				<p><b>Range</b>: 1e110 (100 QItg) Gems+</p>
 				<p><b>Faction</b>: Demon</p>
 				<p><b>Bloodline</b>: Angel</p>
 				<p><b>Artifact Set</b>: Demon</p>
