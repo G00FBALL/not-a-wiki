@@ -1184,7 +1184,7 @@
 	" coords="499,989,548,1036" shape="rect">
         <area research="A135 - For All Factions
 	<p><b>Research Name</b>: Decay
-	<p><b>Requirement</b>: 1 Day Total Play Time any Faction (This R) (Must be Undead to unlock once condition is met.)
+	<p><b>Requirement</b>: 1 Day playtime (This Reincarnation) (Unlock as Undead)
 	<p><b>Cost</b>: 296 OcQag (9.6E149)
 	<p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation.
 	<p><b>Formula</b>: (0.03 * (2x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds.

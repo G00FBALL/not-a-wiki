@@ -69,7 +69,7 @@
         <hr>
         <p><b>A135</b> - For All Factions</p>
         <p><b>Research Name</b>: Decay</p>
-        <p><b>Requirement</b>: 1 Day Total Play Time any Faction (This R) (Must be Undead to unlock once condition is met.)</p>
+        <p><b>Requirement</b>: 1 Day playtime (This Reincarnation) (Unlock as Undead)</p>
         <p><b>Cost</b>: 296 OcQag (9.6E149)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation.</p>
         <p><b>Formula</b>: (0.03 * (2x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds.</p>
