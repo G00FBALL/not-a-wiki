@@ -311,7 +311,7 @@
             <td><center>Helden Sterben Nicht</p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png"></td>
             <td>5 Qavg (5e75)</p>A1+ Free</td>
             <td>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.</td>
-            <td>Increase mana regeneration and maximum mana by 15%.</td>
+            <td>Increase mana regeneration and maximum mana by 10%.</td>
             <td>After joining each stage wait about 10 seconds before Abdicating.You Abdicate or Reincarnate and the timer starts, from then you have 15 minutes total to join the three factions.</td>
         </tr>
         <tr>
@@ -340,7 +340,7 @@
             <td>1000 coins</p>A1+ Free</td>
             <td>Have a maximum mana of exactly 4767.</td>
             <td>Increase maximum mana by 15%.</td>
-            <td>Use Druidline (Ignore Bloodline before R7) <p>Pick DD4,DN2 (1st silver Druid, 2nd bronze Dwarf) and production</td>
+            <td>Pick DD4,DN2 (1st silver Druid, 2nd bronze Dwarf) and production</td>
         </tr>
         <tr>
             <td><center>Unlimited Mana</p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png"></td>
@@ -472,7 +472,7 @@
             <td><center>Novice Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/NoviceResearcherSecretTrophy.png"></td>
             <td>1 Qag (1e123)</p>A1+ Free</td>
             <td>Research 600 times across all fields.</td>
-            <td>Increase the overall production of Vanilla Factions by 100%<p>A1, 7.18%.</p>A2, 0.7%.</td>
+            <td>Increase the overall production of Vanilla Factions by 100%.</td>
         </tr>
    </table>
       </div>
