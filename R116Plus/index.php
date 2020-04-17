@@ -182,23 +182,23 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Sad</p>
+                <p><b>Author</b>: Sunk</p>
                 <p><b>Range</b>: 1e42 (1 Qad) Gems+</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Drow</p>
-                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Goblin</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
+                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D200,D260,D1125,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
 				</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E290,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
+                    <input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D200,D260,D1125,E290,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
 					<b>Excavations</b>
 				</p>
                 <p>S251,S375,S400,S1450,S1500,</p>
                 <p>C400,C1300,</p>
-                <p>D260,D290,D1125,</p>
+                <p>D200,D260,D1125,</p>
                 <p>E320,E350,E1225,</p>
                 <p>A300,A1200,A3400,</p>
                 <p>W275,W1375,W1400</p>
