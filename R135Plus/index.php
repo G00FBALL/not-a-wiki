@@ -594,27 +594,26 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (R148+) (Makers L45)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (R148+) (Makers L45)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Silver</p>
-				<p><b>Requirements</b>: Goblin Lineage L45</p>
+				<p><b>Author</b>: Ensteffan</p>
+				<p><b>Requirements</b>: Goblin Lineage L45, Djinn Challenge 4</p>
 				<p><b>Range</b>: ?</p>
-				<p><b>Faction</b>: Angel</p>
+				<p><b>Faction</b>: Faceless</p>
 				<p><b>Bloodline</b>: Makers</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
+				<p><b>Artifact Set</b>: Faceless</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W1375,S400,C250,D3350,E320,A120,W400">
+					<input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
 				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D290,D435,D590,</p>
-				<p>E135,E410,</p>
-				<p>A50,A400,A495,</p>
-				<p>W225,W560,W1375</p>
-				<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
-				<p><b>Notes</b>: Buff Total Excavations and Excavation resets.</p>
-				<p><b>Notes</b>: Estimated time to L45 is 30 minutes.</p>
+				<p>S251,S375,S400,S1450,S1500,</p>
+				<p>C400,C1300,</p>
+				<p>D260,D290,D1125,</p>
+				<p>E145,E350,E1225,</p>
+				<p>A300,A1200,A3400,</p>
+				<p>W275,W1375,W1400</p>
+				<p><b>Notes</b>: Buff Total Excavations, Excavation resets, max assistants and spell casts.</p>
+				<p><b>Notes</b>: Estimated time to L45 is ?.</p>
 			</div>
 		</div>
 	</div>
