@@ -369,6 +369,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Sheep</p>
                 <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
+				<p><b>Requirements</b>: Future Linkin</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Elf/Angel/Undead/Demon/Titan/Druid/Dwarf/Drow</p>
                 <p><b>Artifact Set</b>: Titan (Angel,Goblin,Titan),</p>
@@ -394,7 +395,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Sheep</p>
                 <p><b>Range</b>:1e60 (1 Nod) Gems+</p>
-                <p><b>Requirements</b>: Undead L30</p>
+                <p><b>Requirements</b>: Future Linkin, Undead Lineage Level 30</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless/Dragon/Goblin/Fairy</p>
                 <p><b>Artifact Set</b>: Elf</p>
