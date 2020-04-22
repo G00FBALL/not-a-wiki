@@ -289,7 +289,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL3,AN2,AN5,AN6,AN9,TT6,FC7,DN2,DN8,DG3,DG4,DG9,MA:UD7,SP:God's Hand,SP:Fairy Chanting,S50,S215,S305,S1450,S1500,S3200,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E135,E225,E275,E1225,E3250,E3300,A105,A120,A410,A1500,A2950,A3400,W180,W205,W525,W1375,W3050,W3150">
-					<b>No GB10</b>
+					<b>No Primal Balance +9</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -305,7 +305,7 @@
 				<p>A105,A120,A410,A1500,A2950,A3400,</p>
 				<p>W180,W205,W525,W1375,W3050,W3150</p>
 				<p><b>Notes</b>: Swap C150->C1500 if higher.</p>
-				<p><b>Notes</b>: Swap Grand Balance->Fairy Chanting, DD7->FC7 and E10->E275 if no GB10 (Grand Balance targeting 10 buildings)</p>
+				<p><b>Notes</b>: Swap Grand Balance->Fairy Chanting, DD7->FC7 and E10->E275 if Primal Balanace below +9 (Grand Balance targeting 10 buildings)</p>
 				<p><b>Notes</b>: E225->E230 after 1-2 hours spent as evil</p>
 			</div>
 		</div>
@@ -513,7 +513,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (GB10 Buff) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (Mana Spent for Primal Balance) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ?</p>
