@@ -160,8 +160,8 @@
 				<p>E230,E400,E495,</p>
 				<p>A25,A400,A410,</p>
 				<p>W1,W135,W175,W405,W520,W590</p>
-				<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run.</p>
-				<p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
+				<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run. Build grows idle but its recommended to set up a spell combo before abdicating.</p>
+				<p><b>Notes</b>: Before abdicating, make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
 			</div>
 		</div>
 				<div class="shelementwhole">
