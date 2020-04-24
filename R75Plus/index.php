@@ -291,7 +291,7 @@
 				<p><b>Notes</b>: Swap A105->A3400 for R83+.</p>
 			</div>
 		</div>
-				<div class="shelementwhole">
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Curse of the Tomb (R81-R89)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
@@ -324,7 +324,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Veteran Figurine</p>
-				<p><b>Range</b>: 1e75 (1 Qavg) Gems - 1e116 (100 Sptg) Gems</p>
+				<p><b>Range</b>: 1e75 (1 Qavg) Gems - 1e96 (1 Utg) Gems</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Titan</p>
 				<p><b>A2950</b>: Dragon</p>
@@ -343,7 +343,31 @@
 				<p><b>Notes</b>: Excavate for lineage, upgrades and spell tiers.</p>
 			</div>
 		</div>
-				<div class="shelementwhole">
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Curse of the Tomb (R90+)<font color="DarkRed"> Evil</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Requirement</b>: Veteran Figurine</p>
+				<p><b>Range</b>: 1e96 (1 Utg) Gems - 1e116 (100 Sptg) Gems</p>
+				<p><b>Faction</b>: Evil Mercenary</p>
+				<p><b>Bloodline</b>: Titan</p>
+				<p><b>A2950</b>: Dragon</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL3,AN2,AN5,AN6,UD7,TT6,DN2,DN8,DW8,DG3,DG4,DG9,MA:DW7,SP:God's Hand,SP:Dragon's Breath,S50,S215,S305,S330,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E275,E1225,E3250,E3300,A10,A120,A270,A1500,A2950,A3400,W180,W400,W405,W525,W3050,W3150">
+					<b>D3350, A3400 unlocked</b>
+				</p>
+				<p>EL3,AN2,AN5,AN6,UD7,TT6,DN2,DN8,DW8,DG3,DG4,DG9,MA:DW7,</p>
+				<p>SP:God's Hand,SP:Dragon's Breath,</p>
+				<p>S50,S215,S305,S330,S1450,S1500,</p>
+				<p>C150,C340,C400,C590,C1300,C3000,</p>
+				<p>D25,D275,D1275,D1375,D2775,D3350,</p>
+				<p>E10,E135,E275,E1225,E3250,E3300,</p>
+				<p>A10,A120,A270,A1500,A2950,A3400,</p>
+				<p>W180,W400,W405,W525,W3050,W3150</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Crypt Keeper (R90+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
