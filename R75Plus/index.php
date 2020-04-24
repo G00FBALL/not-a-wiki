@@ -603,6 +603,59 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission EL25 (R75)<font color="Blue"> Good</font></a> Needs Testing</b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
+				<p><b>Faction</b>: Evil Mercenary</p>
+				<p><b>Bloodline</b>: Elf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,SP:Dragon's Breath,SP:Fairy Chanting,S180,S200,S215,S305,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E135,E145,E275,E320,E590,E1225,W205,W275,W400,W1275,W1375,W1400">
+				</p>
+				<p>EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,</p>
+				<p>SP:Dragon's Breath,SP:Fairy Chanting,</p>
+				<p>S180,S200,S215,S305,S1450,S1500,</p>
+				<p>C250,C340,C400,C590,C1300,C1325,</p>
+				<p>D25,D200,D275,D290,D330,D2775,</p>
+				<p>E135,E145,E275,E320,E590,E1225,</p>
+				<p>A120,A270,A300,A305,A545,A1500,</p>
+				<p>W205,W275,W400,W1275,W1375,W1400</p>
+			</div>			
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission L25s (R75)<font color="Blue"> Good</font></a> Needs Testing</b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
+				<p><b>Faction</b>: Evil Mercenary</p>
+				<p><b>Bloodline</b>: Elf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,SP:Dragon's Breath,SP:Fairy Chanting,S180,S200,S215,S305,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E135,E145,E275,E320,E590,E1225,W205,W275,W400,W1275,W1375,W1400">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,SP:God's Hand,SP:Fairy Chanting,S180,S200,S215,S305,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E135,E145,E275,E320,E590,E1225,W205,W275,W400,W1275,W1375,W1400">
+					<b>Dragon Lineage</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,SP:Dragon's Breath,SP:God's Hand,S180,S200,S215,S305,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E135,E145,E275,E320,E590,E1225,W205,W275,W400,W1275,W1375,W1400">
+					<b>Fairy Lineage</b>
+				</p>
+				<p>EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,</p>
+				<p>SP:Dragon's Breath,SP:Fairy Chanting,</p>
+				<p>S180,S200,S215,S305,S1450,S1500,</p>
+				<p>C250,C340,C400,C590,C1300,C1325,</p>
+				<p>D25,D200,D275,D290,D330,D2775,</p>
+				<p>E135,E145,E275,E320,E590,E1225,</p>
+				<p>A120,A270,A300,A305,A545,A1500,</p>
+				<p>W205,W275,W400,W1275,W1375,W1400</p>
+				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
+			</div>			
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission EL25 (R77)<font color="Blue"> Good</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
