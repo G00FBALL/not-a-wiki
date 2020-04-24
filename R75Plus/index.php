@@ -201,7 +201,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Nameless Philanthropists (R77-R80)<font color="Blue"> Good</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Nameless Philanthropists (R77-R81)<font color="Blue"> Good</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: low excavations count (Reset excavations if needed)</p>
@@ -242,7 +242,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Prosperous Uprising (R81-R89)<font color="Blue"> Good</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Prosperous Uprising (R82-R89)<font color="Blue"> Good</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 1e88 (10 Ocvg) Gems - 1e96 (1 Utg) Gems </p>
