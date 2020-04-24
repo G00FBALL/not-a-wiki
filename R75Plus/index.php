@@ -295,7 +295,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Curse of the Tomb (R81-R89)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
-				<p><b>Range</b>: 1e96 (1 Utg) Gems - 1e122 (100 NoTg) Gems</p>
+				<p><b>Range</b>: 1e96 (1 Utg) Gems+</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
 				<p><b>Bloodline</b>: Titan</p>
 				<p><b>A2950</b>: Dragon</p>
