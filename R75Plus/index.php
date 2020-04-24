@@ -603,7 +603,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring EL25 (R75)<font color="Blue"> Good</font></a> Needs Testing</b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring EL25 (R75)<font color="DarkRed"> Evil</font></a> Needs Testing</b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
@@ -624,7 +624,7 @@
 			</div>			
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring L25s (R75)<font color="Blue"> Good</font></a> Needs Testing</b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring L25s (R75)<font color="DarkRed"> Evil</font></a> Needs Testing</b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
