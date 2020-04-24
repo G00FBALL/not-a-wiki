@@ -292,7 +292,7 @@
 			</div>
 		</div>
 				<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">No Faycancies (R81-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Curse of the Tomb (R81-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffan</p>
 				<p><b>Range</b>: 1e96 (1 Utg) Gems - 1e122 (100 NoTg) Gems</p>
