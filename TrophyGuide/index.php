@@ -41,6 +41,8 @@
 								<center>Clouded<img src="http://musicfamily.org/realm/Factions/picks/Clouded.png"></td>
 							<td></td>
 							<td>Register with the cloud.</td>
+							<td></td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -58,6 +60,7 @@
 							<td>1000 coins</p>A1+ Free</td>
 							<td>Abdicate 10 times within 3 minutes.</td>
 							<td>Increase mana regeneration by 1m/s.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -65,6 +68,7 @@
 							<td>Free</td>
 							<td>Don’t do anything for 5 minutes after abdicating or reincarnating.</td>
 							<td>Instantly adds 10 coins.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -103,6 +107,7 @@
 							<td>1000 coins</p>A1+ Free</td>
 							<td>Spend at least 3 hours playing a single game.</td>
 							<td>Increase Royal Exchange bonus by an additional 1%.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -210,12 +215,15 @@
 							<td>1 Oc (1e27)</p>A1+ Free</td>
 							<td>Abdicate after producing at least 1 Oc (1e27) Coins.</td>
 							<td>Increase the production of all buildings by 8%.</p>A1, 0.77%</p>A2, 0.08%</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
 								<center>Archaeology Expedition</p><img src="http://musicfamily.org/realm/Factions/picks/ArchaeologyExpedition.png"></td>
 							<td></td>
 							<td>Excavate once.</td>
+							<td></td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -399,6 +407,7 @@
 							<td>1 Ocd (1e57)</p>A1+ Free</td>
 							<td>Reincarnate while affiliated with Mercenaries.</td>
 							<td>Increase the production of all buildings by 15% for each reincarnation you made.</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
@@ -526,6 +535,7 @@
 							<td>1 Qag (1e123)</p>A1+ Free</td>
 							<td>Research 600 times across all fields.</td>
 							<td>Increase the overall production of Vanilla Factions by 100%.</td>
+							<td></td>
 						</tr>
 				</table>
 			</div>
@@ -556,6 +566,7 @@
 							<td>250 Noqag (2.50e152)</p>A1+ Free</td>
 							<td>Discover at least 10 Alchemy Researches.</td>
 							<td>Increase Alchemy slots by 1.</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -610,6 +621,7 @@
 							<td>250 Noqag (2.50e152)</p>A1+ Free</td>
 							<td>Discover at least 10 Craftsmanship Researches.</td>
 							<td>Increase Craftsmanship slots by 1.</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -636,6 +648,7 @@
 							<td>250 Noqag (2.50e152)</p>A1+ Free</td>
 							<td>Discover at least 10 Spellcraft Researches.</td>
 							<td>Increase Spellcraft slots by 1.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -643,6 +656,7 @@
 							<td>250 Noqag (2.50e152)</p>A1+ Free</td>
 							<td>Discover at least 10 Divine Researches.</td>
 							<td>Increase Divine slots by 1.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -650,6 +664,7 @@
 							<td>250 Noqag (2.50e152)</p>A1+ Free</td>
 							<td>Discover at least 10 Economics Researches.</td>
 							<td>Increase Economics slots by 1.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -657,6 +672,7 @@
 							<td>250 Noqag (2.50e152)</p>A1+ Free</td>
 							<td>Discover at least 10 Warfare Researches.</td>
 							<td>Increase Warfare slots by 1.</td>
+							<td></td>
 						</tr>
 				</table>
 			</div>
@@ -714,6 +730,7 @@
 							<td>1 QiQig (1e168)</p>A1+ Free</td>
 							<td>Research 1800 times across all fields.</td>
 							<td>Increases production of all Neutral Factions by 100%.</p>A1, 7.18%.</p>A2, 0.7%.</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -721,7 +738,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="4">R25</th>
+							<th colspan="5">R25</th>
 						</tr>
 					</thead>
 					<thead>
@@ -740,6 +757,7 @@
 							<td>1 SpQig (1e174)</p>A1+ Free</td>
 							<td>Discover all the Vanilla researches.</td>
 							<td>Increase the production of all buildings based on research done.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -747,6 +765,7 @@
 							<td>10 coins</p>A1+ Free</td>
 							<td>Complete all the Neutral Challenges.</td>
 							<td>Increase the overall production of Neutral Factions by 25%.</p>A1, 2.26%.</p>A2, 0.22%</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -754,7 +773,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="4">R28</th>
+							<th colspan="5">R28</th>
 						</tr>
 					</thead>
 					<thead>
@@ -807,6 +826,7 @@
 							<td>10 Noqag (1e151)</p>A1+ Free</td>
 							<td>Reach an Offline Bonus of at least 1Qa%.</p>A1, 1895%.</p>A2. 34.9%</td>
 							<td>Increase the production of all buildings based on offline bonus.</p>Formula: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -883,6 +903,7 @@
 							<td>1 Tg (1e93)</p>A1+ Free</td>
 							<td>Reach 1 NoVg (1e90) gems without affiliating with mercenaries.</td>
 							<td>Increase Mercenary production by 1% per Reincarnation.</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -956,6 +977,7 @@
 							<td>1 TTg (1e102)</p>A2+ Free</td>
 							<td>Have exactly 333 of each Royal Exchange type.</td>
 							<td>Increase Faction Coins generation while offline based on your mana regeneration.</p>Formula</b>: 300 * log10(1 + x)^3, where x is mana regen when offline.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -1040,7 +1062,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="4">R55</th>
+							<th colspan="5">R55</th>
 						</tr>
 					</thead>
 					<thead>
@@ -1059,6 +1081,7 @@
 							<td>1 Novg (1e90)</p>A2+ Free</td>
 							<td>Discover all the Dragon researches.</td>
 							<td>Increase the production of all buildings based on research done.</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -1085,6 +1108,7 @@
 							<td>1 Qavg (1e75)</p>A2+ Free</td>
 							<td>Research 10,000 times across all fields.</td>
 							<td>Increase the overall production of Dragons by 100%.</td>
+							<td></td>
 						</tr>
 				</table>
 			</div>
@@ -1115,6 +1139,7 @@
 							<td>640 Vg (6.4e65)</p>A2 Free</td>
 							<td>Have at least 4 spells active on tier 5 or higher, R42+</td>
 							<td>Increase max mana by 75% (multiplicative).</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -1130,7 +1155,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="4">R63</th>
+							<th colspan="5">R63</th>
 						</tr>
 					</thead>
 					<thead>
@@ -1149,6 +1174,7 @@
 							<td>640 Vg (6.4e65)</p>A2+ Free</td>
 							<td>Complete all the Prestige Challenges, R63+</td>
 							<td>Increase the overall production of Prestige Factions by 25%.</td>
+							<td></td>
 						</tr>
 				</table>
 			</div>
@@ -1179,6 +1205,7 @@
 							<td>100 Qaq (1e125)</p>A2+ Free</td>
 							<td>Perform 40 autoclicks in 1 second, R60+</td>
 							<td>Multiply Faction Coin find chance by x5 for automatic clicks only.</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
@@ -1186,6 +1213,7 @@
 							<td>1 NoQig (1e180)</p>A2+ Free</td>
 							<td>Have a total of 300 Lineage levels across all Lineage.</td>
 							<td>Increase the production of all buildings based on the total amount of lineage levels you have.</p>Formula: 2.5 * x ^ 1.35</td>
+							<td></td>
 						</tr>
 				</table>
 				<br/>
@@ -1193,7 +1221,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="4">R79</th>
+							<th colspan="5">R79</th>
 						</tr>
 					</thead>
 					<thead>
@@ -1212,6 +1240,7 @@
 							<td>10 SpQig (1e175)</p>A2+ Free</td>
 							<td>Research 18500 times across all fields.</td>
 							<td>Increase the overall production of Mercenaries by 150%.</td>
+							<td></td>
 						</tr>
 				</table>
 			</div>
@@ -1241,7 +1270,8 @@
 								<center>Warrior Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png"></td>
 							<td>1 DSpg (1e219)</p>A2+ Free</td>
 							<td>Discover all the Mercenary researches.</td>
-							<td>Increase the production of all buildings based on research done.</p>Formula</b>: 0.3 * x ^ 0.7, where x is total of research done.</td>
+							<td>Increase the production of all buildings based on research done.</p>Formula: 0.3 * x ^ 0.7, where x is total of research done.</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
@@ -1272,19 +1302,16 @@
 								<center>Holy Frenzy</p><img src="http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png"></td>
 							<td>100 Dc (1e35)</td>
 							<td>In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.</td>
-							<td>
-								<p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.
-									<p><b>Note</b>:Upgrade scales from Holy Light/Blood Frenzy tiers.
-										<p>Formula: (250 * t ^ 2)</td>
+							<td>While Blood Frenzy or Holy Light are active, increase the production of all buildings.</p>Note: Upgrade scales from Holy Light/Blood Frenzy tiers.</p>Formula: (250 * t ^ 2)</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>
 								<center>Uniformity</p><img src="http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png"></td>
 							<td>100 Qid (1e50)</td>
 							<td>Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</td>
-							<td>
-								<p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment. )
-									<p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</td>
+							<td>Increases production of all buildings based on time spent as least used alignment. )</p>0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
@@ -1311,17 +1338,17 @@
 							<td>1 Qavg (1e75)</td>
 							<td>Have any 6 complete Faction Artifact Sets.</td>
 							<td>
-								<p>Order Effect: Multiplicatively increase max mana.</p>
-								<p>Chaos Effect: Multiplicatively increase assistants.</p>
-								<p>Balance Effect: Multiplicatively increase mana regeneration.</p>
-								<p><b>Good Effect</b>: The amount increased is based on Excavations made.</p>
-								<p><b>Formula</b>: (0.05 * x ^ 1.1), where x is excavation count.</p>
-								<p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p>
-								<p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
-								</p>
-								<p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
-								<p><b>Formula</b>: (x ^ 0.75), where x royal exchanges made.</p>
-								<p><b>Notes</b>: Faction and Set Alignments has to match to buy the upgrade (Evil, Good, Neutral).</td>
+								</p>Order Effect: Multiplicatively increase max mana.
+								</p>Chaos Effect: Multiplicatively increase assistants.
+								</p>Balance Effect: Multiplicatively increase mana regeneration.
+								</p>Good Effect: The amount increased is based on Excavations made.
+								</p>Formula: (0.05 * x ^ 1.1), where x is excavation count.
+								</p>Evil Effect: The amount increased is Based on production bonus from Gems.
+								</p>Formula: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.
+								</p>Neutral Effect: The amount increased is based on Royal Exchanges made
+								</p>Formula: (x ^ 0.75), where x royal exchanges made.
+								</p>Notes: Faction and Set Alignments has to match to buy the upgrade (Evil, Good, Neutral).</td>
+							<td>Goblinline Dwairy with E50,E135</td>
 						</tr>
 					</tbody>
 				</table>
@@ -1347,10 +1374,7 @@
 								<center>Future Linkin</p><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png"></td>
 							<td>10 Sptg (1e115)</td>
 							<td>Abdicate with at least 150,000 Unique Buildings.</td>
-							<td>
-								<p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
-								<p><b>Formula</b>: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</p>
-							</td>
+							<td>Increase Faction Coin find chance based on time spent in the last game session.</p>Formula: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</td>
 							<td>Goblinline Dwairy with E50,E135</td>
 						</tr>
 					</tbody>
@@ -1377,9 +1401,8 @@
 								<center>Faction Ruler</p><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png"></td>
 							<td>120 Notg (1.2e122)</td>
 							<td>Unlock all the Advanced Heritages.</td>
-							<td>
-								<p><b>Effect</b>: Double Advanced Heritage powers if they match any of your alignments (cumulative).</p>
-							</td>
+							<td>Double Advanced Heritage powers if they match any of your alignments (cumulative).</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
@@ -1405,10 +1428,9 @@
 								<center>MAD Masks</p><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png"></td>
 							<td>1 SpQag (1.e144)</td>
 							<td>Find all fragments of the Makers, Archon and Djinn masks.</td>
-							<td>
-								<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
-								<p>Formula: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</td>
-						</tr>
+							<td>Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>Formula: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</td>
+							<td></td>
+						</tr>					
 					</tbody>
 				</table>
 				<a id="TrophiesR2130"></a>
@@ -1433,6 +1455,7 @@
 								<center>The Architect</p><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png"></td>
 							<td>1 SpQag (1.e144)</td>
 							<td>Build 250,000 units of any individual building.</td>
+							<td></td>
 							<td></td>
 						</tr>
 					</tbody>
