@@ -338,25 +338,24 @@
                 <p><b>Notes</b>: Requires excavations to both set up the build and boost Royal Exchange count.</p>
             </div>
         </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Mana Spent)</a></b></p>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Mana Spent)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom</p>
+                <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Titan/Dragon</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Faction</b>: Angel/Dwarf</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Elf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400">
+                    <input type="text" value="S10,S400,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A120,A495,W225,W400,W560">
 				</p>
-                <p>S300,S1450,S3200,</p>
-                <p>C251,C375,C400,C1300,C1500,</p>
-                <p>D290,D350,D1125,</p>
-                <p>E275,E1225,E1325,</p>
-                <p>A120,A1200,</p>
-                <p>W260,W1375,W1400</p>
-                <p><b>Notes</b>: Requires excavations to both set up the build and boost Royal Exchange count.</p>
+                <p>S10,S400,</p>
+                <p>C25,C400,C405,C520,</p>
+                <p>D1,D175,D290,D435,D590,</p>
+                <p>E135,E410,</p>
+                <p>A50,A120,A495,</p>
+                <p>W225,W400,W560</p>
             </div>
         </div>
     </div>
