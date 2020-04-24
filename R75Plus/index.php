@@ -629,7 +629,7 @@
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
-				<p><b>Bloodline</b>: Elf</p>
+				<p><b>Bloodline</b>: All (1 at a time)</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL1,EL3,EL4,EL7,AN3,AN5,UD5,UD7,DM9,TT6,FC7,DN2,MA:GB7,SP:Dragon's Breath,SP:Fairy Chanting,S180,S200,S215,S305,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D275,D290,D330,D2775,E135,E145,E275,E320,E590,E1225,W205,W275,W400,W1275,W1375,W1400">
