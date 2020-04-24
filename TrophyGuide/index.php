@@ -1426,7 +1426,7 @@
 						<tr>
 							<td>
 								<center>MAD Masks</p><img src="http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png"></td>
-							<td>1 SpQag (1.e144)</td>
+							<td>1 SpQag (1e144)</td>
 							<td>Find all fragments of the Makers, Archon and Djinn masks.</td>
 							<td>Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>Formula: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</td>
 							<td></td>
@@ -1453,9 +1453,49 @@
 						<tr>
 							<td>
 								<center>The Architect</p><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png"></td>
-							<td>1 SpQag (1.e144)</td>
+							<td></td>
 							<td>Build 250,000 units of any individual building.</td>
 							<td></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+				<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100-R159 Trophies</a></b></p>
+			<div class="autohide">
+				<a id="TrophiesR2130"></a>
+				<table class="numtable">
+					<thead>
+						<tr>
+							<th colspan="5">R170+</th>
+						</tr>
+					</thead>
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Cost</th>
+							<th>Requirement</th>
+							<th>Effect</th>
+							<th>Hints</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<center>True Harlequin</p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png"></td>
+							<td>1e152 (100 Noqag)</td>
+							<td>As a Mercenary, purchase one upgrade from 15 different factions.</td>
+							<td>Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades</p>Formula: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>
+								<center>God's Fingers</p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png"></td>
+							<td>200 QiSxg (2e200)</td>
+							<td>Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
+							<td>Clicks count 100% more and autoclicks 5 times per second.</td>
 							<td></td>
 						</tr>
 					</tbody>
