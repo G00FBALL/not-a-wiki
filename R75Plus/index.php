@@ -355,7 +355,6 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL3,AN2,AN5,AN6,UD7,TT6,DN2,DN8,DW8,DG3,DG4,DG9,MA:DW7,SP:God's Hand,SP:Dragon's Breath,S50,S215,S305,S330,S1450,S1500,C150,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,D3350,E10,E135,E275,E1225,E3250,E3300,A10,A120,A270,A1500,A2950,A3400,W180,W400,W405,W525,W3050,W3150">
-					<b>D3350, A3400 unlocked</b>
 				</p>
 				<p>EL3,AN2,AN5,AN6,UD7,TT6,DN2,DN8,DW8,DG3,DG4,DG9,MA:DW7,</p>
 				<p>SP:God's Hand,SP:Dragon's Breath,</p>
