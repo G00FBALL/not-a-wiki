@@ -596,7 +596,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (R148+) (Makers L45)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Ensteffan</p>
+				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Requirements</b>: Goblin Lineage L45, Djinn Challenge 4</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Faceless</p>
