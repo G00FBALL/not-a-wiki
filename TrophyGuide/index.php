@@ -1437,7 +1437,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="5">R153+</th>
+							<th colspan="5">R153</th>
 						</tr>
 					</thead>
 					<thead>
