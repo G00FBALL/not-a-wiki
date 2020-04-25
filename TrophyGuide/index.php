@@ -1463,7 +1463,7 @@
 			</div>
 		</div>
 				<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100-R159 Trophies</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R160+ Trophies</a></b></p>
 			<div class="autohide">
 				<a id="TrophiesR2130"></a>
 				<table class="numtable">
