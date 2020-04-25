@@ -63,7 +63,7 @@
             <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Spell Tier Unlock Time</a></b></p>
             <div class="autohide">
-    <p>Tier unlock time depends on your spell activity time this Reincarnation, and is reduced by the amount of reincarnations you make, as well as by the amount of spell tiers you have already unlocked of any spell (not just the spells avaliable).</p>
+    <p>Tier unlock time depends on your spell activity time this Reincarnation, and is reduced by the amount of reincarnations you make, as well as by the amount of spell tiers you have already unlocked of any spell (not just the spells available).</p>
 	<p>Because of above factors, if one tiers multiple spells at once, tier unlock time will reduce while tiering. For this reason it is difficult to show how long your current tiering target will take, because of the factors involved.</p>
 	<p>The chart below will only show how long it takes to unlock a tier with no other spell tiering in the meantime.</p>
 	<p><b>Please use <a target="_blank" href="https://dox4242.github.io/misc/tiers.html">the following tool</a> for a full tiering timeline.</b></p>
