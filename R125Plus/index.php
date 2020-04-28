@@ -47,6 +47,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
 				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e66 (1 Uvg) Gems</p>
+				<p><b>Requirements:</b> All Masks</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -68,7 +69,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
 				<p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
-				<p><b>Requirement</b>: Primal Balance +10</p>
+				<p><b>Requirement</b>: All Masks, Primal Balance +10</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
 				<p><b>Artifact Set</b>: Elf</p>
