@@ -64,9 +64,9 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angel 1e66 (1 Uvg)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e66 (1 Uvg)+</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Glenniss2, Iluxa4000</p>
+				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
 				<p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
 				<p><b>Requirement</b>: Primal Balance +10</p>
 				<p><b>Faction</b>: Angel</p>
@@ -74,15 +74,14 @@
 				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A250,A495,W225,W400,W560">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W225,W400,W560">
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D1375,</p>
 				<p>E145,E410,</p>
-				<p>A50,A250,A495,</p>
+				<p>A50,A120,A495,</p>
 				<p>W225,W400,W560</p>
-				<p><b>Notes</b>: Takes estimated 10 to 40 minutes to buy Spiritual Surge 7.</p>
 			</div>
 		</div>
 	</div>
@@ -363,10 +362,10 @@
             </div>
         </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e66 (1 Uvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e70 (10 Dvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e50 (100 Qid) - 1e66 (1 Uvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) - 1e70 (10 Dvg) Gems</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -386,27 +385,6 @@
 				<p>A495,A3400,</p>
 				<p>W10,W560,W1375</p>
 				<p><b>Notes</b>: Swap A3400 for A400 at 1e67 (10 Uvg) Gems+.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angel 1e66 (1 Uvg) - 1e70 (10 Dvg)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Glenniss2, Iluxa4000</p>
-				<p><b>Range</b>: 1e66 (1 Uvg) Gems - 1e70 (10 Dvg)</p>
-				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A250,A495,W225,W400,W560">
-				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D435,D590,D1375,</p>
-				<p>E145,E410,</p>
-				<p>A50,A250,A495,</p>
-				<p>W225,W400,W560</p>
-				<p><b>Notes</b>: Takes estimated 10 to 40 minutes to buy Spiritual Surge 7.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -458,24 +436,24 @@
 	<p><b>Buff Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans (Mana Spent)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Mana Spent)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Necrodoom</p>
-                <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Titan/Dragon</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>:  1e66 (1 Uvg) Gems+</p>
+                <p><b>Faction</b>: Angel/Dwarf</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Elf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400">
+                    <input type="text" value="S10,S400,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A120,A495,W225,W400,W560">
 				</p>
-                <p>S300,S1450,S3200,</p>
-                <p>C251,C375,C400,C1300,C1500,</p>
-                <p>D290,D350,D1125,</p>
-                <p>E275,E1225,E1325,</p>
-                <p>A120,A1200,</p>
-                <p>W260,W1375,W1400</p>
-                <p><b>Notes</b>: Requires excavations to both set up the build and boost Royal Exchange count.</p>
+                <p>S10,S400,</p>
+                <p>C25,C400,C405,C520,</p>
+                <p>D1,D175,D290,D435,D590,</p>
+                <p>E135,E410,</p>
+                <p>A50,A120,A495,</p>
+                <p>W225,W400,W560</p>
+                <p><b>Notes</b>: Estimated Time to Primal Balance +10 is up to 1 hour.</p>
             </div>
         </div>
 	    <div class="shelementwhole">
@@ -498,6 +476,7 @@
                 <p>W260,W1375,W1400</p>
                 <p><b>After Archon Treaty</b>: S400,C1325,D150,E1325,A305,W400 (Reimport Build).</p>
 				<p><b>Notes</b>: Requires some excavations to set up before 1e67 (10 Uvg) Gems.</p>
+				<p><b>Notes</b>: Estimated Time to Primal Balance +10 is ?</p>
             </div>
         </div>
 		<div class="shelementwhole">

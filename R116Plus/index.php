@@ -228,31 +228,6 @@
         </div>
     </div>
     <br/>
-    <p><b>Trophy Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Master Trophy</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: ?</p>
-                <p><b>Range</b>: 1e65 (100 Vg) Gems+</p>
-                <p><b>Faction</b>: Undead</p>
-                <p><b>Bloodline</b>: Angel</p>
-                <p><b>Artifact Set</b>: Undead</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S225,S435,S3200,C340,D25,D560,D1375,E10,E400,E495,A1,A120,A175,A410,A590,W50,W205,W405,W520">
-				</p>
-                <p>S225,S435,S3200,</p>
-                <p>C340,</p>
-                <p>D25,D560,D1375,</p>
-                <p>E10,E400,E495,</p>
-                <p>A1,A120,A175,A410,A590,</p>
-                <p>W50,W205,W405,W520</p>
-                <p><b>Notes</b>: Takes estimated time of 30-60 minutes to complete.</p>
-            </div>
-        </div>
-    </div>
-    <br/>
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
@@ -276,7 +251,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems Max Assistants)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems Max Assistants + Drow Master)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
@@ -356,6 +331,7 @@
                 <p>E135,E410,</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W400,W560</p>
+				<p><b>Notes</b>: Estimated Time to Primal Balance +10 is ?.</p>
             </div>
         </div>
     </div>
