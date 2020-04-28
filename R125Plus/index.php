@@ -43,10 +43,10 @@
             </div>
         </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e66 (1 Uvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e68 (100 Uvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
-				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e66 (1 Uvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e68 (100 Uvg) Gems</p>
 				<p><b>Requirements:</b> All Masks</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
@@ -65,24 +65,25 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e66 (1 Uvg)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)(?)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
-				<p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
+				<p><b>Range</b>: 1e69 (1 Dvg)(?) Gems+</p>
 				<p><b>Requirement</b>: All Masks, Primal Balance +10</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
 				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W225,W400,W560">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A250,A495,W225,W400,W560">
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D1375,</p>
 				<p>E145,E410,</p>
-				<p>A50,A120,A495,</p>
+				<p>A50,A250,A495,</p>
 				<p>W225,W400,W560</p>
+				<p><b>Notes</b>: Takes estimated time of 15-25 minutes to buy Spiritual Surge 7 and set up the build at first few runs of an R.</p>
 			</div>
 		</div>
 	</div>
@@ -363,10 +364,10 @@
             </div>
         </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e70 (10 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e70 (10 Dvg)(?)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e50 (100 Qid) - 1e70 (10 Dvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) - 1e70 (10 Dvg)(?) Gems</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -389,10 +390,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e70 (10 Dvg) - 1e90 (1 Novg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e70 (10 Dvg)(?) - 1e90 (1 Novg)(?)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
+				<p><b>Range</b>: 1e70 (10 Dvg)(?) - 1e90 (1 Novg)(?) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -410,10 +411,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e84 (1 Spvg)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e84 (1 Spvg)(?)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e84 (1 Spvg) Gems+</p>
+				<p><b>Range</b>: 1e84 (1 Spvg)(?) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
@@ -440,7 +441,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Mana Spent)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
-                <p><b>Range</b>:  1e66 (1 Uvg) Gems+</p>
+                <p><b>Range</b>:  1e68 (100 Uvg) Gems+</p>
                 <p><b>Faction</b>: Angel/Dwarf</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Elf</p>
@@ -454,7 +455,7 @@
                 <p>E135,E410,</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W400,W560</p>
-                <p><b>Notes</b>: Estimated Time to Primal Balance +10 is up to 1 hour.</p>
+                <p><b>Notes</b>: Estimated Time to Primal Balance +10 is up to 15 minutes.</p>
             </div>
         </div>
 	    <div class="shelementwhole">
