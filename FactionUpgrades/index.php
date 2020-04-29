@@ -215,7 +215,7 @@
                 <p><b>Mercenary Template</b>: DD3</p>
                 <p><b>Cost</b>: 50 Sx (5E22)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
-                <p><b>Formula</b>: (x ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
+                <p><b>Formula</b>: ((x / 11) ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
                 <hr>
                 <h6>Faceless</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" align="middle"> Territorial Expanse</b></p>

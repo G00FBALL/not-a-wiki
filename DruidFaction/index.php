@@ -159,7 +159,7 @@
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>
             <p><b>Cost</b>: 50 Sx (5E22)</p>
             <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
-            <p><b>Formula</b>: (x ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
+            <p><b>Formula</b>: ((x / 11) ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
             <hr>
             <p><b>Tier 2 Upgrades</b></p>
             <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsFriendshipPactFactionUpgrade.png" align="middle"> Druid Friendship Pact</b></p>
