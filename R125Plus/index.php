@@ -65,7 +65,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
 				<p><b>Range</b>: 1e69 (1 Dvg) Gems+</p>
