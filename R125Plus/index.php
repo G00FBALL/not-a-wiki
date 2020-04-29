@@ -43,10 +43,10 @@
             </div>
         </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e68 (100 Uvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e50 (100 Qid) - 1e69 (1 Dvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
-				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e68 (100 Uvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e69 (1 Dvg) Gems</p>
 				<p><b>Requirements:</b> All Masks</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
@@ -65,10 +65,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)(?)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
-				<p><b>Range</b>: 1e69 (1 Dvg)(?) Gems+</p>
+				<p><b>Range</b>: 1e69 (1 Dvg) Gems+</p>
 				<p><b>Requirement</b>: All Masks, Primal Balance +10</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
@@ -77,6 +77,10 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A250,A495,W225,W400,W560">
 				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E320,E410,A50,A250,A495,W225,W400,W560">
+				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D1375,</p>
@@ -84,6 +88,7 @@
 				<p>A50,A250,A495,</p>
 				<p>W225,W400,W560</p>
 				<p><b>Notes</b>: Takes estimated time of 15-25 minutes to buy Spiritual Surge 7 and set up the build at first few runs of an R.</p>
+				<p><b>Notes</b>: Swap E145 with E320 and C400 with C340 at 1e72 (1 Tvg) Gems or above.</p>
 			</div>
 		</div>
 	</div>
