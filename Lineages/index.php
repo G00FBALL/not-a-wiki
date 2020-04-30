@@ -433,8 +433,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk3.png" align="middle"><b> Druid Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase Grand Balance bonus based on the amount of Unique Buildings you own.</p>
-    <p><b>Formula</b>: (12000 * (x / 1000)), where x is amount of Unique Buildings you own.</p>
-    <p><b>Effect</b>: One ascension penalty is removed.</p>
+    <p><b>Formula</b>: (12000 * Floor(x / 1000)), where x is amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" align="middle"> <b>Druid Grand Champion Trophy.</b></p>
     <p><b>Requirement</b>: Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.</p>
