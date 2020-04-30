@@ -36,10 +36,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e29 (100 Oc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e31 (10 No)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
+                <p><b>Range</b>: 0 - 1e31 (10 No) Gems</p>
                 <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Undead</p>
@@ -57,27 +57,26 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e29 - 1e34 (100 Oc - 10 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e31 (10 No) - 1e34 (10 Dc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e29 (100 Oc) Gems - 1e34 (10 Dc) Gems</p>
-                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
+                <p><b>Range</b>: 1e31 (10 No) Gems - 1e34 (10 Dc) Gems</p>
+                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
                 <p><b>Alignment</b>: Good, Balance</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Elf > Druid > Angel (From best to least choice)</p>
+                <p><b>Artifact Set</b>: Angel</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D200,E25,E3250,A3400,W10,W1375">
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
 				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
-                <p>D50,D200,</p>
+                <p>D50,D1375,</p>
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
                 <p><b>Note</b>: Takes aprox. 25 minutes for SS7.</p>
-                <p><b>Note</b>: Dont cast all spells at max tiers for build-up.</p>
 
             </div>
         </div>
