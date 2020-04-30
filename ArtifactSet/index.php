@@ -48,7 +48,7 @@
             <p><b>Artifacts Required</b>: Pillar Fragment, Divine Sword, Fossilized Wing</p>
             <p><b>Cost</b>: Free</p>
             <p><b>Effect</b>: Additively increase Mana Regeneration based on highest amount of spells cast in a single game.</p>
-            <p><b>Formula</b>: (3.5 * x ^ 0.35), where x is spells cast in a single game.</p>
+            <p><b>Formula</b>: (3.5 * x ^ 2), where x is spells cast in a single game.</p>
             <br/>
             <H6 id="Goblin"></h6>
             <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinSet.png" align="middle"><b> Goblin Set</b></p>
