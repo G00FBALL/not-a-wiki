@@ -1514,7 +1514,7 @@
 	<p><b>Cost</b>: 18.47 Uspg (1.847E217)
 	<p><b>Effect</b>: Gain 1 assistant for every 100 seconds of Combo Strike activity time. (This Game)
 	" coords="279,1336,328,1385" shape="rect">
-        <area research="W525 - For All Factions
+        <area research="W525 - For Evil
 	<p><b>Research Name</b>: Bloodlust
 	<p><b>Requirement</b>: 129600s (1d 12hours) as Evil (This R), Research Berserking (W205) and Focus (S460)
 	<p><b>Cost</b>: 140.2 USpg (1.402E218)
