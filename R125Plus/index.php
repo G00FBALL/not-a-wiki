@@ -80,6 +80,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E320,E410,A50,A250,A495,W225,W400,W560">
+					<b>1e72 (1 Tvg) Gems+</b>
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
