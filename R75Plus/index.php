@@ -103,7 +103,7 @@
 				<p><b>Author</b>: Tskami_ek</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Goblin</p>
-				<p><b>Range</b>: 1e87 (1 OcVg) - 1e88 (10 Ocvg) gems</p>
+				<p><b>Range</b>: 1e88 (10 Ocvg) gems+</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="FR9,EL3,AN5,GB4,GB7,TT6,DD5,FC7,DN2,DN3,DN8,DW2,SP:Fairy Chanting,SP:God's Hand">
@@ -142,7 +142,8 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenomicon (Know Your Enemy Part 2) (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Range</b>: 1e87 (1 Ocvg) Gems+</p>
+				<p><b>Range</b>: ?</p>
+				<p><b>Requirement</b>: Mercenary Research Unlock</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p>
