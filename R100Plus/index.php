@@ -57,15 +57,15 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e31 (10 No) - 1e34 (10 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e31 (10 No)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e31 (10 No) Gems - 1e34 (10 Dc) Gems</p>
+                <p><b>Range</b>: 1e31 (10 No) Gems+</p>
                 <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
                 <p><b>Alignment</b>: Good, Balance</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Angel</p>
+                <p><b>Artifact Set</b>: Angel, Elf (1e36 (1 Ud) Gems+)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
@@ -76,31 +76,8 @@
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
-                <p><b>Note</b>: Takes aprox. 25 minutes for SS7.</p>
-
-            </div>
-        </div>
-		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R100-R110), 1e34 (10 Dc)+</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: DragonRu</p>
-                <p><b>Range</b>: 1e34 (10 Dc) Gems+</p>
-                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
-                <p><b>Alignment</b>: Good, Order</p>
-                <p><b>Faction</b>: Angel</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Druid, Elf (1e35 (100 Dc) Gems+)</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S400,C25,C340,D1,D175,D290,E3250,A50,A3400,W225,W400">
-				</p>
-                <p>S10,S400,</p>
-                <p>C25,C340,</p>
-                <p>D1,D175,D290,</p>
-                <p>E3250,</p>
-                <p>A50,A3400,</p>
-                <p>W225,W400</p>
-                <p><b>Note</b>: Requires a few hours to build up D175 for the first time in an R.</p>
+                <p><b>Notes</b>: Takes aprox. 25 minutes for SS7.</p>
+				<p><b>Notes</b>: Replace Angel set with Elven set at 1e36 (1 Ud) Gems+.</p>
 
             </div>
         </div>
@@ -122,7 +99,7 @@
                 <p>D50,D1375,</p>
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
-                    <p>W10,W1375</p>
+                <p>W10,W1375</p>
             </div>
         </div>
         <div class="shelementwhole">
