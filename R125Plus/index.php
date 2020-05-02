@@ -459,24 +459,23 @@
             </div>
         </div>
 	    <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceline Titans R130+ (Mana Spent)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels R130+ (Mana Spent)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Origin</p>
-                <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
-                <p><b>Faction</b>: Titan/Dragon</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e84 (1 Spvg) Gems+</p>
+                <p><b>Faction</b>: Angel/Dwarf</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Elf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E320,E1225,A400,A1200,W260,W1375,W1400,S400,C1325,D150,E1325,A305,W400">
+                    <input type="text" value="S10,S3200,S400,C25,C400,C405,C520,C340,D1,D175,D290,D435,D590,D1375,E400,E410,E135,A50,A400,A495,A120,W225,W560,W1375,W400">
 				</p>
-                <p>S300,S1450,S3200,</p>
-                <p>C251,C375,C400,C1300,C1500,</p>
-                <p>D290,D350,D1125,</p>
-                <p>E275,E320,E1225,</p>
-                <p>A400,A1200,</p>
-                <p>W260,W1375,W1400</p>
-                <p><b>After Archon Treaty</b>: S400,C1325,D150,E1325,A305,W400 (Reimport Build).</p>
+                <p>S10,S3200,S400,</p>
+                <p>C25,C400,C405,C520,C340,</p>
+                <p>D1,D175,D290,D435,D590,D1375,</p>
+                <p>E400,E410,E135,</p>
+                <p>A50,A400,A495,A120,</p>
+                <p>W225,W560,W1375,W400</p>
 				<p><b>Notes</b>: Requires some excavations to set up before 1e67 (10 Uvg) Gems.</p>
 				<p><b>Notes</b>: Estimated Time to Primal Balance +10 is ?</p>
             </div>
