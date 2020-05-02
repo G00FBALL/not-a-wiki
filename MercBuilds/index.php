@@ -167,7 +167,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst (R3+ Unlimited Mana, R7+ Mana Waste)<font color="DarkRed"> Evil</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
-					<p><b>Requirements</b>: Mana Orb lore artifact</p>
+					<p><b>Requirements</b>: Power Orb lore artifact</p>
 					<p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
 					<p><b>Alignment</b>: Evil Mercenary</p>
 					<p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
