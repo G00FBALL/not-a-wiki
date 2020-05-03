@@ -17,7 +17,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Titanline Faceless 0 - 1e45 (1 Qad)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e45 (100 Qad) Gems</p>
+                <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Artifact Set</b>: Druid</p>
