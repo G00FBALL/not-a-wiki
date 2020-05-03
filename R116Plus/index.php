@@ -183,7 +183,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sunk</p>
-                <p><b>Range</b>: 1e42 (1 Qad) Gems+</p>
+                <p><b>Range</b>: 1e42 (1 Td) Gems+</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Drow</p>
                 <p><b>Artifact Set</b>: Goblin</p>
