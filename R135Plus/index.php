@@ -94,6 +94,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e70 (10 Dvg) - 1e90 (1 Novg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
+				<p><b>Requirement</b>: Archon Challenge 1</p>
 				<p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
@@ -115,6 +116,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90 (1 Novg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
+				<p><b>Requirement</b>: Archon Challenge 1</p>
 				<p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
