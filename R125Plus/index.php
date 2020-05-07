@@ -61,7 +61,6 @@
 				<p>E25,E145,E410,</p>
 				<p>A250,A495,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: highly benefits from high click count.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
