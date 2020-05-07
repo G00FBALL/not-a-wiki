@@ -476,7 +476,6 @@
                 <p>E400,E410,E135,</p>
                 <p>A50,A400,A495,A120,</p>
                 <p>W225,W560,W1375,W400</p>
-				<p><b>Notes</b>: Requires some excavations to set up before 1e67 (10 Uvg) Gems.</p>
 				<p><b>Notes</b>: Estimated Time to Primal Balance +10 is ?</p>
             </div>
         </div>
