@@ -645,7 +645,7 @@
 				<p>E135,E145,E275,E320,E590,E1225,</p>
 				<p>A120,A270,A300,A305,A545,A1500,</p>
 				<p>W205,W275,W400,W1275,W1375,W1400</p>
-			</div>			
+			</div>
 		</div>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring L25s (R75)<font color="DarkRed"> Evil</font></a> Needs Testing</b></p>
@@ -677,7 +677,7 @@
 				<p>A120,A270,A300,A305,A545,A1500,</p>
 				<p>W205,W275,W400,W1275,W1375,W1400</p>
 				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
-			</div>			
+			</div>
 		</div>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission EL25 (R77)<font color="Blue"> Good</font></a></b></p>
@@ -832,7 +832,7 @@
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E590E1225,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150">
+					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S1275,S1450,S1500,C250,C400,C590,C1300,C3000,C3100,D25,D200,D290,D330,D2775,D3350,E135,E320,E590,E1225,E3250,E3300,A120,A270,A305,A1500,A2950,A3400,W275,W400,W1275,W1375,W1400,W3150">
 					<b>Extra Share Benefits tier</b>
 				</p>
 				<p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
