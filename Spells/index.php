@@ -172,9 +172,9 @@
                     cellR.style.textAlign = "center";
                     for (j = minTier; j <= maxTier; j++) {
                         var ut = unlockedTiers;
-						//86400 * (0.4 + 0.1 * j) * ((j ^ 2 + 1) / (0.1 * ut + 1)) * (0.98 ^ (i - 35))
+						//57600 * (0.4 + 0.1 * j) * ((j ^ 2 + 1) / (0.1 * ut + 1)) * (0.97 ^ (i - 35))
 						//Where j = tier, ut = number of unlocked tiers, i = reincarnation
-                        var Generator = (0.4 + 0.1 * j) * ((j ** 2 + 1) / (0.1 * ut + 1)) * (0.98 ** (i - 35));
+                        var Generator = (2 / 3) * (0.4 + 0.1 * j) * ((j ** 2 + 1)  / (0.1 * ut + 1)) * (0.97 ** (i - 35));
                         var Days = Math.floor(Generator);
                         var Hours = Math.floor(24 * Generator) - 24 * Days;
                         var Minutes = Math.round(1440 * Generator) - ( 24 * 60 * Days + 60 * Hours );
