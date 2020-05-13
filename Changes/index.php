@@ -6,7 +6,7 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
-        <p><b>V3.8 May ?, 2020</b></p>
+        <p><b>V3.8 May 13, 2020</b></p>
         <p>Various texts fixed</p>
         <p>Fixed a production overflow issue in Ascension 3.</p>
         <p>Fixed MAX checks with spells cast in the stats panel.</p>
