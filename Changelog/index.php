@@ -5,6 +5,58 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
         <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8, May 13, 2020, Blood War Event</a></b></p>
+            <div class="autohide">
+                <p>Global Reminder: The Blood War Event will be starting on May 17th 2020, 12.01 PM UTC and will end on May 21st 2020, 18.59 PM UTC.</p>
+
+                <p>MERCENARY CHALLENGES. Starting at Reincarnation 190, 5 new Mercenary Challenges will be unlocked. Complete them all to gain a new upgrade for the Call to Arms spell!</p>
+                <p>Spell Tiers time requirements reduced.</p>
+                <p>Added Researches Hints to help players understand what they are required to do to unlock specific Researches.</p>
+                <p>Fixed a NaN overload with mana regen in Ascension 0.</p>
+                <p>Fixed MAX checks with spells cast in the stats panel.</p>
+                <p>The Z key can now be used to shortcut BUY10k.</p>
+                <p>Shortcuts are now always visible on building buttons.</p>
+                <p>Dwarven Perk 5 effect reduced.</p>
+                <p>Dwarven Forge base and scaling reduced.</p>
+                <p>True Harlequin can no longer be purchased without a true harlequin build.</p>
+                <p>Chocolate Egg reworked to multiplicatively increase clicking reward by 100%.</p>
+                <p>Wall Fragment scaling increased.</p>
+                <p>Initial Research costs have been reduced.</p>
+                <p>All level 1 researches have been buffed.</p>
+                <p>Spellcraft 5125 (Spilling) base and scaling decreased.</p>
+                <p>Spellcraft 5625 (Leylines) base increased, scaling decreased.</p>
+                <p>Spellcraft 5875 (Mirrors) scaling decreased.</p>
+                <p>Craftsmanship 405 (Metallurgy) base and scaling decreased.</p>
+                <p>Divine 25 (Cursing) and Warfare 50 (Exertion) unlock time reduced.</p>
+                <p>Spellcraft 590 (Trickery), scaling decreased.</p>
+                <p>Craftsmanship 590 (Allows), base and scaling decreased.</p>
+                <p>Divine 435 (Devotion) base decreased.</p>
+                <p>Divine 290 (Transubstantiation) multiplicative part, base increased and scaling decreased.</p>
+                <p>Divine 590 (Dispelling) base increased, scaling decreased.</p>
+                <p>Economics 410 (Marketing) base decreased.</p>
+                <p>Economics 5125 (Decentralization) scaling decreased.</p>
+                <p>Alchemy 5125 (Putrefaction) base and scaling decreased.</p>
+                <p>Warfare 560 (Resilience) base and scaling decreased.</p>
+                <p>Spellcraft 150 (Pyromancy) base increased, scaling decreased.</p>
+                <p>Divine 55 (Transfixion) base and scaling decreased.</p>
+                <p>Divine 320 (Deliverance) scaling decreased.</p>
+                <p>Alchemy 495 (Elixirs) base and scaling decreased.</p>
+                <p>Warfare 560 (Resilience) base and scaling decreased.</p>
+                <p>Heresiarchs base and scaling decreased.</p>
+                <p>Ruby Power and Royal Exchange containers, interface improved.</p>
+                <p>Ruby Power bonuses have been buffed to avoid decimals.</p>
+                <p>Ruby Power Reset no longer costs Rubies, but it also triggers a forced Abdication when you do it.</p>
+                <p>Undead 1 (The Walking Dead) now also increases Faction Coin find chance based.</p>
+                <p>Undead 6 (Plagued Buildings) no longer ticks every hour. Base increased.</p>
+                <p>Night Time now also increases assistants by a fixed value.</p>
+                <p>Fortune Teller Machine can now be purchased at Reincarnation 40. Cost reduced.</p>
+                <p>Druid 3 (Natural Recycling) base and scaling increased.</p>
+                <p>{web}The option to disable the Building Multibuy button has been removed. Now the Multibuy button is always visible. Hotkeys will override the button settings.</p>
+                <p>Dwarven Set base reduced.</p>
+                <p>Faceless Set base reduced.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.4, Apr 3, 2020, Easter Event</a></b></p>
             <div class="autohide">
                 <p>Global Reminder: The Easter Event will be starting on Apr 09th 2020, 12.01 PM UTC and will end on Apr 16th 2020, 6.59 PM UTC.</p>
