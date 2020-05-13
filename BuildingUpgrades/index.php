@@ -93,7 +93,7 @@
     <area target="" research="Upgrade 21: Signed Blacksmithery<p>Requirement: R40+, 4000 Blacksmiths<p>Cost: 281.4Spd (2.814e56)<p>Increase Blacksmith production by 70%." coords="3,111,51,160" shape="rect">
     <area target="" research="Upgrade 22: Layered Metals<p>Requirement: R40+, 10000 Blacksmiths<p>Cost: 31.1 Tqag (3.11e133)<p>Increase Blacksmith by 80%" coords="56,110,105,162" shape="rect">
     <area target="" research="Upgrade 23: Differential Quenching<p>Requirement: R100+, 18000 Blacksmiths<p>Cost: 33.78 Notg (3.378e121)<p>Increase the production of Blacksmiths by 90%." coords="109,110,159,160" shape="rect">
-    <area target="" research="<b>Dwarven Forges</b><p>At R28, Blacksmiths can be upgraded to the Unique Building: Dwarven Forges, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Good-Dwarf</p><p><b>Unlock Requirements:</b> R28+, 5000 Blacksmiths</p><p><b>Formula:</b> 100 ^ x ^ 0.9, where x is mana per second.</p>" coords="351,111,536,159" shape="rect">
+    <area target="" research="<b>Dwarven Forges</b><p>At R28, Blacksmiths can be upgraded to the Unique Building: Dwarven Forges, boosting their production based on mana regeneration and unlocking additional perks related to the building.</p><p><b>Alignment:</b> Good-Dwarf</p><p><b>Unlock Requirements:</b> R28+, 5000 Blacksmiths</p><p><b>Formula:</b> (80 * x ^ 0.8)%, where x is mana per second.</p>" coords="351,111,536,159" shape="rect">
 </map>
 <p><b>Deep Mine Upgrades (Alignment: Neutral)</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/dgroup3.6.png" usemap="#dgroup1-map">

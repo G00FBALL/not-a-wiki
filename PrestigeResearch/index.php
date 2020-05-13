@@ -27,7 +27,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForges.png" alt="Dwarven Forges" align="middle"> Dwarven Forges</p></b>
 <p><b>In-game Description</b></p>
 <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 100 * x0.9%, where x is your Mana per Second stat.</p>
+<p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
 <p><b>Requirement</b>: Dwarven Forge Quest</p>
 <p><b>Cost</b>: 10 USxg (1E187)</p>
 <hr>
@@ -41,7 +41,7 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuary.png" alt="Spider Sanctuary" align="middle"> Spider Sanctuary</p></b>
 <p><b>In-game Description</b></p>
 <p>Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: 25 * x0.75%, where x is your Time Spent Offline (Total) stat.</p>
+<p><b>Formula</b>: (32 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
 <p><b>Requirement</b>: Spider Sanctuary Quest</p>
 <p><b>Cost</b>: 10 USxg (1E187)</p>
 

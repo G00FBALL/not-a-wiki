@@ -119,7 +119,7 @@
         <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Dwarven Forge Quest</p>
         <p><b>Cost</b>: 10 USxg (1E187)</p>
-        <p><b>Formula</b>: 100 * x ^ 0.9%, where x is your Mana per Second stat.</p>
+        <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
         <p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>

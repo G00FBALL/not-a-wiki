@@ -419,7 +419,7 @@
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
     <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Formula</b>: (2.5 * (12 - T) ^ 2)%, where T is building tier.</p>
+    <p><b>Formula</b>: (3 * (11 - T) ^ 3)%, where T is building tier.</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 M (1E6)</p>
     <p><b>Alignment</b>: Any</p>
@@ -428,11 +428,11 @@
     <p><b>Clue</b>: Don't choose your allies until you know more.</p>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random.</p>
     <p><b>Requirement</b>: No Faction</p>
-    <p><b>Upgrade Requirement</b>: R42+</p>
+    <p><b>Upgrade Requirement</b>: R40+</p>
     <p><b>Effect</b>: Increase the production of Non-Unique buildings based on total time spent. (Time in seconds this R)</p>
     <p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time this R</p>
     <p><b>Chance</b>: 0.1%</p>
-    <p><b>Cost</b>: 1 No (1e32), A2 Free</p>
+    <p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
     " coords="67,364,127,421" shape="0">
                     <area target="_blank" research="<img src=http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png align=middle> <b>Dawnstone</b></p>
     <p><b>Clue</b>: Relic of the Dawn hours.</p>

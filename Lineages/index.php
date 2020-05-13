@@ -532,7 +532,7 @@
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarven Perk 5</b></p>
     <p><b>Requirements</b>: R130, Lineage Level 45</p>
-    <p><b>Effect</b>: Buildings count 100% more.</p>
+    <p><b>Effect</b>: Buildings count 75% more..</p>
     <hr>
     <H6 id="Drow">Drow</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"><b> Drow Lineage</b></p>

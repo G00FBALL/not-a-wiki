@@ -89,6 +89,8 @@
                 <p><b>Mercenary Template</b>: UD1</p>
                 <p><b>Cost</b>: 50 M (5E7)</p>
                 <p><b>Effect</b>: Increase the production of Necropolises by 7500%.</p>
+                <p><b>Effect</b>: Also increase Faction Coin find chance based on assistants owned.</p>
+                <p><b>Formula</b>: (2 * ln(x) ^ 2), where x is assistants owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" align="middle"> Deadened Muscles</b></p>
                 <p><b>Mercenary Template</b>: UD2</p>
@@ -215,7 +217,7 @@
                 <p><b>Mercenary Template</b>: DD3</p>
                 <p><b>Cost</b>: 50 Sx (5E22)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
-                <p><b>Formula</b>: ((x / 11) ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
+                <p><b>Formula</b>: (0.4 x ^ 0.4), where x is total buildings you own. (additively and multiplicatively)</p>
                 <hr>
                 <h6>Faceless</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" align="middle"> Territorial Expanse</b></p>
@@ -446,7 +448,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" align="middle"> Plagued Buildings</b></p>
                 <p><b>Mercenary Template</b>: UD6</p>
                 <p><b>Cost</b>: 50 T (5E13)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by an additional 75% per hour of playtime in this game.</p>
+                <p><b>Effect</b>: Increase the production of all buildings by an additional 0.75% per second of playtime in this game.</p>
                 <hr>
                 <h6>Demon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LavaPitsFactionUpgrade.png" align="middle"> Lava Pits</b></p>

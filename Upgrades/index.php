@@ -549,7 +549,7 @@
                 <p><b>Cost</b>: 10 USxg (1E187), A1+ Free</p>
                 <p><b>Alignment</b>: Good</p>
                 <p><b>Effect</b>: Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-                <p><b>Formula</b>: (100 * x ^0.9)%, where x is your Mana per Second stat.</p>
+                <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryResearchBuildingUpgrades.png" alt="Sunken Cities" align="middle"><b> Spider Sanctuary</b></p>
@@ -557,7 +557,7 @@
                 <p><b>Cost</b>: 10 USxg (1E187), A1+ Free</p>
                 <p><b>Alignment</b>: Evil</p>
                 <p><b>Effect</b>: Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
-                <p><b>Formula</b>: (25 * x ^0.75)%, where x is your Time Spent Offline (Total) stat.</p>
+                <p><b>Formula</b>: (32 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <hr>
                 <p><b>R46+</b></p>
@@ -1205,7 +1205,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragment.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
                 <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
                 <p><b>Rewards</b>: Increase the production of all buildings based on their tier.</p>
-                <p><b>Formula</b>: 100* (x-1) ^2%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+                <p><b>Formula</b>: (3 * (11 - T) ^ 3)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
                 <p><b>Requirement</b>: At least 1 Ascension</p>
                 <p><b>Chance</b>: 10%</p>
                 <p><b>Cost</b>: 1 M (1E6)</p>
@@ -1541,7 +1541,7 @@
                 <p><b>Cost</b>: 1 M (1E6)</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increases the production of all buildings based on their tier.</p>
-                <p><b>Formula</b>: 100*(x-1)^2%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+                <p><b>Formula</b>: (3 * (11 - T) ^ 3)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
                 <p><b>Chance</b>: 10% (Should get it with 10 Excavations or less)</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretUpgrade.png" alt="Leet" align="middle"><b> Leet</b></p>
@@ -2041,9 +2041,9 @@
                 <p><b>Cost</b>: Free</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FortuneTellerMachineUpgrade.png" alt="Fortune Teller Machine" align="middle"><b> Fortune Teller Machine</b></p>
-                <p><b>Requirement</b>: Artifact, R42+</p>
+                <p><b>Requirement</b>: Artifact, R40+</p>
                 <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)</p>
-                <p><b>Cost</b>: R42+ 1 No (1e32), A2+ Free</p>
+                <p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
                 <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>

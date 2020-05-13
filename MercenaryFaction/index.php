@@ -80,7 +80,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Heresiarchs" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
         <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
         <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
-        <p><b>Formula</b>: round(1.85 * x ^ 0.85), where x is the number of your most-built evil building you own. (A-Nerfed)</p>
+        <p><b>Formula</b>: (1.2 * x ^ 0.8), where x is the number of your most-built evil building you own. (A-Nerfed)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Trade Lords" align="middle"> Trade Lords (<u>For Neutral Alignments</u>)</b></p>
         <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
