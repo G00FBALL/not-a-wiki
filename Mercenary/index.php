@@ -59,17 +59,17 @@
         <H6 id="MercenaryMCR"></h6>
         <p><b>In-Game Challenge Final Reward</b></p>
 	    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Warcry.png align=middle> Warcry</b></p>
-	    <p><b>Formula for all</b>: 25 + (0.3 * x ^ 0.975) where x is building count.</p>
-	    <p>Call to Arms gains an additional effect based on your alignments.</p>
+	    <p>Call to Arms gains additional effects based on your alignments, scaling off your Call to Arms strength.</p>
+		<p><b>General Formula</b>: y = 25 + (0.3 * x ^ 0.975) where x is building count.</p>
 	    <p><b>Good</b>: Can be cast up to tier 10 and removes an ascension penalty.</p>
 	    <p><b>Evil</b>: Multiplicatively increase Tax Collection worth in seconds.</p>
-	    <p><b>Formula</b>: (0.5 * x ^ 0.5)</p>
+	    <p><b>Formula</b>: (0.5 * y ^ 0.5)</p>
 	    <p><b>Neutral</b>: Additively and multiplicatively increase Faction Coin find chance.</p>
-	    <p><b>Formula</b>: (add: 100 * x, mult: x ^ 0.5)</p>
+	    <p><b>Formula</b>: (add: 100 * y, mult: y ^ 0.5)</p>
 	    <p><b>Order</b>: Increases all spell durations.</p>
-	    <p><b>Formula</b>: (x ^ 0.5)</p>
+	    <p><b>Formula</b>: (y ^ 0.5)</p>
 	    <p><b>Chaos</b>: Multiplicatively increase assistants (Temporary).</p>
-	    <p><b>Formula</b>: (x ^ 0.25)</p>
+	    <p><b>Formula</b>: (y ^ 0.25)</p>
 	    <p><b>Balance</b>: Increases Royal Exchange Bonus multiplicatively and makes them count more.</p>
-	    <p><b>Formula</b>: (x ^ 0.5)</p>
+	    <p><b>Formula</b>: (y ^ 0.5)</p>
         <?php include "../scripts/footer.html"; ?>
