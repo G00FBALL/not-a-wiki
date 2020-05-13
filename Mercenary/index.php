@@ -65,7 +65,7 @@
 	    <p><b>Evil</b>: Multiplicatively increase Tax Collection worth in seconds.</p>
 	    <p><b>Formula</b>: (0.5 * x ^ 0.5)</p>
 	    <p><b>Neutral</b>: Additively and multiplicatively increase Faction Coin find chance.</p>
-	    <p><b>Formula</b>: (add: 100 * x, mult: x ^ 0.5)
+	    <p><b>Formula</b>: (add: 100 * x, mult: x ^ 0.5)</p>
 	    <p><b>Order</b>: Increases all spell durations.</p>
 	    <p><b>Formula</b>: (x ^ 0.5)</p>
 	    <p><b>Chaos</b>: Multiplicatively increase assistants (Temporary).</p>
