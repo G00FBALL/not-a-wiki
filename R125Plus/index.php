@@ -506,14 +506,14 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead R130+ (Max Assistants)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Sad</p>
+				<p><b>Author</b>: Sad modified by Sunk</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Undead</p>
 				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S225,S400,S435,C400,D25,D290,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E135,A270,W1275">
+					<input type="text" value="S225,S400,S435,C400,D25,D290,D560,E10,E400,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S3200,C340,D3350,E135,A545,W1275">
 				</p>
 				<p>S225,S400,S435</p>
 				<p>C400,</p>
@@ -521,7 +521,7 @@
 				<p>E10,E400,E495,</p>
 				<p>A1,A175,A400,A410,A590,</p>
 				<p>W50,W205,W405,W520</p>
-				<p><b>After Archon Treaty</b>: S200,C340,D3350,E135,A270,W1275 (Reimport Build)</p>
+				<p><b>After Archon Treaty</b>: S3200,C340,D3350,E135,A545,W1275 (Reimport Build)</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
