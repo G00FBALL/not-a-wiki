@@ -528,7 +528,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1)</a></b> Need tested</p>
 			<div class="autohide">
 				<p><b>Author</b>: Curunur</p>
-				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Goblin/Drow/Makers</p>
 				<p><b>Bloodline</b>: Elf</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
@@ -551,10 +551,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b> Need tested</p>
 			<div class="autohide">
 				<p><b>Author</b>: Curunur</p>
-				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Goblin/Drow/Makers</p>
 				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
