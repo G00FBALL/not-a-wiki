@@ -201,12 +201,12 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Prismatic Beam R12+ (Know Your Enemy Lore Artifact)<font color="DarkRed"> Evil</font></a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: Artcrow</p>
+					<p><b>Author</b>: Artcrow modified by Sunk</p>
 					<p><b>Alignment</b>: Evil Mercenary</p>
 					<p><b>Bloodline</b>: Elf</p>
 					<p><button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,SP:Fairy Chanting,SP:Grand Balance"></p>
-					<p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,</p>
+					<input type="text" value="FR9,EL5,AN5,GB1,UD7,DM3,TT6,DD1,DW5,FC7,DN3,DW8,SP:Fairy Chanting,SP:Grand Balance"></p>
+					<p>FR9,EL5,AN5,GB1,UD7,DM3,TT6,DD1,DW5,FC7,DN3,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: This build is meant for when you have over excavated this R, but still need Know Your Enemy Lore Artifact.</p>
 					<p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.</p>
