@@ -19,7 +19,7 @@
         <p><b>Production</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangel (R40, R43-R46) + Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangels (R40-R46) + Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4</p>
@@ -65,25 +65,6 @@
                     <p><b>Note</b>: C branch research placements is intentional (reimport build after horn).</p>
                 </div>
             </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Titans (R41-R42)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Cyden</p>
-                    <p><b>Range</b>: 0 Gems - ?</p>
-                    <p><b>Faction</b>: Titan</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C150,C251,C330,C340,C375,C400,D55,D200,D245,D290,D320,E135,E145,E275,E330,E400,A105,A120,A150,A250,A400,W150,W180,W290,W320,W330,W400">
-                    </p>
-                    <p>S135,S150,S215,S330,S500,</p>
-                    <p>C150,C251,C330,C340,C375,C400,</p>
-                    <p>D55,D200,D245,D290,D320,</p>
-                    <p>E135,E145,E275,E330,E400,</p>
-                    <p>A105,A120,A150,A250,A400,</p>
-                    <p>W150,W180,W290,W320,W330,W400</p>
-                </div>
-            </div>
         </div>
         <br />
         <p><b>Dragon Unlock</b></p>
@@ -121,7 +102,7 @@
             <br/>
             <p><b>Stage 2</b>:Choose 1 of these two builds below</p>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline N-Merc Stage 2.1 unlock<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline N-Merc Stage 2 unlock (option 1)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Neutral Mercenary</p>
@@ -136,7 +117,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline E-Merc Stage 2.2 unlock<font color="DarkRed"> Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline E-Merc Stage 2 unlock (option 2)<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Evil Mercenary</p>
