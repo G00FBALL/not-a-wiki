@@ -4,6 +4,7 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>Thank you for all your help</h6>
+<p>stmlee</p>
 <p>Lailoken</p>
 <p>Origin</p>
 <p>sunk</p>
