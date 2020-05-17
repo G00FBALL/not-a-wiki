@@ -774,10 +774,10 @@
                         <p><b>Asmodean Champion 3</b></p>
                         <p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
                         <p><b>Cost</b>: 1000 Lava Stones</p>
-                        <p><b>Effect</b>: Increase offline production bonus based on the amount of assistants you own.</p>
+                        <p><b>Effect</b>: Increase clicking rewards based on the amount of assistants you own.</p>
 						<p><b>Formula</b>: (x ^ 0.85)</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
-                        <p><b>Effect</b>: Also completes Asmodean Champion Feat</p>
+                        <p><b>Effect</b>: Also completes Asmodean Champion Feat.</p>
                         <hr>
                         <p><b>Event Feats</b></p>
                         <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
