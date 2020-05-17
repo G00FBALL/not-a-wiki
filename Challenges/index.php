@@ -808,7 +808,10 @@
 	<p>The Realm may have fallen to chaos, but there are still contracts that must be completed. What better way to complete those contracts than to embrace madness itself.</p>
 	<p><b>Requirements</b>: R194, Chaos Mercenary, Two Chaos Bloodlines, 4 Chaos spells.</p>
 	<p><b>Challenge</b>: Have at least 100 spell tiers active within 5 minutes of a new game.</p>
-	<p><b>Effect</b>: Gain the Chaos Madness spell, which grants the effect of a random Lineage with the level of your highest lineage.</p>
+	<p><b>Effect</b>: Gain the Chaos Madness spell.</p>
+    <p><img src=http://musicfamily.org/realm/Factions/picks/ChaosMadnessSpell.png></p>
+    <p><b>Cost</b>: 500000 mana</p>
+    <p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
 	<p><b>Tip</b>: Lineage level from spell is affected by lineage modifiers</p>
 	<p><b>Upgrade</b>: Works with Chaos Mercenary</p>"
     coords="133,1583,191,1640" shape="">
