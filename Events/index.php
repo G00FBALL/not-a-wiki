@@ -26,7 +26,7 @@
               clearInterval(x);
           }
           }, 1000);
-      </script>--!>
+      </script>-->
         </p>
         <p><b>Event will end in</b></p>
         <p id="end">
@@ -767,14 +767,15 @@
                         <p><b>Asmodean Champion 2</b></p>
                         <p><b><img src="/realm/Factions/picks/AbyssalGaze2017.png" alt="Abyssal Gaze" align="middle"> Abyssal Gaze</b></p>
                         <p><b>Cost</b>: 750 Lava Stones</p>
-                        <p><b>Effect</b>: Increase assistant production based on total time spent as Evil.</p>
-                        <p><b>Formula</b>: (2 x ^ 0.7), where x is seconds of total evil time</p>
+                        <p><b>Effect</b>: Increase assistant production based on time spent as Evil (This R).</p>
+                        <p><b>Formula</b>: (2 * x ^ 0.7)</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
                         <br/>
                         <p><b>Asmodean Champion 3</b></p>
                         <p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
                         <p><b>Cost</b>: 1000 Lava Stones</p>
                         <p><b>Effect</b>: Increase offline production bonus based on the amount of assistants you own.</p>
+						<p><b>Formula</b>: (x ^ 0.85)</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
                         <p><b>Effect</b>: Also completes Asmodean Champion Feat</p>
                         <hr>
