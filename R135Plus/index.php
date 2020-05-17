@@ -244,8 +244,8 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (Djinn Challenge 1)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
-						<p><b>Faction</b>: Fairy</p>
 						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Faction</b>: Fairy</p>
 						<p><b>Bloodline</b>: Goblin</p>
 						<p><b>Artifact Set</b>: Fairy</p>
 						<p>
@@ -267,8 +267,8 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Demons (Djinn Challenge 2)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
-						<p><b>Faction</b>: Demon</p>
 						<p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
+						<p><b>Faction</b>: Demon</p>
 						<p><b>Bloodline</b>: Djinn</p>
 						<p><b>Artifact Set</b>: Undead</p>
 						<p>
@@ -337,8 +337,8 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Djinn Challenge 3)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: ?</p>
-						<p><b>Faction</b>: Faceless</p>
 						<p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
+						<p><b>Faction</b>: Faceless</p>
 						<p><b>Bloodline</b>: Undead</p>
 						<p><b>Artifact Set</b>: Faceless</p>
 						<p>
@@ -429,8 +429,8 @@
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
 						<p><b>Requirement</b>: Druid Lineage 45</p>
-						<p><b>Faction</b>: Faceless</p>
 						<p><b>Range</b>: 1e114 (1 Sptg) Gems+</p>
+						<p><b>Faction</b>: Faceless</p>
 						<p><b>Bloodline</b>: Druid</p>
 						<p><b>Artifact Set</b>: Dragon</p>
 						<p>
