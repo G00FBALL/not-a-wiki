@@ -179,8 +179,8 @@
 	<p><b>Requirement</b>: 40 Artifacts (as Drow)</p>
 	<p><b>Cost</b>: 5.554 Spg (5,554E213)</p>
 	<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.</p>
-	<p>Maximum Mana Formula: (75 * x ^ 1.1), where x is amount of artifacts you own.</p>
-	<p>Mana Regeneration Formula: (5 * x ^ 1.05), where x is amount of artifacts you own.</p>
+  <p><b>Maximum Mana Formula</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.</p>
+	<p><b>Mana Regeneration Formula</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.</p>
 	<hr>
     <p><b>S545</b> - For All Factions</p>
 	<p><b>Research Name</b>: Hierarchy</p>

@@ -273,7 +273,8 @@
 	<p><b>Research Name</b>: Cryomancy
 	<p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)
 	<p><b>Cost</b>: 82.65 DQig (8.265E160)
-	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).<p><b>Formula</b>: (5 * ln(x) ^ 1.25), where x is mana produced (this game).
+	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).
+  <p><b>Formula</b>: (5 * ln(x) ^ 1.25), where x is mana produced (this game).
 	" coords="168,85,216,130" shape="rect">
         <area research="S215 - For All Factions
 	<p><b>Research Name</b>: Projection
@@ -368,8 +369,8 @@
 	<p><b>Requirement</b>: 40 Artifacts (as Drow)
 	<p><b>Cost</b>: 5.554 Spg (5,554E213)
 	<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.
-	<p>Maximum Mana Formula: (75 * x ^ 1.1), where x is amount of artifacts you own.
-	<p>Mana Regeneration Formula: (5 * x ^ 1.05), where x is amount of artifacts you own.
+	<p><b>Maximum Mana Formula</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.
+	<p><b>Mana Regeneration Formula</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.
 	" coords="334,138,382,186" shape="rect">
         <area research="S545 - For All Factions
 	<p><b>Research Name</b>: Hierarchy
