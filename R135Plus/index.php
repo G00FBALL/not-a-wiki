@@ -175,7 +175,7 @@
 				<p><b>Faction</b>: Druid</p>
 				<p><b>Bloodline</b>: Goblin</p>
 				<p><b>Artifact Set</b>: Fairy</p>
-				<p><b>2nd Artifact Set</b>: Druid</p>
+				<p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400">
@@ -197,7 +197,7 @@
 				<p><b>Faction</b>: Druid</p>
 				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>Artifact Set</b>: Fairy</p>
-				<p><b>2nd Artifact Set</b>: Druid</p>
+				<p><b>Stoneheart Set</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400">
