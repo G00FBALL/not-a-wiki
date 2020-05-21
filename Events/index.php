@@ -824,6 +824,10 @@
                         <p><b><img src="/realm/Factions/picks/1800HolySymbolsandLavaStones2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 1800 Holy Symbols and Lava Stones</b></p>
                         <p>A hooded shady merchant wants to sell you 1800 Holy Symbols and Lava Stones for 100 Rubies.</p>
                         <p>These are all the resources he could gather.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" align="middle"> Scrying</b></p>
+                        <p><b>Effect</b>: Produces 1 Lave Stone and 1 Holy Synbol every 10 minutes for 4 hours.</p>
+
                         <hr>
                     </div>
                 </div>
