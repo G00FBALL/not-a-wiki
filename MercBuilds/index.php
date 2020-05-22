@@ -114,7 +114,7 @@
 			</div>
         </div>
         <br/>
-        <p><b>Trophy Builds</b></p>
+        <H6 id="TrophyBuilds"></h6><p><b>Trophy Builds</b></p>
         <div class="category">
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>

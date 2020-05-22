@@ -91,10 +91,10 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250"> 
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250">
 				</p>
                     <p><button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,MK10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250"> 
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,MK10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S500,S330,S150,C175,C250,C340,C400,C5625,D5875,D200,D290,E135,E145,E290,E1325,E1425,E3300,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,W1275,F5250">
 					<b>8h+ This R</b>
 				</p>
                 <p>EL3,EL7,AN5,AN12,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,</p>
@@ -343,7 +343,7 @@
         </div>
     </div>
     <br/>
-    <p><b>Artifact/Trophy Builds</b></p>
+    <H6 id="TrueHarlequin"></h6><p><b>Artifact/Trophy Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Apeiron/True Harlequin</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>

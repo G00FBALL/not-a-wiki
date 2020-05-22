@@ -135,21 +135,19 @@
     <p><b>Effect</b>: Increases production of all buildings by 0.15% per excavation. (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R0.</p>
     " coords="324,174,382,232" shape="rect">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle> <b>Harlequin</b></p>
+        <area href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle> <b>Harlequin</b></p>
     <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 11 different factions.</p>
     <p><b>Cost</b>: 5 Qivg (5e78), A1+ Free</p>
     <p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game) (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R3 with Merc Build (Harlequin)</p>
     <p><b>Note</b>: Click image to go to the Harlequin Build.</p>
-    " href="http://musicfamily.org/realm/MercBuilds</p>
     " coords="389,174,446,230" shape="rect">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle> <b>Lucifer</b></p>
+        <area href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle> <b>Lucifer</b></p>
     <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.</p>
     <p><b>Cost</b>: 5 Qivg (5e78), A1+ Free</p>
     <p><b>Effect</b>: Increases production of all non-neutral buildings by 300%. (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R3 with Merc Build (Lucifer)</p>
     <p><b>Note</b>: Click image to go to the Lucifer Build.</p>
-    " href="http://musicfamily.org/realm/MercBuilds/
     " coords="5,238,62,294" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle> <b>Mathematician</b></p>
     <p><b>Requirement</b>: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.</p>
@@ -405,14 +403,13 @@
     <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
     " coords="387,560,446,618" shape="rect">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
+        <area href="http://musicfamily.org/realm/R160Plus/#TrueHarlequin" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
     <p><b>Requirement</b>: A3+, Mercenary Duel unlocked, As a Mercenary, purchase one upgrade from 15 different factions.</p>
     <p><b>Cost</b>: 1e152 (100 Noqag)</p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades.</p>
     <p><b>Formula</b>: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</p>
     <p><b>Note</b>: This can be done at R160+ with Mercenary Build (Apeiron/True Harlequin)</p>
     <p><b>Note</b>: Click image to go to the Apeiron/True Harlequin Build.</p>
-    " href="http://musicfamily.org/realm/R160Plus
     " coords="5,625,62,682" shape="rect">
     </map>
 
