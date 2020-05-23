@@ -349,7 +349,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Apeiron/True Harlequin</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: somarilnos</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Range</b>: 1e30 (1 No) Gems+</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Titan</p>
