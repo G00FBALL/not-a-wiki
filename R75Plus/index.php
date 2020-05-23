@@ -197,7 +197,7 @@
 				<p><b>Notes</b>: Excavate for Dragon Heritage, Dragon upgrade 3 & 4, and Holy Light tier 3</p>
 				<p><b>Notes</b>: Put Fairy Chanting & God's Hand on bronze, SS on silver, rest on gold with Tax Collection last (contigency at 80%) until you can buy the UB</p>
 				<p><b>Notes</b>: Swap C120->C1500 if higher</p>
-				<p><b>Notes</b>: Swap D275->D525 (A330->A545 is optional) if T4+ HL</p>
+				<p><b>Notes</b>: Swap D275->D525 if Holy Light is T4</p>
 				<p><b>Notes</b>: Swap God's Hand->Brainwave if lower than 1000%</p>
 			</div>
 		</div>
