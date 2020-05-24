@@ -884,7 +884,8 @@
 	<p><b>Formula</b>: (5 x ^ 0.95)%, where x is your Mana per Second stat.
 	" coords="441,623,491,670" shape="rect">
         <area research="D1125 - For Neutral,Dragon
-	<p><b>Research Name</b>: Oblation<p><b>Requirement</b>: Any Neutral,Build Dragons' Unique Building
+	<p><b>Research Name</b>: Oblation
+  <p><b>Requirement</b>: Any Neutral,Build Dragons' Unique Building
 	<p><b>Cost</b>: 177.2 Nod (1.772e62)
 	<p><b>Effect</b>: Increase the production of Wyrm's Den based on Faction Coin find chance.
 	<p><b>Formula</b>: 1.55*x^0.55, where x is Faction Coin find chance in percent.
