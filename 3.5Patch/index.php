@@ -165,7 +165,7 @@
                     <p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
                     <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is assistants owned.</p>
                     <p><b>Requirements</b>: Hall of Origination Quest.</p>
-                    <p><b>Cost</b>: (1 QiQig (1e168)</p>
+                    <p><b>Cost</b>: 1 QiQig (1e168)</p>
                     <br/>
                     <p><b>Archon</b></p>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusQuest.png" align="middle"> Nexus Quest</b></p>
@@ -177,7 +177,7 @@
                     <p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
                     <p><b>Formula</b>: (75 * x ^ 0.75), where x is time spent as Order this R.</p>
                     <p><b>Requirements</b>: Nexus Quest.</p>
-                    <p><b>Cost</b>: (1 QiQig (1e168)</p>
+                    <p><b>Cost</b>: 1 QiQig (1e168)</p>
                     <br/>
                     <p><b>Djinn</b></p>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</b></p>
@@ -189,7 +189,7 @@
                     <p>Upgrade Orcish Arena/Stone Pillars/Knights Jousts to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
                     <p><b>Formula</b>: (10 * x ^ 0.5), where x is spells cast this R.</p>
                     <p><b>Requirements</b>: Pavilion Quest.</p>
-                    <p><b>Cost</b>: (1 QiQig (1e168)</p>
+                    <p><b>Cost</b>: 1 QiQig (1e168)</p>
                     <br/>
                     <hr>
                     <p><b>Elite Bloodlines added</b></p>

@@ -135,7 +135,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOriginationUpgrade.png" align="middle"> Hall of Origination Upgrade</b></p>
         <p><b>Requirements</b>: Hall of Origination Quest.</p>
-        <p><b>Cost</b>: (1 QiQig (1e168)</p>
+        <p><b>Cost</b>: 1 QiQig (1e168)</p>
         <p><b>Effect</b>: Gives Hall of Origination Unique Building.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/HallofOrigination.png"></p>
