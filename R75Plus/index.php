@@ -95,8 +95,9 @@
 		</div>
 	</div>
 	<br/>
-	<p><b>Mercenary Research and Unique Building Unlock</b></p>
 	<div class="category">
+	<p><b>Mercenary Research and Unique Building Unlock</b></p>
+        <H6 id="KYEP2"></h6>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building) (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">

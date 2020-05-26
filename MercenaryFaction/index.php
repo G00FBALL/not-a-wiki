@@ -71,18 +71,18 @@
         <p><b>Cost</b>: 25 Vg (2.5E64)</p>
         <p><b>Effect</b>: Unlocks Tier 2 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Holy Crusaders" align="middle"> Holy Crusaders (<u>For Good Alignments</u>)</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Holy Crusaders" align="middle"> Holy Crusaders (For Good Alignments)</b></p>
         <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
         <p><b>Effect</b>: Gain additional Crusader Assistants based on the amount of spells cast in this game.</p>
         <p><b>Formula</b>: (0.5 * ((1 + 0.8 * x) ^ (0.5 + 0.05 * A) - 1)), where x is amount of spells cast in this game and A is Ascenion.</p>
         <p><b>Effect</b>: Increase clicking reward by 1000% per active spell.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Heresiarchs" align="middle"> Heresiarchs (<u>For Evil Alignments</u>)</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Heresiarchs" align="middle"> Heresiarchs (For Evil Alignments)</b></p>
         <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
         <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
         <p><b>Formula</b>: (1.2 * x ^ 0.8), where x is the number of your most-built evil building you own. (A-Nerfed)</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Trade Lords" align="middle"> Trade Lords (<u>For Neutral Alignments</u>)</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Trade Lords" align="middle"> Trade Lords (For Neutral Alignments)</b></p>
         <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
         <p><b>Effect</b>: When assistants finds a faction coin, they also find a faction coin for every other faction. Also increases mana regeneration based on faction coins gained in this game.</p>
         <p><b>Formula</b>: (floor(10 * log10(1 + x ^ 1.5)) / 10), where x is your Faction Coins Gained (This Game) stat.</p>
@@ -146,14 +146,14 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HarlequinMercenaryUpgrade.png" alt="Harlequin" align="middle"> Harlequin</b></p>
         <p><b>Requirement</b>: As a mercenary, purchase one upgrade for 11 different factions.</p>
-        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Harlequin</b>.</p>
+        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Harlequin</b>.</p>
         <p><b>Cost</b>: 5 Qivg (5E78)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your mercenary upgrades.</p>
         <p><b>Formula</b>: (x ^ 3)%, where x is the number of different factions you've bought upgrades from.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png" alt="Smiley face" align="middle"> Lucifer</b></p>
         <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</p>
-        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Lucifer R3+</b></a> build to get <b>Lucifer</b>.</p>
+        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds"><b>Lucifer R3+</b></a> build to get <b>Lucifer</b>.</p>
         <p><b>Cost</b>: 50 Vg (5E64)</p>
         <p><b>Effect</b>: Increase the production of all non-neutral mercenary buildings by 300%</p>
         <br/>
@@ -164,7 +164,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="KYE1" align="middle"> Know Your Enemy, Part I</b></p>
         <p><b>Requirement</b>: Find Know Your Enemy, Part I Artifact - which requires R12, to play as Mercenaries, and have upgrades from 11 different factions. (Excavation chance: 10%)</p>
-        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Know Your Enemy, Part I</b>.</p>
+        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Know Your Enemy, Part I</b>.</p>
         <p><b>Cost</b>: 100 Vg (1E65)</p>
         <p><b>Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)</p>
         <p><b>Formula</b>: (0.75 * x ^ 0.6)%, where x is amount of time spent as non-mercenary factions (in seconds).</p>
@@ -287,6 +287,7 @@
         <p><b>Note</b>: Only available to Mercenaries</p>
         <p><b>Formula</b>: (0.065 * x ^ 0.65) where x is amount of time spent as non-mercenary factions (in seconds).</p>
         <p><b>Cost</b>: 100 Noqag (1e152)</p>
+        <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/R75Plus/#KYEP2"><b>Mercenomicon (Know Your Enemy Part 2) (R75)</b></a> build to get this artifact.</p>
         <hr>
         <p><b>13th Upgrade</b> Good and Evil only</p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/GoodMercenaryUpgrade13.png" alt="Round Table" align="middle"> <b>Good Mercenary Upgrade 13</b></p>
