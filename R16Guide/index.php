@@ -45,7 +45,7 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <hr>
 <p><b>Note</b>: Get to 1e72 (1 Tvg) gems before starting to unlock research.</p>
 <p><b>Note</b>: Demon/Drow/Elfline -> Fairy/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
-<p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 8 hours offline time as Undead to unlock a research.</p>
+<p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 5 hours offline time as Undead to unlock a research.</p>
 <p>You can use <b>Mercenary</b> to get to the required gem level. suggested build: Tricaster, Lightning Forge</p>
 <p><b>Note</b>: Note: Excavation will significantly speed up unlock process.</p>
 <p>Recommended to have less than 1300 excavation before starting research unlock</p>
@@ -253,7 +253,7 @@ div#images div{
 <p>FR6,EL9,AN3,AN6,GB7,UD3,UD5,DM1,DM7,FC7,DN2,DW4,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
 <br/>
-<p><b>6.7</b>: <b>D25</b>: 8 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
-<p><b>W50</b>: 1 days evil playtime this R, Use Undead with Druid Bloodline. (After 1 days evil time switch to Demon to unlock W50)</p>
+<p><b>6.7</b>: <b>D25</b>: 5 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead),
+<p><b>W50</b>: 12 hours evil playtime this R, Use Undead with Druid Bloodline. (After 12 hours evil time switch to Demon to unlock W50)</p>
 <p><b>Note</b>: <b>D25</b> and <b>W50</b> can wait until after R18 but needs to be done.</p>
  <?php include "../scripts/footer.html"; ?>
