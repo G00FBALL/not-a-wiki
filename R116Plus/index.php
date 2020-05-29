@@ -269,7 +269,7 @@
                 <p>A1,A175,A410,A590,A3400,</p>
                 <p>W50,W205,W405,W520</p>
 				<p><b>Notes</b>: Cast Tax Collection only until you get Dragon lineage.</p>
-				<p><b>Notes</b>: Run until at Drow Upgrade 12 is bought at minimum, but 15 minutes runtime is optimal.</p>
+				<p><b>Notes</b>: Run until Drow Upgrade 12 is bought at minimum, but 15 minutes runtime is optimal.</p>
             </div>
         </div>
         <div class="shelementwhole">
