@@ -44,11 +44,8 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
     <p><b>Note</b>: Does not work while offline.</p>
 <hr>
 <p><b>Note</b>: Get to 1e72 (1 Tvg) gems before starting to unlock research.</p>
-<p><b>Note</b>: Demon/Drow/Elfline -> Fairy/Dwarf/Elfline to Merc in under 10-20 minutes.</p>
 <p><b>Note</b>: If going offline anytime during R16 switch to Undead as you need 5 hours offline time as Undead to unlock a research.</p>
-<p>You can use <b>Mercenary</b> to get to the required gem level. suggested build: Tricaster, Lightning Forge</p>
-<p><b>Note</b>: Note: Excavation will significantly speed up unlock process.</p>
-<p>Recommended to have less than 1300 excavation before starting research unlock</p>
+<p>Recommended to have less than 1300 excavation before starting research unlock, but not required.</p>
 <p><b>Auto Casting</b>: Spiritual Surge on Silver everything else on Gold unless stated otherwise.</p>
 <hr>
 <p><b>Important</b>: Do not buy Dwarf/Drow while doing research</p>
