@@ -251,25 +251,25 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Undead (Higher Gems Max Assistants + Drow Master)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Undead (Higher Gems Max Assistants + Drow Master)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
                 <p><b>Faction</b>: Undead</p>
-                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>Bloodline</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S225,S400,S435,C340,D25,D560,D1375,E10,E400,E495,A1,A175,A410,A590,A3400,W50,W205,W405,W520">
+                    <input type="text" value="S225,S435,S3200,C340,D25,D560,D1375,E10,E400,E495,A1,A175,A410,A590,A3400,W50,W205,W405,W520">
 				</p>
-                <p>S225,S400,S435,</p>
+                <p>S225,S435,S3200</p>
                 <p>C340,</p>
                 <p>D25,D560,D1375,</p>
                 <p>E10,E400,E495,</p>
                 <p>A1,A175,A410,A590,A3400,</p>
                 <p>W50,W205,W405,W520</p>
-				<p><b>Notes</b>: Cast Tax Collection only until you get Fairy lineage and undead union upgrades.</p>
-				<p><b>Notes</b>: Run until at Drow Upgrade 12 is bought at minimum.</p>
+				<p><b>Notes</b>: Cast Tax Collection only until you get Dragon lineage.</p>
+				<p><b>Notes</b>: Run until Drow Upgrade 12 is bought at minimum, but 15 minutes runtime is optimal.</p>
             </div>
         </div>
         <div class="shelementwhole">
