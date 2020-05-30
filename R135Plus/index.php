@@ -221,7 +221,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Angels (Archon Challenge 1)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Sad</p>
+						<p><b>Author</b>: Ensteffahn</p>
 						<p><b>Range</b>: 1e86 (100 Spvg) Gems+</p>
 						<p><b>Faction</b>: Angel</p>
 						<p><b>Bloodline</b>: Goblin</p>
