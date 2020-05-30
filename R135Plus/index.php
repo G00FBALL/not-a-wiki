@@ -219,25 +219,24 @@
 			<div class="autohide">
 				<p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build, taking 25.5 hours from 0 clicks.</p>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Archon Challenge 1)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Angels (Archon Challenge 1)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
-						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Range</b>: 1e86 (100 Spvg) Gems+</p>
 						<p><b>Faction</b>: Angel</p>
-						<p><b>Bloodline</b>: Dragon</p>
-						<p><b>Artifact Set</b>: Dwarf</p>
+						<p><b>Bloodline</b>: Goblin</p>
+						<p><b>Artifact Set</b>: Elf</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D200,E400,A120,W180">
+							<input type="text" value="S10,S3200,S400,C25,C400,C405,C520,C340,D1,D175,D290,D435,D590,D1375,E135,E400,E410,A50,A400,A495,A120,W225,W400,W560,W180">
 						</p>
-						<p>S10,S3200,</p>
-						<p>C25,C400,C405,C520,</p>
-						<p>D1,D175,D290,D435,D590,</p>
-						<p>E135,E410,</p>
-						<p>A50,A400,A495,</p>
-						<p>W225,W560,W1375</p>
-						<p><b>After Archon treaty</b>: S200,C340,D200,E400,A120,W180 (Reimport Build)</p>
-						<p><b>Note</b>: Estimated 4 hours to complete.</p>
+						<p>S10,S3200,S400,</p>
+						<p>C25,C400,C405,C520,C340,</p>
+						<p>D1,D175,D290,D435,D590,D1375,</p>
+						<p>E135,E400,E410,</p>
+						<p>A50,A400,A495,A120,</p>
+						<p>W225,W400,W560,W180</p>
+						<p><b>Note</b>: Estimated 2 hours to complete.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
