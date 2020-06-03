@@ -348,7 +348,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Apeiron/True Harlequin</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: somarilnos</p>
+                <p><b>Author</b>: Somarilnos</p>
                 <p><b>Range</b>: 1e30 (1 No) Gems+</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
@@ -389,6 +389,35 @@
                 <p>E25,E30,E135,E145,E275,E290,E320,E400,E460,E480,E590,E1325,E1425,</p>
                 <p>A55,A105,A120,A250,A375,A590,A1500,A2950,</p>
                 <p>W25,W120,W150,W180,W200,W275,W590,W1375,W3050</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mythos/Athanor</a></b><b><font color="Blue"> Good</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Glenniss2</p>
+                <p><b>Range</b>: 1e47 (100 Qad) Gems+</p>
+				<p><b>Requirements</b>: 2 Excavation Resets+</p>
+                <p><b>Faction</b>: Good/Order Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="FR7,EL3,EL4,EL7,EL11,AN5,GB4,TT3,FC7,DN2,DN10,DW12,AR2,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Precognition,UB:High Bastion,UNN:DM,S150,S200,S215,S330,S400,S1275,C175,C250,C340,C400,C590,C3100,D200,D205,D275,D290,D330,D525,D1375,E30,E135,E145,E290,E320,E400,E460,E3300,A120,A305,A2950,A1500,A270,A545,A250,W175,W275,W400,W1375,W1275,W1400">
+				</p>
+                <p>FR7,EL3,EL4,EL7,EL11,AN5,GB4,TT3,FC7,DN2,DN10,DW12,AR2,AR10,DJ7,MK5,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:High Bastion,UNN:DM,</p>
+                <p>S150,S200,S215,S330,S400,S1275,</p>
+                <p>C175,C250,C340,C400,C590,C3100,</p>
+                <p>D200,D205,D275,D290,D330,D525,D1375,</p>
+                <p>E30,E135,E145,E290,E320,E400,E460,E3300,</p>
+                <p>A120,A305,A2950,A1500,A270,A545,A250</p>
+                <p>W175,W275,W400,W1375,W1275,W1400</p>
+				<p><b>Notes</b>: if you have Factory, get C3100.</p>
+				<p><b>Notes</b>: if you have Vault, get E3300.</p>
+				<p><b>Notes</b>: if you have Athanor, get A1500,A270,A545,A250.</p>
+				<p><b>Notes</b>: if you have Battlefield, get W1400.</p>
+				<p><b>Notes</b>: Additional researches are pre-included for ease of importing use.</p>
             </div>
         </div>
         <div class="shelementwhole">
