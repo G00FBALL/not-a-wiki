@@ -117,12 +117,17 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375">
-					<b>1e42 (1 TD) Gems+</b>
+					<b>1e42 (1 Td) Gems+</b>
 				</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E400,A3400,W10,W1375">
-					<b>1e46 (10 QaD) Gems+</b>
+					<b>1e46 (10 Qad) Gems+</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E145,A250,W10,W1375">
+					<b>1e48 (1 Qid) Gems+</b>
 				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
@@ -132,6 +137,7 @@
                 <p>W10,W1375</p>
                 <p><b>Notes</b>: Swap C400 with C340 at 1e42 (1 TD) gems.</p>
                 <p><b>Notes</b>: Swap E3250 with E400 at 1e46 (10 QaD) gems.</p>
+				<p><b>Notes</b>: Swap E400 with E145 and A3400 with A250 at 1e48 (1 Qid) Gems.</p>
                 <p><b>Notes</b>: Dont cast all the spells at max tiers until you reach union. SS7 takes aprox. 25 minutes.</p>
             </div>
         </div>
