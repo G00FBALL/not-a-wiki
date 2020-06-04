@@ -11,7 +11,7 @@
         <p><b>Alignment</b>: Any</p>
         <p><b>Unlock Requirements</b>: R3 - See below</p>
         <p>Available in all alignments, The Mercenaries can combine the power of the existing factions by letting you choose 2 spells and 3x4 faction upgrades in A0 and A1 (4x4 in A3). This enables you to create a custom cross-faction build.</p>
-        <p>Unlocking the Mercenaries <b><u>Requires 3 reincarnations</u></b> and can be done in different game plays.</p>
+        <p>Unlocking the Mercenaries <b><u>requires 3 reincarnations</u></b> and can be done in different game plays.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTribute.png" alt="Smiley face" align="middle"> Mercenary Tribute</b></p>
         <p><b>Cost</b>: At least: 1 Nod (1E60) Coins</p>
