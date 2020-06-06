@@ -32,27 +32,27 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R171-R175)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R171-R175)</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: dzed modified by Necrodoom</p>
+                <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
-                <p><b>Faction</b>: Neutral/Order Mercenary</p>
-                <p><b>Bloodline</b>: Makers</p>
-                <p><b>A2950</b>: Titan</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
+                <p><b>Faction</b>: Wvil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>A2950</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Dwarf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,S30,S150,S400,S2875,C150,C340,C3000,D25,D55,D200,D275,D290,D1275,D1375,E25,E30,E135,E145,E400,E1325,E1425,A30,A55,A120,A270,A2950,W25,W120,W150,W180,W275,W320,W400,W590,W1375">
+                    <input type="text" value="EL3,EL7,AN5,AN12,GB4,UD10,DM9,TT3,TT8,DD11,DN2,DW12,DG4,DJ3,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S50,S135,S150,S200,S215,S250,S270,S330,S400,S1500,C25,C80,C120,C150,C175,C250,C340,C400,C590,C1300,D25,D55,D200,D275,D290,D1275,D1375,E1,E25,E30,E135,E3300,A10,A55,A105,A120,A250,A2950,W25,W135,W150,W175,W180,W205,W275,W400,W525,W1375">
 				</p>
-                <p>EL3,EL7,AN5,AN12,GB4,GB7,TT10,FC2,FC7,DN2,DW6,DW12,AR2,AR10,DJ7,MK6,</p>
-				<p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:EL,</p>
-                <p>S30,S150,S400,S2875,</p>
-                <p>C150,C340,C3000,</p>
+                <p>EL3,EL7,AN5,AN12,GB4,UD10,DM9,TT3,TT8,DD11,DN2,DW12,DG4,DJ3,DJ7,MK5,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,</p>
+                <p>S50,S135,S150,S200,S215,S250,S270,S330,S400,S1500,</p>
+                <p>C25,C80,C120,C150,C175,C250,C340,C400,C590,C1300,</p>
                 <p>D25,D55,D200,D275,D290,D1275,D1375,</p>
-                <p>E25,E30,E135,E145,E400,E1325,E1425,</p>
-                <p>A30,A55,A120,A270,A2950,</p>
-                <p>W25,W120,W150,W180,W275,W320,W400,W590,W1375</p>
+                <p>E1,E25,E30,E135,E3300,</p>
+                <p>A10,A55,A105,A120,A250,A2950,</p>
+                <p>W25,W135,W150,W175,W180,W205,W275,W400,W525,W1375</p>
             </div>
         </div>
 		<div class="shelementwhole">
