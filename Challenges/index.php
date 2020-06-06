@@ -28,7 +28,7 @@
 <a href="http://musicfamily.org/realm/Archon/"><b>Archon</b></a>
 <a href="http://musicfamily.org/realm/Djinn/"><b>Djinn</b></a>
 <a href="http://musicfamily.org/realm/Makers/"><b>Makers</b></a></p>
-<p><b>Mercenary</b>:
+<p><b>Mercenary Faction</b>:
 <a href="http://musicfamily.org/realm/Mercenary/"><b>Mercenary</b></a></p>
 <p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!</p>
 <p>Upon reaching R2, a "Challenge" button will appear on the left leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.</p>
