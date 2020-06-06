@@ -37,7 +37,7 @@
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
                 <p><b>Requirement</b>: Mercenary Duel</p>
-                <p><b>Faction</b>: Wvil/Balance Mercenary</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
