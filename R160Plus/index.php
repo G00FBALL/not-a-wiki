@@ -107,7 +107,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Artifacts Matter (R182-R190)</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Eternal Tax (R182-R190)</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e75 (1 Qavg) Gems+</p>
@@ -293,29 +293,6 @@
                 <p>F6000</p>
             </div>
         </div>
-				<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R190+ Facelessline Titans F6000 (For higher gems)</a> Needs Testing</b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Wolfsblood</p>
-                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
-				<p><b>Requirement</b>: Buff D5625 (1 Day+), Dragon Set (?) </p>
-                <p><b>Faction</b>: Titan</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Dragon</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S5875,S200,S400,C5875,C340,C400,C250,D5625,D330,D200,D290,E5625,E1325,E135,E320,A5375,A400,A120,A270,A305,A3400,W1275,W1375,W400,W5125,W120,W150,F6000">
-				</p>
-                <p>S5875,S200,S400,</p>
-                <p>C5875,C340,C400,C250,</p>
-                <p>D5625,D330,D200,D290,</p>
-                <p>E5625,E1325,E135,E320,</p>
-                <p>A5375,A400,A120,A270,A305,A3400,</p>
-                <p>W1275,W1375,W400,W5125,W120,W150,</p>
-                <p>F6000</p>
-				<p><b>Notes</b>: Pick additional researches that increase production.</p>
-            </div>
-        </div>
     </div>
     <br/>
     <H6 id="TrueHarlequin"></h6><p><b>Artifact/Trophy Builds</b></p>
@@ -448,7 +425,7 @@
 				<p><b>Notes</b>: This build does not pick Mercenary Building Contract on purpose.</b>
             </div>
         </div>
-		        <div class="shelementwhole">
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Secondary Lineage leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kuile, modified by Wolfsblood</p>
