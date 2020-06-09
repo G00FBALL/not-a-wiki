@@ -52,6 +52,7 @@
                     <p id="R108ProdUBTimeDiff"></p>
                     <p id="R115FCChaMul"></p>
                     <p id="R120NEMPro"></p>
+					<p id="R150CTABoost"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -156,6 +157,10 @@
                 , function(rei) {return 100 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ]
+				[ 150, '#R150CTABoost', true, 1
+                , function(rei) {return rei;}
+                , function(rei, bonus) {return 'Unique Buildings count ' + bonus + '% more for Call to Arms purposes.';}
+                ]				
             ];
             function CalRBen() {
                 var rei = parseInt($('#ReiCosRei').val());
@@ -296,6 +301,18 @@
                     case 160:
                         Runl('Ascension 3');
                         break;
+					case 165:
+                        Runl('Mercenary Building Contract');
+                        break;
+					case 170:
+                        Runl('Mercenary Union Contract');
+                        break;
+					case 175:
+                        Runl('Forbidden Research');
+                        break;	
+					case 190:
+                        Runl('Mercenary Challenges');
+                        break;	
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
@@ -400,8 +417,9 @@
                 <p><b>R125</b>: Archon, Djinn, and Makers (Elite Factions)</p>
                 <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
                 <p><b>R135-R153</b>: Elite Challenges</p>
-                <p><b>R160</b>: Mercenary Reintroduced</p>
+                <p><b>R160-R170</b>: Mercenary Reintroduced</p>
                 <p><b>R175</b>: Forbidden Research</p>
+				<p><b>R190-R206</b>: Mercenary Challenges</p>
             </div>
         </div>
         <div class="shelementwhole">

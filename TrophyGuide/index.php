@@ -883,7 +883,7 @@
 								<center>Underworld Researcher</p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretTrophy.png"></td>
 							<td>1 NoSxg (1e210)</p>A1+ Free</td>
 							<td>Discover all the Underworld researches.</td>
-							<td>Increase the production of all buildings based on research done.</p>Formula: 0.3 * x^0.7.</td>
+							<td>Increase the production of all buildings based on research done.</p>Formula: (0.3 * x ^ 0.7).</td>
 							<td>590 researches</td>
 						</tr>
 						<tr>
@@ -895,7 +895,7 @@
 									<p>
 							</td>
 							<td>Increase base clicking reward by 1 T (1E12).</td>
-							<td>Possible at R30+ using Fairy blood Dwairy, R34+ Titan blood Dwangels, R70+ with the <a href="http://musicfamily.org/realm/R60-R75/">Stoic Resistance (R70+)</a> build</td>
+							<td>Possible at R30+ using Fairy blood Dwairy, R34+ Titan blood Dwangels, R85+ with the <a href="http://musicfamily.org/realm/R75Plus/">Stoic Resistance (R85+)</a> build</td>
 						</tr>
 						<tr>
 							<td>

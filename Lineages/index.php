@@ -394,7 +394,8 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk3.png" align="middle"><b> Titan Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase the base production of tier 4 and tier 7 buildings based on Unique Buildings owned.</p>
-    <p><b>Formula</b>: (0.01 * x and y), where x is tier 4 and tier 7, y is Unique Buildings owned.</p>
+    <p><b>Tier 4 Formula</b>: +(0.01 * x)</p>
+	<p><b>Tier 7 Formula</b>: +(x)</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png" align="middle"> <b>Titan Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.</p>
