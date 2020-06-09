@@ -137,6 +137,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 Gems - 1e101 (100 Dtg) Gems</p>
+				<p><b>Requirement</b>: Mercenary Challenge 1</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
