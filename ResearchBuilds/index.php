@@ -264,28 +264,29 @@
                 </div>
             </div>
 			<div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">U-Fairy R25</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">NU-Druid R25</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Faction</b>: Fairy</p>
-                    <p><b>Bloodline</b>: Fairy</p>
+                    <p><b>Faction</b>: Druid</p>
+                    <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e90 (1 Novg) Gems - 1e102 (1 Ttg) Gems</p>
-                    <p><b>Duration</b>: 5 - 25 Minutes</p>
+					<p><b>Requirement</b>: Druid Challenge 4 completed</p>
+                    <p><b>Duration</b>: 5 - 15 Minutes</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S1,S105,S135,S180,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E145,E150,E200,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290">
+                        <input type="text" value="S105,S200,S215,S270,S305,C105,C120,C150,C250,C300,D55,D200,D275,D290,D320,E135,E150,E200,E260,E320,A105,A120,A150,A250,A305,W120,W135,W150,W180,W250">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S1,S105,S135,S180,S215,C80,C105,C120,C135,C150,D55,D200,D225,D245,D320,E50,E135,E150,E200,E290,A30,A105,A120,A150,A250,W135,W150,W180,W250,W290">
+                        <input type="text" value="S105,S200,S215,S270,S305,C105,C120,C150,C250,C300,D55,D200,D275,D290,D320,E150,E200,E260,E290,E320,A105,A120,A150,A250,A305,W120,W135,W150,W180,W250">
 						<b>E290</b>
 					</p>
-                    <p>S1,S105,S135,S180,S215,</p>
-                    <p>C80,C105,C120,C135,C150,</p>
-                    <p>D55,D200,D225,D245,D320,</p>
-                    <p>E50,E135,E145,E150,E200,</p>
-                    <p>A30,A105,A120,A150,A250,</p>
-                    <p>W135,W150,W180,W250,W290</p>
-                    <p><b>Note</b>: At the end of the R, replace E145 with E290 and excavate to unlock W320 for the next R.</p>
+                    <p>S105,S200,S215,S270,S305,</p>
+                    <p>C105,C120,C150,C250,C300,</p>
+                    <p>D55,D200,D275,D290,D320,</p>
+                    <p>E135,E150,E200,E260,E320,</p>
+                    <p>A105,A120,A150,A250,A305,</p>
+                    <p>W120,W135,W150,W180,W250</p>
+                    <p><b>Note</b>: At the end of the R, replace E135 with E290 and excavate to unlock W320 for the next R.</p>
                 </div>
             </div>
         </div>
