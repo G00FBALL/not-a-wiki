@@ -156,7 +156,7 @@
                 [ 120, '#R120NEMPro', true, 1
                 , function(rei) {return 100 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
-                ]
+                ],
 				[ 150, '#R150CTABoost', true, 1
                 , function(rei) {return rei;}
                 , function(rei, bonus) {return 'Unique Buildings count ' + bonus + '% more for Call to Arms purposes.';}
