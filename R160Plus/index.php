@@ -82,7 +82,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archvile (R181-R190)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Artifactory (R181-R190)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e50 (100 Qid) - 1e75 (1 Qavg) Gems</p>
@@ -248,24 +248,50 @@
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
                 <p><b>Faction</b>: Evil/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
-                <p><b>A2950</b>: Dragon</p>
+                <p><b>A2950 (Until MCC1 and after MCC4)</b>: Dragon</p>
+				<p><b>A2950 (After MCC1 until MCC4)</b>: Djinn</p>
                 <p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
+				<p><b>MCC4 Union(R202+)</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875,S200,S400,S500,S330,S215,C5625,C175,C250,C340,C400,C520,C590,D5875,D200,D290,D330,D275,E135,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,W180,F5500">
+                    <input type="text" value="EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875,S200,S500,S400,S330,C5625,C175,C340,C250,C400,C590,D5875,D200,D290,D330,D275,E135,E145,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A250,A270,A305,A545,A1500,A2950,W5625,W175,W205,W275,W400,W525,F5500">
 				</p>
                 <p>EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,</p>
                 <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,</p>
-                <p>S5875,S200,S400,S500,S330,S215,</p>
-                <p>C5625,C175,C250,C340,C400,C520,C590,</p>
+                <p>S5875,S200,S500,S400,S330,</p>
+                <p>C5625,C175,C340,C250,C400,C590,</p>
                 <p>D5875,D200,D290,D330,D275,</p>
-                <p>E135,E230,E290,E320,E460,E495,E3300,E1325,E400,</p>
-                <p>A30,A120,A270,A305,A545,A1500,A2950,</p>
-                <p>W5625,W205,W275,W400,W1275,W180,</p>
+                <p>E135,E145,E230,E290,E320,E460,E495,E3300,E1325,E400,</p>
+                <p>A30,A120,A250,A270,A305,A545,A1500,A2950,</p>
+                <p>W5625,W175,W205,W275,W400,W525,</p>
                 <p>F5500</p>
                 <p><b>Notes</b>: Buff spells cast, use excavation resets to buff C5625, build scales on time this R.</p>
 				<p><b>Notes</b>: Recommended to buff F6000 before each run.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Clicks</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Aramil Nailo</p>
+				<p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
+                <p><b>Faction</b>: Elf</p>
+                <p><b>Bloodline</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Stoneheart Set</b>: Elf</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S30,S105,S135,S150,S175,S200,S215,S330,S400,S500,S545,S3200,C1,C105,C150,C250,C340,C400,C500,C520,C590,C3100,D50,D290,D5625,E25,E30,E320,E5625,A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,F5750">
+				</p>
+                <p>S30,S105,S135,S150,S175,S200,S215,S330,S400,S500,S545,S3200,</p>
+                <p>C1,C105,C150,C250,C340,C400,C500,C520,C590,C3100,</p>
+                <p>D50,D290,D5625,</p>
+                <p>E25,E30,E320,E5625,</p>
+                <p>A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,</p>
+                <p>W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,</p>
+                <p>F5750</p>
+				<p><b>Notes</b>: Buffing D5625 is recommended.</p>
+				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 4 hours (with 5 hours D5625).</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -370,29 +396,6 @@
 				<p><b>Notes</b>: if you have Athanor, get A1500,A270,A545,A250.</p>
 				<p><b>Notes</b>: if you have Battlefield, get W1400.</p>
 				<p><b>Notes</b>: Additional researches are pre-included for ease of importing use.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Facelessline Elves (God's Fingers)</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Aramil Nailo</p>
-                <p><b>Range</b>: D5625 buffed (5 hours+ ?)</p>
-                <p><b>Faction</b>: Elf</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Faceless</p>
-                <p><b>Stoneheart Set</b>: Elf</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S30,S105,S135,S150,S175,S200,S215,S330,S400,S500,S545,S3200,C1,C105,C150,C250,C340,C400,C500,C520,C590,C3100,D50,D290,D5625,E25,E30,E320,E5625,A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,F5750">
-				</p>
-                <p>S30,S105,S135,S150,S175,S200,S215,S330,S400,S500,S545,S3200,</p>
-                <p>C1,C105,C150,C250,C340,C400,C500,C520,C590,C3100,</p>
-                <p>D50,D290,D5625,</p>
-                <p>E25,E30,E320,E5625,</p>
-                <p>A55,A105,A120,A250,A270,A305,A400,A495,A545,A3400,</p>
-                <p>W10,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,</p>
-                <p>F5750</p>
-				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 4 hours (with 5 hours D5625).</p>
             </div>
         </div>
     </div>
