@@ -247,29 +247,46 @@
                 <p><b>Faction</b>: Evil/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
-                <p><b>D5875</b>: Archon</p>
+                <p><b>D5875 (Until MCC1)</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5875,D200,D275,D290,D330,E135,E230,E290,E320,E400,E495,E1325,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5875,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5875,D200,D275,D290,D330,E135,E230,E290,E320,E400,E495,E1325,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
-					<b>DN12 is 100%+</b>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5875,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>16 hours+ this R</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>MCC1</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>MCC1, 16 hours+ this R</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5625,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>MCC1, D5625 is buffed</b>
 				</p>
 				<p>EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,</p>
 				<p>SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,</p>
 				<p>S5875,S200,S400,S500,</p>
 				<p>C5625,C175,C340,C500,C250,C400,C590,</p>
 				<p>D5875,D200,D275,D290,D330,</p>
-				<p>E135,E230,E290,E320,E400,E495,E1325,E3300,</p>
-				<p>A30,A120,A250,A270,A305,A545,A1500,A2950,</p>
+				<p>E135,E145,E230,E290,E320,E400,E495,E1325,E3300,</p>
+				<p>A120,A250,A270,A305,A545,A1500,A2950,</p>
 				<p>W205,W275,W400,W5625,W1275,</p>
 				<p>F5250</p>
 				<p><b>Notes</b>: Use excavation resets to buff C5625.</p>
 				<p><b>Notes</b>: Buffing F6000 helps.</p>
-				<p><b>Notes</b>: Swap DW12 -> DN12, if DN12 is 100%+.</p>
+				<p><b>Notes</b>: Swap DW12 -> DN12 and AR10 -> MK10 if 16 hours+ were spent this Reincarnation.</p>
+				<p><b>Notes</b>: Swap D5875 with D5125 if Mercenary Challenge 1 is completed.</p>
+				<p><b>Notes</b>: Swap D5125 with D5625 if D5625 is buffed.</p>
 				<p><b>Notes</b>: Use remaining points to buff production.</p>
             </div>
         </div>
