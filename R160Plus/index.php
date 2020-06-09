@@ -132,6 +132,37 @@
 				<p><b>Notes</b>: Benefits from buffing assistants and spell casts.</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Order of Knowledge (R190+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 0 Gems - 1e101 (100 Dtg) Gems</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Dwarf</p>
+                <p><b>A2950</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p><b>MCC4 Union(R202+)</b>: Archon</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S330,S500,C5625,C175,C250,C340,C590,D200,D290,D1375,D5125,E3300,E1425,E135,E145,E230,E290,E1325,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,F5500">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,UNN:AR,S5875,S200,S330,S500,C5625,C175,C250,C340,C590,D200,D290,D1375,D5125,E3300,E1425,E135,E145,E230,E290,E1325,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,F5500">
+					<b>MCC4 completed (R202+)</b>
+				</p>
+                <p>EL3,EL7,EL11,AN5,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,</p>
+                <p>S5875,S200,S330,S500,</p>
+                <p>C5625,C175,C250,C340,C590,</p>
+                <p>D200,D290,D1375,D5125,</p>
+                <p>E3300,E1425,E135,E145,E230,E290,E1325,</p>
+                <p>A120,A270,A305,A1200,A1500,A2950,</p>
+                <p>W175,W275,W400,W5125,</p>
+                <p>F5500</p>
+				<p><b>Notes</b>: Benefits from buffing assistants and mana produced.</p>
+            </div>
+        </div>
     </div>
     <br/>
     <p><b>Mercenary Duel Unlock</b></p>
@@ -257,6 +288,11 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875,S200,S500,S400,S330,C5625,C175,C340,C250,C400,C590,D5875,D200,D290,D330,D275,E135,E145,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A250,A270,A305,A545,A1500,A2950,W5625,W175,W205,W275,W400,W525,F5500">
 				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,UNN:DM,S5875,S200,S500,S400,S330,C5625,C175,C340,C250,C400,C590,D5875,D200,D290,D330,D275,E135,E145,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A250,A270,A305,A545,A1500,A2950,W5625,W175,W205,W275,W400,W525,F5500">
+					<b>MCC4 completed (R202+)</b>
+				</p>
                 <p>EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,</p>
                 <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,</p>
                 <p>S5875,S200,S500,S400,S330,</p>
@@ -321,7 +357,7 @@
         </div>
     </div>
     <br/>
-    <H6 id="TrueHarlequin"></h6><p><b>Artifact/Trophy Builds</b></p>
+    <p><b>Artifact/Trophy Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Apeiron/True Harlequin</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
@@ -400,12 +436,46 @@
         </div>
     </div>
 	<br/>
-    <p><b>Lineages</b></p>
+	<p><b>Challenge Builds</b></p>
+    <div class="category">
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 1</b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e85 (10 Spvg) Gems+</p>
+				<p><b>Requirements</b>: 4 hours+ this Reincarnation</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Dwarf</p>
+                <p><b>A2950</b>: Dragon</p>
+				<p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,S30,S105,S150,S200,S330,S400,S500,S5625,C25,C200,C250,C340,C400,C500,C5625,D5875,D200,D245,D290,D330,D400,E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,W205,W400,W1375,W5375,F6000">
+				</p>
+                <p>AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,</p>
+                <p>S30,S105,S150,S200,S330,S400,S500,S5625,</p>
+                <p>C25,C200,C250,C340,C400,C500,C5625,</p>
+                <p>D5875,D200,D245,D290,D330,D400,</p>
+                <p>E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,</p>
+                <p>A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,</p>
+                <p>W205,W400,W1375,W5375,</p>
+                <p>F6000</p>
+                <p><b>Notes</b>: Do a F6000 buff before the build.</p>
+				<p><b>Notes</b>: Remember to not buy any non-Order faction upgrades (Ex: Fairy heritage).</p>
+				<p><b>Notes</b>: Doing some excavation resets during the run is recommended.</p>
+				<p><b>Notes</b>: Estimated time to completion is 15 minutes or less.</p>
+            </div>
+        </div>
+    </div>
+	<br/>
+    <p><b>Lineage Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Lineage pusher</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: kuile, modified by Wolfsblood</p>
+                <p><b>Author</b>: Kuile, modified by Wolfsblood</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
                 <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
@@ -431,7 +501,7 @@
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Secondary Lineage leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: kuile, modified by Wolfsblood</p>
+                <p><b>Author</b>: Kuile, modified by Wolfsblood</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
                 <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Any</p>
