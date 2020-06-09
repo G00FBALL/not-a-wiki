@@ -58,7 +58,7 @@
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Production Rush (R175-R181)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: ensteffahn</p>
+                <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e70 (10 Dvg) Gems</p>
                 <p><b>Requirement</b>: A3 Research Facility Artifacts</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>

@@ -251,7 +251,7 @@
         <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
         <p><b>Requirement</b>: At least 1 Ascension</p>
         <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
-        <p><b>Formula</b>: (3 * (11 - T) ^ 3)%, where T is building tier.</p>
+        <p><b>Formula</b>: (3 * (2 * (11 - T)) ^ 3)%, where T is building tier.</p>
         <p><b>Chance</b>: 10%</p>
         <p><b>Cost</b>: 1 M (1E6)</p>
         <p><b>Alignment</b>: Any</p>
