@@ -540,34 +540,6 @@
 				<p><b>Notes</b>: Estimated time to completion is 15 minutes or less.</p>
             </div>
         </div>
-				<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 2</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Ensteffahn</p>
-                <p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
-                <p><b>Faction</b>: Good/Chaos Mercenary</p>
-                <p><b>Bloodline</b>: Faceless</p>
-				<p><b>D5875</b>: Djinn</p>
-                <p><b>Artifact Set</b>: Faceless</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,S30,S105,S150,S200,S330,S400,S500,S5625,C25,C200,C250,C340,C400,C500,C5625,D5875,D200,D245,D290,D330,D400,E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,W205,W400,W1375,W5375,F6000">
-				</p>
-                <p>AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,</p>
-                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,</p>
-                <p>S30,S105,S150,S200,S330,S400,S500,S5625,</p>
-                <p>C25,C200,C250,C340,C400,C500,C5625,</p>
-                <p>D5875,D200,D245,D290,D330,D400,</p>
-                <p>E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,</p>
-                <p>A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,</p>
-                <p>W205,W400,W1375,W5375,</p>
-                <p>F6000</p>
-                <p><b>Notes</b>: Do a F6000 buff before the build.</p>
-				<p><b>Notes</b>: Remember to not buy any non-Order faction upgrades (Ex: Fairy heritage).</p>
-				<p><b>Notes</b>: Doing some excavation resets during the run is recommended.</p>
-				<p><b>Notes</b>: Estimated time to completion is 15 minutes or less.</p>
-            </div>
-        </div>
     </div>
 	<br/>
     <p><b>Lineage Builds</b></p>
