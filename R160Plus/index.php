@@ -60,8 +60,8 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Forbidden Grounds (R175-R190)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
-                <p><b>Range</b>: 0 - 1e70 (10 Dvg) Gems (R175-R180)</p>
-				<p><b>Range</b>: 0 - 1e50 (100 Qid) Gems (R181+)</p>
+                <p><b>Range (R175-R180)</b>: 0 - 1e70 (10 Dvg) Gems</p>
+				<p><b>Range (R181+)</b>: 0 - 1e50 (100 Qid) Gems </p>
                 <p><b>Requirement</b>: A3 Research Facility Artifacts</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
@@ -249,6 +249,7 @@
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>D5875 (Until MCC1)</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
+				<p><b>MCC4 Union(R202+)</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5875,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
@@ -272,6 +273,21 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5625,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
 					<b>MCC1, D5625 is buffed</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>MCC4</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>MCC4, 16 hours+ this R</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5625,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
+					<b>MCC4, D5625 is buffed</b>
 				</p>
 				<p>EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,</p>
 				<p>SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,</p>
@@ -505,6 +521,34 @@
                 <p><b>A2950</b>: Dragon</p>
 				<p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,S30,S105,S150,S200,S330,S400,S500,S5625,C25,C200,C250,C340,C400,C500,C5625,D5875,D200,D245,D290,D330,D400,E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,W205,W400,W1375,W5375,F6000">
+				</p>
+                <p>AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,</p>
+                <p>S30,S105,S150,S200,S330,S400,S500,S5625,</p>
+                <p>C25,C200,C250,C340,C400,C500,C5625,</p>
+                <p>D5875,D200,D245,D290,D330,D400,</p>
+                <p>E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,</p>
+                <p>A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,</p>
+                <p>W205,W400,W1375,W5375,</p>
+                <p>F6000</p>
+                <p><b>Notes</b>: Do a F6000 buff before the build.</p>
+				<p><b>Notes</b>: Remember to not buy any non-Order faction upgrades (Ex: Fairy heritage).</p>
+				<p><b>Notes</b>: Doing some excavation resets during the run is recommended.</p>
+				<p><b>Notes</b>: Estimated time to completion is 15 minutes or less.</p>
+            </div>
+        </div>
+				<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 2</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
+                <p><b>Faction</b>: Good/Chaos Mercenary</p>
+                <p><b>Bloodline</b>: Faceless</p>
+				<p><b>D5875</b>: Djinn</p>
+                <p><b>Artifact Set</b>: Faceless</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="AN3,AN5,AN6,AN8,AN12,UD7,UD9,UD10,DN2,DW2,DW6,DW12,AR2,AR4,AR8,AR10,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DW,S30,S105,S150,S200,S330,S400,S500,S5625,C25,C200,C250,C340,C400,C500,C5625,D5875,D200,D245,D290,D330,D400,E10,E30,E80,E135,E145,E290,E320,E330,E400,E480,E495,E1325,E3300,A55,A105,A120,A175,A250,A270,A305,A480,A545,A590,A1500,A2950,W205,W400,W1375,W5375,F6000">
