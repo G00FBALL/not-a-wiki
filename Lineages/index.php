@@ -8,7 +8,7 @@
     <p>At R60 you will unlock Lineages, which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
     <p><b>Note</b>: You can not use a Lineage if it matches your faction or its respective prestige faction.</p>
     <p>Your Lineage is dependant on the Bloodline you chose.</p>
-    <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication)</p>
+    <p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used. (Needs to be bought Every Abdication).</p>
     <p><b>Note</b>: Levels only need to be bought once.</p>
     <p><b>Note</b>: (R116+) When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
     <p><b>Formula</b>: (1 + 0.3 * level)</p>
@@ -101,12 +101,12 @@
     <p><b>Base Lineage</b>: Lineage based boost.</p>
     <p><b>Level 5</b>: Perk 1 - Bloodline based boost.</p>
     <p><b>Level 10</b>: Faction specific FC boost.</p>
-    <p><b>Level 15</b>: Perk 2 - Unlocks Faction spell. (adjusted for your alignment if necessary)</p>
+    <p><b>Level 15</b>: Perk 2 - Unlocks Faction spell (adjusted for your alignment if necessary).</p>
     <p><b>Note</b>: Level 15 Lineage Challenge does not need its Lineage to complete.</p>
     <p><b>Level 20</b>: Perk 3 - Unique Building based boost.</p>
     <p><b>Note</b>: Perk 3 also allows the unlock of Grand Champion trophy.</p>
-    <p><b>Level 30 (R105+)</b>: Perk 4 - Faction Spell boost</p>
-    <p><b>Level 45 (R130+)</b>: Perk 5 - Faction specific boost</p>
+    <p><b>Level 30 (R105+)</b>: Perk 4 - Faction Spell boost.</p>
+    <p><b>Level 45 (R130+)</b>: Perk 5 - Faction specific boost.</p>
     <br/>
     <center><b>Lineage Menu</b></center>
     <center><img src="http://musicfamily.org/realm/Factions/picks/Lineages.png" usemap="#Lineages-map"></center>
@@ -234,7 +234,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk3.png" align="middle"><b> Angel Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20</p>
     <p><b>Effect</b>: Increase God's Hand bonus based on Unique Buildings owned.</p>
-    <p><b>Formula</b>: (12000 * (x / 1000))%, Unique Buildings.(rounded down to nearest 1000)</p>
+    <p><b>Formula</b>: (12000 * (x / 1000))%, Unique Buildings (rounded down to nearest 1000).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png" align="middle"> <b>Angel Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.</p>
@@ -334,7 +334,7 @@
     <p><b>Cost</b>: 400 Demon Royal Exchanges</p>
     <p><b>Effect</b>: Increase Non-Unique Buildings production based on Lineage level. Ascension penalty reduces based on time this Reincarnation.</p>
     <p><b>Production Formula</b>: (100 * x ^ 2), where x is Lineage level.</p>
-    <p><b>Ascension Penalty Reduction Formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2)</p>
+    <p><b>Ascension Penalty Reduction Formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2).</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk1.png" align="middle"><b> Demon Perk 1</b></p>
@@ -355,7 +355,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk3.png" align="middle"><b> Demon Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Increase production bonus from Gems by 50% per 666 Unique Buildings (multiplicative)</p>
+    <p><b>Effect</b>: Increase production bonus from Gems by 50% per 666 Unique Buildings (multiplicative).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png" align="middle"> <b>Demon Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.</p>
@@ -387,7 +387,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk2.png" align="middle"><b> Titan Perk 2</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 15</p>
     <p><b>Effect</b>: Unlocks Titan Lineage Challenge.</p>
-    <p><b>Challenge</b>: 25K mana per second as pure Titan. (so no Dragon Trade Treaty)</p>
+    <p><b>Challenge</b>: 25K mana per second as pure Titan (so no Dragon Trade Treaty).</p>
     <p><b>Effect</b>: Unlocks Faction spell. (Lightning Strike)</p>
     <br/>
     <p><b>Level 20</b></p>
@@ -456,14 +456,14 @@
     <H6 id="Faceless">Faceless</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessLineage.png" align="middle"><b> Faceless Lineage</b></p>
     <p><b>Cost</b>: 400 Fairy and 400 Undead Royal Exchanges</p>
-    <p><b>Effect</b>: Increase the duration of all spells based on lineage level</p>
+    <p><b>Effect</b>: Increase the duration of all spells based on lineage level.</p>
     <p><b>Formula</b>: (x ^ 2)%, where x is lineage level.</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk1.png" align="middle"><b> Faceless Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5</p>
     <p><b>Effect</b>: Faceless Bloodline counts total mana produced (This R) and increases mana per second based on the amount of assistants you own.</p>
-    <p><b>Formula</b>: (0.95 * x ^ 0.95), where x is assistants you own</p>
+    <p><b>Formula</b>: (0.95 * x ^ 0.95), where x is assistants you own.</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x50 more Fairy and Undead Faction Coin find chance.</p>
@@ -478,7 +478,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk3.png" align="middle"><b> Faceless Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: 5% more assistant production per 1k Unique Buildings. (Does not suffer from Ascension penalties)</p>
+    <p><b>Effect</b>: 5% more assistant production per 1k Unique Buildings (Does not suffer from Ascension penalties).</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png" align="middle"> <b>Faceless Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.</p>
@@ -504,7 +504,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk1.png" align="middle"><b> Dwarven Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5</p>
     <p><b>Effect</b>: Dwarven Bloodline increases Faction Coin find chance based on total time spent as Good. (1 day of Good = 19,520%).</p>
-    <p><b>Formula</b>: (50 * x ^ 0.75) where x is seconds of Good alignment (this R)</p>
+    <p><b>Formula</b>: (50 * x ^ 0.75) where x is seconds of Good alignment (this R).</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Dwarven Faction Coin find chance.</p>
@@ -533,7 +533,7 @@
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarven Perk 5</b></p>
     <p><b>Requirements</b>: R130, Lineage Level 45</p>
-    <p><b>Effect</b>: Buildings count 75% more..</p>
+    <p><b>Effect</b>: Buildings count 75% more.</p>
     <hr>
     <H6 id="Drow">Drow</h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowLineage.png" align="middle"><b> Drow Lineage</b></p>
@@ -598,7 +598,7 @@
     <br/>
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk3.png" alt="DragonPerk3" align="middle"><b> Dragon Perk 3</b></p>
-    <p><b>Requirement</b>: Reach Lineage Level 20.</p>
+    <p><b>Requirement</b>: Reach Lineage Level 20</p>
     <p><b>Effect</b>: Maximum mana increased by 1.25 for every 2 Unique Buildings.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png" align="middle"> <b>Dragon Grand Champion Trophy</b></p>
@@ -637,7 +637,7 @@
     <p><b>Requirements</b>: Reach Lineage Level 15</p>
     <p><b>Effect</b>: Unlocks Archon Lineage Challenge.</p>
     <p><b>Challenge</b>: Have at least 30 billion (3e10) mana regeneration within 45 seconds of a new run.</p>
-    <p><b>Effect</b>: Unlocks Faction spell. (Precognition).</p>
+    <p><b>Effect</b>: Unlocks Faction spell. (Precognition)</p>
     <br/>
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk3.png" align="middle"> Archon Perk 3</b></p>
