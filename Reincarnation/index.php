@@ -158,8 +158,8 @@
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],
 				[ 150, '#R150CTABoost', false, 0
-                , function(rei) {return rei;}
-                , function(rei, bonus) {return 'Unique Buildings count ' + bonus + '% more for Call to Arms purposes.';}
+                , function(rei) {return rei + 1;}
+                , function(rei, bonus) {return 'Unique Buildings count ' + bonus + ' times more for Call to Arms purposes.';}
                 ]				
             ];
             function CalRBen() {
@@ -410,13 +410,14 @@
                 <p><b>R48-R65</b>: Dragon Challenges</p>
                 <p><b>R60</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
-                <p><b>R100</b>: Second Ascension, New Alignments (Mercenary Removed)</p>
+                <p><b>R100</b>: Second Ascension, New Alignments)</p>
                 <p><b>R111</b>: Base Union</p>
                 <p><b>R116</b>: Prestige Factions Reintroduced</p>
                 <p><b>R120</b>: A2 Spells Tier 2</p>
                 <p><b>R125</b>: Archon, Djinn, and Makers (Elite Factions)</p>
-                <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
+                <p><b>R130</b>: Elite Unions and Lineages</p>
                 <p><b>R135-R153</b>: Elite Challenges</p>
+				<p><b>R160</b>: Third Ascension, Research budgets</p>
                 <p><b>R160-R170</b>: Mercenary Reintroduced</p>
                 <p><b>R175</b>: Forbidden Research</p>
 				<p><b>R190-R206</b>: Mercenary Challenges</p>
