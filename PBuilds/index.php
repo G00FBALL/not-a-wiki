@@ -136,7 +136,7 @@
                     <p><b>Range</b>: 1e93 (1 Tg) Gems - 1e144 (1 Spqag) Gems</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D245">
+                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A495,A545,W150,W290,W320,W330,W400,C250,C330,D1">
                     </p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
@@ -145,7 +145,7 @@
 					</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400,C250,C330,D245">
+                        <input type="text" value="S135,S150,S215,S330,S500,C120,C150,C400,C500,C520,D55,D290,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A400,A545,W150,W290,W320,W330,W400,C250,C330,D1">
 						<b>2000+ Excavations</b>
 					</p>
                     <p>
@@ -159,8 +159,8 @@
                     <p>E80,E150,E200,E330,E410,</p>
                     <p>A105,A120,A150,A495,A545,</p>
                     <p>W150,W290,W320,W330,W400</p>
-                    <p><b>Note</b>: After buying Dwarven Horns use also C250,C330,D245.</p>
-                    <p><b>Note</b>: Swap D245 with D480 if buffed.</p>
+                    <p><b>Note</b>: After buying Dwarven Horns use also C250,C330,D1.</p>
+                    <p><b>Note</b>: Swap D1 with D480 if buffed.</p>
                     <p><b>Note</b>: Swap A495 with A400 if high excavations (~2000+ or so).</p>
 
                 </div>
