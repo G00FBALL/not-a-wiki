@@ -46,6 +46,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R7+ <font color="DarkRed">Evil</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: ?</p>
+					<p><b>Requirement</b>: Lucifer secret trophy</p>
 					<p><b>Alignment</b>: Evil</p>
 					<p><b>Bloodline</b>: Elf</p>
 					<p>
@@ -60,7 +61,8 @@
 					<p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
-					<p><b>Instructions</b>: Don't cast Blood Frenzy.</p>
+					<p><b>Notes</b>: Do not buy the upgrade available at 1750 Farms (Side Orchard) until you can buy the one at 1750 Orcish Arenas (Larger Gallery). Same at 2000 Farms.</p>
+					<p><b>Instructions</b>: Don't cast Blood Frenzy, as it has no effect on your production.</p>
 					<p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
 				</div>
 			</div>
