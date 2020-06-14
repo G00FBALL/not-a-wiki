@@ -19,7 +19,7 @@
         <p><b>Production</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangels (R40-R46) + Stage 4 Unlock<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangels (R40-R46) + Stage 1, 4 Unlock<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4</p>
@@ -70,22 +70,20 @@
         <p><b>Dragon Unlock</b></p>
         <div class="category">
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Cyden's unnecessarily complicated guide to a profitable Dragon unlock</b></a>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Overview & Notes on Dragon unlock</b></a>
                 </p>
                 <div class="autohide">
-                    <p><b>Purpose</b>: Getting dragon while: maximizing Dwangel prod; unlock D480 and give you a headstart for Equality, D525 and W525</p>
+                    <p><b>Overview</b>: After excavating the quest artifact "Spiky Rough Egg", Dragon Unlock is divided into 4 parts commonly refered to as "Stages". Each stages come with a compulsory 12 hours wait, meaning that Dragon Unlock is guaranteed to last at least 2 real time days</p>
                     <p><b>Stage 0</b>: Excavate "Spiky Rough Egg"</p>
                     <p><b>Requirement</b>: R46+, 1500+ Excavations (Chance 2%)</p>
                     <br/>
                     <p><b>Stage 1</b>: Hatch!</p>
                     <p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the egg</p>
                     <p><b>Cost</b>: 1e64 (10 Vg) coins, 1e7 (10 M) of each FC</p>
-                    <p>No specific strategy here, you just need to wait. Try getting more gems with Druidline Dwangel.</p>
                     <br/>
                     <p><b>Stage 2</b>: Drakeling</p>
                     <p><b>Requirement</b>: Hatch!, 12 hours of Hellfire Blast (start counting AFTER you buy Hatch!)</p>
                     <p><b>Cost</b>: 1e67 (10 Uvg) coins, 1e8 (100 M) of each FC</p>
-                    <p>Since patch 3.5, S400 buffing (for stage 4) is now unneeded due to dwangel's natural high mana. So, the best course of action from here on would be to gather God's Hand activity time (for D175) and neutral/evil playtime.</p>
                     <br/>
                     <p><b>Stage 3</b>: Dragon (nope, you aren't getting dragon here, not yet)</p>
                     <p><b>Requirement</b>: Drakeling, 12 hours since buying "Drakeling", 3750 Fairy assistants</p>
@@ -94,44 +92,30 @@
                     <p><b>Stage 4</b>: Elder Dragon</p>
                     <p><b>Requirement</b>: Dragon, 12 hours since buying "Dragon", 50000 max mana</p>
                     <p><b>Cost</b>: 1e73 (10 Tvg) coins, 1e10 (10 B) of each FC</p>
-                    <p>Extremely trivial with the Druidline Dwangel build at e30 gems, this is merely a waiting game.</p>
+		    <br/>
+                    <p><b>Notes</b>: Coupled with the estimated time to reach 1e30 (1 No) coins, R46 is estimated to take you at least 2d 16h in total. And since patch 3.8.0.0, time requirement for tiering spells has been greatly shortened, thus I (Cyden) recommend that you tier T3 Angel spells (spells that are visible when you play as Angel) (taking 1d 16h in total) and T2 Demon spells (taking 20h) throughout the R, for the most efficient use out of your time.</p>
                     <br/>
-                    <p>Congratulation, you have permanently unlocked the Dragon Faction!</p>
                 </div>
             </div>
             <br/>
-            <p><b>Stage 2</b>:Choose 1 of these two builds below</p>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline N-Merc Stage 2 unlock (option 1)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline Dromon (Dragon Stage 2 unlock)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
-                    <p><b>Faction</b>: Neutral Mercenary</p>
+                    <p><b>Faction</b>: Demon</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="FR1,FR9,AN3,AN5,AN8,DD4,DD6,DD8,FC2,FC5,FC7,DN2,SP:God's Hand,SP:Hellfire Blast">
+                        <input type="text" value="S30,S105,S200,S400,S500,C250,C305,C330,C340,C400,D200,D250,D290,D330,D560,E135,E145,E230,E250,E320,A120,A250,A270,A400,A545,W120,W135,W175,W200,W205,W250,W400,W520">
                     </p>
-                    <p>FR1,FR9,AN3,AN5,AN8,DD4,DD6,DD8,FC2,FC5,FC7,DN2,</p>
-                    <p>SP:God's Hand,SP:Hellfire Blast</p>
-
+                    <p>S30,S105,S200,S400,S500,</p>
+                    <p>C250,C305,C330,C340,C400,</p>
+                    <p>D200,D250,D290,D330,D560,</p>
+                    <p>E135,E145,E230,E250,E320,</p>
+                    <p>A120,A250,A270,A400,A545,</p>
+                    <p>W120,W135,W175,W200,W205,W250,W400,W520</p>
                 </div>
             </div>
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline E-Merc Stage 2 unlock (option 2)<font color="DarkRed"> Evil</font></a></b></p>
-                <div class="autohide">
-                    <p><b>Author</b>: Cyden</p>
-                    <p><b>Faction</b>: Evil Mercenary</p>
-                    <p><b>Bloodline</b>: Druid</p>
-                    <p>
-                        <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="FR9,AN3,AN5,AN6,AN8,UD3,UD5,DM8,DD6,FC7,DN2,DW2,SP:God's Hand,SP:Hellfire Blast">
-                    </p>
-                    <p>FR9,AN3,AN5,AN6,AN8,UD3,UD5,DM8,DD6,FC7,DN2,DW2,</p>
-                    <p>SP:God's Hand,SP:Hellfire Blast</p>
-                </div>
-            </div>
-            <p><b>Notes</b>: For both builds, only cast GH and HfB (gold/bronze)</p>
-            <p><b>Notes</b>: The build itself doesn't matter much, since you'll have way enough mana anyway</p>
             <br/>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline Dwairy Stage 3 unlock<font color="Blue"> Good</font></a></b></p>
@@ -158,10 +142,10 @@
                     <p>W120,W150,W180,W320,W400</p>
                     <p>Notes: Swap A150->A330 if higher</p>
                     <p><b>Notes</b>: Gets to 3750 assistants instantly without Sun Force Assistants</p>
-                    <p><b>Notes</b>: Estimated time to 1e70 coins: 2.5-3 hours (at 1e29) or 30 minutes (at 1e30)</p>
+                    <p><b>Notes</b>: Estimated time to 1e70 coins: 15 minutes (at 1e29) or 5-10 minutes (at 1e30)</p>
                 </div>
             </div>
-            <p>Notice how the Stage 3 build takes much less time than 12 hour? You still do need to wait 12h in this stage though, so that means before you attempt stage 3, you can go back to stage 2 and do the other build that you didn't choose before and do that for the extra equality & GH time. If you don't need/ don't bother with those, use Druidline Dwangel to keep gaining gems.</p>
+		<p><b>Notes</b>: Keep on using the Stage 2 (Demon) build until you have an activity time of 20 hours on all of your demon spells, then spend the rest of the time (until 10-15 minutes before finishing Stage 3) as Dwangel to continute build up spell time. Before going into R47 make sure you have actually unlocked the mentioned tiers by looking at the "Arcane Brilliance" spell trophy.</p>
         </div>
     </div>
     <?php include "../scripts/footer.html"; ?>
