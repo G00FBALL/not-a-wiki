@@ -572,7 +572,7 @@
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
                 <p><b>Faction</b>: Good/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
-				<p><b>D5875</b>: Dragon</p>
+				<p><b>A2950</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -586,7 +586,7 @@
                 <p>E135,E3300,</p>
                 <p>A120,A2950,</p>
                 <p>W400</p>
-				<p><b>Notes</b>: Do **not** buy Art of the Crow upgrade.</p>
+				<p><b>Notes</b>: Do <b>not</b> buy Art of the Crow upgrade.</p>
 				<p><b>Notes</b>: Set up the build, when ready, disable all spells and then cast Share Benefits tiers one by one for the unlock. Cast Fairy Chanting as well if assistant count is too low.</p>
             </div>
         </div>
