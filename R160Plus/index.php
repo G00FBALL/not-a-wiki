@@ -565,6 +565,31 @@
                 <p>F5500</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 3</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+                <p><b>Faction</b>: Good/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Dwarf</p>
+				<p><b>D5875</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR7,AN5,AN12,TT3,DD6,DN2,DW12,AR10,DJ3,SP:Fairy Chanting,SP:Infinite Spiral,UB:High Bastion,S500,S1275,C5875,D275,D290,E135,E3300,A120,A2950,W400">
+				</p>
+                <p>FR7,AN5,AN12,TT3,DD6,DN2,DW12,AR10,DJ3,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:High Bastion,</p>
+                <p>S500,S1275,</p>
+                <p>C5875,</p>
+                <p>D275,D290,</p>
+                <p>E135,E3300,</p>
+                <p>A120,A2950,</p>
+                <p>W400</p>
+				<p><b>Notes</b>: Do **not** buy Art of the Crow upgrade.</p>
+				<p><b>Notes</b>: Set up the build, when ready, disable all spells and then cast Share Benefits tiers one by one for the unlock. Cast Fairy Chanting as well if assistant count is too low.</p>
+            </div>
+        </div>
     </div>
 	<br/>
     <p><b>Lineage Builds</b></p>
