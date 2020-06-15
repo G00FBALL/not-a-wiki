@@ -142,7 +142,7 @@
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
-				<p><b>MCC4 Union(R202+)</b>: Archon</p>
+				<p><b>MCC4 Union (R202+)</b>: Archon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,EL11,AN5,GB4,GB7,TT3,TT10,FC7,DN2,DW12,DG5,AR2,AR5,AR10,DJ7,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DM,S5875,S200,S330,S500,C5625,C175,C250,C340,C590,D200,D290,D1375,D5125,E3300,E1425,E135,E145,E230,E290,E1325,A120,A270,A305,A1200,A1500,A2950,W175,W275,W400,W5125,F5500">
@@ -249,7 +249,7 @@
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>D5875 (Until MCC1)</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
-				<p><b>MCC4 Union(R202+)</b>: Demon</p>
+				<p><b>MCC4 Union (R202+)</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5875,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W205,W275,W400,W5625,W1275,F5250">
@@ -317,7 +317,7 @@
 				<p><b>A2950 (After MCC1 until MCC4)</b>: Djinn</p>
                 <p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
-				<p><b>MCC4 Union(R202+)</b>: Demon</p>
+				<p><b>MCC4 Union (R202+)</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN8,GB4,GB7,UD10,TT3,DD11,DN2,DW6,DW12,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875,S200,S500,S400,S330,C5625,C175,C340,C250,C400,C590,D5875,D200,D290,D330,D275,E135,E145,E230,E290,E320,E460,E495,E3300,E1325,E400,A30,A120,A250,A270,A305,A545,A1500,A2950,W5625,W175,W205,W275,W400,W525,F5500">
@@ -401,7 +401,7 @@
                 <p><b>A2950</b>: Fairy</p>
 				<p><b>A2950 (MCC5)</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Dragon</p>
-				<p><b>MCC4 Union(R202+)</b>: Titan</p>
+				<p><b>MCC4 Union (R202+)</b>: Titan</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,S30,S150,S200,S215,S330,S400,S5875,C175,C250,C340,C400,C590,C1300,C5875,D200,D275,D290,D330,D1375,E135,E230,E320,E1425,E5625,A120,A270,A2950,A5375,W275,W400,W1275,W1375,W1400,W5125,F6000">
