@@ -338,6 +338,7 @@
                 <p>F5500</p>
                 <p><b>Notes</b>: Buff spells cast, use excavation resets to buff C5625, build scales on time this R.</p>
 				<p><b>Notes</b>: Recommended to buff F6000 before each run.</p>
+				<p><b>Notes</b>: Target Catalyst at Gem Grinder and (Mercenary Challenge 2) Chaos Madness at Dragon lineage for maximum benefits.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -538,6 +539,31 @@
 				<p><b>Notes</b>: Remember to not buy any non-Order faction upgrades (Ex: Fairy heritage).</p>
 				<p><b>Notes</b>: Doing some excavation resets during the run is recommended.</p>
 				<p><b>Notes</b>: Estimated time to completion is 15 minutes or less.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 2</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
+                <p><b>Faction</b>: Good/Chaos Mercenary</p>
+                <p><b>Bloodline</b>: Faceless</p>
+				<p><b>D5875</b>: Djinn</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR1,FR7,EL3,EL4,EL7,AN12,GB4,TT6,DN2,DN12,DW12,DG7,AR10,DJ3,DJ9,MK5,SP:Fairy Chanting,SP:Hellfire Blast,UB:Swarming Tower,UNN:DN,S400,S1275,C5875,D5875,E50,E135,E3300,A5625,W275,W400,W5125,F5500">
+				</p>
+                <p>FR1,FR7,EL3,EL4,EL7,AN12,GB4,TT6,DN2,DN12,DW12,DG7,AR10,DJ3,DJ9,MK5,</p>
+                <p>SP:Fairy Chanting,SP:Hellfire Blast,UB:Swarming Tower,UNN:DN,</p>
+                <p>S400,S1275,</p>
+                <p>C5875,</p>
+                <p>D5875,</p>
+                <p>E50,E135,E3300,</p>
+                <p>A5625,</p>
+                <p>W275,W400,W5125,</p>
+                <p>F5500</p>
+				<p><b>Notes</b>: Run Max Assistant buff build for a short time before using this build.</p>
             </div>
         </div>
     </div>
