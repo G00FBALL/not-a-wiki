@@ -607,6 +607,16 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
 				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<b>Dragon Lineage</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Fairy Chanting,UB:Dragon Pasture,UNN:DG,S200,S5625,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<b>Makers Lineage</b>
+				</p>
                 <p>EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,</p>
                 <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,</p>
                 <p>S200,S5625,</p>
