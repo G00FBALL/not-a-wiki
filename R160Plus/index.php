@@ -549,7 +549,7 @@
                 <p><b>Faction</b>: Good/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Faceless</p>
 				<p><b>D5875</b>: Djinn</p>
-                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="FR1,FR7,EL3,EL4,EL7,AN12,GB4,TT6,DN2,DN12,DW12,DG7,AR10,DJ3,DJ9,MK5,SP:Fairy Chanting,SP:Hellfire Blast,UB:Swarming Tower,UNN:DN,S400,S1275,C5875,D5875,E50,E135,E3300,A5625,W275,W400,W5125,F5500">
@@ -563,7 +563,6 @@
                 <p>A5625,</p>
                 <p>W275,W400,W5125,</p>
                 <p>F5500</p>
-				<p><b>Notes</b>: Run Max Assistant buff build for a short time before using this build.</p>
             </div>
         </div>
     </div>
