@@ -93,7 +93,7 @@
                     <p><b>Requirement</b>: Dragon, 12 hours since buying "Dragon", 50000 max mana</p>
                     <p><b>Cost</b>: 1e73 (10 Tvg) coins, 1e10 (10 B) of each FC</p>
 		    <br/>
-                    <p><b>Notes</b>: Coupled with the estimated time to reach 1e30 (1 No) coins, R46 is estimated to take you at least 2d 16h in total. And since patch 3.8.0.0, time requirement for tiering spells has been greatly shortened, thus I (Cyden) recommend that you tier T3 Angel spells (spells that are visible when you play as Angel) (taking 1d 16h in total) and T2 Demon spells (taking 20h) throughout the R, for the most efficient use out of your time.</p>
+                    <p><b>Notes</b>: Coupled with the estimated time to reach 1e30 (1 No) gems, R46 is estimated to take you around 2d 12h in total. And since patch 3.8.0.0, time requirement for tiering spells has been greatly shortened, thus I (Cyden) recommend that you tier T3 Angel spells (spells that are visible when you play as Angel) (taking 1d 16h in total) and T2 Demon spells (taking 20h) throughout the R, for the most efficient use of your time.</p>
                     <br/>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                     <p><b>Notes</b>: Estimated time to 1e70 coins: 15 minutes (at 1e29) or 5-10 minutes (at 1e30)</p>
                 </div>
             </div>
-		<p><b>Notes</b>: Keep on using the Stage 2 (Demon) build until you have an activity time of 20 hours on all of your demon spells, then spend the rest of the time (until 10-15 minutes before finishing Stage 3) as Dwangel to continute build up spell time. Before going into R47 make sure you have actually unlocked the mentioned tiers by looking at the "Arcane Brilliance" spell trophy.</p>
+		<p><b>Notes</b>: Keep on using the Stage 2 (Demon) build until you have an activity time of 20 hours on all of your demon spells, then spend the rest of the time (until 10-15 minutes before finishing Stage 3) as Dwangel to continute build up spell time. Before going into R47 make sure you have actually unlocked the mentioned tiers by looking at the "highest tier unlocked" in the respective spell's tooltip.</p>
         </div>
     </div>
     <?php include "../scripts/footer.html"; ?>
