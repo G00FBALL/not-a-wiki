@@ -673,7 +673,8 @@
                 <p>F5250</p>
 				<p><b>Notes</b>: Do Fairy Lineage first.</p>
                 <p><b>Notes</b>: Buff Max Assistants and Excavation resets.</p>
-				<p><b>Notes</b>: For Dragon and Makers Lineages, swap Dragon's Breath and Infinite Spiral with Fairy Chanting.</b>
+				<p><b>Notes</b>: For Dragon and Makers Lineages, swap Dragon's Breath and Infinite Spiral with Fairy Chanting.</p>
+				<p><b>Notes</b>: L75 takes about 1 hour with 1e29 (100 Oc) Max Assistants and 50 Excavation Resets.</p>
             </div>
         </div>
     </div>
