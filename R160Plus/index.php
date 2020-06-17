@@ -285,7 +285,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Spell casts, Mana Produced</b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Spell casts, Mana Produced</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
@@ -352,7 +352,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Max Assistants</b></a><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
@@ -408,6 +408,65 @@
                 <p>F5750</p>
 				<p><b>Notes</b>: Buffing D5625 is recommended.</p>
 				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 4 hours (with 5 hours D5625).</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R198 Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e75 (1 Qavg) Gems+</p>
+                <p><b>Faction</b>: Evil/Chaos Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Dragon</p>
+                <p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL11,AN5,AN8,AN12,GB4,GB7,UD10,DM9,TT3,DD6,DN2,DW12,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,D5875,S200,S400,S5875,S30,S105,S135,S150,S180,S215,S270,S330,C5125,C175,C340,C400,C25,C80,C105,C120,C135,C150,C250,C305,C590,D290,D330,D200,D25,D55,D135,D150,D245,D275,D320,E5125,E135,E230,E290,E320,E25,E30,E80,E145,E150,E200,E275,E350,E480,A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,W5125,W1275,W275,W400,W25,W525,W205,F5500">
+				</p>
+                <p>EL3,EL11,AN5,AN8,AN12,GB4,GB7,UD10,DM9,TT3,DD6,DN2,DW12,DJ3,DJ5,DJ7,</p>
+				<p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,</p>
+                <p>S200,S400,S5875,S30,S105,S135,S150,S180,S215,S270,S330,</p>
+                <p>C5125,C175,C340,C400,C25,C80,C105,C120,C135,C150,C250,C305,C590,</p>
+                <p>D5875,D290,D330,D200,D25,D55,D135,D150,D245,D275,D320,</p>
+                <p>E5125,E135,E230,E290,E320,E25,E30,E80,E145,E150,E200,E275,E350,E480,</p>
+                <p>A270,A305,A2950,A25,A30,A55,A105,A120,A135,A150,A175,A200,A250,A300,A330,A375,A480,</p>
+                <p>W5125,W1275,W275,W400,W25,W525,W205,</p>
+                <p>F5500</p>
+				<p><b>Notes</b>: Buffing W275, S400 is important.</p>
+				<p><b>Notes</b>: Maelstrom should buff HoL with assistants.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R198+ Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+				<p><b>Requirement</b>: Mercenary Challenge 3</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p><b>MCC4 Union (R202+)</b>: Makers</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+					<b>MCC4 completed (R202+)</b>
+				</p>
+                <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DG,</p>
+                <p>S30,S50,S330,S400,S5125,</p>
+                <p>C25,C80,C175,C250,C340,C5125,</p>
+                <p>D25,D55,D200,D275,D290,D5125,</p>
+                <p>E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,</p>
+                <p>A10,A105,A150,A175,A250,A305,A545,A1500,A2950,</p>
+                <p>W25,W275,W525,W5125,</p>
+                <p>F5750</p>
+				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
             </div>
         </div>
 		<div class="shelementwhole">
