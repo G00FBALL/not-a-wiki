@@ -699,7 +699,7 @@
     <p><b>Lineage Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Lineage pusher</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R198 Lineage leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
@@ -709,22 +709,22 @@
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C175,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C175,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
 					<b>Dragon Lineage</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Fairy Chanting,UB:Dragon Pasture,UNN:DG,S200,S5625,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DG,S200,S5625,C175,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E3300,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
 					<b>Makers Lineage</b>
 				</p>
                 <p>EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,</p>
                 <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,</p>
                 <p>S200,S5625,</p>
-                <p>C400,C5375,</p>
+                <p>C175,C400,C5375,</p>
                 <p>D200,D275,D290,D330,D3350,</p>
                 <p>E135,E145,E320,E3300,</p>
                 <p>A30,A120,A250,A270,A305,A545,A1500,A2950,</p>
@@ -732,8 +732,49 @@
                 <p>F5250</p>
 				<p><b>Notes</b>: Do Fairy Lineage first.</p>
                 <p><b>Notes</b>: Buff Max Assistants and Excavation resets.</p>
-				<p><b>Notes</b>: For Dragon and Makers Lineages, swap Dragon's Breath and Infinite Spiral with Fairy Chanting.</p>
+				<p><b>Notes</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</p>
+				<p><b>Notes</b>: For Makers Lineage, swap Infinite Spiral with Precognition.</p>
 				<p><b>Notes</b>: L75 takes about 1 hour with 1e29 (100 Oc) Max Assistants and 50 Excavation Resets.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R198+ Lineage leveler</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e57 (1 Ocd) Gems+</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Any</p>
+                <p><b>A2950</b>: Elf</p>
+				<p><b>D5875</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C175,C400,C5375,D5875,E135,E145,E320,E5375,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,S200,S5625,C175,C400,C5375,D5875,E135,E145,E320,E5375,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<b>Dragon Lineage</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DG,S200,S5625,C175,C400,C5375,D200,D275,D290,D330,D3350,E135,E145,E320,E5375,A30,A120,A250,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W1400,F5250">
+					<b>Makers Lineage</b>
+				</p>
+                <p>EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,</p>
+                <p>S200,S5625,</p>
+                <p>C175,C400,C5375,</p>
+                <p>D5875,</p>
+                <p>E135,E145,E320,E5375,</p>
+                <p>A30,A120,A250,A270,A305,A545,A1500,A2950,</p>
+                <p>W275,W400,W1275,W1375,W1400,</p>
+                <p>F5250</p>
+				<p><b>Notes</b>: Do Fairy Lineage first.</p>
+                <p><b>Notes</b>: Buff Max Assistants, Spells, Excavation resets and F6000..</p>
+				<p><b>Notes</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</p>
+				<p><b>Notes</b>: For Makers Lineage, swap Infinite Spiral with Precognition and D5875 with D200,D275,D290,D330,D3350.</p>
+				<p><b>Notes</b>: L90 takes estimated 12-24 hours with 1e34 (100 Dc) Max Assistants, 1e30 (1 No) Spells, 100 Excavation Resets and double F6000 buff run (To buff Future Linkin).</p>
             </div>
         </div>
     </div>
