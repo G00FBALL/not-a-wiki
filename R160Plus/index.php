@@ -33,7 +33,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Reunion (R171-R175)</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Reunion (R171-R175)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
@@ -57,7 +57,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Forbidden Grounds (R175-R190)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Forbidden Grounds (R175-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range (R175-R180)</b>: 0 - 1e70 (10 Dvg) Gems</p>
@@ -82,7 +82,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Artifactory (R181-R190)</a></b></a><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Artifactory (R181-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rellikrellik</p>
                 <p><b>Range</b>: 1e50 (100 Qid) - 1e75 (1 Qavg) Gems</p>
@@ -107,7 +107,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Eternal Tax (R182-R190)</a></b></a><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Eternal Tax (R182-R190)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e75 (1 Qavg) Gems+</p>
@@ -136,7 +136,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Order of Knowledge (R190+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
-                <p><b>Range</b>: 0 Gems - 1e101 (100 Dtg) Gems</p>
+                <p><b>Range</b>: 0 Gems+</p>
 				<p><b>Requirement</b>: Mercenary Challenge 1</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
@@ -162,6 +162,51 @@
                 <p>W175,W275,W400,W5125,</p>
                 <p>F5500</p>
 				<p><b>Notes</b>: Benefits from buffing assistants and mana produced.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Descent into Madness (R198+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+				<p><b>Requirement</b>: Mercenary Challenge 3</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>A2950</b>: Elf</p>
+				<p><b>A2950 (30 minutes+ run)</b>: Makers</p>
+				<p><b>D5875</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p><b>MCC4 Union (R202+)</b>: Makers</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+					<b>30 minutes+ run</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+					<b>MCC4 completed (R202+)</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+					<b>MCC4 completed (R202+), 30 minutes+ run</b>
+				</p>
+                <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,</p>
+                <p>S30,S50,S330,S400,S5125,</p>
+                <p>C25,C80,C175,C250,C340,C5125,</p>
+                <p>D25,D55,D5875,</p>
+                <p>E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,</p>
+                <p>A10,A105,A150,A175,A250,A305,A545,A1500,A2950,</p>
+                <p>W25,W275,W525,W5125,</p>
+                <p>F5750</p>
+				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
+				<p><b>Notes</b>: Swap A2950 Elf with Makers and D5875 with D200,D275,D290,D5125 at 30 minutes+ runs.</p>
             </div>
         </div>
     </div>
