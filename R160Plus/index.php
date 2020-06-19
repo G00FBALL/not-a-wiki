@@ -715,8 +715,27 @@
                 <p>A305,A5625,</p>
                 <p>W275,W1375,</p>
                 <p>F5750</p>
-				<p><b>Notes</b>: Requires a short max assistants and spells cast buffing.</p>
+				<p><b>Notes</b>: Requires a short Max Assistants and Spells Cast buffing.</p>
 				<p><b>Notes</b>: Dont buy any upgrade that gives assistants other than Assistant Squasher. Disable Infinite Spiral to complete the challenge.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5</b></a><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e110 (100 Qitg) Gems+</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR1,EL4,AN12,GB12,UD10,DM9,TT3,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW">
+				</p>
+                <p>FR1,EL4,AN12,GB12,UD10,DM9,TT3,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW</p>
+				<p><b>Notes</b>: Buff Excavation Resets (?), Assistants (1e34 (10 Dc)) and F6000.</p>
+				<p><b>Notes</b>: Only buy the Unique Building Contracts <b>After</b> getting as many of these buildings as possible.</p>
+				<p><b>Notes</b>: Estimated time is 5-10 minutes.</p>
             </div>
         </div>
     </div>
