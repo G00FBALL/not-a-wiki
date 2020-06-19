@@ -733,7 +733,7 @@
 				</p>
                 <p>FR1,EL4,AN12,GB12,UD10,DM9,TT3,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
                 <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,UB:Flesh Workshop</p>
-				<p><b>Notes</b>: Buy the Unique Building Contracts Evil Fortresses (Tyrant Garrison) and Orcish Arenas (Flesh Workshops) <b>After</b> getting as many of these buildings as possible.</p>
+				<p><b>Notes</b>: Buy the Unique Buildings (Tyrant Garrison (Evil Fortresses) and Flesh Workshop (Orcish Arenas)) <b>After</b> getting as many of these buildings as possible.</p>
 				<p><b>Notes</b>: Buff Excavation Resets (?), Assistants (1e34 (10 Dc)) and F6000.</p>
 				<p><b>Notes</b>: Estimated time is 5-10 minutes.</p>
             </div>
