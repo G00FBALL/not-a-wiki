@@ -139,7 +139,6 @@
 				<p>W225,W560,W1375</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (Reimport build)</p>
 				<p><b>Notes</b>: Swap W180 with W3150 at R150+.</p>
-				<p><b>Notes</b>: Swap W1375 with W400 if AN11 is buffed.</p>
 				<p><b>Notes</b>: Use Fairy Set at R153+ with all Challenge 5s completed.</p>
 			</div>
 		</div>

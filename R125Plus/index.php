@@ -428,8 +428,6 @@
 				<p>A50,A400,A495,</p>
 				<p>W225,W560,W1375</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (Reimport build)</p>
-				<p><b>Notes</b>: Swap W1375 with W400 if an11 is buffed.</p>
-				<p><b>Notes</b>: Swap Dwarf set with Elf set at higher gems if ~2k%+?</p>
 			</div>
 		</div>
 	</div>
