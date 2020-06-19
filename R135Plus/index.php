@@ -374,7 +374,7 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Titans (Archon Challenge 3)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Titans (Archon Challenge 3)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad and Kiluh</p>
 						<p><b>Requirements</b>: 50+ Excavation Resets</p>
@@ -833,7 +833,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels (Total Excavations/Excavation resets build)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (Total Excavations/Excavation resets build)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: AquaKnight</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>

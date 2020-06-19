@@ -174,7 +174,7 @@
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Elf</p>
 				<p><b>A2950 (30 minutes+ run)</b>: Makers</p>
-				<p><b>D5875</b>: Makers</p>
+				<p><b>D5875 (below 30 minutes runs)</b>: Makers</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p><b>MCC4 Union (R202+)</b>: Makers</p>
                 <p>
