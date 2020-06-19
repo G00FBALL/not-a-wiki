@@ -559,7 +559,7 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" align="middle"><b> Drow Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Increase Faction Coin find chance by 5% per 3000 unique buildings.</p>
+    <p><b>Effect</b>: Increase Faction Coin find chance multiplicatively by 5% per 3000 unique buildings.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png" align="middle"> <b>Drow Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.</p>
