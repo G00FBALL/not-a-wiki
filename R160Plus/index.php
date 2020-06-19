@@ -694,6 +694,31 @@
 				<p><b>Notes</b>: Set up the build, when ready, disable all spells and then cast Share Benefits tiers one by one for the unlock. Cast Fairy Chanting as well if assistant count is too low.</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 4</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+                <p><b>Faction</b>: Good/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Elf</p>
+                <p><b>Artifact Set</b>: Angel</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL7,EL11,AN6,AN11,GB4,DD3,DN2,DW6,AR4,AR8,AR10,MK1,SP:God's Hand,SP:Infinite Spiral,S400,S1275,S3200,C250,C400,D275,D5375,E135,E320,E3300,A305,A5625,W275,W1375,F5750">
+				</p>
+                <p>EL1,EL7,EL11,AN6,AN11,GB4,DD3,DN2,DW6,AR4,AR8,AR10,MK1,</p>
+                <p>SP:God's Hand,SP:Infinite Spiral,</p>
+                <p>S400,S1275,S3200,</p>
+                <p>C250,C400,</p>
+                <p>D275,D5375,</p>
+                <p>E135,E320,E3300,</p>
+                <p>A305,A5625,</p>
+                <p>W275,W1375,</p>
+                <p>F5750</p>
+				<p><b>Notes</b>: Requires a short max assistants and spells cast buffing.</p>
+				<p><b>Notes</b>: Dont buy any upgrade that gives assistants other than Assistant Squasher. Disable Infinite Spiral to complete the challenge.</p>
+            </div>
+        </div>
     </div>
 	<br/>
     <p><b>Lineage Builds</b></p>
