@@ -8,7 +8,6 @@
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
     <br/>
     <br/>
-    <p><b>Updated November 5th, 2019</b></p>
     <p>All builds come from the <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a></p>
     <p>All Obsolete builds moved to <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
     <br/>
@@ -99,7 +98,7 @@
             </div>
             <br/>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline Dromon (Dragon Stage 2 unlock)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline Dromon (Dragon Stage 2 unlock)<font color="darkred"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Faction</b>: Demon</p>
