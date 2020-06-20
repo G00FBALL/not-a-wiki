@@ -259,7 +259,7 @@
 	<p><b>Research Name</b>: Discovery</p>
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Factory artifact and upgrade</p>
 	<p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.</p>
-	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5), where x is excavations (This R) and y is excavation resets (This Game).</p>
+	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5), where x is excavation count and y is excavation resets (This Game).</p>
 	<hr>
     <p><b>C5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Genuineness</p>
