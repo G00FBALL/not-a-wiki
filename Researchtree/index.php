@@ -874,7 +874,7 @@
 	<p><b>Requirement</b>: Research Necromancy(S225) and Heirlooms(S500)(as drow)
 	<p><b>Cost</b>: 204.2 TSpq (2.042E224)
 	<p><b>Effect</b>: Increase mana regeneration based on the amount of trophies you unlocked.
-	<p><b>Formula</b>: (floor(0.7 * x) / 10), where x is the amount of Trophies Unlocked.
+	<p><b>Formula</b>: (floor(0.5 * x) / 10), where x is the amount of Trophies Unlocked.
 	" coords="388,621,436,671" shape="rect">
         <area research="D590 - For Angel,Dwarf
 	<p><b>Research Name</b>: Dispelling
