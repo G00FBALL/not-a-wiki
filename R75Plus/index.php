@@ -115,16 +115,16 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again Merc Research Unlock (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Lapare</p>
-				<p><b>Requirements</b>: Obsidian Shard</p>
+				<p><b>Author</b>: Lapare modified by Cyden</p>
+				<p><b>Requirements</b>: Obsidian Shard, Undead Lineage level 15+</p>
 				<p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Undead</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D250,D330,D1275,D2775,E135,E275,E320,E460,E590,E1425,A120,A270,A305,A545,A1325,A1500,W180,W250,W275,W400,W1275,W1375">
+					<input type="text" value="FR2,FR9,EL1,EL3,EL4,AN5,GB7,DD6,FC7,DW2,DW6,DG9,SP:Fairy Chanting,SP:Dragon's Breath,S200,S305,S400,S500,S1450,S1500,C250,C340,C400,C590,C1300,C1325,D25,D200,D250,D330,D1275,D2775,E135,E275,E320,E460,E590,E1425,A120,A270,A305,A545,A1325,A1500,W180,W250,W275,W400,W1275,W1375">
 				</p>
-				<p>FR9,EL1,EL3,AN5,GB7,DD6,FC7,DW2,DW6,DG3,DG4,DG9,</p>
+				<p>FR2,FR9,EL1,EL3,EL4,AN5,GB7,DD6,FC7,DW2,DW6,DG9,</p>
 				<p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
 				<p>S200,S305,S400,S500,S1450,S1500,</p>
 				<p>C250,C340,C400,C590,C1300,C1325,</p>
@@ -132,11 +132,14 @@
 				<p>E135,E275,E320,E460,E590,E1425,</p>
 				<p>A120,A270,A305,A545,A1325,A1500,</p>
 				<p>W180,W250,W275,W400,W1275,W1375</p>
-				<p><b>Notes</b>: Estimated 3-4 hours for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 afterwards.</p>
-				<p><b>Build has three stages:</b></p>
-				<p><b>1</b>: Gather Faction Coins for 400 undead Royal Exchanges. Cast Dragon's Breath, Fairy Chanting and Tax Collection only.</p>
-				<p><b>2</b>: Get Lineage and cast as many spell tiers as you can (put Fairy Chanting and Dragon's Breath on bronze, rest on silver) at once to maximize production.</p>
-				<p><b>3</b>: Get Secrets of the Warriors, load the research build, and cast all spells at once (as you will have enough max mana and mana regen to sustain them all) to get UL20 as fast as possible.</p>
+				<p><b>Notes</b>: Buff W275 before running this build.</p>
+				<p><b>Notes</b>: Estimated 30-50 minutes for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 afterwards.</p>
+				<p><b>Build has several stages:</b></p>
+				<p><b>1</b>: Gather faction coins for 400 Undead Exchanges and buy Undead Lineage. (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold only (Reverse casting Dragon's Breath to keep blue breath active helps, but not mandatory)).</p>
+				<p><b>2</b>: Buy Freemason's Hall (1e125 / 100 Qag) and Appraisal Vantage (1e130 / 10 DQag). (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold, rest on silver.)</p>
+				<p><b>3</b>: Buy all available tiers cheaper than 1e16 faction coins AND gather an additional 1e16 faction coins of each kind. (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold only).</p>
+				<p><b>4</b>: Buy Secrets of the Warrior. (Cast Fairy Chanting and Dragon's Breath (Aim for Red + Green breath) on bronze, Tax Collection on gold, rest on silver).</p>
+				<p><b>5</b>: Get Undead Lineage level 20 (Load the research build and cast all spells on bronze, Tax Collection on gold).</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
