@@ -524,6 +524,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Meta</p>
 				<p><b>Range</b>: ?</p>
+				<p><b>Requirement</b>: Archon Challenge 2 (For Faceless set buffing)</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Goblin</p>
 				<p><b>Artifact Set</b>: Faceless</p>
@@ -546,7 +547,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (R139+) (L45s)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Meta</p>
-				<p><b>Requirements</b>: Goblin Lineage L45</p>
+				<p><b>Requirements</b>: Makers Challenge 2, Goblin Lineage L45</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Goblin</p>
 				<p><b>Bloodline</b>: Any</p>
@@ -576,6 +577,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Meta</p>
 				<p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Goblin Lineage L45</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Drow</p>
 				<p><b>Artifact Set</b>: Faceless</p>

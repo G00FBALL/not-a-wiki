@@ -374,17 +374,23 @@
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless/Dragon/Goblin/Fairy</p>
                 <p><b>Artifact Set</b>: Elf</p>
+				<p><b>Artifact Set (Faceless Lineage)</b>: Faceless</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S400,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A495,A3400,W10,W560,W1375">
+                    <input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D150,D435,E25,E320,E410,A495,A3400,W10,W560,W1375">
 				</p>
-                <p>S175,S400,</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D3350,E25,E320,E410,A495,A3400,W10,W560,W1375">
+					<b>Faceless Lineage</b>
+				</p>
+                <p>S175,S3200,</p>
                 <p>C1,C225,C400,C405,C520,C590,</p>
-                <p>D50,D290,D435,</p>
+                <p>D50,D150,D435</p>
                 <p>E25,E320,E410,</p>
                 <p>A495,A3400,</p>
                 <p>W10,W560,W1375</p>
-                <p><b>Notes</b>: Buffing S400 is recommended.</p>
+				<p><b>Notes</b>: For Faceless Lineage, Swap D150 with D3350, and Elf set with Faceless set.</p>
             </div>
         </div>
     </div>
