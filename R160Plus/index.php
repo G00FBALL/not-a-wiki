@@ -515,11 +515,6 @@
                     <input type="text" value="FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,UNN:TT,S30,S150,S200,S215,S330,S400,S5875,C175,C250,C340,C400,C590,C1300,C5875,D200,D275,D290,D330,D1375,E135,E230,E320,E1425,E5625,A120,A270,A2950,A5375,W275,W400,W1275,W1375,W1400,W5125,F6000">
 					<b>Mercenary Challenge 4</b>
 				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,UNN:TT,S30,S150,S200,S215,S330,S400,S5875,C175,C250,C340,C400,C590,C1300,C5875,D200,D275,D290,D330,D1375,E135,E230,E320,E1425,E5625,E3300,A120,A270,A2950,A5375,W275,W400,W1275,W1375,W1400,W5125,F6000">
-					<b>Mercenary Challenge 5</b>
-				</p>
                 <p>FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,</p>
                 <p>SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,</p>
                 <p>S30,S150,S200,S215,S330,S400,S5875,</p>
@@ -529,7 +524,6 @@
                 <p>A120,A270,A2950,A5375,</p>
                 <p>W275,W400,W1275,W1375,W1400,W5125</p>
                 <p>F6000</p>
-				<p><b>Notes</b>: With Mercenary Challenge 5 completed, also select E3300.</p>
             </div>
         </div>
     </div>
