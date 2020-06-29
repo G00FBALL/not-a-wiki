@@ -6,6 +6,144 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
+<p><b>V3.8.1 June 29, 2020</b></p>
+<br>
+<p>Text inside the Mana Sphere has been reorganized for better visibility.</p>
+<br>
+<p><b>Secret Trophy Upgrades Costs changed</b></p>
+<p><b>Assistant Squasher</b>: <b>Old Cost</b> 1e17, <b>New Cost</b> 100</p>
+<p><b>Beard Carpet</b>: <b>Old Cost</b> 1e61, <b>New Cost</b> 3000</p>
+<p><b>Building Hater</b>: <b>Old Cost</b> 1e34, <b>New Cost</b> 1</p>
+<p><b>Faction Grinder</b>: <b>Old Cost</b> 6e27, <b>New Cost</b> 1e6</p>
+<p><b>Spellfury</b>: <b>Old Cost</b> 4e33, <b>New Cost</b> 4333</p>
+<p><b>Unitary</b>: <b>Old Cost</b> 1e7, <b>New Cost</b> 1111</p>
+<hr>
+<p><b>Faction Upgrades</b></p>
+<p><b>Fairy</b></p>
+<p><b>FR9</b> (Swarm of Fairies)</p>
+        <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
+        <p><b>Old Formula</b>: floor((1 + 4 * x) ^ 0.5 - 1) / 3, where x is the number of Farms, Inns, and Blacksmiths you own.</p>
+        <p><b>New Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
+<br/>
+<p><b>Angel</b></p>
+<p><b>AN1</b> (Holy Bells)</p>
+        <p><b>Effect</b>: Cathedrals also increase your mana regeneration rate.</p>
+        <p><b>Old Formula</b>: (x ^ 0.28), where x is the number of Cathedrals you own.</p>
+        <p><b>New Formula</b>: (x ^ 0.25), where x is the number of Cathedrals you own.</p>
+<br/>
+<p><b>AN4</b> (Guardian Angels)</p>
+        <p><b>Effect</b>: Royal Castles also increase your mana production rate.</p>
+        <p><b>Old Formula</b>: (x ^ 0.305), where x is the number of Royal Castles you own.</p>
+        <p><b>New Formula</b>: (x ^ 0.3), where x is the number of Royal Castles you own.</p>
+<br/>
+<p><b>AN7</b> (Magical Gates)</p>
+        <p><b>Effect</b>: Heaven's Gates also increase your mana production rate.</p>
+        <p><b>Old Formula</b>: (x ^ 0.33), where x is the number of Heaven's Gates you own.</p>
+        <p><b>New Formula</b>: (x ^ 0.35), where x is the number of Heaven's Gates you own.</p>
+<br/>
+<p><b>Demon</b></p>
+<p><b>DM7</b> (Infernal Magic)</p>
+        <p><b>Effect</b>: Hell Portals also increase your mana regeneration rate.</p>
+        <p><b>Old Formula</b>: (x ^ 0.325), where x is the number of Hell Portals you own.</p>
+        <p><b>New Formula</b>: (x ^ 0.35), where x is the number of Hell Portals you own.</p>
+<br/>
+<p><b>DM8</b> (Burning Legion)</p>
+        <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
+        <p><b>Old Formula</b>: (floor(1 + 2.5 * x -1) ^ 0.5), where x is the number of Hell Portals you own.</p>
+        <p><b>New Formula</b>: (x ^ 0.55), where x is the number of Hell Portals you own.</p>
+<br/>
+<p><b>Undead</b></p>
+<p><b>UD3</b> (Death Temples)</p>
+        <p><b>Effect</b>: Dark Temples also increase your mana production rate.</p>
+        <p><b>Old Formula</b>: (x ^ 0.28), where x is the number of Dark Temples you own.</p>
+        <p><b>New Formula</b>: (x ^ 0.3), where x is the number of Dark Temples you own.</p>
+<br/>
+<p><b>UD5</b> (Corpse Supply)</p>
+        <p><b>Effect</b>: You gain additional assistants based on the amount of Necropolises you own.</p>
+        <p><b>Old Formula</b>: floor(2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
+        <p><b>New Formula</b>: (2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
+<br/>
+<p><b>Faceless</b></p>
+<p><b>FC1</b> (Territorial Expanse)</p>
+        <p><b>Old Effect</b>: Chance to have a Labyrinth built for free each time you click the treasure chest. This chance is based on your income per second and the cost of the next Labyrinth. Labyrinth production is increased by 5000% per assistant you own.</p>
+        <p><b>New Effect</b>: Labyrinth production is increased by 5000% per assistant you own.</p>
+<br/>
+<p><b>Druid</b></p>
+<p><b>DD2</b> (Animal Companions)</p>
+        <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
+        <p><b>Old Formula</b>: 3 + floor(((1 + 12 * x) ^ 0.5 - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+        <p><b>New Formula</b>: (3 + 1.75 * x ^ 0.5 ), where x is your Playtime (This Game) stat in hours.</p>
+<hr>
+<p><b>Faction Set</b></p>
+<p><b>Faceless Set</b></p>
+         <p><b>Effect</b>: Gain assistants based on the highest amount of assistants you had in a previous game.(additively)</p>
+         <p><b>Old Formula</b>: (1.5 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
+         <p><b>New Formula</b>: (3 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
+<hr>
+<p><b>Event</b></p>
+<p><b>The Summer Event</b></p>
+<p><b>New Event Feat</b>: Check event page after event starts</p>
+<br/>
+<p><b>Goblin Invasion Support 1</b></p>
+<p><b>Elite Goblins</b></p>
+        <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
+        <p><b>Old Formula</b>: (8 + 0.8 * x ^ 0.8), where x is Evil spells cast in this Reincarnation.</p>
+        <p><b>New Formula</b>: (24 + 12 * ln(x)), where x is Evil spells cast in this Reincarnation.</p>
+<br/>
+<p><b>Goblin Invasion Support 3</b></p>
+<p><b>The Slack King</b></p>
+<p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
+<p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+<p><b>New</b>: Offline production now suffers from Ascension Penalties.</p>
+<hr>
+<p><b>Artifacts</b></p>
+<p><b>Beard Hair</b></p>
+        <p><b>Old Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count</p>
+        <p><b>New Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count (including temporary assistants)</p>
+<br/>
+<p><b>First Crystal Fragment</b></p>
+        <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count.</p>
+        <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count (including temporary assistants).</p>
+<hr>
+<p><b>Challenges</b></p>
+<p><b>Mercenary</b></p>
+<p><b>Order Warcry (Call To Arms Spell Upgrade)</b></p>
+	    <p><b>Order</b>: Increases all spell durations.</p>
+	    <p><b>Old Formula</b>: (y ^ 0.5)</p>
+	    <p><b>New Formula</b>: (25 * ln(x))</p>
+<br/>
+<p><b>Druid</b></p>
+<p>Druid Challenge 1 (Silent Assistance)</p>
+	   <p><b>Effect</b>: Animal Companions (1,2) works faster</p>
+	   <p><b>Old Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+	   <p><b>New Formula</b>: Now changes the 1.75 in DD1 to 6 or DD2 = (3 + 6 * x ^ 0.5 )</p>
+<br/>
+<p><b>Faceless</b></p>
+<p><b>Faceless Challenge 2</b> (Mystic Maze)</p>
+<p><b>Old Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
+<p><b>New Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
+<hr>
+<p><b>More Research Hints</b></p>
+<p><b>S215</b> How many of these are required for a seance?</p>
+<p><b>S305</b> Face not required for a long time.</p>
+<p><b>S1500</b> I require assistance.</p>
+<p><b>S3200</b> First spell, many served.</p>
+<p><b>C460</b> Clickety</p>
+<p><b>C1500</b> Trading with the Dragons might prove risky, but rewarding.</p>
+<p><b>D205</b> Shine bright, Holy Light!</p>
+<p><b>D245</b> Surgical Spirits.</p>
+<p><b>D525</b> Be patiently good.</p>
+<p><b>D3350</b> Sound the alarms, production has gone offline!</p>
+<p><b>E145</b> Collect those taxes!</p>
+<p><b>E1425</b> Be neutral. Be different. For a short week.</p>
+<p><b>E3300</b> 50k shades of uniqueness.</p>
+<p><b>A1500</b> How long required to achieve a Grand Balance?</p>
+<p><b>A3400</b> Get attracted to Faction Coins.</p>
+
+         <div class="shlisting">
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.8 May 13, 2020</a></b></p>
+                <div class="autohide">
         <p><b>V3.8 May 13, 2020</b></p>
         <p>Various texts fixed</p>
         <p>Fixed a production overflow issue in Ascension 3.</p>
@@ -229,29 +367,9 @@
         <p><b>Old Formula</b>: (2 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
         <p><b>New Formula</b>: (1.5 * x ^ 0.5), where x is the highest amount of assistants you had in a previous game.</p>
         <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                </div>
+            </div>
+            </div>
 
 
 
