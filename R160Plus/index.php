@@ -133,7 +133,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Order of Knowledge (R190+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Order of Knowledge (R190-R206)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 Gems+</p>
@@ -165,7 +165,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Descent into Madness (R198+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Descent into Madness (R198-R206)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -207,6 +207,93 @@
                 <p>F5750</p>
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
 				<p><b>Notes</b>: Swap A2950 Elf with Makers and D5875 with D200,D275,D290,D5125 at 30 minutes+ runs.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Infinite Insanity Machine (R206+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 0 - 1e105 (1 Novg) Gems</p>
+				<p><b>Requirement</b>: Mercenary Challenge 5</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Faceless </p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DM,S200,S400,S5875,C5125,C175,C250,C340,C400,C590,D200,D275,D290,D330,D1375,D3350,E5125,E135,E145,E230,E290,E320,E495,E3300,A30,A120,A270,A2950,A5375,W1275,W5625,W175,W180,W205,W275,W400,W525,F5250">
+				</p>
+                <p>EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DM,</p>
+                <p>S200,S400,S5875,</p>
+                <p>C5125,C175,C250,C340,C400,C590,</p>
+                <p>D200,D275,D290,D330,D1375,D3350,</p>
+                <p>E5125,E135,E145,E230,E290,E320,E495,E3300,</p>
+                <p>A30,A120,A270,A2950,A5375,</p>
+                <p>W1275,W5625,W175,W180,W205,W275,W400,W525,</p>
+                <p>F5250</p>
+				<p><b>Notes</b>: <b>Reverse autocast Precognition, Dragon's Breath, Fairy Chanting as their duration increases.</b></p>
+				<p><b>Notes</b>: Benefits from buffing S400.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Infinite Insanity Machine (R206+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e105 (1 Novg) Gems - ?</p>
+				<p><b>Requirement</b>: Mercenary Challenge 5</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>A2950</b>: Dragon</p>
+				<p><b>D5875</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+				</p>
+                <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,</p>
+                <p>S30,S50,S330,S400,S5125,</p>
+                <p>C25,C80,C175,C250,C340,C5125,</p>
+                <p>D25,D55,D5875,</p>
+                <p>E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,</p>
+                <p>A10,A105,A150,A175,A250,A305,A545,A1500,A2950,</p>
+                <p>W25,W275,W525,W5125,</p>
+                <p>F5750</p>
+				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Into the Void (R206+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: ? Gems</p>
+				<p><b>Requirement</b>: Mercenary Challenge 5, at least 2d 16h this R</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>A2950</b>: Makers</p>
+				<p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
+					<b>DJ5</b>
+				</p>
+                <p>EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ7,MK6,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,</p>
+                <p>S50,S400,S1500,S5875,</p>
+                <p>C250,C340,C400,C590,C5125,</p>
+                <p>D5875,D200,D275,D290,D1375,</p>
+                <p>E400,E3300,E5125,</p>
+                <p>A2950,A5875,</p>
+                <p>W150,W180,W205,W275,W400,W525,W1400,W5125,</p>
+                <p>F5750</p>
+				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
+				<p><b>Notes</b> swap MK6 -> DJ5 if spells are buffed enough (?)</p>
             </div>
         </div>
     </div>
