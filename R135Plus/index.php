@@ -445,6 +445,7 @@
 						<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
 						<p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
 						<p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
+						<p><b>Notes</b>: <b>Once Grand Balance is at 275 days, the spell must be recasted to complete the challenge</b>.</p>
 						<p><b>Notes</b>: Estimated time to completion is 24 hours.</p>
 					</div>
 				</div>

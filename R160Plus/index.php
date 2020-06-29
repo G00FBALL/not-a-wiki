@@ -492,6 +492,7 @@
                 <p>A120,A270,A2950,A5375,A305,</p>
                 <p>W275,W400,W1275,W1375,W5125,W120,W150,W180,W1400,</p>
                 <p>F6000</p>
+				<p><b>Notes</b>: <b>Recast all spells before abdicating</b>.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -524,6 +525,7 @@
                 <p>A120,A270,A2950,A5375,</p>
                 <p>W275,W400,W1275,W1375,W1400,W5125</p>
                 <p>F6000</p>
+				<p><b>Notes</b>: <b>Recast all spells before abdicating</b>.</p>
             </div>
         </div>
     </div>
