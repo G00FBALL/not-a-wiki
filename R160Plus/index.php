@@ -268,7 +268,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ? Gems</p>
-				<p><b>Requirement</b>: Mercenary Challenge 5, at least 2d 16h this R</p>
+				<p><b>Requirement</b>: Mercenary Challenge 5, at least 2d 16h this R and 2d 16h F6000 buff</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Makers</p>
@@ -293,7 +293,7 @@
                 <p>W150,W180,W205,W275,W400,W525,W1400,W5125,</p>
                 <p>F5750</p>
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
-				<p><b>Notes</b> swap MK6 -> DJ5 if spells are buffed enough (?)</p>
+				<p><b>Notes</b>: Swap MK6 -> DJ5 if spells are buffed enough (?)</p>
             </div>
         </div>
     </div>
