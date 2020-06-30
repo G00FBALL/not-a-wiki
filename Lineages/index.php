@@ -334,7 +334,7 @@
     <p><b>Cost</b>: 400 Demon Royal Exchanges</p>
     <p><b>Effect</b>: Increase Non-Unique Buildings production based on Lineage level. Ascension penalty reduces based on time this Reincarnation.</p>
     <p><b>Production Formula</b>: (100 * x ^ 2), where x is Lineage level.</p>
-    <p><b>Ascension Penalty Reduction Formula</b>: (floor(ln(x / 28800 + 1) ^ 3), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2)</p>
+    <p><b>Ascension Penalty Reduction Formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2)</p>
     <br/>
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk1.png" align="middle"><b> Demon Perk 1</b></p>
