@@ -22,13 +22,13 @@
     " coords="5,47,62,103" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle> <b>Unitary</b>
     <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
-    <p><b>Cost</b>: 10 M (1e7), A1+ Free</p>
+    <p><b>Cost</b>: 1111, A1+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings by 11.11111111%.</p>
     <p>This can be done at any R.</p>
     " coords="69,45,126,103" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle> <b>Building Hater</b></p>
     <p><b>Requirement</b>: Reach 100'000 coins without building anything.</p>
-    <p><b>Cost</b>: 10 Dc (1e34), A1+ Free</p>
+    <p><b>Cost</b>: 1, A1+ Free</p>
     <p><b>Effect</b>: Increase clicking reward by 25% (A Nerfed)</p>
     <p><b>Note</b>: This can be done at any R.</p>
     " coords="134,47,191,103" shape="rect">
@@ -61,7 +61,7 @@
     " coords="6,110,63,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle> <b>Assistant Squasher</b>
     <p><b>Requirement</b>: Click 100 times on the little assistant around your realm.</p>
-    <p><b>Cost</b>: 100 Qa (1e17), A1+ Free</p>
+    <p><b>Cost</b>: 100, A1+ Free</p>
     <p><b>Effect</b>: Instantly add 1 additional assistant.</p>
     " coords="69,110,125,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle> <b>Rewind</b></p>
@@ -72,7 +72,7 @@
     " coords="133,112,189,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle> <b>Faction Grinder</b></p>
     <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
-    <p><b>Cost</b>: 6 Oc (6e27), A1+ Free</p>
+    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Effect</b>: Increase your chance to find Faction Coins by additional 2%.</p>
     <p><b>Note</b>: This can be done at R0 (use Elf).</p>
     " coords="198,111,253,167" shape="rect">
@@ -85,7 +85,7 @@
     " coords="262,110,317,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle> <b>Spellfury</b></p>
     <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
-    <p><b>Cost</b>: 4 Dc (4e33), A1+ Free</p>
+    <p><b>Cost</b>: 4333, A1+ Free</p>
     <p><b>Effect</b>: Increase Mana production by 5%.</p>
     <p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
     " coords="326,111,380,167" shape="rect">
@@ -107,7 +107,7 @@
     " coords="6,174,60,231" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle> <b>Beard Carpet</b></p>
     <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
-    <p><b>Cost</b>: 10 Nod (1e61), A1+ Free</p>
+    <p><b>Cost</b>: 3000, A1+, Free</p>
     <p><b>Effect</b>: Increase assistants production by 10%. (A Nerfed)</p>
     <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
     " coords="69,174,124,230" shape="rect">

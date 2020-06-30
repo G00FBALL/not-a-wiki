@@ -1552,13 +1552,13 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretUpgrade.png" alt="Unitary" align="middle"><b> Unitary</b></p>
                 <p><b>Requirement</b>: Have exactly 1 of every building.</p>
-                <p><b>Cost</b>: 10 M (1E6)</p>
+                <p><b>Cost</b>: 1111, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase the production of all buildings by 1.11111111%</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretUpgrade.png" alt="Building Hater" align="middle"><b> Building Hater</b></p>
                 <p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
-                <p><b>Cost</b>: 10 Dc (1E34)</p>
+                <p><b>Cost</b>: 1, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase clicking reward by 25%</p>
                 <hr>
@@ -1594,7 +1594,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretUpgrade.png" alt="Assistant Squasher" align="middle"><b> Assistant Squasher</b></p>
                 <p><b>Requirement</b>: Click 100 times on the little assistant beside the treasure.</p>
-                <p><b>Cost</b>: 100 Qa (1E17)</p>
+                <p><b>Cost</b>: 100, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Instantly add 1 additional assistant</p>
                 <hr>
@@ -1606,7 +1606,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretUpgrade.png" alt="Faction Grinder" align="middle"><b> Faction Grinder</b></p>
                 <p><b>Requirement</b>: Purchase all the Faction Heritage upgrades in a single Game.</p>
-                <p><b>Cost</b>: 6 Oc (6E27)</p>
+                <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase your chance (and chance cap) to find Faction Coins by additional 1%</p>
                 <hr>
@@ -1618,7 +1618,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpellfurySecretUpgrade.png" alt="Spellfury" align="middle"><b> Spellfury</b></p>
                 <p><b>Requirement</b>: Cast Tax Collection while having 3 other spells active.</p>
-                <p><b>Cost</b>: 4 Dc (4E33)</p>
+                <p><b>Cost</b>: 4333, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase Mana production by 5%</p>
                 <hr>
@@ -1636,7 +1636,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretUpgrade.png" alt="Beard Carpet" align="middle"><b> Beard Carpet</b></p>
                 <p><b>Requirement</b>: Have at least 3km beards on your assistants (using Dwarf 2,3)</p>
-                <p><b>Cost</b>: 10 Nod (1E61)</p>
+                <p><b>Cost</b>: 3000, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase assistants production by 10%</p>
                 <hr>

@@ -61,7 +61,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
         <p><b>Cost</b>: 5 Sx (5E21)</p>
         <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-        <p><b>Formula</b>: floor(((1 + 12 * x) ^ 0.5 - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+        <p><b>Formula</b>: (3 + 1.75 * x ^ 0.5 ), where x is your Playtime (This Game) stat in hours.</p>
         <center>
             <a id="Companions"></a>
             <table class="numtable">

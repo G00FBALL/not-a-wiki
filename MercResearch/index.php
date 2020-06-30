@@ -107,6 +107,7 @@
 <p><b>Effect</b>: Increases the production of Non-Unique buildings by 3.5% per Unique building.</p>
 <br/>
 <p><b>S3200</b>: For All Factions - Spell Name: Manipulation</p>
+<p><b>Hint</b> First spell, many served.</p>
 <p><b>Requirement</b>: 1B (1e9) Tax Collection cast, (Calefaction A1325) and (Psionics S1500).</p>
 <p><b>Cost</b>: 387 USsx (3.87.188)</p>
 <p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (good merc TC tiers also count).</p>
@@ -131,6 +132,7 @@
 <p><b>Formula</b>: 0.1 * x ^ 0.7</p>
 <br/>
 <p><b>D3350</b>: For All Factions - Spell Name: Vampirism</p>
+<p><b>Hint</b>: Sound the alarms, production has gone offline!</p>
 <p><b>Requirement</b>: 100 Sp (1e26)% offline bonus, Intervention (D2775) and Upheaval (W3150).</p>
 <p><b>Cost</b>: 492.5 QaSxg (4.925e197)</p>
 <p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
@@ -145,6 +147,7 @@
 <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is amount of coins you own.</p>
 <br/>
 <p><b>E3300</b> - <b>For</b> Mercenary - <b>Research Name</b>: Estates</p>
+<p><b>Hint</b>: 50k shades of uniqueness.</p>
 <p><b>Requirement</b>: 45000 Unique buildings, Hoarding (E1225) and Combination (A2950).</p>
 <p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
 <p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>
@@ -156,6 +159,7 @@
 <p><b>Effect</b>: You also gain all the base effect of its respective Lineage.</p>
 <br/>
 <p><b>A3400</b>: For All Factions - Spell Name: Chemistry</p>
+<p><b>Hint</b>: Get attracted to Faction Coins.</p>
 <p><b>Requirement</b>: 1 No (1e30) FC, Customizing (C3000) and Manipulation (S3200).</p>
 <p><b>Cost</b>: 533.7 QiSxg (5.337e200)</p>
 <p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.</p>

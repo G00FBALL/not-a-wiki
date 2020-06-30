@@ -338,7 +338,7 @@
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 	<p><b>Effect</b>: Animal Companions (1,2) works faster</p>
-	<p><b>Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+	<p><b>Formula</b>: Changes the 1.75 in DD2 to 6 or DD2 = (3 + 6 * x ^ 0.5 )</p>
 	<p><b>Upgrade</b>: Works with Druid</p><p><b>Tip</b>: Click image to see instructions</p>"
 	href="http://musicfamily.org/realm/Druid/" coords="71,774,126,829" shape="rect">
     <area href="http://musicfamily.org/realm/Druid/#DruidDC2" target="" research=
@@ -398,7 +398,7 @@
 	<p><img src=http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png align=middle> <b>Mystic Maze</b></p>
 	<p>&quot;Your hive superiors have ordered you to setup a base without alerting any nearby enemies&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 9+, Faceless Bloodline, Fairy and Undead challenge 2 completed</p>
-	<p><b>Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
+	<p><b>Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
 	<p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p><p><b>Upgrade</b>: Works with Druid</p>
 	<p><b>Tip</b>: Buy every building except Labyrinth and click 1000 times.</p>"
 	coords="135,878,191,931" shape="rect">
@@ -787,7 +787,7 @@
 	<p><b>Additive Formula</b>: (100 * y)</p>
 	<p><b>Multiplicative Formula</b>: (y ^ 0.5)</p>
 	<p><b>Order</b>: Increases all spell durations.</p>
-	<p><b>Formula</b>: (y ^ 0.5)</p>
+	<p><b>Formula</b>: (25 * ln(x))</p>
 	<p><b>Chaos</b>: Multiplicatively increase assistants (Temporary).</p>
 	<p><b>Formula</b>: (y ^ 0.25)</p>
 	<p><b>Balance</b>: Increases Royal Exchange Bonus multiplicatively and makes them count more.</p>

@@ -112,6 +112,7 @@
 <br/>
     <p><b>D205</b> - For All Good Factions</p>
 	<p><b>Research Name</b>: Communion</p>
+  <p><b>Hint</b>: Shine bright, Holy Light!</p>
 	<p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) & Illumination (D135)</p>
 	<p><b>Cost</b>: 627.6 Dqig (6.276E161)</p>
 	<p><b>Effect</b>: Increase Holy Light duration by 300 seconds.</p>
@@ -125,6 +126,7 @@
 <br/>
     <p><b>D245</b> - For All Factions</p>
 	<p><b>Research Name</b>: Sanctification</p>
+  <p><b>Hint</b>: Surgical Spirits.</p>
 	<p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)</p>
 	<p><b>Cost</b>: 6.94Qiqig (6.94E168)</p>
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.</p>
@@ -179,6 +181,7 @@
 <br/>
     <p><b>E3300</b> - For Mercenary</p>
 	<p><b>Research Name</b>: Estates</p>
+  <p><b>Hint</b>: 50k shades of uniqueness.</p>
 	<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
 	<p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
 	<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.</p>

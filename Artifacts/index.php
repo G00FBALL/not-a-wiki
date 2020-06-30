@@ -132,7 +132,7 @@
     <p><b>Clue</b>: Assistants will lead the way.</p>
     <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
     <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
-    <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count.</p>
+    <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count (including temporary assistants).</p>
     " coords="133,173,190,228" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png align=middle><b> Second Crystal Fragment</b></p>
     <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
@@ -568,7 +568,7 @@
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-    <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count</p>
+    <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count (including temporary assistants)</p>
     " coords="323,493,381,551" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>

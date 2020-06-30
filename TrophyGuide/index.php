@@ -96,7 +96,7 @@
 						<tr>
 							<td>
 								<center>Building Hater</p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png"></td>
-							<td>10 Dc (1e34)</p>A1+ Free</td>
+							<td>1, A1+ Free</td>
 							<td>Reach 100000 Coins without building anything.</td>
 							<td>Increase clicking reward by 25%</td>
 							<td>12 clicks with Speed Run</td>
@@ -112,7 +112,7 @@
 						<tr>
 							<td>
 								<center>Assistant Squasher</p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png"></td>
-							<td>100 Qa (1e17)</p>A1+ Free</td>
+							<td>100</p>A1+ Free</td>
 							<td>Click an assistant icon 100 times.</td>
 							<td>Instantly add 1 additional assistant.</td>
 							<td>You will need to click the assistant in the game window (not the icons at the bottom).</td>
@@ -128,7 +128,7 @@
 						<tr>
 							<td>
 								<center>Spellfury</p><img src="http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png"></td>
-							<td>4 Dc (4e33)</p>A1+ Free</td>
+							<td>4333, A1+ Free</td>
 							<td>Cast Tax Collection while having 3 spells active.</td>
 							<td>Increase Mana production by 5%.</td>
 							<td> Use Angels and all upgrades</p>You need about 40K gems and 37 mana regeneration.</td>
@@ -168,7 +168,7 @@
 						<tr>
 							<td>
 								<center>Unitary</p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png"></td>
-							<td>10 M (1e7)</p>A1+ Free</td>
+							<td>1111, A1+ Free</td>
 							<td>Have exactly 1 of each building at any given time.</td>
 							<td>Increase the production of all buildings by 11.11111111%, No A Nerf.</td>
 							<td>You need about 47K gems.</td>
@@ -196,7 +196,7 @@
 						<tr>
 							<td>
 								<center>Faction Grinder</p><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png"></td>
-							<td>6 Oc (6e27)</p>A1+ Free</td>
+							<td>1 M (1e6), A1+ Free</td>
 							<td>Purchase the 6 Vanilla Faction Heritage upgrades in a single game. (Without Abdicating)</td>
 							<td>Increase your chance to find Faction Coins by an additional 2%.</td>
 							<td>Elf, Fairy, Angel, Goblin, Undead and Demon</td>
@@ -1430,7 +1430,7 @@
 							<td>Find all fragments of the Makers, Archon and Djinn masks.</td>
 							<td>Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>Formula: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</td>
 							<td></td>
-						</tr>					
+						</tr>
 					</tbody>
 				</table>
 				<a id="TrophiesR2130"></a>

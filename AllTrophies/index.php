@@ -17,13 +17,13 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle><b> Unitary</b></p>
                     <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
-                    <p><b>Cost</b>: 10 M (1e7), A1+, Free</p>
+                    <p><b>Cost</b>: 1111, A1+ Free</p>
                     <p><b>Effect</b>: Increase the production of all buildings by 11.11111111%</p>
                     <p><b>Note</b>: This can be done at any R</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
                     <p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
-                    <p><b>Cost</b>: 10 Dc (1e34), A1+, Free</p>
+                    <p><b>Cost</b>: 1, A1+ Free</p>
                     <p><b>Note</b>: This can be done at any R.</p>
                     <p><b>Effect</b>: Increase clicking reward by 25%</p>
                     <hr>
@@ -56,7 +56,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p>
                     <p><b>Requirement</b>: Click 100 times on the little assistant around your realm.</p>
-                    <p><b>Cost</b>: 100 Qa (1e17), A1+, Free</p>
+                    <p><b>Cost</b>: 100, A1+, Free</p>
                     <p><b>Effect</b>: Instantly add 1 additional assistant.</p>
                     <p><b>Note</b>: Click the assistant to the left of spells not the ones at the bottom of page.</p>
                     <hr>
@@ -67,7 +67,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
                     <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
-                    <p><b>Cost</b>: 6 Oc (6e27), A1+, Free</p>
+                    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
                     <p><b>Effect</b>: Increase your chance to find Faction Coins by additional 2%.</p>
                     <p><b>Note</b>: This can be done at R0 (use Elf).</p>
                     <hr>
@@ -79,7 +79,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p>
                     <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
-                    <p><b>Cost</b>: 4 Dc (4e33), A1+, Free</p>
+                    <p><b>Cost</b>: 4333, A1+ Free</p>
                     <p><b>Effect</b>: Increase Mana production by 5%.</p>
                     <p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
                     <hr>
@@ -99,7 +99,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p>
                     <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
-                    <p><b>Cost</b>: 10 Nod (1e61), A1+, Free</p>
+                    <p><b>Cost</b>: 3000, A1+, Free</p>
                     <p><b>Effect</b>: Increase assistants production by 10%.</p>
                     <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
                     <hr>

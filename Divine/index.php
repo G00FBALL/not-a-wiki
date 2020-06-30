@@ -81,6 +81,7 @@
 	<hr>
     <p><b>D205</b> - For All Good Factions</p>
 	<p><b>Research Name</b>: Communion</p>
+  <p><b>Hint</b>: Shine bright, Holy Light!</p>
 	<p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) & Illumination (D135)</p>
 	<p><b>Cost</b>: 627.6 Dqig (6.276E161)</p>
 	<p><b>Effect</b>: Increase Holy Light duration by 300 seconds.</p>
@@ -94,6 +95,7 @@
 	<hr>
     <p><b>D245</b> - For All Factions</p>
 	<p><b>Research Name</b>: Sanctification</p>
+  <p><b>Hint</b>: Surgical Spirits.</p>
 	<p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)</p>
 	<p><b>Cost</b>: 6.94Qiqig (6.94E168)</p>
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.</p>
@@ -176,6 +178,7 @@
 	<hr>
     <p><b>D525</b> - For Good</p>
 	<p><b>Research Name</b>: Purity</p>
+  <p><b>Hint</b>: Be patiently good.</p>
 	<p><b>Requirement</b>: 1d12h as Good (This R), Research Communion (D205) and Devotion (D435)</p>
 	<p><b>Cost</b>: 140.2 USpg (1.402E218)</p>
 	<p><b>Effect</b>: Increase Holy Light multiplier based on the amount of times you cast your faction spell in this game.</p>
@@ -224,6 +227,7 @@
 	<hr>
     <p><b>D3350</b> - For All Factions</p>
 	<p><b>Research Name</b>: Vampirism</p>
+  <p><b>Hint</b>: Sound the alarms, production has gone offline!</p>
 	<p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
 	<p><b>Cost</b>: 598.3 TSxg (5.983e194)</p>
 	<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>

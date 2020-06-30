@@ -88,6 +88,7 @@
 	<hr>
     <p><b>S215</b> - For All Factions</p>
 	<p><b>Research Name</b>: Projection</p>
+  <p><b>Hint</b>: How many of these are required for a seance?</p>
 	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
 	<p><b>Cost</b>: 36.16 TQig (3.616E163)</p>
 	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</p>
@@ -132,6 +133,7 @@
 	<hr>
     <p><b>S305</b> - For All Factions</p>
 	<p><b>Research Name</b>: Mesmerization</p>
+  <p><b>Hint</b>Face not required for a long time.</p>
 	<p><b>Requirement</b>: 2 days as Faceless (Total across all R)</p>
 	<p><b>Cost</b>: 225.2 OcQig (2.252E179)</p>
 	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.</p>
@@ -229,6 +231,7 @@
 	<hr>
     <p><b>S3200</b> - For All Factions</p>
 	<p><b>Research Name</b>: Manipulation</p>
+  <p><b>Hint</b> First spell, many served.</p>
 	<p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p>
 	<p><b>Cost</b>: 695.7 Sxg (6.957e185)</p>
 	<p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).</p>

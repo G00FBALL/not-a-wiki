@@ -170,6 +170,7 @@
 	<p><b>Formula</b>: (40 * x ^ 0.8)%, where x is the number of Dwarven Forges you own.</p>
 	<hr>
     <p><b>C460</b> - For All Factions</p>
+  <p><b>Hint</b> Clickety</p>
 	<p><b>Research Name</b>: Distribution</p>
 	<p><b>Requirement</b>: 1M Clicks (This game)</p>
 	<p><b>Cost</b>: 502.3 SpSxg (5.023E206)</p>
@@ -220,7 +221,8 @@
 	<hr>
     <p><b>C1500</b> - For Titan,Dragon</p>
 	<p><b>Research Name</b>: Gargantuaness</p>
-	<p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</p>
+  <p><b>Hint</b>: Trading with the Dragons might prove risky, but rewarding.
+  <p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)</p>
 	<p><b>Cost</b>: 3.843 Spvg (3.843e84)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.</p>
 	<p><b>Formula</b>: (1.5 * x) ^ 0.7, where x is neutral time (this R) in minutes.</p>

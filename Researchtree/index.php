@@ -278,6 +278,7 @@
 	" coords="168,85,216,130" shape="rect">
         <area research="S215 - For All Factions
 	<p><b>Research Name</b>: Projection
+  <p><b>Hint</b>: How many of these are required for a seance?</p>
 	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)
 	<p><b>Cost</b>: 36.16 TQig (3.616E163)
 	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.
@@ -322,6 +323,7 @@
 	" coords="497,83,546,131" shape="rect">
         <area research="S305 - For All Factions
 	<p><b>Research Name</b>: Mesmerization
+  <p><b>Hint</b>Face not required for a long time.</p>
 	<p><b>Requirement</b>: 2 days as Faceless (Total across all R)
 	<p><b>Cost</b>: 225.2 OcQig (2.252E179)
 	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.
@@ -419,6 +421,7 @@
 	" coords="113,193,162,240" shape="rect">
         <area research="S3200 - For All Factions
 	<p><b>Research Name</b>: Manipulation
+  <p><b>Hint</b>: First spell, many served.</p>
 	<p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).
 	<p><b>Cost</b>: 695.7 Sxg (6.957e185)
 	<p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).
@@ -606,6 +609,7 @@
 	" coords="222,383,273,431" shape="rect">
         <area research="C460 - For All Factions
 	<p><b>Research Name</b>: Distribution
+  <p><b>Hint</b>: Clickety</p>
 	<p><b>Requirement</b>: 1M Clicks (This game)
 	<p><b>Cost</b>: 502.3 SpSxg (5.023E206)
 	<p><b>Effect</b>: Increase the production of non-unique buildings based on the amount of clicks you made in this game.
@@ -655,6 +659,7 @@
 	" coords="3,437,50,484" shape="rect">
         <area research="C1500 - For Titan,Dragon
 	<p><b>Research Name</b>: Gargantuaness
+  <p><b>Hint</b>: Trading with the Dragons might prove risky, but rewarding.</p>
 	<p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titan, Dragon)
 	<p><b>Cost</b>: 3.843 Spvg (3.843e84)
 	<p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.
@@ -769,6 +774,7 @@
 	" coords="113,567,161,615" shape="rect">
         <area research="D205 - For All Good Factions
 	<p><b>Research Name</b>: Communion
+  <p><b>Hint</b>: Shine bright, Holy Light!</p>
 	<p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) & Illumination (D135)
 	<p><b>Cost</b>: 627.6 Dqig (6.276E161)
 	<p><b>Effect</b>: Increase Holy Light duration by 300 seconds.
@@ -782,6 +788,7 @@
 	" coords="223,568,271,617" shape="rect">
         <area research="D245 - For All Factions
 	<p><b>Research Name</b>: Sanctification
+  <p><b>Hint</b>: Surgical Spirits.</p>
 	<p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)
 	<p><b>Cost</b>: 6.94Qiqig (6.94E168)
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.
@@ -864,6 +871,7 @@
 	" coords="278,620,327,669" shape="rect">
         <area research="D525 - For Good
 	<p><b>Research Name</b>: Purity
+  <p><b>Hint</b>: Be patiently good.</p>
 	<p><b>Requirement</b>: 1d12h as Good (This R), Research Communion (D205) and Devotion (D435)
 	<p><b>Cost</b>: 140.2 USpg (1.402E218)
 	<p><b>Effect</b>: Increase Holy Light multiplier based on the amount of times you cast your faction spell in this game.
@@ -913,6 +921,7 @@
 	" coords="113,676,163,723" shape="rect">
         <area research="D3350 - For All Factions
 	<p><b>Research Name</b>: Vampirism
+  <p><b>Hint</b>: Sound the alarms, production has gone offline!</p>
 	<p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).
 	<p><b>Cost</b>: 598.3 TSxg (5.983e194)
 	<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
@@ -996,6 +1005,7 @@
 	" coords="444,749,491,796" shape="rect">
         <area research="E145 - For All Factions
 	<p><b>Research Name</b>: Royal Demand
+  <p><b>Hint</b>: Collect those taxes!</p>
 	<p><b>Requirement</b>: 5,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)
 	<p><b>Cost</b>: 17.07 Noqag (1.707E151)
 	<p><b>Effect</b>: Increase Tax Collection reward by 30 seconds of production.
@@ -1143,6 +1153,7 @@
 	" coords="3,914,51,960" shape="rect">
         <area research="E1425 - For All Neutral Factions
 	<p><b>Research Name</b>: Rarity
+  <p><b>Hint</b>: Be neutral. Be different. For a short week.</p>
 	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless, Research A545, C1300
 	<p><b>Cost</b>: 131 Qivg (1.31e80)
 	<p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.
@@ -1157,6 +1168,7 @@
 	" coords="113,914,161,960" shape="rect">
         <area research="E3300 - For Mercenary
 	<p><b>Research Name</b>: Estates
+  <p><b>Hint</b>: 50k shades of uniqueness.</p>
 	<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
 	<p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
 	<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.
@@ -1395,6 +1407,7 @@
 	" coords="4,1152,50,1199" shape="rect">
         <area research="A1500 - For Druid,Dragon
 	<p><b>Research Name</b>: Sublimation
+  <p><b>Hint</b>: How long required to achieve a Grand Balance?</p>
 	<p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon
 	<p><b>Cost</b>: 3.843 Spvg (3.843e84)
 	<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</p>
@@ -1412,6 +1425,7 @@
 	" coords="114,1151,161,1199" shape="rect">
         <area research="A3400 - For All Factions
 	<p><b>Research Name</b>: Chemistry
+  <p><b>Hint</b>: Get attracted to Faction Coins.</p>
 	<p><b>Requirement</b>: 1 No (1e30) FC (Found this Game), (Customizing C3000) & (Manipulation S3200).
 	<p><b>Cost</b>: 894.5 QiQig (5.69e197)
 	<p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.

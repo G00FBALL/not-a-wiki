@@ -46,6 +46,7 @@
     <br>
     <p><b>S3200</b> - For All Factions</p>
 	<p><b>Research Name</b>: Manipulation</p>
+  <p><b>Hint</b> First spell, many served.</p>
 	<p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p>
 	<p><b>Cost</b>: 695.7 Sxg (6.957e185)</p>
 	<p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).</p>

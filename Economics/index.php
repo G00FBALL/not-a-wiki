@@ -68,6 +68,7 @@
 	<hr>
     <p><b>E145</b> - For All Factions</p>
 	<p><b>Research Name</b>: Royal Demand</p>
+  <p><b>Hint</b>: Collect those taxes!</p>
 	<p><b>Requirement</b>: 5,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)</p>
 	<p><b>Cost</b>: 17.07 Noqag (1.707E151)</p>
 	<p><b>Effect</b>: Increase Tax Collection reward by 30 seconds of production.</p>
@@ -215,6 +216,7 @@
 	<hr>
     <p><b>E1425</b> - For All Neutral Factions</p>
 	<p><b>Research Name</b>: Rarity</p>
+  <p><b>Hint</b>: Be neutral. Be different. For a short week.</p>
 	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless, Research A545, C1300</p>
 	<p><b>Cost</b>: 131 Qivg (1.31e80)</p>
 	<p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</p>
@@ -229,6 +231,7 @@
 	<hr>
     <p><b>E3300</b> - For Mercenary</p>
 	<p><b>Research Name</b>: Estates</p>
+  <p><b>Hint</b>: 50k shades of uniqueness.</p>
 	<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
 	<p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
 	<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.

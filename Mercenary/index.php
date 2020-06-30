@@ -71,7 +71,7 @@
 	    <p><b>Additive Formula</b>: (100 * y)</p>
 		<p><b>Multiplicative Formula</b>: (y ^ 0.5)</p>
 	    <p><b>Order</b>: Increases all spell durations.</p>
-	    <p><b>Formula</b>: (y ^ 0.5)</p>
+	    <p><b>Formula</b>: (25 * ln(x))</p>
 	    <p><b>Chaos</b>: Multiplicatively increase assistants (Temporary).</p>
 	    <p><b>Formula</b>: (y ^ 0.25)</p>
 	    <p><b>Balance</b>: Increases Royal Exchange Bonus multiplicatively and makes them count more.</p>

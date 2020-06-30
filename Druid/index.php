@@ -10,7 +10,7 @@
 <p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 <p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 <p><b>Effect</b>: Animal Companions (1,2) works faster</p>
-<p><b>Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: Changes the 1.75 in DD2 to 6 or DD2 = (3 + 6 * x ^ 0.5 )</p>
 <p><b>Upgrade</b>: Works with Druid</p>
 <p><b>Tips</b>
 <p>Buy the building upgrades of the amount before the arrow, then continue building without purchasing new building upgrades towards the amount after the arrow.</p>

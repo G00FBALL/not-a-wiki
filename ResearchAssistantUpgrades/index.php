@@ -13,6 +13,7 @@
     <br>
     <p><b>S375</b> - For Faceless</p>
     <p><b>Research Name</b>: Illusion</p>
+    <p><b>Hint</b>Face not required for a long time.</p>
     <p><b>Requirement</b>: Research Reverberation (S330) & Mesmerization (S305)</p>
     <p><b>Cost</b>: 541 DSxg (5.41E191)</p>
     <p><b>Effect</b>: Brainwave also provides progressively more assistants over its duration.</p>
@@ -73,6 +74,7 @@
     <br>
     <p><b>D3350</b> - For All Factions</p>
     <p><b>Research Name</b>: Vampirism</p>
+    <p><b>Hint</b>: Sound the alarms, production has gone offline!</p>
     <p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
     <p><b>Cost</b>: 598.3 TSxg (5.983e194)</p>
     <p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>

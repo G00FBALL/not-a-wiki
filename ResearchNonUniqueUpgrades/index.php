@@ -12,6 +12,7 @@
 <p><b>----------------------------------</b>
 <p><b>Craftsmanship</b>
 <p><b>C460</b> - <b>For</b>: All Factions (Prestige Neutral) - <b>Research Name</b>: Distribution
+<p><b>Hint</b> Clickety</p>
 <p><b>Requirement</b>: 1M Clicks (This game)
 <p><b>Cost</b>: 502.3 SpSxg (5.023E206)
 <p><b>Effect</b>: Increase the production of non-unique buildings based on the amount of clicks you made in this game.

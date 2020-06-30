@@ -397,7 +397,7 @@
         <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
         <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
         <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-        <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count</p>
+        <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count (including temporary assistants)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
         <p><b>Clue</b>: Combo your way through.</p>

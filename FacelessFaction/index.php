@@ -54,8 +54,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" alt="Smiley face" align="middle"> Territorial Expanse</b></p>
         <p><b>Cost</b>: 500 Qi (5E20)</p>
-        <p><b>Effect</b>: Chance to have a Labyrinth built for free each time you click the treasure chest. This chance is based on your income per second and the cost of the next Labyrinth. Labyrinth production is increased by 5000% per assistant you own.</p>
-        <p><b>Formula</b>: min(100 , 30 * (P + A) / C))%, where P is production per second excluding assistants, A is the production per second of one assistant, and C is the cost to buy one Labyrinth.</p>
+        <p><b>Effect</b>: Labyrinth production is increased by 5000% per assistant you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" alt="Smiley face" align="middle"> Evolutive Mutation</b></p>
         <p><b>Cost</b>: 5 Sx (5E21)</p>

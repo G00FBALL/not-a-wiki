@@ -23,6 +23,7 @@
 <br/>
     <p><b>S215</b>: - For All Factions</p>
 	<p><b>Research Name</b>: Projection</p>
+	<p><b>Hint</b>: How many of these are required for a seance?</p>
 	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
 	<p><b>Cost</b>: 36.16 TQig (3.616E163)</p>
 	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</p>
@@ -100,6 +101,7 @@
 <br/>
     <p><b>D205</b> - For All Good Factions</p>
 	<p><b>Research Name</b>: Communion</p>
+  <p><b>Hint</b>: Shine bright, Holy Light!</p>
 	<p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) & Illumination (D135)</p>
 	<p><b>Cost</b>: 627.6 Dqig (6.276E161)</p>
 	<p><b>Effect</b>: Increase Holy Light duration by 300 seconds.</p>
@@ -121,6 +123,7 @@
 <br/>
     <p><b>D525</b> - For Good</p>
 	<p><b>Research Name</b>: Purity</p>
+  <p><b>Hint</b>: Be patiently good.</p>
 	<p><b>Requirement</b>: 1d12h as Good (This R), Research Communion (D205) and Devotion (D435)</p>
 	<p><b>Cost</b>: 140.2 USpg (1.402E218)</p>
 	<p><b>Effect</b>: Increase Holy Light multiplier based on the amount of times you cast your faction spell in this game.</p>
@@ -142,6 +145,7 @@
 <br/>
     <p><b>E1425</b> - For All Neutral Factions</p>
 	<p><b>Research Name</b>: Rarity</p>
+  <p><b>Hint</b>: Be neutral. Be different. For a short week.</p>
 	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless, Research A545, C1300</p>
 	<p><b>Cost</b>: 131 Qivg (1.31e80)</p>
 	<p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</p>

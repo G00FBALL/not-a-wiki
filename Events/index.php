@@ -1855,7 +1855,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                         <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
-                        <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8)%, where x is Evil spells cast in this Reincarnation.</p>
+                        <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
