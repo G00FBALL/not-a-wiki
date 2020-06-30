@@ -371,7 +371,7 @@
 	<p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
 	<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell. Ascension penalty reduces based on time this Reincarnation.</p>
 	<p><b>Formula</b>: (75 * x ^ 0.75), where x is the duration of your longest spell.</b></p>
-	<p><b>Ascension penalty reducution formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
+	<p><b>Ascension Penalty Reduction Formula</b>: (floor(ln(x / 28800 + 1) ^ 3), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
 	<p><b>Upgrade</b>: Works with All</b></p>
 	<p><b>Tips</b>: Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>"
 	coords="262,774,317,827" shape="rect">
