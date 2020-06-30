@@ -148,7 +148,7 @@
                 <p><b>Mercenary Template</b>: DD2</p>
                 <p><b>Cost</b>: 5 Sx (5E21)</p>
                 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-                <p><b>Formula</b>: (3 + 1.75 * x ^ 0.5 ), where x is your Playtime (This Game) stat in hours.</p></p>
+                <p><b>Formula</b>: (3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p></p>
                 <a id="Companions"></a>
 				<table class="numtable">
 					<tr>
@@ -169,7 +169,7 @@
 					</tr>
 					<tr>
 						<td><center>3</td>
-						<td><center>5</td>
+						<td><center>6</td>
 					</tr>
 					<tr>
 						<td><center>4</td>
@@ -181,15 +181,15 @@
 					</tr>
 					<tr>
 						<td><center>6</td>
-						<td><center>6</td>
+						<td><center>7</td>
 					</tr>
 					<tr>
 						<td><center>12</td>
-						<td><center>8</td>
+						<td><center>9</td>
 					</tr>
 					<tr>
 					   <td><center>18</td>
-					   <td><center>9</td>
+					   <td><center>10</td>
 					</tr>
 					<tr>
 						<td><center>24</td>
@@ -197,15 +197,15 @@
 					</tr>
 					<tr>
 						<td><center>36</td>
-						<td><center>12</td>
+						<td><center>13</td>
 					</tr>
 					<tr>
 						<td><center>48</td>
-						<td><center>14</td>
+						<td><center>15</td>
 					</tr>
 					<tr>
 						<td><center>60</td>
-						<td><center>15</td>
+						<td><center>16</td>
 					</tr>
 					<tr>
 						<td><center>72</td>
