@@ -1361,7 +1361,7 @@
                     <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
                     <p><b>Cost</b>: 100 Qid (1e50)</p>
                     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to. In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
-                    <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
+                    <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
                     <p><b>Formula</b>: (1000 * log10(1 + x))</p>
                     <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
                     <hr>

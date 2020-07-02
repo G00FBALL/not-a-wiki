@@ -995,7 +995,7 @@
 								<center>Tiered Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png"></td>
 							<td>100 Qid (1e50), A2+ Free</td>
 							<td>Produce 200M mana. (Total this R) </td>
-							<td>Allows you to set the maximum tier you wish to autocast each spell to.</p>Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration.</p>Formula: (1000 * log10(1 + x))</td>
+							<td>Allows you to set the maximum tier you wish to autocast each spell to.</p>Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration.</p>Formula: (1000 * log10(1 + x))</td>
 							<td>This trophy unlocks at R40, The upgrade unlocks at R42.</td>
 						</tr>
 				</table>

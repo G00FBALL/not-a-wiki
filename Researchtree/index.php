@@ -323,7 +323,7 @@
 	" coords="497,83,546,131" shape="rect">
         <area research="S305 - For All Factions
 	<p><b>Research Name</b>: Mesmerization
-  <p><b>Hint</b>Face not required for a long time.</p>
+    <p><b>Hint</b>: Face not required for a long time.</p>
 	<p><b>Requirement</b>: 2 days as Faceless (Total across all R)
 	<p><b>Cost</b>: 225.2 OcQig (2.252E179)
 	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.

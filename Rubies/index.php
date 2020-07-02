@@ -137,9 +137,9 @@
         </tr>
         <tr>
             <td>Bonus Reset</td>
-            <td>1 Ruby (+1 for every 50 upgrades purchased)</td>
+            <td>Free</td>
             <td></td>
-            <td>Reset all the ruby upgrades to 0 and get all your rubies back.</td>
+            <td>Reset all the ruby upgrades to 0 and get all your rubies back (Forces abdication)</td>
         </tr>
         </tbody>
     </table>
