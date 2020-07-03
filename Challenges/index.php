@@ -325,7 +325,7 @@
     <area href="http://musicfamily.org/realm/Druid/#DruidDCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png align=middle> <b>Primal Balance</b></p>
-	<p><b>Effect</b>: Grand Balance now affects extra buildings based on mana spent this reincarnation.</p>
+	<p><b>Effect</b>: Grand Balance affects extra buildings based on mana produced this reincarnation.</p>
 	<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
 	<p><center><img src=http://musicfamily.org/realm/Factions/picks/GBTargetsA3.png alt=Primal Balance align=middle></center></a></p>
 	<p>Effect: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.</p>
