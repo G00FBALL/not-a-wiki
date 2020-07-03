@@ -17,12 +17,35 @@
     <div class="shlisting">
         <p><b>Production</b></p>
         <div class="category">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Druidline Dwangels (R40-R46) + Stage 1, 4 Unlock<font color="Blue"> Good</font></a></b></p>
+		    <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U Druidline Dwangels (R40-R46)<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
-                    <p><b>Requirement</b>: Fortune Teller Machine, Horn of the Kings, Druid challenge 4</p>
-                    <p><b>Requirement</b>: (for Stage 4 Unlock) Mana Waste</p>
+                    <p><b>Requirements</b>: Horn of the Kings</p>
+                    <p><b>Range</b>: 0 Gems - ?</p>
+                    <p><b>Faction</b>: Angel</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S135,S150,S250,S330,S500,C120,C150,C330,C340,C400,C25,C500,D175,D200,D290,D320,D435,D590,E80,E135,E145,E330,E410,A105,A120,A150,A250,A330,W150,W180,W290,W320,W400">
+                    </p>
+                    <p>S135,S150,S250,S330,S500,</p>
+                    <p>C120,C150,C330,C340,C400,C25,C500,</p>
+                    <p>D175,D200,D290,D320,D435,D590,</p>
+                    <p>E80,E135,E145,E330,E410,</p>
+                    <p>A105,A120,A150,A250,A330,</p>
+                    <p>W150,W180,W290,W320,W400</p>
+                    <p><b>Notes</b>: Get Mana Wave trophy with this build.</p>
+                    <p><b>Notes</b>: C branch research placements is intentional (reimport build after horn).</p>
+					<p><b>Notes</b>: After 1 hour this R, the NU build becomes better.</p>
+                </div>
+            </div>
+            <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU Druidline Dwangels (R40-R46) + Stage 1, 4 Unlock<font color="Blue"> Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Cyden</p>
+                    <p><b>Requirements</b>: 1 hour this R, Fortune Teller Machine, Horn of the Kings, Druid challenge 4</p>
+                    <p><b>Requirements</b>: (for Stage 4 Unlock) Mana Waste</p>
                     <p><b>Range</b>: 0 Gems - ?</p>
                     <p><b>Faction</b>: Angel</p>
                     <p><b>Bloodline</b>: Druid</p>
@@ -56,12 +79,11 @@
                     <p>E135,E145,E330,E410,E480,</p>
                     <p>A105,A120,A150,A250,A330,</p>
                     <p>W120,W150,W180,W330,W400</p>
-                    <p><b>Note</b>: Get Mana Wave trophy with this build at R40.</p>
-                    <p><b>Note</b>: Swap W330->W320 if higher.</p>
-                    <p><b>Note</b>: Swap A330->A400 if higher.</p>
-                    <p><b>Note</b>: Swap S215->S200, D250->D205, A120->A270 with at least 16 hours this R.</p>
-                    <p><b>Note</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
-                    <p><b>Note</b>: C branch research placements is intentional (reimport build after horn).</p>
+                    <p><b>Notes</b>: Swap W330->W320 if higher.</p>
+                    <p><b>Notes</b>: Swap A330->A400 if higher.</p>
+                    <p><b>Notes</b>: Swap S215->S200, D250->D205, A120->A270 with at least 16 hours this R.</p>
+                    <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
+                    <p><b>Notes</b>: C branch research placements is intentional (reimport build after horn).</p>
                 </div>
             </div>
         </div>
