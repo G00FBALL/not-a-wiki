@@ -372,7 +372,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Spell casts, Mana Produced</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R206 Spell casts, Mana Produced</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
@@ -436,6 +436,45 @@
 				<p><b>Notes</b>: Swap D5875 with D5125 if Mercenary Challenge 1 is completed.</p>
 				<p><b>Notes</b>: Swap D5125 with D5625 if D5625 is buffed.</p>
 				<p><b>Notes</b>: Use remaining points to buff production.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Spell casts, Mana Produced</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Dwarf</p>
+                <p><b>A2950</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A30,A120,A270,A2950,A250,A305,A545,A1500,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
+					<b>1 day this R and F6000 buff</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
+					<b>Needs Testing: 7 days this R</b>
+				</p>
+				<p>EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,</p>
+				<p>S5875,S200,S400,S500,S180,</p>
+				<p>C5625,C175,C250,C340,C400,</p>
+				<p>D5125,D200,D275,D290,D330,D1375,</p>
+				<p>E135,E145,E230,E290,E320,E495,E3300,E1325,</p>
+				<p>A30,A120,A270,A2950,A250,A305,A545,A1500,</p>
+				<p>W5625,W1275,W400,W175,W275,W205,W180,W525,</p>
+				<p>F5250</p>
+				<p><b>Notes</b>: Use excavation resets to buff C5625.</p>
+				<p><b>Notes</b>: Buffing F6000 helps.</p>
+				<p><b>Notes</b>: Swap D5125 with D5625 if D5625 is buffed.</p>
+				<p><b>Notes</b>: Swap A30,A120,A270,A2950,A250,A305,A545,A1500 with A5375,A270,A2950,A30 with 1 day this R and F6000 buff.</p>
+				<p><b>Notes</b>: <b>Needs Testing</b> Swap FC11 and AR12 with DN12 and MK10 with 7 days this R.</p>
             </div>
         </div>
 		<br />
