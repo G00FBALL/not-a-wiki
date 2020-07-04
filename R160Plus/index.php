@@ -999,7 +999,7 @@
                 <p><b>Notes</b>: Buff Max Assistants, Spells, Excavation resets and F6000.</p>
 				<p><b>Notes</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</p>
 				<p><b>Notes</b>: For Makers Lineage, swap Infinite Spiral with Precognition and D5875 with D200,D275,D290,D330,D3350.</p>
-				<p><b>Notes</b>: L90 takes estimated 12-24 hours with 1e34 (100 Dc) Max Assistants, 1e30 (1 No) Spells, 100 Excavation Resets and double F6000 buff run (To buff Future Linkin).</p>
+				<p><b>Notes</b>: L90 takes estimated 24-36 hours with 1e34 (100 Dc) Max Assistants, 1e29 (100 Oc) Spells, 100 Excavation Resets and double F6000 buff run (To buff Future Linkin).</p>
             </div>
         </div>
 		<div class="shelementwhole">
