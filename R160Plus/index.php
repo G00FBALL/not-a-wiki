@@ -438,6 +438,7 @@
 				<p><b>Notes</b>: Use remaining points to buff production.</p>
             </div>
         </div>
+		<br />
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
@@ -473,6 +474,7 @@
 				<p><b>Notes</b>: Target Catalyst at Gem Grinder and (Mercenary Challenge 2) Chaos Madness at Dragon lineage for maximum benefits.</p>
             </div>
         </div>
+		<br />
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Clicks</a></b></p>
             <div class="autohide">
@@ -497,6 +499,7 @@
 				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 4 hours (with 5 hours D5625).</p>
             </div>
         </div>
+		<br />
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R198 Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
@@ -581,8 +584,10 @@
                 <p>W5125,W205,W275,W400,W525,W1275,W180,W1400,</p>
                 <p>F5250</p>
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
+				<p><b>Notes</b>: Capable of excavating Ruby #55 (at Excavation 77000)</p>
             </div>
         </div>
+		<br />
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R190 F6000</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
