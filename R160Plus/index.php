@@ -525,7 +525,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R198+ Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R198-R206 Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -553,6 +553,33 @@
                 <p>A10,A105,A150,A175,A250,A305,A545,A1500,A2950,</p>
                 <p>W25,W275,W525,W5125,</p>
                 <p>F5750</p>
+				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: ?</p>
+				<p><b>Requirement</b>: Mercenary Challenge 5</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Makers</p>
+				<p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,EL11,AN5,AN8,GB4,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,S5875,S50,S200,S400,S1500,C5125,C340,C250,C400,C590,D5875,D200,D275,D290,D330,D1375,E290,E400,E3300,E5375,E135,E145,E230,A2950,A5875,A30,A270,W5125,W205,W275,W400,W525,W1275,W180,W1400,F5250">
+				</p>
+                <p>EL3,EL7,EL11,AN5,AN8,GB4,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,</p>
+                <p>S5875,S50,S200,S400,S1500,</p>
+                <p>C5125,C340,C250,C400,C590,</p>
+                <p>D5875,D200,D275,D290,D330,D1375,</p>
+                <p>E290,E400,E3300,E5375,E135,E145,E230,</p>
+                <p>A2950,A5875,A30,A270,</p>
+                <p>W5125,W205,W275,W400,W525,W1275,W180,W1400,</p>
+                <p>F5250</p>
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
             </div>
         </div>
