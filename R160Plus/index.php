@@ -474,7 +474,7 @@
 				<p><b>Notes</b>: Target Catalyst at Gem Grinder and (Mercenary Challenge 2) Chaos Madness at Dragon lineage for maximum benefits.</p>
             </div>
         </div>
-		        <div class="shelementwhole">
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
