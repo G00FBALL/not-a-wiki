@@ -440,7 +440,7 @@
         </div>
 		<br />
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182+ Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R206 Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
@@ -472,6 +472,33 @@
                 <p><b>Notes</b>: Buff spells cast, use excavation resets to buff C5625, build scales on time this R.</p>
 				<p><b>Notes</b>: Recommended to buff F6000 before each run.</p>
 				<p><b>Notes</b>: Target Catalyst at Gem Grinder and (Mercenary Challenge 2) Chaos Madness at Dragon lineage for maximum benefits.</p>
+            </div>
+        </div>
+		        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: ?</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Undead</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>D5875</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,S50,S5875,C250,C340,C400,C590,C3100,D5875,E135,E145,E230,E320,E400,E3300,A30,A120,A270,A305,A545,A1500,A2950,W275,W5625,F5250">
+				</p>
+                <p>EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,</p>
+                <p>S50,S5875,</p>
+                <p>C250,C340,C400,C590,C3100,</p>
+                <p>D5875,</p>
+                <p>E135,E145,E230,E320,E400,E3300,</p>
+                <p>A30,A120,A270,A305,A545,A1500,A2950,</p>
+                <p>W275,W5625,</p>
+                <p>F5250</p>
+                <p><b>Notes</b>: Buff spells cast and F6000.</p>
+				<p><b>Notes</b>: Run the build several times in a row to buff Max Assistants to a higher degree.</p>
             </div>
         </div>
 		<br />
