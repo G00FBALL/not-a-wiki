@@ -268,7 +268,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ? Gems</p>
-				<p><b>Requirement</b>: Mercenary Challenge 5, at least 2d 16h this R and 2d 16h F6000 buff</p>
+				<p><b>Requirement</b>: Mercenary Challenge 5, at least 2d 16h this game (F6000 included)</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Makers</p>
@@ -454,7 +454,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
-					<b>1 day this R and F6000 buff</b>
+					<b>1 day this game (F6000 included)</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -473,7 +473,7 @@
 				<p><b>Notes</b>: Use excavation resets to buff C5625.</p>
 				<p><b>Notes</b>: Buffing F6000 helps.</p>
 				<p><b>Notes</b>: Swap D5125 with D5625 if D5625 is buffed.</p>
-				<p><b>Notes</b>: Swap A30,A120,A270,A2950,A250,A305,A545,A1500 with A5375,A270,A2950,A30 with 1 day this R and F6000 buff.</p>
+				<p><b>Notes</b>: Swap A30,A120,A270,A2950,A250,A305,A545,A1500 with A5375,A270,A2950,A30 with atleast 1 day this game (F6000 included).</p>
 				<p><b>Notes</b>: <b>Needs Testing</b> Swap FC11 and AR12 with DN12 and MK10 with 7 days this R.</p>
             </div>
         </div>
