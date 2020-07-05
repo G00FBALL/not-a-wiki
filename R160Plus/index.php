@@ -689,7 +689,6 @@
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>A2950</b>: Fairy</p>
-				<p><b>A2950 (MCC5)</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Dragon</p>
 				<p><b>MCC4 Union (R202+)</b>: Titan</p>
                 <p>
