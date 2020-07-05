@@ -252,7 +252,7 @@
                     <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
 				</p>
                 <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ7,MK6,</p>
-                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,</p>
                 <p>S30,S50,S330,S400,S5125,</p>
                 <p>C25,C80,C175,C250,C340,C5125,</p>
                 <p>D25,D55,D5875,</p>
