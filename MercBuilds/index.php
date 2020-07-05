@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Important</b>: <FONT color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the <b><a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/">Harley Quinn</b></a> build.</font>
+    <p><b>Important</b>: <FONT color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the Harley Quinn build.</font>
     <p>With version 2 comes the ability to load and save mercenary builds. The Faction Upgrades and Spells are saved in templates.</p>
     <p><b>Note</b>: You will need to manually select the alignment and bloodline.</p>
     <p><b>Templates</b> can be found at the top of each build table (if available).</p>
@@ -46,6 +46,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R7+ <font color="DarkRed">Evil</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: ?</p>
+					<p><b>Requirement</b>: Lucifer secret trophy</p>
 					<p><b>Alignment</b>: Evil</p>
 					<p><b>Bloodline</b>: Elf</p>
 					<p>
@@ -60,7 +61,8 @@
 					<p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
-					<p><b>Instructions</b>: Don't cast Blood Frenzy.</p>
+					<p><b>Notes</b>: Do not buy the upgrade available at 1750 Farms (Side Orchard) until you can buy the one at 1750 Orcish Arenas (Larger Gallery). Same at 2000 Farms.</p>
+					<p><b>Instructions</b>: Don't cast Blood Frenzy, as it has no effect on your production.</p>
 					<p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
 				</div>
 			</div>
@@ -114,7 +116,7 @@
 			</div>
         </div>
         <br/>
-        <p><b>Trophy Builds</b></p>
+        <H6 id="TrophyBuilds"></h6><p><b>Trophy Builds</b></p>
         <div class="category">
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
@@ -167,7 +169,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst (R3+ Unlimited Mana, R7+ Mana Waste)<font color="DarkRed"> Evil</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
-					<p><b>Requirements</b>: Mana Orb lore artifact</p>
+					<p><b>Requirements</b>: Power Orb lore artifact</p>
 					<p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
 					<p><b>Alignment</b>: Evil Mercenary</p>
 					<p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
@@ -201,12 +203,12 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Prismatic Beam R12+ (Know Your Enemy Lore Artifact)<font color="DarkRed"> Evil</font></a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: Artcrow</p>
+					<p><b>Author</b>: Artcrow modified by Sunk</p>
 					<p><b>Alignment</b>: Evil Mercenary</p>
 					<p><b>Bloodline</b>: Elf</p>
 					<p><button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,SP:Fairy Chanting,SP:Grand Balance"></p>
-					<p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,</p>
+					<input type="text" value="FR9,EL5,AN5,GB1,UD7,DM3,TT6,DD1,DW5,FC7,DN3,DW8,SP:Fairy Chanting,SP:Grand Balance"></p>
+					<p>FR9,EL5,AN5,GB1,UD7,DM3,TT6,DD1,DW5,FC7,DN3,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: This build is meant for when you have over excavated this R, but still need Know Your Enemy Lore Artifact.</p>
 					<p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.</p>

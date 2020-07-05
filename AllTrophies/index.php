@@ -17,13 +17,13 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle><b> Unitary</b></p>
                     <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
-                    <p><b>Cost</b>: 10 M (1e7), A1+, Free</p>
+                    <p><b>Cost</b>: 1111, A1+ Free</p>
                     <p><b>Effect</b>: Increase the production of all buildings by 11.11111111%</p>
                     <p><b>Note</b>: This can be done at any R</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle><b> Building Hater</b></p>
                     <p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
-                    <p><b>Cost</b>: 10 Dc (1e34), A1+, Free</p>
+                    <p><b>Cost</b>: 1, A1+ Free</p>
                     <p><b>Note</b>: This can be done at any R.</p>
                     <p><b>Effect</b>: Increase clicking reward by 25%</p>
                     <hr>
@@ -56,7 +56,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle><b> Assistant Squasher</b></p>
                     <p><b>Requirement</b>: Click 100 times on the little assistant around your realm.</p>
-                    <p><b>Cost</b>: 100 Qa (1e17), A1+, Free</p>
+                    <p><b>Cost</b>: 100, A1+, Free</p>
                     <p><b>Effect</b>: Instantly add 1 additional assistant.</p>
                     <p><b>Note</b>: Click the assistant to the left of spells not the ones at the bottom of page.</p>
                     <hr>
@@ -67,7 +67,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle><b> Faction Grinder</b></p>
                     <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
-                    <p><b>Cost</b>: 6 Oc (6e27), A1+, Free</p>
+                    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
                     <p><b>Effect</b>: Increase your chance to find Faction Coins by additional 2%.</p>
                     <p><b>Note</b>: This can be done at R0 (use Elf).</p>
                     <hr>
@@ -79,7 +79,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p>
                     <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
-                    <p><b>Cost</b>: 4 Dc (4e33), A1+, Free</p>
+                    <p><b>Cost</b>: 4333, A1+ Free</p>
                     <p><b>Effect</b>: Increase Mana production by 5%.</p>
                     <p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
                     <hr>
@@ -99,7 +99,7 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p>
                     <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
-                    <p><b>Cost</b>: 10 Nod (1e61), A1+, Free</p>
+                    <p><b>Cost</b>: 3000, A1+, Free</p>
                     <p><b>Effect</b>: Increase assistants production by 10%.</p>
                     <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
                     <hr>
@@ -1361,39 +1361,27 @@
                     <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
                     <p><b>Cost</b>: 100 Qid (1e50)</p>
                     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to. In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
-                    <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
+                    <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
                     <p><b>Formula</b>: (1000 * log10(1 + x))</p>
                     <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png align=middle><b> Arcane Brilliance 1</b></p>
                     <p><b>Requirement</b>: Unlock tier 2 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance2Trophy.png align=middle><b> Arcane Brilliance 2</b></p>
                     <p><b>Requirement</b>: Unlock tier 3 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance3Trophy.png align=middle><b> Arcane Brilliance 3</b></p>
                     <p><b>Requirement</b>: Unlock tier 4 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance4Trophy.png align=middle><b> Arcane Brilliance 4</b></p>
                     <p><b>Requirement</b>: Unlock tier 5 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance5Trophy.png align=middle><b> Arcane Brilliance 5</b></p>
                     <p><b>Requirement</b>: Unlock tier 6 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance6Trophy.png align=middle><b> Arcane Brilliance 6</b></p>
                     <p><b>Requirement</b>: Unlock tier 7 for all spells</p>
-                    <p><b>Effect</b>: Reduces tier unlock time</p>
-                    <p><b>Formula</b>: 43200*((T-0.5*A)^2-T+0.5*A))*0.98^(R-T+0.5*A-42), where T is tier, A is amount of arcane blillance trophies, R is reincarnation.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p>
                     <p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>

@@ -67,12 +67,12 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Magic</b></p>
         <p><b>Cost</b>: 5 Qa (5E15)</p>
         <p><b>Effect</b>: Hell Portals also increase your mana regeneration rate.</p>
-        <p><b>Formula</b>: (x ^ 0.325), where x is the number of Hell Portals you own.</p>
+        <p><b>Formula</b>: (x ^ 0.35), where x is the number of Hell Portals you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" alt="Smiley face" align="middle"> Burning Legion</b></p>
         <p><b>Cost</b>: 50 Qa (5E16)</p>
         <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
-        <p><b>Formula</b>: floor(sqrt(1 + 2.5 * x)-1), where x is the number of Hell Portals you own.</p>
+        <p><b>Formula</b>: (x ^ 0.55), where x is the number of Hell Portals you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" alt="Smiley face" align="middle"> Very Bad Guys</b></p>
         <p><b>Cost</b>: 500 Qa (5E17)</p>

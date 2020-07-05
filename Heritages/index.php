@@ -109,8 +109,7 @@
 <p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is Tax Collections cast this game.</p>
 <hr>
 <p>Advanced Heritages appear in R116+, and can be unlocked for all but the Elite Prestige and Mercenary factions.</p>
-<p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/FactionChampion/"> Master Trophy</a></b> of that faction, which requires buying the 16 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, Alliance and Union), while having Level 30 in their respective lineage, and then get 8 hours of spell activity time this game in their respective spell.</p>
-
+<p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/TrophyPage/#Master "> Master Trophy</a></b> of that faction, which requires buying the 16 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, Alliance and Union), while having Level 30 in their respective lineage, and then get 8 hours of spell activity time this game in their respective spell.</p>
 <p><b>Advanced Heritages</b>: 1 Sp (1e24) (of each of two factions for Neutral)</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>

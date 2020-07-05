@@ -53,7 +53,7 @@
                 <p><b>Mercenary Template</b>: AN1</p>
                 <p><b>Cost</b>: 50 M (5E7)</p>
                 <p><b>Effect</b>: Cathedrals also increase your mana regeneration rate.</p>
-                <p><b>Formula</b>: (x ^ 0.28), where x is the number of Cathedrals you own.</p>
+                <p><b>Formula</b>: (x ^ 0.25), where x is the number of Cathedrals you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" align="middle"> Angelic Determination</b></p>
                 <p><b>Mercenary Template</b>: AN2</p>
@@ -89,6 +89,8 @@
                 <p><b>Mercenary Template</b>: UD1</p>
                 <p><b>Cost</b>: 50 M (5E7)</p>
                 <p><b>Effect</b>: Increase the production of Necropolises by 7500%.</p>
+                <p><b>Effect</b>: Also increase Faction Coin find chance based on assistants owned.</p>
+                <p><b>Formula</b>: (2 * ln(x) ^ 2), where x is assistants owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" align="middle"> Deadened Muscles</b></p>
                 <p><b>Mercenary Template</b>: UD2</p>
@@ -99,7 +101,7 @@
                 <p><b>Mercenary Template</b>: UD3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
                 <p><b>Effect</b>: Dark Temples also increase your mana production rate.</p>
-                <p><b>Formula</b>: (x ^ 0.28), where x is the number of Dark Temples you own.</p>
+                <p><b>Formula</b>: (x ^ 0.3), where x is the number of Dark Temples you own.</p>
                 <hr>
                 <h6>Demon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TortureChambersFactionUpgrade.png" align="middle"> Torture Chambers</b></p>
@@ -146,7 +148,7 @@
                 <p><b>Mercenary Template</b>: DD2</p>
                 <p><b>Cost</b>: 5 Sx (5E21)</p>
                 <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-                <p><b>Formula</b>: floor(((1 + 12 * x) ^ 0.5 - 1 ) / 2), where x is your Playtime (This Game) stat in hours.</p></p>
+                <p><b>Formula</b>: (3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p></p>
                 <a id="Companions"></a>
 				<table class="numtable">
 					<tr>
@@ -167,7 +169,7 @@
 					</tr>
 					<tr>
 						<td><center>3</td>
-						<td><center>5</td>
+						<td><center>6</td>
 					</tr>
 					<tr>
 						<td><center>4</td>
@@ -179,15 +181,15 @@
 					</tr>
 					<tr>
 						<td><center>6</td>
-						<td><center>6</td>
+						<td><center>7</td>
 					</tr>
 					<tr>
 						<td><center>12</td>
-						<td><center>8</td>
+						<td><center>9</td>
 					</tr>
 					<tr>
 					   <td><center>18</td>
-					   <td><center>9</td>
+					   <td><center>10</td>
 					</tr>
 					<tr>
 						<td><center>24</td>
@@ -195,15 +197,15 @@
 					</tr>
 					<tr>
 						<td><center>36</td>
-						<td><center>12</td>
+						<td><center>13</td>
 					</tr>
 					<tr>
 						<td><center>48</td>
-						<td><center>14</td>
+						<td><center>15</td>
 					</tr>
 					<tr>
 						<td><center>60</td>
-						<td><center>15</td>
+						<td><center>16</td>
 					</tr>
 					<tr>
 						<td><center>72</td>
@@ -215,14 +217,13 @@
                 <p><b>Mercenary Template</b>: DD3</p>
                 <p><b>Cost</b>: 50 Sx (5E22)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
-                <p><b>Formula</b>: (x ^ 0.35), where x is total buildings you own. (additively and multiplicatively)</p>
+                <p><b>Formula</b>: (0.4 x ^ 0.4), where x is total buildings you own. (additively and multiplicatively)</p>
                 <hr>
                 <h6>Faceless</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" align="middle"> Territorial Expanse</b></p>
                 <p><b>Mercenary Template</b>: FC1</p>
                 <p><b>Cost</b>: 500 Qi (5E20)</p>
-                <p><b>Effect</b>: Chance to have a Labyrinth built for free each time you click the treasure chest. This chance is based on your income per second and the cost of the next Labyrinth. Labyrinth production is increased by 5000% per assistant you own.</p>
-                <p><b>Formula</b>: min(100,30 * (P+A)/C))%, where P is production per second excluding assistants, A is the production per second of one assistant, and C is the cost to buy one Labyrinth.</p>
+                <p><b>Effect</b>: Labyrinth production is increased by 5000% per assistant you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" align="middle"> Evolutive Mutation</b></p>
                 <p><b>Mercenary Template</b>: FC2</p>
@@ -399,7 +400,7 @@
                 <p><b>Mercenary Template</b>: AN4</p>
                 <p><b>Cost</b>: 500 B (5E11)</p>
                 <p><b>Effect</b>: Royal Castles also increase your mana production rate.</p>
-                <p><b>Formula</b>: (x ^ 0.305), where x is the number of Royal Castles you own.</p>
+                <p><b>Formula</b>: (x ^ 0.3), where x is the number of Royal Castles you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicWisdomFactionUpgrade.png" align="middle"> Angelic Wisdom</b></p>
                 <p><b>Mercenary Template</b>: AN5</p>
@@ -441,12 +442,12 @@
                 <p><b>Mercenary Template</b>: UD5</p>
                 <p><b>Cost</b>: 5 T (5E12)</p>
                 <p><b>Effect</b>: You gain additional assistants based on the amount of Necropolises you own.</p>
-                <p><b>Formula</b>: floor(2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
+                <p><b>Formula</b>: (2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" align="middle"> Plagued Buildings</b></p>
                 <p><b>Mercenary Template</b>: UD6</p>
                 <p><b>Cost</b>: 50 T (5E13)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by an additional 75% per hour of playtime in this game.</p>
+                <p><b>Effect</b>: Increase the production of all buildings by an additional 0.75% per second of playtime in this game.</p>
                 <hr>
                 <h6>Demon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/LavaPitsFactionUpgrade.png" align="middle"> Lava Pits</b></p>
@@ -648,8 +649,7 @@
                 <p><b>Mercenary Template</b>: FR9</p>
                 <p><b>Cost</b>: 500 Qa (5E17)</p>
                 <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
-                <p><b>Formula</b>: floor((sqrt(1+4 * x)-1)/3), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
-                <p><b>Reverse Formula</b>: ceiling(((x*3+1)^2-1)/4), where x is the number of Assistants you own.</p>
+                <p><b>Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
                 <hr>
                 <h6>Elf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiplomacyFactionUpgrade.png" align="middle"> Elven Diplomacy</b></p>
@@ -674,7 +674,7 @@
                 <p><b>Mercenary Template</b>: AN7
                 <p><b>Cost</b>: 5 Qa (5E15)</p>
                 <p><b>Effect</b>: Heaven's Gates also increase your mana production rate.</p>
-                <p><b>Formula</b>: (x ^ 0.33), where x is the number of Heaven's Gates you own.</p>
+                <p><b>Formula</b>: (x ^ 0.35), where x is the number of Heaven's Gates you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDominanceFactionUpgrade.png" align="middle"> Angelic Dominance</b></p>
                 <p><b>Mercenary Template</b>: AN8</p>
@@ -727,13 +727,13 @@
                 <p><b>Mercenary Template</b>: DM7
                 <p><b>Cost</b>: 5 Qa (5E15)</p>
                 <p><b>Effect</b>: Hell Portals also increase your mana regeneration rate.</p>
-                <p><b>Formula</b>: (x ^0.325), where x is the number of Hell Portals you own.</p>
+                <p><b>Formula</b>: (x ^ 0.35), where x is the number of Hell Portals you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" align="middle"> Burning Legion</b></p>
                 <p><b>Mercenary Template</b>: DM8
                 <p><b>Cost</b>: 50 Qa (5E16)</p>
                 <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
-                <p><b>Formula</b>: floor(sqrt(1+2.5*x)-1), where x is the number of Hell Portals you own.</p>
+                <p><b>Formula</b>: (x ^ 0.55), where x is the number of Hell Portals you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" align="middle"> Very Bad Guys</b></p>
                 <p><b>Mercenary Template</b>: DM9</p>

@@ -13,7 +13,7 @@
         <p><b>Clue</b>: Assistants will lead the way.</p>
         <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
         <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
-        <p><b>Chance</b>: (x / 100000000000 (100B))%, where x is assistant count.</p>
+        <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count (including temporary assistants).</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png" align="middle"> Second Crystal Fragment</b></p>
         <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
@@ -147,7 +147,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionUpgrade.png" align="middle"> Unique Building Upgrade</b></p>
         <p><b>Requirements</b>: Pavilion Quest.</p>
-        <p><b>Cost</b>: (1 QiQig (1e168)</p>
+        <p><b>Cost</b>: 1 QiQig (1e168)</p>
         <p><b>Effect</b>: Gives Pavillion Unique Building.</p>
         <br/>
         <p><b>Unique Building</b></p>

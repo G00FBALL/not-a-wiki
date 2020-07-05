@@ -36,10 +36,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e29 (100 Oc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e31 (10 No)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
+                <p><b>Range</b>: 0 - 1e31 (10 No) Gems</p>
                 <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Undead</p>
@@ -57,51 +57,27 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e29 - 1e34 (100 Oc - 10 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e31 (10 No)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e29 (100 Oc) Gems - 1e34 (10 Dc) Gems</p>
-                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
+                <p><b>Range</b>: 1e31 (10 No) Gems+</p>
+                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
                 <p><b>Alignment</b>: Good, Balance</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Elf > Druid > Angel (From best to least choice)</p>
+                <p><b>Artifact Set</b>: Angel, Elf (1e36 (1 Ud) Gems+)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D200,E25,E3250,A3400,W10,W1375">
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
 				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
-                <p>D50,D200,</p>
+                <p>D50,D1375,</p>
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
-                <p><b>Note</b>: Takes aprox. 25 minutes for SS7.</p>
-                <p><b>Note</b>: Dont cast all spells at max tiers for build-up.</p>
-
-            </div>
-        </div>
-		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels (R100-R110), 1e34 (10 Dc)+</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: DragonRu</p>
-                <p><b>Range</b>: 1e34 (10 Dc) Gems+</p>
-                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy, Art of the Crow</p>
-                <p><b>Alignment</b>: Good, Order</p>
-                <p><b>Faction</b>: Angel</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Druid, Elf (1e35 (100 Dc) Gems+)</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S400,C25,C340,D1,D175,D290,E3250,A50,A3400,W225,W400">
-				</p>
-                <p>S10,S400,</p>
-                <p>C25,C340,</p>
-                <p>D1,D175,D290,</p>
-                <p>E3250,</p>
-                <p>A50,A3400,</p>
-                <p>W225,W400</p>
-                <p><b>Note</b>: Requires a few hours to build up D175 for the first time in an R.</p>
+                <p><b>Notes</b>: Takes aprox. 25 minutes for SS7.</p>
+				<p><b>Notes</b>: Replace Angel set with Elven set at 1e36 (1 Ud) Gems+.</p>
 
             </div>
         </div>
@@ -123,7 +99,7 @@
                 <p>D50,D1375,</p>
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
-                    <p>W10,W1375</p>
+                <p>W10,W1375</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -141,12 +117,17 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375">
-					<b>1e42 (1 TD) Gems+</b>
+					<b>1e42 (1 Td) Gems+</b>
 				</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E400,A3400,W10,W1375">
-					<b>1e46 (10 QaD) Gems+</b>
+					<b>1e46 (10 Qad) Gems+</b>
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E145,A250,W10,W1375">
+					<b>1e48 (1 Qid) Gems+</b>
 				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
@@ -156,6 +137,7 @@
                 <p>W10,W1375</p>
                 <p><b>Notes</b>: Swap C400 with C340 at 1e42 (1 TD) gems.</p>
                 <p><b>Notes</b>: Swap E3250 with E400 at 1e46 (10 QaD) gems.</p>
+				<p><b>Notes</b>: Swap E400 with E145 and A3400 with A250 at 1e48 (1 Qid) Gems.</p>
                 <p><b>Notes</b>: Dont cast all the spells at max tiers until you reach union. SS7 takes aprox. 25 minutes.</p>
             </div>
         </div>

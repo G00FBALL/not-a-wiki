@@ -52,6 +52,7 @@
                     <p id="R108ProdUBTimeDiff"></p>
                     <p id="R115FCChaMul"></p>
                     <p id="R120NEMPro"></p>
+					<p id="R150CTABoost"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -155,7 +156,11 @@
                 [ 120, '#R120NEMPro', true, 1
                 , function(rei) {return 100 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
-                ]
+                ],
+				[ 150, '#R150CTABoost', false, 0
+                , function(rei) {return rei + 1;}
+                , function(rei, bonus) {return 'Unique Buildings count ' + bonus + ' times more for Call to Arms purposes.';}
+                ]				
             ];
             function CalRBen() {
                 var rei = parseInt($('#ReiCosRei').val());
@@ -296,6 +301,18 @@
                     case 160:
                         Runl('Ascension 3');
                         break;
+					case 165:
+                        Runl('Mercenary Building Contract');
+                        break;
+					case 170:
+                        Runl('Mercenary Union Contract');
+                        break;
+					case 175:
+                        Runl('Forbidden Research');
+                        break;	
+					case 190:
+                        Runl('Mercenary Challenges');
+                        break;	
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
@@ -393,15 +410,17 @@
                 <p><b>R48-R65</b>: Dragon Challenges</p>
                 <p><b>R60</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
-                <p><b>R100</b>: Second Ascension, New Alignments (Mercenary Removed)</p>
+                <p><b>R100</b>: Second Ascension, New Alignments)</p>
                 <p><b>R111</b>: Base Union</p>
                 <p><b>R116</b>: Prestige Factions Reintroduced</p>
                 <p><b>R120</b>: A2 Spells Tier 2</p>
                 <p><b>R125</b>: Archon, Djinn, and Makers (Elite Factions)</p>
-                <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
+                <p><b>R130</b>: Elite Unions and Lineages</p>
                 <p><b>R135-R153</b>: Elite Challenges</p>
-                <p><b>R160</b>: Mercenary Reintroduced</p>
+				<p><b>R160</b>: Third Ascension, Research budgets</p>
+                <p><b>R160-R170</b>: Mercenary Reintroduced</p>
                 <p><b>R175</b>: Forbidden Research</p>
+				<p><b>R190-R206</b>: Mercenary Challenges</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -462,6 +481,7 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12Reincarnations.png" alt="12 Reincarnations" align="middle"> 12 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 12 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R12) 1 Nod (1e60) Gems</p>
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/15Reincarnations.png" alt="15 Reincarnations" align="middle"> 15 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 15 times</p>

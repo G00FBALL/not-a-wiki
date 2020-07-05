@@ -11,8 +11,8 @@
     <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></b></p>
         <p><b>Event will start in</b></p>
         <p id="start">
-            <!-- <script>
-      var countDownDate1 = new Date("Feb 12, 2020 13:01:00 UTC").getTime();
+            <!--<script>
+      var countDownDate1 = new Date("April 09, 2020 13:01:00 UTC").getTime();
       var x = setInterval(function() {
           var now = new Date().getTime();
           var distance = countDownDate1 - now;
@@ -31,7 +31,7 @@
         <p><b>Event will end in</b></p>
         <p id="end">
             <script>
-                var countDownDate2 = new Date("Feb 16, 2020 18:59:00 UTC").getTime();
+                var countDownDate2 = new Date("May 21, 2020 19:59:00 UTC").getTime();
                 var x = setInterval(function() {
                     var now = new Date().getTime();
                     var distance = countDownDate2 - now;
@@ -55,12 +55,12 @@
                     <tr>
                         <th>Rubies</th>
                         <th colspan="1">Event</th>
-                        <th colspan="6">Total Cumulative Bonus 282%</th>
+                        <th colspan="6">Total Cumulative Bonus 304%</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>131 Total </td>
+                        <td>139 Total </td>
                         <td></td>
                         <td>2015</td>
                         <td>2016</td>
@@ -81,9 +81,10 @@
                             <td>4%</td>
                         </tr>
                         <tr>
-                            <td>32 (8)</td>
+                            <td>40 (8)</td>
                             <td>Easter</td>
                             <td></td>
+                            <td>14%</td>
                             <td>14%</td>
                             <td>14%</td>
                             <td>14%</td>
@@ -97,12 +98,14 @@
                             <td>&#10004;</td>
                             <td>&#10004;</td>
                             <td>&#10004;</td>
+                            <td>&#10004;</td>
                         </tr>
                         <tr>
                             <td>0</td>
                             <td>Anniversary</td>
                             <td></td>
                             <td></td>
+                            <td>8%</td>
                             <td>8%</td>
                             <td>8%</td>
                             <td>8%</td>
@@ -177,95 +180,384 @@
             <p>Event-related items can be viewed in the Event Panel, accessible by clicking the Events button (in game) on the left bottom tab.</p>
             <p><img src="/realm/Factions/picks/TotalEvent3.7.3.png" usemap="#TotalEvent3.7.3.-map">
                 <map name="TotalEvent3.7.3.-map">
-                    <area research="<img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving
-    <p>Type: Feat
-    <p>Requirement: Play during Thanksgiving
-    <p>Effect: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.
-    " coords="2,3,59,59" shape="rect">
-                    <area research="<img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine
-    <p>Requirement: Play during the Ruby Shine event.
-    <p>Cost: Free
-    <p>Effect: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.
-    <p>Formula: x ^ 1.15, where x is Rubies owned.
-    <p>Note: During the Ruby Shine event you will receive 3 Rubies per day.
-    " coords="67,4,123,60" shape="rect">
-                    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Santa'sHelpers2016.png align=middle> Santa's Helpers<p>Type: Feat<p>Requirement: Play as Elves during the Christmas season, and get at least 50 assistants.<p><b>Note</b>: Dwarf is allowed.</p><p><b>Note</b>: Unlockable in R7 using undead bloodline." coords="131,4,188,60" shape="rect">
-                    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Unholidays2016.png align=middle> Unholidays<p>Type: Feat<p>Requirement: Ally with Undead, purchase Undead Trade Treaty, Undead Friendship Pact, and Undead Alliance, during the Christmas season." coords="196,2,252,61" shape="rect">
-                    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/Snowpile42016.png align=middle> Snowpile<p>Type: Feat, 4 Quest Series<p>Requirement: Collect 1000, 5000, 12000 and 25000 Snowballs.<p>Effect: Full Series Event Bonus: 7%" coords="259,2,318,60" shape="rect">
-                    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/GiftCollector2016.png align=middle> Gift Collector<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 4, 8 and 13 Presents.<p>Effect: Full Series Event Bonus: 7%" coords="324,3,382,60" shape="rect">
-                    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/FreezingHell2018.png align=middle> Freezing Hell<p>Type: Feat<p>Requirement: Collect at least 480 Snowballs with a single click while affiliated with the Demons." coords="390,2,447,61" shape="rect">
-                    <area research="Christmas<p><img src=http://musicfamily.org/realm/Factions/picks/PerfectSnowflake.png align=middle> Perfect Snowflake<p>Type: Feat<p>Requirement: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.<p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p><p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected." coords="1,67,60,124" shape="rect">
-                    <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png align=middle> Feel the Love<p>Type: Feat, 3 Quest Series<p>Requirement: Purchase 100, 250, and 500 Heart Upgrades.<p>Effect: Full Series Event Bonus: 4%" coords="66,66,125,126" shape="rect">
-                    <area research="Valentines<p><img src=http://musicfamily.org/realm/Factions/picks/ILoveYouinEveryLanguage2017.png align=middle> I Love You in Every Language<p>Type: Feat<p>Requirement: Cast Call to Love at least once with 6 different factions." coords="130,66,189,125" shape="rect">
-                    <area research="Valentines 2018<p><img src=http://musicfamily.org/realm/Factions/picks/AssistantLove2018.png align=middle> Assistant Love<p>Type: Feat<p>Requirement: Reach 50 assistants with Heart Upgrades only.</p><p>Note: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.<p>Effect: If you unlock this feat, you will permanently unlock a new color option for the mana bar." coords="196,68,252,124" shape="rect">
-                    <area research="Valentines 2019<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateBoxFeat2019.png align=middle> Chocolate Box<p>Type: Feat<p>Requirement: Have at least 72 hours of Call to Love activity time during the Valentine event.</p><p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Increase your event bonus by a multiplicative 50%.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="260,68,317,125" shape="rect">
-                    <area research="Valentines 2020<p><img src=http://musicfamily.org/realm/Factions/picks/FairyLove.png align=middle> Fairy Love<p>While affiliated with the fairies, click 1000 times during the Valentine event.<p>If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles." coords="325,69,381,124" shape="rect">
-                    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/EggHunter7000Easter2017.png align=middle> Egg Hunter<p>Type: Feat<p>Requirement: Collect 7000 Common Eggs. Buying Eggs will not influence this total.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,67,446,125" shape="rect">
-                    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/EggCollection8Easter2017.png align=middle> Egg Collection<p>Type: Feat, 4 Quest Series<p>Requirement: Find 1, 3, 5 and 8 Unique eggs<p>Effect: Full Series Event Bonus: 7%<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="1,132,59,189" shape="rect">
-                    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/GoldenChickenEaster2017.png align=middle> Golden Chicken<p>Type: Feat<p>Requirement: Collect at least 480 eggs with a single click while playing as Goblin or Droblin (1m per egg = 8h)<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="66,133,124,189" shape="rect">
-                    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/GreyEaster2017.png align=middle> Grey Easter<p>Type: Feat<p>Requirement: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="129,133,189,189" shape="rect">
-                    <area research="Easter 2018<p><img src=http://musicfamily.org/realm/Factions/picks/BunnyHelpers2018.png align=middle> Bunny Helpers<p>Requirement: Collect at least 480 Eggs with a single click while having exactly 480 assistants.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="195,133,253,189" shape="rect">
-                    <area research="Easter<p><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg<p>Collect at least 480 Eggs with a single click while having at least 3 active spells.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Increase base clicking reward by 100% of your Mana Regeneration.<p>Effect: Also clicks once per second.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="259,134,318,189" shape="rect">
-                    <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/ChillOut.PNG align=middle> Chill Out<p>Type: Feat<p>Requirement: Collect 480 Frost Orbs while affiliated with the Summeraans.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="325,132,382,189" shape="rect">
-                    <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/WarmUp.PNG align=middle> Warm Up<p>Type: Feat<p>Requirement: Collect 480 Flame Orbs while affiliated with the Winterly.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="389,132,445,188" shape="rect">
-                    <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/SummeraanAlliance.PNG align=middle> Summeraan Champion<p>Type: Feat<p>Requirement: Purchase all 3 Summeraan upgrades<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="1,195,60,254" shape="rect">
-                    <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/WinterlyAlliance.PNG align=middle> Winterly Champion<p>Type: Feat<p>Requirement: Purchase all 3 Winterly upgrades.<p>Effect: Completing the 3 Quest series will increase your Event Bonus by 4%<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="67,197,123,253" shape="rect">
-                    <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/ClimateForecast.png align=middle> Climate Forecast<p>Type: Feat<p>Requirement: Collect at least 480 of any Orbs with a single click while unaffilliated with either of the Summer Festival faction.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="129,197,188,253" shape="rect">
-                    <area research="Summer Festival<p><img src=http://musicfamily.org/realm/Factions/picks/Frostmelter.png align=middle> Frostmelter<p>Type: Feat<p>Requirement: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Multiplicatively increase Faction Coin find chance based on clicks made all time.<p>Formula: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="195,196,254,253" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/MonsterBreederFeat.png align=middle> Monster Breeder <p>Type: Feat, 3 part Quest<p>Requirements: Grow all monsters to lvl. 50<p>Effect: Completing the 3 Quest series step will increase your Event Bonus by 4%" coords="258,195,318,253" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/PumpkinSmasher4.png align=middle> Pumpkin Smasher<p>Type: Feat, 4 part Quest<p>Requirements: Smash 6 Halloween Pumpkins<p>Effect: Completing the 4 Quest series will increase your Event Bonus by 7%" coords="324,197,381,253" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/Spooky.png align=middle> Spooky<p>Type: Feat<p>Requirements: Collect at least 480 Ectoplasm with a single click while using Ghost monster pet." coords="390,197,447,255" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/BloodThirsty.png align=middle> Bloodthirsty<p>Type: Feat<p>Requirements: Collect at least 480 Blood with a single click while using Vampire monster pet." coords="1,261,59,317" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/BonePicker.png align=middle> Bonepicker<p>Type: Feat<p>Requirements: Collect at least 480 Bones with a single click while using Skeleton monster pet." coords="66,260,124,317" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/HalloweenMagic.png align=middle> Halloween Magic <p>Type: Feat<p>Requirement: Cast each Halloween Spell at least 100 times in this reincarnation.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="131,260,189,318" shape="rect">
-                    <area research="Halloween<p><img src=http://musicfamily.org/realm/Factions/picks/SpectralSurge.png align=middle> Spectral Surge <p>Type: Feat<p>Requirements: Collect at least 480 of each resource in a single run.(This Game)<p>If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p><p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="195,261,253,318" shape="rect">
-                    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SacredHoliness2017.png align=middle> Sacred Holiness<p>Type: Feat<p>Requirement: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="260,261,317,317" shape="rect">
-                    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/DarkestHeresy2017.png align=middle> Darkest Heresy<p>Type: Feat<p>Requirement: Collect at least 480 Lava Stones with a single click while affiliated with the Demon.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="325,261,381,318" shape="rect">
-                    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/Indifference2018.png align=middle> Indifference<p>Type: Feat<p>Requirement: Collect at least 480 of any resource with a single click while affiliated with a Neutral faction.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="389,261,445,318" shape="rect">
-                    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png align=middle> Seraphim Champion<p>Type: Feat, 3 part Quest Series Seraphim Alliance<p>Requirement: Purchase all Seraphim Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="2,324,60,382" shape="rect">
-                    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/AsmondeanChampion2017.png align=middle> Asmodean Champion<p>Type: Feat, 3 part Quest Series Asmodean Alliance<p>Requirement: Purchase all Asmondean Upgrades.<p>Effect: Adds 4% cumulative bonus to you total Event bonus.<p>Effect: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="66,326,123,382" shape="rect">
-                    <area research="Anniversary<p>Blood Wars<p><img src=http://musicfamily.org/realm/Factions/picks/WorldRestoration.png align=middle> World Restoration<p>Type: Feat<p>Requirements: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation .</p><p><b>Formula</b>: (25 + 0.5 * x ^ 0.5) where x is your least used alignment in this Reincarnation (in seconds).</p><p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="131,325,189,382" shape="rect">
-                    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane<p>Type: Feat<p>Requirements: Fight the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="196,326,252,382" shape="rect">
-                    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander<p>Type: Feat<p>Requirements: Support the Goblin Army 100 times.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="259,326,319,382" shape="rect">
-                    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!<p>Type: Feat<p>Requirements: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="324,326,382,382" shape="rect">
-                    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt<p>Type: Feat<p>Requirements: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar." coords="390,326,447,383" shape="rect">
-                    <area research="Goblin Invasion<p><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada<p>Type: Feat<p>Requirements: Collect at least 480 Goblin Crowns with a single click while having no faction.<p>Note: If you unlock this feat, you will permanently unlock a new upgrade.<p>Effect: Gain assistants based on the amount of buildings you own.<p>Formula: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)<p>Note: Once unlocked, it is available during any Seasonal Event.<p>Note: This Feat is not needed to unlock new mana color." coords="3,390,60,447" shape="rect">
-                    <area research="<b>Idillium</b>
-    <p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b>
-    <p><b>Type</b>: Feat
-    <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.
-    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.
-    " coords="66,388,123,446" shape="rect">
-                    <area research="<b>Idillium</b>
-    <p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector
-    <p><b>Type</b>: Feat
-    <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.
-    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.
-    " coords="132,390,190,447" shape="rect">
-                    <area research="<b>Idillium</b>
-    <p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age
-    <p><b>Type</b>: Feat
-    <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.
-    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.
-    " coords="196,390,253,447" shape="rect">
-                    <area research="<b>Idillium</b>
-    <p><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration
-    <p><b>Type</b>: Feat
-    <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.
-    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.
-    " coords="260,391,317,446" shape="rect">
-                    <area research="<b>Idillium</b>
-    <p><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration
-    <p><b>Type</b>: Feat
-    <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.
-    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.
-    " coords="325,388,382,447" shape="rect">
-                    <area research="<b>Idillium</b>
-    <p><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration
-    <p><b>Type</b>: Feat
-    <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.
-    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.
-    " coords="389,389,446,447" shape="rect">
+    <area research="
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Play during Thanksgiving</p>
+    <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
+    " coords="4,4,62,61" shape="rect">
+    <area research="
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/RubyShineUpgrade.png align=middle> Ruby Shine</b></p>
+    <p><b>Requirement</b>: Play during the Ruby Shine event.</p>
+    <p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.</p>
+    <p><b>Formula</b>: x ^ 1.15, where x is Rubies owned.</p>
+    <p><b>Note</b>: During the Ruby Shine event you will receive 3 Rubies per day.</p>
+    " coords="67,3,125,59" shape="rect">
+    <area research="
+    <p><b>Christmas</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Santa'sHelpers2016.png align=middle> Santa's Helpers</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Play as Elves during the Christmas season, and get at least 50 assistants.</p>
+    <p><b>Note</b>: Dwarf is allowed.</p>
+    <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
+    " coords="131,2,189,59" shape="rect">
+    <area research="
+    <p><b>Christmas</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Unholidays2016.png align=middle> Unholidays</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Ally with Undead, purchase Undead Trade Treaty, Undead Friendship Pact, and Undead Alliance, during the Christmas season.</p>
+    " coords="196,2,254,59" shape="rect">
+    <area research="
+    <p><b>Christmas</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Snowpile42016.png align=middle> Snowpile</b></p>
+    <p><b>Type</b>: Feat, 4 Quest Series</p>
+    <p><b>Requirement</b>: Collect 1000, 5000, 12000 and 25000 Snowballs.</p>
+    <p><b>Effect</b>: Full Series Event Bonus: 7%</p>
+    " coords="261,4,318,59" shape="rect">
+    <area research="
+    <p><b>Christmas</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GiftCollector2016.png align=middle> Gift Collector</b></p>
+    <p><b>Type</b>: Feat, 4 Quest Series</p>
+    <p><b>Requirement</b>: Find 1, 4, 8 and 13 Presents.</p>
+    <p><b>Effect</b>: Full Series Event Bonus: 7%</p>
+    " coords="326,3,382,59" shape="rect">
+    <area research="
+    <p><b>Christmas</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/FreezingHell2018.png align=middle> Freezing Hell</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 Snowballs with a single click while affiliated with the Demons.</p>
+    " coords="390,-1,446,59" shape="rect">
+    <area research="
+    <p><b>Christmas</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/PerfectSnowflake.png align=middle> Perfect Snowflake</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.</p>
+    <p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>
+    <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p>
+    " coords="3,67,61,123" shape="rect">
+    <area research="
+    <p><b>Valentines</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png align=middle> Feel the Love</b></p>
+    <p><b>Type</b>: Feat, 3 Quest Series</p>
+    <p><b>Requirement</b>: Purchase 100, 250, and 500 Heart Upgrades.</p>
+    <p><b>Effect</b>: Full Series Event Bonus: 4%</p>
+    " coords="66,65,125,124" shape="rect">
+    <area research="
+    <p><b>Valentines</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ILoveYouinEveryLanguage2017.png align=middle> I Love You in Every Language</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Cast Call to Love at least once with 6 different factions.</p>
+    " coords="131,66,190,124" shape="rect">
+    <area research="
+    <p><b>Valentines 2018</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/AssistantLove2018.png align=middle> Assistant Love</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Reach 50 assistants with Heart Upgrades only.</p>
+    <p><b>Note</b>: Assistants from other upgrades do not effect this feat, just get 50 assistants from Heart Upgrades.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="195,66,254,123" shape="rect">
+    <area research="
+    <p><b>Valentines 2019</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateBoxFeat2019.png align=middle> Chocolate Box</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Have at least 72 hours of Call to Love activity time during the Valentine event.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Effect</b>: Increase your event bonus by a multiplicative 50%.</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="261,68,317,124" shape="rect">
+    <area research="
+    <p><b>Valentines 2020</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/FairyLove.png align=middle> Fairy Love</b></p>
+    <p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+    " coords="326,68,382,124" shape="rect">
+    <area research="
+    <p><b>Easter</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/EggHunter7000Easter2017.png align=middle> Egg Hunter</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect 7000 Common Eggs. Buying Eggs will not influence this total.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="390,67,446,124" shape="rect">
+    <area research="
+    <p><b>Easter</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/EggCollection8Easter2017.png align=middle> Egg Collection</b></p>
+    <p><b>Type</b>: Feat, 4 Quest Series</p>
+    <p><b>Requirement</b>: Find 1, 3, 5 and 8 Unique eggs</p>
+    <p><b>Effect</b>: Full Series Event Bonus: 7%</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="4,132,59,187" shape="rect">
+    <area research="
+    <p><b>Easter</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldenChickenEaster2017.png align=middle> Golden Chicken</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 eggs with a single click while playing as Goblin or Droblin (1m per egg = 8h)</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="67,130,126,189" shape="rect">
+    <area research="
+    <p><b>Easter</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GreyEaster2017.png align=middle> Grey Easter</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.</p>
+    <p><b></b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="132,130,190,188" shape="rect">
+    <area research="
+    <p><b>Easter 2018</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/BunnyHelpers2018.png align=middle> Bunny Helpers</b></p>
+    <p><b>Requirement</b>: Collect at least 480 Eggs with a single click while having exactly 480 assistants.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="196,130,254,188" shape="rect">
+    <area research="
+    <p><b>Easter 2019</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg</b></p>
+    <p><b>Requirement</b>: Collect at least 480 Eggs with a single click while having at least 3 active spells.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Effect</b>: Increase base clicking reward by 100% and clicks once per second.</p>
+    <p><b>Effect</b>: Also clicks once per second.</p>
+    <p><b>Effect</b>: Also generates the same amount of clicks while offline.</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="260,131,318,188" shape="rect">
+    <area research="
+    <p><b>Easter 2020</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Eggsceptional.png align=middle> Eggsceptional</b></p>
+    <p><b>Requirement</b>: Collect a full stack of 720 Eggs at any time during the Easter event.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="324,130,383,189" shape="rect">
+    <area research="
+    <p><b>Summer Festival</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChillOut.PNG align=middle> Chill Out</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect 480 Frost Orbs while affiliated with the Summeraans.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="389,131,448,190" shape="rect">
+    <area research="
+    <p><b>Summer Festival</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/WarmUp.PNG align=middle> Warm Up</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect 480 Flame Orbs while affiliated with the Winterly.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="2,193,60,253" shape="rect">
+    <area research="
+    <p><b>Summer Festival</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/SummeraanAlliance.PNG align=middle> Summeraan Champion</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Purchase all 3 Summeraan upgrades</p>
+    <p><b>Effect</b>: Completing the 3 Quest series will increase your Event Bonus by 4%</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="68,195,126,253" shape="rect">
+    <area research="
+    <p><b>Summer Festival</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/WinterlyAlliance.PNG align=middle> Winterly Champion</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Purchase all 3 Winterly upgrades.</p>
+    <p><b>Effect</b>: Completing the 3 Quest series will increase your Event Bonus by 4%</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="133,193,189,252" shape="rect">
+    <area research="
+    <p><b>Summer Festival</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ClimateForecast.png align=middle> Climate Forecast</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 of any Orbs with a single click while unaffilliated with either of the Summer Festival faction.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="197,196,254,253" shape="rect">
+    <area research="
+    <p><b>Summer Festival</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Frostmelter.png align=middle> Frostmelter</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
+    <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="260,197,318,252" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/MonsterBreederFeat.png align=middle> Monster Breeder</b></p>
+    <p><b>Type</b>: Feat, 3 part Quest</p>
+    <p><b>Requirement</b>: Grow all monsters to lvl. 50</p>
+    <p><b>Effect</b>: Completing the 3 Quest series step will increase your Event Bonus by 4%</p>
+    " coords="324,195,383,253" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/PumpkinSmasher4.png align=middle> Pumpkin Smasher</b></p>
+    <p><b>Type</b>: Feat, 4 part Quest</p>
+    <p><b>Requirement</b>: Smash 6 Halloween Pumpkins</p>
+    <p><b>Effect</b>: Completing the 4 Quest series will increase your Event Bonus by 7%</p>
+    " coords="389,194,447,252" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Spooky.png align=middle> Spooky</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 Ectoplasm with a single click while using Ghost monster pet.</p>
+    " coords="3,260,60,316" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/BloodThirsty.png align=middle> Bloodthirsty</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 Blood with a single click while using Vampire monster pet.</p>
+    " coords="67,258,125,316" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/BonePicker.png align=middle> Bonepicker</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 Bones with a single click while using Skeleton monster pet.</p>
+    " coords="131,258,190,317" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/HalloweenMagic.png align=middle> Halloween Magic</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="195,259,254,317" shape="rect">
+    <area research="
+    <p><b>Halloween</b></p>
+    <p><img src=http://musicfamily.org/realm/Factions/picks/SpectralSurge.png align=middle> Spectral Surge</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
+    <p><b>Note</b>If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="262,261,318,317" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War</b></p>
+    <p><img src=http://musicfamily.org/realm/Factions/picks/SacredHoliness2017.png align=middle> Sacred Holiness</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="325,260,382,317" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/DarkestHeresy2017.png align=middle> Darkest Heresy</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demon.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="390,260,446,316" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Indifference2018.png align=middle> Indifference</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect at least 480 of any resource with a single click while affiliated with a Neutral faction.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="3,322,61,381" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png align=middle> Seraphim Champion</b></p>
+    <p><b>Type</b>: Feat, 3 part Quest Series Seraphim Alliance</p>
+    <p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
+    <p><b>Effect</b>: Adds 4% cumulative bonus to you total Event bonus.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="68,324,126,380" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/AsmondeanChampion2017.png align=middle> Asmodean Champion</b></p>
+    <p><b>Type</b>: Feat, 3 part Quest Series Asmodean Alliance</p>
+    <p><b>Requirement</b>: Purchase all Asmondean Upgrades.</p>
+    <p><b>Effect</b>: Adds 4% cumulative bonus to you total Event bonus.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="131,323,190,379" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/WorldRestoration.png align=middle> World Restoration</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation .</p>
+    <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5) where x is your least used alignment in this Reincarnation (in seconds).</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="197,322,255,380" shape="rect">
+    <area research="
+    <p><b>Anniversary - Blood War 2020</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/EternalBattle.png align=middle> Eternal Battle</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="262,323,319,380" shape="rect">
+    <area research="
+    <p><b>Goblin Invasion</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Fight the Goblin Army 100 times.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="326,323,384,380" shape="rect">
+    <area research="
+    <p><b>Goblin Invasion</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Support the Goblin Army 100 times.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="391,322,448,379" shape="rect">
+    <area research="
+    <p><b>Goblin Invasion</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="4,388,61,443" shape="rect">
+    <area research="
+    <p><b>Goblin Invasion</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="66,386,125,445" shape="rect">
+    <area research="
+    <p><b>Goblin Invasion</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
+    <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="131,389,189,443" shape="rect">
+    <area research="
+    <p><b>Idillium</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="196,388,254,443" shape="rect">
+    <area research="
+    <p><b>Idillium</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="261,387,318,443" shape="rect">
+    <area research="
+    <p><b>Idillium</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="326,386,383,444" shape="rect">
+    <area research="
+    <p><b>Idillium</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="390,385,446,443" shape="rect">
+    <area research="
+    <p><b>Idillium</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="2,452,62,508" shape="rect">
+    <area research="
+    <p><b>Idillium</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
+    <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+    " coords="67,452,126,509" shape="rect">
                 </map>
             </p>
         </center>
@@ -332,7 +624,7 @@
                 <thead>
                     <tbody>
                         <tr>
-                            <th colspan="2">Event Coin Particles Options</th>
+                            <th colspan="4">Event Coin Particles Options</th>
                         </tr>
                         <tr>
                             <td>
@@ -340,8 +632,16 @@
                                 <center>Standard</center>
                             </td>
                             <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleValentine.png" width="46%" height="46%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleValentine.png" width="54%" height="54%" /></center>
                                 <center>Valentine</center>
+                            </th>
+                            <th>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg1.png" width="68%" height="68%" /></center>
+                                <center>Easter</center>
+                            </th>
+                            <th>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCloud1.png" width="68%" height="58%" /></center>
+                                <center>Blood War</center>
                             </th>
                         </tr>
                     </tbody>
@@ -362,13 +662,15 @@
                     <p><b>Effect</b>: Increase your event bonus by a multiplicative 50%.</p>
                     <br/>
                     <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg (Easter)</b></p>
-                    <p><b>Effect</b>: Increase base clicking reward by 100% of your Mana Regeneration and clicks once per second.</p>
+                    <p><b>Effect</b>: Increase base clicking reward by 100% and clicks once per second.</p>
+                    <p><b>Effect</b>: Also clicks once per second.</p>
+                    <p><b>Effect</b>: Also generates the same amount of clicks while offline.</p>
                     <br/>
                     <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada (Goblin Invasion)</b></p>
                     <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
                     <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
                     <br/>
-                    <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration (Blood Wars)</b></p>
+                    <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration (Blood War)</b></p>
                     <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
                     <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5), where x is your least used alignment in this Reincarnation (in seconds).</p>
                     <br/>
@@ -389,6 +691,322 @@
         <div class="shlisting">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2020 Events</a></b></p>
             <div class="category autohide">
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
+                    <div class="autohide">
+                        <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
+                        <p><b>Cost</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Holy Symbols and Lava Stones collected.</p>
+                        <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                        <style>
+                            div#images {
+                                width: 100%;
+                                text-align: left;
+                            }
+
+                            div#images div {
+                                display: inline-block;
+                            }
+                        </style>
+                        <p><b><center>Event Resources</center></b></p>
+                        <div id="images">
+                            <center>
+                                <div>
+                                    <center><img src="/realm/Factions/picks/HolySymbolCurrency.png" width="54%" height="54%" /></center>
+                                    <center><b>Holy Symbols</b></center>
+                                </div>
+                                <div>
+                                    <center><img src="/realm/Factions/picks/LavaStoneCurrency.png" width="64%" height="64%" /></center>
+                                    <center><b>Lava Stones</b></center>
+                                </div>
+                            </center>
+                        </div>
+                        <br>
+                        <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 720 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
+                        <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
+                        <p><b>Cost</b>: 200 Holy Symbols</p>
+                        <p><b>Description</b>: The highest Angelic ranks carry wings blazing with pure light, whose every feather is infused with enough magical power to revive a dead soul or purify the hearts of a thousand sinners. Affiliating with the Seraphim will increase your magical abilities to the extreme, but you can only do so when playing as Good or Neutral.</p>
+                        <br/>
+                        <p><b>Seraphim Quest</b></p>
+                        <p><b>Seraphim Champion 1</b></p>
+                        <p><b><img src="/realm/Factions/picks/HeavenlyFeathers2017.png" alt="Heavenly Feathers" align="middle"> Heavenly Feathers</b></p>
+                        <p><b>Cost</b>: 400 Holy Symbols.</p>
+                        <p><b>Effect</b>: All buildings also increase your mana regeneration.</p>
+                        <p><b>Formula</b>: (2 * x ^ 0.2)</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                        <br/>
+                        <p><b>Seraphim Champion 2</b></p>
+                        <p><b><img src="/realm/Factions/picks/God'sChamber2017.png" alt="God's Chamber" align="middle"> God's Chamber</b></p>
+                        <p><b>Cost</b>: 750 Holy Symbols.</p>
+                        <p><b>Effect</b>: Increase maximum mana by 1 for every 10 buildings you own.</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                        <br/>
+                        <p><b>Seraphim Champion 3</b></p>
+                        <p><b><img src="/realm/Factions/picks/BoonofRadiance2017.png" alt="Boon of Radiance" align="middle"> Boon of Radiance</b></p>
+                        <p><b>Cost</b>: 1000 Holy Symbols.</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
+                        <p><b>Formula</b>: (0.2 * (x * 30) ^ 0.85), where x is current mana regeneration.</p>
+                        <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.</p>
+                        <p><b>Effect</b>: Also completes Seraphim Champion Feat.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
+                        <p><b>Cost</b>: 200 Lava Stones</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <br/>
+                        <p><b>Asmodean Quest</b></p>
+                        <p><b>Asmodean Champion 1</b></p>
+                        <p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>
+                        <p><b>Cost</b>: 400 Lava Stones</p>
+                        <p><b>Effect</b>: Gain additional assistants based on time spent affiliated with the Asmodeans.</p>
+                        <p><b>Formula</b>: (0.25 * x * (x + 1)), where x is hours</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                        <br/>
+                        <p><b>Asmodean Champion 2</b></p>
+                        <p><b><img src="/realm/Factions/picks/AbyssalGaze2017.png" alt="Abyssal Gaze" align="middle"> Abyssal Gaze</b></p>
+                        <p><b>Cost</b>: 750 Lava Stones</p>
+                        <p><b>Effect</b>: Increase assistant production based on time spent as Evil (This R).</p>
+                        <p><b>Formula</b>: (2 * x ^ 0.7)</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                        <br/>
+                        <p><b>Asmodean Champion 3</b></p>
+                        <p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
+                        <p><b>Cost</b>: 1000 Lava Stones</p>
+                        <p><b>Effect</b>: Increase clicking rewards based on the amount of assistants you own.</p>
+						<p><b>Formula</b>: (x ^ 0.85)</p>
+                        <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
+                        <p><b>Effect</b>: Also completes Asmodean Champion Feat.</p>
+                        <hr>
+                        <p><b>Event Feats</b></p>
+                        <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                        <p><b><img src="/realm/Factions/picks/SeraphimChampion2017.png" alt="Seraphim Champion" align="middle"> Seraphim Champion</b></p>
+                        <p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/AsmondeanChampion2017.png" alt="Asmodean Champion" align="middle"> Asmodean Champion</b></p>
+                        <p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demons</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration</b></p>
+                        <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
+                        <p><b>Cost</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
+                        <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5), where x is your least used alignment in this Reincarnation (in seconds).</p>
+                        <br/>
+                        <p><b><img src=http://musicfamily.org/realm/Factions/picks/EternalBattle.png align=middle> Eternal Battle</b></p>
+                        <p><b>Type</b>: Feat</p>
+                        <p><b>Requirements</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+                        <hr>
+                        <p><b>Shop Item</b></p>
+                        <p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 40 Holy Symbols and Lava Stones for 5 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/150HolySymbolsandLavaStones2017.png" alt="150 Holy Symbols and Lava Stones" align="middle"> 150 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 150 Holy Symbols and Lava Stones for 15 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/650HolySymbolsandLavaStones2017.png" alt="650 Holy Symbols and Lava Stones" align="middle"> 650 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 650 Holy Symbols and Lava Stones for 45 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/1800HolySymbolsandLavaStones2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 1800 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 1800 Holy Symbols and Lava Stones for 100 Rubies.</p>
+                        <p>These are all the resources he could gather.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" align="middle"> Scrying</b></p>
+                        <p><b>Effect</b>: Produces 1 Lave Stone and 1 Holy Synbol every 10 minutes for 4 hours.</p>
+
+                        <hr>
+                    </div>
+                </div>
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 9 - 16 2020)</a></b></p>
+                    <div class="autohide">
+                        <p>Starts on April 09th 2020, 12.01 PM UTC and will end on April 16th 2020, 6.59 PM UTC.</p>
+                        <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
+                        <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/EventResourceEaster2017.png" alt="Blue Omelette" align="middle"> Event Resource</b></p>
+                        <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 720 Eggs! Eggs are divided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/BlueOmeletteEaster2017.png" alt="Blue Omelette" align="middle"> Blue Omelette</b></p>
+                        <p><b>Kind</b>: Upgrade</p>
+                        <p><b>Unlock / Price</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on the amount of rare eggs collected.</p>
+                        <p><b>Formula</b>: (3 * (Rare eggs) - 0.03 * (Rare eggs)^2 + 0.0002 * (Rare eggs)^3 ) % and it is limited by 100000%.</p>
+                        <p><b>Note</b>: Using Rare Eggs to buy Unique Eggs will not effect the bonus.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/BuyRareEggEaster2017.png" alt="Buy Rare Egg" align="middle"> Buy Rare Egg</b></p>
+                        <p><b>Kind</b>: Converter</p>
+                        <p><b>Unlock / Price</b>: 125 Common Eggs</p>
+                        <p><b>Note</b>: Exchange 125 Common Eggs for 1 Rare Egg.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/BuyUniqueEgg3000Easter2017.png" alt="Buy Unique Egg" align="middle"> Buy Unique Egg</b></p>
+                        <p><b>Kind</b>: Converter</p>
+                        <p><b>Unlock / Price</b>: 3000 Common Eggs</p>
+                        <p><b>Note</b>: Exchange 3000 Common Eggs for 1 Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/BuyUnique100Easter2017.png" alt="Buy Unique Egg" align="middle"> Buy Unique Egg</b></p>
+                        <p><b>Kind</b>: Converter</p>
+                        <p><b>Unlock / Price</b>: 100 Rare Eggs</p>
+                        <p><b>Note</b>: Exchange 100 Rare Eggs for 1 Unique Egg</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
+                        <hr>
+                        <p><b>Egg Hunter Quest</b></p>
+                        <p><b>Note</b>: Each Quest step will increase your Event bonus, which will be added to your Cumulative Event bonus. (Total: 7%)</p>
+                        <p><b><img src="/realm/Factions/picks/EggHunter750Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 1</b></p>
+                        <p><b>Unlock / Price</b>: Collect 750 Common Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 2.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggHunter2000Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 2</b></p>
+                        <p><b>Unlock / Price</b>: Collect 2000 Common Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 3.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggHunter4000Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 3</b></p>
+                        <p><b>Unlock / Price</b>: Collect 4000 Common Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 2%, which will be added to your cumulative Event bonus, Unlocks Quest 4.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggHunter7000Easter2017.png" alt="Egg Hunter" align="middle"> Quest Series 4</b></p>
+                        <p><b>Unlock / Price</b>: Collect 7000 Common Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 3%, which will be added to your cumulative Event bonus, Gives Egg Hunter Feat.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggHunter7000Easter2017.png" alt="Egg Hunter" align="middle"> Egg Hunter Feat</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Complete all 4 Egg Hunter Quest.</p>
+                        <hr>
+                        <p><b>Egg Collection Quest</b></p>
+                        <p><b>Note</b>: Each Quest step will increase your Event bonus, which will be added to your Cumulative Event bonus. (Total: 7%)</p>
+                        <p><b><img src="/realm/Factions/picks/EggCollection1Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 1</b></p>
+                        <p><b>Unlock / Price</b>: Find 1 Unique Egg.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 2.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggCollection3Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 2</b></p>
+                        <p><b>Unlock / Price</b>: Find 3 Unique Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 1%, which will be added to your cumulative Event bonus, Unlocks Quest 3.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggCollection5Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 3</b></p>
+                        <p><b>Unlock / Price</b>: Find 5 Unique Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 2%, which will be added to your cumulative Event bonus, Unlocks Quest 4.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggCollection8Easter2017.png" alt="Egg Collection" align="middle"> Quest Series 4</b></p>
+                        <p><b>Unlock / Price</b>: Find 8 Unique Eggs.</p>
+                        <p><b>Effect</b>: Completing this Quest step will increase your Event bonus by an additional 3%, which will be added to your cumulative Event bonus, Gives Egg Collection Feat.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggCollection8Easter2017.png" alt="Egg Collection" align="middle"> Egg Collection Feat</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Complete all 4 Egg Collection Quest.</p>
+                        <hr>
+                        <p><b>Feats</b></p>
+                        <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                        <p><b><img src="/realm/Factions/picks/EggHunter7000Easter2017.png" alt="Egg Hunter" align="middle"> Egg Hunter Feat</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Complete all 4 Egg Hunter Quest.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/EggCollection8Easter2017.png" alt="Egg Collection" align="middle"> Egg Collection Feat</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Complete all 4 Egg Collection Quest.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/GoldenChickenEaster2017.png" alt="Golden Chicken" align="middle"> Golden Chicken</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Collect at least 480 Eggs with a single click while playing as Goblin or Droblin (1m per egg = 8h)</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/GreyEaster2017.png" alt="Grey Easter" align="middle"> Grey Easter</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Find at least 1 Rare Egg while playing with no faction.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BunnyHelpers2018.png" alt="Bunny Helpers" align="middle"> Bunny Helpers</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Collect at least 480 Eggs with a single click while having exactly 480 assistants.</p>
+                        <p><b>Effect</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bowl.</p>
+                        <br/>
+                        <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChocolateEgg2019.png align=middle> Chocolate Egg</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Unlock / Price</b>: Collect at least 480 Eggs with a single click while having at least 3 active spells.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+                        <p><b>Effect</b>: Increase base clicking reward by 100% of your Mana Regeneration and clicks once per second.</p>
+                        <p><b>Note</b>: Upgrade only available during seasonal events.</p>
+                        <br/>
+                        <p><b><img src=http://musicfamily.org/realm/Factions/picks/Eggsceptional.png align=middle> Eggsceptional</b></p>
+                        <p><b>Kind</b>: Feat</p>
+                        <p><b>Requirement</b>: Collect a full stack of 720 Eggs at any time during the Easter event.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+                        <hr>
+                        <p><b>Unique Egg Upgrades</b>: You can find up to 8 unique eggs: One of each kind, and you cannot have more, nor 2 of the same kind. Unique eggs are found by 'luck' and the upgrades are free. When a unique egg is found, its upgrade will instantly appear in the upgrade tab, and will count towards the 'bought upgrades' stats.</p>
+                        <p><b><img src="/realm/Factions/picks/UGiantEggEaster2017.png" alt="Giant Egg" align="middle"> Giant Egg</b></p>
+                        <p><b>Effect</b>: Increase maximum mana by 500</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/UGoldenEggEaster2017.png" alt="Golden Egg" align="middle"> Golden Egg</b></p>
+                        <p><b>Effect</b>: Increase the production of all buildings by 100%</p>
+                        <p><b>Effect A1</b>: Increase the production of all buildings by 7.18%.</p>
+                        <p><b>Effect A2</b>: Increase the production of all buildings by 0.7%.</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/UArcaneEggEaster2017.png" alt="Arcane Egg" align="middle"> Arcane Egg</b></p>
+                        <p><b>Effect</b>: Increase mana regeneration by 10%</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/URadiantEggEaster2017.png" alt="Radiant Egg" align="middle"> Radiant Egg</b></p>
+                        <p><b>Effect</b>: Increase clicking reward by 100%</p>
+                        <p><b>Effect A1</b>: Increase clicking reward by 7.18%</p>
+                        <p><b>Effect A2</b>: Increase clicking reward by 0.07</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/UWoodenEggEaster2017.png" alt="Wooden Egg" align="middle"> Wooden Egg</b></p>
+                        <p><b>Effect</b>: Increase chance to find Faction Coins by 25%</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/UDarkEggEaster2017.png" alt="Dark Egg" align="middle"> Dark Egg</b></p>
+                        <p><b>Effect</b>: Increase offline production by 500%</p>
+                        <p><b>Effect A1</b>: Increase offline production by 19.6%</p>
+                        <p><b>Effect A2</b>: Increase offline production by 1.81%.</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/UAncientEggEaster2017.png" alt="Ancient Egg" align="middle"> Ancient Egg</b></p>
+                        <p><b>Effect</b>: Reduce excavations cost multiplier. (Excavation cost multiplier decrease 0.025)</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/UCrystalEggEaster2017.png" alt="Crystal Egg" align="middle"> Crystal Egg</b></p>
+                        <p><b>Effect</b>: Increase production bonus from gems by an additional 8%</p>
+                        <p><b>Effect</b>: Gives 1 Ruby.</p>
+                        <hr>
+                        <p><b>Scry</b> Produce 1 random Egg every 5 minutes for 4 hours.</p>
+                        <hr>
+                        <p><b>Shop Item</b></p>
+                        <p><b><img src="/realm/Factions/picks/BundleofEggs150Easter2017.png" alt="Bundle of Eggs" align="middle"> 150 Eggs</b></p>
+                        <p><b>Unlock / Price</b>: 5 Rubies</p>
+                        <p><b>Note</b>: The Easter Bunny wants to sell you 150 eggs for 5 rubies. It will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BundleofEggs600Easter2017.png" alt="Bundle of Eggs" align="middle"> 600 Eggs</b></p>
+                        <p><b>Kind</b>: Shop Item</p>
+                        <p><b>Unlock / Price</b>: 15 Rubies</p>
+                        <p><b>Note</b>: The Easter Bunny wants to sell you 600 eggs for 15 rubies. It will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BundleofEggs2500Easter2017.png" alt="Bundle of Eggs" align="middle"> 2500 Eggs</b></p>
+                        <p><b>Kind</b>: Shop Item</p>
+                        <p><b>Unlock / Price</b>: 45 Rubies</p>
+                        <p><b>Note</b>: The Easter Bunny wants to sell you 2500 eggs for 45 rubies. It will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BundleofEggs7000Easter2017.png" alt="Bundle of Eggs" align="middle"> 7000 Eggs</b></p>
+                        <p><b>Kind</b>: Shop Item</p>
+                        <p><b>Unlock / Price</b>: 100 Rubies</p>
+                        <p><b>Note</b>: The Easter Bunny wants to sell you 7000 eggs for 100 rubies. These are all the eggs he could gather.</p>
+                    </div>
+                </div>
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 11 - Feb 15, 2020)</a></b></p>
                     <div class="autohide">
@@ -1237,7 +1855,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                         <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
-                        <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8)%, where x is Evil spells cast in this Reincarnation.</p>
+                        <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
@@ -1296,7 +1914,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">4th Anniversary - Blood Wars (May 17 - May 21, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">4th Anniversary - Blood War (May 17 - May 21, 2019)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                         <p><b>Cost</b>: Free</p>
@@ -2334,7 +2952,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">3rd Anniversary - Blood Wars (May 18 - May 22, 2018)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">3rd Anniversary - Blood War (May 18 - May 22, 2018)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                         <p><b>Cost</b>: Free</p>
@@ -3196,7 +3814,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2nd Anniversary - Blood Wars (June 2 - June 6, 2017)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2nd Anniversary - Blood War (June 2 - June 6, 2017)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                         <p><b>Cost</b>: Free</p>

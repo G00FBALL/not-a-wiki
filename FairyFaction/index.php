@@ -78,8 +78,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png" alt="Smiley face" align="middle"> Swarm of Fairies</b></p>
         <p><b>Cost</b>: 500 Qa (5E17)</p>
         <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
-        <p><b>Formula</b>: floor((sqrt(1+4*x)-1)/3), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
-        <p><b>Reverse Formula</b>: ceiling(((x * 3 + 1)^ 2-1)/4), where x is the number of Assistants you own.</p>
+        <p><b>Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FairyHeritage.png" alt="Fairy Heritage" align="middle"><b> Fairy Heritage</b></p>
         <p><b>Cost</b>: 5000 Fairy Coins</p>

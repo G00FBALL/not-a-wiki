@@ -20,7 +20,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png" alt="Mystic Maze" align="middle"> <b>Mystic Maze</b></p>
 <p>"Your hive superiors have ordered you to setup a base without alerting any nearby enemies."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 9+, Faceless Bloodline, Fairy and Undead challenge 2 completed</p>
-<p><b>Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
+<p><b>Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
 <p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p>
 <p><b>Upgrade</b>: Works with Druid</p>
 <p><b>Tip</b>: Buy every building except Labyrinth and click 1000 times.</p>

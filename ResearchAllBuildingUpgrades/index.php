@@ -29,6 +29,7 @@
 <p><b>Formula</b>: round(120 * x^0.8)%, where x is your Lightning Strikes cast (This Game) stat.</p>
 <br/>
 <p><b>S305</b> - <b>For</b>: All Factions - <b>Research Name</b>: Mesmerization</p>
+<p><b>Hint</b>Face not required for a long time.</p>
 <p><b>Requirement</b>: 5 days as Faceless (Total across all R)</p>
 <p><b>Cost</b>: 225.2 OcQig (2.252E179)</p>
 <p><b>Effect</b>: Increase the production of all buildings by a fraction of your offline production bonus.</p>
@@ -66,6 +67,7 @@
 <p><b>Formula</b>: round(125 * x^0.38)%, where x is number of researches made.</p>
 <br/>
 <p><b>C1500</b> - <b>For</b>: Titan,Dragon - <b>Research Name</b>: Gargantuaness</p>
+<p><b>Hint</b>: Trading with the Dragons might prove risky, but rewarding.
 <p><b>Requirement</b>: 2500 Royal Exchanges Research E460, D1275 (As Titans)</p>
 <p><b>Cost</b>: 25 Spvg (2.52E85)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on total time spent as Neutral.</p>

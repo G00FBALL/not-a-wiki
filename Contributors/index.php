@@ -4,6 +4,11 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6>Thank you for all your help</h6>
+<p>mpeechee</p>
+<p>stmlee</p>
+<p>Lailoken</p>
+<p>Origin</p>
+<p>sunk</p>
 <p>Flameslinger01</p>
 <p>Xentha</p>
 <p>VilgefortzPL</p>

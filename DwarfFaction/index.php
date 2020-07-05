@@ -119,7 +119,7 @@
         <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Dwarven Forge Quest</p>
         <p><b>Cost</b>: 10 USxg (1E187)</p>
-        <p><b>Formula</b>: 100 * x ^ 0.9%, where x is your Mana per Second stat.</p>
+        <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
         <p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
@@ -186,7 +186,7 @@
         <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5), where x is amount of clicks made this Reincarnation.</p>
         <br/>
         <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-        <p><b>Formula</b>: ((y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, sum((digit ^ y) ^ 0.9)</p>
+        <p><b>Formula</b>: ((y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, ((sum(digit ^ y)) ^ 0.9)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>

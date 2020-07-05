@@ -154,7 +154,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUniqueBuilding.png" alt="Unique building dwarf" align="middle"></p>
 <p>Upgraded from Blacksmiths</p>
 <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (100 * x ^ 0.9), where x is your Mana per Second stat.</p>
+<p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
 <p><b>Requirement</b>: Research, 5000 Blacksmiths</p>
 <br/>
 <p><b>Ascension 2 - R116+</b></p>

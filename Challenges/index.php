@@ -28,6 +28,8 @@
 <a href="http://musicfamily.org/realm/Archon/"><b>Archon</b></a>
 <a href="http://musicfamily.org/realm/Djinn/"><b>Djinn</b></a>
 <a href="http://musicfamily.org/realm/Makers/"><b>Makers</b></a></p>
+<p><b>Mercenary Faction</b>:
+<a href="http://musicfamily.org/realm/Mercenary/"><b>Mercenary</b></a></p>
 <p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!</p>
 <p>Upon reaching R2, a "Challenge" button will appear on the left leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.</p>
 <p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.</p>
@@ -153,12 +155,12 @@
 	<p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Have 2000 Halls of Legends, and no good buildings.</p>
 	<p><b>Effect</b>: Halls of Legends benefit from any Certificate, Validation, Affirmation or Proclamation upgrade.</p>
-  <p><b>Upgrade</b>: Works with All</p>"
+    <p><b>Upgrade</b>: Works with All</p>"
 	coords="200,255,251,308" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/AvariceDriveChallenges.png align=middle> <b>Avarice Drive</b></p>
-	<p><b>Effect</b>: Increase Goblin's Greed duration by 5 seconds.</p>"
+    <p><b>Effect</b>: Goblin's Greed counts Faction Coins found in this Reincarnation.</p>"
 	coords="7,359,62,413" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC1" target="" research=
 	"<p><b>Goblin Challenge 1</b></p>
@@ -323,7 +325,7 @@
     <area href="http://musicfamily.org/realm/Druid/#DruidDCR" target="" research=
 	"<p><b>Spell upgrade challenge reward</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenges.png align=middle> <b>Primal Balance</b></p>
-	<p><b>Effect</b>: Grand Balance now affects extra buildings based on mana spent this reincarnation.</p>
+	<p><b>Effect</b>: Grand Balance affects extra buildings based on mana produced this reincarnation.</p>
 	<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is mana produced (This Reincarnation) and A is Ascension stat.</p>
 	<p><center><img src=http://musicfamily.org/realm/Factions/picks/GBTargetsA3.png alt=Primal Balance align=middle></center></a></p>
 	<p>Effect: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount.</p>
@@ -336,7 +338,7 @@
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 	<p><b>Effect</b>: Animal Companions (1,2) works faster</p>
-	<p><b>Formula</b>: floor((sqrt(1 + 120 * x) - 1) / 2), where x is your Playtime (This Game) stat in hours.</p>
+	<p><b>Formula</b>: Changes the 1.75 in DD2 to 6 or DD2 = (3 + 6 * x ^ 0.5 )</p>
 	<p><b>Upgrade</b>: Works with Druid</p><p><b>Tip</b>: Click image to see instructions</p>"
 	href="http://musicfamily.org/realm/Druid/" coords="71,774,126,829" shape="rect">
     <area href="http://musicfamily.org/realm/Druid/#DruidDC2" target="" research=
@@ -369,7 +371,7 @@
 	<p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
 	<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell. Ascension penalty reduces based on time this Reincarnation.</p>
 	<p><b>Formula</b>: (75 * x ^ 0.75), where x is the duration of your longest spell.</b></p>
-	<p><b>Ascension penalty reducution formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
+	<p><b>Ascension Penalty Reduction Formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
 	<p><b>Upgrade</b>: Works with All</b></p>
 	<p><b>Tips</b>: Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>"
 	coords="262,774,317,827" shape="rect">
@@ -396,7 +398,7 @@
 	<p><img src=http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png align=middle> <b>Mystic Maze</b></p>
 	<p>&quot;Your hive superiors have ordered you to setup a base without alerting any nearby enemies&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 9+, Faceless Bloodline, Fairy and Undead challenge 2 completed</p>
-	<p><b>Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
+	<p><b>Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
 	<p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p><p><b>Upgrade</b>: Works with Druid</p>
 	<p><b>Tip</b>: Buy every building except Labyrinth and click 1000 times.</p>"
 	coords="135,878,191,931" shape="rect">
@@ -773,5 +775,77 @@
 	<p><b>Formula</b>: ((0.3 * log10(1 + a) + log10(1 + b) + log10(1 + c) + 3 * log10(1 + d)) ^ 1.5), a is factions coins (this game), b is mana produced (this game), c is spells cast (this reincarnation), d is clicks made (this reincarnation)</p>
 	<p><b>Upgrade</b>: Works with All</p>"
 	coords="326,1481,384,1534" shape="rect">
+    <area href="http://musicfamily.org/realm/Mercenary/#MercenaryMCR" target="" research=
+	"<p><b>Spell upgrade challenge reward</b></p>
+	<p><b><img src=http://musicfamily.org/realm/Factions/picks/Warcry.png align=middle> Warcry</b></p>
+	<p>Call to Arms gains additional effects based on your alignments, scaling off your Call to Arms strength.</p>
+	<p><b>General Formula</b>: y = 25 + (0.3 * x ^ 0.975) where x is building count.</p>
+	<p><b>Good</b>: Can be cast up to tier 10 and removes an ascension penalty.</p>
+	<p><b>Evil</b>: Multiplicatively increase Tax Collection worth in seconds.</p>
+	<p><b>Formula</b>: (0.5 * y ^ 0.5)</p>
+	<p><b>Neutral</b>: Additively and multiplicatively increase Faction Coin find chance.</p>
+	<p><b>Additive Formula</b>: (100 * y)</p>
+	<p><b>Multiplicative Formula</b>: (y ^ 0.5)</p>
+	<p><b>Order</b>: Increases all spell durations.</p>
+	<p><b>Formula</b>: (25 * ln(x))</p>
+	<p><b>Chaos</b>: Multiplicatively increase assistants (Temporary).</p>
+	<p><b>Formula</b>: (y ^ 0.25)</p>
+	<p><b>Balance</b>: Increases Royal Exchange Bonus multiplicatively and makes them count more.</p>
+	<p><b>Formula</b>: (y ^ 0.5)</p>"
+    coords="3,1581,61,1638" shape="rect">
+    <area href="http://musicfamily.org/realm/Mercenary/#MercenaryMC1" target="" research=
+	"<p><b>Mercenary Challenge 1</b></p>
+	<p><b><img src=http://musicfamily.org/realm/Factions/picks/UnlimitedKnowledge.png align=middle> Unlimited Knowledge</b></p>
+	<p>To the many, having unlimited knowledge would mean having unlimited power. To the few, it is only some of that knowledge that has unlimited potential.</p>
+	<p><b>Requirements</b>: R190, Chrono Loading, Nexus unique Building, 50000 research points used.</p>
+	<p><b>Challenge</b>: Have at least 1e25 mana regen without using any non-Order upgrade or effect except Challenges and Royal Exchanges.</p>
+	<p><b>Effect</b>: Gain all the faction bloodlines simultaneously.</p>
+	<p><b>Tip</b>: Unaligned, Mercenary, Prestige and Order faction related upgrades are allowed. Upgrade alignment is determined by the background color of the upgrade.</p>
+	<p><b>In Game</b>: Click the challenge to view the Bloodline container</p>
+	<p><b>Upgrade</b>: Works with Order Mercenary</p>"
+    coords="68,1581,126,1639" shape="rect">
+    <area href="http://musicfamily.org/realm/Mercenary/#MercenaryMC2" target="" research=
+	"<p><b>Mercenary Challenge 2</b></p>
+	<p><b><img src=http://musicfamily.org/realm/Factions/picks/TheSourceofMagic.png align=middle> The Source of Magic</b></p>
+	<p>The Realm may have fallen to chaos, but there are still contracts that must be completed. What better way to complete those contracts than to embrace madness itself.</p>
+	<p><b>Requirements</b>: R194, Chaos Mercenary, Two Chaos Bloodlines, 4 Chaos spells.</p>
+	<p><b>Challenge</b>: Have at least 100 spell tiers active within 5 minutes of a new game.</p>
+	<p><b>Effect</b>: Gain the Chaos Madness spell.</p>
+    <p><img src=http://musicfamily.org/realm/Factions/picks/ChaosMadnessSpell.png></p>
+    <p><b>Cost</b>: 500000 mana</p>
+    <p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
+	<p><b>Tip</b>: Lineage level from spell is affected by lineage modifiers</p>
+	<p><b>Upgrade</b>: Works with Chaos Mercenary</p>"
+    coords="133,1583,191,1640" shape="">
+    <area href="http://musicfamily.org/realm/Mercenary/#MercenaryMC3" target="" research=
+	"<p><b>Mercenary Challenge 3</b></p>
+	<p><b><img src=http://musicfamily.org/realm/Factions/picks/MenoftheWorld.png align=middle> Men of the World</b></p>
+	<p>The best armies in the realm are those that are well-rounded: able to take on any kind of enemy that approaches.</p>
+	<p><b>Requirements</b>: R198, Balance Mercenary, 40k Excavations made in this Reincarnation, Mercenary Set.</p>
+	<p><b>Challenge</b>: Have assistants, maximum mana, mana regen and faction coin chance fall within the same order of magnitude while above 1e12.</p>
+	<p><b>Effect</b>: Gain all the faction sets simultaneously.</p>
+	<p><b>In Game</b>: Click the challenge to view the Set container</p>
+	<p><b>Upgrade</b>: Works with Balance Mercenary</p>"
+    coords="197,1582,256,1639" shape="rect">
+    <area href="http://musicfamily.org/realm/Mercenary/#MercenaryMC4" target="" research=
+	"<p><b>Mercenary Challenge 4</b></p>
+	<p><b><img src=http://musicfamily.org/realm/Factions/picks/ReturnoftheKing.png align=middle> Return of the King</b></p>
+	<p>The Mercenary Lord has returned, with newfound knowledge and power. Another challenge awaits you...</p>
+	<p><b>Requirements</b>: R202, Any Mercenary, All lineages level 90.</p>
+	<p><b>Challenge</b>: Have exactly one assistant and reach a total of 1e60 Faction Coins within 5 minutes of a new game.</p>
+	<p><b>Effect</b>: You can pick one additional Union Power.</p>
+	<p><b>Upgrade</b>: Works with Any Mercenary</p>"
+    coords="262,1581,320,1639" shape="rect">
+    <area href="http://musicfamily.org/realm/Mercenary/#MercenaryMC5" target="" research=
+	"<p><b>Mercenary Challenge 5</b></p>
+	<p><b><img src=http://musicfamily.org/realm/Factions/picks/TheArtofWar.png align=middle> The Art of War</b></p>
+	<p>An expert Mercenary should learn by other cultures. That has been our call for generations. Now, it is your turn to answer that call.</p>
+	<p><b>Requirements</b>: R206, Any Mercenary, 20k Royal Exchanges made in this game, True Harlequin build.</p>
+	<p><b>Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 800k buildings without using any research.</p>
+	<p><b>Effect</b>: Unique Buildings that match your Lineage and Set factions or their FC affinity have their production increased based on the amount of time spent with each of those factions.</p>
+	<p><b>Formula</b>: (x ^ 0.7) where x is time spent with said faction in seconds.</p>
+	<p><b>Note</b>: Works similarly to R60 and R115 powers, so a Fairy Unique building will also earn half a bonus from Djinn faction.</p>
+	<p><b>Upgrade</b>: Works with All</p>"
+    coords="326,1582,383,1639" shape="rect">
 </map>
 <?php include "../scripts/footer.html"; ?>

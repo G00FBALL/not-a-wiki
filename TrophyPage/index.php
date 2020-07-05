@@ -7,6 +7,7 @@
     <p>If a build is needed I will add a link to that build</p>
     <p><a href="http://musicfamily.org/realm/AllTrophies/"><b>Mobile text version</b></a></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/SecretTrophyMap3.7.png" usemap="#SecretTrophyMap-map"></p>
+    <H6 id="Master"></h6>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AllegiancesandGrandTrophies.png" usemap="#AllegiancesandGrandTrophies-map"></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/NonSecretTrophies3.7.png" usemap="#NonSecretTrophies-map"></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/MagicTrophyMap3.6.png" usemap="#MagicTrophyMapnew-map"></p>
@@ -21,13 +22,13 @@
     " coords="5,47,62,103" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png align=middle> <b>Unitary</b>
     <p><b>Requirement</b>: Have exactly 1 of each building at any given time.</p>
-    <p><b>Cost</b>: 10 M (1e7), A1+ Free</p>
+    <p><b>Cost</b>: 1111, A1+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings by 11.11111111%.</p>
     <p>This can be done at any R.</p>
     " coords="69,45,126,103" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretTrophy.png align=middle> <b>Building Hater</b></p>
     <p><b>Requirement</b>: Reach 100'000 coins without building anything.</p>
-    <p><b>Cost</b>: 10 Dc (1e34), A1+ Free</p>
+    <p><b>Cost</b>: 1, A1+ Free</p>
     <p><b>Effect</b>: Increase clicking reward by 25% (A Nerfed)</p>
     <p><b>Note</b>: This can be done at any R.</p>
     " coords="134,47,191,103" shape="rect">
@@ -60,7 +61,7 @@
     " coords="6,110,63,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretTrophy.png align=middle> <b>Assistant Squasher</b>
     <p><b>Requirement</b>: Click 100 times on the little assistant around your realm.</p>
-    <p><b>Cost</b>: 100 Qa (1e17), A1+ Free</p>
+    <p><b>Cost</b>: 100, A1+ Free</p>
     <p><b>Effect</b>: Instantly add 1 additional assistant.</p>
     " coords="69,110,125,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle> <b>Rewind</b></p>
@@ -71,7 +72,7 @@
     " coords="133,112,189,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretTrophy.png align=middle> <b>Faction Grinder</b></p>
     <p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
-    <p><b>Cost</b>: 6 Oc (6e27), A1+ Free</p>
+    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Effect</b>: Increase your chance to find Faction Coins by additional 2%.</p>
     <p><b>Note</b>: This can be done at R0 (use Elf).</p>
     " coords="198,111,253,167" shape="rect">
@@ -84,7 +85,7 @@
     " coords="262,110,317,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle> <b>Spellfury</b></p>
     <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
-    <p><b>Cost</b>: 4 Dc (4e33), A1+ Free</p>
+    <p><b>Cost</b>: 4333, A1+ Free</p>
     <p><b>Effect</b>: Increase Mana production by 5%.</p>
     <p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
     " coords="326,111,380,167" shape="rect">
@@ -106,7 +107,7 @@
     " coords="6,174,60,231" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle> <b>Beard Carpet</b></p>
     <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
-    <p><b>Cost</b>: 10 Nod (1e61), A1+ Free</p>
+    <p><b>Cost</b>: 3000, A1+, Free</p>
     <p><b>Effect</b>: Increase assistants production by 10%. (A Nerfed)</p>
     <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
     " coords="69,174,124,230" shape="rect">
@@ -134,21 +135,19 @@
     <p><b>Effect</b>: Increases production of all buildings by 0.15% per excavation. (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R0.</p>
     " coords="324,174,382,232" shape="rect">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle> <b>Harlequin</b></p>
+        <area href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle> <b>Harlequin</b></p>
     <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 11 different factions.</p>
     <p><b>Cost</b>: 5 Qivg (5e78), A1+ Free</p>
     <p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game) (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R3 with Merc Build (Harlequin)</p>
     <p><b>Note</b>: Click image to go to the Harlequin Build.</p>
-    " href="http://musicfamily.org/realm/MercBuilds</p>
     " coords="389,174,446,230" shape="rect">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle> <b>Lucifer</b></p>
+        <area href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle> <b>Lucifer</b></p>
     <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.</p>
     <p><b>Cost</b>: 5 Qivg (5e78), A1+ Free</p>
     <p><b>Effect</b>: Increases production of all non-neutral buildings by 300%. (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R3 with Merc Build (Lucifer)</p>
     <p><b>Note</b>: Click image to go to the Lucifer Build.</p>
-    " href="http://musicfamily.org/realm/MercBuilds/
     " coords="5,238,62,294" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MathematicianSecretTrophy.png align=middle> <b>Mathematician</b></p>
     <p><b>Requirement</b>: Have buildings amounts exactly equal to 2^tier from bottom to top, starting from 2^0 Halls of Legends up to 2^10 Farms.</p>
@@ -404,19 +403,18 @@
     <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
     " coords="387,560,446,618" shape="rect">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
+        <area href="http://musicfamily.org/realm/R160Plus/#TrueHarlequin" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
     <p><b>Requirement</b>: A3+, Mercenary Duel unlocked, As a Mercenary, purchase one upgrade from 15 different factions.</p>
     <p><b>Cost</b>: 1e152 (100 Noqag)</p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades.</p>
     <p><b>Formula</b>: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</p>
     <p><b>Note</b>: This can be done at R160+ with Mercenary Build (Apeiron/True Harlequin)</p>
     <p><b>Note</b>: Click image to go to the Apeiron/True Harlequin Build.</p>
-    " href="http://musicfamily.org/realm/R160Plus
     " coords="5,625,62,682" shape="rect">
     </map>
 
     <map name="AllegiancesandGrandTrophies-map">
-        <area research="<img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle> </b>Fairy Champion/b>
+        <area research="<img src=http://musicfamily.org/realm/Factions/picks/Fairy.png align=middle> <b>Fairy Champion</b>
     <p><b>Requirement</b>: Purchase the first 12 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, and Alliance)</p>
     <p><b>Note</b>: Can be done at R0.</p>
     " coords="3,43,61,101" shape="rect">

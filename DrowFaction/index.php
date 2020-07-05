@@ -120,7 +120,7 @@
         <p><b>Requirements</b>: Spider Sanctuary Quest</p>
         <p><b>Cost</b>: 10 USxg (1E187)</p>
         <p><b>Effect</b>: Unlocks Drow Unique Buildings.</p>
-        <p><b>Formula</b>: (30 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
+        <p><b>Formula</b>: (32 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" alt="Smiley face" align="middle"> Earth Core Artifact</b></p>
         <p><b>Description</b>: This piece of molten rock is continuously shifting its shape, responding to mysterious energy sources.</p>

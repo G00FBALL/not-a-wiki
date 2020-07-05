@@ -132,7 +132,7 @@
     <p><b>Clue</b>: Assistants will lead the way.</p>
     <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
     <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
-    <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count.</p>
+    <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count (including temporary assistants).</p>
     " coords="133,173,190,228" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png align=middle><b> Second Crystal Fragment</b></p>
     <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
@@ -419,7 +419,7 @@
     <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
     <p><b>Requirement</b>: At least 1 Ascension</p>
     <p><b>Effect</b>: Increase the production of all buildings based on their tier.</p>
-    <p><b>Formula</b>: (2.5 * (12 - T) ^ 2)%, where T is building tier.</p>
+    <p><b>Formula</b>: (3 * (2 * (11 - T)) ^ 3)%, where T is building tier.</p>
     <p><b>Chance</b>: 10%</p>
     <p><b>Cost</b>: 1 M (1E6)</p>
     <p><b>Alignment</b>: Any</p>
@@ -428,11 +428,11 @@
     <p><b>Clue</b>: Don't choose your allies until you know more.</p>
     <p><b>Description</b>: Will tell you 1 of 24 statements at random.</p>
     <p><b>Requirement</b>: No Faction</p>
-    <p><b>Upgrade Requirement</b>: R42+</p>
+    <p><b>Upgrade Requirement</b>: R40+</p>
     <p><b>Effect</b>: Increase the production of Non-Unique buildings based on total time spent. (Time in seconds this R)</p>
     <p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time this R</p>
     <p><b>Chance</b>: 0.1%</p>
-    <p><b>Cost</b>: 1 No (1e32), A2 Free</p>
+    <p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
     " coords="67,364,127,421" shape="0">
                     <area target="_blank" research="<img src=http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png align=middle> <b>Dawnstone</b></p>
     <p><b>Clue</b>: Relic of the Dawn hours.</p>
@@ -568,7 +568,7 @@
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-    <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count</p>
+    <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count (including temporary assistants)</p>
     " coords="323,493,381,551" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>

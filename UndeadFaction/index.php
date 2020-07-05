@@ -32,6 +32,8 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheWalkingDeadFactionUpgrade.png" alt="Smiley face" align="middle"> The Walking Dead</b></p>
         <p><b>Cost</b>: 50 M (5E7)</p>
         <p><b>Effect</b>: Increase the production of Necropolises by 7500%.</p>
+        <p><b>Effect</b>: Also increase Faction Coin find chance based on assistants owned.</p>
+        <p><b>Formula</b>: (2 * ln(x) ^ 2), where x is assistants owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" alt="Smiley face" align="middle"> Deadened Muscles</b></p>
         <p><b>Cost</b>: 500 M (5E8)</p>
@@ -40,7 +42,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png" alt="Smiley face" align="middle"> Death Temples</b></p>
         <p><b>Cost</b>: 5 B (5E9)</p>
         <p><b>Effect</b>: Dark Temples also increase your mana production rate.</p>
-        <p><b>Formula</b>: x ^0.28, where x is the number of Dark Temples you own.</p>
+        <p><b>Formula</b>: (x ^ 0.3), where x is the number of Dark Temples you own.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Friendship Pact</b></p>
@@ -55,11 +57,11 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" alt="Smiley face" align="middle"> Corpse Supply</b></p>
         <p><b>Cost</b>: 5 T (5E12)</p>
         <p><b>Effect</b>: You gain additional assistants based on the amount of Necropolises you own.</p>
-        <p><b>Formula</b>: floor(2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
+        <p><b>Formula</b>: (2.5 * x ^ 0.5), where x is the number of Necropolises you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" alt="Smiley face" align="middle"> Plagued Buildings</b></p>
         <p><b>Cost</b>: 50 T (5E13)</p>
-        <p><b>Effect</b>: Increase the production of all buildings by an additional 75% per hour of playtime in this game.</p>
+        <p><b>Effect</b>: Increase the production of all buildings by an additional 0.75% per second of playtime in this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Alliance</b></p>

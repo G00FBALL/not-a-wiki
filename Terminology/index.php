@@ -49,7 +49,7 @@
         <center><b>Buildings (Windows)</b></center>
         <p>You will need to disable BuyMax Button in options to use hotkeys for buildings</p>
         <p><b>Buy 1</b>: Click building</p>
-        <p><b>Buy 10</b>: CTRL +c lick building</p>
+        <p><b>Buy 10</b>: CTRL + click building</p>
         <p><b>Buy 100</b>: SHIFT + click building</p>
         <p><b>Buy 1000</b>: X + click building - R1+</p>
         <p><b>Buy Max</b>: CTRL + SHIFT + click building</p>

@@ -468,7 +468,7 @@
                 <p><b>Alignment</b>: Any</p>
                 <p>Only for Tier upgraded Spells (R42+). Allows you to set the maximum tier you wish to autocast each spell to.</p>
                 <p>In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
-                <p>Only while offline, increase mana produced by an additional 10% (for a total of 90%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x)).</p>
+                <p>Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration. (1000 * log10(1 + x)).</p>
                 <p><b>Note</b>: The trophy and offline bonus can not be acquired before R40.</p>
                 <hr>
             </div>
@@ -549,7 +549,7 @@
                 <p><b>Cost</b>: 10 USxg (1E187), A1+ Free</p>
                 <p><b>Alignment</b>: Good</p>
                 <p><b>Effect</b>: Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-                <p><b>Formula</b>: (100 * x ^0.9)%, where x is your Mana per Second stat.</p>
+                <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryResearchBuildingUpgrades.png" alt="Sunken Cities" align="middle"><b> Spider Sanctuary</b></p>
@@ -557,7 +557,7 @@
                 <p><b>Cost</b>: 10 USxg (1E187), A1+ Free</p>
                 <p><b>Alignment</b>: Evil</p>
                 <p><b>Effect</b>: Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
-                <p><b>Formula</b>: (25 * x ^0.75)%, where x is your Time Spent Offline (Total) stat.</p>
+                <p><b>Formula</b>: (32 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <hr>
                 <p><b>R46+</b></p>
@@ -1205,7 +1205,7 @@
                 <p><img src="http://musicfamily.org/realm/Factions/picks/WallFragment.png" alt="Wall Fragment" align="middle"><b> Wall Fragment</b></p>
                 <p><b>Description</b>: A fragment of an utterly and completely unbreakable wall. Enjoy your paradox.</p>
                 <p><b>Rewards</b>: Increase the production of all buildings based on their tier.</p>
-                <p><b>Formula</b>: 100* (x-1) ^2%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+                <p><b>Formula</b>: (3 * (11 - T) ^ 3)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
                 <p><b>Requirement</b>: At least 1 Ascension</p>
                 <p><b>Chance</b>: 10%</p>
                 <p><b>Cost</b>: 1 M (1E6)</p>
@@ -1541,7 +1541,7 @@
                 <p><b>Cost</b>: 1 M (1E6)</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increases the production of all buildings based on their tier.</p>
-                <p><b>Formula</b>: 100*(x-1)^2%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
+                <p><b>Formula</b>: (3 * (11 - T) ^ 3)%, where x is the building tier, starting at 1 for Halls of Legends and increasing to 11 for Farms.</p>
                 <p><b>Chance</b>: 10% (Should get it with 10 Excavations or less)</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretUpgrade.png" alt="Leet" align="middle"><b> Leet</b></p>
@@ -1552,13 +1552,13 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretUpgrade.png" alt="Unitary" align="middle"><b> Unitary</b></p>
                 <p><b>Requirement</b>: Have exactly 1 of every building.</p>
-                <p><b>Cost</b>: 10 M (1E6)</p>
+                <p><b>Cost</b>: 1111, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase the production of all buildings by 1.11111111%</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingHaterSecretUpgrade.png" alt="Building Hater" align="middle"><b> Building Hater</b></p>
                 <p><b>Requirement</b>: Reach 100,000 coins without building anything.</p>
-                <p><b>Cost</b>: 10 Dc (1E34)</p>
+                <p><b>Cost</b>: 1, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase clicking reward by 25%</p>
                 <hr>
@@ -1594,7 +1594,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AssistantSquasherSecretUpgrade.png" alt="Assistant Squasher" align="middle"><b> Assistant Squasher</b></p>
                 <p><b>Requirement</b>: Click 100 times on the little assistant beside the treasure.</p>
-                <p><b>Cost</b>: 100 Qa (1E17)</p>
+                <p><b>Cost</b>: 100, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Instantly add 1 additional assistant</p>
                 <hr>
@@ -1606,7 +1606,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FactionGrinderSecretUpgrade.png" alt="Faction Grinder" align="middle"><b> Faction Grinder</b></p>
                 <p><b>Requirement</b>: Purchase all the Faction Heritage upgrades in a single Game.</p>
-                <p><b>Cost</b>: 6 Oc (6E27)</p>
+                <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase your chance (and chance cap) to find Faction Coins by additional 1%</p>
                 <hr>
@@ -1618,7 +1618,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SpellfurySecretUpgrade.png" alt="Spellfury" align="middle"><b> Spellfury</b></p>
                 <p><b>Requirement</b>: Cast Tax Collection while having 3 other spells active.</p>
-                <p><b>Cost</b>: 4 Dc (4E33)</p>
+                <p><b>Cost</b>: 4333, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase Mana production by 5%</p>
                 <hr>
@@ -1636,7 +1636,7 @@
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretUpgrade.png" alt="Beard Carpet" align="middle"><b> Beard Carpet</b></p>
                 <p><b>Requirement</b>: Have at least 3km beards on your assistants (using Dwarf 2,3)</p>
-                <p><b>Cost</b>: 10 Nod (1E61)</p>
+                <p><b>Cost</b>: 3000, A1+ Free</p>
                 <p><b>Alignment</b>: Any</p>
                 <p><b>Effect</b>: Increase assistants production by 10%</p>
                 <hr>
@@ -2041,9 +2041,9 @@
                 <p><b>Cost</b>: Free</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/FortuneTellerMachineUpgrade.png" alt="Fortune Teller Machine" align="middle"><b> Fortune Teller Machine</b></p>
-                <p><b>Requirement</b>: Artifact, R42+</p>
+                <p><b>Requirement</b>: Artifact, R40+</p>
                 <p><b>Effect</b>: Increase the production of Non-Unique buildings bassed on total time spent. (Time in seconds this R)</p>
-                <p><b>Cost</b>: R42+ 1 No (1e32), A2+ Free</p>
+                <p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
                 <p><b>Formula</b>: 6.5 * x ^ 0.65, where x is time this R</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png" align="middle"><b> Ancestral Hourglass</b></p>
@@ -3161,7 +3161,7 @@
                     <area target="" research="Upgrade 1: Legendary Representatives<p>Requirement: 5 Halls of Legends<p>Cost Pre Ascension: 40T (4e13)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="5,2,51,51" shape="rect">
                     <area target="" research="Upgrade 2: Legendary League<p>Requirement: 25 Halls of Legends<p>Cost Pre Ascension: 1.3Qa (1.3e15)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="58,3,105,52" shape="rect">
                     <area target="" research="Upgrade 3: Legendary Heroes<p>Requirement: 75 Halls of Legends<p>Cost Pre Ascension: 2.1Qi (2.1e18)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="112,3,159,52" shape="rect">
-                    <area target="" research="Upgrade 4: Legendary Champions<p>Requirement: 150 Halls of Legends<p>Cost Pre Ascension: 100Sx (1e23)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.5% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="165,3,214,52" shape="rect">
+                    <area target="" research="Upgrade 4: Legendary Champion<p>Requirement: 150 Halls of Legends<p>Cost Pre Ascension: 100Sx (1e23)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="165,3,214,52" shape="rect">
                     <area target="" research="Upgrade 5: Legendary Leaders<p>Requirement: 200 Halls of Legends<p>Cost Pre Ascension: 140Sp (1.4e26)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 75% and Increase the production of all other buildings by an additional 0.25% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 5.76% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.0025 * T)^0.1 - 1) * 100 as a percent" coords="219,3,267,52" shape="rect">
                     <area target="" research="Upgrade 6: Legendary Lords<p>Requirement: 300 Halls of Legends<p>Cost Pre Ascension: 195No (1.95e32)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 150% and Increase the production of all other buildings by an additional 0.50% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 9.6% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.005 * T)^0.1 - 1) * 100 as a percent" coords="274,3,321,52" shape="rect">
                     <area target="" research="Upgrade 7: Legendary Army<p>Requirement: 400 Halls of Legends<p>Cost Pre Ascension: 265Ud (2.65e38)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 150% and Increase the production of all other buildings by an additional 0.5% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 9.6% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.005 * T)^0.1 - 1) * 100 as a percent" coords="327,3,374,51" shape="rect">
@@ -3178,9 +3178,9 @@
                     <area target="" research="Upgrade 18: Legendary Confluence<p>Requirement: 2000 Halls of Legends<p>Cost Pre Ascension: 8.95Qaqag (8.95e135)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 600% and all other buildings an additional 1% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 21.5% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.01 * T)^0.1 - 1) * 100 as a percent" coords="381,57,429,106" shape="rect">
                     <area target="" research="Upgrade 19: Legendary Assembly<p>Requirement: 2500 Halls of Legends<p>Cost Pre Ascension: 21.1 Qaqig (21.1e165)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the production of Hall of Legends by 600% and all other buildings an additional 1% for each trophy you unlocked.<p>Post Ascension: Increase the production of Hall of Legends by 21.5% and Increase the production of all other buildings based on the amount of trophies you unlocked.<p>Formula: ((1 + 0.01 * T)^0.1 - 1) * 100 as a percent" coords="434,57,483,106" shape="rect">
                     <area target="" research="Upgrade 20: Legendary Lands<p>Requirement: R40+, 3500 Halls of Legends<p>Cost: 5.82 Ocvg (5.82e87)<p>Increase the production of Hall of Legends by 20% and increase the production of all other buildings based on the amount trophies you unlocked.<p>Formula: 0.1% per trophy" coords="489,57,538,106" shape="rect">
-                    <area target="" research="Upgrade 21: Legendary Participation<p>Requirement: R40+, 4000 Halls of Legends<p>Cost: 343Utg (3.43e98)<p>Increase the production of Hall of Legends by 40% and increase the production of all other buildings based on the amount trophies you unlocked.<p>Formula: 0.15% per trophy" coords="2,111,51,161" shape="rect">
-                    <area target="" research="Upgrade 22: Legendary Attendance<p>Requirement: R40+, 10000 Hall of Legends<p>Cost: 20.3 Tqig (2.03e163)<p>Increases the production of Halls of Legends by 60%<p>Increases the production of all other buildings by 0.2% per trophy you unlocked." coords="54,111,105,161" shape="rect">
-                    <area target="" research="Upgrade 23: Legendary Party<p>Requirement: R100+, 18000 Hall of Legends<p>Cost: 3.92 Dqag (3.93e129)<p>Increase the production of Halls of Legends by 80%<p>Increase the production of all other buildings based on the amount of trophies you unlocked." coords="108,111,160,163" shape="rect">
+                    <area target="" research="Upgrade 21: Legendary Participation<p>Requirement: R40+, 4000 Halls of Legends<p>Cost: 343Utg (3.43e98)<p>Increase the production of Hall of Legends by 40% and increase the production of all other buildings by 0.15% per trophy you unlocked." coords="2,111,51,161" shape="rect">
+                    <area target="" research="Upgrade 22: Legendary Attendance<p>Requirement: R40+, 10000 Hall of Legends<p>Cost: 20.3 Tqig (2.03e163)<p>Increase the production of Hall of Legends by 60% and increase the production of all other buildings by 0.2% per trophy you unlocked." coords="54,111,105,161" shape="rect">
+                    <area target="" research="Upgrade 23: Legendary Party<p>Requirement: R100+, 18000 Hall of Legends<p>Cost: 3.92 Dqag (3.93e129)<p>Increase the production of Halls of Legends by 80% and increase the production of all other buildings by 0.25% per trophy you unlocked." coords="108,111,160,163" shape="rect">
                     <area target="" research="Bonus Upgrade 1: Hall of Fame<p>Requirement: Have 750 HoL (This Game)<p>Cost Pre Ascension: 1Qad (1e45)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the base production of Hall of Legends by 750,000 and Hall of Legends production by an additional 75% for every other building you own.<p>Post Ascension: Increase the base production of Hall of Legends by 750,000 and Hall of Legends production based on the amount of other buildings you own.<p>Formula: aggregate (1 + 0.75 * (B - H))^0.1 (B is total buildings, H is halls)" coords="216,110,269,163" shape="rect">
                     <area target="" research="Bonus Upgrade 2: Hall of Prestige<p>Requirement: Have 1,500 (This Game)<p>Cost Pre Ascension: 2Novg (2e90)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the base production of Hall of Legends by 2M (2e6) and Hall of Legends production by an additional 150% for every other building you own.<p>Post Ascension: Increase the base production of Hall of Legends by 2M (2e6) and Hall of Legends production based on the amount of other buildings you own.<p>Formula: aggregate (1 + 2.25 * (B - H))^0.1 (B is total buildings, H is halls)" coords="272,110,323,163" shape="rect">
                     <area target="" research="Bonus Upgrade 3: Hall of Renown<p>Requirement: Have 2,250 (This Game)<p>Cost Pre Ascension: 3Qaqag (3e135)<p>Cost Post Ascension: Free<p>Pre Ascension: Increase the base production of Hall of Legends by 7M (7e6) and Hall of Legends production by an additional 225% for every other building you own.<p>Post Ascension: Increase the base production of Hall of Legends by 7M (7e6) and Hall of Legends production based on the amount of other buildings you own.<p>Formula: aggregate (1 + 4.5 * (B - H))^0.1 (B is total buildings, H is halls)" coords="325,110,376,161" shape="rect">

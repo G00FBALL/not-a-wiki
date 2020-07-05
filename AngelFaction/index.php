@@ -33,7 +33,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" align="middle"> Holy Bells</b></p>
         <p><b>Cost</b>: 50 M (5E7)</p>
         <p><b>Effect</b>: Cathedrals also increase your mana regeneration rate.</p>
-        <p><b>Formula</b>: x ^ 0.28, where x is the number of Cathedrals you own.</p>
+        <p><b>Formula</b>: (x ^ 0.25), where x is the number of Cathedrals you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" align="middle"> Angelic Determination</b></p>
         <p><b>Cost</b>: 500 M (5E8)</p>
@@ -52,7 +52,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GuardianAngelsFactionUpgrade.png" align="middle"> Guardian Angels</b></p>
         <p><b>Cost</b>: 500 B (5E11)</p>
         <p><b>Effect</b>: Royal Castles also increase your mana production rate.</p>
-        <p><b>Formula</b>: x ^ 0.305, where x is the number of Royal Castles you own.</p>
+        <p><b>Formula</b>: (x ^ 0.3), where x is the number of Royal Castles you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicWisdomFactionUpgrade.png" align="middle"> Angelic Wisdom</b></p>
         <p><b>Cost</b>: 5 T (5E12)</p>
@@ -72,7 +72,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalGatesFactionUpgrade.png" align="middle"> Magical Gates</b></p>
         <p><b>Cost</b>: 5 Qa (5E15)</p>
         <p><b>Effect</b>: Heaven's Gates also increase your mana production rate.</p>
-        <p><b>Formula</b>: x^0.33, where x is the number of Heaven's Gates you own.</p>
+        <p><b>Formula</b>: (x ^ 0.35), where x is the number of Heaven's Gates you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDominanceFactionUpgrade.png" align="middle"> Angelic Dominance</b></p>
         <p><b>Cost</b>: 50 Qa (5E16)</p>

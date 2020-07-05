@@ -94,10 +94,11 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e70 (10 Dvg) - 1e90 (1 Novg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
+				<p><b>Requirement</b>: Archon Challenge 1</p>
 				<p><b>Range</b>: 1e70 (10 Dvg) - 1e90 (1 Novg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A120,W400">
@@ -115,6 +116,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90 (1 Novg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
+				<p><b>Requirement</b>: Archon Challenge 1</p>
 				<p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
@@ -137,16 +139,15 @@
 				<p>W225,W560,W1375</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (Reimport build)</p>
 				<p><b>Notes</b>: Swap W180 with W3150 at R150+.</p>
-				<p><b>Notes</b>: Swap W1375 with W400 if AN11 is buffed.</p>
 				<p><b>Notes</b>: Use Fairy Set at R153+ with all Challenge 5s completed.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e104 (100 Ttg)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e110 (100 Qitg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
 				<p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
-				<p><b>Range</b>: 1e104 (100 Ttg) Gems+</p>
+				<p><b>Range</b>: 1e110 (100 QItg) Gems+</p>
 				<p><b>Faction</b>: Demon</p>
 				<p><b>Bloodline</b>: Angel</p>
 				<p><b>Artifact Set</b>: Demon</p>
@@ -160,8 +161,8 @@
 				<p>E230,E400,E495,</p>
 				<p>A25,A400,A410,</p>
 				<p>W1,W135,W175,W405,W520,W590</p>
-				<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run.</p>
-				<p><b>Notes</b>: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
+				<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run. Build grows idle but its recommended to set up a spell combo before abdicating.</p>
+				<p><b>Notes</b>: Before abdicating, make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
 			</div>
 		</div>
 				<div class="shelementwhole">
@@ -173,7 +174,7 @@
 				<p><b>Faction</b>: Druid</p>
 				<p><b>Bloodline</b>: Goblin</p>
 				<p><b>Artifact Set</b>: Fairy</p>
-				<p><b>2nd Artifact Set</b>: Druid</p>
+				<p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400">
@@ -195,7 +196,7 @@
 				<p><b>Faction</b>: Druid</p>
 				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>Artifact Set</b>: Fairy</p>
-				<p><b>2nd Artifact Set</b>: Druid</p>
+				<p><b>Stoneheart Set</b>: Druid</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400">
@@ -217,33 +218,32 @@
 			<div class="autohide">
 				<p>Makers Challenge 1 can be done with the Djinnline Elves (Clicks) buff build, taking 25.5 hours from 0 clicks.</p>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (Archon Challenge 1)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Angels (Archon Challenge 1)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Sad</p>
-						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Range</b>: 1e86 (100 Spvg) Gems+</p>
 						<p><b>Faction</b>: Angel</p>
-						<p><b>Bloodline</b>: Dragon</p>
-						<p><b>Artifact Set</b>: Dwarf</p>
+						<p><b>Bloodline</b>: Goblin</p>
+						<p><b>Artifact Set</b>: Elf</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D200,E400,A120,W180">
+							<input type="text" value="S10,S3200,S400,C25,C400,C405,C520,C340,D1,D175,D290,D435,D590,D1375,E135,E400,E410,A50,A400,A495,A120,W225,W400,W560,W180">
 						</p>
-						<p>S10,S3200,</p>
-						<p>C25,C400,C405,C520,</p>
-						<p>D1,D175,D290,D435,D590,</p>
-						<p>E135,E410,</p>
-						<p>A50,A400,A495,</p>
-						<p>W225,W560,W1375</p>
-						<p><b>After Archon treaty</b>: S200,C340,D200,E400,A120,W180 (Reimport Build)</p>
-						<p><b>Note</b>: Estimated 4 hours to complete.</p>
+						<p>S10,S3200,S400,</p>
+						<p>C25,C400,C405,C520,C340,</p>
+						<p>D1,D175,D290,D435,D590,D1375,</p>
+						<p>E135,E400,E410,</p>
+						<p>A50,A400,A495,A120,</p>
+						<p>W225,W400,W560,W180</p>
+						<p><b>Note</b>: Estimated 2 hours to complete.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Fairy (Djinn Challenge 1)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
-						<p><b>Faction</b>: Fairy</p>
 						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Faction</b>: Fairy</p>
 						<p><b>Bloodline</b>: Goblin</p>
 						<p><b>Artifact Set</b>: Fairy</p>
 						<p>
@@ -265,8 +265,8 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Djinnline Demons (Djinn Challenge 2)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
-						<p><b>Faction</b>: Demon</p>
 						<p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
+						<p><b>Faction</b>: Demon</p>
 						<p><b>Bloodline</b>: Djinn</p>
 						<p><b>Artifact Set</b>: Undead</p>
 						<p>
@@ -335,8 +335,8 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Faceless (Djinn Challenge 3)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: ?</p>
-						<p><b>Faction</b>: Faceless</p>
 						<p><b>Range</b>: 1e100 (10 Dtg) Gems+</p>
+						<p><b>Faction</b>: Faceless</p>
 						<p><b>Bloodline</b>: Undead</p>
 						<p><b>Artifact Set</b>: Faceless</p>
 						<p>
@@ -374,7 +374,7 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Titans (Archon Challenge 3)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Titans (Archon Challenge 3)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Sad and Kiluh</p>
 						<p><b>Requirements</b>: 50+ Excavation Resets</p>
@@ -415,8 +415,8 @@
 						<p>C251,C375,C400,C1300,C1500,</p>
 						<p>D200,D350,</p>
 						<p>E275,E320,E1225,</p>
-						<p>A400,W260,</p>
-						<p>W1375,W1400</p>
+						<p>A400,</p>
+						<p>W260,W1375,W1400</p>
 						<p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
 						<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
 						<p><b>Notes</b>: Estimated time 5-6 hours to complete.</p>
@@ -427,8 +427,8 @@
 					<div class="autohide">
 						<p><b>Author</b>: Sad</p>
 						<p><b>Requirement</b>: Druid Lineage 45</p>
-						<p><b>Faction</b>: Faceless</p>
 						<p><b>Range</b>: 1e114 (1 Sptg) Gems+</p>
+						<p><b>Faction</b>: Faceless</p>
 						<p><b>Bloodline</b>: Druid</p>
 						<p><b>Artifact Set</b>: Dragon</p>
 						<p>
@@ -445,6 +445,7 @@
 						<p><b>Notes</b>: Skip buying Wyrm's Den Building upgrade to boost W1275 further.</p>
 						<p><b>Notes</b>: Do some DJ5 buffing during the run (Optimal time is ?)</p>
 						<p><b>Notes</b>: Grand Balance is the spell to watch. Catalyst on Fairy Chanting boosts duration further.</p>
+						<p><b>Notes</b>: <b>Once Grand Balance is at 275 days, the spell must be recasted to complete the challenge</b>.</p>
 						<p><b>Notes</b>: Estimated time to completion is 24 hours.</p>
 					</div>
 				</div>
@@ -524,6 +525,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Meta</p>
 				<p><b>Range</b>: ?</p>
+				<p><b>Requirement</b>: Archon Challenge 2 (For Faceless set buffing)</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Goblin</p>
 				<p><b>Artifact Set</b>: Faceless</p>
@@ -546,7 +548,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (R139+) (L45s)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Meta</p>
-				<p><b>Requirements</b>: Goblin Lineage L45</p>
+				<p><b>Requirements</b>: Makers Challenge 2, Goblin Lineage L45</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Goblin</p>
 				<p><b>Bloodline</b>: Any</p>
@@ -576,6 +578,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Meta</p>
 				<p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Goblin Lineage L45</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Drow</p>
 				<p><b>Artifact Set</b>: Faceless</p>
@@ -594,27 +597,26 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (R148+) (Makers L45)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (R148+) (Makers L45)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Silver</p>
-				<p><b>Requirements</b>: Goblin Lineage L45</p>
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Requirements</b>: Goblin Lineage L45, Djinn Challenge 4</p>
 				<p><b>Range</b>: ?</p>
-				<p><b>Faction</b>: Angel</p>
+				<p><b>Faction</b>: Faceless</p>
 				<p><b>Bloodline</b>: Makers</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
+				<p><b>Artifact Set</b>: Faceless</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W1375,S400,C250,D3350,E320,A120,W400">
+					<input type="text" value="S251,S375,S400,S1450,S1500,C400,C1300,D260,D290,D1125,E145,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
 				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D290,D435,D590,</p>
-				<p>E135,E410,</p>
-				<p>A50,A400,A495,</p>
-				<p>W225,W560,W1375</p>
-				<p><b>After Archon treaty</b>: S400,C250,D3350,E320,A120,W400 (Reimport Build)</p>
-				<p><b>Notes</b>: Buff Total Excavations and Excavation resets.</p>
-				<p><b>Notes</b>: Estimated time to L45 is 30 minutes.</p>
+				<p>S251,S375,S400,S1450,S1500,</p>
+				<p>C400,C1300,</p>
+				<p>D260,D290,D1125,</p>
+				<p>E145,E350,E1225,</p>
+				<p>A300,A1200,A3400,</p>
+				<p>W275,W1375,W1400</p>
+				<p><b>Notes</b>: Buff Total Excavations, Excavation resets, max assistants and spell casts.</p>
+				<p><b>Notes</b>: Estimated time to L45 is ?.</p>
 			</div>
 		</div>
 	</div>
@@ -834,7 +836,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makerline Angels (Total Excavations/Excavation resets build)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angels (Total Excavations/Excavation resets build)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: AquaKnight</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>
