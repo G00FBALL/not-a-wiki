@@ -518,7 +518,7 @@
     " coords="131,389,189,443" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
-    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
