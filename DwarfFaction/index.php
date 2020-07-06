@@ -138,7 +138,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKingsFactionUpgrade.png" alt="Smiley face" align="middle"> Legacy of The Dwarven Kings</b></p>
         <p><b>Description</b>: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the wind.</p>
         <p><b>Requirement</b>: Find the Horn of the Kings artifact (Requires Dwarven Forges and 3250 Excavations)</p>
-        <p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins</p>
+        <p><b>Cost</b>: 10 SxSpg (1E232), 100 M (1e8) Dwarven Coins</p>
         <p><b>Effect</b>: Adds 3 extra Dwarven research slots: 2 for Craftsmanship and 1 to the faction's facility you are playing.</p>
         <p><b>Note</b>: Required to be bought each Dwarven research run.</p>
         <br/>

@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
@@ -1348,7 +1348,7 @@
 								</p>Neutral Effect: The amount increased is based on Royal Exchanges made
 								</p>Formula: (x ^ 0.75), where x royal exchanges made.
 								</p>Notes: Faction and Set Alignments has to match to buy the upgrade (Evil, Good, Neutral).</td>
-							<td>Goblinline Dwairy with E50,E135</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>

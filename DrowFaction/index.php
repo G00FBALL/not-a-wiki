@@ -138,7 +138,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlameofBondelnarFactionUpgrade.png" alt="Smiley face" align="middle"> Dark Light of Bondelnar</b></p>
         <p><b>Description</b>: The magical azure flame of Bondelnar constantly emanates a silent, yet subtle, evil aura.</p>
         <p><b>Requirement</b>: Find the Flame of Bondelnar artifact (Requires Spider Sanctuaries and 3250 Excavations)</p>
-        <p><b>Cost</b>: 10 SxSpg (1E232), 100M Dwarven Coins</p>
+        <p><b>Cost</b>: 10 SxSpg (1E232), 100 M (1e8) Drow Coins</p>
         <p><b>Effect</b>: Adds 3 extra Drow research slots: 2 for Warfare and 1 to the faction's facility you are playing.</p>
         <p><b>Note</b>: Required to be bought each Drow research run.</p>
         <br/>
