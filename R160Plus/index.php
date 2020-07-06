@@ -37,7 +37,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e60 (1 Nod) Gems</p>
-                <p><b>Requirement</b>: Mercenary Duel</p>
+                <p><b>Requirements</b>: Mercenary Duel</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -62,7 +62,7 @@
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range (R175-R180)</b>: 0 - 1e70 (10 Dvg) Gems</p>
 				<p><b>Range (R181+)</b>: 0 - 1e50 (100 Qid) Gems </p>
-                <p><b>Requirement</b>: A3 Research Facility Artifacts</p>
+                <p><b>Requirements</b>: A3 Research Facility Artifacts</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Titan</p>
@@ -137,7 +137,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 Gems+</p>
-				<p><b>Requirement</b>: Mercenary Challenge 1</p>
+				<p><b>Requirements</b>: Mercenary Challenge 1</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -169,7 +169,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
-				<p><b>Requirement</b>: Mercenary Challenge 3</p>
+				<p><b>Requirements</b>: Mercenary Challenge 3</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Elf</p>
@@ -214,7 +214,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e105 (1 Novg) Gems</p>
-				<p><b>Requirement</b>: Mercenary Challenge 5</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5</p>
                 <p><b>Faction</b>: Evil/Order Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Faceless </p>
@@ -241,7 +241,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e105 (1 Novg) Gems - ?</p>
-				<p><b>Requirement</b>: Mercenary Challenge 5</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -268,7 +268,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ? Gems</p>
-				<p><b>Requirement</b>: Mercenary Challenge 5, at least 2d 16h this game (F6000 included)</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5, at least 2d 16h this game (F6000 included)</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Makers</p>
@@ -350,7 +350,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Weedheter</p>
                 <p><b>Range</b>: 1e45 (1 Qad) Gems+</p>
-				<p><b>Requirement</b>: 1e7 (10 M) clicks, 1e18 (1 Qi) spells cast</p>
+				<p><b>Requirements</b>: 1e7 (10 M) clicks, 1e18 (1 Qi) spells cast</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
@@ -443,6 +443,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5</p>
                 <p><b>Faction</b>: Evil/Order Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
                 <p><b>A2950</b>: Dragon</p>
@@ -475,6 +476,38 @@
 				<p><b>Notes</b>: Swap D5125 with D5625 if D5625 is buffed.</p>
 				<p><b>Notes</b>: Swap A30,A120,A270,A2950,A250,A305,A545,A1500 with A5375,A270,A2950,A30 with atleast 1 day this game (F6000 included).</p>
 				<p><b>Notes</b>: <b>Needs Testing</b> Swap FC11 and AR12 with DN12 and MK10 with 7 days this R.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Spell casts, Mana Produced (High Gems)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font>b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5, at least 2d 16h this game (F6000 included)</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Undead</p>
+				<p><b>Bloodline (1 day+ D5625)</b>: Archon</p>
+                <p><b>A2950</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,S50,S400,S5875,C250,C340,C400,C5875,D5875,D200,D275,D290,E135,E3300,E5375,E400,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,S50,S400,S5875,C250,C340,C400,C5875,D5625,D200,D275,D290,E135,E3300,E5375,E400,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
+					<b>1 day+ D5625</b>
+				</p>
+				<p>EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,</p>
+				<p>S50,S400,S5875,</p>
+				<p>C250,C340,C400,C5875,</p>
+				<p>D5875,D200,D275,D290,</p>
+				<p>E135,E3300,E5375,E400,</p>
+				<p>A2950,A5875,</p>
+				<p>W180,W205,W275,W400,W525,W1400,W5625,</p>
+				<p>F5250</p>
+				<p><b>Notes</b>: Swap D5875 with D5625 and use Archon Lineage if D5625 is buffed (1 day+).</p>
             </div>
         </div>
 		<br />
@@ -518,6 +551,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
                 <p><b>A2950</b>: Elf</p>
@@ -598,7 +632,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
-				<p><b>Requirement</b>: Mercenary Challenge 3</p>
+				<p><b>Requirements</b>: Mercenary Challenge 3</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Elf</p>
@@ -630,7 +664,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ?</p>
-				<p><b>Requirement</b>: Mercenary Challenge 5</p>
+				<p><b>Requirements</b>: Mercenary Challenge 5</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Fairy</p>
                 <p><b>A2950</b>: Makers</p>
