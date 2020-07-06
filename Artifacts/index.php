@@ -90,7 +90,7 @@
     <p><b>Requirements</b>: have Dwarven Forges, 3250+ Excavations (as Dwarf)</p>
     <p><b>Effect</b>: Unlocks Legacy of the Kings upgrade that adds 3 extra slots: 2 for Craftsmanship and 1 to the faction's facility you are playing</p>
     <p><b>Chance</b>: 0.5%</p>
-    <p><b>Cost</b></b>: 10 SxSpg (1E232) and 10m Dwarven Coins</p>
+    <p><b>Cost</b></b>: 10 SxSpg (1E232) and 100 M (1e8) Dwarven Coins</p>
     <p><b>Alignment</b>: Dwarf</p>
     " coords="132,107,190,166" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/FlameofBondelnar.png alt=Flame of Bondelnar align=middle><b> Flame of Bondelnar</b></p>
@@ -98,7 +98,7 @@
     <p><b>Requirements</b>: Have Spider Sanctuaries (as Drow) Excavations: 3250+</p>
     <p><b>Effect</b>: Unlocks the upgrade The Dark Light of Bondelnar that adds 3 extra slots: 2 for Warfare and 1 to the faction's facility you are playing</p>
     <p><b>Chance</b>: 0.5%</p>
-    <p><b>Cost</b>: 10 SxSpg (1E232), 10m Drow Coins</p>
+    <p><b>Cost</b>: 10 SxSpg (1E232), 100 M (1e8) Drow Coins</p>
     <p><b>Alignment</b>: Drow</p>
     " coords="197,108,253,166" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png alt=Flame of Bondelnar align=middle><b> Spiky Rough Egg</b></p>
