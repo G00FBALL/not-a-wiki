@@ -184,7 +184,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
-					<b>30 minutes+ run</b>
+					<b>1 hour+ run</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -194,7 +194,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
-					<b>MCC4 completed (R202+), 30 minutes+ run</b>
+					<b>MCC4 completed (R202+), 1 hour+ run</b>
 				</p>
                 <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
                 <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,</p>
@@ -206,7 +206,7 @@
                 <p>W25,W275,W525,W5125,</p>
                 <p>F5750</p>
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
-				<p><b>Notes</b>: Swap A2950 Elf with Makers and D5875 with D200,D275,D290,D5125 at 30 minutes+ runs.</p>
+				<p><b>Notes</b>: Swap A2950 Elf with Makers and D5875 with D200,D275,D290,D5125 at 1 hour+ runs.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -249,9 +249,9 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,FC7,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
 				</p>
-                <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ7,MK6,</p>
+                <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,FC7,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,</p>
                 <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,</p>
                 <p>S30,S50,S330,S400,S5125,</p>
                 <p>C25,C80,C175,C250,C340,C5125,</p>
@@ -276,14 +276,9 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
 				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
-					<b>DJ5</b>
-				</p>
-                <p>EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,TT6,DN2,DW12,AR3,AR10,DJ7,MK6,</p>
+                <p>EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,</p>
                 <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,</p>
                 <p>S50,S400,S1500,S5875,</p>
                 <p>C250,C340,C400,C590,C5125,</p>
@@ -293,7 +288,6 @@
                 <p>W150,W180,W205,W275,W400,W525,W1400,W5125,</p>
                 <p>F5750</p>
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
-				<p><b>Notes</b>: Swap MK6 -> DJ5 if spells are buffed enough (?)</p>
             </div>
         </div>
     </div>
