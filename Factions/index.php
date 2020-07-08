@@ -153,7 +153,7 @@
 <p><b>Cost</b>: 1 Dc (1e33) Elven and Goblin Coins</p>
 <hr>
 <p><b>Faction Spell & Upgrades</b></p>
-<p>Each Faction has its own Faction specific spell and 3x3 Tier upgrades (3x4 for Mercenaries). The Tier upgrades only show up in order , so when you buy Tier 1 then Tier 2 will show up and then Tier 3, and hence cannot be bought before.</p>
+<p>Each Faction has its own Faction specific spell and 3x3 Tier upgrades (3x4 for Mercenaries). The Tier upgrades only show up in order, so when you buy Tier 1 then Tier 2 will show up and then Tier 3, and hence cannot be bought before.</p>
 <p>Each Faction also has its own symbol and color code.</p>
 <p>In the first column are the Tier 1 upgrades, in the second, Tier 2 and third, Tier 3 upgrades. </p>
 <p>The first colored upgrade of each tier cost Faction coins and they unlock the 3 following upgrades.</p>
