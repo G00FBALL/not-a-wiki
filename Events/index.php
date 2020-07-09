@@ -630,25 +630,25 @@
                         </tr>
                         <tr>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/FactionCoinTrophy6.png" width="54%" height="54%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/FactionCoinTrophy6.png" width="32px" height="32px" /></center>
                                 <center>Standard</center>
                             </td>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleValentine.png" width="54%" height="54%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleValentine.png" width="32px" height="32px" /></center>
                                 <center>Valentine</center>
                             </th>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg1.png" width="68%" height="68%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg1.png" width="32px" height="32px" /></center>
                                 <center>Easter</center>
                             </td>
 						</tr>
 						<tr>						
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCloud1.png" width="68%" height="58%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCloud1.png" width="32px" height="32px" /></center>
                                 <center>Blood War</center>
                             </td>
 							<td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleNugget.png" width="68%" height="58%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleNugget.png" width="32px" height="32px" /></center>
                                 <center>Goblin Invasion</center>
                             </td>
 						</tr>
@@ -795,7 +795,7 @@
                         <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 						<br/>
-                        <p><b><img src="/realm/Factions/picks/PlatinumTrophy.png" align="middle"> Platinum Trophy</b></p>
+                        <p><b><img src="/realm/Factions/picks/PlatinumTrophyFeat.png" align="middle"> Platinum Trophy</b></p>
                         <p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
 						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <hr>
