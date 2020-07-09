@@ -552,7 +552,7 @@
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="2,452,62,508" shape="rect">
+    " coords="2,452,62,509" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration</b></p>
@@ -566,7 +566,7 @@
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="131,389,189,443" shape="rect">
+    " coords="131,452,189,509" shape="rect">
                 </map>
             </p>
         </center>
