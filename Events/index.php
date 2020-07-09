@@ -648,7 +648,7 @@
                                 <center>Blood War</center>
                             </td>
 							<td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCrown1.png" width="68%" height="58%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleNugget.png" width="68%" height="58%" /></center>
                                 <center>Goblin Invasion</center>
                             </td>
 						</tr>
