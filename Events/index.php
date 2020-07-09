@@ -518,48 +518,55 @@
     <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
     " coords="131,389,189,443" shape="rect">
+	 <area research="
+    <p><b>Goblin Invasion</b></p>
+	<p><b><img src='/realm/Factions/picks/PlatinumTrophyFeat.png' align=middle> Platinum Trophy</b></p>
+	<p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+    " coords="196,388,254,443" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="196,388,254,443" shape="rect">
+    " coords="261,387,318,443" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="261,387,318,443" shape="rect">
+    " coords="326,386,383,443" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="326,386,383,444" shape="rect">
+    " coords="390,385,446,443" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="390,385,446,443" shape="rect">
+    " coords="2,452,62,508" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="2,452,62,508" shape="rect">
+    " coords="67,452,126,509" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="67,452,126,509" shape="rect">
+    " coords="131,389,189,443" shape="rect">
                 </map>
             </p>
         </center>
