@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
@@ -55,7 +55,7 @@
                     <tr>
                         <th>Rubies</th>
                         <th colspan="1">Event</th>
-                        <th colspan="6">Total Cumulative Bonus 304%</th>
+                        <th colspan="6">Total Cumulative Bonus 312%</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -115,6 +115,7 @@
                             <td>Goblin Invasion</td>
                             <td></td>
                             <td></td>
+                            <td>8%</td>
                             <td>8%</td>
                             <td>8%</td>
                             <td>8%</td>
@@ -511,53 +512,60 @@
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
-    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
-    <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
-    <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
-    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    <p><b>Note</b>:  If you unlock this feat, you will permanently unlock a new upgrade.</p>
+    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
     " coords="131,389,189,443" shape="rect">
     <area research="
+    <p><b>Goblin Invasion</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/PlatinumTrophy.png align=middle> <b>Platinum Trophy</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirements</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+    <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="196,386,254,443" shape="rect">
+    <area research="
     <p><b>Idillium</b></p>
-    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> Gentle Collector</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="196,388,254,443" shape="rect">
+    " coords="261,386,319,443" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="261,387,318,443" shape="rect">
+    " coords="326,387,385,444" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="326,386,383,444" shape="rect">
+    " coords="392,386,446,444" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="390,385,446,443" shape="rect">
+    " coords="2,451,60,508" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="2,452,62,508" shape="rect">
+    " coords="67,451,126,508" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="67,452,126,509" shape="rect">
+    " coords="132,451,190,508" shape="rect">
                 </map>
             </p>
         </center>
@@ -624,7 +632,7 @@
                 <thead>
                     <tbody>
                         <tr>
-                            <th colspan="4">Event Coin Particles Options</th>
+                            <th colspan="5">Event Coin Particles Options</th>
                         </tr>
                         <tr>
                             <td>
@@ -642,6 +650,10 @@
                             <th>
                                 <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCloud1.png" width="68%" height="58%" /></center>
                                 <center>Blood War</center>
+                            </th>
+                            <th>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleNugget.png" width="38%" height="31" /></center>
+                                <center>Goblin Invasion</center>
                             </th>
                         </tr>
                     </tbody>
@@ -691,6 +703,140 @@
         <div class="shlisting">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2020 Events</a></b></p>
             <div class="category autohide">
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (June ? - July ?, 2020)</a></b></p>
+                    <div class="autohide">
+
+                        <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
+                        <p><b>Cost</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
+                        <p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+                        <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                        <br/>
+                        <p><b>Event Resources</b></p>
+                        <p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b></p>
+                        <p>During the Goblin Invasion Event you will be able to collect Goblin Crowns, appearing in a random location of your screen at a rate of 1 per minute, stacking up to 720 units (12 hours). These Resources will be used to either fight or support the invading Goblin Army: both choices will grant you new bonuses and unlock new unique upgrades. You can also complete Quests and Feats, also found in the Event panel. Aside for completion purposes, completed quests will also grant a small permanent production bonus. Remember that all Goblin Invasion upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
+                        <p>The Formula for the cost needed to level a faction is floor((level + 1) ^ 0.85) Goblin Crowns</p>
+                        <p>You need 203 Goblin Crowns (total) to level a faction to level 25, 740 to level 50, and 2685 to level 100.</p>
+                        <p>You need 5370 Goblin Crowns to complete all quest by leveling both factions to level 100, Total time 3 days 17 hours 30 minutes without scrying.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/FighttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Fight the Goblin Army</b></p>
+                        <p><b>Requirement</b>: Good or Neutral alignment</p>
+                        <p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/SupporttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Support the Goblin Army</b></p>
+                        <p><b>Requirement</b>: Evil or Neutral alignment</p>
+                        <p><b>Effect</b>: Increase your assistants by 1% per level.</p>
+                        <hr>
+                        <p><b>Event Quest</b></p>
+                        <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
+                        <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                        <p><b>Reward</b></p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
+                        <p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
+                        <p><b>Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
+                        <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                        <p><b>Reward</b></p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
+                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
+                        <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                        <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+                        <p><b>Reward</b></p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Spare Green Hands</b></p>
+                        <p><b>Effect</b>: Each manual click counts as 1000 clicks for all purposes.</p>
+                        <hr>
+                        <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
+                        <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                        <p><b>Reward</b></p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
+                        <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
+                        <p><b>Formula</b>: (24 + 12 * ln(x)), where x is Evil spells cast in this Reincarnation.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
+                        <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+                        <p><b>Reward</b></p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
+                        <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                        <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
+                        <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                        <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+                        <p><b>Reward</b></p>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
+                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                        <hr>
+                        <p><b>Event Feat</b></p>
+                        <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
+                        <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                        <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
+                        <p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
+                        <p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarf is 1, any other good/dwarf is not counted)</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
+                        <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
+                        <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
+                        <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+                        <br/>
+                        <p><b><img src=http://musicfamily.org/realm/Factions/picks/PlatinumTrophy.png align=middle> Platinum Trophy</b></p>
+                        <p><b>Type</b>: Feat</p>
+                        <p><b>Requirements</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+                        <hr>
+                        <p><b>Shop Item</b></p>
+                        <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" align="middle"> 75 Goblin Crowns</b></p>
+                        <p>A greedy shady merchant wants to exchange 75 Goblin Crowns for 5 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/300GoblinCrowns2017.png" align="middle"> 300 Goblin Crowns</b></p>
+                        <p>A greedy shady merchant wants to exchange 300 Goblin Crowns 15 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/1250GoblinCrowns2017.png" align="middle"> 1250 Goblin Crowns</b></p>
+                        <p>A greedy shady merchant wants to exchange 1250 Goblin Crowns for 45 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" align="middle"> 3500 Goblin Crowns</b></p>
+                        <p>A greedy shady merchant wants to exchange 3500 Goblin Crowns for 100 Rubies.</p>
+                        <p>These are all the crowns he could gather.</p>
+                        <hr>
+
+
+                        <hr>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
                     <div class="autohide">
@@ -1855,7 +2001,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                         <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
-                        <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is Evil spells cast in this Reincarnation.</p>
+                        <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8)%, where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
