@@ -704,7 +704,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2020 Events</a></b></p>
             <div class="category autohide">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (June ? - July 13, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (June 9 - July 13, 2020)</a></b></p>
                     <div class="autohide">
 
                         <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
