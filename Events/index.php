@@ -505,6 +505,7 @@
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+	<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
     " coords="66,386,125,445" shape="rect">
     <area research="
@@ -785,6 +786,7 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+						<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
@@ -2011,6 +2013,7 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+						<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
@@ -3056,6 +3059,7 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
                         <p><b>Requirement</b>: Collect at least Goblin Crowns with a single click while affiliated with Goblins.</p>
+						<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
                         <hr>
                         <p><b>Shop Item</b></p>
                         <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 75 Goblin Crowns</b></p>
