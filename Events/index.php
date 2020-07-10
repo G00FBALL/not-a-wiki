@@ -3080,6 +3080,7 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
                         <p><b>Requirement</b>: Collect at least Goblin Crowns with a single click while affiliated with Goblins.</p>
+						<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
                         <hr>
                         <p><b>Shop Item</b></p>
                         <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 75 Goblin Crowns</b></p>
