@@ -595,6 +595,34 @@
         </div>
 		<br />
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R202+ Max Mana Regen</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rellikrellik</p>
+				<p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Mercenary Challenge 4</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Dwarf</p>
+				<p><b>A2950</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL7,AN3,AN5,AN6,AN8,AN12,GB4,GB7,UD10,DD11,DN2,DW12,AR2,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AN,UNN:AR,S150,S200,S215,S305,S330,S400,S500,S5625,C175,C250,C340,C400,C500,C5625,D25,D55,D200,D275,D290,D320,D330,D1275,D5125,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A2950,A30,A120,A250,A270,A305,A545,A1500,W1275,W5625,W400,W205,W275,F5250">
+				</p>
+                <p>SEL3,EL7,AN3,AN5,AN6,AN8,AN12,GB4,GB7,UD10,DD11,DN2,DW12,AR2,DJ5,DJ7,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AN,UNN:AR,</p>
+                <p>S150,S200,S215,S305,S330,S400,S500,S5625,</p>
+                <p>C175,C250,C340,C400,C500,C5625,</p>
+                <p>D25,D55,D200,D275,D290,D320,D330,D1275,D5125,</p>
+                <p>E135,E145,E230,E290,E320,E400,E495,E1325,E3300,</p>
+                <p>A2950,A30,A120,A250,A270,A305,A545,A1500,</p>
+                <p>W1275,W5625,W400,W205,W275,</p>
+                <p>F5250</p>
+				<p><b>Notes</b>: Do excavation resets to buff C5625.</p>
+				<p><b>Notes</b>: Target Catalyst at Gem Grinder for maximum benefits..</p>
+            </div>
+        </div>
+		<br />
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R182-R198 Excavator</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
