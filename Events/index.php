@@ -179,8 +179,8 @@
         <center>
             <p><b>Event Panel</b></p>
             <p>Event-related items can be viewed in the Event Panel, accessible by clicking the Events button (in game) on the left bottom tab.</p>
-            <p><img src="/realm/Factions/picks/TotalEvent3.7.3.png" usemap="#TotalEvent3.7.3.-map">
-                <map name="TotalEvent3.7.3.-map">
+            <p><img src="/realm/Factions/picks/TotalEvent3.8.1.png" usemap="#TotalEvent3.8.1.-map">
+                <map name="TotalEvent3.8.1.-map">
     <area research="
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/Thanksgiving.png align=middle> Thanksgiving</b></p>
     <p><b>Type</b>: Feat</p>
