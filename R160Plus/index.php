@@ -537,7 +537,7 @@
             </div>
         </div>
 				<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Max Asistants (High Gems)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Max Assistants (High Gems)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: ?</p>
