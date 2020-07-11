@@ -593,6 +593,33 @@
 				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 4 hours (with 5 hours D5625).</p>
             </div>
         </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R202+ Clicks</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+				<p><b>Range</b>: ?</p>
+				<p><b>Requirements</b>: Mercenary Challenge 4, less than 3 hours D5625 (Use previous build with D5625 buff)</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Djinn</p>
+				<p><b>A2950</b>: Elf</p>
+				<p><b>D5875</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,SP:Moon Blessing,SP:Infinite Spiral,UB:Dragon Pasture,UNN:EL,UNN:DG,S200,S5625,C590,C5375,D5875,E135,E145,E320,E5375,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400,F5500">
+				</p>
+                <p>EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Dragon Pasture,UNN:EL,UNN:DG,</p>
+                <p>S200,S5625,</p>
+                <p>C590,C5375,</p>
+                <p>D5875,</p>
+                <p>E135,E145,E320,E5375,</p>
+                <p>A120,A270,A305,A545,A1500,A2950,</p>
+                <p>W180,W275,W400,W1275,W1375,W1400,</p>
+                <p>F5500</p>
+				<p><b>Notes</b>: Estimated time to God's Fingers is 3 days 10 hours.</p>
+            </div>
+        </div>
 		<br />
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R202+ Max Mana Regen</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
@@ -608,7 +635,7 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL7,AN3,AN5,AN6,AN8,AN12,GB4,GB7,UD10,DD11,DN2,DW12,AR2,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AN,UNN:AR,S150,S200,S215,S305,S330,S400,S500,S5625,C175,C250,C340,C400,C500,C5625,D25,D55,D200,D275,D290,D320,D330,D1275,D5125,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A2950,A30,A120,A250,A270,A305,A545,A1500,W1275,W5625,W400,W205,W275,F5250">
 				</p>
-                <p>SEL3,EL7,AN3,AN5,AN6,AN8,AN12,GB4,GB7,UD10,DD11,DN2,DW12,AR2,DJ5,DJ7,</p>
+                <p>EL3,EL7,AN3,AN5,AN6,AN8,AN12,GB4,GB7,UD10,DD11,DN2,DW12,AR2,DJ5,DJ7,</p>
                 <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AN,UNN:AR,</p>
                 <p>S150,S200,S215,S305,S330,S400,S500,S5625,</p>
                 <p>C175,C250,C340,C400,C500,C5625,</p>
