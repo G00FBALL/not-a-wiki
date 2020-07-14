@@ -150,7 +150,7 @@
     <p><b>Clue</b>: Click to Carve.</p>
     <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
     <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
-    <p><b>Chance</b>: (log10(1 + x) ^ 3) / 20,000 (20K))%, where x is clicks this game</p>
+    <p><b>Chance</b>: (log10(1 + x) ^ 3 / 20,000 (20K))%, where x is clicks this game</p>
     " coords="325,172,383,229" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png align=middle><b> Second Stone Fragment</b></p>
     <p><b>Clue</b>: Stone to stone, buildings to buildings.</p>
