@@ -173,8 +173,8 @@
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>A2950</b>: Elf</p>
-				<p><b>A2950 (30 minutes+ run)</b>: Makers</p>
-				<p><b>D5875 (below 30 minutes runs)</b>: Makers</p>
+				<p><b>A2950 (1 hour+ run)</b>: Makers</p>
+				<p><b>D5875 (below 1 hour runs)</b>: Makers</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p><b>MCC4 Union (R202+)</b>: Makers</p>
                 <p>
@@ -645,7 +645,7 @@
                 <p>W1275,W5625,W400,W205,W275,</p>
                 <p>F5250</p>
 				<p><b>Notes</b>: Do excavation resets to buff C5625.</p>
-				<p><b>Notes</b>: Target Catalyst at Gem Grinder for maximum benefits..</p>
+				<p><b>Notes</b>: Target Catalyst at Gem Grinder for maximum benefits.</p>
             </div>
         </div>
 		<br />
