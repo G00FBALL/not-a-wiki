@@ -613,7 +613,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring EL25 (R75)<font color="DarkRed"> Evil</font></a> Needs Testing</b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring EL25 (R75)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
@@ -634,7 +634,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring L25s (R75)<font color="DarkRed"> Evil</font></a> Needs Testing</b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Spring L25s (R75)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 2e92 (200 NoVg) Gems+</p>
@@ -663,85 +663,6 @@
 				<p>A120,A270,A300,A305,A545,A1500,</p>
 				<p>W205,W275,W400,W1275,W1375,W1400</p>
 				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission EL25 (R77)<font color="Blue"> Good</font></a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Cyden</p>
-				<p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
-				<p><b>Range</b>: ? Gems</p>
-				<p><b>Faction</b>: Good Mercenary</p>
-				<p><b>Bloodline</b>: Elf</p>
-				<p><b>A2950</b>: Dragon</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-					<b>Extra Share Benefits tier</b>
-				</p>
-				<p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
-				<p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
-				<p>S200,S215,S305,S1275,S1450,S1500,</p>
-				<p>C250,C340,C400,C590,C1300,C3000,</p>
-				<p>D25,D200,D290,D330,D1275,D2775,</p>
-				<p>E80,E135,E320,E350,E590,E1225,</p>
-				<p>A120,A270,A305,A545,A1500,A2950,</p>
-				<p>W180,W275,W400,W1275,W1375,W1400</p>
-				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra Share Benefits tier.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Blood Fission L25s (R77)<font color="Blue"> Good</font></a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Cyden</p>
-				<p><b>Requirement</b>: High clicks count this R (100k-200k+)</p>
-				<p><b>Range</b>: ? Gems</p>
-				<p><b>Faction</b>: Good Mercenary</p>
-				<p><b>Bloodline</b>: All (1 at a time)</p>
-				<p><b>A2950</b>: Elf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:God's Hand,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-					<b>Fairyline</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,SP:Fairy Chanting,SP:God's Hand,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-					<b>Dragonline</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-					<b>Extra Share Benefits tier</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:God's Hand,SP:Dragon's Breath,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-					<b>Fairyline, Extra Share Benefits tier</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:FR7,SP:Fairy Chanting,SP:God's Hand,S200,S215,S305,S1275,S1450,S1500,C250,C340,C400,C590,C1300,C3000,D25,D200,D290,D330,D1275,D2775,E80,E135,E320,E350,E590,E1225,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400">
-					<b>Dragonline, Extra Share Benefits tier</b>
-				</p>
-				<p>EL1,EL3,EL4,EL7,AN5,AN8,DD3,DD6,FC7,DN2,DG4,DG7,MA:AN6,</p>
-				<p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
-				<p>S200,S215,S305,S1275,S1450,S1500,</p>
-				<p>C250,C340,C400,C590,C1300,C3000,</p>
-				<p>D25,D200,D290,D330,D1275,D2775,</p>
-				<p>E80,E135,E320,E350,E590,E1225,</p>
-				<p>A120,A270,A305,A545,A1500,A2950,</p>
-				<p>W180,W275,W400,W1275,W1375,W1400</p>
-				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
-				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra Share Benefits tier.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">

@@ -147,7 +147,7 @@
         <p><b>MK</b>: Makers</p>
         <p><b>UB:Name</b>: Unique Building:UB Name</p>
         <p><b>MA:</b>: Mercenary 13th Upgrade (Good and Evil only)(Not available in A3)</p>
-        <p><b>UNN</b>: UN=Merc Union(Primary), 2nd N=2nd Union(secondary)</p>
+        <p><b>UNN:</b>: UN=Merc Union(Primary), 2nd N=2nd Union(secondary)</p>
         <hr>
         <center><b>Spells</b></center>
         <p>Spells are shortened to their initials. Relies on context to differentiate identical initials.</p>
@@ -178,6 +178,7 @@
         <p><b>LW</b>: Limited Wish</p>
         <p><b>IS</b>: Infinite Spiral</p>
         <p><b>CT</b>: Catalyst</p>
+		<p><b>CM</b>: Chaos Madness</p>
         <p>Tiered spells simply have the tier number following the spell's initials (eg: LS1, GG5, CtA5 ...)</p>
         <br>
         <center><b>Event Spells</b></center>
