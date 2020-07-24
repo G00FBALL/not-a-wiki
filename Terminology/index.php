@@ -150,10 +150,14 @@
         <p><b>UB:Name</b>: Unique Building:UB Name</p>
         <p><b>MA:</b>: Mercenary 13th Upgrade (Good and Evil only)(Not available in A3)</p>
         <p><b>UNN:</b>: UN=Merc Union(Primary), 2nd N=2nd Union(secondary)</p>
+		<hr>
+		<center><b>Challenges</b></center>	
+		<p>Challenge abbreviations draw off faction ones and add C# at the end.</p>
+		<p>Example: DDC4 means Druid Challenge 4.</p>
+		<p>CR refers to the spell challenge reward, so TTCR refers to Thunderstorm, the Titan Spell Challenge reward.</p>
         <hr>
         <center><b>Spells</b></center>
         <p>Spells are shortened to their initials. Relies on context to differentiate identical initials.</p>
-        <p><b>Pentacast</b>: Casting 5 spells at once.</p>
         <p><b>Combo-Spell/Spell Combo</b>: Several spells or casting several spells (e.g.: "Do a combo-spell")</p>
         <p><b>TC</b>: Tax Collection</p>
         <p><b>CtA</b>: Call to Arms</p>
@@ -192,7 +196,7 @@
         <p><b>CL</b>: Cannibalize</p>
         <p><b>SS</b>: Spectral Surge</p>
         <hr>
-        <center><b>Acronyms</b></center>
+        <center><b>Building Acronyms</b></center>
         <p><b>FIB</b>: Farms, Inns, and Blacksmiths</p>
         <p><b>BS</b>: Blacksmith</p>
         <p><b>DM</b>: Deep Mine</p>
@@ -203,7 +207,7 @@
         <p><b>UB</b>: Unique Building (R16-R99)</p>
         <p><b>UB2</b>: Unique Building 2 (R100+)</p>
         <br>
-        <center><b>Abbreviations</b></center>
+        <center><b>Building Abbreviations</b></center>
         <p><b>Mona</b>: Monastery</p>
         <p><b>Laby</b>: Labyrinth</p>
         <p><b>Pillars</b>: Stone Pillars</p>
@@ -211,6 +215,15 @@
         <p><b>Necros</b>: Necropolis</p>
         <p><b>Pyra</b>: Ancient Pyramids</p>
         <p><b>Den</b>: Wyrm's Den</p>
+        <hr>
+		<center><b>Artifacts</b></center>
+        <p><b>KYE</b>: Know Your Enemy</p>
+        <p><b>VF </b>: Veteran Figurine</p>
+        <p><b>SF</b>: Sunforce</p>
+		<p><b>SFA-SF:A</b>: Sunforce Assistant bonus (12 AM - 6 AM)</p>
+		<p><b>SFR-SF:R</b>: Sunforce Mana Regeneration bonus (6 AM - 12 PM)</p>
+		<p><b>SFP-SF:P</b>: Sunforce Building Production bonus (12 PM - 6 PM)</p>
+		<p><b>SFO-SF:O</b>: Sunforce Offline Production bonus (6 PM - 12 AM)</p>
         <hr>
         <center><b>Gift Shop</b></center>
         <p><b>GotH</b>: Gift of the Heroes</p>
