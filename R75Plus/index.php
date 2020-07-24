@@ -483,7 +483,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Stoic Resistance (R85+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Late Stoic Resistance (R85+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fortune Teller Machine, Druid lineage Level 25+</p>
@@ -505,11 +505,12 @@
 				<p>E145,E200,E275,E320,E330,E480,</p>
 				<p>A105,A120,A150,A270,A305,A400,</p>
 				<p>W120,W150,W180,W260,W320,W330,W400</p>
-				<p><b>Notes</b>: Swap A150->A330 if way higher</p>
+				<p><b>Notes</b>: If you missed getting Stoic Resistance in A0, this is your next best option until A2.</p>
+				<p><b>Notes</b>: Excavating for lineage is required.</p>
 				<p><b>Notes</b>: Recommended spam clicking or staying offline for 10 minutes or so to buff C135 and C460.</p>
-				<p><b>Notes</b>: Excavating for lineage is required</p>
-				<p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade for build optimization.</p>
-				<p><b>Notes</b>: Combo Deep Mines Strike + Green Breath.</p>
+				<p><b>Notes</b>: Focus on getting 3500 Deep Mines and buying the assosicated building upgrade.</p>
+				<p><b>Notes</b>: Swap A150->A330 if higher.</p>
+				<p><b>Notes</b>: Combo Deep Mines Lightning Strike + Green Dragon's Breath for maximum production.</p>
 				<p><b>Notes</b>: Estimated build length at 16 hours(?).</p>
 			</div>
 		</div>
