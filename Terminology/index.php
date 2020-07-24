@@ -52,6 +52,7 @@
         <p><b>Buy 10</b>: CTRL + click building</p>
         <p><b>Buy 100</b>: SHIFT + click building</p>
         <p><b>Buy 1000</b>: X + click building - R1+</p>
+		<p><b>Buy 10000</b>: Z + click building - R1+</p>
         <p><b>Buy Max</b>: CTRL + SHIFT + click building</p>
         <br/>
         <center><b>Buildings (Mac)</b></center>
@@ -60,6 +61,7 @@
         <p><b>Buy 10</b>: CMD + click building</p>
         <p><b>Buy 100</b>: SHIFT + click building</p>
         <p><b>Buy 1000</b>: X + click building - R1+</p>
+		<p><b>Buy 10000</b>: Z + click building - R1+</p>
         <p><b>Buy Max</b>: CMD + SHIFT + click building</p>
         <hr>
         <center><b>Terminology</b></center>
@@ -71,9 +73,9 @@
         <p><b>All-Time</b>: covers all reincarnations.</p>
         <hr>
         <center><b>Commonly Used Abbreviations</b></center>
-        <p><b>A1</b>: Ascension R40-R99</p>
-        <p><b>A2</b>: Ascension R100-R159</p>
-        <p><b>A3</b>: Ascension R160+</p>
+        <p><b>A1</b>: Ascension 1 (R40-R99)</p>
+        <p><b>A2</b>: Ascension 2 (R100-R159)</p>
+        <p><b>A3</b>: Ascension 3 (R160+)</p>
         <p><b>Pre A</b>: Before R40</p>
         <p><b>Post A</b>: After R39 and R99</p>
         <p><b>R#</b>: Number of times reincarnated (eg: R12 = 12th reincarnation)</p>
@@ -87,7 +89,7 @@
         <p><b>NU (Build Name)</b>:Builds that do not target Unique Buildings</p>
         <p><b>RNG</b>: Random Number Generator</p>
         <p><b>Merc or Mercs</b>: Mercenary</p>
-        <p><b>AH</b>: Advance Heritage</p>
+        <p><b>AH</b>: Advanced Heritage</p>
         <hr>
         <center><b>Bloodlines</b></center>
         <p><b>Faction Name +line</b>: Faction names may be shortened</p>
