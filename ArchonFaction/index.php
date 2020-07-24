@@ -8,7 +8,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonChampion.png" align="middle"> Archon Champion</b></p>
         <p><b>Requirement</b>: R125+, 12 faction upgrades (this includes faction treaty)</p>
         <p><b>Alignment</b>: Order</p>
-        <p><b>Unlock Requirements</b></p>
+        <p><b>Unlock Requirements</b>: First, Second, and Third Iron Fragments</p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
         <p><b>Clue</b>: This one seems to require a lot of magical renewance.</p>
         <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>

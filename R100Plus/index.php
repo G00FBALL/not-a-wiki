@@ -262,7 +262,6 @@
             <div class="autohide">
                 <p><b>Author</b>: :)</p>
                 <p><b>Range</b>: 1e18 (1 Qi) Gems</p>
-                <p><b>Requirements</b>: 1e11 (100 B) mana produced this R</p>
                 <p><b>Alignment</b>: Evil, Chaos</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Faceless</p>

@@ -138,6 +138,7 @@
 	<p><b>Cost</b>: 225.2 OcQig (2.252E179)</p>
 	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.</p>
 	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
+	<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
 	<hr>
     <p><b>S330</b> - For All Factions</p>
 	<p><b>Research Name</b>: Reverberation</p>

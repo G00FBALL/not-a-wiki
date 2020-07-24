@@ -166,6 +166,7 @@
 	<p><b>Cost</b>: 103.7 QaSxg (1.037E197)</p>
 	<p><b>Effect</b>: Increase the production of Spider Sanctuaries based on offline Bonus</p>
 	<p><b>Formula</b>: (3.25 * log10(1 + x) ^ 3.25)%, where x is offline production bonus multiplier.</p>
+	<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
 	<hr>
     <p><b>W520</b> - For Drow</p>
 	<p><b>Research Name</b>: Stalking</p>

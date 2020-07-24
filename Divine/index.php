@@ -34,6 +34,7 @@
 	<p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on your offline production bonus.</p>
 	<p><b>Formula</b>: (2.75 * log10(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier.</p>
+	<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
 	<hr>
     <p><b>D50</b> - For Elf</p>
 	<p><b>Research Name</b>: Hallowing</p>

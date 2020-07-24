@@ -8,7 +8,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersChampion.png" align="middle"> Makers Champion</b></p>
         <p><b>Requirement</b>: R125+, 12 faction upgrades (this includes faction treaty)</p>
         <p><b>Alignment</b>: Balance</p>
-        <p><b>Unlock Requirements</b>: First, Second, and Third Stone Fragment</p>
+        <p><b>Unlock Requirements</b>: First, Second, and Third Stone Fragments</p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>
         <p><b>Clue</b>: Click to Carve.</p>
         <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>

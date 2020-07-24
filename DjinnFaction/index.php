@@ -8,7 +8,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnChampion.png" align="middle"> Djinn Champion</b></p>
         <p><b>Requirement</b>: R125+, 12 faction upgrades (this includes faction treaty)</p>
         <p><b>Alignment</b>: Chaos</p>
-        <p><b>Unlock Requirements</b></p>
+        <p><b>Unlock Requirements</b>: First, Second, and Third Crystal Fragments</p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png" align="middle"> First Crystal Fragment</b></p>
         <p><b>Clue</b>: Assistants will lead the way.</p>
         <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>

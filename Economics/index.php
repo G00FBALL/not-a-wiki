@@ -51,7 +51,7 @@
 	<p><b>Cost</b>: 318.8 Tqag (3.188E134)</p>
 	<p><b>Effect</b>: Reduce Enchanted Field cost multiplier. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
 	<hr>
-    <p><b>E80</b> - For All Factions</p>
+    <p><b>E80</b> - For Good/Evil</p>
 	<p><b>Research Name</b>: Common Business</p>
 	<p><b>Hint</b>: Neutral urbanistics.</p>
 	<p><b>Requirement</b>: 9,000 Neutral Buildings</p>

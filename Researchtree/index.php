@@ -328,6 +328,7 @@
 	<p><b>Cost</b>: 225.2 OcQig (2.252E179)
 	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.
 	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.
+	<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.
 	" coords="2,139,51,186" shape="rect">
         <area research="S330 - For All Factions
 	<p><b>Research Name</b>: Reverberation
@@ -727,6 +728,7 @@
 	<p><b>Cost</b>: 12.63 Dqag (1.263E130)
 	<p><b>Effect</b>: Increase the production of all buildings based on your offline production bonus.
 	<p><b>Formula</b>: (2.75 * log10(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier.
+	<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.
 	" coords="222,513,272,563" shape="rect">
         <area research="D50 - For Elf
 	<p><b>Research Name</b>: Hallowing
@@ -988,7 +990,7 @@
 	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
 	<p><b>Effect</b>: Reduce Enchanted Field cost multiplier. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.
 	" coords="333,748,382,797" shape="rect">
-        <area research="E80 - For All Factions
+        <area research="E80 - For Good/Evil
 	<p><b>Research Name</b>: Common Business
 	<p><b>Hint</b>: Neutral urbanistics.
 	<p><b>Requirement</b>: 9,000 Neutral Buildings
@@ -1608,6 +1610,7 @@
 	<p><b>Cost</b>: 103.7 QaSxg (1.037E197)
 	<p><b>Effect</b>: Increase the production of Spider Sanctuaries based on offline Bonus
 	<p><b>Formula</b>: (3.25 * log10(1 + x) ^ 3.25)%, where x is offline production bonus multiplier.
+	<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.
 	" coords="223,1337,275,1385" shape="rect">
         <area research="W520 - For Drow
 	<p><b>Research Name</b>: Stalking
