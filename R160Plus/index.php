@@ -163,7 +163,7 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Chaos of Khrone (R194-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Chaos of Khorne (R194-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -189,7 +189,7 @@
 				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
 				<p><b>Notes</b>: Use remaining research point budget to buff DJ3.</p>
 				<p><b>Notes</b>: For setup, recast Fairy Chanting when Chaos Madness: Faceless Lineage is active.</p>
-				<p><b>Notes</b>: For production, target Maelstrom at Hall of Legends with Assistants effect, Limited Wish on Trophy count and Offline bonus and Chaos Madness on Dragon Lineage.</p>
+				<p><b>Notes</b>: For production, target Maelstrom at Hall of Legends with Assistants effect and Chaos Madness on Dragon Lineage.</p>
             </div>
         </div>
 		<div class="shelementwhole">
