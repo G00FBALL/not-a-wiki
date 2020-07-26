@@ -6,8 +6,6 @@
 <br/>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" align="middle"></h6>
 <br/>
-<p><b>This page is in progress</b></p>
-<p><b><font color="darkred">Check <a target="_blank" href="https://discord.gg/cq6zmQX">Discord</a> or <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/1879377-v3-7-a3-builds">Kong</a> forum More builds</b></p></font>
     <br/>
     <p><b>Production Builds</b></p>
     <div class="category">
@@ -162,6 +160,36 @@
                 <p>W175,W275,W400,W5125,</p>
                 <p>F5500</p>
 				<p><b>Notes</b>: Benefits from buffing assistants and mana produced.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Chaos of Khrone (R194-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
+				<p><b>Requirements</b>: Mercenary Challenge 2</p>
+                <p><b>Faction</b>: Evil/Chaos Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Goblin</p>
+				<p><b>D5875</b>: Archon</p>
+                <p><b>Artifact Set</b>: Faceless</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL11,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD6,DN2,DW12,AR12,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,S200,S400,S5875,C175,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D330,E135,E230,E290,E320,E5125,A30,A250,A270,A305,A545,A2950,W1275,W5125,W275,W400,W525,W205,F5500">
+				</p>
+                <p>EL3,EL11,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD6,DN2,DW12,AR12,DJ3,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DN,</p>
+                <p>S200,S400,S5875,</p>
+                <p>C175,C250,C340,C400,C590,C5125,</p>
+                <p>D5875,D200,D275,D290,D330,</p>
+                <p>E135,E230,E290,E320,E5125,</p>
+                <p>A30,A250,A270,A305,A545,A2950,</p>
+                <p>W1275,W5125,W275,W400,W525,W205,</p>
+                <p>F5500</p>
+				<p><b>Notes</b>: Benefits from buffing F6000, assistants and spell casts.</p>
+				<p><b>Notes</b>: Use remaining research point budget to buff DJ3.</p>
+				<p><b>Notes</b>: For setup, recast Fairy Chanting when Chaos Madness: Faceless Lineage is active.</p>
+				<p><b>Notes</b>: For production, target Maelstrom at Hall of Legends with Assistants effect, Limited Wish on Trophy count and Offline bonus and Chaos Madness on Dragon Lineage.</p>
             </div>
         </div>
 		<div class="shelementwhole">
