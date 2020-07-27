@@ -530,7 +530,7 @@
 				<p><b>Notes</b>: Target Catalyst at Gem Grinder for maximum benefits.</p>
             </div>
         </div>
-		        <div class="shelementwhole">
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R194-R206 Max Assistants</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
