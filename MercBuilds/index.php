@@ -31,7 +31,7 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Harvest R3-R6 <font color="DarkRed">Evil</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: swim</p>
-					<p><b>Requirement</b>: Coin Pillage, Low Excavations, so you can excavate to set up the build.</p>
+					<p><b>Requirement</b>: Coin Pillage, Low Excavations (so you can excavate to set up the build).</p>
 					<p><b>Alignment</b>: Evil</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
@@ -61,7 +61,7 @@
 					<p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
 					<p>SP:Fairy Chanting,SP:Grand Balance</p>
 					<p><b>Notes</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
-					<p><b>Notes</b>: Do not buy the upgrade available at 1750 Farms (Side Orchard) until you can buy the one at 1750 Orcish Arenas (Larger Gallery). Same at 2000 Farms.</p>
+					<p><b>Notes</b>: Grand Balance should targets Farm for its production increase. Do not buy the upgrade available at 1750 Farms (Side Orchard) until you can buy the one at 1750 Orcish Arenas (Larger Gallery). Same at 2000 Farms.</p>
 					<p><b>Instructions</b>: Don't cast Blood Frenzy, as it has no effect on your production.</p>
 					<p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
 				</div>
@@ -70,6 +70,8 @@
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: ?</p>
+					<p><b>Range</b>: 1e68 (100 Uvg) Gems - 1e72 (1 Tvg) Gems</p>
+					<p><b>Requirement</b>: 1500+ Excavations</p>
 					<p><b>Alignment</b>: Neutral</p>
 					<p><b>Bloodline</b>: Fairy</p>
 					<p>
@@ -84,12 +86,15 @@
 					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
 					<p>SP:Diamond Pickaxe,SP:Fairy Chanting</p>
 					<p><b>Notes</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
+					<p><b>Notes</b>: Weaker than Lightning Strike builds, but doesn't rely on RNG luck.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: ?</p>
+					<p><b>Range</b>: 1e68 (100 Uvg) Gems - 1e72 (1 Tvg) Gems</p>
+					<p><b>Requirement</b>: 1500+ Excavations</p>
 					<p><b>Alignment</b>: Neutral</p>
 					<p><b>Bloodline</b>: Fairy</p>
 					<p>
@@ -104,6 +109,7 @@
 					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
 					<p>SP:Lightning Strike,SP:Fairy Chanting</p>
 					<p><b>Notes</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
+					<p><b>Notes</b>: Replace FR3 with FR2 or FR1 if there is an Inn or Farm strike close while a Blacksmith strike is far away for a slightly weaker but still powerful combo.</p>
 					<p><b>Lightning Forge Instructions</b>:</p>
 					<p>Early game, play until you get a Blacksmith Lightning Strike.</p>
 					<p>This is when you get your big gem boost, other strikes barely count.</p>
@@ -111,7 +117,6 @@
 					<p>When Lightning Strike hits Blacksmith, drop all your mana on a full combo-spell and cast as many tax collections as you can while all the other spells are casting.</p>
 					<p>You can get more TCs by casting spells manually: First cast all the non-FC-TC spells, wait 10 seconds for some mana to build-up, then cast FC+TCs. This can make a noticeable difference. Abdicate.</b></p>
 					<p>In higher gems, repeat the above process until gem growth slows substantially, feeding your gold back into buying buildings to improve the return of the combos.</p>
-					<p>If you have Spiritual Surge, do not use it until you can afford (6000 mana) to cast all 6 spells in one combo, as it will take away the ability to fully combo all other spells and reduce income.</p>
 				</div>
 			</div>
         </div>
