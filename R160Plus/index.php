@@ -605,6 +605,7 @@
                 <p><b>Bloodline</b>: Undead</p>
 				<p><b>Bloodline (1 day+ D5625)</b>: Archon</p>
                 <p><b>A2950</b>: Makers</p>
+				<p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
