@@ -508,8 +508,7 @@
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
                 <p><b>Faction</b>: Evil/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Dwarf</p>
-                <p><b>A2950 (Until MCC1)</b>: Dragon</p>
-				<p><b>A2950 (After MCC1)</b>: Djinn</p>
+                <p><b>A2950</b>: Dragon</p>
                 <p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
@@ -527,7 +526,6 @@
                 <p>F5500</p>
                 <p><b>Notes</b>: Buff spells cast, use excavation resets to buff C5625</p>
 				<p><b>Notes</b>: Recommended to buff F6000 before each run.</p>
-				<p><b>Notes</b>: Target Catalyst at Gem Grinder for maximum benefits.</p>
             </div>
         </div>
 		<div class="shelementwhole">
