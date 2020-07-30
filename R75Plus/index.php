@@ -136,7 +136,7 @@
 				<p><b>Notes</b>: Estimated 30-50 minutes for Secrets of the Warrior to unlock. Use Research template to get Undead Lineage 20 afterwards.</p>
 				<p><b>Build has several stages:</b></p>
 				<p><b>1</b>: Gather faction coins for 400 Undead Exchanges and buy Undead Lineage. (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold only (Reverse casting Dragon's Breath to keep blue breath active helps, but not mandatory)).</p>
-				<p><b>2</b>: Buy Freemason's Hall (1e125 / 100 Qag) and Appraisal Vantage (1e130 / 10 DQag). (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold, rest on silver.)</p>
+				<p><b>2</b>: Buy Freemason's Hall (1e125 / 100 Qag) and Appraisal Vantage (1e135 / 1 Qaqag). (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold, rest on silver.)</p>
 				<p><b>3</b>: Buy all available tiers cheaper than 1e16 faction coins AND gather an additional 1e16 faction coins of each kind. (Cast Fairy Chanting and Dragon's Breath on bronze, Tax Collection on gold only).</p>
 				<p><b>4</b>: Buy Secrets of the Warrior. (Cast Fairy Chanting and Dragon's Breath (Aim for Red + Green breath) on bronze, Tax Collection on gold, rest on silver).</p>
 				<p><b>5</b>: Get Undead Lineage level 20 (Load the research build and cast all spells on bronze, Tax Collection on gold).</p>

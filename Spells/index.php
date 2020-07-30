@@ -447,11 +447,11 @@
             <p><img src="http://musicfamily.org/realm/Factions/picks/HolyLightTier4.png" alt="HolyLightTier4" align="middle"> <b>Tier</b>: 4</p>
             <p><b>Cost</b> 396.8 Sxvg (3.968e83) - <b>FC</b> 501.2 B (5.012e11)</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HolyLightTier5.png" alt="HolyLightTier5" align="middle"> <b>Tier</b>: 5</p>
-            <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 5 Qa (1.122e13)</p>
+            <p><b>Cost</b> 34.02 Utg (3.402e97) - <b>FC</b> 5 T (1.122e13)</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HolyLightTier6.png" alt="HolyLightTier6" align="middle"> <b>Tier</b>: 6</p>
-            <p><b>Cost</b> 251.2 T Sxtg (2.916e111) - <b>FC</b> 10 Qa (2.514e14)</p>
+            <p><b>Cost</b> 251.2 Sxtg (2.916e111) - <b>FC</b> 10 T (2.514e14)</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HolyLightTier7.png" alt="HolyLightTier7" align="middle"> <b>Tier</b>: 7</p>
-            <p><b>Cost</b> Free - <b>FC</b> 5.623 (5.623e15)</p>
+            <p><b>Cost</b> Free - <b>FC</b> 5.623 Qa (5.623e15)</p>
         </div>
     </div>
 </div>
