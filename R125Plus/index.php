@@ -523,33 +523,33 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Goblin (AR1)</a></b> Need tested</p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need tested</p>
 			<div class="autohide">
 				<p><b>Author</b>: Curunur</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Goblin/Drow/Makers</p>
-				<p><b>Bloodline</b>: Elf</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
+				<p><b>Bloodline</b>: Undead</p>
+				<p><b>Artifact Set</b>: Undead</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S435,S3200,C175,C3100,D245,D560,E1,E225,E495,E590,E1325,A10,A120,A410,W25,W205,W405,W520">
+					<input type="text" value="S50,S435,S3200,C175,C340,D560,D1375,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S400,S435,C175,C3100,D245,D560,E1,E225,E495,E590,E1325,A10,A120,A410,W25,W205,W405,W520">
-					<b>S400</b>
+					<input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520">
+					<b>1e69 (1 Dvg)(?) Gems+</b>
 				</p>
 				<p>S50,S435,S3200,</p>
-				<p>C175,C3100,</p>
-				<p>D245,D560,</p>
+				<p>C175,C340,</p>
+				<p>D560,D1375,</p>
 				<p>E1,E225,E495,E590,E1325,</p>
-				<p>A10,A120,A410,</p>
+				<p>A10,A410,A3400,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Notes</b>: Swap S3200 with S400 if high enough (At least 50% of C3100?)</p>
+				<p><b>Notes</b>: Swap D1375 with D290 at 1e69 (1 Dvg)(?) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b> Need tested</p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Curunur</p>
 				<p><b>Range</b>: ?</p>
