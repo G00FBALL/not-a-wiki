@@ -525,7 +525,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need tested</p>
 			<div class="autohide">
-				<p><b>Author</b>: Curunur</p>
+				<p><b>Author</b>: SomeoneLucas</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Goblin/Drow/Makers</p>
 				<p><b>Bloodline</b>: Undead</p>
