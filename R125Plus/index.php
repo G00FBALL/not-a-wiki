@@ -526,7 +526,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need tested</p>
 			<div class="autohide">
 				<p><b>Author</b>: SomeoneLucas</p>
-				<p><b>Range</b>: ?</p>
+				<p><b>Range</b>: 1e72 (1 Tvg) Gems+</p>
 				<p><b>Faction</b>: Goblin/Drow/Makers</p>
 				<p><b>Bloodline</b>: Undead</p>
 				<p><b>Artifact Set</b>: Undead</p>
@@ -537,7 +537,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520">
-					<b>1e69 (1 Dvg)(?) Gems+</b>
+					<b>1e73 (10 Tvg) Gems+</b>
 				</p>
 				<p>S50,S435,S3200,</p>
 				<p>C175,C340,</p>
@@ -545,7 +545,7 @@
 				<p>E1,E225,E495,E590,E1325,</p>
 				<p>A10,A410,A3400,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Notes</b>: Swap D1375 with D290 at 1e69 (1 Dvg)(?) Gems+.</p>
+				<p><b>Notes</b>: Swap D1375 with D290 at 1e73 (10 Tvg) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
