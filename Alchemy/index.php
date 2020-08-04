@@ -213,14 +213,15 @@
     <p><b>A1325</b> - For All Factions</p>
 	<p><b>Research Name</b>: Calefaction</p>
 	<p><b>Hint</b>: Excavate me out!</p>
-	<p><b>Requirement</b>: 4500 Excavations (This R)<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
+	<p><b>Requirement</b>: 4500 Excavations (This R)
+	<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
 	<p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.</p>
 	<p><b>Formula</b>:  floor(0.02 * x), where x is current excavations</p>
 	<p><b>Tip</b>: E290 and end of R54.</p>
 	<hr>
     <p><b>A1500</b> - For Druid,Dragon</p>
 	<p><b>Research Name</b>: Sublimation</p>
-  <p><b>Hint</b>: How long required to achieve a Grand Balance?</p>
+    <p><b>Hint</b>: How long required to achieve a Grand Balance?</p>
 	<p><b>Requirement</b>: 21600s (6 hours) Grand Balance Cast Time (This Game), Research D590 & A1325, Druid,Dragon</p>
 	<p><b>Cost</b>: 3.843 Spvg (3.843e84)</p>
 	<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings you own.</p>
@@ -238,7 +239,7 @@
 	<hr>
     <p><b>A3400</b> - For All Factions</p>
 	<p><b>Research Name</b>: Chemistry</p>
-  <p><b>Hint</b>: Get attracted to Faction Coins.</p>
+    <p><b>Hint</b>: Get attracted to Faction Coins.</p>
 	<p><b>Requirement</b>: 1 No (1e30) FC (Found this Game), (Customizing C3000) & (Manipulation S3200).</p>
 	<p><b>Cost</b>: 894.5 QiQig (5.69e197)</p>
 	<p><b>Effect</b>: Increases Faction Coin find chance based on the total amount of Lineage levels you have.</p>

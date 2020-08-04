@@ -1402,7 +1402,8 @@
         <area research="A1325 - For All Factions
 	<p><b>Research Name</b>: Calefaction
 	<p><b>Hint</b>: Excavate me out!
-	<p><b>Requirement</b>: 4500 Excavations (This R)<p><b>Cost</b>: 144.9 Tvg (1.449e74)
+	<p><b>Requirement</b>: 4500 Excavations (This R)
+	<p><b>Cost</b>: 144.9 Tvg (1.449e74)
 	<p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.
 	<p><b>Formula</b>:  floor(0.02 * x), where x is current excavations
 	<p><b>Tip</b>: E290 and end of R54.
