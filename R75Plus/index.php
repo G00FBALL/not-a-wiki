@@ -296,7 +296,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Shadow Dragon (Alternative Offline Build) (R81-R89)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Shadow Dragon (Alternative Offline Build) (R81-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 1e96 (1 Utg) Gems+</p>
@@ -395,7 +395,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Shadow Dragon (Alternative Offline Build) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Shadow Dragon (Alternative Offline Build) (R90+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 1e85 (10 Spvg) Gems - 1e129 (1 Dqag) Gems</p>
