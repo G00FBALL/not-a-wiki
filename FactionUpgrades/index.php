@@ -936,7 +936,7 @@
                 <p><b>Formula</b>:  Every 30 minutes, ((upgrade bonus) + rand(1.5 - 7.5))% (averages out to 216% per day).</p>
                 <hr>
                 <h6>Elf</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" align="middle"> Wooden Dices</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" align="middle"> Wooden Dice</b></p>
                 <p><b>Mercenary Template</b>: EL10</p>
                 <p><b>Requirement</b>: A2+, Elven Union</p>
                 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
@@ -950,7 +950,7 @@
                 <p><b>Mercenary Template</b>: EL11</p>
                 <p><b>Requirement</b>: A2+, Elven Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
-                <p><b>Effect</b>: Assistants and Clicks count 1,500% more for all purposes and increase assistant production based on assistant amount.</p>
+                <p><b>Effect</b>: Assistants and Clicks count 1,000% more for all purposes and increase assistant production based on assistant amount.</p>
                 <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is assistant count.</p>
                 <p><b>Note</b>: Applies to formulas that use Assistant count, but not actual assistants.</p>
                 <br/>
