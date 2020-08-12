@@ -158,7 +158,7 @@
 <p>In the first column are the Tier 1 upgrades, in the second, Tier 2 and third, Tier 3 upgrades. </p>
 <p>The first colored upgrade of each tier cost Faction coins and they unlock the 3 following upgrades.</p>
 <p>These upgrades are exclusive faction upgrades and cost usual coins.</p>
-<p>Early game, it is advised to quickly affiliate with each Faction at least once, because for each Faction, purchasing 12 faction upgrades (this includes faction treaty) once grants their <a href="http://musicfamily.org/realm/FactionChampion"><b>Faction Champion trophy</b></a>, which in turn rewards their exclusive and universal <a href="http://musicfamily.org/realm/Heritages"><b>Heritage upgrade</b></a>.</p>
+<p>Early game, it is advised to quickly affiliate with each Faction at least once, because for each Faction, purchasing 12 faction upgrades (this includes faction treaty) once grants their Faction Champion trophy, which in turn rewards their exclusive and universal <a href="http://musicfamily.org/realm/Heritages"><b>Heritage upgrade</b></a>.</p>
 <p>Also, the quantity of bought faction upgrades is tracked throughout reincarnations and it is required to unlock Bloodline upgrades.</p>
 <p>PS: In order to simplify notation, instead of using the individual names of each Faction upgrade, we generally identify them numerically. e.g.: Druid (2,3) means: In the 2nd Tier, the third secondary Tier upgrade, belonging to Druid. (which is an upgrade named Shapeshifting)</p>
 <?php include "../scripts/footer.html"; ?>
