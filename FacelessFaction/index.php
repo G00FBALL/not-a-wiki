@@ -122,7 +122,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCityFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities</b></p>
         <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: 75 * x0.9%, where x is is your Playtime (Longest Session) stat.</p>
+        <p><b>Formula</b>: (75 * (x / 3600) ^ 0.9)%, where x is is your Playtime (Longest Session) stat.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities.(after completing Secrets of the Ancients).</p>
         <p><b>Cost</b>: 10 Ttg (1E103)</p>
         <br/>

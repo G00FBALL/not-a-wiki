@@ -540,7 +540,7 @@
                 <p><b>Cost</b>: 10 Ttg (1E103), A1+ Free</p>
                 <p><b>Alignment</b>: Faceless</p>
                 <p><b>Effect</b>: Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.</p>
-                <p><b>Formula</b>: (75 * x ^ 0.9), where x is your Playtime (Longest Session) stat.</p>
+                <p><b>Formula</b>: (75 * (x / 3600) ^ 0.9)%, where x is your Playtime (Longest Session) stat.</p>
                 <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
                 <hr>
                 <p><b>R28-R99</b></p>

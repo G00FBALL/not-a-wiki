@@ -138,7 +138,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" alt="Sunken Cities" align="middle"></p>
 <p>Upgraded from Labyrinths</p>
 <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.</p>
-<p><b>Formula</b>: (75 * x ^ 0.9), where x is your Playtime (Longest Session) stat.</p>
+<p><b>Formula</b>: (75 * (x / 3600) ^ 0.9)%, where x is your Playtime (Longest Session) stat.</p>
 <p><b>Requirement</b>: Research, 2000 Labyrinths</p>
 <br/>
 <p><b>Ascension 2 - R100+</b></p>
