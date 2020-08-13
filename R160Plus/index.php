@@ -601,7 +601,7 @@
 				<p><b>Requirements</b>: Mercenary Challenge 5, at least 2d 14h this game (F6000 included)</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Undead</p>
-				<p><b>Bloodline (1 day+ D5625)</b>: Archon</p>
+				<p><b>Bloodline (Needs Testing)(2 days+ D5625)</b>: Archon</p>
                 <p><b>A2950</b>: Makers</p>
 				<p><b>D5875</b>: Archon</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
