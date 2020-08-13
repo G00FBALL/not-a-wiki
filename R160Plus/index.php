@@ -609,10 +609,10 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5875,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
 				</p>
-                                <p>
+                <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR3,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5875,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
-				        <b>5e7 (50 M)+ clicks</b>
+				    <b>5e7 (50 M)+ clicks</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -628,7 +628,7 @@
 				<p>A2950,A5875,</p>
 				<p>W180,W205,W275,W400,W525,W1400,W5625,</p>
 				<p>F5250</p>
-                                <p><b>Notes</b>: Swap AR2 with AR2 if clicks are buffed (5e7 (50 M)+).</p>
+                 <p><b>Notes</b>: Swap AR2 with AR3 if clicks are buffed (5e7 (50 M)+).</p>
 				<p><b>Notes</b>: <b>Needs Testing</b> Swap D5875 with D5625, Precognition with Infinite Spiral and use Archon Lineage if D5625 is buffed (2 day+).</p>
             </div>
         </div>
