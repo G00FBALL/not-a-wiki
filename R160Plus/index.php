@@ -216,12 +216,12 @@
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D5875,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
 					<b>MCC4 completed (R202+)</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
 					<b>MCC4 completed (R202+), 1 hour+ run</b>
 				</p>
                 <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
@@ -249,10 +249,10 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DM,S200,S400,S5875,C5125,C175,C250,C340,C400,C590,D200,D275,D290,D330,D1375,D3350,E5125,E135,E145,E230,E290,E320,E495,E3300,A30,A120,A270,A2950,A5375,W1275,W5625,W175,W180,W205,W275,W400,W525,F5250">
+                    <input type="text" value="EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DM,UNN:AR,S200,S400,S5875,C5125,C175,C250,C340,C400,C590,D200,D275,D290,D330,D1375,D3350,E5125,E135,E145,E230,E290,E320,E495,E3300,A30,A120,A270,A2950,A5375,W1275,W5625,W175,W180,W205,W275,W400,W525,F5250">
 				</p>
                 <p>EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,</p>
-                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DM,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DM,UNN:AR,</p>
                 <p>S200,S400,S5875,</p>
                 <p>C5125,C175,C250,C340,C400,C590,</p>
                 <p>D200,D275,D290,D330,D1375,D3350,</p>
@@ -304,10 +304,10 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
 				</p>
                 <p>EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,</p>
-                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,</p>
                 <p>S50,S400,S1500,S5875,</p>
                 <p>C250,C340,C400,C590,C5125,</p>
                 <p>D5875,D200,D275,D290,D1375,</p>
@@ -430,17 +430,17 @@
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,F5250">
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,AR10,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,F5250">
 					<b>MCC4</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,F5250">
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5125,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,F5250">
 					<b>MCC4, 16 hours+ this R</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5625,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,F5250">
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Brainwave,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,S5875,S200,S400,S500,C5625,C175,C340,C500,C250,C400,C590,D5625,D200,D275,D290,D330,E135,E145,E230,E290,E320,E400,E495,E1325,E3300,A120,A250,A270,A305,A545,A1500,A2950,W5625,W205,W275,W400,W1275,F5250">
 					<b>MCC4, D5625 is buffed</b>
 				</p>
 				<p>EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DW6,DW12,AR2,AR10,DJ5,DJ7,</p>
@@ -472,20 +472,20 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A30,A120,A270,A2950,A250,A305,A545,A1500,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A30,A120,A270,A2950,A250,A305,A545,A1500,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
 					<b>1 day this game (F6000 included)</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
-					<b>Needs Testing: 7 days this R</b>
+                    <input type="text" value="EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,DN2,DN12,DW6,AR2,DJ5,DJ7,MK10,SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,S5875,S200,S400,S500,S180,C5625,C175,C250,C340,C400,D5125,D200,D275,D290,D330,D1375,E135,E145,E230,E290,E320,E495,E3300,E1325,A5375,A270,A2950,A30,W5625,W1275,W400,W175,W275,W205,W180,W525,F5250">
+					<b>Needs Testing: 5 days this R</b>
 				</p>
 				<p>EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,</p>
-				<p>SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,</p>
 				<p>S5875,S200,S400,S500,S180,</p>
 				<p>C5625,C175,C250,C340,C400,</p>
 				<p>D5125,D200,D275,D290,D330,D1375,</p>
@@ -497,7 +497,7 @@
 				<p><b>Notes</b>: Buffing F6000 helps.</p>
 				<p><b>Notes</b>: Swap D5125 with D5625 if D5625 is buffed.</p>
 				<p><b>Notes</b>: Swap A30,A120,A270,A2950,A250,A305,A545,A1500 with A5375,A270,A2950,A30 with atleast 1 day this game (F6000 included).</p>
-				<p><b>Notes</b>: <b>Needs Testing</b> Swap FC11 and AR12 with DN12 and MK10 with 7 days this R.</p>
+				<p><b>Notes</b>: <b>Needs Testing</b> Swap FC11 and AR12 with DN12 and MK10 with 5 days this R.</p>
             </div>
         </div>
 		<br />
@@ -578,10 +578,10 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,S50,S5875,C250,C340,C400,C590,C3100,D5875,E135,E145,E230,E320,E400,E3300,A30,A120,A270,A305,A545,A1500,A2950,W275,W5625,F5250">
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S5875,C250,C340,C400,C590,C3100,D5875,E135,E145,E230,E320,E400,E3300,A30,A120,A270,A305,A545,A1500,A2950,W275,W5625,F5250">
 				</p>
                 <p>EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,</p>
                 <p>S50,S5875,</p>
                 <p>C250,C340,C400,C590,C3100,</p>
                 <p>D5875,</p>
@@ -607,15 +607,20 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5875,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5875,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
+				</p>
+                                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR3,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5875,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
+				        <b>5e7 (50 M)+ clicks</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:DW,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5625,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
-					<b>1 day+ D5625</b>
+                    <input type="text" value="EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S200,S400,S5875,C175,C250,C340,C400,C5875,D5625,D200,D275,D290,E135,E3300,E5375,A2950,A5875,W180,W205,W275,W400,W525,W1400,W5625,F5250">
+					<b>Needs Testing: 2 day+ D5625</b>
 				</p>
 				<p>EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,</p>
-				<p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,</p>
 				<p>S50,S200,S400,S5875,</p>
 				<p>C175,C250,C340,C400,C5875,</p>
 				<p>D5875,D200,D275,D290,</p>
@@ -623,7 +628,8 @@
 				<p>A2950,A5875,</p>
 				<p>W180,W205,W275,W400,W525,W1400,W5625,</p>
 				<p>F5250</p>
-				<p><b>Notes</b>: Swap D5875 with D5625, Precognition with Infinite Spiral and use Archon Lineage if D5625 is buffed (1 day+).</p>
+                                <p><b>Notes</b>: Swap AR2 with AR2 if clicks are buffed (5e7 (50 M)+).</p>
+				<p><b>Notes</b>: <b>Needs Testing</b> Swap D5875 with D5625, Precognition with Infinite Spiral and use Archon Lineage if D5625 is buffed (2 day+).</p>
             </div>
         </div>
 		<br />
@@ -751,7 +757,7 @@
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:MK,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
+                    <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:MK,UNN:DG,S30,S50,S330,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D200,D275,D290,D5125,E1,E25,E30,E80,E135,E145,E150,E230,E290,E320,E350,E400,E495,E3300,A10,A105,A150,A175,A250,A305,A545,A1500,A2950,W25,W275,W525,W5125,F5750">
 					<b>MCC4 completed (R202+)</b>
 				</p>
                 <p>EL3,EL7,EL11,AN5,GB4,UD10,DM9,TT3,TT6,FC7,DN2,DW12,AR3,AR10,DJ5,DJ7,</p>
@@ -838,7 +844,7 @@
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,UNN:TT,S5875,S200,S400,S5125,C5875,C175,C250,C340,C400,C5375,D200,D275,D290,D330,D1375,D3350,E5625,E135,E230,E320,E1425,E5125,A5375,A120,A270,A305,A2950,A3400,W180,W275,W400,W1275,W1375,W5125,F6000,F5250">
+                    <input type="text" value="FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:TT,UNN:AR,S5875,S200,S400,S5125,C5875,C175,C250,C340,C400,C5375,D200,D275,D290,D330,D1375,D3350,E5625,E135,E230,E320,E1425,E5125,A5375,A120,A270,A305,A2950,A3400,W180,W275,W400,W1275,W1375,W5125,F6000,F5250">
 					<b>Mercenary Challenge 4</b>
 				</p>
                 <p>FR1,EL4,EL7,AN5,AN8,AN12,GB7,DD4,DD10,FC2,FC11,DN2,AR2,AR5,DJ9,MK10,</p>
@@ -1051,7 +1057,7 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR1,EL4,AN12,GB12,UD10,DM9,TT3,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW">
+					<input type="text" value="FR1,EL4,AN12,GB12,UD10,DM9,TT3,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DW,UNN:DG">
 				</p>
                 <p>FR1,EL4,AN12,GB12,UD10,DM9,TT3,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
                 <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,UB:Flesh Workshop</p>
@@ -1156,10 +1162,10 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,S200,S5625,C175,C400,C5375,D275,D5625,E135,E145,E320,E5375,A55,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400,F5250">
+					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DW,UNN:DG,S200,S5625,C175,C400,C5375,D275,D5625,E135,E145,E320,E5375,A55,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400,F5250">
 				</p>
                 <p>EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR8,AR10,MK1,</p>
-                <p>SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DW,UNN:DG,</p>
                 <p>S200,S5625,</p>
                 <p>C175,C400,C5375,</p>
                 <p>D275,D5625,</p>
@@ -1183,20 +1189,20 @@
                 <p><b>Artifact Set</b>: Mercenary</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DG,UNN:DW,S200,S400,S3200,C5875,D275,D5625,E135,E320,E5375,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,F5250">
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DW,UNN:DG,S200,S400,S3200,C5875,D275,D5625,E135,E320,E5375,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,F5250">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DG,UNN:DW,S200,S400,S3200,S5625,C5875,C250,C340,C400,C590,D275,D5625,D200,D290,D330,E135,E320,E5375,E145,E400,E3300,A270,A305,A545,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W5625,F5250">
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DW,UNN:DG,S200,S400,S3200,S5625,C5875,C250,C340,C400,C590,D275,D5625,D200,D290,D330,E135,E320,E5375,E145,E400,E3300,A270,A305,A545,A1500,A2950,A3400,W180,W275,W400,W1275,W1375,W5625,F5250">
 					<b>Archon Lineage</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Ziggurat,UNN:DG,UNN:DW,S200,S400,S3200,C5875,D275,D5625,E135,E320,E5375,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,F5250">
+					<input type="text" value="EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UB:Ziggurat,UNN:DW,UNN:DG,S200,S400,S3200,C5875,D275,D5625,E135,E320,E5375,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,F5250">
 					<b>Dragon Lineage</b>
 				</p>
                 <p>EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,</p>
-                <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DG,UNN:DW,</p>
+                <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DW,UNN:DG,</p>
                 <p>S200,S400,S3200,</p>
                 <p>C5875,</p>
                 <p>D275,D5625,</p>
