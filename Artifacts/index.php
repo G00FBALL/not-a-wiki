@@ -454,6 +454,7 @@
     " coords="196,364,253,421" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png align=middle> <b>Ancient Heirloom</b></p>
     <p><b>Clue</b>: Relic of the Lineage.</p>
+	<p><b>Description</b>: Passed down countless generations.</p>
     <p><b>Requirements</b>: Have at least 1 Lineage level purchased.</p>
     <p><b>Effect</b>: Reduces the cost multiplier of Lineage by 10%, (Except for the highest one) (Instead of 10x more per level it is 9x more per level)</p>
     <p><b>Formula</b>: Without Ancient Heirloom 25 * 10 ^ (8 + lineage level)</p>
@@ -504,11 +505,10 @@
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
     <p><b>Requirement</b>:  R100+</p>
     <p><b>Effect</b>: Awards an upgrade of the same name.</p>
-    <p><b>Effect</b>: Lower Lineage cost exponent based on Reincarnations made.</p>
+    <p><b>Effect</b>: Lowers Lineage cost exponent based on Reincarnations made.</p>
     <p><b>Formula</b>: (0.01 * R), R is Reincarnations made (NOT affected by invisible bonuses to R count).</p>
-    <p><b>Note</b>: FC cost is reset when you purchase a new lineage level.</p>
     <p><b>Chance</b>: (x / 5,000,000,000,000,000 (5 QA))%, where x is FC chance.</p>
-    <p><b>Cost</b>: (1e90)</p>
+    <p><b>Cost</b>: 1 Novg (1e90)</p>
     " coords="132,428,189,486" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png align=middle> <b>Silk Cloth</b></p>
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
