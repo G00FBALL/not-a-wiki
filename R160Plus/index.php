@@ -252,7 +252,7 @@
                     <input type="text" value="EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DM,UNN:AR,S200,S400,S5875,C5125,C175,C250,C340,C400,C590,D200,D275,D290,D330,D1375,D3350,E5125,E135,E145,E230,E290,E320,E495,E3300,A30,A120,A270,A2950,A5375,W1275,W5625,W175,W180,W205,W275,W400,W525,F5250">
 				</p>
                 <p>EL3,EL4,AN5,AN8,GB4,GB7,UD10,DM9,TT3,DD11,FC11,DN2,AR2,AR12,DJ5,DJ7,</p>
-                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DM,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:DM,UNN:AR,</p>
                 <p>S200,S400,S5875,</p>
                 <p>C5125,C175,C250,C340,C400,C590,</p>
                 <p>D200,D275,D290,D330,D1375,D3350,</p>
@@ -307,7 +307,7 @@
                     <input type="text" value="EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,S50,S400,S1500,S5875,C250,C340,C400,C590,C5125,D5875,D200,D275,D290,D1375,E400,E3300,E5125,A2950,A5875,W150,W180,W205,W275,W400,W525,W1400,W5125,F5750">
 				</p>
                 <p>EL3,EL7,EL11,AN5,GB4,UD7,UD10,DM9,TT3,DN2,DW6,DW12,AR3,AR10,DJ7,MK6,</p>
-                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DG,UNN:MK,</p>
+                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Flesh Workshop,UNN:MK,UNN:DG,</p>
                 <p>S50,S400,S1500,S5875,</p>
                 <p>C250,C340,C400,C590,C5125,</p>
                 <p>D5875,D200,D275,D290,D1375,</p>
@@ -485,7 +485,7 @@
 					<b>Needs Testing: 5 days this R</b>
 				</p>
 				<p>EL3,EL7,AN5,AN8,AN12,GB4,GB7,TT3,DD11,FC11,DN2,DW6,AR2,AR12,DJ5,DJ7,</p>
-				<p>SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:AR,UNN:DM,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Burning Abyss,UNN:DM,UNN:AR,</p>
 				<p>S5875,S200,S400,S500,S180,</p>
 				<p>C5625,C175,C250,C340,C400,</p>
 				<p>D5125,D200,D275,D290,D330,D1375,</p>
@@ -581,7 +581,7 @@
                     <input type="text" value="EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S50,S5875,C250,C340,C400,C590,C3100,D5875,E135,E145,E230,E320,E400,E3300,A30,A120,A270,A305,A545,A1500,A2950,W275,W5625,F5250">
 				</p>
                 <p>EL3,EL4,EL7,EL12,AN5,AN12,GB4,GB7,UD10,TT3,FC7,DN2,DW12,AR3,DJ5,DJ9,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,</p>
                 <p>S50,S5875,</p>
                 <p>C250,C340,C400,C590,C3100,</p>
                 <p>D5875,</p>
@@ -620,7 +620,7 @@
 					<b>Needs Testing: 2 day+ D5625</b>
 				</p>
 				<p>EL3,EL4,EL7,EL12,AN5,GB4,UD10,DM9,TT3,DD11,DN2,DW12,DG7,AR2,DJ5,DJ9,</p>
-				<p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DG,UNN:DW,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,</p>
 				<p>S50,S200,S400,S5875,</p>
 				<p>C175,C250,C340,C400,C5875,</p>
 				<p>D5875,D200,D275,D290,</p>
@@ -1165,7 +1165,7 @@
 					<input type="text" value="EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR8,AR10,MK1,SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DW,UNN:DG,S200,S5625,C175,C400,C5375,D275,D5625,E135,E145,E320,E5375,A55,A270,A305,A545,A1500,A2950,W180,W275,W400,W1275,W1375,W1400,F5250">
 				</p>
                 <p>EL1,EL7,EL11,AN5,AN6,AN11,GB4,GB7,DD3,FC2,FC7,DW12,AR5,AR8,AR10,MK1,</p>
-                <p>SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Dragon Pasture,UNN:DW,UNN:DG,</p>
                 <p>S200,S5625,</p>
                 <p>C175,C400,C5375,</p>
                 <p>D275,D5625,</p>
@@ -1202,7 +1202,7 @@
 					<b>Dragon Lineage</b>
 				</p>
                 <p>EL1,EL7,AN5,AN6,AN11,AN12,GB7,DD3,DD4,FC2,FC7,DW12,AR5,AR8,AR10,MK1,</p>
-                <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DG,UNN:DW,</p>
+                <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DW,UNN:DG,</p>
                 <p>S200,S400,S3200,</p>
                 <p>C5875,</p>
                 <p>D275,D5625,</p>
