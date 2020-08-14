@@ -52,7 +52,7 @@
     <p><b>Requirements</b>: 15th Excavation</p>
     <p><b>Effect</b>: 1st clue required to unlock the Faceless Alliance.</p>
     " coords="133,44,191,101" shape="0">
-                    <area research="<img src=http://musicfamily.org/realm/Factions/picks/AncientStoneSlab2.png alt=Artifacts align=middle><b> Ancient Stone Slab 2</b></p>
+                    <area research="<img src=http://musicfamily.org/realm/Factions/picks/AncientStoneSlab2.png alt=Artifacts align=middle><b> Ancient Stoneslab 2</b></p>
     <p><b>Description</b>: We discovered an ancient stone slab written in old scriptures.We can recognize the number 300.</p>
     <p><b>Requirements</b>: 20th Excavation</p>
     <p><b>Effect</b>: 2nd clue required to unlock the Titan Alliance.</p>
