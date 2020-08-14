@@ -1245,7 +1245,7 @@
                 <p><b>Formula</b>: With Ancient Heirloom (25 * 10^ (8 + lineage level)) ^ 0.9</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
                 <hr>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part 2</b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Ancient Heirloom" align="middle"><b> Know Your Enemy, Part II</b></p>
                 <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
                 <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
                 <p><b>Requirement</b>: R76+, Upgrade from all 12 Factions</p>
@@ -1522,7 +1522,7 @@
                 <p><b>Alignment</b>: Any Vinilla Faction</p>
                 <p><b>Effect</b>: Increases the production of all buildings by 2,500% for the first 25 minutes of the game (this game) for all Vanilla factions. Doesn't work while offline.</p>
                 <hr>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy Part 1" align="middle"><b> Know Your Enemy Part 1</b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="Know Your Enemy Part I" align="middle"><b> Know Your Enemy Part I</b></p>
                 <p><b>Requirement</b>: Play as Mercenaries, have upgrades from each 11 factions, R12+ Excavate</p>
                 <p><b>Cost</b>: 100 Vg (1E65)</p>
                 <p><b>Alignment</b>: Any</p>
@@ -1986,7 +1986,7 @@
                 <p><b>Cost</b>: 100 Qaq (1e125)</p>
                 <p><b>Effect</b>: Multiply Faction Coin find chance by x5 for automatic clicks only</p>
                 <hr>
-                <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="KnowYourEnemyPart2" align="middle"><b> Know Your Enemy, Part 2</b></p>
+                <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part II" align="middle"><b> Know Your Enemy, Part II</b></p>
                 <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
                 <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
                 <p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>

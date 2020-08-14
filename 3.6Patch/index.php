@@ -810,7 +810,7 @@
                     <p><b>New Effect</b>: Passive effect: allows Mercenaries to benefit from all faction challenges of your alignment.</p>
                     <p><b>Note</b>: Does not grant elite challenges.</p>
                     <br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part 2" align="middle"><b> Know Your Enemy, Part 2</b></p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png" alt="Know Your Enemy, Part II" align="middle"><b> Know Your Enemy, Part II</b></p>
                     <p><b>Old Requirement</b>: R76+, Upgrade from all 12 Factions</p>
                     <p><b>New Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
                     <hr>

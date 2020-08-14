@@ -462,7 +462,7 @@
     <p><b>Chance</b>: (Total Lineage levels / 20)%</p>
     <p><b>Cost</b>: 10 Dtg (1e100)</p>
     " coords="260,362,317,421" shape="0">
-                    <area research="<img src=http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png align=middle> <b>Know Your Enemy, Part 2</b></p>
+                    <area research="<img src=http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png align=middle> <b>Know Your Enemy, Part II</b></p>
     <p><b>Clue</b>: Even an expert Mercenary should learn by all other cultures.</p>
     <p><b>Description</b>: Much more knowledge than you need, stored in a handy book.</p>
     <p><b>Requirement</b>: R75+, Mercenary Unique Building, Upgrade from all 12 Factions</p>
