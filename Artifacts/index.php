@@ -113,12 +113,14 @@
     <p><b>Effect</b>: Unlocks Secrets of the Warriors</p>
     " coords="324,108,382,165" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png align=middle><b> First Iron Fragment</b></p>
-    <p><b>Clue</b>: This one seems to require a lot of magical renewance.<p>Description: It looks like a piece of an iron object. It's broken off on two sides.</p>
+    <p><b>Clue</b>: This one seems to require a lot of magical renewance.
+	<p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
     <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
     <p><b>Chance</b>: (log10(1 + x) ^ 3 / 100,000 (100K))%, where x is mana regen.</p>
     " coords="388,109,446,165" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png align=middle><b> Second Iron Fragment</b></p>
-    <p><b>Clue</b>: Found via extensive Royal Trading mandates.<p>Description: It looks like a piece of an iron object. It's broken off on two sides.</p>
+    <p><b>Clue</b>: Found via extensive Royal Trading mandates.
+	<p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
     <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Titan</p>
     <p><b>Chance</b>: (x ^ 3 / 5,000,000,000 (5B))%, where x is individual royal exchange bonus.</p>
     " coords="5,172,62,229" shape="0">
