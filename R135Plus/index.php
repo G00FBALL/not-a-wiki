@@ -14,30 +14,43 @@
 <div class="shlisting">
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 0 - 1e50 (100 Qid)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Kiluh</p>
-				<p><b>Range</b>: 0 - 1e50 (100 Qid) Gems</p>
-				<p><b>Faction</b>: Faceless</p>
-				<p><b>Bloodline</b>: Titan</p>
-				<p><b>Artifact Set</b>: Druid</p>
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Range</b>: 0 - 1e33 (1 Dc) Gems</p>
+				<p><b>Faction</b>: Elf</p>
+				<p><b>Bloodline</b>: Druid</p>
+				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S251,S375,S1450,S1500,S3200,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
 				</p>
+				<p>S175,S3200,</p>
+				<p>C1,C225,C340,C405,C520,C590,</p>
+				<p>D50,D435,D1375,</p>
+				<p>E25,E410,E3250,</p>
+				<p>A495,A3400,</p>
+				<p>W10,W560,W1375</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e33 (1 Dc) - 1e50 (100 Qid)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Range</b>: 1e33 (1 Dc) Gems - 1e50 (100 Qid) Gems</p>
+				<p><b>Faction</b>: Elf</p>
+				<p><b>Bloodline</b>: Faceless</p>
+				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
-					<b>Art of the Crow is affordable (? Gems)</b>
+					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
 				</p>
-				<p>S251,S375,S1450,S1500,S3200,</p>
-				<p>C340,C1300,</p>
-				<p>D1375,D260,D1125,</p>
-				<p>E400,E350,E1225,</p>
-				<p>A400,A300,A1200,</p>
-				<p>W180,W275,W1400</p>
-				<p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
-				<p><b>Notes</b>: Swap S3200 with S215 once Art of the Crow is affordable (? Gems)</p>
+				<p>S175,S3200,</p>
+				<p>C1,C225,C340,C405,C520,C590,</p>
+				<p>D50,D435,D1375,</p>
+				<p>E25,E410,E3250,</p>
+				<p>A495,A3400,</p>
+				<p>W10,W560,W1375</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -45,7 +58,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Kiluh</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>
-				<p><b>Range</b>: 1e50 (100 Qid) - 1e70 (10 Dvg) Gems</p>
+				<p><b>Range</b>: 1e50 (100 Qid) Gems - 1e70 (10 Dvg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Goblin</p>
 				<p><b>Artifact Set</b>: Dwarf, Fairy (1e63 (1 Vg) Gems+)</p>
@@ -139,28 +152,6 @@
 				<p>W1,W135,W175,W405,W520,W590</p>
 				<p><b>Notes</b>: Slow starting build, especially on first run. Recommended running Angelline Demons (Early W175) before first run. Build grows idle but its recommended to set up a spell combo before abdicating.</p>
 				<p><b>Notes</b>: Before abdicating, do a manual spell combo: Make sure that Drow Union is targetting Evil Fortress, Catalyst hits Gem Grinder, Maelstrom hits Evil Fortresses by number of trophies, Limited Wish is increasing trophy count and (R148+) DJC4 (Worldly Desires) is on 888% assistants.</p>
-			</div>
-		</div>
-				<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Druid (R144+) 0 - 1e50 (100 Qid)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Kiluh</p>
-				<p><b>Requirement</b>: Makers Challenge 3</p>
-				<p><b>Range</b>: 0 - 1e50 (100 Qid) Gems</p>
-				<p><b>Faction</b>: Druid</p>
-				<p><b>Bloodline</b>: Goblin</p>
-				<p><b>Artifact Set</b>: Fairy</p>
-				<p><b>Stoneheart Set (R148+, MKC4)</b>: Druid</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400">
-				</p>
-				<p>S1450,S3200,</p>
-				<p>C300,C340,C1300,</p>
-				<p>D275,D1125,D1375,</p>
-				<p>E260,E1225,E1425,</p>
-				<p>A250,A251,A375,A1200,A1500,</p>
-				<p>W350,W1375,W1400</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
