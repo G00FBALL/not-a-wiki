@@ -84,7 +84,7 @@
         </div>
 		<br />
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+  Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 0 - 1e33 (1 Dc) Gems</p>
