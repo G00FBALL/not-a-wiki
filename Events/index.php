@@ -378,6 +378,7 @@
 	<area research="
 	<p><b>Summer Festival</b></p>
 	<p><b><img src=/realm/Factions/picks/LateSpringtime.png align=middle> Late Springtime</b></p>
+	<p><b>Type</b>: Feat</p>
     <p><b>Unlock</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
 	<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
     " coords="323,194,380,250" shape="rect">
@@ -845,6 +846,7 @@
                         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
                         <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+						<br/>
 						<p><b><img src="/realm/Factions/picks/LateSpringtime.png" alt="Late Springtime" align="middle"> Late Springtime</b></p>
                         <p><b>Unlock</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
 						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
