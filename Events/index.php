@@ -667,7 +667,7 @@
                                 <center>Goblin Invasion</center>
                             </td>
 							<td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleSummer1.png" width="54" height="54" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/FrostOrbs.png" width="54" height="54" /></center>
                                 <center>Summer Festival</center>
                             </td>
                         </tr>
