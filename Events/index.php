@@ -31,7 +31,7 @@
         <p><b>Event will end in</b></p>
         <p id="end">
             <script>
-                var countDownDate2 = new Date("July 13, 2020 18:59:00 UTC").getTime();
+                var countDownDate2 = new Date("August 24, 2020 18:59:00 UTC").getTime();
                 var x = setInterval(function() {
                     var now = new Date().getTime();
                     var distance = countDownDate2 - now;
@@ -128,6 +128,7 @@
                             <td>8%</td>
                             <td>8%</td>
                             <td>8%</td>
+							<td>8%</td>
                         </tr>
                         <tr>
                             <td>0</td>
@@ -373,6 +374,12 @@
     <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
     <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+    " coords="260,197,318,252" shape="rect">
+	<area research="
+	<p><b>Summer Festival</b></p>
+	<p><b><img src=/realm/Factions/picks/LateSpringtime.png align=middle> Late Springtime</b></p>
+    <p><b>Unlock</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
+	<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
     " coords="260,197,318,252" shape="rect">
     <area research="
     <p><b>Halloween</b></p>
@@ -734,7 +741,8 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Hailstorm.PNG" alt="Hailstorm" align="middle"> Hailstorm</b></p>
                         <p><b>Kind</b>: Spell</p>
-                        <p><b>Unlock / Price</b>: Mana Cost:1000 (Unlocked when aligned with Winterly)</p>
+						<p><b>Unlock / Price</b>: Unlocked when aligned with Winterly</p>
+						<p><b>Mana Cost</b>: 1000</p>
                         <p><b>Effect</b>:Increase the production of all buildings based on Hailstorm activity time for 2m. Bonus provided increases progressively over the duration of the spell.</p>
                         <p><b>Formula</b>: (0.1 * x ^ 0.6 * (y * 30) ^ 1.1)%, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).</p>
                         <br/>
@@ -762,7 +770,8 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Heatwave.PNG" alt="Heatwave" align="middle"> Heatwave</b></p>
                         <p><b>Kind</b>: Spell</p>
-                        <p><b>Unlock / Price</b>: Mana Cost:300 (Unlocked when aligned with Summeraan)</p>
+                        <p><b>Unlock / Price</b>: Unlocked when aligned with Summeraan</p>
+						<p><b>Mana Cost</b>: 300</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game for 12s.</p>
                         <p><b>Formula</b>: (5 * x ^ 0.85)%, where x is the number of spells cast this game.</p>
                         <p><b>Effect</b>: Also grants faction coins based on the amount of Flame Orbs collected in this event.</p>
@@ -821,15 +830,19 @@
                         <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Frost Orbs with a single click while affiliated with the Summeraans.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
+                        <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Climate Forecast" align="middle"> Climate Forecast</b></p>
                         <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while unaffilliated with either of the Summer Festival factions.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter</b></p>
+                        <p><b><img src="/realm/Factions/picks/Frostmelter.png" alt="Frostmelter" align="middle"> Frostmelter</b></p>
                         <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade.</p>
                         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
                         <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+						<p><b><img src="/realm/Factions/picks/LateSpringtime.png" alt="Late Springtime" align="middle"> Late Springtime</b></p>
+                        <p><b>Unlock</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
+						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <br/>
                         <hr>
                         <p><b>Shop Items</b></p>
                         <p><b><img src="/realm/Factions/picks/75OrbShopItem.png" alt="Shop Item" align="middle"> 75 Frost and Flame Orbs</b></p>
