@@ -55,7 +55,7 @@
                     <tr>
                         <th>Rubies</th>
                         <th colspan="1">Event</th>
-                        <th colspan="6">Total Cumulative Bonus 312%</th>
+                        <th colspan="6">Total Cumulative Bonus 320%</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -589,45 +589,45 @@
                         </tr>
                         <tr>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleStandard.png" width="54%" height="54%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleStandard.png" width="54" height="54" /></center>
                                 <center>Standard</center>
                             </td>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleValentine.png" width="46%" height="46%" /></center>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleValentine.png" width="54" height="54" /></center>
                                 <center>Valentine</center>
-                            </th>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleEaster.png" width="43%" height="43%" /></center>
+                            </td>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleEaster.png" width="54" height="54" /></center>
                                 <center>Easter</center>
-                            </th>
+                            </td>
                         </tr>
                         <tr>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleBloodwar.png" width="52%" height="52%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleBloodwar.png" width="54" height="54" /></center>
                                 <center>Blood War</center>
                             </td>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleGoblinInvasion.png" width="46%" height="46%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleGoblinInvasion.png" width="54" height="54" /></center>
                                 <center>Goblin Invasion</center>
                             </td>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleSummerFest.png" width="43%" height="43%" /></center>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleSummerFest.png" width="54" height="54" /></center>
                                 <center>Summer Festival</center>
-                            </th>
+                            </td>
                         </tr>
                         <tr>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleHalloween.png" width="54%" height="54%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ManaBubbleHalloween.png" width="54" height="54" /></center>
                                 <center>Halloween</center>
                             </td>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ChristmasMana.png" width="44%" height="44%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ChristmasMana.png" width="54" height="54" /></center>
                                 <center>Christmas</center>
                             </td>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/IdilliumMana.png" width="40%" height="40%" /></center>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/IdilliumMana.png" width="54" height="54" /></center>
                                 <center>Idillium</center>
-                            </th>
+                            </td>
                         </tr>
                     </tbody>
                 </thead>
@@ -640,29 +640,35 @@
                 <thead>
                     <tbody>
                         <tr>
-                            <th colspan="5">Event Coin Particles Options</th>
+                            <th colspan="3">Event Coin Particles Options</th>
                         </tr>
                         <tr>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/FactionCoinTrophy6.png" width="54%" height="54%" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/FactionCoinTrophy6.png" width="54" height="54" /></center>
                                 <center>Standard</center>
                             </td>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleValentine.png" width="54%" height="54%" /></center>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleValentine.png" width="54" height="54" /></center>
                                 <center>Valentine</center>
-                            </th>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg1.png" width="68%" height="68%" /></center>
+                            </td>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleEgg1.png" width="54" height="54" /></center>
                                 <center>Easter</center>
-                            </th>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCloud1.png" width="68%" height="58%" /></center>
+                            </td>
+						</tr>
+						<tr>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleCloud1.png" width="54" height="54" /></center>
                                 <center>Blood War</center>
-                            </th>
-                            <th>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleNugget.png" width="38%" height="31" /></center>
+                            </td>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleNugget.png" width="54" height="54" /></center>
                                 <center>Goblin Invasion</center>
-                            </th>
+                            </td>
+							<td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleSummer1.png" width="54" height="54" /></center>
+                                <center>Summer Festival</center>
+                            </td>
                         </tr>
                     </tbody>
                 </thead>
