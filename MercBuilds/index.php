@@ -136,7 +136,7 @@
 					<p><b>Template</b></p>
 					<p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
 					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-					<p><b>Notes</b>: This build is for getting <b>Coin Pillage</b>,<b>Premeditation</b> and <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
+					<p><b>Notes</b>: This build is for getting <b>Coin Pillage</b> and <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
