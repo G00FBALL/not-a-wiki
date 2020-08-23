@@ -169,6 +169,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
+				<p><b>Requirements</b>: Dragon challenge 4</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Undead/Titan</p>
                 <p>
@@ -189,6 +190,7 @@
             <div class="autohide">
                 <p><b>Author</b>: Cyden</p>
                 <p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
+				<p><b>Requirements</b>: Dragon challenge 4, Undead Lineage L15+</p>
                 <p><b>Faction</b>: Titan/Dragon</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p>
