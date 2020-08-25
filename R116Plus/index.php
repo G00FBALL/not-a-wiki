@@ -130,28 +130,6 @@
 				<p><b>Notes</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
 			</div>
 		</div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Faceline Elves 1e50 (100 Qid) - 1e64 (10 Vg)</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Rellikrellik</p>
-                <p><b>Range</b>: 1e50 (100 Qid) Gems - 1e64 (10 Vg) Gems</p>
-                <p><b>Requirment</b>: All Advanced Heritages</p>
-                <p><b>Faction</b>: Elf
-                <p><b>Bloodline</b>: Faceless
-                <p><b>Artifact Set</b>: Elf
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375">
-				</p>
-                <p>S175,S3200,</p>
-                <p>C1,C225,C340,C405,C520,C590,</p>
-                <p>D50,D435,D1375,</p>
-                <p>E25,E145,E410,</p>
-                <p>A250,A495,</p>
-                <p>W10,W560,W1375</p>
-                <p><b>Notes</b>: highly benefits from high click count.</p>
-            </div>
-        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e64 (10 Vg)+</a></b></p>
             <div class="autohide">
