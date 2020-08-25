@@ -236,7 +236,7 @@
     <p><b>Requirement</b>: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.</p>
     <p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>
     <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p>
-    " coords="4,67,60,60" shape="rect">
+    " coords="4,67,60,123" shape="rect">
     <area research="
     <p><b>Valentines</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/Valentine2017Quest4.png align=middle> Feel the Love</b></p>
