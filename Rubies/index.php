@@ -115,25 +115,25 @@
             <td>Mana Regeneration</td>
             <td>1 Ruby (+1 for every time this upgrade has been purchased)</td>
             <td>Unlocked by Ruby Power</td>
-            <td>+0.5 mana regen and +0.5% mana regen (per upgrade)</td>
+            <td>+1 mana regen and +1% mana regen (per upgrade)</td>
         </tr>
         <tr>
             <td>Max Mana</td>
             <td>1 Ruby (+1 for every time this upgrade has been purchased)</td>
             <td>Unlocked by Ruby Power</td>
-            <td>+25 max mana and +2.5% max mana (per upgrade)</td>
+            <td>+100 max mana and +1% max mana (per upgrade)</td>
         </tr>
         <tr>
             <td>Gem Bonus</td>
             <td>1 Ruby (+1 for every time this upgrade has been purchased)</td>
             <td>Unlocked by Ruby Power</td>
-            <td>+0.5% gem production bonus additively and multiplicatively (per upgrade)</td>
+            <td>+1% gem production bonus additively and multiplicatively (per upgrade)</td>
         </tr>
         <tr>
             <td>Royal Trading</td>
             <td>1 Ruby (+1 for every time this upgrade has been purchased)</td>
             <td>Unlocked by Ruby Power</td>
-            <td>+1.5% royal exchange production bonus additively and multiplicatively (per upgrade)</td>
+            <td>+2% royal exchange production bonus additively and multiplicatively (per upgrade)</td>
         </tr>
         <tr>
             <td>Bonus Reset</td>
