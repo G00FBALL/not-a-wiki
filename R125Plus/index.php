@@ -521,7 +521,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need tested</p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need testing</p>
 			<div class="autohide">
 				<p><b>Author</b>: SomeoneLucas</p>
 				<p><b>Range</b>: 1e72 (1 Tvg) Gems+</p>
