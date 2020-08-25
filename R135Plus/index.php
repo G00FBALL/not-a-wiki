@@ -369,7 +369,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Titans (Archon Challenge 4)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Kiluh</p>
+						<p><b>Author</b>: Kiluh, modified by Wolfsblood</p>
 						<p><b>Requirement</b>: Faceless Lineage 45</p>
 						<p><b>Range</b>: 1e102 (1 TTg) Gems+</p>
 						<p><b>Faction</b>: Titan</p>
@@ -377,12 +377,12 @@
 						<p><b>Artifact Set</b>: Dragon</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D200,D350,E275,E320,E1225,A400,W260,W1375,W1400,S200,C250,D330,E1325,A270,W1275">
+							<input type="text" value="S300,S400,S1450,C251,C375,C400,C1300,C1500,D200,D350,E135,E275,E1225,A400,W260,W1375,W1400,S200,C250,D330,E1325,A270,W1275">
 						</p>
-						<p>S300,S1450,S3200,</p>
+						<p>S300,S400,S1450,</p>
 						<p>C251,C375,C400,C1300,C1500,</p>
 						<p>D200,D350,</p>
-						<p>E275,E320,E1225,</p>
+						<p>E135,E275,E1225,</p>
 						<p>A400,</p>
 						<p>W260,W1375,W1400</p>
 						<p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
@@ -426,7 +426,7 @@
 						<p><b>Artifact Set</b>: Faceless</p>
 						<p><b>Notes</b>: Buff Max assistants with Fairyline Undead (Max Assistants) buff build if it hasnt been previously buffed with demons.</p>
 						<p><b>Notes</b>: Buff Excavations to at least 1e6 (1M) excavations this R and 50+ excavation resets.</p>
-						<p><b>Notes</b>: Estimated time to complete 4 hours or less (highly dependant on buffing).</p>
+						<p><b>Notes</b>: Estimated time to complete 2 hours or less (highly dependant on buffing and manual clicking).</p>
 					</div>
 				</div>
 			</div>
