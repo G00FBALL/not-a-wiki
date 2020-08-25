@@ -55,7 +55,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Angels 1e50 (100 Qid) - 1e70 (10 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Angels (R136-R153) 1e50 (100 Qid) - 1e70 (10 Dvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Kiluh</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>
@@ -110,6 +110,7 @@
 				<p><b>Author</b>: Sad</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>
 				<p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
+				<p><b>Range (R154+, All Challenges Completed)</b>: 1e58 (10 Ocd) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p><b>Artifact Set</b>: Fairy</p>
@@ -156,25 +157,24 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Druid (R154+) 0 - 1e70 (10 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Elves (R154+) 0 - 1e58 (10 Ocd)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Rellikrellik</p>
-				<p><b>Requirement</b>: All challenges completed</p>
-				<p><b>Range</b>: 0 - 1e70 (10 Dvg) Gems </p>
-				<p><b>Faction</b>: Druid</p>
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Requirement</b>: All Challenges Completed</p>
+				<p><b>Range</b>: 0 - 1e58 (10 Ocd) Gems</p>
+				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Fairy</p>
-				<p><b>Artifact Set</b>: Fairy</p>
-				<p><b>Stoneheart Set</b>: Druid</p>
+				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E1225,E1425,A250,A251,A375,A1200,A1500,W350,W1375,W1400">
+					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
 				</p>
-				<p>S1450,S3200,</p>
-				<p>C300,C340,C1300,</p>
-				<p>D275,D1125,D1375,</p>
-				<p>E260,E1225,E1425,</p>
-				<p>A250,A251,A375,A1200,A1500,</p>
-				<p>W350,W1375,W1400</p>
+				<p>S175,S3200,</p>
+				<p>C1,C225,C340,C405,C520,C590,</p>
+				<p>D50,D435,D1375,</p>
+				<p>E25,E410,E3250,</p>
+				<p>A495,A3400,</p>
+				<p>W10,W560,W1375</p>
 			</div>
 		</div>
 	</div>
@@ -595,7 +595,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (Early W175)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: EatMoreBacon</p>
-						<p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
+				<p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
 				<p><b>Range</b>: ?</p>
 				<p><b>Faction</b>: Demon</p>
 				<p><b>Bloodline</b>: Angel</p>
@@ -611,6 +611,7 @@
 				<p>A25,A410,A3400,</p>
 				<p>W1,W175,W405,W520,W590,W1375</p>
 				<p><b>Notes</b>: Intended to jumpstart W175 for running Angelline demons production builds. Run for 30 minutes before changing to the production build.</p>
+				<p><b>Notes</b>: No longer needed if all challenges completed.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
