@@ -143,7 +143,6 @@
                     <br/>
                 </div>
             </div>
-            <br/>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline Dromon (Dragon Stage 2 unlock)<font color="darkred"> Evil</font></a></b></p>
                 <div class="autohide">
@@ -162,7 +161,6 @@
                     <p>W120,W135,W175,W200,W205,W250,W400,W520</p>
                 </div>
             </div>
-            <br/>
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> Druidline Dwairy Stage 3 unlock<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
