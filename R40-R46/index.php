@@ -35,7 +35,6 @@
                     <p>E80,E135,E145,E330,E410,</p>
                     <p>A105,A120,A150,A250,A330,</p>
                     <p>W150,W180,W290,W320,W400</p>
-                    <p><b>Notes</b>: Get Mana Wave trophy with this build.</p>
                     <p><b>Notes</b>: C branch research placements is intentional (reimport build after horn).</p>
 					<p><b>Notes</b>: After 1 hour this R, the NU build becomes better.</p>
                 </div>
@@ -84,6 +83,32 @@
                     <p><b>Notes</b>: Swap S215->S200, D250->D205, A120->A270 with at least 16 hours this R.</p>
                     <p><b>Notes</b>: For Stage 4, requires 1e29 (100 Oc) Gems+. Estimated runtime under 12 hours.</p>
                     <p><b>Notes</b>: C branch research placements is intentional (reimport build after horn).</p>
+                </div>
+            </div>
+        </div>
+        <br />
+		<p><b>Buff</b></p>
+		<div class="category">
+		    <div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Facelessline Druids (Mana Spent)<font color="Blue"> Good</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Author</b>: Cyden</p>
+                    <p><b>Range</b>: ?</p>
+                    <p><b>Faction</b>: Druid</p>
+                    <p><b>Bloodline</b>: Faceless</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S30,S105,S215,S400,S500,C250,C305,C330,C340,C400,D135,D200,D250,D275,D290,E135,E145,E250,E260,E320,E480,A120,A250,A305,A375,A400,A545,W120,W135,W200,W250,W400">
+                    </p>
+                    <p>S30,S105,S215,S400,S500,</p>
+                    <p>C250,C305,C330,C340,C400,</p>
+                    <p>D135,D200,D250,D275,D290,</p>
+                    <p>E135,E145,E250,E260,E320,E480,</p>
+                    <p>A120,A250,A305,A375,A400,A545,</p>
+                    <p>W120,W135,W200,W250,W400</p>
+                    <p>W150,W180,W290,W320,W400</p>
+                    <p><b>Notes</b>: Ment for unlocking Reversed and Tiered autocast.</p>
+					<p><b>Notes</b>: Estimated time to unlock Tiered Autocast is 30 minutes</p>
                 </div>
             </div>
         </div>
