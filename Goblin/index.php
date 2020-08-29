@@ -28,7 +28,7 @@
 <H6 id="GoblinGC3"></h6><p><b>Goblin Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SmuggledJewelsChallenges.png" alt="Smuggled Jewels" align="middle"> <b>Smuggled Jewels</b></p>
 <p>"The goblin king wants a castle made of jewels all to himself."</p>
-<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building.</p>
+<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building, Goblin Bloodline.</p>
 <p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
 <p><b>Challenge</b>: Have at least 1 Qavg (1E75) gems in the abdication treasury.</p>
 <p><b>Effect</b>: Increase production bonus from Gems by 0.01% for each upgrade purchased.</p>
