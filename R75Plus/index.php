@@ -224,6 +224,7 @@
 				<p>E80,E135,E320,E330,E350,E1225,</p>
 				<p>A105,A120,A175,A330,A1500,A2950,</p>
 				<p>W25,W180,W275,W400,W1275,W1400</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Excavate for Dragon Heritage, Dragon upgrade 3 & 4, and Holy Light tier 3.</p>
 				<p><b>Notes</b>: Swap C150->C3100 (if unlocked), W275->W3150 for R79+.</p>
 			</div>
@@ -263,6 +264,7 @@
 				<p>E135,E350,E400,E410,E1225,E3300,</p>
 				<p>A30,A105,A120,A270,A1500,A2950,</p>
 				<p>W10,W25,W150,W1400,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Swap C400->C3100 if unlocked.</p>
 				<p><b>Notes</b>: Swap A105->A3400 for R83+.</p>
 			</div>
@@ -292,6 +294,7 @@
 				<p>E10,E135,E275,E1225,E3250,E3300,</p>
 				<p>A10,A105,A120,A270,A1500,A2950,</p>
 				<p>W180,W400,W405,W525,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Swap A105->A3400, D320->D3350 if unlocked.</p>
 			</div>
 		</div>
@@ -312,14 +315,15 @@
 					<input type="text" value="EL3,AN3,AN6,AN9,UD9,DD4,DD6,FC7,DN2,DN8,DG3,DG4,SP:Fairy Chanting,SP:Lightning Strike,S135,S305,S435,S460,S590,S1500,C250,C340,C400,C590,C1300,C3000,D25,D275,D1125,D1275,D2775,D3350,E135,E260,E350,E1225,E3250,E3300,A55,A120,A545,A1500,A2950,A3400,W150,W260,W400,W1375,W3050,W3150">
 					<b>D3350 unlocked</b>
 				</p>
-				<p>EL3,AN3,AN6,AN9,UD9,DD4,DD6,FC7,DN2,DN8,DG3,DG4,
-				<p>SP:Fairy Chanting,SP:Lightning Strike,
-				<p>S135,S305,S435,S460,S590,S1500,
-				<p>C250,C340,C400,C590,C1300,C3000,
-				<p>D25,D275,D290,D1125,D1275,D2775,
-				<p>E135,E260,E350,E1225,E3250,E3300,
-				<p>A55,A120,A545,A1500,A2950,A3400,
-				<p>W150,W260,W400,W1375,W3050,W3150
+				<p>EL3,AN3,AN6,AN9,UD9,DD4,DD6,FC7,DN2,DN8,DG3,DG4,</p>
+				<p>SP:Fairy Chanting,SP:Lightning Strike,</p>
+				<p>S135,S305,S435,S460,S590,S1500,</p>
+				<p>C250,C340,C400,C590,C1300,C3000,</p>
+				<p>D25,D275,D290,D1125,D1275,D2775,</p>
+				<p>E135,E260,E350,E1225,E3250,E3300,</p>
+				<p>A55,A120,A545,A1500,A2950,A3400,</p>
+				<p>W150,W260,W400,W1375,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Alternative offline production build. Set up the build, export the game, wait at least one minute and import in order to reap offline production gains, repeat or abdicate as necessary.</p>
 				<p><b>Notes</b>: Swap D290->D3350 if unlocked.</p>
 			</div>
@@ -345,6 +349,7 @@
 				<p>E135,E260,E1225,E1425,E3250,E3300,</p>
 				<p>A105,A120,A1200,A1500,A2950,A3400,</p>
 				<p>W180,W260,W400,W1275,W1375,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Excavate for lineage, upgrades and spell tiers.</p>
 			</div>
 		</div>
@@ -369,6 +374,7 @@
 				<p>E10,E135,E275,E1225,E3250,E3300,</p>
 				<p>A10,A120,A270,A1500,A2950,A3400,</p>
 				<p>W180,W400,W405,W525,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -392,6 +398,7 @@
 				<p>E10,E135,E275,E1225,E3250,E3300,</p>
 				<p>A10,A545,A590,A1500,A2950,A3400,</p>
 				<p>W180,W400,W405,W525,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -406,14 +413,15 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL3,AN6,AN9,UD9,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG4,SP:Fairy Chanting,SP:Lightning Strike,S135,S305,S435,S460,S590,S1500,C250,C340,C400,C590,C1300,C3000,D25,D275,D1125,D1275,D2775,D3350,E135,E260,E350,E1225,E3250,E3300,A55,A120,A545,A1500,A2950,A3400,W150,W260,W400,W1375,W3050,W3150">
 				</p>
-				<p>EL3,AN6,AN9,UD9,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG4,
-				<p>SP:Fairy Chanting,SP:Lightning Strike,
-				<p>S135,S305,S435,S460,S590,S1500,
-				<p>C250,C340,C400,C590,C1300,C3000,
-				<p>D25,D275,D1125,D1275,D2775,D3350,
-				<p>E135,E260,E350,E1225,E3250,E3300,
-				<p>A55,A120,A545,A1500,A2950,A3400,
-				<p>W150,W260,W400,W1375,W3050,W3150
+				<p>EL3,AN6,AN9,UD9,DD4,DD6,FC2,FC7,DN2,DN8,DG3,DG4,</p>
+				<p>SP:Fairy Chanting,SP:Lightning Strike,</p>
+				<p>S135,S305,S435,S460,S590,S1500,</p>
+				<p>C250,C340,C400,C590,C1300,C3000,</p>
+				<p>D25,D275,D1125,D1275,D2775,D3350,</p>
+				<p>E135,E260,E350,E1225,E3250,E3300,</p>
+				<p>A55,A120,A545,A1500,A2950,A3400,</p>
+				<p>W150,W260,W400,W1375,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Alternative offline production build. Set up the build, export the game, wait at least one minute and import in order to reap offline production gains, repeat or abdicate as necessary.</p>
 			</div>
 		</div>
@@ -453,6 +461,7 @@
 				<p>E135,E350,E410,E460,E1225,E3300,</p>
 				<p>A105,A120,A270,A1500,A2950,A3400,</p>
 				<p>W10,W25,W1275,W1400,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Swap C25 with C3100 if unlocked.</p>
 				<p><b>Notes</b>: Swap E460 with E290 for additional excavations.</p>
 			</div>
@@ -482,6 +491,7 @@
 				<p>E50,E135,E410,E1225,E3250,E3300,</p>
 				<p>A105,A120,A175,A545,A1500,A2950,</p>
 				<p>W180,W275,W400,W1275,W1400,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -509,6 +519,7 @@
 				<p>E10,E135,E1225,E1325,E3250,E3300,</p>
 				<p>A120,A175,A410,A545,A1500,A2950,</p>
 				<p>W180,W275,W400,W1400,W3050,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Swap C1300->C3100 if unlocked.</p>
 			</div>
 		</div>
@@ -532,6 +543,7 @@
 				<p>E50,E135,E590,E1225,E3250,E3300,</p>
 				<p>A105,A120,A545,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1275,W1375,W1400,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -591,7 +603,8 @@
 				<p>E135,E145,E1225,E1425,E3250,E3300,</p>
 				<p>A120,A545,A1200,A1500,A2950,A3400,</p>
 				<p>W180,W275,W400,W1375,W1400,W3150</p>
-				<p><b>Notes</b>: Swap TT3->FC2 for R90+ (Requires Veteran Figurine)</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Notes</b>: Swap TT3->FC2 for R90+ (Requires Veteran Figurine).</p>
 			</div>
 		</div>
 	</div>
@@ -744,7 +757,8 @@
 				<p>E135,E320,E590,E1225,E3250,E3300,</p>
 				<p>A120,A270,A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1275,W1375,W1400,W3150</p>
-				<p><b>Notes</b>: Use this build first if you have 300K-500K clicks this R, otherwise do Elf first</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Notes</b>: Use this build first if you have 300K-500K clicks this R, otherwise do Elf first.</p>
 				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra Share Benefits tier.</p>
 			</div>
 		</div>
@@ -774,6 +788,7 @@
 				<p>E135,E320,E590,E1225,E3250,E3300,</p>
 				<p>A120,A270,A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1275,W1375,W1400,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra Share Benefits tier.</p>
 			</div>
 		</div>
@@ -803,6 +818,7 @@
 				<p>E135,E320,E1225,E590,E3250,E3300,</p>
 				<p>A120,A270,A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1275,W1375,W1400,W3150</p>
+				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: When doing Fairyline/Dragonline swap Fairy Chanting/Dragon's breath with God's Hand if Fairy/Dragon Perk 2 is unlocked.</p>
 				<p><b>Notes</b>: Swap AN6 with FR7 if it means you can cast an extra Share Benefits tier.</p>
 			</div>
