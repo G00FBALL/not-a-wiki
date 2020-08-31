@@ -990,21 +990,8 @@
                         <p>A greedy shady merchant wants to exchange 3500 Goblin Crowns for 100 Rubies.</p>
                         <p>These are all the crowns he could gather.</p>
                         <hr>
-
-
-                        <hr>
                     </div>
                 </div>
-
-
-
-
-
-
-
-
-
-
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
                     <div class="autohide">
@@ -1141,7 +1128,6 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" align="middle"> Scrying</b></p>
                         <p><b>Effect</b>: Produces 1 Lave Stone and 1 Holy Synbol every 10 minutes for 4 hours.</p>
-
                         <hr>
                     </div>
                 </div>
@@ -1319,6 +1305,17 @@
                         <p><b>Kind</b>: Shop Item</p>
                         <p><b>Unlock / Price</b>: 100 Rubies</p>
                         <p><b>Note</b>: The Easter Bunny wants to sell you 7000 eggs for 100 rubies. These are all the eggs he could gather.</p>
+                    </div>
+                </div>
+				<div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2020)</a></b></p>
+                    <div class="autohide">
+                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b>Kind</b>: Upgrade</p>
+                        <p><b>Unlock / Price</b>: 1 Coin</p>
+                        <p><b>Effect</b>: Increase the production of all buildings by 1E6%.</p>
+                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Notes</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -2533,39 +2530,9 @@
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
-                        <p><b>Effect & Notes</b>: Increase the production of all buildings by 1E6%.</p>
-                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades</p>
-                        <p><b>Note</b>: All the upgrades does nothing</p>
-                        <br/>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools1.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
-                        <p><b>Kind</b>: Upgrade</p>
-                        <p><b>Unlock / Price</b>: 1 Coin</p>
-                        <p><b>Effect & Notes</b>: Increase the production of all buildings by 1E6%.</p>
-                        <br/>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools2.png" alt="Smiley face" align="middle"> Enhanced Production Activator</b></p>
-                        <p><b>Kind</b>: Upgrade</p>
-                        <p><b>Unlock / Price</b>: 1 Coin</p>
-                        <p><b>Effect & Notes</b>: Activates the upgrade you just bought.</p>
-                        <br/>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools3.png" alt="Smiley face" align="middle"> Enhanced Production Fix</b></p>
-                        <p><b>Kind</b>: Upgrade</p>
-                        <p><b>Unlock / Price</b>: 1 Coin</p>
-                        <p><b>Effect & Notes</b>: Fixes a bug in the Activator that prevented the upgrade from working correctly
-                            <br/>
-                            <p><b><img src="/realm/Factions/picks/Aprilfools4.png" alt="Smiley face" align="middle"> Enhanced Production Complaint</b></p>
-                            <p><b>Kind</b>: Upgrade</p>
-                            <p><b>Unlock / Price</b>: 1 Coin</p>
-                            <p><b>Effect & Notes</b>: Complain about about the upgrade not working yet, even after the fix.</p>
-                            <br/>
-                            <p><b><img src="/realm/Factions/picks/Aprilfools5.png" alt="Smiley face" align="middle"> Enhanced Production Report</b></p>
-                            <p><b>Kind</b>: Upgrade</p>
-                            <p><b>Unlock / Price</b>: 1 Coin</p>
-                            <p><b>Effect & Notes</b>: Report the bug to the Powers That Be and hope it gets fixed before the event is over.</p>
-                            <br/>
-                            <p><b><img src="/realm/Factions/picks/Aprilfools6.png" alt="Smiley face" align="middle"> Enhanced Production Fooled</b></p>
-                            <p><b>Kind</b>: Upgrade</p>
-                            <p><b>Unlock / Price</b>: 1 Coin</p>
-                            <p><b>Effect & Notes</b>: The Enhanced Production timer is over! We hope you enjoyed your huge production bonus and hopefully didn't get too greedy. Happy April Fools' Day!</p>
+                        <p><b>Effect</b>: Increase the production of all buildings by 1E6%.</p>
+                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Notes</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -3526,9 +3493,9 @@
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
-                        <p><b>Effect & Notes</b>: Increase the production of all buildings by 1E6%.</p>
-                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades</p>
-                        <p><b>Note</b>: The upgrade does nothing</p>
+                        <p><b>Effect</b>: Increase the production of all buildings by 1E6%.</p>
+                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Notes</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -4356,9 +4323,9 @@
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
-                        <p><b>Effect & Notes</b>: Increase the production of all buildings by 1E6%.</p>
-                        <p><b>Note</b>: If you got this upgrade last year(2016) it will only show in purchased upgrades</p>
-                        <p><b>Note</b>: The upgrade does nothing</p>
+                        <p><b>Effect</b>: Increase the production of all buildings by 1E6%.</p>
+                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Notes</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -4829,9 +4796,9 @@
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: Report the bug to the Powers That Be and hope it gets fixed before the event is over.</p>
                         <p><b><img src="/realm/Factions/picks/Aprilfools6.png" alt="Smiley face" align="middle"> Enhanced Production Fooled</b></p>
-                        <p><b>Kind</b>: Upgrade
-                            <p><b>Unlock / Price</b>: 1 Coin</p>
-                            <p><b>Effect & Notes</b>: The Enhanced Production timer is over! We hope you enjoyed your huge production bonus and hopefully didn't get too greedy. Happy April Fools' Day!</p>
+                        <p><b>Kind</b>: Upgrade</p>
+                        <p><b>Unlock / Price</b>: 1 Coin</p>
+                        <p><b>Effect & Notes</b>: The Enhanced Production timer is over! We hope you enjoyed your huge production bonus and hopefully didn't get too greedy. Happy April Fools' Day!</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
