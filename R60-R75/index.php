@@ -161,7 +161,7 @@
                 <p>E135,E145,E320,E1225,E1325,E1425,</p>
                 <p>A105,A120,A375,A400,A545,A1500,</p>
                 <p>W135,W180,W350,W400,W1375</p>
-                <p><b>Notes</b>: Excavate for Dragon's Breath 5.</p>
+                <p><b>Notes</b>: Excavate for Dragon's Breath 5 and abdicate shortly after.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -246,7 +246,7 @@
                 <p>E135,E145,E260,E320,E1225,E1325,E1425,</p>
                 <p>A105,A120,A150,A375,A400,A545,A1500,</p>
                 <p>W135,W180,W250,W350,W400,W1375</p>
-                <p><b>Notes</b>: Excavate for Dragon's Breath 5.</p>
+                <p><b>Notes</b>: Excavate for Dragon's Breath 5 and abdicate shortly after.</p>
             </div>
         </div>
     </div>

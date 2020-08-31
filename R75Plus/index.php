@@ -90,7 +90,7 @@
 				<p>A105,A120,A150,A375,A400,A545,A1500,</p>
 				<p>W135,W180,W250,W350,W400,W1375</p>
 				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
-				<p><b>Notes</b>: Excavate for Dragon's Breath 5.</p>
+				<p><b>Notes</b>: Excavate for Dragon's Breath 5 and abdicate shortly after.</p>
 			</div>
 		</div>
 	</div>
