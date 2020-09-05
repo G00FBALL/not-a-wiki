@@ -650,7 +650,7 @@
 				<p>E10,E495,E400,E290,</p>
 				<p>A1,A175,A410,A590,A400,A120,</p>
 				<p>W50,W405,W520,W205,W525</p>
-				<p><b>Notes</b>: Swap W525 with W1780 at 1e88 (10 Ocvg) Gems+.</p>
+				<p><b>Notes</b>: Swap W525 with W180 at 1e88 (10 Ocvg) Gems+.</p>
 			</div>
 		</div>
 	</div>
