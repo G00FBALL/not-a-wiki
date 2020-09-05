@@ -627,6 +627,32 @@
 				<p>W25,W205,W405,W520</p>
 			</div>
 		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Undead R130+ (Excavations/Excavation Resets)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Wolfsblood</p>
+				<p><b>Range</b>: 1e85 (10 Spvg) Gems+</p>
+				<p><b>Faction</b>: Undead</p>
+				<p><b>Bloodline</b>: Makers</p>
+				<p><b>Artifact Set</b>: Undead</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S225,S435,S3200,S305,C400,C340,D25,D560,D290,D1375,E10,E495,E400,E290,A1,A175,A410,A590,A400,A120,W50,W405,W520,W205,W525">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S225,S435,S3200,S305,C400,C340,D25,D560,D290,D1375,E10,E495,E400,E290,A1,A175,A410,A590,A400,A120,W50,W405,W520,W205,W180">
+					<b>1e88 (10 Ocvg) Gems+</b>
+				</p>
+				<p>S225,S435,S3200,S305,</p>
+				<p>C400,C340,</p>
+				<p>D25,D560,D290,D1375,</p>
+				<p>E10,E495,E400,E290,</p>
+				<p>A1,A175,A410,A590,A400,A120,</p>
+				<p>W50,W405,W520,W205,W525</p>
+				<p><b>Notes</b>: Swap W525 with W1780 at 1e88 (10 Ocvg) Gems+.</p>
+			</div>
+		</div>
 	</div>
 	<br/>
 	<p><b>Utility Builds</b></p>
