@@ -14,24 +14,43 @@
 <div class="shlisting">
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Titanline Faceless 0 - 1e45 (1 Qad)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e45 (1 Qad) Gems</p>
-                <p><b>Faction</b>: Faceless</p>
-                <p><b>Bloodline</b>: Titan</p>
-                <p><b>Artifact Set</b>: Druid</p>
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 0 Gems - 1e33 (1 Dc) Gems</p>
+                <p><b>Faction</b>: Elf</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Artifact Set</b>: Elf</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S215,S251,S375,S1450,S1500,C340,C1300,D1375,D260,D1125,E400,E350,E1225,A400,A300,A1200,W180,W275,W1400">
+                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
 				</p>
-                <p>S215,S251,S375,S1450,S1500,</p>
-                <p>C340,C1300,</p>
-                <p>D1375,D260,D1125,</p>
-                <p>E400,E350,E1225,</p>
-                <p>A400,A300,A1200,</p>
-                <p>W180,W275,W1400</p>
-                <p><b>Notes</b>: Can afford SS T7 at 1e6 (1 M) Gems by excavating.</p>
+                <p>S175,S3200,</p>
+				<p>C1,C225,C340,C405,C520,C590,</p>
+				<p>D50,D435,D1375,</p>
+				<p>E25,E410,E3250,</p>
+				<p>A495,A3400,</p>
+				<p>W10,W560,W1375</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Goblinline Elves 1e33 (1 Dc) - 1e45 (1 Qad)</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e33 (1 Dc) Gems - 1e45 (1 Qad) Gems</p>
+                <p><b>Faction</b>: Elf</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Artifact Set</b>: Elf</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
+				</p>
+                <p>S175,S3200,</p>
+				<p>C1,C225,C340,C405,C520,C590,</p>
+				<p>D50,D435,D1375,</p>
+				<p>E25,E410,E3250,</p>
+				<p>A495,A3400,</p>
+				<p>W10,W560,W1375</p>
             </div>
         </div>
         <div class="shelementwhole">
