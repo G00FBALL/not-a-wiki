@@ -138,7 +138,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
 				<p><b>Requirement</b>: Angel Lineage L45 or Djinn Challenge 4</p>
-				<p><b>Range</b>: 1e110 (100 QItg) Gems+</p>
+				<p><b>Range</b>: 1e110 (100 Qitg) Gems+</p>
 				<p><b>Faction</b>: Demon</p>
 				<p><b>Bloodline</b>: Angel</p>
 				<p><b>Artifact Set</b>: Demon</p>
@@ -668,15 +668,20 @@
 				<p><b>Stoneheart Set (R148+, MKC4)</b>: Faceless</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S400,S435,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520">
+					<input type="text" value="S50,S435,S3200,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520">
 				</p>
-				<p>S50,S400,S435,</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S50,S435,S3200,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A400,A410,W25,W205,W405,W520">
+					<b>Makers Challenge 4</b>
+				</p>
+				<p>S50,S435,S3200</p>
 				<p>C175,C400,</p>
 				<p>D560,D3350,</p>
 				<p>E1,E225,E495,E590,E1325,</p>
 				<p>A10,A410,A3400,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Notes</b>: While A400 grows better than A3400, running this build more than a few minutes is not recommended.</p>
+				<p><b>Notes</b>: Swap A3400 with A400 if Makers Challenge 4 is completed.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
