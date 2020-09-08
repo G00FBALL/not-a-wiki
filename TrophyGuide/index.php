@@ -459,14 +459,6 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Exchange Lord</p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png"></td>
-							<td>500 Qag (5e125)</p>A1+ Free</td>
-							<td>Purchase 1500 Royal Exchanges in a single game.</td>
-							<td>Increase Royal Exchange bonus by 5%.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
-						</tr>
-						<tr>
-							<td>
 								<center>Priority Autocasting</p><img src="http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png"></td>
 							<td>400 Ud (4e38)</p>A1+ Free</td>
 							<td>Produce 12 M (1.2e7) mana.</td>
@@ -535,6 +527,14 @@
 							<td>1 Qag (1e123)</p>A1+ Free</td>
 							<td>Research 600 times across all fields.</td>
 							<td>Increase the overall production of Vanilla Factions by 100%.</td>
+							<td></td>
+						</tr>
+												<tr>
+							<td>
+								<center>Exchange Lord</p><img src="http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png"></td>
+							<td>500 Qag (5e125)</p>A1+ Free</td>
+							<td>Purchase 1500 Royal Exchanges in a single game.</td>
+							<td>Increase Royal Exchange bonus by 5%.</td>
 							<td></td>
 						</tr>
 				</table>
