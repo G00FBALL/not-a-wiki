@@ -661,42 +661,64 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Fairy (Djinn Faction Unlock (R125+) / Djinn UB unlock (R130+))</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Swim, Glenniss2</p>
-				<p><b>Requirements</b>: 1e78 (1 Qivg) Gems (Djinn Faction unlock) / 1e89 (100 OcVg) Gems (Djinn UB unlock)</p>	
+				<p><b>Requirements</b>: 1e78 (1 Qivg) Gems (Djinn Faction unlock) / 1e86 (100 Spvg) Gems (Djinn UB unlock)</p>	
 				<p><b>Faction</b>: Fairy</p>
 				<p><b>Bloodline</b>: Demon</p>
 				<p><b>Artifact Set</b>: Fairy</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S1,S180,S590,S3200,C10,C340,C405,C520,D225,D435,D1375,E50,E400,E410,A30,A3400,A495,W560,W1375">
+					<input type="text" value="S1,S180,S590,S3200,C10,C340,C405,C520,D225,D435,D1375,E50,E400,E410,A30,A400,A495,W560,W1375">
 				</p>
 				<p>S1,S180,S590,S3200,</p>
 				<p>C10,C340,C405,C520,</p>
 				<p>D225,D435,D1375,</p>
 				<p>E50,E400,E410,</p>
-				<p>A30,A3400,A495,</p>
+				<p>A30,A400,A495,</p>
 				<p>W560,W1375</p>
 				<p><b>Notes</b>: Cycle Maelstrom to target inns and set the correct Fairy Union buff.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elf R130+ (Makers UB unlock)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Requirements</b>: 1e86 (100 Spvg) Gems</p>
+				<p><b>Faction</b>: Elf</p>
+				<p><b>Bloodline</b>: Druid</p>
+				<p><b>Artifact Set</b>: Elf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375">
+				</p>
+				<p>S175,S3200,</p>
+				<p>C1,C225,C340,C405,C520,C590,</p>
+				<p>D50,D435,D1375,</p>
+				<p>E25,E145,E410,</p>
+				<p>A250,A495,</p>
+				<p>W10,W560,W1375</p>
+				<p><b>Notes</b>: Estimated time to unlock is 10 minutes.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Undead R130+ (Chrono Loading)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Akanezuliani</p>
-				<p><b>Requirements</b>: 1e89 (100 Ocvg) Gems</p>
+				<p><b>Requirements</b>: 1e86 (100 Spvg) Gems</p>
 				<p><b>Faction</b>: Undead</p>
 				<p><b>Bloodline</b>: Druid</p>
 				<p><b>Artifact Set</b>: Undead</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S225,S400,S435,C340,D25,D290,D560,E10,E135,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S3200,C400,D3350,E400,A120,W1375">
+					<input type="text" value="S200,S225,S435,C340,D25,D290,D560,E10,E135,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S3200,C400,D3350,E400,A120,W1375">
 				</p>
-				<p>S225,S400,S435,</p>
+				<p>S200,S225,S435,</p>
 				<p>C340,</p>
 				<p>D25,D290,D560,</p>
 				<p>E10,E135,E495,</p>
 				<p>A1,A175,A400,A410,A590,</p>
 				<p>W50,W205,W405,W520</p>
 				<p><b>After Archon Treaty</b>: S3200,C400,D3350,E400,A120,W1375 (Reimport Build)</p>
+				<p><b>Notes</b>: Estimated time to unlock is 4 hours.</p>
 			</div>
 		</div>
 	</div>
