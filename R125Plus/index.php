@@ -658,12 +658,12 @@
 	<p><b>Utility Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Fairy (Djinn Faction Unlock (R125+) / Djinn UB unlock (R130+))</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Fairy (Djinn Faction Unlock (R125+) / Djinn UB unlock (R130+))</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Swim, Glenniss2</p>
 				<p><b>Requirements</b>: 1e78 (1 Qivg) Gems (Djinn Faction unlock) / 1e86 (100 Spvg) Gems (Djinn UB unlock)</p>	
 				<p><b>Faction</b>: Fairy</p>
-				<p><b>Bloodline</b>: Demon</p>
+				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Fairy</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
