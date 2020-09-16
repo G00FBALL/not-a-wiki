@@ -451,7 +451,7 @@
 				<p>A50,A400,A495,</p>
 				<p>W225,W400,W560</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W1375 (Reimport build)</p>
-				<p><b>Notes</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
+				<p><b>Notes</b>: Recommended buffing Excavations/Excavation Resets.</p>
 				<p><b>Notes</b>: Build is oriented around buying Archon Union.</p>
 			</div>
 		</div>
