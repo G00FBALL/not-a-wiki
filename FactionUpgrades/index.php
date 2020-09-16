@@ -522,7 +522,7 @@
                 <p><b>Mercenary Template</b>: DN4</p>
                 <p><b>Cost</b>: 50 Qid (5E49)</p>
                 <p><b>Effect</b>: Increase the production of Citadels based on the gems you own.</p>
-                <p><b>Formula</b>: round(210 * log10(x)1.5)%, where x is your current number of gems.</p>
+                <p><b>Formula</b>: round(210 * log10(x) ^ 1.5)%, where x is your current number of gems.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
                 <p><b>Mercenary Template</b>: DN5</p>
