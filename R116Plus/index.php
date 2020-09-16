@@ -378,7 +378,7 @@
                 <p>A300,A1200,A3400,</p>
                 <p>W275,W1375,W1400</p>
                 <p><b>Notes</b>: Buffing W275 is highly recommended.</p>
-                <p><b>Notes</b>: Leveling Undead to L30 first is fastest.</p>
+                <p><b>Notes</b>: Leveling Undead to L30 first is fastest (Estimated time 3-5 hours).</p>
             </div>
         </div>
         <div class="shelementwhole">
