@@ -387,45 +387,72 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg) - 1e90 (1 Novg)(?)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg) - 1e83 (100 Sxvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e69 (1 Dvg) Gems - 1e90 (1 Novg)(?) Gems</p>
+				<p><b>Range</b>: 1e69 (1 Dvg) Gems - 1e83 (100 Sxvg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Druid</p>
 				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D290,E135,A250,W400">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D290,E145,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A250,W400">
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D435,D590,D1375,</p>
+				<p>D1,D175,D435,D590,D290,</p>
 				<p>E145,E410,</p>
 				<p>A50,A400,A495,</p>
 				<p>W225,W560,W1375</p>
-				<p><b>After Archon treaty</b>: S305,C340,D290,E135,A250,W400 (Reimport build)</p>
+				<p><b>After Archon treaty</b>: S305,C340,D1375,E135,A250,W400 (Reimport build)</p>
+				<p><b>Notes</b>: Recommended buffing Excavations/Excavation Resets.</p>
+				<p><b>Notes</b>: Build is not able to buy Archon Union.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e84 (1 Spvg)(?)+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e83 (100 Sxvg) - 1e90 (1 Novg) Gems</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e84 (1 Spvg)(?) Gems+</p>
+				<p><b>Author</b>: Ensteffahn, Wolfsblood</p>
+				<p><b>Range</b>: 1e83 (100 Sxvg) Gems - 1e90 (1 Novg) Gems</p>
+				<p><b>Faction</b>: Angel</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>Artifact Set</b>: Elf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E400,A120,W180">
+				</p>
+				<p>S10,S3200,</p>
+				<p>C25,C400,C405,C520,</p>
+				<p>D1,D175,D290,D435,D590,</p>
+				<p>E135,E410,</p>
+				<p>A50,A400,A495,</p>
+				<p>W225,W400,W560</p>
+				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W180 (Reimport build)</p>
+				<p><b>Notes</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
+				<p><b>Notes</b>: Build is oriented for production and is not ment to buy Archon Union.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90 (1 Novg) Gems+</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Ensteffahn, Wolfsblood</p>
+				<p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E400,E410,A50,A400,A495,W225,W560,W1375,S330,C340,D1375,E135,A120,W180">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E400,A120,W1375">
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D290,D435,D590,</p>
-				<p>E400,E410,</p>
+				<p>E145,E410,</p>
 				<p>A50,A400,A495,</p>
-				<p>W225,W560,W1375</p>
-				<p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (Reimport build)</p>
+				<p>W225,W400,W560</p>
+				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W1375 (Reimport build)</p>
+				<p><b>Notes</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
+				<p><b>Notes</b>: Build is oriented around buying Archon Union.</p>
 			</div>
 		</div>
 	</div>
