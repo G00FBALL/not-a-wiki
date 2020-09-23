@@ -1317,7 +1317,7 @@
         <area research="A300 - For Faceless
 	<p><b>Research Name</b>: Creeping
 	<p><b>Hint</b>: Blue Production.
-	<p><b>Requirement</b>: Produce 5M mana (This game, as Druid)
+	<p><b>Requirement</b>: Produce 5M mana (This game) as Druid
 	<p><b>Cost</b>: 33 OcQig (3.36E178)
 	<p><b>Effect</b>: Increase mana regeneration based on mana produced in this game.
 	<p><b>Formula</b>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.
@@ -1483,7 +1483,7 @@
         <area research="W50 - For Undead
 	<p><b>Research Name</b>: Exertion
 	<p><b>Hint</b>: Bad times!
-	<p><b>Requirement</b>: 12 hours of Evil Play Time this R, Note: Play as any Evil faction, but you must be Demon to unlock this.
+	<p><b>Requirement</b>: 12 hours of Evil Play Time this R (Unlock as Demon)
 	<p><b>Cost</b>: 318.8 Tqag (3.188E134)
 	<p><b>Effect</b>: Increase faction coin find chance based on the number of Undercities you own.
 	<p><b>Formula</b>: (floor(1.5 * x ^ 1.1))% where x is the number of Undercities you own.

@@ -128,7 +128,7 @@
     <p><b>A300</b> - For Faceless</p>
 	<p><b>Research Name</b>: Creeping</p>
 	<p><b>Hint</b>: Blue Production.</p>
-	<p><b>Requirement</b>: Produce 5M mana (This game, as Druid)</p>
+	<p><b>Requirement</b>: Produce 5M mana (This game) as Druid</p>
 	<p><b>Cost</b>: 33 OcQig (3.36E178)</p>
 	<p><b>Effect</b>: Increase mana regeneration based on mana produced in this game.</p>
 	<p><b>Formula</b>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.</p>
