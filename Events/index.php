@@ -9,51 +9,50 @@
         <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
         <p><b>Note: All Events are based on UTC Time</a>
 		<p>Current UTC time:<b><p id="current"></p></b>
-		<script>
-                var count = new Date().getTime();
-                var interval = setInterval(function() {
-                    document.getElementById("current").innerHTML = new Date().toUTCString();
-                }, 1000);
-        </script>
+                
         </b></p>
-        <!--<p><b>Event will start in</b></p>
+        <p><b>Event will start in</b></p>
         <p id="start">
-			<script>
+        </p>
+        <p><b>Event will end in</b></p>
+        <p id="end">
+        </p>
+		<script>
+			var currentTime = new Date().getTime();
 			var countDownDate1 = new Date("September 23, 2020 12:01:00 UTC").getTime();
+			var countDownDate2 = new Date("September 30, 2020 18:59:00 UTC").getTime();
 			var x = setInterval(function() {
-			var now = new Date().getTime();
+				var now = new Date().getTime();
 				var distance = countDownDate1 - now;
 				var days = Math.floor(distance / (1000 * 60 * 60 * 24));
 				var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 				var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 				var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-				document.getElementById("start").innerHTML = days + "d " + hours + "h "
-				+ minutes + "m " + seconds + "s ";
 				if (distance < 0) {
-					clearInterval(x);
+					document.getElementById("start").innerHTML = "Started";
 				}
-				}, 1000);
-		  </script>
-        </p>-->
-        <p><b>Event will end in</b></p>
-        <p id="end">
-            <script>
-                var countDownDate2 = new Date("September 30, 2020 18:59:00 UTC").getTime();
-                var x = setInterval(function() {
-                    var now = new Date().getTime();
-                    var distance = countDownDate2 - now;
-                    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-                    document.getElementById("end").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
-                    if (distance < 0) {
-                        clearInterval(x);
-                        document.getElementById("end").innerHTML = "Ended";
-                    }
-                }, 1000);
-            </script>
-        </p>
+				else
+				{
+					document.getElementById("start").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+				}
+
+				var now = new Date().getTime();
+				var distance = countDownDate2 - now;
+				var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+				var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+				var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+				var seconds = Math.floor((distance % (1000 * 60)) / 1000);        
+				if (distance < 0) {
+					document.getElementById("end").innerHTML = "Ended";
+				}
+				else
+				{
+					document.getElementById("end").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+				}
+				
+				document.getElementById("current").innerHTML = new Date().toUTCString();
+			}, 1000);
+        </script>
         <br/>
         <a id="Events"></a>
         <center>
