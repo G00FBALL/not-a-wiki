@@ -8,6 +8,13 @@
         <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
         <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
         <p><b>Note: All Events are based on UTC Time</a>
+		<p>Current UTC time:<b><p id="current"></p></b>
+		<script>
+                var count = new Date().getTime();
+                var interval = setInterval(function() {
+                    document.getElementById("current").innerHTML = new Date().toUTCString();
+                }, 1000);
+        </script>
         </b></p>
         <!--<p><b>Event will start in</b></p>
         <p id="start">
@@ -538,14 +545,14 @@
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
     <p><b>Type</b>: Feat</p>
-    <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
+    <p><b>Requirements</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
     " coords="323,384,380,440" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector</b></p>
     <p><b>Type</b>: Feat</p>
-    <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
+    <p><b>Requirements</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
     " coords="387,384,444,440" shape="rect">
     <area research="
@@ -890,10 +897,10 @@
                         <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <br>
                         <p><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
+                        <p><b>Requirements</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
                         <br>
                         <p><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> <b>Aggressive Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
+                        <p><b>Requirements</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
                         <br>
                         <p><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> <b>Golden Age</b></p>
                         <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
