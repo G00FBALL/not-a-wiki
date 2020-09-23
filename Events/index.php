@@ -9,7 +9,7 @@
         <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
         <p><b>Note: All Events are based on UTC Time</a></b>
 		<p><b>Current UTC time:</b></p>
-		<p id="current">               
+		<p id="currentTime">               
         </p>
         <p><b>Event will start in</b></p>
         <p id="start">
@@ -50,7 +50,7 @@
 					document.getElementById("end").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 				}
 				
-				document.getElementById("current").innerHTML = new Date().toUTCString();
+				document.getElementById("currentTime").innerHTML = new Date().toUTCString();
 			}, 1000);
         </script>
         <br/>
