@@ -7,10 +7,10 @@
         <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
         <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
         <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
-        <p><b>Note: All Events are based on UTC Time</a>
-		<p>Current UTC time:<b><p id="current"></p></b>
-                
-        </b></p>
+        <p><b>Note: All Events are based on UTC Time</a></b>
+		<p><b>Current UTC time:</b></p>
+		<p id="current">               
+        </p>
         <p><b>Event will start in</b></p>
         <p id="start">
         </p>
