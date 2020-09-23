@@ -9,7 +9,7 @@
         <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
         <p><b>Note: All Events are based on UTC Time</a>
         </b></p>
-        <p><b>Event will start in</b></p>
+        <!--<p><b>Event will start in</b></p>
         <p id="start">
 			<script>
 			var countDownDate1 = new Date("September 23, 2020 12:01:00 UTC").getTime();
@@ -27,7 +27,7 @@
 				}
 				}, 1000);
 		  </script>
-        </p>
+        </p>-->
         <p><b>Event will end in</b></p>
         <p id="end">
             <script>
