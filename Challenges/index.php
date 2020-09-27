@@ -165,7 +165,7 @@
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC1" target="" research=
 	"<p><b>Goblin Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/DiscountSeasonChallenges.png align=middle> <b>Discount Season</b></p>
-	<p>The goblin king has revealed the secrets to his race's success. Patience and persistence.</p>
+	<p>&quot;The goblin king has revealed the secrets to his race's success. Patience and persistence.&quot;</p>
 	<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 2+, Greed Drive upgrade purchased.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Have Goblin (3,3) Green Fingers Discount roll more than 1000 seconds worth of production.</p>
