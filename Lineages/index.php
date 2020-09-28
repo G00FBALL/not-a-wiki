@@ -680,7 +680,7 @@
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk3.png" align="middle"> Djinn Perk 3</b></p>
     <p><b>Requirements</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Activity time for all spells counts 2.5% more for every 1000 Unique Buildings.</p>
+    <p><b>Effect</b>: Activity time for all spells counts 3% more for every 1000 Unique Buildings.</p>
     <br/>
     <p><b>Level 30</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk4.png" align="middle"> Djinn Perk 4</b></p>
