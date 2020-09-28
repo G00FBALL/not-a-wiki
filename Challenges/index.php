@@ -172,7 +172,7 @@
 	<p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead.</p>
 	<p><b>Upgrade</b>: Works with Goblin</p>
 	<p><b>Tip</b>: Click image to see instructions</p>"
-	href="http://musicfamily.org/realm/Goblin/" coords="73,359,126,413" shape="rect">
+	coords="73,359,126,413" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC2" target="" research=
 	"<p><b>Goblin Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/EliteWarriorsChallenges.png align=middle> <b>Elite Warriors</b></p>
@@ -338,9 +338,10 @@
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 	<p><b>Effect</b>: Animal Companions (1,2) works faster</p>
-	<p><b>Formula</b>: Changes the 1.75 in DD2 to 6 or DD2 = (3 + 6 * x ^ 0.5 )</p>
-	<p><b>Upgrade</b>: Works with Druid</p><p><b>Tip</b>: Click image to see instructions</p>"
-	href="http://musicfamily.org/realm/Druid/" coords="71,774,126,829" shape="rect">
+	<p><b>Formula</b>: Changes the 1.75 in DD2 to 6 or DD2 = (3 + 6 * x ^ 0.5)</p>
+	<p><b>Upgrade</b>: Works with Druid</p>
+	<p><b>Tip</b>: Click image to see instructions</p>"
+	coords="71,774,126,829" shape="rect">
     <area href="http://musicfamily.org/realm/Druid/#DruidDC2" target="" research=
 	"<p><b>Druid Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/BalancedCurrentChallenges.png align=middle> <b>Balanced Current</b></p>
