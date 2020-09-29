@@ -103,7 +103,7 @@
         </div>
 		<br />
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+  Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 0 - 1e33 (1 Dc) Gems</p>
@@ -123,7 +123,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Facelessline Elves 1e33 (1 Dc) - 1e64 (10 Vg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Facelessline Elves 1e33 (1 Dc) - 1e64 (10 Vg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Enstaffahn, Rellikrellik</p>
 				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e64 (10 Vg) Gems</p>
@@ -150,7 +150,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R120+ Druidline Angel 1e64 (10 Vg)+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Druidline Angel 1e64 (10 Vg)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Glenniss2, Iluxa4000</p>
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
@@ -306,27 +306,6 @@
                 <p>E1,E135,E225,E495,E590,</p>
                 <p>A10,A120,A410,</p>
                 <p>W25,W205,W405,W520</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titans (Max mana)</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Necrodoom</p>
-                <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Titan/Dragon</p>
-                <p><b>Bloodline</b>: Elf</p>
-                <p><b>Artifact Set</b>: Druid</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S300,S400,S1450,C251,C375,C1300,C1500,C3100,D290,D350,D1125,E275,E1225,E1325,A120,A1200,W260,W1375,W1400">
-				</p>
-                <p>S300,S400,S1450,</p>
-                <p>C251,C375,C1300,C1500,C3100,</p>
-                <p>D290,D350,D1125,</p>
-                <p>E275,E1225,E1325,</p>
-                <p>A120,A1200,</p>
-                <p>W260,W1375,W1400</p>
-                <p><b>Notes</b>: Requires excavations to both set up the build and boost Royal Exchange count.</p>
             </div>
         </div>
 		<div class="shelementwhole">

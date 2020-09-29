@@ -125,7 +125,7 @@
 <p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
 <p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * ln(x) ^ 2), where x is amount of clicks this reincarnation.</p>
+<p><b>Formula</b>: (0.25 * ln(1 + x) ^ 2), where x is amount of clicks this reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Angel Coins</p>
