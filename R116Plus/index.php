@@ -332,13 +332,13 @@
     </div>
     <br/>
     <p><b>Lineage level 30 Builds R120+</b></p>
-    <p><b>Note</b>:The optimal path is: Undead level 30 first -> Elf level 30 -> Faceless level 30 -> Get Elf/Faceless Master trophy and Advanced Heritages -> push to ~1e65 (100 Vg) Gems -> get the rest of the Lineages to level 30 and Advanced Heritages</p>
+    <p><b>Note</b>:The optimal path is: Push to ~1e64 (10 Vg) Gems -> Run Dragonline Undead (W275 buff) -> Undead level 30 first -> Elf level 30 -> Faceless level 30 -> Get Elf/Faceless Master trophy and Advanced Heritages -> Push to ~1e65 (100 Vg) Gems -> Get the rest of the Lineages to level 30 and Advanced Heritages</p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage Leveler (L30)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sheep</p>
-                <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
+                <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
 				<p><b>Requirements</b>: Future Linkin</p>
                 <p><b>Faction</b>: Faceless/Dragon</p>
                 <p><b>Bloodline</b>: Elf/Angel/Undead/Demon/Titan/Druid/Dwarf/Drow</p>
@@ -364,7 +364,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elf Lineage Leveler (L30)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sheep</p>
-                <p><b>Range</b>:1e60 (1 Nod) Gems+</p>
+                <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
                 <p><b>Requirements</b>: Future Linkin, Undead Lineage Level 30</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Faceless/Dragon/Goblin/Fairy</p>
