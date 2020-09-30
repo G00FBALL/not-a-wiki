@@ -1493,7 +1493,7 @@
 						<tr>
 							<td>
 								<center>God's Fingers</p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png"></td>
-							<td>200 QiSxg (2e200)</td>
+							<td>333</td>
 							<td>Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
 							<td>Clicks count 100% more and autoclicks 5 times per second.</td>
 							<td></td>

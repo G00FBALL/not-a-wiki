@@ -455,7 +455,7 @@
                     <hr>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png" align="middle"> <b>God's Fingers</b></p>
                     <p><b>Requirement</b>: Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
-                    <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
+                    <p><b>Cost</b>: 333, A1+ Free</p>
                     <p><b>Effect</b>: Gives Upgrade with same name.</p>
                     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
                     <hr>

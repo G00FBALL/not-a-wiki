@@ -8,7 +8,7 @@
         <H6 id="ArchonAC1"></h6>
         <p><b>Archon Challenge 1</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/God’sPlan.png" align="middle"> God’s Plan</b></p>
-        <p>"The ascended crusade wishes to test the strength of it's angelic understudies; perhaps a huge Call to Arms is worthy of their attention."</p>
+        <p>"The ascended crusade wishes to test the strength of it's angelic understudies; perhaps a huge celestial army is worthy of their attention."</p>
         <p><b>Requirements</b>: Angel as Base Faction, Archon as Elite Faction, Reincarnation 135+, Chrono Loading upgrade purchased.</p>
         <p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7)% and at least 250,000 Good buildings.</p>
         <p><b>Effect</b>: Increase Mana Regeneration additively and multiplicatively based on the amount of Order buildings you own.</p>
