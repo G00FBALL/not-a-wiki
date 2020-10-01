@@ -90,7 +90,7 @@
 		<p><b>Buff</b></p>
 		<div class="category">
 		    <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Facelessline Druids (Mana Spent)<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Facelessline Druids (Mana Spent)<font color="darkgoldenrod"> Neutral</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Range</b>: ?</p>
@@ -107,7 +107,7 @@
                     <p>A120,A250,A305,A375,A400,A545,</p>
                     <p>W120,W135,W200,W250,W400</p>
                     <p>W150,W180,W290,W320,W400</p>
-                    <p><b>Notes</b>: Ment for unlocking Reversed and Tiered autocast.</p>
+                    <p><b>Notes</b>: Meant for unlocking Reversed and Tiered autocast.</p>
 					<p><b>Notes</b>: Estimated time to unlock Tiered Autocast is 30 minutes</p>
                 </div>
             </div>
