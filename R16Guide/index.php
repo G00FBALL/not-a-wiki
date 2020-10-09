@@ -232,7 +232,7 @@ div#images div{
 <br/>
 <p><b>4.3</b>: <b>D55</b>: 3 M (3e6) mana produced this game, <b>A55</b>: 25K spells this game, Use Angel with Druid Bloodline. (1 hour run) (Everything Gold autocast with Tax Collection last until you have bought all researches available, then only Gold autocast Tax Collection)</p>
 <hr>
-<p><b>Step 5</b>: Buy at least up to 120 Research Points in each branch, use use Goblin with Druid or Titan Bloodline.</p>
+<p><b>Step 5</b>: Buy at least up to 120 Research Points in each branch, use Goblin with Druid or Titan Bloodline.</p>
 <p><b>5.1</b>: <b>A120</b>: 6500 max mana, Use Fairy with Faceless Bloodline.</p>
 <hr>
 <p><b>Step 6</b>: Buy at least up to 136 Research Points in each branch, use Fairy with Fairy Bloodline (relies on excavation, get more gems if you cannot excavate)</p>

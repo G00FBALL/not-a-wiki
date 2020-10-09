@@ -400,7 +400,7 @@
     " coords="325,559,383,617" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/God'sFingers.png align=middle> <b>God's Fingers</b>
     <p><b>Requirement</b>: Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
-    <p><b>Cost</b>: 200 QiSxg (2e200), A1+ Free</p>
+    <p><b>Cost</b>: 333, A1+ Free</p>
     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
     " coords="387,560,446,618" shape="rect">
         <area href="http://musicfamily.org/realm/R160Plus/#TrueHarlequin" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
