@@ -1103,7 +1103,7 @@
                 <p>W275,W400,W1275,W1375,W1400,</p>
                 <p>F5250</p>
 				<p><b>Notes</b>: Do Fairy Lineage first.</p>
-                <p><b>Notes</b>: Buff Max Assistants and Excavation resets.</p>
+                <p><b>Notes</b>: Buff Clicks, Max Assistants and Excavation resets.</p>
 				<p><b>Notes</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</p>
 				<p><b>Notes</b>: For Makers Lineage, swap Infinite Spiral with Precognition.</p>
 				<p><b>Notes</b>: L75 takes about 1 hour with 1e29 (100 Oc) Max Assistants and 50 Excavation Resets.</p>
@@ -1144,7 +1144,7 @@
                 <p>W275,W400,W1275,W1375,W1400,</p>
                 <p>F5250</p>
 				<p><b>Notes</b>: Do Fairy Lineage first.</p>
-                <p><b>Notes</b>: Buff Max Assistants, Spells, Excavation resets and F6000.</p>
+                <p><b>Notes</b>: Buff Clicks, Spells, Max Assistants, Excavation resets and F6000.</p>
 				<p><b>Notes</b>: For Dragon Lineage, swap Dragon's Breath with Fairy Chanting.</p>
 				<p><b>Notes</b>: For Makers Lineage, swap Infinite Spiral with Precognition and D5875 with D200,D275,D290,D330,D3350.</p>
 				<p><b>Notes</b>: L90 takes estimated 24-36 hours with 1e34 (10 Dc) Max Assistants, 1e29 (100 Oc) Spells, 100 Excavation Resets and double F6000 buff run (To buff Future Linkin).</p>
@@ -1174,7 +1174,7 @@
                 <p>W180,W275,W400,W1275,W1375,W1400,</p>
                 <p>F5250</p>
 				<p><b>Notes</b>: Run first before other lineages.</p>
-                <p><b>Notes</b>: Buff Spells, Assistants, D5625, AR8, Excavations (this R) and  Excavation Resets.</p>
+                <p><b>Notes</b>: Buff Clicks, Spells, Assistants, D5625, AR8, Excavations (this R) and Excavation Resets.</p>
 				<p><b>Notes</b>: Estimated time to L100 is (?).</p>
             </div>
         </div>
