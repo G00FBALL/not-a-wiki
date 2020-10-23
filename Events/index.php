@@ -698,10 +698,8 @@
                                 <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleIdillium.png" width="54" height="54" /></center>
                                 <center>Idillium</center>
                             </td>
-                        </tr>
-						<tr>
                             <td>
-                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticlePumpkin.png" width="54" height="54" /></center>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleHalloween.png" width="54" height="54" /></center>
                                 <center>Halloween</center>
                             </td>
                         </tr>
