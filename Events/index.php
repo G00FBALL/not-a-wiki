@@ -19,8 +19,8 @@
         </p>
 		<script>
 			var currentTime = new Date().getTime();
-			var countDownDate1 = new Date("September 23, 2020 12:01:00 UTC").getTime();
-			var countDownDate2 = new Date("September 30, 2020 18:59:00 UTC").getTime();
+			var countDownDate1 = new Date("October 28, 2020 13:01:00 UTC").getTime();
+			var countDownDate2 = new Date("November 4, 2020 19:59:00 UTC").getTime();
 			var x = setInterval(function() {
 				var now = new Date().getTime();
 				var distance = countDownDate1 - now;
@@ -61,12 +61,12 @@
                     <tr>
                         <th>Rubies</th>
                         <th colspan="1">Event</th>
-                        <th colspan="6">Total Cumulative Bonus 332%</th>
+                        <th colspan="6">Total Cumulative Bonus 343%</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>139 Total </td>
+                        <td>147 Total </td>
                         <td></td>
                         <td>2015</td>
                         <td>2016</td>
@@ -147,13 +147,14 @@
 							<td>12%</td>
                         </tr>
                         <tr>
-                            <td>32 (8)</td>
+                            <td>40 (8)</td>
                             <td>Halloween</td>
                             <td></td>
                             <td>11%</td>
                             <td>11%</td>
                             <td>11%</td>
                             <td>11%</td>
+							<td>11%</td>
                         </tr>
                         <tr>
                             <td>0</td>
@@ -438,27 +439,34 @@
     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
     <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
     " coords="323,258,380,314" shape="rect">
+	<area research="
+    <p><b>Halloween</b></p>
+    <p><b><img src=http://musicfamily.org/realm/Factions/picks/PumpkinCollector.png align=middle> Pumpkin Collector</b></p>
+    <p><b>Type</b>: Feat</p>
+    <p><b>Requirement</b>: Collect a stack of at least 720 of any resource after having smashed at least 3 Pumpkins..</p>
+    <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+    " coords="387,258,444,314" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><img src=http://musicfamily.org/realm/Factions/picks/SacredHoliness2017.png align=middle> Sacred Holiness</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="387,258,444,314" shape="rect">
+    " coords="4,321,60,377" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/DarkestHeresy2017.png align=middle> Darkest Heresy</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demon.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="4,321,60,377" shape="rect">
+    " coords="68,321,124,377" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/Indifference2018.png align=middle> Indifference</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirement</b>: Collect at least 480 of any resource with a single click while affiliated with a Neutral faction.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="68,321,124,377" shape="rect">
+    " coords="132,321,188,377" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/SeraphimChampion2017.png align=middle> Seraphim Champion</b></p>
@@ -466,7 +474,7 @@
     <p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
     <p><b>Effect</b>: Adds 4% cumulative bonus to you total Event bonus.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="132,321,188,377" shape="rect">
+    " coords="196,321,252,377" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/AsmondeanChampion2017.png align=middle> Asmodean Champion</b></p>
@@ -474,7 +482,7 @@
     <p><b>Requirement</b>: Purchase all Asmondean Upgrades.</p>
     <p><b>Effect</b>: Adds 4% cumulative bonus to you total Event bonus.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="196,321,252,377" shape="rect">
+    " coords="259,321,316,377" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/WorldRestoration.png align=middle> World Restoration</b></p>
@@ -485,7 +493,7 @@
     <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5) where x is your least used alignment in this Reincarnation (in seconds).</p>
     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
     <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
-    " coords="259,321,316,377" shape="rect">
+    " coords="323,321,380,377" shape="rect">
     <area research="
     <p><b>Anniversary - Blood War</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/EternalBattle.png align=middle> Eternal Battle</b></p>
@@ -493,28 +501,28 @@
     <p><b>Requirements</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
     <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
     <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
-    " coords="323,321,380,377" shape="rect">
+    " coords="387,321,444,377" shape="rect">
     <area research="
     <p><b>Goblin Invasion</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoblinsBane2017.png align=middle> Goblins Bane</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Fight the Goblin Army 100 times.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="387,321,444,377" shape="rect">
+    " coords="4,384,60,440" shape="rect">
     <area research="
     <p><b>Goblin Invasion</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/Goblin'sCommander2017.png align=middle> Goblin's Commander</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Support the Goblin Army 100 times.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="4,384,60,440" shape="rect">
+    " coords="68,384,124,440" shape="rect">
     <area research="
     <p><b>Goblin Invasion</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoblinsEverywhere!2017.png align=middle> Goblins Everywhere!</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="68,384,124,440" shape="rect">
+    " coords="132,384,188,440" shape="rect">
     <area research="
     <p><b>Goblin Invasion</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldHunt2018.png align=middle> Gold Hunt</b></p>
@@ -522,7 +530,7 @@
     <p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
 	<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="132,384,188,440" shape="rect">
+    " coords="196,384,252,440" shape="rect">
     <area research="
     <p><b>Goblin Invasion</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/TheUndecidedArmada.png align=middle> The Undecided Armada</b></p>
@@ -531,7 +539,7 @@
     <p><b>Note</b>:  If you unlock this feat, you will permanently unlock a new upgrade.</p>
     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
     <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
-    " coords="196,384,252,440" shape="rect">
+    " coords="259,384,316,440" shape="rect">
     <area research="
     <p><b>Goblin Invasion</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/PlatinumTrophy.png align=middle> <b>Platinum Trophy</b></p>
@@ -539,56 +547,56 @@
     <p><b>Requirements</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
     <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
     <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
-    " coords="259,384,316,440" shape="rect">
+    " coords="323,384,380,440" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GentleCollector.png align=middle> <b>Gentle Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="323,384,380,440" shape="rect">
+    " coords="387,384,444,440" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/AggressiveCollector.png align=middle> Aggressive Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="387,384,444,440" shape="rect">
+    " coords="4,448,60,504" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/GoldenAge.png align=middle> Golden Age</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="4,448,60,504" shape="rect">
+    " coords="68,448,124,504" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/OrderRestoration.png align=middle> Order Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="68,448,124,504" shape="rect">
+   " coords="132,448,188,504" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/ChaosRestoration.png align=middle> Chaos Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="132,448,188,504" shape="rect">
+    " coords="196,448,252,504" shape="rect">
     <area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/BalanceRestoration.png align=middle> Balance Restoration</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
     <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-    " coords="196,448,252,504" shape="rect">
+    " coords="259,448,316,504" shape="rect">
 	<area research="
     <p><b>Idillium</b></p>
     <p><b><img src=http://musicfamily.org/realm/Factions/picks/BalancedCollector.png align=middle> Balanced Collector</b></p>
     <p><b>Type</b>: Feat</p>
     <p><b>Requirements</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
     <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-    " coords="259,448,316,504" shape="rect">
+    " coords="323,448,380,504" shape="rect">
                 </map>
             </p>
         </center>
@@ -691,6 +699,12 @@
                                 <center>Idillium</center>
                             </td>
                         </tr>
+						<tr>
+                            <td>
+                                <center><img src="http://musicfamily.org/realm/Factions/picks/ParticlePumpkin.png" width="54" height="54" /></center>
+                                <center>Halloween</center>
+                            </td>
+                        </tr>
                     </tbody>
                 </thead>
             </table>
@@ -738,6 +752,235 @@
         <div class="shlisting">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2020 Events</a></b></p>
             <div class="category autohide">
+				<div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 28 - Nov 4, 2020)</a></b></p>
+                    <div class="autohide">
+                        <p>Shadows are gathering, and monsters are starting to lurk in the dark corners of the Realms. Choose your own, feed and grow it to its maximum potential!</p>
+                        <p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
+                        <p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
+                        <hr>
+
+                        <style>
+                            div#images {
+                                width: 100%;
+                                text-align: left;
+                            }
+
+                            div#images div {
+                                display: inline-block;
+                            }
+                        </style>
+                        <br>
+                        <p><b><center>Event Resources</center></b></p>
+                        <br>
+                        <div id="images">
+                            <center>
+                                <div>
+                                    <center><img src="/realm/Factions/picks/Blood.png" /></center>
+                                    <center><b>Blood</b></center>
+                                </div>
+                                &nbsp&nbsp&nbsp&nbsp&nbsp
+                                <div>
+                                    <center><img src="/realm/Factions/picks/Ectoplasm.png" width="74%" height="74%" /></center>
+                                    <center><b>Ectoplasm</b></center>
+                                </div>
+                                &nbsp
+                                <div>
+                                    <center><img src="/realm/Factions/picks/Bones.png" /></center>
+                                    <center><b>Bones</b></center>
+                                </div>
+                            </center>
+                        </div>
+                        <br/>
+                        <p>You will need 3058 of each (Blood, Ectoplasm and Bones) to complete event.</p>
+                        <p>The event will feature three Resources, <b>Blood</b>, <b>Ectoplasm</b> and <b>Bones</b>. They will appear in a random location of the game screen at a rate of 1 per minute, stacking up to 720 units (12 hours). You can only collect one type of resource: by doing so, the others will disappear.</p>
+                        <p>Each resource will be used to feed a single monster, which will gain levels as it grows. At levels 1, 10, 25 and 50 each monster will grant you new perks, including new unique spells and upgrades. You will be able to gain advantage of one single monster at a time, but they can be toggled on and off on the fly in the Event panel.</p>
+                        <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.</p>
+                        <hr>
+                        <p><b><center><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Pumkin Smasher</center></b></p>
+                        <p>You will get a Pumpkin Smasher once a day (1:01PM UTC Time). (8 Total)</p>
+                        <p>Each Pumkin Smasher includes 75 of each resources (Added to total), 1 Ruby and 1 of 3 Monster (<b>Skeleton</b>, <b>Ghost</b> and <b>Vampire</b>) if you are missing any.</p>
+                        <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
+                        <p><b>Note</b>: You need to click on monster to activate it and get the Crucible Of Darkness upgrade.</p>
+                        <p><b>Kind</b>: Upgrade</p>
+                        <p><b>Unlock / Price</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on Halloween Resources collected. Increases as you gain new monsters.</p>
+                        <p><b>Formula</b>: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4</p>
+                        <hr>
+                        <p>Collect all 4 Quest to complete a Feat</p>
+                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p>Collect 6 Pumpkin Smashers to complete a Feat</p>
+                        <p><b>Quests</b></p>
+                        <p><b>Pumpkin Smasher</b></p>
+                        <p><b><img src="/realm/Factions/picks/PumpkinSmasher1.png" alt="Halloween" align="middle"> Pumpkin Smasher 1</b></p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/PumpkinSmasher2.png" alt="Halloween" align="middle"> Pumpkin Smasher 2</b></p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/PumpkinSmasher3.png" alt="Halloween" align="middle"> Pumpkin Smasher 3</b></p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher 4</b></p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <hr>
+                        <p>Collect all 3 Quest to complete a Feat</p>
+                        <p><b>Monster Breeder</b></p>
+                        <p><b>Kind</b>: 3 Quest Series</p>
+                        <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50</p>
+                        <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
+                        <p><b>Requirements</b>: Grow all monsters to lvl. 10</p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
+                        <p><b>Requirements</b>: Grow all monsters to lvl. 25</p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
+                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <hr>
+                        <p><b>Feats</b></p>
+                        <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
+                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
+                        <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
+                        <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
+                        <p><b>Requirements</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
+                        <p><b>Requirements</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
+                        <p><b>Requirements</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/HalloweenMagic.png" alt="Halloween" align="middle"> Halloween Magic</b></p>
+                        <p><b>Requirements</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
+                        <p><b>Effect</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/SpectralSurge.png" alt="Halloween" align="middle"> Spectral Surge</b></p>
+                        <p><b>Requirements</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
+                        <p>If you unlock this feat, you will permanently unlock a new upgrade.</p>
+                        <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
+                        <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+                        <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+						<br/>
+						<p><b><img src="/realm/Factions/picks/PumpkinCollector.png" alt="Halloween" align="middle"> Pumpkin Collector</b></p>
+                        <p><b>Requirements</b>:Collect a stack of at least 720 of any resource after having smashed at least 3 Pumpkins.</p>
+                        <p><b>Effect</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <br/>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/Vampire.png" alt="Vampire" align="middle"> Vampire</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 1</p>
+                        <p><b>Unlock / Price</b>: Free from daily pumpkin present</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/VanpireSire.png" alt="VampireSire" align="middle"> Vampire Sire</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 10</p>
+                        <p><b>Unlock / Price</b>: 198 Blood</p>
+                        <p><b>Effect</b>: Gives the spell (Shadow Embrace)</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/VampireLord.png" alt="VampireLord" align="middle"> Vampire Lord</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 25</p>
+                        <p><b>Unlock / Price</b>: 660 Blood</p>
+                        <p><b>Effect</b>: Gain all Bloodline effects of prestige factions outside your alignment at once.</p>
+                        <p><b>Note</b>: You cannot select any Lineage based on those bloodlines.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/VampireKing.png" alt="VampireKing" align="middle"> Vampire King</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 50</p>
+                        <p><b>Unlock / Price</b>: 2200 Blood</p>
+                        <p><b>Effect</b>: Reduce the cost of faction spells by %75.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
+                        <p><b>Requirement</b>: Level 10 Vampire Monster</p>
+                        <p><b>Effect</b>: Increase the size of your assistant army based on the amount of Reincarnations you made for 20 seconds. Increases progressively as you continue casting this spell.</p>
+                        <p><b>Formula</b>: (R + 1) * (Number of casts (this game))^0.5, where R is Reincarnation count.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/Ghost.png" alt="Ghost" align="middle"> Ghost</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 1</p>
+                        <p><b>Unlock / Price</b>: Free from daily pumpkin present</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Banshee.png" alt="Banshee" align="middle"> Banshee</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 10</p>
+                        <p><b>Unlock / Price</b>: 198 Ectoplasm</p>
+                        <p><b>Effect</b>: Gives the spell (Wail of the Banshee)</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Wrath.png" alt="Wraith" align="middle"> Wraith</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 25</p>
+                        <p><b>Unlock / Price</b>: 660 Ectoplasm</p>
+                        <p><b>Effect</b>: Multiplicatively increase maximum mana and mana regeneration based on clicks made in this game.</p>
+                        <p><b>Formula</b>: Max Mana: log10((1 + x) ^ 2.5)</p>
+                        <p><b>Formula</b>: Mana Regeneration: log10((1 + x) ^ 2.25)</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Spectre.png" alt="Spectre" align="middle"> Spectre</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 50</p>
+                        <p><b>Unlock / Price</b>: 2200 Ectoplasm</p>
+                        <p><b>Effect</b>: All productive clicks benefit from a 100 times greater Faction Coin find chance.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
+                        <p><b>Requirement</b>: Level 10 Ghost Monster</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game and the amount of Reincarnations you made for 20 seconds.</p>
+                        <p><b>Formula</b>: 0.2 * (R + 1) * x^0.45, where R is reincarnation count and x is mana produced.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 1</p>
+                        <p><b>Unlock / Price</b>: Free from daily pumpkin present</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/BigSkeleton.png" alt="" align="middle"> Big Skeleton</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 10</p>
+                        <p><b>Unlock / Price</b>: 198 Bones</p>
+                        <p><b>Effect</b>: Gives the spell (Cannibalize)</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/HugeSkeleton.png" alt="" align="middle"> Huge Skeleton</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 25</p>
+                        <p><b>Unlock / Price</b>: 660 Bones</p>
+                        <p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
+                        <p><b>Formula</b>: x^0.7</p>
+                        <p><b>Note</b>: Not affected by ascension penalties</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
+                        <p><b>Kind</b>: Monster</p>
+                        <p><b>Level</b>: 50</p>
+                        <p><b>Unlock / Price</b>: 2200 Bones</p>
+                        <p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
+                        <p><b>Requirement</b>: Level 10 Skeleton Monster</p>
+                        <p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
+                        <p><b>Formula</b>: ceil(0.75 * (R + 1) * x^0.75), where R is Reincarnation count and x is bones collected.</p>
+                        <hr>
+                        <p><b>Shop</b></p>
+                        <p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b></p>
+                        <p><b>Cost</b>: 5 Rubies</p>
+                        <p><b>Effect</b>: Gives you 50 Blood, Ectoplasm and Bones and offer you a new deal.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/HalloweenShop2.png" alt="Halloween" align="middle"> Shop 2</b></p>
+                        <p><b>Cost</b>: 15 Rubies</p>
+                        <p><b>Effect</b>: Gives you 225 Blood, Ectoplasm and Bones and offer you a new deal.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/HalloweenShop3.png" alt="Halloween" align="middle"> Shop 3</b></p>
+                        <p><b>Cost</b>: 45 Rubies</p>
+                        <p><b>Effect</b>: Gives you 875 Blood, Ectoplasm and Bones and offer you a new deal.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/HalloweenShop4.png" alt="Halloween" align="middle"> Shop 4</b></p>
+                        <p><b>Cost</b>: 100 Rubies</p>
+                        <p><b>Effect</b>: Gives you 2250 Blood, Ectoplasm and Bones</p>
+                    </div>
+                </div>
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium  Event (Sep 23 - Sep 30, 2020)</a></b></p>
                     <div class="autohide">
