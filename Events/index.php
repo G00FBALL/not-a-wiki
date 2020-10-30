@@ -1828,7 +1828,7 @@
                         <br/>
                         <p><b><img src=http://musicfamily.org/realm/Factions/picks/FairyLove.png align=middle> Fairy Love</b></p>
                         <p><b>Requirement</b>: While affiliated with the faries, click 1000 times during the Valentine event.</p>
-                        <p><b>Note</b>: If yo unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <hr>
                         <p><b>Shop</b></p>
                         <p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" align="middle"> 15000 Hearts</b></p>
@@ -5434,6 +5434,5 @@
         <p><b>Formula</b>: (0.5 * (2 - x + x^2))%, where x is is the number of quests completed in the series.</p>
         <p>Players who participate in all our Events will be rewarded with a greater cumulative bonus.</p>
         <p><b>Event Announcements</b></p>
-        <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder">Realm Grinder forum</a> at Kongregate.com. A copy of these announcements can be found below.</p>
-        <p><b><a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/663882-realm-grinder-developers-diary-sep-28th-2016">REALM GRINDER Developers' Diary</a></b></p>
+        <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="https://www.divinegames.it/discuss/viewtopic.php?id=395">Realm Grinder forums Developer Diary</a> at divinegames.it. 
         <?php include "../scripts/footer.html"; ?>
