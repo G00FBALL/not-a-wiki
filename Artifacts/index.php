@@ -603,7 +603,7 @@
     <p><b>Description</b>: The spark of Creation, dimly shining from the bottom of its encasing crystal.</p>
     <p><b>Requirements</b>: R120+, Proof of Balance</p>
     <p><b>Effect</b>: Unlocks Tier 2 All Creation</p>
-    <p><b>Chance</b>: (ln(1 + x) ^ 2 / 6,000)%, where x is FC collected this game.</p>
+    <p><b>Chance</b>: (log10(1 + x) ^ 2 / 6,000)%, where x is FC collected this game.</p>
     " coords="196,557,253,613" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/PlanetaryForceArtifact.png align=middle> <b>Planetary Force</b></p>
     <p><b>Clue</b>: Try every day for better luck! Missing a day is the same as breaking a mirror, you know.</p>
