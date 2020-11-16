@@ -138,7 +138,7 @@
 								<center>God's Rest</p><img src="http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast God’s Hand on any Sunday.</td>
-							<td>While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</td>
+							<td>While this spell is active, you will find random Faction Coins based on your mana regen each time you cast another spell.</td>
 							<td>(Angel spell) (based on your local time)</td>
 						</tr>
 						<tr>
@@ -270,8 +270,8 @@
 								<center>Equality</p><img src="http://musicfamily.org/realm/Factions/picks/EqualitySecretTrophy.png"></td>
 							<td>1 Qa (1e45)</p>A1+ Free</td>
 							<td>With no less than 3 days of playtime, have less than 1 minute of playtime difference for the 3 alignments (Good, Evil, Neutral) (This R).</td>
-							<td>Increase the production of all buildings by 100%.</p>A1, 7.18%</p>A2, 0.7%</td>
-							<td>Any R (suggested R0, R32, R46) Best to do at R0 because of bonus, At R32 you have research D480 that require 12 hours with Good, Evil and Neutral., D525 that requires 1 day 12 hours as Good.</td>
+							<td>Increase the production of all buildings by 100%.</td>
+							<td>While it can be done at R0, its usually recommended to delay doing this trophy so it can be done with other time consuming unlocks, due to its long requirement and little benefit.</td>
 						</tr>
 						<tr>
 							<td>
@@ -302,7 +302,7 @@
 								<center>Premeditation</p><img src="http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png"></td>
 							<td>50 Odc (5e58)</p>A1+ Free</td>
 							<td>Buy 850 Dark Temples before purchasing the Drow Trade Treaty.</td>
-							<td>Increase maximine mana by 250</td>
+							<td>Increase maximum mana by 250</td>
 							<td>This can be done any R but the higher the R the easier it will be.</td>
 						</tr>
 						<tr>
