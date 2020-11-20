@@ -351,7 +351,7 @@
 			<div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Druid R26-R27</font></a></b></p>
                 <div class="autohide">
-					<p><b>Requirements:</b> Ancient Device</p>
+					<p><b>Requirements:</b> Ancient Device, Druid Challenge 4</p>
                     <p><b>Faction</b>: Druid</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
@@ -407,6 +407,11 @@
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S200,S215,S270,S305,S330,C120,C135,C150,C300,C400,D55,D200,D275,D290,D320,E135,E150,E200,E260,E330,E400,A105,A120,A150,A270,A330,A250,W120,W150,W320,W330,W350,">
                     </p>
+					<p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S50,S105,S150,S215,S330,C120,C175,C150,C330,C400,D55,D200,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A330,A400,W120,W150,W180,W320,W330">
+						<b>E290</b>
+                    </p>
                     <p>S200,S215,S270,S305,S330,</p>
                     <p>C120,C135,C150,C300,C400,</p>
                     <p>D55,D200,D275,D290,D320,</p>
@@ -414,6 +419,7 @@
                     <p>A105,A120,A150,A270,A330,A250,</p>
                     <p>W120,W150,W320,W330,W350,</p>
 					<p><b>Note</b>: Import build again after buying Ancient device to buy additional researches.</p>
+					<p><b>Note</b>: E135->E290 to afford more excavations.</p>
                 </div>
             </div>	
 			<div class="shelementwhole">
@@ -428,6 +434,11 @@
                         <button onclick="myFunction($(this))">Copy Build</button>
                         <input type="text" value="S200,S215,S270,S305,S330,C120,C135,C150,C300,C400,D55,D200,D275,D290,D320,E135,E150,E200,E260,E330,E400,A105,A120,A150,A330,A400,A305,W120,W150,W320,W330,W350,">
                     </p>
+					<p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S50,S105,S150,S215,S330,C120,C175,C150,C330,C400,D55,D200,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A330,A400,W120,W150,W180,W320,W330">
+						<b>E290</b>
+                    </p>
                     <p>S200,S215,S270,S305,S330,</p>
                     <p>C120,C135,C150,C300,C400,</p>
                     <p>D55,D200,D275,D290,D320,</p>
@@ -435,9 +446,11 @@
                     <p>A105,A120,A150,A330,A400,A305,</p>
                     <p>W120,W150,W320,W330,W350,</p>
 					<p><b>Note</b>: Import build again after buying Ancient device to buy additional researches.</p>
+					<p><b>Note</b>: E135->E290 to afford more excavations.</p>
                 </div>
             </div>			
         </div>
     </div>
+    <p><b>Important for R29</b>: Earth Core quest artifact and Secrets of the Underworld is required to unlock Prestige research. <b><font color="DarkRed">DO NOT reincarnate into R30 before you buy Secret of The Underworld.<font><b></p>
     <p>At e114 gems, Secrets of the Underworld becomes reachable, unlocking Prestige research, which is not covered in this guide.</p>
     <?php include "../scripts/footer.html"; ?>
