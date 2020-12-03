@@ -872,7 +872,7 @@
                 <p><b>Mercenary Template</b>: DJ7</p>
                 <p><b>Cost</b>: 10 TQig (1e163)</p>
                 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: (0.05 * x ^ 0.35), where x is mount of assistants you own.</p>
+                <p><b>Formula</b>: (0.05 * x ^ 0.35), where x is assistants owned.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
                 <p><b>Mercenary Template</b>: DJ8</p>
