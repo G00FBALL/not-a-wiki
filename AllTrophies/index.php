@@ -107,7 +107,6 @@
                     <p><b>Requirement</b>: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.</p>
                     <p><b>Cost</b>: 50 Ocd (5e58), A1+, Free</p>
                     <p><b>Effect</b>: Increase maximum Mana by 250.</p>
-                    <p><b>Note</b>: Can be done at the end of R2+ with high gem count.(Easy at R3 and Mercs)</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle><b> Fast Forward</b></p>
                     <p><b>Requirement</b>: Accumulate an offline time of at least 88 hours. The sum of all your offline reports counts towards this purpose.(3d 16h, This R)</p>
