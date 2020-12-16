@@ -31,7 +31,8 @@
 <p><b>Requirements</b>: Angel as Base Faction, Reincarnation 18+, Demon Bloodline, Angel Unique Building, Angel challenge 2 completed.</p>
 <p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 <p><b>Challenge</b>: Have 2000 Halls of Legends, and no good buildings.</p>
-<p><b>Effect</b>: Halls of Legends benefit from any Certificate, Validation, Affirmation or Proclamation upgrade.</p>
+<p><b>Effect</b>: Increase the production of all Unique buildings based on your Mana regeneration. Does not suffers from Ascension penalties.</p>
+<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your mana regen.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
 <H6 id="AngelACR"></h6><p><b>In-Game Challenge Final Reward</b></p>

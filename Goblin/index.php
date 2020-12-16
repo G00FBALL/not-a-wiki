@@ -10,7 +10,8 @@
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 2+, Greed Drive upgrade purchased.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Have Goblin (3,3) Green Fingers Discount roll more than 1000 seconds worth of production.</p>
-<p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead.</p>
+<p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead. Now also casts 10 Tax Collections upon triggering.</p>
+<p><b>Note</b>: Tax Collections cast this way will not trigger upgrades such as GB7.</p>
 <p><b>Upgrade</b>: Works with Goblin</p>
 <p><b>Tip 1</b>: While Green Fingers Discount says it works offline, it does not work in the same way as online, and this challenge cannot be completed offline or when coming online based on the offline effect of GFD. The challenge can be attempted in multiple tabs simultaneously, provided the save you load into the tabs does not yet have GFD purchased.</p>
 <p><b>Tip 2</b>: There's a 1/6 chance of getting it every time GFD triggers.</p>
@@ -21,8 +22,8 @@
 <p>"Goblin are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 8+, Goblin Bloodline, Goblin challenge 1 completed.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
-<p><b>Challenge</b>: Buy over 250 upgrades and 17,000 buildings.</p>
-<p><b>Effect</b>: 10% of your purchased upgrades are added to your total trophy count for Hellfire Blast and Hall of Legends purposes.</p>
+<p><b>Challenge</b>: Buy over 250 upgrades and 15,000 buildings.</p>
+<p><b>Effect</b>: 25% of your purchased upgrades are added to your total trophy count for Hellfire Blast and Hall of Legends purposes.</p>
 <p><b>Upgrade</b>: Works with Demon</p>
 <hr>
 <H6 id="GoblinGC3"></h6><p><b>Goblin Challenge 3</b></p>

@@ -10,11 +10,11 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiniatureLamps.png" align="middle"> Miniature Lamps</b></p>
         <p>"In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell."</p>
         <p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, Reincarnation 135+, Persistent Entropy upgrade purchased.</p>
-        <p><b>Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
+        <p><b>Challenge</b>: Reach 50,000 Enchanted Fields within 2 minutes of a new game.</p>
         <p><b>Effect</b>: Maelstrom increases assistants based on lowest building tier targeted.</p>
         <p><b>Formula</b>: Multiplicative to base assistants: sum of ((12 - T) * 100)%, each T is tier of lowest maelstrom building targeted.</p>
         <p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
-        <p><b>Additive to LW casts</b>: (0.0001 * (x ^ 0.4) * y * z), where x = maximum mana, y = Fairy Chanting tier, z = Fairy Chanting runtime (seconds).</p>
+        <p><b>Additive to LW casts</b>: ((x ^ 0.5) * T * y / 2,000)%, where x is maximum mana, T is Fairy Chanting tier and y is Fairy Chanting runtime in seconds.</p>
         <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn</p>
         <hr>
         <H6 id="DjinnDC2"></h6>
@@ -24,9 +24,10 @@
         <p><b>Requirements</b>: Demon as Base Faction, Djinn as Elite Faction, Reincarnation 139+, Djinn Bloodline active, Djinn challenge 1 completed.</p>
         <p><b>Challenge</b>: Have at least 66 B (6.6e10) Mana Produced within 6 hours of a new game.</p>
         <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
-        <p><b>Formula</b>: Multiplicative: (0.78 * x ^ 0.78), where x is Hellfire Blast casts (this game).</p>
+        <p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is Hellfire Blast casts this game.</p>
         <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
-        <p><b>Formula</b>: Additive: (x ^ 0.65), where x is number of trophies. Applies only for real evil spells, adds casts directly to the spell’s casts.</p>
+        <p><b>Formula</b>: +(x ^ 0.7), where x is amount of trophies.</p>
+        <p><b>Note</b>: Applies only for real evil spells. Casts are added directly to the spell’s casts count and does not trigger upgrades such as GB7.</p>
         <p><b>Upgrade</b>: Works with Demon+Drow+Djinn</p>
         <hr>
         <H6 id="DjinnDC3"></h6>
@@ -34,7 +35,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/IdentityShaper.png" align="middle"> Identity Shaper</b></p>
         <p>"Interesting, they're showing us some compassion. But it matters not, for we're still bound towards these vessels."</p>
         <p><b>Requirements</b>: Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 143+, 25,000 excavations, Faceless Set active, Djinn challenge 2 completed.</p>
-        <p><b>Challenge</b>: Have at least 100 B (1e11) base assistants within 5 minutes of a new game.</p>
+        <p><b>Challenge</b>: Have at least 2 B (2e9) base assistants within 5 minutes of a new game.</p>
         <p><b>Effect</b>: Catalyst casts one additional spell.</p>
         <p><b>Effect</b>: Catalyst also adds 100 casts per spell.</p>
         <p><b>Effect</b>: Increase the minimum value on which Limited Wish is based.</p>
@@ -46,7 +47,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/WorldlyDesires.png" align="middle"> Worldly Desires</b></p>
         <p>"This generation decided that we should give them a few more wishes before they give in to our demands for a change."</p>
         <p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnation 148+, Djinn Unique Building Purchased (Pavilion), Djinn challenge 3 completed.</p>
-        <p><b>Challenge</b>: Have a spell duration of at least 275 Days.</p>
+        <p><b>Challenge</b>: Have a spell duration of at least 225 Days.</p>
         <p><b>Effect</b>: Multiplicatively increase Assistants, production bonus from Gems and Maximum Mana by 88%, 88% and 888%, targets chosen randomly and refreshing every 88 seconds.</p>
         <p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn, Demon+Drow+Djinn and Faceless+Dragon+Djinn</p>
         <hr>

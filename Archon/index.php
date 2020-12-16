@@ -10,7 +10,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/God’sPlan.png" align="middle"> God’s Plan</b></p>
         <p>"The ascended crusade wishes to test the strength of it's angelic understudies; perhaps a huge celestial army is worthy of their attention."</p>
         <p><b>Requirements</b>: Angel as Base Faction, Archon as Elite Faction, Reincarnation 135+, Chrono Loading upgrade purchased.</p>
-        <p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7)% and at least 250,000 Good buildings.</p>
+        <p><b>Challenge</b>: Have a Call to Arms bonus of at least 10 M (1e7)% and at least 200,000 Good buildings.</p>
         <p><b>Effect</b>: Increase Mana Regeneration additively and multiplicatively based on the amount of Order buildings you own.</p>
         <p><b>Formulas</b></p>
         <p><b>Additive</b>: (0.2 * x ^ 2), where x is the amount of Order buildings you own.</p>
@@ -23,9 +23,9 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnUntimelyDeath.png" align="middle"> An Untimely Death</b></p>
         <p>"A glorious victory! May we reap the rewards of war with new undead adversaries to join our quest."</p>
         <p><b>Requirements</b>: Undead as Base Faction, Archon as Elite Faction, Reincarnation 139+, Archon Bloodline active, Archon challenge 1 completed.</p>
-        <p><b>Challenge</b>: Have an Offline Bonus of at least 300 No (3e32)% while also having at least (4.5 B) 4.5e9 assistants.</p>
+        <p><b>Challenge</b>: Have an Offline Bonus of at least 300 No (3e32)% while also having at least (100 B) 1e11 assistants.</p>
         <p><b>Effect</b>: Multiplicatively increase assistants based on Offline Bonus.</p>
-        <p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is offline bonus multiplier</p>
+        <p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is offline bonus multiplier</p>
         <p><b>Effect</b>: Temporal Flux also increases Offline Bonus. (Same Formula as production bonus)</p>
         <p><b>Upgrade</b>: Works with Undead+Drow+Archon</p>
         <hr>
@@ -45,7 +45,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TimeMerge.png" align="middle"> Time Merge</b></p>
         <p>"In order to satiate our campaign we need to delve deeper into the abstract. Behold, even time itself yields to the crusade."</p>
         <p><b>Requirements</b>: Angel, Undead or Titan as Base Faction, Archon as Elite Faction, Reincarnations 148+, Archon Unique Building Purchased (Nexus), Archon challenge 3 completed.</p>
-        <p><b>Challenge</b>: Have a Temporal Flux bonus of at least 54,321%.</p>
+        <p><b>Challenge</b>: Have a Temporal Flux bonus of at least 43,210%.</p>
         <p><b>Effect</b>: 20% of Chaos and Balance time spent in this Reincarnation is added to time spent in this game.</p>
         <p><b>Effect</b>: Increase Unique Building production based on time spent in this game.</p>
         <p><b>Formula</b>: (8 * log10(1 + x) ^ 4), where x is time spent in this game.</p>
@@ -56,7 +56,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PowerOverwhelming.png" align="middle"> Power Overwhelming</b></p>
         <p>"All-powerful ruler, we've experienced all this worldline had to offer. Shall we bridge to another and continue?</p>
         <p><b>Requirements</b>: Angel, Undead or Titan as Base Faction, Archon as Elite Faction, Reincarnations 153+, Have all Order Lineages at least level 45, Archon challenge 4 completed."</p>
-        <p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 350% bonus.</p>
+        <p><b>Challenge</b>: Have a Precognition duration of at least 1 day, with a minimum of 315% bonus.</p>
         <p><b>Effect</b>: The Advanced Heritage that matches your Lineage counts 50% (up from 30%) of its level. All others get 5% (up from 0%) of their respective Lineage level.</p>
         <p><b>Upgrade</b>: Works with All</p>
         <hr>
