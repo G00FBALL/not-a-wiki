@@ -106,7 +106,7 @@
     <p><b>Level 20</b>: Perk 3 - Unique Building based boost.</p>
     <p><b>Note</b>: Perk 3 also allows the unlock of Grand Champion trophy.</p>
     <p><b>Level 30 (R105+)</b>: Perk 4 - Faction Spell boost.</p>
-    <p><b>Level 45 (R130+)</b>: Perk 5 - Faction specific boost.</p>
+    <p><b>Level 40 (R130+)</b>: Perk 5 - Faction specific boost.</p>
     <br/>
     <center><b>Lineage Menu</b></center>
     <center><img src="http://musicfamily.org/realm/Factions/picks/Lineages.png" usemap="#Lineages-map"></center>
@@ -153,7 +153,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk3.png" align="middle"><b> Fairy Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Gain 1% more assistants for every 2000 Unique Buildings.</p>
+    <p><b>Effect</b>: Gain more assistants based on the amount of Unique Buildings you own (additively).</p>
+	<p><b>Formula</b>: +(30 * x ^ 0.7), where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png" align="middle"> <b>Fairy Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.</p>
@@ -166,7 +167,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Assistants count 300% more.</p>
     <hr>
     <H6 id="Elf">Elven</h6>
@@ -193,8 +194,10 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk3.png" align="middle"><b> Elven Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Increase base clicking reward by 15% of Unique Building production for every 777 of them.</p>
-    <p><b>Formula</b>: (15 * floor(x / 777))</p>
+    <p><b>Effect</b>: Increase base clicking reward based on the amount of Unique Buildings you own (additively).</p>
+    <p><b>Formula</b>: +(85 * x ^ 0.85), where x is the amount of Unique Buildings you own.</p>
+	<p><b>Effect</b>: Also increases clicking reward by a fraction of that amount.</p>
+	<p><b>Formula</b>: (0.85 * x ^ 0.85)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png" align="middle"> <b>Elven Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.</p>
@@ -206,7 +209,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenPerk5.png" align="middle"> Elven Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Faction Coins count 1000% more.</p>
     <hr>
     <H6 id="Angel">Angel</h6>
@@ -234,7 +237,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk3.png" align="middle"><b> Angel Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20</p>
     <p><b>Effect</b>: Increase God's Hand bonus based on Unique Buildings owned.</p>
-    <p><b>Formula</b>: (12000 * floor(x / 1000))% where x is Unique Buildings owned.</p>
+    <p><b>Formula</b>: (3 * x ^ 0.9)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png" align="middle"> <b>Angel Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.</p>
@@ -246,7 +249,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelPerk5.png" align="middle"> Angel Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Spells cast count 1000% more.</p>
     <hr>
     <H6 id="Goblin">Goblin</h6>
@@ -273,7 +276,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk3.png" align="middle"><b> Goblin Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Unique Building's base production increased by 25% for every 650 Unique Buildings.</p>
+    <p><b>Effect</b>: Increase base production of Unique Buildings based on their amount (multiplicative).</p>
+	<p><b>Formula</b>: (5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png" align="middle"> <b>Goblin Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.</p>
@@ -287,7 +291,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinPerk5.png" align="middle"> Goblin Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Increase Faction Coin Find Chance by 1000%.</p>
     <hr>
     <H6 id="Undead">Undead</h6>
@@ -298,7 +302,7 @@
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk1.png" align="middle"><b> Undead Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5</p>
-    <p><b>Effect</b>: Undead Bloodline multiplies your assistants by 8% of the amount instead of adding them.</p>
+    <p><b>Effect</b>: Undead Bloodline multiplies your assistants by 5% of the amount instead of adding them.</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Undead Faction Coin find chance.</p>
@@ -326,7 +330,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk5.png" align="middle"> Undead Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Reincarnation Power Counts Reincarnations as 100% more.</p>
     <hr>
     <H6 id="Demon">Demon</h6>
@@ -340,7 +344,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk1.png" align="middle"><b> Demon Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5</p>
     <p><b>Effect</b>: While using Demon Bloodline, increase Maximum Mana based on trophies unlocked.</p>
-    <p><b>Formula</b>: (20 * x ^ 1.25), where x is trophies unlocked.</p>
+    <p><b>Formula</b>: +(20 * x), where x is trophies unlocked.</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Demon Faction Coin find chance.</p>
@@ -355,7 +359,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk3.png" align="middle"><b> Demon Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Increase production bonus from Gems by 50% per 666 Unique Buildings (multiplicative).</p>
+    <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of Unique Buildings you own.</p>
+	<p><b>Formula</b>: (0.6 * x ^ 0.66)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png" align="middle"> <b>Demon Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.</p>
@@ -367,7 +372,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonPerk5.png" align="middle"> Demon Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Trophies count 1000% more.</p>
     <hr>
     <H6 id="Titan">Titan</h6>
@@ -394,8 +399,8 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk3.png" align="middle"><b> Titan Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
     <p><b>Effect</b>: Increase the base production of tier 4 and tier 7 buildings based on Unique Buildings owned.</p>
-    <p><b>Tier 4 Formula</b>: +(0.01 * x)</p>
-	<p><b>Tier 7 Formula</b>: +(x)</p>
+    <p><b>Tier 4 Formula</b>: +(2.5 * x ^ 0.5), where x is the amount of Unique Buildings you own.</p>
+	<p><b>Tier 7 Formula</b>: +(25 * x ^ 0.5), where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png" align="middle"> <b>Titan Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.</p>
@@ -407,7 +412,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanPerk5.png" align="middle"> Titan Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Royal Exchanges count 500% more.</p>
     <hr>
     <H6 id="Druid">Druid</h6>
@@ -434,8 +439,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk3.png" align="middle"><b> Druid Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: Increase Grand Balance bonus based on the amount of Unique Buildings you own.</p>
-    <p><b>Formula</b>: (12000 * Floor(x / 1000)), where x is amount of Unique Buildings you own.</p>
+    <p><b>Effect</b>: Activity time for all spells counts 3% more for every 1,000 Unique Buildings.</p>
+    <p><b>Formula</b>: (3 * x / 1,000)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png" align="middle"> <b>Druid Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.</p>
@@ -450,7 +455,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidPerk5.png" align="middle"> Druid Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Mana produced counts 1000% more.</p>
     <hr>
     <H6 id="Faceless">Faceless</h6>
@@ -478,7 +483,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk3.png" align="middle"><b> Faceless Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20.</p>
-    <p><b>Effect</b>: 5% more assistant production per 1k Unique Buildings. Does not suffer from Ascension penalties.</p>
+    <p><b>Effect</b>: Increase assistants prodcution based on the amount of Unique Buildings you own. Does not suffer from Ascension penalties.</p>
+	<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png" align="middle"> <b>Faceless Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.</p>
@@ -490,7 +496,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk5.png" align="middle"> Faceless Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Time passed counts 100% more.</p>
     <hr>
     <H6 id="Dwarf">Dwarven</h6>
@@ -519,7 +525,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk3.png" align="middle"><b> Dwarven Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Excavations and Artifacts count 1% more for every 1500 Unique Buildings.</p>
+    <p><b>Effect</b>: Excavations and Artifacts count more based on the amount of Unique Buildings you own.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> <b>Dwarven Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Dwarven Lineage to level 20 and purchase 3 Dwarven Lineage perks.</p>
@@ -528,11 +535,11 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk4.png" align="middle"><b> Dwarven Perk 4</b></p>
     <p><b>Requirement</b>: A2+, Reach Lineage Level 30</p>
     <p><b>Effect</b>: When Diamond Pickaxe is active, increase mana regen based on Faction Coin chance.</p>
-    <p><b>Formula</b>: (0 .5 * log10(x + 1) ^ 2.5), where x is Faction Coin chance.</p>
+    <p><b>Formula</b>: (log10(1 + x) ^ 2.5)%, where x is Faction Coin Find chance.</p>
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenPerk5.png" align="middle"> Dwarven Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Buildings count 75% more.</p>
     <hr>
     <H6 id="Drow">Drow</h6>
@@ -544,7 +551,8 @@
     <p><b>Level 5</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk1.png" align="middle"><b> Drow Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5</p>
-    <p><b>Effect</b>: While using Drow Bloodline, all time spent counts 100% more for all purposes.</p>
+    <p><b>Effect</b>: Time counts more based on your all-time maximum Combo Strike counter.</p>
+	<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5)%, where x is your all-time maximum Combo Strike counter.</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Drow Faction Coin find chance.</p>
@@ -559,7 +567,8 @@
     <p><b>Level 20</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk3.png" align="middle"><b> Drow Perk 3</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Increase Faction Coin find chance multiplicatively by 5% per 3000 unique buildings.</p>
+    <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Unique Buildings you own.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><img src="http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png" align="middle"> <b>Drow Grand Champion Trophy</b></p>
     <p><b>Requirement</b>: Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.</p>
@@ -573,7 +582,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowPerk5.png" align="middle"> Drow Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Maximum Mana counts 300% more.</p>
     <hr>
     <H6 id="Dragon">Dragon</h6>
@@ -611,7 +620,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonPerk5.png" align="middle"> Dragon Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Lineage levels count 100% more.</p>
     <hr>
     <p><b>Elite Lineages - R130+</b></p>
@@ -642,7 +651,8 @@
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk3.png" align="middle"> Archon Perk 3</b></p>
     <p><b>Requirements</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Increase mana regeneration by 3% per 1000 Unique Buildings.</p>
+    <p><b>Effect</b>: Multiplicatively increase Mana Regneration based on the amount of Unique Buildings you own.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
     <br/>
     <p><b>Level 30</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk4.png" align="middle"> Archon Perk 4</b></p>
@@ -651,7 +661,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk5.png" align="middle"> Archon Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Unique Buildings count 100% more.</p>
     <hr>
     <H6 id="Djinn">Djinn</h6>
@@ -680,7 +690,7 @@
     <p><b>Level 20</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk3.png" align="middle"> Djinn Perk 3</b></p>
     <p><b>Requirements</b>: Reach Lineage Level 20</p>
-    <p><b>Effect</b>: Activity time for all spells counts 3% more for every 1000 Unique Buildings.</p>
+    <p><b>Effect</b>: Tax Collection casts count 3% more for every 1000 Unique Buildings.</p>
     <br/>
     <p><b>Level 30</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk4.png" align="middle"> Djinn Perk 4</b></p>
@@ -689,7 +699,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnPerk5.png" align="middle"> Djinn Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Mana regeneration counts 200% more.</p>
     <hr>
     <H6 id="Makers">Makers</h6>
@@ -726,7 +736,7 @@
     <br/>
     <p><b>Level 45</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk5.png" align="middle"> Makers Perk 5</b></p>
-    <p><b>Requirements</b>: R130, Lineage Level 45</p>
+    <p><b>Requirements</b>: R130, Lineage Level 40</p>
     <p><b>Effect</b>: Excavations count 200% more.</p>
     <br/>
         <?php include "../scripts/footer.html"; ?>

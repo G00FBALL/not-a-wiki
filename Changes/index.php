@@ -1470,7 +1470,6 @@
 	<p><b>New Formula</b>: +(85 * x ^ 0.85), where x is the amount of Unique Buildings you own.</p>
 	<p><b>Added Effect</b>: Also increase clicking reward by a fraction of that amount.</p>
 	<p><b>Formula</b>: (0.85 * x ^ 0.85)%, where x is the amount of Unique Buildings you own.</p>
-	<p><b>Note</b>: The multiplicative clicking reward is treated as an Ascension 1 upgrade.</p>
 <br/>
 <p><b>Angel Perk 3</b></p>
 	<p><b>Effect</b>: Increase God's Hand bonus based on Unique Buildings owned.</p>
