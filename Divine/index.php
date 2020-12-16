@@ -82,7 +82,7 @@
 	<hr>
     <p><b>D205</b> - For All Good Factions</p>
 	<p><b>Research Name</b>: Communion</p>
-  <p><b>Hint</b>: Shine bright, Holy Light!</p>
+    <p><b>Hint</b>: Shine bright, Holy Light!</p>
 	<p><b>Requirement</b>: 777 Holy Lights (Total this R),Research Gemcutting (C175) & Illumination (D135)</p>
 	<p><b>Cost</b>: 627.6 Dqig (6.276E161)</p>
 	<p><b>Effect</b>: Increase Holy Light duration by 300 seconds.</p>
@@ -96,7 +96,7 @@
 	<hr>
     <p><b>D245</b> - For All Factions</p>
 	<p><b>Research Name</b>: Sanctification</p>
-  <p><b>Hint</b>: Surgical Spirits.</p>
+    <p><b>Hint</b>: Surgical Spirits.</p>
 	<p><b>Requirement</b>: 500 Spiritual Surge (Total this R), Research Soulweaving (A175) & Necromancy (S225)</p>
 	<p><b>Cost</b>: 6.94Qiqig (6.94E168)</p>
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Non-Unique Buildings you own.</p>
@@ -179,7 +179,7 @@
 	<hr>
     <p><b>D525</b> - For Good</p>
 	<p><b>Research Name</b>: Purity</p>
-  <p><b>Hint</b>: Be patiently good.</p>
+    <p><b>Hint</b>: Be patiently good.</p>
 	<p><b>Requirement</b>: 1d12h as Good (This R), Research Communion (D205) and Devotion (D435)</p>
 	<p><b>Cost</b>: 140.2 USpg (1.402E218)</p>
 	<p><b>Effect</b>: Increase Holy Light multiplier based on the amount of times you cast your faction spell in this game.</p>
@@ -208,7 +208,7 @@
     <p><b>D1275</b> - For All Factions</p>
 	<p><b>Research Name</b>: Solemnity</p>
 	<p><b>Hint</b>: Urban development.</p>
-	<p><b>Requirement</b>: 100000 Total Buildings</p>
+	<p><b>Requirement</b>: 80,000 Total Buildings</p>
 	<p><b>Cost</b>: 152.4 Dvg (1.524e71)</p>
 	<p><b>Effect</b>: Increase the production of each building by +0.3% per building of the same type.</p>
 	<hr>
@@ -228,7 +228,7 @@
 	<hr>
     <p><b>D3350</b> - For All Factions</p>
 	<p><b>Research Name</b>: Vampirism</p>
-  <p><b>Hint</b>: Sound the alarms, production has gone offline!</p>
+    <p><b>Hint</b>: Sound the alarms, production has gone offline!</p>
 	<p><b>Requirement</b>: 100 Sp% (1e26%) offline bonus, (Intervention D2775) and (Upheaval W3150).</p>
 	<p><b>Cost</b>: 598.3 TSxg (5.983e194)</p>
 	<p><b>Effect</b>: Increase assistants additively and multiplicatively based on your Offline Bonus.</p>
@@ -239,7 +239,7 @@
 	<p><b>Research Name</b>: Selection</p>
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Mythos artifact and upgrade</p>
 	<p><b>Effect</b>: Increase the production of Unique buildings based on Clicks in this game.</p>
-	<p><b>Formula</b>: (x ^ 0.4), where x is clicks this game.</p>
+	<p><b>Formula</b>: (x ^ 0.5), where x is clicks this game.</p>
 	<hr>
     <p><b>D5375</b> - For Good</p>
 	<p><b>Research Name</b>: Zealotry</p>
@@ -251,11 +251,31 @@
 	<p><b>Research Name</b>: Prophecy</p>
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade</p>
 	<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
-	<p><b>Formula</b>: (0.3 * x ^ 0.7), where x is your least spent faction time.</p>
+	<p><b>Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.</p>
+	<p><b>Note</b>: only considers time spent with factions that are avaliable at the given game stage.</p>
 	<hr>
     <p><b>D5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Birthright</p>
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade</p>
-	<p><b>Effect</b>: Gain the Bloodline effects of your least used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline.</p>
+	<p><b>Effect</b>: Gain the Bloodline effects of your opposite Alignment.</p>
+	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 	<hr>
+	<p><b>D10875</b> - Scriptures</p>
+	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment of the spell.</p>
+	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.</p>
+	<p>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
+	<p>All other event spells use time spent this R.</p>
+	<hr>
+	<p><b>D11125</b> - Viriditas</p>
+	<p><b>Effect</b>: Lineage levels count more based on the amount of Artifacts you excavated.</p>
+	<p><b>Formula</b>: (x ^ 0.75)%, where x is the amount of Artifacts you excavated.</p>
+	<hr>
+	<p><b>D11375</b> - Rigor</p>
+	<p><b>Effect</b>: Reincarnations count 100% more.</p>
+	<hr>
+	<p><b>D11625</b> - Compassion</p>
+	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on time spent with your least used alignment in this Reincarnation.</p>
+	<p><b>Formula</b>: (50 + x ^ 0.75)%, where x is time spent as the least used alignment this R.</p>
+	<hr>	
         <?php include "../scripts/footer.html"; ?>

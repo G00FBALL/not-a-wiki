@@ -997,25 +997,22 @@
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.
 	<p><b>Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.
-	<p><b>Note</b>: Only considers time spent with factions that are avaible at a certain game stage.
+	<p><b>Note</b>: Only considers time spent with factions that are avaliable at the given game stage.
 	" coords="254,548,294,588" shape="rect">
         <area research="D5875 - For All Factions
 	<p><b>Research Name</b>: Birthright
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade
 	<p><b>Effect</b>: Gain the Bloodline effects of your opposite Alignment.
-	<p><b>Note</b>: Gain the Bloodline of the base faction of your opposite alignment. For Neutral and Balance the opposite is Neutral and Balance respectively.
+	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.
 	" coords="296,548,336,588" shape="rect">
 		<area research="D10875 - For All Factions
 	<p><b>Research Name</b>: Scriptures
 	<p><b>Requirement</b>: R221
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.
-	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment that unlocks the spells.
-	<p><b>Note</b>: CtA and SS use time spent this R.
-		<p>HL / GG / BF use time spent as Good / Neutral / Evil this R respectively.
-		<p>TF / MS / AC use time spent as Order / Chaos / Balance this R respectively.
-		<p>Faction spells use time spent as their respective faction this R.
-		<p>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.
-		<p>All other event spells use time spent this R.
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment of the spell.
+	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.
+	<p>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.
+	<p>All other event spells use time spent this R.
 	" coords="338,548,378,588" shape="rect">
 		<area research="D11125 - For All Factions
 	<p><b>Research Name</b>: Viriditas

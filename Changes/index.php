@@ -162,10 +162,7 @@
 <p><b>D10875</b> (Scriptures)</p>
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment that unlocks the spells.</p>
-	<p><b>Note</b>: CtA and SS use time spent this R.</p>
-	<p>HL / GG / BF use time spent as Good / Neutral / Evil this R respectively.</p>
-	<p>TF / MS / AC use time spent as Order / Chaos / Balance this R respectively.</p>
-	<p>Faction spells use time spent as their respective faction this R.</p>
+	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.</p>
 	<p>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
 	<p>All other event spells use time spent this R.</p>
 <br/>
@@ -1369,15 +1366,15 @@
 	<p><b>New Formula</b>: (x ^ 0.5)%, where x is clicks this game.</p>
 <br/>
 <p><b>D5625</b> (Prophecy)</p>
-	<p><b>Effect</b>: Effect: Empowers the effects of your faction's Set based on time spent with your least used faction (non-mercenary). Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
+	<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
 	<p><b>Old Formula</b>: (0.3 * x ^ 0.7)%, where x is your least spent faction time (non-mercenary).</p>
-	<p><b>New Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time (non-mercenary).</p>
-	<p><b>Note for A4</b>: only considers time spent with factions that are avaible at a certain game stage.</p>
+	<p><b>New Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.</p>
+	<p><b>Note</b>: only considers time spent with factions that are avaliable at the given game stage.</p>
 <br/>
 <p><b>D5875</b> (Birthright)</p>
 	<p><b>Old Effect</b>: Gain the Bloodline effects of your least used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline.</p>
 	<p><b>New Effect</b>: Gain the Bloodline effects of your opposite Alignment.</p>
-	<p><b>Note</b>: Gain the Bloodline of the base faction of your opposite alignment. For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
+	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 <br/>
 <p><b>Economics</b></p>
 <p><b>E50</b> (Bartering)</p>
