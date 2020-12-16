@@ -725,10 +725,11 @@
 <p><b>TT11</b> (Titanic Authority)</p>
         <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
         <p><b>Old Formula</b>: (0.7 * x ^ 0.7)%, where x is amount of Royal Exchanges you made.</p>
-	<p><b>New Formula</b>: (x ^ 0.6)%, where x is amount of Royal Exchanges you made.</p>
+		<p><b>New Formula</b>: (x ^ 0.6)%, where x is amount of Royal Exchanges you made.</p>
 <br/>
 <p><b>Druid</b></p>
 <p><b>DD2</b> (Earthly Bond)</p>
+		<p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
         <p><b>Old Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in <b>hours</b>.</p>
         <p><b>New Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in <b>seconds</b>.</p>
 <br/>
@@ -1520,7 +1521,7 @@
 	<p><b>New Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
 <br/>
 <p><b>Dwarven Perk 4</b></p>
-	<p><b>Effect</b>: While Diamond Pickaxe is active, multiplactively increase Mana Regeneration based on Faction Coin Find chance.</p>
+	<p><b>Effect</b>: While Diamond Pickaxe is active, multiplicatively increase Mana Regeneration based on Faction Coin Find chance.</p>
 	<p><b>Old Formula</b>: (0.5 * log10(1 + x) ^ 2.5)%, where x is Faction Coin Find chance.</p>
 	<p><b>New Formula</b>: (log10(1 + x) ^ 2.5)%, where x is Faction Coin Find chance.</p>
 <br/>
