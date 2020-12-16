@@ -1103,7 +1103,7 @@
 <p><b>Drow Challenge 1</b> (Organized Crime)</p>
 	<p><b>Old Effect</b>: Increase Royal Exchange bonus by +0.025% per trophy you own.</p>
 	<p><b>New Effect</b>: Increase Royal Exchange bonus based on the amount of unlocked trophies.</p>
-	<p><b>New formula </b>: +(0.2 * x ^ 0.8)%, where x is the amount of active spells.</p>
+	<p><b>New formula </b>: +(0.2 * x ^ 0.8)%, where x is the amount of unlocked trophies..</p>
 <br/>
 <p><b>Drow Challenge 2</b> (Dark Elegance)</p>
 	<p><b>Old Challenge</b>: Build 2,000 Dark Temples.</p>
