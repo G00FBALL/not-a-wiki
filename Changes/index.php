@@ -728,6 +728,10 @@
 	<p><b>New Formula</b>: (x ^ 0.6)%, where x is amount of Royal Exchanges you made.</p>
 <br/>
 <p><b>Druid</b></p>
+<p><b>DD2</b> (Earthly Bond)</p>
+        <p><b>Old Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in <b>hours</b>.</p>
+        <p><b>New Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in <b>seconds</b>.</p>
+<br/>
 <p><b>DD4</b> (Earthly Bond)</p>
         <p><b>Old Effect</b>: Increase maximum mana by 2.0 for each Stone Pillars you own.</p>
         <p><b>New Effect</b>: Increase maximum mana based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
