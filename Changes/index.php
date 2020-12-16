@@ -660,9 +660,9 @@
         <p><b>New Formula</b>: (0.5 * (T ^ 1.5) * (x ^ 0.5)%, where x is the highest amount of Burning Abysses you built this R , T is building tier.</p>
 <br/>
 <p><b>DM12</b> (Devastation)</p>
-        <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-        <p><b>Old Formula</b>: (4.5 * ln(1 + x) ^ 4.5)%, where x is mana regen.</p>
-        <p><b>New Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is mana regen.</p>
+        <p><b>Effect</b>: Increase production of three highest building tiers based on mana regeneration.</p>
+        <p><b>Old Formula</b>: (4.5 * ln(1 + x) ^ 4.5)%, where x is mana regeneration.</p>
+        <p><b>New Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is mana regeneration.</p>
 <br/>
 <p><b>Titan</b></p>
 <p>TT3 swapped places with TT9, TT6 swapped places with TT7, effects and formulas changed.</p>
@@ -994,7 +994,7 @@
 <p><b>Angel Challenge 3</b> (Nephilim's Blessing)</p>
 	<p><b>Old Effect</b>: Halls of Legends benefit from any Certificate, Validation, Affirmation or Proclamation upgrade.</p>
 	<p><b>New Effect</b>: Increase the production of all Unique buildings based on your Mana regeneration. Does not suffer from Ascension penalties.</p>
-	<p><b>New Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your mana regen.</p>
+	<p><b>New Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your mana regeneration.</p>
 <br/>
 <p><b>Goblin</b></p>
 <p><b>Goblin Challenge 1</b> (Discount Season)</p>
@@ -1129,8 +1129,8 @@
 	<p><b>Removed Effect</b>: No longer removes an ascension penalty from Hive Mind and increase its bonus.</p>
 <br/>
 <p><b>Dragon Challenge 6</b> (Dracomet Vault)</p>
-	<p><b>Old Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 120,000 buildings, 2e10 mana produced, 7,500 excavations, 6,000 assistants, 300,000 max mana and 175,000 mana regen.</p>
-	<p><b>New Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 90,000 buildings, 2e10 mana produced, 7,500 excavations, 6,000 assistants, 300,000 max mana and 175,000 mana regen.</p>
+	<p><b>Old Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 120,000 buildings, 2e10 mana produced, 7,500 excavations, 6,000 assistants, 300,000 max mana and 175,000 mana regeneration.</p>
+	<p><b>New Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 90,000 buildings, 2e10 mana produced, 7,500 excavations, 6,000 assistants, 300,000 max mana and 175,000 mana regeneration.</p>
 	<p><b>Old Effect</b>: Production bonus from Gems is multiplicatively increased over time based on the amount of artifacts you own. Resets on Abdications.</p>
 	<p><b>Old Formula</b>: (0.01 * x * (t / 60) ^ 0.7)%, where x is artfiacts found and t is time this game in seconds.</p>
 	<p><b>New Effect</b>: Production bonus from Gems is additively increased over time based on the amount of artifacts you own. Resets on Abdications.</p>
