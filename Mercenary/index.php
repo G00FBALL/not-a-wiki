@@ -43,7 +43,7 @@
         <p><b>Mercenary Challenge 4</b></p>
 	    <p><b><img src=http://musicfamily.org/realm/Factions/picks/ReturnoftheKing.png align=middle> Return of the King</b></p>
 	    <p>The Mercenary Lord has returned, with newfound knowledge and power. Another challenge awaits you...</p>
-	    <p><b>Requirements</b>: R202, Any Mercenary, All lineages level 90.</p>
+	    <p><b>Requirements</b>: R202, Any Mercenary, All lineages level 75.</p>
 	    <p><b>Challenge</b>: Have exactly one assistant and reach a total of 1e60 Faction Coins within 5 minutes of a new game.</p>
 	    <p><b>Effect</b>: You can pick one additional Union Power.</p>
 	    <p><b>Upgrade</b>: Works with Any Mercenary</p>
@@ -52,8 +52,8 @@
         <p><b>Mercenary Challenge 5</b></p>
 	    <p><b><img src=http://musicfamily.org/realm/Factions/picks/TheArtofWar.png align=middle> The Art of War</b></p>
 	    <p>An expert Mercenary should learn by other cultures. That has been our call for generations. Now, it is your turn to answer that call.</p>
-	    <p><b>Requirements</b>: R206, Any Mercenary, 20k Royal Exchanges made in this game, True Harlequin build.</p>
-	    <p><b>Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 800k buildings without using any research.</p>
+	    <p><b>Requirements</b>: R206, Any Mercenary, 18,000 Royal Exchanges made in this game, True Harlequin build.</p>
+	    <p><b>Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 600,000 buildings without using any research.</p>
 	    <p><b>Effect</b>: Unique Buildings that match your Lineage and Set factions or their FC affinity have their production increased based on the amount of time spent with each of those factions.</p>
 	    <p><b>Formula</b>: (x ^ 0.7) where x is time spent with said faction in seconds.</p>
 	    <p><b>Note</b>: Works similarly to R60 and R115 powers, so a Fairy Unique building will also earn half a bonus from Djinn faction.</p>
@@ -64,16 +64,16 @@
 	    <p><b><img src=http://musicfamily.org/realm/Factions/picks/Warcry.png align=middle> Warcry</b></p>
 	    <p>Call to Arms gains additional effects based on your alignments, scaling off your Call to Arms strength.</p>
 		<p><b>General Formula</b>: y = 25 + (0.3 * x ^ 0.975) where x is building count.</p>
-	    <p><b>Good</b>: Can be cast up to tier 10 and removes an ascension penalty.</p>
+	    <p><b>Good</b>: Grants one maximum castable Call to Arms tier per ascension and removes one ascension penalty from Call to Arms. Tax Collection casts in this game now increases Call to Arms base bonus (This bonus will boost other Warcry effects. Stacks multiplicatively with W180, additively with C225 & R150 power).</p>
+	    <p><b>Formula</b>: (1.5 * x ^ 0.5)%, where x is Tax Collection casts this game.</p>
 	    <p><b>Evil</b>: Multiplicatively increase Tax Collection worth in seconds.</p>
-	    <p><b>Formula</b>: (0.5 * y ^ 0.5)</p>
-	    <p><b>Neutral</b>: Additively and multiplicatively increase Faction Coin find chance.</p>
-	    <p><b>Additive Formula</b>: (100 * y)</p>
-		<p><b>Multiplicative Formula</b>: (y ^ 0.5)</p>
+	    <p><b>Formula</b>: (y ^ 0.35)%</p>
+	    <p><b>Neutral</b>: Multiplicatively increase Faction Coins find chance.</p>
+	    <p><b>Formula</b>: (0.35 * y ^ 0.35)%</p>
 	    <p><b>Order</b>: Increases all spell durations.</p>
-	    <p><b>Formula</b>: (25 * ln(x))</p>
+	    <p><b>Formula</b>: (2.5 * ln(1 + y))</p>
 	    <p><b>Chaos</b>: Multiplicatively increase assistants (Temporary).</p>
-	    <p><b>Formula</b>: (y ^ 0.25)</p>
+	    <p><b>Formula</b>: (0.35 * y ^ 0.35)</p>
 	    <p><b>Balance</b>: Increases Royal Exchange Bonus multiplicatively and makes them count more.</p>
-	    <p><b>Formula</b>: (y ^ 0.5)</p>
+	    <p><b>Formula</b>: (0.45 * y ^ 0.45)</p>
         <?php include "../scripts/footer.html"; ?>

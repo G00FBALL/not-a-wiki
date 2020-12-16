@@ -17,8 +17,8 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/BiasedArchitetureChallenges.png" alt="Biased Architeture" align="middle"> <b>Biased Architeture</b></p>
 <p>"The dwarven lords have asked you to provide their people with ale. Hurry up, the dwarves are getting thirsty!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Dwarves as Prestige Faction, Reincarnation 11+, Dwarven Bloodline, Elven, Angel and Fairy challenge 2 and Dwarven challenge 1 completed.</p>
-<p><b>Challenge</b>: Build 2,750 Inns within 2 minutes of a new game.</p>
-<p><b>Effect</b>: Reduce Inn and Blacksmith cost multipliers.</p>
+<p><b>Challenge</b>: Build 2,250 Inns within 2 minutes of a new game.</p>
+<p><b>Effect</b>: Reduce Farms, Inn and Blacksmith cost multipliers.</p>
 <p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 <p><b>Upgrade</b>: Works with Fairy+Dwarf</p>
 <hr>
@@ -27,14 +27,16 @@
 <p>"The dwarven lords have asked you to help them collect trade supplies for all the factions of the realm."</p>
 <p><b>Requirements</b>: Elves as Base Faction, Dwarves as Prestige Faction, Reincarnation 21+, 1750 excavations, Elven, Angel and Fairy challenge 3 and Dwarven challenge 2 completed.</p>
 <p><b>Challenge</b>: Collect at least 100,000 Faction Coins with a single Tax Collection.</p>
-<p><b>Effect</b>: Increase your Faction Coin find chance by 100% for each active spell.</p>
+<p><b>Effect</b>: Increase your Faction Coin find chance based on the amount of active spells.</p>
+<p><b>Formula</b>: +(20 * x)%, where x is the amount of active spells.</p>
+<p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance by 25%.</p>
 <p><b>Upgrade</b>: Works with Elven+Dwarf</p>
 <hr>
 <H6 id="DwarfDC4"></h6><p><b>Dwarf Challenge 4</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PaladinsChallenges.png" alt="Paladins" align="middle"> <b>Paladins</b></p>
 <p>"The dwarven lords are interested in training the troops into pious warriors. Begin the initiation as soon as possible."</p>
 <p><b>Requirements</b>: Any Good as Base Faction, Dwarves as Prestige Faction, Reincarnation 27+, 2000 excavations, Dwarven Challenge 3 completed.</p>
-<p><b>Challenge</b>: Have at least 3,500 Knights Jousts and as many Wizard Towers.</p>
+<p><b>Challenge</b>: Have at least 3,000 Knights Jousts and as many Wizard Towers.</p>
 <p><b>Effect</b>: Increase Holy Light bonus based on the combined amount of Knights Jousts and Wizard Towers you own.</p>
 <p><b>Formula</b>: (50 x ^ 0.35)%, where x is the number of Knight Jousts and Wizard Towers you own.</p>
 <p><b>Upgrade</b>: Works with any Good+Dwarf</p>
