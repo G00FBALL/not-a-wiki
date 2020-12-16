@@ -4,6 +4,44 @@
 <?php include "../scripts/header.html"; ?>
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.0, December 16, 2020, Christmas Event</a></b></p>
+            <div class="autohide">
+                <p>Global Reminder: The Christmas Event will be starting on Dec 21st 2020, 1.01 PM UTC and will end on Jan 5th 2021, 7.59 PM UTC.</p>
+
+                <p>INTRODUCING: ASCENSION 4. Starting from Reincarnation 220, you will be able to perform the 4th Ascension, unlocking new endgame content with different progress systems and options!</p>
+                <p>NEW PROGRESS SYSTEM: FACTION LEGACIES. In Ascension 4 you will be able to purchase Legacies for coins and faction coins, allowing you to mix and match upgrades from different factions and unlocking special bonuses as you purchase more.</p>
+                <p>Building cost multiplier in Ascension 4 is reset to Ascension 0 values.</p>
+                <p>All Vanilla upgrades, challenges and heritages in Ascension 4 have their Ascension Penalty removed.</p>
+                <p>An incredibly large number of upgrades have been rebalanced or reworked entirely.</p>
+                <p>Most tooltip texts have been changed for clarity and consistency.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.1, June 29, 2020, Goblin War Event</a></b></p>
+            <div class="autohide">
+                <p>Global Reminder: The Goblin Invasion Event will be starting on Jul 09th 2020, 12.01 PM UTC and will end on Jul 13th 2020, 18.59 PM UTC.</p>
+
+                <p>Trade Lords formula changed to prevent overflowing. No changes to the upgrade effect. Most of the other logarithmic upgrades have undergone the same change, which should improve performance and avoid overflowing risks.</p>
+                <p>All effects based on spell duration now consider the duration of the spell at the moment it is cast. This will lower the efficiency of those upgrades (i.e. Druid Challenge 4), but will improve the game performance significantly.</p>
+                <p>Order Warcry formula changed to be logarithmic.</p>
+                <p>Faceless Set base increased.</p>
+                <p>Researches that are not yet unlocked cannot be purchased or imported via template.</p>
+                <p>Fixed several persistent UI issues.</p>
+                <p>Premeditation can no longer be unlocked by Mercenaries.</p>
+                <p>Chocolate Egg is no longer affected by Ascension penalties.</p>
+                <p>Restored the "Disable Buy Hotkeys" option. It no longer hides the buymax button.</p>
+                <p>{web}Text inside the Mana Sphere has been reorganized for better visibility.</p>
+                <p>Fairy 9 (Swarm of Fairies), Angel 1 (Holy Bells), 4 (Guardian Angels), 7 (Magical Gates), Undead 3 (Death Temples), Demon 7 (Infernal Magic), Demon 8 (Burning Legion), Druid 2 (Animal Companions) formulas streamlined. Balance change should be irrelevant.</p>
+                <p>Support Goblin 1 (Elite Goblins) formula changed to logarithmic.</p>
+                <p>Support Goblin 3 (The Slack King) offline production now suffers from Ascension Penalties.</p>
+                <p>Faceless 1 (Territorial Expanse) no longer autobuys buildings.</p>
+                <p>Faceless Challenge 2 requirements changed to: "Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.".</p>
+                <p>Several secret upgrades now have their cost reduced to trivial or flavor-based coin amounts.</p>
+                <p>Mercenary Union Contracts can no longer be imported without their requirement.</p>
+                <p>Clarification: assistants provided by spells are temporary, not illusory (i.e. upgrades that have "count more" effects). They are now consistently used as requirements for various upgrades and trophies.</p>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8, May 13, 2020, Blood War Event</a></b></p>
             <div class="autohide">
