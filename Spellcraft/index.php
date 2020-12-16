@@ -55,7 +55,7 @@
     <p><b>S135</b> - For All Factions</p>
 	<p><b>Research Name</b>: Augmentation</p>
 	<p><b>Hint</b>: More Unique buildings will do the trick!</p>
-	<p><b>Requirement</b>: 5000 Unique Buildings (as Fairy) (This Game)</p>
+	<p><b>Requirement</b>: 4,000 Unique Buildings (as Fairy) (This Game)</p>
 	<p><b>Cost</b>: 296 Ocqag (2.96E149)</p>
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on maximum mana.</p>
 	<p><b>Formula</b>: round(2 * x^0.8)%, where x is your maximum mana.</p>
@@ -84,11 +84,12 @@
 	<p><b>Research Name</b>: Cryomancy</p>
 	<p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</p>
 	<p><b>Cost</b>: 82.65 DQig (8.265E160)</p>
-	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).<p><b>Formula</b>: (5 * ln(x) ^ 1.25), where x is mana produced (this game).</p>
+	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).</p>
+	<p><b>Formula</b>: (5 * ln(1 + x) ^ 1.5)%, where x is mana produced (this game).</p>
 	<hr>
     <p><b>S215</b> - For All Factions</p>
 	<p><b>Research Name</b>: Projection</p>
-  <p><b>Hint</b>: How many of these are required for a seance?</p>
+	<p><b>Hint</b>: How many of these are required for a seance?</p>
 	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
 	<p><b>Cost</b>: 36.16 TQig (3.616E163)</p>
 	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</p>
@@ -120,16 +121,16 @@
 	<p><b>Hint</b>: Click your way through.</p>
 	<p><b>Requirement</b>: 500,000 clicks (This game)</p>
 	<p><b>Cost</b>: 175.2 SxQig (1.752E173)</p>
-	<p><b>Effect</b>: Increase the production of all buildings based on your bonus from Gems.</p>
-	<p><b>Formula</b>: round(1.15 * x ^ 0.75)%, where x is your gem bonus.</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of Gems you own.</p>
+	<p><b>Formula</b>: (1.25 * log10(1 + x) ^ 1.25)%, where x is the amount of Gems you own.</p>
 	<hr>
     <p><b>S300</b> - For Titan</p>
 	<p><b>Research Name</b>: Chain Lightning</p>
 	<p><b>Hint</b>: I can feel the waves...</p>
 	<p><b>Requirement</b>: 25 Brainwaves (Faceless) (This R)</p>
 	<p><b>Cost</b>: 33 OcQig (3.36E178)</p>
-	<p><b>Effect</b>: While Lightning Strike is active, all non-target buildings have their production increased based on the amount of Lightning Strikes cast in this game.</p>
-	<p><b>Formula</b>: round(120 * x ^ 0.8)%, where x is your Lightning Strikes cast (This Game) stat.</p>
+	<p><b>Effect</b>: Ligthning Strike duration will not be modified by other effects. While Lightning Strike is active, all non-target buildings have their production increased based on Lightning Strike activity time in this game.</p>
+	<p><b>Formula</b>: (250 * (x / 20) ^ 0.9)%, where x is your Lightning Strike activity time (This Game) stat.</p>
 	<hr>
     <p><b>S305</b> - For All Factions</p>
 	<p><b>Research Name</b>: Mesmerization</p>
@@ -249,7 +250,7 @@
 	<p><b>Requirement</b>: R177+, Forgotten Relic, Mana Loom artifact and upgrade</p>
 	<p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the activity time of your least used spell.</p>
     <p><b>Additive</b>: (1000 + 80 * x ^ 0.8), where x is spell activity time in seconds.</p>
-    <p><b>Multiplicative</b>: (0.6 * x ^ 0.6), where x is spell activity time in seconds.</p>
+    <p><b>Multiplicative</b>: (6 + 0.6 * x ^ 0.6)%, where x is spell activity time in seconds.</p>
 	<hr>
     <p><b>S5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Leylines</p>
@@ -262,5 +263,29 @@
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mana Loom artifact and upgrade</p>
 	<p><b>Effect</b>: Multiplicatively increase Assistants based on Spell casts in this game.</p>
 	<p><b>Formula</b>: (ln(x) ^ 1.75), where x is spell casts this game.</p>
+	<hr>
+	<p><b>S10875</b> - For All Factions</p>
+	<p><b>Research Name</b>: Encompass</p>
+	<p><b>Requirement</b>: R221</p>
+	<p><b>Effect</b>: Increase Maximum Mana based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
+	<p><b>Formula</b>: +(15 * ln(1 + x) ^ 3), where x is your highest max mana this R.</p>
+	<hr>
+	<p><b>S11125</b> - For All Factions</p>
+	<p><b>Research Name</b>: Multiplication</p>
+	<p><b>Requirement</b>: R223</p>
+	<p><b>Effect</b>: Spells cast count more based on Mana Produced in this game.</p>
+	<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is mana produced this game.</p>
+	<hr>
+	<p><b>S11375</b> - For All Factions</p>
+	<p><b>Research Name</b>: Concentration</p>
+	<p><b>Requirement</b>: R225</p>
+	<p><b>Effect</b>: Increase the production of Unique buildings based on Spells cast in this game.</p>
+	<p><b>Formula</b>: (ln(1 + x) ^ 2)%, where x is spell casts this game.</p>
+	<hr>
+    <p><b>S11625</b> - For All Factions</p>
+	<p><b>Research Name</b>: Completeness</p>
+	<p><b>Requirement</b>: R227</p>
+	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Trophies you unlocked.</p>
+	<p><b>Formula</b>: (1.5 * x ^ 0.5)%, where x is the amount of Trophies you unlocked.</p>
 	<hr>
     <?php include "../scripts/footer.html"; ?>

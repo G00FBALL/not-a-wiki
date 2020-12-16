@@ -275,11 +275,11 @@
 	<p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)
 	<p><b>Cost</b>: 82.65 DQig (8.265E160)
 	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).
-  <p><b>Formula</b>: (5 * ln(x) ^ 1.5), where x is mana produced (this game).
+    <p><b>Formula</b>: (5 * ln(x) ^ 1.5), where x is mana produced (this game).
 	" coords="128,44,168,84" shape="rect">
         <area research="S215 - For All Factions
 	<p><b>Research Name</b>: Projection
-  <p><b>Hint</b>: How many of these are required for a seance?</p>
+    <p><b>Hint</b>: How many of these are required for a seance?</p>
 	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)
 	<p><b>Cost</b>: 36.16 TQig (3.616E163)
 	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.

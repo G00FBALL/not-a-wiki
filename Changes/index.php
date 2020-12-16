@@ -1196,7 +1196,7 @@
 <br/>
 <p><b>Makers Challenge 2</b> (Artificial Currency)</p>
 	<p><b>Old Challenge</b>: Get 1 Qid (1e48) Faction Coins with a minimum of 50 Excavation Resets (free and ruby) in this Reincarnation.</p>
-	<p><b>New Challenge</b>: Get 1 Qid (1e47) Faction Coins with a minimum of 50 Excavation Resets (free and ruby) in this Reincarnation.</p>
+	<p><b>New Challenge</b>: Get 100 Qad (1e47) Faction Coins with a minimum of 50 Excavation Resets (free and ruby) in this Reincarnation.</p>
 <br/>
 <p><b>Makers Challenge 3</b> (Pillars of Creation)</p>
 	<p><b>Old Challenge</b>: Have at least 1 B (1e9) Maximum Mana and 30,000 of each building within 5 minutes of a new game.</p>
@@ -1217,7 +1217,7 @@
 	<p><b>Old Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 800,000 buildings without using any research.</p>
 	<p><b>New Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 600,000 buildings without using any research.</p>
 <br/>
-<p><b>Warcry</b> (Mercenary Challegne Spell Reward)</p>
+<p><b>Warcry</b> (Mercenary Challenge Spell Reward)</p>
 	<p><b>Effect</b>: Call to Arms gains additional effects based on your alignments, scaling off your Call to Arms strength.</p>
 	<p><b>General Formula</b>: CtA = (25 + (0.3 * x ^ 0.975)), where x is building count.</p>
 <br/>
