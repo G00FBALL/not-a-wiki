@@ -21,7 +21,7 @@
 <p><b>Requirements</b>: Elves as Base Faction, Reincarnation 8+, Elf Bloodline, Elf challenge 1 completed.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Gather 60,000 automatic clicks in less than 2 hours.</p>
-<p><b>Effect</b>: Increase Holy Light power by 10%.</p>
+<p><b>Effect</b>: Autoclicks once per second.</p>
 <p><b>Upgrade</b>: Works with Angel</p>
 <p><b>Tip</b>: Buy all upgrades and auto cast Moon Blessing only. Takes about 1 hour 25 minutes.</p>
 <hr>
