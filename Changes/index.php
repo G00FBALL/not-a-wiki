@@ -1563,8 +1563,8 @@
 	<p><b>New Chance</b>: (x / 1 B [1e9])%, where x is assistant count (including temporary assistants).</p>
 <br/>
 <p><b>Third Iron Fragment</b></p>
-	<p><b>Old Chance</b>: ((log10(1 + x) - 2) ^ 3 / 1 M [1e6])%, where x is offline bonus precentage.</p>
-	<p><b>New Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus precentage.</p>
+	<p><b>Old Chance</b>: ((log10(1 + x) - 2) ^ 3 / 1 M [1e6])%, where x is offline bonus.</p>
+	<p><b>New Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus.</p>
 <br/>
 <p><b>A3 Facility Research Artifact</b> (Mana Loom, Factory, Mythos, Vault, Athanor, Battlefield, Apeiron)</p>
 	<p><b>Change</b>: Now increase research budget by 3,000 instead of 2,500 points (to match the other research system changes).</p>
