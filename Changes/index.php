@@ -864,7 +864,7 @@
         <p><b>New Formula</b>: +(100 + 0.5 * x ^ 0.5)%, where x is the amount of assistants you own.</p>
 <br/>
 <p><b>DW3</b> (Shadow Advance)</p>
-        <p><b>Old Effect</b>: Increase the production of all buildings by 750% only when you have no spells active. Also further increases offline production by the same ammount.</p>
+        <p><b>Old Effect</b>: Increase the production of all buildings by 750% only when you have no spells active. Also further increases offline production by the same amount.</p>
         <p><b>New Effect</b>: Increase the production of all buildings based on Max Mana.</p>
         <p><b>New Formula</b>: (2 * log10(1 + x) ^ 2))%, where x is your Max Mana.</p>
 <br/>
