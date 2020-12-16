@@ -993,7 +993,7 @@
 <p><b>Angel</b></p>
 <p><b>Angel Challenge 3</b> (Nephilim's Blessing)</p>
 	<p><b>Old Effect</b>: Halls of Legends benefit from any Certificate, Validation, Affirmation or Proclamation upgrade.</p>
-	<p><b>New Effect</b>: Increase the production of all Unique buildings based on your Mana regeneration. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: Increase the production of all Unique buildings based on your Mana regeneration. Does not suffer from Ascension penalties.</p>
 	<p><b>New Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your mana regen.</p>
 <br/>
 <p><b>Goblin</b></p>
@@ -1017,18 +1017,18 @@
 <p><b>Demon Challenge 1</b> (Trophy Collectors)</p>
 	<p><b>Old Effect</b>: Reduce all Heritage costs, except for the Mercenary Badge, based on the percentage of trophies unlocked.</p>
 	<p><b>Old Formula</b>: (1 - (x / y))%, where x is your current amount of unlocked trophies, y is the total amount of trophies (900 trophies for v4.0.0).</p>
-	<p><b>New Effect</b>: Increase the production of all buildings and Faction Coin find chance based on the amount of upgrades purchased. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: Increase the production of all buildings and Faction Coin find chance based on the amount of upgrades purchased. Does not suffer from Ascension penalties.</p>
 	<p><b>New Formula</b>: (x)% and +(x)%, where x is the amount of upgrades purchased.</p>
 <br/>
 <p><b>Demon Challenge 3</b> (Passage to Tartarus)</p>
 	<p><b>Old Effect</b>: Increase the production of all buildings by 0.1% per trophy you have unlocked.</p>
-	<p><b>New Effect</b>: Increase the production of Non-Unique buildings based on the amount of unlocked trophies. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: Increase the production of Non-Unique buildings based on the amount of unlocked trophies. Does not suffer from Ascension penalties.</p>
 	<p><b>New Formula</b>: (0.8 * x ^ 0.8 )%, where x is the amount of unlocked trophies.</p>
 <br/>
 <p><b>Titan</b></p>
 <p><b>Titan Challenge 2</b> (Harmony of Thoughts)</p>
 	<p><b>Old Effect</b>: Faceless' Hive Mind playtime is increased by 10% of the playtime of all other factions.</p>
-	<p><b>New Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. Does not suffer from Ascension penalties.</p>
 	<p><b>New Formula</b>: (x ^ 0.7)%, where x is time spent not playing as Faceless this R.</p>
 <br/>
 <p><b>Titan Challenge 3</b> (Balanced Economy)</p>
@@ -1038,7 +1038,7 @@
 <p><b>Titan Challenge 4</b> (Storm of Wealth)</p>
 	<p><b>Old Effect</b>: Every 5 minutes you automatically generate Faction Coins based on Lightning Strike's Faction Coins production.</p>
 	<p><b>Old Formula</b>: round(0.05 * x), where x is the amount of Faction coins generated from a single Lightning Strike.</p>
-	<p><b>New Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. Does not suffer from Ascension penalties.</p>
 	<p><b>New Formula</b>: (15 * x ^ 0.5)%, where x is Lightning Strike casts this R.</p>
 <br/>
 <p><b>Thunderstorm</b> (Titan Challenge Spell Reward)</p>
@@ -1060,7 +1060,7 @@
 <p><b>Druid Challenge 4</b> (Overflowing Magic)</p>
 	<p><b>Old Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell. Ascension penalty reduces based on time this Reincarnation.</p>
 	<p><b>Old Formula</b>: (75 * x ^ 0.75)%, where x is the duration of your longest spell.</p>
-	<p><b>New Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. Does not suffer from Ascension penalties.</p>
 	<p><b>New Formula</b>: ((7 * x ^ 0.7) * (12 - T))%, where x is the duration of your longest spell, T is building tier.</p>
 <br/>
 <p><b>Faceless</b></p>
@@ -1079,7 +1079,7 @@
 	<p><b>New Challenge</b>: Get Hive Mind bonus to at least 500%.</p>
 	<p><b>Old Effect</b>: All factions receive a bonus based on your Hive Mind bonus.</p>
 	<p><b>Old Formula</b>: (0.05 * x)%, where x is current Hive Mind bonus.</p>
-	<p><b>New Effect</b>: All factions receive 5% of your Hive Mind bonus. Does not suffers from Ascension penalties.</p>
+	<p><b>New Effect</b>: All factions receive 5% of your Hive Mind bonus. Does not suffer from Ascension penalties.</p>
 <br/>
 <p><b>Dwarven</b></p>
 <p><b>Dwarven Challenge 2</b> (Biased Architeture)</p>
