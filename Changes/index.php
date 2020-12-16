@@ -1455,12 +1455,6 @@
 	<p><b>Effect</b>: Reduce all building cost multipliers.</p>
 	<p><b>Old Effect</b>: Reduces cost multiplier by 0.02.</p>
 	<p><b>New Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
-<br/>
-<p><b>Undead Bloodline</b></p>
-	<p><b>Effect</b>: Gain additional assistants based on the amount of times you reincarnated.</p>
-	<p><b>Old Formula</b>: +(floor(8 * x ^ 0.8)), where x is the number of times you have reincarnated.</p>
-	<p><b>New Formula</b>: +(8 * x ^ 0.8), where x is the number of times you have reincarnated.</p>
-
 <hr>
 <p><b>Lineages</b></p>
 <p><b>All Lineage Perk 5 are now unlocked with level 40 instead of 45</b>.</p>
