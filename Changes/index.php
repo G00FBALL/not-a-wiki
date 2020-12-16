@@ -1944,8 +1944,10 @@
             </div>--!>
         <hr>
         <p><b>Old Patches</b></p>
-        <p><a href="http://musicfamily.org/realm/3.7Patch/" target="_blank"><b>V3.7</b></a>
-        <a href="http://musicfamily.org/realm/3.6Patch/" target="_blank"><b>V3.6</b></a>
+        <p>
+            <a href="http://musicfamily.org/realm/3.8Patch/" target="_blank"><b>V3.8</b></a>
+            <a href="http://musicfamily.org/realm/3.7Patch/" target="_blank"><b>V3.7</b></a>
+            <a href="http://musicfamily.org/realm/3.6Patch/" target="_blank"><b>V3.6</b></a>
             <a href="http://musicfamily.org/realm/3.5Patch/" target="_blank"><b>V3.5</b></a>
             <a href="http://musicfamily.org/realm/3.4Patch/" target="_blank"><b>V3.4</b></a>
             <a href="http://musicfamily.org/realm/3.3Patch/" target="_blank"><b>V3.3</b></a></p>
