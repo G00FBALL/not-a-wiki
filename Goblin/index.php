@@ -22,8 +22,8 @@
 <p>"Goblin are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 8+, Goblin Bloodline, Goblin challenge 1 completed.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
-<p><b>Challenge</b>: Buy over 250 upgrades and 17,000 buildings.</p>
-<p><b>Effect</b>: 10% of your purchased upgrades are added to your total trophy count for Hellfire Blast and Hall of Legends purposes.</p>
+<p><b>Challenge</b>: Buy over 250 upgrades and 15,000 buildings.</p>
+<p><b>Effect</b>: 25% of your purchased upgrades are added to your total trophy count for Hellfire Blast and Hall of Legends purposes.</p>
 <p><b>Upgrade</b>: Works with Demon</p>
 <hr>
 <H6 id="GoblinGC3"></h6><p><b>Goblin Challenge 3</b></p>
