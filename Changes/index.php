@@ -730,7 +730,7 @@
 <p><b>Druid</b></p>
 <p><b>DD4</b> (Earthly Bond)</p>
         <p><b>Old Effect</b>: Increase maximum mana by 2.0 for each Stone Pillars you own.</p>
-        <p><b>New Effec</b>: Increase maximum mana based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
+        <p><b>New Effect</b>: Increase maximum mana based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
         <p><b>New Formula</b>: +(2 * x), where x is the highest anount of Stone Pillars you built this R.</p>
 <br/>
 <p><b>DD5</b> (Bardic Knowledge)</p>
