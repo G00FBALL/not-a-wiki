@@ -22,7 +22,7 @@
 <p><b>Requirements</b>: Undead as Base Faction, Reincarnation 8+, Undead Bloodline, Undead challenge 1 completed.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Cast Night Time when you have over 100 assistants.</p>
-<p><b>Effect</b>: Assistant production is increased by 10%.</p>
+<p><b>Effect</b>: Assistant production is increased by 10%. Does not suffer from Ascension penalties.</p>
 <p><b>Upgrade</b>: Works with Elf</p>
 <hr>
 <H6 id="UndeadUC3"></h6><p><b>Undead Challenge 3</b></p>
