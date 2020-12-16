@@ -1035,7 +1035,7 @@
 	<p><b>Old Challenge</b>: Generate 1 B (1E9) Faction Coins with the Lightning Strike spell.</p>
 	<p><b>New Challenge</b>: Cast 80 Tax Collections within the active duration of a single Lightning Strike.</p>
 <br/>
-<p><b>Titan Challenge 4</b> (Harmony of Thoughts)</p>
+<p><b>Titan Challenge 4</b> (Storm of Wealth)</p>
 	<p><b>Old Effect</b>: Every 5 minutes you automatically generate Faction Coins based on Lightning Strike's Faction Coins production.</p>
 	<p><b>Old Formula</b>: round(0.05 * x), where x is the amount of Faction coins generated from a single Lightning Strike.</p>
 	<p><b>New Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. Does not suffers from Ascension penalties.</p>
