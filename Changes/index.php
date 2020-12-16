@@ -590,7 +590,7 @@
 <p><b>UD6</b> (Plagued Buildings)</p>
         <p><b>Old Effect</b>: Increase the production of all buildings by an additional 0.75% per second of playtime in this game.</p>
         <p><b>New Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
-        <p><b>FNew ormula</b>: (0.6 * x ^ 0.7)%, where x is time spent this game.</p>
+        <p><b>New Formula</b>: (0.6 * x ^ 0.7)%, where x is time spent this game.</p>
 <br/>
 <p><b>UD7</b> (Dead Fields)</p>
         <p><b>Old Effect</b>: Each assistant increases the production of all buildings based on the amount of Assistants and Necropolises you own.</p>
