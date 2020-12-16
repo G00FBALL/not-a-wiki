@@ -1408,8 +1408,8 @@
 <br/>
 <p><b>Alchemy</b></p>
 <p><b>E290</b> (Surveyorship)</p>
-	<p><b>Old Effect</b>: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and increases its effect by 1,000%.</p>
-	<p><b>New Effect</b>: Set Hellfire Blast duration to 4 seconds, and it will not be modified by other effects. Also reduces its mana cost by 200 and increases its effect by 1,000%.</p>
+	<p><b>Old Effect</b>: Reduces Excavation cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.175 instead of 1.2.</p>
+	<p><b>New Effect</b>: Reduces Excavation cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.18 instead of 1.2.</p>
 <br/>
 <p><b>A270</b> (Synthesis)</p>
 	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.</p>
