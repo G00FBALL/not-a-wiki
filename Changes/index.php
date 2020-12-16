@@ -746,24 +746,24 @@
 <p><b>DD7</b> (Mabinogion)</p>
         <p><b>Old Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
 	<p><b>Old Formula</b>: (3.75 * (4.25 * (12 - T)) ^ t)%, where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
-        <p><b>New Effec</b>: Increase Non-Unique buildings production based on their tier, giving the best bonus to the lowest.</p>
+        <p><b>New Effect</b>: Increase Non-Unique buildings production based on their tier, giving the best bonus to the lowest.</p>
         <p><b>New Formula</b>: (12 * 2 ^ (12 - T))%, where T is building tier.</p>
 <br/>
 <p><b>DD8</b> (Earthly Soul)</p>
         <p><b>Old Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
 	<p><b>Old Formula</b>: +(x ^ 0.25), where x is Stone Pillars.</p>
-        <p><b>New Effec</b>: Increase mana regeneration based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
+        <p><b>New Effect</b>: Increase mana regeneration based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
         <p><b>New Formula</b>: +(x ^ 0.25), where x is the highest anount of Stone Pillars you built this R.</p>
 <br/>
 <p><b>DD9</b> (Building Jungle)</p>
         <p><b>Old Effect</b>: Increase the production of each building by 1.75% per building of the same type.</p>
-        <p><b>New Effec</b>: Increase the production of each building based on the amount of buildings of the same type.</p>
+        <p><b>New Effect</b>: Increase the production of each building based on the amount of buildings of the same type.</p>
         <p><b>New Formula</b>: (1.5  * x ^ 0.9)%, where x is the amount of buildings of the same type.</p>
 <br/>
 <p><b>DD10</b> (Building Vines)</p>
         <p><b>Old Effect</b>: Increase Non-Unique building count based on the amount of Ziggurats you own.</p>
 	<p><b>Old Formula</b>: (1.5 * x ^ 0.5)%, where x is the amount of Ziggurats you own.</p>
-        <p><b>New Effec</b>: Increase spell duration based on the highest amount of Ziggurats you built in this Reincarnation.</p>
+        <p><b>New Effect</b>: Increase spell duration based on the highest amount of Ziggurats you built in this Reincarnation.</p>
         <p><b>New Formula</b>: (0.5 * x ^ 0.5)%, where x is the highest amount of Ziggurats you built this R.</p>
 <br/>
 <p><b>Faceless</b></p>
