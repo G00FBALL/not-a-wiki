@@ -728,7 +728,7 @@
 		<p><b>New Formula</b>: (x ^ 0.6)%, where x is amount of Royal Exchanges you made.</p>
 <br/>
 <p><b>Druid</b></p>
-<p><b>DD2</b> (Earthly Bond)</p>
+<p><b>DD2</b> (Animal Companions)</p>
 		<p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
         <p><b>Old Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in <b>hours</b>.</p>
         <p><b>New Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in <b>seconds</b>.</p>
