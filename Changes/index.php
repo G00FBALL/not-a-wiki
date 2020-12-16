@@ -1161,10 +1161,10 @@
 	<p><b>Old Challenge</b>: Reach 185,000 Enchanted Fields within 2 minutes of a new game.</p>
 	<p><b>New Challenge</b>: Reach 50,000 Enchanted Fields within 2 minutes of a new game.</p>
 	<p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
-	<p><b>Old Formula</b>: ((x ^ 0.4) * T * x / 10,000)%, where x is maximum mana, T is Fairy Chanting tier and t is Fairy Chanting runtime in seconds.</p>
-	<p><b>New Formula</b>: ((x ^ 0.5) * T * x / 2,000)%, where x is maximum mana, T is Fairy Chanting tier and t is Fairy Chanting runtime in seconds.</p>
+	<p><b>Old Formula</b>: ((x ^ 0.4) * T * y / 10,000)%, where x is maximum mana, T is Fairy Chanting tier and y is Fairy Chanting runtime in seconds.</p>
+	<p><b>New Formula</b>: ((x ^ 0.5) * T * y / 2,000)%, where x is maximum mana, T is Fairy Chanting tier and y is Fairy Chanting runtime in seconds.</p>
 <br/>
-<p><b>Djinn Challenge 1</b> (Ifrit Ignition)</p>
+<p><b>Djinn Challenge 2</b> (Ifrit Ignition)</p>
 	<p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
 	<p><b>Old Formula</b>: (0.78 * x ^ 0.78)%, where x is Hellfire Blast casts this game.</p>
 	<p><b>New Formula</b>: (0.8 * x ^ 0.8)%, where x is Hellfire Blast casts this game.</p>
