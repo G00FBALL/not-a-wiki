@@ -1382,8 +1382,8 @@
 	<p><b>New Effect</b>: Reduce Enchanted Fields cost multiplier. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 <br/>
 <p><b>E135</b> (Bribing)</p>
-	<p><b>Old Effect</b>: Reduce the cost multiplier for Unique Buildings. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
-	<p><b>New Effect</b>: Reduce the cost multiplier for Unique Buildings. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+	<p><b>Old Effect</b>: Reduce the cost multiplier for Unique Buildings. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+	<p><b>New Effect</b>: Reduce the cost multiplier for Unique Buildings. Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 <br/>
 <p><b>E145</b> (Royal Demand)</p>
 	<p><b>Old Requirement</b>: 5,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)</p>

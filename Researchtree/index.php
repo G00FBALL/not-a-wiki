@@ -1081,7 +1081,7 @@
 	<p><b>Hint</b>: Architectural advantage.
 	<p><b>Requirement</b>: 28,000 Total Buildings(as Goblin)
 	<p><b>Cost</b>: 296 Ocqag (2.96E149)
-	<p><b>Effect</b>: Reduce the cost multiplier for Unique Buildings. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.
+	<p><b>Effect</b>: Reduce the cost multiplier for Unique Buildings. Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.
 	" coords="338,632,378,672" shape="rect">
         <area research="E145 - For All Factions
 	<p><b>Research Name</b>: Royal Demand

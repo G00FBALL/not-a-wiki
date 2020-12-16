@@ -49,7 +49,7 @@
 	<p><b>Hint</b>: Royalties earnings.</p>
 	<p><b>Requirement</b>: 1,000 Exchanges(as Goblin)</p>
 	<p><b>Cost</b>: 318.8 Tqag (3.188E134)</p>
-	<p><b>Effect</b>: Reduce Enchanted Field cost multiplier. Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
+	<p><b>Effect</b>: Reduce Enchanted Field cost multiplier. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 	<hr>
     <p><b>E80</b> - For Good/Evil</p>
 	<p><b>Research Name</b>: Common Business</p>
@@ -64,12 +64,12 @@
 	<p><b>Hint</b>: Architectural advantage.</p>
 	<p><b>Requirement</b>: 28,000 Total Buildings(as Goblin)</p>
 	<p><b>Cost</b>: 296 Ocqag (2.96E149)</p>
-	<p><b>Effect</b>: Reduce the building cost multiplier for Unique Buildings. Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+	<p><b>Effect</b>: Reduce the building cost multiplier for Unique Buildings. Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 	<hr>
     <p><b>E145</b> - For All Factions</p>
 	<p><b>Research Name</b>: Royal Demand</p>
   <p><b>Hint</b>: Collect those taxes!</p>
-	<p><b>Requirement</b>: 5,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)</p>
+	<p><b>Requirement</b>: 50,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)</p>
 	<p><b>Cost</b>: 17.07 Noqag (1.707E151)</p>
 	<p><b>Effect</b>: Increase Tax Collection reward by 30 seconds of production.</p>
 	<hr>
@@ -129,7 +129,7 @@
 	<p><b>Hint</b>: Take an interest in archeology.</p>
 	<p><b>Requirement</b>: 7 Artifacts</p>
 	<p><b>Cost</b>: 582.7 SpQig (5.827E176)</p>
-	<p><b>Effect</b>: Reduces Excavation cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.175 instead of 1.2.</p>
+	<p><b>Effect</b>: Reduces Excavation cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.18 instead of 1.2.</p>
 	<hr>
     <p><b>E320</b> - For All Factions</p>
 	<p><b>Research Name</b>: Smuggling</p>
@@ -159,7 +159,7 @@
 	<p><b>Requirement</b>: Research Philosopher's Stone (A250) & Repurpose (E350).</p>
 	<p><b>Cost</b>: 13.66 QaSxg (1.366E196)</p>
 	<p><b>Effect</b>: Increase production bonus from Gems based on your Royal Exchange bonus.</p>
-	<p><b>Formula</b>: (0.85 * floor(x ^ 0.85))%, where x is your Royal Exchange Bonus.</p>
+	<p><b>Formula</b>: +(2.5 * floor(x ^ 0.5))%, where x is your Royal Exchange Bonus.</p>
 	<hr>
     <p><b>E410</b> - For Dwarf</p>
 	<p><b>Research Name</b>: Marketing</p>
@@ -216,7 +216,7 @@
 	<hr>
     <p><b>E1425</b> - For All Neutral Factions</p>
 	<p><b>Research Name</b>: Rarity</p>
-  <p><b>Hint</b>: Be neutral. Be different. For a short week.</p>
+    <p><b>Hint</b>: Be neutral. Be different. For a short week.</p>
 	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless, Research A545, C1300</p>
 	<p><b>Cost</b>: 131 Qivg (1.31e80)</p>
 	<p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</p>
@@ -231,7 +231,7 @@
 	<hr>
     <p><b>E3300</b> - For Mercenary</p>
 	<p><b>Research Name</b>: Estates</p>
-  <p><b>Hint</b>: 50k shades of uniqueness.</p>
+    <p><b>Hint</b>: 50k shades of uniqueness.</p>
 	<p><b>Requirement</b>: 45000 Unique buildings, (Hoarding E1225) and (Combination A2950).</p>
 	<p><b>Cost</b>: 629.2 DSxg (6.292e191)</p>
 	<p><b>Effect</b>: Gives you all the Unique Buildings of your alignment.
@@ -241,7 +241,7 @@
 	<p><b>Research Name</b>: Decentralization</p>
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Vault artifact and upgrade</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own. Lower tiers get better bonuses.</p>
-	<p><b>Formula</b>: ((6 - 0.5 * T) ^ 2 * x ^ 0.75), where T is building tier and x is the number of (every) buildings you own</p>
+	<p><b>Formula</b>: ((3 - 0.25 * T) ^ 4 * x ^ 0.6)%, where T is building tier and x is the number of (every) buildings you own.</p
 	<hr>
     <p><b>E5375</b> - For Balance</p>
 	<p><b>Research Name</b>: Whipround</p>
@@ -255,7 +255,7 @@
 	<p><b>Research Name</b>: Loan Sharking</p>
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Vault artifact and upgrade</p>
 	<p><b>Effect</b>: Tax Collection is worth more based on Gold owned.</p>
-	<p><b>Formula</b>: (log10(1 + x) ^ 1.8), where x is your current gold</p>
+	<p><b>Formula</b>: +(log10(1 + x) ^ 1.5), where x is your current amount of coins.</p>
 	<hr>
     <p><b>E5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Prosperity</p>
@@ -264,4 +264,20 @@
 	<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is your least used faction spell (This game)</p>
 	<p><b>Note</b>: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.</p>
 	<hr>
+	<p><b>E10875</b> - Rigmarole</p>
+	<p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of assistants you had in this Reincarnation (Additive).</p>
+	<p><b>Formula</b>: +(ln(1 + x) ^ 2)%, where x is your highest assistants count this R.</p>
+	<hr>
+	<p><b>E11125</b> - Grey Friday</p>
+	<p><b>Effect</b>: Reduce building cost multiplier.</p>
+	<p><b>Formula</b>: -0.02, with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+	<hr>
+	<p><b>E11375</b> - Heist</p>
+	<p><b>Effect</b>: Increase production bonus of Gems based on the amount of assistants you have (Additive).</p>
+	<p><b>Formula</b>: +(2 * ln(1 + x) ^ 2)%, where x is the amount of assistants you have.</p>
+	<hr>
+	<p><b>E11625</b> - Surplus</p>
+	<p><b>Effect</b>: Multiplicatively increase assistants based on the amount of Gems you have.</p>
+	<p><b>Formula</b>: (25 + 0.25 * ln(1 + x) ^ 1.5)%, where x is the amount of Gems you have.</p>
+	<hr>	
         <?php include "../scripts/footer.html"; ?>
