@@ -961,7 +961,7 @@
 	<p><b>Duration reduced</b>: Now fixed at 20 seconds.</p>
         <p><b>Effect</b>: Increases the production of all buildings based on this spell tier level.</p>
 	<p><b>Old Formula</b>: (((2.20 ^ T) - 1) * 100)%, where T is tier.</p>	
-	<p><b>New Formula</b>: ((((1 + 0.01 * (120 + 1.25 * ln(1 + 90 + t) ^ 1.25)) ^ T) - 1) * 100)%, where t is how many seconds your Tax Collection is worth T is tier.</p>
+	<p><b>New Formula</b>: ((((1 + 0.01 * (120 + 1.25 * ln(1 + 90 + x) ^ 1.25)) ^ T) - 1) * 100)%, where x is tax collection seconds and T is the Share Benefits tier.</p>
         <p><b>New Effect</b>: Now drains an amount of mana equal to its current cost every second</p>
 <br/>
 <p><b>Reap Interests</b> (Evil Mercenaries)</p>
@@ -986,8 +986,8 @@
 	<p><b>New Formula</b>: ((m + r) ^ (1 + 0.05 * T))%, where m is Maximum Mana, r is Mana Regeneration, T is tier.</p>
 <br/>
 <p><b>Lightning Storm</b> (Titans Spell Upgrade)</p>
-	<p><b>Old Effect</b>: Increase Lightning Strike multiplier from 300% to 400% per Iron Strongholds.</p>
-	<p><b>New Effect</b>: Increase Lightning Strike multiplier from 500% to 750% per Iron Strongholds.</p>
+	<p><b>Old Effect</b>: Increase Lightning Strike multiplier from 300% to 400% per Iron Stronghold.</p>
+	<p><b>New Effect</b>: Increase Lightning Strike multiplier from 500% to 750% per Iron Stronghold.</p>
 <hr>
 <p><b>Challenges</b></p>
 <p><b>Elven</b></p>
@@ -1123,7 +1123,7 @@
 <br/>
 <p><b>Drow Challenge 4</b> (Trained Assassins)</p>
 	<p><b>Old Challenge</b>: Cast Call to Arms with at least 35,000 buildings.</p>
-	<p><b>New Challenge</b>: Cast Call to Arms with at least 30,000 buildings..</p>
+	<p><b>New Challenge</b>: Cast Call to Arms with at least 30,000 buildings.</p>
 <br/>
 <p><b>Dragon</b></p>
 <p><b>Dragon Challenge 1</b> (Sky Monarch)</p>
