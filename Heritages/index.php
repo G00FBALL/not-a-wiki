@@ -23,7 +23,7 @@
 <p><b>Cost</b>: 5000 Elven Coins</p>
 <p><b>Requirements</b>: Elven Champion Trophy</p>
 <p><b>Effect</b>: Increase your chance to find Faction Coins by 5% and increase your click reward based on your chance to find Faction Coins.</p>
-<p><b>Formula</b>: (x / 2)%, where x is your chance to find faction coins.</p>
+<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your chance to find faction coins.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
 <p><b>Cost</b>: 5000 Angel Coins</p>
