@@ -1552,7 +1552,7 @@
 <br/>
 <p><b>Spiked Whip</b></p>
 	<p><b>Old Chance</b>: ((x - 10,000) / 300,000)%, where x is Slave Pens built (Building count multipliers do NOT count).</p>
-	<p><b>New Chance</b>: ((x - 8,000) / 300,000)%, where x is Slvae Pens built (Building count multipliers do NOT count).</p>
+	<p><b>New Chance</b>: ((x - 8,000) / 300,000)%, where x is Slave Pens built (Building count multipliers do NOT count).</p>
 <br/>
 <p><b>Crystallized Lava</b></p>
 	<p><b>Old Chance</b>: ((x - 10,000) / 200,000)%, where x is Hall of Legends built (Building count multipliers do NOT count).</p>
