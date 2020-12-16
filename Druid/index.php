@@ -9,8 +9,8 @@
 <p>"The ancient druids request evidence that you are a servant of balance before your inclusion to their ranks."</p>
 <p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 <p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
-<p><b>Effect</b>: Animal Companions (1,2) works faster</p>
-<p><b>Formula</b>: Changes the 1.75 in DD2 to 6 or DD2 = (3 + 6 * x ^ 0.5 )</p>
+<p><b>Effect</b>: Gain assistants based on time spent in this game.</p>
+<p><b>Formula</b>: +(0.7 * x ^ 0.7), where x is time spent this game.</p>
 <p><b>Upgrade</b>: Works with Druid</p>
 <p><b>Tips</b>
 <p>Buy the building upgrades of the amount before the arrow, then continue building without purchasing new building upgrades towards the amount after the arrow.</p>
@@ -32,7 +32,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/BalancedCurrentChallenges.png" alt="Balanced Current" align="middle"> <b>Balanced Current</b></p>
 <p>"Our sorcerers are desperately trying to stabilize the balance of the realm, this is your opportunity to gain their favor - and live another day."</p>
 <p><b> Requirements</b>: Druid as Base Faction, Reincarnation 9+, Druid Bloodline, Elf and Demon challenge 2 and Druid challenge 1 completed.</p>
-<p><b>Challenge</b>: Have exactly 1600 of each building types, for 16 full Grand Balance casts. (The 16 casts only counts after you have all the 1600 buildings.)</p>
+<p><b>Challenge</b>: Have exactly 1,500 of each building types for 15 full Grand Balance casts in this game. (The 15 casts only counts after you have all the 1500 buildings.)</p>
 <p><b>Effect</b>: Mana regeneration is increased by 1% for every 5000 buildings.</p>
 <p><b>Upgrade</b>: Works with Titan</p>
 <hr>
@@ -53,9 +53,8 @@
 <p>"The Druids need more spell power, but they are worried about outside influences throwing off their balance."</p>
 <p><b>Requirements</b>: Druid as Base Faction, Reincarnation 25+, Druid Unique Building, Druid challenge 3 completed.</p>
 <p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
-<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell. Ascension penalty reduces based on time this Reincarnation.</p>
-<p><b>Formula</b>: (75 * x ^ 0.75), where x is the duration of your longest spell.</b>
-<p><b>Ascension Penalty Reduction Formula</b>: (floor(log3(x / 28800 + 1)), where x is time this reincarnation in seconds. (16 hours for -1, 2 days 16 hours for -2, 8 days 16 hours for -3)</p>
+<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. Does not suffers from Ascension penalties.</p>
+<p><b>Formula</b>: ((7 * x ^ 0.7) * (12 - T))%, where x is the duration of your longest spell, T is building tier.</b></p>
 <p><b>Upgrade</b>: Works with All</b>
 <p><b>Tips</b>: Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>
 <hr>
