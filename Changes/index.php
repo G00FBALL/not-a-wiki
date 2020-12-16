@@ -710,17 +710,17 @@
         <p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 <br/>
 <p><b>TT9</b> (Titan Obelisk)</p>
-	<p><b>New Name</b>: Oversized Legends</p>
+		<p><b>New Name</b>: Oversized Legends</p>
         <p><b>Old Effect</b>: Increase the production of all other buildings by 2.25% per Ancient Pyramid you own.</p>
         <p><b>New Effect</b>: Reduce Hall of Legends building cost multiplier, and increase assistants production based on the amount of Hall of Legends you own.</p>
-	<p><b>New Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends you own</p>
+		<p><b>New Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends you own</p>
         <p><b>New Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 <br/>
 <p><b>TT10</b> (Giant Market)</p>
-        <p><b>Old Effect</b>: Increase Royal Exchanges count based on the amount of Mountain Palaces you own.</p>
-	<p><b>Old Formula</b>: (1.25 * x ^ 0.725)%, where x is amount of Mountain Palaces owned.</p>
-        <p><b>New Effect</b>: Increase Royal Exchanges count based on the highest amount of Mountain Palaces you built in this Reincarnation.</p>
-	<p><b>New Formula</b>: (x ^ 0.7)%, where x is the highest amount of Mountain Palaces you built this R</p>
+        <p><b>Old Effect</b>: Increase Royal Exchange count based on the amount of Mountain Palaces you own.</p>
+		<p><b>Old Formula</b>: (1.25 * x ^ 0.725)%, where x is amount of Mountain Palaces owned.</p>
+        <p><b>New Effect</b>: Increase Royal Exchange count based on the highest amount of Mountain Palaces you built in this Reincarnation.</p>
+		<p><b>New Formula</b>: (x ^ 0.7)%, where x is the highest amount of Mountain Palaces you built this R</p>
 <br/>
 <p><b>TT11</b> (Titanic Authority)</p>
         <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
@@ -741,17 +741,17 @@
 <p><b>DD5</b> (Bardic Knowledge)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
         <p><b>Old Formula</b>: (1.75 * x ^ 0.9)%, where x is your maximum mana.</p>
-	<p><b>New Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum mana.</p>
+		<p><b>New Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum mana.</p>
 <br/>
 <p><b>DD7</b> (Mabinogion)</p>
         <p><b>Old Effect</b>: Buildings affected by Grand Balance receive an additional bonus based on their tier, giving the best bonus to the lowest.</p>
-	<p><b>Old Formula</b>: (3.75 * (4.25 * (12 - T)) ^ t)%, where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
+		<p><b>Old Formula</b>: (3.75 * (4.25 * (12 - T)) ^ t)%, where T is building tier and t is Grand Balance tier (1 if tiers not unlocked).</p>
         <p><b>New Effect</b>: Increase Non-Unique buildings production based on their tier, giving the best bonus to the lowest.</p>
         <p><b>New Formula</b>: (12 * 2 ^ (12 - T))%, where T is building tier.</p>
 <br/>
 <p><b>DD8</b> (Earthly Soul)</p>
         <p><b>Old Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
-	<p><b>Old Formula</b>: +(x ^ 0.25), where x is Stone Pillars.</p>
+		<p><b>Old Formula</b>: +(x ^ 0.25), where x is Stone Pillars.</p>
         <p><b>New Effect</b>: Increase mana regeneration based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
         <p><b>New Formula</b>: +(x ^ 0.25), where x is the highest anount of Stone Pillars you built this R.</p>
 <br/>

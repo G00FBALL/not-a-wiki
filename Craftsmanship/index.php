@@ -115,7 +115,7 @@
 	<p><b>Requirement</b>: Secrets of the Ancients (as Titan)</p>
 	<p><b>Cost</b>: 79.05 QiQig (79.05E168)</p>
 	<p><b>Effect</b>: Increase the production of Olympian Halls based on the amount of buildings you own.</p>
-	<p><b>Formula</b>: round(0.5 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.</p>
 	<hr>
     <p><b>C300</b> - For Druid</p>
 	<p><b>Research Name</b>: Weighting</p>
@@ -268,5 +268,30 @@
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Factory artifact and upgrade</p>
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on lowest Lineage level.</p>
 	<p><b>Formula</b>: (50 + 1.5 * x ^ 0.95), where x is the lowest lineage.</p>
+	<hr>
+	<p><b>C10875</b> - For All Factions</p>
+	<p><b>Research Name</b>: Masterpiece</p>
+	<p><b>Requirement</b>: R221</p>
+	<p><b>Effect</b>: Increase Faction Coin find chance based on Excavation Resets made in this Reincarnation (Multiplicative).</p>
+	<p><b>Formula</b>: (2 * x ^ 2)%, where x is excavation resets this R.</p>
+	<hr>
+	<p><b>C11125</b> - For All Factions</p>
+	<p><b>Research Name</b>: Installation</p>
+	<p><b>Requirement</b>: R223</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on their quantity.</p>
+	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is total amount of buildings.</p>
+	<hr>
+	<p><b>C11375</b> - For All Factions</p>
+	<p><b>Research Name</b>: Exhibition</p>
+	<p><b>Requirement</b>: R225</p>
+	<p><b>Effect</b>: Trophies count more based on the amount of buildings you own.</p>
+	<p><b>Formula</b>: (x ^ 0.5)%, where x is total amount of buildings.</p>
+	<hr>
+	<p><b>C11625</b> - For All Factions</p>
+	<p><b>Research Name</b>: Motus Perpetuum</p>
+	<p><b>Requirement</b>: R227</p>
+	<p><b>Effect</b>: Autoclicks x times per second based on Clicks made in this Reincarnation.</p>
+	<p><b>Formula</b>: x = floor(ln(1 + y)), where y is productive clicks this R.</p>
+	<p><b>Effect</b>: Also generates the same amount of clicks while offline.</p>
 	<hr>
         <?php include "../scripts/footer.html"; ?>
