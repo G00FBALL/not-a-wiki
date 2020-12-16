@@ -848,7 +848,7 @@
 	"<p><b>Mercenary Challenge 5</b></p>
 	<p><b><img src=http://musicfamily.org/realm/Factions/picks/TheArtofWar.png align=middle> The Art of War</b></p>
 	<p>An expert Mercenary should learn by other cultures. That has been our call for generations. Now, it is your turn to answer that call.</p>
-	<p><b>Requirements</b>: R206, Any Mercenary, 18.000 Royal Exchanges made in this game, True Harlequin build.</p>
+	<p><b>Requirements</b>: R206, Any Mercenary, 18,000 Royal Exchanges made in this game, True Harlequin build.</p>
 	<p><b>Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 600,000 buildings without using any research.</p>
 	<p><b>Effect</b>: Unique Buildings that match your Lineage and Set factions or their FC affinity have their production increased based on the amount of time spent with each of those factions.</p>
 	<p><b>Formula</b>: (x ^ 0.7) where x is time spent with said faction in seconds.</p>
