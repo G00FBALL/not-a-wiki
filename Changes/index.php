@@ -949,7 +949,7 @@
 	<p><b>New Effect</b>: The production of a random building is multiplied by 500% for each Iron Stronghold.</p>
 	<p><b>Old Effect</b>: Also grants Faction Coins based on your current amount of gems.<p>
 	<p><b>Old Formula</b>: round(1.5 * ln(1 + x) ^ 3) where x is your current amount of gems.</p>	
-	<p><b>New Effect</b>: Also multiplicatively increase Faction Coins based on your current amount of gems.</p>		
+	<p><b>New Effect</b>: Also multiplicatively increase Faction Coins find chance based on your current amount of gems.</p>		
 	<p><b>New Formula</b>: (10 + log10(1 + x) ^ 2) where x is your current amount of gems.</p>
 <br/>
 <p><b>Share Benefits</b> (Good Mercenaries)</p>
@@ -1407,9 +1407,6 @@
 	<p><b>New Formula</b>: +(log10(1 + x) ^ 1.5), where x is your current amount of coins.</p>
 <br/>
 <p><b>Alchemy</b></p>
-<p><b>E290</b> (Surveyorship)</p>
-	<p><b>Old Effect</b>: Reduces Excavation cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.175 instead of 1.2.</p>
-	<p><b>New Effect</b>: Reduces Excavation cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.18 instead of 1.2.</p>
 <br/>
 <p><b>A270</b> (Synthesis)</p>
 	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.</p>
