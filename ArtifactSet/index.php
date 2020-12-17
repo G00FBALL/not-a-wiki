@@ -28,6 +28,7 @@
 			<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
 			<p><b>Note</b>: NOT affected by any 'clicks count more' effects.</p>
 			" coords="82,22,129,70" shape="rect">
+			<area href="#Angel" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/AngelSet.png' align='middle'><b> Angel Set</b></p>
 			<p><b>Requirement</b>: R100+, Pillar Fragment, Divine Sword, Fossilized Wing</p>
 			<p><b>Effect</b>: Additively increase Mana Regeneration based on highest amount of spells cast in a single game.</p>
