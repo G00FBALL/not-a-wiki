@@ -869,8 +869,8 @@
 <br/>
 <p><b>DW6</b> (Blackmail)</p>
         <p><b>Effect</b>: Reduce the cost multiplier for Royal Exchanges.</p>
-        <p><b>Old Effect</b>: Reduces cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.075 instead of 1.1.</p>
-        <p><b>New Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.08 instead of 1.1.</p>
+        <p><b>Old Effect</b>: Reduces Royal Exchange cost multiplier by 0.025; with no other reductions applying, the multiplier will be 1.075 instead of 1.1.</p>
+        <p><b>New Effect</b>: Reduces Royal Exchange cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.08 instead of 1.1.</p>
 <br/>
 <p><b>DW7</b> (Spider Gods)</p>
         <p><b>Old Effect</b>: Increase the production of Dark Temples by 8% for each other building you own.</p>
@@ -899,7 +899,7 @@
 <br/>
 <p><b>DG12</b> (Draconic Supremacy)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
-	<p><b>Old Formula</b>: (0.6 * x ^ 0.45)%, where x is your maximum mana.</p>
+		<p><b>Old Formula</b>: (0.6 * x ^ 0.45)%, where x is your maximum mana.</p>
         <p><b>New Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum mana.</p>
 <br/>
 <p><b>Djinn</b></p>
@@ -910,8 +910,8 @@
 <br/>
 <p><b>DJ10</b> (Wishes Come True)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Limited Wish activity time in this Reincarnation.</p>
-	<p><b>Old Formula</b>: (0.35 * x ^ 0.75)%, where x is Limited Wish activity time this R.</p>
-        <p><b>New Formula</b>: (0.3 * x ^ 0.7)%, where x is Limited Wish activity time this R.</p>
+	<p><b>Old Formula</b>: (0.35 * x ^ 0.75)%, where x is Limited Wish activity time this Reincarnation.</p>
+        <p><b>New Formula</b>: (0.3 * x ^ 0.7)%, where x is Limited Wish activity time this Reincarnation.</p>
 <br/>
 <p><b>Makers</b></p>
 <p><b>MK6</b> (Art of Commerce)</p>

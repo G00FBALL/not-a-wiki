@@ -185,13 +185,14 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" align="middle"> Dwarven Ale</b></p>
                 <p><b>Mercenary Template</b>: DN1</p>
                 <p><b>Cost</b>: 5 Qad (5E45)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by 0.8% per Inn you own.</p>
+                <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Blacksmiths you own (Additive).</p>
+				<p><b>Formula</b>: +(2 * x ^ 0.5)%, where x is the amount of Blacksmiths you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" align="middle"> Expert Masonry</b></p>
                 <p><b>Mercenary Template</b>: DN2</p>
                 <p><b>Cost</b>: 50 Qad (5E46)</p>
                 <p><b>Effect</b>: Reduce all building cost multipliers.</p>
-                <p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+                <p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
                 <p><b>Mercenary Template</b>: DN3</p>
@@ -210,13 +211,13 @@
                 <p><b>Mercenary Template</b>: DW2</p>
                 <p><b>Cost</b>: 50 Qad (5E46)</p>
                 <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: (100 * x ^ 0.5), where x is your Assistants stat.</p>
+                <p><b>Formula</b>: +(100 + 0.5 * x ^ 0.5)%, where x is the amount of assistants you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" align="middle"> Shadow Advance</b></p>
                 <p><b>Mercenary Template</b>: DW3</p>
                 <p><b>Cost</b>: 500 Qad (5E47)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by 750% only when you have no spells active.</p>
-                <p><b>Effect</b>: increases offline production directly by 750%</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on Max Mana.</p>
+				<p><b>Formula</b>: (2 * log10(1 + x) ^ 2))%, where x is your Max Mana.</p>
                 <hr>
                 <h6>Dragon</h6>
                 <p><b>Note</b>: Only 1 Dragon Upgrade per Mercenary tier.</p>
@@ -470,8 +471,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" align="middle"> Underground Citadels</b></p>
                 <p><b>Mercenary Template</b>: DN4</p>
                 <p><b>Cost</b>: 50 Qid (5E49)</p>
-                <p><b>Effect</b>: Increase the production of Citadels based on the gems you own.</p>
-                <p><b>Formula</b>: round(210 * log10(x) ^ 1.5)%, where x is your current number of gems.</p>
+                <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Gems you own.</p>
+				<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is the amount of Gems you own.</p
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
                 <p><b>Mercenary Template</b>: DN5</p>
@@ -483,7 +484,7 @@
                 <p><b>Mercenary Template</b>: DN6</p>
                 <p><b>Cost</b>: 5 Sxd (5E51)</p>
                 <p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
-                <p><b>Formula</b>: (0.03 * x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
+                <p><b>Formula</b>: (x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
                 <hr>
                 <h6>Drow</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" align="middle"> Mana Addicts</b></p>
@@ -495,13 +496,13 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" align="middle"> Blood Sacrifices</b></p>
                 <p><b>Mercenary Template</b>: DW5</p>
                 <p><b>Cost</b>: 500 Qid (5E50)</p>
-                <p><b>Effect</b>: Increase the production of all buildings by 3% per Dark Temple you own.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Dark Temples you built in this Reincarnation.</p>
+				<p><b>Formula</b>: (3 * x)%, where x is the highest amount of Dark Temples you built this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png" align="middle"> Blackmail</b></p>
                 <p><b>Mercenary Template</b>: DW6</p>
                 <p><b>Cost</b>: 5 Sxd (5E51)</p>
-                <p><b>Effect</b>: Reduce the cost multiplier for Royal Exchanges.</p>
-                <p><b>Formula</b>: Reduces cost multiplier to 1.075 from 1.1.</p>
+                <p><b>Effect</b>: Reduces Royal Exchange cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.08 instead of 1.1.</p>
                 <hr>
                 <h6>Dragon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png" align="middle"> Dragonborn</b></p>
@@ -577,7 +578,7 @@
                 <p><b>Mercenary Template</b>: MK6</p>
                 <p><b>Cost</b>: 10 DQig (1e160)</p>
                 <p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on their quantity.</p>
-                <p><b>Formula</b>: (0.2 * x ^ 0.65), where x is Royal Exchange quantity.</p>
+                <p><b>Formula</b>: (0.2 * x ^ 0.6)%, where x is Royal Exchanges made.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -758,26 +759,27 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
                 <p><b>Mercenary Template</b>: DN8</p>
                 <p><b>Cost</b>: 5 Spd (5E54)</p>
-                <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration rate.</p>
-                <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
+                <p><b>Effect</b>: Reduce Excavation cost multiplier.</p>
+				<p><b>Formula</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.18 instead of 1.2.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
                 <p><b>Mercenary Template</b>: DN9</p>
                 <p><b>Cost</b>: 50 Spd (5E55)</p>
-                <p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
-                <p><b>Formula</b>: (500 + 35 * x ^ 0.35), where x is the duration of your longest spell.</p>
+                <p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell (Additive).</p>
+				<p><b>Formula</b>: +(50 + 35 * x ^ 0.7), where x is the duration of your longest spell.</p>
                 <hr>
                 <h6>Drow</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" align="middle"> Spider Gods</b></p>
                 <p><b>Mercenary Template</b>: DW7</p>
                 <p><b>Cost</b>: 500 Sxd (5E53)</p>
-                <p><b>Effect</b>: Increase the production of Dark Temples by 8% for each other building you own.</p>
+                <p><b>Effect</b>: Mutiplicatively increase assistants based on the amount of buildings you own.</p>
+				<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of buildings you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" align="middle"> Professional Assassins</b></p>
                 <p><b>Mercenary Template</b>: DW8</p>
                 <p><b>Cost</b>: 5 Spd (5E54)</p>
-                <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased.</p>
-                <p><b>Formula</b>: round(9 * x * 0.9)%, where x is your Royal Exchanges Made stat.</p>
+                <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of Royal Exchanges you made.</p>
+				<p><b>Formula</b>: (0.6 * x ^ 0.6)%, where x is Royal Exchanges made.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
                 <p><b>Mercenary Template</b>: DW9</p>
@@ -828,7 +830,7 @@
                 <p><b>Mercenary Template</b>: DJ7</p>
                 <p><b>Cost</b>: 10 TQig (1e163)</p>
                 <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-                <p><b>Formula</b>: (0.05 * x ^ 0.35), where x is assistants owned.</p>
+                <p><b>Formula</b>: (0.03 * x ^ 0.3)%, where x is the amount of assistants you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
                 <p><b>Mercenary Template</b>: DJ8</p>
@@ -1079,8 +1081,8 @@
                 <p><b>Mercenary Template</b>: DN10</p>
                 <p><b>Requirement</b>: R116+, Dwarven Union</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of High Bastion you own.</p>
-                <p><b>Formula</b>: (1.6 * x ^ 0.6), where x is High Bastion.</p>
+                <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the highest amount of High Bastions you built in this Reincarnation.</p>
+                <p><b>Formula</b>: (1.6 * x ^ 0.6), where x is the highest amount of High Bastions you built in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"> Stonetalking</b></p>
                 <p><b>Mercenary Template</b>: DN11</p>
@@ -1101,8 +1103,8 @@
                 <p><b>Mercenary Template</b>: DW10</p>
                 <p><b>Requirement</b>: R116+, Drow Union</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Effect</b>:Increase Royal Exchange bonus based on Brothel amount.</p>
-                <p><b>Formula</b>: (1.75 * x ^ 0.75), where x is Brothels.</p>
+                <p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of Brothels you built in this Reincarnation (Additive).</p>
+                <p><b>Formula</b>: (1.75 * x ^ 0.75), where x is the highest amount of Brothels you built in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"> Ancillae Obscure</b></p>
                 <p><b>Mercenary Template</b>: DW11</p>
@@ -1116,15 +1118,15 @@
                 <p><b>Requirement</b>: R116+, Drow Union</p>
                 <p><b>Cost</b>: 1 Notg (1e120)</p>
                 <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-                <p><b>Formula</b>: (0.5 * (log10(x) ^ 1.5), where x is amount of current gems.</p>
+                <p><b>Formula</b>: (1.75 * log10(1 + x) ^ 1.75)%, where x is your current amount of gems.</p>
                 <hr>
                 <h6>Dragon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"> Fang Food</b></p>
                 <p><b>Mercenary Template</b>: DG10</p>
                 <p><b>Requirement</b>: R116+, Dragon Union</p>
                 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-                <p><b>Effect</b>: Increase mana regeneration based on the amount of Dragon Pastures you own.</p>
-                <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is Dragon Pastures you own.</p>
+                <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Dragon Pastures you built in this Reincarnation.</p>
+                <p><b>Formula</b>: (0.65 * x ^ 0.65)%, where x is the highest amount of Dragon Pastures you built in this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"> Wyrm's Rest</b></p>
                 <p><b>Mercenary Template</b>: DG11</p>
@@ -1138,7 +1140,7 @@
                 <p><b>Requirement</b>: R116+, Dragon Union</p>
                 <p><b>Cost</b>: 1 Notg (1e120)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on your max mana.</p>
-                <p><b>Formula</b>: (0.6 * x ^ 0.45), where x is max mana.</p>
+                <p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum mana.</p>
                 <hr>
                 <h6>Archon</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>
@@ -1166,7 +1168,7 @@
                 <p><b>Requirement</b>: R130+, Djinn Union</p>
                 <p><b>Cost</b>: 100 QiQig (1e170)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on Limited Wish activity time in this Reincarnation.</p>
-                <p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
+                <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is Limited Wish activity time this Reincarnation.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>
                 <p><b>Mercenary Template</b>: DJ11</p>
@@ -1188,7 +1190,7 @@
                 <p><b>Requirement</b>: R130+, Makers Union</p>
                 <p><b>Cost</b>: 100 QiQig (1e170)</p>
                 <p><b>Effect</b>: Artifacts count more based on time spent in this Reincarnation.</p>
-                <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is time spent this Reincarnation.(in seconds)</p>
+                <p><b>Formula</b>: (0.4 * x ^ 0.4)%, where x is time spent this R in seconds.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BedrockFoundations.png" align="middle"> Bedrock Foundations</b></p>
                 <p><b>Mercenary Template</b>: MK11</p>
