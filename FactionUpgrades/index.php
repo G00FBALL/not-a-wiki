@@ -28,7 +28,7 @@
                 <p><b>Mercenary Template</b>: FR3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
                 <p><b>Effect</b>: Increases maximum mana based on the amount of good buildings you own.</p>
-				<p><b>New Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of good buildings you own.</p>
+				<p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of good buildings you own.</p>
                 <hr>
                 <h6>Elf</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenMintFactionUpgrade.png" align="middle"> Elven Mint</b></p>
@@ -148,7 +148,7 @@
                 <p><b>Mercenary Template</b>: DD1</p>
                 <p><b>Cost</b>: 500 Qi (5E20)</p>
                 <p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
-                <p><b>Formula</b>: (4000 * (12 - T))%, where T is building tier.p>
+                <p><b>Formula</b>: (4000 * (12 - T))%, where T is building tier.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
                 <p><b>Mercenary Template</b>: DD2</p>
@@ -304,8 +304,8 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png" align="middle"> Fairy Cuisine</b></p>
                 <p><b>Mercenary Template</b>: FR4</p>
                 <p><b>Cost</b>: 500 B (5E11)</p>
-                <p><b>New Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
-				<p><b>New Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+                <p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
+				<p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png" align="middle"> Golden Pots</b></p>
                 <p><b>Mercenary Template</b>: FR5</p>
