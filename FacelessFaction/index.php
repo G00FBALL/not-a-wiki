@@ -54,19 +54,20 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" alt="Smiley face" align="middle"> Territorial Expanse</b></p>
         <p><b>Cost</b>: 500 Qi (5E20)</p>
-        <p><b>Effect</b>: Labyrinth production is increased by 5000% per assistant you own.</p>
+        <p><b>Effect</b>: Increase the production of Labyrinths/Cathedrals/Necropolis'(based on your Alignment) based on the amount of assistants you own.</p>
+	<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5), where x is amount of assistants. (Can adjust to alignment)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" alt="Smiley face" align="middle"> Evolutive Mutation</b></p>
         <p><b>Cost</b>: 5 Sx (5E21)</p>
-        <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Labyrinths you own. </p>
+        <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Labyrinths you built in this Reincarnation. </p>
         <p><b>Formula</b>: floor(3 * x ^ 0.6), where x is the number of Labyrinths you own.</p>
         <p><b>Effect</b>: With Dragon Challenge 3 (<b>Serpent Queller</b>) Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
         <p><b>Formula</b>: floor(3 * x ^ 0.65)%, where x is your amount of Labyrinths.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" alt="Smiley face" align="middle"> Deep Memory</b></p>
         <p><b>Cost</b>: 50 Sx (5E22)</p>
-        <p><b>Effect</b>: Increases production based on the time of your longest game session this R. (Under Metagame, Longest Session in the Stats)</p>
-        <p><b>Formula</b>: floor(35 * x ^ 0.85), where x is your Playtime (Longest Session) stat in hours.</p>
+        <p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation. (Under Metagame, Longest Session in the Stats)</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is your Playtime (Longest Session) stat in hours.</p>
         <p><b>Formula</b>: floor(35 * x ^ 1.085) with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.</p>
         <p><b>Note</b>: Dragon Challenge 3 removes the Ascension 1 penalty</p>
         <hr>
@@ -77,7 +78,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" alt="Smiley face" align="middle"> Gold Synthesis</b></p>
         <p><b>Cost</b>: 5 Sp (5E24)</p>
-        <p><b>Effect</b>: Increases the production of all buildings by 1.5% per Alchemist Lab you own.</p>
+        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of gold owned.</p>
+	<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)% where x is amount of gold owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" alt="Smiley face" align="middle"> Mitosis</b></p>
         <p><b>Cost</b>: 50 Sp (5E25)</p>
@@ -97,16 +99,17 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalTreasureFactionUpgrade.png" alt="Smiley face" align="middle"> Magical Treasure</b></p>
         <p><b>Cost</b>: 50 Oc (5E28)</p>
         <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-        <p><b>Formula</b>: 0.75 * x ^ 0.75, where x is the amount of assistants you own.</p>
+        <p><b>Formula</b>: (2.5 * x  ^ 0.5), where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" alt="Smiley face" align="middle"> Abominations</b></p>
         <p><b>Cost</b>: 500 Oc (5E29)</p>
-        <p><b>Effect</b>: Increase the production of assistants by 300% per active spell.</p>
+        <p><b>Effect</b>: Increase the production of assistants based on the amount of active spells.</p>
+	<p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png" alt="Smiley face" align="middle"> Hive Mind</b></p>
         <p><b>Cost</b>: 5 No (5E30)</p>
         <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
-        <p><b>Formula</b>: 0.1 * x ^ 0.75, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
+        <p><b>Formula</b>: (x ^ 0.5)%, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessHeritage.png" alt="Faceless Heritage" align="middle"><b> Faceless Heritage</b></p>
         <p><b>Requirements</b>: Faceless Champion Trophy</p>
@@ -174,7 +177,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
         <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
         <p><b>Effect</b>: Increase production based on spells cast.</p>
-        <p><b>Formula</b>: (15 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast.</p>
+        <p><b>Formula</b>: (18 * (ln(1 + x) / (ln(x % 10 + 2))) ^ 1.8), where x is spells cast.</p>
         <p><b>Effect</b>: Grants access to Faction Union.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
@@ -182,24 +185,24 @@
         <p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
-        <p><b>Formula</b>: (60 * x ^ 0.6), where x is random faction all time in seconds.</p>
+        <p><b>Formula</b>: (65 * x ^ 0.5), where x is random faction all time in seconds.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
         <p><b>Requirement</b>: Faceless Union</p>
         <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
-        <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time and resets every 15 minutes.</p>
-        <p><b>Formula</b>: (Y % 900) / 60 * X ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
+        <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Forbidden Libraries you built in this Reincarnation. Grows over time and resets every 15 minutes.</p>
+        <p><b>Formula</b>: (0.8 * ((y % 900) / 60) * x ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
         <p><b>Requirement</b>: Faceless Union</p>
         <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
         <p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
-        <p><b>Formula</b>: (x ^ 1.1), where x is Reincarnations made.</p>
+        <p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is Reincarnations made.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DimensionDoor.png" alt="Dimension Door" align="middle"> <b>Dimension Door</b></p>
         <p><b>Requirement</b>: Faceless Union</p>
         <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-        <p><b>Effect</b>: Increase Unique Building production based on highest max mana this reincarnation.</p>
-        <p><b>Formula</b>: (0.1 * x ^ 0.65), where x is highest max mana this R.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
+        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest max mana this R.</p>
         <?php include "../scripts/footer.html"; ?>
