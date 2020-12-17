@@ -681,7 +681,7 @@
 <br/>
 <p><b>TT4</b> (Titan Drill)</p>
         <p><b>Old Effect</b>: Increases the production of Deep Mines by 250,000%</p>
-        <p><b>New Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635 and Cathedrals / Dark Temples / Monasteries by +98000 (adjust to your alignment).</p>
+        <p><b>New Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635 and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment).</p>
 <br/>
 <p><b>TT5</b> (Charged Structures)</p>
         <p><b>Old Effect</b>: Whenever you cast a spell, your production is increased by 250% for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
@@ -697,26 +697,24 @@
 <p><b>TT7</b> (Titan Sized Walls)</p>
 	<p><b>New Name</b>: Cyclopean Strength</p>
         <p><b>Old Effect</b>: Increases the production of Monasteries by 25,000%.</p>
-        <p><b>New Effect</b>: Assistants count 200% more and increase their production by the same amount.</p>
-        <p><b>Note</b>: Assistant production will be effected by Ascension penalties.</p>
+        <p><b>New Effect</b>: Assistants count 200% more and increase their production by 200%.</p>
 <br/>
 <p><b>TT8</b> (Heavy Coins)</p>
-        <p><b>Old Effect</b>: Increases Royal Exchanges production bonus by an additional 40% each.</p>
-        <p><b>New Effect</b>: Increase Royal Exchanges production bonus by an additional 40% each and reduces their cost (multiplier) by 0.01.</p>
-        <p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
+        <p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 40% each.</p>
+        <p><b>New Effect</b>: Also reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 <br/>
 <p><b>TT9</b> (Titan Obelisk)</p>
 		<p><b>New Name</b>: Oversized Legends</p>
         <p><b>Old Effect</b>: Increase the production of all other buildings by 2.25% per Ancient Pyramid you own.</p>
-        <p><b>New Effect</b>: Reduce Hall of Legends building cost multiplier, and increase assistants production based on the amount of Hall of Legends you own.</p>
-		<p><b>New Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends you own</p>
-        <p><b>New Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+        <p><b>New Effect</b>: Reduce Hall of Legends building cost multiplierby 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+        <p><b>New Effect</b>: Also increases assistants production based on the amount of Hall of Legends you own. </p>
+		<p><b>New Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends you own.</p>
 <br/>
 <p><b>TT10</b> (Giant Market)</p>
         <p><b>Old Effect</b>: Increase Royal Exchange count based on the amount of Mountain Palaces you own.</p>
 		<p><b>Old Formula</b>: (1.25 * x ^ 0.725)%, where x is amount of Mountain Palaces owned.</p>
         <p><b>New Effect</b>: Increase Royal Exchange count based on the highest amount of Mountain Palaces you built in this Reincarnation.</p>
-		<p><b>New Formula</b>: (x ^ 0.7)%, where x is the highest amount of Mountain Palaces you built this R</p>
+		<p><b>New Formula</b>: (x ^ 0.7)%, where x is the highest amount of Mountain Palaces you built this R.</p>
 <br/>
 <p><b>TT11</b> (Titanic Authority)</p>
         <p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of Royal Exchanges you made.</p>
@@ -765,7 +763,7 @@
 <p><b>Faceless</b></p>
 <p><b>FC1</b> (Territorial Expanse)</p>
         <p><b>Old Effect</b>: Labyrinth production is increased by 5,000% per assistant you own.</p>
-        <p><b>New Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (adjust to your alignment) based on the amount of assistants you own.</p>
+        <p><b>New Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (based on your Alignment) based on the amount of assistants you own.</p>
         <p><b>New Formula</b>: (5 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
 <br/>
 <p><b>FC2</b> (Evolutive Mutation)</p>
@@ -795,8 +793,8 @@
 <br/>
 <p><b>FC9</b> (Hive Mind)</p>
         <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
-        <p><b>Old Formula</b>: (0.1 * x ^ 0.75)%, where x is total time spent as Faceless in seconds accross all Rs.</p>
-        <p><b>New Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds accross all Rs.</p>
+        <p><b>Old Formula</b>: (0.1 * x ^ 0.75)%, where x is total time spent as Faceless in seconds (all time).</p>
+        <p><b>New Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds (all time).</p>
 <br/>
 <p><b>FC10</b> (Primal Knowledge)</p>
         <p><b>Old Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Forbidden Libraries you own. Grows over time and resets every 15 minutes.</p>
@@ -807,7 +805,7 @@
 <p><b>FC11</b> (Forbidden Language)</p>
         <p><b>Effect</b>: Increase spell durations based on the amount of Reincarnations made.</p>
         <p><b>Old Formula</b>: (x)%, where x is Reincarnations made.</p>
-        <p><b>New Formula</b>: (0.8 * x ^ 0.8)%, where x is Reincarnations made</p>
+        <p><b>New Formula</b>: (0.8 * x ^ 0.8)%, where x is Reincarnations made.</p>
  <br/>
 <p><b>FC12</b> (Dimension Door)</p>
         <p><b>Old Effect</b>: Increase Unique Building production based on highest amount of Maximum Mana you had in this Reincarnation.</p>
