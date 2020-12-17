@@ -98,10 +98,10 @@
                     <p><b>Note</b>: Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle><b> Beard Carpet</b></p>
-                    <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
+                    <p><b>Requirement</b>: Have at least 1 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
                     <p><b>Cost</b>: 3000, A1+, Free</p>
                     <p><b>Effect</b>: Increase assistants production by 10%.</p>
-                    <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
+                    <p><b>Note</b>: This takes 1 day 3 hours and 47 minutes and can be done at R0.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle><b> Premeditation</b></p>
                     <p><b>Requirement</b>: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.</p>
@@ -446,15 +446,15 @@
                     <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in a this Reincarnation.</p>
                     <hr>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png" align="middle"> Future Linkin</b></p>
-                    <p><b>Requirement</b>: A2+, Abdicate with at least 150,000 Unique Buildings.</p>
+                    <p><b>Requirement</b>: A2+, Abdicate with at least 100,000 Unique Buildings.</p>
                     <p><b>Cost</b>: 10 SpTg (1e115)</p>
                     <p><b>Effect</b>: Gives upgrade with same name.</p>
                     <p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
                     <p><b>Formula</b>: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</p>
                     <hr>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png" align="middle"> <b>God's Fingers</b></p>
-                    <p><b>Requirement</b>: Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
-                    <p><b>Cost</b>: 333, A1+ Free</p>
+                    <p><b>Requirement</b>: R160+, Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
+                    <p><b>Cost</b>: Free</p>
                     <p><b>Effect</b>: Gives Upgrade with same name.</p>
                     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
                     <hr>
@@ -1385,7 +1385,7 @@
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p>
                     <p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>
                     <p><b>Cost</b>: 1 Dc (1E33)</p>
-                    <p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
+                    <p><b>Effect</b>: Tax Collection also finds 150 seconds worth of Faction Coins.</p>
                     <p><b>Note</b>: Default Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png align=middle><b> Fairy Choir</b></p>
@@ -3306,7 +3306,7 @@
                         <p><b>Requirement</b>: Build a total of 300,000 buildings</p>
                         <hr>
                         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png" align="middle"> The Architect</b></p>
-                        <p><b>Requirements</b>: Build 250000 units of any individual building.</p>
+                        <p><b>Requirements</b>: Build 125,000 units of any individual building.</p>
                     </div>
                 </div>
             </div>

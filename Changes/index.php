@@ -1621,7 +1621,7 @@
 	<p><b>Note</b>: Now takes 1 day 3 hours and 47 minutes instead of 3 days 11 hours and 20 minutes.</p>
 <br/>
 <p><b>Coin Pillage</b></p>
-	<p><b>Old Requirement</b>: Cast 50 Tax Collections in less than 5 seconds.</p>
+	<p><b>Old Requirement</b>: Cast 30 Tax Collections in less than 5 seconds.</p>
 	<p><b>New Requirement</b>: Cast 150 Tax Collections in less than 5 seconds.</p>
 <br/>
 <p><b>Future Linkin</b></p>

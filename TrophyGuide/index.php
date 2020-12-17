@@ -365,7 +365,7 @@
 							<td>
 								<center>Coin Pillage</p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png"></td>
 							<td>1 Dc (1e33)</p>A1+ Free</td>
-							<td>Cast 30 Tax Collections in less than 5 seconds.</td>
+							<td>Cast 150 Tax Collections in less than 5 seconds.</td>
 							<td>Tax Collection also finds 30 seconds worth of Faction Coins.</td>
 							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Harley Quinn R3+</b></a> build</td>
 						</tr>
@@ -1373,7 +1373,7 @@
 							<td>
 								<center>Future Linkin</p><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png"></td>
 							<td>10 Sptg (1e115)</td>
-							<td>Abdicate with at least 150,000 Unique Buildings.</td>
+							<td>Abdicate with at least 100,000 Unique Buildings.</td>
 							<td>Increase Faction Coin find chance based on time spent in the last game session.</p>Formula: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</td>
 							<td>Goblinline Dwairy with E50,E135</td>
 						</tr>
@@ -1454,7 +1454,7 @@
 							<td>
 								<center>The Architect</p><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png"></td>
 							<td></td>
-							<td>Build 250,000 units of any individual building.</td>
+							<td>Build 125,000 units of any individual building.</td>
 							<td></td>
 							<td></td>
 						</tr>
@@ -1493,8 +1493,8 @@
 						<tr>
 							<td>
 								<center>God's Fingers</p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png"></td>
-							<td>333</td>
-							<td>Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
+							<td>Free</td>
+							<td>R160+, Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
 							<td>Clicks count 100% more and autoclicks 5 times per second.</td>
 							<td></td>
 						</tr>

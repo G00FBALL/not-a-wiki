@@ -106,10 +106,10 @@
     <p><b>Note</b>: Get the first 2 alignments at 24 hours then go to 3rd alignment and stay with it for 24 hours.</p>
     " coords="6,174,60,231" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle> <b>Beard Carpet</b></p>
-    <p><b>Requirement</b>: Have at least 3 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
+    <p><b>Requirement</b>: Have at least 1 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
     <p><b>Cost</b>: 3000, A1+, Free</p>
     <p><b>Effect</b>: Increase assistants production by 10%. (A Nerfed)</p>
-    <p><b>Note</b>: This takes 3d 11h 20m and can be done at R0.</p>
+    <p><b>Note</b>: This takes 1 day 3 hours and 47 minutes and can be done at R0.</p>
     " coords="69,174,124,230" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle> <b>Premeditation</b></p>
     <p><b>Requirement</b>: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.</p>
@@ -392,15 +392,15 @@
     <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</p>
     " coords="262,560,319,617" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png align=middle> <b>Future Linkin</b>
-    <p><b>Requirements</b>: A2+, Abdicate with at least 150,000 Unique Buildings.
+    <p><b>Requirements</b>: A2+, Abdicate with at least 100,000 Unique Buildings.
     <p><b>Cost</b>: 10 Sptg (1e115), A3+ Free</p>
     <p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
     <p><b>Formula</b>: (214 + 0.03 * x  ^ 0.7), where x is time spent in last game.</p>
     <p><b>Base</b>: 214%</p>
     " coords="325,559,383,617" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/God'sFingers.png align=middle> <b>God's Fingers</b>
-    <p><b>Requirement</b>: Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
-    <p><b>Cost</b>: 333, A1+ Free</p>
+    <p><b>Requirement</b>: R160+, Reach 100 M (1e8) automatic clicks in this Reincarnation.</p>
+    <p><b>Cost</b>: Free</p>
     <p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
     " coords="387,560,446,618" shape="rect">
         <area href="http://musicfamily.org/realm/R160Plus/#TrueHarlequin" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
@@ -1321,7 +1321,7 @@
     <p><b>Requirement</b>: Unlock tier 7 for all spells</p>
     " coords="132,429,190,487" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle> </b>Coin Pillage</b>
-    <p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.)</p>
+    <p><b>Requirement</b>: Cast the Tax Collection spell 150 times in less than 5 seconds.)</p>
     <p><b>Cost</b>: 1 Dc (1E33), A1+ Free</p>
     <p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
     <p><b>Note</b>: Default Spell</p>
@@ -1469,7 +1469,7 @@
         <p><b>Requirement</b>: Build 300,000 buildings in a single game.</p>
         " coords="5,131,61,191" shape="rect">
         <area research="The Architect
-        <p><b>Requirement</b>: Build 250,000 units of any individual building.</p>
+        <p><b>Requirement</b>: Build 125,000 units of any individual building.</p>
         " coords="67,132,125,189" shape="rect">
     </map>
     <p><img src="http://musicfamily.org/realm/Factions/picks/FarmBuildingTrophyMap.png" usemap="#FarmBuildingTrophyMap-map"></p>
