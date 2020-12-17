@@ -240,7 +240,7 @@
 <br/>
 <p><b>F11500</b> (Paradox)</p>
 	<p><b>Effect</b>: Gain the Set bonus of your opposite alignment.</p>
-	<p><b>Note</b>: Gain the Set bonus of the base faction of your opposite alignment. For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
+	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 <br/>
 <p><b>F11750</b> (Relativity)</p>
 	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
@@ -1421,17 +1421,17 @@
 	<p><b>New Formula</b>: (ln(1 + x) ^ 1.8)%, where x is spell casts this game.</p>
 <br/>	
 <p><b>Warfare</b></p>
-<p><b>W225</b> (Surveyorship)</p>
+<p><b>W225</b> (Critical Strike)</p>
 	<p><b>Old Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.</p>
 	<p><b>Old Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light active time This Game in seconds.</p>
 	<p><b>New Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this Reincarnation.</p>
-	<p><b>Old Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light active time This Reincarnation in seconds.</p>
+	<p><b>New Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light active time This Reincarnation in seconds.</p>
 <br/>
 <p><b>W1275</b> (Authority)</p>
 	<p><b>Old Effect</b>: Increase the duration of all spells based on the amount of Non-Unique buildings you own.</p>
 	<p><b>Old Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Non-Unique buildings you own.</p>
 	<p><b>New Effect</b>: Increase the duration of all spells based on Call to Arms activity time in this Reincarnation.</p>
-	<p><b>Old Formula</b>: (x ^ 0.5)%, where x is Call to Arms active time This Reincarnation in seconds.</p>
+	<p><b>New Formula</b>: (x ^ 0.5)%, where x is Call to Arms active time This Reincarnation in seconds.</p>
 <br/>
 <p><b>W5125</b> (Sovereignty)</p>
 	<p><b>Effect</b>: Increase the production of two highest tier buildings based on assistants you own.</p>

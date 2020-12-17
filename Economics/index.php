@@ -264,19 +264,23 @@
 	<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is your least used faction spell (This game)</p>
 	<p><b>Note</b>: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.</p>
 	<hr>
-	<p><b>E10875</b> - Rigmarole</p>
+	<p><b>E10875</b> - For All Factions</p>
+	<p><b>Research Name</b>: Rigmarole</p>
 	<p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of assistants you had in this Reincarnation (Additive).</p>
 	<p><b>Formula</b>: +(ln(1 + x) ^ 2)%, where x is your highest assistants count this R.</p>
 	<hr>
-	<p><b>E11125</b> - Grey Friday</p>
+	<p><b>E11125</b> - For All Factions</p>
+	<p><b>Research Name</b>:  Grey Friday</p>
 	<p><b>Effect</b>: Reduce building cost multiplier.</p>
 	<p><b>Formula</b>: -0.02, with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 	<hr>
-	<p><b>E11375</b> - Heist</p>
+	<p><b>E11375</b> - For All Factions</p>
+	<p><b>Research Name</b>: Heist</p>
 	<p><b>Effect</b>: Increase production bonus of Gems based on the amount of assistants you have (Additive).</p>
 	<p><b>Formula</b>: +(2 * ln(1 + x) ^ 2)%, where x is the amount of assistants you have.</p>
 	<hr>
-	<p><b>E11625</b> - Surplus</p>
+	<p><b>E11625</b> - For All Factions</p>
+	<p><b>Research Name</b>: Surplus</p>
 	<p><b>Effect</b>: Multiplicatively increase assistants based on the amount of Gems you have.</p>
 	<p><b>Formula</b>: (25 + 0.25 * ln(1 + x) ^ 1.5)%, where x is the amount of Gems you have.</p>
 	<hr>	

@@ -260,21 +260,25 @@
 	<p><b>Effect</b>: Gain the Bloodline effects of your opposite Alignment.</p>
 	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 	<hr>
-	<p><b>D10875</b> - Scriptures</p>
+	<p><b>D10875</b> - For All Factions</p>
+	<p><b>Research Name</b>: Scriptures</p>
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment of the spell.</p>
 	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.</p>
 	<p><b>Note</b>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
 	<p><b>Note</b>All other event spells use time spent this R.</p>
 	<hr>
-	<p><b>D11125</b> - Viriditas</p>
+	<p><b>D11125</b> - For All Factions</p>
+	<p><b>Research Name</b>: Viriditas</p>
 	<p><b>Effect</b>: Lineage levels count more based on the amount of Artifacts you excavated.</p>
 	<p><b>Formula</b>: (x ^ 0.75)%, where x is the amount of Artifacts you excavated.</p>
 	<hr>
-	<p><b>D11375</b> - Rigor</p>
+	<p><b>D11375</b> - For All Factions</p>
+	<p><b>Research Name</b>: Rigor</p>
 	<p><b>Effect</b>: Reincarnations count 100% more.</p>
 	<hr>
-	<p><b>D11625</b> - Compassion</p>
+	<p><b>D11625</b> - For All Factions</p>
+	<p><b>Research Name</b>: Compassion</p>
 	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on time spent with your least used alignment in this Reincarnation.</p>
 	<p><b>Formula</b>: (50 + x ^ 0.75)%, where x is time spent as the least used alignment this R.</p>
 	<hr>	

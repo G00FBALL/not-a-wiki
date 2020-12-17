@@ -123,7 +123,7 @@
 	<p><b>Requirement</b>: 20 B (2E10) Faction Coins (Found this game)</p>
 	<p><b>Cost</b>: 175.2 SxQig (1.752E173)</p>
 	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.</p>
-	<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 1.25), where x is Factions Coins found (this game).</p>
+	<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5)%, where x is Factions Coins found (this game).</p>
 	<hr>
     <p><b>A300</b> - For Faceless</p>
 	<p><b>Research Name</b>: Creeping</p>
@@ -256,7 +256,7 @@
 	<p><b>Research Name</b>: Albedo</p>
 	<p><b>Requirement</b>: R177+, Forgotten Relic, Athanor artifact and upgrade</p>
 	<p><b>Effect</b>: Increase all spells duration based on spell casts in this game.</p>
-	<p><b>Formula</b>: (ln(x) ^ 1.85), where x is spell casts this game</p>
+	<p><b>Formula</b>: (ln(1 + x) ^ 1.8)%, where x is spell casts this game</p>
 	<hr>
     <p><b>A5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Reduction</p>
@@ -269,5 +269,26 @@
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Athanor artifact and upgrade</p>
 	<p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on Faction Coin found in this game.</p>
 	<p><b>Formula</b>: (log10(x) ^ 1.5), where x is faction coins this game</p>
+	<hr>
+	<p><b>A10875</b> - For All Factions</p>
+	<p><b>Research Name</b>: Toxicity</p>
+	<p><b>Effect</b>: Multiplicatively increase mana regeneration based on time spent with the faction opposite to your current one, in this Reincarnation.</p>
+	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is time spent with opposite-alignment faction this R.</p>
+	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively (therefore Druid counts Druid playtime itself).</p>
+	<hr>
+	<p><b>A11125</b> - For All Factions</p>
+	<p><b>Research Name</b>: Alkahest</p>
+	<p><b>Effect</b>: Clicks count more based on the amount of active spells.</p>
+	<p><b>Formula</b>: (x ^ 1.5)%, where x is the amount of active spells.</p>
+	<hr>
+	<p><b>A11375</b> - For All Factions</p>
+	<p><b>Research Name</b>: Azoth</p>
+	<p><b>Effect</b>: Increase clicking reward based on mana regeneration.</p>
+	<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is mana regeneration</p>
+	<hr>
+	<p><b>A11625</b> - For All Factions</p>
+	<p><b>Research Name</b>: Anima Mundi</p>
+	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins found in this Reincarnation.</p>
+	<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2)%, where x is factiom coins found this R</p>
 	<hr>
         <?php include "../scripts/footer.html"; ?>

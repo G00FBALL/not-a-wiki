@@ -98,8 +98,8 @@
 	<p><b>Research Name</b>: Critical Strike</p>
 	<p><b>Requirement</b>: Research Dueling (W10) & Transfixion (D55)</p>
 	<p><b>Cost</b>: 2.087 Qaqig (2.087E165)</p>
-	<p><b>Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.</p>
-	<p><b>Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light Active Time This Game in seconds.</p>
+	<p><b>Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this Reincarnation.</p>
+	<p><b>Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light active time This Reincarnation in seconds.</p>
 	<hr>
     <p><b>W250</b> - For All Factions</p>
 	<p><b>Research Name</b>: Swarming</p>
@@ -200,8 +200,8 @@
 	<p><b>Hint</b>: How long does your Call to Arms last?</p>
 	<p><b>Requirement</b>: 43200s (12 hours) Call to Arms Cast Time (This game).</p>
 	<p><b>Cost</b>: 152.4 Dvg (1.524e71)</p>
-	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Non-Unique buildings you own.</p>
-	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Non-Unique buildings you own.</p>
+	<p><b>Effect</b>: Increase the duration of all spells based on Call to Arms activity time in this Reincarnation.</p>
+	<p><b>Formula</b>: (x ^ 0.5)%, where x is Call to Arms active time This Reincarnation in seconds.</p>
 	<hr>
     <p><b>W1375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Scavenging</p>
@@ -238,24 +238,44 @@
 	<p><b>Research Name</b>: Sovereignty</p>
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Battlefield artifact and upgrade</p>
 	<p><b>Effect</b>: Increase the production of two highest tier buildings based on assistants you own.</p>
-	<p><b>Formula</b>: (x ^ 0.3), where x is assistants</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.25)%, where x is assistants.</p>
 	<hr>
     <p><b>W5375</b> - For Evil</p>
 	<p><b>Research Name</b>: Officers</p>
 	<p><b>Requirement</b>: R177+, Forgotten Relic, Battlefield artifact and upgrade</p>
 	<p><b>Effect</b>: Gain assistants multiplicatively based on amount of trophies unlocked.</p>
-	<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies</p>
+	<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies.</p>
 	<hr>
     <p><b>W5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Concealment</p>
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Battlefield artifact and upgrade</p>
 	<p><b>Effect</b>: Offline time counts more based on Mana Produced in this game.</p>
-	<p><b>Effect</b>: (2.5 * ln(1 + x) ^ 2.5), where x is mana produced (This game)</p>
+	<p><b>Effect</b>: (2 * ln(1 + x) ^ 2)%, where x is mana produced (This game).</p>
 	<hr>
     <p><b>W5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Patience</p>
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Battlefield artifact and upgrade</p>
 	<p><b>Effect</b>: Time spent with Prestige Counts 500% more.</p>
 	<p><b>Effect</b>: Time spent with Elite factions Counts 1000% more.</p>
+	<hr>
+	<p><b>W10875</b> - For All Factions</p>
+	<p><b>Research Name</b>: Revolution</p>
+	<p><b>Effect</b>: Gain assistants based on Royal Exchanges made.</p>
+	<p><b>Formula</b>: +(x ^ 0.75), where x is royal exchanges made.</p>
+	<hr>
+	<p><b>W11125</b> - For All Factions</p>
+	<p><b>Research Name</b>: Vengeance</p>
+	<p><b>Effect</b>: Increase Offline production based on the duration of your longest spell.</p>
+	<p><b>Formula</b>: (5 + 1.5 * x ^ 0.5)%, where x is the duration of your longest spell.</p>
+	<hr>
+	<p><b>W11375</b> - For All Factions</p>
+	<p><b>Research Name</b>: Pacifism</p>
+	<p><b>Effect</b>: Increase all spells durations based on time spent in this game.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent this game.</p>
+	<hr>
+	<p><b>W11625</b> - For All Factions</p>
+	<p><b>Research Name</b>: Genocide</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used faction.</p>
+	<p><b>Formula</b>: (50 + x ^ 0.85)%, where x is time spent with the least used faction this R in seconds.</p>
 	<hr>
         <?php include "../scripts/footer.html"; ?>
