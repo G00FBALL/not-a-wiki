@@ -430,15 +430,14 @@
 <p><b>EL9</b> (Ancient Clicking Arts)</p>
 	<p><b>New Name</b>: Sylvan Treasure Frills</p>
         <p><b>Old Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>
-	<p><b>Old Formula</b>: +(floor(10 * log10(1 + x ^ 2)) / 10), where x is your Productive Clicks (Total) stat.</p>
+		<p><b>Old Formula</b>: +(floor(10 * log10(1 + x ^ 2)) / 10), where x is your Productive Clicks (Total) stat.</p>
         <p><b>New Effect</b>: Additively increase base clicking reward by 50% of your building production.</p>
 <br/>
 <p><b>EL10</b> (Wooden Dice)</p>
         <p><b>Effect</b>: When Elven Luck triggers, 100,000 automatic Tax Collections are cast.</p>
 	<p><b>Old Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
         <p><b>New Effect</b>: Increase Elven Luck chance to activate and its effects based on the highest amount of Arboreal Cities you own in this reincarnation (formulas unchanged).</p>
-        <p><b>New Effect</b>: Removes 2 ascension penalties from Elven Luck from A3 onward.</p>
-        <p><b>Note</b>: Elven Luck production bonus cannot go below 250,000% in A4.</p>
+        <p><b>New Effect</b>: Also removes 2 ascension penalties from Elven Luck.</p>
 <br/>
 <p><b>EL11</b> (Camouflage)</p>
         <p><b>Effect</b>: Assistants and Clicks count 1,000% more for all purposes and increase assistant production based on assistant amount.</p>
@@ -495,7 +494,7 @@
 <br/>
 <p><b>AN10</b> (Heaven's Brilliance)</p>
         <p><b>Old Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the amount of Holy Sites you own. Gem Grinder and all Dragon's Breath effects are increased based on the amount of Holy Sites you own.</p>
-        <p><b>New Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the <b>highest</b> amount of Holy Sites you own this R. Gem Grinder and all Dragon's Breath effects are increased based on the <b>highest</b> amount of Holy Sites you own this R (formulas unchanged).</p>
+        <p><b>New Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the highest amount of Holy Sites you own this R. Gem Grinder and all Dragon's Breath effects are increased based on the highest amount of Holy Sites you own this R (formulas unchanged).</p>
 <br/>
 <p><b>AN11</b> (Angelic Fortitude)</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time in this Reincarnation.</p>
@@ -566,7 +565,7 @@
         <p><b>New Effect</b>: Increase Faction Coin find chance based on assistants owned (Additive).</p>
         <p><b>New Formula</b>: +(ln(1 + x) ^ 1.75)%, where x is assistants owned.</p>
 <br/>
-<p><b>UD3</b> (Deadened Muscles)</p>
+<p><b>UD2</b> (Deadened Muscles)</p>
         <p><b>Old Effect</b>: Increase the production of all other buildings by 1.5% per Necropolis you own.</p>
         <p><b>New Effect</b>: Increase the production of all buildings based on the highest amount of Necropolises you built in this Reincarnation.</p>
         <p><b>New Formula</b>: (4 * x ^ 0.8)%, where x is the the highest amount of Necropolises you built this R.</p>
@@ -622,7 +621,7 @@
 <p><b>Demon</b></p>
 <p><b>DM1</b> (Torture Chambers)</p>
         <p><b>Old Effect</b>: Increase the production of Evil Fortresses by 5% per assistants you own.</p>
-        <p><b>New Effect</b>: Increase the production of Royal Castles / Evil Fortresses / Iron Strongholds (adjust to your alignment) based on the amount of assistants you own.</p>
+        <p><b>New Effect</b>: Increase the production of Royal Castles / Evil Fortresses / Iron Strongholds (based on your Alignment) based on the amount of assistants you own.</p>
         <p><b>New Formula</b>: (6 * ln(1 + x) ^ 3)%, where x is the amount of assistants you own.</p>
 <br/>
 <p><b>DM2</b> (Devil Tyrant)</p>
@@ -647,7 +646,7 @@
 <br/>
 <p><b>DM9</b> (Very Bad Guys)</p>
         <p><b>Old Effect</b>: Let Blood Frenzy target Hall of Legends and increase the production of Halls of Legends by +0.05% per trophy for each Evil Fortress and Hell Portal you own.</p>
-        <p><b>New Effect</b>: Increase the production of Heaven's Gate / Hell Portals / Ancient Pyramid (adjust to your alignment) based on the highest amount of Hell Portals you built in this Reincarnation.</p>
+        <p><b>New Effect</b>: Increase the production of Heaven's Gate / Hell Portals / Ancient Pyramid (based on your Alignment) based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         <p><b>New Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this R.</p>
 <br/>
 <p><b>DM10</b> (Abyssal Furnace)</p>
