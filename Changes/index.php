@@ -513,7 +513,7 @@
 <p><b>GB2</b> (Slave Trading)</p>
         <p><b>Old Effect</b>: Increase the production of all buildings by 0.75% per Slave Pen you own.</p>
         <p><b>New Effect</b>: Increase the production of all buildings based on the amount of Evil buildings you own.</p>
-        <p><b>New Formula</b>: (2 * x ^ 0.6)%, where x is Faction Coins found this game.</p>
+        <p><b>New Formula</b>: (2 * x ^ 0.6)%, where x is the amount of Evil buildings you own.</p>
 <br/>
 <p><b>GB3</b> (Cheap Materials)</p>
         <p><b>Old Effect</b>: Increase the production of all buildings based on the cost of a BuyMAX witch conclave.</p>
