@@ -19,12 +19,12 @@
                 <p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.</p>
                 <p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" align="middle"> Fairy Workers</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png" align="middle"> Fairy Workers</b></p>
                 <p><b>Mercenary Template</b>: FR2</p>
                 <p><b>Cost</b>: 500 M (5E8)</p>
                 <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 15,000%.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png" align="middle"> Kind Hearts</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png" align="middle"> Kind Hearts</b></p>
                 <p><b>Mercenary Template</b>: FR3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
                 <p><b>Effect</b>: Increases maximum mana based on the amount of good buildings you own.</p>
@@ -42,7 +42,7 @@
                 <p><b>Effect</b>: Increase base clicking reward by 25k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
                 <p><b>Formula</b>: floor((1+0.05 * x) ^ 0.95), where x is your Trophies Unlocked stat.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Ancient Clicking Arts</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" align="middle"> Ancient Clicking Arts</b></p>
                 <p><b>Mercenary Template</b>: EL3</p>
                 <p><b>Cost</b>: 5 B (5E9)</p>
                 <p><b>Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>
@@ -301,7 +301,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Tier 2 Upgrades</a></b></p>
             <div class="autohide">
                 <h6>Fairy</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png" align="middle"> Fairy Cuisine</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" align="middle"> Fairy Cuisine</b></p>
                 <p><b>Mercenary Template</b>: FR4</p>
                 <p><b>Cost</b>: 500 B (5E11)</p>
                 <p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
@@ -363,13 +363,13 @@
 				<p><b>Effect</b>: Also increase Offline production based on the amount of Tax Collection casts in this game.</p>
 				<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is Tax Collection casts this game.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png" align="middle"> Goblin Economists</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png" align="middle"> Goblin Economists</b></p>
                 <p><b>Mercenary Template</b>: GB5</p>
                 <p><b>Cost</b>: 5 T (5E12)</p>
                 <p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on upgrades purchased.</p>
 				<p><b>Formula</b>: (x ^ 0.9)%, where x is upgrades purchased</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png" align="middle"> Hobgoblin Gladiators</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png" align="middle"> Hobgoblin Gladiators</b></p>
                 <p><b>Mercenary Template</b>: GB6</p>
                 <p><b>Cost</b>: 50 T (5E13)</p>
                 <p><b>Effect</b>: Gems and upgrades count 200% more.</p>
@@ -423,7 +423,7 @@
                 <p><b>Effect</b>:  Increase the production of all buildings based on the amount of active spells.</p>
 				<p><b>Formula</b>: (15 * x)%, where x is active spells.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/CyclopeanStrengthFactionUpgrade.png" align="middle"> Titan Sized Walls</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png" align="middle"> Titan Sized Walls</b></p>
                 <p><b>Mercenary Template</b>: TT6</p>
                 <p><b>Cost</b>: 500 Sp (5E26)</p>
                 <p><b>Effect</b>: Increase Hall of Legends production based on the amount of assistants you own.</p>
@@ -585,7 +585,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Tier 3 Upgrades</a></b></p>
             <div class="autohide">
                 <h6>Fairy</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png" align="middle"> Starmetal Alloys</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png" align="middle"> Starmetal Alloys</b></p>
                 <p><b>Mercenary Template</b>: FR7</p>
                 <p><b>Cost</b>: 5 Qa (5E15)</p>
                 <p><b>Effect</b>: Increase the base production of Blacksmiths by +580 and reduce the building cost multiplier.</p>
@@ -615,7 +615,7 @@
                 <p><b>Cost</b>: 50 Qa (5E16)</p>
                 <p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of your production and gathering (R + 1) * x random faction coins, where x is FC chance.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
                 <p><b>Mercenary Template</b>: EL9</p>
                 <p><b>Cost</b>: 500 Qa (5E17)</p>
                 <p><b>Effect</b>: Additively increase base clicking reward by 50% of your building production.</p>
@@ -693,7 +693,7 @@
 				<p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this R.</p>
                 <hr>
                 <h6>Titan</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png" align="middle"> Cyclopean Strength</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/CyclopeanStrengthFactionUpgrade.png" align="middle"> Cyclopean Strength</b></p>
                 <p><b>Mercenary Template</b>: TT7</p>
                 <p><b>Cost</b>: 50 Oc (5E28)</p>
                 <p><b>Effect</b>: Assistants count 200% more and increase their production by 200%.</p>
@@ -704,7 +704,7 @@
                 <p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 40% each.</p>
 				<p><b>Effect</b>: Also reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanObeliskFactionUpgrade.png" align="middle"> Oversized Legends</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png" align="middle"> Oversized Legends</b></p>
                 <p><b>Mercenary Template</b>: TT9</p>
                 <p><b>Cost</b>: 5 No (5E30)</p>
                 <p><b>Effect</b>: Reduce Hall of Legends building cost multiplierby 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
@@ -972,14 +972,14 @@
                 <p><b>Effect</b>: Mutiplicatively increase assistants based on the highest amount of Flesh Workshops you built in this Reincarnation.</p>
 				<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the highest amount of Flesh Workshops you built this Reincarnation.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" align="middle"> Eternal Servitude</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" align="middle"> Eternal Servitude</b></p>
                 <p><b>Mercenary Template</b>: UD11</p>
                 <p><b>Requirement</b>: A2+, Undead Union</p>
                 <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
                 <p><b>Effect</b>: Increase Unique buildings production based on time spent in this game.</p>
 				<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent this game.</p>
                 <br/>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" align="middle"> Zombie Apocalypse</b></p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" align="middle"> Zombie Apocalypse</b></p>
                 <p><b>Mercenary Template</b>: UD12</p>
                 <p><b>Requirement</b>: A2+, Undead Union</p>
                 <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
