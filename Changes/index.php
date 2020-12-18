@@ -1505,7 +1505,7 @@
 	<p><b>New Formula</b>: (3 * x / 1,000)%, where x is the amount of Unique Buildings you own.</p>
 <br/>
 <p><b>Faceless Perk 3</b></p>
-	<p><b>Effect</b>: Increase assistants prodcution based on the amount of Unique Buildings you own. Does not suffer from Ascension penalties.</p>
+	<p><b>Effect</b>: Increase assistants production based on the amount of Unique Buildings you own. Does not suffer from Ascension penalties.</p>
 	<p><b>Old Formula</b>: (5 * x / 1,000)%, where x is the amount of Unique Buildings you own.</p>
 	<p><b>New Formula</b>: (x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
 <br/>
