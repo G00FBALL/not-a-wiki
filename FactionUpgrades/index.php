@@ -472,7 +472,7 @@
                 <p><b>Mercenary Template</b>: DN4</p>
                 <p><b>Cost</b>: 50 Qid (5E49)</p>
                 <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Gems you own.</p>
-				<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is the amount of Gems you own.</p
+				<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is the amount of Gems you own.</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
                 <p><b>Mercenary Template</b>: DN5</p>
