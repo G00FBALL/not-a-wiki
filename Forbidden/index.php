@@ -51,8 +51,8 @@
 	<hr>
 	<p><b>F11250</b> - For All Factions</p>
 	<p><b>Research Name</b>: Inanity</p>
-	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
-	<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
+	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
+	<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.</p>
 	<hr>
 	<p><b>F11500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Paradox</p>
@@ -61,7 +61,7 @@
 	<hr>
 	<p><b>F11750</b> - For All Factions</p>
 	<p><b>Research Name</b>: Relativity</p>
-	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
-	<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.</p>
+	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
+	<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
 	<hr>
         <?php include "../scripts/footer.html"; ?>

@@ -265,8 +265,8 @@
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment of the spell.</p>
 	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.</p>
-	<p><b>Note</b>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
-	<p><b>Note</b>All other event spells use time spent this R.</p>
+	<p><b>Note</b>: Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
+	<p><b>Note</b>: All other event spells use time spent this R.</p>
 	<hr>
 	<p><b>D11125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Viriditas</p>

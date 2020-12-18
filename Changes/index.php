@@ -163,8 +163,8 @@
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment that unlocks the spells.</p>
 	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.</p>
-	<p><b>Note</b>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
-	<p><b>Note</b>All other event spells use time spent this R.</p>
+	<p><b>Note</b>: Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.</p>
+	<p><b>Note</b>: All other event spells use time spent this R.</p>
 <br/>
 <p><b>D11125</b> (Viriditas)</p>
 	<p><b>Effect</b>: Lineage levels count more based on the amount of Artifacts you excavated.</p>
@@ -235,16 +235,16 @@
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your current faction(s)’ faction spell activity time this R in seconds.</p>
 <br/>
 <p><b>F11250</b> (Inanity)</p>
-	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
-	<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
+	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
+	<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.</p>
 <br/>
 <p><b>F11500</b> (Paradox)</p>
 	<p><b>Effect</b>: Gain the Set bonus of your opposite alignment.</p>
 	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 <br/>
 <p><b>F11750</b> (Relativity)</p>
-	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
-	<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.</p>
+	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
+	<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
 <hr>
 <p><b>9 New Artifacts</b>: 1 for each base faction, unlocking their set's second effect</p>	
 <p><b>Glowing Wing</b></p>

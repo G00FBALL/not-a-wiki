@@ -1011,8 +1011,8 @@
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment of the spell.
 	<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.
-	<p><b>Note</b>Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.
-	<p><b>Note</b>All other event spells use time spent this R.
+	<p><b>Note</b>: Heatwave and Hailstorm (Summer Festival event spells) use time spent as Summeraan and Winterly this R.
+	<p><b>Note</b>: All other event spells use time spent this R.
 	" coords="338,548,378,588" shape="rect">
 		<area research="D11125 - For All Factions
 	<p><b>Research Name</b>: Viriditas
@@ -1889,8 +1889,8 @@
 		<area research="F11250 - For All Factions
 	<p><b>Research Name</b>: Inanity
 	<p><b>Requirement</b>: R224
-	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.
-	<p><b>Note</b>: This will not increase the cost of the normal Legacy.
+	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.
+	<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.
 	" coords="296,1262,336,1302" shape="rect">
 		<area research="F11500 - For All Factions
 	<p><b>Research Name</b>: Paradox
@@ -1901,8 +1901,8 @@
 		<area research="F11750 - For All Factions
 	<p><b>Research Name</b>: Relativity
 	<p><b>Requirement</b>: R228
-	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.
-	<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.
+	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.
+	<p><b>Note</b>: This will not increase the cost of the normal Legacy.
 	" coords="380,1262,420,1302" shape="rect">
         <area research="Unlocked Upgrade (X): You cannot use this upgrade with the faction you are playing. (There is an option to hide these icons.)
 	" coords="296,170,335,209" shape="rect">
