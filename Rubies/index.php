@@ -16,20 +16,22 @@
             <tbody><tr><th colspan="8">Ruby Excavation Count and Cost</th></tr>
             <tr>
                 <th style="width: 10%">Ruby</th>
-                <th style="width: 8%">E290</th>
+                <th style="width: 7%">E290</th>
+				<th style="width: 7%">DN8</th>
                 <th style="width: 7%">Easter</th>
                 <th style="width: 12.5%">Maker</th>
-                <th style="width: 15%">Ascension</th>
-                <th style="width: 15%">Excavation</th>
-                <th style="width: 15%">Coins</th>
-                <th style="width: 15%">Gems</th>
+                <th style="width: 14%">Ascension</th>
+                <th style="width: 14%">Excavation</th>
+                <th style="width: 14%">Coins</th>
+                <th style="width: 14%">Gems</th>
             </tr>
             <tr>
                 <td><input id="rub" type="number" min="1" max="99" value="1"></td>
                 <td><label><input id="E290" type="checkbox"></label></td>
+				<td><label><input id="DN8" type="checkbox"></label></td>
                 <td><label><input id="eas" type="checkbox"></label></td>
-                <td><input id="maker" type="number" step="0.001" min="0.000" max="0.050" value="0.000"></td>
-                <td><input id="asc" type="number" min="0" max="3" value="0"></td>
+                <td><input id="maker" type="number" step="0.001" min="0.000" max="0.100" value="0.000"></td>
+                <td><input id="asc" type="number" min="0" max="4" value="0"></td>
                 <td id="exc"></td>
                 <td id="coi"></td>
                 <td id="gem"></td>
@@ -46,7 +48,8 @@
                     base = (asc > 0) ? Math.pow(1e27 , Math.pow(0.75 , asc)) : 1e27;
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
-                if ($('#E290').prop('checked')) mult -= 0.025;
+                if ($('#E290').prop('checked')) mult -= 0.02;
+				if ($('#DN8').prop('checked')) mult -= 0.02;
                 if ($('#eas').prop('checked')) mult -= 0.025;
                 if (maker > 0) {
                     mult -= maker;
@@ -72,7 +75,7 @@
     <p>Finding the 1st, 10th, 25th and 50th ruby rewards a trophy.</p>
     <p><b>Spending Rubies</b></p>
     <p>Rubies enable you to buy:
-    <p>Excavation Resets : Costs 1 Ruby - 1-2999, 2 Rubies 3000-5999, 3 Rubies 6000-8999, 4 Rubies 9000-11999, 5 Rubies 12000-14999.</p>
+    <p>Excavation Resets: Costs (floor(x / 3000) + 1) where x is excavation count.</p>
     <p>Note: The counter is reset, but you will not find rubies again.</p>
     <p>Event items (such as snowballs during the Christmas event)</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RubyPower.png" align="middle"><b> Ruby Power Upgrade</b></p>
