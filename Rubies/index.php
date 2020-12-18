@@ -13,13 +13,13 @@
     <p>You can buy an unlimited number of Rubies, or you can excavate for them but they get progressively harder to find.
    <div id="rubcalc" class="calc">
         <table>
-            <tbody><tr><th colspan="8">Ruby Excavation Count and Cost</th></tr>
+            <tbody><tr><th colspan="9">Ruby Excavation Count and Cost</th></tr>
             <tr>
                 <th style="width: 10%">Ruby</th>
                 <th style="width: 7%">E290</th>
 				<th style="width: 7%">DN8</th>
                 <th style="width: 7%">Easter</th>
-                <th style="width: 12.5%">Maker</th>
+                <th style="width: 13%">Maker</th>
                 <th style="width: 14%">Ascension</th>
                 <th style="width: 14%">Excavation</th>
                 <th style="width: 14%">Coins</th>
