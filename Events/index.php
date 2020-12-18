@@ -247,7 +247,7 @@
     <p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>
     <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p>
     " coords="4,63,57,116" shape="rect">
-	<area research="
+    <area research="
     <p><b>Christmas</b></p>
     <p><b><img src=/realm/Factions/picks/SnowballFight.png align=middle> Snowball Fight</b></p>
     <p><b>Type</b>: Feat</p>
@@ -711,10 +711,10 @@
                                 <center><img src="http://musicfamily.org/realm/Factions/picks/ParticleHalloween.png" width="54" height="54" /></center>
                                 <center>Halloween</center>
                             </td>
-							<td>
+                            <td>
                                 <center><img src="/realm/Factions/picks/ParticleChristmas.png" width="54" height="54" /></center>
                                 <center>Christmas</center>
-                            </td>	
+                            </td>    
                         </tr>
                     </tbody>
                 </thead>
@@ -763,7 +763,7 @@
         <div class="shlisting">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2020 Events</a></b></p>
             <div class="category autohide">
-				<div class="shelementwhole">
+                <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 21, 2020 - Jan 5, 2021)</a></b></p>
                     <div class="autohide">
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
@@ -882,7 +882,7 @@
                         <p><b>Requirement</b>: Collect Snowballs to find the Perfect Snowflake. Your chances increase as you collect more.</p>
                         <p><b>Chance</b>: min(1, (x ^ 2 / 9,000,000,000 (9 T))), where x is snowballs collected.</p>
                         <p><b>Effect</b>: Reduce Royal Exchange cost multiplier by 0.01.</p>
-						<br/>
+                        <br/>
 						<p><b><img src="/realm/Factions/picks/SnowballFight.png" alt="SnowballFight" align="middle"> Snowball Fight</b></p>
                         <p><b>Type</b>: Feat</p>
                         <p><b>Requirement</b>: Collect a stack of at least 720 Snowballs while Call to Arms is active.</p>
