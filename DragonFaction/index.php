@@ -214,7 +214,7 @@
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
-        <p><b>Effect</b>: Increase mana regeneration based on the amount of Dragon Pastures you own.</p>
+        <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Dragon Pastures you built in this Reincarnation</p>
         <p><b>Formula</b>: (0.65 * x ^ 0.65), where x is Dragon Pastures you own.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"><b> Wyrm's Rest</b></p>
