@@ -12,12 +12,12 @@
 <p>By Ascending you will unlock a new main currency, Diamond Coins at R40, Emerald Coins at R100 and Amethyst Coins at R160 that will be used for post-ascension upgrades and features, resulting in much smaller numbers.</p>
 <p>All upgrades that have previously cost Coins (NOT Faction Coins) will be free, and the formulas for subsequent Reincarnations will change to allow continued progress. All Gifts bonuses, Scry Rewards, Ruby bonuses, Event bonuses and Gem bonuses will NOT be affected by the Ascension reduction.</p>
 <p><b>Note</b>: It is strongly advised to get most, if not all, the trophies, challenges and artifacts possible before ascending.</p>
-<p><b>Note:</b> It is wise to ascend before reaching or 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count).</p>
+<p><b>Note:</b> It is wise to ascend before reaching 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count).</p>
 </br>
 <h6>Income Shift</h6>
 <p>Ascension reduces each income boost by raising the respective multiplier to the 1/10 power. For instance, the 6000% of S330 is a 61x multiplier; 61 ^ 0.1 = 1.508, so it's a 50.8% percent increase post-ascension.
 <p>The bonus formulas of production upgrades will all be shifted to a lower range, resulting in many 2-digit number bonuses. Upgrades that increase something other than Building, Click or Assistant production multiplicatively are not affected.</p>
-<p><b>Formula</b>: ((x / 100 + 1) ^ (0.1 * A) - 1) * 100, where x is original bonus in percentage and A is Ascension count.</p>
+<p><b>Formula</b>: ((x / 100 + 1) ^ (0.1 ^ A) - 1) * 100, where x is original bonus in percentage and A is Ascension count.</p>
 </br>
 <h6>Multiplier reduction</h6>
 <p>Ascension reduces multipliers for building cost and excavation.</p>

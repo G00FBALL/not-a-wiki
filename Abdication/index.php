@@ -29,7 +29,7 @@
 <p><b>Effect</b>: Increase mana regeneration by 1m/s.</p>
 <p><b>Cost</b>: 1,000 gold</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png" alt="Rewind" align="middle"> <b>Rewind</b> (100M)</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png" alt="Rewind" align="middle"> <b>Rewind</b></p>
 <p><b>Requirement</b>: Abdicate after producing at least 1Oc Coins.</p>
 <p><b>Effect</b>: Increase the production of all buildings by 8%.</p>
 <p><b>Cost</b>: 1 Oc (1E27)</p>

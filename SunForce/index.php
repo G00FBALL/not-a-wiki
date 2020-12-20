@@ -6,17 +6,17 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageUpgrade.png" alt="Sun Force" align="middle"></h6>
 <h6>Sun Force</h6>
 <p>Obtained by excavating both the Dawnstone and Duskstone lore artifacts. It has different effects depending on the time of day.</p>
-<p>At R100+ you can get Planetary Force (Lore Artifact) which activates all Sun Force effects at once. See detales below.</p>
+<p>At R100+ you can get Planetary Force (Lore Artifact) which activates all Sun Force effects at once. See details below.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png" alt="Dawnstone" align="middle"><b> Dawnstone</b></p>
 <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
 <p><b>Rewards</b>: With Both the Dawnstone and Duskstone artifact, awards the Sun Force upgrade, which grants different effects based on time of the day.</p>
-<p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Local Time)</p>
+<p><b>Requirement</b>: R16+, Excavate between 5:00am and 8:00am (Local Time)</p>
 <p><b>Chance</b>: (Excavation count / 10,000)%</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png" alt="Duskstone" align="middle"><b> Duskstone</b></p>
 <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
 <p><b>Rewards</b>: With Both the Duskstone and Dawnstone artifacts, awards the Sun Force upgrade, which grants different effects based on time of the day. See details.</p>
-<p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Local Time)</p>
+<p><b>Requirement</b>: R16+, Excavate between 6:00pm and 9:00pm (Local Time)</p>
 <p><b>Chance</b>: (Excavation count / 10,000)%</p>
 <h6>Sun Force</h6>
 <p><b>Note</b>: All times are based on UTC time.</p>

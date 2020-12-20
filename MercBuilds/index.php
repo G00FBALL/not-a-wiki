@@ -4,7 +4,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Important</b>: <FONT color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part 1</b> Artifact, using the <b><a target="_blank" href="http://musicfamily.org/realm/SpecialBuilds/">Harley Quinn</b></a> build.</font>
+    <p><b>Important</b>: <FONT color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part I</b> Artifact, using the Harley Quinn build.</font>
     <p>With version 2 comes the ability to load and save mercenary builds. The Faction Upgrades and Spells are saved in templates.</p>
     <p><b>Note</b>: You will need to manually select the alignment and bloodline.</p>
     <p><b>Templates</b> can be found at the top of each build table (if available).</p>
@@ -13,155 +13,217 @@
     <div class="shlisting">
         <p><b>Production</b></p>
         <div class="category">
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Neutral</p>
-                          <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting" id="Build"></p>
-                          <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
-                          <p>SP:Diamond Pickaxe,SP:Fairy Chanting</p>
-                          <p><b>Note</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
-                          <p>For R3+, lower range & lower income but doesn't rely on LS RNG.</p>
-                          <p><b>Spells</b>: Fairy Chanting, Diamond Pickaxe</p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R7+ <font color="DarkRed">Evil</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Evil</p>
-                          <p><b>Bloodline</b>: Elven</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,SP:Fairy Chanting,SP:Grand Balance" id="Build"></p>
-                          <p><b>Template</b>: Elven Bloodline</p>
-                          <p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
-                          <p>SP:Fairy Chanting,SP:Grand Balance</p>
-                          <p><b>Note</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
-                          <p><b>Instructions</b>: Don't cast Blood Frenzy.</p>
-                          <p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
-                          <p><b>Note</b>: Autocast should be fine with R18 challenges. Or with Mana Waste. But Tricaster is supposed to be a short 2-minute rush build.</p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R3+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Neutral</p>
-                          <p><b>Bloodline</b>: Fairy (<b>Ignore if you do not have Bloodline</b>)</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Lightning Strike,SP:Fairy Chanting" id="Build"></p>
-                          <p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
-                          <p>SP:Lightning Strike,SP:Fairy Chanting</p>
-                          <p><b>Note</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
-                          <p><b>Lightning Forge Instructions</b>:</p>
-                          <p>Early game, play until you get a Blacksmith Lightning Strike.</p>
-                          <p>This is when you get your big gem boost, other strikes barely count.</p>
-                          <p>To gain time: As soon as you have bought LS, use the <a target="_blank" href="http://dox4242.github.io/rws/"><b>Realm Weather Service</b></a> to check your LS forecast. Cast Lightning Strikes alone and get ready, build all you can, for when it will hit Blacksmith.
-                          <p><b>(**Note</b>: This tool can be temporarily broken after updates.)</p>
-                          <p>When Lightning Strike hits Blacksmith, drop all your mana on a full combo-spell and cast as many tax collections as you can while all the other spells are casting.</p>
-                          <p>You can get more TCs by casting spells manually: First cast all the non-FC-TC spells, wait 10 seconds for some mana to build-up, then cast FC+TCs. This can make a noticeable difference. Abdicate.</b></p>
-                          <p>In later games, repeat the above process until gem growth slows substantially, feeding your gold back into buying buildings to improve the return of the combos.</p>
-                          <p>If you have Spiritual Surge, do not use it until you can afford (6000 mana) to cast all 6 spells in one combo, as it will take away the ability to fully combo all other spells and reduce income.</p>
-                        </div>
-                </div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Perfect Quasi R3-R6 <font color="DarkGoldenRod">Neutral</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Cyden</p>
+					<p><b>Requirement</b>: Coin Pillage</p>
+					<p><b>Alignment</b>: Neutral</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD6,DD9,FC4,DN3,DW8,SP:Goblin's Greed,SP:Fairy Chanting">
+					</p>
+					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD6,DD9,FC4,DN3,DW8,</p>
+					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Harvest R3-R6 <font color="DarkRed">Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: swim</p>
+					<p><b>Requirement</b>: Coin Pillage, Low Excavations (so you can excavate to set up the build).</p>
+					<p><b>Alignment</b>: Evil</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="DM3,GB1,UD5,UD7,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,SP:Hellfire Blast,SP:Night Time">
+					</p>
+					<p>DM3,GB1,UD5,UD7,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
+					<p>SP:Hellfire Blast,SP:Night Time</p>
+					<p><b>Notes</b>: Faster than Perfect Quasi for R3-R6, but requires excavations to set up.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tricaster R7+ <font color="DarkRed">Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: ?</p>
+					<p><b>Requirement</b>: Lucifer secret trophy</p>
+					<p><b>Alignment</b>: Evil</p>
+					<p><b>Bloodline</b>: Elf</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,SP:Fairy Chanting,SP:Grand Balance">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="GB1,UD7,DM3,TT6,DD1,DD5,DD6,DD9,DN3,DN8,DW5,DW8,SP:Fairy Chanting,SP:Grand Balance">
+						<b>Sunforce Assistant boost</b>
+					</p>
+					<p>GB1,UD5,UD7,DM3,TT6,DD1,DD6,DD9,DN3,DN8,DW5,DW8,</p>
+					<p>SP:Fairy Chanting,SP:Grand Balance</p>
+					<p><b>Notes</b>: Replace UD5 with DD5 when under Sunforce Assistant boost.</p>
+					<p><b>Notes</b>: Grand Balance should targets Farm for its production increase. Do not buy the upgrade available at 1750 Farms (Side Orchard) until you can buy the one at 1750 Orcish Arenas (Larger Gallery). Same at 2000 Farms.</p>
+					<p><b>Instructions</b>: Don't cast Blood Frenzy, as it has no effect on your production.</p>
+					<p><b>Manual Cast</b>: Grand Balance, then Call to Arms and Spiritual Surge (if R14+) when Grand Balance reaches 20 seconds. Cast Fairy Chanting at 10 seconds. Then Tax Collections (these can be autocast). At very low gems and R14+, cast Spiritual Surge after the Fairy Chanting cast at 10 seconds.</p>
+				</div>
+			</div>
+						<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Diamond Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: ?</p>
+					<p><b>Range</b>: 1e68 (100 Uvg) Gems - 1e72 (1 Tvg) Gems</p>
+					<p><b>Requirement</b>: 1500+ Excavations</p>
+					<p><b>Alignment</b>: Neutral</p>
+					<p><b>Bloodline</b>: Fairy</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN8,DW8,SP:Diamond Pickaxe,SP:Fairy Chanting">
+						<b>Sunforce Assistant boost</b>
+					</p>
+					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
+					<p>SP:Diamond Pickaxe,SP:Fairy Chanting</p>
+					<p><b>Notes</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
+					<p><b>Notes</b>: Weaker than Lightning Strike builds, but doesn't rely on RNG luck.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Forge R14+ <font color="DarkGoldenRod">Neutral</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: ?</p>
+					<p><b>Range</b>: 1e68 (100 Uvg) Gems - 1e72 (1 Tvg) Gems</p>
+					<p><b>Requirement</b>: 1500+ Excavations</p>
+					<p><b>Alignment</b>: Neutral</p>
+					<p><b>Bloodline</b>: Fairy</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,SP:Lightning Strike,SP:Fairy Chanting">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DN8,DW8,SP:Lightning Strike,SP:Fairy Chanting">
+						<b>Sunforce Assistant boost</b>
+					</p>
+					<p>FR3,FR4,FR9,GB1,TT6,TT9,DD1,DD4,DD5,DD9,DN3,DW8,</p>
+					<p>SP:Lightning Strike,SP:Fairy Chanting</p>
+					<p><b>Notes</b>: Replace FR9 with DN8 when under Sunforce Assistant boost.</p>
+					<p><b>Notes</b>: Replace FR3 with FR2 or FR1 if there is an Inn or Farm strike close while a Blacksmith strike is far away for a slightly weaker but still powerful combo.</p>
+					<p><b>Lightning Forge Instructions</b>:</p>
+					<p>Early game, play until you get a Blacksmith Lightning Strike.</p>
+					<p>This is when you get your big gem boost, other strikes barely count.</p>
+					<p>To gain time: As soon as you have bought LS, use the <a target="_blank" href="http://dox4242.github.io/rws/"><b>Realm Weather Service</b></a> to check your LS forecast. Cast Lightning Strikes alone and get ready, build all you can, for when it will hit Blacksmith.</p>
+					<p>When Lightning Strike hits Blacksmith, drop all your mana on a full combo-spell and cast as many tax collections as you can while all the other spells are casting.</p>
+					<p>You can get more TCs by casting spells manually: First cast all the non-FC-TC spells, wait 10 seconds for some mana to build-up, then cast FC+TCs. This can make a noticeable difference. Abdicate.</b></p>
+					<p>In higher gems, repeat the above process until gem growth slows substantially, feeding your gold back into buying buildings to improve the return of the combos.</p>
+				</div>
+			</div>
         </div>
         <br/>
-        <p><b>Trophy Builds</b></p>
+        <H6 id="TrophyBuilds"></h6><p><b>Trophy Builds</b></p>
         <div class="category">
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Evil Mercenary</p>
-                          <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"></p>
-                          <p><b>Template</b></p>
-                          <p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
-                          <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-                          <p><b>Note</b>: This build is for getting <b>Coin Pillage</b>,<b>Premeditation</b> and <b>Harlequin</b> at R3 and <b>KYE</b> at R12+</p>
-                          <p><b>Coin Pillage</b>: After the build is set up put Tax Collection on Silver auto casting and done.</p>
-                          <p>by<b> Chat Room #2 (edited by PseudonymousBosh)</b></p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="DarkRed"> Evil</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Evil Mercenary</p>
-                          <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,SP:Goblin's Greed" id="Build"></p>
-                          <p><b>Template</b></p>
-                          <p>FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,</p>
-                          <p>SP:Goblin's Greed</p>
-                          <p>This build is only for getting the (Lucifer) Trophy.</p>
-                          <p>by<b> Namelessname</b></p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst (R3+ Unlimited Mana, R7+ Mana Waste)<font color="DarkRed"> Evil</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Evil Mercenary</p>
-                          <p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,SP:Goblin's Greed,SP:Fairy Chanting," id="Build"></p>
-                          <p><b>Template</b></p>
-                          <p>FR9,AN3,AN6,UD5,DM8,DD1,DD6,FC5,FC7,DN2,DN8,DW2,</p>
-                          <p>SP:Goblin's Greed,SP:Fairy Chanting,</p>
-                          <p>This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
-                          <p>If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.</p>
-                          <p>by <b>artcrow</b></p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7-R11<font color="Blue"> Good</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Good Mercenary</p>
-                          <p><b>Bloodline</b>: Angel</p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"></p>
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR9,AN1,AN3,AN5,AN6,AN8,GB1,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting" id="Build"> Stopping at Mana Waste</p>
-                          <p><b>Mercenary Template</b>:</p>
-                          <p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
-                          <p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-                          <p>Variant of IGOT a need for trophies for getting mana waste and autocasting.</p>
-                          <p><b>Range</b>:R7-R11</p>
-                          <p><b>Requirements</b>: Helden Sterben Nicht</p>
-                          <p><b>Note</b>: Takes 3 hours to get Mana Waste.</p>
-                          <p><b>Note</b>: All times listed below are with masterful autocast unlocked, 67.4 Qad 6.74e46 gems at R7</p>
-                          <p><b>Note</b>: Times have not been retested in 3.5</p>
-                          <p><b>300 assistants</b>: 5 hours</p>
-                          <p><b>Contingence Autocasting</b>: 6 hours</p>
-                          <p><b>Mana Wave</b>: 6 hours</p>
-                          <p><b>500000 spells</b>: 6 hours 30 minutes</p>
-                          <p><b>Planned Autocasting</b>: 6 hours 30 minutes</p>
-                          <p><b>500 assistants</b>: 7 hours 20 minutes</p>
-                          <p><b>Efficient Autocasting</b>: 7 hours 30 minutes</p>
-                          <p><b>Instructions</b></p>
-                          <p>Don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power if it increases max mana. If you already have at least Priority Autocasting unlocked, cast Fairy Chanting and Tax Collection, otherwise cast Tax collection until you do. After you exceed 1150 mana/second and unlock Mana Waste, you can buy it and all the other max mana upgrades.</p>
-                          <p><b>Note</b>: Helden Sterben Nicht is used because it increases max mana and regen by the same amount, which on its own is a neutral effect towards getting Mana Waste. However, the extra regen helps the build grow faster, and decreases the base mana requirement for Mana Waste by a few percent.</p>
-                          <p><b>Note</b>: While this can be used R12+, the extra max mana from Reincarnation Power will make it more difficult. It's best to get mana waste before R12 unless you want to wait until R18+.</p>
-                          <p>by <b>pseudobyte</b></p>
-                        </div>
-                </div>
-                <div class="shelementwhole">
-                        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harlequin Tricaster R12+<font color="DarkRed"> Evil</font></a></b></p>
-                        <div class="autohide">
-                          <p><b>Alignment</b>: Evil Mercenary</p>
-                          <p><b>Bloodline</b>: Elf
-                          <p><button onclick="myFunction($(this))">Copy Build</button>
-                          <input type="text" value="FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,SP:Fairy Chanting,SP:Grand Balance" id="Build"></p>
-                          <p>FR9,EL7,AN5,GB1,UD7,DM3,TT6,DD1,FC6,DN3,DN7,DW5,</p>
-                          <p>SP:Fairy Chanting,SP:Grand Balance</p>
-                          <p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.</p>
-                          <p>You can try Harlequin Tricaster if you can't afford excavations with the first build.</p>
-                          <p>Requires high gem total closer to end of reincarnation in R14+ to add Spiritual Surge.</p>
-                          <p>Exclude Blood Frenzy from the spell combo as it doesn't affect Farms.</p>
-                          <p>You can ignore the following instructions if you have over 2000 of each of the first 5 buildings by the time you cast income Tax Collections. Buy 1500/1750/2000 Farm, Slave Pen, and Orcish Arena upgrades at the same time to avoid Grand Balance targeting the wrong building.</p>
-                          <p>It might require Helden Sterben Nicht, Rule 'dis, Unlimited Mana to work well in R14+.</p>
-                          <p>Build comes from this <a target="_blank" href="https://www.kongregate.com/forums/8945-realm-grinder/topics/871213-r13-stuck-at-vg-gems?page=1#posts-11488590"><b>forum</b></a> post by artcrow</p>
-                        </div>
-                </div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn R3+<font color="DarkRed"> Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Chat Room #2 (edited by PseudonymousBosh)</p>
+					<p><b>Alignment</b>: Evil Mercenary</p>
+					<p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,SP:Goblin's Greed,SP:Fairy Chanting">
+					</p>
+					<p><b>Template</b></p>
+					<p>FR4,EL3,AN5,GB1,UD7,DM8,TT6,DD1,FC7,DN2,DW4,GB7,</p>
+					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
+					<p><b>Notes</b>: This build is for getting <b>Coin Pillage</b> and <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lucifer R3+<font color="DarkRed"> Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Namelessname</p>
+					<p><b>Alignment</b>: Evil Mercenary</p>
+					<p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,SP:Goblin's Greed">
+					</p>
+					<p><b>Template</b></p>
+					<p>FR9,EL1,EL3,EL4,EL7,AN3,AN5,AN6,DN2,DN5,DN7,DN8,</p>
+					<p>SP:Goblin's Greed</p>
+					<p><b>Notes</b>:This build is only for getting the Lucifer Trophy.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Orbiter R3+ (Power Orb Excavator)<font color="DarkGoldenRod">Neutral</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Cyden</p>
+					<p><b>Alignment</b>: Neutral Mercenary</p>
+					<p><b>Bloodline</b>: Faceless (<b>Ignore if you don't have Bloodline</b>)</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR3,FR4,FR9,TT3,TT6,TT9,DD1,DD4,DD5,DD9,DN2,DW8,SP:Fairy Chanting,SP:Diamond Pickaxe">
+					</p>
+					<p><b>Template</b></p>
+					<p>FR3,FR4,FR9,TT3,TT6,TT9,DD1,DD4,DD5,DD9,DN2,DW8,</p>
+					<p>SP:Fairy Chanting,SP:Diamond Pickaxe</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Burst (R3+ Unlimited Mana, R7+ Mana Waste)<font color="DarkRed"> Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Cyden</p>
+					<p><b>Requirements</b>: Power Orb lore artifact</p>
+					<p><b>Range</b>: 1e48 (1 Qid) Gems+</p>
+					<p><b>Alignment</b>: Evil Mercenary</p>
+					<p><b>Bloodline</b>: Druid (<b>Ignore if you don't have Bloodline</b>)</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR9,AN3,AN6,UD3,UD5,DM7,DM8,DD1,DD6,FC5,FC7,DN2,SP:Fairy Chanting,SP:Night Time">
+					</p>
+					<p><b>Template</b></p>
+					<p>FR9,AN3,AN6,UD3,UD5,DM7,DM8,DD1,DD6,FC5,FC7,DN2,</p>
+					<p>,SP:Fairy Chanting,SP:Night Time</p>
+					<p><b>Notes</b>: This build is only for getting the Unlimited Mana Trophy in R3, and Mana Waste in R7.</p>
+					<p><b>Notes</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">IGOT an Excess of Mana R7+ (Autocasting upgrades)<font color="Blue"> Good</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: ?</p>
+					<p><b>Alignment</b>: Good Mercenary</p>
+					<p><b>Bloodline</b>: Druid</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,SP:Goblin's Greed,SP:Fairy Chanting">
+					</p>
+					<p><b>Mercenary Template</b>:</p>
+					<p>FR9,AN1,AN2,AN3,AN5,AN6,AN8,GB7,DD6,FC7,DN2,DW4,</p>
+					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
+					<p><b>Notes</b>: This build is for generating mana to unlock the various autocasting upgrades up to Efficient Autocasting.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Prismatic Beam R12+ (Know Your Enemy Lore Artifact)<font color="DarkRed"> Evil</font></a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Artcrow modified by Sunk</p>
+					<p><b>Alignment</b>: Evil Mercenary</p>
+					<p><b>Bloodline</b>: Elf</p>
+					<p><button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="FR9,EL5,AN5,GB1,UD7,DM3,TT6,DD1,DW5,FC7,DN3,DW8,SP:Fairy Chanting,SP:Grand Balance"></p>
+					<p>FR9,EL5,AN5,GB1,UD7,DM3,TT6,DD1,DW5,FC7,DN3,DW8,</p>
+					<p>SP:Fairy Chanting,SP:Grand Balance</p>
+					<p><b>Notes</b>: This build is meant for when you have over excavated this R, but still need Know Your Enemy Lore Artifact.</p>
+					<p>Use the first build, Harley Quinn, and excavate until you get Know Your Enemy, Part I artifact.</p>
+					<p>You can use Prismatic Beam if you can't afford excavations with the first build.</p>
+					<p>Requires high gem total closer to end of reincarnation in R14+ to add Spiritual Surge.</p>
+					<p>Exclude Blood Frenzy from the spell combo as it doesn't affect Farms.</p>
+					<p>You can ignore the following instructions if you have over 2000 of each of the first 5 buildings by the time you cast income Tax Collections. Buy 1500/1750/2000 Farm, Slave Pen, and Orcish Arena upgrades at the same time to avoid Grand Balance targeting the wrong building.</p>
+					<p>It might require Helden Sterben Nicht, Rule 'dis, Unlimited Mana to work well in R14+.</p>
+				</div>
+			</div>
         </div>
     </div>
 <?php include "../scripts/footer.html"; ?>

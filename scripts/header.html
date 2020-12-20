@@ -1,14 +1,48 @@
 <link rel="shortcut icon" href="http://musicfamily.org/realm/Factions/picks/favicon.ico">
 <link rel="stylesheet" type="text/css" href="/realm/scripts/common.css"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js" integrity="sha512-K7Zj7PGsHk2fpY3Jwvbuo9nKc541MofFrrLaUUO9zqghnJxbZ3Zn35W/ZeXvbT2RtSujxGbw8PgkqpoZXXbGhw==" crossorigin="anonymous"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="http://musicfamily.org/realm/scripts/jquery.style-my-tooltips.js"></script>
 <title>G00F's Not a Wiki </title>
 <meta charset="UTF-8">
 <meta name="keywords" content="Realm Grinder, Game, Artifact, Artifacts, Factions, Reincarnation, Challenges, Mercenary Builds, Mercenary, Research Builds, Research, Upgrades, Spells, Ascension, Ascension Builds, Prestige Research, Prestige, Prestige Builds, Kongregate, Trophies, Trophy, Faction Champion, Games, Coins, Treasure, Mana, Assistants, Gem, Gems,  Archaeology, Excavation, Ruby, Rubies, Lore Artifacts, Quest Artifacts, Fairy, Elf, Angel, Goblin, Undead, Demon, Titan, Druid, Faceless, Dwarf, Drow, Research, Notation, Premium Upgrades, Requirements, Final Reward, Reward"/>
 <style>
+        table.Faction {
+            border-collapse: collapse;
+        }
+        .Faction th,.Faction td {
+            border: 2px solid black;
+        padding: 3px;
+        }
+        .Faction td {
+            font-weight: bold
+        padding: 10px;
+        }
+       .gsc-cursor-page  {
+        padding-right: 10px;
+       }
+    </style>
+<style>
+        table.ManaColors {
+            border-collapse: collapse;
+        }
+        .ManaColors th,.ManaColors td {
+            border: 3px solid black;
+        }
+        .ManaColors td {
+            font-weight: bold
+        }
+       .gsc-cursor-page  {
+        padding: 4px;
+       }
+</style>
+<style>
         table.numtable {
             border-collapse: collapse;
+        }
+        .numtable tr:hover {
+            background-color: #ffffff
         }
         .numtable tr:hover {
             background-color: #ffffff
@@ -108,6 +142,7 @@
                         <li><a href="/realm/Archon" research="All Archon Challenges">Archon</a>
                         <li><a href="/realm/Djinn" research="All Djinn Challenges">Djinn</a>
                         <li><a href="/realm/Makers" research="All Makers Challenges">Makers</a>
+                        <li><a href="/realm/Mercenary" research="All Mercenary Challenges">Mercenary</a>
                             <ul>
                             </ul>
                             <!--[if lte IE 6]>
@@ -122,38 +157,6 @@
                     <![endif]-->
                 </li>
                 <li><a href="/realm/TrophyPage" research="A complete list of Trophies and their requirements in image map form">Trophies</a>
-                    <!--[if lte IE 6]>
-                    <a href="#">Category two
-                        <table>
-                            <tr>
-                                <td>
-                    <![endif]-->
-                    <ul>
-                        <!--<li><a href="/realm/TipsHints" research="Tips & Hints">Tips & Hints</a></li>--!>
-                        <li><a href="/realm/Coins" research="Coin Trophies">Coins</a></li>
-                        <li><a href="/realm/Treasure" research="Treasure Trophies">Treasure</a></li>
-                        <li><a href="/realm/ClickTrophies" research="Click Trophies">Clicks</a></li>
-                        <li><a href="/realm/EachBuilding" research="Each Building Trophies">Each Building</a></li>
-                        <li><a href="/realm/TotalBuildings" research="Total Buildings">Total Buildings</a></li>
-                        <li><a href="/realm/Mana" research="Mana, Arcane, Spell Upgrade Trophies">Magic</a></li>
-                        <li><a href="/realm/Spelltrophy" research="Spells Cast Trophies">Spell</a></li>
-                        <li><a href="/realm/FactionCoin" research="Faction Coin Trophies">Faction Coin</a></li>
-                        <li><a href="/realm/Assistant" research="Assistant Trophies">Assistant</a></li>
-                        <li><a href="/realm/TArtifacts" research="Artifact Trophies">Artifact</a></li>
-                        <li><a href="/realm/Gem" research="Gem Trophies">Gem</a></li>
-                        <li><a href="/realm/Ruby" research="Ruby Trophies">Ruby</a></li>
-                        <li><a href="/realm/Upgradetrophy" research="Upgrade Trophies">Upgrade</a></li>
-                        <li><a href="/realm/FactionChampion" research="Faction Champion Trophies">Faction Champion</a></li>
-                        <li><a href="/realm/GrandChampion" research="Grand Champion Trophies">Grand Champion</a></li>
-                        <li><a href="/realm/MercOath" research="Oath of the Mercenary">Merc Oath</a></li>
-                        <li><a href="/realm/RTrophies" research="Reincarnation Trophies">Reincarnation</a></li>
-                        <li><a href="/realm/Archaeology" research="Archaeology Trophies">Archaeology</a></li>
-                        <li><a href="/realm/Secret" research="Secret Trophies">Secret</a></li>
-                    </ul>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
                 </li>
                 <li><a href="/realm/Factions">Factions</a>
                     <!--[if lte IE 6]>
@@ -217,23 +220,10 @@
                                 <li><a href="/realm/Economics" research="Economics">Economics</a></li>
                                 <li><a href="/realm/Alchemy" research="Alchemy">Alchemy</a></li>
                                 <li><a href="/realm/Warfare" research="Warfare">Warfare</a></li>
+                                <li><a href="/realm/Forbidden" research="Forbidden">Forbidden</a></li>
                             </ul>
                         <li><a href="/realm/Researchtree" research="Researchtree">Research Tree</a></li>
                         <li><a href="/realm/UniqueBuilding" research="UniqueBuilding">Unique Buildings</a></li>
-                        <li><a href="/realm/ResearchUpgrades" research="Research Upgrades">Upgrades</a>
-                            <ul>
-                                <li><a href="/realm/ResearchAssistantUpgrades" research="Assistant Upgrades">Assistant</a></li>
-                                <li><a href="/realm/ResearchManaUpgrades" research="Mana Upgrades">Mana</a></li>
-                                <li><a href="/realm/ResearchSpellUpgrades" research="Spell Upgrades">Spell</a></li>
-                                <li><a href="/realm/ResearchFactionCoinUpgrades" research="Faction Coin Find Chance Upgrades">Faction Coin Find Chance</a></li>
-                                <li><a href="/realm/ResearchUniqueBuildingUpgrades/" research="Unique Building Upgrades">Unique Building</a>
-                                <li><a href="/realm/ResearchBuildingBasedOnUB/" research="Building Upgrades based on Unique Buildings">Building-UB</a>
-                                <li><a href="/realm/ResearchNonUniqueUpgrades/" research="Non-Unique Building Upgrades slots">Non-Unique Building</a>
-                                <li><a href="/realm/ResearchNeutralBuildingUpgrades/" research="Neutral Building Upgrades">Neutral Building</a>
-                                <li><a href="/realm/ResearchAllBuildingUpgrades/" research="All other Building Upgrades">All Building</a>
-                                <li><a href="/realm/ResearchClickRewardUpgrades/" research="Click Reward Upgrades">Click Reward</a>
-                                <li><a href="/realm/ResearchGemBonusUpgrades/" research="Gem Upgrades">Gem Upgrades</a>
-                            </ul>
                     </ul>
                     <!--[if lte IE 6]>
                     </td></tr></table>
@@ -274,9 +264,10 @@
                     <li id="active"><a href="/realm/SiteMap/" id="current">Sitemap</a></li>
                     <li id="active"><a href="/realm/RNG/" id="current">Random Number Generator</a></li>
                     <li id="active"><a href="/realm/Changes/" id="current">Latest Major Patch</a></li>
+					<li id="active"><a href="/realm/Changelog">Changelog</a></li>
                     <li id="active"><a href="https://discord.gg/cq6zmQX" id="current">Official Realm Grinder Discord</a></li>
                     <P align="center"><b>The Game</b>
-                      <li id="active"><a href="/realm/Terminology">Terminology HotKeys</a></li>
+                    <li id="active"><a href="/realm/Terminology">Terminology<br/>HotKeys</a></li>
                     <li id="active"><a href="/realm/GameWindow">Game Window</a></li>
                     <li id="active"><a href="/realm/Reset">Abdication<br/>Reincarnation<br/>Ascension</a></li>
                     <li id="active"><a href="/realm/TrophyPage" reserach="A complete list of Trophies">Trophy Page</a></li>
@@ -284,12 +275,8 @@
                     <li id="active"><a target="_blank" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1118498519">Beginners Guide </a></li>
                     <li id="active"><a href="/realm/R16Guide">R16 Research Guide</a></li>
                     <li id="active"><a href="/realm/UsefulTables">Useful Tables</a></li>
-                    <li id="active"><a target="_blank" research="R0 - R39 Guide" href="/realm/A0_Plot.png">A0 Plot</a></li>
-                    <li id="active"><a target="_blank" research="R40 - R99 Guide" href="/realm/A1_Plot.png">A1 Plot</a></li>
                     <li id="active"><a href="/realm/Rubies">Rubies</a></li>
                     <li id="active"><a href="/realm/Events">Events</a></li>
-                    <li id="active"><a href="/realm/BuildingAlignments">Building Alignments</a></li>
-                    <li id="active"><a href="/realm/Changelog">Changelog</a></li>
                     <li id="active"><a href="/realm/PremiumUpgrades">Premium Upgrades</a></li>
                     <li id="active"><a href="/realm/Notation">Notation</a></li>
                     <li id="active"><a href="/realm/Kong">Kongregate Links</a></li>
@@ -298,6 +285,7 @@
                     <li id="active"><a href="/realm/WallofShame">Wall of Shame</a></li>
                     <P align="center">Upgrades
                     <li id="active"><a href="/realm/Upgrades">Upgrades</a></li>
+					<li id="active"><a href="/realm/BuildingAlignments">Building Alignments</a></li>
                     <li id="active"><a href="/realm/BuildingUpgrades">Building Upgrades</a></li>
                     <li id="active"><a href="/realm/Factions">Factions</a></li>
                     <li id="active"><a href="/realm/FactionUpgrades">Faction Upgrades</a></li>
@@ -314,18 +302,22 @@
                     <li id="active"><a href="/realm/Spells">Spells and Tier Upgrades</a></li>
                     <li id="active"><a href="/realm/SunForce">Sun Force</a></li>
                     <P align="center">Builds
-                    <!--<li id="active"><a href="/realm/SpecialBuilds" research="Trophy and Artifact">Special/Unlock Builds<span></a></li>-->
-                    <li id="active"><a href="/realm/MercBuilds">Mercenary Builds</a></li>
-                    <li id="active"><a href="/realm/ResearchBuilds" research="R16-R29">Research Builds</a></li>
-                    <li id="active"><a href="/realm/PBuilds" research="R29-R39">Prestige Builds</a></li>
-                    <li id="active"><a href="/realm/R40-R46" research="Ascension 1">R40-R46 Builds</a></li>
-                    <li id="active"><a href="/realm/R47-R60" research="Dragons">R47-R59 Builds</a></li>
-                    <li id="active"><a href="/realm/R60-R75" research="Lineages">R60-R75 Builds</a></li>
-                    <li id="active"><a href="/realm/R75Plus" research="Mercenary Research">R75-R99 Builds</a></li>
-                    <!--<li id="active"><a href="/realm/R90Plus" research="Veteran Figurine">R90-99 Builds</a></li>-->
-                    <li id="active"><a href="/realm/R100Plus" research="Ascension 2">R100-R115 Builds</a></li>
-                    <li id="active"><a href="/realm/R116Plus" research="Prestige Ascension 2">R116-R125 Builds</a></li>
-                    <li id="active"><a href="/realm/R125Plus" research="Elite Factions">R125+ Builds</a></li>
+					<li id="active"><a target="_blank" research="R0 - R39 Guide" href="/realm/A0_Plot.png">A0 Plot (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/MercBuilds">Mercenary Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/ResearchBuilds" research="R16-R29">Research Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/PBuilds" research="R29-R39">Prestige Builds (Currently Outdated)</a></li>
+                    <li id="active"><a target="_blank" research="R40 - R99 Guide" href="/realm/A1_Plot.png">A1 Plot (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R40-R46" research="Ascension 1">R40-R46 Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R47-R60" research="Dragons">R47-R59 Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R60-R75" research="Lineages">R60-R75 Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R75Plus" research="Mercenary Research">R75-R99 Builds (Currently Outdated)</a></li>
+					<li id="active"><a target="_blank" research="R100 - R159 Guide" href="/realm/A2_Plot.png">A2 Plot (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R100Plus" research="Ascension 2">R100-R115 Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R116Plus" research="Prestige Ascension 2">R116-R125 Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R125Plus" research="Elite Factions">R125-R135 Builds (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R135Plus" research="Elite Challenges">R135-R159 Builds (Currently Outdated)</a></li>
+					<li id="active"><a target="_blank" research="R160+ Guide" href="/realm/A3_Plot.png">A3 Plot (Currently Outdated)</a></li>
+                    <li id="active"><a href="/realm/R160Plus" research="A3 Mercenaries">R160+ Builds (Currently Outdated)</a></li>
 
                     </ul>
                     </div>

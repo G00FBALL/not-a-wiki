@@ -45,13 +45,14 @@
                     <p id="R41UniBuiPro"></p>
                     <p id="R45MaxMan"></p>
                     <p id="R50FCChaAdd"></p>
-                    <p id="R60FCChaMul"></p>
+                    <p id="R58FCChaMul"></p>
                     <p id="R70AddResSlo"></p>
                     <p id="R85AssPerR"></p>
                     <p id="R100ManRegPerR"></p>
                     <p id="R108ProdUBTimeDiff"></p>
                     <p id="R115FCChaMul"></p>
                     <p id="R120NEMPro"></p>
+					<p id="R150CTABoost"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -128,7 +129,7 @@
                 , function(rei) {return 2.5 * Math.pow(rei, 1.1);}
                 , function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
                 ],
-                [ 60, '#R60FCChaMul', false, 0
+                [ 58, '#R58FCChaMul', false, 0
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
                 ],
@@ -155,7 +156,11 @@
                 [ 120, '#R120NEMPro', true, 1
                 , function(rei) {return 100 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
-                ]
+                ],
+				[ 150, '#R150CTABoost', false, 0
+                , function(rei) {return rei + 1;}
+                , function(rei, bonus) {return 'Unique Buildings count ' + bonus + ' times more for Call to Arms purposes.';}
+                ]				
             ];
             function CalRBen() {
                 var rei = parseInt($('#ReiCosRei').val());
@@ -296,6 +301,18 @@
                     case 160:
                         Runl('Ascension 3');
                         break;
+					case 165:
+                        Runl('Mercenary Building Contract');
+                        break;
+					case 170:
+                        Runl('Mercenary Union Contract');
+                        break;
+					case 175:
+                        Runl('Forbidden Research');
+                        break;	
+					case 190:
+                        Runl('Mercenary Challenges');
+                        break;	
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
@@ -317,55 +334,60 @@
                 <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
                 <br/>
                 <p><b>2nd Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Gem production bonus by (0.2 * x)%.</p>
+                <p><b>Effect</b>: Increase Gem production bonus by (0.2 * x)%.</p>
                 <br/>
                 <p><b>5th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.</p>
+                <p><b>Effect</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.</p>
                 <br/>
                 <p><b>10th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.</p>
+                <p><b>Effect</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.</p>
                 <br/>
                 <p><b>12th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Maximum mana by 35 * x.</p>
+                <p><b>Effect</b>: Increase Maximum mana by 35 * x.</p>
                 <br/>
                 <p><b>20th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
+                <p><b>Effect</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
                 <br/>
                 <p><b>25th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Royal Exchange bonus by (0.5 * x)%.</p>
+                <p><b>Effect</b>: Increase Royal Exchange bonus by (0.5 * x)%.</p>
                 <br/>
                 <p><b>41st Reincarnation and up</b></p>
                 <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.15))%.</p>
                 <br/>
                 <p><b>45th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
+                <p><b>Effect</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
                 <br/>
                 <p><b>50th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively.</p>
+                <p><b>Effect</b>: Increase FC chance multiplicatively.</p>
                 <p><b>Formula</b>: (2.5 * x ^ 1.1), where x is number of Reincarnations made.</p>
                 <br/>
-                <p><b>60th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
+                <p><b>58th Reincarnation and up</b></p>
+                <p><b>Effect</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
                 <br/>
                 <p><b>70th Reincarnation and up</b></p>
-                <p><b>Added</b>: You gain 1 additional Research slot for each branch.</p>
+                <p><b>Effect</b>: You gain 1 additional Research slot for each branch.</p>
                 <br/>
                 <p><b>85th Reincarnation and up</b></p>
                 <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.</p>
                 <br/>
                 <p><b>100th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase mana regeneration by 1% per Reincarnation.</p>
+                <p><b>Effect</b>: Increase mana regeneration by 1% per Reincarnation.</p>
                 <br/>
                 <p><b>108th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
+                <p><b>Effect</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
                 <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
                 <br/>
                 <p><b>115th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R60 power)</p>
+                <p><b>Effect</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R58 power)</p>
                 <br/>
                 <p><b>120th Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase the production of all buildings based on Reincarnations made.</p>
+                <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
                 <p><b>Formula</b>: (125 * R)</p>
+                <br/>
+                <p><b>150th Reincarnation and up</b></p>
+                <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes based on Reincarnations made.</p>
+                <p><b>Formula</b>: (buildings * R)</p>
+                <br/>
             </div>
         </div>
         <div class="shelementwhole">
@@ -375,9 +397,10 @@
                 <p><b>R0</b>: Prestige Factions</p>
                 <p><b>R2-R18</b>: Vanilla challenges</p>
                 <p><b>R3</b>: Mercenaries</p>
-                <p><b>R4-R19</b>: Neutral Challenges</p>
+                <p><b>R4-R25</b>: Neutral Challenges</p>
                 <p><b>R6-R33</b>: Prestige Challenges</p>
                 <p><b>R7</b>: Bloodlines</p>
+				<p><b>R14</b>: New Spell (Spiritual Surge)</p>
                 <p><b>R16</b>: Vanilla Research</p>
                 <p><b>R23</b>: Neutral Research</p>
                 <p><b>R29</b>: Prestige Research</p>
@@ -388,14 +411,17 @@
                 <p><b>R48-R65</b>: Dragon Challenges</p>
                 <p><b>R60</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
-                <p><b>R100</b>: Second Ascension, New Alignments (Mercenary Removed)</p>
+                <p><b>R100</b>: Second Ascension, New Alignments</p>
                 <p><b>R111</b>: Base Union</p>
                 <p><b>R116</b>: Prestige Factions Reintroduced</p>
                 <p><b>R120</b>: A2 Spells Tier 2</p>
-                <p><b>R125</b>: Archon, Djinn, and Makers (Elite Factions)</p>
-                <p><b>R130</b>: Archon, Djinn, and Makers Base Unions</p>
+                <p><b>R125</b>: Elite Factions (Archon, Djinn, and Makers)</p>
+                <p><b>R130</b>: Elite Unions and Lineages</p>
                 <p><b>R135-R153</b>: Elite Challenges</p>
-                <p><b>R160</b>: Mercenary Reintroduced</p>
+				<p><b>R160</b>: Third Ascension, Research budgets</p>
+                <p><b>R160-R170</b>: Mercenary Reintroduced</p>
+                <p><b>R175</b>: Forbidden Research</p>
+				<p><b>R190-R206</b>: Mercenary Challenges</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -456,6 +482,7 @@
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/12Reincarnations.png" alt="12 Reincarnations" align="middle"> 12 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 12 times</p>
+                <p><b>Cost</b>: (To Reincarnate to R12) 1 Nod (1e60) Gems</p>
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/15Reincarnations.png" alt="15 Reincarnations" align="middle"> 15 Reincarnations</b></p>
                 <p><b>Requirement</b>: Reincarnate 15 times</p>
@@ -515,20 +542,4 @@
             </div>
         </div>
     </div>
-    <hr>
-    <p><b>Tips</b></p>
-    <p>There are many paths you can take to progress, there is no "one correct path". Each player finds their own path, adapted to their play-style and personal progress bonuses. Trying to find your own path is the best way to learn and understand each faction.</p>
-    <p>The below steps are an example guideline but I would encourage players to step out of the guide, try all factions and note down which factions work best at which gem amounts to create your personal path.</p>
-    <p>In general when things get slow, optimize your runs by doing build-up runs using special builds. (eg: Run "Foreplay" or "Everything is Awesome" merc builds to optimize your click total or your Faceless Heritage.)</p>
-    <p><b>1-3 Reincarnations</b></p>
-    <p>0 Gems: Try Elf for at least the first run, for their high Faction Coin Find chance.</p>
-    <p>Around 1 T (1E12) gems, try Titan, Druid.</p>
-    <p><b>In R0</b>: you'll want fairy to unlock Drow/Dwarf (if you want it as early as possible) and then dwarf/elf for max profit</p>
-    <p>Around 100 Qi (1E20) gems, try Fairy into Dwarf (Dwairies). Angel / Dwarf (Dwangels) also work well for those wishing to cast lots of spells fast and stack bonuses from them.</p>
-    <p><b>3-12 Reincarnations</b></p>
-    <p>Play as the above, Once you have reached No (1E32) gems, you are ready to try the Mercenary Faction. See Merc Builds and why_amihere's <a target="_blank" href="http://www.kongregate.com/forums/8945-realm-grinder/topics/547245-guide-for-r0-starting-realm-grinder?page=1#posts-9738076/"><b>guide</b></a>.</p>
-    <p><b>13-16 Reincarnations</b></p>
-    <p>Vg -Dvg Many Mercenary builds will start slowing down. Do not panic.</p>
-    <p>Lightning Forge will still be one of the fastest choice, but requires constant activity. Elven Farms and Diamond Forge will get you to Dvg a bit slower, but Diamond Forge can be almost entirely idled, which makes them better choices for a lot of players.</p>
-    <p>Around Dvg - Tvg, things become really very slow. If you aren't fed up. Lightning Forge still has potential for active players. Hopefully, this is the last stretch to research! (min 1 Tvg required).</p>
 <?php include "../scripts/footer.html"; ?>

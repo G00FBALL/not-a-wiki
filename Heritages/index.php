@@ -23,7 +23,7 @@
 <p><b>Cost</b>: 5000 Elven Coins</p>
 <p><b>Requirements</b>: Elven Champion Trophy</p>
 <p><b>Effect</b>: Increase your chance to find Faction Coins by 5% and increase your click reward based on your chance to find Faction Coins.</p>
-<p><b>Formula</b>: (x / 2)%, where x is your chance to find faction coins.</p>
+<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your chance to find faction coins.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
 <p><b>Cost</b>: 5000 Angel Coins</p>
@@ -80,7 +80,7 @@
 <p><b>Unlock Requirements</b>: Mercenary Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of coins you gained in a single game.</p>
 <p><b>Formula</b>: floor(5 * log10(1 + x)), where x is your Coins Gained (Max) stat.</p>
-<p><b>Notes</b>: Not effected by Demon Challenge 1 (Since its a 'Badge', not a Heritage)
+<p><b>Notes</b>: Not affected by Demon Challenge 1 (Since its a 'Badge', not a Heritage)
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
 <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
@@ -99,7 +99,7 @@
 <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
 <p><b>Requirements</b>: Djinn Champion Trophy<p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
 <p><b>Note</b>: Not available till R125</p>
@@ -109,8 +109,7 @@
 <p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is Tax Collections cast this game.</p>
 <hr>
 <p>Advanced Heritages appear in R116+, and can be unlocked for all but the Elite Prestige and Mercenary factions.</p>
-<p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/FactionChampion/"> Master Trophy</a></b> of that faction, which requires buying the 16 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, Alliance and Union), while having Level 30 in their respective lineage, and then get 8 hours of spell activity time this game in their respective spell.</p>
-
+<p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/TrophyPage/#Master "> Master Trophy</a></b> of that faction, which requires buying the 16 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, Alliance and Union), while having Level 30 in their respective lineage, and then get 8 hours of spell activity time this game in their respective spell.</p>
 <p><b>Advanced Heritages</b>: 1 Sp (1e24) (of each of two factions for Neutral)</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
@@ -126,13 +125,13 @@
 <p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
 <p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * ln(x) ^ 2), where x is amount of clicks this reincarnation.</p>
+<p><b>Formula</b>: (0.25 * ln(1 + x) ^ 2), where x is amount of clicks this reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Angel Coins</p>
 <p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.<p>
 <p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast in this game.</p>
-<p><b>Formula</b>: (5 * x ^ 0.25)%, where x is spells cast this game.</p>
+<p><b>Formula</b>: +(5 * x ^ 0.25), where x is spells cast this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Goblin Coins</p>
@@ -173,8 +172,8 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>
 <p><b>Requirements</b>: Dwarf Master Trophy and 8 hours activity time (This Game) of Diamond Pickaxe.<p>
-<p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations and excavation resets. (This R).</p>
-<p><b>Formula</b>: (0.025 * (1 + x * y) ^ 0.65)%, where x is excavations and y is ruby and free excavation resets this R.</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the amount of current excavations and excavation resets. (This R).</p>
+<p><b>Formula</b>: (0.025 * (x * (1 + y)) ^ 0.65)%, where x is current excavations and y is ruby and free excavation resets this R.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Drow Coins</p>
