@@ -205,7 +205,6 @@
         <p><b>Note</b>: Reap Interests upgrade.</p>
         <p><b>Effect 1</b>: Gives 1 additional upgrade from any of the Evil factions.</p>
         <p><b>Effect 2</b>: Upgrades Tax Collection spell to Reap Interests, additional casts of Reap Interests increase its seconds worth of production.</p>
-        <p><b>Effect 3</b>: Removes 1 Ascension Penalty from Heresiarchs.</p>
         <br/>
         <p><b>Neutral</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Freemason'sHall.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
@@ -229,6 +228,7 @@
         <p><b>Requirement</b>: Obsidian Shard</p>
         <p><b>Cost</b>: 100 Qiqag (1e140) and 10 Qa (1e16) of every Faction Coin.</p>
         <p><b>Effect</b>: Unlocks Researches for Mercenaries and increases their production by 1000%.</p>
+        <p><b>Note</b>: Allows 3 Researches per branch.</p>
         <br/>
         <p><b>Unique Buildings</b></p>
         <p><b>Good</b></p>
@@ -241,32 +241,33 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/EvilMercUniqueBuilding.png" alt="Tyrant Garrison" align="middle"> <b>Tyrant Garrison Upgrade</b></p>
         <p>Upgraded from Evil Fortresses</p>
         <p>Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: (log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
+        <p><b>Formula</b>:  ((log10(1 + x) ^ 3)%, where x is your offline production.</p>
         <br/>
         <p><b>Neutral</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/NeutralMercUniqueBuilding.png" alt="Freemason's Hall" align="middle"> <b>Freemason's Hall</b></p>
         <p>Upgraded from Inns</p>
         <p>Upgrade Inns to Freemason's Hall, Boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
+        <p><b>Formula</b>: (20 + 20 * x ^ 0.8)%, where x is the highest assistants you had in a single game this R..</p>
         <hr>
         <p><b>Faction Spell</b>: Tax Collection</p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefits.png" alt="SB" align="middle"> <b>Good</b></p>
         <p><b>Requirement</b>: Mercenary Camp</p>
         <p><b>Cost</b>: 1 Qaqag (1e135)</p>
-        <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds.</p>
+        <p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds (Fixed Duration).</p>
         <p><b>Note</b>: A1 can cast up to 36 tiers.</p>
         <p><b>Note</b>: A3 can cast up to 99 tiers.</p>
         <p><b>Formula</b>: 120 ^ (0.25 * T), where T is tier (FC chance multiplier)</p>
-        <p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
+        <p><b>Formula</b>: ((((1 + 0.01 * (120 + 1.25 * ln(1 + 90 + x) ^ 1.25)) ^ T) - 1) * 100)%, where x is tax collection seconds and T is the Share Benefits tier, multiplicative (production multiplier)</p>
         <p><b>Effect</b>: Also produce Tax Collection casts per second based on your Maximum Mana.</p>
         <p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275)</p>
         <p><b>Formula</b>: (0.01 * y * T), where y is max mana, T is tier</p>
+        <p><b>Effect</b>: Drains an amount of mana equal to its current cost every second.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterests.png" alt="RI" align="middle"> <b>Evil</b></p>
         <p><b>Requirement</b>: Tyrant Garrison</p>
         <p><b>Cost</b>: 1 Qaqag (1e135)</p>
         <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-        <p><b>Formula</b>: (120000 * log10(8 + 0.125 * x)), where x is amount of TC casts.</p>
+        <p><b>Formula</b>: *(50000 * log10(8 + 0.1 * x)), where x is amount of Tax Collection/Reap Interests casts.</p>
         <p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
         <p><b>Note</b>: S50 tax collections do increase reap interests.</p>
         <br/>
@@ -303,7 +304,7 @@
         <p id="MercenaryDuel"><b>Ascension 3 (R160+)</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryDuel.png" align="middle"> Mercenary Duel</b></p>
         <p><b>In-game description</b>: The Mercenary Lord has challenged you to a duel of skills. Complete the following tasks in a single Reincarnation to show your ability as a ruler.</p>
-        <p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 1 Nod (1e60) Faction Coins, 300000 Buildings (MAX), 100 Qa (1e17) Assistants (MAX)</p>
+        <p><b>Requirements</b>: R160+, 1 Qi (1e18) Spells cast, 10 M (1e7) Clicks, 10 Vg (1e64) Faction Coins, 350000 Buildings (MAX), 100 Qa (1e17) Assistants (MAX)</p>
         <p><b>Note</b>: 1 time purchase</p>
         <p><b>Effect</b>: Unlocks Mercenary in Ascension 3</p>
         <br/>
