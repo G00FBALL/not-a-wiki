@@ -30,7 +30,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
         <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
         <p><b>Cost</b>: 10 Dqag (1e130)</p>
-        <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain 1 M (1e6) assistants.</p>
+        <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain 50,000 assistants.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
         <p><b>Requirements</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this Reincarnation.</p>
@@ -99,7 +99,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
         <p><b>Cost</b>: 10 DQig (1e160)</p>
         <p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on their quantity.</p>
-        <p><b>Formula</b>: (0.2 * x ^ 0.65), where x is Royal Exchange quantity.</p>
+        <p><b>Formula</b>: (0.2 * x ^ 0.6)%, where x is Royal Exchanges made.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersAlliance.png" align="middle"> Makers Alliance</b></p>
@@ -155,7 +155,7 @@
         <p><b>Requirements</b>: Makers Union</p>
         <p><b>Cost</b>: 100 QiQig (1e170)</p>
         <p><b>Effect</b>: Artifacts count more based on time spent in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.45 * x ^ 0.45), where x is time spent this Reincarnation.(in seconds)</p>
+        <p><b>Formula</b>: (0.4 * x ^ 0.4)%, where x is time spent this Reincarnation in seconds.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BedrockFoundations.png" align="middle"> Bedrock Foundations</b></p>
         <p><b>Requirements</b>: Makers Union</p>
