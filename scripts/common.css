@@ -475,6 +475,12 @@ h7 {
     text-align: center;
 }
 
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .autohide {
     display: none;
 }

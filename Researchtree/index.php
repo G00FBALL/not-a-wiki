@@ -32,7 +32,7 @@
             <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
-            <td><input id="reinc" type="number" min="16" max="190" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
+            <td><input id="reinc" type="number" min="16" max="230" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
             <td id="rp"></td>
             <td id="Coins"></td>
             <td id="Gems"></td>
@@ -141,7 +141,18 @@
 			"187": {"RP": "6625", "CoinSc": "3.117e165", "CoinSh": "3.117 Qaqig", "FCSc": "1.631e39", "FCSh": "1.631 Dd", "GemsSc": "7.896e76", "GemsSh": "78.96 Qavg"},
 			"188": {"RP": "6750", "CoinSc": "3.401e168", "CoinSh": "3.401 Qiqig", "FCSc": "1.966e39", "FCSh": "1.966 Dd", "GemsSc": "2.608e78", "GemsSh": "2.608 Qivg"},
 			"189": {"RP": "6875", "CoinSc": "3.712e171", "CoinSh": "3.712 Sxqig", "FCSc": "2.362e39", "FCSh": "2.362 Dd", "GemsSc": "8.616e79", "GemsSh": "86.16 Qivg"},
-			"190": {"RP": "7000", "CoinSc": "4.051e174", "CoinSh": "4.051 Spqig", "FCSc": "2.829e39", "FCSh": "2.829 Dd", "GemsSc": "2.846e81", "GemsSh": "2.846 Sxvg"}
+			"190": {"RP": "7000", "CoinSc": "4.051e174", "CoinSh": "4.051 Spqig", "FCSc": "2.829e39", "FCSh": "2.829 Dd", "GemsSc": "2.846e81", "GemsSh": "2.846 Sxvg"},
+			"220": {"RP": "10750", "CoinSc": "6.281e54", "CoinSh": "6.281 Spd", "FCSc": "3.759e20", "FCSh": "375.9 Qi", "GemsSc": "1.120e14", "GemsSh": "112 T"},
+			"221": {"RP": "10875", "CoinSc": "4.213e56", "CoinSh": "421.3 Spd", "FCSc": "6.348e20", "FCSh": "634.8 Qi", "GemsSc": "9.179e14", "GemsSh": "917.9 T"},
+			"222": {"RP": "11000", "CoinSc": "2.826e58", "CoinSh": "28.26 Ocd", "FCSc": "1.072e21", "FCSh": "1.072 Sx", "GemsSc": "7.518e15", "GemsSh": "7.518 Qa"},
+			"223": {"RP": "11125", "CoinSc": "1.896e60", "CoinSh": "1.896 Nod", "FCSc": "1.811e21", "FCSh": "1.811 Sx", "GemsSc": "6.158e16", "GemsSh": "61.58 Qa"},
+			"224": {"RP": "11250", "CoinSc": "1.272e62", "CoinSh": "127.2 Nod", "FCSc": "3.059e21", "FCSh": "3.059 Sx", "GemsSc": "5.044e17", "GemsSh": "504.4 Qa"},
+			"225": {"RP": "11375", "CoinSc": "8.531e63", "CoinSh": "8.531 Vg", "FCSc": "5.166e21", "FCSh": "5.166 Sx", "GemsSc": "4.131e18", "GemsSh": "4.131 Qi"},
+			"226": {"RP": "11500", "CoinSc": "5.723e65", "CoinSh": "572.3 Vg", "FCSc": "8.725e21", "FCSh": "8.725 Sx", "GemsSc": "3.383e19", "GemsSh": "33.83 Qi"},
+			"227": {"RP": "11625", "CoinSc": "3.839e67", "CoinSh": "38.39 Vg", "FCSc": "1.474e22", "FCSh": "14.74 Sx", "GemsSc": "2.771e20", "GemsSh": "277.1 Qi"},
+			"228": {"RP": "11750", "CoinSc": "2.575e69", "CoinSh": "2.575 Dvg", "FCSc": "2.489e22", "FCSh": "24.89 Sx", "GemsSc": "2.269e21", "GemsSh": "2.269 Sx"},
+			"229": {"RP": "11875", "CoinSc": "1.727e71", "CoinSh": "172.7 Dvg", "FCSc": "4.203e22", "FCSh": "42.03 Sx", "GemsSc": "1.858e22", "GemsSh": "18.58 Sx"},
+			"230": {"RP": "12000 (Maxed)", "CoinSc": "1.159e73", "CoinSh": "11.59 Tvg", "FCSc": "7.099e22", "FCSh": "70.99 Sx", "GemsSc": "1.522e23", "GemsSh": "152.2 Sx"}
         };
         function CalcCost() {
             var reinc = parseInt($('#reinc').val());
@@ -149,6 +160,9 @@
 			if (reinc < 175 && reinc > 100) {
 				reinc = 100;
 			}
+            if (reinc > 190 && reinc < 220) {
+                reinc = 190   
+            }
             $('#rp').text(rtorp[reinc].RP);
             $('#Coins').text(rtorp[reinc].CoinSh + " (" + rtorp[reinc].CoinSc + ")");
             $('#Gems').text(rtorp[reinc].GemsSh + " (" + rtorp[reinc].GemsSc + ")");
@@ -164,10 +178,11 @@
 <br/>
 <p><b> At Ascension 2 R100+ research points are capped at 5000.</b></p>
 <p><b> At Ascension 3 R175+ research points are capped at 7000.</b></p>
-<p><b> At Ascension 4 R230+ research points are capped at 12000.</b></p>
+<p><b> At Ascension 4 R220+ research points are capped at 12000.</b></p>
+<p> Information about how Research Slots/Budget work can be found at <b><a href = "/realm/Research">Research</a></b></p>
 <p><b>Research Point Production</b></p>
 <p><b>Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
-<p><img src="/realm/Factions/picks/ResearchTreeA4.png" usemap="#ResearchTreeA4-map">
+<p><img src="/realm/Factions/picks/ResearchTreeA4.png" usemap="#ResearchTreeA4-map" class="centerimg">
     <map name="ResearchTreeA4-map">
         <area research="<center>Spellcraft Research Facility</center>
 	<p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.
