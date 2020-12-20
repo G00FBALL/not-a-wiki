@@ -118,7 +118,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
         <p><b>Cost</b>: 10 TQig (1e163)</p>
         <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of assistants you own.</p>
-        <p><b>Formula</b>: (0.05 * x ^ 0.35), where x is assistants owned.</p>
+        <p><b>Formula</b>: (0.03 * x ^ 0.3)%, where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
         <p><b>Cost</b>: 100 TQig (1e164)</p>
@@ -168,7 +168,7 @@
         <p><b>Requirements</b>: Djinn Union</p>
         <p><b>Cost</b>: 100 QiQig (1e170)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Limited Wish activity time in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.35 * x ^ 0.75), where x is Limited Wish activity time in this Reincarnation.</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is Limited Wish activity time this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>
         <p><b>Requirements</b>: Djinn Union</p>
