@@ -1539,8 +1539,10 @@
 	<p><b>New Effect</b>: Tax Collection casts count 3% more for every 1000 Unique Buildings.</p>
 <hr>
 <p><b>Artifacts</b></p>
-<p><b>Voodoo Doll, Dawnstone & Duskstone</b></p>
+	<p><b>Voodoo Doll, Dawnstone and Duskstone</b></p>
 	<p><b>Note</b>: Now cannot be found until Reincarnation 16 (chances unchanged).</p>
+	<p><b>Mana loom, Factory, Mythos, Vault, Athanor and Battlefield</b></p>
+	<p><b>Note</b>: Now cannot be found until Reincarnation 180 (chances unchanged).</p>
 <br/>
 <p><b>Silk Cloth</b></p>
 	<p><b>Old Chance</b>: ((x - 10,000) / 200,000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
