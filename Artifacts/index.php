@@ -128,7 +128,7 @@
     <p><b>Clue</b>: Chances to find increase while not actively searching.</p>
     <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
     <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
-    <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 1,000,000 (1M))%, where x is offline bonus precentage.</p>
+    <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus precentage.</p>
     " coords="69,172,125,229" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png align=middle><b> First Crystal Fragment</b></p>
     <p><b>Clue</b>: Assistants will lead the way.</p>
@@ -410,7 +410,7 @@
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/VoodooDoll.png align=middle> <b>Voodoo Doll</b></p>
     <p><b>Clue</b>: Found in the Witch Conclaves.</p>
     <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p>
-    <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
+    <p><b>Requirement</b>: R16+, Evil Alignment</p>
     <p><b>Effect</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p>
     <p><b>Chance</b>: (number of Witch Conclaves / 10,000)%</p>
     <p><b>Cost</b>: 20 Qig (2E154)</p>
@@ -439,7 +439,7 @@
                     <area target="_blank" research="<img src=http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png align=middle> <b>Dawnstone</b></p>
     <p><b>Clue</b>: Relic of the Dawn hours.</p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
-    <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Your local time)</p>
+    <p><b>Requirement</b>: R16+, Excavate between 5:00am and 8:00am (Your local time)</p>
     <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
     <p><b>Effect</b>: Grants different effects based on time of the day.</p>
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
@@ -448,7 +448,7 @@
                     <area target="_blank" research="<img src=http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png align=middle> <b>Duskstone</b></p>
     <p><b>Clue</b>: Relic of the Dusk hours.</p>
     <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
-    <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Your local time)
+    <p><b>Requirement</b>: R16+, Excavate between 6:00pm and 9:00pm (Your local time)
     <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
     <p><b>Effect</b>: Grants different effects based on time of the day.</p>
     <p><b>Chance</b>: (Excavation count / 10,000)%</p>
@@ -516,7 +516,7 @@
     <p><b>Clue</b>: Found in the Swarming Towers.</p>
     <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
     <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Fairy, Pink Carrot and Bottled Voice artifacts.</p>
-    <p><b>Chance</b>: ((x - 10000) / 200,000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
+    <p><b>Chance</b>: ((x - 8,000) / 200,000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
     " coords="196,428,252,486" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png align=middle> <b>Raw Emerald</b></p>
     <p><b>Clue</b>: Not found on the first Excavation round.</p>
@@ -534,7 +534,7 @@
     <p><b>Clue</b>: Used by the overseers in the Slave Markets.</p>
     <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
     <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Goblin, Ancient Coin Piece and Goblin Purse artifacts.</p>
-    <p><b>Chance</b>: ((x - 10000) / 300,000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
+    <p><b>Chance</b>: ((x - 8,000) / 300,000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
     " coords="387,428,445,485" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png align=middle> <b>Dusty Coffin</b></p>
     <p><b>Clue</b>: Quick! Quick! You have no time to waste!</p>
@@ -546,7 +546,7 @@
     <p><b>Clue</b>: Found in the Burning Abysses.</p>
     <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
     <p><b>Requirement</b>:  R100+, 2000+ Excavations, Play as Demon, Demonic Figurine and Demon Horn artifacts</p>
-    <p><b>Chance</b>: ((x - 10000) / 200,000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
+    <p><b>Chance</b>: ((x - 8,000) / 200,000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
     " coords="68,492,125,548" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png align=middle> <b>Titan Helmet</b></p>
     <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
@@ -570,7 +570,7 @@
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-    <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count (including temporary assistants)</p>
+    <p><b>Chance</b>: (x / 1 B [1e9])%, where x is assistant count (including temporary assistants)</p>
     " coords="323,493,381,551" shape="0">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>
@@ -624,66 +624,66 @@
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaLoom.png align=middle> <b>Mana Loom</b></p>
     <p><b>Clue</b>: Attracted by amassed mana reserves.</p>
     <p><b>Description</b>: Used to weave even the thinnest mana strings.</p>
-    <p><b>Requirement</b>: R175+, Chaos Alignment</p>
+    <p><b>Requirement</b>: R180+, Chaos Alignment</p>
     <p><b>Chance</b>: (log10(x) ^ 3 / 50,000)%, where x is mana produced (This Game)</p>
     <p><b>Effect</b>: Gives upgrade with the same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Mana Loom artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 3,000.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Fairy Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="389,556,446,613" shape="rect">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Factory.png align=middle> <b>Factory</b></p>
     <p><b>Clue</b>: Dig it manually.</p>
     <p><b>Description</b>: Mass-production is the way to go.</p>
-    <p><b>Requirement</b>: R175+, Neutral Alignment</p>
+    <p><b>Requirement</b>: R180+, Neutral Alignment</p>
     <p><b>Chance</b>: (log10(x) ^ 3 / 10,000)%, where x is clicks (This Game)</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Factory artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 3,000.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Elven Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="4,620,59,676" shape="rect">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Mythos.png align=middle> <b>Mythos</b></p>
     <p><b>Clue</b>: Spells get sad when not used for a long time.</p>
     <p><b>Description</b>: Accurate historical list of every existing or non-existing deity.</p>
-    <p><b>Requirement</b>: R175+, Good Alignment</p>
+    <p><b>Requirement</b>: R180+, Good Alignment</p>
     <p><b>Chance</b>: (x / 4,320,000 (50 Days))%, where x is the activity time (This Reincarnation) of your least used spell (excluding shared benefits, catalyst and holiday spells)</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Mythos artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 3,000.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Angel Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="67,621,125,676" shape="rect">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Vault.png align=middle> <b>Vault</b></p>
     <p><b>Clue</b>: Show your prowess as a Royal Trader.</p>
     <p><b>Description</b>: Never a place could be more secure.</p>
-    <p><b>Requirement</b>: R175+, Balance Alignment</p>
+    <p><b>Requirement</b>: R180+, Balance Alignment</p>
     <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is Royal Exchange Bonus.</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Vault artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 3,000.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Goblin Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="131,621,189,676" shape="rect">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Athanor.png align=middle> <b>Athanor</b></p>
     <p><b>Clue</b>: Archemy.</p>
     <p><b>Description</b>: The legendary oven that could smelt souls into matter.</p>
-    <p><b>Requirement</b>: R175+, Order Alignment</p>
+    <p><b>Requirement</b>: R180+, Order Alignment</p>
     <p><b>Chance</b>: (x / 1,000,000 (1M))%, where x is Alchemy research points.</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 3,000.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Undead Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="195,621,253,676" shape="rect">
                     <area research="<img src=http://musicfamily.org/realm/Factions/picks/Battlefield.png align=middle> <b>Battlefield</b></p>
     <p><b>Clue</b>: Would you think an army is enough to excavate this?</p>
     <p><b>Description</b>: An extremely accurate replica of a battle fought long ago.</p>
-    <p><b>Requirement</b>: R175+, Evil Alignment</p>
+    <p><b>Requirement</b>: R180+, Evil Alignment</p>
     <p><b>Chance</b>: (log10(x) ^ 3 / 20,000)%, where x is the number of Assistants.</p>
     <p><b>Effect</b>: Gives upgrade with same name</p>
     <p><b>Upgrade Requirement</b>: Forgotten Relic, Battlefield artifact and upgrade.</p>
-    <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 2500.</p>
+    <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 3,000.</p>
     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Demon Coins</p>
     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
     " coords="260,620,318,676" shape="rect">
