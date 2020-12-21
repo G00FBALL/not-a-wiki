@@ -246,7 +246,7 @@
 	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
 	<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
 <hr>
-<p><b>9 New Artifacts</b>: 1 for each base faction, unlocking their set's second effect</p>	
+<p><b>9 New Lore Artifacts</b>: 1 for each base faction, unlocking their set's second effect</p>	
 <p><b>Glowing Wing</b></p>
 	<p><b>Hint</b>: Mana Wings!</p>
 	<p><b>Description</b>: And this is why Fairies don't need torches.</p>
