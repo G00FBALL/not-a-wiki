@@ -35,7 +35,7 @@
 <p>"We are suffering attacks from another Hive. It's time to remind them the power of our master."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 25+, Faceless Unique Building.</p>
 <p><b>Challenge</b>: Get Hive Mind (FC9) bonus to at least 500%.</p>
-<p><b>Effect</b>: All factions receive 5% of your Hive Mind bonus. Does not suffers from Ascension penalties.</p>
+<p><b>Effect</b>: All factions receive 5% of your Hive Mind bonus. does not suffer from Ascension penalties.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <p><b>Tip</b>: This is the equivalent of 2 days, 21 hours, 26 minutes and 40 seconds spent allied with Faceless.</p>
 <hr>

@@ -53,7 +53,7 @@
 <p>"The Druids need more spell power, but they are worried about outside influences throwing off their balance."</p>
 <p><b>Requirements</b>: Druid as Base Faction, Reincarnation 25+, Druid Unique Building, Druid challenge 3 completed.</p>
 <p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
-<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. Does not suffers from Ascension penalties.</p>
+<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. does not suffer from Ascension penalties.</p>
 <p><b>Formula</b>: ((7 * x ^ 0.7) * (12 - T))%, where x is the duration of your longest spell, T is building tier.</b></p>
 <p><b>Upgrade</b>: Works with All</b>
 <p><b>Tips</b>: Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>
