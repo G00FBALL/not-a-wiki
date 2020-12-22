@@ -26,7 +26,7 @@
 </br>
 <h6>Multiplier reduction</h6>
 <p>Ascensions also reduces the Cost Multipliers for buildings and excavation.</p>
-<p>For more information see: <b><a target="" href="http://musicfamily.org/realm/BuildingAlignments/">Buildings Cost</b></a> & <b><a target="" href="http://musicfamily.org/realm/Artifacts/">Excavation Cost</b></a>.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/BuildingAlignments/">Buildings Cost</b></a> & <b><a target="" href="http://musicfamily.org/realm/Artifacts/">Excavation Cost</b></a>.</p>
 <hr>
 <h6>Ascension Details</h6>
 <p><b>Pre Ascension</b>: (R0 - R39)</p>
@@ -50,7 +50,7 @@
  - Research is limited to one per branch (not counting Faction specific ones).<br>
  - Tier 7 Spells will become obtainable (see <b><a target="" href="http://musicfamily.org/realm/Spells/">Spells Page</b></a> for time required).<br>
  - Secondary Alignments and Spells will become available.</p>
-<p>For more information see: <b><a target="" href="http://musicfamily.org/realm/Ascension2/">Ascension 2</b></a>.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/Ascension2/">Ascension 2</b></a>.</p>
 <hr>
 <p><b>Third Ascension</b>: (R160 - R219)</p>
 <p><b>Gem Requirement</b>: 1e27 * 100 ^ (R - 160)</p>
@@ -65,7 +65,6 @@
 <p><b>Gem Requirement</b>: 1e18 * 100 ^ (R - 220)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e26, where n is gems.</p>
 <p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e26) ^ 0.5 - 1) / 2), where n is coins.</p>
-<p><b>Note</b>: When Ascending to Ascension 4, all Lineages will be set back to level 75 if higher.</p>
 <p>When Ascending for the fourth time, the following will take effect, alongside normal Ascension Changes:</p>
 <p>
  - Mercenaries, Prestige and Elite Factions will become inaccessible.<br>
@@ -75,6 +74,6 @@
  - All Ascension Penalties from Faction Upgrades and Advanced Heritages are completely removed in A4.<br>
  - Building Cost Multiplier reverted to A0.<br>
  - Legacies introduced.</p>
-<p>For more information see:<b><a target="" href="http://musicfamily.org/realm/Changes/">Current Changes</b></a>.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/Changes/">Current Changes</b></a>.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
