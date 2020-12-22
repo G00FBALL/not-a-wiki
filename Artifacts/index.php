@@ -34,8 +34,8 @@
         <p><b>Note</b>: Free reset if enough times excavated this R (R40+ to afford reset amount)</p>
         <p><b>Formula</b>: 2000 + 50 * R + 500 * x where x is amount of resets this R.</p>
         <p><b>Note</b>: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.</p>
-        <p><img src='http://musicfamily.org/realm/Factions/picks/QuestArtifacts3.7.png" usemap="#QuestArtifacts-map">
-            <p><img src='http://musicfamily.org/realm/Factions/picks/LoreArtifacts.png" usemap="#LoreArtifacts-map">
+        <p><img src='http://musicfamily.org/realm/Factions/picks/QuestArtifacts3.7.png' usemap="#QuestArtifacts-map">
+            <p><img src='http://musicfamily.org/realm/Factions/picks/LoreArtifacts.png' usemap="#LoreArtifacts-map">
                 <map name="QuestArtifacts-map">
                     <area research="<img src='http://musicfamily.org/realm/Factions/picks/AncientStoneSlab1.png' alt=Artifacts align='middle'><b> Ancient Stoneslab 1</b></p>
     <p><b>Description</b>: We discovered an ancient stone slab written in old scriptures. It appears to say something about Halls of Legends.</p>
