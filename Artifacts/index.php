@@ -4,7 +4,7 @@
 
 <head>
     <?php include "../scripts/header.html"; ?>
-        <h6><img src='http://musicfamily.org/realm/Factions/picks/ExcavationTopPage.png"></h6>
+        <h6><img src='http://musicfamily.org/realm/Factions/picks/ExcavationTopPage.png'></h6>
         <p><b>There are two kinds of artifacts</b></p>
         <p><a href="/realm/QuestArtifacts" research="Quest Artifacts"><b>Quest Artifacts</b></a> and
             <a href="/realm/LoreArtifacts" research="Lore Artifacts"><b>Lore Artifacts</b></a></p>
