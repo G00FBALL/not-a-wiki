@@ -1360,7 +1360,7 @@
                 <p><b>Unlocks</b>: Mercenary Unique Buildings</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
-                <p><b>Requirement</b>: 2M Mana Regeneration, R100+, Good Alignment, Proof of Order</p>
+                <p><b>Requirement</b>: 3M Mana Regeneration, R100+, Good Alignment, Proof of Order</p>
                 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
                 <p><b>Effect</b>: Grants access to Unique Building.</p>
                 <hr>
