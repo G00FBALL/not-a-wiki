@@ -786,7 +786,7 @@
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is your faction coins find chance in percent</p>
 	<p><b>Elf Set 2nd effect</b>: Clicks count more based on autocast clicks.</p>
 	<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
-	<p><b>Note</b>: NOT affected by any "clicks count more" effects.</p>
+	<p><b>Note</b>: NOT affected by any 'clicks count more' effects.</p>
 					" coords="3,643,56,696" shape="rect">
 					<area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/SolidCloudArtifact.png' align='middle'> <b>Solid Cloud</b></p>
