@@ -13,7 +13,7 @@
 <p><b>Neutral Building</b> : <b>Any Alignment</b></p>
 <p><b>Requires any Proof of Deed</b></p>
 <p><b>Tier 11</b>: Hall of Legends</p>
-<p><b>Base Production</b> : 250,000 coins per Trophy coins</p>
+<p><b>Base Production</b> : 250,000 coins per Trophy</p>
 <hr>
 <p><b>Good Buildings</b> : <b>Good Alignment</b></p>
 <p><b>Requires Proof of Good Deed</b></p>
@@ -45,19 +45,23 @@
 <p><b>Tier 9</b>: Iron Stronghold : <b>Base Production</b> : 100,000 coins</p>
 <p><b>Tier 10</b>: Ancient Pyramid : <b>Base Production</b> : 1,200,000 coins</p>
 <hr>
-<p><b>Cost</b></p>
-<p><b>Tier 1</b>: First Building 10</p>
-<p><b>Tier 2</b>: First Building 125</p>
-<p><b>Tier 3</b>: First Building 600</p>
-<p><b>Tier 4</b>: First Building 1,800</p>
-<p><b>Tier 5</b>: First Building 5,600</p>
-<p><b>Tier 6</b>: First Building 38,000</p>
-<p><b>Tier 7</b>: First Building 442,000</p>
-<p><b>Tier 8</b>: First Building 7,300,000</p>
-<p><b>Tier 9</b>: First Building 145 M</p>
-<p><b>Tier 10</b>: First Building 3.2 B</p>
-<p><b>Tier 11</b>: First Building 200b</p>
-<p>Cost of buying next building increase based on amount of building of that type.</p>
-<p><b>Formula Pre A</b>: b*1.15^x, where b is cost of first building and x is number of building of that type.</p>
-<p><b>Formula A1+  </b>: b*(1+((0.15 - r) / 5*A ))^x, where b is cost of first building, x is number of building of that type, r is your flat cost reduction (i.e. from Gobline) and A is your Ascencion</p>
+<p><b>Building Cost</b></p>
+<p><b>Tier 1</b>: First Building: 10 coins</p>
+<p><b>Tier 2</b>: First Building: 125 coins</p>
+<p><b>Tier 3</b>: First Building: 600 coins</p>
+<p><b>Tier 4</b>: First Building: 1,800 coins</p>
+<p><b>Tier 5</b>: First Building: 5,600 coins</p>
+<p><b>Tier 6</b>: First Building: 38,000 coins</p>
+<p><b>Tier 7</b>: First Building: 442,000 coins</p>
+<p><b>Tier 8</b>: First Building: 7,300,000 coins</p>
+<p><b>Tier 9</b>: First Building: 145 M coins</p>
+<p><b>Tier 10</b>: First Building: 3.2 B coins</p>
+<p><b>Tier 11</b>: First Building: 200 B coins</p>
+<p>Costs for successive bulding in each tier follow a geometric progression, so each building costs a constant factor more than the previous building of that tier.</p>
+<p><b>Cost Formula for the x-th building in a tier</b>: (B * M ^ (x-1)), where B is the cost of first building of that tier and M is the building cost multiplier.</p>
+<hr>
+<p><b>Building Cost Multiplier</b></p>
+<p>The base value of the building cost multiplier is 1.15, but can be reduced by upgrades that give a flat cost reduction (e.g. Gobline) and also depends on your Ascension.</p>
+<p><b>Building Cost Formula in A0 and A4</b>: (1 + 0.15 - R), where R is the sum of your flat cost reduction upgrades.</p>
+<p><b>Building Cost Formula in A1-A3</b>: (1 + (0.15 - R) / (5 * A)), where R is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
 <?php include "../scripts/footer.html"; ?>
