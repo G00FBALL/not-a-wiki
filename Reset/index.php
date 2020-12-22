@@ -29,7 +29,7 @@
       <th style="width:20%; height:12px" >Gem Output</th>
     </tr>
     <tr>
-      <td ><input id="Ascension" type="number" min="0" max="3" value="0"></td>
+      <td ><input id="Ascension" type="number" min="0" max="4" value="0"></td>
       <td > <input id="GemIn" type="text" value="0"></td>
       <td id = "CoinOut"></td>
       <td ><input id="CoinIn" type="text" value="0"></td>
@@ -38,7 +38,13 @@
   </table>
   <script>
     function getGemForm(ascension) {
-      return ascension == 2?5e3:5e11;
+		if (ascension == 4) {
+			return 5e18;
+		}
+		if (ascension == 2) {
+			return 5e3;
+		}
+		return 5e11;
     }
     function gemToCoin(mul) {
       var input = Number($('#GemIn').val());
@@ -66,7 +72,7 @@
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Ascend.png" alt="Ascend" align="middle"></h6>
 <p>Ascension is a third kind of soft reset. It was implemented to over come the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
-<p>At the end of R39, R99 and R159 the Reincarnation Button will say Ascension.</p>
+<p>At the end of R39, R99, R159 and R219 the Reincarnation Button will say Ascension.</p>
 <p>Ascending will reset all the progress a Reincarnation would reset.</p>
 <p><b><a target="" href="http://musicfamily.org/realm/Ascension/">More about Ascension</b></a></p>
 <?php include "../scripts/footer.html"; ?>
