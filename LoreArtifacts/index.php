@@ -564,7 +564,7 @@
 		<p><b>Clue</b>: Pour a bottle of Frenzy.</p>
 		<p><b>Description</b>: The healthiest vampire breakfast.</p>
 		<p><b>Requirement</b>: 10,000 excavations, play as Undead</p></p>
-		<p><b>Chance</b>: (x / 10,000)%, where x  is an active Blood Frenzy's max duration (The duration when it was cast)</p></p>
+		<p><b>Chance</b>: (x / 10,000)%, where x is an active Blood Frenzy's max duration (The duration when it was cast)</p></p>
 		<p><b>Undead Set 2nd effect</b>: Increases production bonus from gems based on FC found this game (Multiplicative).</p>
 		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
 		<hr>
