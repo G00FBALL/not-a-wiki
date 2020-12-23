@@ -277,14 +277,16 @@ $( "#archinput" ).change(function(){
     <center><table class="numtable" >
         <thead>
         <tr>
-            <th colspan="5">Primal Balance (GB +10)</th>
+            <th colspan="6">Primal Balance (GB +10)</th>
         </tr>
         <tr>
+
             <th>Targets</th>
             <th>A0</th>
             <th>A1</th>
             <th>A2</th>
             <th>A3</th>
+            <th>A4</th>
         </tr>
         </thead>
         <tbody>
@@ -294,28 +296,32 @@ $( "#archinput" ).change(function(){
             <td>0</td>
             <td>0</td>
             <td>0</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>+1</td>
-            <td>1e5</td>
-            <td>1e5</td>
-            <td>1e5</td>
-            <td>1e5</td>
+            <td>1.000e5</td>
+            <td>1.000e5</td>
+            <td>1.000e5</td>
+            <td>1.000e5</td>
+            <td>1.000e5</td>
         </tr>
         <tr>
             <td>+2</td>
-            <td>3.2e6</td>
-            <td>5.25e6</td>
+            <td>3.200e6</td>
+            <td>5.250e6</td>
             <td>1.016e7</td>
-            <td>2.56e7</td>
+            <td>2.560e7</td>
+            <td>1.024e8</td>
         </tr>
         <tr>
 
             <td>+3</td>
-            <td>2.43e7</td>
+            <td>2.430e7</td>
             <td>5.326e7</td>
             <td>1.516e8</td>
             <td>6.561e8</td>
+            <td>5.905e9</td>
         </tr>
         <tr>
             <td>+4</td>
@@ -323,6 +329,7 @@ $( "#archinput" ).change(function(){
             <td>2.756e8</td>
             <td>1.032e9</td>
             <td>6.554e9</td>
+            <td>1.049e11</td>
         </tr>
         <tr>
             <td>+5</td>
@@ -330,13 +337,15 @@ $( "#archinput" ).change(function(){
             <td>9.865e8</td>
             <td>4.569e9</td>
             <td>3.906e10</td>
+            <td>9.766e11</td>
         </tr>
         <tr>
             <td>+6</td>
             <td>7.776e8</td>
             <td>2.796e9</td>
             <td>1.541e10</td>
-            <td>1.68e11</td>
+            <td>1.680e11</td>
+            <td>6.047e12</td>
         </tr>
         <tr>
             <td>+7</td>
@@ -344,6 +353,7 @@ $( "#archinput" ).change(function(){
             <td>6.747e9</td>
             <td>4.305e10</td>
             <td>5.765e11</td>
+            <td>2.825e13</td>
         </tr>
         <tr>
             <td>+8</td>
@@ -351,6 +361,7 @@ $( "#archinput" ).change(function(){
             <td>1.447e10</td>
             <td>1.049e11</td>
             <td>1.678e12</td>
+            <td>1.074e14</td>
         </tr>
         <tr>
             <td>+9</td>
@@ -358,13 +369,15 @@ $( "#archinput" ).change(function(){
             <td>2.837e10</td>
             <td>2.299e11</td>
             <td>4.305e12</td>
+            <td>3.487e14</td>
         </tr>
         <tr>
             <td>+10</td>
-            <td>1e10</td>
+            <td>1.000e10</td>
             <td>5.179e10</td>
             <td>4.642e11</td>
-            <td>1e13</td>
+            <td>1.000e13</td>
+            <td>1.000e15</td>
         </tr>
         </tbody>
     </table></center>
