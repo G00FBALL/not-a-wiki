@@ -250,7 +250,7 @@
 <p><b>Glowing Wing</b></p>
 	<p><b>Hint</b>: Mana Wings!</p>
 	<p><b>Description</b>: And this is why Fairies don't need torches.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Fairy</p></p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Fairy</p></p>
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is mana produced this game</p></p>
 	<p><b>Fairy Set 2nd Effect</b>: Mutiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
 	<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
@@ -258,7 +258,7 @@
 <p><b>Sylvan Mirror</b></p>
 	<p><b>Hint</b>: Pay a barber with Faction Coins.</p>
 	<p><b>Description</b>: An Elf with messy hair is not an Elf, by their own laws.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Elf</p></p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Elf</p></p>
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is your faction coins find chance in percent</p>
 	<p><b>Elf Set 2nd effect</b>: Clicks count more based on autocast clicks.</p>
 	<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
@@ -267,7 +267,7 @@
 <p><b>Solid Cloud</b></p>
 	<p><b>Hint</b>: A cloud of spells.</p>
 	<p><b>Description</b>: Angels have the power to save your life! And make a backup of it on the internet.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Angel</p></p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Angel</p></p>
 	<p><b>Chance</b>: (x / 40,000)%, where x is the amount of active spells (Active Spells count more multipliers DO NOT count)</p></p>
 	<p><b>Angel Set 2nd effect</b>: Increase the duration of all spells based on the amount of Unique Buildings you own.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the amount of Unique Buildings you own.</p>
@@ -275,7 +275,7 @@
 <p><b>Orc Fang Necklace</b></p>
 	<p><b>Hint</b>: Torment your subjects with taxes.</p>
 	<p><b>Description</b>: To remind your slaves who's in charge.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Goblin</p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Goblin</p>
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is TC casts this game</p>
 	<p><b>Goblin Set 2nd effect</b>: Each time you cast a spell, you also cast free Tax Collections based on time spent in this game.</p>
 	<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>	
@@ -283,7 +283,7 @@
 <p><b>Blood Chalice</b></p>
 	<p><b>Hint</b>: Pour a bottle of Frenzy.</p>
 	<p><b>Description</b>: The healthiest vampire breakfast.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Undead</p></p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Undead</p></p>
 	<p><b>Chance</b>: (x / 10,000)%, where x  is an active Blood Frenzy's max duration (The duration when it was cast)</p></p>
 	<p><b>Undead Set 2nd effect</b>: Increases production bonus from gems based on FC found this game (Multiplicative).</p>
 	<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
@@ -291,7 +291,7 @@
 <p><b>Demon Tail</b></p>
 	<p><b>Hint</b>: Evil wizardry.</p>
 	<p><b>Description</b>: Said to bring great luck to whom it possess...es.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Demon</p></p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Demon</p></p>
 	<p><b>Chance</b>: (x / 1,000,000)%, where x is Evil Spell Casts this game</p></p>
 	<p><b>Demon Set 2nd effect</b>: Increase production bonus from Gems based on the amount of Evil spells cast in this Reincarnation.</p>
 	<p><b>Formula</b>: +(2.25 * ln(1 + x) ^ 2.25)%, where x is Evil Spell Casts this Reincarnation.</p>
@@ -299,7 +299,7 @@
 <p><b>Frozen Lightning</b></p>
 	<p><b>Hint</b>: Lightning never strikes the same place a couple million times. Maybe.</p>
 	<p><b>Description</b>: A sculpture representing the embodiment of Titanic power.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Titan</p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Titan</p>
 	<p><b>Chance</b>: (x / 1,000,000)%, where x is Lightning Strike activity time this game</p>
 	<p><b>Titan Set 2nd effect</b>: Whenever you cast a spell, your production is increased based on Lightning Strike activity in this Reincarnation for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
 	<p><b>Formula</b>: (x ^ 0.7)%, where x is Lightning Strike activity time this Reincarnation.</p>
@@ -307,7 +307,7 @@
 <p><b>Primal Leaf</b></p>
 	<p><b>Hint</b>: Huuuuge blue ball.</p>
 	<p><b>Description</b>: Druid Catalyst for channeling the power of nature.</p>
-	<p><b>Requirement</b>: 10,000 excavations, play as Druid</p></p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Druid</p></p>
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is the highest Max Mana this R</p></p>
 	<p><b>Druid Set 2nd effect</b>: Lineage levels count more based on spell casts in this game.</p>
 	<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 1.5)%, where x is spell casts this game.</p>
