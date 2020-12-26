@@ -15,25 +15,30 @@
         <p>Excavating enables to find Rubies (See the <b><a target="_blank" href="http://musicfamily.org/realm/Rubies/">Ruby</a></b> page), with luck: Faction Coins, and at certain thresholds or under certain conditions: Artifacts. Specific artifacts are required to unlock the Neutral & Prestige Factions.</p>
         <p>Some artifacts will reward direct bonuses and the amount of discovered artifacts take part in some Research upgrades.</p>
         <p><b>Requirements</b></p>
-        <p>Archaeology is unlocked once you have over 1B gems, produced over 10 Oc (1E28) coins and bought the<b><img src='http://musicfamily.org/realm/Factions/picks/Archeology-upgrade.png' alt="Smiley face" align='middle'> Archeology Upgrade</b>.</p>
-        <p><b>Cost</b>: 100 Oc (1e29)</p>
-        <p>An "Excavation" button will then appear on the top left of the Upgrades tab and you may commence excavations.</p>
-        <br/>
-        <p>The chance to find <b>Lore Artifacts</b> requires the</p>
-        <p><img src='http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png' alt="Smiley face" align='middle'><b> Survey Equipment Upgrade</b></p>
-        <p><b>Requirements</b>: 100 excavations</p>
-        <p><b>Cost</b>: 1e35 (100 Dc). To be bought once throughout the entire game and does not show up as bought upgrade.</p>
-        <p><b>Cost & Faction Coins</b></p>
-        <p><b>Excavation</b>: The first excavation costs 1 Oc (1E27) coins, and each subsequent excavation costs 20% more than the last.</p>
-        <p><b>Formula</b>: 1e27 ^ (0.75 ^ A) * (1 + (0.2 - 0.025 (if E290) - 0.025 (if Ancient Egg)) / 5A) ^ x where A is number of ascensions and x is number of excavations.</p>
-        <p><b>Faction Coins</b>: 35% (40% with That Excavated Quickly upgrade) per excavation</p>
-        <p><b>Formula</b>: 1500 + 0.05 * x ^ 2.75, where x is the number of excavations you have (not including the one just purchased).</p>
-        <p><b>Excavation Reset</b></p>
-        <p><b>Cost</b>: floor(x / 3000) + 1 rubies where x is number of excavations.</p>
-        <p><b>Note</b>: When resetting excavations you will loose all gold on hand and 90% production until you abdicate or reincarnate.</p>
-        <p><b>Note</b>: Free reset if enough times excavated this R (R40+ to afford reset amount)</p>
-        <p><b>Formula</b>: 2000 + 50 * R + 500 * x where x is amount of resets this R.</p>
-        <p><b>Note</b>: It will reset the excavation counter to zero, all previously gained Excavation rewards and Rubies will persist and you can not find them again.</p>
+        <p>Archaeology is unlocked once you have over 1 B (1e9) gems, produced over 10 Oc (1e28) coins and bought the</p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/Archeology-upgrade.png' alt="Smiley face" align='middle'><b> Archeology Upgrade</b>.</p>
+        <p><b>Upgrade Cost</b>: 100 Oc (1e29). To be bought once throughout the entire game and permanently unlocks an "Excavation" button which will appear on the left under the Upgrades tab.</p>
+        <br>
+        <p>To unlock the chance to find <b>Lore Artifacts</b>, it requires the</p>
+        <p><img src='http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png' alt="Smiley face" align='middle'><b> Survey Equipment Upgrade</b>.</p>
+        <p><b>Upgrade Cost</b>: 100 Dc (1e35) and at least 100 excavations. To be bought once throughout the entire game and does not show up as bought upgrade.</p>
+        <hr>
+	<p><b>Excavations</b></p>
+        <p>The first excavation costs 1 Oc (1e27) coins, and each subsequent excavation costs without any cost multiplier reduction 20% more than the one before.</p>
+        <p><b>Cost Formula</b>: (1e27 ^ (0.75 ^ A) * (1 + (0.2 - C) / 5A) ^ x), where A is the number of Ascensions, C the sum of your flat cost reduction upgrades (such as E290) and x the number of excavations.</p>
+        <p>Everytime you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
+        <p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x-1) ^ 2.75), where x is the number of excavations you have.</p>
+	<p></b>Note: Everytime you reincarnate or ascend, your excavation counter will be set back to zero.</p>
+        <hr>
+	<p><b>Excavation Reset</b></p>
+	<p>To be able to do more excavations within a Reincarnation you can do an Excavation Reset, which also sets the counter back to zero. There are two options:<br>Ruby Reset and Free Reset.</p> 
+        <p><b>Ruby Cost for Ruby Reset</b>: (floor(x / 3000) + 1), where x is the number of excavations.</p>
+	<p><b>Note</b>: Not recommended. It is better to spend rubies in ruby power, unless you have very specific reason to spend them on a reset.<p>
+        <p><b>Free Reset Requirement Formula</b>: (2000 + 50 * R + 500 * x), where R is the amount of Reincarantions and x is amount of Free Resets already done this Reincarnation.</p>
+	<p><b>Note</b>: When doing a Free Reset, you will lose all gold on hand and receive a 90% production penalty until you abdicate or reincarnate.</p>
+        <p><b>Note</b>: Free Resets are not available until around R30, since the requirement is too high for lower stages.</p>
+        <p><b>Note</b>: Each ruby found from excavation is a single all-time reward. No matter how the counter is set back to zero, you cannot find the same ruby again.</p>
+	<hr>
         <p><img src='http://musicfamily.org/realm/Factions/picks/QuestArtifacts3.7.png' usemap="#QuestArtifacts-map">
             <p><img src='http://musicfamily.org/realm/Factions/picks/LoreArtifacts.png' usemap="#LoreArtifacts-map">
                 <map name="QuestArtifacts-map">
