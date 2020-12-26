@@ -77,6 +77,7 @@
     <p>Finding the 1st, 10th, 25th and 50th ruby rewards a trophy.</p>
     <p><b>Spending Rubies</b></p>
     <p>Rubies enable you to buy: Excavation Resets (see <b><a target="_blank" href="http://musicfamily.org/realm/Artifacts/">Artifacts</a></b> page)), Event items (such as snowballs during the Christmas event) or mainly <b>Ruby Upgrades</b>.</p>
+	<p><img src="http://musicfamily.org/realm/Factions/picks/RubyPower.png" align="middle"><b> Ruby Power Upgrade</b></p>
     <p>Finding 1 Ruby will unlock the Ruby power upgrade which unlocks The Power of Rubies.</p>
     <p>Each Ruby enables you to purchase one of the Ruby powers listed below:</p>
     <p>Ruby power bonus will also increase by Tier based on all-time amounts of Rubies collected. See Ruby Upgrades for more details.</p>
