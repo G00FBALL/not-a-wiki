@@ -49,7 +49,7 @@
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
                 if ($('#E290').prop('checked')) mult -= 0.02;
-				if ($('#DN8').prop('checked')) mult -= 0.02;
+		if ($('#DN8').prop('checked')) mult -= 0.02;
                 if ($('#eas').prop('checked')) mult -= 0.025;
                 if (maker > 0) {
                     mult -= maker;
@@ -59,10 +59,12 @@
                 }
                 cost = base * ((1 - Math.pow(mult , exc)) / (1 - mult));
                 $('#coi').html(cost.toExponential(2));
-                if (asc != 2) {
-                    $('#gem').html((1.41421e-6 * (cost + 125e9) ** 0.5 - 0.5).toExponential(2));
+                if (asc == 2) {
+                    $('#gem').html((((1 + 8e-4 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
+                } elseif (asc == 4) {
+                    $('#gem').html((((1 + 8e-27 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
                 } else {
-                    $('#gem').html((0.02 * ((((cost + 1250) ** 0.5) / (2 ** 0.5)) - 25)).toExponential(2));
+                    $('#gem').html((((1 + 8e-12 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
                 }
             }
             rubcalc();
@@ -74,10 +76,7 @@
     <p>The formula for the number of excavations required for each ruby is 25n(n+1), where n is the number of rubies.</p>
     <p>Finding the 1st, 10th, 25th and 50th ruby rewards a trophy.</p>
     <p><b>Spending Rubies</b></p>
-    <p>Rubies enable you to buy:
-    <p>Excavation Resets: Costs (floor(x / 3000) + 1) where x is excavation count.</p>
-    <p>Note: The counter is reset, but you will not find rubies again.</p>
-    <p>Event items (such as snowballs during the Christmas event)</p>
+    <p>Rubies enable you to buy: Excavation Resets (see <b><a target="_blank" href="http://musicfamily.org/realm/Artifacts/">Artifacts</a></b> page)), Event items (such as snowballs during the Christmas event) or mainly <b>Ruby Upgrades</b>.</p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RubyPower.png" align="middle"><b> Ruby Power Upgrade</b></p>
     <p>Finding 1 Ruby will unlock the Ruby power upgrade which unlocks The Power of Rubies.</p>
     <p>Each Ruby enables you to purchase one of the Ruby powers listed below:</p>
