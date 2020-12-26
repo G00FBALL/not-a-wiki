@@ -49,7 +49,7 @@
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
                 if ($('#E290').prop('checked')) mult -= 0.02;
-		if ($('#DN8').prop('checked')) mult -= 0.02;
+				if ($('#DN8').prop('checked')) mult -= 0.02;
                 if ($('#eas').prop('checked')) mult -= 0.025;
                 if (maker > 0) {
                     mult -= maker;
@@ -61,7 +61,7 @@
                 $('#coi').html(cost.toExponential(2));
                 if (asc == 2) {
                     $('#gem').html((((1 + 8e-4 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
-                } elseif (asc == 4) {
+                } else if (asc == 4) {
                     $('#gem').html((((1 + 8e-27 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
                 } else {
                     $('#gem').html((((1 + 8e-12 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
