@@ -53,6 +53,7 @@
                     <p id="R115FCChaMul"></p>
                     <p id="R120NEMPro"></p>
 					<p id="R150CTABoost"></p>
+					<p id="R170ResBudget"></p>
 					<p id="R180NEMPro"></p>
 					<p id="R210NEMPro"></p>
                     <p id="RNex"></p>
@@ -80,95 +81,99 @@
             //  * function to calculate bonus (rNum -> bonusValue)
             //  * function to create bonus text (rNum -> bonus (already toFixed) -> string)
             var RBenefits = [
-                [ 1, '#R1AllBuiPro', true, 1
+                [ 1, 999, '#R1AllBuiPro', true, 1
                 , function(rei) {return 50 * rei;}
                 , function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
                 ],
-                [ 1, '#R1OffPro', true, 1
+                [ 1, 999, '#R1OffPro', true, 1
                 , function(rei) {return 500 * rei;}
                 , function(rei, bonus) {return 'Offline production is increased by ' + bonus + '%.';}
                 ],
-                [ 1, '#R1FCChaMul', false, 1
+                [ 1, 999, '#R1FCChaMul', false, 1
                 , function(rei) {return 10 * rei;}
                 , function(rei, bonus) {return 'Faction coin chance is increased by ' + bonus + '%.';}
                 ],
-                [ 1, '#R1MpS', false, 1
+                [ 1, 999, '#R1MpS', false, 1
                 , function(rei) {return 2 * rei;}
                 , function(rei, bonus) {return 'Mana regeneration is increased by +' + bonus + ' m/s.';}
                 ],
-                [ 2, '#R2GemPro', false, 1
+                [ 2, 999, '#R2GemPro', false, 1
                 , function(rei) {return 0.2 * rei;}
                 , function(rei, bonus) {return 'Gem production is increased by +' + bonus + '%.';}
                 ],
-                [ 5, '#R5Ass', true, 1
+                [ 5, 999, '#R5Ass', true, 1
                 , function(rei) {return 2 * rei;}
                 , function(rei, bonus) {return 'Add ' + rei + ' assistants and their production is increased by ' + bonus + '%.';}
                 ],
-                [ 10, '#R10AllBuiPro', true, 1
+                [ 10, 999, '#R10AllBuiPro', true, 1
                 , function(rei) {return Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimTot').val()), 0.65);}
                 , function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
                 ],
-                [ 12, '#R12MaxMan', false, 0
+                [ 12, 999, '#R12MaxMan', false, 0
                 , function(rei) {return 35 * rei;}
                 , function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '.';}
                 ],
-                [ 20, '#R20ProEacBui', true, 1
+                [ 20, 999, '#R20ProEacBui', true, 1
                 , function(rei) {return 0.01 * rei * parseInt($('#R20SpeBui').val());}
                 , function(rei, bonus) {return 'Given buildings\' production is increased by ' + bonus + '%.';}
                 ],
-                [ 25, '#R25RE', false, 1
+                [ 25, 999, '#R25RE', false, 1
                 , function(rei) {return 0.5 * rei;}
                 , function(rei, bonus) {return 'Royal Exchange bonus is increased by ' + bonus + '%.';}
                 ],
-                [ 41, '#R41UniBuiPro', true, 1
+                [ 41, 999, '#R41UniBuiPro', true, 1
                 , function(rei) {return 1200 * Math.pow(rei, 1.15);}
                 , function(rei, bonus) {return 'Unique Buildings\' production is increased by ' + bonus + '%.';}
                 ],
-                [ 45, '#R45MaxMan', false, 0
+                [ 45, 999, '#R45MaxMan', false, 0
                 , function(rei) {return 70 * Math.pow(rei, 1.25);}
                 , function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '. Total increase is +' + ((70 * Math.pow(rei, 1.25)) + 35 * rei).toFixed(0) + '.';}
                 ],
-                [ 50, '#R50FCChaAdd', false, 1
+                [ 50, 999, '#R50FCChaAdd', false, 1
                 , function(rei) {return 2.5 * Math.pow(rei, 1.1);}
                 , function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
                 ],
-                [ 58, '#R58FCChaMul', false, 0
+                [ 58, 999, '#R58FCChaMul', false, 0
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
                 ],
-                [ 85, '#R85AssPerR', false, 0
+                [ 85, 999, '#R85AssPerR', false, 0
                 , function(rei) {return rei * 4;}
                 , function(rei, bonus) {return 'Add ' + bonus + ' additional Assistants.';}
                 ],
-				[ 90, '#R90AddResSlo', false, 0
+				[ 90, 100, '#R90AddResSlo', false, 0
                 , function(rei) {return 0;}
                 , function(rei, bonus) {return 'You gain 1 additional Research slot for each branch.';}
                 ],
-                [ 100, '#R100ManRegPerR', false, 0
+                [ 100, 999, '#R100ManRegPerR', false, 0
                 , function(rei) {return rei;}
                 , function(rei, bonus) {return 'Increase Mana Regeneration by ' + bonus + '%.';}
                 ],
-                [ 108, '#R108ProdUBTimeDiff', false, 0
+                [ 108, 999, '#R108ProdUBTimeDiff', false, 0
                 , function(rei) {return 0;}
                 , function(rei, bonus) {return 'Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation';}
                 ],
-                [ 115, '#R115FCChaMul', false, 0
+                [ 115, 999, '#R115FCChaMul', false, 0
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction, Bloodline or Artifact Set.';}
                 ],
-                [ 120, '#R120NEMPro', true, 1
+                [ 120, 999, '#R120NEMPro', true, 1
                 , function(rei) {return 150 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],
-				[ 150, '#R150CTABoost', false, 0
+				[ 150, 999, '#R150CTABoost', false, 0
                 , function(rei) {return rei + 1;}
                 , function(rei, bonus) {return 'Unique Buildings count ' + bonus + ' times more for Call to Arms purposes.';}
                 ],
-				[ 180, '#R180NEMPro', true, 1
+				[ 170, 999, '#R170ResBudget', false, 0
+                , function(rei) {return rei + 1;}
+                , function(rei, bonus) {return 'Increases research budget by 3,000 in each branch.';}
+                ],
+				[ 180, 999, '#R180NEMPro', true, 1
                 , function(rei) {return 150 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],
-				[ 210, '#R210NEMPro', true, 1
+				[ 210, 999, '#R210NEMPro', true, 1
                 , function(rei) {return 300 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],				
@@ -182,8 +187,11 @@
                 if (rei > 99){
                     var asc = 2;
                 }
-                if( rei > 159){
+                if (rei > 159){
                     var asc = 3;
+                }
+				if (rei > 219){
+                    var asc = 4;
                 }
                 // Boosted R num - Prismatic Breath (and stuff?)
                 var reiEff = rei;
@@ -196,13 +204,14 @@
                     var benefit = RBenefits[i];
 
                     var reqR         = benefit[0];
-                    var htmlElem     = benefit[1];
-                    var doANerf      = benefit[2];
-                    var decimalCount = benefit[3];
-                    var bonusFun     = benefit[4];
-                    var textFun      = benefit[5];
+					var maxR         = benefit[1]
+                    var htmlElem     = benefit[2];
+                    var doANerf      = benefit[3];
+                    var decimalCount = benefit[4];
+                    var bonusFun     = benefit[5];
+                    var textFun      = benefit[6];
 
-                    if (rei >= reqR) {
+                    if (rei >= reqR && rei < maxR) {
                         var bonus = bonusFun(reiEff);
                         if (rei >= 40 && doANerf === true) {
                             bonus = GetANerfValue(bonus, reqR, asc);
