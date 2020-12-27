@@ -46,13 +46,15 @@
                     <p id="R45MaxMan"></p>
                     <p id="R50FCChaAdd"></p>
                     <p id="R58FCChaMul"></p>
-                    <p id="R70AddResSlo"></p>
                     <p id="R85AssPerR"></p>
+					<p id="R90AddResSlo"></p>
                     <p id="R100ManRegPerR"></p>
                     <p id="R108ProdUBTimeDiff"></p>
                     <p id="R115FCChaMul"></p>
                     <p id="R120NEMPro"></p>
 					<p id="R150CTABoost"></p>
+					<p id="R180NEMPro"></p>
+					<p id="R210NEMPro"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
                 </td>
@@ -67,6 +69,7 @@
                 // R40 and R100 have A-nerfs, so if reqR is >= 40, don't A-nerf twice, but only once
                 if (reqR >= 40)  {asc -= 1;}
                 if (reqR >= 100) {asc -= 1;}
+				if (reqR >= 160) {asc -= 1;}
                 return (Math.pow(1 + bonus / 100, Math.pow(0.1, asc)) - 1) * 100;
             }
             // Array of "tuples" containing:
@@ -78,7 +81,7 @@
             //  * function to create bonus text (rNum -> bonus (already toFixed) -> string)
             var RBenefits = [
                 [ 1, '#R1AllBuiPro', true, 1
-                , function(rei) {return 25 * rei;}
+                , function(rei) {return 50 * rei;}
                 , function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
                 ],
                 [ 1, '#R1OffPro', true, 1
@@ -86,11 +89,11 @@
                 , function(rei, bonus) {return 'Offline production is increased by ' + bonus + '%.';}
                 ],
                 [ 1, '#R1FCChaMul', false, 1
-                , function(rei) {return rei;}
+                , function(rei) {return 10 * rei;}
                 , function(rei, bonus) {return 'Faction coin chance is increased by ' + bonus + '%.';}
                 ],
                 [ 1, '#R1MpS', false, 1
-                , function(rei) {return Math.floor(12.5 * (Math.pow(1 + 8 * rei, 0.5) - 1) / 2) / 10;}
+                , function(rei) {return 2 * rei;}
                 , function(rei, bonus) {return 'Mana regeneration is increased by +' + bonus + ' m/s.';}
                 ],
                 [ 2, '#R2GemPro', false, 1
@@ -133,13 +136,13 @@
                 , function(rei) {return 1.2 * Math.pow(rei, 1.05);}
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
                 ],
-                [ 70, '#R70AddResSlo', false, 0
-                , function(rei) {return 0;}
-                , function(rei, bonus) {return 'You gain 1 additional Research slot for each branch.';}
-                ],
                 [ 85, '#R85AssPerR', false, 0
                 , function(rei) {return rei * 4;}
                 , function(rei, bonus) {return 'Add ' + bonus + ' additional Assistants.';}
+                ],
+				[ 90, '#R90AddResSlo', false, 0
+                , function(rei) {return 0;}
+                , function(rei, bonus) {return 'You gain 1 additional Research slot for each branch.';}
                 ],
                 [ 100, '#R100ManRegPerR', false, 0
                 , function(rei) {return rei;}
@@ -154,13 +157,21 @@
                 , function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction, Bloodline or Artifact Set.';}
                 ],
                 [ 120, '#R120NEMPro', true, 1
-                , function(rei) {return 100 * rei;}
+                , function(rei) {return 150 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],
 				[ 150, '#R150CTABoost', false, 0
                 , function(rei) {return rei + 1;}
                 , function(rei, bonus) {return 'Unique Buildings count ' + bonus + ' times more for Call to Arms purposes.';}
-                ]				
+                ],
+				[ 180, '#R180NEMPro', true, 1
+                , function(rei) {return 150 * rei;}
+                , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
+                ],
+				[ 210, '#R210NEMPro', true, 1
+                , function(rei) {return 300 * rei;}
+                , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
+                ],				
             ];
             function CalRBen() {
                 var rei = parseInt($('#ReiCosRei').val());
@@ -226,10 +237,11 @@
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1.778e' + (nextR * 2 - 62).toFixed(0) + '</b> gems.');
                 } else if (rei < 160){
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((nextR-1) , (nextR - 101))).toExponential(4) + '</b> gems.');
-                }
-                  else{
+                } else if (rei < 220){
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (1e27 * Math.pow(100 , (nextR - 161))).toPrecision(1) + '</b> gems.');
-                }
+                } else {
+					$('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (16 + (nextR - 220) * 2).toFixed(0) + '</b> gems.');
+				}
                 //Unlocks next R
                 switch (rei) {
                     case 2:
@@ -307,12 +319,15 @@
 					case 170:
                         Runl('Mercenary Union Contract');
                         break;
-					case 175:
+					case 180:
                         Runl('Forbidden Research');
                         break;	
 					case 190:
                         Runl('Mercenary Challenges');
                         break;	
+					case 220:
+                        Runl('Ascension 4');
+                        break;
                     default:
                         $('#RUnl').css('display', 'none');
                         break;
@@ -328,10 +343,10 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Reincarnation Perks</a></b></p>
             <div class="autohide">
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
-                <p><b>Added</b>: Increase Production by (25 * x)%</p>
+                <p><b>Added</b>: Increase Production by (50 * x)%</p>
                 <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
-                <p><b>Added</b>: Increase FC chance by (x)%.</p>
-                <p><b>Added</b>: Increase Mana per Second by (floor(12.5 * (((1 + 8 * x) ^ 0.5) - 1) / 2) / 10).</p>
+                <p><b>Added</b>: Increase FC chance by +(10 * x)%.</p>
+                <p><b>Added</b>: Increase Mana per Second by +(2 * R).</p>
                 <br/>
                 <p><b>2nd Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase Gem production bonus by (0.2 * x)%.</p>
@@ -364,29 +379,40 @@
                 <p><b>58th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
                 <br/>
-                <p><b>70th Reincarnation and up</b></p>
-                <p><b>Effect</b>: You gain 1 additional Research slot for each branch.</p>
-                <br/>
                 <p><b>85th Reincarnation and up</b></p>
                 <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.</p>
+                <br/>
+				<p><b>90th Reincarnation and up</b></p>
+                <p><b>Effect</b>: You gain 1 additional Research slot for each branch.</p>
                 <br/>
                 <p><b>100th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase mana regeneration by 1% per Reincarnation.</p>
                 <br/>
                 <p><b>108th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
-                <p><b>Formula</b>: (0.07 * (x - y) ^ 0.7)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
+                <p><b>Formula</b>: (0.15 * (x - y) ^ 0.75)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
                 <br/>
                 <p><b>115th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R58 power)</p>
                 <br/>
                 <p><b>120th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
-                <p><b>Formula</b>: (125 * R)</p>
+                <p><b>Formula</b>: (150 * R)%</p>
                 <br/>
                 <p><b>150th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes based on Reincarnations made.</p>
-                <p><b>Formula</b>: (buildings * R)</p>
+                <p><b>Formula</b>: x(R + 1)</p>
+                <br/>
+				<p><b>170th Reincarnation and up</b></p>
+                <p><b>Effect</b>: Increases research budget by 3,000 in each branch.</p>
+                <br/>
+				<p><b>180th Reincarnation and up</b></p>
+                <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
+                <p><b>Formula</b>: (150 * R)%</p>
+                <br/>
+				<p><b>210th Reincarnation and up</b></p>
+                <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
+                <p><b>Formula</b>: (300 * R)%</p>
                 <br/>
             </div>
         </div>
@@ -418,10 +444,12 @@
                 <p><b>R125</b>: Elite Factions (Archon, Djinn, and Makers)</p>
                 <p><b>R130</b>: Elite Unions and Lineages</p>
                 <p><b>R135-R153</b>: Elite Challenges</p>
-				<p><b>R160</b>: Third Ascension, Research budgets</p>
+				<p><b>R160</b>: Third Ascension</p>
                 <p><b>R160-R170</b>: Mercenary Reintroduced</p>
-                <p><b>R175</b>: Forbidden Research</p>
+				<p><b>R170</b>: Research budget increase</p>
+                <p><b>R180</b>: Forbidden Research, Research budget increase</p>
 				<p><b>R190-R206</b>: Mercenary Challenges</p>
+				<p><b>R220</b>: Ascension 4</p>
             </div>
         </div>
         <div class="shelementwhole">
