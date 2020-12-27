@@ -25,9 +25,10 @@
                 <th>
                     Complete list of Reincarnation benefits:
                     <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="279" value="0">
-                    <span id="R10"> with time(total) <input id="R10TimTot" style="max-width: 15%" type="number" min="0" max="876000" value="1"> in hours</span>
-                    <span id="R20"> and <input id="R20SpeBui" style="max-width: 15%" type="number" min="0" max="9999999" value="1"> buildings of given type.</span>
-                    <span id="R63"> Prismatic Breath active? <input id="R63PB" style="width: unset"  type="checkbox"></span>
+					<br />
+                    <span id="R10"> with time(total) <input id="R10TimTot" style="max-width: 15%" type="number" min="0" max="876000" value="1"> in hours<br /></span>
+                    <span id="R20"> and <input id="R20SpeBui" style="max-width: 15%" type="number" min="0" max="9999999" value="1"> buildings of given type.<br /></span>
+                    <span id="R63"> Prismatic Breath active? <input id="R63PB" style="width: unset"  type="checkbox"><br /></span>
                 </th>
             </tr>
             <tr>
@@ -95,7 +96,7 @@
                 ],
                 [ 1, 999, '#R1MpS', false, 1
                 , function(rei) {return 2 * rei;}
-                , function(rei, bonus) {return 'Mana regeneration is increased by +' + bonus + ' m/s.';}
+                , function(rei, bonus) {return 'Mana regeneration is increased by +' + bonus + '.';}
                 ],
                 [ 2, 999, '#R2GemPro', false, 1
                 , function(rei) {return 0.2 * rei;}
