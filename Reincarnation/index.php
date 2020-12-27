@@ -91,7 +91,7 @@
                 ],
                 [ 1, 999, '#R1FCChaMul', false, 1
                 , function(rei) {return 10 * rei;}
-                , function(rei, bonus) {return 'Faction coin chance is increased by ' + bonus + '%.';}
+                , function(rei, bonus) {return 'Faction coin chance is increased by +' + bonus + '%.';}
                 ],
                 [ 1, 999, '#R1MpS', false, 1
                 , function(rei) {return 2 * rei;}
@@ -139,7 +139,7 @@
                 ],
                 [ 85, 999, '#R85AssPerR', false, 0
                 , function(rei) {return rei * 4;}
-                , function(rei, bonus) {return 'Add ' + bonus + ' additional Assistants.';}
+                , function(rei, bonus) {return 'Add ' + bonus + ' additional Assistants. Total bonus is '+ rei * 5 + ' additional assistants.';}
                 ],
 				[ 90, 100, '#R90AddResSlo', false, 0
                 , function(rei) {return 0;}
@@ -147,7 +147,7 @@
                 ],
                 [ 100, 999, '#R100ManRegPerR', false, 0
                 , function(rei) {return rei;}
-                , function(rei, bonus) {return 'Increase Mana Regeneration by ' + bonus + '%.';}
+                , function(rei, bonus) {return 'Multiplicatively increase Mana Regeneration by ' + bonus + '%.';}
                 ],
                 [ 108, 999, '#R108ProdUBTimeDiff', false, 0
                 , function(rei) {return 0;}
