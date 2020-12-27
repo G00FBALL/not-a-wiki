@@ -24,7 +24,7 @@
             <tr>
                 <th>
                     Complete list of Reincarnation benefits:
-                    <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="219" value="0">
+                    <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="279" value="0">
                     <span id="R10"> with time(total) <input id="R10TimTot" style="max-width: 15%" type="number" min="0" max="876000" value="1"> in hours</span>
                     <span id="R20"> and <input id="R20SpeBui" style="max-width: 15%" type="number" min="0" max="9999999" value="1"> buildings of given type.</span>
                     <span id="R63"> Prismatic Breath active? <input id="R63PB" style="width: unset"  type="checkbox"></span>
@@ -62,7 +62,7 @@
         </table>
         <script>
             function Runl(unl) {
-                $('#RUnl').html('This Reincarnation unlocks <b>' + unl + '</b>.');
+                $('#RUnl').html('The next Reincarnation unlocks <b>' + unl + '</b>.');
                 $('#RUnl').css('display', 'block');
             }
             function GetANerfValue(bonus, reqR, asc) {
@@ -238,12 +238,12 @@
                 } else if (rei < 160){
                     $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (Math.pow(1e27,0.75) * Math.pow((nextR-1) , (nextR - 101))).toExponential(4) + '</b> gems.');
                 } else if (rei < 220){
-                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>' + (1e27 * Math.pow(100 , (nextR - 161))).toPrecision(1) + '</b> gems.');
+                    $('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (25 + (nextR - 160) * 2) + '</b> gems.');
                 } else {
 					$('#RNex').html('To Reincarnate to R' + nextR.toFixed(0) + ', you need <b>1e' + (16 + (nextR - 220) * 2).toFixed(0) + '</b> gems.');
 				}
                 //Unlocks next R
-                switch (rei) {
+                switch (rei + 1) {
                     case 2:
                         Runl('Vanilla Challenges');
                         break;
