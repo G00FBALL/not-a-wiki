@@ -1226,16 +1226,16 @@
                 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12am6am.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 AM - 6 AM</font></b></p>
                 <p><b>Effect</b>: Gain additional assistants based on the amount of Gems you own.</p>
-                <p><b>Formula</b>: (ln(1 + x) ^ 1.35)), where x is amount of Gems you own.</p>
+                <p><b>Formula</b>: +(floor(ln(1 + x) ^ 1.35)), where x is amount of gems you own.</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6am12pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 6 AM - 12 PM</font></b></p>
                 <p><b>Effect</b>: Increase Mana Regeneration based on the amount of assistants you own. (Additive)</p>
-                <p><b>Formula</b>: (1.75 * ln(1 + x) ^ (1.75 + 0.5 * A)), where x is amount of assistants you own.</p>
+                <p><b>Formula</b>: +(1.75 * ln(1 + x) ^ (1.75 + 0.5 * A)), where x is amount of assistants you own and A is Ascension count.</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce12pm6pm.png" alt="SunForce12pm6pm" align="middle"><b><font color="red"> 12 PM - 6 PM</font></b></p>
                 <p><b>Effect</b>: Increase the production of all buildings based on the amount of Faction Coins you collected in this game.</p>
-                <p><b>Formula</b>: (ln(1+ x) ^ (3 + 3 * A)), where x is your total faction coins stat.</p>
+                <p><b>Formula</b>: (ln(1 + x) ^ (3 + 3 * A))%, where x is your faction coins and A is Ascension count.</p>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/SunForce6pm12am.png" alt="SunForce6pm12am" align="middle"><b><font color="red"> 6 PM - 12 AM</font></b></p>
                 <p><b>Effect</b>: Increase offline production based on the amount of buildings you own.</p>
-                <p><b>Formula</b>: (x ^ (0.85 + 0.15 * A)), where x is the number of buildings you own.</p>
+                <p><b>Formula</b>: (10 * x ^ (0.85 + 0.15 * A))%, where x is the number of buildings you own and A is Ascension count.</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" alt="Ancient Heirloom" align="middle"><b> Ancient Heirloom</b></p>
                 <p><b>Requirement</b>: Have at least 1 Lineage level purchased.</p>
