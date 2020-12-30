@@ -34,7 +34,6 @@
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
 					<p><b>Notes</b>: Swap FC6->DW5 if buffed</p>
 					<p><b>Notes</b>: Buy max excavations whenever the build slows down</p>
-					<p><b>Notes</b>: This build is for getting <b>Coin Pillage</b> and <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
 				</div>
 			</div>
         </div>
