@@ -80,7 +80,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">?? (R3+ Coin Pillage, Mana Waste & Power Orb, R7+ Autocasting upgrades)<font color="Blue"> Good</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Mania (R3+ Coin Pillage, Mana Waste & Power Orb, R7+ Autocasting upgrades)<font color="Blue"> Good</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Alignment</b>: Good Mercenary</p>
@@ -98,7 +98,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">?? (Building count buffer)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Versatile Builder (Building count buffer)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Alignment</b>: Any Mercenary (Can be used as any alignment)</p>
