@@ -14,7 +14,7 @@
         <p><b>Production</b></p>
         <div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Holy Trinity R3-R29 <font color="Blue">Good</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Holy Trinity R3+<font color="Blue"> Good</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: ensteffahn</p>
 					<p><b>Range</b>: 1e35 (100 Dc) - 1e75 (1 Qavg)</p>
