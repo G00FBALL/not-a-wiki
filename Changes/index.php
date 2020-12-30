@@ -398,12 +398,12 @@
 <p><b>FR10</b> (Bubble Swarm)</p>
         <p><b>Old Effect</b>: Increase maximum mana based on the amount of Swarming Towers you own.</p>
         <p><b>Old Formula</b>: +(sumOfDigits(x) * 100 * x ^ 0.45), where x is the amount of Swarming Towers you own.</p>
-        <p><b>New Effect</b>: Increase maximum mana based on the highest amount of Swarming Towers you own this R</p>
+        <p><b>New Effect</b>: Increase maximum mana based on the highest amount of Swarming Towers you own this R.</p>
         <p><b>New Formula</b>: +(x ^ 1.05), where x is the highest amount of Swarming Towers you own this R.</p>
 <br/>
 <p><b>FR11</b> (Pheromones)</p>
         <p><b>Old Effect</b>: Gain assistants based on time spent affiliated with Fairies in this Reincarnation (Additive).</p>
-	<p><b>Old Formula</b>: +(1.5 * x ^ 0.75), where x is time spent affiliated with Fairies this R.</p>
+		<p><b>Old Formula</b>: +(1.5 * x ^ 0.75), where x is time spent affiliated with Fairies this R.</p>
         <p><b>New Effect</b>: Gain assistants based on time spent as Chaos in this Reincarnation (Additive).</p>
         <p><b>New Formula</b>: +(80 * x ^ 0.6), where x is time spent as Chaos this R.</p>
 <br/>
@@ -411,7 +411,7 @@
         <p><b>Old Effect</b>: Multiplicatively increase Mana Regeneration by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought).</p>
 	<p><b>Old Formula</b>: Every 30 minutes, ((current upgrade bonus) + rand(1.5 - 7.5)) (averages out to 216% per day).</p>
         <p><b>New Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Chaos spells cast in this Reincarnation.</p>
-        <p><b>New Formula</b>:  (1.2 * x ^ 0.8)%, where x is Chaos spells cast this R.</p>
+        <p><b>New Formula</b>: (1.2 * x ^ 0.8)%, where x is Chaos spells cast this R.</p>
 <br/>
 <p><b>Elven</b></p>
 <p>EL3 swapped places with EL9, EL9's formula changed.</p>
@@ -435,7 +435,7 @@
 <br/>
 <p><b>EL10</b> (Wooden Dice)</p>
         <p><b>Effect</b>: When Elven Luck triggers, 100,000 automatic Tax Collections are cast.</p>
-	<p><b>Old Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
+		<p><b>Old Effect</b>: Increase Elven Luck chance to activate and its effects based on the amount of Arboreal Cities you own.</p>
         <p><b>New Effect</b>: Increase Elven Luck chance to activate and its effects based on the highest amount of Arboreal Cities you own in this reincarnation (formulas unchanged).</p>
         <p><b>New Effect</b>: Also removes 2 ascension penalties from Elven Luck.</p>
 <br/>
