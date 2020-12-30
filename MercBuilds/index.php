@@ -94,7 +94,7 @@
 					<p>SP:Fairy Chanting,SP:Moon Blessing</p>
 					<p><b>Notes</b>: This build is for getting the Coin Pillage & Mana Waste trophies and excavating Power Orb in R3, and getting Autocasting upgrades in R7+.</p>
 					<p><b>Notes</b>: Buff DD4 before running this build.</p>
-					<p><b>Notes</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation, and Ruby Power or Reincarnation power if they increases max mana.</p>
+					<p><b>Notes</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation and Ruby Power or Reincarnation power if they increase max mana.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
