@@ -28,7 +28,7 @@
 </br>
 <p>Faction Upgrades cost Sapphire Coins in A4.</p>
 	<p><b>Cost Formula</b>: (1e51 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>	
-	<table class="numtable">
+	<table class="numtable" style="color: black;">
 		<tr>
 			<th>Faction Upgrade</th>
 			<th>Coin Cost</th>
@@ -96,7 +96,7 @@
 	<p><b>Effect</b>: Choose a Legacy (set of 3 faction upgrades of the same tier) that doesn't match your current faction. You can purchase more Legacies for a progressively increasing cost. See the Legacy page (TBD) for details.</p>
 	<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>	
 	<p><b>Faction Coin Cost</b>: (1e33 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
-	<table class="numtable">
+	<table class="numtable" style="color: black;">
 		<tr>
 			<th>Legacy Number</th>
 			<th>Coin Cost</th>
