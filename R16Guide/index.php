@@ -211,7 +211,7 @@ div#images div{
 <p><b>2.2</b>: <b>S30</b>: 4000 Max Mana, <b>E30</b>: 1000 royal exchanges this game, <b>E50</b>: 1000 royal exchanges as Goblin, <b>W25</b>: 1 Tqag (1e132) coins this game, Use Goblin with Druid Bloodline.</p>
 <p><b>2.3</b>: <b>C25</b>: 12K spells this R. Use Merc build below and read note (After spell count reached switch to Angel to unlock this research)</p>
 <p><b>Merc Build</b>
-<p><b>Alingment</b>: Good</p>
+<p><b>Alignment</b>: Good</p>
 <p><b>Bloodline</b>: Druid</p>
 <p><button onclick="myFunction($(this))">Copy Build</button>
 <input type="text" value="FR3,AN1,AN5,GB1,GB5,GB7,UD7,TT7,DD6,DN2,DN4,DW7,SP:Goblin's Greed,SP:Fairy Chanting" id="Build">
@@ -233,15 +233,16 @@ div#images div{
 <p><b>4.3</b>: <b>D135</b>: 250 m/s Mana Regen(as Angel) Use Angel with Druid Bloodline.</p>
 <p><b>4.4</b>: <b>E135</b>: 28,000 Total Buildings(as Goblin) Goblin with Goblin Bloodline.</p>
 <p><b>4.5</b>: <b>S135</b>: 4,000 Unique Buildings this game as Fairy, Use Fairy with Goblin Bloodline.</p>
-<p><b>4.6</b>: <b>A25</b>: 666 Hellfire Blast, <b>A30</b>: 750 Fairy Chanting this R, <b>W135</b>: 580 trophies Use Demon with any Bloodline. (Use Merc build below and read note) (After spell count reached switch to Demon and Fairy to unlock both research)</p>
+<p><b>4.6</b>: <b>A25</b>: 666 Hellfire Blast, <b>A30</b>: 750 Fairy Chanting this R, Use Merc build below and read note (After spell count reached switch to Demon and Fairy to unlock both research)</p>
 <p><b>Merc Build</b>
-<p><b>Alingment</b>: Good</p>
+<p><b>Alignment</b>: Good</p>
 <p><b>Bloodline</b>: Druid</p>
 <p><button onclick="myFunction($(this))">Copy Build</button>
 <input type="text" value="FR3,AN1,AN5,GB1,GB5,GB7,UD7,TT7,DD6,DN2,DN4,DW7,SP:Fairy Chanting,SP:Hellfire Blast" id="Build">
 <p>FR3,AN1,AN5,GB1,GB5,GB7,UD7,TT7,DD6,DN2,DN4,DW7,SP:Fairy Chanting,SP:Hellfire Blast</p>
 <p><b>Note</b>: Cast Hellfire Blast and Fairy Chanting on Bronze everything on Gold and no Tax Collection. (Just under 4 hour run)</p>
 <br/>
-<p><b>4.7</b>: <b>D25</b>: 5 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead), <b>A135</b>: 1 day play time this R, <b>W50</b>: 12 hours evil playtime this R, Use Undead with Druid Bloodline. (After 12 hours evil time switch to Demon to unlock W50)</p>
+<p><b>4.7</b>:  <b>W135</b>: 580 trophies, Use Demon with Elf Bloodline.</p>
+<p><b>4.8</b>: <b>D25</b>: 5 hours offline as Undead, <b>A50</b>: 120 m/s Mana Regen(as Undead), <b>A135</b>: 1 day play time this R, <b>W50</b>: 12 hours evil playtime this R, Use Undead with Druid Bloodline. (After 12 hours evil time switch to Demon to unlock W50)</p>
 <p><b>Note</b>: <b>D25</b> and <b>W50</b> can wait until after R18 where you do vanilla challenges but needs to be done.</p>
  <?php include "../scripts/footer.html"; ?>
