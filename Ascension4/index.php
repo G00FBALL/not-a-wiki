@@ -16,11 +16,11 @@
 <p>You will lose access to Mercenaries, Prestige and Elite Factions.</p>
 <p><b><font color="red">Make sure to have all trophies regarding them before ascending.<font></b></p>
 </br>
-<p>All Researches from A0 and A1 (<5000) as well as normal Heritages will become inaccessible.</p>
+<p>All Researches from A0 and A1 (<5000) as well as normal Heritages will become inaccessible. This includes the Mercenary Badge.</p>
 <p>Ascension 4 will give you access to Legacies.</p>
 </br>
 <hr>
-<p>Faction Treaties Faction Coin Costs is increased in A4.</p>
+<p>Faction Treaties Faction Coin Costs are increased in A4.</p>
 <p><b>Trade Treaties</b>: 1 Qa (1e15)</p>
 <p><b>Friendship Pact</b>: 1 Sx (1e21)</p>
 <p><b>Alliance</b>: 1 Oc (1e27)</p>
@@ -85,7 +85,7 @@
 <br/>	
 <hr>
 <p>A4 Research:</p>
-<p><b>All researches under 5000 point will be unavailable</b>.</p>
+<p><b>All researches under 5000 points will be unavailable</b>.</p>
 <p><b>Research Budget</b>: Budget is further increased by 2,000 for every Treaty, Friendship Pact, Alliance and Union bought.</p>	
 <p><b>Research Points</b>: Now capped at 12,000.</p>
 	<p><b>Coin Cost</b>: (1.4 ^ (0.1 * RP - 7000))</p>	
