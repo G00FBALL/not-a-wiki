@@ -74,6 +74,6 @@
  - All Ascension Penalties from Faction Upgrades and Advanced Heritages are completely removed in A4.<br>
  - Building Cost Multiplier reverted to A0.<br>
  - Legacies introduced.</p>
-<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/Changes/">Current Changes</b></a>.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/Ascension4/">Ascension 4</b></a>.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
