@@ -669,10 +669,11 @@
 	<p><b><img src=http://musicfamily.org/realm/Factions/picks/MiniatureLamps.png align=middle> Miniature Lamps</b></p>
 	<p>&quot;In the beginning, we shared with the mortals mystical wishes to give them some entertaining tales to tell.&quot;</p>
 	<p><b>Requirements</b>: Fairy as Base Faction, Djinn as Elite Faction, Reincarnation 135+, Persistent Entropy upgrade purchased.</p>
-	<p><b>Challenge</b>: Reach 50,000 Enchanted Fields within 2 minutes of a new game.</p><p><b>Effect</b>: Maelstrom increases assistants based on lowest building tier targeted. </p>
-	<p><b>Formula</b>: Multiplicative to base assistants: sum of ((12 - T) * 100)%, each T is tier of lowest maelstrom building targeted.</p>
+	<p><b>Challenge</b>: Reach 50,000 Enchanted Fields within 2 minutes of a new game.</p>
+	<p><b>Effect</b>: Maelstrom multiplicatively increases assistants based on lowest building tier targeted.</p>
+	<p><b>Formula</b>: ((12 - T) * 100)%, where T is tier of lowest maelstrom building targeted.</p>
 	<p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting duration.</p>
-	<p><b>Additive to LW casts</b>: ((x ^ 0.5) * T * y / 2,000)%, where x is maximum mana, T is Fairy Chanting tier and y is Fairy Chanting runtime in seconds.</p>
+	<p><b>Formula</b>: +((x ^ 0.5) * T * y / 2,000), where x is maximum mana, T is Fairy Chanting tier and y is Fairy Chanting runtime in seconds.</p>
 	<p><b>Upgrade</b>: Works with Fairy+Dwarves+Djinn</p>"
 	coords="68,1384,127,1439" shape="rect">
     <area href="http://musicfamily.org/realm/Djinn/#DjinnDC2" target="" research=
