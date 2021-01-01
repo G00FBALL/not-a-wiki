@@ -392,7 +392,7 @@
 	<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 4+, Faceless Overmind upgrade purchased, Fairy and Undead challenge 1 completed.</p>
 	<p><b>Challenge</b>: Have at least 125 assistants within 5 minutes of a new game.</p>
 	<p><b>Effect</b>: Gain an extra assistant every minute, resets every hour</p>
-	<p><b>Upgrade</b>: Works with Faceless</p><p><b>Tip 1</b>: Do not use <b>Buy All</b>.</p>"
+	<p><b>Upgrade</b>: Works with Faceless</p>"
 	coords="71,878,126,932" shape="rect">
     <area href="http://musicfamily.org/realm/Faceless/#FacelessFC2" target="" target="" research=
 	"<p><b>Faceless Challenge 2</b></p>
