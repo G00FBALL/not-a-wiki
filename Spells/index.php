@@ -869,11 +869,11 @@
       </tr>
       <tr>
           <td>+1</td>
-          <td>1.e5</td>
-          <td>1.e5</td>
-          <td>1.e5</td>
-          <td>1.e5</td>
-          <td>1.e5</td>
+          <td>1e5</td>
+          <td>1e5</td>
+          <td>1e5</td>
+          <td>1e5</td>
+          <td>1e5</td>
       </tr>
       <tr>
           <td>+2</td>
@@ -942,7 +942,7 @@
       </tr>
       <tr>
           <td>+10</td>
-          <td>1.e10</td>
+          <td>1e10</td>
           <td>5.179e10</td>
           <td>4.642e11</td>
           <td>1e13</td>
