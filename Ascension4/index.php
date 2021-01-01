@@ -93,7 +93,7 @@
 <br/>	
 <hr>
 <p><b>New Upgrade: Legacy</b>.</p>
-	<p><b>Effect</b>: Choose a Legacy (set of 3 faction upgrades of the same tier) that doesn't match your current faction. You can purchase more Legacies for a progressively increasing cost. See the Legacy page (TBD) for details.</p>
+	<p><b>Effect</b>: Choose a Legacy (set of 3 faction upgrades of the same tier) that doesn't match your current faction. You can purchase more Legacies for a progressively increasing cost. This unlocks that set of faction upgrades for purchase for their normal coin cost. See the Legacy page (TBD) for details.</p>
 	<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>	
 	<p><b>Faction Coin Cost</b>: (1e33 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
 	<table class="numtable" style="color: black;">
