@@ -630,21 +630,21 @@
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-    <p><b>Chance</b>: (x / 1 B [1e9])%, where x is assistant count (including temporary assistants)</p>
+    <p><b>Chance</b>: (x / 1 B [1e9])%, where x is assistant count (including temporary assistants).</p>
     				" coords="303,463,356,516" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/PoisonVial.png' align='middle'> <b>Poison Vial</b></p>
     <p><b>Clue</b>: Combo your way through.</p>
     <p><b>Description</b>: One drop of this is enough to fell thousands of non-immune creatures.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Drow, Ceremonial Dagger and Arachnid Figurine artifacts.</p>
-    <p><b>Chance</b>: ((40 * x ^ 0.9) / 10,000,000 (10M))%, where x is combo strike count</p>
+    <p><b>Chance</b>: ((40 * x ^ 0.9) / 10,000,000 (10M))%, where x is combo strike counter.</p>
     				" coords="363,463,416,516" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/DragonScale.png' align='middle'> <b>Dragon Scale</b></p>
     <p><b>Clue</b>: Usually found when a lot of magic is lingering.</p>
     <p><b>Description</b>: Very high on the realms' most accurate hardiness rankings.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dragon, Dragon Fang and Dragon Soul artifacts.</p>
-    <p><b>Chance</b>: (x / 2,500)%, where x is active spells</p>
+    <p><b>Chance</b>: (x / 2,500)%, where x is active spells.</p>
     				" coords="3,523,56,576" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/LanternofGuidanceArtifact.png' align='middle'> <b>Lantern of Guidance</b></p>
