@@ -20,7 +20,7 @@
     <p>"The mighty titans wish for you to harness arcane powers through your fingertips."</p>
     <p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
     <p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
-    <p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. Does not suffers from Ascension penalties.</p>
+    <p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. does not suffer from Ascension penalties.</p>
     <p><b>Formula</b>: (x ^ 0.7)%, where x is time spent not playing as Faceless this R.</p>
     <p><b>Upgrade</b>: Works with Faceless</p>
     <p><b>Tip</b>: This challenge does not need to be done within one spell combo. In addition, due to a bug, it counts one click per second if you have at least one assistant. It's possible to meet the condition without clicking the treasure at all while spells are active by casting 3 spells that last 20 seconds together 4 times.</p>
@@ -39,7 +39,7 @@
     <p>"The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
     <p><b>Challenge</b>: Hit Halls of Legends with Lightning Strike 2 times in a row while having all building types and no researches.</p>
-    <p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. Does not suffers from Ascension penalties.</p>
+    <p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. does not suffer from Ascension penalties.</p>
     <p><b>Formula</b>: (15 * x ^ 0.5)%, where x is Lightning Strike casts this R.</p>
     <p><b>Upgrade</b>: Works with All</p>
     <p><b>Tip</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs. <a target="_blank" href="http://dox4242.github.io/rws/index.html" research="Allows you to see what Lightning Strike will hit next"> <b>The Realm Weather Service</b></a> can help to forecast.</p>

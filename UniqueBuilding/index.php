@@ -50,7 +50,7 @@
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
 <p><b>Formula</b>: (x ^ 0.85)%, where x is time in seconds as Good this Reincarnation.</p>
 <p><b>Alignment</b>: Good, Proof of Order</p>
-<p><b>Requirement</b>: A2, Holy Site Quest (100,000 Mana Regeneration)</p>
+<p><b>Requirement</b>: A2, Holy Site Quest (3M (3e6) Mana Regeneration)</p>
 <hr>
 <p><b>Goblin</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinUniqueBuilding.png" alt="Goblin Banks" align="middle"></p>

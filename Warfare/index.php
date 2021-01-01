@@ -54,7 +54,7 @@
     <p><b>W135</b> - For All Factions</p>
 	<p><b>Research Name</b>: Rampage</p>
 	<p><b>Hint</b>: Light up those cups!</p>
-	<p><b>Requirement</b>: 580 Trophies(as Demon)</p>
+	<p><b>Requirement</b>: 580 Trophies (as Demon)</p>
 	<p><b>Cost</b>: 296 Ocqag (9.6E149)</p>
 	<p><b>Effect</b>: Increase maximum mana based on the number of trophies you have unlocked.</p>
 	<p><b>Formula</b>: floor(1.3 * x ^ 1.1), where x is the amount of trophies unlocked.</p>
@@ -172,7 +172,7 @@
 	<p><b>Research Name</b>: Stalking</p>
 	<p><b>Requirement</b>: Research Exertion (W50) and Ambush (W405)</p>
 	<p><b>Cost</b>: 18.47 Uspg (1.847E217)</p>
-	<p><b>Effect</b>: Gain 1 assistant for every 100 seconds of Combo Strike activity time. (This Game)</p>
+	<p><b>Effect</b>: Gain 1 assistant for every 100 seconds of Combo Strike activity time (This Game).</p>
 	<hr>
     <p><b>W525</b> - For Evil</p>
 	<p><b>Research Name</b>: Bloodlust</p>
@@ -192,7 +192,7 @@
 	<p><b>Research Name</b>: Torture</p>
 	<p><b>Requirement</b>: 200 Drow Exchanges as Dromon, Research Soulrending (D245) and Stalking (W520)</p>
 	<p><b>Cost</b>: 39.16 QiSpg (3.916E229)</p>
-	<p><b>Effect</b>: Increase assistants production based on total time spent being Evil. (This R)</p>
+	<p><b>Effect</b>: Increase assistants production based on total time spent being Evil (This R). </p>
 	<p><b>Formula</b>: (8 * x ^ 0.8)%, where x is your Time Spent Being Evil stat.</p>
 	<hr>
     <p><b>W1275</b> - For All Factions</p>
@@ -236,19 +236,19 @@
 	<hr>
     <p><b>W5125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Sovereignty</p>
-	<p><b>Requirement</b>: R175+, Forgotten Relic, Battlefield artifact and upgrade</p>
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Battlefield artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase the production of two highest tier buildings based on assistants you own.</p>
 	<p><b>Formula</b>: (0.5 * x ^ 0.25)%, where x is assistants.</p>
 	<hr>
     <p><b>W5375</b> - For Evil</p>
 	<p><b>Research Name</b>: Officers</p>
-	<p><b>Requirement</b>: R177+, Forgotten Relic, Battlefield artifact and upgrade</p>
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Battlefield artifact and upgrade.</p>
 	<p><b>Effect</b>: Gain assistants multiplicatively based on amount of trophies unlocked.</p>
 	<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies.</p>
 	<hr>
     <p><b>W5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Concealment</p>
-	<p><b>Requirement</b>: R179+, Forgotten Relic, Battlefield artifact and upgrade</p>
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Battlefield artifact and upgrade.</p>
 	<p><b>Effect</b>: Offline time counts more based on Mana Produced in this game.</p>
 	<p><b>Effect</b>: (2 * ln(1 + x) ^ 2)%, where x is mana produced (This game).</p>
 	<hr>

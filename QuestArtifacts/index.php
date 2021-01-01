@@ -97,7 +97,7 @@
         <p><b>Clue</b>: Chances to find increase while not actively searching.</p>
         <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
         <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
-        <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 1,000,000 (1M))%, where x is offline bonus precentage.</p>
+        <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus.</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png align=middle> <b>First Crystal Fragment</b></p>
         <p><b>Clue</b>: Assistants will lead the way.</p>

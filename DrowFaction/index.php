@@ -56,13 +56,13 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" alt="Smiley face" align="middle"> Honor Among Killers</b></p>
         <p><b>Cost</b>: 50 Qad (5E46)</p>
-        <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
-        <p><b>Formula</b>: (100 * x ^ 0.5), where x is your Assistants stat.</p>
+        <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.(Additive)</p>
+        <p><b>Formula</b>:  +(100 + 0.5 * x ^ 0.5)%, where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" alt="Smiley face" align="middle"> Shadow Advance</b></p>
         <p><b>Cost</b>: 500 Qad (5E47)</p>
-        <p><b>Effect</b>: Increase the production of all buildings by 750% only when you have no spells active.</p>
-        <p><b>Effect</b>: increases offline production directly by 750%</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on Max Mana.</p>
+        <p><b>Formula</b>: (2 * log10(1 + x) ^ 2))%, where x is your Max Mana.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Drow Friendship Pact</b></p>
@@ -76,12 +76,13 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" alt="Smiley face" align="middle"> Blood Sacrifices</b></p>
         <p><b>Cost</b>: 500 Qid (5E50)</p>
-        <p><b>Effect</b>: Increase the production of all buildings by 3% per Dark Temple you own.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Dark Temples you built in this Reincarnation.</p>
+        <p><b>Formula</b>: (3 * x)%, where x is the highest amount of Dark Temples you built this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png" alt="Smiley face" align="middle"> Blackmail</b></p>
         <p><b>Cost</b>: 5 Sxd (5E51)</p>
         <p><b>Effect</b>: Reduce the cost multiplier for Royal Exchanges.</p>
-        <p><b>Formula</b>: Reduces cost multiplier to 1.075 from 1.1.</p>
+        <p><b>Formula</b>: Reduces Royal Exchange cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.08 instead of 1.1</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Drow Alliance</b></p>
@@ -90,12 +91,13 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Gods</b></p>
         <p><b>Cost</b>: 500 Sxd (5E53)</p>
-        <p><b>Effect</b>: Increase the production of Dark Temples by 8% for each other building you own.</p>
+        <p><b>Effect</b>: Mutiplicatively increase assistants based on the amount of buildings you own.</p>
+        <p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of buildings you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" alt="Smiley face" align="middle"> Professional Assassins</b></p>
         <p><b>Cost</b>: 5 Spd (5E54)</p>
-        <p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased.</p>
-        <p><b>Formula</b>: round(9 * x * 0.9)%, where x is your Royal Exchanges Made stat.</p>
+        <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of Royal Exchanges you made.</p>
+        <p><b>Formula</b>: (0.6 * x ^ 0.6)%, where x is Royal Exchanges made.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
         <p><b>Cost</b>: 50 Spd (5E55)</p>
@@ -111,7 +113,7 @@
         <p><b>Drow Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Spider Sanctuary Quest</b></p>
         <p><b>Description</b>: Kivvil. Our Valsharess requires more places to worship the almighty Spider Queen. Build enough Dark Temples, and our priestesses will consecrate them.</p>
-        <p><b>Requirement</b>: R28 + 3333 Dark Temples</p>
+        <p><b>Requirement</b>: R28 + 2000 Dark Temples</p>
         <p><b>Cost</b>: 10 Sxg (1E184)</p>
         <p><b>Effect</b>: Unlocks Spider Sanctuary</p>
         <br/>
@@ -130,7 +132,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Underworld</b></p>
         <p><b>Requirements</b>: Prestige Unique Building, Earth Core Artifact</p>
-        <p><b>Cost</b>: 100 QiSxg (1E200), 10 M (1E7) FC of each</p>
+        <p><b>Cost</b>: 100 Sxg (1E185), 10 M (1E7) FC of each</p>
         <p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.</p>
@@ -192,7 +194,7 @@
         <p><b>Union Upgrades</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
-        <p><b>Effect</b>: Increase Royal Exchange bonus based on Brothel amount.</p>
+        <p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of Brothels you built in this Reincarnation (Additive).</p>
         <p><b>Formula</b>: (1.75 * x ^ 0.75), where x is Brothels</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
@@ -203,5 +205,5 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
         <p><b>Cost</b>: 1 Notg (1e120)</p>
         <p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
-        <p><b>Formula</b>: (5 * log10(x) ^ 1.5), where x is amount of current gems.</p>
+        <p><b>Formula</b>: (1.75 * log10(1 + x) ^ 1.75)%, where x is your current amount of gems.</p>
         <?php include "../scripts/footer.html"; ?>

@@ -137,8 +137,7 @@
     <p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk1.png" align="middle"><b> Fairy Perk 1</b></p>
     <p><b>Requirement</b>: Reach Lineage Level 5</p>
     <p><b>Effect</b>: Makes Fairy Bloodline affect Hall of Legends.</p>
-    <p><b>Effect</b>: Also reduces Fairy Bloodline Post Ascension nerf.</p>
-    <p><b>Formula</b>: (250 * (a ^ 0.9)), A1 nerf removed</p>
+    <p><b>Effect</b>: Removes 1 Ascension penalty from Fairy Bloodline.</p>
     <br/>
     <p><b>Level 10</b></p>
     <p><b>Effect</b>: x100 Fairy Faction Coins find chance.</p>

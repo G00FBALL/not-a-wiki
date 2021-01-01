@@ -240,7 +240,7 @@
         <p><img src=http://musicfamily.org/realm/Factions/picks/VoodooDoll.png align=middle> <b>Voodoo Doll</b></p>
         <p><b>Clue</b>: Found in the Witch Conclaves.</p>
         <p><b>Description</b>: You are now CURSED! And you feel a sting in your lower rear.</p>
-        <p><b>Requirement</b>: Play as Evil (Only required to get Witch Conclaves)</p>
+        <p><b>Requirement</b>: R16+, Evil Alignment </p>
         <p><b>Effect</b>: Increase the production of all building by 0.1% for each trophy you have unlocked</p>
         <p><b>Chance</b>: (number of Witch Conclaves / 10,000)%</p>
         <p><b>Cost</b>: 20 Qig (2E154)</p>
@@ -269,14 +269,14 @@
         <p><img src=http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png align=middle> <b>Dawnstone</b></p>
         <p><b>Clue</b>: Relic of the Dawn hours.</p>
         <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
-        <p><b>Requirement</b>: Excavate between 5:00am and 8:00am (Your local time)</p>
+        <p><b>Requirement</b>: R16+, Excavate between 5:00am and 8:00am (Your local time)</p>
         <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
         <p><b>Effect</b>: Grants different effects based on time of the day.</p>
         <p><b>Chance</b>: (Excavation count / 10,000)%</p>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png align=middle> <b>Duskstone</b></p>
         <p><b>Clue</b>: Relic of the Dusk hours.</p>
         <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
-        <p><b>Requirement</b>: Excavate between 6:00pm and 9:00pm (Your local time)</p>
+        <p><b>Requirement</b>: R16+, Excavate between 6:00pm and 9:00pm (Your local time)</p>
         <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
         <p><b>Effect</b>: Grants different effects based on time of the day.</p>
         <p><b>Chance</b>: (Excavation count / 10,000)%</p>
@@ -343,7 +343,7 @@
         <p><b>Clue</b>: Found in the Swarming Towers.</p>
         <p><b>Description</b>: The purest silk made for Fairies, by Fairies, of Fairies.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Fairy, Pink Carrot and Bottled Voice artifacts.</p>
-        <p><b>Chance</b>: ((x - 10000) / 200,000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
+        <p><b>Chance</b>: ((x - 8,000) / 200,000)%, where x is Wizard Towers built (Building count multipliers do NOT count).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/RawEmeraldArtifact.png align=middle> <b>Raw Emerald</b></p>
         <p><b>Clue</b>: Not found on the first Excavation round.</p>
@@ -361,7 +361,7 @@
         <p><b>Clue</b>: Used by the overseers in the Slave Markets.</p>
         <p><b>Description</b>: Use with caution. You do not want to exterminate all your slaves.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Goblin, Ancient Coin Piece and Goblin Purse artifacts.</p>
-        <p><b>Chance</b>: ((x - 10000) / 300,000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
+        <p><b>Chance</b>: ((x - 8,000) / 300,000)%, where x is Slave Pens (Building count multipliers do NOT count).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/DustyCoffinArtifact.png align=middle> <b>Dusty Coffin</b></p>
         <p><b>Clue</b>: Quick! Quick! You have no time to waste!</p>
@@ -373,7 +373,7 @@
         <p><b>Clue</b>: Found in the Burning Abysses.</p>
         <p><b>Description</b>: Incandescent but still. Can be used efficiently as a desk lamp.</p>
         <p><b>Requirement</b>: R100+, 2000+ Excavations, Play as Demon, Demonic Figurine and Demon Horn artifacts.</p>
-        <p><b>Chance</b>: ((x - 10000) / 200,000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
+        <p><b>Chance</b>: ((x - 8,000) / 200,000)%, where x is Hall of Legends (Building count multipliers do NOT count).</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/TitanHelmetArtifact.png align=middle> <b>Titan Helmet</b></p>
         <p><b>Clue</b>: Found in the trade route used for Exchanges.</p>
@@ -397,7 +397,7 @@
         <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
         <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
         <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-        <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is assistant count (including temporary assistants)</p>
+        <p><b>Chance</b>: (x / 1 B [1e9])%, where x is assistant count (including temporary assistants)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/PoisonVial.png align=middle> <b>Poison Vial</b></p>
         <p><b>Clue</b>: Combo your way through.</p>
@@ -451,70 +451,70 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/ManaLoom.png" align="middle"> <b>Mana Loom</b></p>
         <p><b>Clue</b>: Attracted by amassed mana reserves.
         <p><b>Description</b>: Used to weave even the thinnest mana strings.</p>
-        <p><b>Requirement</b>: R175, Chaos Alignment</p>
+        <p><b>Requirement</b>: R180, Chaos Alignment</p>
         <p><b>Chance</b>: (log10(x) ^ 3 / 50,000)%, where x is mana produced (This Game)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Mana Loom artifact and upgrade.</p>
-        <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 2500.</p>
+        <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 3,000.</p>
         <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Fairy Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Factory.png" align="middle"> <b>Factory</b></p>
         <p><b>Clue</b>: Dig it manually.</p>
         <p><b>Description</b>: Mass-production is the way to go.</p>
-        <p><b>Requirement</b>: R175, Neutral Alignment</p>
+        <p><b>Requirement</b>: R180, Neutral Alignment</p>
         <p><b>Chance</b>: (log10(x) ^ 3 / 10,000)%, where x is clicks (This Game)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Factory artifact and upgrade.</p>
-        <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 2500.</p>
+        <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 3,000.</p>
         <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Elven Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Mythos.png" align="middle"> <b>Mythos</b></p>
         <p><b>Clue</b>: Spells get sad when not used for a long time.</p>
         <p><b>Description</b>: Accurate historical list of every existing or non-existing deity.</p>
-        <p><b>Requirement</b>: R175, Good Alignment</p>
+        <p><b>Requirement</b>: R180, Good Alignment</p>
         <p><b>Chance</b>: (x / 4,320,000 (50 Days))%, where x is the activity time (This Reincarnation) of your least used spell (excluding shared benefits, catalyst and holiday spells)</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Mythos artifact and upgrade.</p>
-        <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 2500.</p>
+        <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 3,000.</p>
         <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Angel Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Vault.png" align="middle"> <b>Vault</b></p>
         <p><b>Clue</b>: Show your prowess as a Royal Trader.</p>
         <p><b>Description</b>: Never a place could be more secure.</p>
-        <p><b>Requirement</b>: R175, Balance Alignment</p>
+        <p><b>Requirement</b>: R180, Balance Alignment</p>
         <p><b>Chance</b>: (x / 100,000,000 (100M))%, where x is Royal Exchange Bonus.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Vault artifact and upgrade.</p>
-        <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 2500.</p>
+        <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 3,000.</p>
         <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Goblin Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Athanor.png" align="middle"> <b>Athanor</b></p>
         <p><b>Clue</b>: Archemy.</p>
         <p><b>Description</b>: The legendary oven that could smelt souls into matter.</p>
-        <p><b>Requirement</b>: R175, Order Alignment</p>
+        <p><b>Requirement</b>: R180, Order Alignment</p>
         <p><b>Chance</b>: (x / 1,000,000 (1M))%, where x is Alchemy Research Points.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
-        <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 2500.</p>
+        <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 3,000.</p>
         <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Undead Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Battlefield.png" align="middle"> <b>Battlefield</b></p>
         <p><b>Clue</b>: Would you think an army is enough to excavate this?</p>
         <p><b>Description</b>: An extremely accurate replica of a battle fought long ago.</p>
-        <p><b>Requirement</b>: R175, Evil Alignment</p>
+        <p><b>Requirement</b>: R180, Evil Alignment</p>
         <p><b>Chance</b>: (log10(x) ^ 3 / 20,000)%, where x is the number of Assistants.</p>
         <p><b>Effect</b>: Gives upgrade with same name</p>
         <p><b>Upgrade Requirement</b>: Forgotten Relic, Battlefield artifact and upgrade.</p>
-        <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 2500.</p>
+        <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 3,000.</p>
         <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Demon Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
         <hr>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Apeiron.png" align="middle"> Apeiron</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Apeiron.png" align="middle"> <b>Apeiron</b></p>
         <p><b>Clue</b>: Be different.</p>
         <p><b>Description</b>: The source of everything. Can fit in the average pocket.</p>
         <p><b>Requirement</b>: R175, Mercenary, 15 different faction upgrades.</p>
@@ -526,4 +526,77 @@
         <p><b>Upgrade Description</b>: Unlock the Forbidden research facility and increase Mercenary production by 100%, plus an additional bonus based on Forbidden research point. These upgrades will persist through abdications and reincarnations, providing a permanent bonus to all factions affected.</p>
         <p><b>Upgrade Cost</b>: 1 Qatg (1e105), 100 Qid (1e50) Dwarven and Drow Coins</p>
         <p><b>Note</b>: Upgrade only needs to be bought once.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/GlowingWingArtifact.png" align="middle"> <b>Glowing Wing</b></p>
+		<p><b>Clue</b>: Mana Wings!</p>
+		<p><b>Description</b>: And this is why Fairies don't need torches.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Fairy</p></p>
+		<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is mana produced this game</p></p>
+		<p><b>Fairy Set 2nd Effect</b>: Mutiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
+		<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/SylvanMirrorArtifact.png" align="middle"> <b>Sylvan Mirror</b></p>
+		<p><b>Hint</b>: Pay a barber with Faction Coins.</p>
+		<p><b>Description</b>: An Elf with messy hair is not an Elf, by their own laws.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Elf</p></p>
+		<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is your faction coins find chance in percent</p>
+		<p><b>Elf Set 2nd effect</b>: Clicks count more based on autocast clicks.</p>
+		<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
+		<p><b>Note</b>: NOT affected by any "clicks count more" effects.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/SolidCloudArtifact.png" align="middle"> <b>Solid Cloud</b></p>
+		<p><b>Clue</b>: A cloud of spells.</p>
+		<p><b>Description</b>: Angels have the power to save your life! And make a backup of it on the internet.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Angel</p></p>
+		<p><b>Chance</b>: (x / 40,000)%, where x is the amount of active spells (Active Spells count more multipliers DO NOT count)</p></p>
+		<p><b>Angel Set 2nd effect</b>: Increase the duration of all spells based on the amount of Unique Buildings you own.</p>
+		<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the amount of Unique Buildings you own.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/OrcFangNecklaceArtifact.png" align="middle"> <b>Orc Fang Necklace</b></p>
+		<p><b>Clue</b>: Torment your subjects with taxes.</p>
+		<p><b>Description</b>: To remind your slaves who's in charge.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Goblin</p>
+		<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is TC casts this game</p>
+		<p><b>Goblin Set 2nd effect</b>: Each time you cast a spell, you also cast free Tax Collections based on time spent in this game.</p>
+		<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>	
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/BloodChaliceArtifact.png" align="middle"> <b>Blood Chalice</b></p>
+		<p><b>Clue</b>: Pour a bottle of Frenzy.</p>
+		<p><b>Description</b>: The healthiest vampire breakfast.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Undead</p></p>
+		<p><b>Chance</b>: (x / 10,000)%, where x is an active Blood Frenzy's max duration (The duration when it was cast)</p></p>
+		<p><b>Undead Set 2nd effect</b>: Increases production bonus from gems based on FC found this game (Multiplicative).</p>
+		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/DemonTailArtifact.png" align="middle"> <b>Demon Tail</b></p>
+		<p><b>Clue</b>: Evil wizardry.</p>
+		<p><b>Description</b>: Said to bring great luck to whom it possess...es.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Demon</p></p>
+		<p><b>Chance</b>: (x / 1,000,000)%, where x is Evil Spell Casts this game</p></p>
+		<p><b>Demon Set 2nd effect</b>: Increase production bonus from Gems based on the amount of Evil spells cast in this Reincarnation.</p>
+		<p><b>Formula</b>: +(2.25 * ln(1 + x) ^ 2.25)%, where x is Evil Spell Casts this Reincarnation.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/FrozenLightningArtifact.png" align="middle"> <b>Frozen Lightning</b></p>
+		<p><b>Clue</b>: Lightning never strikes the same place a couple million times. Maybe.</p>
+		<p><b>Description</b>: A sculpture representing the embodiment of Titanic power.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Titan</p>
+		<p><b>Chance</b>: (x / 1,000,000)%, where x is Lightning Strike activity time this game</p>
+		<p><b>Titan Set 2nd effect</b>: Whenever you cast a spell, your production is increased based on Lightning Strike activity in this Reincarnation for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
+		<p><b>Formula</b>: (x ^ 0.7)%, where x is Lightning Strike activity time this Reincarnation.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/PrimalLeafArtifact.png" align="middle"> <b>Primal Leaf</b></p>
+		<p><b>Clue</b>: Huuuuge blue ball.</p>
+		<p><b>Description</b>: Druid Catalyst for channeling the power of nature.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Druid</p></p>
+		<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is the highest Max Mana this R</p></p>
+		<p><b>Druid Set 2nd effect</b>: Lineage levels count more based on spell casts in this game.</p>
+		<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 1.5)%, where x is spell casts this game.</p>
+		<hr>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/TheBlackestInkArtifact.png" align="middle"> <b>The Blackest Ink</b></p>
+		<p><b>Clue</b>: Quality takes time.</p>
+		<p><b>Description</b>: High-quality, freshly produced Faceless ink.</p>
+		<p><b>Requirement</b>: R220+, 10,000 excavations, play as Faceless</p></p>
+		<p><b>Chance</b>: (x / 10,000)%, where x is the longest game session this R (but NOT this game) in seconds</p></p>
+		<p><b>Faceless Set 2nd effect</b>: Increases spell duration based on time spent being offline in this game.</p>
+		<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is offline time this game.</p>
         <?php include "../scripts/footer.html"; ?>

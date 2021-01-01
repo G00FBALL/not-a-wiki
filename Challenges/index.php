@@ -154,7 +154,7 @@
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 18+, Demon Bloodline, Angel Unique Building, Angel challenge 2 completed.</p>
 	<p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Have 2000 Halls of Legends, and no good buildings.</p>
-	<p><b>Effect</b>: Increase the production of all Unique buildings based on your Mana regeneration. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: Increase the production of all Unique buildings based on your Mana regeneration. does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your mana regen.</p>
     <p><b>Upgrade</b>: Works with All</p>"
 	coords="200,255,251,308" shape="rect">
@@ -247,7 +247,7 @@
 	<p><b>Requirements</b>: Demon as Base Faction, Reincarnation 2+, Hellfire Blast upgrade purchased.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Collect 5000 Demon Coins without using Gem Power, Reincarnation Power, Researches or Excavations.</p>
-	<p><b>Effect</b>: Increase the production of all buildings and Faction Coin find chance (additively) based on the amount of upgrades purchased. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: Increase the production of all buildings and Faction Coin find chance (additively) based on the amount of upgrades purchased. does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (x)% and +(x)%, where x is the amount of upgrades purchased.</p>
 	<p><b>Upgrade</b>: Works with Demon</p>
 	<p><b>Tips 1</b>: Either be very patient, or wait until R7 and use Elves bloodline (recommended).</p>
@@ -271,7 +271,7 @@
 	<p><b>Requirements</b>: Demon as Base Faction, Reincarnation 18+, Demon Unique Building</p>
 	<p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Have at least 2000 Halls of Legends and 333 Trophies.</p>
-	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the amount of unlocked trophies. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the amount of unlocked trophies. does not suffer from Ascension penalties.</p>
 	 <p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is the amount of unlocked trophies.</p>
 	<p><b>Upgrade</b>: Works with All</p>
 	<p><b>Tip</b>: Use Goblin Bloodline, can be easily done around Uvg(e66) gems.</p>"
@@ -300,7 +300,7 @@
 	<p>&quot;The mighty titans wish for you to harness arcane powers through your fingertips.&quot;</p>
 	<p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
 	<p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
-	<p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent not playing as Faceless this R.</p>
 	<p><b>Upgrade</b>: Works with Faceless</p>
 	<p><b>Tip</b>: This challenge does not need to be done within one spell combo. In addition, due to a bug, it counts one click per second if you have at least one assistant. It's possible to meet the condition without clicking the treasure at all while spells are active by casting 3 spells that last 20 seconds together 4 times.</p>"
@@ -321,7 +321,7 @@
 	<p>&quot;The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them.&quot;</p>
 	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
 	<p><b>Challenge</b>: Hit Halls of Legends with Lightning Strike 2 times in a row while having all building types and no researches.</p>
-	<p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (15 * x ^ 0.5)%, where x is Lightning Strike casts this R.</p>
 	<p><b>Upgrade</b>: Works with All</p>
 	<p><b>Tip</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs.</p>"
@@ -374,7 +374,7 @@
 	<p>&quot;The Druids need more spell power, but they are worried about outside influences throwing off their balance.&quot;</p>
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 25+, Druid Unique Building, Druid challenge 3 completed.</p>
 	<p><b>Challenge</b>: Cast 13 Grand Balances in the first 5 minutes of a playthrough with 0 non-Druid researches.</p>
-	<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: Increase Non-Unique buildings production based on the duration of your longest spell and buildings' tier. Gives the best bonus to the lowest tier. does not suffer from Ascension penalties.</p>
 	 <p><b>Formula</b>: ((7 * x ^ 0.7) * (12 - T))%, where x is the duration of your longest spell, T is building tier.</b></p>
 	<p><b>Upgrade</b>: Works with All</b></p>
 	<p><b>Tips</b>: Do not buy Halls of Balance as it increases the spell duration. Make sure you have some excavations to buy the Heritages. (Angel Heritage and Angel 1 challenge both boost your m/s.) To acheive this, you need a min. of 50 m/s with Grand Balance continuously casting during 13 full casts. Reward given at 5 minute mark regardless of when achieved.</p>"
@@ -422,7 +422,7 @@
 	<p>&quot;We are suffering attacks from another Hive. It's time to remind them the power of our master.&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 25+, Faceless Unique Building.</p>
 	<p><b>Challenge</b>: Get Hive Mind (FC9) bonus to at least 500%.</p>
-	<p><b>Effect</b>: All factions receive 5% of your Hive Mind bonus. Does not suffers from Ascension penalties.</p>
+	<p><b>Effect</b>: All factions receive 5% of your Hive Mind bonus. does not suffer from Ascension penalties.</p>
 	<p><b>Upgrade</b>: Works with All</p>
 	<p><b>Tip</b>: This is the equivalent of 2 days, 21 hours, 26 minutes and 40 seconds spent allied with Faceless.</p>"
 	coords="263,878,317,932" shape="rect">

@@ -290,6 +290,15 @@ h7 {
     position: relative;
 }
 
+#rightcolumn li {
+    font-family: 'Verdana', Geneva, Lucida, Helvetica, Arial, sans-serif;
+    color: #000;
+    font-size: 1.0em;
+    letter-spacing: .02em;
+    padding: .2em 5px 0 5px;
+    border-bottom: 0px solid #D87A18
+}
+
 #rightcolumn p {
     margin: 2px 0px 5px 0px;
     font-family: 'Verdana', Geneva, Lucida, Helvetica, Arial, sans-serif;
@@ -473,6 +482,12 @@ h7 {
 .calc label {
     display: block;
     text-align: center;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .autohide {

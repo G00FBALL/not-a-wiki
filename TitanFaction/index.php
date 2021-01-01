@@ -159,7 +159,7 @@
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
-	    	<p><b>Description</b>: Khaire, ruler. Our kind want to reshape the mountain into something more fitting, but we need funds. Make enough Royal Exchanges, and we'll let you see our masterpiece.</p>
+	    <p><b>Description</b>: Khaire, ruler. Our kind want to reshape the mountain into something more fitting, but we need funds. Make enough Royal Exchanges, and we'll let you see our masterpiece.</p>
         <p><b>Requirement</b>: 4,000 Royal Exchanges</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>

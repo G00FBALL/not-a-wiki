@@ -5,93 +5,75 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Ascend.png" alt="Ascend" align="middle"></h6>
 <h6>Description</h6>
-<p>Ascension is a third kind of soft reset. It was implemented to overcome the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
-<p>At R39, R99 and R159 the Reincarnation Button will say Ascension.</p>
-<p>Ascending will reset all the progress a Reincarnation would reset.</p>
-<p>It will not reset your Reincarnation count, and then will revert back to the Reincarnate button for Reincarnation 40 and Reincarnation 100 with new requisites.</p>
-<p>By Ascending you will unlock a new main currency, Diamond Coins at R40, Emerald Coins at R100 and Amethyst Coins at R160 that will be used for post-ascension upgrades and features, resulting in much smaller numbers.</p>
-<p>All upgrades that have previously cost Coins (NOT Faction Coins) will be free, and the formulas for subsequent Reincarnations will change to allow continued progress. All Gifts bonuses, Scry Rewards, Ruby bonuses, Event bonuses and Gem bonuses will NOT be affected by the Ascension reduction.</p>
+<p>Ascension is a third kind of soft reset. It was implemented to overcome the usual representation limit for coins. Most production upgrades will be shifted to a smaller range to enable the game to progress further.</p>
+<p>At <b>R39</b>, <b>R99</b>, <b>R159</b> and <b>R219</b> the Reincarnation Button will say Ascension and will reset all the progress a Reincarnation would reset.</p>
+<p>It will not reset your Reincarnation count, and then will revert back to the Reincarnate button for R40, R100, R160 and R220 with new requisites.</p>
+<p>Each Ascension has its own main currency and ascending will replace the old one.</p>
+<p>R0 - R39: Gold Coins</p>
+<p>R40 - R99: Diamond Coins</p>
+<p>R100 - R159: Emerald Coins</p>
+<p>R160 - R219: Amethyst Coins</p>
+<p>R220 - R279: Sapphire Coins</p>
+<p>All upgrades that have cost coins of a previous currency (<b>not</b> Faction Coins) will be free, and the formulas for subsequent Reincarnations will change to allow continued progress.</p>
+<p>All Gifts bonuses, Scry Rewards, Ruby bonuses, Event bonuses and Gem bonuses will <b>not</b> be affected by the Ascension reduction.</p>
 <p><b>Note</b>: It is strongly advised to get most, if not all, the trophies, challenges and artifacts possible before ascending.</p>
-<p><b>Note:</b> It is wise to ascend before reaching 179.7 Uc (1.797E308) gold. If you go above, your coin treasury will become NaN, preventing you from abdicating, making your only options to Reincarnate or to restart the game (which will load the last save with a valid coin count).</p>
 </br>
 <h6>Income Shift</h6>
-<p>Ascension reduces each income boost by raising the respective multiplier to the 1/10 power. For instance, the 6000% of S330 is a 61x multiplier; 61 ^ 0.1 = 1.508, so it's a 50.8% percent increase post-ascension.
-<p>The bonus formulas of production upgrades will all be shifted to a lower range, resulting in many 2-digit number bonuses. Upgrades that increase something other than Building, Click or Assistant production multiplicatively are not affected.</p>
-<p><b>Formula</b>: ((x / 100 + 1) ^ (0.1 ^ A) - 1) * 100, where x is original bonus in percentage and A is Ascension count.</p>
+<p>Each Ascension reduces production boosts by raising the previous respective multiplier to the 1/10-th power, the so called <b>Ascension Penalty</b>, resulting in many 2-digit number bonuses in Ascension 1.<p>
+<p>For instance, the 15,000% of Fairy Workers (FR2) is a x151 multiplier; 151 ^ 0.1 = 1.652, so it is now giving a 65.2% increase in Ascension 1.</p>
+<p>Upgrades that increase something other than production of buildings, clicking reward or assistant production are not affected.</p>
+<p><b>Ascension Penalty Formula</b>:<br>(((x / 100 + 1) ^ (0.1 ^ A) - 1) * 100)%, where x is original bonus in percentage and A the number of Ascension Penalties applied.</p>
 </br>
 <h6>Multiplier reduction</h6>
-<p>Ascension reduces multipliers for building cost and excavation.</p>
-<p><b>Formula</b>: 1 + (M - 1) / (5 * A), where M is old multiplier.</p>
+<p>Ascensions also reduces the Cost Multipliers for buildings and excavation.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/BuildingAlignments/">Buildings Cost</b></a> & <b><a target="" href="http://musicfamily.org/realm/Artifacts/">Excavation Cost</b></a>.</p>
 <hr>
-<p><b>Pre Ascension</b>: (R0-R39)</p>
+<h6>Ascension Details</h6>
+<p><b>Pre Ascension</b>: (R0 - R39)</p>
 <p><b>Gem Requirement</b>: 1e27 * 1000 ^ R</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
-<p><b>Coins to Gems Formula</b>: floor(((1 + 4 * n / 5e11) ^ 0.5 - 1) / 2), where n is coins.</p>
+<p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e11) ^ 0.5 - 1) / 2), where n is coins.</p>
 <hr>
-<p><b>First Ascension</b>: (R40-R99)</p>
+<p><b>First Ascension</b>: (R40 - R99)</p>
 <p><b>Gem Requirement</b>: 1e27 ^ 0.75 * 100 ^ (R - 40)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
-<p><b>Coins to Gems Formula</b>: floor(((1 + 4 * n / 5e11) ^ 0.5 - 1) / 2), where n is coins.</p>
-<p>Gold Coins become Diamond Coins.</p>
+<p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e11) ^ 0.5 - 1) / 2), where n is coins.</p>
 <hr>
-<p><b>Second Ascension</b>: (R100-R159)</p>
+<p><b>Second Ascension</b>: (R100 - R159)</p>
 <p><b>Gem Requirement</b>: 1e27 ^ 0.75 * R ^ (R - 100)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e3, where n is gems.</p>
-<p><b>Coins to Gems Formula</b>: floor(((1 + 4 * n / 5e3) ^ 0.5 - 1) / 2), where n is coins.</p>
-<p>Diamond Coins become Emerald Coins.</p>
-<p><b>Note</b>: Mercenaries and Prestige factions are locked on ascending.</p>
-<p><b>Note</b>: When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher.</p>
-<p>Ascension 2 will give you access to Tier 7 spells (See spell page for time required).</p>
-<p>3 new alignments are added ontop of the regular 3 alignments, with one faction being assigned to each alignment combo. Each new alignment also unlocks an extra spell.</p>
-<p>Second unique building also becomes avaliable for each faction, unlocking Faction Union once bought (See each faction's page for more information).</p>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ProofofOrder.png" alt="Proof of Order" align="middle"> <b>Proof of Order</b></p>
-<p>Determine your rulership in an efficient and stable fashion, making the best out of well-planned strategies to let your realm grow even further.</p>
-<p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
-<p><b>Angel</b> (Good), <b>Undead</b> (Evil), <b>Titans</b> (Neutral)</p>
-<p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
-<br/>
-<p><b>Spell</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFlux.png" alt="Temporal Flux" align="middle"> <b>Temporal Flux</b></p>
-<p><b>Cost</b>: 5000 Mana</p>
-<p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
-<p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
-<p><b>Formula</b>: (3.5 * (x / 60) ^ 0.825)%, where x is time in seconds this game.</p>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ProofofChaos.png" alt="Proof of Chaos" align="middle"> <b>Proof of Chaos</b></p>
-<p>Resign your will to eternal entropy that forms and maintains the world itself, prospering in the glory of extreme bursts of random fortune.</p>
-<p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
-<p><b>Fairies</b> (Good), <b>Demons</b> (Evil), <b>Faceless</b> (Neutral)</p>
-<p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
-<br/>
-<p><b>Spell</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/Maelstrom.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b></p>
-<p><b>Cost</b>: 3500 Mana</p>
-<p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants.</p>
-<p><b>Formulas</b></p>
-<p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
-<p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
-<p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
-<p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ProofofBalance.png" alt="Proof of Balance" align="middle"> <b>Proof of Balance</b></p>
-<p>Avoid fixating yourself to the rules while not falling to madness as well, Take advantage of everything you can gather and maximize your gains with any possible means.</p>
-<p>Choosing this alignment will remove Ascension penalties on all alignment spells and let you affiliate with the following factions.</p>
-<p><b>Elves</b> (Good), <b>Goblins</b> (Evil), <b>Druid</b> (Neutral)</p>
-<p><b>Cost</b>: 1 Qa (1e15) Emerald Coins</p>
-<br/>
-<p><b>Spell</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"> <b>All Creation</b></p>
-<p><b>Cost</b>: 6000 Mana</p>
-<p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
-<p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
-<p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
+<p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e3) ^ 0.5 - 1) / 2), where n is coins.</p>
+<p>When Ascending for the second time, the following will take effect, alongside normal Ascension Changes:</p>
+<p>
+ - Mercenaries and Prestige Factions will become inaccessible.<br>
+ - All Lineage levels will be reset back to 25 (if higher).<br>
+ - Research is limited to one per branch (not counting Faction specific ones).<br>
+ - Tier 7 Spells will become obtainable (see <b><a target="" href="http://musicfamily.org/realm/Spells/">Spells Page</b></a> for time required).<br>
+ - Secondary Alignments and Spells will become available.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/Ascension2/">Ascension 2</b></a>.</p>
 <hr>
-<p><b>Third Ascension</b>: (R160+)</p>
+<p><b>Third Ascension</b>: (R160 - R219)</p>
 <p><b>Gem Requirement</b>: 1e27 * 100 ^ (R - 160)</p>
 <p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e11, where n is gems.</p>
-<p><b>Coins to Gems Formula</b>: floor(((1 + 4 * n / 5e11) ^ 0.5 - 1) / 2), where n is coins.</p>
-<p>Emerald Coins become Amethyst Coins.</p>
-<p><b>Note</b>: When Ascending to Ascension 3, all Lineages will be set back to level 50 if higher.</p>
+<p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e11) ^ 0.5 - 1) / 2), where n is coins.</p>
+<p>When Ascending for the third time, the following will take effect, alongside normal Ascension Changes:</p>
+<p>
+ - All Lineage levels will be reset back to 50 (if higher).<br> 
+ - Research is changed to a Budget System. The cost of each research upgrade is equal to its number. Budget Size starts at 0 and can be increased with Archon Bloodline or later Upgrades.</p>
+<hr>
+<p><b>Fourth Ascension</b>: (R220 - R279)</p>
+<p><b>Gem Requirement</b>: 1e18 * 100 ^ (R - 220)</p>
+<p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e26, where n is gems.</p>
+<p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e26) ^ 0.5 - 1) / 2), where n is coins.</p>
+<p>When Ascending for the fourth time, the following will take effect, alongside normal Ascension Changes:</p>
+<p>
+ - Mercenaries, Prestige and Elite Factions will become inaccessible.<br>
+ - All Lineage levels will be reset back to 75 (if higher).<br>
+ - All Research Upgrades from A0 and A1 are removed.<br>
+ - All Normal Heritages are removed.<br>
+ - All Ascension Penalties from Faction Upgrades and Advanced Heritages are completely removed in A4.<br>
+ - Building Cost Multiplier reverted to A0.<br>
+ - Legacies introduced.</p>
+<p>For more information, see <b><a target="" href="http://musicfamily.org/realm/Changes/">Current Changes</b></a>.</p>
 <br/>
 <?php include "../scripts/footer.html"; ?>
