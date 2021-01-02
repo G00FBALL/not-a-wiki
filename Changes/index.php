@@ -542,9 +542,9 @@
         <p><b>New Effect</b>: Increase Faction Coin find chance based on the highest amount of Witch Conclaves you own in this reincarnation (formula unchanged).</p>
 <br/>
 <p><b>GB10</b> (Fool's Gems)</p>
-        <p><b>Old Effect</b>: Multiplactively increase production bonus from Gem based on the amount of Slave Markets you own.</p>
+        <p><b>Old Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of Slave Markets you own.</p>
 	<p><b>Old Formula</b>: (x ^ 0.5)%, where x is the amount of Slave Markets you own.</p>
-        <p><b>New Effect</b>: Multiplactively increase production bonus from Gem based on the highest amount of Slave Markets you own in this reincarnation.</p>
+        <p><b>New Effect</b>: Multiplicatively increase production bonus from Gems based on the highest amount of Slave Markets you own in this reincarnation.</p>
         <p><b>New Formula</b>: (0.5 * x ^ 0.5)%, where x is the highest amount of Slave Markets you own in this R.</p>
 <br/>
 <p><b>GB11</b> (Money is Magic)</p>

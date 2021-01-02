@@ -946,7 +946,7 @@
 				<p><b>Mercenary Template</b>: GB10</p>
 				<p><b>Requirement</b>: A2+, Goblins Union</p>
 				<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
-				<p><b>Effect</b>: Multiplactively increase production bonus from Gem based on the highest amount of Slave Markets you own in this Reincarnation.</p>
+				<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the highest amount of Slave Markets you own in this Reincarnation.</p>
 				<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the highest amount of Slave Markets you own in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MoneyisMagic.png" align="middle"> Money is Magic</b></p>
