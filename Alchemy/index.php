@@ -39,8 +39,8 @@
 	<p><b>Requirement</b>: 750 Fairy Chanting (Total this R)</p>
 	<p><b>Cost</b>: 95.88 Dqag (9.588E130)</p>
 	<p><b>Effect</b>: Increases duration of Fairy Chanting based on the amount of Enchanted Fields, Inns and Blacksmiths you own and provides a progressively increasing bonus to the spell.</p>
-	<p><b>Formula</b>: Additive Production increase: floor(1000 * t ^ 1.5), where t is how long FC has been active in seconds.</p>
-	<p><b>Formula</b>: Duration increase: floor(x / 800) ^ 0.8) seconds, where x is the number of Farms, Inns, and Blacksmiths you own.</p>
+	<p><b>Additive Production increase formula</b>: floor(1000 * t ^ 1.5), where t is how long FC has been active in seconds.</p>
+	<p><b>Duration increase formula</b>: floor(x / 800) ^ 0.8) seconds, where x is the number of Farms, Inns, and Blacksmiths you own.</p>
 	<hr>
     <p><b>A50</b> - For Angel</p>
 	<p><b>Research Name</b>: Gilding</p>
