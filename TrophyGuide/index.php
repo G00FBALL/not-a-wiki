@@ -23,11 +23,6 @@
 					</thead>
 					<thead>
 						<tr>
-							<th colspan="5">Stop Excavating at 200 until end of R0</th>
-						</tr>
-					</thead>
-					<thead>
-						<tr>
 							<th>Name</th>
 							<th>Cost</th>
 							<th>Requirement</th>
@@ -90,7 +85,7 @@
 								<center>Leet</p><img src="http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png"></td>
 							<td>10m (1e7) coins</p>A1+ Free</td>
 							<td>Have exactly 1337 Coins at any given time.</td>
-							<td>Increase the production of all buildings by 13.37% (No A Nerf)</td>
+							<td>Increase the production of all buildings by 13.37%</td>
 							<td>Buy 1 farm, and click slowly after 1250 coins, or just click 1337 times without buying anything.</td>
 						</tr>
 						<tr>
@@ -122,7 +117,7 @@
 								<center>Advisor Insight</p><img src="http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png"></td>
 							<td>100 No (1e32)</p>A1+ Free</td>
 							<td>Click the Hint button 100 times.</td>
-							<td>Increase the production of all buildings by 10%.</p>A1, 0.96%.</p>A2, 0.1%.</td>
+							<td>Increase the production of all buildings by 10%.</td>
 							<td> (Lady) bottom right.</td>
 						</tr>
 						<tr>
@@ -170,7 +165,7 @@
 								<center>Unitary</p><img src="http://musicfamily.org/realm/Factions/picks/UnitarySecretTrophy.png"></td>
 							<td>1111, A1+ Free</td>
 							<td>Have exactly 1 of each building at any given time.</td>
-							<td>Increase the production of all buildings by 11.11111111%, No A Nerf.</td>
+							<td>Increase the production of all buildings by 11.11111111%</td>
 							<td>You need about 47K gems.</td>
 						</tr>
 					</tbody>
@@ -355,19 +350,35 @@
 					<tbody>
 						<tr>
 							<td>
+								<center>Coin Pillage</p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png"></td>
+							<td>1 Dc (1e33)</p>A1+ Free</td>
+							<td>Cast 150 Tax Collections in less than 5 seconds.</td>
+							<td>Tax Collection also finds 30 seconds worth of Faction Coins.</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Mania</b></a> build.</td>
+						</tr>
+						<tr>
+							<td>
+								<center>Unlimited Mana</p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png"></td>
+							<td>80 Vg (8e64)</p>A1+ Free</td>
+							<td>Have at least 300 mana per second.</td>
+							<td>Increase maximum mana by 2%.</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Mania</b></a> build.</td>
+						</tr>
+						<tr>
+							<td>
+								<center>Mana Waste</p><img src="http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png"></td>
+							<td>1 Td (1e42)</p>A1+ Free</td>
+							<td>Have mana regeneration higher than max mana.</td>
+							<td>Increases max mana based on spells cast.</p>Formula: 127 * log10(1 + x)^2.7</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Mania</b></a> build.</td>
+						</tr>
+						<tr>
+							<td>
 								<center>Helden Sterben Nicht</p><img src="http://musicfamily.org/realm/Factions/picks/HeldenSterbenNichtSecretTrophy.png"></td>
 							<td>5 Qavg (5e75)</p>A1+ Free</td>
 							<td>Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new game session.</td>
 							<td>Increase mana regeneration and maximum mana by 10%.</td>
 							<td>After joining each stage wait about 10 seconds before Abdicating.You Abdicate or Reincarnate and the timer starts, from then you have 15 minutes total to join the three factions.</td>
-						</tr>
-						<tr>
-							<td>
-								<center>Coin Pillage</p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png"></td>
-							<td>1 Dc (1e33)</p>A1+ Free</td>
-							<td>Cast 150 Tax Collections in less than 5 seconds.</td>
-							<td>Tax Collection also finds 30 seconds worth of Faction Coins.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Harley Quinn R3+</b></a> build</td>
 						</tr>
 						<tr>
 							<td>
@@ -392,14 +403,6 @@
 							<td>Have a maximum mana of exactly 4767.</td>
 							<td>Increase maximum mana by 15%.</td>
 							<td>Pick DD4,DN2 (1st silver Druid, 2nd bronze Dwarf) and production</td>
-						</tr>
-						<tr>
-							<td>
-								<center>Unlimited Mana</p><img src="http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png"></td>
-							<td>80 Vg (8e64)</p>A1+ Free</td>
-							<td>Have at least 300 mana per second.</td>
-							<td>Increase maximum mana by 2%.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Burst R3+</b></a> build</td>
 						</tr>
 						<tr>
 							<td>
@@ -435,14 +438,6 @@
 					<tbody>
 						<tr>
 							<td>
-								<center>Mana Waste</p><img src="http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png"></td>
-							<td>1 Td (1e42)</p>A1+ Free</td>
-							<td>Have mana regeneration higher than max mana.</td>
-							<td>Increases max mana based on spells cast.</p>Formula: 127 * log10(1 + x)^2.7</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/"><b>Mana Burst R3+</b></a> build</td>
-						</tr>
-						<tr>
-							<td>
 								<center>Faction Run</p><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png"></td>
 							<td>10 coins</p>A1+ Free</td>
 							<td>Earn 1.5 M (1.5e6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</td>
@@ -463,7 +458,7 @@
 							<td>400 Ud (4e38)</p>A1+ Free</td>
 							<td>Produce 12 M (1.2e7) mana.</td>
 							<td>Allows you to prioritize the order of spell casting.</p>Spells with lower priority will be casted only if higher priority spells are already casted.</p>While offline, improve spell cast amount by 1.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">Mana Mania</a> build.</td>
 						</tr>
 						<tr>
 							<td>
@@ -471,7 +466,7 @@
 							<td>500 Qad (5e47)</p>A1+ Free</td>
 							<td>Produce 20 M mana. (2e7) mana.</td>
 							<td>Allows you to set a minimum amount of mana before starting autocasting.</p>While offline, improve spell cast amount by 2.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">Mana Mania</a> build.</td>
 						</tr>
 						<tr>
 							<td>
@@ -479,7 +474,7 @@
 							<td>600 Spd (6e56)</p>A1+ Free</td>
 							<td>Produce 30 M mana. (3e7) mana.</td>
 							<td>Allows you to set Primary and Secondary spells.</p>While offline, increases mana produced by an additional 10% of your mana regeneration per second and increase spells casted by an additional 2 per minute.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">Mana Mania</a> build.</td>
 						</tr>
 						<tr>
 							<td>
@@ -487,7 +482,7 @@
 							<td>700 Vg (7e65)</p>A1+ Free</td>
 							<td>Produce 50 M mana. (5e7) mana.</td>
 							<td>Allows you to select independent spells.</p>While offline, increases mana produced by an additional 10% of your mana regeneration per second and increase spells casted by an additional 2 per minute.</td>
-							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">IGOT an Excess of Mana R7+</a> build</td>
+							<td>Use the <a href="http://musicfamily.org/realm/MercBuilds/">Mana Mania</a> build.</td>
 						</tr>
 					</tbody>
 				</table>
@@ -814,14 +809,6 @@
 					<tbody>
 						<tr>
 							<td>
-								<center>Overgrinder</p><img src="http://musicfamily.org/realm/Factions/picks/Overgrinder.png"></td>
-							<td></td>
-							<td>Build 50,000 Buildings.</td>
-							<td></td>
-							<td>Goblin blood and fairy/dwarf faction for most/all building trophies or just wait for it to happen naturally.</td>
-						</tr>
-						<tr>
-							<td>
 								<center>Van!shment</p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png"></td>
 							<td>10 Noqag (1e151)</p>A1+ Free</td>
 							<td>Reach an Offline Bonus of at least 1Qa%.</p>A1, 1895%.</p>A2. 34.9%</td>
@@ -891,8 +878,7 @@
 								<center>Stoic Resistance</p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png"></td>
 							<td>10 Coins</p>A1+ Free</td>
 							<td>Get 1 Oc (1e27) gems in the first game of a reincarnation.
-								<p>Gems Needed: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)
-									<p>
+								<p>Gems Needed: (1e27 ^ A ^ 0.75). A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20), etc.</p>
 							</td>
 							<td>Increase base clicking reward by 1 T (1E12).</td>
 							<td>Possible at R30+ using Fairy blood Dwairy, R34+ Titan blood Dwangels, R85+ with the <a href="http://musicfamily.org/realm/R75Plus/">Stoic Resistance (R85+)</a> build</td>
@@ -904,33 +890,6 @@
 							<td>Reach 1 NoVg (1e90) gems without affiliating with mercenaries.</td>
 							<td>Increase Mercenary production by 1% per Reincarnation.</td>
 							<td></td>
-						</tr>
-				</table>
-				<br/>
-				<a id="TrophiesR2130"></a>
-				<table class="numtable">
-					<thead>
-						<tr>
-							<th colspan="5">R39</th>
-						</tr>
-					</thead>
-					<thead>
-						<tr>
-							<th>Name</th>
-							<th>Cost</th>
-							<th>Requirement</th>
-							<th>Effect</th>
-							<th>Hints</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>
-								<center>5000 Buildings</td>
-							<td></td>
-							<td>Build 5000 of each building.(5K series = 25 Trophies)</td>
-							<td></td>
-							<td>Much easier Post A.</td>
 						</tr>
 				</table>
 			</div>
@@ -965,11 +924,11 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Iron Rush</p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png"></td>
+								<center>Iron Rush (?)</p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png"></td>
 							<td>1 TTg (1e102)</p>A1+ Free</td>
 							<td>Reach 725 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.</td>
 							<td>Iron Strongholds count 5% more for all purposes.</td>
-							<td>A1+ You can use Mercs + Gobline +Dwarf Expert Masonry, Goblin's Greed or Lightning Strike for Faction Coins for first spell.</td>
+							<td>A1+ You can use Mercs + Goblin blood + Dwarf Expert Masonry, Goblin's Greed for Faction Coins for first spell.</td>
 						</tr>
 						<tr>
 							<td>
@@ -988,7 +947,7 @@
 								<p>Formula: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
 								<p>Can not reset spells with a fixed duration.</p>
 							</td>
-							<td>This trophy unlocks at R40.</td>
+							<td>This trophy is avaliable to unlock from R40.</td>
 						</tr>
 						<tr>
 							<td>
@@ -996,7 +955,7 @@
 							<td>100 Qid (1e50), A2+ Free</td>
 							<td>Produce 200M mana. (Total this R) </td>
 							<td>Allows you to set the maximum tier you wish to autocast each spell to.</p>Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration.</p>Formula: (1000 * log10(1 + x))</td>
-							<td>This trophy unlocks at R40, The upgrade unlocks at R42.</td>
+							<td>This trophy is avaliable to unlock from R40. The upgrade unlocks at R42.</td>
 						</tr>
 				</table>
 				<br/>
@@ -1356,33 +1315,6 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="5">R116</th>
-						</tr>
-					</thead>
-					<thead>
-						<tr>
-							<th>Name</th>
-							<th>Cost</th>
-							<th>Requirement</th>
-							<th>Effect</th>
-							<th>Hint</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>
-								<center>Future Linkin</p><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png"></td>
-							<td>10 Sptg (1e115)</td>
-							<td>Abdicate with at least 100,000 Unique Buildings.</td>
-							<td>Increase Faction Coin find chance based on time spent in the last game session.</p>Formula: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</td>
-							<td>Goblinline Dwairy with E50,E135</td>
-						</tr>
-					</tbody>
-				</table>
-				<a id="TrophiesR2130"></a>
-				<table class="numtable">
-					<thead>
-						<tr>
 							<th colspan="5">~R120-R125</th>
 						</tr>
 					</thead>
@@ -1396,6 +1328,14 @@
 						</tr>
 					</thead>
 					<tbody>
+						<tr>
+							<td>
+								<center>Future Linkin</p><img src="http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png"></td>
+							<td>10 Sptg (1e115)</td>
+							<td>Abdicate with at least 100,000 Unique Buildings.</td>
+							<td>Increase Faction Coin find chance based on time spent in the last game session.</p>Formula: (214 + 0.03 * x ^ 0.7), where x is time spent in last game.</td>
+							<td>Goblinline Dwairy with E50,E135</td>
+						</tr>
 						<tr>
 							<td>
 								<center>Faction Ruler</p><img src="http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png"></td>
@@ -1433,36 +1373,9 @@
 						</tr>
 					</tbody>
 				</table>
-				<a id="TrophiesR2130"></a>
-				<table class="numtable">
-					<thead>
-						<tr>
-							<th colspan="5">R153</th>
-						</tr>
-					</thead>
-					<thead>
-						<tr>
-							<th>Name</th>
-							<th>Cost</th>
-							<th>Requirement</th>
-							<th>Effect</th>
-							<th>Hints</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>
-								<center>The Architect</p><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png"></td>
-							<td></td>
-							<td>Build 125,000 units of any individual building.</td>
-							<td></td>
-							<td></td>
-						</tr>
-					</tbody>
-				</table>
 			</div>
 		</div>
-				<div class="shelementwhole">
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R160+ Trophies</a></b></p>
 			<div class="autohide">
 				<a id="TrophiesR2130"></a>
@@ -1496,6 +1409,33 @@
 							<td>Free</td>
 							<td>R160+, Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
 							<td>Clicks count 100% more and autoclicks 5 times per second.</td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+				<a id="TrophiesR2130"></a>
+				<table class="numtable">
+					<thead>
+						<tr>
+							<th colspan="5">R190+(?)</th>
+						</tr>
+					</thead>
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Cost</th>
+							<th>Requirement</th>
+							<th>Effect</th>
+							<th>Hints</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<center>The Architect</p><img src="http://musicfamily.org/realm/Factions/picks/TheArchitect.png"></td>
+							<td></td>
+							<td>Build 125,000 units of any individual building.</td>
+							<td></td>
 							<td></td>
 						</tr>
 					</tbody>
