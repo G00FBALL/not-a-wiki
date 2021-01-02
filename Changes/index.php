@@ -1583,7 +1583,7 @@
 	<p><b>New Formula</b>: +(7 * ln(1 + x) ^ 3.5), where x is offline Multiplier.</p>
 <br/>
 <p><b>Demon Set</b></p>
-	<p><b>Old Effect</b>: Increase the production of Non-Unique Buildings based on based on the sum of your Faction spells activity time (This Reincarnation).</p>
+	<p><b>Old Effect</b>: Increase the production of Non-Unique Buildings based on the sum of your Faction spells activity time (This Reincarnation).</p>
 	<p><b>Old Formula</b>: (0.4 * x ^ 0.75)%, where x is the sum of your Faction spells activity time (This Reincarnation).</p>
 	<p><b>New Effect</b>: Trophies count more based on the amount of the three highest tier buildings you own.</p>
 	<p><b>New Formula</b>: (0.5 * x ^ 0.5)%, where x is the sum of the three highest tier buildings.</p>

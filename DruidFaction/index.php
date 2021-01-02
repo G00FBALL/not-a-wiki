@@ -168,7 +168,7 @@
         <p><b>Unique Building</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
         <p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
-        <p><b>Effect</b>: Increase production based on based on total Lineage levels.</p>
+        <p><b>Effect</b>: Increase production based on total Lineage levels.</p>
         <p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of Lineages.</p>
         <p><b>Effect</b>: Also grants access to Faction Union.</p>
         <br/>
