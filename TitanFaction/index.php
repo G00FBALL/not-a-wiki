@@ -87,7 +87,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png" alt="Titan Sized Walls" align="middle"> Titan Sized Walls</b></p>
         <p><b>Cost</b>: 500 Sp (5e26)</p>
         <p><b>Effect</b>: Increase Hall of Legends production based on the amount of assistants you own.</p>
-        <p><b>Formula</b>: (15 * x)%, where x is active spells.</p>
+        <p><b>Formula</b>: (20 + 2.15 * ln(1 + x) ^ 2.15)%, where x is the amount of assistants you own.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitansAllianceFactionUpgrade.png" alt="Titan Alliance" align="middle"> Titan Alliance</b></p>

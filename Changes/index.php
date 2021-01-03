@@ -1123,6 +1123,7 @@
 <p><b>Dragon Challenge 1</b> (Sky Monarch)</p>
 	<p><b>Old Challenge</b>: Have at least 7,200 Halls of Legends.</p>
 	<p><b>New Challenge</b>: Have at least 6,500 Halls of Legends.</p>
+	<p><b>Removed Effect</b>: No longer boosts Titan Drill and Titan Sized Walls upgrade strength.</p>
 <br/>
 <p><b>Dragon Challenge 3</b> (Serpent Queller)</p>
 	<p><b>Removed Effect</b>: No longer removes an ascension penalty from Hive Mind and increase its bonus.</p>

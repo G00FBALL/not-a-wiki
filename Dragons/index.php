@@ -10,7 +10,6 @@
 <p><b>Requirements</b>: Titan as Base Faction, Dragon as Prestige Faction, Reincarnations 48+, Dragon's Roar upgrade purchased, Titan, Druid, Faceless, Dwarven and Drow Challenge 1 completed.</p>
 <p><b>Challenge</b>: Have 6,500 Halls of Legends.</p>
 <p><b>Effect</b>: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.</p>
-<p><b>Effect</b>: Also increase Post-Ascension bonuses for Titan Drill by 100x and Titan Sized Walls 10x.</p>
 <p><b>Upgrade</b>: Works with Titan+Dragon</p>
 <hr>
 <H6 id="DragonDC2"></h6><p><b>Dragon Challenge 2</b>:</p>
