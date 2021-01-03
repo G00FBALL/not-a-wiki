@@ -61,8 +61,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png" alt="Smiley face" align="middle"> Demonic Presence</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
-        <p><b>Effect</b>: Increase the maximum Mana additively based on Evil spells cast in this game.</p>
-        <p><b>Formula</b>: (x ^ 0.8)%, where x is amount of Trophies unlocked.</p>
+        <p><b>Effect</b>: Increase the maximum Mana additively based on Evil spells cast in this game (additive).</p>
+        <p><b>Formula</b>: +(6 * x ^ 0.4), where x is Evil spells cast this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Demon Alliance</b></p>
@@ -142,7 +142,8 @@
         <p><b>Requirement</b>: Burning Abyss Unique Building</p>
         <p><b>Cost</b>: 1 Qi (1e18) Demon Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
-        <p><b>Effect</b>: 1% of all non-Evil spells cast in this game count as Evil.</p>
+        <p><b>Effect</b>: A fraction of Non-Evil spells cast in this game count as Evil.</p>
+	<p><b>Formula</b>: (0.01 * x ^ 0.8), where x is Non-Evil spells cast this game.<p>
         <p><b>Effect</b>: Trophies count 100% more.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
