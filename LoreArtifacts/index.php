@@ -439,7 +439,6 @@
         <p><b>Effect</b>: Gives upgrade with the same name</p>
         <p><b>Effect</b>: Activates all Sun Force effects at once.</p>
         <p><b>Chance</b>: ((x ^ 2.5) / 5,000)%, where x is amount of consecutive days logged in.</p>
-        <p><b>Note</b>: Restarting the game is required to increase the counter</p>
         <p><b>Cost</b>: 100 Qi (1e20)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/MercenaryInsigniaArtifact.png align=middle> <b>Mercenary Insignia</b></p>
