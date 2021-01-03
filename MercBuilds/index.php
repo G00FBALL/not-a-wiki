@@ -104,7 +104,7 @@
 					<p><b>Bloodline</b>: Goblin (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN2,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR4,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN2,DN3,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
 					</p>
 					<p><b>Template</b></p>
 					<p>FR4,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN2,DN3,DN4,DW7,</p>
