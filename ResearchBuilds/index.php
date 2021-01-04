@@ -4,7 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Builds Updated November 11th 2019</b></p>
+    <p style="color:red"><b>All Builds are outdated as of v4.0. Use the <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
+	<br/>
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.</p>
 	<p>Vanilla Flavor Juice and Ancient Cocoa Bean are required.</p>
     <p>All of the builds are rush builds with under 25 minutes (vanilla) or 15 minutes (neutral) runtime due to the above artifacts.. So, if you arent doing so already, spend your offline or idle time as Druid (2 days of Druid time will make your life much easier in R28+, because it will unlock the strongest research avaiable to you)</p>

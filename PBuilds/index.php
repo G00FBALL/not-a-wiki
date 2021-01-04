@@ -3,9 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
-	<br/>
 	<h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Prestige Research" align="middle"></h6>
-	<br/>
 	<br/>
 	<p><b>Note</b>: Factions order is Angels > Dwangels(no researches) > Dwairies Research > Dwangels Research(R36-39)</p>
 	<div class="shlisting">

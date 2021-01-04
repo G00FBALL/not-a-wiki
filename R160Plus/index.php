@@ -3,10 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
+<h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
+<p style="color:red"><b>All Builds are outdated as of v4.0. Use the <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
 <br/>
-<h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" align="middle"></h6>
-<br/>
-    <br/>
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
