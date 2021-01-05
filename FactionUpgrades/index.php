@@ -452,20 +452,20 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" align="middle"> Gold Synthesis</b></p>
 				<p><b>Mercenary Template</b>: FC4</p>
 				<p><b>Cost</b>: 5 Sp (5E24)</p>
-				<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of gold (coins) owned.</p>
-				<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is the amount of gold (coins) owned.</p>
+				<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of coins owned.</p>
+				<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" align="middle"> Mitosis</b></p>
 				<p><b>Mercenary Template</b>: FC5</p>
 				<p><b>Cost</b>: 50 Sp (5E25)</p>
 				<p><b>Effect</b>: Gain additional Faceless Assistants based on the amount of buildings you own.</p>
-				<p><b>Formula</b>: floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
+				<p><b>Formula</b>: +floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" align="middle"> Overgrowth</b></p>
 				<p><b>Mercenary Template</b>: FC6</p>
 				<p><b>Cost</b>: 500 Sp (5E26)</p>
-				<p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R./s.</p>
-				<p><b>Formula</b>: (0.8 *(x ^ 0.8))%, where x is your Buildings Owned (Max) stat.</p>
+				<p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
+				<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
 				<hr>
 				<h6>Dwarf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" align="middle"> Underground Citadels</b></p>
@@ -735,7 +735,7 @@
 				<p><b>Mercenary Template</b>: FC7</p>
 				<p><b>Cost</b>: 50 Oc (5E28)</p>
 				<p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-				<p><b>Formula</b>: +(2.5 * x  ^ 0.5), where x is the amount of assistants you own.</p>
+				<p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is the amount of assistants you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" align="middle"> Abominations</b></p>
 				<p><b>Mercenary Template</b>: FC8</p>
@@ -1060,7 +1060,7 @@
 				<p><b>Requirement</b>: A2+, Faceless Union</p>
 				<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 				<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Forbidden Libraries you built in this Reincarnation. Grows over time and resets every 15 minutes.</p>
-				<p><b>Formula</b>: (mod(t , 900) / 75 * x ^ 0.4)%, where t is time spent this game, x is the highest amount of Forbidden Libraries you built this R.</p>
+				<p><b>Formula</b>: ((t % 900) / 75 * x ^ 0.4)%, where t is time spent this game, x is the highest amount of Forbidden Libraries you built this R.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" align="middle"> Forbidden Language</b></p>
 				<p><b>Mercenary Template</b>: FC11</p>

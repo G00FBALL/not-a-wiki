@@ -74,18 +74,18 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" alt="Smiley face" align="middle"> Gold Synthesis</b></p>
         <p><b>Cost</b>: 5 Sp (5E24)</p>
-        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of gold owned.</p>
-		<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)% where x is amount of gold owned.</p>
+        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of coins owned.</p>
+		<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" alt="Smiley face" align="middle"> Mitosis</b></p>
         <p><b>Cost</b>: 50 Sp (5E25)</p>
         <p><b>Effect</b>: Gain additional Faceless Assistants based on the amount of buildings you own.</p>
-        <p><b>Formula</b>: floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
+		<p><b>Formula</b>: +floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" alt="Smiley face" align="middle"> Overgrowth</b></p>
         <p><b>Cost</b>: 500 Sp (5E26)</p>
-        <p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R./s.</p>
-        <p><b>Formula</b>: 0.8 * x ^ 0.8, where x is your Buildings Owned (Max) stat.</p>
+        <p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
+		<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Faceless Alliance</b></p>
@@ -95,23 +95,23 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalTreasureFactionUpgrade.png" alt="Smiley face" align="middle"> Magical Treasure</b></p>
         <p><b>Cost</b>: 50 Oc (5E28)</p>
         <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
-        <p><b>Formula</b>: (2.5 * x  ^ 0.5), where x is the amount of assistants you own.</p>
+		<p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" alt="Smiley face" align="middle"> Abominations</b></p>
         <p><b>Cost</b>: 500 Oc (5E29)</p>
         <p><b>Effect</b>: Increase the production of assistants based on the amount of active spells.</p>
-	<p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
+		<p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png" alt="Smiley face" align="middle"> Hive Mind</b></p>
         <p><b>Cost</b>: 5 No (5E30)</p>
         <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
-        <p><b>Formula</b>: (x ^ 0.5)%, where x is your total time spent as Faceless in seconds, which persists through reincarnations.</p>
+		<p><b>Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds (all time).</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessHeritage.png" alt="Faceless Heritage" align="middle"><b> Faceless Heritage</b></p>
         <p><b>Requirements</b>: Faceless Champion Trophy</p>
         <p><b>Cost</b>: 25,000 Fairy Coins, 25,000 Undead Coins</p>
         <p><b>Effect</b>: Your production is increased based on the highest amount of buildings purchased in a single game.</p>
-        <p><b>Formula</b>: 0.25 * x ^ 0.75, where x is your Buildings Owned (Max) stat.</p>
+        <p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is your Buildings Owned (Max) stat.</p>
         <hr>
         <p><b>Faceless Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCitiesQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities Quest</b></p>
@@ -122,11 +122,11 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCityFactionUpgrade.png" alt="Smiley face" align="middle"> Sunken Cities</b></p>
         <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (75 * (x / 3600) ^ 0.9)%, where x is is your Playtime (Longest Session) stat.</p>
-        <p><b>Effect</b>: Also allows access to the Research Facilities.(after completing Secrets of the Ancients).</p>
+        <p><b>Effect</b>: Also allows access to the Research Facilities (after completing Secrets of the Ancients).</p>
         <p><b>Cost</b>: 10 Ttg (1E103)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>
-        <p><b>Requirements</b>: Found on the 1500th excavation, R23+</p>
+        <p><b>Requirements</b>: R23+, 1500th excavation</p>
         <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Ancients</b></p>
@@ -138,7 +138,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Device</b></p>
         <p><b>Description</b>: This strange device seems to react to the Ancient Races magical capabilities... We may channel its power to increase their research potential!</p>
         <p><b>Type</b>: Quest Artifact and Upgrade</p>
-        <p><b>Requirements</b>: Play a Neutral Faction, + 2,000 excavations, Unique Building.</p>
+        <p><b>Requirements</b>: Play a Neutral Faction, 2,000+ excavations, Unique Building.</p>
         <p><b>Cost</b>: 100 QiSxg (1E200)</p>
         <p><b>Effect</b>: Adds 2 extra slots to the Neutral faction you are playing.</p>
         <p><b>Note</b>: Faceless research is related to Spellcraft and Divine.</p>
@@ -154,7 +154,7 @@
         <p><b>Requirements</b>: Faceless Master trophy and 8 hours activity time (This Game) of Brainwave.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Fairy and Undead Coins</p>
         <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
-        <p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
+        <p><b>Formula</b>: +(2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
         <p><b>Formula</b>: (1 + 0.3 * level)</p>
         <br/>
@@ -173,22 +173,22 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
         <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
         <p><b>Effect</b>: Increase production based on spells cast.</p>
-        <p><b>Formula</b>: (18 * (ln(1 + x) / (ln(x % 10 + 2))) ^ 1.8), where x is spells cast.</p>
+        <p><b>Formula</b>: (18 * (ln(1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
         <p><b>Effect</b>: Grants access to Faction Union.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>
         <p><b>Requirement</b>: Forbidden Library Unique Building</p>
         <p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
-        <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
-        <p><b>Formula</b>: (65 * x ^ 0.5), where x is random faction all time in seconds.</p>
+        <p><b>Effect</b>: Increase assistants additively based on amount of time spent all time as a random faction. Updates every 3 minutes.</p>
+        <p><b>Formula</b>: +(65 * x ^ 0.5), where x is a given faction time in seconds (All Time).</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/PrimalKnowledge.png" alt="Primal Knowledge" align="middle"> <b>Primal Knowledge</b></p>
         <p><b>Requirement</b>: Faceless Union</p>
         <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Forbidden Libraries you built in this Reincarnation. Grows over time and resets every 15 minutes.</p>
-        <p><b>Formula</b>: (0.8 * ((y % 900) / 60) * x ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
+		<p><b>Formula</b>: ((t % 900) / 75 * x ^ 0.4)%, where t is time spent this game, x is the highest amount of Forbidden Libraries you built this R.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
         <p><b>Requirement</b>: Faceless Union</p>
