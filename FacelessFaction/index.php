@@ -54,22 +54,18 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" alt="Smiley face" align="middle"> Territorial Expanse</b></p>
         <p><b>Cost</b>: 500 Qi (5E20)</p>
-        <p><b>Effect</b>: Increase the production of Labyrinths/Cathedrals/Necropolis'(based on your Alignment) based on the amount of assistants you own.</p>
-	<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5), where x is amount of assistants. (Can adjust to alignment)</p>
+        <p><b>Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (based on your Alignment) based on the amount of assistants you own.</p>
+		<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" alt="Smiley face" align="middle"> Evolutive Mutation</b></p>
         <p><b>Cost</b>: 5 Sx (5E21)</p>
-        <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Labyrinths you built in this Reincarnation. </p>
-        <p><b>Formula</b>: floor(3 * x ^ 0.6), where x is the number of Labyrinths you own.</p>
-        <p><b>Effect</b>: With Dragon Challenge 3 (<b>Serpent Queller</b>) Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
-        <p><b>Formula</b>: floor(3 * x ^ 0.65)%, where x is your amount of Labyrinths.</p>
+        <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Labyrinths you built in this Reincarnation.</p>
+		<p><b>Formula</b>: floor(3 * x ^ 0.6)%, where x is the highest amount of Labyrinths you built in this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" alt="Smiley face" align="middle"> Deep Memory</b></p>
         <p><b>Cost</b>: 50 Sx (5E22)</p>
-        <p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation. (Under Metagame, Longest Session in the Stats)</p>
-        <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is your Playtime (Longest Session) stat in hours.</p>
-        <p><b>Formula</b>: floor(35 * x ^ 1.085) with Dragon Challenge 3, where x is your Playtime (Longest Session) stat in hours.</p>
-        <p><b>Note</b>: Dragon Challenge 3 removes the Ascension 1 penalty</p>
+		<p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation.</p>
+		<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your Playtime (Longest Session) stat this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Faceless Friendship Pact</b></p>
@@ -79,7 +75,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" alt="Smiley face" align="middle"> Gold Synthesis</b></p>
         <p><b>Cost</b>: 5 Sp (5E24)</p>
         <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of gold owned.</p>
-	<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)% where x is amount of gold owned.</p>
+		<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)% where x is amount of gold owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" alt="Smiley face" align="middle"> Mitosis</b></p>
         <p><b>Cost</b>: 50 Sp (5E25)</p>
