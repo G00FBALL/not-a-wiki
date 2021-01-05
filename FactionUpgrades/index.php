@@ -173,7 +173,7 @@
 				<p><b>Mercenary Template</b>: FC2</p>
 				<p><b>Cost</b>: 5 Sx (5E21)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Labyrinths you built in this Reincarnation.</p>
-				<p><b>Formula</b>: floor(3 * x ^ 0.6)%, where x is the highest amount of Labyrinths you built in this Reincarnation.</p>
+				<p><b>Formula</b>: +floor(3 * x ^ 0.6)%, where x is the highest amount of Labyrinths you built in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" align="middle"> Deep Memory</b></p>
 				<p><b>Mercenary Template</b>: FC3</p>
