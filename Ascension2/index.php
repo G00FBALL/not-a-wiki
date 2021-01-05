@@ -285,7 +285,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
 <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on spells cast.</p>
-<p><b>Formula</b>: (18 * (ln(1 + x) / (ln(x % 10 + 2))) ^ 1.8), where x is spells cast.</p>
+<p><b>Formula</b>: (18 * (ln(1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
 <p><b>Effect</b>: Grants access to Faction Union.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> <b>Faceless Union</b></p>

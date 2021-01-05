@@ -647,7 +647,7 @@
                 <p><b>Requirement</b>: Forbidden Library Quest, Neutral alignment, Proof of Chaos</p>
                 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
                 <p><b>Effect</b>: Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
-                <p><b>Formula</b>: (18 * (ln (1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
+                <p><b>Formula</b>: (18 * (ln(1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
                 <p><b>Effect</b>: Also grants access to Faction Union.</p>
                 <br/>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuildingUpgrade.png" alt="Ziggurat" align="middle"> <b>Ziggurat</b></p>
@@ -1899,7 +1899,7 @@
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretUpgrade.png" alt="Spell Cataclysm" align="middle"> Spell Cataclysm</b></p>
                 <p><b>Requirement</b>: Have at least 4 spells active on tier 5 or higher.</p>
                 <p><b>Cost</b>: 90 Novg (9E91)</p>
-                <p><b>Effect</b>: Increases maximum mana by 75%</p>
+                <p><b>Effect</b>: Increases maximum mana by 25%</p>
                 <hr>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonTamerSecretTrophy.png" alt="AdvisorInsight" align="middle"> Dragon Tamer</b></p>
                 <p><b>Requirement</b>: Fully develop your Spiky Egg into an Elder Dragon, R46+</p>

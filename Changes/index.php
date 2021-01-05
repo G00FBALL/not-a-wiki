@@ -627,7 +627,7 @@
 <p><b>DM2</b> (Devil Tyrant)</p>
         <p><b>Old Effect</b>: Increase the production of the three highest tier buildings by 0.5% per Trophy.</p>
         <p><b>New Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-        <p><b>New Formula</b>: (0.4 * x ^ 0.3)%, where x is time spent as Evil this R.</p>
+        <p><b>New Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this R.</p>
 <br/>
 <p><b>DM3</b> (Evil Conquerors)</p>
         <p><b>Old Effect</b>: Increase the production of all other buildings by 1.5% per Evil Fortresses you own.</p>
@@ -1291,11 +1291,6 @@
 <p><b>Ziggurat Quest</b> (Druid UB2)</p>
 	<p><b>Old Requirement</b>: 12,000 Stonehenges.</p>
 	<p><b>New Requirement</b>: 10,000 Stonehenges.</p>
-<br/>
-<p><b>Forbidden Library</b> (Faceless UB2)</p>
-	<p><b>Effect</b>: Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast in this game and unlocking more unique perks for the building.</p>
-	<p><b>Old Formula</b>: (15 * (ln(1 + x) / ln(x % 10 + 2)) ^ 1.5)%, where x is spells cast this game.</p>
-	<p><b>New Formula</b>: (18 * (ln(1 + x) / (ln(x % 10 + 2))) ^ 1.8)%, where x is spells cast this game.</p>
 <br/>
 <p><b>Dwarven Forge Quest</b> (Dwarf UB1)</p>
 	<p><b>Old Requirement</b>: 5,000 Blacksmiths.</p>

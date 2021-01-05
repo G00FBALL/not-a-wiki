@@ -1097,7 +1097,7 @@
 								<center>Spell Cataclysm</p><img src="http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretTrophy.png"></td>
 							<td>640 Vg (6.4e65)</p>A2 Free</td>
 							<td>Have at least 4 spells active on tier 5 or higher, R42+</td>
-							<td>Increase max mana by 75% (multiplicative).</td>
+							<td>Increase max mana by 25% (multiplicative).</td>
 							<td></td>
 						</tr>
 						<tr>

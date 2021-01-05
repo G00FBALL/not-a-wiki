@@ -116,7 +116,7 @@
 				<p><b>Mercenary Template</b>: DM2</p>
 				<p><b>Cost</b>: 500 M (5E8)</p>
 				<p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.4 * x ^ 0.3)%, where x is time spent as Evil this R.</p>
+				<p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this R.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" align="middle"> Evil Conquerors</b></p>
 				<p><b>Mercenary Template</b>: DM3</p>

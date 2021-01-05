@@ -286,7 +286,7 @@
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretTrophy.png align=middle><b> Spell Cataclysm</b></p>
                     <p><b>Requirement</b>: Have at least 4 spells active on tier 5 or higher, R42+</p>
                     <p><b>Cost</b>: 640 Vg (6.4e65), A2+, Free</p>
-                    <p><b>Effect</b>: Increases maximum mana by 75%.</p>
+                    <p><b>Effect</b>: Increases maximum mana by 25%.</p>
                     <p><b>Note</b>: Will require to be at least R55, if not R60.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png align=middle><b> Advisor Insight</b></p>

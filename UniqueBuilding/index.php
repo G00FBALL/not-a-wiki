@@ -139,7 +139,7 @@
 <p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast this game and unlocking more unique perks for the building.</p>
 <p><b>Effect</b>: Increase production based on spells cast.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (18 * (ln(1 + x) / (ln(x % 10 + 2))) ^ 1.8)%, where x is spells cast this game.</p>
+<p><b>Formula</b>: (18 * (ln(1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast this game.</p>
 <p><b>Alignment</b>: Neutral, Proof of Chaos</p>
 <p><b>Requirement</b>: A2, Forbidden Library Quest (5,000 Excavations)</p>
 <hr>
