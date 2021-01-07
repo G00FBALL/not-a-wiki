@@ -42,7 +42,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Clicking Arts</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
         <p><b>Effect</b>: Increase Mana Regeneration based on your total amount of Clicks all time.</p>
-        <p><b>Formula</b>: +(2 * log10(1 + x)), where x is your productive Clicks all time.</p>
+        <p><b>Formula</b>: +(2 * log10(1 + x)), where x is the amount of clicks made in this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenFriendshipPact.png" alt="Smiley face" align="middle"> Elven Friendship Pact</b></p>
@@ -95,8 +95,8 @@
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Training Grounds</b></p>
-        <p>Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: ((50 * x ^ 0.85) + 50 * ln^6(1 + x))%, where x is your Treasure Clicks (Total) stat.</p>
+        <p>Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made this Reincarnation and unlocking more unique perks for the building.</p>
+        <p><b>Formula</b>: ((50 * x ^ 0.85) + 50 * ln^6(1 + x))%, where x is the amount of clicks made in this Reincarnation.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities</p>
         <p><b>Requirements</b>: Buy "Elven Training Grounds Quest"</p>
         <p><b>Cost</b>: 10 Ttg (1E103)</p>
