@@ -169,7 +169,7 @@
 <p>Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
 <p><b>Effect</b>: Increase production based on Royal Exchanges made this game.</p>
 <p><b>Effect</b>: Also grants access to Faction Union.</p>
-<p><b>Formula</b>: (10 * x ^1.05)%, where x is Royal Exchanges this game.</p>
+<p><b>Formula</b>: (10 * x ^ 1.05)%, where x is Royal Exchanges this game.</p>
 <p><b>Alignment</b>: Evil-Drow, and Proof of Order, Balance, or Chaos</p>
 <p><b>Requirement</b>: R116+, Brothel Quest (1 B (1e9) spells cast this game)</p>
 <hr>
