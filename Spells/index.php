@@ -1101,7 +1101,7 @@
 <p><b>Cost</b>: 123456 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
 <p><b>Formula</b>: (ln(1 + x) ^ 1.25)%, where x is mana produced in this game.</p>
-<p><b>Note: Formula Improved to (1.25 * ln(1 + x) ^ 1.5)% with AR2.</p>
+<p><b>Note</b>: Formula Improved to (1.25 * ln(1 + x) ^ 1.5)% with AR2.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> <b>Chrono Loading</b></p>
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
