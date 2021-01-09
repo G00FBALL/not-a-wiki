@@ -237,26 +237,26 @@
 	<hr>
     <p><b>D5125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Selection</p>
-	<p><b>Requirement</b>: R175+, Forgotten Relic, Mythos artifact and upgrade</p>
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Mythos artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase the production of Unique buildings based on Clicks in this game.</p>
 	<p><b>Formula</b>: (x ^ 0.5), where x is clicks this game.</p>
 	<hr>
     <p><b>D5375</b> - For Good</p>
 	<p><b>Research Name</b>: Zealotry</p>
-	<p><b>Requirement</b>: R177+, Forgotten Relic, Mythos artifact and upgrade</p>
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Mythos artifact and upgrade.</p>
 	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Royal Exchanges purchased in this game.</p>
-	<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is royal exchanges this game</p>
+	<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is royal exchanges this game.</p>
 	<hr>
     <p><b>D5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Prophecy</p>
-	<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade</p>
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade.</p>
 	<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
 	<p><b>Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.</p>
 	<p><b>Note</b>: only considers time spent with factions that are avaliable at the given game stage.</p>
 	<hr>
     <p><b>D5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Birthright</p>
-	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade</p>
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade.</p>
 	<p><b>Effect</b>: Gain the Bloodline effects of your opposite Alignment.</p>
 	<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 	<hr>

@@ -245,13 +245,13 @@
 	<hr>
     <p><b>C5125</b> - For All Factions</p>
     <p><b>Research Name</b>: Restauration</p>
-	<p><b>Requirement</b>: R175+, Forgotten Relic, Factory artifact and upgrade</p>
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Factory artifact and upgrade,</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on assistants owned.</p>
 	<p><b>Formula</b>: (0.5 * x ^ 0.25), where x is assistants owned.</p>
 	<hr>
     <p><b>C5375</b> - For Neutral</p>
 	<p><b>Research Name</b>: Manufacture</p>
-	<p><b>Requirement</b>: R177+, Forgotten Relic, Factory artifact and upgrade</p>
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Factory artifact and upgrade,</p>
 	<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on Clicks made in this game.</p>
     <p><b>Formulas</b></p>
     <p><b>Additive</b>: (6 * x ^ 0.6),  where x is clicks in this game</p>
@@ -259,13 +259,13 @@
 	<hr>
     <p><b>C5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Discovery</p>
-	<p><b>Requirement</b>: R179+, Forgotten Relic, Factory artifact and upgrade</p>
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Factory artifact and upgrade,</p>
 	<p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.</p>
 	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5), where x is excavation count and y is excavation resets (This Game).</p>
 	<hr>
     <p><b>C5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Genuineness</p>
-	<p><b>Requirement</b>: R181+, Forgotten Relic, Factory artifact and upgrade</p>
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Factory artifact and upgrade,</p>
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on lowest Lineage level.</p>
 	<p><b>Formula</b>: (50 + 1.5 * x ^ 0.95), where x is the lowest lineage.</p>
 	<hr>

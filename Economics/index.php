@@ -239,13 +239,13 @@
 	<hr>
     <p><b>E5125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Decentralization</p>
-	<p><b>Requirement</b>: R175+, Forgotten Relic, Vault artifact and upgrade</p>
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Vault artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own. Lower tiers get better bonuses.</p>
 	<p><b>Formula</b>: ((3 - 0.25 * T) ^ 4 * x ^ 0.6)%, where T is building tier and x is the number of (every) buildings you own.</p
 	<hr>
     <p><b>E5375</b> - For Balance</p>
 	<p><b>Research Name</b>: Whipround</p>
-	<p><b>Requirement</b>: R177+, Forgotten Relic, Vault artifact and upgrade</p>
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Vault artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase Royal Exchange bonus additively and multiplicatively based on Tax Collections cast in this game.</p>
     <p><b>Formulas</b></p>
     <p><b>Additive</b>: (x ^ 0.2), where x is tax collections (This game)</p>
@@ -253,13 +253,13 @@
 	<hr>
     <p><b>E5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Loan Sharking</p>
-	<p><b>Requirement</b>: R179+, Forgotten Relic, Vault artifact and upgrade</p>
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Vault artifact and upgrade.</p>
 	<p><b>Effect</b>: Tax Collection is worth more based on Gold owned.</p>
 	<p><b>Formula</b>: +(log10(1 + x) ^ 1.5), where x is your current amount of coins.</p>
 	<hr>
     <p><b>E5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Prosperity</p>
-	<p><b>Requirement</b>: R181+, Forgotten Relic, Vault artifact and upgrade</p>
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Vault artifact and upgrade.</p>
 	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on your faction spell activity in this game.</p>
 	<p><b>Formula</b>: (0.4 * x ^ 0.4), where x is your least used faction spell (This game)</p>
 	<p><b>Note</b>: Only checks the base faction spell of your faction(s). On mercs, scales off Share Benefits and the two chosen Faction Spells.</p>

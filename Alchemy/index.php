@@ -45,7 +45,7 @@
     <p><b>A50</b> - For Angel</p>
 	<p><b>Research Name</b>: Gilding</p>
 	<p><b>Hint</b>: Regeneration magic.</p>
-	<p><b>Requirement</b>: 120 m/s Mana Regen(as Undead)</p>
+	<p><b>Requirement</b>: 120 Mana Regen (as Undead)</p>
 	<p><b>Cost</b>: 318.8 Tqag (3.188E134)</p>
 	<p><b>Effect</b>: Heaven's Domains further increase your mana regeneration rate.</p>
 	<p><b>Formula</b>: (1.45 * x ^ 0.45), where x is the number of Heaven's Domains you own.</p>
@@ -69,7 +69,7 @@
     <p><b>A120</b> - For All Factions</p>
 	<p><b>Research Name</b>: Vivification</p>
 	<p><b>Hint</b>: Maximum Magic!</p>
-	<p><b>Requirement</b>: Have 6500 mana</p>
+	<p><b>Requirement</b>: Have 6500 Max Mana.</p>
 	<p><b>Cost</b>: 676 Spqag (6.76E146)</p>
 	<p><b>Effect</b>: Gain additional assistants based on max mana.</p>
 	<p><b>Formula</b>: floor((x / 15) ^ 0.825), where x is your maximum mana.</p>
@@ -80,7 +80,7 @@
 	<p><b>Requirement</b>: 1 Day playtime (This Reincarnation) (Unlock as Undead)</p>
 	<p><b>Cost</b>: 296 OcQag (9.6E149)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation.</p>
-	<p><b>Formula</b>: (0.03 * (2x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds.</p>
+	<p><b>Formula</b>: (0.03 * (2 * x) ^ 0.7)%, where x is time spent in this Reincarnation in seconds.</p>
 	<hr>
     <p><b>A150</b> - For All Factions</p>
 	<p><b>Research Name</b>: Explosives</p>
@@ -101,7 +101,7 @@
 	<p><b>Requirement</b>: Research Plague (A1) & Decay (A135)</p>
 	<p><b>Cost</b>: 82.65 Dqig (82.65E160)</p>
 	<p><b>Effect</b>: Increase clicking reward based on time spent in this game.</p>
-	<p><b>Formula</b>: (0.07 * (2x) ^ 0.75)%, where x is your Playtime (This Game) in seconds..</p>
+	<p><b>Formula</b>: (0.07 * (2 * x) ^ 0.75)%, where x is your Playtime (This Game) in seconds.</p>
 	<hr>
     <p><b>A250</b> - For All Factions</p>
 	<p><b>Research Name</b>: Philosopher's Stone</p>
@@ -120,10 +120,10 @@
     <p><b>A270</b> - For All Factions</p>
 	<p><b>Research Name</b>: Synthesis</p>
 	<p><b>Hint</b>: Faction Currency.</p>
-	<p><b>Requirement</b>: 20 B (2E10) Faction Coins (Found this game)</p>
+	<p><b>Requirement</b>: 20 B (2E10) Faction Coins (This game)</p>
 	<p><b>Cost</b>: 175.2 SxQig (1.752E173)</p>
 	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.</p>
-	<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5)%, where x is Factions Coins found (this game).</p>
+	<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5)%, where x is Factions Coins found (This game).</p>
 	<hr>
     <p><b>A300</b> - For Faceless</p>
 	<p><b>Research Name</b>: Creeping</p>
@@ -140,7 +140,7 @@
 	<p><b>Cost</b>: 255.2 OcQig (2.552E179)</p>
 	<p><b>Effect</b>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.</p>
 	<p><b>Effect</b>: Also increase Faction Coins find chance by a multiplicative 100%.</p>
-	<p><b>Formula</b>: floor(3.5 * ln(1 + x) ^ 3.5)%, where x is your Spells Cast (This Game) stat,</p>
+	<p><b>Formula</b>: floor(3.5 * ln(1 + x) ^ 3.5)%, where x is your Spells Cast (This Game) stat.</p>
 	<hr>
     <p><b>A330</b> - For All Factions</p>
 	<p><b>Research Name</b>: Adaptation</p>
@@ -193,7 +193,7 @@
 	<p><b>Requirement</b>: 700 trophies</p>
 	<p><b>Cost</b>: 466.3 DSpg (4.663E221)</p>
 	<p><b>Effect</b>: Increases mana regeneration based on Gems you own.</p>
-	<p><b>Formula</b>: log10(x) / 2, where x is Gems you own.</p>
+	<p><b>Formula</b>: (log10(x) / 2), where x is Gems you own.</p>
 	<hr>
     <p><b>A590</b> - For Undead,Drow</p>
 	<p><b>Research Name</b>: Hexing</p>
@@ -208,7 +208,7 @@
 	<p><b>Requirement</b>: 5000 Iron Stronghold, Any Neutral Dragon</p>
 	<p><b>Cost</b>: 5.195 Uvg (5.195e66)</p>
 	<p><b>Effect</b>: Increase the production of all other buildings per Iron Strongholds owned by 0.35%</p>
-	<p><b>Formula</b>: (0.35 * x)%, where x is Iron Strongholds owned</p>
+	<p><b>Formula</b>: (0.35 * x)%, where x is Iron Strongholds owned.</p>
 	<hr>
     <p><b>A1325</b> - For All Factions</p>
 	<p><b>Research Name</b>: Calefaction</p>
@@ -216,7 +216,7 @@
 	<p><b>Requirement</b>: 4500 Excavations (This R)
 	<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
 	<p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.</p>
-	<p><b>Formula</b>:  floor(0.02 * x), where x is current excavations</p>
+	<p><b>Formula</b>: floor(0.02 * x), where x is current excavations.</p>
 	<p><b>Tip</b>: E290 and end of R54.</p>
 	<hr>
     <p><b>A1500</b> - For Druid,Dragon</p>
@@ -248,25 +248,25 @@
 	<hr>
     <p><b>A5125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Putrefaction</p>
-	<p><b>Requirement</b>: R175+, Forgotten Relic, Athanor artifact and upgrade</p>
+	<p><b>Requirement</b>: R175+, Forgotten Relic, Athanor artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the longest time spent without abdicating in this Reincarnation.</p>
-	<p><b>Formula</b>: (0.7 x ^ 0.7), where x is the longest time spent without abdicating (This R, can also be This Game)</p>
+	<p><b>Formula</b>: (0.7 x ^ 0.7), where x is the longest time spent without abdicating (This R).</p>
 	<hr>
     <p><b>A5375</b> - For Order</p>
 	<p><b>Research Name</b>: Albedo</p>
-	<p><b>Requirement</b>: R177+, Forgotten Relic, Athanor artifact and upgrade</p>
+	<p><b>Requirement</b>: R177+, Forgotten Relic, Athanor artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase all spells duration based on spell casts in this game.</p>
-	<p><b>Formula</b>: (ln(1 + x) ^ 1.8)%, where x is spell casts this game</p>
+	<p><b>Formula</b>: (ln(1 + x) ^ 1.8)%, where x is spell casts this game.</p>
 	<hr>
     <p><b>A5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Reduction</p>
-	<p><b>Requirement</b>: R179+, Forgotten Relic, Athanor artifact and upgrade</p>
+	<p><b>Requirement</b>: R179+, Forgotten Relic, Athanor artifact and upgrade.</p>
 	<p><b>Effect</b>: Reduce all spells cost based on their individual duration.</p>
 	<p><b>Formula</b>: Additive reduction: ((x/y) ^ 0.65), where x is duration and y is base duration.</p>
 	<hr>
     <p><b>A5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Equivalence</p>
-	<p><b>Requirement</b>: R181+, Forgotten Relic, Athanor artifact and upgrade</p>
+	<p><b>Requirement</b>: R181+, Forgotten Relic, Athanor artifact and upgrade.</p>
 	<p><b>Effect</b>: Multiplicatively increase Royal Exchange bonus based on Faction Coin found in this game.</p>
 	<p><b>Formula</b>: (log10(x) ^ 1.5), where x is faction coins this game</p>
 	<hr>

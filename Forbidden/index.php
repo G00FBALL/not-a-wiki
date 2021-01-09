@@ -37,7 +37,7 @@
 	<hr>
 	<p><b>F6000</b> - For All Factions</p>
 	<p><b>Research Name</b>: Inevitability</p>
-	<p><b>Requirement</b>: R182+, Forgotten Relic, Apeiron artifact and upgrade</p>
+	<p><b>Requirement</b>: R182+, Forgotten Relic, Apeiron artifact and upgrade.</p>
 	<p><b>Cost</b>: Free</p>
 	<p><b>Effect</b>: Increase your next time head start based on time spent in this game.</p>
 	<p><b>Note</b>: Capped at time spent in your current Reincarnation.</p>
