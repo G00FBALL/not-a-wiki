@@ -310,7 +310,7 @@
                 <th>with D1375</th>
             </tr>
             <tr>
-                <td><input id="SSCalRei" type="number" min="14" max="219" value="14"></td>
+                <td><input id="SSCalRei" type="number" min="14" max="279" value="14"></td>
                 <td class="SSCalTieHid"><input id="SSCalTie" type="number" min="1" max="7" value="1"></td>
                 <td class="SSCalDDLinHid"><input id="SSCalDDLin" type="number" min="0" value="0"></td>
                 <td class="SSCalDra" title="Prismatic Breath"><input id="SSCalPB" type="checkbox"></td>
@@ -348,7 +348,7 @@
              * @param [tier]
              */
             function CalSSMul(rei, D1375 = false, tier = 1, druidLevel = 0, dp = false) {
-                var ascension = (rei >= 40) + (rei >= 100) + (rei >= 160);
+                var ascension = (rei >= 40) + (rei >= 100) + (rei >= 160) + (rei >= 220);
                 rei = rei + 2 * druidLevel;
                 rei = (dp) ? rei * 1.5 : rei;
                 var base = (2500 * rei ** 1.05) ** (1 + (D1375?1.5:1) * ascension * 0.5);
