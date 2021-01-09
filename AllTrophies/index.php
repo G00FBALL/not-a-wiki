@@ -61,7 +61,7 @@
                     <p><b>Note</b>: Click the assistant to the left of spells not the ones at the bottom of page.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/RewindSecretTrophy.png align=middle><b> Rewind</b></p>
-                    <p><b>Requirement</b>: Abdicate after producing at least 1 Oc (1E27) Coins.</p>
+                    <p><b>Requirement</b>: Abdicate after producing at least 1 Oc (1e27) Coins.</p>
                     <p><b>Cost</b>: 1 Oc (1e27), A1+, Free</p>
                     <p><b>Effect</b>: Increase the production of all buildings by 8%.</p>
                     <hr>
@@ -84,7 +84,7 @@
                     <p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle><b> Speedrun</b></p>
-                    <p><b>Requirement</b>: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.</p>
+                    <p><b>Requirement</b>: Reach 1 M (1e6) coins in less than 5 minutes, without using Gem Power.</p>
                     <p><b>Cost</b>: 10 coins, A1+, Free</p>
                     <p><b>Effect</b>: Increase your base clicking reward by 1M.</p>
                     <p><b>Note</b>: <a target="_blank" href="http://musicfamily.org/realm/SpeedRun/"><b>Instructions</b></a></p>
@@ -207,13 +207,13 @@
                     <p><b>Effect</b>: Increase Warfare upgrade slots by 1.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png align=middle><b> Faction Run</b></p>
-                    <p><b>Requirement</b>: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
+                    <p><b>Requirement</b>: Reach 1,5 M (1.5e6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
                     <p><b>Cost</b>: 10 coins, A1+, Free</p>
                     <p><b>Effect</b>: Increase Faction Coin find chance by 10%.</p>
                     <p><b>Note</b>: Can be done from R7+ with elf/elfline</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle><b> No Recruiting</b></p>
-                    <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
+                    <p><b>Requirement</b>: Reach 1 NoVg (1e90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
                     <p><b>Cost</b>: 1 Tg (1e93), A1, Free</p>
                     <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
                     <p><b>Note</b>: It can take up to 1 day at R20, easy at R34.</p>
@@ -262,13 +262,13 @@
                     <p><b>Formula</b>: (300 * log10(1 + x) ^ 3), where x is offline mana regen.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle><b> Stoic Resistance</b></p>
-                    <p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.</p>
+                    <p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1e27) gems) without abdicating since the start of a new Reincarnation.</p>
                     <p><b>Cost</b>: 10 Coins, A1+, Free</p>
                     <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20)</p>
-                    <p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)</p>
+                    <p><b>Effect</b>: Increase base clicking reward by 1 T (1e12)</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle><b> Van!shment</b></p>
-                    <p><b>Requirement</b>: Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>
+                    <p><b>Requirement</b>: Reach an Offline Bonus of at least 1 Qa (1e15) % (Post-Ascension is 1895%).</p>
                     <p><b>Cost</b>: 10 Noqag (1e151), A1+, Free</p>
                     <p><b>Effect</b>: Increase the production of all buildings based on offline bonus.</p>
                     <p><b>Formula</b>: (1.25 * log10(1+x) ^ 1.25), where x is the pre-A offline multiplier.</p>
@@ -304,10 +304,11 @@
                     <p><b>Requirement</b>: Join Mercenaries, then Undead, then Angels within 15 minutes since the beginning of a new Abdication or Reincarnation.</p>
                     <p><b>Cost</b>: 5 Qavg (5e75), A1+, Free</p>
                     <p><b>Effect</b>: Increase mana regeneration and maximum mana by 10%.</p>
-                    <p><b>1</b>: Join Mercenaries then abdicate. (Wait 5-10 seconds)</p>
-                    <p><b>2</b>: Join Undead then abdicate. (Wait 5-10 seconds)</p>
-                    <p><b>3</b>: Join Angels</p>
-                    <p><b>Note</b>: This can be done anytime R3+.</p>
+					<p><b>Tip 1</b>: Join Mercenaries wait 10 seconds then abdicate.</p>
+					<p><b>Tip 2</b>: Join Undead wait 10 seconds then abdicate.</p>
+					<p><b>Tip 3</b>: Join Angels all within 15 minutes of selecting Mercenary.</p>
+					<p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.</p>
+					<p><b>Note</b>: Can be done anytime R3+.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png align=middle><b> Mana Waste</b></p>
                     <p><b>Requirement</b>: Have mana regeneration higher than max mana.</p>
@@ -351,7 +352,7 @@
                     <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
                     <p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
                     <hr>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow Trophy</b></p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow</b></p>
                     <p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
                     <p><b>Effect</b>: Gives upgrade with the same name.</p>
                     <br>
@@ -621,61 +622,61 @@
                     <p><b>Requirement</b>: Gain 1,000 coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AMillionCoins.png align=middle><b> A Million Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 M (1E6) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 M (1e6) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ABillionCoins.png align=middle><b> A Billion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 B (1E9) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 B (1e9) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ATrillionCoins.png align=middle><b> A Trillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 T (1E12) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 T (1e12) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AQuadrillionCoins.png align=middle><b> A Quadrillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qa (1E15) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qa (1e15) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AQuintillionCoins.png align=middle><b> A Quintillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qi (1E18) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qi (1e18) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ASextillionCoins.png align=middle><b> A Sextillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Sx (1E21) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Sx (1e21) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ASeptillionCoins.png align=middle><b> A Septillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Sp (1E24) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Sp (1e24) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AnOctillionCoins.png align=middle><b> An Octillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Oc (1E27) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Oc (1e27) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ANonillionCoins.png align=middle><b> A Nonillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 No (1E30) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 No (1e30) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ADecillionCoins.png align=middle><b> A Decillion Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Dc (1E33) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Dc (1e33) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CountlessCoins.png align=middle><b> Countless Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Ud (1E36) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Ud (1e36) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/InfiniteCoins.png align=middle><b> Infinite Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Uvg (1E66) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Uvg (1e66) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/UnlimitedCoins.png align=middle><b> Unlimited Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qivg (1E78) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qivg (1e78) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/EndlessCoins.png align=middle><b> Endless Coins</b></p>
-                    <p><b>Requirement</b>: Gain 1 Tg (1E93) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Tg (1e93) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinsGalore.png align=middle><b> Coins Galore</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qitg (1E108) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qitg (1e108) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinMultiplication.png align=middle><b> Coin Multiplication</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qag (1E123) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qag (1e123) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinHemisphere.png align=middle><b> Coin Hemisphere</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qig (1E153) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qig (1e153) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinWorld.png align=middle><b> Coin World</b></p>
-                    <p><b>Requirement</b>: Gain 1 SxSxg (1E201) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 SxSxg (1e201) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinUniverse.png align=middle><b> Coin Universe</b></p>
-                    <p><b>Requirement</b>: Gain 1 Ocg (1E243) coins in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Ocg (1e243) coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureClicker.png align=middle><b> Treasure Clicker</b></p>
                     <p><b>Requirement</b>: Gain 100 coins by clicking in a single game.</p>
@@ -684,55 +685,55 @@
                     <p><b>Requirement</b>: Gain 1,000 coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDigger.png align=middle><b> Treasure Digger</b></p>
-                    <p><b>Requirement</b>: Gain 1 M (1E6) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 M (1e6) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureHunter.png align=middle><b> Treasure Hunter</b></p>
-                    <p><b>Requirement</b>: Gain 1 B (1E9) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 B (1e9) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureSeeker.png align=middle><b> Treasure Seeker</b></p>
-                    <p><b>Requirement</b>: Gain 1 T (1E12) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 T (1e12) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureMaster.png align=middle><b> Treasure Master</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qa (1E15) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qa (1e15) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureHero.png align=middle><b> Treasure Hero</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qi (1E18) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qi (1e18) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureLegend.png align=middle><b> Treasure Legend</b></p>
-                    <p><b>Requirement</b>: Gain 1 Sx (1E21) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Sx (1e21) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureGrinder.png align=middle><b> Treasure Grinder</b></p>
-                    <p><b>Requirement</b>: Gain 1 Sp (1E24) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Sp (1e24) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureBreaker.png align=middle><b> Treasure Breaker</b></p>
-                    <p><b>Requirement</b>: Gain 1 Ud (1E36) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Ud (1e36) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureSmasher.png align=middle><b> Treasure Smasher</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qad (1E45) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qad (1e45) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDestroyer.png align=middle><b> Treasure Destroyer</b></p>
-                    <p><b>Requirement</b>: Gain 1 Spd (1E54) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Spd (1e54) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureAnnihilator.png align=middle><b> Treasure Annihilator</b></p>
-                    <p><b>Requirement</b>: Gain 1 Vg (1E63) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Vg (1e63) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureDisintegrator.png align=middle><b> Treasure Disintegrator</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qivg (1E78) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qivg (1e78) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureEnder.png align=middle><b> Treasure Ender</b></p>
-                    <p><b>Requirement</b>: Gain 1 Tg (1E93) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Tg (1e93) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureUnmaker.png align=middle><b> Treasure Unmaker</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qitg (1E108) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qitg (1e108) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureNullifier.png align=middle><b> Treasure Nullifier</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qag (1E123) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qag (1e123) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureWrecker.png align=middle><b> Treasure Wrecker</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qig (1E153) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 Qig (1e153) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TreasureObliterator.png align=middle><b> Treasure Obliterator</b></p>
-                    <p><b>Requirement</b>: Gain 1 SxSxg (1E201) coins by clicking in a single game.</p>
+                    <p><b>Requirement</b>: Gain 1 SxSxg (1e201) coins by clicking in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AClickingStart.png align=middle><b> A Clicking Start</b></p>
                     <p><b>Requirement</b>: Click the background 100 Times in a single game.</p>
@@ -789,37 +790,37 @@
                     <p><b>Requirement</b>: Find 500,000 Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1MillionFactionCoins.png align=middle><b> 1 Million Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 M (1E6) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 M (1e6) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/100MillionFactionCoins.png align=middle><b> 100 Million Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 100 M (1E8) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 100 M (1e8) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1BillionFactionCoins.png align=middle><b> 1 Billion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 B (1E9) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 B (1e9) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/100BillionFactionCoins.png align=middle><b> 100 Billion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 100 B (1E11) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 100 B (1e11) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1TrillionFactionCoins.png align=middle><b> 1 Trillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 T (1E12) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 T (1e12) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/100TrillionFactionCoins.png align=middle><b> 100 Trillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 100 T (1E14) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 100 T (1e14) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1QuadrillionFactionCoins.png align=middle><b> 1 Quadrillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 Qa (1E15) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 Qa (1e15) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1QuintrillionFactionCoins.png align=middle><b> 1 Quintillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 Qi (1E18) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 Qi (1e18) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1SextrillionFactionCoins.png align=middle><b> 1 Sextillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 Sx (1E21) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 Sx (1e21) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1NonillionFactionCoins.png align=middle><b> 1 Nonillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 No (1E30) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 No (1e30) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1TredecillionFactionCoins.png align=middle><b> 1 Tredecillion Faction Coins</b></p>
-                    <p><b>Requirement</b>: Find 1 Td (1E42) Faction Coins in a single game.</p>
+                    <p><b>Requirement</b>: Find 1 Td (1e42) Faction Coins in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1SeptendecillionFactionCoins.png align=middle><b> 1 Septendecillion Faction Coins</b></p>
                     <p><b>Requirement</b>: Find 1 Spd (1e54) Faction Coins in a single game.</p>
@@ -927,46 +928,46 @@
                     <p><b>Requirement</b>: Gain 100,000 Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1BillionGems.png align=middle><b> 1 Billion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 B (1E9) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 B (1e9) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1QuadrillionGems.png align=middle><b> 1 Quadrillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qa (1E15) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Qa (1e15) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1SextillionGems.png align=middle><b> 1 Sextillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Sx (1E21) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Sx (1e21) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1NonillionGems.png align=middle><b> 1 Nonillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 No (1E30) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 No (1e30) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1DuodecillionGems.png align=middle><b> 1 Duodecillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Dd (1E39) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Dd (1e39) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1QuindecillionGems.png align=middle><b> 1 Quindecillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qid (1E48) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Qid (1e48) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1OctodecillionGems.png align=middle><b> 1 Octodecillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Ocd (1E57) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Ocd (1e57) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1UnvigintillionGems.png align=middle><b> 1 Unvigintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Uvg (1E66) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Uvg (1e66) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1QuadravigintillionGems.png align=middle><b> 1 Quadravigintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Qavg (1E75) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Qavg (1e75) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1SeptenvigintillionGems.png align=middle><b> 1 Septenvigintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Spvg (1E84) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Spvg (1e84) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1TrigintillionGems.png align=middle><b> 1 Trigintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Tg (1E93) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Tg (1e93) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1TretrigintillionGems.png align=middle><b> 1 Tretrigintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Ttg (1E102) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Ttg (1e102) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1SextrigintillionGems.png align=middle><b> 1 Sextrigintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Sxtg (1E111) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Sxtg (1e111) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1UnquadragintillionGems.png align=middle><b> 1 Unquadragintillion Gems</b></p>
-                    <p><b>Requirement</b>: Gain 1 Uqag (1E126) Gems (Total).</p>
+                    <p><b>Requirement</b>: Gain 1 Uqag (1e126) Gems (Total).</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/1Ruby.png align=middle><b> 1 Ruby</b></p>
                     <p><b>Requirement</b>: Gain 1 Ruby (All time).</p>
@@ -1193,61 +1194,61 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaRainTrophy.png align=middle><b> Mana Rain</b></p>
                     <p><b>Requirement</b>: Produce 2,000 mana (Total)</p>
-                    <p><b>Cost</b>: 20 M (2E7)</p>
+                    <p><b>Cost</b>: 20 M (2e7)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaSurgeTrophy.png align=middle><b> Mana Surge</b></p>
                     <p><b>Requirement</b>: Produce 5,000 mana (Total)</p>
-                    <p><b>Cost</b>: 30 B (3E10)</p>
+                    <p><b>Cost</b>: 30 B (3e10)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaFountainTrophy.png align=middle><b> Mana Fountain</b></p>
                     <p><b>Requirement</b>: Produce 10,000 mana (Total)</p>
-                    <p><b>Cost</b>: 40 T (4E13)</p>
+                    <p><b>Cost</b>: 40 T (4e13)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaShowerTrophy.png align=middle><b> Mana Shower</b></p>
                     <p><b>Requirement</b>: Produce 20,000 mana (Total)</p>
-                    <p><b>Cost</b>: 50 Qa (5E16)</p>
+                    <p><b>Cost</b>: 50 Qa (5e16)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaStreamTrophy.png align=middle><b> Mana Stream</b></p>
                     <p><b>Requirement</b>: Produce 100,000 mana (Total)</p>
-                    <p><b>Cost</b>: 60 Qi (6E19)</p>
+                    <p><b>Cost</b>: 60 Qi (6e19)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaFloodTrophy.png align=middle><b> Mana Flood</b></p>
                     <p><b>Requirement</b>: Produce 200,000 mana (Total)</p>
-                    <p><b>Cost</b>: 70 Sx (7E22)</p>
+                    <p><b>Cost</b>: 70 Sx (7e22)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png align=middle><b> Mana Wave</b></p>
-                    <p><b>Requirement</b>: Produce 20M (20E6) mana (Total), R40+</p>
-                    <p><b>Cost</b>: 80 Sp (8E25)</p>
+                    <p><b>Requirement</b>: Produce 20M (20e6) mana (Total), R40+</p>
+                    <p><b>Cost</b>: 80 Sp (8e25)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png align=middle><b> Mana River</b></p>
-                    <p><b>Requirement</b>: Produce 1B (1E9) mana (Total), R40+</p>
-                    <p><b>Cost</b>: 90 Oc (9E28)</p>
+                    <p><b>Requirement</b>: Produce 1B (1e9) mana (Total), R40+</p>
+                    <p><b>Cost</b>: 90 Oc (9e28)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png align=middle><b> Mana Lake</b></p>
-                    <p><b>Requirement</b>: Produce 20B (2E10) mana (Total), R40+</p>
-                    <p><b>Cost</b>: 100 No (1E32)</p>
+                    <p><b>Requirement</b>: Produce 20B (2e10) mana (Total), R40+</p>
+                    <p><b>Cost</b>: 100 No (1e32)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png align=middle><b> Mana Sea</b></p>
-                    <p><b>Requirement</b>: Produce 1 T (1E12) mana (Total), R40+</p>
+                    <p><b>Requirement</b>: Produce 1 T (1e12) mana (Total), R40+</p>
                     <p><b>Cost</b>: 12.5 Uqag No (1.25e127)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png align=middle><b> Mana Ocean</b></p>
-                    <p><b>Requirement</b>: Produce 2 T (2E12) mana (Total), R40+</p>
+                    <p><b>Requirement</b>: Produce 2 T (2e12) mana (Total), R40+</p>
                     <p><b>Cost</b>: 150 Noqag (1.5e152)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png align=middle><b> Mana Spring</b></p>
-                    <p><b>Requirement</b>: R100+, Produce 100 T (1E14) mana (Total)</p>
+                    <p><b>Requirement</b>: R100+, Produce 100 T (1e14) mana (Total)</p>
                     <p><b>Cost</b>: 1 Sp (1e24)</p>
                     <p><b>Effect</b>: Increase Mana regeneration by +100.00.</p>
                     <hr>
@@ -1290,79 +1291,78 @@
                     <p><b>Requirement</b>: 500,000 spell casts in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/MassiveAutocasterTrophy.png align=middle><b> Massive Autocaster</b></p>
-                    <p><b>Requirement</b>: 1 M (1E6) spell casts in a single game.</p>
+                    <p><b>Requirement</b>: 1 M (1e6) spell casts in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpellWeaverTrophy.png align=middle><b> Spell Weaver</b></p>
-                    <p><b>Requirement</b>: 50 M (5E7) spell casts in a single game.</p>
+                    <p><b>Requirement</b>: 50 M (5e7) spell casts in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArchwizardTrophy.png align=middle><b> Archwizard</b></p>
-                    <p><b>Requirement</b>: 1 B (1E9) spell casts in a single game.</p>
+                    <p><b>Requirement</b>: 1 B (1e9) spell casts in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpellMasterTrophy.png align=middle><b> Spell Master</b></p>
-                    <p><b>Requirement</b>: Cast 50 T (5E13) spells in a single game.</p>
+                    <p><b>Requirement</b>: Cast 50 T (5e13) spells in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SpellGrinder.png align=middle><b> Spell Grinder</b></p>
                     <p><b>Requirement</b>: Cast 10 Qa (1e16) spells in a single game.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png align=middle><b> Automatic Casting</b></p>
-                    <p><b>Requirement</b>: 60,000 Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 100 B (1E11)</p>
+                    <p><b>Requirement</b>: 60,000 Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 100 B (1e11)</p>
                     <p><b>Effect</b>: Allows autocasting of spells. To activate it, use the buttons in the spell's tooltip or by CTRL+Clicking them. If you set a spell in Autocast mode, it will be fired automatically as soon as you have enough mana. If you have multiple spells in Autocast mode, the cheapest will be cast first. Later in the game, you will unlock more Autocasting options which will allow you to better manage your spells while idle.</p>
                     <p><b>Effect</b>: While offline, spells are not cast. Instead, increase your mana produced amount by 10 of your mana regeneration per second.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingTrophy.png align=middle><b> Improved Autocasting</b></p>
-                    <p><b>Requirement</b>: 2 M (2E6) Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 200 Qi (2E20)</p>
+                    <p><b>Requirement</b>: 2 M (2e6) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 200 Qi (2e20)</p>
                     <p><b>Effect</b>: Increases mana regeneration by 5%.</p>
                     <p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your mana regeneration per second.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingTrophy.png align=middle><b> Masterful Autocasting</b></p>
-                    <p><b>Requirement</b>: 6 M (6E6) Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 300 Oc (3E29)</p>
+                    <p><b>Requirement</b>: 6 M (6e6) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 300 Oc (3e29)</p>
                     <p><b>Effect</b>: Increases mana regeneration by 10%.</p>
                     <p><b>Effect</b>: Only while offline, increases mana produced amount by an additional 35% of your mana regeneration per second and increase Activity Time for spell set to autocast based on their duration, cost and your mana regeneration.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png align=middle><b> Priority Autocasting</b></p>
-                    <p><b>Requirement</b>: 12 M (1.2E7) Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 400 Ud (4E38)</p>
+                    <p><b>Requirement</b>: 12 M (1.2e7) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 400 Ud (4e38)</p>
                     <p><b>Effect</b>: Allows you to prioritize the order of spell casting. Spells with lower priority will be cast only if the higher priority spells are already active.</p>
                     <p><b>Effect</b>: Only while offline, improves spell cast amount by 1 per minute.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png align=middle><b> Contingency Autocasting</b></p>
-                    <p><b>Requirement</b>: 20 M (2E7) Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 500 Qad (5E47)</p>
+                    <p><b>Requirement</b>: 20 M (2e7) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 500 Qad (5e47)</p>
                     <p><b>Effect</b>: Allows you to set a minimum amount of mana before starting to Autocast.</p>
                     <p><b>Note</b>: You can activate the Contingency Autocast by CTRL+Clicking the Mana Bowl/Mana Bar. A golden arrow will appear. By sliding it you will set a minimum amount of mana below which spells won't be cast. Once your mana reaches the threshold, spells will follow the priority rules. The contingency loop will break when you can't cast a spell, at which point the cycle will reset. CTRL+Clicking agani to disable Contingency Autocasting.</p>
                     <p><b>Effect</b>: Only while offline, increase your spells cast amount by an additional 2 per minute.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png align=middle><b> Planned Autocasting</b></p>
-                    <p><b>Requirement</b>: 30 M (3E7) Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 600 Spd (6E56)</p>
+                    <p><b>Requirement</b>: 30 M (3e7) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 600 Spd (6e56)</p>
                     <p><b>Effect</b>: Allows you to select Primary and Secondary spells to work with your contingency settings.</p>
                     <p><b>Effect</b>: Primary spells (set with the silver icon in the spell tooltip) or (Set with CTRL+Click) will fire once your contingency has reached its threshold. While these are active, Secondary spells (set with the gold icon in the spell tooltip) or (Set with SHIFT+Click) will be fired as soon as you have enough mana, as long as the primary spells are ALL still active. If there are no secondary spells selected, the contingency settings will be the same as without Planned Autocasting. If there are no primary spells selected, spell casting will work the same as Priority Autocasting.</p>
                     <p><b>Effect</b>: Only while offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png align=middle><b> Efficient Autocasting</b></p>
-                    <p><b>Requirement</b>: 50 M (5E7) Mana Produced (Total)</p>
-                    <p><b>Cost</b>: 700 Vg (7E65)</p>
+                    <p><b>Requirement</b>: 50 M (5e7) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 700 Vg (7e65)</p>
                     <p><b>Effect</b>: Allows you to select Independent Spells (set with the bronze icon in the spell tooltip) or (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are cast as soon as you have enough mana for them.</p>
                     <p><b>Effect</b>: Only while offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
                     <hr>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png" align="middle"> Reverse Autocasting</b></p>
-                    <p><b>Requirements</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
-                    <p><b>Cost</b>: 3.2 Dc (3.2e33), A3+: Free</p>
+                    <p><b>Requirement</b>: 150 M (1.5e8) Mana Produced (Total this R)</p>
+                    <p><b>Cost</b>: 3.2 Dc (3.2e33)</p>
                     <p><b>Effect</b>: Allows you to manually reset spells with a 2 second cooldown per spell.</p>
                     <p><b>Note</b>: Can not reset spells with a fixed duration.</p>
                     <p><b>Note</b>: Only while offline, increase your mana produced amount by an additional 10% of your Mana Regeneration per second, and your spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
                     <p><b>Formula</b>: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle><b> Tiered Autocasting</b></p>
-                    <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
+                    <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R)</p>
                     <p><b>Cost</b>: 100 Qid (1e50)</p>
                     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to. In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
                     <p><b>Effect</b>: Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount multiplicatively based on your offline mana regeneration.</p>
                     <p><b>Formula</b>: (1000 * log10(1 + x))</p>
-                    <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance1Trophy.png align=middle><b> Arcane Brilliance 1</b></p>
                     <p><b>Requirement</b>: Unlock tier 2 for all spells</p>
@@ -1384,79 +1384,84 @@
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle><b> Coin Pillage</b></p>
                     <p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>
-                    <p><b>Cost</b>: 1 Dc (1E33)</p>
+                    <p><b>Cost</b>: 1 Dc (1e33)</p>
                     <p><b>Effect</b>: Tax Collection also finds 150 seconds worth of Faction Coins.</p>
                     <p><b>Note</b>: Default Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png align=middle><b> Fairy Choir</b></p>
                     <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
-                    <p><b>Cost</b>: 1 M (1E6)</p>
+                    <p><b>Cost</b>: 1 M (1e6)</p>
                     <p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.</p>
                     <p><b>Note</b>: Fairy Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png align=middle><b> Sun Blessing</b></p>
                     <p><b>Requirement</b>: Activate the Moon Blessing spell after 6 am and before 1 pm (noon).</p>
-                    <p><b>Cost</b>: 1 M (1E6)</p>
+                    <p><b>Cost</b>: 1 M (1e6)</p>
                     <p><b>Effect</b>: The treasure is autoclicked 15 times per second while Moon Blessing is active.</p>
                     <p><b>Note</b>: Elven Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png align=middle><b> God's Rest</b></p>
                     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
-                    <p><b>Cost</b>: 1 M (1E6)</p>
+                    <p><b>Cost</b>: 1 M (1e6)</p>
                     <p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</p>
                     <p><b>Note</b>: Angel Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/GreedDriveSecretTrophy.png align=middle><b> Greed Drive</b></p>
                     <p><b>Requirement</b>: Goblin Spell: Cast 100 Goblin's Greed spells in a row in a single game. The chain is interrupted by casting different spells.</p>
-                    <p><b>Cost</b>: 1 M (1E6)</p>
+                    <p><b>Cost</b>: 1 M (1e6)</p>
                     <p><b>Effect</b>: Goblin's Greed cost 150 less mana.</p>
                     <p><b>Note</b>: Spell casts from the Goblin's Central Bank upgrade are included in the [stats], but they do not count for this trophy.</p>
                     <p><b>Note</b>: Goblin Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/TrueNightSecretTrophy.png align=middle><b> True Night</b></p>
                     <p><b>Requirement</b>: Undead Spell: Activate the Night Time spell after 11 pm and before 6 am.</p>
-                    <p><b>Cost</b>: 1 M (1E6)</p>
+                    <p><b>Cost</b>: 1 M (1e6)</p>
                     <p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.</p>
                     <p><b>Note</b>: Undead Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/HellRushSecretTrophy.png align=middle><b> Hell Rush</b></p>
                     <p><b>Requirement</b>: Cast Hellfire Blast in the first 60 seconds of playtime</p>
-                    <p><b>Cost</b>: 1 M (1E6)</p>
+                    <p><b>Cost</b>: 1 M (1e6)</p>
                     <p><b>Effect</b>: Hellfire Blast also boost Halls of Legends</p>
                     <p><b>Note</b>: Demon Spell.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/LightningStormSecretTrophy.png align=middle><b> Lightning Storm</b></p>
                     <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
-                    <p><b>Cost</b>: 10 Dd (1E40)</p>
+                    <p><b>Cost</b>: 10 Dd (1e40)</p>
                     <p><b>Effect</b>: Increase Lightning Strike multiplier to 500% per Iron Stronghold</p>
                     <p><b>Note</b>: Titan Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/HallsofBalanceSecretTrophy.png align=middle><b> Halls of Balance</b></p>
                     <p><b>Requirement</b>: Have Grand Balance affect Hall of Legends</p>
-                    <p><b>Cost</b>: 10 Dd (1E40)</p>
+                    <p><b>Cost</b>: 10 Dd (1e40)</p>
                     <p><b>Effect</b>: Increase Grand Balance duration by 4 seconds and lower its cost by 200 mana</p>
                     <p><b>Note</b>: Druid Spell</p>
                     <p><b>Tip</b>: Buy at least 1 of everything and buy 0 Hall of Legends.</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/FacelessOvermindSecretTrophy.png align=middle><b> Faceless Overmind</b></p>
                     <p><b>Requirement</b>: Affiliate with the Faceless 5 times in a row. (Buy Faceless Trade Treaty 5x in a row)</p>
-                    <p><b>Cost</b>: 10 Dd (1E40)</p>
+                    <p><b>Cost</b>: 10 Dd (1e40)</p>
                     <p><b>Effect</b>: Increase Brainwave tick to 3% per second</p>
                     <p><b>Note</b>: Faceless Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/MinedwarfSecretTrophy.png align=middle><b> Minedwarf</b></p>
-                    <p><b>Requirement</b>: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.</p>
-                    <p><b>Note</b>: Dwarf Spell</p>
+					<p><b>Requirement</b>: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.</p>
+					<p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
+					<p><b>Effect</b>: Increases Diamond Pickaxe bonus to 'Faction Coin Find Chance' to 300%.</p>
+					<p><b>Note</b>: Dwarf Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/PerfectComboSecretTrophy.png align=middle><b> Perfect Combo</b></p>
-                    <p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
-                    <p><b>Note</b>: Drow Spell</p>
+					<p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
+					<p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
+					<p><b>Effect</b>: Increases Combo Strike bonus.</p>
+					<p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
+					<p><b>Note</b>: Drow Spell</p>
                     <hr>
                     <p><img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle><b> Dragon's Roar</b></p>
                     <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
                     <p><b>Cost</b>: 1.0e45</p>
                     <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-                    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds.</p>
+                    <p><b>Formula</b>: (6 * x ^ 0.6), where x is duration in seconds.</p>
                     <hr>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"><b> Chrono Loading</b></p>
                     <p><b>Requirements</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>

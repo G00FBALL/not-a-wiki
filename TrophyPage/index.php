@@ -1237,33 +1237,33 @@
     <p><b>Requirement</b>: Cast 10 Qa (1e16) spells in a single game.</p>
     " coords="69,302,127,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png align=middle> </b>Automatic Casting</b>
-    <p><b>Requirement</b>: 60,000 Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 60,000 Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 100 B (1E11), A1+ Free</p>
     <p><b>Effect</b>: Allows autocasting of spells by CTRL+Clicking them.</p>
     <p><b>Effect</b>: While offline, spells are not cast, instead increases mana produced amount by 10% of your mana regen per second.</p>
     <p><b>Note</b>: You must have at least 1 spell in autocasting mode.</p>
     " coords="133,301,192,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingTrophy.png align=middle> </b>Improved Autocasting</b>
-    <p><b>Requirement</b>: 2 M (2E6) Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 2 M (2E6) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 200 Qi (2E20), A1+ Free</p>
     <p><b>Effect</b>: Increases mana regeneration by 5%.</p>
     <p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your mana regeneration per second.</p>
     " coords="197,301,255,358" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingTrophy.png align=middle> </b>Masterful Autocasting</b>
-    <p><b>Requirement</b>: 6 M (6E6) Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 6 M (6E6) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 300 Oc (3E29), A1+ Free</p>
     <p><b>Effect</b>: Increases mana regeneration by 10%.</p>
     <p><b>Effect</b>: While offline, increases mana produced amount by an additional 35% of your mana regeneration per second.</p>
     " coords="262,300,319,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png align=middle> </b>Priority Autocasting</b>
-    <p><b>Requirement</b>: 12 M (1.2E7) Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 12 M (1.2E7) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 400 Ud (4E38), A1+ Free</p>
     <p><b>Effect</b>: Allows you to prioritize the order of spell casting.</p>
     <p><b>Note</b>: Spells with lower priority will be cast only if the higher priority spells are already active.</p>
     <p><b>Effect</b>: While offline, improves spell cast amount by 1 per minute.</p>
     " coords="325,301,383,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png align=middle> </b>Contingency Autocasting</b>
-    <p><b>Requirement</b>: 20 M (2E7) Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 20 M (2E7) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 500 Qad (5E47), A1+ Free</p>
     <p><b>Effect</b>: Allows you to set a minimum amount of mana before starting to Autocast.</p>
     <p><b>Note</b>: A slide bar will appear when you CTRL+Click on the mana bar. <p>Contingency-slidebar By adjusting its height you will set a minimum amount of mana below which spells won't be cast.</p>
@@ -1272,21 +1272,21 @@
     <p><b>Effect</b>: While offline, improves spell cast amount by an additional 2 per minute.</p>
     " coords="390,302,446,358" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png align=middle> </b>Planned Autocasting</b>
-    <p><b>Requirement</b>: 30 M (3E7) Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 30 M (3E7) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 600 Spd (6E56), A1+ Free</p>
     <p><b>Effect</b>: Allows you to set Primary and Secondary spells.</p>
     <p><b>Note</b>: Primary spells (Set with CTRL+Click) will fire when you have max mana with Contingency Autocasting. <p>Secondary spells (Set with SHIFT+Click) will fire as soon as you have the mana, as long as the primary spells are ALL still active.</p>
     <p><b>Effect</b>: While offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.</p>
     " coords="5,366,63,422" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png align=middle> </b>Efficient Autocasting</b>
-    <p><b>Requirement</b>: 50 M (5E7) Mana Produced (Total)</p>
+    <p><b>Requirement</b>: 50 M (5E7) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 700 Vg (7E65), A1+ Free</p>
     <p><b>Effect</b>: Allows you to select Independent Spells,</p>
     <p><b>Note</b>: A bronze icon (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are casted as soon as you have enough mana for them.</p>
     <p><b>Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
     " coords="70,365,127,422" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png align=middle> </b>Reverse Autocasting</b>
-    <p><b>Requirement</b>: Reach 1.5e8 mana and unlock the Reverse Autocasting upgrade. Can only be unlocked after Ascension 1 at Reincarnation 40+.</p>
+    <p><b>Requirement</b>: 150 M (1.5e8) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 3.2 Dc (3.2e33), A2+: Free</p>
     <p><b>Effect</b>: Allows you to manually reset spells with a 2 second cooldown per spell.</p>
     <p><b>Note</b>: Can not reset spells with a fixed duration.</p>
@@ -1295,7 +1295,6 @@
     " coords="133,365,190,422" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle> </b>Tiered Autocasting</b>
     <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
-    <p><b>Note</b>: This trophy unlocks at R40, The upgrade unlocks at R42</p>
     <p><b>Cost</b>: 100 Qid (1.0e50), A2+ Free</p>
     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.</p>
     <p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
@@ -1399,7 +1398,7 @@
     <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
     <p><b>Cost</b>: 1.0e45, A2+ Free</p>
     <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-    <p><b>Formula</b>: (6 * x ^0.6), where x is duration in seconds</p>
+    <p><b>Formula</b>: (6 * x ^ 0.6), where x is duration in seconds</p>
     <p><b>Note</b>: Dragon Spell</p>
     " coords="68,558,126,615" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png align=middle> Chrono Loading</b>
