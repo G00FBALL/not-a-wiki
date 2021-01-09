@@ -263,11 +263,11 @@
     <hr>
     <b><center>All Faction Default Spells</center></b>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/TaxCollection.png" alt="All Factions" align="middle"> Tax Collection</b> (All Factions)</p>
-    <p><b>Works For</b>: All - <b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds </p>
+    <p><b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds </p>
     <p><b>Effect</b>: Instantly gain 30 seconds worth of coin production from buildings and assistants.</p>
     <br>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/CallToArms.png" alt="All Factions" align="middle"> Call to Arms</b> (All Factions)</p>
-    <p><b>Works For</b>: All - <b>Cost</b>: 400 Mana - <b>Duration</b>: 20 seconds </p>
+    <p><b>Cost</b>: 400 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
     <p><b>Formula</b>: ((25 + 0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
     <div class="shlisting">
@@ -290,8 +290,8 @@
         </div>
     </div>
     <br>
-    <p><b><img src="http://musicfamily.org/realm/Factions/picks/Spiritualsurge.png" alt="All Factions" align="middle"> Spiritual Surge</b> (R14+) (All Factions)</p>
-    <p><b>Works For</b>: All (R14+) - <b>Cost</b>: 2500 Mana - <b>Duration</b>: 20 seconds </p>
+    <p><b><img src="http://musicfamily.org/realm/Factions/picks/Spiritualsurge.png" alt="All Factions" align="middle"> Spiritual Surge</b> (All Factions, R14+)</p>
+    <p><b>Cost</b>: 2500 Mana - <b>Duration</b>: 20 seconds </p>
     <p><b>Effect</b>: Increase the production of all buildings based on the amount of times you reincarnated and ascended.</p>
     <p><b>Formula</b>: (2500 * (R ^ 1.05)) ^ (1 + A * 0.5)%, where R is the number of times you have reincarnated and A is how many times you ascended.</p>
     <br>
@@ -432,8 +432,8 @@
 </div>
 <hr>
 <b><center>Alignment Spells</center></b>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyLight.png" alt="Good" align="middle"> Holy Light</b> (Any Good Faction)</p>
-<p><b>Works For</b>: Good - <b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyLight.png" alt="Good" align="middle"> Holy Light</b> (Proof of Good Deed)</p>
+<p><b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds</p>
 <p><b>Effect</b>: Increase clicking reward by 1750%</p>
 <div class="shlisting">
     <div class="shelementwhole">
@@ -456,8 +456,8 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodFrenzy.png" alt="Evil" align="middle"> Blood Frenzy</b> (Any Evil Faction)</p>
-<p><b>Works For</b>: Evil - <b>Cost</b>: 600 Mana - <b>Duration</b>: 20 seconds </p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodFrenzy.png" alt="Evil" align="middle"> Blood Frenzy</b> (Proof of Evil Deed)</p>
+<p><b>Cost</b>: 600 Mana - <b>Duration</b>: 20 seconds </p>
 <p><b>Effect</b>: Increases the production of all Evil buildings by 1250%.</p>
 <div class="shlisting">
     <div class="shelementwhole">
@@ -480,8 +480,8 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/GemGrinder.png" alt="Neutral" align="middle"> Gem Grinder</b> (Any Neutral Faction)</p>
-<p><b>Works For</b>: Neutral - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds </p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GemGrinder.png" alt="Neutral" align="middle"> Gem Grinder</b> (Proof of Neutrality)</p>
+<p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds </p>
 <p><b>Effect</b>: Increase production bonus from Gems</p>
 <p><b>Note</b>: Gem Grinder formula changed to work with Reincarnations and Ascensions.</p>
 <p><b>Tier Formula</b>: ((5000 * (1 + 0.1 * R)) ^ (0.8 ^ A)), where R is Reincarnation and A is Ascension</p>
@@ -507,8 +507,8 @@
 </div>
 <hr>
 <b><center>Faction Spells</center></b>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Good" align="middle"> Fairy Chanting</b> (Fairies)</p>
-<p><b>Works For</b>: Fairy - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 10 seconds </p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Good" align="middle"> Fairy Chanting</b> (Fairy)</p>
+<p>Cost</b>: 1000 Mana - <b>Duration</b>: 10 seconds </p>
 <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50,000%</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/FairyChoirFactionUpgrade.png" align="middle"> <b>Fairy Choir</b></p>
 <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
@@ -538,8 +538,8 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Good" align="middle"> Moon Blessing</b> (Elves)</p>
-<p><b>Works For</b>: Elf - <b>Cost</b>: 700 Mana - <b>Duration</b>: 20 seconds </p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Good" align="middle"> Moon Blessing</b> (Elven)</p>
+<p><b>Cost</b>: 700 Mana - <b>Duration</b>: 20 seconds </p>
 <p><b>Effect</b>: Increase the production of all buildings based on Treasure Clicks (Total).</p>
 <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" align="middle"> <b>Sun Blessing</b></p>
@@ -571,7 +571,7 @@
 </div>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Godshand.png" alt="Good" align="middle"> God's Hand</b> (Angel)</p>
-<p><b>Works For</b>: Angel - <b>Cost</b>: 900 Mana - <b>Duration</b>: 20 seconds </p>
+<p><b>Cost</b>: 900 Mana - <b>Duration</b>: 20 seconds </p>
 <p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/God'sRestFactionUpgrade.png" align="middle"> <b>God's Rest</b></p>
 <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
@@ -603,8 +603,8 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxe.png" alt="Good" align="middle"> Diamond Pickaxe</b> (Dwarf)</p>
-<p><b>Works For</b>: Dwarf - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 12 seconds </p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxe.png" alt="Good" align="middle"> Diamond Pickaxe</b> (Dwarven)</p>
+<p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 12 seconds </p>
 <p><b>Effect</b>: Increase clicking reward by 25% per Excavation you made and increase your Faction Coin find chance by 200%.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" align="middle"> <b>Minedwarf</b></p>
 <p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
@@ -634,8 +634,8 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsGreed.png" alt="Evil" align="middle"> Goblin's Greed</b> (Goblins)</p>
-<p><b>Works For</b>: Goblin - <b>Cost</b>: 800 Mana - <b>Duration</b>: 5 seconds </p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsGreed.png" alt="Evil" align="middle"> Goblin's Greed</b> (Goblin)</p>
+<p><b>Cost</b>: 800 Mana - <b>Duration</b>: 5 seconds </p>
 <p><b>Effect</b>: Instantly produces Faction Coins based on gems you own Also increases production of all buildings based on the number of Faction Coins found in this game.</p>
 <p><b>FC Formula</b>: (20 + ln(1 + x) ^ 3), where x is your current gems.</p>
 <p><b>Production Formula</b>: (0.75 * ln(1 + x) ^ 3.15)%, where x is your Faction Coins Gained (This Game) stat.</p>
@@ -668,7 +668,7 @@
 </div>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/NightTime.png" alt="Evil" align="middle"> Night Time</b> (Undead)</p>
-<p><b>Works For</b>: Undead - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds </p>
+<p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds </p>
 <p><b>Effect</b>: The production of assistants is increased by 30% per Necropolis you own.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png" align="middle"> <b>True Night</b></p>
 <p><b>Requirements</b>: Cast Night Time between 11 pm and 6 am.</p>
@@ -698,8 +698,8 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/HellFireBlast.png" alt="Evil" align="middle"> Hellfire Blast</b> (Demons)</p>
-<p><b>Works For</b>: Demon - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/HellFireBlast.png" alt="Evil" align="middle"> Hellfire Blast</b> (Demon)</p>
+<p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Increase the production of Evil Fortresses and Hell Portals based on your amount of trophies.</p>
 <p><b>Formula</b>: (round(200 * x ^ 0.8))%, where x is your Trophies Unlocked stat.</p>
 <p><b>Effect</b>: Also make Evil spells cast count 50% more per tier.</p>
@@ -732,7 +732,7 @@
 </div>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ComboStrike.png" alt="Evil" align="middle"> Combo Strike</b> (Drow)</p>
-<p><b>Works For</b>: Drow - <b>Cost</b>: 800 Mana - <b>Duration</b>: Fixed to 16 seconds</p>
+<p><b>Cost</b>: 800 Mana - <b>Duration</b>: Fixed to 16 seconds</p>
 <p><b>Effect</b>: Increase the production of all buildings by a progressively higher value as you continue casting this spell (This game).</p>
 <p><b>Formula</b>: (30 * (x ^ 0.9))%, where x is the number of times you have cast Combo Strike (This game).</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PerfectComboFactionUpgrade.png" align="middle"> <b>Perfect Combo</b></p>
@@ -767,17 +767,18 @@
     </div>
 </div>
 <br>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/spellLightningStrike.png" alt="Neutral" align="middle"> Lightning Strike</b> (Titans)</p>
-<p><b>Works For</b>: Titan - <b>Cost</b>: 900 Mana - <b>Duration</b>: 20 seconds </p>
-<p><b>Effect</b>: The production of a random building is multiplied by 300% for each Iron Stronghold. Also grants Faction Coins depending on your current amount of gems.</p>
-<p><b>Formula</b>: round(1.5 * ln(1 + x) ^ 3), where x is your current gems.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/spellLightningStrike.png" alt="Neutral" align="middle"> Lightning Strike</b> (Titan)</p>
+<p><b>Cost</b>: 600 Mana - <b>Duration</b>: 10 seconds </p>
+<p><b>Effect</b>: The production of a random building is multiplied by 500% for each Iron Stronghold. Also multiplicatively increase Faction Coins find chance based on your current amount of gems.</p>
+<p><b>Formula</b>: (10 + log10(1 + x) ^ 2)%, where x is your current amount of gems.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png" align="middle"> <b>Lightning Storm</b></p>
 <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
-<p><b>Effect</b>: Increase Lightning Strike bonus to 400% for each Iron Strongholds.</p>
+<p><b>Effect</b>: Increase Lightning Strike bonus to 750% for each Iron Strongholds.</p>
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallenges.png" align="middle"> <b>Thunderstorm</b> (R25+)</p>
-<p><b>Effect</b>: Lightning Strike now grants more Faction Coins based on your Faction Coin find chance.</p>
-<p><b>Formula</b>: round(x ^ 1.05)%, where x is your current chance to find Faction Coins.</p>
+<p><b>Effect</b>: Further increase Faction Coin find chance from Lightning Strike based on building tiers it hits.</p>
+<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T))%, where x is your current amount of gems and T the Building Tier LS hits.</p></p>
+<p><b>Note</b>: LS can hit multiple tiers at once if you have C375 and/or Titan Perk 4.</p>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Lightning Strike Tier 2-7</a></b> (R42+)</p>
@@ -801,7 +802,7 @@
 </div>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Brainwave.png" alt="Neutral" align="middle"> Brainwave</b> (Faceless)</p>
-<p><b>Works For</b>: Faceless - <b>Cost</b>: 600 Mana - <b>Duration</b>: 600 seconds </p>
+<p><b>Cost</b>: 600 Mana - <b>Duration</b>: 600 seconds </p>
 <p><b>Effect</b>: Increase production of all buildings by a cumulative 2% per second.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindFactionUpgrade.png" align="middle"> <b>Faceless Overmind</b></p>
 <p><b>Requirement</b>: Affiliate with the Faceless 5 times in a row.</p>
@@ -835,7 +836,7 @@
 </div>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GrandBalance.png" alt="Neutral" align="middle"> Grand Balance</b> (Druid)</p>
-<p><b>Works For</b>: Druid - <b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds (24s/w spell upgrade)</p>
+<p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Increase the production of your least productive building based on the amount of the three most built ones.</p>
 <p><b>Formula</b>: (25 * (x * y * z / (A + 3) ^ 6) ^ 0.9) where x, y and z are the number of your three most-built buildings and A is Ascension.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceFactionUpgrade.png" align="middle"> <b>Halls of Balance</b> (R25+)</p>
@@ -972,10 +973,9 @@
 </div>
 <hr>
 <center><b>Ascension 1 Spells</b> (R40+)</center>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon R46+)</p>
-<p><b>Works For</b>: Dragon - <b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Neutral" align="middle"> Dragon's Breath</b> (Dragon, R46+)</p>
+<p><b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
-<p><b>Requirement</b>: Dragons Trade Treaty</p>
 <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
 <p><b><font color="darkred">Formula</font></b>: (2 * (ln(1 + x) ^ 2)%, where x is Faction Coins found in this game.</p>
 <br>
@@ -1024,43 +1024,43 @@
     </div>
 </div>
 <br/>
-<p><b>Mercenary</b>: Tax Collection (R75+)</p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Good Mercenaries)</p>
-<p><b>Requirement</b>: Mercenary Camp</p>
-<p><b>Cost</b>: 1 Qaqag (1e135)</p>
-<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level for 20 seconds.</p>
-<p><b>Note</b>: A1 can cast up to 36 tiers.</p>
-<p><b>Note</b>: A3 can cast up to 99 tiers.</p>
-<p><b>Note</b>: Tier 41 and above cost x4/x2.25 (with S1275) instead of x2/x1.5 (with S1275) than each previous tier.</p>
-<p><b>Formula</b>: 120 ^ (0.25 * T), where T is tier (FC chance multiplier)</p>
-<p><b>Formula</b>: ((2.20 ^ T) - 1) * 100, multiplicative (production multiplier)</p>
+<p><b>Mercenary</b>: Modified Tax Collection (R75+)</p>
+<p><b>Note: Spell altered with new name and effects - still count as Tax Collection for all purposes.</p>  
+<p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Good Mercenary)</p>
+<p><b>Cost</b>: 200 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
+<p><b>Requirement</b>: Round Table</p>
+<p><b>Effect</b>: Increases the production of all buildings and Faction Coin find chance based on this spell tier level.</p>
 <p><b>Effect</b>: Also produce Tax Collection casts per second based on your Maximum Mana.</p>
-<p><b>Formula</b>: (0.01 * y * T), where y is max mana, T is tier</p>
+<p><b>Formula</b>: ((((1 + 0.01 * (120 + 1.25 * ln(1 + 90 + x) ^ 1.25)) ^ T) - 1) * 100)%, where x is tax collection seconds and T the Share Benefits tier (Production bonus).</p>
+<p><b>Formula</b>: 120 ^ (0.25 * T)%, where T is Share Benefits (Faction Coin find chance multiplier).</p>
+<p><b>Formula</b>: (0.01 * x * T), where x is Maximum Mana and T Share Benefits tier (Additional Tax Collection).</p>
+<p><b>Note</b>: Can be cast up to 36 tiers (Ascension 1) / 99 tiers (Ascension 3).</p>
+<p><b>Note</b>: Each tier costs x2/1.5 (with S1275) more mana than the previous one until Tier 40 - above x4/x2.25 than the previous one.<p>
+<p><b>Note</b>: Drains every second Mana equal to its current cost.</p>
+<p><b>Note</b>: Upgrades that cast free Tax Collection are disabled.</p> 
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenaries)</p>
-<p><b>Requirement</b>: Tyrant Garrison</p>
-<p><b>Cost</b>: 1 Qaqag (1e135)</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenary)</p>
+<p><b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds</p>
+<p><b>Requirement</b>: Dark Covenant</p>
 <p><b>Effect</b>: Additional casts of Reap Interests increase its seconds worth of production.</p>
-<p><b>Formula</b>: (120000 * log10(8 + 0.125 * x)), where x is amount of TC casts.</p>
-<p><b>Note</b>: Extra time from reap interests does apply to S50.</p>
-<p><b>Note</b>: S50 tax collections do increase reap interests.</p>
+<p><b>Formula</b>: *(50000 * log10(8 + 0.1 * x)), where x is amount of Reap Interests casts.</p>
+<p><b>Note</b>: Upgrades that cast free Tax Collection are treated as Reap Interests casts.</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Appraisal Vantage</b> (Neutral Mercenaries)</p>
-<p><b>Requirement</b>: Freemason's Hall</p>
-<p><b>Cost</b>: 1 Qaqag (1e135)</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/AppraisalVantageSpell.png" alt="Freemason's Hall" align="middle"> <b>Appraisal Vantage</b> (Neutral Mercenary)</p>
+<p><b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds</p>
+<p><b>Requirement</b>: Secret Exchange</p>
 <p><b>Effect</b>: Generates additional Faction Coins based on the amount of assistants you own.</p>
 <p><b>Formula</b>: (x * y ^ 1.275), where x is assistants owned, y is Faction coin chance.</p>
+<p><b>Note</b>: Upgrades that cast free Tax Collection are treated as Appraisal Vantage casts.</p>
 <hr>
 <b><center>Ascension 2</b> (R100+)</center>
 <b><center>Secondary Alignment Spells</center></b>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxSpell.png" alt="Temporal Flux" align="middle"> <b>Temporal Flux</b> (Proof of Order)</p>
 <p><b>Requirement</b>: Ascension 2</p>
-<p><b>Cost</b>: 5000 Mana</p>
+<p><b>Cost</b>: 5000 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
 <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
-<p><b>Formula</b>: (3.5 * (x / 60) ^ 0.825)%, where x is time in seconds this game.</p>
-<p><b>Factions</b></p>
-<p><b>Angel</b> (Good), <b>Undead</b> (Evil), and <b>Titans</b> (Neutral)</p>
+<p><b>Formula</b>: (3.75 * (x / 60) ^ 0.825)%, where x is time in seconds this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TemporalFluxTier2.png" alt="Temporal Flux" align="middle"> <b>Tier 2</b> (R120+)</p>
 <p><b>Requirement</b>: Lantern of Guidance (Artifact)</p>
@@ -1069,15 +1069,13 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpell.png" alt="Maelstrom" align="middle"> <b>Maelstrom</b> (Proof of Chaos)</p>
 <p><b>Requirement</b>: Ascension 2</p>
-<p><b>Cost</b>: 3500 Mana</p>
+<p><b>Cost</b>: 3500 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants</p>
-<p><b>Formulas</b></p>
-<p><b>Mana</b> (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
-<p><b>Trophy Formula</b> (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
-<p><b>Faction Coins</b> (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
-<p><b>Assistants</b>(0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
-<p><b>Factions</b></p>
-<p><b>Fairies</b> (Good), <b>Demons</b> (Evil), and <b>Faceless</b> (Neutral)</p>
+<p><b>Formulas:</b></p>
+<p><b>Mana</b> - (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
+<p><b>Trophy</b> - (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
+<p><b>Faction Coins</b> - (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
+<p><b>Assistants</b> - (0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MaelstromSpellTier2.png" alt="Maelstrom" align="middle"> <b>Tier 2</b> (R120+)</p>
 <p><b>Requirement</b>: Oil Lamp (Artifact)</p>
@@ -1086,12 +1084,11 @@
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpell.png" alt="All Creation" align="middle"> <b>All Creation</b> (Proof Of Balance) </p>
 <p><b>Requirement</b>: Ascension 2</p>
-<p><b>Cost</b>: 6000 Mana</p>
-<p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
+<p><b>Cost</b>: 6000 Mana - <b>Duration</b>: 20 seconds</p>
+<p><b>Effect</b>: Increase production of all buildings based on your Mana Regeneration rate.</p>
+<p><b>Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is Mana Regeneration.</p>
 <p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
-<p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
-<p><b>Factions</b></p>
-<p><b>Elves</b> (Good), <b>Goblins</b> (Evil), and <b>Druid</b> (Neutral)</p>
+<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5 + 15 * x ^ 0.15)%, where x is Mana Regeneration.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreationSpellTier2.png" alt="All Creation" align="middle"> <b>Tier 2</b> (R120+)</p>
 <p><b>Requirement</b>: Spark of Life (Artifact)</p>
@@ -1100,23 +1097,24 @@
 <hr>
 <b><center>Ascension 2</b> (R125+)</center>
 <b><center>Elite Faction Spells</center></b>
-<p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation" align="middle"> <b>Precognition</b> (Archons)</p>
-<p><b>Cost</b>: 123456 mana</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/PrecognitionSpell.png" alt="All Creation" align="middle"> <b>Precognition</b> (Archon)</p>
+<p><b>Cost</b>: 123456 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more based on mana produced in this game.</p>
-<p><b>Formula</b>: (ln(x) ^ 1.25) (without AR2), (1.25 * ln(x) ^ 1.5) (with AR2), where x is mana produced in this game.</p>
+<p><b>Formula</b>: (ln(1 + x) ^ 1.25)%, where x is mana produced in this game.</p>
+<p><b>Note: Formula Improved to (1.25 * ln(1 + x) ^ 1.5)% with AR2.</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png" align="middle"> <b>Chrono Loading</b></p>
 <p><b>Requirement</b>: R125+, Cast Precognition with at least 100 Qa (1e17) mana regeneration.</p>
 <p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) with it not active</p>
 <p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
-<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
+<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition Duration (seconds).</p>
 <p><b>Effect</b>: Also scale off invisible spell duration modifiers.</p>
 <p><b>Upgrade Cost</b>: 10 Octg (1e118), A3+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/Omniscience.png" align="middle"> <b>Omniscience</b> (R153+)</p>
 <p><b>Effect</b>: Precognition also makes Excavations, Artifacts, Reincarnations, Research points and Lineage levels count 15% more.</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinns)</p>
-<p><b>Cost</b>: 888888 mana</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinn)</p>
+<p><b>Cost</b>: 888888 mana</p> - <b>Duration</b>: Fixed to 12 seconds</p>
 <p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b></p>
 <p><b>Good</b></p>
@@ -1144,15 +1142,15 @@
 <p><b>Effect</b>: Production of all buildings effect of Limited Wish is active on every cast and is no longer a possible random outcome.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"> <b>Infinite Spiral</b> (Makers)</p>
-<p><b>Cost</b>: 505000 mana</p>
-<p><b>Effect</b>: Increase assistants based on Maximum Mana.</p>
-<p><b>Formula</b>: (10 * (ln(1 + x) ^ 1.25), where x is Maximum Mana.</p>
+<p><b>Cost</b>: 505000 mana</p> - <b>Duration</b>: 10 seconds</p>
+<p><b>Effect</b>: Temporarily increase assistants based on Maximum Mana (multiplicative).</p>
+<p><b>Formula</b>: (10 * (ln(1 + x) ^ 1.25)%, where x is Maximum Mana.</p>
 <br/>
-<p><b>Effect</b>: Increase max mana based on FC chance.</p>
-<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5), where x is FC chance.</p>
+<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coin find chance.</p>
+<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is FC chance.</p>
 <br/>
-<p><b>Effect</b>: Increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
-<p><b>Formula</b>: (10 + 0.05 * (x * y) ^ 0.75), where x is excavations done this R (NOT current excavation count), y is free and ruby Excavation Resets this R</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
+<p><b>Formula</b>: (10 + 0.05 * (x * y) ^ 0.75)%, where x is excavations done this R (NOT current excavation count), y is free and ruby Excavation Resets this R</p>
 <br/>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/RealityCraterSpellUpgrade.png" align="middle"> <b>Reality Crater</b></p>
 <p><b>Requirements</b>: R125+, Cast Infinite Spiral with at least 10 excavation resets this game.</p>
@@ -1162,18 +1160,19 @@
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/Gaia'sCradle.png" align="middle"> <b>Gaia's Cradle</b> (R153+)</p>
 <p><b>Effect</b>: All Infinite Spiral effects scale 15% faster.</p>
 <hr>
-<p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"> <b>Catalyst</b> (Djinn Bloodline) (R130+)</p>
-<p><b>Cost</b>: 500000 mana</p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"> <b>Catalyst</b> (Djinn Bloodline, R130+)</p>
+<p><b>Cost</b>: 500000 Mana</p> - <b>Duration</b>: Fixed to 60 seconds</p>
+<p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
 <p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.</p>
-<p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Notes</b></p>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
 <p><b>2</b>. Cannot cast a spell that is already avaliable.</p>
 <p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ChaosMadnessSpell.png" alt="ChaosMadness" align="middle"> <b>Chaos Madness</b> (Chaos Mercenary) (R194+)</p>
-<p><b>Cost</b>: 500000 mana</p>
-<p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
+<p><b>Cost</b>: 500000 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
 <p><b>Requirements</b>: R194+, Mercenary Challenge 2 completed</p>
+<p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
+<p><b>Note</b>: Does not select a lineage that is already avaiable.</p>
 <?php include "../scripts/footer.html"; ?>
