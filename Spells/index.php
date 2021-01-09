@@ -1025,7 +1025,7 @@
 </div>
 <br/>
 <p><b>Mercenary</b>: Modified Tax Collection (R75+)</p>
-<p><b>Note: Spell altered with new name and effects - still count as Tax Collection for all purposes.</p>  
+<p><b>Note</b>: Spell altered with new name and effects - still count as Tax Collection for all purposes.</p>  
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Good Mercenary)</p>
 <p><b>Cost</b>: 200 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
 <p><b>Requirement</b>: Round Table</p>
