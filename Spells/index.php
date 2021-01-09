@@ -1114,7 +1114,7 @@
 <p><b>Effect</b>: Precognition also makes Excavations, Artifacts, Reincarnations, Research points and Lineage levels count 15% more.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LimitedWishSpell.png" alt="Limited wish" align="middle"> <b>Limited Wish</b> (Djinn)</p>
-<p><b>Cost</b>: 888888 mana</p> - <b>Duration</b>: Fixed to 12 seconds</p>
+<p><b>Cost</b>: 888888 mana - <b>Duration</b>: Fixed to 12 seconds</p>
 <p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Possible Effects</b></p>
 <p><b>Good</b></p>
@@ -1142,7 +1142,7 @@
 <p><b>Effect</b>: Production of all buildings effect of Limited Wish is active on every cast and is no longer a possible random outcome.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/InfiniteSpiral.png" alt="Infinite Spiral" align="middle"> <b>Infinite Spiral</b> (Makers)</p>
-<p><b>Cost</b>: 505000 mana</p> - <b>Duration</b>: 10 seconds</p>
+<p><b>Cost</b>: 505000 mana - <b>Duration</b>: 10 seconds</p>
 <p><b>Effect</b>: Temporarily increase assistants based on Maximum Mana (multiplicative).</p>
 <p><b>Formula</b>: (10 * (ln(1 + x) ^ 1.25)%, where x is Maximum Mana.</p>
 <br/>
@@ -1161,7 +1161,7 @@
 <p><b>Effect</b>: All Infinite Spiral effects scale 15% faster.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png" alt="Catalyst" align="middle"> <b>Catalyst</b> (Djinn Bloodline, R130+)</p>
-<p><b>Cost</b>: 500000 Mana</p> - <b>Duration</b>: Fixed to 60 seconds</p>
+<p><b>Cost</b>: 500000 Mana - <b>Duration</b>: Fixed to 60 seconds</p>
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
 <p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.</p>
