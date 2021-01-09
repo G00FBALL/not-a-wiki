@@ -26,6 +26,7 @@
 <br/>
 <p><b>Good - Angels</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
+<p><b>Description</b>: Welcome again, dearest ally. We need your help once more: improve your mana potency in this new era, and we'll reward you by blessing the ground you walk on.</p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Requirement</b>: 3M (3e6) Mana Regeneration</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
@@ -276,7 +277,7 @@
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
 <p><b>Effect</b>: Grants access to Unique Building.</p>
 <br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> <b>Forbidden Library Unique Building Upgrade</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> <b>Unique Building Upgrade</b></p>
 <p><b>Requirement</b>: Forbidden Library Quest</p>
 <p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
 <p><b>Effect</b>: Gives Forbidden Library Unique Building.</p>
@@ -328,17 +329,6 @@
 <p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
 <br/>
 <p><b>Good - Elven</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
-<p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
-<p><b>Requirement</b>: 1e23 Elf Faction Coins found.</p>
-<p><b>Effect</b>: Grants access to Unique Building.</p>
-<br/>
-<p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuildingUpgrade.png" alt="Arboreal City" align="middle"> <b>Unique Building Upgrade</b></p>
-<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
-<p><b>Requirement</b>: Arboreal City Quest</p>
-<p><b>Effect</b>: Gives Arboreal City Unique Building.</p>
-<br/>
-<p><b>Unique Building</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
 <p><b>Description</b>: Hello again, mellonamin. It is time for the Elves to have their place to live. Collect enough Elven Faction coins, and we'll start to build a true green city!</p>
 <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
