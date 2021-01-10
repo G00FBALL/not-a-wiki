@@ -36,6 +36,6 @@
 		<p><b>Spellsmith</b></p>
         	<p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration additively.</p>
         	<p><b>Formula</b>: (x ^ 0.25), where x is the number of Blacksmiths you own.</p>
-	" coords="70,10,70,124" shape="rect"> 
+	" coords="10,70,124,70" shape="rect"> 
         </map>
 	<?php include "../scripts/footer.html"; ?>
