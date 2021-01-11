@@ -107,12 +107,12 @@
         <p><b>Requirements</b>: Dwarven Champion Trophy</p>
         <p><b>Cost</b>: 75,000 Dwarven Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-        <p><b>Formula</b>: (2 * (x ^ 0.9))%, where x is the number of excavations you've purchased.</p>
+        <p><b>Formula</b>: (2 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
         <hr>
         <p><b>Dwarf Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Dwarven Forge Quest</b></p>
         <p><b>Description</b>: Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
-        <p><b>Requirement</b>: R28 + 3500 Blacksmiths</p>
+        <p><b>Requirement</b>: R28 + 3,500 Blacksmiths</p>
         <p><b>Cost</b>: 10 Sxg (1E184)</p>
         <p><b>Effect</b>: Unlocks Dwarven Forges.</p>
         <br/>
