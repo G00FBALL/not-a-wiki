@@ -540,11 +540,11 @@
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Good" align="middle"> Moon Blessing</b> (Elven)</p>
 <p><b>Cost</b>: 700 Mana - <b>Duration</b>: 20 seconds </p>
-<p><b>Effect</b>: Increase the production of all buildings based on Treasure Clicks (Total).</p>
-<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
+<p><b>Effect</b>: Increases the production of all buildings based on on the amount of clicks made in this Reincarnation for 20 seconds.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the amount of clicks made in this Reincarnation.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" align="middle"> <b>Sun Blessing</b></p>
 <p><b>Requirement</b>: Activate Moon Blessing between 6am and 1pm.</p>
-<p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
+<p><b>Effect</b>: Autoclicks 15 times per second while Moon Blessing is active.</p>
 <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/StarBlessingChallenges.png" align="middle"> <b>Star Blessing</b> (R18+)</p>
 <p><b>Effect</b>: Automatic clicks from Sun Blessing always trigger Elven Luck.</p>

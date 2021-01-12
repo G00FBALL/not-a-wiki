@@ -16,14 +16,14 @@
         <br/>
         <p><b>Faction spell</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/MoonBlessing.png" alt="Smiley face" align="middle"> <b>Moon Blessing</b></p>
-        <p><b>Effect</b>: Increases the production of all buildings based on the total amount of treasure clicks across all play-throughs for 20 seconds.</p>
-        <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Treasure Clicks (Total) stat.</p>
+        <p><b>Effect</b>: Increases the production of all buildings based on on the amount of clicks made in this Reincarnation for 20 seconds.</p>
+        <p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the amount of clicks made in this Reincarnation.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Sun Blessing</b></p>
         <p><b>Requirement</b>: Activate Moon Blessing between 6am and 1 pm.</p>
         <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
-        <p><b>Effect</b>: Moon Blessing auto-clicks the treasure 15 times per second.</p>
+        <p><b>Effect</b>: Autoclicks 15 times per second while Moon Blessing is active.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTradeTreaty.png" alt="Elven Trade Treaty" align="middle"> Elven Trade Treaty</b></p>
@@ -36,12 +36,12 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTreasureCastingFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Treasure Casing</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
-        <p><b>Effect</b>: Increase base clicking reward by 25,000 per Trophy unlocked, and increase chance to find Faction Coins based on the amount of Trophies you unlocked.</p>
-        <p><b>Formula</b>: floor((1 + 0.05 * x)^ 0.95), where x is your Trophies unlocked.</p>
+        <p><b>Effect</b>: Increase base clicking reward by +25,000 per Trophy unlocked, and increase chance to find Faction Coins based on the amount of Trophies you unlocked.</p>
+        <p><b>Formula</b>: floor((1 + 0.05 * x)^ 0.95)%, where x is the amount of Trophies unlocked.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Clicking Arts</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
-        <p><b>Effect</b>: Increase Mana Regeneration based on your total amount of Clicks all time.</p>
+        <p><b>Effect</b>: Increase Mana Regeneration based on the amount of clicks made in this Reincarnation.</p>
         <p><b>Formula</b>: +(2 * log10(1 + x)), where x is the amount of clicks made in this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
@@ -61,8 +61,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" alt="Smiley face" align="middle"> Secret Clicking Techniques</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
-        <p><b>Effect</b>: Increase the production of all buildings based on Clicks total.</p>
-        <p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks all time.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on the amount of clicks made in this Reincarnation.</p>
+        <p><b>Formula</b>: (2 * x ^ 0.4)%, where x is the amount of clicks made in this Reincarnation.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Elven Alliance</b></p>
