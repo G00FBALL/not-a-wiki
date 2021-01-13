@@ -244,59 +244,59 @@
 				<p><b>Mercenary Template</b>: AR1</p>
 				<p><b>Cost</b>: 1 NoQag (1e150)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the maximum amount of Royal Exchanges you made in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.9 * x), where x is Royal Exchanges.</p>
+				<p><b>Formula</b>: (0.9 * x)%, where x is the maximum amount of Royal Exchanges you made in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EnergyRecharge.png" align="middle"> Energy Recharge</b></p>
 				<p><b>Mercenary Template</b>: AR2</p>
 				<p><b>Cost</b>: 10 NoQag (1e151)</p>
 				<p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.25 * x ^ 0.5), where x is time spent as Order this R in seconds.</p>
+				<p><b>Formula</b>: (0.25 * x ^ 0.5)%, where x is time spent as Order this R in seconds.</p>
 				<p><b>Effect</b>: Also increase Precognition base and scaling.</p>
-				<p><b>Precognition Formula</b>: (1.25 * ln(1 + x) ^ 1.5), where x is mana produced in this game.</p>
+				<p><b>Precognition Formula</b>: (1.25 * ln(1 + x) ^ 1.5)%, where x is mana produced in this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 				<p><b>Mercenary Template</b>: AR3</p>
 				<p><b>Cost</b>: 100 NoQag (1e152)</p>
 				<p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-				<p><b>Formula</b>: <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
+				<p><b>Formula</b>: <p><b>Formula</b>: +(0.5 * x ^ 0.5)%, where x is clicks made this Reincarnation.</p>
 				<hr>
 				<h6>Djinn</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
 				<p><b>Mercenary Template</b>: DJ1</p>
 				<p><b>Cost</b>: 1 NoQag (1e150)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on spells of your current alignments cast in this game.</p>
-				<p><b>Formula</b>: (25 * ln(1 + x) ^ 2.5), where x is alignments spells cast in this game.</p>
+				<p><b>Formula</b>: (25 * ln(1 + x) ^ 2.5)%, where x is alignments spells cast in this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenWill.png" align="middle"> Forbidden Will</b></p>
 				<p><b>Mercenary Template</b>: DJ2</p>
 				<p><b>Cost</b>: 10 NoQag (1e151)</p>
 				<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Faction Coins found in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
+				<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is highest amount of Faction Coins found in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
 				<p><b>Mercenary Template</b>: DJ3</p>
 				<p><b>Cost</b>: 100 NoQag (1e152)</p>
 				<p><b>Effect</b>: Increase Maximum Mana based on researches selected.</p>
-				<p><b>Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)</p>
+				<p><b>Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)%</p>
 				<hr>
 				<h6>Makers</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HandoftheMakers.png" align="middle"> Hand of the Makers</b></p>
 				<p><b>Mercenary Template</b>: MK1</p>
 				<p><b>Cost</b>: 1 NoQag (1e150)</p>
 				<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks made in this Reincarnation.</p>
+				<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is clicks made in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalShards.png" align="middle"> Everlasting Materials</b></p>
 				<p><b>Mercenary Template</b>: MK2</p>
 				<p><b>Cost</b>: 10 NoQag (1e151)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of buildings built in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.25 * x ^ 0.85), where x is highest amount of buildings built this Reincarnation.</p>
+				<p><b>Formula</b>: (0.25 * x ^ 0.85)%, where x is highest amount of buildings built this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/InfiniteImprovements.png" align="middle"> Infinite Improvements</b></p>
 				<p><b>Mercenary Template</b>: MK3</p>
 				<p><b>Cost</b>: 100 NoQag (1e152)</p>
 				<p><b>Effect</b>: Increase the production of All Buildings based on time spent as Balance.</p>
-				<p><b>Formula</b>: (0.3 * x ^ 0.7), where x is time spent as balance this R in seconds.</p>
+				<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is time spent as balance this R in seconds.</p>
 			 </div>
 		</div>
 		<div class="shelementwhole">
@@ -529,52 +529,52 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/Constellation.png" align="middle"> Constellation</b></p>
 				<p><b>Mercenary Template</b>: AR4</p>
 				<p><b>Cost</b>: 100 UQig (1e158)</p>
-				<p><b>Effect</b>: Increase Mana Regeneration based on the amount of Unique Buildings owned.</p>
-				<p><b>Formula</b>: (0.5 * x ^ 0.5), where x is Unique Buildings.</p>
+				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Unique Buildings owned.</p>
+				<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings owned.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPride.png" align="middle"> Archon Pride</b></p>
 				<p><b>Mercenary Template</b>: AR5</p>
 				<p><b>Cost</b>: 1 DQig (1e159)</p>
-				<p><b>Effect</b>: Increase assistants based on your current Lineage level.</p>
-				<p><b>Formula</b>: (x), where x is your current Lineage level.</p>
+				<p><b>Effect</b>: Multiplicatively increase assistants based on your current Lineage level.</p>
+				<p><b>Formula</b>: (x)%, where x is your current Lineage level.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/Absentmindedness.png" align="middle"> Absent-mindedness</b></p>
 				<p><b>Mercenary Template</b>: AR6</p>
 				<p><b>Cost</b>: 10 DQig (1e160)</p>
 				<p><b>Effect</b>: Increase Offline bonus based on Excavation Resets made in this Reincarnation.</p>
-				<p><b>Formula</b>: (30 + 3 * (x + y) ^ 3), where x is free resets this R and y is ruby resets this R.</p>
+				<p><b>Formula</b>: (30 + 3 * (x + y) ^ 3)%, where x is free resets this R and y is ruby resets this R.</p>
 				<hr>
 				<h6>Djinn</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic</b></p>
 				<p><b>Mercenary Template</b>: DJ4</p>
 				<p><b>Cost</b>: 100 UQig (1e158)</p>
 				<p><b>Effect</b>: Increase non-unique building production based on mana produced this game.</p>
-				<p><b>Formula</b>: (0.325 * x ^ 0.325), where x is mana produced this game.</p>
+				<p><b>Formula</b>: (0.325 * x ^ 0.325)%, where x is mana produced this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiritualBindings.png" align="middle"> Spiritual Bindings</b></p>
 				<p><b>Mercenary Template</b>: DJ5</p>
 				<p><b>Cost</b>: 1 DQig (1e159)</p>
-				<p><b>Effect</b>: Increase assistants based on time spent offline.</p>
-				<p><b>Formula</b>: (0.65 * x ^ 0.5), where x is time spent offline this game in seconds.</p>
+				<p><b>Effect</b>: Multiplicatively increase assistants based on time spent offline.</p>
+				<p><b>Formula</b>: (0.65 * x ^ 0.5)%, where x is time spent offline this game in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/WildSurge.png" align="middle"> Wild Surge</b></p>
 				<p><b>Mercenary Template</b>: DJ6</p>
 				<p><b>Cost</b>: 10 DQig (1e160)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
-				<p><b>Formula</b>: (0.75 * x ^ 0.75), where x is the duration of your longest spell.</p>
+				<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the duration of your longest spell.</p>
 				<hr>
 				<h6>Makers</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EverlastingMaterials.png" align="middle"> Magical Shards</b></p>
 				<p><b>Mercenary Template</b>: MK4</p>
 				<p><b>Cost</b>: 100 UQig (1e158)</p>
-				<p><b>Effect</b>: Increase mana regeneration based on artifacts found.(Multiplicatively)</p>
-				<p><b>Formula</b>: (x ^ 0.95), where x is artifacts found.</p>
+				<p><b>Effect</b>: Multiplicatively increase mana regeneration based on artifacts found.</p>
+				<p><b>Formula</b>: (x ^ 0.95)%, where x is artifacts found.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TreasureMosaic.png" align="middle"> Treasure Mosaic</b></p>
 				<p><b>Mercenary Template</b>: MK5</p>
 				<p><b>Cost</b>: 1 DQig (1e159)</p>
 				<p><b>Effect</b>: Additionally increase Maximum Mana based on Faction Coins found in this game.</p>
-				<p><b>Formula</b>: (27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
+				<p><b>Formula</b>: +(27.5 * log10(1 + x) ^ 2.75), where x is Faction Coins found in this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArtofCommerce.png" align="middle"> Art of Commerce</b></p>
 				<p><b>Mercenary Template</b>: MK6</p>
@@ -813,19 +813,19 @@
 				<p><b>Mercenary Template</b>: AR7</p>
 				<p><b>Cost</b>: 10 TQig (1e163)</p>
 				<p><b>Effect</b>: Increase the production of Unique buildings based on their quantity.</p>
-				<p><b>Formula</b>: (x), where x is Unique Buildings.</p>
+				<p><b>Formula</b>: (x)%, where x is Unique Buildings.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/StrangeAttraction.png" align="middle"> Strange Attraction</b></p>
 				<p><b>Mercenary Template</b>: AR8</p>
 				<p><b>Cost</b>: 100 TQig (1e164)</p>
-				<p><b>Effect</b>: Increase Faction Coin find chance based on the activity time of your least used spell.</p>
-				<p><b>Formula</b>: (100 + 0.8 * x ^ 0.8), where x is spell with least activity time this R in seconds.</p>
+				<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the activity time of your least used spell.</p>
+				<p><b>Formula</b>: (100 + 0.8 * x ^ 0.8)%, where x is spell with least activity time this R in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArcaneCore.png" align="middle"> Arcane Core</b></p>
 				<p><b>Mercenary Template</b>: AR9</p>
 				<p><b>Cost</b>: 1 QaQig (1e165)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this Reincarnation.</p>
-				<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5), where x is mana produced in this Reincarnation.</p>
+				<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is mana produced in this Reincarnation.</p>
 				<hr>
 				<h6>Djinn</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/WishingWell.png" align="middle"> Wishing Well</b></p>
@@ -844,15 +844,15 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaCreatures.png" align="middle"> Mana Creatures</b></p>
 				<p><b>Mercenary Template</b>: DJ9</p>
 				<p><b>Cost</b>: 1 QaQig (1e165)</p>
-				<p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-				<p><b>Formula</b>: (1.8 * log10(1 + x) ^ 1.8), where x is highest mana produced in a single game this reincarnation.</p>
+				<p><b>Effect</b>: Multiplicatively increase assistants based on the highest mana produced in this Reincarnation.</p>
+				<p><b>Formula</b>: (1.8 * log10(1 + x) ^ 1.8)%, where x is highest mana produced in a single game this reincarnation.</p>
 				<hr>
 				<h6>Makers</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/StoneServants.png" align="middle"> Stonecarving</b></p>
 				<p><b>Mercenary Template</b>: MK7</p>
 				<p><b>Cost</b>: 10 TQig (1e163)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
-				<p><b>Formula</b>: (30 + 0.3 * (x * (y + z)) ^ 0.7), where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
+				<p><b>Formula</b>: (30 + 0.3 * (x * (y + z)) ^ 0.7)%, where x is excavations done this R (NOT current excavation count), y is free resets this R, and z is ruby resets this R.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 				<p><b>Mercenary Template</b>: MK8</p>
@@ -864,7 +864,7 @@
 				<p><b>Mercenary Template</b>: MK9</p>
 				<p><b>Cost</b>: 1 QaQig (1e165)</p>
 				<p><b>Effect</b>: Increase the production of building tiers directly above or below Unique Buildings based on spells cast in this game.</p>
-				<p><b>Formula</b>: (0.2 * x ^ 0.4), where x spells cast in this game.</p>
+				<p><b>Formula</b>: (0.2 * x ^ 0.4)%, where x spells cast in this game.</p>
 				<p><b>Note</b>: MK9 now works like W3150 ( ^ 2 bonus when able).</p>
 				  <hr>
 			</div>
@@ -1161,8 +1161,8 @@
 				<p><b>Mercenary Template</b>: AR12</p>
 				<p><b>Requirement</b>: R130+, Archon Union</p>
 				<p><b>Cost</b>: 10 SxQig (1e172)</p>
-				<p><b>Effect</b>: Increase production bonus from Gems based on the duration of your longest spell.</p>
-				<p><b>Formula</b>: (0.15 * x ^ 0.7), where x is the duration of your longest spell.</p>
+				<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the duration of your longest spell.</p>
+				<p><b>Formula</b>: (0.15 * x ^ 0.7)%, where x is the duration of your longest spell.</p>
 				<hr>
 				<h6>Djinn</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/WishesComeTrue.png" align="middle"> Wishes Come True</b></p>
@@ -1176,15 +1176,15 @@
 				<p><b>Mercenary Template</b>: DJ11</p>
 				<p><b>Requirement</b>: R130+, Djinn Union</p>
 				<p><b>Cost</b>: 1 SxQig (1e171)</p>
-				<p><b>Effect</b>: Increase mana regeneration based on Royal Exchanges made.</p>
-				<p><b>Formula</b>: (0.3 * x ^ 0.8), where x is Royal Exchanges made.</p>
+				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Royal Exchanges made.</p>
+				<p><b>Formula</b>: (0.3 * x ^ 0.8)%, where x is Royal Exchanges made.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AcademicProdigy.png" align="middle"> Academic Prodigy</b></p>
 				<p><b>Mercenary Template</b>: DJ12</p>
 				<p><b>Requirement</b>: R130+, Djinn Union</p>
 				<p><b>Cost</b>: 10 SxQig (1e172)</p>
 				<p><b>Effect</b>: Tax Collections are worth more seconds based on trophies unlocked.</p>
-				<p><b>Formula</b>: (5 * x ^ 0.5), where x is trophies unlocked.</p>
+				<p><b>Formula</b>: (5 * x ^ 0.5)%, where x is trophies unlocked.</p>
 				<hr>
 				<h6>Makers</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ValuableAntiquity.png" align="middle"> Valuable Antiquity</b></p>
@@ -1198,14 +1198,14 @@
 				<p><b>Mercenary Template</b>: MK11</p>
 				<p><b>Requirement</b>: R130+, Makers Union</p>
 				<p><b>Cost</b>: 1 SxQig (1e171)</p>
-				<p><b>Effect</b>: Increase the base production of all buildings by 1000 per building tier.</p>
+				<p><b>Effect</b>: Increase the base production of all buildings by +1000 per building tier.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/RealityMarble.png" align="middle"> Reality Marble</b></p>
 				<p><b>Mercenary Template</b>: MK12</p>
 				<p><b>Requirement</b>: R130+, Makers Union</p>
 				<p><b>Cost</b>: 10 SxQig (1e172)</p>
 				<p><b>Effect</b>: Gain assistants based on clicks made in this Reincarnation.</p>
-				<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
+				<p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is clicks made this Reincarnation.</p>
 			</div>
 		</div>
 	</div>

@@ -22,13 +22,13 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenHeritage.png" alt="Elven Heritage" align="middle"><b> Elven Heritage</b></p>
 <p><b>Cost</b>: 5000 Elven Coins</p>
 <p><b>Requirements</b>: Elven Champion Trophy</p>
-<p><b>Effect</b>: Increase your chance to find Faction Coins by 5% and increase your click reward based on your chance to find Faction Coins.</p>
+<p><b>Effect</b>: Increase your chance to find Faction Coins by +5% and increase your click reward based on your chance to find Faction Coins.</p>
 <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your chance to find faction coins.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
 <p><b>Cost</b>: 5000 Angel Coins</p>
 <p><b>Requirements</b>: Angel Champion Trophy</p>
-<p><b>Effect</b>: Increase Mana production by 10%.</p>
+<p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 10%.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinHeritage.png" alt="Goblin Heritage" align="middle"><b> Goblin Heritage</b></p>
 <p><b>Cost</b>: 5000 Goblin Coins</p>
@@ -40,7 +40,7 @@
 <p><b>Cost</b>: 5000 Undead Coins</p>
 <p><b>Requirements</b>: Undead Champion Trophy</p>
 <p><b>Effect</b>: You gain additional assistants based on the time spent in this game.</p>
-<p><b>Formula</b>: floor(1 + 1.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: +floor(1 + 1.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicHeritage.png" alt="Demonic Heritage" align="middle"><b> Demonic Heritage</b></p>
 <p><b>Cost</b>: 5000 Demon Coins</p>
@@ -55,7 +55,7 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DruidHeritage.png" alt="Druid Heritage" align="middle"><b> Druid Heritage</b></p>
 <p><b>Cost</b>: 25,000 Elven Coins, 25,000 Demon Coins</p>
 <p><b>Requirements</b>: Druid Champion Trophy</p>
-<p><b>Effect</b>: Increase maximum Mana by 1 every 15 buildings you own.</p>
+<p><b>Effect</b>: Increase maximum Mana by +1 every 15 buildings you own.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FacelessHeritage.png" alt="Faceless Heritage" align="middle"><b> Faceless Heritage</b></p>
 <p><b>Cost</b>: 25,000 Fairy Coins, 25,000 Undead Coins</p>
@@ -72,41 +72,37 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DrowHeritage.png" alt="Drow Heritage" align="middle"><b> Drow Heritage</b></p>
 <p><b>Cost</b>: 75,000 Drow Coins</p>
 <p><b>Requirements</b>: Drow Champion Trophy</p>
-<p><b>Effect</b>: Increase the production of assistants based on the amount of royal exchanges you purchased in this game.</p>
-<p><b>Formula</b>: (2 * x ^ 0.8), where x is your Royal Exchanges Made stat.</p>
+<p><b>Effect</b>: Increase the production of assistants based on the amount of Royal Exchanges you purchased in this game.</p>
+<p><b>Formula</b>: (2 * x ^ 0.8)%, where x is the amount of Royal Exchanges purchased in this game.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryBadge.png" alt="Mercenary Badge" align="middle"><b> Mercenary Badge</b></p>
 <p><b>Cost</b>: 100,000 (of each) Faction Coins</p>
 <p><b>Unlock Requirements</b>: Mercenary Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of coins you gained in a single game.</p>
-<p><b>Formula</b>: floor(5 * log10(1 + x)), where x is your Coins Gained (Max) stat.</p>
-<p><b>Notes</b>: Not affected by Demon Challenge 1 (Since its a 'Badge', not a Heritage)
+<p><b>Formula</b>: floor(5 * log10(1 + x))%, where x is your Coins Gained (Max) stat.</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
-<p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
+<p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
 <p><b>Requirements</b>: Dragons Champion Trophy</p>
-<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-<p><b>Formula</b>:  (0.55 * x ^ 0.55)%, x is hours affiliated with dragon at all R's</p>
+<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is time in seconds affiliated with Dragons (This Reincarnation).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
-<p><b>Note</b>: Not available till R125</p>
 <p><b>Cost</b>: 1 Ud (1e36) Angel and Undead Coins</p>
 <p><b>Requirements</b>: Archon Champion Trophy<p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Note</b>: Not available till R125</p>
 <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
 <p><b>Requirements</b>: Djinn Champion Trophy<p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation in seconds.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.65)%, where x is Limited Wish activity time in this Reincarnation in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
-<p><b>Note</b>: Not available till R125</p>
 <p><b>Cost</b>: 1 Ud (1e36) Elven and Goblin Coins</p>
 <p><b>Requirements</b>: Makers Champion Trophy<p>
-<p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
-<p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75), where x is Tax Collections cast this game.</p>
+<p><b>Effect</b>: Multiplicatively increase maximum mana based on Tax Collections cast in this game.</p>
+<p><b>Formula</b>: (2 * log10(1 + x) ^ 1.75)%, where x is Tax Collections cast this game.</p>
 <hr>
 <p>Advanced Heritages appear in R116+, and can be unlocked for all but the Elite Prestige and Mercenary factions.</p>
 <p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/TrophyPage/#Master "> Master Trophy</a></b> of that faction, which requires buying the 16 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, Alliance and Union), while having Level 30 in their respective lineage, and then get 8 hours of spell activity time this game in their respective spell.</p>
@@ -119,13 +115,13 @@
 <p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>
 <p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time (This Game) of Fairy Chanting.<p>
 <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
-<p><b>Formula</b>: (2 * x ^ 0.8), where x is amount of Farms, Inns and Blacksmiths you own.</p>
+<p><b>Formula</b>: +(2 * x ^ 0.8), where x is amount of Farms, Inns and Blacksmiths you own.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
 <p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.<p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
-<p><b>Formula</b>: (0.25 * ln(1 + x) ^ 2), where x is amount of clicks this reincarnation.</p>
+<p><b>Formula</b>: (0.25 * ln(1 + x) ^ 2)%, where x is amount of clicks this reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Angel Coins</p>
@@ -167,7 +163,7 @@
 <p><b>Cost</b>: 1 Sp (1e24) Fairy and Undead Coins</p>
 <p><b>Requirements</b>: Faceless Master trophy and 8 hours activity time (This Game) of Brainwave.<p>
 <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
-<p><b>Formula</b>: (2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
+<p><b>Formula</b>: +(2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>
