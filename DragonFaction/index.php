@@ -150,7 +150,7 @@
         <p><b>Requirements</b>: Dragons Champion Trophy</p>
         <p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
-		<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is time in seconds affiliated with Dragons (This Reincarnation).</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with dragon (This R).</p>
         <hr>
         <p><b>Dragons Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
@@ -161,7 +161,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den</b></p>
         <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)</p>
+        <p><b>Formula</b>: (0.065 * (ln(1 + (x / 2) + y)) ^ 3.65) where x is faction coins (This Game) and y is Faction Coins (This R)</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
         <p><b>Cost</b>: 10 Nod (1e61)</p>
         <p><b>Effect</b>: Unlocks Wyrm's Den Unique Building</p>

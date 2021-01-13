@@ -85,7 +85,7 @@
 <p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
 <p><b>Requirements</b>: Dragons Champion Trophy</p>
 <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
-<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is time in seconds affiliated with Dragons (This Reincarnation).</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with dragon (This R).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
 <p><b>Cost</b>: 1 Ud (1e36) Angel and Undead Coins</p>

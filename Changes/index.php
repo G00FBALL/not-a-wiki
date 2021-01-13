@@ -1636,6 +1636,12 @@
 	<p><b>Old Formula</b>: (0.5 * x)%, where x is faction coins find chance.</p>
 	<p><b>New Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is faction coins find chance.</p>
 <br/>
+<p><b>Dragon Heritage</b></p>
+	<p><b>Old Effect</b>: Increase assistants production based on time spent affiliated with Dragons all game.</p>
+	<p><b>Old Formula</b>: (0.55 * x ^ 0.55)%, x is time in seconds affiliated with dragon (All Game).</p>
+	<p><b>Old Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
+	<p><b>Old Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with dragon (This R).</p>
+<br/>
 <p><b>Spell Cataclysm</b></p>
 	<p><b>Old Effect</b>: Increases maximum mana by 75%.</p>
 	<p><b>New Effect</b>: Increases maximum mana by 25%.</p>
