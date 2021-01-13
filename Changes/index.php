@@ -1638,9 +1638,9 @@
 <br/>
 <p><b>Dragon Heritage</b></p>
 	<p><b>Old Effect</b>: Increase assistants production based on time spent affiliated with Dragons all game.</p>
-	<p><b>Old Formula</b>: (0.55 * x ^ 0.55)%, x is hours affiliated with dragon (All Game).</p>
+	<p><b>Old Formula</b>: (0.55 * x ^ 0.55)%, x is time in seconds affiliated with dragon (All Game).</p>
 	<p><b>Old Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
-	<p><b>Old Formula</b>: (0.3 * x ^ 0.7)%, x is hours affiliated with dragon (This R).</p>
+	<p><b>Old Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with dragon (This R).</p>
 <br/>
 <p><b>Spell Cataclysm</b></p>
 	<p><b>Old Effect</b>: Increases maximum mana by 75%.</p>
