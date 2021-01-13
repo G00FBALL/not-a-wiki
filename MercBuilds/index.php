@@ -9,7 +9,6 @@
     <p><b>Note</b>: You will need to manually select the alignment and bloodline.</p>
     <p><b>Templates</b> can be found at the top of each build table (if available).</p>
     <p><b>Note</b>: Most Templates are in order that the game save them in. Also when loading Templates the game will buy the upgrades you can afford first and you may need to load Templates several times to buy all upgrades.</p>
-    <p><b>Note</b>: All Obsolete builds moved to  <b><a target="_blank" href="http://musicfamily.org/realm/Obsolete/">Obsolete</b></a> page</p>
     <div class="shlisting">
         <p><b>Production</b></p>
         <div class="category">
