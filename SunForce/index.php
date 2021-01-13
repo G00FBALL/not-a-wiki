@@ -44,7 +44,6 @@
 <p><b>Description</b>: Planets aligning seem to affect your realm in different ways...</p>
 <p><b>Requirements</b>: R100+</p>
 <p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
-<p><b>Note</b>: Restarting the game is required to increase the counter</p>
 <p><b>Effect</b>: Gives upgrade with the same name</p>
 <p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
 <p><b>Upgrade Cost</b>: 100 Qi (1e20)</p>
