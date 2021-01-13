@@ -249,8 +249,10 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EnergyRecharge.png" align="middle"> Energy Recharge</b></p>
 				<p><b>Mercenary Template</b>: AR2</p>
 				<p><b>Cost</b>: 10 NoQag (1e151)</p>
-				<p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation. Also increase Precognition base and scaling.</p>
+				<p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation.</p>
 				<p><b>Formula</b>: (0.25 * x ^ 0.5), where x is time spent as Order this R in seconds.</p>
+				<p><b>Effect</b>: Also increase Precognition base and scaling.</p>
+				<p><b>Precognition Formula</b>: (1.25 * ln(1 + x) ^ 1.5), where x is mana produced in this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/CosmicResonance.png" align="middle"> Cosmic Resonance</b></p>
 				<p><b>Mercenary Template</b>: AR3</p>
