@@ -146,11 +146,11 @@
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects.</p>
         <p><b>Formula</b>: (100 * (x ^ 2)) where x is amount of active Dragon's Breath effects.</p>
         <hr>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Drow Heritage" align="middle"><b> Dragon Heritage</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
         <p><b>Requirements</b>: Dragons Champion Trophy</p>
-        <p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
-        <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons (All Game).</p>
-        <p><b>Formula</b>: (0.55 * x ^ 0.55)%, x is hours affiliated with dragon at all R's.</p>
+        <p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
+        <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is hours affiliated with dragon (This R).</p>
         <hr>
         <p><b>Dragons Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
@@ -161,7 +161,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den</b></p>
         <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)</p>
+        <p><b>Formula</b>: (0.065 * (ln(1 + (x / 2) + y)) ^ 3.65) where x is faction coins (This Game) and y is Faction Coins (This R)</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
         <p><b>Cost</b>: 10 Nod (1.e61)</p>
         <p><b>Effect</b>: Unlocks Wyrm's Den Unique Building</p>

@@ -83,26 +83,23 @@
 <p><b>Notes</b>: Not affected by Demon Challenge 1 (Since its a 'Badge', not a Heritage)
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DragonHeritageFactionUpgrade.png" alt="Dragon Heritage" align="middle"><b> Dragon Heritage</b></p>
-<p><b>Cost</b>: 400b (4e11) Dwarven and Drow coins</p>
+<p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
 <p><b>Requirements</b>: Dragons Champion Trophy</p>
-<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-<p><b>Formula</b>:  (0.55 * x ^ 0.55)%, x is hours affiliated with dragon at all R's</p>
+<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
+<p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is hours affiliated with dragon (This R).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonHeritage.png" align="middle"> Archon Heritage</b></p>
-<p><b>Note</b>: Not available till R125</p>
 <p><b>Cost</b>: 1 Ud (1e36) Angel and Undead Coins</p>
 <p><b>Requirements</b>: Archon Champion Trophy<p>
 <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
-<p><b>Note</b>: Not available till R125</p>
 <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
 <p><b>Requirements</b>: Djinn Champion Trophy<p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
 <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersHeritage.png" align="middle"> Makers Heritage</b></p>
-<p><b>Note</b>: Not available till R125</p>
 <p><b>Cost</b>: 1 Ud (1e36) Elven and Goblin Coins</p>
 <p><b>Requirements</b>: Makers Champion Trophy<p>
 <p><b>Effect</b>: Increase maximum mana based on Tax Collections cast in this game.</p>
