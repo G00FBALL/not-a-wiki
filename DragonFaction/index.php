@@ -150,7 +150,7 @@
         <p><b>Requirements</b>: Dragons Champion Trophy</p>
         <p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with dragon (This R).</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with Dragons (This Reincarnation).</p>
         <hr>
         <p><b>Dragons Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
