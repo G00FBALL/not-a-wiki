@@ -12,20 +12,20 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png" align="middle"> First Stone Fragment</b></p>
         <p><b>Clue</b>: Click to Carve.</p>
         <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Elf</p>
-        <p><b>Chance</b>: (log10(1 + x) ^ 3) / 20000 (20K))%, where x is clicks this game</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Elf</p>
+        <p><b>Chance</b>: (log10(1 + x) ^ 3 / 20,000)%, where x is clicks this game</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondStoneFragment.png" align="middle"> Second Stone Fragment</b></p>
         <p><b>Clue</b>: Stone to stone, buildings to buildings.</p>
         <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Druid</p>
-        <p><b>Chance</b>: (x / 20000000 (20M))%, where x is amount of buildings.</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Druid</p>
+        <p><b>Chance</b>: (x / 20,000,000 (20 M))%, where x is amount of buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdStoneFragment.png" align="middle"> Third Stone Fragment</b></p>
         <p><b>Clue</b>: Might be collected with taxes.</p>
         <p><b>Description</b>: Made from stone so ancient it is unknown to the current world. Two parts seem to be missing.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Goblin</p>
-        <p><b>Chance</b>: (log10(1 + x) ^ 3) / 125000 (125K))%, where x is Tax Collections this game.</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Goblin</p>
+        <p><b>Chance</b>: (log10(1 + x) ^ 3 / 125,000)%, where x is Tax Collections this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersMask.png" align="middle"> Makers Mask</b></p>
         <p><b>Requirement</b>: Find all 3 Stone Fragments.</p>
