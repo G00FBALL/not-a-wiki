@@ -30,7 +30,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"> Djinn Mask</b></p>
         <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
         <p><b>Cost</b>: 10 Dqag (1e130)</p>
-        <p><b>Effect</b>: Increase Maximum Mana by 150%.</p>
+        <p><b>Effect</b>: Multiplicatively increase Maximum Mana by 150%.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png" align="middle"> Djinn Quest</b></p>
         <p><b>Requirements</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this Reincarnation.</p>
@@ -56,7 +56,7 @@
         <p><b>2</b>: All spells durations count more</p>
         <p><b>3</b>: Increase Faction Coin find chance</p>
         <p><b>4</b>: Increase Maximum Mana</p>
-        <p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * (y ^ 0.45)), where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
+        <p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * (y ^ 0.45))%, where x is Limited Wish activity time this game in seconds and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png" align="middle"> <b>Persistent Entropy</b></p>
@@ -78,17 +78,17 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>
         <p><b>Cost</b>: 1 NoQag (1e150)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on spells of your current alignments cast in this game.</p>
-        <p><b>Formula</b>: (25 * ln(1 + x) ^ 2.5), where x is alignments spells cast in this game.</p>
+        <p><b>Formula</b>: (25 * ln(1 + x) ^ 2.5)%, where x is alignments spells cast in this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenWill.png" align="middle"> Forbidden Will</b></p>
         <p><b>Cost</b>: 10 NoQag (1e151)</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Faction Coins found in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2), where x is highest amount of Faction Coins found in this Reincarnation.</p>
+        <p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is highest amount of Faction Coins found in this Reincarnation.</p>
         <br>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalCircuit.png" align="middle"> Magical Circuit</b></p>
         <p><b>Cost</b>: 100 NoQag (1e152)</p>
-        <p><b>Effect</b>: Increase Maximum Mana based on researches selected.</p>
-        <p><b>Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)</p>
+        <p><b>Effect</b>: Multiplicatively increase Maximum Mana based on researches selected.</p>
+        <p><b>Formula</b>: sum(sumOfDigits(bought research number)) (x ^ 1.15)%</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnFriendshipPact.png" align="middle">  Djinn Friendship Pact</b></p>
@@ -98,17 +98,17 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AuraofMagic.png" align="middle"> Aura of Magic</b></p>
         <p><b>Cost</b>: 100 UQig (1e158)</p>
         <p><b>Effect</b>: Increase non-unique building production based on mana produced this game.</p>
-        <p><b>Formula</b>: (0.325 * x ^ 0.325), where x is mana produced this game.</p>
+        <p><b>Formula</b>: (0.325 * x ^ 0.325)%, where x is mana produced this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiritualBindings.png" align="middle"> Spiritual Bindings</b></p>
         <p><b>Cost</b>: 1 DQig (1e159)</p>
-        <p><b>Effect</b>: Increase assistants based on time spent offline.</p>
-        <p><b>Formula</b>: (0.65 * x ^ 0.5), where x is time spent offline this game in seconds.</p>
+        <p><b>Effect</b>: Multiplicatively increase assistants based on time spent offline.</p>
+        <p><b>Formula</b>: (0.65 * x ^ 0.5)%, where x is time spent offline this game in seconds.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/WildSurge.png" align="middle"> Wild Surge</b></p>
         <p><b>Cost</b>: 10 DQig (1e160)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
-        <p><b>Formula</b>: (0.75 * x ^ 0.75), where x is the duration of your longest spell.</p>
+        <p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the duration of your longest spell.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnAlliance.png" align="middle">  Djinn Alliance</b></p>
@@ -123,19 +123,19 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlashyStorm.png" align="middle"> Flashy Storm</b></p>
         <p><b>Cost</b>: 100 TQig (1e164)</p>
         <p><b>Effect</b>: Increase the production of even-tier buildings on odd days of the month, odd-tier buildings on even days.</p>
-        <p><b>Formula</b>: (ln(1 + x) ^ 2.5), where x is assistants owned.</p>
+        <p><b>Formula</b>: (ln(1 + x) ^ 2.5)%, where x is assistants owned.</p>
         <p><b>Note</b>: The bonus is based on assistants owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaCreatures.png" align="middle"> Mana Creatures</b></p>
         <p><b>Cost</b>: 1 QaQig (1e165)</p>
-        <p><b>Effect</b>: Increase assistants based on the highest mana produced in this Reincarnation.</p>
-        <p><b>Formula</b>: (1.8 * log10(1 + x) ^ 1.8), where x is highest mana produced in a single game this reincarnation.</p>
+        <p><b>Effect</b>: Multiplicatively increase assistants based on the highest mana produced in this Reincarnation.</p>
+        <p><b>Formula</b>: (1.8 * log10(1 + x) ^ 1.8)%, where x is highest mana produced in a single game this reincarnation.</p>
         <hr>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnHeritage.png" align="middle"> Djinn Heritage</b></p>
         <p><b>Requirements</b>: Djinn Champion Trophy</p>
         <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
         <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.3 * x ^ 0.65), where x is Limited Wish activity time in this Reincarnation in seconds.</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.65)%, where x is Limited Wish activity time in this Reincarnation in seconds.</p>
         <p><b>Note</b>: Not available till R125</p>
         <hr>
         <p><b>R130+</b></p>
@@ -153,7 +153,7 @@
         <p><b>Unique Building</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></p>
         <p>Upgrade Slave Pens/Warrior Barracks/Deep Mines to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: Formula: (10 * x ^ 0.5), where x is spells cast this R.</p>
+        <p><b>Formula</b>: Formula: (10 * x ^ 0.5)%, where x is spells cast this R.</p>
         <p><b>Requirement</b>: Pavilion Quest.</p>
         <p><b>Effect</b>: Grants access to Faction Union.</p>
         <br/>
@@ -173,12 +173,12 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BluePowder.png" align="middle"> Blue Powder</b></p>
         <p><b>Requirements</b>: Djinn Union</p>
         <p><b>Cost</b>: 1 SxQig (1e171)</p>
-        <p><b>Effect</b>: Increase mana regeneration based on Royal Exchanges made.</p>
-        <p><b>Formula</b>: (0.3 * x ^ 0.8), where x is Royal Exchanges made.</p>
+        <p><b>Effect</b>: Multiplicatively increase mana regeneration based on Royal Exchanges made.</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.8)%, where x is Royal Exchanges made.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AcademicProdigy.png" align="middle"> Academic Prodigy</b></p>
         <p><b>Requirements</b>: Djinn Union</p>
         <p><b>Cost</b>: 10 SxQig (1e172)</p>
         <p><b>Effect</b>: Tax Collections are worth more seconds based on trophies unlocked.</p>
-        <p><b>Formula</b>: (5 * x ^ 0.5), where x is trophies unlocked.</p>
+        <p><b>Formula</b>: (5 * x ^ 0.5)%, where x is trophies unlocked.</p>
         <?php include "../scripts/footer.html"; ?>
