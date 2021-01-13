@@ -12,19 +12,19 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
         <p><b>Clue</b>: This one seems to require a lot of magical renewance.</p>
         <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Angel</p>
-        <p><b>Chance</b>: (log10(1 + x) ^ 3 / 100000 (100K))%, where x is mana regen.</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Angel</p>
+        <p><b>Chance</b>: (log10(1 + x) ^ 3 / 100,000)%, where x is mana regen.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png" align="middle"> Second Iron Fragment</b></p>
         <p><b>Clue</b>: Found via extensive Royal Trading mandates.</p>
         <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Titan</p>
-        <p><b>Chance</b>: (x ^ 3 / 5000000000 (5B))%, where x is royal exchange bonus.</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Titan</p>
+        <p><b>Chance</b>: (x ^ 3 / 5,000,000,000 (5 B))%, where x is royal exchange bonus.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdIronFragment.png" align="middle"> Third Iron Fragment</b></p>
         <p><b>Clue</b>: Chances to find increase while not actively searching.</p>
         <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Undead</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Undead</p>
         <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonMask.png" align="middle"> Archon Mask</b></p>
@@ -71,7 +71,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnergyRecharge.png" align="middle"> Energy Recharge</b></p>
         <p><b>Cost</b>: 10 NoQag (1e151)</p>
         <p><b>Effect</b>: Maximum Mana counts more based on the amount of time spent as Order in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.25 * x ^ 0.5), where x is time spent as Order this R in seconds.</p>
+        <p><b>Formula</b>: (0.25 * x ^ 0.5)%, where x is time spent as Order this R in seconds.</p>
 		<p><b>Effect</b>: Also increase Precognition base and scaling.</p>
 		<p><b>Precognition Formula</b>: (1.25 * ln(1 + x) ^ 1.5)%, where x is mana produced in this game.</p>
         <br/>
@@ -124,7 +124,6 @@
         <p><b>Requirements</b>: Archon Champion Trophy</p>
         <p><b>Cost</b>: 1 Ud (1e36) Angel and Undead Coins</p>
         <p><b>Effect</b>: Buildings, Assistants, Royal Exchanges, Spells cast and Clicks count more, by 10%.</p>
-        <p><b>Note</b>: Not available till R125</p>
         <hr>
         <p><b>R130+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusQuest.png" align="middle"> Nexus Quest</b></p>

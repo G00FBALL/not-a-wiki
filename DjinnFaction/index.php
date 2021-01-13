@@ -12,20 +12,20 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png" align="middle"> First Crystal Fragment</b></p>
         <p><b>Clue</b>: Assistants will lead the way.</p>
         <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Fairy</p>
-        <p><b>Chance</b>: (x / 100,000,000,000 (100B))%, where x is assistant count (including temporary assistants).</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Fairy</p>
+        <p><b>Chance</b>: (x / 100,000,000,000 (100 B))%, where x is assistant count (including temporary assistants).</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecondCrystalFragment.png" align="middle"> Second Crystal Fragment</b></p>
         <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
         <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Faceless</p>
-        <p><b>Chance</b>: (log10(1 + x) ^ 3 / 2500000 (2.5M))%, where x is faction coins this game.</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Faceless</p>
+        <p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5 M))%, where x is faction coins this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png" align="middle"> Third Crystal Fragment</b></p>
         <p><b>Clue</b>: Also acts as a spell catalyst.</p>
         <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
-        <p><b>Requirements</b>: R125, 12,500+ Excavations, Play as Demon</p>
-        <p><b>Chance</b>: (x / 50000000 (50M))%, where x is evil spells this R.</p>
+        <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Demon</p>
+        <p><b>Chance</b>: (x / 50,000,000 (50 M))%, where x is evil spells this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnMask.png" align="middle"> Djinn Mask</b></p>
         <p><b>Requirement</b>: Find all 3 Crystal Fragments.</p>
@@ -136,7 +136,6 @@
         <p><b>Cost</b>: 1 Ud (1e36) Fairy and Demon Coins</p>
         <p><b>Effect</b>: Increase the production of Unique Buildings based on Limited Wish activity time in this Reincarnation.</p>
         <p><b>Formula</b>: (0.3 * x ^ 0.65)%, where x is Limited Wish activity time in this Reincarnation in seconds.</p>
-        <p><b>Note</b>: Not available till R125</p>
         <hr>
         <p><b>R130+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionQuest.png" align="middle"> Pavilion Quest</b></p>
