@@ -12,9 +12,10 @@
     <p><b>Note</b>: Levels only need to be bought once.</p>
     <p><b>Note</b>: (R116+) When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
     <p><b>Formula</b>: (1 + 0.3 * level)</p>
+	<hr>
     <div class="shlisting">
         <div class="shelementwhole" style="padding-left: 20px">
-            <h6 onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
+            <h6 id="LineageCost" onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="black">Lineage Level Cost</font></a></b></h6>
             <div class="autohide">
                 <p>The base costs for lineages are 2.5 B (2.5e9) Faction Coins and each level costs 10 times more. </p>
                 <p><b>Lineage Cost Formula</b>: 25 * 10 ^ (8 + L + (0.5 * max(0 ; L - 30)) + (0.5 * max(0 ; L - 60)) + (0.5 * max(0 ; L - 90)) + (0.5 * max(0 ; L - 120))) where L is current lineage level.</p>

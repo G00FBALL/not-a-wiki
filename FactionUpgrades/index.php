@@ -380,8 +380,8 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" align="middle"> Unholy Rituals</b></p>
 				<p><b>Mercenary Template</b>: UD4</p>
 				<p><b>Cost</b>: 500 B (5E11)</p>
-				<p><b>Effect</b>: Increase offline production based on your total time spent being offline.</p>
-				<p><b>Formula</b>: (0.3 * (x / 3600) ^ 0.7)%, where x is your Time Spent Offline (Total) stat in seconds.</p>
+				<p><b>Effect</b>: Increase offline production based on time spent being offline in this Reincarnation.</p>
+				<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your offline time this Reincarnation in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" align="middle"> Corpse Supply</b></p>
 				<p><b>Mercenary Template</b>: UD5</p>
