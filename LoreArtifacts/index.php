@@ -337,7 +337,6 @@
 		<p><b>Effect</b>: Lowers Lineage cost exponent based on Reincarnations made.</p>
 		<p><b>Formula</b>: (0.01 * R), R is Reincarnations made (NOT affected by invisible bonuses to R count).</p>
 		<p><b>Cost</b>: 1 Novg (1e90), A3+ Free</p>
-        <p><b>Cost</b>: 1 Novg (1e90)</p>
         <hr>
         <p><img src=http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png align=middle> <b>Silk Cloth</b></p>
 		<p><b>Clue</b>: Found in the Swarming Towers.</p>

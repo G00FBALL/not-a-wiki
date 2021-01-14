@@ -479,7 +479,7 @@
     <p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time spent in this Reincarnation in seconds.</p>
     <p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
     				" coords="63,343,116,396" shape="0">
-                    <area target="_blank" research="
+                    <area target="_blank" href="http://musicfamily.org/realm/Sunforce" research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png' align='middle'> <b>Dawnstone</b></p>
     <p><b>Clue</b>: Relic of the Dawn hours.</p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
@@ -487,9 +487,9 @@
     <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
     <p><b>Effect</b>: Grants different effects based on time of the day.</p>
     <p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
-    <p><b>Note</b>: Click image for details "href="http://musicfamily.org/realm/SunForce/ </p>
+    <p><b>Note</b>: Click image for details</p>
     				" coords="123,343,176,396" shape="0">
-                    <area target="_blank" research="
+                    <area target="_blank" href="http://musicfamily.org/realm/Sunforce" research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png' align='middle'> <b>Duskstone</b></p>
     <p><b>Clue</b>: Relic of the Dusk hours.</p>
     <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
@@ -497,9 +497,9 @@
     <p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
     <p><b>Effect</b>: Grants different effects based on time of the day.</p>
     <p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
-    <p><b>Note</b>: Click image for details "href="http://musicfamily.org/realm/SunForce/ </p>
+    <p><b>Note</b>: Click image for details</p>
     				" coords="183,343,236,396" shape="0">
-                    <area research="
+                    <area target="_blank" href="http://musicfamily.org/realm/Lineages/#LineageCost" research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png' align='middle'> <b>Ancient Heirloom</b></p>
     <p><b>Clue</b>: Relic of the Lineage.</p>
 	<p><b>Description</b>: Passed down countless generations.</p>
@@ -509,7 +509,7 @@
 	<p><b>Effect</b>: Reduces the cost of Lineages Levels (except for the highest one).</p>
     <p><b>Formula</b>: (Lineage Level Cost ^ 0.9).</p>
     <p><b>Cost</b>: 10 Dtg (1e100), A2+ Free</p>
-	<p><b>Note</b>: Click image for details "href="http://musicfamily.org/realm/Lineages/#LineageCost </p>
+	<p><b>Note</b>: Click image for details</p>
     				" coords="243,343,296,396" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPart2.png' align='middle'> <b>Know Your Enemy, Part II</b></p>
@@ -553,7 +553,7 @@
     <p><b>Effect</b>: Increase Faction Coin find chance by a multiplicative 200%.</p>
     <p><b>Cost</b>: 1 Sx (1e21), A3+ Free</p>
     				" coords="63,403,116,456" shape="0">
-                    <area research="
+                    <area target="_blank" href="http://musicfamily.org/realm/Lineages/#LineageCost" research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/AncestralHourglassArtifact.png' align='middle'> <b>Ancestral Hourglass</b></p>
     <p><b>Clue</b>: Really, raise your chances.</p>
     <p><b>Description</b>: The silver sands contained within seem to never stop flowing.</p>
@@ -563,7 +563,7 @@
     <p><b>Effect</b>: Lowers Lineage cost exponent based on Reincarnations made.</p>
     <p><b>Formula</b>: (0.01 * R), R is Reincarnations made (NOT affected by invisible bonuses to R count).</p>
 	<p><b>Cost</b>: 1 Novg (1e90), A3+ Free</p>
-	<p><b>Note</b>: Click image for details "href="http://musicfamily.org/realm/Lineages/#LineageCost </p>
+	<p><b>Note</b>: Click image for details</p>
     				" coords="123,403,176,456" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/SilkClothArtifact.png' align='middle'> <b>Silk Cloth</b></p>
