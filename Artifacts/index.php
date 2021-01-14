@@ -44,7 +44,7 @@
                 <map name="QuestArtifacts-map">
                     <area research="<img src='http://musicfamily.org/realm/Factions/picks/AncientStoneSlab1.png' alt=Artifacts align='middle'><b> Ancient Stoneslab 1</b></p>
     <p><b>Description</b>: We discovered an ancient stone slab written in old scriptures. It appears to say something about Halls of Legends.</p>
-    <p><b>Requirements</b>: 5th Excavation</p></p>
+    <p><b>Requirements</b>: 5th Excavation</p>
     <p><b>Effect</b>: 1st clue required to unlock the Titan Alliance.</p>
     " coords="5,45,61,100" shape="rect">
                     <area research="<img src='http://musicfamily.org/realm/Factions/picks/FossilizedPieceofBark1.png' alt=Artifacts align='middle'><b> Fossilized Piece of Bark 1</b></p>
@@ -134,7 +134,7 @@
     <p><b>Clue</b>: Chances to find increase while not actively searching.</p>
     <p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
     <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Undead</p>
-    <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus precentage.</p>
+    <p><b>Chance</b>: ((log10(1 + x) - 2) ^ 3 / 500,000)%, where x is offline bonus.</p>
     " coords="69,172,125,229" shape="0">
                     <area research="<img src='http://musicfamily.org/realm/Factions/picks/FirstCrystalFragment.png' align='middle'><b> First Crystal Fragment</b></p>
     <p><b>Clue</b>: Assistants will lead the way.</p>
@@ -146,7 +146,7 @@
     <p><b>Clue</b>: Are Faction Coins attracted to glass?</p>
     <p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
     <p><b>Requirements</b>: R125+, 12,500+ Excavations, Play as Faceless</p>
-    <p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5M))%, where x is faction coins this game.</p>
+    <p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5 M))%, where x is Faction Coins this game.</p>
     " coords="197,172,254,229" shape="0">
                     <area research="<img src='http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png' align='middle'><b> Third Crystal Fragment</b></p>
     <p><b>Clue</b>: Also acts as a spell catalyst.</p>
@@ -175,7 +175,7 @@
                     <area research="<img src='http://musicfamily.org/realm/Factions/picks/ObsidianCrown.png' align='middle'><b> Obsidian Crown</b></p>
     <p><b>Clue</b>: Only the wisest turns over the same stone twice. Or more.</p>
     <p><b>Description</b>: The legendary Black Crown of the Mercenary Lord. Some words are engraved into the inner circle at its base: &quot;Aran en Ilya, Silas en Quenta&quot;.</p>
-    <p><b>Requirements</b>: R170+, Play as Mercenary, 10 excavation resets (This game)</p>
+    <p><b>Requirements</b>: R170+, play as Mercenary, 10 excavation resets (This game)</p>
     <p><b>Effect</b>: Unlocks Mercenary Union Contract</p>
     <p><b>Chance</b>: ((x - 10) / 1,000)%, x is the number of free and ruby excavation resets (This game)</p>
     " coords="68,236,124,292" shape="rect">
@@ -183,7 +183,7 @@
     <p><b>Clue</b>: Research it!</p>
     <p><b>Description</b>: Intricate leylines of mana cover the surface of this stone, moving and flailing endlessly to create ever-different patterns.</p>
     <p><b>Requirement</b>: R175+</p>
-    <p><b>Chance</b>: (x ^ 2 / 100,000,000,000 (100B))%, where x is spent Research budget.</p>
+    <p><b>Chance</b>: (x ^ 2 / 100,000,000,000 (100 B))%, where x is spent Research budget.</p>
     <p><b>Effect</b>: Unlocks Research Facility upgrades</p>
     <p><b>Note</b>: Each Facility needs their respective artifact and this artifact to get their respective upgrade.</p>
     " coords="132,237,188,292" shape="rect">
@@ -229,7 +229,6 @@
     <p><b>Effect</b>: Multiplicatively increases Mana Regeneration by 2.5%.</p>
     <p><b>Chance</b>: (x / 15,000)%, where x is your Maximum Mana.</p>
     <p><b>Cost</b>: 1 QaVg (1e75), A1+: Free</p>
-    <p><b>Alignment</b>: Any</p>
     				" coords="243,43,296,96" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/PinkCarrot.png' alt=Smiley face align='middle'> <b>Pink Carrot</b></p>
@@ -405,7 +404,6 @@
     <p><b>Description</b>: This huge fang can barely fit in the hands of a Titan.</p>
     <p><b>Requirement</b>: R50+, play as Dragons</p>
     <p><b>Chance</b>: (x / 400,000)%, where x is the amount of Iron Strongholds you own.</p>
-    <p><b>Alignment</b>: Neutral faction, Dragons</p>
     				" coords="63,283,116,336" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/DragonSoulArtifact.png' alt=Dragon Soul align='middle'> <b>Dragon Soul</b></p>
@@ -413,7 +411,6 @@
     <p><b>Description</b>: The extracted soul from an ancient dragon, wields the power to end the world in an instant. Also makes a good soup ingredient.</p>
     <p><b>Requirement</b>: R50+, play as Dragons, have 5 different Dragon Breath effects active simultaneously.</p>
     <p><b>Chance</b>: (x / 200,000)%, where x is Dragon's Breath casts this game.</p>
-    <p><b>Alignment</b>: Neutral faction, Dragons</p>
     				" coords="123,283,176,336" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/VanillaFlavorJuice.png' alt=Smiley face align='middle'> <b>Vanilla Flavor Juice</b></p>
@@ -636,7 +633,7 @@
     <p><b>Clue</b>: It requires a lot of beard samples to get the perfect hair.</p>
     <p><b>Description</b>: Hopefully coming from a real dwarven beard.</p>
     <p><b>Requirement</b>: R116+, 2000+ Excavations, Play as Dwarf, Stone Tankard and Dwarven Bow artifacts.</p>
-    <p><b>Chance</b>: (x / 1,000,000,000 (1 B))%, where x is assistant count (including temporary assistants).</p>
+    <p><b>Chance</b>: (x / 1,000,000,000 (1 B))%, where x is the amount of assistant you own (including temporary assistants).</p>
     				" coords="303,463,356,516" shape="0">
                     <area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/PoisonVial.png' align='middle'> <b>Poison Vial</b></p>
@@ -784,13 +781,13 @@
 	<p><b>Clue</b>: Mana Wings!</p>
 	<p><b>Description</b>: And this is why Fairies don't need torches.</p>
 	<p><b>Requirement</b>: R220+, 10,000+ excavations, play as Fairy</p>
-	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is mana produced this game</p></p>
+	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is mana produced this game</p>
 	<p><b>Fairy Set 2nd Effect</b>: Multiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
 	<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
 					" coords="363,583,416,636" shape="rect">
 					<area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/SylvanMirrorArtifact.png' align='middle'> <b>Sylvan Mirror</b></p>
-	<p><b>Hint</b>: Pay a barber with Faction Coins.</p>
+	<p><b>Clue</b>: Pay a barber with Faction Coins.</p>
 	<p><b>Description</b>: An Elf with messy hair is not an Elf, by their own laws.</p>
 	<p><b>Requirement</b>: R220+, 10,000+ excavations, play as Elf</p>
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is your Faction Coin find chance.</p>
