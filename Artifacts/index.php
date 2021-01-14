@@ -479,7 +479,7 @@
     <p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time spent in this Reincarnation in seconds.</p>
     <p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
     				" coords="63,343,116,396" shape="0">
-                    <area target="_blank" href="http://musicfamily.org/realm/Sunforce" research="
+                    <area target="_blank" href="http://musicfamily.org/realm/SunForce/" research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png' align='middle'> <b>Dawnstone</b></p>
     <p><b>Clue</b>: Relic of the Dawn hours.</p>
     <p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
@@ -489,7 +489,7 @@
     <p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
     <p><b>Note</b>: Click image for details</p>
     				" coords="123,343,176,396" shape="0">
-                    <area target="_blank" href="http://musicfamily.org/realm/Sunforce" research="
+                    <area target="_blank" href="http://musicfamily.org/realm/SunForce/" research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/DuskstoneArtifact.png' align='middle'> <b>Duskstone</b></p>
     <p><b>Clue</b>: Relic of the Dusk hours.</p>
     <p><b>Description</b>: Only found during sunset hours. Absorbs light in a small radius.</p>
