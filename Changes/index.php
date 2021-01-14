@@ -575,9 +575,9 @@
         <p><b>New Effect</b>: Increase Mana Regeneration based on the highest amount of Necropolises you built in this Reincarnation (formula unchanged).</p>
 <br/>
 <p><b>UD4</b> (Unholy Rituals)</p>
-        <p><b>Effect</b>: Increase offline production based on your total time spent being offline.</p>
-        <p><b>Old Formula</b>: (round((x / 144) ^ 0.75))%, where x is your Time Spent Offline (Total) stat in seconds.</p>
-        <p><b>New Formula</b>: (0.3 * (x / 3600) ^ 0.7)%, where x is your Time Spent Offline (Total) stat in seconds.</p>
+        <p><b>Effect</b>: Increase offline production based on time spent being offline in this Reincarnation.</p>
+        <p><b>Old Formula</b>: (round((x / 144) ^ 0.75))%, where x is your offline time this Reincarnation in seconds.</p>
+        <p><b>New Formula</b>: (0.3 * x ^ 0.7)%, where x is your offline time this Reincarnation in seconds.</p>
 <br/>
 <p><b>UD5</b> (Corpse Supply)</p>
         <p><b>Old Effect</b>: You gain additional assistants based on the amount of Necropolises you own.</p>
