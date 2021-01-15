@@ -68,7 +68,7 @@
 	<hr>
     <p><b>E145</b> - For All Factions</p>
 	<p><b>Research Name</b>: Royal Demand</p>
-  <p><b>Hint</b>: Collect those taxes!</p>
+	<p><b>Hint</b>: Collect those taxes!</p>
 	<p><b>Requirement</b>: 50,000 Tax Collections (This R), Research Cultivation (C10) & Woodcraft (C105)</p>
 	<p><b>Cost</b>: 17.07 Noqag (1.707E151)</p>
 	<p><b>Effect</b>: Increase Tax Collection reward by 30 seconds of production.</p>
