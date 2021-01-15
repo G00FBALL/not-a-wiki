@@ -4,16 +4,16 @@
 
 <head>
     <?php include "../scripts/header.html"; ?>
-        <h6><a href="/realm/ResearchFacilities/"><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6></a>
-        <h6>Economics Facilities</h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Economicsr.png" alt="Economics" align="middle"> <b>Economics</b></p>
-        <p>Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.</p>
-        <p><b>Increases</B>: <b>Goblin</B>, <b>Druid</B>, and <b>Dwarven</B> production.</p>
-        <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.</p>
-        <br/>
-        <p><b>Research Point Production</b></p>
-        <p><b>Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
-        <br/>
+	<h6><a href="/realm/ResearchFacilities/"><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6></a>
+	<h6>Economics Facilities</h6>
+	<p><img src="http://musicfamily.org/realm/Factions/picks/Economicsr.png" alt="Economics" align="middle"> <b>Economics</b></p>
+	<p>Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.</p>
+	<p><b>Increases</B>: <b>Goblin</B>, <b>Druid</B>, and <b>Dwarven</B> production.</p>
+	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.</p>
+	<br/>
+	<p><b>Research Point Production</b></p>
+	<p><b>Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
+	<br/>
     <p><b>E1</b> - For Goblin</p>
 	<p><b>Research Name</b>: Coinage</p>
 	<p><b>Cost</b>: 750 Qag (7.50E125)</p>
