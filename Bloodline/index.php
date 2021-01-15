@@ -7,6 +7,7 @@
 		<h6><img src="http://musicfamily.org/realm/Factions/picks/BloodlineTopPage.png"></h6>
 		<p>
 			<h6> The Bloodline</h6>
+			<h6> The Bloodline</h6>
 			<p>This upgrade appears at the 7th reincarnation with no other unlock requirement.</p>
 			<p>This upgrade enables to choose a Faction Bloodline, giving a kind of cross-faction perk that resets at abdications.</p>
 			<p><b>Cost</b>: Free</p>
