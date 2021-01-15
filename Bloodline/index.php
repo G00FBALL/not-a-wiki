@@ -56,11 +56,11 @@
 				" coords="23,125,72,174" shape="rect">
 				<area href="#Druid" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DruidBloodline.png align=middle> <b>Druid</b></p>
 				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Maximum Mana.</p>
-				<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8)%, where x is your Maximum Mana.</p>
+				<p><b>Formula</b>: ((0.18 * x ^ 0.65) + (0.0018 * log10(1 + x) ^ 8))%, where x is your Maximum Mana.</p>
 				" coords="78,127,126,175" shape="rect">
 				<area href="#Faceless" research="<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png align=middle> <b>Faceless</b></p>
 				<p><b>Effect</b>: Increase maximum mana based on mana produced in this game (additive).</p>
-				<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5), where x is your Mana Produced (This Game) stat.</p>
+				<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5)), where x is your Mana Produced (This Game) stat.</p>
 				" coords="131,126,179,176" shape="rect">
 				<area href="#Dwarf" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DwarvenBloodline.png align=middle> <b>Dwarf</b></p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations you made.</p>
@@ -96,10 +96,10 @@
 			<hr>
 			<p id="Elven"><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"> <b>Elven</b></p>
 			<p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
-			<p><b>Formula</b>: +(10 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
+			<p><b>Formula</b>: +(10 * ln(1 + x) ^ 1.75)%, where x is number of Faction Coins found in this game.</p>
 			<p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
 			<p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on the amount of clicks made in this game.</p>
-			<p><b>Formula</b>: (10 * floor(log10(1 + x)), where x is clicks made in this game.</p>
+			<p><b>Formula</b>: (10 * floor(log10(1 + x))%, where x is clicks made in this game.</p>
 			<hr>
 			<p id="Angel"><img src="http://musicfamily.org/realm/Factions/picks/AngelBloodline.png" alt="Angel" align="middle"> <b>Angel</b></p>
 			<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on spells cast this game.</p>
@@ -123,11 +123,11 @@
 			<hr>
 			<p id="Druid"><img src="http://musicfamily.org/realm/Factions/picks/DruidBloodline.png" alt="Druid" align="middle"> <b>Druid</b></p>
 			<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Maximum Mana.</p>
-			<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8)%, where x is your Maximum Mana.</p>
+			<p><b>Formula</b>: ((0.18 * x ^ 0.65) + (0.0018 * log10(1 + x) ^ 8))%, where x is your Maximum Mana.</p>
 			<hr>
 			<p id="Faceless"><img src="http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png" alt="Faceless" align="middle"> <b>Faceless</b></p>
 			<p><b>Effect</b>: Increase maximum mana based on mana produced in this game (additive).</p>
-			<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5), where x is your Mana Produced (This Game) stat.</p>
+			<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5)), where x is your Mana Produced (This Game) stat.</p>
 			<hr>
 			<p id="Dwarf"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenBloodline.png" alt="Dwarf" align="middle"> <b>Dwarf</b></p>
 			<p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations you made.</p>
