@@ -41,7 +41,7 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeMasterSecretTrophy.png align=middle> <b>Exchange Master</b></p>
     <p><b>Requirement</b>: Purchase 500 Royal Exchanges in a single game.</p>
     <p><b>Cost</b>: 500 Dc (5e35), A1+ Free</p>
-    <p><b>Effect</b>: Increase Royal Exchange bonus by 5%.</p>
+    <p><b>Effect</b>: Increase Royal Exchange bonus by +5%.</p>
     <p><b>Note</b>: This can be done at any R, The higher the R the easier it will be</p>
     " coords="262,47,318,103" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/LuckyNeutralSecretTrophy.png align=middle> <b>Lucky Neutral</b></p>
@@ -86,13 +86,13 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle> <b>Spellfury</b></p>
     <p><b>Requirement</b>: Cast the Tax Collection spell while having 3 other spells active.</p>
     <p><b>Cost</b>: 4333, A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana production by 5%.</p>
+    <p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 5%.</p>
     <p><b>Note</b>: This can be done at R0.(use Angels and all their upgrades)</p>
     " coords="326,111,380,167" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png align=middle> <b>Speedrun</b></p>
     <p><b>Requirement</b>: Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.</p>
     <p><b>Cost</b>: 10 coins, A1+ Free</p>
-    <p><b>Effect</b>: Increase your base clicking reward by 1M (1e6).</p>
+    <p><b>Effect</b>: Increase your base clicking reward by +1 M (1e6).</p>
     <p><b>Note</b>: Can be done at R0</p>
     <p><b>Note</b>: Click image for Instructions.</p>
     " href="http://musicfamily.org/realm/SpeedRun/
@@ -107,14 +107,14 @@
     " coords="6,174,60,231" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BeardCarpetSecretTrophy.png align=middle> <b>Beard Carpet</b></p>
     <p><b>Requirement</b>: Have at least 1 km beards on your assistants (using Bearded Assistant faction upgrade).</p>
-    <p><b>Cost</b>: 3000, A1+, Free</p>
+    <p><b>Cost</b>: 3000, A1+ Free</p>
     <p><b>Effect</b>: Increase assistants production by 10%. (A Nerfed)</p>
     <p><b>Note</b>: This takes 1 day 3 hours and 47 minutes and can be done at R0.</p>
     " coords="69,174,124,230" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PremeditationSecretTrophy.png align=middle> <b>Premeditation</b></p>
     <p><b>Requirement</b>: Have at least 850 Dark Temples on any individual run before affiliating with the Drow.</p>
     <p><b>Cost</b>: 50 Ocd (5e58), A1+ Free</p>
-    <p><b>Effect</b>: Increase maximum Mana by 250.</p>
+    <p><b>Effect</b>: Increase maximum Mana by +250.</p>
     <p><b>Note</b>: Can be done at the end of R2+ with high gem count.</p>
     " coords="134,176,189,232" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FastForwardSecretTrophy.png align=middle> <b>Fast Forward</b></p>
@@ -132,20 +132,21 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png align=middle> <b>Realm Digger</b></p>
     <p><b>Requirement</b>: Excavate 400 times.</p>
     <p><b>Cost</b>: 100 Nod (1e62), A1+ Free</p>
-    <p><b>Effect</b>: Increases production of all buildings by 0.15% per excavation. (A Nerfed)</p>
+    <p><b>Effect</b>: Increases the production of all buildings by 0.15% per excavation. (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R0.</p>
     " coords="324,174,382,232" shape="rect">
         <area href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/HarlequinSecretTrophy.png align=middle> <b>Harlequin</b></p>
     <p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 11 different factions.</p>
     <p><b>Cost</b>: 5 Qivg (5e78), A1+ Free</p>
-    <p><b>Effect</b>: Increases production of all buildings by x3%, where x is the number of Faction upgrades you have bought. (This game) (A Nerfed)</p>
+	<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions (A Nerfed).</p>
+	<p><b>Formula</b>: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</p>
     <p><b>Note</b>: This can be done at R3 with Merc Build (Harlequin)</p>
     <p><b>Note</b>: Click image to go to the Harlequin Build.</p>
     " coords="389,174,446,230" shape="rect">
         <area href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png align=middle> <b>Lucifer</b></p>
     <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil faction upgrades or vice versa.</p>
     <p><b>Cost</b>: 5 Qivg (5e78), A1+ Free</p>
-    <p><b>Effect</b>: Increases production of all non-neutral buildings by 300%. (A Nerfed)</p>
+    <p><b>Effect</b>: Increases the production of all non-neutral buildings by 300%. (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R3 with Merc Build (Lucifer)</p>
     <p><b>Note</b>: Click image to go to the Lucifer Build.</p>
     " coords="5,238,62,294" shape="rect">
@@ -160,7 +161,7 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png align=middle> <b>Mercenary Spirit</b></p>
     <p><b>Requirement</b>: Reincarnate while playing as a Mercenary.</p>
     <p><b>Cost</b>: 1 Ocd (1e57), A1+ Free</p>
-    <p><b>Effect</b>: Increases production of all buildings by 15% per reincarnation. (For Mercenary only) (A Nerfed)</p>
+    <p><b>Effect</b>: Increases the production of all buildings by 15% per reincarnation. (For Mercenary only) (A Nerfed)</p>
     <p><b>Note</b>: This can be done at R3.</p>
     " coords="134,238,189,294" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BloodstreamSecretTrophy.png align=middle> <b>Bloodstream</b></p>
@@ -171,9 +172,9 @@
     <p><b>Note</b>: This can be done at R7</p>
     " coords="197,239,253,294" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/UnlimitedManaSecretTrophy.png align=middle> <b>Unlimited Mana</b>
-    <p><b>Requirement</b>: Have at least 300 mana per second.</p>
+    <p><b>Requirement</b>: Have a Mana Regeneration rate of at least 300 per second.</p>
     <p><b>Cost</b>: 80 Vg (8e64), A1+ Free</p>
-    <p><b>Effect</b>: Increase mana regeneration by +2.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +2.</p>
     " coords="262,239,316,294" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ForScience!SecretTrophy.png align=middle> <b>For Science!</b>
     <p><b>Requirement</b>: Purchase all the research facilities.</p>
@@ -184,50 +185,49 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeLordSecretTrophy.png align=middle> <b>Exchange Lord</b>
     <p><b>Requirement</b>: Purchase 1500 Royal Exchanges in a single game.</p>
     <p><b>Cost</b>: 500 Qag (5e125), A1+ Free</p>
-    <p><b>Effect</b>: Increase Royal Exchange bonus by 5%.</p>
+    <p><b>Effect</b>: Increase Royal Exchange bonus by +5%.</p>
     " coords="390,237,446,292" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MagicianSecretTrophy.png align=middle> <b>Magician</b>
     <p><b>Requirement</b>: Discover at least 10 Spellcraft Researches.</p>
-    <p><b>Cost</b>: 250 Noqag (2.50e152), A1+ Free</p>
+    <p><b>Cost</b>: 250 Noqag (2.5e152), A1+ Free</p>
     <p><b>Effect</b>: Increase Spellcraft upgrade slots by 1.</p>
     " coords="5,300,61,357" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ArtisanSecretTrophy.png align=middle> <b>Artisan</b>
     <p><b>Requirement</b>: Discover at least 10 Craftsmanship Researches.</p>
-    <p><b>Cost</b>: 250 Noqag (2.50e152), A1+ Free</p>
+    <p><b>Cost</b>: 250 Noqag (2.5e152), A1+ Free</p>
     <p><b>Effect</b>: Increase Craftsmanship upgrade slots by 1.</p>
     " coords="69,302,125,357" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/DemigodSecretTrophy.png align=middle> <b>Demigod</b>
     <p><b>Requirement</b>: Discover at least 10 Divine Researches.</p>
-    <p><b>Cost</b>: 250 Noqag (2.50e152), A1+ Free</p>
+    <p><b>Cost</b>: 250 Noqag (2.5e152), A1+ Free</p>
     <p><b>Effect</b>: Increase Divine upgrade slots by 1.</p>
     " coords="134,300,191,358" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BusinessmanSecretTrophy.png align=middle> <b>Businessman</b>
     <p><b>Requirement</b>: Discover at least 10 Economics Researches.</p>
-    <p><b>Cost</b>: 250 Noqag (2.50e152), A1+ Free</p>
+    <p><b>Cost</b>: 250 Noqag (2.5e152), A1+ Free</p>
     <p><b>Effect</b>: Increase Economics upgrade slots by 1.</p>
     " coords="197,301,254,356" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ApothecarySecretTrophy.png align=middle> <b>Apothecary</b>
     <p><b>Requirement</b>: Discover at least 10 Alchemy Researches.</p>
-    <p><b>Cost</b>: 250 Noqag (2.50e152), A1+ Free</p>
+    <p><b>Cost</b>: 250 Noqag (2.5e152), A1+ Free</p>
     <p><b>Effect</b>: Increase Alchemy upgrade slots by 1.</p>
     " coords="262,300,319,358" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/WarlordSecretTrophy.png align=middle> <b>Warlord</b>
     <p><b>Requirement</b>: Discover at least 10 Warfare Researches.</p>
-    <p><b>Cost</b>: 250 Noqag (2.50e152), A1+ Free</p>
+    <p><b>Cost</b>: 250 Noqag (2.5e152), A1+ Free</p>
     <p><b>Effect</b>: Increase Warfare upgrade slots by 1.</p>
     " coords="326,300,382,357" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png align=middle> <b>Faction Run</b>
-    <p><b>Requirement</b>: Reach 1,5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
+    <p><b>Requirement</b>: Reach 1.5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
     <p><b>Cost</b>: 10 coins, A1+ Free</p>
-    <p><b>Effect</b>: Increase Faction Coin find chance by 10%.</p>
+    <p><b>Effect</b>: Increase Faction Coin find chance by +10%.</p>
     <p><b>Note</b>: Can be done from R7+ with elf/elfline</p>
     " coords="390,301,446,357" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle> <b>No Recruiting</b>
     <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
     <p><b>Cost</b>: 1 Tg (1e93), A1+ Free</p>
     <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
-    <p>It can take up to 1 day at R20.</p>
-    <p><b>Tactic</b>: Elf/Elfline to about e34, Fairy/Dwarf, and U-Goblin with Angel Bloodline for any gem wall.</p>
+    <p><b>Note</b>: Adviced to do once you have Prestige Research.</p>
     " coords="6,365,62,421" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle> <b>That Excavated Quickly</b>
     <p><b>Requirement</b>: Excavate 1000 times in the first 30 seconds of a run (This Game)</p>
@@ -244,7 +244,7 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaMatrixSecretTrophy.png align=middle> <b>Mana Matrix</b>
     <p><b>Requirement</b>:  Have exactly 4767 maximum Mana.</p>
     <p><b>Cost</b>: 1000 coins, A1+ Free</p>
-    <p><b>Effect</b>: Increase maximum mana by 15%.</p>
+    <p><b>Effect</b>: Multiplicatively increase Maximum Mana by 15%.</p>
     " coords="196,364,254,421" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SuggestionMasterSecretTrophy.png align=middle> <b>Suggestion Master</b>
     <p><b>Requirement</b>: Open the changelog and ponder about what could be added in there for 3 minutes.</p>
@@ -256,7 +256,7 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/Rule'disSecretTrophy.png align=middle> <b>Rule 'dis</b>
     <p><b>Requirement</b>:  Abdicate 10 times within 3 minutes.</p>
     <p><b>Cost</b>: 1000 coins, A1+ Free</p>
-    <p><b>Effect</b>: Increase mana regeneration by 1 m/s.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +1.</p>
     <p><b>Note</b>: Can be done at any R.</p>
     " coords="326,364,382,421" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/BecauseILiketoGrindSecretTrophy.png align=middle> <b>Because I Like to Grind</b>
@@ -268,39 +268,39 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/TripleWeirdnessSecretTrophy.png align=middle> <b>Triple Weirdness</b>
     <p><b>Requirement</b>: 333 of each Royal Exchange, R40+</p>
     <p><b>Cost</b>: 1 TTg (1e102), A2+ Free</p>
-    <p><b>Effect</b>: Increase Faction Coins generation while offline based on your mana regeneration.</p>
-    <p><b>Formula</b>: 300 * log10(1 + x)^3, where x is offline mana regen.</p>
+    <p><b>Effect</b>: Increase Faction Coins generation while offline based on your Mana Regeneration.</p>
+    <p><b>Formula</b>: (300 * log10(1 + x)^3), where x is your offline Mana Regeneration.</p>
     " coords="5,429,61,484" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle> <b>Stoic Resistance</b>
     <p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.</p>
     <p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1 = 177.8 Qi (1.778e20), A2 = 2.5 Qa (2.5e15), A3 = 2.5 B (2.5e11)</p>
     <p><b>Cost</b>: 10 Coins, A1+ Free</p>
-    <p><b>Effect</b>: Increase base clicking reward by 1 T (1E12)</p>
-    <p><b>Note</b>: Possible at R30+ using Fairyline Dwairy, R34+ Titanline Dwangels.</p>
+    <p><b>Effect</b>: Increase base clicking reward by +1 T (1e12)</p>
+    <p><b>Note</b>: Advised to do at R34+ with Fairyline Dwairy.</p>
     " coords="69,428,125,485" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png align=middle> </b>Van!shment</b>
     <p><b>Requirement</b>: Reach an Offline Bonus of at least 1 Qa (1E15) % (Post-Ascension is 1895%).</p>
     <p><b>Cost</b>: 10 Noqag (1e151), A1+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings based on offline bonus.</p>
-    <p><b>Formula</b>: 1.25 * log10(1+x) ^ 1.25 where x is the pre-A offline multiplier.</p>
+    <p><b>Formula</b>: (1.25 * log10(1+x) ^ 1.25)%, where x is the pre-A offline multiplier.</p>
     " href="http://musicfamily.org/realm/PBuilds/
     " coords="132,429,190,484" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png align=middle> </b>Iron Rush</b>
     <p><b>Requirement</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.</p>
-    <p><b>Cost</b>: 3 SxSxg (3.8e201), A1+ Free</p>
+    <p><b>Cost</b>: 3.8 SxSxg (3.8e201), A1+ Free</p>
     <p><b>Effect</b>: Iron Strongholds count 5% more for all purposes.</p>
     <p><b>Note</b>: Post-Ascension with Mercs + Gobline +Dwarf Expert Masonry, GG or LS for Faction Coins for first spell.</p>
     " coords="197,428,255,485" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png align=middle> </b>Colorful Autocasting</b>
     <p><b>Requirement</b>: R42+, Have each type of autocasting active simultaneously.</p>
     <p><b>Cost</b>: 5 Sxd (5e51), A2+ Free</p>
-    <p><b>Effect</b>: Increases mana regeneration by 10%.</p>
+    <p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 10%.</p>
     <p><b>Autocasting Needed</b>: Silver, Gold, Bronze, Diamond</p>
     " coords="262,428,317,485" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellCataclysmSecretTrophy.png align=middle> </b>Spell Cataclysm</b>
     <p><b>Requirement</b>: Have at least 4 spells active on tier 5 or higher, R42+</p>
     <p><b>Cost</b>: 640 Vg (6.4e65), A2+ Free</p>
-    <p><b>Effect</b>: Increases maximum mana by 25%.</p>
+    <p><b>Effect</b>: Multiplicatively increase Maximum Mana by 25%.</p>
     <p><b>Note</b>: Will require to be at least R55, if not R60.</p>
     " coords="325,429,382,484" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/AdvisorInsightSecretTrophy.png align=middle> </b>Advisor Insight</b>
@@ -320,19 +320,19 @@
     <p><b>Tip 1</b>: Join Mercenaries wait 10 seconds then abdicate.</p>
     <p><b>Tip 2</b>: Join Undead wait 10 seconds then abdicate.</p>
     <p><b>Tip 3</b>: Join Angels all within 15 minutes of selecting Mercenary.</p>
-    <p><b>Effect</b>: Increase mana regeneration and maximum mana by 15%.</p>
+    <p><b>Effect</b>: Multiplicatively increase Mana Regeneration and Maximum Mana by 15%.</p>
     <p><b>Note</b>: Can be done anytime R3+.</p>
     " coords="70,492,124,548" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaWasteSecretTrophy.png align=middle> </b>Mana Waste</b>
     <p><b>Requirement</b>: Have mana regeneration higher than max mana.</p>
     <p>Cost : 1 Td (1e42), A1+ Free</p>
-    <p><b>Effect</b>: Increase maximum mana based on spells cast in this game.</p>
-    <p><b>Formula</b>: (127 * (log10(1 + x)) ^2.7), where x is spells cast.</p>
+    <p><b>Effect</b>: Increase Maximum Mana based on spells cast in this game.</p>
+    <p><b>Formula</b>: +(127 * (log10(1 + x)) ^ 2.7), where x is spells cast this game.</p>
     " coords="132,493,190,549" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PrismaticManaTrophy.png align=middle> </b>Prismatic Mana</b>
     <p><b>Requirements</b>: R40+, Cast the same amount of Faction spells with all Vanilla and Neutral Factions with a minimum of 100 casts.</p>
     <p><b>Cost</b>: 100 No (1e32), A2+ Free</p>
-    <p><b>Effect</b>: 25% Mana Regeneration (multiplicative).</p>
+    <p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 25%.</p>
     <p><b>Warning</b>: All Spells have to be exact same count, Tiered casting may go over the count you need.</p>
     <p><b>Spells Needed</b>: Fairy Chanting, Moon Blessing, God's Hand, Goblin's Greed, Night Time, Hellfire Blast, Lightning Strike, Brainwave, Grand Balance</p>
     " coords="197,493,254,548" shape="rect">
@@ -344,26 +344,25 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ExchangeHighLordSecretTrophy.png align=middle> </b>Exchange High Lord</b>
     <p><b>Requirements</b>: 5000 Royal Exchanges</p>
     <p><b>Cost</b>: 10 DQig (1e160), A2+ Free</p>
-    <p><b>Effect</b>: Increase royal exchange bonus by 250%.</p>
+    <p><b>Effect</b>: Increase royal exchange bonus by +250%.</p>
     " coords="325,492,382,548" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/GenealogistSecretTrophy.png align=middle> </b>Genealogist</b>
     <p>Requirements: Have a total of 300 Lineage levels across all Lineage.</p>
     <p><b>Cost</b>: 1 NoQig (1e180), A2+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings based on the total amount of lineage levels you have.</p>
-    <p><b>Formula</b>: (2.5 * x ^1.35), where x is total amount of lineage levels you have.</p>
+    <p><b>Formula</b>: (2.5 * x ^1.35)%, where x is total amount of lineage levels you have.</p>
     " coords="389,492,446,548" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/HolyFrenzySecretTrophy.png align=middle> </b>Holy Frenzy</b>
     <p><b>Requirement</b>: A2+, In a single reincarnation, have a 3 day combined activity time of Holy Light and Blood Frenzy.</p>
     <p><b>Cost</b>: 100 Dc (1e35), A3+ Free</p>
     <p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.</p>
-    <p><b>Formula</b>: (250 * t ^ 2)</p>
-    <p><b>Note</b>:Upgrade scales from Holy Light/Blood Frenzy tiers.</p>
+    <p><b>Formula</b>: (250 * T ^ 2)%, where T is active tier of Blood Frenzy or Holy Light.</p>
     " coords="5,556,62,613" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle> </b>Uniformity</b>
     <p><b>Requirement</b>: A2+, Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</p>
     <p><b>Cost</b>: 100 Qid (1e50), A3+ Free</p>
-    <p><b>Effect</b>: Increases production of all buildings based on time spent as least used alignment.</p>
-    <p><b>Formula</b>: (0.72 * min(x, y, z, s, t, u) ^ 0.72), where x is neutral time, y is good time, z is evil time, s is balance time, t is chaos time, u is order time (All this R in seconds).</p>
+    <p><b>Effect</b>: Increases the production of all buildings based on time spent as least used alignment (this Reincarnation).</p>
+    <p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the time spent with your least used alignment (primary or secondary) in seconds.</p>
     " coords="69,557,125,612" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png align=middle> </b>Art of the Crow Trophy</b>
     <p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
@@ -374,11 +373,11 @@
     <p><b>Chaos Effect</b>: Multiplicatively increase assistants.</p>
     <p><b>Balance Effect</b>: Multiplicatively increase mana regeneration.</p>
     <p><b>Good Effect</b>: The amount increased is based on Excavations made.</p>
-    <p><b>Formula</b>: (0.05 *  x ^ 1.1), where x is excavation count.</p>
+    <p><b>Formula</b>: (0.05 * x)%, where x is excavation count.</p>
     <p><b>Evil Effect</b>: The amount increased is Based on production bonus from Gems.</p>
-    <p><b>Formula</b>: (30 + 30 * x ^ 0.3), where x is production bonus from Gems.</p>
+    <p><b>Formula</b>: (50 + 25 * x ^ 0.25)%, where x is production bonus from Gems.</p>
     <p><b>Neutral Effect</b>: The amount increased is based on Royal Exchanges made</p>
-    <p><b>Formula</b>: (x ^ 0.75), where x royal exchanges made.</p>
+    <p><b>Formula</b>: (1.5 * x ^ 0.5)%, where x royal exchanges made.</p>
     " coords="133,558,190,614" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FactionRulerSecret.png align=middle> <b>Faction Ruler</b>
     <p><b>Requirements</b>: Unlock all the Advanced Heritages.</p>
@@ -388,14 +387,14 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MadMasksSecretTrophy.png align=middle> <b>MAD Masks</b>
     <p><b>Requirement</b>: Find all fragments of the Makers, Archon and Djinn masks.</p>
     <p><b>Cost</b>: 1 SpQag (1.e144), A3+ Free</p>
-    <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of excavations made in this Reincarnation.</p>
-    <p><b>Formula</b>: (1.5 * x ^ 0.6), where x is highest amount of excavations made in this Reincarnation.</p>
+    <p><b>Effect</b>: Increase the production of all buildings based on the highest excavation count made in this Reincarnation.</p>
+    <p><b>Formula</b>: (1.5 * x ^ 0.6)%, where x is highest excavation count made in this Reincarnation.</p>
     " coords="262,560,319,617" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FutureLinkinSecretTrophy.png align=middle> <b>Future Linkin</b>
     <p><b>Requirements</b>: A2+, Abdicate with at least 100,000 Unique Buildings.
     <p><b>Cost</b>: 10 Sptg (1e115), A3+ Free</p>
-    <p><b>Effect</b>: Increase Faction Coin find chance based on time spent in the last game session.</p>
-    <p><b>Formula</b>: (214 + 0.03 * x  ^ 0.7), where x is time spent in last game.</p>
+    <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in the last game session.</p>
+    <p><b>Formula</b>: (214 + 0.03 * x  ^ 0.7)%, where x is time spent in last game in seconds.</p>
     <p><b>Base</b>: 214%</p>
     " coords="325,559,383,617" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/God'sFingers.png align=middle> <b>God's Fingers</b>
@@ -406,8 +405,8 @@
         <area href="http://musicfamily.org/realm/R160Plus/#TrueHarlequin" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
     <p><b>Requirement</b>: A3+, Mercenary Duel unlocked, As a Mercenary, purchase one upgrade from 15 different factions.</p>
     <p><b>Cost</b>: 1e152 (100 Noqag)</p>
-    <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your Mercenary upgrades.</p>
-    <p><b>Formula</b>: (x ^ 3), where x is different upgrades from different factions (up to 3375% maximum possible).</p>
+	<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>
+	<p><b>Formula</b>: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</p>
     <p><b>Note</b>: This can be done at R160+ with Mercenary Build (Apeiron/True Harlequin)</p>
     <p><b>Note</b>: Click image to go to the Apeiron/True Harlequin Build.</p>
     " coords="5,625,62,682" shape="rect">
@@ -1069,7 +1068,7 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/IntermediateResearcherSecretTrophy.png align=middle> </b>Intermediate Researcher</b>
     <p><b>Requirement</b>: Research 1800 times across all fields.</p>
     <p><b>Cost</b>: 1 QiQig (1e168), A1+ Free</p>
-    <p><b>Effect</b>: Increases production of all Neutral Factions by 100%. (A Nerfed)</p>
+    <p><b>Effect</b>: Increases the production of all Neutral Factions by 100%. (A Nerfed)</p>
     " coords="325,1461,383,1517" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ExpertResearcherSecretTrophy.png align=middle> </b>Expert Researcher</b>
     <p><b>Requirement</b>: Research 2750 times across all fields.</p>
@@ -1090,30 +1089,32 @@
     <p><b>Requirement</b>: Discover all the Vanilla Faction researches.</p>
     <p><b>Cost</b>: 1 SpQig (1e174), A1+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+	<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is amount of research done.</p>
     " coords="133,1525,190,1582" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/AncientResearcherSecretTrophy.png align=middle> </b>Ancient Researcher</b>
     <p><b>Requirement</b>: Discover all the Ancient Races researches.</p>
     <p><b>Cost</b>: 1 NoSxg (1e210), A1+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+	<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is amount of research done.</p>
     <p><b>Note</b>: Can be done at R29.
     " coords="196,1525,255,1583" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/UnderworldResearcherSecretTrophy.png align=middle> </b>Underworld Researcher</b>
     <p><b>Requirement</b>: Discover all the Underworld researches.</p>
     <p><b>Cost</b>: 1 NoSxg (1e210), A1+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
-    <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.</p>
+    <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is amount of research done.</p>
     " coords="261,1524,319,1582" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/EternalResearcherSecretTrophy.png align=middle> </b>Eternal Researcher</b>
     <p><b>Requirement</b>: Discover all the Dragon researches, R55+</p>
     <p><b>Cost</b>: 1 Novg (1e90), A2+ Free</p>
     <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
-    <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.</p>
+    <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is amount of research done.</p>
     " coords="325,1524,382,1581" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/WarriorResearcherSecretTrophy.png align=middle> </b>Warrior Researcher</b>
     <p><b>Requirement</b>: Discover all the Mercenary researches</p>
     <p><b>Cost</b>: 1 DSpg (1e219), A2+ Free</p>
-    <p><b>Effect</b>: Increase the production of all buildings based on research done</p>
-    <p><b>Formula</b>: (0.3 * x ^ 0.7), where x is amount of research done.</p>
+    <p><b>Effect</b>: Increase the production of all buildings based on research done.</p>
+    <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is amount of research done.</p>
     <p><b>Upgrade</b>: Good for Mercenary.</p>
     " coords="389,1524,446,1582" shape="rect">
     </map>
@@ -1121,72 +1122,72 @@
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaDropletTrophy.png align=middle> </b>Mana Droplet</b>
     <p><b>Requirement</b>: Produce 200 mana (Total)</p>
     <p><b>Cost</b>: 10,000, A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="5,45,62,102" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaRainTrophy.png align=middle> </b>Mana Rain</b>
     <p><b>Requirement</b>: Produce 2,000 mana (Total)</p>
-    <p><b>Cost</b>: 20 M (2E7), A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Cost</b>: 20 M (2e7), A1+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="70,45,126,102" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaSurgeTrophy.png align=middle> </b>Mana Surge</b>
     <p><b>Requirement</b>: Produce 5,000 mana (Total)</p>
-    <p><b>Cost</b>: 30 B (3E10), A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Cost</b>: 30 B (3e10), A1+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="134,46,190,102" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaFountainTrophy.png align=middle> </b>Mana Fountain</b>
     <p><b>Requirement</b>: Produce 10,000 mana (Total)</p>
-    <p><b>Cost</b>: 40 T (4E13), A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Cost</b>: 40 T (4e13), A1+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="198,45,253,101" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaShowerTrophy.png align=middle> </b>Mana Shower</b>
     <p><b>Requirement</b>: Produce 20,000 mana (Total)</p>
-    <p><b>Cost</b>: 50 Qa (5E16), A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Cost</b>: 50 Qa (5e16), A1+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="262,45,318,102" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaStreamTrophy.png align=middle> </b>Mana Stream</b>
     <p><b>Requirement</b>: Produce 100,000 mana (Total)</p>
-    <p><b>Cost</b>: 60 Qi (6E19), A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Cost</b>: 60 Qi (6e19), A1+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="325,46,383,102" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaFloodTrophy.png align=middle> </b>Mana Flood</b>
     <p><b>Requirement</b>: Produce 200,000 mana (Total)</p>
-    <p><b>Cost</b>: 70 Sx (7E22), A1+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +0.50.</p>
+    <p><b>Cost</b>: 70 Sx (7e22), A1+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
     " coords="388,46,446,103" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png align=middle> </b>Mana Wave</b>
-    <p><b>Requirement</b>: Produce 20M (20E6) mana (Total), R40+</p>
-    <p><b>Cost</b>: 80 Sp (8E25), A2+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
+    <p><b>Requirement</b>: Produce 20 M (20e6) mana (Total), R40+</p>
+    <p><b>Cost</b>: 80 Sp (8e25), A2+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
     " coords="4,109,63,166" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png align=middle> </b>Mana River</b>
-    <p><b>Requirement</b>: Produce 1B (1E9) mana (Total), R40+</p>
-    <p><b>Cost</b>: 90 Oc (9E28), A2+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
+    <p><b>Requirement</b>: Produce 1 B (1e9) mana (Total), R40+</p>
+    <p><b>Cost</b>: 90 Oc (9e28), A2+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
     " coords="70,110,126,167" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png align=middle> </b>Mana Lake</b>
-    <p><b>Requirement</b>: Produce 20B (2E10) mana (Total), R40+</p>
-    <p><b>Cost</b>: 100 No (1E32), A2+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
+    <p><b>Requirement</b>: Produce 20B (2e10) mana (Total), R40+</p>
+    <p><b>Cost</b>: 100 No (1e32), A2+ Free</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
     " coords="132,109,191,167" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png align=middle> </b>Mana Sea</b>
-    <p><b>Requirement</b>: Produce 1 T (1E12) mana (Total), R40+</p>
+    <p><b>Requirement</b>: Produce 1 T (1e12) mana (Total), R40+</p>
     <p><b>Cost</b>: 12.5 Uqag No (1.25e127), A2+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
     " coords="196,108,253,167" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png align=middle> </b>Mana Ocean</b>
-    <p><b>Requirement</b>: Produce 2 T (2E12) mana (Total), R40+</p>
+    <p><b>Requirement</b>: Produce 2 T (2e12) mana (Total), R40+</p>
     <p><b>Cost</b>: 150 Noqag (1.5e152), A2+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +50.00.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
     " coords="261,110,319,166" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png align=middle> </b>Mana Spring</b>
-    <p><b>Requirement</b>: R100+, Produce 100 T (1E14) mana (Total)</p>
+    <p><b>Requirement</b>: R100+, Produce 100 T (1e14) mana (Total)</p>
     <p><b>Cost</b>: 1 Sp (1e24), A3+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +100.00.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +100.00.</p>
     " coords="326,110,383,167" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaFalls.png align=middle> </b>Mana Falls</b>
     <p><b>Requirement</b>: R100+, Produce 200 Qi (2e20) mana (Total)</p>
     <p><b>Cost</b>: 10 Dqag (1e130), A3+ Free</p>
-    <p><b>Effect</b>: Increase Mana regeneration by +100.00.</p>
+    <p><b>Effect</b>: Increase Mana Regeneration by +100.00.</p>
     " coords="388,110,446,167" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MagicUserTrophy.png align=middle> </b>Magic User</b>
     <p><b>Requirement</b>: 10 spell casts in a single game.</p>
@@ -1222,49 +1223,49 @@
     <p><b>Requirement</b>: 500,000 spell casts in a single game.</p>
     " coords="197,237,254,294" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MassiveAutocasterTrophy.png align=middle> </b>Massive Autocaster</b>
-    <p><b>Requirement</b>: 1 M (1E6) spell casts in a single game.</p>
+    <p><b>Requirement</b>: 1 M (1e6) spell casts in a single game.</p>
     " coords="261,237,320,295" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellWeaverTrophy.png align=middle> </b>Spell Weaver</b>
-    <p><b>Requirement</b>: 50 M (5E7) spell casts in a single game.</p>
+    <p><b>Requirement</b>: 50 M (5e7) spell casts in a single game.</p>
     " coords="325,237,383,295" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ArchwizardTrophy.png align=middle> </b>Archwizard</b>
-    <p><b>Requirement</b>: 1 B (1E9) spell casts in a single game.</p>
+    <p><b>Requirement</b>: 1 B (1e9) spell casts in a single game.</p>
     " coords="388,237,446,294" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellMasterTrophy.png align=middle> </b>Spell Master</b>
-    <p><b>Requirement</b>: Cast 50 T (5E13) spells in a single game.</p>
+    <p><b>Requirement</b>: Cast 50 T (5e13) spells in a single game.</p>
     " coords="5,300,62,358" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellGrinder.png align=middle> </b>Spell Grinder</b>
     <p><b>Requirement</b>: Cast 10 Qa (1e16) spells in a single game.</p>
     " coords="69,302,127,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png align=middle> </b>Automatic Casting</b>
     <p><b>Requirement</b>: 60,000 Mana Produced (Total this R)</p>
-    <p><b>Cost</b>: 100 B (1E11), A1+ Free</p>
+    <p><b>Cost</b>: 100 B (1e11), A1+ Free</p>
     <p><b>Effect</b>: Allows autocasting of spells by CTRL+Clicking them.</p>
-    <p><b>Effect</b>: While offline, spells are not cast, instead increases mana produced amount by 10% of your mana regen per second.</p>
+    <p><b>Effect</b>: While offline, spells are not cast, instead increases mana produced amount by 10% of your Mana Regeneration per second.</p>
     <p><b>Note</b>: You must have at least 1 spell in autocasting mode.</p>
     " coords="133,301,192,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingTrophy.png align=middle> </b>Improved Autocasting</b>
-    <p><b>Requirement</b>: 2 M (2E6) Mana Produced (Total this R)</p>
-    <p><b>Cost</b>: 200 Qi (2E20), A1+ Free</p>
-    <p><b>Effect</b>: Increases mana regeneration by 5%.</p>
-    <p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your mana regeneration per second.</p>
+    <p><b>Requirement</b>: 2 M (2e6) Mana Produced (Total this R)</p>
+    <p><b>Cost</b>: 200 Qi (2e20), A1+ Free</p>
+    <p><b>Effect</b>: Multiplicatively increases Mana Regeneration by 5%.</p>
+    <p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your Mana Regeneration per second.</p>
     " coords="197,301,255,358" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingTrophy.png align=middle> </b>Masterful Autocasting</b>
-    <p><b>Requirement</b>: 6 M (6E6) Mana Produced (Total this R)</p>
+    <p><b>Requirement</b>: 6 M (6e6) Mana Produced (Total this R)</p>
     <p><b>Cost</b>: 300 Oc (3E29), A1+ Free</p>
-    <p><b>Effect</b>: Increases mana regeneration by 10%.</p>
+    <p><b>Effect</b>: Multiplicatively increases Mana Regeneration by 10%.</p>
     <p><b>Effect</b>: While offline, increases mana produced amount by an additional 35% of your mana regeneration per second.</p>
     " coords="262,300,319,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png align=middle> </b>Priority Autocasting</b>
-    <p><b>Requirement</b>: 12 M (1.2E7) Mana Produced (Total this R)</p>
-    <p><b>Cost</b>: 400 Ud (4E38), A1+ Free</p>
+    <p><b>Requirement</b>: 12 M (1.2e7) Mana Produced (Total this R)</p>
+    <p><b>Cost</b>: 400 Ud (4e38), A1+ Free</p>
     <p><b>Effect</b>: Allows you to prioritize the order of spell casting.</p>
     <p><b>Note</b>: Spells with lower priority will be cast only if the higher priority spells are already active.</p>
     <p><b>Effect</b>: While offline, improves spell cast amount by 1 per minute.</p>
     " coords="325,301,383,359" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png align=middle> </b>Contingency Autocasting</b>
-    <p><b>Requirement</b>: 20 M (2E7) Mana Produced (Total this R)</p>
-    <p><b>Cost</b>: 500 Qad (5E47), A1+ Free</p>
+    <p><b>Requirement</b>: 20 M (2e7) Mana Produced (Total this R)</p>
+    <p><b>Cost</b>: 500 Qad (5e47), A1+ Free</p>
     <p><b>Effect</b>: Allows you to set a minimum amount of mana before starting to Autocast.</p>
     <p><b>Note</b>: A slide bar will appear when you CTRL+Click on the mana bar. <p>Contingency-slidebar By adjusting its height you will set a minimum amount of mana below which spells won't be cast.</p>
     <p><b>Note</b>: Once your mana reaches the threshold, spells will follow the priority rules.</p>
@@ -1272,8 +1273,8 @@
     <p><b>Effect</b>: While offline, improves spell cast amount by an additional 2 per minute.</p>
     " coords="390,302,446,358" shape="0">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png align=middle> </b>Planned Autocasting</b>
-    <p><b>Requirement</b>: 30 M (3E7) Mana Produced (Total this R)</p>
-    <p><b>Cost</b>: 600 Spd (6E56), A1+ Free</p>
+    <p><b>Requirement</b>: 30 M (3e7) Mana Produced (Total this R)</p>
+    <p><b>Cost</b>: 600 Spd (6e56), A1+ Free</p>
     <p><b>Effect</b>: Allows you to set Primary and Secondary spells.</p>
     <p><b>Note</b>: Primary spells (Set with CTRL+Click) will fire when you have max mana with Contingency Autocasting. <p>Secondary spells (Set with SHIFT+Click) will fire as soon as you have the mana, as long as the primary spells are ALL still active.</p>
     <p><b>Effect</b>: While offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.</p>
@@ -1294,7 +1295,7 @@
     <p><b>Formula</b>: (1000 * log10(1 + x)), where x is mana regeneration</p>
     " coords="133,365,190,422" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png align=middle> </b>Tiered Autocasting</b>
-    <p><b>Requirement</b>: R40+, 200M Mana Produced (Total this R).</p>
+    <p><b>Requirement</b>: R40+, 200 M Mana Produced (Total this R).</p>
     <p><b>Cost</b>: 100 Qid (1.0e50), A2+ Free</p>
     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.</p>
     <p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
@@ -1321,25 +1322,25 @@
     " coords="132,429,190,487" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle> </b>Coin Pillage</b>
     <p><b>Requirement</b>: Cast the Tax Collection spell 150 times in less than 5 seconds.)</p>
-    <p><b>Cost</b>: 1 Dc (1E33), A1+ Free</p>
+    <p><b>Cost</b>: 1 Dc (1e33), A1+ Free</p>
     <p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
     <p><b>Note</b>: Default Spell</p>
     " coords="196,428,254,486" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png align=middle> </b>Fairy Choir</b>
     <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
-    <p><b>Cost</b>: 1 M (1E6), A1+ Free</p>
+    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.</p>
     <p><b>Note</b>: Fairy Spell</p>
     " coords="262,429,318,486" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png align=middle> </b>Sun Blessing</b>
     <p><b>Requirement</b>: Activate the Moon Blessing spell after 6 am and before 1 pm (noon).</p>
-    <p><b>Cost</b>: 1 M (1E6), A1+ Free</p>
+    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Effect</b>: The treasure is autoclicked 15 times per second while Moon Blessing is active.</p>
     <p><b>Note</b>: Elven Spell</p>
     " coords="325,430,383,488" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png align=middle> </b>God's Rest</b>
     <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
-    <p><b>Cost</b>: 1 M (1E6), A1+ Free</p>
+    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</p>
     <p><b>Note</b>: Angel Spell</p>
     " coords="390,430,446,487" shape="rect">
@@ -1358,19 +1359,19 @@
     " coords="68,495,126,551" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/HellRushSecretTrophy.png align=middle> </b>Hell Rush</b>
     <p><b>Requirement</b>: Cast Hellfire Blast in the first 60 seconds of playtime</p>
-    <p><b>Cost</b>: 1 M (1E6), A1+ Free</p>
+    <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
     <p><b>Effect</b>: Hellfire Blast also boost Halls of Legends</p>
     <p><b>Note</b>: Demon Spell.</p>
     " coords="132,494,190,552" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/LightningStormSecretTrophy.png align=middle> </b>Lightning Storm</b>
     <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
-    <p><b>Cost</b>: 10 Dd (1E40), A1+ Free</p>
-    <p><b>Effect</b>: Increase Lightning Strike multiplier to 500% per Iron Stronghold</p>
+    <p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
+    <p><b>Effect</b>: Increase Lightning Strike multiplier to 750% per Iron Stronghold</p>
     <p><b>Note</b>: Titan Spell</p>
     " coords="197,494,255,551" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/HallsofBalanceSecretTrophy.png align=middle> </b>Halls of Balance</b>
     <p><b>Requirement</b>: Have Grand Balance affect Hall of Legends</p>
-    <p><b>Cost</b>: 10 Dd (1E40), A1+ Free</p>
+    <p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
     <p><b>Effect</b>: Increase Grand Balance duration by 4 seconds and lower its cost by 200 mana</p>
     <p><b>Note</b>: Druid Spell</p>
     <p><b>Tip</b>: Buy at least 1 of everything and buy 0 Hall of Legends.</p>
@@ -1391,14 +1392,14 @@
     <p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
     <p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
     <p><b>Effect</b>: Increases Combo Strike bonus.</p>
-    <p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
+    <p><b>Formula</b>: (40 * x ^ 0.9)%, where x is the number of times you have cast Combo Strike.</p>
     <p><b>Note</b>: Drow Spell</p>
     " coords="3,557,61,615" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle> </b>Dragon's Roar</b>
     <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
     <p><b>Cost</b>: 1.0e45, A2+ Free</p>
     <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-    <p><b>Formula</b>: (6 * x ^ 0.6), where x is duration in seconds</p>
+    <p><b>Formula</b>: (6 * x ^ 0.6)%, where x is duration in seconds</p>
     <p><b>Note</b>: Dragon Spell</p>
     " coords="68,558,126,615" shape="rect">
         <area research="<img src=http://musicfamily.org/realm/Factions/picks/ChronoLoadingSpellUpgrade.png align=middle> Chrono Loading</b>

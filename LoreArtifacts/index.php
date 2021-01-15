@@ -281,7 +281,7 @@
 		<p><b>Effect</b>: Grants different effects based on time of the day.</p>
 		<p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
 		<br>
-		<p><p>Note</b>: Finding both stones awards the <b><a target="_blank" href="http://www.musicfamily.org/realm/SunForce/">Sun Force</a></b> upgrade.</p> 
+		<p><b>Note</b>: Finding both stones awards the <b><a target="_blank" href="http://www.musicfamily.org/realm/SunForce/">Sun Force</a></b> upgrade.</p> 
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" align=middle> <b>Ancient Heirloom</b></p>
 		<p><b>Clue</b>: Relic of the Lineage.</p>
