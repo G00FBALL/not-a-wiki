@@ -29,14 +29,14 @@
 				" coords="25,23,72,68" shape="rect">
                 <area href="#Elven" research="<p><img src=http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png align=middle> <b>Elven</b></p>
 				<p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
-				<p><b>Formula</b>: (10 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
+				<p><b>Formula</b>: +(10 * ln(1 + x) ^ 1.75)%, where x is number of Faction Coins found in this game.</p>
 				<p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
 				<p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on the amount of clicks made in this game.</p>
-				<p><b>Formula</b>: (10 * floor(log10(1 + x)), where x is clicks made in this game.</p>
+				<p><b>Formula</b>: (10 * floor(log10(1 + x))%, where x is clicks made in this game.</p>
 				" coords="78,21,126,68" shape="rect">
                 <area href="#Angel" research="<p><img src=http://musicfamily.org/realm/Factions/picks/AngelBloodline.png align=middle> <b>Angel</b></p>
-				<p><b>Effect</b>: Increase mana regeneration based on spells cast this game.</p>
-				<p><b>Formula</b>: (1.31 * x ^ 0.31), where x is spell casts (this game)</p>
+				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on spells cast this game.</p>
+				<p><b>Formula</b>: (1.31 * x ^ 0.31)%, where x is spell casts this game.</p>
 				" coords="131,21,179,68" shape="rect">
                 <area href="#Goblin" research="<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinBloodline.png align=middle> <b>Goblin</b></p>
 				<p><b>Effect</b>: Reduce all building cost multipliers.</p>
@@ -47,32 +47,32 @@
 				<p><b>Formula</b>: +(8 * x ^ 0.8), where x is the number of times you have reincarnated.</p>
 				" coords="78,75,126,121" shape="rect">
                 <area href="#Demon" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DemonBloodline.png align=middle> <b>Demon</b></p>
-				<p><b>Effect</b>: Increase production bonus from gems based on total time spent being Evil.</p>
-				<p><b>Formula</b>: floor(18 * (x / 3600) ^ 0.8)%, where x is your Time Spent Being Evil (Total) in seconds stat.</p>
+				<p><b>Effect</b>: Increase production bonus from gems based on time spent being Evil this Reincarnation.</p>
+				<p><b>Formula</b>: +floor(18 * (x / 3600) ^ 0.8)%, where x is your time spent being Evil this Reincarnation in seconds.</p>
 				" coords="131,75,180,122" shape="rect">
                 <area href="#Titan" research="<p><img src=http://musicfamily.org/realm/Factions/picks/TitanBloodline.png align=middle> <b>Titan</b></p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Royal Exchanges you purchased.</p>
 				<p><b>Formula</b>: (15 * x ^ 0.85)%, where x is the amount of Royal Exchanges you own.</p>
 				" coords="23,125,72,174" shape="rect">
                 <area href="#Druid" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DruidBloodline.png align=middle> <b>Druid</b></p>
-				<p><b>Effect</b>: Increase mana regeneration based on maximum mana.</p>
-				<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8), where x is your maximum mana.</p>
+				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Maximum Mana.</p>
+				<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8)%, where x is your Maximum Mana.</p>
 				" coords="78,127,126,175" shape="rect">
                 <area href="#Faceless" research="<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png align=middle> <b>Faceless</b></p>
-				<p><b>Effect</b>: Increase maximum mana based on mana produced in this game.</p>
-				<p><b>Formula</b>: floor(30 * (log10(1 + x) ^ 3.5), where x is your Mana Produced (This Game) stat.</p>
+				<p><b>Effect</b>: Increase maximum mana based on mana produced in this game (additive).</p>
+				<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5), where x is your Mana Produced (This Game) stat.</p>
 				" coords="131,126,179,176" shape="rect">
                 <area href="#Dwarf" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DwarvenBloodline.png align=middle> <b>Dwarf</b></p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations you made.</p>
-				<p><b>Formula</b>: 10 * x ^ 0.8%, where x is your number of excavations purchased.</p>
+				<p><b>Formula</b>: (10 * x ^ 0.8)%, where x is your number of excavations purchased.</p>
 				" coords="24,181,73,229" shape="rect">
                 <area href="#Drow" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DrowBloodline.png align=middle> <b>Drow</b></p>
-				<p><b>Effect</b>: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.</p>
-				<p><b>Formula</b>: (1.7 * x ^ 0.7), where x is time spent in this game in seconds.</p>
+				<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in this game.</p>
+				<p><b>Formula</b>: (1.7 * x ^ 0.7)%, where x is time spent in this game in seconds.</p>
 				" coords="77,180,127,229" shape="rect">
                 <area href="#Dragon" research="<p><img src=http://musicfamily.org/realm/Factions/picks/DragonBloodline.png align=middle> <b>Dragon</b></p>
 				<p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.</p>
-				<p><b>Formula</b>: (4 * x ^ 0.4), where x is Faction Coin find chance.</p>
+				<p><b>Formula</b>: (4 * x ^ 0.4)%, where x is Faction Coin find chance.</p>
 				" coords="131,181,179,227" shape="rect">
                 <area href="#Archon" research="<p><img src=http://musicfamily.org/realm/Factions/picks/ArchonBloodline.png align=middle> <b>Archon</b></p>
 				<p><b>Requirements</b>: Archon Unlocked, R130+</p><p><b>Effect</b>: Gain additional research slots based on time spent this game.</p>
@@ -86,7 +86,7 @@
 				" coords="77,234,126,281" shape="rect">
                 <area href="#Makers" research="<p><img src=http://musicfamily.org/realm/Factions/picks/MakersBloodline.png align=middle> <b>Makers</b></p>
 				<p><b>Requirements</b>: Makers Unlocked, R130+</p><p><b>Effect</b>: Increase your Set power based on faction coins collected this game.</p>
-				<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5), where x is faction coins collected this game.</p>
+				<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5)%, where x is faction coins collected this game.</p>
 				" coords="131,233,179,281" shape="rect">
             </map>
             <br/>
@@ -96,14 +96,14 @@
             <hr>
             <p id="Elven"><img src="http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png" alt="Elven" align="middle"> <b>Elven</b></p>
             <p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
-		      	<p><b>Formula</b>: (10 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
+		    <p><b>Formula</b>: +(10 * ln(1 + x) ^ 1.75), where x is number of Faction Coins found in this game.</p>
             <p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
             <p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on the amount of clicks made in this game.</p>
             <p><b>Formula</b>: (10 * floor(log10(1 + x)), where x is clicks made in this game.</p>
             <hr>
             <p id="Angel"><img src="http://musicfamily.org/realm/Factions/picks/AngelBloodline.png" alt="Angel" align="middle"> <b>Angel</b></p>
-            <p><b>Effect</b>: Increase mana regeneration based on spells cast this game.</p>
-            <p><b>Formula</b>: (1.31 * x ^ 0.31), where x is spell casts (this game)</p>
+			<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on spells cast this game.</p>
+			<p><b>Formula</b>: (1.31 * x ^ 0.31)%, where x is spell casts this game.</p>
             <hr>
             <p id="Goblin"><img src="http://musicfamily.org/realm/Factions/picks/GoblinBloodline.png" alt="Goblin" align="middle"> <b>Goblin</b></p>
             <p><b>Effect</b>: Reduce all building cost multipliers.</p>
@@ -114,32 +114,32 @@
             <p><b>Formula</b>: +(8 * x ^ 0.8), where x is the number of times you have reincarnated.</p>
             <hr>
             <p id="Demon"><img src="http://musicfamily.org/realm/Factions/picks/DemonBloodline.png" alt="Demon" align="middle"> <b>Demon</b></p>
-            <p><b>Effect</b>: Increase production bonus from gems based on total time spent being Evil.</p>
-            <p><b>Formula</b>: floor(18 * (x / 3600) ^ 0.8)%, where x is your Time Spent Being Evil (Total) in seconds stat.</p>
+            <p><b>Effect</b>: Increase production bonus from gems based on time spent being Evil this Reincarnation.</p>
+			<p><b>Formula</b>: +floor(18 * (x / 3600) ^ 0.8)%, where x is your time spent being Evil this Reincarnation in seconds.</p>
             <hr>
             <p id="Titan"><img src="http://musicfamily.org/realm/Factions/picks/TitanBloodline.png" alt="Titan" align="middle"> <b>Titan</b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of Royal Exchanges you purchased.</p>
             <p><b>Formula</b>: (15 * x ^ 0.85)%, where x is the amount of Royal Exchanges you own.</p>
             <hr>
             <p id="Druid"><img src="http://musicfamily.org/realm/Factions/picks/DruidBloodline.png" alt="Druid" align="middle"> <b>Druid</b></p>
-            <p><b>Effect</b>: Increase mana regeneration based on maximum mana.</p>
-            <p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8), where x is your maximum mana.</p>
+			<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Maximum Mana.</p>
+			<p><b>Formula</b>: (0.18 * x ^ 0.65) + (0.0018 * log10(x) ^ 8)%, where x is your Maximum Mana.</p>
             <hr>
             <p id="Faceless"><img src="http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png" alt="Faceless" align="middle"> <b>Faceless</b></p>
-            <p><b>Effect</b>: Increase maximum mana based on mana produced in this game.</p>
-            <p><b>Formula</b>: floor(30 * (log10(1 + x) ^ 3.5), where x is your Mana Produced (This Game) stat.</p>
+			<p><b>Effect</b>: Increase maximum mana based on mana produced in this game (additive).</p>
+			<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5), where x is your Mana Produced (This Game) stat.</p>
             <hr>
             <p id="Dwarf"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenBloodline.png" alt="Dwarf" align="middle"> <b>Dwarf</b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations you made.</p>
-            <p><b>Formula</b>: 10 * x ^ 0.8%, where x is your number of excavations purchased.</p>
+            <p><b>Formula</b>: (10 * x ^ 0.8)%, where x is your number of excavations purchased.</p>
             <hr>
             <p id="Drow"><img src="http://musicfamily.org/realm/Factions/picks/DrowBloodline.png" alt="Drow" align="middle"> <b>Drow</b></p>
-            <p><b>Effect</b>: Multiplicatively increase the chance to find Faction Coins based on time spent in this game.</p>
-            <p><b>Formula</b>: (1.7 * x ^ 0.7), where x is time spent in this game in seconds.</p>
+				<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in this game.</p>
+				<p><b>Formula</b>: (1.7 * x ^ 0.7)%, where x is time spent in this game in seconds.</p>
             <hr>
             <p id="Dragon"><img src="http://musicfamily.org/realm/Factions/picks/DragonBloodline.png" alt="Dragon" align="middle"> <b>Dragon</b></p>
             <p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.</p>
-            <p><b>Formula</b>: (4 * x ^ 0.4), where x is Faction Coin find chance.</p>
+            <p><b>Formula</b>: (4 * x ^ 0.4)%, where x is Faction Coin find chance.</p>
             <hr>
             <p id="Archon"><img src="http://musicfamily.org/realm/Factions/picks/ArchonBloodline.png" align="middle"> <b>Archon</b></p>
             <p><b>Requirements</b>: Archon Unlocked, R130+</p>
@@ -165,5 +165,5 @@
             <p id="Makers"><img src="http://musicfamily.org/realm/Factions/picks/MakersBloodline.png" align="middle"> <b>Makers</b></p>
             <p><b>Requirements</b>: Makers Unlocked, R130+</p>
             <p><b>Effect</b>: Increase your Set power based on faction coins collected this game.</p>
-            <p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5), where x is faction coins collected this game.</p>
+            <p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5)%, where x is faction coins collected this game.</p>
             <?php include "../scripts/footer.html"; ?>
