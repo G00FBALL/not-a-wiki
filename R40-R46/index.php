@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-	<p style="color:red"><b>All Builds are outdated as of v4.0. Use the <a target="_blank" href=": https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
+	<p style="color:red"><b>All Builds are outdated as of v4.0. Use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
 	<br/>
     <p><b>Note</b>: It is recommended to get at least 100 Oc (1e29) gems before starting stage 3 of Dragon Unlocks.</p>
     <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
