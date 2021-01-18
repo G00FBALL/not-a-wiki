@@ -66,12 +66,12 @@
 <p><b><a target="" href="http://musicfamily.org/realm/Abdication/">More about Abdication</b></a></p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Reincarnate.png" alt="Reincarnate" align="middle"></h6>
-<p>Reincarnation was introduced in the Underworld Expansion. In terms of game-play, it's a second kind of soft reset where players can trade in all of their gems and have most of their stats reset for other bonuses.</p>
+<p>Reincarnation was introduced in the Underworld Expansion. In terms of game-play, it is a second kind of soft reset where players can trade in all of their gems and have most of their stats reset for other bonuses.</p>
 <p>Reincarnation can only be performed for the first time when the user reaches 1 Oc (1E27) gems. Each subsequent reincarnation costs 1,000 times more gems.</p>
 <p><b><a target="" href="http://musicfamily.org/realm/Reincarnation/">More about Reincarnation</b></a></p>
 </br>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/Reset-Ascend.png" alt="Ascend" align="middle"></h6>
-<p>Ascension is a third kind of soft reset. It was implemented to over come the limit computers have with very big numbers. All the values were shifted to a smaller range to enable the game to progress further.</p>
+<p>Ascension is a third kind of soft reset. It was implemented to overcome the usual representation limit for coins. Most production upgrades will be shifted to a smaller range to enable the game to progress further.</p>
 <p>At the end of R39, R99, R159 and R219 the Reincarnation Button will say Ascension.</p>
 <p>Ascending will reset all the progress a Reincarnation would reset.</p>
 <p><b><a target="" href="http://musicfamily.org/realm/Ascension/">More about Ascension</b></a></p>
