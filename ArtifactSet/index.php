@@ -23,6 +23,7 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/ElvenSet.png' align='middle'><b> Elven Set</b></p>
 			<p><b>Requirement</b>: R100+, Lucky Clover, Mini-treasure, Raw Emerald</p>
 			<p><b>Effect</b>: Autoclicks 10 times per second.</p>
+			<p><b>Note:</b>: Also generates the same amount of clicks offline.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Sylvan Mirror</p>
 			<p><b>Effect</b>: Clicks count more based on autocast clicks.</p>
 			<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
@@ -32,7 +33,7 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/AngelSet.png' align='middle'><b> Angel Set</b></p>
 			<p><b>Requirement</b>: R100+, Pillar Fragment, Divine Sword, Fossilized Wing</p>
 			<p><b>Effect</b>: Additively increase Mana Regeneration based on highest amount of spells cast in a single game.</p>
-			<p><b>Formula</b>: (3.5 * x ^ 0.35), where x is spells cast in a single game.</p>
+			<p><b>Formula</b>: +(3.5 * x ^ 0.35), where x is spells cast in a single game.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Solid Cloud</p>
 			<p><b>Effect</b>: Increase the duration of all spells based on the amount of Unique Buildings you own.</p>
 			<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the amount of Unique Buildings you own.</p>
@@ -41,8 +42,8 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/GoblinSet.png' align='middle'><b> Goblin Set</b></p>
 			<p><b>Requirement</b>: R100+, Ancient Coin Piece, Goblin Purse, Spiked Whip</p>
 			<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on time spent in this game.</p>
-			<p><b>Additive Formula</b>: (70 * x ^ 0.7), where x is time spent in this game.</p>
-			<p><b>Multiplicative Formula</b>: (0.6 * x ^ 0.6), where x is time spent in this game.</p>
+			<p><b>Additive Formula</b>: +(70 * x ^ 0.7)%, where x is time spent in this game.</p>
+			<p><b>Multiplicative Formula</b>: (0.6 * x ^ 0.6)%, where x is time spent in this game.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Orc Fang Necklace</p>
 			<p><b>Effect</b>: Each time you cast a spell, you also cast free Tax Collections based on time spent in this game.</p>
 			<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>
@@ -53,7 +54,7 @@
 			<p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
 			<p><b>Formula</b>: +(7 * ln(1 + x) ^ 3.5), where x is offline Multiplier.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Blood Chalice</p>
-			<p><b>Effect</b>: Increases production bonus from gems based on FC found this game (Multiplicative).</p>
+			<p><b>Effect</b>: Mutiplicatively increases production bonus from gems based on Faction Coins found this game.</p>
 			<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
 			" coords="81,73,130,124" shape="rect">
 			<area href="#Demon" target="" research="
@@ -69,8 +70,8 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/TitanSet.png' align='middle'><b> Titan Set</b></p>
 			<p><b>Requirement</b>: R100+, Huge Titan Statue, Titan Shield, Titan Helmet</p>
 			<p><b>Effect</b>: Increase Royal Exchange Bonus additively and multiplicatively based on time spent in this game.</p>
-			<p><b>Aditive Formula</b>: (0.3 * x ^ 0.7), where x is time spent in this game.</p>
-			<p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45), where x is time spent in this game.</p>
+			<p><b>Aditive Formula</b>: +(0.3 * x ^ 0.7)%, where x is time spent in this game.</p>
+			<p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45)%, where x is time spent in this game.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Frozen Lightning</p>
 			<p><b>Effect</b>: Whenever you cast a spell, your production is increased based on Lightning Strike activity in this Reincarnation for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
 			<p><b>Formula</b>: (x ^ 0.7)%, where x is Lightning Strike activity time this Reincarnation.</p>
@@ -96,14 +97,14 @@
 			<area href="#Dwarven" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DwarvenSet.png' align='middle'><b> Dwarven Set</b></p>
 			<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
-			<p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
+			<p><b>Effect</b>: Mutiplicatively increase assistants based on your Royal Exchange bonus.</p>
 			<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
 			" coords="28,179,77,225" shape="rect">
 			<area href="#Drow" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DrowSet.png' align='middle'><b> Drow Set</b></p>
 			<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
-			<p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.(additive)</p>
-			<p><b>Formula</b>: (0.45 * x ^ 0.45), where x is total evil spells cast Reincarnation.</p>
+			<p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
+			<p><b>Formula</b>: (0.45 * x ^ 0.45)%, where x is total evil spells cast Reincarnation.</p>
 			" coords="81,178,130,225" shape="rect">
 			<area href="#Dragon" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DragonSet.png' align='middle'><b> Dragon Set</b></p>
@@ -132,6 +133,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/ElvenSet.png" align="middle"><b> Elven Set</b></p>
 		<p><b>Requirement</b>: R100+, Lucky Clover, Mini-treasure, Raw Emerald</p>
 		<p><b>Effect</b>: Autoclicks 10 times per second.</p>
+		<p><b>Note:</b>: Also generates the same amount of clicks offline.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Sylvan Mirror</p>
 		<p><b>Effect</b>: Clicks count more based on autocast clicks.</p>
 		<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
@@ -141,7 +143,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/AngelSet.png" align="middle"><b> Angel Set</b></p>
 		<p><b>Requirement</b>: R100+, Pillar Fragment, Divine Sword, Fossilized Wing</p>
 		<p><b>Effect</b>: Additively increase Mana Regeneration based on highest amount of spells cast in a single game.</p>
-		<p><b>Formula</b>: (3.5 * x ^ 0.35), where x is spells cast in a single game.</p>
+		<p><b>Formula</b>: +(3.5 * x ^ 0.35), where x is spells cast in a single game.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Solid Cloud</p>
 		<p><b>Effect</b>: Increase the duration of all spells based on the amount of Unique Buildings you own.</p>
 		<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the amount of Unique Buildings you own.</p>
@@ -150,8 +152,8 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/GoblinSet.png" align="middle"><b> Goblin Set</b></p>
 		<p><b>Requirement</b>: R100+, Ancient Coin Piece, Goblin Purse, Spiked Whip</p>
 		<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on time spent in this game.</p>
-		<p><b>Additive Formula</b>: (70 * x ^ 0.7), where x is time spent in this game.</p>
-		<p><b>Multiplicative Formula</b>: (0.6 * x ^ 0.6), where x is time spent in this game.</p>
+		<p><b>Additive Formula</b>: +(70 * x ^ 0.7)%, where x is time spent in this game.</p>
+		<p><b>Multiplicative Formula</b>: (0.6 * x ^ 0.6)%, where x is time spent in this game.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Orc Fang Necklace</p>
 		<p><b>Effect</b>: Each time you cast a spell, you also cast free Tax Collections based on time spent in this game.</p>
 		<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>
@@ -162,7 +164,7 @@
 		<p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
 		<p><b>Formula</b>: +(7 * ln(1 + x) ^ 3.5), where x is offline Multiplier.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Blood Chalice</p>
-		<p><b>Effect</b>: Increases production bonus from gems based on FC found this game (Multiplicative).</p>
+		<p><b>Effect</b>: Mutiplicatively increases production bonus from gems based on Faction Coins found this game.</p>
 		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
 		<br/>
 		<H6 id="Demon"></h6>
@@ -178,8 +180,8 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/TitanSet.png" align="middle"><b> Titan Set</b></p>
 		<p><b>Requirement</b>: R100+, Huge Titan Statue, Titan Shield, Titan Helmet</p>
 		<p><b>Effect</b>: Increase Royal Exchange Bonus additively and multiplicatively based on time spent in this game.</p>
-		<p><b>Aditive Formula</b>: (0.3 * x ^ 0.7), where x is time spent in this game.</p>
-		<p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45), where x is time spent in this game.</p>
+		<p><b>Aditive Formula</b>: +(0.3 * x ^ 0.7)%, where x is time spent in this game.</p>
+		<p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45)%, where x is time spent in this game.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Frozen Lightning</p>
 		<p><b>Effect</b>: Whenever you cast a spell, your production is increased based on Lightning Strike activity in this Reincarnation for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
 		<p><b>Formula</b>: (x ^ 0.7)%, where x is Lightning Strike activity time this Reincarnation.</p>
@@ -205,14 +207,14 @@
 		<H6 id="Dwarven"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenSet.png" align="middle"><b> Dwarven Set</b></p>
 		<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
-		<p><b>Effect</b>: Increase assistants based on your Royal Exchange bonus.</p>
+		<p><b>Effect</b>: Mutiplicatively increase assistants based on your Royal Exchange bonus.</p>
 		<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
 		<br/>
 		<H6 id="Drow"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"><b> Drow Set</b></p>
 		<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
-		<p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.(additive)</p>
-		<p><b>Formula</b>: (0.45 * x ^ 0.45), where x is total evil spells cast Reincarnation.</p>
+		<p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
+		<p><b>Formula</b>: (0.45 * x ^ 0.45)%, where x is total evil spells cast Reincarnation.</p>
 		<br/>
 		<H6 id="Dragon"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DragonSet.png" align="middle"><b> Dragon Set</b></p>
