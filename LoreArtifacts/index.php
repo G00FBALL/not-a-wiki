@@ -185,13 +185,13 @@
 		<p><b>Clue</b>: Legacy from 50 generations ago.</p>
 		<p><b>Description</b>: A full plate made of hardened steel.</p>
 		<p><b>Requirement</b>: Play as Mercenaries +R5</p>
-		<p><b>Chance</b>: (#R / 50)%</p>
+		<p><b>Chance</b>: (x / 50)%, where x is the amount of Reincarnation you made.</p>
 		<hr>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/BlackSword.png" alt=Black Sword align=middle> <b>Black Sword</b></p>
-		<p><b>Clue</b>: Legacy from 50 generations ago.</p>
-		<p><b>Description</b>: A full plate made of hardened steel.</p>
-		<p><b>Requirement</b>: R5+, Play as Mercenaries</p>
-		<p><b>Chance</b>: (x / 50)%, where x is the amount of Reincarnation you made.</p>
+		<p><b>Clue</b>: Only found by really, really dedicated Mercenary allies.</p>
+		<p><b>Description</b>: A long sword with an extremely sharp blade made of dark metal.</p>
+		<p><b>Requirement</b>: Play as Mercenaries, at least 100 Mercenary affiliations (All-time)</p>
+		<p><b>Chance</b>: (x / 60,000)%, where x is All-time Mercenary playtime in seconds.</p>
 		<hr>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DragonFangArtifact.png" alt=Dragon Fang align=middle> <b>Dragon Fang</b></p>
 		<p><b>Clue</b>: Found in the Wyrm Dens.</p>
