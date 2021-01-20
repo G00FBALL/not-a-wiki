@@ -1348,6 +1348,11 @@
 	<p><b>Old Formula</b>: round(0.5 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.</p>
 	<p><b>New Formula</b>: (25 * x ^ 0.8)%, where x is your Buildings Owned (This Game) stat.</p>
 <br/>
+<p><b>C5875</b> (Genuineness)</p>
+	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on lowest Lineage level.</p>
+	<p><b>Old Formula</b>: (50 + 1.5 * x ^ 0.95)%, where x is the lowest lineage.</p>
+	<p><b>New Formula</b>: (50 + x ^ 0.95)%, where x is the lowest lineage.</p>
+<br/>
 <p><b>Divine</b></p>
 <p><b>D1275</b> (Solemnity)</p>
 	<p><b>Old Requirement</b>: 100,000 Total Buildings</p>

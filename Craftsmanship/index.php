@@ -267,7 +267,7 @@
 	<p><b>Research Name</b>: Genuineness</p>
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Factory artifact and upgrade,</p>
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on lowest Lineage level.</p>
-	<p><b>Formula</b>: (50 + 1.5 * x ^ 0.95), where x is the lowest lineage.</p>
+	<p><b>Formula</b>: (50 + x ^ 0.95)%, where x is the lowest lineage.</p>
 	<hr>
 	<p><b>C10875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Masterpiece</p>
