@@ -48,7 +48,7 @@
     <area href="http://musicfamily.org/realm/Fairy/#FairyFC1" target="" research=
 	"<p><b>Fairy Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/PixieMischiefChallenge.png align=middle> <b>Pixie Mischief</b></p>
-	<p>&quot;The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!&quot;</p>
+	<p>&quot;The Fairies are small and mighty, and they can turn little things into all you ever need. Speed is paramount and they do not tolerate cheating!&quot;</p>
 	<p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 2+, Fairy Choir upgrade purchased.</p>
 	<p><b>Note</b>: Dwarf can be used but not required.</p>
 	<p><b>Challenge</b>: Only use Farms, Inns and Blacksmiths during a run where you buy all Fairy upgrades within 1 minute of a new game.(Abdication or Reincarnation)</p>
@@ -59,7 +59,7 @@
     <area href="http://musicfamily.org/realm/Fairy/#FairyFC2" target="" research=
 	"<p><b>Fairy Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png align=middle> <b>Donations</b></p>
-	<p>&quot;Our farmers' crops are not growing. Perhaps a little magic can help change that.&quot;</p>
+	<p>&quot;Our farmers' crops are not growing. Perhaps a little quick-magic can change that.&quot;</p>
 	<p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 8+, Fairy Bloodline, Fairy challenge 1 completed.</p>
 	<p><b>Note</b>: Dwarf can be used but not required.</p>
 	<p><b>Challenge</b>: Cast Fairy Chanting within 30 seconds of a new game with over 1000 Farms.(Abdication or Reincarnation)</p>
@@ -88,7 +88,7 @@
     <area href="http://musicfamily.org/realm/Elf/#ElfEC1" target="" research=
 	"<p><b>Elf Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/AdvancedCivilizationChallenges.png align=middle> <b>Advanced Civilization</b></p>
-	<p>&quot;The Eleven council have asked you to provide proof of your loyalty to their cause. Hopefully you'll be quick and efficient enough to impress them.&quot;</p>
+	<p>&quot;The elven council have asked you to provide proof of your loyalty to their cause. Hopefully you'll be quick and efficient enough to impress them.&quot;</p>
 	<p><b> Requirements</b>: Elves as Base Faction, Reincarnation 2+, Sun Blessing upgrade purchased.</p>
 	<p><b>Note</b>: Dwarf can be used but not required.</p>
 	<p><b>Challenge</b>: Get more than 400,000 Elven Coins in under 1 hour of a new game.</p>
@@ -99,7 +99,7 @@
     <area href="http://musicfamily.org/realm/Elf/#ElfEC2" target="" research=
 	"<p><b>Elf Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/LightCollectorChallenges.png align=middle> <b>Light Collector</b></p>
-	<p>&quot;The elven council has asked you to gather countless stars. Time is essence!&quot;</p>
+	<p>&quot;The elven council has asked you to gather the light of countless stars. Time is of the essence!&quot;</p>
 	<p><b>Requirements</b>: Elves as Base Faction, Reincarnation 8+, Elf Bloodline, Elf challenge 1 completed.</p>
 	<p><b>Note</b>: Dwarf can be used but not required.</p>
 	<p><b>Challenge</b>: Gather 60,000 automatic clicks in less than 2 hours.</p>
@@ -127,7 +127,7 @@
     <area href="http://musicfamily.org/realm/Angel/#AngelAC1" target="" research=
 	"<p><b>Angel Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/EfficentMagicChallenges.png align=middle> <b>Efficient Magic</b></p>
-	<p>&quot;The blazing have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy lights. Hurry up, corruption is spreading fast.&quot;</p>
+	<p>&quot;The blazing seraphim have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy of lights. Hurry up, corruption is spreading fast.&quot;</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 2+, God's Rest upgrade purchased.</p>
 	<p><b>Note</b>: Dwarf can be used but not required.</p>
 	<p><b>Challenge</b>: Cast 50 Holy Lights during daytime (6am-6pm local time) within 20 minutes of a new game.</p>
@@ -138,7 +138,7 @@
     <area href="http://musicfamily.org/realm/Angel/#AngelAC2" target="" research=
 	"<p><b>Angel Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/ManaCryptsChallenges.png align=middle> <b>Mana Crypts</b></p>
-	<p>&quot;The archangel leaders have entrusted you on a sacred mission:quickly harvest enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden.&quot;</p>
+	<p>&quot;The archangel leaders have entrusted you with a sacred mission:quickly harness enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden.&quot;</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 8+, Angel Bloodline, Angel challenge 1 completed.</p>
 	<p><b>Note</b>: Dwarf can be used but not required.</p>
 	<p><b>Challenge</b>: Generate 500,000 mana in less than 3 hours without casting a single Tax Collection.</p>
@@ -150,7 +150,7 @@
     <area href="http://musicfamily.org/realm/Angel/#AngelAC3" target="" research=
 	"<p><b>Angel Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/Nephilim'sBlessingChallenges.png align=middle> <b>Nephilim's Blessing</b></p>
-	<p>The fallen nephilim have noticed your abilities and have entrusted you with a secret mission: Spread false hope upon the legends of mortals.</p>
+	<p>&quot;The fallen nephilim have noticed your abilities and have entrusted you with a secret mission: Spread false hope upon the legends of mortals.&quot;</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 18+, Demon Bloodline, Angel Unique Building, Angel challenge 2 completed.</p>
 	<p><b>Note</b>: Dwarf can <b>NOT</b> be used unless you can get Dwarf's Unique Building at R28+.</p>
 	<p><b>Challenge</b>: Have 2000 Halls of Legends, and no good buildings.</p>
@@ -166,7 +166,7 @@
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC1" target="" research=
 	"<p><b>Goblin Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/DiscountSeasonChallenges.png align=middle> <b>Discount Season</b></p>
-	<p>&quot;The goblin king has revealed the secrets to his race's success. Patience and persistence.&quot;</p>
+	<p>&quot;The goblin king has revealed the secrets of his race's success. Patience and persistence.&quot;</p>
 	<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 2+, Greed Drive upgrade purchased.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Have Goblin (3,3) Green Fingers Discount roll more than 1000 seconds worth of production.</p>
@@ -178,7 +178,7 @@
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC2" target="" research=
 	"<p><b>Goblin Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/EliteWarriorsChallenges.png align=middle> <b>Elite Warriors</b></p>
-	<p>&quot;Goblin are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth.&quot;</p>
+	<p>&quot;Goblin elites are used to unimaginable wealth. They will work for you after you bribe them generously and show them your worth.&quot;</p>
 	<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 8+, Goblin Bloodline, Goblin challenge 1 completed.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Buy over 250 upgrades and 15,000 buildings.</p>
@@ -189,9 +189,9 @@
 	"<p><b>Goblin Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/SmuggledJewelsChallenges.png align=middle> <b>Smuggled Jewels</b></p>
 	<p>&quot;The goblin king wants a castle made of jewels all to himself.&quot;</p>
-	<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building, Goblin Bloodline.</p>
+	<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building.</p>
 	<p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
-	<p><b>Challenge</b>: Have at least 1 Qavg (1E75) gems in the abdication treasury.</p>
+	<p><b>Challenge</b>: Have at least 1 B (1e9) gems in the abdication treasury while using Goblin Bloodline.</p>
 	<p><b>Effect</b>: Increase production bonus from Gems by 0.01% for each upgrade purchased.</p>
 	<p><b>Upgrade</b>: Works with All</p>"
 	coords="200,359,253,411" shape="rect">
