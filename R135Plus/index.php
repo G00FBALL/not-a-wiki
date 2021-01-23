@@ -666,7 +666,7 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (Makers L40)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Undead (Makers L40)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Wolfsblood</p>
 						<p><b>Requirements</b>: Archon Challenge 2, Goblin Lineage L40</p>
@@ -753,7 +753,7 @@
 						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
 						<p><b>Note</b>: Buff Clicks (2e6 (2 M)+) Clicks with Elfline Druids (Clicks).</p>
 						<p><b>Note for Faceless</b>: Swap W205 with W1375 and swap Faceless set with Undead Set.</p>
-						<p><b>Note for Fairy</b>: Swap Faceless set with Fairy Set.</p>
+						<p><b>Note for Fairy</b>: Swap Faceless set with Dwarf Set.</p>
 						<p><b>Note for Archon</b>: Add S200,C340,D200,E135,A3400,W1375</p>
 						<p><b>Stoneheart Set</b>: Depending on Bloodline as followed</p>
 						<p>- Undead Set: Elf, Angel, Undead, Druid, Archon, Djinn</p>
@@ -789,7 +789,7 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (Makers L45)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Undead (Makers L45)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: Wolfsblood</p>
 						<p><b>Requirements</b>: Elite Challenge 4s Completed, Goblin Lineage L45</p>
