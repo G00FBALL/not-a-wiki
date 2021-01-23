@@ -17,7 +17,7 @@
 <hr>
 <H6 id="ElfEC2"></h6><p><b>Elf Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/LightCollectorChallenges.png" alt="Light Collector</p>" align="middle"> <b>Light Collector</b></p>
-<p>"The elven council has asked you to gather countless stars. Time is essence!"</p>
+<p>"The elven council has asked you to gather the light of countless stars. Time is of the essence!"</p>
 <p><b>Requirements</b>: Elves as Base Faction, Reincarnation 8+, Elf Bloodline, Elf challenge 1 completed.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Gather 60,000 automatic clicks in less than 2 hours.</p>

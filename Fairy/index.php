@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <H6 id="FairyFC1"></h6><p><b>Fairy Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/PixieMischiefChallenge.png" alt="Pixie Mischief</p>" align="middle"> <b>Pixie Mischief</b></p>
-<p>"The Fairies are small and mighty, they can turn little things in to all you ever need. Speed is paramount and they do not tolerate cheating!"</p>
+<p>"The Fairies are small and mighty, and they can turn little things into all you ever need. Speed is paramount and they do not tolerate cheating!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 2+, Fairy Choir upgrade purchased.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Only use Farms, Inns and Blacksmiths during a run where you buy all Fairy upgrades within 1 minute of a new game.(Abdication or Reincarnation)</p>
@@ -17,7 +17,7 @@
 <hr>
 <H6 id="FairyFC2"></h6><p><b>Fairy Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DonationsChallenge.png" alt="Donations</p>" align="middle"> <b>Donations</b></p>
-<p>"Our farmers' crops are not growing. Perhaps a little magic can help change that."</p>
+<p>"Our farmers' crops are not growing. Perhaps a little quick-magic can change that."</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 8+, Fairy Bloodline, Fairy challenge 1 completed.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Cast Fairy Chanting within 30 seconds of a new game with over 1000 Farms.(Abdication or Reincarnation)</p>

@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <H6 id="AngelAC1"></h6><p><b>Angel Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EfficentMagicChallenges.png" alt="Efficient Magic" align="middle"> <b>Efficient Magic</b></p>
-<p>"The blazing have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy lights. Hurry up, corruption is spreading fast."</p>
+<p>"The blazing seraphim have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy of lights. Hurry up, corruption is spreading fast."</p>
 <p><b>Requirements</b>: Angel as Base Faction, Reincarnation 2+, God's Rest upgrade purchased.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Cast 50 Holy Lights during daytime (6am-6pm local time) within 20 minutes of a new game.</p>
@@ -16,7 +16,7 @@
 <hr>
 <H6 id="AngelAC2"></h6><p><b>Angel Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ManaCryptsChallenges.png" alt="Mana Crypts" align="middle"> <b>Mana Crypts</b></p>
-<p>"The archangel leaders have entrusted you on a sacred mission:quickly harvest enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden."</p>
+<p>"The archangel leaders have entrusted you with a sacred mission:quickly harness enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden."</p>
 <p><b>Requirements</b>: Angel as Base Faction, Reincarnation 8+, Angel Bloodline, Angel challenge 1 completed.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Generate 500,000 mana in less than 3 hours without casting a single Tax Collection.</p>
