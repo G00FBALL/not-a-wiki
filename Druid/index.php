@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <H6 id="DruidDC1"></h6><p><b>Druid Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SilentAssistanceChallenges.png" alt="Silent Assistance" align="middle"> <b>Silent Assistance</b></p>
-<p>"The ancient druids request evidence that you are a servant of balance before your inclusion to their ranks."</p>
+<p>"The ancient Druids request evidence that you are a servant of balance before your inclusion to their ranks."</p>
 <p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 <p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 <p><b>Effect</b>: Gain assistants based on time spent in this game.</p>
@@ -38,7 +38,7 @@
 <hr>
 <H6 id="DruidDC3"></h6><p><b>Druid Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EldritchArchitectureChallenges.png" alt="Eldritch Architecture" align="middle"> <b>Eldritch Architecture</b></p>
-<p>"Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses."</p>
+<p>"Pleased with your efforts, the elder Druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses."</p>
 <p><b>Requirements</b>: Druid as Base Faction, Reincarnation 19+, 1000 excavations, Elf and Demon challenge 3 and Druid challenge 2 completed.</p>
 <p><b>Challenge</b>: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.</p>
 <p><b>Effect</b>: You gain 1.5 additional max mana for every 100 buildings.</p>

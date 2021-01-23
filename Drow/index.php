@@ -36,7 +36,7 @@
 <hr>
 <H6 id="DrowDC4"></h6><p><b>Drow Challenge 4</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/TrainedAssasinsChallenges.png" alt="Trained Assassins" align="middle"> <b>Trained Assassins</b></p>
-<p>There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm.</p>
+<p>"There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm."</p>
 <p><b>Requirements</b>: Any Evil as Base Faction, Drow as Prestige Faction, Reincarnation 27+, 2000 excavations, Drow Challenge 3 completed.</p>
 <p><b>Challenge</b>: Cast Call to Arms with at least 30,000 buildings.</p>
 <p><b>Effect</b>: Increase your Offline Time (This Game) based on spells cast in this R.</p>
@@ -45,7 +45,7 @@
 <hr>
 <H6 id="DrowDC5"></h6><p><b>Drow Challenge 5</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShadowMirageChallenges.png" alt="Shadow Mirage" align="middle"> <b>Shadow Mirage</b></p>
-<p>It is time to emerge from the shadows. Our warriors will demonstrate their hard work and lead us to domination of the realm.</p>
+<p>"It is time to emerge from the shadows. Our warriors will demonstrate their hard work and lead us to domination of the realm."</p>
 <p><b>Requirements</b>: Any Evil as Base Faction, Drow as Prestige Faction, Reincarnation 33+, Drow Unique Building, Drow Challenge 4 completed.</p>
 <p><b>Challenge</b>: Have at least 2 hours offline (This Game) and at least 360 charges of Combo Strike.</p>
 <p><b>Effect</b>:A fraction of your alignment spell bonus is applied passively.</p>

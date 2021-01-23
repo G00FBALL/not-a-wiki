@@ -4,9 +4,9 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
-<p><b>Dwarf Challenge 1</b></p>
+<H6 id="DwarfDC1"></h6><p><b>Dwarf Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EnchantedCrystalsChallenges.png" alt="Enchanted Crystals" align="middle"> <b>Enchanted Crystals</b></p>
-<H6 id="DwarfDC1"></h6><p>"The dwarven lords have asked you to enchant their pickaxes."</p>
+<p>"The dwarven lords have asked you to enchant their pickaxes."</p>
 <p><b>Requirements</b>: Angel as Base Faction, Dwarves as Prestige Faction, Reincarnation 6+, Minedwarf upgrade purchased, Elven, Angel and Fairy challenge 1 completed.</p>
 <p><b>Challenge</b>: Cast 20 Tax Collections while having at least 4 spells active.</p>
 <p><b>Effect</b>: Reduce all spells' cost based on the amount of gems you own.</p>
