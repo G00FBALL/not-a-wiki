@@ -715,7 +715,7 @@
 						<p>W10,W560,W1375</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
 						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
-						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Buff Clicks (2e6 (2 M)+) Clicks with Elfline Druids (Clicks).</p>
 						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
 					</div>
 				</div>
@@ -751,7 +751,7 @@
 						<p>W25,W205,W405,W520</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
 						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
-						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Buff Clicks (2e6 (2 M)+) Clicks with Elfline Druids (Clicks).</p>
 						<p><b>Note for Faceless</b>: Swap W205 with W1375 and swap Faceless set with Undead Set.</p>
 						<p><b>Note for Fairy</b>: Swap Faceless set with Fairy Set.</p>
 						<p><b>Note for Archon</b>: Add S200,C340,D200,E135,A3400,W1375</p>
@@ -784,7 +784,7 @@
 						<p>W10,W560,W1375</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
 						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
-						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Buff Clicks (2e6 (2 M)+) Clicks with Elfline Druids (Clicks).</p>
 						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
 					</div>
 				</div>
