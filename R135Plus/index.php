@@ -753,7 +753,7 @@
 						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
 						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
 						<p><b>Note for Faceless</b>: Swap W205 with W1375 and swap Faceless set with Undead Set.</p>
-						<p><b>Note for Fairy<b>: Swap Faceless set with Fairy Set.</p>
+						<p><b>Note for Fairy</b>: Swap Faceless set with Fairy Set.</p>
 						<p><b>Note for Archon</b>: Add S200,C340,D200,E135,A3400,W1375</p>
 						<p><b>Stoneheart Set</b>: Depending on Bloodline as followed</p>
 						<p>- Undead Set: Elf, Angel, Undead, Druid, Archon, Djinn</p>
