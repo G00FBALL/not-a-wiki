@@ -16,16 +16,16 @@
 			<p><b>Effect</b>: Farms, Inns and Blacksmiths count more based on the amount of time spent with Fairies in this Reincarnation.</p>
 			<p><b>Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies in This Reincarnation in seconds.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Glowing Wing</p>
-			<p><b>Effect</b>: Mutiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
+			<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
 			<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
 			"coords="30,22,76,69" shape="rect">
 			<area href="#Elven" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/ElvenSet.png' align='middle'><b> Elven Set</b></p>
 			<p><b>Requirement</b>: R100+, Lucky Clover, Mini-treasure, Raw Emerald</p>
 			<p><b>Effect</b>: Autoclicks 10 times per second.</p>
-			<p><b>Note:</b>: Also generates the same amount of clicks offline.</p>
+			<p><b>Note</b>: Also generates the same amount of clicks offline.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Sylvan Mirror</p>
-			<p><b>Effect</b>: Clicks count more based on autocast clicks.</p>
+			<p><b>Effect</b>: Clicks count more based on automatic clicks.</p>
 			<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
 			<p><b>Note</b>: NOT affected by any 'clicks count more' effects.</p>
 			" coords="82,22,129,70" shape="rect">
@@ -54,8 +54,8 @@
 			<p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
 			<p><b>Formula</b>: +(7 * ln(1 + x) ^ 3.5), where x is offline Multiplier.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Blood Chalice</p>
-			<p><b>Effect</b>: Mutiplicatively increases production bonus from gems based on Faction Coins found this game.</p>
-			<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
+			<p><b>Effect</b>: Multiplicatively increases production bonus from Gems based on Faction Coins found this game.</p>
+			<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is Faction Coins found this game.</p>
 			" coords="81,73,130,124" shape="rect">
 			<area href="#Demon" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DemonSet.png' align='middle'><b> Demon Set</b></p>
@@ -70,7 +70,7 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/TitanSet.png' align='middle'><b> Titan Set</b></p>
 			<p><b>Requirement</b>: R100+, Huge Titan Statue, Titan Shield, Titan Helmet</p>
 			<p><b>Effect</b>: Increase Royal Exchange Bonus additively and multiplicatively based on time spent in this game.</p>
-			<p><b>Aditive Formula</b>: +(0.3 * x ^ 0.7)%, where x is time spent in this game.</p>
+			<p><b>Additive Formula</b>: +(0.3 * x ^ 0.7)%, where x is time spent in this game.</p>
 			<p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45)%, where x is time spent in this game.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Frozen Lightning</p>
 			<p><b>Effect</b>: Whenever you cast a spell, your production is increased based on Lightning Strike activity in this Reincarnation for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
@@ -88,8 +88,8 @@
 			<area href="#Faceless" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/FacelessSet.png' align='middle'><b> Faceless Set</b></p>
 			<p><b>Requirement</b>: R100+, Translucent Goo, Octopus-shaped Helmet, Nightmare Figment</p>
-			<p><b>Effect</b>: Gain assistants based on the highest amount of assistants you had in a previous game.(additively)</p>
-			<p><b>Formula</b>: +(0.45 * x ^ 0.45), where x is the highest amount of assistants you had in a previous game.</p>
+			<p><b>Effect</b>: Additively gain Assistants based on the highest amount of Assistants you had in a previous game.</p>
+			<p><b>Formula</b>: +(0.45 * x ^ 0.45), where x is the highest amount of Assistants you had in a previous game.</p>
 			<p><b>Second Effect Requirement</b>: R220+, The Blackest Ink</p>
 			<p><b>Effect</b>: Increases spell duration based on time spent being offline in this game.</p>
 			<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is offline time this game.</p>
@@ -97,7 +97,7 @@
 			<area href="#Dwarven" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DwarvenSet.png' align='middle'><b> Dwarven Set</b></p>
 			<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
-			<p><b>Effect</b>: Mutiplicatively increase assistants based on your Royal Exchange bonus.</p>
+			<p><b>Effect</b>: Multiplicatively increase Assistants based on your Royal Exchange bonus.</p>
 			<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
 			" coords="28,179,77,225" shape="rect">
 			<area href="#Drow" target="" research="
@@ -126,16 +126,16 @@
 		<p><b>Effect</b>: Farms, Inns and Blacksmiths count more based on the amount of time spent with Fairies in this Reincarnation.</p>
 		<p><b>Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies in This Reincarnation in seconds.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Glowing Wing</p>
-		<p><b>Effect</b>: Mutiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
+		<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
 		<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
 		<br/>
 		<H6 id="Elven"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/ElvenSet.png" align="middle"><b> Elven Set</b></p>
 		<p><b>Requirement</b>: R100+, Lucky Clover, Mini-treasure, Raw Emerald</p>
 		<p><b>Effect</b>: Autoclicks 10 times per second.</p>
-		<p><b>Note:</b>: Also generates the same amount of clicks offline.</p>
+		<p><b>Note</b>: Also generates the same amount of clicks offline.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Sylvan Mirror</p>
-		<p><b>Effect</b>: Clicks count more based on autocast clicks.</p>
+		<p><b>Effect</b>: Clicks count more based on automatic clicks.</p>
 		<p><b>Formula</b>: (ln(1 + x) ^ 2.5 + x ^ 0.25)%, where x is automatic clicks this game.</p>
 		<p><b>Note</b>: NOT affected by any "clicks count more" effects.</p>
 		<br/>
@@ -161,10 +161,10 @@
 		<H6 id="Undead"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/UndeadSet.png" align="middle"><b> Undead Set</b></p>
 		<p><b>Requirement</b>: R100+, Rotten Organ, Jaw Bone, DustyCoffin</p>
-		<p><b>Effect</b>: Additively Increase max mana based on offline bonus.</p>
+		<p><b>Effect</b>: Additively increase max mana based on offline bonus.</p>
 		<p><b>Formula</b>: +(7 * ln(1 + x) ^ 3.5), where x is offline Multiplier.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Blood Chalice</p>
-		<p><b>Effect</b>: Mutiplicatively increases production bonus from gems based on Faction Coins found this game.</p>
+		<p><b>Effect</b>: Multiplicatively increases production bonus from gems based on Faction Coins found this game.</p>
 		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is faction coins this game.</p>
 		<br/>
 		<H6 id="Demon"></h6>
@@ -198,8 +198,8 @@
 		<H6 id="Faceless"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/FacelessSet.png" align="middle"><b> Faceless Set</b></p>
 		<p><b>Requirement</b>: R100+, Translucent Goo, Octopus-shaped Helmet, Nightmare Figment</p>
-		<p><b>Effect</b>: Gain assistants based on the highest amount of assistants you had in a previous game.(additively)</p>
-		<p><b>Formula</b>: +(0.45 * x ^ 0.45), where x is the highest amount of assistants you had in a previous game.</p>
+		<p><b>Effect</b>: Additively gain Assistants based on the highest amount of Assistants you had in a previous game.</p>
+		<p><b>Formula</b>: +(0.45 * x ^ 0.45), where x is the highest amount of Assistants you had in a previous game.</p>
 		<p><b>Second Effect Requirement</b>: R220+, The Blackest Ink</p>
 		<p><b>Effect</b>: Increases spell duration based on time spent being offline in this game.</p>
 		<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is offline time this game.</p>
@@ -207,7 +207,7 @@
 		<H6 id="Dwarven"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenSet.png" align="middle"><b> Dwarven Set</b></p>
 		<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
-		<p><b>Effect</b>: Mutiplicatively increase assistants based on your Royal Exchange bonus.</p>
+		<p><b>Effect</b>: Multiplicatively increase Assistants based on your Royal Exchange bonus.</p>
 		<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
 		<br/>
 		<H6 id="Drow"></h6>
