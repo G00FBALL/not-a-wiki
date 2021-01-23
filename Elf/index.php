@@ -6,7 +6,7 @@
 <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
 <H6 id="ElfEC1"></h6><p><b>Elf Challenge 1</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AdvancedCivilizationChallenges.png" alt="Advanced Civilization</p>" align="middle"> <b>Advanced Civilization</b></p>
-<p>"The Eleven council have asked you to provide proof of your loyalty to their cause. Hopefully you'll be quick and efficient enough to impress them."</p>
+<p>"The elven council have asked you to provide proof of your loyalty to their cause. Hopefully you'll be quick and efficient enough to impress them."</p>
 <p><b> Requirements</b>: Elves as Base Faction, Reincarnation 2+, Sun Blessing upgrade purchased.</p>
 <p><b>Note</b>: Dwarf can be used but not required.</p>
 <p><b>Challenge</b>: Get more than 400,000 Elven Coins in under 1 hour of a new game.</p>
