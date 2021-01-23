@@ -180,7 +180,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/TitanSet.png" align="middle"><b> Titan Set</b></p>
 		<p><b>Requirement</b>: R100+, Huge Titan Statue, Titan Shield, Titan Helmet</p>
 		<p><b>Effect</b>: Increase Royal Exchange Bonus additively and multiplicatively based on time spent in this game.</p>
-		<p><b>Aditive Formula</b>: +(0.3 * x ^ 0.7)%, where x is time spent in this game.</p>
+		<p><b>Additive Formula</b>: +(0.3 * x ^ 0.7)%, where x is time spent in this game.</p>
 		<p><b>Multiplicative Formula</b>: (0.45 * x ^ 0.45)%, where x is time spent in this game.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Frozen Lightning</p>
 		<p><b>Effect</b>: Whenever you cast a spell, your production is increased based on Lightning Strike activity in this Reincarnation for 20 seconds. If another spell is cast while this effect is active, it is restored to full duration.</p>
