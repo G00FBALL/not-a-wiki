@@ -428,7 +428,7 @@
 						<p>E260,E1225,E1325</p>
 						<p>A120,A251,A375,A1200,A1500,</p>
 						<p>W350,W1375,W1400</p>
-						<p><b>Notes</b>: Buff MK2 with Goblinline Fairy, Excavations this Reincarnation (1e6 (1 M)+) & Excavation Resets (50+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff MK2 with Goblinline Fairy, Excavations this Reincarnation (1e6 (1 M)+) & Excavation Resets (50+) with Makerline Angel (Max Excavations).</p>
 					</div>
 				</div>
 			</div>
@@ -492,9 +492,9 @@
 						<p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
 						<p><b>Faction</b>: Elf</p>
 						<p><b>Artifact Set</b>: Faceless</p>
-						<p><b>Notes</b>: Buff Max assistants (1e16 (10 Qa)+) with regular Angelline Demons (needs DJC4) runs.</p>
-						<p><b>Notes</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation Resets (50+) with Makerline Angel (Max Excavations).</p>
-						<p><b>Notes</b>: Estimated time to completion is 1-2 hours (dependent on manual clicking).</p>
+						<p><b>Note</b>: Buff Max assistants (1e16 (10 Qa)+) with regular Angelline Demons (needs DJC4) runs.</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation Resets (50+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Estimated time to completion is 1-2 hours (dependent on manual clicking).</p>
 					</div>
 				</div>
 			</div>
@@ -533,7 +533,7 @@
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Chaos Factions (Djinn Challenge 5)</a></b></p>
 					<div class="autohide">
 						<p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
-						<p>Djinn Challenge 5 requires 88 casts of Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst.</p>
+						<p><b>Notes</b>: Djinn Challenge 5 requires 88 casts of Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst.</p>
 						<p>Use Faceless to immediately get the Catalyst casts and Fairy to immediately get the Limited Wish casts.</p>
 						<p>Get the remaining spells with Reverse Autocasting or just wait.</p>
 					</div>
@@ -595,14 +595,14 @@
 				<p>E25,E320,E410,</p>
 				<p>A400,A495,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Notes</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-				<p><b>Notes</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
-				<p><b>Notes</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+				<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
+				<p><b>Note</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
+				<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
 				<br/>
 				<p><b>Notes for Lineages 45, R148+</b>:</p>
 				<p>- 1e120 (1 Notg) Gems+</p>
-				<p>- Excavations (1.4e6+) & Resets (65+).<p>
+				<p>- Excavations (1.4e6 (1.4 M)+) & Resets (65+).</p>
 				<p>- Clicks (2e6 (2 M)+)</p>
 				<p>- Max Assistants (2e16 (10 Qa)+) with Angelline Demons - needs DJC4.</p>
 			</div>
@@ -637,19 +637,19 @@
 				<p>E1,E225,E320,E495,E590,</p>
 				<p>A10,A400,A410,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Notes</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Notes</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-				<p><b>Notes</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
-				<p><b>Notes for Lineage Order</b>: First Dragon L40, then rebuff Max Assistants (4e14 (400 T)+), then all others.</p>
-				<p><b>Notes for Faceless</b>: Swap W205 with W1375.</p>
-				<p><b>Notes for Archon</b>: add S200,C340,D200,E135,A3400,W1375</p>
+				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+				<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
+				<p><b>Note</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
+				<p><b>Note for Lineage Order</b>: First Dragon L40, then rebuff Max Assistants (4e14 (400 T)+), then all others.</p>
+				<p><b>Note for Faceless</b>: Swap W205 with W1375.</p>
+				<p><b>Note for Archon</b>: add S200,C340,D200,E135,A3400,W1375</p>
 				<br/>
 				<p><b>Notes for Lineages 45, R148+</b>:</p>
 				<p>- 1e120 (1 Notg) Gems+</p>
-				<p>- Excavations (1.4e6+) & Resets (65+).</p>
+				<p>- Excavations (1.4e6 (1.4 M)+) & Resets (65+).</p>
 				<p>- Clicks (2e6 (2 M)+)</p>
 				<p>- Max Assistants (3e16 (10 Qa)+) with Angelline Demons - needs DJC4.</p>
-				<p><b>Stoneheart Set<b>: Depending on Bloodline as followed</p>
+				<p><b>Stoneheart Set</b>: Depending on Bloodline as followed</p>
 				<p>- Undead Set: Elf, Angel, Undead, Druid, Faceless*, Archon, Djinn</p>
 				<p>- Dwarf Set: Fairy*, Titan, Dwarf, Dragon</p>
 				<p>- Demon Set: Demon</p>
@@ -676,14 +676,14 @@
 				<p>E25,E320,E410,</p>
 				<p>A400,A495,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Notes</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-				<p><b>Notes</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
-				<p><b>Notes</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+				<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
+				<p><b>Note</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
+				<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
 				<br/>
 				<p><b>Notes for Lineages 45, R148+</b>:</p>
 				<p>- 1e120 (1 Notg) Gems+</p>
-				<p>- Excavations (1.4e6+) & Resets (65+).</p>
+				<p>- Excavations (1.4e6 (1.4 M)+) & Resets (65+).</p>
 				<p>- Clicks (2e6 (2 M)+)</p>
 				<p>- Max Assistants (2e16 (10 Qa)+) with Angelline Demons - needs DJC4.</p>
 			</div>
@@ -708,8 +708,8 @@
 				<p>A1,A175,A400,A410,A590,</p>
 				<p>W50,W205,W405,W520</p>
 				<p><b>After Archon treaty</b>: S200,C340,D3350,E320,A120,W1375 (reimport build)</p>
-				<p><b>Notes</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Notes for L45,R148+</b>: Buff Excavations this Reincarnation (1.4e6 (1 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
+				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+				<p><b>Note for L45,R148+</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
 			</div>
 		</div>
 	</div>
@@ -737,9 +737,8 @@
 				<p>W1,W175,W405,W520,W590,W1375</p>
 				<p><b>Note</b>: Use this build once prior to running Angelline Demons Production Build to set a base level for W175.</p>
 				<p><b>Note</b>: Needs some time to be able to buy Djinn Treaty.</p>
-				<p><b>Note</b>: Should be run until you have 3e7 Hellfire Blast casts.</p>
+				<p><b>Note</b>: Should be run until you have 3e7 (30 M) Hellfire Blast casts (only  2e6 (2 M) needed in R154+).</p>
 				<p><b>Note</b>: Doing a manual combo at the end can also produce gems (see Production Build for more instructions).</p>
-				<p><b>Note</b>: No longer needed if all challenges are completed.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">

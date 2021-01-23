@@ -6,7 +6,7 @@
     <h6><a href="/realm/Challenges/"><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6></a>
     <H6 id="TitanTC1"></h6><p><b>Titan Challenge 1</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/RichFollowersChallenges.png" alt="Rich Followers" align="middle"> <b>Rich Followers</b></p>
-    <p>"The mighty titans have decided to give you and a dozen of you most loyal subjects a chance to prove your kingdom's economy is as strong as theirs."</p>
+    <p>"The mighty Titans have decided to give you and a dozen of you most loyal subjects a chance to prove your kingdom's economy is as strong as theirs."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 4+, Lightning Storm upgrade purchased, Angel and Goblin challenge 1 completed.</p>
     <p><b>Challenge</b>: Have at least 13 assistants and have exactly 13 times that many Royal Exchanges (Total)</p>
     <p><b>Effect</b>: You gain a free assistant for every 80 Royal Exchanges you bought</p>
@@ -17,7 +17,7 @@
     <hr>
     <H6 id="TitanTC2"></h6><p><b>Titan Challenge 2</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/HarmonyofThoughtsChallenges.png" alt="Harmony of Thoughts" align="middle"> <b>Harmony of Thoughts</b></p>
-    <p>"The mighty titans wish for you to harness arcane powers through your fingertips."</p>
+    <p>"The mighty Titans wish for you to harness arcane powers through your fingertips."</p>
     <p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
     <p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
     <p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. does not suffer from Ascension penalties.</p>
@@ -27,7 +27,7 @@
     <hr>
     <H6 id="TitanTC3"></h6><p><b>Titan Challenge 3</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/BalancedEconomyChallenges.png" alt="Passage to Tartarus" align="middle"> <b>Balanced Economy</b></p>
-    <p>"The mighty titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark you ascension."</p>
+    <p>"The mighty Titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark your ascension."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 19+, 1000 excavations, Angel and Goblin challenge 3 and Titan challenge 2 completed.</p>
     <p><b>Challenge</b>: Cast 80 Tax Collections within the active duration of a single Lightning Strike.</p>
     <p><b>Effect</b>: Gain additional max mana based on the number of faction coins generated this game.</p>
@@ -36,7 +36,7 @@
     <hr>
     <H6 id="TitanTC4"></h6><p><b>Titan Challenge 4</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/StormofWealthChallenges.png" alt="Storm of Wealth" align="middle"> <b>Storm of Wealth</b></p>
-    <p>"The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them."</p>
+    <p>"The mighty Titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them."</p>
     <p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
     <p><b>Challenge</b>: Hit Halls of Legends with Lightning Strike 2 times in a row while having all building types and no researches.</p>
     <p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. does not suffer from Ascension penalties.</p>

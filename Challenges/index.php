@@ -227,10 +227,10 @@
     <area href="http://musicfamily.org/realm/Undead/#UndeadUC3" target="" research=
 	"<p><b>Undead Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/DeathKnightsChallenges.png align=middle> <b>Death Knights</b></p>
-	<p>&quot;The walking dead are prepared for a zombie invasion.Their last task for you is to loot the local cemeteries for possible equipment.&quot;</p>
+	<p>&quot;The walking dead are prepared for a zombie invasion. Their last task for you is to loot the local cemeteries for possible equipment.&quot;</p>
 	<p><b>Requirements</b>: Undead as Base Faction, Reincarnation 18+, Undead Unique Building, Undead challenge 2 completed.</p>
 	<p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
-	<p><b>Challenge</b>: Collect 100M (1E8) Faction coins</p>
+	<p><b>Challenge</b>: Collect 100 M (1e8) Faction coins</p>
 	<p><b>Effect</b>: Increase your number of assistants by 10%.</p>
 	<p><b>Upgrade</b>: Works with All</p>"
 	coords="198,462,254,517" shape="rect">
@@ -243,7 +243,7 @@
     <area href="http://musicfamily.org/realm/Demon/#DemonDC1" target="" research=
 	"<p><b>Demon Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/TrophyCollectorsChallenges.png align=middle> <b>Trophy Collectors</b></p>
-	<p>&quot;The Prince of Hell wish to test your skills at gathering coins without outside help.&quot;</p>
+	<p>&quot;The Princes of Hell wish to test your skills at gathering coins without outside help.&quot;</p>
 	<p><b>Requirements</b>: Demon as Base Faction, Reincarnation 2+, Hellfire Blast upgrade purchased.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Collect 5000 Demon Coins without using Gem Power, Reincarnation Power, Researches or Excavations.</p>
@@ -256,7 +256,7 @@
     <area href="http://musicfamily.org/realm/Demon/#DemonDC2" target="" research=
 	"<p><b>Demon Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/LegendaryAnticsChallenges.png align=middle> <b>Legendary Antics</b></p>
-	<p>&quot;The Princes of Hell demand a tribute, unleash the beast by extorting every other faction in this realm. You should perform this task with haste, for they are well known for their impatience&quot;</p>
+	<p>&quot;The Princes of Hell demand a tribute, unleash the Beast by extorting every other faction in this realm. You should perform this task with haste, for they are well known for their impatience&quot;</p>
 	<p><b>Requirements</b>: Demon as Base Faction, Reincarnation 8+, Demon Bloodline.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Have exactly 666 Royal Exchanges across all factions, with 0 Demon Exchanges, in under 666 seconds current playtime.</p>
@@ -270,7 +270,7 @@
 	<p>&quot;The Demon King has ordered you to prove your might to the entire realm.&quot;</p>
 	<p><b>Requirements</b>: Demon as Base Faction, Reincarnation 18+, Demon Unique Building</p>
 	<p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
-	<p><b>Challenge</b>: Have at least 2000 Halls of Legends and 333 Trophies.</p>
+	<p><b>Challenge</b>: Have at least 1750 Halls of Legends and 333 Trophies.</p>
 	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the amount of unlocked trophies. does not suffer from Ascension penalties.</p>
 	 <p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is the amount of unlocked trophies.</p>
 	<p><b>Upgrade</b>: Works with All</p>
@@ -285,7 +285,7 @@
     <area href="http://musicfamily.org/realm/Titan/#TitanTC1" target="" research=
 	"<p><b>Titan Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/RichFollowersChallenges.png align=middle> <b>Rich Followers</b></p>
-	<p>&quot;The mighty titans have decided to give you and a dozen of you most loyal subjects a chance to prove your kingdom's economy is as strong as theirs.&quot;</p>
+	<p>&quot;The mighty Titans have decided to give you and a dozen of you most loyal subjects a chance to prove your kingdom's economy is as strong as theirs.&quot;</p>
 	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 4+, Lightning Storm upgrade purchased, Angel and Goblin challenge 1 completed.</p>
 	<p><b>Challenge</b>: Have at least 13 assistants and have exactly 13 times that many Royal Exchanges (Total)</p>
 	<p><b>Effect</b>: You gain a free assistant for every 80 Royal Exchanges you bought</p>
@@ -297,7 +297,7 @@
     <area href="http://musicfamily.org/realm/Titan/#TitanTC2" target="" research=
 	"<p><b>Titan Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/HarmonyofThoughtsChallenges.png align=middle> <b>Harmony of Thoughts</b></p>
-	<p>&quot;The mighty titans wish for you to harness arcane powers through your fingertips.&quot;</p>
+	<p>&quot;The mighty Titans wish for you to harness arcane powers through your fingertips.&quot;</p>
 	<p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
 	<p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
 	<p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. does not suffer from Ascension penalties.</p>
@@ -308,7 +308,7 @@
     <area href="http://musicfamily.org/realm/Titan/#TitanTC3" target="" research=
 	"<p><b>Titan Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/BalancedEconomyChallenges.png align=middle> <b>Balanced Economy</b></p>
-	<p>&quot;The mighty titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark you ascension.&quot;</p>
+	<p>&quot;The mighty Titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark your ascension.&quot;</p>
 	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 19+, 1000 excavations, Angel and Goblin challenge 3 and Titan challenge 2 completed.</p>
 	<p><b>Challenge</b>: Cast 80 Tax Collections within the active duration of a single Lightning Strike.</p>
 	<p><b>Effect</b>: Gain additional max mana based on the number of faction coins generated this game.</p>
@@ -318,7 +318,7 @@
     <area href="http://musicfamily.org/realm/Titan/#TitanTC4" target="" research=
 	"<p><b>Titan Challenge 4</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/StormofWealthChallenges.png align=middle> <b>Storm of Wealth</b></p>
-	<p>&quot;The mighty titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them.&quot;</p>
+	<p>&quot;The mighty Titans wish to cement their legendary status for perpetuity. You must focus on this task and no other to be able to join them.&quot;</p>
 	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 25+, Titan Unique Building, Titan challenge 3 completed.</p>
 	<p><b>Challenge</b>: Hit Halls of Legends with Lightning Strike 2 times in a row while having all building types and no researches.</p>
 	<p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. does not suffer from Ascension penalties.</p>
@@ -338,7 +338,7 @@
     <area href="http://musicfamily.org/realm/Druid/#DruidDC1" target="" research=
 	"<p><b>Druid Challenge 1</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/SilentAssistanceChallenges.png align=middle> <b>Silent Assistance</b></p>
-	<p>&quot;The ancient druids request evidence that you are a servant of balance before your inclusion to their ranks.&quot;</p>
+	<p>&quot;The ancient Druids request evidence that you are a servant of balance before your inclusion to their ranks.&quot;</p>
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 4+, Halls of Balance upgrade purchased, Elf and Demon challenge 1 completed.</p>
 	<p><b>Challenge</b>: Make the building targeted by Grand Balance surpass 99.9% of your production.</p>
 	<p><b>Effect</b>: Gain assistants based on time spent in this game.</p>
@@ -358,7 +358,7 @@
     <area href="http://musicfamily.org/realm/Druid/#DruidDC3" target="" research=
 	"<p><b>Druid Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/EldritchArchitectureChallenges.png align=middle> <b>Eldritch Architecture</b></p>
-	<p>&quot;Pleased with your efforts, the elder druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.&quot;</p>
+	<p>&quot;Pleased with your efforts, the elder Druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.&quot;</p>
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 19+, 1000 excavations, Elf and Demon challenge 3 and Druid challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.</p>
 	<p><b>Effect</b>: You gain 1.5 additional max mana for every 100 buildings.</p>
@@ -397,11 +397,10 @@
     <area href="http://musicfamily.org/realm/Faceless/#FacelessFC2" target="" target="" research=
 	"<p><b>Faceless Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/MysticMazeChallenges.png align=middle> <b>Mystic Maze</b></p>
-	<p>&quot;Your hive superiors have ordered you to setup a base without alerting any nearby enemies&quot;</p>
+	<p>&quot;Your Hive superiors have ordered you to setup a base without alerting any nearby enemies&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 9+, Faceless Bloodline, Fairy and Undead challenge 2 completed</p>
 	<p><b>Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
-	<p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p><p><b>Upgrade</b>: Works with Druid</p>
-	<p><b>Tip</b>: Buy every building except Labyrinth and click 1000 times.</p>"
+	<p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p><p><b>Upgrade</b>: Works with Druid</p>"
 	coords="135,878,191,931" shape="rect">
     <area href="http://musicfamily.org/realm/Faceless/#FacelessFC3" target="" target="" research=
 	"<p><b>Faceless Challenge 3</b></p>
@@ -560,13 +559,13 @@
 	<p><b>Effect</b>: Increase Non-Unique Buildings production based on the amount of Grand Balance targets. Does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (20 * x ^ 2), where x is number of targets.</p>
 	<p><b>Effect</b>: Also reduces all Spell Tier upgrades costs based on Grand Balance activity time in this R.</p>
-	<p><b>Formula</b>: max(0, (1-t/28)^9) t is Grand Balance activity time in days.</p>
+	<p><b>Formula</b>: max(0 , (1 - x / 28) ^ 9), where x is Grand Balance activity time in days.</p>
 	<p><b>Upgrade</b>: Works with Druid+Dragon</p>"
 	coords="135,1189,191,1243" shape="rect">
     <area href="http://musicfamily.org/realm/Dragons/#DragonDC3" target="" research=
 	"<p><b>Dragon Challenge 3</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/SerpentQuellerChallenges.png align=middle> <b>Serpent Queller</b></p>
-	<p>&quot;Legends tell of a terrible sea monster destroying ships and harbors. With your dragon and faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the leviathan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more.&quot;</p>
+	<p>&quot;Legends tell of a terrible sea monster destroying ships and harbors. With your Dragon and Faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the leviathan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more.&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 54+, Have 5500 Excavations, Titan, Druid, Faceless, Dwarven and Drow challenge 3 and Dragon challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have a combined total of 8 days played as faceless and dragons with a minimum of 2 days as each one.</p>
 	<p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
@@ -578,14 +577,14 @@
 	<p><img src=http://musicfamily.org/realm/Factions/picks/DraconstellationChallenges.png align=middle> <b>Draconstellation</b></p>
 	<p>&quot;Centuries ago, the Dragon race managed to stockpile the absolute pinnacle of wealth. Scattered in the stars, help them establish a stronger connection with the void between the realms.&quot;</p>
 	<p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 57+, 46 Artifacts, Titan, Druid, Faceless, Dwarven and Drow challenge 4 and Dragon challenge 3 completed.</p>
-	<p><b>Challenge</b>: Have 9,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.</p>
+	<p><b>Challenge</b>: Have 8,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.</p>
 	<p><b>Effect</b>: Faction coins from excavations are increased based on the amount of artifacts you own.</p>
 	<p><b>Formula</b>: (x ^ 6)%, where x is number of artifacts.</p><p><b>Upgrade</b>: Works with Titan+Dragon, Druid+Dragon and Faceless+Dragon</p>"
 	coords="263,1186,320,1242" shape="rect">
     <area href="http://musicfamily.org/realm/Dragons/#DragonDC5" target="" research=
 	"<p><b>Dragon Challenge 5</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/AncientIncantationChallenges.png align=middle> <b>Ancient Incantation</b></p>
-	<p>&quot;You have affiliated with many magical races in the past, but none as potent as the dragons, whose very breath is among the strongest of forces. There might be some way for your wizards to exploit this.&quot;</p>
+	<p>&quot;You have affiliated with many magical races in the past, but none as potent as the Dragons, whose very breath is among the strongest of forces. There might be some way for your wizards to exploit this.&quot;</p>
 	<p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 60+, Dragon Unique Building, Dwarven and Drow challenge 5 and Dragon challenge 4 completed.</p>
 	<p><b>Challenge</b>: Have 5 spells active at tier 5.</p>
 	<p><b>Effect</b>: Tax Collections are 20% more powerful for every spell tier you have active.</p>

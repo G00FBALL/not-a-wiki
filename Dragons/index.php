@@ -20,12 +20,12 @@
 <p><b>Effect</b>: Increase Non-Unique Buildings production based on the amount of Grand Balance targets. Does not suffer from Ascension penalties.</p>
 <p><b>Formula</b>: (20 * x ^ 2), where x is number of targets.</p>
 <p><b>Effect</b>: Also reduces all Spell Tier upgrades costs based on Grand Balance activity time in this R.</p>
-<p><b>Formula</b>: max(0, (1-t/28)^9) t is Grand Balance activity time in days.</p>
+<p><b>Formula</b>: max(0 , (1 - x / 28) ^ 9), where x is Grand Balance activity time in days.</p>
 <p><b>Upgrade</b>: Works with Druid+Dragon</p>
 <hr>
 <H6 id="DragonDC3"></h6><p><b>Dragon Challenge 3</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/SerpentQuellerChallenges.png" alt="Serpent Queller" align="middle"> <b>Serpent Queller</b></p>
-<p>"Legends tell of a terrible sea monster destroying ships and harbors. With your dragon and faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the leviathan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more."</p>
+<p>"Legends tell of a terrible sea monster destroying ships and harbors. With your Dragon and Faceless allies you can finally form a powerful army to raid its underwater lair. Slaying the leviathan will not only earn your kingdom eternal glory, but will make the overseas emporium flourish once more."</p>
 <p><b>Requirements</b>: Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 54+, Have 5500 Excavations, Titan, Druid, Faceless, Dwarven and Drow challenge 3 and Dragon challenge 2 completed.</p>
 <p><b>Challenge</b>: Have a combined total of 8 days played as faceless and dragons with a minimum of 2 days as each one.</p>
 <p><b>Effect</b>: Faction Coin find chance from Evolutive Mutation becomes multiplicative with increased effect.</p>
@@ -36,14 +36,14 @@
 <p><img src="http://musicfamily.org/realm/Factions/picks/DraconstellationChallenges.png" alt="Draconstellation" align="middle"> <b>Draconstellation</b></p>
 <p>"Centuries ago, the Dragon race managed to stockpile the absolute pinnacle of wealth. Scattered in the stars, help them establish a stronger connection with the void between the realms."</p>
 <p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 57+, 46 Artifacts, Titan, Druid, Faceless, Dwarven and Drow challenge 4 and Dragon challenge 3 completed.</p>
-<p><b>Challenge</b>: Have 9,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.</p>
+<p><b>Challenge</b>: Have 8,000 Iron Strongholds and have at least 4 Dragon's Breaths active at the same time.</p>
 <p><b>Effect</b>: Faction coins from excavations are increased based on the amount of artifacts you own.</p>
 <p><b>Formula</b>: (x ^ 6)%, where x is number of artifacts.</p>
 <p><b>Upgrade</b>: Works with Titan+Dragon, Druid+Dragon and Faceless+Dragon</p>
 <hr>
 <H6 id="DragonDC5"></h6><p><b>Dragon Challenge 5</b>:</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AncientIncantationChallenges.png" alt="Ancient Incantation" align="middle"> <b>Ancient Incantation</b></p>
-<p>"You have affiliated with many magical races in the past, but none as potent as the dragons, whose very breath is among the strongest of forces. There might be some way for your wizards to exploit this."</p>
+<p>"You have affiliated with many magical races in the past, but none as potent as the Dragons, whose very breath is among the strongest of forces. There might be some way for your wizards to exploit this."</p>
 <p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 60+, Dragon Unique Building, Dwarven and Drow challenge 5 and Dragon challenge 4 completed.</p>
 <p><b>Challenge</b>: Have 5 spells active at tier 5.</p>
 <p><b>Effect</b>: Tax Collections are 20% more powerful for every spell tier you have active.</p>

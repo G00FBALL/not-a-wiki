@@ -27,10 +27,10 @@
 <hr>
 <H6 id="UndeadUC3"></h6><p><b>Undead Challenge 3</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DeathKnightsChallenges.png" alt="Death Knights" align="middle"> <b>Death Knights</b></p>
-<p>"The walking dead are prepared for a zombie invasion.Their last task for you is to loot the local cemeteries for possible equipment."</p>
+<p>"The walking dead are prepared for a zombie invasion. Their last task for you is to loot the local cemeteries for possible equipment."</p>
 <p><b>Requirements</b>: Undead as Base Faction, Reincarnation 18+, Undead Unique Building, Undead challenge 2 completed.</p>
 <p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
-<p><b>Challenge</b>: Collect 100M (1E8) Faction coins</p>
+<p><b>Challenge</b>: Collect 100 M (1e8) Faction coins</p>
 <p><b>Effect</b>: Increase your number of assistants by 10%.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
