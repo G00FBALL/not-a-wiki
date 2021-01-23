@@ -576,140 +576,241 @@
 	<p><b>Lineage Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R139+) (First L40/L45)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage 40s (R139+)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Meta</p>
-				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
-				<p><b>Requirement</b>: Makers Challenge 1, Archon Challenge 2 (For Faceless Set buffing)</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Goblin</p>
-				<p><b>Artifact Set</b>: Faceless</p>
-				<p><b>Stoneheart Set (R148+, MKC4)</b>: Goblin</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
-				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C400,C405,C520,C590,</p>
-				<p>D50,D290,D435,</p>
-				<p>E25,E320,E410,</p>
-				<p>A400,A495,</p>
-				<p>W10,W560,W1375</p>
-				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-				<p><b>Note</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
-				<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
-				<br/>
-				<p><b>Notes for Lineages 45, R148+</b>:</p>
-				<p>- 1e120 (1 Notg) Gems+</p>
-				<p>- Excavations (1.4e6 (1.4 M)+) & Resets (65+).</p>
-				<p>- Clicks (2e6 (2 M)+)</p>
-				<p>- Max Assistants (2e16 (10 Qa)+) with Angelline Demons - needs DJC4.</p>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (First L40)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Meta</p>
+						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Requirement</b>: Makers Challenge 1, Archon Challenge 2 (For Faceless Set buffing)</p>
+						<p><b>Faction</b>: Elf</p>
+						<p><b>Bloodline</b>: Goblin</p>
+						<p><b>Artifact Set</b>: Faceless</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
+						</p>
+						<p>S175,S3200,</p>
+						<p>C1,C225,C400,C405,C520,C590,</p>
+						<p>D50,D290,D435,</p>
+						<p>E25,E320,E410,</p>
+						<p>A400,A495,</p>
+						<p>W10,W560,W1375</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+					</div>
+				</div>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (Most L40s)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Meta</p>
+						<p><b>Requirements</b>: Makers Challenge 2, Goblin Lineage L40</p>
+						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Faction</b>: Goblin</p>
+						<p><b>Bloodline</b>: Any (except Drow and Makers)</p>
+						<p><b>Artifact Set</b>: Faceless</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520">
+						</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W405,W520,W1375">
+							<b>Faceless Lineage</b>
+						</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520,S200,C340,D200,E135,A3400,W1375">
+							<b>Archon Lineage</b>
+						</p>
+						<p>S50,S435,S3200,</p>
+						<p>C175,C400,</p>
+						<p>D290,D560,</p>
+						<p>E1,E225,E320,E495,E590,</p>
+						<p>A10,A400,A410,</p>
+						<p>W25,W205,W405,W520</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note for Lineage Order</b>: First Dragon L40, then rebuff Max Assistants (4e14 (400 T)+), then all others.</p>
+						<p><b>Note for Faceless</b>: Swap W205 with W1375.</p>
+						<p><b>Note for Archon</b>: Add S200,C340,D200,E135,A3400,W1375</p>
+					</div>
+				</div>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Elves (Drow L40)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Meta</p>
+						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Requirement</b>: Makers Challenge 1, Archon Challenge 2 (For Faceless Set buffing), Goblin L40</p>
+						<p><b>Faction</b>: Elf</p>
+						<p><b>Bloodline</b>: Drow</p>
+						<p><b>Artifact Set</b>: Faceless</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
+						</p>
+						<p>S175,S3200,</p>
+						<p>C1,C225,C400,C405,C520,C590,</p>
+						<p>D50,D290,D435,</p>
+						<p>E25,E320,E410,</p>
+						<p>A400,A495,</p>
+						<p>W10,W560,W1375</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+					</div>
+				</div>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (Makers L40)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Wolfsblood</p>
+						<p><b>Requirements</b>: Archon Challenge 2, Goblin Lineage L40</p>
+						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Faction</b>: Undead</p>
+						<p><b>Bloodline</b>: Makers</p>
+						<p><b>Artifact Set</b>: Undead</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S225,S435,S3200,C400,D25,D560,D290,E10,E495,E145,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E320,A120,W1375">
+						</p>
+						<p>S225,S435,S3200,</p>
+						<p>C400,</p>
+						<p>D25,D560,D290</p>
+						<p>E10,E495,E145,</p>
+						<p>A1,A175,A400,A410,A590,</p>
+						<p>W50,W205,W405,W520</p>
+						<p><b>After Archon treaty</b>: S200,C340,D3350,E320,A120,W1375 (reimport build)</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (R139+) (Most L40s/L45s)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage 45s (R148+)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Meta</p>
-				<p><b>Requirements</b>: Makers Challenge 2, Goblin Lineage L40/L45</p>
-				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
-				<p><b>Faction</b>: Goblin</p>
-				<p><b>Bloodline</b>: Any (except Drow and Makers)</p>
-				<p><b>Artifact Set</b>: Faceless</p>
-				<p><b>Stoneheart Set (R148+, MKC4)</b>: Varies (see notes)</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W405,W520,W1375">
-					<b>Faceless</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520,S200,C340,D200,E135,A3400,W1375">
-					<b>Archon</b>
-				</p>
-				<p>S50,S435,S3200,</p>
-				<p>C175,C400,</p>
-				<p>D290,D560,</p>
-				<p>E1,E225,E320,E495,E590,</p>
-				<p>A10,A400,A410,</p>
-				<p>W25,W205,W405,W520</p>
-				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-				<p><b>Note</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
-				<p><b>Note for Lineage Order</b>: First Dragon L40, then rebuff Max Assistants (4e14 (400 T)+), then all others.</p>
-				<p><b>Note for Faceless</b>: Swap W205 with W1375.</p>
-				<p><b>Note for Archon</b>: add S200,C340,D200,E135,A3400,W1375</p>
-				<br/>
-				<p><b>Notes for Lineages 45, R148+</b>:</p>
-				<p>- 1e120 (1 Notg) Gems+</p>
-				<p>- Excavations (1.4e6 (1.4 M)+) & Resets (65+).</p>
-				<p>- Clicks (2e6 (2 M)+)</p>
-				<p>- Max Assistants (3e16 (10 Qa)+) with Angelline Demons - needs DJC4.</p>
-				<p><b>Stoneheart Set</b>: Depending on Bloodline as followed</p>
-				<p>- Undead Set: Elf, Angel, Undead, Druid, Faceless*, Archon, Djinn</p>
-				<p>- Dwarf Set: Fairy*, Titan, Dwarf, Dragon</p>
-				<p>- Demon Set: Demon</p>
-				<p>(*: Pick that set as regular and have Stoneheart Set Faceless)</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Elves (R139+) (Drow L40/L45)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Meta</p>
-				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
-				<p><b>Requirement</b>: Makers Challenge 1, Archon Challenge 2 (For Faceless Set buffing), Goblin L40/45</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Drow</p>
-				<p><b>Artifact Set</b>: Faceless</p>
-				<p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
-				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C400,C405,C520,C590,</p>
-				<p>D50,D290,D435,</p>
-				<p>E25,E320,E410,</p>
-				<p>A400,A495,</p>
-				<p>W10,W560,W1375</p>
-				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-				<p><b>Note</b>: <b>Assuming MKC1 is done this Reincarnation</b> (1e7 (10 M) Clicks).</p>
-				<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
-				<br/>
-				<p><b>Notes for Lineages 45, R148+</b>:</p>
-				<p>- 1e120 (1 Notg) Gems+</p>
-				<p>- Excavations (1.4e6 (1.4 M)+) & Resets (65+).</p>
-				<p>- Clicks (2e6 (2 M)+)</p>
-				<p>- Max Assistants (2e16 (10 Qa)+) with Angelline Demons - needs DJC4.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (R139+) (Makers L40/45)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Wolfsblood</p>
-				<p><b>Requirements</b>: Archon Challenge 2, Goblin Lineage L40 / L45 (R148+)</p>
-				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
-				<p><b>Faction</b>: Undead</p>
-				<p><b>Bloodline</b>: Makers</p>
-				<p><b>Artifact Set</b>: Undead</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S225,S435,S3200,C400,D25,D560,D290,E10,E495,E145,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E320,A120,W1375">
-				</p>
-				<p>S225,S435,S3200,</p>
-				<p>C400,</p>
-				<p>D25,D560,D290</p>
-				<p>E10,E495,E145,</p>
-				<p>A1,A175,A400,A410,A590,</p>
-				<p>W50,W205,W405,W520</p>
-				<p><b>After Archon treaty</b>: S200,C340,D3350,E320,A120,W1375 (reimport build)</p>
-				<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-				<p><b>Note for L45,R148+</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
+							<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (First L45)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Meta</p>
+						<p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
+						<p><b>Requirement</b>: Elite Challenge 4s Completed</p>
+						<p><b>Faction</b>: Elf</p>
+						<p><b>Bloodline</b>: Goblin</p>
+						<p><b>Artifact Set</b>: Faceless</p>
+						<p><b>Stoneheart Set</b>: Goblin</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
+						</p>
+						<p>S175,S3200,</p>
+						<p>C1,C225,C400,C405,C520,C590,</p>
+						<p>D50,D290,D435,</p>
+						<p>E25,E320,E410,</p>
+						<p>A400,A495,</p>
+						<p>W10,W560,W1375</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+					</div>
+				</div>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (Most L45s)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Meta</p>
+						<p><b>Requirements</b>: Elite Challenge 4s Completed, Goblin Lineage L45</p>
+						<p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
+						<p><b>Faction</b>: Goblin</p>
+						<p><b>Bloodline</b>: Any (except Drow and Makers)</p>
+						<p><b>Artifact Set</b>: Faceless, Undead (Faceless Lineage), Dwarf (Fairy Lineage)</p>
+						<p><b>Stoneheart Set</b>: Varies (see notes)</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520">
+						</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W405,W520,W1375">
+							<b>Faceless Lineage</b>
+						</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S50,S3200,S435,C175,C400,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520,S200,C340,D200,E135,A3400,W1375">
+							<b>Archon Lineage</b>
+						</p>
+						<p>S50,S435,S3200,</p>
+						<p>C175,C400,</p>
+						<p>D290,D560,</p>
+						<p>E1,E225,E320,E495,E590,</p>
+						<p>A10,A400,A410,</p>
+						<p>W25,W205,W405,W520</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note for Faceless</b>: Swap W205 with W1375 and swap Faceless set with Undead Set.</p>
+						<p><b>Note for Fairy<b>: Swap Faceless set with Fairy Set.</p>
+						<p><b>Note for Archon</b>: Add S200,C340,D200,E135,A3400,W1375</p>
+						<p><b>Stoneheart Set</b>: Depending on Bloodline as followed</p>
+						<p>- Undead Set: Elf, Angel, Undead, Druid, Archon, Djinn</p>
+						<p>- Dwarf Set: Titan, Dwarf, Dragon</p>
+						<p>- Demon Set: Demon</p>
+						<p>- Faceless Set: Fairy, Faceless</p>
+					</div>
+				</div>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drowline Elves (Drow L45)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Meta</p>
+						<p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
+						<p><b>Requirement</b>: Elite Challenge 4s Completed, Goblin L45</p>
+						<p><b>Faction</b>: Elf</p>
+						<p><b>Bloodline</b>: Drow</p>
+						<p><b>Artifact Set</b>: Faceless</p>
+						<p><b>Stoneheart Set</b>: Dwarf</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D290,D435,E25,E320,E410,A400,A495,W10,W560,W1375">
+						</p>
+						<p>S175,S3200,</p>
+						<p>C1,C225,C400,C405,C520,C590,</p>
+						<p>D50,D290,D435,</p>
+						<p>E25,E320,E410,</p>
+						<p>A400,A495,</p>
+						<p>W10,W560,W1375</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
+						<p><b>Note</b>: Buff Max Assistants (3e16 (30 Qa)+) with Angelline Demons.</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
+					</div>
+				</div>
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Faceless (Makers L45)</a></b></p>
+					<div class="autohide">
+						<p><b>Author</b>: Wolfsblood</p>
+						<p><b>Requirements</b>: Elite Challenge 4s Completed, Goblin Lineage L45</p>
+						<p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
+						<p><b>Faction</b>: Undead</p>
+						<p><b>Bloodline</b>: Makers</p>
+						<p><b>Artifact Set</b>: Undead</p>
+						<p>
+							<button onclick="myFunction($(this))">Copy Build</button>
+							<input type="text" value="S225,S435,S3200,C400,D25,D560,D290,E10,E495,E145,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E320,A120,W1375">
+						</p>
+						<p>S225,S435,S3200,</p>
+						<p>C400,</p>
+						<p>D25,D560,D290</p>
+						<p>E10,E495,E145,</p>
+						<p>A1,A175,A400,A410,A590,</p>
+						<p>W50,W205,W405,W520</p>
+						<p><b>After Archon treaty</b>: S200,C340,D3350,E320,A120,W1375 (reimport build)</p>
+						<p><b>Note</b>: Buff Excavations this Reincarnation (1.4e6 (1.4 M)+) & Excavation resets (65+) with Makerline Angel (Max Excavations).</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -763,7 +864,7 @@
 				<p><b>Note</b>: Buff Excavation resets (50+).</p>
 				<p><b>Note</b>: Needs a few minutes to buy all Upgrades.</p>
 				<p><b>Note</b>: Build improves with access to Dragon Perk 5.</p>
-				<p><b>Note for R148+, DJC4</b>: Regular Angelline Demon runs (2 hours +) outperforms this build.</p> 
+				<p><b>Note for R148+, DJC4</b>: Regular Angelline Demon runs (2 hours+) outperforms this build.</p> 
 			</div>
 		</div>
 		<div class="shelementwhole">
