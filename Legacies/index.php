@@ -11,7 +11,7 @@
         <center><b>Legacy Menu</b></center>
         <center><img src="http://musicfamily.org/realm/Factions/picks/LegacyMenu.png" usemap="#Legacies-map"></center>
         <map name="Legacies-map">
-        <area href="#FairyBronzeLegacy" research="
+        <area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png align=middle><b> Fairy Bronze Legacy</b></p>
 		<p><b>Pixie Dust Fertilizer</b></p>
 		<p><b>Effect</b>: Increase the base production of Farms by +98.</p>
