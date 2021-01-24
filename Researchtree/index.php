@@ -714,7 +714,7 @@
 	<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.</p>
 	<p><b>Formula</b>: (2 * x ^ 2), where X is artifacts you own.</p>
 	" coords="86,338,126,378" shape="rect">
-        <area research="<p><b>C3100 - All Factions</p>
+        <area research="<p><b>C3100</b> - All Factions</p>
 	<p><b>Research Name</b>: Engineering</p>
 	<p><b>Hint</b>: Spend some quality time with the Mercenaries.</p>
 	<p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).</p>
