@@ -24,7 +24,7 @@
         	<p><b>Effect</b>: Increases maximum Mana additively based on Good buildings you own.</p>
         	<p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of Good buildings you own.</p>
 	" coords="10,10,64,64" shape="rect">
-	<area href="#FairySilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png align=middle><b> Fairy Silver Legacy</b></p>
 		<p><b>Fairy Cuisine</b></p>
 		<p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
@@ -37,7 +37,7 @@
         	<p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration additively.</p>
         	<p><b>Formula</b>: (x ^ 0.25), where x is the number of Blacksmiths you own.</p>
 	" coords="70,10,124,64" shape="rect"> 
-	<area href="#FairyGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png align=middle><b> Fairy Gold Legacy</b></p>
 		<p><b>Starmetal Alloys</b></p>
 		<p><b>Effect</b>: Increase the base production of Blacksmiths by +580.</p>
@@ -51,7 +51,7 @@
         	<p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
         	<p><b>Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
 	" coords="130,10,184,64" shape="rect">
-	<area href="#FairyDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DreamCatchers.png align=middle><b> Fairy Diamond Legacy</b></p>
 		<p><b>Bubble Swarm</b></p>
 		<p><b>Effect</b>: Increase maximum mana based on the highest amount of Swarming Towers you made this Reincarnation.</p>
@@ -65,7 +65,7 @@
         	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Chaos spells cast this Reincarnation.</p>
         	<p><b>Formula</b>: (1.2 * x ^ 0.8)%, where x is Chaos spells cast this Reincarnation.</p>
 	" coords="190,10,244,64" shape="rect">
-	<area href="#ElvenBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png align=middle><b> Elven Bronze Legacy</b></p>
 		<p><b>Elven Mint</b></p>
 		<p><b>Effect</b>: The base chance to find Faction Coins is doubled.</p>
@@ -78,7 +78,7 @@
         	<p><b>Effect</b>: Increase Mana Regeneration based on your total amount of Clicks all time.</p>
         	<p><b>Formula</b>: +(2 * log10(1 + x)), where x is the amount of clicks made in this Reincarnation.</p>
 	" coords="10,70,64,124" shape="rect">
-	<area href="#ElvenSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png align=middle><b> Elven Silver Legacy</b></p>
 		<p><b>Elven Emissary</b></p>
 		<p><b>Effect</b>: Increase clicking reward based on the amount of Good buildings you own, and assistants find 3 times as many Faction Coins.</p>
@@ -92,7 +92,7 @@
         	<p><b>Effect</b>: Increase the production of all buildings based on Clicks total.</p>
         	<p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks all time.</p>
 	" coords="70,70,124,124" shape="rect"> 
-	<area href="#ElvenGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png align=middle><b> Elven Gold Legacy</b></p>
 		<p><b>Elven Diplomacy</b></p>
 		<p><b>Effect</b>: Clicks count more based on Faction Coins found this game.</p>
@@ -104,7 +104,7 @@
 		<p><b>Sylvan Treasure Frills</b></p>
         	<p><b>Effect</b>: Additively increase base clicking reward by 50% of your building production.</p>
 	" coords="130,70,184,124" shape="rect">
-	<area href="#ElvenDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ElvenDiscipline.png align=middle><b> Elven Diamond Legacy</b></p>
 		<p><b>Wooden Dice</b></p>
 		<p><b>Effect</b>: When Elven Luck triggers, 100,000 automatic Tax Collections are cast.</p>
@@ -123,7 +123,7 @@
         	<p><b>Formula</b>: +(50 * ln(1 + x) ^ 1.5), where x is Faction Coins found this game (additively).</p>
         	<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is Faction Coins found this game (multiplicatively).</p>
 	" coords="190,70,244,124" shape="rect">
-	<area href="#AngelBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/AngelFeathersFactionUpgrade.png align=middle><b> Angel Bronze Legacy</b></p>
 		<p><b>Holy Bells</b></p>
 		<p><b>Effect</b>: Increase Mana Regeneration based on the amount of buildings you own.</p>
@@ -137,7 +137,7 @@
         	<p><b>Effect</b>: Increase Faction Coin find chance additively based on the amount of active spells.</p>
 		<p><b>Formula</b>: +(10 * x)%, where x is the amount of active spells.</p>
 	" coords="10,130,64,184" shape="rect">
-	<area href="#AngelSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png align=middle><b> Angel Silver Legacy</b></p>
 		<p><b>Guardian Angels</b></p>
 		<p><b>Effect</b>: Spell casts count 100% more.</p>
@@ -150,7 +150,7 @@
 		<p><b>Archangel Feathers</b></p>
         	<p><b>Effect</b>: Increase Mana Regeneration multiplicatively by 100%.</p>
 	" coords="70,130,124,184" shape="rect"> 
-	<area href="#AngelGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/WingsofLibertyFactionUpgrade.png align=middle><b> Angel Gold Legacy</b></p>
 		<p><b>Magical Gates</b></p>
 		<p><b>Effect</b>: Increase maximum Mana additively based on time spent as Good in this Reincarnation.</p>
@@ -163,7 +163,7 @@
         	<p><b>Effect</b>: Increase the production of all buildings based on Mana Regeneration.</p>
 		<p><b>Formula</b>: (6 * ln(1 + x) ^ 2)%, where x is your Mana Regeneration.</p>
 	" coords="130,130,184,184" shape="rect">
-	<area href="#AngelDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SeraphimFeathers.png align=middle><b> Angel Diamond Legacy</b></p>
 		<p><b>Heaven's Brilliance</b></p>
 		<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the highest amount of Holy Sites you own in this Reincarnation. Gem Grinder and all Dragon's Breath effects are increased based on the highest amount of Holy Sites you own in this Reincarnation.</p>
@@ -177,7 +177,7 @@
 		<p><b>Seraphim Wings</b></p>
         	<p><b>Effect</b>: Multiplicatively increase Maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%.</p>
 	" coords="190,130,244,184" shape="rect">
-	<area href="#GoblinBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/CheapMaterialsFactionUpgrade.png align=middle><b> Goblin Bronze Legacy</b></p>
 		<p><b>Strong Currency</b></p>
 		<p><b>Effect</b>: Gain assistants additively based on the amount of Faction Coins found in this game.</p>
@@ -191,7 +191,7 @@
         	<p><b>Effect</b>: Tax Collection is worth more seconds additively based on the amount of buildings you own.</p>
         	<p><b>Formula</b>: +(x ^ 0.5), where x is the amount of buildings you own.</p>
 	" coords="10,190,64,244" shape="rect">
-	<area href="#GoblinSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png align=middle><b> Goblin Silver Legacy</b></p>
 		<p><b>Black Market</b></p>
 		<p><b>Effect</b>: Production bonus from gems is doubled.</p>
@@ -205,7 +205,7 @@
 		<p><b>Hobgoblin Gladiators</b></p>
         	<p><b>Effect</b>: Gems and upgrades count 200% more.</p>
 	" coords="70,190,124,244" shape="rect"> 
-	<area href="#GoblinGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png align=middle><b> Goblin Gold Legacy</b></p>
 		<p><b>Goblin Central Bank</b></p>
 		<p><b>Effect</b>: Whenever you cast a spell, also cast a Tax Collection for free.</p>
@@ -218,7 +218,7 @@
         	<p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>
         	<p><b>Formula</b>: randRange(1,1200)*x, where x is your total coin production per second, including both buildings and assistants.</p>
 	" coords="130,190,184,244" shape="rect">
-	<area href="#GoblinDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/LousyArchitecture.png align=middle><b> Goblin Diamond Legacy</b></p>
 		<p><b>Fool's Gems</b></p>
 		<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the highest amount of Slave Markets you own in this Reincarnation.</p>
@@ -233,7 +233,7 @@
         	<p><b>Effect</b>: Increase Non-Unique buildings production based on their quantity.</p>
         	<p><b>Formula</b>: (x ^ 0.65), where x is amount of Non-Unique buildings.</p>
 	" coords="190,190,244,244" shape="rect">
-	<area href="#UndeadBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png align=middle><b> Undead Bronze Legacy</b></p>
 		<p><b>The Walking Dead</b></p>
 		<p><b>Effect</b>: Increase Faction Coin find chance additively based on assistants owned.</p>
@@ -247,7 +247,7 @@
         	<p><b>Effect</b>: Increase Mana Regeneration additively based on the highest amount of Necropolises you built in this Reincarnation.</p>
         	<p><b>Formula</b>: +(x ^ 0.3), where x is the highest amount of Necropolises you built this Reincarnation.</p>
 	" coords="10,250,64,304" shape="rect">
-	<area href="#UndeadSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png align=middle><b> Undead Silver Legacy</b></p>
 		<p><b>Unholy Rituals</b></p>
 		<p><b>Effect</b>: Increase offline production based on time spent being offline in this Reincarnation.</p>
@@ -261,7 +261,7 @@
         	<p><b>Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
         	<p><b>Formula</b>: (0.6 * x ^ 0.7)%, where x is time spent in seconds this game.</p>
 	" coords="70,250,124,304" shape="rect"> 
-	<area href="#UndeadGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png align=middle><b> Undead Gold Legacy</b></p>
 		<p><b>Dead Fields</b></p>
 		<p><b>Effect</b>: Buildings count 100% more.</p>
@@ -273,7 +273,7 @@
         	<p><b>Effect</b>: Increases offline production based on Mana Regeneration.</p>
         	<p><b>Formula</b>: (125 * ln(1 + x) ^ 2.5)%, where x is your Mana Regeneration.</p>
 	" coords="130,250,184,304" shape="rect">
-	<area href="#UndeadDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png align=middle><b> Undead Diamond Legacy</b></p>
 		<p><b>Flesh Servants</b></p>
 		<p><b>Effect</b>: Mutiplicatively increase assistants based on the highest amount of Flesh Workshops you built in this Reincarnation.</p>
@@ -287,7 +287,7 @@
         	<p><b>Effect</b>: Gain assistants additively based on the total amount of time spent offline in this Reincarnation.</p>
         	<p><b>Formula</b>: +(21 * x ^ 0.7), where x is offline time in seconds this Reincarnation.</p>
 	" coords="190,260,244,304" shape="rect">
-	<area href="#DemonBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png align=middle><b> Demon Bronze Legacy</b></p>
 		<p><b>Torture Chambers</b></p>
 		<p><b>Effect</b>: Increase the production of Royal Castles / Evil Fortresses / Iron Strongholds (based on your Alignment) based on the amount of assistants you own.</p>
@@ -301,7 +301,7 @@
         	<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         	<p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
 	" coords="10,320,64,364" shape="rect">
-	<area href="#DemonSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png align=middle><b> Demon Silver Legacy</b></p>
 		<p><b>Lava Pits</b></p>
 		<p><b>Effect</b>: Increase the base production of Evil Fortresses and Hell Portals by +200,000.</p>
@@ -314,7 +314,7 @@
         	<p><b>Effect</b>: Increase the maximum Mana additively based on Evil spells cast in this game (additive).</p>
         	<p><b>Formula</b>: +(6 * x ^ 0.4), where x is Evil spells cast this game.</p>
 	" coords="70,320,124,364" shape="rect"> 
-	<area href="#DemonGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png align=middle><b> Demon Gold Legacy</b></p>
 		<p><b>Infernal Magic</b></p>
 		<p><b>Effect</b>: Hell Portals also increase your Mana Regeneration.</p>
@@ -328,7 +328,7 @@
         	<p><b>Effect</b>: Increase the production of Heaven's Gate / Hell Portals / Ancient Pyramid (based on your Alignment) based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         	<p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
 	" coords="130,320,184,364" shape="rect">
-	<area href="#DemonDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/Devastation.png align=middle><b> Demon Diamond Legacy</b></p>
 		<p><b>Abyssal Furnance</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Burning Abysses you built in this Reincarnation. Higher tiers get better bonuses.</p>
@@ -342,7 +342,7 @@
         	<p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
         	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is Mana Regeneration.</p>
 	" coords="190,320,244,364" shape="rect">
-	<area href="#TitanBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TitanObeliskFactionUpgrade.png align=middle><b> Titan Bronze Legacy</b></p>
 		<p><b>Colossal Forge</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
@@ -356,7 +356,7 @@
         	<p><b>Effect</b>: Increase Faction Coin find chance additively based on time spent as Neutral in this Reincarnation.</p>
         	<p><b>Formula</b>: +(3 * x ^ 0.7)%, where x is time spent as Neutral this Reincarnation.</p>
 	" coords="10,380,64,424" shape="rect">
-	<area href="#TitanSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png align=middle><b> Titan Silver Legacy</b></p>
 		<p><b>Titan Drill</b></p>
 		<p><b>Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635, and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment).</p>
@@ -369,7 +369,7 @@
         	<p><b>Effect</b>: Increase Hall of Legends production based on the amount of assistants you own.</p>
         	<p><b>Formula</b>: (20 + 2.15 * ln(1 + x) ^ 2.15)%, where x is the amount of assistants you own.</p>
 	" coords="70,380,124,424" shape="rect"> 
-	<area href="#TitanGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png align=middle><b> Titan Gold Legacy</b></p>
 		<p><b>Cyclopean Strength</b></p>
 		<p><b>Effect</b>: Assistants count 200% more, and increase their production by 200%.</p>
@@ -382,7 +382,7 @@
         	<p><b>Effect</b>: Also increase the production of assistants based on the amount of Halls of Legends built.</p>
         	<p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends built.</p>
 	" coords="130,380,184,424" shape="rect">
-	<area href="#TitanDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png align=middle><b> Titan Diamond Legacy</b></p>
 		<p><b>Giant Market</b></p>
 		<p><b>Effect</b>: Makes Royal Exchanges count more based on the highest amount of Mountain Palaces you built in this Reincarnation.</p>
@@ -396,7 +396,7 @@
         	<p><b>Effect</b>: Gain assistants additively based on total time spent as Order in this Reincarnation.</p>
         	<p><b>Formula</b>: +(25 * x ^ 0.7), where x is seconds this Reincarnation.</p>
 	" coords="190,380,244,424" shape="rect">
-	<area href="#DruidBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png align=middle><b> Druid Bronze Legacy</b></p>
 		<p><b>Druidic Vocubulary</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
@@ -410,7 +410,7 @@
         	<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
         	<p><b>Formula</b>: (0.4 x ^ 0.4), where x is total buildings built. (additively and multiplicatively)</p>
 	" coords="10,440,64,484" shape="rect">
-	<area href="#DruidSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png align=middle><b> Druid Silver Legacy</b></p>
 		<p><b>Earthly Bond</b></p>
 		<p><b>Effect</b>: Increase maximum Mana additively based on the highest amount of Stone Pillars built in this Reincarnation.</p>
@@ -424,7 +424,7 @@
         	<p><b>Effect</b>: Increase Mana Regeneration additively based on the amount of assistants you own.</p>
         	<p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
 	" coords="70,440,124,484" shape="rect"> 
-	<area href="#DruidGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png align=middle><b> Druid Gold Legacy</b></p>
 		<p><b>Mabinogion</b></p>
 		<p><b>Effect</b>: Increase the production of Non-Unique buildings based on their tier, giving the best bonus to the lowest.</p>
@@ -438,7 +438,7 @@
         	<p><b>Effect</b>: Increase the production of each building based on the amount of buildings of the same type. </p>
         	<p><b>Formula</b>: (1.5 * x ^ 0.9)%, where x is the amount of buildings of the same type.</p>
 	" coords="130,440,184,484" shape="rect">
-	<area href="#DruidDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/GroveFarming.png align=middle><b> Druid Diamond Legacy</b></p>
 		<p><b>Building Vines</b></p>
 		<p><b>Effect</b>: Increase spell duration based on the highest amount of Ziggurats you built in this Reincarnation.</p>
@@ -454,7 +454,7 @@
         	<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
         	<p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
 	" coords="190,440,244,484" shape="rect">
-	<area href="#FacelessBronzeLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png align=middle><b> Faceless Bronze Legacy</b></p>
 		<p><b>Territorial Expanse</b></p>
 		<p><b>Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (based on your Alignment) based on the amount of assistants you own.</p>
@@ -468,7 +468,7 @@
         	<p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation.</p>
 		<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your Playtime (Longest Session) stat this Reincarnation.</p>
 	" coords="10,500,64,544" shape="rect">
-	<area href="#FacelessSilverLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png align=middle><b> Faceless Silver Legacy</b></p>
 		<p><b>Gold Synthesis</b></p>
 		<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of coins owned.</p>
@@ -482,7 +482,7 @@
         	<p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
 		<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
 	" coords="70,500,124,544" shape="rect"> 
-	<area href="#FacelessGoldLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png align=middle><b> Faceless Gold Legacy</b></p>
 		<p><b>Magical Treasure</b></p>
 		<p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
@@ -496,7 +496,7 @@
         	<p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
 		<p><b>Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds (all time).</p>
 	" coords="130,500,184,544" shape="rect">
-	<area href="#FacelessDiamondLegacy" research="
+	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DimensionDoor.png align=middle><b> Faceless Diamond Legacy</b></p>
 		<p><b>Primal Knowledge</b></p>
 		<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Forbidden Libraries you built in this Reincarnation. Grows over time and resets every 15 minutes.</p>
