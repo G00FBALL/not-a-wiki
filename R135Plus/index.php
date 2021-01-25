@@ -176,7 +176,7 @@
 				<p><b>After Archon treaty</b>: S200,C340,D1375,E145,A120,W180 (reimport build)</p>
 				<p><b>Note</b>: Buff AR1, Excavations & Resets (30+).</p>
 				<p><b>Note</b>: Build is oriented around buying Archon Union.</p>
-				<p><b>Note</b>: Time needed for Union depends on values of AN11 and AR8.</p>
+				<p><b>Note</b>: Time needed for Archon Union depends on values of AN11 and AR8 (may need up to 6 hours).</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -301,9 +301,9 @@
 						<p><b>Artifact Set</b>: Undead</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S225,S200,S435,S3200,C340,C400,D25,D290,D560,D3350,E10,E135,E145,E495,A1,A120,A175,A410,A590,A3400,W50,W205,W405,W520,W1375">
+							<input type="text" value="S200,S225,S435,S3200,C340,C400,D25,D290,D560,D3350,E10,E135,E145,E495,A1,A120,A175,A410,A590,A3400,W50,W205,W405,W520,W1375">
 						</p>
-						<p>S225,S200,S435,S3200,</p>
+						<p>S200,S225,S435,S3200,</p>
 						<p>C340,C400,</p>
 						<p>D25,D290,D560,D3350,</p>
 						<p>E10,E135,E145,E495,</p>
@@ -454,35 +454,34 @@
 						<p>A400,</p>
 						<p>W260,W1375,W1400</p>
 						<p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
-						<p><b>Note</b>: Buff S400 (300,000+) with Angelline Goblin (Spell Casts) build first.</p>
+						<p><b>Note</b>: Buff S400 (400,000+) with Angelline Goblin (Spell Casts) build first.</p>
 						<p><b>Note</b>: Estimated time to completion is 2 hours.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (Djinn Challenge 4)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Fairy (Djinn Challenge 4)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Sad</p>
-						<p><b>Requirement</b>: Druid Lineage 40</p>
-						<p><b>Range</b>: 1e115 (10 Sptg) Gems+</p>
-						<p><b>Faction</b>: Faceless</p>
-						<p><b>Bloodline</b>: Druid</p>
+						<p><b>Author</b>: OnionBro</p>
+						<p><b>Requirement</b>: 8h+ Call to Arms activity time this Reincarnation</p>
+						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
+						<p><b>Faction</b>: Fairy</p>
+						<p><b>Bloodline</b>: Faceless</p>
 						<p><b>Artifact Set</b>: Dragon</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S200,S251,S375,S1450,S1500,C400,C1300,D260,D330,D1125,E350,E1225,E1325,A270,A300,A1200,W275,W1275,W1400">
+							<input type="text" value="S1,S180,S200,S590,C10,C400,C405,C520,D225,D330,D435,E50,E145,E410,A30,A270,A495,W560,W1275">
 						</p>
-						<p>S200,S251,S375,S1450,S1500,</p>
-						<p>C400,C1300,</p>
-						<p>D260,D330,D1125,</p>
-						<p>E350,E1225,E1325,</p>
-						<p>A270,A300,A1200,</p>
-						<p>W275,W1275,W1400</p>
-						<p><b>Note</b>: Buff Spell Casts (5e13 (50 T)+) with Angelline Goblin (Spell Casts) build first.</p>
-						<p><b>Note</b>: Can be done mainly offline, so ideal for over night. (if time doesn't matter, can also be done as early as 1e100 (10 Dtg) Gems+).</p>
-						<p><b>Note</b>: Set Maelstrom to hit either Hall of Legends or Ancient Pyramids (depends on DJ8) based on Faction Coins found.</p>
-						<p><b>Note</b>: Regularly update your spell durations (either via export/import or Reverse Autocasting) to benefit from Druid AH and others.</p>
+						<p>S1,S180,S200,S590,</p>
+						<p>C10,C400,C405,C520,</p>
+						<p>D225,D330,D435,</p>
+						<p>E50,E145,E410,</p>
+						<p>A30,A270,A495,</p>
+						<p>W560,W1275</p>
+						<p><b>Note</b>: Buff Spell Casts (2e14 (200 T)+) with Angelline Goblin (Spell Casts) build first.</p>
+						<p><b>Note</b>: Set Maelstrom to hit Inns based on Faction Coins found.</p>
+						<p><b>Note</b>: Regularly update your spell durations (either via export/import or Reverse Autocasting) to benefit from DN9 and Druid AH.</p>
 						<p><b>Note</b>: <b>Once Brainwave is at 225 days, the spell must be recasted to complete the challenge</b>.</p>
-						<p><b>Note</b>: Estimated time to completion is 8-10 hours.</p>
+						<p><b>Note</b>: Estimated time to completion is 1 hour.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
