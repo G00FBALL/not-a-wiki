@@ -994,26 +994,25 @@
 				<p><b>Range</b>: 1e69 (1 Dvg) Gems+</p>
 				<p><b>Faction</b>: Goblin</p>
 				<p><b>Bloodline</b>: Titan</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
-				<p><b>Artifact Set (R139+,MKC2)</b>: Undead</p>
+				<p><b>Artifact Set</b>: Undead</p>
 				<p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf, Faceless if buffed</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S435,S3200,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A410,A3400,W25,W205,W405,W520">
+					<input type="text" value="S50,S435,S3200,C175,C400,D290,D560,E1,E225,E495,E590,E1325,A10,A120,A410,W25,W205,W405,W520">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S435,S3200,C175,C400,D560,D3350,E1,E225,E495,E590,E1325,A10,A400,A410,W25,W205,W405,W520">
+					<input type="text" value="S50,S435,S3200,C175,C400,D290,D560,E1,E225,E495,E590,E1325,A10,A400,A410,W25,W205,W405,W520">
 					<b>Makers Challenge 4</b>
 				</p>
-				<p>S50,S435,S3200</p>
+				<p>S50,S435,S3200,</p>
 				<p>C175,C400,</p>
-				<p>D560,D3350,</p>
+				<p>D290,D560,</p>
 				<p>E1,E225,E495,E590,E1325,</p>
-				<p>A10,A410,A3400,</p>
+				<p>A10,A120,A410,</p>
 				<p>W25,W205,W405,W520</p>
 				<p><b>Note</b>: Swap Stonheart set to Faceless if buffed (Max Assistants 1e14 (100 T)+).</p>
-				<p><b>Note</b>: Swap A3400 with A400 if Makers Challenge 4 is completed.</p>
+				<p><b>Note</b>: Swap A120 with A400 if Makers Challenge 4 is completed.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
