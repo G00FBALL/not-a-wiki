@@ -439,7 +439,7 @@
 	coords="71,982,126,1036" shape="rect">
     <area href="http://musicfamily.org/realm/Dwarf/#DwarfDC2" target="" research=
 	"<p><b>Dwarf Challenge 2</b></p>
-	<p><img src=http://musicfamily.org/realm/Factions/picks/BiasedArchitetureChallenges.png align=middle> <b>Biased Architeture</b></p>
+	<p><img src=http://musicfamily.org/realm/Factions/picks/BiasedArchitetureChallenges.png align=middle> <b>Biased Architecture</b></p>
 	<p>&quot;The dwarven lords have asked you to provide their people with ale. Hurry up, the dwarves are getting thirsty!&quot;</p>
 	<p><b>Requirements</b>: Fairy as Base Faction, Dwarves as Prestige Faction, Reincarnation 11+, Dwarven Bloodline, Elven, Angel and Fairy challenge 2 and Dwarven challenge 1 completed.</p>
 	<p><b>Challenge</b>: Build 2,250 Inns within 2 minutes of a new game.</p>

@@ -1081,7 +1081,7 @@
 	<p><b>New Effect</b>: All factions receive 5% of your Hive Mind bonus. Does not suffer from Ascension penalties.</p>
 <br/>
 <p><b>Dwarven</b></p>
-<p><b>Dwarven Challenge 2</b> (Biased Architeture)</p>
+<p><b>Dwarven Challenge 2</b> (Biased Architecture)</p>
 	<p><b>Old Challenge</b>: Build 2,750 Inns within 2 minutes of a new game.</p>
 	<p><b>New Challenge</b>: Build 2,250 Inns within 2 minutes of a new game.</p>
 	<p><b>Old Effect</b>: Reduce Inn and Blacksmith cost multipliers.</p>

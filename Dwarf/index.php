@@ -14,7 +14,7 @@
 <p><b>Upgrade</b>: Good for Angel+Dwarf</p>
 <hr>
 <H6 id="DwarfDC2"></h6><p><b>Dwarf Challenge 2</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/BiasedArchitetureChallenges.png" alt="Biased Architeture" align="middle"> <b>Biased Architeture</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/BiasedArchitetureChallenges.png" alt="Biased Architecture" align="middle"> <b>Biased Architecture</b></p>
 <p>"The dwarven lords have asked you to provide their people with ale. Hurry up, the dwarves are getting thirsty!"</p>
 <p><b>Requirements</b>: Fairy as Base Faction, Dwarves as Prestige Faction, Reincarnation 11+, Dwarven Bloodline, Elven, Angel and Fairy challenge 2 and Dwarven challenge 1 completed.</p>
 <p><b>Challenge</b>: Build 2,250 Inns within 2 minutes of a new game.</p>
