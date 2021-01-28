@@ -553,7 +553,7 @@
         <p><b>New Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is Tax Collections cast this game.</p>
 <br/>
 <p><b>GB12</b> (Lousy Architecture)</p>
-        <p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier, and increase Non-Unique buildings production based on their quantity.</p>
+        <p><b>Effect</b>: Increase Non-Unique buildings production based on the amount of buildings of the same tier.</p>
         <p><b>Old Effect</b>: Reduces cost multiplier by 0.02.</p>
         <p><b>New Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 <br/>
