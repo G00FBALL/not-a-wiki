@@ -963,8 +963,8 @@
 				<p><b>Requirement</b>: A2+, Goblins Union</p>
 				<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 				<p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
-				<p><b>Effect</b>: Also ncrease Non-Unique buildings production based on their quantity.</p>
-				<p><b>Formula</b>: (x ^ 0.65), where x is amount of Non-Unique buildings.</p>
+				<p><b>Effect</b>: Increase Non-Unique buildings production based on the amount of buildings of the same tier.</p>
+				<p><b>Formula</b>: (x ^ 0.65)%, where x is the amount of buildings of the same tier. </p>
 				<hr>
 				<h6>Undead</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" align="middle"> Flesh Servants</b></p>

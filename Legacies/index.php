@@ -230,8 +230,8 @@
         	<p></p>
 		<p><b>Lousy Architecture</b></p>
         	<p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
-        	<p><b>Effect</b>: Increase Non-Unique buildings production based on their quantity.</p>
-        	<p><b>Formula</b>: (x ^ 0.65), where x is amount of Non-Unique buildings.</p>
+        	<p><b>Effect</b>: Increase Non-Unique buildings production based on the amount of buildings of the same tier.</p>
+			<p><b>Formula</b>: (x ^ 0.65)%, where x is the amount of buildings of the same tier. </p>
 	" coords="190,190,244,244" shape="rect">
 	<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png align=middle><b> Undead Bronze Legacy</b></p>
