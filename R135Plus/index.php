@@ -165,7 +165,7 @@
 				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W400,S330,C340,D1375,E135,A120,W180">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E320,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D1375,E145,A120,W180">
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
@@ -245,7 +245,7 @@
 						<p><b>Artifact Set</b>: Dwarf</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W400,S330,C340,D1375,E135,A120,W180">
+							<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E320,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D1375,E145,A120,W180">
 						</p>
 						<p>S10,S3200,</p>
 						<p>C25,C400,C405,C520,</p>
