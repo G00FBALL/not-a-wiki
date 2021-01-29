@@ -323,12 +323,12 @@
 						<p><b>Artifact Set</b>: Undead</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S400,S435,C50,C400,D10,D290,D560,E230,E400,E495,A25,A410,A3400,W1,W175,W205,W405,W520,W590">
+							<input type="text" value="S400,S435,C50,C400,D10,D290,D560,E230,E145,E495,A25,A410,A3400,W1,W175,W205,W405,W520,W590">
 						</p>
 						<p>S400,S435,</p>
 						<p>C50,C400,</p>
 						<p>D10,D290,D560,</p>
-						<p>E230,E135,E495,</p>
+						<p>E230,E145,E495,</p>
 						<p>A25,A410,A3400,</p>
 						<p>W1,W175,W205,W405,W520,W590</p>
 						<p><b>Note</b>: Buffing S400 (~80,000) is helpful.</p>
@@ -510,7 +510,7 @@
 						<p><b>Artifact Set</b>: Undead</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S300,S1450,S400,S200,S30,S500,C251,C375,C1300,C1500,C400,C340,C250,C3100,D350,D1125,D330,D200,D290,D3350,E275,E1225,E320,E1325,E135,E400,A1200,A400,A270,A120,A3400,W260,W1400,W1375,W1275,W400,W180">
+							<input type="text" value="S225,S435,S3200,C400,D25,D290,D560,E10,E135,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D330,E1325,A270,W1275">
 						</p>
 						<p>S225,S435,S3200,</p>
 						<p>C400,</p>
@@ -675,12 +675,12 @@
 						<p><b>Artifact Set</b>: Undead</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S225,S435,S3200,C400,D25,D560,D290,E10,E495,E145,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E320,A120,W1375">
+							<input type="text" value="S225,S435,S3200,C400,D25,D290,D560,E10,E145,E495,A1,A175,A400,A410,A590,W50,W205,W405,W520,S200,C340,D3350,E320,A120,W1375">
 						</p>
 						<p>S225,S435,S3200,</p>
 						<p>C400,</p>
-						<p>D25,D560,D290</p>
-						<p>E10,E495,E145,</p>
+						<p>D25,D290,D560,</p>
+						<p>E10,E145,E495,</p>
 						<p>A1,A175,A400,A410,A590,</p>
 						<p>W50,W205,W405,W520</p>
 						<p><b>After Archon treaty</b>: S200,C340,D3350,E320,A120,W1375 (reimport build)</p>
@@ -876,17 +876,17 @@
 				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A400,A495,W10,W560,W1375">
+					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A400,A495,W10,W560,W1375">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D290,E25,E400,E410,A400,A495,W10,W560,W1375">
+					<input type="text" value="S175,S3200,C1,C225,C400,C405,C520,C590,D50,D435,D290,E25,E145,E410,A400,A495,W10,W560,W1375">
 					<b>e90 (1 Novg) Gems+</b>
 				</p>
 				<p>S175,S3200,</p>
 				<p>C1,C225,C400,C405,C520,C590,</p>
 				<p>D50,D435,D1375,</p>
-				<p>E25,E400,E410,</p>
+				<p>E25,E145,E410,</p>
 				<p>A400,A495,</p>
 				<p>W10,W560,W1375</p>
 				<p><b>Note</b>: At e90 (1 Novg) Gems+, swap D1375 with D290.</p>
@@ -948,12 +948,12 @@
 				<p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf (Faceless if buffed)</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E400,E495,E590,A10,A400,A410,W25,W205,W405,W520">
+					<input type="text" value="S50,S435,S3200,C175,C340,D290,D560,E1,E225,E320,E495,E590,A10,A400,A410,W25,W205,W405,W520">
 				</p>
 				<p>S50,S435,S3200,</p>
 				<p>C175,C340,</p>
 				<p>D290,D560,</p>
-				<p>E1,E225,E400,E495,E590,</p>
+				<p>E1,E225,E320,E495,E590,</p>
 				<p>A10,A400,A410,</p>
 				<p>W25,W205,W405,W520</p>
 				<p><b>Note</b>: Buff Max Assistants (1e15 (1 Qa) +) with Dragonline Undead (Max Assistants) for Faceless Set.</p>
@@ -970,16 +970,16 @@
 				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A400,A495,W180,W225,W560,S400,C340,D290,E290,A120,W400">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E135,E410,A50,A400,A495,W180,W225,W560,S400,C340,D290,E290,A120,W400">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A400,A495,W225,W560,W1275,S400,C340,D290,E290,A120,W400"> R150+
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E135,E410,A50,A400,A495,W225,W560,W1275,S400,C340,D290,E290,A120,W400"> R150+
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D1375,</p>
-				<p>E400,E410,</p>
+				<p>E135,E410,</p>
 				<p>A50,A400,A495,</p>
 				<p>W180,W225,W560</p>
 				<p><b>After Archon Treaty</b>: S400,C340,D290,E290,A120,W400 (reimport Build)</p>
