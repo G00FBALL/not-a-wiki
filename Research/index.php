@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6>
-        <p>Click <b><a href="http://musicfamily.org/realm/Researchtree"> Here</a></b> to view Complete <b>Research Tree</b></p>
+        <p>All Researches can be found here: <b><a href="http://musicfamily.org/realm/Researchtree"> Research Tree</a></b> or <b><a href="http://musicfamily.org/realm/ResearchList"> Research List</a></b>.</p>
         <p>Research was implemented in the Secrets expansion series (Secrets of the Realm, Secrets of the ancients, Secrets of the underworld) bringing "secret" powers to enhance each mythical faction. Overtaking the Mercenaries, it is accessible from R16 for Vanilla, R23 for Neutral, R29 for Prestige Factions, and R75 for Mercenary.</p>
         <p>Enter the Research Facilities to improve your grinding potential.</p>
         <p>There you will be able to advance your research progress, unlock and buy special upgrades which will boost all your abilities hugely.</p>
@@ -182,30 +182,52 @@
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Spellcraftr.png" alt="Spellcraft" align="middle"> <b>Spellcraft</b> (R16+)</p>
                     <p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.</p>
                     <p><b>Effect</b>: Increases <b>Fairy</b>, <b>Faceless</b> and <b>Drow</b> production.</p>
-                    <br/>
+                    <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Craftsmanshipr.png" alt="Craftsmanship" align="middle"> <b>Craftsmanship</b> (R16+)</p>
                     <p>Learn how to use tools and experience to improve your production by mastering Craftsmanship.</p>
                     <p><b>Effect</b>: Increases <b>Elven</b>, <b>Titan</b> and <b>Dwarven</b> production.</p>
-                    <br/>
+                    <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Diviner.png" alt="Divine" align="middle"> <b>Divine</b> (R16+)</p>
                     <p>Harness the power of the eternals, incresing your spell affinity and bestowing Divine power on all your productivity.</p>
                     <p><b>Effect</b>: Increases <b>Angel</b>, <b>Faceless</b> and <b>Dwarven</b> production.</p>
-                    <br/>
+                    <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Economicsr.png" alt="Economics" align="middle"> <b>Economics</b> (R16+)</p>
                     <p>Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.</p>
                     <p><b>Effect</b>: Increases <b>Goblin</b>, <b>Druid</b> and <b>Dwarven</b> production.</p>
-                    <br/>
+                    <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Alchemyr.png" alt="Alchemy" align="middle"> <b>Alchemy</b> (R16+)</p>
                     <p>Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets.</p>
                     <p><b>Effect</b>: Increases <b>Undead</b>, <b>Druid</b> and <b>Drow</b> production.</p>
-                    <br/>
+                    <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Warfarer.png" alt="Warfare" align="middle"> <b>Warfare</b> (R16+)</p>
                     <p>Use strategical prowess and manpower tp manipulate the production system in your favor.</p>
                     <p><b>Effect</b>: Increases <b>Demon</b>, <b>Titan</b> and <b>Drow</b> production.</p>
-                    <br/>
+                    <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Forbiddenr.png" align="middle"> <b>Forbidden</b> (R180+)</p>
                     <p>Take advantage of the most ancient and secret arts to empower your production beyonds known limits.</p>
                     <p><b>Effect</b>: Increases <b>Mercenary</b> production.</p>
+					<p>Pointing to this ingame will tell you how many Points are available and also tells you your total research points.</p>
+					<p><b>Research Point Production</b>:</p>
+					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+					<br/>
                 </div>
             </div>
         </div>

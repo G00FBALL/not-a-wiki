@@ -174,14 +174,12 @@
     </script>
 </div>
 <br/>
-<p><a href="http://musicfamily.org/realm/ResearchFacilities/"><b>Research Tree Mobile Text Version</b></a></p>
-<br/>
-<p><b> At Ascension 2 R100+ research points are capped at 5000.</b></p>
-<p><b> At Ascension 3 R175+ research points are capped at 7000.</b></p>
-<p><b> At Ascension 4 R220+ research points are capped at 12000.</b></p>
-<p> Information about how Research Slots/Budget work can be found at <b><a href = "/realm/Research">Research</a></b></p>
-<p><b>Research Point Production</b></p>
-<p><b>Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
+<p><b>For R100-R174: research points are capped at 5000.</b></p>
+<p><b>For R190-219: research points are capped at 7000.</b></p>
+<p><b>For R230+: research points are capped at 12000.</b></p>
+<p>Information about how Research Slots / Budget work can be found at <b><a href = "/realm/Research">Research</a></b>.</p>
+<p><b>All Researches in Text Version</b>: <b><a href="http://musicfamily.org/realm/ResearchList">Research List</a></b>.<p>
+<hr>
 <p><img src="/realm/Factions/picks/ResearchTreeA4.png" usemap="#ResearchTreeA4-map" class="centerimg">
     <map name="ResearchTreeA4-map">
         <area research="<p><center>Spellcraft Research Facility</center></p>
