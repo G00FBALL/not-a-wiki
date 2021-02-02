@@ -6,7 +6,7 @@
     <?php include "../scripts/header.html"; ?>
         <h6><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6>
         <p>Information about how Research Slots / Budget work can be found at <b><a href = "http://musicfamily.org/realm/Research">Research</a></b>.</p>
-		<p><b>All Researches can also be found in a graphical form at: <b><a href="http://musicfamily.org/realm/Researchtree">Research Tree</a></b>.<p>
+		<p>All Researches can also be found in a graphical form at: <b><a href="http://musicfamily.org/realm/Researchtree">Research Tree</a></b>.<p>
 		<hr>
 		<p><b>Research Facilities</b>:<p>
 		<div class="shlisting">
