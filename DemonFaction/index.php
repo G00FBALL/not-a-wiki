@@ -143,7 +143,7 @@
         <p><b>Cost</b>: 1 Qi (1e18) Demon Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: A fraction of Non-Evil spells cast in this game count as Evil.</p>
-	<p><b>Formula</b>: (0.01 * x ^ 0.8), where x is Non-Evil spells cast this game.<p>
+		<p><b>Formula</b>: (0.01 * x ^ 0.8), where x is Non-Evil spells cast this game.<p>
         <p><b>Effect</b>: Trophies count 100% more.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>

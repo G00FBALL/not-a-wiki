@@ -154,7 +154,6 @@
         <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
         <p><b>Effect</b>: Increase maximum mana based on the highest amount of Swarming Towers you made this Reincarnation.</p>
         <p><b>Formula</b>: +(x ^ 1.05), where x is highest amount of Swarming Towers made this Reincarnation.</p>
-        <p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
         <p><b>Requirement</b>: Fairies Union</p>

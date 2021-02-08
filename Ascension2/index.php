@@ -211,7 +211,6 @@
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Effect</b>: Increase maximum mana based on the highest amount of Swarming Towers you made this Reincarnation.</p>
 <p><b>Formula</b>: +(x ^ 1.05), where x is highest amount of Swarming Towers made this Reincarnation.</p>
-<p><a target="_blank" href="http://musicfamily.org/realm/UsefulTables/"><b>Bubble Swarm Count - FR10 Table</b></a></p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Pheromones.png" alt="Pheromones" align="middle"> <b>Pheromones</b></p>
 <p><b>Requirement</b>: Fairies Union</p>
@@ -248,7 +247,8 @@
 <p><b>Requirement</b>: Burning Abyss Unique Building</p>
 <p><b>Cost</b>: 1 Qi (1e18) Demon Coins</p>
 <p><b>Effect Requirement</b>: R111+</p>
-<p><b>Effect</b>: 1% of all non-Evil spells cast in this game count as Evil.</p>
+<p><b>Effect</b>: A fraction of Non-Evil spells cast in this game count as Evil.</p>
+<p><b>Formula</b>: (0.01 * x ^ 0.8), where x is Non-Evil spells cast this game.<p>
 <p><b>Effect</b>: Trophies count 100% more.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
@@ -301,7 +301,7 @@
 <p><b>Requirement</b>: Faceless Union</p>
 <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the highest amount of Forbidden Libraries you built in this Reincarnation. Grows over time and resets every 15 minutes.</p>
-<p><b>Formula</b>: (0.8 * ((y % 900) / 60) * x ^ 0.4), where x is Forbidden Libraries count, Y is time this game.</p>
+<p><b>Formula</b>: ((t % 900) / 75 * x ^ 0.4)%, where t is time spent this game, x is the highest amount of Forbidden Libraries you built this R.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLanguage.png" alt="Forbidden Language" align="middle"> <b>Forbidden Language</b></p>
 <p><b>Requirement</b>: Faceless Union</p>
@@ -324,9 +324,11 @@
 <p><b>Spell</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AllCreation.png" alt="All Creation" align="middle"> <b>All Creation</b></p>
 <p><b>Cost</b>: 6000 Mana</p>
-<p><b>Effect</b>: Increase production of all buildings based on mana regeneration rate.</p>
-<p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your mana regeneration rate.</p>
-<p><b>Formula</b>: (0.15 * ln(x) ^ 3.5 + 0.9 * x ^ 0.27), where x is mana per seconds.</p>
+<p><b>Duration</b>: 20 seconds</p>
+<p><b>Effect</b>: Increase production of all buildings based on your Mana Regeneration rate.</p>
+<p><b>Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is Mana Regeneration.</p>
+<p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
+<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5 + 15 * x ^ 0.15)%, where x is Mana Regeneration.</p>
 <br/>
 <p><b>Good - Elven</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
