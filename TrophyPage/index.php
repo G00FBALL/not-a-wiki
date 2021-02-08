@@ -1128,141 +1128,141 @@
 	<p><b>Requirement</b>: Produce 2,000 mana (Total)</p>
 	<p><b>Cost</b>: 20 M (2e7), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
-	" coords="70,45,126,102" shape="0">
+	" coords="70,45,126,102" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaSurgeTrophy.png align=middle> </b>Mana Surge</b>
 	<p><b>Requirement</b>: Produce 5,000 mana (Total)</p>
 	<p><b>Cost</b>: 30 B (3e10), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
-	" coords="134,46,190,102" shape="0">
+	" coords="134,46,190,102" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaFountainTrophy.png align=middle> </b>Mana Fountain</b>
 	<p><b>Requirement</b>: Produce 10,000 mana (Total)</p>
 	<p><b>Cost</b>: 40 T (4e13), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
-	" coords="198,45,253,101" shape="0">
+	" coords="198,45,253,101" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaShowerTrophy.png align=middle> </b>Mana Shower</b>
 	<p><b>Requirement</b>: Produce 20,000 mana (Total)</p>
 	<p><b>Cost</b>: 50 Qa (5e16), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
-	" coords="262,45,318,102" shape="0">
+	" coords="262,45,318,102" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaStreamTrophy.png align=middle> </b>Mana Stream</b>
 	<p><b>Requirement</b>: Produce 100,000 mana (Total)</p>
 	<p><b>Cost</b>: 60 Qi (6e19), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
-	" coords="325,46,383,102" shape="0">
+	" coords="325,46,383,102" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaFloodTrophy.png align=middle> </b>Mana Flood</b>
 	<p><b>Requirement</b>: Produce 200,000 mana (Total)</p>
 	<p><b>Cost</b>: 70 Sx (7e22), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +0.50.</p>
-	" coords="388,46,446,103" shape="0">
+	" coords="388,46,446,103" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaWaveTrophy.png align=middle> </b>Mana Wave</b>
 	<p><b>Requirement</b>: Produce 20 M (20e6) mana (Total), R40+</p>
 	<p><b>Cost</b>: 80 Sp (8e25), A2+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
-	" coords="4,109,63,166" shape="0">
+	" coords="4,109,63,166" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaRiverTrophy.png align=middle> </b>Mana River</b>
 	<p><b>Requirement</b>: Produce 1 B (1e9) mana (Total), R40+</p>
 	<p><b>Cost</b>: 90 Oc (9e28), A2+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
-	" coords="70,110,126,167" shape="0">
+	" coords="70,110,126,167" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaLakeTrophy.png align=middle> </b>Mana Lake</b>
 	<p><b>Requirement</b>: Produce 20B (2e10) mana (Total), R40+</p>
 	<p><b>Cost</b>: 100 No (1e32), A2+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
-	" coords="132,109,191,167" shape="0">
+	" coords="132,109,191,167" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaSeaTrophy.png align=middle> </b>Mana Sea</b>
 	<p><b>Requirement</b>: Produce 1 T (1e12) mana (Total), R40+</p>
 	<p><b>Cost</b>: 12.5 Uqag No (1.25e127), A2+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
-	" coords="196,108,253,167" shape="0">
+	" coords="196,108,253,167" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaOceanTrophy.png align=middle> </b>Mana Ocean</b>
 	<p><b>Requirement</b>: Produce 2 T (2e12) mana (Total), R40+</p>
 	<p><b>Cost</b>: 150 Noqag (1.5e152), A2+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +50.00.</p>
-	" coords="261,110,319,166" shape="0">
+	" coords="261,110,319,166" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaSpringTrophy.png align=middle> </b>Mana Spring</b>
 	<p><b>Requirement</b>: R100+, Produce 100 T (1e14) mana (Total)</p>
 	<p><b>Cost</b>: 1 Sp (1e24), A3+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +100.00.</p>
-	" coords="326,110,383,167" shape="0">
+	" coords="326,110,383,167" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaFalls.png align=middle> </b>Mana Falls</b>
 	<p><b>Requirement</b>: R100+, Produce 200 Qi (2e20) mana (Total)</p>
 	<p><b>Cost</b>: 10 Dqag (1e130), A3+ Free</p>
 	<p><b>Effect</b>: Increase Mana Regeneration by +100.00.</p>
-	" coords="388,110,446,167" shape="0">
+	" coords="388,110,446,167" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MagicUserTrophy.png align=middle> </b>Magic User</b>
 	<p><b>Requirement</b>: 10 spell casts in a single game.</p>
-	" coords="5,172,63,231" shape="0">
+	" coords="5,172,63,231" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MagicAbuserTrophy.png align=middle> </b>Magic Abuser</b>
 	<p><b>Requirement</b>: 100 spell casts in a single game.</p>
-	" coords="69,174,126,230" shape="0">
+	" coords="69,174,126,230" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellProdigyTrophy.png align=middle> </b>Spell Prodigy</b>
 	<p><b>Requirement</b>: 500 spells casts in a single game.</p>
-	" coords="134,174,190,230" shape="0">
+	" coords="134,174,190,230" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaLeakerTrophy.png align=middle> </b>Mana Leaker</b>
 	<p><b>Requirement</b>: 1,000 spell casts in a single game.</p>
-	" coords="196,173,255,231" shape="0">
+	" coords="196,173,255,231" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaEraserTrophy.png align=middle> </b>Mana Eraser</b>
 	<p><b>Requirement</b>: 2,000 spell casts in a single game.</p>
-	" coords="262,173,318,231" shape="0">
+	" coords="262,173,318,231" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/AutocasterTrophy.png align=middle> </b>Autocaster</b>
 	<p><b>Requirement</b>: 5,000 spell casts in a single game.</p>
-	" coords="325,172,383,230" shape="0">
+	" coords="325,172,383,230" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellSpammerTrophy.png align=middle> </b>Spell Spammer</b>
 	<p><b>Requirement</b>: 20,000 spell casts in a single game.</p>
-	" coords="387,172,446,230" shape="0">
+	" coords="387,172,446,230" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ManaAnnihilatorTrophy.png align=middle> </b>Mana Annihilator</b>
 	<p><b>Requirement</b>: 50,000 spell casts in a single game.</p>
-	" coords="6,238,62,294" shape="0">
+	" coords="6,238,62,294" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MasterChannelerTrophy.png align=middle> </b>Master Channeler</b>
 	<p><b>Requirement</b>: 100,000 spell casts in a single game.</p>
-	" coords="68,236,125,294" shape="0">
+	" coords="68,236,125,294" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/CasterSupremeTrophy.png align=middle> </b>Caster Supreme</b>
 	<p><b>Requirement</b>: 200,000 spell casts in a single game.</p>
-	" coords="133,237,190,294" shape="0">
+	" coords="133,237,190,294" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellSuperiorityTrophy.png align=middle> </b>Spell Superiority</b>
 	<p><b>Requirement</b>: 500,000 spell casts in a single game.</p>
-	" coords="197,237,254,294" shape="0">
+	" coords="197,237,254,294" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MassiveAutocasterTrophy.png align=middle> </b>Massive Autocaster</b>
 	<p><b>Requirement</b>: 1 M (1e6) spell casts in a single game.</p>
-	" coords="261,237,320,295" shape="0">
+	" coords="261,237,320,295" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellWeaverTrophy.png align=middle> </b>Spell Weaver</b>
 	<p><b>Requirement</b>: 50 M (5e7) spell casts in a single game.</p>
-	" coords="325,237,383,295" shape="0">
+	" coords="325,237,383,295" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ArchwizardTrophy.png align=middle> </b>Archwizard</b>
 	<p><b>Requirement</b>: 1 B (1e9) spell casts in a single game.</p>
-	" coords="388,237,446,294" shape="0">
+	" coords="388,237,446,294" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellMasterTrophy.png align=middle> </b>Spell Master</b>
 	<p><b>Requirement</b>: Cast 50 T (5e13) spells in a single game.</p>
-	" coords="5,300,62,358" shape="0">
+	" coords="5,300,62,358" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellGrinder.png align=middle> </b>Spell Grinder</b>
 	<p><b>Requirement</b>: Cast 10 Qa (1e16) spells in a single game.</p>
-	" coords="69,302,127,359" shape="0">
+	" coords="69,302,127,359" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/AutomaticCastingTrophy.png align=middle> </b>Automatic Casting</b>
 	<p><b>Requirement</b>: 60,000 Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 100 B (1e11), A1+ Free</p>
 	<p><b>Effect</b>: Allows autocasting of spells by CTRL+Clicking them.</p>
 	<p><b>Effect</b>: While offline, spells are not cast, instead increases mana produced amount by 10% of your Mana Regeneration per second.</p>
 	<p><b>Note</b>: You must have at least 1 spell in autocasting mode.</p>
-	" coords="133,301,192,359" shape="0">
+	" coords="133,301,192,359" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ImprovedAutocastingTrophy.png align=middle> </b>Improved Autocasting</b>
 	<p><b>Requirement</b>: 2 M (2e6) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 200 Qi (2e20), A1+ Free</p>
 	<p><b>Effect</b>: Multiplicatively increases Mana Regeneration by 5%.</p>
 	<p><b>Effect</b>: While offline, increases mana produced amount by an additional 15% of your Mana Regeneration per second.</p>
-	" coords="197,301,255,358" shape="0">
+	" coords="197,301,255,358" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MasterfulAutocastingTrophy.png align=middle> </b>Masterful Autocasting</b>
 	<p><b>Requirement</b>: 6 M (6e6) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 300 Oc (3E29), A1+ Free</p>
 	<p><b>Effect</b>: Multiplicatively increases Mana Regeneration by 10%.</p>
 	<p><b>Effect</b>: While offline, increases mana produced amount by an additional 35% of your mana regeneration per second.</p>
-	" coords="262,300,319,359" shape="0">
+	" coords="262,300,319,359" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/PriorityAutocastingTrophy.png align=middle> </b>Priority Autocasting</b>
 	<p><b>Requirement</b>: 12 M (1.2e7) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 400 Ud (4e38), A1+ Free</p>
 	<p><b>Effect</b>: Allows you to prioritize the order of spell casting.</p>
 	<p><b>Note</b>: Spells with lower priority will be cast only if the higher priority spells are already active.</p>
 	<p><b>Effect</b>: While offline, improves spell cast amount by 1 per minute.</p>
-	" coords="325,301,383,359" shape="0">
+	" coords="325,301,383,359" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ContingencyAutocastingTrophy.png align=middle> </b>Contingency Autocasting</b>
 	<p><b>Requirement</b>: 20 M (2e7) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 500 Qad (5e47), A1+ Free</p>
@@ -1271,21 +1271,21 @@
 	<p><b>Note</b>: Once your mana reaches the threshold, spells will follow the priority rules.</p>
 	<p><b>Note</b>: The contingency loop will break when you can't cast a spell, at which point the cycle will reset.</p>
 	<p><b>Effect</b>: While offline, improves spell cast amount by an additional 2 per minute.</p>
-	" coords="390,302,446,358" shape="0">
+	" coords="390,302,446,358" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/PlannedAutocastingTrophy.png align=middle> </b>Planned Autocasting</b>
 	<p><b>Requirement</b>: 30 M (3e7) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 600 Spd (6e56), A1+ Free</p>
 	<p><b>Effect</b>: Allows you to set Primary and Secondary spells.</p>
 	<p><b>Note</b>: Primary spells (Set with CTRL+Click) will fire when you have max mana with Contingency Autocasting. <p>Secondary spells (Set with SHIFT+Click) will fire as soon as you have the mana, as long as the primary spells are ALL still active.</p>
 	<p><b>Effect</b>: While offline, increases mana produced by an additional 10% of your mana regeneration per second and your spells cast amount by an additional 2 per minute.</p>
-	" coords="5,366,63,422" shape="0">
+	" coords="5,366,63,422" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/EfficientAutocastingTrophy.png align=middle> </b>Efficient Autocasting</b>
 	<p><b>Requirement</b>: 50 M (5E7) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 700 Vg (7E65), A1+ Free</p>
 	<p><b>Effect</b>: Allows you to select Independent Spells,</p>
 	<p><b>Note</b>: A bronze icon (Set with CTRL+SHIFT+Click) to work outside of contingency settings. These spells disregard your contingency rules and are casted as soon as you have enough mana for them.</p>
 	<p><b>Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
-	" coords="70,365,127,422" shape="0">
+	" coords="70,365,127,422" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png align=middle> </b>Reverse Autocasting</b>
 	<p><b>Requirement</b>: 150 M (1.5e8) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 3.2 Dc (3.2e33), A2+: Free</p>
