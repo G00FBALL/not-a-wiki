@@ -134,20 +134,20 @@
 				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E145,A120,W180">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E135,A120,W180">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E145,A120,W3150">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E135,A120,W3150">
 					<b>R150+</b>
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D290,D435,D590,</p>
-				<p>E135,E410,</p>
+				<p>E145,E410,</p>
 				<p>A50,A400,A495,</p>
 				<p>W225,W400,W560</p>
-				<p><b>After Archon treaty</b>: S330,C340,D1375,E145,A120,W180 (reimport build).</p>
+				<p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (reimport build).</p>
 				<p><b>Note</b>: First run might need 5-10 minutes to afford Archon Treaty.</p>
 				<p><b>Note</b>: Buff AR1, Excavations & Resets.</p>
 				<p><b>Note</b>: Swap W180 with W3150 at R150+.</p>
@@ -522,6 +522,7 @@
 						<p><b>Note</b>: Recommended buffs this Reincarnation - Spells (1e16 (10 Qa)+), Excavation Resets (70+), Clicks (~500,000).</p>
 						<p><b>Note</b>: Regularly update spell durations (Reverse Autocasting or export/import) for Chrono Loading and AR12.</p>
 						<p><b>Note</b>: Most time efficient at high gem level, but can be done at same gem level (e120+) after MKC5.</p>
+						<p><b>Note</b>: Estimated time to completion is 8 hours (less with more time from ARC4).</p>
 						<p><b>Note</b>: <b>Only for long inactive run</b> (1 day and more from ARC4, CL and game time combined):</p>
 						<p>- Replace Bloodline with Faceless and swap W205 with W1375.</p>
 						<p>- select another set of researches once available - S305,C250,D3350,E145,A120,W525.</p>
