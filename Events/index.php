@@ -66,7 +66,7 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>147 Total </td>
+                        <td>158 Total </td>
                         <td></td>
                         <td>2015</td>
                         <td>2016</td>
@@ -78,7 +78,7 @@
                     </tr>
                     <tbody>
                         <tr>
-                            <td>15 (3)</td>
+                            <td>18 (3)</td>
                             <td>Valentines</td>
                             <td></td>
                             <td>4%</td>
@@ -188,7 +188,7 @@
 							<td></td>
                         </tr>
                         <tr>
-                            <td>40 (8)</td>
+                            <td>48 (8)</td>
                             <td>Christmas</td>
                             <td>14%</td>
                             <td>14%</td>
