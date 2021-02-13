@@ -222,7 +222,7 @@
 					" coords="63,3,116,56" shape="rect">
 					<area research="
 					<p><b>Christmas</b></p>
-					<p><b><img src='/realm/Factions/picks/Santa'sHelpers2016.png' align='middle'> Santa's Helpers</b></p>
+					<p><b><img src='/realm/Factions/picks/SantasHelpers2016.png' align='middle'> Santa's Helpers</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Play as Elves during the Christmas season, and get at least 50 assistants.</p>
 					<p><b>Note</b>: Dwarf is allowed.</p>
@@ -264,7 +264,7 @@
 					" coords="3,63,56,116" shape="rect">
 					<area research="
 					<p><b>Christmas</b></p>
-					<p><b><img src=/realm/Factions/picks/SnowballFight.png' align='middle'> Snowball Fight</b></p>
+					<p><b><img src='/realm/Factions/picks/SnowballFight.png' align='middle'> Snowball Fight</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a stack of at least 720 Snowballs while Call to Arms is active.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
@@ -419,7 +419,7 @@
 					" coords="363,183,416,236" shape="rect">
 					<area research="
 					<p><b>Summer Festival</b></p>
-					<p><b><img src=/realm/Factions/picks/LateSpringtime.png' align='middle'> Late Springtime</b></p>
+					<p><b><img src='/realm/Factions/picks/LateSpringtime.png' align='middle'> Late Springtime</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Unlock</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
@@ -428,7 +428,7 @@
 					<p><b>Halloween</b></p>
 					<p><b><img src='/realm/Factions/picks/MonsterBreederFeat.png' align='middle'> Monster Breeder</b></p>
 					<p><b>Type</b>: Feat, 3 part Quest</p>
-					<p><b>Requirement</b>: Grow all monsters to lvl. 50</p>
+					<p><b>Requirement</b>: Grow all monsters to level 50.</p>
 					<p><b>Effect</b>: Completing the 3 Quest series step will increase your Event Bonus by 4%</p>
 					" coords="63,243,116,296" shape="rect">
 					<area research="
@@ -545,7 +545,7 @@
 					" coords="123,363,176,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
-					<p><b><img src='/realm/Factions/picks/Goblin'sCommander2017.png' align='middle'> Goblin's Commander</b></p>
+					<p><b><img src='/realm/Factions/picks/GoblinsCommander2017.png' align='middle'> Goblin's Commander</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirements</b>: Support the Goblin Army 100 times.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
@@ -623,7 +623,7 @@
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-					" coords="303,423,356,476" shape="rect">
+					" coords="363,423,416,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
 					<p><b><img src='/realm/Factions/picks/BalancedCollector.png' align='middle'> Balanced Collector</b></p>
@@ -976,7 +976,7 @@
                         <p><b>Effect</b>: Adds 3% to you cumulative bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
+                        <p><b><img src="/realm/Factions/picks/SantasHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                         <p><b>Type</b>: Feat</p>
                         <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
                         <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
@@ -1116,22 +1116,22 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 25</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
@@ -1636,7 +1636,7 @@
                         <p><b>Event Quest</b></p>
                         <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
@@ -1644,7 +1644,7 @@
                         <p><b>Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
@@ -1652,7 +1652,7 @@
                         <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Spare Green Hands</b></p>
@@ -1660,7 +1660,7 @@
                         <hr>
                         <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
@@ -1668,7 +1668,7 @@
                         <p><b>Formula</b>: (24 + 12 * ln(x)), where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
@@ -1676,7 +1676,7 @@
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
@@ -1687,7 +1687,7 @@
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                        <p><b><img src="/realm/Factions/picks/GoblinsCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
@@ -2234,7 +2234,7 @@
                         <p><b>Effect</b>: Adds 3% to you cumulative bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
+                        <p><b><img src="/realm/Factions/picks/SantasHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                         <p><b>Type</b>: Feat</p>
                         <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
                         <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
@@ -2371,22 +2371,22 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 25</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
@@ -2875,7 +2875,7 @@
                         <p><b>Event Quest</b></p>
                         <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
@@ -2883,7 +2883,7 @@
                         <p><b>Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
@@ -2891,7 +2891,7 @@
                         <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Spare Green Hands</b></p>
@@ -2899,7 +2899,7 @@
                         <br/>
                         <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
@@ -2907,7 +2907,7 @@
                         <p><b>Formula</b>: (8 + 0.8 * x ^ 0.8)%, where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
@@ -2915,7 +2915,7 @@
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
@@ -2926,7 +2926,7 @@
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                        <p><b><img src="/realm/Factions/picks/GoblinsCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
@@ -3449,7 +3449,7 @@
                         <p><b>Effect</b>: Adds 3% to you cumulative bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
+                        <p><b><img src="/realm/Factions/picks/SantasHelpers2016.png'" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                         <p><b>Type</b>: Feat</p>
                         <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
                         <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
@@ -3552,22 +3552,22 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 25</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
@@ -3890,7 +3890,7 @@
                         <p><b>Event Quest</b></p>
                         <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
@@ -3898,7 +3898,7 @@
                         <p><b>Formula</b>: (30 / floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
@@ -3906,7 +3906,7 @@
                         <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> God's Finger</b></p>
@@ -3914,7 +3914,7 @@
                         <br/>
                         <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
@@ -3923,7 +3923,7 @@
                         <p><b>Note</b>: Does NOT work for spell tier leveling</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
@@ -3931,7 +3931,7 @@
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
@@ -3942,7 +3942,7 @@
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                        <p><b><img src="/realm/Factions/picks/GoblinsCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
@@ -4384,7 +4384,7 @@
                         <p><b>Requirement</b>: Open 13 presents</p>
                         <p><b>Effect</b>: Adds 3% to you cumulative bonus</p>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
+                        <p><b><img src="/realm/Factions/picks/SantasHelpers2016.png'" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                         <p><b>Type</b>: Feat</p>
                         <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
                         <p><b>Note</b>: Unlockable in R7 using undead bloodline.</p>
@@ -4483,20 +4483,20 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 25</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
                         <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
@@ -4762,7 +4762,7 @@
                         <p><b>Event Quest</b></p>
                         <p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
@@ -4770,7 +4770,7 @@
                         <p><b>Formula</b>: floor(x^1.2/10) clicks per seconds, where x is amount of active spells.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
@@ -4778,7 +4778,7 @@
                         <p><b>Formula</b>: ((log10(1+x))^3.5)%, where x is total amount of clicks made.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
-                        <p><b>Requirement</b>: Fight the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> God's Finger</b></p>
@@ -4786,7 +4786,7 @@
                         <br/>
                         <p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 25</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 25.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
@@ -4795,7 +4795,7 @@
                         <p><b>Note</b>: Does NOT work for spell tier leveling</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 50</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
@@ -4803,7 +4803,7 @@
                         <p><b>Formula</b>: (150 * x^0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
-                        <p><b>Requirement</b>: Support the Goblin Army Level 100</p>
+                        <p><b>Requirement</b>: Support the Goblin Army level 100.</p>
                         <p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
@@ -4813,7 +4813,7 @@
                         <p><b>Event Feat</b></p>
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
-                        <p><b><img src="/realm/Factions/picks/Goblin'sCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+                        <p><b><img src="/realm/Factions/picks/GoblinsCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
                         <p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
                         <p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
@@ -5181,7 +5181,7 @@
                         <p><b>Requirement</b>: Open 13 presents</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/Santa'sHelpers2016.png" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
+                        <p><b><img src="/realm/Factions/picks/SantasHelpers2016.png'" alt="SantasHelpers" align="middle"> Santa's Helpers</b></p>
                         <p><b>Type</b>: Feat</p>
                         <p><b>Requirement</b>: Play Elves and get 50 assistants</p>
                         <p><b><img src="/realm/Factions/picks/Unholidays2016.png" alt="Unholidays" align="middle"> Unholidays</b></p>
@@ -5272,20 +5272,20 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10, 25, 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 10</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 25</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to lvl. 50</p>
+                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
                         <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
@@ -5338,7 +5338,7 @@
                         <p><b>Unlock / Price</b>: 2200 Blood</p>
                         <p><b>Effect</b>: Set the cost of faction spells to 1 mana.</p>
                         <p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
-                        <p><b>Requirement</b>: Level 10 Vampire Monster</p>
+                        <p><b>Requirement</b>: level 10 Vampire Monster</p>
                         <p><b>Effect</b>: Increase the size of your assistant army based on the amount of Reincarnations you made for 20 seconds. Increases progressively as you continue casting this spell.</p>
                         <p><b>Formula</b>: (Reincs + 1) * (Number of casts (this game))^0.5</p>
                         <hr>
