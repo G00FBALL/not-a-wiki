@@ -445,13 +445,13 @@
 						<p><b>Artifact Set</b>: Dragon</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S300,S400,S1450,C251,C375,C400,C1300,C1500,D200,D350,E135,E275,E1225,A400,W260,W1375,W1400,S200,C250,D330,E1325,A270,W1275">
+							<input type="text" value="S300,S400,S1450,C251,C375,C400,C1300,C1500,D200,D350,D1125,E135,E275,E1225,A400,A1200,W260,W1375,W1400,S200,C250,D330,E1325,A270,W1275">
 						</p>
 						<p>S300,S400,S1450,</p>
 						<p>C251,C375,C400,C1300,C1500,</p>
-						<p>D200,D350,</p>
+						<p>D200,D350,D1125,</p>
 						<p>E135,E275,E1225,</p>
-						<p>A400,</p>
+						<p>A400,A1200,</p>
 						<p>W260,W1375,W1400</p>
 						<p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
 						<p><b>Note</b>: Buff S400 (400,000+) with Angelline Goblin (Spell Casts) build first.</p>
