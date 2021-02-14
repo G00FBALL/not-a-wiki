@@ -6,7 +6,7 @@
 	<?php include "../scripts/header.html"; ?>
 		<h6><img src="http://musicfamily.org/realm/Factions/picks/ArcheologyTopPage.png"></h6>
 		<p><b><a href="/realm/QuestArtifacts" title="Quest Artifacts">Quest Artifacts</a> Lore Artifacts</b></p>
-		<p>There are 69 Lore Artifacts which combined with other artifacts will unlock different things at different stages of the game.</p>
+		<p>There are 78 Lore Artifacts which combined with other artifacts will unlock different things at different stages of the game.</p>
 		<p><b>Attention</b>: Vanilla Faction-specific Lore Artifacts cannot be found if affiliated with a Prestige Faction. (e.g.The Fairy artifacts cannot be found if you are also playing as Dwarf.)</p>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/SurveyEquipment.png" alt="SurveyEquipment" align="middle"><b> Survey Equipment Upgrade</b></p>
 		<p><b>Requirement</b>: 100 Excavations.</p>
