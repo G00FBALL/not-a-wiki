@@ -138,7 +138,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Heaven's Domain-Dwangel R36-39 (Long tern version Version)</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Heaven's Domain-Dwangel R36-39 (Long term Version)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Angel/Dwarf</p>
@@ -177,7 +177,7 @@
 		<p><b>Special Builds</b></p>
 		<div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R32+<font color="DarkRed"> Evil</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Van!shment R32+</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Undead/Drow</p>
