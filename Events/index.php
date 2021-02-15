@@ -1480,7 +1480,7 @@
                         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Orbs collected in this event. This upgrade persists through Abdications and Reincarnations.</p>
                         <p><b>Formula</b>: min(100000, (x / 27) - (x ^ 2 / 36450) + (x ^ 3 / 98415000))%, where x is the number of Orbs collected in total.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Frost Orbs</p>
                         <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.</p>
@@ -1509,7 +1509,7 @@
                         <p><b>Unlock / Price</b>: 2000 Frost Orbs</p>
                         <p><b>Effect</b>: Spell durations are increased by 100%.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Flame Orbs</p>
                         <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.</p>
@@ -1564,16 +1564,16 @@
                         <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
                         <p><b>Unlock</b>: Purchase all Winterly upgrades.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
                         <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                        <p><b><img src="/realm/Factions/picks/WarmUp.png" alt="Warm Up" align="middle"> Warm Up</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Flame Orbs with a single click while affiliated with the Winterly.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                        <p><b><img src="/realm/Factions/picks/ChillOut.png" alt="Chill Out" align="middle"> Chill Out</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Frost Orbs with a single click while affiliated with the Summeraans.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Climate Forecast" align="middle"> Climate Forecast</b></p>
@@ -2726,7 +2726,7 @@
                         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Orbs collected in this event. This upgrade persists through Abdications and Reincarnations.</p>
                         <p><b>Formula</b>: min(100000, (x / 27) - (x ^ 2 / 36450) + (x ^ 3 / 98415000))%, where x is the number of Orbs collected in total.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Frost Orbs</p>
                         <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.</p>
@@ -2754,7 +2754,7 @@
                         <p><b>Unlock / Price</b>: 2000 Frost Orbs</p>
                         <p><b>Effect</b>: Spell durations are increased by 100%.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Flame Orbs</p>
                         <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.</p>
@@ -2808,16 +2808,16 @@
                         <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
                         <p><b>Unlock</b>: Purchase all Winterly upgrades.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
                         <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                        <p><b><img src="/realm/Factions/picks/WarmUp.png" alt="Warm Up" align="middle"> Warm Up</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Flame Orbs with a single click while affiliated with the Winterly.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                        <p><b><img src="/realm/Factions/picks/ChillOut.png" alt="Chill Out" align="middle"> Chill Out</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Frost Orbs with a single click while affiliated with the Summeraans.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
@@ -3751,7 +3751,7 @@
                         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Orbs collected in this event. This upgrade persists through Abdications and Reincarnations.</p>
                         <p><b>Formula</b>: min(100000, (x / 27) - (x^2 / 36450) + (x^3 / 98415000)) %, where x is the number of Orbs collected in total.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Frost Orbs</p>
                         <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.</p>
@@ -3779,7 +3779,7 @@
                         <p><b>Unlock / Price</b>: 2000 Frost Orbs</p>
                         <p><b>Effect</b>: Spell durations are increased by 100%.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Flame Orbs</p>
                         <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.</p>
@@ -3831,16 +3831,16 @@
                         <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.</p>
                         <hr>
                         <p><b>Feats</b></p>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
                         <p><b>Unlock</b>: Purchase all Winterly upgrades.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
                         <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                        <p><b><img src="/realm/Factions/picks/WarmUp.png" alt="Warm Up" align="middle"> Warm Up</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Flame Orbs with a single click while affiliated with the Winterly.</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                        <p><b><img src="/realm/Factions/picks/ChillOut.png" alt="Chill Out" align="middle"> Chill Out</b></p>
                         <p><b>Unlock</b>: Collect at least 480 Frost Orbs with a single click while affiliated with the Summeraans.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/ClimateForecast.png" alt="Chill Out" align="middle"> Climate Forecast</b></p>
@@ -4633,7 +4633,7 @@
                         <p><b>Effect</b>:Increase the production of all buildings based on Hailstorm activity time for 2m. Bonus provided increases progressively over the duration of the spell.</p>
                         <p><b>Formula</b>: 0.1 * x^0.6 * y^1.1 %, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Frost Orbs</p>
                         <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.</p>
@@ -4661,7 +4661,7 @@
                         <p><b>Effect</b>:Increase the production of all buildings based on spells cast in this game for 12s. Also grants faction coins based on the amount of Flame Orbs collected in this event.</p>
                         <p><b>Formula</b>: 5 * x^0.85%, where x is the number of spells cast this game, and x * y^1.1, where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 400 Flame Orbs</p>
                         <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.</p>
@@ -4702,19 +4702,19 @@
                         <p><b>Effect</b>: +2% Event bonus.</p>
                         <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
                         <p><b>Kind</b>: Feat</p>
                         <p><b>Unlock</b>: Purchase all Winterly upgrades.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                        <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
                         <p><b>Kind</b>: Feat</p>
                         <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                        <p><b><img src="/realm/Factions/picks/WarmUp.png" alt="Warm Up" align="middle"> Warm Up</b></p>
                         <p><b>Kind</b>: Feat</p>
                         <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                        <p><b><img src="/realm/Factions/picks/ChillOut.png" alt="Chill Out" align="middle"> Chill Out</b></p>
                         <p><b>Kind</b>: Feat</p>
                         <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.</p>
                         <hr>
@@ -5417,7 +5417,7 @@
                             <p><b>Effect</b>:Increase the production of all buildings based on Hailstorm activity time for 2m. Bonus provided increases progressively over the duration of the spell.</p>
                             <p><b>Formula</b>: 0.1 * x^0.6 * y^1.1 %, where x is the Hailstorm activity time this game (in seconds), and y is the duration of the current Hailstorm (in seconds).</p>
                             <hr>
-                            <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
+                            <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Alliance" align="middle"> Winterly Alliance</b></p>
                             <p><b>Kind</b>: Upgrade</p>
                             <p><b>Unlock / Price</b>: 400 Frost Orbs</p>
                             <p><b>Effect</b>: Unlocks Hailstorm, and allows purchasing Winterly upgrades.</p>
@@ -5445,7 +5445,7 @@
                             <p><b>Effect</b>:Increase the production of all buildings based on spells cast in this game for 12s. Also grants faction coins based on the amount of Flame Orbs collected in this event.</p>
                             <p><b>Formula</b>: 5 * x^0.85%, where x is the number of spells cast this game, and x * y^1.1, where x is your faction coin chance, and y is the number of Flame Orbs collected in this event.</p>
                             <hr>
-                            <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
+                            <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Alliance" align="middle"> Summeraan Alliance</b></p>
                             <p><b>Kind</b>: Upgrade</p>
                             <p><b>Unlock / Price</b>: 400 Flame Orbs</p>
                             <p><b>Effect</b>: Unlocks Heatwave, and allows purchasing Summeraan upgrades.</p>
@@ -5477,19 +5477,19 @@
                             <p><b>Unlock</b>: Purchase 1/2/3 Summeraan upgrades.</p>
                             <p><b>Effect</b>: +1%/+2%/+4% Event bonus (overall).</p>
                             <hr>
-                            <p><b><img src="/realm/Factions/picks/WinterlyAlliance.PNG" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
+                            <p><b><img src="/realm/Factions/picks/WinterlyAlliance.png" alt="Winterly Champion" align="middle"> Winterly Champion</b></p>
                             <p><b>Kind</b>: Feat</p>
                             <p><b>Unlock</b>: Purchase all Winterly upgrades.</p>
                             <hr>
-                            <p><b><img src="/realm/Factions/picks/SummeraanAlliance.PNG" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
+                            <p><b><img src="/realm/Factions/picks/SummeraanAlliance.png" alt="Summeraan Champion" align="middle"> Summeraan Champion</b></p>
                             <p><b>Kind</b>: Feat</p>
                             <p><b>Unlock</b>: Purchase all Summeraan upgrades.</p>
                             <hr>
-                            <p><b><img src="/realm/Factions/picks/WarmUp.PNG" alt="Warm Up" align="middle"> Warm Up</b></p>
+                            <p><b><img src="/realm/Factions/picks/WarmUp.png" alt="Warm Up" align="middle"> Warm Up</b></p>
                             <p><b>Kind</b>: Feat</p>
                             <p><b>Unlock</b>: Collect a full stack of 480 Flame Orbs while affiliated with the Winterly.</p>
                             <hr>
-                            <p><b><img src="/realm/Factions/picks/ChillOut.PNG" alt="Chill Out" align="middle"> Chill Out</b></p>
+                            <p><b><img src="/realm/Factions/picks/ChillOut.png" alt="Chill Out" align="middle"> Chill Out</b></p>
                             <p><b>Kind</b>: Feat</p>
                             <p><b>Unlock</b>: Collect a full stack of 480 Frost Orbs while affiliated with the Summeraans.</p>
                             <hr>
