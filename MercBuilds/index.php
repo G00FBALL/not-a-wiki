@@ -26,13 +26,13 @@
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW5,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR2,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW5,DW7,SP:Fairy Chanting,SP:God's Hand">
 						<b>DW5 is buffed</b>
 					</p>
 					<p>FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN3,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Notes</b>: Swap FC6->DW5 if buffed</p>
-					<p><b>Notes</b>: Buy max excavations whenever the build slows down</p>
+					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Max your excavations count.</p>
+					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices), then swap FC6->DW5 and FR7->UD7.</p>
 				</div>
 			</div>
         </div>
@@ -103,10 +103,10 @@
 					<p><b>Bloodline</b>: Goblin (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR4,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN2,DN3,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN2,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
 					</p>
 					<p><b>Template</b></p>
-					<p>FR4,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN2,DN3,DN4,DW7,</p>
+					<p>FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
 					<p><b>Notes</b>: This build is for buffing upgrades that base on "highest amount of x building built in this reincarnation" (like DD4: Earthly Bond or DW5: Blood Sacrifices).</p>
 				</div>
