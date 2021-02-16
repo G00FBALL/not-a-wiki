@@ -184,6 +184,40 @@
                     <p><b>Note</b>: When build slows down, recommended to build up cast count: remove all spells from autocast except Blood Frenzy and Tax Collection for 2-10 minutes for build up then resume the combo.</p>
                 </div>
             </div>
+	<div class="shelementwhole">
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Demon R23-25 (Alternate production build)</font></a></b></p>
+                <div class="autohide">
+                    <p><b>Requirement</b>: At least 3 (?) hours spent as Evil alignment in this R</p>
+                    <p><b>Faction</b>: Demon</p>
+                    <p><b>Bloodline</b>: Druid</p>
+                    <p><b>Range</b>: ? Gems</p>
+                    <p><b>Duration</b>: 5 - 25 Minutes</p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S105,S135,S150,S215,S250,C50,C105,C120,C135,C150,D55,D135,D200,D245,D250,E80,E145,E150,E200,E230,A25,A105,A120,A150,A250,W1,W150,W175,W180,W205">
+                    <b>R23</b>
+                    </p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S105,S135,S150,S215,S250,C50,C105,C120,C135,C150,D55,D200,D245,D250,D290,E80,E145,E150,E200,E230,A25,A105,A120,A150,A250,W1,W150,W175,W205,W290">
+                    <b>R24</b>
+                    </p>
+                    <p>
+                        <button onclick="myFunction($(this))">Copy Build</button>
+                        <input type="text" value="S105,S135,S150,S215,S250,C50,C105,C120,C135,C150,D55,D245,D250,D290,D320,E80,E145,E150,E200,E230,A25,A105,A120,A150,A250,W1,W150,W175,W205,W290">
+                    <b>R25</b>
+                    </p>
+                    <p>S105,S135,S150,S215,S250,</p>
+                    <p>C50,C105,C120,C135,C150,</p>
+                    <p>D55,D135,D200,D245,D250,</p>
+                    <p>E80,E145,E150,E200,E230,</p>
+                    <p>A25,A105,A120,A150,A250,</p>
+                    <p>W1,W150,W175,W180,W205</p>
+                    <p><b>Note</b>: Alternative to Druidline Goblin, becomes better than Goblin after 3 (?) hours spent as Evil alignment in this R.</p>
+                    <p><b>Note</b>: Swap D135 -> D290, W180 -> W290 for R24.</p>
+                    <p><b>Note</b>: Swap D200 -> D320 for R25.</p>
+                </div>
+            </div>
         </div>
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Black">R26-R29</font></a></b></p>
         <div class="category autohide">
