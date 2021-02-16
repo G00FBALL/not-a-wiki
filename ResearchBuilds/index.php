@@ -187,6 +187,7 @@
 	<div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Demon R23-25 (Alternate production build)</font></a></b></p>
                 <div class="autohide">
+                    <p><b>Requirement</b>: At least 3 (?) hours spent as Evil alignment in this R</p>
                     <p><b>Faction</b>: Demon</p>
                     <p><b>Bloodline</b>: Druid</p>
                     <p><b>Range</b>: ? Gems</p>
