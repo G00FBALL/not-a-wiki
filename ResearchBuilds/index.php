@@ -153,7 +153,7 @@
                     <p><b>Duration</b>: 5 - 25 Minutes</p>
                     <p>
                         <button onclick="myFunction($(this))">Copy Build</button>
-                        <input type="text" value="S50,S105,S150,S200,S215,C105,C120,C135,C150,C175,D55,D150,D200,D250,D290,E80,E135,E150,E200,E225,A10,A105,A120,A150,A250,W25,W120,W135,W150,W180">
+                        <input type="text" value="S50,S105,S150,S215,S270,C105,C120,C135,C150,C175,D55,D135,D200,D250,D290,E80,E135,E150,E200,E225,A10,A105,A120,A150,A250,W25,W120,W150,W180,W205">
                     </p>
                     <p>S50,S105,S150,S215,S270,</p>
                     <p>C105,C120,C135,C150,C175,</p>
