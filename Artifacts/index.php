@@ -498,7 +498,7 @@
 		<p><b>Chance</b>: 0.1%</p>
 		<p><b>Effect</b>: Awards an upgrade of the same name.</p>
 		<p><b>Upgrade Requirement</b>: R40+</p>
-		<p><b>Effect</b>: Increase the production of Non-Unique buildings based on time spent in this Regeneration.</p>
+		<p><b>Effect</b>: Increase the production of Non-Unique buildings based on time spent in this Reincarnation.</p>
 		<p><b>Formula</b>: (6.5 * x ^ 0.65)%, where x is time spent in this Reincarnation in seconds.</p>
 		<p><b>Cost</b>: 100 Qi (1e20), A2+ Free</p>
 			" coords="63,343,116,396" shape="rect">
