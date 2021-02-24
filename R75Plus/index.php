@@ -6,8 +6,8 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <div class="shlisting">
 	<p><b>Optimal Tiering for R75-R99:</b></p>
-	<p>R85: Blood Frenzy, Night Time,Grand Balance and God's Hand to Tier 6: 16 hours and 59 minutes (assuming optimal tiering)</p>
-	<p>R99: Combo Strikes, Goblin's Greed and Moon Blessing to Tier 6: 9 hours and 28 minutes</p>
+	<p>R85: Blood Frenzy, Night Time, Grand Balance and God's Hand to Tier 6: 16 hours and 59 minutes (assuming optimal tiering)</p>
+	<p>R99: Combo Strike, Goblin's Greed and Moon Blessing to Tier 6: 9 hours and 28 minutes</p>
 	<p>Hellfire Blast in Ascension 2</p>
 	<br/>
 	<p><b>Production Builds</b></p>
