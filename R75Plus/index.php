@@ -482,7 +482,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (Primal Balance & TCC4 Buff) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (Primal Balance & TTC4 Buff) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ?</p>
@@ -513,7 +513,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Lightning Condenser (Alternative Primal Balance & TCC4 Buff) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Lightning Condenser (Alternative Primal Balance & TTC4 Buff) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ?</p>
