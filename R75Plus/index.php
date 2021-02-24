@@ -6,9 +6,9 @@
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <div class="shlisting">
 	<p><b>Optimal Tiering for R75-R99:</b></p>
-	<p>R85: Blood Frenzy, Night Time,Grand Balance and God's Hand to T6: 16 hours and 59 minutes (assuming optimal tiering)</p>
-	<p>R99: Combo StrikeS, Goblin's Greed and Moon Blessing to T6: 9 hours and 28 minutes</p>
-	<p>Hellfire Blast in A2</p>
+	<p>R85: Blood Frenzy, Night Time,Grand Balance and God's Hand to Tier 6: 16 hours and 59 minutes (assuming optimal tiering)</p>
+	<p>R99: Combo Strikes, Goblin's Greed and Moon Blessing to Tier 6: 9 hours and 28 minutes</p>
+	<p>Hellfire Blast in Ascension 2</p>
 	<br/>
 	<p><b>Production Builds</b></p>
 	<div class="category">
@@ -51,6 +51,49 @@
 				<p>E145,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A270,A400,A545,</p>
 				<p>W150,W180,W275,W400,W1375</p>
+				<p><b>Notes</b>: Excavate for Titanline at low gems.</p>
+				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
+				<p><b>Notes</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter R90+</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Cyden</p>
+				<p><b>Requirement</b>: Fairy Lineage level 20+, Dragon Challenge 4</p>
+				<p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
+				<p><b>Faction</b>: Titan/Dragon</p>
+				<p><b>Bloodline</b>: Fairy</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S135,S150,S215,S250,S330,S500,C150,C250,C251,C330,C340,C375,C400,D55,D200,D245,D250,D290,D320,E135,E145,E150,E200,E320,E330,A105,A120,A250,A305,A330,A400,W150,W180,W250,W290,W320,W330,W400">
+				</p>
+				<p>S135,S150,S215,S250,S330,S500,</p>
+				<p>C150,C250,C251,C330,C340,C375,C400,</p>
+				<p>D55,D200,D245,D250,D290,D320,</p>
+				<p>E135,E145,E150,E200,E320,E330,</p>
+				<p>A105,A120,A250,A305,A330,A400,</p>
+				<p>W150,W180,W250,W290,W320,W330,W400</p>
+				<p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R90+</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Mabrima</p>
+				<p><b>Range</b>: 1e27 (1 Oc) - 1e68 (100 Uvg) Gems</p>
+				<p><b>Faction</b>: Faceless/Dragon</p>
+				<p><b>Bloodline</b>: Titan</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S135,S215,S305,S330,S375,S1450,S1500,C150,C250,C340,C400,C1300,C1325,D200,D260,D290,D320,D1125,D1275,D1375,E145,E320,E350,E1225,E1325,E1425,A105,A120,A270,A305,A400,A545,W150,W180,W275,W290,W400,W1375">
+				</p>
+				<p>S135,S215,S305,S330,S375,S1450,S1500,</p>
+				<p>C150,C250,C340,C400,C1300,C1325,p>
+				<p>D200,D260,D290,D320,D1125,D1275,D1375,</p>
+				<p>E145,E320,E350,E1225,E1325,E1425,</p>
+				<p>A105,A120,A270,A305,A400,A545,</p>
+				<p>W150,W180,W275,W290,W400,W1375</p>
 				<p><b>Notes</b>: Excavate for Titanline at low gems.</p>
 				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
 				<p><b>Notes</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
@@ -439,7 +482,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (Primal Balance & TCC4 Buff) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Breeder Reactor (Primal Balance & TTC4 Buff) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ?</p>
@@ -470,7 +513,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Lighnting Condenser (Alternative Primal Balance & TCC4 Buff) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Lightning Condenser (Alternative Primal Balance & TTC4 Buff) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ?</p>
