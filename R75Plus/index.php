@@ -5,11 +5,10 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <div class="shlisting">
-	<p><b>Optimal Tiering:</b></p>
-	<p>. . .</p>
-	<p>R85: BF,NT,GB,GH to T6: 16 hours and 59 minutes</p>
-	<p>R99: CS,GG,MB to T6: 9 hours and 28 minutes</p>
-	<p>HfB in A2</p>
+	<p><b>Optimal Tiering for R75-R99:</b></p>
+	<p>R85: Blood Frenzy, Night Time,Grand Balance and God's Hand to T6: 16 hours and 59 minutes (assuming optimal tiering)</p>
+	<p>R99: Combo StrikeS, Goblin's Greed and Moon Blessing to T6: 9 hours and 28 minutes</p>
+	<p>Hellfire Blast in A2</p>
 	<br/>
 	<p><b>Production Builds</b></p>
 	<div class="category">
@@ -67,7 +66,7 @@
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Undead Lineage L15, Undead Perk 1</p>
 				<p><b>Range</b>: ? Gems</p>
-				<p><b>Faction</b>: FacelessDruid/Dragon</p>
+				<p><b>Faction</b>: Faceless/Dragon</p>
 				<p><b>Bloodline</b>: Undead</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -92,14 +91,15 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building)(R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
+				<p><b>Range</b>: 1e88 (10 Ocvg) gems+</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Goblin</p>
-				<p><b>Range</b>: 1e88 (10 Ocvg) gems+</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="FR1,FR4,FR7,EL9,GB1,GB3,TT9,DD6,DN2,DN4,DW7,DG4,SP:Fairy Chanting,SP:Lightning Strike">
-					<p>FR1,FR4,FR7,EL9,GB1,GB3,TT9,DD6,DN2,DN4,DW7,DG4,</p>
-					<p>SP:Fairy Chanting,SP:Lightning Strike</p>
+				</p>
+				<p>FR1,FR4,FR7,EL9,GB1,GB3,TT9,DD6,DN2,DN4,DW7,DG4,</p>
+				<p>SP:Fairy Chanting,SP:Lightning Strike</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -124,10 +124,10 @@
 				<p>W275,W400,W1275,W1375</p>
 				<p><b>Notes</b>: Buff W275 before running this build.</p>
 				<p><b>Notes</b>: Estimated 10 minutes for Secrets of the Warrior to unlock. Use Research template to get Fairy Lineage 25 afterwards.</p>
-				<p><b>Build has several stages:</b></p>
+				<p><b>Build has 3 stages:</b></p>
 				<p><b>1</b>: Gather faction coins for 400 Fairy Exchanges and buy Fairy Lineage (Cast Lightning Strike and Dragon's Breath on bronze, Tax Collection on gold).</p>
 				<p><b>2</b>: Buy Freemason's Hall (1e125 / 100 Qag), Appraisal Vantage (1e135 / 1 Qaqag) and cast all spells on bronze at the highest tier, Tax Collection/ Appraisal Vantage on gold.</p>
-				<p><b>4</b>: Buy Secrets of the Warrior, load the research build and get Fairy Lineage level 25.</p>
+				<p><b>3</b>: Buy Secrets of the Warrior, load the research build and get Fairy Lineage level 25.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -239,7 +239,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brilliant Lightning Rush (R82-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Range</b>: 1e75 (1 Qavg) Gems - 1e108 (1 Qitg) ( Gems</p>
+				<p><b>Range</b>: 1e75 (1 Qavg) Gems - 1e108 (1 Qitg) Gems</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>A2950</b>: Dragon</p>
@@ -314,7 +314,7 @@
 				<p>W400,W525,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: S50 and A410 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Tiering every spells the build use to T6 is highly recommended.</p>
+				<p><b>Notes</b>: Tiering every spell the build uses to T6 is highly recommended.</p>
 				<p><b>Notes</b>: At higher gems buffing TTC4, DM2 and FC3 when build slows down is recommended.</p>
 				<p><b>Notes</b>: Swap Night Time->Grand Balance if you have Primal Balance +10.</p>
 			</div>
@@ -491,7 +491,7 @@
 				<p>W400,W1375,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: S50 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Get PB+10 much slower and instead spend more time casting Lightning Strike and being Evil,thus buffing TTC4, DM2 and FC2. Helps future Evil Merc runs greatly.</p>
+				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Gets PB+10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC2. Helps future Evil Merc runs greatly.</p>
 				<p><b>Notes</b>: Estimated 2-3 (?) hours for PB+10.</p>
 			</div>
 		</div>
@@ -567,7 +567,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL4,EL7,AN5,GB3,UD7,TT7,DD3,DD4,FC3,FC7,DN2,DN4,MA:DW7,SP:Fairy Chanting,SP:God's Hand,S50,S305,S1450,S1500,C250,C400,C590,C3000,D25,D200,D290,D2775,E320,E1225,E3250,E3300,A305,A1500,A2950,A3400,W275,W400,W1375,W1400">
-					<b>Extra Share Benefits tier</b>
+					<b>Dragon Lineage (Dragon Perk 2 is unlocked)</b>
 				</p>
 				<p>EL4,EL7,AN5,GB3,UD7,TT7,DD3,DD4,FC3,FC7,DN2,DN4,MA:DW7,</p>
 				<p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
