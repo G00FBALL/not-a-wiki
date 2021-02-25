@@ -104,10 +104,32 @@
 	<p><b>Low Gem Buff Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Requirement</b>: Undead Lineage L15, Undead Perk 1</p>
+				<p><b>Requirement</b>: Undead Lineage L15+, Undead Perk 1</p>
+				<p><b>Range</b>: ? Gems</p>
+				<p><b>Faction</b>: Druid/Dragon</p>
+				<p><b>Bloodline</b>: Undead</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S215,S305,S330,S500,S1450,C150,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,E135,E145,E320,E1225,E1325,E1425,A105,A120,A375,A400,A545,A1500,W180,W250,W350,W400,W1375">
+				</p>
+				<p>S215,S305,S330,S500,S1450,</p>
+				<p>C150,C340,C400,C1300,C1325,</p>
+				<p>D250,D275,D290,D1125,D1275,<p>
+				<p>E135,E145,E320,E1225,E1325,E1425,</p>
+				<p>A105,A120,A375,A400,A545,A1500,</p>
+				<p>W180,W250,W350,W400,W1375</p>
+				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
+				<p><b>Notes</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Cyden</p>
+				<p><b>Requirement</b>: Undead Lineage L15+, Undead Perk 1</p>
 				<p><b>Range</b>: ? Gems</p>
 				<p><b>Faction</b>: Faceless/Dragon</p>
 				<p><b>Bloodline</b>: Undead</p>
