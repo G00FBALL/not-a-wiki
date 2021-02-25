@@ -104,10 +104,32 @@
 	<p><b>Low Gem Buff Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Requirement</b>: Undead Lineage L15, Undead Perk 1</p>
+				<p><b>Requirement</b>: Undead Lineage L15+, Undead Perk 1</p>
+				<p><b>Range</b>: ? Gems</p>
+				<p><b>Faction</b>: Druid/Dragon</p>
+				<p><b>Bloodline</b>: Undead</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S215,S305,S330,S500,S1450,C150,C340,C400,C1300,C1325,D250,D275,D290,D1125,D1275,E135,E145,E320,E1225,E1325,E1425,A105,A120,A375,A400,A545,A1500,W180,W250,W350,W400,W1375">
+				</p>
+				<p>S215,S305,S330,S500,S1450,</p>
+				<p>C150,C340,C400,C1300,C1325,</p>
+				<p>D250,D275,D290,D1125,D1275,<p>
+				<p>E135,E145,E320,E1225,E1325,E1425,</p>
+				<p>A105,A120,A375,A400,A545,A1500,</p>
+				<p>W180,W250,W350,W400,W1375</p>
+				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
+				<p><b>Notes</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Cyden</p>
+				<p><b>Requirement</b>: Undead Lineage L15+, Undead Perk 1</p>
 				<p><b>Range</b>: ? Gems</p>
 				<p><b>Faction</b>: Faceless/Dragon</p>
 				<p><b>Bloodline</b>: Undead</p>
@@ -134,7 +156,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building)(R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
-				<p><b>Range</b>: 1e88 (10 Ocvg) gems+</p>
+				<p><b>Range</b>: 1e82 (10 Sxvg) gems+</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Goblin</p>
 				<p>
@@ -303,17 +325,17 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,SP:Lightning Strike,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A1200,A1500,A2950,A3400,W150,W180,W400,W3150">
-					<b>R83+</b>
+					<b>R82+</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="FR4,EL5,GB3,UD7,TT7,DD6,FC3,DN2,DN4,DW7,DG3,DG9,SP:Lightning Strike,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A1200,A1500,A2950,A3400,W150,W180,W400,W3150">
-					<b>R83+, 1e86+ (100 Spvg) gems</b>
+					<b>R82+, 1e86+ (100 Spvg) gems</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="FR4,EL5,GB3,UD7,TT7,DD6,FC3,DN2,DN4,DW7,DG3,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A1200,A1500,A2950,A3400,W150,W180,W400,W3150">
-					<b>R83+, 1e88+ (10 Ocvg) gems, God's Hand is T6</b>
+					<b>R82+, 1e88+ (10 Ocvg) gems, God's Hand is T6</b>
 				</p>
 				<p>FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,</p>
 				<p>SP:Dragon's Breath,SP:Lightning Strike,</p>
@@ -327,7 +349,7 @@
 				<p><b>Notes</b>: A1200 requires E3300 purchased to become available.</p>
 				<p><b>Notes</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
 				<p><b>Notes</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
-				<p><b>Notes</b>: Swap A105->A3400 for R83+.</p>
+				<p><b>Notes</b>: Swap A105->A3400 for R82+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -336,8 +358,8 @@
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 1e108 (1 Qitg) Gems - 1e118 (10 Octg) Gems</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
-				<p><b>Bloodline</b>: Titan</p>
-				<p><b>A2950</b>: Dragon</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>A2950</b>: Titan</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="GB3,GB5,UD7,DM2,TT7,DD6,FC3,DN4,DW7,DG3,DG4,DG9,MA:DW8,SP:God's Hand,SP:Night Time,S50,S305,S1450,S1500,C340,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E3250,E3300,A120,A410,A1500,A2950,W400,W525,W3050,W3150">
@@ -357,6 +379,7 @@
 				<p>W400,W525,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: S50 and A410 requires E3300 purchased to become available.</p>
+				<p><b>Notes</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
 				<p><b>Notes</b>: Tiering every spell the build uses to T6 is highly recommended.</p>
 				<p><b>Notes</b>: At higher gems buffing TTC4, DM2 and FC3 when build slows down is recommended.</p>
 				<p><b>Notes</b>: Swap Night Time->Grand Balance if you have Primal Balance +10.</p>
@@ -396,8 +419,8 @@
 				<p><b>Requirement</b>: Veteran Figurine artifact, Primal Balance +10</p>
 				<p><b>Range</b>: 1e120 (1 Notg) Gems - 1e138 (1 Qiqag) Gems</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
-				<p><b>Bloodline</b>: Titan</p>
-				<p><b>A2950</b>: Dragon</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>A2950</b>: Titan</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="AN5,GB3,GB5,UD7,DM2,TT7,FC3,DN4,DW7,DG3,DG4,DG9,MA:DW8,SP:God's Hand,SP:Grand Balance,S50,S215,S305,S1450,S1500,C340,C400,C590,C1300,C3000,D25,D275,D1275,D1375,D2775,E135,E230,E1225,E3250,E3300,A120,A410,A590,A1500,A2950,W205,W400,W525,W3050,W3150">
@@ -412,6 +435,7 @@
 				<p>W205,W400,W525,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: S50 and A410 requires E3300 purchased to become available.</p>
+				<p><b>Notes</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
 				<p><b>Notes</b>: Benefits greatly from buffing TTC4, DM2 and FC3.</p>
 			</div>
 		</div>
@@ -498,7 +522,7 @@
 					<input type="text" value="FR4,EL7,GB3,UD7,TT7,DD4,DD6,C2,FC3,DN2,DN4,DW7,SP:Fairy Chanting,SP:Lightning Strike,S215,S305,S400,S1450,S1500,C400,C590,C1300,C3000,C3100,D25,D290,D1275,D1375,D2775,E135,E320,E1225,E3250,E3300,A120,A305,A1500,A2950,A3400,W275,W400,W1375,W1400,W3150">
 					<b>R90+</b>
 				</p>
-				<p>FR4,EL7,GB3,UD7,TT7,DD4,DD6,FC2,FC3,DN2,DN4,DW7,</p>
+				<p>FR4,EL7,GB3,UD7,TT7,DD4,DD6,FC3,DN2,DN4,DW7,DG3,</p>
 				<p>SP:Fairy Chanting,SP:Lightning Strike,</p>
 				<p>S305,S400,S1450,S1500,</p>
 				<p>C590,C1300,C3000,C3100,</p>
@@ -534,7 +558,7 @@
 				<p>W400,W1375,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: S50 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Gets PB+10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC2. Helps future Evil Merc runs greatly.</p>
+				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Gets PB+10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC3. Helps future Evil Merc runs greatly.</p>
 				<p><b>Notes</b>: Estimated 2-3 (?) hours for PB+10.</p>
 			</div>
 		</div>
