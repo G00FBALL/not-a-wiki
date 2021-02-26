@@ -607,6 +607,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gene Lab (All Lineages L30+)(R82+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
+				<p><b>Requirement</b>: Fairy Lineage level of at least L30.</p>
 				<p><b>Range</b>: ? Gems</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
 				<p><b>Bloodline</b>: All (1 at a time)</p>
@@ -629,6 +630,7 @@
 				<p>A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1375,W1400</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Notes</b>: Level Fairy Lineage up to at least L30 first before running this build.</p>
 				<p><b>Notes</b>: For Dragon Lineage swap Dragon's Breath->God's Hand and pick A2950: Elf instead.</p>
 			</div>
 		</div>
