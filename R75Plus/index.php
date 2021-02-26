@@ -259,37 +259,37 @@
 				<p><b>A2950</b>: Dragon</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C340,C400,C590,C1300,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W275,W1375">
+					<input type="text" value="FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C400,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W275,W1375">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C340,C400,C590,C1300,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W275,W1375">
+					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C400,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W275,W1375">
 					<b>1e86+ (100 Spvg) gems</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S1450,S1500,C340,C400,C590,C1300,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W275,W1375">
+					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S1450,S1500,C400,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W275,W1375">
 					<b>1e88+ (10 Ocvg) gems, God's Hand is T6</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C340,C400,C590,C1300,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W1375,W3150">
+					<input type="text" value="FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C400,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W1375,W3150">
 					<b>R79+</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C340,C400,C590,C1300,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W1375,W3150">
+					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S1450,S1500,C400,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W1375,W3150">
 					<b>R79+, 1e86+ (100 Spvg) gems</b>
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S1450,S1500,C340,C400,C590,C1300,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W1375,W3150">
+					<input type="text" value="FR4,EL5,GB3,UD7,TT7,FC3,DD6,DN2,DN4,DW7,DG3,DG9,SP:Dragon's Breath,SP:God's Hand,S215,S305,S1450,S1500,C400,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E320,E1225,E1425,A30,A105,A1500,A2950,W150,W180,W1375,W3150">
 					<b>R79+, 1e88+ (10 Ocvg) gems, God's Hand is T6</b>
 				</p>
 				<p>FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,</p>
 				<p>SP:Dragon's Breath,SP:Lightning Strike,</p>
 				<p>S215,S305,S1450,S1500,</p>
-				<p>C340,C400,C590,C1300,</p>
+				<p>C400,C590,C1300,C3000,</p>
 				<p>D25,D1275,D1375,D2775,</p>
 				<p>E135,E320,E1225,E1425,</p>
 				<p>A30,A105,A1500,A2950,</p>
@@ -322,34 +322,18 @@
 					<input type="text" value="FR4,EL5,GB3,UD7,TT7,DD6,FC3,DN2,DN4,DW7,DG3,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A105,A1200,A1500,A2950,W150,W180,W400,W3150">
 					<b>1e88+ (10 Ocvg) gems, God's Hand is T6</b>
 				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,SP:Lightning Strike,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A1200,A1500,A2950,A3400,W150,W180,W400,W3150">
-					<b>R82+</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL5,GB3,UD7,TT7,DD6,FC3,DN2,DN4,DW7,DG3,DG9,SP:Lightning Strike,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A1200,A1500,A2950,A3400,W150,W180,W400,W3150">
-					<b>R82+, 1e86+ (100 Spvg) gems</b>
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL5,GB3,UD7,TT7,DD6,FC3,DN2,DN4,DW7,DG3,DG9,SP:God's Hand,SP:Dragon's Breath,S215,S305,S1450,S1500,C340,C400,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E1425,E3300,A1200,A1500,A2950,A3400,W150,W180,W400,W3150">
-					<b>R82+, 1e88+ (10 Ocvg) gems, God's Hand is T6</b>
-				</p>
 				<p>FR4,GB1,GB3,UD7,TT7,DD6,DN2,DN4,DW6,DW7,DG3,DG9,</p>
 				<p>SP:Dragon's Breath,SP:Lightning Strike,</p>
 				<p>S215,S305,S1450,S1500,</p>
 				<p>C340,C400,C1300,C3000,</p>
 				<p>D25,D1275,D1375,D2775,</p>
 				<p>E135,E1225,E1425,E3300,</p>
-				<p>A105,A1200,A1500,A2950,</p>
+				<p>A1200,A1500,A2950,A3400,</p>
 				<p>W150,W180,W400,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: A1200 requires E3300 purchased to become available.</p>
 				<p><b>Notes</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
 				<p><b>Notes</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
-				<p><b>Notes</b>: Swap A105->A3400 for R82+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -623,6 +607,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gene Lab (All Lineages L30+)(R82+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
+				<p><b>Requirement</b>: Fairy Lineage level of at least L30.</p>
 				<p><b>Range</b>: ? Gems</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
 				<p><b>Bloodline</b>: All (1 at a time)</p>
@@ -645,6 +630,7 @@
 				<p>A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1375,W1400</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Notes</b>: Level Fairy Lineage up to at least L30 first before running this build.</p>
 				<p><b>Notes</b>: For Dragon Lineage swap Dragon's Breath->God's Hand and pick A2950: Elf instead.</p>
 			</div>
 		</div>
