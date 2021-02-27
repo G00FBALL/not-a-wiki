@@ -5,45 +5,45 @@
 <?php include "../scripts/header.html"; ?>
 <p>Each Faction has its own unique and universal Heritage that you can unlock and buy in each subsequent abdication.</p>
 <p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/FactionChampion/"> Champion Trophy</a></b> of that faction, which requires buying the 12 faction upgrades in this game (this includes Trade Treaty, Friendship Pact and Alliance)</p>
-<p>Once unlocked, its price is in Faction Coins, the number depending on the faction's tier:</p>
-<p><b>Vanilla</b>: 5000</p>
-<p><b>Neutral</b>: 25000 each of two factions</p>
-<p><b>Prestige</b>: 75000</p>
-<p><b>Mercenary (R3+)</b>: 100000 each of all.</p>
-<p><b>Neutral Prestige (R46+)</b>: 400 B (4e11) each of Dwarf and Drow</p>
-<p><b>Elite (R125+)</b>: 1 Ud (1e36) each of two factions</p>
+<p>Once unlocked, the upgrades cost the following amount of Faction Coins (of the matching type):</p>
+<p><b>Vanilla</b>: 5,000 of that faction.</p>
+<p><b>Neutral</b>: 25,000 of the two matching factions.</p>
+<p><b>Prestige</b>: 75,000 of that faction.</p>
+<p><b>Mercenary (R3+)</b>: 100,000 of every faction coin type.</p>
+<p><b>Neutral Prestige (R46+)</b>: 400 B (4e11) of the two matching factions.</p>
+<p><b>Elite (R125+)</b>: 1 Ud (1e36) each of the two matching factions.</p>
 <hr>
 <p>Vanilla Heritages</h>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FairyHeritage.png" alt="Fairy Heritage" align="middle"><b> Fairy Heritage</b></p>
-<p><b>Cost</b>: 5000 Fairy Coins</p>
+<p><b>Cost</b>: 5,000 Fairy Coins</p>
 <p><b>Requirements</b>: Fairy Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings by 0.075% per Farm, Inn and Blacksmith you own.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ElvenHeritage.png" alt="Elven Heritage" align="middle"><b> Elven Heritage</b></p>
-<p><b>Cost</b>: 5000 Elven Coins</p>
+<p><b>Cost</b>: 5,000 Elven Coins</p>
 <p><b>Requirements</b>: Elven Champion Trophy</p>
 <p><b>Effect</b>: Increase your chance to find Faction Coins by +5% and increase your click reward based on your chance to find Faction Coins.</p>
 <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your chance to find faction coins.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
-<p><b>Cost</b>: 5000 Angel Coins</p>
+<p><b>Cost</b>: 5,000 Angel Coins</p>
 <p><b>Requirements</b>: Angel Champion Trophy</p>
 <p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 10%.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinHeritage.png" alt="Goblin Heritage" align="middle"><b> Goblin Heritage</b></p>
-<p><b>Cost</b>: 5000 Goblin Coins</p>
+<p><b>Cost</b>: 5,000 Goblin Coins</p>
 <p><b>Requirements</b>: Goblin Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the amount of gems you own.</p>
 <p><b>Formula</b>: floor(7.5 * log10(1 + x))%, where x is the amount of gems you have.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadHeritage.png" alt="Undead Heritage" align="middle"><b> Undead Heritage</b></p>
-<p><b>Cost</b>: 5000 Undead Coins</p>
+<p><b>Cost</b>: 5,000 Undead Coins</p>
 <p><b>Requirements</b>: Undead Champion Trophy</p>
 <p><b>Effect</b>: You gain additional assistants based on the time spent in this game.</p>
 <p><b>Formula</b>: +floor(1 + 1.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicHeritage.png" alt="Demonic Heritage" align="middle"><b> Demonic Heritage</b></p>
-<p><b>Cost</b>: 5000 Demon Coins</p>
+<p><b>Cost</b>: 5,000 Demon Coins</p>
 <p><b>Requirements</b>: Demon Champion Trophy</p>
 <p><b>Effect</b>: Increase the production of all buildings by 0.3% per Hall of Legends you own.</p>
 <hr>
@@ -106,10 +106,10 @@
 <hr>
 <p>Advanced Heritages appear in R116+, and can be unlocked for all but the Elite Prestige and Mercenary factions.</p>
 <p>To unlock them, you need to unlock the <p><b><a href="http://musicfamily.org/realm/TrophyPage/#Master "> Master Trophy</a></b> of that faction, which requires buying the 16 faction upgrades in this game (this includes Trade Treaty, Friendship Pact, Alliance and Union), while having Level 30 in their respective lineage, and then get 8 hours of spell activity time this game in their respective spell.</p>
-<p><b>Advanced Heritages</b>: 1 Sp (1e24) (of each of two factions for Neutral)</p>
+<p><b>Once unlocked, the upgrades cost 1 Sp (1e24) Faction Coins of the matching type.</p>
 <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
 <p><b>Formula</b>: (1 + 0.3 * level)</p>
-<p><b>Note</b>: Faction Ruler doubles Advanced Heritage powers.
+<p><b>Note</b>: Faction Ruler doubles the power of an individual Advanced Heritage if it matches the current alignment (quadruples the power if both alignments match).</p>
 <hr>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
 <p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>

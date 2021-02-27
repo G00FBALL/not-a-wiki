@@ -1031,7 +1031,7 @@
                     </div>
                 </div>
 			    <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving(Nov 24 - Nov 28, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 24 - Nov 28, 2020)</a></b></p>
                     <div class="autohide">
                         <p>Remember the Thanksgiving upgrade and bonuse will disappear after the event is over, the Feat achievement will remain.</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
@@ -1271,7 +1271,7 @@
                     </div>
                 </div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium  Event (Sep 23 - Sep 30, 2020)</a></b></p>
+					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium (Sep 23 - Sep 30, 2020)</a></b></p>
                     <div class="autohide">
                         <p>The event will feature three Resources, <b>Crystal Prisms</b>, <b>Entropic Drops</b> and <b>Equilibrium Fragments</b>, They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 16 hours, up to 960.</p>
                         <p>Being aligned with an elite faction will double the speed a resource is gained.</p>
@@ -1731,7 +1731,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">5th Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                         <p><b>Cost</b>: Free</p>
@@ -2284,7 +2284,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving(Nov 26 - Nov 30, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 26 - Nov 30, 2019)</a></b></p>
                     <div class="autohide">
                         <p>The Thanksgiving event will be starting on <b>Nov 26th 2018, 1.01 PM UTC</b> and will end on <b>Nov 30th 2019, 6.59 PM UTC</b>.</p>
                         <p>Remember the Thanksgiving upgrade and bonuse will disappear after the event is over, the Feat achievement will remain.</p>
@@ -2521,7 +2521,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium  Event (Sep 23 - Sep 30, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium (Sep 23 - Sep 30, 2019)</a></b></p>
                     <div class="autohide">
                         <p>The event will feature three Resources, <b>Crystal Prisms</b>, <b>Entropic Drops</b> and <b>Equilibrium Fragments</b>, They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 16 hours, up to 960.</p>
                         <p>Being aligned with an elite faction will double the speed a resource is gained.</p>
@@ -2704,7 +2704,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">The Summer Event (Aug 26 - Sep 2, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 26 - Sep 2, 2019)</a></b></p>
                     <div class="autohide">
                         <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!</p>
                         <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 12 hours, up to 720 orbs.</p>
@@ -3492,7 +3492,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving(Nov 30 - Dec 4, 2018)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 30 - Dec 4, 2018)</a></b></p>
                     <div class="autohide">
                         <p>The Thanksgiving event will be starting on <b>Nov 30th 2018, 1.01 PM UTC</b> and will end on <b>Dec 4th 2018, 6.59 PM UTC</b>.</p>
                         <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements</p>
@@ -4237,7 +4237,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">St Valentine's Day (Feb 14 - 18, Feb 2018)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 14 - 18, Feb 2018)</a></b></p>
                     <div class="autohide">
                         <p><b>Event Theme</b>: <b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts</b></p>
                         <p>Collected online and offline at a base rate of 1 per second and can be increased up to 3/s during the length of the event as follows:</p>
@@ -5067,7 +5067,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">St Valentine's Day (14 - 18 Feb 2017)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (14 - 18 Feb 2017)</a></b></p>
                     <div class="autohide">
                         <p><b>Event Theme</b>: <b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="Avalanche" align="middle"> Hearts</b></p>
                         <p>Collected online and offline at a base rate of 1 per second and can be increased up to 3/s during the length of the event as follows:</p>
@@ -5511,7 +5511,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fool's Day:(April 1, 2016)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2016)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/Aprilfools1.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -5624,7 +5624,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">St Valentine's Day (Feb 12 - Feb 16, 2016)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 12 - Feb 16, 2016)</a></b></p>
                     <div class="autohide">
                         <p><b>Event Theme</b>: Hearts. Collected passively online and offline at a base rate of 1 per second. Each can be increased up to 5/s during the length of the event as follows:</p>
                         <p>Online Hearts per second will go up by 1 every time you cast an amount of Call to Love equal to one less than a power of 10. Total online production is 1 + floor(log10(1 + x)), where x is number of CtL casts over all reincarnations. Note that the first cast of each abdication does not count towards this.</p>
@@ -5665,7 +5665,7 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2015 Events</a></b></p>
             <div class="category autohide">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas Event (Dec 21, 2015 - Jan 5, 2016)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 21, 2015 - Jan 5, 2016)</a></b></p>
                     <div class="autohide">
                         <p><b>Event Theme</b>: Snowballs (image). They will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Snowball to appear. Or, you can let them grow bigger over time if you are idle or offline - up to a maximum size of 360 Snowballs! (later updated to 1000)</p>
                         <p>During the Event, Players will also receive a daily Christmas Present. (Requires to go online to be retrieved.)</p>
@@ -5704,7 +5704,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving Event (Nov 26 - Nov 30, 2015)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 26 - Nov 30, 2015)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/Thanksgiving2015.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
