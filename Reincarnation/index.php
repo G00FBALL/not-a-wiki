@@ -16,7 +16,7 @@
     <p>It is this upgrade that enables the reincarnation perks.</p>
     <p>Hovering over it (<u>in game</u>) located under the <u>Upgrade</u> tab will reveal all the details about your reincarnation perks.</p>
     <p><b>Requirements</b></p>
-    <p>Reincarnation can only be performed for the first time when the user reaches 1 Oc Gems, and each subsequent reincarnation costs 1000 times more gems.</p>
+    <p>Reincarnation can only be performed for the first time when the user reaches 1 Oc (1e27) Gems, and each subsequent reincarnation costs 1000 times more gems.</p>
     <p>Along the way, try to get all the Trophies and Artifacts you can get at each progress level.</p>
     <br/>
     <div id="ReiCosCal">
@@ -120,7 +120,7 @@
                 ],
                 [ 25, 999, '#R25RE', false, 1
                 , function(rei) {return 0.5 * rei;}
-                , function(rei, bonus) {return 'Royal Exchange bonus is increased by ' + bonus + '%.';}
+                , function(rei, bonus) {return 'Royal Exchange bonus is increased by +' + bonus + '%.';}
                 ],
                 [ 41, 999, '#R41UniBuiPro', true, 1
                 , function(rei) {return 1200 * Math.pow(rei, 1.15);}
@@ -353,76 +353,72 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Reincarnation Perks</a></b></p>
             <div class="autohide">
                 <p><b>x in formulas is amount of times you reincarnated.</b></p>
-                <p><b>Added</b>: Increase Production by (50 * x)%</p>
-                <p><b>Added</b>: Increase Offline production by (500 * x)%.</p>
-                <p><b>Added</b>: Increase FC chance by +(10 * x)%.</p>
-                <p><b>Added</b>: Increase Mana per Second by +(2 * R).</p>
+				<p><b>1st Reincarnation and up</b></p>
+                <p><b>Effect</b>: Increase Production by (50 * x)%</p>
+                <p><b>Effect</b>: Increase Offline production by (500 * x)%.</p>
+                <p><b>Effect</b>: Increase FC chance by +(10 * x)%.</p>
+                <p><b>Effect</b>: Increase Mana Regeneration by +(2 * x).</p>
                 <br/>
                 <p><b>2nd Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Gem production bonus by (0.2 * x)%.</p>
+                <p><b>Effect</b>: Increase Gem production bonus by +(0.2 * x)%.</p>
                 <br/>
                 <p><b>5th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Assistants by x and assistant production is increased by (2 * x)%.</p>
+                <p><b>Effect</b>: Increase Assistants by +x and assistant production is increased by (2 * x)%.</p>
                 <br/>
                 <p><b>10th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Production of all buildings by ((x ^ 1.75) * (t ^ 0.65))%, where t is time(total) in hours.</p>
+                <p><b>Effect</b>: Increase Production of all buildings by (x ^ 1.75 * (t / 3600) ^ 0.65)%, where t is time spent in this Reincarnation.</p>
                 <br/>
                 <p><b>12th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Maximum mana by 35 * x.</p>
+                <p><b>Effect</b>: Increase Maximum mana by +(35 * x).</p>
                 <br/>
                 <p><b>20th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2000 Farms and 1000 Blacksmith is 0.01*20*2000%=400% bonus to Farms and 0.01*20*1000%=200% bonus to Blacksmith)</p>
+                <p><b>Effect</b>: Increase Production of each building by (0.01 * x * b)%, where b is amount of specific building. (e.g. R20 with 2,000 Farms and 1,000 Blacksmiths is (0.01 * 20 * 2000)% = 400% bonus to Farms and (0.01 * 20 * 1000)% = 200% bonus to Blacksmiths)</p>
                 <br/>
                 <p><b>25th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Royal Exchange bonus by (0.5 * x)%.</p>
+                <p><b>Effect</b>: Increase Royal Exchange Bonus by +(0.5 * x)%.</p>
                 <br/>
                 <p><b>41st Reincarnation and up</b></p>
-                <p><b>Added</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.15))%.</p>
+                <p><b>Effect</b>: Increase Production of Unique Buildings by (1200 * (x ^ 1.15))%.</p>
                 <br/>
                 <p><b>45th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase Maximum mana by 70 * x ^ 1.25.</p>
+                <p><b>Effect</b>: Increase Maximum Mana by +(70 * x ^ 1.25).</p>
                 <br/>
                 <p><b>50th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase FC chance multiplicatively.</p>
-                <p><b>Formula</b>: (2.5 * x ^ 1.1), where x is number of Reincarnations made.</p>
+                <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance by (2.5 * x ^ 1.1)%.</p>
                 <br/>
                 <p><b>58th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline.</p>
+                <p><b>Effect</b>: Increase FC chance multiplicatively by *(1.2 * x ^ 1.05) if they match your Faction or Bloodline.</p>
                 <br/>
                 <p><b>85th Reincarnation and up</b></p>
-                <p><b>Added</b>: You gain 4 additional Assistants per Reincarnation.</p>
+                <p><b>Effect</b>: Increase Assistants by +(4 * x).</p>
                 <br/>
 				<p><b>90th Reincarnation and up</b></p>
                 <p><b>Effect</b>: You gain 1 additional Research slot for each branch.</p>
                 <br/>
                 <p><b>100th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase mana regeneration by 1% per Reincarnation.</p>
+                <p><b>Effect</b>: Multiplicatively increase Mana Regeneration by x%.</p>
                 <br/>
                 <p><b>108th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most used faction in this reincarnation.</p>
                 <p><b>Formula</b>: (0.15 * (x - y) ^ 0.75)%, where x is highest faction time and y is faction time of the Unique Building affinity</p>
                 <br/>
                 <p><b>115th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase FC chance multiplicatively by (1.2 * x ^ 1.05)* if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R58 power)</p>
+                <p><b>Effect</b>: Increase FC chance multiplicatively by *(1.2 * x ^ 1.05) if they match your Faction or Bloodline or Artifact set (Stacks multiplicatively with R58 power)</p>
                 <br/>
                 <p><b>120th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
-                <p><b>Formula</b>: (150 * R)%</p>
+                <p><b>Effect</b>: Increase the production of all buildings by (150 * x)%.</p>
                 <br/>
                 <p><b>150th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes based on Reincarnations made.</p>
-                <p><b>Formula</b>: x(R + 1)</p>
+                <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes by *(1 + x).</p>
                 <br/>
 				<p><b>170th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increases research budget by 3,000 in each branch.</p>
                 <br/>
 				<p><b>180th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
-                <p><b>Formula</b>: (150 * R)%</p>
+                <p><b>Effect</b>: Increase the production of all buildings by (150 * R)%.</p>
                 <br/>
 				<p><b>210th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
-                <p><b>Formula</b>: (300 * R)%</p>
+                <p><b>Effect</b>: Increase the production of all buildings by (300 * R)%.</p>
                 <br/>
             </div>
         </div>
