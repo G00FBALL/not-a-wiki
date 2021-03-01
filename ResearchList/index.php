@@ -820,8 +820,8 @@
 					<p><b>D5875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Birthright</p>
 					<p><b>Requirement</b>: R181+, Forgotten Relic, Mythos artifact and upgrade.</p>
-					<p><b>Effect</b>: Gain the Bloodline effects of your opposite Alignment.</p>
-					<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
+					<p><b>Effect</b>: Gain the Bloodline effects of your opposite alignment.</p>
+					<p><b>Note</b>: Only gain the effects of the Base Faction that matches both alignments. For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 					<hr>
 					<p><b>D10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Scriptures</p>
@@ -1694,7 +1694,7 @@
 					<p><b>Requirement</b>: R180+, Forgotten Relic, Apeiron artifact and upgrade.</p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Gain the base Union effect of your opposite Alignment.</p>
-					<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
+					<p><b>Note</b>: Only gain the effects of the Base Faction that matches both alignments. For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 					<hr>
 					<p><b>F6000</b> - For All Factions</p>
 					<p><b>Research Name</b>: Inevitability</p>
@@ -1718,7 +1718,7 @@
 					<p><b>F11500</b> - For All Factions</p>
 					<p><b>Research Name</b>: Paradox</p>
 					<p><b>Effect</b>: Gain the Set bonus of your opposite alignment.</p>
-					<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
+					<p><b>Note</b>: Only gain the effects of the Base Faction that matches both alignments. For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 					<hr>
 					<p><b>F11750</b> - For All Factions</p>
 					<p><b>Research Name</b>: Relativity</p>

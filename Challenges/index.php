@@ -712,7 +712,7 @@
 	<p><b><img src=http://musicfamily.org/realm/Factions/picks/AltarofWishes.png align=middle> Altar of Wishes</b></p>
 	<p>&quot;Freedom... at last. Onwards we go, to a better future. So long, mortals.&quot;</p>
 	<p><b>Requirements</b>: Fairy, Demon or Faceless as Base Faction, Djinn as Elite Faction, Reincarnations 153+, All Chaos Lineages at level 45, Djinn challenge 4 completed.</p>
-	<p><b>Challenge</b>: Cast all Chaos spells 88 times each in a single Reincarnation.</p><p><b>Spells</b>: Fairy Chanting, HFB, Brainwave, Maelstrom, LW, Catalyst</p>
+	<p><b>Challenge</b>: Cast all Chaos spells at least 88 times each in a single Reincarnation.</p><p><b>Spells</b>: Fairy Chanting, HFB, Brainwave, Maelstrom, LW, Catalyst</p>
 	<p><b>Effect</b>: Multiplicatively increases one of your assets based on the amount of alignments tied to your faction spells.</p>
 	<p><b>Good</b>: Assistants</p><p><b>Evil</b>: Trophy Count</p><p><b>Neutral</b>: Production Bonus from Gems</p>
 	<p><b>Order</b>: Mana Regeneration</p>
