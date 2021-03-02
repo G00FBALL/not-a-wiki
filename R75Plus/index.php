@@ -205,9 +205,9 @@
 				<p><b>Bloodline</b>: Dragon</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL9,AN6,GB1,UD7,DM3,TT7,DD6,DN4,DW7,DG3,SP:Fairy Chanting,SP:Lightning Strike">
+					<input type="text" value="FR4,EL9,AN6,GB1,UD7,DM3,TT7,DD6,FC3,DN4,DW7,DG3,SP:Fairy Chanting,SP:Lightning Strike">
 				</p>
-				<p>FR4,EL9,AN6,GB1,UD7,DM3,TT7,DD6,DN4,DW7,DG3,</p>
+				<p>FR4,EL9,AN6,GB1,UD7,DM3,TT7,DD6,FC3,DN4,DW7,DG3,</p>
 				<p>SP:Fairy Chanting,SP:Lightning Strike</p>
 			</div>
 		</div>

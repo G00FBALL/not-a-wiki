@@ -686,7 +686,7 @@
 		<p><b>Description</b>: Rub it, polish it. And remember to express your desires precisely, lest you want to face dire consequences.</p>
 		<p><b>Requirements</b>: R120+, Proof of Chaos</p>
 		<p><b>Effect</b>: Unlocks Tier 2 Maelstrom</p>
-		<p><b>Chance</b>: (min(x, y, z) / 86,400,000 (86.4 M)%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (All Time).</p>
+		<p><b>Chance</b>: (min(x, y, z) / 86,400,000 (86.4 M))%, where x is Fairy Chanting spell activity time, y is Hellfire Blast spell activity time, and z is Brainwave spell activity time (All Time).</p>
 			" coords="123,523,176,576" shape="rect">
 			<area research="
 		<p><img src='http://musicfamily.org/realm/Factions/picks/SparkofLifeArtifact.png' align='middle'><b> Spark of Life</b></p>
