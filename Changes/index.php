@@ -1185,7 +1185,7 @@
 <p><b>Makers Challenge 1</b> (Seed of Life)</p>
 	<p><b>Old Effect</b>: Gain x5 Faction Coins from any source when they match your Faction, Bloodline or Set.</p>
 	<p><b>Old Formula</b>: *(5 ^ a), where a is number of faction/bloodline/set matches.</p>
-	<p><b>Old Effect</b>: Gain x8 Faction Coins from any source when they match your Faction, Bloodline or Set.</p>
+	<p><b>New Effect</b>: Gain x8 Faction Coins from any source when they match your Faction, Bloodline or Set.</p>
 	<p><b>New Formula</b>: *(8 ^ a), where a is number of faction/bloodline/set matches.</p>
 	<p><b>Note </b>: +1 for full FC match, +½ for half FC match</p>
 <br/>
