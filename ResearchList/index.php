@@ -383,10 +383,10 @@
 					<p><b>C250</b> - For All Factions</p>
 					<p><b>Research Name</b>: Magnetism</p>
 					<p><b>Requirement</b>: Research Tinkering (C150) & Critical Strike (W225).</p>
-					<p><b>Cost</b>: 52.7 Qiqig (5.27E169)</p>
-					<p><b>Effect</b>: Increase the chance to find Faction Coins by a multiplicative 50%</p>
-					<p><b>Effect</b>: Increase the chance to find faction coins based on total time spent offline. (in minutes)</p>
-					<p><b>Formula</b>: floor(7.5 * x ^ 0.75), where x is your Time Spent Offline (Total) in minutes stat.</p>
+					<p><b>Cost</b>: 52.7 Qiqig (5.27e169)</p>
+					<p><b>Effect</b>: Increase Faction Coin find chance based on time spent offline in this Reincarnation.</p>
+					<p><b>Formula</b>: +floor(7.5 * x ^ 0.75), where x is your time spent offline in this Reincarnation.</p>
+					<p><b>Effect</b>: Also increase Faction Coin find chance by a multiplicative 50%.</p>
 					<hr>
 					<p><b>C251</b> - For Titan</p>
 					<p><b>Research Name</b>: Architecture</p>
@@ -435,10 +435,10 @@
 					<p><b>C400</b> - For All Factions</p>
 					<p><b>Research Name</b>: Gravitation</p>
 					<p><b>Requirement</b>: Research Magnetism (C250) & Weighting (C300)</p>
-					<p><b>Cost</b>: 13.66 QaSxg (1.366E196)</p>
-					<p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of Faction Coins found in this game.</p>
-					<p><b>Effect</b>: Also increase the chance to find Faction Coins by a multiplicative 100%.</p>
-					<p><b>Formula</b>: floor(3.5 * ln(x + 1) ^ 3), where x is your Faction Coins Gained (This Game) stat.</p>
+					<p><b>Cost</b>: 13.66 QaSxg (1.366e196)</p>
+					<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Faction Coins found in this game.</p>
+					<p><b>Formula</b>: +floor(3.5 * ln(x + 1) ^ 3)%, where x is Faction Coins found in this game.</p>
+					<p><b>Effect</b>: Also increase Faction Coin find chance by a multiplicative 100%.</p>
 					<hr>
 					<p><b>C405</b> - For Dwarf</p>
 					<p><b>Research Name</b>: Metallurgy</p>
@@ -516,30 +516,30 @@
 					<p><b>C3100</b> - All Factions</p>
 					<p><b>Research Name</b>: Engineering</p>
 					<p><b>Hint</b>: Spend some quality time with the Mercenaries.</p>
-					<p><b>Requirement</b>: 15 days Mercenary time spent (Across all R's).</p>
+					<p><b>Requirement</b>: 15 days Mercenary time spent (All Time).</p>
 					<p><b>Cost</b>: 769.3 OcQig (7.693e179)</p>
-					<p><b>Effect</b>: Increase maximum mana based on the total amount of clicks made (This R).</p>
-					<p><b>Formula</b>: (65 * x ^ 0.35), where x is clicks made.</p>
+					<p><b>Effect</b>: Increase Maximum Mana based on the total amount of clicks made in this Reincarnation.</p>
+					<p><b>Formula</b>: +(65 * x ^ 0.35), where x is clicks made in this Reincarnation.</p>
 					<hr>
 					<p><b>C5125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Restauration</p>
 					<p><b>Requirement</b>: R175+, Forgotten Relic, Factory artifact and upgrade,</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on assistants owned.</p>
-					<p><b>Formula</b>: (0.5 * x ^ 0.25), where x is assistants owned.</p>
+					<p><b>Formula</b>: (0.5 * x ^ 0.25)%, where x is assistants owned.</p>
 					<hr>
 					<p><b>C5375</b> - For Neutral</p>
 					<p><b>Research Name</b>: Manufacture</p>
 					<p><b>Requirement</b>: R177+, Forgotten Relic, Factory artifact and upgrade,</p>
-					<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on Clicks made in this game.</p>
+					<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on clicks made in this game.</p>
 					<p><b>Formulas</b></p>
-					<p><b>Additive</b>: (6 * x ^ 0.6),  where x is clicks in this game</p>
-					<p><b>Multiplicative</b>: (x ^ 0.35), where x is clicks in this game</p>
+					<p><b>Additive</b>: +(6 * x ^ 0.6)%, where x is clicks made in this game.</p>
+					<p><b>Multiplicative</b>: (x ^ 0.35)%, where x is clicks made in this game.</p>
 					<hr>
 					<p><b>C5625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Discovery</p>
 					<p><b>Requirement</b>: R179+, Forgotten Relic, Factory artifact and upgrade,</p>
 					<p><b>Effect</b>: Trophies and Artifacts count more based on excavations, including resets made in this game.</p>
-					<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5), where x is excavation count and y is excavation resets (This Game).</p>
+					<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is excavation count and y is excavation resets (This Game).</p>
 					<hr>
 					<p><b>C5875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Genuineness</p>
