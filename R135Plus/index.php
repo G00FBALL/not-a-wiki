@@ -151,7 +151,7 @@
 				<p><b>Note</b>: First run might need 5-10 minutes to afford Archon Treaty.</p>
 				<p><b>Note</b>: Buff AR1, Excavations & Resets.</p>
 				<p><b>Note</b>: Swap W180 with W3150 at R150+.</p>
-				<p><b>Note</b>: Build is oriented for production and is not ment to buy Archon Union.</p>
+				<p><b>Note</b>: Build is oriented for production and is not meant to buy Archon Union.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
