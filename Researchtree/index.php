@@ -226,22 +226,22 @@
         <area research="<p><b>S10</b> - For Angel</p>
 	<p><b>Research Name</b>: Channeling</p>
 	<p><b>Hint</b>: Open the Gates of Heaven.</p>
-	<p><b>Requirement</b>: 2000 Heaven's Gate. (This Game)</p>
+	<p><b>Requirement</b>: 2,000 Heaven's Gate. (This Game)</p>
 	<p><b>Cost</b>: 28.83 Uqag (2.883e127)</p>
 	<p><b>Effect</b>: Increase the production of all other buildings by 110% per Heaven's Domain you own.</p>
 	" coords="128,2,168,42" shape="rect">
         <area research="<p><b>S30</b> - For All Factions</p>
 	<p><b>Research Name</b>: Vacuumancy</p>
-	<p><b>Requirement</b>: Have 4000 Mana. (This Game)</p>
+	<p><b>Requirement</b>: Have 4,000 Mana. (This Game)</p>
 	<p><b>Cost</b>: 95.88 Dqag (9.588e130)</p>
-	<p><b>Effect</b>: Increase maximum mana and mana regeneration rate based on time spent in this game.</p>
-	<p><b>Formula</b>: Max Mana:(0.1 * x), where x is your Playtime (This Game) stat in seconds.</p>
-	<p><b>Formula</b>: Mana Regeneration:(0.5 * x ^ 0.5), where x is your Playtime (This Game) stat in seconds.</p>
+	<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration rate based on time spent in this game.</p>
+	<p><b>Maximum Mana Formula</b>: +(0.1 * x), where x is time spent in this game in seconds.</p>
+	<p><b>Mana Regeneration Formula</b>: +(0.5 * x ^ 0.5), where x is time spent in this game in seconds.</p>
 	" coords="170,2,210,42" shape="rect">
         <area research="<p><b>S50</b> - For Goblin</p>
 	<p><b>Research Name</b>: Conjuration</p>
 	<p><b>Hint</b>: Under a large blue pool...</p>
-	<p><b>Requirement</b>: Have 6000 mana (as Fairy) (This Game)</p>
+	<p><b>Requirement</b>: Have 6,000 mana (as Fairy) (This Game)</p>
 	<p><b>Cost</b>: 318.8 Tqag (3.188e134)</p>
 	<p><b>Effect</b>: Each time you cast a spell you also cast free Tax Collections based on the amount of Goblin Banks you own.</p>
 	<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 150%.</p>
@@ -252,23 +252,23 @@
 	<p><b>Hint</b>: I am a Research among Researches.</p>
 	<p><b>Requirement</b>: 600 Researches (Total)</p>
 	<p><b>Cost</b>: 1.544 Spqag (1.544e144)</p>
-	<p><b>Effect</b>: Increase mana regeneration based on the amount of research made.</p>
-	<p><b>Formula</b>: floor(x ^ 0.5), where x is number of researches made.</p>
+	<p><b>Effect</b>: Increase Mana Regeneration based on the amount of research made.</p>
+	<p><b>Formula</b>: +floor(x ^ 0.5), where x is the amount of researches made.</p>
 	" coords="254,2,294,42" shape="rect">
         <area research="<p><b>S135</b> - For All Factions</p>
 	<p><b>Research Name</b>: Augmentation</p>
 	<p><b>Hint</b>: More Unique buildings will do the trick!</p>
 	<p><b>Requirement</b>: 4000 Unique Buildings (as Fairy) (This Game)</p>
 	<p><b>Cost</b>: 296 Ocqag (2.96e149)</p>
-	<p><b>Effect</b>: Increase the production of Unique Buildings based on maximum mana.</p>
-	<p><b>Formula</b>: round(2 * x^0.8)%, where x is your maximum mana.</p>
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on Maximum mana.</p>
+	<p><b>Formula</b>: round(2 * x^0.8)%, where x is your Maximum mana.</p>
 	" coords="296,2,336,42" shape="rect">
         <area research="<p><b>S150</b> - For All Factions</p>
 	<p><b>Research Name</b>: Pyromancy</p>
 	<p><b>Requirement</b>: Research Inflame (D10) & Fusion (A105)</p>
 	<p><b>Cost</b>: 129.6 Noqag (1.296e152)</p>
-	<p><b>Effect</b>: Increase the production of the two highest building tiers based on your mana regeneration.</p>
-	<p><b>Formula</b>: (8 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
+	<p><b>Effect</b>: Increase the production of the two highest building tiers based on your Mana Regeneration.</p>
+	<p><b>Formula</b>: (8 * x ^ 0.8)%, where x is your Mana Regeneration.</p>
 	" coords="338,2,378,42" shape="rect">
         <area research="<p><b>S175</b> - For Elf</p>
 	<p><b>Research Name</b>: Empowered Luck</p>
@@ -280,15 +280,15 @@
 	<p><b>Research Name</b>: Incantation</p>
 	<p><b>Requirement</b>: Research Enchanting (S1) & Mysticism (S105)</p>
 	<p><b>Cost</b>: 3.273 UQig (3.273e156)</p>
-	<p><b>Effect</b>: Increase mana regeneration based on the number of assistants you own.</p>
-	<p><b>Formula</b>: floor(16 * x ^ 0.6) / 10, where x is the number of assistants you have.</p>
+	<p><b>Effect</b>: Increase Mana Regeneration based on the number of assistants you own.</p>
+	<p><b>Formula</b>: +(floor(16 * x ^ 0.6) / 10), where x is the number of assistants you own.</p>
 	" coords="86,44,126,84" shape="rect">
         <area research="<p><b>S200</b> - For All Factions</p>
 	<p><b>Research Name</b>: Cryomancy</p>
 	<p><b>Requirement</b>: Research Conjuration (S50) and Refraction (A55)</p>
 	<p><b>Cost</b>: 82.65 DQig (8.265e160)</p>
-	<p><b>Effect</b>: Increase Spell Duration based on mana produced (this game).</p>
-    <p><b>Formula</b>: (5 * ln(x) ^ 1.5), where x is mana produced (this game).</p>
+	<p><b>Effect</b>: Increase Spell Duration based on mana produced in this game.</p>
+	<p><b>Formula</b>: (5 * ln(1 + x) ^ 1.5)%, where x is mana produced this game.</p>
 	" coords="128,44,168,84" shape="rect">
         <area research="<p><b>S215</b> - For All Factions</p>
 	<p><b>Research Name</b>: Projection</p>
@@ -296,28 +296,28 @@
 	<p><b>Requirement</b>: 300 Spiritual Surge (Total this R), Research Channeling (S10) & Incantation (S180)</p>
 	<p><b>Cost</b>: 36.16 TQig (3.616e163)</p>
 	<p><b>Effect</b>: While Spiritual Surge is active, increase the production of all buildings based on the amount of active spells.</p>
-	<p><b>Formula</b>: 100 * ((10 * x) ^ y), where x is active spells and y is Spiritual Surge tier.</p>
+	<p><b>Formula</b>: (100 * (10 * x) ^ y)%, where x is active spells and y is Spiritual Surge tier.</p>
 	" coords="170,44,210,84" shape="rect">
         <area research="<p><b>S225</b> - For Undead</p>
 	<p><b>Research Name</b>: Necromancy</p>
 	<p><b>Requirement</b>: Research Resurrection (D175) & Cryomancy (S200)</p>
 	<p><b>Cost</b>: 2.087 QaQig (2.087e165)</p>
 	<p><b>Effect</b>: Increase the production of assistants based on the amount of Necropolises you own.</p>
-	<p><b>Formula</b>: round(5 * x ^ 0.75)%, where x is the number of Necropolises you own.</p>
+	<p><b>Formula</b>: (round(5 * x ^ 0.75))%, where x is the number of Necropolises you own.</p>
 	" coords="212,44,252,84" shape="rect">
         <area research="<p><b>S250</b> - For All Factions</p>
 	<p><b>Research Name</b>: Aeromancy</p>
 	<p><b>Requirement</b>: Research Weather Control (D225) & Explosives (A150)</p>
 	<p><b>Cost</b>: 52 QiQig (5.27e169)</p>
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on mana produced in this game.</p>
-	<p><b>Formula</b>: round(0.5 * x ^ 0.58)%, where x is your Mana Produced (This Game) stat.</p>
+	<p><b>Formula</b>: (round(0.5 * x ^ 0.58))%, where x mana produced this game.</p>
 	" coords="254,44,294,84" shape="rect">
         <area research="<p><b>S251</b> - For Faceless</p>
 	<p><b>Research Name</b>: Assimilation</p>
 	<p><b>Requirement</b>: Secrets of the Ancients (as Faceless)</p>
 	<p><b>Cost</b>: 79.05 QiQig (7.905e169)</p>
 	<p><b>Effect</b>: Increase the production of Sunken Cities based on time spent affiliated with factions different than the Faceless.</p>
-	<p><b>Formula</b>: round(0.3 * x ^ 0.7)%, where x is total time spent as non-Faceless factions.</p>
+	<p><b>Formula</b>: (round(0.3 * x ^ 0.7))%, where x is time spent as non-Faceless factions in this Reincarnation.</p>
 	" coords="296,44,336,84" shape="rect">
         <area research="<p><b>S270</b> - For All Factions</p>
 	<p><b>Research Name</b>: Runecarving</p>
@@ -332,7 +332,7 @@
 	<p><b>Hint</b>: I can feel the waves...</p>
 	<p><b>Requirement</b>: 25 Brainwaves (Faceless) (This R)</p>
 	<p><b>Cost</b>: 33 OcQig (3.36e178)</p>
-	<p><b>Effect</b>: Ligthning Strike duration will not be modified by other effects. While Lightning Strike is active, all non-target buildings have their production increased based on Lightning Strike activity time in this game.</p>
+	<p><b>Effect</b>: Lightning Strike duration will not be modified by other effects. While Lightning Strike is active, all non-target buildings have their production increased based on Lightning Strike activity time in this game.</p>
 	<p><b>Formula</b>: (250 * (x / 20) ^ 0.9)%, where x is your Lightning Strike activity time (This Game) stat.</p>
 	" coords="380,44,420,84" shape="rect">
         <area research="<p><b>S305</b> - For All Factions</p>
@@ -349,26 +349,27 @@
 	<p><b>Requirement</b>: Research Cryomancy (A200) & Weather Control (D225)</p>
 	<p><b>Cost</b>: 6.443 Sxg (6.443e183)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the number of active spells you have. You must have at least 3 active spells to generate a bonus.</p>
-	<p><b>Formula</b>: (3000 * 2 ^ (x - 3)), where x is the number of spells currently active. (Capped at 300 spells)</p>
+	<p><b>Formula</b>: (3000 * 2 ^ (x - 3))%, where x is the number of currently active spells (capped at 300 spells).</p>
 	" coords="44,86,84,126" shape="rect">
         <area research="<p><b>S375</b> - For Faceless</p>
 	<p><b>Research Name</b>: Illusion</p>
 	<p><b>Requirement</b>: Research Reverberation (S330) & Mesmerization (S305)</p>
 	<p><b>Cost</b>: 541 DSxg (5.41e191)</p>
 	<p><b>Effect</b>: Brainwave also provides progressively more assistants over its duration.</p>
-	<p><b>Formula</b>: Floor(1.15 * (x + y) ^ 2), where x is brainwave runtime in minutes and y is headstart in minutes</p>
+	<p><b>Formula</b>: +(floor(1.15 * (x + y) ^ 2), where x is brainwave runtime in minutes and y is headstart in minutes</p>
+	<p><b>Note</b>: Those assistants do not count as base assistants and are not multiplied by upgrades that increase assistants count (such as FC3).</p>
 	" coords="86,86,126,126" shape="rect">
         <area research="<p><b>S400</b> - For All Factions</p>
 	<p><b>Research Name</b>: Capacity</p>
 	<p><b>Requirement</b>: Research Projection (S215) & Domination (W275)</p>
 	<p><b>Cost</b>: 13.66 QaSxg (1.366e196)</p>
-	<p><b>Effect</b>: Increase maximum mana based on the highest amount of spells cast in a single game.</p>
-	<p><b>Formula</b>: (1.2 * log10(x) ^ 4.8), where x is your Spell Cast (Max) stat.</p>
+	<p><b>Effect</b>: Increase Maximum Mana based on the highest amount of spells cast in a single game.</p>
+	<p><b>Formula</b>: (1.2 * log10(x) ^ 4.8), where x is your Spell Cast (Max) stat in this Reincarnation.</p>
 	" coords="128,86,168,126" shape="rect">
         <area research="<p><b>S435</b> - For Drow</p>
 	<p><b>Research Name</b>: Spellbinding</p>
 	<p><b>Hint</b>: Combo Breaker!</p>
-	<p><b>Requirement</b>: 14400s (4 hour) Combo Strike Cast Time (This Game)</p>
+	<p><b>Requirement</b>: 14,400s (4 hour) Combo Strike Cast Time (This Game)</p>
 	<p><b>Cost</b>: 19.89 SxSxg (1.989e202)</p>
 	<p><b>Effect</b>: Passively grants the effects from Call to Arms while offline.</p>
 	" coords="170,86,210,126" shape="rect">
@@ -376,33 +377,33 @@
 	<p><b>Research Name</b>: Focus</p>
 	<p><b>Hint</b>: Cast! Cast more!</p>
 	<p><b>Requirement</b>: 25000 spells cast (This game)</p>
-	<p><b>Cost</b>: 5.023 SpSxg (5,023e206)</p>
+	<p><b>Cost</b>: 5.023 SpSxg (5.023e206)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the times you cast your faction spell in this game.</p>
-	<p><b>Formula</b>: (15 * x ^ 0.8)%, where x is Faction Spells Cast This Game.</p>
+	<p><b>Formula</b>: (15 * x ^ 0.8)%, where x is the sum of Faction Spells Cast in this game.</p>
 	" coords="212,86,252,126" shape="rect">
         <area research="<p><b>S500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Heirlooms</p>
 	<p><b>Hint</b>: I wonder when will I have enough for my collection?</p>
 	<p><b>Requirement</b>: 40 Artifacts (as Drow)</p>
-	<p><b>Cost</b>: 5.554 Spg (5,554e213)</p>
+	<p><b>Cost</b>: 5.554 Spg (5.554e213)</p>
 	<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration based on the amount of artifacts you own.</p>
-	<p><b>Maximum Mana Formula</b>: (75 * x ^ 1.1), where x is amount of artifacts you own.</p>
-	<p><b>Mana Regeneration Formula</b>: (5 * x ^ 1.05), where x is amount of artifacts you own.</p>
+	<p><b>Maximum Mana Formula</b>: +(75 * x ^ 1.1), where x is the amount of artifacts you own.</p>
+	<p><b>Mana Regeneration Formula</b>: +(5 * x ^ 1.05), where x is the amount of artifacts you own.</p>
 	" coords="254,86,294,126" shape="rect">
         <area research="<p><b>S545</b> - For All Factions</p>
 	<p><b>Research Name</b>: Hierarchy</p>
 	<p><b>Hint</b>: I thirst for mana.</p>
-	<p><b>Requirement</b>: 10M (1e7) mana produced (This Game)</p>
+	<p><b>Requirement</b>: 10 M (1e7) mana produced (This Game)</p>
 	<p><b>Cost</b>: 466.3 DSpq (4.663e221)</p>
 	<p><b>Effect</b>: Increase the production of buildings based on mana produced in this game, depending on their tiers. Gives better bonuses for lower tiers.</p>
-	<p><b>Formula</b>: (0.1 * x ^ 0.45 * (12 - T) ^ 2)%, where x is Mana Produced (This Game) stat, and T is building tier.</p>
+	<p><b>Formula</b>: (0.1 * x ^ 0.45 * (12 - T) ^ 2)%, where x is mana produced in this game and T is building tier.</p>
 	" coords="296,86,336,126" shape="rect">
         <area research="<p><b>S590</b> - For Fairy,Dwarf</p>
 	<p><b>Research Name</b>: Trickery</p>
 	<p><b>Requirement</b>: 200 Dwarf Exchanges (as Dwairy) (This Game), Research Mysticism(S105) & Illusion (S375)</p>
 	<p><b>Cost</b>: 39.16 QiSpg (3.916e229)</p>
-	<p><b>Effect</b>: Increase the production of Neutral buildings based on maximum Mana.</p>
-	<p><b>Formula</b>: (0.5 * x ^ 0.95)%, where x is Maximum Mana.</p>
+	<p><b>Effect</b>: Increase the production of Neutral buildings based on Maximum Mana.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.95)%, where x is your Maximum Mana.</p>
 	" coords="338,86,378,126" shape="rect">
         <area research="<p><b>S1275</b> - For All Factions</p>
 	<p><b>Research Name</b>: Sequence</p>
@@ -422,56 +423,56 @@
         <area research="<p><b>S1500</b> - For Faceless,Dragon</p>
 	<p><b>Research Name</b>: Psionics</p>
 	<p><b>Hint</b>: I require assistance.</p>
-	<p><b>Requirement</b>: 1000 Base Assistants, Research S545, E1325, as Faceless, Dragon</p>
+	<p><b>Requirement</b>: 1,000 Base Assistants, Research S545, E1325, as Faceless, Dragon</p>
 	<p><b>Cost</b>: 3.843 Spvg (3.843e84)</p>
 	<p><b>Effect</b>: Increase the production of Unique Buildings based on the amount of assistants you own.</p>
-	<p><b>Formula</b>: (8.5 * x ^ 0.85)%, where x is assistants.</p>
+	<p><b>Formula</b>: (8.5 * x ^ 0.85)%, where x is the amount of assistants you own.</p>
 	" coords="44,128,84,168" shape="rect">
         <area research="<p><b>S2875</b> - For Mercenary</p>
 	<p><b>Research Name</b>: Scholarship</p>
 	<p><b>Hint</b>: More buildings for the Black Army!</p>
-	<p><b>Requirement</b>: 11000 Merc Unique Buildings.</p>
+	<p><b>Requirement</b>: 11,000 Merc Unique Buildings.</p>
 	<p><b>Cost</b>: 30.5 QaQig (3.05e166)</p>
 	<p><b>Effect</b>: Increases the production of Non-Unique buildings by 5% per Unique building.</p>
 	" coords="86,128,126,168" shape="rect">
         <area research="<p><b>S3200</b> - For All Factions</p>
 	<p><b>Research Name</b>: Manipulation</p>
 	<p><b>Hint</b>: First spell, many served.</p>
-	<p><b>Requirement</b>: 1B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p>
+	<p><b>Requirement</b>: 1 B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p>
 	<p><b>Cost</b>: 695.7 Sxg (6.957e185)</p>
-	<p><b>Effect</b>: Each active spell increases mana regen by an additional 8% (Share Benefits tiers also count).</p>
+	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 8% per active spells (counting tiers).</p>
 	<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 1200%.</p>
 	" coords="128,128,168,168" shape="rect">
         <area research="<p><b>S5125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Spilling</p>
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Mana Loom artifact and upgrade.</p>
-	<p><b>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced.</p>
-	<p><b>Formula</b>: (1.75 * ln(1 + x) ^ 1.75), where x is mana produced (This Game)</p>
+	<p><b>Effect</b>: Increase the production of buildings affected by at least 3 spells based on Mana Produced in this game.</p>
+	<p><b>Formula</b>: (1.75 * ln(1 + x) ^ 1.75)%, where x is mana produced this game.</p>
 	" coords="170,128,210,168" shape="rect">
         <area research="<p><b>S5375</b> - For Chaos</p>
 	<p><b>Research Name</b>: Invocation</p>
 	<p><b>Requirement</b>: R177+, Forgotten Relic, Mana Loom artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the activity time of your least used spell.</p>
-    <p><b>Additive</b>: (1000 + 80 * x ^ 0.8), where x is spell activity time in seconds.</p>
+    <p><b>Additive</b>: +(1000 + 80 * x ^ 0.8), where x is spell activity time in seconds.</p>
     <p><b>Multiplicative</b>: (6 + 0.6 * x ^ 0.6), where x is spell activity time in seconds.</p>
 	" coords="212,128,252,168" shape="rect">
         <area research="<p><b>S5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Leylines</p>
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Mana Loom artifact and upgrade.</p>
-	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on assistants owned.</p>
-	<p><b>Formula</b>: (0.75 * x ^ 0.25), where x is assistants</p>
+	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of assistants you own.</p>
+	<p><b>Formula</b>: (0.75 * x ^ 0.25)%, where x is the amount of assistants you own.</p>
 	" coords="254,128,294,168" shape="rect">
         <area research="<p><b>S5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Mirrors</p>
 	<p><b>Requirement</b>: R181+, Forgotten Relic, Mana Loom artifact and upgrade.</p>
 	<p><b>Effect</b>: Multiplicatively increase Assistants based on Spell casts in this game.</p>
-	<p><b>Formula</b>: (ln(x) ^ 1.75), where x is spell casts this game.</p>
+	<p><b>Formula</b>: (ln(1 + x) ^ 1.75)%, where x is spell casts this game.</p>
 	" coords="296,128,336,168" shape="rect">
 		<area research="<p><b>S10875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Encompass</p>
 	<p><b>Requirement</b>: R221</p>
 	<p><b>Effect</b>: Increase Maximum Mana based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
-	<p><b>Formula</b>: +(15 * ln(1 + x) ^ 3), where x is your highest max mana this R.</p>
+	<p><b>Formula</b>: +(15 * ln(1 + x) ^ 3), where x is your highest max mana this Reincarnation.</p>
 	" coords="338,128,378,168" shape="rect">
 		<area research="<p><b>S11125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Multiplication</p>

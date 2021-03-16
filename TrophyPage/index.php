@@ -273,7 +273,7 @@
 	" coords="5,429,61,484" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png align=middle> <b>Stoic Resistance</b>
 	<p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1E27) gems) without abdicating since the start of a new Reincarnation.</p>
-	<p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1 = 177.8 Qi (1.778e20), A2 = 2.5 Qa (2.5e15), A3 = 2.5 B (2.5e11)</p>
+	<p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1 = 177.8 Qi (1.778e20), A2 = 1.540 Qa (1.540e15), A3 = 245.8 B (2.458e11), A4 = 349.1 M (3.491e8)</p>
 	<p><b>Cost</b>: 10 Coins, A1+ Free</p>
 	<p><b>Effect</b>: Increase base clicking reward by +1 T (1e12)</p>
 	<p><b>Note</b>: Advised to do at R34+ with Fairyline Dwairy.</p>

@@ -357,6 +357,7 @@
 						<p>W25,W205,W405,W520</p>
 						<p><b>Note</b>: Buff Max Assistants (3e14 (300 T)+) with Dragonline Undead (Max Assistants) build first with Archon Challenge 2 unlocked.</p>
 						<p><b>Note</b>: Buff S400 (200,000+) with Dragonline Goblins (Spell Casts) build.</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) with Djinnline Elves (Clicks) build.</p>
 						<p><b>Note</b>: Estimated time to completion is 2 hours.</p>
 					</div>
 				</div>
@@ -599,7 +600,7 @@
 						<p>W10,W560,W1375</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
 						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) with Djinnline Elves (Clicks) build.</p>
 						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
 					</div>
 				</div>
@@ -633,8 +634,8 @@
 						<p>A10,A400,A410,</p>
 						<p>W25,W205,W405,W520</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants) build.</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) with Djinnline Elves (Clicks) build.</p>
 						<p><b>Note for Lineage Order</b>: First Dragon L40, then rebuff Max Assistants (4e14 (400 T)+), then all others.</p>
 						<p><b>Note for Faceless</b>: Swap W205 with W1375.</p>
 						<p><b>Note for Archon</b>: Add S200,C340,D200,E135,A3400,W1375</p>
@@ -660,8 +661,8 @@
 						<p>A400,A495,</p>
 						<p>W10,W560,W1375</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation resets (50+) with Makerline Angel (Max Excavations).</p>
-						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants).</p>
-						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks).</p>
+						<p><b>Note</b>: Buff Max Assistants (2e14 (200 T)+) with Dragonline Undead (Max Assistants) build.</p>
+						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) Clicks with Djinnline Elves (Clicks) build.</p>
 						<p><b>Note</b>: Manual clicking is helpful for generating more Elven Lucks.</p>
 					</div>
 				</div>
