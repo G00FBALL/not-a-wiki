@@ -137,7 +137,7 @@
 				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on clicks made in this game.</p>
 				<p><b>Formula</b>: (25 + 2.5 * log10(1 + x) ^ 2.5 + x ^ 0.25)%, where x is clicks made this game.</p>
 				<br/>
-				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png" align="middle"> Titan Obelisk</b></p>
+				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanObeliskFactionUpgrade.png" align="middle"> Titan Obelisk</b></p>
 				<p><b>Mercenary Template</b>: TT3</p>
 				<p><b>Cost</b>: 50 Sx (5E22)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on time spent as Neutral in this Reincarnation (Additve).</p>
