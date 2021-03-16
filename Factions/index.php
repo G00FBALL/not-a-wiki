@@ -25,17 +25,18 @@
 </map>
 <p><b>Factions</b></p>
 <p>There are several types of Factions:</p>
-<p><b>Vanilla</b>, which includes the Good factions (Fairy, Elf and Angel) & Evil factions (Goblin, Undead and Demon),</p>
-<p><b>Neutral</b>, which includes Titan, Druid and Faceless,</p>
-<p><b>Prestige</b>, which includes Dwarf and Drow, and much later on, Dragon,</p>
-<p><b>Mercenary</b>,</p>
-<p>And <b>Elite Prestige</b>, which includes Archon, Djinn and Makers.
+<p>- <b>Vanilla</b>: includes the Good factions (Fairy, Elf and Angel) & Evil factions (Goblin, Undead and Demon)</p>
+<p>- <b>Neutral</b>: includes Titan, Druid and Faceless</p>
+<p>- <b>Prestige</b>: includes Dwarf, Drow and much later on, Dragon</p>
+<p>- <b>Mercenary</b></p>
+<p>- <b>Elite</b>: includes Archon, Djinn and Makers.</p>
+</br>
 <p>The Vanilla Factions show up by default but the others first need to be unlocked.</p>
-<p>Once unlocked they will stay unlocked throughout all abdications and reincarnations.</p>
+<p>Once unlocked they will stay unlocked throughout all Abdications and Reincarnations.</p>
 <p>To affiliate with a Faction, you first need to choose their Alignment.</p>
-<p>This makes all the Factions of that alignment available, and you can then choose which one to join. (Note: The icons used in the below section are the Faction's Trade Treaties, their first Faction upgrade.)</p>
-<p><b>Vanilla Factions</b>
-<p>Good and Evil Factions are called "Vanilla Factions".</p>
+<p>This makes all the Factions of that alignment available, and you can then choose which one to join.</p>
+<p><b>Notes</b>: Vanilla and Neutral Factions are together referred as <b>Base Factions</b>.</p>
+<p><b>Note</b>: The icons used in the below section are the Faction's <b>Trade Treaties</b>, their first Faction upgrade.</p>
 <hr>
 <p><b>Good Factions</b></p>
 <p>Good Factions are oriented to a more active game-play, focusing on spells and treasure clicks.</p>
@@ -43,19 +44,22 @@
 <p><a href="/realm/FairyFaction"><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy"></a></p>
 <p>Focuses on assistants and boosts the three lowest tier buildings.</p>
 <p><b>Requirement</b>: Proof of Good Deed</p>
-<p><b>Cost</b>: Free with 0 gems, 20 Fairy Coins with any gems.</p>
+<p><b>Cost</b>: Free with 0 gems, 20 Fairy Coins with any gems</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Fairy Coins</p>
 <hr>
 <p><b><a href="/realm/ElfFaction">Elf</a></b></p>
 <p><a href="/realm/ElfFaction"><img src="http://musicfamily.org/realm/Factions/picks/ElvenTradeTreaty.png"></a></p>
 <p>Focuses on clicking and faction coins</p>
 <p><b>Requirement</b>: Proof of Good Deed</p>
-<p><b>Cost</b>: 20 Elven coins</p>
+<p><b>Cost</b>: 20 Elven Coins</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Elven Coins</p>
 <hr>
 <p><b><a href="/realm/AngelFaction">Angel</a></b></p>
 <p><a href="/realm/AngelFaction"><img src="http://musicfamily.org/realm/Factions/picks/AngelsTradeTreaty.png"></a>
 <p>Increases mana regen</p>
 <p><b>Requirement</b>: Proof of Good Deed
-<p><b>Cost</b>: 20 Angel coins</p>
+<p><b>Cost</b>: 20 Angel Coins</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Angel Coins</p>
 <hr>
 <p><b>Evil Factions</b></p>
 <p>Evil Factions are oriented to a more idle game-play, focusing on steady and passive building production.</p>
@@ -63,94 +67,112 @@
 <p><a href="/realm/GoblinFaction"><img src="http://musicfamily.org/realm/Factions/picks/GoblinsTradeTreaty.png"></a></p>
 <p>Cheaper buildings and greed for money</p>
 <p><b>Requirement</b>: Proof of Evil Deed</p>
-<p><b>Cost</b>: Free with 0 gems, 20 Goblin Coins with any gems.</p>
+<p><b>Cost</b>: Free with 0 gems, 20 Goblin Coins with any gems</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Goblin Coins</p>
 <hr>
 <p><b><a href="/realm/UndeadFaction">Undead</a></b></p>
 <p><a href="/realm/UndeadFaction"><img src="http://musicfamily.org/realm/Factions/picks/UndeadTradeTreaty.png"></a></p>
 <p>Focuses on long plays increasing production and assistants based on time</p>
 <p><b>Requirement</b>: Proof of Evil Deed</p>
-<p><b>Cost</b>: 20 Undead coins</p>
+<p><b>Cost</b>: 20 Undead Coins</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Undead Coins</p>
 <hr>
 <p><b><a href="/realm/DemonFaction">Demon</a></b></p>
 <p><a href="/realm/DemonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DemonsTradeTreaty.png"></a></p>
 <p>Increases the highest tiers of building productions and trophy perks.</p>
 <p><b>Requirement</b>: Proof of Evil Deed</p>
-<p><b>Cost</b>: 20 Demon coins</p>
+<p><b>Cost</b>: 20 Demon Coins.</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Demon Coins</p>
 <hr>
 <p><b>Neutral Factions</b></p>
-<p>The Neutral Factions were added in the Ancient Races expansion, they cover a mixture both active and passive game-play and may offer faster advancement than Good and Evil factions. Neutral Factions are only available once you have reached billion gems and fulfilled certain requirements. See <a href="http://musicfamily.org/realm/TitanFaction">Titan</a>, <a href="http://musicfamily.org/realm/DruidFaction">Druid</a> and <a href="http://musicfamily.org/realm/FacelessFaction">Faceless</a> pages for more details.</p>
+<p>The Neutral Factions were added in the Ancient Races expansion, they cover a mixture both active and passive game-play and may offer faster advancement than Good and Evil factions. Neutral Factions are only available once you have reached billion gems and fulfilled certain requirements.</p>
 <p><b><a href="/realm/TitanFaction">Titan</a></b></p>
 <p><a href="/realm/TitanFaction"><img src="http://musicfamily.org/realm/Factions/picks/TitansTradeTreatyFactionUpgrade.png"></a></p>
 <p>Can be very powerful... when lucky.</p>
-<p><b>Requirement</b>: Fragment of a Titan Statue (Only need bought once)</p>
+<p><b>Unlock Requirement</b>: Fragment of a Titan Statue (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
 <p><b>Cost</b>: 250 Angel Coins, 250 Goblin Coins</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Angel & Goblin Coins</p>
 <hr>
 <p><b><a href="/realm/DruidFaction">Druid</a></b></p>
 <p><a href="/realm/DruidFaction"><img src="http://musicfamily.org/realm/Factions/picks/DruidsTradeTreatyFactionUpgrade.png"></a></p>
 <p>About magic and balance.</p>
-<p><b>Requirement</b>: Druidic Runestone (Only need bought once)</p>
+<p><b>Unlock Requirement</b>: Druidic Runestone (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
-<p><b>Cost</b>: 250 Elven coins, 250 Demon coins</p>
+<p><b>Cost</b>: 250 Elven Coins, 250 Demon Coins</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Elven & Demon Coins</p>
 <hr>
 <p><b><a href="/realm/FacelessFaction">Faceless</a></b></p>
 <p><a href="/realm/FacelessFaction"><img src="http://musicfamily.org/realm/Factions/picks/FacelessTradeTreatyFactionUpgrade.png"></a></p>
 <p>Feature perks that becomes stronger with time.</p>
-<p><b>Requirement</b>: Octopus Shaped Spine (Only need bought once)</p>
+<p><b>Unlock Requirement</b>: Octopus Shaped Spine (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
-<p><b>Cost</b>: 250 Fairy coins, 250 Undead coins</p>
+<p><b>Cost</b>: 250 Fairy Coins, 250 Undead Coins</p>
+<p><b>Cost R220+</b>: 1 Qa (1e15) Fairy & Undead Coins</p>
 <hr>
 <p><b>Prestige Factions</b></p>
-<p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf) or Droblins (Goblin+Drow). See the <a href="http://musicfamily.org/realm/DwarfFaction">Dwarf</a> and <a href="http://musicfamily.org/realm/DrowFaction">Drow</a> pages for more details.</p>
+<p>Part of the Underworld expansion, Prestige Factions are purchased in "addition to" a Vanilla faction of the same alignment. They enable the player to combine the power from both the Vanilla and Prestige factions, giving combinations such as Dwairies (Fairy+Dwarf) or Droblins (Goblin+Drow).</p>
 <p><b><a href="/realm/DwarfFaction">Dwarf</a></b></p>
 <p><a href="/realm/DwarfFaction"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png"></a></p>
 <p><b>Alignment: Good</b></p>
-<p>Enhances the Good Vanilla Faction they are associated with.</p>
-<p><b>Cost</b> 3000 Dwarven Coins</p>
+<p><b>Unlock Requirement</b>: Sturdy Bearded Man's Quest (only needs to be bought once)</p> 
+<p><b>Requirement</b>: Proof of Good Deed, Alliance upgrade of the Good Base Faction, Underworld Diplomacy (only R0-R2)</p>
+<p><b>Available</b>: R0-R99, R116-R219</p>
+<p><b>Cost</b> 3,000 Dwarven Coins</p>
 <hr>
 <p><b><a href="/realm/DrowFaction">Drow</a></b></p>
 <p><a href="/realm/DrowFaction"><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png"></a></p>
 <p><b>Alignment: Evil</b></p>
-<p>Enhances the Evil Vanilla Faction they are associated with.</p>
-<p><b>Cost</b> 3000 Drow Coins</p>
+<p><b>Unlock Requirement</b>: Cloaked Shady Figure's Quest (only needs to be bought once)</p> 
+<p><b>Requirement</b>: Proof of Evil Deed, Alliance upgrade of the Evil Base Faction, Underworld Diplomacy (only R0-R2)</p>
+<p><b>Available</b>: R0-R99, R116-R219</p>
+<p><b>Cost</b> 3,000 Drow Coins</p>
 <hr>
 <p><b><a href="/realm/DragonFaction">Dragon</a></b></p>
 <p><a href="/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png"></a>
 <p><b>Alignment: Neutral</b></p>
-<p>Enhances the Neutral Faction they are associated with.</p>
-<p><b>Requirement</b>: R46+, Proof of Neutrality</p>
-<p><b>Cost</b>: 5 B (5e9) Dwarven and Drow Coins</p>
+<p><b>Unlock Requirement</b>: Elder Dragon (only needs to be bought once)</p> 
+<p><b>Requirement</b>: Proof of Neutrality, Alliance upgrade of the Neutral Base Faction</p>
+<p><b>Available</b>: R46-R99, R116-R219</p>
+<p><b>Cost</b>: 5 B (5e9) Dwarven & Drow Coins</p>
 <hr>
-<p><b>Mercenary Faction R3-R100, R160+</b></p>
-<p>Mercenaries were added in the After-life expansion as an ultimate powerhouse. See <a href="http://musicfamily.org/realm/MercenaryFaction/"><b>Mercenary</b></a> page for more details.</p>
 <p><b><a href="/realm/MercenaryFaction">Mercenary</a></b></p>
 <p><a href="/realm/MercenaryFaction"><img src="http://musicfamily.org/realm/Factions/picks/MercenaryFirstContract.png"></a></p>
 <p><b>Alignment: Any</b></p>
-<p><b>Requirement</b>: R3-R39, R75-R99</p>
+<p>Mercenaries were added in the After-life expansion as an ultimate powerhouse.</p>
 <p>Combines the spells and upgrades from other factions to create custom cross-faction <a href="http://musicfamily.org/realm/MercBuilds"><b>mercenary builds</b></a>.</p>
-<p><b>Cost</b> 50 Spd (5E55)</p>
+<p><b>Unlock Requirement R3+</b>: Mercenary Tribute (only needs to be bought once)</p>
+<p><b>Unlock Requirement R160+</b>: Mercenary Duel (only needs to be bought once)</p> 
+<p><b>Available</b>: R3-R99, R160-R219</p>
+<p><b>Cost</b> 50 Spd (5e55), A1+: Free</p>
 <hr>
-<p><b>Elite Faction R125+</b></p>
+<p><b>Elite Factions</b></p>
 <p><b><a href="/realm/ArchonFaction">Archon</a></b></p>
 <p><a href="/realm/ArchonFaction"><img src="http://musicfamily.org/realm/Factions/picks/ArchonTradeTreaty.png"></a>
 <p><b>Alignment: Order</b></p>
 <p>Increase your ability to boost your production immensely over long periods of time.</p>
-<p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 Dc (1e33) Angel and Undead Coins</p>
+<p><b>Unlock Requirement</b>: Archon Quest (only needs to be bought once)</p> 
+<p><b>Requirement</b>: Proof of Order, Union upgrades of both Base & Prestige Faction</p>
+<p><b>Available</b>: R125-R219</p>
+<p><b>Cost</b>: 1 Dc (1e27) Angel & Undead Coins</p>
 <hr>
 <p><b><a href="/realm/DjinnFaction">Djinn</a></b></p>
 <p><a href="/realm/DjinnFaction"><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png"></a></p>
 <p><b>Alignment: Chaos</b></p>
 <p>Granting you the ability to manipulate random outcomes to your advantage.</p>
-<p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 Dc (1e33) Fairy and Demon Coins</p>
+<p><b>Unlock Requirement</b>: Djinn Quest (only needs to be bought once)</p> 
+<p><b>Requirement</b>: Proof of Chaos, Union upgrades of both Base & Prestige Faction</p>
+<p><b>Available</b>: R125-R219</p>
+<p><b>Cost</b>: 1 Dc (1e27) Fairy & Demon Coins</p>
 <hr>
 <p><b><a href="/realm/MakersFaction">Makers</a></b></p>
 <p><a href="/realm/MakersFaction"><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png"></a></p>
 <p><b>Alignment: Balance</b></p>
 <p>Increase your ability to dominate all your resources.</p>
-<p><b>Requirement</b>: R125+</p>
-<p><b>Cost</b>: 1 Dc (1e33) Elven and Goblin Coins</p>
+<p><b>Unlock Requirement</b>: Makers Quest (only needs to be bought once)</p> 
+<p><b>Requirement</b>: Proof of Balance, Union upgrades of both Base & Prestige Faction</p>
+<p><b>Available</b>: R125-R219</p>
+<p><b>Cost</b>: 1 Dc (1e27) Elven & Goblin Coins</p>
 <hr>
 <p><b>Faction Spell & Upgrades</b></p>
 <p>Each Faction has its own Faction specific spell and 3x3 Tier upgrades (3x4 for Mercenaries). The Tier upgrades only show up in order, so when you buy Tier 1 then Tier 2 will show up and then Tier 3, and hence cannot be bought before.</p>
