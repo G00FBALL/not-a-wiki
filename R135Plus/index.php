@@ -12,6 +12,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Elves 0 - 1e50 (100 Qid)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Wolfsblood</p>
+				<p><b>Requirement</b>: All Advanced Heritages</p>
 				<p><b>Range</b>: 0 - 1e50 (1 100 Qid) Gems</p>
 				<p><b>Range (R154+, All Challenges Completed)</b>: 0 - 1e58 (10 Ocd) Gems</p>
 				<p><b>Faction</b>: Elf</p>
@@ -53,6 +54,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Goblin (R140-R153) 1e50 (100 Qid) - 1e53 (100 1 Sxd)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Wolfsblood</p>
+				<p><b>Requirement</b>: Makers Challenge 2</p>
 				<p><b>Range</b>: 1e50 (100 Qid) - 1e53 (100 1 Sxd) Gems</p>
 				<p><b>Faction</b>: Goblin</p>
 				<p><b>Bloodline</b>: Titan</p>

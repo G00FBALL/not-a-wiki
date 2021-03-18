@@ -154,7 +154,7 @@
 <p><b>Unlock Requirement</b>: Archon Quest (only needs to be bought once)</p> 
 <p><b>Requirement</b>: Proof of Order, Union upgrades of both Base & Prestige Faction</p>
 <p><b>Available</b>: R125-R219</p>
-<p><b>Cost</b>: 1 Dc (1e27) Angel & Undead Coins</p>
+<p><b>Cost</b>: 1 Oc (1e27) Angel & Undead Coins</p>
 <hr>
 <p><b><a href="/realm/DjinnFaction">Djinn</a></b></p>
 <p><a href="/realm/DjinnFaction"><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png"></a></p>
@@ -163,7 +163,7 @@
 <p><b>Unlock Requirement</b>: Djinn Quest (only needs to be bought once)</p> 
 <p><b>Requirement</b>: Proof of Chaos, Union upgrades of both Base & Prestige Faction</p>
 <p><b>Available</b>: R125-R219</p>
-<p><b>Cost</b>: 1 Dc (1e27) Fairy & Demon Coins</p>
+<p><b>Cost</b>: 1 Oc (1e27) Fairy & Demon Coins</p>
 <hr>
 <p><b><a href="/realm/MakersFaction">Makers</a></b></p>
 <p><a href="/realm/MakersFaction"><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png"></a></p>
@@ -172,7 +172,7 @@
 <p><b>Unlock Requirement</b>: Makers Quest (only needs to be bought once)</p> 
 <p><b>Requirement</b>: Proof of Balance, Union upgrades of both Base & Prestige Faction</p>
 <p><b>Available</b>: R125-R219</p>
-<p><b>Cost</b>: 1 Dc (1e27) Elven & Goblin Coins</p>
+<p><b>Cost</b>: 1 Oc (1e27) Elven & Goblin Coins</p>
 <hr>
 <p><b>Faction Spell & Upgrades</b></p>
 <p>Each Faction has its own Faction specific spell and 3x3 Tier upgrades (3x4 for Mercenaries). The Tier upgrades only show up in order, so when you buy Tier 1 then Tier 2 will show up and then Tier 3, and hence cannot be bought before.</p>
