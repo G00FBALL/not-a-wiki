@@ -53,6 +53,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Goblin (R140-R153) 1e50 (100 Qid) - 1e53 (100 1 Sxd)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Wolfsblood</p>
+				<p><b>Requirement</b>: Makers Challenge 2</p>
 				<p><b>Range</b>: 1e50 (100 Qid) - 1e53 (100 1 Sxd) Gems</p>
 				<p><b>Faction</b>: Goblin</p>
 				<p><b>Bloodline</b>: Titan</p>
