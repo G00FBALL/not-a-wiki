@@ -24,8 +24,11 @@
         <hr>
 		<p><b>Excavations</b></p>
         <p>The first excavation costs 1 Oc (1e27) coins, and each subsequent excavation costs without any cost multiplier reduction 20% more than the one before.</p>
-        <p><b>Cost Formula</b>: (1e27 ^ (0.75 ^ A) * (1 + (0.2 - C) / 5A) ^ x), where A is the number of Ascensions, C the sum of your flat cost reduction upgrades (such as E290) and x the number of excavations.</p>
-        <p>Everytime you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
+        <p><b>Cost Formula for the x-th excavation</b>: (1e27 ^ (0.75 ^ A) * (1 + M ^ (x - 1)), where A is your Ascension and M the excavation cost multiplier.</p>
+		<p>The <b>excavation cost multiplier</b> is equal to:<br>
+		   - A0: (1 + 0.2 - C), where C is the sum of your flat cost reduction upgrades (such as DN8 or E290).<br>
+		   - A1+: (1 + (0.2 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
+		<p>Everytime you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
         <p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x-1) ^ 2.75), where x is the number of excavations you have.</p>
 		<p></b>Note: Everytime you reincarnate or ascend, your excavation counter will be set back to zero.</p>
         <hr>

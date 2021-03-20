@@ -62,6 +62,6 @@
 <hr>
 <p><b>Building Cost Multiplier</b></p>
 <p>The base value of the building cost multiplier is 1.15, but can be reduced by upgrades that give a flat cost reduction (e.g. Gobline) and also depends on your Ascension.</p>
-<p><b>Building Cost Formula in A0 and A4</b>: (1 + 0.15 - R), where R is the sum of your flat cost reduction upgrades.</p>
-<p><b>Building Cost Formula in A1 - A3</b>: (1 + (0.15 - R) / (5 * A)), where R is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
+<p><b>Building Cost Formula in A0 and A4</b>: (1 + 0.15 - C), where C is the sum of your flat cost reduction upgrades.</p>
+<p><b>Building Cost Formula in A1 - A3</b>: (1 + (0.15 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
 <?php include "../scripts/footer.html"; ?>
