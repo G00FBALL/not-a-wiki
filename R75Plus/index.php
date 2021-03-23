@@ -13,7 +13,7 @@
 	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter R75-89</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter (R75-89)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fairy Lineage level 20+, Dragon Challenge 4</p>
@@ -35,7 +35,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R75-89</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless (R75-89)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Mabrima</p>
 				<p><b>Range</b>: 1e27 (1 Oc) - 1e86 (100 Spvg) Gems</p>
@@ -57,7 +57,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter R90+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter (R90+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fairy Lineage level 20+, Dragon Challenge 4</p>
@@ -78,7 +78,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless R90+</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless (R90+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Mabrima</p>
 				<p><b>Range</b>: 1e27 (1 Oc) - 1e68 (100 Uvg) Gems</p>
@@ -143,6 +143,7 @@
 				<p>E135,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A305,A400,A545,</p>
 				<p>W135,W180,W250,W400,W1375</p>
+				<p><b>Notes</b>: Use if your FC3 is 123% or higher.</p>
 				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
 				<p><b>Notes</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
 			</div>
@@ -153,7 +154,7 @@
 	<p><b>Mercenary Research and Unique Building Unlock</b></p>
         <H6 id="KYEP2"></h6>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building)(R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building) (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Range</b>: 1e82 (10 Sxvg) gems+</p>
@@ -168,7 +169,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research Unlock)(R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">We Shall Rise Again (Merc Research Unlock) (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
 				<p><b>Requirements</b>: Obsidian Shard, Fairy Lineage level 15+, Fairy Perk 2 unlocked</p>
@@ -196,19 +197,13 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenomicon (Know Your Enemy, Part II)(R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Note: Know Your Enemy, Part II Lore Artifact (R75)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Cyden</p>
-				<p><b>Range</b>: ?</p>
-				<p><b>Requirement</b>: Mercenary Unique Buildings unlocked</p>
-				<p><b>Faction</b>: Neutral Mercenary</p>
-				<p><b>Bloodline</b>: Dragon</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL9,AN6,GB1,UD7,DM3,TT7,DD6,FC3,DN4,DW7,DG3,SP:Fairy Chanting,SP:Lightning Strike">
-				</p>
-				<p>FR4,EL9,AN6,GB1,UD7,DM3,TT7,DD6,FC3,DN4,DW7,DG3,</p>
-				<p>SP:Fairy Chanting,SP:Lightning Strike</p>
+				<p>After the Mercenary Encampment Quest (Merc Unique Building unlock) is bought, Know Your Enemy, Part II Artifact will become available to be excavated.</p>
+				<p><b>Requirement</b>: R75+, Merc Unique Building, play as mercenary and have upgrades from all 12 other factions.</p>
+				<p><b>Chance</b>: 5%</p>
+				<p><b>Effect</b>: Awards an upgrade of the same name.</p>
+				<p><b>Tip</b>: Dragon Bloodline helps to afford a Dragon upgrade easier.</p>
 			</div>
 		</div>
 	</div>
@@ -303,7 +298,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Brilliant Lightning Rush (R82-R89)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Cyden</p>
+				<p><b>Author</b>: Prototer + Cyden</p>
 				<p><b>Range</b>: 1e75 (1 Qavg) Gems - 1e108 (1 Qitg) Gems</p>
 				<p><b>Faction</b>: Neutral Mercenary</p>
 				<p><b>Bloodline</b>: Fairy</p>
@@ -428,7 +423,7 @@
 	<p><b>Special Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">FanTaxtic Reaper (S3200 Unlock)(Low Clicks)(R81+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">FanTaxtic Reaper (S3200 Unlock) (R81+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Research E3300</p>
@@ -485,7 +480,7 @@
 				<p>W1375,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Benefits from Holy Crusader growth and high Undead & Elf Lineage levels.</p>
-				<p><b>Notes</b>: Fairyline Neutral Mercenary naturally has a high assistant count, therefore automatically buffs W275/ Freemason Hall by itself.This build only perform slightly better than Neutral Merc.</p>
+				<p><b>Notes</b>: Fairyline Neutral Merc has a naturally high assistant count, therefore automatically buffs W275/ Freemason Hall by itself.This build only perform slightly better than Neutral Merc.</p>
 				<p><b>Notes</b>: For R90+ add S305,C225,D25,E50,A545,W400.</p>
 			</div>
 		</div>
@@ -499,7 +494,7 @@
 				<p><b>A2950</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="FR4,EL7,GB3,UD7,TT7,DD4,DD6,FC3,DN2,DN4,DW7,DG3,SP:Fairy Chanting,SP:Lightning Strike,S305,S400,S1450,S1500,C590,C1300,C3000,C3100,D25,D290,D1275,D2775,E135,E320,E1225,E3250,E3300,A120,A1500,A2950,A3400,W400,W1375,W1400,W3150">
+					<input type="text" value="FR4,EL7,GB3,UD7,TT7,DD4,DD6,FC3,DN2,DN4,DW7,DG3,SP:Fairy Chanting,SP:Lightning Strike,S305,S400,S1450,S1500,C590,C1300,C3000,C3100,D25,D290,D1275,D2775,E135,E1225,E3250,E3300,A120,A1500,A2950,A3400,W400,W1375,W1400,W3150">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -521,7 +516,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Lightning Condenser (Alternative Primal Balance & TTC4 Buff) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dark Lightning Condenser (Alternative Primal Balance & TTC4 Buff) (R95+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ?</p>
@@ -551,7 +546,7 @@
 	<p><b>Lineage Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tree of Ancestors (All lineages L25)(R75)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tree of Ancestors (All lineages L25) (R75)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fairy Lineage level of at least L25.</p>
@@ -580,7 +575,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gene Lab (Fairy Lineage L30+)(R82+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gene Lab (Fairy Lineage L30+) (R82+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Research A3400</p>
@@ -604,14 +599,14 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gene Lab (All Lineages L30+)(R82+)<font color="DarkRed"> Evil</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Gene Lab (All Lineages L30+) (R82+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fairy Lineage level of at least L30.</p>
 				<p><b>Range</b>: ? Gems</p>
 				<p><b>Faction</b>: Evil Mercenary</p>
 				<p><b>Bloodline</b>: All (1 at a time)</p>
-				<p><b>A2950</b>: Dragon (Elf if Dragon Lineage)</p>
+				<p><b>A2950</b>: Dragon (Elf if leveling Dragon Lineage)</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="EL4,EL7,AN5,GB3,UD7,TT7,DD3,DD4,FC3,FC7,DN2,DN4,MA:DW7,SP:Fairy Chanting,SP:Dragon's Breath,S50,S305,S1450,S1500,C250,C400,C590,C3000,D25,D200,D290,D2775,E320,E1225,E3250,E3300,A305,A1500,A2950,A3400,W275,W400,W1375,W1400">
