@@ -44,13 +44,12 @@
                 var rub = parseInt($('input#rub').val()),
                     mult = 1.2,
                     cost = 0,
-                    base = 1e27;
+                    base = ($('#eas').prop('checked')) ? 1e24 : 1e27;
                     base = (asc > 0) ? Math.pow(1e27 , Math.pow(0.75 , asc)) : 1e27;
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
                 if ($('#E290').prop('checked')) mult -= 0.02;
 				if ($('#DN8').prop('checked')) mult -= 0.02;
-                if ($('#eas').prop('checked')) mult -= 0.025;
                 if (maker > 0) {
                     mult -= maker;
                 }
