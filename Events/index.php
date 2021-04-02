@@ -306,7 +306,7 @@
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Cast Call to Love while being affiliated with a Neutral Faction and with at least 2 hours of activity time with the spell during the Valentine event.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-					<p><b>Effect</b>: Increase Neutral production by 50% (currently <b>bugged</b>, works for Good and Evil too).</p>
+					<p><b>Effect</b>: Increase Neutral production by 50%.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
 					" coords="363,63,416,116" shape="rect">
@@ -418,7 +418,7 @@
 					<p><b>Requirement</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-					<p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
+					<p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="3,243,56,296" shape="rect">
 					<area research="
@@ -527,7 +527,7 @@
 					<p><b>Requirements</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation .</p>
-					<p><b>Formula</b>: (25 + 0.5 * x ^ 0.5) where x is your least used alignment in this Reincarnation (in seconds).</p>
+					<p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="63,363,116,416" shape="rect">
 					<area research="
@@ -572,7 +572,8 @@
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
 					<p><b>Note</b>:  If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
+                    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="3,423,56,476" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
@@ -768,16 +769,16 @@
                     <p><b>Effect</b>: Increase offline production by 100%.</p>
                     <br/>
                     <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada (Goblin Invasion)</b></p>
-                    <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
-                    <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
+                    <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
+                    <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
                     <br/>
                     <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration (Blood War)</b></p>
                     <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
-                    <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5), where x is your least used alignment in this Reincarnation (in seconds).</p>
+                    <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
                     <br/>
                     <p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter (Summer Event)</b></p>
                     <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                    <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
+                    <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
                     <br/>
                     <p><b><img src="/realm/Factions/picks/SpectralSurge.png" align="middle"> Spectral Surge (Halloween Event)</b></p>
                     <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
@@ -1051,7 +1052,7 @@
 						<p><b>Requirement</b>: Cast Call to Love while being affiliated with a Neutral Faction and with at least 2 hours of activity time with the spell during the Valentine event.</p>
 						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 						<p><b>Cost</b>: Free</p>
-						<p><b>Effect</b>: Increase Neutral production by 50% (currently <b>bugged</b>, works for Good and Evil too).</p>
+						<p><b>Effect</b>: Increase Neutral production by 50%.</p>
 						<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/FairyLove.png" align="middle"> Fairy Love</b></p>
@@ -1782,7 +1783,7 @@
                         <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade upgrade with the same name.</p>
                         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                        <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
+                        <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/LateSpringtime.png" alt="Late Springtime" align="middle"> Late Springtime</b></p>
@@ -1901,8 +1902,8 @@
                         <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-                        <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
-                        <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
+                        <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
+                        <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PlatinumTrophy.png" align="middle"> Platinum Trophy</b></p>
@@ -2040,7 +2041,7 @@
                         <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
-                        <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5), where x is your least used alignment in this Reincarnation (in seconds).</p>
+                        <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/EternalBattle.png" align="middle"> Eternal Battle</b></p>
                         <p><b>Type</b>: Feat</p>
@@ -3029,7 +3030,7 @@
                         <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade upgrade with the same name.</p>
                         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                        <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5), where x is all time clicks made.</p>
+                        <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <hr>
                         <p><b>Shop Items</b></p>
@@ -3142,8 +3143,8 @@
                         <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-                        <p><b>Effect</b>: Gain assistants based on the amount of buildings you own.</p>
-                        <p><b>Formula</b>: (0.65 * x ^ 0.35), where x is amount of buildings you own. (multiplicative)</p>
+                        <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
+                        <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <hr>
                         <p><b>Shop Item</b></p>
@@ -3273,7 +3274,7 @@
                         <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
-                        <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5), where x is your least used alignment in this Reincarnation (in seconds).</p>
+                        <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
                         <hr>
                         <p><b>Shop Item</b></p>
                         <p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
@@ -4508,7 +4509,7 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Christmas (Dec 20, 2017 - Jan 4, 2018)</a></b></p>
                     <div class="autohide">
-                        <p>The Christmas Event will be starting on <b>Dec 20th 2017, 1:01 PM UTC</b> and will end on <b>Jan 4th 2018, 7:59 PM UTC<b>.</p>
+                        <p>The Christmas Event will be starting on <b>Dec 20th 2017, 1:01 PM UTC</b> and will end on <b>Jan 4th 2018, 7:59 PM UTC</b>.</p>
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
