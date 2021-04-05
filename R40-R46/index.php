@@ -5,9 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-	<p><b>Optimal Tiering for R42-R46:</b></p>
-	<p>R46: Demon spells to Tier 2: 1 day 6 hours and 3 minutes (of their spells activity time in this R)</p>
-	<p>     Elf spells to Tier 2: 20 hours and 13 minutes</p>
+	<p><b>Optimal Tiering for R46:</b></p>
+	<p>Demon spells to Tier 2: 1 day 6 hours and 3 minutes (of their spells activity time in this R)</p>
+	<p>Elf spells to Tier 2: 20 hours and 13 minutes</p>
     <p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before ending stage 3 of Dragon unlock.</p>
     <p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
     <br/>
@@ -18,7 +18,6 @@
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U Druidline Goblin (R40-R46)<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Ensteffahn</p>
-                    <p><b>Requirements</b>: Flame of Bondelnar artifact</p>
                     <p><b>Range</b>: 0 Gems - ?</p>
                     <p><b>Faction</b>: Goblin/Drow</p>
                     <p><b>Bloodline</b>: Druid</p>
@@ -32,14 +31,14 @@
                     <p>E1,E80,E225,E330,E590,</p>
                     <p>A105,A120,A150,A250,A410,</p>
                     <p>W25,W150,W180,W205,W290</p>
-                    <p><b>Note</b>: Pick E135,W320,W400 after Flame of Bondelnar is bought (reimport the build).</p>
+                    <p><b>Note</b>: If Flame of Bondelnar is unlocked, pick E135,W320,W400.</p>
                 </div>
             </div>
 <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU Druidline Goblin (R40-R46) - Dragon stage 4 Unlock<font color="DarkRed"> Evil</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU Druidline Goblin (R40-R46)<font color="DarkRed"> Evil</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
-                    <p><b>Requirements</b>: Fortune Teller Machine artifact, Flame of Bondelnar</p>
+                    <p><b>Requirements</b>: Fortune Teller Machine artifact</p>
                     <p><b>Range</b>: 0 Gems - ?</p>
                     <p><b>Faction</b>: Goblin/Drow</p>
                     <p><b>Bloodline</b>: Druid</p>
@@ -53,10 +52,10 @@
                     <p>E200,E330,E480,E495,E590,</p>
                     <p>A10,A105,A120,A150,A410,</p>
                     <p>W25,W120,W150,W205,W330</p>
-                    <p><b>Note</b>: Pick E135,W320,W400 after Flame of Bondelnar is bought (reimport the build).</p>
-			<p><b>Note</b>: Grows stronger as you spend more time in this R.</p>
-			<p><b>Note</b>: The build becomes better than U Goblin after approximately 2.5 hours spent in this R.</p>
-			<p><b>Note</b>: For R46: At 1e15 (1 Qa) gems swap E200->E290 and excavate Spiky Rough Egg lore artifact (at 1500th excavation) then immediately start Dragon unlock (Read the below section). From here onward <b>only use this build to gain gems if you need to do so in order to finish a stage of Dragon unlock<b/>, or to finish R46.</p>
+                    <p><b>Note</b>: If Flame of Bondelnar is unlocked, pick E135,W320,W400.</p>
+                    <p><b>Note</b>: Grows stronger as you spend more time in this R.</p>
+                    <p><b>Note</b>: The build becomes better than U Goblin after approximately 2.5 hours spent in this R.</p>
+                    <p><b>Note</b>: For R46: At 1e15 (1 Qa) gems swap E200->E290 and excavate Spiky Rough Egg lore artifact (at 1500th excavation) then immediately start Dragon unlock (Read the below section).</p>
                 </div>
             </div>
         </div>
@@ -81,7 +80,7 @@
                     <p>A120,A250,A305,A375,A400,A545,</p>
                     <p>W120,W135,W200,W250,W400</p>
                     <p><b>Notes</b>: Meant for unlocking Reversed and Tiered autocast.</p>
-					<p><b>Notes</b>: Estimated time to unlock Tiered Autocast is 30 minutes</p>
+                    <p><b>Notes</b>: Estimated time to unlock Tiered Autocast is 30 minutes</p>
                 </div>
             </div>
         </div>
@@ -117,7 +116,7 @@
                 </div>
             </div>
             <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> NU Druidline Fairy Stage 3 unlock<font color="Blue"> Good</font></a></b></p>
+                <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> NU Druidline Fairy (Dragon stage 3 unlock)<font color="Blue"> Good</font></a></b></p>
                 <div class="autohide">
                     <p><b>Author</b>: Cyden</p>
                     <p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings</p>
@@ -148,13 +147,19 @@
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">IMPORTANT: R46 - Dragon unlock & spell tiering</b></a>
                 </p>
                 <div class="autohide">
-                    <p>As you can see from above, Dragon unlock is an unskippable 2-day-long wait with nothing of significance to do. Thus, it is absolutely recommended that you use this time to tier some spells to a higher tier, which in turn drastically saves time on future unlocks in later Reincarnations.</p>
-			<p>Said spells are: Demon spells (all spells that are visible when you join Demon) and Elf spells, which you'll tier to tier 3 and tier 2 respectively according to the optimal tiering plan at the top of the page.</p>
-			<p>So, for the most efficient use of your time, you should be spending most of your dragon unlock sitting as Demon and Elf as much as possible to build up their spells activity time.</p>
-			<p>Optionally, you can check the "Detailed plan for R46 tiering" for specific calculations of your spell tiering process.</p>
-			<p><b>Note</b>: In tiering runs, focus on researches that increase mana regen, increase spells' duration and reduce spells' mana cost.</p>
+                    <p>As you can see from above, Dragon unlock is an unskippable 2-day-long wait with nothing of significance to do. Thus, it is absolutely recommended that you use this time to tier some spells to a higher tier, which in turn drastically saves time on future tierings in later Reincarnations.</p>
+                    <p>Said spells are: Demon spells (all spells that are visible when you join Demon) and Elf spells, which you'll tier to tier 3 and tier 2 respectively according to the optimal tiering plan at the top of the page.</p>
+                    <p>You tier Demon spells because you're already having a 12h headstart from dragon unlock stage 2.</p>
+                    <p>And as for Elf spells, there are two main reasons:</p>
+                    <p>1/ You rarely ever want to stop tiering below tier 6: Any progress toward the next tier will reset upon reincarnating, so it's really wasteful to reincarnate without tiering all the way to tier 6. But you only have the time to tier to tier 2 in R46, so the tiering spell must be one of the lesser used spell, where it doesn't matter whether the spell is tier 6 or tier 2.</p>
+                    <p>2/ You want to avoid overlapping alignment, to tier as many spells as possible: Obviously you'd avoid an evil faction, you're already tiering Demon. But you also won't want to tier with a neutral faction yet. Since neutrals become very powerful after Dragon is unlocked, you should tier them all the way to tier 6 instead. So that leaves good factions as the only viable choice.</p>
+                    <p>There is only one faction sastifying both reasons - Elf.</p>
+                    <p>So, for the most efficient use of your time, you should be spending most of your dragon unlock sitting as Demon and Elf as much as possible to build up their spells activity time.</p>
+                    <p>Optionally, you can check the below section for specific calculations of your spell tiering process.</p>
+                    <br/>
+                    <p><b>Note</b>: In tiering runs, focus on researches that increase mana regen, increase spells' duration and reduce spells' mana cost.</p>
                     <p><b>For Stage 2</b>: You do not need to be Demon in order to finish the stage, use NU Goblin to gain some gems and buy the next stage.</p>
-			<p><b>For Stage 3</b>: When nearing the end of the stage (1-2 hours remaining), use NU Goblin to gain up to at least 1e30 (1 No) gems finishing the stage with Fairy.</p>
+                    <p><b>For Stage 3</b>: When nearing the end of the stage (1-2 hours remaining), use NU Goblin to gain up to at least 1e30 (1 No) gems finishing the stage with Fairy.</p>
                 </div>
             </div>
             <div class="shelementwhole">
@@ -166,21 +171,16 @@
                     <p>Where T is the tier you're aiming for (2-6), U is your unlocked tiers (0-84), R is your Reincarnation.</p>
                     <p>Click <a target="_blank" style="color: red;" href="https://www.desmos.com/calculator/easbpgto2s">here</a> for an online calculator.</p>
                     <p>Click <a target="_blank" style="color: red;" href="https://dox4242.github.io/misc/tiers.html">here</a> to see your unlocked tiers.</p>
-			<br/>
-			<p>1/ Start with Goblin until Spiky Rough Egg is excavated, then immediately go to the next step.</p>
-			<p>2/ (Switch to Goblin for Stage 1, 2, 4 and Fairy for Stage 3 completion whenever necessary)</p>
-			<p>3/ Run Demon (all spells on autocast) until Call to Arm (CtA), Blood Frenzy (BF), Combo Strike (CS) and Spiritual Surge (SS) hit tier 2 at 1 day, 10 hours and 21 minutes of CtA, SS, BF & CS activity time.</p>
-			<p>4/ If Hellfire Blast (HfB) has at least 1 day and 32 minutes of HfB activity time it will hit tier 2 immediately, if not then keep running Demon until it hits tier 2.</p>
-			<p>5/ Run Elf (all spells on autocast) for 19 hours and 4 minutes, where CtA and SS hit tier 3 at 2 days, 5 hours and 24 minutes of CtA & SS activity time.</p>
-			<p>6/ Run Elf for an extra 1 hour and 9 minutes, where Holy Light (HL), Moon Blessing (MB) and Diamond Pickaxe (DP) hit tier 2 at 20 hours and 13 minutes of HL, MB & DP activity time.</p>
-			<p>7/ Run Demon again for 5 hours and 42 minutes, where BF and CS hit tier 3 at 1 day, 16 hours and 3 minutes of BF & CS activity time.</p>
-			<p>8/ Run Demon until HfB hits tier 3.</p>
-			<br/>
-			<p><b>Note</b>: Click <a target="_blank" style="color: red;" href="https://cdn.discordapp.com/attachments/532080862229954563/828647252837793792/R46_Tiers.png">here</a> for a simplified version of the plan.</p>
-			<br/>
+                    <br/>
+                    <p>1/ Start with Goblin until Spiky Rough Egg is excavated, then immediately go to the next step.</p>
+                    <p>2/ (Switch to Goblin for Stage 1, 2, 4 and Fairy for Stage 3 completion whenever necessary)</p>
+                    <p>3/ Run Demon (all spells on autocast) until all of its spells hit tier 2 (requires 1 day, 10 hours and 21 minutes of activity time throughout this R).</p>
+                    <p>4/ Run Elf (all spells on autocast) until all of its spells hit at least tier 2 (requires 20 hours and 13 minutes of activity time throughout this R).</p>
+                    <p>5/ Run Demon again until all of its spells hit tier 3 (requires a total of 1 day, 16 hours and 3 minutes of activity time throughout this R).</p>
+                    <br/>
                 </div>
             </div>
-		<p><b>NOTE</b>: The order in which you acquire the tiers doesn't matter, as long as your Demon spells have at least 1d 16h 3m and Elf spells at least 20h 13m of activity time this R you will be able to get the needed tiers, switching back and forth between the two factions a few times. Before going into R47 make sure you have actually unlocked the mentioned tiers by looking at the "highest tier unlocked" in the respective spell's tooltip.</p>
+		<p><b>NOTE</b>: The order in which you acquire the tiers doesn't matter, as long as your Demon spells have at least 1d 16h 3m and Elf spells at least 20h 13m of activity time by the end of the R you will be able to get the needed tiers, switching back and forth between the two factions a few times. Before going into R47 make sure you have actually unlocked the mentioned tiers by looking at the "highest tier unlocked" in the respective spell's tooltip.</p>
         </div>
     </div>
     <?php include "../scripts/footer.html"; ?>
