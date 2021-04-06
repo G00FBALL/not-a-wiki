@@ -101,25 +101,25 @@
 				</p>
 				<div class="autohide">
 					<p><b>Overview</b>: After excavating the quest artifact "Spiky Rough Egg", Dragon unlock is divided into 4 parts commonly refered to as "Stages". Each stages come with a compulsory unskippable 12 hours wait, meaning that Dragon unlock is guaranteed to last at least 2 days in real time.</p>
-					<p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png align="middle"><b> Spiky Rough Egg Artifact</b></p>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png" align="middle"><b> Spiky Rough Egg Artifact</b></p>
 					<p><b>Description</b>: What a weird egg... it looks ages old, yet something alive is inside. Perhaps if you wait long enough, something will hatch?</p>
 					<p><b>Requirement</b>: R46+, 1500+ Excavations</p>
 					<p><b>Chance</b>: 2%</p>
 					<br/>
-					<p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png align="middle"><b> Hatch!</b></p>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png" align="middle"><b> Hatch!</b></p>
 					<p><b>Description</b>: After waiting for a while... hatch the spiky egg and reveal what's inside!</p>
 					<p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the quest artifact</p>
 					<p><b>Cost</b>: 1e64 (10 Vg), 1e7 (10 M) each Faction Coin</p>
 					<p><b>Effect</b>: Hatches the Egg.</p>
 					<br/>
-					<p><img src="http://musicfamily.org/realm/Factions/picks/DrakelingFactionUpgrade.png align="middle"><b> Drakeling</b></p>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/DrakelingFactionUpgrade.png" align="middle"><b> Drakeling</b></p>
 					<p><b>Description</b>: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.</p>
 					<p><b>Requirement</b>: Hatch!, 12 hours of active Hellfire Blast since purchasing the previous stage.</p>
 					<p><b>Cost</b>: 1e67 (10 Uvg), 1e8 (100 M) of each Faction Coin</p>
 					<p><b>Effect</b>: Grows Drakeling into Dragon.</p>
 					<p><b>Note</b>: Do not use Research A25 as it will mess up the timer even worse and could increase the time needed.</p>
 					<br/>
-					<p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png align="middle"><b> Dragon</b></p>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png" align="middle"><b> Dragon</b></p>
 					<p><b>Description</b>: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.</p>
 					<p><b>Requirement</b>: Drakeling, 12 hours since purchasing the previous stage, 3750 Fairy Assistants (Assists from Fairy Chanting count)</p>
 					<p><b>Cost</b>: 1e70 (10 Dvg), 1e9 (1 B) of each Faction Coin</p>
