@@ -195,7 +195,7 @@
 					<p><b>Step 2:</b> Run Demon (all spells on autocast) until all of its spells hit Tier 2 (requires 1 day, 10 hours and 21 minutes of spell activity time this R).</p>
 					<p><b>Step 3:</b> Run Elf (all spells on autocast) until all of its spells hit at least Tier 2 (requires 20 hours and 13 minutes of spell activity time this R).</p>
 					<p><b>Step 4:</b> Run Demon again until all of its spells hit Tier 3 (requires a total of 1 day, 16 hours and 3 minutes of spell activity time this R).</p>
-					<p><b>Note</b>Make sure you have Tier 3 in all Demon spells and Tier 2 in all Elf spell before Reincarnating, or you will lose progress toward these tiers.</p>
+					<p><b>Note:</b> Make sure you have Tier 3 in all Demon spells and Tier 2 in all Elf spell before Reincarnating, or you will lose progress toward these tiers.</p>
 					<br/>
 				</div>
 			</div>
