@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DemonTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Demon.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Demon.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>The mighty and fearless Demons cannot bother with petty trifles, they only care for greatness and power.</p>
         <p>Affiliating yourself with the Demons faction will hugely improve the output of higher tier buildings.</p>
@@ -15,71 +15,71 @@
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/HellFireBlast.png" alt="Smiley face" align="middle"> <b>Hellfire Blast</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/HellFireBlast.png align="middle"> <b>Hellfire Blast</b></p>
         <p><b>Effect</b>: Increases the production of Evil Fortresses and Hell Portals.</p>
         <p><b>Formula</b>: (200 * x ^ 0.8), where x is your Trophies Unlocked stat.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Hell Rush</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png align="middle"> <b>Hell Rush</b></p>
         <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
         <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
         <p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsTradeTreaty.png" alt="Smiley face" align="middle"> Demon Trade Treaty</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsTradeTreaty.png align="middle"> Demon Trade Treaty</b></p>
         <p><b>Cost</b>: 20 Demon Coins</p>
         <p><b>Effect</b>: Unlocks Demon upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TortureChambersFactionUpgrade.png" alt="Smiley face" align="middle"> Torture Chambers</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TortureChambersFactionUpgrade.png align="middle"> Torture Chambers</b></p>
         <p><b>Cost</b>: 50 M (5e7)</p>
         <p><b>Effect</b>: Increase the production of Royal Castles / Evil Fortresses / Iron Strongholds (based on your Alignment) based on the amount of assistants you own.</p>
         <p><b>Formula</b>: (6 * ln(1 + x) ^ 3)%, where x is the amount of assistants you own.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DevilTyrantFactionUpgrade.png" alt="Smiley face" align="middle"> Devil Tyrant</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DevilTyrantFactionUpgrade.png align="middle"> Devil Tyrant</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
         <p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" alt="Smiley face" align="middle"> Evil Conquerors</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png align="middle"> Evil Conquerors</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         <p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsFriendshipPact.png" alt="Smiley face" align="middle"> Demon Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsFriendshipPact.png align="middle"> Demon Friendship Pact</b></p>
         <p><b>Cost</b>: 100 Demon Coins</p>
         <p><b>Effect</b>: Unlocks more Demon upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/LavaPitsFactionUpgrade.png" alt="Smiley face" align="middle"> Lava Pits</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/LavaPitsFactionUpgrade.png align="middle"> Lava Pits</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
         <p><b>Effect</b>: Increase the base production of Evil Fortresses and Hell Portals by +200,000.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonOverseersFactionUpgrade.png" alt="Smiley face" align="middle"> Demon Overseers</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonOverseersFactionUpgrade.png align="middle"> Demon Overseers</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
         <p><b>Effect</b>: Increase the production of the three highest building tiers based on the amount of Trophies you unlocked.</p>
         <p><b>Formula</b>: (x ^ 0.8)%, where x is amount of Trophies unlocked.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png" alt="Smiley face" align="middle"> Demonic Presence</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png align="middle"> Demonic Presence</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
         <p><b>Effect</b>: Increase the maximum Mana additively based on Evil spells cast in this game (additive).</p>
         <p><b>Formula</b>: +(6 * x ^ 0.4), where x is Evil spells cast this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Demon Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonsAllianceFactionUpgrade.png align="middle"> Demon Alliance</b></p>
         <p><b>Cost</b>: 500 Demons Coins</p>
         <p><b>Effect</b>: Unlocks more Demon upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Magic</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png align="middle"> Infernal Magic</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
         <p><b>Effect</b>: Hell Portals also increase your Mana Regeneration.</p>
         <p><b>Formula</b>: (x ^ 0.35), where x is the amount of Hell Portals built.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" alt="Smiley face" align="middle"> Burning Legion</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png align="middle"> Burning Legion</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
         <p><b>Formula</b>: (x ^ 0.55), where x is the number of Hell Portals you own.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" alt="Smiley face" align="middle"> Very Bad Guys</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png align="middle"> Very Bad Guys</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: Increase the production of Heaven's Gate / Hell Portals / Ancient Pyramid (based on your Alignment) based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         <p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
@@ -90,25 +90,25 @@
         <p><b>Effect</b>: Increase the production of all buildings by 0.3% per Hall of Legends you own.</p>
         <hr>
         <p><b>Demon Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Realm Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmQuestFactionUpgrade.png align="middle"> Infernal Realm Quest</b></p>
         <p><b>Description</b>: Useless underling, be warned! The Demons are going to invade your world with all their might. If you know which side you want to be on when that happens, build those Hell Portals!</p>
         <p><b>Requirement</b>: R16 + 1,500 Hell Portals</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmFactionUpgrade.png" alt="Smiley face" align="middle"> Infernal Realm</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalRealmFactionUpgrade.png align="middle"> Infernal Realm</b></p>
         <p>Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Buy "Infernal Realm Quest"</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrategyRoomFactionUpgrade.png" alt="Smiley face" align="middle"> Strategy Room</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrategyRoomFactionUpgrade.png align="middle"> Strategy Room</b></p>
         <p><b>Requirements</b>: All Demon faction upgrades bought, Infernal Realm.</p>
         <p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Demon coins</p>
         <p><b>Effect</b>: Unlocks the Warfare research facility and increases Demon production by 100,000%, plus an additional bonus based on Warfare research points.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
         <p><b>Unique Building</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png align="middle"></p>
         <p>At R16, the Demon's building Hell Portals can be upgraded to a Unique Building: Infernal Realm, which is required for some challenges and research quests.</p>
         <hr>
         <p><b>Ascension 2 - R100+</b></p>

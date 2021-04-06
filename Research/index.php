@@ -238,7 +238,7 @@
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Vanilla Research</a></b> (R16+)</p>
                     <div class="autohide">
                         <h6>Fairy</h6>
-                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png" alt="Smiley face" align="middle"> Enchanted Field Quest</b></p>
+                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png align="middle"> Enchanted Field Quest</b></p>
                         <p>Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!</p>
                         <p><b>Requirement</b>: R16 + 2250 Farms</p>
                         <p><b>Cost</b>: 10 Dtg (1E100)</p>
@@ -434,13 +434,13 @@
                         <p><b>Cost</b>: 10 USxg (1E187)</p>
                         <hr>
                         <h6>Dragons</h6>
-                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
+                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png align="middle"> Wyrm's Den Quest</b></p>
                         <p>Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.</p>
                         <p><b>Effect</b>: Unlocks Wyrm's Den</p>
                         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
                         <p><b>Cost</b>: 100 Tvg (1.0e74)</p>
                         <br/>
-                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den</b></p>
+                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png align="middle"> Wyrm's Den</b></p>
                         <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
                         <p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)</p>
                         <p><b>Effect</b>: Unlocks Wyrm's Den Unique Building</p>

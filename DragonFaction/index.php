@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DragonTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.</p>
         <p>The Dragon Faction appears in addition to a Neutral faction, this enables the player to use all the 2 faction spells and 18 upgrades from both the Neutral and Dragon factions.</p>
@@ -16,38 +16,39 @@
         <p>These Requirements can be done in separate game plays, and only need to be done once throughout the entire game-play.</p>
         <p><b>You can Abdicate and Reincarnate during the 12 hour wait of all 4 stages.</b></p>
         <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png" alt="Smiley face" align="middle"><b> Spiky Rough Egg Artifact</b></p>
-        <p><b>Description</b>: What a weird egg... it looks ages old, yet something alive is inside. Perhaps if you wait long enough, something will hatch?</p>
-        <p><b>Requirement</b>: R46+, 1500+ Excavations</p>
-        <p><b>Chance</b>: 2%</p>
-        <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png" alt="Smiley face" align="middle"><b> Hatch!</b></p>
-        <p><b>Description</b>: After waiting for a while... hatch the spiky egg and reveal what's inside!</p>
-        <p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the quest artifact</p>
-        <p><b>Cost</b>: 10 Vg (1e64), 10 M (1e7) each Faction Coin</p>
-        <p><b>Effect</b>: Hatches the Egg</p>
-        <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DrakelingFactionUpgrade.png" alt="Smiley face" align="middle"><b> Drakeling</b></p>
-        <p><b>Description</b>: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.</p>
-        <p><b>Requirement</b>: Hatch!, 12 hours of active Hellfire Blast since purchasing the previous stage.</p>
-        <p><b>Cost</b>: 10 Uvg (1e67), 100 M (1e8) of each Faction Coin</p>
-        <p><b>Effect</b>: Grows Drakeling into Dragon.</p>
-        <p><b>Note</b>: Do not use Research A25 as it will mess up the timer even worse and could increase the time needed.</p>
-        <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> Dragon</b></p>
-        <p><b>Description</b>: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.</p>
-        <p><b>Requirement</b>: Drakeling, 12 hours since purchasing the previous stage, 3750 Fairy Assistants (Assists from Fairy Chanting count)</p>
-        <p><b>Cost</b>: 10 Dvg (1e70), 1 B (1e9) of each Faction Coin</p>
-        <p><b>Effect</b>: Grows Dragon into Elder Dragon</p>
-        <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png" alt="Smiley face" align="middle"><b> Elder Dragon</b></p>
-        <p><b>Description</b>: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.</p>
-        <p><b>Requirement</b>: Dragon, 12 hours since purchasing the previous stage, 50000 Max Mana</p>
-        <p><b>Cost</b>: 10 Tvg (1e73), 10 B (1e10) of each Faction Coin</p>
-        <p><b>Effect</b>: Gives Dragon Tamer Trophy</p>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png align="middle"><b> Spiky Rough Egg Artifact</b></p>
+		<p><b>Description</b>: What a weird egg... it looks ages old, yet something alive is inside. Perhaps if you wait long enough, something will hatch?</p>
+		<p><b>Requirement</b>: R46+, 1500+ Excavations</p>
+		<p><b>Chance</b>: 2%</p>
+		<br/>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/Hatch!Artifact.png align="middle"><b> Hatch!</b></p>
+		<p><b>Description</b>: After waiting for a while... hatch the spiky egg and reveal what's inside!</p>
+		<p><b>Requirement</b>: Spiky Rough Egg, 12 hours since obtaining the quest artifact</p>
+		<p><b>Cost</b>: 1e64 (10 Vg), 1e7 (10 M) each Faction Coin</p>
+		<p><b>Effect</b>: Hatches the Egg.</p>
+		<br/>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/DrakelingFactionUpgrade.png align="middle"><b> Drakeling</b></p>
+		<p><b>Description</b>: The baby dragon needs to learn how to breathe flames first... perhaps a fair amount of Hellfire Blasts will help. Once it is ready, grow your baby dragon into a drakeling.</p>
+		<p><b>Requirement</b>: Hatch!, 12 hours of active Hellfire Blast since purchasing the previous stage.</p>
+		<p><b>Cost</b>: 1e67 (10 Uvg), 1e8 (100 M) of each Faction Coin</p>
+		<p><b>Effect</b>: Grows Drakeling into Dragon.</p>
+		<p><b>Note</b>: Do not use Research A25 as it will mess up the timer even worse and could increase the time needed.</p>
+		<br/>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/DragonFactionUpgrade.png align="middle"><b> Dragon</b></p>
+		<p><b>Description</b>: The drakeling can now breathe fire, but it is not self-sufficient yet. A decent army of Fairy assistants will surely help. Once it is ready, grow your drakeling into a mature dragon.</p>
+		<p><b>Requirement</b>: Drakeling, 12 hours since purchasing the previous stage, 3750 Fairy Assistants (Assists from Fairy Chanting count)</p>
+		<p><b>Cost</b>: 1e70 (10 Dvg), 1e9 (1 B) of each Faction Coin</p>
+		<p><b>Effect</b>: Grows Dragon into Elder Dragon</p>
+		<br/>
+		<p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png align="middle"><b> Elder Dragon</b></p>
+		<p><b>Description</b>: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.</p>
+		<p><b>Requirement</b>: Dragon, 12 hours since purchasing the previous stage, 50000 Max Mana</p>
+		<p><b>Cost</b>: 1e73 (10 Tvg), 1e10 (10 B) of each Faction Coin</p>
+		<p><b>Effect</b>: Gives Dragon Tamer Trophy</p>
+		<p><b>Note</b>: Remaining time until next stage never resets, it persists through Abdications, Reincarnations and Ascensions.</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" alt="Smiley face" align="middle"><b> Dragon's Breath</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png align="middle"><b> Dragon's Breath</b></p>
         <p><b>Effect</b>: Activates one of the following effects at random.</p>
         <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
         <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2))%, where x is Faction Coins found in this game.</p>
@@ -75,72 +76,72 @@
         <p><b>Note</b>: Mercenaries in A3 can buy Dragon Upgrades with any Mercenary Upgrade with increased price.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Trade Treaty</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png align="middle"> Dragons Trade Treaty</b></p>
         <p><b>Description</b>: The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.</p>
         <p><b>Requirement</b>: Dragon Tamer Trophy, any Neutral alliance</p>
         <p><b>Cost</b>: 5 B (5e9) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Unlocks Tier 1 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png" alt="Smiley face" align="middle"> Dragonscales</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png align="middle"> Dragonscales</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 5 Uvg (5e66)</p>
         <p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.</p>
         <p><b>Formula</b>: ((1.25 * t) ^ 0.55)%, where t is total amount of time spent as Neutral in minutes (this R).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" alt="Smiley face" align="middle"> Iron Flight</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png align="middle"> Iron Flight</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 50 Uvg (5e67)</p>
         <p><b>Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" alt="Smiley face" align="middle"> Eternal Wisdom</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png align="middle"> Eternal Wisdom</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 500 Uvg (5e68)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
         <p><b>Formula</b>: (2 * (x ^ 1.15))%, where x is Royal Exchange bonus.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsFriendshipPactFactionUpgrade.png align="middle"> Dragons Friendship Pact</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 25 B (2.5e10) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Unlocks Tier 2 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png" alt="Smiley face" align="middle"> Dragonborn</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png align="middle"> Dragonborn</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 50 Dvg (5e70)</p>
         <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
         <p><b>Formula</b>: (0.75 * (x ^ 0.55))%, where x is amount of time spent with Dragons (All game).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" alt="Smiley face" align="middle"> Bountiful Hoard</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png align="middle"> Bountiful Hoard</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 500 Dvg (5e71)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found.</p>
         <p><b>Formula</b>: (5 * (x ^ 1.25))%, where x is amount of artifacts you found.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" alt="Smiley face" align="middle"> Sharp Claws</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png align="middle"> Sharp Claws</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 5 Tvg (5e72)</p>
         <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
         <p><b>Formula</b>: +(1.35 * x ^ 0.35), where x is clicks made in this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Dragons Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png align="middle"> Dragons Alliance</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 65b (6.5e10) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Unlocks Tier 3 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Hunger</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png align="middle"> Ancient Hunger</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 500 Tvg (5e74)</p>
         <p><b>Effect</b>: Increase Maximum Mana based on the amount of Faction Coins found in this game.</p>
         <p><b>Formula</b>: +floor(45 * ln(1 + x) ^ 1.45), where x is amount of FCs found (This Game).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" alt="Smiley face" align="middle"> Imposing Presence</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png align="middle"> Imposing Presence</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 5 Qavg (5e75)</p>
         <p><b>Effect</b>: Increase Mana Regeneration based on the amount of neutral buildings you own.</p>
         <p><b>Formula</b>: +(0.1 * floor(x ^ 0.5)) where x is amount of neutral buildings.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" alt="Smiley face" align="middle"> Chromatic Scales</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png align="middle"> Chromatic Scales</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 50 Qavg (5e76)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects.</p>
@@ -153,13 +154,13 @@
         <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with Dragons (This Reincarnation).</p>
         <hr>
         <p><b>Dragons Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png align="middle"> Wyrm's Den Quest</b></p>
         <p><b>Description</b>: Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
         <p><b>Cost</b>: 100 Tvg (1e74)</p>
         <p><b>Effect</b>: Unlocks Wyrm's Den</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" alt="Smiley face" align="middle"> Wyrm's Den</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png align="middle"> Wyrm's Den</b></p>
         <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (0.065 * (ln(1 + (x / 2) + y)) ^ 3.65) where x is faction coins (This Game) and y is Faction Coins (This R)</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>

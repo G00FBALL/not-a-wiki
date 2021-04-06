@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/GoblinTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Goblin.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>The sly Goblins excel at making the best possible deals and bargains.</p>
         <p>Affiliating yourself with the Goblin faction will offer you economic opportunities and allows you to benefit from larger quantities of everything.</p>
@@ -15,73 +15,73 @@
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsGreed.png" alt="Smiley face" align="middle"> Goblin's Greed</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsGreed.png align="middle"> Goblin's Greed</b></p>
         <p><b>Effect</b>: Instantly produces Faction Coins based on your current gems and provides a boost based on the number of Faction Coins discovered for 5 seconds.</p>
         <p><b>FC Formula</b>: (20 + ln(1 + x) ^ 3), where x is your current gems.</p>
         <p><b>Production Formula</b>: (0.75 * ln(1 + x) ^ 3.15)%, where x is your Faction Coins Gained (This Game) stat.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png" alt="Smiley face" align="middle"> Greed Drive</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveFactionUpgrade.png align="middle"> Greed Drive</b></p>
         <p><b>Requirements</b>: Cast Goblin's Greed 100 times in a row and do not cast any other spell.</p>
         <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
         <p><b>Effect</b>: Goblin's Greed costs 150 less mana.</p>
         <p><b>Note</b>: The Goblin Central Bank upgrade does not interfere with getting this trophy.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsTradeTreaty.png" alt="Smiley face" align="middle"> Goblin Trade Treaty</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsTradeTreaty.png align="middle"> Goblin Trade Treaty</b></p>
         <p><b>Cost</b>: Free at R0 with 0 gems, 20 Goblin Coins afterwords.</p>
         <p><b>Effect</b>: Unlocks Goblin Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrongCurrencyFactionUpgrade.png" alt="Smiley face" align="middle"> Strong Currency</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/StrongCurrencyFactionUpgrade.png align="middle"> Strong Currency</b></p>
         <p><b>Cost</b>: 50 M (5e7)</p>
         <p><b>Effect</b>: Gain assistants additively based on the amount of Faction Coins found in this game.</p>
         <p><b>Formula</b>: +(0.5 * ln(1 + x) ^ 2.5), where x is Faction Coins found this game.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveTradingFactionUpgrade.png" alt="Smiley face" align="middle"> Slave Trading</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveTradingFactionUpgrade.png align="middle"> Slave Trading</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Evil buildings you own.</p>
         <p><b>Formula</b>: (2 * x ^ 0.6)%, where x is the amount of Evil buildings you own</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/CheapMaterialsFactionUpgrade.png" alt="Smiley face" align="middle"> Cheap Materials</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/CheapMaterialsFactionUpgrade.png align="middle"> Cheap Materials</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
         <p><b>Effect</b>: Tax Collection is worth more seconds additively based on the amount of buildings you own.</p>
         <p><b>Formula</b>: +(x ^ 0.5), where x is the amount of buildings you own.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsFriendshipPact.png" alt="Smiley face" align="middle"> Goblin Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsFriendshipPact.png align="middle"> Goblin Friendship Pact</b></p>
         <p><b>Cost</b>: 100 Goblin Coins</p>
         <p><b>Effect</b>: Unlocks more Goblin Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackMarketFactionUpgrade.png" alt="Smiley face" align="middle"> Black Market</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackMarketFactionUpgrade.png align="middle"> Black Market</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
         <p><b>Effect</b>: Production bonus from gems is doubled.</p>
         <p><b>Effect</b>: Also increase offline production bonus based on the amount of Tax Collections cast this game.</p>
         <p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is Tax Collection casts this game.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Economists</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png align="middle"> Goblin Economists</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
         <p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on upgrades purchased.</p>
         <p><b>Formula</b>: (x ^ 0.9)%, where x is upgrades purchased.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png" alt="Smiley face" align="middle"> Hobgoblin Gladiators</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png align="middle"> Hobgoblin Gladiators</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
         <p><b>Effect</b>: Gems and upgrades count 200% more.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsAlliavceFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsAlliavceFactionUpgrade.png align="middle"> Goblin Alliance</b></p>
         <p><b>Cost</b>: 500 Goblin Coins</p>
         <p><b>Effect</b>: Unlocks more Goblin Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinCentralBankFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Central Bank</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinCentralBankFactionUpgrade.png align="middle"> Goblin Central Bank</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
         <p><b>Effect</b>: Whenever you cast a spell, also cast a Tax Collection for free.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png" alt="Smiley face" align="middle"> Fool's Gold</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png align="middle"> Fool's Gold</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Witch Conclaves you own this Reincarnation.</p>
         <p><b>Formula</b>: floor(2 * x^0.6)%, where x is the highest amoutn of Witch Conclaves you own this Reincarnation.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" alt="Smiley face" align="middle"> Green Fingers Discount</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png align="middle"> Green Fingers Discount</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>
         <p><b>Formula</b>: randRange(1,1200)*x, where x is your total coin production per second, including both buildings and assistants.</p>
@@ -93,27 +93,27 @@
         <p><b>Formula</b>: floor(7.5 * log10(1+x))%, where x is the amount of Gems you own.</p>
         <hr>
         <p><b>Goblin Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankQuestFactionUpgrade.png align="middle"> Goblin Bank Quest</b></p>
         <p><b>Description</b>: Hey There! We need a safe place to keep our honestly earned savings. We'll turn those Witch Conclaves into something more... useful, if you build enough of them.</p>
         <p><b>Requirement</b>: R16 + 1750 Witch Conclaves</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankFactionUpgrade.png" alt="Smiley face" align="middle"> Goblin Bank</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankFactionUpgrade.png align="middle"> Goblin Bank</b></p>
         <p>Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Buy "Goblin Banks Quest"</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <p><b>Effect</b>: floor(log10(x+1)^(3.1/(1.1 + 0.1*A)))% where x is your current amount of Coins and A is Ascension.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExchequerFactionUpgrade.png" alt="Smiley face" align="middle"> Exchequer</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExchequerFactionUpgrade.png align="middle"> Exchequer</b></p>
         <p><b>Requirements</b>: All Goblin faction upgrades bought, Goblin Banks</p>
         <p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Goblin coins</p>
         <p><b>Effect</b>: Unlocks the Economics research facility and increases Goblin production by 100000%, plus an additional bonus based on Economics research points.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
         <p><b>Unique Building</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinUniqueBuilding.png align="middle"></p>
         <p>At R16, the Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests.</p>
         <hr>
         <p><b>Ascension 2 - R100+</b></p>

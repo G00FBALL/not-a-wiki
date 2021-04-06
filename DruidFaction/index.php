@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DruidTopPage.png"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Druid.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Druid.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>The wise druids of old were a group of people from all races who strove to maintain world balance with mystical discipline and powerful magic.</p>
         <p>Affiliating yourself with the Druids faction will boost your magic capabilities and reward balancing of all things.</p>

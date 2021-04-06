@@ -978,7 +978,7 @@
 				<div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2021)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
@@ -2250,7 +2250,7 @@
 				<div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2020)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
@@ -3468,7 +3468,7 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2019)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
@@ -4431,7 +4431,7 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2018)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
@@ -5261,7 +5261,7 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2017)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
@@ -5706,7 +5706,7 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">1st Anniversary (May 19 - May 20, 2016)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/1stAnniversary.png" alt="Smiley face" align="middle"> 1st Anniversary</b></p>
+                        <p><b><img src="/realm/Factions/picks/1stAnniversary.png align="middle"> 1st Anniversary</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Cost</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on all the time you spent playing Realm Grinder.</p>
@@ -5716,27 +5716,27 @@
                 <div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2016)</a></b></p>
                     <div class="autohide">
-                        <p><b><img src="/realm/Factions/picks/Aprilfools1.png" alt="Smiley face" align="middle"> Enhanced Production</b></p>
+                        <p><b><img src="/realm/Factions/picks/Aprilfools1.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: Increase the production of all buildings by 1e6%.</p>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools2.png" alt="Smiley face" align="middle"> Enhanced Production Activator</b></p>
+                        <p><b><img src="/realm/Factions/picks/Aprilfools2.png align="middle"> Enhanced Production Activator</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: Activates the upgrade you just bought.</p>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools3.png" alt="Smiley face" align="middle"> Enhanced Production Fix</b></p>
+                        <p><b><img src="/realm/Factions/picks/Aprilfools3.png align="middle"> Enhanced Production Fix</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: Fixes a bug in the Activator that prevented the upgrade from working correctly</p>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools4.png" alt="Smiley face" align="middle"> Enhanced Production Complaint</b></p>
+                        <p><b><img src="/realm/Factions/picks/Aprilfools4.png align="middle"> Enhanced Production Complaint</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: Complain about about the upgrade not working yet, even after the fix.</p>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools5.png" alt="Smiley face" align="middle"> Enhanced Production Report</b></p>
+                        <p><b><img src="/realm/Factions/picks/Aprilfools5.png align="middle"> Enhanced Production Report</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: Report the bug to the Powers That Be and hope it gets fixed before the event is over.</p>
-                        <p><b><img src="/realm/Factions/picks/Aprilfools6.png" alt="Smiley face" align="middle"> Enhanced Production Fooled</b></p>
+                        <p><b><img src="/realm/Factions/picks/Aprilfools6.png align="middle"> Enhanced Production Fooled</b></p>
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect & Notes</b>: The Enhanced Production timer is over! We hope you enjoyed your huge production bonus and hopefully didn't get too greedy. Happy April Fools' Day!</p>

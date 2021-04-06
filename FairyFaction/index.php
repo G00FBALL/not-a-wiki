@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/FairyTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Fairy.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Fairy.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>Fairies focus on the small and common things and make them magically powerful.</p>
         <p>Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
@@ -15,11 +15,11 @@
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png" alt="Smiley face" align="middle"> <b>Fairy Chanting</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChanting.png align="middle"> <b>Fairy Chanting</b></p>
         <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 50,000% for 10 seconds.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Fairy Choir</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirFactionUpgrade.png align="middle"> <b>Fairy Choir</b></p>
         <p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
         <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
         <p><b>Effect</b>: Triples your assistants while Fairy Chanting is active.</p>
@@ -29,55 +29,55 @@
         <p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwords.</p>
         <p><b>Effect</b>: Fairies focus on the small and common things and make them magically powerful. Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" alt="Smiley face" align="middle"> Pixie Dust Fertilizer</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png align="middle"> Pixie Dust Fertilizer</b></p>
         <p><b>Cost</b>: 50 M (5e7)</p>
         <p><b>Effect</b>: Increase the base production of Farms by +98.</p>
         <p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png" alt="Smiley face" align="middle"> Fairy Workers</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png align="middle"> Fairy Workers</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 15,000%.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png" alt="Smiley face" align="middle"> Kind Hearts</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png align="middle"> Kind Hearts</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
         <p><b>Effect</b>: Increases maximum Mana additively based on Good buildings you own.</p>
         <p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of Good buildings you own.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesFriendshipPact.png" alt="Smiley face" align="middle"> Fairy Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairiesFriendshipPact.png align="middle"> Fairy Friendship Pact</b></p>
         <p><b>Cost</b>: 100 Fairy Coins</p>
         <p><b>Effect</b>: Unlocks more Fairy Upgrades</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" alt="Smiley face" align="middle"> Fairy Cuisine</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png align="middle"> Fairy Cuisine</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
         <p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
         <p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png" alt="Smiley face" align="middle"> Golden Pots</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png align="middle"> Golden Pots</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
         <p><b>Effect</b>: Additively increase base clicking reward by 20% of the building production of Farms, Inns and Blacksmiths combined.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" alt="Smiley face" align="middle"> Spellsmith</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png align="middle"> Spellsmith</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
         <p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration additively.</p>
         <p><b>Formula</b>: (x ^ 0.25), where x is the number of Blacksmiths you own.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Fairy Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAllianceFactionUpgrade.png align="middle"> Fairy Alliance</b></p>
         <p><b>Cost</b>: 500 Fairy Coins</p>
         <p><b>Effect</b>: Unlocks more Fairy upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png" alt="Smiley face" align="middle"> Starmetal Alloys</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png align="middle"> Starmetal Alloys</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
         <p><b>Effect</b>: Increase the base production of Blacksmiths by +580.</p>
         <p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/RainbowLinkFactionUpgrade.png" alt="Smiley face" align="middle"> Rainbow Link</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/RainbowLinkFactionUpgrade.png align="middle"> Rainbow Link</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Farms, Inns and Blacksmiths you own.</p>
         <p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the amount of Farms, Inns and Blacksmiths you own.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png" alt="Smiley face" align="middle"> Swarm of Fairies</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png align="middle"> Swarm of Fairies</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
         <p><b>Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
@@ -90,27 +90,27 @@
         <p><b>Fairy Research Requirements</b></p>
         <p>Upon reaching R16, the game advisor tells us that the Vanilla factions have gained tremendous power, and that we should seek them once again.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Enchanted Field Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldQuestFactionUpgrade.png align="middle"> Enchanted Field Quest</b></p>
         <p><b>Description</b>: Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <p><b>Requirements</b>: R16 + 2,250 Farms</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldFactionUpgrade.png" alt="Smiley face" align="middle"> Enchanted Field</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EnchantedFieldFactionUpgrade.png align="middle"> Enchanted Field</b></p>
         <p>Upgrade Farms to Enchanted Fields, boosting their production based on the amount of assistants you own and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (50 * (500 * x) ^ 0.5)%, where x is the amount of assistants you own.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities</p>
         <p><b>Requirements</b>: Buy "Enchanted Field Quest"</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellweaveryFactionUpgrade.png" alt="Smiley face" align="middle"> Spellweavery</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellweaveryFactionUpgrade.png align="middle"> Spellweavery</b></p>
         <p><b>Requirements</b>: All Fairy faction upgrades bought, Enchanted Field</p>
         <p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Fairy Coins</p>
         <p><b>Effect</b>: Unlocks the Spellcraft research facility and increases Fairy production by 100,000%, plus an additional bonus based on Spellcraft research points.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
         <p><b>Unique Building</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/FairyUniqueBuilding.png align="middle"></p>
         <p>At R16, Farms can be upgraded to a Unique Building: Enchanted Fields, which is required for some challenges and research quests.</p>
         <hr>
         <p><b>Ascension 2 - R100+</b></p>

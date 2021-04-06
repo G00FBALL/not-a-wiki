@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/TitanTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Titan.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Titan.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>Titans were an ancient race of giant creatures with godlike powers and millennial knowledge.</p>
         <p>Affiliating yourself with the Titans faction means big numbers: they will boost every aspect of your economy to unimaginable values</p>
@@ -30,13 +30,13 @@
         <p><b>Cost</b>: 1 No (1E30), 25,000 Angel Coins, 25,000 Goblin Coins</p>
         <br/>
         <p><b>Faction Spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/spellLightningStrike.png" alt="Smiley face" align="middle"> <b>Lightning Strike</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/spellLightningStrike.png align="middle"> <b>Lightning Strike</b></p>
         <p><b>Effect</b>: The production of a random building is multiplied by 500% for each Iron Stronghold for 10 seconds.</p>
         <p><b>Effect</b>: Also multiplicatively increase Faction Coins find chance based on amount of Gems owned.</p>
         <p><b>Formula</b>: (10 + log10(1 + x) ^ 2)%, where x is Gems owned.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png" alt="Smiley face" align="middle"> <b>Lightning Storm</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormFactionUpgrade.png align="middle"> <b>Lightning Storm</b></p>
         <p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
         <p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
         <p><b>Effect</b>: Increase Lightning Strike bonus to 750% per Iron Stronghold.</p>
@@ -114,29 +114,29 @@
         <p><b>Effect</b>: Increase Royal Exchanges production bonus by an additional 15% each.</p>
         <hr>
         <p><b>Titan Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Olympian Hall Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsQuestFactionUpgrade.png align="middle"> Olympian Hall Quest</b></p>
         <p><b>Description</b>: Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accommodate the almighty Titans.</p>
         <p><b>Requirement</b>: R22 + 2,000 Halls of Legends.</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsFactionUpgrade.png" alt="Smiley face" align="middle"> Olympian Halls</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsFactionUpgrade.png align="middle"> Olympian Halls</b></p>
         <p>Upgrade Halls of Legend to Olympian Halls, boosting their production based on Royal Exchanges you purchased and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (0.9 * x ^ 0.9)%, where x is Royal Exchanges purchased.</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities (after completing Secrets of the Ancients).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" alt="Smiley face" align="middle"> Key to the Lost City</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png align="middle"> Key to the Lost City</b></p>
         <p><b>Description</b>: Despite being thousands of years old, it's still shiny.</p>
         <p><b>Requirements</b>: Found on the 1,500th excavation, R23+</p>
         <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" alt="Smiley face" align="middle"> Secrets of the Ancients</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png align="middle"> Secrets of the Ancients</b></p>
         <p><b>Requirements</b>: Key To The Lost City artifact, Any Neutral Unique Building.</p>
         <p><b>Cost</b>: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins</p>
         <p><b>Effect</b>: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceFactionUpgrade.png" alt="Smiley face" align="middle"> Ancient Device</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceFactionUpgrade.png align="middle"> Ancient Device</b></p>
         <p><b>Description</b>: This strange device seems to react to the Ancient Races magical capabilities... We may channel its power to increase their research potential!</p>
         <p><b>Type</b>: Quest Artifact and Upgrade</p>
         <p><b>Requirements</b>: Play a Neutral Faction, + 2,000 Excavations, Unique Building.</p>

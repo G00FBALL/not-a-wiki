@@ -48,19 +48,19 @@
                     <p><b>Offline Formula</b>: (0.5 * x ^ 0.5), where x is time spent offline in this game.</p>
                     <br/>
                     <p><b>Dwarf</b></p>
-                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" alt="Smiley face" align="middle"> Overwatch (DN9)</b></p>
+                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png align="middle"> Overwatch (DN9)</b></p>
                     <p><b>Old Effect</b>: Your production is increased by 600% so long as there are mouse movements. Clicking and casting are not considered as movements.</p>
                     <p><b>Old Effect</b>: This bonus falls off by 1% per second, down to 0 while inactive.</p>
                     <p><b>New Effect</b>: Increase the production of all buildings based on the duration of your longest spell.</p>
                     <p><b>Formula</b>: (500 + 35 * x ^ 0.35), where x is the duration of your longest spell.</p>
                     <br/>
                     <p><b>Drow</b></p>
-                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" alt="Smiley face" align="middle"> Underworld Tyranny (DW1)</b></p>
+                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png align="middle"> Underworld Tyranny (DW1)</b></p>
                     <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
                     <p><b>Old Formula</b>: (x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
                     <p><b>New Formula</b>: (0.7 * x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
                     <br/>
-                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" alt="Smiley face" align="middle"> Mana Addicts (DW4)</b></p>
+                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png align="middle"> Mana Addicts (DW4)</b></p>
                     <p><b>Effect</b>: Mana regeneration increases over time.</p>
                     <p><b>Old Formula</b>: (2.5 + 0.25 * x ^ 0.55), where x is your Play Time (This Game) stat in seconds.</p>
                     <p><b>New Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>

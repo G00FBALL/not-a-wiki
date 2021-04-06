@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/UndeadTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Undead.png" alt="Smiley face" align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Undead.png align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>Undeads are resilient and tireless, but most importantly, they can't die.</p>
         <p>Affiliating yourself with the Undead faction will grant you a steady flow of production which increases drastically as time passes.</p>
@@ -15,69 +15,69 @@
         <p>All Vanilla Factions are enabled by default</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/NightTime.png" alt="Smiley face" align="middle"> <b>Night Time</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/NightTime.png align="middle"> <b>Night Time</b></p>
         <p><b>Effect</b>: The production of assistants is increased by 30% per Necropolis you own for 20 seconds.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png" alt="Smiley face" align="middle"> <b>True Night</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightFactionUpgrade.png align="middle"> <b>True Night</b></p>
         <p><b>Requirements</b>: Cast Night Time between 11 pm and 6 am.</p>
         <p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
         <p><b>Effect</b>: Increases Night Time's production of assistants to 40% per Necropolis.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadTradeTreaty.png" alt="Smiley face" align="middle"> Undead Trade Treaty</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadTradeTreaty.png align="middle"> Undead Trade Treaty</b></p>
         <p><b>Cost</b>: 20 Undead Coins</p>
         <p><b>Effect</b>: Unlocks Undead upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheWalkingDeadFactionUpgrade.png" alt="Smiley face" align="middle"> The Walking Dead</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TheWalkingDeadFactionUpgrade.png align="middle"> The Walking Dead</b></p>
         <p><b>Cost</b>: 50 M (5e7)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance additively based on assistants owned.</p>
         <p><b>Formula</b>: +(ln(1 + x) ^ 1.75)%, where x is assistants owned.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" alt="Smiley face" align="middle"> Deadened Muscles</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png align="middle"> Deadened Muscles</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Necropolises you built this Reincarnation.</p>
         <p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the the highest amount of Necropolises you built this R.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png" alt="Smiley face" align="middle"> Death Temples</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png align="middle"> Death Temples</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
         <p><b>Effect</b>: Increase Mana Regeneration additively based on the highest amount of Necropolises you built in this Reincarnation.</p>
         <p><b>Formula</b>: +(x ^ 0.3), where x is the highest amount of Necropolises you built this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadFriendshipPactFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadFriendshipPactFactionUpgrade.png align="middle"> Undead Friendship Pact</b></p>
         <p><b>Cost</b>: 100 Undead Coins</p>
         <p><b>Effect</b>: Unlocks more Undead upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" alt="Smiley face" align="middle"> Unholy Rituals</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png align="middle"> Unholy Rituals</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
         <p><b>Effect</b>: Increase offline production based on time spent being offline in this Reincarnation.</p>
         <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your offline time this Reincarnation in seconds.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" alt="Smiley face" align="middle"> Corpse Supply</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png align="middle"> Corpse Supply</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
         <p><b>Effect</b>: Gain additional assistants based on the highest amount of Necropolises you built this Reincarnation.</p>
         <p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is the highest amount of Necropolises you built this Reincarnation.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" alt="Smiley face" align="middle"> Plagued Buildings</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png align="middle"> Plagued Buildings</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
         <p><b>Formula</b>: (0.6 * x ^ 0.7)%, where x is time spent in seconds this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadAllianceFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadAllianceFactionUpgrade.png align="middle"> Undead Alliance</b></p>
         <p><b>Cost</b>: 500 Undead Coins</p>
         <p><b>Effect</b>: Unlocks more Undead upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" alt="Smiley face" align="middle"> Dead Fields</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png align="middle"> Dead Fields</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
         <p><b>Effect</b>: Buildings count 100% more.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" alt="Smiley face" align="middle"> Tireless Workers</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png align="middle"> Tireless Workers</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: Increase the production of assistants by 1500%.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png" alt="Smiley face" align="middle"> Undead Resilience</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png align="middle"> Undead Resilience</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: Increases offline production based on Mana Regeneration.</p>
         <p><b>Formula</b>: (125 * ln(1 + x) ^ 2.5)%, where x is your Mana Regeneration.</p>
@@ -89,26 +89,26 @@
         <p><b>Formula</b>: +(floor(1 + 1.5 * x^0.5)), where x is your Playtime (This Game) stat in hours.</p>
         <hr>
         <p><b>Undead Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercitiesQuestFactionUpgrade.png" alt="Smiley face" align="middle"> Undercities Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercitiesQuestFactionUpgrade.png align="middle"> Undercities Quest</b></p>
         <p>Hello there. The dead stand ready. Give them a place to rise and live again... Build enough Necropolises, we'll take care of the rest.</p>
         <p><b>Requirement</b>: R16 + 1,750 Necropolises</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercityFactionUpgrade.png" alt="Smiley face" align="middle"> Undercity</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercityFactionUpgrade.png align="middle"> Undercity</b></p>
         <p><b>Description</b>:Upgrade Necropolises To Undercities, boosting their production based on time spent in this game and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (12 * (2.5 * x) ^ 0.75)%, where x is your Playtime (This Game) stat.</p>
         <p><b>Requirements</b>: Buy "Undercities Quest"</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/LaboratoryFactionUpgrade.png" alt="Smiley face" align="middle"> Laboratory</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/LaboratoryFactionUpgrade.png align="middle"> Laboratory</b></p>
         <p><b>Requirements</b>: Undercities and all Undead faction upgrades bought.</p>
         <p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Undead coins</p>
         <p><b>Effect</b>: Unlocks the Alchemy research facility and increases Undead production by 100000%, plus an additional bonus based on Alchemy research points.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
         <p><b>Unique Building</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" alt="Smiley face" align="middle"></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png align="middle"></p>
         <p>Upgraded from Necropolis</p>
         <p>At R16, the Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests.</p>
         <hr>

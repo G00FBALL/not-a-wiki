@@ -1186,7 +1186,7 @@
                     <p><b>New Formula</b>: 2.5 * ln(1 + x) ^ 2.5, where x is mana spent this game.</p>
                     <br/>
                     <p><b>Drow</b>:</p>
-                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" alt="Smiley face" align="middle"> Blade Dance</b></p>
+                    <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png align="middle"> Blade Dance</b></p>
                     <p><b>Cost</b>: 50 Spd (5E55)</p>
                     <p><b>Old Effect</b>: Part of the Combo Strike chain bonus is applied passively.</p>
                     <p><b>Old Formula</b>: x, where x is your current Combo Strike bonus.</p>
