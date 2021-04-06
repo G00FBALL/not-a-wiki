@@ -64,7 +64,7 @@
 					<p>W25,W120,W150,W205,W330</p>
 					<p><b>Note</b>: If Flame of Bondelnar is unlocked, pick E135,W320,W400.</p>
 					<p><b>Note</b>: The build becomes better than U Druidline Goblin build after approximately 2.5 hours spent in this R.</p>
-					<p><b>Note</b>: For R46: At 1e15 (1 Qa) gems swap E200->E290 and excavate Spiky Rough Egg lore artifact (at 1500th excavation) then immediately start Dragon unlock (Read the below section).</p>
+
 				</div>
 			</div>
 		</div>
@@ -125,7 +125,7 @@
 					<p><b>Cost</b>: 1e70 (10 Dvg), 1e9 (1 B) of each Faction Coin</p>
 					<p><b>Effect</b>: Grows Dragon into Elder Dragon</p>
 					<br/>
-					<p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png align="middle"><b> Elder Dragon</b></p>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/ElderDragonFactionUpgrade.png" align="middle"><b> Elder Dragon</b></p>
 					<p><b>Description</b>: The dragon is now mature and has learned the customs of your realm. The only thing that remains is to feed him with a large amount of magical power... increase your maximum mana. Once it is ready, grow your dragon into an elder dragon.</p>
 					<p><b>Requirement</b>: Dragon, 12 hours since purchasing the previous stage, 50000 Max Mana</p>
 					<p><b>Cost</b>: 1e73 (10 Tvg), 1e10 (10 B) of each Faction Coin</p>
@@ -162,6 +162,7 @@
 					<p><b>Notes</b>: Estimated time to 1e70 (10 Dvg) coins: 45 minutes at 1e30 (1 No) Gems without spell tiers.</p>
 				</div>
 			</div>
+			
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R46 - Dragon unlock & spell tiering</b></a>
 				</p>
