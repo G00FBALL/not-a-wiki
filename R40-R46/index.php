@@ -9,7 +9,7 @@
 	<p>Demon spells to Tier 2: 1 day 6 hours and 3 minutes (of their spells activity time in this R)</p>
 	<p>Elf spells to Tier 2: 20 hours and 13 minutes</p>-->
 	<p><b>Note</b>: It is recommended to get at least 1 No (1e30) gems before ending stage 3 of Dragon unlock.</p>
-	<p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible! </p>
+	<p><b>Note</b>: Make sure to get <b>Prismatic Mana</b> trophy and <b>Fortune Teller Machine</b> as soon as possible!</p>
 	<br/>
 	<div class="shlisting">
 		<p><b>Production</b></p>
@@ -162,10 +162,9 @@
 					<p><b>Notes</b>: Estimated time to 1e70 (10 Dvg) coins: 45 minutes at 1e30 (1 No) Gems without spell tiers.</p>
 				</div>
 			</div>
-			
+			<br />
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R46 - Dragon unlock & spell tiering</b></a>
-				</p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R46 - Dragon unlock & spell tiering</a></b></p>
 				<div class="autohide">
 					<p>Dragon unlock is an unskippable 2-day-long wait with nothing of significance to do. Thus, it is recommended that you use this time to tier some spells to a higher tier, which in turn drastically saves time on future tierings in later Reincarnations.</p>
 					<p>Said spells are: Demon spells (all spells that are visible when you join Demon) and Elf spells, which you'll tier to tier 3 and tier 2 respectively according to the optimal tiering plan at the top of the page.</p>
@@ -183,15 +182,14 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Detailed plan for R46 tiering</b></a>
-				</p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Detailed plan for R46 tiering</a></b></p>
 				<div class="autohide">
 					<p><b>Note</b>: Spell tier requirement formula (based on spell activity time this R):</p>
 					<p>(2 / 3) * 0.97 ^ (R - 35) * (0.4 + 0.1 * T) * (1 + T ^ 2) / (1 + 0.1 * U)</p>
 					<p>Where T is the spell tier you're aiming for, U is your additional unlocked tiers from all spells (Tier 1 does not count) and R is your Reincarnation.</p>
-					<p>Click <a target="_blank" href="https://www.desmos.com/calculator/easbpgto2s">here</a> for an online calculator.</p>
-					<p>Click <a target="_blank" href="https://dox4242.github.io/misc/tiers.html">here</a> to see your unlocked tiers.</p>
-					<p>For Additional information, visit  <a target="_blank" href="http://musicfamily.org/realm/Spells/">this page</a> for additional information about spells and spell tiers.</p>
+					<p>Click <b><a target="_blank" href="https://www.desmos.com/calculator/easbpgto2s">here</a></b> for an online calculator.</p>
+					<p>Click <b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">here</a></b> to see your unlocked tiers.</p>
+					<p>For Additional information, visit <b><a target="_blank" href="http://musicfamily.org/realm/Spells/">this page</a></b> for additional information about spells and spell tiers.</p>
 					<br/>
 					<p><b>Step 1:</b> Start with Goblin until Spiky Rough Egg is excavated, then go to step 2. Switch back to Goblin (or Fairy, for stage 3) for completion when necessary.</p>
 					<p><b>Step 2:</b> Run Demon (all spells on autocast) until all of its spells hit tier 2 (requires 1 day, 10 hours and 21 minutes of spell activity time this R).</p>
