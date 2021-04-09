@@ -258,7 +258,7 @@
 				<p><b>Mercenary Template</b>: AR3</p>
 				<p><b>Cost</b>: 100 NoQag (1e152)</p>
 				<p><b>Effect</b>: Increase Royal Exchange bonus based on clicks made in this Reincarnation.</p>
-				<p><b>Formula</b>: <p><b>Formula</b>: +(0.5 * x ^ 0.5)%, where x is clicks made this Reincarnation.</p>
+				<p><b>Formula</b>: +(0.5 * x ^ 0.5)%, where x is clicks made this Reincarnation.</p>
 				<hr>
 				<h6>Djinn</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TheDesireWithin.png" align="middle"> The Desire Within</b></p>

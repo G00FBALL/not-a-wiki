@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DrowTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/Drow.png align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/Drow.png" align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>The Drows believe that any crime can go unpunished if nobody notices you did it. They value and praise perfect executions, and will reward those who plan accordingly.</p>
         <p>The Drow Faction appears in addition to an Evil faction, this enables the player to use all the 2 faction spells and 18 upgrades from both the Evil and Drow factions.</p>
@@ -14,92 +14,92 @@
         <br/>
         <p><b>Unlock Requirements</b>:</p>
         <p>These Requirements can be done in separate game plays.</p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/PassageToTheUnderWorld.png align="middle"><b> Passage to the Underworld</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/PassageToTheUnderWorld.png" align="middle"><b> Passage to the Underworld</b></p>
         <p><b>Requirement</b>: 200 Excavations</p>
         <p><b>Cost</b>: 50Qid (5E49)</p>
         <p><b>Effect</b>: Unlocks Prestige Quests</p>
         <p><b>Note</b>: Only needs to be bought once and do not count towards the 'Bought Upgrades' stats.</p>
         <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/CloakyShadyFigure.png align="middle"><b> Cloaked Shady Figure's Quest</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/CloakyShadyFigure.png" align="middle"><b> Cloaked Shady Figure's Quest</b></p>
         <p><b>Requirement</b>: Play an Evil Alignment and build 650 Dark Temples. Have 325 trophies and, 10,000 spells casts (Total)</p>
         <p><b>Cost</b>: 10Qad (1E46), 10K of each Goblin, Undead and Demon Coins</p>
         <p><b>Effect</b>: Unlocks Underworld Diplomacy</p>
         <p><b>Note</b>: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.</p>
         <br/>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png align="middle"><b> Underworld Diplomacy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png" align="middle"><b> Underworld Diplomacy</b></p>
         <p><b>Cost</b>: 1Qad (1E45)</p>
         <p><b>Requirement</b>: Cloaked Shady Figure's Quest</p>
         <p><b>Effect</b>: Unlocks Prestige Faction Coins, Trade Treaty, Royal Exchanges and Heritage. Required each run until R3</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrike.png align="middle"></a> <b>Combo Strike</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/ComboStrike.png" align="middle"></a> <b>Combo Strike</b></p>
         <p><b>Effect</b>: Increase the production of all buildings. The more spells cast, the more production is increased.</p>
         <p><b>Formula</b>: (30 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
         <p><b>Note</b>: Fixed duration 16 seconds</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboFactionUpgrade.png align="middle"></a> <b>Perfect Combo</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboFactionUpgrade.png" align="middle"></a> <b>Perfect Combo</b></p>
         <p><b>Requirement</b>: Cast Combo Strike 100 times in a single game,The chain is interrupted by casting different spells.</p>
         <p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
         <p><b>Effect</b>: Increases Combo Strike bonus.</p>
         <p><b>Formula</b>: (40 * x ^ 0.9), where x is the number of times you have cast Combo Strike.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png align="middle"> Drow Trade Treaty</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png" align="middle"> Drow Trade Treaty</b></p>
         <p><b>Cost</b>: 3000 Drow Coins</p>
         <p><b>Effect</b>: Unlocks Drow Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png align="middle"> Underworld Tyranny</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny</b></p>
         <p><b>Cost</b>: 5 Qad (5E45)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
         <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png align="middle"> Honor Among Killers</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" align="middle"> Honor Among Killers</b></p>
         <p><b>Cost</b>: 50 Qad (5E46)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.(Additive)</p>
         <p><b>Formula</b>:  +(100 + 0.5 * x ^ 0.5)%, where x is the amount of assistants you own.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png align="middle"> Shadow Advance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" align="middle"> Shadow Advance</b></p>
         <p><b>Cost</b>: 500 Qad (5E47)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Max Mana.</p>
         <p><b>Formula</b>: (2 * log10(1 + x) ^ 2))%, where x is your Max Mana.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowFriendshipPactFactionUpgrade.png align="middle"> Drow Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowFriendshipPactFactionUpgrade.png" align="middle"> Drow Friendship Pact</b></p>
         <p><b>Cost</b>: 12000 Drow Coins</p>
         <p><b>Effect</b>: Unlocks more Drow Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png align="middle"> Mana Addicts</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" align="middle"> Mana Addicts</b></p>
         <p><b>Cost</b>: 50 Qid (5E49)</p>
         <p><b>Effect</b>: Mana regeneration increases over time.</p>
         <p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png align="middle"> Blood Sacrifices</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" align="middle"> Blood Sacrifices</b></p>
         <p><b>Cost</b>: 500 Qid (5E50)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Dark Temples you built in this Reincarnation.</p>
         <p><b>Formula</b>: (3 * x)%, where x is the highest amount of Dark Temples you built this Reincarnation.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png align="middle"> Blackmail</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png" align="middle"> Blackmail</b></p>
         <p><b>Cost</b>: 5 Sxd (5E51)</p>
         <p><b>Effect</b>: Reduce the cost multiplier for Royal Exchanges.</p>
         <p><b>Formula</b>: Reduces Royal Exchange cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.08 instead of 1.1</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowAllianceFactionUpgrade.png align="middle"> Drow Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowAllianceFactionUpgrade.png" align="middle"> Drow Alliance</b></p>
         <p><b>Cost</b>: 30000 Drow Coins</p>
         <p><b>Effect</b>: Unlocks more Drow Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png align="middle"> Spider Gods</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" align="middle"> Spider Gods</b></p>
         <p><b>Cost</b>: 500 Sxd (5E53)</p>
         <p><b>Effect</b>: Mutiplicatively increase assistants based on the amount of buildings you own.</p>
         <p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of buildings you own.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png align="middle"> Professional Assassins</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" align="middle"> Professional Assassins</b></p>
         <p><b>Cost</b>: 5 Spd (5E54)</p>
         <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of Royal Exchanges you made.</p>
         <p><b>Formula</b>: (0.6 * x ^ 0.6)%, where x is Royal Exchanges made.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png align="middle"> Blade Dance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
         <p><b>Cost</b>: 50 Spd (5E55)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
         <p><b>Formula</b>: (30 * x ^ 0.9), where x is Combo Strike casts in this game.</p>
@@ -111,33 +111,33 @@
         <p><b>Formula</b>: (2 * x ^ 0.8), where x is your Royal Exchanges Made stat.</p>
         <hr>
         <p><b>Drow Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryQuestFactionUpgrade.png align="middle"> Spider Sanctuary Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryQuestFactionUpgrade.png" align="middle"> Spider Sanctuary Quest</b></p>
         <p><b>Description</b>: Kivvil. Our Valsharess requires more places to worship the almighty Spider Queen. Build enough Dark Temples, and our priestesses will consecrate them.</p>
         <p><b>Requirement</b>: R28 + 2000 Dark Temples</p>
         <p><b>Cost</b>: 10 Sxg (1E184)</p>
         <p><b>Effect</b>: Unlocks Spider Sanctuary</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryFactionUpgrade.png align="middle"> Spider Sanctuary</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderSanctuaryFactionUpgrade.png" align="middle"> Spider Sanctuary</b></p>
         <p>Upgrade Dark Temples to Spider Sanctuaries, boosting their production based on time spent offline and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Spider Sanctuary Quest</p>
         <p><b>Cost</b>: 10 USxg (1E187)</p>
         <p><b>Effect</b>: Unlocks Drow Unique Buildings.</p>
         <p><b>Formula</b>: (32 * x ^ 0.8), where x is your Time Spent Offline (Total) stat.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png align="middle"> Earth Core Artifact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" align="middle"> Earth Core Artifact</b></p>
         <p><b>Description</b>: This piece of molten rock is continuously shifting its shape, responding to mysterious energy sources.</p>
         <p><b>Effect</b>: Unlocks The Secrets of the Underworld upgrade.</p>
         <p><b>Requirements</b>: R29 + 2750th Excavation</p>
         <p><b>Effect</b>: Unlocks The Secrets of the Underworld.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png align="middle"> Secrets of the Underworld</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" align="middle"> Secrets of the Underworld</b></p>
         <p><b>Requirements</b>: Prestige Unique Building, Earth Core Artifact</p>
         <p><b>Cost</b>: 100 Sxg (1E185), 10 M (1E7) FC of each</p>
         <p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlameofBondelnarFactionUpgrade.png align="middle"> Dark Light of Bondelnar</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/FlameofBondelnarFactionUpgrade.png" align="middle"> Dark Light of Bondelnar</b></p>
         <p><b>Description</b>: The magical azure flame of Bondelnar constantly emanates a silent, yet subtle, evil aura.</p>
         <p><b>Requirement</b>: Find the Flame of Bondelnar artifact (Requires Spider Sanctuaries and 3250 Excavations)</p>
         <p><b>Cost</b>: 10 SxSpg (1E232), 100 M (1e8) Drow Coins</p>

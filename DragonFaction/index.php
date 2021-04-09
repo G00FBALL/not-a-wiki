@@ -5,7 +5,7 @@
 <head>
     <?php include "../scripts/header.html"; ?>
         <h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DragonTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png align="middle"><b> Champion Trophy</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png" align="middle"><b> Champion Trophy</b></p>
         <p><b>In-game description</b></p>
         <p>The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.</p>
         <p>The Dragon Faction appears in addition to a Neutral faction, this enables the player to use all the 2 faction spells and 18 upgrades from both the Neutral and Dragon factions.</p>
@@ -48,7 +48,7 @@
 		<p><b>Note</b>: Remaining time until next stage never resets, it persists through Abdications, Reincarnations and Ascensions.</p>
         <br/>
         <p><b>Faction spell</b></p>
-        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png align="middle"><b> Dragon's Breath</b></p>
+        <p><img src="http://musicfamily.org/realm/Factions/picks/DragonsBreath.png" align="middle"><b> Dragon's Breath</b></p>
         <p><b>Effect</b>: Activates one of the following effects at random.</p>
         <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
         <p><b><font color="darkred">Formula</b></font>: (2 * (ln(1 + X) ^ 2))%, where x is Faction Coins found in this game.</p>
@@ -76,72 +76,72 @@
         <p><b>Note</b>: Mercenaries in A3 can buy Dragon Upgrades with any Mercenary Upgrade with increased price.</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png align="middle"> Dragons Trade Treaty</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png" align="middle"> Dragons Trade Treaty</b></p>
         <p><b>Description</b>: The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.</p>
         <p><b>Requirement</b>: Dragon Tamer Trophy, any Neutral alliance</p>
         <p><b>Cost</b>: 5 B (5e9) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Unlocks Tier 1 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png align="middle"> Dragonscales</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png" align="middle"> Dragonscales</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 5 Uvg (5e66)</p>
         <p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.</p>
         <p><b>Formula</b>: ((1.25 * t) ^ 0.55)%, where t is total amount of time spent as Neutral in minutes (this R).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png align="middle"> Iron Flight</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" align="middle"> Iron Flight</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 50 Uvg (5e67)</p>
         <p><b>Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png align="middle"> Eternal Wisdom</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" align="middle"> Eternal Wisdom</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 500 Uvg (5e68)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
         <p><b>Formula</b>: (2 * (x ^ 1.15))%, where x is Royal Exchange bonus.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsFriendshipPactFactionUpgrade.png align="middle"> Dragons Friendship Pact</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsFriendshipPactFactionUpgrade.png" align="middle"> Dragons Friendship Pact</b></p>
         <p><b>Requirement</b>: Dragons Trade Treaty</p>
         <p><b>Cost</b>: 25 B (2.5e10) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Unlocks Tier 2 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png align="middle"> Dragonborn</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png" align="middle"> Dragonborn</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 50 Dvg (5e70)</p>
         <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
         <p><b>Formula</b>: (0.75 * (x ^ 0.55))%, where x is amount of time spent with Dragons (All game).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png align="middle"> Bountiful Hoard</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" align="middle"> Bountiful Hoard</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 500 Dvg (5e71)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Artifacts you found.</p>
         <p><b>Formula</b>: (5 * (x ^ 1.25))%, where x is amount of artifacts you found.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png align="middle"> Sharp Claws</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" align="middle"> Sharp Claws</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 5 Tvg (5e72)</p>
         <p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
         <p><b>Formula</b>: +(1.35 * x ^ 0.35), where x is clicks made in this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png align="middle"> Dragons Alliance</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonsAllianceFactionUpgrade.png" align="middle"> Dragons Alliance</b></p>
         <p><b>Requirement</b>: Dragons Friendship Pact</p>
         <p><b>Cost</b>: 65b (6.5e10) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Unlocks Tier 3 Upgrades.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png align="middle"> Ancient Hunger</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" align="middle"> Ancient Hunger</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 500 Tvg (5e74)</p>
         <p><b>Effect</b>: Increase Maximum Mana based on the amount of Faction Coins found in this game.</p>
         <p><b>Formula</b>: +floor(45 * ln(1 + x) ^ 1.45), where x is amount of FCs found (This Game).</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png align="middle"> Imposing Presence</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" align="middle"> Imposing Presence</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 5 Qavg (5e75)</p>
         <p><b>Effect</b>: Increase Mana Regeneration based on the amount of neutral buildings you own.</p>
         <p><b>Formula</b>: +(0.1 * floor(x ^ 0.5)) where x is amount of neutral buildings.</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png align="middle"> Chromatic Scales</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" align="middle"> Chromatic Scales</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 50 Qavg (5e76)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of active Dragon's Breath effects.</p>
@@ -154,13 +154,13 @@
         <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with Dragons (This Reincarnation).</p>
         <hr>
         <p><b>Dragons Research Requirements</b></p>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png align="middle"> Wyrm's Den Quest</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" align="middle"> Wyrm's Den Quest</b></p>
         <p><b>Description</b>: Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
         <p><b>Cost</b>: 100 Tvg (1e74)</p>
         <p><b>Effect</b>: Unlocks Wyrm's Den</p>
         <br/>
-        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png align="middle"> Wyrm's Den</b></p>
+        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" align="middle"> Wyrm's Den</b></p>
         <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (0.065 * (ln(1 + (x / 2) + y)) ^ 3.65) where x is faction coins (This Game) and y is Faction Coins (This R)</p>
         <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
