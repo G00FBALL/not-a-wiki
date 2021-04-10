@@ -188,7 +188,7 @@
 					<p>(2 / 3) * 0.97 ^ (R - 35) * (0.4 + 0.1 * T) * (1 + T ^ 2) / (1 + 0.1 * U)</p>
 					<p>Where T is the Spell Tier you're aiming for, U is your additional unlocked tiers from all spells (Tier 1 does not count) and R is your Reincarnation.</p>
 					<p>Click <b><a target="_blank" href="https://www.desmos.com/calculator/easbpgto2s">here</a></b> for an online calculator.</p>
-					<p>Click <b><a target="_blank" href="https://dox4242.github.io/misc/Tiers.html">here</a></b> to see your unlocked Tiers.</p>
+					<p>Click <b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">here</a></b> to see your unlocked Tiers.</p>
 					<p>For Additional information about spells and spell Tiers, visit <b><a target="_blank" href="http://musicfamily.org/realm/Spells/">this page</a></b></p>
 					<br/>
 					<p><b>Step 1:</b> Start with Goblin until Spiky Rough Egg is excavated, then go to step 2. Switch back to Goblin (or Fairy, for stage 3) for completion when necessary.</p>
