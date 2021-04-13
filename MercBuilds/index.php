@@ -32,7 +32,7 @@
 					<p>FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN3,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
 					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Max your excavations count.</p>
-					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices), then swap FC6->DW5 and FR7->UD7.</p>
+					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap FC6->DW5 and FR7->UD7.</p>
 				</div>
 			</div>
         </div>
