@@ -366,6 +366,7 @@
                 <p><b>Notes</b>: Only needs to be run once at some point before A4. Increases combo strike count primarily through DJC1 and Drow challenge reward. <b>DO NOT</b> recast fairy chanting; instead, update its duration by exporting your save and reimporting it. This prevents the DJC1 effect from being reset. Benefits from buffing s5375 and d5625; one strategy is buffing s5375 and d5625 (fairy faction last) at r206 while gaining time for neutral,evil,order, and balance, and running this build for the last day to complete the MCC5 requirement and buff DWP1 simultaneously. Recommended value to aim for is ~300%(?)</p>
             </div>
         </div>
+        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Mana Produced</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
@@ -458,32 +459,6 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R206+ Mana Produced + DM2</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Regulus</p>
-                <p><b>Faction</b>: Evil/Order Mercenary</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>A2950</b>: Fairy</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,AN8,AN12,DM2,GB6,UD7,DD10,DD11,FC3,DN2,DN9,AR12,DJ3,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DW,S200,S400,S5875,C340,C400,C5875,D200,D275,D290,D330,D5625,E135,E145,E5625,A5375,A270,A2950,A30,A120,W275,W400,W1275,W5625,F5250">
-				</p>
-                <p>AN4,AN5,AN8,AN12,DM2,GB6,UD7,DD10,DD11,FC3,DN2,DN9,AR12,DJ3,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:DW,</p>
-                <p>S200,S400,S5875,</p>
-                <p>C340,C400,C5875,</p>
-                <p>D200,D275,D290,D330,D5625,</p>
-                <p>E135,E145,E5625,</p>
-                <p>A5375,A270,A2950,A30,A120,</p>
-                <p>W275,W400,W1275,W5625,</p>
-                <p>F5250</p>
-                <p><b>Notes</b>: Needs some F6000 to be able to afford A researches</p>
-                <p><b>Notes</b>: After buying these researches, get stuff for prod/dj3</p>
-                <p><b>Notes</b>: Reached 3e24(7e24 w/ gem grinder) MM in 30 min, done at 23h F6000</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">High Mana Produced (R219?)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Regulus</p>
@@ -509,6 +484,7 @@
                 <p><b>Notes</b>: Should be able to reach up to 1e26 Max mana</p>
             </div>
         </div>
+        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Excavation Resets</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
@@ -606,6 +582,7 @@
                 <p><b>Notes</b>: At coin cap: DJ7->DJ9, DJ3->DM2, GB4->GB6, S researches->S5875?, F5750->F5250 if you have offline time. If you can still reach cap: Grand balance-> moon blessing</p>
             </div>
         </div>
+        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">F6000 Buff (R182-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
@@ -657,6 +634,140 @@
                 <p><b>Notes</b>: Buy E3300 only when you're ready to abdicate. E3300 tanks the production of the build but massively boosts F6000. Buy any buildings that E3300 provides with the building cost reduction, refresh all spells and then abdicate.</p>
             </div>
         </div>
+        <br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants Buff (R190+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Kabuto44, based on a build by Meirlu</p>
+                <p><b>Requirement</b>: MCC1</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN4,DM2,GB4,DW7,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,S180,C5875,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D5625,E3300,E135,E5125,E400,E495,E145,A2950,A270,A5375,W5625,W1275,W275,W400,W1375,W205,F5250">
+				</p>
+                <p>AN4,DM2,GB4,DW7,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,</p>
+                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,</p>
+                <p>S200,S400,S5875,S180,</p>
+                <p>C5875,C175,C250,C340,C400,</p>
+                <p>D200,D275,D290,D330,D1375,D5625,</p>
+                <p>E3300,E135,E5125,E400,E495,E145,</p>
+                <p>A2950,A270,A5375,</p>
+                <p>W5625,W1275,W275,W400,W1375,W205,</p>
+                <p>F5250</p>
+                <p><b>Notes</b>: After A5375: A30,A120,A305,A250,A1500</p>
+                <p><b>Notes</b>: Recommended F6000 16h? to buy A5375</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants Buff (R198+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Gull</p>
+                <p><b>Requirement</b>: MCC3</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Makers</p>
+                <p><b>A2950</b>: Fairy</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL12,AN4,AN5,UD7,UD10,DD6,FC2,FC3,DN2,DN9,DW7,DW10,DW12,AR2,DJ9,MK6,SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,S30,S5875,C5875,C105,D290,D5625,D55,D25,E135,E400,E5375,E30,E25,A30,A120,A270,A305,A545,A1500,A2950,A250,W180,W275,W400,W1275,W1375,W150,W175,W200,W250,F5250">
+				</p>
+                <p>EL12,AN4,AN5,UD7,UD10,DD6,FC2,FC3,DN2,DN9,DW7,DW10,DW12,AR2,DJ9,MK6,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,</p>
+                <p>S30,S5875,</p>
+                <p>C5875,C105,</p>
+                <p>D290,D5625,D55,D25,</p>
+                <p>E135,E400,E5375,E30,E25,</p>
+                <p>A30,A120,A270,A305,A545,A1500,A2950,A250,</p>
+                <p>W180,W275,W400,W1275,W1375,W150,W175,W200,W250,</p>
+                <p>F5250</p>
+                <p><b>Notes</b>: Run multiple times to buff assistants more. Benefits from f6000  and mana produced. Recast Fairy Chanting to increase DN9.</p>
+            </div>
+        </div>
+        <br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Mana Regen (R202+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Regulus</p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline</b>: Faceless</p>
+                <p><b>A2950</b>: Fairy</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="FR12,GB5,GB6,UD7,DM2,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,S200,S3200,S5625,C250,C340,C400,C590,C5875,D200,D275,D290,D330,D5625,E135,E320,E3300,E5625,A5375,A270,A2950,A30,A120,A545,W1275,W5625,W275,W400,W1375,W205,F5250">
+				</p>
+                <p>FR12,GB5,GB6,UD7,DM2,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,</p>
+                <p>S200,S3200,S5625,</p>
+                <p>C250,C340,C400,C590,C5875,</p>
+                <p>D200,D275,D290,D330,D5625,</p>
+                <p>E135,E320,E3300,E5625,</p>
+                <p>A5375,A270,A2950,A30,A120,A545,</p>
+                <p>W1275,W5625,W275,W400,W1375,W205,</p>
+                <p>F5250</p>
+                <p><b>Notes</b>: Tested after MCC5, with ~6h this R/3h evil</p>
+                <p><b>Notes</b>: buff FR12 (titanline fairy is good enough, but can get a couple OoM more with a specific faceline fairy build (recommend for like 202-206)) and Mana produced, let grow until Catalyst hits Gem Grinder for maximum gains.</p>
+            </div>
+        </div>
+        <br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Clicks (R202+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Miracle Man0</p>
+                <p><b>Requirement</b>: 1e95 (100 Tg) Gems + (the more the better), MCC4</p>
+                <p><b>Faction</b>: Neutral/Order Mercenary</p>
+                <p><b>Bloodline</b>: Djinn</p>
+                <p><b>A2950</b>: Elf</p>
+                <p><b>Artifact Set</b>: Elf</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,DW7,DW12,AR5,AR10,DJ9,MK1,SP:Moon Blessing,SP:Infinite Spiral,UB:Dragon Pasture,UNN:EL,UNN:GB,S180,S200,S400,S5875,C175,C340,C400,C590,C5375,D200,D275,D290,D330,D1375,E145,E320,E5625,A120,A250,A270,A305,A545,A1500,A2950,W175,W180,W275,W400,W1275,W1375,W1400,F5500">
+				</p>
+                <p>EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,DW7,DW12,AR5,AR10,DJ9,MK1,</p>
+                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Dragon Pasture,UNN:EL,UNN:GB,</p>
+                <p>S180,S200,S400,S5875,</p>
+                <p>C175,C340,C400,C590,C5375,</p>
+                <p>D200,D275,D290,D330,D1375,</p>
+                <p>E145,E320,E5625,</p>
+                <p>A120,A250,A270,A305,A545,A1500,A2950,</p>
+                <p>W175,W180,W275,W400,W1275,W1375,W1400,</p>
+                <p>F5500</p>
+                <p><b>Notes</b>: Neutral is used for C5375, order is used for makersline and all other bloodlines. Djinn lineage used for the perk to give autoclicks to LW. Elf A2950 for autoclicks.Once you buy all upgrades, speed of reaching God's Fingers depends on previous buffs which allow you to accumulate faction coins and boost the makerline power. Benefits from buffing max assistants (W275), excavations and resets (IS), max number of labyrinths (FC2), spells cast (S400). Running this at end of R gems is better as you boost DW12, will be able to afford more buildings (DW7), and likely will have boosted TTC4 earlier in the R as well. Since you have archonline, benefits from F6000 buffs, untested, may let you buy A3400, which is probably better than i.e. A545.</p>
+                <p><b>Notes</b>: Tested relatively unbuffed at 4e93 gems, took 100-110 hours to god's fingers, but I spent some time offline and lost LW autoclicks. With buffs I estimate God's Fingers in under 100 hours, perhaps as low as 3.5 days.</p>
+            </div>
+        </div>
+        <br/>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Flesh Workshops and Brothels Buff (R206+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rade</p>
+                <p><b>Faction</b>: Evil/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>A2950</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN4,AN5,GB3,GB6,UD7,UD10,FC3,DN2,DW7,DW8,DW10,DW12,AR2,AR12,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S30,S150,S180,S200,S215,S5125,C25,C105,C340,C400,C5125,D25,D55,D135,D200,D245,D250,D275,D290,D320,D330,D560,D590,D1275,D1375,E30,E80,E135,E230,E400,E5125,A30,A105,A120,A150,A270,A305,A545,A1500,A2950,W180,W275,W400,W5125,F5750">
+				</p>
+                <p>AN4,AN5,GB3,GB6,UD7,UD10,FC3,DN2,DW7,DW8,DW10,DW12,AR2,AR12,DJ7,MK6,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,</p>
+                <p>S30,S150,S180,S200,S215,S5125,</p>
+                <p>C25,C105,C340,C400,C5125,</p>
+                <p>D25,D55,D135,D200,D245,D250,D275,D290,D320,D330,D560,D590,D1275,D1375,</p>
+                <p>E30,E80,E135,E230,E400,E5125,</p>
+                <p>A30,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
+                <p>W180,W275,W400,W5125,</p>
+                <p>F5750</p>
+                <p><b>Notes</b>: For buffing brothels switch Flesh Workshop->Brothel and AN4->FR4</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <p><b>Lineage Builds</b></p>
+    <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Leveler (R180-R193)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
@@ -756,132 +867,6 @@
                 <p>F5500</p>
                 <p><b>Notes</b>: Replace Titan Union with Drow Union if F6000 is less than ~80 hours. EL11 may provide more benefit than whichever is lower between UD10 and DW12. Switch DN9->AR8 if activity time over 8? hours? Optimized for R206+, but can still quickly produce 75+ lineages with MCC3 and no F6000. Level Druid lineage first. May require slight changes for other lineages. Can reach l95 in 1 hour, potentially l96 with the following buffs (try to line up with mcc5/god’s fingers to preserve buffs) Makerline with Elf A2950 may also work well as first.</p>
                 <p><b>Notes</b>: 4 day F6000, buff future linkin with double f6000 if desired. 19 h Fairy time. 5e26 spells. 2.5e39 assistants. 1e8 clicks this R. 0 h d5625 (can buff if desired during mcc5 waiting period). 100 Excavation Resets. Also buff max. Mountain palaces, flesh workshops, labyrinths. Try to buff activity time on spells during waiting period as well to speed up lineage leveling.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants Buff (R190+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Kabuto44, based on a build by Meirlu</p>
-                <p><b>Requirement</b>: MCC1</p>
-                <p><b>Faction</b>: Evil/Order Mercenary</p>
-                <p><b>Bloodline</b>: Fairy</p>
-                <p><b>A2950</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,DM2,GB4,DW7,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,S180,C5875,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D5625,E3300,E135,E5125,E400,E495,E145,A2950,A270,A5375,W5625,W1275,W275,W400,W1375,W205,F5250">
-				</p>
-                <p>AN4,DM2,GB4,DW7,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,</p>
-                <p>SP:Dragon's Breath,SP:Precognition,UB:Flesh Workshop,UNN:AR,</p>
-                <p>S200,S400,S5875,S180,</p>
-                <p>C5875,C175,C250,C340,C400,</p>
-                <p>D200,D275,D290,D330,D1375,D5625,</p>
-                <p>E3300,E135,E5125,E400,E495,E145,</p>
-                <p>A2950,A270,A5375,</p>
-                <p>W5625,W1275,W275,W400,W1375,W205,</p>
-                <p>F5250</p>
-                <p><b>Notes</b>: After A5375: A30,A120,A305,A250,A1500</p>
-                <p><b>Notes</b>: Recommended F6000 16h? to buy A5375</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Assistants Buff (R198+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Gull</p>
-                <p><b>Requirement</b>: MCC3</p>
-                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
-                <p><b>Bloodline</b>: Makers</p>
-                <p><b>A2950</b>: Fairy</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL12,AN4,AN5,UD7,UD10,DD6,FC2,FC3,DN2,DN9,DW7,DW10,DW12,AR2,DJ9,MK6,SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,S30,S5875,C5875,C105,D290,D5625,D55,D25,E135,E400,E5375,E30,E25,A30,A120,A270,A305,A545,A1500,A2950,A250,W180,W275,W400,W1275,W1375,W150,W175,W200,W250,F5250">
-				</p>
-                <p>EL12,AN4,AN5,UD7,UD10,DD6,FC2,FC3,DN2,DN9,DW7,DW10,DW12,AR2,DJ9,MK6,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Dragon Pasture,UNN:DG,UNN:DW,</p>
-                <p>S30,S5875,</p>
-                <p>C5875,C105,</p>
-                <p>D290,D5625,D55,D25,</p>
-                <p>E135,E400,E5375,E30,E25,</p>
-                <p>A30,A120,A270,A305,A545,A1500,A2950,A250,</p>
-                <p>W180,W275,W400,W1275,W1375,W150,W175,W200,W250,</p>
-                <p>F5250</p>
-                <p><b>Notes</b>: Run multiple times to buff assistants more. Benefits from f6000  and mana produced. Recast Fairy Chanting to increase DN9.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Mana Regen (R202+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Regulus</p>
-                <p><b>Faction</b>: Evil/Order Mercenary</p>
-                <p><b>Bloodline</b>: Faceless</p>
-                <p><b>A2950</b>: Fairy</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="FR12,GB5,GB6,UD7,DM2,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,S200,S3200,S5625,C250,C340,C400,C590,C5875,D200,D275,D290,D330,D5625,E135,E320,E3300,E5625,A5375,A270,A2950,A30,A120,A545,W1275,W5625,W275,W400,W1375,W205,F5250">
-				</p>
-                <p>FR12,GB5,GB6,UD7,DM2,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,</p>
-                <p>S200,S3200,S5625,</p>
-                <p>C250,C340,C400,C590,C5875,</p>
-                <p>D200,D275,D290,D330,D5625,</p>
-                <p>E135,E320,E3300,E5625,</p>
-                <p>A5375,A270,A2950,A30,A120,A545,</p>
-                <p>W1275,W5625,W275,W400,W1375,W205,</p>
-                <p>F5250</p>
-                <p><b>Notes</b>: Tested after MCC5, with ~6h this R/3h evil</p>
-                <p><b>Notes</b>: buff FR12 (titanline fairy is good enough, but can get a couple OoM more with a specific faceline fairy build (recommend for like 202-206)) and Mana produced, let grow until Catalyst hits Gem Grinder for maximum gains.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Clicks (R202+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Miracle Man0</p>
-                <p><b>Requirement</b>: 1e95 (100 Tg) Gems + (the more the better), MCC4</p>
-                <p><b>Faction</b>: Neutral/Order Mercenary</p>
-                <p><b>Bloodline</b>: Djinn</p>
-                <p><b>A2950</b>: Elf</p>
-                <p><b>Artifact Set</b>: Elf</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,DW7,DW12,AR5,AR10,DJ9,MK1,SP:Moon Blessing,SP:Infinite Spiral,UB:Dragon Pasture,UNN:EL,UNN:GB,S180,S200,S400,S5875,C175,C340,C400,C590,C5375,D200,D275,D290,D330,D1375,E145,E320,E5625,A120,A250,A270,A305,A545,A1500,A2950,W175,W180,W275,W400,W1275,W1375,W1400,F5500">
-				</p>
-                <p>EL1,EL7,EL11,AN5,AN6,AN12,GB4,GB7,DD3,FC2,DW7,DW12,AR5,AR10,DJ9,MK1,</p>
-                <p>SP:Moon Blessing,SP:Infinite Spiral,UB:Dragon Pasture,UNN:EL,UNN:GB,</p>
-                <p>S180,S200,S400,S5875,</p>
-                <p>C175,C340,C400,C590,C5375,</p>
-                <p>D200,D275,D290,D330,D1375,</p>
-                <p>E145,E320,E5625,</p>
-                <p>A120,A250,A270,A305,A545,A1500,A2950,</p>
-                <p>W175,W180,W275,W400,W1275,W1375,W1400,</p>
-                <p>F5500</p>
-                <p><b>Notes</b>: Neutral is used for C5375, order is used for makersline and all other bloodlines. Djinn lineage used for the perk to give autoclicks to LW. Elf A2950 for autoclicks.Once you buy all upgrades, speed of reaching God's Fingers depends on previous buffs which allow you to accumulate faction coins and boost the makerline power. Benefits from buffing max assistants (W275), excavations and resets (IS), max number of labyrinths (FC2), spells cast (S400). Running this at end of R gems is better as you boost DW12, will be able to afford more buildings (DW7), and likely will have boosted TTC4 earlier in the R as well. Since you have archonline, benefits from F6000 buffs, untested, may let you buy A3400, which is probably better than i.e. A545.</p>
-                <p><b>Notes</b>: Tested relatively unbuffed at 4e93 gems, took 100-110 hours to god's fingers, but I spent some time offline and lost LW autoclicks. With buffs I estimate God's Fingers in under 100 hours, perhaps as low as 3.5 days.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Flesh Workshops and Brothels Buff (R206+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Rade</p>
-                <p><b>Faction</b>: Evil/Balance Mercenary</p>
-                <p><b>Bloodline</b>: Goblin</p>
-                <p><b>A2950</b>: Makers</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,GB3,GB6,UD7,UD10,FC3,DN2,DW7,DW8,DW10,DW12,AR2,AR12,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,S30,S150,S180,S200,S215,S5125,C25,C105,C340,C400,C5125,D25,D55,D135,D200,D245,D250,D275,D290,D320,D330,D560,D590,D1275,D1375,E30,E80,E135,E230,E400,E5125,A30,A105,A120,A150,A270,A305,A545,A1500,A2950,W180,W275,W400,W5125,F5750">
-				</p>
-                <p>AN4,AN5,GB3,GB6,UD7,UD10,FC3,DN2,DW7,DW8,DW10,DW12,AR2,AR12,DJ7,MK6,</p>
-                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:DW,UNN:DG,</p>
-                <p>S30,S150,S180,S200,S215,S5125,</p>
-                <p>C25,C105,C340,C400,C5125,</p>
-                <p>D25,D55,D135,D200,D245,D250,D275,D290,D320,D330,D560,D590,D1275,D1375,</p>
-                <p>E30,E80,E135,E230,E400,E5125,</p>
-                <p>A30,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
-                <p>W180,W275,W400,W5125,</p>
-                <p>F5750</p>
-                <p><b>Notes</b>: For buffing brothels switch Flesh Workshop->Brothel and AN4->FR4</p>
             </div>
         </div>
     </div>
