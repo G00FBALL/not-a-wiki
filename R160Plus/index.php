@@ -11,7 +11,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archonline Goblin (R160-R170)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ?</p>
-                <p><b>Range</b>: 0 - 1e40? (10 Dd) Gems</p>
+                <p><b>Range</b>: 0 - 1e40 (10 Dd) Gems</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Archon</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
@@ -35,7 +35,7 @@
                 <p><b>Range</b>: 1e40 (10 Dd) Gems - 1e45 (1 Qad) Gems</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Archon</p>
-                <p><b>Artifact Set</b>: Dwarf (first run), Fairy (subsequent runs)</p>
+                <p><b>Artifact Set</b>: Dwarf (First run), Fairy (Subsequent runs)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S200,S400,S180,C340,C250,C400,C105,D200,D290,D330,D205,E50,E135,E145,E320,E410,E290,A30,A120,A270,A305,A400,W1375">
@@ -47,8 +47,8 @@
                 <p>A30,A120,A270,A305,A400,</p>
                 <p>W1375</p>
                 <p><b>Additional</b>: S215,S330,S150,D525,E410,A250,A150,W180,W120,W150</p>
-                <p><b>Notes</b>: Relies on LW building up (see DJC1 reward) and boosting spell durations->max mana. Import template at the start and after that import when LW hits spell duration, as Archon bl is buffed. Don't reset Fairy Chanting (see DJC1 reward), instead import/export save to update FC duration (at least once lw hits spell duration)</p>
-                <p><i>For highest gain</i>: target maelstrom on HoL with assistants or faction coins <b>and</b> A low building tier (see DJC1 reward). Have catalyst on GG when LW: spell duration is running, and have DJC4 on maximum mana</p>
+                <p><b>Notes</b>: Reimport build when Limited Wish hits Spell duration. Dont reset Fairy Chanting, instead export/import your save to update the Spell durations.</p>
+                <p><i>Combo for maximum production</i>: Maelstrom on HoL with assistants or Faction Coins. Catalyst on Gem Grinder. Limited Wish on Spell duration. DJC4 on 888% maximum Mana</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -72,7 +72,7 @@
                 <p>E3300,E135,E495,E145,E30,E25,E1,</p>
                 <p>A2950,A30,A120,A270,A305,A545,A250,</p>
                 <p>W135,W205,W275,W400,W1275,W1375,W175,W180</p>
-                <p><b>Notes</b>: Get archonline before importing researches (Reimport frequently to unlock each research as Arcline grows)</p>
+                <p><b>Notes</b>: Get Archonline before importing Researches. Reimport frequently to unlock each Research as Archonline grows.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -98,32 +98,7 @@
                 <p>A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,</p>
                 <p>W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,</p>
                 <p>F5750</p>
-                <p><b>Notes</b>: Swap DN2->DM2, once 1h+ evil time this R. Faster than Short Burn to 190 probably</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Long Spells Short Burn (R180-R190)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Rade</p>
-                <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Evil/Balance Mercenary</p>
-                <p><b>Bloodline</b>: Fairy</p>
-                <p><b>A2950</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Fairy</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN5,GB3,GB4,GB6,UD7,UD10,DM2,DD10,FC3,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,SP:Hellfire Blast,SP:Precognition,UB:Brothel,UNN:DW,S30,S50,S135,S180,S200,S215,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D480,D590,D1275,D1375,E1,E25,E30,E80,E135,E145,E230,E320,E495,E1225,E3300,A10,A25,A30,A55,A120,A135,A150,A175,A250,A270,A305,A1500,A2950,W25,W175,W275,W400,W5125,F5750">
-				</p>
-                <p>AN5,GB3,GB4,GB6,UD7,UD10,DM2,DD10,FC3,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,</p>
-                <p>SP:Hellfire Blast,SP:Precognition,UB:Brothel,UNN:DW,</p>
-                <p>S30,S50,S135,S180,S200,S215,S5125,</p>
-                <p>C25,C80,C175,C250,C340,C5125,</p>
-                <p>D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D480,D590,D1275,D1375,</p>
-                <p>E1,E25,E30,E80,E135,E145,E230,E320,E495,E1225,E3300,</p>
-                <p>A10,A25,A30,A55,A120,A135,A150,A175,A250,A270,A305,A1500,A2950,</p>
-                <p>W25,W175,W275,W400,W5125,</p>
-                <p>F5750</p>
-                <p><b>Notes</b>: This build is only stronger than R180-R190 production if buffed high enough, which likely requires more time than simply continuing to push with the other build. <b>Requires buffing fairy time (15+ minutes) and buffing max ziggurat count and max flesh workshop count</b> (can swap UB to this for during early runs) to non-zero values; reset fairy chanting and precognition periodically to update effects that benefit from spell duration. Grand Balance will eventually outperform hellfire blast if you produce enough mana in the reincarnation, not sure exactly when (7e17 mana this R?). If FC3 is low, it can be swapped out for DN2.If using shorter fairy buff times, experimenting with different sets may produce a better result.</p>
+                <p><b>Notes</b>: Swap DN2->DM2, once you have 1h+ evil time this R.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -290,32 +265,6 @@
                 <p>W180,W275,W400,W5125,</p>
                 <p>F5750</p>
                 <p><b>Notes</b>: Rush build up to ? gems. Swap e5125+e320->e5375, when going for a 20-30+ min run (gems?). Benefits from buffing: F6000,Fairy time (2-12+ hours increasing a bit every R), Max Flesh Workshops, Max Brothels, assistants, mana produced. Recast Fairy Chanting periodically. Remember to max Call to Arms tiers. (Swap DN2 with DM2 with ? hours as Evil.) ? (15hrs as evil doesn’t seem to be enough) Works for production until  A gems(?), after it slows down, maybe use high production build?</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R215(?)+ High Production</a></b><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: PralEternal, Stoic79</p>
-                <p><b>Requirement</b>: MCC5</p>
-                <p><b>Range</b>: 1e140 (100 Qiqag) Gems +</p>
-                <p><b>Faction</b>: Good/Balance Mercenary</p>
-                <p><b>Bloodline</b>: Fairy</p>
-                <p><b>A2950</b>: Makers</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,UD10,DM2,DD10,FC3,DN2,DN9,DW6,DW7,DW8,DW12,AR11,DJ3,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Swarming Tower,UNN:DG,UNN:DW,S30,S150,S180,S200,S215,S250,S330,S400,S1275,S2875,C135,C340,C400,C5125,D25,D55,D200,D205,D275,D290,D320,D330,D480,D525,D590,D1275,D1375,E25,E30,E135,E400,E5375,A30,A150,A250,A270,A305,A545,A1500,A2950,W180,W275,W400,W5125,F5750">
-				</p>
-                <p>AN4,AN5,UD10,DM2,DD10,FC3,DN2,DN9,DW6,DW7,DW8,DW12,AR11,DJ3,DJ7,MK6,</p>
-                <p>SP:Grand Balance,SP:Infinite Spiral,UB:Swarming Tower,UNN:DG,UNN:DW,</p>
-                <p>S30,S150,S180,S200,S215,S250,S330,S400,S1275,S2875,</p>
-                <p>C135,C340,C400,C5125,</p>
-                <p>D25,D55,D200,D205,D275,D290,D320,D330,D480,D525,D590,D1275,D1375,</p>
-                <p>E25,E30,E135,E400,E5375,</p>
-                <p>A30,A150,A250,A270,A305,A545,A1500,A2950,</p>
-                <p>W180,W275,W400,W5125,</p>
-                <p>F5750</p>
-                <p><b>Notes</b>: Needs multiple days of f6000 I think, Buff fairy set (up to a day(?)),F6000,Max assistants (e40+(?)),Max. Flesh workshops and Ziggurats, excavs/resets.</p>
             </div>
         </div>
     </div>
