@@ -874,7 +874,7 @@
     <p><b>Mercenary Challenges</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">MCC1 Unlock</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 1</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kwazygloo (inspired by pizza_troll)</p>
                 <p><b>Faction</b>: Evil/Order Mercenary</p>
@@ -899,7 +899,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">MCC2 Unlock</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 2</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rade (assisted by Teraunce)</p>
                 <p><b>Faction</b>: Good/Chaos Mercenary</p>
@@ -923,7 +923,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">MCC3 Unlock</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 3</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Hagio Daemon</p>
                 <p><b>Requirement</b>: 40k max excavations, that can be gotten around 1e90 gems by using R180 Excavation build</p>
@@ -954,7 +954,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">MCC4 Unlock</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 4</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Meirlu</p>
                 <p><b>Requirement</b>: All lineages level 75</p>
@@ -979,7 +979,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">MCC5 Unlock</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Rade</p>
                 <p><b>Faction</b>: Neutral/Chaos Mercenary</p>
