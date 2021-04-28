@@ -39,7 +39,7 @@
   <script>
     function getGemForm(ascension) {
 		if (ascension == 4) {
-			return 5e18;
+			return 5e26;
 		}
 		if (ascension == 2) {
 			return 5e3;
