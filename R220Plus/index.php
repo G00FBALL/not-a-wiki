@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
+<p><b>General Note</b>: There are certain things that are always beneficial to buff each Reincarnation such as Lightning Strike casts (<b>TTC4</b>), Lightning Strike activity time (<b>TTS2</b>) or Excavation/Resets (<b>DN AH</b>).</p>
 <br/>
-<p><b>Production Build</b></p>
 <div class="shlisting">
+	<p><b>Production Build</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p><b>General Note</b>: There are certain things that are always beneficial to buff such as Titan Challenge 4 (<b>TTC4</b>), Titan Faction time for Titan Set 2nd effect (<b>TTS2</b>) or Excavation/Resets (<b>DN AH</b>).</p>
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Starter</a></b></p>
 			<div class="autohide">
 				<div class="shelementwhole">
@@ -135,7 +135,6 @@
 						<p><b>Bloodline</b>: Demon</p>
 						<p><b>Artifact Set</b>: Titan</p>
 						<p><b>Legacy</b>: Demon Silver</p>
-						<p><b>Relativity Legacy</b>: e13 - 21 (10 T - 1 Sx) Gems - Angel Bronze, e21 (1 Sx)+ Gems - Faceless Silver</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
 							<input type="text" value="S5875,S5625,C5375,C5625,D5625,D5125,E5625,E5875,A5125,A5875,W5875,W5125,F5750,F5500">
@@ -250,8 +249,8 @@
 					<p>A11125,</p>
 					<p>W11625,</p>
 					<p>F11000</p>
-					<p><b>Note</b>: Use S5875 and S5125 if you need more FC</p>
-					<p><b>Note</b>: Buff W11625</p>
+					<p><b>Note</b>: Use S5875 and S5125 if you need more FC.</p>
+					<p><b>Note</b>: Buff W11625.</p>
 				</div>
 			</div>		
 		</div>
