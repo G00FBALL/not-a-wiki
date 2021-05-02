@@ -403,6 +403,11 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="DN2,DM2,FC3,AR2,AN4,AN5,FR4,AR5,DW7,AN8,UD7,DN9,DD10,MK10,AN11,FC11,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,UNN:TT,S200,S5875,S5125,C340,C400,C5625,C5875,C175,D200,D330,D290,D275,D320,D1375,E135,E1425,E5625,E30,A2950,A270,A5375,W1275,W275,W5125,W400,W1375,F6000,F5500">
 				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S400,S2875,S180,C5125,C250,A120,A305,A3400,W3050">
+                    <b>Secondary researches</b>
+				</p>
                 <p>DN2,DM2,FC3,AR2,AN4,AN5,FR4,AR5,DW7,AN8,UD7,DN9,DD10,MK10,AN11,FC11,</p>
                 <p>SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,UNN:TT,</p>
                 <p>S200,S5875,S5125,</p>
@@ -546,6 +551,31 @@
                 <p><b>Notes</b>: For buffing brothels switch Flesh Workshop->Brothel and AN4->FR4</p>
             </div>
         </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ambivalent Fairycry (R206+ Production/Max Neutral Unique Building Buff)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rade</p>
+                <p><b>Requirement</b>: Mercenary Challenge 5</p>
+                <p><b>Faction</b>: Neutral/Balance Mercenary</p>
+                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>A2950</b>: Makers</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN4,AN5,GB3,TT10,FC3,DD6,DN2,UD7,DW7,DW8,DW10,UD10,AR2,AR12,DJ7,MK6,SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DG,UNN:DW,S30,S150,S180,S200,S215,S5125,C25,C340,C400,C5125,D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D400,D480,D1275,D1375,E25,E30,E135,E145,E230,E275,E320,E400,E460,E1225,E1325,E1425,A30,A55,A105,A120,A135,A175,A250A270,A305,A1500,A2950,W180,W275,W400,W5125,F5750">
+				</p>
+                <p>AN4,AN5,GB3,TT10,FC3,DD6,DN2,UD7,DW7,DW8,DW10,UD10,AR2,AR12,DJ7,MK6,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Mountain Palace,UNN:DG,UNN:DW,</p>
+                <p>S30,S150,S180,S200,S215,S5125,</p>
+                <p>C25,C340,C400,C5125,</p>
+                <p>D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D400,D480,D1275,D1375,</p>
+                <p>E25,E30,E135,E145,E230,E275,E320,E400,E460,E1225,E1325,E1425,</p>
+                <p>A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,</p>
+                <p>W180,W275,W400,W5125,</p>
+                <p>F5750</p>
+                <p><b>Notes</b>: Functions similarly to Benevolent Warchant. Recast spells periodically. Can substitute mountain palace for other unique buildings to buff their count after an initial run.</p>
+            </div>
+        </div>
     </div>
     <br/>
     <p><b>Lineage Builds</b></p>
@@ -662,7 +692,7 @@
                 <p><b>Author</b>: Rade (assisted by Teraunce)</p>
                 <p><b>Faction</b>: Good/Chaos Mercenary</p>
                 <p><b>Bloodline</b>: Faceless</p>
-				<p><b>D5875</b>: Djinn</p>
+				<p><b>A2950</b>: Djinn</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
