@@ -5,8 +5,8 @@
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 <br/>
-<p><b>Production Builds</b></p>
 <div class="shlisting">
+	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Elves 0 - 1e50 (100 Qid)</a></b></p>
