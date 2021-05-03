@@ -90,12 +90,12 @@
 						<p>C11375,</p>
 						<p>D5875,D5625,</p>
 						<p>E5625,E5875,</p>
-						<p>A11375,</p>
-						<p>W11375,</p>
+						<p>A11625,</p>
+						<p>W11625,</p>
 						<p>F5500,F5750</p>
 						<p><b>Note</b>: Swap to Titan set if buffed (compare value to Undead Set).</p>
 						<p><b>Note</b>: Use F11500 for longer runs (1h+) if you have 2nd effect on Druid Set unlocked.</p>
-						<p><b>Note</b>: Buff W11625 at least a bit (6 minutes with each faction gives 200%).</p>
+						<p><b>Note</b>: Buff W11625 at least a bit (e.g. 6 minutes with each faction gives 200%).</p>
 					</div>
 				</div>				
 				<div class="shelementwhole">
@@ -116,11 +116,11 @@
 						<p>C11375,</p>
 						<p>D5875,D5625,</p>
 						<p>E5625,E5875,</p>
-						<p>A11375,</p>
-						<p>W11375,</p>
-						<p>F5500,F5750</p>
+						<p>A11625,</p>
+						<p>W11625,</p>
+						<p>F11000</p>
 						<p><b>Note</b>: Swap to Titan set if buffed (compare value to Undead Set).</p>
-						<p><b>Note</b>: Buff W11625 at least a bit (6 minutes with each faction gives 200%).</p>
+						<p><b>Note</b>: Buff W11625 at least a bit (e.g. 6 minutes with each faction gives 200%).</p>
 					</div>
 				</div>	
 			</div>
@@ -237,7 +237,65 @@
 					<p><b>Faction</b>: Titan</p>
 					<p><b>Bloodline</b>: Elf</p>
 					<p><b>Artifact Set</b>: Titan</p>
-					<p><b>Legacy</b>:</br>- e29 (100 Oc) Gems+: Faceless Gold, Elf Silver</br>-e31 ( 10 No) Gems+: Faceless Gold, Elf Silver, Elf Gold</br>-e35 (100 Dc) Gems+: Faceless Gold, Elf Gold, Elf Silver</br>-e38 (100 Ud) Gems+: Faceless Gold, Elf Silver, Elf Diamond</br>-e40 ( 10 Dd) Gems+: Faceless Gold, Angel Diamond, Elf Silver, Elf Diamond</br>-e42 (  1 Td) Gems+: Faceless Gold, Elf Gold/Demon Diamond, Elf Diamond, Elf Silver</p>
+					<p><b>Legacy</b>:</br>
+					<a id="Legacy"></a>
+						<table class="numtable">
+							<thead>
+							  <tr>
+								  <th>Gems+</th>
+								  <th>1st</th>
+								  <th>2nd</th>
+								  <th>3rd</th>
+								  <th>4th</th>
+							  </tr>
+							  </thead>
+							  <tbody>
+							  <tr>
+								  <td>e29|100 Oc</td>
+								  <td>FC Gold</td>
+								  <td>EL Silver</td>
+								  <td></td>
+								  <td></td>
+							  </tr>
+							  <tr>
+								  <td>e31|10 No</td>
+								  <td>FC Gold</td>
+								  <td>EL Silver</td>
+								  <td>EL Gold</td>
+								  <td></td>
+							  </tr>
+							  <tr>
+								  <td>e35|100 Dc</td>
+								  <td>FC Gold</td>
+								  <td>EL Gold</td>
+								  <td>EL Silver</td>
+								  <td></td>
+							  </tr>
+							  <tr>
+
+								  <td>e38|100 Ud</td>
+								  <td>FC Gold</td>
+								  <td>EL Silver</td>
+								  <td>EL Diamond</td>
+								  <td></td>
+							  </tr>
+							  <tr>
+								  <td>e40|10 Dd</td>
+								  <td>FC Gold</td>
+								  <td>AN Diamond</td>
+								  <td>EL Silver</td>
+								  <td>EL Diamond</td>
+							  </tr>
+							  <tr>
+								  <td>e42|1 Td</td>
+								  <td>FC Gold</td>
+								  <td>EL Gold/DM Diamond</td>
+								  <td>EL Diamond</td>
+								  <td>EL Silver</td>
+							  </tr>
+							</tbody>
+						</table>
+					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
 						<input type="text" value="S11375,C5375,C5875,D5625,D5125,E5625,E5875,A11125,W11625,F11000">
