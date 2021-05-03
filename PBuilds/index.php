@@ -5,11 +5,12 @@
 <?php include "../scripts/header.html"; ?>
 	<h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Prestige Research" align="middle"></h6>
 	<br/>
-	<p><b>Note</b>: Factions order is Angels > Dwangels(no researches) > Dwairies Research > Dwangels Research(R36-39)</p>
+	<p><b>Before Reincarnation 30</b>: Make absolutely sure the Prestige Unique Building is unlocked and the <b><font color="Red">SECRET OF THE UNDERWORLD</font></b> quest is bought before reincarnating to R30.</p>
+	<p><b>Note</b>: Factions order is Angel > Mercenary > Fairy/Dwarf Research > Angel/Dwarf Research(R36-39)</p>
 	<div class="shlisting">
 		<div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Enchanted Field-Dwairies R30-39</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Enchanted Field-Fairy R30-39</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Fairy/Dwarf</p>
@@ -28,7 +29,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Dwarven Forge-Dwairies R30-39</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Dwarven Forge-Fairy R30-39</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Fairy/Dwarf</p>
@@ -60,7 +61,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Inn-Dwairies R34-39</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Inn-Fairy R34-39</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Fairy/Dwarf</p>
@@ -103,12 +104,12 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Heaven's Domain-Dwangel R36-39 (Short term version)</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Heaven's Domain-Angel R36-39 (Initial variant)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Angel/Dwarf</p>
 					<p><b>Bloodline</b>: Druid</p>
-					<p><b>Requirement</b>: Dwarven Horn (Horn of the Kings artifact)</p>
+					<p><b>Requirement</b>: Dwarven Horn (Horn of the Kings artifact), 1+ hour angel playtime in this R</p>
 					<p><b>Duration</b>: 15+ minutes</p>			
 					<p><b>Range</b>: 1e132 (1 Tqag) Gems - 1e144 (1 Spqag) Gems</p>
 					<p>
@@ -138,7 +139,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Heaven's Domain-Dwangel R36-39 (Long term Version)</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Heaven's Domain-Angel R36-39 (Ascension variant)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Angel/Dwarf</p>
@@ -166,9 +167,9 @@
 					<p>E145,E150,E200,E330,E410,</p>
 					<p>A105,A150,A330,A400,A495,</p>
 					<p>W150,W225,W290,W320,W330</p>
-					<p><b>Note</b>: The build grows stronger as you spend more time as Angel. This version becomes better than the previous version after approximately 1 hour spent as Angel in this R.</p>
+					<p><b>Note</b>: The build grows stronger as you spend more time as Angel. <b>This variant only becomes better than the previousinitial variant after 1 hour spent as Angel in this R.</b></p>
 					<p><b>Note</b>: This is a grower build, meaning that the build will benefit more from longer (15 minutes or more) runs instead of shorter (2-5 minutes) runs.</p>	
-					<p><b>Note</b>: It's heavily recommended that you have Dwarven Horn before running this build (and ascending).</p>
+					<p><b>Note</b>: It's heavily recommended that you have Dwarven Horn before running this build (and before ascending).</p>
 					<p><b>Note</b>: Swap A400 with A545 if you don't have A400 (requires 2 days as Druids).</p>
 					<p><b>Note</b>: Swap E145 with E290 for maximizing excavations.</p>			
 				</div>
@@ -198,20 +199,21 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Droblet of Fire (Flame of Bondelnar) (R32+)</a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: Lapare modified by Cyden</p>
+					<p><b>Author</b>: Kuerti</p>
 					<p><b>Faction</b>: Goblin/Drow</p>
 					<p><b>Bloodline</b>: Titan</p>
-					<p><b>Range</b>: 1e130 (10 Dqag) Gems</p>
+					<p><b>Requirement</b>: 1e130 (10 Dqag)+ Gems</p>
+					<p><b>Range</b>: Reincarnation Gems+</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S215,S250,S330,S500,C120,C135,C150,C400,C500,D55,D245,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A150,A330,W150,W180,W290,W320,W330">
+						<input type="text" value="S50,S150,S215,S330,S500,C120,C150,C400,C460,C500,D55,D200,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A150,A410,W25,W120,W150,W320,W330">
 					</p>
-					<p>S135,S215,S250,S330,S500,</p>
+					<p>C120,C150,C400,C460,C500,</p>
 					<p>C120,C135,C150,C400,C500,</p>
-					<p>D55,D245,D250,D290,D320,</p>
+					<p>D55,D200,D250,D290,D320,</p>
 					<p>E80,E150,E225,E290,E330,</p>
-					<p>A10,A105,A120,A150,A330,</p>
-					<p>W150,W180,W290,W320,W330</p>
+					<p>A10,A105,A120,A150,A410,</p>
+					<p>W25,W120,W150,W320,W330</p>
 				</div>
 			</div>
 		</div>
