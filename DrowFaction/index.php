@@ -173,7 +173,7 @@
         <p><b>Unique Building</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
         <p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
-        <p><b>Formula</b>: (10 * x ^ 1.05), where x is royal exchanges this game</p>
+        <p><b>Formula</b>: (10 * x ^ 1.05)%, where x is Royal Exchanges purchased this game.</p>
         <p><b>Effect</b>: Grants access to Faction Union.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"><b> Drow Union</b></p>
@@ -181,26 +181,26 @@
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><b>Other Effects</b></p>
-        <p><b>Proof of Order</b>: Increase offline bonus based on max mana.</p>
-        <p><b>Formula</b>: (0.1 * x ^ 0.85), where x is max mana</p>
+        <p><b>Proof of Order</b>: Increase offline bonus based on Maximum Mana.</p>
+        <p><b>Formula</b>: (0.1 * x ^ 0.85)%, where x is your Maximum Mana.</p>
         <br/>
-        <p><b>Proof of Balance</b>: Multiplicatively Increase max mana based on Tax Collections cast this game.</p>
-        <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7), where x is Tax Collections cast this game.</p>
+        <p><b>Proof of Balance</b>: Multiplicatively Increase Maximum Mana based on Tax Collections cast this game.</p>
+        <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7)%, where x is Tax Collections cast this game.</p>
         <br/>
         <p><b>Proof of Chaos</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
-        <p><b>Production Formula</b>: (8 * x ^ 0.8), where x is time offline this R</p>
-        <p><b>Chosen Building Tier Formula</b>: (1 + floor(x % 11)), where x is building amount</p>
+        <p><b>Production Formula</b>: (8 * x ^ 0.8)%, where x is time offline this Reincarnation.</p>
+        <p><b>Chosen Building Tier Formula</b>: (1 + x % 11), where x is total building count this game (unaffected by count more upgrades).</p>
         <br/>
         <p><b>Union Upgrades</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SpiderClericsUnionUpgrade1.png" align="middle"><b> Spider Clerics</b></p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of Brothels you built in this Reincarnation (Additive).</p>
-        <p><b>Formula</b>: (1.75 * x ^ 0.75), where x is Brothels</p>
+        <p><b>Formula</b>: +(1.75 * x ^ 0.75)%, where x is the amount of Brothels you own.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/AncillaeObscureUnionUpgrade2.png" align="middle"><b> Ancillae Obscurae</b></p>
         <p><b>Cost</b>: 100 Qitg (1e110)</p>
         <p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
-        <p><b>Formula</b>: (50 * x ^ 0.5), where x is amount of Unique Buildings.</p>
+        <p><b>Formula</b>: (50 * x ^ 0.5)%, where x is amount of Unique Buildings.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/CrystalServantsUnionUpgrade3.png" align="middle"><b> Crystal Servants</b></p>
         <p><b>Cost</b>: 1 Notg (1e120)</p>

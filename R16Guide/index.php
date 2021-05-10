@@ -52,7 +52,7 @@ Also, I'd recommend using the following faction-bloodline combinations to unlock
 <p><b>Step 1</b>: Unlocking Unique Buildings and Research Facilities</p>
 <p><b>1.1</b>: Unlock the Fairy unique building and the Spellcraft research facility. (use Fairy/Elf Bloodline)</p>
 <p><b>Requirements</b></p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png align="middle"> Enchanted Field Quest</b></p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png" align="middle"> Enchanted Field Quest</b></p>
 <p><b>Requirement</b>: Fairy, R16+, 2250 Farms</p>
 <p><b>Cost</b>: 10 Dtg (1E100)</p>
 <p><b>Effect</b>: Unlocks Enchanted Field</p>

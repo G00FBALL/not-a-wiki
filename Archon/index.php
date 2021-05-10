@@ -23,7 +23,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnUntimelyDeath.png" align="middle"> An Untimely Death</b></p>
         <p>"A glorious victory! May we reap the rewards of war with new undead adversaries to join our quest."</p>
         <p><b>Requirements</b>: Undead as Base Faction, Archon as Elite Faction, Reincarnation 139+, Archon Bloodline active, Archon challenge 1 completed.</p>
-        <p><b>Challenge</b>: Have an Offline Bonus of at least 300 No (3e32)% while also having at least (100 B) 1e11 assistants.</p>
+        <p><b>Challenge</b>: Have an Offline Bonus of at least 10 Sp (1e25)% while also having at least (100 B) 1e11 assistants.</p>
         <p><b>Effect</b>: Multiplicatively increase assistants based on Offline Bonus.</p>
         <p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is offline bonus multiplier</p>
         <p><b>Effect</b>: Temporal Flux also increases Offline Bonus. (Same Formula as production bonus)</p>

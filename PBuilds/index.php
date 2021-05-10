@@ -109,7 +109,7 @@
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Angel/Dwarf</p>
 					<p><b>Bloodline</b>: Druid</p>
-					<p><b>Requirement</b>: Dwarven Horn (Horn of the Kings artifact), 1+ hour angel playtime in this R</p>
+					<p><b>Requirement</b>: Dwarven Horn (Horn of the Kings artifact)</p>
 					<p><b>Duration</b>: 15+ minutes</p>			
 					<p><b>Range</b>: 1e132 (1 Tqag) Gems - 1e144 (1 Spqag) Gems</p>
 					<p>
@@ -144,7 +144,7 @@
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Angel/Dwarf</p>
 					<p><b>Bloodline</b>: Druid</p>
-					<p><b>Requirement</b>: Dwarven Horn (Horn of the Kings artifact)</p>
+					<p><b>Requirement</b>: Dwarven Horn (Horn of the Kings artifact), 1+ hour angel playtime in this R</p>
 					<p><b>Duration</b>: 15+ minutes</p>			
 					<p><b>Range</b>: 1e132 (1 Tqag) Gems - 1e144 (1 Spqag) Gems</p>
 					<p>
@@ -208,8 +208,8 @@
 						<button onclick="myFunction($(this))">Copy Build</button>
 						<input type="text" value="S50,S150,S215,S330,S500,C120,C150,C400,C460,C500,D55,D200,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A150,A410,W25,W120,W150,W320,W330">
 					</p>
+					<p>S50,S150,S215,S330,S500,</p>
 					<p>C120,C150,C400,C460,C500,</p>
-					<p>C120,C135,C150,C400,C500,</p>
 					<p>D55,D200,D250,D290,D320,</p>
 					<p>E80,E150,E225,E290,E330,</p>
 					<p>A10,A105,A120,A150,A410,</p>

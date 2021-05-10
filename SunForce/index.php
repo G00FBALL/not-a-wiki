@@ -19,6 +19,7 @@
 <p><b>Requirement</b>: R16+, Excavate between 6:00pm and 9:00pm (Local Time)</p>
 <p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
 <h6>Sun Force</h6>
+<p><b>Upgrade Cost</b>: 1 Notg (1e120) Coins, A1+ free</p>
 <p><b>Note</b>: All times are based on UTC time.</p>
 <p><b>Note</b>: Current
 <a style="text-decoration: none" class="clock24" id="tz24-1509892643-tzutc-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9">UTC Time</a>
@@ -46,5 +47,5 @@
 <p><b>Chance</b>: ((x ^ 2.5) / 5000)%, where x is amount of consecutive days logged in.</p>
 <p><b>Effect</b>: Gives upgrade with the same name</p>
 <p><b>Upgrade Effect</b>: Activates all Sun Force effects at once.</p>
-<p><b>Upgrade Cost</b>: 100 Qi (1e20)</p>
+<p><b>Upgrade Cost</b>: 100 Qi (1e20) Coins, A3+ free</p>
 <?php include "../scripts/footer.html"; ?>
