@@ -15,7 +15,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R220-224) 0 - 1e15 (1 Qa)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Author</b>: BetaTester</p>
 						<p><b>Range</b>: 0 - 1e15 (1 Qa) Gems</p>
 						<p><b>Faction</b>: Druid</p>
 						<p><b>Bloodline</b>: Demon</p>
@@ -44,7 +44,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R225-226) 0 - 1e16 (1 Qa)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Author</b>: BetaTester</p>
 						<p><b>Range</b>: 0 - 1e15 (1 Qa) Gems</p>
 						<p><b>Faction</b>: Druid</p>
 						<p><b>Bloodline</b>: Demon</p>
@@ -72,7 +72,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R227) 0 - 1e16 (1 Qa)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Author</b>: BetaTester</p>
 						<p><b>Range</b>: 0 - 1e15 (1 Qa) Gems</p>
 						<p><b>Faction</b>: Druid</p>
 						<p><b>Bloodline</b>: Demon</p>
@@ -101,7 +101,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R228+) 1e13 (10 T)+</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Author</b>: BetaTester</p>
 						<p><b>Range</b>: 1e13 (10 T) Gems+</p>
 						<p><b>Faction</b>: Druid</p>
 						<p><b>Bloodline</b>: Demon</p>
@@ -118,7 +118,7 @@
 						<p>E5625,E5875,</p>
 						<p>A11625,</p>
 						<p>W11625,</p>
-						<p>F11000</p>
+						<p>F11750</p>
 						<p><b>Note</b>: Swap to Titan set if buffed (compare value to Undead Set).</p>
 						<p><b>Note</b>: Buff W11625 at least a bit (e.g. 6 minutes with each faction gives 200%).</p>
 					</div>
@@ -129,7 +129,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titan (R220-224) 1e15 - 1e28 (10 T - 10 Oc)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Author</b>: BetaTester</p>
 						<p><b>Range</b>: 1e15 - 1e28 (10 T - 10 Oc) Gems</p>
 						<p><b>Faction</b>: Titan</p>
 						<p><b>Bloodline</b>: Demon</p>
@@ -165,7 +165,7 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titan (R225+) 1e15 - 1e28 (10 T - 10 Oc)</a></b></p>
 					<div class="autohide">
-						<p><b>Author</b>: Ensteffahn</p>
+						<p><b>Author</b>: BetaTester</p>
 						<p><b>Range</b>: 1e15 - 1e28 (10 T - 10 Oc) Gems</p>
 						<p><b>Faction</b>: Titan</p>
 						<p><b>Bloodline</b>: Demon</p>
@@ -232,7 +232,7 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titan 1e29 (100 Oc)+</a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: Ensteffahn</p>
+					<p><b>Author</b>: Osa32</p>
 					<p><b>Range</b>: 1e29 (100 Oc) Gems+</p>
 					<p><b>Faction</b>: Titan</p>
 					<p><b>Bloodline</b>: Elf</p>
