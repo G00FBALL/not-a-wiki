@@ -806,7 +806,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2021 Events</a></b></p>
             <div class="category autohide">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">6th Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">6th Anniversary - Blood War (May 17 - May 21, 2021)</a></b></p>
                     <div class="autohide">
 						<p>The Blood War event will be starting on <b>May 17th 2021, 12:01 PM UTC</b> and will end on <b>May 21st 2021, 6:59 PM UTC</b>.</p>
                         <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
