@@ -19,8 +19,8 @@
         </p>
 		<script>
 			var currentTime = new Date().getTime();
-			var countDownDate1 = new Date("April 2, 2021 12:01:00 UTC").getTime();
-			var countDownDate2 = new Date("April 9, 2021 18:59:00 UTC").getTime();
+			var countDownDate1 = new Date("May 17, 2021 12:01:00 UTC").getTime();
+			var countDownDate2 = new Date("May 21, 2021 18:59:00 UTC").getTime();
 			var x = setInterval(function() {
 				var now = new Date().getTime();
 				var distance = countDownDate1 - now;
@@ -61,7 +61,7 @@
                     <tr>
                         <th>Rubies</th>
                         <th colspan="1">Event</th>
-                        <th colspan="7">Total Cumulative Bonus 375%</th>
+                        <th colspan="7">Total Cumulative Bonus 383%</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -108,7 +108,7 @@
                             <td>&#10004;</td>
                             <td>&#10004;</td>
                             <td>&#10004;</td>
-							<td></td>
+							<td>&#10004;</td>
                         </tr>
                         <tr>
                             <td>0</td>
@@ -119,7 +119,7 @@
                             <td>8%</td>
                             <td>8%</td>
                             <td>8%</td>
-							<td></td>
+							<td>8%</td>
                         </tr>
                         <tr>
                             <td>0</td>
@@ -418,7 +418,7 @@
 					<p><b>Requirement</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-					<p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
+					<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2.5)%, where x is clicks made all time.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="3,243,56,296" shape="rect">
 					<area research="
@@ -524,9 +524,9 @@
 					<p><b>Anniversary - Blood War</b></p>
 					<p><b><img src='/realm/Factions/picks/WorldRestoration.png' align='middle'> World Restoration</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
+					<p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-					<p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation .</p>
+					<p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
 					<p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="63,363,116,416" shape="rect">
@@ -534,103 +534,112 @@
 					<p><b>Anniversary - Blood War</b></p>
 					<p><b><img src='/realm/Factions/picks/EternalBattle.png' align='middle'> Eternal Battle</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="123,363,176,416" shape="rect">
+					<area research="
+					<p><b>Anniversary - Blood War</b></p>
+					<p><b><img src='/realm/Factions/picks/FrenziedArmy2021.png' align='middle'> Frenzied Army</b></p>
+					<p><b>Type</b>: Feat</p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Effect</b>: Increase assistants by 10%.</p>					
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					" coords="183,363,236,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
 					<p><b><img src='/realm/Factions/picks/GoblinsBane2017.png' align='middle'> Goblins Bane</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Fight the Goblin Army 100 times.</p>
-					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-					" coords="183,363,236,416" shape="rect">
-					<area research="
-					<p><b>Goblin Invasion</b></p>
-					<p><b><img src='/realm/Factions/picks/GoblinsCommander2017.png' align='middle'> Goblin's Commander</b></p>
-					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Support the Goblin Army 100 times.</p>
+					<p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="243,363,296,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
-					<p><b><img src='/realm/Factions/picks/GoblinsEverywhere!2017.png' align='middle'> Goblins Everywhere!</b></p>
+					<p><b><img src='/realm/Factions/picks/GoblinsCommander2017.png' align='middle'> Goblin's Commander</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
+					<p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="303,363,356,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
-					<p><b><img src='/realm/Factions/picks/GoldHunt2018.png' align='middle'> Gold Hunt</b></p>
+					<p><b><img src='/realm/Factions/picks/GoblinsEverywhere!2017.png' align='middle'> Goblins Everywhere!</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
-					<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
+					<p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="363,363,416,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
+					<p><b><img src='/realm/Factions/picks/GoldHunt2018.png' align='middle'> Gold Hunt</b></p>
+					<p><b>Type</b>: Feat</p>
+					<p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+					<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarf counts as Dwarf for feat purposes.</p>
+					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+					" coords="3,423,56,476" shape="rect">
+					<area research="
+					<p><b>Goblin Invasion</b></p>
 					<p><b><img src='/realm/Factions/picks/TheUndecidedArmada.png' align='middle'> The Undecided Armada</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
+					<p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
 					<p><b>Note</b>:  If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
                     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-					" coords="3,423,56,476" shape="rect">
+					" coords="63,423,116,476" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
 					<p><b><img src='/realm/Factions/picks/PlatinumTrophy.png' align='middle'> <b>Platinum Trophy</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
+					<p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-					" coords="63,423,116,476" shape="rect">
+					" coords="123,423,176,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
 					<p><b><img src='/realm/Factions/picks/GentleCollector.png' align='middle'> <b>Gentle Collector</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
-					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-					" coords="123,423,176,476" shape="rect">
-					<area research="
-					<p><b>Idillium</b></p>
-					<p><b><img src='/realm/Factions/picks/AggressiveCollector.png' align='middle'> Aggressive Collector</b></p>
-					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
+					<p><b>Requirement</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="183,423,236,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
-					<p><b><img src='/realm/Factions/picks/GoldenAge.png' align='middle'> Golden Age</b></p>
+					<p><b><img src='/realm/Factions/picks/AggressiveCollector.png' align='middle'> Aggressive Collector</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
+					<p><b>Requirement</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="243,423,296,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
-					<p><b><img src='/realm/Factions/picks/OrderRestoration.png' align='middle'> Order Restoration</b></p>
+					<p><b><img src='/realm/Factions/picks/GoldenAge.png' align='middle'> Golden Age</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
+					<p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="303,423,356,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
-					<p><b><img src='/realm/Factions/picks/ChaosRestoration.png' align='middle'> Chaos Restoration</b></p>
+					<p><b><img src='/realm/Factions/picks/OrderRestoration.png' align='middle'> Order Restoration</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
+					<p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="363,423,416,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
-					<p><b><img src='/realm/Factions/picks/BalanceRestoration.png' align='middle'> Balance Restoration</b></p>
+					<p><b><img src='/realm/Factions/picks/ChaosRestoration.png' align='middle'> Chaos Restoration</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
+					<p><b>Requirement</b>: Upgrade Chaos Remnant to Level 15.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="3,483,56,536" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
+					<p><b><img src='/realm/Factions/picks/BalanceRestoration.png' align='middle'> Balance Restoration</b></p>
+					<p><b>Type</b>: Feat</p>
+					<p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
+					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+					" coords="63,483,116,536" shape="rect">
+					<area research="
+					<p><b>Idillium</b></p>
 					<p><b><img src='/realm/Factions/picks/BalancedCollector.png' align='middle'> Balanced Collector</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Requirements</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
+					<p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-					" coords="63,483,116,536" shape="rect">
+					" coords="123,483,176,536" shape="rect">
                 </map>
             </p>
         </center>
@@ -768,17 +777,20 @@
 					<p><b><img src="/realm/Factions/picks/RottenEgg2021.png" align="middle"> Rotten Egg (Easter)</b></p>
                     <p><b>Effect</b>: Increase offline production by 100%.</p>
                     <br/>
-                    <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada (Goblin Invasion)</b></p>
-                    <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
-                    <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
-                    <br/>
-                    <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration (Blood War)</b></p>
+                    <p><b><img src="/realm/Factions/picks/WorldRestoration.png" align="middle"> World Restoration (Blood War)</b></p>
                     <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
                     <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
                     <br/>
-                    <p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter (Summer Event)</b></p>
+					<p><b><img src="/realm/Factions/picks/FrenziedArmy2021.png" align="middle"> Frenzied Army (Blood War)</b></p>
+					<p><b>Effect</b>: Increase assistants by 10%.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada (Goblin Invasion)</b></p>
+                    <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
+                    <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
+                    <br/>
+					<p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter (Summer Event)</b></p>
                     <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                    <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
+                    <p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2.5)%, where x is clicks made all time.</p>
                     <br/>
                     <p><b><img src="/realm/Factions/picks/SpectralSurge.png" align="middle"> Spectral Surge (Halloween Event)</b></p>
                     <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
@@ -793,7 +805,152 @@
         <div class="shlisting">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2021 Events</a></b></p>
             <div class="category autohide">
-			<div class="shelementwhole">
+                <div class="shelementwhole">
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">6th Anniversary - Blood War (May 17 - May 21, 2020)</a></b></p>
+                    <div class="autohide">
+						<p>The Blood War event will be starting on <b>May 17th 2021, 12:01 PM UTC</b> and will end on <b>May 21st 2021, 6:59 PM UTC</b>.</p>
+                        <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
+                        <p><b>Cost</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Holy Symbols and Lava Stones collected.</p>
+                        <p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+                        <style>
+                            div#images {
+                                width: 100%;
+                                text-align: left;
+                            }
+
+                            div#images div {
+                                display: inline-block;
+                            }
+                        </style>
+                        <p><b><center>Event Resources</center></b></p>
+                        <div id="images">
+                            <center>
+                                <div>
+                                    <center><img src="/realm/Factions/picks/HolySymbolCurrency.png" width="54%" height="54%" /></center>
+                                    <center><b>Holy Symbols</b></center>
+                                </div>
+                                <div>
+                                    <center><img src="/realm/Factions/picks/LavaStoneCurrency.png" width="64%" height="64%" /></center>
+                                    <center><b>Lava Stones</b></center>
+                                </div>
+                            </center>
+                        </div>
+                        <br>
+                        <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 720 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
+                        <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
+                        <p><b>Cost</b>: 200 Holy Symbols</p>
+                        <p><b>Description</b>: The highest Angelic ranks carry wings blazing with pure light, whose every feather is infused with enough magical power to revive a dead soul or purify the hearts of a thousand sinners. Affiliating with the Seraphim will increase your magical abilities to the extreme, but you can only do so when playing as Good or Neutral.</p>
+                        <br/>
+                        <p><b>Seraphim Quest</b></p>
+                        <p><b>Seraphim Champion 1</b></p>
+                        <p><b><img src="/realm/Factions/picks/HeavenlyFeathers2017.png" alt="Heavenly Feathers" align="middle"> Heavenly Feathers</b></p>
+                        <p><b>Cost</b>: 400 Holy Symbols.</p>
+                        <p><b>Effect</b>: All buildings also increase your mana regeneration.</p>
+                        <p><b>Formula</b>: (2 * x ^ 0.2)</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                        <br/>
+                        <p><b>Seraphim Champion 2</b></p>
+                        <p><b><img src="/realm/Factions/picks/God'sChamber2017.png" alt="God's Chamber" align="middle"> God's Chamber</b></p>
+                        <p><b>Cost</b>: 750 Holy Symbols.</p>
+                        <p><b>Effect</b>: Increase maximum mana by 1 for every 10 buildings you own.</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+                        <br/>
+                        <p><b>Seraphim Champion 3</b></p>
+                        <p><b><img src="/realm/Factions/picks/BoonofRadiance2017.png" alt="Boon of Radiance" align="middle"> Boon of Radiance</b></p>
+                        <p><b>Cost</b>: 1000 Holy Symbols.</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
+                        <p><b>Formula</b>: (0.2 * (x * 30) ^ 0.85), where x is current mana regeneration.</p>
+                        <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.</p>
+                        <p><b>Effect</b>: Also completes Seraphim Champion Feat.</p>
+                        <hr>
+                        <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
+                        <p><b>Cost</b>: 200 Lava Stones</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <br/>
+                        <p><b>Asmodean Quest</b></p>
+                        <p><b>Asmodean Champion 1</b></p>
+                        <p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>
+                        <p><b>Cost</b>: 400 Lava Stones</p>
+                        <p><b>Effect</b>: Gain additional assistants based on time spent affiliated with the Asmodeans.</p>
+                        <p><b>Formula</b>: (0.25 * x * (x + 1)), where x is hours</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                        <br/>
+                        <p><b>Asmodean Champion 2</b></p>
+                        <p><b><img src="/realm/Factions/picks/AbyssalGaze2017.png" alt="Abyssal Gaze" align="middle"> Abyssal Gaze</b></p>
+                        <p><b>Cost</b>: 750 Lava Stones</p>
+                        <p><b>Effect</b>: Increase assistant production based on time spent as Evil (This R).</p>
+                        <p><b>Formula</b>: (2 * x ^ 0.7)</p>
+                        <p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+                        <br/>
+                        <p><b>Asmodean Champion 3</b></p>
+                        <p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
+                        <p><b>Cost</b>: 1000 Lava Stones</p>
+                        <p><b>Effect</b>: Increase clicking rewards based on the amount of assistants you own.</p>
+						<p><b>Formula</b>: (x ^ 0.85)</p>
+                        <p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
+                        <p><b>Effect</b>: Also completes Asmodean Champion Feat.</p>
+                        <hr>
+                        <p><b>Event Feats</b></p>
+                        <p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                        <p><b><img src="/realm/Factions/picks/SeraphimChampion2017.png" alt="Seraphim Champion" align="middle"> Seraphim Champion</b></p>
+                        <p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/AsmondeanChampion2017.png" alt="Asmodean Champion" align="middle"> Asmodean Champion</b></p>
+                        <p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demons</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
+                        <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="World Restoration" align="middle"> World Restoration</b></p>
+                        <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
+                        <p><b>Cost</b>: Free</p>
+                        <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
+                        <p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
+                        <br/>
+						<p><b><img src="/realm/Factions/picks/FrenziedArmy2021.png" alt="Frenzied Army" align="middle"> Frenzied Army</b></p>
+						<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
+						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+						<p><b>Effect</b>: Increase assistants by 10%.</p>				
+						<br/>
+                        <p><b><img src="/realm/Factions/picks/EternalBattle.png" align="middle"> Eternal Battle</b></p>
+                        <p><b>Type</b>: Feat</p>
+                        <p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+                        <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+                        <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+                        <hr>
+                        <p><b>Shop Item</b></p>
+                        <p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 40 Holy Symbols and Lava Stones for 5 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/150HolySymbolsandLavaStones2017.png" alt="150 Holy Symbols and Lava Stones" align="middle"> 150 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 150 Holy Symbols and Lava Stones for 15 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/650HolySymbolsandLavaStones2017.png" alt="650 Holy Symbols and Lava Stones" align="middle"> 650 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 650 Holy Symbols and Lava Stones for 45 Rubies.</p>
+                        <p>He will offer you a new deal if you accept.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/1800HolySymbolsandLavaStones2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 1800 Holy Symbols and Lava Stones</b></p>
+                        <p>A hooded shady merchant wants to sell you 1800 Holy Symbols and Lava Stones for 100 Rubies.</p>
+                        <p>These are all the resources he could gather.</p>
+                        <br/>
+                        <p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" align="middle"> Scrying</b></p>
+                        <p><b>Effect</b>: Produces 1 Lave Stone and 1 Holy Synbol every 10 minutes for 4 hours.</p>
+                        <hr>
+                    </div>
+                </div>
+				<div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 2 - 9 2021)</a></b></p>
                     <div class="autohide">
                         <p>The Easter event will be starting on <b>Apr 2nd 2021, 12:01 PM UTC</b> and will end on <b>Apr 9th 2021, 6:59 PM UTC</b>.</p>
@@ -1233,7 +1390,7 @@
                         <p>Remember the Thanksgiving upgrade and bonuse will disappear after the event is over, the Feat achievement will remain.</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during Thanksgiving</p>
+                        <p><b>Requirement</b>: Play during Thanksgiving</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
                     </div>
@@ -1295,7 +1452,7 @@
                         <p><b>Formula</b>: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4</p>
                         <hr>
                         <p>Collect all 4 Quest to complete a Feat</p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p>Collect 6 Pumpkin Smashers to complete a Feat</p>
                         <p><b>Quests</b></p>
                         <p><b>Pumpkin Smasher</b></p>
@@ -1314,50 +1471,50 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
-                        <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
+                        <p><b>Requirement</b>: Smash 6 Halloween Pumpkins</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/HalloweenMagic.png" alt="Halloween" align="middle"> Halloween Magic</b></p>
-                        <p><b>Requirements</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
+                        <p><b>Requirement</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
                         <p><b>Effect</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/SpectralSurge.png" alt="Halloween" align="middle"> Spectral Surge</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
+                        <p><b>Requirement</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
                         <p>If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
                         <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/PumpkinCollector.png" alt="Halloween" align="middle"> Pumpkin Collector</b></p>
-                        <p><b>Requirements</b>:Collect a stack of at least 720 of any resource after having smashed at least 3 Pumpkins.</p>
+                        <p><b>Requirement</b>:Collect a stack of at least 720 of any resource after having smashed at least 3 Pumpkins.</p>
                         <p><b>Effect</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <br/>
                         <hr>
@@ -1627,26 +1784,26 @@
                         <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/GentleCollector.png" align="middle"> <b>Gentle Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
+                        <p><b>Requirement</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/AggressiveCollector.png" align="middle"> <b>Aggressive Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
+                        <p><b>Requirement</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/GoldenAge.png" align="middle"> <b>Golden Age</b></p>
-                        <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
+                        <p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
                         <br>
 						<p><img src="/realm/Factions/picks/BalancedCollector.png" align="middle"> <b>Balanced Collector</b></p>
-                        <p><b>Requirements</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
+                        <p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
 						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/OrderRestoration.png" align="middle"> <b>Order Restoration</b></p>
-                        <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
+                        <p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/ChaosRestoration.png" align="middle"> <b>Chaos Restoration</b></p>
-                        <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
+                        <p><b>Requirement</b>: Upgrade Chaos Remnant to Level 15.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/BalanceRestoration.png" align="middle"> <b>Balance Restoration</b></p>
-                        <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
+                        <p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
                         <hr>
                         <p><b>Shop Items</b></p>
                         <p><img src="/realm/Factions/picks/IdilliumShop45.png" align="middle"> <b>1200 each Idillium Resource</b></p>
@@ -1783,7 +1940,7 @@
                         <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade upgrade with the same name.</p>
                         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                        <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
+                        <p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2.5)%, where x is clicks made all time.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/LateSpringtime.png" alt="Late Springtime" align="middle"> Late Springtime</b></p>
@@ -1908,7 +2065,7 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PlatinumTrophy.png" align="middle"> Platinum Trophy</b></p>
                         <p><b>Type</b>: Feat</p>
-                        <p><b>Requirements</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
+                        <p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
                         <hr>
@@ -2037,7 +2194,7 @@
                         <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration</b></p>
+                        <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="World Restoration" align="middle"> World Restoration</b></p>
                         <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
@@ -2045,7 +2202,7 @@
                         <br/>
                         <p><b><img src="/realm/Factions/picks/EternalBattle.png" align="middle"> Eternal Battle</b></p>
                         <p><b>Type</b>: Feat</p>
-                        <p><b>Requirements</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+                        <p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
                         <hr>
@@ -2493,7 +2650,7 @@
                         <p>Remember the Thanksgiving upgrade and bonuse will disappear after the event is over, the Feat achievement will remain.</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during Thanksgiving</p>
+                        <p><b>Requirement</b>: Play during Thanksgiving</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
                     </div>
@@ -2555,7 +2712,7 @@
                         <p><b>Formula</b>: 1 + 0.0035 * ((Blood + Ectoplasm + Bones) / 3) * ((1 + min(0 + 1.6 * (Blood/25) - 0.002 * (Blood/25)^2 + 0.000024 * (Blood/25)^3), 12500) * (same for Ectoplasm and Bones))^0.4</p>
                         <hr>
                         <p>Collect all 4 Quest to complete a Feat</p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p>Collect 6 Pumpkin Smashers to complete a Feat</p>
                         <p><b>Quests</b></p>
                         <p><b>Pumpkin Smasher</b></p>
@@ -2574,43 +2731,43 @@
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
-                        <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
+                        <p><b>Requirement</b>: Smash 6 Halloween Pumpkins</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/HalloweenMagic.png" alt="Halloween" align="middle"> Halloween Magic</b></p>
-                        <p><b>Requirements</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
+                        <p><b>Requirement</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
                         <p><b>Effect</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/SpectralSurge.png" alt="Halloween" align="middle"> Spectral Surge</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
+                        <p><b>Requirement</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
                         <p>If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
                         <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
@@ -2881,22 +3038,22 @@
                         <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/GentleCollector.png" align="middle"> <b>Gentle Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Entropic Drops with a single click while affiliated with the Fairies.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/AggressiveCollector.png" align="middle"> <b>Aggressive Collector</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Crystal Prisms with a single click while affiliated with the Undead.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/GoldenAge.png" align="middle"> <b>Golden Age</b></p>
-                        <p><b>Requirements</b>: Cast Remnant spells at least 1000 times.</p>
+                        <p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/OrderRestoration.png" align="middle"> <b>Order Restoration</b></p>
-                        <p><b>Requirements</b>: Upgrade Order Remnant to Level 15.</p>
+                        <p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/ChaosRestoration.png" align="middle"> <b>Chaos Restoration</b></p>
-                        <p><b>Requirements</b>: Upgrade Chaos Remnant to Level 15.</p>
+                        <p><b>Requirement</b>: Upgrade Chaos Remnant to Level 15.</p>
                         <br>
                         <p><img src="/realm/Factions/picks/BalanceRestoration.png" align="middle"> <b>Balance Restoration</b></p>
-                        <p><b>Requirements</b>: Upgrade Balance Remnant to Level 15.</p>
+                        <p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
                         <hr>
                         <p><b>Shop Items</b></p>
                         <p><img src="/realm/Factions/picks/IdilliumShop45.png" align="middle"> <b>1200 each Idillium Resource</b></p>
@@ -3030,7 +3187,7 @@
                         <p><b>Unlock</b>: Collect at least 480 of any Orbs with a single click while having all three upgrades of either Summeraan or Winterly.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade upgrade with the same name.</p>
                         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
-                        <p><b>Formula</b>: (0.5 * log10(x) ^ 2.5)%, where x is all time clicks made.</p>
+                        <p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2.5)%, where x is clicks made all time.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <hr>
                         <p><b>Shop Items</b></p>
@@ -3270,7 +3427,7 @@
                         <p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
                         <br/>
-                        <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="Indifference" align="middle"> World Restoration</b></p>
+                        <p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="World Restoration" align="middle"> World Restoration</b></p>
                         <p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
@@ -3702,7 +3859,7 @@
                         <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during Thanksgiving</p>
+                        <p><b>Requirement</b>: Play during Thanksgiving</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
                     </div>
@@ -3736,58 +3893,58 @@
                         <p><b>Quests</b></p>
                         <p><b>Pumpkin Smasher</b></p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher1.png" alt="Halloween" align="middle"> Pumpkin Smasher 1</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will give you 1 of 3 Monsters, also gives resources and a gift</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher2.png" alt="Halloween" align="middle"> Pumpkin Smasher 2</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher3.png" alt="Halloween" align="middle"> Pumpkin Smasher 3</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher 4</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
-                        <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
+                        <p><b>Requirement</b>: Smash 6 Halloween Pumpkins</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Ectoplasm with a single click while <b>USING</b> Ghost monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Blood with a single click while <b>USING</b> Vampire monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                        <p><b>Requirements</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
+                        <p><b>Requirement</b>: Collect at least 480 Bones with a single click while <b>USING</b> Skeleton monster pet.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/HalloweenMagic.png" alt="Halloween" align="middle"> Halloween Magic</b></p>
-                        <p><b>Requirements</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
+                        <p><b>Requirement</b>: Cast each Halloween Spell at least 100 times in this reincarnation.</p>
                         <p><b>Effect</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
                         <hr>
                         <p><b>Shop</b></p>
@@ -4626,7 +4783,7 @@
                         <p><b>Note</b>: There is no Cumulative and Permanent Bonuses from this Events.</p>
                         <p><b><img src="/realm/Factions/picks/RubyShineUpgrade.png" alt="Ruby Shine" align="middle"> Ruby Shine</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during the Ruby Shine event.</p>
+                        <p><b>Requirement</b>: Play during the Ruby Shine event.</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.</p>
                         <p><b>Formula</b>: x ^ 1.15, where x is Rubies you own.</p>
@@ -4636,7 +4793,7 @@
                         <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during Thanksgiving</p>
+                        <p><b>Requirement</b>: Play during Thanksgiving</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
                     </div>
@@ -4670,46 +4827,46 @@
                         <p><b>Quests</b></p>
                         <p><b>Pumpkin Smasher</b></p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher1.png" alt="Halloween" align="middle"> Pumpkin Smasher 1</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will give you 1 of 3 Monsters, also gives resources and a gift</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher2.png" alt="Halloween" align="middle"> Pumpkin Smasher 2</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher3.png" alt="Halloween" align="middle"> Pumpkin Smasher 3</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher 4</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
-                        <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
+                        <p><b>Requirement</b>: Smash 6 Halloween Pumpkins</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                        <p><b>Requirements</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.(Must have the spell)</p>
+                        <p><b>Requirement</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.(Must have the spell)</p>
                         <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                        <p><b>Requirements</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.(Must have the spell)</p>
+                        <p><b>Requirement</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.(Must have the spell)</p>
                         <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                        <p><b>Requirements</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.(Must have the spell)</p>
+                        <p><b>Requirement</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.(Must have the spell)</p>
                         <hr>
                         <p><b>Shop</b></p>
                         <p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b></p>
@@ -5424,7 +5581,7 @@
                         <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during Thanksgiving</p>
+                        <p><b>Requirement</b>: Play during Thanksgiving</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
                         <p><b>Note</b>: This is a repeat of the 1st Realm Grinder Event.</p>
@@ -5459,46 +5616,46 @@
                         <p><b>Quests</b></p>
                         <p><b>Pumpkin Smasher</b></p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher1.png" alt="Halloween" align="middle"> Pumpkin Smasher 1</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will give you 1 of 3 Monsters, also gives resources and a gift</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher2.png" alt="Halloween" align="middle"> Pumpkin Smasher 2</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher3.png" alt="Halloween" align="middle"> Pumpkin Smasher 3</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher 4</b></p>
-                        <p><b>Requirements</b>: Log in once a day to collect the pumpkin.</p>
+                        <p><b>Requirement</b>: Log in once a day to collect the pumpkin.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <hr>
                         <p>Collect all 3 Quest to complete a Feat</p>
                         <p><b>Monster Breeder</b></p>
                         <p><b>Kind</b>: 3 Quest Series</p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10, 25, 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10, 25, 50.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder1.png" alt="Halloween" align="middle"> Monster Breeder 1</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 10.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 10.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 1% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder2.png" alt="Halloween" align="middle"> Monster Breeder 2</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 25.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 25.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 2% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreeder3.png" alt="Halloween" align="middle"> Monster Breeder 3</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this quest step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus.</p>
                         <hr>
                         <p><b>Feats</b></p>
                         <p><b><img src="/realm/Factions/picks/MonsterBreederFeat.png" alt="Halloween" align="middle"> Monster Breeder</b></p>
-                        <p><b>Requirements</b>: Grow all monsters to level 50.</p>
+                        <p><b>Requirement</b>: Grow all monsters to level 50.</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 4% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/PumpkinSmasher4.png" alt="Halloween" align="middle"> Pumpkin Smasher</b></p>
-                        <p><b>Requirements</b>: Smash 6 Halloween Pumpkins</p>
+                        <p><b>Requirement</b>: Smash 6 Halloween Pumpkins</p>
                         <p><b>Effect</b>: Completing this Feat step will increase your Event Bonus by 7% (Total), which will be added to your Cumulative Event Bonus</p>
                         <p><b><img src="/realm/Factions/picks/Spooky.png" alt="Halloween" align="middle"> Spooky</b></p>
-                        <p><b>Requirements</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.</p>
+                        <p><b>Requirement</b>: Collect a full stack of 480 Ectoplasm while <b>USING</b> Ghost monster pet.</p>
                         <p><b><img src="/realm/Factions/picks/BloodThirsty.png" alt="Halloween" align="middle"> Blood Thirsty</b></p>
-                        <p><b>Requirements</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.</p>
+                        <p><b>Requirement</b>: Collect a full stack of 480 Blood while <b>USING</b> Vampire monster pet.</p>
                         <p><b><img src="/realm/Factions/picks/BonePicker.png" alt="Halloween" align="middle"> Bone Picker</b></p>
-                        <p><b>Requirements</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.</p>
+                        <p><b>Requirement</b>: Collect a full stack of 480 Bones while <b>USING</b> Skeleton monster pet.</p>
                         <hr>
                         <p><b>Shop</b></p>
                         <p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b></p>
@@ -5911,7 +6068,7 @@
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/Thanksgiving2015.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
-                        <p><b>Requirements</b>: Play during Thanksgiving</p>
+                        <p><b>Requirement</b>: Play during Thanksgiving</p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
                         <p><b>Note</b>: This was the 1st time Realm Grinder had an Event. The Feats not giving any bonus must have not been decided then.</p>

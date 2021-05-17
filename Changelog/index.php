@@ -5,10 +5,39 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.3, May 13, 2021, Blood War Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Blood War Event will be starting on May 17th 2021, 12.01 PM UTC and will end on May 21st 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW BLOOD WAR FEAT, unlocking a new upgrade.</p>
+            </div>
+        </div>		
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.2, March 25, 2021, Easter Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Valentine Event will be starting on Apr 2nd 2021, 12.01 PM UTC and will end on Apr 9th 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW EASTER FEAT, unlocking a new upgrade.</p>
+				<p>Fixed Unrequitedness not targeting neutral buildings only.</p>
+				<p>Changed Ancient Egg to reduce the base cost for excavations instead of their cost multiplier.</p>
+				<p>Fixed Tax Collection cache persisting through abdications in certain circumstances.</p>
+				<p>Fixed Lore artifact count being unachievable.</p>
+				<p>Removed Unique Building requirement check for Prestige upgrade 10s.</p>
+				<p>Fixed Prestige upgrade 10s using a wrong method in their formula.</p>
+				<p>Fixed an issue with high bonus values for Craftsmanship 11625 (Motus Perpetuum).</p>
+				<p>Fixed Perk 5s being advertised at Lineage 45 when they are now unlocked at Lineage 40.</p>
+				<p>Mercenary Challenge 1 now negates all bloodline synergies (for example related to Reincarnation Power 58 and 115).</p>				
+            </div>
+        </div>		
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.1, February 9, 2021, Valentine Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 12st 2021, 1.01 PM UTC and will end on Feb 16th 2021, 7.59 PM UTC.</p>
+				<p>ADDED A NEW VALENTINE FEAT, unlocking a new upgrade.</p>
+            </div>
+        </div>			
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.0, December 16, 2020, Christmas Event</a></b></p>
             <div class="autohide">
-                <p>Global Reminder: The Christmas Event will be starting on Dec 21st 2020, 1.01 PM UTC and will end on Jan 5th 2021, 7.59 PM UTC.</p>
-
+                <p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 21st 2020, 1.01 PM UTC and will end on Jan 5th 2021, 7.59 PM UTC.</p>
                 <p>INTRODUCING: ASCENSION 4. Starting from Reincarnation 220, you will be able to perform the 4th Ascension, unlocking new endgame content with different progress systems and options!</p>
                 <p>NEW PROGRESS SYSTEM: FACTION LEGACIES. In Ascension 4 you will be able to purchase Legacies for coins and faction coins, allowing you to mix and match upgrades from different factions and unlocking special bonuses as you purchase more.</p>
                 <p>Building cost multiplier in Ascension 4 is reset to Ascension 0 values.</p>
@@ -18,10 +47,32 @@
             </div>
         </div>
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.4, October 23, 2020, Halloween Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 28th 2020, 1.01 PM UTC and will end on Nov 4th 2020, 7.59 PM UTC.</p>
+				<p>ADDED A NEW HALLOWEEN FEAT, unlocking a new upgrade.</p>
+            </div>
+        </div>	
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.3, September 18, 2020, Idillium Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Idillium Event will be starting on Sep 23th 2020, 12.01 PM UTC and will end on Sep 30th 2020, 6.59 PM UTC.</p>
+				<p>ADDED A NEW IDILLIUM FEAT, unlocking a new upgrade.</p>
+            </div>
+        </div>	
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.2, July 17, 2020, Summer Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Summer Festival Event will be starting on Aug 17th 2020, 12.01 PM UTC and will end on Aug 24th 2020, 6.59 PM UTC.</p>
+                <p>Added a Community button in the Options Menu to quickly access the community hubs for Realm Grinder.</p>
+                <p>Fixed a wrong requirement in Mercenary Challenge 3.</p>
+                <p>{web}Fixed notation issues with the mana bubble.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.1, June 29, 2020, Goblin War Event</a></b></p>
             <div class="autohide">
-                <p>Global Reminder: The Goblin Invasion Event will be starting on Jul 09th 2020, 12.01 PM UTC and will end on Jul 13th 2020, 18.59 PM UTC.</p>
-
+                <p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Jul 09th 2020, 12.01 PM UTC and will end on Jul 13th 2020, 18.59 PM UTC.</p>
                 <p>Trade Lords formula changed to prevent overflowing. No changes to the upgrade effect. Most of the other logarithmic upgrades have undergone the same change, which should improve performance and avoid overflowing risks.</p>
                 <p>All effects based on spell duration now consider the duration of the spell at the moment it is cast. This will lower the efficiency of those upgrades (i.e. Druid Challenge 4), but will improve the game performance significantly.</p>
                 <p>Order Warcry formula changed to be logarithmic.</p>
@@ -45,8 +96,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8, May 13, 2020, Blood War Event</a></b></p>
             <div class="autohide">
-                <p>Global Reminder: The Blood War Event will be starting on May 17th 2020, 12.01 PM UTC and will end on May 21st 2020, 18.59 PM UTC.</p>
-
+                <<p><b>Global Reminder</b>: The Blood War Event will be starting on May 17th 2020, 12.01 PM UTC and will end on May 21st 2020, 18.59 PM UTC.</p>
                 <p>MERCENARY CHALLENGES. Starting at Reincarnation 190, 5 new Mercenary Challenges will be unlocked. Complete them all to gain a new upgrade for the Call to Arms spell!</p>
                 <p>Spell Tiers time requirements reduced.</p>
                 <p>Added Researches Hints to help players understand what they are required to do to unlock specific Researches.</p>
@@ -97,7 +147,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.4, Apr 3, 2020, Easter Event</a></b></p>
             <div class="autohide">
-                <p>Global Reminder: The Easter Event will be starting on Apr 09th 2020, 12.01 PM UTC and will end on Apr 16th 2020, 6.59 PM UTC.</p>
+                <p><b>Global Reminder</b>: The Easter Event will be starting on Apr 09th 2020, 12.01 PM UTC and will end on Apr 16th 2020, 6.59 PM UTC.</p>
                 <p>ADDED A NEW EASTER FEAT, unlocking new cosmetic options.</p>
                 <p>Forbidden Research branch now correctly adds to the Research Points stat.</p>
                 <p>Rough Stone Artifact now correctly requires the Survey Equipment upgrade.</p>
@@ -109,7 +159,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.7.3, Jan 31, 2020, Valentine Event</a></b></p>
             <div class="autohide">
-                <p>Global Reminder: The Valentine Event will be starting on Feb 12th 2020, 1.01 PM UTC and will end on Feb 16th 2020, 7.59 PM UTC.</p>
+                <p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 12th 2020, 1.01 PM UTC and will end on Feb 16th 2020, 7.59 PM UTC.</p>
                 <p>ADDED A NEW VALENTINE FEAT, unlocking new cosmetic options.</p>
                 <p>Fixed Heart per second production rate for Valentine.</p>
                 <p>Fixed several event tooltips regarding stack sizes.</p>
@@ -198,9 +248,9 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6.2, SEP 17, 2019, Idilium Event</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.6.2, SEP 17, 2019, Idillium Event</a></b></p>
             <div class="autohide">
-                <p><b>Global Reminder</b>: The Idilium Event will be starting on Sep 23rd 2019, 12.01 PM UTC and will end on Sep 30th 2019, 6.59 PM UTC.</p>
+                <p><b>Global Reminder</b>: The Idillium Event will be starting on Sep 23rd 2019, 12.01 PM UTC and will end on Sep 30th 2019, 6.59 PM UTC.</p>
                 <p>Spell Reset function is now available only when a spell has been active for at least 2 seconds.</p>
                 <p>Djinn Challenge 3 no longer counts temporary assistants. Requirements lowered.</p>
                 <p>Archon Challenge 2 requirements lowered.</p>
