@@ -532,19 +532,19 @@
 					" coords="63,363,116,416" shape="rect">
 					<area research="
 					<p><b>Anniversary - Blood War</b></p>
-					<p><b><img src='/realm/Factions/picks/EternalBattle.png' align='middle'> Eternal Battle</b></p>
-					<p><b>Type</b>: Feat</p>
-					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
-					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-					" coords="123,363,176,416" shape="rect">
-					<area research="
-					<p><b>Anniversary - Blood War</b></p>
 					<p><b><img src='/realm/Factions/picks/FrenziedArmy2021.png' align='middle'> Frenzied Army</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase assistants by 10%.</p>					
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					" coords="123,363,176,416" shape="rect">
+					<area research="
+					<p><b>Anniversary - Blood War</b></p>
+					<p><b><img src='/realm/Factions/picks/EternalBattle.png' align='middle'> Eternal Battle</b></p>
+					<p><b>Type</b>: Feat</p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="183,363,236,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
