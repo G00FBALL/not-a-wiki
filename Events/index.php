@@ -532,19 +532,19 @@
 					" coords="63,363,116,416" shape="rect">
 					<area research="
 					<p><b>Anniversary - Blood War</b></p>
-					<p><b><img src='/realm/Factions/picks/EternalBattle.png' align='middle'> Eternal Battle</b></p>
-					<p><b>Type</b>: Feat</p>
-					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
-					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-					" coords="123,363,176,416" shape="rect">
-					<area research="
-					<p><b>Anniversary - Blood War</b></p>
 					<p><b><img src='/realm/Factions/picks/FrenziedArmy2021.png' align='middle'> Frenzied Army</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase assistants by 10%.</p>					
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					" coords="123,363,176,416" shape="rect">
+					<area research="
+					<p><b>Anniversary - Blood War</b></p>
+					<p><b><img src='/realm/Factions/picks/EternalBattle.png' align='middle'> Eternal Battle</b></p>
+					<p><b>Type</b>: Feat</p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="183,363,236,416" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
@@ -869,7 +869,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -2152,7 +2152,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -3386,7 +3386,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -4371,7 +4371,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
