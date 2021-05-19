@@ -217,7 +217,7 @@
 					<p><b><img src='/realm/Factions/picks/RubyShineUpgrade.png' align='middle'> Ruby Shine</b></p>
 					<p><b>Requirement</b>: Play during the Ruby Shine event.</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.</p>
-					<p><b>Formula</b>: x ^ 1.15, where x is Rubies owned.</p>
+					<p><b>Formula</b>: (x ^ 1.15)%, where x is Rubies owned.</p>
 					<p><b>Note</b>: During the Ruby Shine event you will receive 3 Rubies per day.</p>
 					" coords="63,3,116,56" shape="rect">
 					<area research="
@@ -343,7 +343,7 @@
 					<p><b><img src='/realm/Factions/picks/GreyEaster2017.png' align='middle'> Grey Easter</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Find at least 1 Rare Egg while playing with no faction. To get this Feat simply make a big stack, abdicate and then collect before aligning or affiliating.</p>
-					<p><b></b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="243,123,296,176" shape="rect">
 					<area research="
 					<p><b>Easter 2018</b></p>
@@ -425,7 +425,7 @@
 					<p><b>Summer Festival</b></p>
 					<p><b><img src='/realm/Factions/picks/LateSpringtime.png' align='middle'> Late Springtime</b></p>
 					<p><b>Type</b>: Feat</p>
-					<p><b>Unlock</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
+					<p><b>Requirement</b>: While affliated with the Fairies, collect a stack of 720 Orbs.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="63,243,116,296" shape="rect">
 					<area research="
@@ -472,7 +472,7 @@
 					<p><img src='/realm/Factions/picks/SpectralSurge.png' align='middle'> Spectral Surge</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect at least 480 of each resource in a single run.(This Game)</p>
-					<p><b>Note</b>If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="63,303,116,356" shape="rect">
@@ -581,19 +581,20 @@
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
 					<p><b>Note</b>:  If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-					<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
+					<p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
+					<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
                     <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="63,423,116,476" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
-					<p><b><img src='/realm/Factions/picks/PlatinumTrophy.png' align='middle'> <b>Platinum Trophy</b></p>
+					<p><b><img src='/realm/Factions/picks/PlatinumTrophy.png' align='middle'> Platinum Trophy</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="123,423,176,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
-					<p><b><img src='/realm/Factions/picks/GentleCollector.png' align='middle'> <b>Gentle Collector</b></p>
+					<p><b><img src='/realm/Factions/picks/GentleCollector.png' align='middle'> Gentle Collector</b></p>
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
@@ -785,8 +786,8 @@
 					<p><b>Effect</b>: Increase assistants by 10%.</p>
 					<br/>
 					<p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada (Goblin Invasion)</b></p>
-                    <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
-                    <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
+                    <p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
+                    <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
                     <br/>
 					<p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter (Summer Event)</b></p>
                     <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
@@ -2059,8 +2060,8 @@
                         <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-                        <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
-                        <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
+                        <p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
+                        <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/PlatinumTrophy.png" align="middle"> Platinum Trophy</b></p>
@@ -3300,8 +3301,8 @@
                         <p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
                         <p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while having no faction.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-                        <p><b>Effect</b>: Increase assistants based on the amount of buildings you own.</p>
-                        <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is amount of buildings you own. (multiplicative)</p>
+                        <p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
+                        <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <hr>
                         <p><b>Shop Item</b></p>
