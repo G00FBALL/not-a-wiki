@@ -142,13 +142,13 @@
 						</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S5875,S5125,C5625,C5875,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F11000">
+							<input type="text" value="S5875,S5125,C5625,C5875,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F5750,F5500">
 							<b>R221+</b>
 						</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S5875,S5125,C5625,C5875,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F5750,F5500">
-							<b>R221+, e22 Gems+</b>
+							<input type="text" value="S5875,S5125,C5625,C5875,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F11000">
+							<b>R222+, e22 Gems+</b>
 						</p>
 						<p>S5875,S5625,</p>
 						<p>C5375,C5625,</p>
@@ -158,8 +158,8 @@
 						<p>W5875,W5125,</p>
 						<p>F5750,F5500</p>
 						<p><b>Note for R221+</b>: Swap to A10875 and do a Faceless Run to buff it.</p>
-						<p><b>Note</b>: At e22 (10 Sx) Gems+, Swap to F11000 when you can afford TT5.</p>
 						<p><b>Note</b>: Swap D5125 with D5875 when wasting Mana.</p>
+						<p><b>Note for R222+</b>: At e22 (10 Sx) Gems+, Swap to F11000 when you can afford TT5.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
@@ -194,9 +194,9 @@
 						<p>W5875,W5125,</p>
 						<p>F5750,F5500</p>
 						<p><b>Note</b>: Do a Faceless Run to buff A10875.</p>
+						<p><b>Note</b>: Swap D5125 with D5875 when wasting Mana.</p>
 						<p><b>Note</b>: At e22 (10 Sx) Gems+ and one Legacy, swap to F11000 when you can afford TT5.</p>
 						<p><b>Note</b>: With the second Legacy, swap to D11375.</p>
-						<p><b>Note</b>: Swap D5125 with D5875 when wasting Mana.</p>
 					</div>
 				</div>
 			</div>
