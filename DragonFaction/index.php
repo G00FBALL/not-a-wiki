@@ -139,7 +139,7 @@
         <p><b>Requirement</b>: Dragons Alliance</p>
         <p><b>Cost</b>: 5 Qavg (5e75)</p>
         <p><b>Effect</b>: Increase Mana Regeneration based on the amount of neutral buildings you own.</p>
-        <p><b>Formula</b>: +(0.1 * floor(x ^ 0.5)) where x is amount of neutral buildings.</p>
+        <p><b>Formula</b>: +(0.1 * floor(x ^ 0.5)), where x is amount of neutral buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" align="middle"> Chromatic Scales</b></p>
         <p><b>Requirement</b>: Dragons Alliance</p>
@@ -151,7 +151,7 @@
         <p><b>Requirements</b>: Dragons Champion Trophy</p>
         <p><b>Cost</b>: 400 B (4e11) Dwarven and Drow coins</p>
         <p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, x is time in seconds affiliated with Dragons (This Reincarnation).</p>
+        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is time in seconds affiliated with Dragons (This Reincarnation).</p>
         <hr>
         <p><b>Dragons Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" align="middle"> Wyrm's Den Quest</b></p>
@@ -178,7 +178,7 @@
         <p><b>Cost</b>: 1 Sp (1e24) Dwarven and Drow Coins</p>
         <p><b>Effect</b>: The amount of active spells counts 5% more for all purposes.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <p><b>Note</b>: Not available till R116</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureQuest.png" align="middle"><b> Dragon Pasture Quest</b></p>
@@ -227,4 +227,4 @@
         <p><b>Cost</b>: 1 Notg (1e120)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on Maximum Mana.</p>
         <p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your Maximum Mana.</p>
-        <?php include "../scripts/footer.html"; ?>
+<?php include "../scripts/footer.html"; ?>

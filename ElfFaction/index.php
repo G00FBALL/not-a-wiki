@@ -96,10 +96,10 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTrainingGroundsFactionUpgrade.png" align="middle"> Elven Training Grounds</b></p>
         <p>Upgrade Warrior Barracks To Elven Training Grounds, boosting their production based on the total amount of clicks you made this Reincarnation and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: ((50 * x ^ 0.85) + 50 * ln^6(1 + x))%, where x is the amount of clicks made in this Reincarnation.</p>
+        <p><b>Formula</b>: ((50 * x ^ 0.85) + 50 * ln(1 + x) ^ 6)%, where x is the amount of clicks made in this Reincarnation.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities</p>
         <p><b>Requirements</b>: Buy "Elven Training Grounds Quest"</p>
-        <p><b>Cost</b>: 10 Ttg (1E103)</p>
+        <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/CarpentryFactionUpgrade.png" align="middle"> Carpentry</b></p>
         <p>Unlocks the Craftsmanship research facility and increases Elven production by 100,000%, plus an additional bonus based on Craftsmanship research points.</p>
@@ -118,7 +118,7 @@
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
         <p><b>Formula</b>: (0.25 * ln(1 + x) ^ 2)%, where x is amount of clicks this Reincarnation.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityQuest.png" alt="Arboreal City Quest" align="middle"> <b>Arboreal City Quest</b></p>
 		<p><b>Description</b>: Hello again, mellonamin. It is time for the Elves to have their place to live. Collect enough Elven Faction coins, and we'll start to build a true green city!</p>
@@ -144,7 +144,7 @@
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <p><b>Effect</b>: Increase click production based on faction coins found this Reincarnation.</p>
-        <p><b>Formula</b>: (3 * ln(x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
+        <p><b>Formula</b>: (3 * ln(1 + x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
         <p><b>Effect</b>: Also autoclicks 10 times per second.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
@@ -153,9 +153,9 @@
         <p><b>Effect</b>: When Elven Luck triggers, 100,000 automatic Tax Collections are cast.</p>
         <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the highest amount of Arboreal Cities you made this Reincarnation.</p>
         <p><b>Effect</b>: Also removes two Ascension penalties from Elven Luck.</p>
-        <p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
-        <p><b>Production Formula</b>: (32 * x ^ 0.8), where x is highest amount of Arboreal Cities this Reincarnation.</p>
-        <p><b>Faction Coin Formula</b>: (3 * x ^ 0.75), where x is highest amount of Arboreal Cities this Reincarnation.</p>
+        <p><b>Elven Luck Formula</b>: +(x ^ 0.3)%, where x is Arboreal Cities count.</p>
+        <p><b>Production Formula</b>: (32 * x ^ 0.8)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+        <p><b>Faction Coin Formula</b>: (3 * x ^ 0.75)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
         <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

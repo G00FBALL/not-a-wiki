@@ -23,7 +23,7 @@
 		<p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
 		<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 		<p><b>Effect</b>: Gives random Faction Coins based on your Faction Coin find chance for each other spell you cast while God's Hand is active.</p>
-		<p><b>Formula</b>: (floor(x^1.1), where x is FC chance.</p>
+		<p><b>Formula</b>: (floor(x ^ 1.1), where x is FC chance.</p>
 		<hr>
 		<p><b>Tier 1 Upgrades</b></p>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelsTradeTreaty.png" align="middle"> Angel Trade Treaty</b></p>
@@ -95,7 +95,8 @@
 		<p><b>Cost</b>: 10 Dtg (1e100)</p>
 		<br/>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/Heaven'sDomainFactionUpgrade.png" align="middle"> Heaven's Domain</b></p>
-		<p>Upgrade Heaven's Gate To Heaven's Domains, boosting their production by 35000% per spell affecting them and unlocking more unique perks for the building.</p>
+		<p>Upgrade Heaven's Gate To Heaven's Domains, boosting their production based on the amount of spells affecting them and unlocking more unique perks for the building.</p>
+		<p><b>Formula</b>: (350 * x ^ 1.1)%, where x is the amount of spells affecting Heaven's Domain.</p>
 		<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 		<p><b>Effect</b>: Also allows access to the Research Facilities</p>
 		<p><b>Requirements</b>: Buy "Heaven's Domain Quest"</p>
@@ -119,7 +120,7 @@
 		<p><b>Effect</b>: Increase Mana Regeneration additively based on the amount of spells cast in this game.</p>
 		<p><b>Formula</b>: +(5 * x ^ 0.25), where x is spells cast this game.</p>
 		<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-		<p><b>Formula</b>: (1 + 0.3 * level)</p>
+		<p><b>Formula</b>: *(1 + 0.3 * level)</p>
 		<br/>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteQuest.png" alt="Holy Site Quest" align="middle"> <b>Holy Site Quest</b></p>
 		<p><b>Description</b>: Welcome again, dearest ally. We need your help once more: improve your mana potency in this new era, and we'll reward you by blessing the ground you walk on.</p>
@@ -135,8 +136,7 @@
 		<p><b>Unique Building</b></p>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></p>
 		<p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as Good and unlocking more unique perks for the building.</p>
-		<p><b>Effect</b>: Increase production based on time spent as Good in this Reincarnation.</p>
-		<p><b>Formula</b>: (x ^ 0.85)%, where x is time in second as Good this Reincarnation.</p>
+		<p><b>Formula</b>: (x ^ 0.85)%, where x is time in second as Good in this Reincarnation.</p>
 		<p><b>Effect</b>: Grants access to Faction Union.</p>
 		<br/>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/AngelsUnion.png" alt="Angels Union" align="middle"> <b>Angels Union</b></p>
@@ -151,8 +151,8 @@
 		<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
 		<p><b>Requirement</b>: Angels Union</p>
 		<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the highest amount of Holy Sites you own in this Reincarnation. Gem Grinder and all Dragon's Breath effects are increased based on the highest amount of Holy Sites you own in this Reincarnation.</p>
-		<p><b>Formula</b>: (0.02 * ln(1 + x)), where x is highest amount of Holy Sites owned this Reincarnation.</p>
-		<p><b>Gem Grinder and Dragon's Breath Formula</b>: (0.65 * x ^ 0.65), where x is highest amount of Holy Sites owned this Reincarnation.</p>
+		<p><b>Formula</b>: +(0.02 * ln(1 + x)), where x is highest amount of Holy Sites owned this Reincarnation.</p>
+		<p><b>Gem Grinder and Dragon's Breath Formula</b>: (0.65 * x ^ 0.65)%, where x is highest amount of Holy Sites owned this Reincarnation.</p>
 		<br/>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/AngelicFortitude.png" alt="Angelic Fortitude" align="middle"> <b>Angelic Fortitude</b></p>
 		<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

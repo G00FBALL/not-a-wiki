@@ -119,7 +119,7 @@
         <p><b>Effect</b>: Assistants count more based on your offline bonus.</p>
         <p><b>Formula</b>: (0.025 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> <b>Flesh Workshop Quest</b></p>
 		<p><b>Description</b>: Heelloo... The dead need to rest... accumulate a high enough offline production to allow them their peace, and they'll be forever your servants.</p>
