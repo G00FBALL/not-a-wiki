@@ -27,7 +27,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/FragmentofaTitanStatue.png" alt="Fragment of a Titan Statue" align="middle"><b> Fragment of a Titan Statue</b></p>
         <p><b>Type</b>: Upgrade</p>
         <p><b>Requirement</b>: 2 Ancient Stone Slabs, 300 Halls of Legends</p>
-        <p><b>Cost</b>: 1 No (1E30), 25,000 Angel Coins, 25,000 Goblin Coins</p>
+        <p><b>Cost</b>: 1 No (1e30), 25,000 Angel Coins, 25,000 Goblin Coins</p>
         <br/>
         <p><b>Faction Spell</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/spellLightningStrike.png" align="middle"> <b>Lightning Strike</b></p>
@@ -44,7 +44,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutralityFactionUpgrade.png" alt="Proof of Neutrality" align="middle"><b> Proof Of Neutrality</b></p>
         <p><b>Type</b>: Alignment Upgrade</p>
         <p><b>Requirement</b>: Collect the 2 quest artifacts of any Neutral Faction.</p>
-        <p><b>Cost</b>: 10Qa (1E16)</p>
+        <p><b>Cost</b>: 10 Qa (1e16)</p>
         <p><b>Note</b>: To reach 300 Halls of Legends: Play any faction which has good production.</p>
         <p><b>Note</b>: You can also unlock all the Neutral factions in one long run: Do an Elf or Goblin run with 30 excavations. Purchase 300 Halls of Legends for Titan, collect 1,000,000 faction coins for Druid, and play 36 hours for Faceless.</p>
         <p>In order to affiliate with a Neutral Faction, like for Vanilla Factions, you first need to choose the alignment. The alignment upgrade for Neutral Factions is called the Proof of Neutrality.</p>
@@ -82,7 +82,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ChargedStructuresFactionUpgrade.png" alt="Charged Structures" align="middle"> Charged Structures</b></p>
         <p><b>Cost</b>: 50 Sp (5e25)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of active spells.</p>
-        <p><b>Formula</b>: (15 * x)%, where x is active spells.</p>
+        <p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png" alt="Titan Sized Walls" align="middle"> Titan Sized Walls</b></p>
         <p><b>Cost</b>: 500 Sp (5e26)</p>
@@ -121,7 +121,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OlympianHallsFactionUpgrade.png" align="middle"> Olympian Halls</b></p>
         <p>Upgrade Halls of Legend to Olympian Halls, boosting their production based on Royal Exchanges you purchased and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: (0.9 * x ^ 0.9)%, where x is Royal Exchanges purchased.</p>
+        <p><b>Formula</b>: (0.9 * x ^ 0.9)%, where x is the amount of Royal Exchanges purchased.</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities (after completing Secrets of the Ancients).</p>
         <br/>
@@ -156,7 +156,7 @@
         <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
         <p><b>Formula</b>: (0.85 * ln(1 + x) ^ 1.15)%, where x is Royal Exchanges purchased.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Mountain Palace Quest</b></p>
 	    <p><b>Description</b>: Khaire, ruler. Our kind want to reshape the mountain into something more fitting, but we need funds. Make enough Royal Exchanges, and we'll let you see our masterpiece.</p>

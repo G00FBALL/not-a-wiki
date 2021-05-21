@@ -28,7 +28,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/OctopusShapedSpine.png" align="middle"><b> Octopus Shaped Spine</b></p>
         <p><b>Type</b>: Upgrade</p>
         <p><b>Requirement</b>: 2 Bone Fragments, 36 hours playtime (All time)</p>
-        <p><b>Cost</b>: Price: 1 No (1E30), 25,000 Fairy Coins, 25,000 Undead Coins</p>
+        <p><b>Cost</b>: Price: 1 No (1e30), 25,000 Fairy Coins, 25,000 Undead Coins</p>
         <br/>
         <p><b>Faction spell</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Brainwave.png" align="middle"> <b>Brainwave</b></p>
@@ -43,7 +43,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/ProofofNeutralityFactionUpgrade.png" alt="ProofofNeutrality" align="middle"><b> Proof Of Neutrality</b></p>
         <p><b>Type</b>: Alignment Upgrade</p>
         <p><b>Requirement</b>: Collect the 2 quest artifacts of any Neutral Faction.</p>
-        <p><b>Cost</b>: 10Qa (1E16)</p>
+        <p><b>Cost</b>: 10 Qa (1e16)</p>
         <p>In order to affiliate with a Neutral Faction, like for Vanilla Factions, you first need to choose the alignment. The alignment upgrade for Neutral Factions is called the Proof of Neutrality.</p>
         <p>To get Proof of Neutrality you have to unlock at least 1 of the neutral factions.</p>
         <hr>
@@ -53,17 +53,17 @@
         <p><b>Effect</b>: Unlocks Tier 1 Faceless Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" align="middle"> Territorial Expanse</b></p>
-        <p><b>Cost</b>: 500 Qi (5E20)</p>
+        <p><b>Cost</b>: 500 Qi (5e20)</p>
         <p><b>Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (based on your Alignment) based on the amount of assistants you own.</p>
 		<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" align="middle"> Evolutive Mutation</b></p>
-        <p><b>Cost</b>: 5 Sx (5E21)</p>
+        <p><b>Cost</b>: 5 Sx (5e21)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Labyrinths you built in this Reincarnation.</p>
 		<p><b>Formula</b>: +floor(3 * x ^ 0.6)%, where x is the highest amount of Labyrinths you built in this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" align="middle"> Deep Memory</b></p>
-        <p><b>Cost</b>: 50 Sx (5E22)</p>
+        <p><b>Cost</b>: 50 Sx (5e22)</p>
 		<p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation.</p>
 		<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your Playtime (Longest Session) stat this Reincarnation.</p>
         <hr>
@@ -73,17 +73,17 @@
         <p><b>Effect</b>: Unlocks Tier 2 Faceless Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" align="middle"> Gold Synthesis</b></p>
-        <p><b>Cost</b>: 5 Sp (5E24)</p>
+        <p><b>Cost</b>: 5 Sp (5e24)</p>
         <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of coins owned.</p>
 		<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" align="middle"> Mitosis</b></p>
-        <p><b>Cost</b>: 50 Sp (5E25)</p>
+        <p><b>Cost</b>: 50 Sp (5e25)</p>
         <p><b>Effect</b>: Gain additional Faceless Assistants based on the amount of buildings you own.</p>
 		<p><b>Formula</b>: +floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" align="middle"> Overgrowth</b></p>
-        <p><b>Cost</b>: 500 Sp (5E26)</p>
+        <p><b>Cost</b>: 500 Sp (5e26)</p>
         <p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
 		<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
         <hr>
@@ -93,17 +93,17 @@
         <p><b>Effect</b>: Unlocks Tier 3 Faceless Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalTreasureFactionUpgrade.png" align="middle"> Magical Treasure</b></p>
-        <p><b>Cost</b>: 50 Oc (5E28)</p>
+        <p><b>Cost</b>: 50 Oc (5e28)</p>
         <p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
 		<p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" align="middle"> Abominations</b></p>
-        <p><b>Cost</b>: 500 Oc (5E29)</p>
+        <p><b>Cost</b>: 500 Oc (5e29)</p>
         <p><b>Effect</b>: Increase the production of assistants based on the amount of active spells.</p>
 		<p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png" align="middle"> Hive Mind</b></p>
-        <p><b>Cost</b>: 5 No (5E30)</p>
+        <p><b>Cost</b>: 5 No (5e30)</p>
         <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
 		<p><b>Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds (all time).</p>
         <hr>
@@ -117,16 +117,16 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCitiesQuestFactionUpgrade.png" align="middle"> Sunken Cities Quest</b></p>
         <p><b>Description</b>: C-uh'e sll'ha hrii nog nwyar. Kn'a wgah'n ph'sgn'wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to build enough Labyrinths.</p>
         <p><b>Requirement</b>: R22, 2000 Labyrinths</p>
-        <p><b>Cost</b>: 10 Dtg (1E100)</p>
+        <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SunkenCityFactionUpgrade.png" align="middle"> Sunken Cities</b></p>
         <p>Upgrade Labyrinths to Sunken Cities, boosting their production based on time spent in your longest game session and unlocking more unique perks for the building.</p>
         <p><b>Formula</b>: (75 * (x / 3600) ^ 0.9)%, where x is is your Playtime (Longest Session) stat.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities (after completing Secrets of the Ancients).</p>
-        <p><b>Cost</b>: 10 Ttg (1E103)</p>
+        <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/KeytotheLostCityFactionUpgrade.png" align="middle"> Key to the Lost City</b></p>
-        <p><b>Requirements</b>: R23+, 1500th excavation</p>
+        <p><b>Requirements</b>: R23+, 1,500th excavation</p>
         <p><b>Effect</b>: Unlocks the Secrets of the Ancients.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" align="middle"> Secrets of the Ancients</b></p>
@@ -139,7 +139,7 @@
         <p><b>Description</b>: This strange device seems to react to the Ancient Races magical capabilities... We may channel its power to increase their research potential!</p>
         <p><b>Type</b>: Quest Artifact and Upgrade</p>
         <p><b>Requirements</b>: Play a Neutral Faction, 2,000+ excavations, Unique Building.</p>
-        <p><b>Cost</b>: 100 QiSxg (1E200)</p>
+        <p><b>Cost</b>: 100 QiSxg (1e200)</p>
         <p><b>Effect</b>: Adds 2 extra slots to the Neutral faction you are playing.</p>
         <p><b>Note</b>: Faceless research is related to Spellcraft and Divine.</p>
         <p><b>Chance</b>: 0.2% per excavation</p>
@@ -156,11 +156,11 @@
         <p><b>Effect</b>: Gain assistants based on the amount of Unique Buildings owned (additive).</p>
         <p><b>Formula</b>: +(2.5 * x ^ 0.8), where x is Unique Buildings owned.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryQuest.png" alt="Mountain Palace Quest" align="middle"> <b>Forbidden Library Quest</b></p>
 		<p><b>Description</b>: Het'ankd gewob iiray. Gan'il Knes'fj pha'rgn wahl. (Those unpronounceable words with no apparent meaning have spoken directly to your mind: you have to excavate enough).</p>
-        <p><b>Requirement</b>: 5000 Excavations</p>
+        <p><b>Requirement</b>: 5,000 Excavations</p>
         <p><b>Cost</b>: 1 Ud (1e36) Emerald Coins</p>
         <p><b>Effect</b>: Grants access to Unique Building.</p>
         <br/>
@@ -200,5 +200,5 @@
         <p><b>Requirement</b>: Faceless Union</p>
         <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
-        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest max mana this R.</p>
+        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest Maxium Mana this Reincarnation.</p>
         <?php include "../scripts/footer.html"; ?>

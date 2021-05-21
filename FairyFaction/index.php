@@ -60,7 +60,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" align="middle"> Spellsmith</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
         <p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration additively.</p>
-        <p><b>Formula</b>: (x ^ 0.25), where x is the number of Blacksmiths you own.</p>
+        <p><b>Formula</b>: +(x ^ 0.25), where x is the number of Blacksmiths you own.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAllianceFactionUpgrade.png" align="middle"> Fairy Alliance</b></p>
@@ -80,10 +80,10 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png" align="middle"> Swarm of Fairies</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
-        <p><b>Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
+        <p><b>Formula</b>: +(0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FairyHeritage.png" alt="Fairy Heritage" align="middle"><b> Fairy Heritage</b></p>
-        <p><b>Cost</b>: 5000 Fairy Coins</p>
+        <p><b>Cost</b>: 5,000 Fairy Coins</p>
         <p><b>Requirements</b>: Fairy Champion Trophy</p>
         <p><b>Effect</b>: Increase the production of all buildings by 0.075% per Farm, Inn and Blacksmith you own.</p>
         <hr>
@@ -120,7 +120,7 @@
         <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
         <p><b>Formula</b>: +(2 * x ^ 0.8), where x is amount of Farms, Inns and Blacksmiths you own.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowerQuest.png" alt="Swarming Towers Quest" align="middle"> <b>Swarming Towers Quest</b></p>
 		<p><b>Description</b>: Hey! [echoes a thousand times] Listen! [echoes again]. Then the overlapping voice of a thousand fairies fills your head with the desire of having more of their kind as assistants.</p>
@@ -136,9 +136,8 @@
         <p><b>Unique Building</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
         <p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
-        <p><b>Effect</b>: Increase production based on the amount of active spells.</p>
         <p><b>Formula</b>: (0.5 * x ^ 2.5)%, where x is active spells.</p>
-        <p><b>Effect</b>: Grants access to Faction Union.</p>
+        <p><b>Effect</b>: Grants access to Fairies Union.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FairiesUnion.png" alt="Fairies Union" align="middle"> <b>Fairies Union</b></p>
         <p><b>Requirement</b>: Swarming Towers Unique Building</p>

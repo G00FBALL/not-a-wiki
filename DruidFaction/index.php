@@ -61,12 +61,12 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
         <p><b>Cost</b>: 5 Sx (5e21)</p>
         <p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
-        <p><b>Formula</b>: (3 + 1.75 * x ^ 0.5), where x is time spent in seconds this game.</p>
+        <p><b>Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is time spent in seconds this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>
         <p><b>Cost</b>: 50 Sx (5e22)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
-        <p><b>Formula</b>: (0.4 x ^ 0.4), where x is total buildings built. (additively and multiplicatively)</p>
+        <p><b>Formula</b>: (0.4 x ^ 0.4)%, where x is total buildings built. (additively and multiplicatively)</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidsFriendshipPactFactionUpgrade.png" align="middle"> Druid Friendship Pact</b></p>
@@ -120,7 +120,8 @@
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/StonehengeCircleFactionUpgrade.png" align="middle"> Stonehenge Circles</b></p>
-        <p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production by 30% per point of Maximum Mana and unlocking more unique perks for the building.</p>
+        <p>Upgrade Stone Pillars to Stonehenge Circles, boosting their production based on Maximum Mana and unlocking more unique perks for the building.</p>
+        <p><b>Formula</b>: (30 * x ^ 0.6)%, where x is your Maximum Mana.</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities(after completing Secrets of the Ancients).</p>
         <br/>
@@ -153,6 +154,8 @@
         <p><b>Cost</b>: 1 Sp (1e24) Elven and Demon Coins</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
         <p><b>Formula</b>: (9 * x ^ 0.3)%, where x is the sum of all your spell durations.</p>
+		<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+		<p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> <b>Ziggurat Quest</b></p>
 		<p><b>Description</b>: Hello, friend. We are close to restore the world balance... build us more Stonehenges, and we'll upgrade other buildings to be great places of power.</p>
@@ -177,7 +180,7 @@
         <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-        <p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+        <p><b>Formula</b>: (5 * ((x * y) / 2.5))%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -198,5 +201,5 @@
         <p><b>Requirement</b>: Druids Union</p>
         <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
-        <p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
+        <p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5))%, where T is building tier.</p>
     <?php include "../scripts/footer.html"; ?>

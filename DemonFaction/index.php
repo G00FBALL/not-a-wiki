@@ -17,7 +17,7 @@
         <p><b>Faction spell</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/HellFireBlast.png" align="middle"> <b>Hellfire Blast</b></p>
         <p><b>Effect</b>: Increases the production of Evil Fortresses and Hell Portals.</p>
-        <p><b>Formula</b>: (200 * x ^ 0.8), where x is your Trophies Unlocked stat.</p>
+        <p><b>Formula</b>: (200 * x ^ 0.8)%, where x is your Trophies Unlocked stat.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" align="middle"> <b>Hell Rush</b></p>
@@ -72,12 +72,12 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png" align="middle"> Infernal Magic</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
         <p><b>Effect</b>: Hell Portals also increase your Mana Regeneration.</p>
-        <p><b>Formula</b>: (x ^ 0.35), where x is the amount of Hell Portals built.</p>
+        <p><b>Formula</b>: +(x ^ 0.35), where x is the amount of Hell Portals built.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" align="middle"> Burning Legion</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
-        <p><b>Formula</b>: (x ^ 0.55), where x is the number of Hell Portals you own.</p>
+        <p><b>Formula</b>: +(x ^ 0.55), where x is the number of Hell Portals you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" align="middle"> Very Bad Guys</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
@@ -117,8 +117,8 @@
         <p><b>Cost</b>: 1 Sp (1e24) Demon Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on trophies unlocked.</p>
         <p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is amount of trophies unlocked.</p>
-        <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+		<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
+		<p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssQuest.png" alt="Burning Abyss Quest" align="middle"> <b>Burning Abyss Quest</b></p>
 		<p><b>Description</b>: Bwahahahaha! We are going to destroy this world! Everything will burn in the flames of hell! We want a Call to Arms longer than ever, everyone needs to suffer and despair!</p>
@@ -156,12 +156,12 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicFury.png" alt="Demonic Fury" align="middle"> <b>Demonic Fury</b></p>
         <p><b>Requirement</b>: Demons Union</p>
         <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
-        <p><b>Effect</b>: Multiplicatively increase faction coin find chance based on least time spent between Evil and Chaos this R.</p>
-        <p><b>Formula</b>: (0.25 * min(x,y) ^ 0.75), where x is evil time in seconds and y is chaos time in seconds.</p>
+        <p><b>Effect</b>: Multiplicatively increase faction coin find chance based on least time spent between Evil and Chaos this Reincarnation.</p>
+        <p><b>Formula</b>: (0.25 * min(x , y) ^ 0.75)%, where x is evil time and y is chaos time in seconds.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Devastation.png" alt="Devastation" align="middle"> <b>Devastation</b></p>
         <p><b>Requirement</b>: Demons Union</p>
         <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
-        <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
-        <p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is Mana Regeneration.</p>
+        <p><b>Effect</b>: Increase production of three highest building tiers based on Mana Regeneration.</p>
+        <p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is your Mana Regeneration.</p>
         <?php include "../scripts/footer.html"; ?>

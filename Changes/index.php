@@ -1263,8 +1263,8 @@
 	<p><b>New Formula</b>: (350 * x ^ 1.1)%, where x is the amount of spells affecting Heaven's Domain.</p>
 <br/>
 <p><b>Holy Site Quest</b> (Angel UB2)</p>
-	<p><b>Old Requirement</b>: 2M (2e6) Mana Regeneration.</p>
-	<p><b>New Requirement</b>: 100,000 Mana Regeneration.</p>
+	<p><b>Old Requirement</b>: 2 M (2e6) Mana Regeneration.</p>
+	<p><b>New Requirement</b>: 3 M (3e6) Mana Regeneration.</p>
 <br/>
 <p><b>Flesh Workshop Quest</b> (Undead UB2)</p>
 	<p><b>Old Requirement</b>: 85M% (8.5e7%) offline production bonus.</p>

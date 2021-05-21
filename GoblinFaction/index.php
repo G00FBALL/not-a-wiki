@@ -79,23 +79,23 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png" align="middle"> Fool's Gold</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Witch Conclaves you own this Reincarnation.</p>
-        <p><b>Formula</b>: floor(2 * x^0.6)%, where x is the highest amoutn of Witch Conclaves you own this Reincarnation.</p>
+        <p><b>Formula</b>: floor(2 * x ^ 0.6)%, where x is the highest amoutn of Witch Conclaves you own this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" align="middle"> Green Fingers Discount</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>
-        <p><b>Formula</b>: randRange(1,1200)*x, where x is your total coin production per second, including both buildings and assistants.</p>
+        <p><b>Formula</b>: (randRange(1 , 1200) * x), where x is your total coin production per second, including both buildings and assistants.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinHeritage.png" alt="Goblin Heritage" align="middle"><b> Goblin Heritage</b></p>
         <p><b>Requirements</b>: Goblin Champion Trophy</p>
         <p><b>Cost</b>: 5000 Goblin Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Gems you own.</p>
-        <p><b>Formula</b>: floor(7.5 * log10(1+x))%, where x is the amount of Gems you own.</p>
+        <p><b>Formula</b>: (floor(7.5 * log10(1 + x)))%, where x is the amount of Gems you own.</p>
         <hr>
         <p><b>Goblin Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinBankQuestFactionUpgrade.png" align="middle"> Goblin Bank Quest</b></p>
         <p><b>Description</b>: Hey There! We need a safe place to keep our honestly earned savings. We'll turn those Witch Conclaves into something more... useful, if you build enough of them.</p>
-        <p><b>Requirement</b>: R16 + 1750 Witch Conclaves</p>
+        <p><b>Requirement</b>: R16 + 1,750 Witch Conclaves</p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <br/>
@@ -103,7 +103,7 @@
         <p>Upgrade Witch Conclaves To Goblin Banks, boosting their production based on the amount of gold you own and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Buy "Goblin Banks Quest"</p>
         <p><b>Cost</b>: 10 Ttg (1e103)</p>
-        <p><b>Effect</b>: floor(log10(x+1)^(3.1/(1.1 + 0.1*A)))% where x is your current amount of Coins and A is Ascension.</p>
+        <p><b>Effect</b>: (floor(log10(1 + x) ^ (3.1 / (1.1 + 0.1 * A))))% where x is your current amount of Coins and A is Ascension.</p>
         <p><b>Effect</b>: Also allows access to the Research Facilities.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExchequerFactionUpgrade.png" align="middle"> Exchequer</b></p>
@@ -123,7 +123,7 @@
         <p><b>Effect</b>: Tax Collections are worth more seconds of production based on Gems owned. (multiplicative).</p>
         <p><b>Formula</b>: (0.25 * log10(1 + x) ^ 0.95)%, where x is gems owned.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Slave Market Quest" align="middle"> <b>Slave Market Quest</b></p>
 		<p><b>Description</b>: Time is money, friend! The markets are expanding, we need new places to sell our slaves to! Build more Neutral buildings for us, will you?</p>
@@ -140,7 +140,7 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
         <p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.</p>
         <p><b>Effect</b>: Increase production based on assistants.</p>
-        <p><b>Formula</b>: floor(0.25 * x ^ 0.75)%, where x is amount of assistants.</p>
+        <p><b>Formula</b>: (floor(0.25 * x ^ 0.75))%, where x is amount of assistants.</p>
         <p><b>Effect</b>: Grants access to Faction Union.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinsUnion.png" alt="Goblins Union" align="middle"> <b>Goblins Union</b></p>
@@ -148,7 +148,7 @@
         <p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coins find chance based on spells cast in this game.</p>
-        <p><b>Formula</b>: (2.25 * log10(x) ^ 2.25), where x is spells cast in this game.</p>
+        <p><b>Formula</b>: (2.25 * log10(1 + x) ^ 2.25)%, where x is spells cast in this game.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FoolsGems.png" alt="Fools Gems" align="middle"> <b>Fools Gems</b></p>

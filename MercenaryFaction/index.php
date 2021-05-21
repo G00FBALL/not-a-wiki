@@ -14,16 +14,16 @@
         <p>Unlocking the Mercenaries <b><u>Requires 3 reincarnations</u></b> and can be done in different game plays.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTribute.png" align="middle"> Mercenary Tribute</b></p>
-        <p><b>Cost</b>: At least: 1 Nod (1E60) Coins</p>
-        <p><b>Cost</b>: 100,000 of each Faction Coin</p>
+        <p><b>Cost</b>: At least: 1 Nod (1e60) Coins</p>
+        <p><b>Cost</b>: At least: 100,000 of each Faction Coin</p>
         <p>(Price rises with time and is reset at Abdications.)</p>
         <p><b>Coin Formula</b>: (1e60 * (ceil((1 + x)/60)) ^ 3.5), x is playtime in seconds</p>
-        <p><b>FC Formula</b>: (100000 * (ceil((1 + x)/60)) ^ 0.5), x is playtime in seconds</p>
+        <p><b>Faction Coin Formula</b>: (100000 * (ceil((1 + x)/60)) ^ 0.5), x is playtime in seconds</p>
         <p><b>In Game description</b></p>
         <p>Pay the mercenaries tribute to unlock their powers. Be quick through, the price increases over time!</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OathoftheMercenaries.png" align="middle"> Oath of the Mercenaries</b></p>
-        <p><b>Cost</b>: 1 Tvg (1E72) Coins.</p>
+        <p><b>Cost</b>: 1 Tvg (1e72) Coins.</p>
         <p><b>In Game description</b></p>
         <p>By reciting the Oath of the Mercenaries you will be able to join mercenaries for the rest of your existence. Not even Reincarnations will strip you of this right. You will be able to take any alignment and become a Good, Neutral or Evil mercenary, therefore determining your building set, and from there on you will be able to take any spell or ability from any other faction.</p>
         <hr>
@@ -38,11 +38,11 @@
         <p>The price of the tier upgrades cost Faction Coins of the upgrade's Faction. e.g.: For a Fairy spell or upgrade, it will cost Fairy Faction Coins. For a Druid spell or upgrade, it will cost Elven and Demon Faction Coins.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryFirstContract.png" align="middle"> Mercenary First Contract</b></p>
-        <p><b>Cost</b>: 50 Spd (5E55)</p>
+        <p><b>Cost</b>: 50 Spd (5e55)</p>
         <p><b>Effect</b>: Unlocks Tier 1 Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryMagicContract.png" align="middle"> Mercenary Magic Contract</b></p>
-        <p><b>Cost</b>: 50 Ocd (5E58), 1,000 FC</p>
+        <p><b>Cost</b>: 50 Ocd (5e58), 1,000 FC</p>
         <p>Pick an available Spell from any faction.</p>
         <p>The available choices will depend on the alignment you have chosen.</p>
         <br/>
@@ -68,22 +68,22 @@
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenarySecondContract.png" alt="MSC" align="middle"> Mercenary Second Contract</b></p>
-        <p><b>Cost</b>: 25 Vg (2.5E64)</p>
+        <p><b>Cost</b>: 25 Vg (2.5e64)</p>
         <p><b>Effect</b>: Unlocks Tier 2 Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyCrusadersMercenaryUpgrade.png" alt="Holy Crusaders" align="middle"> Holy Crusaders (For Good Alignments)</b></p>
-        <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
+        <p><b>Cost</b>: 25 Uvg (2.5e67)</p>
         <p><b>Effect</b>: Gain additional Crusader Assistants based on the amount of spells cast in this game.</p>
         <p><b>Formula</b>: (0.5 * ((1 + 0.8 * x) ^ (0.5 + 0.05 * A) - 1)), where x is amount of spells cast in this game and A is Ascenion.</p>
         <p><b>Effect</b>: Increase clicking reward by 1000% per active spell.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HeresiarchsMercenaryUpgrade.png" alt="Heresiarchs" align="middle"> Heresiarchs (For Evil Alignments)</b></p>
-        <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
+        <p><b>Cost</b>: 25 Uvg (2.5e67)</p>
         <p><b>Effect</b>: Increase the production of Evil buildings based on your most built Evil building.</p>
         <p><b>Formula</b>: (1.2 * x ^ 0.8), where x is the number of your most-built evil building you own. (A-Nerfed)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TradeLordsMercenaryUpgrade.png" alt="Trade Lords" align="middle"> Trade Lords (For Neutral Alignments)</b></p>
-        <p><b>Cost</b>: 25 Uvg (2.5E67)</p>
+        <p><b>Cost</b>: 25 Uvg (2.5e67)</p>
         <p><b>Effect</b>: When assistants finds a faction coin, they also find a faction coin for every other faction. Also increases mana regeneration based on faction coins gained in this game.</p>
         <p><b>Formula</b>: (floor(10 * log10(1 + x ^ 1.5)) / 10), where x is your Faction Coins Gained (This Game) stat.</p>
         <br/>
@@ -109,11 +109,11 @@
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenaryThirdContract.png" align="middle"> Mercenary Third Contract</b></p>
-        <p><b>Cost</b>: 5 Tvg (5E72)</p>
+        <p><b>Cost</b>: 5 Tvg (5e72)</p>
         <p><b>Effect</b>: Unlocks Tier 3 Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenarySorceryContract.png" align="middle"> Mercenary Sorcery Contract</b></p>
-        <p><b>Cost</b>: 5 Qavg (5E75), 25,000 FC</p>
+        <p><b>Cost</b>: 5 Qavg (5e75), 25,000 FC</p>
         <p>Pick an available Spell from any faction.</p>
         <p>The available choices will depend on the alignment and spells you have chosen.</p>
         <br/>
@@ -141,31 +141,31 @@
         <p>Following are upgrades rewarded from <a href="http://musicfamily.org/realm/Secret/" title="Secret Trophies">Secret Trophies</a>.</p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MercenarySpiritSecretTrophy.png" align="middle"> Mercenary Spirit</b></p>
         <p><b>Requirement</b>: Reincarnate while playing as a Mercenary</p>
-        <p><b>Cost</b>: 1 Ocd (1E57)</p>
+        <p><b>Cost</b>: 1 Ocd (1e57)</p>
         <p><b>Effect</b>: Increase the production of all buildings by 15% per reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HarlequinMercenaryUpgrade.png" alt="Harlequin" align="middle"> Harlequin</b></p>
         <p><b>Requirement</b>: As a mercenary, purchase one upgrade for 11 different factions.</p>
         <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Harlequin</b>.</p>
-        <p><b>Cost</b>: 5 Qivg (5E78)</p>
+        <p><b>Cost</b>: 5 Qivg (5e78)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of different factions involved in your mercenary upgrades.</p>
         <p><b>Formula</b>: (x ^ 3)%, where x is the number of different factions you've bought upgrades from.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/LuciferSecretTrophy.png" align="middle"> Lucifer</b></p>
         <p><b>Requirement</b>: As a Good Mercenary, purchase only Evil mercenary faction upgrades or vice versa.</p>
         <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds"><b>Lucifer R3+</b></a> build to get <b>Lucifer</b>.</p>
-        <p><b>Cost</b>: 50 Vg (5E64)</p>
+        <p><b>Cost</b>: 50 Vg (5e64)</p>
         <p><b>Effect</b>: Increase the production of all non-neutral mercenary buildings by 300%</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingMercenaryUpgrade.png" align="middle"> No Recruiting</b></p>
-        <p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries</p>
-        <p><b>Cost</b>: 1 Tg (1E93)</p>
+        <p><b>Requirement</b>: Reach 1 NoVg (1e90) gems in a Reincarnation without ever affiliating with the Mercenaries</p>
+        <p><b>Cost</b>: 1 Tg (1e93)</p>
         <p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation. (Not A-Nerfed)</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" alt="KYE1" align="middle"> Know Your Enemy, Part I</b></p>
         <p><b>Requirement</b>: Find Know Your Enemy, Part I Artifact - which requires R12, to play as Mercenaries, and have upgrades from 11 different factions. (Excavation chance: 10%)</p>
         <p><b>Note</b>: You can use <a target="_blank" target="_blank" href="http://musicfamily.org/realm/MercBuilds/#TrophyBuilds"><b>Harlequin R3+ and KYE R12+</b></a> build to get <b>Know Your Enemy, Part I</b>.</p>
-        <p><b>Cost</b>: 100 Vg (1E65)</p>
+        <p><b>Cost</b>: 100 Vg (1e65)</p>
         <p><b>Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary. ("Time allied with..." in the stats)</p>
         <p><b>Formula</b>: (0.75 * x ^ 0.6)%, where x is amount of time spent as non-mercenary factions (in seconds).</p>
         <hr>
@@ -198,7 +198,7 @@
         <p><b>Cost</b>: 100 Qag (1e125)</p>
         <p><b>Effect 1</b>: Allows access to Research Facilities</p>
         <p><b>Effect 2</b>: Upgrade Evil Fortresses to Tyrant Garrisons, boosting their production based on Offline Production Bonus and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: (0.5 * log10(x) ^ 3.5), where x is Offline Production Bonus.</p>
+        <p><b>Formula</b>: ((log10(1 + x) ^ 3)%, where x is your Offline Production Bonus.</p>
         <p><b>Effect 3</b>: Unlocks Dark Covenant</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DarkCovenant.png" alt="Dark Covenant" align="middle"> <b>Dark Covenant</b> (Spell Upgrade)</p>
@@ -212,7 +212,7 @@
         <p><b>Cost</b>: 100 Qag (1e125)</p>
         <p><b>Effect 1</b>: Allows access to Research Facilities</p>
         <p><b>Effect 2</b>: Upgrade Inns to Freemason's Hall, boosting their production based on the highest amount of assistants you had in a single game (This R) and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: (20 + 20 * x), where x is assistants you had in a single game (This R).</p>
+        <p><b>Formula</b>: (20 + 20 * x ^ 0.8)%, where x is the highest assistants you had in a single game this Reincarnation.</p>
         <p><b>Effect 3</b>: Unlocks Secret Exchange</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SecretExchange.png" alt="Secret Exchange" align="middle"> <b>Secret Exchange</b> (Spell Upgrade)</p>

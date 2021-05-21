@@ -16,90 +16,89 @@
         <p>These Requirements can be done in separate game plays.</p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/PassageToTheUnderWorld.png" align="middle"><b> Passage to the Underworld</b></p>
         <p><b>Requirements</b>: 200 Excavations</p>
-        <p><b>Cost</b>: 50Qid (5E49)</p>
+        <p><b>Cost</b>: 50 Qid (5e49)</p>
         <p><b>Effect</b>: Unlocks Prestige Quests</p>
         <p><b>Note</b>: Only needs to be bought once and do not count towards the 'Bought Upgrades' stats.</p>
-        <p><b>Tip</b>: Use Titans with about 53 Qa (5e16) gems</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" align="middle"><b> Sturdy Bearded Man's Quest</b></p>
         <p><b>Requirements</b>: Play a Good Alignment</p>
-        <p><b>Requirements</b>: Build 800 Inns, 7000 Buildings Owned (This Game), 10000 clicks (Total)</p>
-        <p><b>Cost</b>: 10Qad (1E46), 10K Fairy Coins, 10K Elven Coins, 10K Angel Coins</p>
+        <p><b>Requirements</b>: Build 800 Inns, 7,000 Buildings Owned (This Game), 10,000 clicks (This Reincarnation)</p>
+        <p><b>Cost</b>: 10 Qad (1e46), 10,000 Fairy Coins, 10,000 Elven Coins, 10,000 Angel Coins</p>
         <p><b>Effect</b>: Unlocks Underworld Diplomacy</p>
         <p><b>Note</b>: Only needs to be done once and do not count towards the 'Bought Upgrades' stats.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/UnderworldDiplomacy.png" align="middle"><b> Underworld Diplomacy</b></p>
         <p><b>Requirements</b>: Sturdy Bearded Man's Quest</p>
-        <p><b>Cost</b>: 1Qad (1E45)</p>
+        <p><b>Cost</b>: 1Qad (1e45)</p>
         <p><b>Effect</b>: Unlocks Prestige Faction Coins, Trade Treaty, Royal Exchanges and Heritage, Required each run until R3</p>
         <br/>
         <p><b>Faction spell</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxe.png" align="middle"><b> Diamond Pickaxe</b></p>
-        <p><b>Effect</b>: Increase clicking reward by 25% per Excavation and "Faction Coin Find Chance" by 200% for 12 seconds.</p>
+        <p><b>Effect</b>: Increase clicking reward by 25% per Excavation and "Faction Coin Find Chance" by +200% for 12 seconds.</p>
         <br/>
         <p><b>Spell Trophy & Upgrade</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfFactionUpgrade.png" align="middle"></a> <b>Minedwarf</b></p>
         <p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
-        <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to 300%.</p>
+        <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to +300%.</p>
         <p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
         <hr>
         <p><b>Tier 1 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png" align="middle"> Dwarven Trade Treaty</b></p>
-        <p><b>Cost</b>: 3000 Dwarven Coins</p>
+        <p><b>Cost</b>: 3,000 Dwarven Coins</p>
         <p><b>Effect</b>: Unlocks Tier 1 Upgrades</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" align="middle"> Dwarven Ale</b></p>
-        <p><b>Cost</b>: 5 Qad (5E45)</p>
+        <p><b>Cost</b>: 5 Qad (5e45)</p>
         <p><b>Effect</b>:Increase Faction Coin find chance based on the amount of Blacksmiths you own (Additive).</p>
         <p><b>Formula</b>:  +(2 * x ^ 0.5)%, where x is the amount of Blacksmiths you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" align="middle"> Expert Masonry</b></p>
-        <p><b>Cost</b>: 50 Qad (5E46)</p>
+        <p><b>Cost</b>: 50 Qad (5e46)</p>
         <p><b>Effect</b>: Reduce all building cost multipliers.</p>
         <p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
-        <p><b>Cost</b>: 500 Qad (5E47)</p>
+        <p><b>Cost</b>: 500 Qad (5e47)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
         <p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" align="middle"> Dwarven Friendship Pact</b></p>
-        <p><b>Cost</b>: 12000 Dwarven Coins</p>
+        <p><b>Cost</b>: 12,000 Dwarven Coins</p>
         <p><b>Effect</b>: Unlocks more Dwarven Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" align="middle"> Underground Citadels</b></p>
-        <p><b>Cost</b>: 50 Qid (5E49)</p>
+        <p><b>Cost</b>: 50 Qid (5e49)</p>
         <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Gems you own.</p>
         <p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is the amount of Gems you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
-        <p><b>Cost</b>: 500 Qid (5E50)</p>
+        <p><b>Cost</b>: 500 Qid (5e50)</p>
         <p><b>Effect</b>: Increase clicking reward based on the amount of buildings you own.</p>
         <p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is your Buildings Owned (This Game) stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BeardedAssistantsFactionUpgrade.png" align="middle"> Bearded Assistants</b></p>
-        <p><b>Cost</b>: 5 Sxd (5E51)</p>
+        <p><b>Cost</b>: 5 Sxd (5e51)</p>
         <p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
         <p><b>Formula</b>:  (x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAllianceFactionUpgrade.png" align="middle"> Dwarven Alliance</b></p>
-        <p><b>Cost</b>: 30000 Dwarven Coins</p>
+        <p><b>Cost</b>: 30,000 Dwarven Coins</p>
         <p><b>Effect</b>: Unlocks more Dwarven Upgrades.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" align="middle"> Battlehammers</b></p>
-        <p><b>Cost</b>: 500 Sxd (5E53)</p>
+        <p><b>Cost</b>: 500 Sxd (5e53)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
         <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is your Dwarven Coins Gained (This Game) stat.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
-        <p><b>Cost</b>: 5 Spd (5E54)</p>
+        <p><b>Cost</b>: 5 Spd (5e54)</p>
         <p><b>Effect</b>: Reduce Excavation cost multiplier.</p>
         <p><b>Formula</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.18 instead of 1.2</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
-        <p><b>Cost</b>: 50 Spd (5E55)</p>
+        <p><b>Cost</b>: 50 Spd (5e55)</p>
         <p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell (Additive).</p>
         <p><b>Formula</b>: +(50 + 35 * x ^ 0.7), where x is the duration of your longest spell.</p>
         <hr>
@@ -113,25 +112,24 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" align="middle"> Dwarven Forge Quest</b></p>
         <p><b>Description</b>: Aye again lad! Don't ye want a better place to forge yer weapons? With Enough Blacksmiths me people can help ye!</p>
         <p><b>Requirement</b>: R28 + 3,500 Blacksmiths</p>
-        <p><b>Cost</b>: 10 Sxg (1E184)</p>
+        <p><b>Cost</b>: 10 Sxg (1e184)</p>
         <p><b>Effect</b>: Unlocks Dwarven Forges.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeFactionUpgrade.png" align="middle"> Dwarven Forges</b></p>
         <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Dwarven Forge Quest</p>
-        <p><b>Cost</b>: 10 USxg (1E187)</p>
+        <p><b>Cost</b>: 10 USxg (1e187)</p>
         <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
         <p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" align="middle"> Earth Core Artifact</b></p>
         <p><b>Description</b>: This piece of molten rock is continuously shifting its shape, responding to mysterious energy sources.</p>
-        <p><b>Requirements</b>: R29 + 2750th Excavation</p>
+        <p><b>Requirements</b>: R29 + 2,750th Excavation</p>
         <p><b>Effect</b>: Unlocks The Secrets of the Underworld upgrade.</p>
-        <p><b>Effect</b>: Unlocks The Secrets of the Underworld.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheUnderworldFactionUpgrade.png" align="middle"> Secrets of the Underworld</b></p>
         <p><b>Requirement</b>: Prestige Unique Building, Earth Core Artifact</p>
-        <p><b>Cost</b>: 100 Sxg (1E185), 10 M (1E7) FC of each</p>
+        <p><b>Cost</b>: 100 Sxg (1e185), 10 M (1e7) Faction Coins of each</p>
         <p><b>Effect</b>: Unlocks Researches for Dwarves and Drow and provides a bonus for individual research branches.</p>
         <p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
         <p><b>Note</b>: Secrets of the Underworld allows Prestige factions to benefit from RP production formula with no extra bonus.</p>
@@ -139,7 +137,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKingsFactionUpgrade.png" align="middle"> Legacy of The Dwarven Kings</b></p>
         <p><b>Description</b>: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the wind.</p>
         <p><b>Requirement</b>: Find the Horn of the Kings artifact (Requires Dwarven Forges and 3250 Excavations)</p>
-        <p><b>Cost</b>: 10 SxSpg (1E232), 100 M (1e8) Dwarven Coins</p>
+        <p><b>Cost</b>: 10 SxSpg (1e232), 100 M (1e8) Dwarven Coins</p>
         <p><b>Effect</b>: Adds 3 extra Dwarven research slots: 2 for Craftsmanship and 1 to the faction's facility you are playing.</p>
         <p><b>Note</b>: Required to be bought each Dwarven research run.</p>
         <br/>
@@ -155,7 +153,7 @@
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of current excavations and excavation resets. (This R).</p>
         <p><b>Formula</b>: (0.025 * (x * (1 + y)) ^ 0.65)%, where x is current excavations and y is free and ruby excavation resets this R </p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
-        <p><b>Formula</b>: (1 + 0.3 * level)</p>
+        <p><b>Formula</b>: *(1 + 0.3 * level)</p>
         <p><b>Note</b>: Not available till R116</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionQuest.png" align="middle"><b> High Bastion Quest</b></p>
@@ -172,7 +170,7 @@
         <p><b>Unique Building</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
         <p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
-        <p><b>Formula</b>: (0.5 * x ^ 0.5), where x is clicks this Reincarnation.</p>
+        <p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is clicks this Reincarnation.</p>
         <p><b>Effect</b>: Grants access to Faction Union.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"><b> Dwarven Union</b></p>
@@ -181,26 +179,26 @@
         <br/>
         <p><b>Other Effects</b></p>
         <p><b>Proof of Order</b>: Increase all building production based on time spent this Reincarnation.</p>
-        <p><b>Formula</b>: (3.5 * x ^ 0.65), where x is time spent this Reincarnation.</p>
+        <p><b>Formula</b>: (3.5 * x ^ 0.65)%, where x is time spent this Reincarnation.</p>
         <br/>
         <p><b>Proof of Balance</b>: Increase Mana Regeneration based on clicks made in this Reincarnation.</p>
-        <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5), where x is amount of clicks made this Reincarnation.</p>
+        <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5)%, where x is amount of clicks made this Reincarnation.</p>
         <br/>
-        <p><b>Proof of Chaos</b>: Chaotically Multiplicatively increase assistant count based on spells cast this R.</p>
-        <p><b>Formula</b>: ((y = floor(log10(1 + x) + 1) / 10 + 2), for each digit of x, ((sum(digit ^ y)) ^ 0.9)</p>
+        <p><b>Proof of Chaos</b>: Multiplicatively increase assistant chaotically based on spells cast this Reincarnation.</p>
+        <p><b>Formula</b>: ((sum(digit(x) ^ y)) ^ 0.9)%, with (y = floor(log10(1 + x) + 1) / 10 + 2), where x is spells cast this Reincarnation.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/SolidityUnionUpgrade1.png" align="middle"><b> Solidity</b></p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>
         <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the highest amount of High Bastions you built in this Reincarnation.</p>
-        <p><b>Formula</b>: (1.6 * x ^ 0.6), where x is High Bastion.</p>
+        <p><b>Formula</b>: (1.6 * x ^ 0.6)%, where x is the highest amount of High Bastion built in this Reincarnation.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"><b> Stonetalking</b></p>
         <p><b>Cost</b>: 100 Qitg (1e110)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
-        <p><b>Formula</b>: (0.055 * max(x, y) ^ 0.55), where x is max mana and y is mana regen.</p>
+        <p><b>Formula</b>: (0.055 * max(x, y) ^ 0.55)%, where x is Maximum Mana and y is Mana Regeneration.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
         <p><b>Cost</b>: 1 Notg (1e120)</p>
-        <p><b>Effect</b>: Multiplicatively increase mana regen and max mana based on highest time spent as Order, Balance or Chaos.</p>
-        <p><b>Formula</b>: (0.03 * max(x, y, z) ^ 0.7), where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
+        <p><b>Effect</b>: Multiplicatively increase Mana Regeneration and Maximum Mana based on highest time spent as Order, Balance or Chaos.</p>
+        <p><b>Formula</b>: (0.03 * max(x, y, z) ^ 0.7)%, where x is order time, y is balance time, and z is chaos time (All in seconds this R).</p>
         <?php include "../scripts/footer.html"; ?>
