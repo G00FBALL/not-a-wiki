@@ -80,8 +80,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" align="middle"> Bardic Knowledge</b></p>
         <p><b>Cost</b>: 50 Sp (5e25)</p>
-        <p><b>Effect</b>: Increase the production of all buildings based on your maximum Mana.</p>
-        <p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum Mana.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on your Maximum Mana.</p>
+        <p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your Maximum Mana.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png" align="middle"> Shapeshifting</b></p>
         <p><b>Cost</b>: 500 Sp (5e26)</p>
@@ -106,7 +106,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
         <p><b>Cost</b>: 5 No (5e30)</p>
         <p><b>Effect</b>: Increase the production of each building based on the amount of buildings of the same type. </p>
-        <p><b>Formula</b>: (1.5 * x ^ 0.9)%, where x is the amount of buildings of the same type.</p>
+        <p><b>Formula</b>: (1.5 * x ^ 0.9)%, where x is the amount of buildings of the same tier.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DruidHeritage.png" align="middle"><b> Druid Heritage</b></p>
         <p><b>Requirements</b>: Druid Champion Trophy</p>

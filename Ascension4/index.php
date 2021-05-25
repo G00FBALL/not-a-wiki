@@ -10,7 +10,7 @@
 		<p><b>Gems to Coins Formula</b>: n * (n + 1) * 5e26, where n is gems.</p>
 		</br>
 		<p>Currency will change to Sapphire Coins, and all upgrades costing Amethyst Coins will be free to purchase.</p>
-		<p>All Ascension Penalties from Faction Upgrades and Advanced Heritages are completely removed in A4. Other production upgrades receive the Ascension penalty as usual.</p>
+		<p>All Ascension Penalties from Faction Upgrades and Advanced Heritages are completely removed in A4. Other production upgrades receive the Ascension penalty as usual. Building Cost multiplier is the same as in A0.</p>
 		<p><b><font color="red">When Ascending to Ascension 4, all Lineages will be set back to level 75 if higher.<font></b></p>
 		</br>
 		<p>You will lose access to Mercenaries, Prestige and Elite Factions.</p>

@@ -298,7 +298,7 @@
 	"<p><b>Titan Challenge 2</b></p>
 	<p><img src=http://musicfamily.org/realm/Factions/picks/HarmonyofThoughtsChallenges.png align=middle> <b>Harmony of Thoughts</b></p>
 	<p>&quot;The mighty Titans wish for you to harness arcane powers through your fingertips.&quot;</p>
-	<p><b>2 Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
+	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
 	<p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
 	<p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent not playing as Faceless this R.</p>
