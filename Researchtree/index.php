@@ -338,7 +338,7 @@
         <area research="<p><b>S305</b> - For All Factions</p>
 	<p><b>Research Name</b>: Mesmerization</p>
   	<p><b>Hint</b>: Face not required for a long time.</p>
-	<p><b>Requirement</b>: 2 days as Faceless (Total across all R)</p>
+	<p><b>Requirement</b>: 2 days as Faceless (across all Reincarnations)</p>
 	<p><b>Cost</b>: 225.2 OcQig (2.252e179)</p>
 	<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.</p>
 	<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
@@ -607,7 +607,7 @@
         <area research="<p><b>C305</b> - For All Factions</p>
 	<p><b>Research Name</b>: Golemcraft</p>
 	<p><b>Hint</b>: Titanic Patience.</p>
-	<p><b>Requirement</b>: 2 days as Titans (Total across all R)</p>
+	<p><b>Requirement</b>: 2 days as Titans (across all Reincarnations)</p>
 	<p><b>Cost</b>: 255.2 OcQig (2.552e179)</p>
 	<p><b>Effect</b>: Gain additional assistants based on your total time spent offline (in hours).</p>
 	<p><b>Formula</b>: floor(0.85 * (x / 60) ^ 0.85), where x is your Time Spent Offline(this R).</p>
@@ -716,7 +716,7 @@
         <area research="<p><b>C3100</b> - All Factions</p>
 	<p><b>Research Name</b>: Engineering</p>
 	<p><b>Hint</b>: Spend some quality time with the Mercenaries.</p>
-	<p><b>Requirement</b>: 15 days Mercenary time spent (All Time).</p>
+	<p><b>Requirement</b>: 15 days as Mercenary (across all Reincarnations)</p>
 	<p><b>Cost</b>: 769.3 OcQig (7.693e179)</p>
 	<p><b>Effect</b>: Increase Maximum Mana based on the total amount of clicks made in this Reincarnation.</p>
 	<p><b>Formula</b>: +(65 * x ^ 0.35), where x is clicks made in this Reincarnation.</p>
@@ -757,7 +757,7 @@
 	<p><b>Research Name</b>: Installation</p>
 	<p><b>Requirement</b>: R223</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on their quantity.</p>
-	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is total amount of buildings.</p>
+	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the amount of buildings of the same tier.</p>
 	" coords="380,338,420,378" shape="rect">
 		<area research="<p><b>C11375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Exhibition</p>
@@ -974,7 +974,7 @@
         <area research="<p><b>D1375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Soulrending</p>
 	<p><b>Hint</b>: Be good, wish for the best.</p>
-	<p><b>Requirement</b>: 604800s 7 days spent as good (Across all Rs)</p>
+	<p><b>Requirement</b>: 7 days spent as good (across all Reincarnations)</p>
 	<p><b>Cost</b>: 137.8 Qavg (1.378e77)</p>
 	<p><b>Effect</b>: Ascensions count 50% more for Spiritual Surge.</p>
 	" coords="44,548,84,588" shape="rect">
@@ -1248,7 +1248,7 @@
         <area research="<p><b>E1425</b> - For All Neutral Factions</p>
 	<p><b>Research Name</b>: Rarity</p>
     <p><b>Hint</b>: Be neutral. Be different. For a short week.</p>
-	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless, Research A545, C1300</p>
+	<p><b>Requirement</b>: 5 days playtime each with Titan, Druid and Faceless + Research A545 & C1300</p>
 	<p><b>Cost</b>: 131 Qivg (1.31e80)</p>
 	<p><b>Effect</b>: Increase Gem Grinder bonus based on the amount of artifacts you found.</p>
 	<p><b>Formula</b>: (1.25 * x ^ 1.25)%, where x is artifacts found.</p>
@@ -1272,7 +1272,7 @@
 	<p><b>Research Name</b>: Decentralization</p>
 	<p><b>Requirement</b>: R175+, Forgotten Relic, Vault artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own. Lower tiers get better bonuses.</p>
-	<p><b>Formula</b>: ((3 - 0.25 * T) ^ 4 * x ^ 0.6)%, where T is building tier and x is the number of (every) buildings you own.</p
+	<p><b>Formula</b>: ((3 - 0.25 * T) ^ 4 * x ^ 0.6)%, where T is building tier and x is the number of (every) buildings you own.</p>
 	" coords="170,758,210,798" shape="rect">
         <area research="<p><b>E5375</b> - For Balance</p>
 	<p><b>Research Name</b>: Whipround</p>
@@ -1433,14 +1433,14 @@
 	<p><b>Effect</b>: Increase mana regeneration based on mana produced in this game.</p>
 	<p><b>Formula</b>: floor(30 * ln(1 + x) ^ 1.2) / 10, where x is your Mana Produced (This Game) stat.</p>
 	" coords="380,884,420,924" shape="rect">
-        <area research="<p><b>A305</b> - For All Factions
-	<p><b>Research Name</b>: Engraving
-	<p><b>Hint</b>: Druidic experience.
-	<p><b>Requirement</b>: 2 days as Druids (Total across all R)
-	<p><b>Cost</b>: 255.2 OcQig (2.552e179)
-	<p><b>Effect</b>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.
-	<p><b>Effect</b>: Also increase Faction Coins find chance by a multiplicative 100%.
-	<p><b>Formula</b>: floor(3.5 * ln(1 + x) ^ 3.5)%, where x is your Spells Cast (This Game) stat.
+        <area research="<p><b>A305</b> - For All Factions</p>
+	<p><b>Research Name</b>: Engraving</p>
+	<p><b>Hint</b>: Druidic experience.</p>
+	<p><b>Requirement</b>: 2 days as Druids (across all Reincarnations)</p>
+	<p><b>Cost</b>: 255.2 OcQig (2.552e179)</p>
+	<p><b>Effect</b>: Increase your chance to find Faction Coins based on the amount of spells cast in this game.</p>
+	<p><b>Effect</b>: Also increase Faction Coins find chance by a multiplicative 100%.</p>
+	<p><b>Formula</b>: floor(3.5 * ln(1 + x) ^ 3.5)%, where x is your Spells Cast (This Game) stat.</p>
 	" coords="2,926,42,966" shape="rect">
         <area research="<p><b>A330</b> - For All Factions</p>
 	<p><b>Research Name</b>: Adaptation</p>
@@ -1787,7 +1787,7 @@
         <area research="<p><b>W1375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Scavenging</p>
 	<p><b>Hint</b>: GUD? More like Evil.</p>
-	<p><b>Requirement</b>: 604800s 7 days spent as evil (Across all Rs)</p>
+	<p><b>Requirement</b>: 7 days spent as evil (across all Reincarnations)</p>
 	<p><b>Cost</b>: 137.8 Qavg (1.378e77)</p>
 	<p><b>Effect</b>: Increases Faction Coin find chance by a multiplicative 200%.</p>
 	<p><b>Effect</b>: Increase the chance to find Faction Coins based on the amount of assistants you own.</p>
