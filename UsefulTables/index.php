@@ -5,7 +5,9 @@
 <?php include "../scripts/header.html"; ?>
 <br/><br/>
 <b><center><font size="5">Useful Tables</font></center></b>
-<br/><br/>
+<br/>
+<p><b>How did you get here? This site is no longer promoted</b></p>
+<br/>
 <br style="clear: both"/><hr>
     <a id="Companions"></a>
     <table class="numtable" align="left" >
@@ -85,7 +87,7 @@
     <table class="numtable" align="center" >
         <thead>
         <tr>
-            <th colspan="3">God's Finger Time Table</th>
+            <th colspan="3">God's Finger Time Table (outdated)</th>
         </tr>
         <tr>
             <th>Clicks Per Sec</th>
