@@ -42,10 +42,10 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R225-226) 0 - 1e16 (1 Qa)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R225-226) 0 - 1e16 (10 Qa)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: BetaTester</p>
-						<p><b>Range</b>: 0 - 1e15 (1 Qa) Gems</p>
+						<p><b>Range</b>: 0 - 1e16 (10 Qa) Gems</p>
 						<p><b>Faction</b>: Druid</p>
 						<p><b>Bloodline</b>: Demon</p>
 						<p><b>Artifact Set</b>: Undead, Titan (if buffed)</p>
@@ -70,10 +70,10 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R227) 0 - 1e16 (1 Qa)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R227) 0 - 1e16 (10 Qa)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: BetaTester</p>
-						<p><b>Range</b>: 0 - 1e15 (1 Qa) Gems</p>
+						<p><b>Range</b>: 0 - 1e16 (10 Qa) Gems</p>
 						<p><b>Faction</b>: Druid</p>
 						<p><b>Bloodline</b>: Demon</p>
 						<p><b>Artifact Set</b>: Undead, Titan (if buffed)</p>

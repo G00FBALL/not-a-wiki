@@ -952,7 +952,7 @@
                     </div>
                 </div>
 				<div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 2 - 9 2021)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Apr 2 - Apr 9, 2021)</a></b></p>
                     <div class="autohide">
                         <p>The Easter event will be starting on <b>Apr 2nd 2021, 12:01 PM UTC</b> and will end on <b>Apr 9th 2021, 6:59 PM UTC</b>.</p>
                         <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
@@ -1134,7 +1134,7 @@
                     </div>
                 </div>
 				<div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2021)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (Apr 1, 2021)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -1968,9 +1968,9 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (June 9 - June 13, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 9 - Jul 13, 2020)</a></b></p>
                     <div class="autohide">
-						<p>The Goblin Invasion event will be starting on <b>Jun 9th 2020, 12:01 PM UTC</b> and will end on <b>Jun 13th 2020, 6:59 PM UTC</b>.</p>
+						<p>The Goblin Invasion event will be starting on <b>Jul 9th 2020, 12:01 PM UTC</b> and will end on <b>Jul 13th 2020, 6:59 PM UTC</b>.</p>
                         <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
@@ -2230,7 +2230,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 9 - 16 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Apr 9 - Apr 16, 2020)</a></b></p>
                     <div class="autohide">
 						<p>The Easter event will be starting on <b>Apr 9th 2020, 12:01 PM UTC</b> and will end on <b>Apr 16th 2020, 6:59 PM UTC</b>.</p>
                         <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
@@ -2406,7 +2406,7 @@
                     </div>
                 </div>
 				<div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (Apr 1, 2020)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -3210,7 +3210,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (July 22 - July 26, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 22 - Jul 26, 2019)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
                         <p><b>Cost</b>: Free</p>
@@ -3454,9 +3454,9 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 18 - April 25, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Apr 18 - Apr 25, 2019)</a></b></p>
                     <div class="autohide">
-                        <p>Starts on April 18th, 12:01 PM UTC and will end on April 25th, 6:59 PM UTC.</p>
+                        <p>Starts on Apr 18th, 12:01 PM UTC and will end on Apr 25th, 6:59 PM UTC.</p>
                         <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
                         <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
                         <hr>
@@ -3624,7 +3624,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2019)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (Apr 1, 2019)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -4424,9 +4424,9 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (March 30 - Apr 6, 2018)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Mar 30 - Apr 6, 2018)</a></b></p>
                     <div class="autohide">
-                        <p>Starts on March 30th, 12:01 PM UTC and will end on April 6th, 6:59 PM UTC.</p>
+                        <p>Starts on Mar 30th, 12:01 PM UTC and will end on Apr 6th, 6:59 PM UTC.</p>
                         <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
                         <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
                         <hr>
@@ -4587,7 +4587,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2018)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (Apr 1, 2018)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -5196,7 +5196,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2nd Anniversary - Blood War (June 2 - June 6, 2017)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">2nd Anniversary - Blood War (Jun 2 - Jun 6, 2017)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
                         <p><b>Cost</b>: Free</p>
@@ -5282,7 +5282,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (April 12 - Apr 19, 2017)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Apr 12 - Apr 19, 2017)</a></b></p>
                     <div class="autohide">
                         <p>Starts on Apr 12th, 12.00 PM UTC and will end on Apr 19th, 7.00 PM UTC.</p>
                         <p>You get a RNG state for Eggs when the event begins, Which predetermines when you'll get certain eggs.</p>
@@ -5417,7 +5417,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2017)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (Apr 1, 2017)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/AprilFools2017.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -5872,7 +5872,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (April 1, 2016)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">April Fools (Apr 1, 2016)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/Aprilfools1.png align="middle"> Enhanced Production</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -5901,7 +5901,7 @@
                     </div>
                 </div>
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (March 25 - March 31, 2016)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Mar 25 - Mar 31, 2016)</a></b></p>
                     <div class="autohide">
                         <p><b><img src="/realm/Factions/picks/BlueOmelette.png" alt="Blue Omelette" align="middle"> Blue Omelette</b></p>
                         <p><b>Kind</b>: Upgrade</p>
