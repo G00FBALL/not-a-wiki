@@ -881,7 +881,7 @@
 								<p>Gems Needed: (1e27 ^ A ^ 0.75). A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20), etc.</p>
 							</td>
 							<td>Increase base clicking reward by +1 T (1e12).</td>
-							<td>Advised to do at R34+ with Fairyline Dwairy or at R85+ with the <a href="http://musicfamily.org/realm/R75Plus/">Stoic Resistance (R85+)</a> build</td>
+							<td>Advised to do at R34+ with Fairyline Dwairy or much later (R85+ or even A2).</td>
 						</tr>
 						<tr>
 							<td>

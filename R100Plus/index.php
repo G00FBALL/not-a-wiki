@@ -4,87 +4,71 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-<p style="color:red"><b>All Builds are outdated as of v4.0. Use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
+<p><b>General Note</b>: Once the buffing of Uniformity and TTC4 is recommended, the beginning of an Reincarnation (below 1e30 (1 No)) can be used best for it. A pair of example builds is shown below, but pretty much any valid combination that matches with the final production build of that Reincarnation works</p>
 <br/>
 <div class="shlisting">
     <p><b>Production Builds</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Druid (R100-R110), 0 - 1e29 (100 Oc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e33 (1 Dc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e29 (100 Oc) Gems</p>
-                <p><b>Faction</b>: Druid</p>
-                <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Druid (if avaliable)</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S3200,C300,C340,D200,D275,E260,E1325,A251,A375,A3400,W350,W400">
-				</p>
-                <p>S3200,</p>
-                <p>C300,C340,</p>
-                <p>D200,D275,</p>
-                <p>E260,E1325,</p>
-                <p>A251,A375,A3400,</p>
-                <p>W350,W400</p>
-                <p><b>Note</b>: Starter Ascension 2 build, before getting any important unlocks.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblins (R100-R110), 0 - 1e31 (10 No)</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Kiluh</p>
-                <p><b>Range</b>: 0 - 1e31 (10 No) Gems</p>
-                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Druid (if avaliable)</p>
+                <p><b>Artifact Set</b>: Undead (if avaliable)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S50,S3200,C175,C340,D200,E1,E225,E1325,A10,A3400,W25,W205">
+                    <input type="text" value="S50,S3200,C175,C340,D290,E1,E225,E3250,A10,A3400,W25,W205">
 				</p>
                 <p>S50,S3200,</p>
                 <p>C175,C340,</p>
-                <p>D200,</p>
-                <p>E1,E225,E1325,</p>
+                <p>D290,</p>
+                <p>E1,E225,E3250,</p>
                 <p>A10,A3400,</p>
                 <p>W25,W205</p>
+				<p><b>Note</b>: Needs Tier 7 spells & Holy Frenzy beyond 1e29 (100 Oc) gems.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R100-R110), 1e31 (10 No)+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R100-R110), 1e33 - 1e41 (1 Dc - 100 Dd)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e31 (10 No) Gems+</p>
-                <p><b>Requirements:</b> Tier 7 spells, Holy Frenzy</p>
-                <p><b>Alignment</b>: Good, Balance</p>
+                <p><b>Range</b>: 1e33 - 1e41 (1 Dc - 100 Dd) Gems</p>
+                <p><b>Requirements</b>: Tier 7 spells, Holy Frenzy</p>
                 <p><b>Faction</b>: Elf</p>
-                <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Angel, Elf (1e36 (1 Ud) Gems+)</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Artifact Set</b>: Angel</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E3250,A3400,W10,W1375">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S175,S400,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
+					<b>1e38 gems+</b>
 				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
-                <p>D50,D1375,</p>
+                <p>D50,D290,</p>
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
-                <p><b>Notes</b>: Takes aprox. 25 minutes for SS7.</p>
-				<p><b>Notes</b>: Replace Angel set with Elven set at 1e36 (1 Ud) Gems+.</p>
-
+				<p><b>Note</b>: Do <b>not</b> autocast Tax Collections once you purchased EL10, Mana is needed for the other spells.</p>
+                <p><b>Note</b>: At e38 (100 Ud) Gems+, swap to S400 and D1375.</p> 
+				<p><b>Note</b>: Recommended to buff Uniformity (100%+) and TTC4 (400%+).</p>
+				<p><b>Note</b>: Takes aprox. 10 minutes for SS7.</p>
+				<p><b>Note</b>: Profits from manual clicking.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R111-R115), 0 - 1e35 (100 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R111-R115), 0 - 1e33 (1 Dc)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 0 - 1e35 (100 Dc) Gems+<</p>
-                <p><b>Alignment</b>: Good, Balance</p>
+                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems<</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Elf</p>
+                <p><b>Artifact Set</b>: Angel</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375">
@@ -95,49 +79,107 @@
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
+				<p><b>Note</b>: Not intended to get to SS7.<p>
+				<p><b>Note</b>: Profits from manual clicking.</p>
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Elves (R111-R115) 1e35+ (100 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e33 - 1e48 (1 Dc - 1 Sxd)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e35+ (100 Dc) Gems+</p>
+                <p><b>Range</b>: 1e33 - 1e48 (1 Dc - 1 Sxd) Gems</p>
                 <p><b>Faction</b>: Elf</p>
-                <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Elf</p>
+                <p><b>Bloodline</b>: Goblin</p>
+                <p><b>Artifact Set</b>: Angel</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
-				</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E3250,A3400,W10,W1375">
-					<b>1e42 (1 Td) Gems+</b>
-				</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E400,A3400,W10,W1375">
-					<b>1e46 (10 Qad) Gems+</b>
+                    <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E3250,A3400,W10,W1375">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S175,S3200,C1,C225,C340,D50,D1375,E25,E145,A250,W10,W1375">
-					<b>1e48 (1 Qid) Gems+</b>
+                    <input type="text" value="S175,S400,C1,C225,C400,D50,D1375,E25,E3250,A3400,W10,W1375">
+					<b>1e38 gems+</b>
 				</p>
                 <p>S175,S3200,</p>
                 <p>C1,C225,C400,</p>
-                <p>D50,D1375,</p>
+                <p>D50,D290,</p>
                 <p>E25,E3250,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
-                <p><b>Notes</b>: Swap C400 with C340 at 1e42 (1 TD) gems.</p>
-                <p><b>Notes</b>: Swap E3250 with E400 at 1e46 (10 QaD) gems.</p>
-				<p><b>Notes</b>: Swap E400 with E145 and A3400 with A250 at 1e48 (1 Qid) Gems.</p>
-                <p><b>Notes</b>: Dont cast all the spells at max tiers until you reach union. SS7 takes aprox. 25 minutes.</p>
+				<p><b>Note</b>: Do <b>not</b> autocast Tax Collections once you purchased EL10, Mana is needed for the other spells.</p>
+                <p><b>Note</b>: At e40 (100 Ud) Gems+, swap to S400 and D1375.</p> 
+				<p><b>Note</b>: Recommended to buff Uniformity (100%+) and TTC4 (400%+).</p>
+				<p><b>Note</b>: Profits from manual clicking.</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R114-R115), 1e48 (1 Sxd)+</a></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Ensteffahn</p>
+                <p><b>Range</b>: 1e48 (1 Sxd)+</p>
+                <p><b>Faction</b>: Angel</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Angel</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S3200,C25,C400,D1,D175,D1375,E145,A50,A120,W180,W225">
+				</p>
+			    <p>S10,S3200,</p>
+                <p>C25,C400,</p>
+                <p>D1,D175,D1375,</p>
+                <p>E145,</p>
+                <p>A50,A120,</p>
+                <p>W180,W225</p>
+				<p><b>Note</b>: Recommended to buff Uniformity (400%+) and TTC4 (1000%+).</p>
+				<p><b>Note</b>: Needs AN12 to afford SS7</p>
             </div>
         </div>
     </div>
     <br/>
+    <p><b>Uniformity Buff Example</b></p>
+    <div class="category">
+		<p>Uniformity buff builds that match with Elves (Good, Balance):</p>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Titan</a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Neutral, Order</p>
+                <p><b>Faction</b>: Titan</p>
+                <p><b>Bloodline</b>: Druid</p>
+                <p><b>Artifact Set</b>: Goblin</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S300,S3200,C251,C375,C400,D290,D350,E275,E3250,A3400,W260,W1375">
+				</p>
+                <p>S300,S3200,</p>
+                <p>C251,C375,C400,</p>
+                <p>D290,D350,</p>
+                <p>E275,E3250,</p>
+                <p>A3400,</p>
+                <p>W260,W1375</p>
+            </div>
+        </div>
+        <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Demon</a></b></p>
+            <div class="autohide">
+                <p><b>Alignment</b>: Evil, Chaos</p>
+                <p><b>Faction</b>: Demon</p>
+                <p><b>Bloodline</b>: Titan</p>
+                <p><b>Artifact Set</b>: Goblin</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S3200,C50,C400,D10,D250,E230,E1325,A3400,W1,W175,W205">
+				</p>
+                <p>S3200,</p>
+                <p>C50,C400,</p>
+                <p>D10,D250,</p>
+                <p>E230,E1325,</p>
+                <p>A3400,</p>
+                <p>W1,W175,W205</p>
+            </div>
+        </div>
+    </div>
+    <br/>
+	<p style="color:blue"><b>All Builds below are still not updated for v4.0, most are roughly the same, but be aware.</b></p>
     <p><b>Unique Building 2 Quest Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
