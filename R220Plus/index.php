@@ -127,10 +127,10 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Midrange (R220-227)</a></b></p>
 			<div class="autohide">
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titan (R220-224) 1e15 - 1e28 (10 T - 10 Oc)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titan (R220-224) 1e15 - 1e28 (1 Qa - 10 Oc)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: BetaTester</p>
-						<p><b>Range</b>: 1e15 - 1e28 (10 T - 10 Oc) Gems</p>
+						<p><b>Range</b>: 1e15 - 1e28 (1 Qa - 10 Oc) Gems</p>
 						<p><b>Faction</b>: Titan</p>
 						<p><b>Bloodline</b>: Demon</p>
 						<p><b>Artifact Set</b>: Titan</p>
@@ -142,12 +142,12 @@
 						</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S5875,S5125,C5625,C5875,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F5750,F5500">
+							<input type="text" value="S5875,S5125,C5375,C5625,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F5750,F5500">
 							<b>R221+</b>
 						</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S5875,S5125,C5625,C5875,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F11000">
+							<input type="text" value="S5875,S5125,C5375,C5625,D5625,D5125,E5625,E5875,A10875,W5875,W5125,F11000">
 							<b>R222+, e22 Gems+</b>
 						</p>
 						<p>S5875,S5625,</p>
@@ -163,10 +163,10 @@
 					</div>
 				</div>
 				<div class="shelementwhole">
-					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titan (R225+) 1e15 - 1e28 (10 T - 10 Oc)</a></b></p>
+					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Titan (R225+) 1e16 - 1e28 (10 Qa - 10 Oc)</a></b></p>
 					<div class="autohide">
 						<p><b>Author</b>: BetaTester</p>
-						<p><b>Range</b>: 1e15 - 1e28 (10 T - 10 Oc) Gems</p>
+						<p><b>Range</b>: 1e16 - 1e28 (10 Qa - 10 Oc) Gems</p>
 						<p><b>Faction</b>: Titan</p>
 						<p><b>Bloodline</b>: Demon</p>
 						<p><b>Artifact Set</b>: Titan</p>
