@@ -1126,7 +1126,7 @@
 	<p><b>Removed Effect</b>: No longer boosts Titan Drill and Titan Sized Walls upgrade strength.</p>
 <br/>
 <p><b>Dragon Challenge 3</b> (Serpent Queller)</p>
-	<p><b>Removed Effect</b>: No longer removes an ascension penalty from Hive Mind and increase its bonus.</p>
+	<p><b>Removed Effect</b>: No longer increases the bonus and removes an ascension penalty from Deep Memory.</p>
 <br/>
 <p><b>Dragon Challenge 6</b> (Dracomet Vault)</p>
 	<p><b>Old Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 120,000 buildings, 2e10 mana produced, 7,500 excavations, 6,000 assistants, 300,000 max mana and 175,000 mana regeneration.</p>

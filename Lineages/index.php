@@ -657,7 +657,7 @@
     <p><b>Level 30</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk4.png" align="middle"> Archon Perk 4</b></p>
     <p><b>Requirements</b>: Reach Lineage Level 30</p>
-    <p><b>Effect</b>: Precognition also effects trophies, gems owned and faction coins found.</p>
+    <p><b>Effect</b>: Precognition also affects trophies, Gems owned and Faction Coins found.</p>
     <br/>
     <p><b>Level 40</b></p>
     <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonPerk5.png" align="middle"> Archon Perk 5</b></p>
