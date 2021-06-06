@@ -31,12 +31,12 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="AN5,GB3,GB4,GB6,UD7,UD10,FC3,DD11,DN2,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,E3300,E135,E400,E495,E145,E230,A2950,A270,A30,A120,A250,A305,W1275,W5625,W275,W400,F5250">
-                    <b>Variant 2(no ziggurat buff needed, slightly weaker)</b>
+                    <b>Variant 2</b>
                 </p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C590,C80,C135,C150,C25,C105,C305,D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,W25,W50">
-                    <b>Variant 2 secondary researches</b>
+                    <b>Variant 2B</b>
                 </p>
                 <p><b>Variant 1 (requires Ziggurat buff, slightly stronger)</b>:</p>
                 <p>GB3,AN4,AN5,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,DW7,AR2,AR12,DJ5,DJ7,</p>
