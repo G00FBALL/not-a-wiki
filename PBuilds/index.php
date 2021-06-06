@@ -34,7 +34,7 @@
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Faction</b>: Fairy/Dwarf</p>
 					<p><b>Bloodline</b>: Fairy</p>
-					<p><b>Range</b>: 1e93 (1 Tg) Gems - ?</p>
+					<p><b>Range</b>: 1e90 (1 Novg) Gems - ?</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
 						<input type="text" value="S135,S180,S215,S250,S330,C10,C80,C150,C400,C405,D55,D245,D250,D290,D320,E50,E135,E150,E200,E330,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330,S270,C135,C330">
