@@ -73,7 +73,7 @@
                 <p>A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,</p>
                 <p>W25,W50</p>
                 <p><b>Notes</b>: Doesn’t require F6000 buffing, good for earlier ranges and easier to start with limited buffs to game time.</p> 
-		<p><b>Notes</b>: Benefits from Mana produced/Apells cast (This R).</p> 
+		<p><b>Notes</b>: Benefits from Mana produced/Spells cast (This R).</p> 
 		<p><b>Notes</b>: Import the primary template repeatedly as you earn more points until all researches listed have been picked (usually W5625 is the last one to get selected), then repeatedly import secondary researches. Wait for Catalyst to hit Gem Grinder for maximum production before abdicating.</p> 
 		<p><b>Notes</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
             </div>
