@@ -8,14 +8,84 @@
 <div class="shlisting">
     <p><b>Production Builds</b></p>
     <div class="category">
+	<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lazier DPE (Starter, R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <div class="autohide">
+                <p><b>Author</b>: Rade, based on Meirlu's DPE</p>
+                <p><b>Requirement</b>: Mercenary Challenge 1</p>
+                <p><b>Range</b>: 0 - 1e85 (10 Spvg) Gems </p>
+                <p><b>Faction</b>: Evil/Order Mercenary</p>
+                <p><b>Bloodline/Lineage</b>: Fairy</p>
+                <p><b>A2950</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Mercenary</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="GB3,AN4,AN5,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,DW7,AR2,AR12,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D1275,E3300,E135,E5125,E495,E145,E230,A2950,A270,A30,A120,A250,A305,A1500,W1275,W5625,W275,W400,W205,F5250">
+                    <b>Variant 1</b>
+                </p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S150,S215,S330,S460,S305,S590,S545,S305,C1300,C590,D25,D320,D55,D3350,D150,E290,E1225,E10,E320,E480,E1325,A590,A545,A410,A150,A105,A55,W120,W150,W25,W180">
+                    <b>Variant 1B</b>
+                </p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN5,GB3,GB4,GB6,UD7,UD10,FC3,DD11,DN2,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,E3300,E135,E400,E495,E145,E230,A2950,A270,A30,A120,A250,A305,W1275,W5625,W275,W400,F5250">
+                    <b>Variant 2(no ziggurat buff needed, slightly weaker)</b>
+                </p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C590,C80,C135,C150,C25,C105,C305,D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,W25,W50">
+                    <b>Variant 2 secondary researches</b>
+                </p>
+                <p><b>Variant 1 (requires Ziggurat buff, slightly stronger)</b>:</p>
+                <p>GB3,AN4,AN5,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,DW7,AR2,AR12,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,</p>
+                <p>S200,S400,S5875,</p>
+                <p>C5125,C175,C250,C340,C400,</p>
+                <p>D200,D275,D290,D330,D1375,D1275,</p>
+                <p>E3300,E135,E5125,E495,E145,E230,</p>
+                <p>A2950,A270,A30,A120,A250,A305,A1500,</p>
+                <p>W1275,W5625,W275,W400,W205,</p>
+                <p>F5250</p>
+                <p><b>Variant 1B (Secondary researches)</b>:</p>
+                <p>S150,S215,S330,S460,S305,S590,S545,S305,</p>
+                <p>C1300,C590,</p>
+                <p>D25,D320,D55,D3350,D150,</p>
+                <p>E290,E1225,E10,E320,E480,E1325,</p>
+                <p>A590,A545,A410,A150,A105,A55,</p>
+                <p>W120,W150,W25,W180,</p>
+                <p><b>Variant 2 (no Ziggurat buff needed, slightly weaker)</b>:</p>
+                <p>AN5,GB3,GB4,GB6,UD7,UD10,FC3,DD11,DN2,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,</p>
+                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,</p>
+                <p>S200,S400,S5875,S180,</p>
+                <p>C5125,C175,C250,C340,C400,</p>
+                <p>D200,D275,D290,D330,D1375,</p>
+                <p>E3300,E135,E400,E495,E145,E230,</p>
+                <p>A2950,A270,A30,A120,A250,A305,</p>
+                <p>W1275,W5625,W275,W400,</p>
+                <p>F5250</p>
+                <p><b>Variant 2B (Secondary researches)</b>:</p>
+                <p>S150,S215,S330,S460,S590,S545,S305,S30,</p>
+                <p>C590,C80,C135,C150,C25,C105,C305,</p>
+                <p>D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,</p>
+                <p>E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,</p>
+                <p>A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,</p>
+                <p>W25,W50</p>
+                <p><b>Notes</b>: Doesn’t require F6000 buffing, good for earlier ranges and easier to start with limited buffs to game time.</p> 
+		<p><b>Notes</b>: Benefits from Mana produced/Apells cast (This R).</p> 
+		<p><b>Notes</b>: Import the primary template repeatedly as you earn more points until all researches listed have been picked (usually W5625 is the last one to get selected), then repeatedly import secondary researches. Wait for Catalyst to hit Gem Grinder for maximum production before abdicating.</p> 
+		<p><b>Notes</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
+            </div>
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DPE (Diabolic Penguin Empire) (R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Meirlu</p>
-                <p><b>Requirement</b>: Mercenary Challenge 1</p>
+                <p><b>Requirement</b>: Mercenary Challenge 1, 16h+ (This R)</p>
                 <p><b>Range</b>: 1e80 (100 Qivg) Gems - 1e105 (1 Qatg) Gems </p>
                 <p><b>Faction</b>: Evil/Order Mercenary</p>
-                <p><b>Bloodline</b>: Fairy</p>
+                <p><b>Bloodline/Lineage</b>: Fairy</p>
                 <p><b>A2950</b>: Faceless</p>
                 <p><b>MCC4</b>: Angel</p>
                 <p><b>Artifact Set</b>: Mercenary</p>
@@ -31,7 +101,7 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C1300,C500,C590,C25,C105,D25,D150,D320,E290,E1225,E10,E320,E460,E480,E1325,W120,W150,W25,W180">
-                    <b>After alchemy Boosts and W1375</b>
+                    <b>After Alchemy Boosts and W1375</b>
                 </p>
                 <p>GB3,AN4,AN5,AN8,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,</p>
                 <p>SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,</p>
@@ -44,83 +114,19 @@
                 <p>F5250</p>
                 <p><b>After A5375</b>:</p>
                 <p>A30,A120,A250,A305</p>
-                <p><b>After alchemy boosts and W1375</b>:</p>
+                <p><b>After Alchemy boosts and W1375</b>:</p>
                 <p>S150,S215,S330,S460,S590,S545,S305,S30,</p>
                 <p>C1300,C500,C590,C25,C105,</p>
                 <p>D25,D150,D320,</p>
                 <p>E290,E1225,E10,E320,E460,E480,E1325,</p>
                 <p>W120,W150,W25,W180</p>
-                <p><b>Notes</b>: Switch DN2->DM2 when going for A5375. Buff f6000, max ziggurats, max flesh workshops, mana produced, assistants. Requires approximately 46.5 hours to be able to afford a5375 of time this game (with Chrono Loading added). For reference, with faceless lineage at 66 at 191, this would require approximately 15h F6000 and 900% DD10 bonus, which can be achieved with roughly 40k ziggurats and switching DN2 for DM2 with a 250% value. Can switch Brothel and Flesh Workshops to buff workshops</p>
-                <p><b>Notes</b>: At r202+ use angel union to buff highest mana regeneration more. This build requires recasting spells occasionally, especially fairy chanting and precognition.</p>
+		<p><b>Notes</b>: Switch DN2->DM2 when going for A5375.</p> 
+		<p><b>Notes</b>: Buff F6000, Ziggurats (This R), Flesh Workshops (This R), Mana produced, Assistants.</p> 
+		<p><b>Notes</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading) to be able to afford A5375.</p>
+		<p><b>Notes</b>: This build requires recasting spells occasionally, especially Fairy Chanting and Precognition.</p>
             </div>
         </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lazier DPE (R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Rade, based on Meirlu's DPE</p>
-                <p><b>Requirement</b>: Mercenary Challenge 1</p>
-                <p><b>Range</b>: 0 - 1e85 (10 Spvg) Gems </p>
-                <p><b>Faction</b>: Evil/Order Mercenary</p>
-                <p><b>Bloodline</b>: Fairy</p>
-                <p><b>A2950</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="GB3,AN4,AN5,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,DW7,AR2,AR12,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D1275,E3300,E135,E5125,E495,E145,E230,A2950,A270,A30,A120,A250,A305,A1500,W1275,W5625,W275,W400,W205,F5250">
-                    <b>Variant 1 (requires ziggurat buff, slightly stronger)</b>
-                </p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S150,S215,S330,S460,S305,S590,S545,S305,C1300,C590,D25,D320,D55,D3350,D150,E290,E1225,E10,E320,E480,E1325,A590,A545,A410,A150,A105,A55,W120,W150,W25,W180">
-                    <b>Variant 1 secondary researches</b>
-                </p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN5,GB3,GB4,GB6,UD7,UD10,FC3,DD11,DN2,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,E3300,E135,E400,E495,E145,E230,A2950,A270,A30,A120,A250,A305,W1275,W5625,W275,W400,F5250">
-                    <b>Variant 2(no ziggurat buff needed, slightly weaker)</b>
-                </p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C590,C80,C135,C150,C25,C105,C305,D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,W25,W50">
-                    <b>Variant 2 secondary researches</b>
-                </p>
-                <p><b>Variant 1 (requires ziggurat buff, slightly stronger)</b>:</p>
-                <p>GB3,AN4,AN5,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,DW7,AR2,AR12,DJ5,DJ7,</p>
-                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,</p>
-                <p>S200,S400,S5875,</p>
-                <p>C5125,C175,C250,C340,C400,</p>
-                <p>D200,D275,D290,D330,D1375,D1275,</p>
-                <p>E3300,E135,E5125,E495,E145,E230,</p>
-                <p>A2950,A270,A30,A120,A250,A305,A1500,</p>
-                <p>W1275,W5625,W275,W400,W205,</p>
-                <p>F5250</p>
-                <p><b>Variant 1 secondary researches</b>:</p>
-                <p>S150,S215,S330,S460,S305,S590,S545,S305,</p>
-                <p>C1300,C590,</p>
-                <p>D25,D320,D55,D3350,D150,</p>
-                <p>E290,E1225,E10,E320,E480,E1325,</p>
-                <p>A590,A545,A410,A150,A105,A55,</p>
-                <p>W120,W150,W25,W180,</p>
-                <p><b>Variant 2(no ziggurat buff needed, slightly weaker)</b>:</p>
-                <p>AN5,GB3,GB4,GB6,UD7,UD10,FC3,DD11,DN2,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,</p>
-                <p>SP:Grand Balance,SP:Precognition,UB:Flesh Workshop,UNN:AR,</p>
-                <p>S200,S400,S5875,S180,</p>
-                <p>C5125,C175,C250,C340,C400,</p>
-                <p>D200,D275,D290,D330,D1375,</p>
-                <p>E3300,E135,E400,E495,E145,E230,</p>
-                <p>A2950,A270,A30,A120,A250,A305,</p>
-                <p>W1275,W5625,W275,W400,</p>
-                <p>F5250</p>
-                <p><b>Variant 2 secondary researches</b>:</p>
-                <p>S150,S215,S330,S460,S590,S545,S305,S30,</p>
-                <p>C590,C80,C135,C150,C25,C105,C305,</p>
-                <p>D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,</p>
-                <p>E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,</p>
-                <p>A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,</p>
-                <p>W25,W50</p>
-                <p><b>Notes</b>: Doesn’t require F6000 buffing, good for earlier ranges and easier to start with limited buffs to game time. Benefits from mana produced/spells cast this R. Import the primary template repeatedly as you earn more points until all researches listed have been picked (usually W5625 is the last one to get selected), then repeatedly import secondary researches. Wait for catalyst to hit gem grinder for maximum production before abdicating. As with other builds, reset all spells periodically to increase their duration and buff effects, especially fairy chanting and precognition.</p>
-            </div>
-        </div>
+        
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Final Verdict (R198+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
