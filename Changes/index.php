@@ -1419,6 +1419,11 @@
 	<p><b>New Formula</b>: (ln(1 + x) ^ 1.8)%, where x is spell casts this game.</p>
 <br/>	
 <p><b>Warfare</b></p>
+<p><b>W175</b> (Overwhelm)</p>
+	<p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.</p>
+	<p><b>Old Formula</b>: +(8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast.</p>
+	<p><b>New Formula</b>: +(10 + x ^ 0.9), where x is the amount of evil spells cast.</p>
+
 <p><b>W225</b> (Critical Strike)</p>
 	<p><b>Old Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.</p>
 	<p><b>Old Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light active time This Game in seconds.</p>
@@ -1440,7 +1445,6 @@
 	<p><b>Effect</b>: Offline time counts more based on Mana Produced in this game.</p>
 	<p><b>Old Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is mana produced (This game).</p>
 	<p><b>New Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is mana produced (This game).</p>
-
 <hr>
 <p><b>Bloodlines</b></p>
 <p><b>Fairy Bloodline</b></p>

@@ -156,13 +156,13 @@
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
         <p><b>Requirement</b>: Undead Union</p>
-        <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
+		<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
         <p><b>Effect</b>: Increase the production of Unique buildings based on time spent in this game.</p>
         <p><b>Formula</b>: (x ^ 0.7)%, where x is time spent this game.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/ZombieApocalypse.png" alt="Zombie Apocalypse" align="middle"> <b>Zombie Apocalypse</b></p>
         <p><b>Requirement</b>: Undead Union</p>
-        <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
+		<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
         <p><b>Effect</b>: Gain assistants additively based on the total amount of time spent offline in this Reincarnation.</p>
         <p><b>Formula</b>: +(21 * x ^ 0.7), where x is offline time in seconds this Reincarnation.</p>
         <?php include "../scripts/footer.html"; ?>
