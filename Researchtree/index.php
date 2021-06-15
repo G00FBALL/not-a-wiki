@@ -1652,7 +1652,7 @@
 	<p><b>Requirement</b>: Research Assault (W1) & Invasion (W150)</p>
 	<p><b>Cost</b>: 3.273 Uqig (3.273e156)</p>
 	<p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.</p>
-	<p><b>Formula</b>: (8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast.</p>
+	<p><b>Formula</b>: (10 + x ^ 0.9), where x is the amount of evil spells cast.</p>
 	" coords="380,1052,420,1092" shape="rect">
         <area research="<p><b>W180</b> - For All Factions</p>
 	<p><b>Research Name</b>: Formation</p>
