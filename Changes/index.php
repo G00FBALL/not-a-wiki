@@ -1407,7 +1407,6 @@
 	<p><b>New Formula</b>: +(log10(1 + x) ^ 1.5), where x is your current amount of coins.</p>
 <br/>
 <p><b>Alchemy</b></p>
-<br/>
 <p><b>A270</b> (Synthesis)</p>
 	<p><b>Effect</b>: Increase the duration of all spells based on the amount of Faction Coins found in this game.</p>
 	<p><b>Old Formula</b>: (1.25 * ln(1 + x) ^ 1.25)%, where x is Factions Coins found (this game).</p>
@@ -1423,7 +1422,7 @@
 	<p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.</p>
 	<p><b>Old Formula</b>: +(8 + 0.8 * x ^ 0.8), where x is the amount of evil spells cast.</p>
 	<p><b>New Formula</b>: +(10 + x ^ 0.9), where x is the amount of evil spells cast.</p>
-
+<br/>
 <p><b>W225</b> (Critical Strike)</p>
 	<p><b>Old Effect</b>: Holy Light empowers Heaven’s Domains based on Holy Light activity time in this game.</p>
 	<p><b>Old Formula</b>: (5 * x ^ 0.65)%, where x is Holy Light active time This Game in seconds.</p>
