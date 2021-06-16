@@ -13,7 +13,7 @@
 	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter (R75-89)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Titan Starter (R75-89)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fairy Lineage level 20+, Dragon Challenge 4</p>
@@ -35,7 +35,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless (R75-89)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (R75-89)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Mabrima</p>
 				<p><b>Range</b>: 1e27 (1 Oc) - 1e86 (100 Spvg) Gems</p>
@@ -57,7 +57,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Dragtan Starter (R90+)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Titan Starter (R90+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Fairy Lineage level 20+, Dragon Challenge 4</p>
@@ -78,7 +78,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Dragless (R90+)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless (R90+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Mabrima</p>
 				<p><b>Range</b>: 1e27 (1 Oc) - 1e68 (100 Uvg) Gems</p>
