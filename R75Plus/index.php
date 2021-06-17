@@ -104,7 +104,7 @@
 	<p><b>Low Gem Buff Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid W275 Buff</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Undead Lineage L15+, Undead Perk 1</p>
@@ -126,7 +126,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless W275 Buff<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless W275 Buff</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirement</b>: Undead Lineage L15+, Undead Perk 1</p>
