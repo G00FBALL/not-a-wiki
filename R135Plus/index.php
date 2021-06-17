@@ -184,7 +184,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Demons (R139+) 1e95 (100 Tg)+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik, Wolfsblood</p>
-				<p><b>Requirement</b>: Djinn Challenge 2, Angel Lineage Lineage 40, 3e7 (30 M)+ Hellfire Blast Casts</p>
+				<p><b>Requirement</b>: Djinn Challenge 2, Angel Lineage Lineage 40, 3e7 (30 M)+ Hellfire Blast casts this Reincarnation</p>
 				<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
 				<p><b>Faction</b>: Demon</p>
 				<p><b>Bloodline</b>: Angel</p>
@@ -209,10 +209,11 @@
 				<p>E230,E320,E495,</p>
 				<p>A25,A400,A410,</p>
 				<p>W1,W135,W175,W405,W520,W590</p>
+				<p><b>Note</b>: This build <b>requires</b> a buffed W175 to quickly afford Djinn Treaty, run the "Early W175" buff build once until you have enough Hellfire Blast casts.</p> 
 				<p><b>Note</b>: Swap E320 with E135 once you already have 2e8 (200 M) Hellfire Blast casts this Reincarnation.</p>
 				<p><b>Note</b>: R154+, e140 (100 Qiqag) Gems+ & long runs - swap E320 with E400.</p>
 				<p><b>Note</b>: A quick Spell casts buff (Spell buff build for 5 to 10 minutes) is helpful, more is not essential.</p>
-				<p><b>Note</b>: While Dragonline Angel can still push to e100 gems it is more optimal to start with Demon runs (first W175 Buff build) at around e95 gems.</p>
+				<p><b>Note</b>: While Dragonline Angel can still push to e100 gems it is more optimal to start with Demon runs at around e95 gems.</p>
 				<p><b>Note</b>: This build starts slow but has insane growth thanks to the feedback loop between Hellfire Blast, Limited Wish and DJC2.</p>
 				<p><b>Note</b>: The build's production is focused around Non-Unique Buildings; because of DJ8 (based on UTC) - the main production tier is either Evil Fortress (even calendar days) or Hell Portals (odd calendar days - do <b>not buy Infernal Realm upgrade</b> in that case).</p>
 				<p><b>Note</b>: Set Drow Chaos Union to target that Main Production Tier.</p>

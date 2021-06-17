@@ -11,7 +11,7 @@
 	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R60-75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R60-75)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
@@ -57,7 +57,7 @@
 	<p><b>Special Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 4 (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 4 (R60+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Necrodoom</p>
 				<p><b>Range</b>: 1e51 (1 Sxd) Gems</p>
@@ -76,7 +76,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 5/Spell Cataclysm (R60+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 5/Spell Cataclysm (R60+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: </p>
 				<p><b>Requirements</b>: Dragon Challenge 4</p>
@@ -97,7 +97,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead/Titan Lineage L15+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undead/Titan Lineage L15+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 1e66 (1 Uvg) Gems+</p>
@@ -118,7 +118,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage L15+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless Lineage L15+</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirements</b>: Dragon challenge 4</p>
@@ -138,7 +138,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 6 (R63+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragon Challenge 6 (R63+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requirements</b>: Faceless Lineage level 15, Dragon Challenge 5, low excavations (free reset if needed)</p>
@@ -160,7 +160,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buffer (R60-R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">W275 Buffer (R60-R75)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: ? Gems</p>
