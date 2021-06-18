@@ -15,7 +15,7 @@
 		<p><b>Production</b></p>
 		<div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U Druidline Goblin (R40-R46)<font color="DarkRed"> Evil</font></a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">U Druidline Goblin (R40-R46)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Ensteffahn</p>
 					<p><b>Range</b>: 0 Gems - ?</p>
@@ -40,7 +40,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU Druidline Goblin (R40-R46)<font color="DarkRed"> Evil</font></a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">NU Druidline Goblin (R40-R46)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Requirements</b>: Fortune Teller Machine artifact</p>
@@ -72,7 +72,7 @@
 		<p><b>Buff</b></p>
 		<div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Facelessline Druids (Mana Spent)<font color="darkgoldenrod"> Neutral</font></a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Facelessline Druids (Mana Spent)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Range</b>: ?</p>
@@ -135,7 +135,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> NU Druidline Fairy (Dragon stage 3 unlock)<font color="Blue"> Good</font></a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;"> NU Druidline Fairy (Dragon stage 3 unlock)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
 					<p><b>Requirements</b>: Fortune Teller Machine, Horn of the Kings</p>
@@ -184,18 +184,16 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Detailed plan for R46 tiering</a></b></p>
 				<div class="autohide">
-					<p><b>Note</b>: Spell Tier requirement formula (based on spell activity time this R):</p>
-					<p>(2 / 3) * 0.97 ^ (R - 35) * (0.4 + 0.1 * T) * (1 + T ^ 2) / (1 + 0.1 * U)</p>
-					<p>Where T is the Spell Tier you're aiming for, U is your additional unlocked tiers from all spells (Tier 1 does not count) and R is your Reincarnation.</p>
+					<p><b>Spell Tier requirement formula</b> (based on spell activity time this R):</p>
+					<p>(2 / 3) * 0.97 ^ (R - 35) * (0.4 + 0.1 * T) * (1 + T ^ 2) / (1 + 0.1 * U)<br>Where T is the Spell Tier you're aiming for, U is your additional unlocked tiers from all spells (Tier 1 does not count) and R is your Reincarnation.</p>
 					<p>Click <b><a target="_blank" href="https://www.desmos.com/calculator/easbpgto2s">here</a></b> for an online calculator.</p>
 					<p>Click <b><a target="_blank" href="https://dox4242.github.io/misc/tiers.html">here</a></b> to see your unlocked Tiers.</p>
-					<p>For Additional information about spells and spell Tiers, visit <b><a target="_blank" href="http://musicfamily.org/realm/Spells/">this page</a></b></p>
-					<br/>
-					<p><b>Step 1:</b> Start with Goblin until Spiky Rough Egg is excavated, then go to step 2. Switch back to Goblin (or Fairy, for stage 3) for completion when necessary.</p>
-					<p><b>Step 2:</b> Run Demon (all spells on autocast) until all of its spells hit Tier 2 (requires 1 day, 10 hours and 21 minutes of spell activity time this R).</p>
-					<p><b>Step 3:</b> Run Elf (all spells on autocast) until all of its spells hit at least Tier 2 (requires 20 hours and 13 minutes of spell activity time this R).</p>
-					<p><b>Step 4:</b> Run Demon again until all of its spells hit Tier 3 (requires a total of 1 day, 16 hours and 3 minutes of spell activity time this R).</p>
-					<p><b>Note:</b> Make sure you have Tier 3 in all Demon spells and Tier 2 in all Elf spells before Reincarnating, or you will lose progress toward these tiers.</p>
+					<p>Additional information about <b><a target="_blank" href="http://musicfamily.org/realm/Spells/">Spells and Spell Tiers</a></b>.</p>
+					<p><b>Step 1</b>: Start with Goblin until Spiky Rough Egg is excavated, then go to step 2. Switch back to Goblin (or Fairy, for stage 3) for completion when necessary.</p>
+					<p><b>Step 2</b>: Run Demon (all spells on autocast) until all of its spells hit Tier 2 (requires 1 day, 10 hours and 21 minutes of spell activity time this R).</p>
+					<p><b>Step 3</b>: Run Elf (all spells on autocast) until all of its spells hit at least Tier 2 (requires 20 hours and 13 minutes of spell activity time this R).</p>
+					<p><b>Step 4</b>: Run Demon again until all of its spells hit Tier 3 (requires a total of 1 day, 16 hours and 3 minutes of spell activity time this R).</p>
+					<p><b>Note</b>: Make sure you have Tier 3 in all Demon spells and Tier 2 in all Elf spells before Reincarnating, or you will lose progress toward these tiers.</p>
 					<br/>
 				</div>
 			</div>
