@@ -4,14 +4,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-<p><b>Optimal Tiering for R46-R59:</b></p>
+<p><b>Optimal Tiering for R47-R59:</b></p>
 <p>R55: Faceless spells to Tier 6: 3 days 10 hours and 33 minutes (assuming optimal tiering)</p>
 <br/>
 <div class="shlisting">
 	<p><b>Production Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R46-60)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Starter (R47-60)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 0 - 1e27 (1 Oc) Gems</p>
@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Titan (R49+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Titan (R49+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>
@@ -86,7 +86,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Faceless (R55+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: </p>
 				<p><b>Requirements</b>: Dragon Challenge 3</p>
@@ -117,7 +117,7 @@
 	<p><b>Special Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">D1275 Unlock (R50+)<font color="Blue"> Good</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">D1275 Unlock (R50+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 1e33 (1 Dc) Gems</p>
@@ -136,7 +136,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DGC2 unlock (R55+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DGC2 unlock (R55+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Requriement</b>: Research A400</p>
