@@ -26,9 +26,9 @@
         </tr>
         <tr class="calc">
             <th style="width:100px">Reincarnation</th>
-            <th style="width:75px">Research Points</th>
-            <th style="width:100px">Cost in Coins</th>
-            <th style="width:100px">Recommended Gems</th>
+            <th style="width:115px">Research Points</th>
+            <th style="width:175px">Cost in Coins</th>
+            <th style="width:175px">Recommended Gems</th>
             <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
@@ -512,7 +512,7 @@
 	<p><b>Requirement</b>: R232+</p>
 	<p><b>Effect</b>: Reincarnations count more based on time spent as Undead in this Reincarnation.</p>
 	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is time spent as Undead in this Reincarnation.</p>
-	" coords="128,170,148,210" shape="rect">
+	" coords="128,170,168,210" shape="rect">
 		<area research="<p><b>C1</b> - For Elf</p>
 	<p><b>Research Name</b>: Dummy Targets</p>
 	<p><b>Cost</b>: 750 Qag (7.5e125)</p>
@@ -2005,13 +2005,13 @@
 	<p><b>Research Name</b>: Revelation</p>
 	<p><b>Requirement</b>: R230+</p>
 	<p><b>Effect</b>: Allows the purchase of one additional Legacy Combo upgrade.</p>
-	" coords="2,1304,42,1344" shape="rect">
+	" coords="86,1304,126,1344" shape="rect">
 		<area research="<p><b>F12500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Avatars</p>
 	<p><b>Requirement</b>: R234+</p>
 	<p><b>Effect</b>: Multiplactively increase assistants based on the amount of different Factions in your Legacies.</p>
 	<p><b>Formula</b>: (50 * x ^ 2.5)%, where x is the amount of different Factions in your Legacies.</p>
-	" coords="44,1304,84,1344" shape="rect">	
+	" coords="128,1304,168,1344" shape="rect">	
         <area research="Unlocked Upgrade (X): You cannot use this upgrade with the faction you are playing. (There is an option to hide these icons.)
 	" coords="296,170,335,209" shape="rect">
 		<area research="Locked Upgrade (? question mark): You cannot unlock this upgrade with the Faction you are playing.
