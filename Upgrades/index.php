@@ -232,7 +232,8 @@
                 <p><b>Requirement</b>: 1 Gem</p>
                 <p><b>Cost</b>: 1 Coin</p>
                 <p><b>Alignment</b>: Any</p>
-                <p><b>Effect</b>: Unlocks the power of gems, each of which will Increase your overall production by 2% and slightly improve your chance of obtaining faction coins.</p>
+                <p><b>Effect</b>: Unlocks the power of gems, each of which will Increase your overall production by 2% and slightly your chance of obtaining faction coins.</p>
+				<p><b>Formula</b>: +(floor((1.25 + y / 4) * ln(1 + x) ^ 0.9 / ln(10)))%, where x is the amount of gems you own and y the number of Gem Upgrades purchased.</p>
                 <hr>
                 <p><img src="http://musicfamily.org/realm/Factions/picks/GemPotency.png" alt="" align="middle"> <b>Gem Potency</b></p>
                 <p><b>Requirement</b>: 1M (1e6) Gems</p>

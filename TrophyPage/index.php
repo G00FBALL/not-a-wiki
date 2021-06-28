@@ -80,7 +80,7 @@
 	<p>You have discovered all the relics of the Ancient Races.</p>
 	<p><b>Requirement</b>: Unlock Titans, Druids, and Faceless</p>
 	<p><b>Cost</b>: 1 Ud (1e36), A1+ Free</p>
-	<p><b>Effect</b>: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless. (A Nerfed)</p>
+	<p><b>Effect</b>: Increase the production of all buildings by 25% when you are playing as Titan, Druid or Faceless. (A Nerfed)</p>
 	<p><b>Note</b>: This can be done at R0.</p>
 	" coords="262,110,317,167" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle> <b>Spellfury</b></p>
@@ -357,6 +357,7 @@
 	<p><b>Cost</b>: 100 Dc (1e35), A3+ Free</p>
 	<p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.</p>
 	<p><b>Formula</b>: (250 * T ^ 2)%, where T is active tier of Blood Frenzy or Holy Light.</p>
+	<p><b>Effect (A4+ only)</b>: Also multiplicatively increase Faction Coin find chance by 500% while playing as any Good or Evil faction.</p>
 	" coords="5,556,62,613" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle> </b>Uniformity</b>
 	<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</p>
@@ -410,6 +411,12 @@
 	<p><b>Note</b>: This can be done at R160+ with Mercenary Build (Apeiron/True Harlequin)</p>
 	<p><b>Note</b>: Click image to go to the Apeiron/True Harlequin Build.</p>
 	" coords="5,625,62,682" shape="rect">
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png align=middle> <b>Novice Combinator</b>
+	<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
+	<p><b>Cost</b>: 1 Qavg (1e75)</p>
+	<p><b>Effect</b>: Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>
+	<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
+	" coords="69,625,125,682" shape="rect">
 	</map>
 
 	<map name="AllegiancesandGrandTrophies-map">

@@ -40,7 +40,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveTradingFactionUpgrade.png" align="middle"> Slave Trading</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Evil buildings you own.</p>
-        <p><b>Formula</b>: (2 * x ^ 0.6)%, where x is the amount of Evil buildings you own</p>
+        <p><b>Formula</b>: (2 * x ^ 0.7)%, where x is the amount of Evil buildings you own</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/CheapMaterialsFactionUpgrade.png" align="middle"> Cheap Materials</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
@@ -54,18 +54,19 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackMarketFactionUpgrade.png" align="middle"> Black Market</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
-        <p><b>Effect</b>: Production bonus from gems is doubled.</p>
+        <p><b>Effect</b>: Production bonus from gems is increased by a multiplicative 150%.</p>
         <p><b>Effect</b>: Also increase offline production bonus based on the amount of Tax Collections cast this game.</p>
         <p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is Tax Collection casts this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png" align="middle"> Goblin Economists</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
-        <p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on upgrades purchased.</p>
-        <p><b>Formula</b>: (x ^ 0.9)%, where x is upgrades purchased.</p>
+        <p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on Gold owned.</p>
+        <p><b>Formula</b>: ((0.75 * log10(1 + x) ^ 1.5)%, where x is Gold owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png" align="middle"> Hobgoblin Gladiators</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
-        <p><b>Effect</b>: Gems and upgrades count 200% more.</p>
+		<p><b>Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>
+		<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is the seconds of your Tax Collection.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinsAlliavceFactionUpgrade.png" align="middle"> Goblin Alliance</b></p>
@@ -83,8 +84,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" align="middle"> Green Fingers Discount</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
-        <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>
-        <p><b>Formula</b>: (randRange(1 , 1200) * x), where x is your total coin production per second, including both buildings and assistants.</p>
+        <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while being offline.</p>
+		<p><b>New Formula</b>: (randRange(1 , 2500) * x), where x is your total (buildings + assistants) coin production per second, <b>including spells</b>.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/GoblinHeritage.png" alt="Goblin Heritage" align="middle"><b> Goblin Heritage</b></p>
         <p><b>Requirements</b>: Goblin Champion Trophy</p>

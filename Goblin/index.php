@@ -12,9 +12,10 @@
 <p><b>Challenge</b>: Have Goblin (3,3) Green Fingers Discount roll more than 1000 seconds worth of production.</p>
 <p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead. Now also casts 10 Tax Collections upon triggering.</p>
 <p><b>Note</b>: Tax Collections cast this way will not trigger upgrades such as GB7.</p>
+<p><b>Note</b>: While Green Fingers Discount says it works offline, it does not work in the same way as online, and this challenge cannot be completed offline or when coming online based on the offline effect of GFD.</p>
+<p><b>Note</b>: There's a 40% chance of getting it every time GFD triggers.</p>
 <p><b>Upgrade</b>: Works with Goblin</p>
-<p><b>Tip 1</b>: While Green Fingers Discount says it works offline, it does not work in the same way as online, and this challenge cannot be completed offline or when coming online based on the offline effect of GFD. The challenge can be attempted in multiple tabs simultaneously, provided the save you load into the tabs does not yet have GFD purchased.</p>
-<p><b>Tip 2</b>: There's a 1/6 chance of getting it every time GFD triggers.</p>
+
 <hr>
 <H6 id="GoblinGC2"></h6><p><b>Goblin Challenge 2</b></p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/EliteWarriorsChallenges.png" alt="Elite Warriors" align="middle"> <b>Elite Warriors</b></p>
@@ -30,8 +31,8 @@
 <p>"The goblin king wants a castle made of jewels all to himself."</p>
 <p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building.</p>
 <p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
-<p><b>Challenge</b>: Have at least 1 B (1e9) gems in the abdication treasury while using Goblin Bloodline.</p>
-<p><b>Effect</b>: Increase production bonus from Gems by 0.01% for each upgrade purchased.</p>
+<p><b>Challenge</b>: Have at least 1 Qavg (1e75) gems in the abdication treasury while using Goblin Bloodline (post Ascension: 1 B (1e9) gems).</p>
+<p><b>Effect</b>: Increase production bonus from Gems by +0.01% for each upgrade purchased.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
 <H6 id="GoblinGCR"></h6><p><b>In-Game Challenge Final Reward</b></p>

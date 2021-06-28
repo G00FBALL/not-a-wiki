@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Titan (R49+)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Wyrm-Titan (R47+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
 				<p><b>Range</b>: 1e27 (1 Oc) - ? Gems</p>

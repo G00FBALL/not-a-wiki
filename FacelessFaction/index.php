@@ -55,7 +55,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" align="middle"> Territorial Expanse</b></p>
         <p><b>Cost</b>: 500 Qi (5e20)</p>
         <p><b>Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (based on your Alignment) based on the amount of assistants you own.</p>
-		<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
+		<p><b>Formula</b>: (50 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" align="middle"> Evolutive Mutation</b></p>
         <p><b>Cost</b>: 5 Sx (5e21)</p>
@@ -75,12 +75,12 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" align="middle"> Gold Synthesis</b></p>
         <p><b>Cost</b>: 5 Sp (5e24)</p>
         <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of coins owned.</p>
-		<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
+		<p><b>Formula</b>: (0.2 * ln(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" align="middle"> Mitosis</b></p>
         <p><b>Cost</b>: 50 Sp (5e25)</p>
         <p><b>Effect</b>: Gain additional Faceless Assistants based on the amount of buildings you own.</p>
-		<p><b>Formula</b>: +floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
+		<p><b>Formula</b>: +floor(0.5 * x ^ 0.5), where x is the amount of buildings you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" align="middle"> Overgrowth</b></p>
         <p><b>Cost</b>: 500 Sp (5e26)</p>
@@ -100,7 +100,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" align="middle"> Abominations</b></p>
         <p><b>Cost</b>: 500 Oc (5e29)</p>
         <p><b>Effect</b>: Increase the production of assistants based on the amount of active spells.</p>
-		<p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
+		<p><b>Formula</b>: (20 * x ^ 0.9)%, where x is the amount of active spells.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png" align="middle"> Hive Mind</b></p>
         <p><b>Cost</b>: 5 No (5e30)</p>

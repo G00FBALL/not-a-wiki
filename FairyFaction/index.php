@@ -36,7 +36,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png" align="middle"> Fairy Workers</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
-        <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 15,000%.</p>
+        <p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 10,000%.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png" align="middle"> Kind Hearts</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
@@ -59,8 +59,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" align="middle"> Spellsmith</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
-        <p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration additively.</p>
-        <p><b>Formula</b>: +(x ^ 0.25), where x is the number of Blacksmiths you own.</p>
+		<p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration.</p>
+		<p><b>Formula</b>: +(2.75 * x ^ 0.275), where x is the number of Blacksmiths you own.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAllianceFactionUpgrade.png" align="middle"> Fairy Alliance</b></p>
@@ -80,7 +80,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png" align="middle"> Swarm of Fairies</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
         <p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
-        <p><b>Formula</b>: +(0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
+        <p><b>Formula</b>: +(1.2 * x ^ 0.6), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FairyHeritage.png" alt="Fairy Heritage" align="middle"><b> Fairy Heritage</b></p>
         <p><b>Cost</b>: 5,000 Fairy Coins</p>

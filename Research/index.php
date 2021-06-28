@@ -13,23 +13,23 @@
         <hr>
         <p><b>The Facilities & Related Factions</b></p>
         <p>Each Facility is related to several Factions: Vanilla factions are related to one facility, Neutral to two, Prestige to three, and Mercenary to one. Each facility increases the production of the related Faction's production according to following formula.</p>
-        <p><b>RP Production Formula</b>: 100000 * (1 + 0.01 * x ^ 0.7), where x is RP total of facility affinities.</p>
+        <p><b>RP Production Formula</b>: (100000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
         <p><b>Secrets Production Bonus</b>: 1000%</p>
-        <p><b>Facility cost</b>: 10 Notg (1E121) coins, 1M (1E6) Faction coins of the related faction(s).</p>
+        <p><b>Facility cost</b>: 10 Notg (1e121) coins, 1M (1e6) Faction Coins of the related faction(s).</p>
         <hr>
         <b><center>Research Facilities and Upgrades</center></b>
 		<p>At each reincarnation level, you will get Research Points (RP) equal to your Reincarnation number to upgrade each facility, RP is maxed at 5000 at R100. The RP upgrade cost increases according to the following formula.</p>
 		<p><b>RP Cost A0 (1 - 780)</b>: Formula: (1e126 * 1.5 ^ x) Coins and ((x + 1) ^ 3) Faction Coins</p>
 		<p><b>RP Cost A1 (781 - 5000)</b>: Formula: (1e42 * 1.147 ^ (x - 780)) and ((x + 1) ^ 3) Faction Coins</p>
 		<p><b>RP Cost A3 (5001 - 7000)</b>: Formula: (1e126 * 1.75 ^ ((x - 5000) * 0.1)) and (10 * (x + 1) ^ 10) Faction Coins</p>
-		<p><b>RP Cost A4 (7001 - 12000)</b>: Formula: (1.4 ^ (0.1 * (x - 7000))) and (10 * 1.15 ^ (0.03 * x) Faction Coins</p>
+		<p><b>RP Cost A4 (7001 - 13000)</b>: Formula: (1.4 ^ (0.1 * (x - 7000))) and (10 * 1.15 ^ (0.03 * x) Faction Coins</p>
 		<p><b>Available RPs Formula (A0, A1)</b>: ((x + 1) * x / 2)</p>
-		<p><b>Available RPs Formula (A3, R175-R190 and A4, R220-R230)</b>: (5000 + (125 * (x - 174))</p>
+		<p><b>Available RPs Formula (A3, R175-R190 and A4, R220-R238)</b>: (5000 + (125 * (x - 174))</p>
 		<p><b><center>Research Slots/Budget</center></b></p>
 		<p><b>R16-R99 (A0, A1)</b>: You get a limited number of Research slots for each facility, depending on what upgrades you have you can have up to 6 slots for each facility.</p>
 		<p><b>R100-R159 (A2)</b>: You get 1 Research slot for each facility, and A0 and A1 research slot upgrades are removed, however, faction researches are free and take no slots.</p>
-		<p><b>R160-R219 (A3)</b>: The research slots change to a budget based on each research's point value and starts at 0, increasable by R170 power (3000) and a 2nd Facility Upgrade (3000) to a total of 6000. The budget can be further increased with Archon Bloodline (500+).</p>
-		<p><b>R220+ (A4)</b>: The budget system from A3 is the same, but each Trade Treaty, Friendship Pact, Alliance and Union will also give 2000 each to the budget, for a total of +8000 from one faction (14,000 total from one faction.)</p>
+		<p><b>R160-R219 (A3)</b>: The research slots change to a budget based on each research's point value and starts at 0, increasable by R170 power (+3000) and a 2nd Facility Upgrade (+3000) to a total of 6000. The budget can be further increased with Archon Bloodline (+500 and more).</p>
+		<p><b>R220+ (A4)</b>: The budget system from A3 is the same, but each Trade Treaty, Friendship Pact, Alliance and Union will also give +2000 each to the budget, for a total of +8000 currently (14,000 in total).</p>
 		<p>Upon abdication, your purchased Research Points will persist, but your Research Upgrade Slots/Budget will reset so you can make different research builds each run.</p>
         <div class="shlisting">
             <div class="shelementwhole">
@@ -38,50 +38,50 @@
                     <p><b>Research Slot Upgrade Requirements</b></p>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/MagicianSlotUpgrade.png" alt="Warfare" align="middle"> <b>Magician</b> (R20+)</p>
                     <p><b>Requirement</b>: Discover at least 10 Spellcraft Researches.</p>
-                    <p><b>Cost</b>: 250 Noqag (2.5E152)</p>
+                    <p><b>Cost</b>: 250 Noqag (2.5e152)</p>
                     <p><b>Effect</b>: Increase Spellcraft upgrade slot by 1</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/ArtisanSlotUpgrade.png" alt="Warfare" align="middle"> <b>Artisan</b> (R19+)</p>
                     <p><b>Requirement</b>: Discover at least 10 Craftsmanship Researches.</p>
-                    <p><b>Cost</b>: 250 Noqag (2.5E152)</p>
+                    <p><b>Cost</b>: 250 Noqag (2.5e152)</p>
                     <p><b>Effect</b>: Increase Craftsmanship upgrade slot by 1</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/DemigodSlotUpgrade.png" alt="Warfare" align="middle"> <b>Demigod</b> (R20+)</p>
                     <p><b>Requirement</b>: Discover at least 10 Divine Researches.</p>
-                    <p><b>Cost</b>: 250 Noqag (2.5E152)</p>
+                    <p><b>Cost</b>: 250 Noqag (2.5e152)</p>
                     <p><b>Effect</b>: Increase Divine upgrade slot by 1</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/BusinessmanSlotUpgrade.png" alt="Warfare" align="middle"> <b>Businessman</b> (R20+)</p>
                     <p><b>Requirement</b>: Discover at least 10 Economics Researches</p>
-                    <p><b>Cost</b>: 250 Noqag (2.5E152)</p>
+                    <p><b>Cost</b>: 250 Noqag (2.5e152)</p>
                     <p><b>Effect</b>: Increase Economics upgrade slot by 1</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/ApothecarySlotUpgrade.png" alt="Warfare" align="middle"> <b>Apothecary</b> (R17+)</p>
                     <p><b>Requirement</b>: Discover at least 10 Alchemy Researches</p>
-                    <p><b>Cost</b>: 250 Noqag (2.5E152)</p>
+                    <p><b>Cost</b>: 250 Noqag (2.5e152)</p>
                     <p><b>Effect</b>: Increase Alchemy upgrade slot by 1</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/WarlordSlotUpgrade.png" alt="Warfare" align="middle"> <b>Warlord</b> (R20+)</p>
                     <p><b>Requirement</b>: R20, Discover at least 10 Warfare Researches</p>
-                    <p><b>Cost</b>: 250 Noqag (2.5E152)</p>
+                    <p><b>Cost</b>: 250 Noqag (2.5e152)</p>
                     <p><b>Effect</b>: Increase Warfare upgrade slot by 1</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/AncientDeviceSlotUpgrade.png" alt="Warfare" align="middle"> <b>Artifact-Ancient Device</b> (R23+)</p>
                     <p><b>Requirement</b>: Find the Ancient Device (Play a Neutral Faction, 2000+ Excavations, Unique Building.</p>
                     <p><b>Chance</b>: 0.2% per excavation</p>
-                    <p><b>Cost</b>: 100 QiSxg (1E200)</p>
+                    <p><b>Cost</b>: 100 QiSxg (1e200)</p>
                     <p><b>Effect</b>: Provides 2 additional slots for Neutral researches(1 for each related Neutral Faction Facility you are playing).</p>
                     <p><b>Note</b>: Needs purchased for each Neutral research run.</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKingsSlotUpgrade.png" alt="Warfare" align="middle"> <b>Artifact-Horn of the Kings</b> (R29+)</p>
                     <p><b>Requirement</b>: Find the Horn of the Kings (Have Dwarven Forges, 3250+ Excavations)</p>
-                    <p><b>Cost</b>: 10 SxSpg (1E232), 10m Dwarven Coins</p>
+                    <p><b>Cost</b>: 10 SxSpg (1e232), 10m Dwarven Coins</p>
                     <p><b>Effect</b>: Provides 3 additional slots for Dwarven research (+2 Craftsman slots, +1 to the Good faction's facility you are playing).</p>
                     <p><b>Note</b>: Needs purchased for each Prestige research run.</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/FlameofBondelnarSlotUpgrade.png" alt="Warfare" align="middle"> <b>Artifact-Flame of Bondelnar</b> (R29+)</p>
                     <p><b>Requirement</b>: R29, Find the Flame of Bondelnar (Have Spider Sanctuaries, 3250+ Excavations)</p>
-                    <p><b>Cost</b>: 10 SxSpg (1E232), 10m Drow Coins</p>
+                    <p><b>Cost</b>: 10 SxSpg (1e232), 10m Drow Coins</p>
                     <p><b>Effect</b>: Provides 3 additional slots for Drow research: (+2 Warfare slots, +1 to the Evil faction's facility you are playing).</p>
                     <p><b>Note</b>: Needs purchased for each Prestige research run.</p>
                     <br/>
@@ -91,71 +91,71 @@
                     <p><b>Requirement</b>: R175+</p>
                     <p><b>Effect</b>: Unlocks Facility Research upgrades</p>
                     <p><b>Note</b>: Each Facility needs their respective artifact and this artifact to get their respective upgrade.</p>
-                    <p><b>Chance</b>: (x ^ 2 / 100000000000), where x is spent Research points.</p>
+                    <p><b>Chance</b>: (x ^ 2 / 100,000,000,000)%, where x is spent Research points.</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/ManaLoom.png" align="middle"> <b>Artifact-Mana Loom</b> (R180+)</p>
                     <p><b>Clue</b>: Attracted by amassed mana reserves.</p>
                     <p><b>Description</b>: Used to weave even the thinnest mana strings.</p>
-                    <p><b>Requirement</b>: R180, Chaos Alignment</p>
-                    <p><b>Chance</b>: (log10(x) ^ 3 / 50000), where x is mana produced (This Game)</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
+                    <p><b>Requirement</b>: R180+, Chaos Alignment</p>
+                    <p><b>Chance</b>: (log10(1 + x) ^ 3 / 50000)%, where x is mana produced (This Game)</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
                     <p><b>Upgrade Requirement</b>: Forgotten Relic, Mana Loom artifact and upgrade.</p>
-                    <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by 3000.</p>
+                    <p><b>Upgrade Effect</b>: Expands the Spellcraft research facility, permanently increasing Spellcraft budget by +3000.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Fairy Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
                     <br>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Factory.png" align="middle"> <b>Artifact-Factory</b> (R180+)</p>
                     <p><b>Clue</b>: Dig it manually.</p>
                     <p><b>Description</b>: Mass-production is the way to go.</p>
-                    <p><b>Requirement</b>: R180, Neutral Alignment</p>
-                    <p><b>Chance</b>: (log10(x) ^ 3 / 10000), where x is clicks (This Game)</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
+                    <p><b>Requirement</b>: R180+, Neutral Alignment</p>
+                    <p><b>Chance</b>: (log10(1 + x) ^ 3 / 10000)%, where x is clicks (This Game)</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
                     <p><b>Upgrade Requirement</b>: Forgotten Relic, Factory artifact and upgrade.</p>
-                    <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by 3000.</p>
+                    <p><b>Upgrade Effect</b>: Expands the Craftsmanship research facility, permanently increasing Craftsmanship budget by +3000.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Elven Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
                     <br>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Mythos.png" align="middle"> <b>Artifact-Mythos</b> (R180+)</p>
                     <p><b>Clue</b>: Spells get sad when not used for a long time.</p>
                     <p><b>Description</b>: Accurate historical list of every existing or non-existing deity.</p>
-                    <p><b>Requirement</b>: R180, Good Alignment</p>
-                    <p><b>Chance</b>: (x / 4320000), where x is minimum spell activity time. (This Reincarnation)</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
+                    <p><b>Requirement</b>: R180+, Good Alignment</p>
+                    <p><b>Chance</b>: (x / 4,320,000)%, where x is minimum spell activity time. (This Reincarnation)</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
                     <p><b>Upgrade Requirement</b>: Forgotten Relic, Mythos artifact and upgrade.</p>
-                    <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by 3000.</p>
+                    <p><b>Upgrade Effect</b>: Expands the Divine research facility, permanently increasing Divine budget by +3000.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Angel Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
                     <br>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Vault.png" align="middle"> <b>Artifact-Vault</b> (R180+)</p>
                     <p><b>Clue</b>: Show your prowess as a Royal Trader.</p>
                     <p><b>Description</b>: Never a place could be more secure.</p>
-                    <p><b>Requirement</b>: R180, Balance Alignment</p>
-                    <p><b>Chance</b>: (x / 100000000), where x is Royal Exchange Bonus.</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
+                    <p><b>Requirement</b>: R180+, Balance Alignment</p>
+                    <p><b>Chance</b>: (x / 100,000,000)%, where x is Royal Exchange Bonus.</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
                     <p><b>Upgrade Requirement</b>: Forgotten Relic, Vault artifact and upgrade.</p>
-                    <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by 3000.</p>
+                    <p><b>Upgrade Effect</b>: Expands the Economics research facility, permanently increasing Economics budget by +3000.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Goblin Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
                     <br>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Athanor.png" align="middle"> <b>Artifact-Athanor</b> (R180+)</p>
                     <p><b>Clue</b>: Archemy.</p>
                     <p><b>Description</b>: The legendary oven that could smelt souls into matter.</p>
-                    <p><b>Requirement</b>: R180, Order Alignment</p>
-                    <p><b>Chance</b>: (x / 1000000), where x is Alchemy Research Points.</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
-                    <p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
-                    <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by 3000.</p>
+                    <p><b>Requirement</b>: R180+, Order Alignment</p>
+                    <p><b>Chance</b>: (x / 1,000,000)%, where x is Alchemy Research Points.</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
+					<p><b>Upgrade Requirement</b>: Forgotten Relic, Athanor artifact and upgrade.</p>
+                    <p><b>Upgrade Effect</b>: Expands the Alchemy research facility, permanently increasing Alchemy budget by +3000.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Undead Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
                     <br>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Battlefield.png" align="middle"> <b>Artifact-Battlefield</b> (R180+)</p>
                     <p><b>Clue</b>: Would you think an army is enough to excavate this?</p>
                     <p><b>Description</b>: An extremely accurate replica of a battle fought long ago.</p>
-                    <p><b>Requirement</b>: R180, Evil Alignment</p>
-                    <p><b>Chance</b>: (log10(x) ^ 3 / 20000), where x is the number of Assistants. (base and temporary, not invisible)</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
+                    <p><b>Requirement</b>: R180+, Evil Alignment</p>
+                    <p><b>Chance</b>: (log10(1 + x) ^ 3 / 20,000), where x is the number of Assistants. (base and temporary, not invisible)</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
                     <p><b>Upgrade Requirement</b>: Forgotten Relic, Battlefield artifact and upgrade.</p>
-                    <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by 3000.</p>
+                    <p><b>Upgrade Effect</b>: Expands the Warfare research facility, permanently increasing Warfare budget by +3000.</p>
                     <p><b>Upgrade Cost</b>: 10 Dtg (1e100), 1 Qid (1e48) Demon Coins</p>
                     <p><b>Note</b>: Upgrade only needs to be bought once.</p>
                     <br>
@@ -164,8 +164,8 @@
                     <p><b>Description</b>: The source of everything. Can fit in the average pocket.</p>
                     <p><b>Requirement</b>: R175, Mercenary, 15 different faction upgrades.</p>
                     <p><b>Chance</b>: 0.1%</p>
-                    <p><b>Effect</b>: Gives upgrade with same name</p>
-                    <p><b>Upgrade Effect</b>: Unlocks new Research Facility at R180</p>
+                    <p><b>Effect</b>: Unlocks upgrade with same name.</p>
+                    <p><b>Upgrade Effect</b>: Unlocks new Research Facility at R180.</p>
                     <p><b>Upgrade Cost</b>: 1 Qatg (1e105), 100 Qid (1e50) Dwarven and Drow Coins</p>
                     <p><b>Upgrade Description</b>: Take advantage of the most ancient and secret arts to empower your production beyonds known limits.</p>
                     <p><b>Upgrade Description</b>: Unlock the Forbidden research facility and increase Mercenary production by 100%, plus an additional bonus based on Forbidden research point. These upgrades will persist through abdications and reincarnations, providing a permanent bonus to all factions affected.</p>
@@ -179,49 +179,49 @@
                     <p><b>Short and long names</b></p>
                     <p><b>S</b>=Spellcraft, <b>C</b>=Craftsmanship, <b>D</b>=Divine, <b>E</b>=Economics, <b>A</b>=Alchemy, <b>W</b>=Warfare, and <b>F</b>=Forbidden</p>
                     <br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Spellcraftr.png" alt="Spellcraft" align="middle"> <b>Spellcraft</b> (R16+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Spellcraft.png" alt="Spellcraft" align="middle"> <b>Spellcraft</b> (R16+)</p>
                     <p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.</p>
                     <p><b>Effect</b>: Increases <b>Fairy</b>, <b>Faceless</b> and <b>Drow</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Craftsmanshipr.png" alt="Craftsmanship" align="middle"> <b>Craftsmanship</b> (R16+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Craftsmanship.png" alt="Craftsmanship" align="middle"> <b>Craftsmanship</b> (R16+)</p>
                     <p>Learn how to use tools and experience to improve your production by mastering Craftsmanship.</p>
                     <p><b>Effect</b>: Increases <b>Elven</b>, <b>Titan</b> and <b>Dwarven</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Diviner.png" alt="Divine" align="middle"> <b>Divine</b> (R16+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Divine.png" alt="Divine" align="middle"> <b>Divine</b> (R16+)</p>
                     <p>Harness the power of the eternals, incresing your spell affinity and bestowing Divine power on all your productivity.</p>
                     <p><b>Effect</b>: Increases <b>Angel</b>, <b>Faceless</b> and <b>Dwarven</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Economicsr.png" alt="Economics" align="middle"> <b>Economics</b> (R16+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Economics.png" alt="Economics" align="middle"> <b>Economics</b> (R16+)</p>
                     <p>Exploit your resources with Economics knowledge, taking maximum advantage of your properties and turning time into money.</p>
                     <p><b>Effect</b>: Increases <b>Goblin</b>, <b>Druid</b> and <b>Dwarven</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Alchemyr.png" alt="Alchemy" align="middle"> <b>Alchemy</b> (R16+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Alchemy.png" alt="Alchemy" align="middle"> <b>Alchemy</b> (R16+)</p>
                     <p>Tap the near-unlimited sources of Alchemy to improve your production and benefit from all your assets.</p>
                     <p><b>Effect</b>: Increases <b>Undead</b>, <b>Druid</b> and <b>Drow</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Warfarer.png" alt="Warfare" align="middle"> <b>Warfare</b> (R16+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Warfare.png" alt="Warfare" align="middle"> <b>Warfare</b> (R16+)</p>
                     <p>Use strategical prowess and manpower tp manipulate the production system in your favor.</p>
                     <p><b>Effect</b>: Increases <b>Demon</b>, <b>Titan</b> and <b>Drow</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/Forbiddenr.png" align="middle"> <b>Forbidden</b> (R180+)</p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/Forbidden.png" align="middle"> <b>Forbidden</b> (R180+)</p>
                     <p>Take advantage of the most ancient and secret arts to empower your production beyonds known limits.</p>
                     <p><b>Effect</b>: Increases <b>Mercenary</b> production.</p>
 					<p>Pointing to this ingame will tell you how many Points are available and also tells you your total research points.</p>
@@ -238,7 +238,7 @@
                     <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Vanilla Research</a></b> (R16+)</p>
                     <div class="autohide">
                         <h6>Fairy</h6>
-                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png align="middle"> Enchanted Field Quest</b></p>
+                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fairyr1.png" align="middle"> Enchanted Field Quest</b></p>
                         <p>Hey! Listen! A True Fairy has never enough Farms! We will offer you the chance to improve them!</p>
                         <p><b>Requirement</b>: R16 + 2250 Farms</p>
                         <p><b>Cost</b>: 10 Dtg (1E100)</p>
@@ -434,13 +434,13 @@
                         <p><b>Cost</b>: 10 USxg (1E187)</p>
                         <hr>
                         <h6>Dragons</h6>
-                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png align="middle"> Wyrm's Den Quest</b></p>
+                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenQuestFactionUpgrade.png" align="middle"> Wyrm's Den Quest</b></p>
                         <p>Ava'yorn thurirl. Our kind needs large spaces and a place to take flight. Build enough Iron Strongholds to make room for us.</p>
                         <p><b>Effect</b>: Unlocks Wyrm's Den</p>
-                        <p><b>Requirement</b>: R46 + 4500 Iron Strongholds</p>
+                        <p><b>Requirement</b>: R46+, 4500 Iron Strongholds</p>
                         <p><b>Cost</b>: 100 Tvg (1.0e74)</p>
                         <br/>
-                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png align="middle"> Wyrm's Den</b></p>
+                        <p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sDenFactionUpgrade.png" align="middle"> Wyrm's Den</b></p>
                         <p>Upgrade Iron Stronghold to Wyrm's Den, boosting their production based on the total amount of Faction Coins you collected and unlocking more unique perks for the building.</p>
                         <p><b>Formula</b>: 0.065 * (ln(1 + (x / 2) + y)) ^ 3.65 where x is faction coins (This Game) and y is Faction Coins (This R)</p>
                         <p><b>Effect</b>: Unlocks Wyrm's Den Unique Building</p>
@@ -451,7 +451,7 @@
             </div>
             <div class="shlisting">
                 <div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary</a></b> (R75-R99, R160+)</p>
+                    <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary</a></b> (R75-R99, R160-219)</p>
                     <div class="autohide">
                         <p><b>Note</b>: At R160+ you will need to unlock Mercenary again, click <a href="http://musicfamily.org/realm/MercenaryFaction/#MercenaryDuel"><b>here</b></a> to see requirements.</p>
                         <br/>

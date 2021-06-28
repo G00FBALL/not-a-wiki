@@ -16,7 +16,7 @@
 		<br/>
 		<p><b>Faction spell</b></p>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/Godshand.png" align="middle"> <b>God's Hand</b></p>
-		<p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate for 20 seconds.</p>
+		<p><b>Effect</b>: Increase the production of all buildings by 120 times your mana regeneration rate for 20 seconds.</p>
 		<br/>
 		<p><b>Spell Trophy & Upgrade</b></p>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/God'sRestFactionUpgrade.png" align="middle"> God's Rest</b></p>
@@ -38,7 +38,7 @@
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" align="middle"> Angelic Determination</b></p>
 		<p><b>Cost</b>: 500 M (5e8)</p>
 		<p><b>Effect</b>: Increase the production of all buildings based on spells cast this game.</p>
-		<p><b>Formula</b>: (6 * ln(1 + x) ^ 2)%, where x is spells cast this game.</p>
+		<p><b>Formula</b>: (4 * ln(1 + x) ^ 2)%, where x is spells cast this game.</p>
 		<br/>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelFeathersFactionUpgrade.png" align="middle"> Angel Feathers</b></p>
 		<p><b>Cost</b>: 5 B (5e9)</p>
@@ -62,7 +62,7 @@
 		<br/>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
 		<p><b>Cost</b>: 50 T (5e13)</p>
-		<p><b>Effect</b>: Increase Mana Regeneration multiplicatively by 100%.</p>
+		<p><b>Effect</b>: Increase Mana Regeneration multiplicatively by 50%.</p>
 		<hr>
 		<p><b>Tier 3 Upgrades</b></p>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelsAllianceFactionUpgrade.png" align="middle"> Angel Alliance</b></p>
@@ -71,8 +71,8 @@
 		<br/>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalGatesFactionUpgrade.png" align="middle"> Magical Gates</b></p>
 		<p><b>Cost</b>: 5 Qa (5e15)</p>
-		<p><b>Effect</b>: Increase maximum Mana additively based on time spent as Good in this Reincarnation.</p>
-		<p><b>Formula</b>: +(7 * x ^ 0.7), where x is time spent as Good this Reincarnation.</p>
+		<p><b>Effect</b>: Increase Maximum Mana based on time spent as Good in this Reincarnation.</p>
+		<p><b>Formula</b>: +(3.5 * x ^ 0.7), where x is time spent as Good this Reincarnation.</p>
 		<br/>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDominanceFactionUpgrade.png" align="middle"> Angelic Dominance</b></p>
 		<p><b>Cost</b>: 50 Qa (5e16)</p>
@@ -81,7 +81,7 @@
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/WingsofLibertyFactionUpgrade.png" align="middle"> Wings of Liberty</b></p>
 		<p><b>Cost</b>: 500 Qa (5e17)</p>
 		<p><b>Effect</b>: Increase the production of all buildings based on Mana Regeneration.</p>
-		<p><b>Formula</b>: (6 * ln(1 + x) ^ 2)%, where x is your Mana Regeneration.</p>
+		<p><b>Formula</b>: (4 * ln(1 + x) ^ 2)%, where x is your Mana Regeneration.</p>
 		<hr>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/AngelicHeritage.png" alt="Angelic Heritage" align="middle"><b> Angelic Heritage</b></p>
 		<p><b>Cost</b>: 5000 Angel Coins</p>

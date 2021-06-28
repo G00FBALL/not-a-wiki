@@ -167,27 +167,27 @@ div#images div{
 <br>
 <div id="images">
   <div>
-  <img src="http://musicfamily.org/realm/Factions/picks/SpellcraftResearch.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/Spellcraft.png" width="54" height="54" />
     <p>Spellcraft</p>
   </div>
   <div>
-  <img src="http://musicfamily.org/realm/Factions/picks/CraftsmanshipResearch.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/Craftsmanship.png" width="54" height="54" />
     <p>Craftsmanship</p>
   </div>
   <div>
-  <img src="http://musicfamily.org/realm/Factions/picks/DivineResearch.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/Divine.png" width="54" height="54" />
     <p>Divine</p>
   </div>
   <div>
-  <img src="http://musicfamily.org/realm/Factions/picks/EconomicsResearch.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/Economics.png" width="54" height="54" />
     <p>Economics</p>
   </div>
   <div>
-  <img src="http://musicfamily.org/realm/Factions/picks/AlchemyResearch.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/Alchemy.png" width="54" height="54" />
     <p>Alchemy</p>
   </div>
   <div>
-  <img src="http://musicfamily.org/realm/Factions/picks/WarfareResearch.png" width="54" height="54" />
+  <img src="http://musicfamily.org/realm/Factions/picks/Warfare.png" width="54" height="54" />
     <p>Warfare</p>
   </div>
 </div>
