@@ -32,17 +32,17 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenMintFactionUpgrade.png" align="middle"> Elven Mint</b></p>
         <p><b>Cost</b>: 50 M (5e7)</p>
-        <p><b>Effect</b>: The base chance to find Faction Coins is doubled.</p>
+        <p><b>Effect</b>: The base chance to find Faction Coins is increased by a multiplicative 150%.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTreasureCastingFactionUpgrade.png" align="middle"> Elven Treasure Casing</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: Increase base clicking reward by +25,000 per Trophy unlocked, and increase chance to find Faction Coins based on the amount of Trophies you unlocked.</p>
-        <p><b>Formula</b>: floor((1 + 0.05 * x)^ 0.95)%, where x is the amount of Trophies unlocked.</p>
+        <p><b>Formula</b>: +((1 + 0.1 * x) ^ 0.95)%, where x is the amount of Trophies unlocked.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" align="middle"> Ancient Clicking Arts</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
         <p><b>Effect</b>: Increase Mana Regeneration based on the amount of clicks made in this Reincarnation.</p>
-        <p><b>Formula</b>: +(2 * log10(1 + x)), where x is the amount of clicks made in this Reincarnation.</p>
+        <p><b>Formula</b>: +(2 * log10(1 + x) ^ 1.25), where x is the amount of clicks made in this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenFriendshipPact.png" align="middle"> Elven Friendship Pact</b></p>
@@ -56,8 +56,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEfficiencyFactionUpgrade.png" align="middle"> Elven Efficiency</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
-        <p><b>Effect</b>: Increase Royal Exchange bonus additively based on Faction Coins found this game.</p>
-	    	<p><b>Formula</b>: +(2 * log10(1 + x) ^ 2)%, where x is Faction Coins found this game.</p>
+        <p><b>Effect</b>: Increase Royal Exchange bonus based on Faction Coins found this game.</p>
+		<p><b>Formula</b>: +(2 * ln(1 + x) ^ 2)%, where x is Faction Coins found this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" align="middle"> Secret Clicking Techniques</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
@@ -76,7 +76,10 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" align="middle"> Elven Luck</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
-        <p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250,000% of your production and gathering (R + 1) * x random faction coins, where x is Faction Coin chance.</p>
+		<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of your production, also generating Faction Coins based on Reincarnation made.</p>
+		<p><b>Formula (Production)</b>: (2500 * (x + y)), where x is the production of all buildings, and y is the production of one assistant.</p>
+		<p><b>Formula (Faction Coins)</b>: (x * (R + 1)) of a random type, where x is Faction Coin chance and R Reincarnations made.</p>
+		<p><b>Effect</b>: Assistants have the same chance to trigger Elven Luck once every second. Elven Lucks triggered this way have their coin reward multiplied by the amount of assistants you have.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>
@@ -150,12 +153,12 @@
         <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
         <p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
         <p><b>Requirement</b>: Elven Union</p>
-        <p><b>Effect</b>: When Elven Luck triggers, 100,000 automatic Tax Collections are cast.</p>
         <p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the highest amount of Arboreal Cities you made this Reincarnation.</p>
+        <p><b>Elven Luck Formula</b>: +(x ^ 0.4)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+        <p><b>Production Formula</b>: (40 * x ^ 0.8)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+        <p><b>Faction Coin Formula</b>: +(7.5 * x ^ 0.75)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+        <p><b>Effect</b>: When Elven Luck triggers, 100,000 automatic Tax Collections are cast.</p>
         <p><b>Effect</b>: Also removes two Ascension penalties from Elven Luck.</p>
-        <p><b>Elven Luck Formula</b>: +(x ^ 0.3)%, where x is Arboreal Cities count.</p>
-        <p><b>Production Formula</b>: (32 * x ^ 0.8)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
-        <p><b>Faction Coin Formula</b>: (3 * x ^ 0.75)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" alt="Camouflage" align="middle"> <b>Camouflage</b></p>
         <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>

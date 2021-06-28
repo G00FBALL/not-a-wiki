@@ -56,13 +56,13 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" align="middle"> Corpse Supply</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
-        <p><b>Effect</b>: Gain additional assistants based on the highest amount of Necropolises you built this Reincarnation.</p>
-        <p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is the highest amount of Necropolises you built this Reincarnation.</p>
+		<p><b>Effect</b>: Gain additional assistants based on time spent being offline in this Reincarnation.</p>
+		<p><b>Formula</b>: +(0.4 * x ^ 0.6), where x is the time spent offline in this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" align="middle"> Plagued Buildings</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
-        <p><b>Formula</b>: (0.6 * x ^ 0.7)%, where x is time spent in seconds this game.</p>
+        <p><b>Formula</b>: ((0.75 * x ^ 0.75)%, where x is time spent this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadAllianceFactionUpgrade.png" align="middle"> Undead Alliance</b></p>
@@ -86,7 +86,7 @@
         <p><b>Requirements</b>: Undead Champion Trophy</p>
         <p><b>Cost</b>: 5000 Undead Coins</p>
         <p><b>Effect</b>: You gain additional assistants based on the time spent in this game.</p>
-        <p><b>Formula</b>: +(floor(1 + 1.5 * x^0.5)), where x is your Playtime (This Game) stat in hours.</p>
+        <p><b>Formula</b>: +(floor(1 + 1.6 * (x / 3600) ^ 0.6)), where x is time spent this game.</p>
         <hr>
         <p><b>Undead Research Requirements</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/UndercitiesQuestFactionUpgrade.png" align="middle"> Undercities Quest</b></p>

@@ -11,28 +11,29 @@
 		<p><b>Research Facilities</b>:<p>
 		<div class="shlisting">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Spellcraft</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Spellcraft.png" alt="Spellcraft" align="middle"><b><a href="#" onclick="return false;"> Spellcraft</a></b></p>
 				<div class="autohide">
 					<p><b>S1</b> - For Fairy</p>
 					<p><b>Research Name</b>: Enchanting</p>
 					<p><b>Cost</b>: 750 Qag (7.5e125)</p>
-					<p><b>Effect</b>: Increase the production of Enchanted Fields based on mana produced.</p>
-					<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is your Mana Produced (This Game) stat.</p>
+					<p><b>Effect</b>: Increase the production of Enchanted Fields based on mana produced in this game.</p>
+					<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is your mana produced this game.</p>
 					<hr>
 					<p><b>S10</b> - For Angel</p>
 					<p><b>Research Name</b>: Channeling</p>
 					<p><b>Hint</b>: Open the Gates of Heaven.</p>
 					<p><b>Requirement</b>: 2,000 Heaven's Gate. (This Game)</p>
 					<p><b>Cost</b>: 28.83 Uqag (2.883e127)</p>
-					<p><b>Effect</b>: Increase the production of all other buildings by 110% per Heaven's Domain you own.</p>
+					<p><b>Effect</b>: Increase the production of all other buildings based on the amount of Heaven's Domain you own.</p>
+					<p><b>Formula</b>: (110 * x)%, where x is the amount of Enchanted Fields you own.</p>
 					<hr>
 					<p><b>S30</b> - For All Factions</p>
 					<p><b>Research Name</b>: Vacuumancy</p>
 					<p><b>Requirement</b>: Have 4,000 Mana. (This Game)</p>
 					<p><b>Cost</b>: 95.88 Dqag (9.588e130)</p>
 					<p><b>Effect</b>: Increase Maximum Mana and Mana Regeneration rate based on time spent in this game.</p>
-					<p><b>Maximum Mana Formula</b>: +(0.1 * x), where x is time spent in this game in seconds.</p>
-					<p><b>Mana Regeneration Formula</b>: +(0.5 * x ^ 0.5), where x is time spent in this game in seconds.</p>
+					<p><b>Maximum Mana Formula</b>: +(0.1 * x), where x is time spent in this game.</p>
+					<p><b>Mana Regeneration Formula</b>: +(0.5 * x ^ 0.5), where x is time spent in this game.</p>
 					<hr>
 					<p><b>S50</b> - For Goblin</p>
 					<p><b>Research Name</b>: Conjuration</p>
@@ -70,7 +71,7 @@
 					<p><b>Research Name</b>: Empowered Luck</p>
 					<p><b>Requirement</b>: Research Blessing (D1) & Augmentation (S135)</p>
 					<p><b>Cost</b>: 3.273 UQig (3.273e156)</p>
-					<p><b>Effect</b>: Increase production of buildings by 36,000% for 20 seconds each time you trigger Elven Luck and increase the chance to trigger it by 24%.</p>
+					<p><b>Effect</b>: Increase production of buildings by 36,000% for 20 seconds each time you trigger Elven Luck and increase the chance to trigger it by +24%.</p>
 					<hr>
 					<p><b>S180</b> - For Fairy</p>
 					<p><b>Research Name</b>: Incantation</p>
@@ -129,7 +130,7 @@
 					<p><b>Requirement</b>: 25 Brainwaves (Faceless) (This R)</p>
 					<p><b>Cost</b>: 33 OcQig (3.36e178)</p>
 					<p><b>Effect</b>: Lightning Strike duration will not be modified by other effects. While Lightning Strike is active, all non-target buildings have their production increased based on Lightning Strike activity time in this game.</p>
-					<p><b>Formula</b>: (250 * (x / 20) ^ 0.9)%, where x is your Lightning Strike activity time (This Game) stat.</p>
+					<p><b>Formula</b>: (250 * (x / 20) ^ 0.9)%, where x is your Lightning Strike activity time this game.</p>
 					<hr>
 					<p><b>S305</b> - For All Factions</p>
 					<p><b>Research Name</b>: Mesmerization</p>
@@ -236,7 +237,7 @@
 					<p><b>Hint</b> First spell, many served.</p>
 					<p><b>Requirement</b>: 1 B (1e9) Tax Collections (This R), (Calefaction A1325) and (Psionics S1500).</p>
 					<p><b>Cost</b>: 695.7 Sxg (6.957e185)</p>
-					<p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 8% per active spells (counting tiers).</p>
+					<p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 8% per active spells.</p>
 					<p><b>Effect</b>: Also increases offline spell cast amount multiplicatively by 1200%.</p></p>
 					<hr>
 					<p><b>S5125</b> - For All Factions</p>
@@ -249,8 +250,8 @@
 					<p><b>Research Name</b>: Invocation</p>
 					<p><b>Requirement</b>: R177+, Forgotten Relic, Mana Loom artifact and upgrade</p>
 					<p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the activity time of your least used spell.</p>
-					<p><b>Additive</b>: +(1000 + 80 * x ^ 0.8), where x is spell activity time in seconds.</p>
-					<p><b>Multiplicative</b>: (6 + 0.6 * x ^ 0.6)%, where x is spell activity time in seconds.</p>
+					<p><b>Additive</b>: +(1000 + 80 * x ^ 0.8), where x is the spell activity time of your least used spell in this Reincarnation.</p>
+					<p><b>Multiplicative</b>: (6 + 0.6 * x ^ 0.6)%, where x is the spell activity time of your least used spell in this Reincarnation.</p>
 					<hr>
 					<p><b>S5625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Leylines</p>
@@ -266,45 +267,58 @@
 					<hr>
 					<p><b>S10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Encompass</p>
-					<p><b>Requirement</b>: R221</p>
+					<p><b>Requirement</b>: R221+</p>
 					<p><b>Effect</b>: Increase Maximum Mana based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
 					<p><b>Formula</b>: +(15 * ln(1 + x) ^ 3), where x is your highest max mana this Reincarnation.</p>
 					<hr>
 					<p><b>S11125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Multiplication</p>
-					<p><b>Requirement</b>: R223</p>
+					<p><b>Requirement</b>: R223+</p>
 					<p><b>Effect</b>: Spells cast count more based on Mana Produced in this game.</p>
-					<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is mana produced this game.</p>
+					<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is Mana Produced this game.</p>
 					<hr>
 					<p><b>S11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Concentration</p>
-					<p><b>Requirement</b>: R225</p>
+					<p><b>Requirement</b>: R225+</p>
 					<p><b>Effect</b>: Increase the production of Unique buildings based on Spells cast in this game.</p>
 					<p><b>Formula</b>: (ln(1 + x) ^ 2)%, where x is spell casts this game.</p>
 					<hr>
 					<p><b>S11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Completeness</p>
-					<p><b>Requirement</b>: R227</p>
+					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Trophies you unlocked.</p>
 					<p><b>Formula</b>: (1.5 * x ^ 0.5)%, where x is the amount of Trophies you unlocked.</p>
-					<hr>					
+					<hr>
+					<p><b>S11875</b> - For All Factions</p>
+					<p><b>Research Name</b>: Arcane Efficiency</p>
+					<p><b>Requirement</b>: R229+</p>
+					<p><b>Effect</b>: While both Holy Light and Fairy Chanting are active, reduce the cost of all spells by 85%.</p>
+					<p><b>Note</b>: Catalyst can be used as one of the spells.</p>
+					<hr>
+					<p><b>S12250</b> - For All Factions</p>
+					<p><b>Research Name</b>: Necrodoomancy</p>
+					<p><b>Requirement</b>: R232+</p>
+					<p><b>Effect</b>: Reincarnations count more based on time spent as Undead in this Reincarnation.</p>
+					<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is time spent as Undead in this Reincarnation.</p>
+					<hr>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Craftsmanship</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Craftsmanship.png" alt="Craftsmanship" align="middle"><b><a href="#" onclick="return false;"> Craftsmanship</a></b></p>
 				<div class="autohide">
 					<p><b>C1</b> - For Elf</p>
 					<p><b>Research Name</b>: Dummy Targets</p>
 					<p><b>Cost</b>: 750 Qag (7.5E125)</p>
 					<p><b>Effect</b>: Increase Elven Training Grounds production based on the amount of Faction Coins you found.</p>
-					<p><b>Formula</b>: (3 * ln(1 + x) ^ 3)%, where x is your Faction Coins Gained (This Game) stat.</p>
+					<p><b>Formula</b>: (3 * ln(1 + x) ^ 3)%, where x is your Faction Coins found this game.</p>
 					<hr>
 					<p><b>C10</b> - For Fairy</p>
 					<p><b>Research Name</b>: Cultivation</p>
 					<p><b>Hint</b>: More farms, more crops!</p>
 					<p><b>Requirement</b>: 2500 Enchanted Fields</p>
 					<p><b>Cost</b>: 28.83 Uqag (2.883E127)</p>
-					<p><b>Effect</b>: Increases production of Blacksmith and Inn by 60% per Enchanted Field that you have.</p>
+					<p><b>Effect</b>: Increases production of Blacksmith and Inn based on the amount of Enchanted Field you own.</p>
+					<p><b>Formula</b>: (60 * x)%, where x is the amount of Enchanted Fields you own.</p>
 					<hr>
 					<p><b>C25</b> - For Angel</p>
 					<p><b>Research Name</b>: Light Condenser</p>
@@ -312,15 +326,15 @@
 					<p><b>Requirement</b>: 12,000 Spells cast (This R)</p>
 					<p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
 					<p><b>Effect</b>: Increase mana regeneration based on the amount of spells cast.</p>
-					<p><b>Formula</b>: floor(10 * x ^ 0.3) / 10, where x is your Spells Cast (This Game) stat.</p>
+					<p><b>Formula</b>: +(floor(10 * x ^ 0.3) / 10), where x is your spells cast this game.</p>
 					<hr>
 					<p><b>C50</b> - For Demon</p>
 					<p><b>Research Name</b>: Refining</p>
 					<p><b>Hint</b>: Faction Coin treasury.</p>
 					<p><b>Requirement</b>: 1 B (1E9) Faction Coins (as Elf)</p>
 					<p><b>Cost</b>: 318.8 Tgag (3.188E134)</p>
-					<p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Demon Coins you found in this Game.</p>
-					<p><b>Formula</b>: (0.8 * ln(1 + x) ^ 3)%, where x is your Demon Coins Gained (This Game) stat.</p>
+					<p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Demon Coins you found in this game.</p>
+					<p><b>Formula</b>: (0.3 * ln(1 + x) ^ 3)%, where x is your Demon Coins gained this game.</p>
 					<hr>
 					<p><b>C80</b> - For All Factions</p>
 					<p><b>Research Name</b>: Apprenticeship</p>
@@ -372,8 +386,8 @@
 					<p><b>Research Name</b>: Journeymen</p>
 					<p><b>Requirement</b>: Research Apprenticeship (C80) & Bartering (E50).</p>
 					<p><b>Cost</b>: 82.65 Dqig (8.265E160)</p>
-					<p><b>Effect</b>: Increase the production of Unique Buildings based on total time spent as that faction.</p>
-					<p><b>Formula</b>: round(0.125 * x ^ 0.7)%, where x is your Time Spent as that faction stat.</p>
+					<p><b>Effect</b>: Increase thIncrease the production of Unique Buildings based on total time spent as that faction.</p>
+					<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent as the faction of the Unique Building.</p>
 					<hr>
 					<p><b>C225</b> - For Elf</p>
 					<p><b>Research Name</b>: Automatons</p>
@@ -550,33 +564,46 @@
 					<hr>
 					<p><b>C10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Masterpiece</p>
-					<p><b>Requirement</b>: R221</p>
+					<p><b>Requirement</b>: R221+</p>
 					<p><b>Effect</b>: Increase Faction Coin find chance based on Excavation Resets made in this Reincarnation (Multiplicative).</p>
 					<p><b>Formula</b>: (2 * x ^ 2)%, where x is excavation resets this R.</p>
 					<hr>
 					<p><b>C11125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Installation</p>
-					<p><b>Requirement</b>: R223</p>
+					<p><b>Requirement</b>: R223+</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on their quantity.</p>
 					<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the amount of buildings of the same tier.</p>
 					<hr>
 					<p><b>C11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Exhibition</p>
-					<p><b>Requirement</b>: R225</p>
+					<p><b>Requirement</b>: R225+</p>
 					<p><b>Effect</b>: Trophies count more based on the amount of buildings you own.</p>
 					<p><b>Formula</b>: (x ^ 0.5)%, where x is total amount of buildings.</p>
 					<hr>
 					<p><b>C11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Motus Perpetuum</p>
-					<p><b>Requirement</b>: R227</p>
+					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Autoclicks x times per second based on Clicks made in this Reincarnation.</p>
 					<p><b>Formula</b>: x = floor(ln(1 + y)), where y is productive clicks this R.</p>
 					<p><b>Effect</b>: Also generates the same amount of clicks while offline.</p>
-					<hr>									
+					<hr>
+					<p><b>C11875</b> - For All Factions</p>
+					<p><b>Research Name</b>: Plating</p>
+					<p><b>Requirement</b>: R229+</p>
+					<p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes based on Moon Blessing activity time in this Reincarnation.</p>
+					<p><b>Formula</b>: +(2 * x ^ 0.8), where x is Moon Blessing activity time in this Reincarnation.</p>
+					<p><b>Note</b>: This is an additive bonus and is thus not affected by any multiplicatives such as Good Warcry.</p>
+					<hr>
+					<p><b>C12250</b> - For All Factions</p>
+					<p><b>Research Name</b>: Compression</p>
+					<p><b>Requirement</b>: R232+</p>
+					<p><b>Effect</b>: Brainwave increases Faction Coin find chance progressively over its duration.</p>
+					<p><b>Formula</b>: +(floor(1.5 * ((x + y) / 60) ^ 2.25)%, where x is Brainwave runtime and y is Headstart in seconds.</p>
+					<hr>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Divine</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Divine.png" alt="Divine" align="middle"><b><a href="#" onclick="return false;"> Divine</a></b></p>
 				<div class="autohide">
 					<p><b>D1</b> - For Angel</p>
 					<p><b>Research Name</b>: Blessing</p>
@@ -826,6 +853,7 @@
 					<hr>
 					<p><b>D10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Scriptures</p>
+					<p><b>Requirement</b>: R221+</p>
 					<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
 					<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment of the spell.</p>
 					<p><b>Note</b>: Call to Arms and Spiritual Surge use time spent this R.</p>
@@ -834,22 +862,37 @@
 					<hr>
 					<p><b>D11125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Viriditas</p>
+					<p><b>Requirement</b>: R223+</p>
 					<p><b>Effect</b>: Lineage levels count more based on the amount of Artifacts you excavated.</p>
 					<p><b>Formula</b>: (x ^ 0.75)%, where x is the amount of Artifacts you excavated.</p>
 					<hr>
 					<p><b>D11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Rigor</p>
+					<p><b>Requirement</b>: R225+</p>
 					<p><b>Effect</b>: Reincarnations count 100% more.</p>
 					<hr>
 					<p><b>D11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Compassion</p>
+					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Increase the production of Non-Unique buildings based on time spent with your least used alignment in this Reincarnation.</p>
 					<p><b>Formula</b>: (50 + x ^ 0.75)%, where x is time spent as the least used alignment this R.</p>
-					<hr>										
+					<hr>
+					<p><b>D11875</b> - For All Factions</p>
+					<p><b>Research Name</b>: Virtues</p>
+					<p><b>Requirement</b>: R229+</p>
+					<p><b>Effect</b>: Increase Tax Collection worth based on the highest amount of Mountain Palaces you built in this Reincarnation.</p>
+					<p><b>Formula</b>: (2.5 * x ^ 0.5)%, where x is the highest amount of Mountain Palaces 	built in this Reincarnation.</p>
+					<hr>
+					<p><b>D12250</b> - For All Factions</p>
+					<p><b>Research Name</b>: Enochian</p>
+					<p><b>Requirement</b>: R232+</p>
+					<p><b>Effect</b>: Multiply Angel Coins found based on God's Hand activity time in this Reincarnation.</p>
+					<p><b>Formula</b>: *(10 + 0.7 * x ^ 0.7)%, where x is God's Hand activity time in this Reincarnation.</p>
+					<hr>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Economics</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Economics.png" alt="Economics" align="middle"><b><a href="#" onclick="return false;"> Economics</a></b></p>
 				<div class="autohide">
 					<p><b>E1</b> - For Goblin</p>
 					<p><b>Research Name</b>: Coinage</p>
@@ -929,7 +972,7 @@
 					<p><b>Requirement</b>: Research Coinage (E1) & Gilding (A50)</p>
 					<p><b>Cost</b>: 2.087 Qaqig (2.087e165)</p>
 					<p><b>Effect</b>: Increase the production of Evil Buildings based on the amount of Goblin Banks you own.</p>
-					<p><b>Formula</b>: (round(10 * x ^ 0.85))%, where x is the number of Goblin Banks you own.</p>
+					<p><b>Formula</b>: (1.5 * x ^ 0.85)%, where x is the number of Goblin Banks you own.</p>
 					<hr>
 					<p><b>E230</b> - For Demon</p>
 					<p><b>Research Name</b>: Coercion</p>
@@ -1102,28 +1145,45 @@
 					<hr>
 					<p><b>E10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Rigmarole</p>
+					<p><b>Requirement</b>: R221+</p>
 					<p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of assistants you had in this Reincarnation (Additive).</p>
 					<p><b>Formula</b>: +(ln(1 + x) ^ 2)%, where x is your highest assistants count this Reincarnation.</p>
 					<hr>
 					<p><b>E11125</b> - For All Factions</p>
 					<p><b>Research Name</b>:  Grey Friday</p>
+					<p><b>Requirement</b>: R223+</p>
 					<p><b>Effect</b>: Reduce building cost multiplier.</p>
 					<p><b>Formula</b>: -0.02, with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 					<hr>
 					<p><b>E11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Heist</p>
-					<p><b>Effect</b>: Increase production bonus of Gems based on the amount of assistants you have (Additive).</p>
-					<p><b>Formula</b>: +(2 * ln(1 + x) ^ 2)%, where x is the amount of assistants you have.</p>
+					<p><b>Requirement</b>: R225+</p>
+					<p><b>Effect</b>: Increase production bonus of Gems based on the amount of assistants you have.</p>
+					<p><b>Formula</b>: +(2.25 * ln(1 + x) ^ 2.25)%, where x is the amount of assistants you have.</p>
 					<hr>
 					<p><b>E11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Surplus</p>
+					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Multiplicatively increase assistants based on the amount of Gems you have.</p>
 					<p><b>Formula</b>: (25 + 0.25 * ln(1 + x) ^ 1.5)%, where x is the amount of Gems you have.</p>
-					<hr>						
+					<hr>
+					<p><b>E11875</b> - For All Factions</p>
+					<p><b>Research Name</b>: Overworking</p>
+					<p><b>Requirement</b>: R229+</p>
+					<p><b>Effect</b>: Goblin's Greed casts additional Tax Collection per second based on the amount of assistants you have.</p>
+					<p><b>Formula</b>: +(0.85 * x ^ 0.85), where x is the amount of assistants you have.</p>
+					<p><b>Note</b>: Catalyst can also trigger this effect.</p>
+					<hr>
+					<p><b>E12250</b> - For All Factions</p>
+					<p><b>Research Name</b>: Oilery</p>
+					<p><b>Requirement</b>: R232+</p>
+					<p><b>Effect</b>: While both Lightning Strike and Gem Grinder are active, multiplicatively increase the production bonus from Gems based on the duration of your longest spell.</p>
+					<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is the duration of your longest spell.</p>
+					<hr>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Alchemy</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Alchemy.png" alt="Alchemy" align="middle"><b><a href="#" onclick="return false;"> Alchemy</a></b></p>
 				<div class="autohide">
 					<p><b>A1</b> - For Undead</p>
 					<p><b>Research Name</b>: Plague</p>
@@ -1142,7 +1202,7 @@
 					<p><b>Hint</b>: Hellfire!</p>
 					<p><b>Requirement</b>: 666 Hellfire Blasts (Total this R)</p>
 					<p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
-					<p><b>Effect</b>: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and increases its effect by 1000%.</p>
+					<p><b>Effect</b>: Reduces Hellfire Blast duration by 16 seconds, reduces its mana cost by 200 and increases its effect by 800%.</p>
 					<hr>
 					<p><b>A30</b> - For Fairy</p>
 					<p><b>Research Name</b>: Delayed Reaction</p>
@@ -1258,7 +1318,7 @@
 					<p><b>Requirement</b>: Research Mutation (D260) & Meditation (D275)</p>
 					<p><b>Cost</b>: 6.443 Sxg (6.443E183)</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on time spent playing as other factions.</p>
-					<p><b>Formula</b>: round(0.05 * x ^ 0.7)%, where x is time spent as other factions.</p>
+					<p><b>Formula</b>: (0.05 * (x - y) ^ 0.7)%, where x is All Time playtime and y is the highest All Time spent amongst your current factions.</p>
 					<hr>
 					<p><b>A375</b> - For Druid</p>
 					<p><b>Research Name</b>: Transfusion</p>
@@ -1383,35 +1443,51 @@
 					<hr>
 					<p><b>A10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Toxicity</p>
+					<p><b>Requirement</b>: R221+</p>
 					<p><b>Effect</b>: Multiplicatively increase mana regeneration based on time spent with the faction opposite to your current one, in this Reincarnation.</p>
 					<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is time spent with opposite-alignment faction this R.</p>
 					<p><b>Note</b>: For Neutral and Balance the opposite is Neutral and Balance respectively (therefore Druid counts Druid playtime itself).</p>
 					<hr>
 					<p><b>A11125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Alkahest</p>
+					<p><b>Requirement</b>: R223+</p>
 					<p><b>Effect</b>: Clicks count more based on the amount of active spells.</p>
 					<p><b>Formula</b>: (x ^ 1.5)%, where x is the amount of active spells.</p>
 					<hr>
 					<p><b>A11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Azoth</p>
+					<p><b>Requirement</b>: R225+</p>
 					<p><b>Effect</b>: Increase clicking reward based on mana regeneration.</p>
 					<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is mana regeneration</p>
 					<hr>
 					<p><b>A11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Anima Mundi</p>
+					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins found in this Reincarnation.</p>
 					<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2)%, where x is factiom coins found this R</p>
-					<hr>					
+					<hr>
+					<p><b>A11875</b> - For All Factions</p>
+					<p><b>Research Name</b>: Liquefaction</p>
+					<p><b>Requirement</b>: R229+</p>
+					<p><b>Effect</b>: Increase the production of the three highest building tiers based on Hellfire Blast activity time in this Reincarnation.</p>
+					<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is Hellfire Blast activity time in this Reincarnation.</p>
+					<hr>
+					<p><b>A12250</b> - For All Factions</p>
+					<p><b>Research Name</b>: Folgoration</p>
+					<p><b>Requirement</b>: R232+</p>
+					<p><b>Effect</b>: While both Diamond Pickaxe and God's Hand are active, multiplicatively increase Mana Regeneration and Faction Coin find chance based on the amount of Excavations made in this Reincarnation, including resets.</p>
+					<p><b>Formula</b>: (15 + 1.75 * (x * y) ^ 0.75)%, where x is the amount of Excavations and y the amount of Excavation resets made in this Reincarnation respectively.</p>
+					<hr>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Warfare</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Warfare.png" alt="Warfare" align="middle"><b><a href="#" onclick="return false;"> Warfare</a></b></p>
 				<div class="autohide">
 					<p><b>W1</b> - For Demon</p>
 					<p><b>Research Name</b>: Assault</p>
 					<p><b>Cost</b>: 750 Qag (7.50E125)</p>
 					<p><b>Effect</b>: Increase the production of Infernal Realms based on the amount of Hellfire Blasts cast in this game.</p>
-					<p><b>Formula</b>: (70 * x ^ 0.7)%, where x is Hellfire Blasts Cast This Game.</p>
+					<p><b>Formula</b>: (30 * x ^ 0.7)%, where x is Hellfire Blasts Cast This Game.</p>
 					<hr>
 					<p><b>W10</b> - For Elf</p>
 					<p><b>Research Name</b>: Dueling</p>
@@ -1426,7 +1502,7 @@
 					<p><b>Requirement</b>: 1 Tqag (1E132) Coins Gained (This Game)</p>
 					<p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the amount of Tax Collections cast in this game.</p>
-					<p><b>Formula</b>: round(5 * x ^ 0.6)%, where x is Tax Collections Cast This Game.</p>
+					<p><b>Formula</b>: round(5 * x ^ 0.5)%, where x is Tax Collections Cast This Game.</p>
 					<hr>
 					<p><b>W50</b> - For Undead</p>
 					<p><b>Research Name</b>: Exertion</p>
@@ -1610,14 +1686,14 @@
 					<p><b>Requirement</b>:  Research W400, A1200, Affiliated Dragon</p>
 					<p><b>Cost</b>: 4.249 Qivg (4.249e78)</p>
 					<p><b>Effect</b>: Increase maximum mana based on the amount of clicks made in this game.</p>
-					<p><b>Formula</b>: (650 * x ^ 0.35), where x is clicks (this game).</p>
+					<p><b>Formula</b>: +(650 * x ^ 0.35), where x is the amount of clicks made in this game.</p>
 					<hr>
 					<p><b>W3050</b> - For Mercenary</p>
 					<p><b>Research Name</b>: Flanking</p>
 					<p><b>Requirement</b>: 50000 Base Assistants, (Authority W1275) and (Intimidation E1325).</p>
 					<p><b>Cost</b>: 809 SpQig (8.09e176)</p>
 					<p><b>Effect</b>: Increases the production of buildings one tier directly above or below a Unique Building based on the amount of assistants you own.</p>
-					<p><b>Formula</b>: (2 * x ^ 0.8), where x is assistants.</p>
+					<p><b>Formula</b>: (2 * x ^ 0.8)%, where x is assistants.</p>
 					<hr>
 					<p><b>W3150</b> - For All Factions</p>
 					<p><b>Research Name</b>: Upheaval</p>
@@ -1625,7 +1701,7 @@
 					<p><b>Requirement</b>: 60000 Farms, Inns and Blacksmiths.</p>
 					<p><b>Cost</b>: 731.6 NoQig (7.316e182)</p>
 					<p><b>Effect</b>: Increases the production of all buildings based on their tier, giving the highest bonus to the lowest.</p>
-					<p><b>Formula</b>: (150 * (12 - T) ^ 2.15), where T is building tier.</p>
+					<p><b>Formula</b>: (150 * (12 - T) ^ 2.15)%, where T is building tier.</p>
 					<hr>
 					<p><b>W5125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Sovereignty</p>
@@ -1636,7 +1712,7 @@
 					<p><b>W5375</b> - For Evil</p>
 					<p><b>Research Name</b>: Officers</p>
 					<p><b>Requirement</b>: R177+, Forgotten Relic, Battlefield artifact and upgrade.</p>
-					<p><b>Effect</b>: Gain assistants multiplicatively based on amount of trophies unlocked.</p>
+					<p><b>Effect</b>: Multiplactively increase assistants based on the amount of trophies unlocked.</p>
 					<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is trophies.</p>
 					<hr>
 					<p><b>W5625</b> - For All Factions</p>
@@ -1653,28 +1729,45 @@
 					<hr>
 					<p><b>W10875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Revolution</p>
+					<p><b>Requirement</b>: R221+</p>
 					<p><b>Effect</b>: Gain assistants based on Royal Exchanges made.</p>
 					<p><b>Formula</b>: +(x ^ 0.75), where x is royal exchanges made.</p>
 					<hr>
 					<p><b>W11125</b> - For All Factions</p>
 					<p><b>Research Name</b>: Vengeance</p>
+					<p><b>Requirement</b>: R223+</p>
 					<p><b>Effect</b>: Increase Offline production based on the duration of your longest spell.</p>
 					<p><b>Formula</b>: (5 + 1.5 * x ^ 0.5)%, where x is the duration of your longest spell.</p>
 					<hr>
 					<p><b>W11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Pacifism</p>
+					<p><b>Requirement</b>: R225+</p>
 					<p><b>Effect</b>: Increase all spells durations based on time spent in this game.</p>
 					<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent this game.</p>
 					<hr>
 					<p><b>W11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Genocide</p>
+					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used faction.</p>
 					<p><b>Formula</b>: (50 + x ^ 0.85)%, where x is time spent with the least used faction this R in seconds.</p>
-					<hr>					
+					<hr>
+					<p><b>W11875</b> - For All Factions</p>
+					<p><b>Research Name</b>: Scouting</p>
+					<p><b>Requirement</b>: R229+</p>
+					<p><b>Effect</b>: Buildings count more based on the maximum amount of Grand Balance targets you had in this Reincarnation.</p>
+					<p><b>Formula</b>: (1.25 * x ^ 1.25)%, where x is the maximum amount of Grand Balance targets you had in this Reincarnation.</p>
+					<p><b>Note</b>: Amount of targets can be seen at Druid Challenge Reward, but needs an active Grand Balance to update.</p>
+					<hr>
+					<p><b>W12250</b> - For All Factions</p>
+					<p><b>Research Name</b>: Raiding</p>
+					<p><b>Requirement</b>: R232+</p>
+					<p><b>Effect</b>: Increase the production of all buildings based on the highest Combo Strike counter you had in this Reincarnation.</p>
+					<p><b>Formula</b>: (x ^ 0.7)%, where x is the highest Combo Strike counter in this Reincarnation.</p>
+					<hr>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Forbidden</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Forbidden.png" alt="Forbidden" align="middle"><b><a href="#" onclick="return false;"> Forbidden</a></b></p>
 				<div class="autohide">
 					<p><b>F5250</b> - For All Factions</p>
 					<p><b>Research Name</b>: Dreamwalking</p>
@@ -1708,24 +1801,39 @@
 					<hr>
 					<p><b>F11000</b> - For All Factions</p>
 					<p><b>Research Name</b>: Godslaying</p>
+					<p><b>Requirement</b>: R222+</p>
 					<p><b>Effect</b>: Active spells count more based on the sum of your Faction spells activity time.</p>
-					<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your current faction(s)’ faction spell activity time this R in seconds.</p>
+					<p><b>Formula</b>: (0.575 * x ^ 0.575)%, where x is your current faction(s)’ faction spell activity time this R in seconds.</p>
 					<hr>
 					<p><b>F11250</b> - For All Factions</p>
 					<p><b>Research Name</b>: Inanity</p>
+					<p><b>Requirement</b>: R224+</p>
 					<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
-					<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.</p>
+					<p><b>Formula</b>: (0.9 * x ^ 0.45)%, where x is time spent offline this game.</p>
 					<hr>
 					<p><b>F11500</b> - For All Factions</p>
 					<p><b>Research Name</b>: Paradox</p>
+					<p><b>Requirement</b>: R226+</p>
 					<p><b>Effect</b>: Gain the Set bonus of your opposite alignment.</p>
 					<p><b>Note</b>: Only gain the effects of the Base Faction that matches both alignments. For Neutral and Balance the opposite is Neutral and Balance respectively.</p>
 					<hr>
 					<p><b>F11750</b> - For All Factions</p>
 					<p><b>Research Name</b>: Relativity</p>
+					<p><b>Requirement</b>: R228+</p>
 					<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
 					<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
-					<hr>					
+					<hr>
+					<p><b>F12000</b> - For All Factions</p>
+					<p><b>Research Name</b>: Revelation</p>
+					<p><b>Requirement</b>: R230+</p>
+					<p><b>Effect</b>: Allows the purchase of one additional Legacy Combo upgrade.</p>
+					<hr>
+					<p><b>F12500</b> - For All Factions</p>
+					<p><b>Research Name</b>: Avatars</p>
+					<p><b>Requirement</b>: R234+</p>
+					<p><b>Effect</b>: Multiplactively increase assistants based on the amount of different Factions in your Legacies.</p>
+					<p><b>Formula</b>: (50 * x ^ 2.5)%, where x is the amount of different Factions in your Legacies.</p>
+					<hr>
 				</div>
 			</div>
 		</div>

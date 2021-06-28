@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
+<b><center><font size="5">Historic Page, outdated and no longer worked on!</font></center></b>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6>
 <h6>Mercenary Research</h6>
 <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryEncampmentQuest.png" alt="Mercenary Encampment Quest" align="middle"> <b>Mercenary Encampment Quest</b></p>

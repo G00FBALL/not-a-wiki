@@ -572,7 +572,7 @@
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/Godshand.png" alt="Good" align="middle"> God's Hand</b> (Angel)</p>
 <p><b>Cost</b>: 900 Mana - <b>Duration</b>: 20 seconds </p>
-<p><b>Effect</b>: Increase the production of all buildings by 150x your mana regeneration rate.</p>
+<p><b>Effect</b>: Increase the production of all buildings by 120 times your Mana Regeneration rate.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/God'sRestFactionUpgrade.png" align="middle"> <b>God's Rest</b></p>
 <p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
 <p><b>Effect</b>: Gives random Faction Coins based on your Faction Coin find chance for each other spell you cast while God's Hand is active.</p>

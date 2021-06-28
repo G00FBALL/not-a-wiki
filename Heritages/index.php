@@ -40,7 +40,7 @@
 <p><b>Cost</b>: 5,000 Undead Coins</p>
 <p><b>Requirements</b>: Undead Champion Trophy</p>
 <p><b>Effect</b>: You gain additional assistants based on the time spent in this game.</p>
-<p><b>Formula</b>: +floor(1 + 1.5 * x ^ 0.5), where x is your Playtime (This Game) stat in hours.</p>
+<p><b>Formula</b>: +(floor(1 + 1.6 * (x / 3600) ^ 0.6)), where x is time spent this game.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DemonicHeritage.png" alt="Demonic Heritage" align="middle"><b> Demonic Heritage</b></p>
 <p><b>Cost</b>: 5,000 Demon Coins</p>

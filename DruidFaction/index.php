@@ -81,7 +81,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" align="middle"> Bardic Knowledge</b></p>
         <p><b>Cost</b>: 50 Sp (5e25)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on your Maximum Mana.</p>
-        <p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your Maximum Mana.</p>
+        <p><b>Formula</b>: (16 * ln(1 + x) ^ 2)%, where x is your Maximum Mana.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png" align="middle"> Shapeshifting</b></p>
         <p><b>Cost</b>: 500 Sp (5e26)</p>
@@ -96,7 +96,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MabinogionFactionUpgrade.png" align="middle"> Mabinogion</b></p>
         <p><b>Cost</b>: 50 Oc (5e28)</p>
         <p><b>Effect</b>: Increase the production of Non-Unique buildings based on their tier, giving the best bonus to the lowest.</p>
-        <p><b>Formula</b>: (12 * 2 ^ (12 - T))%, where T is building tier.</p>
+        <p><b>Formula</b>: (12 * 1.8 ^ (12 - T))%, where T is building tier.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
         <p><b>Cost</b>: 500 Oc (5e29)</p>

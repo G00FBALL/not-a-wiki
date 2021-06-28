@@ -4,10 +4,10 @@
 <?php include "../scripts/header.html"; ?>
 	<h6><img src="http://musicfamily.org/realm/Factions/picks/TrophyTopPage.png" alt="Spellcraft" align="middle"></h6>
 	<div class="shlisting">
-		<h6><b>900 Total Trophies</b></h6>
+		<h6><b>901 Total Trophies</b></h6>
 		<div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (64)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (65)</a></b></p>
 				<div class="autohide">
 					<p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
 					<p><b>Requirement</b>: Have exactly 1337 Coins at any given time.</p>
@@ -74,7 +74,7 @@
 					<p><img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle><b> Master Archeologist</b></p>
 					<p><b>Requirement</b>: Unlock Titans, Druids, and Faceless</p>
 					<p><b>Cost</b>: 1 Ud (1e36), A1+ Free</p>
-					<p><b>Effect</b>: Increase the production of all buildings by 5% when you are playing as Titan, Druid or Faceless.</p>
+					<p><b>Effect</b>: Increase the production of all buildings by 25% when you are playing as Titan, Druid or Faceless.</p>
 					<p><b>Note</b>: This can be done at R0.</p>
 					<hr>
 					<p><img src=http://musicfamily.org/realm/Factions/picks/SpellfurySecretTrophy.png align=middle><b> Spellfury</b></p>
@@ -344,6 +344,7 @@
 					<p><b>Cost</b>: 100 Dc (1e35)</p>
 					<p><b>Effect</b>: While Blood Frenzy or Holy Light are active, increase the production of all buildings.</p>
 					<p><b>Formula</b>: (250 * T ^ 2)%, where T is active tier of Blood Frenzy or Holy Light.</p>
+					<p><b>Effect (A4+ only)</b>: Also multiplicatively increase Faction Coin find chance by 500% while playing as any Good or Evil faction.</p>
 					<hr>
 					<p><img src=http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png align=middle><b> Uniformity</b></p>
 					<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</p>
@@ -464,6 +465,12 @@
 					<p><b>Effect</b>: Gives Upgrade with same name.</p>
 					<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>
 					<p><b>Formula</b>: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</p>
+					<hr>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png" align="middle"> <b>Novice Combinator</b></p>
+					<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
+					<p><b>Cost</b>: 1 Qavg (1e75)</p>
+					<p><b>Effect</b>: Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>
+					<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">

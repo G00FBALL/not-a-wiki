@@ -177,6 +177,10 @@
 				[ 210, 999, '#R210NEMPro', true, 1
                 , function(rei) {return 300 * rei;}
                 , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
+                ],
+				[ 230, 999, '#R230NEMPro', true, 1
+                , function(rei) {return 10 * rei;}
+                , function(rei, bonus) {return 'While playing as your least used alignment in this Reincarnation, increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],				
             ];
             function CalRBen() {
@@ -412,14 +416,17 @@
                 <p><b>Effect</b>: Unique Buildings count more for Call to Arms purposes by *(1 + x).</p>
                 <br/>
 				<p><b>170th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increases research budget by 3,000 in each branch.</p>
+                <p><b>Effect</b>: Increases research budget by +3,000 in each branch.</p>
                 <br/>
 				<p><b>180th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings by (150 * R)%.</p>
+                <p><b>Effect</b>: Increase the production of all buildings by (150 * x)%.</p>
                 <br/>
 				<p><b>210th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings by (300 * R)%.</p>
+                <p><b>Effect</b>: Increase the production of all buildings by (300 * x)%.</p>
                 <br/>
+				<p><b>230th Reincarnation and up</b></p>
+				<p><b>Effect</b>: While playing as your least used alignment in this Reincarnation, increase the production of all buildings by (10 * x)%.</p>
+				<br/>
             </div>
         </div>
         <div class="shelementwhole">
@@ -436,21 +443,21 @@
                 <p><b>R16</b>: Vanilla Research</p>
                 <p><b>R23</b>: Neutral Research</p>
                 <p><b>R29</b>: Prestige Research</p>
-                <p><b>R40</b>: Ascension</p>
+                <p><b>R40</b>: Ascension 1</p>
                 <p><b>R42</b>: Tiered Autocasting</p>
                 <p><b>R46</b>: Neutral Prestige (Dragons)</p>
                 <p><b>R47</b>: Neutral Prestige Research</p>
                 <p><b>R48-R65</b>: Dragon Challenges</p>
                 <p><b>R60</b>: Lineages and Perks</p>
                 <p><b>R75</b>: Mercenary Research</p>
-                <p><b>R100</b>: Second Ascension, New Alignments</p>
+                <p><b>R100</b>: Ascension 2, New Alignments</p>
                 <p><b>R111</b>: Base Union</p>
                 <p><b>R116</b>: Prestige Factions Reintroduced</p>
-                <p><b>R120</b>: A2 Spells Tier 2</p>
+                <p><b>R120</b>: Second Alignment Spells Tier 2</p>
                 <p><b>R125</b>: Elite Factions (Archon, Djinn, and Makers)</p>
                 <p><b>R130</b>: Elite Unions and Lineages</p>
                 <p><b>R135-R153</b>: Elite Challenges</p>
-				<p><b>R160</b>: Third Ascension</p>
+				<p><b>R160</b>: Ascension 3</p>
                 <p><b>R160-R170</b>: Mercenary Reintroduced</p>
 				<p><b>R170</b>: Research budget increase</p>
                 <p><b>R180</b>: Forbidden Research, Research budget increase</p>

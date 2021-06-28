@@ -15,207 +15,207 @@
 				<h6>Fairy</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" align="middle"> Pixie Dust Fertilizer</b></p>
 				<p><b>Mercenary Template</b>: FR1</p>
-				<p><b>Cost</b>: 50 M (5E7)</p>
+				<p><b>Cost</b>: 50 M (5e7)</p>
 				<p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.</p>
 				<p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyWorkersFactionUpgrade.png" align="middle"> Fairy Workers</b></p>
 				<p><b>Mercenary Template</b>: FR2</p>
-				<p><b>Cost</b>: 500 M (5E8)</p>
-				<p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 15,000%.</p>
+				<p><b>Cost</b>: 500 M (5e8)</p>
+				<p><b>Effect</b>: Increase the production of Farms, Inns and Blacksmiths by 10,000%.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/KindHeartsFactionUpgrade.png" align="middle"> Kind Hearts</b></p>
 				<p><b>Mercenary Template</b>: FR3</p>
-				<p><b>Cost</b>: 5 B (5E9)</p>
+				<p><b>Cost</b>: 5 B (5e9)</p>
 				<p><b>Effect</b>: Increases maximum mana based on the amount of good buildings you own.</p>
 				<p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of good buildings you own.</p>
 				<hr>
 				<h6>Elf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenMintFactionUpgrade.png" align="middle"> Elven Mint</b></p>
 				<p><b>Mercenary Template</b>: EL1</p>
-				<p><b>Cost</b>: 50 M (5E7)</p>
-				<p><b>Effect</b>: The base chance to find Faction Coins is doubled.</p>
+				<p><b>Cost</b>: 50 M (5e7)</p>
+				<p><b>Effect</b>: The base chance to find Faction Coins is increased by a multiplicative 150%.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenTreasureCastingFactionUpgrade.png" align="middle"> Elven Treasure Casing</b></p>
 				<p><b>Mercenary Template</b>: EL2</p>
-				<p><b>Cost</b>: 500 M (5E8)</p>
-				<p><b>Effect</b>: Increase base clicking reward by 25k per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
-				<p><b>Formula</b>: floor((1+0.05 * x) ^ 0.95), where x is your Trophies Unlocked stat.</p>
+				<p><b>Cost</b>: 500 M (5e8)</p>
+				<p><b>Effect</b>: Increase base clicking reward by +25,000 per trophy, and increase chance to find faction coins based on the amount of trophies you unlocked.</p>
+				<p><b>Formula</b>: +((1 + 0.1 * x) ^ 0.95)%, where x is the amount of Trophies unlocked.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientClickingArtsFactionUpgrade.png" align="middle"> Ancient Clicking Arts</b></p>
 				<p><b>Mercenary Template</b>: EL3</p>
-				<p><b>Cost</b>: 5 B (5E9)</p>
-				<p><b>Effect</b>: Increase mana regeneration based on your total amount of clicks.</p>
-				<p><b>Formula</b>: +(2 * log10(1 + x)), where x is your Productive Clicks (Total) stat.</p>
+				<p><b>Cost</b>: 5 B (5e9)</p>
+				<p><b>Effect</b>: Increase Mana Regeneration based on the amount of clicks made in this Reincarnation.</p>
+				<p><b>Formula</b>: +(2 * log10(1 + x) ^ 1.25), where x is the amount of clicks made in this Reincarnation.</p>
 				<hr>
 				<h6>Angel</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HolyBellsFactionUpgrade.png" align="middle"> Holy Bells</b></p>
 				<p><b>Mercenary Template</b>: AN1</p>
-				<p><b>Cost</b>: 50 M (5E7)</p>
+				<p><b>Cost</b>: 50 M (5e7)</p>
 				<p><b>Effect</b>: Increase Mana Regeneration based on the amount of buildings you own.</p>
 				<p><b>Formula</b>: +(2 * x ^ 0.4), where x is the amount of buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDeterminationFactionUpgrade.png" align="middle"> Angelic Determination</b></p>
 				<p><b>Mercenary Template</b>: AN2</p>
-				<p><b>Cost</b>: 500 M (5E8)</p>
+				<p><b>Cost</b>: 500 M (5e8)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
-				<p><b>Formula</b>: (6 * ln(1 + x) ^ 2)%, where x is Spells Cast (This Game) stat.</p>
+				<p><b>Formula</b>: (4 * ln(1 + x) ^ 2)%, where x is Spells Cast (This Game) stat.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelFeathersFactionUpgrade.png" align="middle"> Angel Feathers</b></p>
 				<p><b>Mercenary Template</b>: AN3</p>
-				<p><b>Cost</b>: 5 B (5E9)</p>
+				<p><b>Cost</b>: 5 B (5e9)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of active spells (additive).</p>
 				<p><b>Formula</b>: +(10 * x)%, where x is the amount of active spells.</p>
 				<hr>
 				<h6>Goblin</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/StrongCurrencyFactionUpgrade.png" align="middle"> Strong Currency</b></p>
 				<p><b>Mercenary Template</b>: GB1</p>
-				<p><b>Cost</b>: 50 M (5E7)</p>
+				<p><b>Cost</b>: 50 M (5e7)</p>
 				<p><b>Effect</b>: Increase assistants based on Faction Coins found in this game.</p>
 				<p><b>Formula</b>: +(0.5 * ln(1 + x) ^ 2.5), where x is Faction Coins found this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveTradingFactionUpgrade.png" align="middle"> Slave Trading</b></p>
 				<p><b>Mercenary Template</b>: GB2</p>
-				<p><b>Cost</b>: 500 M (5E8)</p>
+				<p><b>Cost</b>: 500 M (5e8)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Evil buildings you own.</p>
-				<p><b>Formula</b>: (2 * x ^ 0.6)%, where x is the amount of Evil buildings you own.</p>
+				<p><b>Formula</b>: (2 * x ^ 0.7)%, where x is the amount of Evil buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/CheapMaterialsFactionUpgrade.png" align="middle"> Cheap Materials</b></p>
 				<p><b>Mercenary Template</b>: GB3</p>
-				<p><b>Cost</b>: 5 B (5E9)</p>
+				<p><b>Cost</b>: 5 B (5e9)</p>
 				<p><b>Effect</b>: Tax Collection is worth more seconds based on the amount of Buildings you own (additive).</p>
 				<p><b>Formula</b>: +(x ^ 0.5), where x is the amount of Buildings you own.</p>
 				<hr>
 				<h6>Undead</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TheWalkingDeadFactionUpgrade.png" align="middle"> The Walking Dead</b></p>
 				<p><b>Mercenary Template</b>: UD1</p>
-				<p><b>Cost</b>: 50 M (5E7)</p>
+				<p><b>Cost</b>: 50 M (5e7)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on assistants owned (Additive).</p>
 				<p><b>Formula</b>: +(ln(1 + x) ^ 1.75)%, where x is assistants owned.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadenedMusclesFactionUpgrade.png" align="middle"> Deadened Muscles</b></p>
 				<p><b>Mercenary Template</b>: UD2</p>
-				<p><b>Cost</b>: 500 M (5E8)</p>
+				<p><b>Cost</b>: 500 M (5e8)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Necropolises you built in this Reincarnation.</p>
 				<p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the the highest amount of Necropolises you built this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeathTemplesFactionUpgrade.png" align="middle"> Death Temples</b></p>
 				<p><b>Mercenary Template</b>: UD3</p>
-				<p><b>Cost</b>: 5 B (5E9)</p>
+				<p><b>Cost</b>: 5 B (5e9)</p>
 				<p><b>Effect</b>: Increase Mana Regeneration based on the highest amount of Necropolises you built in this Reincarnation.</p>
 				<p><b>Formula</b>: (x ^ 0.3), where x is the highest amount of Necropolises you built in this Reincarnation.</p>
 				<hr>
 				<h6>Demon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TortureChambersFactionUpgrade.png" align="middle"> Torture Chambers</b></p>
 				<p><b>Mercenary Template</b>: DM1</p>
-				<p><b>Cost</b>: 50 M (5E7)</p>
+				<p><b>Cost</b>: 50 M (5e7)</p>
 				<p><b>Effect</b>: Increase the production of Royal Castles / Evil Fortresses / Iron Strongholds (based on your Alignment) based on the amount of assistants you own.</p>
 				<p><b>Formula</b>: (6 * ln(1 + x) ^ 3)%, where x is the amount of assistants you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DevilTyrantFactionUpgrade.png" align="middle"> Devil Tyrant</b></p>
 				<p><b>Mercenary Template</b>: DM2</p>
-				<p><b>Cost</b>: 500 M (5E8)</p>
+				<p><b>Cost</b>: 500 M (5e8)</p>
 				<p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
 				<p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this R.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" align="middle"> Evil Conquerors</b></p>
 				<p><b>Mercenary Template</b>: DM3</p>
-				<p><b>Cost</b>: 5 B (5E9)</p>
+				<p><b>Cost</b>: 5 B (5e9)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Hell Portals you built in this Reincarnation.</p>
 				<p><b>Formula</b>: (4 * x ^  0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
 				<hr>
 				<h6>Titan</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ColossalForgeFactionUpgrade.png" align="middle"> Colossal Forge</b></p>
 				<p><b>Mercenary Template</b>: TT1</p>
-				<p><b>Cost</b>: 500 Qi (5E20)</p>
+				<p><b>Cost</b>: 500 Qi (5e20)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
 				<p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChargedClicksFactionUpgrade.png" align="middle"> Charged Clicks</b></p>
 				<p><b>Mercenary Template</b>: TT2</p>
-				<p><b>Cost</b>: 5 Sx (5E21)</p>
+				<p><b>Cost</b>: 5 Sx (5e21)</p>
 				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on clicks made in this game.</p>
 				<p><b>Formula</b>: (25 + 2.5 * log10(1 + x) ^ 2.5 + x ^ 0.25)%, where x is clicks made this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanObeliskFactionUpgrade.png" align="middle"> Titan Obelisk</b></p>
 				<p><b>Mercenary Template</b>: TT3</p>
-				<p><b>Cost</b>: 50 Sx (5E22)</p>
+				<p><b>Cost</b>: 50 Sx (5e22)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on time spent as Neutral in this Reincarnation (Additve).</p>
 				<p><b>Formula</b>: +(3 * x ^ 0.7)%, where x is time spent as Neutral this R.</p>
 				<hr>
 				<h6>Druid</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidicVocabularyFactionUpgrade.png" align="middle"> Druidic Vocabulary</b></p>
 				<p><b>Mercenary Template</b>: DD1</p>
-				<p><b>Cost</b>: 500 Qi (5E20)</p>
+				<p><b>Cost</b>: 500 Qi (5e20)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on their tier, giving the best bonus to the lowest.</p>
 				<p><b>Formula</b>: (4000 * (12 - T))%, where T is building tier.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AnimalCompanionsFactionUpgrade.png" align="middle"> Animal Companions</b></p>
 				<p><b>Mercenary Template</b>: DD2</p>
-				<p><b>Cost</b>: 5 Sx (5E21)</p>
+				<p><b>Cost</b>: 5 Sx (5e21)</p>
 				<p><b>Effect</b>: You instantly attract 3 Animal assistants and more will come based on the time spent in this game.</p>
 				<p><b>Formula</b>: +(3 + 1.75 * x ^ 0.5), where x is your Playtime (This Game) stat in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png" align="middle"> Natural Recycling</b></p>
 				<p><b>Mercenary Template</b>: DD3</p>
-				<p><b>Cost</b>: 50 Sx (5E22)</p>
+				<p><b>Cost</b>: 50 Sx (5e22)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
 				<p><b>Formula</b>: (0.4 x ^ 0.4), where x is total buildings you own.</p>
 				<hr>
 				<h6>Faceless</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TerritorialExpanseFactionUpgrade.png" align="middle"> Territorial Expanse</b></p>
 				<p><b>Mercenary Template</b>: FC1</p>
-				<p><b>Cost</b>: 500 Qi (5E20)</p>
+				<p><b>Cost</b>: 500 Qi (5e20)</p>
 				<p><b>Effect</b>: Increase the production of Citadels / Necropolises / Labyrinths (based on your Alignment) based on the amount of assistants you own.</p>
-				<p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
+				<p><b>Formula</b>: (50 * ln(1 + x) ^ 2.5)%, where x is the amount of assistants you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EvolutiveMutationFactionUpgrade.png" align="middle"> Evolutive Mutation</b></p>
 				<p><b>Mercenary Template</b>: FC2</p>
-				<p><b>Cost</b>: 5 Sx (5E21)</p>
+				<p><b>Cost</b>: 5 Sx (5e21)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Labyrinths you built in this Reincarnation.</p>
 				<p><b>Formula</b>: +floor(3 * x ^ 0.6)%, where x is the highest amount of Labyrinths you built in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png" align="middle"> Deep Memory</b></p>
 				<p><b>Mercenary Template</b>: FC3</p>
-				<p><b>Cost</b>: 50 Sx (5E22)</p>
+				<p><b>Cost</b>: 50 Sx (5e22)</p>
 				<p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation.</p>
 				<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your Playtime (Longest Session) stat this Reincarnation.</p>
 				<hr>
 				<h6>Dwarf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAleFactionUpgrade.png" align="middle"> Dwarven Ale</b></p>
 				<p><b>Mercenary Template</b>: DN1</p>
-				<p><b>Cost</b>: 5 Qad (5E45)</p>
+				<p><b>Cost</b>: 5 Qad (5e45)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Blacksmiths you own (Additive).</p>
 				<p><b>Formula</b>: +(2 * x ^ 0.5)%, where x is the amount of Blacksmiths you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ExpertMasonryFactionUpgrade.png" align="middle"> Expert Masonry</b></p>
 				<p><b>Mercenary Template</b>: DN2</p>
-				<p><b>Cost</b>: 50 Qad (5E46)</p>
+				<p><b>Cost</b>: 50 Qad (5e46)</p>
 				<p><b>Effect</b>: Reduce all building cost multipliers.</p>
 				<p><b>Effect</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
 				<p><b>Mercenary Template</b>: DN3</p>
-				<p><b>Cost</b>: 500 Qad (5E47)</p>
+				<p><b>Cost</b>: 500 Qad (5e47)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
 				<p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny</b></p>
 				<p><b>Mercenary Template</b>: DW1</p>
-				<p><b>Cost</b>: 5 Qad (5E45)</p>
+				<p><b>Cost</b>: 5 Qad (5e45)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on your total time spent being Evil in this Reincarnation.</p>
 				<p><b>Formula</b>: (0.7 * x ^ 0.7), where x is your Time Spent Being Evil (Total) stat in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HonorAmongKillersFactionUpgrade.png" align="middle"> Honor Among Killers</b></p>
 				<p><b>Mercenary Template</b>: DW2</p>
-				<p><b>Cost</b>: 50 Qad (5E46)</p>
+				<p><b>Cost</b>: 50 Qad (5e46)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of assistants you own.</p>
 				<p><b>Formula</b>: +(100 + 0.5 * x ^ 0.5)%, where x is the amount of assistants you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ShadowAdvanceFactionUpgrade.png" align="middle"> Shadow Advance</b></p>
 				<p><b>Mercenary Template</b>: DW3</p>
-				<p><b>Cost</b>: 500 Qad (5E47)</p>
+				<p><b>Cost</b>: 500 Qad (5e47)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on Max Mana.</p>
 				<p><b>Formula</b>: (2 * log10(1 + x) ^ 2))%, where x is your Max Mana.</p>
 				<hr>
@@ -305,205 +305,207 @@
 				<h6>Fairy</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" align="middle"> Fairy Cuisine</b></p>
 				<p><b>Mercenary Template</b>: FR4</p>
-				<p><b>Cost</b>: 500 B (5E11)</p>
+				<p><b>Cost</b>: 500 B (5e11)</p>
 				<p><b>Effect</b>: Increase the base production of Inns by +234 and reduce the building cost multiplier.</p>
 				<p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldenPotsFactionUpgrade.png" align="middle"> Golden Pots</b></p>
 				<p><b>Mercenary Template</b>: FR5</p>
-				<p><b>Cost</b>: 5 T (5E12)</p>
+				<p><b>Cost</b>: 5 T (5e12)</p>
 				<p><b>Effect</b>: Additively increase base clicking reward by 20% of the building production of Farms, Inns and Blacksmiths combined.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SpellsmithFactionUpgrade.png" align="middle"> Spellsmith</b></p>
 				<p><b>Mercenary Template</b>: FR6</p>
-				<p><b>Cost</b>: 50 T (5E13)</p>
-				<p><b>Effect</b>: Blacksmiths also increase your mana regeneration rate.</p>
-				<p><b>Formula</b>: (x ^ 0.25), where x is the number of Blacksmiths you own.</p>
+				<p><b>Cost</b>: 50 T (5e13)</p>
+				<p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration.</p>
+				<p><b>Formula</b>: +(2.75 * x ^ 0.275), where x is the number of Blacksmiths you own.</p>
 				<hr>
 				<h6>Elf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEmissaryFactionUpgrade.png" align="middle"> Elven Emissary</b></p>
 				<p><b>Mercenary Template</b>: EL4</p>
-				<p><b>Cost</b>: 500 B (5E11)</p>
+				<p><b>Cost</b>: 500 B (5e11)</p>
 				<p><b>Effect</b>: Increase clicking reward based on the amount of Good buildings you own, and assistants find 3 times as many Faction Coins.</p>
 				<p><b>Formula</b>: (x ^ 0.6)%, where x is the number of Good Buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenEfficiencyFactionUpgrade.png" align="middle"> Elven Efficiency</b></p>
 				<p><b>Mercenary Template</b>: EL5</p>
-				<p><b>Cost</b>: 5 T (5E12)</p>
-				<p><b>Effect</b>: Increase Royal Exchange bonus based on Faction Coins found in this game (Additive).</p>
-				<p><b>Formula</b>: +(2 * log10(1 + x) ^ 2)%, where x is faction coins found this game.</p>
+				<p><b>Cost</b>: 5 T (5e12)</p>
+				<p><b>Effect</b>: Increase Royal Exchange bonus based on Faction Coins found this game.</p>
+				<p><b>Formula</b>: +(2 * ln(1 + x) ^ 2)%, where x is Faction Coins found this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretClickingTechniquesFactionUpgrade.png" align="middle"> Secret Clicking Techniques</b></p>
 				<p><b>Mercenary Template</b>: EL6</p>
-				<p><b>Cost</b>: 50 T (5E13)</p>
+				<p><b>Cost</b>: 50 T (5e13)</p>
 				<p><b>Effect</b>: Increases the production of all buildings based on your total of clicks.</p>
 				<p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks (Total) stat.</p>
 				<hr>
 				<h6>Angel</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GuardianAngelsFactionUpgrade.png" align="middle"> Guardian Angels</b></p>
 				<p><b>Mercenary Template</b>: AN4</p>
-				<p><b>Cost</b>: 500 B (5E11)</p>
+				<p><b>Cost</b>: 500 B (5e11)</p>
 				<p><b>Effect</b>: Spell casts count 100% more.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicWisdomFactionUpgrade.png" align="middle"> Angelic Wisdom</b></p>
 				<p><b>Mercenary Template</b>: AN5</p>
-				<p><b>Cost</b>: 5 T (5E12)</p>
+				<p><b>Cost</b>: 5 T (5e12)</p>
 				<p><b>Effect</b>: Decrease the cost of all spells by 50%.</p>
 				<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration.</p>
 				<p><b>Formula</b>: (10 * log10(1 + x)), where x is your offline mana regeneration.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
 				<p><b>Mercenary Template</b>: AN6</p>
-				<p><b>Cost</b>: 50 T (5E13)</p>
+				<p><b>Cost</b>: 50 T (5e13)</p>
 				<p><b>Effect</b>: Increase Mana production by 100%.</p>
 				<hr>
 				<h6>Goblin</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackMarketFactionUpgrade.png" align="middle"> Black Market</b></p>
 				<p><b>Mercenary Template</b>: GB4</p>
-				<p><b>Cost</b>: 500 B (5E11)</p>
-				<p><b>Effect</b>: Production bonus from gems is doubled.</p>
+				<p><b>Cost</b>: 500 B (5e11)</p>
+				<p><b>Effect</b>: Production bonus from gems is increased by a multiplicative 150%.</p>
 				<p><b>Effect</b>: Also increase Offline production based on the amount of Tax Collection casts in this game.</p>
 				<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is Tax Collection casts this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png" align="middle"> Goblin Economists</b></p>
 				<p><b>Mercenary Template</b>: GB5</p>
-				<p><b>Cost</b>: 5 T (5E12)</p>
-				<p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on upgrades purchased.</p>
-				<p><b>Formula</b>: (x ^ 0.9)%, where x is upgrades purchased</p>
+				<p><b>Cost</b>: 5 T (5e12)</p>
+				<p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on Gold owned.</p>
+				<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5)%, where x is Gold owned.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png" align="middle"> Hobgoblin Gladiators</b></p>
 				<p><b>Mercenary Template</b>: GB6</p>
-				<p><b>Cost</b>: 50 T (5E13)</p>
-				<p><b>Effect</b>: Gems and upgrades count 200% more.</p>
+				<p><b>Cost</b>: 50 T (5e13)</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>
+				<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is the seconds of your Tax Collection.</p>
 				<hr>
 				<h6>Undead</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" align="middle"> Unholy Rituals</b></p>
 				<p><b>Mercenary Template</b>: UD4</p>
-				<p><b>Cost</b>: 500 B (5E11)</p>
+				<p><b>Cost</b>: 500 B (5e11)</p>
 				<p><b>Effect</b>: Increase offline production based on time spent being offline in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your offline time this Reincarnation in seconds.</p>
+				<p><b>Formula</b>: (0.4 * x ^ 0.8)%, where x is your offline time this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" align="middle"> Corpse Supply</b></p>
 				<p><b>Mercenary Template</b>: UD5</p>
-				<p><b>Cost</b>: 5 T (5E12)</p>
-				<p><b>Effect</b>: Gain additional assistants based on the highest amount of Necropolises you built in this Reincarnation.</p>
-				<p><b>Formula</b>: (2.5 * x ^ 0.5), where x is the highest amount of Necropolises you built in this Reincarnation.</p>
+				<p><b>Cost</b>: 5 T (5e12)</p>
+				<p><b>Effect</b>: Gain additional assistants based on time spent being offline in this Reincarnation.</p>
+				<p><b>Formula</b>: +(0.4 * x ^ 0.6), where x is the time spent offline in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/PlaguedBuildingsFactionUpgrade.png" align="middle"> Plagued Buildings</b></p>
 				<p><b>Mercenary Template</b>: UD6</p>
-				<p><b>Cost</b>: 50 T (5E13)</p>
+				<p><b>Cost</b>: 50 T (5e13)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
-				<p><b>Formula</b>: (0.6 * x ^ 0.7)%, where x is time spent this game.</p>
+				<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is time spent this game.</p>
 				<hr>
 				<h6>Demon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/LavaPitsFactionUpgrade.png" align="middle"> Lava Pits</b></p>
 				<p><b>Mercenary Template</b>: DM4</p>
-				<p><b>Cost</b>: 500 B (5E11)</p>
-				<p><b>Effect</b>: Increase the base production of Evil Fortresses and Hell Portals by +200,000.</p>
+				<p><b>Cost</b>: 500 B (5e11)</p>
+				<p><b>Effect</b>: Increase the base production of Evil Fortresses by +200,000 and Hell Portals by +2,000,000.</p>
+				<p><b>Effect</b>: Your playtime in this game counts more by 6 additional hours.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonOverseersFactionUpgrade.png" align="middle"> Demon Overseers</b></p>
 				<p><b>Mercenary Template</b>: DM5</p>
-				<p><b>Cost</b>: 5 T (5E12)</p>
+				<p><b>Cost</b>: 5 T (5e12)</p>
 				<p><b>Effect</b>: Increase the production of the three highest building tiers based on the amount of trophies you unlocked.</p>
-				<p><b>Formula</b>: (x ^ 0.8)%, where x is amount of trophies unlocked.</p>
+				<p><b>Formula</b>: (2 * x ^ 0.8)%, where x is the amount of trophies unlocked.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png" align="middle"> Demonic Presence</b></p>
 				<p><b>Mercenary Template</b>: DM6</p>
-				<p><b>Cost</b>: 50 T (5E13)</p>
+				<p><b>Cost</b>: 50 T (5e13)</p>
 				<p><b>Effect</b>: Increase Max Mana based on Evil spells cast in this game (Additve).</p>
 				<p><b>Formula</b>: +(6 * x ^ 0.4), where x is Evil spells cast this game.</p>
 				<hr>
 				<h6>Titan</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanDrillFactionUpgrade.png" align="middle"> Titan Drill</b></p>
 				<p><b>Mercenary Template</b>: TT4</p>
-				<p><b>Cost</b>: 5 Sp (5E24)</p>
+				<p><b>Cost</b>: 5 Sp (5e24)</p>
 				<p><b>Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635 and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment).</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChargedStructuresFactionUpgrade.png" align="middle"> Charged Structures</b></p>
 				<p><b>Mercenary Template</b>: TT5</p>
-				<p><b>Cost</b>: 50 Sp (5E25)</p>
+				<p><b>Cost</b>: 50 Sp (5e25)</p>
 				<p><b>Effect</b>:  Increase the production of all buildings based on the amount of active spells.</p>
 				<p><b>Formula</b>: (15 * x)%, where x is active spells.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png" align="middle"> Titan Sized Walls</b></p>
 				<p><b>Mercenary Template</b>: TT6</p>
-				<p><b>Cost</b>: 500 Sp (5E26)</p>
+				<p><b>Cost</b>: 500 Sp (5e26)</p>
 				<p><b>Effect</b>: Increase Hall of Legends production based on the amount of assistants you own.</p>
 				<p><b>Formula</b>: (20 + 2.15 * ln(1 + x) ^ 2.15)%, where x is the amount of assistants you own.</p>
 				<hr>
 				<h6>Druid</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlyBondFactionUpgrade.png" align="middle"> Earthly Bond</b></p>
 				<p><b>Mercenary Template</b>: DD4</p>
-				<p><b>Cost</b>: 5 Sp (5E24)</p>
+				<p><b>Cost</b>: 5 Sp (5e24)</p>
 				<p><b>Effect</b>: Increase maximum mana based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
 				<p><b>Formula</b>: +(2 * x), where x is the highest anount of Stone Pillars you built this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" align="middle"> Bardic Knowledge</b></p>
 				<p><b>Mercenary Template</b>: DD5</p>
-				<p><b>Cost</b>: 50 Sp (5E25)</p>
-				<p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
-				<p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum mana.</p>
+				<p><b>Cost</b>: 50 Sp (5e25)</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on your Maximum Mana.</p>
+				<p><b>Formula</b>: (16 * ln(1 + x) ^ 2)%, where x is your Maximum mana.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png" align="middle"> Shapeshifting</b></p>
 				<p><b>Mercenary Template</b>: DD6</p>
-				<p><b>Cost</b>: 500 Sp (5E26)</p>
+				<p><b>Cost</b>: 500 Sp (5e26)</p>
 				<p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
 				<p><b>Formula</b>: (1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
 				<hr>
 				<h6>Faceless</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoldSynthesisFactionUpgrade.png" align="middle"> Gold Synthesis</b></p>
 				<p><b>Mercenary Template</b>: FC4</p>
-				<p><b>Cost</b>: 5 Sp (5E24)</p>
+				<p><b>Cost</b>: 5 Sp (5e24)</p>
 				<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of coins owned.</p>
-				<p><b>Formula</b>: (0.2 * log10(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
+				<p><b>Formula</b>: (0.2 * ln(1 + x) ^ 2)%, where x is the amount of coins owned.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MitosisFactionUpgrade.png" align="middle"> Mitosis</b></p>
 				<p><b>Mercenary Template</b>: FC5</p>
-				<p><b>Cost</b>: 50 Sp (5E25)</p>
+				<p><b>Cost</b>: 50 Sp (5e25)</p>
 				<p><b>Effect</b>: Gain additional Faceless Assistants based on the amount of buildings you own.</p>
-				<p><b>Formula</b>: +floor(0.3 * x ^ 0.5), where x is your Buildings Owned (This Game) stat.</p>
+				<p><b>Formula</b>: +floor(0.5 * x ^ 0.5), where x is the amount of buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png" align="middle"> Overgrowth</b></p>
 				<p><b>Mercenary Template</b>: FC6</p>
-				<p><b>Cost</b>: 500 Sp (5E26)</p>
+				<p><b>Cost</b>: 500 Sp (5e26)</p>
 				<p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
 				<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
 				<hr>
 				<h6>Dwarf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndergroundCitadelsFactionUpgrade.png" align="middle"> Underground Citadels</b></p>
 				<p><b>Mercenary Template</b>: DN4</p>
-				<p><b>Cost</b>: 50 Qid (5E49)</p>
+				<p><b>Cost</b>: 50 Qid (5e49)</p>
 				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Gems you own.</p>
 				<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is the amount of Gems you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
 				<p><b>Mercenary Template</b>: DN5</p>
-				<p><b>Cost</b>: 500 Qid (5E50)</p>
+				<p><b>Cost</b>: 500 Qid (5e50)</p>
 				<p><b>Effect</b>: Increase clicking reward based on the amount of buildings you own.</p>
 				<p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is your Buildings Owned (This Game) stat.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BeardedAssistantsFactionUpgrade.png" align="middle"> Bearded Assistants</b></p>
 				<p><b>Mercenary Template</b>: DN6</p>
-				<p><b>Cost</b>: 5 Sxd (5E51)</p>
+				<p><b>Cost</b>: 5 Sxd (5e51)</p>
 				<p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
 				<p><b>Formula</b>: (x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" align="middle"> Mana Addicts</b></p>
 				<p><b>Mercenary Template</b>: DW4</p>
-				<p><b>Cost</b>: 50 Qid (5E49)</p>
+				<p><b>Cost</b>: 50 Qid (5e49)</p>
 				<p><b>Effect</b>: Mana regeneration increases over time.</p>
 				<p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" align="middle"> Blood Sacrifices</b></p>
 				<p><b>Mercenary Template</b>: DW5</p>
-				<p><b>Cost</b>: 500 Qid (5E50)</p>
+				<p><b>Cost</b>: 500 Qid (5e50)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Dark Temples you built in this Reincarnation.</p>
 				<p><b>Formula</b>: (3 * x)%, where x is the highest amount of Dark Temples you built this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackmailFactionUpgrade.png" align="middle"> Blackmail</b></p>
 				<p><b>Mercenary Template</b>: DW6</p>
-				<p><b>Cost</b>: 5 Sxd (5E51)</p>
+				<p><b>Cost</b>: 5 Sxd (5e51)</p>
 				<p><b>Effect</b>: Reduces Royal Exchange cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.08 instead of 1.1.</p>
 				<hr>
 				<h6>Dragon</h6>
@@ -589,126 +591,129 @@
 				<h6>Fairy</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/StarmetalAlloysFactionUpgrade.png" align="middle"> Starmetal Alloys</b></p>
 				<p><b>Mercenary Template</b>: FR7</p>
-				<p><b>Cost</b>: 5 Qa (5E15)</p>
+				<p><b>Cost</b>: 5 Qa (5e15)</p>
 				<p><b>Effect</b>: Increase the base production of Blacksmiths by +580 and reduce the building cost multiplier.</p>
 				<p><b>Effect</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/RainbowLinkFactionUpgrade.png" align="middle"> Rainbow Link</b></p>
 				<p><b>Mercenary Template</b>: FR8</p>
-				<p><b>Cost</b>: 50 Qa (5E16)</p>
+				<p><b>Cost</b>: 50 Qa (5e16)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Farms, Inns and Blacksmiths you own.</p>
 				<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the amount of Farms, Inns and Blacksmiths you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png" align="middle"> Swarm of Fairies</b></p>
 				<p><b>Mercenary Template</b>: FR9</p>
-				<p><b>Cost</b>: 500 Qa (5E17)</p>
+				<p><b>Cost</b>: 500 Qa (5e17)</p>
 				<p><b>Effect</b>: You gain additional assistants based on the amount of Farms, Inns and Blacksmiths you own.</p>
-				<p><b>Formula</b>: (0.7 * x ^ 0.5), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
+				<p><b>Formula</b>: +(1.2 * x ^ 0.6), where x is the number of Farms, Inns, and Blacksmiths you own.</p>
 				<hr>
 				<h6>Elf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenDiplomacyFactionUpgrade.png" align="middle"> Elven Diplomacy</b></p>
 				<p><b>Mercenary Template</b>: EL7</p>
-				<p><b>Cost</b>: 5 Qa (5E15)</p>
+				<p><b>Cost</b>: 5 Qa (5e15)</p>
 				<p><b>Effect</b>: Increase click count based on Faction Coins found in this game.</p>
 				<p><b>Formula</b>: (2 * ln(1 + x) ^ 2), where x is Faction Coins found in this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenLuckFactionUpgrade.png" align="middle"> Elven Luck</b></p>
 				<p><b>Mercenary Template</b>: EL8</p>
-				<p><b>Cost</b>: 50 Qa (5E16)</p>
-				<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of your production and gathering (R + 1) * x random faction coins, where x is FC chance.</p>
+				<p><b>Cost</b>: 50 Qa (5e16)</p>
+				<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of your production, also generating Faction Coins based on Reincarnation made.</p>
+				<p><b>Formula (Production)</b>: (2500 * (x + y)), where x is the production of all buildings, and y is the production of one assistant.</p>
+				<p><b>Formula (Faction Coins)</b>: (x * (R + 1)) of a random type, where x is Faction Coin chance and R Reincarnations made.</p>
+				<p><b>Effect</b>: Assistants have the same chance to trigger Elven Luck once every second. Elven Lucks triggered this way have their coin reward multiplied by the amount of assistants you have.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png" align="middle"> Sylvan Treasure Frills</b></p>
 				<p><b>Mercenary Template</b>: EL9</p>
-				<p><b>Cost</b>: 500 Qa (5E17)</p>
+				<p><b>Cost</b>: 500 Qa (5e17)</p>
 				<p><b>Effect</b>: Additively increase base clicking reward by 50% of your building production.</p>
 				<hr>
 				<h6>Angel</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalGatesFactionUpgrade.png" align="middle"> Magical Gates</b></p>
 				<p><b>Mercenary Template</b>: AN7</p>
-				<p><b>Cost</b>: 5 Qa (5E15)</p>
-				<p><b>Effect</b>: Increase Max Mana based on time spent as Good in this Reincarnation (additive).</p>
-				<p><b>Formula</b>: +(7 * x ^ 0.7), where x is time spent as Good (this R).</p>
+				<p><b>Cost</b>: 5 Qa (5e15)</p>
+				<p><b>Effect</b>: Increase Maximum Mana based on time spent as Good in this Reincarnation.</p>
+				<p><b>Formula</b>: +(3.5 * x ^ 0.7), where x is time spent as Good in this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelicDominanceFactionUpgrade.png" align="middle"> Angelic Dominance</b></p>
 				<p><b>Mercenary Template</b>: AN8</p>
-				<p><b>Cost</b>: 50 Qa (5E16)</p>
+				<p><b>Cost</b>: 50 Qa (5e16)</p>
 				<p><b>Effect</b>: Spell durations are increased by 50%.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/WingsofLibertyFactionUpgrade.png" align="middle"> Wings of Liberty</b></p>
 				<p><b>Mercenary Template</b>: AN9</p>
-				<p><b>Cost</b>: 500 Qa (5E17)</p>
+				<p><b>Cost</b>: 500 Qa (5e17)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
-				<p><b>Formula</b>: (6 * ln(1 + x) ^ 2)%, where x is your Mana Regeneration.</p>
+				<p><b>Formula</b>: (4 * ln(1 + x) ^ 2)%, where x is your Mana Regeneration.</p>
 				<hr>
 				<h6>Goblin</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinCentralBankFactionUpgrade.png" align="middle"> Goblin Central Bank</b></p>
 				<p><b>Mercenary Template</b>: GB7</p>
-				<p><b>Cost</b>: 5 Qa (5E15)</p>
+				<p><b>Cost</b>: 5 Qa (5e15)</p>
 				<p><b>Effect</b>: Whenever you cast a spell, also cast Tax Collection for free.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png" align="middle"> Fool's Gold</b></p>
 				<p><b>Mercenary Template</b>: GB8</p>
-				<p><b>Cost</b>: 50 Qa (5E16)</p>
+				<p><b>Cost</b>: 50 Qa (5e16)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Witch Conclaves you own in this Reincarnation.</p>
 				<p><b>Formula</b>: (2 * x ^ 0.6)%, where x is the number of Witch Conclaves you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" align="middle"> Green Fingers Discount</b></p>
 				<p><b>Mercenary Template</b>: GB9</p>
-				<p><b>Cost</b>: 500 Qa (5E17)</p>
-				<p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while offline.</p>
-				<p><b>Formula</b>: randRange(1,1200)*x, where x is your total coin production per second, including both buildings and assistants.</p>
+				<p><b>Cost</b>: 500 Qa (5e17)</p>
+				<p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while being offline.</p>
+				<p><b>Formula</b>: (randRange(1 , 2500) * x), where x is your total (buildings + assistants) coin production per second, <b>including spells</b>.</p>
 				<hr>
 				<h6>Undead</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" align="middle"> Dead Fields</b></p>
 				<p><b>Mercenary Template</b>: UD7</p>
-				<p><b>Cost</b>: 5 Qa (5E15)</p>
+				<p><b>Cost</b>: 5 Qa (5e15)</p>
 				<p><b>Effect</b>: Buildings count 100% more.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" align="middle"> Tireless Workers</b></p>
 				<p><b>Mercenary Template</b>: UD8</p>
-				<p><b>Cost</b>: 50 Qa (5E16)</p>
+				<p><b>Cost</b>: 50 Qa (5e16)</p>
 				<p><b>Effect</b>: Increase the production of assistants by 1500%.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png" align="middle"> Undead Resilience</b></p>
 				<p><b>Mercenary Template</b>: UD9</p>
-				<p><b>Cost</b>: 500 Qa (5E17)</p>
+				<p><b>Cost</b>: 500 Qa (5e17)</p>
 				<p><b>Effect</b>: Increase offline production based on your Mana Regeneration.</p>
 				<p><b>Formula</b>: (125 * ln(1 + x) ^ 2.5)%, where x is your Mana Regeneration.</p>
 				<hr>
 				<h6>Demon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png" align="middle"> Infernal Magic</b></p>
 				<p><b>Mercenary Template</b>: DM7
-				<p><b>Cost</b>: 5 Qa (5E15)</p>
-				<p><b>Effect</b>: Hell Portals also increase your mana regeneration rate.</p>
-				<p><b>Formula</b>: (x ^ 0.35), where x is the number of Hell Portals you own.</p>
+				<p><b>Cost</b>: 5 Qa (5e15)</p>
+				<p><b>Effect</b>: Hell Portals also increase your Mana Regeneration rate.</p>
+				<p><b>Formula</b>: +(3.5 * x ^ 0.35), where x is the amount of Hell Portals you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" align="middle"> Burning Legion</b></p>
 				<p><b>Mercenary Template</b>: DM8
-				<p><b>Cost</b>: 50 Qa (5E16)</p>
+				<p><b>Cost</b>: 50 Qa (5e16)</p>
 				<p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
-				<p><b>Formula</b>: (x ^ 0.55), where x is the number of Hell Portals you own.</p>
+				<p><b>Formula</b>: +(1.5 * x ^ 0.65), where x is the number of Hell Portals you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png" align="middle"> Very Bad Guys</b></p>
 				<p><b>Mercenary Template</b>: DM9</p>
-				<p><b>Cost</b>: 500 Qa (5E17)</p>
+				<p><b>Cost</b>: 500 Qa (5e17)</p>
 				<p><b>Effect</b>: Increase the production of Heaven's Gate / Hell Portals / Ancient Pyramid (based on your Alignment) based on the highest amount of Hell Portals you built in this Reincarnation.</p>
 				<p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this R.</p>
 				<hr>
 				<h6>Titan</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/CyclopeanStrengthFactionUpgrade.png" align="middle"> Cyclopean Strength</b></p>
 				<p><b>Mercenary Template</b>: TT7</p>
-				<p><b>Cost</b>: 50 Oc (5E28)</p>
+				<p><b>Cost</b>: 50 Oc (5e28)</p>
 				<p><b>Effect</b>: Assistants count 200% more and increase their production by 200%.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HeavyCoinsFactionUpgrade.png" align="middle"> Heavy Coins</b></p>
 				<p><b>Mercenary Template</b>: TT8</p>
-				<p><b>Cost</b>: 500 Oc (5E29)</p>
+				<p><b>Cost</b>: 500 Oc (5e29)</p>
 				<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 40% each.</p>
 				<p><b>Effect</b>: Also reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png" align="middle"> Oversized Legends</b></p>
 				<p><b>Mercenary Template</b>: TT9</p>
-				<p><b>Cost</b>: 5 No (5E30)</p>
+				<p><b>Cost</b>: 5 No (5e30)</p>
 				<p><b>Effect</b>: Reduce Hall of Legends building cost multiplierby 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
 				<p><b>Effect</b>: Also increases assistants production based on the amount of Hall of Legends you own. </p>
 				<p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends you own.</p>
@@ -716,76 +721,76 @@
 				<h6>Druid</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MabinogionFactionUpgrade.png" align="middle"> Mabinogion</b></p>
 				<p><b>Mercenary Template</b>: DD7</p>
-				<p><b>Cost</b>: 50 Oc (5E28)</p>
+				<p><b>Cost</b>: 50 Oc (5e28)</p>
 				<p><b>Effect</b>: Increase Non-Unique buildings production based on their tier, giving the best bonus to the lowest.</p>
-				<p><b>Formula</b>: (12 * 2 ^ (12 - T))%, where T is building tier.</p>
+				<p><b>Formula</b>: (12 * 1.8 ^ (12 - T))%, where T is building tier.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
 				<p><b>Mercenary Template</b>: DD8</p>
-				<p><b>Cost</b>: 500 Oc (5E29)</p>
+				<p><b>Cost</b>: 500 Oc (5e29)</p>
 				<p><b>Effect</b>: Increase mana regeneration based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
 				<p><b>Formula</b>: +(x ^ 0.25), where x is the highest anount of Stone Pillars you built this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
 				<p><b>Mercenary Template</b>: DD9</p>
-				<p><b>Cost</b>: 5 No (5E30)</p>
+				<p><b>Cost</b>: 5 No (5e30)</p>
 				<p><b>Effect</b>: Increase the production of each building based on the amount of buildings of the same type.</p>
 				<p><b>Formula</b>: (1.5  * x ^ 0.9)%, where x is the amount of buildings of the same type.</p>
 				<hr>
 				<h6>Faceless</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicalTreasureFactionUpgrade.png" align="middle"> Magical Treasure</b></p>
 				<p><b>Mercenary Template</b>: FC7</p>
-				<p><b>Cost</b>: 50 Oc (5E28)</p>
+				<p><b>Cost</b>: 50 Oc (5e28)</p>
 				<p><b>Effect</b>: Increase mana regeneration based on the amount of assistants you own.</p>
 				<p><b>Formula</b>: +(2.5 * x ^ 0.5), where x is the amount of assistants you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AbominationsFactionUpgrade.png" align="middle"> Abominations</b></p>
 				<p><b>Mercenary Template</b>: FC8</p>
-				<p><b>Cost</b>: 500 Oc (5E29)</p>
+				<p><b>Cost</b>: 500 Oc (5e29)</p>
 				<p><b>Effect</b>: Increase the production of assistants based on the amount of active spells.</p>
-				<p><b>Formula</b>: (15 * x)%, where x is the amount of active spells.</p>
+				<p><b>Formula</b>: (20 * x ^ 0.9)%, where x is the amount of active spells.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png" align="middle"> Hive Mind</b></p>
 				<p><b>Mercenary Template</b>: FC9</p>
-				<p><b>Cost</b>: 5 No (5E30)</p>
+				<p><b>Cost</b>: 5 No (5e30)</p>
 				<p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
 				<p><b>Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds (all time).</p>
 				<hr>
 				<h6>Dwarf</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" align="middle"> Battlehammers</b></p>
 				<p><b>Mercenary Template</b>: DN7</p>
-				<p><b>Cost</b>: 500 Sxd (5E53)</p>
+				<p><b>Cost</b>: 500 Sxd (5e53)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
 				<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is your Dwarven Coins Gained (This Game) stat.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
 				<p><b>Mercenary Template</b>: DN8</p>
-				<p><b>Cost</b>: 5 Spd (5E54)</p>
+				<p><b>Cost</b>: 5 Spd (5e54)</p>
 				<p><b>Effect</b>: Reduce Excavation cost multiplier.</p>
 				<p><b>Formula</b>: Reduces cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.18 instead of 1.2.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
 				<p><b>Mercenary Template</b>: DN9</p>
-				<p><b>Cost</b>: 50 Spd (5E55)</p>
+				<p><b>Cost</b>: 50 Spd (5e55)</p>
 				<p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell (Additive).</p>
 				<p><b>Formula</b>: +(50 + 35 * x ^ 0.7), where x is the duration of your longest spell.</p>
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SpiderGodsFactionUpgrade.png" align="middle"> Spider Gods</b></p>
 				<p><b>Mercenary Template</b>: DW7</p>
-				<p><b>Cost</b>: 500 Sxd (5E53)</p>
+				<p><b>Cost</b>: 500 Sxd (5e53)</p>
 				<p><b>Effect</b>: Mutiplicatively increase assistants based on the amount of buildings you own.</p>
 				<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ProfessionalAssassinsFactionUpgrade.png" align="middle"> Professional Assassins</b></p>
 				<p><b>Mercenary Template</b>: DW8</p>
-				<p><b>Cost</b>: 5 Spd (5E54)</p>
+				<p><b>Cost</b>: 5 Spd (5e54)</p>
 				<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the amount of Royal Exchanges you made.</p>
 				<p><b>Formula</b>: (0.6 * x ^ 0.6)%, where x is Royal Exchanges made.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
 				<p><b>Mercenary Template</b>: DW9</p>
-				<p><b>Cost</b>: 50 Spd (5E55)</p>
+				<p><b>Cost</b>: 50 Spd (5e55)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
 				<p><b>Formula</b>: (30 * x ^ 0.9), where x is Combo Strike casts in this game.</p>
 				<hr>
@@ -899,11 +904,11 @@
 				<p><b>Mercenary Template</b>: EL10</p>
 				<p><b>Requirement</b>: A2+, Elven Union</p>
 				<p><b>Cost</b>: 1 Nod (1e60) Emerald Coins</p>
-				<p><b>Effect</b>: When Elven Luck triggers, 100000 automatic Tax Collections are cast.</p>
 				<p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the highest amount of Arboreal Cities you own in this Reincarnation.</p>
-				<p><b>Elven Luck Formula</b>: (x ^ 0.3), where x is Arboreal Cities count.</p>
-				<p><b>Production Formula</b>: (8 * x ^ 0.8), where x is Arboreal Cities count.</p>
-				<p><b>Faction Coin Formula</b>: (3 * x ^ 0.75), where x is Arboreal Cities count.</p>
+				<p><b>Elven Luck Formula</b>: +(x ^ 0.4)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+				<p><b>Production Formula</b>: (40 * x ^ 0.8)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+				<p><b>Faction Coin Formula</b>: +(7.5 * x ^ 0.75)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
+				<p><b>Effect</b>: When Elven Luck triggers, 100000 automatic Tax Collections are cast.</p>
 				<p><b>Effect</b>: Also removes 2 ascension penalties from Elven Luck.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/Camouflage.png" align="middle"> Camouflage</b></p>

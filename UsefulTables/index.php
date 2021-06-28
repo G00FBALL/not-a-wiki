@@ -4,9 +4,9 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 <br/><br/>
-<b><center><font size="5">Useful Tables</font></center></b>
+<b><center><font size="5">Historic Page, outdated and no longer worked on!</font></center></b>
 <br/>
-<p><b>How did you get here? This site is no longer promoted</b></p>
+<p><b>Useful Tables</b></p>
 <br/>
 <br style="clear: both"/><hr>
     <a id="Companions"></a>
