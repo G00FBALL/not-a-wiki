@@ -93,8 +93,8 @@
 	<p><b>Note</b>: Catalyst can be used as one of the spells.</p>
 <br/>
 <p><b>S12250</b> (Necrodoomancy)</p>
-	<p><b>Effect</b>: Spells cast count more based on Mana Produced in this game.</p>
-	<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is mana produced this game.</p>
+	<p><b>Effect</b>: Reincarnations count more based on time spent as Undead in this Reincarnation.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is time spent as Undead in this Reincarnation.</p>
 <br/>
 <p><b>Craftsmanship</b></p>	
 <p><b>C11875</b> (Plating)</p>
