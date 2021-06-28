@@ -6,7 +6,7 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
-<p><b>V4.1.0 June 2X, 2021</b></p>
+<p><b>V4.1.0 June 28, 2021</b></p>
 <br/>
 <p><b>New Upgrade: Legacy Combos</b>.</p>
 	<p><b>Effect</b>: Once you purchased 2 different Vanilla Legacies, you will be able to select their specific Legacy Combo upgrade.</p>
