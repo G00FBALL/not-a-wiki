@@ -375,7 +375,7 @@
 				<p><b>Mercenary Template</b>: GB6</p>
 				<p><b>Cost</b>: 50 T (5e13)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>
-				<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is the seconds of your Tax Collection.</p>
+				<p><b>Formula</b>: (12 * ln(1 + x) ^ 3)%, where x is the seconds of your Tax Collection.</p>
 				<hr>
 				<h6>Undead</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" align="middle"> Unholy Rituals</b></p>

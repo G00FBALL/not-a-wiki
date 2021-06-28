@@ -246,7 +246,7 @@
 <p><b>GB6</b> (Hobgoblin Gladiators)</p>
 	<p><b>Old Effect</b>: Gems and upgrades count 200% more.</p>
 	<p><b>New Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>
-	<p><b>New Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is the seconds of your Tax Collection.</p>
+	<p><b>Formula</b>: (12 * ln(1 + x) ^ 3)%, where x is the seconds of your Tax Collection.</p>
 <br/>
 <p><b>GB9</b> (Green Fingers Discount)</p>
 	<p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while being offline.</p>

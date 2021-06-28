@@ -265,7 +265,7 @@
         <p></p>
 		<p><b>Hobgoblin Gladiators</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>
-		<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 1.5), where x is the seconds of your Tax Collection.</p>
+		<p><b>Formula</b>: (12 * ln(1 + x) ^ 3)%, where x is the seconds of your Tax Collection.</p>
 			" coords="70,190,124,244" shape="rect"> 
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png align=middle><b> Goblin Gold Legacy</b></p>
