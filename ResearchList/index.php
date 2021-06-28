@@ -11,7 +11,7 @@
 		<p><b>Research Facilities</b>:<p>
 		<div class="shlisting">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Spellcraft.png" alt="Spellcraft" align="middle"><b><a href="#" onclick="return false;"> Spellcraft</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Spellcraft.png" alt="Spellcraft" align="middle"><a href="#" onclick="return false;"><b> Spellcraft</b></a></p>
 				<div class="autohide">
 					<p><b>S1</b> - For Fairy</p>
 					<p><b>Research Name</b>: Enchanting</p>
@@ -304,7 +304,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Craftsmanship.png" alt="Craftsmanship" align="middle"><b><a href="#" onclick="return false;"> Craftsmanship</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Craftsmanship.png" alt="Craftsmanship" align="middle"><a href="#" onclick="return false;"><b> Craftsmanship</b></a></p>
 				<div class="autohide">
 					<p><b>C1</b> - For Elf</p>
 					<p><b>Research Name</b>: Dummy Targets</p>
@@ -603,7 +603,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Divine.png" alt="Divine" align="middle"><b><a href="#" onclick="return false;"> Divine</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Divine.png" alt="Divine" align="middle"><a href="#" onclick="return false;"><b> Divine</b></a></p>
 				<div class="autohide">
 					<p><b>D1</b> - For Angel</p>
 					<p><b>Research Name</b>: Blessing</p>
@@ -892,7 +892,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Economics.png" alt="Economics" align="middle"><b><a href="#" onclick="return false;"> Economics</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Economics.png" alt="Economics" align="middle"><a href="#" onclick="return false;"><b> Economics</b></a></p>
 				<div class="autohide">
 					<p><b>E1</b> - For Goblin</p>
 					<p><b>Research Name</b>: Coinage</p>
@@ -1183,7 +1183,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Alchemy.png" alt="Alchemy" align="middle"><b><a href="#" onclick="return false;"> Alchemy</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Alchemy.png" alt="Alchemy" align="middle"><a href="#" onclick="return false;"><b> Alchemy</b></a></p>
 				<div class="autohide">
 					<p><b>A1</b> - For Undead</p>
 					<p><b>Research Name</b>: Plague</p>
@@ -1481,7 +1481,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Warfare.png" alt="Warfare" align="middle"><b><a href="#" onclick="return false;"> Warfare</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Warfare.png" alt="Warfare" align="middle"><a href="#" onclick="return false;"><b> Warfare</b></a></p>
 				<div class="autohide">
 					<p><b>W1</b> - For Demon</p>
 					<p><b>Research Name</b>: Assault</p>
@@ -1767,7 +1767,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Forbidden.png" alt="Forbidden" align="middle"><b><a href="#" onclick="return false;"> Forbidden</a></b></p>
+				<p onclick="shohid($(this));"><img src="http://musicfamily.org/realm/Factions/picks/Forbidden.png" alt="Forbidden" align="middle"><a href="#" onclick="return false;"><b> Forbidden</b></a></p>
 				<div class="autohide">
 					<p><b>F5250</b> - For All Factions</p>
 					<p><b>Research Name</b>: Dreamwalking</p>
