@@ -467,7 +467,7 @@
                         <br/>
                         <p><img src="http://musicfamily.org/realm/Factions/picks/MercenaryEncampmentQuest.png" alt="Mercenary Encampment Quest" align="middle"> <b>Mercenary Encampment Quest</b></p>
                         <p>We salute you, commander. Your strategical skills had not gone unnoticed within our ranks. We have decided to offer you a chance to establish a formal encampment within your boundaries... Build more structures to strengthen our city.</p>
-                        <p><b>Requirement</b>: Mercenary (Any Alignment), 150K buildings</p>
+                        <p><b>Requirement</b>: Mercenary (Any Alignment), 125k buildings</p>
                         <p><b>Cost</b>: 10 Notg (1e121)</p>
                         <p><b>Note</b>: Only needs bought once.</p>
                         <p><b>Unlocks</b>: Mercenary Unique Buildings</p>
@@ -478,7 +478,7 @@
                         <p><b>Cost</b>: 100 Qag (1e125)</p>
                         <p><b>Effect 1</b>: Allows access to Research Facilities</p>
                         <p><b>Effect 2</b>: Upgrade Knights Jousts to Mercenary Camps, boosting their production based on the amount of Non-Unique buildings you own and unlocking more unique perks for the building.</p>
-                        <p><b>Formula</b>: (1.25 * (1 + x) ^ 1.05), where X is number of Non-Unique Buildings.</p>
+                        <p><b>Formula</b>: (1.25 * (1 + x) ^ 1.05), where x is number of Non-Unique Buildings.</p>
                         <p><b>Effect 3</b>: Unlocks Round Table</p>
                         <br/>
                         <p><b>Evil Alignment</b></p>
