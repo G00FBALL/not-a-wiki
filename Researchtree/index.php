@@ -26,9 +26,9 @@
         </tr>
         <tr class="calc">
             <th style="width:100px">Reincarnation</th>
-            <th style="width:115px">Research Points</th>
-            <th style="width:175px">Cost in Coins</th>
-            <th style="width:175px">Recommended Gems</th>
+            <th style="width:80px">Research Points</th>
+            <th style="width:120px">Cost in Coins</th>
+            <th style="width:120px">Recommended Gems</th>
             <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
@@ -152,16 +152,15 @@
 			"227": {"RP": "11625", "CoinSc": "3.839e67", "CoinSh": "38.39 Vg", "FCSc": "1.474e22", "FCSh": "14.74 Sx", "GemsSc": "2.771e20", "GemsSh": "277.1 Qi"},
 			"228": {"RP": "11750", "CoinSc": "2.575e69", "CoinSh": "2.575 Dvg", "FCSc": "2.489e22", "FCSh": "24.89 Sx", "GemsSc": "2.269e21", "GemsSh": "2.269 Sx"},
 			"229": {"RP": "11875", "CoinSc": "1.727e71", "CoinSh": "172.7 Dvg", "FCSc": "4.203e22", "FCSh": "42.03 Sx", "GemsSc": "1.858e22", "GemsSh": "18.58 Sx"},
-			"230": {"RP": "12000", "CoinSc": "1.159e73", "CoinSh": "11.59 Tvg", "FCSc": "7.099e22", "FCSh": "70.99 Sx", "GemsSc": "1.522e23", "GemsSh": "152.2 Sx"}
-			"231": {"RP": "12125", "CoinSc": "7.774e74", "CoinSh": "777.4 Tvg", "FCSc": "1.199e23", "FCSh": "119.9 Sx", "GemsSc": "1.247e24", "GemsSh": "1.247 Sp"}
-			"232": {"RP": "12250", "CoinSc": "5.215e76", "CoinSh": "52.15 Qavg", "FCSc": "2.025e23", "FCSh": "202.5 Sx", "GemsSc": "1.021e25", "GemsSh": "10.21 Sp"}
-			"233": {"RP": "12375", "CoinSc": "3.498e78", "CoinSh": "3.498 Qivg", "FCSc": "3.420e23", "FCSh": "342.0 Sx", "GemsSc": "8.364e25", "GemsSh": "83.64 Sp"}
-			"234": {"RP": "12500", "CoinSc": "2.346e80", "CoinSh": "234.6 Qivg", "FCSc": "5.777e23", "FCSh": "577.7 Sx", "GemsSc": "6.851e26", "GemsSh": "685.1 Sp"}
-			"235": {"RP": "12625", "CoinSc": "1.574e82", "CoinSh": "15.74 Sxvg", "FCSc": "9.757e23", "FCSh": "975.7 Sx", "GemsSc": "5.611e27", "GemsSh": "5.611 Oc"}
-			"236": {"RP": "12750", "CoinSc": "1.056e84", "CoinSh": "1.056 Spvg", "FCSc": "1.648e24", "FCSh": "1.648 Sp", "GemsSc": "4.595e28", "GemsSh": "45.95 Oc"}
-			"237": {"RP": "12875", "CoinSc": "7.083e85", "CoinSh": "70.83 Spvg", "FCSc": "2.783e24", "FCSh": "2.783 Sp", "GemsSc": "3.764e29", "GemsSh": "376.4 Oc"}
+			"230": {"RP": "12000", "CoinSc": "1.159e73", "CoinSh": "11.59 Tvg", "FCSc": "7.099e22", "FCSh": "70.99 Sx", "GemsSc": "1.522e23", "GemsSh": "152.2 Sx"},
+			"231": {"RP": "12125", "CoinSc": "7.774e74", "CoinSh": "777.4 Tvg", "FCSc": "1.199e23", "FCSh": "119.9 Sx", "GemsSc": "1.247e24", "GemsSh": "1.247 Sp"},
+			"232": {"RP": "12250", "CoinSc": "5.215e76", "CoinSh": "52.15 Qavg", "FCSc": "2.025e23", "FCSh": "202.5 Sx", "GemsSc": "1.021e25", "GemsSh": "10.21 Sp"},
+			"233": {"RP": "12375", "CoinSc": "3.498e78", "CoinSh": "3.498 Qivg", "FCSc": "3.420e23", "FCSh": "342.0 Sx", "GemsSc": "8.364e25", "GemsSh": "83.64 Sp"},
+			"234": {"RP": "12500", "CoinSc": "2.346e80", "CoinSh": "234.6 Qivg", "FCSc": "5.777e23", "FCSh": "577.7 Sx", "GemsSc": "6.851e26", "GemsSh": "685.1 Sp"},
+			"235": {"RP": "12625", "CoinSc": "1.574e82", "CoinSh": "15.74 Sxvg", "FCSc": "9.757e23", "FCSh": "975.7 Sx", "GemsSc": "5.611e27", "GemsSh": "5.611 Oc"},
+			"236": {"RP": "12750", "CoinSc": "1.056e84", "CoinSh": "1.056 Spvg", "FCSc": "1.648e24", "FCSh": "1.648 Sp", "GemsSc": "4.595e28", "GemsSh": "45.95 Oc"},
+			"237": {"RP": "12875", "CoinSc": "7.083e85", "CoinSh": "70.83 Spvg", "FCSc": "2.783e24", "FCSh": "2.783 Sp", "GemsSc": "3.764e29", "GemsSh": "376.4 Oc"},
 			"238": {"RP": "13000 (Maxed)", "CoinSc": "4.751e87", "CoinSh": "4.751 Ocvg", "FCSc": "4.701e24", "FCSh": "4.701 Sp", "GemsSc": "3.083e30", "GemsSh": "3.083 No"}
-			
         };
         function CalcCost() {
             var reinc = parseInt($('#reinc').val());

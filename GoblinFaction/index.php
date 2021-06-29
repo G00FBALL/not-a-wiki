@@ -61,7 +61,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinEconomistsFactionUpgrade.png" align="middle"> Goblin Economists</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
         <p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on Gold owned.</p>
-        <p><b>Formula</b>: ((0.75 * log10(1 + x) ^ 1.5)%, where x is Gold owned.</p>
+        <p><b>Formula</b>: ((0.75 * log10(1 + x) ^ 1.25)%, where x is Gold owned.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/HobgoblinGladiatorsFactionUpgrade.png" align="middle"> Hobgoblin Gladiators</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
