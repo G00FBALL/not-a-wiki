@@ -261,7 +261,7 @@
         <p></p>
 		<p><b>Goblin Economists</b></p>
         <p><b>Effect</b>: Mutiplicatively increase Mana Regeneration based on based on Gold owned.</p>
-        <p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5)%, where x is Gold owned.</p>
+        <p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.25)%, where x is Gold owned.</p>
         <p></p>
 		<p><b>Hobgoblin Gladiators</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>

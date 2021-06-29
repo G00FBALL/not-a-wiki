@@ -117,6 +117,7 @@
 <br/>	
 <p><b>Economics</b></p>	
 <p><b>E11875</b> (Overworking)</p>
+	<p><b>Effect</b>: Goblin's Greed casts additional Tax Collection per second based on the amount of assistants you have.</p>
 	<p><b>Formula</b>: +(0.85 * x ^ 0.85), where x is the amount of assistants you have.</p>
 	<p><b>Note</b>: Catalyst can also trigger this effect.</p>
 <br/>
@@ -198,6 +199,7 @@
 	<p><b>Effect</b>: Each time you click for money you have 1% chance to gain coins equal to 250000% of your production, also generating Faction Coins based on reincarnation made.</p>
 	<p><b>Formula (Coin reward)</b>: (2500 * (x + y)), where x is the production of all buildings, and y is the production of one assistant.</p>
 	<p><b>New Effect</b>: Assistants now have the same chance to trigger Elven Luck once every second. Elven Lucks triggered this way have their coin reward multiplied by the amount of assistants you have.</p>
+<br/>
 <p><b>EL10</b> (Wooden Dice)</p>
 	<p><b>Effect</b>: Increase Elven Luck chance to activate and its effects based on the highest amount of Arboreal Cities you own in this Reincarnation.</p>
 	<p><b>Old Elven Luck Formula</b>: +(x ^ 0.3)%, where x is highest amount of Arboreal Cities this Reincarnation.</p>
@@ -241,7 +243,7 @@
 	<p><b>Old Effect</b>: Mutiplicatively increase Mana Regeneration based on upgrades purchased.</p>
 	<p><b>Old Formula</b>: (x ^ 0.9)%, where x is upgrades purchased.</p>
 	<p><b>New Effect</b>: Multiplicatively increase Mana Regeneration based on Gold owned.</p>
-	<p><b>New Formula</b>: (0.75 * log10(1 + x) ^ 1.5)%, where x is Gold owned.</p>
+	<p><b>New Formula</b>: (0.75 * log10(1 + x) ^ 1.25)%, where x is Gold owned.</p>
 <br/>
 <p><b>GB6</b> (Hobgoblin Gladiators)</p>
 	<p><b>Old Effect</b>: Gems and upgrades count 200% more.</p>
@@ -266,7 +268,7 @@
 	<p><b>New Formula</b>: +(0.4 * x ^ 0.6), where x is the time spent offline in this Reincarnation.</p>
 <br/>
 <p><b>UD6</b> (Plagued Buildings)</p>
-	<p><b>New Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
 	<p><b>Old Formula</b>: (0.6 * x ^ 0.7)%, where x is time spent this game.</p>
 	<p><b>New Formula</b>: (0.75 * x ^ 0.75)%, where x is time spent this game.</p>
 <br/>
@@ -336,7 +338,7 @@
 <p><b>Unique Buildings</b></p>
 <p><b>Infernal Realm</b> (Demon UB1)</p>
 	<p><b>Old Effect</b>: Upgrade Hell Portals To Infernal Realms, boosting their production by 100% per Trophy you unlocked and unlocking more unique perks for the building.</p>
-	<p><b>Old Effect</b>: Upgrade Hell Portals To Infernal Realms, boosting their production by 50% per Trophy you unlocked and unlocking more unique perks for the building.</p>
+	<p><b>New Effect</b>: Upgrade Hell Portals To Infernal Realms, boosting their production by 50% per Trophy you unlocked and unlocking more unique perks for the building.</p>
 <hr>
 <p><b>Research</b></p>
 <br/>
@@ -383,6 +385,7 @@
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of Tax Collections cast in this game.</p>
 	<p><b>Old Formula</b>: (5 * x ^ 0.6)%, where x is Tax Collections Cast This Game.</p>
 	<p><b>New Formula</b>: (5 * x ^ 0.5)%, where x is Tax Collections Cast This Game.</p>
+<br/>
 <p><b>Forbidden</b></p>
 <p><b>F11000</b> (Godslaying)</p>
 	<p><b>Effect</b>: Active spells count more based on the sum of your Faction spells activity time.</p>
@@ -391,7 +394,7 @@
 <br/>
 <p><b>F11250</b> (Inanity)</p>
 	<p><b>Effect</b>: Excavations count more based on time spent offline in this game.</p>
-	<p><b>Old Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.p>
+	<p><b>Old Formula</b>: (0.8 * x ^ 0.4)%, where x is time spent offline this game.</p>
 	<p><b>New Formula</b>: (0.9 * x ^ 0.45)%, where x is time spent offline this game.</p>
 <hr>
 <p><b>Event</b></p>
@@ -399,7 +402,7 @@
 <p><b>Fight the Goblin Army</b></p>
 <p><b>Goblin's Bane 1</b> (Magical Clicks)</p>
 	<p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
-	<p><b>Old Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.p>
+	<p><b>Old Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
 	<p><b>New Formula</b>: (floor(0.06 * ln(1 + x) ^ 4 + 1)), where x is the amount of active spells.</p>
 <hr>
 <p><b>Trophies</b></p>

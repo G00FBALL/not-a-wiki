@@ -1690,15 +1690,4 @@
 	<p><b>New Faction Coins requirement</b>: 10 Vg (1e64) Faction Coins.</p>
 	<p><b>Old Buildings requirement</b>: 300,000 Buildings (MAX).</p>
 	<p><b>New Buildings requirement</b>: 350,000 Buildings (MAX).</p>
-<hr>
-<p><b>Old Patches</b></p>
-<p>
-	<a href="http://musicfamily.org/realm/3.8Patch/" target="_blank"><b>V3.8</b></a>
-	<a href="http://musicfamily.org/realm/3.7Patch/" target="_blank"><b>V3.7</b></a>
-	<a href="http://musicfamily.org/realm/3.6Patch/" target="_blank"><b>V3.6</b></a>
-	<a href="http://musicfamily.org/realm/3.5Patch/" target="_blank"><b>V3.5</b></a>
-	<a href="http://musicfamily.org/realm/3.4Patch/" target="_blank"><b>V3.4</b></a>
-	<a href="http://musicfamily.org/realm/3.3Patch/" target="_blank"><b>V3.3</b></a>
-</p>
-<p>No history for older patches, see <a href="http://musicfamily.org/realm/Changelog/" target="_blank"><b>Changelogs</b></a></p>
 <?php include "../scripts/footer.html"; ?>
