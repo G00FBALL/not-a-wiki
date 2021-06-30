@@ -32,7 +32,7 @@
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BroodingAbyss.png" align="middle"> Fairy/Demon - Brooding Abyss</b></p>
 	<p><b>Effect</b>: Chaotically increase assistants based on amount of alignments among the active spells you have.</p>
-	<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5)^((1 + min(a, b, c, d, e, f)) * 0.5))%, where a - f represent the six alignments.</p>
+	<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5)^((1 + sum(a, b, c, d, e, f)) * 0.5))%, where a - f represent the six alignments.</p>
 <br>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/SacredGlade.png" align="middle"> Elf/Angel - Sacred Glade</b></p>
 	<p><b>Effect</b>: Increase all spells duration based on clicks made in this game.</p>
