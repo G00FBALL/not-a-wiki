@@ -187,7 +187,7 @@
 	<p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead. Now also casts 10 Tax Collections upon triggering.</p>
 	<p><b>Note</b>: Tax Collections cast this way will not trigger upgrades such as GB7.</p>
 	<p><b>Note</b>: While Green Fingers Discount says it works offline, it does not work in the same way as online, and this challenge cannot be completed offline or when coming online based on the offline effect of GFD.</p>
-	<p><b>Note</b>: There's a 40% chance of getting it every time GFD triggers.</p>
+	<p><b>Note</b>: There's a 60% chance of getting it every time GFD triggers.</p>
 	<p><b>Upgrade</b>: Works with Goblin</p>
 		" coords="73,359,126,413" shape="rect">
     <area href="http://musicfamily.org/realm/Goblin/#GoblinGC2" target=""
@@ -227,10 +227,10 @@
 	<p><b>Requirements</b>: Undead as Base Faction, Reincarnation 2+, True Night upgrade purchased.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Get 6 assistants via Undead Heritage.</p>
-	<p><b>Note</b>: This takes 11 hours, 6 minutes, 40 seconds.</p>
-	<p><b>Effect</b>: Undead Heritage works 5000% faster. (Effective 7.14x boost)</p>
+	<p><b>Note</b>: This takes 6 hours, 40 minutes, 47 seconds.</p>
+	<p><b>Effect</b>: Undead Heritage works 5000% faster. (Effective x10.58 boost)</p>
 	<p><b>Upgrade</b>: Works with Undead</p>
-	<p><b>Tip</b>: Awarded if your playtime is at least 11h, 6m, 40s and you have True Night and the Undead Trade Treaty. You do not need to own the Heritage or have it unlocked.</p>
+	<p><b>Tip</b>: Awarded if your playtime is at least 6h, 40m, 47s and you have True Night and the Undead Trade Treaty. You do not need to own the Heritage or have it unlocked.</p>
 	<p><b>Note</b>: No upgrades will reduce the time required.</p>
 		" coords="71,462,125,516" shape="rect">
     <area href="http://musicfamily.org/realm/Undead/#UndeadUC2" target=""
