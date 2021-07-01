@@ -13,7 +13,7 @@
 <p><b>Effect</b>: Goblin (3,3) Green Fingers Discount triggers every 2 minutes instead. Now also casts 10 Tax Collections upon triggering.</p>
 <p><b>Note</b>: Tax Collections cast this way will not trigger upgrades such as GB7.</p>
 <p><b>Note</b>: While Green Fingers Discount says it works offline, it does not work in the same way as online, and this challenge cannot be completed offline or when coming online based on the offline effect of GFD.</p>
-<p><b>Note</b>: There's a 40% chance of getting it every time GFD triggers.</p>
+<p><b>Note</b>: There's a 60% chance of getting it every time GFD triggers.</p>
 <p><b>Upgrade</b>: Works with Goblin</p>
 
 <hr>

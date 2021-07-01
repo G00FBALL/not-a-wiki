@@ -10,10 +10,10 @@
 <p><b>Requirements</b>: Undead as Base Faction, Reincarnation 2+, True Night upgrade purchased.</p>
 <p><b>Note</b>: Drow can be used but not required.</p>
 <p><b>Challenge</b>: Get 6 assistants via Undead Heritage.</p>
-<p><b>Note</b>: This takes 11 hours, 6 minutes, 40 seconds.</p>
-<p><b>Effect</b>: Undead Heritage works 5000% faster. (Effective 7.14x boost)</p>
+<p><b>Note</b>: This takes 6 hours, 40 minutes, 47 seconds.</p>
+<p><b>Effect</b>: Undead Heritage works 5000% faster. (Effective x10.58 boost)</p>
 <p><b>Upgrade</b>: Works with Undead</p>
-<p><b>Tip</b>: Awarded if your playtime is at least 11h, 6m, 40s and you have True Night and the Undead Trade Treaty. You do not need to own the Heritage or have it unlocked</p>
+<p><b>Tip</b>: Awarded if your playtime is at least 6h, 40m, 47s and you have True Night and the Undead Trade Treaty. You do not need to own the Heritage or have it unlocked</p>
 <p><b>Note</b>: No upgrades will reduce the time required.</p>
 <hr>
 <H6 id="UndeadUC2"></h6><p><b>Undead Challenge 2</b></p>
