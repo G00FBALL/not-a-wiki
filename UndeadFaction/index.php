@@ -52,7 +52,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/UnholyRitualsFactionUpgrade.png" align="middle"> Unholy Rituals</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
         <p><b>Effect</b>: Increase offline production based on time spent being offline in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your offline time this Reincarnation in seconds.</p>
+        <p><b>Formula</b>: (0.4 * x ^ 0.8)%, where x is your offline time this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/CorpseSupplyFactionUpgrade.png" align="middle"> Corpse Supply</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
