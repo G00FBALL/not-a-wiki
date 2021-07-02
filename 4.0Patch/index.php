@@ -405,7 +405,7 @@
         <p><b>Old Effect</b>: Gain assistants based on time spent affiliated with Fairies in this Reincarnation (Additive).</p>
 		<p><b>Old Formula</b>: +(1.5 * x ^ 0.75), where x is time spent affiliated with Fairies this R.</p>
         <p><b>New Effect</b>: Gain assistants based on time spent as Chaos in this Reincarnation (Additive).</p>
-        <p><b>New Formula</b>: +(80 * x ^ 0.6), where x is time spent as Chaos this R.</p>
+        <p><b>New Formula</b>: +(80 * x ^ 0.8), where x is time spent as Chaos this R.</p>
 <br/>
 <p><b>FR12</b> (Dream Catchers)</p>
         <p><b>Old Effect</b>: Multiplicatively increase Mana Regeneration by a random amount. Grows additively every 30 minutes (starts at 0% on upgrade bought).</p>

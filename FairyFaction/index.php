@@ -158,7 +158,7 @@
         <p><b>Requirement</b>: Fairies Union</p>
         <p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
         <p><b>Effect</b>: Gain assistants additively based on time spent as Chaos this Reincarnation.</p>
-        <p><b>Formula</b>: +(80 * x ^ 0.6), where x is time spent as Chaos this Reincarnation.</p>
+        <p><b>Formula</b>: +(80 * x ^ 0.8), where x is time spent as Chaos this Reincarnation.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DreamCatchers.png" alt="Dream Catchers" align="middle"> <b>Dream Catchers</b></p>
         <p><b>Requirement</b>: Fairies Union</p>

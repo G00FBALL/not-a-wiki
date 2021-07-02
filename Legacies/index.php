@@ -117,7 +117,7 @@
         <p></p>
 		<p><b>Pheromones</b></p>
         <p><b>Effect</b>: Gain assistants additively based on time spent as Chaos this Reincarnation.</p>
-        <p><b>Formula</b>: +(80 * x ^ 0.6), where x is time spent as Chaos this Reincarnation.</p>
+        <p><b>Formula</b>: +(80 * x ^ 0.8), where x is time spent as Chaos this Reincarnation.</p>
         <p></p>
 		<p><b>Dream Catchers</b></p>
         <p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Chaos spells cast this Reincarnation.</p>
