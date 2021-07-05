@@ -648,7 +648,7 @@
                 <p><b>Artifact Set</b>: Matching your lineage, mercset for elite lineages</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL7,AN4,AN5,AN11,GB3,UD7,TT10,DD6,FC2,FC3,DN9,DW7,UD10,DW12,MK1,MK6,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:TT,S200,S5625,C175,C400,C5375,D275,D5625,E135,E320,E5375,A120,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,F5500">
+                    <input type="text" value="EL7,AN4,AN5,AN11,GB3,UD7,TT10,DD6,FC2,FC3,DN9,DW7,UD10,DW12,MK1,MK6,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:TT,S200,S5625,C175,C400,C5375,D275,D5625,E135,E320,E5375,A120,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,W180,F5500">
 				</p>
                 <p>EL7,AN4,AN5,AN11,GB3,UD7,TT10,DD6,FC2,FC3,DN9,DW7,UD10,DW12,MK1,MK6,</p>
                 <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:TT,</p>
