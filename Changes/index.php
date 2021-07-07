@@ -403,7 +403,7 @@
 <p><b>Goblin's Bane 1</b> (Magical Clicks)</p>
 	<p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
 	<p><b>Old Formula</b>: (floor(x ^ 1.2) / 10 + 1), where x is amount of active spells.</p>
-	<p><b>New Formula</b>: (floor(0.06 * ln(1 + x) ^ 4 + 1)), where x is the amount of active spells.</p>
+	<p><b>New Formula</b>: (floor(0.6 * ln(1 + x) ^ 4 + 1)), where x is the amount of active spells.</p>
 <hr>
 <p><b>Trophies</b></p>
 <p><b>Master Archeologist</b></p>

@@ -84,10 +84,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e33 - 1e48 (1 Dc - 1 Sxd)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e33 - 1e48 (1 Dc - 1 Qid)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e33 - 1e48 (1 Dc - 1 Sxd) Gems</p>
+                <p><b>Range</b>: 1e33 - 1e48 (1 Dc - 1 Qid) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Angel</p>
@@ -113,10 +113,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R114-R115), 1e48 (1 Sxd)+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R114-R115), 1e48 (1 Qid)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
-                <p><b>Range</b>: 1e48 (1 Sxd)+</p>
+                <p><b>Range</b>: 1e48 (1 Qid)+</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Angel</p>
