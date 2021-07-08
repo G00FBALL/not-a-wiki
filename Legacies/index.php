@@ -650,7 +650,8 @@
 		<p><img src=http://musicfamily.org/realm/Factions/picks/BroodingAbyss.png align=middle><b> Brooding Abyss</b></p>
 		<p><b>Requirement</b>: Fairy Legacy, Demon Legacy</p>
 		<p><b>Effect</b>: Chaotically increase assistants based on amount of alignments among the active spells you have.</p>
-		<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5)^((1 + sum(a, b, c, d, e, f)) * 0.5))%, where a - f represent the six alignments.</p>
+		<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5) ^ (1 + 0.5 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
+		<p><b>Examples</b>: Fairy Chanting (both good & chaos), Combo Strike (evil), Temporal Flux (order).</p> 
 			" coords="130,190,184,244" shape="rect">
 			<area href="#GB-UD" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/HomunculusLab.png align=middle><b> Homunculus Lab</b></p>
@@ -696,7 +697,8 @@
 		<p id="FR-DM"><img src="http://musicfamily.org/realm/Factions/picks/BroodingAbyss.png" align="middle"><b> Brooding Abyss</b></p>
 		<p><b>Requirement</b>: Fairy Legacy, Demon Legacy</p>
 		<p><b>Effect</b>: Chaotically increase assistants based on amount of alignments among the active spells you have.</p>
-		<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5)^((1 + sum(a, b, c, d, e, f)) * 0.5))%, where a - f represent the six alignments.</p>
+		<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5) ^ (1 + 0.5 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
+		<p><b>Examples</b>: Fairy Chanting (good & chaos), Combo Strike (evil), Temporal Flux (order).</p> 
 		<hr>
 		<p id="EL-AN"><img src="http://musicfamily.org/realm/Factions/picks/SacredGlade.png" align="middle"><b> Sacred Glade</b></p>
 		<p><b>Requirement</b>: Elf Legacy, Angel Legacy</p>
