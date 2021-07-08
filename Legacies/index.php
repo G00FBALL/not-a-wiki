@@ -642,7 +642,7 @@
 			<area href="#FR-UD" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TwistingNether.png align=middle><b> Twisting Nether</b></p>
 		<p><b>Requirement</b>: Fairy Legacy, Undead Legacy</p>
-		<p><b>Effect</b>: Gain a new spell with the same name (Duration: 20 seconds, Mana Cost: 1 M (1e6), can be cast up to Tier 99). While active, increases Lineage Level by +1 per Tier.</p>
+		<p><b>Effect</b>: Gain a new spell with the same name (20 seconds duration, 1 M (1e6) Mana Cost, can be cast up to Tier 99). While active, increases Lineage Level by +1 per Tier.</p>
 		<p><b>Note</b>: The Lineage Level increase is only a 'count more' effect and does not affect base lineage in any way.</p>
 		<p><b>Note</b>: Twisting Nether counts as a faction spell, but has no alignments for upgrades such as Djinn Challenge 5.</p>
 			" coords="70,190,124,244" shape="rect">
@@ -689,7 +689,7 @@
 		<hr>
 		<p id="FR-UD"><img src="http://musicfamily.org/realm/Factions/picks/TwistingNether.png" align="middle"><b> Twisting Nether</b></p>
 		<p><b>Requirement</b>: Fairy Legacy, Undead Legacy</p>
-		<p><b>Effect</b>: Gain a new spell with the same name (Duration: 20 seconds, Mana Cost: 1 M (1e6), can be cast up to Tier 99). While active, increases Lineage Level by +1 per Tier.</p>
+		<p><b>Effect</b>: Gain a new spell with the same name (20 seconds duration, 1 M (1e6) Mana Cost, can be cast up to Tier 99). While active, increases Lineage Level by +1 per Tier.</p>
 		<p><b>Note</b>: The Lineage Level increase is only a "count more" effect and does not affect base lineage in any way.</p>
 		<p><b>Note</b>: Twisting Nether counts as a faction spell, but has no alignments for upgrades such as Djinn Challenge 5.</p>
 		<hr>
