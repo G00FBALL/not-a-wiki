@@ -78,7 +78,7 @@
 	<p><b>Effect</b>: Increase Offline Production based on time spent offline in this Reincarnation.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent offline in this Reincarnation.</p>
 <hr>
-<p><b>New Secret Trophy</b></p>
+<p><b>New Trophy</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png" align="middle"> Novice Combinator</b></p>
 	<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
 	<p><b>Cost</b>: 1 Qavg (1e75)</p>
