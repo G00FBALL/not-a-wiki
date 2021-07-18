@@ -26,7 +26,7 @@
 		<p><img src=http://musicfamily.org/realm/Factions/picks/FairyBloodline.png align=middle> <b>Fairy</b></p>
 		<p><b>Effect</b>: Increase the production of Farm, Inn and Blacksmith based on the assistants you own.</p>
 		<p><b>Formula</b>: (40 * ln(1 + x) ^ 4)%, where x is the number of assistants you have.</p>
-			" coords="25,23,72,68" shape="rect">
+			" coords="10,10,64,64" shape="rect">
 			<area href="#Elven" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ElvenBloodline.png align=middle> <b>Elven</b></p>
 		<p><b>Effect</b>: Increase the chance to find Faction Coins based on Faction Coins found in this game.</p>
@@ -34,57 +34,57 @@
 		<p><b>Effect</b>: Autoclick 3 times per second. Autoclicks made this way benefit from a 100 times higher clicking reward and Faction Coin find chance.</p>
 		<p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on the amount of clicks made in this game.</p>
 		<p><b>Formula</b>: (10 * floor(log10(1 + x))%, where x is clicks made in this game.</p>
-			" coords="78,21,126,68" shape="rect">
+			" coords="70,10,124,64" shape="rect">
 			<area href="#Angel" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/AngelBloodline.png align=middle> <b>Angel</b></p>
 		<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on spells cast this game.</p>
 		<p><b>Formula</b>: (1.31 * x ^ 0.31)%, where x is spell casts this game.</p>
-			" coords="131,21,179,68" shape="rect">
+			" coords="130,10,184,64" shape="rect">
 			<area href="#Goblin" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/GoblinBloodline.png align=middle> <b>Goblin</b></p>
 		<p><b>Effect</b>: Reduce all building cost multipliers.</p>
 		<p><b>Note</b>: Reduces cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
-			" coords="24,75,73,121" shape="rect">
+			" coords="10,70,64,124" shape="rect">
 			<area href="#Undead" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadBloodline.png align=middle> <b>Undead</b></p>
 		<p><b>Effect</b>: Gain additional assistants based on the amount of times you reincarnated.</p>
 		<p><b>Formula</b>: +(8 * x ^ 0.8), where x is the number of times you have reincarnated.</p>
-			" coords="78,75,126,121" shape="rect">
+			" coords="70,70,124,124" shape="rect">
 			<area href="#Demon" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DemonBloodline.png align=middle> <b>Demon</b></p>
 		<p><b>Effect</b>: Increase production bonus from gems based on time spent being Evil this Reincarnation.</p>
 		<p><b>Formula</b>: +floor(18 * (x / 3600) ^ 0.8)%, where x is your time spent being Evil this Reincarnation in seconds.</p>
-			" coords="131,75,180,122" shape="rect">
+			" coords="130,70,184,124" shape="rect">
 			<area href="#Titan" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TitanBloodline.png align=middle> <b>Titan</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the amount of Royal Exchanges you purchased.</p>
 		<p><b>Formula</b>: (15 * x ^ 0.85)%, where x is the amount of Royal Exchanges you own.</p>
-			" coords="23,125,72,174" shape="rect">
+			" coords="10,130,64,184" shape="rect">
 			<area href="#Druid" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DruidBloodline.png align=middle> <b>Druid</b></p>
 		<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on Maximum Mana.</p>
 		<p><b>Formula</b>: ((0.18 * x ^ 0.65) + (0.0018 * log10(1 + x) ^ 8))%, where x is your Maximum Mana.</p>
-			" coords="78,127,126,175" shape="rect">
+			" coords="70,130,124,184" shape="rect">
 			<area href="#Faceless" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/FacelessBloodline.png align=middle> <b>Faceless</b></p>
 		<p><b>Effect</b>: Increase maximum mana based on mana produced in this game (additive).</p>
 		<p><b>Formula</b>: +floor(30 * (log10(1 + x) ^ 3.5)), where x is your Mana Produced (This Game) stat.</p>
-			" coords="131,126,179,176" shape="rect">
+			" coords="130,130,184,184" shape="rect">
 			<area href="#Dwarf" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DwarvenBloodline.png align=middle> <b>Dwarf</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the amount of excavations you made.</p>
 		<p><b>Formula</b>: (10 * x ^ 0.8)%, where x is your number of excavations purchased.</p>
-			" coords="24,181,73,229" shape="rect">
+			" coords="10,190,64,244" shape="rect">
 			<area href="#Drow" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DrowBloodline.png align=middle> <b>Drow</b></p>
 		<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on time spent in this game.</p>
 		<p><b>Formula</b>: (1.7 * x ^ 0.7)%, where x is time spent in this game in seconds.</p>
-			" coords="77,180,127,229" shape="rect">
+			" coords="70,190,124,244" shape="rect">
 			<area href="#Dragon" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DragonBloodline.png align=middle> <b>Dragon</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on Faction Coin find chance.</p>
 		<p><b>Formula</b>: (4 * x ^ 0.4)%, where x is Faction Coin find chance.</p>
-			" coords="131,181,179,227" shape="rect">
+			" coords="130,190,184,244" shape="rect">
 			<area href="#Archon" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ArchonBloodline.png align=middle> <b>Archon</b></p>
 		<p><b>Requirements</b>: Archon Unlocked, R130+</p><p><b>Effect</b>: Gain additional research slots based on time spent this game.</p>
@@ -92,16 +92,16 @@
 		<p><b>Note</b>: +1 research at start, +2 at 2 days, +3 at 6 days, +4 at 12 days.. (T >= N * (N - 1)), where T is time in days and N is amount of extra researches.</p>
 		<p><b>A3+ Effect</b>: You can purchase additional researches based on their research points cost. This budget increases with time spent in this game.</p>
 		<p><b>A3+ Formula</b>: (500 + 0.1 * ln(1 + x) ^ 4), where x is this game in seconds.</p>
-			" coords="23,233,72,280" shape="rect">
+			" coords="10,250,64,304" shape="rect">
 			<area href="#Djinn" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DjinnBloodline.png align=middle> <b>Djinn</b></p>
 		<p><b>Requirements</b>: Djinn Unlocked, R130+</p><p><b>Effect</b>: Gain a new spell that costs 500,000 mana and lasts 1 minute as a fixed duration. Each time you cast it, it activates a vanilla or primary alignment spell at Tier 7.</p>
-			" coords="77,234,126,281" shape="rect">
+			" coords="70,250,124,304" shape="rect">
 			<area href="#Makers" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/MakersBloodline.png align=middle> <b>Makers</b></p>
 		<p><b>Requirements</b>: Makers Unlocked, R130+</p><p><b>Effect</b>: Increase your Set power based on faction coins collected this game.</p>
 		<p><b>Formula</b>: (0.75 * log10(1 + x) ^ 1.5)%, where x is faction coins collected this game.</p>
-			" coords="131,233,179,281" shape="rect">
+			" coords="130,250,184,304" shape="rect">
 		</map>
 		<br/>
 		<hr>
