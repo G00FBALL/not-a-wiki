@@ -455,10 +455,11 @@
 			<p><b>Effect</b>: You gain additional assistants based on the time spent in this game.</p>
 			<p><b>Old Formula</b>: +(floor(1 + 1.5 * x ^ 0.5)), where x is time spent this game in hours.</p>
 			<p><b>New Formula</b>: +(floor(1 + 1.6 * (x / 3600) ^ 0.6)), where x is time spent this game in seconds.</p>
-		<hr>
 		</div>
 	</div>
 </div>
+<hr>
+<br/>
 <p><b>Old Patches</b></p>
 <p>
 	<a href="http://musicfamily.org/realm/4.0Patch/" target="_blank"><b>V4.0</b></a>
