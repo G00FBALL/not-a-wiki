@@ -531,7 +531,7 @@
 					<p><b>C3100</b> - All Factions</p>
 					<p><b>Research Name</b>: Engineering</p>
 					<p><b>Hint</b>: Spend some quality time with the Mercenaries.</p>
-					<p><b>Requirement</b>: 15 days as Mercenary (across all Reincarnations)</p>
+					<p><b>Requirement</b>: 12 days as Mercenary (across all Reincarnations)</p>
 					<p><b>Cost</b>: 769.3 OcQig (7.693e179)</p>
 					<p><b>Effect</b>: Increase Maximum Mana based on the total amount of clicks made in this Reincarnation.</p>
 					<p><b>Formula</b>: +(65 * x ^ 0.35), where x is clicks made in this Reincarnation.</p>

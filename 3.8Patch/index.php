@@ -140,10 +140,10 @@
 <p><b>A1500</b> How long required to achieve a Grand Balance?</p>
 <p><b>A3400</b> Get attracted to Faction Coins.</p>
 
-         <div class="shlisting">
-            <div class="shelementwhole">
-                <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.8 May 13, 2020</a></b></p>
-                <div class="autohide">
+ <div class="shlisting">
+	<div class="shelementwhole">
+		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.8 May 13, 2020</a></b></p>
+		<div class="autohide">
         <p><b>V3.8 May 13, 2020</b></p>
         <p>Various texts fixed</p>
         <p>Fixed a production overflow issue in Ascension 3.</p>

@@ -419,7 +419,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanDrillFactionUpgrade.png" align="middle"> Titan Drill</b></p>
 				<p><b>Mercenary Template</b>: TT4</p>
 				<p><b>Cost</b>: 5 Sp (5e24)</p>
-				<p><b>Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635 and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment).</p>
+				<p><b>Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635 and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment). Also increases building production of these tiers by 1000%.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChargedStructuresFactionUpgrade.png" align="middle"> Charged Structures</b></p>
 				<p><b>Mercenary Template</b>: TT5</p>
@@ -708,7 +708,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/HeavyCoinsFactionUpgrade.png" align="middle"> Heavy Coins</b></p>
 				<p><b>Mercenary Template</b>: TT8</p>
 				<p><b>Cost</b>: 500 Oc (5e29)</p>
-				<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 40% each.</p>
+				<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each.</p>
 				<p><b>Effect</b>: Also reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png" align="middle"> Oversized Legends</b></p>

@@ -38,7 +38,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DevilTyrantFactionUpgrade.png" align="middle"> Devil Tyrant</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.6 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
+        <p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" align="middle"> Evil Conquerors</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>

@@ -7,7 +7,7 @@
 		<h6><b>901 Total Trophies</b></h6>
 		<div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (65)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Secret Trophies (64)</a></b></p>
 				<div class="autohide">
 					<p><img src=http://musicfamily.org/realm/Factions/picks/LeetSecretTrophy.png align=middle><b> Leet</b></p>
 					<p><b>Requirement</b>: Have exactly 1337 Coins at any given time.</p>
@@ -466,11 +466,6 @@
 					<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>
 					<p><b>Formula</b>: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</p>
 					<hr>
-					<p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png" align="middle"> <b>Novice Combinator</b></p>
-					<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
-					<p><b>Cost</b>: 1 Qavg (1e75)</p>
-					<p><b>Effect</b>: Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>
-					<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -622,7 +617,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Misc Trophies (168)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Misc Trophies (169)</a></b></p>
 				<div class="autohide">
 					<p><img src=http://musicfamily.org/realm/Factions/picks/AThousandCoins.png align=middle><b> A Thousand Coins</b></p>
 					<p><b>Requirement</b>: Gain 1,000 coins in a single game.</p>
@@ -1189,6 +1184,12 @@
 					<p><b>Effect</b>: Increase the production of all buildings based on research done</p>
 					<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is amount of research done.</p>
 					<p><b>Upgrade</b>: Good for Mercenary.</p>
+					<hr>
+					<p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png" align="middle"> <b>Novice Combinator</b></p>
+					<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
+					<p><b>Cost</b>: 1 Qavg (1e75)</p>
+					<p><b>Effect</b>: Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>
+					<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 					<hr>
 				</div>
 			</div>
