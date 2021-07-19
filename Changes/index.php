@@ -42,9 +42,8 @@
 <br/>
 <div class="shlisting">
 	<div class="shelementwhole">
-		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V3.8 May 13, 2020</a></b></p>
+		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V4.1.0 June 28, 2021</a></b></p>
 		<div class="autohide">
-		<p><b>V4.1.0 June 28, 2021</b></p>
 		<br/>
 		<p><b>New Upgrade: Legacy Combos</b>.</p>
 			<p><b>Effect</b>: Once you purchased 2 different Vanilla Legacies, you will be able to select their specific Legacy Combo upgrade.</p>
@@ -457,6 +456,9 @@
 			<p><b>Old Formula</b>: +(floor(1 + 1.5 * x ^ 0.5)), where x is time spent this game in hours.</p>
 			<p><b>New Formula</b>: +(floor(1 + 1.6 * (x / 3600) ^ 0.6)), where x is time spent this game in seconds.</p>
 		<hr>
+		</div>
+	</div>
+</div>
 <p><b>Old Patches</b></p>
 <p>
 	<a href="http://musicfamily.org/realm/4.0Patch/" target="_blank"><b>V4.0</b></a>
