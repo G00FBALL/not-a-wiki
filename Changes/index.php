@@ -29,7 +29,7 @@
 <p><b>Holy Crusaders</b> (Good Mercenary)</p>
 <p><b>Old Effect</b>: Increase clicking reward by 1000% per active spell.</p>
 <p><b>Old Formula</b>: ((x * 1000) ^ (A + 1))%, where x is the amount of active spells you have and A your Ascension.</p>
-<p><b>New Effect</b>: Increase clicking reward by 1000% per active spell.</p>
+<p><b>New Effect</b>: Increase clicking reward by 100% per active spell.</p>
 <p><b>New Formula</b>: ((x * 100) ^ (A + 1))%, where x is the amount of active spells you have and A your Ascension.</p>
 <br>
 <p><b>C3100</b> (Engineering)</p>
