@@ -5,6 +5,73 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.1, Jul 19, 2021, Goblin Invasion Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: Goblin Invasion Event will be starting on Jul 26th 2021, 12.01 PM UTC and will end on Jul 30th 2021, 6.59 PM UTC.</p>
+				<p>TT4 now also increases the production of its respective buildings by 1000%.</p>
+				<p>TT8 effect increased.</p>
+				<p>Holy Crusaders effect decreased.</p>
+				<p>C3100 (Engineering) time required reduced to 12 days.</p>
+				<p>Makers Perk 2 buildings required reduced to 300k.</p>
+				<p>DM2 restored to 4.0 values.</p>
+            </div>
+        </div>		
+		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.0, Jun 28, 2021</a></b></p>
+            <div class="autohide">
+				<p>NEW FEATURE: LEGACY COMBO UPGRADES. When you have at least two different Legacies, you will be able to purchase a unique upgrade matching any combination of 2 Vanilla Factions. Only one Legacy Combo upgrade can be purchased in a single Abdication.</p>
+				<p>NEW RESEARCHES. 2 new Researches per branch have been added.</p>
+				<p>A NEW SECRET TROPHY has been added</p>
+				<p>A NEW REINCARNATION POWER for Reincarnation 230 has been added.</p>
+				<p>FR2 bonus decreased.</p>
+				<p>FR3 base and scaling increased.</p>
+				<p>FR6 base and scaling increased.</p>
+				<p>FR9 base and scaling increased.</p>
+				<p>EL1 effect increased.</p>
+				<p>EL2 base increased.</p>
+				<p>EL3 scaling increased.</p>
+				<p>EL5 scaling increased.</p>
+				<p>EL8 (Elven Luck) now also triggers on autoclicks.</p>
+				<p>EL10 all effects increased.</p>
+				<p>AN2 base decreased.</p>
+				<p>AN9 base decreased.</p>
+				<p>AN6 effect decreased.</p>
+				<p>AN7 base decreased.</p>
+				<p>God's Hand mana multiplier decreased.</p>
+				<p>GB2 scaling increased.</p>
+				<p>GB4 effect increased.</p>
+				<p>GB6 now increases the production of all buildings based on Tax Collection worth.</p>
+				<p>GB9 highest roll bonus increased. Now also accounts for all spell effects.</p>
+				<p>UD4 base and scaling increased.</p>
+				<p>UD5 changed to be based on time spent offline in this Reincarnation.</p>
+				<p>UD6 base and scaling increased.</p>
+				<p>UD Heritage base and scaling increased.</p>
+				<p>DM2 base increased.</p>
+				<p>DM4 Hell Portal effect increased, now also adds hours of playtime as a count more effect.</p>
+				<p>DM5 base increased.</p>
+				<p>DM7 base increased.</p>
+				<p>DM8 base and scaling increased.</p>
+				<p>Infernal Realm base decreased.</p>
+				<p>DD5 base decreased.</p>
+				<p>DD7 base decreased.</p>
+				<p>FC1 base increased.</p>
+				<p>FC4 scaling increased.</p>
+				<p>FC5 base increased.</p>
+				<p>FC8 base increased, scaling decreased.</p>
+				<p>C50 (Refining) base decreased.</p>
+				<p>E225 (Forgery) base decreased.</p>
+				<p>A25 (Deflagration) effect bonus decreased.</p>
+				<p>W1 (Assault) base decreased.</p>
+				<p>W25 (War Funds) scaling decreased.</p>
+				<p>F11000 (Godslaying) base increased, scaling decreased.</p>
+				<p>F11250 (Inanity) base and scaling increased.</p>
+				<p>Master Archeologist effect increased.</p>
+				<p>Goblin Invasion's Fight Upgrade formula made logarithmic.</p>
+				<p>Holy Frenzy now also increases Faction Coin find chance for Good and Evil factions, in Ascension 4 only.</p>
+				<p>Function getFactionTime() now uses the max value among the factions you're using. This has consequences in A330 (Adaptation) and C200 (Journeymen), for the better or the worse depending on the gamestate.</p>
+            </div>
+        </div>
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.3, May 13, 2021, Blood War Event</a></b></p>
             <div class="autohide">
                 <p><b>Global Reminder</b>: The Blood War Event will be starting on May 17th 2021, 12.01 PM UTC and will end on May 21st 2021, 6.59 PM UTC.</p>

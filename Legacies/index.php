@@ -357,7 +357,7 @@
         <p></p>
 		<p><b>Devil Tyrant</b></p>
         <p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.6 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
+        <p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
         <p></p>
 		<p><b>Evil Conquerors</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Hell Portals you built in this Reincarnation.</p>
@@ -422,7 +422,7 @@
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png align=middle><b> Titan Silver Legacy</b></p>
 		<p><b>Titan Drill</b></p>
-		<p><b>Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635, and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment).</p>
+		<p><b>Effect</b>: Increase the base production of Warrior Barracks / Slave Pens / Deep Mines by +9635, and Cathedrals / Dark Temples / Monasteries by +98000 (based on your Alignment). Also increase production of those building tiers by 1000%.</p>
         <p></p>
 		<p><b>Charged Structures</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of active spells.</p>
@@ -438,7 +438,7 @@
 		<p><b>Effect</b>: Assistants count 200% more, and increase their production by 200%.</p>
         <p></p>
 		<p><b>Heavy Coins</b></p>
-        <p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 40% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 isntead of 1.1.</p>
+        <p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 isntead of 1.1.</p>
         <p></p>
 		<p><b>Oversized Legends</b></p>
         <p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
@@ -603,7 +603,7 @@
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SwampofSorrows.png align=middle><b> Swamp of Sorrows</b></p>
 		<p><b>Requirement</b>: Elf Legacy, Undead Legacy</p>
 		<p><b>Effect</b>: Activity time of all spells counts more based on Maximum Mana.</p>
-		<p><b>Formula</b>: (2 * ln(1 + x) ^ 2.25)%, where x is your Maximum Mana.</p>n.</p>
+		<p><b>Formula</b>: (2 * ln(1 + x) ^ 2.25)%, where x is your Maximum Mana.</p>
 			" coords="70,70,124,124" shape="rect">
 			<area href="#AN-UD" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DarkSanctum.png align=middle><b> Dark Sanctum</b></p>
