@@ -819,9 +819,9 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2021 Events</a></b></p>
             <div class="category autohide">
 				<div class="shelementwhole">
-                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 26 - Jul 30, 2020)</a></b></p>
+                    <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 26 - Jul 30, 2021)</a></b></p>
                     <div class="autohide">
-						<p>The Goblin Invasion event will be starting on <b>Jul 26th 2020, 12:01 PM UTC</b> and will end on <b>Jul 30th 2020, 6:59 PM UTC</b>.</p>
+						<p>The Goblin Invasion event will be starting on <b>Jul 26th 2021, 12:01 PM UTC</b> and will end on <b>Jul 30th 2021, 6:59 PM UTC</b>.</p>
                         <p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
