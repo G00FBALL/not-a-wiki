@@ -355,7 +355,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchangelFeathersFactionUpgrade.png" align="middle"> Archangel Feathers</b></p>
 				<p><b>Mercenary Template</b>: AN6</p>
 				<p><b>Cost</b>: 50 T (5e13)</p>
-				<p><b>Effect</b>: Increase Mana production by 100%.</p>
+				<p><b>Effect</b>: Increase Mana production by 50%.</p>
 				<hr>
 				<h6>Goblin</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BlackMarketFactionUpgrade.png" align="middle"> Black Market</b></p>
