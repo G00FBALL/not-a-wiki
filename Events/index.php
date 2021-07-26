@@ -583,7 +583,7 @@
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
 					<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
-                    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="63,423,116,476" shape="rect">
 					<area research="
 					<p><b>Goblin Invasion</b></p>
@@ -598,9 +598,9 @@
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a stack of at least 720 Goblin Crowns while Blood Frenzy and Call to Arms are active simultaneously.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-					<p><b>Effect</b>: Increase production bonus by a multiplicative 10%.</p>
-                    <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-					" coords="123,423,176,476" shape="rect">
+					<p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 10%.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					" coords="183,423,236,476" shape="rect">
 					<area research="
 					<p><b>Idillium</b></p>
 					<p><b><img src='/realm/Factions/picks/GentleCollector.png' align='middle'> Gentle Collector</b></p>
@@ -799,7 +799,7 @@
                     <p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
                     <br/>
 					<p><b><img src="/realm/Factions/picks/BloodyCrown.png" align="middle"> Bloody Crown (Goblin Invasion)</b></p>
-					<p><b>Effect</b>: Increase production bonus by a multiplicative 10%.</p>
+					<p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 10%.</p>
 					<br/>
 					<p><b><img src="/realm/Factions/picks/Frostmelter.png" align="middle"> Frostmelter (Summer Event)</b></p>
                     <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
@@ -920,13 +920,12 @@
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
                         <br/>
-						<p><b><img src="/realm/Factions/picks/BloodyCrown.png" align="middle"> Bloody Crown</b></p>
-						<p><b>Requirement</b>: Collect a stack of at least 720 Goblin Crowns while Blood Frenzy and Call to Arms are active simultaneously.</p>
-						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-						<p><b>Effect</b>: Increase production bonus by a multiplicative 10%.</p>
-						<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-						
-						<hr>
+			<p><b><img src="/realm/Factions/picks/BloodyCrown.png" align="middle"> Bloody Crown</b></p>
+			<p><b>Requirement</b>: Collect a stack of at least 720 Goblin Crowns while Blood Frenzy and Call to Arms are active simultaneously.</p>
+			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+			<p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 10%.</p>
+			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+			<hr>
                         <p><b>Shop Item</b></p>
                         <p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" align="middle"> 75 Goblin Crowns</b></p>
                         <p>A greedy shady merchant wants to exchange 75 Goblin Crowns for 5 Rubies.</p>
