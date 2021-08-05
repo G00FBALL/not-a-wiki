@@ -859,8 +859,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
-                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made in this Reincarnation.</p>
-                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of clicks made in this Reincarnation.</p>
+                        <p><b>Formula</b>: ((log10(1 + x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
@@ -876,14 +876,14 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                         <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
-                        <p><b>Formula</b>: (24 + 12 * ln(x)), where x is Evil spells cast in this Reincarnation.</p>
+                        <p><b>Formula</b>: (24 + 12 * ln(1 + x))%, where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
-                        <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                        <p><b>Effect</b>: Increases the production of Neutral Buildings based on the amount of assistants you own.</p>
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
@@ -892,7 +892,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
                         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
-                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is time spent in this Reincarnation.</p>
                         <hr>
                         <p><b>Event Feat</b></p>
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
@@ -2146,8 +2146,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
-                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
-                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of clicks made in this Reincarnation.</p>
+                        <p><b>Formula</b>: ((log10(1 + x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
@@ -2163,14 +2163,14 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                         <p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
-                        <p><b>Formula</b>: (24 + 12 * ln(x)), where x is Evil spells cast in this Reincarnation.</p>
+                        <p><b>Formula</b>: (24 + 12 * ln(1 + x))%, where x is Evil spells cast in this Reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army level 50.</p>
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
-                        <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                        <p><b>Effect</b>: Increases the production of Neutral Buildings based on the amount of assistants you own.</p>
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
@@ -2179,7 +2179,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
                         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
-                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is time spent in this Reincarnation.</p>
                         <hr>
                         <p><b>Event Feat</b></p>
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
@@ -3387,8 +3387,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
-                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
-                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of clicks made in this Reincarnation.</p>
+                        <p><b>Formula</b>: ((log10(1 + x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
@@ -3411,7 +3411,7 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
-                        <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                        <p><b>Effect</b>: Increases the production of Neutral Buildings based on the amount of assistants you own.</p>
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
@@ -3420,7 +3420,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
                         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
-                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is time spent in this Reincarnation.</p>
                         <hr>
                         <p><b>Event Feat</b></p>
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
@@ -4402,8 +4402,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
-                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
-                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of clicks made in this Reincarnation.</p>
+                        <p><b>Formula</b>: ((log10(1 + x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
@@ -4427,7 +4427,7 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
-                        <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
+                        <p><b>Effect</b>: Increases the production of Neutral Buildings based on the amount of assistants you own.</p>
                         <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
@@ -4436,7 +4436,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
                         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
-                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is total time spent in seconds.</p>
+                        <p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is time spent in this Reincarnation.</p>
                         <hr>
                         <p><b>Event Feat</b></p>
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
@@ -5274,8 +5274,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
-                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
-                        <p><b>Formula</b>: ((log10(1+x))^3.5)%, where x is total amount of clicks made.</p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of clicks made in this Reincarnation.</p>
+                        <p><b>Formula</b>: ((log10(1 + x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
@@ -5291,7 +5291,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
                         <p><b>Effect</b>: All spells activity time counts more based on the amount of assistants you own.</p>
-                        <p><b>Formula</b>: (x^0.5)%, where x is amount of assistants you own.</p>
+                        <p><b>Formula</b>: (x ^ 0.5)%, where x is amount of assistants you own.</p>
                         <p><b>Note</b>: Does NOT work for spell tier leveling</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
@@ -5299,8 +5299,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
-                        <p><b>Effect</b>: Increases the production of Farms, Inns, Blacksmiths and HOL based on the amount of assistants you own.</p>
-                        <p><b>Formula</b>: (150 * x^0.25)%, where x is amount of assistants you own.</p>
+                        <p><b>Effect</b>: Increases the production of Neutral Buildings based on the amount of assistants you own.</p>
+                        <p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
                         <p><b>Requirement</b>: Support the Goblin Army level 100.</p>
@@ -5308,7 +5308,7 @@
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
                         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
-                        <p><b>Formula</b>: (0.01*x^0.7)%, where x is total time spent in seconds.</p>
+                        <p><b>Formula</b>: (0.01*x^0.7)%, where x is time spent in this Reincarnation.</p>
                         <hr>
                         <p><b>Event Feat</b></p>
                         <p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
