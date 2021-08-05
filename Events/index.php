@@ -6,8 +6,8 @@
     <?php include "../scripts/header.html"; ?>
         <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
         <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
-        <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
-        <p><b>Note: All Events are based on UTC Time</a></b>
+        <p>All Event perks work only during the event. All event items, resources (including current stack size), event spell casts and unlock progress for quest and feats persist during the event, throughout Abdications, Reincarnations and Ascensions.</p>
+        <p><b>Note: All Events are based on UTC Time.</a></b>
 		<p><b>Current UTC time:</b></p>
 		<p id="currentTime">               
         </p>
@@ -44,6 +44,7 @@
 				var seconds = Math.floor((distance % (1000 * 60)) / 1000);        
 				if (distance < 0) {
 					document.getElementById("end").innerHTML = "Ended";
+					document.getElementById("start").innerHTML = "To be announced";
 				}
 				else
 				{
@@ -858,8 +859,8 @@
                         <p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
                         <p><b>Reward</b></p>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
-                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made.</p>
-                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is total amount of clicks made.</p>
+                        <p><b>Effect</b>: Increase the production of Neutral buildings based on the total amount of clicks made in this Reincarnation.</p>
+                        <p><b>Formula</b>: ((log10(1+x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
                         <p><b>Requirement</b>: Fight the Goblin Army level 100.</p>

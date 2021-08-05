@@ -25,7 +25,7 @@
         <p><b>Challenge</b>: Have at least 66 B (6.6e10) Mana Produced within 6 hours of a new game.</p>
         <p><b>Effect</b>: Limited Wish casts count more based on Hellfire Blast casts in this game.</p>
         <p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is Hellfire Blast casts this game.</p>
-        <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts equal to the amount of trophies you have.</p>
+        <p><b>Effect</b>: Each time you cast an Evil spell, you gain additional casts based on the amount of trophies you have.</p>
         <p><b>Formula</b>: +(x ^ 0.7), where x is amount of trophies.</p>
         <p><b>Note</b>: Applies only for real evil spells. Casts are added directly to the spell’s casts count and does not trigger upgrades such as GB7.</p>
         <p><b>Upgrade</b>: Works with Demon+Drow+Djinn</p>
