@@ -715,6 +715,8 @@
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Hellfire Blast Tier 2-7</a></b> (R42+)</p>
         <div class="autohide">
             <p><b>Faction Coins Needed</b> Demon</p>
+			<p><b>Effect</b>: Evils spells count more per Tier.</b>
+			<p><b>Formula</b>: (50 * (T - 1))%, where T is the Hellfire Blast Tier.</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier2.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 2</p>
             <p><b>Cost</b> 54 Spd (5.4e55) - <b>FC</b> 10 B (1e10)</p>
             <p><img src="http://musicfamily.org/realm/Factions/picks/HellfireBlastTier3.png" alt="Hellfire Blast" align="middle"> <b>Tier</b>: 3</p>

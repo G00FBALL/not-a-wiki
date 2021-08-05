@@ -6,8 +6,8 @@
     <?php include "../scripts/header.html"; ?>
         <h6><img src="/realm/Factions/picks/EventsTopPage.png"></h6>
         <p>Realm Grinder Events take place at annual festivals such as Thanksgiving, Christmas, Easter etc. Playing during an Event gives the players special one-time Trophies and temporary and/or permanent perks.</p>
-        <p>All Event perks work only during the event. All event items, including spell cast totals, persist during all the event, throughout abdications and reincarnations.</p>
-        <p><b>Note: All Events are based on UTC Time</a></b>
+        <p>All Event perks work only during the event. All event items, resources (including current stack size), event spell casts and unlock progress for quest and feats persist during the event, throughout Abdications, Reincarnations and Ascensions.</p>
+        <p><b>Note: All Events are based on UTC Time.</a></b>
 		<p><b>Current UTC time:</b></p>
 		<p id="currentTime">               
         </p>
@@ -44,6 +44,7 @@
 				var seconds = Math.floor((distance % (1000 * 60)) / 1000);        
 				if (distance < 0) {
 					document.getElementById("end").innerHTML = "Ended";
+					document.getElementById("start").innerHTML = "To be announced";
 				}
 				else
 				{
