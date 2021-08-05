@@ -702,14 +702,13 @@
 <p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Increase the production of Evil Fortresses and Hell Portals based on your amount of trophies.</p>
 <p><b>Formula</b>: (round(200 * x ^ 0.8))%, where x is your Trophies Unlocked stat.</p>
-<p><b>Effect</b>: Also make Evil spells cast count 50% more per tier.</p>
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellRushFactionUpgrade.png" align="middle"> <b>Hell Rush</b></p>
 <p><b>Requirements</b>: Cast the Demon spell Hellfire Blast in the first 60 seconds of a playtime.</p>
 <p><b>Effect</b>: Hellfire Blast also boosts Halls of Legends.</p>
 <p><b>Upgrade Cost</b>: 1 M (1e6), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/HellfireBurstChallenges.png" align="middle"> <b>Hellfire Burst</b> (R18+)</p>
 <p><b>Effect</b>: Hellfire Blast also counts Evil spells cast in this reincarnation to increase its bonus.</p>
-<p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>"
+<p><b>Formula</b>: (0.1 * x), where x is evil spells cast in this reincarnation.</p>
 <div class="shlisting">
     <div class="shelementwhole">
         <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Hellfire Blast Tier 2-7</a></b> (R42+)</p>
