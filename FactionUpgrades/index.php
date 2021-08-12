@@ -72,7 +72,7 @@
 				<p><b>Mercenary Template</b>: GB1</p>
 				<p><b>Cost</b>: 50 M (5e7)</p>
 				<p><b>Effect</b>: Increase assistants based on Faction Coins found in this game.</p>
-				<p><b>Formula</b>: +(0.5 * ln(1 + x) ^ 2.5), where x is Faction Coins found this game.</p>
+				<p><b>Formula</b>: +(0.5 * ln(1 + x) ^ 2), where x is Faction Coins found this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveTradingFactionUpgrade.png" align="middle"> Slave Trading</b></p>
 				<p><b>Mercenary Template</b>: GB2</p>

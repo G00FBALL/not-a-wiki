@@ -218,9 +218,15 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Tier Spell Upgrades (R42+)</a></b></p>
             <div class="autohide">
     <p><b>All Spells Tiers</b></p>
-    <p><b>Note</b>: Each tier also increase offline production based on mana statistics. (Not Tax Collection)</p>
-    <p><b>Formula</b>: (m + 100 * r) ^ (1 + 0.15 * t) where m is max mana, r is regen, t is tier.</p>
-    <p><b>Note</b>: Tier 1-6 is + 0.1 per tier and is considered an A1 upgrade, Tier 7 is + 0.2 per tier and is considered an A2 upgrade, a T7 spell is ^0.26 in A2</p>
+    <p><b>Effect</b>: Unlocks additional tiers to be cast for an individual spell. Each Tier adds to the overall spell bonus multiplicatively.</p>
+	<p><b>Note for A1</b>: Tier 1-6 production bonus are considered an A0 upgrade, so each tier defacto adds after ascension penalty +0.1 to the exponent, giving a final production bonus for T6 of (x ^ (0.1 * 6) = x ^ 0.6), where x is the original A0 production multiplier.</p>
+	<p><b>Note for A2</b>: Tier 7 is considered an A2 upgrade but with a weaker effect, it adds + 0.2 per tier, making a T7 spell in A2: ((x ^ 0.6) ^ 0.1 * x ^ 0.2 = x ^ 0.26), where x is te original A0 production multiplier.</p>
+	<p><b>Note for subsequent Ascensions</b>: With no additional tiers the overall bonus is (x ^ 0.026) in A3 and (x ^ 0.0026) in A4.</p>
+	<br>
+	<p><b>Effect</b>: The spell tier upgrades also have an additional effect themselves, apart from the spell. Each tier upgrades increases offline production based on mana statistics. (Not Tax Collection)</p>
+    <p><b>Formula</b>: (m + r) ^ (1 + 0.05 * T) where m is max mana, r is regen, T is tier.</p>
+	<p><b>Note</b>: An individual bonus for each tier upgrade (beginning from tier 2 up to tier 6 (or 7 in A2+)), ingame tooltip shows the combined bonus.</p>
+	<p><b>Note</b>: Tier 2-6 are considered an A0 upgrade and Tier 7 is considered an A1 upgrade for Ascension penalty purposes.</b>
     <br>
     <p><b>Requirements</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" align="middle"><b> Tiered Autocasting</b></p>
