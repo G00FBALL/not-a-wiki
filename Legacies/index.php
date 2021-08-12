@@ -242,7 +242,7 @@
 		<p><img src=http://musicfamily.org/realm/Factions/picks/CheapMaterialsFactionUpgrade.png align=middle><b> Goblin Bronze Legacy</b></p>
 		<p><b>Strong Currency</b></p>
 		<p><b>Effect</b>: Gain assistants additively based on the amount of Faction Coins found in this game.</p>
-        <p><b>Formula</b>: +(0.5 * ln(1 + x) ^ 2.5), where x is Faction Coins found this game.</p>
+        <p><b>Formula</b>: +(0.5 * ln(1 + x) ^ 2), where x is Faction Coins found this game.</p>
         <p></p>
 		<p><b>Slave Trading</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Evil buildings you own.</p>
