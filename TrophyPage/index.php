@@ -401,13 +401,11 @@
 	<p><b>Cost</b>: Free</p>
 	<p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
 	" coords="363,523,417,577" shape="rect">
-		<area href="http://musicfamily.org/realm/R160Plus/#TrueHarlequin" target="" research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
-	<p><b>Requirement</b>: A3+, Mercenary Duel unlocked, As a Mercenary, purchase one upgrade from 15 different factions.</p>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png align=middle> <b>True Harlequin</b>
+	<p><b>Requirement</b>: R160+, Mercenary Duel unlocked, As a Mercenary, purchase one upgrade from 15 different factions.</p>
 	<p><b>Cost</b>: 1e152 (100 Noqag)</p>
 	<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>
 	<p><b>Formula</b>: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</p>
-	<p><b>Note</b>: This can be done at R160+ with Mercenary Build (Apeiron/True Harlequin)</p>
-	<p><b>Note</b>: Click image to go to the Apeiron/True Harlequin Build.</p>
 	" coords="3,583,57,637" shape="rect">
 	</map>
 	<map name="AllegiancesTrophies-map">

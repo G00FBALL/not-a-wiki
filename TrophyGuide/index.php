@@ -1397,18 +1397,18 @@
 					<tbody>
 						<tr>
 							<td>
-								<center>True Harlequin</p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png"></td>
-							<td>1e152 (100 Noqag)</td>
-							<td>As a Mercenary, purchase one upgrade from 15 different factions.</td>
-							<td>Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>Formula: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</td>
+								<center>God's Fingers</p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png"></td>
+							<td>Free</td>
+							<td>Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
+							<td>Clicks count 100% more and autoclicks 5 times per second.</td>
 							<td></td>
 						</tr>
 						<tr>
 							<td>
-								<center>God's Fingers</p><img src="http://musicfamily.org/realm/Factions/picks/God'sFingers.png"></td>
-							<td>Free</td>
-							<td>R160+, Reach 100 M (1e8) automatic clicks in this Reincarnation.</td>
-							<td>Clicks count 100% more and autoclicks 5 times per second.</td>
+								<center>True Harlequin</p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png"></td>
+							<td>1e152 (100 Noqag)</td>
+							<td>As a Mercenary, purchase one upgrade from 15 different factions.</td>
+							<td>Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>Formula: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</td>
 							<td></td>
 						</tr>
 					</tbody>

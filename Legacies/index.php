@@ -621,7 +621,6 @@
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ForbiddenGrove.png align=middle><b> Forbidden Grove</b></p>
 		<p><b>Requirement</b>: Elf Legacy, Demon Legacy</p>
 		<p><b>Effect</b>: Autoclicks per second based on the amount of Unique Buildings you own.</p>
-		<p><b>Effect</b>: Does not work offline currently.</p>
 		<p><b>Formula</b>: +(1 + 1.5 * x ^ 0.2)%, where x is the amount of Unique Buildings you own.</p>
 		<p><b>Effect</b>: Also increases production of Unique Buildings based on Autoclicks this game.</p>
 		<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is Autoclicks made this game.</p>
@@ -718,7 +717,6 @@
 		<p id="EL-DM"><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenGrove.png" align="middle"><b> Forbidden Grove</b></p>
 		<p><b>Requirement</b>: Elf Legacy, Demon Legacy</p>
 		<p><b>Effect</b>: Autoclicks per second based on the amount of Unique Buildings you own.</p>
-		<p><b>Effect</b>: Does not work offline currently.</p>
 		<p><b>Formula</b>: +(1 + 1.5 * x ^ 0.2)%, where x is the amount of Unique Buildings you own.</p>
 		<p><b>Effect</b>: Also increases production of Unique Buildings based on Autoclicks this game.</p>
 		<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is Autoclicks made this game.</p>
