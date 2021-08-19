@@ -460,7 +460,7 @@
 					<p><b>Effect</b>: Clicks count 100% more and autoclicks 5 times per second.</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png" align="middle"> <b>True Harlequin</b></p>
-					<p><b>Requirement</b>: As a Mercenary, purchase one upgrade from 15 different factions.</p>
+					<p><b>Requirement</b>: R160+, As a Mercenary, purchase one upgrade from 15 different factions.</p>
 					<p><b>Cost</b>: 1e152 (100 Noqag)
 					<p><b>Effect</b>: Gives Upgrade with same name.</p>
 					<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>
