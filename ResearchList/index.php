@@ -814,8 +814,8 @@
 					<p><b>Research Name</b>: Intervention</p>
 					<p><b>Requirement</b>: Secrets of the Warriors.</p>
 					<p><b>Cost</b>: 33.73 DQig (3.373e160)</p>
-					<p><b>Effect</b>: Increases the production of Unique Building based on time spent with Mercenaries.</p>
-					<p><b>Formula</b>: (10 * x ^ 0.7)%, where x is time spent with Mercenary.</p>
+					<p><b>Effect</b>: Increases the production of Unique Building based on time spent with Mercenaries (across all Reincarnations).</p>
+					<p><b>Formula</b>: (10 * x ^ 0.7)%, where x is time spent with Mercenary (across all Reincarnations).</p>
 					<hr>
 					<p><b>D3350</b> - For All Factions</p>
 					<p><b>Research Name</b>: Vampirism</p>
