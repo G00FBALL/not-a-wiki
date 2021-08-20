@@ -285,17 +285,17 @@
 							<table class="numtable">
 								<thead>
 								  <tr>
-									  <th style="width: 40%">Gems+</th>
-									  <th style="width: 20%">F11750</th>
-									  <th style="width: 10%">1st</th>
-									  <th style="width: 10%">2nd</th>
-									  <th style="width: 10%">3rd</th>
-									  <th style="width: 10%">4th</th>
+									  <th style="width: 28%">Gems+</th>
+									  <th style="width: 16%">F11750</th>
+									  <th style="width: 14%">1st</th>
+									  <th style="width: 14%">2nd</th>
+									  <th style="width: 14%">3rd</th>
+									  <th style="width: 14%">4th</th>
 								  </tr>
 								  </thead>
 								  <tbody>
 								  <tr>
-									  <td>e28|10 Oc</td>
+									  <td>e28 | 10 Oc</td>
 									  <td>FCB</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
@@ -303,7 +303,7 @@
 									  <td></td>
 								  </tr>
 								  <tr>
-									  <td>e33|1 Dc</td>
+									  <td>e33 | 1 Dc</td>
 									  <td>TTG</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
@@ -311,7 +311,7 @@
 									  <td></td>
 								  </tr>
 								  <tr>
-									  <td>e38|100 Ud</td>
+									  <td>e38 | 100 Ud</td>
 									  <td>ELD</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
@@ -351,17 +351,17 @@
 							<table class="numtable">
 								<thead>
 								  <tr>
-									  <th style="width: 40%">Gems+</th>
-									  <th style="width: 20%">F11750</th>
-									  <th style="width: 10%">1st</th>
-									  <th style="width: 10%">2nd</th>
-									  <th style="width: 10%">3rd</th>
-									  <th style="width: 10%">4th</th>
+									  <th style="width: 28%">Gems+</th>
+									  <th style="width: 16%">F11750</th>
+									  <th style="width: 14%">1st</th>
+									  <th style="width: 14%">2nd</th>
+									  <th style="width: 14%">3rd</th>
+									  <th style="width: 14%">4th</th>
 								  </tr>
 								  </thead>
 								  <tbody>
 								  <tr>
-									  <td>e28|10 Oc</td>
+									  <td>e28 | 10 Oc</td>
 									  <td>FCB</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
@@ -377,7 +377,7 @@
 									  <td></td>
 								  </tr>
 								  <tr>
-									  <td>e37|10 Ud</td>
+									  <td>e37 | 10 Ud</td>
 									  <td>ELD</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
@@ -416,17 +416,17 @@
 							<table class="numtable">
 								<thead>
 								  <tr>
-									  <th style="width: 40%">Gems+</th>
-									  <th style="width: 20%">F11750</th>
-									  <th style="width: 10%">1st</th>
-									  <th style="width: 10%">2nd</th>
-									  <th style="width: 10%">3rd</th>
-									  <th style="width: 10%">4th</th>
+									  <th style="width: 28%">Gems+</th>
+									  <th style="width: 16%">F11750</th>
+									  <th style="width: 14%">1st</th>
+									  <th style="width: 14%">2nd</th>
+									  <th style="width: 14%">3rd</th>
+									  <th style="width: 14%">4th</th>
 								  </tr>
 								  </thead>
 								  <tbody>
 								  <tr>
-									  <td>e45|1 Qad</td>
+									  <td>e45 | 1 Qad</td>
 									  <td>ELD</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
@@ -434,7 +434,7 @@
 									  <td></td>
 								  </tr>
 								  <tr>
-									  <td>e47|100 Qad</td>
+									  <td>e47 | 100 Qad</td>
 									  <td>ELD</td>
 									  <td>UDD</td>
 									  <td>UDG</td>
