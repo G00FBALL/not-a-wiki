@@ -369,7 +369,7 @@
 									  <td></td>
 								  </tr>
 								  <tr>
-									  <td>e32|100 No</td>
+									  <td>e32 | 100 No</td>
 									  <td>TTG</td>
 									  <td>UDG</td>
 									  <td>GBS</td>
