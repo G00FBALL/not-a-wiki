@@ -285,12 +285,12 @@
 							<table class="numtable">
 								<thead>
 								  <tr>
-									  <th>Gems+</th>
-									  <th>F11750</th>
-									  <th>1st</th>
-									  <th>2nd</th>
-									  <th>3rd</th>
-									  <th>4th</th>
+									  <th style="width: 40%">Gems+</th>
+									  <th style="width: 20%">F11750</th>
+									  <th style="width: 10%">1st</th>
+									  <th style="width: 10%">2nd</th>
+									  <th style="width: 10%">3rd</th>
+									  <th style="width: 10%">4th</th>
 								  </tr>
 								  </thead>
 								  <tbody>
@@ -351,12 +351,12 @@
 							<table class="numtable">
 								<thead>
 								  <tr>
-									  <th>Gems+</th>
-									  <th>F11750</th>
-									  <th>1st</th>
-									  <th>2nd</th>
-									  <th>3rd</th>
-									  <th>4th</th>
+									  <th style="width: 40%">Gems+</th>
+									  <th style="width: 20%">F11750</th>
+									  <th style="width: 10%">1st</th>
+									  <th style="width: 10%">2nd</th>
+									  <th style="width: 10%">3rd</th>
+									  <th style="width: 10%">4th</th>
 								  </tr>
 								  </thead>
 								  <tbody>
@@ -416,12 +416,12 @@
 							<table class="numtable">
 								<thead>
 								  <tr>
-									  <th>Gems+</th>
-									  <th>F11750</th>
-									  <th>1st</th>
-									  <th>2nd</th>
-									  <th>3rd</th>
-									  <th>4th</th>
+									  <th style="width: 40%">Gems+</th>
+									  <th style="width: 20%">F11750</th>
+									  <th style="width: 10%">1st</th>
+									  <th style="width: 10%">2nd</th>
+									  <th style="width: 10%">3rd</th>
+									  <th style="width: 10%">4th</th>
 								  </tr>
 								  </thead>
 								  <tbody>
@@ -683,5 +683,6 @@
 			</div>
 		</div>
 </div>
-<p><b>Please Note</b>: This section only covers progress up to R240 currently. For builds needed beyond, use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> and check the pinned builds in the channel <b>ascension-4</b>.</p>
+<hr>
+<p><b>Please Note</b>: This section currently covers progress up to R240. For builds needed beyond, use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a> and check the pinned builds in the channel <b>ascension-4</b>.</p>
 <?php include "../scripts/footer.html"; ?>
