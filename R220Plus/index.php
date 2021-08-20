@@ -658,7 +658,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: PMath</p>
 				<p><b>Requirement</b>: 2h10m+ each with Order and Balance alignment</p>
-				<p><b>Range</b>: 1e35 (10 Dc) Gems+</p>
+				<p><b>Range</b>: 1e34 (10 Dc) Gems+</p>
 				<p><b>Faction</b>: Faceless</p>
 				<p><b>Bloodline</b>: Elf</p>
 				<p><b>Artifact Set</b>: Titan</p>
