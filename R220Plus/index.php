@@ -97,7 +97,7 @@
 						<p><b>Note</b>: Use F11500 for longer runs (1h+) if you have 2nd effect on Druid Set unlocked.</p>
 						<p><b>Note</b>: Buff W11625 at least a bit (e.g. 6 minutes with each faction gives 200%).</p>
 					</div>
-				</div>				
+				</div>
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Demonline Druid (R228+) 1e13 (10 T)+</a></b></p>
 					<div class="autohide">
@@ -125,7 +125,7 @@
 						<p><b>Note</b>: Swap to Titan set if buffed (compare value to Undead Set).</p>
 						<p><b>Note</b>: Buff W11625 at least a bit (e.g. 6 minutes with each faction gives 200%).</p>
 					</div>
-				</div>	
+				</div>
 			</div>
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titan Midrange (R220-228)</a></b></p>
 			<div class="autohide">
@@ -240,7 +240,7 @@
 						<p><b>Note for R226</b>: Spend time with Faceless to buff A10875.</p>
 						<p><b>Note for R227+</b>: Swap W5625 to W11625 when buffed (2h+ with least played faction), swap A10875 to A11625.</p>
 						<p><b>Note for R228</b>: Swap F11000 to F11750.</p>
-						<p><b>Note</b>: If the bottleneck is faction coins for the legacies, you can switch the order in the Spellcraft branch for a quicker setup.</p> 
+						<p><b>Note</b>: If the bottleneck is faction coins for the legacies, you can switch the order in the Spellcraft branch for a quicker setup.</p>
 						<p><b>Note</b>: A previous F6000 run is recommended.</p>
 					</div>
 				</div>
@@ -460,7 +460,7 @@
 					</div>
 				</div>
 			</div>
-<!--			
+<!--
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Faceless 1e28 - 1e32 (10 Oc - 100 No)</a></b></p>
 				<div class="autohide">
@@ -489,7 +489,7 @@
 					<p><b>Note</b>: Swap to W11625 when buffed to at least 2 hours (2000%).</p>
 					<p><b>Note</b>: Buff Titan time for A10875.</p>
 				</div>
-			</div>			
+			</div>
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Elfline Titan 1e29 (100 Oc)+</a></b></p>
 				<div class="autohide">
@@ -678,10 +678,11 @@
 				<p>F11750,F5750</p>
 				<p><b>Note</b>: Should be attempted in R228 where you already buff W11625 and have enough activity time with Lightning strike.</p>
 				<p><b>Note</b>: Recommended to buff S5375 (30m+ as activity time for least used spell). Can be combined with W11625 buffing.</p>
-				<p><b>Note</b>: Buff excavation resets up to 20 this Reincarnation. The last couple resets can be done the quickest by alternating any Makerline run (to get the benefit of MKP1) with the R228 Druid production build several times.</p> 
+				<p><b>Note</b>: Buff excavation resets up to 20 this Reincarnation. The last couple resets can be done the quickest by alternating any Makerline run (to get the benefit of MKP1) with the R228 Druid production build several times.</p>
 				<p><b>Note</b>: Select Titan Bronze Legacy with Relativity instead should you have buffed S5375 significantly higher or are at much higher gems than e35.</p>
 			</div>
 		</div>
+</div>
 </div>
 <hr>
 <p><b>Please Note</b>: This section currently covers progress up to R240. For builds needed beyond, use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</b></a> and check the pinned builds in the channel <b>ascension-4</b>.</p>
