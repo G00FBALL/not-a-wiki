@@ -13,26 +13,32 @@
         <p><b>Production</b></p>
         <div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Holy Trinity R3+<font color="Blue"> Good</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Assisted Advancement R3+<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: ensteffahn</p>
+					<p><b>Author</b>: Cyden</p>
 					<p><b>Range</b>: 1e35 (100 Dc) - 1e75 (1 Qavg)</p>
-					<p><b>Requirement</b>: Coin Pillage</p>
-					<p><b>Alignment</b>: Good Mercenary</p>
+					<p><b>Requirement</b>: Coin Pillage trophy</p>
+					<p><b>Alignment</b>: Neutral Mercenary</p>
 					<p><b>Bloodline</b>: Fairy (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN3,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR2,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DN8,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<b>For maxing excavations</b>
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
 						<input type="text" value="FR2,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW5,DW7,SP:Fairy Chanting,SP:God's Hand">
 						<b>DW5 is buffed</b>
 					</p>
-					<p>FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN3,DN4,DW7,</p>
+					<p>FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Max your excavations count.</p>
-					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap FC6->DW5 and FR7->UD7.</p>
+					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Max your excavations (get your excavation count to as high as possible): Swap FR7->DN8.</p>
+					<p><b>Notes</b>: Excavations count of 1600-1700 is recommended for R15 & R16.</p>
+					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap EL5->DW5 and FR7->UD7.</p>
 				</div>
 			</div>
         </div>
@@ -40,10 +46,10 @@
         <H6 id="TrophyBuilds"></h6><p><b>Trophy Builds</b></p>
         <div class="category">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn (R3 Harlequin, R12 Know Your Enemy Part I artifact)<font color="Blue"> Good</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Harley Quinn (R3 Harlequin, R12 Know Your Enemy Part I artifact)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
-					<p><b>Alignment</b>: Good Mercenary</p>
+					<p><b>Alignment</b>: Neutral Mercenary</p>
 					<p><b>Bloodline</b>: Fairy (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
@@ -72,16 +78,16 @@
 						<input type="text" value="FR2,FR4,FR7,FR9,EL9,AN1,AN5,AN6,DN2,DN3,DN4,DN7,SP:Goblin's Greed,SP:Fairy Chanting">
 					</p>
 					<p><b>Template</b></p>
-					<p>FR2,FR4,FR7,FR9,EL9,AN1,AN5,AN6,DN2,DN3,DN4,DN7,</p>
+					<p>FR2,FR4,FR7,FR9,EL5,EL9,AN1,AN5,DN2,DN3,DN4,DN7,</p>
 					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
 					<p><b>Notes</b>:This build is only for getting the Lucifer Trophy.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Mania (R3+ Coin Pillage, Mana Waste & Power Orb, R7+ Autocasting upgrades)<font color="Blue"> Good</font></a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Mania (R3+ Coin Pillage, Mana Waste & Power Orb, R7+ Autocasting upgrades)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Cyden</p>
-					<p><b>Alignment</b>: Good Mercenary</p>
+					<p><b>Alignment</b>: Neutral Mercenary</p>
 					<p><b>Bloodline</b>: Faceless (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
@@ -91,7 +97,7 @@
 					<p>AN1,GB1,GB5,UD7,TT2,TT7,DD4,DD6,FC7,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:Moon Blessing</p>
 					<p><b>Notes</b>: This build is for getting the Coin Pillage & Mana Waste trophies and excavating Power Orb in R3, and getting Autocasting upgrades in R7+.</p>
-					<p><b>Notes</b>: Buff DD4 before running this build.</p>
+					<p><b>Notes</b>: Buff DD4 with Versatile Builder (see below) before running this build is recommended.</p>
 					<p><b>Notes</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation and Ruby Power or Reincarnation power if they increase max mana.</p>
 				</div>
 			</div>
@@ -103,12 +109,13 @@
 					<p><b>Bloodline</b>: Goblin (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN2,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN2,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
 					</p>
 					<p><b>Template</b></p>
-					<p>FR2,FR7,GB1,TT7,DD1,DD6,DD7,FC4,FC6,DN2,DN4,DW7,</p>
+					<p>FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
 					<p><b>Notes</b>: This build is for buffing upgrades that base on "highest amount of x building built in this reincarnation" (like DD4: Earthly Bond or DW5: Blood Sacrifices).</p>
+					<p><b>Notes</b>: Choose the alignment that has the building you want to build (for example: Evil for DW5, Neutral for DD4).</p>
 				</div>
 			</div>
         </div>
