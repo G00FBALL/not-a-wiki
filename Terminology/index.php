@@ -61,7 +61,7 @@
         <p><b>Buy 10</b>: CMD + click building</p>
         <p><b>Buy 100</b>: SHIFT + click building</p>
         <p><b>Buy 1000</b>: X + click building - R1+</p>
-		<p><b>Buy 10000</b>: Z + click building - R1+</p>
+	<p><b>Buy 10000</b>: Z + click building - R1+</p>
         <p><b>Buy Max</b>: CMD + SHIFT + click building</p>
         <hr>
         <center><b>Terminology</b></center>
@@ -73,11 +73,11 @@
         <p><b>All-Time</b>: covers all reincarnations.</p>
         <hr>
         <center><b>Commonly Used Abbreviations</b></center>
-		<p><b>A0</b>: Pre Ascension (R0-R39)</p>
+	<p><b>A0</b>: Pre Ascension (R0-R39)</p>
         <p><b>A1</b>: Ascension 1 (R40-R99)</p>
         <p><b>A2</b>: Ascension 2 (R100-R159)</p>
         <p><b>A3</b>: Ascension 3 (R160-R219)</p>
-        <p><b>A3</b>: Ascension 4 (R220-R279)</p>
+        <p><b>A4</b>: Ascension 4 (R220-R279)</p>
         <p><b>Pre A</b>: A0</p>
         <p><b>Post A</b>: A1+</p>
         <p><b>R#</b>: Number of times reincarnated (eg: R12 = 12th reincarnation)</p>
