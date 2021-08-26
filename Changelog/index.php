@@ -5,9 +5,17 @@
     <p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
     <div class="shlisting">
 		<div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.2, Aug 23, 2021, Summer Event</a></b></p>
+            <div class="autohide">
+                <p><b>Global Reminder</b>: The Summer Event will be starting on Aug 26th 2021, 12.01 PM UTC and will end on Sep 2nd 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW SUMMER FESTIVAL FEAT, unlocking a new upgrade.</p>
+            </div>
+        </div>	
+		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.1, Jul 19, 2021, Goblin Invasion Event</a></b></p>
             <div class="autohide">
                 <p><b>Global Reminder</b>: Goblin Invasion Event will be starting on Jul 26th 2021, 12.01 PM UTC and will end on Jul 30th 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW GOBLIN INVASION FEAT, unlocking a new upgrade.</p>
 				<p>TT4 now also increases the production of its respective buildings by 1000%.</p>
 				<p>TT8 effect increased.</p>
 				<p>Holy Crusaders effect decreased.</p>

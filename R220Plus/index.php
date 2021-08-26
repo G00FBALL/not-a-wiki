@@ -390,7 +390,7 @@
 						<p><b>Legacy Combo</b>: Homunculus Lab</p>
 						<p>
 							<button onclick="myFunction($(this))">Copy Build</button>
-							<input type="text" value="S5875,S11375,C11375,C5625,D11375,D5625,E11875,E5625,A11875,A5625,W5375,W11625,F11750,F5750">
+							<input type="text" value="S5875,S11375,C11375,C5625,D11375,D5625,E11875,E5625,A11875,A5625,W5375,W12250,F11750,F5750">
 						</p>
 						<p>S5875,S11375,</p>
 						<p>C11375,C5625,</p>
