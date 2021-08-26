@@ -834,7 +834,7 @@
 				<div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 26 - Sep 2, 2021)</a></b></p>
                     <div class="autohide">
-						<p>The Summer event will be starting on <b>Aug 26th 2021, 12.01 PM UTC</b> and will end on <b>Sep 2nd 2021, 6.59 PM UTC.</b>.</p>
+						<p>The Summer event will be starting on <b>Aug 26th 2021, 12.01 PM UTC</b> and will end on <b>Sep 2nd 2021, 6.59 PM UTC</b>.</p>
                         <p>The event will feature two new mini-factions, the <b>Summeraans</b> and the <b>Winterly</b>, which will last for the duration of the event, they will stack upon any existing faction and will provide <b>3 new upgrades and a new spell</b> to boost your production!</p>
                         <p>There will be two new resources for the event: <b>Flame</b> and <b>Frost Orbs</b>. They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 12 hours, up to 720 orbs.</p>
                         <p>You can only collect one type of orb: by doing so, the other will disappear.</p>
