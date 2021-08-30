@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Important</b>: <font color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part I</b> Artifact, using the Harley Quinn build.</font>
+    <p><b>Important</b>: For <font color=DarkRed><b>R12</b> and above get the <b>Know Your Enemy Part I</b> Artifact, using the Harley Quinn build.</font>
     <p>With version 2 comes the ability to load and save mercenary builds. The Faction Upgrades and Spells are saved in templates.</p>
     <p><b>Note</b>: You will need to manually select the alignment and bloodline.</p>
     <p><b>Templates</b> can be found at the top of each build table (if available).</p>
@@ -36,9 +36,10 @@
 					</p>
 					<p>FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Notes:<font color="Gold"> When build slows down:</font></b> Max your excavations (get your excavation count to as high as possible): Swap FR7->DN8.</p>
-					<p><b>Notes</b>: Excavations count of 1600-1700 is recommended for R15 & R16.</p>
-					<p><b>Notes:<font color="Gold"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap EL5->DW5 and FR7->UD7.</p>
+					<p><b><font color="DarkRed"> When build slows down:</font></b></p>
+					<p><b>Note</b>: Max your excavations (get your excavation count to as high as possible): Swap FR7->DN8.</p>
+					<p><b>Note</b>: Excavations count of 1600-1700 is recommended for R15 & R16.</p>
+					<p><b>Note</b>: Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap EL5->DW5 and FR7->UD7.</p>
 				</div>
 			</div>
         </div>
@@ -63,8 +64,8 @@
 					<p><b>Template</b></p>
 					<p>FR2,EL5,AN6,GB1,UD7,DM3,TT7,DD1,FC4,FC7,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Notes</b>: This build is for getting <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
-					<p><b>Notes</b>: If excavation cost is too high, swap AN6->AN2, DD1->DD6, and FC7->DN8.</p>
+					<p><b>Note</b>: This build is for getting <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
+					<p><b>Note</b>: If excavation cost is too high, swap AN6->AN2, DD1->DD6, and FC7->DN8.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -80,7 +81,7 @@
 					<p><b>Template</b></p>
 					<p>FR2,FR4,FR7,FR9,EL5,EL9,AN1,AN5,DN2,DN3,DN4,DN7,</p>
 					<p>SP:Goblin's Greed,SP:Fairy Chanting</p>
-					<p><b>Notes</b>:This build is only for getting the Lucifer Trophy.</p>
+					<p><b>Note</b>:This build is only for getting the Lucifer Trophy.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -96,9 +97,9 @@
 					<p><b>Template</b></p>
 					<p>AN1,GB1,GB5,UD7,TT2,TT7,DD4,DD6,FR9,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:Moon Blessing</p>
-					<p><b>Notes</b>: This build is for getting the Coin Pillage & Mana Waste trophies and excavating Power Orb in R3, and getting Autocasting upgrades in R7+.</p>
-					<p><b>Notes</b>: Buff DD4 with Versatile Builder (see below) before running this build is recommended.</p>
-					<p><b>Notes</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation and Ruby Power or Reincarnation power if they increase max mana.</p>
+					<p><b>Note</b>: This build is for getting the Coin Pillage & Mana Waste trophies and excavating Power Orb in R3, and getting Autocasting upgrades in R7+.</p>
+					<p><b>Note</b>: Buff DD4 with Versatile Builder (see below) before running this build is recommended.</p>
+					<p><b>Note</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation and Ruby Power or Reincarnation power if they increase max mana.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -114,8 +115,8 @@
 					<p><b>Template</b></p>
 					<p>FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Notes</b>: This build is for buffing upgrades that base on "highest amount of x building built in this reincarnation" (like DD4: Earthly Bond or DW5: Blood Sacrifices).</p>
-					<p><b>Notes</b>: Choose the alignment that has the building you want to build (for example: Evil for DW5, Neutral for DD4).</p>
+					<p><b>Note</b>: This build is for buffing upgrades that base on "highest amount of x building built in this reincarnation" (like DD4: Earthly Bond or DW5: Blood Sacrifices).</p>
+					<p><b>Note</b>: Choose the alignment that has the building you want to build (for example: Evil for DW5, Neutral for DD4).</p>
 				</div>
 			</div>
         </div>
