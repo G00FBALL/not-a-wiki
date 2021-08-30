@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
     <h6><img src="http://musicfamily.org/realm/Factions/picks/MercenaryTopPage.png" alt="Spellcraft" align="middle"></h6>
-    <p><b>Important</b>: <FONT color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part I</b> Artifact, using the Harley Quinn build.</font>
+    <p><b>Important</b>: <font color=DarkRed><b>R12</b> and above Get <b>Know Your Enemy Part I</b> Artifact, using the Harley Quinn build.</font>
     <p>With version 2 comes the ability to load and save mercenary builds. The Faction Upgrades and Spells are saved in templates.</p>
     <p><b>Note</b>: You will need to manually select the alignment and bloodline.</p>
     <p><b>Templates</b> can be found at the top of each build table (if available).</p>
@@ -36,9 +36,9 @@
 					</p>
 					<p>FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Max your excavations (get your excavation count to as high as possible): Swap FR7->DN8.</p>
+					<p><b>Notes:<font color="Gold"> When build slows down:</font></b> Max your excavations (get your excavation count to as high as possible): Swap FR7->DN8.</p>
 					<p><b>Notes</b>: Excavations count of 1600-1700 is recommended for R15 & R16.</p>
-					<p><b>Notes:<font color="Red"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap EL5->DW5 and FR7->UD7.</p>
+					<p><b>Notes:<font color="Gold"> When build slows down:</font></b> Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap EL5->DW5 and FR7->UD7.</p>
 				</div>
 			</div>
         </div>
@@ -94,7 +94,7 @@
 						<input type="text" value="AN1,GB1,GB5,UD7,TT2,TT7,DD4,DD6,FC7,DN2,DN4,DW7,SP:Fairy Chanting,SP:Moon Blessing">
 					</p>
 					<p><b>Template</b></p>
-					<p>AN1,GB1,GB5,UD7,TT2,TT7,DD4,DD6,FC7,DN2,DN4,DW7,</p>
+					<p>AN1,GB1,GB5,UD7,TT2,TT7,DD4,DD6,FR9,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:Moon Blessing</p>
 					<p><b>Notes</b>: This build is for getting the Coin Pillage & Mana Waste trophies and excavating Power Orb in R3, and getting Autocasting upgrades in R7+.</p>
 					<p><b>Notes</b>: Buff DD4 with Versatile Builder (see below) before running this build is recommended.</p>
