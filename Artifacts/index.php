@@ -559,7 +559,7 @@
 
 			" coords="363,343,416,396" shape="rect">
 			<area research="
-		<p><img src='http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png' align='middle'><b> Wall Chunk</b></p>
+		<p><img src='http://musicfamily.org/realm/Factions/picks/WallChunkArtifact.png' align='middle'><b> Wall Chunk</b></p>
 		<p><b>Clue</b>: More Ascension...</p>
 		<p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
 		<p><b>Requirement</b>: R100+</p>
