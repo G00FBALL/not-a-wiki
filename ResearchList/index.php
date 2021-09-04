@@ -843,7 +843,7 @@
 					<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade.</p>
 					<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
 					<p><b>Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.</p>
-					<p><b>Note</b>: only considers time spent with factions that are avaliable at the given game stage.</p>
+					<p><b>Note</b>: only considers time spent with factions that are available at the given game stage.</p>
 					<hr>
 					<p><b>D5875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Birthright</p>

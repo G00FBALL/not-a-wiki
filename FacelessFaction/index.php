@@ -200,5 +200,5 @@
         <p><b>Requirement</b>: Faceless Union</p>
         <p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
-        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest Maxium Mana this Reincarnation.</p>
+        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest Maximum Mana this Reincarnation.</p>
         <?php include "../scripts/footer.html"; ?>

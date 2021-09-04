@@ -9,7 +9,7 @@
         <p>All Event perks work only during the event. All event items, resources (including current stack size), event spell casts and unlock progress for quest and feats persist during the event, throughout Abdications, Reincarnations and Ascensions.</p>
         <p><b>Note: All Events are based on UTC Time.</a></b>
 		<p><b>Current UTC time:</b></p>
-		<p id="currentTime">               
+		<p id="currentTime">
         </p>
         <p><b>Event will start in</b></p>
         <p id="start">
@@ -41,7 +41,7 @@
 				var days = Math.floor(distance / (1000 * 60 * 60 * 24));
 				var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 				var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-				var seconds = Math.floor((distance % (1000 * 60)) / 1000);        
+				var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 				if (distance < 0) {
 					document.getElementById("end").innerHTML = "Ended";
 					document.getElementById("start").innerHTML = "To be announced";
@@ -50,7 +50,7 @@
 				{
 					document.getElementById("end").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 				}
-				
+
 				document.getElementById("currentTime").innerHTML = new Date().toUTCString();
 			}, 1000);
         </script>
@@ -373,7 +373,7 @@
 					<p><b>Requirement</b>: Collect a full stack of 720 Eggs while being affiliated with the Undead.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase offline production by 100%.</p></p>
-					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>			
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="63,183,116,236" shape="rect">
 					<area research="
 					<p><b>Summer Festival</b></p>
@@ -437,7 +437,7 @@
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase the production of all buildings by 50%.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-					" coords="123,243,176,296" shape="rect">					
+					" coords="123,243,176,296" shape="rect">
 					<area research="
 					<p><b>Halloween</b></p>
 					<p><b><img src='/realm/Factions/picks/MonsterBreederFeat.png' align='middle'> Monster Breeder</b></p>
@@ -546,7 +546,7 @@
 					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-					<p><b>Effect</b>: Increase assistants by 10%.</p>					
+					<p><b>Effect</b>: Increase assistants by 10%.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					" coords="183,363,236,416" shape="rect">
 					<area research="
@@ -768,7 +768,7 @@
                             <td>
                                 <center><img src="/realm/Factions/picks/ParticleChristmas.png" width="54" height="54" /></center>
                                 <center>Christmas</center>
-                            </td>    
+                            </td>
                         </tr>
                     </tbody>
                 </thead>
@@ -1151,7 +1151,7 @@
                         <br>
                         <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 720 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
                         <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
-                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reincarnation.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
                         <p><b>Cost</b>: 200 Holy Symbols</p>
@@ -1181,7 +1181,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existence is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -1232,7 +1232,7 @@
 						<p><b><img src="/realm/Factions/picks/FrenziedArmy2021.png" alt="Frenzied Army" align="middle"> Frenzied Army</b></p>
 						<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
 						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
-						<p><b>Effect</b>: Increase assistants by 10%.</p>				
+						<p><b>Effect</b>: Increase assistants by 10%.</p>
 						<br/>
                         <p><b><img src="/realm/Factions/picks/EternalBattle.png" align="middle"> Eternal Battle</b></p>
                         <p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
@@ -1380,7 +1380,7 @@
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 						<p><b>Effect</b>: Increase offline production by 100%.</p></p>
                         <p><b>Note</b>: Upgrade only available during seasonal events.</p>
-                        <hr>		
+                        <hr>
                         <p><b>Unique Egg Upgrades</b>: You can find up to 8 unique eggs: One of each kind, and you cannot have more, nor 2 of the same kind. Unique eggs are found by 'luck' and the upgrades are free. When a unique egg is found, its upgrade will instantly appear in the upgrade tab, and will count towards the 'bought upgrades' stats.</p>
                         <p><b><img src="/realm/Factions/picks/UGiantEggEaster2017.png" alt="Giant Egg" align="middle"> Giant Egg</b></p>
                         <p><b>Effect</b>: Increase maximum mana by 500</p>
@@ -1524,7 +1524,7 @@
 						<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/FairyLove.png" align="middle"> Fairy Love</b></p>
-                        <p><b>Requirement</b>: While affiliated with the faries, click 1000 times during the Valentine event.</p>
+                        <p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <hr>
                         <p><b>Shop</b></p>
@@ -1555,7 +1555,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -1566,7 +1566,7 @@
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.</p>
                         <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.</p>
-                        <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
+                        <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in percentage.</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <br/>
@@ -1575,7 +1575,7 @@
                         <p><b>Requirement</b>: Play during the Christmas Event, R40+.</p>
                         <p><b>Cost</b>: 5000 Snowballs</p>
                         <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.</p>
-                        <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in precentage</p>
+                        <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in percentage</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <br/>
@@ -1584,7 +1584,7 @@
                         <p><b>Requirement</b>: Play during the Christmas Event, R100+.</p>
                         <p><b>Cost</b>: 10000 Snowballs</p>
                         <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.</p>
-                        <p><b>Formula</b>: (x ^ (5 * A)), where x is original bonus in precentage (overrides Heavy Avalanche)</p>
+                        <p><b>Formula</b>: (x ^ (5 * A)), where x is original bonus in percentage (overrides Heavy Avalanche)</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <hr>
@@ -1752,9 +1752,9 @@
                         <p>Each resource will be used to feed a single monster, which will gain levels as it grows. At levels 1, 10, 25 and 50 each monster will grant you new perks, including new unique spells and upgrades. You will be able to gain advantage of one single monster at a time, but they can be toggled on and off on the fly in the Event panel.</p>
                         <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.</p>
                         <hr>
-                        <p><b><center><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Pumkin Smasher</center></b></p>
+                        <p><b><center><img src="/realm/Factions/picks/MainPumpkin.png" alt="Halloween" align="middle"> Pumpkin Smasher</center></b></p>
                         <p>You will get a Pumpkin Smasher once a day (1:01PM UTC Time). (8 Total)</p>
-                        <p>Each Pumkin Smasher includes 75 of each resources (Added to total), 1 Ruby and 1 of 3 Monster (<b>Skeleton</b>, <b>Ghost</b> and <b>Vampire</b>) if you are missing any.</p>
+                        <p>Each Pumpkin Smasher includes 75 of each resources (Added to total), 1 Ruby and 1 of 3 Monster (<b>Skeleton</b>, <b>Ghost</b> and <b>Vampire</b>) if you are missing any.</p>
                         <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
                         <p><b>Note</b>: You need to click on monster to activate it and get the Crucible Of Darkness upgrade.</p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -2433,7 +2433,7 @@
                         <br>
                         <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 720 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
                         <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
-                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reincarnation.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
                         <p><b>Cost</b>: 200 Holy Symbols</p>
@@ -2463,7 +2463,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existence is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -2789,7 +2789,7 @@
                         <p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
                         <br/>
                         <p><b><img src="/realm/Factions/picks/FairyLove.png" align="middle"> Fairy Love</b></p>
-                        <p><b>Requirement</b>: While affiliated with the faries, click 1000 times during the Valentine event.</p>
+                        <p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
                         <p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <hr>
                         <p><b>Shop</b></p>
@@ -2820,7 +2820,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -2831,7 +2831,7 @@
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.</p>
                         <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.</p>
-                        <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
+                        <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in percentage.</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <br/>
@@ -2840,7 +2840,7 @@
                         <p><b>Requirement</b>: Play during the Christmas Event, R40+.</p>
                         <p><b>Cost</b>: 5000 Snowballs</p>
                         <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.</p>
-                        <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in precentage</p>
+                        <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in percentage</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <br/>
@@ -2849,7 +2849,7 @@
                         <p><b>Requirement</b>: Play during the Christmas Event, R100+.</p>
                         <p><b>Cost</b>: 10000 Snowballs</p>
                         <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.</p>
-                        <p><b>Formula</b>: (x ^ (5 * A)), where x is original bonus in precentage (overrides Heavy Avalanche)</p>
+                        <p><b>Formula</b>: (x ^ (5 * A)), where x is original bonus in percentage (overrides Heavy Avalanche)</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <hr>
@@ -3012,9 +3012,9 @@
                         <p>Each resource will be used to feed a single monster, which will gain levels as it grows. At levels 1, 10, 25 and 50 each monster will grant you new perks, including new unique spells and upgrades. You will be able to gain advantage of one single monster at a time, but they can be toggled on and off on the fly in the Event panel.</p>
                         <p>Scrying will add 1 of each to your total (not your stack) every 15 minutes for 4 hours.</p>
                         <hr>
-                        <p><b><center><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Pumkin Smasher</center></b></p>
+                        <p><b><center><img src="/realm/Factions/picks/MainPumpkin.png" alt="Halloween" align="middle"> Pumpkin Smasher</center></b></p>
                         <p>You will get a Pumpkin Smasher once a day (1:01PM UTC Time). (8 Total)</p>
-                        <p>Each Pumkin Smasher includes 75 of each resources (Added to total), 1 Ruby and 1 of 3 Monster (<b>Skeleton</b>, <b>Ghost</b> and <b>Vampire</b>) if you are missing any.</p>
+                        <p>Each Pumpkin Smasher includes 75 of each resources (Added to total), 1 Ruby and 1 of 3 Monster (<b>Skeleton</b>, <b>Ghost</b> and <b>Vampire</b>) if you are missing any.</p>
                         <p>The first Pumpkin Smasher also gives <b><img src="/realm/Factions/picks/CrucibleOfDarkness.png" alt="CrucibleOfDarkness" align="middle"> Crucible Of Darkness</b></p>
                         <p><b>Note</b>: You need to click on monster to activate it and get the Crucible Of Darkness upgrade.</p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -3667,7 +3667,7 @@
                         <br>
                         <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 720 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
                         <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
-                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reincarnation.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
                         <p><b>Cost</b>: 200 Holy Symbols</p>
@@ -3697,7 +3697,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existence is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -4035,7 +4035,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -4046,7 +4046,7 @@
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.</p>
                         <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.</p>
-                        <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
+                        <p><b>Formula</b>: (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in percentage.</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <br/>
@@ -4055,7 +4055,7 @@
                         <p><b>Requirement</b>: Play during the Christmas Event, R40+.</p>
                         <p><b>Cost</b>: 5000 Snowballs</p>
                         <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.</p>
-                        <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in precentage</p>
+                        <p><b>Formula</b>: (x ^ (2.5 * A)), where x is original bonus in percentage</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <br/>
@@ -4064,7 +4064,7 @@
                         <p><b>Requirement</b>: Play during the Christmas Event, R100+.</p>
                         <p><b>Cost</b>: 10000 Snowballs</p>
                         <p><b>Effect</b>: Improve the effect of Avalanche for higher Ascensions.</p>
-                        <p><b>Formula</b>: (x ^ (5 * A)), where x is original bonus in precentage (overrides Heavy Avalanche)</p>
+                        <p><b>Formula</b>: (x ^ (5 * A)), where x is original bonus in percentage (overrides Heavy Avalanche)</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <hr>
@@ -4167,7 +4167,7 @@
                     <div class="autohide">
                         <p>The Thanksgiving event will be starting on <b>Nov 30th 2018, 1:01 PM UTC</b> and will end on <b>Dec 4th 2018, 6:59 PM UTC</b>.</p>
                         <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements</p>
-                        <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
+                        <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Category)</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
                         <p><b>Requirement</b>: Play during Thanksgiving</p>
@@ -4187,7 +4187,7 @@
                         <p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
                         <p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Halloween</b></p>
+                        <p><b><img src="/realm/Factions/picks/MainPumpkin.png" alt="Halloween" align="middle"> Halloween</b></p>
                         <hr>
                         <p>You will get a Pumpkin Smasher once a day (1:01PM UTC Time).</p>
                         <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.</p>
@@ -4655,7 +4655,7 @@
                         <p><b><img src="/realm/Factions/picks/LavaStones2017.png" alt="Lava Stones" align="middle"> Lava Stones</b></p>
                         <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 480 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
                         <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
-                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reincarnation.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
                         <p><b>Cost</b>: 200 Holy Symbols</p>
@@ -4682,7 +4682,7 @@
                         <hr>
                         <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                         <p><b>Cost</b>: 200 Lava Stones</p>
-                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                        <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existence is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                         <br/>
                         <p><b>Asmodean Quest</b></p>
                         <p><b>Asmodean Champion 1</b></p>
@@ -4981,7 +4981,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -4992,8 +4992,8 @@
                         <p><b>Cost</b>: Free</p>
                         <p><b>Effect</b>: Increase the production of all buildings based on the amount of snowballs collected.</p>
                         <p><b>Formula</b>: (0.8 * (s / 35) + -0.006 * (s / 35)^2 + 0.00004 * (s / 35)^3)% (max 100000% bonus), where s is amount of collected snowballs.</p>
-                        <p><b>Note</b>: Ascension penalty for this upgrade is bugged and applies to the precentage rather than to the multiplier.</p>
-                        <p><b>Formula</b>: final bonus multiplier = 1 + 0.01 * (x ^ (0.1 ^ A)) instead of (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in precentage.</p>
+                        <p><b>Note</b>: Ascension penalty for this upgrade is bugged and applies to the percentage rather than to the multiplier.</p>
+                        <p><b>Formula</b>: final bonus multiplier = 1 + 0.01 * (x ^ (0.1 ^ A)) instead of (1 + 0.01 * x) ^ (0.1 ^ A) where A is ascension and x is avalanche formula in percentage.</p>
                         <p><b>Note</b>: Persists through Abdications and Reincarnations.</p>
                         <p><b>Note</b>: Upgrade will disappear at the end of the current event.</p>
                         <p><b><img src="/realm/Factions/picks/HeavyAvalanche2017.png" alt="Avalanche" align="middle"> Heavy Avalanche</b></p>
@@ -5101,7 +5101,7 @@
                         <hr>
                         <p><b>Thanksgiving</b></p>
                         <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements</p>
-                        <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
+                        <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Category)</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
                         <p><b>Requirement</b>: Play during Thanksgiving</p>
@@ -5121,7 +5121,7 @@
                         <p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
                         <p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Halloween</b></p>
+                        <p><b><img src="/realm/Factions/picks/MainPumpkin.png" alt="Halloween" align="middle"> Halloween</b></p>
                         <hr>
                         <p>You will get a Pumpkin Smasher once a day (1:01PM UTC Time).</p>
                         <p>You will also get some 75 of each resources and a Ruby with each Pumpkin Smasher.</p>
@@ -5517,7 +5517,7 @@
                         <p><b><img src="/realm/Factions/picks/LavaStones2017.png" alt="Lava Stones" align="middle"> Lava Stones</b></p>
                         <p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 480 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
                         <p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
-                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reicarnation.</p>
+                        <p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reincarnation.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
                         <p><b>Cost</b>: 200 Holy Symbols
@@ -5544,7 +5544,7 @@
                             <hr>
                             <p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
                             <p><b>Cost</b>: 200 Lava Stones</p>
-                            <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existance is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+                            <p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existence is a pain to see and hear. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
                             <br/>
                             <p><b>Asmodean Quest</b></p>
                             <p><b>Asmodean Champion 1</b></p>
@@ -5599,7 +5599,7 @@
                         <p>Paste your Export in the <a target="_blank" href="http://dox4242.github.io/mri/index.html"><b>Meggnetic Resonance Imager</a></b> to see when you will get your next Unique Egg.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/EventResourceEaster2017.png" alt="Blue Omelette" align="middle"> Event Resource</b></p>
-                        <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 480 Eggs! Eggs are devided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
+                        <p>Eggs will appear on a random location of the game screen and you simply have to click to collect them, then wait for another Egg to appear. Or, you can let them grow bigger over time (at a rate of 1 Egg per minute) if you are idle or offline- up to a maximum size of 480 Eggs! Eggs are divided into Common, Rare and Unique Eggs, and each time you collect them you will get random types based on their rarity. Each time you find or buy a Unique Egg, you also gain 1 free Ruby!</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/BlueOmeletteEaster2017.png" alt="Blue Omelette" align="middle"> Blue Omelette</b></p>
                         <p><b>Kind</b>: Upgrade</p>
@@ -5804,7 +5804,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day, you will also receive a Christmas Present (image) containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents containes 1 Ruby and 200 or 500 Snowballs</p>
+                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby and 200 or 500 Snowballs</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -5889,7 +5889,7 @@
                         <p>Thanksgiving & Black Friday Sale Guide.</p>
                         <p>The main feature of the Thanksgiving & Black Friday Sale is a 50% discount on Gifts of the Heroes in the shop, but you will also get a new feat and a unique upgrade for the duration of the event. Look for it in your Upgrades panel!.</p>
                         <p>Remember that all Thanksgiving upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements</p>
-                        <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Catagory)</p>
+                        <p><b>Note</b>: If you don't get the upgrade go to settings and un x (Dont Group Upgrades by Category)</p>
                         <p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
                         <p><b>Kind</b>: Upgrade/Feat</p>
                         <p><b>Requirement</b>: Play during Thanksgiving</p>
@@ -5910,7 +5910,7 @@
                         <p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
                         <p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
                         <hr>
-                        <p><b><img src="/realm/Factions/picks/MainPumkin.png" alt="Halloween" align="middle"> Halloween</b></p>
+                        <p><b><img src="/realm/Factions/picks/MainPumpkin.png" alt="Halloween" align="middle"> Halloween</b></p>
                         <hr>
                         <p>You will get a Pumpkin Smasher once a day (1:01 UTC Time).</p>
                         <p>You will also get some resources and a gift (Ruby?) with each Pumpkin Smasher.</p>
@@ -6396,5 +6396,5 @@
         <p><b>Formula</b>: (0.5 * (2 - x + x^2))%, where x is is the number of quests completed in the series.</p>
         <p>Players who participate in all our Events will be rewarded with a greater cumulative bonus.</p>
         <p><b>Event Announcements</b></p>
-        <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="https://www.divinegames.it/discuss/viewtopic.php?id=395">Realm Grinder forums Developer Diary</a> at divinegames.it. 
+        <p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="https://www.divinegames.it/discuss/viewtopic.php?id=395">Realm Grinder forums Developer Diary</a> at divinegames.it.
         <?php include "../scripts/footer.html"; ?>

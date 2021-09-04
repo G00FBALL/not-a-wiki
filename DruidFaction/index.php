@@ -76,7 +76,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlyBondFactionUpgrade.png" align="middle"> Earthly Bond</b></p>
         <p><b>Cost</b>: 5 Sp (5e24)</p>
         <p><b>Effect</b>: Increase maximum Mana additively based on the highest amount of Stone Pillars built in this Reincarnation.</p>
-        <p><b>Formula</b>: +(2 * x), where x is the highest anount of Stone Pillars built this Reincarnation.</p>
+        <p><b>Formula</b>: +(2 * x), where x is the highest amount of Stone Pillars built this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BardicKnowledgeFactionUpgrade.png" align="middle"> Bardic Knowledge</b></p>
         <p><b>Cost</b>: 50 Sp (5e25)</p>
@@ -101,7 +101,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthlySoulFactionUpgrade.png" align="middle"> Earthly Soul</b></p>
         <p><b>Cost</b>: 500 Oc (5e29)</p>
         <p><b>Effect</b>: Increase Mana Regeneration additively based on the highest amount of Stone Pillars you built in this Reincarnation.</p>
-        <p><b>Formula</b>: +(x ^ 0.25), where x is the highest anount of Stone Pillars you built this Reincarnation.</p>
+        <p><b>Formula</b>: +(x ^ 0.25), where x is the highest amount of Stone Pillars you built this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png" align="middle"> Building Jungle</b></p>
         <p><b>Cost</b>: 5 No (5e30)</p>

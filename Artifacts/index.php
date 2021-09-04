@@ -28,9 +28,9 @@
 		<p>The <b>excavation cost multiplier</b> is equal to:<br>
 		   - A0: (1 + 0.2 - C), where C is the sum of your flat cost reduction upgrades (such as DN8 or E290).<br>
 		   - A1+: (1 + (0.2 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
-		<p>Everytime you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
+		<p>Every time you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
         <p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x-1) ^ 2.75), where x is the number of excavations you have.</p>
-		<p></b>Note: Everytime you reincarnate or ascend, your excavation counter will be set back to zero.</p>
+		<p></b>Note: Every time you reincarnate or ascend, your excavation counter will be set back to zero.</p>
         <hr>
 		<p><b>Excavation Reset</b></p>
 		<p>To be able to do more excavations within a Reincarnation you can do an Excavation Reset, which also sets the counter back to zero. There are two options:<br>Ruby Reset and Free Reset.</p>
@@ -378,7 +378,7 @@
 			<area research="
 		<p><img src='http://musicfamily.org/realm/Factions/picks/Octopus-shapedHelmet.png' align='middle'><b> Octopus-shaped Helmet</b></p>
 		<p><b>Clue</b>: Found in the Labyrinths.</p>
-		<p><b>Description</b>: A large helmet with empty metal prongs to accomodate tentacular appendages.</p>
+		<p><b>Description</b>: A large helmet with empty metal prongs to accommodate tentacular appendages.</p>
 		<p><b>Requirement</b>: Faceless Faction (Not Dragon)</p>
 		<p><b>Chance</b>: (x / 2,000)%, where x is the amount of Labyrinths you own.</p>
 			" coords="63,223,116,276" shape="rect">

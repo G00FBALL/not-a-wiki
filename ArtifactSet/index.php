@@ -80,7 +80,7 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DruidSet.png' align='middle'><b> Druid Set</b></p>
 			<p><b>Requirement</b>: R100+, Glyph Table, Stone Of Balance, Branch of the Life Tree</p>
 			<p><b>Effect</b>: Increase the duration of each spell based on their respective activity time (This Game).</p>
-			<p><b>Formula</b>: (x ^ 0.5)%, where x is each invididual spell's activity time This Game in seconds.</p>
+			<p><b>Formula</b>: (x ^ 0.5)%, where x is each individual spell's activity time This Game in seconds.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Primal Leaf</p>
 			<p><b>Effect</b>: Lineage levels count more based on spell casts in this game.</p>
 			<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 1.5)%, where x is spell casts this game.</p>
@@ -190,7 +190,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DruidSet.png" align="middle"><b> Druid Set</b></p>
 		<p><b>Requirement</b>: R100+, Glyph Table, Stone Of Balance, Branch of the Life Tree</p>
 		<p><b>Effect</b>: Increase the duration of each spell based on their respective activity time (This Game).</p>
-		<p><b>Formula</b>: (x ^ 0.5)%, where x is each invididual spell's activity time This Game in seconds.</p>
+		<p><b>Formula</b>: (x ^ 0.5)%, where x is each individual spell's activity time This Game in seconds.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Primal Leaf</p>
 		<p><b>Effect</b>: Lineage levels count more based on spell casts in this game.</p>
 		<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 1.5)%, where x is spell casts this game.</p>

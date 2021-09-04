@@ -7,7 +7,7 @@
     <p>As a general Rule: All builds were tested without Sunforce, if not stated otherwise. All builds had access to all relevant trophies, challenges and artifacts. Only the fastest build for each bracket made it into this, but every combination that looked useful (and even some others) was tested.</p>
 	<p>Vanilla Flavor Juice and Ancient Cocoa Bean are required.</p>
     <p>All of the builds are rush builds with under 25 minutes (vanilla) or 15 minutes (neutral) runtime due to the above artifacts.</p>
-    <p>If you arent doing so already, spend your offline or idle time as Druid (2 days of Druid time will make your life much easier in R28+, because it will unlock the strongest research avaiable to you)</p>
+    <p>If you aren't doing so already, spend your offline or idle time as Druid (2 days of Druid time will make your life much easier in R28+, because it will unlock the strongest research available to you)</p>
     <p>Focus on getting Vanilla Flavor Juice, Sunforce and other easy Lore artifacts with excavs (Up to R19: After getting the RPs with them)</p>
     <p>After you unlock E290, make sure to do a last excavation run with it prior to reincarnating</p>
     <div class="shlisting">
@@ -297,7 +297,7 @@
 					<p><b>Note</b>: Import build again after buying Ancient device to buy additional researches.</p>
 					<p><b>Note</b>: Optionally, swap D200->D400.</p>
                 </div>
-            </div>	
+            </div>
 			<div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="Navy">Druid R28-R29 (A400)</font></a></b></p>
                 <div class="autohide">
@@ -324,7 +324,7 @@
 					<p><b>Note</b>: Import build again after buying Ancient device to buy additional researches.</p>
 					<p><b>Note</b>: Optionally, swap D200->D400.</p>
                 </div>
-            </div>			
+            </div>
         </div>
     </div>
     <p><b>Important for R29</b>: Earth Core quest artifact and Secrets of the Underworld is required to unlock Prestige research. <b><font color="DarkRed">DO NOT reincarnate into R30 before you buy Secret of The Underworld.<font></b></p>

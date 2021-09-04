@@ -865,7 +865,7 @@
                     <p><a target="" href="http://musicfamily.org/realm/Artifacts/"><b>Artifacts Page</b></a></p>
                     <p><b>Added</b>: 10 Artifacts, 9 that unlock Faction Sets</p>
                     <p><b>Changed</b>: 1 Artifact</p>
-                    <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunckArtifact.png" alt="Wall Chunck" align="middle"><b> Wall Chunk</b></p>
+                    <p><img src="http://musicfamily.org/realm/Factions/picks/WallChunkArtifact.png" alt="Wall Chunk" align="middle"><b> Wall Chunk</b></p>
                     <p><b>Description</b>: A bigger piece of the infamous Ascension Wall.</p>
                     <p><b>Requirements</b>: R100+</p>
                     <p><b>Chance</b>: 10%</p>
@@ -1104,7 +1104,7 @@
                     <p><b>Cost</b>: 10 Spvg (1e85) Emerald Coins</p>
                     <p><b>Requirement</b>: Undead Union</p>
                     <p><b>Effect</b>: Gain assistants based on the total amount of time spent offline. (This R)</p>
-                    <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time thie R.</p>
+                    <p><b>Formula</b>: (0.7 * x ^ 0.7), where x is offline time this R.</p>
                     <br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/EternalServitude.png" alt="Eternal Servitude" align="middle"> <b>Eternal Servitude</b></p>
                     <p><b>Cost</b>: 10 Dtg (1e00) Emerald Coins</p>

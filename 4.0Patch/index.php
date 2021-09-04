@@ -26,7 +26,7 @@
 	<p><b>Union</b>: 1 Dc (1e33)</p>
 <br/>
 <p><b>Faction Upgrades now cost Sapphire Coin</b>.</p>
-	<p><b>Cost Formula</b>: (1e51 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>	
+	<p><b>Cost Formula</b>: (1e51 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>
 	<table class="numtable">
 		<tr>
 			<th>Faction Upgrade</th>
@@ -80,12 +80,12 @@
 			<td>12</td>
 			<td>1e102</td>
 		</tr>
-		
+
 	</table>
-<br/>	
+<br/>
 <p><b>New Upgrade</b>:<img src="http://musicfamily.org/realm/Factions/picks/LegacyContainer.png" align="middle"> <b>Legacy</b>.</p>
 	<p><b>Effect</b>: Choose a Legacy (set of 3 faction upgrades of the same tier) that doesn't match your current faction. You can purchase more Legacies for a progressively increasing cost.</p>
-	<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>	
+	<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 	<p><b>Faction Coin Cost</b>: (1e33 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
 	<table class="numtable">
 		<tr>
@@ -117,13 +117,13 @@
 <hr>
 <p><b>A4 Research</b></p>
 <p><b>All researches under 5000 point will be unavailable</b>.</p>
-<p><b>Research Budget</b>: Budget is further increased by 2,000 for every Treaty, Friendship Pact, Alliance and Union bought.</p>	
+<p><b>Research Budget</b>: Budget is further increased by 2,000 for every Treaty, Friendship Pact, Alliance and Union bought.</p>
 <p><b>Research Points</b>: Now capped at 12,000.</p>
-	<p><b>Coin Cost</b>: (1.4 ^ (0.1 * RP - 7000))</p>	
-	<p><b>Faction Coin Cost</b>: (10 * 1.15 ^ (0.03 * RP))</p>	
-<br/>	
+	<p><b>Coin Cost</b>: (1.4 ^ (0.1 * RP - 7000))</p>
+	<p><b>Faction Coin Cost</b>: (10 * 1.15 ^ (0.03 * RP))</p>
+<br/>
 <p><b>New Researches</b></p>
-<p><b>Spellcraft</b></p>	
+<p><b>Spellcraft</b></p>
 <p><b>S10875</b> (Encompass)</p>
 	<p><b>Effect</b>: Increase Maximum Mana based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
 	<p><b>Formula</b>: +(15 * ln(1 + x) ^ 3), where x is your highest max mana this R.</p>
@@ -139,8 +139,8 @@
 <p><b>S11625</b> (Completeness)</p>
 	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of Trophies you unlocked.</p>
 	<p><b>Formula</b>: (1.5 * x ^ 0.5)%, where x is the amount of Trophies you unlocked.</p>
-<br/>	
-<p><b>Craftsmanship</b></p>	
+<br/>
+<p><b>Craftsmanship</b></p>
 <p><b>C10875</b> (Masterpiece)</p>
 	<p><b>Effect</b>: Increase Faction Coin find chance based on Excavation Resets made in this Reincarnation (Multiplicative).</p>
 	<p><b>Formula</b>: (2 * x ^ 2)%, where x is excavation resets this R.</p>
@@ -157,8 +157,8 @@
 	<p><b>Effect</b>: Autoclicks x times per second based on Clicks made in this Reincarnation.</p>
 	<p><b>Formula</b>: x = floor(ln(1 + y)), where y is productive clicks this R.</p>
 	<p><b>Effect</b>: Also generates the same amount of clicks while offline.</p>
-<br/>	
-<p><b>Divine</b></p>	
+<br/>
+<p><b>Divine</b></p>
 <p><b>D10875</b> (Scriptures)</p>
 	<p><b>Effect</b>: Increase all spells’ durations based on time spent with their respective requirement.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent in seconds with the faction or alignment that unlocks the spells.</p>
@@ -176,8 +176,8 @@
 <p><b>D11625</b> (Compassion)</p>
 	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on time spent with your least used alignment in this Reincarnation.</p>
 	<p><b>Formula</b>: (50 + x ^ 0.75)%, where x is time spent as the least used alignment this R.</p>
-<br/>	
-<p><b>Economics</b></p>	
+<br/>
+<p><b>Economics</b></p>
 <p><b>E10875</b> (Rigmarole)</p>
 	<p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of assistants you had in this Reincarnation (Additive).</p>
 	<p><b>Formula</b>: +(ln(1 + x) ^ 2)%, where x is your highest assistants count this R.</p>
@@ -193,8 +193,8 @@
 <p><b>E11625</b> (Surplus)</p>
 	<p><b>Effect</b>: Multiplicatively increase assistants based on the amount of Gems you have.</p>
 	<p><b>Formula</b>: (25 + 0.25 * ln(1 + x) ^ 1.5)%, where x is the amount of Gems you have.</p>
-<br/>	
-<p><b>Alchemy</b></p>	
+<br/>
+<p><b>Alchemy</b></p>
 <p><b>A10875</b> (Toxicity)</p>
 	<p><b>Effect</b>: Multiplicatively increase mana regeneration based on time spent with the faction opposite to your current one, in this Reincarnation.</p>
 	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is time spent with opposite-alignment faction this R.</p>
@@ -211,8 +211,8 @@
 <p><b>A11625</b> (Anima Mundi)</p>
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins found in this Reincarnation.</p>
 	<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2)%, where x is factiom coins found this R</p>
-<br/>	
-<p><b>Warfare</b></p>	
+<br/>
+<p><b>Warfare</b></p>
 <p><b>W10875</b> (Revolution)</p>
 	<p><b>Effect</b>: Gain assistants based on Royal Exchanges made.</p>
 	<p><b>Formula</b>: +(x ^ 0.75), where x is royal exchanges made.</p>
@@ -228,8 +228,8 @@
 <p><b>W11625</b> (Genocide)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used faction.</p>
 	<p><b>Formula</b>: (50 + x ^ 0.85)%, where x is time spent with the least used faction this R in seconds.</p>
-<br/>	
-<p><b>Forbidden</b></p>	
+<br/>
+<p><b>Forbidden</b></p>
 <p><b>F11000</b> (Godslaying)</p>
 	<p><b>Effect</b>: Active spells count more based on the sum of your Faction spells activity time.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your current faction(s)’ faction spell activity time this R in seconds.</p>
@@ -246,7 +246,7 @@
 	<p><b>Effect</b>: You can purchase one Legacy of your choice for free.</p>
 	<p><b>Note</b>: This will not increase the cost of the normal Legacy.</p>
 <hr>
-<p><b>9 New Lore Artifacts</b>: 1 for each base faction, unlocking their set's second effect</p>	
+<p><b>9 New Lore Artifacts</b>: 1 for each base faction, unlocking their set's second effect</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/GlowingWingArtifact.png" align="middle"> Glowing Wing</b></p>
 	<p><b>Hint</b>: Mana Wings!</p>
 	<p><b>Description</b>: And this is why Fairies don't need torches.</p>
@@ -278,7 +278,7 @@
 	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Goblin</p>
 	<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is TC casts this game</p>
 	<p><b>Goblin Set 2nd effect</b>: Each time you cast a spell, you also cast free Tax Collections based on time spent in this game.</p>
-	<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>	
+	<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodChaliceArtifact.png" align="middle"> Blood Chalice</b></p>
 	<p><b>Hint</b>: Pour a bottle of Frenzy.</p>
@@ -320,7 +320,7 @@
 	<p><b>Faceless Set 2nd effect</b>: Increases spell duration based on time spent being offline in this game.</p>
 	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is offline time this game.</p>
 <hr>
-<p><b>Balance Changes</b></p> 
+<p><b>Balance Changes</b></p>
 <br/>
 <p><b>Reincarnation Power</b></p>
 <p><b>New Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/Reincarnation_power_upgrade.png" align="middle"> Reincarnation Power 2</p>
@@ -729,8 +729,8 @@
 <br/>
 <p><b>DD4</b> (Earthly Bond)</p>
         <p><b>Old Effect</b>: Increase maximum mana by 2.0 for each Stone Pillars you own.</p>
-        <p><b>New Effect</b>: Increase maximum mana based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
-        <p><b>New Formula</b>: +(2 * x), where x is the highest anount of Stone Pillars you built this R.</p>
+        <p><b>New Effect</b>: Increase maximum mana based on the highest amount of Stone Pillars you built in this Reincarnation.</p>
+        <p><b>New Formula</b>: +(2 * x), where x is the highest amount of Stone Pillars you built this R.</p>
 <br/>
 <p><b>DD5</b> (Bardic Knowledge)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on your maximum mana.</p>
@@ -746,8 +746,8 @@
 <p><b>DD8</b> (Earthly Soul)</p>
         <p><b>Old Effect</b>: Stone Pillars also increase your mana regeneration rate.</p>
 		<p><b>Old Formula</b>: +(x ^ 0.25), where x is Stone Pillars.</p>
-        <p><b>New Effect</b>: Increase mana regeneration based on the highest anount of Stone Pillars you built in this Reincarnation.</p>
-        <p><b>New Formula</b>: +(x ^ 0.25), where x is the highest anount of Stone Pillars you built this R.</p>
+        <p><b>New Effect</b>: Increase mana regeneration based on the highest amount of Stone Pillars you built in this Reincarnation.</p>
+        <p><b>New Formula</b>: +(x ^ 0.25), where x is the highest amount of Stone Pillars you built this R.</p>
 <br/>
 <p><b>DD9</b> (Building Jungle)</p>
         <p><b>Old Effect</b>: Increase the production of each building by 1.75% per building of the same type.</p>
@@ -937,8 +937,8 @@
 <br/>
 <p><b>Faceless Union</b></p>
         <p><b>Effect</b>: Increase assistants additively based on amount of time spent as a random faction. Updates every 3 minutes.</p>
-	<p><b>Old Formula</b>: +(60 * x ^ 0.6), where x is a random faction's playtime accross all Rs in seconds.</p>
-        <p><b>New Formula</b>: +(65 * x ^ 0.5), where x is a random faction's playtime accross all Rs in seconds.</p>
+	<p><b>Old Formula</b>: +(60 * x ^ 0.6), where x is a random faction's playtime across all Rs in seconds.</p>
+        <p><b>New Formula</b>: +(65 * x ^ 0.5), where x is a random faction's playtime across all Rs in seconds.</p>
 <hr>
 <p><b>Spells and Spell Upgrades</b></p>
 <p><b>Lightning Strike</b> (Titans)</p>
@@ -947,31 +947,31 @@
 	<p><b>Old Effect</b>: The production of a random building is multiplied by 300% for each Iron Stronghold.</p>
 	<p><b>New Effect</b>: The production of a random building is multiplied by 500% for each Iron Stronghold.</p>
 	<p><b>Old Effect</b>: Also grants Faction Coins based on your current amount of gems.<p>
-	<p><b>Old Formula</b>: round(1.5 * ln(1 + x) ^ 3) where x is your current amount of gems.</p>	
-	<p><b>New Effect</b>: Also multiplicatively increase Faction Coins find chance based on your current amount of gems.</p>		
+	<p><b>Old Formula</b>: round(1.5 * ln(1 + x) ^ 3) where x is your current amount of gems.</p>
+	<p><b>New Effect</b>: Also multiplicatively increase Faction Coins find chance based on your current amount of gems.</p>
 	<p><b>New Formula</b>: (10 + log10(1 + x) ^ 2) where x is your current amount of gems.</p>
 <br/>
 <p><b>Share Benefits</b> (Good Mercenaries)</p>
 	<p><b>Duration reduced</b>: Now fixed at 20 seconds.</p>
         <p><b>Effect</b>: Increases the production of all buildings based on this spell tier level.</p>
-	<p><b>Old Formula</b>: (((2.20 ^ T) - 1) * 100)%, where T is tier.</p>	
+	<p><b>Old Formula</b>: (((2.20 ^ T) - 1) * 100)%, where T is tier.</p>
 	<p><b>New Formula</b>: ((((1 + 0.01 * (120 + 1.25 * ln(1 + 90 + x) ^ 1.25)) ^ T) - 1) * 100)%, where x is tax collection seconds and T is the Share Benefits tier.</p>
         <p><b>New Effect</b>: Now drains an amount of mana equal to its current cost every second</p>
 <br/>
 <p><b>Reap Interests</b> (Evil Mercenaries)</p>
         <p><b>Effect</b>: Additional casts of Reap Interests multiplicatively increase its seconds worth of production.</p>
-	<p><b>Old Formula</b>: *(120000 * log10(8 + 0.125 * x)), where x is amount of Tax Collection / Reap Interests casts.</p>	
+	<p><b>Old Formula</b>: *(120000 * log10(8 + 0.125 * x)), where x is amount of Tax Collection / Reap Interests casts.</p>
 	<p><b>New Formula</b>: *(50000 * log10(8 + 0.1 * x)), where x is amount of Tax Collection / Reap Interests casts.</p>
 <br/>
 <p><b>Temporal Flux</b> (Order Alignment)</p>
         <p><b>Effect</b>: Increase Unique building production by time spent this game.</p>
-	<p><b>Old Formula</b>: (3.5 * (x / 60) ^ 0.825)%, where x is time spent this game in seconds.</p>	
+	<p><b>Old Formula</b>: (3.5 * (x / 60) ^ 0.825)%, where x is time spent this game in seconds.</p>
 	<p><b>New Formula</b>: (3.75 * (x / 60) ^ 0.825)%, where x is time spent this game in seconds.</p>
 	<p><b>Note</b>: Same 1/10 and 1/100 ratio is kept for other Temporal Flux effects</p>
 <br/>
 <p><b>All Creation</b> (Balance Alignment)</p>
         <p><b>Effect</b>: Also multiplicatively increase Faction Coin find chance based on your mana regeneration rate.</p>
-	<p><b>Old Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is mana regeneration.</p>	
+	<p><b>Old Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is mana regeneration.</p>
 	<p><b>New Formula</b>: (5 * ln(1 + x) ^ 2.5 + 15 * x ^ 0.15)%, where x is mana regeneration.</p>
 <br/>
 <p><b>Spell Tiers</b></p>
@@ -1367,7 +1367,7 @@
 	<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
 	<p><b>Old Formula</b>: (0.3 * x ^ 0.7)%, where x is your least spent faction time (non-mercenary).</p>
 	<p><b>New Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.</p>
-	<p><b>Note</b>: only considers time spent with factions that are avaliable at the given game stage.</p>
+	<p><b>Note</b>: only considers time spent with factions that are available at the given game stage.</p>
 <br/>
 <p><b>D5875</b> (Birthright)</p>
 	<p><b>Old Effect</b>: Gain the Bloodline effects of your least used non-mercenary faction. Based on time (This R), can give any vanilla, prestige or elite bloodline.</p>
@@ -1416,7 +1416,7 @@
 	<p><b>Effect</b>: Increase all spells duration based on spell casts in this game.</p>
 	<p><b>Old Formula</b>: (ln(1 + x) ^ 1.85)%, where x is spell casts this game.</p>
 	<p><b>New Formula</b>: (ln(1 + x) ^ 1.8)%, where x is spell casts this game.</p>
-<br/>	
+<br/>
 <p><b>Warfare</b></p>
 <p><b>W175</b> (Overwhelm)</p>
 	<p><b>Effect</b>: You gain additional assistants based on total amount of evil spells cast.</p>
@@ -1596,7 +1596,7 @@
 	<p><b>Old Effect</b>: Increase the production of all buildings based on their quantity.</p>
 	<p><b>Old Formula</b>: (0.8 * x ^ 0.7)%, where x is building count.</p>
 	<p><b>New Effect</b>: Increase the duration of each spell based on their respective activity time (This Game).</p>
-	<p><b>New Formula</b>: (x ^ 0.5)%, where x is each invididual spell's activity time This Game in seconds.</p>
+	<p><b>New Formula</b>: (x ^ 0.5)%, where x is each individual spell's activity time This Game in seconds.</p>
 <br/>
 <p><b>Faceless Set</b></p>
 	<p><b>Effect</b>: Gain assistants based on the highest amount of assistants you had in a previous game (additively).</p>

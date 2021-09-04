@@ -307,7 +307,7 @@
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersLineagePerk2.png" align="middle"> Makers Perk 2</b></p>
                     <p><b>Requirements</b>: Reach Lineage Level 15.</p>
                     <p><b>Effect</b>: Unlocks Makers Lineage Challenge.</p>
-                    <p><b>Challenge</b>: Have atleast 350000 buildings within 45 seconds of a new run.</p>
+                    <p><b>Challenge</b>: Have at least 350000 buildings within 45 seconds of a new run.</p>
                     <p><b>Effect</b>: Unlocks Faction spell. (Infinite Spiral).</p>
                     <br/>
                     <p><b>Level 20</b></p>

@@ -147,7 +147,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PavilionUpgrade.png" align="middle"> Unique Building Upgrade</b></p>
         <p><b>Requirements</b>: Pavilion Quest.</p>
         <p><b>Cost</b>: 1 QiQig (1e168)</p>
-        <p><b>Effect</b>: Gives Pavillion Unique Building.</p>
+        <p><b>Effect</b>: Gives Pavilion Unique Building.</p>
         <br/>
         <p><b>Unique Building</b></p>
         <p><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></p>

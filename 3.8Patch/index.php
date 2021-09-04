@@ -120,7 +120,7 @@
 <br/>
 <p><b>Faceless</b></p>
 <p><b>Faceless Challenge 2</b> (Mystic Maze)</p>
-<p><b>Old Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manualy buying any at all.</p>
+<p><b>Old Challenge</b>: Get 1000 Labyrinths (Sunken Cities) using Faceless (1,1) Territorial Expanse and not manually buying any at all.</p>
 <p><b>New Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
 <hr>
 <p><b>More Research Hints</b></p>

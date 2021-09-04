@@ -14,8 +14,8 @@
                     <p><b>Christmas Event</b>: Will start Dec 21, 2018</p>
                     <p><b>Added</b>: New feat with new reward</p>
                     <br/>
-                    <p><b>Changed</b>: Heavy Avalanche now (x ^ (2.5 * A)), where x is original bonus in precentage</p>
-                    <p><b>Changed</b>: Grand Avalanche now (x ^ (5 * A)), where x is original bonus in precentage (overrides Heavy Avalanche)</p>
+                    <p><b>Changed</b>: Heavy Avalanche now (x ^ (2.5 * A)), where x is original bonus in percentage</p>
+                    <p><b>Changed</b>: Grand Avalanche now (x ^ (5 * A)), where x is original bonus in percentage (overrides Heavy Avalanche)</p>
                     <br/>
                     <p><b>Elven Challenge 3</b>: Fixed</p>
                     <br/>

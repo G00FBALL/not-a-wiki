@@ -194,7 +194,7 @@
 					<p><b>Formula</b>: (100,000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
 					<br/>
                     <p><img src="http://musicfamily.org/realm/Factions/picks/Divine.png" alt="Divine" align="middle"> <b>Divine</b> (R16+)</p>
-                    <p>Harness the power of the eternals, incresing your spell affinity and bestowing Divine power on all your productivity.</p>
+                    <p>Harness the power of the eternals, increasing your spell affinity and bestowing Divine power on all your productivity.</p>
                     <p><b>Effect</b>: Increases <b>Angel</b>, <b>Faceless</b> and <b>Dwarven</b> production.</p>
                     <p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available and also tells you your total research points.</p>
 					<p><b>Research Point Production</b>:</p>
@@ -358,7 +358,7 @@
                         <hr>
                         <h6>Titan</h6>
                         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Titanr1.png" alt="Olympian Halls Quest" align="middle"> Olympian Halls Quest</b></p>
-                        <p>Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accomodate the almighty Titans.</p>
+                        <p>Khaire, ruler. More of our people will join your cause if you build enough Hall of Legends. Our architects will take care of expanding them to accommodate the almighty Titans.</p>
                         <p><b>Requirement</b>: R22+</p>
                         <p><b>Cost</b>: 10 Dtg (1E100)</p>
                         <br/>

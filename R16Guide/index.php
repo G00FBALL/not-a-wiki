@@ -9,7 +9,7 @@
         <div class="autohide">
 <p>So, you got to R16, you got a popup from the advisor, you got the gem requirement, now you are just waiting (im)patiently for me to explain what to do now, unfortunately, I will first explain what exactly are you going to unlock.</p>
 <p>Firstly, <b>Unique Buildings</p></b>
-<p>commonly refered to as UBs, these are an upgrade to a certain building, which is determined by your current faction, which does 2 things, the first is a bonus to that building's production, which scales with a certain stat, and the second is giving you access to Research if you unlocked it for that faction.</p>
+<p>commonly referred to as UBs, these are an upgrade to a certain building, which is determined by your current faction, which does 2 things, the first is a bonus to that building's production, which scales with a certain stat, and the second is giving you access to Research if you unlocked it for that faction.</p>
 <p>In order to unlock a UB you need to have a certain amount of the building that is going to be upgraded and 1e100 coins, currently you can only unlock the ones for the Vanilla factions, but that will change as you progress through the game. (<a href=http://musicfamily.org/realm/UniqueBuilding>This page</a> has a list of the building requirements for all UBs, and the formulas for their upgrades)</p>
 <p>After you unlocked it, you need to upgrade the building each abdication, this costs coins (1e103 (10 Ttg) for Vanilla and Neutral factions) and that means you won't be able to buy UBs at the start of the R. (at least for a while)</p>
 <p>Then, once you have the UB for a faction unlocked, you still need to unlock Research for that faction, Vanilla factions skip this step but they do got something else that need to be done...</p>
@@ -18,7 +18,7 @@
 Also, I'd recommend using the following faction-bloodline combinations to unlock the branches: Elf-Elfline, Fairy-Elfline (Fairy's production is enough, but Elfline provides the FCs needed to avoid using excavs), Angel-Druidline, Undead/Demon/Goblin-Titanline. (Demon and Undead have virtually no FC gain nor production, so they need Titanline for production and excavations for FC, Goblin gets FC from their spell so they only need production)</p>
 <p>Alright, now that you unlocked all branches it is time for yet another explanation, this time about <b>Research Points (RPs) and researches</b>.</p>
 <p>Every branch has a level, that level is called RPs, to get more RPs/level it up, you need to pay FCs of the faction that is related to the branch and coins, depending on the level, RPs are retained through all soft resets, and you can only purchase up to a certain cap, which is increased each R, up to 5000 at R100 (-50 because the devs wanted it to be a round number).*ending note 1</p>
-<p>At certain RP amounts for a branch, you will be able to unlock a research, these are refered to by their number and their branch's letter, for example E50=Economics 50.</p>
+<p>At certain RP amounts for a branch, you will be able to unlock a research, these are referred to by their number and their branch's letter, for example E50=Economics 50.</p>
 <p>Researches are like Merc upgrades, you have a certain amount of slots per branch, and you can pick which ones you want to fill those slots, there will be ways to increase the number of slots you have at each branch, but currently that isn't very important to you. (they also reset each abdication, and have templates, just like Merc)</p>
 <p>The big blocks are where you buy RPs, and where you can see how many RPs and slots you have available for that branch, the small blocks to their right are the researches, a red <font color="darkred">&#10060;</font> means the research is unlocked but can't be used as your current faction, a yellow <font color="yellow">&#63;</font> means you can't unlock the research as this faction, and a green <font color="green">&#10004;</font> means you already chose this research for this abdication.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/bigblockresearch.png"></p>
@@ -194,7 +194,7 @@ div#images div{
 <p>Once you unlock these you will see them in the research tab, pointing to them (ingame) will tell you how many research points you have and how many available slots you have.</p>
 <p><b>Reincarnation</b>: = R, <b>Research Points</b>: = RP</p>
 <p>After you unlock all 6 Research Facilities you can upgrade them with RP.</p>
-<p>You get more RP everytime you R, at R16 you start with 136 RP for each Research Facility then you get more for each R you are at. (R17 you get 17 RP, R18 you get 18 RP and so on) all the way to R100 where RP is capped at 5000.</p>
+<p>You get more RP every time you R, at R16 you start with 136 RP for each Research Facility then you get more for each R you are at. (R17 you get 17 RP, R18 you get 18 RP and so on) all the way to R100 where RP is capped at 5000.</p>
 <p>It cost gold coins and faction coins to raise the RP in each facility.</p>
 <p>RP opens up research that need unlocked, below you will find a list of unlock steps to take for each research.</p>
 <hr>
