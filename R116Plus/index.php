@@ -123,7 +123,7 @@
 			<div class="autohide">
 				<p><b>Author</b>: Enstaffahn, Rellikrellik</p>
 				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e64 (10 Vg) Gems</p>
-				<p><b>Requirment</b>: All Advanced Heritages</p>
+				<p><b>Requirement</b>: All Advanced Heritages</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>

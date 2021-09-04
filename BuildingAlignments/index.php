@@ -57,7 +57,7 @@
 <p><b>Tier 9</b>: First Building : 145 M coins</p>
 <p><b>Tier 10</b>: First Building : 3.2 B coins</p>
 <p><b>Tier 11</b>: First Building : 200 B coins</p>
-<p>Costs for successive bulding in each tier follow a geometric progression, so each building costs a constant factor more than the previous building of that tier.</p>
+<p>Costs for successive building in each tier follow a geometric progression, so each building costs a constant factor more than the previous building of that tier.</p>
 <p><b>Cost Formula for the x-th building in a tier</b>: (B * M ^ (x - 1)), where B is the cost of first building of that tier and M is the building cost multiplier.</p>
 <hr>
 <p><b>Building Cost Multiplier</b></p>

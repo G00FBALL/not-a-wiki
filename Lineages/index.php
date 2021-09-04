@@ -7,7 +7,7 @@
 		<p><b>Requirement</b>: R60+</p>
 		<p>At R60 you will unlock Lineages, which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
 		<p><b>Note</b>: You can not use a Lineage if it matches your faction or its respective prestige faction.</p>
-		<p>Your Lineage is dependant on the Bloodline you chose.</p>
+		<p>Your Lineage is dependent on the Bloodline you chose.</p>
 		<p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used (needs to be bought every Abdication).</p>
 		<p><b>Note</b>: Levels only need to be bought once and persist through Abdications and Reincarnations. When ascending, Lineages are set back to a certain level (if higher) - (see <b><a target="_blank" href="http://musicfamily.org/realm/Ascension/">Ascension</a></b> for more info).</p>
 		<p><b>Note</b>: (R116+) When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>

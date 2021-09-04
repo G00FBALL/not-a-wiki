@@ -16,7 +16,7 @@
                 <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Undead (if avaliable)</p>
+                <p><b>Artifact Set</b>: Undead (if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S50,S3200,C175,C340,D290,E1,E225,E3250,A10,A3400,W25,W205">
@@ -55,7 +55,7 @@
                 <p>A3400,</p>
                 <p>W10,W1375</p>
 				<p><b>Note</b>: Do <b>not</b> autocast Tax Collections once you purchased EL10, Mana is needed for the other spells.</p>
-                <p><b>Note</b>: At e38 (100 Ud) Gems+, swap to S400 and D1375.</p> 
+                <p><b>Note</b>: At e38 (100 Ud) Gems+, swap to S400 and D1375.</p>
 				<p><b>Note</b>: Recommended to buff Uniformity (100%+) and TTC4 (400%+).</p>
 				<p><b>Note</b>: Takes aprox. 10 minutes for SS7.</p>
 				<p><b>Note</b>: Profits from manual clicking.</p>
@@ -107,7 +107,7 @@
                 <p>A3400,</p>
                 <p>W10,W1375</p>
 				<p><b>Note</b>: Do <b>not</b> autocast Tax Collections once you purchased EL10, Mana is needed for the other spells.</p>
-                <p><b>Note</b>: At e40 (100 Ud) Gems+, swap to S400 and D1375.</p> 
+                <p><b>Note</b>: At e40 (100 Ud) Gems+, swap to S400 and D1375.</p>
 				<p><b>Note</b>: Recommended to buff Uniformity (100%+) and TTC4 (400%+).</p>
 				<p><b>Note</b>: Profits from manual clicking.</p>
             </div>
@@ -190,7 +190,7 @@
                 <p><b>Alignment</b>: Good, Chaos</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Undead</p>
-                <p><b>Artifact Set</b>: Faceless, Undead, Druid (From left to right, if avaliable)</p>
+                <p><b>Artifact Set</b>: Faceless, Undead, Druid (From left to right, if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S1,S180,S3200,C10,C400,D225,D290,E50,E1325,A30,A120,W1375">
@@ -212,7 +212,7 @@
                 <p><b>Alignment</b>: Good, Balance</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if avaliable)</p>
+                <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C400,D50,D290,E25,E320,A3400,W10,W1375">
@@ -234,7 +234,7 @@
                 <p><b>Alignment</b>: Good, Order</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Angel (if avaliable)</p>
+                <p><b>Artifact Set</b>: Angel (if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S10,S3200,C25,C330,D1,D175,D290,E1325,A50,A400,W225,W1375">
@@ -257,7 +257,7 @@
                 <p><b>Alignment</b>: Evil, Balance</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Druid (if avaliable)</p>
+                <p><b>Artifact Set</b>: Druid (if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S50,S105,C175,C340,D290,E1,E145,E225,A10,A400,W25,W1375">
@@ -279,7 +279,7 @@
                 <p><b>Alignment</b>: Evil, Order</p>
                 <p><b>Faction</b>: Undead</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Angel, Undead, Faceless (From left to right, if avaliable)</p>
+                <p><b>Artifact Set</b>: Angel, Undead, Faceless (From left to right, if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S225,S3200,C400,D25,D290,E10,E3250,A1,A175,A3400,W50,W205">
@@ -302,7 +302,7 @@
                 <p><b>Alignment</b>: Evil, Chaos</p>
                 <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Undead (if avaliable)</p>
+                <p><b>Artifact Set</b>: Undead (if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S200,C50,C400,D10,D200,E230,E1325,A25,A270,W1,W175,W1275">
@@ -324,7 +324,7 @@
                 <p><b>Alignment</b>: Neutral, Order</p>
                 <p><b>Faction</b>: Titan</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if avaliable)</p>
+                <p><b>Artifact Set</b>: Faceless, Goblin, Druid (From left to right, if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S300,S3200,C251,C375,C400,D290,D350,E275,E1325,A3400,W260,W1375">
@@ -346,7 +346,7 @@
                 <p><b>Alignment</b>: Neutral, Balance</p>
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Goblin</p>
-                <p><b>Artifact Set</b>: Druid (if avaliable)</p>
+                <p><b>Artifact Set</b>: Druid (if available)</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S3200,C300,C340,D150,D275,E135,E260,A251,A375,A400,W350,W1375">

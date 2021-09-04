@@ -450,7 +450,7 @@
 							<td>1 Tg (1e93)</p>A1+ Free</td>
 							<td>Purchase 100 upgrades of each faction (Anything that is faction colored counts) (All Game)</td>
 							<td>When playing as Mercenary: Your mercenary time is multiplied by the number of Bloodline's faction upgrades, divided by twelve, is added as time spent with the Bloodline's Faction.</p>Formula: 0.1*x0.65%, where x is your (adjusted) time spent affiliated with the bloodline's faction in seconds.</p>A1, Increases the production of all buildings based on the time spent with the Bloodline you are using. While you are mercenary, a fraction of the total time spent as mercenary is added to your Bloodstream bonus based on the amount of mercenary upgrades purchased in this game from the faction of the bloodline you are using.</td>
-							<td>Buy at least 100 upgrades from each Faction(All A0 Factions) accross all reincarnations (excluding the Dragon bloodline)</td>
+							<td>Buy at least 100 upgrades from each Faction(All A0 Factions) across all reincarnations (excluding the Dragon bloodline)</td>
 						</tr>
 						<tr>
 							<td>
@@ -947,7 +947,7 @@
 								<p>Formula: (1000 * log10(1 + x)), where x is Mana Regeneration</p>
 								<p>Can not reset spells with a fixed duration.</p>
 							</td>
-							<td>This trophy is avaliable to unlock from R40.</td>
+							<td>This trophy is available to unlock from R40.</td>
 						</tr>
 						<tr>
 							<td>
@@ -955,7 +955,7 @@
 							<td>100 Qid (1e50), A2+ Free</td>
 							<td>Produce 200M mana. (Total this R) </td>
 							<td>Allows you to set the maximum tier you wish to autocast each spell to.</p>Only while offline, increase mana produced by an additional 10% (for a total of 100%) of your mana regeneration per second and your spells cast amount and your spells cast amount multiplicatively based on your offline mana regeneration.</p>Formula: (1000 * log10(1 + x))</td>
-							<td>This trophy is avaliable to unlock from R40. The upgrade unlocks at R42.</td>
+							<td>This trophy is available to unlock from R40. The upgrade unlocks at R42.</td>
 						</tr>
 				</table>
 				<br/>

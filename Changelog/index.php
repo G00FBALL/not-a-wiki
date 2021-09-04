@@ -10,7 +10,7 @@
                 <p><b>Global Reminder</b>: The Summer Event will be starting on Aug 26th 2021, 12.01 PM UTC and will end on Sep 2nd 2021, 6.59 PM UTC.</p>
 				<p>ADDED A NEW SUMMER FESTIVAL FEAT, unlocking a new upgrade.</p>
             </div>
-        </div>	
+        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.1, Jul 19, 2021, Goblin Invasion Event</a></b></p>
             <div class="autohide">
@@ -23,7 +23,7 @@
 				<p>Makers Perk 2 buildings required reduced to 300k.</p>
 				<p>DM2 restored to 4.0 values.</p>
             </div>
-        </div>		
+        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.0, Jun 28, 2021, Legacy Combos</a></b></p>
             <div class="autohide">
@@ -85,7 +85,7 @@
                 <p><b>Global Reminder</b>: The Blood War Event will be starting on May 17th 2021, 12.01 PM UTC and will end on May 21st 2021, 6.59 PM UTC.</p>
 				<p>ADDED A NEW BLOOD WAR FEAT, unlocking a new upgrade.</p>
             </div>
-        </div>		
+        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.2, Mar 25, 2021, Easter Event</a></b></p>
             <div class="autohide">
@@ -99,16 +99,16 @@
 				<p>Fixed Prestige upgrade 10s using a wrong method in their formula.</p>
 				<p>Fixed an issue with high bonus values for Craftsmanship 11625 (Motus Perpetuum).</p>
 				<p>Fixed Perk 5s being advertised at Lineage 45 when they are now unlocked at Lineage 40.</p>
-				<p>Mercenary Challenge 1 now negates all bloodline synergies (for example related to Reincarnation Power 58 and 115).</p>				
+				<p>Mercenary Challenge 1 now negates all bloodline synergies (for example related to Reincarnation Power 58 and 115).</p>
             </div>
-        </div>		
+        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.1, Feb 9, 2021, Valentine Event</a></b></p>
             <div class="autohide">
                 <p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 12st 2021, 1.01 PM UTC and will end on Feb 16th 2021, 7.59 PM UTC.</p>
 				<p>ADDED A NEW VALENTINE FEAT, unlocking a new upgrade.</p>
             </div>
-        </div>			
+        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.0, Dec 16, 2020, Christmas Event</a></b></p>
             <div class="autohide">
@@ -127,14 +127,14 @@
                 <p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 28th 2020, 1.01 PM UTC and will end on Nov 4th 2020, 7.59 PM UTC.</p>
 				<p>ADDED A NEW HALLOWEEN FEAT, unlocking a new upgrade.</p>
             </div>
-        </div>	
+        </div>
 		<div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.3, Sep 18, 2020, Idillium Event</a></b></p>
             <div class="autohide">
                 <p><b>Global Reminder</b>: The Idillium Event will be starting on Sep 23th 2020, 12.01 PM UTC and will end on Sep 30th 2020, 6.59 PM UTC.</p>
 				<p>ADDED A NEW IDILLIUM FEAT, unlocking a new upgrade.</p>
             </div>
-        </div>	
+        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v3.8.2, Jul 17, 2020, Summer Event</a></b></p>
             <div class="autohide">
@@ -1463,7 +1463,7 @@
                 <p>1.6.55 On June 30TH 2016 Realm Grinder will launch a major update which will change all the user interface and graphics.</p>
                 <p>In the new game screen you will be able to see your realm growing in the background with a unique theme for each alignment and ubique faction monuments,while the UI has been made more intuitive, easier and quicker to use and will provide more room for new elements - such as new spells - in future updates.</p>
                 <p>in this update we have also made the very early game (about the first 20-30 minutes of gameplay) easier and less boring, increasing base Faction Coins find and allowing players to purchase assistants sooner.</p>
-                <p>Last but not least, the overhaul will also introduce a whole lot of quality of life features such as the Buy All upgrades buttom, Mercenary Template Save/Load, Research Template Save/Load, in-game tutorials and hints for beginners(veterans can skip them entirely at once) and more!</p>
+                <p>Last but not least, the overhaul will also introduce a whole lot of quality of life features such as the Buy All upgrades button, Mercenary Template Save/Load, Research Template Save/Load, in-game tutorials and hints for beginners(veterans can skip them entirely at once) and more!</p>
                 <p><b>Patch</b>: 1.6.53.0 - April 21 2016</p>
                 <p><b>NEW REINCARNATIONS POWERS</b> for Reincarnation <b>41</b> and <b>45</b>.</p>
                 <p><b>NEW TROPHIES</b>: more regular trophies plus two secrets, with their respective unique upgrades!</p>
@@ -1593,7 +1593,7 @@
                 <p>Collection (Economics 330) has been scaled down. It's still hugely more powerful than before due to the amount of new artifacts!</p>
                 <p>Added options to temporarily disable Premium Gifts individually, in order to allow for easier neverclick runs and trophy hunting.</p>
                 <p>Added an option to hide unavailable researches to have a tidier research panel.</p>
-                <p><b>(Hotfix #1)</b>: Loading an old save with Premium features disabled will now disble gifts instead of only the Gift Heroes.</p>
+                <p><b>(Hotfix #1)</b>: Loading an old save with Premium features disabled will now disable gifts instead of only the Gift Heroes.</p>
                 <p><b>(Hotfix #2)</b>: Fixed an artifact unlock condition.</p>
                 <p><b>(Hotfix #3)</b>: Fixed the wrong Witch Conclave trophy icon added hints towards a trophy...</p>
                 <p><b>(Hotfix #4)</b>: Tweaked some artifact unlock chances.</p>
@@ -1672,7 +1672,7 @@
                 <p>Druid upgrades rebalanced: Bardic Knowledge effect increased; Mabinogion effect increased.</p>
                 <p>Faceless upgrades rebalanced: Deep Memory effect increased and mechanic reworked: now calculates its bonus based on the longest session (including the current one) rather than last session; Brainwave bonus increased to 2% per second (3% with Faceless Overmind), up from 1.8% (2.5%).</p>
                 <p>Quality of Life improvements: more upgrade series are now consolidate and available for Multibuy, including but not limited to Autocast Series and assistants from buildings.</p>
-                <p>New Events panel to accomodate event-based feats and quests!</p>
+                <p>New Events panel to accommodate event-based feats and quests!</p>
                 <p>Fixed lots of tooltips.</p>
                 <p><b>Technical notes</b>:</p>
                 <p>Game performance improved.</p>

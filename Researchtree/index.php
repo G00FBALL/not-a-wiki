@@ -169,7 +169,7 @@
 				reinc = 100;
 			}
             if (reinc > 190 && reinc < 220) {
-                reinc = 190   
+                reinc = 190
             }
             $('#rp').text(rtorp[reinc].RP);
             $('#Coins').text(rtorp[reinc].CoinSh + " (" + rtorp[reinc].CoinSc + ")");
@@ -804,7 +804,7 @@
 	<p><b>Requirement</b>: R232+</p>
 	<p><b>Effect</b>: Brainwave increases Faction Coin find chance progressively over its duration.</p>
 	<p><b>Formula</b>: +(floor(1.5 * ((x + y) / 60) ^ 2.25)%, where x is Brainwave runtime and y is Headstart in seconds.</p>
-	" coords="128,380,168,420" shape="rect">	
+	" coords="128,380,168,420" shape="rect">
         <area research="<p><b>D1</b> - For Angel</p>
 	<p><b>Research Name</b>: Blessing</p>
 	<p><b>Cost</b>: 750 Qag (7.50e125)</p>
@@ -1044,7 +1044,7 @@
 	<p><b>Requirement</b>: R179+, Forgotten Relic, Mythos artifact and upgrade.</p>
 	<p><b>Effect</b>: Empowers the effects of your faction's Set based on time spent with your least used faction. Lineage levels count more, by the same amount, for your faction’s Advanced Heritage.</p>
 	<p><b>Formula</b>: (50 + 0.25 * x ^ 0.5)%, where x is your least spent faction time.</p>
-	<p><b>Note</b>: Only considers time spent with factions that are avaliable at the given game stage.</p>
+	<p><b>Note</b>: Only considers time spent with factions that are available at the given game stage.</p>
 	" coords="254,548,294,588" shape="rect">
         <area research="<p><b>D5875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Birthright</p>
@@ -1374,8 +1374,8 @@
 	<p><b>Research Name</b>: Oilery</p>
 	<p><b>Requirement</b>: R232+</p>
 	<p><b>Effect</b>: While both Lightning Strike and Gem Grinder are active, multiplicatively increase the production bonus from Gems based on the duration of your longest spell.</p>
-	<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is the duration of your longest spell.</p>	
-	" coords="128,800,168,840" shape="rect">	
+	<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is the duration of your longest spell.</p>
+	" coords="128,800,168,840" shape="rect">
 	    <area research="<p><b>A1</b> - For Undead</p>
 	<p><b>Research Name</b>: Plague</p>
 	<p><b>Cost</b>: 750 Qag (7.50e125)</p>
@@ -1667,7 +1667,7 @@
 	<p><b>Research Name</b>: Folgoration</p>
 	<p><b>Requirement</b>: R232+</p>
 	<p><b>Effect</b>: While both Diamond Pickaxe and God's Hand are active, multiplicatively increase Mana Regeneration and Faction Coin find chance based on the amount of Excavations made in this Reincarnation, including resets.</p>
-	<p><b>Formula</b>: (15 + 1.75 * (x * y) ^ 0.75)%, where x is the amount of Excavations and y the amount of Excavation resets made in this Reincarnation respectively.</p>	
+	<p><b>Formula</b>: (15 + 1.75 * (x * y) ^ 0.75)%, where x is the amount of Excavations and y the amount of Excavation resets made in this Reincarnation respectively.</p>
 	" coords="128,1010,168,1050" shape="rect">
         <area research="<p><b>W1</b> - For Demon</p>
 	<p><b>Research Name</b>: Assault</p>
@@ -2010,7 +2010,7 @@
 	<p><b>Requirement</b>: R234+</p>
 	<p><b>Effect</b>: Multiplactively increase assistants based on the amount of different Factions in your Legacies.</p>
 	<p><b>Formula</b>: (50 * x ^ 2.5)%, where x is the amount of different Factions in your Legacies.</p>
-	" coords="128,1304,168,1344" shape="rect">	
+	" coords="128,1304,168,1344" shape="rect">
         <area research="Unlocked Upgrade (X): You cannot use this upgrade with the faction you are playing. (There is an option to hide these icons.)
 	" coords="296,170,335,209" shape="rect">
 		<area research="Locked Upgrade (? question mark): You cannot unlock this upgrade with the Faction you are playing.

@@ -100,7 +100,7 @@
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">4 Stages of Dragon unlock</b></a>
 				</p>
 				<div class="autohide">
-					<p><b>Overview</b>: After excavating the quest artifact "Spiky Rough Egg", Dragon unlock is divided into 4 parts commonly refered to as "Stages". Each stages come with a compulsory unskippable 12 hours wait, meaning that Dragon unlock is guaranteed to last at least 2 days in real time.</p>
+					<p><b>Overview</b>: After excavating the quest artifact "Spiky Rough Egg", Dragon unlock is divided into 4 parts commonly referred to as "Stages". Each stages come with a compulsory unskippable 12 hours wait, meaning that Dragon unlock is guaranteed to last at least 2 days in real time.</p>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/SpikyRoughEggArtifact.png" align="middle"><b> Spiky Rough Egg Artifact</b></p>
 					<p><b>Description</b>: What a weird egg... it looks ages old, yet something alive is inside. Perhaps if you wait long enough, something will hatch?</p>
 					<p><b>Requirement</b>: R46+, 1500+ Excavations</p>

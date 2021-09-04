@@ -424,7 +424,7 @@
 				<p>W225,W400,W560</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W180 (Reimport build)</p>
 				<p><b>Notes</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
-				<p><b>Notes</b>: Build is oriented for production and is not ment to buy Archon Union.</p>
+				<p><b>Notes</b>: Build is oriented for production and is not meant to buy Archon Union.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -683,7 +683,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Fairy (Djinn Faction Unlock (R125+) / Djinn UB unlock (R130+))</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Swim, Glenniss2</p>
-				<p><b>Requirements</b>: 1e78 (1 Qivg) Gems (Djinn Faction unlock) / 1e86 (100 Spvg) Gems (Djinn UB unlock)</p>	
+				<p><b>Requirements</b>: 1e78 (1 Qivg) Gems (Djinn Faction unlock) / 1e86 (100 Spvg) Gems (Djinn UB unlock)</p>
 				<p><b>Faction</b>: Fairy</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Fairy</p>

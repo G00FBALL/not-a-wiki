@@ -80,7 +80,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/Fool'sGoldFactionUpgrade.png" align="middle"> Fool's Gold</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Witch Conclaves you own this Reincarnation.</p>
-        <p><b>Formula</b>: floor(2 * x ^ 0.6)%, where x is the highest amoutn of Witch Conclaves you own this Reincarnation.</p>
+        <p><b>Formula</b>: floor(2 * x ^ 0.6)%, where x is the highest amount of Witch Conclaves you own this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png" align="middle"> Green Fingers Discount</b></p>
         <p><b>Cost</b>: 500 Qa (5e17)</p>

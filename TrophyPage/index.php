@@ -225,7 +225,7 @@
 	<p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
 	<p><b>Cost</b>: 1 Tg (1e93), A1+ Free</p>
 	<p><b>Effect</b>: Increase Mercenary production by 1% per Reincarnation.</p>
-	<p><b>Note</b>: Adviced to do once you have Prestige Research.</p>
+	<p><b>Note</b>: Advised to do once you have Prestige Research.</p>
 	" coords="3,343,57,397" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ThatExcavatedQuicklySecretTrophy.png align=middle> <b>That Excavated Quickly</b>
 	<p><b>Requirement</b>: Excavate 1000 times in the first 30 seconds of a run (This Game)</p>
@@ -1079,7 +1079,7 @@
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/GrandmasterResearcherSecretTrophy.png align=middle> </b>Grandmaster Researcher</b>
 	<p><b>Requirement</b>: Research 18500 times across all fields.</p>
 	<p><b>Cost</b>: 10 SpQig (1e175), A2+ Free</p>
-	<p><b>Effect</b>: Increas the overall production of Mercenaries by 150%.</p>
+	<p><b>Effect</b>: Increase the overall production of Mercenaries by 150%.</p>
 	" coords="63,1423,117,1477" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/VanillaResearcherSecretTrophy.png align=middle> </b>Vanilla Researcher</b>
 	<p><b>Requirement</b>: Discover all the Vanilla Faction researches.</p>

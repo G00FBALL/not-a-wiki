@@ -153,7 +153,7 @@
 		<hr>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/Octopus-shapedHelmet.png" alt=Artifacts align=middle> <b>Octopus-shaped Helmet</b></p>
 		<p><b>Clue</b>: Found in the Labyrinths.</p>
-		<p><b>Description</b>: A large helmet with empty metal prongs to accomodate tentacular appendages.</p>
+		<p><b>Description</b>: A large helmet with empty metal prongs to accommodate tentacular appendages.</p>
 		<p><b>Requirement</b>: Play as Faceless (Not Dragon)</p>
 		<p><b>Chance</b>: (x / 2,000)%, where x is the amount of Labyrinths you own.</p>
 		<hr>
@@ -228,7 +228,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/KnowYourEnemyPartI.png" align=middle> <b>Know Your Enemy, Part I</b></p>
 		<p><b>Clue</b>: A true Mercenary should learn by all other cultures.</p>
 		<p><b>Description</b>: All the knowledge you need, stored in a handy book.</p>
-		<p><b>Requirement</b>: R12+, Play as Mercenary, have upgrades from all 11 Factions.</p>	
+		<p><b>Requirement</b>: R12+, Play as Mercenary, have upgrades from all 11 Factions.</p>
 		<p><b>Chance</b>: 10%</p>
 		<p><b>Effect</b>: Awards an upgrade of the same name.</p>
 		<p><b>Effect</b>: Increases the production of all buildings based on time spent as Non-Mercenary (All Time 'Time spent' with Factions in the stats). Only available to Mercenaries.</p>
@@ -281,7 +281,7 @@
 		<p><b>Effect</b>: Grants different effects based on time of the day.</p>
 		<p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
 		<br>
-		<p><b>Note</b>: Finding both stones awards the <b><a target="_blank" href="http://www.musicfamily.org/realm/SunForce/">Sun Force</a></b> upgrade.</p> 
+		<p><b>Note</b>: Finding both stones awards the <b><a target="_blank" href="http://www.musicfamily.org/realm/SunForce/">Sun Force</a></b> upgrade.</p>
 		<hr>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/AncientHeirloomTrophy.png" align=middle> <b>Ancient Heirloom</b></p>
 		<p><b>Clue</b>: Relic of the Lineage.</p>
@@ -560,7 +560,7 @@
 		<p><b>Requirement</b>: R220+, 10,000+ excavations, play as Goblin</p>
 		<p><b>Chance</b>: (log10(1 + x) / 8,000)%, where x is TC casts this game</p>
 		<p><b>Goblin Set 2nd effect</b>: Each time you cast a spell, you also cast free Tax Collections based on time spent in this game.</p>
-		<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>	
+		<p><b>Formula</b>: +(floor(1 + 0.25 * ln(1 + x) ^ 1.5)), where x is time spent this game.</p>
 		<hr>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/BloodChaliceArtifact.png" align="middle"> <b>Blood Chalice</b></p>
 		<p><b>Clue</b>: Pour a bottle of Frenzy.</p>

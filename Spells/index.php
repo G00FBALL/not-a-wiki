@@ -220,7 +220,7 @@
     <p><b>All Spells Tiers</b></p>
     <p><b>Effect</b>: Unlocks additional tiers to be cast for an individual spell. Each Tier adds to the overall spell bonus multiplicatively.</p>
 	<p><b>Note for A1</b>: Tier 1-6 production bonus are considered an A0 upgrade, so each tier defacto adds after ascension penalty +0.1 to the exponent, giving a final production bonus for T6 of (x ^ (0.1 * 6) = x ^ 0.6), where x is the original A0 production multiplier.</p>
-	<p><b>Note for A2</b>: Tier 7 is considered an A2 upgrade but with a weaker effect, it adds + 0.2 per tier, making a T7 spell in A2: ((x ^ 0.6) ^ 0.1 * x ^ 0.2 = x ^ 0.26), where x is te original A0 production multiplier.</p>
+	<p><b>Note for A2</b>: Tier 7 is considered an A2 upgrade but with a weaker effect, it adds + 0.2 per tier, making a T7 spell in A2: ((x ^ 0.6) ^ 0.1 * x ^ 0.2 = x ^ 0.26), where x is the original A0 production multiplier.</p>
 	<p><b>Note for subsequent Ascensions</b>: With no additional tiers the overall bonus is (x ^ 0.026) in A3 and (x ^ 0.0026) in A4.</p>
 	<br>
 	<p><b>Effect</b>: The spell tier upgrades also have an additional effect themselves, apart from the spell. Each tier upgrades increases offline production based on mana statistics. (Not Tax Collection)</p>
@@ -231,7 +231,7 @@
     <p><b>Requirements</b></p>
     <p><img src="http://musicfamily.org/realm/Factions/picks/TieredAutocastingTrophy.png" align="middle"><b> Tiered Autocasting</b></p>
     <p>Requirement: R40+, 200M Mana Produced (Total this R).</p>
-    <p><b>Note</b>: This trophy unlocks at R40, The uprade is available at R40, but tiers do not unlock until R42.</p>
+    <p><b>Note</b>: This trophy unlocks at R40, The upgrade is available at R40, but tiers do not unlock until R42.</p>
     <p><b>Upgrade Cost</b>:  100 Qid (1.0e50), A2+ Free</p>
     <p><b>Effect</b>: Allows you to set the maximum tier you wish to autocast each spell to.</p>
     <p><b>Note</b>: In the spell tooltip, use the diamond icon to change its mode until you get to the desired maximum tier number. Spells will still follow their previous priority rules.</p>
@@ -1032,7 +1032,7 @@
 </div>
 <br/>
 <p><b>Mercenary</b>: Modified Tax Collection (R75+)</p>
-<p><b>Note</b>: Spell altered with new name and effects - still count as Tax Collection for all purposes.</p>  
+<p><b>Note</b>: Spell altered with new name and effects - still count as Tax Collection for all purposes.</p>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ShareBenefitsSpell.png" alt="Round Table" align="middle"> <b>Share Benefits</b> (Good Mercenary)</p>
 <p><b>Cost</b>: 200 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
 <p><b>Requirement</b>: Round Table</p>
@@ -1044,7 +1044,7 @@
 <p><b>Note</b>: Can be cast up to 36 tiers (Ascension 1) / 99 tiers (Ascension 3).</p>
 <p><b>Note</b>: Each tier costs x2/1.5 (with S1275) more mana than the previous one until Tier 40 - above x4/x2.25 than the previous one.<p>
 <p><b>Note</b>: Drains every second Mana equal to its current cost.</p>
-<p><b>Note</b>: Upgrades that cast free Tax Collection are disabled.</p> 
+<p><b>Note</b>: Upgrades that cast free Tax Collection are disabled.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ReapInterestsSpell.png" alt="Tyrant Garrison" align="middle"> <b>Reap Interests </b> (Evil Mercenary)</p>
 <p><b>Cost</b>: 200 Mana - <b>Duration</b>: 0 seconds</p>
@@ -1174,12 +1174,12 @@
 <p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.</p>
 <p><b>Notes</b></p>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
-<p><b>2</b>. Cannot cast a spell that is already avaliable.</p>
+<p><b>2</b>. Cannot cast a spell that is already available.</p>
 <p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>
 <hr>
 <p><img src="http://musicfamily.org/realm/Factions/picks/ChaosMadnessSpell.png" alt="ChaosMadness" align="middle"> <b>Chaos Madness</b> (Chaos Mercenary) (R194+)</p>
 <p><b>Cost</b>: 500000 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
 <p><b>Requirements</b>: R194+, Mercenary Challenge 2 completed</p>
 <p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
-<p><b>Note</b>: Does not select a lineage that is already avaiable.</p>
+<p><b>Note</b>: Does not select a lineage that is already available.</p>
 <?php include "../scripts/footer.html"; ?>

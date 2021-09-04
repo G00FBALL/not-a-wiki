@@ -94,7 +94,7 @@
 		<p><b>Spellsmith</b></p>
 		<p><b>Effect</b>: Blacksmiths also increase your Mana Regeneration.</p>
 		<p><b>Formula</b>: +(2.75 * x ^ 0.275), where x is the number of Blacksmiths you own.</p>
-			" coords="70,10,124,64" shape="rect"> 
+			" coords="70,10,124,64" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SwarmofFairiesFactionUpgrade.png align=middle><b> Fairy Gold Legacy</b></p>
 		<p><b>Starmetal Alloys</b></p>
@@ -149,7 +149,7 @@
 		<p><b>Secret Clicking Techniques</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on Clicks total.</p>
         <p><b>Formula</b>: (2 * x ^ 0.4)%, where x is your Treasure Clicks all time.</p>
-			" coords="70,70,124,124" shape="rect"> 
+			" coords="70,70,124,124" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/SylvanTreasureFrillsFactionUpgrade.png align=middle><b> Elven Gold Legacy</b></p>
 		<p><b>Elven Diplomacy</b></p>
@@ -210,7 +210,7 @@
         <p></p>
 		<p><b>Archangel Feathers</b></p>
         <p><b>Effect</b>: Increase Mana Regeneration multiplicatively by 50%.</p>
-			" coords="70,130,124,184" shape="rect"> 
+			" coords="70,130,124,184" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/WingsofLibertyFactionUpgrade.png align=middle><b> Angel Gold Legacy</b></p>
 		<p><b>Magical Gates</b></p>
@@ -266,7 +266,7 @@
 		<p><b>Hobgoblin Gladiators</b></p>
 		<p><b>Effect</b>: Increase the production of all buildings based on the worth in seconds of your Tax Collection spell.</p>
 		<p><b>Formula</b>: (12 * ln(1 + x) ^ 3)%, where x is the seconds of your Tax Collection.</p>
-			" coords="70,190,124,244" shape="rect"> 
+			" coords="70,190,124,244" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/GreenFingersDiscountFactionUpgrade.png align=middle><b> Goblin Gold Legacy</b></p>
 		<p><b>Goblin Central Bank</b></p>
@@ -274,7 +274,7 @@
         <p></p>
 		<p><b>Fools's Gold</b></p>
         <p><b>Effect</b>: Increase Faction Coin find chance based on the highest amount of Witch Conclaves you own this Reincarnation.</p>
-        <p><b>Formula</b>: floor(2 * x^0.6)%, where x is the highest amoutn of Witch Conclaves you own this Reincarnation.</p>
+        <p><b>Formula</b>: floor(2 * x^0.6)%, where x is the highest amount of Witch Conclaves you own this Reincarnation.</p>
         <p></p>
 		<p><b>Green Fingers Discount</b></p>
         <p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while being offline.</p>
@@ -322,7 +322,7 @@
 		<p><b>Plagued Buildings</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on time spent in this game.</p>
         <p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is time spent this game.</p>
-			" coords="70,250,124,304" shape="rect"> 
+			" coords="70,250,124,304" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/UndeadResilienceFactionUpgrade.png align=middle><b> Undead Gold Legacy</b></p>
 		<p><b>Dead Fields</b></p>
@@ -376,7 +376,7 @@
 		<p><b>Demonic Presence</b></p>
         <p><b>Effect</b>: Increase the maximum Mana additively based on Evil spells cast in this game (additive).</p>
         <p><b>Formula</b>: +(6 * x ^ 0.4), where x is Evil spells cast this game.</p>
-			" coords="70,320,124,364" shape="rect"> 
+			" coords="70,320,124,364" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png align=middle><b> Demon Gold Legacy</b></p>
 		<p><b>Infernal Magic</b></p>
@@ -431,7 +431,7 @@
 		<p><b>Titan Sized Walls</b></p>
         <p><b>Effect</b>: Increase Hall of Legends production based on the amount of assistants you own.</p>
         <p><b>Formula</b>: (20 + 2.15 * ln(1 + x) ^ 2.15)%, where x is the amount of assistants you own.</p>
-			" coords="70,380,124,424" shape="rect"> 
+			" coords="70,380,124,424" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png align=middle><b> Titan Gold Legacy</b></p>
 		<p><b>Cyclopean Strength</b></p>
@@ -477,7 +477,7 @@
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png align=middle><b> Druid Silver Legacy</b></p>
 		<p><b>Earthly Bond</b></p>
 		<p><b>Effect</b>: Increase maximum Mana additively based on the highest amount of Stone Pillars built in this Reincarnation.</p>
-        <p><b>Formula</b>: +(2 * x), where x is the highest anount of Stone Pillars built this Reincarnation.</p>
+        <p><b>Formula</b>: +(2 * x), where x is the highest amount of Stone Pillars built this Reincarnation.</p>
 		<p></p>
 		<p><b>Bardic Knowledge</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on your Maximum Mana.</p>
@@ -486,7 +486,7 @@
 		<p><b>Shapeshifting</b></p>
         <p><b>Effect</b>: Increase Mana Regeneration additively based on the amount of assistants you own.</p>
         <p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
-			" coords="70,440,124,484" shape="rect"> 
+			" coords="70,440,124,484" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png align=middle><b> Druid Gold Legacy</b></p>
 		<p><b>Mabinogion</b></p>
@@ -495,7 +495,7 @@
         <p></p>
 		<p><b>Earthly Soul</b></p>
         <p><b>Effect</b>: Increase Mana Regeneration additively based on the highest amount of Stone Pillars you built in this Reincarnation.</p>
-        <p><b>Formula</b>: +(x ^ 0.25), where x is the highest anount of Stone Pillars you built this Reincarnation.</p>
+        <p><b>Formula</b>: +(x ^ 0.25), where x is the highest amount of Stone Pillars you built this Reincarnation.</p>
 		<p></p>
 		<p><b>Building Jungle</b></p>
         <p><b>Effect</b>: Increase the production of each building based on the amount of buildings of the same type. </p>
@@ -544,7 +544,7 @@
 		<p><b>Overgrowth</b></p>
         <p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
 		<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
-			" coords="70,500,124,544" shape="rect"> 
+			" coords="70,500,124,544" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png align=middle><b> Faceless Gold Legacy</b></p>
 		<p><b>Magical Treasure</b></p>
@@ -650,7 +650,7 @@
 		<p><b>Requirement</b>: Fairy Legacy, Demon Legacy</p>
 		<p><b>Effect</b>: Chaotically increase assistants based on amount of alignments among the active spells you have.</p>
 		<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5) ^ (1 + 0.5 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
-		<p><b>Examples</b>: Fairy Chanting (both good & chaos), Combo Strike (evil), Temporal Flux (order).</p> 
+		<p><b>Examples</b>: Fairy Chanting (both good & chaos), Combo Strike (evil), Temporal Flux (order).</p>
 			" coords="130,190,184,244" shape="rect">
 			<area href="#GB-UD" research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/HomunculusLab.png align=middle><b> Homunculus Lab</b></p>
@@ -697,7 +697,7 @@
 		<p><b>Requirement</b>: Fairy Legacy, Demon Legacy</p>
 		<p><b>Effect</b>: Chaotically increase assistants based on amount of alignments among the active spells you have.</p>
 		<p><b>Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5) ^ (1 + 0.5 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
-		<p><b>Examples</b>: Fairy Chanting (good & chaos), Combo Strike (evil), Temporal Flux (order).</p> 
+		<p><b>Examples</b>: Fairy Chanting (good & chaos), Combo Strike (evil), Temporal Flux (order).</p>
 		<hr>
 		<p id="EL-AN"><img src="http://musicfamily.org/realm/Factions/picks/SacredGlade.png" align="middle"><b> Sacred Glade</b></p>
 		<p><b>Requirement</b>: Elf Legacy, Angel Legacy</p>
