@@ -385,6 +385,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk1.png" align="middle"><b> Undead Perk 1</b></p>
 		<p><b>Requirement</b>: Reach Lineage Level 5</p>
 		<p><b>Effect</b>: Undead Bloodline multiplies your assistants by 5% of the amount instead of adding them.</p>
+		<p><b>Formula</b>: (5 * x)%, where x is the amount of assistants gained from Undead bloodline.</p>
 		<br/>
 		<p><b>Level 10</b></p>
 		<p><b>Effect</b>: x100 Undead Faction Coin find chance.</p>
