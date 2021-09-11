@@ -208,7 +208,7 @@
     <p><b>Buff Builds</b></p>
     <div class="category">
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Fairy</a></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Fairy (Fairy Set + TTC4)</a></b></p>
         <div class="autohide">
           <p><b>Author</b>: Rade</p>
           <p><b>Range</b>: N/A</p>
@@ -253,7 +253,7 @@
       </div>
       <br/>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R190+ Mana Produced</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mana Produced (R190+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Regulus</p>
           <p><b>Requirement</b>: Mercenary Challenge 1</p>
@@ -307,7 +307,7 @@
       </div>
       <br/>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R198+ Excavation Resets</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Excavation Resets (R198+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: kabuto44</p>
           <p><b>Requirement</b>: Mercenary Challenge 3</p>
@@ -333,7 +333,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R198+ Max Excavations</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Excavations (R198+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: kabuto44</p>
           <p><b>Requirement</b>: Mercenary Challenge 3</p>
@@ -601,7 +601,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ambivalent Fairycry (Max Neutral Unique Building)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ambivalent Fairycry (Max Neutral Unique Building (R206+))</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Rade</p>
           <p><b>Requirement</b>: Mercenary Challenge 5</p>
@@ -712,7 +712,7 @@
     <p><b>Mercenary Challenges</b></p>
     <div class="category">
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 1</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 1 (R190)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: ?</p>
           <p><b>Faction</b>: Evil/Order Mercenary</p>
@@ -737,7 +737,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 2</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 2 (R194)</b></a><b><font color="Blue"> Good</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Rade (assisted by Teraunce)</p>
           <p><b>Faction</b>: Good/Chaos Mercenary</p>
@@ -761,7 +761,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 3</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 3 (R198)</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Hagio Daemon</p>
           <p><b>Requirement</b>: 40k max excavations, that can be gotten around 1e90 gems by using R180 Excavation build</p>
@@ -792,7 +792,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 4</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 4 (R202)</b></a><b><font color="Blue"> Good</font></b>/<b><font color="gray">Balance</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Meirlu</p>
           <p><b>Requirement</b>: All lineages level 75</p>
@@ -817,7 +817,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5 (R206)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Rade</p>
           <p><b>Faction</b>: Neutral/Chaos Mercenary</p>
