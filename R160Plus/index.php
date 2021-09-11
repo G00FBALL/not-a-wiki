@@ -105,30 +105,6 @@
     </div>
     <br/>
     <p><b>Buff Builds</b></p>
-    <div class="category">
-      <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Fairy Buff</a></b></p>
-        <div class="autohide">
-          <p><b>Author</b>: Rade</p>
-          <p><b>Range</b>: N/A</p>
-          <p><b>Faction</b>: Fairy</p>
-          <p><b>Bloodline</b>: Titan</p>
-          <p><b>Artifact Set</b>: Elf</p>
-          <p>
-            <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="S1,S30,S180,S215,S400,S5125,C10,C105,C340,C400,C5125,D55,D135,D150,D205,D225,D245,D250,D290,D320,D435,D480,D525,D1275,D1375,E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,A30,A55,A105,A120,A135,A150,A200,A250,A305,A330,A400,A480,A3400,W120,W135,W150,W180,W200,W250,W400,W1375,W3150,F6000">
-          </p>
-          <p>S1,S30,S180,S215,S400,S5125,</p>
-          <p>C10,C105,C340,C400,C5125,</p>
-          <p>D55,D135,D150,D205,D225,D245,D250,D290,D320,D435,D480,D525,D1275,D1375,</p>
-          <p>E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,</p>
-          <p>A30,A55,A105,A120,A135,A150,A200,A250,A305,A330,A400,A480,A3400,</p>
-          <p>W120,W135,W150,W180,W200,W250,W400,W1375,W3150,</p>
-          <p>F6000</p>
-          <p><b>Notes</b>: Run at the beginning of each R from R198-R219. Run length increases each R, anywhere from 1 hour to 1 day. Run needs to be online.</p>
-        </div>
-      </div>
-        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Mana Produced</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
@@ -152,7 +128,7 @@
                 <p>A30,A55,A105,A120,A135,A150,A175,A250,A270,A305,A375,A495,A545,A2950,</p>
                 <p>W25,W120,W135,W150,W175,W180,W250,W260,W275,W290,W330,W400,W590,W1275,W1375,</p>
                 <p>F5500</p>
-                <p><b>Notes</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regen at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
+                <p><b>Notes</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regeneration at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
             </div>
         </div>
         <br/>
@@ -182,7 +158,7 @@
         </div>
         <br/>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">F6000 Buff (R182-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">F6000 (R182-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kabuto44</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
