@@ -1,0 +1,16 @@
+name: "spellcheck"
+on: ["push", "pull_request"]
+
+jobs:
+  spellcheck:
+    name: "spellcheck"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "obtain source code"
+        uses: "actions/checkout@v2"
+      - name: "run codespell"
+        uses: "codespell-project/actions-codespell@master"
+        with:
+          check_filenames: true
+          skip: "./WallofShame/index.php"
+          ignore_words_list: "sting,fanatism,restauration,ded,rade,gud,nd,calss"
