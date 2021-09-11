@@ -173,7 +173,7 @@
           <p>A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,</p>
           <p>W25,W175,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Buff Fairyset (1-2h+), mana produced, max assistants, F6000, max Flesh Workshops / Brothels, highest mana regen, excavations/excavation resets this R. At e80+, switch to Brothel. Reset spells often.</p>
+          <p><b>Notes</b>: Buff Fairyset (1-2h+), mana produced, max assistants, F6000, max Flesh Workshops / Brothels, highest mana regeneration, excavations/excavation resets this R. At e80+, switch to Brothel. Reset spells often.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -519,7 +519,7 @@
       </div>
       <br/>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Mana Regen (R202+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Max Mana Regeneration (R202+)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Regulus</p>
           <p><b>Faction</b>: Evil/Order Mercenary</p>
@@ -642,7 +642,7 @@
             <button onclick="myFunction($(this))">Copy Build</button>
             <input type="text" value="EL5,EL7,EL11,AN4,AN5,AN11,UD7,UD10,DM2,FC2,FC3,DW7,DW12,AR5,AR8,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DN,S5375,S200,S400,C5375,C400,C175,D290,D330,D200,D275,E3300,E320,E135,E1425,E145,E230,E290,A250,A120,A270,A305,A1500,A2950,W1275,W1375,W1400,W275,W400,F5750,">
           </p>
-          <p>EL7,EL11,AN4,AN5,AN11,GB7,UD7,UD10,DM2,FC2,FC3,DW6,DW7,DW12,AR5,MK1,</p>
+          <p>EL5,EL7,EL11,AN4,AN5,AN11,UD7,UD10,DM2,FC2,FC3,DW7,DW12,AR5,AR8,MK1,</p>
           <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DN,</p>
           <p>S5875,</p>
           <p>C5375,C400,C175,</p>
@@ -651,9 +651,9 @@
           <p>A250,A120,A270,A305,A1500,A2950,</p>
           <p>W1275,W1375,W1400,W275,W400,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: First level druidline to ~70?, then bring elfline up to par, then run druid for the highest level.</p>
-          <p><b>Notes</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings. Buff: excavations/resets, Flesh Workshops, max assistants, evil time, Call to Arms activity time, gems, and elf lineage</p>
-          <p><b>Notes</b>: Estimated time to L75 ? hours.</p>
+          <p><b>Notes</b>: First level druidline to 72/73, then bring elfline up to par, then run druid for the highest level.</p>
+          <p><b>Notes</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings.</p>
+					<p><b>Notes</b>: Recommended buffs: 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
         </div>
       </div>
       <div class="shelementwhole">
