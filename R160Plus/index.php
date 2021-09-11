@@ -48,7 +48,7 @@
                 <p>A30,A120,A270,A305,A400,</p>
                 <p>W1375</p>
                 <p><b>Additional</b>: S215,S330,S150,D525,E410,A250,A150,W180,W120,W150</p>
-                <p><b>Notes</b>: Reimport build when Limited Wish hits Spell duration. Dont reset Fairy Chanting, instead export/import your save to update the Spell durations.</p>
+                <p><b>Notes</b>: Reimport build when Limited Wish hits Spell duration. Don't reset Fairy Chanting, instead export/import your save to update the Spell durations.</p>
                 <p><i>Combo for maximum production</i>: Maelstrom on HoL with assistants or Faction Coins. Catalyst on Gem Grinder. Limited Wish on Spell duration. DJC4 on 888% maximum Mana</p>
             </div>
         </div>
@@ -63,16 +63,16 @@
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL5,EL9,AN5,AN12,GB3,GB4,UD7,UD10,DM2,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S500,S180,C175,C250,C340,C400,C500,C590,C1325,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D560,D250,D150,D135,E3300,E135,E495,E145,E30,E25,E1,A2950,A30,A120,A270,A305,A545,A250,W135,W205,W275,W400,W1275,W1375,W175,W180">
+                    <input type="text" value="EL9,AN5,GB3,GB4,UD7,UD10,DM2,DM4,DD11,DN2,DW7,DW12,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,">
 				</p>
-                <p>EL5,EL9,AN5,AN12,GB3,GB4,UD7,UD10,DM2,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,</p>
+                <p>EL9,AN5,GB3,GB4,UD7,UD10,DM2,DM4,DD11,DN2,DW7,DW12,AR2,AR12,DJ5,DJ7,</p>
                 <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,</p>
-                <p>S50,S135,S150,S200,S215,S330,S400,S460,S1500,S500,S180,</p>
-                <p>C175,C250,C340,C400,C500,C590,C1325,C305,C330,C25,C105,</p>
-                <p>D200,D275,D290,D320,D330,D1375,D560,D250,D150,D135,</p>
-                <p>E3300,E135,E495,E145,E30,E25,E1,</p>
-                <p>A2950,A30,A120,A270,A305,A545,A250,</p>
-                <p>W135,W205,W275,W400,W1275,W1375,W175,W180</p>
+                <p>S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,</p>
+                <p>C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,</p>
+                <p>D200,D275,D290,D320,D330,D1375,D590,D55,D25,</p>
+                <p>E3300,E135,E495,E230,</p>
+                <p>A2950,A30,A120,A270,A305,A545,A10,</p>
+                <p>W135,W205,W275,W400,W1275,W1375,W150,W25,W180,</p>
                 <p><b>Notes</b>: Get Archonline before importing Researches. Reimport frequently to unlock each Research as Archonline grows.</p>
             </div>
         </div>
@@ -88,9 +88,9 @@
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL9,AN4,AN5,AN12,GB3,GB6,UD7,UD10,FC3,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+                    <input type="text" value="EL9,AN4,AN5,AN12,GB3,UD7,UD10,DM4,FC3,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
 				</p>
-                <p>EL9,AN4,AN5,AN12,GB3,GB6,UD7,UD10,FC3,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,</p>
+                <p>EL9,AN4,AN5,AN12,GB3,UD7,UD10,DM4,FC3,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,</p>
                 <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,</p>
                 <p>S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,</p>
                 <p>C5125,C340,C400,C175,C250,C590,C25,C105,C150,</p>
@@ -105,52 +105,6 @@
     </div>
     <br/>
     <p><b>Buff Builds</b></p>
-    <div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lightning Fairy Buff</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: ?</p>
-                <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Fairy</p>
-                <p><b>Bloodline</b>: Titan</p>
-                <p><b>Artifact Set</b>: Dwarf Set (prod) / Elf set (clicks)</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S30,S180,S215,S400,S5125,C10,C105,C340,C400,C5125,D55,D135,D150,D205,D225,D245,D250,D290,D320,D435,D480,D525,D1275,D1375,E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,A30,A55,A105,A120,A135,A150,A200,A250,A305,A330,A400,A480,A3400,W120,W135,W150,W180,W200,W250,W400,W1375,W3150,F6000">
-				</p>
-                <p>S1,S30,S180,S215,S400,S5125,</p>
-                <p>C10,C105,C340,C400,C5125,</p>
-                <p>D55,D135,D150,D205,D225,D245,D250,D290,D320,D435,D480,D525,D1275,D1375,</p>
-                <p>E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,</p>
-                <p>A30,A55,A105,A120,A135,A150,A200,A250,A305,A330,A400,A480,A3400,</p>
-                <p>W120,W135,W150,W180,W200,W250,W400,W1375,W3150,</p>
-                <p>F6000</p>
-                <p><b>Notes</b>: Used for getting fairy time to buff fairy set and lightning strike casts for buffing titan challenge 4. If you don’t use fairy set in your current reincarnation, use any evil alignment instead. Normal recommendation is to run for one hour, but can be run for up to a day, starting at a couple minutes and gradually upping as you get through Rs. Particularly useful to run at the start of a reincarnation if using long spells short burn at r180-190 or final verdict/benevolent warchant at r198+/r206+. Nothing in the build is important; this is simply for convenience of having a copyable set of researches that allows you to get something set up while ensuring you don’t accidentally pick up spell duration upgrades that would negatively impact the lightning strike casts.</p>
-            </div>
-        </div>
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Drow Perk 1 Buff</a></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Ensteffahn</p>
-                <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Fairy</p>
-                <p><b>Bloodline</b>: Drow</p>
-                <p><b>Artifact Set</b>: Fairy</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S1,S30,S105,S180,S200,S5375,C10,C80,C5875,D55,D290,D5625,E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,A30,A55,A105,A120,A135,A150,A200,A250,A270,A305,A330,A400,A480,A495,A545,A1325,W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,F5500">
-				</p>
-                <p>S1,S30,S105,S180,S200,S5375,</p>
-                <p>C10,C80,C5875,</p>
-                <p>D55,D290,D5625,</p>
-                <p>E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,</p>
-                <p>A30,A55,A105,A120,A135,A150,A200,A250,A270,A305,A330,A400,A480,A495,A545,A1325,</p>
-                <p>W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,</p>
-                <p>F5500</p>
-                <p><b>Notes</b>: Only needs to be run once at some point before A4. Increases combo strike count primarily through DJC1 and Drow challenge reward. <b>DO NOT</b> recast fairy chanting; instead, update its duration by exporting your save and reimporting it. This prevents the DJC1 effect from being reset. Benefits from buffing s5375 and d5625; one strategy is buffing s5375 and d5625 (fairy faction last) at r206 while gaining time for neutral,evil,order, and balance, and running this build for the last day to complete the MCC5 requirement and buff DWP1 simultaneously. Recommended value to aim for is ~300%(?)</p>
-            </div>
-        </div>
-        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Mana Produced</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
@@ -174,7 +128,7 @@
                 <p>A30,A55,A105,A120,A135,A150,A175,A250,A270,A305,A375,A495,A545,A2950,</p>
                 <p>W25,W120,W135,W150,W175,W180,W250,W260,W275,W290,W330,W400,W590,W1275,W1375,</p>
                 <p>F5500</p>
-                <p><b>Notes</b>: Used for increasing primal balance values to assist with crossing higher gem thresholds in R180-R190 more quickly. Reset spells periodically, especially fairy chanting for max mana. Capable of 1e18 max mana/regen at e80 gems, requires buffing max ziggurat count. Also allows TTC4 buffing.</p>
+                <p><b>Notes</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regeneration at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
             </div>
         </div>
         <br/>
@@ -189,9 +143,9 @@
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,AN12,GB3,GB6,UD7,UD10,FC3,DD11,DN2,DN8,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E290,E3300,E1225,E230,E135,E320,E1,E25,E30,E145,E400,E460,E495,A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+                    <input type="text" value="AN4,AN5,AN12,GB3,DM4,UD7,UD10,FC3,DD11,DN2,DN8,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E290,E3300,E1225,E230,E135,E320,E1,E25,E30,E145,E400,E460,E495,A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
 				</p>
-                <p>AN4,AN5,AN12,GB3,GB6,UD7,UD10,FC3,DD11,DN2,DN8,DW7,DW12,AR2,DJ5,DJ7,</p>
+                <p>AN4,AN5,AN12,GB3,DM4,UD7,UD10,FC3,DD11,DN2,DN8,DW7,DW12,AR2,DJ5,DJ7,</p>
                 <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,</p>
                 <p>S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,</p>
                 <p>C5125,C340,C400,C175,C250,C590,C25,C105,C150,</p>
@@ -204,9 +158,9 @@
         </div>
         <br/>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">F6000 Buff (R182-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">F6000 (R182-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Kabuto44</p>
+                <p><b>Author</b>: kabuto44</p>
                 <p><b>Faction</b>: Neutral/Order Mercenary</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>A2950</b>: Archon</p>
@@ -234,25 +188,25 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Leveler (R180+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Kabuto44, Regulus</p>
+                <p><b>Author</b>: kabuto44, Regulus</p>
                 <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Fairy (first)</p>
                 <p><b>A2950</b>: Elf</p>
                 <p><b>Artifact Set</b>: Faceless</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL1,MK1,FC2,FC3,AN5,AR5,DD6,GB6,EL7,UD7,DW7,DJ9,EL11,UD10,DW12,AN12,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,S400,S200,S5125,C5375,C400,C175,D275,D290,D200,D330,D3350,E5625,E320,A30,A120,A270,A305,A545,A2950,A1500,W275,W1275,W1375,W400,F5250">
+                    <input type="text" value="EL1,MK1,FC2,FC3,AN4,AN5,AR5,DD6,EL7,UD7,DW7,DJ9,EL11,UD10,DW12,AN12,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,S400,S200,S5125,C5375,C400,C175,D275,D290,D200,D330,D3350,E5625,E320,A30,A120,A270,A305,A545,A2950,A1500,W275,W1275,W1375,W400,W1400,F5250,">
 				</p>
-                <p>EL1,MK1,FC2,FC3,AN5,AR5,DD6,GB6,EL7,UD7,DW7,DJ9,EL11,UD10,DW12,AN12,</p>
+                <p>EL1,MK1,FC2,FC3,AN4,AN5,AR5,DD6,EL7,UD7,DW7,DJ9,EL11,UD10,DW12,AN12,</p>
                 <p>SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,</p>
                 <p>S400,S200,S5125,</p>
                 <p>C5375,C400,C175,</p>
                 <p>D275,D290,D200,D330,D3350,</p>
                 <p>E5625,E320,</p>
                 <p>A30,A120,A270,A305,A545,A2950,A1500,</p>
-                <p>W275,W1275,W1375,W400,</p>
+                <p>W275,W1275,W1375,W400,W1400,</p>
                 <p>F5250</p>
-                <p><b>Notes</b>: Elfline -> A2950:maker/druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike (shouldn’t matter too much either). Use the artifact set of the lineage you are levelling. Buff Excavations and resets.</p>
+                <p><b>Notes</b>: Elfline -> A2950:maker/druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike. Buff assistants, max Flesh Workshops Excavations and resets.</p>
             </div>
         </div>
     </div>
@@ -262,7 +216,7 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Clicks</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Kabuto44</p>
+                <p><b>Author</b>: kabuto44</p>
                 <p><b>Faction</b>: Druid</p>
                 <p><b>Bloodline</b>: Elf</p>
                 <p><b>Artifact Set</b>: Faceless</p>
@@ -297,8 +251,8 @@
                 <p>E50,E135,E145,E320,E400,E460,E1325,</p>
                 <p>A30,A55,A105,A120,A150,A250,A270,A305,A400,A495,A545,</p>
                 <p>W135,W1275,W1375</p>
-                <p><b>Notes</b>: Run this build for ~5 hours after doing the clicks. I was at e46 gems but can probably be done earlier</p>
-                <p><b>Notes</b>: Relies on LW:spell duration increasing DN9. Keep refreshing Brainwave until you have a 800+ day duration. Get a high duration on Fairy Chanting within the first 10 minutes of the run then let the spell run from there, dont recast it.</p>
+                <p><b>Notes</b>: Run this build for ~5 hours after completing clicks requirement
+                <p><b>Notes</b>: Relies on Limited Wish:spell duration increasing DN9. Don't reset spells, but import/export to update duration.</p>
             </div>
         </div>
     </div>
