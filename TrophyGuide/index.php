@@ -787,32 +787,6 @@
 							<td>1 NoSxg (1e210)</p>A1+ Free</td>
 							<td>Discover all the Ancient Races researches.</td>
 							<td>Increase the production of all buildings based on research done.</p>Formula: (0.3 * x ^ 0.7)%, where x is amount of research done.</td>
-						</tr>
-				</table>
-				<br/>
-				<a id="TrophiesR2130"></a>
-				<table class="numtable">
-					<thead>
-						<tr>
-							<th colspan="5">R29</th>
-						</tr>
-					</thead>
-					<thead>
-						<tr>
-							<th>Name</th>
-							<th>Cost</th>
-							<th>Requirement</th>
-							<th>Effect</th>
-							<th>Hints</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>
-								<center>Van!shment</p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png"></td>
-							<td>10 Noqag (1e151)</p>A1+ Free</td>
-							<td>Reach an Offline Bonus of at least 1Qa%.</p>A1, 1895%.</p>A2. 34.9%</td>
-							<td>Increase the production of all buildings based on offline bonus.</p>Formula: (1.25 * log10(1+x) ^ 1.25)%, where x is the pre-A offline multiplier.</td>
 							<td></td>
 						</tr>
 				</table>
@@ -848,7 +822,61 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R31 - R39 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR3139"></a>
+				<table class="numtable">
+					<thead>
+						<tr>
+							<th colspan="5">R31</th>
+						</tr>
+					</thead>
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Cost</th>
+							<th>Requirement</th>
+							<th>Effect</th>
+							<th>Hints</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<center>No Recruiting</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
+							<td>1 Tg (1e93)</p>A1+ Free</td>
+							<td>Reach 1 NoVg (1e90) gems without affiliating with Mercenary.</td>
+							<td>Increase Mercenary production by 1% per Reincarnation.</td>
+							<td></td>
+						</tr>
+					</table>
+				<br/>
+				<a id="TrophiesR3139"></a>
+				<table class="numtable">
+					<thead>
+						<tr>
+							<th colspan="5">R32</th>
+						</tr>
+					</thead>
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Cost</th>
+							<th>Requirement</th>
+							<th>Effect</th>
+							<th>Hints</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<center>Van!shment</p><img src="http://musicfamily.org/realm/Factions/picks/Van!shmentSecretTrophy.png"></td>
+							<td>10 Noqag (1e151)</p>A1+ Free</td>
+							<td>Reach an Offline Bonus of at least 1Qa%.</p>A1: 1895%.</p>A2: 34.9%</td>
+							<td>Increase the production of all buildings based on offline bonus.</p>Formula: (1.25 * log10(1+x) ^ 1.25)%, where x is the pre-A offline multiplier.</td>
+							<td></td>
+						</tr>
+				</table>
+				<br/>
+				<a id="TrophiesR3139"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -877,19 +905,9 @@
 							<td>
 								<center>Stoic Resistance</p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png"></td>
 							<td>10 Coins</p>A1+ Free</td>
-							<td>Get 1 Oc (1e27) gems in the first game of a reincarnation.
-								<p>Gems Needed: (1e27 ^ A ^ 0.75). A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20), etc.</p>
-							</td>
+							<td>Get 1 Oc (1e27) gems in the first game of a Reincarnation.</p>Gems Needed: (1e27 ^ A ^ 0.75). A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20), etc.</td>
 							<td>Increase base clicking reward by +1 T (1e12).</td>
 							<td>Advised to do at R34+ with Fairyline Dwairy or much later (R85+ or even A2).</td>
-						</tr>
-						<tr>
-							<td>
-								<center>No Recruiting</p><img src="http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png"></td>
-							<td>1 Tg (1e93)</p>A1+ Free</td>
-							<td>Reach 1 NoVg (1e90) gems without affiliating with mercenaries.</td>
-							<td>Increase Mercenary production by 1% per Reincarnation.</td>
-							<td></td>
 						</tr>
 				</table>
 			</div>
@@ -897,7 +915,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R40 - R49 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR4049"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -959,7 +977,7 @@
 						</tr>
 				</table>
 				<br/>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR4049"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -986,7 +1004,7 @@
 						</tr>
 				</table>
 				<br/>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR4049"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1017,7 +1035,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R50 - R59 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR5059"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1044,7 +1062,7 @@
 						</tr>
 				</table>
 				<br/>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR5059"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1075,7 +1093,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R60 - R69 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR6069"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1110,7 +1128,7 @@
 						</tr>
 				</table>
 				<br/>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR6069"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1141,7 +1159,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R70 - R79 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR7079"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1176,7 +1194,7 @@
 						</tr>
 				</table>
 				<br/>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR7079"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1207,7 +1225,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R80 - R99 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR8099"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1239,7 +1257,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R100-R159 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR100159"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1274,7 +1292,7 @@
 						</tr>
 					</tbody>
 				</table>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR100159"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1311,7 +1329,7 @@
 						</tr>
 					</tbody>
 				</table>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR100159"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1346,7 +1364,7 @@
 						</tr>
 					</tbody>
 				</table>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR100159"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1376,9 +1394,9 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R160+ Trophies</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R160-219 Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR160219"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1413,7 +1431,7 @@
 						</tr>
 					</tbody>
 				</table>
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR160219"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
@@ -1445,7 +1463,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R220+ Trophies</a></b></p>
 			<div class="autohide">
-				<a id="TrophiesR2130"></a>
+				<a id="TrophiesR220279"></a>
 				<table class="numtable">
 					<thead>
 						<tr>
