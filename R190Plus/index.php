@@ -653,7 +653,7 @@
           <p>F5750</p>
           <p><b>Notes</b>: First level druidline to 72/73, then bring elfline up to par, then run druid for the highest level.</p>
           <p><b>Notes</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings.</p>
-					<p><b>Notes</b>: Recommended buffs: 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
+					<p><b>Notes</b>: Recommended minimum buffs: 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
         </div>
       </div>
       <div class="shelementwhole">
