@@ -15,7 +15,7 @@
 				<p><b>Requirement</b>: Mercenary Challenge 1</p>
 				<p><b>Range</b>: 0 - 1e85 (10 Spvg) Gems </p>
 				<p><b>Faction</b>: Evil/Order Mercenary</p>
-				<p><b>Bloodline/Lineage</b>: Fairy</p>
+				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>A2950</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Mercenary</p>
 				<p>
@@ -78,6 +78,52 @@
 				<p><b>Notes</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
 			</div>
 		</div>
+
+
+    <div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R190-R198 Production</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: ensteffahn</p>
+				<p><b>Requirement</b>: Mercenary Challenge 1</p>
+				<p><b>Range</b>: 1e80 (100 Qivg) Gems - 1e101 (100 Dtg) Gems </p>
+				<p><b>Faction</b>: Evil/Order Mercenary</p>
+				<p><b>Bloodline</b>: Faceless</p>
+				<p><b>A2950</b>: Fairy</p>
+				<p><b>Artifact Set</b>: Mercenary</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="AN4,AN5,GB3,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,DW7,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,S200,S5875,C5125,C340,C400,C175,D200,D275,D290,D330,D5625,D1375,E135,E5125,E230,A5375,A270,A2950,A30,A120,W275,W1275,W5625,W400,F5250,">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S150,S215,S270,S305,S330,S460,S545,S590,S400,C250,C590,C1300,C80,C120,C135,C150,C460,D25,D55,D330,D1275,E1225,E320,E150,E200,E330,E350,E480,E145,E290,A305,A105,A150,A175,A250,W1375,W120,W150,W25,W180,">
+					<b>Secondary Researches</b>
+				</p>
+				<p>AN4,AN5,GB3,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,DW7,AR2,AR12,DJ5,DJ7,</p>
+				<p>SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,</p>
+				<p>S200,S5875,</p>
+				<p>C5125,C340,C400,C175,</p>
+				<p>D200,D275,D290,D330,D5625,D1375,</p>
+				<p>E135,E5125,E230,</p>
+				<p>A5375,A270,A2950,A30,A120,</p>
+				<p>W275,W1275,W5625,W400,</p>
+				<p>F5250,</p>
+
+				<p><b>Secondary Researches</b>:</p>
+				<p>S150,S215,S270,S305,S330,S460,S545,S590,S400,</p>
+				<p>C250,C590,C1300,C80,C120,C135,C150,C460,</p>
+				<p>D25,D55,D330,D1275,</p>
+				<p>E1225,E320,E150,E200,E330,E350,E480,E145,E290,</p>
+				<p>A305,A105,A150,A175,A250,</p>
+				<p>W1375,W120,W150,W25,W180,</p>
+
+				<p><b>Notes</b>: Buff: max Ziggurats, max Flesh Workshops, TTC4, and optionally spells and assistants.</p>
+				<p><b>Notes</b>: Weaker than DPE, but requires no F6000 and can finish reincarnations up to R198 before DPE becomes usable.</p>
+			</div>
+		</div>
+
+
+
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DPE (Diabolic Penguin Empire) (R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
 			<div class="autohide">
@@ -85,7 +131,7 @@
 				<p><b>Requirement</b>: Mercenary Challenge 1, 16h+ (This R)</p>
 				<p><b>Range</b>: 1e80 (100 Qivg) Gems - 1e105 (1 Qatg) Gems </p>
 				<p><b>Faction</b>: Evil/Order Mercenary</p>
-				<p><b>Bloodline/Lineage</b>: Fairy</p>
+				<p><b>Bloodline</b>: Fairy</p>
 				<p><b>A2950</b>: Faceless</p>
 				<p><b>MCC4</b>: Angel</p>
 				<p><b>Artifact Set</b>: Mercenary</p>
@@ -122,7 +168,7 @@
 				<p>W120,W150,W25,W180</p>
 				<p><b>Notes</b>: Switch DN2->DM2 when going for A5375.</p> 
 				<p><b>Notes</b>: Buff F6000, Ziggurats (This R), Flesh Workshops (This R), Mana produced, Assistants.</p> 
-				<p><b>Notes</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading) to be able to afford A5375.</p>
+				<p><b>Notes</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading, F6000, and DM4) to be able to afford A5375. Rs up to 198 can be finished by the previous build before DPE can afford A5375.</p>
 				<p><b>Notes</b>: This build requires recasting spells occasionally, especially Fairy Chanting and Precognition.</p>
 			</div>
 		</div>
@@ -197,7 +243,7 @@
 				<p><b>Range</b>: N/A</p>
 				<p><b>Faction</b>: Fairy</p>
 				<p><b>Bloodline</b>: Titan</p>
-				<p><b>Artifact Set</b>: Elf set (clicks)</p>
+				<p><b>Artifact Set</b>: Elf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S1,S30,S180,S215,S400,S5125,C10,C105,C340,C400,C5125,D55,D135,D150,D205,D225,D245,D250,D290,D320,D435,D480,D525,D1275,D1375,E30,E50,E80,E135,E145,E150,E200,E250,E290,E320,E330,E400,E410,E460,E480,E1325,A30,A55,A105,A120,A135,A150,A200,A250,A305,A330,A400,A480,A3400,W120,W135,W150,W180,W200,W250,W400,W1375,W3150,F6000">
@@ -392,7 +438,7 @@
 				<p>A2950,A270,A5375,</p>
 				<p>W1275,W275,W5125,W400,W1375,</p>
 				<p>F6000,F5500</p>
-				<p><b>Notes</b>: For multiple day f6000, buffing dm2 is recommended. Secondary researches to spend extra points on: S400,S2875,S180,C5125,C250,A120,A305,A3400,W3050</p>
+				<p><b>Notes</b>: For multiple day F6000, buffing DM2 is recommended. Secondary researches to spend extra points on: S400,S2875,S180,C5125,C250,A120,A305,A3400,W3050</p>
 				<p><b>Notes</b>: Buy E3300 only when you're ready to abdicate. E3300 tanks the production of the build but massively boosts F6000. Buy any buildings that E3300 provides with the building cost reduction, refresh all spells and then abdicate.</p>
 			</div>
 		</div>
@@ -812,7 +858,7 @@
 				</p>
 				<p>FR4,EL7,AN12,GB12,UD10,DM11,TT8,DD6,FC2,DN2,DW2,DW6,DG7,AR5,DJ7,MK1,</p>
 				<p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:GB,UNN:DN</p>
-				<p><b>Notes</b>: Buff Excavation Resets, assistants to at least 100e30, and F6000.</p>
+				<p><b>Notes</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
 				<p><b>Notes</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades.</p>
 			</div>
 		</div>
