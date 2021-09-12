@@ -105,6 +105,7 @@
     </div>
     <br/>
     <p><b>Buff Builds</b></p>
+	<div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Mana Produced</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
@@ -131,7 +132,6 @@
                 <p><b>Notes</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regeneration at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
             </div>
         </div>
-        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Excavation Resets</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
@@ -156,7 +156,6 @@
                 <p>F5750</p>
             </div>
         </div>
-        <br/>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">F6000 (R182-R190)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
             <div class="autohide">
@@ -206,7 +205,7 @@
                 <p>A30,A120,A270,A305,A545,A2950,A1500,</p>
                 <p>W275,W1275,W1375,W400,W1400,</p>
                 <p>F5250</p>
-                <p><b>Notes</b>: Elfline -> A2950:maker/druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike. Buff assistants, max Flesh Workshops Excavations and resets.</p>
+                <p><b>Notes</b>: Elfline -> A2950:Maker/Druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike. Buff assistants, max Flesh Workshops Excavations and resets.</p>
             </div>
         </div>
     </div>
