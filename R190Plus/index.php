@@ -173,7 +173,7 @@
           <p>A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,</p>
           <p>W25,W175,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Buff Fairyset (1-2h+), mana produced, max assistants, F6000, max Flesh Workshops / Brothels, highest mana regeneration, excavations/excavation resets this R. At e80+, switch to Brothel. Reset spells often.</p>
+          <p><b>Notes</b>: Buff Fairyset (1-2h+), mana produced, max assistants, F6000, max Flesh Workshops, highest mana regeneration, excavations/excavation resets this R. At e80+, switch to Brothel. Reset spells often.</p>
         </div>
       </div>
       <div class="shelementwhole">
