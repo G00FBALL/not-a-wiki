@@ -104,7 +104,6 @@
           <p><b>Faction</b>: Evil/Order Mercenary</p>
           <p><b>Bloodline</b>: Fairy</p>
           <p><b>A2950</b>: Faceless</p>
-          <p><b>MCC4</b>: Angel</p>
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
