@@ -164,10 +164,10 @@
 			</div>
 			<br />
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R46 - Dragon unlock & spell tiering</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">R46 - Dragon unlock & Spell tiering</a></b></p>
 				<div class="autohide">
 					<p>Dragon unlock is an unskippable 2-day-long wait with nothing of significance to do. Thus, it is recommended that you use this time to tier some spells to a higher tier, which in turn drastically saves time on future Tierings in later Reincarnations.</p>
-					<p>Said spells are: Demon spells (all spells that are visible when you join Demon) and Elf spells, which you'll tier to Tier 3 and Tier 2 respectively according to the optimal Tiering plan at the top of the page.</p>
+					<p>Said spells are: Demon spells (all spells that are visible when you join Demon) and Elf spells, which you'll tier to Tier 3 and Tier 2 respectively according to the optimal Tiering plan at the bottom of the page.</p>
 					<p>You tier Demon spells because you're already having a 12h headstart from dragon unlock stage 2.</p>
 					<p>And as for Elf spells, there are two main reasons:</p>
 					<p>1) You rarely ever want to stop Tiering below Tier 6: Any progress toward the next tier will reset upon reincarnating, so it's really wasteful to reincarnate without tiering all the way to Tier 6. But you only have the time to tier to Tier 2 in R46, so the tiering spell must be one of the lesser used spell, where it doesn't matter whether the spell is Tier 6 or Tier 2.</p>
