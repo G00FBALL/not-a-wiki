@@ -24,7 +24,7 @@
           </p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C590,C80,C135,C150,C25,C105,C305,D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,W25,W50">
+            <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C590,C80,C135,C150,C25,C105,C305,D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,W205,W25,W50">
             <b>Secondary Researches</b>
           </p>
           <p>AN5,GB3,GB4,UD7,UD10,DM4,FC3,DD11,DN2,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,</p>
@@ -42,9 +42,8 @@
           <p>D25,D150,D320,D55,D135,D245,D250,D480,D560,D590,D1275,D400,</p>
           <p>E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,</p>
           <p>A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,</p>
-          <p>W25,W50</p>
-          <p><b>Notes</b>: Doesn’t require F6000 buffing, good for earlier ranges and easier to start with limited buffs to game time.</p> 
-          <p><b>Notes</b>: Benefits from Mana produced/Spells cast (This R).</p> 
+          <p>W205,W25,W50</p>
+          <p><b>Notes</b>: Used to get a meaningful gem count before doing buff runs and switching to the main 190-198 production build.</p> 
           <p><b>Notes</b>: Import the primary template repeatedly as you earn more points until all researches listed have been picked (usually W5625 is the last one to get selected), then repeatedly import secondary researches. Wait for Catalyst to hit Gem Grinder for maximum production before abdicating.</p> 
           <p><b>Notes</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
         </div>
@@ -107,7 +106,7 @@
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="GB3,AN4,AN5,AN8,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D5625,E3300,E135,E5125,E400,E495,E145,E230,A2950,A270,A5375,W5625,W1275,W275,W400,W1375,W205,F5250">
+            <input type="text" value="GB3,AN4,AN5,AN8,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,AR2,AR12,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D5625,E3300,E135,E5125,E400,E495,E145,E230,A2950,A270,A5375,W5625,W1275,W275,W400,W1375,W205,F5250">
           </p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
@@ -119,7 +118,7 @@
             <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C1300,C500,C590,C25,C105,D25,D150,D320,E290,E1225,E10,E320,E460,E480,E1325,W120,W150,W25,W180">
             <b>After Alchemy Boosts and W1375</b>
           </p>
-          <p>GB3,AN4,AN5,AN8,GB6,UD7,UD10,DD10,DD11,FC3,DN2,DN9,AR2,AR12,DJ5,DJ7,</p>
+          <p>GB3,AN4,AN5,AN8,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,AR2,AR12,DJ5,DJ7,</p>
           <p>SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,</p>
           <p>S200,S400,S5875,S180,</p>
           <p>C5125,C175,C250,C340,C400,</p>
@@ -136,9 +135,10 @@
           <p>D25,D150,D320,</p>
           <p>E290,E1225,E10,E320,E460,E480,E1325,</p>
           <p>W120,W150,W25,W180</p>
+          <p><b>Notes</b>: This build is the strongest found so far in R190-198, but is only functional if you have spent more than the usual amount of time in those Rs. Use this if you have been inactive in an R for a longer period.</p> 
           <p><b>Notes</b>: Switch DN2->DM2 when going for A5375.</p> 
           <p><b>Notes</b>: Buff F6000, Ziggurats (This R), Flesh Workshops (This R), Mana produced, Assistants.</p> 
-          <p><b>Notes</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading, F6000, and DM4) to be able to afford A5375. Rs up to 198 can be finished by the previous build before DPE can afford A5375.</p>
+          <p><b>Notes</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading, F6000, and DM4) to be able to afford A5375 (7-10h time this R depending on facless lineage level). Rs up to 198 can be finished by the previous build before DPE can afford A5375.</p>
           <p><b>Notes</b>: This build requires recasting spells occasionally, especially Fairy Chanting and Precognition.</p>
         </div>
       </div>
@@ -288,9 +288,9 @@
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="AN4,AN5,AN8,GB6,UD7,DM2,DD10,DD11,FC3,DN2,DN9,AN12,AR12,DJ3,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:TT,S200,S400,S5875,S5125,C175,C340,C400,C5875,C5125,D200,D275,D290,D330,D5625,E135,E230,E290,E320,E3300,E5625,A120,A270,A2950,A5375,W275,W5625,W1275,W5125,F5250,F5500">
+            <input type="text" value="AN4,AN5,AN8,GB4,UD7,DM2,DD10,DD11,FC3,DN2,DN9,AN12,AR12,DJ3,DJ5,DJ7,SP:Brainwave,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:TT,S200,S400,S5875,S5125,C175,C340,C400,C5875,C5125,D200,D275,D290,D330,D5625,E135,E230,E290,E320,E3300,E5625,A120,A270,A2950,A5375,W275,W5625,W1275,W5125,F5250,F5500">
           </p>
-          <p>AN4,AN5,AN8,UD7,DM2,DM4,DD10,DD11,FC3,DN2,DN9,AN12,AR12,DJ3,DJ5,DJ7,</p>
+          <p>AN4,AN5,AN8,GB4,UD7,DM2,DD10,DD11,FC3,DN2,DN9,AN12,AR12,DJ3,DJ5,DJ7,</p>
           <p>SP:Brainwave,SP:Precognition,UB:Flesh Workshop,UNN:AR,UNN:TT,</p>
           <p>S200,S400,S5875,S5125,</p>
           <p>C175,C340,C400,C5875,C5125,</p>
@@ -364,7 +364,7 @@
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="EL5,EL12,GB3,GB4,GB6,UD10,FC3,DN2,DN8,DN9,DW7,DW12,AR12,DJ3,DJ5,DJ7,SP:Grand Balance,SP:Infinite Spiral,UB:Brothel,UNN:MK,UNN:DG,S30,S180,S200,S400,S5125,C25,C80,C175,C250,C340,C5125,D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D400,D480,D560,D590,D1375,E25,E30,E135,E145,E230,E290,E5125,A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,W25,W175,W275,W400,W5125,F5750">
+            <input type="text" value="EL12,AN4,AN5,GB3,UD10,GB4,FC3,DN2,DN8,DN9,DW7,DW10,DW12,DJ3,DJ7,MK6,SP:Grand Balance,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:DW,S30,S180,S200,S400,S5125,C25,C105,C340,C400,C5125,D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D400,D480,D560,D590,D1275,E135,E290,E400,E5125,A30,A55,A105,A120,A270,A305,A545,A1500,A2950,W180,W275,W400,W5125,F5750">
           </p>
           <p>EL12,AN4,AN5,GB3,UD10,GB4,FC3,DN2,DN8,DN9,DW7,DW10,DW12,DJ3,DJ7,MK6,</p>
           <p>SP:Grand Balance,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:DW,</p>
@@ -376,7 +376,7 @@
           <p>W180,W275,W400,W5125,</p>
           <p>F5750</p>
           <p><b>Notes</b>: Buff F6000, max assistants</p>
-          <p><b>Notes</b>: At coin cap: DJ7->DJ9, DJ3->DM2, GB4->GB6, S researches->S5875?, F5750->F5250 if you have offline time. If you can still reach cap: Grand balance-> moon blessing</p>
+          <p><b>Notes</b>: At coin cap: DJ7->DJ9, DJ3->DM2, S researches->S5875?, F5750->F5250 if you have offline time. If you can still reach cap: Grand balance-> moon blessing</p>
         </div>
       </div>
       <br/>
@@ -527,9 +527,9 @@
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="FR12,GB5,GB6,UD7,DM2,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,S200,S3200,S5625,C250,C340,C400,C590,C5875,D200,D275,D290,D330,D5625,E135,E320,E3300,E5625,A5375,A270,A2950,A30,A120,A545,W1275,W5625,W275,W400,W1375,W205,F5250">
+            <input type="text" value="FR12,GB5,UD7,DM2,DM4,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,S200,S3200,S5625,C250,C340,C400,C590,C5875,D200,D275,D290,D330,D5625,E135,E320,E3300,E5625,A5375,A270,A2950,A30,A120,A545,W1275,W5625,W275,W400,W1375,W205,F5250">
           </p>
-          <p>FR12,GB5,GB6,UD7,DM2,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,</p>
+          <p>FR12,GB5,UD7,DM2,DM4,TT2,DD10,DD11,FC3,DN4,DN9,DW7,DJ3,AR12,DJ5,DJ7,</p>
           <p>SP:Fairy Chanting,SP:Precognition,UB:Brothel,UNN:AR,UNN:AN,</p>
           <p>S200,S3200,S5625,</p>
           <p>C250,C340,C400,C590,C5875,</p>
@@ -629,7 +629,7 @@
     <p><b>Lineage Builds</b></p>
     <div class="category">
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 75 (R194+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druid Lineage 75+ (R194+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Rade</p>
           <p><b>Requirement</b>: Mercenary Challenge 2</p>
@@ -643,16 +643,16 @@
           </p>
           <p>EL5,EL7,EL11,AN4,AN5,AN11,UD7,UD10,DM2,FC2,FC3,DW7,DW12,AR5,AR8,MK1,</p>
           <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DN,</p>
-          <p>S5875,</p>
+          <p>S5375,S200,S400,</p>
           <p>C5375,C400,C175,</p>
-          <p>D290,D330,D200,</p>
-          <p>E3300,E145,E135,E290,E320,E1325,</p>
+          <p>D290,D330,D200,D275,</p>
+          <p>E3300,E320,E135,E1425,E145,E230,E290,</p>
           <p>A250,A120,A270,A305,A1500,A2950,</p>
           <p>W1275,W1375,W1400,W275,W400,</p>
           <p>F5750</p>
           <p><b>Notes</b>: First level druidline to 72/73, then bring elfline up to par, then run druid for the highest level.</p>
           <p><b>Notes</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings.</p>
-					<p><b>Notes</b>: Recommended minimum buffs: 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
+					<p><b>Notes</b>: Recommended minimum buffs: 1hr minimum spell activity time, 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -661,21 +661,21 @@
           <p><b>Author</b>: Rade</p>
           <p><b>Requirement</b>: Mercenary Challenge 2</p>
           <p><b>Faction</b>: Neutral/Chaos Mercenary</p>
-          <p><b>Bloodline</b>: Any (best with Titan)</p>
-          <p><b>A2950</b>: Elf (or Titan if using Elf lineage)</p>
+          <p><b>Bloodline</b>: Any</p>
+          <p><b>A2950</b>: Elf (Titan if using Elf lineage)</p>
           <p><b>Artifact Set</b>: Faceless</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
             <input type="text" value="EL5,EL7,EL11,AN4,AN5,AN11,UD7,UD10,DM2,FC2,FC3,DW7,DW12,AR5,DJ9,MK1,SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DN,S200,S5375,S180,S215,S30,C400,C5375,C25,C175,D200,D290,D330,D275,D1375,D25,D55,D135,D150,D250,D260,D320,D480,D560,D1275,E3300,E135,E320,E1425,E145,E230,E25,E30,E290,A270,A305,A1500,A2950,A55,A105,A120,A135,A150,A250,W275,W400,W1275,W1375,W1400,W25,W120,W135,W150,W175,W180,W200,W250,F5750">
           </p>
-          <p>EL7,EL11,AN4,AN5,AN11,UD7,UD10,DM2,FC2,FC3,DD6,DW7,DW12,AR5,DJ9,MK1,</p>
+          <p>EL5,EL7,EL11,AN4,AN5,AN11,UD7,UD10,DM2,FC2,FC3,DW7,DW12,AR5,DJ9,MK1,</p>
           <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Ziggurat,UNN:DN,</p>
-          <p>S30,S180,S200,S400,S500,</p>
-          <p>C175,C400,C5375,</p>
-          <p>D200,D290,D330,</p>
-          <p>E135,E145,E230,E290,E320,E1325,E3300,</p>
-          <p>A120,A270,A305,A1500,A2950,</p>
-          <p>W135,W275,W400,W1275,W1375,W1400,</p>
+          <p>S200,S5375,S180,S215,S30,</p>
+          <p>C400,C5375,C25,C175,</p>
+          <p>D200,D290,D330,D275,D1375,D25,D55,D135,D150,D250,D260,D320,D480,D560,D1275,</p>
+          <p>E3300,E135,E320,E1425,E145,E230,E25,E30,E290,</p>
+          <p>A270,A305,A1500,A2950,A55,A105,A120,A135,A150,A250,</p>
+          <p>W275,W400,W1275,W1375,W1400,W25,W120,W135,W150,W175,W180,W200,W250,</p>
           <p>F5750</p>
           <p><b>Notes</b>: Notes: If using Dragon/Makers lineage, swap in Lightning Strike as the remaining spell. Reset all your spells and reactivate them during Chaos Madness: Faceless, then most progress will be made during Chaos Madness: Archon or Chaos Madness: Titan. If you're doing titan, get Lightning Strike to hit Hall of Legends when you recast.</p>
         </div>
@@ -745,9 +745,9 @@
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="FR1,FR4,FR7,AN5,AN8,AN12,GB3,GB4,GB6,GB12,UD7,DD10,DN2,DN9,AR10,DJ3,SP:Fairy Chanting,SP:Hellfire Blast,UB:Swarming Tower,UNN:DN,S1,S30,S105,S135,S150,S180,S200,S215,S250,S270,S305,S375,S400,S435,S460,S545,S590,S1275,C10,C25,C80,C5875,D25,D55,D135,D150,D200,D205,D225,D245,D250,D275,D290,D330,D480,D525,D560,D590,D1375,E25,E30,E80,E135,E145,E230,E320,E400,E1325,E3300,A25,A30,A55,A120,A135,A175,A270,A305,A375,A1500,A2950,W25,W135,W150,W175,W180,W250,W275,W290,W400,W1275,W1375,W1400,F5500">
+            <input type="text" value="FR1,FR4,FR7,AN4,AN5,AN8,AN12,GB3,GB4,GB12,UD7,DD10,DN2,DN9,AR10,DJ3,SP:Fairy Chanting,SP:Hellfire Blast,UB:Swarming Tower,UNN:DN,S1,S30,S105,S135,S150,S180,S200,S215,S250,S270,S305,S375,S400,S435,S460,S545,S590,S1275,C10,C25,C80,C5875,D25,D55,D135,D150,D200,D205,D225,D245,D250,D275,D290,D330,D480,D525,D560,D590,D1375,E25,E30,E80,E135,E145,E230,E320,E400,E1325,E3300,A25,A30,A55,A120,A135,A175,A270,A305,A375,A1500,A2950,W25,W135,W150,W175,W180,W250,W275,W290,W400,W1275,W1375,W1400,F5500">
           </p>
-          <p>FR1,FR4,FR7,AN5,AN8,AN12,GB3,GB4,GB6,GB12,UD7,DD10,DN2,DN9,AR10,DJ3,</p>
+          <p>FR1,FR4,FR7,AN4,AN5,AN8,AN12,GB3,GB4,GB12,UD7,DD10,DN2,DN9,AR10,DJ3,</p>
           <p>SP:Fairy Chanting,SP:Hellfire Blast,UB:Swarming Tower,UNN:DN,</p>
           <p>S1,S30,S105,S135,S150,S180,S200,S215,S250,S270,S305,S375,S400,S435,S460,S545,S590,S1275,</p>
           <p>C10,C25,C80,C5875,</p>
@@ -801,35 +801,52 @@
           <p><b>Artifact Set</b>: Angel</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB6,UD7,DD3,DN2,AR8,AR10,MK1,MK5,SP:God's Hand,SP:Infinite Spiral,UB:Arboreal City,S175,S400,S1275,S200,C105,C175,C250,C340,C400,C590,D150,D200,D275,D290,D525,D1375,E135,E320,A2950,A305,W275,W400,W1375">
+            <input type="text" value="EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB4,UD7,DD3,DN2,AR8,AR10,MK1,MK5,SP:Dragon’s Breath,SP:Infinite Spiral,UB:Arboreal City,S175,S400,S1275,S200,C105,C175,C250,C340,C400,C590,D150,D200,D275,D290,D525,D1375,E135,E320,A2950,A305,W275,W400,W1375">
           </p>
-          <p>EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB6,UD7,DD3,DN2,AR8,AR10,MK1,MK5,</p>
-          <p>SP:God's Hand,SP:Infinite Spiral,UB:Arboreal City,</p>
+          <p>EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB4,UD7,DD3,DN2,AR8,AR10,MK1,MK5,</p>
+          <p>SP:Dragon’s Breath,SP:Infinite Spiral,UB:Arboreal City,</p>
           <p>S175,S400,S1275,S200,</p>
           <p>C105,C175,C250,C340,C400,C590,</p>
           <p>D150,D200,D275,D290,D525,D1375,</p>
           <p>E135,E320,</p>
           <p>A2950,A305,</p>
           <p>W275,W400,W1375</p>
-          <p><b>Notes</b>: Buy A2950 before importing, don't buy: R power, challenge power, Holy Crusaders, UD heritage, FR and FC AH, Sun force, makers mask, Individual building upgrades (such as crop rotation for farms) except the Hall of Legends ones. Respec rubies before run if desired, otherwise, don't buy ruby power. Your 1 assistant comes from assistant squasher</p>
+          <p><b>Notes</b>: Buy A2950 before importing, don't buy: R power, challenge power, Holy Crusaders, UD heritage, FR and FC AH, Sun force, makers mask, Individual building upgrades (such as crop rotation for farms) except the Hall of Legends ones. Respec rubies before run if desired, otherwise, don't buy ruby power. Your 1 assistant comes from assistant squasher. Uncast dragon's breath and infinite spiral after getting enough FC.</p>
           <p><b>Notes</b>: Buff excav resets, assistants</p>
         </div>
       </div>
       <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5 (R206)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
         <div class="autohide">
+          <p><b>Author</b>:  Ensteffahn, modified by Miracle Man0</p>
+          <p><b>Range</b>: 1e114 (1 Sptg) Gems</p>
+          <p><b>Faction</b>: Evil/Balance Mercenary</p>
+          <p><b>Bloodline</b>: Goblin</p>
+          <p><b>Artifact Set</b>: Mercenary</p>
+          <p>
+            <button onclick="myFunction($(this))">Copy Build</button>
+            <input type="text" value="FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,">
+          </p>
+          <p>FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
+          <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,</p>
+          <p><b>Notes</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
+          <p><b>Notes</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades. Wait to buy Tyrant Garrison until after getting as many evil fortresses as possible.</p>
+
+          <p><b>Low Buffs Version</b></p>
           <p><b>Author</b>: Rade</p>
+          <p><b>Range</b>: 1e110 (100 Qitg) Gems</p>
           <p><b>Faction</b>: Neutral/Chaos Mercenary</p>
           <p><b>Bloodline</b>: Goblin</p>
           <p><b>Artifact Set</b>: Faceless</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="FR4,EL7,AN12,GB12,UD10,DM11,TT8,DD6,FC2,DN2,DW2,DW6,DG7,AR5,DJ7,MK1,SP:Fairy Chanting,SP:Infinite Spiral,UNN:GB,UNN:DN">
+            <input type="text" value="FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT">
           </p>
-          <p>FR4,EL7,AN12,GB12,UD10,DM11,TT8,DD6,FC2,DN2,DW2,DW6,DG7,AR5,DJ7,MK1,</p>
-          <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:GB,UNN:DN</p>
-          <p><b>Notes</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
-          <p><b>Notes</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades.</p>
+          <p>FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,</p>
+          <p>SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT</p>
+          <p><b>Notes</b>: Requires less stats than the standard build, but will likely be slower in normal circumstances due to chaos randomness. Use the standard build if you have e114+ gems and use this one if you have less.</p>
+          <p><b>Notes</b>: Don't buy freemason's hall; cycle maelstrom until the next cast will be targeting HoL with assistants and then stop casting; wait until chaos madness hits faceless lineage, and then re-enable autocasting on maelstrom and recast all other spells; let chaos madness hit elven lineage to gain FCs for royal exchanges; let chaos madness hit demon lineage for production to increase building count. Once inns are at around 65k, you may want to buy freemason's hall (and For Science! and Secret Exchange that it unlocks) to roughly double production and FC gain.</p>
+          <p><b>Notes</b>: Double buff F6000 and buff assistants/mana stats/excavation stats.</p>
         </div>
       </div>
     </div>
