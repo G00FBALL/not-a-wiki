@@ -106,7 +106,7 @@
           <p><b>Artifact Set</b>: Mercenary</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="GB3,AN4,AN5,AN8,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,AR2,AR12,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D5625,E3300,E135,E5125,E400,E495,E145,E230,A2950,A270,A5375,W5625,W1275,W275,W400,W1375,W205,F5250">
+            <input type="text" value="AN4,AN5,AN8,GB3,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,AR2,AR12,DJ5,DJ7,SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,S200,S400,S5875,S180,C5125,C175,C250,C340,C400,D200,D275,D290,D330,D1375,D5625,E3300,E135,E5125,E400,E495,E145,E230,A2950,A270,A5375,W5625,W1275,W275,W400,W1375,W205,F5250">
           </p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
@@ -118,7 +118,7 @@
             <input type="text" value="S150,S215,S330,S460,S590,S545,S305,S30,C1300,C500,C590,C25,C105,D25,D150,D320,E290,E1225,E10,E320,E460,E480,E1325,W120,W150,W25,W180">
             <b>After Alchemy Boosts and W1375</b>
           </p>
-          <p>GB3,AN4,AN5,AN8,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,AR2,AR12,DJ5,DJ7,</p>
+          <p>AN4,AN5,AN8,GB3,UD7,UD10,DM2,DM4,DD10,DD11,FC3,DN9,AR2,AR12,DJ5,DJ7,</p>
           <p>SP:Grand Balance,SP:Precognition,UB:Brothel,UNN:AR,</p>
           <p>S200,S400,S5875,S180,</p>
           <p>C5125,C175,C250,C340,C400,</p>
@@ -816,37 +816,45 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5 (R206)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5 (R206)</p>
         <div class="autohide">
-          <p><b>Author</b>:  Ensteffahn, modified by Miracle Man0</p>
-          <p><b>Range</b>: 1e114 (1 Sptg) Gems</p>
-          <p><b>Faction</b>: Evil/Balance Mercenary</p>
-          <p><b>Bloodline</b>: Goblin</p>
-          <p><b>Artifact Set</b>: Mercenary</p>
-          <p>
-            <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,">
-          </p>
-          <p>FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
-          <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,</p>
-          <p><b>Notes</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
-          <p><b>Notes</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades. Wait to buy Tyrant Garrison until after getting as many evil fortresses as possible.</p>
-
-          <p><b>Low Buffs Version</b></p>
-          <p><b>Author</b>: Rade</p>
-          <p><b>Range</b>: 1e110 (100 Qitg) Gems</p>
-          <p><b>Faction</b>: Neutral/Chaos Mercenary</p>
-          <p><b>Bloodline</b>: Goblin</p>
-          <p><b>Artifact Set</b>: Faceless</p>
-          <p>
-            <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT">
-          </p>
-          <p>FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,</p>
-          <p>SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT</p>
-          <p><b>Notes</b>: Requires less stats than the standard build, but will likely be slower in normal circumstances due to chaos randomness. Use the standard build if you have e114+ gems and use this one if you have less.</p>
-          <p><b>Notes</b>: Don't buy freemason's hall; cycle maelstrom until the next cast will be targeting HoL with assistants and then stop casting; wait until chaos madness hits faceless lineage, and then re-enable autocasting on maelstrom and recast all other spells; let chaos madness hit elven lineage to gain FCs for royal exchanges; let chaos madness hit demon lineage for production to increase building count. Once inns are at around 65k, you may want to buy freemason's hall (and For Science! and Secret Exchange that it unlocks) to roughly double production and FC gain.</p>
-          <p><b>Notes</b>: Double buff F6000 and buff assistants/mana stats/excavation stats.</p>
+          <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">e114+ Gems</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <div class="autohide">
+              <p><b>Author</b>:  Ensteffahn, modified by Miracle Man0</p>
+              <p><b>Range</b>: 1e114 (1 Sptg) Gems</p>
+              <p><b>Faction</b>: Evil/Balance Mercenary</p>
+              <p><b>Bloodline</b>: Goblin</p>
+              <p><b>Artifact Set</b>: Mercenary</p>
+              <p>
+                <button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,">
+              </p>
+              <p>FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
+              <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,</p>
+              <p><b>Notes</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
+              <p><b>Notes</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades. Wait to buy Tyrant Garrison until after getting as many evil fortresses as possible.</p>
+            </div>
+          </div>
+          <div class="shelementwhole">
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Low Gems</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumPurple">Chaos</font></b></p>
+            <div class="autohide">
+              <p><b>Author</b>: Rade</p>
+              <p><b>Range</b>: 1e110 (100 Qitg) Gems</p>
+              <p><b>Faction</b>: Neutral/Chaos Mercenary</p>
+              <p><b>Bloodline</b>: Goblin</p>
+              <p><b>Artifact Set</b>: Faceless</p>
+              <p>
+              <button onclick="myFunction($(this))">Copy Build</button>
+                <input type="text" value="FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT">
+              </p>
+              <p>FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,</p>
+              <p>SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT</p>
+              <p><b>Notes</b>: Requires less stats than the standard build, but will likely be slower in normal circumstances due to chaos randomness. Use the standard build if you have e114+ gems and use this one if you have less.</p>
+              <p><b>Notes</b>: Don't buy freemason's hall; cycle maelstrom until the next cast will be targeting HoL with assistants and then stop casting; wait until chaos madness hits faceless lineage, and then re-enable autocasting on maelstrom and recast all other spells; let chaos madness hit elven lineage to gain FCs for royal exchanges; let chaos madness hit demon lineage for production to increase building count. Once inns are at around 65k, you may want to buy freemason's hall (and For Science! and Secret Exchange that it unlocks) to roughly double production and FC gain.</p>
+              <p><b>Notes</b>: Double buff F6000 and buff assistants/mana stats/excavation stats.</p>
+            </div>
+          </div>  
         </div>
       </div>
     </div>
