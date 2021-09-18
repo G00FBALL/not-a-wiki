@@ -48,8 +48,6 @@
           <p><b>Notes</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
         </div>
       </div>
-
-
       <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R190-R198 Production</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
@@ -78,7 +76,6 @@
           <p>A5375,A270,A2950,A30,A120,</p>
           <p>W275,W1275,W5625,W400,</p>
           <p>F5250,</p>
-
           <p><b>Secondary Researches</b>:</p>
           <p>S150,S215,S270,S305,S330,S460,S545,S590,S400,</p>
           <p>C250,C590,C1300,C80,C120,C135,C150,C460,</p>
@@ -86,14 +83,10 @@
           <p>E1225,E320,E150,E200,E330,E350,E480,E145,E290,</p>
           <p>A305,A105,A150,A175,A250,</p>
           <p>W1375,W120,W150,W25,W180,</p>
-
           <p><b>Notes</b>: Buff: max Ziggurats, max Flesh Workshops, TTC4, and optionally spells and assistants.</p>
           <p><b>Notes</b>: Weaker than DPE, but requires no F6000 and can finish reincarnations up to R198 before DPE becomes usable.</p>
         </div>
       </div>
-
-
-
       <div class="shelementwhole">
         <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DPE (Diabolic Penguin Empire) (R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
@@ -652,7 +645,7 @@
           <p>F5750</p>
           <p><b>Notes</b>: First level druidline to 72/73, then bring elfline up to par, then run druid for the highest level.</p>
           <p><b>Notes</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings.</p>
-					<p><b>Notes</b>: Recommended minimum buffs: 1hr minimum spell activity time, 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
+          <p><b>Notes</b>: Recommended minimum buffs: 1hr minimum spell activity time, 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -816,7 +809,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5 (R206)</p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Mercenary Challenge 5 (R206)</a></b></p>
         <div class="autohide">
           <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">e114+ Gems</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
