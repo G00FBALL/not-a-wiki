@@ -346,7 +346,7 @@
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="GB3,GB5,UD7,DM2,TT7,DD6,FC3,DN4,DW7,DG3,DG4,DG9,MA:DW8,SP:God's Hand,SP:Grand Balance,S50,S305,S1450,S1500,C340,C590,C1300,C3000,D25,D1275,D1375,D2775,E135,E1225,E3250,E3300,A120,A410,A1500,A2950,W400,W525,W3050,W3150">
-					<b>PB+10</b>
+					<b>Primal Balance +10</b>
 				</p>
 				<p>GB3,GB5,UD7,DM2,TT7,DD6,FC3,DN4,DW7,DG3,DG4,DG9,MA:DW8,</p>
 				<p>SP:God's Hand,SP:Night Time,</p>
@@ -511,7 +511,7 @@
 				<p>W400,W1375,W1400,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Build is for generating enough mana for Primal Balance (Druid's challenge reward).</p>
-				<p><b>Notes</b>: Estimated 1 hour (R82-89) or 45 minutes (R90+) for PB+10.</p>
+				<p><b>Notes</b>: Estimated 1 hour (R82-89) or 45 minutes (R90+) for Primal Balance +10.</p>
 				<p><b>Notes</b>: For R90+ add S215,C400,D1375,E320,A305,W275 and swap DG3->FC2 (Requires Veteran Figurine).</p>
 			</div>
 		</div>
@@ -537,8 +537,8 @@
 				<p>W400,W1375,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: S50 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Gets PB+10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC3. Helps future Evil Merc runs greatly.</p>
-				<p><b>Notes</b>: Estimated 2-3 (?) hours for PB+10.</p>
+				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Gets Primal Balance +10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC3. Helps future Evil Merc runs greatly.</p>
+				<p><b>Notes</b>: Estimated 2-3 (?) hours for Primal Balance +10.</p>
 			</div>
 		</div>
 	</div>
