@@ -480,7 +480,7 @@
 				<p>W1375,W1400,W3050,W3150</p>
 				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Notes</b>: Benefits from Holy Crusader growth and high Undead & Elf Lineage levels.</p>
-				<p><b>Notes</b>: Fairyline Neutral Merc has a naturally high assistant count, therefore automatically buffs W275/ Freemason Hall by itself.This build only perform slightly better than Neutral Merc.</p>
+				<p><b>Notes</b>: Fairyline Neutral Merc has a naturally high assistant count, therefore automatically buffs W275 / Freemason Hall by itself. This build only performs slightly better than Neutral Merc.</p>
 				<p><b>Notes</b>: For R90+ add S305,C225,D25,E50,A545,W400.</p>
 			</div>
 		</div>
