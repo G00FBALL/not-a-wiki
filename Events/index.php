@@ -19,8 +19,8 @@
         </p>
 		<script>
 			var currentTime = new Date().getTime();
-			var countDownDate1 = new Date("August 26, 2021 12:01:00 UTC").getTime();
-			var countDownDate2 = new Date("September 2, 2021 18:59:00 UTC").getTime();
+			var countDownDate1 = new Date("September 23, 2021 12:01:00 UTC").getTime();
+			var countDownDate2 = new Date("September 30, 2021 18:59:00 UTC").getTime();
 			var x = setInterval(function() {
 				var now = new Date().getTime();
 				var distance = countDownDate1 - now;
@@ -62,7 +62,7 @@
                     <tr>
                         <th>Rubies</th>
                         <th colspan="1">Event</th>
-                        <th colspan="7">Total Cumulative Bonus 399%</th>
+                        <th colspan="7">Total Cumulative Bonus: 411%</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -153,7 +153,7 @@
                             <td></td>
                             <td>12%</td>
 							<td>12%</td>
-							<td></td>
+							<td>12%</td>
                         </tr>
                         <tr>
                             <td>40 (8)</td>
@@ -660,6 +660,15 @@
 					<p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="243,483,296,536" shape="rect">
+					<area research="
+					<p><b>Idillium</b></p>
+					<p><b><img src='/realm/Factions/picks/IdilliumExplorer.png' align='middle'> Idillium Explorer</b></p>
+					<p><b>Type</b>: Feat</p>
+					<p><b>Requirement</b>: Cast a Remnant spell with 6 different factions.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Effect</b>: Reduce the cost of all spells by 10%.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					" coords="303,483,356,536" shape="rect">
                 </map>
             </p>
         </center>
@@ -818,6 +827,9 @@
 					<p><b><img src='/realm/Factions/picks/SearingSummer.png' align='middle'> Searing Summer (Summer Event)</b></p>
 					<p><b>Effect</b>: Increase the production of all buildings by 50%.</p>
 					<br/>
+					<p><b><img src='/realm/Factions/picks/IdilliumExplorer.png' align='middle'> Idillium Explorer (Idillium)</b></p>
+					<p><b>Effect</b>: Reduce the cost of all spells by 10%.</p>
+					<br/>
                     <p><b><img src="/realm/Factions/picks/SpectralSurge.png" align="middle"> Spectral Surge (Halloween Event)</b></p>
                     <p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
                     <br/>
@@ -831,6 +843,202 @@
         <div class="shlisting">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2021 Events</a></b></p>
             <div class="category autohide">
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium (Sep 23 - Sep 30, 2021)</a></b></p>
+                    <div class="autohide">
+						<p>The Idillium event will be starting on <b>Sep 23rd 2021, 12:01 PM UTC</b> and will end on <b>Sep 30th 2021, 6:59 PM UTC</b>.</p>
+                        <p>The event will feature three Resources, <b>Crystal Prisms</b>, <b>Entropic Drops</b> and <b>Equilibrium Fragments</b>, They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 16 hours, up to 960.</p>
+                        <p>Being aligned with an elite faction will double the speed a resource is gained.</p>
+                        <p>You need 2814 resources of each (8442 total) to complete all quests.</p>
+                        <p>Total time needed 5 days 20 hours and 42 minutes without elite factions or scrying.</p>
+                        <p>Which prism appears depends on what faction you are aligned with:</p>
+                        <p>As Fairy, Demon or Faceless, Entropic Drop appears.</p>
+                        <p>As Elf, Goblin or Druid, Equilibrium Fragment appears.</p>
+                        <p>As Angel, Undead or Titan, Crystal Prism appears.</p>
+                        <p>As factionless or Mercenary, all three will appear.</p>
+                        <p>As Factionless or Mercenary you can collect any of the three. By collecting one, the others will disappear.</p>
+                        <style>
+                            div#images {
+                                width: 100%;
+                                text-align: left;
+                            }
+
+                            div#images div {
+                                display: inline-block;
+                            }
+                        </style>
+                        <br>
+                        <p><b><center>Event Resources</center></b></p>
+                        <br>
+                        <div id="images">
+                            <center>
+                                <div>
+                                    <center><img src="/realm/Factions/picks/CrystalPrismCurrency.png" width="54%" height="54%" /></center>
+                                    <center><b>Crystal Prism</b></center>
+                                </div>
+                                &nbsp&nbsp&nbsp&nbsp&nbsp
+                                <div>
+                                    <center><img src="/realm/Factions/picks/EntropicDropCurrency.png" width="54%" height="54%" /></center>
+                                    <center><b>Entropic Drop</b></center>
+                                </div>
+                                &nbsp
+                                <div>
+                                    <center><img src="/realm/Factions/picks/EquilibriumFragmentCurrency.png" width="34%" height="34%" /></center>
+                                    <center><b>Equilibrium Fragment</b></center>
+                                </div>
+                            </center>
+                        </div>
+                        <hr>
+                        <p><b>Event Upgrades</b></p>
+                        <p><img src="/realm/Factions/picks/BrokenMirror.png" align="middle"> <b>Broken Mirror</b></p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Idillium Resources collected.</p>
+                        <p><b>Formula</b>: ((1 + 0.0035 * ((x + y + z) / 3)) * [(1 + min(1.6 * (x / 25) - 0.002 * (x / 25) ^ 2 + 0.000024 * (x / 25) ^ 3,12500)) * (repeat, replace x with y and z)] ^ 0.4), where x is Crystal Prisms (Order), y is Entropic Drops (Chaos), z is Equilibrium Fragments (Balance)</p>
+                        <br>
+                        <p><b>Remnants</b></p>
+                        <p><b>Cost to Upgrade</b>: floor((13 * x + 1) ^ 1.15) Prisms, where x is remnant level.</p>
+                        <p><b>Level 5</b>: Perk 1: total cost: 230 Prisms.</p>
+                        <p><b>Level 10</b>: Perk 2: total cost: 1138 Prisms.</p>
+                        <p><b>Level 15</b>: Perk 3: total cost: 2814 Prisms.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/OrderRemnant.png" align="middle"> <b>Order Remnant</b></p>
+                        <p><b>Requirement to Collect</b>: Angels, Undead, Titans, Mercenary or factionless.</p>
+                        <p><b>Effect</b>: Increase the production of all buildings based on Remnant level. Does not suffer Ascension penalties.</p>
+                        <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/ChaosRemnant.png" align="middle"> <b>Chaos Remnant</b></p>
+                        <p><b>Requirement to Collect</b>: Fairies, Demon, Faceless, Mercenary or factionless.</p>
+                        <p><b>Effect</b>: Increases Assistants based on remnant level.</p>
+                        <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/BalanceRemnant.png" align="middle"> <b>Balance Remnant</b></p>
+                        <p><b>Requirement to Collect</b>: Elves, Goblins, Druids, Mercenary or factionless.</p>
+                        <p><b>Effect</b>: Increases Faction Coin Find Chance based on remnant level.(multiplicative)</p>
+                        <p><b>Formula</b>: (x + 10 * 1.1 ^ (10 + x)), where x is remnant level.</p>
+                        <hr>
+                        <p><b>Quest</b></p>
+                        <p><b>Note</b>: Completing all Quest will increase your Cumulative Event bonus by an additional 12%.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/OrderRestoration1.png" align="middle"> <b>Order Restoration 1</b></p>
+                        <p><b>Requirement</b>: Order Remnant level 5.</p>
+                        <p><b>Effect</b>: Unlocks Order Remnant Perk 1.</p>
+                        <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/OrderRemnantPerk1.png" align="middle"> <b>Order Remnant Perk 1</b></p>
+                        <p><b>Effect</b>: Increases all spells duration and reduce all spells cost by 10%.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/OrderRestoration2.png" align="middle"> <b>Order Restoration 2</b></p>
+                        <p><b>Requirement</b>: Order Remnant level 10.</p>
+                        <p><b>Effect</b>: Unlocks Order Remnant Perk 2.</p>
+                        <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/OrderRemnantPerk2.png" align="middle"> <b>Order Remnant Perk 2</b></p>
+                        <p><b>Effect</b>: Grants Temporal Flux spell with a cost of 1000 mana.</p>
+                        <p><img src="/realm/Factions/picks/TemporalFlux1000.png" align="middle"></p>
+                        <p><b>Effect</b>: Increase Unique building production based on time spent in this game.</p>
+                        <p><b>Effect</b>: Also multiplicatively increase Mana Regeneration based on time spent in this game.</p>
+						<p><b>Formula</b>: (3.5 * (x / 60) ^ 0.825)%, where x is time spent in this game this game.</p>
+                        <p><b>Note</b>: Temporal Flux obtained this way cannot be tiered.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/OrderRestoration3.png" align="middle"> <b>Order Restoration 3</b></p>
+                        <p><b>Requirement</b>: Order Remnant level 15.</p>
+                        <p><b>Effect</b>: Unlocks Order Remnant Perk 3.</p>
+                        <p><b>Effect</b>: Adds 2% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/OrderRemnantPerk3.png" align="middle"> <b>Order Remnant Perk 3</b></p>
+                        <p><b>Effect</b>: Increases Maximum Mana by 25%.</p>
+                        <hr>
+                        <p><img src="/realm/Factions/picks/ChaosRestoration1.png" align="middle"> <b>Chaos Restoration 1</b></p>
+                        <p><b>Requirement</b>: Chaos Remnant level 5.</p>
+                        <p><b>Effect</b>: Unlocks Chaos Remnant Perk 1.</p>
+                        <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/ChaosRemnantPerk1.png" align="middle"> <b>Chaos Remnant Perk 1</b></p>
+                        <p><b>Effect</b>: Increases Production Bonus from Gems by 18%.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/ChaosRestoration2.png" align="middle"> <b>Chaos Restoration 2</b></p>
+                        <p><b>Requirement</b>: Chaos Remnant level 10.</p>
+                        <p><b>Effect</b>: Unlocks Chaos Remnant Perk 2.</p>
+                        <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/ChaosRemnantPerk2.png" align="middle"> <b>Chaos Remnant Perk 2</b></p>
+                        <p><b>Effect</b>: Grants Maelstrom spell with a cost of 1000 mana.</p>
+                        <p><img src="/realm/Factions/picks/Maelstrom1000.png" align="middle"></p>
+                        <p><b>Effect</b>: Increase the production of three random buildings based on one of these stats in this game, chosen at random: mana produced, trophies unlocked, Faction Coins found or amount of assistants.</p>
+                        <p><b>Formulas</b></p>
+                        <p><b>Mana</b>: (0.02 * (log10(1 + x)) ^ 5)%, where x is mana produced this game.</p>
+                        <p><b>Trophy</b>: Formula (2.5 * x ^ 0.9)%, where x is trophies unlocked.</p>
+                        <p><b>Faction Coins</b>: (0.01 * (log10(1 + x)) ^ 4)%, where x is faction coins found this game.</p>
+                        <p><b>Assistants</b>: (0.25 * (log10(1 + x)) ^ 5)%, where x is amount of assistants.</p>
+                        <p><b>Note</b>: Maelstrom obtained this way cannot be tiered.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/ChaosRestoration3.png" align="middle"> <b>Chaos Restoration 3</b></p>
+                        <p><b>Requirement</b>: Chaos Remnant level 15.</p>
+                        <p><b>Effect</b>: Unlocks Chaos Remnant Perk 3.</p>
+                        <p><b>Effect</b>: Adds 2% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/ChaosRemnantPerk3.png" align="middle"> <b>Chaos Remnant Perk 3</b></p>
+                        <p><b>Effect</b>: Increases Mana Regeneration by 50%.</p>
+                        <hr>
+                        <p><img src="/realm/Factions/picks/BalanceRestoration1.png" align="middle"> <b>Balance Restoration 1</b></p>
+                        <p><b>Requirement</b>: Balance Remnant level 5.</p>
+                        <p><b>Effect</b>: Unlocks Balance Remnant Perk 1.</p>
+                        <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/BalanceRemnantPerk1.png" align="middle"> <b>Balance Remnant Perk 1</b></p>
+                        <p><b>Effect</b>: Increases Tax Collection worth by 30 seconds.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/BalanceRestoration2.png" align="middle"> <b>Balance Restoration 2</b></p>
+                        <p><b>Requirement</b>: Balance Remnant level 10.</p>
+                        <p><b>Effect</b>: Unlocks Balance Remnant Perk 2.</p>
+                        <p><b>Effect</b>: Adds 1% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/BalanceRemnantPerk2.png" align="middle"> <b>Balance Remnant Perk 2</b></p>
+                        <p><b>Effect</b>: Grants All Creation spell with a cost of 1000 mana.</p>
+                        <p><img src="/realm/Factions/picks/AllCreation1000.png" align="middle"></p>
+                        <p><b>Effect</b>: Increase production of all buildings based on your Mana Regeneration.</p>
+                        <p><b>Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is your Mana Regeneration.</p>						
+                        <p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your Mana Regeneration.</p>
+                        <p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5 + 15 * x ^ 0.15)%, where x is your Mana Regeneration.</p>
+                        <p><b>Note</b>: All Creation obtained this way cannot be tiered.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/BalanceRestoration3.png" align="middle"> <b>Balance Restoration 3</b></p>
+                        <p><b>Requirement</b>: Balance Remnant level 15.</p>
+                        <p><b>Effect</b>: Unlocks Balance Remnant Perk 3.</p>
+                        <p><b>Effect</b>: Adds 2% to your Cumulative Event bonus.</p>
+                        <p><img src="/realm/Factions/picks/BalanceRemnantPerk3.png" align="middle"> <b>Balance Remnant Perk 3</b></p>
+                        <p><b>Effect</b>: Increases Royal Exchange Bonus by 20% (Additive).</p>
+                        <hr>
+                        <p><b>Feats</b></p>
+                        <p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/GentleCollector.png" align="middle"> <b>Gentle Collector</b></p>
+                        <p><b>Requirement</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/AggressiveCollector.png" align="middle"> <b>Aggressive Collector</b></p>
+                        <p><b>Requirement</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/GoldenAge.png" align="middle"> <b>Golden Age</b></p>
+                        <p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/OrderRestoration.png" align="middle"> <b>Order Restoration</b></p>
+                        <p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/ChaosRestoration.png" align="middle"> <b>Chaos Restoration</b></p>
+                        <p><b>Requirement</b>: Upgrade Chaos Remnant to Level 15.</p>
+                        <br>
+                        <p><img src="/realm/Factions/picks/BalanceRestoration.png" align="middle"> <b>Balance Restoration</b></p>
+                        <p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
+                        <br>
+						<p><img src="/realm/Factions/picks/BalancedCollector.png" align="middle"> <b>Balanced Collector</b></p>
+                        <p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
+						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+						<br>
+						<p><img src='/realm/Factions/picks/IdilliumExplorer.png' align='middle'> <b>Idillium Explorer</b></p>
+						<p><b>Requirement</b>: Cast a Remnant spell with 6 different factions.</p>
+						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+						<p><b>Effect</b>: Reduce the cost of all spells by 10%.</p>
+						<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+                        <hr>
+                        <p><b>Shop Items</b></p>
+                        <p><img src="/realm/Factions/picks/IdilliumShop45.png" align="middle"> <b>1200 each Idillium Resource</b></p>
+                        <p><b>Cost</b>: 45 Rubies</p>
+                        <p><b>Description</b>: A shady prophet wants to sell you 1200 units of each Idillium Resource for 45 Rubies.</p>
+                        <p><b>Note</b>: You can purchase this an infinite amount of times.</p>
+                        <br/>
+                    </div>
+                </div>
 				<div class="shelementwhole">
                     <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Summer Festival (Aug 26 - Sep 2, 2021)</a></b></p>
                     <div class="autohide">
@@ -1939,11 +2147,11 @@
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Idillium (Sep 23 - Sep 30, 2020)</a></b></p>
                     <div class="autohide">
-						<p>The Idillium event will be starting on <b>Sep 23th 2020, 12:01 PM UTC</b> and will end on <b>Sep 30th 2020, 6:59 PM UTC</b>.</p>
+						<p>The Idillium event will be starting on <b>Sep 23rd 2020, 12:01 PM UTC</b> and will end on <b>Sep 30th 2020, 6:59 PM UTC</b>.</p>
                         <p>The event will feature three Resources, <b>Crystal Prisms</b>, <b>Entropic Drops</b> and <b>Equilibrium Fragments</b>, They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 16 hours, up to 960.</p>
                         <p>Being aligned with an elite faction will double the speed a resource is gained.</p>
                         <p>You need 2814 resources of each (8442 total) to complete all quests.</p>
-                        <p>Total time time needed 5 days 20 hours and 42 minutes without elite factions or scrying.</p>
+                        <p>Total time needed 5 days 20 hours and 42 minutes without elite factions or scrying.</p>
                         <p>Which prism appears depends on what faction you are aligned with:</p>
                         <p>As Fairy, Demon or Faceless, Entropic Drop appears.</p>
                         <p>As Elf, Goblin or Druid, Equilibrium Fragment appears.</p>
@@ -2103,10 +2311,6 @@
                         <p><img src="/realm/Factions/picks/GoldenAge.png" align="middle"> <b>Golden Age</b></p>
                         <p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
                         <br>
-						<p><img src="/realm/Factions/picks/BalancedCollector.png" align="middle"> <b>Balanced Collector</b></p>
-                        <p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
-						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-                        <br>
                         <p><img src="/realm/Factions/picks/OrderRestoration.png" align="middle"> <b>Order Restoration</b></p>
                         <p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
                         <br>
@@ -2115,6 +2319,10 @@
                         <br>
                         <p><img src="/realm/Factions/picks/BalanceRestoration.png" align="middle"> <b>Balance Restoration</b></p>
                         <p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
+						<br>
+                        <p><img src="/realm/Factions/picks/BalancedCollector.png" align="middle"> <b>Balanced Collector</b></p>
+                        <p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
+						<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
                         <hr>
                         <p><b>Shop Items</b></p>
                         <p><img src="/realm/Factions/picks/IdilliumShop45.png" align="middle"> <b>1200 each Idillium Resource</b></p>
@@ -3197,7 +3405,7 @@
                         <p>The event will feature three Resources, <b>Crystal Prisms</b>, <b>Entropic Drops</b> and <b>Equilibrium Fragments</b>, They will appear in a random location of the game screen at a rate of 1 per minute, you can stack them for 16 hours, up to 960.</p>
                         <p>Being aligned with an elite faction will double the speed a resource is gained.</p>
                         <p>You need 2814 resources of each (8442 total) to complete all quests.</p>
-                        <p>Total time time needed 5 days 20 hours and 42 minutes without elite factions or scrying.</p>
+                        <p>Total time needed 5 days 20 hours and 42 minutes without elite factions or scrying.</p>
                         <p>Which prism appears depends on what faction you are aligned with:</p>
                         <p>As Fairy, Demon or Faceless, Entropic Drop appears.</p>
                         <p>As Elf, Goblin or Druid, Equilibrium Fragment appears.</p>
