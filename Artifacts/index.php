@@ -30,7 +30,7 @@
 		   - A1+: (1 + (0.2 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
 		<p>Every time you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
         <p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x-1) ^ 2.75), where x is the number of excavations you have.</p>
-		<p></b>Note: Every time you reincarnate or ascend, your excavation counter will be set back to zero.</p>
+		<p><b>Note</b>: Every time you reincarnate or ascend, your excavation counter will be set back to zero.</p>
         <hr>
 		<p><b>Excavation Reset</b></p>
 		<p>To be able to do more excavations within a Reincarnation you can do an Excavation Reset, which also sets the counter back to zero. There are two options:<br>Ruby Reset and Free Reset.</p>

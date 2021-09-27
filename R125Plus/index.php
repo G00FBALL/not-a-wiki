@@ -54,7 +54,7 @@
 				<p>E25,E410,E3250,</p>
 				<p>A495,A3400,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
+				<p><b>Note</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -81,8 +81,8 @@
 				<p>E145,E410,</p>
 				<p>A50,A250,A495,</p>
 				<p>W225,W400,W560</p>
-				<p><b>Notes</b>: Takes estimated time of 15-25 minutes to buy Spiritual Surge 7 and set up the build at first few runs of an R.</p>
-				<p><b>Notes</b>: Swap E145 with E320 and C400 with C340 at 1e72 (1 Tvg) Gems or above.</p>
+				<p><b>Note</b>: Takes estimated time of 15-25 minutes to buy Spiritual Surge 7 and set up the build at first few runs of an R.</p>
+				<p><b>Note</b>: Swap E145 with E320 and C400 with C340 at 1e72 (1 Tvg) Gems or above.</p>
 			</div>
 		</div>
 	</div>
@@ -378,7 +378,7 @@
 				<p>E25,E410,E3250,</p>
 				<p>A495,A3400,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
+				<p><b>Note</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -400,8 +400,8 @@
 				<p>A50,A400,A495,</p>
 				<p>W225,W560,W1375</p>
 				<p><b>After Archon treaty</b>: S305,C340,D1375,E135,A250,W400 (Reimport build)</p>
-				<p><b>Notes</b>: Recommended buffing Excavations/Excavation Resets.</p>
-				<p><b>Notes</b>: Build is not able to buy Archon Union.</p>
+				<p><b>Note</b>: Recommended buffing Excavations/Excavation Resets.</p>
+				<p><b>Note</b>: Build is not able to buy Archon Union.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -423,8 +423,8 @@
 				<p>A50,A400,A495,</p>
 				<p>W225,W400,W560</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W180 (Reimport build)</p>
-				<p><b>Notes</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
-				<p><b>Notes</b>: Build is oriented for production and is not meant to buy Archon Union.</p>
+				<p><b>Note</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
+				<p><b>Note</b>: Build is oriented for production and is not meant to buy Archon Union.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -446,8 +446,8 @@
 				<p>A50,A400,A495,</p>
 				<p>W225,W400,W560</p>
 				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W1375 (Reimport build)</p>
-				<p><b>Notes</b>: Recommended buffing Excavations/Excavation Resets.</p>
-				<p><b>Notes</b>: Build is oriented around buying Archon Union.</p>
+				<p><b>Note</b>: Recommended buffing Excavations/Excavation Resets.</p>
+				<p><b>Note</b>: Build is oriented around buying Archon Union.</p>
 			</div>
 		</div>
 	</div>
@@ -472,7 +472,7 @@
                 <p>E135,E410,</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W400,W560</p>
-                <p><b>Notes</b>: Estimated Time to Primal Balance +10 is up to 15 minutes.</p>
+                <p><b>Note</b>: Estimated Time to Primal Balance +10 is up to 15 minutes.</p>
             </div>
         </div>
 	    <div class="shelementwhole">
@@ -518,7 +518,7 @@
 				<p>E50,E410,E460,</p>
 				<p>A30,A120,A495,</p>
 				<p>W560,W1375</p>
-				<p><b>Notes</b>: Replace S3200 with S400 if buffed (?).</p>
+				<p><b>Note</b>: Replace S3200 with S400 if buffed (?).</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -565,7 +565,7 @@
 				<p>E1,E225,E495,E590,E1325,</p>
 				<p>A10,A410,A3400,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Notes</b>: Swap D1375 with D290 at 1e73 (10 Tvg) Gems+.</p>
+				<p><b>Note</b>: Swap D1375 with D290 at 1e73 (10 Tvg) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -586,7 +586,7 @@
 				<p>E1,E225,E495,E590,E1325,</p>
 				<p>A10,A410,A3400,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Notes</b>: While A400 grows better than A3400, running this build more than a few minutes is not recommended.</p>
+				<p><b>Note</b>: While A400 grows better than A3400, running this build more than a few minutes is not recommended.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -672,7 +672,7 @@
 				<p>E10,E495,E400,E290,</p>
 				<p>A1,A175,A410,A590,A400,A120,</p>
 				<p>W50,W405,W520,W205,W525</p>
-				<p><b>Notes</b>: Swap W525 with W180 at 1e88 (10 Ocvg) Gems+.</p>
+				<p><b>Note</b>: Swap W525 with W180 at 1e88 (10 Ocvg) Gems+.</p>
 			</div>
 		</div>
 	</div>
@@ -697,7 +697,7 @@
 				<p>E50,E400,E410,</p>
 				<p>A30,A400,A495,</p>
 				<p>W560,W1375</p>
-				<p><b>Notes</b>: Cycle Maelstrom to target inns and set the correct Fairy Union buff.</p>
+				<p><b>Note</b>: Cycle Maelstrom to target inns and set the correct Fairy Union buff.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -718,7 +718,7 @@
 				<p>E25,E145,E410,</p>
 				<p>A250,A495,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: Estimated time to unlock is 10 minutes.</p>
+				<p><b>Note</b>: Estimated time to unlock is 10 minutes.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -740,7 +740,7 @@
 				<p>A1,A175,A400,A410,A590,</p>
 				<p>W50,W205,W405,W520</p>
 				<p><b>After Archon Treaty</b>: S3200,C400,D3350,E400,A120,W1375 (Reimport Build)</p>
-				<p><b>Notes</b>: Estimated time to unlock is 4 hours.</p>
+				<p><b>Note</b>: Estimated time to unlock is 4 hours.</p>
 			</div>
 		</div>
 	</div>
